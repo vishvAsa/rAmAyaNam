@@ -17,8 +17,6 @@ Seetha, on beholding Rama and Lakshmana, was absorbed in various thoughts like, 
 sooth sayers had prophesied that I should never be widowed and would bear sons. How could their
 prediction become untrue?" However, Trijata reassures her, stating good reasons for Rama and
 Lakshman to be still alive and cheering her up, takes her back to Ashoka grove.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -97,8 +95,6 @@ proved to be) liers; *raame* = (since) Rama; *hate* = has been killled.
 "The sooth sayers, reading the marks and signs on my body, prophesized that I shall
 bear sons and never be widowed. Now that Rama has been slain, their words have proved to be
 untrue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -147,8 +143,6 @@ all; *te jJNaaninaH* = those astrologers; *ye* = who; *uuchuH* = predicted;
 "Since Rama is slian, all those astrologers, who predicted that I shold be the
 companio of a sattra sacrifice and the consort of the performer of great sacrifices, now have
 proved to be utteres of falsehood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -199,8 +193,6 @@ vaadinaH* = are proved not to have spoken truly.
 
 "Now that Rama has been slain, all those sooth-sayers who predicted that I should be
 honoured by my husband as well as the wives of warriors and kings, are proved to be liars."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -248,8 +240,6 @@ openly; *uuchuH* = foretold; *shubham* = happiness; *maami* = for me;
 
 "Now that Rama has been slain, all those astrologers among the wise brahmins. Who
 openly foretold that I should remain happy with my husband are proved to have spoken falsely!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ women; *abhiSichyante* = are consecreated; *aadhiraajye* = for an empire;
 
 "Yet I bear the marks of lotus on my soles by virtue of which high-born women are
 consecrated on an imperial throne with their husbands and lords."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -348,8 +336,6 @@ signs appear to be rendered void; *aatmanaH* = for me.
 
 "I do not find those marks of ill-fortune which betoken widowhood in women who are
 ill-starred and as I examine, all the auspicious signs appear to be rendered void for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -397,8 +383,6 @@ have become; *vitathaani* = meaningless; *adya* = now; *raame* = that Rama;
 
 "Those marks of the lotus said to be good angury for women by wise men, have become
 meaningless, now that Rama is slain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -449,8 +433,6 @@ teeth; *aviralaaH* = are contiguous.
 
 "My hair is fine, black in colour and smooth. My eye-brows are disunited. My shanks
 are hair-less and well rounded. My teeth are contiguous, without any gaps between them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -498,8 +480,6 @@ glossy; *samaashcha* = and having a right length.
 
 "My temples, eyes, arms, feet, ankles and thights are homogenous and
 well-proportioned. My fingers have well-rounded and glossy nails, having a right lenght."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -542,8 +522,6 @@ well-formed.
 
 "My breasts are close to each other, fully developed and have depressed nipples. My
 navel is deeply idented. My flanks and bossom are well-formed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -597,8 +575,6 @@ limbs ( vix. the ten toes and two soles).
 "My complexion has the sheen of a pearl. The hair on my skin are soft. It is said of
 me as endowed with auspicious signs, in that I touched the ground with my twelve limbs (viz. the
 ten toes and two soles).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -642,8 +618,6 @@ the fingers and toes; *mandasnitaa* = and my smile is gentle.
 "Those who interpret the marks of youthful maidens spoke of me that my hands and
 feet are rosy, fully provided with marks each resembling a barley corn, devoid of space between my
 fingers and toes and that my smile is gentle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -696,8 +670,6 @@ proved to be in vain.
 
 "All that was told by brahmins well-versed in sooth-saying, of me that- I should be
 consecrated on the imperial throne along with my husband -proved to be in vain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -746,8 +718,6 @@ imprint of a cows hoof (a small brothers)
 "Having searched all the resorts of men, received the tidings of my fate, and
 crossed the impassable ocean, those two brothers have perishe din the imprint of a cow's hoof ( a
 small puddle)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -792,8 +762,6 @@ as also the Brahmashira weapon.
 
 "Rama and Lakshmana surely knew the use of the arrows of Varuna, Agni, Indra and
 Vayu, as also the Brahmashira weapon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -815,8 +783,6 @@ emaciated with grief; *bhR^isham* = very much; *vilalaapa* = and lamented;
 
 Seeing her husband and the mighty Lakshmana having been killed, Seetha was very much
 emaiated through grief and lamented pitiably (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -864,8 +830,6 @@ support.
 
 "By means of magic arts, an invisible foe has slain Rama and Lakshmana, my
 protectors, who are equal to Indra in battle and I am now bereft of any support."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -912,8 +876,6 @@ though; *manojavaH* = (he were endowed with) the swiftness of thought.
 
 "Having reached the range of sight of Rama in a combat, no enemy could return alive,
 eventhough he were endowed with the swiftness of thought."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -961,8 +923,6 @@ inexorable.
 
 There is no burden too heavy for death to shoulder, as Rama along with his brother
 are lying struck down on the battle-field. Fate is inexorable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1021,8 +981,6 @@ mother even; *yathaa tathaa* = by so much; *shashruum* = as my mother-iin-law;
 
 "I do not repent so much for Rama and Lakshmana or for myself or even my mother but
 for my unfortunate mother-in-law, Kausalya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1040,8 +998,6 @@ shall I see; *lakSmaNamcha* = Lakshmana; *siitaamcha* = and Seetha;
 "Kausalya for her part, forever remains absorbed in the thought 'When shall I see
 Lakshmana and Seetha with Rama returned (to Ayodhya) having completed his vow (of remaining in
 exile in the forest for fourteen years)?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1089,8 +1045,6 @@ Rama; *jiivati* = is living.
 
 The demoness Trijata spoke to that lamenting Seetha as follows : "O, the god-like
 lady! Do not despair. Your husband, Rama is still living."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1140,8 +1094,6 @@ lakSmaNau* = Rama and Lakshmana; *jiivataH* = are living.
 
 "O, godlike lady! I will tell you mighty and cogent reasons, how these two brothers
 Rama and Lakshmana are living."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1182,8 +1134,6 @@ of battle; *na bhavanti hi* = are never seized; *kopapariitaani* = by anger;
 
 "The leader having been lost, the faces of the soldiers on the field of battle are
 never seized by anger nor are they animated with joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1230,8 +1180,6 @@ if those two heroes; *gata jiivitau* = have lost their lives.
 
 "O, Seetha! This aerial car called Pushpaka by name, celestial as it is, would not
 have brought you here, if those two heroes have lost their lives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1290,8 +1238,6 @@ water.
 
 "An army that sees its valiant commander falll, is bereft of courage and wanders
 aimlessly about on the battle field, like a ship which has broken its rudder in water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1309,8 +1255,6 @@ account of my affection for you; *tapasvini* = O lady given to austerities!.
 "This army for its part is neither confused nor perturbed and is guarding Rama and
 Lakshman. I am pointing this out to you on account of my affection for you, O lady given to
 austerities!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1361,8 +1305,6 @@ on account of my affection for you.
 
 "You as such, be reassured by these auspicious omens. Behold Rama and Lakshman who
 are not dead. I am telling you this, on account of my affection for you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1409,8 +1351,6 @@ utter too now; *praviSTaa asi* = you have entered; *mam* = my; *mamaH* = mind;
 
 "O, Seetha! I have not spoken falsehood before, nor shall I ever do so. By your
 conduct and natural gaiety, you have found a place in my heart!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1461,8 +1401,6 @@ communicated; *tava* = to you; *mayaa* = by me.
 
 "Even celestials and demons along with Indra cannot vanquish there two heroes in
 battle. This is what I have observed and communicated to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1510,8 +1448,6 @@ them.
 
 "O Seetha!; See this, a great marvel !; See how, fallen under those shafts and
 deprived of their senses, thier beauty has not deserted them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1559,8 +1495,6 @@ alteration.
 
 "Generally, the faces of those who lost their lives and whose vital power has
 vanished, will be appearing with an appalling alteration".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1608,8 +1542,6 @@ not live.
 
 "O, Seetha! Banish your grief, pain and ignorance on account of Rama and Lakshmana.
 It is impossible, now with the splendour seen in their faces, for Rama and Lakshmana to die."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1657,8 +1589,6 @@ be so."
 
 Hearing her words, Seetha, the daughter of Mithila kingdom resembling a daughter of
 gods, with joined palms exclaimed, "May it be so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1708,8 +1638,6 @@ Seetha; *pravashitaa* = was caused to enter; *laN^kaameva* = Lanka once more;
 
 After sending back that aerial car, Pushpaka which was as swift as the thought, the
 sorrowful Seetha was caused by Trijata to enter Lanka once more.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1756,8 +1684,6 @@ Ashoka grove again; *raakSasiibhiH* = by the female demons.
 
 Thereafter, Seetha along with Trijata who descended from Pshpaka the aerial car,
 were caused by the female demons, to enter the Ashoka grove again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 </details>
 
@@ -1816,8 +1742,6 @@ grief.
 
 Entering that Ashoka grove, planted with a multitude of trees, sporting ground of
 Ravana and recalling the two princes who she had just seen, Seetha gave way to extreme grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

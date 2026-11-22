@@ -18,8 +18,6 @@ archers, elephants, cavalry, artisans, army and citizens and covering a long dis
 arrives at the bank of Ganga River at Sringaberapura ruled by guha and, encamping the army there,
 breaks journey for offering libations to his deceased father on the bank of the Ganaga and also to
 give rest to the retinue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ _________________
 
 Bharata rose up at day-break, mounted on excellent chariot and went quickly with a
 desire to see Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ priests; *adhiruuhya* = ascended; *rathaan* = chariots; *yuktaam* = yoked;
 
 All the ministers and priests ascended, chariots yoked with horses, resembling those
 of the sun, and went ahead of Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ dynasty.
 
 Nine thousand elephants suitably duly arranged escorted Bharata the joy of the
 Ikshvaku dynasty, on his journey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -224,8 +216,6 @@ _________________
 
 Sixty thousand chariots filled with archers, furnished with weapons of various
 kinds, followed the illustrious prince Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -272,8 +262,6 @@ who was true to his promise; jitendriyam- and who subdued his senses.
 
 A hundred thousand cavalry accompanied the moving Bharata, born in Raghu dynasty,
 who was true to his promise and who subdued his senses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -322,8 +310,6 @@ delighted as they were at the thought of the return of Rama.
 
 Kaikeyi, Sumitra and the illustrious Kausalya rode in a resplendent chariot,
 delighted as they were at the thought of Rama's return.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -371,8 +357,6 @@ delighted as they were at the thought of Rama's return.
 
 The whole body of noble men with their jubiliant hearts followed Bharata to see Rama
 again as also Lakshmana, recounting the marvelous exploits of that hero to each other saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -414,8 +398,6 @@ inflexible purpose; *raamam* = Rama; *shokanaashanam* = who banished sorrow;
 
 "When shall we see the mighty armed prince, of the hue of dark cloud, whose courage
 is unshakable, of inflexible purpose Rama, who banished sorrow from the earth?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -462,8 +444,6 @@ removed); *samudyan* = at the rising; *bhaaskaraH* = sun.
 
 "Beholding Rama, our entire sorrow will indeed be dispelled, as darkness of the
 entire earth is dispelled at the rising of the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ other; *samprahR^iSTaaH* = joyfully; *yayuH* = went along.
 
 Thus did the citizens of Ayodhya recount happily of Rama's glorious deeds, and they
 embraced each other as they went along.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -558,8 +536,6 @@ merchants; *tathaa* = and; *sarvaaH* = all; *prakR^itayaH* = common people;
 
 Those others who were held in high esteem, merchants and all common people proceeded
 merrily to join Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -658,8 +634,6 @@ perfumery, highly reputed goldsmiths, weavers of blankets and other wollen goods
 provided hot-water baths for other, physicians, distillers and vendors of spirituous liquors,
 fumigators, washer-men, tailors, chiefs of villages and hamlets, dancers with their women-folk and
 fishermen started on the journey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -676,8 +650,6 @@ Bharata.
 
 Thousands of Brahmanas, well-composed, renowned for their virtuous conduct, versed
 in sacred scriptures and riding on bullock-carts, accompanied Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -728,8 +700,6 @@ trangquilly.
 
 All of them, attired in clean and fair raiment, anointed with pure red sandal-paste,
 mounted on various kinds of vehicles, followed Bharata tranquilly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -781,8 +751,6 @@ had set out; *saanvayaat* = along with hs family; *aanayane* = to bring;
 Exceedingly pleased and cheerful, that army escorted the son of Kaikeyi- Bharta who
 was affectionate towards his brother and who had set out along with his family to bring his
 brother, Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -854,8 +822,6 @@ Having gone for a considerable distance in their chariots, carts, horses and
 elephants, they reached the River Ganga close to the city of Shringaberapura, where the valiant
 Guha, a bosom friend of Rama along with multitude of relatives was ruling that region
 carefully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -906,8 +872,6 @@ looking beautiful as it was with Charka* birds and stopped there.
 **टिप्पनी**
 
 Chakra bird: zoological name= Anas casarca.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -958,8 +922,6 @@ the ministers (as follows):
 
 Seeing the army behind, which accompanied him and the River Ganga in front with its
 propitious waters, Bharata who was skillful in words, spoke to all his officers (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -1006,8 +968,6 @@ shall cross; *nadiim* = the river; *shvaH* = tomorrow.
 
 "It is my will that my army should take rest by all means. When they are refreshed
 we shall cross the river tomorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -1055,8 +1015,6 @@ death; *mahiipateH* = of the king; *svargatasya* = who has gone to heaven.
 "Meanwhile, descending into the river, I desire to make offering of the sacred water
 as libation for the infinite spirit relating to the state after death, to the king Dasaratha who
 has gone to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -1104,8 +1062,6 @@ with his pleasure.
 
 Hearing these words from Bharata, the officers attentively answered, "Be it so" and
 each of them encamped their respective forces in accord with his pleasure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 </details>
 
@@ -1162,8 +1118,6 @@ surrounding equipment (like tents; furnishings etc); *gaN^gaam anu* = along Gang
 Having meticulously arranged for encampment of the army which looked lovely along
 Ganga that great river with the surrounding equipment (like tunts, furnishings etc), Bharata halted
 then, reflecting as to how to bring back the magnanimous Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

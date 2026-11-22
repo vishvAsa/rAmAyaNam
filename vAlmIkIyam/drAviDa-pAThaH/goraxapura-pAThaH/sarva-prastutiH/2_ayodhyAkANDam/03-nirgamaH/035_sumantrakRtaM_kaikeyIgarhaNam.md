@@ -115,8 +115,6 @@ hand, grinding his teeth, turning his eyes red with anger shedding his normal co
 with wrath, suddenly getting the evil grief, carefully reading Dasaratha's mind, sumantra the
 charioteer spoke(as follows) as though shaking Kaikeyi's heart with sharp arrows, in the form of
 thunderbolting words speedily peircing all her vitals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -168,8 +166,6 @@ anything; *akaaryatamam* = which is most disgraceful.
 "There is nothing on earth, anything which is most disgraceful for you by whom your
 husband king Dasaratha the supporter of the entire creation the unmoving and the moving, is
 betrayed, Oh, Kaikeyi!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -216,8 +212,6 @@ husband) ajayyam = who is unconquerable; *mahendramiva* = as great Indra;
 "King Dasaratha is unconquerable as great Indra, unshakable as mountain and
 imperturbable as a great ocean. By tormenting him with your actions, you are considered by me as
 murderess of your husband and ultimately the exterminator of your race too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -260,8 +254,6 @@ will; *vishishhyate* = is superior; *putrakotyaaH* = to ten million sons.
 
 "Do not despise Dasaratha the supporter, the bestower of boons and your husband. For
 women, will of the husband is superior to that of ten million sons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -310,8 +302,6 @@ ikshhvaakukulanaathe* = in this lord Ikshvaku dynasty; Rama.
 
 "After death of a king, kingdoms are obtained as per the age of the princes. But,
 you want to deprive this condition in the case of Rama the lord of Ikshvaku dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -361,8 +351,6 @@ you want to deprive this condition in the case of Rama the lord of Ikshvaku dyna
 
 "Let your son Bharata become the king and rule the earth. wherever Rama goes, we (on
 our part) shall go there".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -414,8 +402,6 @@ you; *chikiirshhasi* = want to do; *taadR^isham* = such; *karma* = act;
 
 "Now any brahmana cannot indeed dwell in your kigdom as now you want to do such an
 act, transgressing the due limits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -473,8 +459,6 @@ followed by Rama; *devi* = Oh queen Kaikeyi! yaa = which you; *sadaa* = forever;
 "Certainly, all of us will proceed in the path followed by Rama. Oh, queen Kaikeyi!
 What pleasure will be derived through attainment of soverignity, when your relatives, all brahmanas
 and pious souls desert you forever? Now, you want to do such an act of impropriety"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -521,8 +505,6 @@ act; *pashyaami* = I am looking; *aashcharyamiva* = with only surprise;
 
 "I am looking only with surprise, why the earth is not immediately rent asunder,
 while you conduct yourself with such an act"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -572,8 +554,6 @@ Rama to exile.
 
 "It is also surprising me why rods of reproaching words fiery and fearful to look at
 uttered by great brahmana sages are not killing you, who are bent on sending Rama to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -625,8 +605,6 @@ this neem tree; *payasaa* = sweet; *asya* = to him.
 
 "Who will nurture a neem tree, cutting down a mango tree with an axe? And a neem
 tree will not turn sweet for him who nourishes it with milk."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -675,8 +653,6 @@ does not ooze surely; *nimbaat* = from a neem tree."
 
 "I think, by birth your nature is as exactly as that of your mother. a proverb is
 quoted in the world saying that honey does not ooze from a neem tree."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -752,8 +728,6 @@ sub-human species; *viditam* = could be known.
 Someone capable of giving boons, granted a great boon to your father. By that boon he could
 identify the language of all created beings. The talk of those beings belonging to sub human
 species could be known by him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -802,8 +776,6 @@ species could be known by him."
 
 "From the sound of an ant called Jrimbha near his bed, the meaning of that sound was
 deciphered by your exceedingly brilliant father and he laughed over it repeatedly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -854,8 +826,6 @@ laugh.
 Your mother, becoming angry over his laugh, wishing even to hand him to death(in
 case he refuses to disclose the reason for his laughter), spoke thus: "Oh king, the gentle sir! I
 want to know the meaning of your laughter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -906,8 +876,6 @@ me; *sadyaH* = immediately; *tataH* = thereafter; *na* = there is no;
 "The king replied to that queen as follows: "Oh, royal lady! If I tell you the
 reason of my laughter, my death will immediately follow thereafter. There is no doubt about
 it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -956,8 +924,6 @@ father(thus); *jiiva vaa* = either live; *maavaa* = or die; *shamsa* = tell;
 
 "Your mother then said to your father, the king of Kekayas, Live or die as you will.
 tell me the laughter. Do not ridicule me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1006,8 +972,6 @@ bestower of boon; *tattvataH* = correctly; *tam artham* = that matter.
 
 Having been spoken thus by his beloved consort, the said king of the Kekayas on his
 part correctly reported the matter to the sage who had bestowed the boon on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1057,8 +1021,6 @@ course.
 
 Then the sage who had bestowed the boon replied to the king as follows: "Oh, lord of
 the earth! Let her die or ruin. Do not reveal the reason to her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1101,8 +1063,6 @@ lived happily; *kuberavat* = like Kubera; the lord of riches.
 
 "Having heard the words of that sage who was pure-minded, the king repudiated your
 mother and lived happily like Kubera the Lord of riches."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1151,8 +1111,6 @@ this; *asadgraaham* = bad resolution; *mohaat* = by igonorance.
 
 "Oh, Kaikeyi, seeing evil everywhere! You, too, thus following the path trodden by
 wicked men, are making this bad resolution by ignorance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1205,8 +1163,6 @@ are born; conforming; *pitR^iin* = to their fathers; *aNganaaH* = females;
 
 "The popular saying that males are born confirming to their fathers and females to
 their mothers, occurs to me as true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1256,8 +1212,6 @@ desire; *bhartuH* = of your husband; *bhava* = be; *gatiH* = a protectress;
 
 Do not conform to the traits of your mother. Understand that which is said by the
 king. following the desire of your husband, be a protectress to these people here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1305,8 +1259,6 @@ is a protector of this world.
 "Incitedby the evil minded, do not put before the public an improper course of
 conduct of your husband who spendour is equal to that of king Devendra and who is a protector of
 this world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1349,8 +1301,6 @@ the lotus-eyed man; *raajaa* = the king; *nakarishhyati hi* = cannot indeed make
 
 "Oh, Kaikeyi! Dasaratha the faultless man, the majesty, the lotus-eyed man and the
 king cannot indeed belie the promise given to you(Hence, you alone has to change your opinion)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1401,8 +1351,6 @@ throne(of Ayodhya).
 "Let Rama the eldest(of the sons) who is generous strong skilled, capable of
 protecting his own duty as Kshatriya but also of protecting the world of living beings, be
 installed on the throne of Ayodhya"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1455,8 +1403,6 @@ accusation; *charishhyati* = will surely roam; *te* = about you;
 
 "Oh, Kaikeyi! A great accusation will surely roam about you in the world, if Rama
 leaving his royal father goes to the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1506,8 +1452,6 @@ excellent city; *te* = of yours; *anyaH* = other; *raamavaat* = then Rama;
 
 "Let Rama of that character protect this kingdom! Be you free from distress. There
 is none other than Rama living in your excellent city who is competent to rule this Ayodhya"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1552,8 +1496,6 @@ vR^ittam* = the conduct of his forebears.
 "In the event of Rama being installe din the office of the prince Regent, King
 Dasaratha wielder of the great bow will surely have recourse to the forest, cherishly recollecting
 the conduct of his forebears"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 </details>
 
@@ -1611,8 +1553,6 @@ the conduct of his forebears"
 
 Thus, Sumantra repeatedly with joint palms, caused a shaking to Kaikeyi in the royal
 assmebly, by his kind words as well as bitter words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1628,8 +1568,6 @@ not get excted; *na pariduuyatesma* = was not reapented in her heart; *na lakshh
 
 That queen Kaikeyi, however, was neither excited nor repented in her heart nor was
 any change observed in the colour of her face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

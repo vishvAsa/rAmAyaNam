@@ -16,8 +16,6 @@ V : Sundara Kanda - Book Of Beauty**
 
 Hanuma sees the denizens of city of Lanka rendered beautiful by the glorious moon,
 Hanuma also become anxious had not become to able to find Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -83,8 +81,6 @@ Hanuma ; *dadarsha* = saw; *bhaanuvantam* = the moon; *divi* = in the sky;
 Thereafter that intellectual Hanuma saw the moon in the sky shining with rays,
 obtaining the middle portion of sky. Spreading a great quantity of moon shine, moon looked like a
 bull in heat among cows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -130,8 +126,6 @@ to shine; *sarvaaNibhuutaani* = all the living beings.
 
 After that Hanuma saw the moon coming up destroying the sins of the world, causing
 the great ocean to grow and causing all living beings to shine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ beautiful moon.
 
 What ever splendour shines over Mount Mandara on earth, on the ocean during
 evenings, over the lotuses in the waters, the same splendour shone on the beautiful moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -238,8 +230,6 @@ elephant; *tathaa* = in the same way; *ambarasthaH* = in the sky;
 
 Like a swan in a silver cage, like a lion in the cave of Mount Mandara, like a
 warrior on a proud elephant, in the same way the moon shone in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -298,8 +288,6 @@ great mountain; *svetaH* = white in colour; *vuchhasR^igaH* = with tall summits;
 
 The full moon with its horn like spot shone like a sharp horned standing ox with a
 high hump, like a great white mountain with tall summits, like an elephant with golden tusks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -354,8 +342,6 @@ brilliantly.
 The Divine moon who lost the stain of cold water and frost, with lost stain due to
 eclipse by the great planet sun, one who has a calm spot which is an abode of brilliant splendour,
 with a symbol of hare, shone brilliantly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -411,8 +397,6 @@ way; *prakaashaH* = the clear; *candraH* = moon; *viraraaja* = shone.
 In whatever way a lion obtaining a level surfaced rock (shines), in whatever way
 best elephant obtaining a great battle(shines), in whatever way a king obtaining kingdom(shines),
 in the same way the clear moon shone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -467,8 +451,6 @@ their lover is wiped away; *svargaprakaashaH* = became with a heavenly glow.
 The Divine evening with lost stain due to rise of shining moon, with the stain due
 to meal of flesh eating rakshasas, and in which the bitterness of mind of young women and their
 lovers is wiped away, became with a heavenly glow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -529,8 +511,6 @@ strange character; *pravR^ittaah* = started; *vihartum* = to roam.
 Musical notes from stringed instruments which were comforting to ears started. Women
 with good character were sleeping with husbands and also rakshasas with extremely strange character
 started to roam.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -585,8 +565,6 @@ started to roam.
 That Hanuma the courageous one, the intellectual one, saw houses with people in
 heat, houses filled with people, full chariots, horses, elephants and best furniture and also full
 of wealth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -640,8 +618,6 @@ being intoxicated.
 
 Hanuma saw rakshasas railing a lot at one another moving their heavy shoulders,
 throwing wild and incoherent words a lot, insulting one another being intoxicated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -695,8 +671,6 @@ chaapaani* = their strong bows.
 
 (Hanuma saw) rakshasas who smote breast, those who threw limbs on women, those who
 were spreading their strange forms sporting their strong bows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -757,8 +731,6 @@ way; *suruupavraHcha* = some women with good appearance; *hasantyaH* = were smil
 Hanuma saw some women applying sandal paste on their bodies and also some other
 women sleeping there, in the same way some women with good appearance were smiling, and some other
 women were sighing in anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -818,8 +790,6 @@ sighs; *bhujaN^gairiva* = like serpents in a lake; *nisvasadbhiH* = hissing.
 Hanuma saw (the city of Lanka that) shone with great elephants making sound and also
 with gentlemen well respected, shone with warriors in a wresting bout, with long sighs, like
 serpents in a lake hissing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -866,8 +836,6 @@ important people to the world; *naanaavidhaanaan* = who had various ways;
 Hanuma saw Yatudhanaas who were intellectuals, who were good talkers, who had good
 devotion, important people to the world, who had various ways, and people who had beautiful names
 in that city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -930,8 +898,6 @@ That Hanuma seeing people with good appearance, who had various good virtues, th
 who were according to their character, those who were radiant, all those - became happy. Then that
 Hanuma saw those who had horrific appearance, those who were according to their appearance - some
 of those too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -992,8 +958,6 @@ with good effect.
 Hanuma saw thereafter there, their women - those who were eligible for distinction,
 those who were of great skill with an interested heart in lovers and in drinks and those who were
 like stars with good effect.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -1054,8 +1018,6 @@ flowers; *vihaN^gaH* = like birds.
 Hanuma saw some women who were brilliant with radiance, adorned a lot with
 bashfulness, those who were hugged by lovers in the middle of night, those who were hugged with
 great pleasure, those who were hugged by flowers like birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -1108,8 +1070,6 @@ dear to their husbands(some other women); *dharmaparaaH* = interested in virtuou
 The intellectual Hanuma saw some other women there comfortably sitting on the laps
 of their lovers, at the top of their buildings, dear to their husbands and (some other women)
 interested in virtuous deeds, and some possessed by the lord of love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -1170,8 +1130,6 @@ bodies; *kaantaprahiiNaaH* = lacking lovers.
 Hanuma saw women with golden complexion lacking clothes, women with a complexion of
 refined gold suitable for mating and some other women also with the colour of moon and some other
 women with beautiful bodies lacking a lover.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -1232,8 +1190,6 @@ with great beauty; *raamaaH* = and women; *hR^ishhTaaH* = filled with happiness;
 Thereafter that Vanara warrior saw those with great happiness, those who obtained
 lovers who entertained, those who attracted like flowers, those with great beauty and women in
 their houses filled with happiness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -1292,8 +1248,6 @@ lighting.
 
 Hanuma saw rows of faces shining like the moon, beautiful rows of eyes with curved
 eyebrows and rows of ornaments like beautiful rows of lighting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -1349,8 +1303,6 @@ mind(of creator).
 Hanuma did not see Seetha, one with great beauty born in a royal family following a
 virtuous path, well brought up, like a creeper in full blossom, one who was thin, and one who was
 born from the mind (of creator).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 </details>
 
@@ -1439,8 +1391,6 @@ possessed by the love for Sri Rama; *anupravishhTaam* = who entered; *shrrimatma
 Hanuma did not see that Seetha who stood in the path of ancient righteousness with
 Her sight on Sri Rama, who was possessed by the love for Sri Rama, who entered the glorious mind of
 husband and always the best among women who were the best.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1465,8 +1415,6 @@ Hanuma did not see Seetha, tortured by separation from Sri Rama, with unaboundin
 tears in her throat, in earlier times who had invaluable and best jewellery on her neck, born with
 beautiful eyebrows, with a sweet voice, like a she- hen who did not dance in a forest because of
 Her current sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1489,8 +1437,6 @@ Her current sorrow.
 Hanuma did not see Seetha who was like a crescent with a blurred outline, like a
 streek of gold coated by dust, like an arrow in an injury, like a series of clouds scattered by
 wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1513,8 +1459,6 @@ the lord of all humans.
 
 Hanuma became a numb minded one for sometime, stricken with grief not seeing for a
 moment Seetha, wife of Sri Rama the best among those who talk, and the lord of all humans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

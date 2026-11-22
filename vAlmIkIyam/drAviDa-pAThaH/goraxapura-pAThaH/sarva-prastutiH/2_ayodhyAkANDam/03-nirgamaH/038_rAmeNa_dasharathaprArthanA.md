@@ -59,8 +59,6 @@ by her husband; *vasaanaayaam* = is wearing; *chiiram* = bark of trees;
 
 On seeing Seetha wearing bark of trees like a helpless woman, eventhough protected
 by her husband all the people there loudly cried out: "Fie upon you, Dasaratha!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -113,8 +111,6 @@ by her husband all the people there loudly cried out: "Fie upon you, Dasaratha!"
 
 Pained by that loud cry there, King Dasaratha lost interest in his life, religious
 merit and esteem.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -131,8 +127,6 @@ made of Kusa grass"
 
 Dasaratha with a warm sigh, spoke to his wife these words. "Oh, Kaikeyi! Seetha does
 not deserve to go with a robe made of Kusa grass."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ says; *iti* = that; *iyam* = this Seetha; *sukumaariicha* = who is delicate;
 
 "My preceptro truly says that Seetha, who is delicate young and ever habituated to
 comforts, is not fit for forest-life"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -230,8 +222,6 @@ harm; *kasya* = to any one?
 "has this pitiable daughter of Janaka, the jewel of kings, done any harm to any one
 that, having obtained a bark of tree she is standing like a hermitess dumbfounded in the midst of
 men?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -292,8 +282,6 @@ valuable possessions.
 "Seetha the daughter of Janaka need not wear these barks of trees. No such pledge
 was given be me earlier. hence, let this prinecess go to the forest happily fully provided ewith
 all valuable possesssions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -355,8 +343,6 @@ bamboo.
 "A Cruel pledge has been made on oath by me, who do not deserve to survive. This
 (providing robes of hermitess to Seetha) has been initiated by you by sheer childishness. That will
 consume me, as by its own flower to a bamboo."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 
 <details><summary>jaTAyu-blr - comment</summary>
@@ -438,8 +424,6 @@ by Seetha?"
 
 "Oh evil woman! (Even) supposing a little offence is done by Rama to you, what harm
 was displayed to you here by Seetha? Oh, mean woman!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -486,8 +470,6 @@ utphullanayanaa = who has blooming eyes; *mR^igiiva* = like those of a female de
 
 "What harm on earth can be done to you by Seetha, who has blooming eyes like those
 of a female deer, soft in disposition a practiser of penance?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -538,8 +520,6 @@ enough; *kim* = what use; *te* = for you; *bhuuyaH* = further;
 
 "Oh, the evil woman! Sending Rama to exile thus indeed is enough for you. What use
 is there for you in further doing these wretched, sinful acts too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -587,8 +567,6 @@ is there for you in further doing these wretched, sinful acts too.
 
 "Hearing the speech you gave to Rama who came here for coronation, only that much
 was acceded by me, Oh queen!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -629,8 +607,6 @@ Seetha also; *chiira vaasiniim* = clad in bark of trees.
 
 "Transgressing all that, you somehow or other wish to go to hell, by perceiving
 Seetha also clad in bark of trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -682,8 +658,6 @@ having been hurt very mcuh.
 That high-souled king thus lamenting, did not see any ending to that sorrow.
 Drenched as he was in excessive devotion to his son and having been hurt vey much, he fell down on
 the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -736,8 +710,6 @@ the ground.
 
 Rama, who was setting out to the forest, spoke these words to his father, who was
 speaking thus bowing down his head, sitting there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -753,8 +725,6 @@ the glorious woman; *vR^iddhaa* = is aged; *akshhudra shiilaacha* = not base nat
 
 "Oh, virtuous king! This glorious Kausalya, my mother is aged. She is not of base
 nature and will not accuse you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -802,8 +772,6 @@ earlier.
 
 "Oh, the bestower of boons! You are worthy of amply respection her, who is deprived
 of me, who is immersed in an ocean of sorrow and who has not see such an affliction earlier."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 </details>
 
@@ -855,8 +823,6 @@ grief for her son; *samchintayantii* = thinking; *maamhi* = of me alone;
 
 "Having been honoured by you the venerable man, she the pitiable woman will not get
 such a grief for her son, thinking of me alone and she will draw breath in you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

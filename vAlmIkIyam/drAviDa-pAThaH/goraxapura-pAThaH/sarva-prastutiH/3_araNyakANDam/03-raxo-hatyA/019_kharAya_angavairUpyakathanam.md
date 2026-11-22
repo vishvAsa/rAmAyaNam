@@ -16,8 +16,6 @@ title_english = "019 Surpanakha s reporting to her brother Khara"
 Shuurpanakha narrates her woeful story to her brother Khara ncriminating Seetha in particular. She wants
 Khara to wage a war so that she could drink Seetha's blood. Khara in order to appease his sister sends
 fourteen demons to eliminate Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ fourteen demons to eliminate Rama.
 
 On seeing her who fell before him in a misshapen and blood-soaked condition, demon Khara is all stewed
 up and asked her. [3-19-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ form, disfigured; *vyaktam aakhyaahi* = clearly, tell.
 
 "Rise up, first tell me clearly putting away your flurry and fluster, who disfigured your form in this
 way. [3-19-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ viSam* = in fangs, with venom; *an aagasam* = without, offence - inoffensive; *a
 
 "Who for sport is poking his fingertip at a venomously fanged black-cobra that has chanced in his close
 proximity but slouching down inoffensively. [3-19-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -213,8 +205,6 @@ bracing; *na jaanate* = not, [he is able to] know - heedless.
 
 "Who on harrowing you is now heedless about his gulping a deadly poison, or about his foolish bracing
 the noose of Time around his own neck. [3-19-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -261,8 +251,6 @@ of, plight, you are, lead into.
 
 "You are gifted with boldness and braveness, a whimsical rover, a guise changer by your wish, a coequal
 of Terminator, but to whom you have gone and by whom you are led into this kind of plight. [3-19-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -308,8 +296,6 @@ intrepid individual; *tvaam viruupaam cakaara ha* = you, shapeless, rendered int
 
 "Who is that kind of highly intrepid warper, either from gods, or from celestials or from high-souled
 sages who indeed rendered you shapeless. [3-19-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -358,8 +344,6 @@ one, Indra, Paaka [demon] controller; *aham na hi pashyaami* = I, do not, indeed
 
 "Indeed, I do not find anyone who causes displeasure to me in this world, even among divinities including
 the thousand eyed Indra, the controller of demon Paaka. [3-19-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -408,8 +392,6 @@ niS piban saarasaH iva* = drinking to dregs, swan, as with; *jiivita antagaiH ma
 
 "Now, I will take away the lives of that miscreant with my arrows that are terminators of lives, as
 a swan would drink milk to dregs even if it is mingled in water, duly separating milk from water. [3-19-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -458,8 +440,6 @@ _________________
 
 "Whose frothy blood is it that the earth wishes to quaff when I cut off his crucial organs by my arrows
 and drop him dead in a combat. [3-19-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -506,8 +486,6 @@ body; *patra rathaaH sangataaH* = winged, chariots [birds,] pressing round; *pra
 
 "Whose body is it from which birds pressing round gladly wish to wring flesh to pieces for eating when
 I slay him in war. [3-19-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -554,8 +532,6 @@ not; *raakSasaaH na* = demons, not.
 
 "Now, when I haul him easily on the ground in a battle that villain will be unredeemable either by gods,
 celestials, evil spirits, or by demons. [3-19-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -602,8 +578,6 @@ me, to tell, apt of you.
 
 "It will be apt of you to gather your sensitivity slowly and tell me as to which miscreant attacked
 and worsted you in the forest." Thus Khara spoke to Shuurpanakha. [3-19-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -649,8 +623,6 @@ Shuurpanakha; *sa baaSpam* = with, tears; *idam vaakyam abraviit* = this, senten
 
 On hearing this kind of words of her brother, especially who is rancorous, then Shuurpanakha spoke these
 words, tearfully. [3-19-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -719,8 +691,6 @@ lakshmanau* = Rama, Lakshmana; *bhraatarau* = brothers; *aastaam* = are there.
 "Those two are in adulthood, good-looking, gentle yet greatly mighty, eyes broad like lotuses, dressed
 in jute-cloths and deerskin, subsistent on fruits and tubers, composed, sagacious and celibate, and
 they are the sons of Dasharatha, namely Rama and Lakshmana. [3-19-14,15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ demons as *maanuSau*, humans. While Khara, sending his demons to eliminate the b
 that they are just humans as at verse 22 in this chapter itself. So Shuurpanakha evasively told a lie
 to his brother that she could not distinguish between their own race and that of others. Khara for his
 part believes that neither demons nor gods can hurt his race.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -836,8 +804,6 @@ lady between those two, a ripely beauty, rich in comeliness, adorned with lots o
 She is baiting Khara with
 the beauty of Seetha. But this does not incite Khara like Ravana. She also plays the same card there
 with Ravana after the failure of this Khara and other brothers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -893,8 +859,6 @@ The escapist words may be
 observed. She is not telling that she alone went to eat away Seetha, but she is holding Seetha responsible
 for all this and she is evasive to show any action of Seetha as the cause of trouble. She is simply
 twisting the episode towards her side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -944,8 +908,6 @@ to.
 "Staying in the van of war
 I wish to drink the frothy blood of that guileful Seetha along with that of those two, Rama and Lakshmana,
 when they are killed in war. [3-19-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -994,8 +956,6 @@ matter,] be done, it shall be [fulfilled]; *aham aahave tasyaaH* = I, in war, of
 "I shall drink her blood
 and also that of those two in war, this being my prime longing let it be fulfilled by you." Thus wailed
 Shuurpanakha before her brother Khara. [3-19-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -1043,8 +1003,6 @@ upamaan* = great, mighty ones, Terminator, similar; *catur dasha raakSasaan vyaa
 
 While she is saying like
 that Khara vengefully summoned fourteen great mighty demons that are similar to the Terminator. [3-19-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -1093,8 +1051,6 @@ araNyam praviSTau* = ghastly, Dandaka, forest, got into.
 "Wielding weapons and wearing
 jute-cloths and deerskin two humans have got into ghastly forest of Dandaka along with a woman of age."
 Thus Khara is ordering the fourteen demons. [3-19-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -1143,8 +1099,6 @@ drinks.
 
 "You shall return to me only on killing those two and also that
 treacherous woman, and their blood this sister of mine will drink. [3-19-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -1202,8 +1156,6 @@ valour, quickly' *tau* to them Rama and Lakshmana; *dur vR^ittaam* Seetha of imp
 behaviour [to be followed by others]; *hatvaa; hana himsaa gatyoH* knowing her: because *hana*
 indicates 'knowing also; so you know that Seetha, meaning 'be absolved by her' *apaavartitum arhatha*
 'return, you may' to heavens, as all these demons are celestials earlier to their curse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -1258,8 +1210,6 @@ This sister of mine would like to drink my blood. So you go to
 Rama and Lakshmana and then know that Seetha, who has an impossible behaviour. And be absolved by her
 for all of our sins. And then you may return. Not to Khara but their return is to heavens. The endnote
 may please be seen. Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 </details>
 
@@ -1310,8 +1260,6 @@ as with; *tatra jagmuH* = there, went.
 
 In this way when Khara ordered those fourteen demons, they have
 gone to Panchavati along with Shuurpanakha like black-clouds glided by gales. [3-19-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga19/aranyasans19.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

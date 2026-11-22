@@ -20,8 +20,6 @@ becomes a Brahma missile and starts to emit radiation. Then, upon the prayer of
 gods and saints, Vashishta withdraws the effect of that missile. Vishvamitra on
 seeing this concludes that mere missiles are of no use and thus he embarks on a
 sublime ascesis for Brahma-hood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ missile]; *iti abraviit ca* = thus, said [challenged,] also.
 When Vashishta spoke in this way, the great-mighty Vishvamitra brandishing Fiery-missile
 challenged Vashishta saying, "withstand this, withstand this..." Thus, sage Shataananda
 continued his narration of Vishvamitra's legend. [1-56-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ spoke this sentence.
 
 That reverential sage Vashishta then upraising his Brahma-baton, which is like
 the other baton of the Terminator, spoke this sentence furiously. [1-56-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ vanity; *tava shastrasya [darpam]* = your, missile's, [vanity]; *naashayaami*
 I am staying here only, you meritless Kshatriya, you may clearly display whatever
 prowess you have, oh, Gaadhi's son Vishvamitra, I will now ruin whatever vanity
 you or your missiles have. [1-56-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -207,8 +199,6 @@ mama divyam brahmabalam pashya* = you watch my seraphic Brahma's [sagacity's] st
 "Where stands the force of belligerence when compared to the supreme force of
 sagacity, you abased Kshatriya, watch out for my strength of seraphic sagacity."
 So said Vashishta to Vishvamitra. [1-56-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -250,8 +240,6 @@ with; *brahmadaNDena shaantam* = that is silenced by Brahma's baton [of Vashisht
 With his baton of Brahma Vashishta silenced that matchless and deadly Fiery-missile
 of Gaadhi's son, namely Vishvamitra, as a deluge of water silencing a rage of fire.
 [1-56-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -305,8 +293,6 @@ through grass blade called Ishiika. [1-56-6]
 The accounts of these missiles are narrated in chapters 27, 28 of this canto Bala,
 where Vishvamitra accords these very missiles to Rama. Hence, their details are
 not reiterated here but just catalogued.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -374,8 +360,6 @@ Yawner, Intoxicator, also thus; *santaapanavilaapane* = Humidifier, Weep-inducer
 
 Vishvamitra also launched missiles named Humane, Rager, Stupefier, Hypnotiser,
 Yawner, Intoxicator, also thus Humidifier, Weep-inducer. [1-56-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -391,8 +375,6 @@ eva ca* = Rain's, lasso, even, also.
 
 He also launched the missiles called Drainer and Ripper, and the highly unconquerable
 Thunderbolt, even the lassos of Brahma, Time and Rain-gods. [1-56-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -408,8 +390,6 @@ like that; *daNDaastram atha paishaacam* = Punisher missile, then, Monster;
 
 Also missiles called Shiva, Monster, Punisher, Wrester and like that the Baffler,
 Bolter, Drier, Drencher are launched. [1-56-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -426,8 +406,6 @@ mathanam ca eva* = Blower, Stirrer, also thus; *astram hayashiraH tathaa*
 And he launched discs called the Discs of Virtue, Time and Vishnu and he also launched
 other missiles like the Blower, Stirrer and like that the missile with Horse-head.
 [1-56-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -449,8 +427,6 @@ like that; *vaidyaadharam mahaaastram ca* = Staggerer, great missile, also;
 A pair of powers are launched, namely Power of Vishnu and the Power of Rudra, like
 that the Impeller, Crowbar, and a great missile called Staggerer, and then he launched
 the lethal missile of the Time. [1-56-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -470,8 +446,6 @@ Oh, Rama, the descendent of Raghu, Vishvamitra on triggering off all these missi
 then he launched the deadly Trident, Skull and Torque missiles on Vashishta, and
 whole thing has became a spectacular display of Vishvamitra's arsenal. [1-56-12,
 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -519,8 +493,6 @@ whole thing has became a spectacular display of Vishvamitra's arsenal. [1-56-12,
 Brahma's son Vashishta defused all of those missiles just with his baton and when
 all of them are thus silenced, Gaadhi's son Vishvamitra touched off Brahma's missile.
 [1-56-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -570,8 +542,6 @@ When Vishvamitra brandished and set up Brahma missile for launching, seeing it
 all the gods keeping the Fire-god at their vanguard, godly sages, reptiles along
 with gandharva-s are perplexed, and the triad of worlds itself is perturbed. [1-56-14b,
 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -612,8 +582,6 @@ api* = that, Brahma, missile, even; *sarvam grasate* = completely, consumed.
 
 Even that deleteriously destructive Brahma's missile is completely consumed with
 the seraphic resplendence of Brahma-baton of Sage Vashishta. [1-56-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -654,8 +622,6 @@ appalling; *sudaaruNam aasiit* = it became surely petrifying.
 
 The appearance of that great-souled Vashishta became appallingly perplexing when
 he is finishing off that Brahma missile as if to surely petrify the Tri-world. [1-56-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -697,8 +663,6 @@ fumes rolling up with radiated shafts; *agneH mariicyaH* = beams [radiational be
 From all of the pits of hair of that great-souled Vashishta ramified are the raditional
 beams and those radiated shafts are rolling up with the fumes of radiation, so to
 speak. [1-56-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -747,8 +711,6 @@ yamadaNDaH iva* = as if the baton of Yama; *praajvalat*
 The baton of Brahma gripped in his hand and upraised by Vashishta is highly glowing
 as if it is the fumeless inferno of Time, and as if it is the earthly baton of Yama,
 the Terminator. [1-56-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -823,8 +785,6 @@ by you and your seraphic power, but this power of yours is equally anguishing al
 the worlds. Hence, let the worlds survive shooing away their anguish caused by your
 prowess. Oh, Brahman, be gracious, for you are the best among the best meditators...'
 So said saints to Vashishta. [1-56-20, 21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -873,8 +833,6 @@ verily out breathing - suspiring heavily; *idam abraviit* = spoke this
 When that great-resplendent Vashishta is spoken thus by saints and gods he composed
 himself, and then that estranged Vishvamitra spoke this to himself with heavy suspiration.
 [1-56-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -915,8 +873,6 @@ missiles, defused.
 
 Fie upon the might of Kshatriya, mightier is the might of Brahman's resplendence,
 only with one baton of Brahma all of my missiles are defused. [1-56-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 </details>
 
@@ -968,8 +924,6 @@ really; *[tat* = that]; *mahat tapaH samaasthaasye* = I embark on sublime ascesi
 embark on a sublime ascesis which really will be the causative factor for according
 Brahma-Sage-hood.' So thought Vishvamitra..." Thus Sage Shataananda continued his
 narration of Vishvamitra's legend. [1-56-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

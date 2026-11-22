@@ -21,8 +21,6 @@ fighting. Gates and buildings in the city are tumbled down by Rama's arrows. Rav
 and sends Kumbha and Nikumbha the sons of Kumbhakarna along with other demons to the battle. A
 terrific fighting ensure between the monkeys and the demons. All the monkeys finally surround the
 army of demons in all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ words; *hanuumantam* = to Hanuma; *viJNaapayanchaapi* = in order to inform Hanum
 
 Then, Sugreeva of great majesty, the king of monkeys spoke (the following)
 meaningful words to Hanuma, in order to inform him what they should do next.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ destroyed; *raavaNaH* = Ravana; *idaaniim* = now; *na arhati* = ought not;
 
 "Since Kumbhakarna and his four sons were killed, Ravana cannot give any defense
 now".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ quickly; *pradagdhum* = in order to burn; *raavaNaalayam* = the abode of Ravana.
 
 "Let those dexterous monkeys, possessing the strength of lions, taking torches in
 their hands, rush towards Lanka quickly, in order to set ablaze the abode of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ torches; *jagmuH* = went; *LaN^kaam abhimukhaaH* = facing towards Lanka.
 
 Then at the sunset of that awful evening, those foremost of the monkeys, went
 towards Lanka, with torches in their hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -258,8 +248,6 @@ position of guards; *sahasaa* = suddenly; *vipradudruvuH* = fled away.
 
 When the troops of monkeys, with torches in their hands, attacked Lanka on all
 sides, the diversely eyed demons who were holding the position of guards, suddenly fled away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -300,8 +288,6 @@ by-ways; *praasaadeShu* = and to the mansions.
 
 Those monkeys, feeling gladdened, threw fire to the towering gates, attics, streets,
 various byways and mansions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -342,8 +328,6 @@ fell down; *dharaNiitale* = on the ground.
 
 Then, the fire consumed thousands of houses of demons. Mansions of mountainous forms
 fell down on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -387,8 +371,6 @@ sandal wood of great value; *mauktikaaH* = pearls; *snigdhaaH maNayaH* = glossy 
 
 Aloe, excellent sandalwood of great value, pearls, glossy gems, diamonds and corals
 were burnt there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -435,8 +417,6 @@ cha* = silk; *aavikam* = blankets of sheep's wool; *vividham* = various kinds of
 
 Linen, charming silk, blankets of sheep's wool, various kinds of ram's wool, gold
 ornaments and weapons were burnt there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -488,8 +468,6 @@ for the chariots (were also burnt).
 The ornaments, saddles etc. of diverse and peculiar designs of horses, the chains
 worn round the neck of the elephants as also their girths and polished ornaments meant for the
 chariots were also burnt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -543,8 +521,6 @@ burnt).
 
 Coats of mail of the warriors, the armour of the elephants and horses, swords, bows,
 bow-strings, arrows, lances, goads and javelins were burnt there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -590,8 +566,6 @@ gems; *vividhaan* = and various kinds of; *astra samghaataan* = stores of arms.
 The fire raging on all sides burnt blankets and rugs made of the hair of animals,
 whisks made of the hair of the tails, the skins of tigers, many birds, palaces inlaid with pearls
 and gems and various kinds of stores of arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -694,8 +668,6 @@ were seized with fury against their enemy, who carried maces, pikes and swords i
 were eating and drinking too or lay fast asleep on splendid beds with their loved ones and who were
 decamping quickly to all sides, taking their sons with them, frightened and fearing up again and
 again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -749,8 +721,6 @@ profound qualities, decked in gold with moon shapes and crescent shapes, which r
 top rooms, provided all round with beautiful windows, furnished with seats coaches etc., decorated
 with gems and corals, as though touching the sky, rendered noisy with notes of herons, peacocks,
 veena the Indian lute and the jingling of ornaments as also appearing like mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -791,8 +761,6 @@ a collection of clouds; *naddhaani* = bound; *vidyudbhiH* = by lightning;
 
 Surrounded by fire, the arch-ways shone like a collection of clouds bound by
 lightning, at the end of a summer season.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -836,8 +804,6 @@ forest-fire.
 
 The houses, surrounded by fire shone like the peaks of a large mountain, ignited by
 a forest-fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -886,8 +852,6 @@ saying "ah! Alas!"
 Getting scorched in fire, beautiful women, while lying fast asleep in their
 seven-storeyed mansions, gave up all connection with their ornaments and screamed loudly, saying
 "ah! Alas!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -931,8 +895,6 @@ thunder-bolt of Indra.
 
 The houses too, surrounded by fire there, fell down like peaks of a great mountain,
 struck by the thunder-bolt of Indra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -973,8 +935,6 @@ by fire; *sarvashaH* = on all sides.
 
 Those houses, while being burnt, shone, from afar, like the peaks of Himalayas being
 consumed by fire on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1015,8 +975,6 @@ kimshukaiH iva* = like Kimshuka trees in flowering.
 
 That City of Lanka at night with its house-tops being burnt ablaze with flames,
 looked like Kimshuka trees in full bloom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1065,8 +1023,6 @@ horses too; *muktaiH* = set free; *laN^kaa* = Lanka; *babhuuva* = was;
 With their elephants let loose by the superintendents of the elephants and horses
 too set free, Lanka was like an ocean, with roaming alligators in it at the end of a
 world-cycle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1108,8 +1064,6 @@ seeing; *bhiitam* = a frightened; *gajam* = elephant; *ashvaH* = a horse;
 
 Here, seeing a horse being let loose, an elephant went back frightened. There,
 seeing a frightened elephant, a horse turned back with an alarm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1156,8 +1110,6 @@ sea; *lohitodaH* = with red waters.
 
 While Lanka was being burnt, the great ocean, with its image reflected on its
 waters, assumed like a great sea with red waters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1201,8 +1153,6 @@ at the time of terrific dissolution; *asya lokasya* = of this world.
 
 That City burnt by the monkeys, within a short time, became transformed like the
 earth burning at the time of terrific dissolution of this world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1246,8 +1196,6 @@ heard; *shata yojanam* = upto one hundred Yojanas (or eight hundred miles).
 
 The noise of the women-folk, who were burnt by fire and covered with smoke, roaring
 loudly, was heard upto one hundred Yojanas (or eight hundred miles).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1289,8 +1237,6 @@ lives).
 
 Then the monkeys, eager to fight, bounced suddenly upon the other demons, whose
 bodies had been severely burnt and who rushed out (to save their lives).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1337,8 +1283,6 @@ monkeys; *niHsvanaH cha* = and the cry; *raakShasaanaam* = of the demons;
 
 The loud noise made by the monkeys and the cry of the demons caused resounding of
 all the ten quarters, the ocean and the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1382,8 +1326,6 @@ vare dhanuShii* = of the two excellent bows.
 
 Healed of their wounds and unperplexed, both those great souled princes, Rama and
 Lakshmana seized hold of those two excellent bows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1424,8 +1366,6 @@ Lakshmana seized hold of those two excellent bows.
 
 Thereupon, Rama pulled his excellent bow, making a tumultuous twang, which struck
 terror in demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1468,8 +1408,6 @@ wrath (as at the time of the dissolution of the Universe).
 Rama, drawing his great bow, was as shining at that time as Lord Shiva (the source
 of Universe), stretching his bow, consisting of the Vedas in a great wrath (as at the time of
 dissolution of the Universe).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1519,8 +1457,6 @@ svanamcha* = and the cry; *raakShasaanaam* = of the demons.
 
 The twang of the bow-string of Rama could be heard above both of those sounds. The
 sound of the monkeys and the cry of the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1571,8 +1507,6 @@ of Rama; *trayam* = these three sounds; *vyaapa* = pervaded; *dasha dishaH* =
 
 The raised voice of the monkeys, the cry of the demons and even the twang of Rama's
 bow-string these three sounds pervaded all the ten quarters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1619,8 +1553,6 @@ tumbled down; *vishiirNam* = shattered; *bhuvi* = to the ground.
 
 By the arrows released from Rama's bow, the main gate of that City looking like a
 peak of Mount Kailasa, tumbled down, shattered, to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1662,8 +1594,6 @@ sharaan* = Rama's arrows; vimaaneShu (falling) on seven-storeyed mansions;
 
 Thereupon, seeing Rama's arrows descending on seven-storeyed mansions and other
 houses, the war-preparedness of the leaders of demons got disturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1715,8 +1645,6 @@ Destruction).
 To those demoniac leaders, who were preparing for the battle and emitting lion's
 roars, that night became a night of final dissolution (presided over by Rudra, the lord of
 destruction).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1788,8 +1716,6 @@ The monkey-chiefs were commanded by Sugreeva as follows: "O monkeys! Approaching
 nearest gate, begin to wage the war. Even though present at the scene of fighting, he among you who
 proves futile by an escape, should be overtaken and killed as he will be quality of disobeying the
 royal command."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1830,8 +1756,6 @@ paaNiShu* = with flaming torches in their hands; *krodhaH aavishat* = enraged;
 
 Seeing those monkey-chiefs, standing at the gate, with flaming torches in their
 hands, Ravana was enraged with fury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1874,8 +1798,6 @@ having a form.
 All the ten directions were distracted because of Ravana's act of disorderly
 movement of his body due to yawning and he looked like the wrath manifest in the limbs of Rudra
 appearing with a form.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1919,8 +1841,6 @@ _________________
 
 The enraged Ravana sent both Kumbha and Nimkumbha, the sons of Kumbhakarna, along
 with a multitude of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -1964,8 +1884,6 @@ the sons of Kumbhakarna; *niryayuH* = set out (for the battle).
 
 By the orders of Ravana, Yupaksha, Shonitaksha, Prajangha and Kampana along with the
 aforesaid sons of Kumbhakarna set out for the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2006,8 +1924,6 @@ itself; *naadayan* = bellowing; *simhanaadam* = a lion's roar.
 
 Ravana instructed all those mighty demons thus, "O demons! Proceed now itself,
 bellowing a lion's roar."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2054,8 +1970,6 @@ again; *niryayuH* = sallied forth; *laN^kaayaaH* = from Lanka.
 
 Incited by Ravana, the valiant demons then, wielding shining weapons and roaring
 repeatedly, sallied forth from Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2100,8 +2014,6 @@ fluorescent; *sarvasaH* = on all sides.
 
 By the gleams of ornaments worn by their own natural splendour, those demons and
 monkeys with their fires, made the sky fluorescent on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2146,8 +2058,6 @@ brilliant.
 
 The effulgence of the moon there, the light of the stars and the splendour of the
 ornaments of both the armies, while blazing, made the sky brilliant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2197,8 +2107,6 @@ the armies of monkeys and demons glitter; *sarvataH* = on all sides.
 
 The effulgence of the moon, the splendour of the ornaments and the fluorescence of
 the blazing planets made the armies of monkeys and demons glitter on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2248,8 +2156,6 @@ with their waters mingled; *shushubhe* = shone; *adhikam* = abundantly.
 
 With the flames of the half-scorched houses there, the ocean on its part with its
 agitated waves mingled with water, shone abundantly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2340,8 +2246,6 @@ hundreds of tiny bells (tied around chariots, elephants etc), the arms of its wa
 sets of gold ornaments, their axes being brandished, mighty weapons being waved about, arrows
 fitted to the bows and the whole atmosphere rendered fragrant by the abundance of sandal paste,
 garlands and wine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2392,8 +2296,6 @@ cha* = and made loud noise.
 Seeing the army of demons, which came crowded with gallant warriors, thundered like
 a huge cloud which was difficult to assail, the army of monkeys marched forth and made a loud
 noise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2434,8 +2336,6 @@ rakShasaam* = army of demons on its part; *pratyayaat* = went; *aaplutya javena*
 
 That large army of demons on its part went springing forward with all speed, towards
 the hostile army, as moths towards a flame.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2476,8 +2376,6 @@ which iron clubs and the tips of missiles being brandished through the action of
 
 The excellent army of those demons, in which iron clubs and the tips of missiles
 being brandished through the action of their arms, shone all the more brightly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2519,8 +2417,6 @@ frenzied.
 
 Thereafter, the monkeys desirous to fight there, striking the demons with trees,
 rocks and fists, jumped up as though frenzied.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2562,8 +2458,6 @@ arrow.
 
 Likewise, the demons with their terrific prowess instantly tore off the heads of
 those monkeys bouncing upon them, with sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2613,8 +2507,6 @@ fists; *shilaaprahaara bhagnaaN^gaaH* = and their limbs broken by the blows of c
 
 The demons there strolled in the streets of Lanka, with their ears bitten off with
 teeth, their skulls smashed with fists and their limbs broken by crag blows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2656,8 +2548,6 @@ battle field).
 
 Even so, some demons with terrific form struck those chiefs among the monkeys, with
 sharp swords, on all sides of the battle field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2706,8 +2596,6 @@ chewed; *dashantam* = the one who was chewing.
 One warrior killed the one who was killing another, a second one threw down the one
 throwing down another; a third one scolded another who was scolding the other one; while a fourth
 one chewed the one chewing another.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2761,8 +2649,6 @@ punaH* = yet another; *dadaamiiti* = said "I am giving"; *babhaasShire anyonyam*
 
 There, one said "Give me the blow. Another said, "He is giving". Yet another said,
 "I am giving" some talked with one another, saying "Wait. Why do you take pains?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 </details>
 
@@ -2805,8 +2691,6 @@ pikes; swords and spears used as weapons of war.
 In that very terrific war between monkeys and demons, some weapons were made futile.
 Some weapons were dug into armours. Long lances were lifted up. Fists, pikes, swords and spears
 were used as weapons of war.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga75/yuddhasans75.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

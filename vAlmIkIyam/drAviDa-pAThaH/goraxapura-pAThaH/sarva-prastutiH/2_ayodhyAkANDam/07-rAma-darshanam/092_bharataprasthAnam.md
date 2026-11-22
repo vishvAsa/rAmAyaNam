@@ -25,8 +25,6 @@ describes Kaikeyi as the root-cause of their family's misfortune. But, the sage 
 him, saying that the exile of Rama would ultimately result in happiness the sages, celestials and
 even the demons. Bharata finally bids farewell to the sage and proceeds to Chitrakuta, along with
 his retinue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -83,8 +81,6 @@ palms; saying.
 
 Thereafter, Bharata along with his routine, who were treated hospitably, spent that
 night there and sought out Bharadwaja with fondness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ Bharata; *puruSavyaaghram* = the tiger among men; *aagatam* = who came;
 
 The sage Bharadwaja, who had offered oblations in sacred fire, spoke to Bharata the
 tiger among men, who had come there with joined palms, saying.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -180,8 +174,6 @@ kachchit* = fully satisfied; *aatithye* = with my hospitality? shamsa = tell;
 
 "O, handsome Bharata! Have you passed this night at out place comfortably? Is your
 retinue fully satisfied with my hospitality? Tell me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ retinue fully satisfied with my hospitality? Tell me."
 
 After joining his palms in salutation, Bharata replied to the very glorious sage
 Bharawaja, who came out from his hermitage (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ felt comfortable; *tarpitaH* = and satisfied; *saamaatyaH* = along with my minis
 "O, venerable sage! With all the enjoyments in plenty provided by you, I felt
 comfortable and satisfied, along with very ministers my entire army and our animals too used in
 riding.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -327,8 +315,6 @@ with a good accommodation.
 "All of us including our servants have become very much satisfied with our fatigue
 and pains removed, having eaten a good food and having been provided an excellent
 accommodation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -379,8 +365,6 @@ eye; *prasthitam* = me who is settingout; *samiipam* = towards the vicinity of;
 
 "O, Blessed one! O, excellent sage I am taking leave of you. Look on me with favour
 as I find myself in my brother's vicinity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -428,8 +412,6 @@ high-souled; *dhaarmikasya* = and pious man; *shamsa* = tell; *me* = me;
 
 "O, knower of piety! Tell me about the abode of that high-souled and pious man,
 Rama. Tell me as to which way I have to go, how much distance it is from here and so forth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -476,8 +458,6 @@ glorious; *mahaatapaah* = and having excellent austerity; *iti* = thus;
 
 The highly glorious Bharadwaaja, of rigid asceticism, thus questioned by Bharata
 (who intensely desired to see his brother again), answered him as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -527,8 +507,6 @@ kaananaH* = with its beautiful cascades and groves.
 
 "O, Bharata! About twenty eight miles from here, there is a mountain called
 Chitrakuta, in the middle of a lonely forest with its charming Cascades and groves."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 
 </details>
@@ -582,8 +560,6 @@ puSpita kaananaa* = and having forests flourished with charming blooms.
 
 "Going towards its northern side, you will find River Mandakini, which is entirely
 enveloped with flowering trees and having forests flourished with charming blossoms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -600,8 +576,6 @@ there; *dhruvam* = It is certain.
 
 "O, beloved Bharata! Beyond that river, there is a mountain called Chitrakuta and on
 it, their hut made of leafy twigs. Both of them are residing there. It is sure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -653,8 +627,6 @@ army!; *vaahayasva* = direct; *raahiniim* = the army; *gajavagirathaakiirNaam*
 "O, the illustrious chief of army! Direct the forces filled with elephants horses
 and chariots either towards the southern route or to the left proceeding southward. You can see
 Rama then."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -702,8 +674,6 @@ Rama then."
 
 Hearing him speak of the journey, Dasaratha's wives eligible of sitting in
 palanquins, descended from their palanquins and stood encircling Bharadwaja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -753,8 +723,6 @@ clasped; *charaNau* = the feet; *muneH* = of the sage Bharadawaja;
 
 Kaikeyi with her unfulfilled desire and despised by the whole world, clasped the
 sage's feet with bashfulness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -808,8 +776,6 @@ by the whole world; *jagraaha* = clasped; *tasya* = his; *charaNau* = feet;
 
 Kaikeyi with her unfulfilled desire and despised by the whole world, clasped the
 sage's feet with bashfullness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -825,8 +791,6 @@ manaaH* = distressed at heart.
 
 Then, having gone around that venerable and eminent sage clock-wise, she stood close
 to Bharata himself, distressed as she was at heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -874,8 +838,6 @@ mothers.
 
 Then, Bharadwaja, firm in austerity, enquired Bharata as follows: "O, Bharata! I
 wish to know the distinctions of your mothers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -922,8 +884,6 @@ kovidaH* = skilled in expression; *bhuutvaa praaN^jaliH* = with joined palms;
 
 Hearing the words of the learned sage, Bharadwaja, Bharata who was skilled in
 expression, with joined palms, spoke the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -982,8 +942,6 @@ vikraantagaaminam* = with the gait and pride of a lion; *tam raamam* = that Rama
 royal consort of my father, who you see resembling a goddess - it is she, Kausalya who, as Aditi
 gave birth to Upendra, begot that Tiger among the heroes, with the great gait and pride of a lion
 that Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1043,8 +1001,6 @@ She, who stands clinging to the left shoulder of Kausalya, plunged in grief is t
 unfortunate Sumitra, looking like a branch of Karnikara tree with withered flowers standing in the
 interior of the grove. Both Lakshmana and Shatrughna, the two heroic princes of god-like appearance
 and unfailing prowess are the sons of this godly woman, Sumitra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1101,8 +1057,6 @@ existence and King Dasaratha deprived of his son, has gone to heaven this woman,
 imprudent, arrogant, who esteems herself to be good-looking, who is covetous of power, unworthy
 though noble to all appearance, know her to be Kaikeyi, my mother of wicked and sinful resolve, in
 whom I see the root cause of my great misfortune."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1119,8 +1073,6 @@ hissing; *naagaH* = snake.
 
 Bharata, the tiger among men, with his red eyes spoke thus in a voice broken by sobs
 and breathing as he like an enraged and hissing snake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1167,8 +1119,6 @@ these; *arthavat* = meaningful; *vachanam* = words.
 
 Hearing the aforesaid words spoken by Bharata, Bharadwaja the great intellectual
 sage replied in the following meaningful words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1215,8 +1165,6 @@ hi* = will indeed become; *sukhodarkam* = a cause for happiness.
 
 "O, Bharata! Kaikeyi is not intended to be understood by you accusatively. The exile
 of Rama with indeed become ultimately a cause for happiness!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1260,8 +1208,6 @@ spirit.
 
 "Now, due to Rama's exile, there will indeed be a benefit to the celestials the
 demons and the sages whose souls are purified by meditating on the Universal Spirit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1308,8 +1254,6 @@ the army; *iti* = thus; *yujyataam* = "Let us carry on."
 
 Bharata satisfied, paid obeisance to him and circumambulated him in bidding a
 farewell, directing the army to get prepared to leave.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1359,8 +1303,6 @@ _________________
 
 Then, setting out for their destination, countless people ascended many excellent
 chariots, decorated with gold, duly harnessed to horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1410,8 +1352,6 @@ elephants; *hemakakSyaaH* = pataakinaH = wearing golden chains and flags; *sagho
 
 Female and male elephants, wearing golden chains and flags, distinguished by the
 sound of bells, like thundering clouds at the end of a summer marched in a form.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1458,8 +1398,6 @@ small; *prayayuH* = marched forward; *padaatayaH* = Pedestrians; *paadaaraiva*
 
 Various precious conveyances, both big and small, marched forward. Pedestrians
 marched forward by foot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1506,8 +1444,6 @@ pravekaiH* = on excellent conveyances; *tadaa* = then.
 
 Desirous of seeing Rama and delighted, Kausalya and other honourable women
 thereafter advanced on their excellent conveyances.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1555,8 +1491,6 @@ along with his escort.
 
 The illustrious Bharata mounted a readily kept palanquin which was auspiciously
 shining like rising moon and sun and proceeded along with his escort.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1627,8 +1561,6 @@ by deer and birds.
 That vast army with its countless elephants horses and chariots proceeded, covering
 the southern direction, like a great cloud that has risen in the sky and on the other bank of the
 Ganges, by mountains and streams, crossing the woods inhabited by deer and birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 
@@ -1682,8 +1614,6 @@ innumerable beats and birds; *raraaja* = appeared resplendent; *tatra* = there.
 That army of Bharata, with its squadrons of rejoicing elephants horses and warriors,
 penetrating into the vast forest, frightening innumerable beasts and birds, appeared resplendent
 there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
 </details>
 

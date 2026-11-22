@@ -18,8 +18,6 @@ car. When the monkeys and Vibhishana request Rama to permit them to accompany in
 upto Ayodhya to witness his coronation-ceremony, Rama gladly permits them to do so. All of them
 start on their aerial journey in Pushpaka, the wonderful aerial car which can accommodate all,
 spaciously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ ready; *tam* = that; *puShpakam* = Pushpaka the aerial car; *puShpabhuuShitam*
 
 Keeping ready Pushpaka the aerial car decorated with flowers, Vibhishana, for his
 part, standing not very far, spoke to Rama (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -107,8 +103,6 @@ joined palms; *raaghavam* = to Rama.
 
 "What more can I do?" thus spoke with haste, Vibhishana endowed as he was with
 modesty and with joined palms, to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -155,8 +149,6 @@ modesty and with joined palms, to Rama.
 
 After some circumspection, Rama of great splendor, affectionately spoke the
 following words to him, while Lakshmana was listening:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -204,8 +196,6 @@ arthaishcha* = and riches of various kinds; *vibhiiShaNa* = O Vibhishana!
 "Let all these monkeys and bears (ie. Denizens of forests), who performed tasks of
 exertion, be honoured with tasks of exertion, be honoured with precious stones and riches of
 various kinds, O Vibhishana!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -248,8 +238,6 @@ Lanka; *nirjitaa* = has been conquered.
 "O Vibhishana the king of demons! Lanka has conquered by you, in collaboration with
 these monkeys, who never turned their backs in battles and fought joyfully, ignoring all risk to
 their lives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -296,8 +284,6 @@ stones.
 
 "All these monkeys, without exceptions, have accomplished their task. Reward their
 achievement with gifts of gold and precious stones."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -344,8 +330,6 @@ acknowledging their services; *ete hariyuuthapaaH* = the chiefs of monkeys-troop
 
 "Highly honoured in this way any duly cheered by you, acknowledging their services,
 the chiefs of monkey-troops, will feel happy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -391,8 +375,6 @@ _________________
 "All will come nearer to you, for having possessed this quality of generosity, for
 propitiating them, for showing compassion to them and for having subjugated your senses. Hence, I
 am reminding you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -436,8 +418,6 @@ _________________
 
 "O king! Feeling agitated, the army deserts that king, who is bereft of all loving
 qualities and who merely orders them to kill people in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -478,8 +458,6 @@ stones and gold to them.
 
 Hearing the words of Rama, Vibhishana honoured all those monkeys, by dispersing
 precious stones and gold to them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -530,8 +508,6 @@ then; *aaruroha* = mounted; *tat* = that; *anuttamam* = excellent;
 
 Thereafter, having seen on that occasion all those commanders of monkey-troops
 honoured with precious stones and gold, Rama then mounted that excellent aerial car.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -548,8 +524,6 @@ illustrious; *vaidehiim* = Seetha; *lajjamaanaam* = who was feeling abashed;
 
 He mounted the aerial car along with Lakshmana, his valiant brother wielding a bow
 and taking the illustrious Seetha, who was feeling abashed, in his arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -596,8 +570,6 @@ mighty; *sugriivam cha* = Sugreeva; *saH kaakutthsaH* = that Rama;
 
 Bestowing attention on all the monkeys as well as Vibhishana and the mighty
 Sugreeva, Rama remaining in the aerial car, spoke (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -644,8 +616,6 @@ of you; *pratigachchhata* = can go; *yatheShTam* = where you will.
 
 "O the foremost of monkeys! This work of a friend has been accomplished by you.
 Permitted by me, all of you can go, where you will."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -696,8 +666,6 @@ you; *yaahi* = go; *aashu* = at once; *abhisamvR^itaH* = accompanied;
 "O Sugreeva! All that which ought to be done by an affectionate and service-minded
 friend, has been done for your part by you, trembling alive as you are to righteousness.
 Accompanied by your army, proceed to Kishkindha at once."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -745,8 +713,6 @@ you.
 
 "O Vibhishana! Settle down in your kingdom at Lanka, conferred by me. Even the
 celestials including Indra shall not be able to attack you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -793,8 +759,6 @@ and wish to take leave; *vah* = of you; *sarvaan* = all.
 
 " I am going to Ayodhya, the seat of government of my father. I bid adieu to you and
 wish to take leave of you all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -836,8 +800,6 @@ palms.
 
 Hearing the words of Rama, the monkey-chiefs, the monkeys, Vibhishana the demon and
 all of them there, with their joined palms, spoke (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -881,8 +843,6 @@ gardens; *upavanaanicha* = and groves; *mudyuktaaH* = with rejoice.
 
 "We also wish to proceed to Ayodhya. You take all of us there we shall range the
 gardens and groves there with rejoice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -924,8 +884,6 @@ homes.
 
 "O the excellent king! Seeing you, drench with ablution (in the coronation ceremony)
 and offering our salutations to Kausalya, we shall return to our homes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -972,8 +930,6 @@ vibhiiShaNaan* = Sugreeva and Vibhishana (as follows):
 
 Hearing those words of the monkeys and Vibhishana, that pious-minded Rama spoke to
 those monkeys, Sugreeva and Vibhishana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -1020,8 +976,6 @@ sahitaH* = and with all of you; *priitim lapsye* = for; I shall feel delighted.
 
 "Something more dearer than everything dear will be achieved by me, if I reach
 Ayodhya with the host of my friends along with all of you, for, I shall feel delighted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -1069,8 +1023,6 @@ counsellors.
 
 "O Sugreeva! Mount the aerial cars quickly, along with the monkeys. O Vibhishana,
 the king of demons! You also ascend it, along with your counsellors."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -1118,8 +1070,6 @@ counsellors.
 
 Thereupon, that Sugreeva along with the monkeys gladly ascended that wonderful
 Pushpaka, the aerial car. Vibhishana together with his counselors also ascended it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -1160,8 +1110,6 @@ after having been duly authorized; *raaghaveNa* = by Rama.
 
 When all of them ascended, that excellent aerial car, belonging to Kubera, flew into
 the sky, after having been duly authorized by Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -1209,8 +1157,6 @@ provided with the image of swan; *raamaH* = Rama; *babhau* = shone;
 
 Feeling greatly rejoiced and satisfied while travelling in that splendid aerial car,
 which was now in the air and was provided with the image of a swan, Rama shone like Kubera.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 </details>
 
@@ -1257,8 +1203,6 @@ comfortably; *divye tasmin* = in that wonderful aerial car.
 
 All those mighty monkeys, bears and demons sat comfortably and spaciously in that
 wonderful aerial car.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

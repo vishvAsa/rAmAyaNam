@@ -25,8 +25,6 @@ of problems, here fourteen thousand demons, for himself and no divine grace sudd
 
 Rama gives the demons enough time and warning, but as the atrocity is escalating, he uses one gandharva
 missile and many other arrows, which will devastate the entire army of Dushana's brute force.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -84,8 +82,6 @@ seen.
 
 Khara on arriving at the hermitage along with forerunning soldiers saw the enemy-eliminator and wrathful
 Rama holding fast to his bow. [3-25-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -101,8 +97,6 @@ suutam acodayat* = thus, at charioteer, drove [him crazy.]
 
 On seeing Rama that bawling Khara raised his string-taut bow that makes an ass-like braying twang, drove
 his charioteer crazy saying, "drive to the fore of that Rama..." [3-25-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -148,8 +142,6 @@ is, bow, while swaying, standing; *to there; *turagaan sam acodayat* = horses, w
 
 On the orders of Khara the charioteer drove the horses to there where the mighty armed Rama is standing
 single-handedly while swaying his bow. [3-25-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -199,8 +191,6 @@ avaarayan* = around, encircled.*
 
 On seeing Khara descending on Rama then all those nightwalkers who are the deputies of Khara encircled
 Khara venting out loud battle cries. [3-25-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -247,8 +237,6 @@ anga* = up-shot, copper, coloured bodied one - Mars; *iva* = like; *babhuuva* = 
 
 Khara staying on his chariot in the thick of those demons appeared to be like coppery-red planet Mars
 up-shot in the thick of stars. [3-25-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -295,8 +283,6 @@ loud, battle cry, blared.
 
 In his proneness to war then Khara assaulted that uniquely forceful Rama with a thousand arrows and
 blared a roaring battle cry. [3-25-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -347,8 +333,6 @@ bhiima dhanvaanam* = one with - horrific, bow; *dur jayam* = one impossible, to 
 
 All of those infuriated nightwalkers then incessantly rained diverse weapons on that invincibleRama
 who is handling a horrific bow. [3-25-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -394,8 +378,6 @@ shuulaiH praasaiH khaDgaiH parashvadhaiH* = with bludgeons, lances, tridents, da
 
 Those demons that are already caught up with rancour bombarded Rama with bludgeons, lances, tridents,
 darts and hatchets. [3-25-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -448,8 +430,6 @@ to kill; *kaakutstham abhyadhaavanta* = towards Rama, they rushed in on.
 Those massive bodied and exceptionally mighty demons came jostling like immense clouds in their eagerness
 to kill Rama in that war, while some mounted on chariots and horsebacks, and some more riding mountain-ridges
 like elephants rushed in on Rama. [3-25-9,10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -496,8 +476,6 @@ shara varSaaNi* = arrow, torrents; *vyasR^ijan* = outpoured.
 
 And those bands of demons have outpoured arrows on Rama, as with enormous black-clouds disemboguing
 torrents on a lofty mountain. [3-25-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -548,8 +526,6 @@ demons, grisly, in their appearance; *mahaa devaH* = supreme, deity [Rudra]; *ti
 When hemmed in with those grisly-looking demons Rama appeared like Rudra surrounded by his divine retinue
 called prathama gaNa-s, on certain days, whereupon he starts his all-destructive
 cosmic-dance. [3-25-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -596,8 +572,6 @@ taken [pre-empted.]
 
 That Raghava has pre-empted those arrows discharged by the demons with his excruciatingly pointed arrows
 as an ocean would do with the river's onrush. [3-25-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -647,8 +621,6 @@ gaatraH san* = gashed, bodied, even if; *saH raamaH* = he, that Rama; *pra diipt
 Even if his body is gashed with those gruesome assault weapons Rama is not enfeebled, as with the enormous
 Mt. Meru that can withstand even if battered by very many highly blazing thunderbolts of Indra. [3-25-13,
 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -701,8 +673,6 @@ enshrouded by cloudscapes at eventide. [3-25-14b, 15a]
 Rama is not fading away like the evening sun but becoming more like blood red sun. The 'covering of
 blood' on his limbs suggests the covering of reddish flaring fire on all his limbs, as we say that evening
 sun is stained with blood and fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -748,8 +718,6 @@ R^iSayaH ca* = gods, celestials, saints, sages, also; *viSeduH* = are dispirited
 
 On seeing lone Rama beset by many demons, then the gods, celestials, saints and sublime-sages are dispirited.
 [3-25-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -801,8 +769,6 @@ shatashaH* = in hundreds; *atha* = why hundreds?; *sahasrashaH* = in thousands;
 But Rama on becoming highly infuriated curved his bow to a full circularity on stretching the bowstring
 up to his ear, and then jetted out trenchant arrows in hundreds. Why hundreds? He surged them in thousands.
 [3-25-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -819,8 +785,6 @@ feathered; *kaancana bhuuSaNaan* = in gold, adorned; such arrows; *mumoca liilay
 
 In that war Rama sportily discharged eagle-feathered arrows adorned in gold which are unstoppable and
 intolerable, and which in simile are the leads of Time-god. [3-25-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -866,8 +830,6 @@ made [flung,] tethers, as with; *rakSasaam praaNaan aadaduu* = demon's, lives, [
 
 Those arrows that are playfully discharged on the army of enemy have grabbed the lives of demons like
 the tethers flung by the Time-god. [3-25-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -920,8 +882,6 @@ with flares equalling inflamed flames. [3-25-19b, 20a]
 
 The similitude between redness of blood and the redness of flaring fire is again suggested, as said
 at 3-25-14b, 15a above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -968,8 +928,6 @@ lives, filchers of [resulted in]; *a sankhyeyaaH* = not, calculable; *saayakaaH 
 
 Innumerable and highly frightening arrows fusilladed from the nimbus of the bow of Rama that resulted
 as the filchers of the lives of demons. [3-25-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1022,8 +980,6 @@ heads [of demons,] also; *sa hasta aabharaNaan* = with, hand, ornaments; *bahuun
 In that war, shooting now with hundreds, and now with thousands of such arrows, Rama shredded those
 many bows, pinnacles of war-flags, armours and the like. And even shred are the heads of demons, along
 with their ornamented arms and thighs similar to the trunks of elephants. [3-25-21b, 22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1087,8 +1043,6 @@ hitched with golden harnesses, and the chariots to which they are yoked, and eve
 Likewise, he even ripped off the elephants along with their riders, and the horses along with their
 cavaliers. And on eliminating infantrymen in that war Rama led them to the abode of Yama, the Time-god.
 [3-25-23, 24] [3-25-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1135,8 +1089,6 @@ cavaliers. And on eliminating infantrymen in that war Rama led them to the abode
 
 While ripped to pieces with tubular arrows, with arrows made of iron, and with sharp-edged and crescent-tipped
 arrows those demons have let out disgusting cries of anguish. [3-25-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1183,8 +1135,6 @@ lebhe* = pleasure, not, they have taken - disquieted.
 
 When those arrows that gore the critical parts are thus harrowing, that army is discomposed like a forest
 burnt to a cinder by wild-fire. [3-25-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1224,8 +1174,6 @@ burnt to a cinder by wild-fire. [3-25-26]
 
 Some of the grotesquely sinewy and braving nightwalkers are highly enraged and dashed their darts, tridents,
 and hatchets towards Rama. [3-25-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1272,8 +1220,6 @@ ca = filched, lives, also.
 
 On fending off those weapons with his arrows that mighty armed and valorous Rama filched away their
 lives by shearing off their necks in that war. [3-25-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1332,8 +1278,6 @@ crashed down.
 Those demons crashed down to earth with their heads severed and shields and bows wrecked, like the trees
 strewn around on earth owing to the gust raised by Garuda, the Divine Eagle, when he takes a sudden
 flight in heavens. [3-25-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1348,8 +1292,6 @@ eva* = to Khara, alone; *sharaNa artham abhyadhaavanta* = for shelter, seeking, 
 
 Those nightwalkers that are battered by those arrows and remaining there, they desperately rushed towards
 Khara alone seeking shelter. [3-25-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1410,8 +1352,6 @@ where Rudra being the ultimate eliminator himself, angry rush of Yama towards Ru
 
 The second meaning can be expressed by substituting the word 'kruddha' with 'rudra' as in other mms
 than that of Gorakhpur version.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1461,8 +1401,6 @@ towards rushed.
 
 Coming under the shelter of Duushana all of those demons are but emboldened and returned, and they once
 again rushed towards Rama with saala trees, palm trees and boulders as their weapons. [3-25-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1512,8 +1450,6 @@ created; *muncantaH* = released.
 
 Handling tridents, maces, and leashes those great-mighty demons have created torrents of arrows, missiles,
 trees and boulders, and inundated Rama in that war. [3-25-33, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1566,8 +1502,6 @@ one; *asya yuddham* = that, war; *mahaa ghoram babhuuva* = highly, gruesome, bec
 
 Again there chanced a highly gruesome war between Rama and those demons that is tumultuous, stunning,
 and a hair-raising. [3-25-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1631,8 +1565,6 @@ Those demons have resurfaced from all around pressurising Raghava in high dudgeo
 of demons from everywhere, with whom all the directions and inter-directions are fully filled, and who
 are storming torrents of arrows, then that exceptionally forceful Rama made a thunderous sound and launched
 an extremely blazing missile among the gather of demons, called gandharva missile. [3-25-35b, 36, 37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1678,8 +1610,6 @@ thousands; *nir yayuH* = out, scurried; *samaagataiH baanaiH* = with arrived, ar
 
 Then from the nimbus of his bow, arrows in thousand have scurried out, and with them thus arrived all
 the ten sides are cramped up. [3-25-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1728,8 +1658,6 @@ the ten sides are cramped up. [3-25-38]
 Either the drawing of those supreme arrows from the quiver, or the traction of bowstring on placing
 them, or unloosing them from the bow is unperceived by those demons that are harrowing under those arrows.
 [3-25-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1780,8 +1708,6 @@ to persevere spewing forth his arrows. [3-25-40]
 **टिप्पनी**
 
 Dark grew the air with arrowy hail / Which hid the sun as with a veil. - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1831,8 +1757,6 @@ instantly, and huddles that are already felled with an instantaneity. [3-25-41]
 **टिप्पनी**
 
 Fiends wounded, falling, fallen, slain, / All in a moment, spread the plain, - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1883,8 +1807,6 @@ and ripped. [3-25-42]
 **टिप्पनी**
 
 And thousands scarce alive were left / Mangled, and gashed, and torn, and cleft. - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -1979,8 +1901,6 @@ arrows spears and tridents are variously splintered, swords broken to pieces, da
 and strewn around. Also the boulders are pulverised, various amazing arrows have gone to rack and ruin
 in many ways. Spread with such wreckage the earth has become horrifying for a glance. [3-25-43, 44,
 45, 46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 </details>
 
@@ -2027,8 +1947,6 @@ conqueror.
 
 On seeing the killed demons all the surviving demons have become enervated and they are rendered incapable
 to make a move towards Rama, the conqueror of enemy's capitals. [3-25-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -21,8 +21,6 @@ Sugreeva and Vibhishana. Accordingly, Hanuma approaches Guha and Bharata in Nand
 the pleasant news about the welfare of Rama as well as his impending return to Ayodhya. Bharata is
 overjoyed on hearing the glad tidings from Hanuma and offers him a number of valuable gifts, for
 having communicated the agreeable news to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ kindly act.
 
 Looking at Ayodhya, Rama, a scion of Raghu dynasty, for his part, who wished to do a
 kindly act and who was quick in exhibiting prowess, contemplated thereupon to do a kindly act.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ spoke; *hanuumantam* = to Hanuma; *plavaN^gamma* = the monkey.
 
 Having thus contemplated, the sagacious and the glorious Rama then cast his glimpse
 on the monkeys and spoke to Hanuma, the monkey (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ on the monkeys and spoke to Hanuma, the monkey (as follows):
 
 "O the foremost of the monkeys! Going with all speed to Ayodhya, find out whether
 the people there, are safe in the royal palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ Nishadas; a wild tribe; *gahanagocharam* = who lives in the forest.
 
 "Reaching then to Shrigaberapura, communicate in my name, about my welfare to Guha,
 the king of Nishadas, a wild tribe living in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ my own self.
 
 "Guha will be pleased to hear about me, as being safe, healthy and free from
 trouble. He is my friend, as well as my own self."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -304,8 +292,6 @@ tell; *te* = you; *maargam* = the path; *ayodhyaayaaH* = to Ayodhya;
 
 Feeling pleased, Guha, the lord of Nishadas, the wild tribe, will tell the path to
 Ayodhya and the news about Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -347,8 +333,6 @@ on object.
 
 "Bharata too is to be asked by you, the news about his welfare, in my name. Tell him
 of me as having returned, accomplished of our object, with my consort and Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ the killing; *vaalinaH* = of Vali; *rane* = in combat.
 
 "Tell him about the abduction of Seetha by the mighty Ravana, my conversation with
 Sugreeva and the killing of Vali in combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -422,8 +404,6 @@ ocean; *mahaatoyam* = with extensive waters.
 
 "Tell him also about the search for Seetha and how she was traced out by you, after
 crossing the never-diminishing ocean, having extensive waters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -444,8 +424,6 @@ crossing the never-diminishing ocean, having extensive waters."
 
 "Tell him about our going near the ocean, the appearance of the ocean, how the
 bridge was constructed there and how Ravana was killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -463,8 +441,6 @@ grace of Shiva; the Supreme Deity.
 "Tell him about the bestower of boons by Indra the lord of celestials, by brahma the
 lord of creation, and by Varuna the lord of waters, my meeting with my (deceased) father, through
 the grace of Shiva the Supreme Deity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -509,8 +485,6 @@ Sugreeva the lord of monkeys.
 
 "O gentle Hanuma! Inform to Bharata, of me as having come near Ayodhya, along with
 Vibhishana and Sugreeva the lord of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -526,8 +500,6 @@ accomplished his purpose; *mahaabalaiH mitraiH saha* = along with his mighty fri
 
 "Tell him, that having conquered hosts of enemies and obtained an excellent fame, is
 purpose having been accomplished, Rama is coming near, with is mighty friends."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -569,8 +541,6 @@ in relation to me.
 
 "It is also to be observed by you, about the facial expression which Bharata wears,
 after hearing all this and also all that he intends to do in relation to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -618,8 +588,6 @@ really; *jJNeyaaH* = known.
 
 "All the occurrences there are to be known. All the gestures of Bharata are to be
 ascertained through the colour of his face, glances and the speech."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -665,8 +633,6 @@ father?
 "Whose mind does not turn round, with a kingdom abundantly rich in all coveted
 enjoyments, teeming with elephants horses and chariots and which is in herited from one's
 father?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -711,8 +677,6 @@ Bharata; *prashaastu* = rule; *sarvaam vasudhaam* = the entire kingdom;
 
 "Having been associated with the kingdom for long, if the illustrious Bharata is
 longing for it himself, let Bharata rule the entire kingdom in one piece."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -756,8 +720,6 @@ duuram na yaataa smaH* = before we do not go for a long distance towards Ayodhya
 
 "O Hanuma! Understanding his mind and perception, you ought to return quickly,
 before we are not gone for a long distance towards Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -798,8 +760,6 @@ went; *ayodhyaam* = to Ayodhya.
 
 Assuming a human form, when thus commanded by Rama, Hanuma the son of wind-god,
 swiftly left for Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -846,8 +806,6 @@ snake; *maarutaatmajaH* = Hanuma the son of wind-god; *atha* = then;
 
 Hanuma, the son of wind-god then flew up with speed towards Ayodhya, as Garuda the
 eagle would fly with speed, while seeking to catch a large snake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -909,8 +867,6 @@ hanuumaan* = that valiant hanuma hR^iShTaH = joyfully; *abraviit* = spoke; *idam
 Leaping into the auspicious sky, the dwelling place of birds, duly crossing over the
 terrific conjunction of Ganga and Yamuna rivers, reaching Shringaverapura and approaching Guha (the
 chief of Nishadas), that valiant Hanuma spoke the following words in a charming voice:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -960,8 +916,6 @@ prowess; *sa siitaH* = along with Seetha; *saha saumitriH* = and Lakshmana;
 
 "Along with Seetha and Lakshmana, Rama, your friend, that scion of Kakutthsa, of
 true prowess, has for his part enquired of your welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -979,8 +933,6 @@ lunar day (of the bright half of the month of Ashvayuja).
 "You can see Rama here itself today, when he has been duly permitted by Bharadwaja
 the sage, after spending, at the instance of the sage, for a night of the fifth lunar day (of the
 bright half of the month of Ashvayuja)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1027,8 +979,6 @@ splendor; *avichaarayan* = not thinking of his fatigue; *utpapaata* = sprang up;
 
 That swift-moving Hanuma, with his rejoicingly feather-like body and with a great
 splendor, not thinking of his fatigue, sprang up with a great speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1080,8 +1030,6 @@ Ramatirtha; a place of a descent into the river (hallowed by the association of 
 Hanuma saw, on the way, Ramatirtha, a place of descent into the river (hallowed by
 the association of Lord Parashurama), as well as the rivers Valukini, Varuthini and Gomati as also
 the formidable forest of Sala trees, many thousands of people and numerous communities.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1146,8 +1094,6 @@ Going quickly for a long distance, that foremost of the monkeys reached trees in
 flowering, near Nandigrama and looking like those comprised in the garden of Kubera (known by the
 name, Chitraratha) and frequented by women along with their sons and elders, charmingly adorned as
 they were.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1263,8 +1209,6 @@ Spirit, with a splendour equalling that of a Brahmanical sage, ruling the earth 
 wooden sandals before him, protecting the people belonging to all the four grades (viz. Brahmans
 Kshatriyas, Vaisyas and Shudras) from all peril and attended by the upright ministers, priests and
 by clever troop-commanders, all clad in saffron robes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1311,8 +1255,6 @@ kR^iShNaajinaambaram* = clad in the bark of trees and the skin of a black antelo
 
 Those citizens, who were all fond of righteousness, were not willing to enjoy
 pleasures, ignoring that prince clad in the bark of trees and the skin of a black antelope.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1361,8 +1303,6 @@ clothed with a body of virtue.
 With joined palms in salutation, Hanuma the son of wind-god spoke as follows to that
 Bharata, who knew what is right and seemed to be a second Dharma (the god of virtue) clothed with a
 body of virtue:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1416,8 +1356,6 @@ welfare.
 
 "Rama, for whom you are repenting residing as he was in the forest of Dandaka
 wearing the bark of trees and matted locks, has enquired about your welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1433,8 +1371,6 @@ dreadful anguish; *asmin muhuurte* = at this moment; *tvam* = you; *samgataH*
 
 "O Lord! I am telling you a pleasant news. Give up this dreadful anguish. Within a
 while, you will be meeting Rama, your elder brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1479,8 +1415,6 @@ while, you will be meeting Rama, your elder brother."
 
 "Having killed Ravana and got back Seetha, Rama is returning with his mighty
 friends, his purpose duly accomplished."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1498,8 +1432,6 @@ mighty Indra the lord of celestials.
 "Lakshmana too, who is endowed with extraordinary energy, is coming intact with
 Seetha, the illustrious princess of Videha territory and with Rama as Sachi (the wife of Indra)
 would with the mighty Indra the lord of celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1541,8 +1473,6 @@ through joy.
 
 Hearing the words of Hanuma, Bharata the son of Kaikeyi, felt delighted and sank all
 at once to the ground as also fainted through joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1589,8 +1519,6 @@ spoke pleasant tidings (to him).
 Thereupon, Bharata who was born in Raghu dynasty, got up from the swoon within a
 while and regaining his consciousness, spoke the following words to Hanuma, who spoke pleasant
 tidings to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1607,8 +1535,6 @@ those born of anguish.
 
 Embracing Hanuma with eagerness, the illustrious Bharata bathed him with copious
 tear-drops born of delight and as such, other than those born of anguish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1695,8 +1621,6 @@ pleasant tidings, a hundred thousand cows, a hundred best villages, and for wive
 complexioned virgin girls of a good conduct, decked with ear-rings, having beautiful noses and
 thighs, adorned with all kinds of jewels, with charming countenances as delightful as the moon and
 born in a noble family."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 </details>
 
@@ -1743,8 +1667,6 @@ delight.
 
 Hearing the news of Rama's arrival resembling a womnder, from Hanuma, Bharata the
 prince felt overjoyed by a desire to see Rama and spoke the following words again with delight:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

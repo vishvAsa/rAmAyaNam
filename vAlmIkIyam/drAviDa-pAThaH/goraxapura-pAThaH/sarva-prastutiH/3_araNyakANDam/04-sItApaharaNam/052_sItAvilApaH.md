@@ -16,8 +16,6 @@ title_english = "052 The combat of Jataayu and Ravana"
 Seetha is abducted by Ravana. When they are on their way to Lanka the whole nature along with its inhabitants
 laments for the atrocious abduction of Seetha. In here, almost every verse is elaborated, for they contain
 poetic niceties, and hence more stuffing in introduction is unbefitting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ Jataayu who is spinning on earth to breath his last:
 <*>tam alpa
 jiivitam gR^idhram sphurantam raakSha adipa | dadarsha bhuumau patitam samipe raaghava aashramaat ||*
 thereby giving some time to Seetha to recollect what has happened.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ or by the callings of birds and movements of animals... so, by now your left sho
 have shuddered, or some crows might have cawed uglily, or some birds might have gone from your right
 to left, except *garuDa, bharadwaja* birds, and by these forebodings why do not you cognise that something
 is happening to me and thus why not come to my rescue?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -190,8 +184,6 @@ bhaava/import: 'Oh, Rama you may not be able to perceive the prognostications as
 hunting that Golden Deer, but, for a while keep that hunting at bay and give an ear to these birds and
 animals that are rushing towards you to convey the news of my kidnap... and for god's sake do not kill
 these animals, presuming that they are pestering you...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -245,8 +237,6 @@ bhaava/import: 'My ill luck is so preponderant, in that it has demolished this J
 is a pious and merited being who came to help the helpless one like me... but my ill luck pervaded over
 such an impeccable being also... otherwise Jataayu would have vanquished Ravana... thus, when an immeasurable
 ill luck is holding sway, it is for you, and you alone, oh, Rama, to come for my rescue...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -306,8 +296,6 @@ in a halo, and suppliantly bawling, as though asking them to come out that halo 
 bawling is not in a clamorous tone but it is a *roshantiim madhura svaraam* 'crying with mellowly voice...'
 as detailed at verse 42 below, for there should be difference between the braying of an ass and parroting
 of a parrot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -354,8 +342,6 @@ to Vaidehi; *raakSasa adhipaH raavaNaH* = demons', sovereign, Ravana; *abhyadhaa
 
 That sovereign of demons, Ravana, rushed towards Vaidehi whose garlands and jewellery are muddled up
 and who is bawling like an orphanized one. [3-52-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -456,8 +442,6 @@ If she can be captured by shadow while she is in her senses and agitating and cl
 as with Simhika-Hanuma in Sundara Kanda, Ravana should not have given her this much time to bemoan,
 but should have captured by her shadow without leaving her to pay a visit to dying Jataayu. Hence, this
 capture is viewed on a human plane, rather than a conjuror's trick.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -507,8 +491,6 @@ the Sun. [3-52-9]
 
 This 'blackness' is a poetic gloominess of the mood, rather than a material or mythical, or superimposing
 darkness. Sun is gloomy, wind is gloomy, and the entire nature is in oblivion of sadness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -566,8 +548,6 @@ able to combat Ravana or hurl a curse at Ravana. But Ravana is no fool to abduct
 stands over looking on the spectacle. Hence, these sages said here are those that are available in the
 academy of Brahma. And the *danDaraNya vaasinaH* in the next foot are the voiceless and incommunicable
 beings in Dandaka forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -590,8 +570,6 @@ Again a poetic 'thinking' that even speechless beings can presage and prognostic
 not tell us directly, their body language and odd behaviour will certainly tell. The behaviour of animals
 and birds before an earthquake or a storm or any natural devastation is not an unknown phenomena. After
 all, a frog crocks before a rain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -641,8 +619,6 @@ took flight.
 
 Ravana, the lord of demons, on wresting Seetha who is bawling, "Rama... Rama..." also thus as, "Lakshmana..."
 took flight skyward. [3-52-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -699,8 +675,6 @@ silky dress, while traversing in the sky. [3-52-14]
 dhvani/innuendo: A lightening in a cloud does not last for a long period. So also, for being with this
 cloudlike Ravana, these flashes of lightning, called Seetha, will not last long, albeit those flashes
 alone will electrocute that cloud, called Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -760,8 +734,6 @@ hue, like the outer edge of the tongue of fire. That fringe *pallu* is upheaved,
 rhythmically or spasmodically, by air and it is flagging off the annihilation of Ravana, by its flag-like
 motions on his face. Thus, Ravana who is standing like a mountain as of now is destined soon to become
 a mountain with a self-ruinous fire, overly and muchly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -820,8 +792,6 @@ of Ravana, somewhat like a floral welcome. This is in one way a good omen to Rav
 from his accursed state, while on the other, it suggests that his opulence is soon destined to wither
 away like a withered petal of lotus. The last foot is taken, which obtains in other mms, leaving off
 the middle foot, that also says the same.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -873,8 +843,6 @@ hue of sun in red heat of midday it beamed forth like a reddish cloud. [3-52-17]
 
 bhaava/import: A reddish cloud is acceptable either in morning or in evening but not in midday since
 it is a bad omen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -928,8 +896,6 @@ flank of Ravana as Rama is not in vicinage. [3-52-18]
 bhaava/import: A lotus without a stalk looses its glamour as well as its infrastructure. As sun brightens
 the face of moon, Rama brightens Seetha's visage. As moon depends on sun, Seetha depends on Rama, and
 devoid of him, she is lost to the world for a glimpse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1019,8 +985,6 @@ when she wept, yet it is pleasant like moon for a sight with shapely nose, prett
 and shining with golden hue in sky. Nevertheless, when she has gone in the flank of Ravana on the sky
 such an immaculate face of Seetha turned like a palish moon that has just risen bursting a bluish cloud.
 [3-52-19, 20, 21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1044,8 +1008,6 @@ a silvern moon is there and this lady with her golden-moon face may supersede th
 thus may cause havocs. Moon coming out when sun is still on sky will be somewhat golden in hue. She
 is un-brightened because Rama is not at her side as of now, but like a diamond that is coexistent with
 coal, Seetha is now with this coal-like Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1113,8 +1075,6 @@ another verse, namely 30 below, contains similar 'elephant-golden-cincture' expr
 kakshyaa iva kaa.ncanii *Then, in the text of Maheshvara Tiirtha this verse 30 is pushed to a
 farther place that is at 30. 'Then unblemished it is, insofar as proximate reiteration is
 concerned...' it is said so.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1172,8 +1132,6 @@ overlain on a cloud does not seek the mercy of a *ghanaa ghanaH* 'a darkly massi
 The nearness or the proximity of a lightning and cloud is short-lived, so is this proximity of Seetha
 with Ravana. And the lightning will brighten a darkish cloud, but the darkish cloud cannot darken that
 silvery lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1225,8 +1183,6 @@ cloud with rumbles and undulating lightning. [3-52-25]
 
 dhvani/innuendo: A massive darkish cloud may rumble, roar or blare, but its bursting will be scanty
 and short. So also, this Ravana may appear like a thunderous cloud as of now, but it dissipates soon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1276,8 +1232,6 @@ surface, fallen.
 
 Flowers gracing her best body on her head, in garlands on chest, and on armlets have fallen all-over
 the surface of earth like showers of flowers while she is being abducted. [3-52-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1337,8 +1291,6 @@ are the flowers on her body fallen down by the gust caused by the speed of Ravan
 up-heaved and fallen on the body of Ravana...' In either the case, Goddess Lakshmi has blessed Ravana
 with the flowers fallen from her physique onto the head of Ravana, as with the flowers slid from an
 idol in a temple, becoming worthy to wear on heads of devotees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1385,8 +1337,6 @@ Ravana, the brother of Kubera. [3-52-28]
 dhvani/innuendo: This whirling and twirling of flowers around Ravana is not a one time affair. It is
 continued by his dashing speed. When the circling flowers are lowered by gravity, they are again up-heaved
 by Ravana's speed and thus it is recurrent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1434,8 +1384,6 @@ by Ravana's rush. When it is circuitously whirling, that ring's sparkles are lik
 in a circular band. And this ringlet is a symbolic of an electric ring-like guard for the entire earth
 against further atrocities on earth, which is why it exhibited its electric-sparks in sky for a while
 and descended onto earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1494,8 +1442,6 @@ running, and among them is a girdle rope with which he mounts that elephant with
 it. Here Seetha is that golden girdle to this elephantine Ravana, with the help that rope Rama, the
 mahout, can control this elephant in rut, namely Ravana, and can place that pachyderm in its elephant-stable.
 Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1553,8 +1499,6 @@ to set his home afire. Perhaps Ravana might have thought in similar way and thus
 gardens, instead of placing her in his golden palace, so that his golden palace will not be burnt with
 this torch, called Seetha. But the same torch burns that golden palace down to ashes, though not directly
 but indirectly through Hanuma, in Sundara Kanda, as a coincidence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1604,8 +1548,6 @@ taani bhuuSaNaani* = [some of] those, ornaments; *sa ghoSaaNi* = with, [much] cl
 
 Some of her ornaments which are lustrously flamy, for they are sparkling like the sparkles of fireworks,
 are strewn about on the plane of earth with much clatter like the stars pelted down from the sky. [3-52-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1667,8 +1609,6 @@ in Bala Kanda. The pearls of the pendant are shining like Ganga's glistening fro
 are her streams, and the string's wavy movement is Ganga's beautiful flexuous and curvy drift, moreover
 the stings are falling off medially from two mountains, called Seetha's breasts, as Ganga also rose
 and fell from mountainous heights.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1728,8 +1668,6 @@ the 'gesturing with raised and swaying hands wishing good to a departing travell
 as with 'ta-ta, cheerio, best of luck...'. The word is 'tree' which comes out of earth and stands on
 earth, thus an earth-born one. Seetha is also an earth-born one and kindred of trees, i.e., nature.
 Nature itself is assuring Seetha to not to fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1784,8 +1722,6 @@ The lakes with lotuses as their faces, and fishes as their eyes, and with the ot
 like the swimming, sweeping and sailing water-moving beings like tortoises, waterfowls and the like
 are unenthused, for a similar girlfriend of theirs, the lotus-faced, fish-eyed, lotus-modelled Seetha
 is beleaguered, and thus they are sorrowing for such a selfsame Maithili. [3-52-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1841,8 +1777,6 @@ pursuantly shadowing the shadow of Seetha. [3-52-36]
 dhvani/innuendo: Even the cruellest animals will be compassionate, if only humans are compassionate
 to them. Neither Seetha scared any animal nor any animal scared Seetha. This may be a useful verse for
 Animal Rights Activists.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1900,8 +1834,6 @@ face-level of mountains, but not from their peaks. Then how to express their ang
 who is up above the sky or pray the Almighty to rescue her? Hence, their raised mountaintops are their
 upraised arms, expressing all of their anguish, more so, with the booming weepy noise of the air coming
 out their caves, which in normal situations will be like the booming voicing of Sama Veda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -1949,8 +1881,6 @@ divaakaraH diinaH* = magnificent, day maker [Sun,] is saddened; *pra vi dhvasta 
 
 On seeing Vaidehi who is being abducted thus, magnificent Sun in firmament is saddened, and lowly weakened
 is his sunshine, palely whitened is his sun-disc, and faintly deadened is his solar constant. [3-52-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -2013,8 +1943,6 @@ not, is there; *satyam kutaH* = fundamental truth [conscience,] whereby; *aarjav
 "When Ravana is abducting none other than the wife of Rama, then there is no probity. At such a juncture,
 how conscience can prevail? Unfounded are candour and compassion," thus the throngs of all beings overly
 regretted. [3-52-39, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2038,8 +1966,6 @@ someday some seducer like Ravana may also lead them astray, as collapsed is the 
 candour or compassion. Hence, they are peeking out skyward repeatedly while Seetha is also looking down
 for Rama and Lakshmana, where the commonality is in the fawn-eyes filled with tears, both to the fawns
 and Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -2093,8 +2019,6 @@ shuddered, bodied; *babhuuvuH* = [bodies] happened to be.
 
 On seeing Seetha who is undergoing anguish in that way the sylvan deities physically shuddered in a
 worst way. [3-52-41b, 42a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -2158,8 +2082,6 @@ She who is looking searchingly at the plane of earth for Rama or Lakshmana, and 
 but mellowly voice calling "Rama, Lakshmana", and whose hair-lengths are tousled, and whose felicitous
 vermilion mark on her forehead is smudged very untidily, that Decahedral demon abducted such an uncompromising
 husband-devout, Vaidehi, only for his self-ruination. [3-52-42a, 43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 </details>
 
@@ -2217,8 +2139,6 @@ She who is already detracted from her kinsfolk in Mithila or in Ayodhya, that Ma
 and clean-cut smile is then distanced from the only two last kinsmen, for either Raghava or Lakshmana
 or both are unseen by her, and thus her face is paled for she is chastened by the cumber of consternation.
 [3-52-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

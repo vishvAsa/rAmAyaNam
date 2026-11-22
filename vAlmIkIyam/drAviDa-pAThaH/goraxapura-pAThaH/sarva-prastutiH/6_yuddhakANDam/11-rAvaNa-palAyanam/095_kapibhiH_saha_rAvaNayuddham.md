@@ -21,8 +21,6 @@ battle-field, where Rama and Lakshmana are while Ravana is sallying forth for th
 several bad omens presaging his death. On hearing the noise of the demons entering the
 battle-field, the army of monkeys return to the battle. A tumultuous fight ensues, between the
 monkeys and the demons. Ravana fights fiercely with monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -105,8 +103,6 @@ enraged; *babhuuva* = and assumed; *bhiimadarshanaH* = a frightful appearance.
 
 Sighing for a long time and remaining engrossed in reflection for a while, that
 Ravana was very much enraged and assumed a frightful appearance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -158,8 +154,6 @@ dissolution.
 Nipping his lips with his teeth, his eyes becoming blood-red with anger, and his
 sight becoming difficult to endure even for the demons, Ravana looked like the augmented fire of
 dissolution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -253,8 +247,6 @@ unagitated; *nR^ipaajJNayaa* = in accordance with the orders of the king.
 
 Hearing that command of Ravana, those demons were tormented with fear and enjoined
 those armies of demons, who felt unagitated, in accordance with the orders of the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -306,8 +298,6 @@ faces turned towards the battle-field.
 Saying, 'so it be', all those demons of terrible aspect, praying for the blessing of
 the Almighty for averting evil, sallied forth, with their faces turned towards the
 battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -349,8 +339,6 @@ palms.
 
 Paying reverence to Ravana according to the rules of propriety, all those great
 car-warriors stood with joined palms, wishing victory to their lord.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -400,8 +388,6 @@ _________________
 
 Laughing heartily, Ravana then, stupefied as he was with anger, spoke to those
 demons viz. Mahodara, Mahaparshva and Virupaksha, the demons as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -448,8 +434,6 @@ similar to the sun at the time of dissolution of the universe.
 
 "Today, I will send Rama and Lakshmana to the abode of Death, with my arrows looking
 similar to the sun at the time of dissolution of the Universe."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -493,8 +477,6 @@ _________________
 
 "By killing the enemies now, I will take vengeance for Khara, Kumbhakarna, Prahasta
 and Indrajit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -542,8 +524,6 @@ to view.
 
 "The sky overcast by my arrows, like clouds, will not be distinctly seen. Neither
 the quarters, nor the heaven, nor the seas will come to view."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -593,8 +573,6 @@ will kill; *yuuthaani* = troops; *vaanaramukhyaanaam* = monkey-chiefs; *adya*
 
 "With a multitude of plumed arrows joined with my bow, I will kill, by turns, the
 troops of monkey-chiefs today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -635,8 +613,6 @@ sainyaani* = the armies of monkeys; *sharormiH* = with waves of arrows;
 
 "By mounting on a chariot, having a speed equal to that of wind, I will destroy
 today the armies of monkeys, with waves of arrows arising out of the ocean of my bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -683,8 +659,6 @@ of monkeys; *padmakesara varchasaam* = shining like the filaments of louts;
 
 "Like an elephant, today I will destroy ponds in the form of troops of monkeys
 shining like the filaments of lotus, with their faces resembling full-blown lotuses."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -732,8 +706,6 @@ stalks.
 
 "With their faces transfixed with arrows, the monkey-leaders, lying on the
 battle-field today will adorn the earth as with lotuses together with the stalks."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -780,8 +752,6 @@ the most furious of their troop; *drumayodhinaam* = fighting with trees.
 
 "With each arrow released in battle today, I shall tear one hundred full of monkeys,
 the most furious of their troop, fighting with trees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -832,8 +802,6 @@ killed.
 
 "By killing the enemy today, I shall wipe off the tears of those demons, who lost
 their brothers and sons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -877,8 +845,6 @@ arrows; *prastirNaiH* = and lying scattered; *yuddhe* = in the battle-field;
 "With the monkeys pierced with my arrows, lying scattered in the battle-field and
 bereft of their lives today, I shall cover the earth so fully, that it would be possible to see its
 surface only with effort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -899,8 +865,6 @@ of the afflicted; *raakShasiinaam* = femal-demons; *kule kule* = in every house;
 
 Ravana for his part heard the mournful and plaintive cry of the afflicted
 female-demons in every house at Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -948,8 +912,6 @@ arrows.
 
 "Today, I shall satiate the crows, vultures and all those other creatures which eat
 the flesh, with the flesh of enemies, struck by my arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -997,8 +959,6 @@ the flesh, with the flesh of enemies, struck by my arrows."
 
 "Arrange my chariot quickly. Bring my bow swiftly. Let all the remaining demons
 here, follow me to the combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1046,8 +1006,6 @@ here, follow me to the combat."
 
 Hearing that command of Ravana, Mahaparshva ordered the army-chiefs, standing there,
 as follows: "let the army be made ready quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1096,8 +1054,6 @@ City of Lanka.
 Going around the city of Lanka, the army-chiefs for their part, with quick
 resolution, joined hand in hand and hastened the demons in every house to set out for the
 battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1178,8 +1134,6 @@ equipped with various weapons viz. swords, sharp-edged darts, pikes, maces, club
 weapons, sharp-edged javelins, huge Kutas and Mudgara, staffs, discuses of every kind, sharpened
 axes, slings for throwing stones, stones or cylindrical wooden pieces with iron pikes and other
 excellent weapons, rushed out within a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1227,8 +1181,6 @@ horses; *tadaa* = then; *bhiimaH* = the terrific Ravana; *aaruroha* = mounted;
 Then, as per the orders of Ravana, the army-commander hurriedly brought a chariot,
 moving swiftly, along with a charioteer and yoked with eight horses. Thereupon, the awful Ravana
 mounted that chariot, shining with his own splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1244,8 +1196,6 @@ forth; *sahasaa* = quickly; *daamyanniva* = as though he was cracking;
 
 Then, surrounded by several demons, Ravana sallied forth quickly, as though he was
 cracking the earth with a profundity of his strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1292,8 +1242,6 @@ couches; *kalahaiH saha* = along with the clamour; *rakShasaam* = of the demons.
 
 Thereupon, a great noise emanated on all sides from tabors, drums, Kettle-drums and
 counches along with the clamour of the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1369,8 +1317,6 @@ dynasty.
 A clamour was heard, saying "There comes the ruler of demons, the abductor of
 Seetha, the destroyer of Brahmanas, the enemy of gods, notorious for his bad conduct, accompanied
 by his canopy and pair of whisks, to fight with Rama, the foremost among the Raghu dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1417,8 +1363,6 @@ away; *bhayaat* = in fear.
 
 By that huge sound, the earth trembled. Hearing that sound suddenly, the monkeys ran
 away in fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1434,8 +1378,6 @@ victory; *jayaaya* = in quest of victory.
 
 The long-armed Ravana, for his part, with extra-ordinary energy, surrounded by his
 ministers, turned up for victory in quest of victory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1476,8 +1418,6 @@ then; *aaruruhuH* = ascended; *rathaan* = their chariots.
 
 Mahaparshva and Mahodara as also Virupaksha, who was difficult to overpower, as
 order by Ravana, then ascended their chariots.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1524,8 +1464,6 @@ the earth; *vimuN^chantaH* = and emitting; *ghoram* = an awful; naadam- uroar;
 
 Those demons, roaring elatedly, as though cracking the earth, and emitting an awfull
 uproar, sallied forth, longing for victory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1574,8 +1512,6 @@ raised bow; *niryayau* = set out; *yuddhaaya* = for the battle.
 
 Then, the powerful Ravana, resembling the all-destroying Time in the form of Yama,
 along with his army-troops of demons, set out for the battle with his raised bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1623,8 +1559,6 @@ there.
 
 Then, that Ravana, the great chariot-warrior, ascending his chariot driven by swift
 horses, sallied forth to the gate, where Rama and Lakshmana were.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1665,8 +1599,6 @@ notes; *mediniicha* = and the earth too; *samchachaala* = violently trembled.
 
 Then, the sun lost its radiance. The quarters too were enveloped in darkness. The
 birds emitted fearful notes. The earth too trembled violently.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1707,8 +1639,6 @@ a vulture; *nyapatat* = descended; *dhvajaagre* = on the top of the ensign;
 
 The cloud rained blood. The horses stumbled. A vulture descended on the top of the
 ensign. Jackals emitted sinister howls.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1758,8 +1688,6 @@ his voice; *kimchit* = was a little; *abhrashyata* = dropped.
 
 His left eye too throbbed. His left arm trembled. He became pale-faced. His voice
 was a little lowered.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1800,8 +1728,6 @@ his death; *jaN^jire* = appeared; *raNe* = in the battle-field.
 
 When Ravana the demon was sallying forth for the battle, the following evil
 phenomena, predicting his death, appeared in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1848,8 +1774,6 @@ together; *vaayasaiH* = with crows; *vineduH* = cried out aloud.
 
 A meteor with a sound similar to a thunder, fell down from the sky. Ill-omened
 vultures together with crows cried out aloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1897,8 +1821,6 @@ he was by fate.
 
 Ignoring these dreadful bad omens due to his ignorance, Ravana marched forward for
 the purpose of the massacre in battle, driven as he was by fate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1939,8 +1861,6 @@ army too; *vaanaraaNaam* = of monkeys; *abhyavartata* = returned;
 
 On hearing the sound of the chariot of those mighty demons, that army of monkeys too
 returned for the fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -1990,8 +1910,6 @@ api* = that army too; *vaanaraaNaam* = of monkeys; *abhyavartata* = returned;
 
 A tumultuous battle ensued between those monkeys and demons, who were fond of
 victory and summoning each other for combat with rage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -2031,8 +1949,6 @@ combat; *vanaaraaNaam aniikeShu* = with the army of monkeys.
 **अनुवादः**
 
 Thereupon, the enraged Ravana, with his arrows decked with that army of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -2073,8 +1989,6 @@ vivarjitaaH* = were made deprived of their ears.
 
 Some monkeys had their heads chopped off by Ravana. Some had their hearts pierced.
 Some were made deprived of their ears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -2125,8 +2039,6 @@ shirasaH* = had their heads broken; *kechit* = some; *kR^itaaH* = were made;
 
 Some were struck down breathless. Some were torn in their ribs. Some had their
 skulls smashed. Some were deprived of their eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -2175,8 +2087,6 @@ withstand; *sharapravegam* = the rapidity of his arrows.
 Whichever side Ravana was coming in his chariot on the battle-field, his eyes
 rolling in anger, those monkey-warriors, on that side, could not with stand the rapidity of his
 arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 </details>
 
@@ -2331,8 +2241,6 @@ per my command.
 Ravana, in words indistinct with anger as though consuming them with his glance,
 ordered the demons, standing there near him, viz. Mahodara, Mahaparshva and Virupaksha, the demon
 (as follows): "Tell the armies asking them to start immediately, as per my command."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

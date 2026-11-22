@@ -16,8 +16,6 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
 
 In this chapter Seetha asks Rama to take her to the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ In this chapter Seetha asks Rama to take her to the forest.
 
 Sita, who speaks kindly and deserves kind utterances, after hearing Rama's words,
 became angry out of love alone and spoke thus to her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ hearing.
 
 Oh, Rama the prince! What words these are you speaking? These light words certainly
 are to be laughed at by you and to me after hearning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ own; *puNyaani* = pious deals.
 
 "Oh, noble prince! Father, mother, brother, son and daughter-in-law accomplish their
 own good fortune, as benefitted by their own pious deeds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ husband; *atashcha* = for that reason; *ahamapi* = I am also; *aadishhTaa eva*
 
 "Oh, Rama the best of men! Wife for one gets fortune of the husband. For that
 reason, I am also destined to dwell in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ death.
 
 " To a woman, father or son or self or mother or female companion are not the
 recourse. Husband alone is forever the best recourse either in this world or after her death".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ stalks and thorns.
 "Oh, Rama! If you set forth now itself to the forest, which is difficult to be
 travelled, I shall come before you, by trampling down thorns and grass with long pointed
 stalks."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ me.
 
 "Oh, brave man! By abandoning, as water left over after drinking, the impatience and
 anger and having faith, take me. There is no sin in me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ the sky; *sarvavasthagataa* = or attaining all types of positions.
 "Protection under the feet of the husband is better than being on top of a lofty
 building or in aerial cars or in moving through the sky or in attaining all types of
 positions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 
 </details>
@@ -475,8 +457,6 @@ different subjects; *maatraacha* = by mother; *pitraacha* = and by father;
 
 "My mother and father taught me of different matters long ago. I need not be told
 now, how to deal in any way with anyone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -523,8 +503,6 @@ vR^ika sevitam* = inhabited by tigers and jackals.
 
 " I can come to forest which is inaccessible, which is devoid of people, filled with
 various types of animals and inhaited by tigers and jackals."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ though it is; *pituH* = father's; *bhavane* = house.
 
 "Not thinking of three world, thinking of loyalty to husband, I shall dwell in the
 forest happily as though staying in our father's house".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -618,8 +594,6 @@ which smell like honey.
 "Oh, brave man! performing service to you regularly, having the necessary
 discipline, observing chastity, I would like to stay with you in the forests which smell like
 honey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -669,8 +643,6 @@ janasya* = of other people; *kimpunaH* = why to tell; *mama* = about me?
 
 "Oh, Rama, the bestower of honour! Here in the forest, you are indeed capable of
 protecting other people also. Why to tell about my protection?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -717,8 +689,6 @@ forest) na shakyaa = cannot; *nivartayitum* = be prevented.
 
 "Today no doubt, I will come to forest along with you. Oh, the illustrious! I, with
 this intention, cannot be prevented to do so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -765,8 +735,6 @@ karishhyaami* = I will not create; *duHkham* = unpleasantness; *te* = to you.
 
 I shall live only on roots and fruits always, no doubt. Living along with you, I
 shall not create any unpleasantness to you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -814,8 +782,6 @@ grooves.
 
 " With you the learned and the lord, I shall not have fear anywhere. I wish to see
 rivers, mountains, small lakes and grooves."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ I desire; *drashhTum* = to see; *padminiiH* = lotus-ponds;
 
 I shall be comfortable, by coming together with you, the courageous man. I desire to
 see lotus- ponds filled with swans, water-fowls and excellently flowered.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -915,8 +879,6 @@ of joy; *ramsye* = I shall sport; *tvayaasaha* = with you.
 
 "Oh, the large eyed lord! Remaining dedicated to you, I shall take bath regularly in
 those lakes and with full of joy, I shall sport with you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -963,8 +925,6 @@ thus; *shatamvaapi* = spending also hundred; *varshhasahasraaNaam* = thousand ye
 
 Thus spending even a hundred thousand years in your company I shall never find any
 deviation/ Heaven also will not be acceptable to me otherwise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -1014,8 +974,6 @@ I; *na rochaye* = do not like tamapi = that too.
 
 Oh, Lion among men and seion of Raghu! Even if in heaven there is residence for me
 without you, I do not like it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -1067,8 +1025,6 @@ thought in the house; *pituH* = of father.
 I shall proceed to the forest, which is very much inaccessible and occupied by
 monkeys, elephants as well as other animals. Clining to your feet alone, I shall dwell in the
 forest as though in father's home.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -1129,8 +1085,6 @@ prayer; *ataH* = due to this; *na bhavishhyati* = there will be no; *gurutaa*
 "Therefore, grant well my prayer and usher me- me without any other thought, whose
 mind is fondly attached to you and who am determined to die if separated from you. Due to this,
 there will be no burden to you from me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 
@@ -1186,8 +1140,6 @@ highly; *enaam* = to her; *duHkhitaam prati* = about afflictions; *nivaasasya*
 sita along with him eventhought she was speaking as a foresaid. To hold her back
 from coming to forest, he also started talking highly of the various afflictions she might have to
 face in a forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga27/ayodhyasans27.htm)
 </details>
 </details>
 

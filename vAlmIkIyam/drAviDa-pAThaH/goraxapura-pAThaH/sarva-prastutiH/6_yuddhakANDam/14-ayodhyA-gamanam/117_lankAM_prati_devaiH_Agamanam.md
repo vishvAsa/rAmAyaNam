@@ -15,8 +15,6 @@ title = "११७ लङ्कां प्रति देवैः आगम�
 Gods reach Lanka in aerial cars and approach Rama. They ask Rama why he ignores
 Seetha, when she is entering into the fire. Rama appeals them to describe in reality who he is.
 Brahma (the creator) proclaims his divinity and eulogizes him with hymns.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ minded; *raamaH* = Rama; *tataH* = then; *dadhyau* = became thoughtfu;
 
 Hearing the cries of these who were thus wailing, the virtuous minded Rama then
 became thoughtful for a while, afflicted as he was with melancholy, his eyes filled with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -143,8 +139,6 @@ deceased ancestors, Indra the lord of celestials Varuna the lord of waters, the 
 the great deity who bears the device of a bull as his banner and having three eyes, Brahma the
 creator of all the worlds and the best among the knowers of sacred knowledge all these together
 reaching the City of Lanka in aerial cars, shining like the sun approached Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -187,8 +181,6 @@ spoke; *raaghavam* = to Rama; *sthitam* = who stood (there);
 Lifting their long arms, their hands decked with ornaments, those excellent gods
 thereupon, spoke (as follows) to Rama who stood there, making a respectful salutation to them with
 his folded hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -246,8 +238,6 @@ the troop of gods.
 "How do you, the maker of the entire cosmos, the foremost among those endowed with
 knowledge and an all-capable person, ignore Seetha who is falling into the fire? How do you not
 recognize yourself to be the foremost of the troop of gods?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -290,8 +280,6 @@ three worlds; *prajaapatiH* = and the lord of creatures.
 "Among the Vasus (a class of gods, eight in number), you are the Vasu, named
 R^itadhama (one whose abode is Truth or the Divine Law) who was formerly the self-constituted
 ruler, the first creator of all the three worlds and the lord of creatures."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -344,8 +332,6 @@ eyes.
 "You are the eighth Rudra among (eleven) Rudras and the fifth (Viryavan by name)
 among the Sadhyas (a particular class of celestials belonging to Gana Devata). The twin Aswinis are
 your ears. The sun and the moon constitute your eyes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -392,8 +378,6 @@ common man; *upekShase* = you are ignoring; *vaidehiim* = Seetha.
 
 "O the destroyer of the adversaries. You are seen (to exist) at the beginning and at
 the end of creation. Yet, you ignore Seetha, just like a common man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -442,8 +426,6 @@ foremost one among the protectors of righteousness; *abraviit* = spoke;
 Hearing the words of those guardians of the world, Rama, the lord of creation, who
 was born in Raghu dynasty and the foremost one among protectors of righteousness, spoke to those
 god-chiefs as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -491,8 +473,6 @@ god-chiefs as follows:
 
 "I think of myself to be a human being, by name Rama, the son of Dasaratha. You, as
 a gracious Divinity, tell me that which I as such really am like this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -543,8 +523,6 @@ lord!"
 
 Hearing the words of Rama, Brahma (the creator), the foremost among the knowers of
 Brahma the Absolute, spoke as follows: "Listen to my true word, O the truly brave lord!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -586,8 +564,6 @@ enemies.
 
 "You are the Lord Narayana himself the glorious god, who wields the discus. You are
 the Divine Boar with a single tusk, the conqueror of your past and future enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -636,8 +612,6 @@ one.
 "You are Brahma, the imperishable, the Truth abiding in the middle as well as at the
 end of the universe. You are the supreme righteousness of people, whose powers go everywhere. You
 are the four-armed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -690,8 +664,6 @@ endowed with great might.
 "You are the wielder of a bow called Sarnga, the lord of the senses, the supreme
 soul of the universe, the best of men, the invincible, the wielder of a sword named Nandaka, the
 all-pervader, the bestower of happiness to the earth and endowed with great might."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -742,8 +714,6 @@ the dissolution; *upendraH* = the Divine Dwarf (the younger brother of Indra);
 are the endurance and the subduer of the senses. You are the origin and the dissolution of all,
 Upendra the Divine Dwarf and (the younger brother of Indra) as also the destroyer Madhu, the
 demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -793,8 +763,6 @@ all).
 "You perform action for Indra the lord of celestials, the Supreme Ruler, the one
 having a lotus in one's navel and who puts an end to all in battle. The divine sages pronounce you
 to be fit to afford protection to all and the refuge for all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -872,8 +840,6 @@ thousand horns (precepts). You are the first creator of all, the three worlds, a
 constituted Lord of all. You are the refuge and the forbear of Siddhas (a class of demi-gods
 endowed with mystic powers by virtue of their very birth) and Sadhyas (a class of celestial
 beings.)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -923,8 +889,6 @@ the highest; nor your origin; *na bhavaan kaH iti* = nor who you are in reality.
 hearing which the Adhvaryu priest casts the oblation to a deity into the sacrificial fire). You are
 the mystic syllable 'OM'. You are higher than the highest. People neither know your end nor your
 origin nor who you are in reality."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -971,8 +935,6 @@ dikShu in all quarters; *gagane* = in the sky; *parvateShu* = in mountains;
 
 "You appear in all created beings in the cattle and in brahmanas. You exist in all
 quarters, in the sky, in mountains and in rivers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1021,8 +983,6 @@ mountains.
 "With thousand feet, with hundred heads and with thousand eyes along with Lakshmi
 the goddess of wealth, you bear the earth with all its created beings along with its
 mountains."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1073,8 +1033,6 @@ the demons.
 
 "O Rama! You appear as Sesha, a large serpent in water, at the earth's bottom,
 bearing the three worlds, gods, Gandharvas, the celestial musicians and the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1125,8 +1083,6 @@ In all your limbs; *devaaH* = the gods; *nirmitaaH* = have been created;
 
 "O Rama! I (brahma) am your heart. Saraswathi, the goddess (of learning) is your
 tongue. O lord! The gods created by Brahma are the hair on all your limbs."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1175,8 +1131,6 @@ of your words; *vedaaH* = are the Vedas; *tvayaa vinaa* = bereft of you;
 "Night has been recognized as the closing of your eye-lids and the day, as the
 opening of eye-lids. The correct usages of your words are the Vedas. Bereft of you, this visible
 universe does not exist."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1227,8 +1181,6 @@ mark Srivatsa = a curl of white hair on his breast).
 "The entire cosmos is your body. The earth constitutes your firmness. Fire is your
 anger. The moon constitutes your placidity. You are Lord Vishnu (who bears the mark Srivatsa - a
 curl of white hair on his breast)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1279,8 +1231,6 @@ raajaa* = was made king.
 "In the past, the three worlds were occupied by you in your three strides, after
 binding the exceptionally formidable Bali (the ruler of the three worlds) and Indra was made the
 king (by you)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1333,8 +1283,6 @@ Lord Vishnu; *bhavaan* = you; *kR^iShNaH* = are having a dark blue hue;
 "Seetha is no other than Goddess Lakshmi (the divine consort of Lord Vishnu), while
 you are Lord Vishnu. You are having a shining dark-blue hue. You are the Lord of created beings.
 For the destruction of Ravana, you entered a human body here, on this earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1386,8 +1334,6 @@ approach; *divam* = your divine abode; *prahR^iShTaH* = with a rejoice.
 "O Rama, the foremost among the supporters of righteousness! The aforesaid purpose
 of ours has been fulfilled. Ravana has been killed. Return to your divine abode, with a
 rejoice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1435,8 +1381,6 @@ vain.
 
 "O Lord! Unerring is your valour. Your exploits are never in vain. O Rama! Your
 blessed sight is powerful. The songs in praise of you never go in vain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 </details>
 
@@ -1509,8 +1453,6 @@ this world; *paratra cha* = and in the next world.
 "Those humans who are full of devotion to you will never be unsuccessful on this
 earth. Those who are devoted to you, the primeval and the eternal lord, belonging to ancient times
 and the Supreme Person, will forever attain their desired objects here as well as hereafter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga117/yuddhasans117.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

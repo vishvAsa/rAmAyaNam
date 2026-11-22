@@ -22,8 +22,6 @@ Here she advises Vali not to confront Sugreeva, as long as Rama stands guard to 
 says after a logical discourse and reasons, why not Sugreeva be made the Prince Regent of
 Kishkindha, even at this juncture, where she foresees a calamity to Vali. But Vali, maddened in his
 intellect by his brawny might slights her far fetching advice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ great-souled [plain-spoken] one, brother's, his, Sugreeva's; *tam ninaadam* = th
 
 Then the illiberal Vali has clearly heard that outcry of his plain-spoken brother
 Sugreeva from his palace chambers. [4-15-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ aapaaditaH ca* = high, furore, superimposed, also.
 
 On hearing Sugreeva's outcry that is shuddering all beings Vali's insolence is
 diminished as high furore superimposed on it. [4-15-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ prabhataam gataH* = immediately, without, luminosity, went into [rendered as.]
 
 Then, embitterment overspreading on all his limbs Vali with golden-hue is
 immediately rendered non-luminous like the eclipsed sun. [4-15-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ lake whose red-lotuses are uprooted leaving stalks afloat. [4-15-4]
 Vali's aspect is like a lake into which an elephant on its entry creates turmoil
 and uproots its red-lotuses, thus leaving the pond with their stalks afloat and its clear water
 turning reddish due to the elephant's heaving of the slushy red-mud. Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ though; *niSpapaata* = bolted out.
 
 That monkey Vali then on hearing that intolerable noise bolted out of palace
 chambers thumping his feet as though to shatter the earth. [4-15-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -325,8 +313,6 @@ this, word; *uvaaca* = said.
 His wife Tara stepped in and showing goodwill and amity hugged him, for she is in
 fear and bewilderment, and said this word that is beneficial in its futurity if Vali heeds it.
 [4-15-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -377,8 +363,6 @@ enjoyed, chaplet, like; *saadhu tyaja* = gently, leave off.
 "Oh brave one, you better gently leave off this anger that is coming on like a
 gushing river as is done with an enjoyed chaplet on getting up from bed in early hours.
 [4-15-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -440,8 +424,6 @@ nor you are trivialised evidently, for you are a braving one. [4-15-8]
 Fighting on next day morning means that Sugreeva has come in the evening time.
 This is not accepted by some and they give meaning to the word** *kaalyam*
 differently.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -457,8 +439,6 @@ tell.
 
 "Your quick exiting is disagreeable for me, and what for you are dissuaded that may
 be listened as I tell. [4-15-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -506,8 +486,6 @@ nonentity; *hanyamaanH dishaH gataH* = by you, being battered, into directions, 
 "Earlier Sugreeva came assaulting and inviting you for a combat, and you also have
 gone out and rendered him as a nonentity, and being battered by you he fled in all directions.
 [4-15-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -554,8 +532,6 @@ shankaam janayati iva* = to me, doubt, causing, like that.
 
 "He who is undone earlier by you, particularly after torturing by you, his coming
 here again and inviting you for a duel is causing a doubt in me. [4-15-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -602,8 +578,6 @@ isn't it.
 
 "The arrogance and endeavour of the shouter, and even the rampage of his furore, all
 these will not have a trivial reason, isn't it. [4-15-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -650,8 +624,6 @@ depending on, he is [Sugreeva is,] roaring.
 
 "I do not think that Sugreeva has come here unaccompanied, and on whom he is
 dependant must be an unflinching support foregathered by Sugreeva. [4-15-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -701,8 +673,6 @@ friendship; *na eSyati* = will not, engage [in friendship.]
 
 "By his nature Sugreeva is an expert and even so a clever one, and he does not enter
 into friendship with anyone without examining his mettle. [4-15-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -752,8 +722,6 @@ word, now, I will tell.
 
 "I am already briefed by our son Angada's information, and what I have heard I will
 now relate that helpful word to you. [4-15-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -799,8 +767,6 @@ upanirgataH* = in forest, interior, [went and] came out of; *tena pravR^ittiH ka
 
 "Son Angada said this account when he returned from forests, and to him spies are
 said to have reported this. [4-15-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ desire, to fulfil; *tatra praaptau* = there [at Sugreeva's place Rishyamuka,] ar
 unconquerable ones in war, called Rama and Lakshmana are there in this country. These two
 unassailable ones have chanced there at Sugreeva's place to fulfil the longing desire of Sugreeva.
 [4-15-17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -930,8 +894,6 @@ bhraatuH sahaayaH hi* = your, brother's, helpmate, they say so.
 "He is an acclaimed one for his warfare, and like the fire flaring up at the end of
 era he shatters the strength of enemies, and he is Rama your brother's helpmate, they say so.
 [4-15-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -947,8 +909,6 @@ also, the only, abode.
 
 "And he is said to the habitable tree for the polite, the ultimate course for the
 woebegone, a hospice for the agonised, and for grace Rama is the only abode. [4-15-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -997,8 +957,6 @@ aakaraH* = for merits, greatest, mine.
 "He is endowed with the knowledge of mundane and ultra-mundane things, he always
 abides in the directives of his father, and as with Mt. Himalayas for all natural elements he is
 the greatest mine of merits. [4-15-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1106,8 +1064,6 @@ vairaagya*. And there are many more in the depth of the soul of Rama hitherto un
 such, there are innumerable and auspicious elements, or merits, in him *dhaatuunaam
 shailendraH*. These elements neither subdivide nor shake him off his Himalayan personality, in
 the pursuit to establish dharma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1159,8 +1115,6 @@ become overcritical; *na ca icChaami* = not, also, I wish; *tava hitam yat vaksy
 "Oh dauntless one, I tell you this much that you shall not become overcritical of
 him, and what I say is beneficial to you that may now be listened and even implemented. [4-15-22b,
 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1207,8 +1161,6 @@ with younger, brother; *vigraham maa kR^ithaa* = hostility, not, be made.
 
 "Oh, king, let Sugreeva be decorously and quickly anointed as prince regent, and oh,
 resolute one, let there be no hostility to your own younger brother. [4-15-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1255,8 +1207,6 @@ appropriate, I, deem, in effect.
 
 "Achieving unanimity with Sugreeva and solidarity with Rama by discarding enmity, in
 effect is appropriate for you, thus I deem. [4-15-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1299,8 +1249,6 @@ there, or; *sarvathaa te bandhuH eva* = in any way, kinsman, just, of yours.
 
 "This Sugreeva is your younger brother and you should be keen about him, isn't it...
 and whether he is here or there in Rishyamuka he is just your brother. [4-15-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1347,8 +1295,6 @@ tava paarshve tiSThatu* = him, by your, side, be kept.
 "Indeed, I do not see anyone on earth a coequal to him in kindred spirit, hence
 leave off this enmity and honour him with bestowals and felicitations as an insider, and retain him
 at your side. [4-15-26b, 27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1397,8 +1343,6 @@ there.
 "That boisterously voiced Sugreeva is indisputably an excellent kinsman of yours,
 and hence brace yourself with the fondness of brotherhood, as there is no other way out to you.
 [4-15-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1449,8 +1393,6 @@ happen.
 
 "If you look upon to do my favoured deed, and if you look upon me as an expedient
 one, I beg of you in our loving attachment that my gentle word of advise be done. [4-15-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1511,8 +1453,6 @@ hi* = to you, confrontation, not, pardonable, indeed.
 following up rancour alone is unbecoming of you, thereby your confrontation with the Prince of
 Kosala will be unpardonable for his dynamism equals that of Indra." Thus Tara spoke to her husband
 Vali. [4-15-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 </details>
 
@@ -1566,8 +1506,6 @@ is not, impressive.
 
 Then, though Tara spoke beneficial and advisable words they are unimpressive to Vali
 for he is impounded by fatality and driven by time to his doom. [4-15-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

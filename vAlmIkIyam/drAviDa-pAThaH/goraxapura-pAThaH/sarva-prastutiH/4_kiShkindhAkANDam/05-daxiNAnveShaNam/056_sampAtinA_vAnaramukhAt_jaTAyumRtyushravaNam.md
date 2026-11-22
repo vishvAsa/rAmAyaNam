@@ -19,8 +19,6 @@ misfortune. He praises that Jataayu is better off than the vanara-s for he encou
 attained martyrdom. On listening his brother's name and news of his death, Sampaati, who firstly
 wanted to gluttonise all the vanara-s, seeks their help to lower him down from mountain heights, to
 listen more of his brother Jataayu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -88,8 +86,6 @@ At which mountain's tableland those monkeys sat down for self-immolation, to tha
 area the elder brother of Jataayu, a kingly eagle known as Sampaati by name, one renowned one for
 his forcefulness and aggressiveness, and a celebrated and sempiternal sky-flying eagle has arrived.
 [4-56-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -136,8 +132,6 @@ coming out; *upaviSTaan hariin dR^iSTvaa* = those who sat down, monkeys, on seei
 
 On coming out of the cave of the great-mountain Vindhya, Sampaati is gladden at
 heart to see the monkeys sitting down there, and he spoke these words. [4-56-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -195,8 +189,6 @@ me, fated; *ayam bhakSyaH upa aagataH* = this, food, came nigh of me.
 
 "Whether it is good or bad, fate indeed follows humans in this world procedurally,
 why because, this fated and long-waited food has now come nigh of me... [4-56-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -224,8 +216,6 @@ death occurs prior to their becoming prey to Sampaati. He feared to become the p
 whereby their sacred immolation is also going to fail along with other failures like searching
 Seetha, transgressing timeframe, hiding in Black Hole etc. Besides, a vulture is the most
 unpredictable bird, if it comes to it food.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ Hanuma, spoke.
 
 On hearing the words of that gormandising bird, Angada became highly breathless and
 then spoke to Hanuma. [4-56-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -330,8 +318,6 @@ us... [4-56-7]
 Some mms have the name of Seetha compared to Yama, saying that Yama come in the
 name of Seetha, while some say it is Sampaati. Here Sampaati is taken as the manifestation of
 Death, rather than Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -378,8 +364,6 @@ abruptly, bechanced.
 
 "We fulfilled neither Rama's task, nor the decree of our king, but this unknown
 catastrophe has abruptly bechanced for the monkeys... [4-56-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ wishing to; *gR^idhra raajena* = eagle, by kingly; *jaTaayuSaa* = by Jataayu;
 
 "You all have heard in its entirety what deed the kingly Jataayu has done wishing to
 do good to Vaidehi... [4-56-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ agreeable things, are doing; *yathaa vayam* = as with, us.
 
 "Like that all beings, even those birthed in animality, are doing what that is
 agreeable to Rama even on forgoing their own lives, as with us... [4-56-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -524,8 +504,6 @@ one's self [soul,] by oneself [soulfully,] may leave off.
 
 "Even animals will be mutually succouring by their instinct of concern and
 camaraderie, therefore, let each of us leave off our souls, soulfully... [4-56-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -578,8 +556,6 @@ we have; *maithiliim na ca pashyaama* = Maithili, not, even, we saw.
 "Conscientious Jataayu has done a deed much liked by Rama, and we too have been
 trekking the forests without caring even for our lives in the cause of Rama, but we have not seen
 Maithili... [4-56-12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -633,8 +609,6 @@ c]
 Sugreeva is not only the sovereign of monkeys but to all animal worlds also, and
 even to all birds of Aves kingdom, *nidificatis aves, apes, oves...* as Virgil would say. So slain by
 Ravana, Jataayu is absolved of sin and fear of Sugreeva, as well. Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -684,8 +658,6 @@ have come to Kishkindha, but would have gone to Lanka straightaway. At least, if
 dead he would have called Rama and others back to Ayodhya, thus the question of Seetha's abduction
 does not arise. Because these two are dead, Seetha is abducted and their deaths became a deadly
 predicament for us... the monkeys...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -748,8 +720,6 @@ kR^itam ca* = this, wrong, deed [quandary,] also; *kR^itam* = is done [bechanced
 along with Seetha and Lakshmana, as a result Rama's fury eliminating complete demons of
 Janasthaana, and as a result Raghava's arrow exterminating Val, have come to pass." Thus Angada is
 lamenting. [4-56-15,16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -816,8 +786,6 @@ information about Jatayu, and that high minded Sampaati sorrowfully spelled out 
 
 Some versions of Valmiki Ramayana end this chapter with this verse and continue
 next verses in the next chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -867,8 +835,6 @@ on hearing; *vacanam abraviit* = sentence, said.
 
 That shredder-billed eagle Sampaati said this sentence voicing thunderously on
 hearing words voiced by Angada. [4-56-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -915,8 +881,6 @@ announces; *ayam kaH* = this one, who is.
 
 "Who speaks to announce as though to quake my heart that Jatayu, the more precious
 brother of mine than my own lives, is slain? [4-56-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -966,8 +930,6 @@ between demon, eagle; *yuddham* = combat; *katham aasiit* = how, occasioned;
 
 "How a combat occasioned between that eagle and a demon in Janasthaana, and how am I
 hearing this name of my brother after a long time... [4-56-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -1028,8 +990,6 @@ time; *kiirtitanaat* = by [your] praising; *parituSTaH asmi* = gladdened, I am.
 "I wish you to get me down from these mountain soars. After a long time I have heard
 about my younger brother who is straightforward, praiseworthy for his valour, and I am glad that
 too spoke of him praisefully... [4-56-21, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1045,8 +1005,6 @@ Jataayu; *vinaasham shrotum icCheyam* = of death, to listen, I wish to.
 
 "Thereby, oh, best vanara-s, I wish to listen about the death of my brother Jataayu
 when he was in Janasthaana... [4-56-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -1096,8 +1054,6 @@ sakhaa* = my, bother, his [to Jataayu,] alone, also, friend; *katham [mR^itam]* 
 
 "Whose eldest and dear son is Rama, the creditable one for doyens, that Dasharatha
 is the friend of my brother Jatayu/ But how did Dasharatha pass away? [4-56-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 </details>
 
@@ -1149,8 +1105,6 @@ therefore]; *asmaat parvataat* = from this, mountain; *ava tartum* = down, climb
 "I am incapable to spread my wings widely as they are burnt by Sun's rays, hence oh,
 enemy-chasteners, I wish you to lower me down from this mountain..." Thus Sampaati sought for the
 help of monkeys. [4-56-24b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Brahma commends Bhageeratha in bringing Ganga onto earth which none
  of his ancestors could do. Brahma blesses Ganga to be the daughter of
  Bhageeratha. Brahma advises him to offer water-oblations to his manes
  with the sanctified waters of Ganga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ Brahma commends Bhageeratha in bringing Ganga onto earth which none
  which is dredged up by the sons of Sagara, and entered the subterranean
  of earth where the sons of Sagara are rendered to ashes." Thus Vishvamitra
  continued his narration about the Descent of Ganga. [1-44-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -91,8 +87,6 @@ Brahma commends Bhageeratha in bringing Ganga onto earth which none
 While the waters of Ganga are inundating those ashes, oh, Rama, then
  Brahma, the lord of all worlds, indeed spoke this to the king Bhageeratha.
  [1-44-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -136,8 +130,6 @@ While the waters of Ganga are inundating those ashes, oh, Rama, then
 Oh, tigerly-man Bhageeratha, the sixty thousands sons of great souled
  Sagara have crossed over the sea of mortality, and on a par with the
  gods they have also transited to heaven. [1-44-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -182,8 +174,6 @@ _________________
 
 As long as the water of the ocean abides in the world, oh, king,
  so long the sons of Sagara will abide in heaven like gods. [1-44-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -232,8 +222,6 @@ This Ganga will become your eldest daughter and hereafter she will
 
 Otherwise, 'by your fatherhood she will be called Bhaageerathi and your
  names becomes her surname.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -286,8 +274,6 @@ Henceforth heavenly Ganga will be renowned as 'Triple-path-cruiser'
  worlds, namely, svarga, bhuu, paataala loka-s,
  'heaven, earth and netherworld' she will be remembered as the traveller
  on triple path. [1-44-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -331,8 +317,6 @@ Henceforth heavenly Ganga will be renowned as 'Triple-path-cruiser'
 You may now offer water-oblations to all of your forefathers in the
  waters of Ganga, oh, king, the lord of people, thus you may fulfil and
  do away with the pledge of your requiescat. [1-44-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -377,8 +361,6 @@ Your ancestor Sagara is a highly glorious one and a best one
  among righteous persons, oh, king, even then he has not achieved this
  aspiration of alighting Ganga in his lifetime, but you have achieved
  it. [1-44-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -426,8 +408,6 @@ Your ancestor Sagara is a highly glorious one and a best one
 Like that, your grandfather Amshuman, who is unequalled in his resplendence
  in this world and who had been praying for the descent of Ganga, he
  also could not dispense with this vow on fulfilling it. [1-44-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -482,8 +462,6 @@ Oh, impeccable Bhageeratha, even by the kingly-sage Dileepa whose
 
 The content of verse 10 at times will be attributed to verse 9, viz.,
  to Amshuman, rather than to Dileepa.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -526,8 +504,6 @@ The content of verse 10 at times will be attributed to verse 9, viz.,
 But, you have accomplished that pledge, oh, the best one among men,
  and in the world you have achieved highest renown which is highly adorable
  by all. [1-44-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -571,8 +547,6 @@ That 'Descent of Ganga' is perfected by you, oh, enemy-represser,
  and by this you have acquired a genuine basis for righteousness in this
  world, and thereby a base for yourself in my world, namely Abode of
  Brahma. [1-44-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -625,8 +599,6 @@ The waters of other rivers have a blemish called *rajasvala doSa*
  for the ladies called, the rivers. But Ganga is beyond these taboos
  because it is perennial, hence her is sanctifying. Some more details
  are given in endnote of this chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -670,8 +642,6 @@ The waters of other rivers have a blemish called *rajasvala doSa*
  water of Ganga, let there be wellbeing to you, and oh, king, here I
  go to my abode and you too may depart to yours.' Thus Brahma said to
  Bhageeratha. [1-44-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -714,8 +684,6 @@ The waters of other rivers have a blemish called *rajasvala doSa*
 On saying in this way, the forefather of all the worlds, and the great
  glorious lord of all gods, namely Brahma, went away to his empyrean
  world as he has came. [1-44-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -774,8 +742,6 @@ On according those best water-oblations that endow superior realms
  only that king re-entered his own city, indeed when his purpose is completely
  achieved, and oh, outstanding man Rama, thus that king Bhageeratha ruled
  his kingdom well. [1-44-17, 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -823,8 +789,6 @@ On regaining him as their king the subjects of the kingdom are overjoyed,
  and oh, Raghava, that king Bhageeratha too is relieved of his febrility
  as his purpose is achieved and he is happy when devoid of haunting grief
  of getting Ganga to earth. [1-44-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -869,8 +833,6 @@ Oh, Rama, this way I described to you about 'The Decent of Ganga' in
  elapsing no more questions from you for now, and let us meditate on
  Gayatri. But listen to the fruits of listening the legend of *
  ganga avataraNa,* 'The Descent of Ganga' [1-44-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -922,8 +884,6 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
  he is from Brahmans or from Kshatriya-s, or for that matter of fact
  from any other class, his manes will be satisfied, and gods too will
  be gladdened. [1-44-21, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 </details>
 
@@ -970,8 +930,6 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
  are achieved, all his sins are obliterated, and his reputation and longevity
  are also enhanced." Thus Vishvamitra concluded the episode of 'The Descent
  of Ganga.' [1-44-22b, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ After encouraging Sugreeva to challenge Vali for a second time duly wearing a fl
 of identification between the two brothers, Rama and others proceed to Kishkindha. On their way they
 chance to see a divine hermitage called sapta jana aashrama 'Hermitage
 of Seven Sages.' On worshipping it they proceed to Kishkindha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -92,8 +90,6 @@ sugriivaH* = with, Sugreeva; *R^ishyamuukaat* = from Rishyamuka; *vaali vikrama 
 That righteous Rama readying his great bow decorated with gold, and on taking blazing sun similar arrows
 that are victory-oriented in wars, proceeded from Rishyamuka along with Sugreeva to the city ruled by
 the valour of Vali, namely Kishkindha. [4-13-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -138,8 +134,6 @@ great mighty one, Lakshmana, also; *yayau* = storde.
 **अनुवादः**
 
 Stern-necked Sugreeva and the great mighty Lakshmana strode ahead of that great soul Rama. [4-13-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -185,8 +179,6 @@ energy, monkeys, captain of, captains Tara. [yayau = proceeded.]
 
 The brave Hanuma, dauntless Nala and Neela, and the captain of monkey's captains Tara of great energy
 followed them rearward. [4-13-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -238,8 +230,6 @@ saritaH rivers; *viikSamaaNaa* = [yayau] = looking at, they moved on.
 
 They moved on looking at the trees that are drooping with the weight of their flowers, and at he rivers
 that are carrying pleasant water while themselves are coursing towards ocean. [4-13-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -261,8 +251,6 @@ The words *kandara*, and *guha* have different meanings. *
 kandaraaNi = mandira aakaara parvata vivaraaNi = *house-like mountain cavities;
 *nir+daraaNi = shaila vivaraaNi; guhaaH = deva khaata giri bilvaani-*deep mountain caves made by
 divinities - Rama Tilaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -332,8 +320,6 @@ the priceless possessions for livelihood as well.
 The following two verses contain the foots in one *samaasa*/ one compound which if read in a
 spell will be rhythmic. The first foot of verse nine is one *samaasa* / one compound only. Both
 the unbroken compound and segregated word order are given below for reading pleasure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -386,8 +372,6 @@ shakunaiH* = with other, birds; *prati naaditaan* = in reverb, sounding [reverbe
 
 Those lakes are reverberant with Karandava-s, Saarasa-s, Swans, Vanjula-s and other waterfowls, also
 like that with Chakravaaka-s and other birds. [4-13-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -439,8 +423,6 @@ carataam sthitaan* = moving, standing; *apashyan hariNaan* = have seen, deer.
 
 They have seen fearless deer feeding on soft grass blades everywhere, somewhere moving here and there
 in the forest, and else where standing. [4-13-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -501,8 +483,6 @@ _________________
 
 They have also seen the forest elephants that have white tusks for their ornaments and that are moving
 in herds, and which are the dangerous enemies of lakes as they destroy lakebeds. [4-13-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -527,8 +507,6 @@ and bellowing on mountain ridges. [4-13-11]
 
 If the first foot *mattaan giri taTa udghuSTaan* is connected with verse 10, it can also be said in respect
 of elephants like 'the elephants in rut are moving like mobile mountains and noisy on the mountain crags.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -550,8 +528,6 @@ quickly moved on. [4-13-12]
 The two words *vihangama* and *khecara* mean a bird. But the *vihangama* is the
 cognate word and *khecara* is its adjective, as observed by Dr. Satya Vrat in his: The Ramayana
 - A Linguist Study.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -597,8 +573,6 @@ cognate word and *khecara* is its adjective, as observed by Dr. Satya Vrat in hi
 
 While they are quickly going, Rama, the delight of Raghu's dynasty, saw there a clump of forest trees
 and he asked Sugreeva like this. [4-13-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -645,8 +619,6 @@ like, shining forth.
 
 "This cluster of trees surrounded with plantain trees is like an accumulation of thick clouds, and this
 is shining forth like a cloudscape in sky. [4-13-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -691,8 +663,6 @@ tvayaa* = inquisitiveness, to be clear, be made, I, wish to, by you.
 **अनुवादः**
 
 "What is this? I wish to know and oh, friend, I wish you to clear this inquisitiveness of mine. [4-13-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -738,8 +708,6 @@ tvayaa* = inquisitiveness, to be clear, be made, I, wish to, by you.
 
 On hearing that sentence of that great soul Raghava, then Sugreeva described about the significance
 of that forest while proceeding on the way. [4-13-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -785,8 +753,6 @@ of that forest while proceeding on the way. [4-13-16]
 
 "Raghava, this spacious hermitage with abundant gardens and dainty tubers, fruits and water is a weary
 remover." Thus Sugreeva started telling Rama. [4-13-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -837,8 +803,6 @@ munayaH aasan* = hermits, were there.
 "There were hermits named *sapta jana*, Seven Persons, who were dourly vowed
 with their heads pendulous downward and legs up, as in *shiirSa aasana* ,
 the upside-down yogic body posture, and who always reclined in water. [4-13-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -888,8 +852,6 @@ _________________
 
 "They were making diet on air alone that too once in seven days, and living unwaveringly in that way
 they practised their asceticism for seven hundred years and went to heavens with their bodies. [4-13-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -938,8 +900,6 @@ _________________
 
 "This hermitage that has encircling trees for its compound wall has become highly unassailable even
 for Indra together with all gods and demons. [4-13-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -988,8 +948,6 @@ in there, enter; *te punaH na nivartante* = they, again, not, returning.
 
 "Birds and other forest moving animals forbear this hermitage and those that unknowingly enter in there
 they do not return. [4-13-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1036,8 +994,6 @@ divine, also - you can smell.
 
 "From there artistically worded lyrical and instrumental tunes, and even the sounds of ornaments are
 audible, and oh, Raghava, one can sense a divine fragrance too. [4-13-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1085,8 +1041,6 @@ dhuumaH pradR^ishyate hi* = this, smoke, is apparent, indeed.
 
 "Even the triadic ritual-fires glow there, and their thick and ochry coloured smoke like that of a reddish-brown
 pigeon is apparent muffling the treetops. [4-13-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1129,8 +1083,6 @@ yathaa* = lapis', mountains [gem-mountains,] as with; *prakaashante* = they beam
 
 "When that smoke is mantling their tops these trees are beaming forth like mountains of gems overlaid
 with clusters of clouds. [4-13-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1177,8 +1129,6 @@ with clusters of clouds. [4-13-24]
 
 "Offer salutations determinedly and adjoining palms addressing the sages called Seven Persons, oh Raghava,
 along with brother Lakshmana [4-13-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1228,8 +1178,6 @@ in bodies [bodily]; *kimcit* = in the least; *a shubham* = not, auspicious - tra
 
 "Those that offer salutations to those sages with contemplated souls will evince no bodily trauma in
 the least." Thus said Sugreeva to Rama. [4-13-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1275,8 +1223,6 @@ them the sages, on addressing; *abhyavaadayat* = offered salutations.
 
 Then Rama along with brother Lakshmana adjoined palms, addressed himself to the great-souled sages known
 as Seven Persons, and offered salutations to them. [4-13-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1325,8 +1271,6 @@ jagmuH sam hR^iSTa maanasaaH* = proceeded, well, pleased, at heart.
 
 That righteous Rama along with brother Lakshmana, Sugreeva and other monkeys having worshipped those
 sages proceeded to Kishkindha well-pleased at heart. [4-13-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1373,8 +1317,6 @@ gatvaa* = long, on way, on going; *vaali paalitaam duraadharSaam taam kiSkindhaa
 
 Having gone a long way from that hermitage of Seven Persons they have seen that unassailable and Vali
 ruled city namely Kishkindha. [4-13-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 </details>
 
@@ -1429,8 +1371,6 @@ by his brawn, ruled; *puriim* = to city; *punaH iha aagataaH* = again, to here, 
 Then Rama's bother Lakshmana, Rama, and other monkeys wielding their weapons and flaring with their
 upsurged fiery again came to eliminate that enemy Vali to the city that is ruled by the brawn of the
 same Vali, the son of Indra. [4-13-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

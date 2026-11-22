@@ -19,8 +19,6 @@ entire world. He recites the Genealogy of Rama's line. He informs that Aja and S
 sons of Nabhaga and it was Aja who begot the virtuous King Dasaratha; Rama's father. Vasishta also
 informs Rama that i the whole of Ikshvaku race, only the eldest son becomes the king. He requests
 Sri Rama not to violate this tradition and take over the reins of Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -135,8 +133,6 @@ self-existent; *brahmaa* = Brahma; *daivataiH saha* = with all the gods;
 
 "All was water only in the beginning" from which element the earth was formed. After
 that, the self-existent Brahma with all the gods came into existence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -184,8 +180,6 @@ world.
 
 "Thereafter, that Brahma, assuming the form of boar, caused the earth to rise from
 water and with his sons of pure soul, created the entire world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -233,8 +227,6 @@ begotten from ether; *tasmaat* = and from him; *mariichiH* = Marichi;
 
 "The eternal, changeless and imperishable Brahma was begotten from ether and from
 his was born Marichi. Marichi's son was kashyapa."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -282,8 +274,6 @@ son.
 
 "From Kashyapa, Vivasvan(sun-god) was born. manu was the son of Vivasvan. Manu for
 his part, was formerly the lord of creation. Ikshvaku was Manu' s son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -331,8 +321,6 @@ Ayodhya.
 
 "The entire fertile earth was given by Manu to Ikshvaku and know that Ikshvaku was
 thus the first king of Ayodhya!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -379,8 +367,6 @@ thereafter; *kukSeH* = kukshi's; *aatmajaH* = son; *viiraH* = was the valiant;
 
 "Ikshvaku's son was known as Kukshi, the illustrious king. Then, Kukshi's son was
 the valiant Vikukshi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -430,8 +416,6 @@ the mighty armed; *mayaayashaaH* = and the most illustrious one.
 
 "To Vikukshi was born the most splendid and powerful son, Bana. To Bana was born
 Anaranya the mighty armed and the most illustrious son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -478,8 +462,6 @@ was no; *anavR^iSThiH* = dearth of rain; *na* = nor; *durbhikSam* = drought;
 
 "While this King Anaranya, the most excellent among beings was reigning, there was
 neither dearth of rain nor a drought. No one was a thief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -530,8 +512,6 @@ mortal body; *satya vachanaat* = for his true eloquence.
 "From Anaranya was born the mighty armed king Prithu. From Prithu was born the
 Emperor Trishanku. That valiant man ascneded to heaven along with his mortal body, because of his
 true eloquence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -578,8 +558,6 @@ Dundhumara; *dundhumaarut* = from Dundhumara; *vyajaayata* = was born;
 
 "To Trishanku was born a son, the highly illustrious Dundhumara. From Dundhumara was
 born the hero, Yuvanasva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -652,8 +630,6 @@ illustrious; *bharataH* = Bharata; *ripusuudanaH* = the annihilata of enemies.
 "The illustrious Mandhata was born as a son to Yuvanasva. To Mandhata was born the
 hero, Susandhi. There were two sons Dhruvasandhi and prasenajit to Susandhi. From Dhruvasandhi was
 born the illustrious Bharata, the annihilator of enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -723,8 +699,6 @@ valiant; *shashibindavashcha* = shashibindavas; *upapadyanta* = became;
 
 "From the mighty armed Bharata was born a son named Asita, for whom his royal
 adversaries, Haihayas, Talajanghas and the valiant Shashibindavas became the enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -776,8 +750,6 @@ Asita; *pravaasitaH* = was driven away; *saH* = he; *babhuuva* = became;
 "Having drawn out his battle-array against all those kings in a combat, the king
 Asita was driven away. Asita then became a devoted sage taking asylum in an excellent and charming
 mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -837,8 +809,6 @@ of foetus.
 
 "Asita's two wives became pregnant. It is a hearsay that one of his wives gave
 poison to the other co-wife in order to destroy her foetus."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -857,8 +827,6 @@ to get a boon; *putrajanmani* = for the birth of a son.
 "A sage called Chyavana, belonging to Bhrign race was staying in a Himalayan
 mountain. Kalindi (Asita's wife) approached that sage and offered her salutation. That brahmna
 spoke the following words to her, who wanted to obtain a boon for the birth of a son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -906,8 +874,6 @@ with a great soul; *lokavishrutaH* = world-famous; *dhaarmikashcha* = a rightous
 
 "O, Queen! A high-souled son, who will be world-famous, rightous, of a good conduct,
 a perpetuator of the race and an annihilator of enemies will be born to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -950,8 +916,6 @@ going and coming; *asya lokasya* = of this world.
 
 Recognising that Rama has become angry, Vashishta spoke as follows: "Even Jabali is
 aware of the going and coming of this world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -967,8 +931,6 @@ words; *tvaam nivartayitu kaamastu* = on account of his desire that you should r
 
 "He apoke in this manner, on account of his desire that you should return. O, Lord
 of the poeple! Learn from me of the creation of the world!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1019,8 +981,6 @@ Brahma the Lord of creation.
 "The delighted Queen Kalindi circumambulated that sage, took permission from him to
 leave and thereafter on reaching home, had delivered a son, having eyes resembling lotus-leaves and
 having a radiance like that of Brahama the Lord of creation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1036,8 +996,6 @@ kill her foetus; *jaataH* = born; *tena gareNa sahaiva* = with that poison itsel
 
 "Poison was given earlier by her co-wife with an intention to kill her foetus. Born
 with that poison itself, he became Sagara (a man with poison)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1085,8 +1043,6 @@ digging.
 
 "It was king SAgara who excavated the ocen and who, by his sacrifice, on the day of
 the full moon, by his energy, frightened the people here by the speed of his digging."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1137,8 +1093,6 @@ even while living.
 
 "Asamanja was Sagara's son. There was a hearsay that on account of his wicked deeds,
 Asamanja was banished by his father even during his life time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1185,8 +1139,6 @@ Asamanja was banished by his father even during his life time."
 
 "A valiant son called amshuman was born to Asamanja. Dilipa was Amshuman's son.
 Bhagiratha was Dilipa's son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1233,8 +1185,6 @@ called Raghu; *yena* = from whence (spring); *raaghavaaH* = Ragahavas.
 
 "Of Bhagiratha was born kakutstha, from whom the Kakutsthas take their name. To
 Kakutsthas was born a son called Raghu, from whence spring Raghavas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1281,8 +1231,6 @@ Purushadaka; *kalmaaSapaadaH* = Kalmashapada; *sondaasaH* = and Soudasa.
 
 "From Raghu was born a renowned son named Pravriddha, known in the world under the
 names Purushadaka, Kalmashapada and Soudasa."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1329,8 +1277,6 @@ names Purushadaka, Kalmashapada and Soudasa."
 
 "Kalmashapada's son was renowned as Shankhana, who, even on attaining his father's
 valour, perished (in a battle) along with his army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1462,8 +1408,6 @@ and of Agnivarna was born Shighraga. Shighraga begot Maru and Maru's son was Pra
 Prashushruva was born Ambarisha of that great radiance. To Ambarisha was born a son named Nahusha
 who was full of valour. Nahusha's son was Nabhaga of outstanding virtue. Aja and Suvrata were the
 two sons of Nabhaga and it was Aja who begot the virtuous King Dasartha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1512,8 +1456,6 @@ two sons of Nabhaga and it was Aja who begot the virtuous King Dasartha."
 "You are the eldest son of that Dasaratha, very well-known as Rama, the heir who can
 claim over the inheritance. O, King! Hence, take over your kingdom and look after your people
 there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1565,8 +1507,6 @@ born in Ikshvaku race; *puuraje* = (when) the eldest exists; *avaraH* = the youn
 "The eldest son only becomes the king in the entire Ikshvaku race. When the eldest
 son exists, the younger son will not become a king. The eldest son only is anointed to the
 crown.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 
@@ -1618,8 +1558,6 @@ over; *mediniim* = the earth; *prabhuuta ratnaam* = abundant with precious metal
 "O, the celebrated one! This is the eternal tradition of your race, those born in
 Raghu dynasty and ought not to be violated by you. Rule over the earth, this vast kingdom abudant
 with precious metals, as did your father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
 </details>
 

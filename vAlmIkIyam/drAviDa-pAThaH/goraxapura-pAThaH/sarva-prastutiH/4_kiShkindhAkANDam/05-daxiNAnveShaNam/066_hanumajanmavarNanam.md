@@ -19,8 +19,6 @@ Jambavanta familiarises Hanuma of his capabilities giving an account of his birt
 he took birth, and extols his unready faculty. In the sixty-sixth chapter of Bala Kanda, Valmiki
 very concisely narrates the birth of Seetha. But here Valmiki elaborately informs about the birth
 of Hanuma through Jambavanta. Some information about Hanuma is included in the endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ vaahiniim* = monkey, soldiery; *samudiikSya* = on overseeing; *atha* = then;
 
 On overseeing the crestfallen monkey-soldiery, which is with many hundreds and
 thousands of soldiers, then Jambavanta sad this way to Hanuma. [4-66-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ to; *kim na jalpasi* = why, not, mumble [something.]
 "Oh, valiant one in the world of vanara-s, being an erudite scholar among all the
 scriptural scholars, Hanuma, why do not you mumble something, why do you resort to a calmly
 loneliness... [4-66-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ hi* = you match up to, you are, indeed.
 
 "By your brilliance and brawn, oh, Hanuma, you match up to king of monkeys Sugreeva,
 or even to Rama and Lakshmana, as well... [4-66-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ iva [iti] vi khyaata* = Garuda, thus, universally, renowned as - such a bird is 
 
 "The son of Kashyapa Prajapati and Lady Vinata is the best bird among all the birds
 who is superbly mighty and who is universally renowned as Garuda... [4-66-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ bahushaH dR^iSTaH hi* = by me, oftentimes, is seen, indeed.
 
 "Iindeed, I have oftentimes seen that highly glorious, rapidly speedy, great mighty
 bird Garuda, pecking up reptiles from ocean... [4-66-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -316,8 +304,6 @@ dash and dare]; *na apahiiyate* = underwhelmed [unreprovable.]
 
 "Whatever is the strength of his wings, that much is the strength of you arms, and
 even by the yardsticks of his dash and dare, yours too, are unreprovable... [4-66-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ sajjase* = yourself, why, not, readying [yourself.]
 "Oh, forthright monkey, you are the finest among all beings by the dint of your
 force, faculty, flair, and fortitude... why then is your unreadiness in this task of leaping
 ocean... [4-66-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -428,8 +412,6 @@ patnii* = of a monkey, of Kesari, wife of.
 
 "Punjikasthala yclept Anjana is the nicest apsara among all apsara-s and she is the
 wife of Kesari, the monkey... [4-66-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -447,8 +429,6 @@ earth; *kaama ruupiNii* = by wish, form changer; *kapitve* = with monkey-hood;
 "She who is distinguished for her unparalleled mien in the three worlds, oh, dear
 boy Hanuma, had to take a rebirth on earth as a monkey who can change her form by her wish, owing
 to a curse... [4-66-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -504,8 +484,6 @@ lightning, like] parvatasya agre = mountain, on top; *acarat* = she ambled.
 assuming a human physique, putting on caparisons of amazing garlands, dressed in silken clothing,
 and shining forth with rarity of her beauty and nubility, at one time ambled on the top of a
 mountain like a streak of lightning athwart a black-cloud of rainy season. [4-66-10, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -550,8 +528,6 @@ up.]
 
 "When she is strolling on the mountaintop Air-god has slowly lifted up that
 broad-eyed lady's auspicious and ochry silk apparel with red rouches... [4-66-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -594,8 +570,6 @@ proportioned [becomingly build]; *caaru aananam ca* = beautiful, face, also;
 "Then the Air-god beheld her well-twinned, thickset, roundish thighs, and even the
 paired off plumpish breasts, and her beautiful face which is well proportioned in its build...
 [4-66-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -638,8 +612,6 @@ Air-god; *kaama mohitaH* = by enamour, enamoured.
 "Just on catching the sight of that gorgeous one, whose pelvic-girdle is fat and
 ample and who is slender-waisted, and who by all her limbs is pristine, the Air-god is enamoured...
 [4-66-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -682,8 +654,6 @@ Air-god; *manmatha aaviSTa sarva angaH* = by Love-god, ensorcelled by, in all, l
 "He that Air-god who is ensorcelled by Love-god in all of his limbs, though he is
 limbless and existing in thin air, embraced that immaculate lady with both of his far-flung arms,
 as he lost his heart for her... [4-66-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -725,8 +695,6 @@ naashayitum icChati* = who, to despoil, wishes to.
 
 "But she that conscientious lady perplexedly said this sentence in that matter of
 invisible hugging, 'who wishes to despoil my vow of one-man-one-wife...' [4-66-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -768,8 +736,6 @@ manasaH bhayam maa bhuut* = to your, heart, fear, let not, be there.
 "On listening the words of Anjana the Air-god spoke this in reply, 'oh, high-hipped
 one, I don't dishonour you, hence let there be no fear in your heart, for I am the all-permeating
 Air-god... [4-66-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -815,8 +781,6 @@ bhaviSyati* = son, will be there [takes birth.]
 " 'By which reason I embraced you and impregnate myself within you, by that reason
 you are impregnated in a supersensory manner, thereby you will beget a valiant son endowed with
 intellect... [4-66-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -859,8 +823,6 @@ a son]; *mayaa samaH* = with me, a coequal; *bhaviSyati* = will be there.
 " 'An admirably brave, and a bravely dazzling, and a dazzlingly forceful, and a
 forcefully overpowering son will be there, also thus, he will be a coequal of mine in flying off
 and jumping up...' Thus, the Air-god said to Anjana. [4-66-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -904,8 +866,6 @@ birth.]
 "Oh, arcane monkey Hanuma, when Air-god said so to her, oh, ambidextrous one, your
 mother is gratified, and then, oh, bullish fly-jumpers, your mother very well divined you in a
 cave... [4-66-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -948,8 +908,6 @@ risen, sun, on seeing; *phalam ca iti* = fruit, just, thus [thinking]; *jighR^ik
 "Thereafter, when you were a boy you have see the just risen sun in the vast of
 forest, and deeming it to be a just ripen reddish fruit, and thinking it to be a best catch, you
 hopped up and flew towards sun on the sky... [4-66-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -992,8 +950,6 @@ indefatigably courageous.]
 "Even on your flying up three hundred yojana-s, oh, brave monkey, and even when
 sun's radiation puffed and blown you down, you did not get into any anguish as were
 indefatigable... [4-66-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1039,8 +995,6 @@ at you, even [on seeing you]; *kopa aaviSTena* = one who with - anger, captivate
 "Oh, mighty monkey, even on seeing you who are coming near the vault of heaven,
 Indra is captivated by anger and by his effulgence he catapulted his Thunderbolt at you...
 [4-66-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1088,8 +1042,6 @@ highest mountaintop, from thereupon your name-phrase is indeed averred as Hanuma
 The word hanu also means 'wisdom...' and Hanuma is one having an absolute
 wisdom. He is also addressed as Hanumanta, Hanuma and at certain
 places Valmiki terms him as Hani... nectareous...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1133,8 +1085,6 @@ really.
 "Then on observing that you are mutilated, highly infuriated is that scent-wafter
 Air-god and that tempestuous Air-god has not physically circulated throughout the triad of
 worlds... [4-66-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1179,8 +1129,6 @@ enraged, Air-god, started to supplicate for grace.
 "When the triad of worlds is being roiled with breathlessness, all the
 administrative gods of universe are bewildered, and they started to supplicate the Air-god for his
 grace... [4-66-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1221,8 +1169,6 @@ not, by [any] missile, destructibility; *varam dadau* = boon, gave.
 
 "Oh, chivalric warrior at war, while the Air-god is being supplicated, oh, dear boy,
 Brahma gave you a boon decreeing your 'indestructibility by any missile...' [4-66-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1272,8 +1218,6 @@ it; *tvaam* = you; *vi rujam* = without, hurt; *samiikSya* = on scrutinising;
 "On scrutinising that you are unhurt even after hit by Thunderbolt, oh, ablest
 Hanuma, the Thousand-eyed Indra kind-heartedly gave you a choicest boon saying that your death
 occurs only by your own volition... [4-66-28, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1378,8 +1322,6 @@ aurasa vyatiriktaanaam putratve parigraH kalau niShiddhaH | candrika smR^iti art
 yuga dharma madhye parigaNanaat - iti; *And the verse 20 says that Anjana has
 'divined Hanuma...' *pra ja j~ne* = very, well, divined... [tr. discover by guessing, intuition, inspiration, or
 magic]; but not 'delivered' manually through routine labour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1396,8 +1338,6 @@ iva* = the other, monkey's, king [Sugreeva,] like.
 "Presently we are as good as dead, and among us presently you are the only one rife
 with competence and valiance, you are the other Sugreeva, the king of monkeys, to us...
 [4-66-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1440,8 +1380,6 @@ moved around.
 "During the period of Trivikrama incarnation I have circumambulated the earth
 inclusive of its mountains, forests and thickets for twenty-one times, moving rightward around
 it... [4-66-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1499,8 +1437,6 @@ great energy for us... [4-66-33]
 
 The expressions 'we' and 'us' 'ourselves' are royal the 'we-s', 'us-s' and
 'ourselves...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1547,8 +1483,6 @@ guNa anvitaH* = with all, endowments, endowed with.
 
 "Such as I am, I am now aged and my valiance is completely lessened... but at the
 present time, you alone are endowed with all endowments among us... [4-66-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1597,8 +1531,6 @@ anxious.
 "Thereby oh, vanquisher Hanuma, you give a jump-start to leap the ocean. Indeed, you
 alone are the best one among all fly-jumpers, and this entire vanara army is anxious to witness
 your prowess... [4-66-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1646,8 +1578,6 @@ all, beings - escape velocity of all beings; *paraa hi* = unalike / the other, i
 
 "Arise, oh, lion-like monkey, leap over this vast ocean, oh, Hanuma, your escape
 velocity is indeed unalike that of all the other beings... [4-66-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1710,8 +1640,6 @@ The bracketed words are in remembrance of the regularly chanted eulogy of Hanuma
 manojavam maaruta
 tulya vegam jitendriyam buddhimataam variShTham | vaataaatmajam vaanara yuudha mukhyam shrii raama
 duutam shirasaa namaami || *in that mano javam is 'speedier than thought...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 </details>
 
@@ -1768,8 +1696,6 @@ Thereafter, when the best monkey among monkeys, namely Jambavanta, the king of b
 has motivated, then that son of Air-god, Hanuma, whose speed is familiar coupled with his
 irresistible enterprise, enormously increased his physique as though to gladded the army of
 monkeys. [4-66-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Rama describes the beauty of Chitrakuta mountain to Seetha. He delightfully show
 her the various colourful minerals, several kinds of birds and animals, several type of trees with
 flowers and fruit, as also the enchanting springs and Cascades in the mountain. Thus, he also
 diverts his own mind in seeing that captivating scenery.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -82,8 +80,6 @@ Having dwelt for some time in that mountain, Rama, who resembled God, who liked
 mountains and groves, who desired Seetha's happiness and himself delightful in his mind, began to
 point out the beauty of Chitrakuta to his consort, as Indra the god of celestials converses with
 Shachi the wife of Indra, saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ neither; *bhramshanam* = the loss; *raajyaat* = of the kingdom; *na* = nor;
 
 "O, my good lady! By seeing this beautiful mountain, neither the loss of kingdom nor
 the non-existence of friends distresses my mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -180,8 +174,6 @@ every kind; *dhaatumadbhiH* = where minerals lie; *vibhuuSitam* = crowned;
 
 "O, my good lady! Behold this mountain, abounding with flocks of birds of every kind
 where minerals lie and crowned with peaks that seem to project upwards to the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -240,8 +232,6 @@ the splendour of a kind of gem called Jyotirasa.
 silver, some resembling blood, some yellowish, some red as madder, some sparkle like precious
 stones, some possessing, the luster of topaz and crystal and a hue of Ketaka flower and some
 sparkle with the splendour of a kind of gem called Jyotirasa."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -291,8 +281,6 @@ enlivened; *bahu pakSi samaayutaH* = by a flock of many birds.
 
 "The mountain is filled with tame beasts of every kind, tigers, panthers and bears,
 and is enlivened by a flock of many birds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -368,8 +356,6 @@ laden with flowers and fruits, affording magnificient shade, and pleasing to the
 Priyalas (commonly called Payals), bread-fruit trees, Dhavas, Ankolas, Bhavyas and Tinisas, Bilvas
 (Bel trees), Tindukas and bamboos, Kashmaris, margosas and Varaas, Madhukas; Tilaks, jujube trees,
 emblic myrobalans, Kadamoos, came, Dhanvanas and pomegranates, enhancing its beauty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -417,8 +403,6 @@ mountain-plains.
 
 "O, my good lady! See these Kinnaras, thrilling to be looked at, in their high
 spirits, wandering in couples in these lovely mountain-plains."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -465,8 +449,6 @@ retreats.
 
 "Behold their swords hanging on the trees, their excellent swords and the charming
 retreats, where vidyadharas and their women sport."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -517,8 +499,6 @@ and there.
 
 "This mountain resembles an elephant with ichors flowing from its forehead, as from
 its crevices, springs and cascades flow here and there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -565,8 +545,6 @@ which) fragrance; *naanaa puSpa bhavaan* = of many flowers; *vahan* = issues;
 
 "Who would not be filled with delight, by these glades from which fragrance of
 various flowers issues, pleasing to the senses?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -613,8 +591,6 @@ grief; *na pradhakSyati* = will not get the upper hand over; *maam* = me.
 
 "O, irreproachable lay! If I am live with you and Lakshmana for many autumns here,
 grief will not overpower me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -661,8 +637,6 @@ peaks; *asmin hi* = I am indeed; *ratavaan* = captivated.
 
 "O, Seetha! Seeing this mountain laden with many flowers and fruit, the enchanting
 resort of flocks of birds as also the ravishing peaks of the mountain, I am really captivated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -710,8 +684,6 @@ happiness.
 
 "By residing in the forest, a two-fold advantage is secured by me; freedom from debt
 to my father in regards my duty and Bharata's happiness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -758,8 +730,6 @@ vaakkaaya sammataan* = agreeable to your thought; word and temperament?
 
 "O, Seetha! Are you happy with me on this Chitrakuta mountain, seeing various
 objects agreeable to your thought word and temperament?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -807,8 +777,6 @@ the forest; *amR^itam* = is nectar-like.
 
 "My paternal great grand fathers the ancient royal sages have said that for a king
 to obtain liberation after death, such a residence in the forest is nectar like."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -855,8 +823,6 @@ to obtain liberation after death, such a residence in the forest is nectar like.
 
 "Hundreds and multitude of rocks of this extensive mountain are shining around in
 multifarious colours like blue, yellow, white and red."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -906,8 +872,6 @@ shikhaa iva* = like points of fire.
 
 "Thousands of herbs of this Chitrakuta mountain, glittering with their lovely light,
 are sparkling like points of fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -954,8 +918,6 @@ and some; *bhaanti* = appear; *ekashilaaH* = like a single pile.
 
 "O, Seetha! Some parts of this mountain resemble mansions, some look like parks and
 some others appear like a single pile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -1002,8 +964,6 @@ appears; *shubhaH* = charming; *sarvataH* = on all sides.
 
 "Chitrakuta appears as though emerged, having split the earth. This summit of
 Chitrakuta appears charming on all sides."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -1050,8 +1010,6 @@ trees; *kusheshaya dalaayutaan* = heaped with flowers of water-lilies; *svaastar
 
 "See the leaves of lilies, Sthagara trees, Punnaga trees and Bhurja trees heaped
 with flowers of water-lilies form the cozy beds of voluptuaries."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -1102,8 +1060,6 @@ srajaH* = the garlands of lotus-flowers; *mR^idi taashcha* = Crushed;
 
 "O, Seetha! Look at the garlands of lotus-flowers crushed and thrown aside by
 voluptuaries as also fruits of every kind that have been tasted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -1156,8 +1112,6 @@ Vasvaukasara; *naliniim* = Nalini the capital of Indra better known as Amaravati
 beautiful than Vasvankasara better known as Alaka the capital of Kubera the Lord of Riches, Nalini
 the capital of Indra (the God of celestials) better known as Amaravati and Uttarakuru the country
 of Eternal Beatitude."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 </details>
 
@@ -1213,8 +1167,6 @@ enhancing the piety of my race.
 "O, Seetha! Strolling with you and Lakshmana during this period of exile, on my part
 established in the path of the pious, following the highest salutary practices, I shall obtain joy,
 enhancing the piety of my race."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga94/ayodhyasans94.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

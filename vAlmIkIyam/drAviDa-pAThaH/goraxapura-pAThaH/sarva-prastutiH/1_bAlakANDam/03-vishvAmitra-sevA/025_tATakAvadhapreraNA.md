@@ -16,8 +16,6 @@ title_english = "025 The legend of deomoness tATaka contd"
 Sage Vishvamitra narrates the birth, marriage and curse of demoness Tataka, and bids Rama
 to eliminate her menace without any hesitation of killing a female, for she is atrocious towards
 the society.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -80,8 +78,6 @@ said - replied.
 
 On hearing the worthy words of that sage with inestimable power, then the tigerly man Rama
 replied him with estimable words. [1-25-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ replied him with estimable words. [1-25-1]
 
 "It is said that yaksha's strength is trivial, and this is an yakshii, more so a female, how
 then this yakshii frail by her femineity can exert the strength of a thousand elephants? [1-25-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ On hearing the sentence of Raghava with illimitable dynamism, Vishvamitra said t
 to the enemy subduer Rama along with Lakshmana, cheering them up with his pleasant words,
 "Listen by which a female became outstanding by her strength... she assumes strength by the
 bestowal of a boon. [1-25-3, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ childless, he; *subhaachaaraH* = with devout conduct; *mahat tapaH tepe*
 
 "Once there was a formidable yaksha named Suketu, but he was childless, and he who had devout
 conduct performed a great ascesis. [1-25-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -266,8 +256,6 @@ name renowned as Tataka; *kanyaaratnam dadau* = gave gemlike girl.
 
 "Gladdening at his ascesis, Rama, then the Forefather Brahma gave him a gemlike daughter who
 is renowned by the name of Tataka. [1-25-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ balam cha* = strength of thousand elephants, also; *dadau* = gave; *brahmaa maha
 "Forefather Brahma also gave the strength of a thousand elephants to her, but he that highly
 remarkable Brahma did not give a son to that yaksha, anticipating male to be more hazardous.
 [1-25-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -360,8 +346,6 @@ _________________
 
 "When that bright girl is growing up into a youthful beauty her father Suketu gave her to
 Jambha's son Sunda as wife. [1-25-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -401,8 +385,6 @@ one; *vyajaayata* = delivered; *yaH shaapaat raakShasaH abhavat* = who became de
 
 "Then after sometime that yakshii Tataka delivered an indomitable son named Mareecha, who
 by curse became a demon. [1-25-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -446,8 +428,6 @@ _________________
 
 "But when Sunda is eliminated by sage Agastya's curse, she that Tataka wished to retaliate
 that eminent sage along with her son Mareecha. [1-25-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -497,8 +477,6 @@ vyaajahaara* = thus, he said to Mareecha.
 "With desperation brewing in her she roaringly rushed towards the sage as though to eat him
 away, and on seeing her rushing along with her son Mareecha towards him, the godly saint Agastya
 firstly cursed Mareecha saying, 'you will attain demon-hood.' [1-25-11, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -550,8 +528,6 @@ yakshii; *te daaruNam ruupam astu* = monstrous form shall be to you.
 "Highly infuriated sage Agastya even cursed Tataka saying, 'forthwith divested of this form
 of a beautiful female, oh, great yakshii, you shall become a man eater with your form distorted,
 face contorted, and shape monstrous.' [1-25-12b, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -595,8 +571,6 @@ thus; that Tataka; *krodhamuurcChitaa* = convulsed in fury; *agastyaacharitam*
 
 "Frenzied by the curse and convulsed in fury she that Tataka is thus vandalising this auspicious
 province, in which sage Agastya once sauntered. [1-25-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -642,8 +616,6 @@ yakShiim* = this, yakshii be; *gobraahmaNahitaarthaaya* = for welfare of cows an
 
 "She that highly atrocious one is with horrific behaviour and malefic valour, hence you shall
 eliminate this yakshii for the welfare of Brahmans and cows. [1-25-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -687,8 +659,6 @@ R^ite* = you, excepting; *kashchit pumaan* = some man; *triSu lokeSu*
 
 "Excepting you there is none to eliminate her who is indomitably sheathed in a curse, oh,
 Raghu's legatee, and none in the three worlds can possibly brave her. [1-25-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -735,8 +705,6 @@ intending welfare of four caste-system; *kartavyam* = is to be done effectuated.
 
 "Compassion regarding the elimination of a female is ungermane, oh, best one among men, since
 a prince has to effectuate it intending the welfare of four categories of society. [1-25-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -777,8 +745,6 @@ a prince has to effectuate it intending the welfare of four categories of societ
 
 "For the reason of protecting people, a protector always has to execute such deed, either
 it is ruthless or humane, sinful or vilifying. [1-25-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -820,8 +786,6 @@ goodness not evident in her, isn't it.
 "To the nominee who bears the burden of kingdom this is the age-old duty, and hence oh, Rama,
 the legatee of Kakutstha, eliminate this infamy, as goodness is inevident in her, isn't it.
 [1-25-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -867,8 +831,6 @@ eliminated; *shruuyate hi* = thus heard, isn't it.
 
 "Oh, Rama, the protector of people, we have heard that Indra once eliminated Manthara, the
 daughter of Virochana, when she wished to annihilate earth, haven't we. [1-25-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -915,8 +877,6 @@ niShuuditaa* = she is wiped out by Vishnu.
 
 "And Rama, once Vishnu wiped out even the wife of sage Bhrigu and sage Shukracarya's mother
 when she wished the world to become one without a governing factor, namely Indra. [1-25-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 </details>
 
@@ -976,8 +936,6 @@ when she wished the world to become one without a governing factor, namely Indra
 who deported themselves with unrighteousness, and hence, oh, Rama, the protector of people,
 by my decree you leave off compassion and eliminate her." Thus said sage Vishvamitra to Rama
 regarding Tataka's elimination. [1-25-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga25/balasans25.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

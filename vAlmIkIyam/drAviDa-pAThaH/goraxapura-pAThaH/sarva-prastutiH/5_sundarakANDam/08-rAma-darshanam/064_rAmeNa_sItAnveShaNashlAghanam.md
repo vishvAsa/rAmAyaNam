@@ -20,8 +20,6 @@ of those monkeys, Sugreeva explains to Rama the valid reasons for concluding tha
 found. Angada, Hanuma and other, monkeys approach Sugreeva. Then, Hanuma apprises Rama of the discovery
 of Seetha. Hearing the news, Rama and Lakshmana were thrilled with joy and looked on Hanuma with a high
 esteem.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ esteem.
 
 Hearing the words of Sugreeva, Dadhimukha the monkey was pleased and offered his salutation
 with reverence to Rama, Lakshmana
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ _________________
 
 After offering salutation to Sugreeva and to the mighty Rama and Lakshmana, that Dadhimukha
 accompanied by his valiant monkeys, sprang into the air.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ passed off the honey; *vepamaanaan* = and who were inwardly excited.
 
 That Dadhimukha, after entering Madhuvana, saw all the chiefs of monkeys, who were free
 from their intoxication, having passed off the honey and who were inwardly excited.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ these gentle words; *aN^gadam* = to Angada.
 
 With his hands joined together for salutation, that valiant Dadhimukha approached them
 and cheerfully spoke the following gentle words to Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ in this way; *bhavantaH* = you; *pratiSheditaaH* = were prevented; *rakSibhiH*
 
 "O gentle sir! Due to their ignorance, these guards in anger obstructed you to enter
 the grove. No resentment should be harboured by you about this obstruction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -323,8 +311,6 @@ yuva raajaH* = are the prince; *iishasH cha* = and also the master; *asya vanasy
 
 "O exceedingly strong Angada! You are the prince and also the master of this grove. We
 have done a mistake
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -376,8 +362,6 @@ monkeys; *iha* = here.
 
 "O faultless Angada! After going there, I indeed informed your uncle about the arrival
 of all these monkeys here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -467,8 +451,6 @@ enraged.
 
 "Hearing your arrival along with these leaders of monkeys, your uncle was exceedingly
 pleased. Even after hearing of Madhuvana having been attacked, he did not develop any anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -489,8 +471,6 @@ pleased; *uvaacha ha maam* = and told me; *iti* = saying; *preShaya* = send;
 
 "Sugreeva, your uncle, the lord of monkeys and the king was pleased and told me, 'send
 all the monkeys here'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -506,8 +486,6 @@ all the monkeys here'."
 
 Hearing these smooth words of Dadhimukha, the eloquent Angada, the foremost among the
 monkeys, spoke to those monkeys as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -582,8 +560,6 @@ occurrence; *shrutaH* = was heard; *raameNa* = by Rama; *tat* = that is why;
 "O the foremost of monkeys, the tormentators of enemies! I assume that Rama might have
 heard the news (of our arrival). Hence, it is not proper for us to remain here any longer, now that
 our work has been accomplished."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -600,8 +576,6 @@ is there.
 
 "The monkeys are taking, rest, after drinking the honey to their heart's content. What
 is there remaining, except to go to the place where Sugreeva my uncle is there?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -657,8 +631,6 @@ bhavadbhiH* = to you; *kartavye* = in what ought to be done.
 
 "I shall do whatever all the leaders of monkeys together tell me. I am obedient to you,
 in the matter of what ought to be done."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -708,8 +680,6 @@ you; *kR^ita karmaaNaH* = who have accomplished the act.
 
 "I am not the master to command you, eventhough I am the crown prince. It is not befitting
 for me to play the lord over you, who have accomplished the task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -725,8 +695,6 @@ idam* = these words:
 
 Hearing the indeclinable words spoken thus by Angada, the monkeys with their pleased
 minds, spoke to him (as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -800,8 +768,6 @@ speak like this); *tava* = your; *samnatiH* = humility; *aakhyaati* = is telling
 
 "It is so worthy of you alone that you have spoken such words. None else can utter like
 this. Your humility itself is telling of your future suitableness for prosperity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -851,8 +817,6 @@ mattaH* = of one's supremacy; with excited arrogance; *aham iti* = and says "I; 
 
 "O prince, the foremost of monkeys! Who would speak like this, while he is the lord?
 Every one indeed thinks one's supremacy with an excited arrogance and says 'I, I'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -868,8 +832,6 @@ place; *yatra* = where; *saH sugriivaH* = that Sugreeva; *avyayaH patiH hari vii
 
 "All of us, who reached here, are waiting for the right moment to go to that place where
 Sugreeva, the imperishable king of the heroic monkeys, is."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -948,8 +910,6 @@ for the monkeys; *anuktaiH* = who are not ordered; *tvayaa* = by you; *na shakya
 
 "O the excellent of monkeys! Without your command, it is not possible for the monkeys
 anywhere, even a step forward. We are speaking this truth to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -965,8 +925,6 @@ monkeys; *utpetuH* = sprang; *kham* = into the air.
 
 While they were thus speaking; Angada replied, "Let us go." The mighty monkeys then sprang
 into the air.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1016,8 +974,6 @@ _________________
 
 All those leaders of monkey-troops, like stones shot from a catapult, making the space
 space-less, followed Angada, who was springing forward.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1067,8 +1023,6 @@ _________________
 
 Those monkeys with speed, sounding forth a loud noise, sprang into the sky, like clouds
 driven by the wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1119,8 +1073,6 @@ with grief.
 
 Even before Angada landed there, Sugreeva, the king of monkeys spoke to the louts-eyed
 Rama, who was afflicted with grief (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1201,8 +1153,6 @@ doubt; *naH samaye atiite* = when the time fixed by us goes beyond limit; *na sh
 
 "Be pacified! Happiness to you! The princess has been seen. There is not doubt. When
 the time earlier fixed by us exceeds beyond limit, it is not possible for them to come here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1218,8 +1168,6 @@ raajaH* = prince; *pravaraH* = and the most excellent; plavataam- of monkeys; *n
 
 "Angada, the long-armed prince and the most excellent of monkeys does not make his appearance
 before my vicinity, if the work is ruined."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1269,8 +1217,6 @@ their work; *saH* = that Angada; *bhavet diina vadanaH* = would have worn a sad 
 
 "Even if such an exploit may be possible by these monkeys who have not been able to accomplish
 their work, Angada would have worn a sad face and felt perplexed and scattered in mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1323,8 +1269,6 @@ O Rama; *kausalyaa suprajaaH* = the splendid son of Kausalya; *suvrata* = the vi
 "If Angada the lord f the monkeys is not rejoiced, he would not have damaged my madhuvana,
 which belongs to my father and grandfather as well as protected by my forbears. Get consoled well, O
 virtuous Rama, the splendid son of Kausalya!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1380,8 +1324,6 @@ _________________
 
 "Seetha was seen. There is no doubt. None other than Hanuma must have seen Seetha. There
 is indeed none other than Hanuma, who is the executor."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1402,8 +1344,6 @@ unchangeable; *tejaH iva* = like a splendour; *suurye* = in the sun.
 
 "O Rama, having a very good understanding! In Hanuma, qualities like capacity to accomplish
 any object, intelligence, strenuous effort and vigour are unchangeable, like a splendour in the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1454,8 +1394,6 @@ progress; *tasya* = of that work; *na anyathaa* = cannot be otherwise.
 
 "Where Jambavan is a leader; Angada as the commander of troops and moreover Hanuma as
 the administer, the progress of that work cannot be as otherwise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1527,8 +1465,6 @@ towards; *kiShkindhaam* = Kishkindha; *shushraava* = was heard; *kila kilaa shab
 the monkeys, who are proud of Hanuma's performance and who are making noise as though they are proclaiming
 about the accomplishment of their act are approaching Kishkindha Sugreeva heard certain sounds expressing
 joy, in the vicinity of the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1588,8 +1524,6 @@ laaNguulaH* = duly stretching and curling up his tail.
 
 Then, hearing that clamour of the monkeys, Sugreeva the chief of the monkeys became rejoiced
 at heart, duly stretching and curling up his tail (in joy).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1605,8 +1539,6 @@ or see Rama.
 
 Keeping Angada and Hanuma in front of them, those monkeys too arrived with their eagerness
 to see Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1664,8 +1596,6 @@ Sugreeva; *raaghavasya cha* = and Rama.
 
 Those heroes, having Angada as their chief, exceedingly pleased as they were and filled
 with joy, landed at the vicinity of Sugreeva and Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1686,8 +1616,6 @@ in devotion to her husband; *akShataam* = and sound in body.
 
 Thereafter, the mighty armed Hanuma, offering his salutation in bending his head low,
 informed Rama that Seetha the princess is constant in devotion to Rama and sound in body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1735,8 +1663,6 @@ aapa* = obtained; *harSham* = joy.
 
 Hearing the nectar-like words, saying "Seetha was found" from the mouth of Hanuma, Rama
 and Lakshmana felt happy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1757,8 +1683,6 @@ pavana aatmaje* = about the aforesaid Hanuma; (having accomplished his work).
 
 Thereupon, Lakshmana with love looked with reverence on the joyful Sugreeva, who earlier
 decidedly apprised about the aforesaid Hanuma, having accomplished the task.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 
@@ -1807,8 +1731,6 @@ heroes; *upetaH* = who obtained; *parayaa* = a great; *priityaa* = joy; *avaikSh
 
 Rama, the annihilator of hostile heroes, who obtained a great joy, looked on Hanuma with
 a high esteem.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
 </details>
 

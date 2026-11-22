@@ -19,8 +19,6 @@ He also gives his miraculous pendant, given by his father Indra, to Sugreeva and
 authority of Kishkindha kingdom, for he won it in this fight. Angada is advised to conduct
 appropriately for he is becoming a father-less son now. Then Vali breathes his last to pave the way
 for Seetha's search.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ Sugreeva, seen.
 
 With his life-force slowing down Vali respired slowly glancing everywhere, and he
 firstly saw his brother Sugreeva afore him. [4-22-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ tone; *sa sneham* = with, amicability; *idam abraviit* = this, spoke.
 
 Vali nodding at Sugreeva, who achieved triumph and became the lord of fly-jumpers,
 amicably spoke this to him in an unambiguous tone. [4-22-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ one who is all the while attracted - hauled, [thus you reckon.]
 
 "Sugreeva, reckon me not by my iniquities, but reckon as one who is all the while
 forcibly hauled into this futurity owing to my impropriety and obduracy. [4-22-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ brothers, seemly to; *tat idam* = that, this - therefore; *sauhaardam* = amity;
 
 "I do not think that we two are fated to share blissfulness simultaneously, oh, boy,
 therefore the amity seemly to brothers has cropped up otherwise. [4-22-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -278,8 +268,6 @@ One, Sugreeva is the triumphant one and thus he shall get the kingdom forthwith,
 proposed by Hanuma. Next, Sugreeva is the next best choice for the kingship, rather than Angada,
 and a younger brother and also as a one-time prince regent. In either way the dying Vali is keeping
 his nobility high up, as an unrivalled champion and even as an elderly brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ indeed.
 
 "Such as I am, I am indeed forgoing my life, kingdom, and this immense prosperity
 and even the unenviable glory which adduces that 'Vali is unkillable,' right away. [4-22-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -374,8 +360,6 @@ of.
 "Oh, valiant Sugreeva, it will be apt of you to make happen the word I am going to
 say even in such a situation in which now I am, and oh, king, even if that word of mine is
 infeasible. [4-22-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ at.
 "Have a look at this Angada, who is privileged for all happiness, brought up in all
 comforts, though a boy he is mannerly, and who with his tear-filled face fallen onto ground.
 [4-22-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ resources; *paripaalaya* = you foster.
 
 "More dear than my own lives is my son, and when he is deprived of me you have to
 foster him as if he is your own son, with no resources becoming sparse in every way. [4-22-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -523,8 +503,6 @@ father, patron; *sarvataH pari traataa ca* = from all sides, overall, protector,
 
 "Oh, king of fly-jumpers, as with me you too are his father, patron, an overall
 protector from all sides, and also thus an assurer in fear. [4-22-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -574,8 +552,6 @@ fore, he will be - will be in advance guard.
 
 "This admirable son of Tara is a coequal of yours in triumphs, and in eliminating
 those demons he will be in your advance guard. [4-22-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -622,8 +598,6 @@ seemly for my son,] actions; *kariSyati* = he performs - undertakes.
 
 "This mighty and sinewy son of Tara is youthful, and on overtaking in war this
 Angada will undertake actions seemly for a son of mine. [4-22-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -707,8 +681,6 @@ her right hand and Sushena held her by her left hand and started to quarrel for 
 the elderly sages and gods intervened and decided that one who held her by her right hand is her
 husband and the other who held her by her left hand is her father. Thus Sushena is said to have
 become the father of Tara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -729,8 +701,6 @@ least; *anyathaa na parivartate hi* = contrarily, not, it deflects [happens,] in
 
 "Whatever is said by her as proper that is doable indubitably, indeed nothing
 contrary happens to her opinions, in the least. [4-22-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -779,8 +749,6 @@ not, honoured [Rama]; *tvaam himsyaat ca* = you, he will torture [punish,] even.
 "You have to accomplish Raghava's mission undoubtedly, and if it is unaccomplished
 there will be infraction on your part because you befriended him before an altar of fire, and you
 may even be punished for dishonouring him and your given word to him. [4-22-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -834,8 +802,6 @@ you wear it." Thus Vali spoke to Sugreeva. [4-22-16]
 Sugreeva may not inherit any fortune of invincibility from this invincible
 pendant, but Vali has to safeguard it without getting into an insulting touch of his dead body
 *shava sparsha doSa*. As such, he is giving it Sugreeva, in preference to Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -897,8 +863,6 @@ two-piece entity, that entity prays to subsist on eating away Sun and Moon. That
 subject to condition, that this eating will be done only occasionally. Those are the occasions of
 eclipses of either Sun or Moon. Recent astrology gave names to these two entities as 'Dragon with
 Head' is Raahu and the 'Dragon with Tail' is Ketu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -947,8 +911,6 @@ one, that, pendant, taken.
 Quietened by Vali's words and conducting himself befittingly and attentively in the
 given situation, Sugreeva has then taken that golden chain only when Vali authorised him.
 [4-22-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -999,8 +961,6 @@ given; *sthitam aatmajam ca dR^iSTvaa* = available [nearby,] his son, also, on s
 On giving away that golden pendant, and on seeing his son who is available nearby,
 readying himself towards his end that is setting in, Vali affectionately spoke to Angada.
 [4-22-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1056,8 +1016,6 @@ of Sugreeva, whether his orders are pleasant or unpleasant to you, you have to e
 enduringly, for you have to conduct yourself according to time and place of your locus standi, and
 also you have to endure the mirth or misery caused at his behest... for you are no more independent
 from now on..."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1099,8 +1057,6 @@ yathaa* = you, always, by me, as to how; *laalitaH* = you are nurtured - enterta
 "Oh dextrous Angada, as to how I have entertained you in whichever way you conducted
 yourself with me, Sugreeva may not approve of such a puerile behaviour of yours, if you resort to
 it. [4-22-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1149,8 +1105,6 @@ self-control; *sugriiva vashagaH bhava* = in Sugreeva's, control, you shall be.
 "Do not reach at his unfriendly ones, nor come near his enemies, oh, enemy-destroyer
 Angada, you shall be in the control of Sugreeva attending to the purposes of your lord with
 self-control. [4-22-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1198,8 +1152,6 @@ antara dR^ik bhava* = therefore, intermediary, in outlook, you be - you cultivat
 "Do not conduct yourself with excessive friendliness or unfriendliness, as this pair
 of opposites itself has a flaw, therefore you cultivate an intermediary outlook." Vali thus spoke
 to Angada. [4-22-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1248,8 +1200,6 @@ whose life took to flight; *babhuuva* = he became.
 He who is highly tortured by the arrow of Rama spoke to Angada in that way, and
 afterwards his eyeballs rolled-up, mouth hung open baring his horrid teeth, and his life too took
 to flight from his body. [4-22-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1297,8 +1247,6 @@ Vali's death; *vi cukrushuH* = loudly, squawked as a complaint.
 Then, all those best monkeys avaialble there have started to weep when their monkey
 chief is dead, and for that matter they have loudly squawked at his death in this way.
 [4-22-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1349,8 +1297,6 @@ brightness - lacklustre, they are made led into a lacklustre life.
 "When the lord of monkeys departed to heaven Kishkindha is indeed rendered derelict,
 dreary are the gardens, deserted are the mountains and forests as well, and when the tiger among
 fly-jumpers is dead all the vanara-s are rendered up into a lacklustre life. [4-22-26, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
@@ -1425,8 +1371,6 @@ so fructified to let all the monkeys thrive?"
 This flowers following Vali is the same situation with Hanuma when he jumps
 from Mt. Mahendra to Lanka. A volley of flowers shower on him owing to kick-start and follow him up
 to some distance into ocean, as though to worship him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1487,8 +1431,6 @@ that Vali is no more. [4-22-28b, 29]
 
 This Sanskrit expression 'giving a duel' is the same that is available in
 English like - 'give me a duel.' etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1549,8 +1491,6 @@ nipaatitaH* = how, he is felled.
 "Thereafter, in the sixteenth year Vali unquestionably felled Golabha, and on
 killing that evil-minded Golabha with his zigzag teeth Vali accorded fearlessness to all of us, how
 such a Vali is felled now?" Thus the monkeys raised hue and cry. [4-22-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1606,8 +1546,6 @@ went into a freneticness.
 But when that fly-jumper's brave lord Vali is killed, those fly-jumpers have gone
 into a freneticness in that matter of Vali's killing, as with the cows becoming frenetic when their
 husbanding bull is killed while moving in a great forest that is riddled with a lion. [4-22-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 </details>
 
@@ -1667,8 +1605,6 @@ bhuumim jagaama* = Vali, embraced, onto earth, gone - collapsed.
 But then Tara, whelmed under a ocean called affliction closely observed her dead
 husband's face, embraced him and collapsed onto ground as with any creeper plant when the giant
 tree on which it is hinging is hacked down. [4-22-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -60,8 +60,6 @@ was well-versed in courtesy; *abhyabhaashhata* = spoke; *viniitavat* = politely;
 
 Hearing the words of the chief minister, Rama who was well-versed in courtesy, spoke
 then to Dasaratha as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -106,8 +104,6 @@ nomadic food; *anuyaatreNa* = with an army following me?"
 "Of what use for me, who have forsaken enjoyments, cast away attachment for
 everything and am going to live in the forest on nomadic food, Oh king, with an army accompanying
 me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -157,8 +153,6 @@ him; *rajju snehena* = by having attachment
 "Who, after giving away a first-class elephant, will work out his mind on a rope
 with which it is tied? What use is there for him through attachment to the rope after abandaning
 the excellent elephant?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -208,8 +202,6 @@ brought; *me* = to me.
 
 "Oh, the best among good men! So also, what use is there for me by the army Oh,
 King, when I am giving away absolutely all. Let the dresses of a mendicant be brought to me.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -258,8 +250,6 @@ years; *samaanayata* = bring; *khanitra pitake* = a showel and a basket;
 
 "I am going to reside in the abode of forest for fourteen years. Bring a shoel and a
 basket both for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -309,8 +299,6 @@ basket both for me."
 
 Thereupon, Kaikeyi shamelessly bringing personally of men, said to Rama; "Put these
 on"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -360,8 +348,6 @@ ascetics.
 
 Taking those two pieces of bark (as loin cloth and cover) from kaikeyi and
 discarding his clothing of fine yarn, Rama put on the garb of ascetics.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -410,8 +396,6 @@ itself; *agrataH* = before; *pituH* = his father; *vihaaya* = discarding;
 
 Lakshmana too there itself before his father put on the clothing of ascetics, by
 discarding his beautiful raiment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -479,8 +463,6 @@ who wore silken clothing; *samiikshhya* = seeing; *chiiram* = the piece of bark;
 
 Then, Seetha who wore silken clothing, by seeing the piece of bark intended to be
 worne by her, felt alarming as a deer would on seeing a snare(set for entrapping)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -509,8 +491,6 @@ Feeling abashed while taking the wearing apparel made of Kusa grass and greatly
 troubled in mind, Seetha who bore auspicious marks knew what is righteousness who was an
 illustration of righteousness spoke these words with her eyes filled with tears to her husband who
 looked like Chitraratha(the king of Gandharvas)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -527,8 +507,6 @@ it) mamoha = erred; *muhurmuhuH* = again and again.
 "How ascetics residing in the forest wear this piece of bark?" Thus saying, Seetha
 who was not adept in wearing the bark of trees, erred again and again(in her attempt to wear
 it)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -577,8 +555,6 @@ adept; *tatra* = in that; *tasthau* = stood; *vriiditaa* = abashed.
 
 Keeping one piece of bark on her neck as well as holding it with her hand, Seetha
 stood abashed, not adept as she was in wearing it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -627,8 +603,6 @@ stood abashed, not adept as she was in wearing it.
 
 Rama, the foremost of those upholding virute, quicky came and personally fastened
 that bark over the sild garment of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -677,8 +651,6 @@ to seetha; *naaryaH* = the women; *autaHpura gataaH* = in the gynaecium;
 
 Seeing the greatest Rama fastening the bark to Seetha in that manner, the women in
 the gynaecium shed tears from their eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -728,8 +700,6 @@ forest.
 
 Very much distress as they were, they spoke to Rama of dazzling glory as follows: "
 Dear child! This Seetha the high sould, was not so commanded to reside in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -773,8 +743,6 @@ your return.
 
 "When you departed to the forest in seclusion following the words of your father, Oh
 Rama, let her sight be a reward to us till your return."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -824,8 +792,6 @@ ascetic.
 
 " You go to the forest along with Lakshmana as your companion Oh son! Seetha the
 beautiful girl is not fit to reside in a forest like an ascetic."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -875,8 +841,6 @@ wish; *sthaatum* = to stay back.
 
 "Accept our prayer, Oh son! Let Seetha the beautiful young lady stay here. Indeed,
 you the ever righteous in any case do not wish to stay back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -933,8 +897,6 @@ then; *babandhaiva* = already got fastened; *chiiram* = the piece of bark;
 
 Even after hearing their words in this manner, Rama fastened that piece of bark to
 Seetha, who has a well-matched nature.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -951,8 +913,6 @@ Seetha, who has a well-matched nature.
 
 Seeing Seetha accepting the piece of bark, Vasistha the king's preceptor prevented
 her and spoke thus to Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1004,8 +964,6 @@ to your family! vaNchayitvaacha = you misled; *raajaanam* = the king;
 
 "Oh the evil minded Kaikeyi, who have exceeded your limits, who have brought
 disgrace to your family! You are not establishing justifiable standard and you misled the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1048,8 +1006,6 @@ throne; *prakR^itam* = which is under considertion; *raamasya* = of Rama.
 
 "Oh, the woman without decorum! Seetha the princess shall not proceed to forest. She
 will occuply the throne, which was awarded to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1092,8 +1048,6 @@ wives; *iyam* = this Seetha; *raamasya* = Rama's; *aatmaait* = self; as such;
 
 "A wife is very self to all, who constantly care for their wives. As Seetha is
 Rama's self, she can rule the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1142,8 +1096,6 @@ Rama's self, she can rule the earth."
 
 "Or rather, if Seetha goes to forest together with Rama, we also will follow suit.
 This city too will go."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1160,8 +1112,6 @@ wife.
 
 "The fronitier- guards and the State including its patrons, as well as this city
 with its goods and chattels will go whereever Rama and his wife are there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1213,8 +1163,6 @@ residing; *vane* = in the forest; *vanecharaH* = moving in the forest.
 
 "Wearing pieces of bark, Bharata along with Shatrughna will live along with Rama
 their brother residing in the forest and moving in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1267,8 +1215,6 @@ _________________
 
 Thereafter, singly you alone with bad conduct hurt to people, rule this earth which
 is bereft of people and desolate, with its trees alone remaining.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1312,8 +1258,6 @@ become; *raashhTram* = a kingdom; *tat vanam* = that forest; *yatra* = where;
 
 "Where Rama is not a king, that place will not indeed become on kingdom. That
 forest, where Rama will be living, can become a kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1362,8 +1306,6 @@ or to live; *putravat* = as a son; *tvayi* = in your case.
 
 "If Bharata is born to king Dasaratha, he is not fit either to rule the earth that
 is not being offered by his father nor to live as a son in your case."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1412,8 +1354,6 @@ karishhyati* = will not do; *anyathaa* = in any other manner.
 
 "Even if you can jump from the surface of the earth to the sky, Bharata who knows
 the record of his father's dynasty will not do as you wish him to do"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1463,8 +1403,6 @@ navidyeta hi = there is no such one indeed; *loke* = in this world; *yaH* = who;
 
 "therefore, an unfriendly act(alone) has been done by you, eventhough you are
 covetons towards his well-being. There is none indeed in this world who is not devoted to Rama"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1515,8 +1453,6 @@ him.
 
 "Oh, Kaikeyi! You will see now itself that beasts, elephants, deers and birds going
 with Rama and trees also turning their faces towards Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1564,8 +1500,6 @@ prevented; *tat* = that; *vasanam* = garment(of bark)
 "Moreover, putting aside the bark of trees, give excellent jewellery to your
 daughter-in-law, Oh, Kaikeyi! the bark of trees is not ordained for her" Thus saying so, Vasishta
 prevented that wearing of garment by Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1621,8 +1555,6 @@ along with Rama.
 "Oh, Kaikeyi! It was solicited by you, the dwelling in the forest of Rama only. Let
 Seetha, to be decorated daily, be adorned with ornaments and live in the forest along with
 Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1683,8 +1615,6 @@ accessories; *iya* = she; *navR^itaa* = was not solicited; *te* = by you;
 "Let Seetha go with excellent conveyances, well accompanied by attendants, with all
 costumes and useful accessories. Her exile was not indeed solicted by you, while asking for
 boons"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 </details>
 
@@ -1732,8 +1662,6 @@ one who has turned away her resoulution; *pratikaarakaamaa* = wishing to honour;
 Eventhough Vasista, the preceptor of the king, who had an influenc beyond compare
 and the best of brahmanas was speaking as above, Seetha did not turn away here resolution to follow
 the ways of her beloved husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

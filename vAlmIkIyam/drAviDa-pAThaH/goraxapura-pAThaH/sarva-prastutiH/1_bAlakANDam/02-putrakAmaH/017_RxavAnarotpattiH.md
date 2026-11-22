@@ -17,8 +17,6 @@ The gods become progenitors Vanara heroes at the dictate of Brahma to come to
  the aid of Rama in annihilating Ravana. The monkey-like Vanara race is procreated
  by numerous celestials endowing it with peculiar mighty physique and particular
  power to come to the help of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ The gods become progenitors Vanara heroes at the dictate of Brahma to come to
 
 When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahma
  the self-created addressed all of the gods this way. [1-17-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahm
 
 "Let mighty and guise changing helpmates be procreated to that truth abiding and
  valorous Vishnu who is the well-wisher of all of us. [1-17-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -194,8 +188,6 @@ Gandharva-s (Southey's Glendoveers) are celestial musicians inhabiting Indra's
  human figures and horses' heads. Siddha-s, are demigods or spirits of undefined
  attributes, occupying with the Vidyaadharaa-s the middle air or region between
  the earth and the sun. Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -250,8 +242,6 @@ _________________
 
 This is to say that Brahma has already created such a typical being, namely Jambavanta,
  prior to all the gods, as a role model in creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ This pedigree is not yet given the label of monkeys. They are look alike of monk
  but not monkeys, *vaanararuupiNam* resembling monkeys, as said in the verse.
  The word vanara is *vane carati iti vanaraH* because they range far and
  wide over forests they are called vanara-s, but not exactly a monkey race.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -341,8 +329,6 @@ This pedigree is not yet given the label of monkeys. They are look alike of monk
 
 The great-souled celestial groups, namely the sages, siddha-s, vidyaadharaa-s,
  caarana-s have created valiant sons that are forest rangers. [1-17-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -396,8 +382,6 @@ The great-souled celestial groups, namely the sages, siddha-s, vidyaadharaa-s,
 Indra procreated the lord of vanara-s, namely Vali, who by his physique is like
  Mt. Mahendra, and the highest humidifier among all the humidifiers, namely the
  Sun, procreated Sugreeva. [1-17-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -444,8 +428,6 @@ Brihaspati, the Jupiter, gave rise to a great monkey named Tara, who is the most
 
 Tara here is a vanara hero but not Lady Tara, the wife of Vali. Here we have the
  wording of *kapiH* the monkey � for these forest rangers for first time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -502,8 +484,6 @@ _________________
 
 The brilliant Gandhamaadana is the son of Kubera, while the divine architect Vishvakarma
  procreated the great monkey called Nala. [1-17-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -551,8 +531,6 @@ The brilliant Gandhamaadana is the son of Kubera, while the divine architect Vis
 
 The bright son of Fire is Neela whose blaze is like that of fire and who excels
  other monkeys by his resplendence, renown and courage. [1-17-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -595,8 +573,6 @@ The bright son of Fire is Neela whose blaze is like that of fire and who excels
 The Ashwin twin gods whose wealth is their beautiful appearance have personally
  procreated two vanara-s namely Mainda and Dvivida, blessing them with beautiful
  appearance.[1-17-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -643,8 +619,6 @@ The Ashwin twin gods whose wealth is their beautiful appearance have personally
 
 The Rain-god procreated the vanara named Sushena, and Thunder-god gave rise
  to the great mighty Sharabha. [1-17-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -715,8 +689,6 @@ Garuda: The bird and vehicle of Vishnu. He is generally represented as a being
  race. He may be compared with the Simurgh of the Persians, the Ank of the Arabs,
  the Griffin of chivalry [without lion's body,] the Phoenix of Egypt, and the bird
  that sits upon the ash Yggdrasil of the Edda. - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -793,8 +765,6 @@ _________________
 Thus the gods have procreated many thousands of such valorous and guise changing
  monkeys who with their immeasurable strength and bravery are manifest for the
  elimination of the decahedral demon Ravana. [1-17-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -851,8 +821,6 @@ _________________
 
 And they with their elephantine, mountainous and prodigious bodies quickly took
  birth in bears, monkeys, sacred langoors. [1-17-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -870,8 +838,6 @@ And they with their elephantine, mountainous and prodigious bodies quickly took
 Those that are procreated have attained the shape, getup and valour of the god
  that has fathered them, and thus the monkey race is procreated separately and
  individually. [1-17-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -921,8 +887,6 @@ _________________
 
 Some of the vanara-s endowed with superior valour are born to female langoors,
  and like that some more to female bears and kinnaraa-s. [1-17-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1002,8 +966,6 @@ Several of the gods, great-sages, gandharva-s, eagles, yaksha-s, and the celebra
  the prominent maidens of apsara-s, she-vidyaadharaa-s, naaga, gandharva-s then
  gladly procreated all of the thousands of forest-ranging and valiant vanara sons
  from their bodies that are forest rangers. [21b, 22, 23, 24a, b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1051,8 +1013,6 @@ Several of the gods, great-sages, gandharva-s, eagles, yaksha-s, and the celebra
 They are endowed with guise changing faculties, with bodily might and by their
  pride and might are identical to lions and tigers, and they are born-free in their
  movement in forests. [1-17-24c, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1112,8 +1072,6 @@ Rama and Lakshmana will use arrows and missiles as their weaponry in the ensuing
  In Sundara Kanda Hanuma will be tied by a magical weapon called Brahmaastra when
  he is in Lanka. Though knowing the release from that Brahmaastra, Hanuma does
  not utilise that knowledge there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1154,8 +1112,6 @@ Rama and Lakshmana will use arrows and missiles as their weaponry in the ensuing
 
 They can rock greatest mountains, rip firm rooted trees, and with their speed
  they can agitate the of lord of rivers, namely the ocean. [1-17-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1205,8 +1161,6 @@ _________________
 
 They can shatter the ground with their two feet, leap and cross over great oceans,
  and they can seize the clouds entering arch of heaven. [1-17-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1257,8 +1211,6 @@ _________________
 
 They can catch ruttish elephants that tumultuously move in forests, and just with
  the sound of their blare they make sky flying birds to fall. [1-17-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1276,8 +1228,6 @@ They can catch ruttish elephants that tumultuously move in forests, and just wit
 Thus the gods and others have procreated millions of such noble souled Vaanaras
  as the chiefs of warriors who can change their guise at their wish. [1-17-29b,
  30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1320,8 +1270,6 @@ Thus the gods and others have procreated millions of such noble souled Vaanaras
 Those vanara generals who took birth thus became the prominent generals among
  the principle battalions of monkeys, and they have also procreated brave monkeys
  on their own. [1-17-30a, 31b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1385,8 +1333,6 @@ _________________
 
 Some thousands of them stayed on the ridges of Mt. Rikshavat while others reached
  many kinds of other mountains and forests. [1-17-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1404,8 +1350,6 @@ adored [stood by them.]
 All of the monkeys stood by the brothers, namely the son of Indra Vali, and the
  son of sun Sugreeva, and even with the monkey generals like Nala, Neela and Hanuma
  et al. [1-17-32b, 33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1424,8 +1368,6 @@ All of the monkeys stood by the brothers, namely the son of Indra Vali, and the
 All of those who are well-versed in warfare and endowed with the might of divine
  eagle Garuda, used to thwart the pride of lions, tigers and great snakes just
  by their own prideful subjugation while they move about the forests. [1-17-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1472,8 +1414,6 @@ All of those who are well-versed in warfare and endowed with the might of divine
 
 He who is adroit, extremely mighty, and highly indomitable, that Vali protected
  bears, langoors, and monkeys just by the strength of his arms. [1-17-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1516,8 +1456,6 @@ He who is adroit, extremely mighty, and highly indomitable, that Vali protected
 The earth with its mountains, forests and oceanward places is overspread with
  those brave ones that possess diverse physiques and peculiar indication marks
  of their stock. [1-17-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 </details>
 
@@ -1586,8 +1524,6 @@ _________________
 The earth is thus suffused with those mighty army generals of Vanara race whose
  physiques resembled the clusters of clouds and peaks of mountains, and who have
  emerged for the reason of helping Rama. [1-17-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

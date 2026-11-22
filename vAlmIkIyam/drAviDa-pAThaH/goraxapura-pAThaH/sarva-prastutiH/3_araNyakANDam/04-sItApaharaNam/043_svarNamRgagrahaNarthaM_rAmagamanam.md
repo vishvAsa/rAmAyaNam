@@ -19,8 +19,6 @@ On spotting the deer Seetha calls Rama and Lakshmana to have sight of it. Lakshm
 it to be Maareecha, but Seetha, keeping his observation aside asks Rama to fetch it. Rama is also fascinated
 when he looked at that deer and he explains to Lakshmana as to why that particular deer is to be hunted
 down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -85,8 +83,6 @@ That slender-waisted Seetha whose limbs are flawless, whose complexion is like p
 is presently culling flowers is highly gladdened to observe the Golden Deer that is brightened in one
 flank with the colour of gold and the other is silvery, and she shouted for attention of her husband,
 and even that of Lakshmana who is presently weaponed. [3-43-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -134,8 +130,6 @@ way]; *aahuuya aahuuya* = calling, calling; *punaH tam mR^igam saadhu viikshate*
 "Oh, noble prince, come here," thus she called her husband and peered at the deer, and again she called,
 "really come with your younger brother quickly," and again gazed at the deer, and thus she oftentimes
 called and oftentimes saw the deer fondly. [3-43-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -182,8 +176,6 @@ Golden Deer, they saw.
 
 Those manly lions Rama and Lakshmana thus bidden by Vaidehi came there exploring that place and then
 they saw that Golden Deer. [3-43-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -230,8 +222,6 @@ deer; *tam raakSasam maariicam eva manye* = him, as Maareecha, demon, alone, I b
 
 But Lakshmana became incredulous on seeing it and said to Rama, "I believe this deer to be that Maareecha,
 the demon." [3-43-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -278,8 +268,6 @@ resorting to] disguises; *nihataa* = are killed.
 
 "Oh, Rama, when kings engaged in hunting games were delightedly moving in the forest, this Maareecha
 killed many of them resorting to many disguises, for he is a guise-changer by his wish. [3-43-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -333,8 +321,6 @@ can create to make-believe. [3-43-7]
 The 'Gandharva-city' is the name given to a make-believe formation of a city-like structure in skies
 by magicians, and presently the magicians world over are making the apparent structures to disappear,
 rather than constructing one which is un-manifest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -391,8 +377,6 @@ is reminding him. Lakshmana cites even the name of Maareecha and by this, we can
 chose Maareecha for this particular purpose. Because Maareecha has that extraordinary ability to lure
 and has a good record of wily accomplishments, Ravana chose him. Lakshmana has done his duty in presenting
 expedient data and it is up to Rama to analyse it. Rama argues on this point later in the chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -440,8 +424,6 @@ who is speaking, Kakutstha Lakshmana; *prati vaarya* = in turn, on forestalling 
 
 While Lakshmana of Kakutstha-s is speaking thus, she who is self-satisfied as her heart is conjured
 by the cozenage, such a Seetha of a toothy smile deterred him and spoke. [3-43-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -491,8 +473,6 @@ us, for playing, [a plaything,] it will become.
 
 "Oh, nobleman's son, that delightful deer is stealing my heart, oh, dextrous one, bring it round, it
 will be our plaything. [3-43-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -558,8 +538,6 @@ flocks and herds, say Caamara deer, like that Srimara deer. [3-43-11]
 
 The *chaamara* is the kind of deer of species Bos grunniens and *shrimara* is a larger
 variety than chaamara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -585,8 +563,6 @@ Kinnara deer, spotted-deer, and even bears of great-might are freely moving here
 
 Here the Kinnaraa-s are another kind of deer and not to be confounded with yaksha, gandharva, kinnaraa
 celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -602,8 +578,6 @@ mayaa na dR^iSTa puurvaH* = by me, not seen, earlier - so far.
 
 "As to how this extraordinary deer is appearing, oh, king, by way of its brilliance, tameness, or by
 the lustre of its skin, I have not so far seen any coequal to this. [3-43-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -651,8 +625,6 @@ the lustre of its skin, I have not so far seen any coequal to this. [3-43-13]
 "Diversely coloured, amazingly limbed, and spotted with gemlike dapples it is shining forth like a deer
 that is completely gemmy, and while nonchalantly moving before me it is enlivening the forest like the
 moon. [3-43-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -699,8 +671,6 @@ as it were.
 
 "Ah, what a form, ah, what a brilliance, what a beautiful bleat! This amazingly limbed deer is wonderful,
 and this is stealing my heart, as it were. [3-43-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -746,8 +716,6 @@ it will be; *vismayam janayiSyati* = astonishment, creates.
 
 "It will be surprising if this deer draws into your capture alive and well, as it creates astonishment
 to one and all. [3-43-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -791,8 +759,6 @@ sake of - as a masterpiece; *bhaviSyati* = it becomes.
 
 "When we return to kingdom on completing our dwelling in forest this deer becomes a masterpiece in palace-chambers
 for us. [3-43-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -839,8 +805,6 @@ creates.
 
 "Oh, lord, the form of this deer creates an excellent jubilation to Bharata, to you the son of the nobleman,
 to my mothers-in-law, and also to me in palace-chambers. [3-43-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -890,8 +854,6 @@ with us.
 
 "Else if that best deer does not come into you capture while alive, oh tigerly-man, at the least its
 gorgeous deerskin will be remnant of it. [3-43-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -944,8 +906,6 @@ in case the deer is felled. [3-43-20]
 The seat of those that are under a vow is called bR^isii, vratiinaam aasanam bR^isii, ajina, carma,
 kR^ittiH : amara kosha 'A seat covered with darbha, the sacred grass, [and if available] a deerskin
 thereon.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1007,8 +967,6 @@ a free living. Thus, when Seetha is trying to jump off the cordon of security la
 say that she is said to have smiled scornfully. *lakshmaNa vaakya shravaNa janita kopaa siitaa raamam
 eva aaha - dk* 'with the anger generated on listening Lakshmana's words, Seetha spoke to Rama,'
 Whether Seetha is with kopa 'anger' or not, it is unsaid in the text.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1079,8 +1037,6 @@ to fall after the deer, which we come across in the following speeches of Rama. 
 is a normal metrical filler at most times, but assumes importance at times. Here Rama is the all knowing
 and all deciding personality as depicted until now, and 'even' he is lured by the deer, say Maareecha's
 supernal trickery.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1125,8 +1081,6 @@ sat puruSo hi anartha samaye buddhyaa parityajyate - - praaciinaa*
 Bharata, sabhaa parva ; 'Rama, unable to distinguish illusory deer [went after it...] Yudhistar staked
 all his four brothers and his queen [in dice game...] thus even great people at inopportune times loose
 their brains,' an ancient saying.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1201,8 +1155,6 @@ there be.
 with such an excellent form exists in this forest. Or else, does it exist in Nandana Gardens of Indra
 - no, it cannot be there; in the adjoins of Caitraratha Gardens of Kubera - no, it will not be there,
 then how can there be some deer on earth which is similar to this! [3-43-25, 26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1251,8 +1203,6 @@ lines; *mR^igam aashritya shobhante* = deer, abiding - embedded [on coat of deer
 
 "Amazing are its hairlines with hair upturned at some places and down-turned at other, and the golden
 spots embedded on the coat of the deer are glittery. [3-43-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1300,8 +1250,6 @@ in hundred ways, which is flowing - lightning; *iva* = as with; *pashya* = you s
 
 "See at its tongue that is exserting from its mouth while it is yawning, which is similar to the flaring
 tongue of fire and to the lightning from a cloud. [3-43-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1348,8 +1296,6 @@ na lobhayet* = whose, in name, heart, not, lures.
 
 "Its face is like a mug made up of sapphires, its paunch is pearly and conchoidal, and whose heart is
 it that will not lured for this deer with an inexplicable beauty. [3-43-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1395,8 +1341,6 @@ on seeing; *kasya manaH vismayam na vrajet* = whose, mind, into astonishment, no
 
 "On seeing at this astounding look of the deer which is golden in glitter and bejewelled numerously
 as it were, whose heart is it that will not be transported into astonishment. [3-43-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1443,8 +1387,6 @@ forests, in games of hunting; *maamsa hetoH api* = flesh, for the sake of, even;
 
 "Kings pursuing games of hunting in great forests, oh, Lakshmana, will be felling deer either for the
 sake of flesh, or just for the purpose of sporting archery. [3-43-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1497,8 +1439,6 @@ and the gravel of gold. [3-43-32]
 'And this deer is also the produce of this forest, as such hunting this for taming or tanning is befitting
 to us, as we are princes.' One should not 'exert oneself,' or 'amass' forest produce even if he is a
 king, but collect it casually without looting it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1568,8 +1508,6 @@ filling, wealth, i.e., the forest produce is the best.' 'The forest produce is t
 the coffers of the kings for maintenance of kingdom, and for other rich people it is for trade etc.'
 Hence, this deer, or its deerskin is *saaram* 'an excellent gift' to be taken to Ayodhya on our
 return.' Rama's saying is interpreted in this way giving a high priority to forest produce.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1628,8 +1566,6 @@ in reality, Rama is substantiating with this statement. This is called *apuurva 
 'collection of valuable objects' which is a fashion to anyone, especially to kings. Then Lakshmana may
 further insist 'even then you shall not go, it is a fanciful deer/demon,' for which Rama is saying 'getting
 the un-gettable itself is worthwhile.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1678,8 +1614,6 @@ me. [3-43-35]
 
 Rama is not primarily bothered to tame the Golden Deer by declaring about its skin and its usage at
 this juncture. This skin alone is the 'laudable wealth' 'worthwhile object' and a 'masterpiece.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1742,8 +1676,6 @@ The word Praveni may perhaps not of a breed of deer as said in amara kosha: *aiN
 aiNam ubhe triSu* Thus it conveys the meaning aiNeya, the best deer belonging to doe, and aiNa,
 belonging to buck. Some take this praveNi as a separate breed whose dictionary meaning is completely
 different than that of deer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1804,8 +1736,6 @@ is common. And Rama wants to hunt down the reality of the deer. But Lakshmana ma
 those deer-like stars, or the deer in the moon. Equally this tricky deer on earth is uncatchable. Thereby
 getting its skin is also that dreamy.' For this Rama explains his duty in his next course of action,
 viz., killing the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 
 </details>
@@ -1854,8 +1784,6 @@ in; ellipses : if this deer happens to be Maareecha, he is eliminable, from vers
 
 "You are telling me that 'this is the wizardry of the demon.' Even then, Lakshmana, if this results
 in that way as a demon's wizardry, my duty also results in the elimination of that deer. [3-43-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1902,8 +1830,6 @@ sages, eminent, are tortured.
 
 "If this deer is Maareecha, this heinous and vicious-souled demon has indeed tortured many eminent sages
 earlier when was on the prowl in the forests, thus he is eliminable. [3-43-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -1957,8 +1883,6 @@ for that reason this bestial monster is eradicable. [3-43-40]
 **टिप्पनी**
 
 The last word in second foot *mR^iga* is also identifiable with 'beast' thus a bestial monster.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2011,8 +1935,6 @@ killing its own mother at its time of birth by ripping the womb of its own mothe
 
 The legend of Vaataapi is said in detail in chapter 11 of this Aranya Kanda when Rama and others were
 going to Agastya's hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2063,8 +1985,6 @@ agastyam* = great-saint Agastya; *aasasaada* = obtained; *tasya* = to him, to Ag
 "On one occasion after some time, that Vaataapi avariciously obtained that great-saint and the one who
 is endowed with effulgent, namely Agastya, as an eatable, but actually that demon has became an eatable
 to the sage. [3-43-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2116,8 +2036,6 @@ idam abraviit* = to Vaataapi, this, spoke.
 
 "On observing the demon Vaataapi who is trying to assume his original form of demon in order to come
 out of his stomach, that godly saint Agastya spoke this to Vaataapi with a scornful smile. [3-43-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2165,8 +2083,6 @@ tasmaat jaraam gataH asi* = therefore, into digestion, gone, you are you are dig
 
 " 'Oh, Vaataapi, you have irreverently eradicated the best Brahmans in this world owing to your might,
 therefore I have assimilated you.' So said sage Agastya to Vaataapi. [3-43-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2219,8 +2135,6 @@ at [confronting, if he provokes]; *agastyena vaataapiH iva* = by Agastya, Vaataa
 "Lakshmana, such a demon who is like Vaataapi will not be there any more. He who disregards someone
 of my kind, who always abides in righteousness and who is self-controlled, such a demon will be eliminated
 as sage Agastya has eliminated demon Vaataapi, if that demon happens to get at me. [3-43-45, 46a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2286,8 +2200,6 @@ conduct separately and circumspectly, and you do your job of guarding Seetha and
 the deer or its skin, duly eliminating that conjuring demon.' In such a case, the blemish soothsaying
 or prophesising will not occur to Rama, in saying 'Seetha as the pivotal character is to be kidnapped
 by Ravana' etc. In fact, Rama is the person who is more beguiled by the deer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2334,8 +2246,6 @@ to fetch; *drutam* = forthwith; *yaavat gacChaami* = I will go.
 
 "I wish to catch this deer, Soumitri, if not I will kill it, and I will be going forthwith to fetch
 the deer. [3-43-47b, 48a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2383,8 +2293,6 @@ bhaviSyati* = this, deer, now, not, will be there - survives.
 
 "Lakshmana, see how Vaidehi's percept is overtaken by deerskin. Indeed by the strangeness of its skin
 that deer must be a mysterious being, hence, it will not survive now. [3-43-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2444,8 +2352,6 @@ go I will be felling that spotted deer with one arrow and returning quickly. [3-
 The ambiguity is whether Rama is going for the deer, or deerskin, or for the latent demon. He is going
 for the deer epically, for the memento of deerskin to Seetha as a hero of the epic, and for the demon
 in deer, according to mythology.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 </details>
 
@@ -2505,8 +2411,6 @@ with Jatayu, also; *a pramattaH* = without, laxity - watchfully; *bhava* = you s
 "Oh, Lakshmana, you be here taking care of Maithili along with the forthright, formidable and fatherly
 bird Jatayu, and be watchful and suspicious from everywhere and every split-second." Thus Rama spoke
 to Lakshmana and started to go after the deer [3-43-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

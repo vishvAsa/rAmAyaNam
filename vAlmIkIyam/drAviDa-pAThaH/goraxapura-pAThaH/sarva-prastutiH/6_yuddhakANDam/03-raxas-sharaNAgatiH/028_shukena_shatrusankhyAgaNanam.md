@@ -17,8 +17,6 @@ title_english = "028 Shuka enumerates the enemies"
 
 Shuka in his turn enumerates the enemies and completes the account given by
 Sarana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -119,8 +117,6 @@ to celestials and demons; *devaparaakramaaH* = having a prowess of celestials;
 banyan trees on the banks of River Ganga or Sala trees on Himalayas? Those warriors, able to change
 their form at will, are irresistible, equal to celestials and demons, and in a battle, are endowed
 with the valour of the gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -180,8 +176,6 @@ these monkeys."
 
 The number exactly corresponding to a Shanku and a Vrinda should be understood
 as calculated at the end of this chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -197,8 +191,6 @@ always; *kiSkindha nilayaaH* = stay in Kishkindha.
 
 "These monkeys, the attendants of Sugreeva born of celestials and celestial
 musicians, are able to change their form at will and always stay in Kishkindha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 </details>
@@ -253,8 +245,6 @@ taabhyaam = to both of them; *yudhi* = in battle.
 
 "The two who stand there, who have the same resemblance and have the appearance of
 celestials, are Mainda and Dvivida. None can equal them in combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -270,8 +260,6 @@ their power.
 
 "These two, who ate ambrosion on due authorization by Brahma, are hopefully of
 destroying Lanka by their power."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -336,8 +324,6 @@ came.
 "As for that monkey who you see there, resembling an intoxicated elephant, who in
 strength and fury is able to churn up the ocean itself, it is he who came to Lanka to find Seetha
 and spy on you, O, Lord! See that monkey, who was seen earlier and who appears here again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -353,8 +339,6 @@ Kesari; *shrutaH* = known as; *vaataatmajaH* = the son of wind-god;
 
 "This monkey, by whom the ocean was traversed, is the eldest son of Kesari. He is
 known as the son of wind-god and famously called as Hanuman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -401,8 +385,6 @@ good form; *satatagaH* = always moving; *prabhuH yathaa* = like the god (of wind
 
 "This excellent monkey can assume any form at will. He is endowed with a good
 strength and form always moving like the wind-god, having an uninterrupted mobility."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -462,8 +444,6 @@ his strength.
 distance of three thousand yojanas (or twenty four thousand miles) reflecting: �I shall seize hold
 of the sun and my hunger will not be appeased otherwise' and they say, he leapt up (into the air)
 intoxicated as he was with his own strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -508,8 +488,6 @@ by celestials; sages or demons; *patitaH* = he fell; *girau* = on a mountain;
 
 "Without even reaching the sun, which is most unassailable even to celestials, sages
 or demons, he however fell on a mountain, where that radiant orb rises."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -531,8 +509,6 @@ the Lord of demons.
 
 After listening to Sarana's words Shuka, pointing out all that army of monkeys,
 spoke the following words to Ravana the Lord of Demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -580,8 +556,6 @@ called Hanuman.
 
 "One of the jaws of this monkey who fell down on the head of the rock, was a little
 fractured. For this reason, because of his strong jaw, he is called Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -638,8 +612,6 @@ of my bosom friends; *na shakyam* = It is not possible; *anubhaSitam* = to descr
 
 "This monkey is known to me actually through the words of my bosom friends. It is
 not possible to describe his strength or physical form or glory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -657,8 +629,6 @@ your; *laN^kaayaam* = Lanka.
 
 "He alone wants to destroy Lanka by his valour. How do you forget this monkey by
 whom this fire was lighted and is still blazing up Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -801,8 +771,6 @@ the most learned of the Vedic scholars, he shatters the firmament with his arrow
 the earth, his anger is akin to that of Death, his valour equal to that of Indra the god of
 celestials, his consort is Seetha who was taken away by you from a place called Janasthana, he is
 Rama who has come to wage war on you, O king!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -861,8 +829,6 @@ in leadership; *yuddheca* = in a combat; *varaH* = excellent;
 with black and curled hair, standing at the right side of Rama, he is called Lakshmana, who is
 interested in the care and welfare of his brother, skilled in leadership of combat and excellent
 among the wielders of all weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -910,8 +876,6 @@ right arm; *raamasya* = of Rama; *bahishcharaH* = and an outward moving;
 
 This Lakshmana is an angry person, difficult to be conquered, victorious, wise and
 mighty. He has always been the right arm of Rama and in outward moving life (of Rama).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -958,8 +922,6 @@ all the demons; *yuddhe* = in battle.
 
 "He does not indeed care for his life in the cause of Rama. He alone wishes to kill
 all the demons in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -1012,8 +974,6 @@ standing; *aashritya* = taking guard; *savyam* = at the left; *pakSam* = side;
 
 "He who is standing there, taking guard at the left side of Rama, surrounded by a
 troop of demons he is the king Vibhishana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1030,8 +990,6 @@ the battle.
 
 "He, who was consecrated as a king for Lanka by the illustrious Rama, the king of
 kings, is enraged really with you and is to attack us in the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -1195,8 +1153,6 @@ is established a good fortune of celestials and human beings, whose charming and
 garland with hundred lotuses is beautifying, that person is Sugreeva. This garland along with a
 lady called Tara as well as the permanent kingdom of monkeys were presented to him by Rama after
 having killed Vali (Sugreeva's brother)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -1260,8 +1216,6 @@ a hundred; *koTisahasraaNaam* = thousand crores; *abhidhiiyate* = is reckoned;
 
 "Wise men call a hundred lakhs as a crore. A hundred thousand crores is reckoned as
 a Shanku."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -1435,8 +1389,6 @@ one Mahapadmam. A hundred thousand Mahapadmas are called one Kharvam here. A hun
 kharvas are said to be one Mahakharvam. A hundred thousand Mahakharvas are called one Samundram. A
 hundred thousand Samudras are said to be one ogha here. A hundred thousand oghas are acclaimed a
 one Mahaugha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 </details>
 
@@ -1500,8 +1452,6 @@ Vibhishana and the ministers, as also a hundred thousand crores of Shankas, a th
 a hundred Vrindas, a thousand mahavrindas, a hundred padmas, a thousand Mahapadmas, a hundred
 kharves, samudras and Mahaughas of the same number, and a crore of Mahanghas wholearmy as such is
 identical of an ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

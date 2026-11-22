@@ -19,8 +19,6 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
  to find out the horse thief, there they find Sage Kapila, i.e., Vishnu
  in the semblance of a sage. When they wanted to attack that sage Kapila,
  he renders them to heaps of ashes by his yogic powers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
  to them, who are very highly scared, and bewildered by the might of
  Sagara's sons for they are effectuating the end of all beings." Vishvamitra
  thus continued his narration. [1-40-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -135,8 +131,6 @@ The islands / continents on earth, *dviipa-s,* are 'jambu- plaksha
  continents. Some say the earth is having nine continents, yet some others
  prefer eighteen. However entire globe *bhuudevi* belongs to
  Vishnu as she is his another consort.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -201,8 +195,6 @@ This is the cosmic routine. Every day of Brahma is one *kalpa*
  in His Trivikrama incarnation blesses the demonic Emperor Bali with
  such Indra-hood in some era, when Bali's sin is counted down, and when
  merit accrues.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -260,8 +252,6 @@ The gods that have come to appeal to Brahma are said to be thirty-three
  * 'eight Vasu gods' *ekaadasharudraa-s* 'eleven Rudra
  gods' *ashvinidvaya* twin brothers called 'ashvini-gods,' those
  that are mostly connected with the administration of earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -302,8 +292,6 @@ The gods that have come to appeal to Brahma are said to be thirty-three
 
 When the sons of Sagara are digging the earth then there emerged an
  unbearable noise similar to the crashing of a thunder. [1-40-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -355,8 +343,6 @@ _________________
 Then on hollowing the entire earth, and on making trips around her
  without finding the horse, all of the sons of Sagara have come together
  and on going to their father they spoke these words to him. [1-40-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -417,8 +403,6 @@ Then on hollowing the entire earth, and on making trips around her
  not seen the ritual-horse or its stealer. What we have to do next. Let
  a thought be given in this matter. Let safeness betide you.' So said
  those princes to their father Sagara. [1-40-8, 9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -459,8 +443,6 @@ Then on hollowing the entire earth, and on making trips around her
 
 On hearing that sentence of his sons, oh, Rama, descendent of Raghu,
  that exalted king Sagara infuriately spoke these words. [1-40-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -504,8 +486,6 @@ On hearing that sentence of his sons, oh, Rama, descendent of Raghu,
  splitting open the surface of the earth you catch hold of the thief
  of the horse, and on achieving your purpose you may return to me.' In
  this way Sagara ordered his sons. [1-40-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -554,8 +534,6 @@ The last but one mantle of the earth from its crust to its inner core,
  is called *rasaatala*, in the seven-tier planes called, *
  atala, vitala, sutala, talaatala, rasaatala, paataala.*. These are
  not hells.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -598,8 +576,6 @@ The last but one mantle of the earth from its crust to its inner core,
 While digging the earth there they beheld a mountain similar easterly
  elephant named Viruupaaksha, which is bearing the eastern side of earth's
  surface on its head. [1-40-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -647,8 +623,6 @@ _________________
 Oh, Rama, the legatee of Raghu, that great easterly elephant Viruupaaksha
  is bearing the entire eastern earth along with its mountains and forests
  on its head. [1-40-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -694,8 +668,6 @@ Oh, Rama, the legatee of Raghu, that great easterly elephant Viruupaaksha
 On certain occasions, oh, Rama of Kakutstha, when that great-elephant
  moves its head desiring respite in tiresomeness then earthquakes will
  occur on earth. [1-40-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -743,8 +715,6 @@ _________________
 They circumambulated the great elephant in supplication, oh Rama, and
  on worshipping that elephant which is the protector of easterly direction
  they proceeded to netherworld duly splitting the earth. [1-40-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -823,8 +793,6 @@ After splitting the eastern direction then they split opened the southern
  side of earth on its head, and on seeing that mammoth elephant of venerable
  character, namely Mahapadma, they went into an inordinate astonishment.
  [1-40-17, 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -866,8 +834,6 @@ After splitting the eastern direction then they split opened the southern
 On circumabulating that elephant Mahaapada in supplication, they the
  sixty thousand sons of great-souled Sagara scooped out the westerly
  direction. [1-40-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -910,8 +876,6 @@ On circumabulating that elephant Mahaapada in supplication, they the
 Even in the westerly direction those great mighty sons of Sagara beheld
  an infinite and mountain similar elephant of western direction, called
  Sumanasa. [1-40-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -966,8 +930,6 @@ _________________
 Circumambulating that elephant namely Sumanasa in western side, and
  even on asking about its well-being, then they reached the northern
  direction duly digging the earth. [1-40-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -1011,8 +973,6 @@ Circumambulating that elephant namely Sumanasa in western side, and
 In the northern direction, oh, Rama, they beheld Bhadra, a snow-white
  elephant with an auspicious body bearing northern side of this earth.
  [1-40-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -1055,8 +1015,6 @@ In the northern direction, oh, Rama, they beheld Bhadra, a snow-white
 On touching that elephant reverently and also circumambulating it,
  those sixty thousands sons of Sagara further burrowed to the surface
  of the earth. [1-40-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -1101,8 +1059,6 @@ _________________
 The sons of Sagara have then gone to the auspicious northeast direction,
  iishaana-digbhaaga, Shiva-sthaana, and
  all those sons of Sagara have tunnelled the earth rancorously. [1-40-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -1176,8 +1132,6 @@ But all those great-souled and great-mighty ones with terrible dash
  the northeast, and oh, descendant of Raghu, they have also seen the
  ritual-horse moving nearby that sage Kapila, thus all of the sons of
  Sagara obtained a matchless delight. [1-40-25, 26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -1232,8 +1186,6 @@ The eyes of the princes are agitated in fury in construing the sage
  Kapila as the stealer of ritual-horse, and they furiously dashed towards
  him wielding crowbars, ploughs, and various trees and boulders, and
  shouting at him, 'stay, stay.' [1-40-27, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -1283,8 +1235,6 @@ _________________
 You the malicious one, you have indeed stolen our ritual-horse, and
  in fact, you should know that we who arrived here are the sons of Sagara.'
  Thus Sagara's sons shouted at sage Kapila. [1-40-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -1327,8 +1277,6 @@ You the malicious one, you have indeed stolen our ritual-horse, and
 On hearing their words, oh, Rama, the descendant of Raghu, then sage
  Kapila is beset with high wrath, and he boomed a 'hum' sound at them.
  [1-40-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 </details>
 
@@ -1372,8 +1320,6 @@ On hearing their words, oh, Rama, the descendant of Raghu, then sage
  with unimaginable power, has rendered all of those sons of Sagara as
  heaps of ashes by virtue of his 'hum' sound." Thus Sage Vishvamitra
  is narrating the legend of Sagara to Rama and others. [1-40-30b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga40/balasans40.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

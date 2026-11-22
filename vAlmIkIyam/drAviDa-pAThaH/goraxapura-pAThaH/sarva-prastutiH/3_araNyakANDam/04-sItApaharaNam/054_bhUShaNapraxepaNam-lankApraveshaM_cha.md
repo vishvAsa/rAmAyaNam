@@ -20,8 +20,6 @@ Seetha drops her ornaments at Sugreeva and other monkeys available on a mountain
 during the course of her abduction. Ravana does not take notice of this as he is hurrying as though
 haunted by Rama. On crossing the southerly ocean, his jitteriness in stealing Seetha ceases and he
 hypocritically feels elated in gaining both Seetha and an animosity with Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ et al]; *dadarsha* = she saw.
 
 Vaidehi has not seen any rescuer while she is abducted, but she has seen five
 prominent vanara-s staying on a mountaintop. [3-54-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -142,8 +138,6 @@ dress is a must, either to man or a woman in Indian style. It comprises of a loi
 sari, and a shirt-like or a jacket-like bust cover, and an upper-cloth to hang on the shoulder to
 men or to muffle the bust for women. So some say the whole of upper cloth of Seetha is dropped
 bundled with ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -179,8 +173,6 @@ These ornaments are said to be one nosering, one earring, one bracelet, one
 biceps-let, one anklet with tinkling bells - all from her right side - because showing
 ornaments/items worn on left-side to husband is held improper. The anklet that has fallen from her
 leg on earth, in earlier chapters, is from her left leg.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ with Vali. If these handfuls of vanara-s dare Ravana, they die at the hands of R
 the hand of Vali. Hence, they remained silent spectators to save themselves. This is why Sugreeva
 did not indicate the way Seetha in which was abducted by 'some' demon, to Rama, in Kishkindha, when
 they firstly met.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ So far Ravana's travel is proceeding with his looking backward, sideward, and
 frontward, expecting any attack from anywhere, as this Dandaka or Janasthaana are his frontiers for
 operation but not the areas of his stronghold. And when once these areas are crossed reaching
 Pampa, there is no more self-confessed fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -347,8 +335,6 @@ she-snake, as with; *utsangena eva* = by lap, thus; *jahaara* = stole.
 
 Ravana is jubilantly happy in stealing his own death alias Seetha, as one would
 carry a stingingly fanged and lethally venomous she-snake in his own lap. [3-54-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -395,8 +381,6 @@ atiiyaaya* = well crossed over - bolted out.
 
 He bolted out in skyway up above the woodlands, waterways, pools, and mountains at
 the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -470,8 +454,6 @@ the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 On reaching the ocean, a housing for sharks, alligators, a home of Rain-god, a
 never-draining deep and an ultimate course of the rivers, he hastily crossed it over. [3-54-8b,
 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -489,8 +471,6 @@ never-draining deep and an ultimate course of the rivers, he hastily crossed it 
 That ocean being the abode of Rain-god is highly flustered when Vaidehi is being
 abducted over it, and its waves became topsy-turvy and its fishes and great marine-reptiles
 remained shilly-shally. [3-54-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -537,8 +517,6 @@ end - he ends with this; *iti* = thus; *vaacaH sasR^ijuH* = words, released
 
 Then the siddha-s and caarana-s available in airspace averred saying, "this alone is
 the end of Decahedron Ravana." [3-54-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -586,8 +564,6 @@ Seetha, on flank, taking; *lankaam puriim pravivesha* = Lanka, city, he entered.
 Ravana entered the city of Lanka transporting Seetha, while she wriggling in his
 flank, who appeared like the personified death of Ravana wriggling its way into his Lanka.
 [3-54-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -640,8 +616,6 @@ his own palace-chambers which is with very many doors and chambers thronging wit
 On going towards the city Lanka that has well-symmetrized roadways, he then entered
 his own palace chambers in which royal servants are thronging at many doorways as that palace has
 very many chambers. [3-54-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -734,8 +708,6 @@ The eyes of Seetha are said to be blackish at their ends. This is not mascara or
 something like a makeup article. The eyelashes are longish like those of celestials, so as to give
 a blackish orb around her eyeball and because she is now ceaselessly shedding tears, these
 eyelashes are tear-wet and slanted edge-ward to give a blackish shade at the end of her eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 
 </details>
@@ -785,8 +757,6 @@ bhaviSyatha* = thus, you shall conduct - your watch and ward shall be.]
 That Decahedron Ravana also instructed the bogey-sightly bogeywomen, "your watch and
 ward shall be in such a way that neither a female nor a male can see Seetha impermissibly."
 [3-54-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -837,8 +807,6 @@ be given.
 
 "Whatever she wishes to have, gold, jewels, pearls, apparels or adornments, they all
 be given to her as you would give me according to my whimsies. [3-54-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -887,8 +855,6 @@ pleasant.
 "Whosoever speaks unpleasant words to Vaidehi in the least, either unknowingly or
 knowingly, her life becomes unpleasant for herself." Thus Ravana ordered the chamber-demonesses.
 [3-54-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -942,8 +908,6 @@ audience.
 On speaking to those demonesses thus that chief of demons exited from that palace
 chamber, and giving a thought to what is to be done in sequel, then he gave audience to eight
 highly vigorous demons, the feasters on raw-flesh. [3-54-17b, 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -992,8 +956,6 @@ an audience]; *taan idam vaakyam uvaaca* = to them, this, sentence, spoke.
 He who is egocentric by the boon awarded by Brahma for his invincibleness, that
 Ravana on giving an audience to those eight demons spoke this sentence to them praiseful of their
 might and valour. [3-54-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1045,8 +1007,6 @@ earlier; *janasthaanam* = to Janasthaana; *gacChata* = begone.
 "You immediately take up multiple assaultive weaponry and begone from here to
 Janasthaana speedily, a place now deadpanned for demons, which earlier was the placement of Khara.
 [3-54-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1103,8 +1063,6 @@ self-assured and self-confident and can to mete out any assault on our race...' 
 hesitate as to 'why we should depend on our own personal strengths...' for that Ravana is saying 'a
 still mightier Dushana, still mightiest Khara are eliminated... thus you perk up your sprites,
 personally...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1154,8 +1112,6 @@ and to them Ravana is saying 'you are the next best in line of order of military
 turn to assume command, as committed soldiers, as I am at loggerheads with Rama...' Ravana follows
 such 'order of priorities' in warring scrupulously and we chance to meet them in Yuddha Kanda,
 canto of Great War.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1216,8 +1172,6 @@ warring against fourteen thousand demons and eliminated all... thus we cannot wa
 overtly when our courage is lessening... but we can covertly do some kind of harm... hence, you go
 there and undertake any kind of activity that will be harmful to that Rama... as I am uncourageous
 and uncomfortable, as of now...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1271,8 +1225,6 @@ By an enforced enmity one's own sleep vanishes as he will always be wakeful of h
 has purchased enmity is a weakling and worthless to confront... *vidura niiti: Maha Bharata, Udyoga
 parve: anena balavad virodhino nidraa na bhaviShyati iti suucitam | tathaa ca udyoge viduraH - ayuktam
 balavataa durbalam hiina saadhanam | hR^ita svam kaaminam coram aavishanti pra jaagaraaH || - dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1320,8 +1272,6 @@ eliminating; *[yadi* = if I can kill him]; *nir dhanaH* = not, a rich one - paup
 
 "I for myself will be comfortable only on eliminating him who has eliminated Khara
 and Duushana as with a pauper acquiring riches. [3-54-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1368,8 +1318,6 @@ upanetavyaa* = accurately, be brought [to me.]
 
 "While you remain in Janasthaana you have to accurately bring me the information
 about Rama's activities and deportment. [3-54-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1420,8 +1368,6 @@ vadham prati* = Raghava's, killing, apropos; *sadaa yatnaH kartavyaH ca* = conti
 "Do not go heedlessly, you all night-walkers, for that Rama appears to be too
 dangerous, and on your going there heedfully, you have to continually try for the elimination of
 that Raghava. [3-54-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1468,8 +1414,6 @@ niyojitaaH* = by me, commissioned.
 
 "I am aware of your might in battle fronts for a number of times, as such I have
 commissioned you all in that Janasthaana." Thus Ravana spoke to those eight demons. [3-54-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1526,8 +1470,6 @@ abhivaadya* = Ravana, hailing; *lankaam vihaaya* = Lanka, departing from;
 Then on picking up those words amiable to all intents and purposes of Ravana, those
 eight demons departed from Lanka on hailing Ravana, and they collectively journeyed in the
 direction of Janasthaana with their imperceivable appearances. [3-54-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 </details>
 
@@ -1604,8 +1546,6 @@ If Lanka is a body, it embodies pleasure seeking traits seated in *manas* 'pleas
 along with an 'ever witnessing soul...' called *saakshi buuta aatma*. Along with the release
 of captivated soul, called Seetha, this pleasure seeking *manas* 'heart' also gets released.
 And the releaser or the deliverer is Rama, and hence Ravana is happy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

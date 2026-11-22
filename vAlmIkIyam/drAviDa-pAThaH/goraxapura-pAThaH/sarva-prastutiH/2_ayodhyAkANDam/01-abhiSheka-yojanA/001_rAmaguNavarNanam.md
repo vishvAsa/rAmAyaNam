@@ -19,8 +19,6 @@ Valmiki describes the innumerable virtues of Sree Rama in this sarga. Dasaratha
 wants to coronate Rama as the crown prince with the approval of all his people. With this end in
 mind, he invites various citizens, important people from all cities and villages in his
 kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -93,8 +91,6 @@ kingdom.
 
 Bharatha, while going to his maternal uncle's house, has taken his brother Satrughna
 (he who has no sins and who annihilates his enemies) along with him with love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -110,8 +106,6 @@ his maternal uncle; *saH* = that Bharatha; *bhraatraa saH* = with his brother;
 
 Treated with good hospitality and paternal love by his maternal uncle, Yudhajit, who
 was a lord of cavalry, Bharatha stayed with his brother there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -152,8 +146,6 @@ satisfied by; *kaamataH* = all the wants; *smarataaM* = were remembering;
 
 Those heroes of valour Bharatha and Satrughna, though staying there enjoying all the
 comforts, were remembering their age old father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -194,8 +186,6 @@ mahendravaruNopamau* = (and who were) equivalent to Indra and Varuna.
 
 The mighty Dasaratha was also often remembering his sons Bharatha and Satrughna who
 were out of his state and who were equivalent to Indra and Varuna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -236,8 +226,6 @@ emerging; *svashariiraat* = out of his own body.
 
 Dasaratha was bestowing his equal love to all his four sons who were best among men,
 as though they were his four hands emerging out of his own body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -278,8 +266,6 @@ babhuuva* = became a source of joy; *pituH* = for his father.
 
 Rama, like the Brahma among all the living beings, the most virtuous among those
 brothers and the mightiest was a great source of joy for his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -320,8 +306,6 @@ brothers and the mightiest was a great source of joy for his father.
 
 That Rama - was He not the eternal Vishnu who was born on earth as prayed by
 celestials to kill the egoistic Ravana?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -362,8 +346,6 @@ mighty.
 
 Like Adithi by Indra, best among the celestials, Kausalya shone by her son Rama, the
 mighty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -404,8 +386,6 @@ hi* = son indeed; *bhuumau* = on earth.
 
 Rama was beautiful in form, a hero of valor and without envy. By virtues, he was
 like Dasaratha. In this way, he was an incomparable son on earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -452,8 +432,6 @@ like Dasaratha. In this way, he was an incomparable son on earth.
 
 That Rama was always peaceful in mind and spoke softly. He did not react even to the hard
 words spoken by others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -500,8 +478,6 @@ not remember; *shatam api* = even a hundred; *apakaaraaNaam* = of bad things.
 
 That Rama, because of his good bent of mind, feels glad even by whatever way a good
 thing is done to him. He does not remember any number of bad things done to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -542,8 +518,6 @@ archery; *nityam* = always; *kathayan aaste* = used to converse;
 
 Whenever he finds some time even while practising archery, Rama used to converse
 with elderly people, elder by way of conduct or wisdom or age or with good- natured people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -585,8 +559,6 @@ not even arrogant; *svena* = by his own; *mahataa* = by great; *viiryeNa* = by v
 Rama was a wise man. He used to speak sweetly. He was the first man to initiate a
 talk. His speech was compassionate. He was valorous. But he was not arrogant of his mighty
 valor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -627,8 +599,6 @@ valor.
 
 He did not speak untruth. He was all knowing. He used to be receptive and worshipful
 to the elders. People used to love him and he used to love the people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -674,8 +644,6 @@ conduct).
 He had compassion. He conquered anger. He used to be receptive and worshipful to the
 wise. He had mercy towards the meek. He knew what was to be done. He had always self-control. He
 was clean (in conduct).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -724,8 +692,6 @@ heaven.
 That Rama, having an attitude suitable for his social rank, giving due respect to
 righteousness of warrior-class, believed that by following the righteousness he would attain great
 fame and through it the fruit of heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -773,8 +739,6 @@ opposing righteousness; *vaachaspatiH yathaa* = like the lord of speech; *uttaro
 Rama was not interested in actions, which were not beneficial. He was a scholar. He
 had no taste in tales opposing righteousness. Like vachaspathi, his eloquent speech contained a
 series of strategies for action.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -823,8 +787,6 @@ world.
 Rama was a young man without any disease. He was a good speaker. He had a good body.
 He knew both time and place. He could grasp the essence of men. He was the one gentleman born on
 earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -865,8 +827,6 @@ spirit; *bahishcharaH* = moving outside; *guNataH* = from virtues.
 
 People loved the virtuous prince Rama and treated him as their spirit moving
 outside.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -914,8 +874,6 @@ education; *samyak* = properly; *saaN^gavedavit* = the one who knows veda along 
 
 After completing his education properly, Rama, after knowing the veda along with vedanga-s
 as prescribed, became better than his father in the use of bow and arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -958,8 +916,6 @@ as prescribed, became better than his father in the use of bow and arrows.
 Rama, having born in a good clan, was gentle minded. He was not feeble. He spoke
 truth. He was straightforward. He was properly trained by elderly brahmana-s those who knew
 righteousness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1002,8 +958,6 @@ in customs useful at that time; *laukike* = in the society.
 Rama knew the real form of desire, wealth and righteousness. He had a good memory
 power. He had a spontaneous wisdom. He had skills in arranging customs useful to society prevalent
 at that time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1045,8 +999,6 @@ others; *amoghakrodhaharShaH cha* = also the one whose anger and pleasure not wa
 Rama was humble. He did not let his feelings appear outwardly. He kept his thoughts
 to himself. He helped others. His anger and pleasure were not wasteful. He knew when to give and
 when not to give.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1094,8 +1046,6 @@ evil words; *nistandriH cha* = also the one who had no idleness; *apramattaH* = 
 Rama had a firm devotion and steadfast mind. He was not stubborn nor did he speak
 evil words. He was free from idleness and was ever alert. He recognized his own errors and those of
 others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1136,8 +1086,6 @@ knew their practice; *puruShaantarakovidaH* = one who understood differences amo
 
 Rama knew the theory and practice of sciences. He understood the differences among
 men. He could judiciously discriminate whom to protect and whom to punish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1191,8 +1139,6 @@ men. He could judiciously discriminate whom to protect and whom to punish.
 He identified good men and protected them. He knew the people worthy of reprimand.
 He knew the ways and means of getting income as well as the system of spending, as perceived by
 economic sciences.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
 <details><summary>Misc Detail</summary>
@@ -1250,8 +1196,6 @@ inactive.
 Rama could obtain great skill in the groups of sciences along with their
 subsidiaries. He was interested in enjoying comforts only after understanding the economy
 and virtues. He never remained inactive.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1296,8 +1240,6 @@ and also in taming; *vaaraNavaajinaam* = of elephants and horses.
 
 Rama was acquainted with the fine arts useful for entertainment. He knew how to
 distribute the wealth. He was efficient in riding and also taming of elephants and horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
 <details><summary>Misc Detail</summary>
@@ -1344,8 +1286,6 @@ archery; *senaanayavishaaradaH* = one who attained skills in moving the army pro
 Rama was the best of persons knowing the science of archery in the world; and was
 well appreciated by the champions of archery. He attained skills in marshalling the army. He faced
 and killed the enemies in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1396,8 +1336,6 @@ who had not surrendered to time.
 Even enraged celestials and demons could not defeat Rama in battle. He had no
 jealousy. He conquered anger. He had no arrogance and envy. He had not even humiliated any living being.
 He had not surrendered to time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1445,8 +1383,6 @@ the people; *saMmataH* = agreeable one; *triShu lokeShu* = among the three world
 That Prince Rama, with these good virtues, was fair to the people. He was agreeable
 to the three worlds. By patience and the related virtues, he was equal to earth, by wisdom to
 Brihaspathi and by valor to Devendra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1462,8 +1398,6 @@ iva* = like the sun; *diiptaH* = shining; *aMshubhiH* = by the rays.
 
 Rama, by his virtues, was a source of happiness to all the people and a spring of
 joy to his father. As the sun shines with his rays, Rama was shining, thus, with his virtues.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1510,8 +1444,6 @@ disciplined life; *apradhR^iShyaparaakramam* = one having undefeatable valor;
 
 The earth wished Rama to be her Lord as he was adorned with self -control and norms
 of behavior bearing undefeatable valor equal to that of universal lords like Indra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1552,8 +1484,6 @@ incomparable; *etaiH* = by these; *guNaiH* = by virtues.
 
 Dasaratha, who annihilates enemies, started thinking as follows after observing his
 son with his many incomparable virtues.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1594,8 +1524,6 @@ jiivati* = while I am alive; *eShaa priitiH* = this happiness.
 
 The long living and aged Dasaratha thought: "Will Rama become king while I am still
 alive? Shall I enjoy that happiness?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1639,8 +1567,6 @@ _________________
 
 A great loving thought was ringing in his mind that when he would be able to see his
 beloved son Rama crowned as a king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1690,8 +1616,6 @@ iva* = like cloud; *vR^iddhikaamaH* = one who desires development; *lokasya* = o
 
 "Is not Rama, as a raining cloud to the earth, better liked by people than me, as he
 desires the development of the world and has compassion towards all living beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1732,8 +1656,6 @@ Indra; *matau* = in wisdom; *bR^ihaspatisamaH* = equal to Bruhaspati;
 
 "Rama is equal to Yama and Devendra in valor, to Brihaspati in wisdom and to a
 mountain in courage. He is more virtuous also than me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1774,8 +1696,6 @@ entire; *imaam mahiim* = this Earth.
 
 "Shall I attain heaven, after seeing in this age, my son ruling the entire
 earth?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1850,8 +1770,6 @@ earth?"
 Rama had many other virtues beyond hitherto stated virtues not to be seen in other
 kings. His virtues cannot be counted and they are the best in the world. Seeing that type of
 virtuous Rama, Dasaratha along with his ministers, decided to make Rama the prince.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1869,8 +1787,6 @@ aged.
 The wise Dasaratha observed that there was sign of a great alarm being forecast because
 of bad omens found in earth heaven and the sky. He also told the ministers that his body
 was getting aged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1914,8 +1830,6 @@ shokaapanudam* = to the one who removes worry of self.
 
 He recognized that if Rama were crowned as king, he would not have worries as Rama
 had beautiful face as a full moon; was a great wise man; and was liked by the people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -1963,8 +1877,6 @@ interest; *shreyase cha* = also beneficial to; *aatmanaH cha* = and of own self;
 The righteous Dasaratha was hurried with concern in the coronation of Rama as it is
 for his own benefit and for the benefit of people. Because it is as per his liking and also as the
 appropriate time has come.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -2014,8 +1926,6 @@ _________________
 
 Dasaratha called for other kings and officers staying in various cities and villages
 in his kingdom separately.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -2056,8 +1966,6 @@ vaa* = or Janaka; *tau* = both of them; *shroShyataH* = could hear;
 
 The hurried Dasaratha did not call for the king Kekaya, the maternal uncle of
 Bharatha or the King Janaka as he thought they both could hear the good news even afterwards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -2098,8 +2006,6 @@ Bharatha or the King Janaka as he thought they both could hear the good news eve
 
 The king Dasaratha presented them suitably with houses and jewelry. Duly adorned
 himself, he looked after them in the manner Lord Brahma looks after his children.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -2148,8 +2054,6 @@ annihilating the opponent's army; *upaviShTe* = when sitting.
 
 All the invited kings, duly liked by their people, entered the assembly after the
 king Dasaratha , who annihilates the opponent's army, occupied his seat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 
 </details>
@@ -2191,8 +2095,6 @@ king Dasaratha , who annihilates the opponent's army, occupied his seat.
 
 The kings thus entered, occupied their various seats allotted to them by the king,
 by facing toward the king as per the prescribed rules.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 
@@ -2238,8 +2140,6 @@ sahasrachakShuH iva* = like thousand eyed lord; *amaraiH* = by celestials.
 Surrounded by the respected and humble kings sitting closely to him as well as the
 important heads of cities and villages, king Dasaratha shone like lord Devendra surrounded by
 celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
 </details>
 

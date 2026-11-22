@@ -18,8 +18,6 @@ Lakshmana pacifies Rama with reasonable argument in saying that, owing to the fe
 committed by a single soul, the entire world cannot be put to arrow. But a humanly search is to be
 conducted first to find him out, who abducted Seetha. If she is unavailable even after a thorough
 search, then that which is appropriate to the situation obtaining then, it can be effectuated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -103,8 +101,6 @@ Seetha, blazing like the doomsday inferno, twinned with the notion of rendering 
 nonentity, kenning at his stringed bow, keen to blaze away entire universe, suspiring again and
 again, and who is alike Rudra at the end of era, and whose highly infuriated persona Lakshmana has
 not seen previously, became pale-faced and spoke to Rama with folded palms. [3-65-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -153,8 +149,6 @@ to discard, not, apt of you.
 "Previously, you were self-collected and self-controlled and delighted in the
 wellbeing of all the beings. But presently, slipping into fury you are discarding your own
 disposition, which is unapt of you... [3-65-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -202,8 +196,6 @@ besides, unexcelled, honour.
 
 "Grandeur in moon, splendour in sun, motion in wind, and composure in earth are
 perpetual and all this perpetuity is available in you, besides an unexcelled honour... [3-65-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -257,8 +249,6 @@ saangraamikaH rathaH* = this, one used in war /combatant's, chariot; *kasya* = w
 "It will be unapt of you to vandalise worlds for a single-soul's felony. It is
 unclear as to whose combat-chariot is this, or by whom, or by what reason it is shattered with its
 weaponry and paraphernalia... [3-65-6, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -321,8 +311,6 @@ sangraamaH* = fought and stalled, combat.
 "This has become a very ghastly place since it is grooved by the hooves of ungulates
 and by the felloies of chariot-wheels, and it is wetted with drops of blood, oh, prince, thereby a
 combat is fought and stalled at this place... [3-65-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -344,8 +332,6 @@ combat is fought and stalled at this place... [3-65-7b, 8a]
 "This is just a solo-combatant's combat but not among duo, oh, best articulator one
 among best articulators, I indeed observe that no huge army is eventuated here, nor its stamp...
 [3-65-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -363,8 +349,6 @@ apt of you; *hi* = why because; *vasudhaa adhipaaH* = earth's, lords [kings are]
 "It will be inapt of you to wish for wrecking a havoc upon all worlds for an
 individual's wrongdoing. Why because, the good-hearted, good-natured kings are they who impose
 tenable punishment... [3-65-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -412,8 +396,6 @@ nu* = who, really; *saadhu manyeta* = appreciable [act of grace,] they deem.
 "You are always the shelterer for all beings, for you're above all the good-natured
 and good-hearted ordinary kings, and who can really deem the ravagement of you wife as an act of
 grace... [3-65-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -466,8 +448,6 @@ they cannot do so.
 Vedic-ritual, honestly, these rivers, oceans, mountains, gods, celestials, and cacodemons too
 cannot evoke indignation in you, because they are always gentle to you... isn't so... [3-65-10b,
 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -517,8 +497,6 @@ yena hR^itaa* = Seetha is, by whom, abducted; *tam* = him [who abducted Seetha];
 "Oh, king, it will be apt of you to wield your bow and search for him who abducted
 Seetha, along with me as your squire and standby, and with the help of sublime sages available in
 this forest... [3-65-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -572,8 +550,6 @@ also; *thathaa vividhaaH padminyaH* = likewise, different, lotus-lakes; *viceSya
 
 "Let us search the oceans, rivers and forests, and even divers dreadful caves and
 different lotus-lakes... [3-65-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -594,8 +570,6 @@ different lotus-lakes... [3-65-13b, 14a]
 
 "Let us intently search the worlds of gods and celestials as long as the abductor of
 your wife is unapprehended... [3-65-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -613,8 +587,6 @@ do.
 "Oh, Lord of Kosala kingdom, if the heavenly lords are not going bestow your wife
 propitiously, rather after our humanly effort, then you may do whatever you want, seasonably...
 [3-65-15b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 </details>
 
@@ -674,8 +646,6 @@ scrupulosity are not going to get back Seetha, then you may you may put whole of
 turmoil with the torrents of your arrows which have swift egress as they are with golden-handles
 which are stuffed with eagle feathers, and which mirror up the Thunderbolts of Mahendra in their
 trajectories..." Thus Lakshmana appealed to ireful Rama. [3-65-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

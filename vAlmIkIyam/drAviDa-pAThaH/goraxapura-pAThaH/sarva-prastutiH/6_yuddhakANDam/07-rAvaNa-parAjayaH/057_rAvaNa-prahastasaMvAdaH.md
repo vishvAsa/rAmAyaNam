@@ -16,8 +16,6 @@ title_english = "057 Ravana asks Prahasta to go to the battle"
 Ravana asks Prahasta to go to the battle. Prahasta sets out for the combat along
 with a huge army and enters the eastern gate. Bad omens appeared, as Prahasta enters the
 battle-field. The army of monkeys seized hold of trees and rocks, to attack the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ looked; *taan sachivaan* = towards those ministers.
 
 Hearing of Akampana's killing, Ravana the Lord of demons, with a little depressed
 face, was enraged and looked towards his ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ inspect; *sarvagulmaan* = all his defenses; *puurvadivasa* = in the forenoon.
 
 Having reflected awhile and deliberated with his ministers, Ravana the king of
 Demons then passed that forenoon in inspecting his defenses in the City of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ flags.
 
 The king Ravana saw that City, guarded by groups of demons, filled with innumerable
 troops and decorated with banners and flags.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ kovidam* = who was skilled in war-fare; *aatmahitam* = and who wished well of hi
 
 Seeing Lanka besieged, Ravana the Lord of Demons spoke as follows to Prahasta who
 was skilled in war-fare and who wished well of him even at a critical time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ is beseiged; *sahasaa* = suddenly; *piiDitasya* = and being devastated.
 
 "O, Prahasta the proficient in war-free! I do not see any other deliverance than a
 battle for this city, which is besieged suddenly and being devastated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ vaa* = or Indrajit; *nikumbho vaa* = or Nikumbha; *vaheyuH* = can bear;
 
 "Either myself or Kumbhakarna or yourself my army-chief or Indrajit or Nikumbha and
 none else could undertake such a task!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ none else could undertake such a task!"
 
 "For that reason, taking a company of warriors, you quickly place yourself in their
 midst and set forth in order to triumph over all those monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ the sound; *raakSasendraaNaam* = of the leaders of demons; *nardataam* = roaring
 
 "Unsettled in no time on knowing your decision to enter the battle-field, the army
 of monkeys will run away on hearing the raring sound of the leaders of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -463,8 +445,6 @@ iva* = as elephants; *simhanaadani* = the lion's roar.
 
 "The monkeys are unsteady, mis-behaved and fickle-minded. They do not tolerate your
 sound, as elephants the lion's roar."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -511,8 +491,6 @@ with Lakshmana; *niraalambaH* = without any support; *avashaH* = unwillingly;
 
 "O, Prahasta! As that army takes to its heels, Rama along with Lakshmana being
 supportless, will fall into your power though unwillingly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -563,8 +541,6 @@ which; *hitam* = is advantageous; *naH* = for us.
 
 "A skeptical misfortune is preferable to one that is certain! Whether it is
 unpleasing to hear or not, say what you consider as an advantage to us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -611,8 +587,6 @@ Ushanaa = like Ushana (the preceptor of demons) asurendramiva = to Bali the king
 
 Hearing the words of Ravana, Prahasta the Army-General spoke the following words to
 Ravana, like Ushana the preceptor of demons would speak to Bali, the king of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -660,8 +634,6 @@ arose; *naH* = between us.
 
 O, king! Formerly, we deliberated this matter with our wise ministers and, after
 having a good dialogue with each other, a disagreement arose between us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -708,8 +680,6 @@ having a good dialogue with each other, a disagreement arose between us."
 
 "To return Seetha was what I considered preferable. Not to do so meant war; we
 foresaw this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -757,8 +727,6 @@ by you; *kaale* = at appropriate time; *daanaishcha* = by gifts; *maanaishcha*
 
 "I have ever been honoured by you at appropriate times by gifts, felicitations and
 nice words. When the opportunity arises, is it not for me to render you a service?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -806,8 +774,6 @@ wish to sacrifice; *jiivitam* = my life; *tvadarthe* = for your sake; *yudhi*
 
 "Neither wives nor sons nor riches are going to be spared by me. See you me,
 intending to sacrifice my life for your sake in the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -854,8 +820,6 @@ to his leading officers; *sthitaan* = stationed; *purataH* = in front.
 
 Having spoken thus to Lord Ravana, the General Prahasta said to his leading officers
 who stood before him as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -928,8 +892,6 @@ beasts; *tR^ipyantu* = shall feed; *hataanaam* = on the enemy that I stroke down
 
 "Gather a large army of demons together for me. Today, the flesh-eating birds and
 beasts shall feed on the enemy that I strike down on the battle-field with my swift arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -976,8 +938,6 @@ raakSasa mandire* = in the abode of that demon.
 
 Hearing that command of Prahasta, the mighty leaders of the army assembled the
 forces in the abode of that demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1024,8 +984,6 @@ resembling elephants; *naanaa vidhaayudhaiH* = wielding various types of weaponr
 
 Within a short while, that City of Lanka was filled with those terrific
 demon-warriors, resembling elephants and wielding various types of weaponry.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1073,8 +1031,6 @@ blow.
 
 While some demons propitiated the fire-god with their offerings and paid homage to
 Brahmanas, a fragrant freeze bearing the scent of clarified butter, began to blow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1121,8 +1077,6 @@ wore; *srajashcha* = garlands; *vividhaakaaraaH* = of different shapes;
 
 Then, the demons who were ready for the battle, delightedly wore garlands of
 different shapes, consecrated by certain Mantras (sacred formulas).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1169,8 +1123,6 @@ different shapes, consecrated by certain Mantras (sacred formulas).
 
 Thereafter, armed with bows and armours, the demons with their eyes turned towards
 their king Ravana, marched at a brisk pace and ranged themselves round Prahasta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1276,8 +1228,6 @@ an extremely swift horses, well controlled by a charioteer, emanating a noise re
 large cloud, actually shining like moon-light, inviolable with a flag bearing an ensign of snake,
 with a good collision-guard, with nice wheels and decorated with a net of pure gold smiling as it
 were in its magnificence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1324,8 +1274,6 @@ whom command was given by Ravana; *aasthaaya* = mounted; *ratham* = his chariot;
 
 Then, Prahasta the one who was commanded by Ravana, ascended his chariot and set out
 from Lanka soon along with a huge army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1377,8 +1325,6 @@ roar of a cloud.
 While Prahasta the general sallied forth, the sound of a kettle-drum, the resonance
 of musical instruments and the sound of conches were heard, as though filling the earth like the
 roar of a cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1425,8 +1371,6 @@ with terrible; *svaraan* = voices; *jagmuH* = went; *agrataH* = in front;
 
 The demons with terrific forms and bulky bodies, shouting with dreadful voices, went
 in front, as forerunners of Prahasta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1473,8 +1417,6 @@ attendants of Prahasta; *ete* = they; *niryayuH* = sallied forth; *parivaarya*
 
 Narantaka, Kumbhahanu, Mahanada and Samunnata, attendants of Prahasta sallied forth,
 surrounding him on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1521,8 +1463,6 @@ army; *gaja yuutha nikaashena* = resembling a herd of elephants.
 
 He emerged from the eastern gate in the midst of an immense, formidable and orderly
 arranged army, resembling a herd of elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1569,8 +1509,6 @@ appearing like Death at the end of the world.
 
 In the centre of that army, vast as the sea, that Prahasta in his fury, came forth
 appearing like Death at the end of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1617,8 +1555,6 @@ calls; *sarvabhuutaani* = from all creatures; *laN^kaayaam* = in Lanka.
 
 The uproar that arose on his setting forth with his demons raising the war-cries
 drew sinister answering calls from all creatures in Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1665,8 +1601,6 @@ right; *rathamprati* = towards the chariot.
 
 In a cloudless sky, birds of prey eating flesh and blood, flew in circles from left
 to right towards the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1719,8 +1653,6 @@ sky; *vaayushcha* = and the wind; *vavau* = blew; *paruSam* = harshly.
 
 Fearful jackals vomited forth fire and flames, howling repeatedly. A meteor fell
 from the sky and the wind blew harshly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1764,8 +1696,6 @@ brilliance; *meghaashcha* = the clouds; *kharanirghoSaaH* = made harsh sounds;
 The plants, in opposition to each other, lost their brilliance. The clouds, with
 their raucous sound, showered blood on Prahasta's chariot and dampened those who were walking in
 front of it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1816,8 +1746,6 @@ standard; *nadan* = croaking; *ubhayataH paarshvam* = on its both the sides;
 
 A vulture facing the south alighted on the top of the standard, croaking towards
 both of its sides and deprived the demon of his entire lustre.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1866,8 +1794,6 @@ eventhough skilled in controlling the horses; *avagaahataH* = as he entered;
 The goad fell several times then from the hand of the charioteer, himself a Suta
 (the son of a Kshatriya by a Brahamana woman) eventhough skilled in controlling the horses, as he
 entered the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1915,8 +1841,6 @@ ground.
 
 That rarely splendour which clothed Prahasta at the time of his exit vanished in an
 instant and horses stumbled on the even ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -1964,8 +1888,6 @@ battle.
 
 Beholding that Prahasta, renowned for his excellences and martial valour; as he
 advanced to give battle, the army of monkeys went forward to attack him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -2012,8 +1934,6 @@ monkeys; *aarujataam chaiva* = as they tore up; *vR^ikSaan* = the trees;
 
 Thereafter, an exceedingly tumultuous clamour arose among the monkeys as they tore
 up the trees and seized hold of huge rocks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 </details>
 
@@ -2062,8 +1982,6 @@ troops of demons and monkeys; *shruuyati* = were heard.
 Both the armies of the yelling demons and the roaring monkeys were delighted,
 impetuous and powerful with impatience to slay each other and challenging each other with great
 shouts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga57/yuddhasans57.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

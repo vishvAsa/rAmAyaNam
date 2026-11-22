@@ -21,8 +21,6 @@ in her upper cloth at their place atop the mountain. Then Sugreeva shows the orn
 asking him to identify them. Rama recognises the ornaments and the upper cloth of Seetha, and
 angered at the scandalous act of abduction he avows to eradicate that demon along with his
 clansmen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -122,8 +120,6 @@ minister and this servant of yours Hanuma informed me of the reason for which yo
 uninhabited forests along with your brother Lakshmana, and that while living in the forest, and
 when you and this courageous Lakshmana are not her alongside a demon stole your wife Maithili, the
 daughter of Janaka, wailing as she was. [4-6-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -140,8 +136,6 @@ aakhyaati* = Hanuma, has said.
 
 "And he also said about that arch demon's killing an eagle named Jatayu on waiting
 for an opportunity, and his causing an agony in you by way of separating your wife. [4-6-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -200,8 +194,6 @@ the form of Hayagreeva, Horse-faced Divinity, retrieved them. Here it is suggest
 reminding Rama of his earlier incarnation like the fish and horse-faced Hayagriiva, and compares
 Seetha with the Veda-s, that cannot be humbled down or controlled, or stolen by any single
 being.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ vaa* = in netherworlds, let her be abiding, either; *nabhahtale* = in empyrean w
 
 "Oh! Enemy destroyer, Rama, I will fetch your wife to give her to you whether she is
 in netherworlds or even in empyrean worlds. [4-6-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -300,8 +290,6 @@ is.
 "You may know that this word of mine is definite oh, Raghava. Your wife is as good
 as an indigestible foodstuff made with poison, indigestive even to Indra, put together with all
 gods and demons. [4-6-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -354,8 +342,6 @@ for you. And by inference I know her... undoubtedly I have seen Maithilee while 
 cruel deeds was abducting her... then she was crying piteously calling 'Rama, Rama...' and also
 calling 'Lakshmana...' and she was writhing in the flanks of Ravana like the wife of serpent's
 lord... [4-6-8b, 9, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -410,8 +396,6 @@ Hanuma, Nala, Neela, and Taara, Seetha 'has seen' Sugreeva 'alone' and dropped t
 jewellery aiming at Sugreeva. It is said that Seetha has blessed Sugreeva by mercifully eying him,
 and thus his turmoil is going to alleviate at the grace of her divine look, for she is Goddess
 Lakshmi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -460,8 +444,6 @@ will get; *prati abhij~naatum arhasi* = to identify, apt of you.
 
 "We took those jewellery items and stored them, Raaghava... I will get them and it
 will be apt of you to identify them..." thus said Sugreeva to Rama. [4-6-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -508,8 +490,6 @@ artham* = what, for; *pravilambase* = you are delaying.
 
 Then Rama said to that pleasant talker Sugreeva, "Get them quickly, my friend, what
 for you are delaying." [4-6-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -562,8 +542,6 @@ mountain's; *gahanaam* = cavernous; *guhaam* = cave; *shiighram* = quickly;
 
 Thus said Sugreeva then entered the cavernous cave of that mountain quickly, to
 fulfil the yearning of Raghava. [4-6-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -579,8 +557,6 @@ taken, also; *shubhaani aabharanaani ca* = auspicious, jewellery, also; *idam pa
 
 On taking and bringing the parcel of that upper cloth with the auspicious jewellery,
 "This, you see..." saying thus that monkey started to show them to Rama. [4-6-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -625,8 +601,6 @@ vaasaH* = that, cloth; *shubhaani aabharanaani ca* = auspicious, jewellery, too;
 
 Then on taking that cloth and also the auspicious jewellery, Rama became like mist
 filled moon with overfilling tears. [4-6-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -678,8 +652,6 @@ priye* = oh, dear; *iti rudan* = thus, wailing; *dhairyam* = courage;
 
 But he who is blemished by tears that outpoured in all his friendship with Seetha,
 leaving off his courage fell on the ground wailing, 'oh, dear... oh, dear...' [4-6-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -726,8 +698,6 @@ hugging]; *roshitaH bilastha sarpaH iva* = wrathful, in snake pit, serpent, as w
 
 The more he hugged those best decorative ornaments close to his heart, the more he
 hissed like a wrathful serpent in a snake pit. [4-6-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -777,8 +747,6 @@ started to.
 
 With the unending rush of tears he saw Lakshmana at his side and started to wail
 piteously. [4-6-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -825,8 +793,6 @@ upper cloth; *bhuushaNaani ca* = ornaments, too; *pashya* = you see.
 
 "Lakshmana, see this upper cloth and these ornaments too of Vaidehi, shed from her
 body and dropped onto the ground while she is being abducted. [4-6-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -874,8 +840,6 @@ appearing, indeed.
 
 "Seetha must have definitely dropped these ornaments onto pastureland, for they
 appear to be in their original shape, indeed." So said Rama to Lakshmana. [4-6-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -940,8 +904,6 @@ does not know the ornaments of upper body, but is aware of the anklets, for he a
 feet of Seetha. The traditionalists attribute the kainkarya, the dedicated character to Lakshmana,
 and establish this verse as a supreme characterization of Lakshmana. Lakshmana regards Seetha as
 one of his mother. The wife of an elder brother is just another mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -998,8 +960,6 @@ by you; *bruuhi* = tell.
 " Then Rama sadly asked to Sugreeva, "tell me Sugreeva, towards which country that
 ferocious looking demon abducted my dear one dearest than my lives, as spotted by you...
 [4-6-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -1046,8 +1006,6 @@ either, lives.
 
 "For the sake of which demon I wish to eliminate whole of the demons, that
 troublemaker of mine, where does he live, either... [4-6-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -1094,8 +1052,6 @@ antaaya definitely, by himself, his life, to end [suicidally]; *mR^ityu dvaaram 
 
 "By whom Maithili is abducted and thus caused indignation in me, he has opened up
 the doors of his death suicidally. [4-6-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 </details>
 
@@ -1148,8 +1104,6 @@ sannidhim* = Yama's, fore of; *nayaami* = lead him, I will.
 " Oh, king of the fly-jumpers, tell me which demon forcibly stole her, my dearest
 one than all, by molesting her in the forest, tell me about that enemy of mine, for sure I will
 lead him to the fore of Death today itself... [4-6-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -21,8 +21,6 @@ him, sends him back to Ayodhya. Rama and Lakshmana matted their hair with the la
 tree procured by Guha. On reaching the middle of the stream, Sita offers prayers to Mother Ganga
 (the deity presiding over the stream) and after crossing the river, all the three halt for the
 night at the foot of a tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ auspicious signs.
 
 That night having given way to dawn, the illustrious Rama with a broad chest spoke
 (as follows) to Lakshmana, the son of Sumitra and who was endowed with auspicious signs :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ kaalaH* = is the hour of sunrise. bhagavatii = The auspicious; *nishaa* = night;
 
 "Oh, dear brother! This is the hour of sunrise. The auspicious night has departed.
 That bird of dark plumage, the cuckoo, is singing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ remains of his great grand uncles. In its course, it inundated the sacrificial g
 Jahnu, who in his anger, drank up its waters. But the gods and sages and particularly Bhagiratha
 appeased his anger and he consented to release the waters through his ears. The river is thereafter
 regarded as his daughter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -224,8 +216,6 @@ his brother.
 
 Lakshmana, the delight of his friends, having understood the words of Rama, called
 Guha as well as Sumantra and stood in front of his brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -272,8 +262,6 @@ ministers; *abraviit* = and spoke; *idam* = these words:
 
 Hearing the command of Rama, Guha quickly received it, invited his ministers and
 spoke to them as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ across; *dR^iDhaam* = and solidly constructed.
 
 "Let a beautiful boat that is solidly constructed, sails well and a helmsman in it,
 be brought to the bank to carry this hero across!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -372,8 +358,6 @@ the matter; *guhaaya* = to Guha.
 
 Hearing that command, the chief minister of King Guha brought a charming boat to the
 bank and reported the matter to Guha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ for you"
 
 Then, Guha with folded hands spoke to Rama as follows: "Oh, Lord! Here, the boat has
 arrived. What more can I do for you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -464,8 +446,6 @@ boat; *tava* = for you; *tartum* = to cross; *nadiim* = the river;
 
 "Oh, tiger among men! Oh, Rama resembling a son of divinity! Here is the boat for
 you to cross the river, which flows into the sea. Oh, virtuous one! (Pray) get into it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -507,8 +487,6 @@ shiighram = with speed".
 
 Then, Rama with great splendor, spoke to Guha as follows: "My desire has been
 accomplished by you. Let us embark with all speed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -559,8 +537,6 @@ way; *gaN^gaam* = Ganga is situated.
 
 Having equipped themselves with a quiver each with arrows, fastening their swords
 and armed with their bows, Rama and Lakshmana, with Sita, proceeded towards the river of Ganga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -607,8 +583,6 @@ thus: kim = :What aham = I; *karavaaNi* = shall do?"
 
 Sumantra joining his palms in humility, approached Rama who knew what is right and
 said, "What shall I do?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -654,8 +628,6 @@ punareva* = Return; *shiighram* = quickly; *raaG^yaH* = to king's;
 
 Touching Sumantra with his auspicious right hand, Rama then said: "Oh, Sumantra!
 Return quickly to the king's presence and be attentive in serving him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -702,8 +674,6 @@ on foot; *mahaavanam* = to the great forest; *vihaaya* = abandoning; *ratham*
 
 "Go now, that your service to me has been completed. Abandoning the chariot, I shall
 go on foot to the mighty forest," Rama said.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -750,8 +720,6 @@ to Rama; *purushavyaaghram* = the tiger among men.
 
 Finding himself dismissed, Sumantra the charioteer was distressed and spoke to Rama,
 the tiger among men, as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -799,8 +767,6 @@ world.
 
 "None in the world has had to suffer such a fate as yourself; that you should have
 to dwell in the forest with your brother and your consort as if you were an ordinary man!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -849,8 +815,6 @@ cultivating tenderness and strait forwardness; *vyasanam chet* = (when) adversit
 "I think that there is no reward in leading a life of religious student or in
 studying religious scriptures or even in cultivating tenderness and straight forwardness, when
 adversity has come to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -898,8 +862,6 @@ same position; *jayanniva* = as one who has conquered; *triin* = the three;
 
 "Oh, heroic Rama! Living in the forest along with Sita and your brother, you will
 obtain the same position as one who has conquered the three worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -947,8 +909,6 @@ bhaaginaH* = and reap suffering".
 
 "Oh, Rama! We are actually ruined, in that, disappointed in our hopes by you too, we
 shall fall under the sway of Kaikeyi the sinful woman and reap the suffering."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -996,8 +956,6 @@ distance.
 
 Sumantra the charioteer thus speaking, wept for a long time, stricken with grief,
 seeing Rama, equal to his soul, departing to a distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1048,8 +1006,6 @@ which were sweet; *tam suutam* = to that charioteer; *baashhpe* = (whose) tears;
 
 Then, Rama again and again spoke these sweet words as follows to that charioteer,
 whose tears got dried up and who had sipped some water and got himself purified:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1097,8 +1053,6 @@ Ikshvaku dynasty. kuru = Act; *tathaa* = in such a way; *yathaa* = as;
 
 "I do not see any one who is as great a friend of the Ikshvakus as you are. (Pray)
 act in such a way that king Dasaratha may not lament about me"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1145,8 +1099,6 @@ is) pressed down by a burden of passion. tasmaat = for that reason; *braviimi* =
 
 "The king, his mind afflicted with grief, is aged as well. He is pressed down by a
 burden of passion. Hence, I tell you this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1194,8 +1146,6 @@ hesitatingly."
 
 "What so ever act that high-soled emperor may enjoin you to do, with intent to
 oblige the desire of Kaikeyi, it is to be done unhesitatingly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1245,8 +1195,6 @@ in all their undertakings."
 
 "The kings indeed rule the states with this end in view that their will may not be
 frustrated in any undertaking."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1294,8 +1242,6 @@ it; *aLiikam* = as anything unpleasing; *na cha taamyati* = nor gets distressed;
 
 "Oh, Sumantra! Carry out everything in such a way that the said emperor neither
 finds it unpleasing nor gets tormented by grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1344,8 +1290,6 @@ who has subdued his senses; *tvam* = you; *bruuyaaH* = tell; *idam* = these;
 "Only after performing respectful salutation to the old and venerable king, who has
 never known suffering and who has subdued his senses, you tell these words to him on my
 behalf."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1395,8 +1339,6 @@ _________________
 
 "Indeed neither I nor Lakshmana and Sita grieve for having moved from Ayodhya or
 that we are going to dwell in a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1446,8 +1388,6 @@ and Sita too; *aagataan* = returned; *kshhipram* = quickly."
 
 "After completing fourteen years, you will once more see Lakshmana, myself and Sita
 too returned apace from the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1518,8 +1458,6 @@ of) Sita; *mama cha* = as well as myself; *vachanaat* = the words;
 "Oh,Sumantra! This is what you should say to the king, my mother, all other queens
 and Kaikeyi. Tell Kausalya again and again that I am keeping good health. Thereafter, convey
 salutations at her feet on behalf of Sita as well as myself and Lakshmana the faithful man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1566,8 +1504,6 @@ installed; *pade* = in the position; *nR^ipa mate* = as desired by the king."
 
 "Tell our salutations to the emperor too. Bring Bharata quickly. After his arrival,
 Bharata may be installed in the position, as desired by the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1614,8 +1550,6 @@ account; *na abhibhavishhyati* = will not overpower; *tvaam* = you."
 
 "When you embrace Bharata and install him in the office of the Prince Regent, the
 agony caused by the repentance felt by you on our account will not overpower you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1662,8 +1596,6 @@ as; *vartase* = (you) behave; *raajani* = towards the king."
 
 "Bharata too is to be told thus: "Treat without distinction all your mothers with
 the same regard as you behave towards the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1713,8 +1645,6 @@ mother; *visheshhataH* = in particular"
 
 "As is your affection for Kaikeyi, so let it be for Sumitra and also the divine
 Kausalya, my mother"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1762,8 +1692,6 @@ enhance; *sukham* = happiness; *yat* = whatever; *ubhayoH* = in both;
 
 "If you accept the princely kingdom with an intent to please our father, it will be
 possible for you to enhance happiness in both the worlds (in this world and the next)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1814,8 +1742,6 @@ Rama (as follows):
 
 Sumantra, who was being sent back by Rama, was agonized with grief after hearing the
 whole of that discourse and affectionately spoke to Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1869,8 +1795,6 @@ whole of that discourse and affectionately spoke to Rama as follows:
 
 "If I spoke to you fearlessly in a friendly tone without following courteousness,
 you ought to forgive my mode of expression, considering me as your devotee"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1887,8 +1811,6 @@ has been reduced to the state of a mother stricken with grief due to separation 
 "How indeed can I return without you to that city, which through separation from
 you, has been reduced to the state of a mother stricken with grief due to separation from her
 son"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1937,8 +1859,6 @@ chariot; *vinaa raamam* = without Rama; *saa purii* = that city;
 "By seeing my chariot on that day even with Rama in it, the people were lamenting so
 much. Now, if they see the chariot without Rama the city of Ayodhya will even be broken
 asunder."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -1986,8 +1906,6 @@ beholding; *imam* = this; *ratham* = chariot; *shuunyam* = empty."
 
 "The city will be plunged in misery, like an army in which its commander is lost in
 a combat with the charioteer alone surviving, on seeing this chariot without you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2038,8 +1956,6 @@ food. nuunam = It is certain."
 
 "Thinking of you, who though residing far away are established foremost in their
 minds, the people of Ayodhya must have been deprived of their food today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2091,8 +2007,6 @@ whose minds were depressed through grief on your account."
 "The great perplexity that ensued, on the occasion of your exile, among the people
 (of Ayodhya), whose minds were depressed through grief on your account, was witnessed by you
 indeed, Oh, Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2143,8 +2057,6 @@ with (an empty) chariot."
 
 "The cry of distress raised by the citizens (of Ayodhya) will be increased a
 hundred-fold, when they see me with an empty chariot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2197,8 +2109,6 @@ uncle; *maa kR^ithaaH* = do not; *santaapam* = grieve."
 
 "Further, shall I say to the queen Kausalya as follows: - �Your son, Rama has been
 taken by me to the house of his maternal uncle, do not grieve'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2214,8 +2124,6 @@ true; *apriyam* = (but) unkind?"
 
 "I cannot tell such words too which are untrue. How can I tell, �I abandoned your
 son in the forest', which words are true but unkind?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2262,8 +2170,6 @@ carried yourselves and your relatives(Sita and Lakshmana); *pravakshhyanti* = wi
 
 "How will the excellent horses obedient to me, which carried yourself, Sita and
 Lakshmana, draw the chariot bereft of you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2304,8 +2210,6 @@ to Ayodhya. arhasi = You are obliged; *anuG^yaatum* = to permit; *maam* = me;
 
 "Oh, the faultless Rama! For this reason, I cannot go back to Ayodhya. (Pray) permit
 me to accompany you to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2352,8 +2256,6 @@ me to accompany you to the forest."
 
 "If you leave me even though I solicit you to take me with you, I shall enter a fire
 with chariot and all, here itself the moment I am forsaken by you"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2400,8 +2302,6 @@ sattvaani* = those animals; *rathena* = by the chariot."
 
 "Oh, Rama! With the help of the chariot, I shall ward off those animals in the
 forest, which create obstacles to your austerities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2448,8 +2348,6 @@ through you; *aham* = I; *aashamse* = seek; *sukham* = the happiness;
 
 "The pleasure of driving your chariot has been obtained by me because of you and it
 is through you that I seek the happiness that comes in dwelling in a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2496,8 +2394,6 @@ Be; *me* = my; *pratyanantaraH* = close associate!"
 
 "Be graceful. I desire to become your close associate in the forest. I wish to hear
 your loving assent with the words �be my close associate!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2543,8 +2439,6 @@ If these horses too can do; *paricharyaam* = service; *te* = to you;
 
 "Oh, hero! If these horses too can render service to you, they can attain a supreme
 abode."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2592,8 +2486,6 @@ service."
 
 -"By all means, I am leaving for good, Ayodhya or even heaven. Dwelling in the
 forest, with my head bent low, I shall render service to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2640,8 +2532,6 @@ forest, with my head bent low, I shall render service to you."
 
 "As a doer of wicked deeds cannot enter Amaravati, the capital of Devendra, so also
 I cannot enter Ayodhya without you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2689,8 +2579,6 @@ chariot; *puriim* = to the city (of Ayodhya)."
 
 "This is indeed my desire that after reaching the end of your exile, I may take you
 back to the city of Ayodhya in this very chariot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2740,8 +2628,6 @@ away; *kshhaNa bhuutaani* = momentarily. Anyathaa = Otherwise; *ataH* = than thi
 
 "So long as I am with you together in the forest, fourteen years will slip away
 momentarily. Otherwise than this, they will multiply a hundred- fold."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2790,8 +2676,6 @@ tvam* = You; *naarhasi* = ought not; *haatum* = abandon; *maam* = me;
 "Oh, prince, who are so fond of your dependents! You ought not abandon me, your
 devoted servant, established in the path followed by the son of his master and (always)keeping
 within bounds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2838,8 +2722,6 @@ punaH* = again and again; *bahuvidham* = in many modes.
 
 Rama, who was compassionate towards his dependents, spoke as follows to Sumantra,
 who was miserably entreating him again and again in many modes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2887,8 +2769,6 @@ to the city."
 
 "Oh, charioteer so fond of your master! I know your excellent devotion to me. Hear
 wherefore I send you from here to the city of Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2936,8 +2816,6 @@ the forest."
 
 "Seeing you, returning to Ayodhya, Kaikeyi, my younger mother will get the proof
 that Rama has gone to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -2985,8 +2863,6 @@ untruth"
 
 "Having completely satisfied, about me having gone to forest, Kaikeyi will leave her
 strong suspicion that the virtuous king may be a person who speaks untruth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3034,8 +2910,6 @@ kingdom of her son; *bharataa rakshhitam* = protected by Bharata"
 
 "This is my first priority that my younger mother should get the extensive kingdom,
 protected by Bharata and thus ruled by her own son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3085,8 +2959,6 @@ manner."
 "For my pleasure and pleasure of the king, you go along with the chariot to Ayodhya
 and inform all the matters that you have been asked to tell each in the way you have been asked to
 do."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3134,8 +3006,6 @@ Guha.
 
 Having spoken thus to the charioteer, the courageous Rama consoled him again and
 again. Then, he spoke the following reasoned words to Guha:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3183,8 +3053,6 @@ again. Then, he spoke the following reasoned words to Guha:
 
 "Oh, Guha! This stay in the inhabited woods is not proper for me. My stay should
 definitely be in a hermitage. Let an action diverted towards that aim be taken"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3247,8 +3115,6 @@ banyan tree."
 "I as such, wishing well of my father, Sita as well as Lakshmana and having taken up
 a discipline to be followed by ascetics, want to proceed further, wearing matted hair. Please bring
 the latex of a banyan tree."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3265,8 +3131,6 @@ to Lakshmana.
 
 Guha immediately brought that latex to the prince. With that, Rama made matted hair
 to himself and to Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3339,8 +3203,6 @@ Rama, tiger among men who possessed long arms wore the distinguished mark of an
 ascetic (in the shape of matted hair) . Then, Rama and Lakshmana the brothers clad in the bark of
 trees and wearing a round mass of matted locks (on their head) looked bright like two ascetic
 sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3388,8 +3250,6 @@ lakshhmaNa* = along with Lakshmana; *raamaH* = Rama; *aadishhTavaan* = accepted;
 
 Having adopted the way of a hermit (temporarily) along with Lakshmana, Rama then
 accepted the vow of an ascetic life and spoke to Guha, his friend as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3437,8 +3297,6 @@ difficult one to protect."
 
 "Oh, Guha! Remain vigilant in defense, finance, internal security and public
 relations, for a kingdom is the most difficult one to be protected!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3486,8 +3344,6 @@ with Lakshmana.
 
 Then Rama, who was a delight to Ikshvaku dynasty, bade farewell to Guha and departed
 quickly, remaining undistracted, along with his consort and together with Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3535,8 +3391,6 @@ quickly, remaining undistracted, along with his consort and together with Lakshm
 
 Seeing the boat on the bank of the river and keen to cross the swift- flowing Ganga,
 Rama spoke to Lakshmana as follows: -
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3583,8 +3437,6 @@ Tvam* = you; *aaroha* = get into; *imaam* = this; *naavam* = boat;
 
 "Oh, Lakshmana the tiger among men! You get into the boat stationed here unhurriedly
 afterwards, having helped Sita the virtuous wife step into it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3632,8 +3484,6 @@ maithiliim* = having made Sita to ascend (the boat); *puurvam* = first;
 
 Hearing the command completely of his elder brother, the prudent Lakshmana, by not
 counteracting it, made Sita to ascend the boat first and stepped into it afterwards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3681,8 +3531,6 @@ row them across the river).
 
 Then, the glorious Rama got into the boat himself. Thereafter, Guha the ruler of
 Nishadas commanded his kinsfolk to row them across the river.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3724,8 +3572,6 @@ good; *aatmanaH* = of his son.
 
 After ascending the boat, Rama too of mighty splendor then recited a sacred text
 (daiviim naavam etc) fit for brahmanas and Kshatriyas alike and conducive to his own good.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3776,8 +3622,6 @@ suit.)
 
 Having sipped water as per scriptures and with extreme delight, Rama with Sita made
 obeisance to that river. Lakshmana, of infinite splendor, followed suit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3824,8 +3668,6 @@ directed; *naavikaan* = the boatmen (to move on).
 
 Bidding farewell to Guha with his army of men and Sumantra, Rama sat on the boat and
 directed the boatmen to move on.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3872,8 +3714,6 @@ vega abhihataa* = obeying those splendid and vigorous oarsmen; *shiighram* = rap
 
 Propelled by those splendid and vigorous oarsmen, that boat furnished with a pilot,
 rapidly moved across the water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -3921,8 +3761,6 @@ river.
 
 Coming to the middle of Bhagirathi river, the irreproachable Sita with joined palms,
 spoke as follows to the said river: -
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4025,8 +3863,6 @@ kaama samR^iddhinii* = all my desires fulfilled; *yakshhye* = shall worship;
 under your protection! Having dwelled in the forest in full fourteen years, may he return once more
 to your bank with his brother, Lakshmana and myself! Oh, blessed goddess Ganga! Returning safely,
 with all my desires fulfilled, I shall worship you with great joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4079,8 +3915,6 @@ of the ocean king."
 You, Oh goddess flowing through three regions (namely heaven, earth and subterranean
 regions), include in your basin the realm of Brahma (the outermost of the six spheres enveloping
 the earth) and are vividly seen on this terrestrial plane as a consort of the ocean king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4154,8 +3988,6 @@ kingdom; *pradaasyaami* = I shall give away; *shatasahasraaNi* = a lakh;
 "Oh, charming goddess! I, Sita, greet you and extol you too. When Rama the tiger
 among men safely returns and regains his kingdom, I shall give away a lakh of cows, soft clothing
 and food to brahmanas with intent to please you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4209,8 +4041,6 @@ the solemn rite."
 "Oh, goddess! After reaching back the city of Ayodhya, I shall worship you with
 thousand pots of spirituous liquor and jellied meat with cooked rice well prepared for the solemn
 rite."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
 </details>
@@ -4252,8 +4082,6 @@ vaasini* = dwelling on your banks; *tiirthaani* = sacred spots; *aayatanaamicha*
 
 "I shall worship all deities dwelling on your banks as also sacred spots and
 sanctuaries."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4301,8 +4129,6 @@ the forest; *sangataH* = along with; *bhraatraacha* = Lakshmana; his brother;
 
 "Oh, irreproachable goddess! May the sinless Rama (with mighty arms) re-enter
 Ayodhya again from the forest, along with Lakshmana and myself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4349,8 +4175,6 @@ Ayodhya again from the forest, along with Lakshmana and myself."
 
 Thus praying to Ganga, the efficient and irreproachable Sita rapidly reached the
 right bank of the river.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4401,8 +4225,6 @@ Sita.
 
 Reaching the bank and leaving the boat, Rama the best among men and the chastiser of
 foes proceeded further along with Lakshmana and Sita.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4465,8 +4287,6 @@ also."
 
 Then, Rama the mighty armed, spoke to Lakshmana (who heightened the joy of Sumitra)
 as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -4487,8 +4307,6 @@ an uninhabited; *vane* = forest. soumitre = Oh; *Lakshmana! Gachchha* = Go;
 
 "Security is an inevitable need in a forest, which has unforeseen dangers and is
 uninhabited, Oh, Lakshmana! Go in front. Let Sita follow you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4505,8 +4323,6 @@ Protection; *kartavyaa* = must be accorded; *iha* = here; *naH* = by us;
 
 "I shall proceed in the rear, protecting you and Sita. Oh, jewel among men! We must
 accord protection here to one another."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4547,8 +4363,6 @@ Vaidehii = Sita; *vetsyati* = will experience; *duHkham* = the hardship;
 
 "An act which has gone out of hand, whatsoever, cannot indeed be remedied again.
 Sita will experience the hardship of staying in a forest only from now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4595,8 +4409,6 @@ seen; *kshhetra araama vivarjitam* = which is utterly devoid of fields and garde
 
 "Today she will enter the forest, where density of people is not seen, which is
 utterly devoid of fields and gardens, has a rugged surface and is full of stumbles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4643,8 +4455,6 @@ utterly devoid of fields and gardens, has a rugged surface and is full of stumbl
 
 Listening to Rama's words, Lakshmana walked in front. Immediately after Sita, Rama,
 the delight of Raghu dynasty, advanced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4705,8 +4515,6 @@ paaram* = the other bank of Ganga river; *tapasvii* = the distressed; *sumantraH
 Constantly gazing at Rama, who reached soon the other bank of Ganga River, the
 distressed Sumantra, his vision having failed due to the long distance and perturbed as he was,
 shed tears (of grief over separation from Rama).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4762,8 +4570,6 @@ maalinaH* = which contained rows of beautiful crops.
 Having crossed the great river, Rama the high-soled, the bestowal of boons, equal in
 glory with the guardians of spheres, then reached progressively the prosperous and the happy land
 of Vatsa; which contained rows of beautiful crops.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 </details>
 
@@ -4820,8 +4626,6 @@ of Vatsa; which contained rows of beautiful crops.
 Having hunted there four deer, namely Varaaha, Rishya, Prisata; and Mahaaruru (the
 four principal species of deer) and taking quickly the portions that were pure, being hungry as
 they were, Rama and Lakshmana reached a tree to take rest in the evening.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

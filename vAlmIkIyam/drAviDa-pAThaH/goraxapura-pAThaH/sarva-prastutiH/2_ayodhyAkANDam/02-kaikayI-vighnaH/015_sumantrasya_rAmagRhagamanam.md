@@ -16,8 +16,6 @@ title_english = "015 Sumantra arrives at Sri Rama s chambers"
 In this chapter, Sumantra enters the royal court and observes all the arrangements made
 for the coronation of Sri Rama. Ordered by Dasaratha to fetch Sri Rama, he enters the mighty building
 of Sri Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ priest; Vasista.
 
 Those brahmans skilled in Vedas stayed there all the night and arrived at a nearby place
 along with the royal priest, Vashishta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ of Rama's coronation.
 
 Ministers, army chiefs, prominent leaders of the city assembled there, welcoming the
 cause of Rama's coronation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ star; *praapte* = and after arrival of; *raamasya* = Rama's; *janma* = birth;
 
 The best of brahmanas were prepared to do Rama's coronation in day-time after the sun
 rises clearly at the arrival of Pushya star and on arrival of Rama's auspicious birth time of Cancer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -192,8 +184,6 @@ chariot; *aastiirNaH* = covered by; *bhaaasvataa* = shining; *vyaaghracharmaNaa*
 
 Golden water-pots, well-decorated throne and chariot covered well by shining tiger-skin
 were impressive.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -243,8 +233,6 @@ from all sides; *toyam* = water; *ahR^itam* = was brought.
 Water was brought from auspicious conjunction of rivers ganga and Yamuna, from other
 rivers, lakes, wells, ponds, from streams flowing eastwards, from streams which joined together and
 from oceans in all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -265,8 +253,6 @@ padmotpalayutaaH* = along; with lotuses and water lilies; *bhaanti* = were shini
 
 Gold and silver pots filled with best water together with popped grain and covered by
 milky sapped leaves, lotuses and water-lilies were shining there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -282,8 +268,6 @@ butter; *laajaaH* = popped grain; *darbhaaH* = sacred grass; *sumanasaH* = flowe
 
 Honey, curd, clarified butter popped grain, sacred grass, flowers and milk were kept
 ready. Harlots adorned with all types of ornaments were also glimmering there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -330,8 +314,6 @@ with gold; *ratna bhuushhitam* = adorned with diamonds; *tishhTati* = was kept; 
 
 An excellent fly-flopper which was like spread-out rays of moon, made of gold, adorned
 with diamonds was kept ready for Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -381,8 +363,6 @@ abhishhekapuraskR^itam* = which was kept in advance for the occasion of coronati
 
 A white umbrella like circular moon, which was kept in advance for the occasion of coronation
 was also kept ready.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -428,8 +408,6 @@ in well established position; *gajaH cha* = elephant also; *prasR^itaH* = which 
 
 A white bull, a white horse a mighty and beautiful elephant which was fit to be mounted
 by kings were readily waiting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -474,8 +452,6 @@ by kings were readily waiting.
 
 Eight auspicious virgins adorned all types of ornaments, various types of musical instruments,
 panegyrists and others were also waiting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -522,8 +498,6 @@ cermony; *raaja vachanaat* = as per insturctions of king;tathaajaatiiyam = of su
 The people who gathered there after getting the things required as per orders of king
 for coronation ceremony to be held in a kingdom of Ikshhvaaku dynasty, could not sight the king and
 discussed among themselves about how to inform the king regarding their arrival.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -565,8 +539,6 @@ wise; *raamasya* = Rama's yauvaraajyaabhishhekaH cha = crowing ceremony also; sa
 
 " The king is not being seen. The sun has risen. Everything is ready for the coronation
 of Rama, the wise".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -617,8 +589,6 @@ of Rama, the wise".
 
 Sumantra, who received good respect from Dasaratha, heard them thus speaking and addressed
 those kings, who came from different countries.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -634,8 +604,6 @@ those kings, who came from different countries.
 
 "I am going to Rama quickly as per king's directions. But, you are all worthy of worship
 by Dasaratha and by Rama in particular."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -682,8 +650,6 @@ cha* = and about the reason of not coming.
 
 "I shall ask as your word about the well-being of king who is now awake and also about
 the reason of his not coming here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -730,8 +696,6 @@ the reason of his not coming here."
 
 That Sumantra, knower of sacred works spoke thus, approached entrance of royal palace
 and entered the inner quarters which is always kept closed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -784,8 +748,6 @@ tushhTaava* = praised; *asya* = this; *vishaampateH* = kings's vamsham = dynasty
 
 He entered the inner quarters and praised the king's dynasty. He approached the royal
 bedroom and stood there at a distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -834,8 +796,6 @@ _________________
 
 He entered the bedroom, approached nearer to the curtain there and praised Dasaratha's
 qualities with blessings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -882,8 +842,6 @@ te* = to you.
 
 "Oh, king Dasaratha! Let sun and the moon, guardians of the world like Shiva and Kubera,
 Varuna, Agni and Indra grant victory to you!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -933,8 +891,6 @@ do; *kaaryam* = whatever to be done; *anantaram* = thereafter.
 
 "Oh, the best of kings! The venerable night has gone. The auspicious day has come. Wake
 up and do whatever needs to be done thereafter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -984,8 +940,6 @@ up!
 
 "Oh, king Dasaratha ! Brahmanas, chiefs of armed forces and traders are waiting to see
 you. Please wake up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1028,8 +982,6 @@ you. Please wake up."
 
 Then, Dasaratha woke up and spoke these words to Sumantra, who was eulogising him, who
 was skilled in giving advice and who was his charioteer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1044,8 +996,6 @@ Rama.
 **अनुवादः**
 
 "Why have you not followed my orders even though you were asked by her to bring Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1103,8 +1053,6 @@ _________________
 
 King Dasaratha ordered that charioteer there again thus - " I am not sleeping. Bring
 Rama here soon".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1120,8 +1068,6 @@ Rama here soon".
 
 He listened to king's words, bowed his head in salutation to him, thought for goodness
 of king, and came out of the king's palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1174,8 +1120,6 @@ and banners.
 
 That Sumantra with placid mind, went happily seeing the royal roads adorned with flags
 and banners.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1229,8 +1173,6 @@ _________________
 
 Sumantra heard the words pertaining to Rama and Rama's coronation spoken together by
 joyful people there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1245,8 +1187,6 @@ joyful people there.
 
 Then, Sumantra saw Rama's palace which was lovely shining like top of a mountain and
 radiant like Indra's palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1527,8 +1467,6 @@ saw such a palace of Rama. People who came from different rural parts to see Ram
 waiting with different gifts in their hands. That house decorated with various diamonds, was looking
 high like a great cloud. Hunch backed servants and servants of kirata tribe were moving all over the
 house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1582,8 +1520,6 @@ raajakulam* = and royal race; *harshhayam* = gladdened; *manaamsi* = the hearts;
 
 That Sumantra with chariot fastened with horses and having a top, approached towards
 Rama's palace, beautifying the human and the royal races, gladdened the hearts of all citizens.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1637,8 +1573,6 @@ Rama's palace, beautifying the human and the royal races, gladdened the hearts o
 
 That palace of the great souled Rama was like Indra's palace with great wealth. It was
 filled with various deer and peacocks. After approaching that palace, he became quite thrilled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1694,8 +1628,6 @@ shuddhaantam* = royal inner apartment.
 The inner apartments of Rama's palace were well decorated, high as Kailasa mountain and
 like abodes of deities. Sumantra entered there, passed over many of Rama's friends who well wishers
 and approached Rama's inner apartment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1749,8 +1681,6 @@ suunoH* = of Rama.
 
 There, Sumantra heard delightful people talking about Rama's coronation and the rites
 to be performed for the sake of Rama's prosperity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1804,8 +1734,6 @@ birds; *shR^ingam eva* = like top; *uchcha* = of high; *meroH* = Meru mountain;
 Rama's palace was as high as top of the Meru mountain, shining with radiance. The mansion
 was filled with birds and antelopes. It was like Indra's mansion. Sumantra saw such a beautiful house
 of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1851,8 +1779,6 @@ vehicles.
 
 He saw crores and millions of rural folk and other people with folded hands approaching
 the area leaving their respective vehicles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1906,8 +1832,6 @@ beautiful; *naagam* = elephant; *shatrunjayam* = called satrunjayam; *udagrakaay
 
 There he saw a beautiful elephant called Satrunjaya with highly elevated body and Rama's
 royal conveyance. It was like a great cloud and a mountain. It was intoxicated, uncontrollable and intolerable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 </details>
 
@@ -1962,8 +1886,6 @@ apartment.
 The ministers in chief who were beloved to the king, were well-adorned and came there
 on horse-carriages and elephants. Sumantra passed over the people gathered there on all sides and entered
 the rich inner apartment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

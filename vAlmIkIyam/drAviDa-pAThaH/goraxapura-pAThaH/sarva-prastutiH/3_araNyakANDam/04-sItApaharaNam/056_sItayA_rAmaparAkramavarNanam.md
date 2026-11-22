@@ -16,8 +16,6 @@ title_english = "056 Seetha reprimands Ravana"
 Seetha reprimands Ravana in saying that her unswerving devotion to Rama will not permit her to be dominated
 by anyone. She gives word-by-word replies to all that is prattled by Ravana in earlier chapter. A discussion
 about Seetha's stance and stability is given in the endnote of this chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -97,8 +95,6 @@ become an untouchable entity, like a hologram...' But this is negated, taking Se
 entity rather than an incarnation, saying that 'human Seetha is unaware of Ravana himself, thus her
 becoming aware of his curse is untenable...' Maybe, Goddess Lakshmi or Maya Seetha is aware of that
 curse of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -208,8 +204,6 @@ of his great-grandson Rama in later generations.
 but also to terminate such a vainglorious mischief... thus foxlike creatures like you cannot dare a
 lion, for he is lion-shouldered... and because you foxed Rama you are still alive, otherwise...' - continuation
 with next verse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -258,8 +252,6 @@ killed, you would have been sprawling [on earth.]
 "Had I been forcibly humiliated by you in the presence of Rama, you too would have been killed by Rama
 in combat and by now you too would be sprawling on earth, as with Khara in Janasthaana, but you foxed
 him. However, such Rama is my husband. [3-56-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -310,8 +302,6 @@ backyard of your house and behind your back? None has surfaced so far to confron
 are nothing but your kitchenware... and thus you are a *gehe shuuraH* 'a champion in your own
 home... a paper tiger...' boastful of your paper-thin-tigerish-ness before me, a solitary woman... thus
 you and your forces will be rendered ineffectual the minute you confront my husband...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -364,8 +354,6 @@ your body, as the waves of River Ganga will be battering that river's riverbanks
 
 Annex: 'What if Rama is dethroned or enthroned? He is not a 'hapless' person as observed by you, but
 he solitarily depends upon his self-confidence and a pair of skilful arms
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -419,8 +407,6 @@ Annex: 'Maybe god or demons or others, other than humans, cannot kill you... why
 by you as your killing agents at the time of your seeking boons from Brahma, or at least at the time
 of my abduction why humans are disregarded... hence, that heedlessness alone becomes the very cause
 for your self-ruination...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -483,8 +469,6 @@ comforts... and you said of him as a 'vagrant...' yes, his *yaj~na* is to be per
 sitting in some hall of ritual, but meandering vagrantly... because entire earth is his hall of ritual...
 and now, you as a sacrificial beast are fastened to the stake of sacrifice by a rope called Seetha,
 and you be ready awaiting for your slaughter in that *raama yaj~na*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -542,8 +526,6 @@ Annex: 'exacting eroticism is an inexcusable impasse... did you not learn this l
 of your iSTa daiva 'most cherished god...' God Shiva, who burnt down the Love-god... and if there is
 any thinly separated state between love and lust, how then will you be unburnt by the furious glances
 of Rama for your lustfulness...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -596,8 +578,6 @@ desiccates an ocean, he alone rescues Seetha from here. [3-56-11]
 Annex: 'You need not sit back gleefully thinking that none can cross over an ocean and come thither,
 presuming that 'a hundred-yojana ocean roundly enshrouds this Lanka...' Rama can dehydrate any ocean
 of any size in its entirety... thus he just walk on its sands in commissioning his mission...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -654,8 +634,6 @@ Thus Lanka is widowed by a single deed of yours. [3-56-12]
 Annex: 'as such, you yourself cannot be on the throne of Lanka since her widowhood is admonished by
 your single act of touching 'other man's wife' that is me, and in abducting me... wherewith you daydream
 and daresay to me 'you rule over this very great empire of Lanka as empress of Lanka...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -709,8 +687,6 @@ not result in any ultimate happiness for you. [3-56-13]
 Annex: you said to me, 'of what use is your thinking conversely about that long-lost Rama...' what else
 am I to do, for I am diabolically dragged away from him by you, as such I am, I am now contemplating
 upon that Rama alone to come here to handover 'a fruit of unhappiness' to you as a barter for my release...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -765,8 +741,6 @@ Annex: 'you said that you do not envisage 'him who can lead me back with his val
 is still there in Dandaka along with his brother, both in tandem only with God Almighty, whose biting
 bravery and venomous valour are yet to be tasted by you... and if you too are brave enough, confront
 him to know whether I am winnable or otherwise...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -819,8 +793,6 @@ like that impudence from every limb of yours. [3-56-15]
 Annex: 'for yours is only bodily might as you have said 'I behold none matchable to my vitality...'
 and no spiritual or ethical, or whatsoever merits abide in you... thus, should you confront an ethical
 and scrupulous combatant, evanished are your bodily vanities...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -868,8 +840,6 @@ Annex: 'you said to me that 'by your damnable dwelling in forests, bygone is you
 misdealt in bygone times...' and I agree for that assertion of yours as my damnable bad-luck is nearing
 its completion, but your damnable, ill-lucky, self-ruinous time as started, and hence you are placing
 your behaviour in endangerment, by this quirkish act of abducting me...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -928,8 +898,6 @@ for the 'countless females of finest fabric you amassed...' Because all those fe
 to you, and they are going to be devastated and evanished along with their Chambers of Queens, which
 chambers you endowed to them as gifts. But Rama will rescue others who are still captivated yet reticent.
 Where is the question of my becoming an empress of dead souls?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1006,8 +974,6 @@ and foxes or wolves, is sinning. Thus, if a Vedic scholar conducts *jaata aadi k
 from birth onwards...' as an initiator, whereas a *caNDaal* conducts *antya, uttara kriyaaH*
 'rites of death afterwards...' as a terminator. Thus, Ravana being a Vedic scholar is now conducting
 himself as a self-cremator.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1056,8 +1022,6 @@ tvayaa sampraSTum* = by a trespasser, by you, to touch; *aham na shakyaa* = I am
 
 "Likewise, I am the solemnly pledged legitimate wife of one who steadied himself in righteousness, and
 such as I am, you basely demon, it is impossible for you trespasser to touch me even. [3-56-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1107,8 +1071,6 @@ SaNDastham* = grass, abiding in bunch - sneaking in a bunch of grass; *madgukam*
 
 "How a she-swan ever frolicking with majestic swans in bunches of lotuses can leer at a water-crow sneaking
 in a bunch of grass? [3-56-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1175,8 +1137,6 @@ Nobility is nobler than life. Hence, it is to be protected even at the cost of o
 anena praaNa parityaagena api loka apavaada pariharaNa puurvakam yashaH samrakShNiiyam iti suucitam
 - tathaa ca raghu vamshe kaalidaasaH - api sva dehaat kim uta indriya arthaat yashodhaanaanam hi yasho
 gariiyaH - dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1246,8 +1206,6 @@ caustic, words, on speaking; *tatra* = therein [that matter]; *punaH kimcana na 
 
 Vaidehi on speaking those highly caustic words angrily to Ravana in this way, she that Maithili spoke
 no more in that matter. [3-56-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1268,8 +1226,6 @@ hair, raising, words [censures,] on hearing; *[raavaNaH* = Ravana]; *tataH* = th
 
 On hearing Seetha's scathing and hair-raising censures, then Ravana retorted with these intimidatory
 chides. [3-56-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1309,8 +1265,6 @@ of ten chariots...' she is explaining 'my father-in-law chariots his one chariot
 you can steer only one in one way, called lust... my father-in-law chariots ten chariots in a single
 instance, whereas you can handle only one, at any given time besides being dependent on the capability
 of auto-propelling Pushpaka aircraft, rather than on your own steersman's capability...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1336,8 +1290,6 @@ thus you are also well renowned in the worlds, but by your notoriety. On the oth
 unlike you a virtueless, meritless and lawless knave... and his ambidexterity contrasts with your guile-handedness,
 while his perceptiveness with your purblindness of the proximate problem of yours... such a husband's
 wife as I am, how do you think that I on my own get estranged from such a godlike husband of mine, unrighteously...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1416,8 +1368,6 @@ If one king conquers another and lay seize to queens, a twelve month time is giv
 to regain his captivated queens, by making another round of combat. If the defeated king is unable to
 do so, or reluctant to do so, the captivated queens of the defeated king automatically belong to the
 conquering king after twelve months, *raja niita - shaanti parva - Maha Bharata.*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1463,8 +1413,6 @@ one; *raakSasiiH idam vacanam abraviit* = to [guarding] demonesses, this, senten
 
 Thus on saying those harsh words, Ravana, the one who makes his enemies to bewail, and who is now infuriated
 said this sentence to the guarding demonesses. [3-56-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1522,8 +1470,6 @@ in her audience...' *iSyadhvam* 'be servitors...'
 'Oh, demonesses of gnarled grisly mien and devourers of meat and blood, now you immediately become presentable,
 casting off your gnarled and ghastly appearances... and without your personal pride be in her servitude
 as servitors in her audience... for she is my Goddess Lakshmi...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1570,8 +1516,6 @@ they on becoming - obedient; *maithiliim paryavaarayan* = around Maithili, encir
 
 Just by that order of Ravana those demonesses of grotesque and ugly appearance have obediently made
 palm-fold to him and encircled Maithili. [3-56-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1618,8 +1562,6 @@ look; *pra uvaaca* = clearly, said.
 
 That king Ravana paced in an earth-shattering manner as though to cleave it and clearly said this to
 those demonesses with ghastly look. [3-56-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1669,8 +1611,6 @@ guarded; *iti* = thus; he said to them.
 
 "Let this Maithili be taken to the centre of Ashoka gardens, where you all shall blockade and guard
 her stealthily. [3-56-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1731,8 +1671,6 @@ Annex: Ravana the devotee's the caution is: *vinaa tarjaniaH* 'without threats, 
 just threaten Maithili till threat-tolerability... do not overdo it, lest she may die of threats...
 again brainwash her with good words of me and my generosity... if Maithili is dead at your hands deem
 that you and your families are effaced... for I cherish Maithili to live...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1808,8 +1746,6 @@ to Ashoka, gardens, they went.
 When Ravana has clearly ordered, those demonesses on their part took Maithili to Ashoka garden. That
 Ashoka gardens are surrounded with trees that yield fruits to every savour, and now they are diversely
 flowered and fruited. Further, those gardens are highly adored by all-time lusty birds. [3-56-32, 33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1856,8 +1792,6 @@ obtained.
 
 But she that Janaka's daughter Maithili whose body is with a coverall of anguish, further on obtaining
 the control of demonesses, she is as good as a she-deer under the coverall of tigresses. [3-56-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1898,8 +1832,6 @@ obtained.
 
 Maithili, the daughter of Janaka, who is already consumed by utmost agony has not obtained any placidity
 now as with a she-deer bound by tether - where timorousness is common to both. [3-56-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 </details>
 
@@ -1955,8 +1887,6 @@ Maithili knows no peace when the bizarre-eyed demonesses have highly intimidated
 those demonesses her reminiscences went over to her dear husband and about her brother-in-law Lakshmana
 too, and when she felt about the improbability of their coming here, she is distraught with alarm and
 anguish, and then she swooned. [3-56-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

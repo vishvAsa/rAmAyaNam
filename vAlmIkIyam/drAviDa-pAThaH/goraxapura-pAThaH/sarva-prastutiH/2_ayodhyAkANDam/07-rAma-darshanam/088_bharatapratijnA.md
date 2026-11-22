@@ -20,8 +20,6 @@ of Dasaratha and the exile of Rama to the forest. Bharata further takes an owe t
 will also henceforth sleep on grass with his locks matted, wearing robes of bark and living only on
 roots and fruits. He says that if Rama refuses his appeal to occupy the throne of Ayodhya, he also
 will stay back in the forest along with Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -98,8 +96,6 @@ Having heard all that perfectly, Bharata approached the foot of Ingudi Tree alon
 with his ministers and gazed on that grass-bed on which Rama had slept. Thereafter, he said to all
 his mothers as follows: "It is here that the magnanimous hero laid himself for that night, his
 limbs pressing the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ limbs pressing the earth."
 
 "Born of the great and segacious Dasaratha in an illustrious family, Rama verily
 does not desrve to sleep on this bare earth!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -194,8 +188,6 @@ antelopes; *shete* = sleep; *mahiitale* = on abre floor?
 
 "How could Rama the tiger among men, who used to sleep on a couch horded with rich
 cushions covered with superior hairy skins of antelopes, sleep on a bare floor?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -296,8 +288,6 @@ suprassing the finest of palaces, which wre cool and fragrant with perfules, as 
 with its golden walls, where in that palace he was awakened at the fitting time by sogns and music
 from various instruments, tinkling of ornaments and the excellent sounds of clay tomtoms, glorified
 by many panegyrists, bards and ministrels throught appropriate ballads and songs of praise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -345,8 +335,6 @@ dream.
 
 "This ( such a prince becoming like this) is unbelievable in the world and does not
 appear true to me. My mind is indeed bewildered. I wish that it were a dream."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -394,8 +382,6 @@ will of god); *yatra* = since; *saH* = that; *raamaH* = Rama;
 
 "Surely even a deity is not a little more powerful than Time (the will of god),
 since that Rama, the son of Dasaratha has to sleep on the bare ground!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -442,8 +428,6 @@ Dsaaratha; *shayitaa* = has to sleep; *bhuumau* = on the floor.
 
 "Even Seetha the daughter of the king of videha, lovely to look upon and the
 cherished daughter-in-law of Dasaratha has to sleep on the floor!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -492,8 +476,6 @@ limbs; *kaThine* = on the hard; *sthaN^Dile* = ground.
 "This is the bed of my elder brother. Here are indeed the blessed marks of his
 changing sides, in the form of all the blades of Kusa grass, trampled by his limbs on the hard
 ground."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -541,8 +523,6 @@ Seetha; *suptaa* = has slept; *asmin* = on this; *shayanaa* = bed;
 
 "I think the blessed Seetha has slept on this bed along with her jewels for, some
 particles of gold appear to be stuck up, here and there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -590,8 +570,6 @@ upper garment; *siitayaa* = of Seetha; *aasaktam* = was entangled; *iha* =
 
 "It is very clear that the upper garment of Seetha got entangled with these blades
 here at that time. That is why, these silk-threads appear stuck to them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -639,8 +617,6 @@ yet; however; *sukumarii* = delicate she be; *jaanaati* = she would experience;
 
 "I think the bed of her husband is sweet to a woman and thought Seetha is young and
 unfortunate, yet however delicate she be, she would experience no suffering."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -688,8 +664,6 @@ bed.
 
 "Alas! I am a cruel man because on my account, Rama, like an orphan, along with his
 wife slept on such a bed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -748,8 +722,6 @@ sukham = comfort?
 beloved of all the people, having a dark complexion as that of a blue-lotus, having red eyes,
 lovely to look at who is entittled for comfort and who is not worthy of suffering, sleep on the
 gound, abandoning excellent kingdom and comfort?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -796,8 +768,6 @@ time; *dhanyaH khalu* = is indeed a fortunate man.
 
 "Lakshmana, having auspicious marks on his body and an exceedingly lucky man, who
 accompanied his elder brother Rama in times of adversity in indeed a fortunate man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -845,8 +815,6 @@ Rama; *sanshayitaaH* = are unsettled.
 
 "Seetha, who went together with her husband to the forest, is indeed an accomplished
 woman. All of us, deprived of the highly virtuous Rama, are an unsettled lot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -893,8 +861,6 @@ me; *nauriva* = as a boat; *akarNadhaaraa* = without a helmsman.
 
 "Dasaratha went to heaven. Rama is dwelling in the forest. this kingdom appears to
 me as a boat without ahelmsman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -941,8 +907,6 @@ power of arms; *tasya* = of that Rama; *praarthayate* = cannot be desired;
 
 "Even if staying in the forest, Rama protects this earth with the power of his arms.
 Hence, nobdy can think even in his mind, to invade this kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -1005,8 +969,6 @@ army; *shuunyaam* = plunged in desolation; *viSamasthaam* = abiding in difficult
 elephants, with its city-gates laid open, without any defenders, denuded of its happy army, plunged
 in desolation in difficulties and exposed, that royal capital of Ayodhya will be shunned like
 poisoned food even by the enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -1054,8 +1016,6 @@ earth; *tR^iNeSuvaa* = or on the grass; *dhaarayan* = wearing;
 
 "From today onwards, I shall sleep on the earth or on the grass, with my locks
 matted, wearing robes of bark and by all means living on fruits and roots."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -1104,8 +1064,6 @@ matted, wearing robes of bark and by all means living on fruits and roots."
 "For the rest of his exile, on behalf of Rama, I shall dwell cheerfully in the
 forest, thereby discharging that promise so that the vows of Rama shall not have been made in
 vain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -1153,8 +1111,6 @@ Ayodhya.
 
 "Shatrughna will bear company with me, residing in the forest on behalf of Rama. My
 elder brother, Rama along with Lakshmana will protect Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -1203,8 +1159,6 @@ my; *manoratham* = desire; *satyam* = (be made) a reality.
 
 "Rama will be enthroned in ayodhya, by Brahmanas the Twice-born! May the gods grant
 that my desire be made a reality."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 </details>
 
@@ -1258,8 +1212,6 @@ ought not; *upakSitum* = to disregard; *maam* = me.
 "Should Rama not accept the respectful appeals made in many a way by me, I shall
 follow the foot steps of Rama for any length of time he roams about in the forest thereafter. He
 ought not to refuse this grace to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

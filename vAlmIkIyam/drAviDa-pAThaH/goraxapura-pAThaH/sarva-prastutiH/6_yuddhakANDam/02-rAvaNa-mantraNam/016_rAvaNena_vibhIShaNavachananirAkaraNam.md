@@ -15,8 +15,6 @@ title_english = "016 Ravana refuses to hear the words of Vibhishana"
 
 Ravana refuses to hear the words of Vibhishana and rebukes him with harsh words.
 Vibhishana gets angry and sets off, to leave Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ stable; *uktavantam* = and who spoke; *hitam* = wholesome; *vaakyam* = words;
 
 Ravana, goaded by death, spoke the following harsh words to Vibhishana, who was very
 stable and who had spoken wholesome words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ stable and who had spoken wholesome words:
 
 "One can stay together with an enemy or even with a furious snake, but one cannot
 stay together with an adversary yet avowing himself as a friend"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -160,8 +154,6 @@ _________________
 
 "O, demon! I know the conduct of kinsmen in all the worlds. These kinsmen always are
 rejoiced at the calamities of their kinsmen"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -209,8 +201,6 @@ man."
 
 "O, demon! The kinsmen indeed insult and even humiliate their kinsman, who is an
 effective leader, a person of education and right conduct and a valiant man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -257,8 +247,6 @@ treacherous minds; *bhayaavahaaH* = terrific ones as they are; *nityam* = always
 
 "The horrible kinsmen with their concealed thoughts and treacherous minds, terrific
 ones as they are, always rejoice each other in adversities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -309,8 +297,6 @@ me."
 
 "Previously in a forest called Padmavana, some maxims were spoken by elephants,
 which saw men with nooses in hand. Hear and I shall tell them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -355,8 +341,6 @@ terrific; *jJNaatayaH* = kinsmen; *svaarthaprayuktaaH* = incited by selfishness;
 
 "For us, fire or weapons or nooses are not begetting fear. The terrific kinsmen,
 incited by selfishness are begetting fear to us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -408,8 +392,6 @@ fears; *G^yaatibhayam* = the fear of kinsmen; *sukashhTam* = is very troublesome
 "These kinsmen will inform the strategy to our enemies to seize us. There is no
 doubt about this. Out of all fears, the fear of kinsmen is very much troublesome for us. It is a
 well known thing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -459,8 +441,6 @@ in cows; *vidyate* = there is; *bhayam* = fear; *G^yaatitaH* = for kinsmen;
 
 "There is wealth in cows. There is fear for kinsmen. There is fickleness in women.
 There is austerity in Brahmins."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -508,8 +488,6 @@ satkR^itaH* = am venerated by the people; *abhijaataHcha* = that I obtained;
 
 "O, gentleman! Hence, it is not of liking to you that the people are venerating me,
 that I obtained riches and that I am sitting tight in the heads of enemies".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -556,8 +534,6 @@ manner. SouhR^idam = friendship; *anaaryeshhu* = in vulgar ones."
 
 "As drops of water fallen on lotus leaves do not get clung to those leaves, so also
 a friendship does not cling to vulgar ones."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -604,8 +580,6 @@ manner; *souhR^idam* = friendship; *anaaryeshhu* = in vulgar people."
 
 "As rainy clouds in autumn, even though thundering, cannot get the earth saturated
 with water, so also friendship does not have tenderness of heart in vulgar people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -654,8 +628,6 @@ same manner; *souhR^idam* = friendship; *anaaryeshhu* = in vulgar people."
 "As a honey bee, even though getting nectar from a flower, does not stick on to that
 flower due to its eager desire for more, you also belong to that category as friendship does not
 stick on to vulgar people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -702,8 +674,6 @@ manner ; *sauhR^idam* = friendship; *anaaryeshhu* = from vulgar persons."
 
 "As even though trying to drink nectar from a flower of grass, a honey bee cannot
 get it, so also friendship cannot be extracted from vulgar persons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ friendship; *anaryeshhu* = in vulgar persons"
 
 "How an elephant abuses its body by helping itself with dust after taking bath
 earlier with its trunk, friendship gets an abuse in vulgar persons in the same manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -794,8 +762,6 @@ present; *asmin* = at this; *muhuurte* = moment; *kula paamsana* = O;
 
 "O, demon, walking about by night! If any other person utters these words in this
 manner, he will be ceasing to exit at this moment. O, destroyer of race! A curse upon you!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -842,8 +808,6 @@ sky; *chaturbhiH raakshhasaiH saha* = along with four demons.
 
 Hearing those harsh words from Ravana, Vibhishana who advocates justice, wielding a
 mace in his hand, soared high into the sky, along with four other demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -890,8 +854,6 @@ mace in his hand, soared high into the sky, along with four other demons.
 
 Then, the illustrious Vibhishana who became angry also spoke these words to king
 Ravana, his brother after moving into the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -945,8 +907,6 @@ kshhamaapi* = I cannot forbear; *;idam* = these; *te* = your; *parushham*
 "O, king! You are a brother to me. You utter whatever you like. Elder brother is
 like a father. Even if he is not staying in a right path, he is to be respected. But I cannot
 forbear these harsh words from you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -993,8 +953,6 @@ forbear these harsh words from you."
 
 "Those who have an ill composed mind and who get conceded to the occasion do not
 assimilate the words of prudence, spoken by a well wisher."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -1043,8 +1001,6 @@ rare to be obtained."
 "O, king! Men who forever speak pleasing words are easy to be obtained. But one who
 speaks of useful but unpleasing words as also the one who listens to them, are rare to be
 obtained"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -1091,8 +1047,6 @@ all beings; *sharaNamyathaa* = as a house; *pradiiptam* = which is burning."
 
 "I could not ignore you, being destroyed by the noose of Yama (god of death); tied
 around you and which snatches away all beings, as none can ignore a burning house."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -1143,8 +1097,6 @@ blazing fire."
 
 "I do not wish to see you, being killed by Rama with his sharp arrows, adorned with
 gold and each resembling like a blazing fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -1194,8 +1146,6 @@ setuvaH yathaa = like a dam constructed with sand."
 
 "Persons who are valiant, strong and skilled in weaponry, when time comes, sink down
 (ruin) as a dam constructed with sand sinks down."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 </details>
 
@@ -1271,8 +1221,6 @@ yourself; *saraaksshhasaam* = along with demons; *imaam* = and this ;
 "As an elder brother, bear the words spoken by me, who desire your welfare. Guard
 this city and yourself along with demons, by all means. Let all be well with you. I am departing.
 Be a happy person without me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhasans16.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

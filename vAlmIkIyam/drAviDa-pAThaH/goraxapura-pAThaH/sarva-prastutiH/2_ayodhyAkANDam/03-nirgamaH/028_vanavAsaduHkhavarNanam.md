@@ -15,8 +15,6 @@ title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 
 In this chapter Rama describes various troubles of staying in forest and beseeches
 seetha not to go to forest
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ seetha not to go to forest
 
 Thinking of difficulties one will be called upon to bear in the forest, Rama who was
 fond of righteousness did not form the idea of taking Sita who was speaking as aforesaid.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ of making her turn back.
 
 Soothening with kind words to Sita, when eyes were blemished with tears, the
 virtuous Rama spoke again as follows, for the purpose of waking her turn back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ manasaH* = to my mind.
 
 "Sita! Your are born in a high lineage, ever devoted to righteousness. Perform your
 own virtue here, which is agreable to my mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ them; *me* = from me; *vadataH* = speaking.
 
 "Oh Sita, the delicate! Do whatever I tell you. There are many inconveniencs in the
 forest. Know them from me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ wilderness; *bahudoshhayutam* = is fraught with many dangers.
 
 "Oh, Sita! Let your thought made about forest be given up. It is indeed said that
 forest with its wilderness is fraught with many dangers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -312,8 +300,6 @@ comfortable; *sadaa* = always; *duHkhameva* = uncomfortable.
 
 This advice is given by me, keeping your welfare in view. I do not ever consider a
 forest as comfortable. It is always uncomfortable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -360,8 +346,6 @@ residing in mountain caves; *duHkHaaH* = are unpleasant; *shrotum* = to hear;
 
 "The sounds created from waterfalls in hills and from lions resding in mountain
 caves are unpleasant to hear. That is why living in a forest in uncomfortable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -409,8 +393,6 @@ is uncomfortable.
 
 "Large wild animals which are fearless and intoxicated sporting in the desolate
 forest; come forward, after seeing. Oh, Sita! That is why living in forest is uncomfortable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -457,8 +439,6 @@ crossed; *mattaiH gajairapi* = by rut elephants also; *ataH* = hence; *vanam*
 
 "Even streams filled with crocodiles full of mire are difficult to be crossed by rut
 elephants also. Hence dwelling in a forest is always very much uncomfortable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -505,8 +485,6 @@ with creeps and thorns; *kR^ikavaakuupanaaditaaH* = echoed with noise of wild co
 
 "Pathways covered with creepers and thorns, echoed with noise of wild cocks, are
 water-less and very difficult to enter. Hence dwelling in a forest is hardship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -553,8 +531,6 @@ much a misery.
 
 "One distress by fatigue has to sleep in nights on a bed of fallen leaves. Hence,
 living in a forest is very much a misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -595,8 +571,6 @@ from trees; *ataH* = henc; *vanam* = forest; *duHkham* = is suffering.
 
 "Oh, Sita! With mind disciplined day and night, one has to necessarily satisfy
 ourself with fruits fallen from trees. Hence, living in a forest is a suffering."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -643,8 +617,6 @@ according to one's stamina; *valkalaambaradhaariNaa* = wearing clothes of bark;
 
 "Oh, Sita the princess of Mithila! Fasting is to be done according to one's stamina.
 Clothes of bark are to be worn and mass of matted hair has to be worn on the head."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -691,8 +663,6 @@ ancestors; *atithiinaam cha* = the guests; *praaptaanaam* = who arrife;
 
 "The celestials, the ancestors, the guests who arrive are to be worshipped always
 according to the preseribed rites."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -741,8 +711,6 @@ misery.
 "Bath is to be performed three times a day at appropriate time by the one moving in
 the forest, with one's mind kept in restraint. Hence, living in a forest is very much a
 misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -791,8 +759,6 @@ forest; *duHkham* = is hardship.
 "Oh, Sita the innocent! Offering is to be done with flowers brought by one's own
 self at the altar, according to the rites prescribed by sages. Hence, living in a forest is a
 hardship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -840,8 +806,6 @@ misery.
 
 "Oh, Sita the princess of Mithila! The dwellers of forest are to be satisfied with
 whatever is obtained there, the restricted food. Hence, living in forest is a misery.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -891,8 +855,6 @@ hunger; *mahaanti* = great; *bhayaani cha* = fears also; *ataH* = hence;
 
 "In the forest, air and darkness are too much. There are always hunger and great
 fears too. Hence, dwelling in a forest is very much a misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -939,8 +901,6 @@ on earth; *darpaat* = with pride; *tataH* = hence; *vanam* = forest;
 
 "Oh, Sita! Various creeping animals of different forms roam about on earth with
 pride. Hence dwelling in a forst is a great misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -987,8 +947,6 @@ pride. Hence dwelling in a forst is a great misery."
 
 "Snakes dwelling in rivers, moving crookedly like rivers, stay obstucting the
 pathways. Hence, living in forest is a great misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -1036,8 +994,6 @@ annoy; *sarvam* = every one; *ataH* = hence; *vanam* = forest;
 
 "Oh, frail princess! Flying insects, scropious, insects including mosquitoes and
 files always annoy every one. Hence, forest is full of hardship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -1089,8 +1045,6 @@ misery.
 
 "Oh, Sita! Forest is full of trees, kusa grass and bambooes with ends of their
 branches spread on all sides. Hence, living in a forest is a great misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -1137,8 +1091,6 @@ branches spread on all sides. Hence, living in a forest is a great misery."
 
 "An inhabitant living in a forest has to face various bodily troubles and panics.
 Hence, forest- life is readly a misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -1187,8 +1139,6 @@ suffering.
 "Anger and greed are to be abandoned by the dwellers of forest. Devotion is to be
 bestowed on asceticism. What needs to be feared, should not be feared. Hence, living in a forest is
 a suffereing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -1239,8 +1189,6 @@ reflecting; *iha* = now; *pashyaami* = I perceive; *vanam* = forest;
 
 "Therefore, do away with the idea of your coming to the forest. Forest is not indeed
 bearable for you. Reflecting now, I perceive forest as having too many disadvantages."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 </details>
 
@@ -1295,8 +1243,6 @@ afterwords; *abraviit* = spoke; *idam* = these words; *raamam* = to Rama.
 
 As the great souled Rama did not agree to take her to the forest, the much aggrieved
 Sita spoke to Rama as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga28/ayodhyasans28.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

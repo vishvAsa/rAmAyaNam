@@ -18,8 +18,6 @@ Verses converted to UTF_8 Sept, 09**
 
 We enter the capital of the Emperor Dasharatha. The pomp and glory of his capital is depicted
 along with its town planning and grandeur of the city, and its residents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -93,8 +91,6 @@ king named Sagara is there, well-known for his deepening the oceans,
 and whom his sixty thousand sons were fencing in when he is set out for action, in the dynasty
 of such Ikshvaku kings this highly revered and reputed epic Ramayana is originated.
 [1-5-1, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -148,8 +144,6 @@ anasuuyayaa shrotavyam* = without cavilling, [this may] be listened.
 Being such a legend, we two wish to relate this Ramayana entirely and completely from the
 beginning, which is endowed with the values and means of probity, prosperity, and pleasure
 seeking... and this be listened without any caviling. [1-5-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -193,8 +187,6 @@ sphiitaH* = joyous one, vast one; *kosalaH naama* = Kosala, named; *mahaan janap
 
 A great kingdom named Kosala, a joyous and a vast one well flourishing with monies and cereals,
 is snugly situated on the riverbanks of Sarayu. [1-5-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -235,8 +227,6 @@ ayodhyaa naama nagarii* = Ayodhya, named, city; *lokavishrutaa* = renowned in wo
 
 A world-renowned city is there in that kingdom, which is personally built by Manu, the foremost
 ruler of mankind. [1-4-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -331,8 +321,6 @@ finger when palm is stretched; 2 vitasti-s = 1 *aratni* -s - cubit; 4 aratni-s =
 10 miles. But the British Revenue measurement scaled it down to 5 miles, and all the dictionaries
 say that one yojana is 5 miles. But traditionally it is held as 10 miles. More info on these
 measures can be had from The Artha-Shaastra of Kautilya - a republication of Penguin.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -373,8 +361,6 @@ forth.
 
 That city shines forth with well-laid great royal highways that are always wetted with water,
 and with flowers strewn and scattered on them. [1-5-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -420,8 +406,6 @@ aavaasayaamaasa* = made that city as abode.
 
 As an improver of great kingdom Dasharatha the king made her as his abode, as Indra made heavens
 as his abode. [1-5-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -473,8 +457,6 @@ to be suffixed up to 22nd versse.]
 That city is surrounded with gateways and archways; the front yards of buildings are well
 laid; it is lodges all kinds of machinery, weaponry and craftsmen, and king Dasharatha dwells
 in such a city. [1-4-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -529,8 +511,6 @@ Comment: This *shataghnii* literally is that which can kill a hundred people, an
 it is said to be a canon and also said to be thorny weapon: *shataghniicatuHtalaalohakaNTakasa~ncitaa |
  ayaHkaNTakasa~ncchannaa mahatii shilaa --* elaborate accounts of
 this *shataghni*, *kshipaNi* are there in *yajuraaraNyaka* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -578,8 +558,6 @@ this *shataghni*, *kshipaNi* are there in *yajuraaraNyaka* .
 That city Ayodhya accommodates groups of danseuses and theatrical personnel, and she is surrounded
 everywhere with the gardens and brakes of mango trees, and her wide fort-wall is like her
 cincture ornament. [1-5-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -629,8 +607,6 @@ elephants; *gobhiH uSTraiH kharaiH tathaa* = cows, camels, donkeys, likewise.
 That Ayodhya is an impassable one for trespassers, or for others invaders, owing to her impassable
 and profound moats, and she is abounding with horses, camels, likewise with cows and donkeys.
 [1-5-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -678,8 +654,6 @@ lustrous with traders too.
 With the throngs of provincial kings who come hither to pay dues pervade that city, and she
 is verily lustrous with residents of various other countries, and with traders, too. In such
 a city Dasharatha dwells. [1-5-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -726,8 +700,6 @@ cha sampuurNaam* = also filled with multi-storeyed; *indrasya iva amaraavatiim*
 
 Buildings are ornamentally studded with precious gems, and with such multi-storied sky scrappers
 she is adorned, and filled with them she is like Amaravati, the capital of Indra. [1-5-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -777,8 +749,6 @@ buildings picturesque.
 Amazing is Ayodhya for its lay-out is like a game board called *aSTapadi*, and with
 its flocks of beautiful women moving thereabout, where all kinds of precious gems are heaped
 up, and where its seven storied buildings are picturesque. [1-5-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 
 </details>
@@ -821,8 +791,6 @@ juice.
 The housing is very dense and there is no place or ground unutilized, and all are constructed
 on well-levelled lands, and rice-grain is plentiful while the drinking water tastes like sugar
 cane juice. [1-5-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -872,8 +840,6 @@ the times of the day or night, or at the arrivals of the noblemen or to keep the
 As well, the melodious tunes from string instruments like *Veena* or rhythmic instrument
 *mridanga* and from various other instruments are always made available to the citizens,
 as a sort of background music, since royalty sponsors these performing arts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -914,8 +880,6 @@ people.
 
 Ayodhya is like a hovering space station attained by sages by their ascesis, and its edifices
 are well planned and it is teeming with best people. [1-4-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -978,8 +942,6 @@ grumble and swung his arrow that way, killing the boy. Thereby the father of the
 a sage of eminence, cursed Dasharatha to die lamenting for his son, which happens after the
 exile of Rama. Perhaps the sonic-archery may thus have been banned in Ayodhya, lest such sad
 incidents would have recurred.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -999,8 +961,6 @@ with sharp, weapons; *balaat baahubalaiH api* = with might by arms might also.
 
 They kill the fattened and roaring lions, tigers and wild boars with the might of their sharp
 weaponry, or even with the might of their own arms alone. [1-4-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1016,8 +976,6 @@ abhipuurNaam mahaarathaiH* = in her [in city,] filled with, great chariot-warrio
 
 With that kind of thousands of archers, and with speediest chariot-warriors she that Ayodhya
 is filled with, and King Dasharatha made his abode in such a city. [1-5-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 </details>
 
@@ -1077,8 +1035,6 @@ enkindling the three kinds of ritual-fires continuously, virtuous Brahman schola
 and their six ancillary subjects, and other great souls that are in similitude with great
 saints, and who are just like sages that are charitable donors, and that abide by the truth.
 [1-5-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

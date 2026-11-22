@@ -19,8 +19,6 @@ Rama tries to send Lakshmana back to Ayodhya, apprehending trouble for Kousalya 
 others in the hands of Kaikeyi. Lakshmana however refuses to return to Ayodhya, pleasing his
 inability to survive in the absence of Rama. Rama thereafter agrees again for Lakshmana's stay in
 the forest with him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ the forest with him.
 
 Rama, the foremost of those affording happiness to others, reached the aforesaid
 tree, worshipped the western twilight and spoke to Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ _________________
 
 "This might which has got past us today outside the inhabited territory is the first
 night which has passed without Sumantra. You ought not repent over it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ two."
 
 "Remaining free from lassitude, we must both keep awake during nights, from today
 Lakshmana! The safety and welfare of Sita indeed depend on us two."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ procured; *svayam* = by our own(hands)."
 
 "Let us pass this night anyhow, Lakshmana! Let us lie down on the ground, covering
 it by straw, leaves and so on, procured by our own hands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ it by straw, leaves and so on, procured by our own hands."
 
 Streching himself on the bare ground, Rama, who was accustomed to a luxurious coach,
 uttered the following suitable words to Lakshmana:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 
 </details>
@@ -324,8 +312,6 @@ uttered the following suitable words to Lakshmana:
 
 "Assuredly the emperor is sleeping badly tonight, while Kaikeyi, having realized her
 ambitions, ought to feel satisfied."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ kingdom."
 
 "Seeing Bharata returned, queen Kaikeyi, I am afraid, may not expel the lives of the
 emperor for the sake of kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -421,8 +405,6 @@ do; *kR^itaH* = dominated as he is; *kaamaatmaa* = by his passion (for Kaikeyi);
 
 "Aged and (therefore) helpless, deprived of my presence, what will he do, dominated
 as he is by his passion for Kaikeyi and who has fallen into the clutches of Kaikeyi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -470,8 +452,6 @@ earthly gain and religious merit."
 
 "Reflecting on this misfortune of the king and his mental derangement, I deem that
 passion alone is greater than early gain and religious merit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -521,8 +501,6 @@ _________________
 
 "what man however deluded, what father on account of a woman, at his own will and
 pleasure, abandon a son like myself?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ of Kosala."
 
 "Alas, Kaikeyi's son Bharata (alone) is happy along with his wife. Like an overlord,
 he is going to enjoy the prosperous kingdom of Kosala."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -618,8 +594,6 @@ Mayicha = I; *aasthite* = am staying; *areNyam* = in the forest. saH = Bharata;
 
 "Father is superannuated. I am staying in the forest. Bharata will become the prime
 head for the entire kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -666,8 +640,6 @@ in the same way; *raaja dasharatho yathaa* = as king Dasaratha has."
 
 "He who pursues sensuous pleasures neglecting his real interests and discipline soon
 comes to distress; in the same way as king Dasaratha has."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -715,8 +687,6 @@ Bharata."
 
 "It seems that Kaikeyi came into our house, oh good brother, to bring about an end
 to Dasaratha, to send me into exile and to secure kingship for Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -763,8 +733,6 @@ relationship with me."
 
 "Blinded by pride of good fortune, Kaikeyi may even now persecute Kausalya and
 Sumitra because of their relationship with me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -812,8 +780,6 @@ Lakshmana!"
 
 "Queen Sumitra is likely to suffer hardship because of her affinity to us. From this
 very place, you proceed to Ayodhya next morning, oh, Lakshmana!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ go; *siitayaa saha* = along with Sita; *daNdakaan* = to Dandaka forest. tvam = Y
 
 "I shall proceed to Dandaka forest alone with Sita, while you will be the protector
 for Kausalya, who has no defender."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -915,8 +879,6 @@ be disliked. paridadyaHhi = Give(for protection); *mama* = my; *maataram* = moth
 
 "Kaikeyi of base deeds may resort to unjustified means to be disliked. Give (for
 protection) my mother to Bharata, oh virtuous Prince!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -963,8 +925,6 @@ Oh; Lakshmana; *striyaH* = women; *viyojitaaH* = must have been deprived;
 
 "In some other (past) birth, women must have been deprived of their sons by my
 mother (Kausalya), oh, Lakshmana! For that reason this has arisen certainly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1012,8 +972,6 @@ of my company by me; *chirapushhTena* = who was nurtured up with great pains; *a
 "At a time when Kausalya should have obtained benefits for her labors repaid by me,
 she has been deprived of my company by me, who was nurtured by her for a long time and brought up
 with great pains. Woe to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1061,8 +1019,6 @@ Lakshmana!"
 
 "Let no woman ever give birth to such a son as myself, who have caused perpetual
 grief to my mother, oh, Lakshmana!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1111,8 +1067,6 @@ the foot; *areH* = of the enemy'; *lakshhmaNa* = oh; Lakshmana!"
 "Oh, Lakshmana! I think that myna (which is kept as a pet by mother Kausalya) is
 more affectionate than I, since her are heard the words, "Bite, oh parrot, the foot of the
 enemy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1160,8 +1114,6 @@ foes!"
 
 "What can be done by me, her son, who cannot go to her aid even a little to her, my
 mother, who is weeping, who is unfortunate and who has no son, oh conqueror of foes?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1208,8 +1160,6 @@ mother, who is weeping, who is unfortunate and who has no son, oh conqueror of f
 
 "Kausalya my mother of poor luck indeed, bereft of me, is stricken with great
 melancholy and lies plunged in a sea of grief"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1256,8 +1206,6 @@ viiryam = Valor; *akaaraNam nam* = is not the cause; not at all"
 
 "Enraged, I can subdue with my arrows single handed not only Ayodhya but also the
 earth. But it is not a question of valor here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1304,8 +1252,6 @@ do not allow myself; *naabhishhechaye* = to be crowned"
 
 "Oh, the sinless Lakshmana! I am terribly concerned of doing wrong and of ruining my
 prospects in the other world. Hence, I do not allow myself to be crowned."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1352,8 +1298,6 @@ quite; *ashrupuurNa mukhaH* = his face full of tears.
 
 Rama during the night in that lonely forest, wailed piteously thus and in so many
 other ways and sat quite, his face full of tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1399,8 +1343,6 @@ _________________
 **अनुवादः**
 
 Lakshmana consoled Rama as follows when the later had ceased lamenting like a fire whose flames had gone out and as a sea without a violent motion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1449,8 +1391,6 @@ resembles a night; *gatachandraa* = without the moon; *raajan* = Oh; king;
 "The city of Ayodhya, now that you have come away from it, has certainly been
 divested of its splendor and resembles a night without the moon, Oh, Rama the jewel among armed
 warriors!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1497,8 +1437,6 @@ me too; *purushharshhabha* = oh jewel among men!"
 
 "It is not proper, oh Rama, that you should grieve in this way. You cause distress
 to Sita and me too, oh jewel among men!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1548,8 +1486,6 @@ jiivaavaH* = We shall not survive; *muhuurtamapi* = even for a moment;
 
 "Oh, Rama! Bereft of you , neither Sita nor I will not survive even for a moment,
 like fish pulled out of water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1597,8 +1533,6 @@ heaven."
 
 "Oh, Rama causing pain to the foes! Without you, I do not wish to see either our
 father or Satrughna or Sumitra or even the heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1645,8 +1579,6 @@ arranged; *nyagrodha* = under a banyan tree; *bhejate* = sought (for the bed)."
 
 Then Rama and Lakshmana the lovers of piety, sitting comfortably there and on seeing
 a bed well- prepared under a banyan tree, sought for the bed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1703,8 +1635,6 @@ exile(with Lakshmana).
 Attentively hearing Lakshmana's words which were excellent and wholistic and
 adopting for a fairly long period the course of conduct prescribed for hermits, Rama resolved to
 spend all the fourteen years in exile with Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 </details>
 
@@ -1759,8 +1689,6 @@ unto two lions; *girisaanu gocharon* = dwelling on the slopes of a mountain.
 Thence forward, those two powerful offspring of the Raghu race (Rama and Lakshmana)
 never admitted fear or agitation (while dwelling) in that vast and lonely forest any more than a
 couple of lions on the slopes of a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga53/ayodhyasans53.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

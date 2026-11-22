@@ -15,8 +15,6 @@ title_english = "021 Seetha s reply"
 
 In this chapter Seetha replies to Ravana saying that He should seek friendship with Rama and return
 Her back to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ _________________
 
 Seetha listening to that horrible ogre's word, being tormented spoke in reply with a pitiable voice,
 pitifully and slowly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ a grass straw;antarataH = in between (herself and Ravana);pratyuvaacha = spoke i
 Being tormented by grief, in a pitiful state, with excellent limbs, devoted to husband, thinking
 about husband alone, with pleasant smiles Seetha was sobbing, shivering and placing a straw in between herself
 and Ravana spoke thus in reply.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -163,8 +157,6 @@ best emancipation;paapakR^it = (for) a sinner; *na yuktam* = it is not appropria
 
 "Turn your mind back from me. Let your mind be made on your own wives. Like best emancipation for
 a sinner, it is not appropriate to pray me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ _________________
 
 "I was born in a great family. Getting such family, having one husband, a bad deed which is blameable
 is not to be made by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -266,8 +256,6 @@ is not to be made by me."
 **अनुवादः**
 
 Seetha with renown thus speaking to that Ravana, turned back and spoke words again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -318,8 +306,6 @@ husband; *na* = am not; *aupaikii* = suitable; *bhaaryaa* = wife; *tava* = to yo
 
 "I who am wife of another and devoted to husband am not suitable wife to you. Observe righteousness
 well. Follow well course of conduct of virtuous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -335,8 +321,6 @@ well. Follow well course of conduct of virtuous."
 
 "O Ogre! How your wives are to be protected, in the same way others' wives are to be protected.
 Making yourself as an example enjoy your own wives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -412,8 +396,6 @@ _________________
 
 "Here are there not good people? Or are you not following those who are good? It must be like that
 because your mind, devoid of traditions is perverse."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -456,8 +438,6 @@ uptam* = being said; *vichakshaNaiH* = by righteous ones; *abhaavaaya* = for the
 
 "You who is being led by mind towards unreal is not taking wholesome words being said by righteous
 onesfor the destruction of ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -520,8 +500,6 @@ _________________
 
 "One who is not satisfied in own wives, a fickle-minded one with disturbed senses, mean minded
 one, to such a man, others' wives will lead to humilation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -541,8 +519,6 @@ laN^kaa* = this Lanka;ratnaugha saMkulaa = filled with best things; *nachiraat* 
 "After getting a king who has uncontrolled mind, interested in a bad path, wealthy states and cities
 also will be destroyed. After getting you like that this Lanka filled with best things in a short while will be
 destroyed due to your one sin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ darshinaH* = (of) a short sighted one; *hanyamaanasya svakR^itaiH* = being hit b
 
 "O Ravana! When there is destruction of a short sighted one being hit by his own deeds, a sinner,
 living beings will be happy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -625,8 +599,6 @@ destroyed; *janaaH* = people; *nikR^itaaH* = who have been humiliated by you; *h
 
 "About you who is a sinner thus being destroyed, people who have been humiliated by you being happy
 will speak thus: 'The cruel Ravana by God's grace has got this danger' ".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -677,8 +649,6 @@ separate; *raaghaveNa* = with Raghava; *prabhaa yathaa* = like the sun-shine; *b
 
 "I am not capable to be tempted by wealth or by money. I am not separate with Raghava like the
 sun-shine with the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -719,8 +689,6 @@ shoulder; *lokanathasya* = of that lord of the world; *tasya* = of that Rama;kat
 
 "After making as a pillow that worshipped shoulder of that lord of the world, of that Rama, how
 can I make as pillow some other one's shoulder?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -770,8 +738,6 @@ _________________
 
 "Like the education of a brahmin with a famous mind, initiated in religious vow, I am suitable
 wife to that Rama alone the lord of earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -845,8 +811,6 @@ you; *pariipsataa* = who is desiring; *sthaanam* = continued existence; *anichch
 
 "It is suited that this Rama, best among men, is made to be a friend by you who is desiring continued
 existence and not desiring a horrible slaying."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -903,8 +867,6 @@ _________________
 **अनुवादः**
 
 "O Ravana! Let me meet together with Rama like a female elephant with a male elephant in a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -920,8 +882,6 @@ you; *tena* = with Rama.
 
 "Rama the righteous one is indeed known as one who loves those who seek protection. If you desire
 to live. let there be friendship between you and Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -969,8 +929,6 @@ this Rama.
 
 "You seek graciousness of this Rama who loves those who seek protection. Becoming piously disposed,
 you are suited to return me to this Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1020,8 +978,6 @@ get slaying.
 
 "In this way giving me to Rama will become fortunate to you. O Ravana! If you do in a different
 way, you will get slayed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1071,8 +1027,6 @@ the lord of worlds; *saMkruddhaH* = greatly enraged; *na* = will not (spare you)
 
 "Drawn out Vajrayudha, the weapon of Indra may spare some one like you. Lord of death may spare
 you for a long time. That Rama the lord of worlds greatly enraged will not spare you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1112,8 +1066,6 @@ shatakratuvisR^iSTaya* = hurled by Indra; *tvam shroshhyasi* = you will hear; *m
 
 "Like the great sound of Vajrayudha hurled by Indra, you will hear a loud sound which is sonorous
 of Rama's bow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1191,8 +1143,6 @@ signs of Rama and Lakshmana nipatishhyanti = will fall down; *iha* = here (in La
 
 "Arrows with good nodes, with blazing tips, like snakes, with characteristic signs of Rama and
 Lakshmana will fall down soon here in Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1207,8 +1157,6 @@ Lakshmana will fall down soon here in Lanka."
 
 "Arrows tied with the plumes of an eagle will hit ogres everywhere in this city and will cover
 the city without space."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1248,8 +1196,6 @@ the city without space."
 
 "That Garuda called Rama speedily will pluck the great serpants called ogres like Vainateya plucking
 the serpants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1292,8 +1238,6 @@ Asuras.
 
 "My husband who is a destroyer of foes will take me away from you like Lord Vishnu with three steps
 taking away the brilliant prosperity from Asuras."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1334,8 +1278,6 @@ you; *ashaktena* = being powerless;.
 
 "O ogre! While the army of ogres was being killed at Janasthana which became the land of dead,
 this bad deed has been done by you being powerless."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1384,8 +1326,6 @@ _________________
 
 "O lowest one! When those brothers were gone out, entering hermitage without them, I have been
 abducted by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1426,8 +1366,6 @@ view.
 
 "Like tiger by dog, smelling the scent of Rama and Lakshmana it is indeed not possible by you to
 stand in their view."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1470,8 +1408,6 @@ _________________
 
 "To you like that, enmity with those two is like the enmity of one hand of Vruttasura with two
 hands of Indra and it is not persevering for you to be an opponent with them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 </details>
 
@@ -1547,8 +1483,6 @@ _________________
 
 "My husband that Rama together with Lakshmana will take away with His arrows your life quickly
 like the sun drying up shallow water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1565,8 +1499,6 @@ you go; *sabhaam* = to the assembly; *raajJNaH varunasya* = of King Varuna; *asa
 
 "Killed by time even if you go to the mountain of Kubera or to his house or if you go to the assembly
 of King Varuna, without doubt you will not be relased from Rama like a great tree from thunderbolt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

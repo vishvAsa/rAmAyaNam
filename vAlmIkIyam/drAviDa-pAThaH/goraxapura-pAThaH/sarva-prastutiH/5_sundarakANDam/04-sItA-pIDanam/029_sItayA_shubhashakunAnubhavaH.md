@@ -15,8 +15,6 @@ title_english = "029 Seetha experiences some good omens"
 
 Seetha experiences some good omens as follows; Her left eye, left shoulder and left thigh quivered,
 as also her clothing slipped a bit. Feeling these omens, her consciousness was awakened with exaltation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -82,8 +80,6 @@ with; *shubhaani* = auspicious; *nimittaani* = omens; *naram iva* = as a man; *j
 To her who was in such circumstances, who was in distress, who was irraproachable, devoid of joy
 and dejected but virtuous, was bestowed with auspicious omens, as a prosperous man is bestowed with dependent
 servants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 </details>
 
@@ -143,8 +139,6 @@ by the blow of a fish.
 The beautifully haired Seetha's left eye, which was auspicious, whose surrounding row of eye-lashes
 were curved, which was black, wide and bright-looking; was predominantly quivering, like a red lotus quivered
 by the blow of a fish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 </details>
 
@@ -204,8 +198,6 @@ for long as a pillow; *anuttamena* = by her most excellently; *priyeNa* = belove
 
 Her left shoulder, which was pretty, distinguished beefy and round, which deserved to be applied
 with excellent black aloe and sandalwood paste, which had been used
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 </details>
 
@@ -265,8 +257,6 @@ quivering; *achachakSe* = spoke; *sthitam* = the existance; *raamam* = of Rama; 
 
 Of her two thighs kept together, the left tigh which was beefy and well born, which resembled the
 trunk of a princely elephant was predominantly quivering, spoke indistinctly of existenc of Rama in front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 </details>
 
@@ -327,8 +317,6 @@ shade; *iiSat* = and was slightly; *rajodhvastamiva* = soiled as it were with du
 Again, the clothing of Seetha standing there, of spotless eyes and charming limbs, having teeth
 resembling the buds of jasmine, which was of golden shade and was slightly soiled as it were with dust, glited
 down, which appeared auspicious (for her).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 </details>
 
@@ -389,8 +377,6 @@ omens; *sambodhitaa* = explained; *saadhu* = straight; *siddhaiH* = which were f
 Bolstered by these and some other omens which straight explained that they were fruitful on the
 earlier occasion also, Seetha of beautiful eyebrows disclosed a great joy, even as a seed vanished and withered
 by the wind and the sun, got sprouted by rain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 </details>
 
@@ -451,8 +437,6 @@ raahoH mukhaat* = from the mouth of the demon Rahu.
 Moreover, having the lips resembling Bimba fruit, having beautiful eyes and eyebrows, whose eye
 lids are curved, having charming white teeth, her face shone like the moon liberated from the mouth of the demon
 Rahu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 </details>
 
@@ -513,8 +497,6 @@ consciousness awakened with exaltation; *saa aaryaa* = that esteemed lady; (Seet
 Free from sorrow, her weariness removed, her mental affliction alleviated and her consciousness
 awakened with exaltation, that esteemed lady (Seetha) looked handsome with her countenance, as a night with the
 moon appears during the bright fortnight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga29/sundarasans29.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

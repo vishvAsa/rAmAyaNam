@@ -28,8 +28,6 @@ Sugreeva sends Angada for the fight. Narantaka hurls his javelin towards Angada'
 javelin breaks and falls down. Angada strikes Narantaka's horse with his hand and the horse falls
 down dead. Then, Angada and Narantaka exchange the blows of their fists on each other in battle and
 finally, Narantaka dies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -108,8 +106,6 @@ do not lament.
 
 "Truly in such a manner, the highly valiant Kumbhakarna, (the middle of our father
 and uncles) has been killed. But good persons like you do not lament as you are doing, O king!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -161,8 +157,6 @@ about yourself; *praakR^itaH iva* = as a common person?
 
 "O Lord! You are capable of conquering even the three worlds. Why are you, as such,
 lamenting about yourself, as a common person?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -210,8 +204,6 @@ a thousand donkeys; *meghasamasvanaH* = with a sound resembling the rumbling of 
 "You do continue to have a javelin given by Brahma, an armour, a bow and an arrow
 together with a chariot yoked to a thousand donkeys, emitting a sound resembling the rumbling of a
 cloud."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -259,8 +251,6 @@ and giants; *vishastaaH hi* = were indeed destroyed; *tvayaa* = by you;
 
 "The celestials and giants were indeed destroyed several times by you with your
 various types of weapons. As such, you can punish Rama, when endowed with all weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -346,8 +336,6 @@ today in battle."
 * This Naraka was not naraka, the son of Mother Earth, who died at the hands of
 Lord Krishna. He was procreated through Simhika and Viprachitti. His six brothers were Vatapi,
 Namuchi, Ilwala, Shrimara, Andhaka and Kalanabha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 </details>
@@ -426,8 +414,6 @@ rejoiced of war.
 
 Hearing the words of Trishira, Devantaka, Narantaka and the energetic Atikaya were
 rejoiced of war.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -474,8 +460,6 @@ Indra; *nairR^iturSabhaaH* = and the foremost of demons; *garjantaH* = roared;
 
 Then, the brave Ravana's sons, whose prowess was equal to Indra and the foremost of
 demons, roared asserting their superiority saying "I will lead, I will lead!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -522,8 +506,6 @@ through the sky; *sarve* = all; *maayaa vishaaraaaaH* = were skilled in magic;
 
 All of them wee capable of passing through the sky. All were skilled in magic. All
 had humbled the pride of gods. All were fierce in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -582,8 +564,6 @@ serpents; *aasaadya samaram* = while encountering a combat.
 All were endowed with great strength. All were widely renowned. All were such as had
 never been heard of having been conquered by celestials or Gandharvas or Kinnaras or large serpents
 while encountering a battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -600,8 +580,6 @@ boons.
 
 All the demons were valiant ones, well-versed in weaponry. All were skilled in
 war-fare. All were greatly knowledgeable and all had obtained boons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -656,8 +634,6 @@ destroy the pride of gigantic demons.
 That Ravana the king, surrounded by his sons, who were radiant as the sun and who
 tormented the strength and fortune of the enemies, shone like Indra surrounded by celestials who
 can destroy the pride of gigantic demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -704,8 +680,6 @@ can destroy the pride of gigantic demons.
 
 Embracing his sons, embellishing them with ornaments and blessing them profusely,
 Ravana sent them to battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -752,8 +726,6 @@ YuddhonmattaH; *mattam cha api* = and even Matta; *bhraatarau* = his brothers;
 
 For the defense of his sons, Ravana sent Yuddhonmatta and Matta (better known as
 Mahodara and Mahaparshva), his brothers to the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -800,8 +772,6 @@ Mahodara and Mahaparshva), his brothers to the battle.
 
 Those demons with colossal bodies, paid obeisance (by circumambulating) to Ravana
 (who caused the people to cry in terror) and departed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -841,8 +811,6 @@ six; *mahaabalaaH* = mighty; *nairR^itashreSThaaH* = and excellent demons;
 
 Anointing their bodies with all types of herbs and perfumes, those six mighty and
 excellent demons went away, eager to fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -863,8 +831,6 @@ out.
 
 Trishira, Atikaya, Devantaka, Narantaka, Mahodara and Mahaparshva, under the clout
 of destiny; set out for the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -881,8 +847,6 @@ duraatmanaH* = of the evil-minded Ravana; *vilapamaanasya* = who was lamenting;
 
 Hearing the words of the evil-minded Ravana, who was thus lamenting, as he was
 overcome with grief, Trishira (one of his sons) spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -929,8 +893,6 @@ samnibham* = like unto a dark cloud.
 
 Thereupon, Mahodara mounted an elephant called Sudarshana, like unto a dark-cloud
 and born in Airavata-race.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -977,8 +939,6 @@ and born in Airavata-race.
 
 That Mahodara, adorned with quivers, endowed with all types of armoury and mounting
 the elephant, shone like the sun on the peak of Ashtachala mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1025,8 +985,6 @@ types of armoury.
 
 Trishira, the son of Ravana, ascended an exquisite chariot, yoked to excellent
 horses and filled with all types of armoury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1073,8 +1031,6 @@ horses and filled with all types of armoury.
 
 Trishira, wielding a bow and mounting the chariot, shone like a cloud with
 glittering meteors, illuminations and a rain-bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1125,8 +1081,6 @@ hills.
 
 That Trishira with three diadems in that exquisite chariot, stood out like Mount
 Himavat, the king of mountains with its three golden hills.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1176,8 +1130,6 @@ mounted; *ratha shreSTham* = an excellent chariot.
 
 Then, Atikaya, having very fiery energy, the son of Ravana and the foremost among
 the wielders of bow, mounted an excellent chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1229,8 +1181,6 @@ missiles; swords and maces.
 Atikaya mounted that chariot, having first-rate wheels and axles, well-yoked, having
 a good carriage and pole, filled with quivers and bows and flashingly full of missiles, swords and
 maces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 </details>
@@ -1278,8 +1228,6 @@ with his diadem; *viraajataa* = shining; *kaaNchana vichitreNa* = in brilliant g
 
 He was radiant with his diadem, shining in brilliant gold and other ornaments, like
 Mount Meru, causing to shine with its splendours (by the sun).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1326,8 +1274,6 @@ like Indra; *amaraiH* = surrounded by celestials.
 
 In that chariot, Atikaya that mighty prince, surrounded by the foremost of demons,
 shone like Indra surrounded by celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1374,8 +1320,6 @@ shone like Indra surrounded by celestials.
 
 Narantaka mounted a white gigantic horse, similar to Uchchaishrava (the mount of
 Indra), adorned with gold ornaments and as swift as thought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1423,8 +1367,6 @@ peacock.
 
 Narantaka, holding a javelin, which was resplendent like a meteor, appeared shining,
 like Guha (the offspring of Shiva) holding a spear and riding a beautiful peacock.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1471,8 +1413,6 @@ Mount Mandara; *dorbhyaam* = in his arms.
 
 Devantaka, holding a glided iron-bar, marched ahead, resembling an incarnation of
 Vishnu holding Mandara-mountain in his arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1519,8 +1459,6 @@ the lord of wealth.
 
 Mahaparshva, possessing a great splendour and vigour and wielding a mace in his arm
 in battle, looked like Kubera the lord of wealth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1573,8 +1511,6 @@ chariots; *ambudaniH svanaiH* = making rumbling sounds of clouds.
 Those distinguished demons set out from. Lanka, like the gods leaving Amaravati.
 Mighty demons, holding excellent weaponry, accompanied them, mounting on elephants, horses and
 chariots making sounds of rumbling clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1621,8 +1557,6 @@ varchasaH* = with brilliance of the sun; *kiriiTinaH* = wearing diadems;
 
 Those mighty princes, having sun's brilliance, wearing diadems and possessed of
 prosperity, shone like glowing planets in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1672,8 +1606,6 @@ pratiikaashaaH* = like an autumn cloud; *hamsaavaliH iva* = or like a flock of c
 
 The row of auspicious attire worn by them, shone like an autumnal cloud or like a
 flock of cranes in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1721,8 +1653,6 @@ fight.
 
 Determined either to die or to vanquish their enemies, those valiant demons went
 forward, thus making their courageous resolve, eager to fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1772,8 +1702,6 @@ _________________
 
 Those mighty demons set out with a mad conception of war, roared and made a
 reverberatory sound, took up arrows and dispatched them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1820,8 +1748,6 @@ roars; *rakSasaam* = of the demons.
 
 The earth trembled as it were, by their battle-cries and clapping of arms. The sky
 appeared breached, by the lion's roars of the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1868,8 +1794,6 @@ shilaayudham* = having uplifted rocks as their weapons.
 
 Those mighty leaders of demons, having set out, were delighted to see the army of
 monkeys having uplifted rocks as their weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1924,8 +1848,6 @@ great weapons.
 The mighty monkeys too saw that army of demons, which appeared like a black cloud
 but blazing like fire and sun on all sides, abounding with elephants, horses and chariots, made to
 resound with hundreds of small bells and wielding well-raised great weaponry.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -1985,8 +1907,6 @@ mountains; *sampraNeduH* = roared; *muhurmuhuH* = again and again; *vaanaraaH*
 Seeing that army which arrived and as they got the target for their fight, the
 monkeys, having the great mountains uplifted, roared again and again. The monkeys, not tolerating
 the demons, thus shouted, standing opposite to them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2041,8 +1961,6 @@ noise; *vaanarayuuthapaanaam* = of the leaders of the army of monkeys; *rakSogaN
 Hearing the enhanced noise of the leaders of the army of monkeys, the troops of
 demons who were terrible in might, not tolerating the rejoice of the enemies, then made a noise
 more terribly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2089,8 +2007,6 @@ yathaa* = like mountains; *shikhariNaH* = with their peaks.
 
 Entering that terrific army of demons, those monkey-leaders, with their raised
 mountains, roamed about like mountains with their peaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2144,8 +2060,6 @@ their weapons; *cheruH* = wandered; *rakSaH sainyeSu* = among the army of demons
 
 Some monkeys entering the sky and some others enraged, staying on earth with trees
 and rocks as their weapons, wandered among the army of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2196,8 +2110,6 @@ extensive branches (roamed about the battle-field); *tat* = that; *yuddham* = ba
 
 The foremost among the monkeys, holding trees, having extensive branches, roamed
 about in the battle-field. That battle-front, filled with demons and monkeys, looked terrific.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2213,8 +2125,6 @@ arrows; *chakruH* = initiated; *anuupamaam vR^iSTim* = a matchless rain;
 
 Those monkeys, of terrific prowess, though impeded by a flood of arrows, initiated a
 matchless rain of trees, rocks and mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2268,8 +2178,6 @@ the demons; *shilaabhiH* = with rocks.
 
 In the battle, the demons and the monkeys made a noise of lion's roars. The monkeys
 pounded the demons with rocks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2319,8 +2227,6 @@ also); *gaja vaajigataanapi* = and those mounted on elephants and horses.
 
 The enraged monkeys killed demons wearing armours and ornaments. Some killed valiant
 demons, sitting or standing in chariots and also those demons mounted on elephants and horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2370,8 +2276,6 @@ their eyes ejected out; *petushcha* = fell down; *nedushcha* = and rared.
 
 Valiant monkeys struck the demons vehemently. Those foremost of demons trembled, as
 their bodies were attacked by mountain-peaks and blows of fists, down and roared.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2418,8 +2322,6 @@ their bodies were attacked by mountain-peaks and blows of fists, down and roared
 
 Those demons also pierced the foremost of monkeys with sharp arrows, striking them
 with spears mallets, swords, javelins and lances.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2466,8 +2368,6 @@ with a desire to conquer each other.
 
 There, the monkeys and demons having their limbs smeared with the blood of their
 foes, mowed each other with a desire to conquer each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2514,8 +2414,6 @@ mountains; *khaDgaishcha* = and swords; *hariraakSasaiH* = of monkeys and demons
 
 Thereupon, within an instant, the battle-field became dampened with blood and
 covered by the mountains and swords thrown by the monkeys and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2565,8 +2463,6 @@ colossal forms; *abhimarditaiH* = devastated; *vikiirNasH* = and scattered.
 
 Then the battle-field became filled with dead bodies of demons, who had an ardent
 passion for battle, having their colossal bodies devastated and scattered all over.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2618,8 +2514,6 @@ wonderful; *yuddham* = combat; *aN^gaiH* = with their limbs (like arms and legs)
 The demons, already thrown down and still being thrown down, with their spears
 broken by the monkeys at that time, approached the monkeys and carried out a wonderful combat with
 their limbs, arms and legs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2666,8 +2560,6 @@ the demons; *raakSasaireva* = with the very demons.
 
 Those foremost of demons struck the monkeys with their own corpses and the monkeys
 also struck the titans with their own dead bodies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2714,8 +2606,6 @@ shastraaNi* = their weapons; *jagnuH* = struck; *rakShaamsi* = the titans.
 
 Then, grabbing the rocks and mountains, those titans struck the monkeys with them.
 The apes too, snatching away their weapons, struck the titans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2764,8 +2654,6 @@ fractured; *parasparam* = each other; *shailashR^iN^gaiH* = with crags;
 
 The monkeys and demons fractured each other with crags and made a noise with lion's
 roars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2812,8 +2700,6 @@ with their armours broken; *hataaH* = as struck; *vaanaraiH* = by the apes;
 
 The titans, having their armours broken, as struck by the apes, emitted blood at
 that place, like trees oozing their sap.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2860,8 +2746,6 @@ with chariots; *vaaraNaam* = elephant; *vaaraNenaapi* = with the very elephants;
 
 Some monkeys in the battle-front destroyed chariot with chariots, elephants with the
 very elephants and horse by the very horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2909,8 +2793,6 @@ head; *bhallaishcha* = and those with spear-like head.
 
 The titans broke the trees and rocks of monkey-chiefs with their sharp arrows with
 their hoe-shaped head, those arrows with crescent-shaped head and those with spear-like head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -2961,8 +2843,6 @@ _________________
 
 The battle-field, filled with those mountains, broken trees and dead bodies of apes
 and titans, became difficult to be traversed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3018,8 +2898,6 @@ monkeys; *garvita hR^iShTacheShTaaH* = with their thrilled martial acts full of 
 Reaching the battle-field and abandoning their fear, all those monkeys, with their
 thrilling martial arts full of pride, nay, who were having various weapons (like trees, rocks,
 teeth and nails) and unrepressed in spirit, carried out battle with the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3073,8 +2951,6 @@ which commenced; *raakShaseShu* = and the demons; *nipaatyamaaneShu* = falling d
 
 Seeing the monkeys rejoicing in that tumultuous battle which commenced and the
 demons falling down, the great sages and troop of celestials emitted shouts of triumph.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3133,8 +3009,6 @@ terrific; *vaanarasainyam* = army of monkeys; *niinaH iva* = as a fish;
 
 Meanwhile, mounting on a horse having speed equal to the wind, and taking a barbed
 javelin, Narantaka entered the terrific army of monkeys, as a fish entering the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3195,8 +3069,6 @@ foremost of monkeys.
 That valiant and mighty Narantaka, the enemy of Indra, single-handedly within an
 instant, rent asunder seven hundred monkeys with that shining javelin and killed that army of the
 foremost of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3243,8 +3115,6 @@ pR^iSTa pratiShThitam* = seated on the back of horse; *charantam* = and wanderin
 
 Vidyadharas, the super natural beings and great sages, saw the mighty Narantaka,
 seated on the back of a horse and hacking a path way for himself through the army of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3286,8 +3156,6 @@ along with (heaps of dead bodies) of monkeys; *patitaiH* = fallen down;
 
 His path-way was covered with a mire of flesh and blood, along with heaps of
 fallen-down dead-bodes of monkeys, looking like hills.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3308,8 +3176,6 @@ the eagle; *pannagaaniva* = eradicates the serpents.
 
 "You stay on, O monarch! I will set out and eradicate your enemies in battle, as
 Garuda the eagle eradicates the serpents."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3359,8 +3225,6 @@ overtook; *nirbibheda* = and cleaved; *etaan* = them.
 
 Whenever the foremost of the monkeys thought of showing their valour, so often
 Narantaka overtook and cleaved them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3411,8 +3275,6 @@ uplift; *vR^ikShaan* = the trees; *shailaan* = and the mountains;
 He burn away the army of monkeys, as the fire burns away the forests. Even before
 the monkeys get time to uplift the trees and mountains, the javelin struck them and they fell down,
 as mountains riven by lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3484,8 +3346,6 @@ a rainy season.
 That mighty Narantaka, the destroyer of men, roamed in all directions in the
 battle-field, holding up his shiny javelin, ravaging in all directions like the wind ravaging the
 earth in a rainy season.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3533,8 +3393,6 @@ what manner; *spanditum* = to move?; *viiryavaan* = that strong Narantaka;
 
 Narantaka, a single demon, equal to so many demons, struck the armies of mokeys with
 his javelin, having the sun's splendour and they fell down on the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3584,8 +3442,6 @@ splendour; *(they) nipetuH* = fell down; *dharaNiitale* = on the earth.
 
 Narantaka, a single demon, equal to so many demons, struck the armies of mokeys with
 his javelin, having the sun's splendour and they fell down on the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3632,8 +3488,6 @@ the javelin; *vajra niShpeSha sadR^isham* = which was like the striking of a thu
 
 Those monkeys were unable to tolerate the down-onslaught of the javelin, which was
 similar to the striking of a thunderbolt and they shouted with a great uproar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3680,8 +3534,6 @@ thunderbolt.
 
 The images of the falling monkeys were flashing like those of falling mountains,
 with their peaks shattered by a thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3729,8 +3581,6 @@ Kumbhakarna; *te* = those; *vaanarashreShThaaH* = foremost of monkeys;
 
 Those great-souled and the foremost of monkeys, who were earlier thrown down by
 Kumbhakarna, regained their self and approached Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3777,8 +3627,6 @@ were tormented of the fear of Narantaka.
 
 That Sugreeva, while looking on, saw the army of monkeys running away hither and
 thither, as they were tormented of the fear of Narantaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3825,8 +3673,6 @@ thither, as they were tormented of the fear of Narantaka.
 
 To that Sugreeva who was seeing his army running away, Narantaka appeared, coming
 seated on the back of a horse, holding a javelin in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3873,8 +3719,6 @@ Angada; *shakratulya paraakramam* = having a prowess equal to Indra.
 
 After seeing Narantaka, the vastly splendoured Sugreeva, the king of monkeys spoke
 thus, to Angada, the valiant prince, having a prowess equal to Indra's (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -3916,8 +3760,6 @@ isau* = and who; *aasthitaH* = mounted; *tuvagam* = a horse.
 
 "Go out and quickly detach the lives of this valiant demon, who is riding a horse
 and consuming the army of his enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3970,8 +3812,6 @@ a cloud.
 
 Hearing the words of Sugreeva his sovereign, that valiant Angada then came bouncing
 from his army, as the sun coming out of a cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4018,8 +3858,6 @@ mountain; *sadhaatuH* = with its metallic streaks.
 
 Angada the excellent of monkeys, resembling a rocky mass, wearing bracelets on his
 upper arms, looked brilliant like a mountain with its metallic streaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4066,8 +3904,6 @@ Narantaka; *abraviit* = spoke; *vachaH* = (the following) words:
 
 Angada the son of Vali, bereft of arms but only nails and teeth besides having a
 great splendour, approached Narantaka and spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4117,8 +3953,6 @@ a thunderbolt; *asmin mama urasi* = towards this; my chest.
 
 "Stop! What can you do with these common monkeys? Throw your javelin, having the
 sensation equal to a thunderbolt, towards my chest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4204,8 +4038,6 @@ Hearing the words of Angada, Narantaka was very much enraged. The enraged Narant
 tightly biting his lip with his teeth, hissing like a serpent, approaching Angada and firmly
 holding that highly radiant javelin, then quickly released it towards Angada. That javelin broke
 against Angada's chest, that was as hard as a diamond and fell to the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4246,8 +4078,6 @@ struck; *muurdhini* = on the head; *turangamasya* = of the horse.
 
 Then seeing his javelin shattered, like a serpent whose powerful coils were cut off
 by Garuda the eagle, Angada stretched out his palm and struck the head of the horse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -4268,8 +4098,6 @@ though born; *punaH* = anew; *kaalachoditaH* = as summoned by Death.
 
 Hearing the words of Trishira, Ravana the king of demons considered himself as
 though born anew, after being summoned by Death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4328,8 +4156,6 @@ tongue come out; *nipapaata* = fell down; *bhuumau* = on the earth.
 
 That mountain-like Narantaka's horse, struck by a blow of the palm, had its head
 shattered, feet broken, eyes and pupils put out and tongue come out. It fell down on the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4384,8 +4210,6 @@ head; *yudhi* = in the battle.
 
 Seeing his horse fallen down dead, Narantaka was enraged. Raising his fist, that
 exceedingly powerful Narantaka in battle struck Angada on his head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4441,8 +4265,6 @@ he was surprised.
 Then, Angada having his head shattered by the blow of the fist, heavily oozed out
 very hot blood, repeatedly felt a burning sensation and swooned. On regaining consciousness, he was
 surprised.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4501,8 +4323,6 @@ Narantaka.
 
 Thereupon, the great-souled Angada, the son of Vali, clinching his fist and then
 with a force equal to death, rushed it against the chest of Narantaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4557,8 +4377,6 @@ gaatraaH* = and with his limbs smeared by blood; *saH naraantakaH* = that Narant
 Having his chest deeply sunk back by that fist-blow, giving out flames and with his
 limbs smeared by blood, that Narantaka fell down as a mountain is broken up by the fall of a
 thundr-bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4613,8 +4431,6 @@ in the sky.
 
 When that Narantaka of great prowess was killed by Angada in battle, the chiefs of
 celestials and the monkeys too then emitted a great roar of triumph in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 </details>
 
@@ -4675,8 +4491,6 @@ became; *harShitaH* = enthusiastic; *yuddhe* = in battle.
 Then, that Angada, who showed that forcible means, which was very difficult to do,
 and which rejoiced Rama's intellect. So much so, Angada too was surprised. Thereupon Angada, of
 terrible acts, was infused with vigour and again showed enthusiasm in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

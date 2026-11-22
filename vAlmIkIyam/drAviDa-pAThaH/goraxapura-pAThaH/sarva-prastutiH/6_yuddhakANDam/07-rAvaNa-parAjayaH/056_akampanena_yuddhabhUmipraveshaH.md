@@ -17,8 +17,6 @@ Akampana enters the battle-field and assails the monkeys with his bow and arrows
 Then, Hanuman comes to the rescue of the monkeys. A great fight ensued between Akampana and
 Hanuman. Hanuman strikes the head of Akampana with a huge tree and Akampana dies. All the demons
 take to their heels and return to Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ chiefs of monkeys; *yudhi* = in the battle; *akampanaH* = Akampana;
 
 Seeing that very great exploit executed by the chiefs of monkeys in the battle,
 Akampana was seized with a fierce anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -155,8 +151,6 @@ demons; *raNe* = in the battle; *praapaya* = get; *ratham* = the chariot;
 
 "Drive the chariot quickly to that place, for, those monkeys are killing innumerable
 demons on the battle field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -203,8 +197,6 @@ who are strong; *bhiimakopaashcha* = with terrific anger; *druma shaila praharaN
 
 "Those arrogant monkeys of terrific ferocity, armed with trees and rocks, dare to
 affront me here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -255,8 +247,6 @@ them.
 
 "I wish to kill those andicious monkeys, who are seen herassing all the army of
 demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -304,8 +294,6 @@ from a distance.
 
 Thereafter, in his chariot, drawn by fast-moving horses, Akampana the most skillful
 of chariot-warriors, with a hail of darts, assailed the monkeys from a distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -353,8 +341,6 @@ punaH* = how much less; *yuddhum* = to fight; *sarve eva* = all of them;
 
 The monkeys were no longer able to maintain their formation, much less fight in the
 battle. all of them were crushed under the shifts of Akampana and took to their heels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -401,8 +387,6 @@ companions; *aapannaan* = getting; *mR6ityu vasham* = under the sway of death;
 
 Seeing those companions, getting under the sway of death pursued by Akampana's
 darts, the mighty Hanuman went to their rescue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -449,8 +433,6 @@ the giant monkey; *sarve* = all; *te* = those; *viiraaH* = valiant;
 
 Seeing Hanuman their great leader, all those valiant and the best of the monkeys
 together rallied and grouped themselves boldly round him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -500,8 +482,6 @@ excellent monkeys; *upaashritaaH* = took shelter; *balavantam* = in his powerful
 
 Observing Hanuman's courage, those excellent monkeys took shelter in his
 powerfulness and became powerfulness and became powerful indeed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -548,8 +528,6 @@ remained as firm; *shailaabham* = as a rock.
 
 Akampana, like Mahendra the Lord of celestials, assailed a hail of arrows on
 Hanuman, who remained as firm as a rock.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -596,8 +574,6 @@ the mighty; *kapiH* = Hanuman; *manaH dadhre* = resolved in his mind;
 
 Heedless of the flood of weapons that fell upon his body, the mighty Hanuman
 resolved in his mind to slay Akampana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -647,8 +623,6 @@ demon; *mediniim* = causing the earth; *kampayanniva* = to shake as it were.
 
 Laughing heartily , that Hanuman, the son of Maruta the wind-god and possessing a
 great splendour, leapt on the demon, causing the earth to shake as it were.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -695,8 +669,6 @@ iva* = like a blazing fire; *atha* = thereafter.
 
 As he roared burning with energy, the form of Hanuman became difficult to overpower,
 like a blazing fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -743,8 +715,6 @@ monkey; *krodha saman votaH* = with anger; *utpaaTayaamaasa* = uplifted;
 
 Knowing himself to be bereft of any weapon, Hanuman the excellent monkey, with a
 rage, uplifted a mountain quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -791,8 +761,6 @@ paaNinaa* = with one hand; *vinadye mahaanaadam* = letting up a roar;
 
 That valiant Hanuman, seizing a very great mountain with one hand and letting up a
 roar, began to spin it rapidly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -839,8 +807,6 @@ roar, began to spin it rapidly.
 
 Thereafter, as formerly in an encounter Indra the Lord of celestials hurled his
 thunderbolt at Namuchi, Hanuman rushed towards Akampana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -887,8 +853,6 @@ mighty arrows; *ardhachandraiH* = each having the shape of a crescent.
 
 Beholding that crag flying towards him, Akampana shattered it even from a distance
 by means of his great crescent-shaped arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -938,8 +902,6 @@ Hanuman; *krodha muurchhitaH* = became mad with anger.
 
 Seeing that rocky peak shatterd in the air by the demon's arrows and falling in
 pieces, Hanuman became mad with anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -986,8 +948,6 @@ of rage that possessed him; *saH* = that; *hariH* = Hanuman; *utpaaTayaamaasa*
 
 Approaching an Ashwakarna tree as large as a mountain, in the transport of rage that
 possessed him, that Hanuman uprooted it speedily.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1038,8 +998,6 @@ the ground.
 
 Taking hold of that Ashvakarna tree with large branches, in his great strength,
 Hanuman with immense delight spinned it, while standing on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1090,8 +1048,6 @@ with his feet.
 
 Then, the highly enraged Hanuman began to run with great strides, breaking down the
 trees by his strength and tearing up the earth with his feet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1138,8 +1094,6 @@ and the terrific; *padaatigaan* = infantry; *raakSasaan* = of demons.
 
 Hanuman struck down elephants as also who rode upon them and charioteers with their
 chariots and the terrific infantry of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1189,8 +1143,6 @@ wrath; *sadrumam* = aimed with a tree; *praNahaariNam* = and taking off lives;
 
 Seeing that Hanuman, like unto Yama the Destroyer of vital Breaths, full of wrath
 armed with a tree and taking off lives, the demons took of flight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1241,8 +1193,6 @@ up a mighty shout.
 
 The valiant Akampana, beholding that Hanuman who was enraged and rushing on, sowing
 terror among his soldiers, was greatly perturbed and set up a mighty shout.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1292,8 +1242,6 @@ nirbibhedha* = pierced that tore the body; *mahaa viiryam* = the highly valiant;
 
 With fourteen sharp arrows that tore the flesh, that Akampana pierced the highly
 valiant Hanuman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1343,8 +1291,6 @@ mountain; *pravuuDhaH* = on which number of plants sprang up.
 
 Riddled with sharp-pointed shafts, that warrior Hanuman appeared like a mountain on
 which a number of plants shooted up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1385,8 +1331,6 @@ resembling an Ashoka tree in flowering.
 
 That mighty Hanuman of great strength with a large body shone like a fire without
 smoke and resembled a blooming Ashoka tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1429,8 +1373,6 @@ smoke and resembled a blooming Ashoka tree.
 
 Thereafter, showing a great haste in uprooting another tree, Hanuman struck the head
 of Akampana the General of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1451,8 +1393,6 @@ anger; *dhunvan* = and moving; *parama kaarmukam* = his great bow; *abraviit*
 
 Witnessing that work of the enemies, his features were distorted by anger and
 brandishing his powerful bow, Akampana addressed his charioteer in these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1499,8 +1439,6 @@ the high-souled; *saH* = that; *raakSasaH* = demon; *papaata* = fell down;
 
 Struck with a tree by that high-souled and enraged Hanuman, that demon fell down and
 died.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1547,8 +1485,6 @@ perturbed; *drumaaH iva* = as trees; *kSitikampe* = during an earth-quake.
 
 Seeing their leader Akampana lying lifeless on earth, all the demons trembled as the
 trees do during an earthquake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1596,8 +1532,6 @@ monkeys.
 
 All those defeated warriors, throwing their arms, escaped in the direction of Lanka,
 terrified, pursued by those monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1647,8 +1581,6 @@ those demons; *vipradudruvuH* = fled; *shvasantaH* = blowing out their breaths.
 
 Their hair loosened, bewildered, their pride broken by defeat, their limbs dripping
 with sweat, those demons fled, blowing out their breaths.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1695,8 +1627,6 @@ again; *pramathnantaH* = crushing; *anyonyam* = each other; *te* = they;
 
 Mad with fear, looking back again and again and crushing each other in haste, they
 entered the city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1743,8 +1673,6 @@ entered; *laNkaam* = Lanka; *sarve* = all; *mahaabalaaH* = the mighty;
 
 When those demons had entered Lanka, all the mighty monkeys approached Hanuman and
 paid homage to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1791,8 +1719,6 @@ sampannaH* = of noble nature; *sampratya puujayat* = honoured; *sarvaan* = all;
 
 That Hanuman, of noble nature honoured all those delighted monkeys, in accord with
 their rank and the occasion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1839,8 +1765,6 @@ and once again; *chakR^iSushcha* = dragged; *raakSesaan* = the demons;
 
 The triumphant monkeys shouted in accord with their nighty and once again dragged
 the demons who were still alive there on the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1896,8 +1820,6 @@ destroying his enemies; *chamuumukhe* = in the forefront of the battle.
 That great monkey, born of Maruta having encountered and killed the demons, enjoyed
 the same renown as Vishnu when he overcame the mighty and terrific demon of immense power
 destroying his enemies in the forefront of the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 </details>
 
@@ -1952,8 +1874,6 @@ the mighty; *vibhiiSaNashchaiva* = Vibhishana; *apuujayam* = paid homage;
 
 Then, the troops of deities along with Rama himself, the exceedingly strong
 Lakshmana, Sugreeva and other monkeys and the mighty Vibhishana paid homage to Hanuman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga56/yuddhasans56.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

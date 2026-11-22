@@ -17,8 +17,6 @@ Descending from the sky, Vibhishana seeks refuge at the feet of Rama. On Rama's
 enquiry, he explains about the strength of Ravana. Rama promises to kill Ravana and anoints
 Vibhishana. Rama sits on the sea -shore, seeking the help of the ocean god to yield a passage for
 his army to pass through and reach the city of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ earth.
 
 While the assurance of protection having been given to Rama, the highly sagacious
 Vibhishana the brother of Ravana bent down and glanced towards the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -158,8 +154,6 @@ the following words; *yuktamcha* = which were right; *saapratam* = suitable;
 
 Thereafter, Vibhishana along with the four demons fell prostrate and spoke to Rama
 the following words which were equitable suitable and delightful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -206,8 +200,6 @@ who are the refuge; *sarvabhuutaanaam* = for all the beings.
 
 "I am the younger brother of Ravana and was humiliated by him. I sought refuge in
 you, who are the refuge for all the beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -254,8 +246,6 @@ disposal; *jiivitam* = my life; *sukhaanicha* = and happiness too.
 
 "Abandoning Lanka, friends and possessions, I place my kingdom, life and happiness
 at your disposal."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -330,8 +320,6 @@ me; *tattvena* = really; *balaabalam* = the strengths and weaknesses;
 Hearing those words of Vibhishana, Rama in a soothing tone and with a refreshing
 look in his eyes, spoke these words: "Tell me really the strengths and weaknesses of the
 demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -348,8 +336,6 @@ demons."
 
 Thus asked then by Rama who was unwearied in action, Vibhishana started telling
 about the detailed strength of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -390,8 +376,6 @@ special boon given; *svayambhuvaH* = by Brahma (the lord of celestials);
 
 "O, prince! Because of a special boon given by Brahma (lord of creation), Ravana can
 not be killed by all beings, Gandharvas (celestial musicians), serpents, and birds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -433,8 +417,6 @@ not be killed by all beings, Gandharvas (celestial musicians), serpents, and bir
 
 Kumbhakarna, my elder brother born after Ravana, who is valiant and highly powerful,
 has enough strength to fight against Indra (Lord of celestials) in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -481,8 +463,6 @@ Prahasta; *shrutaHyadi* = is it mentioned; *te* = to you?
 
 "O, Rama! You might have heard about Prahasta, his chief of army. He defeated
 Manibhadra in a battle on the mountain of Kailasa."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ field.
 "When furnished with gloves made of the skin of Iguana (to prevent injury from the
 bowstring) and when clad in armor that no arrow can pierce, that Indrajit (son of Ravana) standing
 in battle wielding a bow, becomes invisible."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -581,8 +559,6 @@ array (on both sides)
 
 "O, Rama! The glorious Indrajit, having propitiated the God of Fire, strikes his
 enemy while remaining invisible in the battle field with a huge battle array (on both sides)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -629,8 +605,6 @@ enemy while remaining invisible in the battle field with a huge battle array (on
 
 "Mahodara and Mahaparsva along with a demon called Akampana who are equal to the
 guardians of the world in battle - they are the commanders of his army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -680,8 +654,6 @@ and eat flesh and blood as their staple food.
 
 "In the city of Lanka, are residing ten thousand crore demons, who can assume any
 form at will and who consume flesh and blood as their staple food"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -697,8 +669,6 @@ defeated; *raavaNena* = by Ravana; *duraatmanaa* = the wicked one.
 
 "King Ravana along with those demons made war against the guardians of the earth.
 Those guardians of the earth along with the celestials were defeated by the wicked Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ words; *vibhiishhaNasya* = of Vibhishana; *raghusattamaH* = Rama;
 
 Hearing the aforesaid words of Vibhishana, Rama scrutinized them all attentively and
 spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -793,8 +761,6 @@ spoke the following words:
 
 "O, Vibhishana! I indeed know those feats standing to the credit of Ravana, which
 were told by you, as true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -838,8 +804,6 @@ saprahastam; along with Prahasta; *sahaatmajam* = and his son(Indrajit);
 
 "After killing Ravana along with Prahasta and his son (Indrajit), I will make you
 the king. Hear this truth from me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -881,8 +845,6 @@ left; *jiivan* = alive; *me* = by me.
 "Ravana may well plunge into Rasaatala (the penultimate subterranean region) or even
 Paataala (the nethermost subterranean region) or seek the presence of Brahma and he will not be
 left alive by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -933,8 +895,6 @@ baandhavam* = together with his sons; companions and relatives; *samkhye* = in b
 
 "I will not enter Ayodhya without killing Ravana together with his sons, companions
 and relatives in battle. I take oath on my three brothers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -982,8 +942,6 @@ following words):
 
 Hearing the words of that Rama, who was unwearied in action, the right minded
 Vibhishana saluted him by bowing his head and started telling as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1033,8 +991,6 @@ _________________
 
 "I will extend my help in killing the demons and in attacking the city of Lanka.
 According to my strength, I will also penetrate into the army of the adversary to fight."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1093,8 +1049,6 @@ the sea"
 
 Rama on his part, duly delighted, embraced Vibhishana who was speaking as aforesaid
 and spoke to Lakshmana as follows: "Bring some water from the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1110,8 +1064,6 @@ a king; *rakshhasaam* = of demons; *mayi* = I am; *prasanne* = pleased.
 
 "O, Lakshmana who bestows honor on others! Quickly consecrate as a king of demons
 this greatly intelligent Vibhishana with that water, so that I am pleased."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1155,8 +1107,6 @@ _________________
 
 Hearing Rama's words, Lakshmana consecrated Vibhishana as a king, as per the royal
 instructions, amidst the leaders of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1178,8 +1128,6 @@ Rama.
 
 The virtuous Vibhishana descended joyously from the sky to the ground along with his
 faithful companions and alighted in the vicinity of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1226,8 +1174,6 @@ saadhu* = Excellent; *excellent" mahaatmanaam* = about the high soled Rama.
 
 Perceiving that instant graciousness in Rama, the monkeys cried, proclaiming
 "excellent, excellent" about the high soled Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1284,8 +1230,6 @@ by all of us; *parivR^ite* = surrounded; *sainyaiH* = with the army;
 Hanuman and Sugreeva asked Vibhishana as follows: " How can we cross the
 imperturbable ocean, the habitation of Varuna, the god of water by all of us along with our army of
 monkeys possessing a great splendor?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1332,8 +1276,6 @@ strategy.
 
 "In what manner shall we along with the army swiftly cross the sea, the lord of
 streams and rivers, and arrive at that strategy?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1380,8 +1322,6 @@ obtain; *sharaNam* = refuge; *samudram* = from the sea."
 
 Hearing their words, the right minded Vibhishana replied as follows: "It is apt if
 prince Rama seeks ocean as his refuge"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1433,8 +1373,6 @@ will be inclined to do the act for Rama, his kinsman".
 **टिप्पनी**
 
 *Sagara was one of Rama's ancestors. His story is told in Balakanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1484,8 +1422,6 @@ thus; *raakshhasena* = by the demon; *vibhiishhaNena* = Vibhishana;
 
 Hearing the aforesaid words of the learned demon Vibhishana, Sugreeva came to the
 place where Rama and Lakshmana were there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1527,8 +1463,6 @@ passage).
 
 The long necked Sugreeva then started to tell the auspicious words of Vibhishana,
 advising Rama to approach the ocean (to allow him a passage).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1607,8 +1541,6 @@ That advice found favor with Rama who by nature is of pious attitude. Then that
 highly illustrious Rama replied to Sugreeva, the ruler of monkeys who was skillful in action and
 who was accompanied by Lakshmana. Full of respect for Vibhishana's words, he told him as also his
 brother Lakshmana smilingly as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1628,8 +1560,6 @@ agreeable.
 "O, Lakshmana! This idea of Vibhishana is agreeable to me. Sugreeva is a learned
 person. You are ever wise in your thoughts. Both of you decide on the matter and inform whichever
 is agreeable to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1679,8 +1609,6 @@ valiant; *uuchutuH* = spoke; *idam* = these; *vachanam* = words;
 
 Hearing Rama's words, Sugreeva and Lakshmana both, valiant as they were, spoke with
 proper courtesy, the following words: .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1727,8 +1655,6 @@ Na kimartham = why not; *vibhiishhaNena* = Vibhishana's; *uktam* = words;
 
 "O, Rama the tiger among men! Why not Vibhishana's words, which are soothing at this
 time of crisis be agreeable also to us?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1775,8 +1701,6 @@ not; *aasaaditum* = reach; *laNkaa* = the city of Lanka.
 
 "Without constructing a bridge across this fiery ocean, which is an abode of Lord
 Varuna, even the celestials and demons along with Indra cannot reach the city of Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 </details>
 
@@ -1847,8 +1771,6 @@ city; *raavaNapaalitaam* = being ruled by Ravana.
 "Let the valiant Vibhishana's words be followed suitably. It is enough that we have
 already wasted our time. Let the ocean be commanded to yield a passage for the army to reach the
 city being ruled by Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

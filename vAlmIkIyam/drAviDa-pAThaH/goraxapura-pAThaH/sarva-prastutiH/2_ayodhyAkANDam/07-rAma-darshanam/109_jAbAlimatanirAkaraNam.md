@@ -18,8 +18,6 @@ truthfulness. He states that truth is God and all virtues follow truthfulness. R
 that there is nothing higher than truth. He announces that he wants to fulfil the command of is
 father, who was a devotee of truth and stay back in the forest. Jabali replies that just for the
 sake of convincing Rama to return to Ayodhya, he has spoken the words of a non-believer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ own.
 
 After hearing Jabali's words, Rama the best among virtuous and upright men spoke
 with a great devotion and with an undisturbed mind of his own (as follows);
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ agreeable one.
 
 "That which, in your desire to please me, you have counselled, is impossible though
 it appears to be possible. It is like a forbidden food, appearing to be an agreeable one."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ labhate* = does not gain; *maanam* = respect; *satsu* = from honest men.
 
 "He who is unruly, fully invested with ill-conduct, having a bad reputation and
 seeing differences in everything, does not gain respect from honest men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ bad family; *viiram* = a valiant man; *viiram* = a valiant man;
 
 "One's conduct itself explains whether one belongs to a good family or a bad family,
 valiant or arrogant and chaste or unchaste."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ would respect me, if I am ignoble resembling as noble, bereft of honesty, impure
 qualities but appearing like the one having good qualities, ill-behaved but appearing as
 well-behaved abandoning righteousness and getting hold of unrighteousness in the guise of piety,
 creating confusion in the world and disregarding rules of conduct."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -350,8 +338,6 @@ whom; *daasyaami* = can I give; *vR^ittam* = good conduct? kena = by which;
 
 "If I behave in this manner faithlessly, to whom can I advise a prescribed conduct?
 How would I attain heaven?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -401,8 +387,6 @@ tadvR^ittaaH = such will be the conduct; *prajaaH* = of their subjects.
 
 "This entire world would follow its own whims, for, whatever the conduct of the
 kings may be, such will be the coduct of their subjects."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -450,8 +434,6 @@ in truth.
 
 "The eternal royal governance is indeed an assemble of truth and not cruel. Hence,
 the kingship has the Truth as its essence. The world is established in Truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -498,8 +480,6 @@ beings; *satyamev* = truthfulness alone; *satyavaadii* = the one who speaks trut
 
 "Even sages and divine being have respected truthfulness alone. The one who speaks
 truth obtains the highest position in this world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -547,8 +527,6 @@ heaven.
 
 "People fear of a person, who speaks untruth, as one fears a snake. Truth is the
 highest virtue and is stated to be the origin of heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -596,8 +574,6 @@ attaches herself to; truth; *sarvaani* = All; *satyamuulani* = are rooted in tru
 
 "Truth is god and all virtues follow truth. All are rooted in truth there is nothing
 higher than truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -645,8 +621,6 @@ surrender to truth.
 
 "Gift sacrifice, oblation, austerities performed and the scriptural texts have the
 foundation in Truth. Hence, one should thoroughly surrender to truth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -693,8 +667,6 @@ rises high; *svarge* = to heaven; (according to the degree of truthfulness pract
 
 "One rules over the world. One develops a race. One sinks into hell . One rises high
 to heaven (according to one's degree of truthfulness practiced)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -741,8 +713,6 @@ which was a devotee satyam = of truth.
 
 "I am true to my promise. Why should I not fulfilll the command of my father, who
 was a devotee of truth?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ bhetsyaami* = cannot demolish; *setum* = the bond; *satyasya* = truth;
 
 "Neither covetousness nor forgetfulness nor pride would cause me to destroy the bond
 of morality. I shall honour the vow made to my father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -839,8 +807,6 @@ chestasaH* = and unstable in mind; *iti* = this; *shrutam* = is what is taught;
 
 "Neither gods nor the manes will accept the offerings of those who are wanting in
 truth, unsteady and unstable in their minds. This is what is taught to us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -888,8 +854,6 @@ been honoured; *satpuruSaiH* = by good men.
 
 "I perceive this virtue i the form of truthfulness as a universal permeation of
 spirit. That is why, this burden, observed as a vow, has been honoured by good men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -937,8 +901,6 @@ deeds.
 
 "I renounce the so-called duty of a warrior, it is injustice under the name of
 justice, it is practised by petty cruel and covetous men of evil deeds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -986,8 +948,6 @@ by the body; *sampradhaarya* = after it has been conceived; *manasaa* = by the m
 "Sin is committed by the body after it has been conceived by the mind and falsehood
 is spoken with the tongue. Thus, the degrading act is of three types (with body, mind and
 tongue)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1038,8 +998,6 @@ prosperity; *lakSmiiH* = and fortune; *praarthayanti hi* = indeed woo;
 
 "The earth, fame, prosperity and fortune indeed woo a man of truth. They constantly
 oblige the truth: truth should therefore be strictly observed!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1086,8 +1044,6 @@ be; *anaaryameva* = are really unworthy
 
 "The logical words, you have made it out to be good, saying 'Do this good thing' as
 uttered to me, are really unworthy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1133,8 +1089,6 @@ uttered to me, are really unworthy."
 
 "Having promised before my father about my exile to the forest, how can I fulfil
 Bharata's words now, abandoning the father's words?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1181,8 +1135,6 @@ queen Kaikeyi also; *abhavata* = became; *prahR^iSyamaaNaaH* = rejoiced.
 
 "A firm promise has been made by me in the presence of my father, when Queen Kaikeyi
 too became rejoiced."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1262,8 +1214,6 @@ forest, by remaining pure in body and mind, having controlled my diet, by feasti
 Ancestors with pure roots, flowers and fruits, with all my five senses fully sated, without any
 deceit, fully devout and discriminative of what ought to be done and what ought not to be
 done."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1315,8 +1265,6 @@ of fire; *vaayushcha* = the wind- god; *somashcha* = and the moon-god;
 "Having reached this terrestrial globe (the realm of action), only a virtuous act is
 to be undertaken. The god of fire, the wind-god and the moon-god reap the fruits of their
 acts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1364,8 +1312,6 @@ went; *divam* = to heaven.
 
 "Having performed ahundred sacrifices, Indra the Lord of celestials went to heaven.
 Having practised severe austerities, the great sages went to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1419,8 +1365,6 @@ tanunjaH* = that prince; *ugra tejaaH* = with a terrible energy; *amR^iSyamaaNaH
 
 Hearing that argument of atheism inuntiated by Jabali, Rama the prince with a
 terrible energy, without tolerating his words, spoke in reproach to him (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1466,8 +1410,6 @@ terrible energy, without tolerating his words, spoke in reproach to him (as foll
 
 "The virtuous say that truth, piety, valour, compassion for all beings, polite
 speech and worship of Brahmanas, gods and unexpected guests are the paths to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1523,8 +1465,6 @@ entirety; *yathaavat* = properly; *apramattaaH* = and attentively;
 "Therefore the learned, well-instructed in what is to be their greatest advantage;
 follow their purpose resolutely and fulfill their duty in its entirety properly and attentively,
 seeking to attain the highest realms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1584,8 +1524,6 @@ this type; *buddhyaa* = of intelligence; *sunaastikam* = a firm atheist;
 
 "I accuse the act done by my father in taking you into his service, you with your
 misleading intelligence, a firm atheist fallen from the true path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1655,8 +1593,6 @@ consort with an atheist."
 * It is the word that is responding to the chanllenge, which we call
 intellection. Truth/God is very subtle. A mind that is caught in the net of words/arguments cannot
 understand truth/God.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1717,8 +1653,6 @@ therefore; *dvijaaH* = Brahmanas; *hutamcha* = offer oblations in the sacred fiv
 "Men that lived before you have performed many auspicious acts, abandoning all hopes
 of reward in this world as well as the next. Therefore, Brahmanas offer oblations in the sacred
 fire and practise noble deeds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1774,8 +1708,6 @@ honoured; *loke* = in the world.
 "The sages who are devoted to righteousness, associating with men of virtue, endowed
 with spiritual splendour, practising abundant charity, harm-less and washed free of all taint, are
 honoured into the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1824,8 +1756,6 @@ and so on.
 "To the high-souled Rama, who never had self-pity and speaking indignantly as
 aforesaid, Jabali (that brahmana) replied in a fitting manner in words that were beneficial and
 truthful, which showed his belief in authority of Vedas, the other world and so on."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1873,8 +1803,6 @@ that nothing exists; *kimchana* = whatsoever; *samiikSya* = perceiving;
 "I am not speaking the words of non- believers. I am not an atheist, nor is it a
 fact that nothing exists whatsoever. Perceiving the time, I have become a believer. When the time
 comes, I will become again just a non-believer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 </details>
 
@@ -1929,8 +1857,6 @@ return (to Ayodhya).
 
 "O, Rama! That and this time too came gradually. The words of a non-believer were
 spoken by me for your sake, to pacify you and to persuade you to return to Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga109/ayodhyasans109.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

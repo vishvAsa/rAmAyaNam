@@ -19,8 +19,6 @@ Dasaratha. When Bharata enquired about Rama, Kaikeyi also discloses Rama's exile
 along with Sita and Lakshmana. She also narrates about the two boons she asked the king Dasaratha
 as well as how the king accepted her boons and sent Rama to exile. She further advises Bharata to
 meet the chief of Brahmans like Vasista and others to get himself crowned for the kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ father's; *aalaye* = palace; *jagaama* = went; *maatuH* = to his mother's;
 
 Not finding his father there in his father's palace, Bharata went to his mother's
 apartment to see his mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ apartment to see his mother.
 
 Beholding his son who was absent from home for long and returned, Kaikeyi was
 delighted and then sprang up, leaving her golden seat to receive him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ man; *pravishyaiva* = soon after entering; *svagR^iham* = his house;
 
 Soon after entering his house, which was devoid of any splendor, Bharata the
 righteous man, grasped the auspicious feet of his mother in obeisance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ lap; *upachakram* = to ask questions.
 
 Kaikeyi smelled (as mark of affection) the head of the illustrious Bharata, embraced
 him, made him to ascend on her lap and started questions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ _________________
 
 "How many days passed since you have left your maternal grand father's house? Is
 there no travel fatigue to you, who have come speedily in a chariot?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ tell; *me* = me; *sarvam* = all.
 
 "O,son! Is your grand father doing well? Is Yudhajit, your maternal uncle doing
 well? Were you happy in being absent from home ? Be good enough to tell me all?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ _________________
 
 Affectionately enquired thus by Kaikeyi, the lotus eyed bharata, the prince,
 narrated all to his mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -423,8 +407,6 @@ father's house; *ambaayaaH* = The mother's; *taataH* = father; *me* = and my;
 
 "It is seventh day to me today since I left the grand father's house. Yudhajit, your
 father as well as my maternal uncle are doing well"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -483,8 +465,6 @@ tired; *pathi* = on the way; *puurvam* = before; *tataH* = then; *aham*
 
 "Carrying the gifts and jewels, given to me by the king who annihilates enemies my
 followers became tired on the way and I arrived ahead of them"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -501,8 +481,6 @@ wishing; *prashhTum* = to ask.
 
 "I came soon because of the horridness communicated by royal messengers. Let my
 mother be good enough to tell that which I desire to ask her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -550,8 +528,6 @@ Ikshvaku race; *napratibhaati* = do not appear; *maa* = to me; *prahR^ishhTaH*
 
 "This couch of yours, which is fit for rest and decorated with gold, is empty. These
 men and women of Ikshvaku race do not appear to me to be cheerful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -602,8 +578,6 @@ to see (him)
 
 "King Dasaratha mostly used to here in your house. Now, I am not seeing him. I came
 here, desirous of seeing him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -651,8 +625,6 @@ senior most of my mothers?
 
 "O, mother! I will grasp in obeisance my father's feet. Tell about him, as I ask
 you. Or is he in the house of Kausalya the senior most of my mothers?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -701,8 +673,6 @@ as though it was delightful.
 Deluded by the greed for kingdom, Kaikeyi who knew everything closely, told the
 terribly unpleasant news to Bharata, who did not know anything, as though the news was
 delightful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ refuge; *sataam* = to good men; *gataH* = followed; *taam gatim* = that path;
 "King Dasaratha, your father who was having a noble nature, who was respect and
 performing frequent sacrifices as well as a refuge to good men followed that path which all beings
 follow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -800,8 +768,6 @@ tormented by the grief for his father.
 
 Bharata, a righteous man with a noble descent and an honest man, hearing that news ,
 immediately fell down on the ground, being exceedingly tormented by the grief for his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -818,8 +784,6 @@ heroic Bharata; *udiirayaan* = raising; *kR^ipaaNam* = his grievous; *diinam*
 
 The mighty armed and heroic Bharata, raising his grievous and depressed voice,
 cried, "Alas, I am undone' and lifting up his arms, fell down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -866,8 +830,6 @@ whose mind was troubled by reeling; *maraNa duHkhitaH* = as aggrieved by the dea
 
 Then, Bharata of great majesty, who was enveloped in grief and whose mind was
 troubled by reeling under the death of his father, lamented profusely.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -913,8 +875,6 @@ end of the rainy season.
 
 "These beautiful couch of my father earlier used to enhance its charm with his
 splendor, as the moon irradiates the stainless sky in the night at the end of a rainy season."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -930,8 +890,6 @@ bereft of glory; *vyomeva* = like the moon; *saagaraaH iva* = or like the sea;
 
 "Being unoccupied by my virtuous father, the same couch now is bereft of its glory,
 like the sky without the moon or like the sea with its water dried up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -979,8 +937,6 @@ tears; *kaNThena* = by lamentation; *pari piiDitaH* = with profound distress;
 
 Covering his lovely face with a raiment, Bharata the first of those who are
 victorious, with a proffond distress in his mind shed tears in lamentation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1038,8 +994,6 @@ Kaikeyi lifted up from the floor, her son Bharata, who was pained with sorrow,
 looking like a god, who fell on the ground like a sala tree, cut off by an axe, appearing like an
 elephant in rut, looking like the moon and sun,afflicted with grief as he was and spoke the
 following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1086,8 +1040,6 @@ down? SantaH = gentlemen; *tvadvidhaaH* = like you; *sammataa* = honoured;
 
 "O, the highly illustrious prince! Arise,arise! Why are you lying down? Gentlemen,
 like you, respected in the assembly of men, do not grieve indeed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1136,8 +1088,6 @@ sacrifice; (ever shining); *prabheva* = like a splendor; *mandire* = in the abod
 "O, Bharata endowed with understanding! Your intellect, which follows good character
 as well as sacred scriptures, has an authority to donate and sacrifice, ever shining as such like a
 splendor in the abode of the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1185,8 +1135,6 @@ over the floor; *pratyuvaacha* = and replied; *idam* = these words; *jananiim*
 
 Encircled by numerous afflictions, Bharata weeping for a long time , rolled over the
 floor and replied to his mother as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1236,8 +1184,6 @@ the king; *abhishhekshhyati nu* = was either anointing raamam = Rama; *yakshhyat
 
 "Making up my mind that the king was either going to anoint Rama as a prince regent
 or to perform a sacrifice, I cheerfully got into the journey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1285,8 +1231,6 @@ pieces.
 
 "All this turned to be otherwise. By not beholding my father, who was forever
 interested in my wishes and welfare, my heart is broken to pieces"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1337,8 +1281,6 @@ RaamaadayaH = Rama and others; *yaiH* = who; *svayam* = by themselves;
 
 "O, mother! On what ailment did the king die, when I was not here? Rama and others
 who performed purificatory rites by themselves for our father indeed fortunate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1386,8 +1328,6 @@ affection).
 
 "It is sure that the illustrious monarch does not know the fact of my arrival.
 Otherwise, my father quickly would have indeed smelled my head, by bending me in affection."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1438,8 +1378,6 @@ action?
 
 "Where is the caressing hand of my dear father of unwearied action wipe away the
 dust with which I am covered?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1487,8 +1425,6 @@ wise; *daasaH asmi* = I am a servant.
 
 "Announce soon about my arrival to Rama of immortal exploits, he who is a wise
 brother to me, my father, my friend and to whom Iam a servant."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1536,8 +1472,6 @@ refuge; *mama* = to me; *idaaniim* = now.
 
 "An elder brother indeed becomes a father for a faithful man who knows
 righteousness. I will grasp his feet in obeisance. He is indeed the refuge for me now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1592,8 +1526,6 @@ truthful; satyavikramaH; who was truly valiant; *aaryaH* = and who was honorable
 
 "What did my father the king, who know virtue , who was forever pious, who was true
 to his promise, who was strictly truthful, who was truly valiant and who was honorable, say?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1645,8 +1577,6 @@ accordance with truth:
 
 "I want to hear exactly the last message of my father to me." Thus requested by
 Bharata, Kaikeyi spoke the following words in accordance with truth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1663,8 +1593,6 @@ Lakshmana!
 
 That high soled king, who was excellent in understanding the Universal spirit,
 departed to the world, crying �O, Rama, O, Sita, O, Lakshmana!'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1711,8 +1639,6 @@ departed to the world, crying �O, Rama, O, Sita, O, Lakshmana!'
 
 "Your father spoke the following last words also, when he was abandoned by the
 operation of time , like a huge elephant surrendered into a trap."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1759,8 +1685,6 @@ Sita; *lakshhmaNamcha* = and Lakshmana; *mahaabaahum* = the mighty armed;
 
 "Those men who are able to see Rama returning Sita and the mighty armed Lakshmana
 are those who are fortunate enough"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1808,8 +1732,6 @@ mother; as follows)
 
 Hearing the aforesaid pronouncement, which disclosed second unpleasant news, Bharata
 was dejected. Becoming gloomy faced, he once again asked his mother as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1856,8 +1778,6 @@ virtuous man went;lakshhmaNena saha = along with Lakshmana; *bhraatraa* = the br
 
 "Where did the virtuous Rama, who augments Kausalya' s delight go now along with my
 brother Lakshmana and with Sita?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1904,8 +1824,6 @@ tattvam* = exactly; *priyashaNkayaa* = with an apprehension that they are pleasa
 
 Asked by Bharata in this manner, his mother started telling so greatly unpleasant
 words, exactly as it had happened, as though they were very pleasant words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -1952,8 +1870,6 @@ indeed went; *mahaavanam* = to the great forest; *daNDakaan* = of Dandaka;
 
 "O, son! He, that prince Rama, wearing long narrow pieces of bark, went indeed to
 the great forest of Dandaka, followed by Lakshmana and also sita."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2002,8 +1918,6 @@ ask (his mother as follows):
 Hearing these words, Bharata being aware of the glory of his race, doubted and
 fearedwhether Rama was sent to exile because of his unrighteous conduct, if any and again asked his
 mother as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2053,8 +1967,6 @@ kachchit* = indeed not harmed; *tena* = by him?
 
 "Has not Rama indeed stolen the wealth of some Brahmana? Has not he done any harm
 either to a rich or to a poor virtuous man?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2101,8 +2013,6 @@ expelled; *daNDakaaraN^ye* = to the forest of Dandaka?
 
 "Has the prince indeed not longed for the wife of another? Why was my brother Rama
 expelled to the forest of Dandaka?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2150,8 +2060,6 @@ of the case.
 
 Thereafter his mother, an unsteady woman, on account of her feminine nature began to
 narrate her act which was the exact state of the case.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2198,8 +2106,6 @@ thus; *bharatena* = by Bharata; *mahaatmanaa* = the virtuous man; *hR^IshhTaa*
 
 Kaikeyi, a fool thing herself to be learned, after hearing the queries of the
 virtuous Bharata, delightfully spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2256,8 +2162,6 @@ man; *raamaH* = Rama; *na pashyhyatyapi* = does not even look; *chakshhuryaam*
 "Not even a little of belonging to a Brahman was stolen by Rama,No harm was done by
 him either to a rich or to a poor virtuous man. Rama does not even look with his eyes, the wives of
 others."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2308,8 +2212,6 @@ _________________
 
 "O, son! Immediately on hearing decidedly about the coronation ceremony of Rama by
 me then, I asked your father to bestow kingdom to you and for banishment of Rama to the forest"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2362,8 +2264,6 @@ done; *tat* = that; *tathaa* = as requested by me; *raamashcha* = Rama;
 
 "Submitting to his own decree, King Dasaratha, your father has done all that was
 requested by me. Rama along with Lakshmana and Sita too were sent into exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2379,8 +2279,6 @@ requested by me. Rama along with Lakshmana and Sita too were sent into exile."
 
 "That beloved son having not been seen, the very celebrated monarch was made
 miserable by the grief for his son and obtained death"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2427,8 +2325,6 @@ miserable by the grief for his son and obtained death"
 
 "O, Bharata knowing righteousness! The king- ship may be taken charge by you now.
 All this was indeed done for your sake in this manner by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2470,8 +2366,6 @@ also; *anaamayam* = which is salubrious.
 
 "O, son! Do not dwell in grief and anguish. Dwell in courage. This city along with
 the salubrious kingdom indeed is subservient to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 </details>
 
@@ -2531,8 +2425,6 @@ know rituals; *samkalya* = performing purification rites; *shiigraam* = soon;
 "Hence, meet the chiefs of Brahmanas like Vasishta and others who know the rituals,
 perform soon the sacred rites to the king and become crowned as a king yourself to the earth, being
 not depressed in spirit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

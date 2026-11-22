@@ -16,8 +16,6 @@ title_english = "044 Ravana sends Jambumali"
 Ravana sends Jambumali, son of Prahasta, to capture Hanuma. Jambumali attacks Hanuma
 with his numerous arrows. Hanuma hurls a big rock towards Jambumali, but it fails to kill him. Then,
 Hanuma throws a big sal tree towards Jambumali and the latter succumbs to it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -123,8 +121,6 @@ eyes, the demon causing diseases, unconquerable in battle, a strong demon and th
 by Ravana, started stretching with rashness his big bow resembling a rain bow garnished splendorous
 arrows and which brilliance was similar to that of a lightening and produced a sound like that of a
 thunder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -140,8 +136,6 @@ thunder.
 
 The tumultuous sound created out of the twanging of that bow, soon filled up the quarters,
 intermediate points and the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ joy; *nanaadacha* = and made a noise too.
 
 Seeing him, arriving by a chariot yoked with donkeys, that Hanuma who was endowed with
 swiftness, was thrilled with joy and made a noise too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ standing on the top of the archy door-way.
 
 The long-armed Jambumali transfixed sharp arrows into that great monkey, Hanuma who was
 standing on the top of the archy door-way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -252,8 +242,6 @@ an ear-shaped top; *baahvoH* = and in the arms; *dashabhiH* = with ten; *vaaraac
 
 He transfixed Hanuma the leader of monkeys in the face with an arrow with a crescent-shaped
 head, on the head with an arrow having an ear-shaped top and in the arms with ten steel arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -289,8 +277,6 @@ of the sun; *sharadi* = in autumn.
 
 That crimson face of Hanuma, hit by an arrow, shone like a full-blown lotus touched by
 a sun's ray in autumn.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -326,8 +312,6 @@ raktam* = which was naturally crimson in colour; *raN^jitam* = smeared; *raktena
 
 That face of Hanuma, which was naturally crimson in colour, smeared with blood, beamed
 like a large lotus in the sky sprinkled with drops of sandal.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -363,8 +347,6 @@ mahatiim* = of a very large measure.
 
 Hanuma, struck by those arrows, was enraged with that demon and then saw by his side,
 a big rock of a very large measure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -400,8 +382,6 @@ struck; *taam* = that rock; *dashabhiH* = with ten; *sharaiH* = arrows.
 
 Uplifting that rock with strength, the athletic Hanuma hurled it with force. The enraged
 demon then struck back that rock with ten arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -437,8 +417,6 @@ it around.
 
 Seeing that work in vain, the powerful Hanuma of terrific prowess, uprooted a very large
 sal tree and whirled it around.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -474,8 +452,6 @@ sal tree and whirled it around.
 
 Seeing the mighty Hanuma, whirling around the sal tree, the exceedingly strong Jambumali
 discharged numerous arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -511,8 +487,6 @@ space between the breasts; *dashabhiH* = with ten arrows.
 
 He splitted sal tree with four arrows and struck the arms of Hanuma with five arrows,
 in the chest with one arrow and in the space between the breast wit ten arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -548,8 +522,6 @@ whirled it around.
 
 Hanuma, with his body full of arrows, was highly enraged and taking the same iron rod
 as well as clasping it swiftly, whirled it around.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -585,8 +557,6 @@ as well as clasping it swiftly, whirled it around.
 
 Spinning the iron rod with a great speed, Hanuma, richly endowed with strength and highly
 agitated, threw it on the broad chest of Jamubumali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -622,8 +592,6 @@ agitated, threw it on the broad chest of Jamubumali.
 
 That Jambumali's head was not there, nor his arms, nor his knees, nor his bow, nor his
 chariot and nor his horses were seen nor his arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -659,8 +627,6 @@ and ornaments crushed to powder; *sahasaa* = was instantly; *nihataH* = killed; 
 
 Thus struck by Hanuma, the mighty Jambumali, with his limbs and ornaments crushed to
 powder, was instantly killed and fell dead on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 
@@ -714,8 +680,6 @@ powder, was instantly killed and fell dead on the ground.
 
 Hearing Jambumali having been killed, as also the mighty Kimkaras, Ravana was angry with
 his red enraged eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -732,8 +696,6 @@ much of strength and prowess; (to go to the battle).
 
 Since the mighty son of Prahasta was killed, that Ravana rolling his red eyes with rage,
 immediately ordered the sons of ministers possessing high strength and prowess, to go to the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
 </details>
 

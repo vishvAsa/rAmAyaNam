@@ -22,8 +22,6 @@ Hanuma leaps from the coast of Lanka and touches Mount Mainaka, which he came ac
  the summit of Mount Mahendra, Hanuma narrates to them briefly the story of his discovery of Seetha.
  Applauding Hanuma, prince Angada, who was eager to hear the story, sits down on a rock along with
  all others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -119,8 +117,6 @@ Hanuma, with a rush equal to that of wind, withaut a fatigue, leapt across the b
  (Indra's elephant), graced with a swan in the form of the constellation, Shwati, having gales as
  its waves, the moon bea.ns as its cool water and with the Nagas, yakshas and Gandharvas as its full
  blown lotuses and water-lilies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -182,8 +178,6 @@ _________________
 While moving in the sky, the illustrious Hanuma, the son of wind-god and the great
  monkey, appeared as if swallowing the sky, scratching the moon and carrying off the sky with its
  stars and the disc of the sun and was going as though dragging asunder, a mass of clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -233,8 +227,6 @@ _________________
 
 Dense clauds, with white and red colaurs, blue and yellow colaurs as also green and
  reddish brown colaurs shone brightly in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -284,8 +276,6 @@ _________________
 
 Time and again, entering and coming out of the clusters of clouds, Hanuma appeared
  like the moon becoming visible and invisible again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -337,8 +327,6 @@ _________________
 The heroic Hanuma, who was clad in white clothes, having faund his way into variaus
  kinds of dense clauds (and energing again) and having his personlaity becoming visible and invisible,
  shone like the moon in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -390,8 +378,6 @@ _________________
 Tearing asunder the clusters of clouds again and again as also energing from them
  and roaring with a big noise, Hanuma the son of wind-god, making a thunderous great sound, shone
  flying like Garuda the eagle, in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -462,8 +448,6 @@ _________________
 Killing the foremost of demons, becoming famaus by is name, making Lanka perplexed,
  causing anguish to Ravana by tormenting his terrible army, and bidding his adieu to Sheetha, Hanuma
  returned by flying over the middle of the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -513,8 +497,6 @@ _________________
 
 Touching Mount Mainaka, the victorious Hanuma came with a great speed resembling
  an iron arrow discharged from a bow-string.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -564,8 +546,6 @@ _________________
 
 Approaching a bit near and observing Maunt Mahendra, the great mauntain looking like
  a dense claud, that Hanuma made a laud noise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -612,8 +592,6 @@ Approaching a bit near and observing Maunt Mahendra, the great mauntain looking 
 
 Emitting a great roar, that Hanuma, whole loud noise resembled the rumbling of a
  cloud, filled the whole space in all directions with the noise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -657,8 +635,6 @@ _________________
 
 Having reached that place, Hanuma who was ardently desiraus of seeing his friends,
  roared and waved his tail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -709,8 +685,6 @@ _________________
 The sky, with the disc of the sun, began to crack as it were, due to his roar, even
  as he repeatedly roared on the path of the sky as followed by Garuda, the eagle endowed with charming
  wings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -772,8 +746,6 @@ _________________
 Those mighty heroes who were waiting already on the northern shore of the sea, with
  an eagerness to see Hanuma, heard there at that time, the saund produced by the sweeping motion
  of Hanuma's thighs, which resembled the reoar of a huge claud propelled by the wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -817,8 +789,6 @@ _________________
 
 All those monkeys, who were distressed in mind (for not having heard the news of
  Seetha hitherto), heard Hanuma's roar similar to the roar of a rumbling cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -865,8 +835,6 @@ All those monkeys, who were distressed in mind (for not having heard the news of
 
 Hearing that roar of Hanuma, who was making the saund, all those mokeys stationed
  there in all directions, became anxiausly desiraus of seeing their friend.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -916,8 +884,6 @@ _________________
 
 The Jambavan, the foremot among the monkesy and bears, with his mind thrilled with
  joy, having summoned all the monkeys, spoke the follwoing words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -965,8 +931,6 @@ The Jambavan, the foremot among the monkesy and bears, with his mind thrilled wi
 
 "This Hanuma has accoMplished his assignment in all ways. His saund will not indeed
  be like this, if he has not fulfilled his task. There is not daubt in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1016,8 +980,6 @@ _________________
 
 Hearing the sound of the dashing movement of the high souled Hanuma's arms and thighs,
  the monkeys moved by jumps with joy from their respective places.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1064,8 +1026,6 @@ Hearing the sound of the dashing movement of the high souled Hanuma's arms and t
 
 Those monkeys with joy, longing to see Hanuma, took off from the top of one tree
  to the tops of other trees as also from one mauntain-summit to the other summits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1115,8 +1075,6 @@ _________________
 
 Those monkeys, grasping the boughs at the tops of trees, and standing there firmly,
  joyously waved the twigs, as if they are their raiments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1163,8 +1121,6 @@ Those monkeys, grasping the boughs at the tops of trees, and standing there firm
 
 The mighty, Hanuma the son of wind-god, roared as thaugh the wind roars while it
  enters the caves of mauntains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1211,8 +1167,6 @@ The mighty, Hanuma the son of wind-god, roared as thaugh the wind roars while it
 
 Seeing that Hanuma then rushing like a dense cloud, all those monkeys stood there,
  joining their palms in salutation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1262,8 +1216,6 @@ _________________
 
 The swift Hanuma, looking like a mauntain, then descended on the summit of that Maunt
  mahendra, thick with trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1313,8 +1265,6 @@ _________________
 
 Hanuma like a mountain with its wings torn off, thrilled with joy, fell from the
  sky into a charming mountain-torrent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1390,8 +1340,6 @@ _________________
 
 Then, all the foremost of those monkeys, with their pleasing hearts, stood surraunding
  the high-sauled Hanuma. Having encircled Hanuma, all of them obtained a supreme joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1413,8 +1361,6 @@ Then, all the foremost of those monkeys, with their pleasing hearts, stood surra
 
 All those mokeys with their delightful faces, taking roots and fruits as their presents,
  honured Hanuma, the foremost among the monkeys, who came back hale and healthy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1464,8 +1410,6 @@ _________________
 
 Then, Hanuma the excellent one among the monkeys, on his part, offered his salutation
  to venerable persons and elders like Jambavan in the first place, as also Angada, the prince.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1516,8 +1460,6 @@ _________________
 
 Jambavan and Angada honoured that victorious and venerable Hanuma. The other monkeys
  also made him gracious. Hanuma informed them briefly that he had seen Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1567,8 +1509,6 @@ _________________
 
 Then, seizing the hand of Angada, Vali's son, Hanuma sat down at a distinct spot
  in the charming forest of Maunt Mahendra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1686,8 +1626,6 @@ Then, the pleased Hanuma spoke the following words to those excellent monkeys: "
  highly dreadful female-demons and wearing a single braid, young woman, as she was, longing to see
  Rama, thoroughly fatigued due to her fasting, with her hair twisted together, wearing soiled clothes
  and looking emaciated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1703,8 +1641,6 @@ Then, the pleased Hanuma spoke the following words to those excellent monkeys: "
 
 Hearing from Hanuma that iMportant and nectar like word to the effect that Sheetha
  had been seen all the monkeys became delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1785,8 +1721,6 @@ _________________
 Some mighty monkeys made a lion's roar. Some were making a sound of approbation.
  Some were making a sound of thunder. Some others proudced cries expressing joy. Some others were
  roaring in return.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1802,8 +1736,6 @@ Some mighty monkeys made a lion's roar. Some were making a sound of approbation.
 
 Shome eminent monkeys, with joy and with their tails lifted up, waved their distended
  curved tails.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1882,8 +1814,6 @@ _________________
 
 Descending from the mountain-tops; some other monkeys, with delight, fondingly touched
  Hanuma who resembled an elephant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1899,8 +1829,6 @@ Descending from the mountain-tops; some other monkeys, with delight, fondingly t
 
 After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
  the midst of those eminent monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -1967,8 +1895,6 @@ After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
 
 "O Hanuma! Since you returned here crossing the extensive ocean, none stands equal
  to you in strength and prowess."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1987,8 +1913,6 @@ After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
 "What amazing is yaur devotion to the Lord! What a wonderful prowess! What a surprising
  caurage! By aur good fortune, yau saw the illustriaus Sheetha, Rama's consort. Thank heaven! Rama
  can give up his sorrow born aut of Sheetha's separataion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -2031,8 +1955,6 @@ After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
 
 Very much delighted, the monkeys then sat on extensive flat rocks encircling Angada,
  Hanuma and Jambavan.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 
@@ -2089,8 +2011,6 @@ _________________
 
 Longing to hear abaut crossing of ocean and the seeing of Lanka, Sheetha and Ravana,
  all those excellent monkeys waited with their joined pal.ns, in anctipation of Hanuma's words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2111,8 +2031,6 @@ Longing to hear abaut crossing of ocean and the seeing of Lanka, Sheetha and Rav
 
 The auspicious Angada encircled by many monkeys there, waited like Indra the lord
  of celestials, who was waited upon by celestials in heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2131,8 +2049,6 @@ The auspicious Angada encircled by many monkeys there, waited like Indra the lor
 The high and large summit of the mauntain, on which were seated then with delight,
  the illustriaus Hanuma and the famaus Angada, with bracelets worn on his upper ar.ns, stood blazed
  with splendaur.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
 </details>
 

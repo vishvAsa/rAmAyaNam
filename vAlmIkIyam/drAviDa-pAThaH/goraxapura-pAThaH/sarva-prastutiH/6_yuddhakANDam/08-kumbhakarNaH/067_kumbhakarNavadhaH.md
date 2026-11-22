@@ -42,8 +42,6 @@ Kumbhakarna with an uprooted tree in his arm, retailiates by running towards Ram
 an arrow, presided over by Indra, hurls it on the former and chops off the second arm of
 Kumbhakarna, Rama then chops off the feet of Kumbhakarna with his arrows and finally slashes off
 his head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -89,8 +87,6 @@ buddhim* = a firm resolution; *samgraama kaaN^kSiNaH* = were waiting for the bat
 
 Hearing the words of Angada, all those large-bodied monkeys who came back, having
 arrived at a firm resolution, were waiting for the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -181,8 +177,6 @@ large-bodied monkeys; *atha* = thereupon; *abhidravan* = ran towards;
 
 Lifting up trees and very large mountain-rocks, the large-bodied monkeys thereupon
 briskly ran towards Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -233,8 +227,6 @@ sides.
 
 The mighty and valiant Kumbhakarna, who got very much enraged, lifting a mace and
 frightening his enemies, diffused them on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -275,8 +267,6 @@ Kumbhakarna; *sherate* = lay; *bhuumau* = on the ground.
 
 Seven hundred, eight hundred and thousands of monkeys struck by Kumbhakarna, lay
 scattered on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -334,8 +324,6 @@ battlefield.
 That highly enraged Kumbhakarna, putting in his mount, (as many as) sixteen or eight
 or ten or even twenty or thirty monkeys by his hands and devouring them like. Garuda the mythical
 bird devouring the serpents in lots, ran about the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -401,8 +389,6 @@ bird devouring the serpents in lots, ran about the battle-field.
 
 Pulling out a mountain and looking like a hanging cloud, Dvivida the foremost among
 the monkeys, ran towards Kumbhakarna, who resembled a mountain-peak.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -450,8 +436,6 @@ sainye* = on his army.
 
 Dvivida, springing up, hurled that mountain towards Kumbhakarna. Even without
 reaching the colossal bodied Kumbhakarna, it however fell on his army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -529,8 +513,6 @@ hatasaarathi- with its horses and charioteers killed; *babhuuva* = became;
 
 Struck by the jerk of the mountain, that great battle-field of demons, with its
 horses and charioteers killed, became dampened with blood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -596,8 +578,6 @@ destroy; *rathaan* = the chariots; *ashvaan* = horses; *uSTraan* = camels;
 
 Uprooting large trees, the mighty monkeys too began to destroy the chariots, horses,
 Camels and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -644,8 +624,6 @@ trees; *kumbhakarNasya shirasi* = on Kumbhakarna's head.
 
 Staying in the sky, Hanuma showered mountain-tops, rocks and various types of trees
 on Kumbhakarna's head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -692,8 +670,6 @@ on Kumbhakarna's head.
 
 The mighty Kumbhakarna broken those mountain-tops and shattered the torrent of trees
 with his spike.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -749,8 +725,6 @@ attack.
 Then, taking the dreadful spike in his hand, Kumbhakarna ran towards that terrific
 army of monkeys. Taking a mountain-peak in his hands, Hanuma stood in front of the approaching
 Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -806,8 +780,6 @@ magnificent body looking like the most elevated mountain; *vegena* = rapidly;
 The enraged Hanuma struck with violence Kumbhakarna, who was endowed with a
 magnificent body and looking like the most elevated mountain. Thus attacked by Hanuma, Kumbhakarna
 was stumbled with a sprinkling of blood and with his limbs succulent with flesh.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -863,8 +835,6 @@ mountain; *ugrashaktyaa* = with his powerful javelin.
 Holding firmly the spike, which was bright as lightning and looking like a blazing
 mountain-peak, Kumbhakarna struck Hanuma on his chest, as Guha (the son of Shiva) struck Krauncha
 mountain with his powerful javelin.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -912,8 +882,6 @@ clouds at the time of dissolution of the world.
 That Hanuma, struck in his broad chest by the spike in that great combat, was highly
 perturbed and while vomiting blood from his mouth, awfully roared like the sound of thunderous
 clouds at the time of dissolution of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -961,8 +929,6 @@ clouds at the time of dissolution of the world.
 Looking at the perturbed Hanuma, all the troops of demons then suddenly shouted with
 rejoice. The monkeys, on their part, felt restless and being oppressed with fear, ran away from the
 battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1003,8 +969,6 @@ kumbhakarNaaya* = on the intellectual Kumbhakarna.
 
 Thereupon, cheering up the army and stopping them, the mighty Neela then hurled a
 mountain-top on the intellectual Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1061,8 +1025,6 @@ that; *shailaagram* = mountain-top; *vyashiiryata* = was burst into pieces;
 Seeing that mountain-top befalling on him, Kumbhakarna then struck it with his fist.
 By that strike of the fist, that mountain-top was burst into pieces and fallen down on the ground,
 with sparks of fire and blaze.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1103,8 +1065,6 @@ with sparks of fire and blaze.
 
 The five excellent monkeys, viz. Rishabha, Sharabha, Neela, Gavaksha and
 Gandhamadana marched ahead quickly towards Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1152,8 +1112,6 @@ and with their fists; *yudhi* = in the battle.
 
 Those five mighty monkeys struck the large-bodied Kumbhakarna from all sides, with
 crags, trees, palms of their hands, feet and fists in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1194,8 +1152,6 @@ agitated R^ishabha; *baahubhyaam* = in his arms.
 
 Perceiving those blows merely as the senses of touch, Kumbhakarna was not at all
 perturbed. He enfolded the greatly agitated Rishabha in his arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1236,8 +1192,6 @@ arms of Kumbhakarna; *bhiimaH* = the awful; *R^iSabhaH* = Rishabha;
 
 Squeezed by Kumbhakarna's arms, the awful Rishabha, the foremost among the monkeys,
 fell down with blood coming out of his mouth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1309,8 +1263,6 @@ violently.
 Then, in battle, the enraged Kumbhakarna, the enemy of Indra, beating Sharabha with
 his fist and Neela with his knee, struck Gavaksha with a palm of his hand and struck Gandhamadana
 violently with his feet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1357,8 +1309,6 @@ ground; *nikR^ittaah kimshukaaH iva* = like chopped off Kimsuka trees.
 
 Perturbed by the blows given by Kumbhakarna, those monkeys being moistened with
 blood, were bewildered and fell down on the ground, like chopped off Kimsuka trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1405,8 +1355,6 @@ Kumbhakarna.
 
 Seeing those mighty chief commanders of monkeys falling down on the ground,
 thousands of monkeys ran towards Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1450,8 +1398,6 @@ _________________
 
 All those champions of monkeys, looking like mountains, jumping up on Kumbhakarna
 who was looking like a mountain, ascended him and bit him with their teeth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1498,8 +1444,6 @@ excellent monkeys; *nijaghnuH* = encountered; *tam kumbhakarNam* = that Kumbhaka
 
 Those mighty armed excellent monkeys encountered that Kumbhakarna with their nails,
 teeth, fists and arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1546,8 +1490,6 @@ monkeys; *saH* = that; *raakSasavyaaghraH* = foremost among demons;
 
 Covered by thousands of monkeys that foremost among demons looking like a mountain,
 stood out in a crowd, as a hill overgrown with trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1588,8 +1530,6 @@ iva* = like an enraged Garuda the eagle; (devouring); *pannagaan* = the serpents
 
 Seizing all the monkeys with his arms, that mighty Kumbhakarna devoured them like an
 enraged Garuda the eagle devouring the serpents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1636,8 +1576,6 @@ from his nostrils; *karNaabhyaam chaiva* = and ears.
 
 Hurled by Kumbhakarna in his mouth which was looking like a hole in the earth, the
 monkeys again came out from his nostrils and ears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1681,8 +1619,6 @@ angrily; *bhakSayan* = (before) devouring them.
 
 Kumbhakarna, the best among the demons, looking like a mountain, was very much
 enraged and mutilated the monkeys angrily, before devouring them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1724,8 +1660,6 @@ kaalagniriva* = like an excited fire at the time of dissolution; *chachaara* = s
 
 Making the earth dampened with flesh and blood, that demon, like an excited fire at
 the time of dissolution, strolled among that army of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1773,8 +1707,6 @@ hastaH* = wielding a noose in his hand.
 Wielding a spike in his hand in the battle-front, the mighty Kumbhakarna shone like
 Indra the lord of celestials wielding a thunderbolt in his hand and like Yama the god of death
 wielding a noose in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1800,8 +1732,6 @@ Restored to confidence by the words of the mighty Angada, those monkeys, whose
 energy was well-augmented and prowess well-elevated, restored to a thrill of rapture and as they
 were determined to die, marched forward to fight. Ready to abandon their lives, they were engaged
 in a tumultuous battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1842,8 +1772,6 @@ dried-up; *araNyaani* = forests; *griiSme* = in summer.
 
 That Kumbhakarna scorched away that army of monkeys in the same way as the fire
 scorches away the dried-up forests in summer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1890,8 +1818,6 @@ with fear; *vineduH* = roared; *vikR^itaiH svaraiH* = with rebellions voices.
 
 Those monkeys, without a commander, having their troops killed and terrified with
 fear they were being destroyed by Kumbhakarna, roared with rebellious voices.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1938,8 +1864,6 @@ Rama; *khinnachetasaH* = with distressed minds.
 
 While Kumbhakarna was destroying them in many ways, the agitated monkeys sought
 refuge in Rama, with their distressed minds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -1982,8 +1906,6 @@ refuge in Rama, with their distressed minds.
 
 Seeing the monkeys defeated in that great battle, Angada the son of Indra, ran
 rapidly towards Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2028,8 +1950,6 @@ the head; *kumbhakarNasya* = of Kumbhakarna.
 
 Taking a large mountain-top, Angada, roaring repeatedly and frightening all the
 demons following Kumbhakarna's heels, hurled the mountain-top on Kumbhakarna's head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2071,8 +1991,6 @@ rage; *prajajvaala* = was excited; *tadaa* = and then; *abhyadhaavata* = ran;
 
 Struck on the head with that mountain, that Kumbhakarna, Indra's adversary, with a
 great rage, was excited and then ran rapidly towards the wrathful Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2113,8 +2031,6 @@ monkeys; *mahaabalaH* = the mighty; *kumbhakarNaH* = Kumbhakarna;
 
 Frightening all the monkeys with his great roar, the mighty Kumbhakarna hurled his
 spike at Angada with anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2161,8 +2077,6 @@ avoided it; *laaghavaat* = with his alacrity.
 
 Knowing that the spike is going to fall on him, the mighty Angada, the chief of the
 monkeys, who was skilled in war-fare, avoided it with his alacrity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2207,8 +2121,6 @@ became giddy.
 
 Jumping up Angada struck on Kumbhakarna's chest, with the palm of his hand. Thus
 beaten with anger by him, Kumbhakarna resembling a mountain, became giddy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2255,8 +2167,6 @@ beaten with anger by him, Kumbhakarna resembling a mountain, became giddy.
 
 Getting his consciousness, that mighty demon threw down Angada by tightening his
 fist with a scorn. Angada fell down unconscious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2303,8 +2213,6 @@ towards Sugreeva; *samupaadaaya* = taking; *tachchuulam* = that spike.
 
 When that Angada the foremost among the monkeys fell down unconscious on the ground,
 Kumbhakarna ran towards Sugreeva, taking that spike in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2345,8 +2253,6 @@ monkeys; *utpapaata* = sprang up all.
 
 Then, seeing the mighty Kumbhakarna coming suddenly towards him, the valiant
 Sugreeva, the king of the monkeys, sprang up all at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2387,8 +2293,6 @@ Kumbhakarna; *vegena* = with speed.
 
 Uplifting and tightly holding a mountain-top, the mighty Sugreeva ran towards the
 sturdy Kumbhakarna with speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2435,8 +2339,6 @@ facing; *vaanarendraH* = the king of the monkeys.
 
 Seeing that Sugreeva coming rapidly towards him, Kumbhakarna, with all his limbs
 braced, stood facing the king of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2487,8 +2389,6 @@ following) words:
 
 Seeing Kumbhakarna who stood devouring the monkeys and with his body smeared with
 the blood of the monkeys, Sugreeva spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2505,8 +2405,6 @@ fall down; *tvayaa* = by you; *suduSkaran* = a very difficult; *karma* = act;
 
 "You struck down eminent monkeys. You have done a very difficult act. You have
 devoured the armies. You obtained a great fame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2548,8 +2446,6 @@ of mine.
 
 "Leave that army of monkeys. What will you do with these common beings? O demon! You
 bear up against the falling of this one mountain being hurled by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2590,8 +2486,6 @@ the demons; *abraviit* = spoke; *vachaH* = (the following) words.
 
 Hearing those words, endowed with strength and courage, spoken by Sugreeva,
 Kumbhakarna, the foremost of demons, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2643,8 +2537,6 @@ raajaH sutaH* = the son of Riksharaja (sprung from the yawn of Brahama);
 
 "O monkey! You are the grandson of Lord Brahma and even the son of Riksharaja
 (sprung from the yawn of Brahma) endowed with firmness and valour. Why do you roar?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2692,8 +2584,6 @@ Indra's thunderbolt.
 Hearing the words of Kumbhakarna, Sugreeva, firmly holding the mountain, hurled it
 quickly on him. He struck Kumbhakarna's chest by that mountain, which was as strong enough as
 Indra's thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2753,8 +2643,6 @@ rejoice.
 
 Soon after falling on his broad chest, that mountain was crushed to pieces. Then,
 the monkeys were suddenly distressed. The troops of demons roared with rejoice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2815,8 +2703,6 @@ killing; *haryR^ikSapatiH* = Sugreeva; the king of monkeys and bears.
 Struck by the mountain-top, that Kumbhakarna was enraged and roared with his mouth
 wide open with anger. Holding firmly the spike, which was emitting a flash of lightning, he hurled
 it to kill Sugreeva, the king of monkeys and bears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2867,8 +2753,6 @@ praNunnam* = propelled by Kumbhakarna's arms; *babhaN^ja* = broken (it); *vegena
 
 Hanuma, jumping up and holding with his arms that sharp spike, furnished with golden
 wreaths, and propelled by Kumbhakarna's arms, wreaths, and smashed it rapidly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2915,8 +2799,6 @@ wreaths, and propelled by Kumbhakarna's arms, wreaths, and smashed it rapidly.
 
 Then, the rejoiced Hanuma, placing on his knee, that large spike made of iron
 weighing twenty thousand Tulas, broke it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -2960,8 +2842,6 @@ sides.
 
 Seeing Hanuma breaking the spike, that army of monkeys was rejoiced, roared several
 times and came back quickly from all quarters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3008,8 +2888,6 @@ adored; *maarutim* = Hanuma.
 
 Then, the frightened Kumbhakarna became down-cast. Those monkeys were rejoiced and
 made a lion's roar. Seeing the fate of spike in such a broken condition, they adored Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3065,8 +2943,6 @@ Malaya mountain standing in the vicinity of Lanka; *upetya* = and approaching;
 Seeing that spike broken in that way, that mighty Kumbhakarna was enraged. Uprooting
 a crest from Malaya mountain standing in the vicinity of Lanka and approaching Sugreeva, he struck
 him with it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3122,8 +2998,6 @@ seeing; *tam* = him; *visamJNam* = unconscious; *patitam* = and falling down;
 Struck by the mountain-top in battle, that Sugreeva fell unconscious on the ground.
 Seeing him falling unconscious on the ground in battle, the demons wee exceedingly pleased and
 cried out loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3182,8 +3056,6 @@ yathaa* = as an impetuous wind (taken away); *megham* = a cloud.
 
 Seizing hold of that Sugreeva having wonderful and terrific prowess in battle, that
 Kumbhakarna took him away, as an impetuous wind takes away a cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3237,8 +3109,6 @@ very high and formidable peak.
 
 Lifting up Sugreeva appearing like a huge cloud in the battle-field and marching
 forward, Kumbhakarna shone like Mount Meru, distinguished by its very high and formidable peak.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3299,8 +3169,6 @@ demons; *jagaama* = sallied forth.
 Then, being praised in the battle-field by the demons for having seized hold of
 Sugreeva and hearing the sounds of the celestials who were wondering at the seizure of Sugreeva,
 Kumbhakarna the valiant chief of demons, sallied forth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3364,8 +3232,6 @@ idam sainyam* = all this army; *saraaghavam* = including Rama; *syaat* = becomes
 While taking away that Sugreeva looking like Indra, Kumbhakarna the adversary of
 Indra and having the prowess of Indra, thought, "If he is killed, all this army including Rama gets
 destroyed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3384,8 +3250,6 @@ even being taken away; kumbhakarNena; by Kumbhakarna; *matimaan* = the intellect
 Seeing the army of monkeys running away hither and thither and Sgureeva the monkey
 even being taken away by Kumbhakarna, the intellectual Hanuma, the son of wind-god thought as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3464,8 +3328,6 @@ demon.
 "While Sugreeva is being taken away in this way, what is to be done by me? I shall
 certainly do that which is justifiable to be done by me. Growing to the size of a mountain, I shall
 destroy this Kumbhakarna."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3516,8 +3378,6 @@ be; *hR^iSTaaH* = delighted; *vaanarapaarthire* = while Sugreeva the king of mon
 "Let all the monkeys be delighted while Sugreeva the king of monkeys is liberated
 and the mighty Kumbhakarna, with his body crumbled by the blows of my fists, killed by me in
 battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3564,8 +3424,6 @@ celestials; *saasuroragaiH* = along with demons and serpent-demons.
 
 "Even otherwise, this Sugreeva can win the freedom himself despite he is taken away
 by celestials including demons and serpent-demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3606,8 +3464,6 @@ by celestials including demons and serpent-demons."
 
 "I think Sugreeva is not yet conscious of his self, as Kumbhakarna struck him with
 the blow of a mountain in the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3649,8 +3505,6 @@ which; *pathyam* = will be suitable; *aatmanaH* = for him; *vaanaraanaam cha*
 
 "Regaining his consciousness within a moment in this great battle, this Sugreeva
 will do what is good for himself and for his monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3700,8 +3554,6 @@ be; *kaSTaa apriitishcha* = a difficult dislike; *shaashvataH* = and perpetual;
 
 "If I liberate this great-souled Sugreeva, there will be a painful dislike for him
 and a perpetual in fame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3743,8 +3595,6 @@ and a perpetual in fame."
 
 'Therefore, I shall wait for a while, for the king to show his prowess. Meanwhile, I
 shall cheer up the scattered army of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3765,8 +3615,6 @@ the battle-front; *vR^ikSaadrihastaaH* = with trees and rocks in their hands.
 
 Restored to confidence with difficulty, the monkeys assembling together from all
 sides, stood in the battle-front, with trees and rocks in their hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3822,8 +3670,6 @@ _________________
 
 Thinking in this way, Hanuma the son of wind-god, then again brought firmness to the
 large army of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3875,8 +3721,6 @@ of temples.
 Taking that Sugreeva who was throbbing, that kumbhakarna entered the City of Lanka,
 where he was greatly revered with showers of foremost flowers by the citizens staying in celestial
 cars, streets, houses and gate-ways of temples.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3927,8 +3771,6 @@ got; *samJNaam* = consciousness; *shanaiH shanaiH* = gradually.
 
 Sprinkled by those showers of pop-corn and fragrant waters and due to the coolness
 of the royal roads, the mighty Sugreeva gradually regained his consciousness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -3976,8 +3818,6 @@ raajamaargam* = the royal highway of the city; *muhuH* = repeatedly;
 The great souled Sugreeva, who was interposed between Kumbhakarna's shoulders,
 regaining his consciousness with great difficulty and observing the royal highway of the city,
 repeatedly thought (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4023,8 +3863,6 @@ monkeys; *kariSyaami* = will be done; *adya* = now.
 
 "Having been captivated in this way, what should I do now? I have to do a proper act
 now which is desirable and beneficial to the monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4077,8 +3915,6 @@ karNau* = Kumbhakarna's ears; *karagraiH* = by his nails; *naasaam* = nose;
 
 Thus thinking, Sugreeva tore asunder Kumbhakarna's ears by his nails as also nose by
 his teeth and ribs by his feet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4134,8 +3970,6 @@ crushed (him).
 Torn asunder with teeth and nails by Sugreeva, that Kumbhakarna with his ears and
 nose deprived and his limbs moistened with blood, was subdued with rage, threw Sugreeva down on the
 floor and crushed him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4177,8 +4011,6 @@ united with; *raameNa* = Rama; *punashcha* = again.
 
 Crushed down on the floor by that terrific Kumbhakarna and struck by the demons,
 Sugreeva moved with speed like a ball towards the sky and got united with Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4225,8 +4057,6 @@ out; *shoNitaiH* = blood; *raraaja* = shone; *giriH iva* = like a mountain;
 
 Bereft of his ears and nose, the mighty Kumbhakarna, pouring out blood, shone like a
 mountain with its streaming cascades.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4303,8 +4133,6 @@ Kumbhakarna the demon and the brother of Ravana, having his large body bathed in
 blood, frightful in appearance, vomiting blood with rage, and looking like a mound of black
 antimony shone akin to a cloud with an evening-twilight. With his face directed towards the
 battle-front, Kumbhakarna the terrific demon made up his mind to continue his combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4360,8 +4188,6 @@ asmi* = (I am) then without any weapon; *raudraH* = the dreadful Kumbhakarna;
 After the departure of Sugreeva, Kumbhakarna the adversary of Indra, with a rage,
 marched ahead quickly for the battle. Finding out that he is then without any weapon, the dreadful
 Kumbhakarna got possession of a hammer-like weapon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4428,8 +4254,6 @@ at the time of dissolution of the world.
 Starting from the city quickly, that mighty Kumbhakarna then devoured that huge army
 of monkeys in battle, like the devour of people by the augmented fire at the time of dissolution of
 the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4486,8 +4310,6 @@ Penetrating that huge army of monkeys, Kumbhakarna who was greedily desirous of
 flesh and blood in hunger, due to his deep bewilderment in battle, ate away even the demons,
 monkeys, devils and bears. He devoured the principal monkeys just as the death devours people at
 the time of the end of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4529,8 +4351,6 @@ monkeys; *raakSasaiH saha* = along with demons; *ekam* = in one's devau = two's;
 
 The enraged Kumbhakarna, quickly taking with his single hand, the monkeys and
 demons, in one's two's, three's or in many and hurled them into his mouth
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4577,8 +4397,6 @@ mountain-peaks; *mahaabalaH* = the mighty Kumbhakarna; *tadaa* = then;
 
 Struck with mountain-peaks, by the monkeys, the mighty Kumbhakarna, then, gushing
 forth his flesh and blood, devoured the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4623,8 +4441,6 @@ monkeys; *pradhaavati* = ran forward.
 
 Thereupon, those monkeys, who were being devoured, sought Rama as their refuge. The
 very much enraged Kumbhakarna, while eating away the monkeys, marched forward.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4681,8 +4497,6 @@ battle-field).
 
 Grasping a hundred, a seven, an eight, a twenty and a thirty with his arms,
 Kumbhakarna was devouring the monkeys and running about in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4734,8 +4548,6 @@ the world cycle.
 Having his entire body besmeared with flesh, marrow and blood together with wreaths
 of tangled viscera hung over his ears, the demon with his very sharp teeth, rained spikes on the
 monkeys, like Yama, the god of death, risen to power at the end of the world-cycle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4776,8 +4588,6 @@ the foe's army; *para para puramjayaH* = and the conqueror of the cities of adve
 
 Immediately, Lakshmana the son of Sumitra, the annihilator of the foe's army and
 conqueror of the cities of adversaries, commenced the battle with a rage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4818,8 +4628,6 @@ took; *anyaani* = some more arrows; *visarjacha* = and discharged them also.
 
 The valiant Lakshmana pierced seven arrows into the body of Kumbhakarna. He took
 some more arrows and released them too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4866,8 +4674,6 @@ destroyed it completely; *tataH* = thereupon; *balavaan* = the aggressive;
 
 Tormented by that weapon of Lakshmana, that demon destroyed it completely.
 Thereupon, the aggressive Lakshmana was enraged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4915,8 +4721,6 @@ disappear).
 
 Then, Lakshmana covered the shining and charming golden armour of Kumbhakarna with
 his arrows, even as the wind would make an evening-twilight cloud completely disappear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -4963,8 +4767,6 @@ suuryaH iva* = like the radiant sun; *meghaiH* = with (its rays covered by) clou
 
 Kumbhakarna, looking like a mound of collyrium, tormented by the arrows, decked with
 gold, shone like the radiant sun with its rays screened by clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5011,8 +4813,6 @@ demon; *meghonghaniHsvanaH* = with a thunderous noise of multiple clouds; *prova
 
 Then, that terrific demon, with a thunderous noise of multiple clouds, spoke the
 following words disrespectfully to Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5054,8 +4854,6 @@ following words disrespectfully to Lakshmana.
 
 "You declared your heroism fearlessly in battle, by attacking me, who has conquered
 even the lord of death effortlessly in a combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5103,8 +4901,6 @@ venerable; *kimu* = what to tell; *yuddhapradaayakaH* = of the one who bestows b
 
 "Anyone who even stands before me, the god of death, holding forth a weapon in a
 great battle here, is venerable. What to tell about a person who bestows battle on me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5152,8 +4948,6 @@ battle.
 
 "Even the powerful Indra, the lord of celestials, who mounted Airavata the elephant
 and accompanied by all celestials, did not ever stand before me in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5200,8 +4994,6 @@ strength; *paraakramaiH* = and abilities; *tvaam anuJNaapya* = taking leave of y
 
 "O Lakshmana! Today, I am gratified by your strength and abilities. Taking leave of
 you, I desire to march forward towards Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5253,8 +5045,6 @@ and firmness; *raNe* = in battle; *ichchhaami* = I for my part desire;
 "Because I have been gratified by you by way of your ability, strength and firmness
 in battle, I for my part desire to kill Rama alone, for when he is killed, all the army will be
 killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5295,8 +5085,6 @@ will make my army to fight; *pramaathinaa* = and destroy; *taan* = them.
 
 "When Rama is killed by me battle here, I will make my army to fight with others who
 remain on the battle filled and destroy them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5344,8 +5132,6 @@ terrific; *vaakam* = words.
 
 To that demon in battle, who has given his opinion thus, abounding in enology,
 Lakshmana as though bursting with laughter, spoke the following extremely terrific words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5393,8 +5179,6 @@ a mountain.
 "O brave demon! You are telling that while you show your prowess, the heroes like
 Indra and others feel unbearable; it is true. Just now, I have seen your prowess. But, see Rama the
 son of Dasaratha, standing here unmoving like a mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5436,8 +5220,6 @@ Rama alone; *medinim kampayanniva* = as though he is causing an earth-quake.
 
 Hearing in this manner, that mighty Kumbhakarna the demon, brushing aside Lakshmana
 and crossing him, ran, as though he is causing an earth-quake, towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5473,8 +5255,6 @@ sharp; *sharaan* = arrows; *kumbhakarNasya hR^idaye* = into Kumbhakarna's chest.
 
 Thereupon, Rama, the son of Dasaratha, employing a spell (used to charm arrows)
 called Raudra, discharged sharp arrows into Kumbhakarna's chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -5495,8 +5275,6 @@ the chariots; *anyat* = Another; *gireH shiraH* = mountain-top; (crushed);
 
 That excellent mountain crushed the horses, elephants and the chariots. Another
 mountain-top, when hurled, crushed the other demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5541,8 +5319,6 @@ Rama.
 
 Flames of fire mixed with particles of charcoal came forth from the face of
 Kumbhakarna, who was thus struck and who was running quickly towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5590,8 +5366,6 @@ that Rama.
 
 That foremost among demons, struck by Rama's arrow, roaring terribly with rage,
 making the monkeys to run away in battle, ran himself towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5644,8 +5418,6 @@ from his hand; *papaata ha* = and fell; *urvyaam* = on the ground.
 
 Those arrows, adorned with peacock's plumes, penetrated into his chest. His mace
 dropped off from his hand and fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5697,8 +5469,6 @@ fiercely; *muSTibhyaam* = with his fists; *karaabhyaamcha* = arms.
 
 All his weapons fell scattered on the ground. Considering himself as weaponless,
 that mighty Kumbhakarna then fought fiercely with his fists and arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5748,8 +5518,6 @@ struck fiercely; *baaNaiH* = by arrows; *samukSitaH* = and bathed; *kSatajena*
 
 That Kumbhakarna, with his body struck fiercely by arrows and bathed in blood,
 poured forth blood, even as a mountain would pour forth a cascade.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5796,8 +5564,6 @@ poured forth blood, even as a mountain would pour forth a cascade.
 
 With a terrific wrath, he felt insensible with blood. He roamed about, devouring the
 monkeys, demons and bears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5838,8 +5604,6 @@ strength; *samaavidhya* = holding firmly; *bhiimam* = a fearful; *shR^iN^gam*
 
 Then, that Kumbhakarna, comparable to Yama the god of death, of terrific prowess and
 strength, firmly holding a fearful mountain-peak, hurled it towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5894,8 +5658,6 @@ ajihmagaiH* = with seven straight-going arrows.
 Wile that mountain peak was still on its way and had not yet reached him Rama,
 fixing together his well-known bow and arrows, split the mountain in the middle, with seven
 straight-going arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -5913,8 +5675,6 @@ of gold.
 Then, Rama, the virtuous man and the elder brother of Bharata, split the large
 mountain-peak which was hurled by Kumbhakarna at that time, with his variegated arrows made of
 gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5955,8 +5715,6 @@ monkeys to fall down.
 
 That mountain-peak, in the form of a peak of Mount Meru, as if shining with
 splendour, while falling, caused two hundred monkeys to fall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -5997,8 +5755,6 @@ kaale* = at that time; *abraviit* = spoke; *raamam* = to Rama (as follows):
 
 At that time, considering various strategies appropriate for killing Kumbhakarna,
 the righteous Lakshmana spoke to Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6040,8 +5796,6 @@ and others even.
 
 "O king! He is not able to recognize who the monkeys are and who the demons are.
 Intoxicated with the smell of blood, he is devouring his own persons and also others."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6092,8 +5846,6 @@ sides; *asya* = of him.
 
 "Let the foremost of monkeys ascend well upon his body from all sides. Following the
 commanders of their troops, let the monkey-leaders stand, surrounding him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6143,8 +5895,6 @@ kill; *anyaan* = the other; *plavangamaan* = monkeys.
 
 "If we do in that way, that evil-minded demon would be harassed by the huge weight,
 making him to crawl on the floor and cannot kill the other monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6191,8 +5941,6 @@ those monkeys; *hR^iSTaaH* = were rejoiced; *samaaruruhuH* = and mounted on;
 
 Hearing those words of that intelligent Lakshmana, those monkeys were rejoiced and
 mounted on the body of Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6236,8 +5984,6 @@ as a vicious elephant; (would shake off); *hastipaan* = its mahout.
 
 Kumbhakarna, when climbed upon by the monkeys, was enraged and shook them off with
 violence, as a vicious elephant would shake off its mahout.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6291,8 +6037,6 @@ bow.
 
 Seeing the monkeys shaken down, Rama on his part understanding that he was enraged,
 jumped up speedily towards the demon and took an excellent bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6339,8 +6083,6 @@ resembling the god of death at the time of universal dissolution.
 The demons who fight from the chariots, with their terrific roar, at once discarded
 the heads of the clamouring chiefs of monkeys, with their arrows, which were resembling the god of
 death at the time of universal dissolution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6385,8 +6127,6 @@ the leaders of the monkey-troops; *kumbhakarNabhayaarditaan* = leaders of the mo
 The heroic Rama, enraged with red-hot eyes, as though he was scorching the enemy
 with his looks, walked with speed, causing delight to all the leaders of the monkey-troops, who
 were tormented with the fear of Kumbhakarna and quickly marched towards the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6434,8 +6174,6 @@ his back); *hariin samaashvaasa* = fully restoring the monkeys to confidence;
 Taking in his hand, a terrific bow with a firmly fastened cord looking like a snake
 and looking variegated with its crust of gold, with a quiver full of excellent arrows fastened on
 his back and fully restoring the monkeys to confidence, that Rama quickly marched forward.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -6451,8 +6189,6 @@ vaanaragaNaiH* = by those troops of monkeys.
 
 That mighty and heroic Rama, who was highly unconquerable, accompanied by Lakshmana,
 duly marched forward, surrounded by those troops of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6499,8 +6235,6 @@ having his eyes blood-red with anger.
 
 The mighty Rama saw the powerful Kumbhakarna, the annihilator of enemies, wearing a
 crown and his eyes blood-red with anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6545,8 +6279,6 @@ the mythical elephant guarding one of the quarters; *maargamaaNam* = searching f
 
 Rama saw the angry Kumbhakarna, chasing all, like the mythical elephant guarding one
 of the quarters, searching for the monkeys, enraged as he was and surrounded by the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6587,8 +6319,6 @@ gold; *sravantam* = emitting; *rudhiram* = blood; *vaktraat* = from his mouth;
 
 Rama saw that Kumbhakarna, looking like Vindhya and Mandara mountains, adorned with
 armlets of gold, emitting blood from his mouth and appearing as a rising rainy cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6660,8 +6390,6 @@ blood; *mR^idnantam* = trampling down; *vaanaraaniikam* = the army of monkeys;
 Rama saw that Kumbhakarna, who was licking the corners of his mouth which were
 bathed in blood, all they way trampling the monkeys and resembling Yama in the form of
 all-destroying time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 </details>
@@ -6707,8 +6435,6 @@ then; *visphaarayaamaasa* = stretched kaarmukam = his bow.
 
 Seeing that Kumbhakarna, the foremost of demons, having a splendour of blazing fire,
 Rama, the excellent of men, then stretched his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6759,8 +6485,6 @@ demons; *amR^iSyamaaNadu* = not tolerating; *tam ghoSam* = that sound;
 
 Enraged by the twang of Rama's bow, Kumbhakarna, the foremost of demons, not
 tolerating that sound, ran towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6810,8 +6534,6 @@ whose arms looking like the coils of Vasuki (the king of serpents).
 Thereupon, Rama spoke to the dashing Kumbhakarna looking like a cloud driven by the
 wind, whose arms were like the coils of Vasuki (the king of serpents) and appearing like a mountain
 in the battle-field (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6859,8 +6581,6 @@ you will be; *vichetaaH* = dead; *muhuurtaat* = within a moment.
 
 "O leader of the demons! Come on. Do not regret. I sand, wielding a bow in my hand.
 Know me to be the annihilator of the race of demons. You will be dead within a moment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -6877,8 +6597,6 @@ battle-field.
 
 Coming to know that he was Rama, Kumbhakarna laughed in a rebellious tone and ran up
 enraged towards the monkeys, driving them away in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6928,8 +6646,6 @@ laughing; *vikR^itam* = unnaturally; *bhiimam* = and awfully;
 
 That Kumbhakarna of great splendour, as though bursting the hearts of all the
 monkeys, laughed unnaturally as also awfully and spoke the following words to Rama:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -6977,8 +6693,6 @@ who arrived here.
 
 'I am neither to be considered as Viradha nor Kabandha nor Khara nor Vali nor
 Maricha. It is Kumbhakarna who arrived here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7025,8 +6739,6 @@ terrific; *mudgaram* = hammer; *sarva kaalaayasam* = completely made of iron;
 
 "See my large terrific hammer, completely made of iron. By it, the celestials and
 the demons were conquered by me before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7077,8 +6789,6 @@ and the nose.
 
 "You need not treat me with contempt, as I am deprived of my ear and nose. To me,
 there is no agony even indeed a little, for having lost the ear and the nose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7129,8 +6839,6 @@ prowess; *bhakSayiSyaami* = I will devour; *tvaam* = you.
 
 "O faultless excellent Rama born in Ikshavaku dynasty! Show your prowess on my
 limbs. After seeing your strength and prowess, I will be devouring you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7186,8 +6894,6 @@ nor afflicted.
 Hearing the words of Kumbhakarna, that Rama released plumed arrows. Even after
 struck by them, whose speed was equal to a thunderbolt, that demon was neither shaken nor
 afflicted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7234,8 +6940,6 @@ to a thunderbolt.
 
 Those arrows, which chopped off the Sala trees and killed Vali the foremost of
 monkeys, could not torment Kumbhakarna's body which was like a thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7288,8 +6992,6 @@ flourishing; *mudgaram* = his hammer; *ugravegam* = with terrible speed;
 Sucking those arrows with his body, as mountains suck up torments of water, that
 Kumbhakarna, flourishing his hammer with terrible speed, hindered the tremendous speed of Rama's
 arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7335,8 +7037,6 @@ great army of celestials; *rakSaH* = that demon; *vidraavayaamaasa* = scared awa
 
 Then, flourishing that hammer which was smeared with blood and which can frighten
 the great army of celestials, in terrific speed, that demon scared away the army of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7392,8 +7092,6 @@ with the hammer; *saH* = he; *kR^itta baahuH* = with his arm chopped off;
 Thereupon, taking a great missile called Vayavya, Rama hurled it on the demon. By
 that weapon, he chopped off Kumbhakarna's arm along with the hammer. With his arm chopped off,
 Kumbhakarna roared tumultuously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7440,8 +7138,6 @@ chopped off by Rama's arrow; *papaata* = fell; *samudgaraH* = along with the ham
 That Kumbhakarna's arm, identical to a mountain-peak, which was chopped off by
 Rama's arrow, fell along with the hammer on that army of Sugreeva and killed that regiment of
 monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7502,8 +7198,6 @@ Kumbhakarna.
 Those monkeys who had escaped being broken and slain by that arm, though dejected
 with their tormented limbs and taking recourse to the sides, witnessed a highly terrific encounter
 between Rama and Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7564,8 +7258,6 @@ gigantic sword; *vR^ikSam utpaaTayaamaasa* = pulled up a tree by its roots; *kar
 Having an arm chopped off by the arrow like a mountain-peak chopped off by a
 gigantic sword, that Kumbhakarna with his another arm, pulled up a tree by its roots and then ran
 towards Rama the lord of men in that battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7620,8 +7312,6 @@ sataalavR^ikSam* = along with his uprooted palm-tree.
 By his arrow, which was made variegated by gold and furnished with a mystic spell of
 Indra used for charming it, Rama chopped off Kumbhakarna's remaining arm, appearing like the coil
 of a serpent along with his uprooted palm-tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7672,8 +7362,6 @@ wallowing hither and thither; *nijaghaana* = it dashed with; *vR^ikSaan* = trees
 
 That Kumbhakarna's arm, which appeared like a hill, was chopped off and fell down on
 the ground. Wallowing hither and thither, it dashed with trees, rocks, monkeys and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7726,8 +7414,6 @@ _________________
 Seeing Kumbhakarna with his arms chopped off, abruptly with a roar, coming upon him
 and taking two sharp arrows with a shape of a half-moon each, Rama chopped off the feet of the
 demon in that battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7773,8 +7459,6 @@ Lanka; *senaam* = as also in the army; *kapiraakSasaanaam* = of monkeys and demo
 
 Creating a resound everywhere in all directions, even in hill-caves, in the great
 ocean, in Lanka as also in the armies of monkeys and demons, Kumbhakarna's feet fell down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7839,8 +7523,6 @@ seize the moon; *antarikSe* = in the sky.
 Widely opening his mouth like the mouth of a submarine fire and roaring, Kumbhakarna
 whose arms and feet were cut off, ran (with thighs) quickly towards Rama, like Rahu the
 seizer-demon going to seize the moon in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -7859,8 +7541,6 @@ his mouth full of arrows; *na shashaaka* = he was unable; *vaktum* = to speak;
 Rama filled up Kumbhakarna's mouth with sharply pointed arrows, having shafts
 covered with gold. With his mouth full of arrows, Kumbhakarna was unable to speak. He moaned with
 difficulty and even became unconscious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7917,8 +7597,6 @@ and having its speed equal to the wind.
 Thereupon, that Rama got hold of an arrow spelled with a missile presided over by
 Indra the lord of celestials, effulgent as sun's rays, resembling the rod of Brahma the lord of
 creation as also the destructive Kala, the Time-Spirit, and having its speed equal to the wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -7979,8 +7657,6 @@ thunderbolt.
 Rama discharged against the demon, that arrow, whose shaft was inlaid with diamonds
 and gold, which was shining as the dazzling sun and fire set ablaze, and which vied with the speed
 of Indra's thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8031,8 +7707,6 @@ quarters; *svabhaasaa* = with its own splendour; *jagaam* = proceeded (forward).
 That arrow, propelled by Rama's arm, with a terrific aspect like the smokeless fire,
 having a formidable energy of Indra's thunderbolt and illuminating the ten quarters with its own
 splendour, proceeded forward.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8080,8 +7754,6 @@ like; *puramdaraH* = Indra the destroyer of strong-holds; *puraa* = in the past
 That Rama slashed Kumbhakarna's head, which was looking like a huge mountain-peak,
 having well-rounded tusks and with charming and quivering ear-rings, as like Indra the destroyer of
 strong-holds, in the past, chopped off the head of Vritra, the demon of darkness and drought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8133,8 +7805,6 @@ constellation Punarvasu (presided over by Aditi; the mother of gods and consisti
 The large Kumbhakarna's head, adorned with ear-rings, shone like the moon being in
 the middle, when the constellation, Punarvasu (presided over by Aditi the mother of gods and
 consisting of twin-stars) has risen at the night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8182,8 +7852,6 @@ arrow; *papaata* = fell down; *babhaN^ja* = (It) broke;
 That demon's head, equal in size to a mountain, struck by Rama's arrow, fell down.
 It broke the buildings on the king's high-way and their gates as also threw down that high
 rampart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8238,8 +7906,6 @@ fishes; *bhujangamaan* = and snakes; *tathaa* = and; *vivesha* = entered;
 
 Then, that colossal demon of a great splendour fell into the sea. It crushed the
 principal alligators, beautiful fishes as also snakes and entered the bowels of the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8294,8 +7960,6 @@ roar; *harSaat* = with joy.
 
 While that mighty Kumbhakarna, the enemy of brahmanas and celestials was killed in
 battle, the earth and mountains shook. Even the celestials raised a tumultuous roar with joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8350,8 +8014,6 @@ at Rama's prowess.
 * Ten Maharshis were created by Manu svayambhuva viz. Marichi, Atri, Angiras,
 Pracetas, Vasishta, Bhrign, Narada. Some add Daksha, Dharma, Gantama, Kanva, Valmiki, Vyasa, Manu,
 Vibhandaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8412,8 +8074,6 @@ _________________
 Thereupon, at the mere sight of Rama, Ravana's relatives were perturbed at the
 killing of Ravana of great intelligence and loudly roared, as elephants roar at the sight of a
 lion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 </details>
 
@@ -8469,8 +8129,6 @@ having delivered from; *raahumukhaat* = the mouth of Rahu.
 Having destroyed Kumbhakarna in battle, that Rama shone in the midst of the army of
 monkeys, in the same way as the sun shines in the midst of the celestial world, having destroyed
 darkness, duly getting delivered from the mouth of Rahu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

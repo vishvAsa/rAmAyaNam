@@ -15,8 +15,6 @@ title_english = "018 Ravana comes to Seetha"
 
 In this chapter Hanuma sees Ravana entering Ashoka garden with a retinue of his wives following
 him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ remaning; *tathaa viprekshamaaNasya* = while (Hanuma) searched like that; *vaide
 
 A little of the night was left while Hanuma was searching like that for Seetha in the garden with
 flowers in blossom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -112,8 +108,6 @@ sacrifices;
 
 That Hanuma heard Vedic sounds early in the morning of Brahma Rakshasas well versed in six parts
 of Vedas and those who performed excellent sacrifices.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ to the ear.
 
 Thereafter Ravana with great arms and great prowess was woken by the sounds of various auspicious
 musical instruments pleasing to the ear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -213,8 +205,6 @@ _________________
 
 The king of rakshasas with great might woke up at the appropriate hour wearing slippery flower
 garlands remembered about Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -258,8 +248,6 @@ self; *tam kaamam* = that desire.
 
 In that Seetha's matter, directed a lot by the god of love and excited by passion, that Rakshasa
 was not capable to suppress in self that desire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -330,8 +318,6 @@ all fruits and flowers.
 
 Together with all ornaments wearing great glory that Ravana entered that Ashoka garden having a
 lot of trees with all fruits and flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -351,8 +337,6 @@ by various flowers; *vichitraam* = brilliant;vihagaiH = with birds; *sadaa madai
 
 Ravana entered that great wonderful Ashoka garden together with lakes, shone by various flowers,
 brilliant with birds always in rut.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -369,8 +353,6 @@ vR^itaam* = together; *prapatitaiH phalaiH* = with fallen fruits;samtatadrumaam 
 
 Ravana entered Ashoka garden seeing archways of gold and gems crowded by artificial deer of various
 kinds ravishing eyes and mind, filled with animals of various kinds, together with fallen fruits and full of trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -416,8 +398,6 @@ kinds ravishing eyes and mind, filled with animals of various kinds, together wi
 
 While He was going only a hundred of women followed that Ravana like Deva and Gandharva women following
 Indra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -457,8 +437,6 @@ Indra.
 
 There some women bore lamps of gold; some others carried chowries; some others had fans of Palmyra
 leaves in their hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -509,8 +487,6 @@ _________________
 
 Some women carried water in small vessels of gold; some others followed in the back taking pillows
 with circular ends.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -561,8 +537,6 @@ liqour)
 
 One woman to the right of Ravana held with her right hand a vessel with gem stones filled with
 liqour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -608,8 +582,6 @@ liqour.
 
 Another woman went at back taking an umbrella equalling a royal swan with the radiance of full
 moon with a golden handle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -658,8 +630,6 @@ women; *raavaNasya* = of Ravana; *anujagmuH* = followed; *viiram patim* = mighty
 **अनुवादः**
 
 With sleepy eyes best women of Ravana followed mighty husband like lightning following a cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -763,8 +733,6 @@ With displaced necklaces and armlets, with effaced cover of sandal-paste, with d
 and also with sweaty faces, staggering due to surviving trace of liquor and due to sleepiness, with shrivelled
 flowers on perspiring bodies, with dishevelled hair along with good garlands, with intoxicating eyes, women who
 were dear wives followed that king of Rakshasas who was going due to respect and due to love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -808,8 +776,6 @@ babhau* = shone; *mandaaN^chita gatiH* = with a slow and beautiful gait.
 
 Husband of those women, of great might, who was surrendered to lust, that Ravana also who was dull
 witted, with his mind interested in Seetha shone with a slow and beautiful gait.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -858,8 +824,6 @@ nuupuraaNam nisvanam cha* = and the sound of anklets; *paramastriiNaam* = of tho
 
 Thereafter that Hanuma, the son of wind-god heard the sound of waist-bands and the sound of anklets
 of those excellent women.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -900,8 +864,6 @@ bala paurushham* = with unfathomable might and virility; *anupraaptam* = reachin
 
 Hanuma the monkey saw that Ravana also, performer of deeds without an equal, with unfathomable
 might and virility, reaching the entrance region.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -947,8 +909,6 @@ might and virility, reaching the entrance region.
 
 Wettened by fragrant oil, being carried in front of Ravana, Hanuma saw Ravana being shone in all
 directions by many lamps.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -989,8 +949,6 @@ a distance;
 
 Hanuma saw Ravana together with lust, vanity and intoxication, with wide red eyes which were slanted,
 like the god of love in person with bow kept at a distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -1039,8 +997,6 @@ vastram = excellent (upper) garment;mathitaamR^itaphenaabham = With the lustre o
 
 Hanuma saw Ravana playfully readjusting his excellent upper garment with the luster of churned
 nectar froth, without stain,slipping being entangled in armlet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -1089,8 +1045,6 @@ _________________
 
 Hanuma blended in a branch full of leaves covered by groups of leaves and flowers started to see
 that Ravana as though coming near Him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -1139,8 +1093,6 @@ _________________
 
 Thereafter Hanuma, the best among Vanaras looking in all directions saw best women of Ravana full
 of beauty and youth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -1186,8 +1138,6 @@ of beauty and youth.
 
 King of great fame, Ravana, together with those women with good appearance entered that garden
 resounded by animals and birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -1271,8 +1221,6 @@ with great brilliance; *dadarsha* = saw; *tam* = that Ravana; *tejovantam* = wit
 That king of Rakshasas who was intoxicated with wonderful ornaments, with pointed ears, son of
 Visravasa was like the moon together with stars, together with best women was seen by Hanuma. That great Vanara
 with great brilliance saw that Ravana with glory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1292,8 +1240,6 @@ one; *raavaNaH* = is Ravana; *iti samchintya* = thinking thus; *avaplutaH* = jum
 
 The son of god of wind Vanara Hanuma of great brilliance thinking thus "This long armed one is
 Ravana", jumped down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -1344,8 +1290,6 @@ of terrible energy; *nirdhuutaH* = was overshadowed; *tasya tejasaa* = by Ravana
 
 Thus Hanuma although of terrible energy was overshadowed by Ravana's brilliance and became rooted
 behind a group of leaves and was concealed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 </details>
 
@@ -1395,8 +1339,6 @@ to see (Her);
 
 That Ravana neared Seetha with black hair, with charming limbs with well knit breasts, with black
 corners of eyes, wishing to see Her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

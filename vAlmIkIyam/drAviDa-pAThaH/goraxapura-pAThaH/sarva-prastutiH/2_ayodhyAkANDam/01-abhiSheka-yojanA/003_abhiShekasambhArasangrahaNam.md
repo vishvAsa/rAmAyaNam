@@ -18,8 +18,6 @@ Vamadeva to start arrangements for the anointing ceremony of Rama. Vasishta and 
 officers present there to make all arrangements, describing them in detail. Dasaratha then orders
 Sumantra to bring Rama to the assembly. After letting Rama know of his desire, Dasaratha then
 advises Rama on how to rule the kingdom for the benefit of the people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ good; *vachaH* = sentence.
 
 King Dasaratha, accepted their salutations with folded hands resembling lotus buds
 and spoke good and agreeable words to them as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -109,8 +105,6 @@ comparision.
 
 "Oh! I am very much pleased and incomparable is my fortune in that you desire my
 beloved elder son to be anointed as prince. "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -157,8 +151,6 @@ Vasishta; *VaamadevaM cha* = Vaamadeva and; *braahmaNaan* = other brahmanas.
 
 King Dasaratha, thus duly returning the honor done by them, spoke while they were
 listening, to Vasishta, Vamadeva and other Brahmans as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -209,8 +201,6 @@ Rama as prince)"; *uparate* = while completing; *raajJNaH* = the king's;
 "This is the glorious and auspicious month of Chaitra, in which the forests bloom
 with flowers. Let all arrangements be made for the coronation of Rama as prince." While these words
 of the king were being completed, there was a great delightful uproar of the people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -257,8 +247,6 @@ words; *vasishhTham* = to Vasista; *munishaarduulam* = the best of sages.
 
 When their applause gradually subsided, King Dasaratha spoke the following words to
 the best of sages, Vasishta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -300,8 +288,6 @@ for the anointing ceremony of Rama.
 
 "Oh Divine Vasishta! Be pleased to order now for the traditional ceremonial that is
 to be done and various accessories needed for the anointing ceremony of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -352,8 +338,6 @@ who were there; *kR^itaaJNjaliin* = with folded hands; *agrataH* = before;
 
 Vasishta, the best of Brahmans, hearing the words of king Dasaratha, ordered the
 officers who stood there with folded hands before the king, as follows: -
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -431,8 +415,6 @@ like, diamonds, things needed to perform worship, various herbs, white floral ga
 and clarified butter in separate vessels, new clothes, chariot, all weapons, the four divisions of
 army, an elephant with auspicious signs, white fan, flag staff, white umbrella, one hundred golden
 pots with brilliant shine, bull with gilded horns and a complete tiger skin".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -476,8 +458,6 @@ attractive smelling; *dhuupaiH* = incense.
 "If any other small things are required, arrange for all of them. Let the doorways
 of the royal palace and those of the entire city be worshipped with sandalwood paste, floral
 garlands and good smelling incense."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -524,8 +504,6 @@ completely; *alaM bhavet* = sufficient for; *shatasaahasre* = one hundred thousa
 
 "Let fine rice of good quality with milk and yogurt, fully sufficient for one
 hundred thousand Brahmans be arranged."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -567,8 +545,6 @@ yoghurt; *laajaaH cha* = corn and; *pushhkalaaH* = lot of; *dakshiNaashchaapi*
 
 "Let that rice be given with due respect to important Brahmans tomorrow at dawn;
 along with clarified butter, yogurt, corn, and lot of gifts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -612,8 +588,6 @@ summoned; *aasanaani cha* = and seats; *kalpyantaam* = be arranged.
 
 "There will be an invocation for the well being of all, tomorrow at sun rise. Let
 brahmanas be invited and suitable seats be arranged for them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -664,8 +638,6 @@ cha sichyataaM cha* = let royal roads be made wet; *sarve* = (let)all;
 
 "Let the flags be hung and the royal highways be sprinkled with water. Let well
 dressed dancers and musicians wait in second enclosure in the royal compound."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -712,8 +684,6 @@ dressed dancers and musicians wait in second enclosure in the royal compound."
 
 "As worshipping is to be done in temples and at road junctions, let some deserving
 people gather there with rice, eatables, presents and garlands separately."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -763,8 +733,6 @@ front yard of royal palace; *diirghaasibaddhaaH* = wearing long swords; *sannadd
 
 "Let all the warriors enter the well developed front yard of the royal palace with
 long swords, armors and clean clothing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ sheshham* = (those things) that remained.
 
 Those wise men Vasishta and Vamadeva attentively ordered for all those things to be
 done there, informed that to king Dasaratha and performed the remaining things also.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -864,8 +830,6 @@ words.
 
 Pleased and satisfied with the arrangements made Vasishta and Vamadeva approached
 king Dasaratha and told him that all had been done according to his words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -907,8 +871,6 @@ disciplined intellect; *aniiyataam* = be brought; *bhavataa* = by you;
 
 Afterwards, Dasaratha spoke to Sumantra "Let Rama, who has a disciplined intellect,
 be brought by you immediately."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -950,8 +912,6 @@ by the king.
 
 As commanded by the king, Sumantra brought there, Rama, the best of charioteers, in
 a chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1010,8 +970,6 @@ Devendra; *devaaH* = by celestials.
 Afterwards the kings belonging to east, west, north, south as well as those
 belonging to Mlechha kingdom, Aryaa Vartha kingdom and those ruling in hill and forest areas sat
 there and attended on King Dasaratha as celestials attended on Devendra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1055,8 +1013,6 @@ Devendra; *maruthaam* = in the midst of celestials; *dadarsha* = saw;
 
 The sage king Dasaratha, sitting in the midst of those kings like Devendra in the
 middle of the celestials, saw from the palace itself, his son Rama arriving in a chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1129,8 +1085,6 @@ had great strength and walked like a vigorous elephant. He had long arms, and wi
 face, he looked like the moon. He stole the eyes and minds of the people by his looks, generosity
 and virtues. King Dasaratha was thus not satiated enough in seeing Rama, coming like a cloud that
 gladdens people by relieving them from the scorching summer heat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1180,8 +1134,6 @@ father.
 
 Sumantra helped Rama to get down from the excellent chariot and with folded hands
 followed behind Rama, who approached his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1232,8 +1184,6 @@ Dasaratha.
 
 Rama, the best among men, ascended the steps of the palace, which resembled Mount
 Kailaasa, along with Sumantra, to see the king Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1281,8 +1231,6 @@ father; *praNataH* = bowed down; *shraavayan* = mentioning; *svam* = his own;
 
 Rama with folded hands approached his father, bowed down mentioning his own name and
 offered salutations to his father's feet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1324,8 +1272,6 @@ and; *sasvaje* = embraced.
 
 King Dasaratha took into his embrace that beloved son who was standing humbly beside
 him with folded hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1372,8 +1318,6 @@ bhuushhitam* = decorated with gold and diamonds.
 
 King Dasaratha gave Rama a great throne, which was high, excellent and beautiful,
 decorated with gold and diamonds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1421,8 +1365,6 @@ sun.
 
 Rama, occupying that great throne, caused it to shine with his own brightness, just
 as the spotless sun in the morning causes Meru mountain to shine with brilliance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1470,8 +1412,6 @@ stars.
 
 Rama by his brilliance made that assembly to shine, just as the moon shines the
 clear autumnal sky, with the dimless stars and planets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1518,8 +1458,6 @@ son; *aatmanamiva* = as seeing oneself; *alankR^itam* = adorned;
 
 King Dasaratha was as delighted in seeing his beloved son, as one delights in seeing
 oneself adorned, in a mirror.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1571,8 +1509,6 @@ best; *putravataam* = among those who have sons; *sasmitam* = smilingly;
 King Dasaratha, the best among those who have sons, smilingly conversed with his
 son, and addressed Rama as follows, as Kasyapa does to (his eldest son) Devendra (the ruler of
 gods).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1626,8 +1562,6 @@ gods).
 
 "Oh Rama! You are an exemplary son born to my exemplary elder wife. Being excellent
 in virtues, you are beloved son to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1645,8 +1579,6 @@ moon appears in conjunction with the constellation Pushya).
 "O, Rama! As you with your good qualities cherished these people, you get the
 princely kingdom on the day of Pushyami star (when the moon appears in conjunction with the
 constellation Pushya).."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1702,8 +1634,6 @@ friendship; *vakshyaami* = I can tell; *te* = to you; *hitam* = good
 
 "Oh, son! By nature, you are very humble and virtuous. Even then, because of my
 friendship with you, I can tell you this for your benefit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1719,8 +1649,6 @@ habits; *kaamakrodha samutthaani* = born of desire and wrath.
 
 "Be even more humble and always keep the senses under control. Leave the bad habits
 born out of desire and wrath."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1766,8 +1694,6 @@ others.
 **अनुवादः**
 
 "Through direct and indirect means, keep ministers and others happy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1830,8 +1756,6 @@ hence; *tvamapi* = you too; *aatmaanam* = (your)self; *samaachara* = act;
 "Like the celestials becoming happy after obtaining the nectar, friends of a king
 (ruler of earth) are delighted when he fills the granaries and armories to the brim, making the
 common people delightful and happy. Hence, you too act like this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1881,8 +1805,6 @@ news).
 
 The well -wishers of Rama, after hearing those words, intending to do good to
 Kausalya, immediately came to her and informed the matter to her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1923,8 +1845,6 @@ diamonds also; *priyaakhyebhyaH* = to those who informed the good news.
 
 The best among women, Kausalya gave away gold, cows and different types of diamonds
 to those who informed her good news.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -1969,8 +1889,6 @@ _________________
 
 Rama, after offering salutations to king Dasaratha, ascended the chariot and went to
 his splendid house after being worshipped by the crowds on the way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 </details>
 
@@ -2032,8 +1950,6 @@ houses.
 Having heard those words of the king, seeing their dearest wish gratified, the
 citizens took leave of the King Dasaratha and returned to their homes full of joy, in order to give
 thanks and render homage to the Gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

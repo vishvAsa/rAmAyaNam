@@ -19,8 +19,6 @@ V : Sundara Kanda - Book Of Beauty**
 Entering Lanka at night by placing His left foot desiring the destruction of
 enemies, Hanuma hears various musical instruments being played upon inside. He also observes
 enemies' forces and moves towards the royal gynaeceum.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -87,8 +85,6 @@ form; *abhipupluve* = leapt; *praakaaram* = (over) fortress wall; *advaareNa*
 That Hanuma the best among Vanaras, the great radiant one, the long armed one,
 conquered with His might the best Lanka who is capable of assuming desired form. He then leapt over
 the city wall at a place that was not a gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -114,8 +110,6 @@ of Lanka and thus actually placed His left foot on the enemies' heads.
 
 Comment : When entering a city of enemies, one who wishes their destruction
 should always place one's left foot first into the city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -186,8 +180,6 @@ Lanka.
 That son of Vayu endowed with great strength, entered the city at night and took the
 grand road shone by flowers and pearls. After that Hanuma went towards that beautiful city of
 Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -265,8 +257,6 @@ vibhuushhitaiH* = with windows decorated with diamonds.
 The beautiful city shone like the sky together with clouds, with its cloud like
 houses filled with sounds of laughter and with sounds of musical instruments at the interior, equal
 in strength to diamonds and clubs and with windows decorated with diamonds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -285,8 +275,6 @@ surprising ones; *padmasvastika saMsthitaiH* = with the shape of lotus and swast
 Then that city of Lanka shone brilliantly being well decorated by the houses of
 Rakshasas. These were modern houses which equalled white clouds, which were surprising with the
 shape of lotus and swastika and which were auspicious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 
 </details>
@@ -338,8 +326,6 @@ cha* = and became happy too.
 That glorious Hanuma, performer of beneficial deeds for Sugreeva the king of
 monkeys, moved around the city of Lanka which had wonderful garlands and jewellery, for the sake of
 Sri Rama. He saw the city and became happy too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -392,8 +378,6 @@ side.
 
 Going from one building to another, Hanuma saw buildings in various shapes and forms
 on every side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -414,8 +398,6 @@ Tara; *shushraava* = heard; *giitam* = song; *madhuram* = which was sweet.
 
 Hanuma heard a sweet song which was decorated by sound from the three svaras -
 Mandra, Madhya and Tara of love lorne women like Apsara women in heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -467,8 +449,6 @@ arms; *kshveLitaamshcha* = roar of ogres.
 Hanuma also heard there and there sound from the tinkling of ornaments worn around
 the waist in the houses of wealthy people, sounds of footfall over stair, sound from clapping of
 arms by warriors and roar of ogres.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -520,8 +500,6 @@ of arms; *kSveDitaamH ca* = roar of ogres.
 Hanuma also heard there and there sound from the tinkling of ornaments worn around
 the waist in the houses of wealthy people, sounds of footfall over stair, sound from clapping of
 arms by warriors and roar of ogres.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ ogres; *svadhyaayanirataan* = engaged in study of Vedas; *dadarsha* = saw;
 There Hanuma heard ritual chantings muttered by rakshasas in their houses. He saw
 ogres engaged in study of Vedas. He also saw roaring rakshasas who came together to praise
 Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -622,8 +598,6 @@ highway; *madhyame gulme* = in the central zone of the city.
 
 He saw many spies of Ravana and a big army of ogres which stood surrounding the
 royal highway in the central zone of city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -774,8 +748,6 @@ with strange armour, those who were not very fat, those who were not too thin, t
 neither tall nor short, those who were not very fair, those who were not very dark, those who were
 not very hunchbacked, those who were not very short, those who had great brilliance, those who
 carried banners, those who carried flags and those who carried different weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -904,8 +876,6 @@ weapons, those who carried Pattisas and thunderbolts, those who carried in their
 nooses, those who carried flowered garlands, wearing sandal paste and decorated with best
 jewellery, those who had various kinds of appearances roaming freely at will, those who carried
 sharp spikes and thunderbolts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -921,8 +891,6 @@ protective force; *avyagram* = attentive; *setasahasram* = equal in hundred thou
 
 Hanuma saw at the front of inner city, a hundred thousand central protective force
 which was attentive and was positioned there at the command of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -973,8 +941,6 @@ with lotuses as decorations; *parikaabhiHalamkR^itam* = garnished by moats;
 That Hanuma saw Ravana's house with a golden doorway. That famed house was on the
 top of a mountain. Motes filled with white lotuses surrounded it. It was also surrounded by a
 compound wall. He watched the house again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 
@@ -1064,8 +1030,6 @@ rendered noisy by neighing of horses and tinkling of ornaments, by chariots, veh
 aerial-cars and decorated by auspicious elephants and horses and great elephants with four tusks
 and by birds and animals in heat. It had beautiful entrances and was protected by thousands of
 rakshasas with great strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1084,8 +1048,6 @@ containing superb agallocum and sandal-wood.
 Hanuma entered the inner city of Ravana which was filled with gold, which had a
 golden court-yard , with a central area decorated by pearls and diamonds of great value and
 sprinkled daily with water containing superb algallocum and sandal-wood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
 </details>
 

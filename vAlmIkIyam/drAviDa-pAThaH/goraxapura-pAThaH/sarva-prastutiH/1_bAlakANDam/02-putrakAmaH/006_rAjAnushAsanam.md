@@ -20,8 +20,6 @@ Chapter [Sarga] 6**
 The riches and happiness enjoyed by the people, under the rein of Emperor Dasharatha,
  along with the details of its valiant heroes, elephants, horses and the town planning
  are narrated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -136,8 +134,6 @@ He who is well-versed in Veda-s, who is a gatherer of all scholars, riches and
  Kubera on earth with his wealth, accumulations and other possessions, he that
  king Dasharatha while dwelling in the city of Ayodhya protected the world, like
  Manu, the foremost protector of mankind. [1-6-3,4,5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 
 </details>
@@ -179,8 +175,6 @@ He who is well-versed in Veda-s, who is a gatherer of all scholars, riches and
 He that truth-abiding king, who adheres to the three-fold virtues rules the vast
  of that kingdom from that best city Ayodhya, as Indra rules heaven from his capital
  Amaravati. [1-6-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -228,8 +222,6 @@ He that truth-abiding king, who adheres to the three-fold virtues rules the vast
 In that best city Ayodhya all are exuberant yet virtuous ones, and scholars are
  variously learned ones, people are satisfied with their own riches, they have
  no greed, and they advocate truthfulness alone. [1-6-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -277,8 +269,6 @@ None with meagre accumulations is there in that great city and no householder
 An ordinary family *kuTumba* is an assemblage of the householder, his wife,
  two of his parents, two sons, two daughters-in-law, one daughter, and one guest,
  totalling to ten members.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -320,8 +310,6 @@ An ordinary family *kuTumba* is an assemblage of the householder, his wife,
 
 None can see a lustful person, or a miser or a cruel one anywhere in that Ayodhya,
  along with nondescripts or non-believers, for there are no such persons. [1-6-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -370,8 +358,6 @@ None can see a lustful person, or a miser or a cruel one anywhere in that Ayodhy
 All the ladies and gentlemen in that city are virtuous in mind, self-controlled
  ones, they are all self-satisfied like great saints, and both in their conduct
  and character they are blameless. [1-6-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -429,8 +415,6 @@ In that city none is there without his earrings, headgear, or garlands, none is
 Earrings are the indicators of scholarship, and there are grades in their make
  and design, on par with the education one receives. The headgears present their
  social status, while other decorations are to exhibit their lavishness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -473,8 +457,6 @@ Earrings are the indicators of scholarship, and there are grades in their make
 There is none who is famsihed, an uncharitable one in his nature, one with an
  undecorated body with ornaments like bracelets or chest plates, and there is none
  without a heart. [1-6-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -520,8 +502,6 @@ _________________
 There is none someone who is without sacrificial fires, and none without performing
  sacrificial rituals, and none is low in living; neither an immoral, nor a bastard
  nor even a thief, can be found in Ayodhya. [1-6-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -585,8 +565,6 @@ The donations received by Vedic scholars are not alms to beggars or charities
  they have to impart to their students free of any charge and that too, to the
  befitting students only. Thus, the words, *daana* and *pratigrahaNa*
  mean all these rules to accept a donation or to accord it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -640,8 +618,6 @@ The donations received by Vedic scholars are not alms to beggars or charities
 
 There is no atheist, no liar, and none is less learnt in Veda-s, and no one is
  found to be jealous, or disabled, or unscholarly person. [1-6-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -698,8 +674,6 @@ None can be found anywhere in Ayodhya without the knowledge of the six ancillari
  of Veda-s like astrology, prosody, grammar etc., none a non-performer of the prescribed
  rituals, and none a non-donor in thousands, thus none with a saddened heart, turmoil
  in mind or agonised in will is there. [1-6-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -742,8 +716,6 @@ None can be found anywhere in Ayodhya without the knowledge of the six ancillari
 Whoever it may be, either a gentleman or a lady, none is without wealth, even
  none without elegance or devoid of devotion to their king, and it is impossible
  to see suchlike person in Ayodhya. [1-6-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -791,8 +763,6 @@ In the four-caste system, from the first caste to the last, everyone is a worshi
 Though the word 'caste - Spanish and Portuguese *casta *- lineage, race, breed' is
  distasteful, it is used here for an easy communication. Latin *classis* - assembly'
  or section of society would be more suitable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -835,8 +805,6 @@ Though the word 'caste - Spanish and Portuguese *casta *- lineage, race, breed' 
 Longevity is there for all of the people, all are with virtuosity and truthfulness,
  and they lived in that best city along with their sons, grandsons and their ladies.
  [1-6-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -893,8 +861,6 @@ The warrior class Kshatriya-s is turned towards the Brahmans, the scholarly clas
  of the Kshatriya-s, the ruling class, for the state's economy is dependent on
  the rulership. And the fourth one, Shuudra-s, the working class, while performing
  its own duties, is always working for the other castes. [1-6-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -936,8 +902,6 @@ The warrior class Kshatriya-s is turned towards the Brahmans, the scholarly clas
 
 That city is well protected by that king from Ikshwaku dynasty namely Dasharatha,
  like Manu, the foremost king of mankind in earlier times. [1-6-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -986,8 +950,6 @@ That city is well protected by that king from Ikshwaku dynasty namely Dasharatha
 That city Ayodhya is replete with firebrand like skillful warriors that are intolerant
  of insults, and who have prosecuted their education in archery, chariot-wars,
  swordplay etc. and with them it is like a cave replete with lions. [1-6-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -1085,8 +1047,6 @@ Sometime back, say during 1985-87, the
  country referred may nearly mean Roman, as Persians term Greeks as Unani in India,
  advent to the arrival of Alexander, the Great. We still have an herbal medication
  called Unani, a hybrid between Ayurveda, Greek and Persian herbal treatments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1137,8 +1097,6 @@ Sometime back, say during 1985-87, the
 Born in Vindhya Mountains, and also from Himalayan regions, mighty are the elephants
  fully vigorous and fattened ones, and most powerful in their strength and each
  in similitude is a huge mountain. [1-6-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -1195,8 +1153,6 @@ It is said that eight elephants from eight corners called *aSTadiggaja*
  Elephant of Indra, *anjana* , the Elephant of *varuNa* , the Rain-god,
  *vaamana* , the Elephant of Yama, the Lord of Death, and another is *
  punDariika* . Thus, the elephants of Ayodhya are termed as divine breed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -1262,8 +1218,6 @@ The *bhadra* is the elephant class for King's ride, called *bhadragaja*
  *mandra* and *mR^iga* are classes of breed tamed and used in wars
  or for the ride of other nobility. These are the essential mammals used for other
  lifting and carrying works.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1281,8 +1235,6 @@ The *bhadra* is the elephant class for King's ride, called *bhadragaja*
 While residing in which city King Dasharatha ruled the world that city is further
  fortified up to two more yojana-s outside city, true to its name
  a yodhya , an un-assailable one. [1-6-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -1324,8 +1276,6 @@ While residing in which city King Dasharatha ruled the world that city is furthe
 In which city the great resplendent and admirable king Dasharatha resided, he
  ruled the world from that city with silenced enemies, like the moon governing
  the stars. [1-6-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 </details>
 
@@ -1375,8 +1325,6 @@ With gorgeous arches, castle-door-bars and with amazingly built houses that city
  is magnificent and auspicious one, and full with thousands of provincial kings
  too, and king Dasharatha, a coequal of Indra, indeed ruled that city which is
  true to its name. [1-6-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

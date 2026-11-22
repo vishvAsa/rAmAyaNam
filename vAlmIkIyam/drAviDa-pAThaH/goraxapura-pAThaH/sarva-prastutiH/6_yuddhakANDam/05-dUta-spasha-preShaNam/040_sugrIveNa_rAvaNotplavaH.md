@@ -21,8 +21,6 @@ springs to the top of the gate where Ravana is bounces on him, pulls his thrown 
 on the ground. thereafter, Ravana and Sugreeva carry on duel for a long time without any fatigue.
 They wrestle endlessly in different postures. Finally, after reducing Ravana to exhaustion,
 Sugreeva comes back and rejoins his monkey-troops.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -106,8 +104,6 @@ with enchanting groves.
 Halting there just for a while and surveying the ten cardinal points, Rama saw the
 city of Lanka, which was beautifully constructed by Visvakarma, the divine architect on the top of
 Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -209,8 +205,6 @@ dark cloud, who bore on his breast scars of wounds inflicted on him by Airavata 
 carries Indra the Lord of celestials, on his back) with his tusks, wrapped in a cloak of red colour
 resembling the colour of hare's blood and looked like a mass of clouds in the sky enveloped with
 sunshine at sunset.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -256,8 +250,6 @@ sunshine at sunset.
 
 On seeing Ravana, Sugreeva got up all at once, while Rama and the chiefs of the army
 of monkeys were looking on.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -299,8 +291,6 @@ Ravana was).
 
 Gathering up his strength and courage, Sugreeva, in an impulse of fury, bounded from
 the summit of the mountain and then sprang to the top of the gate (where Ravana was).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -342,8 +332,6 @@ spoke; *vachaH* = (the following) words; *parusham* = harshly.
 
 For a moment, he paused and then with a fearless soul, he saw that demon, whom he
 regarded as a mere straw and thereafter spoke the following words harshly:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -391,8 +379,6 @@ today; *mayaa* = by me; *tejasaa* = by the inspiring grace; *paarthivendrasya*
 
 "O, demon! I am a friend and a servant of Rama, the Lord of the world. You will not
 be spared by me today, by the inspiring grace of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -440,8 +426,6 @@ brightly coloured; *mukuTam* = crown; *paatayaamaasa* = and threw; *tat* = it;
 
 Thus speaking, Sugreeva jumped up all at once, bounced over on ravana, pulled his
 brightly coloured crown from his head and threw it away on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -493,8 +477,6 @@ handsome neck); *me parokSe* = when you were not present before my eyes; *bhaviS
 Seeing Sugreeva about to rush upon him again, Ravana spoke as follows: "You were
 Sugreeva (one who has a handsome neck), when your were not present before my eyes. But now, you
 will now become Hinagriva bereft of your neck."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -536,8 +518,6 @@ having raised up; (Ravana); *baahubhyaam* = with his two arms; *kSipram* = quick
 
 Speaking thus, Ravana raised up and quickly flung Sugreeva to the ground with both
 his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -624,8 +604,6 @@ Ravana and Sugreeva of great strength carried on a duel which was unbearable, wi
 perspiration broke out on their limbs, with their bodies red with blood, each clung to other other
 paralyzing his opponent's movements resembling silk-cotton and Kimshuka trees, followed by blows of
 fists, slaps of hands blows of elbows and blows of fingers on each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -673,8 +651,6 @@ flat roof of the gate-way.
 Having wrestled for a long time in the center of the flat floor of the gate way,
 each in turn repeatedly lifting their bodies and bending their feet in a particular way, the two
 highly swift combatants remained in that flat roof of the gate way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -730,8 +706,6 @@ shvasantau* = to regain their breath.
 Crushing one another and their bodies clung together, they both dropped down between
 the defensive walls and the moat. They would leap up again, seizing each other from the ground,
 after pausing an instant to regain their breath.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -753,8 +727,6 @@ yojanas).
 
 Then, Rama along with Sugreeva, together with the troop leaders of monkeys, ascended
 the top of Suvela mountain which was having a circumference of sixteen miles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -815,8 +787,6 @@ maarge = in the arena.
 With arms interlaced like with ropes joined together, they remained locked together
 in the struggle. Both of them, who had received training in wrestling and fully endowed with night,
 were now moving to and fro in the arena.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -872,8 +842,6 @@ ground; *yugapat* = together.
 The two heroes, who resembled a tiger and a a lion having their tusks growing or two
 young lordly elephants encountening in a hostile manner, with arms interlaced and having duly tried
 their strength, fell on the ground together.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -924,8 +892,6 @@ jagmatuH* = nor did they obtain; *aashu* = so quickly; *klamam* = fatigue.
 
 Thereafter rising, those two heroes hurled themselves on each other, circling around
 the arena again and again, like skilled and mighty wrestlers, nor were they easily fatigued.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -985,8 +951,6 @@ and moved; *aashu* = speedily; *maNDala maargam* = in a circular path.
 Like unto great tuskers with their enormous arms resembling the trunks, those two
 warriors were keeping back each other, fought vehemently for a long time and moved speedily in a
 circular arena.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -1027,8 +991,6 @@ meat; *yattau* = trying; *anyonya suudane* = to kill each other;
 
 Approaching each other like tow wild cats fighting over a piece of meat trying to
 kill each other, they stood growling again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -1120,8 +1082,6 @@ urine, coming and going, stepping side ways, having a retrograde motion to avoid
 about abandoning the attack, dashing towards each other, leaping, standing firm and erect,
 retreated, turned sideways, rushed in a bent posture, ran lifting their foot to kick the opponent
 and by letting go or stealing away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -1178,8 +1138,6 @@ commence; *maayaabalam* = his magic power; *jJNaatvaa* = knowing; *tam* = it;
 Meanwhile, Ravana decided to common using his magic power. Knowing it, Sugreeva flew
 into the sky triumphantly shaking off all fatigue, while Ravana, baffled by Sugreeva stood
 confounded there alone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -1240,8 +1198,6 @@ side of Rama; *harigaNabalamadhye* = in the middle of the monkey-troops.
 Thus, the Lord of the monkeys, acquiring fame as a warrior, reducing Ravana to
 exhaustion, ascended into the infinite sky and the offspring of the Sun then went to the side of
 Rama, who as in the middle of the mokye-troops.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 </details>
 
@@ -1297,8 +1253,6 @@ foremost of the Raghu dynasty; *puuhyamaanaH* = honoured; *tarumR^iga samprahR^i
 That Sugreeva, the offspring of the Sun, who was endowed with a speed of the wind,
 having accomplished that feat there, increasing the military zeal of the foremost of Raghu dynasty,
 honoured by the monkey leaders and delighted, rejoined the army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

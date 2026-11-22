@@ -19,8 +19,6 @@ thousand miles, as none can leap a. Every important monkey says that his capabil
 than that. Angada is again despaired as none is coming forward, nor he is allowed to go, in the
 name of his prospective kingship. But Jambavanta pacifies and starts to encourage and invigorate
 Hanuma to undertake the task of leaping the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -97,8 +95,6 @@ Then on hearing the words of Angada those best vanara-s, anamely Gaja, Gavaaksha
 Gavaya, Sharabha, Gandhamaadana, Mainda and Dvivida, and Susheshana, and like that Jambavanta have
 individually said about their abilities in the matter of leaping the ocean according to their turn.
 [4-65-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -147,8 +143,6 @@ gamiSyaami* = Gavaaksha, twenty, yojana-s, I can go; *iti aaha* = thus, he said.
 
 In that matter Gaja said, "I can fly ten yojana-s..." and Gavaaksha said, "I can go
 over twenty yojana-s..." [4-65-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -336,8 +330,6 @@ doubt..." The vanara Mainda said the monkeys in that matter, "I venture to jump 
 yojana-s..." Then the great-resplendent Dvivida informed, "I can go up to seventy yojana-s, no
 doubt..." But mighty Shushena, the best and the great resplendent monkey said, "I promise to jump
 eighty yojana-s..." [4-65-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -387,8 +379,6 @@ while saying so; *taan sarvaan anumaanya* = them, all, on appreciating;
 
 Jambavanta, the oldest one among all of them, appreciating them who are telling
 about their jumping capacities, has informed them in this way. [4-65-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -446,8 +436,6 @@ are presently on the other shore of our age... [4-65-11]
 **टिप्पनी**
 
 The use of the word 'us' is to mean 'for me...' as a kind of royal 'we'.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -479,8 +467,6 @@ telling their capacity is 'a little lesser than a hundred yojana long jump...' I
 their lack of aptitude to 'just jump' but it is their 'fear for Ravana' that is deterring them. As
 such, here Jambavanta as the senior most member had to reprimand them with words like
 'non-observance, heedlessness...' etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -496,8 +482,6 @@ I say [you understand]; *yojanaanaam navatim gamiSyaami* = yojana-s, ninety, I [
 
 "While we say you may hear what cruise we have at this age... we can go up to ninety
 yojana-s, undoubtedly... [4-65-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -550,8 +534,6 @@ only; *na aasiit khalu* = not, is there [limited,] definitely.
 
 Jambavanta further said this to all of those best monkeys, "my capability in the
 stint of going was not definitely limited only thereunto... [4-65-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -571,8 +553,6 @@ His incarnation as Trivikrama, when He grandiosely increased His physique from t
 Divine-Dwarfish Brahman boy to that of an Omnidirectional Being, thus filling whole of the Universe
 to tread all the three worlds, during the time of Vedic-ritual of Emperor Bali, the legatee of
 Vairocana... [4-65-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -619,8 +599,6 @@ was, un, matched; *param* = unsurpassed; *aasiit* = it was.
 
 "Such as I was, I am presently old and decrepit and I have become slow jumping
 soldier of misfortune, though my energy in youth was unmatchable and unsurpassable. [4-65-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -668,8 +646,6 @@ task's, accomplishment; *na bhaviSyati* = not, will be there.
 "Now, at this age it is possible for me to go on my own only thereunto... and by
 that much endeavour that task will be unaccomplished..." So said Jambavanta to monkeys.
 [4-65-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -721,8 +697,6 @@ thereafter said these salutary words. [4-65-18]
 
 Though Jambavanta is a bear he is reckoned as one with monkeys because bear's
 nature and behaviour 'nearly' equals that of gorillas, chimps, or even monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -769,8 +743,6 @@ vaa* = not, or; *iti* = that; *nishcitam na* = definite, not.
 
 "I can vault over this ocean which is broadwise in a hundred yojana-breadth, but
 whether I am capable of coming back or not, it is indefinite... [4-65-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -818,8 +790,6 @@ said; *hari R^ikSa sattama* = oh, among monkeys, bears, best one - oh, Jambavant
 That expert in sentence making, Jambavanta said to the best one among monkeys namely
 Angada, "oh, Angada, the best one among monkeys and bears, I know about your capability in
 traversal... [4-65-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -869,8 +839,6 @@ ucyate* = not, indeed, said [uncanonical.]
 
 "Why a hundred, if need be you are capable to go up to a hundred thousand yojana-s
 and come back... but this method of our sending you is uncanonical... [4-65-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -918,8 +886,6 @@ you, sendable [assignable.]
 
 "Oh, dear Angada, in anyway lord assigner cannot be an assignee, hence oh, best
 fly-jumper, all of these people are assignable by you... [4-65-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -972,8 +938,6 @@ is the method... [4-65-23]
 
 The word kalatra meaning 'that which need be protected,' has other meanings like
 'wife, buttock...' etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1020,8 +984,6 @@ protected like; *sadaa paalyaH* = always, to be safeguarded.
 
 "Oh, enemy-subjugator, really you are the linchpin to this mission, thereby oh, dear
 Angada, you are always to be protected like anything that needs safeguarding... [4-65-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1072,8 +1034,6 @@ guNaaH sidhyanti* = all, endowments, will accrue.
 " 'The prime mover of a task is to be safeguarded...' is the byword of the
 taskmasters, and indeed if only the prime mover is there, all the endowments are achievable that
 yield fruits... [4-65-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1124,8 +1084,6 @@ sampannaH* = sagacity, audacity, privileged with; hetuH principle - you are the 
 "Thereby, oh, truth-valiant Angada, you are instrumental to this task and as you are
 privileged with sagacity and audacity, oh, enemy-inflamer, you are the keystone for this task of
 searching Seetha... [4-65-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1173,8 +1131,6 @@ hi* = objective [of our task,] in achieving, we will be capable, indeed.
 "For us you are indeed a respectable one by yourself, and as the son of respected
 Vali too, and oh, best monkey, sheltered by you we are indeed capable of achieving the objective of
 our task..." So said Jambavanta to Angada. [4-65-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1221,8 +1177,6 @@ vaakyam* = answer, sentence; *prati uvaaca* = in reply, said.
 
 When that highly scholarly Jambavanta has said thus, the great monkey and the son of
 Vali Angada said this sentence in reply as an answer. [4-65-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1269,8 +1223,6 @@ self-immolation, is to be undertaken, is it not.
 
 "If I am not proceeding to Lanka, nor any other monkey is proceeding, then we have
 to undertake self-immolation once again, isn't it! [4-65-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1318,8 +1270,6 @@ not, I perceive.
 
 "I do not perceive any secure protection for our lives on our going to Kishkindha
 without fulfilling the bidding of that resolute king of monkeys Sugreeva... [4-65-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1369,8 +1319,6 @@ as good as entering our own doom.]
 "Sugreeva is a lord who shows either forgiveness or furiousness immoderately... and
 our going to Kishkindha trespassing his bidding is as good as our entering into our own doom...
 [4-65-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1419,8 +1367,6 @@ eva* = you, alone; *samcintayitum arhati* = to deeply think, apt of you.
 "It will happen in that way only as our going back to Kishkindha results in no other
 way, thereby it will be apt of you to think deeply, as you can envision the implications..." Thus
 Angada said to Jambavanta. [4-65-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1467,8 +1413,6 @@ Angada said to Jambavanta. [4-65-32]
 
 When that best and valiant fly-jumper Jambavanta is said that way by Angada, then
 Jambavanta advised him in this best sentence to Angada. [4-65-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1515,8 +1459,6 @@ success; *enam samcodayaami* = him, I will motivate.
 
 "Oh, brave Angada, this mission of yours will not be thwarted in the least. I will
 motivate him who achieves success of this mission of searching Seetha... [4-65-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 </details>
 
@@ -1592,8 +1534,6 @@ says this only: *
 niilo a~Ngado
 hanuumaan ca jaambavaan atha kesarii | samudra tiiram aagamya na shekuH spanditum padam |
 raavaNasya balam j~naatvaa tiire nada nadii pateH | skaanda puraaNa*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

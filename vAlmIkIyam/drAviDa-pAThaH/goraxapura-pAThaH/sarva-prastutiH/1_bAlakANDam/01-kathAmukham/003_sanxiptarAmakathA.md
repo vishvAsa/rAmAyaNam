@@ -16,8 +16,6 @@ title_english = "003 Valmiki sees rAma's story"
 The scheming of the composition of epic Ramayana is described here. Whole of the epic
  is rendered in its quintessence, as to how Sage Valmiki scheduled the narration of important
  milestones of the epic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -82,8 +80,6 @@ _________________
 On hearing the essence of Ramayana from Sage Narada, which is abound with probity and
  prosperity, and a propitious one too, that virtue-souled Valmiki started searching for
  further known details in the legend of that dexterous Rama. [1-3-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -144,8 +140,6 @@ Valmiki sitting on a sacred grass mat, whose apices are towards east, touched wa
 Comment: Touching/sipping waters *aachamana, pariSechana* , before undertaking
  any auspicious work, including daily meal, is customary, because water cleanses the internal
  system, both mind and body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -210,8 +204,6 @@ Of Rama, Lakshmana and Seetha, also of King Dasharatha and his wives, and what b
  on Rama when he was in kingdom Ayodhya; Valmiki veritably discerned all that. Their smiles,
  their conversations, their deeds and the succession of events as well, all of them the
  sage saw wholly and clearly by the yogic power conferred by Brahma...] [1-3-3,4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 </details>
 
@@ -268,8 +260,6 @@ _________________
 Then, that which bechanced on truth-abiding Rama, while he is trekking in forests, with
  a lady being the third partner, where Lakshmana is the lone male aide, Valmiki visualized
  all that. [1-3-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 </details>
 
@@ -311,8 +301,6 @@ Then, that which bechanced on truth-abiding Rama, while he is trekking in forest
 
 Then that virtue-souled sage saw what all that has happened earlier, by his yogic exaltation,
  as though it is a citric fruit in his own palm. [1-3-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 </details>
 
@@ -435,8 +423,6 @@ Comment: The pleasures and gains of the humans are *puruSaartha* -s, in its axio
  these peripherals are of high value. Thus this is an ear pleasing by its musical melody
  and heart pleasing by its meaningful wording. Further, it is pleasant for its import is
  in accordance with all the scriptures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -452,8 +438,6 @@ Comment: The pleasures and gains of the humans are *puruSaartha* -s, in its axio
 
 That godly saint Valmiki composed the legend of Rama, the legatee of Raghu, exactly as
  the divine-soul Narada narrated it earlier. [1-3-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -500,8 +484,6 @@ That godly saint Valmiki composed the legend of Rama, the legatee of Raghu, exac
 The birth of Rama as an incarnation of Vishnu, his very great valour, his gracefulness
  to all, his universal cordiality, perseverance, courteousness, and his truthful conduct,
  Valmiki described them all. [1-3-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 </details>
 
@@ -547,8 +529,6 @@ The birth of Rama as an incarnation of Vishnu, his very great valour, his gracef
 
 Narrated are very many other amusing stories, Rama's breaking the great bow; his associated with
  sage vishvamitra... [1-3-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 </details>
 
@@ -598,8 +578,6 @@ Dispute of Rama and Parashurama; the merits of Rama, the son of Dasharatha; and 
 Comment: Rama is *shriiraama* one who delights in *shrii* , where *shrii*
  is Goddess Lakshmi. Where as Parashurama delights in his axe *parashu* axe; and
  Balarama, the brother of Krishna delights in his own *bala* might.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -620,8 +598,6 @@ Comment: Rama is *shriiraama* one who delights in *shrii* , where *shrii*
 
 Disruption in royal unction of Raghava; his exile to forests; King Dasharatha's grief
  and bewailing, and thus his departing to other worlds... [1-3-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -637,8 +613,6 @@ Disruption in royal unction of Raghava; his exile to forests; King Dasharatha's 
 The grief of the subjects; Rama leaving them off; his conversing with tribal chief Guha;
  returning the charioteer Sumantra to kingdom from forests, leaving the trio at the banks
  of river Ganga... all these elements are well- described. [1-3-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 </details>
 
@@ -823,8 +797,6 @@ _________________
 
 Crossing over River Ganga; looking up Sage Bharadwaja; their look up at Chitrakuta on
  Sage Bharadwaja's advise... [1-3-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -841,8 +813,6 @@ Crossing over River Ganga; looking up Sage Bharadwaja; their look up at Chitraku
 Construction of a hermitage and dwelling therein; Bharata's arrival at that place for
  the graciousness of Rama to take back the kingdom; Rama's denial of it; Rama's offering
  water oblations to his father on hearing the demise of his father... [1-3-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -858,8 +828,6 @@ Construction of a hermitage and dwelling therein; Bharata's arrival at that plac
 
 Enthroning shoe-sandals of Rama by Bharata; Bharata's living in a village Nandigrama;
  Rama's going to Dandaka forests; killing the demon named Viradha... [1-3-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -877,8 +845,6 @@ Rama's visit to Sage Sarabhanga and Suteekshna; their visiting hermitic lady Ana
  and her smooth speaking with Seetha and also her giving a body cream to Seetha...[by applying
  which cream Seetha will not wither away in the rough weather of woods. These details are
  incorporated with great care.] [1-3-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -893,8 +859,6 @@ Rama's visit to Sage Sarabhanga and Suteekshna; their visiting hermitic lady Ana
 
 Also even Rama's seeing the Sage Agastya, and likewise taking a great bow from that sage...
  also the palaver of Surpanakha, the demoness, and defacing her, likewise... [1-3-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -910,8 +874,6 @@ Also even Rama's seeing the Sage Agastya, and likewise taking a great bow from t
 
 The elimination of demons like Khara, Trishirasa and the upsurge of Ravana thereby;
  elimination of demon Mareecha, and Ravana's abduction of Vaidehi, likewise... [1-3-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -927,8 +889,6 @@ The elimination of demons like Khara, Trishirasa and the upsurge of Ravana there
 
 Raghava's anguish at the loss of Seetha; Ravana's slaying the mighty eagle Jatayu; Rama's
  seeing Kabandha, and also Lake Pampa...[1-3-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -944,8 +904,6 @@ Raghava's anguish at the loss of Seetha; Ravana's slaying the mighty eagle Jatay
 
 Rama's seeing Shabari, a hermetic lady and eating fruits and tubers given by her in utmost
  adoration; Rama's bemoaning for Seetha; his sighting Hanuma at Lake Pampa... [1-3-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -960,8 +918,6 @@ Rama's seeing Shabari, a hermetic lady and eating fruits and tubers given by her
 
 Also going to Mt. Rishyamuka, meeting Sugreeva and generating confidence in Sugreeva,
  befriending him and the duel of Vali and Sugreeva... [1-3-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -984,8 +940,6 @@ Also thus Vali's elimination and establishing Sugreeva on throne of monkey kingd
 Comment: This *raatri* usually means night. But it includes day also. When saying
  *triraatra, dasharaatra*, in conducting rituals it includes daytime also. On the
  whole it is total rainy season that is admirably narrated in KiShkindhaa Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1002,8 +956,6 @@ Comment: This *raatri* usually means night. But it includes day also. When sayin
 The wrath of Raghava, the lion, at the delay caused by Sugreeva, and Sugreeva's foregathering
  of all troops, and sending them to all quarters, and Sugreeva's description of earth's
  topography to monkey-troops... [1-3-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1022,8 +974,6 @@ Rama's giving his ring to Hanuma as a token for Seetha's recognition... and the 
  remained unsuccessful, and their seeing Sampaati, another mighty eagle and the brother
  of slain Jatayu, who guides the monkeys to the destination where Seetha is held captive.
  [1-3-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1040,8 +990,6 @@ Rama's giving his ring to Hanuma as a token for Seetha's recognition... and the 
 Hanuma's climbing Mt. Mahendra to leap over the ocean, and on the advice of the Ocean,
  Mt. Mainaka's coming up from under waters to give rest to Hanuma, and Hanuma's seeing
  that mountain are depicted. [1-3-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1059,8 +1007,6 @@ Hanuma's killing the demoness Surasa, and his seeing of Simhika, a rapacious cre
  of gigantic origin, which captures its prey by the shadow, and Hanuma's killing that Simhika,
  and his seeing the mountain of Lanka, called Mt. Trikuta, on which the state of Lanka
  is built, Valmiki described them all. [1-3-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1077,8 +1023,6 @@ Hanuma's killing the demoness Surasa, and his seeing of Simhika, a rapacious cre
 In night Hanuma's entry into Lanka, for being lonely his thinking over the course to search
  for Seetha, and his going to the liquor consumption place, and also his seeing the palace
  chambers of Ravana... [1-3-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1093,8 +1037,6 @@ In night Hanuma's entry into Lanka, for being lonely his thinking over the cours
 
 Hanuma's seeing Ravana, and also his seeing Pushpaka, the divine aircraft, and wandering in Ashoka
  gardens, his seeing Seetha also... [1-3-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1111,8 +1053,6 @@ Hanuma's seeing Ravana, and also his seeing Pushpaka, the divine aircraft, and w
 Presenting his credential, the ring of Rama, to Seetha and his talk with Seeta, and also
  his witnessing the demonesses scaring Seetha to oblige Ravana, and his witnessing demoness
  Trijata narrating her bad dream, are all narrated in the epic. [1-3-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1128,8 +1068,6 @@ Presenting his credential, the ring of Rama, to Seetha and his talk with Seeta, 
 Seetha's giving her bejeweled hairslide to be shown to Rama, Hanuma's uprooting of the
  trees of that beautiful Ashoka gardens, thereby the demonesses fleeing in scare, his killing
  the guards of that garden... [1-3-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1147,8 +1085,6 @@ The capture of Hanuma, the son of Air-god, by the magical missile of Indrajit, s
  Ravana, and also Hanuma's burning down Lanka, and his blaring at the demons, also his
  return flight from Lanka... and on his way back Hanuma's seeing a honey garden, and the
  appropriation of honey... [1-3-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1163,8 +1099,6 @@ The capture of Hanuma, the son of Air-god, by the magical missile of Indrajit, s
 
 Hanuma's action in presenting the jewel sent by Seetha solaces Raghava, and thus the meeting
  of Rama with the Ocean, and Nala's building the bridge on ocean... [1-3-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1180,8 +1114,6 @@ Hanuma's action in presenting the jewel sent by Seetha solaces Raghava, and thus
 Crossing over the ocean by the boulder bridge built by Nala, and seizure of Lanka in night,
  and Vibheeshana, the younger brother of Ravana, whom Ravana banished, comes to meet Rama,
  and his telling the scheme to kill Ravana to Rama... [1-3-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1192,8 +1124,6 @@ Crossing over the ocean by the boulder bridge built by Nala, and seizure of Lank
  = elimination of Meghanada; *raavaNasya vinaasham ca* = Ravana's, annihilation,
  also; siitaavaaptim areH pure = restitution of Seetha in
  enemy's, city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1209,8 +1139,6 @@ Crossing over the ocean by the boulder bridge built by Nala, and seizure of Lank
 Crowning of Vibheeshana as the king of Lanka, after the demise of Ravana, and also Rama's
  seeing Pushpaka, the divine aircraft, and returning to Ayodhya in that aircraft... and
  Rama's meeting Sage Bharadvaja on his way back... [1-3-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1235,8 +1163,6 @@ Sending Hanuma to meet Bharata, for he avowed to self-immolate if Rama were not 
  in time; the coronation festival of Rama; disbandment of all military troops of monkeys;
  Rama's ruling his kingdom to the delight of his subjects, and the desolation of Vaidehi
  too... are described by Valmiki. [1-3-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1263,8 +1189,6 @@ Comment: In this verse, some take the word *uttare* as Uttara Ramayana, the even
  to write, it is unacceptable since the word *uttare* occurs for only one occasion,
  hence cannot mean next canto. Thus, they say, Uttara Ramayana cannot be ascribed to Valmiki.
  Hence the word *uttare* here is taken to mean henceforth, hereinafter of the epic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ Ravana enters the battle-field and with his mystic missile, frightens several
 monkeys and destroys them. Rama and Lakshmana come and attack Ravana. Then, Rama and Ravana fight
 each other with various kinds of arrows. When the missile employed by Ravana is struck down by
 Rama, all the monkeys shout loudly with a rejoice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -83,8 +81,6 @@ and addressed; *idam vaakyam* = the following words:
 Seeing Mahodara and Mahaparshva the demons having been killed, and that valiant and
 mighty Virupaksha struck down in that great battle, a tremendous anger took possession of Ravana.
 He urged on his charioteer and addressed to him the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -133,8 +129,6 @@ Rama and Lakshmana.
 "Killing those two princes, Rama and Lakshmana, I will remove surely the sorrow
 caused to me on account of the ministers who have been killed and the city which has been laid
 siege to (by the monkeys)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -198,8 +192,6 @@ whose principal branches are; *sugriivaH* = Sugreeva; *jaambavaan* = Jambavan;
 yield fruit through its flower in the form of Seetha, whose principal branches are Sugreeva,
 Jambavan, Kumuda, Nala, Dvivida, Mainda, Angada, Gandhamadana, Hanuma, Sushena and all the chiefs
 of monkey-warriors."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -246,8 +238,6 @@ abhyadhaavata = rushing towards Rama.
 
 Ravana, the mighty and the surpassing Chariot-Warrior, went quickly, making a noise
 in all the ten directions, with the sound of the chariot, rushing towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -288,8 +278,6 @@ and forests; *trasta simhamR^igadvijaa* = having frightened lions; antelopes and
 
 Filled with that sound, the entire earth, with its rivers, mountains and forests,
 trembled, throwing lions, antelopes and birds, into fright.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -333,8 +321,6 @@ kapiin* = all the monkeys; *te* = they; *prapetuH* = fell down;
 
 He employed very highly terrific and exceedingly frightful mystic missile called
 Tamasa, which began to consume all the monkeys, who started falling down on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 
 </details>
@@ -386,8 +372,6 @@ indeed; *sahitum* = bear; *tat* = that missile; *nirmitam* = built;
 
 Dust began to fly up from the earth, while those frustrated monkeys were fleeing
 away for they could no longer bear that missile built by Brahma himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ Rama; *paryavasthitaH* = stood ready for the battle.
 
 Seeing those hundreds of many of his armies shattered by excellent arrows of Ravana,
 Rama took his stand, ready for the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -511,8 +493,6 @@ saw Rama, the annihilator of his enemies, who was endowed with long arms and eye
 petals standing unconquered with his brother Lakshmana-like Indra the lord of celestials is seen
 with Vishnu, the supreme lord of preservation-holding up his great bow as though scraping the
 sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -559,8 +539,6 @@ middle.
 Seeing the disappointed monkeys and Ravana advancing, the mighty Rama who was
 endowed with a great splendour and accompanied by Lakshmana who were born in Raghu dynasty, then
 pleasingly seized his bow at the middle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -601,8 +579,6 @@ pleasingly seized his bow at the middle.
 
 Thereupon, Rama began to stretch his excellent bow, which was endowed with great
 force and sonorous, as though he was breaking the earth asunder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -643,8 +619,6 @@ those demons; *petuH cha* = fell down; *shatashaH* = in their hundreds.
 
 Then, due to that buzzing sound produced by the streams of Ravana's arrows as also
 by the twang of Rama's bow, those demons fell down in their hundreds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -693,8 +667,6 @@ the sun.
 That Ravana, coming within the range of arrow-shots of Rama and Lakshmana, resembled
 Rahu (the demon who is supposed to seize the sun and the moon), standing in the vicinity of the
 moon and the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -736,8 +708,6 @@ like flames of fire.
 
 Wishing to fight him with his sharp arrows at the earliest, Lakshmana stretching his
 bow, released his arrows which were like flames of fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -778,8 +748,6 @@ energy; *pratyavaarayan* = prevented; *taan* = those; *baaNaan* = arrows;
 
 Ravana of extra ordinary energy prevented those arrows, the moment they were
 released by Lakshmana, with his arrows, in the sky itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -820,8 +788,6 @@ three with three; *dashabhiH dasha* = and ten with ten arrows.
 
 Showing the dexterity of his hand, Ravana split the arrows of Lakshmana one with
 one, three with three and ten with ten arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -871,8 +837,6 @@ battle-field; *aparam shailam iva* = like another mountain.
 
 Overpassing Lakshmana, Ravana the victorious in battle, approached Rama, who stood
 like another mountain, in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -922,8 +886,6 @@ arrows.
 
 Having approached Rama, Ravana the lord of demons, having his eyes turning red-blood
 through anger, released streams of arrows upon him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -969,8 +931,6 @@ thereupon quickly seized hold of 'Bhalla'* arrows in haste.
 **टिप्पनी**
 
 Bhalla - A variety of arrows with a crescent - shaped head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1020,8 +980,6 @@ like enraged serpents; *tiikShNaiH bhallaiH* = with his sharp "Bhalla' arrows.
 
 Then, Rama tore off that multitude of arrows, which were blazing and looking very
 terrific like enraged serpents, with his sharp Bhalla - arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1071,8 +1029,6 @@ arrows; *vividhaiH* = of various kinds.
 
 Rama on Ravana and Ravana on Rama, quickly showered each other with streams of
 sharp-pointed arrows of various kinds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1121,8 +1077,6 @@ undefeated (the two warriors); *chakratuH* = described; *maN^Dalam* = circles;
 Pushing back each other with the velocity of their arrows and remaining undefeated,
 the two warriors described circles of different kinds each moving from left to right, for a long
 time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1171,8 +1125,6 @@ resembled the god of retribution and the god of death respectively; *yugapat* = 
 Created beings were frightened, even as both the terrific warriors were fighting all
 at once, releasing their arrows at each other, thus resembling the god of retribution and the god
 of Death respectively.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1220,8 +1172,6 @@ lightning.
 
 The sky at that time became dense with arrows of various kinds, even as it is
 covered, at the end of the monsoon, with clouds crowded with crowns of lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1270,8 +1220,6 @@ high speed.
 The sky was studded as with eye-holes, by showers of arrows of high velocity, which
 were extremely sharp-pointed and adorned with plumes of vultures and were loosed with high
 speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1317,8 +1265,6 @@ speed.
 
 They initially made the sky dark with arrows. Even after the sun-set, they made it
 dark, like two huge clouds risen in it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1367,8 +1313,6 @@ took place between Vritra the demon and Indra the lord of celestials.
 A great combat ensued between both of them, who were willing to kill each other.
 That battle was unimaginable and unapproachable, like the duel that took place between Vritra the
 demon and Indra the lord of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1416,8 +1360,6 @@ the battle-field.
 
 Both the warriors were excellent archers. Both were skilled in war-fare. Both were
 eminently skilled in the use of missiles. Both moved unhindered in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1458,8 +1400,6 @@ oceans; *vaayuviddhaaH* = whipped by the wind.
 
 In whichever course both of them went, in the same respective direction, streams of
 arrows went, like waves in two oceans, whipped by the wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1500,8 +1440,6 @@ arrows went, like waves in two oceans, whipped by the wind.
 
 Ravana, having skilful hands and a cause for the cry of the world, released a row of
 steel arrows on Rama's forehead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1548,8 +1486,6 @@ lotus-petals; *na abhyapadyata* = he did not get; *vyathaam* = perturbed.
 
 Rama endured on his head, that row of steel arrows, having a lustre of black
 lotus-petals, discharged from the terrific bow. He did not get perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1601,8 +1537,6 @@ bow.
 Thereupon, seizing hold of more arrows, reciting sacred incantations and making use
 of the missile presided over by Rudra and stretching his bow, the valiant Rama of great splendour
 was filled with anger and released those arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1646,8 +1580,6 @@ generate; *vyathaam* = any pain; *tadaa* = at that time.
 
 Fallen on the unbreakable armour of Ravana, which looked like a large cloud, those
 arrows could not cause any pain to him at that time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1695,8 +1627,6 @@ chariot.
 
 Rama, who was skilled in the use of all types of mystic missiles, forthwith pierced
 in the forehead, yet again by a paramount missile, that Ravana seated in his chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1743,8 +1673,6 @@ the earth; *raavaNa pratikuulitaaH* = when rebuffed by Ravana.
 
 Having pierced the frames of arrows of Ravana, Rama's arrows penetrated like
 five-headed hissing serpents into the earth, when rebuffed by Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1791,8 +1719,6 @@ five-headed hissing serpents into the earth, when rebuffed by Ravana.
 
 Striking down Rama's missile, that Ravana, who was stupefied with anger, employed
 another exceedingly terrific missile presided over by demoniac forces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -1882,8 +1808,6 @@ bringing fear.
 He released sharp arrows, having the heads of lions and tigers, those of buzzards
 and crows, even of vultures and faloons, as well as those of jackals and wolves, arrows with their
 mouths wide open, having the heads of venomous snakes with five heads, bringing fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1908,8 +1832,6 @@ those of boars; *shvaana kukkuTa vaktraamshcha* = dogs and cocks;
 Hissing like a serpent provoked to anger Ravana who was endowed with extraordinary
 energy and conjuring tricks, released towards Rama these and other arrows, having the heads of
 donkeys, those of boars, dogs and cocks as also of alligators and venomous snakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1927,8 +1849,6 @@ fire.
 Possessed by a missile presided over by demoniac forces, that Rama endowed with a
 great strength and resembling the god of fire, released a missile presided over by the god of
 fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -2007,8 +1927,6 @@ resembling flashes of lightning.
 Rama employed there, various kinds of arrows, with heads bright as fire, others with
 heads shining like the sun, the moon, the crescent, a comet, others shining like planets, lunar
 mansions and a huge meteor and some arrows resembling flashes of lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -2055,8 +1973,6 @@ mansions and a huge meteor and some arrows resembling flashes of lightning.
 
 Struck by Rama's missile, the terrific arrows of Ravana got destroyed in the sky and
 fell down in thousands of pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -2109,8 +2025,6 @@ valiant monkeys; *kaama ruupiNaH* = who were capable of changing their form at w
 Rejoiced to see that missile struck down by Rama, who was unweary in action, all the
 valiant monkeys, who were capable of changing their form at will, then encompassing Rama, raised a
 clamour, facing Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 </details>
 
@@ -2162,8 +2076,6 @@ of joy; *vineduH uchchaiH* = shouted loudly.
 Striking down with force that missile which came forth from Ravana's arms, the
 great-souled Rama, then was filled with rejoice while the chiefs of monkeys, full f joy, shouted
 loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

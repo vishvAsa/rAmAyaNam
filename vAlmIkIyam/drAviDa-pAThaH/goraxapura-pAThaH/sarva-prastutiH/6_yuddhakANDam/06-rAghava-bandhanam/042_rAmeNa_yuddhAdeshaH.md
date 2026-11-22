@@ -23,8 +23,6 @@ of Lanka and besiege all the city-gates. Ravana also commands his army to commen
 of couches blown by the army and terrible roars on both sides re-echoes the air, earth and sea.
 Demons begin to strike the monkeys with their weapons and the monkeys respond the strike with
 trees, mountain-tops, nails and teeth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -101,8 +99,6 @@ his arrangements; *aarohatacha* = and ascended; *praasaadam* = his mansion.
 
 Hearing that the city has been attacked, Ravana exhibiting his anger, doubly made
 the necessary arrangements for the war and ascended his mansion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -150,8 +146,6 @@ war.
 
 That Ravana caught a glimpse of the city of Lanka, with its mountains, groves and
 forests all being covered by innumerable troops of monkeys, waiting for war.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -199,8 +193,6 @@ monkeys; *saH* = Ravana; *abhavat* = became; *chintaaparaH* = lost in thought;
 
 Seeing the earth made all brown with innumerable monkeys, Ravana in great perplexity
 reflected: "How can they be exterminated?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -247,8 +239,6 @@ with his eyes widened by surprise; *saH* = that Ravana; *dadarsha* = saw;
 
 Having pondered for long, regaining his confidence and with his eyes widened by
 surprise, Ravana gazed on Rama and his troops of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -290,8 +280,6 @@ demons.
 
 Full of delight, Rama passed forward (on the back of a monkey) along with his army
 and saw Lanka being guarded on all sides and thronged with demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -338,8 +326,6 @@ pataakiniim* = decorated with banners and flags; *daasharathiH* = Rama; *jagaama
 
 Seeing that city of Lanka duly decorated with banners and flags, Rama remembered
 Seetha with a distressed heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -388,8 +374,6 @@ here.
 He said to himself, "Here is that daughter of Janaka, whose eyes resemble those of a
 fawn, tormented with grief, emacitated, with a bare ground as her bed and suffering here on my
 account."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -430,8 +414,6 @@ to the monkeys; *vadhe* = to destroy; *dviSataam* = the enemies.
 
 Reflecting on Seetha being troubled, the virtuous Rama speedily issued a command to
 the monkeys to destroy the enemies forthwith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ resembling those of a lion.
 
 Hearing those words of Rama, who was unwearied in action, the monkeys vying with one
 another filled the air with their roaring resembling those of lion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ alone; *iti* = thus; *dadhire manaamsi* = resolved ; *sarve* = all;
 
 "We shall tear asunder this Lanka with mountain-peaks or with fists alone." - thus
 resolved all the monkey- generals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -541,8 +519,6 @@ been besieged; *raameNa* = by Rama; *vaanaraiH saha* = along with his monkeys.
 
 Then, the demons there, approached Ravana and informed him that the city had been
 besieged by Rama along with his monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -584,8 +560,6 @@ attack).
 
 Lifting up mountain peaks and huge rocks and plucking up various kinds of trees, the
 monkey-generals stood prepared (for the attack).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -632,8 +606,6 @@ gazing; *raaghava priya kaamaartham* = in order to fulfill Rama's cherished desi
 
 In order to fulfill Rama's cherished desire, those troops, forming themselves into
 columns, began to scale the heights of Lanka, while Ravana stood gazing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -682,8 +654,6 @@ Rama's sevice.
 Those monkeys, of golden hue with coppery countenance, fighting with Sala trees and
 mountain-peaks, marched ahead towards the city of Lanka, ready as they were to lay down their lives
 in Rama's service.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -730,8 +700,6 @@ demolished; *asamkhyaani* = innumerable; *praakaaraaNi* = defensive walls;
 
 Those monkeys demolished innumerable defensive walls and arches with blows from
 trees, mountain-tops and fists.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -778,8 +746,6 @@ grasses; *kaaSThaishcha* = and logs of woods.
 
 The monkeys filled the moats containing clear water with sands, mountain-tops,
 grasses and logs of wood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -827,8 +793,6 @@ with other.
 
 The commanders scaled the walls of Lanks, taking with them battalions of monkeys in
 thousands, in crores and even hundreds of crores.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -881,8 +845,6 @@ of Shiva the god of destruction; *plavaNgamaaH* = the monkeys (attacked Lanka).
 
 The monkeys stood tearing up the golden arches and breaking down the gates that
 equaled the peak of Kailasa the mountainous abode of Shiva the Lord of Destruction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -898,8 +860,6 @@ that Lanka; *aaplavanta* = sprining; *plavantashcha* = leaping;
 
 The monkeys who resembled great elephants hurled themselves towards that Lanka,
 springing, leaping and roaring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -956,8 +916,6 @@ towards the defensive walls; *laN^kaayaaH* = of Lanka.
 The monkeys, who were able to change their form at will, shouting - "Victory to the
 mighty Rama and the valiant Lakshmana!" "Victory of Sugreeva protected by Raghava!" and roaring,
 rushed towards the defensive walls of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1013,8 +971,6 @@ multitude of military divisions.
 
 Those monkey-generals Virabahu, Subahu, Nala and Panasa, having position on them.
 Meanwhile, they formed an encampment of a multitude of military divisions there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1062,8 +1018,6 @@ stationed in north-east).
 
 The mighty Kumuda, surrounded by a crore of monkeys, who behaved like conquerors,
 stood besieging the eastern gate (while remaining stationed in north-east).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1113,8 +1067,6 @@ _________________
 
 Surrounded by other monkeys, a monkey called Prasabha and the mighty armed Panasa
 too up their position, in order to assist Kumuda himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1163,8 +1115,6 @@ stood; *aavR^itya* = surrounding it.
 The strong and valiant monkey, Shatabali accompanied by twenty crores of monkeys,
 approached the southern gate (while remaining stationed in south-east) and stood there, to obstruct
 the exit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1213,8 +1163,6 @@ the exit.
 The mighty monkey named Sushena, the father of Tara (Vali's wife), going to the
 western gate (while remaining stationed in the south-west) surrounded by crores and croes of
 monkeys, stood besieging that gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1264,8 +1212,6 @@ gate)
 
 Rama along with Lakshmana and Sugreeva the mighty lord of the monkeys, seeking the
 northern gate (while remaining stationed in the north west) stood besieging that gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 
 </details>
@@ -1314,8 +1260,6 @@ rage; *tasthau* = stood; *paarshvataH* = by the side; *raamsya* = of Rama.
 Accompanied by a crore of bears having terrific rage, Dhumra (brother of Jambavan,
 the king of bears) of great prowess and the annihilator of enemies, took up his position by the
 side of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1363,8 +1307,6 @@ mighty Rama (was stationed).
 
 Vibhishana of great energy with mace in hand, clad in defensive armour and
 accompanied by his watchful ministers, took his position where the mighty Rama is stationed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1414,8 +1356,6 @@ defended; *hari vaahiniim* = the army of monkeys.
 
 Gavaksha, Gavaya, Sharabha and Gandhamadana, galloping on all sides, defended the
 army of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1462,8 +1402,6 @@ of all the army; *drutam* = immediately.
 
 Ravana the lord of demons with his mind filled in anger, then commanded for the
 decamping of the entire army immediately.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1510,8 +1448,6 @@ the demons; *sahasaa* = immediately; *tadaa* = then.
 
 At this command coming from Ravana lips, a tremendous clamour arose among the
 demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1552,8 +1488,6 @@ demons; *hemakoNaiH* = with sticks of gold; *samantataH* = on all sides;
 
 By beating with sticks of gold, the demons stirred up on every side, kettle drums
 whose discs were white as the moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1603,8 +1537,6 @@ of couches; *mahaaghoSaaH* = with great noise; *vinedushcha* = blared for the;
 
 Hundreds and thousands of sonorous couches blared forth, blown with their cheeks
 extended to the full, by the most ghastly demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1651,8 +1583,6 @@ lightning; *sabalaakaaH* = accompanied by rows of cranes.
 
 With their handsome limbs equipped with couches, those rangers of night shone like
 clouds bordered with lightning accompanied by rows of cranes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1700,8 +1630,6 @@ which is swollen (by clouds).
 
 The battalions rushed forth under Ravana's instructions like the rushing forth of
 the ocean, which is swollen by the clouds, at the time of universal dissolution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1742,8 +1670,6 @@ kandaraH* = with its ridger plains and caves.
 
 Then, from every side a clamour, arose from the army of monkeys, which filled Malaya
 mountain with its ridges, plains and caves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1784,8 +1710,6 @@ sky; *saagaramcha* = and sea.
 
 The sound of couches and drums made by the demons and the leouine roars of those
 monkey- warriors re-echoed over the earth, sky and sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1839,8 +1763,6 @@ niHsvanaiH* = and the sounds of the couches re-echoed over the earth; sky and se
 With the trumpeting of elephants, the neighing of the horses, the clattering of the
 chariot-wheels and the sounds of the foot-steps, the sound of the couches reechoed over the earth,
 sky and sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1856,8 +1778,6 @@ demons; *vaanaraaNaam* = and the monkeys; *puraa yathaa* = as; in former times;
 
 In the meantime, a terrible struggle ensued between the demons and the monkeys, as
 in the former times between celestials and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1904,8 +1824,6 @@ parasvadhaiH* = spears; harpoons and axes; *pradiiptaabhiH* = which were flaming
 
 Exhibiting their native prowess, the demons began to strike all the monkeys with
 their flaming maces, spears, harpoons and axes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -1974,8 +1892,6 @@ war-cry.
 
 Then, the gigantic monkeys swiftly struck those demons with trees, mountain-tops,
 nails and teeth "Victorious is king Sugreeva" - thus arose a loud war-cry.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -2026,8 +1942,6 @@ standing on the ground (below); *bhindi palaaishcha* = with hooks and harpoons.
 Then, some other terrifying demons on their part, shouting "Be winsome! Be
 victorious!", proclaimed their own respective names. While some demons standing on walls hacked at
 the monkeys standing on the ground (below) with hooks and harpoons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -2078,8 +1992,6 @@ them) with their arms.
 
 The enraged monkeys, who wee standing on the ground, leapt into the air and dragged
 down the demons stationed on the walls by seizing them with their arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 
@@ -2126,8 +2038,6 @@ kardamaH* = leaving a mire of flesh and blood.
 
 That tumultuous combat between demons and monkeys transformed into a wonder, leaving
 a mire of flesh and blood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
 </details>
 

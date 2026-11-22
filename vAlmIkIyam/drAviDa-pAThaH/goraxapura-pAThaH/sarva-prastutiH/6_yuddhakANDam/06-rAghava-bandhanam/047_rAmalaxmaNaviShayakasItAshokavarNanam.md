@@ -18,8 +18,6 @@ Seetha in Pushpaka-plane to the battle-front and show Rama and Lakshmana alleged
 killed by Indrajit. Accordingly, the female-demons take Seetha in Pushpaka-plane and show her Rama
 and Lakshmana lying unconscious on a bed of arrows in the battle-field. Imagining Rama and
 Lakshmana to have been dead, Seetha bursts into sobs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ protected him.
 
 Indrajit, the son of Ravana having returned to Lanka, his purpose accomplished, the
 leading monkeys surrounded Rama in order to watch over him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -138,8 +134,6 @@ Hanuman, Angada, Nila, Sushena, Kumuda, Nala, Gaja, Gavaksha, Panasa, Sanuprasth
 and the mighty Jambavan with Sunda, Rambha, Shatabali and Prithu all these monkeys, armed with
 trees, reorganized their ranks, stood alert, surveyed the quarters of the sky up and down and on
 every side and, even if a grass stirred, they exclaimed, "It is a demon!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -181,8 +175,6 @@ female-demons; *siitaa raakSaNiiH* = who guarded Seetha; *tadaa* = then.
 
 Ravana, meanwhile, full of joy, dismissed his son Indrajit and thereafter summoned
 the female demons who guarded Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -226,8 +218,6 @@ follows)
 
 Following his orders, the female-demons along with Trijata appeared before him.
 Then, the rejoiced Ravana said to them as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ aeroplane; Pushpaka; *darshayadhvam* = show; *hatau* = Rama and Lakshmana; kille
 
 "Tell Seetha that Rama and Lakshmana have been killed by Indrajit. Take her in
 Pushpaka the aeroplane and show her Rama and Lakshman who were killed in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -313,8 +301,6 @@ Pushpaka the aeroplane and show her Rama and Lakshman who were killed in battle.
 
 "Her husband, the one depending on whom rendered her so proud that she refused to be
 united with me, lies there killed with his brother in the battle-front."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -357,8 +343,6 @@ of reunion.
 
 "From now on, free from anxiety, grief and expectation of reunion, Seetha the
 princess of Mithila kingdom, adorned in all her jewels, will submit herself to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -406,8 +390,6 @@ me; *svayam* = herself; *apashyatii* = without finding; *anyaam* = any other;
 "Beholding Rama and Lakshmana fallen under the sway of death on the battle-field
 today, finding no other haven and hoping for nothing else, the large-eyed Seetha will voluntarily
 seek refuge with me!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -450,8 +432,6 @@ Pushpaka-plane was there.
 
 Hearing these words of the cruel Ravana, they all replied, "Be it so" and went to
 where the Pushpaka chariot was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -494,8 +474,6 @@ grove.
 
 Thereafter, the female-demons brought the aerial car, Pushpaka as per the
 instructions of Ravana and carried it nearer to Seetha who was staying in Ashoka-grove.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -537,8 +515,6 @@ instructions of Ravana and carried it nearer to Seetha who was staying in Ashoka
 
 The female-demons brought Seetha who was afflicted with grief for her husband and
 made her to ascend Pushpaka-plane.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -576,8 +552,6 @@ show; *tasyai* = her; *raama lakSmaNau* = Rama and Lakshmana.
 
 The female-demons along with Trijata made Seetha to ascend Pushpaka-plane and
 proceeded to show her Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -616,8 +590,6 @@ demons; *hR^iSTaH* = thrilled with rapture; *kaarayaamaasa* = made; *laN^kaam*
 Ravana the king of demons, thrilled with rapture, caused Lanka to be garlanded with
 flags and banners and arranged a proclamation to be made in Lanka announcing that Rama and
 Lakshmana had been slain by Indrajit in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -659,8 +631,6 @@ had been slain.
 
 Seetha along with Trijata, transported by that plane, saw all the monkey-troops who
 had been slain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -702,8 +672,6 @@ paarshvataH* = by the side of Rama and Lakshmana.
 
 Seetha saw the demons who were delighted at heart and monkeys disturbed with grief,
 standing round Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -764,8 +732,6 @@ the ground.
 Then, Seetha beheld those two warriors Rama and Lakshmana lying unconscious on the
 ground on a bed of arrows, their limbs pierced with arrows, riddled with weapons, their armour
 shattered, their bows cast aside at a distance and their entire body transfixed by darts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -819,8 +785,6 @@ On seeing those two brothers, who were filled with valour, having lotus-eyes, th
 excellent of men, lying streteched on a bed of arrows there in that wretched plight like the two
 sons of the fire-god (Shkha and Vishakha) lying on a bed of reeds, Seetha wailed piteously,
 stricken as she was with a great agony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -856,8 +820,6 @@ lying paamsuSu = in the dust; *ruroda* = burst into sobs.
 
 The dark-eyed Seetha the daughter of Janaka with her faultless limbs, beholding her
 lord and Lakshmana lying in the dust, burst into sobs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 </details>
 
@@ -906,8 +868,6 @@ shokaabhihataa* = struck by grief with tears; *vitarkayantii* = believing;
 
 Witnessing those brothers, the prominent sons of god, Seetha afflicted with tearful
 sorrow, believing their death, spoke with grief the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga47/yuddhasans47.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

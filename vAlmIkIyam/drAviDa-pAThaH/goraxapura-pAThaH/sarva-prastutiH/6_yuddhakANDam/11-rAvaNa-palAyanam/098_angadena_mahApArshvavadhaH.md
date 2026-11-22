@@ -17,8 +17,6 @@ When Mahaparshva enters the battle-field and torments the monkeys, Angada comes 
 their rescue and hits him. Jambavan also enters the field and breaks the chariot and the horses of
 Mahaparshva. Then, Angada knocks the bow and the helmet of Mahaparshva, as they fall down. Finally,
 Mahaparshva falls dead, succumbing to a forcible blow of Angada's fist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ arrows.
 
 Seeing Mahodara killed by Sugreeva, the mighty Mahaparsva for his part with his
 red-blood eyes through anger, forthwith stirred up the terrific army of Angada with his arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ red-blood eyes through anger, forthwith stirred up the terrific army of Angada w
 
 That demon struck down the heads of monkey-chiefs from their trunks, as wind would
 throw down a fruit from its stalk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ chit* = of others.
 
 Moreover, that demon very quickly chopped off the arms of some monkeys with his
 arrows and struck down the region of the ribs of others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ became; *gatachetasaH* = bereft of their senses.
 
 Tormented by the flight of arrows of Mahaparshva, all those monkeys were downcast
 with despair and lost heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ his tempo; *samudraH iva* = like an ocean; *parvasu* = on full-moon days.
 
 Seeing his army depressed on being tormented by the demon, Angada who was endowed
 with a great impetuosity, exhibited his tempo like an ocean on full-moon days.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -316,8 +304,6 @@ combat.
 
 Taking hold of a steel rod, with its radiance equal to that of the sun, hurled it on
 Mahaparshva in that combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ that Mahaparsva; *apata vichetanaH visajJNaH* = dropped senseless and unconsciou
 
 By that blow, that Mahaparsva dropped senseless and unconscious on the ground from
 his chariot along with is charioteer
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -428,8 +412,6 @@ strength; *babhaN^ja* = and broke; *tam syandanamcha* = that chariot too.
 The energetic Jambavan, looking like a heap of black collyrium, who was exceedingly
 powerful, battalion which resembled a black cloud a mountain-peak, killed his horses with his
 strength and broke that chariot too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -472,8 +454,6 @@ strength and broke that chariot too.
 
 Regaining his consciousness within a while, the mighty Mahaparshva again struck
 Angada with his many arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -489,8 +469,6 @@ Gavanksha too; *bahubhiH sharaiH* = with many arrows.
 
 He struck Jambavan, the king of bears with three arrows in his chest and struck
 Gavaksha too with many arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -537,8 +515,6 @@ aN^gadaH* = that Angada; *krodhamuurchhitaH* = infatuated with anger; *jagraaha*
 
 Seeing Gavaksha and Jambavan tormented by the arrows, that Angada was infatuated
 with anger and seized hold of a terrific iron rod.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -600,8 +576,6 @@ stood at a distance; *vadhaartham* = to kill him.
 Firmly holding that iron rod, which shone like the rays of the sun, with both hands
 and turning it around with force, Angada son of Vali, his eyes red with anger, hurled it on that
 Mahaparshva the demon, who stood at a distance, with an intention to kill him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -649,8 +623,6 @@ helmet.
 
 Hurled by the mighty Angada, that iron rod for its part, knocked the bow with the
 arrow fitted to it, from the demon's hand and also his helmet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -691,8 +663,6 @@ the temple (root of the ear); *sakuN^Dale* = shining with an ear-ring.
 
 Approaching him with speed and with anger, the valiant Angada slapped him on the
 temple (root of the ear), shining with an ear-ring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -733,8 +703,6 @@ parashvadham* = of a huge axe; *ekena kareNa* = in one hand.
 
 Enraged as he was, that Mahaparsva for his part, who was endowed with a great
 swiftness and enormous splendour, seized hold of a huge axe in one hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -775,8 +743,6 @@ strong; *tam* = axe; *taila dhautam* = which had been washed in oil;
 
 Extremely enraged, the demon hurled that stainless and strong axe, which had been
 washed in oil and which was made of steel, on Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -821,8 +787,6 @@ shoulder-bone.
 
 Full of anger, that Angada evaded that axe, which had been aimed by him mostly at
 his left shoulder-bone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -869,8 +833,6 @@ enraged; *samvartayaamaasa* = and firmly tightened; *aatmanaH muShTim* = his fis
 
 That valiant Angada, with his prowess equal to that of his father, was quite enraged
 and firmly tightened his fist resembling a thunder-bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -911,8 +873,6 @@ sparsham* = which invaded like a thunderbolt; *hR^idayam prati* = on the bosom;
 
 Knowing the vital parts of the body, Angada pounced his fist, which invaded like a
 thunderbolt, on the boson of the demon, in the vicinity of his breasts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -962,8 +922,6 @@ _________________
 
 With the blow of that fist in that great combat, the fleshy part of his heart was
 blasted and he fell dead on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -1007,8 +965,6 @@ ground; *tat* = that; *sainyam* = army; *samprachukShubhe* = got confused;
 
 When Mahaparshva fell dead on the ground, his army got confused. A mammoth anger
 arose in Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -1055,8 +1011,6 @@ town-gates.
 That highly profound lion's roar of the rejoiced monkeys, by its noise, was well
 like the loud sound of the gods along with Indra the lord celestials, nay, by its vibrations
 breaking asunder as it were the City of Lanka with its attics and town-gates.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 </details>
 
@@ -1111,8 +1065,6 @@ with anger.
 
 Hearing the loud noise of monkeys, as also of the celestials in the battle-field,
 the enraged Ravana the adversary of Indra, then stood prepared for a battle again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

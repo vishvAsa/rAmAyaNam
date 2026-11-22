@@ -18,8 +18,6 @@ the island where Lanka is located is described herein. The chapter also depicts 
 on seeing the city and his initial thoughts about the feasibility of the task of overcoming the Rakshasas and
 Ravana to reunite Sri Rama with mother Seetha. As the book progresses, we shall see how Hanuma overcomes these
 thoughts and moves toward achieving this task.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ _________________
 
 That Hanuma with great strength crossed the insurmountable ocean without becoming tired and viewed the city of
 Lanka located on the peak of Mount Trikuta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ released by trees.
 **टिप्पनी**
 
 Comment : Being showered by flowers is considered auspicious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ had been replaced by land mass over a period of time. Most of the land to the so
 had been covered by landmass in antiquity. Also according to Ramayana, the mountains Trikuta, Lamba and Suvela
 were to the north of Lanka, but currently the mountains are found in the southern part of Lanka. This suggests
 that the northern parts of current Lanka were submerged in water during the Ramayana period.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ that the northern parts of current Lanka were submerged in water during the Rama
 
 "I can cross many hundreds of yojanas. What to say about the end of the ocean which had been counted to be hundred
 yojanas long?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ great ocean.
 
 That Hanuma, the best among powerful ones and the foremost also among those who can fly, reached the city of Lanka
 by crossing the great ocean with good speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ _________________
 **अनुवादः**
 
 He passed through forests with dark green hued fragrant lawns and also consisting of great rocks and hills.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -361,8 +347,6 @@ with trees; *vanaraajiishcha* = and on series of trees; *pushhpitaaH* = (which w
 
 Hanuma, the best among Vanaras and the radiant one, tread on mountains covered with trees and on series of trees
 full of flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -408,8 +392,6 @@ full of flowers.
 
 That son of God Vayu stood on a mountain and saw forests and gardens and also the city of Lanka situated on the
 top of a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -525,8 +507,6 @@ Kadamba trees and seven leaved banana trees, Asana trees, Kovidaras, Karaviras i
 tied by the weight of their flowers and flower buds, that were distressed by birds, with their crests moved by
 wind, wells and various glorious pleasure-groves filled by various trees that give fruits and flowers in all seasons
 and beautiful gardens also, surrounded by various ponds consisting of swans and ducks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -674,8 +654,6 @@ Seetha's abduction, by Ravana and by Rakshasas with horrifying voices roaming ar
 a golden boundary wall, that beautiful great city consisted of houses equal in height to mountains and which looked
 like autumnal clouds, with white and elevated main streets, decorated with flags and pennons, with excellent golden
 hued archways adorned with sculpted rows of vines.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -725,8 +703,6 @@ puram yathaa* = like a city located in the sky.
 
 That best among monkeys Hanuma saw the city of Lanka with beautiful white buildings situated on the top of a mountain
 like a city located in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -770,8 +746,6 @@ _________________
 
 Hanuma saw that city of Lanka ruled by Ravana the king of Rakshasas, constructed by Visvakarma (architect of Gods),
 and which looked as though it were floating in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -849,8 +823,6 @@ water (in the moat) as her raiment; *shataghnii shuula keshantaam* = Satagnis an
 Hanuma saw the city of Lanka with buttress and enclosure wall as her hip and loins, the vast body pf water in
 the moat as her raiment, Satagnis and Sulas as her locks, the mansions as her earrings, constructed by thought.
 He reached the northern gate and thought thus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -946,8 +918,6 @@ Patala), one which was unfathomable, a well arranged and a clear city governed b
 by courageous, horrible serpents and Rakshasas with mouths with sharp teeth like a cave, with spikes and Pattisas
 (spears) in their hands. Hanuma saw that Lanka's great protection and the ocean and Ravana the horrible enemy
 and thought thus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -993,8 +963,6 @@ and thought thus.
 
 "Even if Vanaras were to come here they would not meet with success. It is not possible even for Devas to be victorious
 against Lanka in war".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1037,8 +1005,6 @@ kiM karishhyati saH mahaabaahuH raaghavaH* = what can that Sri Rama with mighty 
 
 "Even if He reaches this very difficult and impenetrable Lanka ruled by Ravana, what can that Sri Rama with mighty
 arms do"?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1088,8 +1054,6 @@ gift; *na bhedasya* = no (opportunity for) dissension; *yuddhasya* = (an opportu
 
 "In the matter of overcoming rakshasas, there seems to be no opportunity for persuasion, gifts, dissension or
 even war".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1132,8 +1096,6 @@ Sugriva.
 **अनुवादः**
 
 "Only four great Vanaras can come here - the son of Vali (Angada), Nila, myself and the wise king Sugriva".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1172,8 +1134,6 @@ if she is alive or; *na* = not; *chintayishhyaami* = I will think; *tatriava* = 
 **अनुवादः**
 
 "I will first find out if Seetha is alive or not. I will think all this later, after seeing that daughter of Janaka".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1217,8 +1177,6 @@ _________________
 
 After that, that elephant among monkeys Hanuma who was interested in the welfare of Sri Rama, stood on that mountain
 peak and thought for an instant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1258,8 +1216,6 @@ ruupeNa* = in this appearance; *purii* = the city; *rakshasaam* = of rakshasa; *
 **अनुवादः**
 
 "It is not possible for me to enter the city of ogres protected by cruel and strong rakshasas, with this appearance".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1302,8 +1258,6 @@ _________________
 
 "All these mighty ogres with extraordinary energy and great prowess are to be cheated by me while engaged in the
 search of Seetha".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1353,8 +1307,6 @@ mayaa* = by me; *praveshhTum* = to enter; *laN^kaapurii* = city of Lanka; *laksh
 
 "To achieve this great deed successfully, entering the city of Lanka in a small form at night is a timely thing
 to do" .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1403,8 +1355,6 @@ or asuras; *chintayaamaasa* = (and) thought; *muhurmuhuH* = repeatedly.
 
 Hanuma saw such that city of Lanka, which was difficult to overcome even for Devas or asuras, and thought thus
 repeatedly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1449,8 +1399,6 @@ Seetha; *janakaatmajaam* = the daughter of Janaka; *adR^ishhTaH* = unseen; *dura
 **अनुवादः**
 
 "By what idea can I see Seetha the daughter of Janaka, unseen by the wicked Ravana, the king of the ogres.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1493,8 +1441,6 @@ knower of self; *na vinashyet* = not be destroyed; *pashyeyam ekashcha* = (How) 
 
 "How can the task of Sri Rama, one who knows self, not be destroyed? How can I alone see Seetha alone in a place
 devoid of people?."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1544,8 +1490,6 @@ deshakaalavirodhitaaH* = being against the place and time; *bhuutaaH* = ready; *
 
 "With a mediator who has an unsteady and gloomy mind working against time and place, tasks that are otherwise
 ready to succeed get harmed, like the darkness that gets destroyed at dawn".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1588,8 +1532,6 @@ respected by scholars; *ghaatayanti hi* = will also harm; *kaaryaaNi* = tasks (d
 
 "Even a decided mind will not shine when thinking about gain and loss. Mediators who are respected by scholarly
 people will also harm tasks due to their arrogance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1636,8 +1578,6 @@ people will also harm tasks due to their arrogance."
 
 "How will the task at hand be not harmed? How will my mind not get gloominess? How will not the crossing of ocean
 go waste?."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1697,8 +1637,6 @@ task; *raamasya* = of Sri Rama; *viditaatmanaH* = one with famed mind; *icchataH
 
 "If I were to be seen by rakshasas, this task of Sri Rama, with a famed mind, who desires the slaying of Ravana
 will become wasteful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1713,8 +1651,6 @@ will become wasteful."
 
 "It is not possible to be in Lanka even in the form of a rakshasa. What to say about being there in any other
 form?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1780,8 +1716,6 @@ is nothing; *aviditam* = not known; *baliiyasaam raakshasaanaam* = to the mighty
 
 "My thought goes thus: Even wind cannot pass here without being known. There is nothing not known to the might
 rakshasas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1795,8 +1729,6 @@ of my usual form; *upayaasyaami* = I can obtain; *vinaasham* = destruction; *art
 **अनुवादः**
 
 "If I stay here with my usual form, I can be destroyed. The task of the Lord will also be harmed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1840,8 +1772,6 @@ Sri Rama.
 
 "For that reason, I will become small in my appearance and will enter Lanka at night for the success of the task
 of Sri Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1889,8 +1819,6 @@ of Ravana; *drakshyaami* = I can see; *janakaatmajaam* = Seetha.
 **अनुवादः**
 
 "Entering the unapproachable city of Lanka at night and searching all the mansion of Ravana, I can see Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -1961,8 +1889,6 @@ _________________
 **अनुवादः**
 
 The courageous Hanuma thus thinking and being interested in discovering Seetha, then desired the sun to set.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1977,8 +1903,6 @@ to that of a cat; *babhuuva* = became; *adhuta darshanaH* = a wonderful sight (t
 
 After the sun had set, Hanuma reduced His body at night with a size equal to that of a cat and became a wonderful
 sight to behold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -2026,8 +1950,6 @@ _________________
 **अनुवादः**
 
 The courageous Hanuma quickly flew during evening time and entered the beautiful city with well divided main pathways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -2108,8 +2030,6 @@ of Gandharvas; *saptabhaumaashhTabhaumai cha* = (consisting of) seven and eight 
 Hanuma saw that great city filled with series of mansions, golden hued pillars and window lattices, which was
 equal to the city of Gandharvas, consisting of seven and eight storied buildings with their top portions studded
 with crystals and pearls and decorated with gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2129,8 +2049,6 @@ rakshasas; *shushubhire* = shone; *talaiH* = with top portions; *vaiDuuryamaNi c
 
 There in that city of Lanka, the houses of rakshasas shone with top portions painted by cats-eyes and emeralds
 and decorated by groups of pearls.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -2178,8 +2096,6 @@ Lanka; *sarvataH* = in all directions.
 **अनुवादः**
 
 Golden archways with strange hues illuminated the well decorated city of Lanka in all directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -2226,8 +2142,6 @@ Golden archways with strange hues illuminated the well decorated city of Lanka i
 
 Hanuma on seeing the unimaginable city of Lanka with a wonderful appearance became sad thinking about the prospect
 of capturing Lanka and also happy being eager to see Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -2286,8 +2200,6 @@ of buildings; *mahaarhajaambuunadajaalatoraNaam* = having golden windows and doo
 
 Hanuma saw that city of Lanka of great fame, with white, closely built buildings having golden windows and doorways
 of great value, consisting of ogres of great strength and ruled by the hands of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -2351,8 +2263,6 @@ a swan; *popluuyamaanam* = swimming; *sarasi* = in a lake.
 The shining moon too rose up with its many thousands of rays, as though performing help to Hanuma, being at the
 middle of its retinue of stars and covering the earth with a canopy of light. That Hanuma saw the moon rising
 up with a glow of a conch shell, shining with a milky white hue of a lotus-fiber, like a swan swimming in a lake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 </details>
 
@@ -2411,8 +2321,6 @@ looking like a swan; *popluuyamaanam* = swimming; *sarasi* = in a lake.
 
 That Hanuma saw the moon, who was rising up in the sky with the splendour of a couch-shell, shining in white colour
 as milk or lotus-fibre, and looking like a swan swimming in a lake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

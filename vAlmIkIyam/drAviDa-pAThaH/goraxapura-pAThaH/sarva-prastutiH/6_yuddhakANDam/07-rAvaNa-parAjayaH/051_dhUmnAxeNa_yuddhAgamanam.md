@@ -21,8 +21,6 @@ Dhumraksha, a demon and asks him to go with an army and kill Rama, Lakshmana and
 Dhumraksha along with his army enters the western gate of Lanks where the army-chief Hanuman is
 stationed. While Dhumraksha advances in the battle-field, he observes several bad omens and feels
 disturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ roaring sound.
 
 That tumultuous sound, set up by the monkeys who were full of martial ardour,
 arrested the attention of Ravana and his demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ ministers.
 
 Hearing that mighty clamour, sounding smooth and deep, Ravana spoke to his ministers
 who surrounded him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -189,8 +183,6 @@ is agitated; *vipulaiH naadaiH* = by the loud noises.
 "A great uproar, resembling the rumbling of clouds, has arisen from that horde of
 rejoiced monkeys. Undoubtedly their joy is great, their mighty roars are agitating the briny ocean
 itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -237,8 +229,6 @@ sharp arrows; *ayam naadaH* = this sound; *sumahaan* = of great magnitude;
 
 "Those two brothers Rama and Lakshmana were tied by sharp arrows. This sound of a
 great magnitude being heard by me, is begetting an apprehension in me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -285,8 +275,6 @@ were moving nearby; *tatra* = there.
 
 Having spoken thus to his ministers, Ravana the Lord of Demons said to his demons
 who stood round him there (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -333,8 +321,6 @@ time for grief; *samupanine* = has arisen.
 
 "You immediately discover from what cause this general rejoicing among all these
 monkeys coming for the their present grievous situation!'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -406,8 +392,6 @@ Thus commanded by Ravana, they mounted the rampart very briskly and saw the army
 lead by the high-souled Sugreeva and also the highly fortunate Rama and Lakshmana who were relieved
 of the terrific shackle of arrow a and risen up together. All the demons felt desponded on seeing
 it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -455,8 +439,6 @@ it.
 
 With their hearts trembling with fear and faces turning pale, all those terrific
 demons descended from the rampart and approached Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -503,8 +485,6 @@ vat* = faithfully; *raavaNasya* = to Ravana.
 
 With downcast faces, those demons skilled in speech, faithfully informed Ravana of
 those unpleasant tidings, saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -561,8 +541,6 @@ elephants; *raNaajire* = in the battle = field.
 "The two brothers, Rama and Lakshmana, whom Indrajit had bound with his benumbing
 shafts and whose arms he had pinioned, are free from the arrows which paralyzed them and now appear
 on the field of battle, as two strong elephants who have snapped their fetters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -609,8 +587,6 @@ became; *vivarNavadanaH* = pale faced.
 
 Hearing their words, the might Ravana was filled with anxiety and fury. His face
 became pale (and he spoke as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -672,8 +648,6 @@ this; *balam* = army; *samshayastham* = in jeopardy.
 "If my adversaries, having thus been bound by Indrajit are freed, despite their
 injuries in battle by his formidable arrows which were infallible those rare boons, resembling
 serpents, bright as the sun, I perceive my entire army in jeopardy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -723,8 +697,6 @@ have indeed been rendered; *niSphalaaH* = void.
 
 "Those very arrows, bright as fire, which in battle have taken the life of my
 enemies, have now been rendered void indeed!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -772,8 +744,6 @@ the demons.
 
 Having spoken thus in furious tones, hissing like a snake, he addressed a demon
 called Dhumraksha who was seated amidst the demons and said.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -820,8 +790,6 @@ called Dhumraksha who was seated amidst the demons and said.
 
 "You, with a terrific prowess, go quickly with a considerable force of demons and
 slay Rama, Lakshmana and his monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -868,8 +836,6 @@ slay Rama, Lakshmana and his monkeys."
 
 Thus commanded by Ravana, the intelligent Dhumraksha, going past from there, quickly
 departed front her royal palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -917,8 +883,6 @@ the foreces (as follows); *yuyutsataH* = Mobilise; *balam* = the army;
 
 Having crossed that gate, he spoke to the General of the Forces as follows:
 "Mobilize the army. Hasten quickly. What need is there for the delay?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -969,8 +933,6 @@ Ravana.
 
 Hearing the words of Dhumraksha, the general of forces, having the army which
 followed him, kept the army ready quickly, as per Ravana's command.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1017,8 +979,6 @@ followed him, kept the army ready quickly, as per Ravana's command.
 
 Those strong demons of terrific form, making sounds with bells hung on their bodies,
 joyously surrounded Dhumraksha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1080,8 +1040,6 @@ weapon; *shuula mudgarapaaNayaH* = brandishing spears; hammers; *gadaabhiH* = ma
 Furnished with every kind of weapon, brandishing spears, hammers, maces, harpoons,
 sticks, iron cudgels, bars, clubs, javelins, missiles, nooses and axes, those terrible demons
 sallied forth with the noise of thunder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1145,8 +1103,6 @@ Clad in mail, mounted on chariots that were magnificently dressed with flags and
 decorated with bands of pure gold, harnessed to mules of many heads or steeds of exceeding
 fleetness or elephants in furious rut, some other excellent demons went forth like veritable
 tigers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1193,8 +1149,6 @@ chariot; *kharaiH* = to which mules; *kanaka bhuuSitaiH* = adorned with gold;
 
 Dhumraksha, with a mule-like clatter, set out in a celestial chariot to which mules
 adorned with gold and heads of deer and lions were hitched.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1245,8 +1199,6 @@ Hanuman (was stationed).
 
 That Dhumraksha of mighty prowess, surrounded by demons, set forth amidst mocking
 laughter, through the western gate where the army-chief Hanuman was stationed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1303,8 +1255,6 @@ appearance.
 As he mounted and advanced in an excellent chariot harnessed to mules, whose voices
 he emulated, birds of ill-omen in the sky obstructed that advancing demon of very terrible and
 fearful appearance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1347,8 +1297,6 @@ vulture; *nipapaata ha* = alighted; *ratha shiirSe* = on the top of his chariot;
 
 A highly terrible vulture alighted on the top of his chariot, while those devourers
 of corpses clustered on the point of his standard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1393,8 +1341,6 @@ trembled.
 
 Streming with blood, a huge decapitated trunk fell to earth, emitting inarticulate
 noise in Dhumraksha's vicinity and the sky rained down blood. The earth trembled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1444,8 +1390,6 @@ as observed by abundant darkness.
 
 The wind with noise resembling a thunder blew adversely. Every quarter, obscured by
 abundant darkness, did not dazzle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1498,8 +1442,6 @@ became; *vyathitaH* = perturbed; *mumuH* = terror seized; *sarve* = all;
 Seeing those terrible amones that appeared in all their horror to the demons,
 Dhumraksha became perturbed. Terror seized all the demons who were advancing in front of
 Dhumraksha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 </details>
 
@@ -1555,8 +1497,6 @@ great flood; *raaghava baahupaalitaam* = protected by the arms of Rama.
 Then, Dhumraksha, the highly terrible and strong demon, surrounded by a multitude of
 demons, eager to enter into combat, set out and beheld that army of a multitude of monkeys,
 resembling a flood, protected by the arms of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga51/yuddhasans51.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

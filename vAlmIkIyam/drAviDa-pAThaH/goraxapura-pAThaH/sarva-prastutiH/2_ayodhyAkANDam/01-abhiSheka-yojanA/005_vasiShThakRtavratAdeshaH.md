@@ -17,8 +17,6 @@ On the wish of King Dasaratha, Vasishta goes to Rama's palace and asks him to
 perform fast that night along with Seetha. Vasishta returns to Dasaratha's palace and informs him
 about this. On the way to the king's palace Vasishta observes the festive atmosphere in Ayodhya
 anticipating Rama's coronation the next day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ these words; *bhaavini* = about the ensuing; *abhishhechane* = anointment;
 
 After Rama left, king Dasaratha called for his family priest Vasishta and spoke to
 him as follows about the ensuing anointment ceremony of the next day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ fasting; *sriiyashoraajya laabhaaya* = for obtaining prosperity; glory and sover
 
 "O, great sage Vasishta! Please go to the avowed Rama and Seetha today to make them
 perform fasting for obtaining prosperity, glory and sovereignty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ Vasista, who is the best of knowers of Veda, who is expert in mantras, who is fi
 in austerities and who is divine, said to Dasaratha : "I agree to it" and personally went to Rama's
 house on a chariot which was ready and quite suitable for a Brahman; so as to advise Rama to
 undertake a fast (with mantras) performed by Rama, a knower of mantras.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ chariot itself.
 
 That great sage reached Rama's house, which was radiant like a dense white cloud and
 entered the three gateways of the house by the chariot itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ Rama; *nishchakraama* = started; *niveshanaat* = out of the house;
 
 To respect the honorable sage, who arrived, Rama came quickly and hurriedly out of
 the house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ helped him to alight; *tataH rathaat* = from that chariot.
 
 Rama quickly got nearer to Vasishta's chariot and personally helped him to alight
 from the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -367,8 +353,6 @@ him; *sambhaashya* = by uttering (the following)words
 
 That family priest Vasishta seeing that lovable and humble Rama, spoke the following
 words, bringing cheerfulness and happiness to him:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -418,8 +402,6 @@ Seetha; *upavaasaM karothu* = do fasting; *adya* = today.
 
 "O, Rama! Your father is delighted with you. You will be getting the princely
 kingdom. Hence, you and Seetha perform fasting today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -461,8 +443,6 @@ the king Nahusha.
 
 "Your father; King Dasaratha is anointing you affectionately for the princely
 kingdom tomorrow at dawn; even as king Nahusha has done to Yayati".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -509,8 +489,6 @@ kingdom tomorrow at dawn; even as king Nahusha has done to Yayati".
 
 Vasistha thus spoke to Rama and enjoined him to undertake a vow of fasting together
 with Seetha, in the accompaniment of mantras.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -558,8 +536,6 @@ Rama's house.
 
 Thereafter, Rama worshipped the royal priest Vasistha suitably. Vasistha then got
 Rama's permission and left his house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -604,8 +580,6 @@ after making them to permit.
 
 Rama spent some time by delightedly talking with friends and having been
 congratulated by them in various ways went into his palace after taking leave of them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -652,8 +626,6 @@ congratulated by them in various ways went into his palace after taking leave of
 
 Then, Rama's house was shining, as brilliantly with delighted men and women, as a
 lake filled with opened lotuses and visited by innumerable happy birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -694,8 +666,6 @@ people.
 
 Vasishta, leaving Rama's house, which seemed like the royal palace, saw the way
 filled with people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -742,8 +712,6 @@ filled with people.
 
 All the royal highways in the city of Ayodhya were filled with groups and groups of
 delighted people and became congested.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -794,8 +762,6 @@ resounding; *saagarasyeva* = like an ocean.
 Then, on the royal road, the resonance created by the rush of the people, moving
 hither and thither like waves, combined with their rejoicing, resounded like the roar of an
 ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -845,8 +811,6 @@ gR^ihadhvajaa* = (and) one that has houses hoisted with flags.
 
 On that day, in the city of Ayodhya, all the roads were cleaned and sprinkled with
 water. There were rows of trees on both sides of the roads and flags hoisted on houses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -893,8 +857,6 @@ the old aged; *aakaaNkshat* = were longing; *udayam raveH* = for sun rise;
 
 Then, the people of Ayodhya including children, women and the old-aged were waiting
 for sunrise, wishing the anointment ceremony of Rama to happen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -935,8 +897,6 @@ Ayodhya's great function; *prajaalaN^kaarabhuutam* = which was decorative to the
 
 In Ayodhya, people were enthusiastic to see the great public function, which was
 decorative to the community and which would bring forward an increased joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -986,8 +946,6 @@ slowly; *vyuuhanniva* = as if separating; *tam janaugham* = that crowd.
 
 Vasishta, thus seeing the king's way being overcrowded with people, reached the
 royal palace slowly by forcing a passage through that crowd.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -1037,8 +995,6 @@ enclosed by white cloud; *samiiyaaya* = met; *narendreNa* = king Dasaratha;
 
 He walked up the royal palace, which was akin to the top of a mountain enclosed by a
 white cloud and met king Dasaratha in the manner Brihaspati met Devendra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -1086,8 +1042,6 @@ throne; *paprachchha* = and asked; *saH cha* = he (Vasistha) also;
 
 Seeing Vasistha had returned, King Dasaratha alighted from his throne and asked him
 with regard to his mission. Vasistha informed him that it was accomplished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -1128,8 +1082,6 @@ family priest (Vasistha); *tena tulyameva* = as king Dasaratha did.
 
 The members of assembly who were sitting along with the king till then, raised in
 obeisance to Vasishta from their seats, following the example of the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -1176,8 +1128,6 @@ that; *manujaugham* = assembly of men; *vivesha* = and entered; *antaH puram*
 
 King Dasaratha, after obtaining permission from Vasishta, left that assembly of men
 and entered his palace as a lion enters a mountain cave.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 </details>
 
@@ -1237,8 +1187,6 @@ dress and form; *mahendra vesma pratimam* = like the house of Devendra; *vidiipa
 That palace with women in top dress and form was like the palace of Devendra. By the
 entering of King Dasaratha, the palace became more radiant, just as the moon radiates a beautiful
 sky with its stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga5/ayodhyasans5.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

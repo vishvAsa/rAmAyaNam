@@ -15,8 +15,6 @@ title_english = "016 Jubilant city of Ayodhya"
 
 In this chapter, Sumantra arrives at Rama's palace to fetch him to royal court. Rama
 starts to the royal court to meet his father. On the way Rama observes the jubiliant city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -152,8 +150,6 @@ well-wishers of Rama; *samiikshhya* = saw; *samaayaantam* = him coming;
 
 All of them, the well-wishers of Rama, saw that Sumantra arriving and raised from
 their seats hurriedly at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -201,8 +197,6 @@ entrance.
 
 That humble-minded Sumantra spoke to them thus, "Tell Rama immediately that Sumantra
 is waiting with reverence at the entrance"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -243,8 +237,6 @@ is waiting with reverence at the entrance"
 
 They, the well-wishers of their master, approached Rama who was with his wife and
 immediately informed him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -291,8 +283,6 @@ kindness; *anaayayamaasa* = called him in ; *tatraiva* = there only.
 
 Knowing that Sumantra, who was intimate to his father, came, Rama who desired to
 show kindness, called him in there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -375,8 +365,6 @@ That Sumantra saw Rama sitting like Kubera on a golden couch with the best
 cloth-covering. He adorned himself well and had the body anointed with sandal perfume, purely
 smelling like blood of a boar. With Sita, standing on his side with chowrie in her hand, Rama was
 shining like moon with chitra star.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -426,8 +414,6 @@ shining; *aadityam iva* = like sun; *varadam* = granting wishes.
 
 Sumantra, who knew polite conduct, offered salutation to Rama, who was refined with
 his own brilliance, shining like the sun and the fulfiller of desires.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -474,8 +460,6 @@ with folded hands; *raajaputram* = to that prince; *sumukham* = with beautiful f
 
 Sumantra, who was treated with respect by Rama spoke thus with folded hands to that
 prince with beautiful face and who was seated on a swinging sofa.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -522,8 +506,6 @@ let you go; *tatra* = there; *maachiram* = wtihout delay.
 
 "Oh Rama, the good offspring of Kausalya! Your father and the Queen Kaikeyi want to
 see you. Go there soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -570,8 +552,6 @@ brilliance; *samhR^isTaH* = was pleased; *uktaH* = to be told; *evam* = thus;
 
 That best of men with great brilliance was pleased to hear those words, then
 honoured him and spoke thus to Sita.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -618,8 +598,6 @@ relating to coronation; *dhR^ivam* = certain.
 
 "Oh Sita! The king and the queen together are thinking of something about me,
 relating to coronation. It is certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -663,8 +641,6 @@ king; *madartham* = for my sake.
 
 "Then black-eyed Kaikeyi who is dexterous and friendly disposed, has perceived the
 king's opinion and is inciting him for my sake"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -711,8 +687,6 @@ desirous of my benefit; *me arthakaamaa* = wishing my prosperity".
 
 "Kaikeyi, my mother is following the king's intentions with great pleasure, desirous
 of my benefit and prosperity"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -759,8 +733,6 @@ fulfils my desires and wishes; *duutam* = as messenger.
 
 "It is certainly our luck that king and queen have sent Sumantra, who fulfils my
 desires and wishes, as messenger".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -807,8 +779,6 @@ anoint; *maam* = me; *youvaraajye* = for the right of succession to kingdom.
 
 "A worthy messenger has come who is truly representing the assembly there. It is
 certain that today itself the king will anoint me for the right of succession to kingdom".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -855,8 +825,6 @@ saha* = with the circle of friends; *ramasva cha* = and enjoy yourself.
 
 "I shall go immediately and see the king. You stay happily with the circle of
 friends and enjoy yourself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -903,8 +871,6 @@ thinking; *mangalaani* = of auspicious things.
 
 Sita, treated with respect by her husband and having black eyes, followed her
 husband up to the door, thinking of auspicious things in her mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -952,8 +918,6 @@ perform; *raajasuuyaabhishhehanam* = great sacrifice at coronation of king.
 "King Dasaratha will give you kingdom, being served by brahmanas, which will invest
 you with eligibility to perform the great sacrifice at the coronation ceremony like Brahma to
 Devendra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -995,8 +959,6 @@ hand.
 
 "I shall be delighted to see you, initiated for the perfect religious act of
 austerity, wearing excellent antelope-hide, being pure and bearing a deer-horn in hand".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1048,8 +1010,6 @@ god of riches; *paatu* = protect.
 "May Indra the god of rain in the east, Yama the god of death in the south, Varuna
 the regent of the ocean in the west and Kubera the god of riches and treasure in the north, protect
 you".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1096,8 +1056,6 @@ mangalaH* = adorned as in an auspicious ceremony; *anujJNaapya* = got permission
 
 Rama, adorned as in an auspicious festivity, took permission from Sita and started
 from house along with Sumantra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1149,8 +1107,6 @@ with the palms of hand joined and put to forehead as a mark of respect.
 That Rama who came out, like a lion residing in a mountain cave from out of the
 mountain, saw Lakshmana standing at the door, bowing with palms of the hand joined and put to the
 forehead as a mark of respect.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1207,8 +1163,6 @@ approached nearer; *pratinandyacha* = and greated; *aaruroha* = mounted;
 Then, that prince the best of men, met his friends in the middle chamber. He saw all
 the people who came there to behold him, approached nearer to them, greeted them and mounted the
 excellent chariot, which was resplendent like fire and covered with tiger's skin.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1283,8 +1237,6 @@ gold and jewels. Its splendour was like that of Meru mountain, stealing the eyes
 looking like infantine elephants were tied to the chariot, which was moving quickly. That Rama
 shining with splendour like Indra, the lord of sky, mounted such a chariot and went forth
 quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1332,8 +1284,6 @@ house; *chandramaa iva* = like moon; *mahaabhraat* = from mighty cloud.
 
 That splendid chariot, sounding like rain-cloud in the sky, came out of the house
 like moon coming out of a mighty cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1359,8 +1309,6 @@ That Sumantra, who knew the ancient sacred works, passed over the crowded entran
 of the palace and reached the secluded inner apartment. In that area of the inner apartment, some
 youths , wearing darts and bows, were on security-duty with due vigilance and attention. They were
 all greatly devoted to the king and were wearing polished ear-rings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1377,8 +1325,6 @@ their hands; *susamaahitaan* = well composed; *vishhTitaan* = being posted;
 
 There he saw aged palace-supervisors wearing orange coloured clothes, adorning
 themselves well, having canes in their hands, well composed and being posted at door-ways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1422,8 +1368,6 @@ brother; *chhatra chaamara paaNiH* = having umbrella and chamara fan in hand.
 
 Lakshmana, Rama's younger brother mounted the chariot in the back-side and protected
 Rama with umbrella and chamara fan.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1470,8 +1414,6 @@ hallooing sound.
 
 Then, the crowds started dispersing from all sides generating tumultuous hallowing
 sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1518,8 +1460,6 @@ mountains; *tadaa* = then; *anujagmuH* = followed; *raamam* = Rama.
 
 Thereupon, hundreds and thousands of important people mounted on excellent horses
 and soldiers mounted on elephants, then followed Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1563,8 +1503,6 @@ Rama; *jagmuH* = went; *agrataH* = in front; *asya* = of Rama.
 
 Valiant persons, dressed in armour adorned with sandal and aloe perfumes, wearing
 swords and bows, declaring the arrival of Rama, went in front of Rama to receive him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1610,8 +1548,6 @@ the way.
 
 At that time, sounds of musical instruments, sounds of praising hymns of panagyrists
 and lion-like roars of valiant persons were heard on the way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1627,8 +1563,6 @@ went; *kiiryamaNaH* = being sprinkled; *supushhponghaiH* = by stream of good flo
 
 While Rama, the annihilator of enemies, was going, well-adorned women standing in
 porticoes of palaces, sprinkled flowers on him from all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1672,8 +1606,6 @@ with the best words; *raamapipriishhayaa* = with desire to please Rama.
 
 Women of exquisitely beautiful form standing in palaces and on ground were offering
 salutations to Rama with the best words with a desire to please Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1724,8 +1656,6 @@ siddhayaatram = have successful journey; *te* = your; *maataa* = mother;
 
 "Oh, Rama, who creates happiness to mother! Have successful journey! Your mother
 Kausalya will be certainly delighted to see you obtaining the paternal kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1770,8 +1700,6 @@ women.
 
 Those women thought that Sita, who is dear to Rama's heart, is better woman than all
 women.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1788,8 +1716,6 @@ times.
 
 "As Rohini star stays together with the moon, Sita having obtained Rama as husband
 must have certainly performed a great penance in former times."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1833,8 +1759,6 @@ who was in the royal road; *sushraava* = heard; *priyaaH vaachaH* = pleasent wor
 
 While going through the royal road, Rama heard those pleasant words spoken thus by
 women standing in turrets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1888,8 +1812,6 @@ variously; *aatmaadhikaaraaH* = pertaining to himself; *pure janasya* = by citiz
 
 Then, Rama heard the words of people gathered there and also the words variously
 pertaining to himself, by citizens.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -1944,8 +1866,6 @@ will have fulfilled all desires.
 
 "By the king's propitiousness, this Rama today is going to obtain this earth and the
 wealthy kingdom. All our desires are going to be fulfilled because Rama will become the ruler."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -2000,8 +1920,6 @@ anyone; *jaatu* = at anytime; *na pashyet hi* = will not see kichana = anything;
 
 "If Rama rules this state for a long time, it will be a great benefit to the people.
 If he becomes a king none can see dislike and sorrow at any time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -2062,8 +1980,6 @@ with elephants; *ghoshhavadbhiH* = having resounds.
 While bards and panegyrists were moving in front praising with great respect,
 invoking blessings and eulogised by the most excellent instrumentalists, Rama, like Kubera the god
 of wealth, went with resounding horses and elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 </details>
 
@@ -2119,8 +2035,6 @@ elephants; chariots and horses; *paripuurNa chatvaram* = the road junctions were
 Rama saw the great royal road which was spotlessly clean, having diamonds and
 various vendible commodities. It was full of male and female elephants, horses and chariots. There
 was abundance of people gathered at road junctions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

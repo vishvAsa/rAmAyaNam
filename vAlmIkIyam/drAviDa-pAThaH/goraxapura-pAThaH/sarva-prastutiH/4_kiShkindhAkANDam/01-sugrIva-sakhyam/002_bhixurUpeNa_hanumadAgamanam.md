@@ -16,8 +16,6 @@ title_english = "002 The fearless Hanuma"
 Hanuma, the Marvellous Monkey of Ramayana is entered in this chapter. The very first assurance given
 by Sage Valmiki through Hanuma, to one and all is, "Be Fearless..." Even today that assurance of Hanuma
 is ruling high on the Hindu psyche and Hanuma is to be remembered in any event of fright.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ sugriivaH sha~NkitaH abhavat* = Sugreeva, ambiguous, he became.
 
 On seeing them the wielders of best weapons and audacious ones, two brothers and great souls, namely
 Rama and Lakshmana, Sugreeva became ambiguous. [4-2-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ _________________
 
 Distressed at heart that foremost monkey gazed blankly in all directions and he did not remain at any
 one place. [4-2-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ frightened; *chittam vyavasasaada ha* = his heart, sunken, really.
 
 On seeing those two great mighty ones that monkey has not even made-up his mind steadfast as he is very
 much frightened, and his heart is really sunken. [4- 2- 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ much frightened, and his heart is really sunken. [4- 2- 3]
 
 He that righteous Sugreeva considering his own strength and weakness is much agitated, and along with
 all the other monkeys too are frightened. [4-2-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ tau rama lakshmaNau* = on seeing, those, Rama and Lakshmana.
 
 On seeing Rama and Lakshmana then that chief of monkeys Sugreeva with much dreadfulness said this to
 his ministers. [4- 2- 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -309,8 +297,6 @@ vanam pracharantau* = this, in forest, impassable one, moving about; *etau vali 
 
 "Here they come wearing jute cloths and move about in this impassable forest deceitfully, definitely
 Vali must have dispatched them... [4-2-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -356,8 +342,6 @@ shikharam uttamam* = to another peak, higher ones; *jagmuH* = they went away.
 
 Then on seeing the great archers Rama and Lakshmana the ministers of Sugreeva have gone from that mountain
 terrace to another high-peaked mountain. [4- 2- 7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -404,8 +388,6 @@ monkeys; *kSipram abhigamya yuudhapa R^ishabham* = quickly, [returned and ] appr
 
 Then the group-leaders of monkeys quickly arrived as they fled, at that lofty monkey group-leader Sugreeva,
 the chieftain of monkeys, gathering around him there they stood at his nearby. [4-2-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -462,8 +444,6 @@ _________________
 
 Thus they reached to one course of return, after hopping from one mountain to the other, shuddering
 mountains and even thir peaks by their trample in hastiness. [4-2-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -479,8 +459,6 @@ clumped.
 
 Then all of the tree-branch animals, who are great in their strength, have wrecked down the well-flowered
 trees that are clumped in that forest on that mountain by their swinging. [4- 2- 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -530,8 +508,6 @@ tigers.
 
 While those best monkeys hopped everywhere they have frightened deer, wildcats and tigers on that great
 mountain. [4-2-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -574,8 +550,6 @@ chief; *sarve praanjalayoH sthitaH* = all, with adjoined palms, stood.
 
 Then the ministers of Sugreeva, assembled on that best mountain and gathered around the chief of monkeys
 Sugreeva, and all stood with their adjoined palms. [4-2-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -624,8 +598,6 @@ mischief, doubting; *sugriivam* = to Sugreeva; *uvaacha vaakyam* = said, sentenc
 
 Then Hanuma, the ablest sentence-maker, said this sentence to Sugreeva who is dismayed with fear doubting
 Vali's mischief. [4-2-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -681,8 +653,6 @@ and a no-entry to Vali at this place is explained in next few chapters. This *va
 are two renderings, where, *valikR^itaH* is in the present context is for the arrival of Rama and Lakshmana,
 and *vaalikR^ite*, is for that which Vali has done previously. In either case, there is no fear on this
 Mt. Rishyamuka or also called Mt. Malaya, because Vali cannot step on this mountain due to a curse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -730,8 +700,6 @@ pashyaami* = not, here, I see.
 
 "By whom you are bewildered at heart and running away, oh, the best monkey Sugreeva, I do not see that
 cruel-looking, cruel Vali here... [4- 2-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -778,8 +746,6 @@ here; *vaalii duSTa aatmaa* = Vali, harmful, in intent; *na te pashyaami aham bh
 
 "From whom your fear is spurted, oh, gentle Sugreeva, that elder brother of yours, who is an evildoer
 and the one with harmful intent... that Vali is not here. Therefore I perceive no fear from him...[4-2-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -828,8 +794,6 @@ firm in mind; *te shakhaa mrigatvam vyaktavam eva* = your, monkeyshines, is clea
 
 "Aha! You made a monkey of yourself, oh, monkey, and you feel small, thus you are not able to stay firm
 in your mind by that fickleness, and your monkeyshines is clear by it... [4-2-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -877,8 +841,6 @@ control, certainly.
 "Keep your intellect and wisdom firm, and express all your intents rightly in your body language in
 all your undertakings... certainly, a king getting into unintelligence cannot command all his subjects..."
 So said Hanuma to Sugreeva. [4-2-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -924,8 +886,6 @@ So said Hanuma to Sugreeva. [4-2-18]
 
 Sugreeva thus hearing entirely to all the propitious words of Hanuma spoke to Hanuma this opportune
 sentence, positively. [4-2-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -972,8 +932,6 @@ sentence, positively. [4-2-19]
 "Lengthy are their arms, broad are their eyes and they are the wielders of arrows, bows and swords...
 and on seeing them, to whom there will be no scare? These two are like the sons of some divinity..."
 Sugreeva thus spoke to Hanuma. [4-2-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -1020,8 +978,6 @@ many, friends, also; *vishvaasha na atra hi* = trust, not, there, verily; *[na ]
 
 "I presume these two... those best of men are abetted by Vali to assault me... for, the kings like Vali
 do have many friends and trusting them absolutely is an unpardonable mistake... [4-2-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -1068,8 +1024,6 @@ ones [enemies]; *chidreSu* = on any possible occasion; *praharanti* = be trounce
 "By men the enemies are to be assessed... for, they move in disguise and distrustful enemies will trounce
 the complacently self-assured ones that relax in their own self-confidence on any possible occasion...
 [4-2-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -1118,8 +1072,6 @@ of; *te GYeyaaH* = they, knowable; *praakR^itaiH janaiH* = by ordinary, people.
 
 "In exploits Vali is an ingenious one... and the kings will be observing many aspects of their enemies
 to eliminate them... and they the kings are to be known even by ordinary people... [4- 2- 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -1167,8 +1119,6 @@ as well; *GYeyau* = is to be known
 "Begone to them oh, monkey Hanuma, in a commoner's form, for your monkey-hood is distinguishable by
 Vali's agents, and know the intentions of those two by their conduct, by their semblance, and by their
 conversation, as well...[4-2-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -1250,8 +1200,6 @@ Lakshmana. Sugreeva is now on Mt. Rishyamuka and Rama is somewhere at a distant 
 takes a flight later. Then keeping Hanuma's face towards Sugreeva, rather than towards Rama and Lakshmana,
 is appearing to be an uncomfortable position. For this some old translations say, *shitvaa* keep them,
 position them towards my friendship and me.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -1300,8 +1248,6 @@ or [otherwise]; *vyabhaaSitaiH viGYeyaa* = by conversation, be known.
 
 "You shall know whether those two are clean at heart or otherwise, or about their evil-mindedness or
 otherwise by conversation..." Thus Sugreeva said to Hanuma. [4-2-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -1347,8 +1293,6 @@ aatmajaH* = Air-god's son, Hanuma; *chakaara gamane buddhim* = made-up, to go, h
 
 Thus this way ordered by Sugreeva, the king of monkeys, Hanuma, the son of Air-god made up his mind
 to go there, where Rama and Lakshmana are. [4-2-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 </details>
 
@@ -1404,8 +1348,6 @@ where he is; *tadaa yayau* = then, proceeded.
 That marvellous monkey Hanuma agreeing for the words of that inaccessible and very much frightened Sugreeva,
 and on respectfully replying him saying that, 'I will do accordingly...' proceeded there where that
 highly mighty Rama is there along with Lakshmana. [4-2-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

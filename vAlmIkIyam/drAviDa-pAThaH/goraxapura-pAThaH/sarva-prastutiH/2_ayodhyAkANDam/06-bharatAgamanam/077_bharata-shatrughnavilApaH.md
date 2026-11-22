@@ -18,8 +18,6 @@ Brahmans. On the thirteenth day when Bharata and Shatrughna go to the cremation 
 the bones both of them are overwhelmed with grief and fall down on the ground. Vasista, the family
 priest and Sumantra raise them up and pacifying urge both of them to complete the remaining rites
 to be performed on the thirteenth day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -80,8 +78,6 @@ by the surviving relatives. These are performed by the daily offering of water a
 occasion by the offering of Pindas or balls of rice and meal to three paternal forefathers i.e.
 Father, grandfather, and great grandfather. It is an act of reverential homage to a deceased person
 performed by relatives, most desirably by a son of the deceased.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -134,8 +130,6 @@ kinds of ; *ratnaani* = presents; *braahmaNebhyaH* = to brahmans.
 
 On the occasion of Shraddha rites, Bharata gave precious stones, money, a lot of
 cooked rice, very valuable clothes and various other kinds of presents to Brahmans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -190,8 +184,6 @@ brahmans.
 In that ceremony performed in honor of the dead king, Bharata the son of Dasaratha
 gave multitudes of white goats, hundreds of cows, servants and servant maids, vehicles and very big
 houses to Brahmans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -270,8 +262,6 @@ Then, at the time of dawn on the thirteenth day, the mighty armed Bharata who ca
 for clearing up bones and ashes, wept in grief, his throat being choked of sound (because of
 crying) and spoke in great distress the following words, having reached the foot of his father's
 funeral pile (to collect the bones and ashes for their immersion in Sarayu River).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -288,8 +278,6 @@ abandoned; *shuunye* = wholly alone; *tvayaa* = by you.
 
 "O, father! My brother Rama to whose care I was entrusted by you, having gone on
 exile to the forest, I now become abandoned wholly alone, by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -337,8 +325,6 @@ from home; *vanam* = the forest?
 
 "O, king! O, father! Where have you gone, leaving Kausalya the mother whose son
 Rama, her support, has been sent away from home to the forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -390,8 +376,6 @@ and his father's; *shariira nirvaaNam* = body extinguished; *saH* = BharataH;
 Seeing that spot of collection (of bones), which became reddish brown in colour
 because of ashes, with bones consumed by fire and his father's body having extinguished, Bharata
 was depressed and began to cry loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -440,8 +424,6 @@ raised; *shakrasya* = in honor of Indra the god of celestials.
 Miserable as he was to see the spot, Bharata fell weeping on the ground, as a flag
 staff fastened by any mechanical contrivance would drop down while being raised in honor of Indra
 the god of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -488,8 +470,6 @@ conduct; *R^ishhayo yathaa* = as sages; *(rushed to) nipatitam* = the fallen;
 
 All his ministers hastily approached Bharata who was virtuous in conduct, as sages
 once rushed to the fallen Yayati at the time of his death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -537,8 +517,6 @@ unconsciously.
 
 Seeing Bharata, Shatrughna was also overwhelmed with grief and while recollecting
 the king, fell unconscious on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -587,8 +565,6 @@ was; *suduHkhitaH* = and very much afflicted with grief.
 Remembering the many gestures of his father resulting from his loving qualities made
 from time to time, Shatrughna was lamenting (as follows) like one who has lost his wits, bewildered
 as he was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -637,8 +613,6 @@ Kaikeyi; in the form of a crocodile; *varadaanamayaH* = swam in its current the 
 "We are immersed in a violent and appalling ocean of sorrow invoked by Mandhara, in
 which Kaikeyi in the form of a crocodile swam in its current the irrevocable boons granted to her
 by my father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -685,8 +659,6 @@ boy; *laalitam* = caressed; *satatam* = always; *tvayaa* = by you;
 
 "O, father! Where have you gone leaving the lamenting Bharata, your boy always being
 caressed by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -737,8 +709,6 @@ us?
 
 "You used to fulfill the wishes of all of us, in the matter of eatables, drinks,
 clothes, and jewels. Who else will do it (now) for us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -785,8 +755,6 @@ is not riven; *avadiiraNakaale* = even when it is time to be riven.
 
 "That earth which is deprived of you, the high soled and righteous king, is not
 riven even when it is the time to be riven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -834,8 +802,6 @@ a fire.
 
 "The father having obtained heaven and Rama having taken refuge in a forest, what is
 the significance of life for me? I shall enter a fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -883,8 +849,6 @@ hermitage.
 
 "Bereft of my brother and father, I can not return to the deserted city of Ayodhya,
 where Ikshvaku used to reign. I shall retire to a hermitage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -932,8 +896,6 @@ much.
 
 Hearing the lamentation of both of them and beholding their plight, all their
 companions were disturbed very much, once again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -980,8 +942,6 @@ ground;R^ishhabhou iva = like two bulls; *bhagnashR^iN^gou* = having their horns
 
 Both Shatrughna, and Bharata were wearied with grief and began to roll on the
 ground, like two bulls whose horns have been broken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -1029,8 +989,6 @@ words.
 
 Then, Vasista, a noble man, a learned man and the family priest of their father,
 raised up that Bharata from the ground and spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -1072,8 +1030,6 @@ the ceremony of collecting the bones is still remaining.
 
 "O, Lord Bharata! This is the thirteenth day of the death of your father. Why are
 you hanging down here, when the ceremony of collecting the bones is still unfinished?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -1122,8 +1078,6 @@ not; *bhavitum* = to behave; *evam* = like this.
 "The three pairs of opposites (namely hunger and thirst, joy and sorrow; birth and
 death) occur to all living beings without any distinction. They being inevitable, you ought not to
 behave like this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -1170,8 +1124,6 @@ bhavaabhavam* = about the origin and dissolution of all beings.
 
 Even Sumantra, who knew the Truth, raising up Shatrughna and pacifying him, told him
 about the origin and dissolution of all beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -1219,8 +1171,6 @@ pariglaanou* = soiled through rain and sun.
 The two illustrious tigers among men (Bharata and Satrughna) who had got up,
 appeared like two banners severally raised in honor of Indra (the god of celestials) soiled through
 rain and the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 </details>
 
@@ -1272,8 +1222,6 @@ thirteenth day.
 The ministers hurried up the princes, who were wiping their tears and who were
 talking pitiably with their eyes reddened (due to excessive weeping) to expedite the other rites
 pertaining to the thirteenth day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

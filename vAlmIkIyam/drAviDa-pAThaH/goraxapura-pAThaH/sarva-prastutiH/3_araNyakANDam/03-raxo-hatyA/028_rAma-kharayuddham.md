@@ -17,8 +17,6 @@ Forest Trek**
 Khara the demon brother of Shuurpanakha confronts Rama when all of his valiant warriors are eliminated.
 He wages a fearful war showing all his expertise and he even brings down the amour of Rama with his
 arrows. The combat of Rama and Khara takes a longer time, as Khara is not easy-to-deal demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ arrows. The combat of Rama and Khara takes a longer time, as Khara is not easy-t
 
 Khara is intimidated on seeing the elimination of Duushana along with Trishira inasmuch as the intrepidity
 of Rama is concerned. [4-28-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -134,8 +130,6 @@ On seeing the annihilation of the insufferable and mighty force of demons, even 
 Trishira by lone Rama, and thus to apprehend that the demonic force is wholly destructed, that demon
 Khara became apprehensive, and then he lunged at Rama, as with demon Namuchi who once lunged at Indra.
 [4-28-2, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -211,8 +205,6 @@ for Rama, discharged.
 
 Forcefully drawing the bowstring fitted with iron-arrows, which looked like furious serpents of venom
 ingesting only blood, Khara discharged them on Rama. [4-28-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -229,8 +221,6 @@ manner, moved about.
 
 Fidgeting with bowstring in many a way, brandishing missiles with many a skill, Khara moved about the
 battleground in many a manner, seated on chariot and showing his expertise with arrows. [4-28-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -302,8 +292,6 @@ That great chariot-fighter Khara then started to fill all the stretches and inte
 seeing that even Rama reciprocally started to take aim with his bow Rama, and then filled and made the
 sky less of leeway with verily unendurable arrows that are like tongues of fire emitting sparks, as
 with Rain-god chocking the sky with torrents, less of latitude. [4-28-6, 7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -350,8 +338,6 @@ it became.
 
 No empty space is left out in the space around since it has become riotous with the sharp arrows discharged
 by Rama and Khara from everywhere. [4-28-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ he is.
 
 While both of them are warring with excitement to slay one another, then the sun obscured with the mesh
 of arrows has not shined. [4-28-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -449,8 +433,6 @@ as with; *aajaghaana* = swatted.
 
 Then with acutely edged tubular, iron, and crescent-edged arrows Khara swatted Rama in that combat,
 as a great elephant will be swatted with a goad. [4-28-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -497,8 +479,6 @@ all, beings, saw at - appeared to be.
 
 When charioted Khara came to the presence of Rama with bow in hand and ready for a close combat, that
 demon appeared to all beings as the Terminator handling his noose. [4-28-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -545,8 +525,6 @@ sattvam* = greatly, indefatigable one; *raamam* = at Rama; *tadaa* = then - by n
 
 Khara presumed that greatly indefatigable Rama is wholly fatigued by now, though he has shown his mettle
 of boldness in eliminating all of the demonic forces, all the while. [4-28-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -600,8 +578,6 @@ sees a least beast. [4-28-13]
 For the last compound in second foot the other versions contain *siMhaH siMham iva aparam* 'a
 lion on seeing another lion...' Firstly comparing Khara with lion and later comparing him with *kshudra
 mR^iga* 'petty animal...' is not found aesthetic by some scholars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -646,8 +622,6 @@ rathena* = by great - radiant one, by chariot; *raamam* = to Rama; *patanga paav
 **अनुवादः**
 
 In a chariot that equals the sun in its radiance then Khara reached Rama as a moth reaches fire. [4-28-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -697,8 +671,6 @@ handgrip; *cicCheda* = broke.
 
 Showing sleight of hand Khara then broke the handgrip of the bow of that great-souled Rama along with
 an arrow fitted on it. [4-28-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -745,8 +717,6 @@ at.
 
 Still infuriated Khara has drawn seven more arrows that equal the radiance of Indra's thunderbolts and
 hit Rama's armour in that war. [4-28-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -792,8 +762,6 @@ on distressing; *samere mahaa naadam nanaada* = in war, great blare, blared.
 
 Then, on distressing Rama of unequalled vitality with a thousand arrows in that combat Khara blared
 a loud blare. [4-28-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -843,8 +811,6 @@ in resplendence; *tat kavacam* = that, armour; *pra hatam* = completely, destroy
 
 With the arrows released by Khara that have a great egress, then that armour of Rama that has a sun-like
 resplendence is completely destroyed and fell on the field. [4-28-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -891,8 +857,6 @@ up.
 
 When all his limbs are hit with arrows Rama is enraged and in that war Rama flared up like a fumeless
 flaring fire. [4-28-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -939,8 +903,6 @@ flaring fire. [4-28-19]
 
 Then Rama, the blaster of enemies, strung bowstring to another thunderously blasting bow, to end the
 enemy. [4-28-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -987,8 +949,6 @@ released [awarded]; *varam* = the best one; *tat udyamya* = that, on upraising; 
 
 That which is a very admirable bow of Vishnu and that which is awarded by great-sage Agastya, upraising
 that choicest bow Rama rushed towards Khara. [4-28-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1034,8 +994,6 @@ such arrows; *samare kharasya dhvajam *= in that war, Khara's, flag; *cicCheda* 
 
 With arrows that have golden fins and curved barbs that highly infuriated Rama then fragmented Khara's
 flagstaff with flag in that war. [4-28-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1085,8 +1043,6 @@ went - fallen on earth.
 
 That eye-pleasing golden flagstaff with flag is severally shattered and fell onto ground as if it is
 god-damned sun fallen on earth. [4-28-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1137,8 +1093,6 @@ with lancets as if [one would prod]; *gaatreSu* = on limbs of Rama; *vivyaadha* 
 By that Khara is enraged, and as one who is aware of striking crucial parts/war tactics assaulted on
 the chest of Rama with four arrows, and even on other limbs, as one would prod an elephant with lancets.
 [4-28-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1188,8 +1142,6 @@ became.
 
 Impacted with various arrows unloosened from the bow of Khara, limbs of Rama are drenched in blood and
 he became highly indignant. [4-28-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1236,8 +1188,6 @@ one; *parama iSvaasaH* = one who got great, bow; *saH* = he that Rama; *dhanuH p
 
 On aiming his great bow that ablest one among archers, namely Rama, then in that war released six arrows
 targeting pointedly. [4-28-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1288,8 +1238,6 @@ ha* = on chest, toward, hit, indeed.
 
 Rama indeed hit Khara's head with one arrow, with two his hands, and next with three crescent shaped
 arrows he hit his chest. [4-28-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1339,8 +1287,6 @@ sun, similar to [in dazzle]; *trayaH dasha naaraacaan* = three, ten [thirteen,] 
 
 Then afterwards that great-resplendent Rama wishing to eliminate the demon, infuriately launched
 thirteen iron arrows that are sharply whetted and similar to the dazzle of sun. [4-28-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1429,8 +1375,6 @@ of Khara; with three, the three-pronged shaft from yoke to the base of chariot; 
 thus that chariot is fragmented. Then, on wrecking Khara's bow on which an arrow is placed with the
 twelfth, that mighty one Rama impaled Khara with the thirteenth arrow that is similar to a thunderbolt.
 [4-28-29, 30, 31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1477,8 +1421,6 @@ hopped down; *bhuumau* = on ground; *tasthau* = stood fast.
 
 With his bow utterly shattered, chariot fragmented, horses killed, and charioteer felled, that Khara
 then hopped down to ground from the dilapidated chariot wielding a mace, and stood fast. [4-28-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 </details>
 
@@ -1534,8 +1476,6 @@ together; *pra hR^iSTaaH* = highly, gladdened; *praanjalayaH* = with adjoined pa
 The gods as well as great-sages have then came together and assembled in heavens, and those assemblies
 that are aboard their aircrafts are highly gladdened at the exploit of the great chariot-fighter Rama,
 and they worshipped him with their adjoined palms. [4-28-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

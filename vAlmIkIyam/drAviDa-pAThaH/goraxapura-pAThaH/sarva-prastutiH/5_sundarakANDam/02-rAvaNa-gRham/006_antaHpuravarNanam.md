@@ -17,8 +17,6 @@ V : Sundara Kanda - Book Of Beauty**
 Hanuma moves about the city of Lanka, going from one house to another in search of
 mother Seetha. He finds amazing wealth and riches abounding in that city of Ravana. He finally
 enters the huge house of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ roamed; *punaH* = again; *laN^kaam* = the city of Lanka.
 
 That Hanuma who could assume any desire form, searching among houses had a lot of
 grief. Endowed with great speed, He roamed again the city of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ _________________
 
 After that, the glorious Hanuma neared the house of Ravana shining with the golden
 hue of Sun, surrounded by a compound wall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ forest; *simhaiH* = by lions.
 
 Hanuma shined purveying the building protected by horrible rakshasas, like a forest
 by lions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ archways; *ruupyakopahitaiH* = decorated with sliver; *chitraiH* = surprising on
 
 Ravana's house consisted of surprising archways decorated with sliver and gold,
 strange entrances and beautiful doors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ undefeatable horses; *syandanayaayibhiH* = by charioteers.
 
 Ravana's house waited upon by men on elephants, warriors, people with removed
 tiredness, drivers of elephants, by undefeatable horses, and by charioteers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ with ivory; gold and silver; *vicharitam* = being roamed; *sadaa* = always;
 Hanuma saw Ravana's house with protective shields made of lion and tiger skins,
 decorated with ivory, gold and silver, being roamed always by strange chariots with great
 sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -371,8 +357,6 @@ great chariots and great utensils.
 
 Hanuma saw Ravana's house filled with a lot of diamonds, having valuable seats and
 utensils, abode of great warriors, with great chariots and great utensils.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -419,8 +403,6 @@ and those; *vividhaiH* = various kinds of; *mR^igapakshibhiH* = animals and bird
 
 Filled all around with those and those various kinds of animals and birds in
 thousands, lovely to watch - very beautiful ones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -467,8 +449,6 @@ women; *mukhyaabhiH* = who were important.
 
 Well protected by well trained rakshasas, protecting the inner area, filled all over
 by best women who were important.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -514,8 +494,6 @@ tinkling of best jewellery; *samudrasvananisvanam* = had a sound like that of an
 
 Having happy women, the abode of Ravana with the tinkling of best jewellery had a
 sound like that of an ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -564,8 +542,6 @@ agaruchandanaiH* = with best scents and sandal woods; *samaakiirNam* = spread wi
 
 Together with royal insignia, with best scents and sandal wood, spread with great
 number of people like a great forest with lions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -616,8 +592,6 @@ _________________
 
 Resounded by bheris and mridagas, resounded by the sound of conch-shells, prayed
 upon daily by Rakshsas, with rituals on festivals, always worshipped by rakshasas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -709,8 +683,6 @@ noiseless ocean; *mahaaratna parichchhadam* = with a roof embedded with great di
 
 The great Hanuma saw the wealthy Ravana's huge house, inscrutable like an ocean,
 like a noiseless ocean, with a roof embedded with great diamondsand filled with great diamonds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -729,8 +701,6 @@ Ravana;
 That great Hanuma thought the house, which was shining with its form filled with
 elephants, horses, chariots, to be the jewel of Lanka. Hanuma walked about there in the near-hood
 of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -781,8 +751,6 @@ gR^iham* = from one house to another; *rakshsaanaam* = of rakshasas;
 
 That Hanuma moved about from one house to another of Rakshasas and also parks and
 observing in all directions without fear and also courtyards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -844,8 +812,6 @@ observing in all directions without fear and also courtyards.
 
 Thereafter the great Hanuma leapt for the house of Kumbhakarna which resembled a
 cloud and in the same way for the house of Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -893,8 +859,6 @@ Vajradamshhtra.
 
 That great Hanuma in the same way leapt for the house of Mahodara and also that of
 Virupaaksha, that of Viddutjihva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -931,8 +895,6 @@ Sarana's house; *tathaa* = in the same way; *gR^iham* = for the house;
 
 Hanuma the commander of Vanara army with great radiance went for the intellectual
 Suka's house, for Sarana's house, and in the same way for the house of Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -981,8 +943,6 @@ and one with great speed; *avaplutya* = jumping; *niveshanam* = for the house;
 
 Hanuma with great prowess, and one with great speed, jumped for the house of
 Prahasta and from there leapt for another house that of Mahaparshva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1082,8 +1042,6 @@ house of Sumali; *saH mahaakapiH* = the great Hanuma; *pupluve* = jumped;
 The best among Vanaras Hanuma went for the house of Jambumali and for the house of
 Sumali. The great Hanuma jumped for the house Rasmiketu and in the same way for the house of
 Suryaketu and in that way for the building of Vajrakaaya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1121,8 +1079,6 @@ house, for Ghana's house and Vighana's house, for Sukhana's house, for Vakra's, 
 and also for Vikata's house, for Brahmakarna's house, for Damshra's house, for Roma's house, for
 Raksha's house, for Ydhonmata's and Indrajihva's house, in the same way for Hastimukas house, for
 Karala's house, for Pisacha's house, and also for the building of Shonita.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1140,8 +1096,6 @@ buildings.
 
 The son of Vayu, one with great fame, great one among Vanaras , moving about in a
 sequence in those and those best buildings, saw the wealth of those rakshasas, who were rich.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1188,8 +1142,6 @@ house of Ravana.
 
 The glorious Hanuma passing everyone's houses all round, there-after neared the
 house of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1240,8 +1192,6 @@ near to Ravana; *vikR^itekshaaH* = those who had horrific eyes;
 Hanuma best among Vanaras, tiger among Vanaras, moving about saw Rakshas women,
 those who were sleeping near to Ravana, those who had horrific eyes, those who had Sulaas, Mudgaras
 in their hands, those who had Shaktis and Tomaras.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1290,8 +1240,6 @@ _________________
 
 Hanuma saw in that house of Ravana a variety of army divisions and also Rakshasas
 those who had huge bodies having different weapons raise up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1412,8 +1360,6 @@ harassing enemy's elephants, skilled in good elephant training, equalling Iraava
 killing enemies armies in war, rutting like raining clouds, like mountains with water falls that
 are pouring down, with trumpeting resembling thundering of clouds, unassailable by enemies in a
 battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1432,8 +1378,6 @@ up.
 There Hanuma saw in the house of Ravana, the king of rakshasas, army divisions in
 thousands decorated with gold, covered with heaps of gold, equalling the Sun who has fully come
 up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1499,8 +1443,6 @@ constructed) with wooden mountains; *kaamasyagR^ihakam* = house for sexual delig
 That Hanuma the son of Vayu saw in the house of Ravana the king of rakshasas,
 palanquins of various shapes, wonderful bowers, art galleries and other pleasure houses which were
 constructed with wooden mountains, house for sexual delight and a beautiful diurnal house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1580,8 +1522,6 @@ like the Sun; *rashmibhiH* = by rays.
 
 That building shone by the rays of diamonds, by the splendour of Ravana like the Sun
 by rays.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1634,8 +1574,6 @@ riches.
 That Hanuma saw the best among buildings equalling mount Mandara filled with pens
 for peacocks, spread by flag staffs managed by courageous ones like the house of Kubera filled with
 many diamonds and also heaps of riches.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1650,8 +1588,6 @@ vessels; *jaambuunadamayaanyeva* = all made with gold.
 
 Hanuma leader of Vanaras saw couches and seats and chief vessels all made with
 gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 </details>
 
@@ -1740,8 +1676,6 @@ made of gems delightful one, un-congested one like the building of Kubera resoun
 tinkles by the sound of waist ornaments, by the sound of percussion on Mrudangas with deep sound,
 which consisted of many mansions filled with hundreds of best women, encircled by many spacious
 enclosures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

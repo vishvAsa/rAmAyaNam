@@ -63,8 +63,6 @@ obeying; *shaasanam* = the order; *shubhataram* = which is very auspicious;
 
 Thereupon, Lakshmana obeying his brother's order which is kindly and auspicious,
 went immediately to the house of suyajna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -114,8 +112,6 @@ kaariNaH* = of Rama; who is doing an ardons task.
 
 Offering salutation to that brahmana living in a house of fire, Lakshmana spoke as
 follows: "Oh, friend! Come and see the house of Rama who is doing an arduous task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -169,8 +165,6 @@ inhabited; *lakshhmyaa* = by Lakshmi; the the goddess of wealth.
 Then, Suyajna, having performed worship at the juncture of day and night, came at
 once along with Lakshmana and entered Rama's house which was good-looking and inhabited by Lakshmi
 the goddess of wealth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -219,8 +213,6 @@ man; *veda vidam* = who had knowledge of the Vedas; *aagatam* = who arrived.
 
 Seeing him arrived, Rama with joined palms along with Seetha, moved clockwise as
 around sacrificial fire, that Suyajna the venerable man who had the knowledge of Vedas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -307,8 +299,6 @@ Rama adored Suyajna with excellent Angadas(armlets) and beautiful earrings of go
 gems stung on gold threads as also with keyuras( another ornament similar in shape to an Angada but
 worn above it near the armpit) and bracelets as well as with many other excellent precious stones.
 urged by Seetha, the said Rama then spoke to suyajna as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -325,8 +315,6 @@ carry(them)
 
 "Oh the gentle sage, my friend! Now, Seetha wants to give for your wife a pearl
 necklace, a string of gold and a girdle. please take them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -378,8 +366,6 @@ beautiful.
 
 "Oh, friend! Seetha who is departing to the forest, is giving you for your wife
 armlets adorned with figures cut in them and beautiful keyuras."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -429,8 +415,6 @@ that couch also; *naanaa ratna vibhuushhitam* = inlaid with various jewels;
 
 "Seetha wants to offer you that couch also inlaid with various jewels and provided
 with an excellent coverlet."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -480,8 +464,6 @@ elephants.
 
 "Oh, the best of brahmanas! I am giving you this elephant called Satrunjaya, given
 earlier to me by my maternal uncle as well as those thousand elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -530,8 +512,6 @@ earlier to me by my maternal uncle as well as those thousand elephants."
 
 As requested by Rama, suyajna accepted the gift and bestowed bening blessings to
 Rama, Lakshmana and Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -582,8 +562,6 @@ Lakshmana; *priyam* = his beloved; *bhraataram* = brother.
 
 Then, Rama who speaks polite words as coolly as Brahma to Devendra, spoke to his
 beloved brother Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -647,8 +625,6 @@ crop of corn.
 
 "Oh, Lakshmana! Call those two excellent brahmanas Agastya and Kausika and worship
 them with valuable gifts as water is poured to a crop of corn."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -664,8 +640,6 @@ gems; *mahaadhanaiH* = and gems; *mahaadhanaiH* = of great value.
 
 "Oh, Lakshmana the honour-giver, with great arms! Satiate them with thousands of
 cows, gold, silver and with gems of great value."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -738,8 +712,6 @@ Vaisampayana being commanded to pick it up, took in the form of patridges, and s
 texts, hence named black(called Krishna Yajurveda) the other name of Taittiriya referring to the
 partridges Yagnavalkya then received from the Sun a new or white version of the yajurveda (called
 Shukla Yajurveda)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -796,8 +768,6 @@ and with thousands; *gavaam* = of cows.
 "The charioteer called Chitraratha the companion of our venerable father was of very
 long standing. Gratify him with valuable gifts of great worth, with clothes, with money, with all
 types of small animals and with thousands of cows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -876,8 +846,6 @@ any other austerities but are highly honoured by even noble men, are inactive( i
 do not move out for alms) and crave for sweets. Cause them to be given eighty carts loaded with
 jewels, a thousand bullocks carrying loads of rice and two hundred bullocks used for cultivation.
 Give a thousand cows for use in their nourishment, Oh Lakshmana!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -930,8 +898,6 @@ given; *sahasram* = a thousand cows; *pratyekam* = to each person.
 
 "Oh, Lakshmana! Many celebates wearing fillets stand near Kausalya, cause them to be
 given a thousand cows each."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -984,8 +950,6 @@ dakshhiNaam* = to my gift; *tathaa* = in that manner; *archaya* = honour;
 
 "Honour all those brahmanas in every way, so that my mother Kausalya will feel happy
 to see my gifts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1034,8 +998,6 @@ brahmanas; *tat dhanam* = that wealth; *yathoktam* = as instructed.
 
 Then, Lakshmana the tiger among men himself gave that wealth, like Kubera, to the
 best of brahmanas as instructed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1095,8 +1057,6 @@ throat; *abraviit* = spoke(as follows)
 
 Rama, after giving abundant wealth to each one of the dependents, standing there
 with tears in their throats, spoke to them as follows;
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1112,8 +1072,6 @@ with tears in their throats, spoke to them as follows;
 
 "Till my return, the house belonging to Lakshmana and also this house which is
 occupied by me, should be guarded by each one of you, by turn."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1165,8 +1123,6 @@ brought."
 
 Having thus ordered those servants distressed as they were, he instructed his
 treasurer as follows: "Let my wealth be brought(here)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1218,8 +1174,6 @@ _________________
 
 Thereafter, the servants brought all the wealth of Rama. That very large heap of
 wealth there appeared good-looking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1272,8 +1226,6 @@ and to the pitiable.
 
 Rama, the tiger among men, along with Lakshmana then caused that wealth to be
 distributed among the brahmanas, the children, the old-aged and the pitiable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1327,8 +1279,6 @@ kuNdaalalaaNgalii* = having an axe; a spade and a plough.
 "There lived a brahmana by name Trijata who was born in garga community and was
 reddish born in colour. He used to make his living in the forest by digging the soil, always
 carrying an axe, a spade and a plough."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1391,8 +1341,6 @@ braahmaNam* = to that brahmana; *VR^iddham* = who was aged.
 
 His young wife, having been afflicted with poverty, taking her small children with
 her, spoke to that aged brahmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1409,8 +1357,6 @@ her, spoke to that aged brahmana as follows:
 
 "Throw away the axe and the spade. Carry out my word. Seek for the presence of Rama
 who knows his duty and see if you get at least something."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1460,8 +1406,6 @@ Rama's palace.
 
 He heard the request of his wife, wrapped a strip of cloth that could hardly cover
 his body and set out towards the track wherein lies Rama's palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1511,8 +1455,6 @@ fifth gate.
 
 Up to the fifth gate, none in that society of men could obstruct this Trijata, who
 was equal in spiritual splendour with the sages Bhrigu and Angira.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1570,8 +1512,6 @@ as you know.
 That Trijata having approached the prince Rama, spoke the following words: "Oh, the
 most illustrious prince! I am a destitute, having many children in my family. I always dwell in the
 forest, with an occupation of digging the soil. Look to me, as you know."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1635,8 +1575,6 @@ to such an extent; *parikshhipasi* = as you will throw; *daNDena* = by the staff
 Thereupon, Rama replied jestingly to him as follows: " By me, even one thousand cows
 were not given away so far. You will get as many cows to such an extent as you will throw this
 staff."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1653,8 +1591,6 @@ threw(it)
 
 Winding his loin cloth round his waist hurrily and twirling his staff, he swiftly
 threw it with all his strength, excited as he was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1704,8 +1640,6 @@ numbering several thousands.
 
 Flying away from his hand and crossing across the Sarayu river, that staff fell
 close to a bull amidst a flock of cows numbering in several thousands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1757,8 +1691,6 @@ upto Sarayu; *aashramampati* = to his hermitage; *trijaTaaya* = for Trijata.
 
 Embracing him, Rama of virtuous mind caused to be delivered to Trijata's hermitage
 the cows up to that bank of Sarayu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1807,8 +1739,6 @@ contempt; *ayam* = this; *mama* = my; *parihaasaH* = jest.
 
 Thereupon, Rama pacifyingly spoke to that son of Gargi as follows: "You need not
 express your contempt, for this was only a jest indulged in by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1863,8 +1793,6 @@ sake; *bhavaan* = you; *abhiprachoditaH* = were instigated; *vyavasyati chat*
 
 "I only desired to know your strength, which is unfathomable and hence this trial
 for you. If you desire any other thing, opt for it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1920,8 +1848,6 @@ you; *bhavet* = will become; *priitiyashaskaram* = given of joy and fame.
 " I am telling the truth here. There is no limitation for you. Whatever riches
 belonging to me, are indeed for brahmanas. If the wealth earned by me is given abundantly to you,
 it will bring in joy and fame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -1983,8 +1909,6 @@ happiness.
 Thereupon, Trijata along with his wife accepted that flock of cows and were
 delighted. Then, he pronounced on Rama the virtuous man, the blessings to enhance reputation,
 strength, delight and happiness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -2038,8 +1962,6 @@ bestwed on; *suhR^ijjane* = the friendly people; *mahat dhanam* = a great wealth
 
 Rama being inspired by the befitting words of honour and having his heart satisfied,
 immediately bestowed on friendly people, a great wealth earned by righteous might.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 
@@ -2101,8 +2023,6 @@ desrving honour; by gifts; by respect.
 
 At that time in Ayodhya, there was no brahmana, relative, dependant, pauper or
 mendicant who was not satiated with befittingly deserving honour, gifts and respect.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
 </details>
 

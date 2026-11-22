@@ -17,8 +17,6 @@ III : Aranya Kanda - The Forest Trek**
 Lakshmana reasons with Rama regarding the drastic action Rama is about to take in
 annihilating the worlds. He says many pithy references in dissuading Rama. This chapter likens to
 Bhagavad Gita, as its terse version.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -85,8 +83,6 @@ gripping tightly [in supplication]; *sambodhayaamaasa* = started to address.
 While Rama is bewailing like a forlorn as his anguish is scorching him, rendered
 impoverished with an inanimate heart as a high passion possessed him, Lakshmana, the son of
 Sumitra, suppliantly gripped his feet and started to address him. [4-66-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -148,8 +144,6 @@ eradicate, thus that thought itself is self-contemptuous. Next, the very same de
 destructive from day one, and now if Rama destructs everything, it tantamount to brand Rama to have
 taken sides with demons. This is again a self-critical phenomenon of his incarnation. And so
 on...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -206,8 +200,6 @@ ablest and an impeccable ruler... and you said that our father might deride you 
 a wilful disobedient, despicable and even that way a dishonest one, such as you are, fie on you...'
 [as at 3-61-8b, 9a,] but when you resort to undertake still deplorable devastation of worlds, than
 that of demons, what will he say of you...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -263,8 +255,6 @@ Ritual Deity, therefore you should have some divine endowments, if not all, and 
 yourself to a commoner and bewail like this, instead of making humanly efforts... and if a person
 of your stature sits bewailing and moaning, whereto a commoner has to go in a similar
 situation...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -324,8 +314,6 @@ sukha duHkhadaa... Gita 2-11, 13; 'This that irks- / Thy sense-life, thrilling t
 Bringing thee heat and cold, sorrows and joys, / 'Tis brief and mutable!' but we are in an era of
 action, let us undertake some action, rather than bewailing... all this is but brief and
 mutable...' but think yourself, what to do next, in a human way...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -384,8 +372,6 @@ respective protective areas or spheres, say stratosphere, troposphere and suchli
 come here explicitly as a fence to this world, and when the fence alone is trampling the crop of
 the rightness, who else will come to the rescue of that forlorn elements of crop, called the
 inmates of worlds...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -448,8 +434,6 @@ he had to fall supine as a big serpent. So Lakshmana is obliquely suggesting Ram
 god supreme... but it is in your realm... not on earth... on earth you have to behave like an
 earthling... wrecking the system from within is meaningless... have some obedience to the set
 order...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -505,8 +489,6 @@ Annex: 'world's disposition is such, a hundred living beings may take birth on
 one day and even die in hundreds, or thousands in one day... birth entails death... you ordained it
 to be so, but when the problem has come right under your seat, you go on bewailing without
 undertaking humanly effort... is this befitting...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -567,8 +549,6 @@ Mother Earth, to suffering by earthquakes, storms, whirlwinds, twisters, and wha
 appropriate of you to make her suffer periodically, while you say that your one-time-suffering such
 as this one is nonpareil... or what... world's disposition is as such... not even you can change
 it, lest it boomerangs...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -630,8 +610,6 @@ vR^iShTiH - vR^iShTiH tato annam abhijaayate - candramasau oShadhi vanaspatau
 'Sun causes rains, rains cause food, Moon causes herbs and plants of condiments...' and even they,
 they are eclipsed occasionally, for they are around the mortal world... and what if, your anguish
 eclipses you, temporarily...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -688,8 +666,6 @@ the word bhuutaani twice, and even the last compound is said to be self-contradi
 bhuutaani dehinaH or sarva bhuutaadi dehinaH Hence it is up to the grammarians to decide. Some mms
 use vedaaH for devaaH in first foot, thus 'even all Veda-s put together cannot transcend the
 Absolute...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -743,8 +719,6 @@ fret thyself... [4-66-13]
 The last compound in second foot na tvam vyathitum arhasi is the 'theme
 instruction' in Gita na tvam shocitum arhasi which again appears in the next verse. This has a near
 psalm in The Bible: 'Fret not thyself because of the ungodly...' Psalm 37, v 1.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -791,8 +765,6 @@ as with; *tathaa* = that way; *shocitum na arhase* = to sadden, not, apt of you.
 
 "Whether Vaidehi is stolen or slain, oh, brave one, it will be inapt of you sadden
 like this as with any other commoner without tracking her whereabouts... [4-66-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -844,8 +816,6 @@ api* = in very, high [highly desperate straits,] even; *kR^icChreSu* = in strait
 "Persons of your like who are always equable in their outlook, oh, Rama, they will
 remain non-dispirited even if they are undergoing desperate straits, and they will not just sadden
 like this... [4-66-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -894,8 +864,6 @@ having [with braininess]; *shubha* = auspicious [good]; *a shubhe* = not, auspic
 "Oh, foremost man among men, you ratiocinate in subtle pursuit, objectively and
 brainily, and great brains will comprehend good and bad in subtlety with their braininess...
 [4-66-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -985,8 +953,6 @@ There is another shade to this verse with some altered verbiage as below:
 
 And the commentaries go on expanding these tenets, till this chapter vies with
 Bhagavad Gita.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -1037,8 +1003,6 @@ anushiSyaat hi* = to you, can profess, indeed.
 
 "Oh valiant one, indeed you alone have said this way to me previously and
 repeatedly, who really can profess you even he were to be professedly the Jupiter... [4-66-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -1089,8 +1053,6 @@ thinking process; *devaiH api dur anvayaa* = by gods, even, impossible, to expli
 "Oh, great discerner, your thinking process is non-explicatory even to gods, but now
 that thinking process is obliquely and utterly slumberous owing to your sadness, hence I am
 addressing your percipience and this is no schoolteaching... [4-66-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -1156,8 +1118,6 @@ ca maanuSam ca astram aatmanaH ca paraakramam | where the word aatmanaH is repla
 then the meaning is 'you have missiles unknown to humans and you also have missiles unknown even to
 gods, by the courtesy of Vishvamitra and Agastya, and you have your own valour, then try hard for
 the abuser...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 </details>
 
@@ -1206,8 +1166,6 @@ you.
 "Oh, best one among men, what is it you gain on performing a complete annihilation
 owing to a single soul's malefaction, hence, mark him... that malefactor and a malevolent of yours,
 and it will be apt of you to uproot him... him alone... [4-66-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga66/aranyasans66.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

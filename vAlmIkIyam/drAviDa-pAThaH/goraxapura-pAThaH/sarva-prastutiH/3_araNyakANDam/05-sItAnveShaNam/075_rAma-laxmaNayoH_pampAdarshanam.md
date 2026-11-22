@@ -17,8 +17,6 @@ Rama arrives at the auspicious Pampa Lake according to the suggestion of Kabandh
 environ of that lake Rama has a breather and he expects some good to happen now. On further beholding
 the ladylike Pampa Lake, his thoughts move to Seetha, and he is again dispirited. However, on overcoming
 that short spell of his anguish, he proceeds with Lakshmana to the nearby of the lake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ saha* = Raghava, brother, Lakshmana, along with; *cintayaamaasa* = started to co
 
 While Shabari ascended to heaven with her own divine self-resplendence, Raghava who is with Lakshmana
 started to cogitate over the magnificence of Matanga disciples. [3-75-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -95,8 +91,6 @@ her teachers with such a devotion by which she is going to the heavens she desir
 in heavens will usually be determined by their relative merits... am I serving my brother, teacher,
 god, and the like... namely Rama, to have an iota of Shabari's merit... or, all the problems to Rama
 have chanced by my neglect of my duty...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -143,8 +137,6 @@ a; *aashramaH* = hermitage; *maya dR^iSTaH* = by me, seen.
 
 "I have seen a highly astounding hermitage of self-controlled sages, oh, gentle Lakshmana, in which
 the deer and tigers are at home, and which is adored by divers birds... [3-75-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -203,8 +195,6 @@ we took a holy bath in this lake]; *pitaraH ca api vidhivat tarpitaaH* = manes, 
 
 "Oh, Lakshmana, holy is our taking a bath in this holy Pampa Lake, for it is formed by the waters of
 seven seas, and even holier is our oblation of this holy waters to manes... [3-75-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -223,8 +213,6 @@ hi* = in heart, auspiciousness [hope,] issues forth [hatches,] indeed.
 "What that was unpropitious for us is completely abated by our holy bath and holy oblations, oh, Lakshmana,
 propitiousness is standing en face us, thereby presently this heart of mine is highly gladdening...
 oh, lion-like man, indeed, heart alone hatches hope... [3-75-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -300,8 +288,6 @@ beaming forth; *taam* = to her; *priya darshanaam* = lovely, in its sight [spect
 "Thereby, where Mt. Rishyamuka is beaming forth at its nearby, on which that right minded son of the
 Sun, Sugreeva, is living along with four other vanara-s, always frightened by the fear from Vali, we
 will go to her, to that spectacular Lake Pampa, come on, Lakshmana... [3-75-6b, 7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -351,8 +337,6 @@ of, isn't it.
 
 "I am also hasty to see that best one among vanara-s, Sugreeva, for my enterprise called search for
 Seetha is under his aegis, isn't it... [3-75-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -399,8 +383,6 @@ is, even, hastening; *tvaritam tatra gacChaavaH* = promptly, to there, let us go
 
 To that brave Rama who is speaking thus, Soumitri said this, " my heart too is hastening me, let us
 go there promptly..." [3-75-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -449,8 +431,6 @@ tataH* = from there; *lakSmaNena saha* = Lakshmana, along with; *pampaam aajagaa
 
 Then that Lord of People and Lord of Nature on exiting from that hermitage, he then came nigh of Lake
 Pampa along with Lakshmana. [3-75-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -539,8 +519,6 @@ lake with a backdrop of pristine nature, and with the background music of trilli
 waters, then his innate need for visualising Seetha sprang up and he rushed towards lovely Lake of Pampa
 presuming her to be Lady Seetha...' but we usually take liberty to cut off other words and retain 'he'
 for pain of retyping.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -596,8 +574,6 @@ Matanga Lake on his way to Pampa... [3-75-14]
 From here the real confusion about the arrangement of verses occurs, which is ascribed to the wrong
 copying of copyists. No two versions agree on the placement of verses and some from the next canto Kishkindha
 are also brought in here. With the result parsing of verses also goes wrong. Yet, this goes on.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -647,8 +623,6 @@ are also brought in here. With the result parsing of verses also goes wrong. Yet
 
 Though both Raghava-s came there composedly and dispassionately, but Rama, the son of Dasharatha, is
 ensorcelled by anguish on seeing a ladylike lake Pampa. [3-75-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -720,8 +694,6 @@ entered the area of Pampa lake.
 
 Rama entered the area of that beautiful lake which is beaming forth with lotuses hemming in from inside,
 and trees like Tilaka, Ashoka, Punnaga, Bakula, Uddala, are hemming it from outside. [3-75-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -737,8 +709,6 @@ sand, all over.
 
 That lake is huddled with delightful fringe lands and lotuses squeeze it from within, and its water
 is plethoric and crystalline, and its sand is softish all over. [3-75-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -759,8 +729,6 @@ like.
 
 That lake is beautified with packs of fishes and tortoises, and packs of trees on its banks, on which
 climber plants are wraparound like the ladyloves of those trees. [3-75-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -776,8 +744,6 @@ water, trove, fair one.
 
 And that is adored by the beings like sylvan, reptilian, celestial, georgic, and elfish beings, and
 it is overcrowded with trees and tendrils, and it is a trove for fairish and clodish water. [3-75-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -861,8 +827,6 @@ book: 'Apart from *kutha* the verse quoted above contains one more word which un
 is not noticed by Monier Williams in the sense in which it is used in Ramayana. This word is *udghaaTa*.
 It means a heap *samuuha*. This meaning of the word is very rare...' according to the book -
 Ramayana - A Linguistic Study, by Pt. Satya Vrata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -912,8 +876,6 @@ of Seetha.]
 
 Then Rama along with Lakshmana on seeing at that Pampa Lake, that self-refulgent son of Dasharatha whimpered
 over, owing to his passionate recollection of Seetha. [3-75-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -1019,8 +981,6 @@ lalanaabhi iva lataabhiH*
 **टिप्पनी**
 
 of which lalanaa iva 'a beautiful lady like...' is our concern.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1036,8 +996,6 @@ iti khyaataH* = Rishyamuka, thus, renowned; *asyaaH tiire tu [aasiit]* = on its,
 
 The aforesaid mountain renowned as Rishyamuka which is abounding with colourful ores and amazingly flowered
 trees is there on the bank of Pampa Lake. [3-75-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -1086,8 +1044,6 @@ iti vishrutaH* = Sugreeva, thus, renowned; *adhyaaste tu [tam]* = presides over 
 
 A noble soul by his name Risharaja was there and that monkey's son is the highly valiant Sugreeva, thus
 he is renowned, and he presides over that mountain. [3-75-26b, 27b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -1151,8 +1107,6 @@ There is a filler foot in the above verses *raajya bhraSTen diinena tasyaam aaks
 'lorn of my kingdom, lorn is my heart to her, and a lorn one I am... how can then I possibly live...'
 In view of mishmashed editing of verses even the critical edition has no perfect order of verses, leave
 alone ancient copies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -1213,8 +1167,6 @@ one; *uttamam nalinii* = to superb, lotus lake; *tam papaam vivesha* = to her, i
 Such as he is whose thinking is applying itself to Seetha alone, and who is vocalising his anguish for
 her, to whom aa stymie is laid by the Love-god just at the appearance that lake, that Rama on saying
 that sentence in that way to Lakshmana neared that superb and heart delighting lotus Lake Pampa. [3-75-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 </details>
 
@@ -1261,8 +1213,6 @@ entered [the area of]; *dadarsha pampaam* = has seen, Pampa.
 On going step by step, and on going on seeing ardently and intently at that forest which has picturesque
 visuals of forestry, and which is with hurly-burly birds, not one, but numerous and divers are they,
 and then Rama along with Lakshmana on entering the area of that lake, has seen that Lake Pampa. [3-75-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

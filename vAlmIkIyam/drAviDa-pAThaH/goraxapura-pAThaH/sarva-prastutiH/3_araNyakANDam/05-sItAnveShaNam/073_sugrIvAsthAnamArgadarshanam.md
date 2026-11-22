@@ -16,8 +16,6 @@ title_english = "073 Kabandha extols Pampa Lake"
 Kabandha extols Pampa Lake and details Rama about the course to be adopted to proceed to Mt. Rishyamuka
 to befriend Sugreeva. He details about Matanga hermitage and implores upon Rama to visit an anchoress
 name Shabari, who is waiting for ages to have a glimpse of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ siitaayaaH praimaargane* = in Seetha's, questing; *[maargam* = way out]; *darsha
 
 On showing a concept for questing after Seetha that context-sensitive Kabandha further spoke this sentence
 which is inclusive of right concept to Rama. [3-73-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -171,8 +167,6 @@ shining forth in full blossom, that alone is an optimistic course for you. [3-73
 **टिप्पनी**
 
 The botanical terms for some of these trees are given to some of the above in the first chapter of Kishkindha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -188,8 +182,6 @@ pelting stones at them, not rain,] even; *amR^ita kalpaani* = ambrosia, similar;
 
 "On shinning up those trees, or else, even on forcefully pelting those fruits down onto ground, then
 you may pelt over, devouring those ambrosial fruits... [3-73-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -245,8 +237,6 @@ like; *anyat* = another [parkland is there.]
 "On crossing over that parkland, oh, Kakutstha, another parkland with blossomy flowers is there, which
 replicates the heavenly Nandana gardens, and a replica of North-Kuru, an all-endowing province... [3-73-6b,
 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -263,8 +253,6 @@ yathaa* = in Caitraratha [Kubera's grdens,] as with.
 "Wherein the trees fruit all-season fruits that transude nectar, why fruits alone, in that parkland
 all seasons are coeval, as they will be in Caitraratha, the celestial gardens of Kubera... [3-73-7b,
 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ shine; *mahaa viTapa dhaariNaH* = enormous, branches, bearing [trees]; *tatra sa
 "In there, the trees bear enormous branches which will be crouching under the weight of their own fruits,
 and everywhere such trees will be shining forth like shiny clouds and shining mountains... [3-73-8b,
 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ pra daasyati* = to you, verily, give [present.]
 
 "Let Lakshmana present those ambrosial fruits to you either by climbing up those trees to pluck them,
 or else by pelting them to ground, according to his convenience... [3-73-9b-10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -418,8 +402,6 @@ _________________
 
 "Peregrinating finest places by trekking from mountain to mountain, from forest to forest, oh, valorous
 ones, you will trek to an auspicious lotus-lake, called Pampa... [3-73-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -466,8 +448,6 @@ shobhitaam* = red-lotuses, blue-lotuses, beautified with - is that Pampa Lake.
 
 "It is un-pebbly, un-slippery, un-weedy thereabouts, oh, Rama, equal are its quaysides and emersed are
 its sandbanks, red and blue lotuses beautify that Pampa Lake... [3-73-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ voicing; *nikuujanti* = peeping.
 
 "There the indwellers of Pampa Lake's waters, oh, Raghava, namely the swans, cranes, Kraunca-s and fish-hawks
 will be letting out peeps in tuneful voice... [3-73-12a, 13b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -541,8 +519,6 @@ none kills them, and you may savour them because those birds will be best and bu
 **टिप्पनी**
 
 Comment: A word about Rama's vegetarianism or otherwise is incorporated at endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -630,8 +606,6 @@ samaayuktaH* = reverence, along with - reverentially; *tava* = to you; *samprada
 a sort of sprats, which are neither scraggy, nor with many fish-bones. Lakshmana will reverentially
 offer them to you on skewering them with arrow, and on broiling them on iron rod of arrow after descaling
 and de-finning them. [3-73-14b, 15, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -653,8 +627,6 @@ he offers.
 be in the bunches of flowers of that lake, and which will be lotus-scented, pellucid, comfortably cool,
 shiny like silver and crystal, uncontaminated and that way pristine, by lifting it up that water with
 lotus leaf, making that leaf a stoup-like basin... [3-73-16b, 17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ wild boars]; *pampaayaam* = at Pampa; *saaya aahne* = evening, of day; *lakshmaN
 mountain caves, and who will be coming nearby the lake, greedy as they are for water, and those forest
 movers will be moving about in evening time of the day, bellowing like bulls... oh, Rama, Lakshmana
 will show them to you... [3-73-18b, 19, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -785,8 +755,6 @@ a tree having twigs. In the course of time the sense of *vR^iksha* was appropria
 ] to itself and the use of *vR^iksha* along with it fell out. There is no more conjecture. Pt.
 Satya Vrat in 'Ramayana - A Linguistic Study' and here twigs are *upa lakshaNa* for blooms and
 then, 'trees garlanded with its own blooms and twigs...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -834,8 +802,6 @@ nakta maalakaan* = Naktamaala trees [Galedupa arborea]; *phullaani* = [fully] bl
 
 "Oh, Raghava, there you will see highly delightful and wide-ranging trees like Tilaka and Naktamaala,
 and fully bloomed red and blue lotuses, as well... [3-73-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -882,8 +848,6 @@ na ca shiiryanti vai* = not, also, drop down, indeed.
 
 "Oh, Raghava, there is none someone to inwreathe the garlands of those flowers, and indeed, they neither
 dry up, nor drop down... [3-73-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -964,8 +928,6 @@ The above wafting of sweat drops onto trees is as per Govindaraja. In another wa
 onto ground and from them trees grew up, and they flowered unwithered flowers - Then as they laboured
 through the dell / From limb and brow the heat-drops fell: / Thence sprang and bloomed those wondrous
 trees: - R.T.H. Griffith
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1020,8 +982,6 @@ mms : saha caariNii = she who undertook ascesis with them]; *cira jiivinii* = lo
 
 "Oh, Rama of Kakutstha, albeit the passing of those sages through the pearly gates, their maidservant,
 a long-lived one and an anchoress, named Shabari, can be seen there, even today... [3-73-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1037,8 +997,6 @@ gamiSyati* = heaven, sphere of, she departs to.
 
 "Oh, Rama, she who always stands by probity will depart to the sphere of heaven, on attending to you,
 for you are the referent to god, and a reverent for one and all... [3-73-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1085,8 +1043,6 @@ place of, you will see.
 
 "Oh, Rama, thereafter on your taking course to that western bank of Pampa Lake, oh, Kakutstha, there
 you will see the unequalled and arcane place of hermitage of sage Matanga... [3-73-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1136,8 +1092,6 @@ _________________
 
 "Sage Matanga so methodised that woodland, where even the elephants are rendered incapable to trespass
 in that hermitage of sage Matanga disturbing its serenity... [3-73-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1190,8 +1144,6 @@ vishrutam* = thus, that way, renowned; *tasmin vane* = in that, forest; *nirvR^i
 "Oh, the legatee of Raghu, that woodland which in simile is like a godly forest, similar to the heavenly
 Nandana gardens, overspread with divers birds is renowned as 'Matanga woodland', and oh, Rama, you will
 take delight rejoicingly in that woodland... [3-73-30, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1255,8 +1207,6 @@ purposefully crafted it, as the only shelter to Sugreeva. Its flowers are ever b
 to feed Sugreeva and the other four monkeys in exile. Baby elephants are enough to keep guard for that
 mountain, then why tell about the capacity of full grown ruttish elephants. This prearrangement is owing
 to the presage of Brahma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1314,8 +1264,6 @@ on waking up]; *adhigacChati* = he gains.
 
 "And should a man sleep on the heights of that mountain, and should he dream of gaining some riches
 in that sleep, he gains that much when he wakes up... [3-73-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1331,8 +1279,6 @@ enam aadaaya* = while sleeping, him, on capturing; *raakSasaaH* = demons; *tatra
 
 "But he who is diabolic in his deportment and devilish in comportment, climbs that and hopes to sleep
 soundly, demons capture him while he is in sleep, and rough him up to death, there itself... [3-73-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1379,8 +1325,6 @@ Matanga, hermitage, indwellers; *shishu naagaanaam* = of baby, elephants; *mahaa
 
 "Oh, Rama, there the blaring trumpet-blasts of baby elephants that amuse themselves at Lake Pampa, and
 of those that are the indwellers of Matanga hermitage, even there on Mt. Rishyamuka are audible... [3-73-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1443,8 +1387,6 @@ dispersing; *pracaranti* = move about.
 "The mighty and massy dark-cloud coloured elephants will be hitting head-on, and with dripping blood
 streams on their jumbo heads and temples, they disperse and move about separately, only to come together
 for yet another round of head-to-head collision... [3-73-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1464,8 +1406,6 @@ for yet another round of head-to-head collision... [3-73-36]
 clear, springlike for touch, and in which all scents of flowers of that lake are included, and then
 they will be collectively re-entering the forests, for they are forest ranging elephants... [3-73-37,
 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1513,8 +1453,6 @@ say gnus with black stripes]; *apetaa apajayaan* = unknown, defeat [triumphant, 
 
 "On your seeing the bears, also thus the tigers and even the exultant sapphire-blue Rurus with black
 stripes there, you will discard your distress... [3-73-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1560,8 +1498,6 @@ outshines; *asyaaH praveshanam duHkham ca* = in it, entering, problematic, also.
 
 "But oh, Rama, a cavernous cave lidded with a boulder stone outshines on that mountain, and oh, Kakutstha,
 problematic is an entry into it... [3-73-39b, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1602,8 +1538,6 @@ with; *mahaan hradaH* = a great, lake - is there.
 
 "On its right at its eastern opening a delightful lake with highly coolant waters is there, fringed
 with divers trees and fraught with numerous tubers and fruits... [3-73-40b, 41a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1651,8 +1585,6 @@ will be there.
 "Sugreeva dwells in that cave along with four other monkeys, and at times he will be available on the
 peaks of that mountain, even on its bluffs and cliffs, for he is a terrified monkey..." Thus Kabandha
 informed them. [3-73-41b, 42a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1704,8 +1636,6 @@ aabhaH* = with sun's, dazzle, grandeur of; *yarocata* = scintillated.
 That impressive Kabandha adorned with divine garlands and abiding in sky scintillating with the grandeur
 of the dazzle of the sun has bidden both the brothers, Rama and Lakshmana thus, awaited a bid adieu
 from them. [3-73-42b, 43a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1753,8 +1683,6 @@ you, may go; *iti vaakyam uucatuH* = thus, sentence, said.
 
 Rama and Lakshmana who started off on their peregrination said this sentence to that highly providential
 Kabandha, who is temporising in the sky in their vicinity, thus as "you may proceed..." [3-73-43b, 44a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1803,8 +1731,6 @@ proceed; *iti tau abraviit ca* = thus, to them two, said, further.
 On getting the orders for departure from those two brothers who are highly gladdened at the information
 given by Kabandha, he that Kabandha who is ready to exit, he further said to them thus, "proceed for
 the purpose of achieving your task..." [3-73-44b, 45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 </details>
 
@@ -1866,8 +1792,6 @@ Kabandha who redeemed his divine form has now got an aureole around him, and whi
 whole of his mien, he moved further up on sky and reappeared. And staying in the sky he pointed out
 at the side of Mt. Rishyamuka, and then he reiterated, "you befriend Sugreeva..."and then he vanished.
 [3-73-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

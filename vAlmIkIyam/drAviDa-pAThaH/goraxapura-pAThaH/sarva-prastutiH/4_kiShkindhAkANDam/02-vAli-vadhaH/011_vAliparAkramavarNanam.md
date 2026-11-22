@@ -18,8 +18,6 @@ Sugreeva narrates Vali's bravery and intrepidity in fighting and how he fought w
 a mountainous buffalo demon named Dundubhi. Also narrated is the curse of Sage Matanga that
 prohibited Vali's entrance into Mt. Rishyamuka area.In order to imbibe confidence in Sugreeva, Rama
 starts to show his valour and might.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ ca* = started extolling, also.
 
 Sugreeva started to adore and extol Raghava on hearing the words of Rama that are
 inculcating happiness and pride. [4-11-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ worlds, you burn; *a samshayam* = no, doubt.
 "It is doubtless that you will burn down everything when you are angry, like the
 blazing sun at the end of era, with these arrows of yours that are highly blazing, incisive and
 invaders on stealthy places." Thus Sugreeva started extolling Rama. [4-11-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ anantaram* = which, later to be done; *vidhatsva* = that you impose.
 "That which is impetuousness of Vali, that which is his bravery and courageousness
 are there, they may be listened from me single-mindedly, and later you impose that which need be
 imposed. [4-11-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -230,8 +222,6 @@ Vali immediately.
 samudrebhyaH sandhyaam anvaasya ravaNa | imam muhuurtam aayaati vaalii tiShTa muhuurtakam
 ||* "Please wait Ravana, Vali comes after offering oblations in four oceans... "
 So says Tara to Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -279,8 +269,6 @@ again, catches.
 "Ascending the heights of mountains and even rending their greatest peaks, that
 mighty one volleys them upwards and in turn catches them, as though they are play balls.
 [4-11-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -327,8 +315,6 @@ felled.
 
 "As a show his strength Vali used to personally fell many sturdy trees of diverse
 origin by his might. [4-11-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ he was bearing.
 "One named Dundubhi was there in the form of a buffalo, whose size shone forth like
 Mt. Kailash and who bears the strength of a thousand elephants." Thus Sugreeva started telling
 Dundubhi's episode to Rama. [4-11-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -419,8 +403,6 @@ samudram jagaama* = to rivers', lord - ocean, he went to.
 "He that evil-minded and colossal bodied Dundubhi was bemused by the vanity of his
 own vigour, and by the boon bestowed oo him, and once he went to the lord of rivers, namely the
 Ocean. [4-11-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -470,8 +452,6 @@ uvaaca* = thus, to him, to vastly, ocean, he spoke.
 
 "Deriding the garner of weaves and gems he said to that vastly ocean "give me a
 fight" [4-11-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ vacanam* = said, words.
 "Then, oh, Rama, that virtue-minded and very powerful ocean rose up from his tabular
 position to heights, and spoke these words to that demon Dundubhi who is driven to doom by his own
 time. [4-11-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ daasyati* = he who, to you, fight, accords; *abhi dhaasyaami* = I name him;
 
 "I am not capable to give you a fight, oh, war-expert, but I will name him who can
 give you a fight, listen." So said ocean to the demon. [4-11-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -634,8 +610,6 @@ not, matchable, happiness, to accord, he is capable.
 forests, well-know by the name Himavan, the king of mountains, and he embodies great cascades,
 cataracts, and caves, and he alone is capable to accord a matchless happiness to you in the form of
 a fight." So said ocean to Dundubhi. [4-11-12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -693,8 +667,6 @@ ca* = verily, blared [discordantly,] also.
 forests of Himavan like an arrow darted from bow, and that Dundubhi started to blare discordantly
 and toss the rock-faces of that mountain that are like white elephants in their figuration,
 severally. [4-11-14, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -742,8 +714,6 @@ severally. [4-11-14, 15]
 "Then he who is like a silver cloud in his figuration, a gentle and delightful one
 in his appearance, that Himavan spoke these words to the demon staying on his own cliff.
 [4-11-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ actions - in fighting, not, skilled one.
 
 "It is inapt of you to annoy me, oh, virtuous Dundubhi, I am just a shelterer of
 sages, and an unskilled one in fights." So said Himavan to Dundubhi. [4-11-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -835,8 +803,6 @@ vaakyam* = said, sentence.
 
 "On hearing the words of that modest king of mountains Dundubhi's uyes are bloodshot
 and he said this sentence. [4-11-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -886,8 +852,6 @@ who can accord; *tam aacakSva* = about him, you clarify.
 
 "Whether you are incapable to fight with me, or not venturing me as you are scared
 of me is not my concern, but tell me who can really give me a very combative fight,. [4-11-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -935,8 +899,6 @@ words]; *tam asura uttamam* = to that, demon, fierce one; *krodhaat* = in anger;
 On hearing Dundubhi's arrogant words that honest Himavan being an expert in
 sentence-making, had to say angry words to that fierce demon that were never uttered by him
 earlier. [4-11-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -986,8 +948,6 @@ matchless city, in pomp, Kishkindha, he presides over.
 
 "Oh, war-expert Dundubhi, Indra's son is there, a brave and glorious one by name
 Vali, and he is now presiding over the matchlessly pompous city Kishkindha. [4-11-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1040,8 +1000,6 @@ give you a duel, like Indra to Namuchi. [4-11-22]
 Indra, father of Vali, gave such a duel to one demon called Namuchi in early
 times and killed him. This Namuchi is the son of one Viprachit, who is the progeny of Kashyapa, and
 his demon-brothers are Raahu, Ketu, Vaataapi, Ilvala Naraka, Puloma and others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1092,8 +1050,6 @@ karmaNi* = in war, manoeuvres; *dur marSaNaH hi* = not, assailable one, indeed.
 "Approach him promptly if you desire a fight now, and he is an intrepid one who will
 always be in the manoeuvres of war, and indeed none can assail him." Thus said Himavan to that
 demon Dundubhi. [4-11-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1140,8 +1096,6 @@ that, city, Kishkindha, proceeded.
 
 "Then on hearing Himavan's words he that Dundubhi is convulsed in anger and
 proceeded to Vali's city Kishkindha.. [4-11-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1212,8 +1166,6 @@ like; *na narda* = clamorously, na narda = bellowed.
 awe-inspiring, and like the arrival of a massive dark cloud in rainy season full with water on the
 edge of firmament, he arrived at the gateway of Kishkindha and bellowed clamorously like a war-drum
 as though to quake the earth. [4-11-25, 26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1263,8 +1215,6 @@ elephant, as with; *ullikhan* = by goring; *[na narda* = bellowed.]
 
 "He bellowed uprooting trees that are rooted nearby, scooping the earth with hooves,
 and insolently goring the gateway with horns like a goring elephant. [4-11-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1314,8 +1264,6 @@ papaata* = out, fall [from chambers.]
 
 "Vali who by then went into his palace chambers became intolerant to hear that noise
 and fell out from there along with ladies, like the moon with stars. [4-11-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1362,8 +1310,6 @@ dundubhim* = to him, that Dundubhi; *vyakta akSara padam* = clearly, lettered ,w
 
 "Vali being the lord of monkeys, and of all the other forest-dwellers as well, spoke
 a clearly worded brief sentence to Dundubhi. [4-11-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1410,8 +1356,6 @@ mighty one; *rakSa praaNaan* = save, lives [of yours.]
 
 "Oh, Dundubhi, impeding the gateway of this city what for you are bellowing, I know
 you, oh, might one, save your lives." Vali cautioned that demon that way. [4-11-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1453,8 +1397,6 @@ hearing; *dundubhiH krodhaat samrakta locanaH* = Dundubhi became, in anger, bloo
 "On hearing that sentence of Vali, the tactful lord of monkeys, Dundubhi said this
 sentence with his eyes bloodshot in anger." Thus Sugreeva continued his narration to Rama.
 [4-11-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1501,8 +1443,6 @@ j~naasyaami* = then, your, might, I will know, I appreciate.
 
 "It is inapt of you to speak words in the vicinity of ladies, oh, valiant Vali, give
 me a duel now and then I can appreciate your might." [4-11-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1550,8 +1490,6 @@ gratifications; *gR^ihyataam* = be taken up - delight yourself.
 "Otherwise I bear up my rage for this night, oh, monkey, you may unrestrainedly
 delight yourself till morning in your voluptuous gratifications, for you are now surrounded by your
 ladies." [4-11-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1602,8 +1540,6 @@ tree-branch, animal's, you being the king; *su hR^it janam* = your good, hearted
 "Also embrace all the monkeys and bequeath endowments to them, and you may bid adieu
 to all the good-hearted people of yours for you are the king of all the tree-branch animals, as you
 may not see them later. [4-11-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1655,8 +1591,6 @@ shaasanaH* = I am, your, egotism, destroyer.
 "Let Kishkindha city be seen clearly by you as last sight, and keep someone
 equalling you as in charge of city, and also rejoice with the females till sunrise as there is no
 tomorrow to you. [4-11-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1700,8 +1634,6 @@ on par with those that are not to be killed.
 "He who kills a drunken one, unvigilant one, defeated one, or one without weapons,
 or an atrophied one, he get the sin of foeticide in the world, and your present state is suchlike."
 Dundubhi incited Vali in this way. [4-11-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1751,8 +1683,6 @@ demon, lord; *krodhaat* = in anger; *abraviit* = spoke.
 
 "Then Vali laughed that demon off, discharged all the females namely Tara and
 others, and then he spoke to that stupid lord of demons in anger. [4-11-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1800,8 +1730,6 @@ paanam samarthyataam* = as gallant's, toast, be regarded.
 "Don't surmise that I am drunk, and should you be unafraid of a fight, regard this
 drunkenness of mine as the toast of a gallant fighter in this deadly fight." Vali said so to
 Dundubhi. [4-11-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1849,8 +1777,6 @@ Dundubhi. [4-11-38]
 "Saying that way to that Dundubhi that highly enraged Vali heaved up the golden
 chest-pendant around his neck on to his chest, which was given by his father Mahendra, and stood
 firm for fight. [4-11-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1900,8 +1826,6 @@ booming; *aavidhyata* = [whirled and] bumped on ground.
 
 "Then that elephantine monkey Vali took that mountain-similar Dundubhi by horns, and
 booming highly he whirled and bumped him onto ground. [4-11-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -1952,8 +1876,6 @@ his [Dundubhi's,] from two ears [of Dundubhi,] blood, gushed out.
 "Vali while blaring highly with great sound repeatedly whirled him and thrown onto
 ground, and while Dundubhi was hurled and thrown to ground, blood gushed out of his two ears.
 [4-11-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2000,8 +1922,6 @@ occurred.
 
 "There occurred a gruesome fight among those two, Dundubhi and Vali, who by their
 fury are impetuous and who aspired victory over the other. [4-11-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2048,8 +1968,6 @@ fought.
 
 "Then Vali who is similar to Indra in his fortitude fought with him with his fists,
 knees and feet, and like that with boulders and trees. [4-11-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2104,8 +2022,6 @@ which depletes half of the opponent's strength. Hence, the strength of Dundubhi 
 Vali does not wear the same chest pendent when fighting with Sugreeva when killed by Rama. For this
 it is said, Vali wanted to punish Sugreeva that which is befitting to an errant younger brother,
 but Vali never considered Sugreeva as a real threat or an enemy to the core.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2152,8 +2068,6 @@ piSTaH* = completely pounded out.
 
 "In that life-taking fight when Dundubhi is lifted up and flung to ground, he is
 completely pounded out. [4-11-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2211,8 +2125,6 @@ The 'fifth state' of a living being is death, where the other four states are [1
 * jaagR^it avastha,* waking state, [2 * swapna avastha,* dreaming state, [3
 *suSupta avastha,* deep sleep, [4 * turriya avastha,* fourth
 state, that which is above the three preceding states. Then the fifth state is death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2262,8 +2174,6 @@ length, hurled.
 
 "Then the hastiest Vali swayed that dead and inanimate demon with both of his hands
 and hurled him a yojana distance in a single flick. [4-11-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2310,8 +2220,6 @@ Matanga's, hermitage, towards pra petuH = fallen.
 
 "And while he is thrown that hastily blood drops oozed from his mouth, and flung by
 air they fell in the hermitage of sage Matanga. [4-11-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2362,8 +2270,6 @@ blood; *kruddhaH* = enraged; *ayam kaH nu* = he, who is, indeed [thus as];
 
 "On seeing the blood drops fallen there, oh Rama, that sage is enraged and thought,
 'who is he indeed, who dropped the blood...' Thus Sugreeva narrated to Rama. [4-11-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2411,8 +2317,6 @@ disobedient one; *kaH ayam baalishaH* = who is, this, child-like [reckless one.]
 " 'By which evil-spirited one I am abruptly touched with blood? Who is that
 evil-minded one? Who is that malevolent, disobedient and a reckless one?' Thus the sage Matanga
 pondered. [4-11-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2459,8 +2363,6 @@ aakaaram mahiSam dadR^ishe* = mountain, in shape, buffalo, he has seen,
 
 "Thinking thus and coming out of hermitage that celebrated sage has seen the
 mountainous buffalo fallen on ground lifelessly. [4-11-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2504,8 +2406,6 @@ prati* = who tossed, that monkey, towards him; *mahaa shaapam* = great, curse;
 
 "On knowing by his ascetic power that this deed is done by the monkey, he released a
 great curse on him who tossed the cadaver of buffalo. [4-11-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2555,8 +2455,6 @@ bhavet* = if enters, fatality, occurs.
 
 "Untreadable is this sheltering wood of mine to him who has stained it with squirts
 of blood, and if he enters this place peradventure, fatality occurs on him. [4-11-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2612,8 +2510,6 @@ vyaktam* = he, will not, exists, evidently.
 "By his hurling the demon's body these trees are also completely destroyed, hence he
 ought not set his foot in a distance of one full yojana around this hermitage, and if that
 evil-minded one places his foot then he evidently does not exist. [4-11-54, 55a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2657,8 +2553,6 @@ themselves with my mercy.
 
 "And some of his friends that are dependent on my woods shall not live here and they
 may depart on hearing my words and solace themselves with my words. [4-11-55b, 56a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2702,8 +2596,6 @@ vaa* = fruits, tubers, for non-existence, also, or; *tiSTanti yadi* = stay behin
 wish to stay behind in this forest alone for further destruction of leaves or sprouts, or even for
 the non-existence of fruits and tubers of this forest, defiantly they too will be cursed.
 [4-11-57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2750,8 +2642,6 @@ bhaviSyati vai* = he, stone, he becomes, [petrified.] indeed.
 
 "And today is the day of limit and the monkey whom I will see tomorrow, he will be
 petrified for many thousand years to come. [4-11-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2798,8 +2688,6 @@ them, on seeing, Vali, spoke.
 
 "Then those monkeys on hearing the clear wording of the sage started out from that
 forest, and on their coming to Kishkindha, Vali saw them and spoke this way to them. [4-11-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2845,8 +2733,6 @@ samastaaH* = you, all; *kim mat samiipam anupraaptaa* = why, in my, presence, ar
 
 " 'Why all of you dwellers of Matanga forest arrived in my presence, even so, are
 you the dwellers of that forest safe?' Thus Vali asked all. [4-11-60]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2893,8 +2779,6 @@ chest]; *shashamsuH* = reported.
 
 "Then all of those monkeys have reported to Vali, the one with a golden
 chest-pendant, all the reasons for their exit, likewise the curse to Vali. [4-11-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2944,8 +2828,6 @@ approaching; *yaacate sma* = begged, he has.
 
 "Then on hearing all those words narrated by monkeys Vali approached that great sage
 and begged of him on becoming humble with palm-fold. [4-11-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -2992,8 +2874,6 @@ went into.
 
 "The sage inconsiderate of Vali's request withdrew into hermitage, and fearing to
 bear the brunt of the curse Vali was distraught and withdrew from that place. [4-11-63]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3042,8 +2922,6 @@ wishes to.
 "Then, dreaded by the fear of curse that monkey Vali does not aspire to enter the
 great mountain Rishyamuka, oh, people's lord, Rama, or he does not even wish to look at it." Thus
 Sugreeva continued his narration. [4-11-64]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3093,8 +2971,6 @@ caraami* = I am moving.
 
 "Knowing the inaccessibility of this forest to him I got rid of my agony, Rama, and
 I move here about in this great forest along with my ministers. [4-11-65]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3141,8 +3017,6 @@ prakaashate* = shining forth.
 
 "This huge heap of bones that is shining forth like a mountaintop is that of
 Dundubhi, which Vali once hurled by the vanity of his valour. [4-11-66]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3189,8 +3063,6 @@ to make it; *ghaTate* = will be trying, or he is capable.
 
 "Also these are the seven enormous sala trees full with their branches, and Vali is
 capable to make each of them leafless by his vigour, of course, one at a time. [4-11-67]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3238,8 +3110,6 @@ capable to make each of them leafless by his vigour, of course, one at a time. [
 "Oh, Rama, I am apprising all this to tell about the unequalled vitality of Vali,
 and oh, king, then how is it possible for you to eliminate Vali in war." Thus Sugreeva enquired
 with Rama. [4-11-68]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3289,8 +3159,6 @@ killing, you have confidence.
 
 When Sugreeva spoke that way Lakshmana a little smiled and asked him, "On performing
 which act do you confide in the possibility of Vali's elimination?" [4-11-69]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3359,8 +3227,6 @@ the trees and when the arrow exited out of the tree, made its fin-feathers to co
 'arrow' has no place in monkey's hands. The very birth of this monkey race is to fight with their nails,
 teeth, and tree-trunks and branches. Hence, the word *vivyaadha* means that Vali tortures the
 trees by shaking their trunks, and shattering all the leaves in his show of strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -3376,8 +3242,6 @@ dead, I construe.
 
 "If Rama can rend one tree out of the seven with only one arrow, then on seeing
 Rama's valour I can construe that Vali is utterly dead at his hand. [4-11-71]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3425,8 +3289,6 @@ bow-lengths]; *prakSipet ca api* = kicks and throws, also, even.
 "Lakshmana, if he lifts and kicks the skeleton of this dead buffalo by the might of
 his foot, and makes it fall at a distance of two hundred bow-lengths, I can confide." So said
 Sugreeva to Lakshmana. [4-11-72]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3473,8 +3335,6 @@ words, spoke.
 
 Sugreeva paused for a while on saying thus to Rama, for Rama's eye-corners are
 reddened with anger towards Vali, and then Sugreeva again spoke to Rama. [4-11-73]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3522,8 +3382,6 @@ defeated.
 "Vali is a mighty monkey, an intrepid one, who esteems his own intrepidity, and one
 who is well renowned by his might and tenacity, and in combats he is an undefeated one.
 [4-11-74]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3573,8 +3431,6 @@ Rishyamuka, depended upon - took shelter.
 
 "His deeds that are impracticable even for gods are obvious, and scared for
 recollecting them I took shelter of Mt. Rishyamuka. [4-11-75]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3624,8 +3480,6 @@ _________________
 
 "Concluding that the lord of monkeys Vali to be an unconquerable, unattackable,
 unsympathetic one I am not leaving this Mt. Rishyamuka. [4-11-76]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3672,8 +3526,6 @@ mahaavane* = moving about, in great forest.
 
 "I am moving about these forests along with earnest ministers like Hanuma and other
 significant ones, only because I am disconcerted and sceptical of him. [4-11-77]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3721,8 +3573,6 @@ Himavan, like, in you, I take shelter.
 "I chanced upon a laudable and true friend in you, oh, Rama, the patron of friends,
 hence I take shelter in you, oh, tigerly man, for you are the final resort for those seeking
 salvation, like Mt. Himavan. [4-11-78]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3770,8 +3620,6 @@ imprecise.
 
 "I know the might of that mighty brother-the-malice of mine, and oh, Raghava, but
 your valour in combat is imprecise to me." [4-11-79]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3818,8 +3666,6 @@ kaataryam janitam* = to me, cowardice, caused.
 
 "Definitely I am neither examining, nor demeaning, nor intimidating you, but his
 macabre exploits caused cowardice in me. [4-11-80]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3866,8 +3712,6 @@ covered, as with, fire; *param tejaH suuchayanti* = sublime, radiance, they deno
 
 "It is definite, oh, Raghava, your word, courage, and physique denote some sublime
 radiance in you, as with ash covered fire." So said Sugreeva to Rama. [4-11-81]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3914,8 +3758,6 @@ uvaacha* = replied.
 
 On hearing that word of great-souled Sugreeva, Rama smilingly replied that monkey in
 his turn. [4-11-82]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -3963,8 +3805,6 @@ utpaadayaami* = in you, I shall cause - ingrain.
 "If you are unable to confide in the intrepidity of ours, oh, monkey, I shall
 ingrain commendable confidence in you with respect to our action." Thus Rama said to Sugreeva.
 [4-11-83]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -4027,8 +3867,6 @@ Saying so to Sugreeva in a comforting manner, he that dextrous, vigorous Rama, t
 elder brother of Lakshmana sportively flipped the skeleton of Dundubhi with his big toe, and
 flicked that withered body of the demon with his big toe itself to a ten yojana distance without
 lifting his foot. [4-11-84, 85]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -4080,8 +3918,6 @@ vacanam abraviit* = meaningful, this, word, said.
 Then on seeing at the hurled body, and at valiant Rama who by now is like the
 blazing sun, again Sugreeva said this meaningful word to Rama in the presence of Lakshmana and
 other monkeys. [4-11-86]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -4155,8 +3991,6 @@ maamsaH* = with, flesh; *pratyagraH* = unspoilt; *kaayaH* = body;
 
 "Oh, friend, at that time when my tired and tipsy brother Vali tossed this body it
 was unspoilt, wet with blood and full with flesh. [4-11-87]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -4172,8 +4006,6 @@ merrily - energetically, by you, this way, flipped.
 
 "Raghava, now this body is sleazy, without flesh, also rendered into a strawy
 condition, and oh, Raghu's delight, you too flipped it because you are now energetic. [4-11-88]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -4222,8 +4054,6 @@ it.
 "If it be said something is wet or dried up there chances a lot of difference, oh,
 Raghava, thereby it may not be possible to assess whether you might is greater or his, as the
 gravity of the case depends much on that wetness or dryness alone, isn't it." [4-11-89]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -4272,8 +4102,6 @@ evident, they will be.
 "That alone is the uncertainty in that matter, sire, whether your strength is
 superior or his, and if a single sala tree is ripped in an outright manner the ability or otherwise
 will be evident. [4-11-90]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -4320,8 +4148,6 @@ you release.
 
 "String the bowstring to this bow of yours, an alternate of elephant's trunk, and
 stretch it out up to your ear, and release a great arrow. [4-11-91]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -4381,8 +4207,6 @@ enough, is thinking; *dhruvam mama priyam kuruSva* = definitely, to me, favour, 
 "Darted by you your arrow will rip off this sala tree, oh, king, there is no doubt
 in that matter, enough is this thinking of yours and you will definitely do me this favour, I pray
 and swear upon me." [4-11-92]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 </details>
 
@@ -4437,8 +4261,6 @@ and swear upon me." [4-11-92]
 "As to how the sun is unsurpassed among all brilliances, as to how Himavan is
 unmatched among all mountains, as to how the lion is unequalled among all quadrupeds, so you are
 among all men for your unique valour." So said Sugreeva to Rama. [4-11-93]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

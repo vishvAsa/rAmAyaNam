@@ -25,8 +25,6 @@ get gain and security. Rama agrees to it and offers his sandals to Bharata, who 
 Rama to enter fire in case he did not return immediately after the expiry of his term of exile.
 After embracing Bharata and Shatrughna, Rama bids farewell to all with due respect in accord with
 the rank of each and enters his hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ thrilling; *samgamam* = converse; *bhraatR^ibhyaam* = between those two brothers
 
 Witnessing that thrilling converse between those two brothers with incomparable
 dignity, the great sages gathered there were astonished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -130,8 +126,6 @@ Bharata; *mahaatmaanau* = the high-souled; *bhraatarau* = brothers (as follows)
 The assemblies of ascetics, great saints present there and the distinguished sages
 who stood invisible in space, applauded both Rama and Bharata, the magnanimous brothers, saying (as
 follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ and whose strength is justice; *dhanyaH* = was fortunate; *shrutvaa* = by hearin
 "That Dasaratha, who begot these two sons, who know righteousness and whose strength
 is justice, was fortunate. By hearing the debate between these two princes, we are indeed
 delighted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -235,8 +227,6 @@ king.
 
 Thereafter, that assembly of sages, who wished to see a quick destruction of Ravana,
 came together and spoke the following words to Bharata, the excellent king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -284,8 +274,6 @@ came together and spoke the following words to Bharata, the excellent king.
 
 "O Bharata born in a noble race, highly intelligent, having a superior conduct and a
 great repute! If you have regard for your father, Rama's words are to be accepted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -333,8 +321,6 @@ heaven.
 
 "We wish to see Rama absolved of all obligations forever to his father. Dasaratha,
 having honoured his pledge to Kaikeyi, indeed went to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -381,8 +367,6 @@ went; *svaam svaam* = their respective; *gatim* = abodes.
 
 Having uttered that much, all the celestial musicians and the great sages then went
 to their respective abodes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -429,8 +413,6 @@ auspicious; *shubhadarshanaH* = the good-looking; *raamaH* = Rama; *LaaditaH*
 
 Hearing those auspicious words, the good-looking Rama looked radiant and worshipped
 those sages with a joyful countenance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -477,8 +459,6 @@ again spoke; *idam vaakyam* = these words; *raaghavam* = to Rama;
 
 Bharata, on his part, with trembled limbs, joined his palms in salutation and again
 spoke the following words to Rama in a strangled voice:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -526,8 +506,6 @@ mother.
 
 "O, Rama! Keep in view the continuance of our royal statue and the statute of the
 race. You ought to yield to the entreaties of mine and those of your mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -577,8 +555,6 @@ the beloved; *paurajaanapadaan* = inhabitants of town and country.
 
 "I am not able to rule this vast empire alone to the satisfaction of the beloved
 inhabitants of town and country!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -628,8 +604,6 @@ iva* = as farmers (wait); *parjanyamiva* = for the rainy clouds.
 
 "Our kith and king, soldiers, companions and allies are waiting for you indeed, as
 farmers wait for the rainy clouds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -676,8 +650,6 @@ you are; *shaktimaan* = competent; *panipaalane* = of administration;
 
 "O, the sagacious Rama! Return to the kingdom and keep it in order. You have the
 competence to save the world!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ deal.
 
 That Bharata, who was kind-spoken, thus made a fervent appeal to Rama and fell at
 his feet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -776,8 +746,6 @@ Rama; *abraviit* = spoke; *vachanam* = (the following) words.
 
 Placing on his lap, that Bharata of dark hue, with eyes resembling lotus-petals and
 having a voice like that of a swan in rut, Rama spoke the following words to him:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -825,8 +793,6 @@ competent; *bhR^isham* = very much; *rakSitum api* = even to rule;
 
 "O, my dear brother! You are very much competent to rule the earth, by the intellect
 you obtained both inherently and by training."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -873,8 +839,6 @@ all activities; *sumhaantyapi* = even if they are gigantic.
 
 "Take counsel with your ministers, companions and intelligent counsellors and get
 all activities done, even if they are gigantic."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -925,8 +889,6 @@ transgress; velaam- the shore; *aham* = (But) I; *na* = will not transgress;
 
 "Light may go off from the moon; Himalayan mountain may shake off its snows; the sea
 may transgress its shores, but I will never be false to my father's vow!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -974,8 +936,6 @@ obey; *maatR^ivat* = towards your mother.
 
 "My dear brother! Your mother acted thus, for your sake, out of her affection or
 ambition. It should not be carried out in your mind. You ought to obey her as your mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1022,8 +982,6 @@ kausalyaasutam* = to Rama; *bruvaaNam* = who was speaking; *evam* = thus;
 
 Bharata replied (as follows) to Rama, who was speaking as aforesaid and who was
 equal to sun by his splendour or to the moon in its first quarter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1070,8 +1028,6 @@ bestow; *yogakSemam* = gain and security; *sarva lokasya* = to the entire people
 
 "O, noble brother! Pray mount with your feet on the wooden sandals adorned with
 gold! Surely, these will bestow, gain and security to all the people!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1118,8 +1074,6 @@ gold! Surely, these will bestow, gain and security to all the people!"
 
 Rama, the tiger among men, possessing exceptional glory, placing his feet on the
 sandals and leaving them, gave them to the magnanimous Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1186,8 +1140,6 @@ Bowing before the sandals, Bharata spoke the following words to Rama: "O, Rama t
 hero and the tormentator of enemies! For fourteen years, I shall wear matted locks and robes of
 bark, live on fruits and roots O Rama, and live outside the city, offering the ruling of the
 kingdom to your sandals."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1228,8 +1180,6 @@ see; *tvaam* = you; *ahani* = on the day; *sampuurNe* = after completion of;
 
 "O, Rama! If I do not see you the following day when the fourteenth year has fully
 ended, I shall enter the fire once for all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1272,8 +1222,6 @@ _________________
 
 "So be it" promised Rama, embraced that Bharata with affection, took Shatrughna also
 in his arms and spoke to Bharata as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1329,8 +1277,6 @@ tears; *visarjaha* = bade farewell; *bhraataram* = to his brother.
 "O Bharata! Protect your mother, Kaikeyi. Do not get angry with her. You are taken
 vow thus by me and by Seetha." speaking thus, Rama with his eyes filled iwth tears, bade farewell
 to his brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1391,8 +1337,6 @@ elephant.
 The valiant Bharata, who knew righteousness worshipped those sandals which were
 well-decorated made a circumambulation to Rama and kept the sandals on the head of an excellent
 elephant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1453,8 +1397,6 @@ and; *anujau* = and his brothers; *vyasarjayat* = and bade farewell.
 Rama, the augmentator of Raghu dynasty, being firm as a Himalayan rock in abiding in
 his own righteousness, greeted those men, in accord with their rank, the host of his preceptors,
 ministers, subjects and his brothers and bade farewell to all of them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 </details>
 
@@ -1515,8 +1457,6 @@ his; *kuTiim* = hermitage; *rudan* = weeping.
 His mothers, their voices choked with tears due to sorrow, were unable to bid
 farewell verbally to Rama. However, Rama himself offered his salutations to all his mothers and
 entered his hermitage, weeping.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga112/ayodhyasans112.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Rama arrives at Mithila along with Lakshmana led on by Vishvamitra. On hearing t
 arrived at their city Mithila, King Janaka proceeds to him welcomingly. On seeing Rama and Lakshmana
 near at Vishvamitra, Janaka inquisitively asks Vishvamitra about these two princes. Vishvamitra announces
 them as the sons of Dasharatha and informs about the adventurous deeds the boys have undertaken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ the hall of Vedic ritual of Janaka in Mithila kingdom. [1-50-1]
 
 The northeast is an auspicious direction, and even today it is held high for any ritual or in the architecture.
 This direction is presided over by *iishaana* The God.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ _________________
 
 Rama who is with Lakshmana spoke to the tigerly saint Vishvamitra, " the Vedic-ritual of noble-souled
 Janaka is excellent, indeed with bountifully garnered paraphernalia of the ritual. [1-50-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ practises and who seem to be the dwellers of numerous provinces, and also discer
 of sages rife with hundreds of carts full with their ceremonial chattels, as such oh, Brahman, a campsite
 may be decided for us too, as I discern every inch is inhabited." Thus Rama spoke to Vishvamitra. [1-50-3,
 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ deshe* = in an unfrequented, place; *nivesham akarot* = made [arranged] camp;
 
 On hearing the words of Rama that great-saint Vishvamitra arranged a camp at an unfrequented place that
 has refreshing water. [1-50-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ afore; *vinayena samanvitaH* = embodied with deference [in deference to Vishvami
 On hearing that Vishvamitra has arrived in Mithila, then the best king Janaka instantly forged ahead
 towards Vishvamitra, keeping his unreprovable priest Shataananda afore of the team, in deference to
 Vishvamitra. [1-50-6, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -322,8 +310,6 @@ vishvaamitraaya dadau* = ritually offered to Vishvamitra.
 Even the Ritvik-s, the administrators of that Vedic-ritual, of the great souled king Janaka arrived
 with post-haste taking holy waters, and they have ritualistically offered that sanctified water to Vishvamitra.
 [1-50-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ with post-haste taking holy waters, and they have ritualistically offered that s
 
 On receiving that veneration from the great souled Janaka, Vishvamitra asked after the well-being of
 the king Janaka, as well about the unhindered proceedings of that Vedic-ritual. [1-50-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -406,8 +390,6 @@ samaagacChat* = joined them with all sages.
 
 Then Vishvamitra asked after the well-being of saints, mentors, clerics, as befitting to their order,
 and joined the company of all of the sages as a happy-souled sage. [1-50-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -458,8 +440,6 @@ abhaaSata* = spoke to eminent-sage Vishvamitra; *bhagavaan* = oh reverend sage -
 The king Janaka adjoining his palms then spoke to that eminent-sage Vishvamitra, "oh, reverend sage,
 please be seated on this high seat, along with these eminent saints in their respective seats." Thus
 Janaka spoke to Vishvamitra [1-50-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -503,8 +483,6 @@ priest Shataananda, administers of Vedic-ritual, Ritvik-s, also thus; *mantribhi
 On hearing the words of Janaka that great-sage Vishvamitra took his seat, and king Janaka also took
 seat along with his royal priest Shataananda, and the administrators of that Vedic-ritual, namely Ritvik-s,
 and along with his ministers. [1-50-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -520,8 +498,6 @@ abraviit* = spoke to Vishvamitra.
 
 On beholding all of them seated all about in their respective seats as demanded by procedure king Janaka
 then spoke to Vishvamitra. [1-50-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -570,8 +546,6 @@ to have been] obtained by me.
 Today my Vedic ritual is enriched with your advent, whereby I deem that gods have fructified the ritual.
 Let the ritual be like that. I deem that I have obtained the fruit of the ritual just on seeing godlike
 you here today. [1-50-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -621,8 +595,6 @@ asmi anugR^ihiitaH asmi* = honoured, I am, hallowed, I am.
 
 Oh, Brahman, at which Vedic-ritual hall you have arrived along with so many sages that happens to be
 mine, whereby, oh, eminent saint, I feel that I am honoured and hallowed. [1-50-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -665,8 +637,6 @@ those twelve days,] gods - desirers of their due; *draSTum arhasi* = apt of you 
 days are remaining to complete the observation of ritual-pledge, and then oh, Kaushika, it will be apt
 of you to see the gods who arrive at the conclusion of this Vedic-ritual expecting their due in the
 ritual." So said king Janaka to Vishvamitra. [1-50-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -707,8 +677,6 @@ way; *tadaa prahR^iSTavadanaH* = then, with gladdened face; *praanjaliH prayataH
 
 On speaking to that tigerly sage Vishvamitra in this way, the king again asked the sage pointedly and
 inquisitively with adjoined palms and with a gladdened face. [1-50-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -793,8 +761,6 @@ they? [1-50-17b, 18, 19]
 **टिप्पनी**
 
 These foots are the same as king Sumati's dialogue at 1-48-2, 3, 4 including *anvaya* , parsing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -820,8 +786,6 @@ valour or so, I wish to listen about them in actuality. [1-50-20, 21]
 **टिप्पनी**
 
 Import of verses is the same as at 1-48-5, 6, with a little difference in *anvaya* , parsing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -862,8 +826,6 @@ Import of verses is the same as at 1-48-5, 6, with a little difference in *anvay
 
 On hearing the words of great-souled Janaka, Vishvamitra whose anima is immeasurable, has announced
 that those two as the sons of king Dasharatha. [1-50-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 </details>
 
@@ -951,8 +913,6 @@ of demons at that place, their indefatigable travel along with him, beholding Ci
 Ahalya, her reuniting with Sage Gautama, likewise their coming hitherward to gain a grasp of great bow
 of Shiva. On informing all these incidents to Janaka as well as to Shataananda, who incidentally is
 the son of Ahalya, sage Vishvamitra paused. [1-50-23, 24, 25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

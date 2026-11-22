@@ -16,8 +16,6 @@ title_english = "028 Seetha recollects the time limit"
 Seetha recollects the time limit of two months given by Ravana and her vulnerability of being killed
 by him. After lamenting for a while, she tries to strangle herself to death with the braid of her hair. At that
 moment, a propitious omen never seen before appears on her person.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ yathaa* = like a tiny female-elephant; *simhaabhipannaa* = over powered by a lio
 
 That Seetha, hearing those unpleasant words of Ravana, tormented by grief, was frightened like
 a tiny female-elephant overpowered by a lion in the middle of a forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ vaagbhiH* = with his words; *bhR^isham* = galore; *vilapaapa* = lamented; *baala
 
 That fearful Seetha, who was situated in the middle of female-demons and also threatened by Ravana
 with his words galore, lamented (as follows) like a young virgin who was left lonely in the midst of a forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ _________________
 
 "Truly the saints affirm that untimely death does not come in the world, as I being impure am surviving
 even for an instant, though being threatened in this way."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -236,8 +228,6 @@ is not broken; *sahasrathaa* = into thousand pieces; *achalasya shR^iN^gamiva* =
 
 "Though devoid of happiness and frequently full of sorrow, my heart must be hard indeed, in that
 it does not break into a thousand pieces today like a mountain-top struck by lightning."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -298,8 +288,6 @@ classes; *dvijaH* = by a member of the twice-born class.
 "There is no fault of mine in this matter. I have become killable at the hands of this demon of
 disagreeable perception. I am not able to give him my affection any more than a member of the twice-born classes
 would offer a mystical verse to one not belonging to the twice-born classes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -345,8 +333,6 @@ feotus situated in the womb.
 
 "If Rama the Ruler of the world does not come here, the evil Ravana, the king of Demons will cut
 off my limbs with his sharpened weapons, even as a surgeon would cut the limbs of a lifeless feotus."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -397,8 +383,6 @@ instant case); *bata* = Alas! Idam = this; *duHkham* = is painful.
 
 "To me lamenting, two months will go up to a long time, as at the end of a night a thief imprisoned
 and to be capitally punished under the detention orders of a king. Alas! This is painful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -449,8 +433,6 @@ wind; *mahaarNave* = in a mighty ocean.
 
 "O Rama, O Lakshmana, O Sumitra, O Kausalya! O mother! I, of a scanty fortune, am going to be destroyed,
 like a ship driven out of its course by a strong wind in a mighty ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -496,8 +478,6 @@ kaaraNaat* = for my sake; *dvau simharSabhau iva* = as two excellent lions; (kil
 
 "In the disguise of a deer, those two energetic sons of Dasaratha were surely killed for my sake,
 as two excellent lions killed by a flashing thunderbolt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -549,8 +529,6 @@ mR^igaruupadhaarii* = assuming the guise of a deer; *lulubhe* = allured; *maam* 
 "Certainly that Time-spirit, assuming the guise of a deer, allured me, a woman of poor fortune
 at that time and to whom I, a stupid woman, sent forth (far away) Lakshmana and the noble prince Rama the elder
 brother of Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -597,8 +575,6 @@ sentenced to dealth; *raakSasaam* = by the demons.
 "O Rama, the strictly truthful man and the long-armed, O the man whose face resembles the full-moon!
 You, who are well-disposed of the world of living beings, do not indeed know me to have been sentenced to death
 by the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -653,8 +629,6 @@ the husband; *idam* = all this; *viphalam* = has become a waste; *manuSyaaNaam k
 "My not having a deity (other than my husband), this patience, my reposing on the floor, my restriction
 in righteousness, my devotion to the husband - all this has become a waste, like a good act done by men to ungrateful
 men becoming waste".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -706,8 +680,6 @@ a waste; *tathaa* = likewise; *idam* = this wife to you; *nirartham* = has becom
 "For me who is not seeing you, who is bereft of you, who is not hopeful of coming into contact
 with you, who is emaciated and pale in complexion this righteous act performed by me has indeed become a waste.
 Likewise, this state of my being only one wife to you has become useless.."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -759,8 +731,6 @@ having accomplished your purpose; *manye* = I think; *ramsyase* = you will enjoy
 "Having fulfilled your father's command as per the order of his words and observed your vow, you
 return from the forest fearlessly and having accomplished your purpose, I think you will enjoy carnally with large-eyed
 women."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -807,8 +777,6 @@ women."
 "O Rama! Having performed austerity and vow in vain, I for myself who has fallen in love with you
 and in whose was confined an affection for you for a long time, for my own destruction, I can lose my life. Woe
 to me of my little fortune!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -868,8 +836,6 @@ _________________
 
 "I as such will abandon quickly my life by poison or by a sharp weapon. To me, none is there, who
 is a giver either of a poison or of a sharp weapon in the house of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -919,8 +885,6 @@ ways; *devii* = Seetha; *anusmarantii* = was recollecting; *raamam* = Rama; *sar
 
 Thus lamenting in several ways, Seetha was recollecting Rama in all spirits and trembling with
 and emaciated face, approached that excellent tree in bloom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 </details>
 
@@ -985,8 +949,6 @@ of Yama the God of Death; *udbadhya* = by tying my neck; *shiigram* = quickly; *
 Seetha, who was tormented with grief, thus thinking in various ways and thereafter holding her
 braid of hair looking like a hanging rope (now thought within herself) "I shall go to the presence of Yama the
 God of Death by tying my neck quickly with my braid of hair looking like a hanging rope"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1014,8 +976,6 @@ Thereafter Seetha with all her soft limbs stood seizing a branch of that tree. T
 limbs, who was thinking of Rama, Lakshmana and her own race, then appeared many omens, which were not having adequate
 occasion for grief, which procured courage in the world, which were excellent and which were seen earlier also
 as thoroughly efficacious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

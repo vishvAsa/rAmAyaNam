@@ -21,8 +21,6 @@ Vibhishana need not be doubted because he thinks that Vibhishana understands the
 demerits in Ravana. Hanuman further adds that Vibhishana is approaching Rama for refuge because
 Vibhishana is desirous of obtaining the kingdom of demons. Hanuman requests Rama to take his final
 decision on the matter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ with Lakshmana.
 
 Having spoken the aforesaid harsh words to Ravana, Vibhishana arrived almost
 immediately to the place where Rama was together with Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ immediately to the place where Rama was together with Lakshmana.
 
 Those leaders of monkeys standing on the ground saw Vibhishana, resembling the peak
 of Mount Meru and shining like a thunderbolt in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ there); *teapi* = they also; *varmaayudhopetaaH* = were wearing armor and weapon
 
 His four companions of terrific prowess were also there with him. They were wearing
 weapons and armour and were adorned with excellent ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -210,8 +202,6 @@ weapons; *divyaabharaNa bhuushhitaH* = and adorned with wonderful jewels.
 
 Vibhishana also resembled a mass of cloud, the equal of the God who wields the
 thunderbolt. He was holding excellent weapons and was adorned with wonderful jewels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ himself the fifth one along with four others; *chintayaamaasa* = became thoughtf
 
 Sugriva the valiant of monkeys, who was difficult to be overpowered, having seen
 Vibhishana, the fifth one along with four others, became thoughtful along with monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -310,8 +298,6 @@ Vibhishana, the fifth one along with four others, became thoughtful along with m
 
 Having thought for a moment, Sugriva spoke these sterling words to all those monkeys
 and to Hanuman in particular.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -359,8 +345,6 @@ us."
 
 "See this demon possessing all types of weapons, coming along with four demons.
 There is no doubt that he is coming to kill us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -410,8 +394,6 @@ and mountains; *abruvan* = and spoke; *idam* = these; *vachanam* = words:
 
 Hearing Sugriva's words, all those excellent monkeys lifted trees and mountains and
 spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -458,8 +440,6 @@ will drop; *dharaNyaam* = to the ground."
 
 "Do you swiftly order us to slay these wicked doers, O, king? Let us strike these
 fools down so that they drop to the ground!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -509,8 +489,6 @@ stationed; *svasthaheva* = indeed composedly; *teshhaam* = while those monkeys;
 
 While the monkeys were speaking thus among one another, Vibhishana had reached the
 northern shore and indeed coolly halted there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -558,8 +536,6 @@ halting in the sky itself; *uvaacha* = spoke; *mahataa* = with a loud;
 
 That great and highly intelligent Vibhishana, halting in the sky itself, saw Sugriva
 and those monkeys and spoke to them in a loud voice (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -609,8 +585,6 @@ conduct; *aham* = I; *tasya anujaH bhraataaH* = am his younger brother;
 
 "There is a demon called Ravana, the king of demons, having a bad conduct. I am his
 younger brother, known as Vibhishana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -662,8 +636,6 @@ against her will; *diinaa* = and unfortunate Sita; *surakshhitaa* = is well guar
 "It is Ravana who, having killed a bird Jatayu, took away Sita from Janasthana.That
 unfortunate lady is held captive against her will and she is now amidst the female titans who guard
 her jealously"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -710,8 +682,6 @@ punaH* = again and again; *vivdhaiH* = by diverse; *vaakyaih* = words;
 
 "I persuaded Ravana again and again by my diverse words and arguments to restore
 Sita smoothly to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -758,8 +728,6 @@ fate; *na pratijagraaha* = did not accept ; *hitam* = the sage;vaakyam = advice;
 
 "That Ravana, impelled by fate, did not receive my sage advice, as a perverted
 person does not accept his prescribed medicine"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -806,8 +774,6 @@ person does not accept his prescribed medicine"
 
 "Reviled by him and humiliated as a slave, I, leaving my sons and my wife, have come
 to take refuge with Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ lokasharaNyaaya* = and the refuge of all the worlds; *maam* = of me;
 
 "Inform immediately to high soled Rama, the protector of all the worlds, that I,
 Vibhishana, have come here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -913,8 +877,6 @@ Rama; *agrataH* = in front; *lakshmaNasya* = of Lakshmana.
 
 The swift-paced Sugriva, having heard the words of Vibhishana, spoke more hurriedly
 to Rama, in front of Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -962,8 +924,6 @@ hi* = has indeed come; *nihanyaat* = to kill us; *labdhvaa* = getting;
 
 "Belonging to the enemy force, here is an adversary taking us unawares, who
 unexpectedly has come here to slay us at the first opportunity like an owl destroying crows!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1009,8 +969,6 @@ foes; *bhadram* = May good come; *te* = to you."
 "O, annihilator of enemies! You ought to be aware of the design, distribution,
 leading of the army and the secret service of the monkeys and also of your foes. May good come to
 you!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1057,8 +1015,6 @@ can not trust; *teshhaam* = them; *jaatu* = at any time."
 
 "These demons can assume any form at will and can disappear. They are valiant and
 deceitful. We can not trust them at any time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1109,8 +1065,6 @@ doubt."
 
 "He may be a spy of Ravana the king of demons. He will succeed to become a member
 among us and create differences. There is no doubt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1161,8 +1115,6 @@ trust."
 
 "Otherwise he , intelligent by himself, can get into possession of a weak point in
 us. Having first gained our confidence by craft, he may even at any time attack us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1214,8 +1166,6 @@ leaving off; *dvishhadbalam* = that furnished by an enemy."
 "A contingent supplied by friends or an inhabitant of the woods (like our selves),
 or furnished by hereditary warriors or paid servants - all these contingents can be accepted but
 not that furnished by an enemy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1263,8 +1213,6 @@ is indeed a demon; *prakR^ityaa* = by nature; *bhraataa* = a brother;
 
 "O, Lord! He is indeed a demon by nature and a brother of an enemy who came directly
 from an adversary. How can we keep trust in him?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1311,8 +1259,6 @@ refuge."
 
 The younger brother of the famous Ravana, called Vibhishana along with four other
 demons approached you for refuge."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1359,8 +1305,6 @@ is being sent; *raavaNena* = by Ravana; *manye* = I think; *tasya* = of him;
 
 "O, the excellent one among men knowing what is right! Know that Ravana is sending
 Vibhishana. I opine that Vibhishana is fit for arrest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1408,8 +1352,6 @@ remaining hidden; *maayayaa* = by his witchcraft."
 
 "O, the faultless one! Being sent with a crooked intent, this demon came here to
 attack when you are going to repose faith in him, (remaining hidden by his witchcraft).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1456,8 +1398,6 @@ killed; *tiivrena* = by severe; *daNdena* = punishment."
 
 "This Vibhishana is indeed the brother of cruel Ravana. Hence, let him along with
 his ministers be killed, by imposing severe punishment on them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1505,8 +1445,6 @@ thus; *samrabdhaH* = hurriedly; *tam raamam* = to that Rama; *vaakyakushalam*
 
 The chief of army Sugriva, who knew how to speak expressed thus hurriedly to Rama,
 who was skilled in oratory and thereafter entered into silence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1557,8 +1495,6 @@ words; *sugrivasya* = of Sugriva; *mahaabalaH* = the exceedingly strong;
 
 Hearing those words of Sugriva, the exceedingly strong Rama addressed as follows to
 the monkeys in front of Hanuman staying near by:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1605,8 +1541,6 @@ Sugriva; *raavaNaavarajam prati* = about Vibhishana; *shrutam* = were heard;
 
 "The very reasonable words uttered by Sugriva about Vibhishana were heard by you
 too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1655,8 +1589,6 @@ difficult matters."
 "An efficient and intelligent person ever desirous of everlasting well being of his
 friends should properly advise them well in difficult matters. Hence, tell your opinion one by
 one"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1704,8 +1636,6 @@ politeness; *uuchuH* = spoke; *svam matam* = their respective opinion;
 
 Thus asked by Rama, those monkeys free from lassitude, wishing to do good and out of
 their politeness, spoke their respective opinions to Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1755,8 +1685,6 @@ _________________
 
 "O, Rama! Nothing is unknown to you in the three worlds. You are consulting us with
 a friendly heart, as an honor to us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1805,8 +1733,6 @@ friends."
 "You are avowed to truth, a valiant man and a righteous man of firm fortitude. You
 take action only after proper investigation. You have good memory. You are committed in your heart
 to your friends."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1856,8 +1782,6 @@ reason; *ekaikashaH* = one by one."
 
 "Hence, your counselors, who are rich in their minds and are moreover efficient, one
 by one, will tell their opinion with reason."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1908,8 +1832,6 @@ instance."
 
 Having spoken thus by the monkeys, Angada the intelligent monkey told Rama to
 arrange for examination of Vibhishana before hand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -1956,8 +1878,6 @@ made; *vishvaasaniiyaH* = a trustworthy person; *sahasaa* = immediately."
 
 "Vibhishana who came from an enemy is indeed to be doubted by all means. He is not
 to be made as a trust worthy person so soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2004,8 +1924,6 @@ move around; *chhaadayitvaa* = concealing; *aatma bhaavam* = their peculiar natu
 
 "Deceitful persons move around, concealing their peculiar nature and attack at weak
 places. They will create a very great misfortune."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2052,8 +1970,6 @@ quality; *doshhatastu* = but faults; *visarjayet* = should be given up.
 
 "One must take a decision, after ascertaining the pros and cons of it. One should
 take up the action, if there is an advantage and reject it, if it is faulty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2100,8 +2016,6 @@ many; *guNaam* = good qualities; *kriyataam samgrahaH* = let him be accepted.
 
 "O, king! If there are great faults in him, let him be rejected undoubtedly. If we
 recognize many good qualities in him, let him be accepted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2149,8 +2063,6 @@ him."
 
 Thereafter Sharabha on his part spoke the following meaningful and decisive words:
 "O, tiger among men! Let a spy be sent to shadow him"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2191,8 +2103,6 @@ acceptance; *kaaryaH* = to be done; *yathaanyaayam* = as per justice."
 
 "By sending out a spy and causing a suitable investigation by a keenly intellectual
 spy, he can then be accepted as per justice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2239,8 +2149,6 @@ buddhyaa* = through his leaning derived from scriptures; *vij^N^aapayaamaasa* = 
 
 Then, the discerning Jambavan on his part, perceiving the matter through his
 learning derived from scriptures, advised the following fault-less and qualitative words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2288,8 +2196,6 @@ very wrong place and time; *ayam* = He; *shNkyataam* = is to be suspected;
 
 "This Vibhishana came from sinful Ravana who has contracted hostility with you and
 that too at a wrong place and time. He is to be suspected by all means."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2339,8 +2245,6 @@ oratory; *hetumattaram* = highly reasonable; *vaakyam* = words.
 
 Then Mainda, skilled in discriminating good and bad conduct in others observed the
 matter carefully and spoke in his perfect oratory in the following highly reasonable words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2387,8 +2291,6 @@ questioned; *shanaiH* = slowly; *madhureNa* = by sweet words."
 
 "O, king of kings! This Vibhishana is indeed the younger brother of that Ravana. Let
 him be questioned slowly by sweet words"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2436,8 +2338,6 @@ feelings."
 
 "O, the best among men! Having read actually his mind whether he is dangerous or
 not, you should act according to your feelings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2484,8 +2384,6 @@ sampannah* = who was well educated; *sachivottamaH* = the best among consellors;
 
 Then the well educated Hanuman, the excellent among counselors; spoke the following
 smooth meaningful, sweet and brief words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2535,8 +2433,6 @@ talking; *na shaktaH* = cannot; *atishayaayitum* = excel; *bhavantam* = you;
 
 "Even Brihaspati, while talking cannot excel you, who are possessing an exalted
 intellect. You are powerful and the foremost man among those who are eloquent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2585,8 +2481,6 @@ importance; *vakshhyaami* = I am talking; *yataartham* = the matter in hand.
 "O, king! O, Rama! I am talking neither for argument, nor for competition (with
 other counselors, nor for superiority, nor out of passion for debate but on account of importance
 of this matter in hand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2635,8 +2529,6 @@ judicious investigation.
 "I am perceiving an error in what was advised by your counselors assigned to look
 into advantages and disadvantages, accruing from accepting Vibhishana. It is not possible for such
 a judicious investigation into his character."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2683,8 +2575,6 @@ ability; *pratibhaati* = It occurs; *me* = to me; *doshhavaan* = as a mistake;
 
 "Without entrusting any work, it is not possible to understand his ability. But at
 the same time, it occurs to me as a mistake to entrust any work so soon to a stranger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2732,8 +2622,6 @@ praNihitam* = to send spies; *tatra* = that; *kaaraNam* = action;
 
 "What ever was told by your counselors that it was befitting to send spies to
 Vibhishana, that action is not possible due to impracticality of the proposition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2781,8 +2669,6 @@ Listen; *taam* = to it.
 
 "It has been said that Vibhishana came into a wrong place and time. In that matter,
 I have to express my thought. Listen to it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2842,8 +2728,6 @@ merits in you and demerits in the latter.
 
 "This place and time become rightly obtained in his mind , as he has thought that
 you are superior to Ravana and also found merits in you and demerits in Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2860,8 +2744,6 @@ worthy; *tasya* = of his ; *buddhitaH* = judgement.
 
 "It is indeed appropriate for him to arrive at this place and time, by seeing the
 prowess in you and the wickedness in Ravana. It is worthy of his judgment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2912,8 +2794,6 @@ consideration; *asti* = is this.
 
 "O, king! Whatever was told by your counselors that let Vibhishana be questioned by
 spies of unknown identity, my considered view is as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -2962,8 +2842,6 @@ easily obtained; *mitram* = friend; *pradushhyeta* = becomes faithless;
 "A wise man being questioned suddenly would be apprehensive of that questioning. In
 those circumstances, an easily obtained friend becomes faithless upon facing a deceitful
 questioning."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -3013,8 +2891,6 @@ different voices; *ashakyam* = it is not possible; *sahasaa* = rapidly;
 
 "O, king! Without possessing a high skill of reading his diversified tones, it is
 not possible rapidly to comprehend his intention."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -3061,8 +2937,6 @@ is seen; *jaatu* = at all; *asya* = in his; *bruvataH* = talk;
 
 "I am not seeing any bad intention at all in his talk. His face is also bright.
 Hence, I do not doubt him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -3133,8 +3007,6 @@ doubt.
 
 "A deceitful person does not approach so fearlessly and confidently. His expression
 too is not bad. Hence, there is no doubt to me on him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3155,8 +3027,6 @@ too is not bad. Hence, there is no doubt to me on him."
 
 "It is not possible to hide expression of the face, even if it is concealed. By
 force, the internal intent of the persons certainly gets revealed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -3206,8 +3076,6 @@ associated; *prayogeNa* = with practice; *kshhipram* = quickly.
 
 "O, the eminently skillful man in work! An action endowed with proper place and time
 transacts successfully, if it is performed quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -3270,8 +3138,6 @@ king;; *aagatam* = came; *iha* = here; *buddhipuurvam* = deliberately;
 about Vali having been killed and Sugriva anointed as king, he deliberately came here, with a
 desire to obtain the kingdom of demons. On consideration of this aspect alone, he is worthy of
 acceptance by us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 </details>
 
@@ -3320,8 +3186,6 @@ judge; *sheshasya* = of the issue.
 "O, Rama the best among the wise! It has been told by me this according to my
 ability about the sincerity of this demon. After hearing my words, you are indeed the final judge
 of the issue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

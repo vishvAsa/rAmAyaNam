@@ -17,8 +17,6 @@ Lady Tara rushes out to reach her slain husband while the monkey generals seek o
 as king immediately or leave Kishkindha, for Sugreeva and his men may come occupying the city. She chides
 their advises away and proceeds to meet Vali. She arrives at that place, sees Rama and his brother Lakshmana,
 her husband Vali and his brother Sugreeva. She faints and wails for the departing soul of Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ apadyata* = not, in turn, he derived, - find another reply.
 
 That great vanara king Vali who is sprawling agonised by arrow, and to whom Rama gave a reply with well-reasoned
 words did not find any other reply to be given to Rama. [4-19-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ the time of breathing last, fainted.
 
 He who is heavily thrashed with trees, whose limbs are variously cracked with boulders, and whom Rama's
 arrow finally vanquished, that Vali fainted at the time of his breathing his last. [4-19-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ Tara, wife of Vali, heard that the tigerly monkey Vali perished in fight by the 
 
 This is also said as 'by the salvation accorded by Rama through his arrow...' *raama datten shara
 moksheNa*, but it is said to be a squeezed meaning according to the style of old Sanskrit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ cave - say Kishkindha; *niSpapaata* = fell out - rushed out.
 
 On hearing the very gruesome killing of her husband that is unpleasant, she is highly anguished and
 rushed out of Kishkindha along with Angada. [4-19-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -263,8 +253,6 @@ quickly, fled.
 
 On seeing Rama with bow those very mighty vanara-s that form the escort of Angada are scared to death,
 and they very quickly fled from there towards Kishkindha. [4-19-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -314,8 +302,6 @@ wandered off; *mR^igaan iva* = animal, like; *hariin dadarsha* = monkeys, she sa
 
 Then on her way towards field of combat she saw the monkeys that are frightened and fleeing in disorder,
 like those animals that have wandered off from their herd when their master is killed. [4-19-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ is; *sarvaan uvaaca* = to all, spoke.
 Nearing those monkeys that are already distressed at the fall of Vali, and that are highly frightened
 by Rama, and that are fleeing as though Rama's arrow is still tracking them down, Tara spoke to all
 of them, distressed as she is. [4-19-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ ones [woebegone, in desperation]; *kasmaat dravata* = what for, you run away.
 
 "Oh! Vanara-s, what for you are running away in utter fright and desperation, leaving off your best
 king to whom all of you are ushers?" Thus Tara enquired with the monkeys. [4-19-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -465,8 +447,6 @@ is dead or still alive, to have a last glimpse. And enquiring in anguish would b
 It may be correct to use 'whether' because it ensues 'not' and also as an alternative interrogative.
 And 'if' is used it is 'if of ignorance' but not 'of certainty' or 'of chance'. Anyway she is interested
 in information and orderliness of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -516,8 +496,6 @@ _________________
 
 On hearing the words of monkey's wife those guise-changing monkeys spoke this sentence coherently to
 lady Tara, befitting to present time of chaos. [4-19-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -564,8 +542,6 @@ taking away.
 
 "Return, oh, lady with a living son, and safeguard Angada, for the Terminator in the form of Rama is
 taking away Vali on killing. [4-19-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -620,8 +596,6 @@ Vali as if by thunderbolt. [4-19-12]
 
 The plural number given to the 'arrows' may be observed. Rama shot Vali with only one arrow but each
 monkey is multiplying one arrow to become many. Rumours multiply thus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -670,8 +644,6 @@ this one [Vali's,] flier, tiger among; *hate* = when killed; *idam sarvam vaanar
 
 "When that tigerly fly-jumper Vali whose brilliance is similar to Indra is killed all this vanara force
 felt defenceless and fled. [4-19-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -717,8 +689,6 @@ felt defenceless and fled. [4-19-13]
 
 "Let the city of Kishkindha be safeguarded and let Angada be anointed, and when Vali's son Angada is
 enthroned all the fly-jumpers will stand by him. [4-19-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -776,8 +746,6 @@ hi* = they enter, indeed.
 
 "Or, your staying here is not good, oh, one with a pleasant visage, for those monkeys of Sugreeva will
 promptly enter our strongholds on this day itself. [4-19-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -800,8 +768,6 @@ whom we have victimised, and from them we have very great danger." So said monke
 Even in capital many followed the suite of Vali in incarcerating other's wives. Now they all may turn
 up since Sugreeva won the battle, assaulting such followers of Vali's style of living. This is the fear
 of individuals reported to Tara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -854,8 +820,6 @@ The word *apla antara* is usually 'a little after...' But Prof. Satya Vrat inclu
 under rare words/expressions of Ramayana and gives meaning as 'small distance...' In any way a pause
 occurs now for her to reply. She is going towards the place where Vali is and monkeys are following
 her. She paced still ahead, gained a pause and then started to speak to them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -902,8 +866,6 @@ kaaryam* = by son, what, avail of; *raajyena kim* = by kingdom, what; *aatmanaa 
 
 "Of what avail is a son, or a kingdom, or I to myself when my husband that lion like monkey with great
 honour perished. [4-19-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -950,8 +912,6 @@ muulam eva* = his, foot, at base, only; *aham gamiSyaami* = I, wish to go - I co
 
 "I wish to consign myself at the base of foot of that great-soul, who is felled down by the arrow projected
 by Rama." So said Tara to fleeing monkeys. [4-19-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -1001,8 +961,6 @@ also; *baahubhyaam* = with two hands; *samabhighnatii [sam abhi ghnatii]* = whil
 
 Saying thus she started to wail and convulse in agony, and slapped her head and chest with both of her
 hands while she speedily rushed towards Vali. [4-19-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -1052,8 +1010,6 @@ coming - not, retreating; *bhuvi nipatitam* = on ground, fallen down; *patim dad
 
 While she is still trudging then she saw her husband who is the destroyer of arch-demons like Maayaavi
 and Dundubhi, and who never retreated in combats, but now fallen down on ground. [4-19-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -1114,8 +1070,6 @@ dadarsha* = she, saw.]
 
 She saw Vali who is a flinger of loftiest mountains as with Indra flinging his thunderbolt, who is a
 blaster as with great gusty winds, and who is a roarer as with a cluster of great black-clouds. [4-19-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1143,8 +1097,6 @@ is objected, though Rama did not eliminate Vali for flesh or meat. The word *sha
 means a tiger in the present day context. For this commentators bring in the rulebook *vyjayanti*
 which says *shaarduula* also means a lion *-si~Nho mR^iga indraH pa~ncaasyo haryakShaH shveta
 pi~NgalaH vyaadiirnaasyo mahaanaadaH shaarduulo amita vikrama*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -1208,8 +1160,6 @@ prepare a makeshift sanctum adorning it with a podium and flags for worships, an
 place snakes sneak in, for which eagles will come and sit on the flagstaff, and when catching its prey
 that eagle kicks off the flag post, and by the fall of that flagstaff that makeshift sanctum gets plumped
 onto ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -1261,8 +1211,6 @@ at the younger brother of her husband, namely Sugreeva. [4-19-25]
 
 This verse reminds us of the results from brotherly love-hate, younger-elder brother relation. Lakshmana
 is appearing behind Rama while Sugreeva, over dying Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -1309,8 +1257,6 @@ earth, fell down, indeed.
 
 Going past them she reached her husband who is routed in combat, and on observing him closely she indeed
 fell down on earth as she is distraught and dumbfounded. [4-19-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -1361,8 +1307,6 @@ seeing; *ruroda* = she wept.
 
 On getting up as though reawakened from sleep she saw her husband bound fast by the strings of death,
 and then she wailingly addressed him as, "oh, nobleman's son..." [4-19-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 </details>
 
@@ -1409,8 +1353,6 @@ Angada, also, on seeing; *kaSTam viSaadam agamat* = miserable, remorse, came upo
 
 On observing her who is wailing like a female osprey, and even on looking at Angada who arrived there,
 a miserable remorse came upon Sugreeva. [4-19-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ kills Ravana's horses. Lakshmana rescues Vibhishana, when a spear is hurled on h
 Ravana throws a spear on Lakshmana. As it penetrates Lakshmana's bossom, Lakshmana falls down
 unconscious. Rama hurls hails of arrows on Ravana from his flaming bow. Ravana takes to his heels
 out of fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ krodham divguNam* = (for his part) doubled his fury; *krodhaat cha* = and in his
 
 When that missile was made defunct, Ravana the king of demons, for his part, doubled
 his fury and in his anger, began to employ another missile immediately.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -95,8 +91,6 @@ extra ordinary splendour; *prachakrame* = started; *utsR^iShTum* = to release;
 
 Ravana, who was endowed with extraordinary splendour, started to release another
 cruel and terrific missile built by Maya the demon, on Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -141,8 +135,6 @@ hard as adamant; *sarvashaH* = on all sides.
 
 Then, from that bow, came forth, blazing pikes, maces and clubs, which were hard as
 adamant, on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -159,8 +151,6 @@ destruction of the world.
 
 Various kinds of furious mallets, deceptive nooses and blazing thunderbolts came
 forth, like piercing gales at the time of the destruction of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -209,8 +199,6 @@ that; *astram* = missile; *paramaastreNa* = with an excellent missiles;
 The glorious Rama, the foremost among the knower in the use of excellent missiles
 and who was endowed with extra ordinary splendour, struck down that missile with an excellent
 missile presided over by Gandharvas the celestial musicians.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -257,8 +245,6 @@ down; *mahaatmanaa raaghaveNa* = by the great souled Rama; *raavanaH* = Ravana;
 
 When that missile was made defunct by the great souled Rama, Ravana with his coppery
 eyes in anger, employed a missile presided over by the sun-god.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -299,8 +285,6 @@ Ravana; *bhiimavegasya* = of terrific impetuosity.
 
 Then came forth resplendent and large discuses, from the bow of that intelligent
 Ravana, of terrific impetuosity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -347,8 +331,6 @@ sky; *aasiit* = diiptam = was blazing; *dishashcha* = and the quarters (illumina
 
 Even as they came forth and falling on all sides, the sky was blazing and the
 quarters illuminated, as by the moon, the sun and other planets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -395,8 +377,6 @@ army; *saH raaghavaH* = that Rama; *chichchheda* = split; *taani* = those;
 
 In the forefront of Ravana's army, that Rama split those discuses and other strange
 weapons, with a multitude of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -440,8 +420,6 @@ all his vital organs; *dashabhiH baaNaiH* = with ten arrows.
 
 Seeing that missile struck down, Ravana the king of demons, for his part, pierced
 Rama with ten arrows in all his vital parts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -482,8 +460,6 @@ by Ravana; *saH raaghavaH* = that Rama; *mahaatejaaH* = of extraordinary energy;
 
 Eventhough that Ravana struck Rama with those ten arrows released from his great
 bow, Rama of extraordinary energy was not shaken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -524,8 +500,6 @@ saraiH* = with a multitude of arrows.
 
 Then, Rama the victorious in battle, was quite enraged and struck Ravana in all his
 organs with a multitude of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -566,8 +540,6 @@ hold; *sapta saayakaan* = of seven arrows.
 
 In the meantime, the mighty and enraged Lakshmana, Rama's younger brother, the
 destroyer of valiant enemies, seized hold of seven arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -608,8 +580,6 @@ tore off; *naikadhaa* = into many pieces; *dhvajam* = the flag-staff tasya raava
 
 Lakshmana of great brilliance, with those arrows of high velocity, tore off into
 many pieces, the flag-staff of Ravana, which bore the emblem of a man's head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -656,8 +626,6 @@ many pieces, the flag-staff of Ravana, which bore the emblem of a man's head.
 
 The glorious and mighty Lakshmana, with a single arrow, tore the head of Ravana's
 charioteer, which was adorned with blazing ear-rings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -704,8 +672,6 @@ charioteer, which was adorned with blazing ear-rings.
 
 With five sharp arrows, Lakshmana then chopped off Ravana's bow, which looked like
 an elephant's trunk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -746,8 +712,6 @@ the excellent horses of this Ravana; *niilamegha nibhaan* = which looked like bl
 
 Bouncing forward, Vibhishana killed, with his mace, the excellent horses of Ravana,
 which looked like black clouds and were tall as mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -798,8 +762,6 @@ younger brother (of Rama).
 
 Leaping down with speed from his large chariot, whose horses had been killed, Ravana
 then exhibited a violent anger towards the younger brother of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -849,8 +811,6 @@ thunderbolt; *vibhiiShaNasya* = on Vibhishana.
 
 Then, Ravana, of great energy and prowess, hurled a spear looking like a blazing
 thunderbolt, on Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -897,8 +857,6 @@ arrows; *atha* = thereupon; *vaanaraaNaam samnaadaH* = a loud cheer of the monke
 
 Even before the spear reached Vibhishana, Lakshmana tore it with three of his arrows
 and a loud cheer then arose from the monkeys in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -942,8 +900,6 @@ gold; *chhinnaa* = torn; *tridhaa* = into three pieces; *sampapaata* = fell;
 
 That gold-crowned spear, torn into three pieces, fell like a large meteor with
 sparks of fire falling from the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -986,8 +942,6 @@ splendour.
 Thereupon, Ravana took hold of another large most competent spear, which was
 difficult to be approached even by Yama the lord of Death and blazing as it was, with its own
 splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1034,8 +988,6 @@ mighty; *duraatmanaa* = and the evil-minded; *raavaNena* = Ravana.
 
 The mighty and the evil-minded Ravana swiftly hurled that very great spear, burning
 with a radiance similar to that of a blazing thunder-bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1082,8 +1034,6 @@ samshayam* = a danger to his life.
 
 In the meanwhile, the valiant Lakshmana quickly rushed towards that Vibhishana, who
 got a danger to his life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1130,8 +1080,6 @@ arrows; *raavaNam* = on Ravana; *shaktihastam* = having the spear in his hand.
 
 To rescue that Vibhishana, the heroic Lakshmana, having stretched his bow, threw out
 streams of arrows on Ravana who was holding a spear in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1178,8 +1126,6 @@ manaH* = did not make up his mind; *prahartum* = to attack Vibhishana (further).
 
 Poured in with a multitude of arrows discharged by the great-souled Lakshmana,
 Ravana with his attach frustrated, did not make up his mind to attack Vibhishana further.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1220,8 +1166,6 @@ Ravana; *abraviit* = spoke; *idam vachanam* = the following words; *tiShThan*
 
 Seeing Vibhishana his brother rescued by Lakshmana, that Ravana, turning his face
 towards Lakshmana spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1266,8 +1210,6 @@ hurled; *tvayi* = on you.
 
 "O Lakshmana, exalter of your own strength! As Vibhishana was rescued by you in this
 way, this spear, on letting off Vibhishana the demon, is being hurled on you now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1308,8 +1250,6 @@ blood-marks; *madbaahu parighotsR^iShTaa* = and hurled by my steel rod-like arm;
 
 "This spear, having blood-marks and hurled by bludgeon-like arm, having pierced your
 heart, will depart only after taking your life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1360,8 +1300,6 @@ Thus saying, the greatly enraged Ravana roared and hurled towards Lakshmana, tha
 unfailing spear, which was adorned with eight loudly clamouring bells, which had been designed by
 Maya the demon by dint of his conjuring trick, capable of destroying adversaries and blazing as it
 was with splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1408,8 +1346,6 @@ lakShmaNam- on Lakshmana; *raNamuurdhani* = into the battle-front.
 
 That spear, with a sound equal to Indra's thunder-bolt, hurled by the terribly swift
 Ravana, soon fell with speed on Lakshmana in the battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1450,8 +1386,6 @@ bhava = become; *moghaa* = vain; *hatodyamaa* = may your effort be frustrated!
 
 Rama repeatedly uttered to that spear even as it was rushing forth (on Lakshmana) as
 follows: "May it be well with Lakshmana! May you prove useless! May your effort be frustrated!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1499,8 +1433,6 @@ the fearless Lakshmana.
 
 That spear, which was looking like a venomous serpent, released by the enraged
 Ravana in the battle, quickly penetrated the bosom of Lakshmana, who stood fearless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1545,8 +1477,6 @@ with a great dazzle; *nyapatat* = fell; *mahorasi* = on the broad chest;
 
 That spear, like the tongue of Vasuki (the lord of serpents), blazing with a great
 dazzle, fell on the broad chest of Lakshmana, with enormous speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1563,8 +1493,6 @@ heart broken.
 
 Penetrated very deeply and pierced through his heart by the spear due to the force
 exerted by Ravana, Lakshmana fell to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1612,8 +1540,6 @@ fraternal love.
 
 Seeing Lakshmana in that state, Rama, of extraordinary splendour, who was stationed
 in the vicinity, became sorrowful at heart because of the love towards his brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1663,8 +1589,6 @@ iva* = like fire at the time of dissolution of the world.
 
 Rama, whose eyes were filled with tears, reflected just for a while and then was
 very much enraged, like fire at the time of dissolution of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1721,8 +1645,6 @@ battle; *mahataa sarvayatnena* = with a great and whole-hearted endeavour.
 Becoming aware that it was not the time for feeling despondent, and looking at
 Lakshmana, Rama resumed that highly tumultuous battle with a great and whole-hearted endeavour,
 determined as he was to destroy Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1764,8 +1686,6 @@ blood; *achalam iva* = and looking like a mountain; *sapannagam* = with a snake
 
 Then, Rama saw Lakshmana, who was struck by the spear in that Great War, bathed as
 he was in blood and looking like a mountain with a snake (entering its centre).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1839,8 +1759,6 @@ tormented; *pravakeNa rakShasaam* = by Ravana the foremost among the demons;
 Even with an exertion to pull out that spear hurled by the mighty Ravana, those
 foremost of the monkeys could not those foremost of the monkeys could not do it because they were
 being tormented by Ravana the foremost of demons with a stream of his arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1890,8 +1808,6 @@ Rama; *vichakarSha* = drew it out; *kruddhaH* = and getting enraged;
 Penetrating through Lakshmana's bosom, that spear touched the earth. Seizing hold of
 awful spear with his hands, the mighty Rama drew it out and getting enraged, broke it during the
 course of the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1932,8 +1848,6 @@ who was drawing; *shaktim* = that spear.
 
 While Rama was drawing the spear out; arrow, which pierced his vital organs, were
 sunk by the mighty Ravana on all his limbs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -1980,8 +1894,6 @@ Sugreeva; *mahaakapim* = the king of the monkeys (as follows):
 
 Ignoring those arrows and having embraced Lakshmana, Rama spoke to Hanuma and
 Sugreeva, the king of monkeys, as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2056,8 +1968,6 @@ bird; *meghadarshanam* = the site of a cloud (would come) kaaN^kShitam = as desi
 Ravana of evil designs be killed. The time to manifest my prowess, which I have been wishing for
 long, has come, as for a chataka bird, the site of a cloud would come, as sought by it, at the end
 of a hot season."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2099,8 +2009,6 @@ monkeys!; *drakShyatha* = you will see; *nachiraat* = without delay; *jagat* =
 
 "I take this vow in truth before you, at this moment, O monkeys, that without delay,
 you will see the world devoid of Ravana or Rama (myself)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2158,8 +2066,6 @@ insult offered; *vaideyehyaaH* = to Seetha; *rakShobhiH* = by the demons.
 
 "I encountered with the loss of sovereignity, the dwelling in the forest, the
 wandering around in the woods of Dandaka and the rough treatment of Seetha by the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2176,8 +2082,6 @@ wandering around in the woods of Dandaka and the rough treatment of Seetha by th
 
 "A great and terrible suffering has happened to me and an agony equivalent to hell.
 Now, by killing Ravana in battle, I will relieve myself of all that agony."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2237,8 +2141,6 @@ battle-field; *adya* = now.
 Sugreeva has been anointed on the throne after killing Vali and for whose sake the ocean has been
 crossed and a bridge built on it, has come within the range of my sight in the battle-field
 now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2309,8 +2211,6 @@ serpents.
 than the one who has come within the range of vision of a snake injecting deadly poison with its
 very glance or than a serpent who has come within the range of vision of Garuda, the king of birds
 and the enemy of serpents."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2358,8 +2258,6 @@ Ravana.
 
 "O the foremost of the monkeys who are so difficult to conquer! Seated on the
 mountain-peaks, you witness at ease, this battle between myself and Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2410,8 +2308,6 @@ course of my battle.
 "Let the three worlds (viz. the earth, heaven and the intermediate region) including
 Gandharvas the celestial musicians, the gods, the sages and the celestial bards see today the
 Ramahood of Rama during the course of my battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2459,8 +2355,6 @@ world; *sacharaacharaaH* = including all living beings; both mobile and immobile
 "I shall perform today a feat, which people in the world including all living beings
 both mobile and immobile, as also gods, will ever narrate together, describing how the battle
 proceeded, as long as the earth is able to support those who occupy it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2507,8 +2401,6 @@ arrows; *tapta kaaN^chana bhuuShaNaiH* = decked with pure gold.
 
 Thus speaking, Rama with an attentive mind in the battle-field, struck Rama with
 sharp arrows, decked in pure gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2558,8 +2450,6 @@ cloud; *(would shower) dhaaraabhiH* = the rains.
 
 Thereupon, Ravana streamed forth blazing steel arrows and then clubs, as clouds
 would stream forth the rains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2603,8 +2493,6 @@ struck; *anyonyam* = each other.
 
 A tumultuous sound arose from the excellent arrows, released by Rama and Ravana, as
 they struck each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2651,8 +2539,6 @@ Ravana; *vibhinnaashcha* = split asunder; *vikiirNaashcha* = and seattered off;
 
 The arrows of Rama and Ravana, split asunder and scattered off, with their blazing
 points, fell from the space on to the surface of the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 </details>
 
@@ -2704,8 +2590,6 @@ all the living beings; *adbhuta darshanaH* = was fell astonished by the audience
 The loud sound, produced by the impact of the bow-string on the palms of those two
 heroes Rama and Ravana, which struck terror in all the living beings, was felt astonished by the
 audience.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Rama is anguished for Seetha's aloneness and it is expressed in his chastening L
 him as to why he left Seetha unguarded in the lonely forest. Rama rushes rapidly to hermitage thinking
 and talking that rapidly to Lakshmana about Seetha, and on arriving he finds vacuity in hermitage and
 then he is thrown in throes of despair.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ on seeing; *pari apR^icChata* = verily [impatiently] asked.
 
 On seeing dreary Lakshmana coming into the void of forest devoid of Vaidehi, then the virtue-souled
 Rama, the son of Dasharatha, has asked him impatiently. [3-58-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ to here, came [lonely]; *saa vaidehii kva* = she, Vaidehi, where [is she?]
 
 "She who has come in tow with me to Dandaka forest when I started for peregrination, whom you have now
 deserted and came here, oh, Lakshmana, she that Vaidehi, where is she? [3-58-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ Vaidehi, where is she?
 
 "When I have become forlorn with the forfeiture of my kingdom and when I was rushing for Dandaka forest
 she stood with me as a partaker in my woes. She that comely Vaidehi, where is she? [3-58-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -210,8 +202,6 @@ kva* = Seetha, where is she?
 
 "Without whom I am disinclined to live even for a moment, oh, valiant one, such a Seetha who in simile
 is like the daughter of deities and who is my life-force, where is she? [3-58-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -258,8 +248,6 @@ is like the daughter of deities and who is my life-force, where is she? [3-58-4]
 
 "I am unambitious for the rulership either on heavens or on the earth, oh, Lakshmana, without the daughter
 of Janaka whose aspect glisters like gold. [3-58-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -312,8 +300,6 @@ Annex: I neither can live devoid of Seetha, nor can complete the pledge of fourt
 trek for ultimate annihilation of Ravana. If Seetha is dead I am also dead. Then I have live to fulfil
 the pledge. But when I am dead I will become a killer of my own pledge than my own body. If Seetha is
 no more what happens to her abduction, Ravana's elimination, and my pledge to gods and my incarnation...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -360,8 +346,6 @@ I am, being dead; *tvayi gate* = you, on getting back [lonesomely to Ayodhya]; *
 
 "When I am dead for the sake of Seetha and when you get back to Ayodhya lonesomely, and when Kaikeyi's
 wishes are accomplished thus, oh, Soumitri, will she be comfortable, somewhat! [3-58-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -414,8 +398,6 @@ nearby, stays [be in attendance - get into servitude] anyhow.
 "Kaikeyi is with her son, with a kingdom, and further her 'purposes are achieved,' oh, gentle Lakshmana,
 and because of the death of her son will my austerely mother Kausalya humbly get into the servitude
 of Kaikeyi, anyhow! [3-58-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -467,8 +449,6 @@ out [by death]; *praaNaan tyakSyaami* = lives, I give up.
 "I wish to get at the hermitage again if only that Vaidehi of good-conduct is alive in hermitage, else,
 oh, Lakshmana, if death has already conducted her out of hermitage I too will give up my lives here
 itself. [3-58-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -518,8 +498,6 @@ chats [with me]; *vi nashiSyaami* = verily, I breath my last.
 
 "If Seetha, the princess from Videha, does not chat with me as before smiling gleefully on my arrival
 at the hermitage, oh, Lakshmana, I really breath my last. [3-58-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -566,8 +544,6 @@ bruuhi say.
 
 "Say Lakshmana, whether that pietistic Vaidehi is alive or not? Or, on your becoming unmindful of your
 guard is she consumed by demons, either? [3-58-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -615,8 +591,6 @@ connectedness - dissociation, separation; *shocati* = she will be despairing; *v
 
 "She who is softish by her nature and youngish by her age has never noticed the despair of separation
 from me, and now by my dissociation she will be despairing brokenheartedly, so it seems. [3-58-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -669,8 +643,6 @@ caused fear even in you in everyway. [3-58-13]
 Annex: 'you yourself have said that the Golden Deer is demon Maareecha, but I went after to eliminate
 the very same demon... then, how you are dismayed to hear a trickster's mimicking my voice and came
 rushing fearfully, were you fearful or did I yell like that right from our childhood, anytime...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -726,8 +698,6 @@ as she is she might have also hastened you, and I hope you also have come to see
 
 Annex: 'maybe, as a woman she is hopeless of my capabilities, but you are a coequal of mine, are you
 unhopeful of my capabilities and came rushing at the haste of a hasty woman, or what!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -781,8 +751,6 @@ Aside: 'anyway, a congratulatory hardship is caused by you to the demonic race, 
 in isolation from our fetters, and a leeway is given to those diabolic demons as well as to me... as
 I cocksurely attack them now in the name of Seetha, and it is cocksure that they have to surface now
 to counterattack me, instead of these tricks and gimmicks...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -829,8 +797,6 @@ she would have been; *samshayaH na* = doubt, is not there.
 
 "Raw-flesh eating demons are distraught as I have liquidated Khara, as a result those ghastly ones would
 have liquidated Seetha by now. There is no doubt about it. [3-58-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -881,8 +847,6 @@ of [scourge,] [I am] liable to get, I deem; *aho* = alas!
 "In everyway I am sunken in scourge, but oh, enemy-eliminator Lakshmana, what I can possibly do in present
 situation? Perchance, this sort of scourge is liable to chance upon me, alas!" Thus Rama gave vent to
 his feelings on his way to hermitage. [3-58-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -928,8 +892,6 @@ his feelings on his way to hermitage. [3-58-17]
 
 In this way while thinking emotively about that curvaceous Seetha, Raghava hurriedly returned to Janasthaana
 along with Lakshmana. [3-58-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 </details>
 
@@ -1019,8 +981,6 @@ again came back to vacant hermitage, and again he dashed to some other prayer-ti
 'yes, this is that very place where she offered her daily prayers.' Finally on returning to the vacant
 hermitage he became one who is plunged into hair-raising throes of despair as that cottage is emptied
 of Seetha. [3-58-19, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga58/aranyasans58.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

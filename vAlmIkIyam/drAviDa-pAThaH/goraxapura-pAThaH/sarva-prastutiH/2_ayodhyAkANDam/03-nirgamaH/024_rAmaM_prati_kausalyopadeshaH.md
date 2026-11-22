@@ -16,8 +16,6 @@ title_english = "024 Rama obtains Kausalya s permission"
 In this chapter Kausalya requests Rama to take her to forest also. But Rama stops
 Kausalya saying that service of husband is the ultimate dharma of wife and he obtains her
 permission for him to go to forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ words; *dharmishhTham* = which are righteous.
 
 Seeing him firm minded in protecting the command of his father, Kausalya in a choked
 voice spoke these righteous words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ who has not seen sorrow ; *katham* = how; *vartayet* = can he live; *uNchena*
 �Rama who is born in me and Dasaratha, is a righteous person. He speaks lovingly to
 all beings. He has not faced grief at any time. How can such a person live in a forest, by
 gathering grains ?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ muulaphalaani = roots and fruits vane = in forest ?
 
 "While the dependants and the servants of Lord Rama eat pleasant foods all the
 while, how can he eat roots and fruits himself in the forest ?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ will believe ? kasyavaa = to whom; *bhayam* = fear; *nabhavet* = is not created 
 
 "Hearing that Rama the beloved and virtuous is being thus sent to exile by the king
 , who will believe these words? Who will not develop fear ?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ destiny; *nunaam* = certainly; *balavaan* = having ;strength .
 
 �Oh, Rama ! If you , the charming in the world are to go to exile , then it can be
 certainly said that everything is ordered by a strong destiny'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -355,8 +343,6 @@ here. My lamentation and grief are the fire-sticks. My wailing tears will be the
 oblation to fire. The choking and anxiety will be a great smoke .The thought that when you would
 return, will generate smoke again. Such a fire of grief will make me emaciated completely and will
 burn like dry wood by fire in winter.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -403,8 +389,6 @@ where; *tvaa* = you; *gamishhyaasi* = will go."
 
 "Oh, Son! A cow follows its calf wherever it goes. So also, I shall come with you
 wherever you go."'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -451,8 +435,6 @@ vartayishhyati* = he will not be alive; *nuunam* = certain."
 **अनुवादः**
 
 "Oh, son! A cow follows its calf wherever it goes. So also, I shall come with you wherever you go."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -499,8 +481,6 @@ vartayishhyati* = he will not be alive; *nuunam* = certain !'
 
 "Kaikeyi already deceived the king .He will not be alive, when I leave for the
 forest and you also leave him .It is certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -547,8 +527,6 @@ done; *bhavatyaa* = by you; *manasaapi* = even by mind.
 
 "To a woman, abandonment of husband is entirely a cruel act. That bad act is not to
 be perceived even by mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -589,8 +567,6 @@ pitaa* = my father; *jagatiipatiH* = the lord of earth; *jiivati* = is alive;
 
 "Till Dasaratha, my father and the great king is alive, you should serve him well.
 It is eternal justice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -640,8 +616,6 @@ concurrance.
 
 After Rama spoke thus, Kausalya with auspicious appearance, was very much pleased
 and spoke to Rama, who performs indefatigable actions, in consent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -690,8 +664,6 @@ maataram* = to that mother; *bhR^isha duHKhitaam* = who was very much distressed
 
 That Rama, the best among upholders of righteousness, after hearing the words of his
 mother ,spoke again to her who was very much distressed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -741,8 +713,6 @@ mother ,spoke again to her who was very much distressed.
 
 "The words of father are to be followed by you and me. For all, he is the king, the
 nourished, a venerable man, the best among men, the lord and the ruler."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -791,8 +761,6 @@ priitaH* = very gladly".
 
 "After roaming in the great forest for fourteen years, I shall come back and very
 gladly stand by your command."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -842,8 +810,6 @@ sorrow .
 
 After hearing the words of Rama, Kausalya who was affectionate to her son , was in
 great sorrow with her face filled with tears and spoke thus to her beloved son Rama .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -901,8 +867,6 @@ forest; *vanam* = to forest"
 "Oh, Rama! I can not reside in the middle of these step-wives. If you have made up
 your mind to go to forest as per your father's wish ,also take me, like taking a female deer of the
 forest ,to the woods ''
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -954,8 +918,6 @@ master.
 
 "Rama spoke thus these words bemoaningly to her, who was weeping= "as long as a
 woman is alive ,her husband is god and master to her".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -972,8 +934,6 @@ dhiimataa = the wise man''.
 
 "King Dasaratha, supreme commander has authority over you and me also now. when
 king, the lord of the earth and the wise man is there , we are not indeed master-less.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1022,8 +982,6 @@ righteous person; *sarva bhuuta priyamvadaH* = who speaks lovingly to all beings
 
 "Bharata also, who is a righteous person and who speaks lovingly to all beings will
 be obliging to you. He is indeed always devoted to righteousness.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1072,8 +1030,6 @@ little ; *shrmam* = fatigue; *putra shokena* = with grief over the son;
 
 "While I take leave, take care of the king attentively so that he will not get
 fatigued even a little with grief over his son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1114,8 +1070,6 @@ soothingly; *hitam* = well being; *raajJNaH* = of king vR^iddhasya = who is aged
 
 "Act always soothingly for a well-being of the aged king, seeing that his terrible
 grief will not destroy him ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1162,8 +1116,6 @@ ill-fated.'
 
 �Even if a woman is interested in religious vows and fastings in addition to being
 the best of the excellent ;if she does not obey her husband she will become ill-fated !''
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1205,8 +1157,6 @@ puujanaat* = worship of gods; *nirnamaskaaraa* = does not offer salutation such 
 
 �Even if a woman does not offer salutation to celestials and does not worship the
 gods, she will attain the highest heaven by service to her husband ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1254,8 +1204,6 @@ smR^itaH = was told as dharmaH = righteousness.'
 �She has to do service, truly devoted in love and welfare of her husband. This is
 seen in the world from the beginning, was heard from ancient texts and mentioned as
 righteousness.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1303,8 +1251,6 @@ right voes'.
 
 Oh, Mother! You always worship gods by sacrificial fire and by flowers for my sake .
 Brahmanas also with right voes are to be worshipped .'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1351,8 +1297,6 @@ Brahmanas also with right voes are to be worshipped .'
 
 "Look forward for the time of my return in such a manner with restraint, being
 temperate in food and being devoted in the service of your husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1402,8 +1346,6 @@ you will acquire; *paramam* = the best; *kaamam* = desire .
 
 "After my return, your best desire will be fulfilled if our father the best among
 protectors of righteousness ,is still alive till then."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1450,8 +1392,6 @@ afflicted over her son ; *uktaa* = having been spoken ; *evam* = thus;
 
 Kausalya who was afflicted with grief over her son, was with eyes full of tears
 after hearing Rama's utterances and spoke thus to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1492,8 +1432,6 @@ which is well made; *gamane* = in the matter of your going; *nuunanam* = certain
 
 "Oh, Brave son! I am not able to avert your well-made resolution, in the matter of
 your going to forest. Time is inscrutable .It is certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1543,8 +1481,6 @@ nivR^ittetu* = when you return; *punaH* = again."
 
 "Oh, son! You go undisturbed. Let there be auspiciousness always to you .I shall
 become refreshed, when you return again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1592,8 +1528,6 @@ again lapsye = Ishall get varam = great sukham = happiness.
 "You, the illustrious after accomplishing a purpose, having observed a vow and
 having attained freedom from debt to your father, after having come again, I shall get great
 happiness".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1640,8 +1574,6 @@ earth.
 
 "The path of the destiny, which extinguishes my words and impels you to go to the
 forest ,is ever not imaginable on this earth"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1689,8 +1621,6 @@ pleasing.
 
 "Oh, Rama the valiant !Go just now and come again safely, when you will rejoice me
 with your pleasing and tranquillising words ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1740,8 +1670,6 @@ made of bark? saH kaalaH = That time; *api syaat* = may it be; *idaaniim* = just
 
 "How good it will be, if today itself is the day of your returning from the forest,
 wearing twisted hair and garment made of bark."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 </details>
 
@@ -1798,8 +1726,6 @@ Kanda.
 "The queen kausalya thus saw Rama who decided to go to forest .She spoke these words
 with most excellent mind to Rama having auspicious qualities, being desirous of averting evil by
 recitation of auspicious words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

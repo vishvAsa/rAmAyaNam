@@ -59,8 +59,6 @@ shabdaH* = a great cry of distress ;samjaG^ye = arose ;striiNaam = among women ;
 
 As Rama the tiger among men, having paid obeisance with joined palms departed, a
 great cry of distress arose among women of inner apartments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -108,8 +106,6 @@ unhappy."
 
 Where is he going, who was the path, who became the protector of the people, who are
 now defenseless weak and unhappy?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -157,8 +153,6 @@ their suffering?"
 
 "Where has he gone, who was not angry even when provoked, who resolved every
 misunderstanding and who propitiated all those who were angry by sharing their suffering?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -206,8 +200,6 @@ Rama; *gachchhati* = has gone?"
 
 That illustrious and great-souled Rama, who treated us with the same reverence he
 paid to his own mother, where has he gone?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -255,8 +247,6 @@ Kaikeyi"
 
 "Where has he gone, he the protector of the people and the whole world, driven to
 the forest by the king, goaded on by Kaikeyi? ''
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -303,8 +293,6 @@ minded; *satyavratam* = strictly truthful .
 
 "Alas! In his folly, the king has banished the virtuous the beloved and the strictly
 truthful Rama to the forest!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -351,8 +339,6 @@ those queens; *rurudushchaiva* = shed their tears; *duhkhaartaaH* = in grief;
 
 Thus did all the queens lament, like unto cows deprived of their calves and in there
 affection cried out loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -400,8 +386,6 @@ apartments.
 
 Hearing those terrible crying sounds in the private apartments, the king profoundly
 afflicted by the departure of his son, became increasingly depressed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -460,8 +444,6 @@ performed; *gR^ihamethinaH* = house-holders; *naapachan* = did not cook their fo
 On the departure of Rama to the forest, the sacred fires were no longer performed,
 no house holder prepared food, the people did not do their acts and even the sun went into
 eclipse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -479,8 +461,6 @@ son; *prathamajam* = born for the first time .
 Elephants threw out the morsels of food they had taken into their mouths. Cows did
 not give suck to their calves. Mother did not rejoice, for having got a son born for the first
 time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -527,8 +507,6 @@ stayed; *samam* = with the moon.
 
 Trisanku, Lohintanga, Brihaspati as also Budha and all other planets assumed a
 menacing aspect and got stayed with the moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -578,8 +556,6 @@ twinkle; *grahaashcha* = planets; *gatachetasaH* = were deprived of their splend
 
 Stars ceased to twinkle. Planets were deprived of their splendour. The stars of
 Visakha appeared in the heaven, veiled in the mist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -620,8 +596,6 @@ Rama; *pravrajite* = went; *vanam* = to the forest; *tat nagaram* = that city;
 
 The great ocean rose, as by a speed of a long-lasting tempest. While Rama went to
 the forest, that city was shaken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -662,8 +636,6 @@ the forest, that city was shaken.
 
 All the cardinal points, having been disturbed, were covered by darkness. Planets
 did not become visible, nor the stars nor any other thing in heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -713,8 +685,6 @@ vaa* = in either food; *vihaare vaa* = or in pastime.
 
 All the people of the city suddenly became apathetic. No one was interested in
 either food or in pastime.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -764,8 +734,6 @@ about(the departure of)the Lord of the earth.
 
 All the people of Ayodhya, afflicted by grief in succession, heaved profound and
 burning sighs and bewailed about the departure of the Lord of the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ nakashchit = No one; *lakshhyate* = appeared; *hR^ishhTaH* = rejoicing.sarvaaH =
 
 The people in the king's way were wearing distressed faces filled with tears. No one
 appeared rejoicing. All were possessed by grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -864,8 +830,6 @@ was in disorder.
 
 The wind was not blowing coolly. The moon did not appear beneficient. The sun did
 not give out warmth to the earth. The entire world was in disorder
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -914,8 +878,6 @@ ask for; *striiNaam* = the women; *tathaa* = and; *bhraataraH* = brothers;
 Sons did not ask for their mothers and husbands did not ask for their wives.
 Brothers did not enquire about their sisters. All gave up every thing and thought of Rama
 alone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -965,8 +927,6 @@ their agony; na jahuH: did not abandon; *shayanam* = their beds.
 
 Then, all of Rama's own friends were bewildered in mind and the weight of their
 agony overwhelmed them. They did not leave their beds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 </details>
 
@@ -1027,8 +987,6 @@ filled with elephants; *warriors and horses;nanaadacha* = made a roaring sound.
 Afflicted by fear and grief, the earth with its mountains, deprived of that great
 souled Rama, suffered a terrible convulsion, as when it is abandoned by Indra the lord of rain, and
 a great uproar reigned in the city which was filled with elephants, warriors and horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

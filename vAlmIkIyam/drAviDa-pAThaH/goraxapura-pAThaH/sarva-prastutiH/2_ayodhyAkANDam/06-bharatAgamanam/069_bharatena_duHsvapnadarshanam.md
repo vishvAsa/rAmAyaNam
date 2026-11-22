@@ -18,8 +18,6 @@ the city of Girivraja. His friends in the palace arranged entertainment like rec
 playing of musical instruments, stage plays and jokes to make him cheerful. Even then, his
 depression was not gone. Bharata explains in detail his unpleasant dream in its different forms to
 his friends.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ raatrim* = on that night; *ayam* = this; *apriyah* = unpleasant; *svapneH*
 
 On that very night those messengers entered the city; Bharata also had experienced
 an unpleasant dream.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ much.
 
 Bharata, the son of Dasaratha the paramount sovereign, after seeing that unpleasant
 dream just at the dawn of that night, felt very much anguished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ dream just at the dawn of that night, felt very much anguished.
 
 Knowing Bharata to have been in anguish, his graceful speaking friends arranged
 recitation of stories in the palace; so as to erase his anguish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ of jokes.
 
 Some played musical instruments for bringing about peacefulness. Likewise some
 others arranged for exhibition of dramas and some others told various types of jokes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ words; *goshhThiihaasyaani* = by stage plays or jokes.
 
 That high-soled Bharata born in Raghu Dynasty could not be made cheerful by his
 gently speaking friends by stage-plays or jokes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ friends?"
 
 A close friend spoke to Bharata, who was surrounded by his companions, as follows,
 "O, friend! Why are you not rejoicing, even when entertained by your friends?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ me."
 
 Bharata replied to the friend who spoke thus, as follows "You listen to me the
 reason for which this depression came to me"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -393,8 +377,6 @@ shikharaat* = from the top of a mountain; *kalushhe* = into a polluted;
 
 "I have seen a dream in which my father with his soiled body and with his hair
 disheveled, was falling from the top of a mountain into a polluted pond defiled with cow dung.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -442,8 +424,6 @@ again."
 
 "He was seen by me, as he was floating in that pond defiled with cow dung, drinking
 an oil through his hollowed palms and laughing again and again"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -494,8 +474,6 @@ body smeared; *tailam* = with oil; *anvagaahata* = (he) plunged into;
 
 "Thereafter, having eaten cooked rice mixed with gingelly seeds repeatedly, with his
 head bent down and with his whole body smeared with oil, he plunged into the oil itself
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -600,8 +578,6 @@ mountains; *vidhvastaan* = whirl up; *sadhuumaan* = into a mist."
 molested as if covered by darkness, a tusk of an elephant (on which the monarch rode) broken to
 pieces, a blazing fire suddenly extinguished, the earth riven, the various trees dry up, and the
 mountains whirl up into a mist."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -651,8 +627,6 @@ piNgalaaH* = in black and reddish brown; *prahasanti* = were laughing with mocke
 
 "I saw my father in the dream, wearing black clothes, sitting on a stool made of
 iron and women with black and reddish brown complexion deriding the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -699,8 +673,6 @@ paste; *rathena* = seated in a chariot; *kharayuktena* = drawn by asses;
 
 "My father, the virtuous man, adorned with red garlands and his body besmeared with
 sandal paste and seated in a chariot drawn by asses, proceeded hurriedly towards the south."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -747,8 +719,6 @@ wearing red clothes; *vikR^itaananaa* = with an ugly face; *dR^ishhTaa* = was se
 
 "I saw an ugly faced female demon, wearing red colored clothes, laughingly dragging
 away the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -798,8 +768,6 @@ Lakshmana; *marishhyati* = may die."
 
 "This fearful dream was seen thus by me during that night. I myself or the king or
 Lakshmana may die."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -853,8 +821,6 @@ yoked with donkeys; *dhuuma* = the smoke; *chitaayaam* = on the funeral pyre;
 
 "If in a dream, a person sees a man going in a chariot, yoked with donkeys, the
 smoke of a funeral pyre will soon be seen ascending him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -870,8 +836,6 @@ up. me = My; *manaH* = mind; *na svastham* = is not at ease."
 
 "For this reason, I have become broken hearted. Hence, I am not able to treat you
 properly. My throat seems to be drying up. My mind is not at ease."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -923,8 +887,6 @@ see; *kaaraNamcha* = a reason."
 
 "I do not see the root cause of this fear. But I am experiencing a fear indeed. My
 voice is choked. My luster is affected. I abhor me myself and I do not see a reason for it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 </details>
 
@@ -985,8 +947,6 @@ earlier; *vichintya* = and thinking; *raajaanaam* = of the king;
 "That great fear is not going away from my heart, having seen such a course of this
 bad dream in varied forms and which dream was not imagined by me earlier and also reflecting on
 that inconceivable sight of the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

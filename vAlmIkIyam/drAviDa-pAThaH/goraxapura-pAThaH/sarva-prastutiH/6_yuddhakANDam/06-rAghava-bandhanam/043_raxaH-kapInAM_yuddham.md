@@ -63,8 +63,6 @@ roSaH* = military ferocity; *sambabhuuvaH* = arose; *atha* = thereafter.
 
 While highly wise monkey-troops and the demons were fighting a terrible military
 ferocity arose in them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -123,8 +121,6 @@ Those demons, the best of ogres, doing terrific acts and eager to triumph in
 Ravana's name, marched ahead on steeds with golden trappings or elephants resembling pointed
 flames, or in chariots flashing like the sun and themselves wearing beautiful armours, creating
 reverberant sounds in the ten regions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -171,8 +167,6 @@ reverberant sounds in the ten regions.
 
 The great army of monkeys, also eager to triumph, marched opposite to those troops
 of demons of terrible acts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -214,8 +208,6 @@ demons; *vaanaraaNaam cha* = and moneys; *abhidhaavataam* = who ran up towards;
 
 Extra-ordinary duels arose between those demons and monkeys, who ran up towards each
 other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -270,8 +262,6 @@ Andhaka; *tryambakeNa yathaa* = fought with Shiva the Lord of Destruction.
 
 The demon Indrajit of immense energy fought with Angada the son of Vali, as the
 demon Andhaka fought with Shiva the Lord of destruction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -318,8 +308,6 @@ started (fight); *jambu maalinam* = with Jambumali.
 
 The ever indomitable Sampati fought with Prajangha and Hanuman the monkey measured
 his strength with Jambumali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -369,8 +357,6 @@ possessing fiery velocity; *samara* = in battle.
 
 The demon with great fury, Vibhishana the younger brother of Ravana confronted with
 Shatrughna possessing fiery velocity in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -420,8 +406,6 @@ fought; *nikumbhena* = with Nikumbha.
 
 Gaja of great strength fought with a demon called Tapana and Nila too of great
 energy fought with Nikumbha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -468,8 +452,6 @@ confronted; *viruupaakSeNa* = with Virupaksha; *samara* = in the battle.
 
 Sugreeva the king of monkeys confronted well with Praghasa and the glorious
 Lakshmana confronted with Virupaksha in the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -516,8 +498,6 @@ saha* = with Rama.
 
 The invincible Agniketu, Rashmiketu, Mitraghnu and Yajnakopa confronted with
 Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -564,8 +544,6 @@ confronted; *sughoraabhyaam raakSasaabhyaam* = with those highly terrific demons
 
 Vajramushti confronted with Mainda and Ashaniprabha with Dvivida. Those principal
 monkeys Mainda and Dvivida confronted with those highly terrific demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -612,8 +590,6 @@ of intense speed in battle.
 
 Pratapana, the valiant, terrific and invincible in battle fought well with Nala of
 intense speed in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -659,8 +635,6 @@ Vidyunmali.
 **अनुवादः**
 
 That great monkey called Sushena, the strong son of Yama fought with Vidyunmali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -710,8 +684,6 @@ with many; *sahasaa* = swiftly; *dvandvam samiiyuH* = got a duel; aparaiH;
 
 Some other dreadful monkeys, having finished their fight with many demons, swiftly
 got a duel with some other demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -759,8 +731,6 @@ triumph.
 
 A very great tumultuous battle, which caused hair to stand on end, continued there
 between heroic demons and monkeys, who were eager to triumph.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -810,8 +780,6 @@ and carrying bodies in the stream like timber.
 
 Streams of blood flowed from the bodies of monkeys and demons, with turfs of hair
 and carrying bodies in the stream, like timber.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -862,8 +830,6 @@ thunder-bolt.
 
 The enraged Indrajit struck the valiant Angada (who can tear asunder the enemy
 forces) with a mace, like Indra the Lord of celestials with his thunder-bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -911,8 +877,6 @@ battle.
 
 The swift monkey, Angada struck his chariot, having a variegated body of gold, along
 with horses and the charioteer in the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -959,8 +923,6 @@ Ashvakarna tree; *raNamuurdhani* = at a zenith of the combat.
 
 Sampati, who was struck by Prajangha with three arrows, killed Prajangha by an
 Ashvakarna tree, at the zenith of the combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1008,8 +970,6 @@ of the breast.
 
 Jambumali, standing in his chariot, full of strength and fury banged on Hanuman's
 breast, with a javelin kept in his chariot, on the field of battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1056,8 +1016,6 @@ together with the demon; *talena* = with the palm of his hand.
 
 Hanuman, the son of the wind-god, ascended his chariot and soon overthrew it
 together with the demon, with the palm of his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1106,8 +1064,6 @@ suddenly; *paatayaamaasa* = scratched out; *pratapanasya* = Pratapana's;
 
 That terrific Pratapana, while roaring, ran towards Nala. Nala suddenly scratched
 out Pratapana's eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1157,8 +1113,6 @@ Praghasa; *grasantamiva* = who was looking like swallowing; *sainyaani* = the ar
 Pierced in the limbs by sharp arrows by Praghasa the swift-handed demon, Sugreeva
 the Lord of demons immediately killed Praghasa (who was appearing to swallow the monkey-troops)
 with a Saptaparna tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1205,8 +1159,6 @@ look; *nipiiDya* = having; tormented; *raakSasam* = the demon; *viruupaakSam*
 
 Lakshmana with a terrific look, having tormented Virupaksha the demon with a shower
 of arrows, finally killed him with an arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1256,8 +1208,6 @@ Mitrughna; *yajJNa kopashcha* = Yajna kopa; *nirbibhiduH* = wounded; *raamam*
 
 The invincible Agniketu, Rashmiketu, Mitrughna and Yajnakopa wounded Rama by
 arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1305,8 +1255,6 @@ arrows.
 
 The enraged Rama on his part chopped the hands of those four demons in the battle by
 his four terrific arrows having fire-like points.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1357,8 +1305,6 @@ city-wall.
 
 Struck with a fist by Mainda in the battle, Vajramushti along with his chariot fell
 to the ground like a watch-tower on a city-wall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1406,8 +1352,6 @@ sun.
 
 Nikumbha chopped Nila, having a radiance of a mass of collyrium in battle, by his
 sharp arrows, like a cloud by the rays of the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1454,8 +1398,6 @@ hastaH* = the swift-handed; *nishaacharaH* = demon; *punaH* = again;
 
 Then, Nikumbha the swift-handed demon again wounded Nila by a hundred arrows in the
 battle and laughed continuously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1504,8 +1446,6 @@ battle.
 Nila chopped the head of the charioteer of Nikumbha by the wheel of the same chariot
 in that fight, as Vishnu the Lord of preservation (by his Chakra, a circular missile weapon) in a
 battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1552,8 +1492,6 @@ before the eyes; *sarva rakSasaam* = of all the demons.
 
 Even Dvivida, whose impact was like a flash of lightening of a thunder bolt, struck
 Ashaniprabha with a rock before the eyes of all the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1600,8 +1538,6 @@ yodhinam* = who was fighting with trees; *aahave* = in the battle.
 
 That Ashaniprabha wounded Dvivida the monkey leader by his thunder bolt-like arrows,
 while Dvivida was fighting with trees in the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1651,8 +1587,6 @@ Ashaniprabha; *saratham* = along with the chariot; *saashvam* = and the horses.
 
 With his limbs struck by arrows, that Dvivida agitated as he was by anger, struck
 with a Sala tree, Ashaniprabha, his chariot and the horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1699,8 +1633,6 @@ Sushena; *sharaiH* = with arrows; *kaaN^chana bhuuSaNaiH* = adorned with gold;
 
 Vidyunmali, seated in a chariot, struck Sushena repeatedly with arrows adorned with
 gold and made a roaring sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1747,8 +1679,6 @@ caused the chariot to fall down; *mahataa* = by a huge; *girishR^iNgeNa* = rock.
 
 Sushena the excellent monkey, seeing him mounted on a chariot, quickly caused the
 chariot to fall down, by a huge rock.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1795,8 +1725,6 @@ chariot to fall down, by a huge rock.
 
 Retreating soon from the chariot, Vidyunmali the demon endowed with a skill, stood
 on the ground with a mace in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1843,8 +1771,6 @@ sizing; *sumahatiim* = a very huge; *shilaam* = rock; *abhidravat* = chased;
 
 Then, the excellent monkey, Sushena engulfed as he was with anger, seizing a very
 huge rock in his hands, chased that demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1894,8 +1820,6 @@ suSeNam = Sushena; *haripuN^gavam* = the excellent monkey; *aashu* = quickly;
 
 Vidyunmali the ranger of the night; struck that approaching Sushena the excellent
 monkey, quickly with a mace on his chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1942,8 +1866,6 @@ battle; *plavagottamaH* = the excellent monkey; Sushena; *tuuSNiim* = silently;
 
 Not minding that terrific blow with the mace in the great battle, Sushena the
 excellent monkey silently threw that huge rock on his chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -1990,8 +1912,6 @@ on the earth.
 
 Struck by the thump of that rock, Vidyunmali the demon, his chest crushed, fell
 lifeless on the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -2042,8 +1962,6 @@ demons; *vimathitaaH* = were destroyed; *evam* = thus; *taiH* = by those;
 
 Those strong demons were destroyed thus by those valiant monkeys there in a series
 of hand to hand encounters, as the demons were destroyed by the blows of the celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -2120,8 +2038,6 @@ The battle-field became frightening with extra-ordinary spears, other arrows, ma
 javelins, lances and some other weapons with three points, shattered chariots and military steeds
 elephants in rut, monkeys and demons which had been killed, wheels axles and yokes broken and lying
 on the ground and frequented as it was by herds of jackals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2137,8 +2053,6 @@ of monkeys and demons; *samutpetuH* = sprang up; *dikSu* = here and there;
 
 The headless trunks of monkeys and demons sprang up here and there in the midst of
 that tumultuous conflict, which resembled the war between celestials and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 </details>
 
@@ -2195,8 +2109,6 @@ assembled; *tarasaa* = with strength; *suyuddham* = for a good combat.
 Then, the rangers of the night, with their limbs anointed with blood after being
 attacked by the excellent monkeys, longed for sun-set and again with strength, assembled for a good
 combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

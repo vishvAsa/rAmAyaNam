@@ -18,8 +18,6 @@ Pushpaka, a self-moving aerial car. Kumbhakarna asks Ravana about the nature of 
 him and whether he has to kill anyone. Ravana replies that Rama has come with troops of monkeys
 including Sugreeva, after crossing the ocean by a bridge, to wage a battle Ravana requests
 Kumbhakarna to show his terrible prowess in killing all the adversaries in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ way; shriyaajuSTam- full of royal dignity.
 
 That Kumbhakarna of great prowess and the foremost, having full of intoxicating
 drowsiness, marched along the king's highway, full of royal dignity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -108,8 +104,6 @@ with a shower of flowers; *gR^ihebhyaH* = from houses (liming the way).
 Then, that Kumbhakarna, who was very difficult to be conquered, accompanied by
 thousands of demons, sallied forth, covered with a shower of flowers from the houses (lining the
 way).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -150,8 +144,6 @@ appearance of a shining sun.
 
 He saw Ravana's abode, covered with golden grilled windows, spacious and looking
 beautiful, like a shining sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -198,8 +190,6 @@ seat.
 
 Entering Ravana's palace, like the sun entering a mass of clouds, Kumbhakarna then
 saw from of distance his brother seated on a throne, as Indra saw Brahma perched on his seat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -246,8 +236,6 @@ with his stamping strides.
 
 While going to his brother's palace, that Kumbhakarna, accompanied by troops of
 demons, caused the earth to shake with his stamping strides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -288,8 +276,6 @@ house; *abhivigaahyacha* = and entering; *kakSyaam* = the inner apartment;
 
 Reaching his brother's house and entering the inner apartment, Kumbhakarna saw his
 worried brother sitting in Pushpaka, a self-moving aerial car.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -330,8 +316,6 @@ worried brother sitting in Pushpaka, a self-moving aerial car.
 
 On seeing Kumbhakarna who arrived there, Ravana then quickly rose up from his seat,
 delighted and brought him nearer to his side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -373,8 +357,6 @@ the work?"
 
 Then, the mighty Kumbhakarna having offered salutation to the feet of his brother
 sitting on a sofa, asked him, "What is to be done?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -423,8 +405,6 @@ sitting on a sofa, asked him, "What is to be done?"
 
 Rising up from his seat, Ravana embraced him. That Kumbhakarna, who was thus
 embraced and made happy by his brother, occupied an auspicious, charming and excellent seat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -473,8 +453,6 @@ spoke; *vaakyam* = (the folowoing0 words; *raavaNam* = to Ravana.
 
 Resting on that seat, the mighty Kumbhakarna, with his blood-shot eyes in anger,
 spoke to Ravana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -522,8 +500,6 @@ who; *bhaviSyati* = will be; *pretaH* = a dead person?
 
 "O king! For what purpose have I been woken up by you, with effort? Tell me from
 whom is the danger for you here and who is to be killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -564,8 +540,6 @@ who was there; *kruddham* = with anger.
 
 Ravana, with his eyes rolling with annoyance, spoke to Kumbhakarna, his brother, who
 was there with anger (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -613,8 +587,6 @@ not know; *bhayam* = about the fear; *raama kR^itam* = created by Rama; *mama*
 
 "O mighty Kumbhakarna! You slept for a long period. You, who were fast asleep, do
 not know about the fear created by Rama in me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -661,8 +633,6 @@ cutting short; *naH kulam* = our race.
 
 "This Rama, the son of Dasaratha, a strong man along with Sugreeva, having crossed
 the ocean, is cutting short our race."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -709,8 +679,6 @@ coming; *sukham* = happily; *setunaa* = by a bridge; *vanaani* = the forests;
 
 "Alas! See! Coming happily by a bridge, the forests and groves have been covered
 with an ocean full of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -763,8 +731,6 @@ were not even defeated before; *kadaachana* = at any time; *yuddhe* = in combat.
 "The monkeys killed very important demons in battle. I do not envisage, in any way,
 the destroyable of monkeys on the battle-field. It seems the monkeys were not even defeated at any
 time before, in a combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -806,8 +772,6 @@ purpose.
 
 "O mighty Kumbhakarna! Such a danger has arisen. You have to help us now. Get them
 destroyed now. You have been woken up solely for that purpose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -848,8 +812,6 @@ destroyed now. You have been woken up solely for that purpose."
 
 "Rescuing me, whose treasury has become completely diminished, you protect this city
 of Lanka, where only the children and the aged are left over."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -899,8 +861,6 @@ me.
 "O the great armed Kumbhakarna. For the sake of your brother, perform this act,
 which is very difficult to do. O brother, the annihilator of enemies! In this way, I did not
 request anyone ever before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -960,8 +920,6 @@ celestials and demons; *nirjitaaH* = (they) were defeated; *tvayaa* = by you;
 "I have a great respect and affection towards you. O the foremost of demons! For
 several times, in battles between gods and demons, you conquered the celestials and demons, after
 attacking them in the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -978,8 +936,6 @@ bhuuteSu* = in all beings.
 
 "O Kumbhakarna of terrible prowess! Therefore, show your entire prowess. There is
 indeed no one, in the entire beings, who is equal to you in strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 
@@ -1031,8 +987,6 @@ an autumnal cloud (is blown away); *mahaan udyataH pavanaH* = by a high-rising w
 "O Kumbhakarna, delighting in war and feeling affection for relatives! Perform this
 excellent act, which is dear and beneficial to me, as per your liking. Blow away the army of
 adversaries by your vital power, as an autumnal cloud is blown away by a high-rising wind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>
 </details>
 

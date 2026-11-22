@@ -17,8 +17,6 @@ Vishvamitra tries to gain Kaamadhenu, but Sage Vashishta persistently refuses Vi
 and barters. 'When an ordinary cow alone is held sacred and it is an un-marketable commodity, how then
 can Shabala, a milker of any wish, be given away or bartered for other riches...' is the argument of
 Vashishta. Yet, Vishvamitra goes on his bidding, but in vain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ all those; *kaamaan* = fancies; of foodstuffs; *vidadhe* = bestowed.
 that milker bestowed each and every fancy, fancied by each and every fancier, according to one's own
 fancy." Thus Sage Shataananda continued the legend of Shabala or Kaamadhenu, as a part of the legend
 of Vishvamitra to Rama and others. [1-53-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ from dates in Arabia, and from sugar-cane and rice in India,] also; *mahaarhaaNi
 Shabala bestowed dishes of sugar cane and honey, and flakes of all sorts, like cornflakes, rice-flakes,
 also best arracks and liquors in best wineglasses, further, the drinks and foodstuffs that are very
 diverse and verily apposite to royalties and army-men. [1-53-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -201,8 +195,6 @@ like butter, ghee, cheese etc. Thousands of silver dishes and hollowware fully r
 soft drinks, like that full with sugar-candy preparations, and with preparations that comprise all the
 six tastes have come up together with delectable foodstuffs made out of treacly dumplings of cane sugar.
 [1-53-3, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ it became.
 Oh, Rama, all of the men in the forces of Vishvamitra, who are already rejoiced and regaled by the
 regular feasts accorded by their king Vishvamitra, are now comparatively well gladdened when feasted
 by Sage Vashishta, in which they rejoiced and regaled, for a good measure. [1-53-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -293,8 +283,6 @@ kingly sage; *vishvaamitraH raajaa api* = Vishvamitra, king, even; *hR^iSTapuSTa
 Partaking that feast together with the best royal ladies of palace chambers, and with the court-scholars
 and the court-priests even the king Vishvamitra, who by his nature is a kingly sage, became exultant
 and energetic. [1-53-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -335,8 +323,6 @@ mantrisahitaH* = along with advisers, minister; *sabhR^ityaH* = with attendants
 
 When honoured along with his advisers, ministers and attendants by way of receiving a royal banquet,
 king Vishvamitra then in high admiration spoke this to Vashishta. [1-53-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -378,8 +364,6 @@ king Vishvamitra then in high admiration spoke this to Vashishta. [1-53-7]
 
 You showed me a generous hospitality whereby I am esteemed by an estimable sage like you, oh, expert
 in sententiousness, now I wish to say for myself to which you may please listen. [1-53-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -425,8 +409,6 @@ this [cow] is mine - belongs to me as a rule.
 'Oh, godly sage, this Shabala may be given to me for a barter of a lakh, a hundred thousand, cows.
 Indeed this do-all cow is a treasure, and the kings are the gatherers of treasures. Therefore bestow
 this cow to me. As rule this cow also belongs to me.' Thus Vishvamitra said to Vashishta. [1-53-9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -473,8 +455,6 @@ spoke - replied in turn to the king.
 
 When Vishvamitra addressed him in that way, the reverential sage Vashishta, who is a virtue-souled
 eminent saint, on his part replied the king in this way. [1-53-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -517,8 +497,6 @@ hundred thousand; *shabalaam na daasyaami* = I will not afford Shabala; *koTisha
 
 I cannot afford Shabala, neither by the barter of a hundred thousand cows, nor by hundreds of millions
 of cows, nor by lots and lots of silver, either. [1-53-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -536,8 +514,6 @@ Abandoning her from my proximity is unmeet for her, oh, enemy-subjugator, you ca
 me terroristically and try to wean this cow away from me, as Shabala is everlastingly and inseparably
 mine, as with the everlasting and inseparable respectability of a self-respectful person. [1-53-12b,
 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -593,8 +569,6 @@ on her.
 This cow makes the journey of my life possible. Oblations to gods or manes, enkindling of Ritual-fire,
 religious sacrifices, homa-s, the sacred rituals conducted as
 darshapaurNamaasi, all are dependent on her. [1-53-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -654,8 +628,6 @@ mine...' So also the *vaSaT* is annexed to the hymns addressed to manes. To lear
 shall be eligible to perform a Fire-ritual, and if Fire-ritual is performed, some basic Vedic hymns
 are to be learnt, and all this is a cyclic affair, requiring much paraphernalia. This cow supplies everything
 at wish, without a hassle, either to the teacher or to the taught.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -698,8 +670,6 @@ tava na daasye* = I do not afford Shabala to you.
 
 "In truth, this cow is everything to me and ever-gratifier, that way by so many reasons, oh, king,
 I cannot afford Shabala to you or to anyone." So said Vashishta to Vishvamitra. [1-53-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -740,8 +710,6 @@ verily reasoning [argumentatively]; *samrabdhataram* = muchly [compellingly] wit
 
 Though Vashishta spoke thus Vishvamitra being an expert in sententiousness then spoke this sentence
 compellingly and argumentatively. [1-53-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -791,8 +759,6 @@ _________________
 
 I bestow upon you fourteen thousand elephants adorned with golden girdles, golden necklets and golden
 goads. [1-53-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -836,8 +802,6 @@ bells; *aSTau shataani* = eight, hundred; *te dadaami* = I will give to you
 
 I will grant you eight hundred golden chariots whichever can be yoked on with four whitely-white
 horses trimmed up with the sets of tintinnabulating bells. [1-53-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -859,8 +823,6 @@ horses trimmed up with the sets of tintinnabulating bells. [1-53-18b, 19a]
 
 I grant you, oh, superbly vowed sage, eleven thousand fleetly galloping horses of high pedigree born
 in best countries of best horse breeding. [1-53-19b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -876,8 +838,6 @@ in best countries of best horse breeding. [1-53-19b, c]
 
 I award ten million diversely coloured and differently divisionalized cows, whichever of them will
 be came of age as milker, thereby, let this do-all cow Shabala be given to me. [1-53-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -918,8 +878,6 @@ be given to me.
 
 "Or, oh, eminent Brahman, if you yearn either for gems or gold, I gift that much of everything as
 much as you can yearn, let Shabala be given to me." Thus Vishvamitra entreated again. [1-53-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -960,8 +918,6 @@ clearly said.
 
 When the shrewd king Vishvamitra spoke to the reverential sage Vashishta, that sage has clearly said,
 'whatever it is oh, king, I do not surrender Shabala, the cow.' [1-53-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -1009,8 +965,6 @@ Really this alone is my gemmy cow, thus I do not require your jewels or gems... 
 is my treasure, thus I do not require your gilded chariots, horses or elephants... really, this alone
 is my everything, thus I need nothing from you... and actually, this alone is my alter-ego, thus you
 cannot separate me from myself. [1-53-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -1052,8 +1006,6 @@ vividhaaH kriyaaH ca* = divers, activities, also; *etat eva hi* = this, alone, i
 This alone is my darsha-puurNamaasa rituals, and like that this alone
 is all my Vedic-rituals with worthwhile donations and oh, king, this essentially is of service in diverse
 activities of mine. [1-53-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 </details>
 
@@ -1104,8 +1056,6 @@ _________________
 " Oh, king, all of my activities are instated in this cow, then wherefore a lot of palavering a bargain
 or barter? I do not give away this milker any wish." So said Vashishta to Vishvamitra, and thus Sage
 Shataananda continued his narration of the legend of Sacred Cow. [1-53-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

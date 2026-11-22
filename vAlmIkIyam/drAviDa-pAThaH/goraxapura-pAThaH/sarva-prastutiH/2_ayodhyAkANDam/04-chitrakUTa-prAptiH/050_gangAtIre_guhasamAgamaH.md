@@ -15,8 +15,6 @@ title_english = "050 Rama bids farewell to his birth place"
 
 Rama bids farewell to his birth-place Ayodhya and reaches the bank of the holy
 Ganga. There, Nishadas offers welcome reception to Rama and others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ with joined palms; *abraviit* = spoke; *vaakyam* = (the following) words.
 
 Having traveled the extensive and beautiful Kosala territory and standing with his
 face turned towards Ayodhya, the wise Rama with joined palms spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ boundaries."
 
 "I bid farewell to you, Oh best of the cities, carefully protected by Dasaratha born
 in Kakutstha dynasty, as well as of the deities who protect you and dwell in you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ with my father."
 
 "After getting relieved from exile in the forest and thus freed from the debt to the
 emperor, I shall see you again, duly getting united with my mother and father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ from countryside.
 Lifting his right arm and wearing a woeful look, his face covered with tears, Rama
 possessing lovely reddish eyes, spoke them to the people hailing from the countryside.(as follows)
 :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ desired object (viz. attending to your house-hold work)."
 "Mercy and compassion according to my worth (in your view) have been shown to me by
 you. Keeping agony for a long time is undesirable. Let each return to accomplish your desired
 object(attending to your house-hold work)!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -318,8 +306,6 @@ respect); *te naraaH* = those men; *vyatishhTanta* = stood; *kvachit kvachit*
 
 Respectfully saluting the high soled prince and going round him clockwise (as a mark
 of reverence), those men stood rooted here and there, wailing frightfully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -366,8 +352,6 @@ yathaa* = as the sun; *kshhaNadaamukhe* = at nightfall.
 
 While they were lamenting thus unceasingly, Rama passed beyond their sight, as the
 sun sinks out of view at nightfall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -437,8 +421,6 @@ danger, pleasing, full of temples and sacrificial stakes, adorned with gardens a
 intersected by ponds full of water, populated by contented and well nourished people, abounded in
 herds of cows which deserved to be seen by all kings and which re-echoed to the chanting of
 religious texts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -485,8 +467,6 @@ lovely gardens; *bhogyam* = fit to be enjoyed; *narendraaNaam* = by kings.
 
 Rama, the best among the resolute, moved into the middle of a happy and prosperous
 kingdom, abounding in lovely gardens and fit to be enjoyed by kings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -534,8 +514,6 @@ nishhevitaam* = and frequented by sages.
 
 There, Rama beheld the celestial and lovely river of Ganga with its tree
 tributaries, carrying clear waters without green moss and frequented by sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -584,8 +562,6 @@ rapture.
 The River Ganga was adorned with splendid hermitages within easy distance from one
 another, with pools overflowing with water, visited at suitable hours by celestial nymphs thrilling
 with rapture.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -626,8 +602,6 @@ Nagas and Gandharvas.
 
 The blessed river was graced by gods and demons, Gandharvas(celestial musicians) and
 kinnaras and was constantly visited by consorts of Nagas and Gandharvas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -676,8 +650,6 @@ the benefit of gods; *vikhyaatam* = (and which in heaven) was named; *devapadmin
 The well known river was hemmed in by hills serving as the play- ground of hundreds
 of celestials and embellished with hundreds of celestial gardens; it coursed through the heavens
 for the benefit of gods and which in heaven was named "The stream of Golden Lotuses".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -727,8 +699,6 @@ The holy river, the sound of whose clashing waves and its striking with rocks
 resembled a deep laughter, having a bright smile as white as a foam, its waters reduced at some
 places to the shape of a maiden's plaited locks, was rendered beautiful at some places by whirl
 pools.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -777,8 +747,6 @@ niHsvanaam* = having a terrific noise.
 At some places, its waters were still and deep. At some places, they were disturbed
 with violent agitation. At some places, they made a deep roaring sound. At some places, they were
 having a terrific noise
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -828,8 +796,6 @@ places; *nirmala vaalukaam* = lined with white sands.
 
 Hosts of gods took a dip into its water .It was adorned by white lotuses. It was
 hemmed in, with expanse of small islands and at some places, lined with white sands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -878,8 +844,6 @@ mate by night.
 The river was rendered resonant by swans and cranes, was graced with cackling of
 Chakrawaka** birds and other birds which are in rut all through the year kept hovering on its
 water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -921,8 +885,6 @@ crowded with thick cluster of lotuses.
 
 At some places the river was adorned with trees growing on its banks encircling like
 garlands, at some places crowded with thick cluster of lotuses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -970,8 +932,6 @@ of numerous flowers; *samadaam iva* = as though excited with passion.
 At some places, it was graced with beds of water lilies in the form of buds and at
 some places, it was reddened with the pollen of numerous flowers, as though excited with
 passion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1025,8 +985,6 @@ Having every aggregation of dirt removed, the river presented a spotlessly clear
 appearance like a crystal. The interior of the forest was reddened noisy again and again by the
 elephants guarding the quarters, by the ruttiest wild elephants and the elephants of excellent
 breed used for riding by gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1083,8 +1041,6 @@ best of jewels. nishhevitaam = infested with; *shimshumaaraishcha* = dolphins;
 Surrounded by fruits and flowers and tender leaves, shrubs and birds, it looked like
 a young woman artistically decked with the best of jewels. The river was infested with dolphins,
 crocodiles and snakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1148,8 +1104,6 @@ Rama, the mighty armed, reached the river Ganga, which is devoid of sins and whi
 dispels all sins, which had fallen from the mass of matted hair of Lord Shankara through the
 spiritual power of Emperor Bhagiratha, which is rendered noisy by cranes and herons, which is a
 consort of the ocean and which is in the vicinity of Sringaverapura(the modern Singraur).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1197,8 +1151,6 @@ today."
 
 Beholding the river Ganga with its waves covering whirlpools, Rama the great warrior
 said to Sumantra the charioteer as follows: "We shall halt here itself today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1245,8 +1197,6 @@ many flowers and shoots. VasaamaH = (We) shall stay; *atraiva* = here itself."
 
 "Oh, charioteer! Not far from the river stands this very large sacred fig tree with
 its many flowers and shoots. We shall stay here itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1296,8 +1246,6 @@ salilaam* = whose waters are respectable."
 
 "I shall see (from here) the excellent river Ganga, which is auspicious and whose
 waters deserve to be respected by gods, men, Gandharvas, beasts, reptiles and birds ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1344,8 +1292,6 @@ and Sumantra; *tadaa* = then; *upayayatuH* = approached; *hayaiH* = by horses;
 
 Saying �so be it' and nothing more to Rama, Lakshmana and Sumantra too then directed
 the horses to that sacred fig tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1396,8 +1342,6 @@ Lakshmana.
 
 Rama, the delight of Ikshvaku dynasty, reached that beautiful tree and got down from
 the chariot along with Sita and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1444,8 +1388,6 @@ near; *raamam* = Rama; *vR^ikshha muula gatam* = at the foot of the tree.
 
 Sumantra too dismounted from the chariot, unyoked the superb horses after which with
 joined palms, he seated himself near Rama at the foot of the tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1492,8 +1434,6 @@ his life; *nishhaada jaatasya* = Nishada by birth; *balavaan* = a strong man;
 
 There, a king named Guha was Rama's friend dear to him as his own life. He was
 Nishada by birth, a strong man and well known as a ruler of Nishadas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1541,8 +1481,6 @@ ministers; *G^yaatibhishcha* = and relatives.
 
 Hearing of Rama the tiger among men having come to his territory, he approached the
 prince, escorted by elderly ministers and relatives.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1589,8 +1527,6 @@ thereupon; *samaagachchhat* = went forth to meet; *guhena* = Guha.
 
 Seeing from a distance the king of Nishada coming, Rama along with Lakshmana
 thereupon went forth to meet Guha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1643,8 +1579,6 @@ you? mahaabaaho = Oh; *mighty armed! kaH hi* = who indeed; *praapsyasi* = will g
 Closely embracing Rama, Guha who felt disturbed, spoke to him, "This city too is as
 much as Ayodhya to you. What can I do for you? Oh mighty armed! Who indeed will get such a lovely
 guest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1706,8 +1640,6 @@ kinds; *tataH* = (he) then; *kshhipram* = quickly; *upaanayat* = offered
 
 Having brought pristine cooked rice of excellent quality and other dishes of various
 kinds, he then quickly offered him water to wash his hands and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1729,8 +1661,6 @@ efficiently."
 
 "Welcome to you, Oh, mighty armed! All this land is yours. We are your servants. You
 are the Lord. Rule over our kingdom in an efficient way."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1746,8 +1676,6 @@ food; *te* = for your; *vaajinaam* = horses."
 
 "Here have arrived various kinds of dishes, drinks and syrups as also excellent beds
 (for you to sleep on) and food for your horses"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1818,8 +1746,6 @@ show of affection; *hR^ishhTaashcha* = and are pleased(with you)."
 
 To Guha who was speaking as aforesaid, Rama replied thus: "We stand honored by you,
 by your very visit to us on foot, as well as your show of affection and are pleased with you"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1839,8 +1765,6 @@ the treasure?"
 Pressing gently with his muscular arms, Rama spoke these words: " Oh, Guha! Thank
 heaven that I am seeing you in good health with your relatives. Is all well with the kingdom, the
 allies and the treasure?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1887,8 +1811,6 @@ indeed to; *pratigrahe* = accept."
 
 "I know your affection by which all this is extensively well arranged by you. But I
 am not in a position indeed to accept it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1939,8 +1861,6 @@ roots."
 
 "Know me as under a vow to be an ascetic, wearing the robes of bark and deerskin and
 by piety, I am determined to live in the forest by eating roots and fruits only."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -1988,8 +1908,6 @@ by you."
 
 "I desire nothing but a little forage for the horses. By being provided with this
 much at the present moment, I shall be duly satisfied by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -2036,8 +1954,6 @@ ashvaiH* = by these horses; *suvihitaiH* = being duly fed."
 
 "These horses were cherished by the king Dasaratha, my father. I shall feel honored
 by these horses being duly fed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -2088,8 +2004,6 @@ horses."
 
 Then Guha on that spot commanded his men as follows: "Let water for drinking and
 forage be supplied promptly to horses"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -2140,8 +2054,6 @@ made of bark; *tataH* = (Rama) then; *aadade* = took; *bhojyam* = for food;
 
 Having worshipped the evening twilight appearing in the west, with an upper garment
 made of bark(on his person); Rama then took for food only water brought by Lakshmana himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -2192,8 +2104,6 @@ against; *vR^ikshham* = a tree.
 
 Having washed the feet of Rama who was lying on the ground along with his consort,
 Lakshmana then came and stood near a tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -2240,8 +2150,6 @@ alertly; *anvajaagrat* = kept a vigil; *raamam* = over Rama.
 
 Guha too along with the charioteer conversed with Lakshmana and thereafter wielding
 a bow; alertly kept a vigil over Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 </details>
 
@@ -2302,8 +2210,6 @@ deserved all comforts; *shayaanasya* = remained lying; *tataH* = thereafter;
 The illustrious, lofty minded and the high-soled son of Dasaratha, who had never
 seen suffering and who deserved all comforts, remained lying on the ground thereafter, while that
 long night passed away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

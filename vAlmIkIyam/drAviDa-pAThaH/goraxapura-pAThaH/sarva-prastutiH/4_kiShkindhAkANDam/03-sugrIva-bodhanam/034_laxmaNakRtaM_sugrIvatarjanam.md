@@ -17,8 +17,6 @@ IV : Kishkindha Kanda - The Holy Empire of Monkeys**
 Lakshmana enters the interior of Sugreeva's chamber. Sugreeva finding him there is
 alarmed and approaches him in all his humbleness. Then Lakshmana chastens Sugreeva with harsh words
 and cautions him to face the wrath of the arrows of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -109,8 +107,6 @@ indriyaH* = with agitated, senses; *babhuuva* = became.
 
 On seeing the illustrious Lakshmana who entered unimpededly and infuriately,
 Sugreeva became one with agitated senses. [4-34-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -131,8 +127,6 @@ On seeing Lakshmana, the son of Dasharatha, who is exasperated and exhaling heav
 and who searing in the anguish of his brother is flaring up like a firestorm, Sugreeva hopped up
 from his golden seat and tottered like the highly decorated flagstaff of Indra, which will be
 wobbly before it is thrown to ground after the ritual. [4-34-2, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -180,8 +174,6 @@ candram* = = in sky, with full, moon; *taaraa gaNaa iva* = stars, cluster, as wi
 While Sugreeva is jumping up stumblingly, stumbled with him are Ruma and the other
 females in tow, who are so far clinging to him, like the clusters of stars that spring up on the
 emergence of full moon in sky. [4-34-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -239,8 +231,6 @@ This kalpa vR^iksha is a mythological tree that fulfils any expectation of its d
 sought in earnest. There is another of this kind called kaama dhenu 'wish-fulfilling cow' which does the same function for which many mythological
 wars were waged. This attribute, all-endower, is sometimes given to Lakshmana in this verse, but
 here Sugreeva is the giver and Lakshmana is the taker, so this belongs to Sugreeva now.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -290,8 +280,6 @@ females, amid, one who is; *sthitam* = staying; *sugriivam* = to Sugreeva;
 
 Infuriate Lakshmana spoke to Sugreeva who like the star clustered moon is standing
 with his wife Ruma at his side amid other vanara females. [4-34-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -339,8 +327,6 @@ mahiiyate* = in world, thrives.
 
 "One who is dynamic, abounding with best troopers, sympathetic, senses conquered, a
 faithful one and an advocate of truth, he alone thrives as a king in the world. [4-34-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -389,8 +375,6 @@ there.
 
 "He who is enthroned as a king but anchored himself to dishonesty and makes fake
 assurances to helpful friends, who can be more ruthless than him? [4-34-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -463,8 +447,6 @@ viShaye anR^ite sa baandhavaH svayam eva narakam tiryak yoni vaa praapnoti iti u
 hanti gava anR^ite - - dk*& and he goes on quoting Prahlaada and Dudhanva discussion in
 Maha Bharata, Udyoga parva. Killing the already dead souls is lesser sin than the killing of living
 beings and committing suicide.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -507,8 +489,6 @@ treacherous one; *saH* = he is; *sarva bhuutaanaam* = for all, beings;
 
 "He who gets his means fulfilled earlier through his friends but does not requite
 them, oh, king of monkeys, such a treacherous one is eliminable for all beings. [4-34-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -564,8 +544,6 @@ which is reverenced by all the worlds, you too may know it. [4-34-11]
 Here Brahma may either be the Four-faced creator of worlds or His brainchild
 Svayambhu Manu who constructed the
 *manu dharma shaastra*'the moral and social code for humans.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -614,8 +592,6 @@ available.
 " 'The savants have ordained atonement for slayers of cows, for drinkers of liquors,
 thus for thieves and infringers of solemnity, but no atonement is available to a treacherous
 person. [4-34-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -664,8 +640,6 @@ you word, also.
 "Oh, Vanara, firstly you have got your purpose fulfilled and by that reason you are
 not reciprocating help to Rama, thereby you are an uncultured and unfriendly one, and illusive is
 your word of honour. [4-34-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -713,8 +687,6 @@ duty.
 
 "Oh, Vanara, you achieved your means through Rama, and Rama is wishing for his
 endeavour through you, and I wonder whether the search for Seetha is not your duty? [4-34-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -758,8 +730,6 @@ with frog's, sounding - croaking, as a serpent; *na vijaaniite* = not, realized.
 
 "An illusive promisor basking in churlish pleasures, such as you are, Rama has not
 realised that you are a serpent with the croaking of a frog. [4-34-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -801,8 +771,6 @@ kingdom, made as gained - you got kingdom indirectly.
 
 "By the highly prudent and compassionate Rama, you the sinner got the kingdom of
 monkeys, and it is a gain of an evil-soul from a noble-soul. [4-34-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -852,8 +820,6 @@ killed; *vaalinam drakSyasi* = Vali, you will see.
 
 "If you do not recognise what the noble-souled Raghava has done to you, you will be
 instantly killed with incisive arrows enabling you to see Vali. [4-34-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -905,8 +871,6 @@ path is not tapered off, as such do not tread Vali's path. [4-34-18]
 
 This verse is the same as the one at 4-30-81 in Rama's words and Lakshmana is
 reproducing the same.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 </details>
 
@@ -962,8 +926,6 @@ luxuries, you are enjoying, probably; *manasaa api* = at heart, even; *raama kaa
 "Definitely you are not envisaging the Thunderbolt similar arrows from the bow of
 the best one from Ikshvaku dynasty, Rama, thereby you are enjoying luxuries joyously without giving
 a thought to Rama's mission even at your heart. [4-34-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

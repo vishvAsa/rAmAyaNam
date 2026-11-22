@@ -19,8 +19,6 @@ enervated monkeys to come to their animation. He points out to the wrath of Sugr
 consequences, if the monkeys fail to implement Sugreeva's directive. Though all are fatigued to
 ramble in wildwoods, where even potable water is scarce, they are invigorated by Angada's advises
 and again start searching Vindhya ranges, from the beginning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ all of the, vanara - s, on comforting; *tadaa* = then; *shanaiaH idam vacaH abra
 
 Then on comforting all of those vanara-s the highly diligent one but overly tired
 Angada slowly spoke this word to them. [4-49-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ kR^itii* = ill, natured one; *rakSaH ca* = demon, also - not seen.
 mountains, and rivers, and unfathomable cavities and in mountain caves up to their end, but we have
 not seen Janaki, so also that ill-natured demon, the abductor of Seetha, is not seen. [4-49-2,
 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ all; *sahitaaH samantataH vicinvantu* = collectively, all over, let search be co
 
 "We started a long time back and a great deal of time is lapsed, and Sugreeva is a
 severe disciplinarian, therefore let the search continued everywhere collectively. [4-49-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -229,8 +221,6 @@ siitaam* = Janaka's, daughter, Seetha; *[yathaa ] pashyaamaH* = [as to how,] we 
 "Surrender not to sluggishness, submit not to sorrowfulness, slouch not to sleep, as
 these lethargies are presently have come up against you. Let all of you search in such a way how
 best we can find the daughter of Janaka, Seetha. [4-49-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -289,8 +279,6 @@ anena
 anirvedaadayaH kaarya siddhikaraa iti uktam - tathaa ca - bhaarate - udyoge viduraH - anirvedaH
 shriyo muulam dharmasya ca | mahaan bhavati anirvisaNNo bhayam na mahat dR^icchati | -
 dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ this, forest, in entirety, let it be searched.
 
 "Even now the forest dwellers can search this impenetrable forest, thus get rid of
 your rue and let all of this forest be searched in its entirety. [4-49-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -390,8 +376,6 @@ definitely, it is perceptible -will become evident; *param* = if not, on the oth
 "Fruit of pursuit will definitely be evident for those who undertake an endeavour
 earnestly, on the other hand, it will be unforgivable to shut our eyes deriving a high dejection.
 [4-49-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -439,8 +423,6 @@ self-reliant one, of Rama, also; *satatam* = always; *[naH* = for us];
 
 "King Sugreeva is irascible and he is a ruthful persecutor too, oh, vanara-s, we
 shall always be frightened of him, and of self-reliant Rama as well. [4-49-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -493,8 +475,6 @@ that, may be said, indeed.
 you it may be done in this way as I have said, if not, any other way out is there which will be
 conducive for all of us, oh, vanara-s, it may be said." Thus Angada spoke to the troops of monkeys.
 [4-49-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ uvaaca* = sentence, said.
 
 On hearing Angada's words, Gandhamaadana who is enervated with thirst and fatigue
 spoke this sentence with inexplicit words. [4-49-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -583,8 +561,6 @@ bhaaSitam kriyataam* = his, as said, may be done.
 
 "What Angada has said that is indeed appropriate, isn't it! It is advantageous and
 pragmatic also. Let us carry out as said by him. [4-49-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -631,8 +607,6 @@ uninhabited, forests, also; *giri prasravaNaani ca* = mountain, rapids, too;
 
 "Again let us search out mountains, caves, crags, also like that the uninhabited
 forests and mountain rapids, too. [4-49-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -680,8 +654,6 @@ indicated; *sarvaaNi giri durgaaNi* = all of the, mountain, gorges; *vanam* = fo
 "Let us all collectively search all of the places with forests, mountains and gorges
 as indicated by that self-assertive Sugreeva." Thus Gandhamaadana spoke to all monkeys.
 [4-49-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -728,8 +700,6 @@ ones, those, vanara-s; *punaH samutthaaya* = again, on getting up - bestirring t
 
 Those great-mighty vanara-s again perking themselves up searched the southern
 compass that is overspread with Vindhya forests. [4-49-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -804,8 +774,6 @@ Those vanara-s who are the best among monkeys who are desirous of getting a glan
 of Seetha have clambered up a magnificent Silver Mountain which in statuesque is like an autumnal
 silvery cloud, and which has many zeniths and caverns, and searched there in the delightful woods
 of Lodhra trees, and even in the groves of seven-leaved banana plants. [4-49-16, 17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -853,8 +821,6 @@ queen, at Vaidehi; *na pashyanti sma* = not, seen [found,] they are.
 Though they searched everywhere on ascending the mountaintop they have not found
 Seetha, the dear queen of Rama, and though they are immensely venturesome they are fatigued.
 [4-49-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -898,8 +864,6 @@ mountain; *dR^iSTvaa* = having seen - searched; *sam antataH* = all over;
 
 On searching what all they could see all over on that many caved mountain those
 monkeys descended yet keeping an eye on all over that mountain. [4-49-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -949,8 +913,6 @@ staying; *atha vR^ikSa muulam upaashritaaH* = then, at tree, base, took shelter.
 
 Then on climbing down the mountain they reached ground and became tired and inane,
 and staying there for moment they took shelter at the base of a tree. [4-49-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -997,8 +959,6 @@ udyataaH* = to search ventured.
 
 They took respite for a moment and when their laboriousness intermitted a little,
 again they ventured to search the southern direction in its entirety. [4-49-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 </details>
 
@@ -1047,8 +1007,6 @@ searched - for Seetha.
 Again making Mt. Vindhya as the starting point of search, those best fly-jumpers,
 namely Hanuma and the other chieftains of vanara-s, have searched all over the southern direction
 for Seetha. [4-49-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga49/kishkindhasans49.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

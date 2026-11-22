@@ -15,8 +15,6 @@ title_english = "008 Description of the Pushpaka"
 V : Sundara Kanda - Book Of Beauty**
 
 This chapter describes Pushpaka in glorious and amazing detail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -82,8 +80,6 @@ gold.
 That Hanuma the courageous one, the son of Lord Vayu, saw the great aerial plane
 standing in the middle of that building with a surprising hue, due to diamonds, and gems decorated
 by series of refined gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
 </details>
 
@@ -143,8 +139,6 @@ praised by him; *aprameyaapratikaarakR^itrimam* = one without comparison in beau
 That plane shone like symbol for solar path standing in the aerial path obtaining
 the sky. Manufactured by Vishvakarma himself and praised by him as one without comparison in
 beauty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
 </details>
 
@@ -205,8 +199,6 @@ nothing; *na mahaavisheshhavat* = that is not great significance.
 In that plane there is not even a small thing that is not made with great effort, in
 that there is nothing without the best diamonds, those characteristics definitely are not in Devas
 also, in that there is nothing that is not of great significance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
 </details>
 
@@ -266,8 +258,6 @@ significance; *tataH tataH* = (collected from) here and there
 One that has been obtained by austerities and by prowess, one that moves about by
 thoughts of concentrated mind, made from various significant parts with an appearance of parts of
 equal significance, collected from here and there from all over the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
 </details>
 
@@ -328,8 +318,6 @@ moon; *shikaram yadaa* = like the peak; *gireH* = of a mountain;
 Obtaining a special construction as a special object, like a mountain with wonderful
 peaks adorned by many peaks, attractive to soul, calm like an autumnal moon, like the peak of a
 mountain with other wonderful small peaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
 </details>
 
@@ -390,8 +378,6 @@ round eyes; crooked eyes and wide eyes; *mahaajavaaH* = capable of great speed;
 Hanuma saw that aerial plane which rakshasas who were great eaters, with a face
 beautified by earnings, who roamed around in the sky and thousands of genii with round eyes,
 crooked eyes and wide eyes capable of great speed carrying it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
 </details>
 
@@ -462,8 +448,6 @@ flowers during spring; *kaantadarshanam* = a more attractive appearance;
 That Hanuma the best among Vanara warriors saw there a best plane with the name of
 Pushpaka with a more beautiful appearance than a group of flowers during spring, a more attractive
 appearance than even the spring season.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga8/sundarasans8.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

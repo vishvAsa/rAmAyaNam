@@ -20,8 +20,6 @@ conduct prescribed for a kshatriya, Bharata requests Rama to allow him to remain
 the latter's proxy. Rama, however, rules out this proposition also, saying that it is a matter of
 reproach. He reaffirms his resolve to enter Ayodhya only after implementing the pledge given to his
 father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ following) further words; *dharmasamyuktam* = which were righteous.
 
 Having spoken thus to Rama, Vasishta the royal priest added the following righteous
 words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ words:
 
 "O, Kakutstha, O offspring the Raghu dynasty! From birth, the three spiritual
 instructors of a man are his teacher, his father and his mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ superior.
 
 "O, excellent among men! The father of man his life. The teacher instructs him in
 wisdom and therefore instructs the teacher is said to be the superior!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ vachanam = words; *tvam* = you; *naativartate* = will not transgress; *niitim*
 
 "O, Rama the tormentator of the enemies! I am the spiritual Preceptor to your father
 and to you too. In obeying my words, you will not transgress the path of the virtuous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ the righteous.
 "O, dear prince! These subjects, the traders, the other categories of people and
 Brahmana are your people only. In fulfilling your duty to them, you will not be transgressing your
 righteous path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ path; *sataam* = of the virtuous.
 "You ought not to be lacking in reverence to your mother who is aged and possessing
 a noble conduct. By carrying out her words, you will not deviate from the path of the
 virtuous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -368,8 +354,6 @@ truth and virtue!; *kurvan* = by fulfilling; *vachaH* = the words;
 
 "O, Rama excelling in truth and virtue. By fulfilling the words of the beseeching
 Bharata, you will not be false to yourself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -416,8 +400,6 @@ Bharata, you will not be false to yourself."
 
 Having heard the sweet words spoken by his spiritual preceptro himself, Rama the
 excellent among men replied (as follows) to Vasishta who was seated there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ father; *tat tu* = that however; *na suprati karam* = cannot be requited.
 "The good, which a father and mother do, by giving whatever they can, to their son
 constantly, by putting him to sleep, rubbing his body with oil etc, nay, by speaking kindly to him
 every moment, and even by nourishing him, can never be wholly requited."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -523,8 +503,6 @@ every moment, and even by nourishing him, can never be wholly requited."
 
 "The command laid upon me by king Dasaratha, my father, who begot me, cannot
 therefore be disregarded."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ Sumantra the charioteer; *pratyanantaram* = who was standing nearby.
 
 Hearing Rama's words, the most generous Bharata felt very mcuh anguished and
 addressed the following words to Sumantra the charioteer who was standing nearby:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -626,8 +602,6 @@ does not get me propitiated.
 
 "O, charioteer! Spread speedily the Kusha grass on the ground here for me. I shall
 remain facing my illustrious brother till he gets propitiated (and grant my request)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -645,8 +619,6 @@ pratiyaasyati* = he does not return to Ayodhya; *dvijaH yathaa* = like a brahman
 "I shall remain lying down in front of Rama's hut without food or drink and
 depriving myself of light until he returns to Ayodhya, like a brahman who is a destitute (lies down
 at the door of his crditor)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -697,8 +669,6 @@ and spread it; *bhuumau* = on the floor.
 
 Seeing Sumantra who was gazing at Rama waiting for his command, the low-spirited
 Bharata, on his own, brought a heap of Kusha grass and spread it on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -749,8 +719,6 @@ you lie = down; *maam* = before me?
 
 Rama of great splendour and the best among royal sages spoke to Bharata as follows:
 "O Bharata my dear brother! What wrong have I done that you lie down before me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -798,8 +766,6 @@ obstructing men.
 
 "A brahmana may lie down on one side in order to obstruct a willful debtor in this
 world. But, it is not befitting for a warrior-class.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -850,8 +816,6 @@ men!; *hitvaa* = giving up; *etat* = this; *daaruNam* = formidable;
 
 "O Bharata, Tiger among men! Giving up this formidable resolve, rise up proceed
 speedily to Ayodhya the best of cities, from here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -900,8 +864,6 @@ venerable brother (to return)
 Still sitting in the same posture, Bharata looked at the citizens and rural folk
 around on all sides and asked them why they were not entreating his venerable brother to
 return.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -948,8 +910,6 @@ Rama; *raaghavaH* = Rama; *vadati* = is speaking; *samyak* = rightly.
 
 Those people, the inhabitants of town and country replied to the magnanimous Bharata
 as follows: "We know Rama very well. He is speaking rightly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -996,8 +956,6 @@ words; *ata eva* = for that reason; *na smaH* = we are not; *shaktaaH* = able;
 
 "This Rama of exalted merit is indeed standing on his father's words. Hence, we are
 not able to convince him to return to Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1044,8 +1002,6 @@ friends; *dharma chakSuSaam* = who see rightly; *evam* = thus.
 
 Hearing their words, Rama said to Bharata: "Reflect on the words of your companions,
 who see rightly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1093,8 +1049,6 @@ you; *uttiSTha* = rise up; *spR^iha* = and touch; *maamcha* = me;
 
 "O the mighty armed Bharata! Having listened to their testimony and mine, reflect on
 the matter carefull. Rise and touch me and drink water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1153,8 +1107,6 @@ _________________
 
 Thereafter, Bharata rose, touched water and spoke as follows: "Let the audience,
 including ministers and the guild of traders hear me also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1172,8 +1124,6 @@ his duty very well.
 "I never asked my father for the kingdom, nor did I counsel my mother to enthrone
 me. I never gave my approval for the exile of Rama, the venerable hero, who knows his duty very
 well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1223,8 +1173,6 @@ will live; *vane* = in the forest; *chaturdasha samaaH* = for fourteen years.
 
 "If it is absolutely essential that one of us should remain here and the command of
 our father be executed, then it is I who will reside in the forest for fourteen years."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1272,8 +1220,6 @@ follows)
 
 The high-souled Rama was surprised by the sincere words of his brother and by
 looking at the inhabitants of town and country, spoke (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1324,8 +1270,6 @@ Bharata.
 
 "The disposal, the pledge and the come-by which he was alive, cannot be broken
 either by me or by Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1376,8 +1320,6 @@ done; *me pitraa* = by me father; *sukrutam* = was a righteous deed.
 "I cannot accede to the substitute in respect of the sojourn in the forest and it is
 distasteful thing. What was advised by Kaikeyi was proper and what was done by my father was a
 righteous deed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1427,8 +1369,6 @@ magnanimous.
 
 "I am aware that Bharata has necessary patience and due devotion for the elders. All
 will be propitious in the case of this magnanimous Bharata, who is true to his promise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1475,8 +1415,6 @@ saha* = along with my brother; *dharmashiilena* = who is of virtuous nature.
 
 "After returning from the forest, I shall rule the earth, assisted by my virtuous
 brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 </details>
 
@@ -1526,8 +1464,6 @@ father; *anR^itaat* = from blame.
 
 "The king Dasaratha was indeed solicited for a boon by Kaikeyi. That word of the
 king has been fulfilled by me. Hence, relieve our father, the emperor from the blame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

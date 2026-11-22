@@ -17,8 +17,6 @@ On the starting out of Khara's demonic forces to wage a war with Rama, many bad 
 by vultures, animals, and even by nature. Though in the know of the portent evil, Khara proceeds with
 his army vaingloriously messaging his army that he can overcome these auguries or even Indra, and Rama
 is nothing before him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ Khara; *a shivam* = ill-omened; *shoNita udakam* = blood, waters; *abhyavarSat*
 
 A massy and tumultuous ass-coloured cloud rained ill-omened bloody water while that fiendish force is
 advancing. [3-23-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ his, horses; *raaja maarge* = royal, road [high way]; *puSpa cite* = with flower
 
 The highly speedy horses paired to Khara's chariot have tottered in a trice, even though that place
 on the highway is with even surface and spread with flowers. [3-23-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ like the fiery ring formed by circling a fireball. [3-23-3]
 This sort of corona can be seen during the total eclipse of sun where a black corona with red tinged
 glow forms around the eclipsed sun. This circling of fireball handheld on a sling is there even today,
 and it is performed before marriage processions or such other events as a daring sport.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ and it is performed before marriage processions or such other events as a daring
 
 Then, nearing the golden shaft of the flag of the chariot with a very lofty flagstaff, an awful eagle
 with massive body occupied and perched atop of that golden shaft. [3-23-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ tune - raucous sounds; *cakruH* = made.
 
 Cacophonous and carnivorous predators and vultures took over the nearby places of Janasthaana and they
 made raucous sounds of many kinds. [3-23-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -288,8 +276,6 @@ made know - they howled.
 
 Turning towards the stretch scorched by the sun, fearsome and loud noised jackals have howled emitting
 awful sounds, that which is inauspicious to the demons. [3-23-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -338,8 +324,6 @@ aakaasham* = that, sky; *an aakaasham cakruH* = less, leeway, made as.
 
 Then frightening clouds similar to bursting mountains carrying bloodlike water have rendered the firmament
 less of leeway. [3-23-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -385,8 +369,6 @@ milieus, or, even; *su vyaktam na cakaashire* = very, clearly, not, brightened.
 
 There chanced an abominable, cataclysmic, hair-raising darkness whereby the milieus or inter-milieus
 are not very clearly brightened. [3-23-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -441,8 +423,6 @@ cukrushuH* = danger, portending, screamed.
 An untimely eventide glistened with a colour similar to the one drenched in blood, and then horrendous
 brutes and birds have clamoured facing Khara directly, and the vultures, jackals and eagles too have
 screamed portending danger. [3-23-9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -493,8 +473,6 @@ neduH* = forces, in front of, howled.
 Jackals, that too female jackals, are always the agents of inauspiciousness in wars with demonstrable
 calamities brought forth by their portending howling, and such jackals have now howled in front of Khara's
 army with their snouts spewing blazes. [3-23-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -546,8 +524,6 @@ niS prabhaH abhuut* = sun, without, shine, became.
 A spherical object like that of a human trunk is revealed near at the sun, while the sun is rendered
 shineless as though Rahu, the great eclipsing-planet, has eclipsed him inopportunely, and the wind too
 whirled frantically. [3-23-11b, 12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -598,8 +574,6 @@ fruits, flowers, became - dropped of from trees.
 Stars sprang up with the brilliance of fireflies though it is not night, and at that moment fishes and
 waterfowls stood still in lakes, lotuses have dried up, flowers and fruits have dropped from trees as
 though it is night. [3-23-13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -651,8 +625,6 @@ started to twitter as 'cii cii kuu cii'. [3-23-14b, 15a]
 **टिप्पनी**
 
 The expression *cii cii kuu cii* is an onomatopoetic expression for the twittering of birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -702,8 +674,6 @@ also, even; *pracacaala [pra ca caala]* = verily, shakily, quaked.
 
 Meteors horrible in their look have fallen down thunderously, and even the earth together with its mountains,
 woods and forests quaked shakily. [3-23-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -756,8 +726,6 @@ clever one; *kharasya* = of Khara; *savyaH bhujaH* = left, shoulder; *praa kampa
 
 He who is raving while sitting in his chariot that clever Khara's left shoulder thrilled excessively,
 and his voice too quavered. [3-23-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -774,8 +742,6 @@ proceeded] = he did not turn back.
 
 While he is seeing everywhere his eyes spawned tears for no good reason, his forehead ached, but he
 did not retrace his steps owing to his own vanity. [3-23-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -825,8 +791,6 @@ up; *taan roma harSaNaan* = them, hair, raising ones; *mahaa utpaataan* = worst,
 
 On observing those worst auguries stemming up at that moment with hair-raising nature, Khara laughed
 them off and said this to all of the demons. [3-23-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -884,8 +848,6 @@ am not, thinking - I am unbothered.
 
 "These awful auguries with their horrible nature have arisen, but owing to my own valour I am unbothered
 about all of them as with a mighty one unworried of the mightless. [3-23-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -901,8 +863,6 @@ hurtle]; *sam kruddhaH* = highly, infuriated; *mR^ityum* = to Death; *maraNa dha
 
 "With the excruciating arrows of mine I can hurtle stars from the face of sky, and if highly infuriated,
 I can even enjoin mortality to Death himself. [3-23-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -952,8 +912,6 @@ with incisive, arrows; *a hatvaa* = without, killing; *upaavartitum [upa aa vart
 
 "I am reluctant to return without killing that Rama, a haughty one by his might, together with his brother
 Lakshmana, with my incisive arrows. [3-23-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1001,8 +959,6 @@ Lakshmana, with my incisive arrows. [3-23-21b, 22a]
 
 "In whose respect both Rama and Lakshmana behaved perversely, let that sister of mine be contented in
 drinking the blood of those two. [3-23-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1052,8 +1008,6 @@ obvious; *aham an R^itam* = I am, un, truth; *na kathayaami* = not, telling.
 
 "No defeat has chanced on me in combats at anytime and anywhere, that to you all is obvious and I tell
 no untruth. [3-23-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1102,8 +1056,6 @@ two, are but, [base] humans; *kim punaH* = why, [speak of] again.
 "If I am infuriated I can eliminate even the king of gods, wielder of Thunderbolt and a trekker on ruttish
 elephant Iravata, namely Indra in a war, then why talk about these two humans." Thus Khara addressed
 his troops. [3-23-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1151,8 +1103,6 @@ they obtained.
 
 On hearing that thundering speech of Khara that sizeable army of demons which is tied down by the noose
 of death obtained an incomparable rejoice. [3-23-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1203,8 +1153,6 @@ kaankSiNaH* = war, see, desiring to; *samiiyuH* = came together [in firmament.]
 
 Then desiring to see the war of Khara with Rama, great-souls like sages, gods, gandharva-s along with
 carana-s and siddha-s have come together in firmament. [3-23-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1220,8 +1168,6 @@ are respected; *to them; *svasti astu* = good, may betide; *[uucuH* = said.]*
 
 On gathering at a place those great souls met one another and said, "let good betide cows, Brahmans
 and those that are held respectful by the people at large." [3-23-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1275,8 +1221,6 @@ to Pulastya dynasty; *jayataam* = shall triumph over.
 
 "Let Raghava triumph over these mighty night walkers from the lineage of Pulastya, as with Vishnu who
 once conquered all the mighty demons in war." So said celestials to one another. [3-23-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1329,8 +1273,6 @@ their, of demons; *vaahiniim dadR^ishuH* = [flow of] army, they saw.
 While the great sages are speaking about this and many other topics, they and the gods abiding in their
 aircrafts have inquisitively seen the flow of army of demons, whose longevity is now beyond hope. [3-23-29,
 30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1399,8 +1341,6 @@ Khara speedily bolted in his chariot to the van of his legions, and on seeing th
 in front other important demons too rushed to fore. They are Shyenagaami, Prithugviira, Yajnashatru,
 Vihamgama and also Durjaya, Karaviiraaksha, Parusha, Kaalakaarmuka, Hemamaali, Mahaamaali, Sarpaasya,
 Rudhiraaksha. These twelve highly valorous demons cruised in a semicircle around Khara. [3-23-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1449,8 +1389,6 @@ fore [army commanders]; *duuSaNam pR^iSThataH anvayuH* = Duushana, at behind, fo
 
 Likewsie Mahakapaala, Stuulaaksha, Pramaathii, Trishira are the four commanders of demonic forces and
 they followed Duushana marching at his behind. [3-23-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 </details>
 
@@ -1506,8 +1444,6 @@ princes, towards, rushed.
 That army of valiant demons which is highly execrable, infernally speedy, and readily inspirited for
 a battle quickly rushed towards those two princes, Rama and Lakshmana, as though a festoon of planets
 would rush towards the Moon and Sun so as to put them to rout. [3-23-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

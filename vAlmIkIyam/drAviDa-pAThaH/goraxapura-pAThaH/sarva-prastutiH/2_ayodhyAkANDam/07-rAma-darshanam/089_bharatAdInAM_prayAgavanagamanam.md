@@ -20,8 +20,6 @@ arrangements for their troops to cross the river by boats. Accordngly, Guha has 
 hundred boat with their ferry-men for the purpose. All of them reach the opposite shore of ther
 river. Encamping the army at the shore in the magnificient woods of Prayaga, Bharata along with the
 priests and king's counsellors, approach the hermitage of Bharadwaja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ to shatrughna.
 
 Bharata, born in Raghu race, having passed the night in that place on the banks of
 Ganga, rising at dawn, said to shatrughna as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ the river.
 
 "O, Shatrughna! wake up! Why sleep longer/ Bring guha the king of Nishadhas quickly
 and be happy. Let him convey the army across the river."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ follows = aham; *na svapinii* = I am not sleeping; *vichintayan* = thinking of;
 
 Thus urged by Bhrata, his brother Shatrughna said, "I am not sleeping. Thinking of
 that Rama alone, I have been wakeful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ that Rama alone, I have been wakeful."
 
 While those two lions among men were talking themselves with each other thus, Guha
 came in time and with joined palms, addressed Bharata saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ well indeed; *te* = to you; *saha sainyasya* = along with your army.
 
 "O, Bhrata! Did you pass the night happily on the banks of the river? I hope all is
 well with your army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ Rama; *abraviit* = spoke; *idam vaakyam* = these words.
 
 Hearing those words of Guha spoken with affection, Bharata also in his devotion to
 Rama, replied as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ _________________
 
 "O, king! The night passed leasantly fo r us. We were treated hospitably by you. Let
 your fisher-men ferry us across Ganga River on your courtless boats."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -421,8 +405,6 @@ command; *guhaH* = Guha; *tataH* = then; *pratipravishya* = returned;
 
 Hearing Bharata's command, Guha returned to the city in all haste and spoke to those
 multitude of his people (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ multitude of his people (as follows):
 
 "Rise, awake and may prosperity ever attend you! Duly haul the boats to the bank.
 Let us carry the army across the river."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -517,8 +497,6 @@ hundred; *naavaami* = boatsamantataH = from very quarter.
 
 Rising immediately on hearing the command of their king, they quickly brought
 together five hundred boats from every quarter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -565,8 +543,6 @@ sails; *shobhamaanaaH* = and adorned; *pataakaabhiH* = with flags.
 
 Some excellent boats, possessing large bells were marked with Sawstika, well-kept
 together with appropriate sails and adorned with flags.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -614,8 +590,6 @@ and beautiful.
 
 Then, Guha brought there one boat also adorned with Swastika, was covered with white
 canvas, re-echoing with acclamations and which was beautiful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -674,8 +648,6 @@ Vasishta, the royal priest and whatever elderly Brahmanas were present there
 ascended the boats, even before Bharata, Shatrughna, Kausalya, Sumitra. Whatever royal women were
 present also took theri seats. Thereafter followed the king's wives a well as bullock- carts and
 provisions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -732,8 +704,6 @@ It has been a convention among Indian troops in the past to burn whatever is
 removing their essential things and tents while leaving a halting place in the course of their
 march to a destination. The idea is not to leave any trace of their whereabouts for the enemy. The
 practise was also believed to bring triumph to the troops who resorted to it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 
 </details>
@@ -781,8 +751,6 @@ flags; *adhiSThitaaH* = administered; *daashaiH* = by the fisher-men; *svayam*
 
 Thos boats, adorned with flags, steered by fisher-men themselves ran speedily, duly
 carrying those passengers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -829,8 +797,6 @@ animals of draught; *mahaadhanam* = of great value.
 
 Some were filled with women. Some were loaded with horses and some of them ferried
 animals of draught of great value.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -878,8 +844,6 @@ of guha.
 
 Having reached the opposite shore, thsoe boats cleared those people and on the
 return journey, the kinsfolk of guha plied them as easily as toy- boats made of bamboo.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -926,8 +890,6 @@ winged; *parvataaH* = mountains.
 
 Goaded on by their mahouts, elephants adorned with their flags, swimming across the
 river, looked life winged mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -975,8 +937,6 @@ kumbhaghaTaiH = with the help of big and small earthen vessels; *anye* = some ot
 
 Some ascended boats. Some others crossed the river by rafts in the same manner. Some
 others swam across with the help of big and small earthen vessels. The rest swam with arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -1037,8 +997,6 @@ The hour of early hours. A Muhurta, loosely translated as an hour, really
 consist of 48 minutes. There are fifteen such Muhurtas in a day. They are named in order by
 Brihaspati as Randra, Sarpa, maitra, Paitra, Vasava, Apya, Vaisva, Brahma, Praja, Isha, Sindra,
 Aindragna, Nairta, Varunaryamana and Bhagi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 
 </details>
@@ -1099,8 +1057,6 @@ to see; *bharadvaajam* = Bharadwaja; *R^iSivaryam* = the foremost of sages.
 The high-souled Bharata made the army to rest, by encamping it according to its
 inclination and set out along with the priests and king's counsellors to meet Bharadwaja, the
 foremost of sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 </details>
 
@@ -1156,8 +1112,6 @@ treees.
 Approaching the hermitage of that high-souled Brahmana and the family priest of
 gods, Bharata saw an extensive and enchanting grove with its leafy huts and tress the chief of
 ascatics.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

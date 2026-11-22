@@ -20,8 +20,6 @@ Ahalya is redeemed from her curse when Rama enters their hermitage.
  her accursed invisible state. She emerges with her divine form and accords
  guestship to Rama and Lakshmana. Sage Gautama also arrives at this juncture
  to accept his depurated wife Ahalya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ to siddha-s, gandharva-s, carana-s; *agnipurogamaan* = Fire-god in forefront
 
 The emasculated Indra then with panicked eyes spoke to gods, siddha-s, gandharva-s,
 and carana-s, keeping Fire-god as their helms-god. [1-49-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -133,8 +129,6 @@ redo his ascesis until he overcomes his passions. Thus, this 'causing hindrance'
 is a divine-act as proclaimed by Indra to other gods. In doing such 'divine-acts'
 Indra will also be maligned, for which the higher gods like Brahma, Vishnu, Shiva,
 or other higher beings will come to his rescue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ or other higher beings will come to his rescue.
 By Gautama's anger I am rendered testicle-less and his wife Ahalya is also rejected
 by the sage, and thus by his releasing a severe curse his propriety for ascesis
 is dwindled, therefore his ascesis is pre-empted by me. [1-49-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ arhatha* = apt of you to make me virile.
 'Therefore, oh, all gods with the assemblages of sages and caarana-s, it will
 be apt of you to make me virile again, as I have acted for the benefit of gods.'
 Thus Indra spoke to all gods. [1-49-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -273,8 +263,6 @@ Marut groups; *pitR^idevaan upetya* = nearby coming at mane gods
 On hearing the words of the officiator for Hundred-Vedic-rituals, namely Indra,
 all of the gods and other assemblages of celestials, together with the groups of
 Marut-gods came to the godly manes keeping the Fire-god in van, and appealed. [1-49-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ vR^iSaNau gR^ihya* = on taking ram's testicles; *shakraaya aashu prayacChata*
 'This ram is with testicles and Indra is indeed rendered testicle-less. Taking
 the testicles of this ram they may be given to Indra quickly.' Thus Fire-god started
 his appeal to manes. [1-49-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -391,8 +377,6 @@ is amending those rules and he is saying a boon-like proclamation. 'From now, th
 manes can enjoy even a castrated ram, if offered by humans on earth, and in turn
 the manes shall afford plentiful benefits of undiminished value to those offerers,
 namely humans...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -436,8 +420,6 @@ On hearing the words of Agni, the Fire-god, the manes-gods who gathered to colle
 their share of offering have extricated that ram's testes, which is not yet sacrificed
 but tethered to a sacrificial post, and offered them to the Thousand-eyed Indra.
 [1-49-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -488,8 +470,6 @@ thereof to those that offer those goats, and to join the testes of goats to Indr
 If rams with testes are offered the manes discard the testes of those rams and enjoy
 the rest of it. Even if a goat is offered they enjoy it, considering it as homogenous
 to a ram. In either way, the offerer is blessed with benefits and Indra with testes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -537,8 +517,6 @@ one having goat's testes.
 
 Oh, Raghava, owing to the efficacy of the great-souled Gautama and his ascesis,
 from then onwards Indra has became one with the testes of a goat. [1-49-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -581,8 +559,6 @@ her [lady]; *ahalyaam taaraya* = let Ahalya, be atoned.
 "Therefore, oh, great-resplendent Rama, enter the hermitage of Gautama whose deeds
 are pietistic, and atone Ahalya who is highly fortunate and who is in the compose
 of a divinity." Thus Vishvamitra spoke to Rama. [1-49-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -623,8 +599,6 @@ indeed.
 
 On hearing Vishvamitra's words Rama entered the hermitage along with Lakshmana and
 keeping Vishvamitra afore. [1-49-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -714,8 +688,6 @@ the tongues of a flaring fire around which fumes are cloaking, as she is hithert
 practising an utmost ascesis subsisting on air alone, which ascesis alone made her
 like a flaring Ritual Fir, and Rama has seen such a highly glorious Ahalya. [1-49-13,
 14, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -758,8 +730,6 @@ became, indeed.
 
 Ahalya is indeed indiscernible to all the three worlds by the very word of Gautama
 until the manifestation of Rama. [1-49-16a, b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -811,8 +781,6 @@ until the manifestation of Rama. [1-49-16a, b]
 
 On reaching the end of curse she came into the view of Raghava-s, and they too gladly
 touched her feet in reverence. [1-49-16c, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -832,8 +800,6 @@ dutifully; *cakaara* = [Ahalya] offered; *kaakutsthaH pratijagraaha*
 Reminiscing Gautama's words Ahalya received those two, and self-consciously offered
 water for feet and hand washing, and like that she also offered guestship customarily
 and dutifully, and Rama of Kakutstha on his part acquiesced her hospitality. [1-49-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -881,8 +847,6 @@ aasiit samutsavaH* = superb, is there [revelled in,] splendid, festivity.
 There chanced an abundant floral fall form firmament to the drumbeats of god's drums,
 and the celestials like gandharva-s, apsara-s revelled in a splendid festivity that
 is superb. [1-49-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -925,8 +889,6 @@ thus [saying,] *samapuujayan* = collectively, reverenced;
 Gods have collectively reverenced her, whose limbs are depurated by the asset of
 her ascesis which is performed as a devotee of Gautama remaining in his directives,
 saying 'Gracious! Goodness!' [1-49-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -970,8 +932,6 @@ Even that great-resplendent Gautama is heartened when he reunited with Ahalya af
 a long, long a time, and that sage customarily reverenced Rama for actualising his
 solemn utterance, and that great-ascetic Gautama continued his ascesis together
 with Ahalya. [1-49-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 </details>
 
@@ -1012,8 +972,6 @@ from there; *mithilaam jagaama* = to Mithila, moved ahead.
 
 Even Rama on receiving a conventionally high veneration in the manifestness of that
 great-saint Gautama himself, then moved ahead to Mithila. [1-49-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

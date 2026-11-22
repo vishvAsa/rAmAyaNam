@@ -15,8 +15,6 @@ title_english = "025 Kausalya bids farewell to Rama"
 
 In this chapter Kausalya bids farewell to Rama preparing to go to forest. Rama
 leaves her residence and goes to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ purified; *chakaara* = performed; *maNgaLaani* = rites ; conduciveto welfare;
 
 Kausalya, the magnanimous mother putting away her grief, sipped water from the palm
 of the hand, became purified and performed rites conducive to the welfare of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ in the way; *sataam* = of the righteous.
 
 "Oh, Rama! Your departure cannot be restrained, depart now, return soon. Abide in
 the footsteps of the virtuous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ you.
 
 "Oh, Rama! Let that righteousness, which you are fostering with courage and
 discipline , protect you".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ and in temples; *te* = those; *maharshhibhisaha* = along with greatsaints;
 
 "Oh, son! To whom you will be bowing in salutation at cross-roads and in temples,
 those along with great saints will protect you in the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ those along with great saints will protect you in the forest.
 
 "All the arms given by the wise sage Viswamitra to you, will ever protect you who
 are rich in good qualities"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -310,8 +298,6 @@ Truth; *chiramjiiva* = you will be long lived!
 
 "Oh, son with magnificent arms! Protected by your service to father and service to
 mother as well as truthfulness, you will belong-lived"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -367,8 +353,6 @@ fire, blades of the sacred Kusa grass and rings of Kusa grass(worn on the forth 
 sacrificial occasions)sacrificial altars , temples and various sites selected by Brahmanas for
 worship of gods, mountains, trees, bushes, large and deep pools of water, birds, snakes and lions
 protect you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -446,8 +430,6 @@ ensure your happiness; *dhaataa* = The CosmicPerson; *vidhaataacha* = the creato
 with eminent sages ensure your happiness. May the cosmic person and the creator bring happiness to
 you. May the Pusha, Bhaga and Aryama (three of the twelve sons of Aditi)and the guardians of the
 spheres with Indra as their Head do good to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -464,8 +446,6 @@ good; *te* = to you
 
 "May the six seasons, all the fortnights and months, years, nights, days and hours
 always do good to you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ you; *sarvataH* = from all sides. Bhagavaan = The gracious Lord; *devaH* = thedi
 you, my son! May lord Skanda (the younger son of Lord Siva)and the moon god along with the sage
 Brihaspati(the preceptor of gods), the well known seven sages as well as Sage Narada guard you on
 all sides."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ that forest.
 
 "May the four quarters along with the glorious guardians of the four quarters which
 are enlogised by me may protect you always on all sides in that forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -632,8 +608,6 @@ residing in forest.
 intermediate space between them , rivers , astrological mansions including gods presiding over
 them, day and night, the morning and evening twilights may protect you while you reside in the
 forest ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -681,8 +655,6 @@ forest ."
 
 "The six holy seasons, months, years and the measures of time known as Kala
 (equilent to one minute) and Kastha(1/30th of Kala or two seconds)bestow you happiness"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -730,8 +702,6 @@ of a hermit; *dhiimataH* = full of wisdom.
 
 "Let the heavenly deities and the demons too ever grant happiness on you while you
 traverse through the large forest, in the guise of a hermit and full of wisdom "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ fondness of flesh or from their yellowish appearance)sarveshhaam = of all;
 
 "Oh, son! Let there not be fear for you of demons the terrible ones performing cruel
 deeds, of devilish beings called Pisachas and of all carnivorous animals."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -829,8 +797,6 @@ impenetrable.
 
 "In that impenetrable forest occupied by you, let there be no monkeys, scorpions,
 gad fies, mosquitoes, snakes or other insects ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -880,8 +846,6 @@ druhyantu* = be nothostile; *te* = to you.
 
 "Oh, son! Let the great elephants , lions with tusks, tigers, bears, terrible
 he-buffaloes with horns not to be hostile to you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -930,8 +894,6 @@ he-buffaloes with horns not to be hostile to you.
 
 "Oh, son! Let the other ferocious man-eaters belonging to animal-species, being
 worshipped by me here, not hurt you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -982,8 +944,6 @@ _________________
 
 "Oh, Rama, my son! May your path-ways be propitious ! Let your valour be powerful!
 Go well with all accomplishments!.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1030,8 +990,6 @@ you ; *antarikshhebhyaH* = against those dwelling in theatmosphere ; *punaH* = a
 
 "Let there be security to you against those dwelling in the atmosphere and on the
 earth as well as against all the celestials as also your enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1080,8 +1038,6 @@ vaasinam* = dwelling in the forest of Dandaka.
 "Oh, Rama! May Venus and the moon as also the sun and Kubera (the god of wealth) and
 Yama (the god of death) who are being worshipped by me, protect you, while you reside in the forest
 of Dandaka"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1132,8 +1088,6 @@ kaaletu* = at the time of taking bath.
 
 "Oh, Rama! May sacred hymns coming forth from fire, air , vapour, and from the mouth
 of singer of sacred hymns protect you at the time of taking bath."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1182,8 +1136,6 @@ may protect; *tvaam* = you; *vanavaasinam* = dwelling in the forest.
 "Let Siva, the lord of all spheres, Brahma, the lord of creation, Vishnu, the
 nourisher of beings, the sages and the rest of the celestials may protect you dwelling in the
 forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1231,8 +1183,6 @@ Kausalya; *aayatalochanaa* = having large eyes ; *aanarcha* = worshipped ;
 
 Uttering thus, the illustrious Kausalya having large eyes, worshipped troops of
 divinities with garlands , sandal paste and befitting hymns of praise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1273,8 +1223,6 @@ direction; *braahmaNena* = by a Brahmana; *mahaatmanaa* = who is high souled;
 
 Duly procuring fire, she caused oblation to be poured into it, as per the direction
 of a high souled brahmana for the purpose of Rama's well- being .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1321,8 +1269,6 @@ woman; *upasampaadayaamaasa* = procured together; *ghR^itam* = clarified butter;
 
 Kausalya, the excellent woman procured clarified butter , white garlands, ceremonial
 sticks and white mustard seeds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1371,8 +1317,6 @@ food ; left after the main offering.
 That preceptor performed ceremony for peace as per the statute as well as without
 error and carried out propitiatory oblation externally with the remaining sacrificial food left
 after the main offering .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1421,8 +1365,6 @@ and clarified butter; *tataH* = then; *vaachayaamaasa* = got uttered;
 She then got brahmanas to pronounce blessings with honey, curd , unbroken grains of
 rice and clarified butter by the repetition of certain hymns and to utter prayers for the well -
 being of Rama in the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1470,8 +1412,6 @@ Rama:-
 
 The illustrious Kausalya gave the desired fee to that chief of brahmanas and spoke
 as follows to Rama:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1518,8 +1458,6 @@ maNgalam* = let that felicity; *bhavatu* = occur ; *te* = to you.
 
 "Which felicity occurred in Devendra the thousand- eyed, adored by all celestials
 when a demon called Vritta was destroyed, let that felicity occur to you"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1569,8 +1507,6 @@ that blessing; *bhavatu* = happen ; *te* = to you.
 
 "Which blessing was invoked by Vinata to Garuda who was setting off to bring nectar
 in the past , may that blessing happen to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1617,8 +1553,6 @@ killing; *daityaan* = demons; *amR^itotpaadane* = at the time of producing necta
 
 "While blessing was bestowed on Devendra, the wielder of the thunderbolt , killing
 the demons at the time of producing nectar, let that blessing come to you "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1670,8 +1604,6 @@ immensely glorious ; *prakramataH* = while keeping; *treen* = three;
 "Oh, Rama! Which good fortune occurred to Vishnu who was immensely glorious while
 making his three strides (in order to measure the three worlds), let that good fortune come to
 you
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1720,8 +1652,6 @@ earth ; girdled by oceans; *vedaaH* = vedas; *lokaaH* = the spheres;
 "Oh, Rama, the mighty armed! May the seasons , oceans , Dvipas (principal division
 of earth girdled by oceans ), vedas, various spheres and quarters confer blessings with good luck
 to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1781,8 +1711,6 @@ her son's head, smeared varieties of sandal pastes over his body, fastened about
 of an amulet, a herb called Visalyakarani(so called because it helps in painlessly extracting an
 arrow stuck into one's body )which is efficacious and auspicious and muttered sacred hymns in order
 to enhance its virtue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1832,8 +1760,6 @@ mouth; *na* = not; *bhaavena* = with heart.
 
 Though filled with grief inside, she appeared to be over-joyed outside and with
 faltering words , spoke thus with only mouth and not with her heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1892,8 +1818,6 @@ are.
 
 The illusrious Kausalya embraced Rama, smelling his head by bending it and spoke
 these words "Rama, my son! Go with ease with accomplishment of purpose, as you are."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1910,8 +1834,6 @@ Ayodhya; *sukham* = happily ; *susthitam* = well-established; *raaja vartmani*
 
 Oh, son! With all your purposes fulfilled and with good health, I shall see you
 returning to Ayodhya happily and taking over the reins of the kingdom
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -1959,8 +1881,6 @@ with joy.
 
 "All my thoughts of grief having been expulsed and my face shining with joy, I shall
 behold you returning from the forest like the full moon rising from the horizon"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -2007,8 +1927,6 @@ behold you returning from the forest like the full moon rising from the horizon"
 
 "Oh, Rama! I shall behold you returning here from your sojourn in the forest, having
 fulfilled your father's word and installed on the splendid throne."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -2060,8 +1978,6 @@ _________________
 "Having come here from your sojourn in the forest, you will be familiar with
 auspicious things and will ever be augmenting the desires of my daughter-in-law and of me. Depart
 now, Oh, Rama !"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -2118,8 +2034,6 @@ forest.
 "Oh, Rama! Worshipped by me, let the hosts of gods headed by Siva, the Supreme
 Being, the great sages, spirits, the chief of evil spirits, the celestial serpents and the
 (four)quarters wish well of you, who is setting forth to forest, "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -2175,8 +2089,6 @@ punaHcha api* = again and again.
 Having so said and having completed the rite of invoking blessings befittingly,
 Kausalya whose eyes were overflowing with tears, further went clockwise around Rama and having
 pressed close to him, embraced again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 </details>
 
@@ -2237,8 +2149,6 @@ splendour; *jagaama* = went; *sitaanilayam* = to Sita's house .
 Having been done circumbulation (as a mark of protection) thus by the pious woman
 Kausalya, that highly illustrious Rama pressing his mother's feet again and again , shining by his
 own splendour, went to Sita's house
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

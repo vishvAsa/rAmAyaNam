@@ -17,8 +17,6 @@ Returning to consciousness, Rama laments over the plight of Lakshmana, who was l
 unconscious. The foremost of monkeys too were plunged in grief and despondency on seeing Rama
 lamenting as aforesaid. In the meantime, Vibhishana approaches Rama and the monkeys flee away,
 mistaking him as Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -95,8 +93,6 @@ Bound by that formidable network of arrows, the two high-souled sons of dasarath
 lay bathed in blood, breathing like serpants. All those foremost of monkeys who were exceedingly
 strong, including Sugreeva, plunged in grief, were standing around those two illustrious
 warriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ and native strength; *pratyabuddhata* = awoke from his sworn; *samdaanito.api sh
 
 In the meanwhile, the mighty Rama by virtue of his hardihood and native strength,
 awoke from his swwon, despite the shafts that held him captive.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -198,8 +192,6 @@ a melancholic face; *paryadevayat* = (Rama) lamented; *aaturaH* = full of grief
 
 Then, beholding his brother, bleeding unconscious, firmly thrown on teh floor, and
 his features changed, Rama full of grief lamented thus:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -247,8 +239,6 @@ my brother; *adya* = now; *shayaanam* = lying; *nirjitam* = subdued;
 
 "Of what use to me is the recovery of Seetha or even life itself, since my brother
 now lying, before my eyes, has been struck down in teh fight?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -297,8 +287,6 @@ brother; *sachivaH* = a friend; *saamparaayikaH* = and a comrade in a hostile wa
 "It can be possible, if I were to look for her, to find a consort equal to Seetha in
 this world of mortals but not a brother, a friend and a comrade in a hostile war, such as
 Lakshmana!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -345,8 +333,6 @@ five elements; *sumitraananda vardhanaH* = he; the increaser of Sumitra's joy; *
 
 "If Lakshmana returned to the five elements, he the increaser of Sumitra's joy, I
 will yield up my life-breaths while the monkeys stand looking on."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -404,8 +390,6 @@ Sumitra; *putra darshanalaalasaam* = who is keenly sighing for the sight of her 
 
 "What shall I say to my mother, Kausalya or to Kaikeyi? How can I talk to my mother
 Sumitra, sighing for the sight of her son?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -421,8 +405,6 @@ Sumitra, sighing for the sight of her son?"
 
 "How shall I console Sumitra, trembling and crying out like an osprey, bereft of her
 son, if I return to Ayodhya without lakshmana?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ who followed; *vanam* = to the forest; *mayasaha* = along with me?
 
 "How shall I tell Shatrughna and the illustrious Bharata when I return without
 Lakshmana, who followed to the forest along with me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -520,8 +500,6 @@ itself; *na utsahe* = I do not wish; *jiivitum* = to live.
 
 "Alas! I should not be able to endure Sumitra's reproaches. I will leave my body
 here itself. I do not wish to continue living."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -572,8 +550,6 @@ who has yielded up his life!
 
 "Woe unto me to my wicked deed and to my lack of nobility. Through my fault,
 Lakshmana has fallen and lies indeed on a bed of arrows as on who has yielded up his life!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -624,8 +600,6 @@ afflicted with grief.
 
 "O, Lakshmana! You always used to consoe me whenever I was in a great sorrow. You,
 having lost your life now are not able to allay my sufferings with your words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -673,8 +647,6 @@ having lost your life now are not able to allay my sufferings with your words."
 
 "You, who in this battle today, struck down inummerable demons to the earth, are
 fallen, pierced by darts, like a hero on the self same field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -723,8 +695,6 @@ horizon.
 "Lying on this bed of arrows, bathed in blood, you are piled up; sharajaalaiH= in a
 heap of arrows; saH= you, as such; bhaasi= look; bhaaskaraH= iva= like the sun; vrajan= setting
 behind; astam= the horizon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -771,8 +741,6 @@ with arrows; *na shaknoti* = you are not able even; *abhibhaaSitum* = to speak (
 
 "Your vital parts having been pierced with arrows, you are not able even to speak
 now. Eventhough you not speaking, your agony is disclosed by the redness of your eyes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -819,8 +787,6 @@ illustrious warrior anuyaataH = accompanied; *maam* = me; *ahamapi* = when I;
 
 "I shall follow him to the region of Yama, as that illustrious warrior accompanied
 me when I retired to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -867,8 +833,6 @@ misdeeds; *mama* = of me; (have brought him); wretched that I am !
 
 "He who loved his own kinsfolk and was filled iwth devotion for me, got this state
 to which my misdeeds have brought him, wretched that I am!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -915,8 +879,6 @@ words; *lakSmaNena* = by lakshmana; *viireNa* = the valiant man;
 
 "I do not remember to have heard any harsh or hateful words from that valiant
 Lakshmana, even if he is deeply provoked."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -966,8 +928,6 @@ cha* = Kartavirya himself; *iSvastreSu* = in the science of archery.
 
 "Lakshmana, who was able to loose five hundred arrows in one shot, was surpassing
 kartavirya himself in the science of archery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1018,8 +978,6 @@ shayanochitaH* = was accustomed to a rich couch; *astraiH* = and who by his arro
 
 "This Lakshmana, who was accustomed to a rich couch and who by his arrows severe the
 weapons the mighty Indra the Lord of celestials, is lying slain on the ground."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1066,8 +1024,6 @@ without doubt; *pradhakSyati* = will consume; *maam* = me; *yat tat* = since;
 
 "Those vain words uttered by me, will ndoubtedly consume me since I have not made
 Vibhishana the king of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1115,8 +1071,6 @@ Vibhishana the king of demons."
 
 "O, Sugreeva! You ought to return at once from here since knowing that you are
 bereft of my support, Ravana will overcome you, O king!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1163,8 +1117,6 @@ with your followers; *niilena cha* = Nila; *nalenacha* = and Nala.
 
 "O, Sugreeva! Recross the sea with your army, keeping Angada in front and with your
 followers, Nila and Nala."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1212,8 +1164,6 @@ to any other; *raNe* = in battle.
 
 "I am fully satisfied by the great military exploit, done by Jambavan the king of
 Bears and the General of the Monkeys, which was impossible to any other in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1255,8 +1205,6 @@ battle-field.
 
 "A great act was done by Angada, Mainda and Dvivida. A terrible combat was done by
 Kesari and Sampati in the battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1303,8 +1251,6 @@ lives; *madarthe* = for me; *yuddham* = the battle was carried on.
 
 "By Gavaya, Gavaksha, Sharabha, Gaja and other monkeys, who are willing to sacrifice
 their lives for me, the battle was carried on."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1369,8 +1315,6 @@ suhR^idaa = a friend; *vayasyena* = and a comrade; *shakyam* = could do.
 "O, Sugreeva! It is not possible for mortals to avoid their destiny. O, Sugreeva the
 tormentat of enemies! Fearing to fail in your duty, you have done all that which a friend and a
 comrade could do."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1387,8 +1331,6 @@ you!.
 
 "O. foremost of Monkyes! You have accomplished all this due to your friendship. I
 take leave of you all; go where it seems best to you!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1437,8 +1379,6 @@ chakrire* = allowed tears to fall netraiH = from their eyes.
 
 All the tawny eyed monkeys, who heard Rama's lament thus, allowed tears to fall from
 their eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1454,8 +1394,6 @@ quickly; *yatra* = where; *raaghava* = Rama (was then).
 
 Meanwhile, Vibhishana having established order in all the ranks, with mace in his
 hand, came quickly to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 
@@ -1503,8 +1441,6 @@ away.
 
 Seeing him, who resembled a mass of collyrium, hastening towards them thus, all the
 monkeys thinking him to be Indrajit the son of Ravana, fled away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
 </details>
 

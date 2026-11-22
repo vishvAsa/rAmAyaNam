@@ -17,8 +17,6 @@ III : Aranya Kanda - The Forest Trek**
 Maareecha further advises Ravana to avoid confrontation with Rama for it would be
 ruinous to the entire demonic race. He narrates another episode of his misadventure with Rama and
 how he escaped from the all-pursuant arrow of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ uttaram* = what, later - has happened later; *tat shR^iuNuSva* = that, you hear.
 "Thus I was somehow released by him in a confrontation then in his teens. Now you
 may also listen to what has happened later in his adulthood." Thus Maareecha continued his advise
 to Ravana. [4-39-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ entered.
 
 "Though Rama hit me previously in such a way, I unabashedly entered Dandaka forest
 together with two more demons who were in the guise of animals. [4-39-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ anvaya - have a concatenation with - raamaam aasaadayan - I reached Rama - in th
 "On becoming a gigantic carnivorous animal with a torching tongue, incisive teeth
 and excruciating horns, and with an extraordinary energy, I was on the rove in Dandaka forest while
 getting at Rama. [4-39-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -226,8 +218,6 @@ holy bathing places, sanctuaries, trees of; *taapasaan* = sages; *sam pra dharSa
 "I moved about Dandaka forest, oh, Ravana, in an extremely horrible aspect of
 animal, utterly brutalising the sages at ritual-altars, holy bathing places and under the trees of
 religious sanctuaries while reaching Rama. [4-39-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ their, fleshes, on feasting, also; I roamed.
 
 "I have proceeded to Rama killing saints in Dandaka forest who are the treaders in
 saintliness, and drinking off their blood and feasting on their flesh. [4-39-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -326,8 +314,6 @@ vyacaran* = in Dandaka, forest, rambling.
 "On becoming such a brutal animal I have been eating the flesh of sages, frightening
 the forest dwellers, and in that way I rambled in Dandaka forest besotted with blood-drinking while
 reaching Rama. [4-39-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -376,8 +362,6 @@ reached.
 "While I was wandering in Dandaka forest as an abuser of virtue, then I reached Rama
 who by then has assumed the rectitude befitting to a saint, and I even reached the great-fortunate
 Vaidehi and top-speeded-chariot-rider Lakshmana. [4-39-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -433,8 +417,6 @@ then was santlike on a regulated diet and abiding in the forest, whereby I presu
 hermit. In that way, I was very extremely infuriated to recollect his earlier assault on me, and I
 indiscriminately dashed towards him, only to kill him, completely disregarding his other faculties.
 [4-39-8b, 9, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -483,8 +465,6 @@ arrows; *tyaktaaH muktaaH* = are released.
 "Stringing out his highly magnificent bow Rama then released three excruciating and
 enemy eliminating arrows which in their egress match the Air-god and the Divine-Eagle Garuda.
 [4-39-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -530,8 +510,6 @@ mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">coor
 "All those three thunderbolt like arrows that have only blood for their board,
 acutely bent at barbs, and that are highly horrendous have come at us in a coordinated manner.
 [4-39-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -599,8 +577,6 @@ he caused in an earlier instance, and on seeing the arrows coming upon like thun
 wink I escaped to the other side of ocean, and Rama's arrow having come chasing me up to
 ocean-shore returned.' In here, the efficacy of Rama's arrow is clearly narrated and it is not
 clear why pundits did not consider these verses of ancient mms instead of the above verse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -653,8 +629,6 @@ self-collectedly; *taapasaH* = as an ascetic; *iha* = to here; *pra vraajitaH*
 arrow made me to renounce everything like a monk and fled me to this place, the other side of ocean
 to where you came by your aircraft, here I am living here in a yogic way, self-collectedly like an
 ascetic. [4-39-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -705,8 +679,6 @@ hi* = at tree, at tree, I behold, indeed.
 "From then on wards, I am indeed descrying Rama at this tree and at that tree,
 dressed in jute-cloths and black deerskin, and handling his bow like the Terminator handling a
 tether. [4-39-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -753,8 +725,6 @@ entity, reflects, to me.
 
 "Given to fright I even visualise thousands Rama-s, and whole this forest is
 reflecting to me as one entity of Rama. [4-39-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -802,8 +772,6 @@ spirit - dispirited - swooning; *udbhramaami [ut bhramaami]* = to up, moving - j
 
 "Even at a place void of people I am envisaging Rama alone, and oh, king of demons,
 even if he enters my dream, in fact, I am jolting up and swooning. [4-39-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -860,8 +828,6 @@ with a '*ra*....' [4-39-18]
 'If I hear the first letter 'ra' of any given name, I am scared at the ensuing
 second syllable presuming it to be 'ma' and if that second syllable of that word I am going to hear
 happens to be other than 'ma' then my fear ceases.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -919,8 +885,6 @@ are playing dice game. When Ravana entered, the dice in the hand of Bali has sli
 and Bali asks Ravana to pick and give it before conquering netherworld. Ravana who lifted Mt.
 Kailash could not lift that two-inch dice, which is so far handled playfully by Bali. Such is the
 might of Emperor Bali
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -968,8 +932,6 @@ kaaryaa* = by you, Rama's, episode [topic] not, to be done [be broached.]
 "You may either wage a war with Rama if you wish to avenge the killings of Khara and
 others, or forgive and forget that Rama agreeing to my suggestions, but do not broach the topic of
 Rama with me if you wish to see me alive. [4-39-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -1017,8 +979,6 @@ with, kith and kin; *vi naSTaaH* = are utterly, ruined.
 "In the world many of the sagacious and reasonable people that are the practisers of
 righteousness are utterly ruined along with their kith and kin, just by the misdeeds of others.
 [4-39-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -1068,8 +1028,6 @@ anuyaami vai* = I, you, not, follow, simply.
 
 "Such a saintly one as I am, I am bound to ruin by other's misdeeds, hence you do
 whatever that is fair to you, but I am not the one to simply take after you. [4-39-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -1120,8 +1078,6 @@ sure.
 
 "Definitely Rama is the one with exceptional resplendence, exemplary courage and
 extraordinary power, and for sure, he becomes an eradicator of the world of demons. [4-39-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -1176,8 +1132,6 @@ is - in final analysis; *bruuhi* = you tell.
 Rama, that too owing to Shuurpanakha, and if Rama of uncomplicated actions has eliminated Khara in
 self-defence, what really is the transgression of Rama in that matter, you tell of that in the
 final analysis. [4-39-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 </details>
 
@@ -1240,8 +1194,6 @@ up.
 through you, and if this is disagreeable to you, you will have to deliver up your life in a
 confrontation with Rama along with the lives of your kinsmen, perishing at the linearly
 accelerating arrows of Rama. [4-39-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyasans39.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

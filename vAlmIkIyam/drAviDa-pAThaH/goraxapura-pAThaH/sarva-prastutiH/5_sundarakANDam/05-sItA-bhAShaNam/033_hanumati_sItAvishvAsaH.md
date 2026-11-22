@@ -17,8 +17,6 @@ Stepping down from the tree, Hanuma approached Seetha and asked her to clarify h
 is the wife of Rama. Seetha then starts to narrate her antecedents and the story of Rama along with circumstances
 under which she along with Rama and Lakshmana went to Dandaka forest as per the command of King Dasaratha. She
 also informs Hanuma about her snatching away of Ravana from the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -84,8 +82,6 @@ veSaH* = with a humble look; *kR^ipaNaH* = and feeble; *upasR^itya* = approached
 That Hanuma, with coral-coloured face, very bright, the son of wind-god, wearing a humble and feeble
 look, approached Seetha by stepping down from the tree and offered her his salutation by keeping his joined palms
 on his head and spoke the following sweet words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -140,8 +136,6 @@ you have stood aalambya = taking by the hand; *shaakhaam* = a branch; *drumasya*
 
 "O Lady with your eyes resembling lotus leaves, wearing a worn out silken cloth! O, the irreproachable
 one! You have stood, holding by the hand a branch of the tree who are you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -161,8 +155,6 @@ one! You have stood, holding by the hand a branch of the tree who are you?"
 
 "Tears of sorrow are gushing down from your eyes, as water is scattered down from two lotus-petals.
 Why?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ _________________
 
 "O auspicious lady! In whom are you born-whether in celestials or in ogres or in serpent-demons
 or in celestial musicians or in demons or in semi-divine beings or in mythical beings?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -244,8 +234,6 @@ hips!; *me* = to me; *pratibhaasi* = you appear; *devataa* = as a deity.
 
 "O lovely-faced woman! Who are you among eleven Rudras who bestow strength, or among Maruts the
 storm-gods or among eight Vasus the beneficent gods? O Handsome lady with fine hips! You appear to me as a deity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -295,8 +283,6 @@ with all excellent qualities; *patitaa* = fallen; *vibudhaalayaat* = from heaven
 
 "Are you Rohini, endowed with all the best qualities, fallen from heaven, left behind by moon and
 excellent among stars."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -346,8 +332,6 @@ sage Vasishta; *bhartaaram* = her husband; *kopaadvaa yadivaa* = either by anger
 
 "O dark-eyed lady! Are you not the auspicious Arundhati, who irritated her husband, Vasishta the
 sage either by anger or by error?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -395,8 +379,6 @@ sage either by anger or by error?"
 
 "O the slender waisted lady! You seem to be lamenting over someone who died is he your son, or
 father or brother or husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -444,8 +426,6 @@ the signs; *raajJNaH* = of a king; *aham* = I; *na manye* = do not think; *tvaam
 
 "You are lamenting. You are sighing a lot. You are touching the earth. You have royal insignia
 in you. According to these things, I do not consider you as a divine woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -466,8 +446,6 @@ believed to be; *mahiSii* = a queen; *bhuumipaalasya* = of an emperor; *raaja ka
 
 "Based on the marks on your person and your bodily characteristics, I believe you to be a queen
 of an emperor and the daughter of a king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -517,8 +495,6 @@ stolen; *balaat* = by force; *raavaNena* = by Ravana; *janasthaanaat* = from Jan
 
 "If you are Seetha stolen per force by Ravana from Janasthana, tell it to me who is asking if you
 please!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -559,8 +535,6 @@ costume; *anvitaH* = endowed with; *tapasaa* = austerity; *dhruvam* = surely; *t
 
 "According to your miserable state, the super-human beautiful figure and your costume endowed with
 austerity, surely you are Rama's wife."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -610,8 +584,6 @@ vaidehii* = that Seetha; *raama kiirthana harSitaa* = was delighted of Rama's me
 
 Hearing his words, Seetha was delighted of Rama's mention and spoke the following words to Hanuma,
 who was dwelling on a tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -658,8 +630,6 @@ vyaam* = on earth; *viditaatmanaH* = who understands the nature of the spirit; *
 
 "I am the daughter-in-law of Dasaratha, eminent among the excellent kings on earth, who understands
 the nature of the spirit and who torments the army of the adversary."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -678,8 +648,6 @@ the nature of the spirit and who torments the army of the adversary."
 **अनुवादः**
 
 "I am the daughter of the noble-natured Janaka, the king of Videha kingdom. I am know.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -730,8 +698,6 @@ _________________
 
 "I stayed in Rama's house there for twelve years, enjoying the worldly pleasures belonging to human
 kind and fulfilling all my desires."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -779,8 +745,6 @@ Rama; a celebrity of Ikshvaku dynasty.
 
 "Thereafter, in the thirteenth year, King Dasaratha along with his preceptors started to perform
 anointment of the kingdom to Rama, a celebrity of Ikshvaku dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -830,8 +794,6 @@ her husband.
 
 "While that anointment of Rama was being arranged, a queen called Kaikeyi spoke the following words
 to Dasaratha, her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -905,8 +867,6 @@ not drink water; *na khaadeyam* = I shall not eat; *mama* = my; *bhojanam* = foo
 
 "If Rama gets anointed for the kingdom, from now onwards, I shall neither drink water nor take
 my food daily. This is the end to my life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -922,8 +882,6 @@ yadi* = and if that; *na kaaryam* = for waste; *raaghavaH* = (let) Rama; *gachch
 
 "O the excellent king! If that word of pledge was uttered affectionately by you and if it is not
 going to be a waste, let Rama go to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -971,8 +929,6 @@ disagreeable; *vachanam* = words; *kaikeyyaaH* = of Kaikeyi; *anusmaram* = and r
 
 "Hearing the cruel and the disagreeable words of Kaikeyi and recollecting the boon given to the
 queen, King Dasaratha who was true to his word, fell unconscious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1022,8 +978,6 @@ illustrious; *jyeSTham* = eldest; *putram* = son.
 
 "Then, the aged king, who was firmly established in truth and righteousness, regretfully asked
 his illustrious eldest son to give back the kingdom, which he bestowed him earlier."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1071,8 +1025,6 @@ mind; *param priyam* = more dearer; *abhiSekaat* = than his anointment to the ki
 
 "That glorious Rama first admitted his father's words in mind, considering them more dearer than
 his anointment to the kingdom and accepted them with his word."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1123,8 +1075,6 @@ does not speak; *kimchit* = even a little; *apriyam* = of disagreeable word; *ap
 
 "The truly courageous Rama always gives anything to others and does not take anything from others.
 He does not speak just a little of a disagreeable word even for the cause of his life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1172,8 +1122,6 @@ illustrious one; *visR^ijya* = gave up; *raajyam* = his kingdom; *manasaa* = int
 
 "Leaving behind his greatly valuable outer garments and wearing garments made of bark, that highly
 illustrious Rama gave up his kingdom willingly and assigned me to his mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1221,8 +1169,6 @@ I; as such; *vana chaariNii* = (decided) to proceed to the forest; *tuurNam* = a
 
 "To me bereft of him, residing even in heaven does not indeed give pleasure. I, as such, decided
 to proceed to the forest and soon was ready to start even ahead of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1271,8 +1217,6 @@ nandanaH* = the rejoice of his friends; *anuyaatraarthe* = for the purpose of fo
 
 "Adorned with clothes of bark, the illustrious Lakshmana, the rejoice of his friends, got ready
 to follow his elder brother even before (me)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1320,8 +1264,6 @@ to follow his elder brother even before (me)."
 
 "Obeying respectfully the command of Lord Dasaratha, we as such with a firm resolution, entered
 the forest, which we have never seen before and which was deep and profound in appearance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1368,8 +1310,6 @@ the forest, which we have never seen before and which was deep and profound in a
 
 While Rama of great vigour was dwelling in the forest of Dandaka, the evil-minded demon, Ravana
 took me, Rama's wife, away."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 </details>
 
@@ -1417,8 +1357,6 @@ reason; *uurdhvam* = after; *dvaabhyaam* = two; *maasaabhyaam* = months; *tyakSy
 
 "A period of two months of survival-benefit has been given to me by him. For that reason, after
 the said two months, I shall give up my life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

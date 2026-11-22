@@ -19,8 +19,6 @@ banyan tree. Indrajit sees Vibhishana there and starts talking harsh words to hi
 has ditched him by bringing Lakshmana to that place. Vibhishana replies that because of Ravana's
 vices, he has left him and joined Rama's side. He further adds that Indrajit and his army will not
 survive under the range of Lakshmana's arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ him who held a bow in his hand; *jagaama* = went; *jaata harShaH* = rejoiced;
 
 After speaking to him as aforesaid, Vibhishana taking Lakshmana, who held a bow in
 his hand, felt rejoiced and hastened away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ pour oblations into the sacred fire.
 
 Moving not very distant from there and entering an extensive thicket, Vibhishana
 showed to Lakshmana, the place where Indrajit was going to pour oblations into the sacred fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -162,8 +156,6 @@ banyan tree; *niilajiimuutasamkaasham* = looking like a black cloud.
 
 The glorious Vibhishana showed a terribly looking banyan tree, appearing like a
 blace cloud (and spoke as follows).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -210,8 +202,6 @@ battle; *pashchaat* = afterwards.
 
 "After offering oblations to the spirits at this place, the mighty Indrajit proceeds
 to the battle afterwards."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -252,8 +242,6 @@ the beings; *nihanti* = kills; *shatruun* = the enemies; *samare* = in battle;
 
 "Thereupon, this demon becomes invisible to any one, kills some enemies in battle
 and binds some with his excellent arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -304,8 +292,6 @@ banyan tree.
 
 "Destroy that mighty Indrajit, along with his chariot, horses and charioteer, by
 releasing your blazing arrows, even while he has not reached the banyan tree."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -346,8 +332,6 @@ twanging his wonderful bow at full length.
 
 That greatly brilliant Lakshmana, a delight of his fiends, saying 'So be it' took
 his stand there, twanging his bow at full length.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -392,8 +376,6 @@ colour of fire.
 
 That Indrajit, the son of Ravana, clad in armour, armed with a sword, and
 distinguished by his ensign, appeared in a fire-coloured chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -436,8 +418,6 @@ inviting; *tvaam* = you; *samare* = for a fight; *prayachchha* = give;
 That highly splendid Lakshmana spoke to that Indrajit, the scion of Sage Paulastya,
 who had never been conquered before (as follows); "I am inviting you for a fight. Give battle to me
 in a right manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -482,8 +462,6 @@ harsh; *vaakyam* = word.
 
 Thus spoken by Lakshmana, Indrajit with a great brilliance and high mindedness,
 seeing Vibhishana there, spoke the following harsh words to him:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -531,8 +509,6 @@ uncle; *mama* = to me; *katham* = how; *druhyati* = can you be hostile;
 
 "O demon! You are born and brought up here. You are a direct brother to my father
 and a paternal uncle to me. How can you be hostile to a son?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -583,8 +559,6 @@ conduct.
 
 "O perverted fellow, an abuser of righteousness! Consanguinity is not a norm for
 you, nor friendliness, nor pride of birth, nor a brotherly feeling nor a right conduct."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -626,8 +600,6 @@ you, nor friendliness, nor pride of birth, nor a brotherly feeling nor a right c
 
 "O evil-minded one! You are pitiable and deserve to be reproached by the virtuous,
 in that having abandoned your onw kind, you have entered into the service of our enemy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -669,8 +641,6 @@ paraashrayaH* = is taking refuge iwth low kind of enemies?
 
 "You are not recognizing the great difference because of your feeble mind. Where is
 living together with one's own kindred and where is taking refuge with low kind of enemies?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -711,8 +681,6 @@ who is an enemy; *saH* = he; *para eva hi* = is indeed just an enemy.
 
 "Opponents may be virtuous. One's own kindred may not be virtuous. But, a relation,
 though bereft of merit is preferable. An enemy is, indeed, ever an enemy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -760,8 +728,6 @@ destruction; *svapakShe* = of his own side; *hanyate* = would be killed;
 
 "He who, abandoning his own side, takes sides with adversary, is killed, after his
 own knsmen are destroyed just by those people of the other side."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -808,8 +774,6 @@ be possible; *tvayam* = only by you; *svajanena* = our own kindred.
 
 "O Indrajit, the demon! The ruthlessness thus shown by you and the manliness
 exhibited by you (in bringing Lakshmana here) could be possible only by you, our own kindred."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -850,8 +814,6 @@ by his brother's son; *vibhiiShaNaH* = Vibhishana; *pratyuvaacha* = replied;
 
 Hearing the words of Indrajit, his brother's son, Vibhishana replied: "O demon! Why
 do you speak perversely, as though you are not aware of my nature."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -904,8 +866,6 @@ goodness); *yaH prathamaH guNaH nR^iiNaam* = which is the prime virtue of human 
 "O Indrajit the wicked one! Atleast out of respect for the elders, abandon your
 harshness. Even if I am born in a demoniac race, which does cruel acts, my nature is goodness,
 which is prime virtue of human beings and it is not demoniacal."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -953,8 +913,6 @@ different.
 
 "I neither delight in cruel acts, nor rejoice in unvirtuous acts. How can a brother
 be driven away by his brother, even if the former's nature is different?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1002,8 +960,6 @@ deviated; *dharmaat* = from righeousness; *avaapnoti* = one attains; *sukham*
 
 "Renouncing a man of sinful resolve hose conduct has deviated from righteousness,
 one attains happiness, as one shakes off a venomous serpent from his hand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1054,8 +1010,6 @@ shunning; *prajvalitam veshmayathaa* = as one abandons a house in flames.
 "The wise men say that an evil-natured fellow, who is intent on taking away other's
 property and lustfully touches another's wife, is worth shunning, as one abandons a house in
 flames."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1102,8 +1056,6 @@ and excessive distrust with one's friends.
 
 "Three faults produce destruction. Taking away other's property, lustfully touching
 another's wife and excessive distrust with one's friends."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1167,8 +1119,6 @@ bhraatuH* = of my elder brother; *toyadaaH iva* = as clouds (conceal);
 waging war against all celestials, arrogance, becoming angry very easily, quarrelsomeness, ill-will
 have concealed the good qualities of my elder brother, as the clouds conceal the view of
 mountains."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1210,8 +1160,6 @@ pitaacha* = nor your father.
 
 "Because of these vices, Ravana, your father and my brother, has been abandoned by
 me. Neither will this City of Lanka will exist any longer nor you nor your father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1261,8 +1209,6 @@ arrogant; *baalashcha* = foolish; *durviniitashcha* = and indisciplined;
 
 "O demon! You can talk to me as you like, since you are arrogant, foolish,
 indisciplined and caught, as you are, in the noose of Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1310,8 +1256,6 @@ about me; *adya* = today; *praaptam* = you got; *vyasanam* = a calamity;
 
 "O the worst of demons! You got this calamity here because you spoke harsh words to
 me today. You cannot reach the banyan-tree any longer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1368,8 +1312,6 @@ killed; *tvam* = you; *kariShyasi* = will do; *devataakaaryam* = sacred work;
 "It is not possible for you to survive, on attacking Lakshmana. You fight with
 Lakshmana, the lord of men, in the battle-field. After being killed, you will do sacred work in the
 abode of Yama, the god of Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 </details>
 
@@ -1421,8 +1363,6 @@ go; *jiivan* = alive; *adya* = today; *sabalaH* = along with your army.
 "Do spend away all your weapons and arrows, by showing your own augmented strength.
 Reaching the range of Lakshmana's arrows, you will not indeed return alive with your army
 today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhasans87.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

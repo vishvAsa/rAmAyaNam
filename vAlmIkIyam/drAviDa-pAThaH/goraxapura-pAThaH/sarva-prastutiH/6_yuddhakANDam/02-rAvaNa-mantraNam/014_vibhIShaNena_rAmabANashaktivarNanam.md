@@ -20,8 +20,6 @@ power of Rama`s arrow. He also informs that none on the demon's side can withsta
 Prahasta replies that they have no fear at any time to face Rama in battle. Then, Vibhishana
 reiterates the enormous strength of the fatal arrows discharged by Rama and requests the assembly
 to save Ravana by giving back Sita to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -82,8 +80,6 @@ demons.
 Hearing the words of Ravana the king of demons and the growls of Kumbhakarna,
 Vibhishana spoke the following friendly and meaningful words to Ravana the foremost king of
 ogres:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -139,8 +135,6 @@ atikaayaH* = with five hoods as her five fingers."
 "By whom, O, king, has been wrapped around your neck, this great serpent of gigantic
 body called Sita, with heap of expended hoods as her bosom, having poison as her anxiety and with
 sharp fangs as her sweet smile and with five hoods as her five fingers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -195,8 +189,6 @@ Rama."
 
 "Even before the monkeys with their body size as mountain peaks, having their teeth
 and nails as weapons, rush full upon the city of Lanka, give back Sita to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -243,8 +235,6 @@ Rama."
 
 "Even before arrows resembling thunder bolts and with a speed equal to wind,
 dispatched by Rama, take away the heads of chiefs of demons, give back Sita to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -295,8 +285,6 @@ Mahaparshvaa or Mahodara; *nikumbhakumbhaou* = or Nikumbha or Kumbha; *tathaa* =
 
 "O, king! Either Kumbhakarna or Indrajit and either Mahaparsva or Mahodara and
 either Nikumbha or Kumbha or even Atikaya cannot withstand Rama in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -357,8 +345,6 @@ heaven; *paataalam* = or under the earth."
 "Even if you are protected by the sun god, or by Maruts (storm gods) nor even seated
 in the lap of Indra or god of Death nor if you have penetrated into the regions of heaven or under
 the earth you will not be spared by the arrows of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -405,8 +391,6 @@ time."
 
 Hearing the words of Vibhishana, Prahasta spoke as follows: "We are not knowing of
 fear at all. We do not have fear of either celestials or demons at any time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -454,8 +438,6 @@ son of a human king?"
 "We do not have fear from Yakshas (demi- gods) or Gandharvas (celestial musicians)
 or eminent Nagas (serpent demons) or from birds and reptiles on the field of battle. When such is
 the case, how can we have fear from Rama, the son of a human king at any time in battle?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -511,8 +493,6 @@ meaningful; *vachanam* = words(as follows):
 Vibhishana who desired the welfare of the king and who possessed a stable mind in
 virtue wealth and pleasure, after hearing the inimical words of Prahasta, spoke highly meaningful
 words as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -565,8 +545,6 @@ minded; *gatiH* = going; *svargam* = to heaven(is impossible)"
 "O, Prahasta! The series of actions king or Mahodara as also yourself and
 Kumbhakarna propose to take against Rama are impossible of being accomplished, any more than going
 to heaven by wicked minded persons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -617,8 +595,6 @@ ocean; *aplavasya* = by a person without a bark"
 
 "How is it possible by me or by you or by all the demons to kill Rama, who is expert
 in all matters, any more than a person without a bark to cross a great ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -674,8 +650,6 @@ accomplishing; *kR^iteshhu* = his objects."
 "Even the celestials would feel bewildered when placed in front of the king Rama who
 gives priority to righteousness, is a great car warrior, was born in the dynasty of Ikshvaku and is
 capable of accomplishing his objects."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -731,8 +705,6 @@ dangerous to be approached; *na pravishanti taavat* = did not penetrate; *bhitta
 "O, Prahasta! The sharp arrows discharged by Rama, which are furnished with heron's
 feathers and are dangerous to be approached, have not yet penetrated, duly piercing, your body.
 That is why, you indulge in a boastful talk."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -788,8 +760,6 @@ thunderbolt; *shitaaH* = and are sharp; *raaghave vipramuktaaH* = discharged by 
 "The sharp and fatal arrows, discharged by Rama with the speed of a thunderbolt,
 have not yet penetrated, duly splitting your body. That is why; you are indulged in a boastful
 talk."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -849,8 +819,6 @@ _________________
 "Ravana or Triseersha, with great strength or Nikumbha the son of Kumbhakarna or
 Indrajit or yourself are not capable to withstand Rama, who is equal in strength to Indra, in
 battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -904,8 +872,6 @@ battle; *raaghavasya* = against Rama."
 
 "Even Devantaka or Narantaka or Atikaya or Atiratha of gigantic proportions, or
 Akampana who is mighty as an ocean are not capable to withstand against Rama in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -977,8 +943,6 @@ the form of his enemies for the ultimate destruction of demons."
 *The following are the seven evil habits to which kings are generally found
 addicted: --Harshness of speech and severity of punishment, extravagance, drinking, love of women,
 hunting and gambling.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 
 </details>
@@ -1039,8 +1003,6 @@ proportions; *sahasra muurdhnaa* = having thousand hoods."
 "You lift up and release this king, who has been wrapped forcibly by a terrific and
 exceedingly strong snake of boundless proportions having thousand hoods and make him completely
 free."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -1096,8 +1058,6 @@ pulling his hair; *gR^ihiitaH yathaa* = as one who is taken possession of ;
 "All the well-wishers who are getting their desires fulfilled by the king, should
 come together and protect the king by coercion even by pulling his hair if necessary as one who is
 taken ossession of by evil spirits with terrific strength, is protected by one's kith and kin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -1155,8 +1115,6 @@ you."
 shape of Rama - which is full of excellent water (who possesses excellent moral character) and who
 is about to fall into the mouth of Patala (the nethermost subterranean region) in the shape of
 Rama, is fit to be rescued united by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -1209,8 +1167,6 @@ with his well wishers; *maithiliim* = Let Sita; *dadaatu* = be given back;
 "I am telling these right and wholesome words, as per my opinion, to this city and
 the demons inhabiting in it as well as to the king and his well wishers: Let Sita be given back to
 Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 </details>
 
@@ -1273,8 +1229,6 @@ _________________
 own (master) and even so duly grasping with his intellect, the status quo, fall, or rise in
 military power like-wise on both sides, renders advice which is appropriate to the interest of his
 king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga14/yuddhasans14.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

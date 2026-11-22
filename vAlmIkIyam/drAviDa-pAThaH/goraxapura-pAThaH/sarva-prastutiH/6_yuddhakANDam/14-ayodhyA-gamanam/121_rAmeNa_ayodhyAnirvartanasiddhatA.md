@@ -16,8 +16,6 @@ Rama prepares to leave for Ayodhya. Even though Vibhishana requests Rama to rema
 at Lanka for some more time and receive his hospitality, Rama gently refuses to do so, adding that
 he needs to proceed to Ayodhya quickly, to see his mothers, brothers and people there. Vibhishana
 arranges the aerial car, Pushpaka to transport Rama and others to Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -144,8 +142,6 @@ _________________
 
 Hearing the words of Vibhishana, Rama replied as follows: "You invite the monkeys
 headed by Sugreeva for the bath."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -192,8 +188,6 @@ Truth; *taamyati* = is suffering; *mama hetoH* = on my account.
 
 "That Bharata, the virtuous man, who was accustomed to comfort, a delicate youth,
 the great-armed and the one consistent with the truth is suffering on my account."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -243,8 +237,6 @@ _________________
 
 In the absence of Bharata, the son of Kaikeyi, who is practicing virtue, ritual
 bathing, garments and jewels are not to my liking."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -291,8 +283,6 @@ over; *gachchhataH* = (for anyone) proceeding; *ayodhyaam* = to Ayodhya City.
 
 "See how we may return to that City of Ayodhya soon. It is indeed very difficult to
 travel over this path to reach Ayodhya City, so soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -333,8 +323,6 @@ Vibhishana; *pratyuvaacha* = replied; *kaakutthsam* = to Rama (as follows):;
 
 Hearing the words of Rama, Vibhishana replied : "O prince! I will get you t that
 City in a day."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -390,8 +378,6 @@ bhadram* = may prosperity attend you!; *idam* = it; *tiShThati* = is there;
 one pleases, wonderful and excellent, named Pushpaka of Kubera my brother was robbed by the mighty
 Ravana after conquering Kubera in battle. May prosperity attend you! It is retained there for your
 sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -435,8 +421,6 @@ to Ayodhya; *vigatajvaraH* = without any trouble.
 
 "The yonder aerial car, looking like a cloud, stands here and by which transport,
 you can reach Ayodhya without any trouble."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -482,8 +466,6 @@ think of any virtue in me; *sauhR^idam mayi asti yadi* = if you have any affecti
 "O sagacious prince! If I deserve to be treated with kindness by you, if you think
 of any virtue in me and if you think of any virtue in me and if you have any affection in me, stay
 here for some more time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -499,8 +481,6 @@ with Seetha; your consort; *tataH gamiShyasi* = you may go; thereafter.
 
 "O Rama! When you have been offered with reference all the entertainments, you along
 with Lakshmana, your brother and Seetha your consort, shall then depart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -542,8 +522,6 @@ me.
 
 "O Rama! In the meantime, accept you, with your entire army and assemblage of
 friends, my hospitality which has been fixed and arranged by me, full of affection as I am."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -582,8 +560,6 @@ khalu* = I am not indeed commanding; *te* = you (to do so).
 
 "O Rama! I entreat you with affection, respect and friendship I am your servant. I
 am not in any way commanding you to do so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -630,8 +606,6 @@ rakShasaam* = while all the demons; *vaanaraaNaam cha* = and the monkeys;
 
 Hearing those words, Rama replied to Vibhishana as follows, while all the demons and
 the monkeys present there, listened:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -654,8 +628,6 @@ following words; *praaN^jalim* = with joined palms.
 Vibhishana, wishing victory to Rama, (the destroyer of adversaries) who having
 reposed during the previous night and had risen fresh, spoke to him with joined palms, the
 following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -705,8 +677,6 @@ by your friendship; *puujitaH asmi* = I stand honoured; *tvayaa* = by you.
 
 "O destroyer of enemies! O hero! I stand honoured by you by your valued counsel,
 your efforts put forth with your whole soul and more so by your friendship.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -752,8 +722,6 @@ my brother.
 
 "O king of demons! It is not that I am not carrying out your words. But, my heart is
 hastening to see that Bharata, my brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -805,8 +773,6 @@ to take me back to Ayodhya, yet whose appeal was not executed by me, even though
 with his head bent low and Kausalya my mother as also Sumitra and the illustrious Kaikeyi (my
 step-mothers) as also Guha my friend, as well as the citizens of Ayodhya and the inhabitants of the
 country-side."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -847,8 +813,6 @@ entreat; *tvaam* = you.
 
 "O gentle Vibhishana! Allow me to go. I am honoured. O friend! You need not be
 disappointed, I entreat you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -890,8 +854,6 @@ fetch; *vimaanam* = the aerial car; *shiighram* = immediately; *katham* = how;
 
 "O the king of demons! Fetch the aerial car immediately. How is it advisable for my
 continued stay here, now that my task has been accomplished?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -996,8 +958,6 @@ tvaam snaapayiShyanti* = they will duly assist you in bathing; *raaghava* = O Ra
 "These women with lotus-like eyes, who are skilled in the art of decoration, came
 with bathing accessories like garments, ornaments, sandal-pastes and beautiful garlands of various
 kinds. They will assist you in bathing O Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -1117,8 +1077,6 @@ sides, resembling a summit of Mount Meru, built by Vishvakarma, which was graced
 palaces decked with pearls and silver, provided with pavements inlaid with crystal, furnished with
 excellent seats of cat's eye gems of great value and upholstered with highly valuable
 coverings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -1159,8 +1117,6 @@ vimaanam* = that the said aerial car; *anaadhR^iShyam* = which could not be assa
 
 Informing Rama that the said aerial car which could not be assailed and was as swift
 as though- had arrived, Vibhishana stood there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 </details>
 
@@ -1215,8 +1171,6 @@ surprise; *dR^iShTvaa* = in seeing; *tat* = that; *vimaanam* = aerial car;
 The generous minded Rama along with Lakshmana felt amazed to see the aforesaid
 aerial car, Pushpaka, which resembled a mountain and which could travel everywhere at will, arrived
 on that occasion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

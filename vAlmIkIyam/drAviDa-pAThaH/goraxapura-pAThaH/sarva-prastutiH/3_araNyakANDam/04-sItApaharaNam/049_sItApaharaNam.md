@@ -18,8 +18,6 @@ title_english = "049 Seetha s abduction takes place now"
 Seetha's abduction takes place now. Ravana forcefully abducts Seetha in his air-chariot. She bewails
 and bemoans for Rama and Lakshmana and appeals to all nature to inform Rama about this abduction. Finally,
 she sees Jatayu, the eagle, and asks him to narrate her abduction to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ his very mighty body. [3-49-1]
 These beings, including Hanuma, change into titanic form when they are infuriated. A cruel aspect minus
 anger is not in consonance with each. Thus, Ravana got wild first, but he does not want to hide his
 reality before his Goddess Lakshmi, hence he divulged his real aspect. Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -141,8 +137,6 @@ Or, the role-play of a Brahman sanyasi is not in consonance with the villainous 
 of a Brahman itself is a hindrance to his original atrocious nature known to world as raa vaNa 'one
 who makes people to cry...' thus vexed with this role-paying of a Brahman, he clapped loudly and infuriately,
 for once. Rama Tilaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -189,8 +183,6 @@ I gulp down; *raNe sthitaH* = in war, standing; *mR^ityum hanyaam* = Death, I pu
 
 "Standing on the sky I can lift up the earth with two of my arms, I can completely gulp down any ocean,
 standing in war I can even put the Death to death. [3-49-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -239,8 +231,6 @@ standing in war I can even put the Death to death. [3-49-3]
 "Indeed, I can split the Sun and splinter the earth with my splitting arrows, oh, mad woman, I can assume
 any form as I wish, and endow any wish you wish, such as I am, I must be your husband, behold me." So
 said Ravana when revealing his real nature. [3-49-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -286,8 +276,6 @@ edges; *netre* = in such eyes; *rakte babhuuvatuH* = bloodshot, became.
 
 While the infuriated Ravana is saying in that way his eyes which by themselves are torchlit in their
 shine have became further bloodshot and blackened at their edges. [3-49-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -334,8 +322,6 @@ form, similar to; *tiikshNa ruupam bheje* = ferocious, aspect, he assumed.
 
 Immediately discarding the gentle form of a Brahman friar, that younger brother of Kubera, Ravana, assumed
 his own ferocious form which is similar to the form of Terminator. [3-49-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -387,8 +373,6 @@ faced one; *vimshati bhujaaH* = twenty, with arms; *kSaNadaa caraH* = night, wal
 That celebrated Ravana whose eyes are bloodshot as he is ensorcelled by desperate fury transmuted his
 form into a tend-faced, twenty-armed night-walker wearing golden ornaments of purified gold and appearing
 as a black tempestuous cloud. [3-49-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -461,8 +445,6 @@ of a lady. [3-49-8b, 9]
 
 He stood before her showing his mighty physique, expecting her to yield on seeing such a magnificent
 manly physique, which dissimilar to the girlish physique of her husband Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -510,8 +492,6 @@ taam maithiliim abraviit* = to her, to Maithili, spoke.
 She whose tresses are glossily blackish until their ends, and who has on her glittering jewellery and
 silken-ochry-sari, whereby who is imperceivable like sun's glaring shine, to such Maithili Ravana spoke.
 [3-49-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -557,8 +537,6 @@ me, you seek shelter; *aham tava sadR^ishaH patiH* = I [alone] will, to you, mat
 
 "If you wish to have a husband of well-renown in three worlds you seek shelter in me, oh, high-hipped
 lady, I alone will match up to you as husband. [3-49-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -613,8 +591,6 @@ husband; *aham kvacit* = I will, anytime; *tava* = to you; *vi priyam* = dis, pl
 "Ultimately you have a much-lauded husband in me, as such you oblige me, and I will not cause any displeasure
 to you at any point of time. Let your heart refrain from that humanly Rama and you start bringing round
 your heart towards me. [3-49-12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -721,8 +697,6 @@ for such a Vishnu, though... and I have no objection for that, but bless me too.
 api matiH - anugraahikaa buddhi *'He is not a mindless person, but he has a mind for the mindless
 and bad-minded persons like me... So please come with me and let your husband follow you to Lanka and
 accord salvation, as planned by you all...' Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -788,8 +762,6 @@ other women, but not towards Seetha. And thus he caught hold of Seetha, as the p
 the son of Moon catches his own Star mother Rohini, a dear wife the Moon, reverentially. Maheshvara
 Tiirtha. Later commentators rejected this saying that, if it were to be so, then Ravana has Oedipus
 complex.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 
 </details>
@@ -836,8 +808,6 @@ hand, thighs, but; *parijagraaha* = grabbed.
 
 He that Ravana grabbed the lotus-eyed Seetha on lifting her up with his left hand at her plait of hair
 at nape, and with his right hand at her thighs. [3-49-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -889,8 +859,6 @@ deities; *bhaya aartaa* = by terrorism, terrorised; *praadravan* = quickly fled.
 On seeing him who grabbed Seetha, who has incisive fangs, mightily armed and who is shining forth like
 a mountain crest and similar to Death, the forest deities quickly fled away terrorised by his terrorism.
 [3-49-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -932,8 +900,6 @@ angaH* = golden, with wheels [parts]; *raavaNasya saH mahaarathaH* = Ravana's, t
 Then the miracle-air-chariot of Ravana which is miraculously designed to appear and disappear at the
 wish of its master, yoked with miraculous mules, and built with its golden wheels and parts, appeared
 afore Ravana braying noisily. [3-49-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -983,8 +949,6 @@ vaidehiim* = her, Vaidehi; *paruSaiH vaakyaiH abhitarjya* = with bitter, words, 
 
 Then he whose voice is strident that Ravana lifted her up by her waist and got Vaidehi up on the air-chariot
 intimidating her with bitter words. [3-49-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1031,8 +995,6 @@ thus [saying]; *ati cukrosha* = loudly, wailed.
 
 Agonised with anguish when gone into the captivity of Ravana, she that glorious Seetha wailed loudly
 for Rama saying 'oh, Rama,' which Rama has gone deep into the forest by then. [3-49-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1081,8 +1043,6 @@ aadaaya* = her, on picking her up; *[vegena* = speedily]; *ut papaata* = up, fal
 Ravana who is infatuated with lust picked her up, which lady is disinclined for any kind of sensuality
 and who is verily writhing like the wife of King Cobra, and then he surged skyward and flew off with
 her in his air-chariot. [3-49-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1129,8 +1089,6 @@ cukrosha* = stridently, bawled.
 
 While that lord of demons is abducting her in the skyway, Seetha became frenzied with bewildered faculties
 and then bawled stridently like a hysterical person. [3-49-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1179,8 +1137,6 @@ that too firstly, before calling Rama, that too addressing as 'dextrous one...' 
 Not so, 'Lakshmana is the one who can protect even the self-reliant Rama, then where is the question
 of his not protecting Seetha from any calamity?' is her reasoning. On the other hand, Lakshmana left
 the hermitage just now, so he must be within earshot, while Rama went into deep of the forest long back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1228,8 +1184,6 @@ dharmeNa* = by not, righteousness - unrighteousness or, by an unrighteous demon;
 "Oh, Raghava, you have relinquished your high-life, happiness, and riches for the sake of righteousness,
 and though you avowed to protect your observants, you are unobservant of me who am being abducted by
 the unrighteousness itself. [3-49-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1277,8 +1231,6 @@ how, I wonder; *na shaassi hi* = not, controlling, indeed.
 "Oh, enemy-inflamer Rama, I reckon that you are an absolute controller of uncontrollable beings, I wonder
 why you are not controlling this kind of sinner, Ravana, indeed?" This is how Seetha started her cry
 in wilderness. [3-49-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1326,8 +1278,6 @@ for cooking [after ripeness,] as with; *atra* = in such matters; *kaalaH api ang
 "Indeed, the result for an evil act will not be apparent instantaneously. Even the time becomes a factor
 in the matter of cause and effect, as with the crops becoming cookable after certain time lag." Thus,
 she is addressing Ravana now. [3-49-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1375,8 +1325,6 @@ tribulation, you get.
 "The Time has battered your brains and as an infringer you have undertaken this particular exploit,
 whereby you will get a devastating and life-ending tribulation from Rama." Thus, she upbraided Ravana.
 [3-49-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1434,8 +1382,6 @@ Rama also talks in this way when Viraadha abducted Seetha in the opening chapter
 This small talk is more humanly as said: *supramatta kupitaanaam bhaava j~naanam dR^iSTam* 'in
 the delirious or furious conditions, one's own heart is outspoken...' and if it is spoken in anger none
 but their antagonists are envisaged, firstly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1481,8 +1427,6 @@ raamaaya shamsadhvam* = instantly, to Rama, be made known inform.
 
 "I call the attention of the flowered Karnikaara trees of Janasthaana, you inform Rama that Ravana is
 thieving Seetha." Thus, she is addressing the woods and others on the ground from air-chariot. [3-49-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1534,8 +1478,6 @@ lap and that bird swiftly takes to flight to go to Rama and informs him, because
 sympathetic with Rama and with me, as well...' This is *hamsa sandesha, saarasa sandesha* which
 idea became more famous at a later time for the emergence of masterpieces like *megha sandesha*
 of Kalidasa and *hamsa sandesha* in *nala damayanti upaakhyaana.*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1594,8 +1536,6 @@ if *iun *is read as *an` *and *ng *be read as *j~na *of Sanskrit, this
 *iungo *is also *an~jali *as Latin has many Sanskrit words in it. Then this is called
 *namaskaara baaNa *'a salutation-arrow' more like a cupid's arrow to bring two together... not
 necessarily a male and a female, but any two or more, in veneration or friendship.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1657,8 +1597,6 @@ Presuming that the water loving water birds may not penetrate the deep forest, a
 the sylvan deities presiding on the treetops. Again presuming that these sylvan deities of forests may
 not be able to see through the thick of forest, she is now asking the animals and birds that usually
 move on the ground, to locate Rama. This entire criss-cross thinking has happened within split seconds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1674,8 +1612,6 @@ stolen; *priyaam* = about [his] dear [wife]; *vi vasha* = without, help [helples
 
 "Inform my husband about his dear and loftier wife than his lives, saying that, 'helpless Seetha is
 stolen by Ravana.' [3-49-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1723,8 +1659,6 @@ to] other world [to heavens,] even if; *viditvaa* = [if he comes to] on knowing;
 "If that ambidextrous Rama comes to know about me, even if I am taken to heavens, or, even if I am impounded
 by Death, that great-mighty Rama brings me back, on aggressing against all of the gods in heaven, or,
 against Yama, the Death God." Thus, she appealed to one and all, but in vain. [3-49-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1771,8 +1705,6 @@ onto - perched on, eagle, she saw.
 
 She that wide-eyed Seetha who is highly anguished and bewailing with pitiable words then with a wide-eyed
 expectancy saw the eagle Jatayu perching on a tree. [3-49-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1819,8 +1751,6 @@ walloped with, [stuttering] voice; *sam aakrandat* = squeakily, shrieked.
 
 She that well-waisted lady who has gone into the captivity of Ravana craned and stared at the eagle,
 and worsted by fear she shrieked squeakily with a stuttering voice that is walloped with anguish. [3-49-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1867,8 +1797,6 @@ like [orphanized one]; *karuNam* = pitiably; *hriyamaaNam* = being abducted; *ma
 
 "Oh, fatherly Jatayu, see me, like an orphanized one I am pitiably abducted by this lord of demons with
 sinister deeds. [3-49-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1919,8 +1847,6 @@ one.
 
 "It is impossible for you to forestall this merciless night-walker, for he is formidable, shining forth
 with cunning conquests, also thus this wicked minded one is with weaponry. [3-49-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 </details>
 
@@ -1980,8 +1906,6 @@ but if it comes to weapons and missiles, a natural being cannot withstand the ar
 of war. Hence, visualising the danger in Jatayu's attempting any combat with Ravana, she is asking him
 to be the carrier of news, as all the trees, river and her birds, sylvan deities, and the other birds
 and animals are not heedful of her request, and this eagle alone is beheld, besides being an old acquaintance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

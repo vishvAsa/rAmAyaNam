@@ -18,8 +18,6 @@ V : Sundara Kanda - Book Of Beauty**
 
 Hanuma continues his search for mother Seetha in Ravana's inner city. He sees the
 aerial plane Pushpaka in Ravana's building.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -85,8 +83,6 @@ group of birds.
 That Hanuma, the strong one, saw a group of houses with windows in golden hue,
 embedded with cat's-eye gems, like a great group of clouds in rainy season with lighting, together
 with a group of birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -145,8 +141,6 @@ important buildings storing conches; bows; and other weapons; *punaH* = and also
 
 Hanuma saw various halls of the houses, important buildings storing conches, bows,
 and other weapons, and also heartening spacious attics at the top of mountain- like houses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -200,8 +194,6 @@ rakshasas;
 
 Hanuma saw houses glittered by various riches, well worshipped by Devas and Asuras,
 devoid of all flaws and obtained by the self-might of rakshasas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -259,8 +251,6 @@ himself; *mahiitale* = on Earth; *sarvaguNottaraaNi* = with all best qualities.
 
 Hanuma saw those houses of the ruler of Lanka, constructed by great effort as though
 constructed by Mayaa himself on earth with all best qualities.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -316,8 +306,6 @@ Ravana's might.
 Thereafter Hanuma saw the best house of the lord of rakshasas, having the appearance
 of a cloud, soul-captivating one having a beautiful form made of gold which has no comparison,
 suitable of Ravana's might
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -373,8 +361,6 @@ suitable of Ravana's might
 Hanuma saw Ravana's house like heaven thrown upon earth, effulgent with glory,
 embedded with variety of diamonds covered by flowers of various trees, like the summit of a
 mountain covered by pollen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -435,8 +421,6 @@ sky.
 Being shone by the best among women like a cloud by lightening, being worshipped,
 like being carried by the best swans, like an aerial car full of splendor, of good people in
 sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -496,8 +480,6 @@ a mountain peak; *bahudhaatu chitram* = looking picturesque with numerous minera
 Hanuma saw the best house like a beautiful cloud endowed with many hues, like the
 sky illumined by planets including the moon, decked with numerous precious stones like a mountain
 peak, looking picturesque with numerous minerals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -555,8 +537,6 @@ be full of flowers; *pushhpam* = the flower; *kR^itam* = was made;
 The earth was made to be full of mountain ranges. The mountains were made to be
 abounded of trees. The trees were made to be full of flowers. The flower was made to be full of
 filaments and petals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 
 </details>
@@ -616,8 +596,6 @@ also; *supushhpaaNi* = with beautiful flowers; *punashcha* = and also;
 
 White mansions were also built in the same way. Lakes also with beautiful flowers
 and also lotuses together with filaments and forest that were the best and wonderful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -677,8 +655,6 @@ stones; *vighuurNamaanam* = capable of traveling long distances.
 There the great Hanuma saw a great aerial car, the best among best of aerial cars,
 shining with the name of Pushpaka with the rays of precious stones, and capable of traveling long
 distances.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -739,8 +715,6 @@ arranged.
 Artificial birds made of cat's-eye gems, as well as birds made of silver and coral,
 wonderful serpants made of various jewels, horses of beautiful limbs suitable by their noble breed
 were arranged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -795,8 +769,6 @@ like helpers; *kaamasya* = of the god of love; *saakshaat* = himself.
 Birds were made with corals on their wings and ogether with golden flowers, with
 good wings, with curved and bent wings in a playful way, shining like helpers of the god of love
 himself
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -859,8 +831,6 @@ Images of elephants in a lotus-pool with filaments of lotus on body, with lotus
 petals held in their trunks, were devoted to the worship of an image of Goddess Lakshmi. And also
 an image of Goddess Lakshmi with four graceful hands and holding lotus in Her hand was made to
 exist in Pushpaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -921,8 +891,6 @@ surprised; *punashcha* = and saw (again); *tat* = that house; *paramasugandhi*
 In this fashion, nearing that house which was shining like a mountain with a
 beautiful glow that house with great sweet fragrance like a beautiful mountain during spring, with
 beautiful cave became surprised and saw (again).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -984,8 +952,6 @@ Rama.
 Thereafter that Hanuma nearing that city of Lanka worshipped by Rakshasas, ruled by
 arms of ten-headed Ravana, moving thereabout became very gloomy on not seeing that Seetha well
 worshipped by all and greatly conquered by the virtues of Her husband Sri Rama
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 </details>
 
@@ -1047,8 +1013,6 @@ Seetha;
 Thereafter then the heart of the great souled Hanuma who contemplated supreme spirit
 in many ways with a disciplined mind following righteous path, with good observant eyes, moving
 about in the city of Lanka became greatly sorrowful on not seeing Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga7/sundarasans7.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

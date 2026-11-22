@@ -21,8 +21,6 @@ while consoling the aged couple and finally how, having cursed the king that he 
 agony caused by the separation from his son, the aged couple gave up their lives. Having thus
 narrated the story of his getting the curse long back and loudly weeping, king Dasaratha dies of
 grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ spoke; *kausalyaam* = to Kausalya (as follows):
 
 The high souled Dasaratha, while lamenting about the unworthy killing of that sage,
 spoke further to Kausalya as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ spoke further to Kausalya as follows:
 
 Having done that great sin inadvertently, having my senses confounded and I being
 alone, I thought of using my reason of what best can be done."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ hermitage."
 
 "Taking the best water fully in that pitcher, I went to that hermitage by the path
 as directed by the young sage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -248,8 +240,6 @@ because of me."
 a guide to support them, as birds whose wings were cut-off. Without any other occupation, they were
 narrating words only about their son. Having no protector and being immobile they lost the hope of
 their son, because of me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -293,8 +283,6 @@ santraptachetanaH* = worried in mind about the impending peril; *aham gataH* = I
 
 "With my mind afflicted by grief and worried about the impending peril, I fell a
 prey to further grief after reaching the hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -341,8 +329,6 @@ following) words:"Oh;son! Kim = why; *chiraayasi* = are you late? aanaya = bring
 
 "Hearing the sound of my foot-steps, that sage spoke as follows: "O, son! Why are
 you late? Give me the water soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -390,8 +376,6 @@ you late? Give me the water soon."
 
 "My dear son! Your mother is regretting why you are playing in water in this manner.
 Enter the hermitage quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -433,8 +417,6 @@ you."
 
 "O, son! My dear! If any disagreeable thing has been done by your mother, or me,
 you, as a sage ought not have kept it in your mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ naabhibhaashhate* = not talking; *naH* = with us?"
 
 "We being helpless, you are our refuge. We being blind, you are our eyes. Our lives
 are encircled around you. Why are you not talking with us?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -529,8 +509,6 @@ are encircled around you. Why are you not talking with us?"
 
 "As though fearful in mind to behold the ascetic, I spoke to him in a tone which was
 indistinct inarticulate and without some consonants?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -577,8 +555,6 @@ told; *tasmai* = him; *bhayam* = of the fear(that awaited him);
 
 "Having strengthened the firmness in my speech and having abandoned fear in my mind
 by deliberate efforts, I told him of the alarm that awaited him of his son's death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -626,8 +602,6 @@ high souled; *putraH* = son; *idam* = this; *duHkham* = calamity;
 
 "I am Dasaratha, belonging to warrior- class. I am not your high-souled son. This
 calamity created by my own act, despised by noble men, befell upon me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -675,8 +649,6 @@ any; *shvaapadam* = wild animal".
 
 "O, venerable sage! Wearing a bow in hand, I came to the bank of Sarayu River with
 an intent to kill an elephant arrived to a ford (for drinking water) or any other wild animal."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -724,8 +696,6 @@ me; *baaNena* = with an arrow."
 
 "Then by me was heard the sound of a pitcher being filled with water. Guessing it as
 an elephant, I killed it with an arrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -773,8 +743,6 @@ heart."
 
 "Thereafter, reaching the bank of the river there, I saw an ascetic lying dead on
 the ground, with the arrow pierced into his heart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -822,8 +790,6 @@ killed"
 
 "O, honorable sage! With a desire to kill an elephant by targeting the sound, I
 released an iron arrow, and thus your son was killed (hit)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -871,8 +837,6 @@ part."
 
 "Approaching as per his request, closer to him who was suffering from pain, I took
 out the arrow soon from his vital part."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -920,8 +884,6 @@ lamenting; *andhou iti* = that both of you were blind; *tatraiva* = there itself
 
 "Soon after taking out the arrow, he worried about both of you the parents,
 lamenting that you were blind and there itself he attained Heaven"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -968,8 +930,6 @@ lamenting that you were blind and there itself he attained Heaven"
 
 "Unknowingly and unexpectedly your son was killed by me. It has happened like that.
 Let the honorable sage command me what to do in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1017,8 +977,6 @@ sage; *naashakat* = could not; *akartum* = resist; *tiivram* = severe;
 
 Hearing that cruel news pronounced by me, confessing my sin, that venerable sage
 could not resist his severe anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1065,8 +1023,6 @@ near; *kR^itaaNjalim* = with joined palms."
 
 "That sage with great splendor, whose face was filled with tears and troubled by
 sorrow, spoke with a sigh to me who came near him with joined palms"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1117,8 +1073,6 @@ not told; *me* = me; *etat* = about this; *ashubham* = shameful;
 
 "If you have not told me about this shameful deed yourself, O. king, your head would
 have burst instantly into a hundred thousand pieces."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1165,8 +1119,6 @@ particular; *vaanaprasthe* = (killing done) to a hermit; *chyaavayet* = would ex
 
 "A killing brought about by a warrior premeditatedly and in particular to a hermit,
 would expel even Indra from his post."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1215,8 +1167,6 @@ gets bursts; *saptadhaa* = into seven pieces."
 "The head of a dispatcher of a weapon with a knowledge of the matter on a sage
 established in austerity or such an unmarried student practicing sacred study, gets burst into
 seven pieces."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1264,8 +1214,6 @@ would have been no more indeed".
 
 "You are still surviving because you have done it unknowingly. Not even you, but
 today the whole of Ikshvaaku dynasty would have been no more, if it is not the case."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1324,8 +1272,6 @@ Yama (god of death); *naya* = to that place."
 body is drenched in blood, with his garment of deer-skin scattered from him, lying unconscious on
 the ground and who is subjected to the dominion of Yama(god of death) . Take both of us to that
 place."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1372,8 +1318,6 @@ with his wife; *asparshayam* = to touch; *tam putram* = that son."
 
 "Thereafter, taking both of them, who were weeping profusely, to that place, I for
 one made that sage and his wife to touch their son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1421,8 +1365,6 @@ spoke; *idam* = these words."
 
 "Approaching their son, that miserable couple touched their son's body and fell on
 it . Then, his father spoke as follows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1469,8 +1411,6 @@ on the floor? kimasi = are you; *kupitaH* = angry?".
 
 "My dear boy! You are not offering salutation to me, nor do you talk to me. Why are
 you sleeping on the floor? Are you angry?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1518,8 +1458,6 @@ youth!"
 
 "O, righteous son! I am beloved to you. Otherwise, see your mother. Why are you not
 embracing, my son? Utter some words, O delicate youth!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1570,8 +1508,6 @@ hear?."
 
 "Whose sweet and heart touching voice, reciting one sacred text or the other in
 particular at the end of the night, shall I hear from now?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1623,8 +1559,6 @@ bhayaarthidam* = as I was afflicted with grief and fear?"
 "O, son! Who after taking bath, worshipping the goddess of dawn, and offering
 oblations in fire, will be sitting beside me and talking confidently looking at me, as I was
 afflicted with grief and fear?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1672,8 +1606,6 @@ without fetching anything; *anaayakam* = without having any guide making me to w
 "Who will feed me, like a beloved guest is fed, with roots and fruits while I am
 sitting without any work, without fetching anything and without having any guide making me to
 walk?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1721,8 +1653,6 @@ son?"
 
 O, delicate youth! How can I support your mother, who is blind, aged and a poor
 woman in a pitiable condition, longing for her son?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1769,8 +1699,6 @@ gamaH = do not go; *sadanamprati* = towards the house; *yamasya* = of Yama;
 
 "O, son! Come to a halt. Do not go to Yama's abode. You can proceed tomorrow with me
 and with your mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1817,8 +1745,6 @@ without any protector; *vane* = in the forest; *kR^ipaNou* = and poor;
 
 "Bereft of you, afflicted with grief, without any protection in the forest and poor,
 both of us also will come soon along with you to Yama's abode."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1866,8 +1792,6 @@ parents."
 
 "Thereafter, seeing Yama, I shall tell these words to him. �O, Yama! Excuse me. Let
 this boy nourish his parents.' "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1927,8 +1851,6 @@ reward in the form of fearless-ness."
 "The most glorious and high souled Yama, the guardian of the world will be obliged
 to give this solitary imperishable boon in the form of fearlessness to me, who is in such a
 condition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1945,8 +1867,6 @@ yodhinaam* = obtained by those who die fighting with weapons."
 
 "O, son! This criminal killed you. As it is true that you were sinless, you will
 soon obtain the realms as reached by those who die fighting with weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -1995,8 +1915,6 @@ such; *paramaam* = a highest; *gatim* = state; *yaam* = which; *gatim*
 "O, son! Move on to that which is the highest state, which is obtained by the
 warriors, who do not return even while being killed, from the direction facing their enemies in
 battles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2046,8 +1964,6 @@ destiny; *yaam* = which; *praaptaaH* = was obtained by; *sagaraH* = Sagara;
 
 "Obtain the destiny which was obtained by Sagara, Saibya, Dilipa, Janamejeya,
 Nahusha and Dundumara."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2098,8 +2014,6 @@ studied scriptures, by an act of austerity, by a gift of the land, by him who ha
 fire, who has taken a vow of marrying a single wife, who gifts a thousand cows, who are owed to the
 service of the preceptor and that which is obtained by those who have abandoned their body (by
 journeying to Himalayan Mountains, or drowning themselves in water or leaping into the flames)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2147,8 +2061,6 @@ race; *na gachchhati hi* = will not obtain; *akushalaam* = an unsafe; *gatim*
 
 "The one born in the race of sages will not obtain an unsafe destiny. The person,
 who killed you, my son, will obtain that bad destiny."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2196,8 +2108,6 @@ demised son."
 
 "Thus, that sage repeatedly wept there pitiably. Then he, along with his wife,
 started doing the ceremony of offering water to his demised son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2244,8 +2154,6 @@ along with Indra(the king of celestials); *svakarmabhiH* = by his own pious acts
 
 "The pious son of the sage on his part, soon ascended the Heaven, wearing a
 wonderful form along with Indra (the king of celestials) as a result of his own pious acts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2293,8 +2201,6 @@ words:-
 
 "That son of the sage who was together with Indra, talked to his parents. Consoling
 his parents for a while, he spoke the following words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2341,8 +2247,6 @@ to both of you; *bhavatou apicha* = you will also; *upaishhyataH* = obtain;
 
 "I obtained the supreme state because of my service to both of you. You will also
 obtain soon my vicinity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2389,8 +2293,6 @@ plane;divyena = which was wonderful; *vapushhmataa* = having a beautiful form;
 
 "The son of the sage, whose senses were subdued, thus spoke and by a wonderful aero
 plane with beautiful form, quickly reached Heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2438,8 +2340,6 @@ spoke; *maam* = to me; *upasthitam* = who was standing near him;
 
 "That ascetic with great splendor along with his wife soon performed the ceremony
 offering water to his dead son and spoke to me, who was standing near him with folded hands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2487,8 +2387,6 @@ offering water to his dead son and spoke to me, who was standing near him with f
 
 "O, king! You have made me, without a son, by killing my one and the only one son,
 by an arrow. You kill me also now. I am not frightened about death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2538,8 +2436,6 @@ that reason; *abhishapsyaami* = I shall curse; *suduHkham* = most painful;
 
 "Since you have killed my holy son through ignorance, I shall pronounce a most
 painful and very cruel curse on you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2583,8 +2479,6 @@ you; *kaalam karishhyati* = will die; *putrashokena* = by the loss of your son"
 
 "O, king! Even as I am suffering from agony now because of the loss of my son, in
 the same manner; you will also die due to agony caused by the loss of your son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2601,8 +2495,6 @@ possession; *aashu* = quickly; *tvaam* = of you."
 
 "O, king! Since the sage was killed by you, belonging to the warrior class, through
 ignorance, the son of killing a Brahmin will not take possession of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2644,8 +2536,6 @@ the priest."
 
 "A feeling similar to this, which makes the life awful and extinct, will indeed
 quickly come to you, even as a merit accrues to the donor of a donation to the priest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2687,8 +2577,6 @@ heaven."
 
 "Pronouncing the curse thus on me, that couple wept many times pitiably, placed
 their body on the funeral pile and proceeded to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2739,8 +2627,6 @@ remembered by me; *chintayaanena* = on reflection."
 "O, Kausalya! The sin I myself committed through ignorance on that day, by invoking
 an arrow and hitting an invisible object the sound of which was heard, I remember it now on
 reflection over it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2788,8 +2674,6 @@ mixed with forbidden things; *ayam vipaakaH* = this result; *samupasthitaH* = ca
 
 "O, Kausalya! As a disease comes sometime after eating a nutriment mixed with
 forbidden things, this present occurrence came as a result of the sinful act by me long ago."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2805,8 +2689,6 @@ give up; *jiivitam* = my life; *putrashokena* = due to grief for the loss of my 
 
 "O, my dear lady! Those words of that noble sage, saying that I shall give up my
 life due to grief for the loss of my son, have come true to me now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2859,8 +2741,6 @@ Dasaratha; *trasto* = terribly; *rudan* = weeping; *ahacha* = and again said;
 
 "O, Kausalya! I am not able to see you with my eyes. Touch me well" Thus speaking,
 King Dasaratha, terribly weeping said to his wife as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2908,8 +2788,6 @@ befitting; *tasyaiva* = to him only."
 
 "O, queen! The wrong that was done by me in respect of Rama was not befitting of me.
 But the good that was done by Rama in my case was worthy only of him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -2951,8 +2829,6 @@ his father? "
 
 "Which wise man on this earth can abandon his son, even if he is of a bad conduct?
 Which son, even if he is sent to an exile, cannot become angry with his father?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3000,8 +2876,6 @@ maanavaaH = Men; *anupraaptaaH* = who attained; *yamakshhayam* = the world of Ya
 
 "Can Rama now touch me or approach me forth with? Men who attained the world of Yama
 (god of death) cannot even see their kith and kin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3051,8 +2925,6 @@ me.
 
 "O, Kausalya! I am not able to see you with my eyes. My memory- power is fading
 away. Messengers of Yama (god of death) are hastening me to come."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3098,8 +2970,6 @@ who is a truly brave man; *jiivitakehhaya* = at the time of my death?"
 
 "What can be more sorrowful than the fact I am not able to see Rama, who knows
 righteousness and who is a truly brave man, at the time of my death?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3145,8 +3015,6 @@ iva* = as sun shine(dries up)stokam vaari = a water drop."
 
 "The grief arising out of non-appearance of that son, who performs unparalleled
 actions, is parching up my life, as sun- shine dries up a water drop"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3194,8 +3062,6 @@ celestials."
 
 "They are not humans but celestials, who will be able to see again in the fifteenth
 year, the beautiful face of Rama, wearing his handsome ear-rings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3253,8 +3119,6 @@ eyes resembling lotus leaves; *subhruH* = with its beautiful eye brows;
 "The fortunate can see the face of Rama, looking like a moon, with its eyes
 resembling lotus leaves, with beautiful eye brows, with a comely row of teeth and a charming
 nose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3271,8 +3135,6 @@ blown lotus."
 
 "Fortunate are they, who can see the sweat smelling face of Rama, resembling the
 autumnal moon and also a full- blown lotus."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3319,8 +3181,6 @@ the planet Venus; *maarga gatam* = coming from a journey."
 
 "Happy ones can see Rama, who having finished his exile, will come to Ayodhya like
 the planet Venus coming from a journey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3361,8 +3221,6 @@ rasaam* = the sound touch and the smell."
 
 "O, Kausalya! My heart is sinking down by delusion of mind. I am not able to grasp
 the related sound, touch and the smell."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3409,8 +3267,6 @@ snehasya* = whose oil is exhausted; *samsaktaaH* = starts stammering."
 
 "All of my senses are getting scared away due to mental break down, as rays of light
 of a lamp whose oil is exhausted, starts splattering."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3458,8 +3314,6 @@ stream."
 
 "This grief caused by my own self is collapsing me, who am helpless and insensible,
 like a river bank being collapsed by the floods of a river stream."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3506,8 +3360,6 @@ O;my protector!; *haa suta* = O; my son!"
 
 "O, mighty armed! O, Rama! O, annihilator of my grief! Alas! O, darling of your
 father! O, my protector! O, my son! Where have you gone?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3554,8 +3406,6 @@ dying!"
 
 "O, Kausalya! O, Sumitra, the miserable! Alas! O, Kaikeyi, the cruel one! My enemy!
 The disgrace of my family! I am going to die."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 </details>
 
@@ -3606,8 +3456,6 @@ maatasya* = of Rama`s mother; *sumitraayaaHcha* = and Sumitra.
 
 In this manner, King Dasaratha weeping as aforesaid, reached the end of his life in
 the presence of Kausalya and Sumitra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

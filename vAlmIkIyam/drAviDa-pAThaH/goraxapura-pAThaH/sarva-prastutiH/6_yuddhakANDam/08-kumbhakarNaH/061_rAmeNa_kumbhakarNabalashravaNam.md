@@ -21,8 +21,6 @@ waking up for a day in a year Vibhishana informs Rama that Ravana got Kumbhakarn
 sending now to the battle. Rama then orders Neela the commander-in-cheif to marshal his entire army
 of monkeys in their appropriate positions in Lanka. On hearing Rama's orders the army of monkeys
 start their fighting operation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ start their fighting operation.
 
 Having taken his bow, Rama of great brilliance and prowess, then beheld the bulky
 Kumbhakarna, adorned with a diadem.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ Seeing that paramount demon, whose appearance was in the form of a mountain and
 looking like Lord Narayana (the son of the original Man); taking strides across space, (manifested
 in the form of Trivikrama, who measured the whole universe in a couple of strides) Rama became
 vigilant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -137,8 +131,6 @@ speadily.
 Beholding him again, who was appear like a rainy black cloud and wearing a golden
 bracelet as an ornament on his upper arm, that huge army of monkeys took to their heels in full
 speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -179,8 +171,6 @@ who was increasing his body; *raamaH* = Rama; *savismitam* = with a surprise;
 
 Seeing the army running away and the demon increasing his body, Rama with a
 surprise, spoke to vibhishana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -230,8 +220,6 @@ eyes; *toyadaH iva* = looking like a cloud; *savidyut* = is seen;
 
 "This eminent demon, appearing as a mountain, with a diadem and tawmy eyes and
 looking like a cloud with a flash of lightning, is seen in Lanka. Who is he?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -279,8 +267,6 @@ body; *atra* = here; *pR^ithivaam* = on earth; *dR^ishyate* = is appearing;
 
 "He alone with a huge body here on this earth, is appearing like a solitary meteror,
 by seeing whom all the monkeys are running away hither and thither."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -322,8 +308,6 @@ large body?; *aachakSva* = tell; *rakSaH vaa* = whether he is a demon;
 
 "Who is he with such a colossal body? Tell me whether he is a demon or an evil
 spirit. I have not seen such a creature earlier at any time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -370,8 +354,6 @@ spirit. I have not seen such a creature earlier at any time."
 
 Thus asked by Rama the prince, who was unweary in action, the highly intelligent
 Vibhishana replied to Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -416,8 +398,6 @@ corresponding to his size.
 
 "He is the powerful Kumbhakarna, the son of Visravasa. He conquered Yama and Indra
 in battle. Tehre is no other demon, corresponding to the size of his body."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -473,8 +453,6 @@ head of a horse); *yudhi* = in battle.
 "O Rama! He conquered thousands of celestials, demons, a class of demi-gods, serpent
 demons, ogres, Gandharvas teh celestial musicians, Vidyadharas the celestials artistes and Kinnaras
 (the semi-divine beings with the human form and the head of a horse) in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -522,8 +500,6 @@ Death.
 
 "Seeing the mighty Kumbharana with ghastly eyes and a spear in hand, the celestials
 were not able to kill him, having confused to think that he was yama the god of Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -565,8 +541,6 @@ gods).
 
 "This Kumbhakarna, by his very nature, is energetic and mighty. The strength of the
 other demon-chiefs is attributable to boons (granted on request by gods)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -613,8 +587,6 @@ hunger.
 
 "Soon after his birth, this great-souled demon, afflicted as he was by hunger, ate
 thousands of living creatures."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -658,8 +630,6 @@ sma* = sought refuge with; *shakram* = Indra; *nyavedayan* = and reported;
 
 "While the living being were being eaten, the frightened people sought refuge with
 Indra and even reported the matter about him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -715,8 +685,6 @@ cha* = and roared loudly; *kopaat* = with anger.
 That Mahendra wielding a thunder-bolt was enraged and struck Kumbhakarna with his
 weapon of the white thunderbolt. The great souled Kumbhakarna struck by Indra's thunderbolt was
 quite agitatated at it and roared loudly with anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -757,8 +725,6 @@ kumbhakarNasya* = of that Kumbhakarna; *rakSasaH* = the demon; *naanadyamaanasya
 
 "Hearing the roar of that Kumbakarna, the demon, wh was howling loudly, the
 grigthened people were further frightened."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -803,8 +769,6 @@ Indra's elephant; *jaghaama* = and struck it; *urasi* = into the chest;
 
 "Enraged as he was on Mahendra, the mighty Kumbhakarna then pulled out a tusk of
 Airavata, Indra's elephant and struck it into Indra's chest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -855,8 +819,6 @@ the abode; *svayambhuvaH* = of Brahma the Lord of creation.
 "That Devendra, tormented by the hit of Kumbhakarna, was burning with rage. The
 celestials, Brahmanical sages and demons were suddenly aggrieved. Even Indra with his people went
 to the abode of Brahma the Lord of creation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -926,8 +888,6 @@ wives.
 "They informed about the evil-mind of Kumbhakarna to Brahma, how he devoured the
 living creatures, his assault on celestials, the destroyal of hermitages and his taking away of
 others' wives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -971,8 +931,6 @@ this; *lokaH* = the world; *bhaviSyati* = will become; *shuumyaH* = desolate;
 
 "If he eats away the created beings continuously like this, the world will become
 desolate just soon after some time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1013,8 +971,6 @@ the entire world; *rakSaamsi aavaahayaamaasa* = called for the demons; *dadarsha
 
 "On hearing the words of Indra, Brahama, the great grandfather of the entire world,
 called for the demons and saw Kumbhakarna too along with them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1064,8 +1020,6 @@ thereafter; *aashvastaH* = on restoring confidence; *svayambhuuH* = Brahma;
 
 "Just on seeing Kumbhakarna even Brahma was frightened. Thereafter on restoring his
 confidence, Brahma cursed Kumbhakarna as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1106,8 +1060,6 @@ prabhR^iti* = from now onwards; *mR^ita kalpaH* = apparently dead.
 
 "It is sure that you were created by visravasa for the destroyal of people. On that
 account, you will be sleeping apparently dead from now onwards."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1149,8 +1101,6 @@ following) words:
 
 "Humbled by Brahma's curse, Kumbhakarna then fell down in front of Ravana.
 Thereupon, the highly perplexed Ravana spoke the following words:"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1201,8 +1151,6 @@ fruits; *pravR^iddhaH* = a well-grown; *kaaN^chanaH vR^ikSaH* = golden tree;
 
 "'O Brahma! You are cutting off a well-grown golden tree, just at the time of
 yielding its fruit. It is not fair on your part to curse your own great grandson like this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1243,8 +1191,6 @@ shayane* = between his sleeping; *tathaa* = and; *jaagare* = waking-up.
 
 "Your words can never prove to be in vain. There is no doubt about it. He will have
 to sleep certainly. Let some space of time be fixed for his sleeping and waking."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1292,8 +1238,6 @@ day.
 
 "Hearing the words of Ravana, Brahma spoke as follows: He will indeed sleep for six
 months and wake-up for a day."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1338,8 +1282,6 @@ as an augmented fire.
 
 "On that single day, this male demon, having starved for six months, will wander
 over the earth and eat the human race with his month wide open, like an augmented fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1381,8 +1323,6 @@ Kumbhakarna.
 
 "Ravana, the king of demons, who got into an evil plight and frightened as he was in
 seeing your prowess, now got Kumbhakarna awakened."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1424,8 +1364,6 @@ is running (towards us).
 
 "This Kumbhakarna the male-demon with a terrific prowess started his tent. The
 highly enraged Kumbhakara devourincg the monkeys on is way, is running towards us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1475,8 +1413,6 @@ away; *katham* = how; *vaanaraaH* = can the monkeys; *vaarayiSyanti* = check;
 
 "Even on merely seeing Kumbhakarna, the monkeys have now fled away. How can the
 monkeys check him, who is thus enraged in battle?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1517,8 +1453,6 @@ become; *nirbhayaaH* = fearless; *iha* = by now.
 
 "Let all the monkeys be told that it is a kind of machine, advancing forward. By
 knowing this, they can become fearless by now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1561,8 +1495,6 @@ the chief of army.
 On hearing Vibhishana's words, which were well-founded to make the monkeys
 well-inclined to fight the battle, Rama then spoke the follwoing words to neela, the chief of
 army:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1610,8 +1542,6 @@ for operation.
 
 "O Neela the son of fire-god. Go, marshalling the entire army. Occupying the
 door-ways, high-ways and bridges of Lanka, stand ready for operation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1658,8 +1588,6 @@ mountain-tops; *vR^ikSaamshcha* = trees; *shilaashchaapi* = and even the rocks;
 
 "Draw together the mountain-tops, trees and even the rocks. Let all the monkeys with
 their weapons and rocks in hand, stand ready."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1700,8 +1628,6 @@ monkey-troops; *yathaavat* = suitably.
 
 As directed by Raghavana, Neela the commander-in-chief and the foremost of the
 monkeys, ordered the monkey-troops suitably.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1748,8 +1674,6 @@ gate; *gR^ihiitvaa* = taking; *shailashR^iNgaaNi* = the mountain-tops.
 
 Then, Gavaksha, Sharabha, Hanuma and Angada looking like mountains, reached the
 gate, taking the mountian-tops.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1796,8 +1720,6 @@ gate, taking the mountian-tops.
 
 On hearing Rama's words, the fearless monkeys started their operation. The heroic
 monkeys began to torment the enemy-troops with uplifted trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 </details>
 
@@ -1843,8 +1765,6 @@ like a big collection of giagantic clouds; *samiipaanugate* = hanging close; *gi
 
 That terrific army of monkeys, with uplifted rocks and tress in their hands, shone
 like a big collection of gigantic clouds, hanging close to a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

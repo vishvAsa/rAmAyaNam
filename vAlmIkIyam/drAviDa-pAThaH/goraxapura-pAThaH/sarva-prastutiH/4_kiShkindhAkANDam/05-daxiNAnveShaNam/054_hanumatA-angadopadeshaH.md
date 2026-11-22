@@ -19,8 +19,6 @@ title_english = "054 Hanuma advises Angada"
 Hanuma advises Angada to not to desert the mainstream kingdom to establish a separate one, which will definitely
 attract the fury of Sugreeva. Hanuma uses political tactics in pacifying Angada, who is utterly terrorised of
 Sugreeva in the event of the failure of the task under his leadership.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ Lt. Tara, that way, has spoken; *atha* = then; *hanumaan* = Hanuma; *angadena ta
 
 When Lt Tara whose resplendence is similar to moonshine has spoken that way, then Hanuma deemed that Angada is
 laying siege to that kingdom of Vanaras. [4541]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -157,8 +153,6 @@ skilfulness, 6] self-defence, 7] maintaining confidentiality of strategies, 8] a
 not uttering lies, 9] courageousness, 10] recognising strengths and weaknesses of one's own and of others also,
 11] faithfulness, 12] sheltering the seekers of shelter, 13] showing anger at appropriate times, 14] unwavering
 in opinions or actions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 
 </details>
@@ -274,8 +268,6 @@ in all scriptures started to confederate the confidence of Angada with the prese
 Indian categorisation of a month does not directly jump to weeks, but firstly into two fortnights, later into
 weeks and then to days: *1] paurNami, poorNima *White Fortnight - where the moon will be waxing from new-moon-day;
 *2] amaavaasya *Black Fortnight - where the moon will be waning to no-moon-day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -327,8 +319,6 @@ ideations, viz., placation, presentation, partition, persecution. [4546]
 
 The four ideations are *saama, daana, bheda, daNDa upaayaaH *The ideations for placation, presentation,
 partition, persecution, in connection with a political adversary.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -379,8 +369,6 @@ overawed by Hanuma.
 When Hanuma made all of the vanaras to defect from Angada's idea of defecting Sugreeva, then Hanuma further overawed
 Angada with diverse and awesome orations containing the fourth ideation, namely the persecutory measures, employable
 by Sugreeva on defectors. [4547]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -424,8 +412,6 @@ sustain, capable.
 
 "As with your father you are undeniably abler in warfare, oh, the son of Lady Tara, and as with your father you
 are unquestionably capable enough to sustain the monkey kingdom." Thus Hanuma started to address Angada. [4548]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -475,8 +461,6 @@ not, consistent, at will, isn't it; *putra daaraan vinaa* = sons, wives, without
 
 "Oh, best monkey, Angada, monkeys will be inconsistent at their will, isn't it! Separated from their sons and
 wives they cannot tolerate to remain under your control for a long. [4549]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -540,8 +524,6 @@ Sugreeva; *apa karSitum* = away, pull to sidetrack; *na shakyaaH* = not, possibl
 do not definitely tagalong you, isn't it. Likewise I too do not definitely tagalong you. Such as we are, it will
 be impossible for you to sidetrack us from Sugreeva using tactics like placation, presentation or even persecution,
 isn't so! [45410, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -596,8 +578,6 @@ always be in estrangement... and the foulness of mightless with the mighty will 
 purchasing the wrath of the mighty by the mightless is futile... and such as you are, you seek asylum in such
 a cavity as counselled haphazardly by all these fickly monkeys... thus, beware that the mightless is the one who
 shall strive for selfguarding against the mighty, but not contrariwise...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -645,8 +625,6 @@ baaNaanaam* = for Lakshmana's, arrows; *etat vi daaraNe* = all this [Black Hole]
 "This matter of going underground into that Black Hole which you suppose as a hideout from Sugreeva, as you heard
 from Lt. Tara and others, but it is a deed of trifle to Lakshmana's arrows, not necessarily for Rama's arrows,
 in splitting apart whole of that Black Hole in a trice. [45413]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -697,8 +675,6 @@ _________________
 trivial deed for that Thunderbolt made a single demonsized aperture to eliminate a single demon, Maya, which we
 now call Riksha bila, Black Hole, nevertheless Lakshmana will splinter whole of this
 Black Hole with his acute arrows, as if it is leafy bowl. [45414]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -753,8 +729,6 @@ that of Thunderbolt and Lightning Flashes, and which are the splitters of mounta
 Annex: 'of which you all may have heard, but a few of us like Jaambavanta, Nala, Neea, Lt. Tara and myself bear
 witness, personally... on piercing the seven sturdy trees Rama's arrow penetrated into the nethermost terrain
 of earth and resurfaced... then, Lakshmana's arrow can pulverise mountains, isn't so...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -801,8 +775,6 @@ resolve; *tyakSyanti* = will desert [you.]
 
 "As and when you settle down in that underground, more so, an unbefitting place for a crown prince, oh, enemyburner
 Angada, then and there all the monkeys will desert you resolvedly. [45416]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -849,8 +821,6 @@ Angada, then and there all the monkeys will desert you resolvedly. [45416]
 "Always sulking and reminiscing on their sons and wives, and hungered for the proximity of their kinfolk and hungered
 for diverse palatability as any monkey would cherish, even so, lamenting on the beds of lament they push you backwards.
 [45417]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -906,8 +876,6 @@ of straw. [45418]
 
 He will become 'a crown prince of straw...'* anena parijanaiH pari tyaktaH tR^iNaat api laghu taro bhavati
 iti suucitam - dk* if he discards his own people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -954,8 +922,6 @@ speedy [fierily frenetic arrows,] unassailable [here, irreversible.]
 
 "By far, those fiercely frantic arrows of Lakshmana if targeted to kill you, in case you become a sidestepper
 from loyalties, will be terrifyingly twingeing. Further, those fierily frenetic arrows are irreversible. [45419]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -1002,8 +968,6 @@ aanupuurvyaat* = as before, only; *sthaapayiSyati* = establishes.
 
 "But, if you return to Kishkindha along with us, and if you obediently become Sugreeva's flanker, he establishes
 you only in kingdom as before. [45420]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -1051,8 +1015,6 @@ jaatu* = he, you, in no way; *na naashayet* = not, liquidates.
 "Your paternaluncle Sugreeva's gleam is his honesty as he is free of dishonesty, his desire is affection as he
 is free of aversion, his dedication is staunch as he is free of prevarication, and he himself is exoneration as
 he is free from exploitation, thus in no way he liquidates you. [45421]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 </details>
 
@@ -1111,8 +1073,6 @@ anena bheda uktaH | tvaam jaatu na naashayet 45421 anena daNda uktaH | asmaabhiH
 saardham anena daanam uktam | evam bhedo api hanumataa saama daana danNDa puurvaka eva kR^itaH | tena
 bhedanaa angado api bivhiiShitaH | dk* As these references are already there, they
 are not reiterated here.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ with the battle along with armies of Sugreeva, Hanuma, Jambavan and Vibhishana. 
 to Nikumbhila along with Hanuma, Vibhishana and Jambavan to kill Indrajit. Lakshmana accompanied by
 Vibhishana, Angada and Hanuma penetrates that heterogeneous army of the enemies at the sanctuary of
 Nikumbhila.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ uktam* = that which was spoken; *tena rakShasaa* = by that demon.
 
 Hearing those words of Vibhishana, Rama, agonized as he was with grief, could not
 understand clearly what was spoken by that demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ sitting nearby; *kapisamnidhau* = and before the presence of the monkeys.
 
 Then, Rama the conqueror of the cities of enemies, leaning upon his courage, spoke
 to Vibhishana who was sitting nearby and in front of the monkeys (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ bruuhi* = you intend to tell (me).
 
 "O lord of demons! I wish to hear again those of the words spoken by you. I desire
 to hear again, whatever you intend to tell me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -206,8 +198,6 @@ following words; *yatnaat* = gently.
 
 Hearing those words of Rama, spoken very sadly, that Vibhishana who was skilled in
 expression, again spoke his words gently as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -249,8 +239,6 @@ and immediately after your words.
 
 "O the long armed hero! Immediately after your orders, the marshalling of the troops
 was done by me in the manner as enjoined by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -298,8 +286,6 @@ ranks.
 
 "All those armies were divided and positioned at all places. Even the commanders of
 those divisions were arrayed and distributed according to their ranks."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -346,8 +332,6 @@ akaaraNa samtapte* = while you are lamenting causelessly are lamenting; *vayam* 
 
 "O great lord! I have to report to you something further. Listen to it. While you
 are lamenting without any cause, we feel painful at our hearts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -395,8 +379,6 @@ which came (to you); *tat* = therefore; *iyam chintaa* = let this worry;
 
 "O king! Abandon this lamentation and false grief which came to you. Let your worry,
 which augments the pleasure of your adversaries be therefore abandoned."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -437,8 +419,6 @@ yourself cheerful.
 
 "O hero! If you want to get back Seetha and if the demons are to be destroyed, raise
 up for the occasion. Keep yourself cheerful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ nirmuktaiH* = released from a snake-like bow; *aahave* = in battle.
 "O Rama! Listen to my benign words I tell you. This Lakshmana together with a large
 army should go soon to kill Indrajit, who reached Nikumbhila, with arrows as deadly as the
 serpentine poison released from his snake-like bow in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -552,8 +530,6 @@ called Brahmashira; *varadaanaat* = by way of a gift; *svayambhuvaH* = from Brah
 
 "By his penance, Indrajit obtained a weapon called Brahmashira, by way of a gift
 from Brahma and also horses, which are coursing at his will."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -601,8 +577,6 @@ comes forth; *viddhiH* = know (that); *sarvaan* = all; *naH* = of us;
 
 "That Indrajit, as such along with his army, is reported to have reached Nikumbhila.
 If he comes forth after completing his sacrificial act, know that all of us as killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -666,8 +640,6 @@ armed!; *eShaH* = this; *vadhaH* = killing; *vihitaH* = is ordained.
 enemy of yours, who strikes while you are marching with your bow drawn, and while you have not
 arrived at Nikumbhila, or even while you have not offered oblations to the sacred fire, will prove
 to be the cause of your killing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -714,8 +686,6 @@ suhR^idgaNam* = along with his associate-troops; *hatam* = as killed.
 
 "O mighty Rama! Give your command for killing of Indrajit. When he is killed, know
 that Ravana along with his associate troops also as killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -757,8 +727,6 @@ that terrific demon.
 
 Hearing the words of Indrajit, Rama then spoke the following words:"O Vibhishana of
 true prowess! I know the conjuring trick of that terrific demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -807,8 +775,6 @@ gods; *samgraame* = in battle.
 "That Indrajit is skilled in the use of the mystic missile presided over by Brahma.
 He is intelligent. He is a master of several conjuring tricks. He is so mighty that he can render
 unconscious in battle even the gods along with Varuna the king of gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -859,8 +825,6 @@ dense mass of clouds.
 
 "O highly illustrious hero! While he drifts in the sky, ascending his chariot, his
 movement is not known to others, as the sun is not seen beneath a dense mass of clouds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -876,8 +840,6 @@ of the conjuring tricks; *duraatmanaH ripoH* = of the evil-minded adversary;
 
 Having known the toughness of the conjuring tricks of the evil-minded adversary,
 Rama spoke to the illustrious Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -935,8 +897,6 @@ of demons; *maayaabalasamanvitam* = rich in the power of conjuring tricks.
 Sugreeva, along with troop-commanders with Hanuma as their head; and protected by Jambavan the lord
 of bears, who will be accompanied by his army, kill that Indrajit the prince of demons, rich in the
 power of conjuring tricks."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -977,8 +937,6 @@ Vibhishana; *abhiJNaH* = the knower; *tasya maayaanaam* = of his conjuring trick
 
 "The great souled Vibhishana, who knows all the conjuring tricks of Indrajit, along
 with his counsellors, will follow behind you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1025,8 +983,6 @@ took hold; *kaarmuka shreShTham* = of his excellent bow.
 
 Hearing the words of Rama, Lakshmana of highly wonderful prowess, along with
 Vibhishana, took hold of his excellent bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1075,8 +1031,6 @@ Rama's feet; *abraviit* = spoke (as follows):
 The rejoiced Lakshmana who was prepared for the combat, clad in an armour, wielding
 a sword and arrows, wearing his bow in his left hand and having touched Rama's feet in salutation,
 spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1117,8 +1071,6 @@ Lanka; *hamsaaH iva* = as swans; *puShkariim* = (descend into) a lotus-pond.
 
 "Today, the arrows released from my bow, piercing Indrajit, will drop into the City
 of Lanka, as swans descend into a louts-pond.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1168,8 +1120,6 @@ will blow him away.
 
 "Now itself, my arrows discharged from the bow-string of this great bow, duly
 splitting his terrific body, will blow him away."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1210,8 +1160,6 @@ kill Indrajit.
 
 Thus speaking in front of his brother, that resplendent Lakshmana, quickly marched
 forward, with an intent to kill Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1252,8 +1200,6 @@ brother's feet; *kR^itvaa* = and doing; *pradakShiNam cha* = circumambulation to
 
 Offering salutation to the feet of his brother and doing circumambulation too, that
 Lakshmana went to the sanctuary named Nikumbhila, which was protected by Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1294,8 +1240,6 @@ Lakshmana went to the sanctuary named Nikumbhila, which was protected by Indraji
 
 Having obtained the blessings from his brother, the glorious Lakshmana, the prince,
 quickly sallied forth along with Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1342,8 +1286,6 @@ anvagaat* = went behind Lakshmana.
 
 Then, Hanuma accompanied by many a thousand of monkeys and Vibhishana along with his
 counsellors went behind Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1384,8 +1326,6 @@ quickly; *mahataa harisainyena* = by a large army of monkeys; *dadarsha* = saw;
 
 That Lakshmana, quickly surrounded by a large army of monkeys, saw the army of
 Jambavan also stationed in the way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1430,8 +1370,6 @@ dsitance.
 
 After covering a long distance, that Lakshmana, the delight to his friends, saw the
 army of Ravana, ranged in battle-array, from a distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1480,8 +1418,6 @@ Brahma's ordinance.
 Duly arriving at Nikumbhila, that foe-conquering Lakshmana stood, bow in hand, to
 conquer that Indrajit, the possessor of conjuring tricks, in conformity with Brahma's
 ordinance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1522,8 +1458,6 @@ of wind-god.
 
 The valiant Lakshmana stood there along with Vibhishana, the heroic Angada and
 Hanuma, the son of wind-god.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 </details>
 
@@ -1579,8 +1513,6 @@ swiftness; *timaramiva* = even as one would enter a thick veil of darkness.
 Lakshmana penetrated that heterogeneous army of enemies, resplendent with spotless
 weapons, thick with ensigns and abounded with huge chariots, exceedingly impenetrable, very
 terrific, with unimaginable swiftness, even as one would enter a thick veil of darkness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -21,8 +21,6 @@ order to take help in searching for Seetha. Hanuma who is on a similar mission t
 two warriors, as instructed by Sugreeva in the earlier chapter, comes to a conclusion that the
 needs of both the friends would be fulfilled. Then Hanuma takes the two bothers on his back to the
 place where Sugreeva is hiding from Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ having heard; *madhura bhaavam ca* = finely meaningful, also [on knowing];
 Then that Hanuma, who has good deeds for his credit, on hearing the words of
 Lakshmana, and even knowing that they are finely meaningful, he rejoicingly recalled in his mind
 that Sugreeva's effort is going to fructify. [4-4-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ by Rama];' upa aagatam = came by.
 "Conceivable is the retrieval of the kingdom by that great souled Sugreeva...and for
 which deed, this purposive Rama has come, and that deed desired by Rama is also achievable by
 Sugreeva, and thus all this has came by..." thus thought Hanuma. [4-4-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ that very learned one, namely Rama. [4- 4-3]
 Ramayana is said to have been composed basing on the letters of Gayatri Hymn.
 The letter *ga* in *plavagottama* is the 10th letter in Gayatri hymn, and up to now 9,000 verses are
 over, out of 24,000 of the total epic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ artham* = what, for; *tvam* = you; *aagataH* = have come.
 "What for you have come into these perilous forests hemming in Pampa Lake along with
 your brother, for these are impenetrable forests abounding with many a serpent and animal?" Thus
 Hanuma asked Rama. [4-4-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ hearing; Lakshmana; *rama choditaH* = by Rama, motivated; *aachachakSe* = narrat
 
 On hearing the words of Hanuma, Lakshmana motivated by Rama, narrated about the
 great soul Rama, the son of Dasharatha. [4-4-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ varNyam* = four caste system [and its rectitude]; *sva dharmeNa* = by his own re
 "The king named Dasharatha, a resplendent one and the patron of virtue was ruling
 the four-caste system with its, and by his own rectitude, for he is also bound within that
 four-caste system... [4-4-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -366,8 +352,6 @@ living beings; *pitaamaH iva aparaH* = Grandparent Brahma, like, on earth.
 
 There is none despising him, nor he despised any and for all the living beings he is
 like the Grandparent Brahma on earth... [4-4-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -416,8 +400,6 @@ heard [known.]
 "And he, King Dasharatha who performed rituals agniSToma and the like Vedic rituals
 wherein he donated liberally, and this one is his eldest son, and he is renowned among people by
 the name of Rama... [4-4-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -495,8 +477,6 @@ came.
 the eldest one among the sons of King Dasharatha... possessor of high virtues, qualities and royal
 fortune befitting to a king... but he is deprived of his kingdom, and came hither to dwell in the
 forests... nevertheless, followed by me...[4-4-9, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -549,8 +529,6 @@ Prabha, who vanishes when the day is abated...
 With his wife Seetha following him, oh, highly fortunate Hanuma, this
 self-controlled and highly resplendent Rama came to forests like sun with his dwindling
 resplendence when the day is abated... [4-4-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -597,8 +575,6 @@ naamathaH* = named, by name.
 
 "I am the one who obtained servitude by the justness of this faithful and
 knowledgeable one, and his younger brother, by name I am named as Lakshmana... [4-4-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -666,8 +642,6 @@ rejoiced in the nearby forests bordering Ayodhya for fourteen years without a bo
 have regained his comforts and respectability, his mission to help the piteous sages and saints,
 and other god-forsaken creatures had to trigger off somewhere in the deep of woods. So while in
 woods his wife is stolen, paving a way for him to embark on his above mission.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -727,8 +701,6 @@ Sugreeva, the chief of monkeys, is a capable one, and he even said, "that great 
 can know about the abductor of your wife..." saying thus that Danu is released from the curse of
 his demon-hood, moved skyward and went away to heavens while becoming self-luminous... [4-4-15,
 16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -778,8 +750,6 @@ cha* = I, and; *eva RamaH cha* = thus, also, Rama; *sugriivam* = of Sugreeva;
 
 "All this is informed to you, as it is as you have asked..Myself and Rama, we now
 have our recourse to Sugreeva alone... [4-4-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -826,8 +796,6 @@ icChati* = Sugreeva, ass lordship, accepts.
 
 "He who gave away riches in charity, who obtained unequalled renown and who himself
 was the lord of this world earlier, now accepts the lordship of Sugreeva... [4-4-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -877,8 +845,6 @@ aasiit* = daughter-in-law, Seetha, is there; *tasya putraH* = his, son; Sugreeva
 
 "Who was a patron of virtue and who himself was a shelterer, to whom Seetha is the
 daughter-in-law, such a shelterer's son Rama is now taking shelter under Sugreeva... [4-4-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -920,8 +886,6 @@ me* = mentor, mine; Raaghava; *saH* = he; *ayam sugriivam* = that, Sugreeva;
 "He who is a virtuous one and protector of all the world, and who is the only refuge
 for all in earlier times... such a Raaghava, my mentor, is now seeking refuge with Sugreeva...
 [4-4-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -968,8 +932,6 @@ for all in earlier times... such a Raaghava, my mentor, is now seeking refuge wi
 
 "By whose beneficence all these people are always delighted, he that Rama is now
 seeking benefaction from the lord of monkeys... [4-4-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1032,8 +994,6 @@ sugriivam = of Sugreeva, sharaNam gataH = shelter, taken.
 always, and at all the times were esteemed to be safeguarded as defensible kings, such king's
 eldest son Rama, renowned in all the three worlds for his own sheltering the needy, has now taken
 shelter under monkeys lord Sugreeva... [4-4-22, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1084,8 +1044,6 @@ aarte* = by sadness, agonised; *sharaNam gate* = refuge, already sought; *raaame
 "One who is rebuffed by sadness, and even agonised by it had already sought refuge,
 hence it is apt of Sugreeva to do favour in Rama's respect along with other vanara commanders..."
 Lakshmana said thus to Hanuma. [4-4-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1135,8 +1093,6 @@ vishaaradaH* = lettered, eminent one; to Hanumaan; *idam vaakyam* = this sentenc
 
 To Lakshmana, who is telling that piteously with tears falling out, the eminently
 lettered Hanumaan said this in his return. [4-4-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1183,8 +1139,6 @@ senses; *diSTyaa* = godsend; *darshanam aagataaH* = advent, has come to;
 
 "Intellectuals of your kind, who have conquered anger and senses are to be seen by
 the chief of monkeys Sugreeva, for your advent is godsend... [4-4-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1233,8 +1187,6 @@ bhraSTaH* = from kingdom, abrogated; *sa hi* = he [Sugreeva], indeed; *trasthaH*
 "He who is made as an enemy, very muchinsulted, and abrogated from kingdom by his
 own brother Vali, that Sugreeva is roaming about forests fearing him alone, his own brother Vali...
 [4-4-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1281,8 +1233,6 @@ render, help.
 
 "He that son of Sun, Sugreeva, will render help to you two, joining forces of our
 like Vanara-s in searching Seetha..." [4-4-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1329,8 +1279,6 @@ good; *abhigacChema sugriivaH* = we now, approach, Sugreeva; *iti* = thus;
 
 Thus Hanuman on speaking melodious words with politeness, also said to Raghava as,
 "good, we may now approach Sugreeva...." [4-4-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1380,8 +1328,6 @@ nyaayam* = as per, custom; *pratipuujya cha* = in return, on adoring, also;
 
 Hanuma when said thus virtuous Lakshmana adored him customarily in the way befitting
 to an envoy, and spoke this to Rama... [4-4-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1430,8 +1376,6 @@ you will be.
 "Raghava, as to how this monkey seems to be happy in meeting us, by way of his
 narration, and he too neared us as an aspirant of some deed to be performed by us, hence joining
 them seems to fulfil your mission... [4-4-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1482,8 +1426,6 @@ valiant one, no, untruth, telling.
 "He is talking with a lucid expression and pleasing facial tinge by which he seems
 to be gladdened at his heart... needless is telling untruths to such a valiant son of Air-god,
 Hanuma, isn't it!" So said Laskhmana to Rama [4-4-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1533,8 +1475,6 @@ king; *jagaama* = started to.
 
 Then he that very intelligent son of Air-god Hanuma, took those two valorous
 Raghava-s to go to the king of monkeys Sugreeva. [4-4-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1582,8 +1522,6 @@ valiant ones, onto his back, on mounting; *jagaama* = proceeded.
 On discarding the ascetic's semblance that estimable monkey Hanuma obtained his own
 monkey's form, and mounting those two valiant ones onto his back he proceeded towards Sugreeva.
 [4-4-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 </details>
 
@@ -1638,8 +1576,6 @@ Hanuma, the extensively renowned heroic son of Air-god with pious mind and highl
 audacious nature, is then gladdened like the one whose difficult deed is just accomplished, thus he
 gladly travelled to that mountain where Sugreeva is abiding, along with Rama and Lakshmana.
 [4-4-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga4/kishkindhasans4.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

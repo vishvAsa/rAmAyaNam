@@ -18,8 +18,6 @@ Vashishta offers hospitality to Vishvamitra and his armies. Even though the King
  entreats the king to accept. Vishvamitra had to oblige the same. Vashishta summons his do-all Divine
  Sacred Cow, Shabala, also known as Kaamadhenu, requests her to generate heaps of tasteful foodstuffs
  for a royal banquet as well as for military rations.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ an obeisance.
 
 On seeing at that best sage among best meditators Sage Vashishta, the great-mighty and valorous Vishvamitra
 is highly rejoiced and obediently made an obeisance to the sage. [1-52-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -110,8 +106,6 @@ indeed.
 
 The great-souled Vashishta spoke, "you are welcome," and that godly sage has indeed shown a high seat
 to Vishvamitra. [1-52-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -151,8 +145,6 @@ to Vishvamitra. [1-52-2]
 
 The eminent saint Vashishta then customarily offered fruits and tuber to the courageous Vishvamitra
 who by now has assumed a seat. [1-52-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -210,8 +202,6 @@ On receiving that deference from Vashishta, then that unsurpassed king Vishvamit
 of the ascesis, Fire-rituals and disciples and their progress in that hermitage, and that great-resplendent
 Vishvamitra has also asked after the well being of flora and fauna of the hermitage, and Vashishta reported
 to the matchless king about the all round well-being of every activity. [1-52-4, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -252,8 +242,6 @@ asked.
 
 Vashishta the supreme one among meditators, a great-ascetic, and the brainchild of Brahma has then asked
 Vishvamitra who is sitting at ease. [1-52-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -302,8 +290,6 @@ The kingly righteousness is one component among the four primary concerns of the
 caturvidham || * 'monies are to be earned righteously, they are to be enriched righteously,
 and safeguarded righteously, and they are to be endowed to righteous deeds or persons, for welfare of
 the state, righteously...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -350,8 +336,6 @@ after well, I hope; *shaasane tiSThanti kaccit* = abiding by rulership, I hope; 
 
 I hope your servants are looked after well, hope all of them are abiding by the rulership, oh, vanquisher
 of adversaries, I hope that you have surely vanquished all of your adversaries. [1-52-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -402,8 +386,6 @@ grandsons; *kushalam kaccit* = I hope well-being.
 "For you are an impeccable one and an emery-inflamer, oh, tigerly-man, I hope that your forces, exchequer
 and confederates are fine, and all is well with your sons and grandsons." Thus Vashishta asked the well-being
 of Vishvamitra. [1-52-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -444,8 +426,6 @@ exemplified - replied.
 
 The great-resplendent king Vishvamitra respectfully replied Sage Vashishta saying, 'everything
 is fine.' [1-52-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -487,8 +467,6 @@ on making [exchanging]; *tau* = those two; *parasparam - paraH aparam* = one, an
 
 Both of those celebrities of conscientious then exchanged pleasantries for a long time with their rejoice
 heightening and gladdening one another. [1-52-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -528,8 +506,6 @@ heightening and gladdening one another. [1-52-11]
 
 Then at the end of discussions, oh, Rama the legatee of Raghu, that godly Sage Vashishta smilingly
 spoke this sentence to Vishvamitra. [1-52-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -571,8 +547,6 @@ in turn, you accede] = kindly accede to it.
 
 I wish to offer guestship befitting to your status, oh, great-forceful king Vishvamitra, to a matchless
 one like you and to this military force of yours, kindly accept it from me. [1-52-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -627,8 +601,6 @@ you ought to be reverenced effortfully.' So said Vashishta to Vishvamitra. [1-52
 royal banquet or rations to military and feed to horses and elephants' - is the thinking of King Vishvamitra.
 For that, the sage is saying that a king is to be reverenced 'effortfully...' But, Vishvamitra is reluctantly
 evading the so-called hospitality for 'royals' and 'armies' from a poor hermit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -673,8 +645,6 @@ have been offered - and nothing more is required; *iti abraviit* = thus, said.
 When sage Vashishta said in this way, that highly-intellectual king Vishvamitra said to him, 'hospitality
 is deemed to have been offered to me with your reverential words, it is enough and nothing more is necessary.'
 [1-52-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -751,8 +721,6 @@ look upon us with a friendlily regard. [1-52-16, 17]
 **टिप्पनी**
 
 The reverential salutation *namas te astu* is discussed in the endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -796,8 +764,6 @@ _________________
 
 Even if the king was speaking in this way obliquely to him, that virtue-souled and magnanimous sage
 Vashishta entreated the king repeatedly. [1-52-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -844,8 +810,6 @@ ha* = thus, in turn, spoke [replied,] indeed.
 
 Gaadhi's son Vishvamitra then replied the eminent saint Vashishta, "Agreed! As it pleases the godly
 sage. So be it!" [1-52-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -892,8 +856,6 @@ varaH* = the best among meditators; *dhuutakalmaSaH* = one who is laved of blemi
 
 When Vishvamitra said that way then Vashishta, the best one among meditators, and one whose blemishes
 are laved is gladdened, and started calling his speckled cow, namely Shabala, yclept Kaamadhenu. [1-52-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -938,8 +900,6 @@ to do [to accord,] prepared, I am; *me samvidhatsva* = for me, you arrange for i
 Come on, oh, Shabala! Come quickly and listen to my words. I prepared to accord hospitality with
 a highly delectable royal banquet to this kingly sage together with all his forces. You arrange it for
 me. [1-52-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -990,8 +950,6 @@ is savoured by whosoever according to one's own piquancy from each of the six sa
 
 The six tastes that shall comprise an Indian meal are: 1] caustic, 2] acidic, 3] sweetish, 4] salty,
 5] un-sweetish [bitter,] and 6] alkaline.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 </details>
 
@@ -1034,8 +992,6 @@ The six tastes that shall comprise an Indian meal are: 1] caustic, 2] acidic, 3]
 foods, drinkable items like soft-drinks, tasteable items like honey-like viscous dishes, squeezable
 items like pulpy fruits, and be quick.' " So said Sage Vashishta to that Sacred Cow, Kaamadhenu, and
 Vishvamitra continued his narration. [1-52-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga52/balasans52.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ The seizure of Kaamadhenu, the Sacred Cow, causes anxiety in her and she urges V
 to counteract the atrocity of Vishvamitra. Agreeing to her, the sage asks the Cow
 to create a force that can subdue the forces of Vishvamitra. Accordingly, that Cow
 generates newer forces and a war ensues.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ dragged - started to seize that Shabala.
 "When Sage Vashishta did not yield Kaamadhenu, the milker of any desire, oh, Rama,
 then Vishvamitra started to seize it." Sage Shataananda continued the narration
 of the legend of Vishvamitra. [1-54-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ away - dragged her away; *shabalaa duHkhitaa* = Shabala, saddened; *shokakarSita
 While the determined king Vishvamitra dragged her away from Vashishta, oh, Rama,
 Shabala is saddened and tearfully mulled over stung by the anguish of her secession
 from the sage. [1-54-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ king's servants; *hriyeyam* = who am stolen - being led away; *aham*
 A pitiable and highly anguished one, such as I am. I am being dragged away by
 the servants of the king. Has this great souled Sage Vashishta abandoned me, or
 what? [1-54-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ towards, great-sage; *mayaa* = by me; *kim* = what; *apakR^itam*
 'Or, did I do any misdeed towards that great sage of sacred soul whereby he is
 leaving me off. I have always been reverent and a cherished cow to that priest
 and am I no errant.' That cow eulogised in this manner. [1-54-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -305,8 +295,6 @@ that Sacred Cow hastily rushed with the speed a gust and went to that highly ene
 Vashishta on utterly shoving off hundreds of attendants of the king who are roping
 her, and then she straight went to the base of the feet of the great-souled Vashishta.
 [1-54-5, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -322,8 +310,6 @@ thunder of the cloud; *idam abraviit* = spoke this.
 
 She that moaning and groaning Shabala staying before the Sage Vashishta spoke this
 bellowing like a thunderous cloud. [1-54-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ oh god; *aham tvayaa kim parityaktaa* = why I discarded by you; *yasmaat*
 
 'Oh, Son of Brahma, why I am discarded by you, whereby oh, god, the king's attendants
 are weaning me away from your proximity.' So Shabala urged Vashishta. [1-54-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -407,8 +391,6 @@ vacanam abraviit* = spoke this sentence.
 When he is spoken thus, then that Brahma-sage spoke this sentence to worrisome
 Shabala, whose heart is worrying with worry, as he would speak with his own sister
 in her worriment. [1-54-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -451,8 +433,6 @@ tvaam nayate* = weaning you away.
 
 Neither I forswear you nor you fouled me, oh, Shabala, this king is forcibly
 weaning you away from me as he is beside himself with kingly arrogance. [1-54-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -495,8 +475,6 @@ patiH eva ca* = even lord of earth, also.
 'My ability is not balanceable with his, isn't it. Above all, on his part he is
 a king now, and a king will be mighty, he is the lord of the land and a Kshatriya,
 and thus we have to be subservient to a Kshatriya, isn't it. [1-54-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -542,8 +520,6 @@ mightier than me.
 'This akShauhiNi unit of army is plethoric, overcrowded
 with elephants, horses, and chariots, and overspread with flags and elephants, thereby
 he is mightier than me.' Thus Vashishta tried to pacify that Sacred-Cow. [1-54-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -586,8 +562,6 @@ one; *pratyuvaaca* = spoke in turn - replied.
 She who is spoken that way by Vashishta, that sententious Sacred Cow, Shabala,
 in her turn obediently spoke this sentence to that Brahma-sage of un-balanceable
 resplendence. [1-54-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -673,8 +647,6 @@ if consumed kills one that consumes it... but the possession of a sagacious pers
 if tried for consumption, it consumes whole lot of the consumer's sons, grandsons
 and his clan itself, besides the consumer...for sage's possession in itself is a
 lethal poison...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -722,8 +694,6 @@ mightier than you; *na* = he is not; *tava tejaH duraasadam*
 
 Immutable is your power as you are mightier than great-mighty Vishvamitra and
 invincible is your dynamism. [1-54-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -772,8 +742,6 @@ venture [to wean me from you]; *naashayaami* = I destroy [I disprove.]
 'Ordain me, oh, highly resplendent sage, who am replete with the power of your
 sagacity, and I will disprove the vanity, valour, and venture of that injudicious
 king for this injudicious seizure.' Thus Shabala implored the sage Vashishta. [1-54-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -822,8 +790,6 @@ on his part; *tadaa* = then; *parabalaardanam* = overpowering opponent's power
 Oh, Rama, when spoken by her thus, that highly glorious Vashishta said to Shabala,
 the do-all cow, 'create a power that can overpower the power of opponent.' Vashishta
 said so to Shabala.[1-54-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -876,8 +842,6 @@ On hearing his sentence, oh, Rama, that Sacred Cow Shabala then created Pahlava
 kings, sprang forth from her mooing 'hums', and hundreds of them annihilated the
 army of Vishvamitra in its entirety just while Vishvamitra is witnessing it. [1-54-18,
 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -924,8 +888,6 @@ shastraiH* = many kinds of, weaponry; *pahlavaan naashayaamaasa api*
 
 King Vishvamitra was utterly infuriated and with wide-eyed anger he started to
 destroy those Pahlava-s with many a kind of his weaponry. [1-54-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -986,8 +948,6 @@ Ch. 43. Dharmaakuutam says: *tadanu vashiShThaabhyanuj~naataa shabalaa nirmitapa
 - niShuuditam svam balam vishvaamitra - iti - dk* These are viewed
 as deadly, lowly, ruffian class of warriors in Indian viewpoint and created out
 of thin air by this Sacred Cow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1006,8 +966,6 @@ Then the earth was pervaded with the Shaka-s associated with Yavana-s, who have
 effectuation and bravery in overcoming their enemy forces, and who are golden in
 bodily colour similar to the golden pistils of flowers which complexion is outlandish.
 [1-54- 21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 </details>
 
@@ -1070,8 +1028,6 @@ fires; *tat sarvam balam* = that, entire, force [of Vishvamitra];
 Yavana-s and Shaka-s, who are wielding bowie knives and broad lances and who are
 clad in golden coloured dresses, and who looked like glowing fires have completely
 burnt down entire force of Vishvamitra. [1-54-22, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1095,8 +1051,6 @@ Shataananda continued his narration of Vishvamitra. [1-54-23b,c.]
 The Barbara-s are said in this text whereas other mms contain it as "Pahlava-s'.
 Even on taking Barbara-s, they are an outlandish clan and the word 'Barbara' might
 have been the ancestor word of the present day 'Barbarian.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

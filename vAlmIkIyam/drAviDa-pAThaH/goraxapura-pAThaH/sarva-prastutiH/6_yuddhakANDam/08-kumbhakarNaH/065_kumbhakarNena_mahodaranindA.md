@@ -22,8 +22,6 @@ ornamentation of the various limbs of Kumbhakarna with various types of jeweller
 him to the battle. As Kumbhakarna sallies forth to the battle, several bad omens appear on all
 sides. Kumbhakarna disregards these portents and marches ahead for the battle. Seeing the colossal
 form of Kumbhakarna, all the monkeys get frightened and take to their heels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ then; *abraviit* = spoke; *bhraataram* = to his brother; *raavanam* = Ravana;
 
 Hearing the words of Mahodara, Kumbhakarna rebuked him and then spoke to his
 brother, Ravana, the chief of demons (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ brother, Ravana, the chief of demons (as follows):
 
 "By annihilation of that evil-minded Rama, I will wipe-off your terrifc fear today.
 Be happy, indeed without any enmity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ Be happy, indeed without any enmity."
 
 "Warriors do not roar in vain as waterless clouds. Hear my roar, only on completion
 of my said task in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ karma* = difficult act.
 
 "Warriors do not indulge in eulogizing themselves. They do difficult acts, without a
 show."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ learned; *abuddhiinaam* = and who are stupid.
 
 "O Mahodara! Your words may be agreeable to those kings who are confused, who fancy
 themselves as the learned, and who themselves are stupid."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ spoiled.
 
 "You are all cowards in battle. You always speak pleasantly and go according to the
 wishes of the king. You, as such, have spoiled all the undertakings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -354,8 +340,6 @@ Lanka; *kR^itaa* = has been made; *raajaseSaa* = with the king alone left.
 
 "Having access to this king, who has friends merely for a name-sake as also behaving
 unfriendly, the treasury got depleted, the army destroyed and king alone is left the Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -399,8 +383,6 @@ enemies; *eSaH aham* = I; *niryaami* = sally forth; *adya* = today;
 
 "Intent on conquering the enemy, I sally for the battle today to set right your
 imprudent policy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -441,8 +423,6 @@ the king of demons; *tataH* = then; *prahasan* = bursting into laughter;
 
 Hearing the words of the intellectual Kumbhakarna, Ravana the king of demons,
 bursting into laughter, replied as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -483,8 +463,6 @@ rochayate hi* = indeed; he is not inclined; *yuddham* = of war.
 
 "O dear brother, well-versed in the art of war-fare! This Mahodara is frightened of
 Rama. There is no doubt. He is not indeed inclined of a war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -526,8 +504,6 @@ victory.
 
 "O Kumbhakarna! None is equal to you in friendship and strength, in my eyes. You
 march to the battlefield for destroying the enemies and for achieving victory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -574,8 +550,6 @@ march to the battlefield for destroying the enemies and for achieving victory."
 
 "O destroyer of enemies! You, who were sleeping, were awakened by me, for the
 purpose of destroying the enemies. This is indeed a grand time for our demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -623,8 +597,6 @@ the sun.
 
 "Therefore, go like Yama the god of death, by taking a dart and a noose in your
 hand. Devour the monkeys and the princes whose splendour is like that of the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -665,8 +637,6 @@ very form; *vaanaraaH* = the monkeys; *vidraviSyanti* = will run away;
 
 "By seeing your very form, the monkeys will run away. The hearts of Rama and
 Lakshmana will get broken asunder."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -713,8 +683,6 @@ himself; *jaatam iva* = as though he was born; *punaH* = again.
 
 Ravana, the king of demons, having a great energy, thus speaking to the mighty
 Kumbhakarna, thought himself as though he was born again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -755,8 +723,6 @@ the strength of Kumbhakarna; *jaanan* = and recognising; *tasya* = his;
 
 The king, knowing the strength and prowess of Kumbhakarna, was delighted and became
 as bright as the moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -805,8 +771,6 @@ as bright as the moon.
 Some were drowned in the ocean. Some had recourse into the caves. Some others
 escaped. Some could not even stand stable on the ground. Some fell down. Some lied down, as though
 they were dead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -853,8 +817,6 @@ splendidly shining; *taptakaaN^chana bhuuSaNam* = and adorned with pure gold.
 
 Kumbhakarna, the annihilator of enemies, speedily took up a sharp spike fully made
 of iron, adorned with pure gold and splendidly shining.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -933,8 +895,6 @@ Indra's thunderbolt and equally heavy, capable of tormenting celestials, demons,
 celestial musicians, Yakshas a class of demi-gods and Nagas the celestial serpents, wreathed in
 garlands of crimson flowers with excessive splendour and emitting flames by itself naturally,
 Kumbhakarna of great brilliance spoke to Ravana the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -950,8 +910,6 @@ Kumbhakarna of great brilliance spoke to Ravana the following words:
 
 "Let this large army stay back here. I shall go all alone. Being angry with hunger,
 I shall devour those monkeys now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1001,8 +959,6 @@ with spikes and hammers in hand; *gachchha* = go (to the battle-field).
 
 Hearing the words of Kumbhakarna, Ravana said, "Go along with army, with their
 spikes and hammers in hand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1057,8 +1013,6 @@ those); *ekaakinam* = who are either alone; *pramattamvaa* = or off one's guard.
 
 "The monkeys, with their huge bodies, valiant, with a much determination and with
 their teeth, will destroy anyone who is either alone or off one's guard."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1075,8 +1029,6 @@ the demons.
 
 "Therefore, go along with your troops as a person who is very difficult to be
 assaulted. Destroy the entire enemy-side, which in inimical to our demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1117,8 +1069,6 @@ throne; *raavaNaH* = Ravana; *mahaatejaaH* = endowed with a great energy;
 
 Rising up swiftly from his throne, Ravana endowed with a great energy, then placed
 around the neck of Kumbhakarna, a necklace studded with a course of jewels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1165,8 +1115,6 @@ around the neck of Kumbhakarna, a necklace studded with a course of jewels.
 
 Ravana placed on the person of Kumbhakarna, armlets, rings, excellent jewellery and
 a handsome chain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1213,8 +1161,6 @@ ear-rings; *shrotrayoH* = to his ears.
 
 Ravana arranged for ornamentation of his limbs with beautiful and sweet-smelling
 garlands as well as ear-rings to his ears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1261,8 +1207,6 @@ bracelets worn on his upper arms along with ornament for his breast; *aababhau* 
 
 Kumbhakarna with large ears, adorned with golden armlets and bracelets worn on his
 upper arms along with ornament for his breast, shone like fire, well-fed with oblations.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1309,8 +1253,6 @@ upper arms along with ornament for his breast, shone like fire, well-fed with ob
 
 With a large, black and shining string worn round his loins, he was looking like
 Mount Mandara encircled by a serpent at the time of churning the ambrosia.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1363,8 +1305,6 @@ weapons; *diiptamiva* = as if blazing; *aatmatejasaa* = with its own splendour;
 Secured with a golden armour, carrying a great load, impenetrable by weapons and as
 if blazing with its own splendour with flashing like lightning, Kumbhakarna shone as a king of
 Mountains, enveloped by clouds at sunset.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1413,8 +1353,6 @@ meant to cover the entire universe).
 Adorned with all ornaments to all his limbs and with a spike in his hand, that demon
 shone like Narayana, the all-embracing Lord, enthusiastic to take the three long strides (which
 were meant to cover the entire universe).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1462,8 +1400,6 @@ respectfully.
 
 Embracing his brother and even circumambulating him, the mighty Kumbhakarna sallied
 forth, after offering salutation to him by bowing down to him respectfully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1511,8 +1447,6 @@ mighty; *kumbhakarNaH* = Kumbhakarna; *mahaakaayam* = having a colossal body;
 Ravana sent off the mighty Kumbhakarna, having a colossal body, who was then
 sallying forth, with a great sound (of drums and musical instruments) and with laudable
 benedictions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1563,8 +1497,6 @@ charioteers.
 With loud sounds of counches and kettle-drums, with an army wielding excellent
 weapons, with elephants, with horses and with chariots making sounds of clouds, mighty charioteers
 accompanied him who was the foremost among the charioteers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1614,8 +1546,6 @@ _________________
 
 Those demons followed that terrific and mighty Kumbhakarna, mounting on serpents,
 camels donkeys, lions, elephants, wild beasts and birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1676,8 +1606,6 @@ the smell of blood.
 That Kumbhakarna, the enemy of ogres and celestials, wielding a sharp spike in his
 hand, while sallying forth, over whose head a parasol was held and drink and intoxicated by the
 smell of blood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1725,8 +1653,6 @@ smell of blood.
 
 Many demons, possessing a great energy and great strength, with terrific forms and
 fearful eyes, as also wielding weapons in their hands, accompanied him as foot-soldiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1791,8 +1717,6 @@ met.
 The demons followed, with their red hot eyes, large colossal bodies resembling a
 mass of collyrium in hue, lifting up spikes, swords, sharp axes, javelins, iron rods, maces,
 mallets, enormous trunks of palmyrah trees to be hurled at and difficult to be met.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 
 </details>
@@ -1865,8 +1789,6 @@ Then, that Kumbhakarna, of a great splendour and a great strength, assuming anot
 body of a formidable and terrific form, with a breadth of a hundred bows and six hundred bows in
 height, with his eyes resembling the wheels of a cart, looking like a huge mountain and terrible to
 look at, sallied forth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1910,8 +1832,6 @@ scorched hill; *samnipatya* = approaching; *rakSaamsi* = the demons;
 
 Kumbhakarna with his colossal body and a huge mouth, looking like a scorched hill,
 approaching the demons and laughing loudly, spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -1958,8 +1878,6 @@ iva* = as a flash of ifre; (would burn up); *pataN^gaaniva* = the moths.
 
 "Charged with anger, I shall burn up those troops of the foremost of monkeys, in
 lots today, as a flash of fire would burn up the moths."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2001,8 +1919,6 @@ embellishment for gardens in city; *asmadvidhaanam* = like ours.
 "The monkeys who are in the habit of roaming about in the woods, have not offended
 me of their own accord. That race of monkeys serves as an embellishment for the urban gardens in a
 city like ours."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2043,8 +1959,6 @@ Lakshmana; *muulam* = is the root-cause; *purarodhasya* = for attacking our city
 
 "Rama, together with Lakshmana, is the root-cause for the attack on our city. If he
 is killed, all will be destroyed. Therefore, I shall kill that Rama in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2085,8 +1999,6 @@ is killed, all will be destroyed. Therefore, I shall kill that Rama in battle."
 
 While Kumbhakarna was speaking in that way, the demons made a very terrific noise,
 as though they were agitating the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2127,8 +2039,6 @@ as though they were agitating the ocean.
 
 As that intelligent Kumbhakarna was sallying forth quickly for the battle, omens of
 terrific patterns appeared on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2175,8 +2085,6 @@ vanaa* = together with its oceans and forests.
 
 Clouds, ashy in colour like asses, combined with meteors and strokes of lightning
 appeared. Even the earth trembled, together with its oceans and forests.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2220,8 +2128,6 @@ mandalaani* = in circles from right to left.
 
 Jackals of terrific form howled with flaming morsels in their mouths and birds
 twirled in circles from right to left.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2272,8 +2178,6 @@ vulture; *niSpapaata* = descended; *asya* = his; *nayanam* = (left) eye;
 
 A vulture descended on the spike of Kumbhakarna, as he was sallying forth along the
 road. His left eye twitched and his left arm throbbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2321,8 +2225,6 @@ comfortably.
 
 Then, a blazing meteor fell down with a dreadful noise. Even the sun became
 lusterless and the wind was not blowing comfortably.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2372,8 +2274,6 @@ balachoditaH* = driven by the power of fate.
 
 Disregarding those great portents indicated, causing the hair to stand erect,
 Kumbhakarna on his part marched on, driven by the power of fate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2415,8 +2315,6 @@ coverage of clouds.
 
 Kumbhakarna, looking like a mountain, traversing the rampart with his feet alone,
 saw a wonderful army of monkeys, looking similar to a thick coverage of clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2458,8 +2356,6 @@ away by the wind.
 
 Seeing that Kumbhakarna, the excellent among demons, looking equal to a mountain,
 the monkeys then ran away to all directions, as clouds are driven away by the wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2507,8 +2403,6 @@ roared; *ghanavat* = like a cloud (thunder).
 Looking towards that highly fierce army of monkeys, running away to different
 quarters, as a net-work of broken clouds, that Kumbhakarna with the hue of a black cloud, highly
 rejoiced, repeatedly emitted a roar-like thunder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2562,8 +2456,6 @@ rejoiced, repeatedly emitted a roar-like thunder.
 
 Hearing his terrific roar, similar to the rumbling of a cloud in the sky, many of
 those monkeys fell down on the ground, like Sal trees cut-up by the roots.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 </details>
 
@@ -2621,8 +2513,6 @@ Wielding a large iron rod for the destroyable of the enemies, that gigantic
 Kumbhakarna looked like Yama the lord of death armed with a rod of punishment, waiting upon him as
 his attendant at the time of dissolution of the world and caused a great terrific fear to the
 troops of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

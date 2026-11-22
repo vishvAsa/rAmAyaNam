@@ -20,8 +20,6 @@ n detail to Seetha the appearance and qualities of Rama and Lakshmana. Hanuma al
 developed between Rama and Lakshmana as well as Sugreeva the Lord of monkeys. Hanuma also narrates his own life-story
 from the time he was born till his role as a minister of Sugreeva. He ends the story with his sight of Seetha
 in Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ words; *saantvam* = which were addressed gently.
 
 Hearing that narration about Rama from Hanuma the excellent of monkeys, Seetha in a sweet voice
 spoke the following gentle words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ and men; *aasiit* = occur?
 
 "Where was your contact with Rama? How do you know Lakshmana? How did the union between monkeys
 and men arise?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ _________________
 
 "O Hanuma! What are the characteristics of Rama and Lakshmana? Narrate them to me, so that sorrow
 will not take possession of me again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ raamasya* = of that Rama; *lakSmaNasya* = and of Lakshmana? kiidR^isham = of wha
 
 "Of what kind was the appearance of that Rama and of Lakshmana? Of what kind was their form? How
 were the thighs? How were the arms? Tell me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ state.
 
 Hearing the words of Seetha, Hanuma, the son of wind-god, then started to describe Rama according
 to his actual state (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -326,8 +314,6 @@ you know about them; *bata* = Alas; what a pleasure!.
 
 "O Seetha having eyes resembling lotus leaves! By my fortune, you are enquiring about the appearance
 of Rama your husband and Lakshmana, eventhough you know about them. Alas! what a pleasure!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ me* = from me.
 
 "O the large eyed Seetha! I tell the characteristics of Rama and Lakshmana as I recognized them;
 hear them from me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ with grace and dexterity; *prasuutaH* = from the time he was born.
 
 "O Seetha the daughter of Janaka! Rama has his eyes resembling the petals of a lotus. He has a
 handsomeness, attracting the hearts of all living beings. He is endowed with grace and dexterity, by birth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -472,8 +454,6 @@ equal to Brihaspati; *buddhyaa* = in intelligence; *vaasavopamaH* = and equal to
 
 "He is equal to the sun in splendour, earth in endurance, Brihaspati in intelligence and Indra
 in fame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -494,8 +474,6 @@ a protector; *jiivalokasya* = of the world of beings; *abhirakSitaa* = further p
 
 "Rama the tormentator of his adversaries, is a protector of the world of beings, further protecting
 his own people. He is the protector of his own behaviour and righteousness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -544,8 +522,6 @@ for the people's propriety of conduct."
 
 * Four principal castes described in Manu's code - Brahmanas (priestly class), Kshatriyas (members
 of military or reigning order); Vaisyas (Traders and agriculturists) and Sudras (class of servitude).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -596,8 +572,6 @@ of chastity; *upakaarajNaH* = He knows how to do good; *saadhuunaam* = to virtuo
 
 "Rama is a resplendent man. He is respected exceedingly. He is established in a vow of chastity.
 He knows how to do good to virtuous people. He knows the application and advantage of his actions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -648,8 +622,6 @@ knowledge; *shiilasamapannaH* = He is endowed with a good conduct; *viniitaH* = 
 
 "He is well trained in statesmanship. He honours brahmins, the priestly class. He possesses sacred
 knowledge. He is endowed with good conduct. He is a modest man. He torments his adversaries."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -705,8 +677,6 @@ in Vedas. He is skilled in Dhanurveda, the science of archery, other Vedas and t
 Six limbs of Vedangas : 1) Siksha, the science of proper articulaton and pronunciation 2) Chandas,
 the metre 3) Vyakarana, the grammar 4) Nirukta, the explanation of difficult Vedic words 5) Jyotisha, the astronomy
 or rather the Vedic Calendar. 6) Kalpa, the ceremonial represented by a large number of Sura works.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -757,8 +727,6 @@ beautiful red eyes; *shrutaH* = he is heard about; *janaiH* = by people.
 
 "O princess! Rama is a broad shouldered and a long-armed man. He has a shell-like neck. He has
 a handsome countenance. He has a hidden collar-bone. He has beautiful red eyes. His fame is heard about by people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -809,8 +777,6 @@ is endowed with; *shyaamam varNam* = a dark-brown complexion.
 
 "He has a voice like the sound of a kettle-drum. He has a shining skin. He is full of splendour.
 He is square-built. His limbs are built symmetrically. He is endowed with a dark-brown complexion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ and knees, elevated in three (viz. his breast, rim of his navel and lower abdome
 and the lower abdomen), coppery in three (viz. the rims of his eyes, nails, palms and soles), soft in three (viz.
 the lines on his soles, hair and the end of the membrane virile) and always deep in three (viz. the voice, gait
 and the navel)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -922,8 +886,6 @@ membran virile, the back and the shanks). He is endowed with three spirals in th
 lines at the root of his thumb (denoting his proficiency in the four Vedas). He has four lines on his forehead
 (indicating longevity). He is four cubits high (96 inches). He has four pairs of limbs (viz. the cheeks, arms,
 shanks and knees) equally matched."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -980,8 +942,6 @@ the ends of his upper and lower jaws are very sharp. He walks in four gaits (res
 tiger, an elephant and a bull). He is endowed with excellent lips, chin and nose. He has five glossy limbs (viz.
 the hair, eyes, teeth, skin and soles). He has eight long limbs (viz. the arms, fingers and toes, eyes and ears,
 thighs and shanks).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 </details>
@@ -1043,8 +1003,6 @@ the flanks, the abdomen, the breast, the nose, the shoulders and the forehead). 
 in nine (viz. the hair, the moustaches and the beard, nails the hair on the body, the skin, the finger-joints,
 the membrum virile, acumen and perception). He pursues religious merit, worldly riches and the sensuous delight
 in three periods (viz. the forenoon, midday and afternoon).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1095,8 +1053,6 @@ speaks affectionately with all.
 
 "Rama is engrossed in truth and righteousness. He is a prosperous man. He is interested in reception
 and facilitation. He knows how to apportion place and time. He speaks affectionately with all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1177,8 +1133,6 @@ like that Rama; *anuraageNa* = in affection; *ruupeNa* = in appearance guNaishch
 
 "The invincible Lakshmana, the son of Rama's step-mother and Rama's brother, is resembling Rama
 in appearance, affection and in qualities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1194,8 +1148,6 @@ in appearance, affection and in qualities."
 
 "Rama and Lakshmana, the two tigers among men, very anxiously desirous of seeing you and searching
 all over the earth, came in contact with us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1267,8 +1219,6 @@ sight.
 "Those two brothers Rama and Lakshmana, wandering only in search of you all over the earth, saw
 Sugreeva the Lord of monkeys, sitting on the top of Rishyamuka mountain, filled with several trees, having been
 dethroned by his elder brother, oppressed with fear, but who was pleasant to the sight."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1319,8 +1269,6 @@ was true to his promise; *avaropitam* = and who was dethroned; *raajyaat* = from
 
 "We for one are serving that Sugreeva, the Lord of monkeys, who was true to his promise, but was
 dethroned from the kingdom from his elder brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1379,8 +1327,6 @@ mountain.
 
 "In the meanwhile, those two brothers Rama and Lakshmana, wearing clothes made of bark and arming
 the best bows, came to the charming place of Rishyamuka mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1396,8 +1342,6 @@ shikharam* = to the hill-top; *tasya* = of that; *gireH* = mountain.
 
 "Seeing Rama and Lakshmana, the excellent of men, coming with bows in hand, that Sugreeva the best
 of monkeys was deluded with fear and jumped over to the hill-top of that mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1448,8 +1392,6 @@ _________________
 
 "Thereafter, stationed on that hill-top, that Sugreeva the lord of monkeys, very soon sent me only,
 to approach those two brothers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1521,8 +1463,6 @@ present).
 "Those two brothers, Rama and Lakshmana, the excellent among men, were fully endowed with kindness,
 after knowing the exact position about Sugreeva. Then, I made Rama and Lakshmana to ascend on my back and took
 them to Sugreeva's place."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1573,8 +1513,6 @@ _________________
 
 "On that command of Sugreeva, I reached saluting those two brothers, Rama and Lakshmana the excellent
 and capable men, endowed with good form and characteristics."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1590,8 +1528,6 @@ was developed.
 
 "I informed the high-souled Sugreeva about the true position of Rama and Lakshmana. After a mutual
 conversation between those two brothers and Sugreeva, a great friendship developed among them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1641,8 +1577,6 @@ _________________
 
 "Thus endowed with friendship, Sugreeva the lord of monkeys and Rama the best of men, by talking
 together of their earlier occurrences, developed mutual confidence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1694,8 +1628,6 @@ elder brother of Lakshmana; *vaalinaa* = through Vali; *urutejasaa* = of great s
 "Thereafter, that Rama the elder brother of Lakshmana, through the extremely effulgent Vali the
 brother of Sugreeva, consoled Sugreeva who was earlier expelled from the kingdom; (by Vali), for the sake of Ruma
 a woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1743,8 +1675,6 @@ out of your disappearance.
 
 "Then, Lakshmana informed Sugreeva the king of monkeys about the sadness of Rama, (who is unwearied
 in action), born out of your disappearance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1792,8 +1722,6 @@ in action), born out of your disappearance."
 
 "Hearing the words of Lakshmana, Sugreeva then became highly dim-witted, as the sun becomes dim
 when overpowered by an eclipse."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1849,8 +1777,6 @@ Rama; *na viduH* = (But) they did not know; *tava* = your; *gatimtu* = path (of 
 "Thereafter, all those multitude of ornaments which adorned your body, which were being tried to
 be be snatched away by Ravana and which were dropped on to the earth, were brought by monkey-leaders joyfully
 and shown to Rama. But the monkey-leaders did not know the further course of your movement."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1902,8 +1828,6 @@ _________________
 
 "That Lord Rama looking like god, kept those beautiful ornaments of yours in his flank and lamented
 in many ways."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -1962,8 +1886,6 @@ _________________
 
 "I indeed brought those ornaments near to Rama and gave them to him. Then, soon after receiving
 them, Rama lost his consciousness and the resounding ornaments were scattered all over."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1984,8 +1906,6 @@ again.
 
 "While seeing those ornaments, Rama was lamenting and getting suffocated again and again. Thus,
 those ornaments ignited the fire of Rama's grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2006,8 +1926,6 @@ vaakyaiH* = by telling several words.
 
 "That grief-stricken mighty man was thus lying on the floor for a long time. Then, with great difficulty,
 I made him to get up by telling several consoling words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2022,8 +1940,6 @@ ornaments; *muhuH muhuH* = angain and again; *nyavedayat* = and gave; *sugriiva*
 
 "That long-armed Rama, along with Lakshmana, after seeing those ornaments, examined them, again
 and again. He later gave them to Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2072,8 +1988,6 @@ unseen; *saH raaghavaH* = that Rama; *paritapyate* = was tormented; *nityam* = f
 
 "O the kind mistress! As you were being unseen, Rama was tormented forever with a great flaming
 fire of grief, like a volcano."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2123,8 +2037,6 @@ souled Rama; *anidraacha* = insomnia; *shokaH* = grief; *chintaacha* = and worry
 
 "For your sake, insomnia, grief and worry were tormenting that great souled Rama, as flames torment
 a burning house."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2173,8 +2085,6 @@ _________________
 
 "By the grief caused by your not being seen, Rama is trembled with grief, as a high mountain is
 trembled by a great earthquake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2225,8 +2135,6 @@ water-falls.
 
 "O princess! In not seeing you, Rama is not obtaining delight, even while moving in quite charming
 forests, encompassing rivers and water-falls."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2277,8 +2185,6 @@ you; *kSipram* = soon; *hatvaa* = killing; *raavaNam* = Ravana; *samitra baandha
 
 "O Seetha the daughter of Janaka! That Rama the excellent of men will receive you, soon after,
 killing Ravana along with Ravana's friends and relatives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2329,8 +2235,6 @@ for a search; *tava* = of you.
 
 "That day when Rama and Sugreeva were together, both of them made an agreement that Rama would
 annihilate Vali and Sugreeva would arrange for a search of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2381,8 +2285,6 @@ _________________
 
 "Thereafter, Rama and Lakshmana the two valiant princes reached Kishkindha. Rama killed Vali the
 king of monkeys there in a combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2432,8 +2334,6 @@ and monkeys.
 
 "After killing Vali in combat by means of his strength, Rama made Sugreeva the king for the entire
 multitude of bears and monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2484,8 +2384,6 @@ held well; *evam* = in such a manner; *raama sugreevayoH* = between Rama and Sug
 
 "O princess! A friendship was held well in such a manner between Rama and Sugreeva. Know me as
 Hanuma, who came here as a messenger on behalf of both of them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2538,8 +2436,6 @@ tvadartham* = for your sake.
 
 "Having got his own kingdom, Sugreeva summoned for mighty as well as capable monkeys and sent them
 to ten different directions in search of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2590,8 +2486,6 @@ sarvataH* = in all directions.
 
 "As commanded by Sugreeva of a great splendour and the king of monkeys, those monkeys resembling
 Himalayan mountains, started out on all directions of the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2635,8 +2529,6 @@ cha* = and other monkeys; *sugriiva vachanaaturaaH* = who are eager to fulfill t
 
 "Then, we along with other monkeys too who are eager to fulfill the command of Sugreeva, are wandering
 the entire earth in search of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2687,8 +2579,6 @@ with him).
 
 "An excellent monkey named Angada, possessed of fortune, son of Vali and having great strength,
 taking one third of army along with him, set out in search of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2738,8 +2628,6 @@ parvata sattame* = in a mountain range called Vindhya.
 
 "A number of days and nights passed, filled as we were with grief, having got lost our way intensely
 in a mountain-range called Vindhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2790,8 +2678,6 @@ _________________
 
 "We were determined to forsake our lives because of despair in our non-fulfillment of work, in
 our overstepping of time-limit given by Sugreeva and in fear of the King Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2842,8 +2728,6 @@ tyaktum* = to give up; *praaNaan* = the lives.
 
 "Having searched in places difficult of access in forests, at mountains and at cascades and not
 obtaining any indication of you the princess, we were ready to give up our lives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -2933,8 +2817,6 @@ maraNamcha* = the death; *jaTaayuSaH* = of Jatayu; *asmaakam* = and our; *praayo
 "O Seetha! Seeing all the excellent monkeys sitting down and calmly awaiting for the approach of
 death, Angada was very much immerssed in the ocean of sorrow and lamented about your loss, the killing of Vali,
 the death of Jatayu and our practice of calmly awaiting for the approach of death in simply sitting down."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2950,8 +2832,6 @@ of Sugreeva; *kaarya hetoriva* = (as thought) for the sake of our need alone; *m
 
 "For us who lost all our hopes on our lives and willing to give up our lives as per the command
 of Sugreeva, as though for the sake of our need alone, a great valiant bird came there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3011,8 +2891,6 @@ Sampati; *gR^idhra raaT* = (himself) a king of vultures; *abriviit* = spoke; *id
 
 "Hearing about the killing of his brother, the vulture-king Sampati the brother of slain Jatayu
 the King of vultures spoke (the following) words in anger:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3028,8 +2906,6 @@ where; *nipaatitaH* = was he made to fall?; *ichchhami* = I desire; *etat* = thi
 
 "O the best of monkeys! Tell me who, where and how my younger brother Jabali was killed and made
 to fall."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3072,8 +2948,6 @@ great bird; *janasthaane* = at Janasthana; *bhiimaruupeNa rakSasaa* = by a demon
 
 "Then, Angada told Sampati a detailed account of events which led tot he killing of that great
 bird at Janasthana, by a demon of terrific form, for your sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3123,8 +2997,6 @@ you; *vasantiim* = were staying; *raavaNaalaye* = in Ravana's house.
 
 "O Seetha with an excellent waist! Hearing about the slaughter of Jatayu, that Sampati the son
 of Aruna was very much pained and said that you were staying in Ravana's house."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3172,8 +3044,6 @@ _________________
 **अनुवादः**
 
 "Hearing those delightful words of Sampati, we with our Chief Angada started soon from there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3227,8 +3097,6 @@ _________________
 
 "The monkeys were very much delighted and satisfied. They were making up their energy to see you,
 rose up from Vindhya mountain and reached the northern shore of the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3244,8 +3112,6 @@ got; *chintaam* = the worry.
 
 "All the monkeys with their Chief Angada, in their anxiety to see you, reached the ocean. They
 were frightened after seeing the ocean there and they were again worried."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3266,8 +3132,6 @@ harisainyasya* = of the army of monkeys; *siidataH* = who were worrying; *plutaH
 
 "Thereafter, seeing the ocean, I removed the serious fears of the army of monkeys who were worrying
 and crossed hundred Yojanas across the sea."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3334,8 +3198,6 @@ occurred; *abhibhaaSasva* = talk; *maam* = to me; *aham* = I; *duutaH* = am the 
 
 "O the faultless princess! I told you all this as actually occurred. I am the messenger of Rama.
 Talk to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3378,8 +3240,6 @@ Talk to me."
 
 "O princess! I made an effort on Rama's behalf and came here for your sake. I am Sugreeva's minister.
 I am the son of wind-god. Know me, as such."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3430,8 +3290,6 @@ _________________
 
 "Entering even Lanka, filled with demons in the night, I saw Ravana and you too who were immersed
 in grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3447,8 +3305,6 @@ good characteristics; (is also safe).
 
 "You Rama, the excellent man among all the wielders of bow, is safe. Lakshmana, who is engaged
 in the service of his elder brother and possessing good characteristics, is also safe."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3505,8 +3361,6 @@ _________________
 
 "O princess! I, who am interested in the welfare of the valiant Rama, your husband, came here alone
 on the command of Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3522,8 +3376,6 @@ tvanmaarga vichayaiSiNaa* = desirous of finding out your access; *asahaayena* = 
 
 "I, who can change my form at will, desirous of finding out your access, wandering alone without
 any helper, came to this southern direction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3571,8 +3423,6 @@ abhigamashamsanaat* = by informing about my approaching you; *diSTyaa* = by a go
 
 "I shall remove the anguish of the army of monkeys who are lamenting because of your disappearance
 by informing them about my coming close to you because of my good fortune!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3651,8 +3501,6 @@ having seen you; *diSTyaa* = by my good luck.
 
 "O princess! By my fortune, my crossing of ocean has not gone in vain. I can get this fame of having
 seen you because of my good luck."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3668,8 +3516,6 @@ seen you because of my good luck."
 
 "The highly valiant Rama, by killing Ravana the Lord of demons along with his friends and relatives,
 will obtain you soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3716,8 +3562,6 @@ will obtain you soon."
 
 "O Seetha! There is a mountain called Malyavan, which is the best among mountains. From there,
 a monkeys called Kesari went to another mountain called Gokarna."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3776,8 +3620,6 @@ _________________
 
 "As prayed by gods and seers, that great monkey called Kesari, my father killed a demon named Shambasadana
 at a sacred shrine near the sea-shore."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3798,8 +3640,6 @@ at a sacred shrine near the sea-shore."
 
 "O Seetha! I am born in the womb of the wife of that Kesari the monkey, by the grace of the wind-god.
 By my activity alone, I am renowned as Hanuma in this world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3815,8 +3655,6 @@ you; *anaghe devi* = O the faultless princess!; *raaghavaH* = Rama; *nayitaa* = 
 
 "O Seetha! I described the qualities of Rama, your husband, to cause trust in you. O the faultless
 princess! Rama will take you from here within a short time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3866,8 +3704,6 @@ _________________
 
 Thus inspired by confidence because of the above reasons, Seetha emaciated with grief, by adequate
 clues served as proof.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3916,8 +3752,6 @@ joy; *netraabhyaam* = from her eyes; *vakrapakSmaabhyaam* = having curved eye la
 
 Seetha obtained unequal delight. She released tears of joy from her eyes having curved eye-lashes,
 with a thrill of delight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -3972,8 +3806,6 @@ are red; white and long; *ashobhata* = is shining; *uDuraaDiva* = like a moon; t
 
 The countenance of that large-eyed Seetha, who is beautiful, whose eyes are red white and long
 is shining like a moon, the king of stars liberated from Rahu the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -4024,8 +3856,6 @@ her; *priya darshanaam* = who is pleasant to the sight.
 
 Seetha considered Hanuma clearly as a monkey and not otherwise. Thereafter Hanuma replied to her
 who is pleasant to the sight (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -4069,8 +3899,6 @@ was told; *te* = to you; *samaashvasihi* = be consoled indeed!; *kim* = what; *k
 
 "O Seetha! I told you indeed all this please be consoled. Tell me what I can do for you and also
 what is agreeable to you. I am going back now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 
@@ -4126,8 +3954,6 @@ I am monkey; *vaayuprabhavaH* = born through the wind-god; *prabhaavataH* = by h
 
 "O Seetha! As provoked by the sages, Kesari, the valiant monkey killed a demon called Shambasadana
 in battle. I am a monkey born through wind-god and through his influence I am equal to the wind-god in strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
 </details>
 

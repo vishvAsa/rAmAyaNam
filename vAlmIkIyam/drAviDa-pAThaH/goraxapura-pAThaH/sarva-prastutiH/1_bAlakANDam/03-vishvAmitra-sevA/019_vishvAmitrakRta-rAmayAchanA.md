@@ -18,8 +18,6 @@ Sage Vishvamitra asks King Dasharatha to send Rama to protect the Vedic ritual
  it. The sage asserts King Dasharatha that he and the other sages in Dasharatha's
  court know the capabilities of Rama and though Rama is in his adolescence, he
  can easily kill the demons. But Dasharatha is upset at this request.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ _________________
 On listening the grand and detailed sentences of that King the lion Dasharatha,
  the great resplendent Sage Vishvamitra is thrilled with happiness and spoke this
  way. [1-19-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 "Oh, tigerly king, to you befitting are these words and to none else, as you are
  born in a great dynasty and tutored by Vashishta. [1-19-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 "What concerns I have in my heart I am going to say, and you take decision thereof,
  oh, tigerly-king, and become truthful to your promises. [1-19-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -232,8 +224,6 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 "These days I am abiding by a sacrificial vow to attain a spiritual goal but,
  oh, best one among men, two guise changing demons as causing obstacles to that
  ritual. [1-19-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -285,8 +275,6 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 "At the near end of almost completed ritual of mine two valiant and well-trained
  demons, namely Mareecha and Subaahu, are drenching the Altar of Fire with streams
  of meat and blood. [1-19-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -333,8 +321,6 @@ _________________
 
 "When the ritual vow is thus ravaged I, as the one who exerted myself for the
  ritual, had to depart from that place, unenthusiastically. [1-19-6n, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -381,8 +367,6 @@ _________________
 "And to me there is no will to let loose my anger, oh, king, as no curse shall
  be issued under vows, and like that the activity during rituals shall be inoffensive,
  isn't it. [1-19-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -441,8 +425,6 @@ _________________
  one whose valour itself is his truthfulness, that youngling whose hair locks are
  all the more jet black like crow wings on either side of his head, spare that
  eldest son of yours, namely Rama. [1-19-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -491,8 +473,6 @@ _________________
 
 "Indeed, he is capable to eradicate those demons that are thwarting the ritual
  by his own divine resplendence, and protected by me as well. [1-19-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -509,8 +489,6 @@ _________________
 
 "I will also accord many kinds of benefits to him by which he acquires renown
  in all the three worlds, no doubt about it. [1-19-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -567,8 +545,6 @@ _________________
 "Those two demons will be rendered incapable to stand fast on affronting Rama
  in anywise, and none other than Raghava has the fortitude to eliminate those two.
  [1-19-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -612,8 +588,6 @@ _________________
 "Those two sinners that are berserk by their vigour have gone into the subjection
  of death's noose, oh tigerly king, cannot counterbalance the great-souled Rama.
  [1-19-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -654,8 +628,6 @@ _________________
 
 "It will be unapt of you to show your paternal fondness, oh, king, upon my oath,
  be assured that those two demons are eradicated. [1-19-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -762,8 +734,6 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
  with Seetha, rebuffing Parashuraama etc. And also Vishvamitra leaves the decision
  to Dasharatha, 'if only your ministers, clergy as well political, permit then
  alone you send Rama with me...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -804,8 +774,6 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 "If you wish to gain in value of probity, a long-lasting and paramount renown
  on earth it will be apt of you to handover Rama to me. [1-19-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -852,8 +820,6 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 "Oh, Dasharatha, you may send Rama if only your ministers and all the other elite
  headed by Vashishta are going to give assent. [1-19-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -900,8 +866,6 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 "It will be apt of you to send your choicest son, the lotus-eyed Rama, just for
  ten days of the ritual without temporising. [1-19-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -944,8 +908,6 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 "I wish you to take decision as to how my ritual's time is not lapsed, and
  let safety betide you, let not your heart be rendered to grieve." Thus Vishvamitra
  said to Dasharatha. [1-19-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -987,8 +949,6 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 On saying those words that comprise fairness and meaningfulness that virtue-souled
  great saint with great resplendence paused. [1-19-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 </details>
 
@@ -1069,8 +1029,6 @@ _________________
 On hearing the propitious words of sage Vishvamitra that best king Dasharatha
  shuddered and swooned as he is muffled up with profound adversity, and after that
  on regaining consciousness he sunk down in fear. [1-19-20b, 21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1089,8 +1047,6 @@ On hearing the propitious words of sage Vishvamitra that best king Dasharatha
 This way on hearing that word of the saint Vishvamitra which is explicitly slitting
  his mind and heart that illustrious and noble-souled king Dasharatha then became
  highly annoyed at heart, and flustered extremely in his throne. [1-19-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

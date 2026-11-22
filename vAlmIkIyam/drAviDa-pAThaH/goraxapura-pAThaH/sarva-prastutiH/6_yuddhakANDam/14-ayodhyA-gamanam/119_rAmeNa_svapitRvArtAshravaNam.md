@@ -20,8 +20,6 @@ him, having defeated Ravana and having completed the exile for fourteen years. H
 return to Ayodhya, meet Bharata and get consecrated to the throne of Ayodhya. Dasaratha further
 advises Lakshmana and Seetha to continue to serve Rama, the supreme deity. Dasaratha returns to the
 abode of Indra, by the aerial car.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -179,8 +177,6 @@ illustrious Kausalya as well as seeing Kaikeyi and Sumitra, the mother of Lakshm
 sovereignty of Ayodhya, bringing delight to your friends, stabilizing the back-bone in the race of
 Ikshvaku, getting excellent glory by performing a horse-sacrifice and by granting riches to
 Brahmanas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -227,8 +223,6 @@ world; *mahaayashaaH guruH* = the highly glorious and venerable person;
 
 "This king Dasaratha, your father in this mortal world and the highly glorious as
 well as the venerable person, is seated in an aerial car, O Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -271,8 +265,6 @@ lakShmaNena saha* = along with Lakshmana; your brother.
 "Having been delivered by you, his (godly) son, the glorious king obtained the abode
 of Indra the lord of celestials. you offer your respectful salutation to him, along with Lakshmana,
 your brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -320,8 +312,6 @@ car.
 
 Hearing the words of Shiva, Rama along with Lakshmana his brother, offered their
 salutation to their father, seated on the topmost part of an aerial car.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -368,8 +358,6 @@ with lakshmana his brother; *dadarsha* = saw; *pitaram* = their father;
 
 The lord Rama along with Lakshmana his brother saw their father, who was blazing
 with his own splendour and clad in brilliant garments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -436,8 +424,6 @@ Then the king Dasaratha the lord who was sitting in the aerial car, in an excell
 seat, was filled with excessive delight to see his son (Rama), who was dearer to him than life.
 Placing him in his lap and embracing him in his arms, he thereupon commenced his speech as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -459,8 +445,6 @@ beautiful speech:
 
 Hearing the auspicious words thus spoken by Rama, Lord Shiva the Supreme Lord
 thereupon delivered the following still more beautiful speech:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -508,8 +492,6 @@ thereupon delivered the following still more beautiful speech:
 
 "O Rama! Separated from you, the heaven is not a liking to me, nor the respect given
 to me by the foremost of celestials. I am telling you the truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -555,8 +537,6 @@ period of your exile.
 "Today, there is a great joy for me, for having seen you, fully satisfied in your
 mind, now that your enemies have been destroyed and you have fully gone through the period of
 exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -598,8 +578,6 @@ in my heart.
 
 "O excellent among the eloquent! The words, which were uttered by Kaikeyi, with an
 aim to send you into exile, are still imprinted in my heart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -647,8 +625,6 @@ mist.
 
 "Seeing you in a fine fettle with Lakshmana and hugging you today, I stand
 completely rid of sorrow - even as the sun is freed from mist."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -696,8 +672,6 @@ Ashtavakra.
 
 "O great-souled son! I have been redeemed by you, my worthy son, even as Kahola a
 brahmana was redeemed by Ashtavakra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -741,8 +715,6 @@ vadhaartham* = for the destruction of Ravana.
 
 "O gently one! I recognize you now to be the Supreme person, duly enjoined here by
 the rulers of gods, for the destruction of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -783,8 +755,6 @@ of your enemies; *nivR^ittam* = returned; *gatam* = and got; *gR^iham* = home;
 
 "Blessed indeed is Kausalya, who will see you, the destroyer of your enemies,
 returned home from the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -834,8 +804,6 @@ to the City (of Ayodhya); *raajyam abhiShiktam cha* = and consecrated on the thr
 
 "Blessed indeed are those men, who will see you returned to the City of Ayodhya and
 consecrated on the throne as a lord of the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -879,8 +847,6 @@ see; *tvaam* = you; *samaagatam* = re united; *bharatena* = with Bharata;
 
 "I desire to see you, re-united with the mighty Bharata, who is affectionate towards
 you, honest and virtuous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -927,8 +893,6 @@ intelligent Lakshmana; *siitaaya saartham* = and with Seetha.
 
 "O gentle one! You spent fourteen years, residing in the forest with Lakshmana and
 Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -975,8 +939,6 @@ Seetha."
 
 "You completed the term of your exile. My pledge was implemented by you. The
 celestials too have been fully gratified, by your killing of Ravana in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1019,8 +981,6 @@ attain; *diirgham* = a long; *aayuH* = life.
 "O the destroyer of enemies! A laudable act has been done and glory has been earned
 by you. Getting consecrated on the throne, may you attain a long life, along with your
 brothers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1064,8 +1024,6 @@ kaikeyi; *bharatasya* = and Bharata; *dharmaJNa* = O the knower of virtues!
 
 To Dasaratha, who was thus speaking, Rama with joined palms in salutation, submitted
 (as follows): "Be gracious to Kaikeyi and Bharata, O the knower of virtues!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1106,8 +1064,6 @@ son; *saH ghoraH shaapaH* = May that terrific curse; *na spR^ishet* = not touch;
 
 You will remember those words spoken by you saying, I disown you, with your son
 (Bharata)'. May that terrific curse not touch Kaikeyi and her son, O Lord!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1154,8 +1110,6 @@ joined palms; *pariShvajya* = and having embraced; *lakShmaNamcha* = Lakshmana;
 
 Saying 'May it be" to Rama who stood with joined palms embraced Lakshmana. Dasaratha
 again uttered the following words to Lakshmana:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1201,8 +1155,6 @@ been brought; *mama* = to me; *dharma phalam cha* = a religious merit too;
 "A great gratification has been rendered to me and reward in the form of religious
 merit earned by you in that you served Rama and Seetha, the princess of Videha kingdom, with
 devotion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1248,8 +1200,6 @@ righteousness!.
 
 "Rama, being pleased with you, you will attain religious merit and extensive glory
 on earth, as also heaven and excellent power O knower of righteousness!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1271,8 +1221,6 @@ you; *diShTyaa* = thank heaven!.
 
 "O lotus-eyed, long-armed, broad-chested, annihilator of enemies and excellent among
 those upholding the cause of virtue! Thank heaven! You accomplished this task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1316,8 +1264,6 @@ Rama (well); *raamaH* = Rama; *sadaa* = forever; *abirataH* = is intent;
 
 "Happiness to you, O the augmentor of the joy of Sumitra, your mother! Serve Rama
 well. Rama forever is intent on advancing the interests of the entire world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1364,8 +1310,6 @@ and great sages; *archanti* = pay homage to; *mahaatmaanam* = the great-souled;
 
 "These three worlds, including Indra Siddhas (a class of demi-gods) and great sages
 pay homage to the great-souled Rama as a Supreme person, on approaching him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1414,8 +1358,6 @@ gods; *guhyam* = and the secret (of all gods).
 "O great one! O the destroyer of adversaries! Rama has been spoken of as the
 unmanifest and the imperishable Brahama (the absolute), established by the Vedas, the heart of gods
 and the secret of all gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1461,8 +1403,6 @@ abundantly.
 
 "Having served him, along with Seetha with devotion, you obtained the reward of the
 practice of all virtues as also celebrity, abundantly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1484,8 +1424,6 @@ battle-field; *raama* = O; Rama!
 
 "Fortunately has the fear born of Ravana - which increased the severe darkness on
 the entire world has been removed by you, on the battle-field, O Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1528,8 +1466,6 @@ affectionately; *uvaacha* = advised; *enaam* = her; *iti* = as follows:
 Thus speaking to Lakshmana, the (former) king, addressing his daughter-in-law
 standing before him with joined palms as "My daughter", slowly and affectionately advised her as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1576,8 +1512,6 @@ your welfare; *vishuddhyartham* = and for the purpose of showing you purificatio
 
 "No wrath indeed should be rendered by you towards Rama, for having repudiated you.
 This has been done by him, wishing for your welfare and in order to demostrate your purity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1623,8 +1557,6 @@ will overshadow; *yashaH* = their illustriousness.
 "This act (of entering into fire) which has been done by you and which reveals your
 true character, my daughter, is the most difficult task to perform for other ladies and will
 overshadow their illustriousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1672,8 +1604,6 @@ husband; *tu* = but; *vaachyam* = it is to be told; *avashyam* = certainly;
 
 "You need not be instructed about the matter of rendering service to your husband.
 But, it is to be told certainly by me. He is your supreme deity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1723,8 +1653,6 @@ the abode of Indra the lord of celestials; *vimaanena* = by an aerial car.
 
 Having instructed thus to his sons and Seetha, the King Dasaratha who was born in
 Raghu dynasty went to the abode of Indra, the lord of celestials, by an aerial car.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 </details>
 
@@ -1780,8 +1708,6 @@ chief of gods.
 With a satisfied self, Dasaratha the excellent king of noble-mindedness endowed with
 splendour, taking leave of his sons and Seetha and mounting the aerial car, went to the abode of
 Indra, the chief of gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga119/yuddhasans119.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

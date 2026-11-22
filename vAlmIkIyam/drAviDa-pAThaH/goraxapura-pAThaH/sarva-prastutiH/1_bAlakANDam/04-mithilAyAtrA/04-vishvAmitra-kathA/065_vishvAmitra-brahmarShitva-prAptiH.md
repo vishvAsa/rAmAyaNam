@@ -17,8 +17,6 @@ Vishvamitra becomes Brahma-sage after a prolonged ascesis that made all the worl
 to startle. All gods request Brahma to accord the supreme Brahma-sageship on Vishvamitra
 as he is cleansed of all mortal impurities, and Brahma accords that highest order
 on him. Thus Sage Shataananda concludes his narration about the legend of Vishvamitra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ direction; *sudaaruNam tapaH tepe* = undertook highly rigorous ascesis.
 "That great-saint Vishvamitra then leaving off the snowbound Himalayas on north,
 oh, Rama, he reached eastern quarter and undertook rigorous ascesis." Thus Sage
 Shataananda continued the legend of Vishvamitra. [1-65-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -110,8 +106,6 @@ anuttamam* = unexcelled; *maunam* = muteness; *vratam* = vow;
 
 Committing himself to a vow of muteness, oh, Rama, he performed an unexcelled and
 unmatched ascesis which is highly impracticable for others to perform. [1-65-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ Even on completing a thousand years, even when that great-saint became woodenly,
 even many barriers are at full blast, oh, Rama, fury has not entered his heart of
 hearts, for he stood fast in an unmitigated ascesis on making a firm determination.
 [1-65-3, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ This meal is prepared by Vishvamitra alone after a thousand years and such self-
 of food by the ascetics is called, *vaishvadevam*, since it is a sacred
 preparation *anena vaishvadeva ante samaagato atithiH svayam upoShyaapi sviiya annapradaanena
 sambhojya iti suucitam - dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -302,8 +292,6 @@ and as no meal is leftover by Brahman-Indra, that great-ascetic Vishvamitra star
 himself. Vishvamitra did not speak a little to the Brahman in dissent as he is abided
 by his pledge of muteness, and he again remained in muteness and breath-control.
 Like that, he indeed carried on his ascesis. [1-65-6, 7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -355,8 +343,6 @@ That eminent saint remained without respiration for another thousand years, and
 then fumes have started to emit from the head of sage who is controlling his breath,
 by which fumes the triad of worlds looked as if it is searing, and this startled
 all the worlds. [1-65-8, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -412,8 +398,6 @@ Then the gods, sages, gandharva-s, serpents, reptiles, demons are puzzled at the
 ascesis of Vishvamitra, and as their own resplendence is dulled by the ascesis of
 Vishvamitra, thereby they are marred by this blemish of lowered resplendence, then
 all of them addressed the Grandparent, Brahma. [1-65-9b, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -455,8 +439,6 @@ transcending by ascesis.
 Even if that great-saint Vishvamitra is angered and allured in order to foil
 his ascetical ascendancy, by all of us and by all means oh, god, he is transcending
 these lures, angers, and passions by his ascesis. [1-65-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -518,8 +500,6 @@ vinaashayati* = he devastates triad of worlds.
 Now, even an imperceptible imperfection does not really appear in him, but if
 his heartfelt desire is not meted out, he will devastate the triad of worlds with
 his ascetic power. [1-65-12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -535,8 +515,6 @@ kSubhitaaH* = all, oceans, are tempestuous; *[sarve] parvataaH vishiiryante*
 
 All the directions are all tumultuous, all the oceans are tempestuous, and all
 the mountains are eruptive, and nothing is bright. [1-65-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -584,8 +562,6 @@ they do not tend to become theistic.
 
 The earth is highly tremulous, air is gusting turbulently, oh, Brahma, people
 tend to become non-theistic and we do not know what to do. [1-65-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -633,8 +609,6 @@ as though stupefied; *tasya maharSeH tejasaa* = by resplendence of his grate sag
 All the beings in the triad of the worlds are very highly perturbed at their
 senses and they are as though stupefied, and when juxtaposed the sun is lustreless
 before the resplendence of that great sage. [1-65-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -684,8 +658,6 @@ he is to be placated.
 Oh, God, great saint Vishvamitra turned out to be the embodiment of Fire-god,
 and before that great-resplendent and most reverential sage makes up his mind for
 total destruction of all worlds he is to be placated. [1-65-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -736,8 +708,6 @@ yat matam* = whatever, his, predilection is; *[tat* = that]; *diiyataam*
 now this sage may do likewise, hence whatever is his predilection that may be given
 to him, even if he wants to become the potentate on the realm of gods.' Thus, all
 gods appealed to Brahma [1-65-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -779,8 +749,6 @@ vishvaamitram* = to great souled one, to Vishvamitra; *madhuram vaakyam abruvan*
 Then all the assemblages of gods keeping the Grandparent Brahma in their forefront
 appeared before that great souled Vishvamitra and said this harmonious word. [1-65-18b,
 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -821,8 +789,6 @@ tapasaa* = by rigorous, ascesis; *braahmaNyam praaptavaan asi* = you have obtain
 
 Oh, Brahma-sage, you are welcome. We are much contented with your ascesis. Oh,
 Kaushika, you have achieved Bahaman-hood by your rigorous ascesis. [1-65-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ gentle [sage]; *yathaasukham gacCha* = take leave as you please.
 'Along with the assemblages of Marut-Wind-gods, I bestow upon you a long life.
 Let blissfulness betide you. You be safe. Oh, gentle sage, you may take leave as
 you please.' Thus, Brahma said to Vishvamitra. [1-65-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -908,8 +872,6 @@ word; *sarveSaam tridivaukasaam ca* = of all, heaven residents [words of];
 On hearing the word of Grandparent Brahma and the other residents of heaven, and
 on paying good devoirs to all of them that great saint cheerfully said. [1-65-21b,
 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -967,8 +929,6 @@ let them patronise me.
 
 If Brahman-hood and eternality have befallen on me, let the quintessence of AUM
 and vaSat syllables, and even all Veda-s patronise me. [1-65-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -990,8 +950,6 @@ among the scholars of Veda-s as well, even that Vashishta, the brainchild of Bra
 shall acknowledge me in this way as Brahma-sage. Oh, the best gods, you may take
 leave if you can effectuate this ultimate yearning of mine.' Thus Vishvamitra requested
 the gods. [1-65-23b, 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1034,8 +992,6 @@ come to Vishvamitra]; *sakhyam cakaara* = made friendship; *evam*
 Then the best one among meditators Vashishta has come over there when the gods
 besought him to come, and he made friendship with Vishvamitra. He also said in this
 way to Vishvamitra, 'you are a Brahma-sage.' [1-65-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1081,8 +1037,6 @@ they have come.
 'No doubt, you are a Brahma-sage and everything will accrue to you in accordance
 with the sublimity of this sageship,' and when Vashishta said so to Vishvamitra,
 all the gods have gone away as they have come. [1-65-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1124,8 +1078,6 @@ Vashishta; *puujayaamaasa* = started to reverence.
 On getting his Brahman-hood even the virtue-souled Vishvamitra started to reverence
 the supreme among meditators and his counterpart Brahma-sage, namely Vashishta.
 [1-65-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1168,8 +1120,6 @@ one; *anena* = by him; *evam* = in this way; *braahmaNyam praaptam*
 When his aim is effectuated Vishvamitra ambled all over the earth abiding in ascesis,
 and oh, Rama, this great souled sage Vishvamitra achieved Brahman-hood in this way.
 [1-65-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1216,8 +1166,6 @@ paraayaNam* = he is, dwelling house stonghold for fortitude.
 
 "Oh, Rama, he is the best saint, he is the embodiment of ascesis, he is always obliged
 with righteousness, and he is the stronghold for fortitude." [1-65-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1264,8 +1212,6 @@ On narrating the legend of Vishvamitra in this way that best Brahman and great-r
 Sage Shataananda took respite. And on listening the narration of Sage Shataananda
 said in the presence of Rama and Lakshmana, king Janaka said this sentence to Kushika's
 son, Vishvamitra, with suppliantly adjoined palms. [1-65-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1314,8 +1260,6 @@ to come; such as I am; *dhanyaH asmi* = I am fortunate;
 Oh, eminent sage Vishvamitra, you happened to be here at this Vedic-ritual which
 is conducted by me, oh, Kaushika, that too, along with Rama and Lakshmana, the legatees
 of Kakutstha, thereby I am fortunate, I am much obliged. [31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1332,8 +1276,6 @@ bahuvidhaaH guNaaH praaptaaH* = many kinds, of attributes [boons,] achieved
 
 Oh, Brahman, I stand consecrated just by your graceful glance, and oh, great saint,
 I reckon that I have achieved many boons just glancing at you. [1-65-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1384,8 +1326,6 @@ raameNa* = by noble souled, Rama; *shrutam vai* = heard, indeed.
 Oh, great-resplendent Brahman, myself and the noble souled Rama have heard about
 your great ascesis when Sage Shataananda extolled it comprehensively. [1-65-33b,
 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1429,8 +1369,6 @@ also thus; *nityam aprameyaa* = everlastingly, invaluable.
 The congregationalists available in this Vedic-ritual congregation have also heard
 about your numerous endowments. Inestimable is your ascesis, infinite is your power,
 and oh, son of Kushika, your talents are everlastingly invaluable. [1-65-34b, 35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1473,8 +1411,6 @@ and oh, son of Kushika, your talents are everlastingly invaluable. [1-65-34b, 35
 Oh, lord, there is no contentment to me while listening to your wondrous narratives,
 but oh nobleman, time for vespertine ritual is fast approaching as sun's sphere
 is dangling westward. [1-65-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1516,8 +1452,6 @@ you are welcome; *maam anuj~naatum arhasi* = apt of you to permit me [to leave].
 "Oh, great-resplendent sage, it will be apt of you to see me tomorrow. Oh, best
 meditator, it will be apt of you to permit me to leave for now." Thus Janaka sought
 leave from Vishvamitra. [1-65-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1566,8 +1500,6 @@ released - bid farewell.
 When he is spoken in that way, the best saint Vishvamitra is pleased at heart, and
 praising Janaka, who too is pleased to meet the sage, immediately bid farewell to
 the best one among men, namely Janaka. [1-65-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1609,8 +1541,6 @@ king; *munishreSTham evam uktvaa* = on saying this way to the best saint
 This way on saying to the best saint, the king of Mithila and the legatee of Videha
 lineage, immediately performed circumambulations along with his teachers and relatives
 to Vishvamitra in veneration. [1-65-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 </details>
 
@@ -1661,8 +1591,6 @@ puujyamaanaH* = being venerated by great sages; *svam vaasam abhicakraama*
 Even that virtue souled Vishvamitra started towards his own camp along with Rama
 and Lakshmana, while being venerated by great sages who are available in the ritual-hall.
 [1-65-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

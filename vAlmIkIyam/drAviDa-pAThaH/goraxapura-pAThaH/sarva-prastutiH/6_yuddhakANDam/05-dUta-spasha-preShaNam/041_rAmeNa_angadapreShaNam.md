@@ -21,8 +21,6 @@ him and to bring him back to reason. Angada tries his best to convince Ravana, b
 his attendants to seize Angada. Angada shakes out those attendants who tried to seize him ascends the
 roof of Ravana's palace, tramples ad crushes it down by his strength. Angada finally returns to Rama,
 who was stationed in the midst of the monkey-forces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ marks of conflict; *raamaH* = Rama; *tasmi* = on the person of Sugreeva; *puurva
 
 Seeing the marks of conflict on the person of Sugreeva, Rama the elder brother of Lakshmana
 after embracing Sugreeva spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ been done; *janeshvaraaH* = the kings; *na kurvanti* = cannot do; *saahasa yukta
 
 "Without consulting me closely, such a reckless act has been done by you, such a rashness
 is not seemly in a king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ is not seemly in a king."
 
 "O, warrior longing for acts of daring! This wrong and reckless act has been done by
 you, causing me, this army and Vibhishana great anxiety."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ O; the mighty armed!; *Shatrughna* = O; annihilator of enemies!; O; annihilator 
 "O, warrior! O, vanquisher of foes! Do not act thus in future. O, the mighty armed! O,
 annihilator of enemies! If you have come by some misfortune, I would have had nothing to do with Seetha,
 Bharata, Lakshmana or still younger Shatrughna or even with my own person."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -280,8 +270,6 @@ of universe! If you have not returned, though I am conversant with your valour, 
 resolve that having killed Ravana in fight with his sons forces and chariots, I should have installed
 Vibhishana as king of Lanka, placing the kingdom of Ayodhya in the hands of Bharata and renounced my
 life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -355,8 +343,6 @@ was endowed with auspicious marks.
 
 Complimenting that hero Sugreeva who was thus speaking, Rama addressed Lakshmana, who
 was endowed with auspicious marks, saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -404,8 +390,6 @@ alert.
 
 "O, Lakshmana! Beside these fresh waters and trees laden with fruit, let us divide this
 multitude of troops, drawing it up in a battle array and remain alert."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -452,8 +436,6 @@ rakSasaam* = bears; monkeys and demons.
 
 "I foresee a terrible calamity to come, boding universal destruction and death to the
 intrepid bears, monkeys and demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -500,8 +482,6 @@ intrepid bears, monkeys and demons."
 
 "Harsh winds blow. The earth trembles. Mountain-peaks shake and the elephants bearing
 the earth trumpet."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -548,8 +528,6 @@ drops of blood.
 
 "Sinister clouds prey-roar violently like carnivorous animals and let fall a rain mixed
 with drops of blood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -595,8 +573,6 @@ with drops of blood."
 
 "The dusk, red as sandal, is full of horror and from the sun, this blazing mass of fire
 falls."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -643,8 +619,6 @@ svaraaH* = emit frantic cris; *diinaaH* = and are ill at ease; *aprashastaaH* = 
 
 "Wile beasts and birds emit frantic cries, ill at ease and ominous, inspiring great fear,
 facing the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -691,8 +665,6 @@ anguish; *rajanyaam* = in the night.
 
 "The moon shorn of its radiance, surrounded by black and fiery rays, burns red as at
 the time of destruction of the word and is creating an anguish in the night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -765,8 +737,6 @@ sulohitaH* = and of coppery hue; *lakSyate* = is seen.
 
 "O, Lakshmana! In the disk of the sun, a small halo with a black mark, fiery, shorn of
 its radiance and of coppery hue is seen."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -782,8 +752,6 @@ its radiance and of coppery hue is seen."
 
 "O, Lakshmana! The stars are not appearing as they should be duly foretelling their intention
 to hasten a final dissolution of the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -830,8 +798,6 @@ level; *shivaashcha* = Jackals to; *pravadanti* = are howling; *ashubhaaH* = ina
 
 "Crows, eagles and vultures are whirling round at a lower level. Jackals too are howling
 inauspicious sounds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -878,8 +844,6 @@ inauspicious sounds."
 
 "The earth, crowded with rocks, darts and daggers discharged by monkeys and demons, will
 become a slime of flesh and blood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -926,8 +890,6 @@ puriim = city; *raavaNa paalitaam* = ruled by Ravana; *javenaiva* = swiftly; *sa
 
 "Now surrounded by the monkeys from all sides, let us make an attack on that invincible
 citadel ruled by Ravana quickly and swiftly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -974,8 +936,6 @@ strength; *avaatarat* = descended; *shiighram* = quickly; *tasmaat* = from that;
 
 Thus speaking to Lakshmana, the heroic Rama of great strength climbed down from that
 mountain-peak.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1022,8 +982,6 @@ verily unconquerable; *pariah* = by the enemies.
 
 Having descended from that mountain, Rama, whose mind was set on righeousness, held a
 review of his own army, which was verily difficult to conquer for the enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1070,8 +1028,6 @@ advance; kale at the appropriate moment; *samyngaaya* = for the battle.
 
 Rama, who knew the fitting moment to act, along with Sugreeva made ready the great army
 and commanded the army to advance, at the appropriate moment for the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1118,8 +1074,6 @@ puriim* = the city of Lanka; *kale* = at the befitting moment.
 
 Rama, the mighty armed, together with the mighty army marched in front, wielding a bow,
 towards the city of Lanka, at the befitting moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1166,8 +1120,6 @@ towards the city of Lanka, at the befitting moment.
 
 Then, Vibhishana, Sugreeva, Hanuman, Jambavan the king of bears, Nala, Nila and Lakshmana
 accompanied that Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1214,8 +1166,6 @@ accompanied that Rama.
 
 Thereafter, fully covering a vast stretch of land, the great army of bears and monkeys,
 followed in the wake of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1262,8 +1212,6 @@ followed in the wake of Rama.
 
 Monkeys, the annihilator of enemies, resembling elephants, took hold of mountain-peaks
 and hundreds of well-grown huge trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1310,8 +1258,6 @@ time.
 
 Those two brothers Rama and Lakshmana, the destroyers of their adversaries, reached the
 city of Lanka ruled by Ravana, in not a long time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1385,8 +1331,6 @@ The monkeys, encouraged by the sound of Rama's voice and obedient to his command
 before the city of Lanka, garlanded with banners, beautiful and splendid with pleasure-gardens, having
 an unusual rampart which is inaccessible with its elevated arched door-ways and invincible even by the
 celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1490,8 +1434,6 @@ Reaching the city of Lanka ruled by Ravana, the heroic Rama the son of Dasaratha
 by Lakshmana, halted near the northern gate, where Ravana stayed. Who else but Rama is capable of protecting
 the army besieging that gate, regulated by Ravana, as an ocean, regulated by Varuna, guarded by awful
 demons on all sides and creating fear to the weak as a subterranean region is guarded by demons?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1542,8 +1484,6 @@ bahuuni* = and multitude; *aayudhajaalaani* = of collection of weapons; *tathaiv
 **अनुवादः**
 
 Rama saw various types and multitude of weapons and shields kept there by the warriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1590,8 +1530,6 @@ Rama saw various types and multitude of weapons and shields kept there by the wa
 
 Nila, the valiant army-chief of monkeys together with Mainda and Dvivida reached and
 halted before the Eastern gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1638,8 +1576,6 @@ gate.
 
 Angada of very mighty prowess, together with Rishhabha, Gavaksha, Gaja and Gavaya took
 charge of the Southern gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1686,8 +1622,6 @@ dvaaram* = the western gate.
 
 The strong monkey Hanuman together with Prajangha, Tarasa and other warriors, guarded
 the western gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1735,8 +1669,6 @@ madhyame = in the middle; *gulme* = of the fort.
 Sugreeva, along with all the chiefs of monkeys equal to the strength of Garuda (the eagle
 and the vehicle of Vishnu) as well as Vayu the god of the wind, was stationed himself in the middle
 of the fort.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1783,8 +1715,6 @@ of the fort.
 
 Thirty six crores of monkeys, highly renowned generals stood besiezed, where the monkey
 Sugreeva was there, having exerted pressure on the demons occupying that post.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1833,8 +1763,6 @@ koTim koTim* = a crore each; *hariiNaam* = of monkeys; *dvaare dvaare* = at each
 
 Meanwhile, under Rama's command, Lakshmana along with Vibhishana distributed a crore
 each of his monkeys at each gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1881,8 +1809,6 @@ gulme* = at the intermediate post.
 
 Behind Rama and not far from him, Sushena together with Jambavan, followed by a multitude
 of forces, stood at the intermediate post.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1929,8 +1855,6 @@ of forces, stood at the intermediate post.
 
 Those lions among the monkeys, possessing the teeth of tigers, taking hold of trees and
 rocks, waited delightedly for the signal to fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -1977,8 +1901,6 @@ them were; *vikR^ita chitraaNgaaH* = trembling in every limb; *sarve cha* = all 
 
 All of them were lashing their tails feverishly, using their jaws and nails as weapons,
 trembling in every limb and had their faces set grimly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2025,8 +1947,6 @@ of a thousand elephants.
 
 Some were having the strength of ten elephants, some a ten times of that and some were
 equal to the strength of a thousand elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2081,8 +2001,6 @@ of ten times to that. some others there were chiefs of monkeys, having an immeas
 **टिप्पनी**
 
 *For the number represented by on ogha vide canto 28, Sarga 37.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2129,8 +2047,6 @@ sainyaanaam* = troops of monkeys; *tatra* = there; *udgamaH iva* = like aflight;
 
 Marvellous and astonishing was the gathering of those troops of monkeys there, like a
 swarm of locusts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2177,8 +2093,6 @@ swarm of locusts.
 
 By the monkeys who reached Lanka and by those stationed already beneath its walls, the
 air and earth seem to be completely filled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2225,8 +2139,6 @@ air and earth seem to be completely filled.
 
 A hundred divisions of one lakh each of bears and monkeys poured towards the gates of
 Lanka, while others proceeded to fight on every side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2271,8 +2183,6 @@ Lanka, while others proceeded to fight on every side.
 **अनुवादः**
 
 Those monkeys covered the mountain on every side. A crore of them ranged round that city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2322,8 +2232,6 @@ hands; *balavadbhiH* = being strong as they were.
 
 Even winds were unable to penetrate Lanka being surrounded on all sides by heroic monkeys
 holding tree trunks in their hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2370,8 +2278,6 @@ their valour equaled indra the ruler of gods; *abhinipiiDitaaH* = (seeing themse
 
 The demons, who in their valour equaled Indra the ruler of gods, seeing themselves besieged,
 as by clouds, were struck with sudden terror.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2421,8 +2327,6 @@ a roar in the water; *saagarasyena* = of the ocen; *bhinnasya* = beating against
 
 While the flock of monkey- troops was advancing there, a tremendous clamour arose, resembling
 a roar in the ocean beating against its shore.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2462,8 +2366,6 @@ entire; *laN^kaa* = Lanka; *sapraakaaraa* = with its ramparts; *satoraNaa* = arc
 
 By that great tumult, the entire Lanka with its ramparts arches, hills, woods and forests
 began to tremble.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2510,8 +2412,6 @@ became; *durdharSataraa* = even more inivincible; *sarvaiH* = than all; *suraasu
 
 That army of monkeys, guarded by Rama, Lakshmana and Sugreeva became even more invinceible
 than all the celestials and demons put together.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2595,8 +2495,6 @@ the four expedients (to be used against an enemy in the shape of conciliation, g
 and punishment) employed in succession, took counsel again and again with his ministers and arrived
 at a decision. Calling to his mind the duty of the kings, Rama who was eager to undertake what was to
 be done next, in concurrence with Vibhishana, summoned Angada the son of Vali and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2616,8 +2514,6 @@ be done next, in concurrence with Vibhishana, summoned Angada the son of Vali an
 and anxiety and Lanka without fear and anxiety and approaching Ravana - the unfortunate demon devoid
 of sovereignty and who has lost his splendour because of his inclination to die - admonish him in the
 following words:"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2703,8 +2599,6 @@ go).
 musicians and their wives, serpent - demons, yakshas the semi-divine beings and kings have been oppressed
 by you. From now on, that arrogance, born of the boon you received from Brahma the Lord of creation,
 shall be subdued."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2751,8 +2645,6 @@ tasya* = on that account; *dhaarayamaaNaH* = wielding; *daN^Dam* = as rod of cha
 
 "I shall inflict a fitting penalty for your ruthless abduction of my consort. I am stationed
 myself at the gate of Lanka, with a Rod of chastisement."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2799,8 +2691,6 @@ cha* = the royal sages.
 
 "O, demon! Slain by me, you will attain the region of Gods, of all the great sages and
 all the royal sages."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2847,8 +2737,6 @@ all the royal sages."
 
 "O, the worst demon! Demonstrate the same courage and magic that you did employ in bearing
 Seetha away from me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2898,8 +2786,6 @@ _________________
 
 "If you do not make an appeal to my clemency by returning Seetha, I shall make this world
 devoid of all demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2947,8 +2833,6 @@ from troubles.
 
 "This pious minded Vibhishana, the foremost of demons has come to me. Surely, this illustrious
 demon will obtain the kingdom of Lanka, which will henceforth be free from troubles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -2998,8 +2882,6 @@ shakyam hi* = can not indeed; *bhoktum* = enjoy; *raajyam* = the kingdom; *kSaNa
 
 "You, without a knowledge of the self and a sinful demon having stupid followers around
 you, cannot indeed enjoy the kingdom even for a moment, by this unrighteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3050,8 +2932,6 @@ _________________
 
 "O, demon! Otherwise, get ready for a battle, by gathering courage and laying hold of
 your valour. Having been slain by my arrows in combat, you will be laid in peace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3101,8 +2981,6 @@ you become; *pakSii* = a bird; *aavishasi* = and enter; *triin* = the three;
 
 "O, Ranger of the Night! Even if you range the three worlds in the forms of a bird, you
 will not return alive, when you come into my range of sight."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3149,8 +3027,6 @@ mayi* = on me.
 
 "I give you this salutary counsel prepare for your obsequies. Let Lanka be obliged to
 be seen well by you (like your last sight), as your survival is in my hands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3197,8 +3073,6 @@ be seen well by you (like your last sight), as your survival is in my hands."
 
 Hearing the words of Rama, who was unwearied in action, Angada the son of Tara, leapt
 into air like a god of fire personified and marched ahead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3245,8 +3119,6 @@ coolly; *sachivaiH saha* = along with his ministers.
 
 Reaching Ravana's palace in an instant, the illustrious Angada saw Ravana, seated coolly
 along with his ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3293,8 +3165,6 @@ diipaagni; *sadR^ishaH* = like a flaming torch.
 
 Angada, the foremost of the monkeys, wearing golden bracelets, descended close to the
 king and stood there like a flaming torch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3342,8 +3212,6 @@ without adding or subtracting anything; *saamaatyam* = to Ravana in the presence
 
 Having made himself known, Angada communicated, that whole of the excellent speech of
 Rama without adding or subtracting anything to Ravana in the presence of Ravana's ministers, saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3393,8 +3261,6 @@ _________________
 
 "I am the son of Vali, Angada by name. I have come as a messenger for the king of Koshala,
 Rama of imperishable exploits. Has my name ever reached your ears?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3443,8 +3309,6 @@ of your race.
 "Rama who is born in Raghu dynasty and who augements the joy of Kausalya speaks thus
 to you, �O, ruthless demon! Come forth and enter into combat. Prove to be the representative of your
 race!' "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3491,8 +3355,6 @@ with your ministers; *saputra jJNaati baandhavaH* = sons; cousins and relatives;
 
 " �I shall kill you along with your ministers, sons, cousins and other relatives. You
 being dead, all the three worlds will be rid of fear.'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3539,8 +3401,6 @@ rakSasaam* = celestial musicians; serpent-gods and ogres.
 
 " �Now, I shall uproot you, a thorn to sages and an enemy to celestials, demons, semi-divine
 beings, celestial musicians, serpent-gods and ogres'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3587,8 +3447,6 @@ Seetha; *satkR^itya* = honourably; *praNipatya* = by bowing respectfully before 
 
 "If you do not restore Seetha honourably, by bowing respectfully before me, you are slain
 and Vibhishana will become the king.'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3635,8 +3493,6 @@ amarSa vasham* = on the influence of anger.
 
 Hearing these harsh words from Angada the lion among the monkeys, Ravana the Lord of
 the demon-tribe was infuriated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3686,8 +3542,6 @@ stupid monkey; *gR^ihyataam* = be seized; *vadhyataam* = and killed.
 
 Then, the enraged Ravana repeatedly commanded his attendants, saying: "Let this stupid
 monkey be seized and put to death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3734,8 +3588,6 @@ vachaH = words; *chatvaaraH* = four; *ghoraaH* = terrible; *rajaniicharaah* = de
 
 Hearing Ravana's words, four terrible demons seized Angada who, in his splendour, resembled
 a blazing torch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3782,8 +3634,6 @@ his prowess; *yaatudhaanagaNe* = before the host of demons.
 
 Then, the prudent and heroic Angada the son of Tara voluntarily allowed himself to be
 seized, in order to display his prowess before the host of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3825,8 +3675,6 @@ his arms; *utpapaata* = he leapt on; *praasaadam* = to the palace; *shaila sanka
 
 Then, seizing like unto birds those attendants clung to his arms, Angada leapt on to
 the palace that resembled like a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3878,8 +3726,6 @@ the eyes; *raakSasendrasya* = of the king of demons.
 
 All those four demons were shaken out by Angada's impetuous leap and fell on the ground
 there under the eyes of their king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3930,8 +3776,6 @@ the summit of a mountain; *unnatam* = in height.
 
 Thereafter, the glorious Angada the son of Vali ascended the roof of Ravana's palace,
 which equaled the summit of a mountain in height.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -3977,8 +3821,6 @@ Ravana's pashyatah = gaze.
 
 That roof of the palace, trampled by Angada, crumbled - as a peak of Himalayan range
 was shattered long ago by lightening - before Ravana's gaze.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -4020,8 +3862,6 @@ into the air.
 
 After destroying the roof of the palace, Angada proclaimed his name and with a triumphant
 roar, rose into the air.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -4068,8 +3908,6 @@ middle; *vaanaraaNaam* = of the monkeys.
 
 Causing restlessness to all the demons but delight to the monkeys, Angada approached
 close to Rama, who was stationed in the middle of the monkey-forces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -4091,8 +3929,6 @@ bhaaryaapahartaaram* = who had taken away your consort; *jaanan* = conscious; *a
 
 Hearing Rama's words, Sugreeva replied as follows: "O, brave Rama! Seeing Ravana who
 had taken away your consort and being conscious of my own strength, how can I act otherwise?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -4139,8 +3975,6 @@ had taken away your consort and being conscious of my own strength, how can I ac
 
 Because of the destruction of his palace, Ravana on his part got extremely angry. Foreseeing
 his own destruction, he became a desponded demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -4193,8 +4027,6 @@ kaaN^kSii* = with an intent to wipe out the enemy.
 
 Surrounded by many monkeys, roaring with delight, Rama on his part was proceeding ahead
 already for the battle, with an intent to wipe out the enemy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4210,8 +4042,6 @@ were able to change their form at will.
 
 Now, Sushena the highly valiant monkey, was stationed there like the head of the mountain
 surrounded by innumerable monkeys, who were bale to change their form at will.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -4256,8 +4086,6 @@ chandramaaH* = the moon.
 
 Under the order of Sugreeva, the invincible monkey, Sushena was patrolling the gates
 and wandering like a moon among the stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -4310,8 +4138,6 @@ exultation.
 Seeing hundreds of divisions of those monkeys encamped under the walls of Lanka, marshaled
 on the shores of the sea, the demons were amazed and some others were terror-struck while others, overjoyed
 at the prospect of fighting, leapt even in exultation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 </details>
 
@@ -4365,8 +4191,6 @@ Alas!"
 
 Those miserable demons saw the entire extensive space between the walls and the moat
 being occupied by the monkeys, like unto a second rampart. The demons cried out, "Woe! Alas!" in panic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

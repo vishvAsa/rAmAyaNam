@@ -20,8 +20,6 @@ to go all the way to Himalayas and bring the required herbs to treat Lakshmana. 
 Mount Mahodara and failing to identify the herbs there, carries the mountain-peak itself and brings
 it to Sushena. Lakshmana regains consciousness, after getting treated with that herb by
 Sushena.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -85,8 +83,6 @@ while releasing; *baaNaughaan* = a multitude of arrows; *abraviit* = spoke;
 Seeing the valiant Lakshmana bathed in a stream of blood, when struck down in battle
 with a spear by the mighty Ravana and having given a tumultuous fight, to the evil-minded Ravana,
 Rama spoke as follows to Sushena, even while releasing a multitude of arrows (at Ravana).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -134,8 +130,6 @@ serpent.
 
 "This heroic Lakshmana, falling down on earth yielding to Ravana's prowess, is
 wiggling like a serpent, causing an increase in grief to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ for me; *paryaakulaatmanaH* = disturbed in mind; *yauddhum* = to fight;
 
 "My energy to fight is failing, even as I see this valiant Lakshmana, who is dearer
 to me than life, bathed in blood, my mind being greatly disturbed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -254,8 +246,6 @@ overcome with tears.
 
 "My valour is feeling shy, as it were. My bow seems to fall down from any hand. My
 arrows are dropping down. My vision has been overcome with tears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -305,8 +295,6 @@ mumuurShaapi* = I even wish to die.
 
 "My limbs seem to sink down, like those of men in sleep. I have a serious tension,
 growing in me. I even wish to die."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -322,8 +310,6 @@ afflicted with agony; *viShTanantam* = and grooming.
 
 "My brother has been struck down by the evil-minded Ravana, seriously wounded in his
 vital parts, afflicted with agony and groaming."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -374,8 +360,6 @@ gave himself up to anxiety and grief.
 
 Seeing his beloved brother, who was his very life-breath moving outside, Rama was
 afflicted with excessive agony and gave himself up to anxiety and grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -423,8 +407,6 @@ mind; as he was.
 
 Seeing Lakshmana his brother lying wounded in the dust of the battle-field, he got
 into extreme despondency and lamented (as follows), confused in mind, as he was:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -465,8 +447,6 @@ victory; *na priyaaya upakalpate* = is not making a pleasure; *me* = for me;
 
 "O the valiant Lakshmana! Even victory cannot create a pleasure for me. What
 pleasure can the moon create for a man who has lost his vision?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ vidyate* = I have no; *yuddhakaaryam* = use for the war.
 
 "What purpose of mine will be served by fighting or eve by life? When this Lakshmana
 lies killed in the forefront of battle here, I have no use for the war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -559,8 +537,6 @@ of Yama the Lord of Death.
 
 "In the same way as the very glorious Lakshmana followed me When I was going to the
 forest, I too will in the same way follow him to the abode of Yama the lord of Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ fight treacherously.
 
 "The demons, who fight treacherously, created this condition to Lakshmana, who loved
 his relatives and who was ardently devoted forever to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -650,8 +624,6 @@ womb; *yatra tam desham tu* = as such a place; wherever.
 
 "Wives may be obtained ever where. Relatives can be had every where. However, I do
 not find a brother, born of the same womb, at such a place whatesoever."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -701,8 +673,6 @@ distressed in grief; *karuNam* = pitiably; *uchchhvasantam* = sighing his breath
 
 The monkeys saw that Rama, thus lamenting with his mind reeling and distressed in
 grief and pitiably sighing his breath repeatedly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -749,8 +719,6 @@ to over power?; *aham katham akShyaami* = what can I tell; *sumitraam* = to Sumi
 
 "Of what use is the kingdom for me, without Lakshmana, who was difficult to over
 power? What can I tell to Sumitra, the mother who was so fond of her son?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -792,8 +760,6 @@ Kaikeyi?
 
 "I shall not be able to bear the reproach, which will be levelled by Sumitra. What
 shall I pay to kausalya the mother or what shall I say to Kaikeya?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -837,8 +803,6 @@ him?
 
 "What shall I say to Bharata or to the mighty Shatrughna, when they ask me, how I
 came back without Lakshmana even though I went to the forest along with him?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -882,8 +846,6 @@ killed; *sthitaH* = lies; *agrataH* = before me.
 "It is better to die at this place only, rather than hear the reproaches of one's
 own people. What sinful act was done by me in a previous birth due to which my righteous brother
 lies killed before me?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -925,8 +887,6 @@ the valiant men!; *prabho* = O the powerful man!; *tyaktvaa* = deserting;
 
 "Alas! O the powerful brother, the best of men! O the foremost among the valiant
 men! Why are you going to the other world, deserting me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -968,8 +928,6 @@ lamenting?; *uttiShTha* = rise; *pashya* = and see!; *kim* = why;
 
 "O brother! Why don't you talk to me, even though I am lamenting? Rise and see! Why
 are you lying down? See me, by opening your own eyes, miserable as I am."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1010,8 +968,6 @@ was; *parvateShu* = in mountain; *vaneShu* = and forests.
 
 "O the mighty armed! You have been indeed comforting me, whenever stricken with
 grief, I roamed listlessly among mountains and forests or felt low-spirited."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1052,8 +1008,6 @@ vachaH* = the following excellent words.
 
 Comforting Rama, whose mind was full of grief and who was thus lamenting, Sushena,
 for his part, addressed the following excellent words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1107,8 +1061,6 @@ forefront of battle.
 "O the excellent among men! Give up this notion, which causes despondency in you,
 this anguish which gives rise to grief and is as piercing as arrows, in the forefront of
 battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1124,8 +1076,6 @@ of prosperity; *naina aapannaH* = has not got; *paN^chatvam* = into death;
 
 "Lakshmana, the augmenter of prosperity, has not got into death. His countenance is
 not changed, nor has it become dark."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1172,8 +1122,6 @@ a lotus; *lochane cha* = His eyes too; *suprasanne* = are very bright.
 
 "His face may be seen with a good brightness and very much placid. The palms of his
 hands are resembling the petals of a lotus. His eyes too are very bright."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1227,8 +1175,6 @@ worry|
 
 "O king! The appearance of the dead does not look like this. O hero, the annihilator
 of enemies! He is all with his life. Do not worry."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1270,8 +1216,6 @@ prince!.
 
 "The repeatedly beating heart with the signs of breath of Lakshmana, lying on the
 earth's surface, fast asleep, with his limbs relaxed are telling it, O the gallant prince!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1323,8 +1267,6 @@ words; *hanuumantam* = to Hanuma; *mahaakapim* = the great monkey;
 
 Having addressed the words thus to Rama, the highly learned Sushena spoke the
 following words to Hanuma the great monkey, who was standing nearby:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 
 </details>
@@ -1389,8 +1331,6 @@ supposed to possess the property of counteracting the discolouration caused by a
 and restoring the original colour of the skin. (3) Samjivakarani: Another herb believed to possess
 the virtue of bringing back an unconscious person to consciousness. (4) Samdhani: A herb credited
 with the property of joining a fractured bone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1438,8 +1378,6 @@ thoughtful.
 
 Hearing those words, Hanuma, having sprung to Mount Oushadhi, could not identify
 those precious herbs and became thoughtful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1480,8 +1418,6 @@ shikharameva* = this mountain-peak itself.
 
 The following thought arose to that Hanuma, whose strength was unlimited: "I will go
 back, taking this mountain-peak itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1528,8 +1464,6 @@ understand; *taam* = that; *sukhaavahaam* = delightful; *oShadhi* = herb;
 
 "By conjecture, I understand that the delightful herb must have sprouted in this
 mountain-peak. Sushena indeed has said so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1579,8 +1513,6 @@ come; *kaalaatyayena* = through passage of time; *mahat cha* = and a great;
 
 "If I go without taking Vishalyakarani, harm may come through passage of time and a
 great perplexity may arise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1627,8 +1559,6 @@ Thinking thus, the mighty Hanuma the excellent of monkeys, having gone quickly a
 approaching that excellent mountain, taking that mountain-peak with his arms, shaking it violently
 for three times and uprooting the mountain-peak, which was endowed with many trees in bloom, lifted
 it up, so mighty as he was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1669,8 +1599,6 @@ the sky.
 
 Taking that mountain-peak, which looked like a dark rainy cloud, that Hanuman jumped
 up into the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1714,8 +1642,6 @@ mountain-peak; *kimchit vishramya* = and resting for a while; *abraviit* = spoke
 
 Arriving with a great speed, Hanuma putting down the mountain-peak and resting for a
 while, spoke the following words to Sushena:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1762,8 +1688,6 @@ while, spoke the following words to Sushena:
 
 "O the excellent of monkeys! I have brought the entire mountain-peak, as I could not
 identify those herbs."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1813,8 +1737,6 @@ kathamaanam* = who was thus narrating; *suSheNaH* = Sushena; *vaanara shreShThaH
 
 Eulogizing Hanuma, who was thus narrating his trip, Sushena, the excellent of
 monkeys, pulling out the herbs, took hold off them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1861,8 +1783,6 @@ monkeys, pulling out the herbs, took hold off them.
 
 All those monkey-chiefs and even the gods were surprised to see that most difficult
 feat of Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1909,8 +1829,6 @@ administered (it); *lakShmaNasya* = to Lakshmana; *nastaH* = through the nose.
 
 Then, crushign that herb, Sushena the excellent of monkeys, having a great
 splendour, administered it through Lakshmana's nose.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -1953,8 +1871,6 @@ the spear lodged in his body; *udatiShThat* = raised; *shiighram* = quickly;
 Duly inhaling it well, that Lakshmana, the annihilator of adversaries, having the
 spear lodged in his body, raised quickly from the earth's surface rid as he was of the spear and
 his pain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2004,8 +1920,6 @@ _________________
 
 Seeing that Lakshmana risen from the ground, the mokneys were overjoyed and
 applauded Lakshmana, saying, "Excellent, excellent!".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2055,8 +1969,6 @@ with affection; *baaShpaparyaakulekShaNaH* = with his eyes clouded with tears.
 
 Rama, the destroyer of enemies, said to Lakshmana, "come, come!" and embraced him
 firmly with affection, with his eyes clouded with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2100,8 +2012,6 @@ _________________
 
 After embracing Lakshmana, Rama then said to him: "Luckily, O valiant one, I see you
 here, returned from death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2143,8 +2053,6 @@ demise; *vada* = tell me; *kaH* = what; *arthaH* = significane; (is there);
 
 "There is no purpose of mine, by me own life nor of Seetha nor of victory. If you
 have attained demise, tell me what significnace is there for it to me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2191,8 +2099,6 @@ have attained demise, tell me what significnace is there for it to me?"
 
 While the great souled Rama was speaking thus, the exhausted Lakshmana, in a feeble
 tone, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2246,8 +2152,6 @@ killing Ravana); *puraa* = before.
 
 "Having solemnly taken that pledge (of killing Ravana) before, O brother true to
 your promise, you ought not to speak as you have done like a weak and courageless man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2263,8 +2167,6 @@ attribute; *mahattvasya* = of the moral amplitude.
 
 "There is no purpose of mine, by me own life nor of Seetha nor of victory. If you
 have attained demise, tell me what significance is there for it to me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2312,8 +2214,6 @@ now.
 
 "O the faultless one! Getting into homelessness for my sake is not befitting of you.
 Fulfill your promise now, by killing Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2358,8 +2258,6 @@ tusks.
 
 "An enemy who falls victim to your arrows, cannot turn out alive, as a huge elephant
 which gets into the path of a roaring lion possessing terrible tusks."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 </details>
 
@@ -2400,8 +2298,6 @@ the horizon.
 
 "I, for my part, wish to see the death of this evil-minded fellow instantly, even
 before this sun, having finished his task, does not sink below the horizon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2424,8 +2320,6 @@ brother of mine; *shubha lakShaNaH* = who is endowed with auspicious bodily mark
 "Of what use is life or happiness to me, if this illustrious brother of mine, who is
 endowed with auspicious bodily marks and who always speaks highly of war, meets with his
 death?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

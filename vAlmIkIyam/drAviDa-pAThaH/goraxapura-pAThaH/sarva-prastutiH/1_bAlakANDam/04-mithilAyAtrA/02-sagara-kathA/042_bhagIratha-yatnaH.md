@@ -20,8 +20,6 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
  earnestly to get her onto earth. Brahma agreeing for this descent of
  Ganga designates lord Shiva to bear the burden of the onrush of Ganga,
  because the earth cannot sustain it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
  highly honourable Amshuman to become their king and they enthroned him
  accordingly." Thus Vishvamitra continued narration about the predecessors
  of Rama. [1-42-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
 "He that Amshuman turned out to be a very great king, and oh, Rama of
  Raghu's delight, he begot a marvellous son who is renowned as Dileepa.
  [1-42-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -158,8 +152,6 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
 Assigning the kingdom to Dileepa, oh, Rama of Raghu's dynasty, Amshuman
  undertook very stern ascesis on a pleasant peak of Himalayas desiring
  the descent of River Ganga to earth. [1-42-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ On practising ascesis in ascetic-woods for thirty-two thousand years
 Instead of achieving reward of ascesis in the form of descent of River
  Ganga, he could achieve only his personal merit of his penance, namely
  an abode in heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -261,8 +251,6 @@ The great resplendent Dileepa on hearing the elimination of his grandfathers,
  a mind that is marred by the plight of his father Amshuman in absolving
  the souls of Sagara's sons, he that Dileepa could not arrive at any
  decision concerning the descent of Ganga. [1-42-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -307,8 +295,6 @@ Dileepa became worried as to how River Ganga is to be alighted onto
  earth from heaven, how water-oblations are to be offered for the souls
  of Sagara's sons, and how to cross them, the souls, over this mortal
  world. [1-42-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -352,8 +338,6 @@ Dileepa became worried as to how River Ganga is to be alighted onto
 To him who is self-mortified and who is always thinking righteously
  about the alight of Ganga onto earth, to such a Dileepa a most-virtuous
  son is born who is renowned by his name Bhageeratha. [1-42-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -396,8 +380,6 @@ That great-resplendent king Dileepa on his part performed numerous
  Vedic-rituals, and he ruled the kingdom for thirty thousand years -
  to the delight of each of his subjects, but could not find a way to
  fetch Ganga. [1-42-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -441,8 +423,6 @@ Oh, tigerly-man Rama, that king Dileepa by not attaining any choice
  towards the uplifting the souls of his grandparents to heaven by bringing
  Ganga to earth, he took to illness, and he attained the ultimate virtue
  of Time, namely the demise. [1-42-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -484,8 +464,6 @@ Oh, tigerly-man Rama, that king Dileepa by not attaining any choice
 That best one among men, namely king Dileepa, on anointing his son
  Bhageeratha in the kingdom went to the abode of Indra, namely the heaven,
  only by his self-acquired merits of deeds. [1-42-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -534,8 +512,6 @@ That best one among men, namely king Dileepa, on anointing his son
 Oh, Rama, the legatee of Raghu, but on his part that self-righteous
  and kingly-sage Bhageeratha is childless, and that great king longed-for
  offspring. [1-42-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -566,8 +542,6 @@ Interested in the alighting of River Ganga on earth, oh, Rama, the
 
 The five-fires are *pancaagni-s* the four earthly fires in four
  corners of directions and the sun's fire overhead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -646,8 +620,6 @@ Thousands of years have rolled by while Bhageeratha stood practising
  his severe ascesis, oh, dextrous Rama, and then the lord and master
  of all beings, namely god Brahma, is well pleased with that great-souled
  king's ascesis. [1-42-13b, 14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -665,8 +637,6 @@ Thousands of years have rolled by while Bhageeratha stood practising
 Forefather Brahma then arrived along with assemblages of gods, and
  spoke this way to the great-souled Bhageeratha who is deep in the practise
  of ascesis. [1-42-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -718,8 +688,6 @@ _________________
 Oh, great king Bhageeratha, oh, lord of the people, I am delighted
  with the perfectly conducted ascesis of yours, hence oh, truly committed
  one, you may beseech for a boon. [1-42-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -765,8 +733,6 @@ _________________
 That great resplendent and highly fortunate king Bhageeratha then remaining
  with suppliantly adjoined palm fold spoke to him who is the Forefather
  of all worlds, namely Brahma. [1-42-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -818,8 +784,6 @@ _________________
 Oh, god, if you are satisfied with my ascesis, and if there is any
  fruition to the ascesis of mine, let all the sons of Sagara get water
  oblations through me. [1-42-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -867,8 +831,6 @@ Oh, god, if you are satisfied with my ascesis, and if there is any
 While the ashes of these great souls are drenched with the waters
  of Ganga, let all of those great-grandfathers of mine depart to heaven,
  eternally. [1-42-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -911,8 +873,6 @@ While the ashes of these great souls are drenched with the waters
 Oh, god, I indeed pray for offspring in our Ikshvaku dynasty, let
  not our dynasty dwindle as I am issueless, and oh, god, let this be
  the other boon to me. [1-42-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -961,8 +921,6 @@ Oh, god, I indeed pray for offspring in our Ikshvaku dynasty, let
 The Forefather of all the worlds, Brahma, then replied the king who
  has spoken in that way, in an auspicious tongue that is sweet-sounding
  and sweetly worded, as well. [1-42-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -1005,8 +963,6 @@ The Forefather of all the worlds, Brahma, then replied the king who
 Oh, top-speeded chariot-rider Bhageeratha, this aspiration of yours
  is sublime, and oh, the furtherer of Ikshvaku dynasty, so be it, let
  safeness betide you. [1-42-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -1055,8 +1011,6 @@ This Ganga is the one with snow-broth, the elder daughter of Himavanta,
  and oh, king Bhageeratha, god Shiva alone is capable to sustain her
  force in the course of her alighting onto earth, and in fact, he is
  to be commissioned for that purpose. [1-42-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -1103,8 +1057,6 @@ _________________
 'Oh, king Bhageeratha, the earth cannot endure the downfall of Ganga
  and to sustain Ganga, oh, king, indeed I do not behold none other than
  the Trident-wielder, god Shiva.' Thus Brahma spoke to Bhageeratha. [1-42-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 </details>
 
@@ -1158,8 +1110,6 @@ _________________
  also, that Creator of Worlds, Brahma, left for heaven along with all
  the groups of gods and Wind-gods." Thus Vishvamitra continued narration
  about the arrival of River Ganga to earth. [1-42-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

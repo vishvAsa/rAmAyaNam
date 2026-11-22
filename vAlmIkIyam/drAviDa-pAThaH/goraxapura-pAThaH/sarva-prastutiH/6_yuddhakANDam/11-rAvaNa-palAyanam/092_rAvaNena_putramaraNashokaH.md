@@ -20,8 +20,6 @@ Seetha observes Ravana rushing towards her and laments that after killing Rama a
 coming to her place to kill her. Beholding the lamentation of Seetha, Suparshva, a good and upright
 minister of Ravana advises Ravana to desist from that dastardly act and to divert his anger towards
 Rama in battle. Ravana accepts the advice of his minister and returns to his assembly-hall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -105,8 +103,6 @@ battle-field.
 
 "O monarch! Your great majestic son has been killed by Lakshmana with the help of
 Vibhishana, while we were witnessing the event in the battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -164,8 +160,6 @@ highest world.
 "Your valiant son, who was unbeatable in combats and that hero who conquered Indra
 the lord of celestials, having collided with valiant Lakshmana, has been killed. Having tormented
 Lakshmana with his arrows, Indrajit departed to the highest world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -206,8 +200,6 @@ way; *mahat kashmalam* = to a protracted swoon.
 
 Hearing that news of formidable, harsh and terrific death of Indrajit his son in
 battle, Ravana gave way to a protracted swoon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -250,8 +242,6 @@ mind.
 Regaining his consciousness after a long time, the king Ravana, confounded as he was
 with sorrow on account of his son's death and with his mind confused, lamented as follows depressed
 as he was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ will of Lakshmana?
 
 "Alas! My child, the chief of the army of demons, having extraordinary might! Having
 conquered Indra, how have you been subjected to the power of Lakshmana now?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -349,8 +337,6 @@ punaH* = what to tell about Lakshmana?
 "Certainly, when enraged, you would pierce with your arrows in battle, even the
 all-destroying time in the form of Yama the Lord of Death and even the peaks of Mount Mandara. What
 to tell about Lakshmana?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -391,8 +377,6 @@ esteemed mama = to me; *raajaa* = is king Yama; *vaivasvataH* = son of sun-god;
 
 "O the long armed one! Highly esteemed to me is the king Yama, son of sun-god, by
 whom you have been subjected to the ravages of time today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ celestial hosts; *saH pumaan* = that male offspring; *hanyate* = who is killed;
 
 "This is the path for great warriors even among all the celestial hosts. That male
 offspring who is killed for the cause of his lord, obtains heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -483,8 +465,6 @@ sages; *adya* = can now; *svapsyanti* = sleep; *adya* = can now;
 
 "Seeing Indrajit having been killed, all the hosts of celestials, the guardians of
 the world and the great sages now can sleep comfortably and peacefully."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -531,8 +511,6 @@ wholly alone; *me* = to me; *trayaH lokaaH* = may; even the three worlds!
 
 "Bereft of Indrajit alone, the entire earth with its forest appear to be wholly
 alone to me. Nay, even the three worlds!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -579,8 +557,6 @@ as one would hear the roar; *kareNu samghasya* = of a troop of female-elephants;
 
 "Now, I shall hear the hue and cry of the demon-maidens in the gynaecium, even as
 one would hear the roar of a troop of female-elephants in a mountain cave."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -626,8 +602,6 @@ succession to our kingdom; *laN^kaamcha* = Lanka; *rakShaamsi cha* = the demons;
 
 "O destroyer of enemies! Where did you go leaving the rank of Prince Regent as also
 Lanka, the demons, your mother and myself, your wives and all of us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -648,8 +622,6 @@ killing; *paulastya sachivaaH* = Ravana's counsellors; *tataH* = then;
 
 Hearing of Indrajit's killing and having ascertained the news, Ravana's counsellors
 reported the matter hurriedly to Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -690,8 +662,6 @@ are indeed in a reverse path.
 
 "O hero! The obsequies rights in my honour ought to have been done by you,
 consequent upon my death in future. You are, however, following a reverse path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -738,8 +708,6 @@ consequent upon my death in future. You are, however, following a reverse path."
 
 "Deserting us without taking away my tormentation, while Sugreeva, lakshmana and
 Rama are still alive, where have you gone?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -780,8 +748,6 @@ was feeling distressed through grief as aforesaid.
 
 A huge rage enveloped Ravana, the king of demons, born of his son's death, while he
 was feeling distressed through grief as aforesaid.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -826,8 +792,6 @@ summer.
 
 The anguishes occasioned by the death of his son, flared up further for him, who by
 his very nature, was wrathful, as rays of the sun flare up the blazing sun in summer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -874,8 +838,6 @@ the time of dissolution of the world; *bhrukuTiibhiH* = with his eye-brows;
 
 With his eye brows joined together on his forehead, he shone brightly like an ocean,
 at the time of the dissolution of the world, with crocodiles and giant waves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -923,8 +885,6 @@ former days).
 
 While he was yawning with anger; a fire with smoke, as though clearly burning, broke
 out from his mouth, as it did from the month of Vritra (in the former days).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -966,8 +926,6 @@ of Seetha.
 
 Afflicted with the grief of his son's killing, that valiant Ravana got wrapped up in
 wrath and pondering with his mind, craved for the killing of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1008,8 +966,6 @@ wrath and pondering with his mind, craved for the killing of Seetha.
 
 The dreadful eyes of that Ravana, which were red in colour by their very nature and
 were red even by the fire of his wrath, looked glittering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1059,8 +1015,6 @@ rudrasya iva* = like the form of enraged Rudra the god of destruction.
 
 That naturally terrific form of Ravana, filled with the fire of his wrath, became
 difficult to be approached, like the form of enraged Rudra the god of destruction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1110,8 +1064,6 @@ of oil; *saarchiShaH* = with flames; (fall down); *diiptaabhyaam* = from blazing
 
 Drops of tears fell down from his enraged eyes, as drops of oil with flames fall
 down from blazing lamps.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1158,8 +1110,6 @@ demons.
 
 The sound of his teeth, produced from the friction of his teeth as he ground them,
 were heard like the noise of a large machine being bragged by the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1206,8 +1156,6 @@ demons; *samvililyire* = hid themselves; *yaam yaam disham* = in whichever quart
 
 Trembling with fear, the demons hid themselves, in whichever quarter to which he
 directed his look, enraged as he was, like the fire of universal dissolution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1250,8 +1198,6 @@ creatures.
 Demons could not go towards Ravana, who was looking at all the four quarters, like
 the enraged Yama the god of Death, who wants to devour both the mobile and the immobile
 creatures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1293,8 +1239,6 @@ midst.
 
 Desirous of posting the demons to the battle-field, Ravana the king of demons, who
 was very much enraged, then spoke as follows, in their midst:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1335,8 +1279,6 @@ avakaasheShu* = at the conclusion of those austerities.
 
 "Brahma the lord of creation was gratified by me, by performing a stupendous
 austerity for thousands of years, at the conclusion of those austerities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1381,8 +1323,6 @@ the celestials.
 
 "As a consequence of that austerity alone and by the grace of Brahma the lord of
 creation, there was never a fear for me either from the demons or from the celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1434,8 +1374,6 @@ thunderbolt in their fists."
 "In the course of combats with the gods and demons, the armour gifted to me by
 Brahma, the lord of creation, which is as brilliant as the sun, could not be mutilated by those who
 held the thunderbolt in their fists."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1476,8 +1414,6 @@ wearing that armour; *iha samyuge* = in this battle-field; *saakShaat purandaraH
 
 "Who will, be it Indra himself, dare to attack me on the battle-field now, when
 mounted on chariot on this field of battle, and duly wearing the aforesaid armour?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1527,8 +1463,6 @@ and Lakshmana; *paramaahave* = in the great battle.
 the gracious Brahma the lord of creation, on the occasion of my combat between gods and demons, be
 taken out today to the accompaniment of a band of musical instruments, for the purpose of killing
 Rama and Lakshmana in the great battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1576,8 +1510,6 @@ Seetha.
 
 That cruel Ravana, afflicted as he was with grief at the killing of his son, was
 subjected to anger and deeply pondering with his mind, decided kill Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1626,8 +1558,6 @@ though feeling distressed; *uvaacha* = spoke (to them as follows):
 Looking fixedly with blood-red eyes on all those demons, who were making miserable
 sounds, that very awful Ravana for his part, who had assumed a terrible appearance, though feeling
 distressed, spoke to them as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1668,8 +1598,6 @@ the monkeys; *maayayaa* = by conjuring tricks; *kimchideva* = something;
 
 "In order to hoodwink the monkeys, something which had been killed there, was shown,
 by taking recourse to conjuring tricks, as Seetha, by my child (Indrajit)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1742,8 +1670,6 @@ drew; *khaDgam* = his sword; *aashu* = swiftly.
 "I shall make that hoax into a hard reality, which is pleasing to me. I shall
 destroy Seetha, who is devoted to Rama, a bad warrior". Thus speaking to his counsellors, he
 swiftly drew his sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1793,8 +1719,6 @@ The enraged Ravana, who was very much agitated in mind because of the grief for 
 son's death, springing up suddenly and taking his excellent sword, having the dazzle of a clear
 sky, sallied forth from the assembly hall along with his ministers swiftly and quickly to the place
 where Seetha was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1841,8 +1765,6 @@ where Seetha was.
 
 Seeing Ravana going, his followers emitted a lion's roar. Seeing the enraged Ravana
 and embracing each other, they spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1897,8 +1819,6 @@ brothers (Rama and Lakshmana); *dR^iShTvaa* = on seeing; *enam* = him; *adya*
 "Both those brothers (Rama and Lakshmana), on seeing him now in fury, will get
 perturbed. Indeed even the four guardians of the world had been frightened by him, who was in fury.
 Many other enemies were also frightened by him in various battles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1949,8 +1869,6 @@ strength.
 
 "Fetching precious things existing in all the three worlds, Ravana enjoys them. No
 one on the earth is equal to him in strength and prowess."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -1994,8 +1912,6 @@ present ashoka vanikaam = in the Ashoka grove.
 
 While those demons were thus talking, Ravana who was excited with fury, rushed
 towards Seetha, who was present in the Ashoka grove.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2047,8 +1963,6 @@ constellation Rohini.
 Though being kept back by his companions whose minds were set on his welfare, Ravana
 who was very much enraged, rushed like Mars, in the sky, which would rush towards the
 constellation, Rohini in fury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2098,8 +2012,6 @@ part; *rakShyamaaNaa* = who was being guarded; *raakShasiibhiH* = by female demo
 
 The faultless Seetha for her part, who was being guarded by female demons, saw the
 enraged Ravana who was bearing an excellent sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2115,8 +2027,6 @@ back bahushaH = in many ways; *suhR^idbhiH* = by his friends.
 
 Seetha was perturbed in seeing him, bearing sword and who was not going back
 eventhough being kept back in many ways by his friends.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2187,8 +2097,6 @@ husband; *anaathaamiva* = as if to make me husband-less.
 Filled with sorrow and lamenting, Seetha said to herself as follows: "From the
 manner in which this fellow himself is rushing towards me in fury, I fear the evil-minded demon is
 going to kill me, to make me husband-less, even though I have a husband".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2263,8 +2171,6 @@ infatuation.
 "He incited me several times, devoted as I am to my husband, saying 'Be my
 consort!'. He was refused firmly by me. Having been evidently afflicted with despair on my refusing
 to wait upon him, he is surely intent to kill me, filled as he was with anger and infatuation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2308,8 +2214,6 @@ those brothers; Rama and Lakshmana; *naravyaaghrau* = the foremost of men;
 
 "Otherwise, that vulgar demon might have killed those brothers, Rama and Lakshmana,
 the foremost of men, today in battle, because of me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2353,8 +2257,6 @@ thing.
 
 "Here, I just heard a terrific great noise of a multitude of demons, who have been
 jubilant and roaring about a pleasant happening."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2374,8 +2276,6 @@ death.
 "Alas! Woe is me, if that destruction of the two princes was brought about because
 of me. Otherwise, the terrific demon of a sinful resolve, having not been able to kill Rama and
 Lakshmana, is going to kill, me, because of the grief over his son's death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2451,8 +2351,6 @@ case).
 "Those words of Hanuma were not acted upon by me, having a low mind. If I left on
 that day on his back, though not won back by my husband, I would not have grieved like this today,
 as I should be resting on the lap of my husband (in that case)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2496,8 +2394,6 @@ son; *vinaShTam* = is dead; *yudhi* = in battle; *manye* = I think;
 
 "I think that the heart of that Kausalya will get burst, when the lady, who had only
 one son, hears of her son having been killed in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2544,8 +2440,6 @@ cha* = childhood; *yauvanamcha* = youth; *dharmakaaryaaNi* = the righteous acts;
 
 "While lamenting, Kausalya will vividly recall about the birth, childhood, youth,
 the righteous acts and the handsome form of the great-souled Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2596,8 +2490,6 @@ vaapi* = or even be drowned into; *aapaH* = water.
 
 "Having observed a ceremony in honour of her deceased son and getting despondent and
 unconscious, Kausalya will surely enter the flame or be drowned in water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2661,8 +2553,6 @@ sinful resolve; *yannimittam* = on whose consequence; *kausalyaa* = Kausalya;
 
 "Woe be to the unfaithful hunch-back Manthara, of sinful resolve, on whose
 consequence, Kausalya will get this grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2686,8 +2576,6 @@ a constellation of this name), fallen under the sway of the planet Mars, when aw
 (her husband), a minister called Suparshva, a good-natured, upright and highly intelligent demon,
 even though restrained by other ministers, spoke the following words Ravana, the foremost of
 demons:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2734,8 +2622,6 @@ you wish; *hantum* = to kill; *vaidehiim* = Seetha; *apaasya* = abandoning;
 
 "O Ravana, the younger brother of Kubera himself! How do you wish to kill Seetha,
 abandoning your righteousness, in a bout of anger?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2784,8 +2670,6 @@ your own duty?
 "O valiant king of demons! Why are you thinking of destroying a lady, ever since you
 completed the vow of celibacy essential for a study of the Vedic lore and were devoted to your own
 duty?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2832,8 +2716,6 @@ saha* = together with us; *utsR^ija* = release; *krodham* = your anger;
 
 "O king! Behold at Seetha, endowed, as she is, with beauty. Together with us,
 release your anger, in battle, on Rama alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2881,8 +2763,6 @@ armies; *niryaahi* = sally forth; *amaavaasyaam* = tomorrow; the moonless day;
 
 "Making yourself ready today itself, the fourteenth day of the dark half of this
 month, you along with the armies, sally forth tomorrow, the moonless day, to victory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2924,8 +2804,6 @@ aasthitaH* = in the foremost of your chariots; *bhavaan praapsyasi* = you can ge
 
 "As a valiant and shrewd chariot-warrior, fighting with a sword, in the foremost of
 your chariots, you can fetch Seetha by killing Rama, the son of Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 </details>
 
@@ -2978,8 +2856,6 @@ Ravana; *suhR^idvR^itaH* = along with his friends; *punaH* = again; *prayayau*
 Accepting that advice, endowed with justice, tendered by a friend, the evil-minded
 Ravana went to his palace. Thereafter, that valiant Ravana, along with his friends, again went to
 his assembly hall from there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

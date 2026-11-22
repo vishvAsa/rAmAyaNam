@@ -14,8 +14,6 @@ title_english = "003 Hanuma conquers Lanka"
 **Book V : Sundara Kanda - Book Of Beauty**
 
 In this chapter Hanuma faces Lanka, the city of Lanka herself in the form of a demoness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ of) water.
 That Hanuma, best among monkeys, the intellectual son of Vayu, one with great might, stood on the
 moutain called Lamba with its high peaks equalling a high cloud, gathered courage and entered at night the city
 of Lanka ruled by Ravana and filled with beautiful forests and places of water such as lakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -152,8 +148,6 @@ white gates and archways.
 The city of Lanka was shone by buildings equalling autumnal clouds. With a sound resembling that
 of an ocean, it was served by ocean breeze. It was filled with well fed and mighty armies like Vitapati, the capital
 of Kubera. It had elephants positioned at archways and had white gates and archways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -256,8 +250,6 @@ Quickly approaching that city of Lanka which was protected by Rakshasas, like th
 city of Bhogavati being protected by serpents moving about, spread with cloud illumined by flashes of lightening,
 served by pathways of stars, witha light breeze like the Indra's city of Amaravati, surrounded by a wall with
 a golden hue, decorated by flags with sounds from groups of small bells. He became happy and leapt up the wall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -374,8 +366,6 @@ white silver, stairs studded with cat's eye gems, with inside walls made of crys
 lovely assembly halls, with sounds of Krauncha birds and peacocks, served by royal swans, looking as though flying
 toward the sky, with auspicious houses resounding everywhere with the sounds of clarionets and ornaments, equalling
 the city of Vasvaukasaara, as though flying towards the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -423,8 +413,6 @@ the city of Vasvaukasaara, as though flying towards the sky.
 
 Seeing that city of Ravana, which was best among cities, a wealthy city, a beautiful and auspicious
 city, that powerful Hanuma thought thus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -473,8 +461,6 @@ _________________
 
 "It is not possible for anyone else to oppose this city, by strength alone, which is being guarded
 by armies of Ravana with raised weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -531,8 +517,6 @@ monkey Sushena; *mainda dvividayorapi* = to Mainda or Dvivida.
 **अनुवादः**
 
 This land may be conquerable by Kumuda or Angada, to the great monkey Sushena or to Mainda or Dvivida.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -547,8 +531,6 @@ of Sun God - Sugreeva; *hareH* = the monkey; *kushaparvaNaH* = Kusaparvana; *kap
 
 There may be access to this land to the son of Sun God Sugreeva, to the monkey Kusaparvana, to
 the chief among monkeys Riksha and to me.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -594,8 +576,6 @@ the chief among monkeys Riksha and to me.
 **अनुवादः**
 
 Considering the long armed Sri Rama's strength and Lakshmana's valour, Hanuma became happy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -657,8 +637,6 @@ houses; *bhaasvaraishcha* = radiating; *diiptaiH* = being illuminated by(lamps).
 That great monkey saw that city of king of rakshasas like a wealthy woman decorated with diamonds
 for her clothes, with various storage houses as earrings, with amouries for her breasts. Due to the lamps that
 illuminated the radiant great houses, all darkness was lost.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -707,8 +685,6 @@ balam* = one with great strength; *pavanaatmajam* = Hanuma; *pravishantam* = ent
 
 Thereafter, the guardian of that city, in her own form, saw Hanuma, the best among monkeys and
 the mighty one, entering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -778,8 +754,6 @@ eyes.
 
 Seeing that best among monkeys Hanuma there, that Lanka ruled by Ravana, rose up herself with a
 horrific appearance of face an eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -794,8 +768,6 @@ Hanuma; *kapivarasya* = the best among Vanaras; *munchamaanaa* = leaving; *mahaa
 
 She stood in front of the best among Vanaras Hanuma. She made a great sound and spoke to Hanuma
 thus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -836,8 +808,6 @@ long as (you) sustained; *te praaNaaH* = your lives; (before that); *kathayasva*
 
 "O one who lives in gardens! Who are you? For what reason did you come here? As long as your lives
 are sustained, tell me the truth here before that."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -907,8 +877,6 @@ _________________
 
 "O Vanara! It is indeed not possible for you to enter this city of Lanka which is protected by
 Ravana's forces and strongly guarded all around."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -929,8 +897,6 @@ Ravana's forces and strongly guarded all around."
 
 Therafter the mighty Hanuma spoke to Lanka standing in front of Him as follows : "Whatever matter
 you are asking me, I will tell you that truthfully."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -946,8 +912,6 @@ one; *ruddhvaa* = stopping; *maam* = me; *kimartham* = for what reason; *nirbhat
 
 "You are standing at the entrance to the city. O one with ugly eyes! Who are you? O horrible one!
 Stopping me, for what reason are you threatening me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -991,8 +955,6 @@ laN^kaa* = that Lanka; *kaamaruupiNii* = with ability to change form according t
 
 Listening to Hanuma's words, that Lanka, with ability to achieve desired form, became angry and
 spoke these strong words to Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1033,8 +995,6 @@ one.
 
 "I protect this city, being invincible. I wait for the orders of the king of demons Ravana, the
 great one."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1078,8 +1038,6 @@ possible; *tvayaa* = by you; *praveshhTum* = to enter; *nagarii* = the city; *ad
 
 "After humilliating me it is not possible for you to enter the city. Being beaten by me, you will
 leave life and have a permanent sleep."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1122,8 +1080,6 @@ laNkaa nagarii* = the city of Lanka; *sarvataH* = in all directions; *etat* = th
 
 "O Vanara! I am protecting this city of Lanka in all directions. This matter has been already told
 to you by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1173,8 +1129,6 @@ up; *aparaH shailaH iva* = like a second mountain; *yatnavaan* = with a purpose.
 
 The son of Vayu and best among Vanaras heard Lanka's words and stood up like a second mountain,
 with a purpose.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1225,8 +1179,6 @@ puNgavaH* = best among Vanaras; *dR^ishhTvaa* = saw; *aam* = that Lanka; *strii 
 
 Thereafter that Hanuma the wise one, with great strength, best among those who can fly and best
 among Vanaras, saw that city of Lanka in the form of an ugly woman and spoke thus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1267,8 +1219,6 @@ lot of curiosity; *me* = to me.
 
 "I should like to see the city of Lanka with its palaces, defensive walls and archways. I came
 here for that reason. I am very curious to see them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1307,8 +1257,6 @@ see; *laN^kaayaaH* = Lanka's; *vanaani* = gardens; *upavanaani* = parks; *kaanan
 **अनुवादः**
 
 "My arrival here is indeed to see Lanka's gardens, parks, forests and important houses all over."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1378,8 +1326,6 @@ before.
 
 Listening to Hanuma's words, Lanka with the ability to assume desired form, spoke harsh words stronger
 than before.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1395,8 +1341,6 @@ defeating me.
 
 "O lowly Vanara with an evil mind! It is not possile for you to see this city ruled by king of
 rakshasas, without first defeating me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1443,8 +1387,6 @@ yataagatam* = as I came.
 
 Then that tiger among Vanaras Hanuma spoke to that demon : "O auspicious one! After seeing this
 city I will return back again to where I came from."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1487,8 +1429,6 @@ vaanarashreshhTham* = the best among Vanaras; *talena* = with the palm; *vegitaa
 
 Thereafter that Lanka made a great sound causing terror and hit Hanuma, the best among Vanaras,
 with her palm quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1537,8 +1477,6 @@ _________________
 
 Then that tiger among Vanaras, the powerful son of Vayu, being hit powerfully by Lanka made a great
 sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1590,8 +1528,6 @@ cha iti* = she is a woman (thus); *manyamaanena* = thinking; *ati krodhaH* = gre
 
 Thereafter that Hanuma became dizzy with anger and folded his fingers of left hand. He then hit
 her with His fist. "She is a woman" - thinking thus He did not show much anger by Himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1665,8 +1601,6 @@ glorious one; *hanumaan* = Hanuma; *dR^ishhTvaa* = saw; *taam* = her; *vinipaati
 
 Thereafter the intellectual and glorious Hanuma saw her fallen down and thinking her to be woman,
 showed kindness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1712,8 +1646,6 @@ _________________
 
 Thereafter that Lanka being very gloomy spoke with a falterting tone without pride these words
 to Hanuma the Vanara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1756,8 +1688,6 @@ to Hanuma the Vanara.
 
 "O long armed one! O best among Vanaras! Get propitiated and protect me. O gentle one! Those with
 great strength and courage always stand firm on tradition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1792,8 +1722,6 @@ itself; *svayameva* = myself; *mahaa bala* = O strong one! viia = O courageous o
 
 "O Vanara! I am myself the city of Lanka. O strong one! O courageous one! I am defeated by your
 strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1844,8 +1772,6 @@ tu* = this truth.
 
 "O lord of Vanaras! In earlier times I had been given a boon by Lord Brahma. Hear from me about
 this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1860,8 +1786,6 @@ body; *vikR^itaanana darshanaa* = and became with a horrific face in appearance.
 
 That demon fell on land immediately by that hit with a distressed body and appeared with a horrific
 face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -1938,8 +1862,6 @@ ordinance of Brahma; *satyaH* = is true; *naasti* = there is no; *vyatikramaH* =
 
 "O gentle one! With your appearance now, that time has come for me. Ordinance of Brahma is the
 truth and is immutable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1955,8 +1877,6 @@ by you.
 
 "Let this be known by you - whenever a Vanara conquers you with his might, then a fear will come
 for Rakshasas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -2033,8 +1953,6 @@ _________________
 
 "O best aming Vanaras! For that reason, enter the city of Lanka ruled by Ravana and do here whatever
 tasks you want to."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2048,8 +1966,6 @@ of Ravana; *durraatmanaH* = the evil minded; *raaJNAH* = king; *sarveshhaam raks
 **अनुवादः**
 
 "The destruction has come for Ravana the evil minded king and to all Rakshasas due to Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 </details>
 
@@ -2104,8 +2020,6 @@ of Ravana; *durraatmanaH* = the evil minded; *raaJNAH* = king; *sarveshhaam raks
 
 "O lord of Vanaras! Enter the auspicious city of Lanka stuck by the curse, ruled by the king of
 Rakshasas, roam everywhere and search for the chaste wife Seetha according to your comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -16,8 +16,6 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 Rama requests the citizens to return to Ayodhya and to show respect to Bharata the
 prince Regent and Dasaratha the king. The citizens try to persuade Rama to return to Ayodhya, but
 in vain. Rama along with all of them reach the bank of Tamasa.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ going; *vanavaasaasya* = for dwelling in the forest.
 
 The people devoted to the high- soled Rama of unfailing bravery accompanied him on
 his way to the forest for exile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ chariot; *naiva samsyavartanta* = did not return.
 
 +++(Wrong - hindI translation is correct.)+++ When the king was forced (in the interests of his son) to turn back, the group of
 friends who were following Rama's chariot did not return.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ resembling the full moon; *babhuuvahi* = had indeed become; *priyaH* = the favor
 
 Rama who enjoyed great celebrity and who was richly endowed with every virtue,
 resembling the full moon, had indeed become the favorite for the people living in Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ to the forest only.
 
 Despite the entreaties of the people of his own, Rama(the scion of the Kakutstha),
 in order to honor his father's vow; proceeded towards the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ with his eyes; *raamaH* = Rama; *sasneham* = lovingly; *uvaacha* = spoke;
 
 Fondly gazing on the people as though drinking with his eyes, Rama lovingly spoke
 (as follows) as though they were his own children:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -314,8 +302,6 @@ Ayodhya; *mayi* = (have) in me; *saa* = that ; *niveshyataam* = be bestowed;
 
 "The respect and affection that has been bestowed upon me by you (the residents of
 Ayodhya) may for my satisfaction be bestowed in a special measure on Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -362,8 +348,6 @@ the delight of Kaikeyi; *kalyaaNacharitraH* = and who possessed excellent conduc
 
 "Bharata who enhances the delight of Kaikeyi and who possesses excellent conduct,
 will indeed do pleasing and beneficial things to you appropriately."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -411,8 +395,6 @@ fears."
 
 "Bharata who is matured in knowledge but young in age, who is gentle but endowed
 with virility and virtue, will become your worthy master who can dispel your fears"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -463,8 +445,6 @@ by the rest; *vaH* = of you.
 
 "Bharata who is endowed with royal virtues is being marked as the prince. Further,
 king's command is to be carried out by me and the rest of you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -512,8 +492,6 @@ monarch; *na santapyet* = does not suffer agony; *tathaa* = in that manner;
 
 "If you desire to please me, see that the king does not suffer agony when I have
 gone to forest for exile"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -561,8 +539,6 @@ master."
 
 The more Rama the son of Dasaratha, showed himself to be faithful to his duty, the
 more the people wished to have him as their master "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -609,8 +585,6 @@ though tied; *guNaiH* = with cords.
 
 Rama accompanied by son of Sumitra, drew the people of the city, who were weeping
 piteously, after him as if tied and pulled with cords.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -658,8 +632,6 @@ words; *duuraat* = from distance."
 
 Those brahmanas, who were triply revered for their learning, their age and their
 spirituality, their heads shaking with advanced years, cried out :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -710,8 +682,6 @@ friendly; *bhartari* = to your master.
 "Oh Noble Steeds, of speedy breed! You who are carrying Rama, do come back! Do not
 proceed! Be friendly to your master (since by taking Rama against our wishes, you will be doing a
 disservice to him)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -758,8 +728,6 @@ Therefore; *yuuyam* = you; *nivartadhvam* = return.
 
 "Indeed all things, which are endowed with ears, more so horses, stand appraised of
 our entreaty. Therefore, you return."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -806,8 +774,6 @@ our entreaty. Therefore, you return."
 
 "That hero of the pure soul, of virtuous and auspicious firm resolve, that master,
 deserves to be brought back to the city and not to be taken to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -854,8 +820,6 @@ deserves to be brought back to the city and not to be taken to the forest."
 
 Seeing those aged brahmanas uttering those painful words, Rama quickly got down from
 the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -902,8 +866,6 @@ forest.
 
 Rama with Sita and Lakshmana, taking close strides, proceeded on foot towards the
 forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -950,8 +912,6 @@ brahmanas; *padaatiin* = walking on foot; *rathena* = behind the chariot.
 
 That Rama who was affectionate in his disposition and had compassion in his eyes,
 could not abandon those brahmanas walking on foot, far behind the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -998,8 +958,6 @@ distressed; *uuchuH* = spoke; *idam vaakyam* = these words :
 
 Perceiving Rama still going towards the forest, those brahmanas perplexed in mind
 and greatly distressed, spoke the following words :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1050,8 +1008,6 @@ devoted to the brahmanas. Dvija skandaadhiruudhaaH = Bearing on the shoulders of
 
 "The whole of this brahmana community is following you, devoted (as you are) to the
 brahmanas. See, they are bearing the sacred fires on their shoulders"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1106,8 +1062,6 @@ accompanying our backs like clouds at the end of the rainy season"
 
 *-It is laid down in the Vedas that he who performs a Vajpeya sacrifice must be
 supplied with a white canopy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1157,8 +1111,6 @@ canopies; *svaiH* = of ours."
 
 "With these canopies of ours, we shall give shade to you, who have got no canopy and
 are being scored with rays (of the sun.)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1205,8 +1157,6 @@ perusing the study of Vedic Text; *saa* = that intellect; *kR^itaa* = has been m
 
 "Oh, Dear child! The intellect of ours, which was forever engaged in perusing the
 study of Vedic texts has been now made to follow the course of exile to the forest"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1254,8 +1204,6 @@ character; *daraaH api* = our wives too; *vatsyanti* = remain; *gR^iheshhveva*
 
 "We will carry the Vedas in our hearts as our excellent treasure and our wives too
 will remain at home, protected by their character"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1304,8 +1252,6 @@ dharmavyapakshhe = If you do not pay attention to piety; *kim* = which;
 "We shall not revoke our decision. Our mind is fully determined to go along with you
 (to the forest). If you do not pay attention to piety, what being will remain devoted to the path
 of virtue?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1354,8 +1300,6 @@ of our prostration to you). nivartasva = Turn back."
 " Oh, prince of resolute conduct! We entreat you by our heads having gray hair like
 the white color of the swans, that are soiled with dust as a result of their falling on the ground
 (in the course of our prostration to you) (pray) turn back."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1406,8 +1350,6 @@ return."
 
 "Sacrifices have been commenced by many of those Brahmanas that have come here.
 Their completion, oh dear child, depends on your return"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1457,8 +1399,6 @@ devotees; *yaachamaaneshhu* = who entreat you to return."
 
 "Beings both animate and inanimate, Oh, Rama, are indeed devoted to you. Show
 affection to those devotees, who entreat you to return."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1505,8 +1445,6 @@ accompany; *tvaam* = you; *vikroshantiiva* = appear to be weeping; *unnataaH*
 
 "The trees held by their roots, unable to accompany you, seen to be weeping,
 hump-backed by the force of wind"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1555,8 +1493,6 @@ compassionate as you are to all created beings."
 "Birds too, which sit motionless and are unable to go out in search of food and
 which remain fixed at one spot on trees, are supplicating you to return, compassionate as you are
 to all created beings"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1603,8 +1539,6 @@ Rama); *tamasaa* = the river Tamasa; *tatra* = there; *dadR^ishe* = appeared;
 
 While those brahmanas were crying thus with a view to persuading Rama to return, the
 river Tamasa appeared there, as though retarding the progress of Rama "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 </details>
 
@@ -1660,8 +1594,6 @@ not very far from the Tamasa.
 Thereafter Sumantra the charioteer too released the horses, tired as they were, from
 the chariot and quickly making them roll, allowed them to graze not very far from the (bank of)
 Tamasa once they had drunk water and had their body washed in the river."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

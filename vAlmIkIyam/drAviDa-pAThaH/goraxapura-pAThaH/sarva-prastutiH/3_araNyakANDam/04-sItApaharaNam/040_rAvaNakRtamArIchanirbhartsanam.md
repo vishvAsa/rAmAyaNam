@@ -17,8 +17,6 @@ III : Aranya Kanda - The Forest Trek**
 Ravana rebuts Maareecha for giving an unasked advice and details his plan to abduct
 Seetha. Ravana intimidates Maareecha that he himself will kill Maareecha immediately if his orders
 are disobeyed, and Maareecha may perhaps have no opportunity to die at the hands of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ pratijagraaha* = not, received - Ravana rejected.
 
 When Maareecha spoke those acceptable and equitable words, Ravana rejected them like
 a person with a death wish rejects medicament. [3-40-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ is speaking; *tam maariicam* = to him, to that Maareecha; *a yuktam* = unbefitti
 Ushered by the Terminator the king of demons Ravana, uncouthly spoke these
 unbefitting words to Maareecha who had been speaking conducive and beneficial words of advise.
 [3-40-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ much - decidedly; *niS phalam* = without, fruit - worthless; *kila* = in effect.
 
 "All these meaningless words that are being said to me are decidedly worthless, in
 effect, like the seeds seeded in wastelands. [3-40-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ Rama, that too, from a human being, with these words of yours. [3-40-4]
 There is a grammarian's irk in *bhettum *' to cut off, to destroy' *
 bhetum *'to scare me' and if *bhettum *is taken, then 'it is impossible for that human to
 destroy me in war' will be the meaning, as per Eastern recension.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ nashakyaa* = you cannot scare me away from such a Rama.
 "He who bolted off to forest in a single-foot on hearing the artless words of a
 woman, forfeiting his kingdom, friends and relatives, and even his mother, likewise his father too,
 you cannot scare me away from such a Rama. [3-40-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -291,8 +279,6 @@ be stolen - seizable.
 
 "But his wife Seetha who is dearer to him more than his lives is certainly seizable
 by me in association with you, as that Rama had purposelessly killed Khara in a war. [3-40-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -340,8 +326,6 @@ thinking, in this way, is decided; and; *hR^idi vidyate [vartate]* = in heart, o
 "In this way my thinking is decided and it is lingering on in my heart, and it is
 impossible to roll back my mind or heart even for Indra coming along with gods and demons.
 [3-40-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -389,8 +373,6 @@ vaktum arhasi* = you, this way, to talk, apt of you.
 "If you are asked about the credits or discredits, or either of the danger or
 ideation of the deed for determining its modus operandi, it will be apt of you to talk like this,
 but I did not seek any viewpoints of yours. [3-40-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -456,8 +438,6 @@ akareNa api kaaryaatyaprasaktau nigR^ihya api vaktavyatvaat - tathaa ca pR^iShTe
 iti katham vaktum shakyata iti cenna - pR^iShTenaiva vaktavyam iti etasya svastha avastha raaja
 viShayatvaat - aapadi uttham pratipanne c raajani kesha grahaNa puurvakam pR^iShTe naa api
 vaktavyam eva - dk* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -518,8 +498,6 @@ audience of a king shall forget his own know-all-ness or his own entity in the k
 subject at issue. *vijaanan na api
 bruuyaat bhartruH kShiptaH uttaram vacaH | praviiNo api hi medhaavii varjayet abhimaanitaam
 ||*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -569,8 +547,6 @@ nandati* = not, towards [him,] gladdens.
 "Or else, oh, Maareecha, even if a beneficial word is said, but if it is said with
 reprehension it will not gladden that king who insists upon honour, for that said word is
 dishonourable, let alone reprehension. [3-40-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -629,8 +605,6 @@ dhaarayanti* = five, aspects - constituent forces, he bear - he embodies.
 
 "The kings with infinite vigour embody five constituents forces of Fire, Moon, Rain,
 Terminator, and that of Indra, the Administrator of Natural Forces. [3-40-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -659,8 +633,6 @@ with the king of kings, namely Ravana himself, which he says in next verse. A ki
 traits of the presiding deities of the compass, by virtue of his kingship, and the sages said the
 very same to Rama when he entered Dandaka forest. *anena agni aadi dik
 paalaka ruupatvaat raajaa puujyo maanyaH ca iti suucitam - dk* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -720,8 +692,6 @@ babbling.
 "But you are ill-advisedly babbling with me in this way, incognizant of rectitude
 and holding on to your obsession, and wishing ill of me, as I am on your doorstep. [3-40-14b,
 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -738,8 +708,6 @@ Maareecha untold bravery; *tvaam prati* = you, addressing [samprati = presently]
 
 "Oh, demon, I did not ask the rights and wrongs concerning me, nor that which is
 expedient for me, but oh, demon of untold bravery, I have said this much to you. [3-40-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -791,8 +759,6 @@ you listen.
 " 'It will be apt of you to proffer a helping hand in this deed.' This much I said
 to you. And such as you are you may now listen to that task which you have to undertake during the
 course of your assistance as I detail it to you. [3-40-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -845,8 +811,6 @@ alluring; *yathaa iSTam gantum arhasi* = as, you like, to go away, apt of you.
 
 "On becoming an amazing silver-potted golden deer you move in front of Seetha in the
 hermitage of Rama, and on verily alluring Vaidehi you can go away as you like. [3-40-17, 18 ]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -896,8 +860,6 @@ be brought; *iti* = thus; *raamam vakSyati hi* = to Rama, tells, indeed.
 
 "On seeing you as a wholly illusory golden deer curiosity arises in Vaidehi, and
 indeed she tells Rama, 'bring that one quickly.' [3-40-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -945,8 +907,6 @@ express - you blurt out even.
 
 "Further, on Rama's coming out of his hermitage you go distantly and blurt out in
 this way, 'ha Seetha' and even as, 'ha, Lakshmana,' mimicking Rama's voice. [3-40-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -996,8 +956,6 @@ hearing; *siitaayaa ca pra coditaH* = = by Seetha, further, well, hastened;
 
 "On hearing that, and further hastened by Seetha, even Soumitri apprehensively
 follows the path of Rama in all his fondness for Rama. [3-40-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -1044,8 +1002,6 @@ convenience - effortlessly, I carry off.
 
 "When Rama is diverted from hermitage, Lakshmana as well, I will carry off Vaidehi
 effortlessly like the Thousand-eyed Indra who once carried off Sachi Devi. [3-40-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -1092,8 +1048,6 @@ to you; *raajyasya ardham pradaasyaami* = kingdom's, half, I grant.
 
 "Oh, demon, on carrying out this stint in this manner you may go as you like, and to
 you oh, Maareecha with solemn vows, I will grant half of my kingdom. [3-40-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -1140,8 +1094,6 @@ daNDakaa vanam anugamiSyaami* = with, chariot, to Dandaka, forest, I wish to fol
 
 "Hence, oh, gentle one, get going on a trouble-free path for the easy achievement of
 the task, and I for myself will follow you to Dandaka forest along with the chariot. [3-40-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -1191,8 +1143,6 @@ prati gamiSyaami* = Lanka, towards, I will proceed.
 
 "My goal will be achieved just by misleading Raghava, and by gaining Seetha without
 a conflict, then I will proceed to Lanka along with you. [3-40-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -1249,8 +1199,6 @@ hi* = safely, not, succeeds, indeed.
 "If you are not going to do so, oh, Maareecha, for sure I will kill you now itself.
 I will get my work done through you even under duress, and indeed, any subject setting against his
 king will never succeed safely. [3-40-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 </details>
 
@@ -1307,8 +1255,6 @@ pathyam* = what is, desirable; *tat tvam tathaa kuru* = that, you, that way, do.
 as you are conflicting with me. Hence, keeping all this in view you come to a conclusion that would
 be conducive to your interests, and whatever desirable to you let it be done in that way. " Thus
 Ravana spoke to Maareecha. [3-40-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

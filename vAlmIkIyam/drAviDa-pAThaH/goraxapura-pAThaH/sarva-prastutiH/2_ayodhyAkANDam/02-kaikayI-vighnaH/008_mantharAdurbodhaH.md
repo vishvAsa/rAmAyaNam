@@ -17,8 +17,6 @@ Manthara with her wicked thoughts tries to convince Kaikeyi of the possible
 misfortune that could occur to Kaikeyi and her family if Sri Rama becomes the King. Although
 Kaikeyi's initial reaction is to praise Rama's qualities; her mind is slowly but surely poisoned by
 Manathara's sinful words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ anger and pain; *uvaacha* = spoke; *idam* = these words.
 
 Manthara, becoming indignant with Kaikeyi, threw down the ornament given to her and
 with anger and distress spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ of trouble; *kim idam* = what is it; *kR^itavatii asi* = you are doing;
 
 "O, foolish one! Not knowing that you are in the midst of an ocean of trouble, what
 is it that you are so delighted about, in a matter to be grieved?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ which is to be grieved.
 
 "Oh, queen! Though stricken with grief, I mentally laugh at you in that you are
 rejoicing at the time when a great calamity is befalling you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ rejoicing at the time when a great calamity is befalling you."
 "I am lamenting over your foolish mind. Does any intelligent woman feel happy over
 the prosperity of a stepson who is considered an enemy? Does it not amount to praising a befalling
 death?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ asmi* = I am sorrowful; *bhayam* = Fear; *jaayate hi* = begets from;
 "Rama has a fear about Bharata because Bharata has equal rights over the kingdom. In
 thinking about this matter, I am getting anguished. Do we not get disasters from those who are
 afraid of us?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ bow; *gataH* = joined; *raamam* = Rama; *sarvaatmanaa* = with all his heart;
 
 "Lakshmana, wielding a great bow, joined Rama with all his heart. Shatrughna is as
 faithful to Bharata as Lakshmana to Rama".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ is to Bharata only; *tayoH taavat* = to the extent of other two(Lakshmana and Sa
 "Oh Kaikeyi! In line with even the proximity of birth; the claim to the throne of
 Bharata alone can be pressed, that of Lakshmana and Satrughna who are younger is out of
 question."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -407,8 +391,6 @@ appropriately and in time; *bhayaat* = fearing (such Rama); *pravepe* = I am sha
 "Rama is a learned man and a political statesman. His actions are timely and
 appropriate. When thinking of your son's calamity to be resulted from Rama, I get shaken with
 fear".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -456,8 +438,6 @@ the best of Brahmans.
 
 "Kausalya is very fortunate. Brahmans are going to anoint her son for the great
 princely kingdom tomorrow on the day of Pushyami star".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -505,8 +485,6 @@ happiness; *pratiitaam* = famous; *hatadvishham* = annihilator of enemies.
 "With folded arms, as a maid-servant, you have to serve that Kausalya who having
 reached great prosperity, in the height of joy, will dispose of her adversaries (in the person of
 Bharata and yourself)".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -553,8 +531,6 @@ us; *tava* = your; *putrashcha* = son also; *gamishhyati* = will get;
 
 "Thus, if you become Kausalya's servant-maid along with us, your son Bharata will be
 Rama's attendant."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -601,8 +577,6 @@ Bharata's waning position."
 Comment: The words 'Rama's wives' here do not indicate that Rama had multiple
 wives. Manathara refers to a possible future where Rama being a King would marry other women. It
 was a norm then for a king to have more than one wife.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -649,8 +623,6 @@ praised; *raamasya guNena* = Rama's virtues.
 
 Hearing Manthara speak thus in many distasteful words, Kaikeyi began to extol Rama's
 virtues, saying: -
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -703,8 +675,6 @@ kingdom.
 "Rama knows all righteousness. Elders trained him. He has a proper gratitude. He
 speaks truth. He has a clean conduct. He is the eldest son of king Dasaratha and hence eligible for
 the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -752,8 +722,6 @@ will protect; *bhraatroom* = brothers; *bhR^ityaamshcha* = and servants;
 
 "The long living Rama will protect his brothers and servants like a father. O, the
 hunch backed one! Why are you so pained on hearing about Rama's coronation?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -800,8 +768,6 @@ hunch backed one! Why are you so pained on hearing about Rama's coronation?"
 
 "After Rama's rule for one hundred years, Bharata the best among men will certainly
 replace Rama on his father's throne, which is that of his ancestors."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -852,8 +818,6 @@ this as though burning (with jealousy)?
 festive occasion is to come off in future (too in the form of Bharata's installation, no matter
 even if it comes after a hundred years), why do you feel agonized like this as though burning (with
 jealousy)?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -904,8 +868,6 @@ Kausalya.
 
 "For me, Rama is as lovable as Bharata and even more. Is he not doing more service
 to me than to Kausalya?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -952,8 +914,6 @@ brothers; *yathaa tathaa* = on par with; *aatmaanam* = his own self.
 
 "If Rama has kingdom then Bharata has it as well. Rama esteems his brothers just as
 his own self."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1000,8 +960,6 @@ his own self."
 
 Manthara, after hearing Kaikeyi's words, felt very sad and after a long and hot
 sigh, spoke to her the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1043,8 +1001,6 @@ in an ocean of sorrow; *shoka vyasana vistiirNe* = filled with misery and danger
 "On one side, you are getting immersed in an ocean of sorrow filled with misery and
 danger. But due to stupidity, you are not able to perceive the truth and you fail to assess your
 real position."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1094,8 +1050,6 @@ Bharata; *parihaasyate* = will be removed; *raajavaMshaat* = from the royal clan
 
 "O,Kaikeyi! If Rama becomes the king, his son will become the king after him in
 succession. Thus, Bharata's name itself will be removed from the royal clan."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1136,8 +1090,6 @@ sons; *raajJNyaH* = of a king; *natishhTantiH* = will not be installed;
 
 "O, Kaikeyi! All the sons of a king will not be crowned for a kingdom. If all are
 installed, there will be a great lawlessness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1184,8 +1136,6 @@ install; *jyeshhTe* = eldest son; *itareshhvapi* = eventhough others;
 
 "Therefore, kings, O, Kaikeyi of faultless limbs, install their eldest son,
 eventhough others may be full of virtues, as their successor to the throne."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1226,8 +1176,6 @@ nirbhagnaH* = a complete loser; *sukhebhyaH cha* = from comforts;
 
 "Oh, Kaikeyi the affectionate one! Your son will be completely distant from comforts
 and even from the royal clan; like an orphan."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1278,8 +1226,6 @@ vriddhou* = when there is prosperity for step-wife.
 
 "I came here in your interests. But you have not understood me. You think it fit to
 give me a present when your step-wife is getting prospered."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1326,8 +1272,6 @@ give me a present when your step-wife is getting prospered."
 
 "Rama, ascending the throne without hindrance, will either send away Bharata to some
 other country or have him put to death. This is certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1375,8 +1319,6 @@ friedship; *jaayate* = is created; *sthaavareshhvapi* = even on inanimate things
 "You sent Bharata to his maternal uncle's house even in his childhood. By being
 nearer, love is born even on inanimate objects. By sending Bharata to a distant place, you made
 Dasaratha to have no affection towards him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1429,8 +1371,6 @@ joined Rama, Shatrughna joined Bharata."
 
 Comment: Sage Valmiki might be implying here that if Shatrughna were to be
 present then at Ayodhya, he would have tried for the prosperity of Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1478,8 +1418,6 @@ great danger; *ishhiikaabhiH sannikarshhaat* = by proximity to Ishhiika grass.
 "We hear that a tree marked down for felling by foresters, when covered by thorny
 Ishhiika grass, is saved from this great danger of cutting. So also, Dasaratha might have supported
 Bharata if he was staying near to him in Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1521,8 +1459,6 @@ Aswinis.
 
 "Lakshmana protects Rama. Rama protects Lakshmana. Their brotherly love is as famous
 as that of Aswini celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1570,8 +1506,6 @@ doubt.
 
 "Hence, Rama will not do a sinful act of killing Lakshmana. However there is no
 doubt that he will do so in the case of Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1619,8 +1553,6 @@ also.
 
 "Hence, I feel that it is better for your son to go to forest directly from his
 uncle's house. This is good for you too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1661,8 +1593,6 @@ chaiva* = and to your side of relatives; *evam chet* = if it happens thus.
 
 "If Bharata gets his father's kingdom as per law, it will be beneficial to you and
 your side of relatives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1705,8 +1635,6 @@ purpose; *jiivishhyati* = will live; *vashe* = under control;
 "Your youthful son, habituated to comforts, is a natural enemy to Rama. How can
 Bharata who failed to achieve his purpose live under control of Rama; whose flourishing object has
 been realised?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1747,8 +1675,6 @@ Bharata; *prachchhaadyamaanam* = who is being wrapped up; *raameNa* = by Rama;
 
 "Rama is chasing and bringing down Bharata as a lion chases an elephant-king in
 forest. You ought to protect Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1796,8 +1722,6 @@ for that animosity?
 
 "Previously, you treated Kausalya with disrespect due to arrogance that you were
 fortunate. Will not such Kausalya, your rival wife, revenge for that animosity?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1852,8 +1776,6 @@ shaila paattanaam* = holding great ocean; mountains and towns; *tadaa* = then;
 "O, Kaikeyi! The day Rama becomes lord of this earth with its great oceans,
 mountains and towns; that day you and your Bharata will get a bad and pitiable position of
 ignominy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 </details>
 
@@ -1912,8 +1834,6 @@ become; *dhruvam* = certainly; *praNashhTaH* = ruined; *ataH* = hence;
 
 "When Rama gets power of the kingdom Bharata will certainly get ruined. Hence, think
 of a solution to get your son Bharata the kingdom and to send Rama, your enemy, to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

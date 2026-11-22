@@ -18,8 +18,6 @@ ministers, Suka and Sarana to enter the enemy's army in disguise and to bring al
 information about them. When Suka and Sarana entered the enemy's ranks, Vibhishana recognises and
 captures them. But Rama sets them free. Going back to Ravana, they explain the might strength of
 the enemy's ranks and exhort him to restore Seetha to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ follows)
 
 While Rama, the son of Dasaratha, crossed the ocean along with his army, the
 illustrious Ravana spoke to Shuka and Sarana, his ministers as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ bridge; *saagare* = across the ocean (was done); *raameNa* = by Rama.
 
 "The entire army of monkeys crossed the impassable ocean. The construction of the
 bridge, unprecedented, across the ocean was executed by Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ _________________
 "I am not able to believe under any circumstances that a pass-way has been
 constructed across the ocean. Certainly, that army of monkeys is worth to be counted (carried
 weight) by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -265,8 +257,6 @@ of Rama and Sugreeva have come together, which monkeys are abiding in front, whi
 valiant, how that bridge was constructed across the ocean full of water, how the encamping is done
 for those great-souled monkeys; the determination, strength and the striking senses of Rama and of
 the heroic Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -282,8 +272,6 @@ the heroic Lakshmana."
 
 "Knowing also accurately who the Chief of Army of those high-souled monkeys is, you
 have to come back quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ the valiant; *raakSasau* = demons; *shukasaaraNau* = Shuka and Sarana;
 
 Having thus been commanded by Ravana, the valiant demons Shuka and Sarana , both in
 the disguise of monkeys, entered that army of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -376,8 +362,6 @@ and causing their hair to stand erect.
 
 Shuka and Sarana were not able to count then that inconeviable army of monkeys,
 causing their hair to stand on end.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -457,8 +441,6 @@ caves, on the sea-shores, in the woodlands and in the gardens. It was either in 
 crossing the ocean, or was intending to cross it in its entirety. It had either encamped or was
 still encamping, making a terrible noise. The two demons saw that very strong and imperturbable sea
 of army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -505,8 +487,6 @@ and Sarana; *aacacakSe* = and said; *raamaaya* = to Rama (as follows)
 
 Vibhishana with great splendour beheld both of them in disguise. He caught hold of
 Shuka and Sarana and told Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ miisters; *tasya raakSasendrasya* = of that Ravana; *samanupraaptau* = and came;
 
 "O, Rama the conqueror of hostile citadels! These two demons are Shuka and Sarana,
 the ministers of Ravana and they came here as spies from Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -602,8 +580,6 @@ frightened; *chedam* = and; *uuchatu* = spoke; *idam* = these;
 
 Both of them, having seen Rama, were trembled with fear, without any hope for their
 lives and having joined their palms, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -650,8 +626,6 @@ that; *sarvam* = entire; *balam* = army.
 
 "O, excellent man! O, Rama! We both of us, as sent by Ravana, came here together to
 know everything about your entire army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -699,8 +673,6 @@ following) words.
 
 Hearing their aforesaid words, Rama the son of Dasaratha who was interested in the
 welfare of all beings, smilingly spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -748,8 +720,6 @@ pratigamyataam = you may go back; *chandataH* = according to your own wish.
 "Has the entire army been observed by you? Have you observed us well? Have you
 accomplished the task, as entrusted to you? If so, you may go back now according to your free
 will."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -800,8 +770,6 @@ entirely.
 
 "Even if you have not seen something you may see it now also. Otherwise, Vibhishana
 will show it to you again entirely."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -849,8 +817,6 @@ killing.
 
 "You, having been caught, need not fear about your life. The captured messengers
 holding no weapons indeed deserve no killing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -897,8 +863,6 @@ holding no weapons indeed deserve no killing."
 
 "O, Vibhishana! Always try to draw a bow-string on the opponents and not on these
 two demons. Set them both, who are spies in disguise, free."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -949,8 +913,6 @@ words.
 
 "When you return to the city of Lanka, repeat my words faithfully to Ravana the
 younger half-brother of Kubera and the king of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -997,8 +959,6 @@ which you relied; *hR^itavaan asi* = when you were taking away; *siitaam* = Seet
 
 "That force on which you relied when you were taking away Seetha from me, display
 that force at your will along with your troops and allies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -1046,8 +1006,6 @@ its ramparts; *satoraNaam* = and arches; *balam* = (as well as) the army;
 
 "Tomorrow, at break of day, you will see my arrows demolish the city of Lanka with
 its ramparts and arches as well as the army of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -1095,8 +1053,6 @@ Indra the Lord of Celestials; *vajravaan* = wielding the thunder-bolt.
 
 "O, Ravana! Tomorrow, at break of day I will cast my dreadful anger on you and your
 army as Indra the Lord of celestials wielding a thunderbolt casts the thunderbolt on demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -1166,8 +1122,6 @@ Rama; *dharmavatsalam* = who was intent on righteousness; *aagamya* = reached;
 
 Receiving this command, the two demons, Shuka and Sarana, admiring his justice,
 cried out: "May you be victorious!", reached the city of Lanka and spoke to Ravana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -1224,8 +1178,6 @@ seeing.
 
 "O, king of demons! We were seized by Vibhishana with the intention of killing us.
 But, Rama, the pious minded wose valour is immeasurable, seeing us, set us free."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -1277,8 +1229,6 @@ valiant ones skilled in the use of weapons and of proven prowess namely Rama the
 the illustrious Lakshmana, the great resplendent Vibhishana and Sgreeva whose valour is equal to
 Indra the Lord of celestials, arestationed at the same place, they can pluck up the city of Lanka
 with its ramparts and arches and transplant it elswhere, even if all the monkeys keep aloof."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -1325,8 +1275,6 @@ that he can alone; *vadhiSyati* = overthrow; *laN^kaampurim* = the city of Lanka
 
 "Such is Rama's form and such are his weapons, that he can alone overthrow the city
 of Lanka, his three other companious standing by."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 </details>
 
@@ -1385,8 +1333,6 @@ protected by Rama and Lakshmana; *sugreeveNaca* = as well as by sugreeva; *babhu
 
 "That army protected by Rama and Lakshmana as well as Sugreeva, are exceedingly
 unconquerable even by all the gods and demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

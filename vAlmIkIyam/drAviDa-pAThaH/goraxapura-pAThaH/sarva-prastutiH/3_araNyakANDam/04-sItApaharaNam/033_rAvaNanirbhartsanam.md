@@ -26,8 +26,6 @@ This chapter vies with the 33rd chapter of Kishkindha Kanda in the attitudes of 
  here Ravana has none to come to his aid when chided by Shuurpanakha. Though Shuurpanakha
  is a sultry and harpy demoness, the Sage Valmiki has put some rational words on her tongue
  in forewarning Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ spoke.
 
 Then that doleful Shuurpanakha spoke these scornful words to Ravana who makes the world to wail in the
 presence of his ministers. [3-33-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -127,8 +123,6 @@ surfaced, calamitous, jeopardy; *na avabudhyase* = not, observant - as a king.
 
 "Highly infatuated with lustful gratifications you are incontinent and unchecked, thus you are unobservant
 of a calamitous jeopardy that has surfaced, though you ought to be observant of it as a king. [3-33-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -185,8 +179,6 @@ na gurur na bandhuH | kaama aaturaaNaam na bhayam na lajja | kShudha aaturaaNaam
 | vidya aaturaa Naam na sukham na nidraa -- niiti shaastra* 'for money-mongers no venerable
 ones, no relative... for lust-mongers no fear, no shame... for food-mongers no taste, no proper baking...
 for education-mongers, no comfort, no sleep...' morals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -243,8 +235,6 @@ a king weak in body, mind, and time. The timely actions he is supposed to take d
 mind is weakened and benumbed. Then he is liable to believe his aids that may precisely land him into
 further troubles. Hence a king / ruler has to take actions and decisions personally, on time, duly remaining
 firm by his body and mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -302,8 +292,6 @@ fellows because they narrate mythologies after every thing is ruined, as was don
 previous episode. There is none to caution him beforehand excepting herself, that is her confidence.
 So, she is haranguing Ravana to take immediate action, otherwise, there may be a mutiny or cold war
 in his kingdom, and his subjects may desert him during wartime, like Vibheeshana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -364,8 +352,6 @@ the in-built dangers."
 
 Ravana is no doubt mountainous in his wealth and prosperity but he is engulfed in the ocean called promiscuity,
 and as long as those waters of lust tiderip over his head he cannot surface himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -421,8 +407,6 @@ Your enmity with the sensible gods will make them sensitive to be vigilant. And 
 of intelligence or agents to you, added to it there is a lack of your own personal intelligence required
 for a king, and above all there is a lacking in the insistence of real kingship with you. Then, will
 not those gods take opportunity to hit you back, for everything is lacking in you, except lusting?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -469,8 +453,6 @@ tu na jaaniiSi* = knowable, but, not, knowing - because you are carefree; *katha
 
 "Your bent is boyish and you are mindless, oh, demon, you are not able to know the knowable danger because
 you are carefree, and how do you thrive as a king! [3-33-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -519,8 +501,6 @@ to - tantamount to.
 "Oh, so-called best one among triumphant kings, those kings that do not retain spies, treasuries and
 strategies under their control, but vouchsafe them to others, they are of a piece with the peasantry.
 [3-33-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -578,8 +558,6 @@ Though the spies bring in various pieces of information they are to be collated 
 king. *anena caareNa vyavahitaa api arthaa avashyam vicaaraNiiyaa iti suucitam - dk *
 'so you neither have those intelligent spies nor the least intelligence required of a 'prescient
 king' thus your doom is certain.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -631,8 +609,6 @@ with; *manye* = I believe; *[yaH* = which you]; *janasthaanam* = Janasthaana [ja
 "I believe that you have no spies worth their profession, yet you are associated with artless ministers
 worthy to worship you, hence you are incognisant of the ruination of all of your subjects in Janasthaana,
 including Janasthaana. [3-33-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -685,8 +661,6 @@ is also - killed.
 
 "A single soul called Rama has eliminated fourteen thousand demons of dreadful deeds in Janasthaana,
 even Duushana is killed, even Khara is also killed. [3-33-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -702,8 +676,6 @@ dharSitam ca* = Janasthaana, assailed - put to rout, also.
 
 "That indefatigable champion Rama gave security to the sages, rendered Dandaka forest safeguarded, and
 he put Janasthaana to rout. [3-33-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -751,8 +723,6 @@ utpannam* = rising up; *bhayam na avabudhyase* = calamity, not, perceptive of.
 "On your part you are but selfish, hotheaded, and others like the appeasers of your lust, or these artless
 ministers, or those underpaid unfaithful spies hold you down, and such as you are, you are unperceptive
 of the calamity rising up against you in your own kingdom. [3-33-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -801,8 +771,6 @@ to such a king.
 
 "Should a king be overweening, an under-payer, an improvident, self-conceited, and dubious, all his
 subjects bid goodbye to such a king when he is in strife. [3-33-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -850,8 +818,6 @@ such a man - here such a demon; *krodhinam* = a spitfire; *naraadhipam* = such a
 
 "Should a ruler be unduly self-conceited, self-centred, self-adulating and a spitfire too, his own kith
 and kin will ruin him when he is in distress. [3-33-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -903,8 +869,6 @@ bibheti ca* = in panicky [situations, who is] not, panicked, also; *kSipram raaj
 "That king who does not officiate his good offices, nor un-panicked into panicky situations, he will
 be quickly overthrown from his kingdom, and on becoming a debased individual he will be equated with
 a piece of straw in this world. [3-33-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -956,8 +920,6 @@ not, there they are of no avail.
 
 "Dried sticks, globs or the particles of dust are of some avail, but kings fallen from their position
 are of no avail. [3-33-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -1004,8 +966,6 @@ from kingdom, ousted - king; *samarthaH api* = formidable one, even if; *nir art
 
 "As to how a used up raiment or a crumpled flower-tassel is meaningless, likewise a king derelict from
 his kingdom, though functional, is meaningless. [3-33-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -1052,8 +1012,6 @@ king, for a long time, stays - survives.
 
 "Which king will be cautious, clever, conscientious, with his controlled senses, and thankful, that
 king survives for a long time. [3-33-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -1106,8 +1064,6 @@ people will highly revere him as a king.
 "He who keeps his mental eyes of wariness wakeful even though he sleeps fast closing his physical eyes,
 thus discarded are his fury and frenzy as well, because he knows as to who is to be treated furiously
 and who is to be favoured, and thus people will revere him as a judicious king. [3-33-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -1159,8 +1115,6 @@ art least thru spies it is not known to you.
 "But, oh, Ravana, because you are imprudent you are bereft of these merits, and such as you are, unknown
 is the very great massacre of demons to you, though not personally, but at least through your spies.
 [3-33-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -1228,8 +1182,6 @@ bhrSTo bhavati iti - raaj~naa baliSTena api shatru durbala iti avamatiH na karta
 dk* It is indicated that a king should
 be on his guard lest he will be overthrown, just because that king is associated with many un-kingly
 attitudes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 </details>
 
@@ -1289,8 +1241,6 @@ vi cintayaamaasa* = over a time, started to contemplate.
 In this way when Shuurpanakha extolled only his negative traits, he that lord of night-walkers Ravana,
 who holds only his pride, power and prosperity dear to him, pored them over in his mind and contemplated
 over a time. [3-33-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

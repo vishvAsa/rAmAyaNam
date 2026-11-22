@@ -16,8 +16,6 @@ title_english = "080 Construction of a high way from Ayodhya to River Ganga"
 The engineers construct a comfortably high-way from Ayodhya to the River Ganga, by
 clearing off shrubs and stones on the way and excellent wells were dug. Beautiful tents were also
 built on the path.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -92,8 +90,6 @@ for leveling purposes, those who were energetic courageous and attentive in doin
 excavators, mechanics, labourers, carpenters, road-menders, wood-cutters, hollow-makers, men
 skilled in plastering and white washing, basket makers, tanners and skilled supervisors of work
 sallied forth in advance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -141,8 +137,6 @@ moon.
 
 That mighty assembly of men gladly setting out to that forest was splendid like an
 ocean on the day of the full moon having a gigantic commotion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -192,8 +186,6 @@ kind; *samaasthaaya* = seeking the company; *svavaaram* = of their own proper pl
 
 Men skilled in making roads, furnished with tools of every kin, seeking the company
 of men of their own proper place, marched ahead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -242,8 +234,6 @@ creepers; *gulmaamshcha* = and shrubs; *sthaaNuun* = timber; *ashmana evacha*
 
 Clearing away rows of creepers and shrubs timber and big rocks as well as variours
 kinds of trees (which obstructed the way), they carved out a path.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -291,8 +281,6 @@ hatchests; *daatraiH cha* = and sickles.
 
 Some men planted trees in tree-less areas. Some others chopped the existing trees
 here and there by means of axes, hatchets and sickles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -345,8 +333,6 @@ tufts of Virana grass; *sthalaami* = and leveled; *durgaaNi* = the uneven places
 
 Some other strong men removed sturdy tufts of Virana grass and leveled the uneven
 places here and there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -363,8 +349,6 @@ around.
 
 Some others filled up wells and extensive pits with earth. Some men leveled
 low-lying places all around.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ smashed (the impediments); *bhedamiiyaan cha* = that could be smashed.
 Then, some men bridged the steams that could be bridged, pulverised the rocks that
 could be pulverised and smashed (the impediments that blocked the flow of water) those which could
 be smashed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -463,8 +445,6 @@ shape; *bahuudakaan* = with plenty of water; *saagara pratimaan* = resembling a 
 
 Many ponds, in various sizes and shapes containing plenty of water resembling seas
 were built (by constructing dams on rivulets).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -505,8 +485,6 @@ platforms.
 
 In water-scarce areas, excellent wells in various shapes were dug duly decorated all
 around with platforms (to rest).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -566,8 +544,6 @@ trees inlaid with cement, with flowering trees on both sides, inhabited with bir
 making their sounds, adorned with flags on its either side with its surface sprinkled with water of
 sandal-wood fragrance, and decorated with various kinds of flowers, looked very much splendid like
 the path of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -632,8 +608,6 @@ Those officers appointed for execution of the work, as ordered by Bharata,
 skillfully instructed their work-men and erected a tent which was intended for the great-souled
 Bharata, in a beautiful place abundant with tasty fruits. They further adorned profusely with
 decorations, the tent which itself resembled on ornament.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -680,8 +654,6 @@ and moments.
 
 The connoisseurs erected the tents of the high-souled Bharata at auspicious hours in
 days when the stars were propitious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -749,8 +721,6 @@ as resplendent as sapphires, their crowns of terrets, the ramparts covered with 
 then, the splendid banners, the skillfully laidout avenues, lofty mansions the tops of which were
 provided with dove-cots, which flew about as it were in the air and in splendour, resembled the
 capitals of Indra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 </details>
 
@@ -809,8 +779,6 @@ waters; *mahaamiinasamaakulaam* = abounding in great fish; *vividha drumakaanana
 
 The route thus prepared, extended upto the Ganga River, whose pure and limpid
 waters, abounding in great fish, flowed between woods and forests of every kind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -829,8 +797,6 @@ procession of stars.
 That beautiful royal high way, which was built gradually by efficient engineers,
 appeared as resplendent as a night in a clear sky, illumined by the moon with its procession of
 stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -20,8 +20,6 @@ universe as in Trishanku's episode, he even accords longevity, or even deathless
 to mortals by his ascetic power. Such as he is, he is the mentor of Rama, and hence
 Sage Shataananda informs Rama about the capabilities of his own mentor, Vishvamitra,
 in these many episodes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ Ambariisha; *shunaHshepam gR^ihiitvaa* = on taking Shunashepa; *madhyaahne
 that highly renowned king Ambariisha took rest at noontime on the lakeside of Holy
 Lake." Thus Sage Shataananda continued the legend of Shunashepa, as a part of Vishvamitra's
 legend. [1-62-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -133,8 +129,6 @@ While the king Ambariisha is taking rest that highly brilliant Shunashepa came
 to the lakeside of main Holy Lake with high anxiety, and there he indeed saw his
 maternal uncle Sage Vishvamitra who is performing ascesis along with other sages.
 [1-62-2, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -152,8 +146,6 @@ fell down in saint Vishvamitra's flank [lap] ; *idam vaakyam uvaaca ha*
 Shunashepa became pitiable and sulky faced by strain and thirst, oh, Rama, and
 he immediately fell in the lap of saint Vishvamitra saying this sentence. [1-62-3b,
 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -195,8 +187,6 @@ kutaH* = wherefore cousins and relatives; *maam dharmeNa traatum arhasi*
 I have no mother or a father to save me. Then wherefore cousins or relatives
 will be there to protect me. Oh, peaceable saint the eminent, it will be apt of
 you to protect me according to saintliness. [1-62-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -246,8 +236,6 @@ it! You alone are the guardian angel, isn't it! Hence, let the purpose of the ki
 Ambariisha be achieved, and let longevity come to me, and I on becoming imperishable
 and indeed on performing an unexcelled ascesis, I wish to enjoy in heavenly worlds.
 [1-62-5b, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -294,8 +282,6 @@ sentiment, indeed; *naathaH bhava* = you become [my] providence; *dharmaaatman*
 and oh, virtue souled one, it will be apt of you to protect me from misfortune,
 like a father protecting his own son.' Thus Shunashepa appealed to Vishvamitra.
 [1-62-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -336,8 +322,6 @@ uvaaca ha* = said this to [his] sons, indeed.
 
 On hearing that sentence of Shunashepa and on pacifying him in many ways, Vishvamitra
 of higher ascesis, indeed said this to his sons. [1-62-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -388,8 +372,6 @@ to the society in the present world and when departed a right place is acquired
 in heavens through these sons, by their yearly death-day rituals etc., and hence
 you do some good in saving this boy from premature death and earn an apt place for
 me in heavens...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -430,8 +412,6 @@ sons; *asya* = to him; *jiivitamaatreNa* = just [by giving] life;
 
 This youngster is the son of sage and he aspires shelter from me. Hence, oh,
 sons, give him satisfaction just by giving life to him. [1-62-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -473,8 +453,6 @@ deeds; *sarve dharmaparaayaNaaH* = you all, have abidance in probity;
 You all have done very good pious deeds and you all abide by probity. Hence,
 you bestow appeasement to Fire-god on your becoming the ritual-animals of king Ambariisha
 in lieu of this boy Shunashepa. [1-62-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -522,8 +500,6 @@ in lieu of this boy Shunashepa. [1-62-11]
 'As a result, Shunashepa will have protectors, Vedic-ritual will be unimpeded,
 gods will be oblated, and my word too will be actualised.' Thus Vishvamitra said
 to his sons. [1-62-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -570,8 +546,6 @@ haughtiness; *saliilam* = with disparage; *idam abruvan* = said this.
 
 But on hearing the saying of the sage, oh, Rama, the best of men, Madhushyanda
 and the other sons of Vishvamitra said this, haughtily and disparagingly. [1-62-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -621,8 +595,6 @@ There is a parable in Maha Bharata that Vishvamitra once tried to eat dog's meat
 when he did not get any food, but caught red-handedly. Later this has become the
 curse-theme to Vishvamitra when he cursed Vashishta's sons. At the present juncture
 also he curses his own sons with the same theme.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -662,8 +634,6 @@ shrutvaa* = on listening that saying of their sons; *krodhasamraktanayanaH*
 
 On listening that saying of his sons that eminent sage Vishvamitra started to curse
 them while fury reddened his eyes. [1-62-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -710,8 +680,6 @@ hair-raising; *idam* = this - in this way; *niHsaadhvasam* = impudently;
 You all have not only transgressed my word, but pertly replied me in an impudent
 manner which is abhorrent and hair-raising, and recriminatory according to probity.
 [1-62-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -728,8 +696,6 @@ like; *jaatiSu* = in race of [Mustika-s]; *anuvatsyatha* = whirl around.
 'You all will be whirling around the earth totally for a thousand years taking
 birth in the race that subsists on dog's meat, like the sons of Vashishta.' Thus
 Vishvamitra cursed his sons. [1-62-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -776,8 +742,6 @@ Vishvamitra cursed his sons. [1-62-17]
 
 On making his sons bounden by curse, then that best saint spoke to the pitiable
 Shunashepa, on making unharmed invulnerability to him with sanctifying hymns. [1-62-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -830,8 +794,6 @@ him] Fire-god.
 When you are fastened with sacred fastener to the sacrificial post of Vishnu,
 smeared with red paste and garlanded with red garlands, you praisefully address
 the Fire-god with the words I going to impart to you in Vedic hymns. [1-62-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -848,8 +810,6 @@ avaapsyasi* = then, you will obtain aspiration.
 'These two divine hymns, oh, son of saint, shall be chanted in the Vedic-ritual
 of Ambariisha, then you will obtain your aspiration.' Thus Vishvamitra taught two
 Vedic hymns to the boy. [1-62-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -894,8 +854,6 @@ indeed.
 
 Shunashepa having taken those two hymns from Vishvamitra very attentively has instantly
 gone to that lion-king Ambariisha and indeed spoke to him. [1-62-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -940,8 +898,6 @@ _________________
 'Oh, the lion-king, let us go promptly to your ritual place, oh, best king, you
 may apply yourself to your pledge in completing the ritual, with me as its sacrificial
 animal,' thus the boy said. [1-62-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -983,8 +939,6 @@ proceeded.
 
 On listening that sentence of the son of sage, the king Ambariisha is gladdened
 and proceeded to the ritual hall immediately and spiritedly. [1-62-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -1028,8 +982,6 @@ post.
 The king with the permission of officiators of ritual got the boy prepared as a
 ritual animal with sanctified bodily features and clad him in red clothes and got
 him securely fastened to the sacrificial post. [1-62-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -1074,8 +1026,6 @@ ones; *vaagbhiH* = with words [two hymns]; *yathaavat* = as per [scriptures];
 
 When Shunashepa is tied to ritual post he immensely pleased two gods, namely Indra
 and Upendra as well, with those two hymns he got from Vishvamitra. [1-62-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -1122,8 +1072,6 @@ god Indra; *priitaH* = is gladdened; *tadaa* = then; *shunaHshepaaya*
 
 Then the Thousand-eyed Indra who is satisfied with esoteric laudation is gladdened,
 and oh, Raghava, then he bestowed longevity to Shunashepa. [1-62-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -1165,8 +1113,6 @@ yaj~nasya phalam ca samaaptavaan* = also, well obtained fruit of Vedic-ritual.
 Oh, Rama, the best one among men, he that king Ambariisha also obtained the fruits
 of that Vedic-ritual in manyfold, resulted from the grace of Thousand-eyed Indra.
 [1-62-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 </details>
 
@@ -1208,8 +1154,6 @@ ca* = ten hundred years, also; *bhuuyaH tepe* = again, performed ascesis.
 "Oh, Rama, the best among men, even the virtue-souled great ascetic Vishvamitra
 again performed ascesis at the same Holy lakeside for another thousand years." Thus
 Sage Shataananda continued the narration of Vishvamitra's legend. [1-62-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

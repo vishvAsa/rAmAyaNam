@@ -17,8 +17,6 @@ title_english = "022 Ravana gives deadline"
 
 Ravana gives Seetha two months to marry hm. He orders ogres to frighten Seetha and bring Her to
 his control. Ravana then goes back to his own house with his consorts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ are seen to be pleasant.
 
 Ravana listening to Seetha's words which were harsh thereafter replied to Seetha unpleasant words
 which are seen to be pleasant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ words; *tathaa tathaa* = in that way; *paribhuutaH* = they will be rejected.
 
 "In whatever way gentle language is used to women in that way they will be under control. In whatever
 way men speak dear words, in that way they will be rejected."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ up; *saMniyachchhati* = is subdueing; *krodham* = anger;hayaniva = like horses; 
 
 "In your matter desire which has risen up is subdueing my anger like horses running obtaining a
 bad path being subdued by a good charioteer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ bad path being subdued by a good charioteer."
 
 "Desire of men is unfavourable. In which man desire is tied up, in that man there is compassion
 and fondness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ sham exile; *na ghaatayaami* = I am not killing you.
 
 "O one with a beautiful face! For this reason although you are suitable to be killed and suitable
 to be humilaited, interested in Rama who is in sham exile, I am not killing you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -307,8 +295,6 @@ slaying; *yuktaH* = is suitable;
 
 "O Seetha! Here whatever harsh words you are speaking about me, because of those words, you are
 suitable to be horribly slayed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -354,8 +340,6 @@ suitable to be horribly slayed."
 
 The king of ogres Ravana speaking thus to Seetha, full of anger and fury spoke subsequent word
 to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -396,8 +380,6 @@ thereafter; *aaroha* = ascend; *mama shayanam* = my bed.
 
 "O Seetha with best complexion! Whatever limit has been made by me to you, those two months are
 protectable to me. Thereafter ascend my bed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -446,8 +428,6 @@ _________________
 **अनुवादः**
 
 "Above two months you not desiring me as husband will be killed in my kitched for my breakfast."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -490,8 +470,6 @@ Deva and Gandharva maidens; *vishheduH* = grieved; *vikR^itekshaNaaH* = with tro
 
 Seeing Seetha being frightened by Ravana those Deva and Gandharva maidens grieved with troubled
 eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -540,8 +518,6 @@ in the like manner; *aparaaH* = some (others); *vaktranetraiH* = with faces and 
 
 Some in the way of lips and in like manner some others with faces and eyes consoled that Seetha
 frightened by that ogre.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -584,8 +560,6 @@ _________________
 
 Consoled by them Seetha proud of virtuous conduct spoke words beneficial to self to the king of
 ogres Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -629,8 +603,6 @@ nuunam = this is definite.
 
 "Whoever prevents you from these actions which are blameable, such a person interested in your
 welfare there is none. This is definite."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -674,8 +646,6 @@ _________________
 
 "In all the three worlds except you who even by heart will desire me who am the wife of virtuous
 Rama like Sachi the wife of Indra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -716,8 +686,6 @@ respendent Rama; *tasya* = from that word; *kva* = where; *gataH* = will you go;
 
 "O vile ogre! Whatever sinful word you spoke to me who is the wife of the great resplendent Rama,
 from that word where will you go to be released?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -761,8 +729,6 @@ one! raamaH = Rama; *dviradavat* = is like an elephant; *tvam* = you; *smR^itaH*
 
 "Like an elephant in rut and a hare at war in the forest, in the same way O vile one! Rama is like
 an elephant and you are said to be like a hare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -805,8 +771,6 @@ kshipan* = abusing; *ikshvaakunaatham* = the lord of Ikshvaku dynasty Rama; *na 
 
 "Such you are not shameful abusing the lord of Ikshvaku dynasty Rama. You are not getting Rama's
 matter so much."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -856,8 +820,6 @@ patite* = are (they) not falling down.
 
 "O ignoble one! your these eyes which are cruel, crooked, which are black and reddish brown, which
 are seeing me, for what reason are they not falling down."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -900,8 +862,6 @@ wife; *dharmaatmanaH tasya* = of virtuous Rama; *snushhaam cha* = and the daught
 
 "Thus speaking about me who am the wife of virtuous Rama and the daughter-in-law of Dasaratha how
 your tongue did not fall off."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -948,8 +908,6 @@ be burnt into ashes; *asaMdeshaat* = not having mandate; *raamasya* = of Rama; *
 
 "O Ravana! Although you are suited to be burnt into ashes, not having the mandate of Rama and preserving
 austerity, I am not reducing you into ashes with my glory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -996,8 +954,6 @@ in this; *na saMshayaH* = there is no doubt.
 
 "Wise Rama's I am not capable of being abducted by you. This act has been made for your slaying.
 In this there is no doubt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1047,8 +1003,6 @@ _________________
 
 "By you who is strong, brother of Kubera possessed of army, removing Rama for what reason abduction
 of wife has been done."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1093,8 +1047,6 @@ of wife has been done."
 **अनुवादः**
 
 King of rakshasas Ravana listening to Seetha's words turned around his cruel eyes and saw Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1175,8 +1127,6 @@ _________________
 
 He was tall with moving front portion of crown, with excellent garlands and anointments, wearing
 red garlands and clothes, with ornaments made of refined gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1190,8 +1140,6 @@ red garlands and clothes, with ornaments made of refined gold.
 **अनुवादः**
 
 Like Mount Mandara tied by Vasuki for producing nectar, Ravana was well tied by a black big thread.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1231,8 +1179,6 @@ Like Mount Mandara tied by Vasuki for producing nectar, Ravana was well tied by 
 
 Ravana was qual to a black cloud, with big shoulders and neck with the strength and gait of a lion,
 glorious with radiant tip of tongue and eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1247,8 +1193,6 @@ shoulders; *mandaraH i va* = like Mount Mandara; *shR^iN^gaabhyaam* = with its p
 
 Equalling a mountain the king of ogres shone with those perfect shoulders like Mount Mandara with
 its peaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1288,8 +1232,6 @@ its peaks.
 
 With the color of just risen sun, decorated by earrings, he was like a mountain with Ashoka trees
 with red flowers and shoots.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1331,8 +1273,6 @@ mound in a grave-yard; *bhayankaraH* = was horrible; *bhuushhito api* = even tho
 
 Equalling a Kalpavriksha he was like the embodiment of spring season. Like a funeral mound in a
 grave-yard was horrible even though decorated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
 </details>
@@ -1372,8 +1312,6 @@ iva* = like a serpant; *uvaacha* = spoke; *siitaam* = to Seetha.
 **अनुवादः**
 
 With red eyes due to anger Ravana was looking at Seetha sighing like a serpant and spoke to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1414,8 +1352,6 @@ twilight; *ojasaa* = with light.
 
 O foloower of Rama posessing bad conduct, without wealth! Now I will destroy you like sun destroying
 morning twilight with light.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1465,8 +1401,6 @@ thereafter; *sandidesha* = ordered; *sarvaaH* = all; *raakshasiiH* = ogre women;
 
 The king Ravana who causes enemies to cry thus speaking to Seetha, thereafter ordered all ogre
 women with horrible appearances.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1559,8 +1493,6 @@ of an elephant and one with the feet of a horse, one with feet of a cow,one with
 eye and one with a single foot, one with big feet, one without feet, one with a big head and neck,one with big
 breasts and stomach, and one with big mouth and eyes, one with a long tongue, one without tongue, one without
 nose, one with the face of a lion, one with the face of a cow,one with the face of a pig.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1581,8 +1513,6 @@ task).
 
 "O ogres! How the daughter of Janaka, Seetha becomes under my control quickly, thus all of you
 together do that task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1597,8 +1527,6 @@ of punishment; *avarjayata* = bring under possession; *vaidehiim* = Seetha.
 
 "With hostile and favourable tasks, with kind words, with gifts and dividing words and exertion
 of punishment, bring Seetha under my possession."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1668,8 +1596,6 @@ _________________
 **अनुवादः**
 
 Thereafter an ogre named Dhanyamalini quickly neared Ravana, embraced him and spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1705,8 +1631,6 @@ maanushhyaa* = and a wreched human;
 
 "O king! Sport with me. O lord of ogres! Of what use to you is this Seetha who is colorless and
 a wreched human."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1751,8 +1675,6 @@ _________________
 
 "O king! Lord Barhma did not assign to Her wonderful best luxuries earned by the might of your
 arms. This is definite."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1796,8 +1718,6 @@ desires (him).
 
 "The body of one who desires a woman without desire suffers pain. Good happiness will occur to
 one who loves a woman who desires him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1836,8 +1756,6 @@ one who loves a woman who desires him."
 **अनुवादः**
 
 Ravana thus ordered again and again with a mind full of lust and anger frightened Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1853,8 +1771,6 @@ equalling a cloud; *tataH* = thereafter; *samutkkshipataH* = being taken away; *
 
 Thus spoken to by that ogre that Ravana who was strong equalling a cloud, thereafter being taken
 away turned back laughing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1903,8 +1819,6 @@ _________________
 
 That Ravana departing was as though shaking the earth and entered his house with the lustre of
 blazing sun shine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -1954,8 +1868,6 @@ directions; *vivishuH* = entered; *tam* = that; *gR^ihottamam* = best among hous
 
 Deva and Gandharva maidens and Naga maidens surrounding Ravana in all directions entered that best
 among houses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 </details>
 
@@ -2015,8 +1927,6 @@ veshmaiva* = house; *bhaasvaram* = which was shining.
 
 That Ravana frightening Seetha who was steadfastly intent on virtue and who was shaking, leaving
 Seetha, infatuated by love, entered his own house which was shining.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

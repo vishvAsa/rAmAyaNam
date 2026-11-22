@@ -15,8 +15,6 @@ title_english = "012 Hanuma s depression"
 
 In this chapter Hanuma gets discouraging thoughts about Seetha. He thinks that Seetha might be
 dead. He thus gets into depression for a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -81,8 +79,6 @@ _________________
 
 That Hanuma interested in sight of Seetha, in the middle of that building, went towards houses
 made of plant creepers, art houses, and nocturnal houses but did not see Her with a beautiful appearance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -137,8 +133,6 @@ made of plant creepers, art houses, and nocturnal houses but did not see Her wit
 
 That great Hanuma then later not seeing that Seetha dear to Rama thought thus: "to me searching
 Seetha in whatever way appearance not being obtained, from that Seetha definitely has died."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -198,8 +192,6 @@ certain.
 
 "That Seetha standing in the best traditional path being chaste interested, in preserving her character
 must have been killed by the king of these Rakshasas who performed evil deeds - this is certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -259,8 +251,6 @@ long and crooked eyes.
 
 "That daughter of King Janaka died of fear seeing the wives of Ravana with crooked appearances
 - horrible ones without radiance with great faces with long and crooked eyes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -315,8 +305,6 @@ is no path; *sugriiva samiipagaa* = to go near Sugreeva; *vaanaraH* = Sugreeva; 
 
 "Without seeing Seetha, not obtaining destiny and wandering for a long time together with Vanaras,
 to me there is not a path to go near Sugreeva. Sugreeva has a sharp punishment and also is strong."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -364,8 +352,6 @@ chaste; *siitaa* = Seetha; *na dR^ishyate* = has not been seen; *mama shramaH* =
 
 "All inner city has been seen. Women of Ravana have been seen. The chaste Seetha has not been seen.
 My effort became wastefull."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -406,8 +392,6 @@ been done; *tvayaa* = by you; *tat vadasva* = tell that; *naH* = to us.
 
 "To me who has gone back all Vanaras after meeting what they would say? O strong one! Going there,
 what has been done by you? Tell that to us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -457,8 +441,6 @@ kim* = what; *pravakshyaami* = can I say; *vyativartane* = due to passing; *kaal
 
 "Without seeing that Seetha what can I say? Due to passing of time, definitely they will obtain
 fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -506,8 +488,6 @@ fire."
 
 "To me who had gone for the other shore of the ocean what will the old Jambavan say? What would
 that Angada and vanaras who meet say?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ that Angada and vanaras who meet say?"
 
 "Non-depression is root of development. Absence of despondency is the greatest comfort. Self reliance
 always is indeed the promoter in all matters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -610,8 +588,6 @@ prayatnam* = a best effort; *anirvedakR^itam* = together with non-depression; *v
 "Whatever action a human does that action of man is made to be successful by non-depression. For
 that reason I will perform a best effort together with non-depression. I will search all those regions ruled by
 Ravana not yet seen."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -682,8 +658,6 @@ vichitaaH* = have been searched; *bhuuyaH* = again; *kriiDaagR^ihaanicha* = plea
 
 "Bars have been searched; in the same way flower houses, art houses have been searched; again pleasure
 houses, pathways in the middle of gardens, buildings in all directions have been searched."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -699,8 +673,6 @@ also small houses faraway from the main houses.
 
 Thus thinking Hanuma began to search again undergrounds, houses at the beginning of street intersections
 and also small houses faraway from the main houses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -793,8 +765,6 @@ na vidhyate* = was not there; *chaturaN^guLa maatro.api* = even for four angulas
 
 That Hanuma in that city of Ravana - whatever region he did not go that region was not there even
 for four angulas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -845,8 +815,6 @@ down; *utpatan api* = climbing up; *vichachaara* = wandered; *sarvam avakaasam* 
 
 The great Hanuma flying again and again and jumping down, standing up, walking, opening doors,
 pushing doors and entering inside, coming out, climbing down, climbing up wandered all opportunity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -862,8 +830,6 @@ pushing doors and entering inside, coming out, climbing down, climbing up wander
 
 Streets between fort walls, platforms together with the intersection of four streets, wells, lakes
 all these had been seen by him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -913,8 +879,6 @@ _________________
 
 Rakshasa women of various forms, with crooked forms and horrific forms had been seen there by Hanuma
 but not that Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -963,8 +927,6 @@ Seetha.
 
 The best Vidhyadhara women incomparable by beauty in the world had been seen there by Hanuma, but
 not Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -1012,8 +974,6 @@ puurNachandra nibhaananaaH* = with faces equaling full moon; *dR^ishhTaaH* = had
 
 Naaga women with beautiful buttocks, with faces equaling full moon had been seen by Hanuma there,
 but not Seetha with a beautiful waist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -1062,8 +1022,6 @@ that Seetha.
 
 Naaga women who had been stolen forcefully, being defeated by Ravana had been seen there by Hanuma,
 not that Seetha
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -1111,8 +1069,6 @@ Seetha; *pasyan* = seeing; *anyaaH* = other; *varastriyaH* = best women; *vishha
 
 That Hanuma with great arms, the wise one, the son of Vayu not seeing that Seetha and seeing other
 women became depressed again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 </details>
 
@@ -1192,8 +1148,6 @@ _________________
 
 Seeing the effort of the best Vanaras and the crossing of ocean as being wasted, Hanuma got depression
 again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1208,8 +1162,6 @@ again.
 
 Thereafter the son of Vayu Hanuma got down from Pushpaka, obtained thought with a mind overcome
 with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

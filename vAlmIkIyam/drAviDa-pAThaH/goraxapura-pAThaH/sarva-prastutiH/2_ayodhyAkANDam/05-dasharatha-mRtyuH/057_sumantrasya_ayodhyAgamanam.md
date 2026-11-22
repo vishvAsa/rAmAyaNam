@@ -18,8 +18,6 @@ Chitrakuta. Sumantra drives back to Ayodhya. Entering the royal gynaeceum, he su
 emperor what he earlier reported to the citizens who followed his chariot. Dasaratha and Kausalya
 fall into a faint to hear about Rama's departure for Chitrakuta. All the inmates of gynaeceum weep
 loudly in anguish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ distress; *jagaama* = went; *svagR^iham* = to his house.
 
 While Rama landed upon the southern shore, Guha conversed for a long time with
 Sumantra and with much distress, went to his house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ Prayaga; *gamanam* = and about their going; *agire* = to Chitrakuta mountain.
 It was gathered by those who were there (Guha and others) about Seetha, Rama and
 Lakshmana coming to sage Bharadwaja, their staying with him in Prayaga and their departure to
 Chitrakuta Mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ rode towards; *ayodhyaam nagariim eva* = the very city of Ayodhya.
 
 Sumantra, being allowed to depart by Rama, tied excellent horses to the chariot and
 with intense anguish, rode towards the very city of Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ shiighram = quickly.
 
 Sumantra, seeing the sweet-smelling woods, rivers, lakes, villages and towns on the
 way, soon crossed them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ ahani* = of the third day; *saarathiH* = the charioteer; *dadarsha ha* = saw
 
 Reaching Ayodhya in the evening time of the third day Sumantra saw that city,
 joyless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ afflicted with intense anguish; *chintayaamaasa* = surmised (as follows).
 
 Beholding Ayodhya as if deserted in silence, Sumantra becoming very much distressed
 in mind and having afflicted with intense anguish, surmised as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ grief towards Rama; *shoka agninaa* = and the fire of sorrow?
 
 "I hope the city of Ayodhya with its elephants, horses, people and the kings was not
 burnt away by a fire of sorrow and blazing grief towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -411,8 +395,6 @@ paraH* = lost in thought; *aasaadya* = reaching; *nagaradvaaram* = the city-gate
 
 Sumantra, thus lost in thought, reaching the city-gate through the fast-running
 horses, entered the city quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -460,8 +442,6 @@ thus; *kva* = where is; *raamaH* = Rama?
 
 Meanwhile, seeing Sumantra the charioteer approaching, hundreds and thousands of
 people ran towards him asking, "Where is Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -515,8 +495,6 @@ virtuous; *mahaatmanaH* = and high-souled Rama; *aham* = I; *nivR^ittaH asmi*
 
 He replied them thus: "Bidding farewell to Rama at the shore of Ganga when sent back
 by that virtuous and high-souled Rama, I returned here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -533,8 +511,6 @@ aloud; *haa raama iti* = thus = "Alas! Rama!
 
 Hearing that Seetha, Rama and Lakshmana had crossed River Ganga, the people with
 their faces filled with tears sighed, "Oh, fie upon us! And cried aloud, "Alas, Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -582,8 +558,6 @@ here!
 
 Sumantra also heard the words of those people standing in groups and telling, "Lost
 indeed are we, who do not see Rama here!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -630,8 +604,6 @@ marriages; *mahatsu* = large; *samaajeshhu cha* = meetings.
 
 "Never again can we see the pious Rama on the occasions of bestowing gifts,
 sacrificial performances or marriages or in large meetings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -679,8 +651,6 @@ people; *kim* = what was; *priyam* = congenial; *kim* = what;
 
 The city of Ayodhya was protected by Rama, as by a father, with due regard to what
 was appropriate, what was congenial and what brought happiness to its people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -730,8 +700,6 @@ abhitaptaanaam* = consumed by anguish on account of Rama's exile.
 
 While driving through bazaars, Sumantra heard the sounds of lamentation of women,
 coming forth from windows, consumed by anguish on account of Rama's exile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -778,8 +746,6 @@ covering his face; *upayayau* = reached; *tat* = that; *gR^iham eva* = house;
 
 Going through the middle of the royal highway, Sumantra by covering his face,
 reached the house of Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -827,8 +793,6 @@ large number of people.
 
 Sumantra descended from the chariot, entered quickly the royal palace and traversed
 the seven inner apartments of the palace, filled with a large number of people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -877,8 +841,6 @@ the seven inner apartments of the palace, filled with a large number of people.
 Then, finding the forthcoming Sumantra from their large mansions, from seven-storied
 buildings and from royal palaces, the women who had been emaciated in not being able to see Rama,
 cried "Alas! Alas".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -925,8 +887,6 @@ other; *avyaktam* = imperceptibly.
 
 Those women, extremely confounded with grief with their long and bright eyes filled
 with a stream of tears, looked at each other imperceptibly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -974,8 +934,6 @@ apartments.
 
 Sumantra also heard the feeble conversation of Dasaratha's wives absorbed in anguish
 on account of Rama's exile, from their respective inner apartments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1022,8 +980,6 @@ lamenting; *niryaataH* = (when he) went out; *raameNa saha* = with Rama;
 
 "What Sumantra will reply to the lamenting Kausalya, when he now returns here
 without Rama while he formerly went out with Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1071,8 +1027,6 @@ surely; *na* = it is not; *sukaram* = easy; *evam* = thus;
 
 "In spite of her son (Rama) having left Ayodhya, Kausalya continues to survive. I
 think that surely it is difficult thus to live and it is not so easy to preserve it too!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1127,8 +1081,6 @@ house; *pradiiptim iva* = appeared like burning; *shokena* = with grief.
 
 Hearing those credible words of Dasaratha's wives, Sumantra all at once entered the
 house, that appeared to be set ablaze with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1151,8 +1103,6 @@ house, that appeared to be set ablaze with grief.
 Sumantra entered the eighth inner apartment and saw in that white house, King
 Dasaratha the miserable the sick and the exhausted man on account of the exhausted man on account
 of the grief for his son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1199,8 +1149,6 @@ message; *yathoktam* = as told.
 
 Sumantra approached that king who was seated, offered his salutation and presented
 Rama's message as told.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1250,8 +1198,6 @@ afflicted by grief for his son; *muurchitaH* = became fainted; *nyapatat* = and 
 
 That king heard silently the message of Rama, was bewildered, afflicted by grief,
 for his son, became fainted and fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1302,8 +1248,6 @@ the ground; *chukrosha* = (the inmates of gynaeceum) wept; *uddhR^itya* = raisin
 
 The king thus having fainted, the gynaeceum was hurt. While the king was falling on
 the ground, the inmates of gynaeceum wept, raising their hands in distress.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1350,8 +1294,6 @@ spoke; *idam* = these; *vachanam* = words.
 
 Kausalya along with Sumitra lifted up their husband, who fell on the ground.
 Kausalya also spoke these words to Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1398,8 +1340,6 @@ things?
 
 "Oh, illustrious king! Why are you not speaking to this Rama's messenger who came
 from the forest and who has done difficult things?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1447,8 +1387,6 @@ obtained; *shoke* = in grief.
 
 "Oh, Dasaratha! After doing an evil act, you are now feeling shameful. Rise up! Let
 it be a meritorious act for you. You cannot get a help, when you weep like this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1495,8 +1433,6 @@ it be a meritorious act for you. You cannot get a help, when you weep like this.
 
 "Oh, king! On whose fear, you are not enquiring with Sumantra about the welfare of
 Rama, that Kaikeyi is not here. Speak fearlessly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1543,8 +1479,6 @@ uttered; *uktvaa* = uttered; *tathaa* = thus; *mahaa raajam* = to the monarch;
 
 Kausalya, speaking excitedly in tears and entirely given up to anguish uttered thus
 to the monarch and soon fell to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1592,8 +1526,6 @@ to the monarch and soon fell to the ground.
 
 All those women cried in loud voice, seeing Kausalya fallen on the ground weeping as
 aforesaid and gazing their husband too (lying unconscious).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 </details>
 
@@ -1648,8 +1580,6 @@ cha* = the women; *samantataH* = on all sides; *ruruduH* = cried; *tadaa*
 
 Hearing that crying sound raised in gynaeceum, all aged and young men and women on
 all sides gathered around weeping. The city then again became disturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

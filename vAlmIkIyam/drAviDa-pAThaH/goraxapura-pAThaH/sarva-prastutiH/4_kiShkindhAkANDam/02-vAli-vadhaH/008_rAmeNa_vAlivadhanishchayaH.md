@@ -17,8 +17,6 @@ IV : Kishkindha Kanda - The Empire of Holy Monkeys**
 Sugreeva gives a report to Rama about his plight for fear of Vali, who made his own
 brother an enemy and abducted Sugreeva's wife. Rama asks Sugreeva to inform him about the real
 cause of enmity, so that he can decide correctly. Sugreeva narrates his woeful condition.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ gladdened; *parituSTaH tu* = satisfied; *shuuram* = to that valiant one, Rama;
 
 Sugreeva is gladdened and satisfied too by that sentence, and said this sentence to
 Lakshmana's elder brother, Rama the valiant one. [4-8-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ anugraahyaH* = to gods [also]; worthy to be blessed; *na samshayaH* = no, doubt.
 
 "When you wth all kinds of endowment and good virtues are my friend, doubtlessly I
 am worthy to be blessed by all gods in everyway. [4-8-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ achieve, possible, it will be; *sva raajyam kim utaH prabho* = one's own, why te
 
 "Oh, merited one, with your help it will be possible to achieve kingdom of gods, oh,
 lord, then why tell about one's own kingdom... [4-8-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ among, relatives; *ca iva* = also, like that; *su hR^idaam* = kind-hearted frien
 "He who has gained the one born in Raghava-s dynasty as friend, to which sacred fire
 bore the witness, such a being like me is estimable among his relative, more so among his
 kind-hearted friends... [4-8-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ capable [inexpedient.]
 
 "Even though I am a matching friend to you, that you will know soon, it will be
 inexpedient of myself to talk about my inherent capabilities. [4-8-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -317,8 +305,6 @@ one.]
 
 "Great souls of your kind, whose hearts are purified like yours, oh, amiable Rama,
 their friendship and courage will generally be stable. [4-8-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -368,8 +354,6 @@ souls; *avagachanti* = will be knowing.
 
 "Gentle souls will be knowing that silver or gold, or even prosperous ornaments are
 not to be apportioned among themselves as this is mine and that is yours. [4-8-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -416,8 +400,6 @@ ca* = without flaw, or; *sa doshaH vaa* = with flaw, or; *vayasyaH* = friend is;
 
 "May he be rich or poor, saddened or gladdened, flawless or flawed, a friend is the
 ultimate recourse to any. [4-8-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ arthe* = for friend's, sake; *dhana tyaagaH* = wealth, devoting; *sukha tyaagaH*
 "On observing the course of friendship and knowing which is true friendship, the
 true friends do not hesitate to extend wealth, pleasure or even their own country for the sake of
 friendship." Sugreeva thus extolled Rama and his friendship. [4-8-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ that way, only, [thus] said Rama.
 "That is thus only," said Rama before Lakshmana, which Lakshmana is sagacious,
 resplendent and who vies with Indra, about what is said by Sugreeva, which Sugreeva is by now
 soft-natured in his looks, doffing off his jittery look. [4-8-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -567,8 +545,6 @@ around; *vane* = in forest; *apaatayat* = thrown [he cast sight.]
 
 Then on seeing Rama standing there with greatly mighty Lakshmana, Sugreeva cast his
 sight with his bolting eyes around that forest. [4-8-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -615,8 +591,6 @@ bedecked; *saalam* = sala tree; *dadarsha* = has seen.
 
 He that lord of monkeys Sugreeva has then seen a well flowered sala tree not far off
 from there, covered with some leaves and bedecked with honeybees. [4-8-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -666,8 +640,6 @@ Rama, spread out; *saH raaghavaH* = with Raghava; *niSasaada* = sat on it.
 
 And Sugreeva broke off one branch of that sala tree that is with many leaves and a
 well charming one, and spreading it out for Rama, he sat on it with Raghava. [4-8-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -726,8 +698,6 @@ standing, these monkeys broke the branches of trees and spread its leaves like a
 comfortable seat to Rama with their veneration. Some other verses dealing with the agony of
 Sugreeva and assurances of Rama are also there, indicating that Rama assured the doubting monkeys
 repeatedly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -791,8 +761,6 @@ Then to him, who by now is comfortably sitting on a flowery mat laid by the best
 flowers of sala trees on that best mountain like a quiet ocean, to such Rama who by his very
 presence delights hearts, that gladsome Sugreeva said this in friendship with his gentle and
 gracious words that fluttered with happiness while he spoke. [4-8-15, 16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -839,8 +807,6 @@ stolen, wife; *su duHkhitaH* = highly, anguished; *giri varam* = mountain the be
 
 "My brother calumniated me and stole my wife, with his fear and my anguish haunting
 me I am moving about this best mountain Rishyamuka. [4-8-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -888,8 +854,6 @@ in.
 
 "Affronted by my brother, oh, Raghava, I am made as his enemy, such as I am, I am
 living on with a scared and dazed vitality far flung in fear. [4-8-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -938,8 +902,6 @@ protection, to accord, able you are.
 "I am agonized by the fear from Vali, oh, protector of all the worlds, you protect
 me too for I am unprotected, and able are you to accord protection." Thus Sugreeva appealed to
 Rama. [4-8-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -986,8 +948,6 @@ kaakutsthaH* = he that, Rama; *pra hasan iva* = laughing it off, as though;
 
 Thus said by Sugreeva, the resplendent and virtuous Rama, the patron of
 righteousness replied Sugreeva as though laughing off the task. [4-8-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1034,8 +994,6 @@ wife's, abductor.
 
 "Helping is the fruit of friendship while harming is enemy's trait, hence I wish to
 kill him today only, that abductor of your wife..." Rama continued thus. [4-8-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1113,8 +1071,6 @@ their nodes, sharp are their tips that pierce sharply, and these will be like en
 
 Please see Ch 37 in Bala Kanda for the legend of Karthikeya and his
 emergence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1165,8 +1121,6 @@ intimidating one; *sharaiH* = with arrows; *vi nihatam* = verily, eradicated;
 "You may see your malicious and intimidating brother, someone denotative by name
 Vali, eradicated with these very arrows and splintered down like a mountain." Rama said so to
 Sugreeva. [4-8-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1213,8 +1167,6 @@ lord of; *praharSam* = happiness; *atulam* = much; *lebhe* = attained;
 
 On hearing Raghava's words, the lord of monkey-force Sugreeva attained much
 happiness and said, 'good, good...' [4-8-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1262,8 +1214,6 @@ friend]; *hi* = verily; *tvayi aham* = in you, I am; *paridevaye* = beseeching
 
 "Rama, I am confounded in sadness, and for those lamenting sadly you are the only
 recourse, and because you have befriended me I am opening up my woes before you. [4-8-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1311,8 +1261,6 @@ indeed; *aham* = I am satyena api shapaami = by truth, only, taking oath.
 "By extending a helping hand and befriending me while sacred fire bore witness, you
 have indeed become my dearest friend on par with my life, and hence I take promise on truth to
 broach. [4-8-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1359,8 +1307,6 @@ that which, internal, sorrow is there, my, heart, stealing [rending,] always.
 
 "By befriending you I am able to say clearly about my internal sorrow without any
 hitches and hold-ups, which is always rending my heart..." So said Sugreeva to Rama. [4-8-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1407,8 +1353,6 @@ hitches and hold-ups, which is always rending my heart..." So said Sugreeva to R
 
 Sugreeva said this much sentence with tears abusing his eyes and his voice is unable
 talk aloud since it is equally abused by tears. [4-8-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1455,8 +1399,6 @@ iva* = river's, speed, like; *sahasaa* = suddenly; *aagatam* = came up;
 
 Sugreeva courageously controlled the sudden haste of tears that came up hastily and
 suddenly like a river in the presence of Rama. [4-8-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1497,8 +1439,6 @@ punaH uucivaan* = to Raghava, sentence, again started to speak.
 
 He that bright Sugreeva controlled those tears, and on wiping his fortunate eyes,
 but sighing heavily he again started to speak this sentence to Raghava. [4-8-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1545,8 +1485,6 @@ him,] shoved off [banished,] I am.
 
 "Earlier he that forceful Vali deposed me from my kingdom, oh Rama, and speaking
 harsh words he even banished me. [4-8-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1593,8 +1531,6 @@ samyataa* = in prisons, tied down.
 
 "My wife who is loftier than my lives is stolen by him, and those that are my
 sympathisers they are also captivated and imprisoned by him. [4-8-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1644,8 +1580,6 @@ monkeys [combatants]; *nihataa mayaa* = are killed, by me.
 
 "He that very evil minded one tried many times to annihilate me, and Raghava, I
 killed those combatants monkeys that are deployed by Vali to kill me. [4-8-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1692,8 +1626,6 @@ be fearsome, isn't it.
 
 "With the same doubt I did not even near you when I saw you... in fear everything
 will be fearsome, isn't it... [4-8-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1743,8 +1675,6 @@ my lives, even today.
 
 "Though I am engulfed in tribulations I still bear my lives even today due to these
 important monkeys like Hanuma and others, who are the only helping hands of mine. [4-8-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1790,8 +1720,6 @@ sthite tiSThanti ca* = while I go, along with, they go, always, while staying, t
 
 "These are the friendly monkeys guarding me all over, while I go they go along with
 me, and if I were to stay they too will stay. [4-8-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1839,8 +1767,6 @@ for his intrepidity; *saH Vali mama ripu* = that, Vali, is my, enemy.
 "Rama, this is briefly my sad-story and why tell this very broadly to you as it
 would be too tedious... my elder brother Vali is a renowned one for his intrepidity, and he that
 Vali alone is my enemy. [4-8-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1887,8 +1813,6 @@ his, destruction, subjected to.
 
 "His end ends my distress and my later life and quietude are subjected to his
 destruction. [4-8-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1936,8 +1860,6 @@ antaH* = this, misery's, end, [end for my misery]; *niveditaH* = is submitted;
 "Grief stricken such as I am, I have submitted as to how my misery ends, whether one
 is gladdened or saddened he has recourse only to his friend." So said Sugreeva to Rama.
 [4-8-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -1984,8 +1906,6 @@ reality, to listen, interested I am.
 
 Hearing all that is spoken by Sugreeva, Rama asked, "What for chanced the enmity? I
 am interested to listen, in its reality...[4-8-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -2036,8 +1956,6 @@ I will enforce [do the needful.]
 "On knowing the cause of your enmity, oh, monkey, and after a proper thought, and
 deciding upon the strength and weakness of the cause of enmity, or of the enmity itself, I will do
 the needful very easily. [4-8-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -2085,8 +2003,6 @@ like, increasing.
 
 "On hearing that you are insulted my intense anger that can flutter my heartbeat is
 intensifying like the intensifying speed of waters in rainy reason. [4-8-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -2134,8 +2050,6 @@ visrabdhaH kathaya* = gladly, in belief, you tell.
 "Be glad to say in belief, Sugreeva, before I take aim with my bow, and even before
 I release the arrow, and even before silencing your enemy." Rama assured Sugreeva in this way.
 [4-8-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -2181,8 +2095,6 @@ four, vanara-s, along with; *praharSam atulam lebhe* = rejoice, very much, obtai
 
 Thus said by the great souled Rama, Sugreeva is very much rejoiced along with four
 of vanara-s available in his attendance. [4-8-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 </details>
 
@@ -2229,8 +2141,6 @@ kaaraNam* = enmity's, cause; *tattvam* = truthfully; *aakhyaatum* = to tell;
 
 Then with a pleased countenance Sugreeva started to tell Rama about the cause of the
 enmity, it all it truthfulness. [4-8-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga8/kishkindhasans8.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ the throne from Rama. Who is really elighible for it as the eldest son of the fa
 to bring back Rama from the forest and orders Sumantra to arrange for vehicles and men for the
 journey. Thereupon, warriors merchants Shudras and Bhrahmanas harnessed their chariots and got
 ready for the journey to the forest along with Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ planets.
 
 Bharata endowed with understanding, saw that assembly, enriched with the whole body
 of respectable men, looking like a night in full moon duly enriched with well-known planets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ seats.
 
 That excellent assembly was aglow with the brilliance of clothes and scented
 cosmetics of its respected members occupying their appropriate seats.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ full moon; *ghanaapaaye* = in autumn.
 
 That beautiful assembly filled with learned men looked like a night with autumn full
 moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -224,8 +216,6 @@ entire; *prakR^itiiH* = body of ministers; *raajJNaaH* = of the king;
 
 Beholding all the entire body of ministers of the king, Vaishta the knower of
 righteousness uttered to Bharata the following soft-spoken words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -273,8 +263,6 @@ righteousness uttered to Bharata the following soft-spoken words:
 
 "O, beloved Bharata! The king Dasaratha, practicing righteousness, gave away to you
 this wide earth endowed with grains and riches and went to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -323,8 +311,6 @@ a raising moon;(not dropping off); *jyotsnaam* = the moon = light.
 "Rama, who was firmly established in truth, remembering the righteousness of good
 men, did not abandon the command of his father, as a raising moon does not abandon the
 moon-light."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -378,8 +364,6 @@ kingdom; *kSiprameva* = just soon.
 
 "The kingdom, having its enemies destroy was given to you by your father and
 brother. Enjoy it, with its delightful ministers. Get anointed for the kingdom just soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -398,8 +382,6 @@ gifts).
 "let those living in the north, the Westerners; the southerners the kings of western
 borders near the Sahya mountains who are without a throne and the seafaring traders bring crores of
 jewels as gifts to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -446,8 +428,6 @@ to his mind; *dharmakaaN^kshayaa* = thirsting for justice.
 
 Hearing those words, the pious Bharata was filled with distress and thirsting for
 justice got his mind fixed on Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -494,8 +474,6 @@ lamented; *sabaSpakalayaa* = in a tearful and appealing; *vaachaa* = speech;
 
 The youthful Bharata, with a voice of a Hamsa bird, in the midst of the assembly,
 lamented in a tearful and appealing speech. He even reproached his royal priest as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -538,8 +516,6 @@ is devoted to; *dharmam* = duty?
 "How can a man such as I, rob the throne from one, who practices Brahmacharya
 (continence and chastity), versed in the science of the Vedas (sacred scriptures) and who is
 devoted to duty?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -587,8 +563,6 @@ unsurper of a crown?; *raajyamcha* = the kingdom; *ahamcha* = and I myself;
 
 "How should one born of Dasaratha become the usurper of a crown? Both the kingdom
 and I myself belong to Rama. You ought to tell the law and justice in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -644,8 +618,6 @@ Dilipa* and Nahusha*, is eligible to get the kingdom, as with Dasaratha."
 
 Dilipa and Nahusha: Two most ancient and illustrious representatives of the
 solar and lunar dynasty respectively.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -692,8 +664,6 @@ by dishounourable man; *sasvargyam* = which does not lead to heaven.
 
 "If in this world, I dishonoured the name of Ikshavaku race, I should be guilty of a
 sinful act, practiced by disgraceful men, which does not lead to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -741,8 +711,6 @@ Rama; who is staying in an impassable forest.
 
 "I do not indeed like that sinful act done even by my mother. From here itself, I
 offer my salutation with my joined palms to Rama who is residing in an impassable forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -789,8 +757,6 @@ the kingdom; *trayaaNaam lokaanaam* = of the three worlds.
 
 "I will follow Rama's steps. He, who is supreme among men, is the king. Rama is
 eligible even for the kingdom of the three worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -838,8 +804,6 @@ tears; *harSaat* = of joy; *nihita chetasaH* = having their minds fixed upon;
 
 Hearing those righteous words of Bharata, all the members of the assembly shed tears
 of joy, having their minds obsessed of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -890,8 +854,6 @@ staying).
 
 "If I am unable to bring back my elder brother from the forest, I shall stay back in
 that forest itself, as how the venerable Lakshmana is staying now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -941,8 +903,6 @@ _________________
 
 "I shall use every means to bring back compulsorily, that hero before you,
 practicing virtues, the honourable and the distinguished men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -992,8 +952,6 @@ skilled in clearing paths; *viSTikarmaantikaaH* = working on and without wages;
 
 "All those who are skilled in clearing paths working on and without wages, have been
 sent by me in advance and the journey so planned, pleases me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1041,8 +999,6 @@ sent by me in advance and the journey so planned, pleases me."
 The pious minded Bharata, who had an affection for his brother spoke as aforesaid
 and uttered the following words to Sumantra who was clever in giving counsel and who was sitting
 nearby.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1090,8 +1046,6 @@ army also.
 
 "O, Sumantra! Rise quickly and go. As per my orders, arrange for the jorney
 immediately. Bring the army also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1138,8 +1092,6 @@ samdiSTam* = in accord with orders; *iSTavat* = and wishes.
 
 Hearing the words of the magnanimous Bharata, Sumantra joyfully arranged all that in
 accord with Bharata's orders and wishes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1186,8 +1138,6 @@ army-commanders; *rahR^iSTaaH* = were delighted.
 
 Hearing about the expedition of the army too; for arranging of return of Rama, the
 ministers and army-commander there were delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1238,8 +1188,6 @@ _________________
 
 All the wives of warriors in every house, knowing about the ensuing expedition, were
 jubiliant and hurried up all their respective husband to setoff for the journey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1290,8 +1238,6 @@ bullock-carts; *mahaajavaiH* = with great speed; *syandanaishcha* = the chariots
 
 Those army-generals urged the entire army to march forward quickly, with the fast
 moving horses, bullock carts with a good speed and the chariots along with the warriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1339,8 +1285,6 @@ was standing by his side; *iti* = thus; *tvarayasya* = get ready quickly; *me*
 
 Seeing that army ready, Bharata in the presence of Vasishta said as follows to
 Sumantra who was standing by his side: "Get ready my chariot quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1390,8 +1334,6 @@ a chariot; *yuktam* = yoked; *paramavaajibhiH* = with excellent horses; (Sumantr
 
 Bowing to the command of Bharata and taking a chariot yoked with excellent horses,
 Sumantra on his part approached him with delight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1449,8 +1391,6 @@ Bharata, born in Raghu dynasty who was sincere in his purpose a powerful man hav
 strong and mighty prowess and whose talk was most appropriate, then spoke as follows: intending (to
 undertake a journey) to persuade his illustrious elder brother, staying in dreary woods, to return
 to Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1511,8 +1451,6 @@ him back; *hitaaya* = for the welfare; *jagataH* = of the world.
 "O, Sumantra! Rise up and proceed quickly to inform the army-chief to arrange for
 the troops. After propitiating that Rama staying in the forest, I want to bring him back to Ayodhya
 for the welfare of the people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1573,8 +1511,6 @@ and the fiendly persons.
 Sumantra, having received that explicit command from Bharata, which fulfilled his
 highest hopes, called all the ministers-in-chief, the chiefs of the army and the friendly
 multitude.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 </details>
 
@@ -1629,8 +1565,6 @@ up; *aayuuyajan* = harnessed; *rathaamshcha* = their chariots; *uSTrakharaan*
 
 Thereupon, from every house, warriors merchants, Shudras and Brahmanas rose up and
 harnessed their chariots to camels, mules, well-bred elephants and horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

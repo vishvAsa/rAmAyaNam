@@ -18,8 +18,6 @@ title_english = "034 Legend of vishvamitra s ancestry"
 Vishvamitra narrates about the birth of Gaadhi, his own father and the son of Kushanaabha.
 Incidentally he narrates about the emergence and prominence of River Kaushiki, who
 is Vishwamitra's elder sister turned out as a sacred River.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -90,8 +88,6 @@ mahiipatim uvaaca* = spoke to Kushanaabha the king.
 
 During the performance of the ritual, supremely generous Kusha, the brainchild of
 Brahma and the father of Kushanaabha, spoke to the king Kushanaabha. [1-34-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -139,8 +135,6 @@ praapsyasi* = you will get Gadhi; *tena tvam loke shaashvatiim kiirtim ca*
 " 'Oh, son, there will be a highly virtuous and selfsame son of yours, known as
 Gaadhi, and through him you also will get everlasting renown in the world.' " Thus
 Kusha said to Kushanaabha. [1-34-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -181,8 +175,6 @@ Brahma's abode.
 
 "Saying so, oh, Rama, Kushanaabha's father Kusha entered the sky and journeyed to
 the time-honoured abode of Brahma. [1-34-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ Gaadhi, thus, [known] as; *jaj~ne* = took birth.
 
 "Then after some time that highly intellectual Kushanaabha begot a supremely righteous
 son known by the name Gaadhi. [1-34-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ I got the name.
 "Oh, Rama of Kakutstha dynasty, that eminently righteous Gaadhi is my father, and
 since I am born in Kusha dynasty, oh, Raghu's legatee, I got the name Kaushika."
 Sage Vishvamitra thus narrating to Rama. [1-34-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -310,8 +298,6 @@ Sage Vishvamitra thus narrating to Rama. [1-34-6]
 "Even my elder sister who undertook benevolent vows and who is renowned by her name
 Satyavathi is there, oh, Raghava, and she is given in marriage to sage Ruchika.
 [1-34-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -367,8 +353,6 @@ of those personifications of rivers so frequent in the Grecian mythology, but in
 the similar myths is seen the impress of the genius of each people, austere and
 profoundly religious in India, graceful and devoted to the worship of external beauty
 in Greece.' Gorresio.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -416,8 +400,6 @@ her divinely pious and delightful waters, taking recourse to Himalayan Mountains
 If the first compound is *lokasya hitakaamaartham* then 'to accord both
 mortal and immortal happiness; *paaralaukika, aihikasaukhyam* . My sister's
 holy waves are hurled / To purify and glad the world. - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -459,8 +441,6 @@ vasaami* = I am residing delightedly.
 
 "Thereby, oh, Rama, I am delightfully and abidingly residing on the mountainsides
 of Himalayas, in adjacency of my sister Kausiki in all my affection for her. [1-34-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -503,8 +483,6 @@ one; *saritaam varaa kaushikii* = best among rivers, as River Kaushiki
 "She that Satyavathi for her part is a pious one, steadfast in truthfulness and
 righteousness, a husband devote, and such a highly fortunate one has emerged as
 a best river among rivers, namely River Kaushiki. [1-34-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -547,8 +525,6 @@ asmi* = I have accomplished.
 "Owing to my vow, oh, Rama, I left her for a while and came to the Accomplished
 Hermitage and owing to your magnificence I have become accomplished in that vow
 of mine. [1-34-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -592,8 +568,6 @@ kiirtitaa* = [my] birth, is narrated; *yat tvam maam paripR^icChasi*
 "Oh, dextrous Rama, this is all about my dynasty, my province on which we are presently
 camping namely the riverbanks of Sona, and about my birth, and thus everything is
 narrated as you have asked me. [1-34-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -616,8 +590,6 @@ ritual.
 When Brahmadatta has married and left, oh, Raghava, king Kushanaabha he embarked
 on Vedic-ritual called putrakaameSThi in order to
 beget a son because is sonless. [1-34-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -659,8 +631,6 @@ maa abhuut* = let not hindrance occur.
 
 "By telling these legends it is past midnight, oh, Kakutstha, you get some sleep.
 Safe you be! Let no hindrance occur for us halfway on our pathway. [1-34-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -701,8 +671,6 @@ tamasaa vyaaptaa* = pertaining to night are pervaded with darkness.
 
 "Oh, Raghu's delight, trees are standstill... animals and birds have slouched...
 nightly sombre has pervaded all the confines. [1-34-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -743,8 +711,6 @@ heaven] ; *avabhaasate*= splendorous / it is appearing.
 
 "Eventide lapsed slowly and the vault of heaven filled with stars and starlets is
 splendorous as though orbs of heaven are overspread on its vault. [1-34-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -794,8 +760,6 @@ also.
 
 "Also, dissipating the darkness of the world with his brilliance, the moon with
 coolant moonbeams is rising up, gladdening the hearts of worldly beings. [1-34-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 
 </details>
@@ -839,8 +803,6 @@ eaters [ogres,] even; *tataH tataH* = there, there; *pracaranti*
 "Now, the bands of yaksha-s, demons, even the ferocious ogres that feed on raw flesh,
 why them, all the beings that take pleasure in nights are astir, far and wide."
 So said Vishvamitra to Rama. [1-34-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -881,8 +843,6 @@ as; *tam abhyapuujayan [abhi-apuujayan]* = him, verily revered.
 
 Saying so that greatly resplendent and eminent saint Vishvamitra paused, and then
 all the other sages have revered him saying, "well-said, well-said." [1-34-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -926,8 +886,6 @@ narottama* = the best ones among men - mankind; *mahaatmaanaH*
 and the dynasty of Kusha are the best ones among mankind, and they symbolise with
 god Brahma himself, thus they are highly reverential." Thus the other sages have
 applauded Vishvamitra and his dynasty. [1-34-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -976,8 +934,6 @@ ancestry.
 "You alone are exemplarily selfsame to Brahma, oh, Vishvamitra of great-renown,
 and among rivers that prominent River Kaushiki is your sister, thus she is glorifying
 your ancestry." Thus the sages lauded Vishvamitra. [1-34-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -1022,8 +978,6 @@ to western mountain to take rest for that day, Vishvamitra drifted into sleep.
 Sage Vishvamitra is pleased when those tigerly sages have laude him, and then that
 magnificent sage Vishvamitra lapsed into the lap of sleep, as the sun lapses into
 lap of dusk for that day. [1-34-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 </details>
 
@@ -1065,8 +1019,6 @@ of Sleep.]
 
 Even Rama with a little astonishment coming upon him, applauding that tigerly-sage,
 and glided into the lap of sleep along with Soumitri. [1-34-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga34/balasans34.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

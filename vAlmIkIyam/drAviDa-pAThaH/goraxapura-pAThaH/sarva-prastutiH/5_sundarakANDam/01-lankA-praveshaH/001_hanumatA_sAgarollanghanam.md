@@ -19,8 +19,6 @@ V : Sundara Kanda - Book Of Beauty**
 This first chapter of Sundara Kanda describes Hanuma's preparations to cross the
 ocean in search of Seetha. Mighty Hanuma's flight over the ocean is described in a glorious detail.
 Hanuma's encountering of Mainaka, Surasa and Simhika form important phases of His flight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ Seetha's place; *raavaNa niitaayaaH* = taken away by Ravana.
 
 After that, Hanuma, the destroyer of foes, desired to travel in the sky where
 celestials like chaaranas tread, to search for Seetha, who was taken away by Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -111,8 +107,6 @@ without any obstacles; *samudagrashirogriivaH* = with a raised head and neck.
 
 Hanuma who desired to perform a deed done by no one else, shone like a bull without
 any obstacles, with his stretched neck and raised head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -162,8 +156,6 @@ emerald; *salilakalpeshhu* = and same as (still) water (from a distance).
 
 After that, the mighty and courageous Hanuma roamed at ease on the lawns with the
 hue of an emerald, which looked like still water from a distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -210,8 +202,6 @@ iva* = (trod) like a ramapant lion; *dvijaan vitraasayan* = making birds to fear
 
 The thoughtful Hanuma tread like a rampant lion, making birds fear, uprooting trees
 by his breast and also killing many animals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -316,8 +306,6 @@ that great mountain by the name of Mahendra, where many elephants of good breed 
 beautifully decorated with many naturally formed mineral rocks of varied hue like black, white,
 red, blue, yellow and green and which was surrounded by godly serpents and Yakshas, Kinnaras,
 Gandharvas who were capable of assuming desired form, together with their families.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -359,8 +347,6 @@ to leave.
 
 He saluted with joined palms to the Sun-God, Lord Indra, God of Wind, Lord Brahma
 and Bhutas and decided to leave.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -410,8 +396,6 @@ body); *gantuM* = to go; *dakshiNaam dishaM* = the southern direction.
 
 Hanuma turned towards east, saluted his father, the Lord of Wind and increased his
 body to go towards southern direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -455,8 +439,6 @@ iva* = like the ocean; *parvasu* = on full moon days.
 
 With all the Vaanaras seeing, Hanuma decided to fly and like an ocean swelling on
 full moon days, grew for Rama's success.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -500,8 +482,6 @@ charaNaabhyaam* = and feet.
 
 With a desire to cross the ocean, Hanuma grew his body immeasurably and pressed the
 mountain with his feet and hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -545,8 +525,6 @@ even that mountain; *chachaala* = shook; *muhuurtam* = for an instant;
 
 Thus tormented by Hanuma, that mountain shook for an instant and showered all
 flowers of trees on it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -593,8 +571,6 @@ like; *pushhpamayo* = being made of flowers.
 
 Covered all through by those fragrant flowers which fell down from the trees, that
 mountain shone like a mountain made of flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -638,8 +614,6 @@ powerful Hanuma.
 
 That mountain shed water like an elephant in rut emitting rut juice, after being
 pressed by the mighty Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -680,8 +654,6 @@ mountain of Mahendra.
 
 Pressed by that mighty Hanuma, streaks of gold silver and antimony color appeared on
 the Mahendra mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ Sulfur; *dhuumaraajiiriva* = like columns of smoke; *analaH* = (from a) fire;
 
 Huge Rocks of Sulfur were also shot forth from that mountain, just as a fire burning
 with a medium flame would emit columns of smoke.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -799,8 +769,6 @@ Hanuma); *bhuutaani* = creatures; *guhaavishhTaani* = living in caves;
 
 Being pressed on all sides by the mountain which itself was being pressed by Hanuma,
 creatures living in the caves of that mountain shrieked in horrifying tones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -816,8 +784,6 @@ directions; *cha upavanaani* = and forests (near that mountain).
 
 That loud noise from creatures which emanated because of stress caused to the
 mountain, filled the earth and all four directions and forests near that mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -863,8 +829,6 @@ frightening flame; *pR^ithubhiH shirobhiH* = with (their) great heads; *dadaMshu
 
 Great snakes with clear swastika signs on their hoods, spewed out frightening flames
 with their great heads and bit the rocks with their teeth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 </details>
@@ -913,8 +877,6 @@ pieces.
 
 Then those great rocks bit by those snakes with anger and venom, burned due to the
 flame and split into thousand pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -964,8 +926,6 @@ neutralizing; *vishham* = poison; *naagaanaam* = of the snakes.
 
 Medicinal herbs from that mountain, although capable of destroying ordinary poisons,
 could not neutralize the poison from those snakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1054,8 +1014,6 @@ Ascetics residing on that mountain flew away from there thinking that some demon
 were destroying it. Vidhyadharas who lived there, became afraid and flew away with their women
 folk, leaving behind them golden jugs of wine in the liquor house, gold vases, a varieties of
 sauces that can be licked, eatables, various meats, skins of oxen and swords with golden hilts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1083,8 +1041,6 @@ garlands and smeared with sandal paste; *raktaakshaaH* = with reddened eyes;
 The intoxicated Vidyadharas with garlands around their neck decked with red flower
 garlands and smeared with sandal paste, with reddened eyes, and with lotus shaped eyes, obtained
 the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1134,8 +1090,6 @@ with smiles; *ramaNaiH saH* = along with their loved ones.
 
 Vidyadhara women wearing necklaces, anklets, armlets and bangles stood in the sky
 with surprise and with smiles along with their loved ones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1179,8 +1133,6 @@ _________________
 
 Vidyadharas and great sages stood in the sky in a group, showing their great prowess
 and viewed the mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1221,8 +1173,6 @@ and viewed the mountain.
 
 Then they heard words of Charanas, Siddhas and pure hearted Rishis who were located
 in that clear sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1272,8 +1222,6 @@ of Vayu; *mahaavegaH* = with great speed; *titiirshhati* = wants to cross;
 
 "This Hanuma, who is equal to a mountain, who is the son of Vayu, and who has great
 speed, wants to cross the ocean which is abode to crocodiles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1315,8 +1263,6 @@ for Vanaras.
 
 "Hanuma has decided to perform an impossible task for the sake of Rama and Vanaras
 and wants to obtain the other side of ocean which is hard to obtain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1366,8 +1312,6 @@ thus; *dadR^ishuH* = (and) looked; *tam vaanarashhabhaH* = (at) that best of Van
 
 Vidyadharas thus listened to the words of those great people and looked at the
 incomparable Hanuma, best among Vanaras, standing on the mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1417,8 +1361,6 @@ toyadaH* = like a vast cloud.
 
 He, who is equal to a mountain, shook his hair, quivered his body and let out a
 great roar like from a vast cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1468,8 +1410,6 @@ top to bottom; *chitam* = covered; *lomabhiH* = with hair; *yathaa* = like;
 
 About to fly, Hanuma jolted his tail, which was rolled into a circle from top to
 bottom, and which was covered with hair, just as Garuda, the king of birds would jolt a snake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1513,8 +1453,6 @@ seen; *mahoragaH iva* = like a great serpent; *hriyamaaNaH* = being stolen;
 
 Receiving his vigor, the tail curled at his back was seen like a great serpent being
 stolen by Garuda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1564,8 +1502,6 @@ and contracted; *charaNau* = feet.
 
 Hanuma firmly supported his arms (on the mountain surface) which resembled huge iron
 clubs, crouched the waist and contracted his feet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1613,8 +1549,6 @@ increased; *tejaH* = energy; *sattvam* = strength; *tathaa* = and;
 
 Bending shoulders and neck, that mighty and glorious Hanuma, increased his energy,
 strength and courage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1658,8 +1592,6 @@ _________________
 
 With his eyes raised up, seeing the way from a distance, viewing the sky, he held
 his breath in his heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1800,8 +1732,6 @@ will go, with wind-like speed. If I do not see the daughter of Janaka there, I w
 same speed to the abode of gods. If I do not see Seetha there in heaven, I will get Ravana the king
 of raakshasaas tied up in chains without any effort. I will, in all events, return successfully
 along with Seetha or I will get Lanka along with Ravana after uprooting it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1853,8 +1783,6 @@ vachanam* = these words; *vaanaraan* = to Vaanaraas.
 
 That mighty Hanuma, equal to an elephant among monkeys and the best among Vaanaraas,
 stood firmly with his legs, bent his ears and before flying spoke these words to the Vaanaraas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1873,8 +1801,6 @@ lot of vigor; *saH kapikuJNjaraH* = that great monkey; *mene cha* = also thought
 The best among Vaanaraas, Hanuma, spoke in this way to Vaanaraas and then without
 thinking about anything else, flew up with lot of vigor. That great monkey also thought himself
 equal to Garuda, the king of birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1918,8 +1844,6 @@ viTapaan* = all branches.
 
 While he was flying up, due to that force, all trees on that mountain flew away in
 all directions, drawing together all their branches.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -1969,8 +1893,6 @@ bhakaan* = (and) with fattened lapwing birds.
 
 While flying in the sky, he took along with him, because of the force of his thighs,
 trees shining with flowers and with fattened lapwing birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2020,8 +1942,6 @@ some time; *baandhavaaH iva* = like relatives; *svabandhum* = (following) a rela
 
 The trees thus being held aloft by the speed of Hanuma's thighs, followed him for a
 while just as relatives would follow their loved ones embarking on a long journey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2097,8 +2017,6 @@ like soldiers (following their) king.
 
 Uprooted by the force of Hanuma's thighs, Sal and other excellent trees followed
 Hanuma like soldiers following their king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2114,8 +2032,6 @@ mountain-like appearance; *anvitaH* = together with; *paadapaiH* = trees;
 
 Hanuma the great monkey presented a wonderful sight, with his mountain-like
 appearance together with the well flowered trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2166,8 +2082,6 @@ Mahendra.
 
 After that, powerful trees sank into the salt ocean like mountains sinking into
 ocean due to fear of Mahendra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2208,8 +2122,6 @@ cloud; *kiirNaH* = covered; *saaN^kurakorakaiH* = shoots and buds;
 
 That Hanuma who was equal to a cloud, covered with flowers of various kinds, shoots
 and buds, shone like a mountain with fireflies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2254,8 +2166,6 @@ like; *suhR^ido* = friends; *nivR^ittaaH* = going back.
 
 Those trees which were released by Hanuma's speed, dropped flowers and fell down in
 the water like friends going back after bidding farewell to their dear one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2308,8 +2218,6 @@ filled with stars.
 Set in motion by the wind from the movement of Hanuma, that variety of blossom, with
 various hues, from the trees fell down into the sea. That great ocean shone like the sky filled
 with stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2359,8 +2267,6 @@ lightening; *naanaavarNena pushhpaughena* = by flowers of various hues; *anubadd
 
 Hanuma shone like a cloud in the sky decorated by lightening, with flowers of
 various hues sticking to his body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2404,8 +2310,6 @@ samaadhuutaiH* = being flown up by His (Hanuma's) speed.
 
 That sea water looked like the sky with delightful stars rising up, with flowers
 flown up by Hanuma's speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2446,8 +2350,6 @@ of; *parvataagraat* = a mountain's peak.
 
 That sky-borne Hanuma's arms which were spread out, were seen like five-headed
 serpents coming out of a mountain's peak.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2497,8 +2399,6 @@ shone; *pibanniva* = like one who is drinking; *mahaarNavam* = the great sea;
 
 That great monkey shone like one who is drinking the great sea together with its
 waves. He also seemed like one who desires to drink the whole of sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2542,8 +2442,6 @@ two fires on a mountain.
 
 The eyes of that Hanuma, who was following the path of sky, which had a brilliance
 equal to that of lightening, were shining like two fires on a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2587,8 +2485,6 @@ suuryaaviva* = like fully risen sun and moon.
 
 The round, wide, reddish brown eyes of Hanuma, the best among the monkeys shone like
 fully risen sun and moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2638,8 +2534,6 @@ twilight.
 
 The ruddy face of Hanuma, with His reddish face shone like the Sun touched by
 twilight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2683,8 +2577,6 @@ risen up; *shobhate* = was shining; *shakra dhvajaH iva* = like the pillar of In
 
 The tail of Hanuma, the son of Vayu floating in the sky, being risen up looked like
 the pillar erected in honour of Indra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2728,8 +2620,6 @@ intellect; *vyarochata* = shone; *bhaaskaraH iva* = like the Sun;
 
 The great intellectual Hanuma, with his great body, and with white teeth, shone like
 the Sun, being surrounded by his circular tail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2773,8 +2663,6 @@ iva* = like a mountain; *mahataa gairika dhaatunaa* = with great 'gairika' herb;
 
 That great monkey Hanuma, with his red colored buttocks, shone like a mountain with
 a large deposit of red Gairika herb broken into pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2815,8 +2703,6 @@ passing through the lion among monkeys Hanuma's armpits; *plavamaanasya* = who w
 
 Air passing through the lion among monkeys Hanuma's arm pits sounded like a
 thundering cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2867,8 +2753,6 @@ that.
 
 The best among monkeys Hanuma flying thus in the sky, looked like a meteor darting
 away with great speed in the sky from northern direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2912,8 +2796,6 @@ god; *vyaayataH* = the tall one; *kapiH* = Hanuma; *shushubhe* = shone;
 
 With a fast pace equaling that of Sun god, the tall Hanuma shone like an elephant
 which increases its size when being festered by a rope.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -2960,8 +2842,6 @@ with his shadow immersed in the sea below; *aasiit nauriva* = like a boat;
 
 Then Hanuma who was flying above the ocean with his body above the ocean and his
 shadow being immersed in the sea below, looked like a boat being driven by wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3011,8 +2891,6 @@ uuruvegena* = by the force of His thighs.
 
 Whatever place Hanuma went towards on the ocean, that place became agitated due to
 the force of thighs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3062,8 +2940,6 @@ _________________
 
 That great monkey with great speed flew in the sky striking with his chest series of
 waves which had a great body like that of mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3107,8 +2983,6 @@ nirGhoshham* = with a fearful sound.
 
 Wind from the mighty Hanuma and the wind released from the clouds caused the ocean
 with a fearful sound to shake a lot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3149,8 +3023,6 @@ with a fearful sound to shake a lot.
 
 Hanuma flew in the sky dragging along with him big waves from the ocean as though he
 were sprinkling them in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3200,8 +3072,6 @@ ocean; *gaNayanniva* = as if counting them.
 
 Hanuma with great speed crossed waves which were equal to Mount Meru and Mount
 Mandara, that had risen up in the sea, as if counting them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3251,8 +3121,6 @@ like autumnal cloud; *atatam* = stretched out.
 
 Then the water together with clouds which was driven up by the force of Hanuma,
 shone like a stretched autumnal cloud in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3296,8 +3164,6 @@ clothes.
 
 Then various whales, fishes, turtles and crocodiles were being seen clearly in the
 sea just as bodies of humans would be seen when clothes are removed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3348,8 +3214,6 @@ Garuda; the king of birds.
 
 Serpents living in the sea saw Hanuma flying in the sky and thought that it was
 Garuda, the king of birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3408,8 +3272,6 @@ Comment : "Yojana" is a measure of length in ancient India like the modern mile.
 However its value does not seem to be a standard even within India. Some consider it as six miles,
 some as eight miles and some as two and half miles. Hence it is difficult to have an accurate
 conversion from yojanas to miles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3453,8 +3315,6 @@ raajiiva* = like a series of dense white clouds.
 
 That shadow which was following Hanuma and spread on the ocean, shone like a series
 of dense white clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3495,8 +3355,6 @@ in the path of Vayu - the God of wind; *niraalambe* = without any support.
 
 That great monkey Hanuma, the great resplendent one with a huge body, shone like a
 mountain with wings flying in the sky without any support underneath.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3537,8 +3395,6 @@ Hanuma; *balavaan* = the mighty one; *yaati* = went; *tena* = in that path;
 
 In whatever path Hanuma the mighty one went, in that path, there immediately
 appeared a trough in the ocean below.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3582,8 +3438,6 @@ series of clouds; *maaruto yathaa* = like the god of wind.
 
 Hanuma while coursing through the path of birds like the king of birds Garuda,
 dragged with him series of clouds like the god of wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3633,8 +3487,6 @@ ones; *chakaashire* = shone; *aakR^ishhyamaaNaani* = being dragged; *kapinaa*
 
 Great clouds with white, red, blue and madder colors shone on being dragged by
 Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3685,8 +3537,6 @@ _________________
 
 Hanuma who is repeatedly entering and leaving series of clouds as He flies in the
 sky, is being seen like the moon who shines and is hidden alternately.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3736,8 +3586,6 @@ plavamaanam* = flying quickly.
 
 Then, on seeing Hanuma flying quickly in the sky, Devas, Gandharvas and Danavas
 showered flowers on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3784,8 +3632,6 @@ flying; *raama kaaryaarthasiddhaye* = for Rama's benefit; *vaayuH cha* = Vayu al
 
 Then, the Sun did not scorch Hanuma, the best among Vanaras, who was flying for
 Rama's welfare. The wind god Vayu also served him with a delightful breeze.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3835,8 +3681,6 @@ also sang; *prashaMsantaH* = praising Him.
 
 Sages praised the great resplendent Hanuma flying in the sky. Devas and Gandharvas
 also sang in His praise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3887,8 +3731,6 @@ any effort.
 
 Immediately on seeing the best among monkeys, Hanuma, flying without any effort,
 Nagas, Yakshas, Rakshasas, Devas and birds all praised Him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3944,8 +3786,6 @@ ill-talk; *vivakshataam* = for those who want to speak (against me).
 
 "If I do not help this best among vanaras Hanuma, I shall become prone to all kinds
 of ill-talk by those who want to speak against me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -3990,8 +3830,6 @@ not eligible; *avasiiditum* = to become tired.
 
 "I was developed by Sagara of Ikshvaaku dynasty. This Hanuma who is helping a
 descendant of that dynasty should not become tired."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4041,8 +3879,6 @@ respect of Ikshvaaku dynasty.
 
 While that best among vanaras, Hanuma, was flying, the god of ocean thought thus for
 the respect of Ikshvaaku dynasty:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4058,8 +3894,6 @@ cross; *seshham* = the remaining (distance); *sukhena* = with comfort.
 
 "I have to behave in such a way that Hanuma would take rest. After resting in me for
 a while, He can cross the remaining distance with comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4135,8 +3969,6 @@ kR^itvaa* = making a good thought; *uvaacha* = spoke; *mainaakam* = to Mainaka;
 
 Samudra thus making a good thought, spoke to Mainaka, the best among mountains with
 gold in the middle hidden in water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4152,8 +3984,6 @@ Devendra; *parighaH* = as an obstacle; *asurasaMghaanaam* = to the groups of asu
 
 "O best among mountains Mainaka! You have been positioned here by Devendra as an
 obstacle to the groups of asuras living in paataala."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4204,8 +4034,6 @@ patala; *aprameyasya* = which is immeasurable; *eshhaam* = (when) these (asuras)
 
 "You are standing at the entrance of paataala which is difficult to measure, fully
 covering it, when asuras courageous by birth are trying to rise up again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4250,8 +4078,6 @@ for that reason; *saMchodayaami* = I am encouraging; *tvaam* = you;
 
 "O mountain, you have capability to grow wide, up or down. O best among mountains,
 for that reason I am encouraging you. Raise up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4301,8 +4127,6 @@ kaaryaartham* = for Rama's task; *eti* = is coming; *tvaam upari* = over you.
 
 "Hanuma, the best among monkeys, the courageous one, who has taken up a fearful task
 for the benefit of Rama, that such Hanuma while flying in the sky is coming over you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4373,8 +4197,6 @@ more respectable; *tava* = to you.
 
 "To this Hanuma, who is a follower of the Ikshvaaku dynasty, help should be done by
 me now. Descendants of Ikshvaaku are repectable to me. They are even more respectable to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4391,8 +4213,6 @@ good people.
 
 "Do help to us. Our task may not be miscarried. A task which needs to be performed
 and not done, will increase the anger of good people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4434,8 +4254,6 @@ you.
 
 "Raise up above from the water. This Hanuma is the best among fliers and is a guest
 to be worshipped for us. Let him stand on you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4483,8 +4301,6 @@ distance).
 
 "O mountain with golden hued middle area and one who is served by Devas and
 Gandharvas! Hanuma can take rest on you and then traverse rest of the distance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4531,8 +4347,6 @@ Gandharvas! Hanuma can take rest on you and then traverse rest of the distance."
 
 "You are fit to raise up after seeing the gentleness of Sri Rama, and the exile of
 Seetha, and the effort of Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4576,8 +4390,6 @@ quickly; *mahaa druma lataa yutaH* = together with great trees and creepers.
 
 The mountain with gold in the middle, Mainaka, listening to the words of the salty
 ocean, got up quickly from the water, together with great trees and creepers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4628,8 +4440,6 @@ shining rays.
 
 Then that Mainaka became in the risen state, passing through the ocean water, just
 like the Sun piercing through a cloud with His shining rays.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4702,8 +4512,6 @@ ordered; *saagareNa* = by the ocean; *darshayaamaasa* = showed; *shR^iN^gaaNi*
 That great Mainaka who was covered by water in all directions, who had peaks with
 Kinnaras and great serpents, which were equal to a sun rise, which were touching the sky, and which
 had a golden hue, being ordered by the ocean, showed his peaks in an instant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4754,8 +4562,6 @@ gold.
 
 The sky which had a bluish tinge like that of a sword, shone with a golden hue
 because of the peaks of the mountain which rose up and which was like molten gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4800,8 +4606,6 @@ shine.
 
 That best among mountains became equal to a hundred suns with its peaks which had a
 golden hue and which were shining with a self generated shine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4845,8 +4649,6 @@ _________________
 
 Hanuma on seeing the mountain which stood before Him, rising up from the middle of
 the salty ocean suddenly, decided that it as an obstacle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4887,8 +4689,6 @@ the God of wind to a cloud.
 
 That great monkey Hanuma with a great speed, brought that great tall mountain with
 His chest just as the God of wind would a cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -4938,8 +4738,6 @@ _________________
 
 That best among mountains Mainaka, thus being fell down by that Hanuma, recognized
 Hanuma's speed and lauded him with pleasure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5015,8 +4813,6 @@ approaching; *aakaashe* = in the sky; *taM viiram kapim* = that courageous Hanum
 
 Mount Mainaka with love and with gladdened heart obtained a human form and standing
 on its own peak, spoke these words approaching that courageous Hanuma in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5065,8 +4861,6 @@ _________________
 
 "O the great Vanara! You have performed this impossible task of flying over the
 ocean. Do come down on to my peaks and rest for a while to your comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5107,8 +4901,6 @@ saagaraH* = that such ocean; *pratyachayati* = is worshipping (in lieu of Sri Ra
 
 "The ocean was developed by people born in Sri Rama's dynasty. That such ocean is
 worshipping in lieu of Sri Rama, you who is desirous of Sri Rama's welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5153,8 +4945,6 @@ respect; *tvattaH* = from you.
 "When a service is done, a return service needs to be rendered. This is an ancient
 tradition. Such this ocean who wants to do a return service to the Raghu dynasty, is suitable for
 respect by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5206,8 +4996,6 @@ encouraged; *anena* = by this samudra; *bahumaanaat* = due to great respect;
 ""After flying a hundred yojanas, let this Hanuma rest on your peak and then travel
 the rest of distance." - Thus I have been encouraged by this ocean for your sake due to His great
 respect for you. O best among vanaras! Stop for a while and then go after resting on me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5253,8 +5041,6 @@ roots; fruits and others; *gandhavat* = (which is) fragrant; *svaadu* = (and) sw
 "O best among vanaras! For that reason, here is lots of roots, fruits and other
 eatables which are fragrant and sweet. May you leave after eating that and resting here for a
 while."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5295,8 +5081,6 @@ lokeshhu* = in all the three worlds; *mahaaguNaparigrahaH* = based on great virt
 
 "O chief among vanaras! Besides this, there also exists a relationship which is
 famous in all the three worlds, which is based on great virtues, for us with you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5340,8 +5124,6 @@ among vanaras; *aham* = I; *manye* = am thinking; *tvaam* = you;
 
 "O son of Vayu, the god of wind! O best among vanaras! I am thinking you as being
 very important among those vanaras who are fast and who are capable of flying."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5388,8 +5170,6 @@ api* = even though ordinary; *puujaarhaH* = is suitable to be respected; *mahaan
 
 "By a person who wants to know dharma or by one who knows dharma, a guest even
 though ordinary is to be respected. What else can I say in the case of a great guest like you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5433,8 +5213,6 @@ great one; *devavarishhThasya* = and the best among Devas; *vegena* = in speed;
 
 "O best among vanaras! You are the son of the great Vayu - the God of wind, who is
 best in speed among the Devas. In speed you are equal to him alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5479,8 +5257,6 @@ reason; *atra* = in this matter.
 
 "O knower of Dharma! If you are worshipped, Vayu also gets worship. For that reason
 you are to be worshipped by me. Also listen to another reason in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5521,8 +5297,6 @@ wings; *te* = those; *garuDaanilaveginaH* = having speed equal to Garuda and Vay
 
 "O son! Earlier in the Krita yuga, mountains had wings. With speed equal to that of
 Garuda and Vayu, they went in all directions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5573,8 +5347,6 @@ creatures; *saharshhibhiH* = together with sages; *jagmuH* = obtained;
 
 "After that when those mountains were thus flying freely, Devas and living creatures
 together with sages obtained fear in the doubt that those mountains might fall down."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5622,8 +5394,6 @@ there.
 
 "Then the angry Devendra who performed a hundred Asvamedha rituals, cut off the
 wings of thousands of mountains by his weapon vajra then and there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5673,8 +5443,6 @@ away; *sahasaa* = immediately; *mahaatmanaa shvasanena* = by the great Vayu.
 
 "That Devendra angrily reached me with raised vajra. Then I was thrown away
 immediately by the great Vayu."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5741,8 +5509,6 @@ father.
 
 "O best among vanaras! With saved full wings, being thrown down into this salt
 ocean, I have been protected by your father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -5759,8 +5525,6 @@ my; *eshhaH* = this; *saMbandhaH* = relationship; *tvayaa* = with you;
 
 "O chief among vanaras! Vayu is thus indeed respectable to me. For that reason I am
 respecting you. My this relationship with you has great virtues."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5804,8 +5568,6 @@ cha* = and to me; *priitamanaaH* = with a gladdened heart.
 
 "O great Vanara! Because this matter is like this, you are suitable to make myself
 and Sagara happy, with a gladdened heart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5846,8 +5608,6 @@ happy; *tava darshanaat* = by your appearance.
 
 "O best among Vanaras! Reduce your fatigue. Accept our worship also. Respect our
 love. I am happy by your manifestation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5892,8 +5652,6 @@ be removed.
 
 Hanuma listening to the best mountain's words, spoke thus : "I am happy. Hospitality
 has been done. Let this ill feeling be removed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5941,8 +5699,6 @@ passing; *pratijJNaa* = a promise; *dattaa cha* = has also been given; *mayaa*
 
 "The time to perform my duty is hastening me. The day too is passing. A promise has
 also been given by me. I should not stand here in the middle neglecting my duty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -5986,8 +5742,6 @@ went; *prahasanniva* = with a smile.
 
 The courageous Hanuma saying thus, touched the mountain with His hand, entered the
 sky and flew on with a smile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6031,8 +5785,6 @@ ocean and the mountain; *puujitaH* = and also worshipped; *upapannabhiH aashiirb
 
 That Hanuma was thus seen with great respect by the ocean and the mountain, and also
 worshipped with suitable blessings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6083,8 +5835,6 @@ father.
 
 After that leaving the mountain and the great ocean, and flying up far into the
 clear sky, Hanuma followed the path of his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6134,8 +5884,6 @@ _________________
 
 The son of Vayu obtained the speed to fly still higher into the sky and seeing that
 mountain below, went in the clear sky which had no support.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6205,8 +5953,6 @@ task; *sarve* = all; *suraaH* = Devas; *siddhaashcha* = Siddhas and;
 
 Seeing Hanuma perform that very difficult second task (first one being the flight
 over ocean), all Devas, Siddhas and great sages praised Him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -6222,8 +5968,6 @@ became; *hR^ishhTaaH* = happy; *karmaNaa* = by the task; *tasya kaaJNchanasya*
 
 Devas and the thousand eyed Devendra who were there, became happy by the task of
 that golden hued Mainaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6267,8 +6011,6 @@ _________________
 
 The wise Devendra himself spoke these words through faltering tones due to extreme
 happiness, to Mainaka, the best among mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6341,8 +6083,6 @@ sukham tishhTha* = proceed according to your comfort.
 
 "O Mainaka, the king of mountains! I am very happy with you. O gentle one! I am
 giving protection to you. Proceed according to your comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -6359,8 +6099,6 @@ afraid; *sumahat* = great; *saahyam* = help; *kR^itam* = has been done;
 
 To the dauntless Hanuma crossing hundred yojanas, who is fearless even when there is
 reason to be afraid, a great help has been done by you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6430,8 +6168,6 @@ son of Dasaratha; *dR^idham toshhitaH asmi* = I am very happy; *tvayaa* = with y
 
 This Vanara Hanuma is going for the benefit of Sri Rama, the son of Dasaratha. I am
 very happy with you who is doing respect to Him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -6447,8 +6183,6 @@ mountains; *agamat* = obtained; *vipulam* = great; *praharshham* = happiness;
 
 Thereafter, the best among mountains obtained great happiness on seeing Devendra,
 the lord of Devas being happy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6517,8 +6251,6 @@ Surasa; *naagamaataram* = mother of the Nagas; *suuryasaMkaasham* = equal to the
 
 Thereafter, Devas together with Gandharvas, Siddhas and great sages spoke thus to
 Surasa, the mother of Nagas, equal to the Sun in brilliance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6559,8 +6291,6 @@ situated there; *hanumaamshcha* = Hanuma also; *vyatichakraama* = crossed;
 
 Then that mountain with a given boon from Devendra stood still there. Hanuma also
 leaped over that part of the ocean in an instant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6607,8 +6337,6 @@ leaped over that part of the ocean in an instant.
 "This glorious son of Vayu, going by the name of Hanuma is flying over the ocean.
 You obtain a horrible mountain like demonic appearance and make a face with fearful tusks,
 red-brown eyes and as vast as the sky, and create an obstacle to Him for an instant."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6659,8 +6387,6 @@ _________________
 
 "We are desiring to find out if by His strength and also courage and intelligence He
 can win over you or obtain sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6706,8 +6432,6 @@ these words.
 That Goddess Surasa, thus spoken to by Devas and also being respected by them,
 wearing a horrible disfigured appearance of a demon in the middle of the ocean which caused fear to
 all, and stopping Hanuma who was flying, spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6758,8 +6482,6 @@ face.
 
 "O best among Vanaras! You have been given by Devas as my food. I will eat you.
 Enter inside my mouth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6811,8 +6533,6 @@ Surasa; *shriimaan* = the glorious; *vaanararshhabhaH* = best among Vanaras;
 
 Thus spoken to by Surasa, the glorious Hanuma, with a happy face and with folded
 hands, spoke these words to Surasa.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6853,8 +6573,6 @@ the name of Rama; *pravishhTaH* = entered; *daNDakaavanam* = the forest of Danda
 
 "The son of Dasaratha, with the name of Rama entered the forest of Dandaka together
 with His brother Lakshmana and wife Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6935,8 +6653,6 @@ task; *bharyaa* = His wife; *siitaa* = Seetha; *yashasvinii* = the famous one;
 
 "When that Sri Rama, with a bitter enmity towards Rakshasas, was diverted in another
 task, His famed wife Seetha had been taken away by Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -6952,8 +6668,6 @@ are) suited; *kartum* = to do; *saahyam* = help; *raamasya* = of Rama.
 
 "I am going for Rama's sake as a messenger to find Her presence. O subject of Sri
 Rama! You are suited to help Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -6995,8 +6709,6 @@ makes (Seetha) without troubles; *aagamishhyaami* = (I will) obtain; *te* = your
 
 "Otherwise after seeing Seetha and informing that to Sri Rama who makes Seetha
 without troubles, I will obtain your mouth. I am promising truthfully to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7046,8 +6758,6 @@ Hanuma; *surasaa* = Surasa; *kaamaruupiNii* = with power to take desired form;
 
 Thus being spoken to by Hanuma, Surasa with power to take desired form, spoke thus:
 "No one can overcome me. This is my boon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7121,8 +6831,6 @@ seeing; *tam* = Him; *prayaantam* = going away.
 
 Mother of Nagas, Surasa, desiring to know the strength of Hanuma, spoke these words
 on seeing Him going away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -7147,8 +6855,6 @@ before; *maaruteH* = Hanuma.
 "O best among Vanaras! You are bound to go only after entering my mouth. This boon
 had been given to me long ago by Brahma." - speaking thus, with quickness she opened her wide mouth
 and stood before Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -7164,8 +6870,6 @@ aayatam* = twenty yojanas long.
 
 Seeing Hanuma, who looked like a cloud, being ten yojanas long, Surasa also made her
 mouth twenty yojanas long.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7215,8 +6919,6 @@ vistaaraH* = (and) ten yojanas wide.
 
 Then Hanuma speaking thus to Surasa, became angry and became ten yojanas long and
 ten yojanas wide.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -7234,8 +6936,6 @@ courageous; *hanumaan* = Hanuma; *babhuuva* = became;
 
 Thereafter, Hanuma got angry and became thirty yojanas long. Surasa made her mouth
 forty yojanas high. The courageous Hanuma then became fifty yojanas high.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7309,8 +7009,6 @@ courageous; *hanumaan* = Hanuma; *babhuuva* = became;
 
 Thereafter, Hanuma got angry and became thirty yojanas long. Surasa made her mouth
 forty yojanas high. The courageous Hanuma then became fifty yojanas high.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7362,8 +7060,6 @@ yojanocchritaH* = became seventy yojanas high.
 
 Surasa then made her mouth sixty yojanas long. The mighty Hanuma in the same
 fashion, became seventy yojanas high.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 </details>
@@ -7423,8 +7119,6 @@ high.
 
 Surasa made her mouth eighty yojanas high. The mountain-like Hanuma then became
 ninety yojanas high.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -7443,8 +7137,6 @@ thumb.
 The great wise Hanuma seeing that mouth with a long tongue which was horrible and
 equal to hell being opened by Surasa, greatly reduced His own body and became the size of a
 thumb.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7489,8 +7181,6 @@ speed; *saH* = that Hanuma; *ashu* = quickly; *abhipatya* = obtained;
 
 The glorious Hanuma with great speed, quickly entered Surasa's mouth and came out of
 it and standing in the sky spoke these words to Surasa.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7535,8 +7225,6 @@ _________________
 
 "O daughter of Daksha! I indeed entered your mouth. My regards to you. I will now go
 where Seetha is. Your boon also came true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7577,8 +7265,6 @@ Surasa; *abraviit* = spoke; *svena* = with her own; *ruupeNa* = form.
 
 Seeing that Vanara being released from her mouth like the moon from the mouth of
 Rahu, goddess Surasa spoke these words assuming her normal form.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7622,8 +7308,6 @@ for the (desired) task; *samaanayasva* = bring together; *vaidehiim* = Seetha;
 
 "O gentle Hanuma! Go according to your comfort to achieve the desired task. Bring
 Seetha together with the great Sri Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7670,8 +7354,6 @@ Seetha together with the great Sri Rama."
 
 Seeing that third very difficult task of Hanuma, all the creatures then praised
 Hanuma saying "Good! Good!".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7715,8 +7397,6 @@ _________________
 
 That Hanuma, equal to Garuda in speed, neared the ocean which is the abode of
 Varuna, entered the sky and went in His original path.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7840,8 +7520,6 @@ by groups of great sages, Gandharvas, Nagas, Yakshas but unpopulated by humans, 
 pervasive, served by the gandharva king Vishvaavasu, roamed by elephants of Devendra, the path of
 the moon and the sun, the auspicious one, a wide canopy of the earth constructed by Brahma, served
 in various ways by excellent courageous groups of Vidyadharas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -7939,8 +7617,6 @@ iva* = like the king of birds; *lamba pakshaH* = with long wings.
 
 Hanuma, the son of Vayu, visible everywhere, obtained the sky without support, like
 the king of birds with long wings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -7961,8 +7637,6 @@ size; *chintayaamaasa* = and thought; *manasaa* = in her mind.
 
 A demoness by the name of Simhika with the power to assume desired form, saw Hanuma
 flying, increased in size and thought thus in her mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -7978,8 +7652,6 @@ my; *vasham* = grasp; *diirghasya* = (after) long; *kaalasya* = time;
 
 "After a long time, this great animal came into my grasp. After long time, today I
 will enjoy my meal."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8020,8 +7692,6 @@ shadow; *chaayaayaam gR^ihyamaaNaayaam* = while the shadow was being grasped;
 
 Thinking thus in her mind, Simhika attracted His shadow. While the shadow was thus
 being grasped, Hanuma thought thus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8071,8 +7741,6 @@ becoming; *samaakshiptaH* = pulled; *tarasaa* = forcefully;
 
 "Like a great boat in the ocean with opposing winds, I am being pulled back
 forcefully, with disabled power."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8131,8 +7799,6 @@ ocean.
 
 After that, Hanuma looking sideways, upwards and downwards, saw a big animal raised
 up in the salty ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -8157,8 +7823,6 @@ this.
 Hanuma saw that animal with a horrible face and thought: "This animal with a strange
 appearance, with great strength attracting shadow, is indeed the animal that had been told by
 Sugriva. There is no doubt in that."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8210,8 +7874,6 @@ season.
 
 That wise Hanuma recognizing that animal correctly as Simhika, increased His body
 greatly, like a cloud in rainy season.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8257,8 +7919,6 @@ _________________
 
 That Simhika seeing the growing body of the great monkey Hanuma, spread her mouth to
 be equal to the middle of Patala.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8332,8 +7992,6 @@ internal organs.
 
 Roaring like a dense cloud, she ran towards the Vanara. Then the wise Hanuma saw her
 opened very big mouth equal to His own body and also her internal organs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -8349,8 +8007,6 @@ repeatedly; *saMkshipya* = contracting; *aatmaanam* = Himself; *nishhpapaata*
 
 That Hanuma with great strength and with a body equal to a diamond, repeatedly
 contracted His body and fell into her opened mouth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8423,8 +8079,6 @@ saw; *nimajjantam* = (Hanuma) sinking; *tasyaaH* = in her; *aasye* = mouth;
 
 Siddhas and Charanas saw Hanuma sinking in her mouth, like the full moon on a full
 moon day being swallowed by Rahu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -8440,8 +8094,6 @@ nakhaiH* = with sharp nails; *atha* = and after that; *utpapaata* = flew up;
 
 Then Hanuma rend her internal organs with His sharp nails and after that flew up
 with a speed equal to that of thought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8488,8 +8140,6 @@ developed; *punaH* = again; *vegaat* = by speed.
 
 That wise Hanuma felling Simhika down with His vision, courage and ability,
 developed again by speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8562,8 +8212,6 @@ plvagottamam* = to that best among Vanaras.
 
 That Simhika with heart rend by Hanuma fell in water with sorrow. Seeing Simhika
 killed by Hanuma, creatures roaming in the sky spoke thus to that best among Vanaras.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -8580,8 +8228,6 @@ done; *saadhaya* = perform; *artham* = the task; *abhipretam* = dear to you;
 
 "O best among Vanaras! A huge animal has been killed by you. A great task has been
 done. Perform the task dear to you auspiciously."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8649,8 +8295,6 @@ done. Perform the task dear to you auspiciously."
 
 "O best among Vanaras! Whoever has the four qualities of courage, vision, intellect
 and skill, all these four virtues like you, such a person will not fail in any task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -8666,8 +8310,6 @@ with a determined goal; *aavishya* = entered; *aakaasham* = the sky; *jagaama*
 
 That Hanuma the respectable one, thus respected by them, entered the sky and went
 like the Garuda with a determined goal.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8726,8 +8368,6 @@ _________________
 
 The best among Vanaras, Hanuma, immediately after getting down also saw an island
 decorated by a variety of trees and also the forests in the region of Malaya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8771,8 +8411,6 @@ the end; *shatasya yojanaanaam* = of hundred yojanas.
 
 Hanuma after almost reaching the other shore, looked in all directions and saw a
 series of trees at the end of his journey of hundred yojanas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8837,8 +8475,6 @@ Rakshasas; *kuryuH* = will do; *kautuuhalam* = curiousness; *iti* = thus;
 
 "After seeing my huge body and the speed, Rakshasas will become curious." - thus
 thought the great Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8877,8 +8513,6 @@ realized self; *viitamohaH* = free from infatuations.
 
 For that reason, Hanuma reduced His mountain-like body and obtained the nature of
 one who reached self-realization, free from infatuations.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8921,8 +8555,6 @@ taking three strides.
 
 Hanuma greatly reducing His size became normal in nature regaining His original
 form, like Vishnu who mitigated the strength of Bali by taking three strides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -8971,8 +8603,6 @@ enemies; *samaasaadya* = obtained; *param samudra tiiram* = the other side of oc
 Hanuma capable of assuming many different beautiful forms, who cannot be defeated by
 enemies, obtained the other side of ocean and being cognizant of Himself restored His own form and
 became with a decided mission.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -9032,8 +8662,6 @@ stopping the sky, and thought thus.
 
 Comment : It is considered an auspicious sign to be welcomed by married women.
 Hanuma seeing the wives of Sagara coming to meet their husband thus bodes well for Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -9051,8 +8679,6 @@ things; *saketa koddaalakanaaLikere* = filled with Ketaka; Uddaalaka and Coconut
 After that great one who looked like a huge mass of clouds, alighted on the mountain
 peak of Lamba with wonderful lower peaks, abundant with various things and filled with Ketaka,
 Uddalaka and coconut trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -9104,8 +8730,6 @@ parvate* = on that mountain.
 After that Hanuma for His part obtained the ocean shore, observed the city of Lanka
 from the top of the mountain, leaving His original form, tormenting animals and birds, alighted on
 that mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 
@@ -9154,8 +8778,6 @@ Having tranersed, by the dint of his strength over the ocean which was infested 
 demons and reptiles and endowed with series of huge waves, and alighting on the shore of the great
 sea, Hanuma then saw the City of Lanka having a resemblance of Amaravati, the capital City of
 Indra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
 </details>
 

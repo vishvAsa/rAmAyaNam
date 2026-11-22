@@ -14,8 +14,6 @@ title = "११८ अग्निदेवेन लङ्कागमनम्
 
 The fire-god appears in person from the burning pyre, carrying Seetha in his arms
 and restores her to Rama, testifying to her purity. Rama later joyfully accepts her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -63,8 +61,6 @@ Seetha; *aN^kena* = in his arms.
 
 Hearing the foregoing auspicious words of Brahma (the creator), the fire-god came
 up, taking Seetha in his arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -112,8 +108,6 @@ form.
 
 Shaking off that funeral pile and taking that Seetha, the daughter of Janaka in his
 arms, the fire-god forthwith sprang up at once in a personified form.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ further adorned with ornaments of flowers, which had not abraded (on her enterin
 coming out of it), who was absolutely beyond reproach and looked just the same (as she did while
 entering the fire and coming out of it), who was absolutely beyond reproach and looked just the
 same (as she did while entering the flames), the fire-god restored her to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -209,8 +201,6 @@ paapam* = no sin exists; *asyaam* = in her.
 
 Then, the fire-god, the witness of the whole world, spoke to Rama as follows "Here
 is your Seetha. No sin exists in her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ either by word; *na manasaa* = nor by mind; *naiva buddhyaa* = nor even by intel
 "This auspicious lady, whose character has been good, has never been unfaithful to
 you who are endowed with strength of character either by word or by mind or even by intellect or by
 her glances."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -310,8 +298,6 @@ arrogant of his valour; *nirjanaat vanaat* = from a lonely hermitage.
 
 "Separated from you, this miserable and helpless lady, was taken away by Ravana the
 demon, who was arrogant of his valour, from a lonely hermitage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ _________________
 "This Seetha, who was fixing her mind upon you ad looking on you as her final
 attainment, was detained in the gynaecium and hidden there. She was guarded by rightful
 female-demons with horrible intellect."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ demon; *pralobhyamaanaa* = even though allured; *tarjyamaanaa* = and frightened;
 
 "Seetha, whose mind was directed towards you, ignored that demon even though allured
 and frightened through various means."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -453,8 +435,6 @@ I; *aajJNaapayaami* = (hereby) command; *te* = you.
 
 "Take back Seetha, who is sinless, with a pure character. She should not be told
 anything harsh. I hereby command you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -508,8 +488,6 @@ joy; *dadhyau* = reflected; *muhuurtam* = for a while.
 Rama, the excellent among the eloquent, whose mind was set on virtue, with a
 pleasant mind to hear the aforesaid speech, reflected for a while, his eyes, entirely filed with
 tears of joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -561,8 +539,6 @@ shreShTham* = to the fire-god; the best of gods.
 
 Hearing those words, the courageous Rama of great prowess and the foremost of those
 upholding the virtue, replied to the fire-god, the best of gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -606,8 +582,6 @@ Ravana.
 
 "Seetha certainly deserves this pure factory ordeal in the eyes of the people in as
 much as this blessed woman had resided for a long time indeed in the gynaecium of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -661,8 +635,6 @@ without indeed examinig Seetha with regard to her chastity.
 "The world would chatter against me, saying that Rama, the son of Dasaratha, was
 really foolish and that his mind was dominated by lust, if I accept Seetha without examining her
 with regard to her chastity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -711,8 +683,6 @@ is undivided in her affection to me.
 
 "I also know that Seetha, the daughter of Janaka, who ever revolves in my mind, is
 undivided in her affection to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -761,8 +731,6 @@ undivided in her affection to me."
 
 "Ravana could not violate this wide-eyed woman, protected as she was by her own
 splendour, any more than an ocean would transgress its bounds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -805,8 +773,6 @@ was entering; *hutaashanam* = the fire.
 
 "In order to convince the three worlds, I, whose refugee is truth, ignored Seetha
 while she was entering the fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ was blazing; *agnishikhaamiva* = like a flaming tongue of fire.
 
 "The evil-minded Ravana was not able to lay his violent hands, even in thought, o
 the unobtainable Seetha, who was blazing like a flaming tongue of fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -907,8 +871,6 @@ not different) from the sun.
 "This auspicious woman could not give way to the sovereignty, existing in the
 gynaecium of Ravana, in as much as Seetha is not different from me, even as sunlight is not
 different from the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -956,8 +918,6 @@ the three worlds; *na shakyaa* = and can no longer be; *vihaatum* = renounced;
 "Seetha, the daughter of Janaka, is completely pure in her character, in all the
 three worlds and can no longer be renounced by me, as a good name cannot be cast aside by a prudent
 man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -1001,8 +961,6 @@ me.
 
 The salutary advice of you all, the affectionate guardians of the world, who are
 saying what is conducive to our good, must be certainly carried out by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 </details>
 
@@ -1060,8 +1018,6 @@ joy.
 Saying thus and getting reunited with her beloved Seetha, the victorious and highly
 illustrious Rama, a scion of Raghu dynasty, who was endowed with a great strength and deserved
 happiness and was being glorified by his exploits, performed by his own self, experienced joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

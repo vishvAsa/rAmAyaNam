@@ -16,8 +16,6 @@ Treck**
 
 Rama and Lakshmana enter into a dialogue with Viradha, the demon and shower arrows on him. Later, Viradha, the demon carries
 Rama and Lakshmana away from Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ who, you two are; *kva gamiSyathaH* = whereto, wish to go; *hi* = really.
 
 Then in his turn that demon Viradha said this sentence filling the forest with his gruesome voice, "I am asking you, really...
 tell me who you are and whereto you wish to go? " [3-3-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ tell me who you are and whereto you wish to go? " [3-3-1]
 **अनुवादः**
 
 Then that highly resplendent Rama said about his Ikshvaku dynasty to the blazing faced demon who is insistent. [3-3-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -136,8 +130,6 @@ to; *dandakaan charasi tvam kaH* = in Dandaka, you move about, you, who.
 
 "Know us as Kshatriya-s with ennobled bearing, and we are trekking the forest...but we wish to know about you, who are you
 that move about in Dandaka forest? [3-3-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -182,8 +174,6 @@ me be informed of me; *raaghava* = Raaghava.
 **अनुवादः**
 
 Viradha said to that truly valiant Rama, "Ah! I'll tell you, oh king, be informed of me, oh Raghava... [3-3-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -228,8 +218,6 @@ me, call.
 **अनुवादः**
 
 "I am the son of Java indeed... my mother is Shatahradaa, and all the demons on earth call me Viradha...'[3-3-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -275,8 +263,6 @@ be killed, and even; *a cChedya a bhedya ca eva* = not, be cut, not, to be slit,
 
 "On my undertaking ascesis I derived a boon from the beneficence of Brahma, by which I will neither be cut, nor slit, nor
 killed with a weapon in this world..."[3-3-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -322,8 +308,6 @@ killed with a weapon in this world..."[3-3-6]
 
 "Leave off this lady without any yearning for her, and you expeditiously flee-away as you have come, then your lives will
 not be snatched away... [3-3-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -369,8 +353,6 @@ not be snatched away... [3-3-7]
 
 Rama in reply said this to that ogre Viradha, whose eyes are fully bloodshot in anger, who is monstrous in his body, and
 evil in intent... [3-3-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -419,8 +401,6 @@ death, you are in quest of, definitely; *raNe sampraapyasi* = in war, you will g
 
 "You knave, fie upon you... you are in quest of you own death for your meanly measures, and definitely you will get it in
 this confrontation. Stay! I will not let you to live... [3-3-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -465,8 +445,6 @@ nijaghaana ha* = well, aiming, at demon, darted, indeed.
 **अनुवादः**
 
 Then, stringing his bow Rama indeed darted very sharp arrows, very quickly and well aiming the demon... [3-3-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -512,8 +490,6 @@ anila tulya gaan* = Garuda, [the Divine Eagle, and] Air-god, equal, in flight.
 
 Indeed seven arrows are let off with perfectly stringed bow, which have golden vanes, and very fast ones that equal the
 flights of Garuda, the Divine Eagle and the Air-god. [3-3-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -553,8 +529,6 @@ dressed [as their fins]; *viraadhasya shariiram bhitvaa* = Viradha's, body, on p
 
 But, they the arrows that are akin to infernos and dressed with peacock feathers as their fins, on piercing the body of
 Viradha they fell onto the ground besmirched with blood. [3-3-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -600,8 +574,6 @@ Viradha they fell onto the ground besmirched with blood. [3-3-12]
 
 When that demon is thus struck, then he placed Vaidehi down from his arms, hauled up his spear, and very angrily rushed
 towards Rama and Lakshmana. [3-3-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -647,8 +619,6 @@ towards Rama and Lakshmana. [3-3-13]
 
 And holding fast his spear that is similar to the Indra's Flagstaff he blaringly yelled a ghastly shriek, and thus he shone
 forth like the wide-mouthed Death, ready-to-gulp. [3-3-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -694,8 +664,6 @@ rain, incessantly rained.
 
 Then with an effulgent arrow-rain those two brothers incessantly rained on demon Viradha, who is similar to the terminator
 of lifetime. [3-3-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -741,8 +709,6 @@ baanaaH* = those, speedy, arrows; *kaayaat niSpetuH* = from his body, spilled ou
 
 He that highly horrendous demon laughed at that arrow-shower, and standing for a while he yawned, and on his yawning and
 stretching his limbs in fatigue those arrows that earlier have gone speedily, spilled out from his body that speedily. [3-3-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -787,8 +753,6 @@ raising up; *raaghavau* = upon two Raghava-s; *abhya dhaavata* = quickly, ran.
 **अनुवादः**
 
 Demon Viradha held back his lives by the touch of boon, and raising up the spear he ran quickly at Rama and Lakshmana. [3-3-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -834,8 +798,6 @@ blaze, like; Rama; *shastra bhR^itaam varaH* = weaponry, wielder, the best;* dva
 
 The best wielder of weaponry Rama ripped that spear apart, which is akin to the Thunderbolt of Indra, and that which is
 like a blaze in the sky, with two arrows in the sky itself. [3-3-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -884,8 +846,6 @@ Mt. Meru, boulder-mass, as with.
 
 Shattered by Rama's blazing shafts that spear fallen on ground like the boulder mass of Mt. Meru when it is shattered by
 Indra's Thunderbolt. [3-3-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -934,8 +894,6 @@ cobra, like, up swinging; *tuurNam aapatataH tasya* = rapidly, crashed, on him; 
 
 They quickly upraised their swords and like a pair of up-swinging black-cobras they rapidly crashed on him, and then battered
 him mightily. [3-3-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -984,8 +942,6 @@ prasthaatum aicChata* = furious one [the demon,] to getaway [to carry away,] he 
 
 He that demon thus beaten very firmly by Rama and Lakshmana, then on grabbing those unwavering ones and manly tigers with
 his arms, that furious demon wished to carry them away. [3-3-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -1037,8 +993,6 @@ charaH yena yaati* = night-walker, by which [way,] he goes; *ayam eva hi naH pan
 Rama does not want to travel comfortably on the shoulders of the demon, but wants to examine what the demon wanted to do
 next, after carrying afar. The prince in Rama will not let the demon go rampant. Besides, the divine fury allows any sinister
 to tread his own way towards his own grave.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -1083,8 +1037,6 @@ let him carry, up to there [anywhere.]
 **अनुवादः**
 
 Knowing the thinking of the demon for sure, Rama spoke to Lakshmana, "Let him easily carry us anywhere on his way... [3-3-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1099,8 +1051,6 @@ like; *skanda gatau chakaara* = on shoulders, having gone on, made as.
 
 But he that night-walker arrogant as he is by his might has uplifted Rama and Lakshmana like babies by that might and courage
 alone, and placed them on his shoulders as one would place babies. [3-3-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -1149,8 +1099,6 @@ gone, towards, forest.
 
 That nightwalker Viradha on placing those two Raghava-s on his shoulders gone towards deeper forest yelling very luridly.
 [3-3-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 </details>
 
@@ -1205,8 +1153,6 @@ pravishtaH* = forest, entered.
 That demon entered into a baffling forest that is like a very dark cloud in its sheen, where a variety of massive trees
 are contained in, numerous flocks of vulturine birds are overspreading, and where wild jackals and other predaceous animals
 are sprawling around, along with Rama and Lakshmana. [3-3-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

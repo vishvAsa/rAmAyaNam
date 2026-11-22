@@ -17,8 +17,6 @@ IV : Kishkindha Kanda - The Empire of Holy Monkeys**
 The war cries of monkey soldiers in their enthusiasm to conquer Ravana are uttered
 in the audience of Sugreeva, when all of them started to their designated directions. This suggests
 the *sugriiva aaj~na* 'the inviolable order of Sugreeva.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ On calling forth all the fly-jumpers for achieving the purpose of Rama's task th
 best fly-jumper and the king of monkeys Sugreeva spoke to all of them, "oh, best vanara-s, you
 shall search all of this earth as I have detailed." Sugreeva said so to all monkeys. [4-45-1,
 2a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ on understanding; *mediniim shalabhaaH iva* = earth, grasshoppers, as with;
 
 Understanding that arduous order of the king of monkeys Sugreeva those best monkeys
 started out covering the earth like grasshoppers. [4-45-2, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ to; *tasmin prasravaNe nyavasat* = on that, Prasrvana [mountain,] he dwelled - r
 
 Rama remained on that Mt. Prasravana along with Lakshmana looking forward to that
 month which is marked for locating Seetha. [4-45-3b, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 </details>
 
@@ -224,8 +216,6 @@ swiftly, transited.
 
 Then the brave monkey Shatabali swiftly started towards the beautiful northern
 quarter that is encompassed by the king of mountains, namely Himavanta. [4-45-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 </details>
 
@@ -285,8 +275,6 @@ The monkey-troop commander Vinata journeyed towards the eastern direction, and t
 fly-jumper, leader of monkeys and Air-god's son Hanuma travelled towards southerly quarter that is
 once trodden by Sage Agastya, along with Lt. Tara, Prince-regent Angada, and others. [4-45-5b,
 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -302,8 +290,6 @@ western, direction; *pratasthe* = started out.
 
 The commander of fly-jumpers and a tigerly monkey Sushena started out towards the
 horrifying western direction that is ruled by Varuna, the Rain-god. [4-45-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 </details>
 
@@ -356,8 +342,6 @@ Then on disposing the commanders of monkey army to all directions according to t
 capabilities, that valorous king Sugreeva who is contented earlier by way of gaining his kingdom
 through Rama, is now gladdened to his heart's content for sending monkey troops to all directions
 as a requital to Rama's help. [4-45-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 </details>
 
@@ -404,8 +388,6 @@ sampratasthire* = expeditiously, started out.
 
 In this way when despatched by their king Sugreeva all the vanara lieutenants
 expeditiously started towards one's own direction. [4-45-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 </details>
 
@@ -500,8 +482,6 @@ started to dash off.
 When those great mighty fly-jumpers have started to dash off some are bawling, some
 highly blaring, some more thundering, and some more oddly bellowing, while some more are roaring
 like lions. [4-45-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -518,8 +498,6 @@ Ravana, we wish to kill, also; *[vacanam uucuH ca* = words, boasted, also.]
 Well-motivated this way by the king Sugreeva those vanara lieutenants put their
 fortitude into boastful words and said, "we lead forth Seetha, we wish to kill Ravana."
 [4-45-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -536,8 +514,6 @@ aatmajaam aahariSye* = quickly, daughter, Seetha, I bring back.
 "I will kill Ravana single-handedly if he chances on battlefield, and then on
 drubbing the other demons I will quickly bring back Janaka's daughter, Seetha." Another monkey
 soldier said so. [4-45-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -555,8 +531,6 @@ said.
 "I alone will bring back Janaki even from netherworlds, who might be shivering owing
 to enervation, and you my monkey-soldier colleagues, you all may stay behind now." Thus another
 monkey-hero said. [4-45-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -572,8 +546,6 @@ yiSyaami* = oceans, I wish to storm.
 
 "I will completely shatter the trees, shred the mountains, split the earth and storm
 the oceans." Thus another monkey gave war cry. [4-45-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -595,8 +567,6 @@ for sure; [I will fly-jump.]
 
 "I can fly-jump a hundred yojana-s, undoubtedly," said one monkey while the other
 said, "I can jump even more than a hundred yojana-s, for sure." [4-45-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -613,8 +583,6 @@ ocean, or, even; *shaileSu ca vaneSu ca* = in mountains, also, in forests, also;
 "My transit cannot be thwarted either on the plane of earth, or in the ocean, or on
 mountains or in forests, or in the netherworld, or in its core." This is the slogan of another
 monkey-warrior. [4-45-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 </details>
 
@@ -661,8 +629,6 @@ in this way; *vacanam uucuH* = words [war whoops,] uttered - and departed.
 
 Thus each individual vanara gave war-whoops with the proper proud of his might in
 the audience of monkeys king Sugreeva and departed. [4-45-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

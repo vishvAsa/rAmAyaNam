@@ -17,8 +17,6 @@ comforts him, saying that a warrior killed in battle, need not be mourned. Vibhi
 personality of Ravana and his qualities to Rama and seeks permission of Rama to perform funeral
 rites to Ravana. Rama directs Vibhishana to perform the obsequies to Ravana, his deceased
 brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ brother.
 
 Seeing his brother lying down dead after defeat in battle, Vibhishana lamented, with
 his mind filled with an outburst of sorrow:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -110,8 +106,6 @@ of turning towards lofty beds.
 
 "Why are you lying killed on the ground, though you are highly worthy of turning
 towards lofty beds, O hero! The valiant one, the celebrated one, prudent in polity?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -156,8 +150,6 @@ as the sun; *apavR^ittena* = knocked down; (why are you lying killed on the grou
 "Having thrown about your two long arms which though decked wit armlets, are now
 motionless and with your diadem brilliant as the sun, knocked down; why are you lying killed on the
 ground/"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -209,8 +201,6 @@ very fate; *praaptam* = has been obtained (by you).
 "O the valiant brother! That which was told by me earlier and that which was not
 liked by you, as you were overcome with sensuality and infatuation; that very fate has been
 obtained by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -263,8 +253,6 @@ of it; *aagataH* = has come.
 "For that which, because of arrogance, neither Prahasta nor Indrajit and others, nor
 Kumbhakarna nor Atiratha nor Narantaka nor you yourself has agreed to my counsel, the consequence
 of it has come now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -334,8 +322,6 @@ ground, the established rule of well-conducted persons has gone. The incarnation
 departed. The epitome of strength has gone. The refuge of enlogies has gone out of sight. The sun
 has fallen to the earth. The moon has merged in darkness. Fire has extinguished its flames and a
 strennous effort has become inactive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -379,8 +365,6 @@ in the dust?
 
 "What is remaining in this world now, while Ravana the foremost of demons, is at
 present lying fast asleep in the dust?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ the shape of Rama.
 "With firmness for its shoot, endurance for its excellent blossom, asceticism for
 its strength, and valour for its firm root, the large tree in the shape of Ravana has been crushed
 in the battle-field, by the tempest in the shape of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -491,8 +473,6 @@ overthrown by a lion in the shape of Rama.
 "With sharpness for its tusks, the line of ancestors for its back-bone, anger for
 its lower parts and graciousness for its proboscis, the elephant in rut in the shape of Ravana is
 lying asleep on the ground, its body having been overthrown by a lion in the shape of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -540,8 +520,6 @@ cloud in the shape of Rama.
 "With prowess and power for its expanded flames, sighs for its smoke and his native
 strength for its glowing heat, the blazing fire in the shape of Ravana the demon has been
 extingushed in the battle-field by the rainy cloud in the shape of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -589,8 +567,6 @@ in the shape of Rama; the ruler of the earth.
 "With the demons for its tail; hump and horn and fickleness for its ears and eyes,
 the bull in the shape of Ravana the demon, the conqueror of its enemies, which vied with the wind
 in energy, is lying dead, struck down by a tiger in the shape of Rama, the ruler of the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -645,8 +621,6 @@ matter.
 
 To Vibhishana, who was thus speaking; enveloped in sorrow, Rama spoke the following
 words, full of reason and which revealed his determined view of the matter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -697,8 +671,6 @@ very exalted type; *ashaNkitaH* = and remained confident (throughout).
 "Ravana did not die in battle, without making an effort. He has fallen in combat,
 eventhough he was endowed with terrible prowess and exhibited extra ordinary enthusiasm of a very
 exalted type and remained confident throughout."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -745,8 +717,6 @@ vyavasthitaaH* = while remaining steadfast in the duty of kshatriya; the warrior
 "There is no occasion to grieve for him having fallen into death in the battle-field
 and by whom the development of his country was wished for, while remaining steadfast in the duty of
 Kshatriya the warrior."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -793,8 +763,6 @@ grieve; *tasmin kaala samaayukta* = for his having been brought under the sway o
 
 "There is no occasion to grieve for his having been brought under the sway of death
 by whom intelligent as he was, all the three worlds including indra were frightened."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -838,8 +806,6 @@ in battle.
 
 "In the past, none has ever been exclusively victorious in a combat. A hero either
 has been killed by his adversaries or had killed the enemies in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -884,8 +850,6 @@ the ascertainment of the sacred scriptures.
 "Such is the destiny proclaimed by the ancients, as highly esteemed for a warrior. A
 warrior killed in battle, does not deserve to be mourned. Such is the ascertainment of the sacred
 scriptures."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -927,8 +891,6 @@ principle; *vijvaraH* = and free from grief; *iha anuchintaya* = think here of;
 
 "Therefore, seeing this ascertainment, understanding the true principle, and free
 from grief, think here of what duty that deserves to be performed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -971,8 +933,6 @@ his brother.
 To that valiant prince (Rama) by whom the aforesaid words were spoken, Vibhishana,
 who was tormented with grief, spoke (as follows) about the suitable action to be done next in
 relation to his brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -1020,8 +980,6 @@ battle-field; *samudraH yathaa* = as the sea; (breaks up); *aasaadya* = on reach
 "The demon, who had never been conquered before in battles, by even all the gods
 combined or by Indra himself, has been conquered, on confronting you in the battle-field, as the
 sea breaks up, on reaching the shore."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -1077,8 +1035,6 @@ maintained; *dhaanaani* = riches; *samarpitaani* = were made over; *mitreShu*
 "By him, gifts were endowed to to mendicents. Pleasures too were enjoyed. The king's
 servents were fully maintained. Rches were made over to friends. Grudges against enemiies were
 revenged."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -1141,8 +1097,6 @@ the other world.
 He completely mastered Vedas, the sacred scriptures. He was highly proficient even in the ritual
 acts. I desire to do, with you graciousness, that which is to be performed to him, who has departed
 to the other world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -1195,8 +1149,6 @@ heaven.
 Thus getting the personality of Ravana well-acquainted by vibhishana by his
 compassionate words, Rama possessing unimpaired goodness, directed Vibhishana to perfom funeral
 rites, which were intended to lead the departed soul to heaven:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 </details>
 
@@ -1239,8 +1191,6 @@ rites, which were intended to lead the departed soul to heaven:
 
 "Hostilities end with death. Our purpose has been accomplished. Let his funeral
 rites be performed. He is even as good mine, as yours."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga109/yuddhasans109.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

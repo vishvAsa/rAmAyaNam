@@ -18,8 +18,6 @@ Sugreeva's apology pacifies Lakshmana. On knowing that Lakshmana is pacified by
 Tara's reasoning Sugreeva makes his apologetic statement and affirms his support to Rama. Then
 Lakshmana's rage comes to a halt and he too is appeased by the open declaration of Sugreeva about
 his adherence to Rama, and Lakshmana asks him to come to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ assented her perspective.
 
 In that way when Tara has submissively argued with words containing probity,
 Saumitri gave assent to her perspective as he is soft by his nature. [4-36-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ cloth. [4-36-2]
 
 This may be said as: 'Sugreeva lost his scare as a dampened cloth looses its
 water on squeezing it. But here there is no squeezing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ aasiit* = without, insobriety, also, he became - he became sober.
 Sugreeva, the king of vanara-s, then ripped apart the superb garland which is so far
 enwreathing his neck, and which has several strands according several gratifications, and he also
 became sober as though the insobriety is ripped from his mind. [4-36-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ formidable, prowess, to Lakshmana; *sam pra harSayan* = very, well, to please - 
 
 Sugreeva who is the most powerful one among all vanara-s, then placatingly spoke
 this humble sentence to Lakshmana, whose prowess is most formidable. [4-36-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ also.
 
 "My prosperity, prominence and this perpetual kingdom of monkeys are once mislaid,
 but oh, Soumitri, I regained all this just by the beneficence of Rama. [4-36-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -323,8 +311,6 @@ like daring and eliminating Vali.
 
 "Who is capable of repudiating such a lordly Rama, even by a fraction of one's own
 bravery, unless he is prepared to tread that kind of path on which Vali has gone. [4-36-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ acquires; *raavaNam vadhiSyati ca* = Ravana, he exterminates, also.
 
 "Virtue-souled Raghava reacquires Seetha, and even exterminates Ravana by himself
 with his own resplendence, while I and my assistance remain only in name. [4-36-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -413,8 +397,6 @@ kR^ityam kim* = succour, measures, why - why extending help.
 
 "Basically, why some measures of succour need be extended to him who has ripped
 seven gigantic-trees, a mountain, and even the earth, all just with one arrow! [4-36-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -455,8 +437,6 @@ to one who is outstretching it; *yasya* = whose - Rama's; *shabdena* = by clango
 
 "He who outstretches his bow with a clangour by which the earth with its mountains
 quakes, oh, Lakshmana, to him these aides are really of what aid, indeed! [4-36-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -504,8 +484,6 @@ behind, treading, I can do - I will just follow Rama.
 
 "Lakshmana, I just can tread behind that king of people, Rama, on his charging to
 eliminate enemy Ravana along with all of his vanguards, that's all. [4-36-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ if you still estimate that I have offended you, you ought to pardon for I am you
 on punishing your own folk for very small reasons, who is there that is not a wrongdoer, whom do
 you leave off, and at the end who are they that remain to be protected by you?' Seetha also says
 'who is there that causes no offence?' in Sundara Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -619,8 +595,6 @@ this, said, indeed.
 
 Lakshmana is pleased with that great-souled Sugreeva who is speaking thus, and said
 this he said to him, indeed, in friendliness. [4-36-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -663,8 +637,6 @@ indeed.
 "In anyway, my brother indeed has a defender with him, oh, king of vanara-s
 Sugreeva, especially you, who are a defender of your own word and a deferential one towards Rama.
 [4-36-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -715,8 +687,6 @@ kingdom's; *anuttamaam shriyam bhoktum* = unexcelled, prosperity of Kishkindha, 
 
 "With this kind of preponderance and plainness you possess, Sugreeva, you are the
 only merited one to enjoy this unexcelled kingdom of monkeys. [4-36-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -766,8 +736,6 @@ therein, doubt, is not there.
 
 "Before long, Sugreeva, dauntless Rama will be eliminating enemies in a war with you
 as his supporter, there is no doubt about it. [4-36-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ your, spoken word; *upapannam ca yuktam ca* = conclusive, also, coherent, also.
 "You are the knower of virtuousness and gratefulness and you do not retreat from
 battlegrounds, or, on your own word, thus what you have said is conclusive as well as coherent.
 [4-36-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ behoves him.
 "Even though one has capability to know his own lapse and speak it up, oh, ablest
 among Vanara-s, who is he that behoves outspokenly, excepting my elder brother and you.
 [4-36-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -921,8 +885,6 @@ these Vanara-s are God-given and they existed even before the birth of Rama as B
 gods to their progeniture. But Lakshmana is saying that Sugreeva is godsend gift and that too after
 a long time of their searching for Seetha, as thy have come searching for Sugreeva according to the
 advise of demon Kabandha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -972,8 +934,6 @@ saantvayasva ca* = your friend, embolden, also.
 
 "However, you quickly start from here along with me, oh, brave one, and embolden
 your friend who is anguishing in the despoilment of his wife. [4-36-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 </details>
 
@@ -1057,8 +1017,6 @@ being a total dedicate he wanted to reprimand the new dedicate Sugreeva and save
 fickle-mindedness. That is why Lakshmana says sorry for what he has uttered in ire, earlier to the
 assertion of Sugreeva of his faithfulness. He asks Sugreeva to come to Rama, not to console Rama,
 but to embolden Rama saying that there is a real adherent in Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga36/kishkindhasans36.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

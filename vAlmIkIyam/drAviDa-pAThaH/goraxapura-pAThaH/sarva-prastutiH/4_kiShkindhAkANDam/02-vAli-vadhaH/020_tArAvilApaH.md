@@ -18,8 +18,6 @@ Tara's lamentation for her departing husband Vali. She unlike other forest being
 who just forsake the dead partner, weeps bitterly for Vali and holds Sugreeva and Rama responsible
 for the untimely death of Vali. The common nature of humans is portrayed through the Vanara
 empress.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -86,8 +84,6 @@ reached, and embraced.
 On seeing her husband felled to ground with a terminator like arrow released by
 Rama, that resentful lady Tara whose face is lovely like the moon, reached and embraced him.
 [4-20-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -105,8 +101,6 @@ maanasaa* = by grief, scorched, with heart; *paryadevayat* = wailed fretfully.
 Tara is agonised when she saw the elephantine and mountainous vanara, namely Vali,
 reduced to no more than an uprooted tree, and she wailed fretfully with grief scorching heart.
 [4-20-2b, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -159,8 +153,6 @@ greet - talk.
 "Oh, stern one in fights, oh, victorious one, oh, best valiant, oh, best flier, I
 have never blamed you either in your presence or in your absence, why do not you talk to me now?
 [4-20-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -210,8 +202,6 @@ isn't it.
 
 "Arise, oh, tigerly monkey, you have to make use of a best bed as best kings will
 not on repose on soil in this way, isn't it. [4-20-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -266,8 +256,6 @@ These dialogs of Tara are not statements of facts but a kind of question like
 imperatives as, "Is this earth a highly cherished darling of yours than me, that is why you still
 cling to her leaving me off, am I that bad..." "Have you built a heavenly city in the pathway of
 heaven and you go there leaving me, am I unfit to come with you..." and the like.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -316,8 +304,6 @@ it is evident.
 "It is evident that you, who conduct yourself righteously, must have built a
 Kishkindha-like delightful city in the pathway to heaven by your leaving lovely Kishkindha.
 [4-20-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ uparamaH tvayaa kR^itaH* = to them, stoppage - bring to an end, by you, made.
 
 "You bring an end to the pleasure trips you made along with us in the sweet smelling
 forests from time to time by your departing. [4-20-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -418,8 +402,6 @@ dejected, despaired and drowned in the sea of sadness. [4-20-9]
 Where the preceding four states of living beings are, waking state, dream state,
 and the state of deep sleep. There is another undistinguished fourth called *turriya* Death is the
 fifth one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -470,8 +452,6 @@ splintering.
 
 "My heart is very sturdy - perhaps, even on seeing you slain and fallen to ground,
 it is not splintering now into thousand splints, though it is tormented by sorrow. [4-20-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -522,8 +502,6 @@ wife, snatched away; *saH ca vivaasitaH* = he, also, expelled [ from Kishkindha]
 
 "By which reason you have snatched away Sugreeva's wife, oh, chief of fliers, and
 even expelled him from Kishkindha, that is the reason why you got this result. [4-20-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ tvayaa mohaat vi garhitaa* = I, by you, unmindfully, refused - brushed me aside.
 
 "I am she who said a beneficial word to you with an interest in your well-being and
 wishing your welfare, but oh, best monkey, you unmindfully brushed me off. [4-20-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -620,8 +596,6 @@ definitely.
 "Oh, endower of honour, apsara-s, the celestial dancers, will be proud of their
 beauty, youthfulness, and expertise in romance, and oh, honourable one, you can stir up their
 hearts towards you by your gallantry, definite is that. [4-20-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -674,8 +648,6 @@ force, to the control of Sugreeva.
 The Death / Time no doubt has a concern with anyone for it is the ender of life, and
 definitely it chanced upon you by the capability of Sugreeva in getting support of Rama, and
 Sugreeva alone controlled you, who are otherwise an uncontrollable force. [4-20-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -727,8 +699,6 @@ and he too is not at all worried for doing such a highly deplorable deed. [4-20-
 
 This verse is not found in some texts like critical edition and in Eastern
 recension etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -776,8 +746,6 @@ not, doleful, I am; *a duHkha upacitaa* = not, sadness, accompanied with - not s
 
 "So far I am not doleful or saddened, but now as a desolate seethed by sorrow I have
 to undergo widowhood and dolefulness. [4-20-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -828,8 +796,6 @@ ucitaH* = for comforts, used to; *viiraH* = brave one; *me angadaH* = my, Angada
 "My Angada is raised fondly, a brave one with gracefulness and one who is accustomed
 to comforts, but which will be the predicament he has to undergo when his paternal-uncle Sugreeva
 gets into a fit of fury. [4-20-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -873,8 +839,6 @@ durlabham bhaviSyati* = his, sight, impossible, it will be [from now on.]
 
 "Oh, son Angada, clearly see your father, a patron of virtue, oh, boy, later it is
 impossible to catch a glimpse of him." Thus Tara said to her son Angada. [4-20-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -924,8 +888,6 @@ another world, you started, you are, isn't it..
 
 "You have started towards other world, isn't it, so reassure your son, kiss goodbye
 on his forehead, and give me your parting messages." So said Tara to Vali. [4-20-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -975,8 +937,6 @@ Rama's; *a nR^iNyam* = no, debt - debtless; *gatam tu* = obtained, but.
 
 "Really, Rama has not only done a great deed of hitting you down, but he also
 achieved indebtedness towards Sugreeva, both in a single promise. [4-20-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -1024,8 +984,6 @@ get; *an udvignaH* = un, ruffled; *raajyam bhunkSva* = kingdom, you wallow in;
 "Now, you are to your heart's content Sugreeva as you regain your wife Ruma, you may
 even wallow in the kingdom unworriedly as your enemy-brother is silenced." So said Tara to
 Sugreeva. [4-20-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -1077,8 +1035,6 @@ you see.
 ""Oh, lord of monkeys, why do not you talk to me, the dear wife of yours, when I am
 prattling at length, by the way, several of your comely wives are here, they are here, see them."
 Thus Tara lamented. [4-20-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -1129,8 +1085,6 @@ wept.
 
 On listening Tara's lamentation the vanara females that are around became plaintive,
 saddened pitiably and wept piteously embracing Angada. [4-20-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -1187,8 +1141,6 @@ leaving; *evam* = this way of going; *na yuktam* = not, befitting.
 leaving your dear son Angada? Your going away leaving such a son, who possesses best aptitudes that
 comes close to your abilities, and the one who always wears an exquisitely pleasant getup, is
 unbefitting. [4-20-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -1244,8 +1196,6 @@ vrajaami* = with forehead, at your, two feet, I am going - I bow down.
 "If I have done any undesirable deed in an indiscriminate way, even in the least, I
 may be pardoned for that, and here I bow down at your feet... oh, masterful one... oh, the lord of
 monkeys lineage... oh, brave one... [Thus Tara wept for Vali.] [4-20-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 </details>
 
@@ -1301,8 +1251,6 @@ pitiably, weeping; *vaalii yatra* = Vali, where he is; *bhuvi* = [there] on grou
 That Tara with her unblemished complexion is seated in the close proximity of her
 husband along with other vanara females, and weeping pitiably in that way, she decided to
 self-immolate, and thus she flounced down onto ground where Vali is slouching. [4-20-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

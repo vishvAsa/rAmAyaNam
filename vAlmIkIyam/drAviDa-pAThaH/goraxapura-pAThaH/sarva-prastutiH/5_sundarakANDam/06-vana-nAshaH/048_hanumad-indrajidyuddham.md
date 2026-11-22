@@ -20,8 +20,6 @@ that Hanuma cannot be slain, Indrajit merely takes him captive by discharging th
 presided over by Brahma, the creator. Hanuma falls on the ground motionless. The demons tie him with
 ropes and drag him to the presence of Ravana. Hanuma yields to their operation of capture, even though
 capable of aborting it, eager as he was to meet Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -86,8 +84,6 @@ of anger; *samaadhaaya* = yet reconciling; *maraaH* = his mind; *samaadidesha*
 Filled with anger on his son Aksha having been killed by Hanuma, yet reconciling his
 mind, the high-minded Ravana the king of demons for his part then instructed Indrajit (his eldest son)
 possessing the qualities of god (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -140,8 +136,6 @@ Brahma the creator.
 "You are well acquainted with mystic missiles. You are the foremost among those who are
 conversant with weapons. You cause anguish even to celestials and demons. Indra and other celestials
 perceived your performance with your missiles acquired by propitiating Brahma the creator."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -191,8 +185,6 @@ with troops of storm-gods; *sureshvara samaashritaaH* = joining Indra the Lord o
 
 "Celestials together with troops of storm-gods joining Indra the lord of celestials were
 not able to endure the strength of your missiles in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -249,8 +241,6 @@ place and time.
 "In a battle against you, every one in the three worlds gets exhausted. You are protected
 yourself by your great intellect and strong arms. You are guarded by your penance. You are aware of
 apportioning place and time properly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -303,8 +293,6 @@ samgraheSu* = in the three worlds.
 "There is nothing impossible for you in your acts of war. With your purposeful thinking,
 everything is possible for you. There is none in the three worlds, who does not know the force of missiles
 as also your (physical) strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -350,8 +338,6 @@ not get; *shramam* = weariness; *nishchita artham* = because of reassurance.
 
 "The strength of your penance as also your prowess and strength in battle resemble mine.
 Admitting you in the squeeze of battle, my mind does not get fatigues because of the re-assurance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -430,8 +416,6 @@ cha* = along with highly abundant number of horses; elephants and chariots.
 "All the Kimkaras, a demon called Jambumali, the heroic sons of ministers and the five
 chiefs of army have been killed, as also the army together with highly abundant number of horses, elephants
 and chariots."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -448,8 +432,6 @@ all.
 
 "Your beloved brother Aksha the prince also has been killed. O annihilator of enemies!
 The strength which is in me or in you, is indeed not there in them at all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -508,8 +490,6 @@ _________________
 
 "O intelligent one! Seeing the great strength, power and prowess of this monkey and keeping
 in view your own strength, exhibit your valour accordingly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -570,8 +550,6 @@ a way; *balaavamardaH shaamyati* = that (further) destruction of our army may st
 "Keeping in view your own strength and of the army, O the foremost among those employing
 missiles, exert yourself in such a way, that further destruction of our army may stop, the moment you,
 whose enemies have died, have arrived near Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -633,8 +611,6 @@ of any weapon.
 "O hero! The armies cannot protect you, even if they are in multitudes. There is no use
 taking a weapon like a strong thunder bolt against the monkey. There is no limit to the strength of
 Hanuma the son of wind-god. It is not possible to kill him, who resembles fire, by means of any weapon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -695,8 +671,6 @@ akSatam* = without any hindrance.
 "Perceiving well the fact in this way and with your mind composed by the thought that
 success can be achieved by your own effort, and remembering the strength of arrows of your wonderful
 bow, go and duly proceed with your work, without any hindrance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -746,8 +720,6 @@ itiyat* = am sending you; *nakhalu* = is not indeed; *shreSThaa* = the best; *iy
 
 "This thought of my sending you is not indeed the best option. But, this decision is
 said to be according to the duties of a king and is the commendation of a warrior-class."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -797,8 +769,6 @@ various kinds of weapons; *samgraame* = in battle; *vijayashcha* = victory too; 
 
 "O destroyer of enemies! You have to learn surely the skill to employ various weapons
 in battle. You have to aspire for a victory too in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -859,8 +829,6 @@ lord.
 Hearing the words of his father, Indrajit the strong demon, possessing a power similar
 to that of gods, with an undepressed mind and with his intellect resolved to fight, performed a circumambulation
 in honour of Ravana the lord.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -910,8 +878,6 @@ in battle; *tataH* = then; *pratyapadyata* = entered; *samgraamam* = the battle;
 
 Acclaimed by the beloved people of his own class, Indrajit who was violent in battle
 then entered the battle-field with an accomplished enthusiasm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -955,8 +921,6 @@ an ocean; *parvasu* = on full moon days.
 
 Indrajit, the illustrious son of Ravana, having eyes like lotus-petals and endowed with
 extra ordinary energy, rushed forth like an ocean on full-moon days.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1016,8 +980,6 @@ their swiftness equal to Garuda the king of eagles.
 That Indrajit, alike Indra the lord of celestials, ascended a chariot with unchecked
 speed and yoked with four sharp-toothed tigers, having their swiftness similar to Garuda the king of
 eagles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1066,8 +1028,6 @@ use of missiles; *abhiyayau* = went; *shiighram* = swiftly; *rathen* = in his ch
 That Indrajit, the chariot-warrior, best among the wielders of bow, skilled in the use
 of weapons and excellent among those proficient in the use of missiles, went swiftly in his chariot
 to where Hanuma was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1114,8 +1074,6 @@ of his chariot; *jyaasvanamcha* = and a twang of bow-string; *kaarmukasya* = of 
 
 Hearing the rattling sound of Indrajit's chariot and a twang of his bow, the heroic Hanuma
 became more thrilled with delight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1164,8 +1122,6 @@ arrows; *jagaama* = proceeded; *abhipretya* = aiming towards; *hanumantam* = Han
 
 Indrajit, skilled in warfare, taking a very big bow with pointed arrows, went aiming
 towards Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1224,8 +1180,6 @@ _________________
 
 While that Indrajit who was energetic in battle, was going ahead to the combat, with
 a bow in his hand, all the quarters became gloomy and ferocious animals howled in many ways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1276,8 +1230,6 @@ _________________
 
 Nagas and Yakshas, great sages moving in astronomical circles, Siddhas and a multitude
 of birds going around the sky, gathered there and clamoured loudly with a great rejoice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1327,8 +1279,6 @@ _________________
 
 Seeing Indrajit coming swiftly with the chariot, Hanuma made a noise with great resonance
 and grew up his body speedily.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1378,8 +1328,6 @@ which made a glaring sound like that accompanying a stroke of lightning.
 
 Ascending on his wonderful chariot and wielding a colourful bow, Indrajit on his part,
 stretched his bow, which made a glaring sound like that accompanying a stroke lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1440,8 +1388,6 @@ each other.
 Those two warriors, Hanuma and Indrajit, possessing great velocity and a great strength
 as also fearless in combat, confronted in the battle like Indra the Lord of celestials and Ravana the
 Lord of demons who tightened hostility with each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1493,8 +1439,6 @@ chariot-warrior; *dhanuSmataH* = wielder of a bow; *chachaara* = (Hanuma) wheele
 Hanuma, of immeasurable strength, having expanded his body, aborted the swiftness of
 arrows of that Indrajit, the great chariot-warrior, the wielder of a bow and well-renowned in battle.
 Hanuma wheeled about in the path of wind-god, his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1554,8 +1498,6 @@ chitrapuNJNaan* = provided with picturesque golden shafts; *susannataan* = with 
 Then, the heroic Indrajit, the destroyer of strong enemies, discharged long and sharp-pointed
 arrows, having beautiful feathers, provided with picturesque golden shafts, with good inclination and
 as swift as lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1606,8 +1548,6 @@ up; *punaH* = again.
 
 Hearing the rattling sound of the chariot and the sound of wooden tomtoms, kettledrums
 and war-drums as also the sound of the bow-string being plucked, Hanuma sprang up again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1657,8 +1597,6 @@ of target; *tasya* = of Indrajit; *abhilakSyasya* = who was skilled in hitting h
 
 Making the total target of Indrajit who was skilled in hitting his target useless, Hanuma
 the great monkey swiftly wheeled about between the arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1699,8 +1637,6 @@ samabhivartata* = stayed; *agrataH* = in front; *tasya sharaaNaam* = of his arro
 
 Hanuma, the son of wind-god, again stayed in front of his arrows and stretching out his
 hands, sprang up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1741,8 +1677,6 @@ minds of all beings.
 
 Those two warriors, full of swiftness and skilled in their war-fare, staged an excellent
 battle, which captivated the minds of all beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1802,8 +1736,6 @@ _________________
 Indrajit could not know the weakness of Hanuma, nor did Hanuma know the weakness of high-minded
 Indrajit. Those two warriors, who were equal in prowess to gods, coming into collision with each other,
 became unbearable to each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1849,8 +1781,6 @@ aborted; *amogheSushareSu* = and (even) unfailing arrows; *sampatatsu* = falling
 
 The aim of his arrows getting aborted and even his unfailing arrows falling down, the
 high-minded Indrajit, who was well-known for hitting his target, got hold of a great thought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1901,8 +1831,6 @@ son; *tataH* = then; *chakaara* = formed; *matim* = an idea; *katham it*
 
 Keeping in view of that monkey being incapable of being slain, Indrajit, Ravana's son
 then formed an idea as to how to resort to capture of that Hanuma the chief of monkey-warriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -1949,8 +1877,6 @@ missile; *paitaamaham* = presided over by Brahma; the creator.
 
 That warrior, Indrajit, excellent among the knowers of missiles and possessing a great
 splendor, then fitted to his bow, a missile presided over by Brahma the creator.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2001,8 +1927,6 @@ nature of missiles; *mahaabaahuH* = and the long-armed; *jJNaatvaa* = feeling ce
 
 Indrajit, who knows the true nature of missiles, feeling certain that he was incapable
 of being killed, bound that Hanuma, the son of wind-god, by that presided over by Brahma the creator.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2049,8 +1973,6 @@ the weapon; *raakSasena* = by the demon; *saH vaanaraH* = that Hanuma; *abhavat*
 
 Fastened with the weapon discharged by the demon, Hanuma became motionless and fell down
 on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2110,8 +2032,6 @@ over by Brahma the Lord (of creation); *saH haripraviiraH* = that Hanuma; *vigat
 Realizing that he had been bound by a missile presided over by Brahma the Lord of creation
 that Hanuma failing to keep his swiftness, considered it to be a favour of Brahma the creator done to
 him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2163,8 +2083,6 @@ of the entire creation.
 Knowing it to be a missile presided over by Brahma the creator and consecrated by spells
 sacred to Brahma, the creator, Hanuma then recollected a boon got by Lord Brahma, the grand father of
 the entire creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2225,8 +2143,6 @@ _________________
 "I have no capacity to liberate from the bondage of the missile due to the power of Brahma
 the father of the world. Thus knowing the bondage, through the missile presided over by Brahma the self-born
 creator imposed by the enemy, it must be obeyed by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2283,8 +2199,6 @@ Thinking of the potency of the missile and the grace of Brahma, the grandfather 
 entire creation enjoyed by him, and thinking about his capacity to liberate from it (which was going
 to alight on him after a while) that Hanuma obeyed the command of Brahma the grand father of the entire
 creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2330,8 +2244,6 @@ creation.
 
 "Since I am being protected by Brahma, Indra and the wind-god, I do not have fear, eventhough
 I am fastened by the missile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2375,8 +2287,6 @@ therefore; *pare* = (let) the enemies; *gR^ihNantu* = capture; *maam* = me.
 
 "Even if I were captured by the demons, a great advantage is foreseen. There will be
 a dialogue with Ravana. Therefore, let the enemies capture me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2424,8 +2334,6 @@ made a loud scream.
 That Hanuma, the destroyer of enemies and who acted after fully considering the pros
 and cons, ascertained his objective and stayed motionless. Approached and captured forcibly by the enemies
 as also frightened by them, he made a loud scream.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2469,8 +2377,6 @@ chords of hemp; *drumachiiraishcha* = and bark of trees.
 
 Seeing that Hanuma, the destroyer of enemies falling motionless, the demons then tied
 him with plaited chords of hemp and bark of trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2529,8 +2435,6 @@ me; *kantuuhalaat* = by curiosity.
 
 Hanuma approved of being forcibly bound and reviled by the enemies, with an assured feeling
 that Ravana was curious as he was, to see him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2571,8 +2475,6 @@ hi* = does not indeed coexist; *anyam bandham* = with another bondage.
 
 That powerful Hanuma, tied with those chords of hemp and bark, was relieved of the missile,
 since the bondage of that missile does not indeed coexist with another bondage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2637,8 +2539,6 @@ means; *naanuvartate hi* = cannot indeed be obliged; *astram* = by the missile.
 Conceiving that Hanuma the foremost among the monkeys, bound with the bark of trees,
 as having been relieved of the missile, the heroic Indrajit, on his part, then became thoughtful as
 follows: "A person tied with other means cannot indeed be bound again by the missile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2657,8 +2557,6 @@ the mystic formula; *na vimR^iSTaa* = has not been considered; *raakSasaiH* = by
 "Alas! My great exploit has been rendered futile. The scope of the mystic formula has
 not been considered by the demons. Once the spell has been made ineffective, another missile cannot
 be operative. All of us became jeopardized."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2708,8 +2606,6 @@ by the missile; *kR^iSya maaNastu* = being dragged away; *rakSobhiH* = by the de
 
 Hanuma, liberated from the missile being dragged away by the demons and afflicted by
 the ties of ropes, could not realize that he was liberated from the missile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2725,8 +2621,6 @@ the cruel demon; *praakR^iSyata* = was dragged; *samiipam* = to the vicinity; *r
 
 That Hanuma, then being beaten with sticks and fists by the cruel demons, was dragged
 to the vicinity of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2779,8 +2673,6 @@ atha* = thereupon; *vyadarshayat* = showed; *tam mahaabalam* = that mighty; *har
 Then, recognizing that Hanuma, tied with barks of trees and ropes, but liberated by the
 missile, Indrajit slowed that mighty Hanuma the jewel among the monkeys, to Ravana there sitting along
 with a body of his attendants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2821,8 +2713,6 @@ in rut.
 
 The demons showed to Ravana, the king of demons that captured Hanuma, the jewel among
 the foremost of monkeys who looked like an elephant in rut.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2872,8 +2762,6 @@ pursuit?; *kaH* = who; *vyapaashrayaH* = is his ally?.
 
 So went round the following conversations from the heroic demons there: "Who is this
 being? Whose savant is he? Where has he come from? What is his pursuit? Who is his alley?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2914,8 +2802,6 @@ being? Whose savant is he? Where has he come from? What is his pursuit? Who is h
 
 Thereafter, some demons, highly enraged, said to one another as follows: "Let this monkey
 be killed, even roasted alive and devoured."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -2969,8 +2855,6 @@ be killed, even roasted alive and devoured."
 
 After crossing over the path swiftly, the high-souled Hanuma saw there the palace of
 Ravana, decorated with highly precious stones and his elderly attendants sitting at the feet of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -3011,8 +2895,6 @@ maaNam* = being dragged; *itastataH* = hitter and thither; *rakSobhiH* = by demo
 
 That Ravana, who was endowed with an extraordinary energy, saw Hanuma the foremost of
 monkeys, being dragged hither and thither by demons of ugly countenance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -3052,8 +2934,6 @@ with luster and strength; *tapantam* = blazing; *bhaaskaram iva* = like the sun.
 
 Hanuma the jewel among the monkeys also saw Ravana the king of demons, charged with luster
 and strength and blazing like the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -3113,8 +2993,6 @@ ordered; (to know); *tam prati* = about that Hanuma.
 That Ravana, rolling his red-hot eyes with rage by seeing that Hanuma and thereafter
 seeing his important ministers who were elder to his by clan and character sitting there, ordered them
 to interrogate Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 </details>
 
@@ -3165,8 +3043,6 @@ sakaashaat = from the presence of Sugreeva.
 
 Questioned, as per order, by those ministers as to the purpose of his operation and the
 motive of his act, that Hanuma at the outset informed, "I came from Sugreeva as an envoy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

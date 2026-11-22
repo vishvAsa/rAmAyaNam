@@ -15,8 +15,6 @@ title_english = "025 Seetha bursts into a wail"
 
 Seetha calls out Rama and others and bursts into a wail not being able to endure the threats of
 ogre women.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -63,8 +61,6 @@ women; *asaumyaanaam* = with a cruel nature;vadantiinaam = were speaking; *bahu*
 **अनुवादः**
 
 As those ogre woman with a cruel nature were speaking a lot harshly and horribly, Seetha cried.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -105,8 +101,6 @@ follows).
 
 Thus being spoken to by ogre women, Seetha with a good mind being frightened a lot spoke as follows
 with a voice indistinct due to tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -147,8 +141,6 @@ not do; *vaH* = (according to) your; *vachaH* = words.
 
 "A human woman is not suited to become a wife of an ogre. All of you eat me according to your desire.
 I will not do according to your words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -192,8 +184,6 @@ _________________
 
 Being in the middle of ogre women, being frightened by Ravana also, like a daughter of gods, that
 Seetha did not get comfort being tormented by grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -240,8 +230,6 @@ was) as though sinking (into); *aatmanaH* = own; *aN^gam* = body; *vepate sma* =
 
 Like a fawn in a forest lost from its herd and tormented by wolves, Seetha was as though sinking
 into own body and shook a lot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -287,8 +275,6 @@ _________________
 
 That Seetha with a broken heart due to grief, held a wide flowering branch of Ashoka tree and thought
 about Her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -329,8 +315,6 @@ chintayantii* = (and) thinking; *na adhigachchhati* = did not get; *antam* = end
 
 Then that Seetha washing Her wide breasts with a flow of tears from eyes and thinking, did not
 get end of sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -380,8 +364,6 @@ raakshasii bhaya saMtrastaa* = trembling with fear of the ogre women; *abhavat* 
 
 That Seetha was shaking like a plantain tree fallen down in an exceedingly windy place, trembling
 with fear of the ogre women, and became with a pale face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -430,8 +412,6 @@ wide and long; *tasyaaH paramstriyaaH* = of that best woman; *vepantyaaH* = trem
 
 That moving plait, which was wide and long, of that best woman was seen to be like a serpant in
 motion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -480,8 +460,6 @@ shokopahata chetanaa* = with a mind hit by sorrow; *aartaa* = struck by calamity
 
 That Seetha tormented by grief, with a mind hit by sorrow, struck by calamity was sighing and let
 down tears and also cried.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -531,8 +509,6 @@ _________________
 
 Seetha being tormented by grief said : "Oh! Rama!" and again "Oh! Lakshmana!","Oh! Kausalya!, my
 mother-in-law" "Oh! Sumitra!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -599,8 +575,6 @@ vaa* = to woman; *purushhasya* = or to a man; *durlabhaH* = is hard; *samudaahR^
 "I thus being tormented by cruel ogre women here lacking Rama, being tormented by grief, when I
 am living even for a moment,' death at wrong time to woman or to a man is hard' - thus being said this popular
 saying in the world is true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -647,8 +621,6 @@ speed of wind.
 
 "This me with small merit,wreched, like an orphan, will perish like a ship in the middle of the
 ocean being hit by the speed of wind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -689,8 +661,6 @@ sorrow.
 
 "Not seeing my husband that Rama and obtaining control of ogre women like a bank hit by water I
 am verily perishing with sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -738,8 +708,6 @@ conduct; *priyavaadiam* = pleasant talker;
 
 "Only fortunate see that my husband with eyes like petals of an expanded lotus, walking with the
 gait of a lion, correct in conduct and a pleasant talker."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -782,8 +750,6 @@ viditaatmanaa* = with a famous soul; *aasvaadyeva* = like after eating; *tiikshN
 
 "To me lacking that Rama with a famous soul, like after eating a pungent poison life in all ways
 is hard."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -833,8 +799,6 @@ idam* = this; *duHkham* = grief; *ghoram* = which is horrible;sudaaruNam = very 
 
 "By what this horrible and very dreadful grief is obtained by me, what kind of great sin had been
 done by me in another life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -882,8 +846,6 @@ avaapyate* = is not obtainable; *mayaa* = by me; *surakshitaa* = I am well prote
 
 "Together with great grief, I desire to give away my life. This desire is not obtainable by me.
 I am well protected by ogre women."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 </details>
 
@@ -924,8 +886,6 @@ I am well protected by ogre women."
 
 "Fie upon human condition! Fie upon being in the control of others. By what reason it is not possible
 according to own desire to give up life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga25/sundarasans25.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

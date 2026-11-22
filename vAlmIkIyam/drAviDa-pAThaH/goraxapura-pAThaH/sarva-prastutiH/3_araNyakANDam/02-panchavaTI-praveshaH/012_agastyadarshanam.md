@@ -18,8 +18,6 @@ Rama, Lakshmana, and Seetha enter the hermitage of Sage Agastya. Sage Agastya is
  Rama as Vishnu incarnate. Sage Agastya gives a divine bow of Vishnu, two quivers with ever
  replenishing with arrows, and a golden sword in a golden sheath to Rama, saying that with
  the very same armoury Vishnu once eradicated evil on earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ disciple, on reaching; *vaakyam etat uvaaca ha* = sentence, this one, spoke.
 
 On entering the hermitage Lakshmana, the younger brother of Raghava, reached Agastya's disciple and
 spoke this sentence to him. [3-12-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ saha* = his wife, Seetha, along with; *munim draSTum praaptaH* = sage, to see ha
 
 "A king named Dasharatha was there, his eldest son and the dynamic one, Rama has arrived along with
 his wife Seetha to see the sage. [3-12-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ come, if at all [if ever you have heard.]
 
 "I am his loyal, dedicated, and adherent younger brother named Lakshmana, if ever you have heard of
 us. [3-12-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ godly sage, to see, we wish to; *nivedyataam* = let it be informed.
 
 "Such as we are, we entered the awful forest at the decree of our father, and we wiush to see the godly
 sage, let this be informed to him." Said Lakshmana to the disciple of Agastya. [3-12-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ This sanctum where the Altar of Fire is established will be well deep inside the
 at the Altar of Fire after passing through many places designated to particular deities, where fire
 oblations are conducted. These places of worship occurring before the hall of homa are listed in the
 coming verses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -323,8 +311,6 @@ arrival; *idam uvaaca* = this, said.
 He that agreeable disciple of sage quickly approached the irrefutable sage by his asceticism, made palm-fold
 and said this to the eminent sage about about the arrival of Rama, exactly as said by Lakshmana. [3-12-6,
 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -377,8 +363,6 @@ and said this to the eminent sage about about the arrival of Rama, exactly as sa
 
 "Sons of King Dasharatha, Rama and also thus Lakshmana have entered the threshold of hermitage along
 with the wife of Rama, namely Seetha. [3-12-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -394,8 +378,6 @@ arhasi* = that, you, to order, apt of you.
 
 "Those two enemy-destroyers have come cherishing to see and serve you, hence it will be apt of you to
 order what next is to be done in this regard." Said disciple to the sage. [3-12-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -442,8 +424,6 @@ also, highly, fortunate one; *idam vacanam abraviit* = this, word, said.
 
 Having heard from the disciple that Rama has arrived with Lakshmana and with highly fortunate Seetha
 the sage said this to him. [3-12-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -498,8 +478,6 @@ for, indeed.
 
 "My heart is indeed yearning for his arrival, and after this long a time Rama providentially came to
 see me." [3-12-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -521,8 +499,6 @@ Agastya is waiting for long to receive Rama to handover a great bow, quivers and
 an eliminator of demons and Rama's mission is also the same. Therefore, on hearing that "Rama arrived
 " his ears are said to have received an ear-pleasing experience, *karNa aananda anubhava*. Maheshvara
 Tirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -571,8 +547,6 @@ tathaa iti abraviit* = having done, with palm-fold, having adored, 'thus it will
 
 Thus said by the great-souled sage and the knower of virtue, the disciple adored him with palm-fold
 saying that "as you say." [3-12-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -621,8 +595,6 @@ on his own.
 Then that disciple went out with a little perplexity and said this to Lakshmana, "Where is this Rama?
 He may come to see the sage and let him enter hermitage on his own." Said that disciple to Lakshmana.
 [3-12-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -668,8 +640,6 @@ siitaam ca* = at Janaka's daughter, Seetha, also; *darshayaamaasa* = started to 
 
 Then on going out to the exterior of that hermitage along with that disciple, Lakshmana has shown him
 Rama and Janaka's daughter Seetha. [3-12-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -716,8 +686,6 @@ Agastya's, word of, while telling [repeating]; *satkaara arham* = reception, wor
 
 While that disciple repeated the obliging words of Agastya entered that reception-worthy Rama into hermitage
 on receiving him well. [3-12-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -759,8 +727,6 @@ looking over; *pravivesha entered.*
 
 And then Rama entered the hermitage with Seetha and Lakshmana looking over it which is overspread with
 docile deer. [ 3-12-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -846,8 +812,6 @@ for worship. These will be seventeen in general, as said in Vedic doctrine, *yo 
 , Altar of Fire will come. Hence, usually none will be allowed inside the hermitages, and all are supposed
 to stay in *aashrama padam* , the hermitage's threshold, a porch or portico minus its roofing.
 As such Rama wanted an entry in to hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -904,8 +868,6 @@ anurodhaneti bodhyam||* Others contradicted this, saying that when Shiva's son, 
 is adorable, why not his Father? Rama Tilaka states *agniratra rudraH* The naming of Agni, Fire-god,
 as in 17th verse itself is Rudra, namely Shiva. ShiromaNi commentary also puts in the same way ' *
 tatra agni shabdena shambhuH ucyate* By the nomenclature of Fire, Shiva is to be construed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -948,8 +910,6 @@ audaaryeNa imam tapasaam nidhaanam [iti]* = by eminence, him, for all ascesis, d
 On seeing the brilliantly glowing sage among those sages, he that bold Rama said this sentence to Lakshmana,
 the fortifier of fortune, "Here comes the godly sage, Lakshmana, by his eminence I comprehend him as
 a depository of all ascesis." [3-12-22b, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -996,8 +956,6 @@ on falling.
 
 That dexterous Rama on saying about that sun-like radiant sage Agastya, he that descendent of Raghu
 fell on the feet of Agastya touching them reverentially. [3-12-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1038,8 +996,6 @@ dharmaatmaa* = addressing himself, but, noble-hearted one; *kR^ita anjaliH* = pa
 
 Then he who is a delight to the on lookers that noble-hearted Rama on revering the sage along with Lakshmana
 and Seetha, the princess from Videha, stood aside with his palms adjoined. [3-12-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1086,8 +1042,6 @@ pleasantries]; *aasyataam iti saH abraviit* = 'be seated', thus, he [sage,] said
 
 Offering seat and water that sage received Rama, and even on exchanging pleasantries that sage said
 to him, "please be seated." [3-12-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1140,8 +1094,6 @@ guest, that sage gave viands to guests according to his hermitic observances. [3
 The hermit's observances include the ritual to Fire-god before food. In some case one has to personally
 light the fire, cook his own food to the chanting of hymns, like Agastya which is an observances called
 *viashva devam* Even now these are observed by some Vedic Brahmans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1197,8 +1149,6 @@ proficient - well-advised, prudent; *raamam* = to Rama; *uvaaca* = spoke to.
 
 Then that eminent and shrewd sage Agastya in righteousness took his seat at the outset, and spoke to
 prudent Rama of righteousness itself, and who by now is sitting with his palms adjoined. [3-12-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1225,8 +1175,6 @@ vaa yadi vaa dveShyo muurkhaH paNDita eva vaa | sampraapte vaishvadeva ante so a
 fire worship before meals, he leads the host to heavens" - *paraashara suutra*. Any false deponent
 giving a false witness not only goes to hell but also is destined to eat his own flesh there. Same is
 the case with the host, who does not perform his daily chores to entertain his guest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1283,8 +1231,6 @@ by those who aspire salvation, Narayana; *priya atithi* much desired guest than 
 guests, hence god. Thus, it is said that Sage Agastya realised Rama as Vishnu and eulogised Rama incarnation.
 Even the daily *puuja* worship is conducted in a manner of treating the deity as a symbolic guest
 in the household. Here that deity himself is the real guest, i.e., Narayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1335,8 +1281,6 @@ him [to Rama,] said.
 
 Saying thus, Agastya adored Raghava well with fruits, tubers, flowers and others according to his ardency,
 and then he said this to Rama. [3-12-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1411,8 +1355,6 @@ decorated with; *divyam mahat idam caapam* = sacred, great, this, bow; *vaiSNava
 "This sacred bow that is decorated with gold and diamonds is crafted by the divine architect Vishvakarma
 pertains to Vishnu, and these unwasteful arrows equalling sun in their blaze are the gift of Brahma.
 [3-12-32, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1431,8 +1373,6 @@ sharp; *jvaladbhiH iva paavakaiH* = blazing, like, Ritual-fire; *baaNaiH* = with
 "Also these two inexhaustible quivers packed with arrows that have the blaze of Ritual-fire, and this
 sword decorated in gold together with its sheath made up of excellent golden are once given to me by
 Indra. [3-12-33b, 34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1493,8 +1433,6 @@ for dwellers; *diiptaam shriyam aajahaara* = radiant, fortune, he fetched.
 
 "By this bow, oh, Rama, once Vishnu eliminated horrible demons in war and brought back radiant prosperity
 to the celestials. [3-12-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1510,8 +1448,6 @@ you receive them.
 
 "The bow, these two quivers, arrows, and the sword, oh, Rama, the endower of grace, receive and wield
 them to triumph over the demons as Indra would wield Thunderbolt. [3-12-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 </details>
 
@@ -1559,8 +1495,6 @@ them to triumph over the demons as Indra would wield Thunderbolt. [3-12-36]
 
 On saying thus that great resplendent and godly sage Agastya, gave all of those best weapons to Rama,
 and again spoke to Rama [3-12-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

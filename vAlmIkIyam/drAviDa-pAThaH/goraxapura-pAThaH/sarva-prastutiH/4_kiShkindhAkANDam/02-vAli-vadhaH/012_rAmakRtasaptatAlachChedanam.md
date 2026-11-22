@@ -23,8 +23,6 @@ states that he could not make out difference between the two brothers for they a
 Sugreeva to wear a garland and again challenge Vali, so with that identification of garland he
 could aim his arrow at the other dueller. Again they all advance towards Kishkindha for the duel
 with Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ up, bow.
 
 On hearing the well-spoken words of Sugreeva that expressed doubt about Rama's
 valour, that great resplendent Rama took-up bow to inculcate credence in Sugreeva. [4-12-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ tree, aiming; *ekam sharam cikSepa* = one, arrow, darted.
 Rama, the bestower of dignity to the sufferers, took up his dreadful bow, aimed at a
 sala tree, and darted single arrow, by which all the directions reverberated with the twang of his
 bowstring. [4-12-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ saalaan giri prastham bhittvaa* = seven, sala trees, mountain, heights, on perfo
 
 The golden arrow released by the mighty Rama perforated all the seven sala trees,
 and even the levelled areas of mountain, and then entered the earth. [4-12-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ That arrow not only drilled one tree as asked by Sugreeva, but all the seven,
 and also a mountain from peak to core, and even entered the seventh earthly plane, that which is
 beneath the sixth plane of the earth, where *atala, vitala, sutala, paataala, rasaatal,
 talaatala* are the names of six strata of earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ astonishment, went into.
 
 On seeing them the seven sala trees that are profoundly fissured, that best monkey
 Sugreeva went into a stunning astonishment at the rapidity of Rama's arrow. [4-12-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ lambiikR^ita bhuuSaNaH* = while his ornaments, made to dangling [on his crouchin
 
 Highly gladdened Sugreeva made palm-fold in that astonishment, kneeled while his
 ornaments dangled, and prostrated before Raghava with his head touching the ground. [4-12-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ present before; *mam* = to Rama; *idam ca uvaaca* = this, also, said.
 Overjoyed with that deed Sugreeva said this to that virtue-knower, the one who is
 proficient among all experts of missiles, namely the valorous Rama, who is just in his presence
 him. [4-12-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ capable of; *vaalinam kim punaH* = of Vali, why, again [speak of him.]
 
 "You with your arrows, oh, best one among men, are capable of eliminating all the
 gods including Indra, oh, lord, then why to speak of Vali. [4-12-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -467,8 +449,6 @@ sthaataa* = who, stands.
 
 "By whom seven great sala trees, a mountain and also the earth is ripped off with
 only one arrow, oh Kakutstha, who then can stand up to you in the vanguard of war. [4-12-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -516,8 +496,6 @@ me, heightened, is the joy.
 "Today on gaining a kind-hearted friend like you, who is similar to Indra and
 Rain-god who accord favour on their own, my distress is gone and my joy is heightened.
 [4-12-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -565,8 +543,6 @@ anjaliH* = by me, joined, this, palms - in supplication.
 "Oh, Rama, today itself you eliminate that enemy of mine in a brother's semblance
 for my happiness, for which I adjoin my palms in supplication." Thus Sugreeva requested Rama.
 [4-12-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ prati uvaaca* = wrods, replied.
 That great percipient Rama embraced Sugreeva, which Sugreeva is pleasant in his look
 for he gained confidence by now, and who is an alternate of Lakshmana to partake Rama's affection,
 and then Rama said these words to such a Sugreeva in reply. [4-12-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -670,8 +644,6 @@ anarthaka bhaatR^i vyapadesham*where *an+arthaka* is not, meaningful - meaningle
 A meaningless nomenclature called a brother' for that brother who has
 no brotherliness for his brothers. Sugreeva do have such a brother Vali, from whom he got the redolence
 of cruelty alone, but not any brotherliness. Rama Tilaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -718,8 +690,6 @@ aatmaanam aavR^itya* = in thickets, of forests, with trees themselves, covering 
 
 They all on quickly going to Kishkindha, the city of Vali, hedged themselves in the
 thickets of forest trees and waited. [4-12-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -767,8 +737,6 @@ the purpose of; *vyanadat ghoram* = shouted, boisterously.
 Sugreeva firmly tightened his girdle-cloth for the duel and shouted boisterously for
 the purpose of inviting Vali for a duel, and his rapidity in shouting appeared as though to crack
 the sky. [4-12-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -828,8 +796,6 @@ of his day this simile is suitable,' while some say that 'Vali is not going to s
 day now itself hence this is unsuitable.' And some other older mms, contain this simile as
 *toyadaat iva bhaaskaraH * i.e., 'came out
 like blazing sun from behind the black cloud.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -882,8 +848,6 @@ like the awful fight between the planets Mercury and Mars in skies. [4-12-17]
 "The encounter between Michael and Satan is similarly said to have been as if :
 "Two planets rushing from aspect malign / Of fiercest opposition in midsky / Should combat, and
 their jarring spheres / compound." Paradise Lost. Book VI. - So say Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -933,8 +897,6 @@ jaghnatuH* = in fight, each other battered.
 
 Those two brothers who are convulsed in frenzy battered each other in that fight
 with their thunderbolt-like palms, and lightning-like fists. [4-12-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -986,8 +948,6 @@ their appearance, like the Ashwin twins among gods. [4-12-19]
 
 The Twins of Gemini, as known in European astronomy by names Castor and Pollux,
 or the Dioskuri are the Ashwin twins of Hindus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1035,8 +995,6 @@ moktum = to release; *buddhim* = mind; *na kR^itavaan* = not, made.
 For which reason Raghava could not differentiate between Sugreeva or Vali, for the
 same reason did not make up his mind to release his arrow, otherwise it would have been a deadening
 arrow, as confusion is the only reason for Rama. [4-12-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1086,8 +1044,6 @@ Vali; *bhagnaH sugriivaH* = broken - whacked, Sugreeva; *naatham* = the benefact
 
 Meanwhile Sugreeva is unable to spot out his benefactor Raghava as Vali whacked him
 down, and thereby he immediately fled to Mt. Rishyamuka. [4-12-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1134,8 +1090,6 @@ Sugreeva; *pravivesha mahaavanam* = entered, great forest.
 
 Sugreeva is debilitated and enervated by Vali's thwacking till his limbs soaked in
 blood, and he entered the great forest of Rishyamuka as Vali chased him. [4-12-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1183,8 +1137,6 @@ nivR^ittaH* = by curse's, fear, from there, returned.
 On seeing Sugreeva's entry into the forest of Rishyamuka, Vali said to him "you are
 let off for now..." and saying so he returned to Kishkindha from there in view of fear from curse
 of Sage Matanga. [4-12-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1231,8 +1183,6 @@ that, forest, alone, he came.
 
 Raghava also came to that forest, along with his brother Lakshmana and along with
 Hanuma, where that monkey Sugreeva fled. [4-12-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1279,8 +1229,6 @@ piteously, spoke, this.
 
 Seeing the arrival of Rama with Lakshmana, Sugreeva ashamedly turned his eyes down
 to earth and piteously spoke this without eyeing Rama [4-12-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1333,8 +1281,6 @@ what is, done.
 
 "Showing your dexterity you encouraged me to invite Vali for fight, but you got me
 battered by my enemy, what is this done by you." [4-12-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1350,8 +1296,6 @@ here, would not, have come.
 
 "You should have truly made it known at that time only, oh, Raghava, that you will
 not kill Vali, then I would not have come here, to Kishkindha. [4-12-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1397,8 +1341,6 @@ woefully, this way, while saying; *raaghavaH punaH abraviit* = Raghava, again, s
 
 Rama replied that great-souled Sugreeva who is speaking woefully with pathetic words
 in this way. [4-12-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1445,8 +1387,6 @@ in this way. [4-12-28]
 
 "Sugreeva, by which reason I have not let-off an arrow such as that of mine, that
 reason may be heard and let the anger be discarded. [4-12-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1487,8 +1427,6 @@ sthaH* = to each other, resemble, you both are there.
 
 "By ornamentation, attire, physicality and movements, you and Vali look-alike.
 [4-12-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1535,8 +1473,6 @@ upalakSaye* = among you, difference, not, spotted.
 
 "By your voice, bodily glow also thus in your looking, also in bravery and in
 speech, oh monkey, I could not mark any difference. [4-12-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1583,8 +1519,6 @@ speech, oh monkey, I could not mark any difference. [4-12-31]
 
 "Thereby, oh, great monkey, I have not released this great speeded and enemy
 annihilating arrow of mine as I was confused in the similarity of your personalities. [4-12-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1634,8 +1568,6 @@ it will be, isn't it; hence; *iti maya kR^itaH* = thus [ thinking,] by me, not d
 
 "I was ambiguous by your similarities, as such I have not released this ghastly and
 life-taking arrow, otherwise the basic object of ours will be ruined, isn't it. [4-12-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1687,8 +1619,6 @@ _________________
 "When my unawareness and fallacy hazardously afflicts none but you in the form of my
 own arrow, oh, brave lord of monkeys, then I will be establishing my own imbecility and naivety,
 isn't it. [4-12-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1741,8 +1671,6 @@ this one, shelter,
 "Eliminating one who is protected means a terrifying sin of highest order, even so,
 myself and Lakshmana and also thus Seetha with her exquisite glow are all dependent on you, and you
 are our shelterer in this forest. [4-12-35, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1789,8 +1717,6 @@ see.
 "Therefore, oh, monkey, again you fight with him without doubting me, and I will
 render him ineffective at this moment only with a single arrow of mine, and you can see Vali
 squirming on the ground. [4-12-36, 37],
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1837,8 +1763,6 @@ you.
 
 "You have an identification for yourself, oh lord of monkeys, by which you can be
 identified when you are engaged in duel. [4-12-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1888,8 +1812,6 @@ extracting - picking up; *mahaatmanaH asya sugriivasya* = noble-souled one, his,
 
 "Lakshmana, pick up this gaja creeper that is beautiful in its appearance and let
 this noble souled Sugreeva be garlanded with that." So said Rama to Lakshmana. [4-12-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1939,8 +1861,6 @@ vyasarjayat [vi ava sarjayat]* = his [Sugreeva's], around neck, slung it.
 
 Then Lakshmana plucked that gaja creeper with flowers growing at the foot of the
 mountain, and slung it like a garland around the neck of that Sugreeva. [4-12-40] n
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -1991,8 +1911,6 @@ iva* = with herons, train of, like; *shushubhe* = shone forth.
 He that prosperous Sugreeva with that flowery-creeper adorning his neck then shone
 forth like a black rain cloud against a backdrop of rich ochry colour of sunset, and with a train
 of herons adorning that cloud like a garland. [4-12-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 </details>
 
@@ -2034,8 +1952,6 @@ Kishkindha; *aapa* = he reached it.
 He that Sugreeva whose physique became effulgent by that creeper-garland is again
 emboldened by Rama's words, and he again advanced to Kishkindha with Rama, and reached it again.
 [4-12-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

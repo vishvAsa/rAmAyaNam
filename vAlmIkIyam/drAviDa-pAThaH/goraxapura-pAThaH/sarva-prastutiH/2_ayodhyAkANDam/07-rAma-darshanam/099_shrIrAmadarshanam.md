@@ -18,8 +18,6 @@ place of search. After proceeding for a distance, Bharata beholds Rama's hermita
 seated in the hut, wearing matted locks. Bharata laments on Rama's misfortune of living as an
 ascetic Bharata and Shatrughna throw themselves on Rama's feet in salutation. Rama embraces them
 both.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ Shatrughna.
 
 Having stationed his forces, Bharata set out eagerly to see his brother, pointing
 out the sign of Rama's habitation to Shatrughna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ mothers; *shiighram* = soon; *jagaama* = (and) went; *agre* = ahead;
 
 Bharata, who was affectionate towards the elders, asked the sage Vasishta to bring
 his mothers soon thereafter and went ahead quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ his mothers soon thereafter and went ahead quickly.
 
 Sumantra also, equally desirous of seeing Rama; followed Shatrughna at a little
 distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ that wood of ascestics.
 
 While the illustrious Bharata passed on, he observed in that wood of ascetics, a
 leafy hut of his brother together with a small hut made of leaves, nearby.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ beheld; *kaaSThaami* = wood; *avabhagnaami* = that had been broken up;
 
 Bharata then beheld wood that had been broken up and heaps of flowers gathered in
 front of that hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -314,8 +302,6 @@ hermitage.
 While coming to the hermitage, Bharata saw some signs here and there serving as a
 proper direction to that hermitage, tufts of Kusha grass and strips of bark tied to the trees by
 Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ buffaloes; *tasmin vane* = in that abode; *kR^itaan* = made ready;
 
 Bharata also saw in the vicinity great heaps of dried dung of deers and buffaloes,
 kept ready for protection against cold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -417,8 +401,6 @@ surrounded him) on every side.
 
 Then, proceeding further, the valiant and the mighty armed Bharata spoke to
 Shatrughna in joy, as also those ministers who surrounded him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -465,8 +447,6 @@ nadiim* = Mandakini River; *naati duure* = is not so far; *itaH* = from here.
 
 "I think we have reached the place about which Bharadwaja directed us. I believe
 Mandakini River is not far from here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -514,8 +494,6 @@ tied up; *uchchaiH* = from above; *ayam* = this; *bhavet* = may be;
 
 "These pieces of bark have been tied up from above. This may be the path provided as
 signs by Lakshmana in order to find his way back in odd hours of darkness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -562,8 +540,6 @@ this; *parikraantam* = is a roaming place; *kuN^jaraaNaam* = of elephants;
 
 "At the side of the mountain, this is a roaming place of elephants, having huge
 teeth, violent as they are and ferociously roaring at each other."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -610,8 +586,6 @@ teeth, violent as they are and ferociously roaring at each other."
 
 "See this intense smoke coming from that fire which the sages in the forest always
 desire to keep in their hermitages."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -658,8 +632,6 @@ venerable a man; *maharSimiva* = as a sage.
 
 "Here, I can see joyfully Rama, the tiger among men, who gives respect to elders and
 is as venerable as a sage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -710,8 +682,6 @@ people (his ministers and others).
 
 Proceeding for a while on Chitrakuta mountain and reaching the River Mandakini, that
 Bharata said to his ministers and others as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -764,8 +734,6 @@ life!.
 "The foremost of men and the Lord of the people, having sought seclusion, sat on the
 floor, delighted as he was in the posture of a hero (with his left foot placed on his right knee).
 O Fie unto my birth and life!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -807,8 +775,6 @@ forest.
 
 "Rama the Lord of Men with great luster, has been overtaken by this misfortune
 because of me and leaving all enjoyments, is living in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ Lakshmana; *prasaadayam* = and seek to regain (Rama's) grace.
 
 "Thus abhhored by the world, I will fall on the feet of Rama, Seetha and Lakshmana
 and seek to regain Rama's grace."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1052,8 +1016,6 @@ hoods, in the same way of Bhagavati (the realm of Nagas), decked with a couple o
 sheaths of gold, adorned with two shields decorated with flowers of gold, finger-guards embroidered
 with gold and in different colours suspended on walls and which hut was unassailable by hordes of
 enemies as is a lion's cave to deer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1101,8 +1063,6 @@ Rama.
 
 Bharata saw a sacrificial altar in the north-east corner having a steep descent,
 extensive in area and having a sacred fire burned in the hermitage of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1147,8 +1107,6 @@ brother; *raamam* = Rama; *aasiinam* = seated; *uTaje* = in the hut;
 
 Looking around for a moment, Bharata beheld his elder brother, Rama himself seated
 in the hut, wearing matted locks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1201,8 +1159,6 @@ Bharata saw that Rama clad in an antelope-skin and robes of bark, seated close b
 resembling a fire (in brilliance), with the neck and shoulders of a lion, mighty arms and eyes
 resembling the lotus, the very virtuous Lord of the Earth extending upto the ocean, the Eternal
 Brahma, and seated on the ground spread with Darbha grass, with Seetha and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1249,8 +1205,6 @@ grief that passessed him; *abhyadhaavata* = rushed towards Rama.
 
 Beholding him, the illustrious and the high-souled Bharata the son of Kaikeyim
 distraught by the grief that possessed him, rushed towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1300,8 +1254,6 @@ words.
 **अनुवादः**
 
 On seeing his brother, Bharata broke into lamentations and in a voice strangled with sobs, unable to restrain his agony with firmeness, said:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1352,8 +1304,6 @@ _________________
 
 "My elder brother who is fit to be honoured in an assembly by a body of ministers
 around him, is now being served by a body of wild beasts around him in this jungle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1401,8 +1351,6 @@ articles of apparel; *aacharan* = and following; *dharmam* = pravaste = is weari
 
 "That magnanimous hero, who formerly used to possess countless articles of apparel
 is now wearing two antelope-skins, following ascetic righteousness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1452,8 +1400,6 @@ who; *tadaa* = then; *aadhaarayat* = donned; *vividhaaH* = various kinds;
 
 "How this Rama, who used to wear various kinds of colourful flowers, is bearing this
 burden of matted locks now?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1501,8 +1447,6 @@ injunctions; *saH* = that Rama; *parimaargate* = is striving after; *dharmam*
 
 "He who acquired merit through countless sacrifices performed according to the
 prescribed injunctions, now follows the path of righteousness through asceticism!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1549,8 +1493,6 @@ venerable elder brother; *sevyate* = is smeared; *malena* = with dust?
 
 "He whose body was formerly rendered fragrant by white sandal paste, has only dust
 with which to smear the limbs of this venerable elder brother!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1598,8 +1540,6 @@ condemns!
 
 "Rama who used to have happiness, has fallen into this misfortune, because of me
 cursed be my reprehensive existence that the whole world condemns!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1647,8 +1587,6 @@ groaming.
 
 Thus did that pitiable Bharata lament, perspiration be-dewing his lotus-like
 countenance and, without touching Rama's feet, fell down grooming.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1696,8 +1634,6 @@ further.
 
 Overcome with grief, the highly valiant prince Bharata cried out "O, Noble One!"
 once and in his distress, was unable to speak anything further.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1748,8 +1684,6 @@ choked with tears.
 
 Crying at the top of his voice, "O, Noble One" only, on seeing the illustrious Rama,
 he was unable to speak further, his throat choked with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1799,8 +1733,6 @@ both; *avartayat* = could not restrain; *ashruuNi* = his tears.
 
 Shatrughna too, weeping, threw himself at Rama's feet and Rama too, embracing them
 both, allowed his tears to fall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 </details>
 
@@ -1854,8 +1786,6 @@ the moon (are seen in conjunction); *shukra bR^ihaspatibhyaam* = with Venus and 
 
 Then, in that forest, the princes Rama and Lakshmana were seen by Sumantra and Guha,
 as in the sky, the sun and the moon are seen in conjunction with Venus and Jupiter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1916,8 +1846,6 @@ shed; *ashruuNi* = tears.
 All those dwellers in the woods, seeing those princes resembling leaders of
 elephant-herbs meeting together there in that great forest, losing their cheerfulness, began to
 shed tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga99/ayodhyasans99.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

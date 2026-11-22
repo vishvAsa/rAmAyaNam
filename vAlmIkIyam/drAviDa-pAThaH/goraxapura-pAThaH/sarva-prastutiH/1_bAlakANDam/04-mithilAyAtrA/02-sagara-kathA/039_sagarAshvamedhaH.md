@@ -21,8 +21,6 @@ The ritual horse released by Emperor Sagara is snatched away by Indra
  if it is not found on earth. And the princes will dig earth when they
  have not found the horse on earth, to the grief of beings living in
  netherworlds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ The ritual horse released by Emperor Sagara is snatched away by Indra
 On listening the narration of Vishvamitra, Rama, the delighter of Raghu's
  dynasty is highly rejoiced, and at the end of the episode he spoke to
  sage whose glow is fire like. [1-39-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ On listening the narration of Vishvamitra, Rama, the delighter of Raghu's
 I am interested to listen this episode exhaustively, oh, Brahman, let
  good betide you, how my ancestor Sagara had completed the Vedic-ritual,
  really. [1-39-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ On listening the words of Rama that are inclusive of his inquisitiveness,
  Sage Vishvamitra smilingly spoke to that descendent of Kakutstha, "oh,
  Rama, let the episode of the great-souled Sagara be listened vividly."
  Vishvamitra thus commenced to narrate that episode. [1-39-3, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -232,8 +224,6 @@ On listening the words of Rama that are inclusive of his inquisitiveness,
 The father-in-law of god Shankara who is well-known by the name of
  Himavan sets eyes on Mt. Vindhya, which stands as loftily as Himalayas,
  and those two mountains peer at each other. [1-39-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -253,8 +243,6 @@ Oh, best one among men, Rama, that Vedic-ritual of Sagara started
  in between those two mountains, namely Himalayas and Vindhya ranges,
  and oh, tigerly-man Rama, that area is renowned for Vedic-rituals, isn't
  it! [1-39-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -306,8 +294,6 @@ Oh, dear sire Rama, the grandson of Sagara and the son of exiled Asamanja
 **टिप्पनी**
 
 Details regarding the release of horse are at Bala Kanda 1-14-1
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -354,8 +340,6 @@ _________________
 And on the day of a sacred function called ukthyam
  , Indra assumed the form of a demon and stole the ritual horse of the
  chief of the ritual, namely Sagara. [1-39-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -408,8 +392,6 @@ _________________
 While that ritual-horse of the great-souled Sagara is stolen, all the
  congregations of the Ritviks, the religious-teachers, then spoke to
  the chief propitiator, namely Sagara. [1-39-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -433,8 +415,6 @@ While that ritual-horse of the great-souled Sagara is stolen, all the
 'Oh, Sagara,the descendent of Kakutstha, at this auspicious time the
  ritual horse is hastily diverted, you kill him who stole the horse,
  and let that horse be fetched'. [1-39-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -455,8 +435,6 @@ While that ritual-horse of the great-souled Sagara is stolen, all the
  us, thereby, oh, king, action may be taken as to how there can be no
  fault in proceedings of the ritual.' The religious-teachers of Sagara
  have advised him in this way. [1-39-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -508,8 +486,6 @@ _________________
 On hearing the words of religious-teachers that king Sagara indeed
  spoke this much to his sixty thousand sons in that religious-council.
  [1-39-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -529,8 +505,6 @@ On hearing the words of religious-teachers that king Sagara indeed
  since oh, best ones among men, holy-sanctifiers who themselves are sanctified
  by the Vedic-hymns are conducting this glorious Vedic-ritual, isn't
  it. [1-39-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -586,8 +560,6 @@ _________________
 'Oh, sons, you may therefore proceed to search for the horse and its
  thief on entire earth as far as it is garlanded by the ocean, and safety
  betides you all. [1-39-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -607,8 +579,6 @@ _________________
 'Oh, sons, let each prince advance searching one square yojana of
  earth, by my order you dig up the earth until the appearance of the
  horse, while searching for the stealer of that horse. [1-39-14b, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -652,8 +622,6 @@ _________________
  Amshuman, and with the congregation of religious-teachers till the horse
  appears, as I am under vow of the ritual.' Thus Sagara instructed to
  his sixty thousand sons and stayed back at the ritual place. [1-39-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -696,8 +664,6 @@ _________________
 
 Animated by their father's words those great-mighty princes enthusiastically
  proceeded onto earth's surface in the preliminary round of search. [1-39-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -759,8 +725,6 @@ But, oh, tigerly-man Rama, on going round the earth in its entirety
  each of them, and each of them hollowed out each and every area on the
  surface of earth with their arms that have the touch of the diamonds.
  [1-39-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -802,8 +766,6 @@ But, oh, tigerly-man Rama, on going round the earth in its entirety
 
 Mother Earth bewailed while she is ruptured with spears also that are
  similar to thunderbolts, besides with very gruelling ploughs. [1-39-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -855,8 +817,6 @@ _________________
 Oh, Raghava, there emerged an unbearable rumpus from the serpents,
  asura-s, demons, and other beings living underneath the surface of earth,
  while they are killed during hollowing the earth. [1-39-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -900,8 +860,6 @@ Oh, Rama, the legatee of Raghu's dynasty, thus sixty thousand square
  yojana-s of the earth is dug over, so as to make the earth's outermost
  plane as the unsurpassed rasaatala, the
  sixth subterranean and the nethermost plane. [1-39-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -954,8 +912,6 @@ The *jambudwiipa* is a continent according to Hindu mythology
  tathaa shakaH puShkaraH ca eva ca saptamaH* the seven continents
  are *jambu- plakSha - shaalmali- kusha - kraunca - shaka - puSkara*,
  and *jambudwiipa* is one among them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -1001,8 +957,6 @@ _________________
 All the gods along with gandharva-s, asura-s, and reptiles who are
  distraught at heart for the plight of earth have approached the Forefather,
  Brahma. [1-39-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -1045,8 +999,6 @@ All the gods along with gandharva-s, asura-s, and reptiles who are
 They the gods who are very highly scared, and who are chap-fallen,
  then spoke this sentence to the great-souled Forefather Brahma on gaining
  his grace. [1-39-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -1089,8 +1041,6 @@ They the gods who are very highly scared, and who are chap-fallen,
 
 'Oh, god Brahma, the sons of Sagara are digging entire earth, thus
  aquatic beings and many great-souls are being destroyed. [1-39-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 </details>
 
@@ -1134,8 +1084,6 @@ They the gods who are very highly scared, and who are chap-fallen,
  our ritual horse...' thinking thus and suspecting everyone those sons
  of Sagara are torturing all the living beings.' Thus all the gods have
  appealed to Brahma." So said Sage Vishvamitra to Rama and others. [1-39-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

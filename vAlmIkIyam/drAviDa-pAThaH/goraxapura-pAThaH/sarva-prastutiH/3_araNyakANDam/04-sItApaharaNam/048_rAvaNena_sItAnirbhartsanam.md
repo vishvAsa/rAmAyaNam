@@ -16,8 +16,6 @@ title_english = "048 Ravana tempts Seetha"
 Ravana vaingloriously extols himself and tempts Seetha with all impossible comforts and luxuries, if
 she obliges him and comes to Lanka with him, leaving Rama. She curtly dismisses all his baiting and
 luring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ _________________
 
 When Seetha spoke thus Ravana is embittered, and knitting his eyebrows he indeed spoke these rudish
 words to Seetha. [3-48-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ one who is - ten, faced; *prataapavaan* = one who is - highly valorous one; *raa
 
 "I am known as Ravana, oh, lady with superb complexion, let safety betide you, the highly valorous and
 ten-headed stepbrother of Kubera. [3-48-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -181,8 +175,6 @@ _________________
 
 "I am that Ravana at whose sight all the gods together with gandharva-s, evil-spirits, birds and snakes
 will always be frightened and fleeing, as with the people frightened and fleeing from death. [3-48-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -198,8 +190,6 @@ stepparent, brother; *vaishravaNaH* = Vaishravana [Kubera,]; *raNe vikramya ni r
 
 "I am that Ravana who when infuriated for some other reason took up a duel with Kubera, his brother
 from stepparent, wherein that Kubera is set up against and completely trounced in a combat. [3-48-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -249,8 +239,6 @@ kailaasam adhyaaste* = mountain, excellent, on Kailash, living.
 by humans, is tormented fearfully and made to completely abandon his wealthiest place which is presided
 over by him till then, and I am the one who made that Kubera to flee to the excellent Mt. Kailash where
 he is somehow living, because I will not cause any harm on Mt. Kailash as I hold it sacred. [3-48-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -298,8 +286,6 @@ he is somehow living, because I will not cause any harm on Mt. Kailash as I hold
 "I am that Ravana, oh, auspicious lady, who just by his valour acquired Kubera's auspicious aircraft
 known as Pushpaka, whose pilotage is just by the wish of its aviator, with which I will be travelling
 in skies. [3-48-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -346,8 +332,6 @@ in skies. [3-48-6]
 
 "Just by seeing rancour-shot face of mine, oh, Maithili, all the gods will quickly shoot off, even if
 Indra is leading them, then where is the question of their confronting me. [3-48-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -398,8 +382,6 @@ obtains [effectuates].
 "Where I will be staying there the Air-god wafts doubtfully, lest his gusts and blasts may hurt me,
 and the Sun also effectuates his singeing sunbeams as cooling moonbeams, lest I may abduct his wife
 Prabha, the Sunshine. [3-48-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -450,8 +432,6 @@ of leaves; *nadyaH ca* = rivers, also; *stimita udakaaH* = with quiet, waters; *
 "At places where I will be staying or freely moving there the leaves of trees will be less of rustle,
 lest I may wilt them up, and there the gush of water of rivers too will quieten, lest I may dry them
 up. [3-48-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -499,8 +479,6 @@ shore is there.
 "My magnificent city known as Lanka is there on the other shore of the ocean, plethoric with all kinds
 of amenities, as well as with ghastly demons, which city will be on par with Indra's Amaravati, but
 for meekly gods and meaningless souls. [3-48-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -543,8 +521,6 @@ _________________
 
 "That gorgeous city is completely walled in with compound walls that are adorned with whitish silver,
 and its palace-chambers are golden, and its archways are fully jewelled with lapis jewels. [3-48-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -595,8 +571,6 @@ pleasure-garden, bedecked with.
 "It is encumbered with elephants, horses and chariots, well sounded by the sounds of trumpets, and with
 trees which yield fruits that fulfil all the savours, and it is bedecked with chirrupy pleasure-gardens.
 [3-48-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -643,8 +617,6 @@ will not think of yourself as one from among human females. [3-48-13]
 The addressing expression *hè*, has some significance, as in *hè, raam... hè, prabho... hè,
 bhagavaan...* This has a signal of reverence than that the usual 'O' or 'oh,' for they are bland
 expressions of addressing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -728,8 +700,6 @@ of...'
 alone, but you will think about us, the accursed demons, the dependents and servants of the Supreme
 Person, Vishnu... and in doing so, your thinking shall lead towards our release from this accursed
 demon-hood...' Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -802,8 +772,6 @@ Dasharatha to send Rama, the eldest, best, and the only ruler of people, namely 
 Vishnu’s Thousand names,] to forests for the elimination of demons, and thereby to release us from
 our accursed being... hence you, as inner force of everybody, have to come with me, if Rama’s
 incarnation is to yield its results...’ Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -847,8 +815,6 @@ over, isn't it?
 'He who has snubbed down all enemy kingdoms, where enemies are not earthly enemies, and as he has no
 duality in his deeds, won't you make over this request of mine, in welcoming you to Lanka, to
 him...' Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -915,8 +881,6 @@ nonsense...' *svayam *'you personally... in your right mind' *aakhyaatum na arha
 "I may be a king of all the demons in universes, but I am a zealotry devotee of yours... but deeming
 me to be one who is hit by the arrows of Love-god and thus speaking nonsense... this way of your
 thinking of me and speaking to me, is unapt of you in the right your mind...' Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -976,8 +940,6 @@ the one who came from thighs *uuruH *'from thighs...' and this word is defined a
 vaSTi *'muchly, splendorous one...' Then the other apsara-s had to accept ashamedly that
 Uurvashi is a beauty of higher order. Kalidasa took this as his subject for his drama
 'Vikramorvashiiyam.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -1049,8 +1011,6 @@ arrive [in Lanka...]' *bhajasva *'him, that Rama, you hold him in honour...'
 Vishnu, and such a Vishnu chanced here in the human incarnation as Rama, and let fortune betide me
 and let that Rama arrive in my Lanka, and you be instrumental to his arrival, then you may hold that
 Rama in high honour... for all this to happen first you come with me..." Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -1103,8 +1063,6 @@ The lonely place is an advantageous place for such tempters. But if the tempted 
 nothing adverse can happen. *raagam viviktaa iti vardhayanti *'inclination increases in
 isolation...' But Seetha is disinclined to any such advances or lures or temptations. Some
 discussion is there in endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -1151,8 +1109,6 @@ you wish to.
 
 "How you wish to commit sins although saying that Kubera, a god reverenced by all of the gods, is your
 brother? [3-48-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -1201,8 +1157,6 @@ all of those, demons; *avashyam vi nashiSyanti* = perforce, completely get destr
 "All the demons will perforce get completely destroyed, oh, Ravana, for whom you the cruel and culpable
 one with uncontrolled senses is the king, and you will be blameworthy for the elimination of righteous
 demons like Vibheeshana, et al. [3-48-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -1250,8 +1204,6 @@ indeed.
 
 "It may be possible to live after abducting Shaci Devi, the wife of Indra, somehow and anyhow there
 will be no liveability after abducting me, the wife of Rama. [3-48-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 </details>
 
@@ -1320,8 +1272,6 @@ but, 'if your-like malicious minded beings, though they have gulped *amR^ita* 'a
 there is no *moksha* 'release, deliverance...' from death-birth cycle and that
 *moksha* is possible through wise thinking... and, as your soul is full with foulness, that
 unwise state of yours will never attain *moksha...'* Rama Tilaka Commentary.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ Mahodara excitedly speaks to Kumbhakarna about the true character of virtue, wor
 gain as well as sensuous pleasure in a person and supports Ravana for his actions. He advises
 Kumbhakarna not to go single-handed to fight with mighty Rama, but to take the army with him.
 Mahodara then suggests to Ravana a strategy to fulfill his purpose without a combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ of colossal body; *bahushaalinaH* = and large arms; *mahodaraH* = Mahodara;
 
 Hearing those words spoken by the mighty Kumbhakarna of colossal body and large
 arms, Mahodara spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -109,8 +105,6 @@ shaknoSi* = you are unable; *veditum* = to know; *kR^ityam* = the right action;
 
 "O Kumbhakarna! Though born in a good race, you are audacious, having the perception
 of an ordinary man as also arrogant. You are unable to know the right to be done at all times."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -153,8 +147,6 @@ talk.
 "O Kumbhakarna! It is not that the king does not know about the prudent and the
 imprudent conducts. Due to childishness and audacity, you, on your part, are craving merely to
 talk."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -203,8 +195,6 @@ about; *vR^iddhimcha* = strengthening; *haanimcha* = and ruining (the relationsh
 "The king of demons, knowing about apportioning of place and time, understands the
 subject about strengthening and mining (of relationships) as well as his own position and the
 position of others."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -255,8 +245,6 @@ elders.
 
 "What would a wise man attempt to do that which cannot be achieved by a man of
 ordinary intellect, though strong, does not sever his elders?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -305,8 +293,6 @@ nature.
 "You are speaking as though virtue, wealth and pleasure are dwelling separately (in
 water-tight compartments). By their very nature, there is no accurate description to know those
 things."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -347,8 +333,6 @@ spring up into; *phalam* = a fruit; *shreyaH* = of prosperity.
 
 "Action alone is indeed the means to get all the consequences. Even sinful acts
 spring up into a fruit of prosperity!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -397,8 +381,6 @@ instrumental to injustice and non-value; *praaptam* = gain; *phalam cha* = the f
 "Acts instrumental to virtue and wealth as well as other acts (instrumental to
 injustice and non-value) have just the prosperity as their fruit. But, acts instrumental to
 injustice and non-value gain the fruit of offence of omission."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -450,8 +432,6 @@ life).
 Living beings reap the fruit of good actions in this and in the other world.
 However, he who remains diligently devoted to actions with a view to attaining sensuous pleasure
 enjoys blessing even in this life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -506,8 +486,6 @@ expelled?
 "In such a situation, this act of pursuit of sensuous pleasure has been cherished in
 his heart by the king and was approved by us. What violation is there in doing this daring act
 against the enemy?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 
 </details>
@@ -556,8 +534,6 @@ shall tell; *te* = you.
 
 "Regarding the reason which you have adduced for marching all alone for the
 encounter, I shall tell you what is irrelevant and not so good."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -599,8 +575,6 @@ earlier.
 
 "How will you conquer, single-handed, that Rama by whom several mighty demons were
 destroyed in Janasthana earlier."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -647,8 +621,6 @@ raakSasaan* = all those demons; *bhiitaan* = frightened?
 
 "Are you not seeing those frightened demons (though highly energetic) who are now
 staying in the City, but who were earlier conquered by Rama in Janasthana?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -695,8 +667,6 @@ a serpent; *suptam* = who is sleeping.
 
 "Though you know that Rama, the son of Dsasratha, is like an enraged lion, you wish
 to awaken a serpent, who is sleeping."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -737,8 +707,6 @@ approached; *asahyam* = and who is as unbearable; *mR^ityumiva* = as death?
 
 "Who would be competent to approach that Rama, who is forever shining with a
 splendour, dangerous to catch-up and as unbearable as death?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -785,8 +753,6 @@ rochate he* = is indeed not too much an inclination; *me* = to me.
 
 "Standing face-to-face with that enemy is all remaining in doubt. Going there
 single-handed does not indeed find favour with me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -834,8 +800,6 @@ person?
 
 "Having lost his advantage, who would feel inclined to reduce to submission, an
 enemy, who is rich in advantage and determined to lay down his life, as an ordinary person?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -876,8 +840,6 @@ Rama); *yasya naasti sadR^ishaH manuSyeSu* = with whom none in the human beings 
 
 "O Kumbhakarna, the foremost among the demons! How do you wish to combat with Rama,
 with whom none in the human beings is equal and who is equal of Indra and the sun?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -924,8 +886,6 @@ kumbhakarNam* = to the enraged Kumbhakarna; *mahodaraH* = Mahodara; (on his part
 
 Having thus spoken to the enraged Kumbhakarna, Mahodara on his part spoke as
 follows, in the midst of demons, to Ravana, who made the people cry.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -972,8 +932,6 @@ Seetha; *bhaviSyati* = will be; *vashagaa* = submissive; *te* = to you.
 
 "Why are you delaying further, after having captured Seetha already? If you do so
 wish, Seetha will be submissive to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1023,8 +981,6 @@ _________________
 
 "Some strategy has been discovered by me, as a means of bringing her round. If it is
 found agreeable to your intellect, then listen to it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1065,8 +1021,6 @@ iti = that; *aham* = myself; *dvijihvaH* = Dvijihva; *samhraadii* = Samhradi;
 
 "Announce (by a beat of drum in the city-streets) that myself, Dvijihva, Samhraadi,
 Kumbhakarna and Vitardana these five demons are setting out for the battle to kill Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1114,8 +1068,6 @@ strategies; *naH* = to us.
 
 "Thereupon, having gone to the battle field deliberately, we shall give him a fight.
 If we conquer your enemies, there is no need for any strategies to us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1162,8 +1114,6 @@ in the fight; *tataH* = then; *samabhipatsyaamaH* = shall employ;
 
 "Otherwise, if our enemy survives, we, who have engaged in the fight, then shall
 implement the plan which was resolved by us in the mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1221,8 +1171,6 @@ come back; *iha* = here; *yuddhaat* = from the battle.
 
 "Moistened with blood on having our bodies torn with arrows marked with the name of
 Rama engraved on them, we shall come back here from the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1239,8 +1187,6 @@ desire.
 
 Saying "Rama as well as Lakshmana has been devoured by us", we shall clasp your
 feet. You fully grant our desire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1285,8 +1231,6 @@ sainyaH* = and his army.
 
 "O king! Then, have it proclaimed by beating of trumpets in the entire city, on the
 back of an elephant, that Rama has been killed along with his brother and his army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1345,8 +1289,6 @@ and gold.
 
 "O annihilator of enemies! Becoming pleased for the name-sake, arrange to bestow on
 your servants, objects of enjoyment, other desired objects and gold."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1362,8 +1304,6 @@ your servants, objects of enjoyment, other desired objects and gold."
 
 "Then, present garlands, garments and cosmetics to champions as well as abundant
 gifts to other warriors. Drink yourself delighted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1422,8 +1362,6 @@ and grain; *kaamaishcha ratnaishcha* = as well as luxuries and precious stones.
 have been devoured by the demons and you approach Seetha in private and restoring her to confidence
 and even conciliating her, tempt her with gold and grain, as well as luxuries and precious
 tones."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1473,8 +1411,6 @@ shokaanubandhayaa* = supplemented by fear and anguish; *siitaa* = Seetha;
 
 "By this false pretence, creating fear and anguish, Seetha who thinks she lost her
 husband, will submit reluctantly to your will."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1521,8 +1457,6 @@ flexibility; *pratipatsyate* = will arrive at; *tvadvasham* = your will.
 
 "Believing that her charming husband is destroyed, Seetha from her hopelessness and
 feminine feeling of flexibility, will come to your will."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1570,8 +1504,6 @@ depends; *tvayi* = on you; *upagamiSyati* = will come near (to you);
 
 "Seetha, who grew up with comfort, who is deserving of happiness; but emaciated with
 grief, knowing that her happiness depends on you, will by all means come near to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1624,8 +1556,6 @@ without fighting; *maa bhuuH* = do not become; *utsukaH* = restless.
 "After contemplating very well, I have conveyed like this. As soon as you see Rama,
 a calamity will happen. While you stay here itself without fighting, you will obtain a great
 benefit of happiness. Do not become restless."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 </details>
 
@@ -1681,8 +1611,6 @@ a great; *yashashcha* = fame; *puNyamcha* = merit; *shriyam cha* = prosperity;
 "O king! An emperor who conquers his enemies without losing his army, without
 meeting with danger and without a combat will obtain for long, a great fame, merit, prosperity and
 glory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

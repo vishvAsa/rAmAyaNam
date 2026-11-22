@@ -20,8 +20,6 @@ battle-front for an encounter, along with Akampana, Indrajit, Atikaya, Mahodara,
 Trishiras, Kumbha, Nimkumbha and Narantaka the foremost of demons. After a tough fight with
 Sugreeva, Lakshmana, Hanuma and Nila, Ravana encounters Rama in battle, and sustaining an
 ignominious defeat at the latter's hands and escaping with his life, withdraws to Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -194,8 +192,6 @@ destroyer of Indra's host; *me sainyapaalaH* = the leader of my army; *saanuyaat
 
 "That enemy is not to be despised; under whose blows the destroyer of Indra's host
 the leader of my army with his followers and elephants fell."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -242,8 +238,6 @@ will go; *svayameva* = myself; *tat* = to that; *adbhutam* = wonderful;
 
 "I myself shall go to that wonderful battle-front without hesitation in order to
 destroy the enemies and to gain victory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -296,8 +290,6 @@ the earth; *kapishoNitaiH* = with the blood of monkeys.
 "As a forest is consumed by blazing fires, so shall I scorch that army of monkeys
 now along with Lakshmana and Rama with a multitude of arrows. Today, I shall satiate the earth with
 the blood of the monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -353,8 +345,6 @@ body.
 Speaking thus, Ravana the enemy of the Lord of celestials ascended his chariot which
 shone like a flame and was yoked to a team of excellent horses with its brilliance of an effulgent
 body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -410,8 +400,6 @@ raajamukhyaH* = the best among the kings of demons; *yayau* = sallied forth;
 Ravana the best among the kings of demons sallied forth with the sound of couches,
 kettle-drums, cymbals, clapping of hands and leonine roars and well-acclaimed by agreeable
 encomiums.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -467,8 +455,6 @@ Rudra; *amareshaH* = the Lord of immortals; *vR^itaH* = surrounded; *bhuutaiH*
 That Ravana along with the flesh-eating demons whose forms resembled mountains and
 clouds and whose glances flashed like torches shone like Rudra the Lord of Immortals surrounded by
 genii.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -524,8 +510,6 @@ roaring like a vast ocean and a mass-of thunder-clouds.
 Ravana who was endowed with extraordinary energy, issuing all at once from the city,
 observed a ferocious army of monkeys with trees and rocks in their hands, ready for combat and
 roaring like a vast ocean and a mass of thunder-clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -548,8 +532,6 @@ vegatulyam* = with the speed of the tide; *vidudrave* = took to flight.
 While Prahasta the Army chief of demons was slain in the battle by Nila the foremost
 among the monkeys, Ravana's army possessing terrible arms took to flight with the speed of a
 tide.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -605,8 +587,6 @@ weaponry.
 Seeing that army of demons who were excessively furious, Rama whose arms resembled
 great serpents, accompanied by his forces and having great fortune, spoke to Vibhishana the best
 among the wielders of weapons (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -699,8 +679,6 @@ choicest army; *raakSasa puN^garaanaam* = of the foremost among demons;
 Hearing the words of Rama, Vibhishana the equal of Indra in valour, then narrated to
 Rama about the choicest army of the foremost among demons of the highest peculiarity (as
 follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -803,8 +781,6 @@ Brahma).
 bow, whose standard bears the image of a lion, and who shines like unto an elephant with its
 terrible curved tusks, he is Indrajit who is renowned for the boons he had received from
 Brahma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -860,8 +836,6 @@ grown body; *ayam* = he; *naamnaa* = is named; *atikaayat* = as Atikaya.
 "He who, the archer like unto the Vindhya, Asta or Mahendra Mountains, standing in
 his chariot, a mighty warrior, of superior strength, who wields a bow of unequalled size and having
 an exceedingly grown body, he is called Atikaya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -916,8 +890,6 @@ of the highest peculiarity; *mahodaranaam* = is called Mahodara.
 "He who, with tawny eyes resembling the dawn, riding an elephant with its bells
 jangling, who is shouting aloud, he is that strong demon of the highest peculiarity is called
 Mahodara."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -973,8 +945,6 @@ Pishacha."
 "He who, ascending the brilliantly caparisoned horse raising high a gleaming
 javelin, possesses a velocity of a well-directed thunder-bolt and resembles a mass of evening
 clouds and a mountain, he is Pishacha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1032,8 +1002,6 @@ bull; *shashiprakaasham* = which shines like a moon; *asau* = he; *yashasvii*
 "He who, seizing a sharp spike with a possesses the velocity of a well-directed
 thunder bolt and comes mounting on an excellent bull which shines like a moon, he is the
 illustrious Trishiras."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 </details>
@@ -1089,8 +1057,6 @@ bow; *asau* = this is; *kumbhaH* = Kumbha; *yaati* = leading.
 "The other resembling a thunder-bolt, of large and well-developed chest, who has an
 attentive mind, has the King of Snakes as his standard, who is moving and twanging his bow, he is
 Kumbha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1146,8 +1112,6 @@ to the army of demons; *saH asau* = he as such; *nikumbhaH* = is Nikumbha;
 "He who, holding a mace decorated with gold and diamonds, which are radiant (as
 fire) and also smoky (studded with sapphires), who advances as a standard bearer tot he army of
 demons, he is Nikumbha of Prodigious exploits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1200,8 +1164,6 @@ is combat; fights with mountain peaks.
 "He who, mounted in a chariot, adorned with flags, gleaming like a glowing blazer,
 who is furnished with bows swords and a multitude of arrows, he is Narantaka who shines brightly
 over there and who, in combat, fights with mountain-tops."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1289,8 +1251,6 @@ amidst; *bhuutaiH* = the genii; *eSaH* = he; *tatra* = there;
 tigers, buffalo mighty elephants, deer and horses, under an excellent white canopy with slender
 ribs and shining like a moon, he who is the humbler of the gods themselves, shining like unto Rudra
 amidst the genii, is the suzerain Lord of Demons there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1346,8 +1306,6 @@ Mountains.
 "Ravana, decked with a diadem, who has brought Indra the Lord of celestials and
 Vaivasvata the Lord of Death low, is shining like the sun. His countenance is graced by ear-rings.
 His formidable stature equals the Vindhya the Lord of Mountains."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1397,8 +1355,6 @@ said); *aho* = Alas!; *kiipta mahaa tejaaH* = what glory; what exceeding majesty
 
 Then, Rama the annihilator of enemies, answered Vibhishana and said "Alas! What
 glory, what majesty is Ravana's the Lord of Demons!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1449,8 +1405,6 @@ covered by magnificence!.
 
 "Ravana is beaming like the sun with his rays difficult to be gazed, neither can the
 eye rest on him such is the binding strength of his magnificence!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1495,8 +1449,6 @@ in ths way; *yaadR^isham* = as; *etat* = this; *vapuH* = body;
 
 "The body of celestial or demonical heroes may not be so radiant in this manner as
 this body of the king of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1543,8 +1495,6 @@ hills; *sarve* = all; *parvatayodhinaH* = fight with mountains; *sarve* = all;
 
 "All the warriors of the suzerain Ravana are as high as hills. All fight with
 mountains. All wield fiery weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1567,8 +1517,6 @@ anger.
 
 The demons went and told Ravana that Prahasta the Army chief had been killed by Nila
 the son of Fire-god. Hearing those words of the demons, Ravana was possessed of anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1611,8 +1559,6 @@ endowed with hideous.
 
 "Amidst the fiery ghosts of terrible aspect, this king of demons shines like Yama
 the Lord of Death surrounded by blazing genii endowed with hideous forms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1658,8 +1604,6 @@ the Lord of Death surrounded by blazing genii endowed with hideous forms."
 
 "By good luck, that wretch comes today within my range of sight! Today, I shall
 expunge my wrath, born of Seetha's abduction!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1705,8 +1649,6 @@ excellent arrow.
 
 Having spoken thus, the valiant Rama who was accompanied by Lakshmana, took up his
 bow and then standing erect, drew out an excellent arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1731,8 +1673,6 @@ troops.
 Hearing that Prahasta had perished in the fight, Ravana was afflicted with anger and
 his heart filled with grief and he addressed the foremost of his leaders as Indra the Lord of
 celestials to the leaders of the celestial troops (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1788,8 +1728,6 @@ exists; the outposts and fortifications.
 Thereafter, that powerful Ravana spoke to those exceedingly strong demons as
 follows: "Take up your positions unfalteringly and happily at the gates and principal exits, the
 outposts and fortifications."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1850,8 +1788,6 @@ by surprise.
 "Learning of my presence along with you here, taking this to be a weak point and
 storming this desolate city which is otherwise difficult to be overpowered, the monkeys when united
 may destroy it by surprise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1913,8 +1849,6 @@ entire (expanse of the sea)
 Having dismissed those counsellors and as the demons departed as ordered, Ravana
 thereafter began to split under the waters of the sea of monkeys, in the same way as a gigantic
 fish would rend the entire expanse of the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -1973,8 +1907,6 @@ mountain-top; *dudraava* = and ran; *rakSodhipam* = towards that king of demons.
 
 Seeing Ravana with his radiant bow, in the battle, Sugreeva the Lord of Monkeys
 tearing up a huge mountain-top, ran towards that king of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2030,8 +1962,6 @@ arrows; *tapaniiya puNkhaiH* = with golden shafts.
 Seizing a mountain-top with its many trees and ridges, Sugreeva hurled it on Ravana
 the demon. Seeing that mountain-top coming towards him, Ravana quickly broke it asunder with his
 arrows with golden shafts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2087,8 +2017,6 @@ resembling a great serpent.
 While that mountain-top with its well-developed ridges and excellent trees was rent
 asunder and fell on the earth, Ravana like unto another Yama the Lord of Death, loosed an arrow
 resembling a great serpent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2143,8 +2071,6 @@ Sugreeva.
 
 The enraged Ravana, taking that arrow with the speed of a thunder bolt of Indra the
 Lord of celestials and possessing the brilliance of a fire, hurled it to kill Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2200,8 +2126,6 @@ the Krauncha Mountain.
 That arrow released by Ravana's arm reached Sugreeva, having a bodily splendour
 equal to that of Indra's thunder bolt, and pierced his body in its flight as formerly Guha's spear
 when he discharged it at the Krauncha Mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2257,8 +2181,6 @@ the demons; *neduH* = raised a shout; *prahR^iSTaaH* = of joy.
 Wounded by that arrow, which bereft him of consciousness, that warrior fell moaning
 to the earth. Beholding him falling on the ground, deprived of his senses in the battle-field, the
 demons raised a shout of triumph.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2312,8 +2234,6 @@ exceeding corpulence; *samupaaTya* = hearing up; *shailaan* = rocks;
 
 Then, Gavaksha, Gavaya, Sushena, Rishabha, Jyotimukha and Nala; of exceeding
 corpulence tearing up rocks, rushed towards Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2373,8 +2293,6 @@ which were marvellously golden shafted.
 That Lord of Demons, with hundreds of arrows, possessed of sharp points, rendered
 their projectiles fruitless and pierced those leaders of the monkeys with a multitude of marvellous
 golden shafted arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2430,8 +2348,6 @@ kaayaaH* = of terrifying stature; *nipetuH* = fell; *bhuvi* = on the ground;
 Pierced by the arrows of Ravana the Enemy of Gods, those monkey-Generals of
 terrifying stature fell on the ground. Thereupon, he covered that formidable army of monkeys with a
 shower of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2495,8 +2411,6 @@ arrow of terror; *raavaNa saaya kaartaaH* = whom Ravana was destroying with his 
 Assailed and fallen down, those monkey-warriors, emitted cries as though struck by
 an arrow of terror, whom Ravana was destroying with his darts and fled for refuge to Rama who is
 capable of affording protection to all.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2514,8 +2428,6 @@ following) words; *paramaarthayuktam* = which were very meaningful.
 
 Then the high-souled Rama the skilful archer, taking his bow, set out at once.
 Lakshmana, however, approaching him with joined palms, spoke very meaningful words follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2563,8 +2475,6 @@ own accord I am quite sufficient; *vadhaaya* = for killing; *asya* = of this Rav
 
 "O, noble Brother! Of my own accord, I am able to kill this wretched Ravana. O,
 Lord! I shall slay him. Permit me to do so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2612,8 +2522,6 @@ also.
 
 The exceedingly powerful and the truly courageous Rama spoke to that Lakshmana as
 follows: "Go, Lakshmana and also be strenuous in this duel."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2663,8 +2571,6 @@ powerful; *satyaparaakramaH* = and the truly courageous; *raamaH* = Rama;
 **अनुवादः**
 
 "Ravana is endowed with great strength and possesses an outstanding prowess during a war. The Three Worlds themselves could not withstand his fury. There is no doubt about it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2714,8 +2620,6 @@ weak points; *lakSaya* = and guard; *svachchhidraaNi cha* = against your own;
 
 "Seek out his weak points and guard against your own. Defend yourself vigilantly
 with your eye and bow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2763,8 +2667,6 @@ battle.
 
 Hearing the words of Rama, Lakshmana embraced him, thereafter offering obeisance and
 bidding him farewell, he entered the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2819,8 +2721,6 @@ Ravana; *vaaraNa hasta baahum* = with arms as large as the trunks of elephants;
 Lakshmana then saw Ravana with arms as large as the trunks of elephants, who was
 brandishing his dreadful and fiery bow, covering those monkeys whose bodies he had severed with a
 close rain of darts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2871,8 +2771,6 @@ Ravana.
 
 The exceedingly energetic Hanuma, born of Maruta the god of wind, beholding this,
 rushed on Ravana in order to bring that rain of arrows to an end.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2919,8 +2817,6 @@ lifted; *dakSiNam* = his right; *baahum* = arm; *abraviit* = and spoke;
 
 Approaching his chariot, the sagacious Hanuma lifted his right arm and spoke the
 following threatening words to Ravana:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -2968,8 +2864,6 @@ semi-divine beings; *vaanarebhyastu* = but monkeys; *bhayam* = are a danger;
 
 "You have obtained the boon of invulnerability to the celestials, demons, celestial
 musicians, ogres and semi-divine beings. But monkeys are a danger to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3017,8 +2911,6 @@ body.
 
 "This five-branched right hand of mine, which I now raise, will rob you of your life
 that has long been resident in your body."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3068,8 +2960,6 @@ anger; *abraviit* = spoke; *idam* = these; *vachanam* = words.
 
 Hearing the words of Hanuma, the exceedingly valiant Ravana, his eyes inflamed with
 anger, answered.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3120,8 +3010,6 @@ after knowing your strength.
 
 "Strike quickly without fear, O Monkey! Win eternal renown. Thereafter, I shall
 destroy you, after measuring your strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3172,8 +3060,6 @@ formerly; *prahastam hi* = struck (killed) already; *mayaa* = by me.
 
 Hearing the words of Ravana, Hanuma the son of wind-god spoke the following words:
 "Recollect that I have killed your son Aksha already."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3220,8 +3106,6 @@ of Demons; *aajaghaana* = struck; *anilasutam* = Hanuma the son of Anila;
 
 Thus spoken, the highly energetic and the valiant Ravana the Lord of Demons struck
 Hanuma the son of Anila a violent blow on his chest with the palm of his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3279,8 +3163,6 @@ his hand.
 Hanuma, thus struck with Ravana's palm, reeled repeatedly. Thereafter the highly
 sagacious and illustrious Hanuma secured his balance within a moment and in fury, struck Ravana the
 enemy of Immortals with the very palm of his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3327,8 +3209,6 @@ enemy of Immortals with the very palm of his hand.
 
 Under the violent impact of the blow of the mighty Hanuma Ravana shook like a
 mountain when the earth trembles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3376,8 +3256,6 @@ divine beings; *asuraiH saha* = along with the demons; *devaaH* = and celestials
 
 Beholding Ravana struck in the fight by Hanuma's palm; the sages, monkeys,
 semi-divine beings, along with celestials and demons raised a resounding approbation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3426,8 +3304,6 @@ done;; well done!; *viiryeNa* = by your valour; *asi* = you are; *me* = my;
 Then, the extremely spirited Ravana, having regained his breath, spoke the following
 words: "Well done! Well done! O, monkey! You are my adversary, worthy of praise by your
 valour!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3474,8 +3350,6 @@ by which; *tvam* = you; *jiivasi* = (still) survive!
 
 Then, Hanuma answered, "O, Ravana! Cursed by that strength since you do still
 survive!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3523,8 +3397,6 @@ Lord of Death!
 
 "O, foolish fellow! Why this boasting? Now come, strike me once! My fist is about to
 dispatch you to the Abode of Yama the Lord of Death!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3576,8 +3448,6 @@ lifting; *dakSiNam* = his right; *muSTim* = fist; *yatnaat* = with zeal;
 
 Hearing the words of Hanuma, the powerful Ravana, enraged, his eyes red with fury
 and whirling his fist with force knocked it down violently on Hanuma's chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3632,8 +3502,6 @@ quickly; *rathena* = by his chariot; *niilam prati* = towards Nila.
 
 Under the shock, Hanuma reeled once again. Seeing that mighty Hanuma exhausted,
 Ravana turned his chariot towards Nila.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3685,8 +3553,6 @@ enemy.
 
 With his terrific arrows in the likeness of serpents, Ravana the powerful Lord of
 Demons pierced the vital parts of his enemy, thus overwhelming Nila the Monkey-general.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3733,8 +3599,6 @@ general of monkeys; *sharaugha samayastaH* = tormented by a flood of arrows;
 
 Nila, the Army General of Monkeys, tormented by that hail of arrows, with one hand
 hurled a great rock at Ravana the king of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3798,8 +3662,6 @@ Meanwhile, Hanuma of exalted mind, burning with courage, regained his breath and
 his martial ire cried out furiously towards Ravana, the Lord of Demons who occupied in fight with
 Nila as follows: "It is not proper to engage in a combat with a person who is already doing a fight
 with another."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3846,8 +3708,6 @@ and it; *papaata ha* = fell down; *vishiirNam* = crumbling to pieces.
 
 Then, the mighty Ravana, however, shattered the rock hurled by Nila with seven
 pointed arrows and it fell down, crumbling to pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3894,8 +3754,6 @@ with fury; *kaalagniriva* = who resembled the Fire of Time.
 
 Seeing that rock crumbling to pieces, Nila the Army-general the destroyer of enemies
 who resembled the Fire of Time, glowed with fury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -3945,8 +3803,6 @@ Shala trees; *supuSpitaan* = in good flowering; *chuutaanapi* = Chuta trees;
 
 In that fight, Nila hurled Aswakarna trees, Shala trees with extensive flowering,
 Chuta trees and other various types of trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4019,8 +3875,6 @@ of darts; *paavakim* = on Nila the son of Fire-God.
 
 Ravana, confronting those trees, bursted them and showered a hail of dangerous darts
 on Nila the son of Fire-God.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4036,8 +3890,6 @@ short; *nipapaata* = and jumped on; *dhvajaagre* = to the top of the standard.
 
 Showered by a multitude of shafts, as from a cloud, the mighty Nila assumed a
 diminutive form and leapt on to the point of Ravana's standard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4087,8 +3939,6 @@ standard; *raavaNaH* = Ravana; *jajvaala* = thereafter; *niilaH* = Nila;
 
 Seeing Nila the son of Fire-God standing well on the point of his standard, Ravana
 inflamed with fury. Then, Nila shouted loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4137,8 +3987,6 @@ surprised.
 Beholding that monkey sometimes leaping on to the point of Ravana's standard
 sometimes on to the tip of his bow and sometimes on to the peak of his diadem, Lakshmana, Hanuma
 and Rama were astonished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4188,8 +4036,6 @@ _________________
 
 The mighty Ravana, amazed at the monkey's agility, seized a marvellous and glowing
 arrow called Agneya the weapon of Fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4236,8 +4082,6 @@ arrow called Agneya the weapon of Fire.
 
 Thereafter, those monkeys who felt rejoiced to see Ravana disconcerted at the
 agility of Nila and had found an occasion for jubilation, shouted joyously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4284,8 +4128,6 @@ do.
 
 Then, provoked by the shouts of the monkeys, his heart possessed with confusing,
 Ravana did not know what to do.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4332,8 +4174,6 @@ missile presided over by the Fire-God; *udaikSata* = aimed at; *niilam* = Nila;
 
 Ravana the demon, taking up an arrow, charged with the missile presided over by the
 fire-God, aimed at Nila who had perched on the tip of his standard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4380,8 +4220,6 @@ fire-God, aimed at Nila who had perched on the tip of his standard.
 
 Then, Ravana the king of demons said,: "O monkey! You are endowed with agility
 combined with a supreme power of magic."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4434,8 +4272,6 @@ are creating; *taani taani anekashaH* = numerous deeds of various kinds;
 
 "Do you save your life if you can, eventhogh you are creating numerous deeds of
 various kinds indeed worthy of your own self, O, monkey!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4452,8 +4288,6 @@ seek to preserve.
 
 "Even then, the arrow charged with a mystic missile I am about to loose, will severe
 you from life, which existence you seek to preserve."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4500,8 +4334,6 @@ arrow; *ataaDayat* = struck; *chamuupatim* = Nila the Army-General.
 
 Thus speaking, Ravana the long-armed King of Demons, having placed Agni Missile with
 his arrow, struck Nila the Army-General.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4548,8 +4380,6 @@ Nila; *nirdahyamaanaH* = being burnt all over; *sahasaa* = suddenly;
 
 Struck on the chest by the arrow combined with a missile, Nila being burnt all over,
 suddenly fell to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4599,8 +4429,6 @@ brought; *jaanubhyaam* = to his knees; *bhuumau* = on to the earth;
 
 Yet by virtue of the powerful aid of his father and his own native vigour, though
 brought to his knees on to the earth, he was not deprived of his life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4647,8 +4475,6 @@ chariot; *ambudanaadena* = which sounded like a cloud.
 
 Seeing Nila unconscious, Ravana, eager for fight, in his chariot whose rattling
 sounded like thunder-clouds, rushed on Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4696,8 +4522,6 @@ lifted up; *dhanuH* = his bow.
 
 Coming to the centre of the battle-field, the powerful Ravana the King of Demons
 prevented Lakshmana to go forward, halted, standing there in his glory and lifted up his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4758,8 +4582,6 @@ monkeys.
 Lakshmana of indomitable courage spoke to that Ravana who was lifting up his
 unfathomable bow (as follows): "O, King of Demons! Now enter into combat with me; cease from
 fighting with the monkeys!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4819,8 +4641,6 @@ spoke; *roSaanvitam* = with furious; *vaacham* = words (as follows):
 Hearing that marvellously modulated voice that resounded like the twanging of a
 bow-string, Ravana drawing near his adversary, who stood close to his chariot, answered in
 anger:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4876,8 +4696,6 @@ mind; *praaptaH* = have reached; *me* = my; *dR^iSTimaargam* = range of sight;
 "O, Lakshmana! By my good fortune, you in your perverted mind, reached within my
 range of sight so as to meet your death. This very instant, you will go to the region of Death,
 after having collapsed by the bang of my rain of arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4938,8 +4756,6 @@ King; *variSTha* = the foremost; *paapakR^itaam* = of evil-doers; *vikatthase*
 Then, Lakshmana, unmoved spoke to that Ravana who was roaring with his sharp and
 protruding teeth (as follows): "Greatly dignified ones eschew bragging! O, the foremost of
 evil-doers! You are sounding your own praises!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -4993,8 +4809,6 @@ energy; *paraakramamcha* = and courage; *aham* = I; *avasthitaH* = stand here;
 
 "O, King of Demons! I know your valour, strength, energy and courage! Come! I now
 stand here, with my bow and arrows in hand. O what use are vain boasts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5055,8 +4869,6 @@ Lakshmana; *chichchheda* = broke; *taan* = them; *baaNaiH* = with his arrows;
 Thus accosted, the King of Demons, infuriated, loosened seven marvellously plumed
 arrows which Lakshmana shattered with his beautiful golden-shafted arrows of sharp ends and
 edges.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5110,8 +4922,6 @@ loosened; *anyam* = other; *nishitaan* = sharp; *pR^iSatkaan* = arrows.
 
 Beholding those arrows shattered like great cobras with their hoods shattered,
 Ravana got angry and loosened other sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5167,8 +4977,6 @@ perturbed.
 Lakshmana, however, caused a well-aimed rain of missiles from his bow to fall on
 Ravana and nay, even broke Ravana's arrows with his arrows called Khura, Ardhachandra, the
 excellent Karni and Bhalla. He did not feel perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5222,8 +5030,6 @@ jaalaani* = sets of arrows; *moghaani* = becoming vain; *saH* = that;
 
 Seeing his successive arrows proving in vain, Ravana the King of those hostile to
 Gods was astonished at Lakshmana's skill and released more whetted shafts upon him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5284,8 +5090,6 @@ terribly swift as lightning; *jvalanaprakaashaan* = and blazing effulgence; *cha
 Lakshmana, the equal of Mahendra the Lord of celestials, fixing some sharpened
 arrows, swift as lightning and of blazing effulgence on his bow-string, discharged them on Ravana
 in order to strike him down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5341,8 +5145,6 @@ gifted by Brahma the Lord of Creation.
 Whereupon, Ravana the King of Demons shattered those pointed arrows and struck
 Lakshmana in the forehead with a struck Lakshmana in the forehead with a shaft as bright as the
 Fire of Time, which had been bestowed on him by Brahma the Lord of Creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5398,8 +5200,6 @@ belonging to Ravana; Indra's enemy.
 Struck by Ravana's arrow, Lakshmana reeled a little and was scarcely able to retain
 his bow. But, coming to his consciousness with difficulty, he shattered that weapon belonging to
 Ravana, Indra's enemy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5454,8 +5254,6 @@ darts; *shitaagraiH* = having pointed ends; *saH raajaa* = that king;
 Then, Lakshmana the son of Dasaratha struck Ravana, whose bow was broken, with three
 pointed darts. The king, pierced by those arrows, swooned and regained his senses with
 difficulty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5517,8 +5315,6 @@ creation.
 Ravana, the enemy of celestials, whose bow was broken, struck by the arrows, his
 limbs spattered with flesh, and streaming with blood, himself of formidable energy, seized in the
 battle a spear gifted to him by Brahma the Lord of Creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5577,8 +5373,6 @@ frightening; *vaanaraaNaam* = the monkeys; *samyati* = in the fray.
 
 Ravana the Lord of the country of demons hurled with strength on Lakshmana, that
 blazing spear, emitting smoke and as bright as fire, frightening the monkeys in the fray.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5639,8 +5433,6 @@ it were a sacrificial fire; *tathaapi* = nevertheless; *saashaktiH* = that spear
 Lakshmana the younger brother of Bharata struck that weapon falling upon him with
 arrows and darts, as if it were a sacrificial fire. Nevertheless, that spear entered Lakshmana's
 broad chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5695,8 +5487,6 @@ brutally; *bhujaabhyaam* = in his two hands.
 
 The mighty Lakshmana, struck by the spear, lay on the earth, breathing fire. The
 king, rushing suddenly on him who was yet insensible, seized him brutally in his hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5747,8 +5537,6 @@ Bharata.
 
 Though he was able to lift up Himavat, Mandara and Meru mountains as also the Three
 Worlds with the Gods, he could not raise Lakshmana the younger brother of Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5792,8 +5580,6 @@ the inconceivable fraction; *viSNoH* = of Vishnu Himself.
 
 Lakshmana, though wounded in the breast by Brahma's weapon, recollected that he was
 an inconceivable fraction of Vishnu Himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5840,8 +5626,6 @@ Lakshmana; *daanavadarpaghnam* = who removed the pride of demons; *naabhavat pra
 
 Ravana that thorn in the side of the Gods, though overcoming that Lakshmana who
 removed the pride of demons, was unable to bear him away with his hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5883,8 +5667,6 @@ which was resembling a thunder bolt.
 
 Thereupon, the enraged Hanuma the son of the Wind-God, rushed towards Ravana and
 struck angrily on his chest with his fist, resembling a thunder-bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5925,8 +5707,6 @@ the ground.
 
 By that blow of the fist, Ravana the Lord of Demons reeled and fell on his knees to
 the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -5976,8 +5756,6 @@ from his ears; *vighuurNamaanaH* = Reeled; *nishcheSTaH* = and motionless;
 
 A lot of blood oozed out from his face, eyes, and ears. Reeled and motionless, he
 became and sat in the middle of the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6035,8 +5813,6 @@ shouted in joy.
 Seeing Ravana despite his redoubtable strength swooned on the battle-field, sages
 and monkeys began to shout in triumph as did also celestials and the demons (invisibly present on
 the scene).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6086,8 +5862,6 @@ Lakshmana; *raavaNaarditam* = wounded by Ravana; *baahubhyaam* = to his shoulder
 
 Then, the courageous Hanuma lifting up Lakshmana in his arms, who had been wounded
 by Ravana, brought him to Rama's presence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6135,8 +5909,6 @@ the son of Wind-God.
 
 That Lakshmana, whom his foes were unable to move, became light for Hanuma because
 of friendship and great devotion of Hanuma the son of Wind-God towards him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6186,8 +5958,6 @@ rathe* = in that chariot; *raavaNasya* = of Ravana.
 
 That spear leaving Lakshmana, who was overcome in the battle, returned to its
 position in that chariot of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6235,8 +6005,6 @@ too.
 
 The mighty Ravana too, regaining his consciousness in the great battle-field, picked
 up his sharp arrows and the great bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6283,8 +6051,6 @@ part of Vishnu the Lord of Preservation; *amiimaamsyam* = the inconceivable.
 
 Healed and free from that lance, Lakshmana the annihilator of his foes, recollected
 of himself as a part of the inconceivable Vishnu the Lord of Preservation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6325,8 +6091,6 @@ overthrown; *raNe* = on the battle-field; *raaghavastu* = Rama on his part;
 
 Beholding the great army of monkeys whose great warriors were overthrown on the
 battle-field, Rama rushed on Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6403,8 +6167,6 @@ order to fight with the Enemy of Gods.
 
 Meanwhile, Hanuma approaching Rama spoke the following words: "You have to punish
 the demon by climbing my back, as Vishnu on Garuda in order to fight with the Enemy of Gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6450,8 +6212,6 @@ mounted; *mahaakapim* = the great monkey; *hanuumantam* = Hanuma;
 Hearing those words spoken by Hanuma the son of Wind-God, Rama soon after mounted
 the great monkey, Hanuma. Rama the Lord of men then saw Ravana standing in his chariot in the
 battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -6468,8 +6228,6 @@ Virochana.
 
 The mighty Rama became angry on seeing him and rushed upon that Ravana like unto
 Vishnu with his uplifted mace rushed upon Virochana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6510,8 +6268,6 @@ thunder; *uvaacha ha* = spoke; *gambhiirayaa* = in a deep; *giraa* = voice;
 
 Rama made a sound in drawing the cord of his bow and like unto the roll of thunder,
 spoke in a deep voice to Ravana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6547,8 +6303,6 @@ by fleeing; *avaapsyasi* = you will get; *mokSam* = an abandonment?
 
 "O, Tiger among the Demons! Stay, stay! Having evoked such a displeasure to me,
 where will you flee and get an abandonment?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -6572,8 +6326,6 @@ as the Mahendra Mountain?
 "Who is in command of this army, furnished with every kind of standard, banner and
 canopy, armed with javelins, swords, stakes and other weapons and missiles and composed of
 imperturbable soldiers and elephants as high as the Mahendra Mountain?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6632,8 +6384,6 @@ be let loose; *adya* = now.
 "Even if you seek refuge in the region of Indra the Lord of celestials or Yama the
 Lord of Death or the Sun or Brahma the Lord of Creation or Agni the Lord of Fire or Shiva the Lord
 of dissolution or in the ten regions, even in those abodes you will elude me from now on."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6681,8 +6431,6 @@ and assuming the form of death; *adya* = will now; (claim); *tava* = you;
 "O, Ravana the King of Demons! The one who was struck by the spear, fell swooping
 this day only to recover consciousness immediately, will now, assuming the form of death, claim
 you, your sons and grandsons in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6729,8 +6477,6 @@ and were furnished with excellent weapons.
 "Here is he, under whose blows of arrows, fourteen thousand demons of terrible form
 perished, who had established themselves in Janasthana and were furnished with excellent
 weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6793,8 +6539,6 @@ Hearing the words of Rama, Ravana of great strength, full of rage and recollecti
 his former hostility struck with flaming arrows resembling the tongues of the Fire of Dissolution,
 on Hanuman the son of Wind-God, who with extreme velocity, was bearing Rama in the
 battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6835,8 +6579,6 @@ tejoyuktasya* = the native strength of which Hanuman was possessed tejaH = that 
 
 Even when struck by that demon with his arrows in the battle, the vigour of Hanuman,
 who was endowed with native strength, increased still further.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6883,8 +6625,6 @@ monkeys; *kR^itavraNam* = having been wounded; *raavaNena* = by Ravana;
 
 Thereupon, seeing Hanuman the Tiger among the monkeys getting wounded by Ravana,
 Rama was transported with anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6931,8 +6671,6 @@ swords.
 
 Going near his chariot with his sharp and pointed arrows, Rama shattered it along
 with its wheels, horses, banner, canopy, great standard, charioteer, darts, spears and swords.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -6981,8 +6719,6 @@ thunder-bolt.
 Thereupon, with a great force, Rama struck with his shaft shining brightly as the
 thunderbolt, that Ravana, the enemy of Indra, in his broad and beautiful chest, even as the mighty
 Indra would strike the Mount Meru with his thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -7038,8 +6774,6 @@ valiant demons; *chachaala* = stumbled; *mumocha* = letting fall; *chaapamcha*
 That valiant King of Demons, whom neither thunder nor lightning could cause
 disturbance or trembling; stumbled letting fall his bow at the valiant impact of Rama's missile
 which created a deep injury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -7087,8 +6821,6 @@ immediately; *chichchheda* = shattered; *kiriiTam* = the diadem; *arkavarNam*
 Seeing that Ravana swooning, the magnanimous Rama took up a blazing arrow shaped
 like a crescent moon and immediately used it to shatter the diadem of Ravana the Lord of Demons,
 which was of bright hue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -7136,8 +6868,6 @@ raakSasendram* = to that Lord of Demons; *gatashriyam* = whose splendour was dim
 In that battle-field, Rama said to that Lord of Demons whose splendour was dimmed,
 the setting of his diadem river, who resembled a venomous snake robbed of its poison or like a sun
 its rays extinguished, bereft of lustre.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -7194,8 +6924,6 @@ have become weary; *na nayaami* = I shall not put; *tvaam* = you;
 "You have accomplished a highly terrific great feat and my brave soldiers have
 succumbed beneath your blows. Now, you are weary and in this condition, I shall not put you under
 the clutches of Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -7251,8 +6979,6 @@ with your bow; *tadaa* = and then; *rathasthaH* = standing in your chariot;
 "O, King of the Ranger of night! I know you have been tormented in the battle. Go
 and return to Lanka. Having regained your breath, come back in your chariot with your bow and then
 standing in your chariot, you will witness once more my prowess."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -7300,8 +7026,6 @@ broken; *sah* = he; *sahasaa* = soon; *vivesha* = returned; *laN^kaam*
 At these words, that King Ravana, his joy boasting subdued, his bow shattered, his
 horses and chariot slain pierced with arrows, his great diadem broken, he soon returned to
 Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -7344,8 +7068,6 @@ battle-field.
 While that mighty Ravana the Lord of Demons and the enemy of celestials and titans
 returned to Lanka, Rama arranged for drawing out arrows from monkeys and from Lakshmana too, in the
 forefront of that vast battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -7367,8 +7089,6 @@ an elephant; *samkampayam naagashiraH* = causing the elephant's head to sway; *a
 
 "O Prince! That hero who has a face with a coppery hue resembling a newly rising
 sun, coming on the back of an elephant causing its head to sway, know him to be Akampana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 </details>
 
@@ -7424,8 +7144,6 @@ waters; *prahR^iSTaaH* = rejoiced very much.
 That Ravana, the adversary of the King of the Gods being vanquished, the celestials,
 Asuras the multitude of beings in all the quarters, the creatures of the ocean with the great
 serpents as also all beings on earth and in waters rejoiced very much.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

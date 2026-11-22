@@ -16,8 +16,6 @@ title_english = "114 Bharata enters Ayodhya city"
 Bharata enters Ayodhya city, which appears to him gloomy and asks his charioteer why
 the city is looking luster-less. Thus speaking in many ways, Bharata enters his father's house
 which exhibits a vacant look and feels distressed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ entered; *kSipram* = soon; *ayodhyaam* = the city of Ayodhya.
 
 The highly illustrious Lord, Bharata riding on a chariot emanating a gentle and deep
 sound entered soon the city of Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ and owls; *aaliina nara vaaraNaam* = abiding with crouched men and elephants;
 
 He entered the city, frequented by cats and owls, abiding with crouched men and
 elephants and looking like a night enveloped by gloom, indistinctness and darkness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ invested with an exceedingly bright splendour by virtue of her glory.
 *The demon presiding over a planet of the same name figuring in Indian astronomy
 and identified by modern astronoy with the shadow of the earth cast on the orb of the moon during
 what is known as a lunar eclipse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ perished.
 Ayodhya further looked emaciated like a mountain stream, whose scanty waters had
 become hot and agitated, birds living in which were scorched by the sun, and whose fish, small and
 big and alligators had perished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ extinction (ash).
 
 Ayodhya looked like a flame of sacrificial fire which when oblation is poured into
 it, rises like a golden cone without smoke and thereafter sinks into extinction (ash).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -325,8 +313,6 @@ chariots had been torn; *hata praviinaam* = its heroic warriors slain.
 Ayodhya looked like an afflicted army, shattered of its armour in a major conflict,
 whose ensigns borne on horses, elephants and chariots had been torn, and its heroic warriors
 slain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -376,8 +362,6 @@ _________________
 
 Ayodhya appeared like the waves of the sea though tosses very high with foam and a
 roar, is rendered noiseless, being shaken up by a silent wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ priests.
 Ayodhya appeared like a sacred altar, which, when the period of offering oblations
 into fire has completely expired, has been cleared of all sacrificial implements and deserted of
 recitations by the learned priests.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ cease to graze; *navam tR^iNam* = in the new pasture; sthitaam- and stand;
 
 Ayodhya appeared like restless kine, deprived of the bull, who cease to graze in new
 pastures and stand in the cow-pen, dispirited.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -524,8 +504,6 @@ genuine quality.
 
 Ayodhya was resembling a new pearl-necklace, bereft of well- polished dazzling and
 excellent gems, rubies and the like, of genuine quality.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -573,8 +551,6 @@ light; *sahasaa* = quickly; *chyutaam* = dropped; *divaH* = from the sky;
 
 Ayodhya appeared like a meteor, which moved from its position with its virtue
 exhausted, soon dropped from the sky and fallen to earth, deprived of its splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -622,8 +598,6 @@ that is suddenly consumed by a forest fire; *klaantaam* = and withering.
 Ayodhya appeared like a flowering creeper laden with blossom in the spring-tide,
 frequented by a swarm of intoxicated bees, that is suddenly consumed by a forest fire and
 withering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -671,8 +645,6 @@ and markets closed.
 
 With its senseless traffic paralyzed and with its fairs and markets closed, Ayodhya
 resembled like a firmament, covered with clouds, with the moon and stars obscured.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -722,8 +694,6 @@ spirituous liquors killed; *kSiiNa paanottamaiH* = the excellent wine expended;
 Ayodhya appeared splendourless, like a deserted and uncleaned tavern, with its
 vendor of spirituous liquors killed, the excellent wine expended, its drinking pots and glasses
 broken and the pieces stewn in disorder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -772,8 +742,6 @@ fell down.
 Ayodhya resembled a cistern erected for storage and distribution of water, but now
 broken and collapsed with its platform riven and sunk, and covered with broken jars and earthen
 vessels, its water having been used up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -824,8 +792,6 @@ to the ground.
 
 Ayodhya resembled a bow-string, which was large and bent, with suitable noose at
 both ends, but severed from the bow by the arrows of heroes and fallen to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -872,8 +838,6 @@ the opposite army.
 
 Ayodhya appeared like a mare, urged on suddenly by a horse-man, skilled in war-fare
 and fallen down when killed by the opposite army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -917,8 +881,6 @@ shreSTham* = the excellent chariot.
 
 Sitting in the chariot, the glorious Bharata, the son of Dasaratha, spoke the
 following words to the charioteer who was riding his excellent chariot:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -968,8 +930,6 @@ instrumental music; *na nishamyate* = is not heard; *yathaa puraa* = as before;
 
 "How is it that the deep and intensified sound of vocal and instrumental music is
 not heard as before in Ayodhya today?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -1020,8 +980,6 @@ gandhashcha* = or the aroma of aloe-wood fumes; *muurchitaH* = which used to be 
 "The intoxicating odour of spirituous liquor or the fragrance of floral garlands or
 the aroma of sandal and aloe-wood fumes, which used to be spread once on all sides, are not being
 wafted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -1103,8 +1061,6 @@ chariots; *na shruuyate* = are not heard; *asyaam puraam* = in this city;
 
 "O, Sumantra! I do not hear, as before, the sound of the horses, the sound of the
 intoxicating elephants and the clattering of the great chariots in this city now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1120,8 +1076,6 @@ making use of; *chandanaagarugandhaamshcha* = the perfumes of sandal-wood and al
 
 "Rama, having left Ayodhya, the distressful youth are not making use of the perfumes
 like sandal-wood, aloe wood as also the most admirable and fresh floral garlands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -1170,8 +1124,6 @@ observed.
 
 "In the city afflicted by Rama's desertion, people are not going out for
 pleasure-trips, wearing colourful garlands nor festivals are observed by them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -1221,8 +1173,6 @@ time of the waning moon.
 
 "The lustre of Ayodhya has departed along with my brother. It is certain. This
 Ayodhya is not shining indeed, like a rainy night at the time of the waning moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -1263,8 +1213,6 @@ as do the autumnal rains?
 
 "When will my brother return, like a carnival, diffusing joy in Ayodhya, as do the
 autumnal rains?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -1315,8 +1263,6 @@ bravely; *sampatadbhiH* = and roaming about in groups.
 
 "The highways in Ayodhya are not glittering with youthful people, richly attired,
 bearing themselves bravely and roaming about in groups."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1332,8 +1278,6 @@ house; *hiinaam* = bereft of; *tena* = that; *narendreNa* = king;
 
 Thus speaking in many ways, Bharata entered his father's house, bereft of that
 emperor and which resembled a cave bereft of a lion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 </details>
 
@@ -1387,8 +1331,6 @@ day; *abhaaskaram* = without the sun; *ujjhitaprabham* = with relinquished radia
 
 Bharata, though a composed man himself, shed tears by seeing that entire empty
 gynaecium, looking like a day without the sun with its relinquished radiance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -20,8 +20,6 @@ conflict long ago between gods and demons. Rama further informs Bharata that acc
 promise, Kaikeyi asked for the two boons, one for Bharata's throne and another for his own exile to
 the forest. Rama requests Bharata to make Dasaratha's promises true and asks him to return to
 Ayodhya and assume its rulership.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ relatives.
 
 Thereafter, the illustrious Rama, highly respected among his fraternity, (as
 follows) to Bharata who was speaking as aforesaid among his relatives.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ follows) to Bharata who was speaking as aforesaid among his relatives.
 
 "These words, which you have spoken are worthy of you, the son of Dasaratha the
 excellent king, born through Kaikeyi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ exceptional; *raajyashulkam* = marriage dowry in the form of our kingdom;
 
 "O, My brother! Long ago, when our father married your mother, he promised your
 maternal grandfather that he would confer his kingdom as an exceptional marriage-dowry"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -224,8 +216,6 @@ jananyai* = to your mother; *samprahR^iSTaH* = he having been overjoyed;
 "Thereafter, in a conflict between Gods and demons, your mother received the promise
 of two boons from the efficient lord of the earth, King Dasartha, as a token of his joy and
 gratitude."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ promise; *narashreSTam* = by Dasaratha the chief of men; *ayaachata* = asked;
 "O, Tiger among men! Your illustrious mother of beautiful complexion consequently
 demanded these two boons from that cheif of men, for you the throne and for me the exile to the
 forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -350,8 +338,6 @@ vaSaaNi* = for fourteen years; *varadaanikam* = in accord with the granting of b
 
 "O, excellent among men! I too, have been enjoined by our aforesaid father to live
 here in the forest for fourteen years, in accord iwth granting of boon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ accompanied by Lakshmana; *siitayaa cha* = and Seeta; *sthitaH* = standing firm;
 
 "I as such, without any rival, have come to this lonely forest accompanied by
 Lakshmana and Seetha in order to carry out the promise given by our father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -451,8 +435,6 @@ delay.
 "You too ought, likewise, to make our father, as a person having given a true
 promise, O Indra (the Lord of Celestials) among kings, by getting yourself anointed to the crown
 without any delay.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -502,8 +484,6 @@ father and happy mother.
 
 "O, Bharata! For my sake relieve the mighty king from his vow and make both our
 mother and fahter happy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -554,8 +534,6 @@ while performing a sacrifice; *gayeSvena* = in a place called Gaya; *pitR^iin pr
 
 "My dear brother! Formerly, an illustrious king named Gaya, while perfoming a
 sacrifice in a place called Gaya in honour of his ancestors, chanted the following verse:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -606,8 +584,6 @@ named; *pitra iti* = as "Putra"; *yaH* = he who; *paati* = delivers;
 
 "Since a son delivers his father from a place of torment (hell) called 'Put', he is
 named as 'Putra'- 'he who delivers his ancestors from all dangers'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -655,8 +631,6 @@ sacrifice)
 
 "To have many virtuous and learned sons is to be desired, since one, atleast among
 them, who is intimately connected will ocme to Gaya to perform a sacrifice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -704,8 +678,6 @@ them, who is intimately connected will ocme to Gaya to perform a sacrifice."
 
 "O, prince! This is the conviction of all the royal sages. O, the efficient and the
 excellent of men! Therefore, save our father from hell.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -752,8 +724,6 @@ Shatrughna; *sarvaiH* = and all; *dvijaatibhiH saha* = the brahmanas;
 
 "O, the valiant Bharata! Go to Ayodhya along with Shatrughna and all the Brahmanas
 and give joy to the people there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -800,8 +770,6 @@ and give joy to the people there."
 
 "O, King! I too, without delay, will proceed to Dandaka forest along with Seetha and
 Lakshaman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -858,8 +826,6 @@ daN^Dakaan; Dandaka forest; *sampraR^iSTaH* = with joy.
 "O, Bharata! You become the Lord of men. I will become the emperor of the wild
 beasts of the forest! Return now to the excellent city of Ayodhya full of joy and I also full of
 joy will enter Dankada Forest!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -920,8 +886,6 @@ shadow; *kaanana drumaaNaam* = of forest-trees.
 "O, Bharata! Let the (royal) white umbrella provide a cool shadow for your head,
 repulsing the rays of sunlight. I will take shelter comoftably under the abundant shadow of these
 forest-trees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 </details>
 
@@ -982,8 +946,6 @@ king; *satyastham* = true to his promise; *maa viSiida* = do not grieve.
 "O, Bharata! The wise Shatrughna is helpful to you. Lakshmana is known to be an
 outstanding friend for me. We, the four excellent sons, will ultimately make the king true to his
 promise. Do not get disappointed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga107/ayodhyasans107.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

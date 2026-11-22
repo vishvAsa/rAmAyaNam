@@ -19,8 +19,6 @@ at Nandigrama. Bharata welcomes Rama and others, by embracing them and by greeti
 Rama too offers his salutations to all his mothers, who come to receive him. Then, Bharata brings
 Rama's wooden sandals and places them below the feet of Rama. Rama commands Pushpaka, the aerial
 car to return to Kubera, the lord of riches to whom it originally belonged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ the news.
 "Hearing the news of a great happiness from Hanuma, Bharata the truly brave ruler
 and the destroyer of enemies, commanded (as follows) to Shatrughna, who too felt delighted at the
 news."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -111,8 +107,6 @@ offer worship; *daivataani* = to their family-deities; *chaityaanicha* = sanctua
 
 "Let men of good conduct, offer worship to their family-deities, sanctuaries in the
 city with sweet-smelling flowers and to the accompaniment of musical instruments."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ cosmogony etc.) as also all panegyrists, all those proficient in the use of musi
 courtesans all collected together, the queen-mothers, ministers, army-men and their wives,
 brahmanas accompanied by Kshatriyas (members of fighting class), leaders of guilds of traders and
 artisans, as also their members, come out to see the moon-like countenance of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ nandigraamaat* = from this Nandigrama; *param* = to the other end (Ayodhya);
 
 "Let the cavities on the path from Nandigrama to Ayodhya be levelled. Let the rough
 and the even places be made flat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -279,8 +269,6 @@ it; *sarvataH* = all over; *laajaiH* = with parched grains of paddy;
 
 "Let the entire ground be sprinkled with ice-gold water. Let some others strew it
 all over with parched grains and flowers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -327,8 +315,6 @@ prati* = till the rising of the sun.
 
 "Let the streets in Ayodhya, the excellent City, be lined with flags. Let the
 dwellings (on the road-side) be decorated, till the time of rising of the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -378,8 +364,6 @@ with rows of garlands as well as with lose flowers.
 
 "Let hundreds of men sprinkle, on the main royal highway, with five fragrant colours
 and with rows of garlands as well as lose flowers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -453,8 +437,6 @@ Siddhartha; *arthasaadhakaH* = Arthasadhaka; *ashokaH* = Ashoka;
 
 On hearing that command of Shatrughna, Dhrushti, Jayanta, Vijaya, Siddhartha,
 Arthasadhaka, Ashoka, Mantrapala and Sumantra proceeded with joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -508,8 +490,6 @@ chariots; *niryayuH* = issued forth; *tvarayaa yuktaaH* = with speed.
 Some rode on thousands of well-adorned elephants in rut and bearing banners. Some
 others rode on female-elephants provided with golden girths, along with those elephants. Excellent
 chariot-warriors issued forth in their chariots, with speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -566,8 +546,6 @@ surrounded by; *sahasraishcha* = thousands; *padaatiinaam* = of foot-soldiers;
 Warriors on selected horses even still superior ones in thousands, bearing banners
 and pennants, carrying javelins, spears and nooses, as also surrounded by thousands of
 foot-soldiers, sallied forth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -613,8 +591,6 @@ Nandigrama.
 Then, all the wives of the deceased Dasaratha, placing Kausalya and Sumitra in front
 of them, mounting their vehicles, issued forth. All of them, including Kaikeyi, reached
 Nandigrama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -740,8 +716,6 @@ righteousness, who was well-versed with the secret of virtue, who was emaciated 
 who felt miserable, was clad in the bark of trees and the sking of a black antelope, who
 experienced joy for the first time in hearing the news of the arrival of his brother then went in
 advance, along with his ministers, to meet Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -793,8 +767,6 @@ shaking; *ashvaanaam khura shabdena* = with the noise of rims of chariot-wheels;
 
 The earth seemed, as it were, shaking with the sound of horse-hoofs the rattling of
 rims of chariot-wheels and by the tumults of couches and kettle-drums.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -810,8 +782,6 @@ following words; *pavanaatmajam* = to Hanuma.
 
 The entire City of Ayodhya literally reached Nandigrama. Glancing round, Bharata
 spoke as follows to Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -854,8 +824,6 @@ monkeys?; *na pashyaami hi* = for; I do not indeed see; *raamam* = Rama;
 "Indeed, I hope the fickle-mindedness which constitutes the peculiarity of monkeys,
 has not been resorted to by you. For I do not indeed see Rama, a worthy scion of Kakutthsa and the
 destroyer of adversaries."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -909,8 +877,6 @@ words; *vijJNaapayanneva* = which were; as if; they were apprising the situation
 When these remarks were uttered by Bharata, Hanuma forthwith replied, as follows to
 Bharata of unfailing prowess, by his meaningful words which were, as if they were apprising the
 situation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1020,8 +986,6 @@ by bees, making reverberant humming sounds - all due to the grace of Sage Bharad
 destroyer of adversaries! A boon was conferred by Indra, the lord of celestials, by virtue of which
 a hospitality rich with all excellences was earlier extended by Bharadwaja to you, with your entire
 army. I presume that the aforesaid army of monkeys is crossing the rivers, Gomati."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1068,8 +1032,6 @@ trees; *manye* = monkeys; *lolayanti* = are shaking; *ramyam* = the beautiful;
 
 "See the cloud of dust, shooting froths towards the grove of Sala trees. I presume
 that the monkeys are shaking the beautiful grove of Sala trees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1119,8 +1081,6 @@ by virtue of his creative talent).
 "There is seen, in distance, that very famous aerial car, shining brightly like the
 moon. The wonderful aerial car called Pushpaka was built with his intelligence by Viswakarma (an
 architect of gods, who has been referred to here as Brahma by virtue of his creative talent.)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1176,8 +1136,6 @@ the lord of creation.
 "This wonderful aerial car, with a speed of thought, which is carrying the great
 souled Rama, and shines brightly like the rising sun, belongs to Kubera, the lord of riches, by the
 grace of brahma, the lord of creation. (Who bestowed it on him)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1194,8 +1152,6 @@ saha* = along with Seetha; *mahaatejaaH* = the immensely brilliant;
 
 "In the same aerial car are the valiant Rama and Lakshmana, the brothers, along with
 Seetha, the immensely brilliant Sugreeva and Vibhishana the demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1242,8 +1198,6 @@ of women; children; youth and elder; *aspR^ishat* = touched; *divam* = the sky.
 
 Meanwhile, the words 'Here comes Rama' were loudly said and a clamour born of joy
 from the mouth of women, children, youth and elders touched the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1291,8 +1245,6 @@ car.
 
 Descending from their chariots, elephants as also horses and standing on the ground,
 all those people saw, like the moon in the sky, that Rama seated in the aerial car.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1339,8 +1291,6 @@ yathaarheNa* = and welcomed him in a befitting manner.
 
 The over-joyed Bharata with his joined palms, his face turned towards Rama,
 worshipped and welcomed him in a befitting way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1389,8 +1339,6 @@ thunderbolt in his hand.
 Rama, with his long and large eyes, seated in the aerial car, created by Viswakarma
 the divine architect with his intelligence, shone like another Indra who carries the thunderbolt in
 his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1431,8 +1379,6 @@ his hand.
 
 Bent low in reverence, Bharata then saluted Rama, who stood in the forepart of the
 aerial car and shining like the sun appearing on Mount Meru.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1479,8 +1425,6 @@ vimaanam* = that excellent aerial car; *mahaavegam* = having a great speed;
 
 As authorized by Rama, that excellent aerial car, having a great speed and endowed
 with the images of swans, landed on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1521,8 +1465,6 @@ greeted him; *punareva* = yet again.
 
 Feeling glad, when lifted on that aerial car and approaching Rama, Bharata of true
 valour, greeted him yet again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1572,8 +1514,6 @@ delightfully; *pariShvaje* = embraced him.
 
 Fully rising from his seat and placing that Bharata, who was seen after a long time,
 on his lap, Rama delightfully embraced him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1621,8 +1561,6 @@ on his lap, Rama delightfully embraced him.
 
 Thereafter, the jubilant Bharata, the destroyer of adversaries, approaching
 Lakshmana and Seetha, then saluted them in reverence and also announced his name.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1663,8 +1601,6 @@ Lakshmana and Seetha, then saluted them in reverence and also announced his name
 
 Then, Bharata embraced Sugreeva, Jambavan, Angada, Mainda, Dvivida, Neela and
 Rishabha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1711,8 +1647,6 @@ and the surrounding monkeys.
 
 He also embraced Sushena, Nala, Gavaksha, Gandhamadana, Sharabha, Panasa and the
 surrounding monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1762,8 +1696,6 @@ form of humans; *prahR^iShTaaH* = and rejoicingly; *paryapR^ichchhan* = asked;
 
 Then, those monkeys, who can change their form at will, assumed the form of humans
 and rejoicingly asked about the welfare of Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1780,8 +1712,6 @@ spoke to him (as follows):
 
 Thereupon, the immensely brilliant Bharata, the son of Dasaratha and the foremost
 among the virtuous, after embracing Sugreeva the excellent monkey, spoke to him (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1828,8 +1758,6 @@ among the virtuous, after embracing Sugreeva the excellent monkey, spoke to him 
 
 "You are a fifth brother, for all the four of us, O Sugreeva! A friend is born of
 affection, while malifience is the attribute of an adversary."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1877,8 +1805,6 @@ Vibhishana; *diShTyaa* = thank heaven!; *suduShkarma* = a very difficult;
 
 Thereafter, Bharata spoke the following kind words to Vibhishan: "Thank heaven! A
 very difficult task was accomplished by you, as a companion of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1926,8 +1852,6 @@ and offered his reverential salutation; *siitaayaaH charaNau* = to Seetha's feet
 
 Then, the valiant Shatrughna offered his salutation to Rama, along with Lakshmana
 and offered his reverential salutation to Seetha's feet, by bowing in humility.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -1975,8 +1899,6 @@ delighted.
 
 By going to his mother, who became pale and emaciated due to her grief, Rama, by
 bowing, seized her feet in salutation, making his mother's heart delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2027,8 +1949,6 @@ salutation).
 
 Offering salutation to Sumatra, the illustrious Kaikeyi and all his mothers, Rama
 then went to Vasishta the priest and offered his salutation in reverence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2069,8 +1989,6 @@ then went to Vasishta the priest and offered his salutation in reverence.
 
 With joined palms, all the citizens of Ayodhya said to Rama: "Welcome to you, O the
 great-armed! O the enhancer of Kausala's delight!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2120,8 +2038,6 @@ those; *aN^jali sahasraaNi* = thousands of joined palms; *pragR^ihiitaani* = hel
 
 Rama saw those thousands of joined palms held by the citizens, appearing as
 lotus-flowers in bloom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2162,8 +2078,6 @@ below the feet; *narendrasya* = of Rama; the lord of men.
 
 Taking those wooden sandals of Rama, Bharata, the knower of virtue, personally
 placed them below the feet of Rama, the lord of men.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2211,8 +2125,6 @@ deposit; *niryaatitam* = is being returned (to you) mayaa = by me.
 
 Having offered his salutation with joined palms, Bharata spoke to Rama as follows:
 "This entire sovereignty of yours, kept with me as a deposit, is being returned to you, by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2262,8 +2174,6 @@ purpose; *manorathaH cha* = my wish too; *samvR^ittaH* = is fulfilled; *adya*
 
 "My life has accomplished its purpose today and my wish too stands fulfilled, in
 that I see you, its king, come back to Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2306,8 +2216,6 @@ everything; *kR^itam dashaguNam* = has been enhanced tenfold; *mayaa* = by me.
 
 "You review your treasury, granary, palace of your spirit, everything has been
 enhanced tenfold by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2324,8 +2232,6 @@ tears.
 
 Seeing that Bharata, speaking thus with affection with his brother, Vibhishana the
 demon and the monkeys shed their tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2367,8 +2273,6 @@ army.
 
 Placing Bharata on his lap with delight, Rama thereupon flew with his army (of
 monkeys and bears) in that aerial car to the hermitage of Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2412,8 +2316,6 @@ then; *avatiirya* = descended; *vimanaagraat* = from the anterior of the aerial 
 
 Reaching the hermitage of Bharata along with his army Rama then descended from the
 anterior of the aerial car and stood, for the time-being, on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2458,8 +2360,6 @@ _________________
 
 Then, Rama, for his part, spoke to that excellent aerial car, "Serve as a transport
 to Kubera, the lord. I permit you to leave."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2482,8 +2382,6 @@ labourers working on wages; *aneka saahasriiH* = numbering many thousands;
 Hearing the words of Bharata, Shatrughna the destroyer of valiant adversaries called
 together, laborers working on wages, numbering many thousands and dividing them into gangs, ordered
 them (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2524,8 +2422,6 @@ proceeded; *uttaraam disham* = towards northern directions; *dhanadaalayam uddis
 
 Thus permitted by Rama, that excellent aerial car, thereupon proceeded towards the
 northern direction, so as t reach the abode of Kubera the lord of riches.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2566,8 +2462,6 @@ went; *vegaat* = in speed; *dhanadam* = to Kubera; *raama vaakya prachoditam*
 
 That wonderful aerial car, Pushpaka which was seized by Ravana once, went in speed
 to Kubera, as impelled by Rama's advice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 
@@ -2645,8 +2539,6 @@ by his side; *shubhe pR^ithagaasane* = on a separate seat.
 Affectionately pressing the feet of Vasishta, his well-wisher and family-priest,
 even as Indra the lord of celestials would press the feet of Brihaspati (the preceptor of gods),
 the valiant Rama sat by his side, on a separate seat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
 </details>
 

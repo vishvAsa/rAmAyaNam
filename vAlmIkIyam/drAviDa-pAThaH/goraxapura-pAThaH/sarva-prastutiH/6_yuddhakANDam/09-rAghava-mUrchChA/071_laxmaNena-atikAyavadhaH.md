@@ -22,8 +22,6 @@ Atikaya. By a sharp arrow struck by Atikaya in Lakshmana's chest, Lakshmana is e
 an arrow employed with a missile of fire and Atikaya attacks it with an arrow employed with a solar
 missile. On the advice the wind-god appeared before him, Lakshmana finally hurls an arrow employed
 with a missile of Brahma and chips off the head of Atikaya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -106,8 +104,6 @@ seeing his paternal uncles as also Yuddhonmatta and Matta (Mahodara and Mahapars
 and the foremost of demons having been fallen down, Atikaya of great splendour, having boons
 bestowed by Brahma the lord of creation, having appearance of a mountain and who removed the pride
 of celestials and ogres, was enraged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -151,8 +147,6 @@ shining; *bhaaskara sahasrasya samghaatamiva* = like a cluster of thousand suns;
 
 That Atikaya, the enemy of Indra the lord of celestials, mounting a chariot shining
 like a cluster of thousand suns, ran towards the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -193,8 +187,6 @@ like a cluster of thousand suns, ran towards the monkeys.
 
 Wearing a crown and well-cleansed ear-rings as also drawing his bow, he roared with
 a big noise, making his name loudly heard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -235,8 +227,6 @@ to the monkeys.
 
 By that lion-like roar, making his name loudly heard and by that terrific sound of
 the bow-string, it created terror to the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -278,8 +268,6 @@ fear.
 
 Seeing the bulkiness of his body, all the monkeys, thinking that Kumbhakarna woke up
 again, took refuge with each other, afflicted as they were, with fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ thither.
 
 Seeing his form appearing like Vishnu who strided over the three worlds in three
 steps, the those renowned monkey-warriors with fear, ran away hither and thither.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ jagmuH* = and sought refuge; *lakSmaNaagrajam* = with Rama; *aahave* = in battle
 
 When Atikaya was to be attacked, the monkeys were bewildered in mind and sought in
 the battle, a refuge with Rama, who affords protection.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -406,8 +390,6 @@ meghavat* = like a cloud; appearing at the time of universal dissolution.
 Then, Rama saw from a distance, Atikaya, who resembled a mountain in size, stationed
 in a chariot, armed with a bow and rumbling like a cloud appearing at the time of universal
 dissolution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -449,8 +431,6 @@ Vibhishana (as follows):
 
 Seeing that Atikaya, having a colossal body, Rama for his part was quite surprised
 and after consoling the monkeys, spoke to Vibhishana (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -491,8 +471,6 @@ brown-eyed; *sthitaH* = and seated; *vishaale syandane* = in a spacious chariot;
 
 "Who is he, resembling a mountain in size, armed with a bow, brown-eyed and seated
 in a spacious chariot yoked with a thousand horses?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -533,8 +511,6 @@ sharply; *praasa tomaraiH* = barbed javelins and lances; *bhaati* = and shining;
 
 He is shining like Lord Shiva surrounded by genii, with resplendent and sharp
 spikes, with very sharply barbed javelins and lances.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -575,8 +551,6 @@ round; *rathashaktiibhiH* = with staffs which support the banners of the war-cha
 
 "He is shining like a lightening cloud and moving round with staffs which support
 the banners of the war-chariot, appearing like tongues of the Time-Sprit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -623,8 +597,6 @@ pR^iShThaani* = with golden backs; *asya ratha shreSTham* = in his excellent cha
 
 "Bows adhered with golden backs in his excellent chariot are shining on all sides
 like a rainbow in the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -696,8 +668,6 @@ point of his standard.
 shine, is coming in a chariot with the splendour of the sun, with arrows having gleams of
 sun-beams, shining in ten directions and embellishing brilliance by an emblem of Rahu installed on
 the point of his standard."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -744,8 +714,6 @@ samnaadam* = having a rumbling sound of the cloud; *viraajate* = is shining;
 
 "His triply curved, golden backed and decorated bow, having a rumbling sound of the
 cloud, is shining like a rain-bow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -792,8 +760,6 @@ bottom; *meghastamita niH svanaH* = having the sound of a cloud's lightning;
 
 "His large chariot, with its flag and emblem, with its axle-tree at the bottom, and
 having the sound of a cloud's lightning, consists of four charioteers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -843,8 +809,6 @@ in colour; *aasthitaaH* = are abiding; *asya ratham* = in his chariot.
 
 Twenty quivers, ten terrific bows and eight bow-strings, golden and reddish brown in
 colour, are abiding in his chariot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -895,8 +859,6 @@ sides.
 
 "On that chariot are hanging two swords, clearly measuring ten cubits in length and
 provided with measuring four cubits, casting their splendour on his two sides."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -938,8 +900,6 @@ a red garland adorning his neck; *mahaaparvata sannibhaH* = resembling a large m
 "This brave warrior, with a red garland adorning his neck, resembling a large
 mountain black in colour and having a month as large as Death, looks like the sun veiled by a
 cloud."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -980,8 +940,6 @@ shR^iN^gaabhyaam* = with its two lofty peaks.
 
 "With his arms adorned with gold armlets, he shines like the Himalaya, the highest
 mountain with its two lofty peaks."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1031,8 +989,6 @@ between the two stars constituting the constellation; Punarvasu.
 
 "His awfully dreadful face, with two ear-rings, is shining like a full moon
 appearing between the two stars constituting the constellation, Punnarvasu."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1080,8 +1036,6 @@ about this foremost of demons.
 
 "O the long armed! Tell me who this foremost of demons is! On seeing him all the
 monkeys, afflicted with fear, are running away in different directions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1128,8 +1082,6 @@ splendour; *aachakShe* = replied; *raaghavaaya* = to Rama (as follows):
 
 Thus asked by Rama, the prince having an unlimited splendour, that Vibhishana of
 great brilliance, replied to Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1183,8 +1135,6 @@ the lord of demons.
 
 "The ten-necked king Ravana, having great brilliance, the brother of Kubera the lord
 of wealth, doing terrific deeds and possessing a great power, is the lord of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1201,8 +1151,6 @@ and who is skilled in the use of weaponry.
 
 "To him, there is a valiant son, equal to Ravana in combat, who serves elders,
 holding that which is heard from them and skilled in the use of weaponry."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1254,8 +1202,6 @@ saantvecha daanecha* = for his strategy of winning over to his side by sowing di
 "He is respected for his counsel, for his rides on the backs of horses and
 elephants, for his drawing out of the sword and the bow, for his strategy winning over to his side
 by sowing dissention negotiation and bribery and for his steering capacity of an army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1296,8 +1242,6 @@ know; *imam* = him; *atikaayam* = as Atikaya; *tanayam* = the son;
 
 "He is Atikaya, the son of Dhanyamali. Lanka is feeling fearless, by resting on his
 arm."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1338,8 +1282,6 @@ obtained; *ripavashcha* = and enemies; *paraajitaaH* = conquered.
 
 "He, who purified his soul by meditating on the universal soul, worshipped Brahma
 the lord of creation, obtained missiles too and conquered the enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1386,8 +1328,6 @@ armour; *rathashcha* = and the chariot; *ravibhaasvaraH* = shining like the sun.
 
 "Brahma, the lord of creation, granted a boon, exempting him from death at the hands
 of celestials and demons as also this wonderful armour and the chariot shining like the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1435,8 +1375,6 @@ were defended.
 
 "He conquered the celestials and the ogres several times, destroyed Yakshas the
 supernatural beings and defended the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1514,8 +1452,6 @@ the pride from celestials and ogres.
 "He is Atikaya, who paralyzed the thunderbolt of the intelligent Indra with his
 arrows. He struck down the noose of Varuna, the seizer of transgressors. This wise Ravana's son,
 who is strong and the foremost of demons took off the pride of celestials and ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1557,8 +1493,6 @@ in.
 "O Rama, the foremost of men! Therefore let the effort to destroy him be made
 quickly. Otherwise shortly, he will bring in destruction for our army of monkeys, with his
 arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1599,8 +1533,6 @@ roared; *punaH punaH* = again and again.
 
 Entering the army of monkeys, the strong Atikaya then stretched his bow and roared
 again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1650,8 +1582,6 @@ excellent; *rathinaam* = among the charioteers; *vanaukasaH* = were chiefs;
 
 Seeing him with a terrific body, seated in the chariot, as the excellent one among
 the charioteers, powerful chiefs of monkeys rushed towards him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1667,8 +1597,6 @@ attack him); *yugavata* = at once.
 
 Taking trees and mountain peaks, Kumuda, Dvivida, Mainda, Nila and Sharabha marched
 forwards quickly to attack him at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1715,8 +1643,6 @@ crags; *sharaiH* = with his arrows; *kanaka bhuuShaNaiH* = decked with gold.
 
 Atikaya of great splendour, the foremost among those skilled in weaponry, chopped
 off their trees and crags with his arrows decked with gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1764,8 +1690,6 @@ facing in front of him; *samkhye* = in battle; *sharaiH* = with arrows;
 
 That strong and skilled Atikaya with a terrific body, struck all those monkeys,
 facing in front of him in battle with arrows fully made of iron.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1815,8 +1739,6 @@ injured; *baaNa varSeNa* = by the shower of arrows; *atikaayasya* = of Atikaya;
 
 Those overthrown monkeys, injured with their blown out bodies, by the shower of
 Atikaya's arrows in that great battle, were unable to retaliate on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1863,8 +1785,6 @@ arrogant of his youth; *traasayaamaasa* = frightened; *tat* = that; *sainyam*
 
 That demon, who was arrogant of his youth, frightened that army of monkey-warriors,
 as an enraged lion frightens a herd of deers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1920,8 +1840,6 @@ quickly; *raamam* = towards Rama; *babhaaShe* = spoke; *idam* = these;
 That chief of demons did not strike whomsoever of the monkey-warriors who were
 unable to fight. That Atikaya, with his bow and quiver of arrows, going up quickly towards Rama,
 spoke haughty words (to him) as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -1977,8 +1895,6 @@ me; *shiighram* = quickly.
 "I am seated in the chariot with arrows and a bow in my hand. I would not give
 battle with any common warrior. He who has ability and energy can give his fight to me now and here
 quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2024,8 +1940,6 @@ enemies; *chukopa* = was enraged; *tataH* = then; *smayitvaa* = smiling;
 
 Hearing his words, Lakshmana the annihilator of enemies was enraged. Then, unable to
 bear his words and smiling, he rose up quickly and took up his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2067,8 +1981,6 @@ an arrow; *tuuNaat* = from the quiver; an arrow; *chakarSha* = pulled out;
 
 The enraged Lakshmana, coming forward quickly and taking off an arrow from his
 quiver pulled out his great bow in front of Atikaya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2116,8 +2028,6 @@ the demons.
 
 That twang of the bow of Lakshmana, filling the entire quarters, earth, sky and the
 ocean, was angry, frightening the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2164,8 +2074,6 @@ then; *visiShmiye* = was surprised.
 
 Hearing the terrific twang of Lakshmana's bow, the strong Atikaya of great
 splendour, was surprised.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2206,8 +2114,6 @@ arrow; *abraviit* = spoke; *idam vachanam* = the following words.
 
 Seeing Lakshmana standing in front of him for the battle, Atikaya then was enraged
 and taking a sharp arrow, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2252,8 +2158,6 @@ Yama the Lord of Death.
 
 "O Lakshmana! You are still a boy. You are ignorant of a fight. Why do you wish to
 fight with me, who is like Yama the Lord of Death? Go away."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2300,8 +2204,6 @@ mountains; *na utsahate hi* = would not be able; *soDhum* = to endure;
 
 "Even the Himalayan Mountains or the sky or the earth would be unable to endure the
 speed of arrows released by my arms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2352,8 +2254,6 @@ approached me with hostile intentions.
 
 "You wish to arouse a fire of dissolution, when it is sleeping happily. Placing your
 bow here, go back. Do not lose your life, by fighting against me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2403,8 +2303,6 @@ will go; *yamakShayam* = to the abode of Yama.
 
 "If you do not go back, with an obstinance, then you rather stay back. Abandoning
 your lives, you will reach the abode of Yama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2476,8 +2374,6 @@ weapons of Ishvara the lord destruction.
 
 "See my sharp arrows decked with pure gold, which can remove the pride of my enemies
 and which are like the weapons of Ishvara the lord of destruction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2495,8 +2391,6 @@ bow.
 
 "This arrow looking like a serpent will drink your blood as a lion drinks the blood
 of an elephant. "Thus speaking, Atikaya was enraged and fixed an arrow on his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2552,8 +2446,6 @@ cha* = spoke also; *vaakyam* = (the following) words:
 Hearing the words of Atikaya, filled with anger and arrogance in that battle-field,
 Lakshmana was enraged. Thereafter, that Lakshmana, having a great strength wisdom and great glory,
 also spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2609,8 +2501,6 @@ cannot become; *satpuruShaaH* = good persons; *nidarshayatva* = you show;
 "O the evil-minded! Just by uttering mere words, you cannot by a very important
 person. People cannot become good persons, just by boasting of themselves. You rather show your
 strength in me, who is standing with an arrow in hand and wielding a bow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2651,8 +2541,6 @@ to boast of yourself; *yaH* = whoever; *yuktaH pauruSheNa* = is with a valour;
 
 "Reveal yourself by your deeds. You do not deserve to boast of yourself. A person
 with valour alone is declared as a warrior."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2696,8 +2584,6 @@ either by your arrows; *yadi vaapi* = or even; *astraiH* = by your weapons.
 
 "You are seated in a chariot, with all the weaponry and wielding a bow. Show your
 prowess either by your arrows or even by your weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2742,8 +2628,6 @@ wind; *vR^intaat* = from its stalk.
 
 "Thereupon, with sharp arrows, I shall strike down your head like a fruit of a
 fan-palm, ripened by its time, is fallen down from its stalk by the gust of a wind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2784,8 +2668,6 @@ body by the sharp points of my arrows.
 
 "Today, these arrows of mine decked with pure gold, will drink blood oozing forth
 from the holes formed in your body by the sharp points of my arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2840,8 +2722,6 @@ disregard (me); *baalovaa* = either as a boy; *vR^iddhovaa* = or as an old man;
 "Thinking me to be a boy, you need not disregard me. Either as the boy or as the
 aged, you indeed know me in battle-front as the god of Death. Vishnu, as a boy occupied the three
 worlds just with his three strides, Didn't he?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2884,8 +2764,6 @@ of Lakshmana; *atikaayaH* = Atikaya; *prachukrodhaH* = was very much enraged;
 
 Hearing the reasonable and highly meaningful words of Lakshmana, Atikaya was very
 much enraged and took out an excellent arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2934,8 +2812,6 @@ saw; *tat* = that; *yuddham* = battle.
 Then, Vidyadharas the supernatural beings, Bhutas the spirits, Devas the celestials,
 Daityas the demons, Maharshies the great sages and Guhyakas a class of demi-gods, all the great
 souled ones saw that battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -2983,8 +2859,6 @@ shrinking up the space in between.
 
 Thereafter, the enraged Atikaya, stringing an arrow to his bow, dispatched it
 towards Lakshmana, as though he were shrinking up the space in between.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3025,8 +2899,6 @@ falling down on him; *ardhachandraNa* = with his crescent pointed arrow.
 
 Lakshmana, the annihilator of enemy-warriors, chopped off that serpent-like sharp
 arrow, which was falling down on him, with his crescent-pointed arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3071,8 +2943,6 @@ severed into pieces; *atikaayaH* = Atikaya; *bhR^isham* = was very much;
 
 Seeing that arrow which was chopped off as a snake's hood severed into pieces,
 Atikaya was very much enraged and fitted five arrows to his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3119,8 +2989,6 @@ chichheda* = chopped them off; *shitaiH baaNaiH* = with his sharp arrows.
 
 That demon hurled those arrows towards Lakshmana. Even before they reached him,
 Lakshmana chopped them off with his sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3171,8 +3039,6 @@ glow.
 
 Cutting off those arrows with his sharp arrows that Lakshmana, the destroyer of
 enemy-warriors, took up a sharp arrow, as though it was blazing with a glow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3213,8 +3079,6 @@ on his excellent bow; *vichakarShacha* = stretched it; *vegena* = with force;
 
 Taking that arrow, Lakshmana harnessed it on his excellent bow, stretched it with
 force and released it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3261,8 +3125,6 @@ fully; *aajaghaana* = struck it; *lalaaTe* = on the forehead;
 
 That valiant Lakshmana, by a flat-jointed arrow released fully, struck it on the
 forehead of that excellent demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3310,8 +3172,6 @@ on a mountain.
 
 That arrow, sunken into the forehead of that terrible demon, smeared with blood,
 appeared like a serpent-king on a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3363,8 +3223,6 @@ struck by the arrow of Shiva.
 The demon, tormented by Lakshmana's arrow, then trembled violently as when the
 terrific town-gate of Tripura City, (built of gold, silver and iron in the sky, air and earth by
 Maya for the demons) was struck by Shiva's arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3421,8 +3279,6 @@ enemy.
 
 That demon of great strength, recovering his breath, reasoningly reflected as
 follows: "Well! By flying down an arrow, you have become a commendable enemy for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3439,8 +3295,6 @@ thither; *rathena* = with his chariot.
 
 Thus speaking with his mouth wide open, Atikaya bent down with his large shoulder,
 ascended the top of his chariot and roamed about hither and thither by his chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3487,8 +3341,6 @@ and seven; *saayakaan* = arrows; *samdadhe cha api* = fixing the arrows to the b
 
 Atikaya, the foremost of demons, seized hold of one, three, five and seven arrows
 and fixed them to his bow, stretched it and released the arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3532,8 +3384,6 @@ released from the bow of the leader of demons; *kaalasamkaashaaH* = appearing as
 
 Those arrows, released from the bow of Atikaya, the leader of demons, appearing as
 Death, with golden shafts and shining like the sun, set the sky ablaze.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3583,8 +3433,6 @@ demons; *bahubhiH nishitaiH sharaiH* = by the multitude of his sharp arrows.
 
 Thereupon, Lakshmana coolly chopped off those gluts of arrows released by that
 foremost of demons, by the multitude of his sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3625,8 +3473,6 @@ was enraged; *jagraaha* = and took out; *nishitam sharam* = a sharp arrow.
 
 That Atikaya, of great splendour, fixing that arrow to his bow and by instantly
 releasing it, struck the approaching Lakshmana in the middle of his chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3677,8 +3523,6 @@ _________________
 
 That Atikaya, of great splendour, fixing that arrow to his bow and by instantly
 releasing it, struck the approaching Lakshmana in the middle of his chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3719,8 +3563,6 @@ iva* = like the fluid exuding; *mattaH dvipaH* = from a rutting elephant.
 
 Struck in battle by Atikaya in his chest, Lakshmana oozed out blood severely, like
 the fluid exuding from a rutting elephant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3771,8 +3613,6 @@ missile.
 
 That powerful Lakshmana, then quickly made himself freed from that arrow-head, took
 up a sharp arrow and fixed it with a missile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3819,8 +3659,6 @@ bow too; *jajvaala* = caused a flame to blaze.
 
 When Lakshmana employed the missile of fire on his arrow, that arrow of the great
 souled Lakshmana and as also the bow, caused a flame to blaze.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3870,8 +3708,6 @@ golden shaft; *bhujangaabham* = and looking like a serpent.
 
 Atikaya of great splendour took up a solar missile and employed it on that arrow,
 having a golden shaft as also looking like a serpent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3919,8 +3755,6 @@ daN^Damiva* = his rod of destruction.
 
 Meanwhile, Lakshmana hurled at Atikaya, that blazing and awful arrow employed with
 that mystic missile as Yama the lord of Death would hurl his rod of destruction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -3988,8 +3822,6 @@ _________________
 
 Seeing that arrow charged with a mystic missile of fire, Atikaya the demon then
 released the awful arrow charged with the solar missile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -4010,8 +3842,6 @@ iva* = like two enraged serpents.
 
 Those two arrows, having their points blazed in splendour, struck at each other in
 the sky, like two enraged serpents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4054,8 +3884,6 @@ bhraajete* = were not radiant; *mahiitale* = on the earth's surface.
 
 Those two excellent arrows, eventhough they were both blazing, did not radiate any
 longer on the earth's surface, in that they were without a flame and had been reduced to ashes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4108,8 +3936,6 @@ Indra the lord of celestials.
 Thereupon, the enraged Atikaya released an arrow made of cane (a missile) presided
 over by Tvasha (the architect of gods). Then, the valiant LakShmana chopped off that missile, by
 his missile presided over by Indra the lord of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4160,8 +3986,6 @@ retribution.
 
 Seeing his arrow made of cane struck down, that young Atikaya was quite enraged and
 fixed his arrow with a missile presided over by Yama the lord of retribution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4177,8 +4001,6 @@ fixed his arrow with a missile presided over by Yama the lord of retribution.
 
 Thereupon, Atikaya hurled that missile on Lakshmana. That Lakshmana struck it down
 by a missile presided over by the wind-god.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4219,8 +4041,6 @@ cloud; *dhaaraabhiH iva* = showers hails of down-pour.
 
 Then, the furious Lakshmana showered forth hails of arrows on Atikaya, as a rainy
 cloud showers hails of down-pour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4262,8 +4082,6 @@ surface.
 
 Reaching Atikaya, those arrows with the points of their shafts shattered on his
 armour, adorned with diamonds and instantly fell on the earth's surface.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4305,8 +4123,6 @@ thousand.
 
 Seeing those arrows becoming unsuccessful, the highly famous Lakshmana the
 annihilator of enemy-warriors, showered forth arrows in thousands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4353,8 +4169,6 @@ arrows; *na vivyathe* = was not agitated; *samkhye* = in battle;
 
 Atikaya, that mighty demon, though deluged with a flood of arrows, was not agitated
 in battle because of the inviolability of his armour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4405,8 +4219,6 @@ his enemies; *abhavat* = became; *niH samjNaH* = unconscious;
 Atikaya released an arrow having a serpent-like form on Lakshmana. Struck by that
 arrow on his vital parts, that Lakshmana, the tormentator of his enemies, felt unconscious just for
 a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4466,8 +4278,6 @@ saayakottamaiH* = with his four excellent arrows.
 Having regained his consciousness, the mighty Lakshmana, the annihilator of enemies,
 with his flood of arrows threw down the flag-staff and killed the horses and the charioteer in
 combat, with his four excellent arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4510,8 +4320,6 @@ killing; *tasya rakShasaH* = of that demon.
 
 Free from flurry, that Lakshmana, the son of Sumitra, released those arrows, exactly
 aiming at that demon, for the purpose of killing him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4557,8 +4365,6 @@ him; *yuddhi* = in battle; *atha* = thereupon; *vaayuH* = the wind-god;
 
 Lakshmana, the best among men, was not able to afflict any injury to Atikaya in
 battle. Then, the wind-god came to him and spoke to him as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4578,8 +4384,6 @@ missiles.
 "He, endowed with a boon by Brahma the lord of creation, is cloaked by inviolable
 armour. Split him with a missile of Brahma. He cannot be killed by any other means. The mighty
 Atikaya, with that armour, cannot be destroyed by other missiles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4640,8 +4444,6 @@ quickly.
 Then, hearing the words of the wind-god, Lakshmana having a prowess equal to that of
 Indra the lord of celestials, adjusting his arrow with a missile presided over by Vrahma, quickly
 directed the arrow with a terrific force.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4697,8 +4499,6 @@ uproar.
 While fixing that excellent missile on that superior sharp-pointed arrow by
 Lakshmana, all the quarters, the sun, the moon, the great planets and the sky were frightened.
 Earth also made an uproar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4759,8 +4559,6 @@ indraarisutasya* = on that son of Ravana.
 Having charged the missile of Brahma on that arrow with the feathers and all, equal
 to a messenger of Yama the lord of Death over his bow, Lakshmana released that arrow looking like a
 thunderbolt on Atikaya, the son of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4821,8 +4619,6 @@ battle.
 Atikaya saw that arrow, released with augmented force by Lakshmana, moving so fastly
 as the wind, having beautiful wings with variegated feathers and looking like a thunderous
 thunderbolt, approaching him in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4877,8 +4673,6 @@ proximity.
 
 Seeing that arrow, Atikaya quickly struck with several sharp arrows. That
 Lakshmana's arrow, with a speed equal to Garuda the eagle, thus reached Atikaya's proximity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4935,8 +4729,6 @@ axe; *sharaishchaapi* = and arrows.
 
 Seeing that blazing arrow, looking like Yama the lord of Death and black in colour,
 approaching him, Atikaya then struck it with spike, spear, mace, axe and arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -4989,8 +4781,6 @@ vain; those weapons; *adbhuta vigrahaani* = of wonderful form; *pragR^ihya* = ta
 
 Then, that arrow, blazing like fire, made in vain those weapons of wonderful form
 and taking Atikaya's head, carried it away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -5037,8 +4827,6 @@ like a peak; *himavataH* = of the Himalayan mountain.
 
 That head with its diadem, chopped off by Lakshmana, quickly fell down on the
 ground, like a peak of the Himalayan Mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -5086,8 +4874,6 @@ perturbed.
 
 Seeing Atikaya falling on the ground, with his clothes and ornaments scattered away,
 all the surviving demons became perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -5133,8 +4919,6 @@ discordant notes.
 Many of those depressed demons, dejected as they were, showing fatigue born of
 fighting, in their faces, suddenly began to shout loudly, with their voices in discordant
 notes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -5182,8 +4966,6 @@ and being indifferent to fight; *yaataaH* = went; *dravantaH* = running away;
 
 As their leader was dead, the demons were then frightened and becoming indifferent
 to fight, went running away all around, with their faces turned towards that City of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -5244,8 +5026,6 @@ was blessed with the fulfillment of his desire.
 When the dangerous demon with the terrific strength was killed, the multitude of
 monkeys then were endowed with a great delight, with their faces looking like full blown lotuses
 and worshipped Lakshmana who got his desire fulfilled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 </details>
 
@@ -5294,8 +5074,6 @@ paarshvam* = the vicinity of Rama.
 Throwing down in battle, that Atikaya who was exceedingly strong and looking like a
 cloud, Lakshmana was greatly delighted and while he was being worshipped by the multitude of
 monkeys, thereupon quickly hastened towards the proximity of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

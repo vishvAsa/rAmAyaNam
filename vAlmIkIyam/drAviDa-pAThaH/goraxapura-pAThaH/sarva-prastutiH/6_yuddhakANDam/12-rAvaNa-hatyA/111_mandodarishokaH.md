@@ -22,8 +22,6 @@ Meanwhile, Rama asks Vibhishana to perform obsequies to Ravana. Initially, Vibhi
 perform the last rites, but when Rama convinces him, he begins to perform the funeral of Ravana.
 After the funeral is over, Vibhishana comes and joins Rama, who along with Lakshmana, Sugreeva and
 others experience happiness for having destroyed their enemy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ miserable as she was feeling.
 
 While those consorts were weeping on that occasion, Mandodari, the senior most and
 beloved wife of Ravana, who was feeling miserable, stared at her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -92,8 +88,6 @@ miserably(as follows):
 
 Gazing at Ravana, her husband who was killed by Rama of unimaginable exploits,
 Mandodari there, miserably lamented (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -134,8 +128,6 @@ pramukhe* = before you; *kruddhasya* = when you were enraged.
 
 "O the great armed, the brother of Kubera! Even Indra the destroyer of strongholds,
 indeed dares not to stand before you, when you were enraged."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -182,8 +174,6 @@ naama* = indeed fled; *dishaH* = in all directions.
 
 "Because of fear from you, eminent sages, illustrious Gandharvas the celestial
 musicians and the wandering bards indeed fled in all directions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -230,8 +220,6 @@ by Rama; *maanuSha maatreNa* = a mere mortal?
 
 "O the lord of demons! O king! How is it that you are not ashamed, though you were
 conquered in battle, by Rama, a mere mortal?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -274,8 +262,6 @@ glory; *viiryeNa* = and prowess?
 
 "How did a mortal, wandering in a forest, killed you, who having overcome the three
 worlds by dint of your prowess, had grown irresistible and were endowed with glory?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -321,8 +307,6 @@ assume any form at your will; *raameNa* = by Rama; *samyuge* = in battle.
 
 "It is not possible of annihilation of yourself, who lived in a place not accessible
 to men and was able to assume any form at your will, by Rama in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -372,8 +356,6 @@ your army; *sarvataH samupetasya* = fully equipped with all implements of war.
 
 "I do not believe this act of Rama in the battle-front, nor do I believe of the
 attack by him, on your army, fully equipped with all the implements of war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -420,8 +402,6 @@ Khara; *hataH* = was killed; *asau* = by Rama; *janasthaane* = in Janasthana;
 
 "The moment your brother Khara was killed by Rama in Janasthana, though surrounded
 by a multitude of demons, it became evident that Rama was really no mortal."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -471,8 +451,6 @@ gods.
 
 "We felt painful, the moment Hanuma penetrated, by dint of his prowess, deep into
 the City of Lanka, which was difficult to be entered even for gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -530,8 +508,6 @@ _________________
 
 "The day when the terrific monkeys built a bridge on the great ocean, that day
 itself I believed that Rama was not an ordinary mortal."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -553,8 +529,6 @@ shaktiH* = where is the capacity; *tvaam draShTumapi* = even to behold you;
 
 "O the mighty lord! Otherwise, you might have been overpowered by Indra the lord of
 celestials. But for Indra, where is the capacity even to behold you in battle?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -662,8 +636,6 @@ lasting beauty, incapable of being conquered, a perpetual one, being the constan
 universe, truly mighty, the lord of all the worlds, the prosperous one having a great splendour and
 Vishnu, the lord of maintenance of the world with a wish to benefit the worlds, assuming a human
 form surrounded by all the gods in the form of monkeys, Rama killed you, surrounded by demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -713,8 +685,6 @@ you; *nirjitaH* = were conquered; *indriyaireva* = by those very senses.
 
 "In the past, by performing a great penance, you conquered the senses and conquered
 the three worlds. Now, as if revenging that enmity, those very senses conquered you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -789,8 +759,6 @@ mortal.
 by a multitude of demons, it became evident that Rama was really no mortal. We felt perturbed, the
 moment Hanuma penetrated, by dint of his prowess, deeply into the City of Lanka, which was
 difficult to be entered even for gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -806,8 +774,6 @@ difficult to be entered even for gods."
 
 "This evil result has come upon you, since you did not heed to my advice, saying
 that no hostility should be entered into with Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -858,8 +824,6 @@ Seetha.
 
 "O the foremost of demons! For the annihilation of your power, your body and your
 own people, you conceived a desire for Seetha suddenly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -877,8 +841,6 @@ Vasishta); *rohiNyaashchaapi* = and Rohini (the principal spouse of moon-god).
 "O the foolish one! An unworthy act was indeed done by you, in offending Seetha, who
 was more distinguished and more respectable than Arundhati (wife of sage Vasishta) and Rohini (the
 principal spouse of moon-god)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -959,8 +921,6 @@ charm. She is extremely fond of her husband. By a recourse to a fraud in bringin
 lonely forest, faultless in every limb as she was, and charming though miserable, and having failed
 to fulfill your desire for union with Seetha and due to your own fault you have been surely
 consumed by the asceticism of that woman, devoted as she was to her husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1009,8 +969,6 @@ violent hands; *tanu madhya maam* = on Seetha; the slender-waisted woman.
 "It is because, the gods together with Indra the ruler of gods including those
 headed by the fire-god fear you, that you were not consumed even while you were laying hands on
 Seetha, the slender-waisted woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1060,8 +1018,6 @@ karmaNaH* = of his sinful deed.
 
 "There is no doubt that when the time comes, the doer surely reaps a harsh fruit of
 his sinful deed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1106,8 +1062,6 @@ obtains; *shubham* = happiness; *paapakR^it* = the doer of a sinful act;
 
 "The doer of an auspicious act obtains happiness, while the doer of a sinful act
 reaps misery. While Vibhishana has obtained happiness, you met with such an evil destiny."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1150,8 +1104,6 @@ budhyase* = could not know it.
 "There are other women, more excellent in form than Seetha for you in your
 gynaecium. Having fallen a prey to the power of passion, you did not know it through
 ignorance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1201,8 +1153,6 @@ superior to me; *rupeNa* = in beauty of form; *na daakShiNyena* = nor in amiabil
 
 "Seetha is no match for me either in birth or in beauty or in amiability. You did
 not perceive this through infatuation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1244,8 +1194,6 @@ cause is in the form of this Seetha.
 
 "At any time, there is no causeless death for any living being. As for you, this
 Seetha has become a cause."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1267,8 +1215,6 @@ Rama.
 
 "Death which was brought about on account of Seetha was invited by you from a
 far-off distance. Free from sorrow, Seetha will now be enjoying herself with Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1348,8 +1294,6 @@ with lovely garlands and clad in colorful robes and invested in matchless splend
 seeing various lands of every description have now been deprived of all sense- enjoyments because
 of your death. Though the same, I stand transformed into another as it were. Woe be to the
 flickering fortunes of kings!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1430,8 +1374,6 @@ inebriety in banqueting places, bore garlands of various kinds, was lovely and c
 way, was lit with a captivating smile and indulged in a delightful talk - that face of yours does
 not actually shine as before today pierced with Rama's arrows, it lies dyed with streams of blood.
 It has its marrow shattered and has got soiled through the dust raised by the chariots."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1482,8 +1424,6 @@ a stupid woman (as I am).
 
 "Alas! The last stage of my life, which conferred widow ship on me, has come and
 which was never contemplated me at any time; a stupid woman as I am."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1525,8 +1465,6 @@ celestials.
 
 "I was very much proud that my father was king of demons, my husband a lord of
 demons and my son, a conqueror of Indra the lord of celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1579,8 +1517,6 @@ prakhyaata bala paursuShaaH* = heroes as they were; renowned for their might and
 "I had a firm conviction that my guardians were capable of crushing their arrogant
 adversaries, heroes as they were, renowned for their might and valour, and as such had no fear from
 any quarter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1600,8 +1536,6 @@ foremost of demons!
 **अनुवादः**
 
 "How did this unknown danger come from a mortal to you, who were so powerful?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1730,8 +1664,6 @@ difficult for me to touch it again, it is no longer possible to embrace it. It h
 pieces, by arrows of Rama, dug deep into your vital parts and closely transfixed like the spines of
 a porcupine. Though dark of complexion, it is now transformed into the colour of blood and lies
 fallen on the ground like a mountain broken into pieces when hit by a stroke of thunder-bolt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1749,8 +1681,6 @@ this world; *mR^ityu vasham* = falling under the sway of death?.
 "Alas! Is it a dream? Is it the reality? But, how could you be killed by Rama? You
 were the death, even to Death himself. How did you depart from this world, falling under the sway
 of Death?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1796,8 +1726,6 @@ Kailasa).
 "My husband enjoyed the wealth of all the three worlds. He gave tremendous fear to
 the three worlds. He conquered the guardians of the worlds and lifted up Lord Shiva (along with his
 seat, Mount Kailasa)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1844,8 +1772,6 @@ beings to weep; *naadaiH* = with his roars.
 
 "My husband held down those who were arrogant. He manifested his prowess and shook
 up the worlds. He caused the living beings to weep, with his roars."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1897,8 +1823,6 @@ in terrible acts.
 "He used to utter arrogant words with vigour in the presence of his enemies. He was
 the protector for his troop and his servants. He was the killer of those who indulged in terrible
 acts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -1945,8 +1869,6 @@ Nivatakavachas to himself; *aahave* = in battles.
 
 "He was the killer of the lords of demons and Yakshas the super natural beings in
 thousands. He was drawing to himself, the demons called Nivatakavachas, in battles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2002,8 +1924,6 @@ people; *dharmavyavasthaabhettaaram* = he violated the moral order;
 "My husband ruined several sacrificial performances. He was the protector of his own
 people. He violated the moral order. He violated the moral order. He created conjuring tricks on
 the battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2019,8 +1939,6 @@ he was the leader; *svajanasya* = of his own people.
 
 "He used to bring the virgin-daughters of gods, demons and human beings from here
 and there. He brought mourning to his enemy's wives. He was the leader of his own people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2063,8 +1981,6 @@ among the chariot-warriors.
 "He was the protector of the island of Lanka. He was the doer of terrible deeds. He
 was the bestower of desires and sensual gratifications to us. He was excellent among the
 chariot-warriors."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2108,8 +2024,6 @@ hard-heated; *dhaarayaami* = bearing; *imam* = this; *deham* = body.
 
 "Seeing my husband with such power struck down by Rama, I, having my husband killed,
 am hard-hearted indeed, still bearing this body."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2156,8 +2070,6 @@ dust; *dharaN^jaam* = on ground?
 
 "Having reposed on very valuable coaches, O the king of demons, why are you lying
 buried in sleep slumber on the bare ground and shrouded in dust?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2204,8 +2116,6 @@ course; *nipaatitaa asmi* = I am completely beaten down.
 
 "When Indrajit, your son was killed in battle by Lakshmana, I was hard-hit then and
 today, of course, I am completely beaten down."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2247,8 +2157,6 @@ for ever more years.
 
 "Bereft of kinsfolk and forsaken by you, my lord, and deprived of desires and
 sensual enjoyments, I shall lament for ever more years."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2293,8 +2201,6 @@ grief as I am; *tvayaa vinaa* = without you = na vartiShy = I shall not survive.
 "O king! Having embarked today on a long journey, which is very difficult to be
 traversed, take me too with you, tormented as I am with grief. I shall not survive without
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2345,8 +2251,6 @@ speak; *maam* = to me; *diinaam* = the sad; *vilaptiim* = the lamenting;
 
 "Why do you intend to go, leaving me here, miserable as I am? Why do you not speak
 to me, a sad and lamenting creature, and unfortunate as I am?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2388,8 +2292,6 @@ indeed enraged; *dR^iShTvaa* = in seeing; *maam* = me; *iha* = here;
 
 "O Lord! Are you not indeed enraged, in seeing me on foot in this way out through
 the city-gate, unveiled and come on foot in the way?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2434,8 +2336,6 @@ kupyasi* = why are you not getting enraged; *dR^iShTvaa* = in seeing this?
 
 "O lover of your consorts! Look at all your spouses, who came out, with their veils
 dropped off. Why are you not getting enraged in seeing this?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2451,8 +2351,6 @@ helping in your sport; *te* = with you; *laalapyate* = is weeping; *anaathaH*
 
 "This Mandodari, who was helping in your sport with you, is weeping with
 helplessness. You are not consoling her. Do you not have a high esteem of her?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2530,8 +2428,6 @@ numerous women of noble lineage, who, though devoted to their husband, fond of p
 the service of their elders, had been widowed by you, O king, and were accordingly tormented with
 grief. That curse which was pronounced at that time by those aggrieved women on their having been
 wronged by you, has fallen on you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2579,8 +2475,6 @@ in avain; *satya eva* = has come out true; *tvaam prati* = in your case;
 
 "The popular saying that the tears of virtuous wives d not generally fall on the
 ground in vain' has come out probably true in your case O king!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2628,8 +2522,6 @@ invading; *lokaam* = the worlds; *te tejasaa* = with your vital power;
 
 "How was this mean act of abducting a lady, done by you, who having invaded the
 three worlds, were proud f your prowess?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2688,8 +2580,6 @@ cowardice; *aashramaat* = (that) from a hermitage; *saa* = that; *raamapatnii*
 
 "It was indeed a mark of your cowardice that Rama's consort was borne away by you,
 after luring away Rama from his hermitage in the pretext of deer"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2707,8 +2597,6 @@ the battle-field; *tattu* = that abduction of Seetha; however; *bhaagya viparyaa
 "I do not recall your faint-heartedness at any time on the battle-field. That case
 of abduction of Seetha, however, was due to your ill-luck and certainly as the result of your
 sins."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2789,8 +2677,6 @@ matters relating to the pat and of the future and also conversant with the prese
 reflecting and sighing for long, on seeing Seetha abducted by you: 'The destruction of the chiefs
 among the demons now is imminent, have become true words. This misfortune had come from the lust,
 wrath and addiction to the vice of deep attachment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2841,8 +2727,6 @@ protector; *tvayaa* = by you.
 
 "This major disaster occurred, destroying our very root, because of you. This entire
 race of demons has been deprived of its protector, by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2887,8 +2771,6 @@ melancholy.
 
 "You, who were far illustrious for your strength and prowess, do not deserve to be
 lamented for by me. But, because of feminine nature, my mind is leaning towards melancholy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2936,8 +2818,6 @@ lamented for by me. But, because of feminine nature, my mind is leaning towards 
 
 "By taking away your merit and sin, you obtained your course of fate. I, however,
 mourn for my own self, so afflicted as I am, by your death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -2985,8 +2865,6 @@ words of welfare; *uktam* = spoken; *bhraatR^iiNaam cha* = by your brothers;
 
 "O Ravana! You did not hear the advice of your friends, who wish for your welfare.
 Nor did you hear the words of your brothers completely."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3050,8 +2928,6 @@ by you.
 
 "The counsel offered by Vibhishana, which was endowed with reason, meaning, rule of
 conduct, wholesome, gentle and well-founded, was not implemented by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3100,8 +2976,6 @@ bitter consequence (of your perversity).
 "The advices offered by Mareecha, Kumbhakarna, myself and my father have not been
 heeded by you, who were arrogant of your prowess. What is followed is a bitter consequence of your
 perversity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3149,8 +3023,6 @@ blood?
 
 "My lord, resembling a dark cloud in hue, clad in yellow and decked with brilliant
 armlets, why are you lying with your limbs, cast away on the ground and bathed in blood?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3206,8 +3078,6 @@ retreated; *samyugeShu* = in battle; *shokaartam* = tormented with grief as I am
 "As though fast asleep, why are you not replying to me, the granddaughter of Somali
 the demon who was clever, endowed with extraordinary prowess and never retreated in battles,
 tormented with grief as I am?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3223,8 +3093,6 @@ lying down?; *suuryarashmayaH* = the sun's rays; *praviShTaaH* = have entered;
 
 "Arise, arise! Why are you lying down, though subjected to a fresh insult? The sun's
 rays have penetrated deep into Lanka today, without any fear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3299,8 +3167,6 @@ scattered.
 sun, like a thunderbolt of Indra, with which you killed your enemies in the battle-field, which was
 constantly honoured by you, which had struck many in battle and which was decked with gold, lies
 scattered."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3351,8 +3217,6 @@ though I were abhorrent (to you)?
 
 Why are you lying down, embracing the battle-ground, as one would embrace a loved
 one? Why do you not feel inclined to reply to me, as though I were abhorrent to you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3369,8 +3233,6 @@ elements.
 
 "Woe be to me, that my heart is not bursting into pieces, tormented as I am with
 grief, now that you have returned to the five elements."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3411,8 +3273,6 @@ that time; *upaagamat* = fell into; *moham* = a swoon.
 
 Lamenting thus, with her eyes filled with tears and her heart moistened with love,
 Mandodari, at that time, fell into a swoon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3455,8 +3315,6 @@ of twilight.
 Fallen on the breast of Ravana, that dispirited Mandodari, stricken as she was with
 grief, shone like a vivid flash of lightning across a rainy cloud, reddened by the flow of
 twilight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3507,8 +3365,6 @@ consoled her.
 
 Raising up Mandodari, who was in that condition bitterly weeping, her co-wives who
 were also weeping, very much distressed as they were, began to console her (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3549,8 +3405,6 @@ there is a change in the tide of their fate?
 
 "Don't you know the uncertain state of the worlds, O queen, that the wealth of kings
 is unsteady, when there is a change in the tide of their fate?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3597,8 +3451,6 @@ ha* = wept; *sushabdam* = very loudly; *tadaa* = at that moment.
 
 While they were consoling thus, Mandodari, moistening her breasts and her spotless
 face in tears, wept aloud at that moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3645,8 +3497,6 @@ samskaaraH = let the obsequies of your brother; *kriyataan* = be performed;
 
 In the meanwhile, Rama spoke to Vibhishana as follows: "Let the obsequies of your
 brother be performed and let these crews of women be consoled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3695,8 +3545,6 @@ reflecting; *buddhyaa* = with his intellect; *uvaacha* = spoke; *idam vachaH*
 Reflecting with his intellect, the intelligent Vibhishana, the knower of virtue,
 thereupon, spoke to Rama, the following words, which were in conformity with righteousness and
 self-interest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3745,8 +3593,6 @@ bhimarshinam* = and who was longing for others' wives.
 "I am not obliged to perform the obsequies to him, who had abandoned the vow of
 virtue, who was cruel, who killed human beings, who was a cheater and who had longed for others'
 wives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3794,8 +3640,6 @@ brother.
 
 "This Ravana, who was interested in wishing evil to all, though venerable as a
 respectable elder, is not fit for honour. He is my enemy, in the guise of a brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3844,8 +3688,6 @@ all of them; *vakShyanti* = will speak of it; *sukR^itam* = as a good act.
 "If I do not perform obsequies, O Rama, the human beings on earth will speak about
 me as ruthless. But, on hearing about his bad qualities all of them will speak of it as a good
 act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3897,8 +3739,6 @@ Vibhishana; *vaakyajJNam* = the intelligent one in speech.
 Hearing those words, Rama the best among the supporters of virtue and skilled in
 speech, was very much pleased and spoke the following words to Vibhishana, the intelligent one in
 his speech.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3946,8 +3786,6 @@ because of you; *avashyam* = certainly; *kShamam* = an appropriate advice;
 
 "O king of demons! I too have to do a favour to you. I won the battle because of
 you. Certainly I have to give you an appropriate advice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -3994,8 +3832,6 @@ warrior; *samgraameShu* = in battles.
 
 "This demon may be full of unrighteousness and falsehood. But, he was brilliant,
 strong and ever a brave warrior in battles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4037,8 +3873,6 @@ others.
 
 "It is heard that Ravana who was mighty, endowed with strength and who was causing
 people to cry, was not conquered by the chiefs like Indra and others."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4082,8 +3916,6 @@ _________________
 
 "Hostilities end with death. Our purpose has been accomplished. Let his funeral
 rites be performed. He is even as good mine also, as yours."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4130,8 +3962,6 @@ Ravana; *arhati* = is eligible; *praaptum* = to get; *samskaaram* = obsequies;
 
 "According to rule, Ravana is eligible to get the last rites on his dead body from
 you, by usage. You will also become fit for glory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4189,8 +4019,6 @@ bhraataram* = to his dead brother; *raavaNam* = Ravana.
 
 Having heard the words of Rama, Vibhishana in haste began to do obsequies to Ravana,
 his dead brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4206,8 +4034,6 @@ Lanka; *saH vibhiiShaNaH* = that Vibhishana; *raakShasendraH* = the lord of demo
 
 Entering the City of Lanka, that Vibhishana, the lord of demons, quickly concluded
 the Agnihotra (the act of pouring oblations into the sacred fire) carried on by Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4285,8 +4111,6 @@ Vibhishana actually caused to be brought together, carts, excellent varieties of
 firewood, the three sacred fires and the priests required to officiate at the obsequies, logs of
 sandalwood, various types of firewood, pieces of fragrant aloe-wood, odorous perfumes, as well as
 gems, pearls and corals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4302,8 +4126,6 @@ mother); *chakaara kriyaam* = initiated the obsequies.
 
 Surrounded with demons, he came back for a while and thereupon, Vibhishana along
 with malyavan (the father of his own mother) initiated the obsequies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4409,8 +4231,6 @@ part of the demon's race, which was apparently divided into four classes, like h
 around him with their faces filled in tears. Lifting up that palanquin, which had been decorated
 with colorful flags and flowers and taking up blocks of wood, all the demons for their part, with
 Vibhishana in front, proceeded with their face turned towards the south.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4459,8 +4279,6 @@ were; by Adhvaryu priests the performers of the sacrificial act; *tadaa* = at th
 Those sacrificial fires were ignited and re-animated, as they were, by Adhvaryu
 priests, the performers of the sacrificial act, at that time. Those sacrificial fires were
 contained in earthen pots and went in front of Ravana's body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4476,8 +4294,6 @@ on all sides.
 
 All those women of the gynaecium, while weeping, followed at his heels with quick
 paces, stumbling, as they were, on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4542,8 +4358,6 @@ Keeping the body of Ravana on a consecrated spot, Vibhishana and others, who wer
 very much afflicted with grief, piled up a sacred pyre, with logs of sandalwood, moistened with
 perfumes called Padmaka and Koshira and covered with the skin of black antelopes, turned about to
 perform the obsequies in accordance with Vedic rites in honour of the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4591,8 +4405,6 @@ place.
 
 They performed the ancestral oblations to Ravana in a superb way. They constructed
 an altar in the south-east the funeral pile) and placed the sacred fire in its proper place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4646,8 +4458,6 @@ ladle; *sampuurNam* = full; *vR^iShadaajyena* = of ghee mixed with curds;
 
 They poured a ladle-full of ghee mixed with curds on his shoulders, placed a cart at
 his feet and then a wooden mortar at his thighs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4667,8 +4477,6 @@ Having set at their proper place, all the wooden vessels (used in Agnihotra), th
 lower piece of wood used for kindling fire at a sacrifice and the upper piece of wood (which is
 rotated at great speed on to lower one, to produce fire by friction), the wooden pestle and other
 things used in the sacrifice, they circled around the funeral pyre.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4749,8 +4557,6 @@ ghee; *raajJNaH* = on Ravana; *raakShasendrasya* = the king of demons.
 According to ordinance laid down by eminent sages and according to the rules viewed
 in Vedas, having sacrificed a goat fit for sacrifice at that spot, the demons dampened with ghee on
 Ravana the King of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4797,8 +4603,6 @@ grains of rice.
 Having decorated the body of Ravana with perfumes, garlands and various kinds of
 clothes; those demons accompanied by Vibhishana, distressed as they were in their minds, poured
 parched grains of rice, with their faces bathed in tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 </details>
 
@@ -4873,8 +4677,6 @@ Washing himself and offering in his wet clothes, according to scriptural ordinan
 mixed with water, as well as blades of Kusha grass and offering obeisance to Ravana by bowing his
 head, Vibhishana entreated those women to return, consoling them again and again. Then, all of the
 returned to the City.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -4895,8 +4697,6 @@ having arranged; *apratitarkitaam* = an unimaginable; *maayam* = illusion.
 
 "Otherwise, for your destruction, Yama, the lord of Death came himself assuming the
 form of Rama having arranged an unimaginable form of illusion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

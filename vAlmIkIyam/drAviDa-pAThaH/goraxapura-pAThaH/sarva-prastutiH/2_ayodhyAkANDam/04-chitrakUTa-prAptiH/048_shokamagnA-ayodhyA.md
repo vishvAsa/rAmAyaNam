@@ -16,8 +16,6 @@ title_english = "048 Rama s departure for the forest"
 Informed by the citizens of Rama's departure for the forest, when they returned to
 Ayodhya after being unable to find out the tracks of his chariot, the wives of the citizens
 reproach Kaikeyi and break into lamentation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ are gone.
 The lives of those citizens, who had returned dejected and cheerless in this way
 after accompanying Rama were greatly hurt, having their eyes filled with tears afflicted with
 grief, longing to give up their lives and appeared as though they were dead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -128,8 +124,6 @@ by tears.
 
 Reaching each his own house, all of them surrounded by their sons and wife, shed
 tears, their faces being covered by them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ cook.
 
 None was either delightful or merry. Merchants no longer exhibited their wares, nor
 their merchandise looked charming. Those in charge of home did not attend to cooking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ Mother;naabhyanandata = did not rejoice; *labdhvaa* = on obtaing; *putram* = a s
 
 None was delightful for instance on finding out a lost fortune, or on getting riches
 in abundance. No mother did rejoice even on obtaining a son born for the first time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ goads.
 
 Oppressed with sorrow and weeping, women in every house heaped reproaches on their
 husbands who came home, with words as sharp as pricks of the goad which attack an elephant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -326,8 +314,6 @@ their sons or; *sukhairvaapi* = even pleasures even?"
 
 "What purpose of theirs who do not see Rama, will be served by their dwellings, wife
 or wealth or sons or pleasures even?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ Kakutstha dynasty; *siitayaa saha* = along with Sita; paricharam rending service
 
 Lakshmana alone is a good man in this world, who was accompanying Rama belonging to
 Kakutstha dynasty, along with Sita ,duly rendering service to them in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -423,8 +407,6 @@ Kakutstha dynasty, along with Sita ,duly rendering service to them in the forest
 
 "Fortunate too are the rivers; lotus ponds and lakes for bathing in whose sacred
 waters Rama entered into."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -471,8 +453,6 @@ rivers; *parvataaH* = and mountains; *saanumantaH* = with alluring peaks;
 
 "Forests with beautiful row of trees, tracks of land abounding in water, rivers and
 mountains with alluring peaks will bring splendor to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -520,8 +500,6 @@ arrived."
 
 "Any mountain or forest which Rama will visit, will not fail to respect him like a
 beloved guest who has arrived."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -567,8 +545,6 @@ themselves; *raaghavam* = at Rama."
 
 "Plants with many -colored flowers as their chaplets, bearing copious clusters of
 blossoms full of bees exhibit themselves at Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -616,8 +592,6 @@ unseasonable ness anukroshaat = with compassion.
 
 "Even in unseasonable ness, mountains in compassion will present principal flowers
 and fruits to Rama, on his arrival."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -664,8 +638,6 @@ and fruits to Rama, on his arrival."
 
 "Mountains will show various wonderful waterfalls again and again, duly streaming
 forth uncontaminated waters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -719,8 +691,6 @@ overthrow."
 
 "Trees on apex of mountains will enrapture Rama. Where there is Rama, there is
 neither fear nor humiliation".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -736,8 +706,6 @@ us. Anugachhaama = Let us run after; *raaghavam* = Rama."
 
 "That Rama the son of Dasaratha, the hero and the mighty armed will come to our view
 not far from us. Let us run after him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -785,8 +753,6 @@ the Lord; *mahaatmanaH* = and the high-souled; *taadR^ishsya* = is in such a man
 
 "The shelter of the feet of the lord and the high-souled Rama is in itself a joy.
 Rama indeed is the protector of all of us, he the refuge and our supreme asylum "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -837,8 +803,6 @@ husbands.
 
 "We shall serve Sita; while you attend on Rama." Thus, the citizen's wives,
 afflicted with agony, spoke in so many words to their husbands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -885,8 +849,6 @@ janasya naarii* = of these people; the women folk.
 
 "Rama will secure the needs and interests of yours in the forest, while Sita will do
 the same thing with regard to us womenfolk."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -933,8 +895,6 @@ spot; *hR^ita chetasaa* = with unsettled minds?"
 
 "Who will be highly pleased with this residence in the city, which is apprehensible,
 with anxious people in it and not being a pleasant spot with unsettled minds?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -983,8 +943,6 @@ righteousness; *anaathavat* = with no protector; *na hi* = indeed; no;
 "If it were to be the rule of Kaikeyi, it will not be in consonance with
 righteousness, with no protector and indeed with no use for our lives, mush less for our sons and
 riches."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1061,8 +1019,6 @@ abandon?"
 
 "Whom else Kaikeyi will not abandon? --that Kaikeyi, by whom her son and her husband
 were forsaken for the sake of power and who brought disgrace to her family."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1078,8 +1034,6 @@ are) living; *shapaamahe* = we swear even; *putrairapi* = even by our sons."
 
 "We swear even by our sons that while Kaikeyi is surviving and as long as we live,
 we will never inhabit this kingdom as Kaikeyi's servants!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1130,8 +1084,6 @@ happily; *praapya* = on having obtained; *taam* = her; *yaa* = who;
 
 "Who can live happily on having obtained (as one's ruler) that impious woman of
 wicked conduct, who banished the son of the king without any pity?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1181,8 +1133,6 @@ fault."
 
 "The whole of this kingdom, without any leader, having no support and visited by
 calamities, will meet with ruin because of Kaikeyi's fault."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1229,8 +1179,6 @@ After the death; *dasharathe* = of Dasaratha; *vilaapaH* = utter moaning sounds;
 
 "For, Rama having gone into exile, the monarch will not survive and when Dasaratha
 is dead, utter regrets will remain thereafter. It is certain!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1279,8 +1227,6 @@ vaa* = or follow; *raamam* = Rama (to the forest); *gachchhati* = or reach;
 "So, drink poison duly stirred up, since your merits are exhausted and you are
 marked out by ill fortune. Otherwise, follow Rama to forest or reach a place where even the name of
 Kaikeyi may not reach your ears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1327,8 +1273,6 @@ Bharata; *sounike yathaa* = like to a slaughterer; *pashavaH* = the beasts."
 
 "Rama has been sent to exile along with Sita and Lakshmana deceitfully. We have been
 handed over now to Bharata, like the beasts in the hands of a slaughterer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1414,8 +1358,6 @@ speaking and expresses with sweetness, truthful of speech and possessed of extra
 is benevolent to all, delightfully charming as the moon, that tiger among men, as mighty as an
 elephant in rut, that great car-warrior, will surely adorn the woods, while roaming through
 them.."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1456,8 +1398,6 @@ that manner; *chukrushuH* = cried; *bhayaagame iva* = as though fear has cropped
 
 Those wives of citizens in the city of Ayodhya, lamenting as aforesaid, began
 weeping, as though fear has cropped up for a forth-coming death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1504,8 +1444,6 @@ below the horizon; *rajaniicha* = and the night; *abhyavartata* = fell;
 
 The sun sank below the horizon and the night fell, while the women in the houses
 were weeping in that manner about Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1554,8 +1492,6 @@ this time.
 The city of Ayodhya, in which the kindling of fires had ceased and the chanting of
 Vedas and narration of sacred stories died out, looked as though it was coated with darkness at
 that time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1598,8 +1534,6 @@ in which the stars had disappeared.
 The city of Ayodhya, in which the business of the trading class had come to a
 stand-still, in which joy had been faded out, which had become (now) support less, looked dim as
 though stars had disappeared in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1661,8 +1595,6 @@ miserably; *vilapya* = lamented; *ruruduH* = (and) wept. taasaam = To them;
 The women whose minds became sick on account of Rama, as one would feel on one's own
 son or brother having been sent into exile, cried miserably expressing their grief in various ways.
 To them, Rama was dearer than their very sons!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 </details>
 
@@ -1717,8 +1649,6 @@ yathaa* = like a great ocean; *samkshhapitodakaH* = whose waters had dried up.
 That city of Ayodhya, in which singing, rejoicing, dancing and instrumental music
 had been completely set at rest, when jpy had departed forever and whose shops had been closed,
 looked at that time like a grat ocean whose waters had dried up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

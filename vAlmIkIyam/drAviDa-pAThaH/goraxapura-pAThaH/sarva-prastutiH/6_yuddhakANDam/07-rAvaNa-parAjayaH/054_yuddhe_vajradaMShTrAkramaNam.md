@@ -17,8 +17,6 @@ The powerful demon Vajradamshtra penetrated the army of monkeys, sowing terror a
 them. The monkeys then sought refuge with Angada the monkey-leader. A fierce battle ensues between
 Vajradamshtra and Angada. Angada assaults Vajradamshtra with a sword and Vajradamshtra's head falls
 on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ by the prowess; *aN^gadasya* = of Angada.
 
 The devastation of his army through Angada's prowess filled the mighty Vajradamstra
 with anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ monkeys.
 
 Stretching his terrific bow, like unto Indra's thunder bolt, he assailed the monkey
 battalions with a flood of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ chariots; *tadaa* = then; *praayudhyanta* = fought; *raNe* = in the battle;
 
 Then, the foremost of the demons mounted on chariots, fought the battle with every
 kind of weapon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ fought; *shilaahastaaH* = with rocks in their hands.
 
 The monkeys, those valiant bulls among the Plavagas, assembling on all sides, fought
 with rocks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -253,8 +243,6 @@ hurled; *bhR^isham* = abundantly; *aayudha sahasraaNi* = thousands of weapons;
 
 Then in that battle there, the demons abundantly hurled thousands of weapons on the
 foremost of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -304,8 +292,6 @@ mighty prowess; *matta vaaraNa samnibhaaH* = resembling elephants in rut;
 
 The monkeys of mighty prowess, resembling elephants in rut, showered down giant
 trees and huge lumps of rock on the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -352,8 +338,6 @@ performing battle; *anivartinaam* = who never retreated; *samareSu* = in battle;
 
 Between those courageous warriors, the demons and the monkeys, who never retreated
 in battle, a tremendous struggle ensued.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ down; *samaashritaaH* = taking refuge; *gaam* = on the earth.
 Some monkeys and demons, with their shattered heads, but bereft of arms and legs,
 lay on the earth bathed in blood with their bodies wounded by weapons, a prey to herons vultures
 and crows or devoured by troops of jackals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ and their limbs hacked to pieces.
 
 Monkeys and demons fell on the battle-field; headless trunks leaps up to the terror
 of all the fearful, their limbs hacked to pieces in the combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ Vajradamshtra; *pushyataH* = was witnessing.
 
 Thereafter, under the eyes of Vajradamshtra, all his army of demons were killed and
 broken up by the monkey-troops.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -589,8 +567,6 @@ monkeys; *traasayan* = frightening them.
 Seeing the demons terrified with fear and decimated by the monkeys, that powerful
 Vajradamshtra, his eyes red with anger, bow in hand, penetrated the army of monkeys, sowing panic
 among them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -641,8 +617,6 @@ vigorous; *vajradamSTraH* = Vajradamshtra; *sharaiH* = with his arrows;
 Thereafter, in his fury, the vigorous Vajradamshtra dispatched those monkeys with
 arrows resembling wings of an eagle that flew straight to their target and pierced seven, eight,
 nine or five of his opponents simultaneously, thus destroying them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ iva* = as creatures; *prajaapati* = towards Brahma the Lord of creation.
 
 With their limbs crippled by those arrows and frightened, those monkey battalions
 sought refuge with Angada, as all creatures with Brahma the Lord of Creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ Vajradamshtra; *udiikSantam* = who was seeing; *krodhena* = with anger.
 
 When he beheld those monkey troops fleeing in disorder, Angada the son Vali
 exchanged glances of hatred with Vajradamshtra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -773,8 +743,6 @@ and strolled; *paramakruddhau* = in a tremendous fury.
 
 Both Vajradamshtra and Angada fought against each other like a lion and an elephant
 in rut. They strolled din a tremendous fury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ shikhopamaiH* = resembling a hundred thousand flames of fire.
 
 Thereafter, that Vajradamshtra knocked the mighty Angada at his vital organs with
 his arrows resembling hundred thousand flames of fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -863,8 +829,6 @@ a terrific prowess; *chikSepa* = thre; *vR^ikSam* = a tree; *vajradamSTraaya*
 
 With all his limbs drenched in blood, the mighty Angada having a terrific prowess
 threw a tree on Vajradamshtra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -912,8 +876,6 @@ ground.
 
 That unperplexed demon, seeing that tree falling on him, cut it into innumerable
 pieces which fell in heaps on earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -954,8 +916,6 @@ monkeys; *pragR^ihya* = taking; *vipulam* = a large; *shailam* = mountain;
 
 Witnessing the strength of Vajradamshtra, Angada that lion among the monkeys seized
 hold of a large rock and emitting a shout, threw it on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -997,8 +957,6 @@ stood (there); *pR^ithivyaam* = on the battle-field.
 
 As the rock descended, that vigorous Vajradamshtra leaping down from his chariot,
 armed with his mace, stood waiting unperplexed, on the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1039,8 +997,6 @@ kuubaram* = with its wheels; shafts; *saashvam* = together with horses.
 
 Meanwhile, the rock thrown by Angada, falling into the forefront of the battle, then
 crushed the chariot with its wheels shafts and horses
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1081,8 +1037,6 @@ threw; *shirasi* = on the head; *vajradamSTrasya* = of Vajradamshtra.
 
 Thereafter, Angada the monkey, seizing another large peak of a mountain adorned with
 trees, threw it on Vajradamshtra's head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1132,8 +1086,6 @@ became; *muuDhaH* = unconscious; *muhuurtam* = for a moment.
 
 Beginning to vomit blood, Vajradamshtra became fainted, clenching his mace
 convulsively and breathing heavily for a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1183,8 +1135,6 @@ standing there; *vakSodeshe* = on his chest area; *gadayaa* = with his mace.
 
 Regaining his consciousness, Vajradamshtra the demon was very much enraged and hit
 Angada full on the chest with his mace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1225,8 +1175,6 @@ monkey and demon; *jaghnatuH* = hit; *anyonyan* = each other.
 
 Leaving his mace, he performed a pugilistic encounter there. Both the monkey and the
 demon thus hit each other in that combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1273,8 +1221,6 @@ Mercury.
 
 Exhausted by the blows, spitting blood, those valiant warriors were like the planets
 Mars and Mercury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1324,8 +1270,6 @@ with many flowers and fruits; *sthitavaan* = stood waiting.
 
 Then, Angada the lion among the monkeys, possessing a great splendour, uprooted a
 tree full with many flowers and fruits and stood waiting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1373,8 +1317,6 @@ bells.
 
 The demon too seized hold of a shield covered with the hide of a bull as well as a
 great beautiful sword decorated richly with a multitude of golden bells.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1421,8 +1363,6 @@ monkeys and the demons; *nardantau* = making roaring sounds; *tadaa* = then;
 
 Thirsting for victory, the monkeys and the demons, making roaring sounds, roamed
 about in different ways and collided with each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1470,8 +1410,6 @@ exhausted they were; *gatau* = (they) sank; *jaanubhyaam* = their knees;
 
 With their gaping wounds, they shone like a pair of kimshuka trees in blossom.
 Exhausted were both of them while fighting and they sank their knees on the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1518,8 +1456,6 @@ glittering eyes; *udatiSThata* = rose up; *uragaH iva* = like a serpent;
 
 Angada, the foremost of the monkeys, just after a moment, with his glittering eyes,
 rose up like a serpent struck with a stick.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1560,8 +1496,6 @@ well-sharpened; *nirmalena* = and stainless.
 
 The mighty Angada assaulted the giant head of Vajradamshtra with a well-sharpened
 and stainless sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1602,8 +1536,6 @@ his eyes rolling; *babhuuva patitam* = fell; *dvidhaa* = into two pieces.
 
 Struck by the sword, that charming head of Vajradamshtra, with his limbs drenched in
 blood and eyes rolling, fell into two pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 </details>
 
@@ -1682,8 +1614,6 @@ escape; *laN^kaam* = to Lanka.
 Seeing Vajradamshtra having been slain, the demons, deluded with fear, fled
 panic-stricken towards Lanka, harassed by the monkeys with their down-cast faces, their heads bowed
 in shame.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga54/yuddhasans54.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

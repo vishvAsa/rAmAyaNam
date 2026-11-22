@@ -20,8 +20,6 @@ Mandakini, offers water and balls of food to the spirit of his departed father a
 hut. The crying sounds of those brothers mourning for their dad father with Seetha created and echo
 in the mountain. Hearing their cry of distress, the troops approach Rama, who receives them all
 with affection.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ consciousness.
 
 Hearing those mournful words relating to the death of his father, spoken by Bharata,
 Rama fainted away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -128,8 +124,6 @@ Hearing that unpleasant thunder bolt of words spoken by Bharata, like a thunderb
 released by Indra the Lord of celestials in a battle, Rama the tormentator of his enemies,
 stretched forth his hands and fell on the ground, in the same manner as a tree covered at
 extremities with blossoms was cut off by an axe in the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -187,8 +181,6 @@ was stricken by grief.
 Seeing Rama lying on the earth, has the lord of the earth, like an elephant crushed
 by a land slide on a bank where he was sleeping, those brother along with Seetha approached him
 from all sides and weepingly sprinkled water on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -235,8 +227,6 @@ out; *asram* = tears; *upaakraamata* = began; *bhaaSitum* = to speak;
 
 Coming to his senses again and tears falling from his eyes, Rama began to speak much
 plaintively.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ sahitam* = consistent with righteousness; *bharata* = to Bharata.
 
 Hearing that the King and his father had ascended to heaven, the virtuous. Rama
 spoke the following words, consistent with righteousness to Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ that Ayodhya; *hiinaam* = bereft; *raajavaraat* = of that excellent king?
 
 "What should I do with Ayodhya, now that my father reached the end of his life? Who
 will rule that Ayodhya, which is bereft of that excellent king?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -367,8 +353,6 @@ samskR^itashchaapi* = and not even last rites were performed; *mayaa* = by me.
 
 "In my misfortune, what can I do for that high-souled one? He died of grief on my
 account and I did not perform the last rites for him!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -416,8 +400,6 @@ obsequies rites!
 
 "O, Bharata the faultless one! Alas! Happy are you, by whom as well as by Shatrughna
 the king was honoured by all obsequial rites!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -458,8 +440,6 @@ chief; *vinaakR^itaam* = and bereft; *narendreNa* = of a king.
 
 'Even after the end of my exile, I do not want to return to Ayodhya which is i a
 disarranged state, deprived of a chief and made bereft of a king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -506,8 +486,6 @@ world; *kaH* = who; *punaH anuShaasiSyati* = will again advise; *maam* = me;
 
 "O, Bharata the tormentator of foes While our father has gone to the other world,
 who will counsel me when my exile in the forest is over?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -555,8 +533,6 @@ are delightful to the ears?
 
 "Formerly, seeing my good conduct, our father used to address me in words of praise;
 from whom now shall I hear those words delightful to the ears?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -603,8 +579,6 @@ samtaptaH* = and stricken with grief; *uvaacha* = spoke (as follows)
 
 Having spoken thus to Bharata, Rama went to seek out his consort, whose face
 resembled the full moon, and overwhelmed with grief, spoke to her as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -655,8 +629,6 @@ the emperor; *svargatam* = being dead.
 
 "O, Seetha! your father-in-law is dead. O, Lakshmana! You have become bereft of your
 father. Bharata is informing a sorrowful news of the emperor being dead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -703,8 +675,6 @@ the eyes of those illustrious sons of Dasaratha.
 
 While Rama was uttering those words, copious tears caused to flow then from the eyes
 of those sons of Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -752,8 +722,6 @@ the earth.
 
 Then, all those brothers consoled Rama very much and said to him, "Let us offer
 libations of water for our father, the Lord of the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -801,8 +769,6 @@ filled with tears.
 
 Hearing that her father-in-law, that great monarch had ascended to heaven, Seetha
 was unable to see her husband through eyes filled with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -843,8 +809,6 @@ Lakshmana; *tatra* = there; *duHkhitam* = who was lamenting.
 
 Rama consoled that Seetha who was weeping and himself stricken with grief, spoke to
 the lamenting Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -887,8 +851,6 @@ about my loins; *uttaram* = and another for being used as an upper garment;
 "Bring the crushed pulp of Ingudi Tree and bring a piece of bark for being wrapped
 about my loins and another for being used as my loins and another for being used as an upper
 garment, so that we may proceed to offer libations of water for our magnanimous father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -936,8 +898,6 @@ terrible; *gatiH* = procession.
 
 "Let Seetha walk in the front and you follow after her nearby. I shall follow in the
 rear. This indeed is the most terrible procession.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -996,8 +956,6 @@ Then, their faithful companion Sumantra versed in the spiritual science, endowed
 with great intelligence, kind, self-controlled and glorious, and deeply devoted to Rama, consoling
 him and his brothers, took Rama by the hand and helped him descend to the auspicious River
 Mandakini.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1061,8 +1019,6 @@ The illustrious Rama and others painfully reached the River Mandakini, that stre
 of sacred fords, the enchanting one always covered with flowers, coming to a blessed ford, free
 from mud and offered the lustrual water to the king, saying "Father! May this prove agreeable to
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1114,8 +1070,6 @@ traditional words; saying:
 Holding together in the form of a hollow his palms full of water and turning his
 face turned towards the southern quarter and weeping the great prince pronounced the traditional
 words saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1132,8 +1086,6 @@ where you are.
 
 O, Tiger among men! May this water without taint and incorruptible at the moment
 that I offer it to you, reach you in the region of your ancestors where you are."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1180,8 +1132,6 @@ offered; *nivaapam* = balls of food; *pituH* = to his father.
 
 Thereafter, the glorious Rama, resending the bank of Mandakini River along with his
 brothers, offered balls of food to his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1228,8 +1178,6 @@ sadness; *rudan* = weeping; *abraviit* = spoke; *vachanam* = these words.
 
 Rama placed the pulp of the Ingudi tree mixed with the pulp of plums on a mat of
 Kusa grass and overcome with sadness, weeping, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1270,8 +1218,6 @@ eat; *yadannaH puruSaH* = for; that which man eats; *tadannaah* = is also consum
 
 "O, Great King! Be pleased to partake of this, which we eat for, that which man
 eats, is also consumed by his gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1324,8 +1270,6 @@ charming summit; *mahiidharam* = of (Chirakuta) mountain.
 
 Rama the tiger among men then re-ascending by the same path on the banks of the
 river reached the charming summit of Chitrakuta mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1341,8 +1285,6 @@ Lakshmana; *baahubhyaam* = with his arms.
 
 Gaining the door of his leafy hut, Rama the Lord of the earth then embraced Bharata
 and Lakshmana with his arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1393,8 +1335,6 @@ mountain.
 
 From the sound of the cry of those brothers with Seetha, which resembled like the
 roaring of lions rose an echo in the mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1448,8 +1388,6 @@ got alarmed.
 
 Hearing the tumultuous clamour by those mighty heroes as, weeping they completed the
 libations of water to their father, Bharata's army got alarmed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1466,8 +1404,6 @@ dead; *pitaram* = father.
 
 Those troops of Bharata also said, "Assuredly, Bharata has joined Rama and this is a
 great sound only of their wailing, as they mourn for their dead father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1514,8 +1450,6 @@ of; *tam svanam* = that sound; *yathaasthaanam* = instantly.
 
 Leaving their tents all of them having but one thought, went running in the
 direction of that sound instantly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1565,8 +1499,6 @@ the youthful; *naraaH* = people; *yayuH* = went; *padbhideva* = on foot.
 
 Some went on their horses, some others on their elephants, some in their chariots
 covered with ornaments while the youthful people went on foot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1613,8 +1545,6 @@ for them; *sarvaH* = the whole; *janaH* = people; *sahasaa jagaama* = ran;
 
 In their longing to see Rama, whose absence though recent, seemed so long a period
 for them, the whole people ran towards the hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1664,8 +1594,6 @@ transport; *khura namisvanaakulaiH* = like hoofed animals and wheeled vehicles.
 
 Eager to see those brothers re-united there, they went hastily by various means of
 transport, either by hoofed animals or by wheeled vehicles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1715,8 +1643,6 @@ land; *mumocha* = emitted; *tumulam* = a tumultuous; *shabdam* = noise;
 
 Trodden by many vehicles, beasts and chariots, that land emitted a tumultuous noise,
 as a sky during the conjunction of clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1757,8 +1683,6 @@ their ichor; *jagmuH* = went; anyat vanam- to another wood; *tataH* = from there
 
 Frightened by that noise, the wild elephants, surrounded by female elephants,
 perfuming the quarters with teh scent of their ichor, went to another wood from there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1805,8 +1729,6 @@ saha* = along with spotted deer; *vitresuH* = felt frightened.
 
 Boars, wolves and lions, buffaloes, snakes, monkeys, tigers, Gokarnas and Gavayas
 (two distinctive species of deer) along with spotted deer felt frightened.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1854,8 +1776,6 @@ directions; *visaN^JNaaH* = utterly confused.
 
 The ruddy gooses, water-fowls, swans, Karandavas ( a sort of ducks), herons, male
 cuckoos and cranes, utterly confused made it to various directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1903,8 +1823,6 @@ looked beautiful.
 
 The sky filled with birds that had been frightened by that noise and the earth
 covered with men, both looked beautiful at that moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1951,8 +1869,6 @@ akalamSam = and the sinless; *raamam* = Rama; *aasiinam* = sitting;
 
 Suddenly then, the people beheld the illustrious and the sinless Rama, sitting on
 the bare earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -1995,8 +1911,6 @@ the bare earth.
 
 Abusing Kaikeyi and Manthara, those people turned up with their faces bathed in
 tears. while approaching Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -2044,8 +1958,6 @@ with tears; *pariSvajata* = embraced them; *pitR^ivat* = like their father;
 
 Seeing those people thus deeply afflicted their eyes suffused with tears, Rama
 knowing what was right, embraced them like their father and mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -2102,8 +2014,6 @@ all of them; *vayasya baandhavaan* = including his friends and companions; *aasa
 Rama embraced some men there, while some others offered salutations to him.
 Approaching them on that occasion, the king's son received them all including his friends and
 companions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 </details>
 
@@ -2159,8 +2069,6 @@ pratimaH* = like the continuous; *mR^idaN^ga ghoSa* = beating of drums.
 The tumult of those magnanimous persons lamenting, resounded over the earth and in
 the sky, reverberating through the mountain caves and in all quarters like the continuous beating
 of drums.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

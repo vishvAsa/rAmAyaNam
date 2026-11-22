@@ -17,8 +17,6 @@ III : Aranya Kanda - The Forest Trek**
 Rama bewails for Seetha as an ambivert, ambivalent romantic epical hero and asks
 Lakshmana to return to Ayodhya, as Rama is certain to perish without Seetha. He thinks his agony
 aloud, weighing pros and cons of his situation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -81,8 +79,6 @@ marred by desire for Seetha...' and because of the adjacency of word *dharmaatma
 righteous...' Then *mahaabaahuu* denotes that he is wailing raising his long arms, and
 *kamala locana* is indicative of redness of lotuses, thus his eyes are reddening by his
 wailing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -140,8 +136,6 @@ Here the poet is starting the sixth phase among the ten phases called
 *manmadha avasthaaH* 'phases of pangs of love,' and this one is called *a + rati*
 'non-indulgence, the ambivalence, the ambiversion...' of the romantic hero, in romantic epical
 poetry.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -194,8 +188,6 @@ presently became tormentors. [3-62-3]
 **टिप्पनी**
 
 We may recount the idea reg. Ashoka flowers expressed at 3-60-17.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ you are [inapt].
 "Maybe, both your thighs liken to the stalks of banana plants, thinking so, now you
 have lapped them in grovy banana plants, but I can distinguish which is which, thus now I caught
 sight of them, oh, lady, you are inapt at least to cover them from me. [3-62-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -288,8 +278,6 @@ really.
 "Oh, lady, you are facetiously glorying in the boscage of fully bloomed Karnikaara
 trees which is really wafting worry to me, rather than the fragrance of those flowers oh, glorious
 lady, enough, enough is this facetiousness of yours. [3-62-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -351,8 +339,6 @@ aahuH gR^ihiNii gR^iham ucyate | gR^iham tu gR^ihiNii hiinam araNyam sadR^ishama
 12-144-6; bhaaryaahiinam gR^ihasthasya shuunyam eva gR^iham bhavet |* 'a house is a house when housewife
 is there, otherwise it amounts to a forest...' 'a house to the householder is a void, if the housewife
 is not there...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -400,8 +386,6 @@ well, easily, coming] = returning; *hi* = indeed.
 
 "Oh, Lakshmana, very evidently demons have either gorged up Seetha, or perhaps
 abducted her, because she is not returning to me who am whiny indeed for her. [3-62-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -448,8 +432,6 @@ deer, mobs of; *me deviim* = my, lady is; *rajaniicaraiH* = by nightwalkers;
 
 "Indeed these teary-eyed mobs of deer look as if to explain that nightwalkers have
 gluttonised my lady. [3-62-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -501,8 +483,6 @@ ha, chastely lady; *vara varNini* = oh, best, complexioned one; *haa* = ha;
 "Ha! My graceful lady, to where you have strayed now... Ha! Chastely and best
 complexioned lady, now the ambition of my queen mother Kaikeyi will be fulfilled, as I breath my
 last owing to your straying... [3-62-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -550,8 +530,6 @@ Ayodhya; *shuunyam* = empty; *mama antaH puram* = my, inside, palace
 
 "I have come to forests with Seetha and have to go back to Ayodhya without Seetha.
 How, in all but name, can I step into an oblivion called my palace-chambers? [3-62-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -600,8 +578,6 @@ leading - regarding abduction; *me* = my; *kaataratvam* = timidity [ineptitude];
 "People will denounce me as a vigourless and pitiless person, and my ineptitude will
 indeed be self-evident, for Seetha is led away from me by some tactical being... [3-62-10b,
 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -648,8 +624,6 @@ adhipam* = Mithila's, king; *janakam* = to Janaka; *niriikshitum* = to gaze at
 
 "When the king of Mithila Janaka asks after the wellbeing of all the three of us
 after the completion of forest living, how do I have the face to stand him? [3-62-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -696,8 +670,6 @@ goes under; *nuunam* = it is definite.
 
 "On seeing me without Seetha the king of Videha will be distraught by the perishing
 of his daughter, and he defiantly goes under the preponderance of perplexity... [3-62-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -746,8 +718,6 @@ eva hi* = void, thus, indeed; *mataH* = [is my] belief.
 it must be comforting to one and all under his rulership, but not to me as Seetha will not be with
 me... else if, that end of my life occurs now and if I were to go to heaven, even that heaven will
 be a void to me without her... I believe so... [3-62-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -795,8 +765,6 @@ it.
 
 "Hence, Lakshmana, you go back to that auspicious city Ayodhya forsaking me in
 forests, because I have no existence without Seetha, isn't it! [3-62-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -843,8 +811,6 @@ thus; *raameNa anuGYaataH asi* = by Rama, authorised, you are.
 
 "On tightly hugging Bharata you shall tell him these words as I have said, 'Rama
 authorises you to reign the earth...' [3-62-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -899,8 +865,6 @@ you are you say; *bhavataa* = by you; *prayatnena* = effortfully; *saa* = she
 justifiably you tell them my good bye, and you as the one who effectuates whatever is assigned to
 you, you have to effortfully protect my mother Kausalya by doing whatever she says. [3-62-17b,
 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -947,8 +911,6 @@ perish; *tvayaa* = by you; *jananyaa* = to mothers; *vistareNa* = in detail;
 
 "Oh, the subjugator of unfriendly, Lakshmana... you shall clearly inform in detail
 about this perish of Seetha, also that of mine, to our mothers. [3-62-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 </details>
 
@@ -1006,8 +968,6 @@ Thus Raghava, the dejected, neared every corner of the forest in his search, and
 bewailed because that lady with best plaits, Seetha, is not found and missing from him. Even
 Lakshmana became whey-faced, frantic-hearted, highly overwrought, by the fear of uncertainty
 looming large on them. [3-62-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga62/aranyasans62.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

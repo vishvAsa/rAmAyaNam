@@ -19,8 +19,6 @@ Indra impounds that ritual's horse. Then Ambariisha had to fetch a human-animal
 in lieu of that lost horse. When none is available one named Shunashepa, son of
 Sage Riciika, and a nephew of Vishvamitra, offers himself with a barter of riches
 to his parents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ and who have started to go back after the ritual of Trishanku is over, then that
 great-resplendent Vishvamitra spoke to all of the sages who are forest dwellers
 that remained with him." Thus Shatananda continued to narrate the legend of Vishvamitra.
 [1-61-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ cropped up; *anyaam disham prapatsyaamaH* = we journey on another direction
 While depending on this southern quarter this gross hindrance has cropped up
 for my ascesis in the shape of Trishanku's ascent to heaven, hence we will go to
 another direction, and there we continue ascesis. [1-61-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ holy lakeside; *sukham tapaH cariSyaamaH* = conveniently, we undertake ascesis;
 'Oh, great-souled sages, we can conveniently undertake our ascesis in the vast
 of westerly direction where holy lakesides are there. That would be an august ascetical
 forest, isn't it.' Thus Vishvamitra said to fellow sages in his camp. [1-61-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ after reaching them; *muulaphalaashanaH* = eating [subsisting on] tubers and fru
 On saying thus that most brilliant and great saint Vishvamitra performed an unhindered
 and rigorous ascesis subsisting only on fruits and tubers after reaching the lakeside
 of holy lakes. [1-61-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -256,8 +246,6 @@ of holy lakes. [1-61-4]
 
 In the meanwhile the great king of Ayodhya, renowned as Ambariisha, embarked on
 to perform a Vedic-ritual. [1-61-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -299,8 +287,6 @@ raajaanam idam abraviit* = the officiant of ritual spoke this to king.
 But Indra impounded the animal of the principal of that ritual, namely king Ambariisha,
 and when that animal is really vanished, the officiant Brahman of the ritual spoke
 this to that king. [1-61-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -343,8 +329,6 @@ items]; *raajaanam doSaaH ghnanti* = blemishes will destruct the king.
 Oh, king, the animal you have fetched for the ritual has gone astray owing to
 your incautiousness. Oh, king, unguarded items of the ritual will themselves become
 destructive blemishes for that king who is performing the ritual. [1-61-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -389,8 +373,6 @@ as that animal alone which was intended but now missing shall be used in ritual.
 Or, a man may be fetched as ritual-animal, and only after that the deeds of the
 ritual can be continued.' Thus, the priests of the ritual said to king Ambariisha.
 [1-61-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -439,8 +421,6 @@ for.
 On hearing the words of his teacher, oh, the best one among men, Rama, he that
 highly rule-obedient king tried for a human-ritual-animal for a barter of thousands
 of cows. [1-61-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -491,8 +471,6 @@ While that king is searching those and those provinces, villages, forests, towns
 and even the pious hermitages, oh, dear Rama, the legatee of Raghu's dynasty, that
 king has indeed seen Sage Riciika, who is well settled on Mt. Bhrigutunga along
 with his sons and wife. [1-61-10, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -548,8 +526,6 @@ On reverencing and on obtaining the grace of ascetically brilliant great Sage Ri
 and even on asking him about his wellbeing in every aspect, that kingly sage Ambariisha,
 who is with great resplendence and whose brilliance is illimitable, said this word
 to that sage. [1-61-12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -594,8 +570,6 @@ ends.
 Oh, godlike sage, if you bargain your son with a hundred thousand cows for the
 purpose of a ritual-animal, oh, the successor Sage Bhrigu, I deem my ends are achieved.
 [1-61-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -637,8 +611,6 @@ a value; *daatum arhasi* = apt of you to give.
 'All the provinces are went over but unobtainable is that animal of the ritual,
 hence it will be apt of you to give me one son from among your sons, for a value.'
 Thus, king Ambariisha bargained with the sage. [1-61-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -679,8 +651,6 @@ I, in anyway; *jyeSTham na vikriiNiiyaam* = not possibly sell eldest [son].
 
 When that great-resplendent Sage Riciika is addressed thus, he said this word,
 'oh, best of men, I cannot possibly sell my eldest son, in anyway.' [1-61-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -721,8 +691,6 @@ When that great-resplendent Sage Riciika is addressed thus, he said this word,
 
 On hearing the words of Sage Riciika the mother of those great-souled sons spoke
 this word to the tigerly-man Ambariisha. [1-61-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -770,8 +738,6 @@ The most reverential sage and the one from Bhaargava dynasty, my husband, said
 that the eldest son is un-sellable. Thereof oh, lord, you must know that my youngest
 son, namely Shunaka, is a cherished one for me. Therefore oh, king, I will not give
 my youngest son to you, either. [1-61-17b, 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -832,8 +798,6 @@ from going on exile as you are a dear son of mine, though Maadri gave you a bodi
 birth, you are my favourite...' Also, in the period of forest exile she says to
 Yudhishtar: 'oh, king, let no danger occur to Sahadeva... as he is my cherished
 son...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -875,8 +839,6 @@ svayam vaakyam abraviit* = personally spoke sentence.
 Oh, Rama, when that sage's sentence is so, and his wife's sentence is also in that
 way only, their intermediate son, namely Shunashepa, personally spoke this sentence.
 [1-61-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -925,8 +887,6 @@ lead forth me.
 Father said that the eldest son is un-sellable, mother also said the same about
 youngest one. Then I deem that the intermediary son is sellable. Hence, oh, prince,
 you may lead me forth. [1-61-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -978,8 +938,6 @@ Oh, dextrous Rama, when that advocate of Veda-s, namely Shunashepa finished his
 speech, then the king gave gold, silver, and gemstones, each in ten million heaps,
 and even a hundred thousand cows, and oh, Rama, the legatee of Raghu, that king Ambariisha
 went away highly gladdened to take Shunashepa with him. [1-61-22, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 </details>
 
@@ -1021,8 +979,6 @@ on chariot; *aashu jagaama* = hastily, proceeded.
 "That great resplendent and highly renowned king Ambariisha on his part proceeded
 hastily after ascending Shunashepa onto the chariot that hastily." Thus Sage Shataananda
 continued his narration. [1-61-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga61/balasans61.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

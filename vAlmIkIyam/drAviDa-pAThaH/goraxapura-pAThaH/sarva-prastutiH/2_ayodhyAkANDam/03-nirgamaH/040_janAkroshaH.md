@@ -59,8 +59,6 @@ palms.
 
 Then, Rama Seetha and Lakshmana, who felt miserable, bowed down by touching the feet
 of the king and went round him clockwise with joined palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -107,8 +105,6 @@ along with seetha; *abhyavaadayat* = bowed; *jananiim* = to his mother Kausalya;
 
 After taking leave of Dasaratha, Rama who knew what is right and stood confounded by
 sorrow, bowed along with Seetha to Kausalya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -156,8 +152,6 @@ mother.
 
 Immediately following his brother, Lakshmana too bowed to Kausalya, then clasped the
 feet of his mother Sumitra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -206,8 +200,6 @@ hers.
 Smelling (as a token of affection) the head of Lakshmana mighty armed, who was
 saluting her, his mother Sumitra who wished well of him, spoke weepin, to that son of her ( as
 follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -259,8 +251,6 @@ is going ( to the forest)
 "Highly fond of your kinsman Rama, you have been pemitted (by me) to dwell in the
 forest(with your eldest half-brother). Do not neglect your half-brother). Do not neglect your
 half-brother Rama, who is going to the forest, my son!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -310,8 +300,6 @@ the control of his elder brother."
 "Oh, sinless one! Whether in adversity or in riches, he alone is refugee to you. It
 should become the code of conduct in the world, that younger brother should be subject to the
 control of his elder brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -363,8 +351,6 @@ the body; *mR^idheshhu* = in battles.
 "It is indeed a practice right from ancient times in your race, to make gifts, to
 dedicate onself to performance of sacrificial rites and to foresake one's body to fight
 battles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -412,8 +398,6 @@ raaghavam* = and who loved Rama dearly; *saa* = that; *sumitraa* = Sumitra;
 
 Thus speaking to Lakshmana, who was in readiness to leave the forest and who loved
 Rama dearly, Sumitra repeatedly said to him, "fare forth, fare forth!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -461,8 +445,6 @@ Janaka; *maam* = as myself; *vidhdhhi* = consider; *aTaviim* = forest;
 
 "Know Rama to be Dasaratha. Look upon Seetha the daughter of Janaka as myself.
 Consider the forest as Ayodhya and depart happily, my son!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -510,8 +492,6 @@ Indra)
 
 Then, Sumantra the humble man, who was aware of humility, joined his palms and spoke
 these words to Rama even as Matali(charioteer of Indra) would to Indra (the ruler of gods).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -561,8 +541,6 @@ be well; *te* = with you! praapayishhyaami = I shall take; *tvaam* = you;
 
 "Mount the chariot, oh the highly illustrious prince! May all be well with you! I
 shall take you speedily, wherever you direct me to go."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -609,8 +587,6 @@ the queen; *taani* = those; *upakramitavyaani* = are considered to have commence
 
 "you have to reside in the forest for fourteen years. Those years, as directed by
 the queen, are to be considered having commenced."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -661,8 +637,6 @@ sun.
 
 Having adorned herself, Seetha with her comely buttocks, mounted with a delighted
 mind, that chariot which was shining like the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -709,8 +683,6 @@ mounted; *tam* = that chariot; *jvalasamkaasham* = which was resplendent like fi
 
 Thereafter, Rama and Lakshmana the brothers quickly mounted that chariot, which was
 replendent like fire and decked with gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -761,8 +733,6 @@ the forest.
 
 For Seetha who was accompanying with her husband, Dasaratha gave away garments and
 jewellery, taking into consideration the period for which she had to stay in the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -835,8 +805,6 @@ Even so for the two brothers, keeping the sets of weapon, an armour of hard make
 with leather-cover in the midst of the chariot, Sumantra saw the three of whom Seetha constituted
 the third mounted and quickly drove the horses which were highly admired, with their swiftness
 resembling the velocity of wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -887,8 +855,6 @@ people.
 
 Rama after departing to the great forest for a long term, unconsciousness prevailed
 in the city. There was faintness in the strength of people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -938,8 +904,6 @@ tinkling of ornaments of horses
 
 The city( of Ayodhya) is filled with flurry, with its elephants intoxicated in rut
 and highly excited and resonant with tinkling of ornaments of horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -988,8 +952,6 @@ sun).
 That city, including the youngsters and the old, stricken with extreme agony, ran
 towards Rama alone, in the same way as the one afflicted with heat of the sun rushes towards
 water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1041,8 +1003,6 @@ to him(Sumantra)
 Having down towards sides and back of the chariot with their faces turned towards
 Rama and with their faces filled with tears, all those people said with loud voices to Sumantra
 thus:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1093,8 +1053,6 @@ _________________
 
 "Hold in the reins of the horses and go slowly and slowly, Oh charioteer! We would
 behold the face of Rama, which would be henceforth difficult to behold for us"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1142,8 +1100,6 @@ forest.
 
 "The heart of Rama's mother(Kausalya) is surely and undoubtedly made of iron, since
 it does not get broken when Rama resembling an offspring of gods is going to the forest"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1192,8 +1148,6 @@ prabhaa* = the efflugence of the sun.
 "Seetha(the princess of Videha kingdom) has done what ought to be done, by going
 along with him like a shadow, delighted in virtue as she was and does not leave her husband in the
 same way as Mount Meru does not leave the efflugence of sun"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1240,8 +1194,6 @@ to the god; *aho* = Ah; you are; *siddharthaH* = the accomplisher of purpose!
 
 "Oh, Lakshmana! You are attending ever to your brother who speaks affectionately and
 is equal to the god. Ah, you are the accomplisher of purpose!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1289,8 +1241,6 @@ fulfilment; *te* = for you; *eshhaH* = it; *mahaan* = is tremendous;
 
 "It is an immense fulfilment for you, it is a tremendous good fortune for you, nay,
 it is even a means to heaven that you are following this Rama"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1340,8 +1290,6 @@ Ikshvaakus.
 
 Saying so, those people were not able to restrain their tears that come and followed
 that Rama, their beloved delight of the Ikshvakus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1392,8 +1340,6 @@ with the distressed min; *bruvan* = saying; *dakshhyaaniti* = that he would beho
 
 Then, the king with the distressed mind, saying that he would behold his beloved
 saw, came out of his palace surrounded by women who were too dejected.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1443,8 +1389,6 @@ _________________
 
 In front of him was heard a huge noise of crying women, echoing like trumpeting of
 female elephants when a lordly elephant has been pinioned.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1495,8 +1439,6 @@ shrunk; *puurNa shashiiyathaa* = like a full moon; *upaplutaH* = overshadowed;
 
 At that time, the father of Rama as is well known as a glorious king Dasaratha(a
 scion of Kakutstha) looked shrunk, like the full moon oversadowed by an eclipse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1537,8 +1479,6 @@ thus; *vaahyataam* = "Let it be driven; *tvaritam* = fast"
 
 That glorious son of Dasaratha(Rama) of inconceivable courage, directed the
 charioteer in the words "Let the chariot be driven fast."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1589,8 +1529,6 @@ not; *kartum* = do; *ubhayam* = both.
 
 Rama commanded that charioteer with the words "Move on!" The people said to him
 "stop!" Urged on the passage, the charioteer could not do both.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1637,8 +1575,6 @@ mighty armed; *prashashaama* = was suppressed; *patitaiH* = by the falling;
 
 The dust raised on the road due to moving out of mighty armed Rama, was suppressed
 by the falling tears of the citizens.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1679,8 +1615,6 @@ that time of departure; *raaghavasya* = of Rama; *aasiit* = became;
 
 With full of wailing tears, the citizens of after making loud cries became
 unconscious with deep agony, at the time of departure of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1721,8 +1655,6 @@ samkshhobhachalitaiH* = by the commation of fist.
 
 Tears born of anguish flowed from the eyes of women like(drops of) water falling
 from lotuses by the commotion of fish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1771,8 +1703,6 @@ from lotuses by the commotion of fish.
 
 Seeing the city with singleness of mind, the glorious monarch Dasaratha fell down
 with agony, like a tree slain at its root.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1821,8 +1751,6 @@ and much distress; *halahalashabdaH* = the out cry; *naraaNam* = of the people;
 
 Thereafter, seeing the king becoming feeble and much distressed, the outery of the
 people rose from the rear of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1870,8 +1798,6 @@ Rama's mother!" paryadevayan antHpuram samR^iddhamcha = and made the entire gyna
 
 Some poeple crying "Oh, Rama!" and some other scrying "Oh, Rama's mother!", made the
 entire women in the gynaecium to weap.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1918,8 +1844,6 @@ mother; *anugatau* = following(him) pathi = on the road.
 
 Looking back, Rama saw the king sorrowful and perplexed in mind, as well as his
 mother following (him) on the road.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -1966,8 +1890,6 @@ mother following (him) on the road.
 
 Rama, bound by the chord of righteousness, could not gaze openly at his parents, as
 a foal caught in asnare would not properly look at its dam.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2015,8 +1937,6 @@ a foal caught in asnare would not properly look at its dam.
 
 Seeing them coming by foot, though worthy of a chariot, habituated to comfort and
 unworthy of suffering, Rama commanded the charioteer with words: "Drive fast!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2067,8 +1987,6 @@ mother.
 
 Rama the tiger among men, feeling pained, as an elephant being pricked by a good,
 indeed was not able to bear that plight of his father and his mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2118,8 +2036,6 @@ whose calf stands tied; *vatsalaa* = fond of her calf; *aayaantii* = coming;
 
 Rama's mother (Kausalya) ran towards her son, as a cow fond of her calf and whose
 calf is tied(in a stall), runs home for her calf.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2177,8 +2093,6 @@ siitaartham* = for the sake of Rama; Lakshmana and Seetha.
 Rama again and again saw that Kausalya, his mother who was crying thus, running
 after that chariot as though dancing, shouting"Oh, Rama, Rama!" "Oh, Seetha!" and "Oh, Lakshmana!"
 trickling tears descending from her eyes for the sake of Rama Lakshmana and Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2225,8 +2139,6 @@ iva* = as in between; *chakrayoH* = two whirl-pools.
 
 Dasaratha exclaimed saying "Stop!" while Rama called out "Go on, proceed!" (In that
 way) Sumantra's mind became confused, as in between two (opposing) whirl pools.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2277,8 +2189,6 @@ is a very wicked thing.
 
 Rama said to him: "You can say to the king that you did not hear (his call), even
 when scolded (later). seeing their grief for a long time is quite unbearbale."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2326,8 +2236,6 @@ when they are proceeding.
 
 The charioteer, doing as per Rama's words, took leave of those citizens and drive
 the horses more speedily even while they are going.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2375,8 +2283,6 @@ tears.
 
 The king's people returned after (mentally) going round Rama. Their minds did not
 return. Their impulse of tears also did not get reduced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2424,8 +2330,6 @@ should not follow; *duuram* = to a long distance.
 
 The ministers spoke to king Dasaratha as follows:" We should not follow to a long
 distance him whom we wish to see come back."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 </details>
 
@@ -2481,8 +2385,6 @@ at that son(Rama); *prasvinnagaatraH* = with his body pesspiring;
 Hearing their words, which were befilting with all virtues, the king Dasaratha felt
 miserable, stopped short, gazing along with his wife, at his son Rama, with his whole body
 perspiring and wearing a dejected look.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga40/ayodhyasans40.htm)
 </details>
 
 <details><summary>Misc Detail</summary>

@@ -16,8 +16,6 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 Rama and Lakshmana proceeding with Vishvamitra sojourn in a hermitage at a place where River
 Ganga and River Sarayu are confluent. Once god Shiva with his third eye burnt down the physical
 entity of Manmatha, the Love-god, at this place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ saint; Vishvamitra; *kaakutsthau* = to the legatees of Kakutstha - Rama and Laks
 
 At dawn after that night the great saint Vishvamitra spoke to the legatees of Kakutstha, Rama
 and Lakshmana, those that are sleeping on a grass bed. [1-23-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -137,8 +133,6 @@ beauty - Gorresio.
 For *kausalyaa suprajaa raama* Griffith says: 'High fate is hers who calls thee son:
 / Arise, 'tis break of day /. And Gita Press has it as: Kausalya is blessed with a worthy
 son [in you.]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -194,8 +188,6 @@ night when the stars or the sun are not visible.
 *aho raatrasya yaH sandhiH suuryanakShatravarjitaH* Then this hymn is
 to be meditated placing her in ones own heart or amid the solar system.
 *gaayatriim samsmaret dhiimaan hR^idi vaa suuryamaNDale*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -243,8 +235,6 @@ duties of dawn; *atisamhR^iSTau* = very enthusiastically; *vishvaamitram tapodha
 On performing their dawn time duties those two stalwarts, Rama and Lakshmana, enthusiastically
 presented themselves before the ascetically rich sage Vishvamitra for further journey, duly
 venerating him. [1-23-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -308,8 +298,6 @@ Sarayu. [1-23-5]
 River Ganga follows three courses, firstly in heavens, second on earth, and third into nether
 worlds. These episodes on the descent of Ganga to earth are narrated in the later part of
 this book, Bala Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -356,8 +344,6 @@ have seen.]
 
 There they have seen the merited hermitage of sages with contemplative souls, and who are
 practising supreme ascesis for many thousand years. [1-23-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ practising supreme ascesis for many thousand years. [1-23-6]
 
 On seeing that merited hermitage Rama and Lakshmana are highly pleased and said this word
 to that great-soul Sage Vishvamitra. [1-23-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -444,8 +428,6 @@ _________________
 "Whose hermitage is this merited one? Indeed who is the celebrity that lives therein? Oh,
 godly sage, we are interested to listen, and we are truly inquisitive about it." Thus they
 asked. [1-23-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -497,8 +479,6 @@ that word; *prahasya* = smiled; *abraviit* = said; *puurva*
 
 On hearing their words the eminent sage Viswamitra said smilingly, " whose hermitage is this
 in earlier times that may be listened." Thus Vishvamitra started to narrate. [1-23-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -589,8 +569,6 @@ going there, Love-god, *samarudgaNam* with Wind-gods and other deities; *dharSay
 started to attack Shiva. The Love-god on going there to that hermitage that is being described
 by Vishvamitra along with Wind-gods et al, with an intention to get the marriage of Shiva
 performed, assailed Shiva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -653,8 +631,6 @@ The word *avadhyataH* is otherwise said in other texts as *avadagdhasya raudreNa
 to derive a clear meaning of 'burnt down,' because *avadhyataH* is just killing, slaying,
 whereas Shiva's third-eye truly burns down anything where even ashes do not remain. The critical
 editions have this as *dagdhasya tasya raudreNa chakShuShA*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -701,8 +677,6 @@ the anger of that god of gods Shiva, Love-god is rendered as a bodiless entity. 
 Manmatha and his wife Rati will have supremely exquisite physiques. At the very sight of Manmatha
 everybody used to become a prey to lasciviousness. So Shiva had to completely burn down that
 physical form of love, whereby only kaama, the mental desire, is remaining.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -743,8 +717,6 @@ one - Love-god; *angaviSayaH* = [that is] Anga, province.
 
 Then onwards Love-god is renowned as Ananga, as he is without body, and where his body is
 given up that is renowned as Anga province. [1-23-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -797,8 +769,6 @@ the direct disciples of Shiva. Because these are the direct grandchildren of the
 of Shiva, sin cannot touch them. *ata
 eva paapam teShaam na vidyate | puurvam rudrashiShyaa api samprati tat shiShyakR^itam paapam
 na vidyate ityarthaH||* Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -844,8 +814,6 @@ tariSyaamahe* = we will cross over [River Ganga.]
 
 "Let us stay for this night in this hermitage situated in between two meritorious rivers Ganga
 and Sarayu, oh, Rama with auspicious mien, tomorrow we will cross over the River Ganga. [1-23-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -898,8 +866,6 @@ ourselves; *puNyam aashramam abhigacChaamahe* = let us enter meritorious hermita
 "Let us all purify ourselves by taking our bath, performing our meditations, offering our
 daily oblations, and then let us enter this meritorious hermitage, thus our stay in here will
 be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -969,8 +935,6 @@ son, Viswamitra; *nivedya* = [firstly] offered.
 When they are discussing there the sages of that hermitage are highly gladdened to perceive
 them with their sixth-sense, and on approaching them enchantedly they offered water for hands
 and feet wash and then offered hospitality firstly to Sage Vishvamitra. [1-23-18, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -1012,8 +976,6 @@ akurvan atithikriyaam* = accorded, guest's works [reception]; *satkaaram samanup
 Afterwards those sages of that hermitage have accorded reception to Rama and Lakshmana, and
 applauded by Vishvamitra for their hospitality those sages have entertained Rama and other
 guests with myths and legends. [1-23-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -1072,8 +1034,6 @@ Those sages with concentrated minds and according to one's own aptitude have med
 the deity of sunset when it is sundown, followed by Rama and others. Then led into hermitage
 by those sages who are with pious commitments and who are dwelling there, Rama and others
 have very comfortably stayed in the precincts of Shiva's hermitage. [1-23-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 </details>
 
@@ -1120,8 +1080,6 @@ have very comfortably stayed in the precincts of Shiva's hermitage. [1-23-21]
 
 Staying very comfortably in the precincts of Kaama hermitage,
 then that virtuous sage Vishvamitra, saint the eminent, delighted the delightful princes with delighting stories.....[1-23-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga23/balasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

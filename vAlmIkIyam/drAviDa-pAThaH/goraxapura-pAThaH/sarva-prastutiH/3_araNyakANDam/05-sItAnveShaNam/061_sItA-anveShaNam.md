@@ -24,8 +24,6 @@ to have his romantic attributes, naayaka lakshaNaaH and these 'wailings'
 will portray all of them. There are various, numerous and voluminous derivatives, meanings and commentaries,
 which cannot possibly be included in here, at this stage, except for passing references on them. Hence,
 this lengthy lamentation has lengthier romanticism.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -88,8 +86,6 @@ uvaaca* = Rama, said.
 On seeing the vacant threshold of the hermitage and empty cottage of straw, also at the leaf-mat-seats
 that are utterly shattered, and not finding Vaidehi even on watchfully eyeing everywhere Rama shrieked
 loudly, and then on clasping the winning shoulders of Lakshmana he said this to him. [3-61-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -136,8 +132,6 @@ loudly, and then on clasping the winning shoulders of Lakshmana he said this to 
 
 "Oh, Lakshmana, possibly where can be Vaidehi? Or, to which place she has gone from here? Or, Soumitri,
 who stole her away? Or, who has gorged up my ladylove? [3-61-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -184,8 +178,6 @@ one; *maam bhajasva* = me, you regard [get in touch.]
 
 "Oh, Seetha, if you have concealed yourself under trees wishing to poke fun at me, enough is your fun
 and games, get in touch with me now, as I am highly anguished... [3-61-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -234,8 +226,6 @@ saha kriiDase* = with [which,] you were playing; *ete* = all these; *tvayaa hiin
 
 "Oh, meek Seetha, with which meekly young deer you were playing, all these are now broody with tearfully
 fluttery looks, without you... [3-61-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -295,8 +285,6 @@ other world... [3-61-6, 7a]
 
 Some other mms contain the word mR^itam 'dead ...' instead of the word vR^itam 'enveloped...' 'when
 I am dead and gone to other world, there my father will ask me...' would then be its meaning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -371,8 +359,6 @@ me saying, 'when I have directed you for a fourteen year exile, and when you too
 and promised me for that term, how you have to my presence in this ultramundane world without completing
 that term of fourteen year exile, besides breaking your own word of honour... thus you have become a
 wilful disobedient, despicable and dishonest person, such as you are, fie on you...' [3-61-7b, 8, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -432,8 +418,6 @@ one, from a man, [from a prevaricator]; *iva* = as with; *iha* = now; *karuNam*
 jilting such an woeful one as I am, where you are going now, as with prestige jilting a prevaricator?
 And if you shun me I will have to shun my life..." Thus Rama bewailed imaging her right in his front
 and running away. [3-61-9b, 10, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -482,8 +466,6 @@ not, he has seen - found.
 
 Though that legatee of Raghu is desperate for seeing Seetha, though he is highly anguished and agonised,
 though he bewailed this way, that Rama has not found Janaka's daughter, Seetha. [3-61-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -536,8 +518,6 @@ siidantam* = chasmal, mud, on getting at, sinking; *kunjaram iva* = an elephant,
 To him who is unable to find Seetha, and who is sinking in sadness as with an elephant sinking in a
 chasmal mud, Lakshmana spoke to such a Rama in a positive manner desiring his wellbeing. [3-61-11b,
 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -591,8 +571,6 @@ beaming forth with; she may be somewhere there.
 
 "Oh, well-informed one, do not get into desperation, you make efforts along with me, and oh, brave one,
 this best mountain is beaming forth with many caves, she may be there somewhere. [3-61-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -616,8 +594,6 @@ vaa api* = to river, or, even; *sampraaptaa* = reached.
 "Maithili is a fascinated saunterer in woodlands so she might have entered the forest, she is even infatuated
 with waters, so she might have gone to the fully bloomed lotus-lake, or to the river that is adorned
 by fishes and cane-breaks. [3-61-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -665,8 +641,6 @@ eva yataavahai* = quickly, thus, we have to endeavour; *hi* = indeed.
 
 "Or, wishing to know our reaction when she scares us with her prank, Maithili might have squirreled
 away into forest. Oh, honourable brother, let us endeavour quickly to search her. [3-61-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -721,8 +695,6 @@ vanam vicinuvaH* = in entirety, forest, let us search; *shoke* = in sadness; *ma
 "Oh, Rama of Kakutstha, if you consider that we shall search the forest in its entirety to locate where
 she that Janaka's daughter might be, let us quickly do so. But do not engulf your heart in sadness."
 Thus Lakshmana advised Rama. [3-61-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -737,8 +709,6 @@ Thus Lakshmana advised Rama. [3-61-18]
 
 When Lakshmana good-heartedly spoke this way, Rama self-collectedly made a headway for the search of
 Seetha along with Soumitri. [3-61-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ caiva* = forests, mountains, also thus; *saritaH ca saraamsi ca* = rivers, also,
 
 Those two sons of Dasharatha have started a thorough search for Seetha in forests, on mountains, also
 thus at rivers and lakes. [3-61-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -807,8 +775,6 @@ towards, go [found.]
 
 On searching whole of mountainsides of that Mt. Chitrakuta, where their hermitage is there, even in
 its caves, crags, and mountain peaks they have not found Seetha. [3-61-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ I descry.
 
 On exploring everywhere on that mountain Rama said to Lakshmana, "oh, Soumitri, here on this mountain
 I do not descry auspicious Vaidehi." [3-61-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -902,8 +866,6 @@ I do not descry auspicious Vaidehi." [3-61-22]
 
 While roving searchingly in Dandaka forest Lakshmana who is tormented by anguish said a sentence to
 his greatly resplendent brother Rama. [3-61-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -951,8 +913,6 @@ his greatly resplendent brother Rama. [3-61-23]
 
 "Oh, insightful brother, you will reacquire Janaka's daughter Maithili, as Vishnu once subjugated Emperor
 Bali and reacquired this earth." [3-61-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -1001,8 +961,6 @@ thinking; *diinayaa vaacaa* = with pathetic, words; *uvaaca* = spoke.
 
 But when the valiant Lakshmana addressed him in that way, Raghava whose thinking is marred by poignance
 spoke these pathetic words. [3-61-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -1055,8 +1013,6 @@ this, mountain, also [searched]; *praaNebhyaH api gariiyasiim* = by lives, even,
 "This forest in its entirety, these lotus-lakes with their blossomed lotuses, and this mountain with
 its many caves and mountain-rapids, all are evidently searched. But, oh, sensible brother, I do not
 descry Vaidehi who is loftier than my lives." [3-61-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -1106,8 +1062,6 @@ abhavat* = perturbed, he became.
 
 Lamenting in this way Rama languished owing to the abduction of Seetha and became a pitiable one, and
 while sadness besieging him he is perturbed for a moment. [3-61-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -1158,8 +1112,6 @@ down / dejected.
 
 All the limbs of Rama are fluttered, his faculty has become functionless, his fervour is frozen, he
 is forlorn and flustered, and such as he is he sank down suspiring swelteringly and lengthily. [3-61-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -1203,8 +1155,6 @@ highly, shrieked.
 
 Suspiring repeatedly he that lotus-eyed Rama shrieked repeatedly and loudly thus as, 'ha, Seetha...'
 with tears stifling his throat. [3-61-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -1254,8 +1204,6 @@ him dear, namely Rama]; *shoka aartaH lakSmaNaH* = by sadness [of Rama,] [who is
 Though Rama has many kinsfolk who hold him dear he is now left with a single one, namely Lakshmana,
 and that obedient brother Lakshmana who is already anguished for Rama's sadness, then adjoining his
 palms obediently started to pacify Rama with divers methods. [3-61-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 </details>
 
@@ -1303,8 +1251,6 @@ lips, cup-like, fallen from; *tat vaakyam* = that, sentence [word of advise]; *a
 
 But disavowing the word of advice that fell out from the cupped lips of Lakshmana, Rama stridently yelled
 again and again when his dear Seetha has become unseeable. [3-61-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

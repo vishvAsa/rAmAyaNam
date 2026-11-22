@@ -16,8 +16,6 @@ title_english = "073 Bharata reproaches Kaikeyi in many ways"
 Bharata reproached Kaikeyi in many ways. Pricking with his unpleasant remarks,
 Bharata tells her that he will bring back Rama from the forest, install him on the throne of
 Ayodhya and become his attendant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ grief; *abraviit* = and spoke; *idam* = these; *vachanam* = words.
 
 Hearing that his father was dead and both his brothers were exiled; Bharata was
 tormented with grief and spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ like my father; *kimnukaaryam* = what is the use; *raajyena* = with a kingdom;
 
 Bereft of my father as well as my brother too, who is exactly like my father, what
 is the use of a kingdom now to me, lamenting as I am with despair?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ me;adadhaaH iva = like placing; *kshhaaram* = salt; *vraNe* = on a wound.
 
 "Making Dasaratha to die and turning Rama to be an ascetic, you brought one calamity
 after another like sprinkling salt on a wound."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ could not be aware; *upaguhya* = of his embracing; *aN^gaaram* = a live charcoal
 
 "You came for destruction of our race, like the night of destruction coming at the
 end of the world. My father could not be aware of his embracing a live char-coal to his bosom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -260,8 +250,6 @@ ignorance.
 
 "O, the malevolent woman! You caused the death of my father. O, the one who made our
 race unchaste! In this race, happiness is deserted through your ignorance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -309,8 +297,6 @@ acquiring; *tvaam* = you.
 
 "My father, king Dasaratha, who was true to his promise and immensely famous, now
 died, tormented as he was with bitter grief, because of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -351,8 +337,6 @@ Kasmaat = why; *raamaH* = Rama; *gataH* = went; *pravraajitaH* = on exile;
 
 "Why did you kill my father the monarch, who was intent on righteousness? Why did
 you send Rama on exile to the forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -399,8 +383,6 @@ you; *jananiim* = my mother.
 
 "It is impossible that Kausalya and Sumitra, who are afflicted with grief for their
 sons, will live in fellowship with you, my mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -449,8 +431,6 @@ was indeed acting; *anuttamaam* = with the best; *vR^ittim* = behavior;
 "Even Rama my elder brother, a pious man who knows how to behave with elders, used
 to act with the best behavior in your case, exactly as how he was behaving with his own
 mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -498,8 +478,6 @@ mother."
 
 "In the same manner, Kausalya, my elder mother having far sightedness and
 established in piety, indeed used to behave with you as your sister."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -546,8 +524,6 @@ Kausalya's; *putram* = son; *chiiravalkala vaasanam* = clothed in a bark dress;
 
 "Why are you not lamenting, after sending Rama, the disciplined Kausalya 's son,
 clothed in a bark dress, to live in a forest? O, sinful one!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -596,8 +572,6 @@ perceive?
 "You indeed sent into exile, clad in a bark dress, Rama having a virtuous
 disposition, a valiant man, a self controlled and illustrious man as he was. What reason do you
 gather for it?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -645,8 +619,6 @@ gather for it?"
 
 "I think it is not known to you, a greedy woman, about my devotion towards Rama. It
 is exactly so. You have brought in this great calamity for the sake of a kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -696,8 +668,6 @@ kingdom; *apashyam* = without seeing; *raama lakshhmaNou* = Rama and Lakshmana;
 
 "By which source of strength can I be able to protect the kingdom, without those
 lions among men, Rama and Lakshmana in proximity to me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -746,8 +716,6 @@ refuge); *meruH* = by Meru mountain."
 "Dasaratha the monarch, having great strength and a pious mind always indeed used to
 take refuge in that strong man Rama as the Meru mountain takes refuge in a forest surrounding the
 mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -796,8 +764,6 @@ giant bullock.
 "By what stamina, shall I sustain this burden of kingship any more than a young
 bullock that is yet to be tamed, would stand the strain on getting a load, lifted up with ease by a
 giant bullock."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -846,8 +812,6 @@ greedy (for getting the kingdom) for your son; *sakaamaam* = fulfill your desire
 "Or even if a strength can be brought into existence in me by following certain
 suitable methods or by strength of intelligence, I will not allow you, who are greedy in fetching
 of kingdom for your son, to fulfill your desire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -895,8 +859,6 @@ avekshhaa* = did not see; *tvayi* = you; *maatR^ivat* = like a mother;
 
 "No aversion would be felt by me even to desert you, a woman of evil designs, if
 Rama did not treat you like a mother at all times."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -943,8 +905,6 @@ ancestors; *utpannaa* = has arisen; *tava* = to you?
 
 "O, malevolent woman with your good conduct disappeared! How this idea forbidden by
 our ancestors, has arisen in your mind at all?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -989,8 +949,6 @@ elder brother.
 
 "The eldest of all in this race should be indeed anointed as a king. The rest of his
 brothers are to behave reverently towards their elder brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -1039,8 +997,6 @@ administration in kings.
 "O, cruel woman! I feel that you are not catching even a glimpse of the rules
 relating to kings or not even aware of a permanent procedure prevailing in the administration of
 kings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -1090,8 +1046,6 @@ kings.
 "According to the administration of kings the eldest son always indeed gets
 inaugurated in kingdom. This procedure is similar to all kings; especially so in the case of
 Ikshvaku kings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -1142,8 +1096,6 @@ you; *atra* = in this case.
 
 "The pride of reputation of those belonging to Ikshvaku race, who protect
 righteousness alone and who possessed good family conduct, is turned away by you today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -1193,8 +1145,6 @@ stupidity; *buddheH* = of minds; *sambhuutaH* = is born; *tvayi* = in you?
 
 "Even kings belonging to your ancestral race were great people. How has this
 contemptible stupidity of mind born in you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -1241,8 +1191,6 @@ end to my life; *aarabdham* = has been undertaken; *tvayaa* = by you.
 
 "O, woman with evil designs! I for one will not fulfill your desire. A criminal act,
 which will cause even an end to my life, has been undertaken by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -1289,8 +1237,6 @@ will bring back; *bhraataram* = my brother; *anagham* = faultless man;
 
 "Now itself at the cause of your dislike, I for one will bring back from the forest,
 my brother, who is a faultless man and a beloved man of his people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -1337,8 +1283,6 @@ who is radiant with glory.
 
 "Bringing back Rama with a very firm mind, I will become a servant to him, who is
 radiant with glory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 </details>
 
@@ -1393,8 +1337,6 @@ cave.
 
 Speaking as aforesaid, the high soled Bharata, pricking her with a multitude of
 unpleasant words, roared again like a lion stationed in a mountain cave.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga73/ayodhyasans73.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

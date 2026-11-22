@@ -18,8 +18,6 @@ various ways, thinking that he has virtually lost his right arm. Ravana initiall
 the shocking news. On regaining consciousness, Ravana again wonders how the invincible Kumbhakarna
 was slain in battle. He feels sorry for not having listened to the sagacious advice of Vibhishana
 in the past.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ raavaNaaya* = to Ravana; the king of demons.
 
 Seeing that the great-souled Rama killed Kumbhakarna, the demons reported the matter
 to Ravana, the king of demons (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ the time's act.
 
 "O king! That Kumbhakarna, looking like Yama the god of death, driving away the army
 of monkeys and devouring some monkeys, met with death, the time's act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -191,8 +185,6 @@ fiery energy of Rama. Injured by Rama's arrows, Kumbhakarna who was looking like
 an ugly mass, with his body discharging blood, as his nose and ears were cut off, resembling a tree
 scorched by a forest-fire, with his trunk half-submerged in a terribly looking sea and obstructing
 the main gate of Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -233,8 +225,6 @@ mighty Kumbhakarna; *vinihatam* = was killed; *samkhye* = in battle;
 
 Hearing that the mighty Kumbhakarna was killed in battle, Ravana was tormented with
 grief and fell down, fainted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -281,8 +271,6 @@ were afflicted with sorrow; *ruruduH* = and wept.
 
 Hearing that his paternal uncle was killed; Devantaka, Narantaka, Trishira and
 Atikaya were afflicted with sorrow and wept.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -330,8 +318,6 @@ grief.
 
 Hearing that Kumbhakarna, their brother was killed by Rama, who was unwary in his
 actions, Mahodara and Mahaparshva (step-brothers of Kumbhakarna) were overcome with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -380,8 +366,6 @@ lamented.
 Then, recovering his consciousness with difficulty, distressed as he was for the
 killing of Kumbhakarna and perplexed in mind, Ravana the foremost of demons, lamented (as
 follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -428,8 +412,6 @@ vihaaya = leaving me behind; *tvam* = you; *yattaH asi* = have gone; *daivaat*
 
 "Alas! O hero, destroying the pride of enemies! O mighty Kumbhakarna! Leaving me
 behind, you have gone by divine will to the abode of Yama the lord of death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ grief of relatives; *mama* = and of mine.
 "O mighty Kumbhakarna! Where are you going alone, leaving me behind, after having
 tormented the army of enemies and without taking away the thorn of grief from relatives and
 me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -524,8 +504,6 @@ in fear; *suraasuraat* = of celestials and ogres; *patitaH* = has fallen down;
 
 "Indeed I shall no longer live now, that this right hand of mine, taking refuge on
 when I had no fear of celestials and ogres, has fallen down."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -573,8 +551,6 @@ hero; *devadaanava darpahaa* = who destroyed the pride of celestials and demons;
 
 "How such a hero, who destroyed the pride of celestials and demons, as also who was
 an image of fire that was to destroy the world, was killed by Rama today in battle?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -622,8 +598,6 @@ having been afflicted Rama's arrows?
 
 "Having been afflicted by Rama's arrows, how are you, whom not even a clash of a
 thunder-bolt ever caused any fall, falling now insensibly on the earth's surface?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -674,8 +648,6 @@ rejoiced.
 
 "Seeing you killed in battle, these troops of celestials and sages, standing in the
 sky, are shouting with rejoice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -723,8 +695,6 @@ rejoiced; *adyaiva* = and now itself; *aarokSyanti* = will ascend; *durgaaNi*
 
 "It is doubly sure that the monkeys, having achieved their purpose, will be rejoiced
 and now itself will ascend the inaccessible door-ways of Lanka here from all sides."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -772,8 +742,6 @@ live.
 
 "I have nothing to do with a kingdom and what shall I do with Seetha? I have no
 intention to live, bereft of Kumbhakarna."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -821,8 +789,6 @@ Rama; *bhraatR^ihantaaram* = who killed my brother; *yudhi* = in battle;
 
 "If I cannot kill Rama, who killed my brother, in battle, I would indeed prefer
 death, but in no case this useless life which has no meaning."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -872,8 +838,6 @@ a moment; *samutsR^ijya* = leaving off; *bhraatR^iin* = my brothers.
 
 "Now itself, I will go to that place, where my younger brother is there. I do not
 wish to live even for a moment, after abandoning my brothers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -921,8 +885,6 @@ hate* = now that you are ded; *katham* = how; *jayiSyaami* = can I conquer;
 
 "Seeing me, who did harm to them in the past, the celestials will indeed mock me. O
 Kumbhakarna! Now that you are dead, how can I conquer Indra the lord of celestials?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -970,8 +932,6 @@ souled Vibhishana; *na gR^ihiitam* = were not accepted; *mayaa* = by me;
 
 "Those words of that great-souled Vibhishana, which I did not accept due to
 ignorance, have come true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -1018,8 +978,6 @@ cruel; *vinashaH* = end; *kumbhakarNaprahastayoH* = of Kumbhakarna and Prahasta;
 
 "Ever since this cruel end of Kumbhakarna and Prahasta has happened, I am feeling
 shameful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -1067,8 +1025,6 @@ me.
 
 "Since that venerable Vibhishana, my pious brother was banished by me, this bitter
 fruit of that painful deed has come to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 </details>
 
@@ -1125,8 +1081,6 @@ disturbed.
 Having thus lamented very much piteously in various ways on coming to know that
 Kumbhakarna, his younger brother and the enemy of Indra having been killed, Ravana the ten-headed
 demon, whose inner feelings were agitated, even sank down, extremely disturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhasans68.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

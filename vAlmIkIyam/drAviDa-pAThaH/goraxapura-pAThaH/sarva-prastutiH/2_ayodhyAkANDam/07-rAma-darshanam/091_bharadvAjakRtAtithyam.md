@@ -16,8 +16,6 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 Having been instructed by Bharadwaja to bring the army to his place, Bharata allowed
 his army also to come to the hermitage. Then, Bharadwaja invokes Visvakarma, the divine architect
 and requests him to arrange for a befitting hopsitality to Bharata,
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ the full honours due to a guest.
 
 Seeing he had resolved to halt at that place for the night, the sage Bharadwaja
 prepared to offer Bharata the son of Kaikeyi the full honours due to a guest
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ me).
 
 Then, Bharata said to Bharadwaja as follows: "Have you not presented me with water
 to wash my hands and feet and offered me this hospitality fitting for a guest in this forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ with whatever is offered to you.
 
 Then, Bharadwaja smilingly replied to Bharata as follows: "I know you possess a
 friendly disposition and you are pleased with whatever is offered to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ this; *senaayaaH* = army; *arhaH* = you ought to ; (fulfil); *mama* = my;
 
 "O, Bharata the excellent among men! I wish to offer food to your army. You ought to
 fulfil my satisfaction in every suitable way."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ you not come; *sabalaH* = with your army; *iha* = here?
 
 "O, warrior! Why did you come here, leaving your army at a distance? Why did you not
 come to my place with your army?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ with austerity; *idam* = these words; *bhagavan* = O; venerable one!;
 Bharata, with joined palms, replied to Bharadwaja who was rich with austerity in the
 following words: "O, venerable one! I have not come here with my army for the fear of displeasing
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ king; *raaja putreNa* = or by the prince; *tapasvinaH* = ascetics;
 
 "O, Venerable One! Either the king or the prince should always keep away from the
 places occupied by ascetics"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -411,8 +395,6 @@ horses; *manuSyaashcha* = men; *vara vaaraNaashcha* = rare elephants;
 
 "O, Holy one! Spirited horses, men and rare elephants in rut covering an immense
 area are accompanying me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -462,8 +444,6 @@ thought; *aham* = I; *samaagataH* = came; *eka eva* = alone.
 
 "Let them not damage the trees, huts and ground and defile the waters of hermitages'
 - in this thought, I came alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ thought; *aham* = I; *samaagataH* = came; *eka eva* = alone.
 
 Thereafter Bharata, having been commanded by that great sage to bring the army
 there, allowed the army's arrival to the hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -561,8 +539,6 @@ gods)
 Meanwhile, entering the fire-sanctuary (the place where the sacrificial fire is
 kept), sipping water and wiping the lips, Bharadwaja invoked Visvakarma (the architect of gods) in
 order to fulfil his duties towards the guests (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -610,8 +586,6 @@ connection; *me* = for me.
 
 "I wish to offer hospitality to the guest I summon vishvakarma who is also the
 divine carpenter. Let arrangements be made in that connection for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -660,8 +634,6 @@ this connection ; *me* = for me.
 "I further invoke the three gods (Yama, Varuna and Kubera) the guardians of the
 worlds with Indra as their king. I wish to offer hospitality to the guests. Let arrangements be
 made in this connection for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -709,8 +681,6 @@ quarters
 
 "Let the rivers which flow towards the east and those which flow towards the west,
 across the earth and in the aerial region now come together here from all quarters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -759,8 +729,6 @@ a taste of sugar cane.
 "Let some rivers flow with Maireya ( a kind of wine made from date palms etc) some
 others flow with highly refined spirituous liquor and some others flow with cool water with a taste
 of sugarcane."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -808,8 +776,6 @@ regions.
 
 "I invoke the celestials and celestial musicians Vishvavasu, Haha and Huhu as also
 Apsaras (nymphs) belonging to the celestial and celestial musicians' race from all regions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -857,8 +823,6 @@ mountains.
 
 "I invoke the celestial nymphs called ghritachi, Vishvachi, Mishra Kesi, Alambusa,
 Nagadanta and Hema as also Hima who has an abode made in mountains."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -911,8 +875,6 @@ teacher) Tumburu.
 "I invoke the fair women who are attending on Brahma the Lord of creation - all of
 them with their external appendages (like musical instruments) along with (their teacher)
 Tumburu."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -964,8 +926,6 @@ damsels; *etu* = appear; *iha* = in this place.
 "Let that beautiful garden in the region of northern Kuru, presided over by Kubera
 (the god of riches) always with its leaves which serve as raiment and ornaments, with its fruits in
 the form of heavenly damsels appear in this place."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1013,8 +973,6 @@ deity presiding over annual plants); *vidhattaam* = furnish; *me* = me; *iha*
 
 "Many the blessed moon-god (the duty presiding over annual plants) furnish me at
 this place, excellent food of every variety, confections, sweets, sauces and syrups."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1062,8 +1020,6 @@ fallen from trees; *peyaani* = drinks; *suraadiini* = like wine and others;
 "May the blessed moon-god furnish me many-coloured flowers which have just fallen
 from the flower-plants or trees, the drinks like wine and others as also various kinds of
 meat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1112,8 +1068,6 @@ deals with proper articulation and pronunciation of Vedic texts.
 That sage Bharadwaja, with his intense meditation, possessing unequal splendour and
 with austerity, spoke as follows, in tones befitting proper articulation and pronunciation of the
 scriptural texts:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1164,8 +1118,6 @@ by one.
 
 While that sage Bharadwaja, with joined palms, was meditating with absorption in the
 east, all those celestials came one by one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1216,8 +1168,6 @@ influence; *supriyaatmaa* = which was pleasant in nature; *sukhaH* = comfortable
 
 Then, a pleasant comfortable and gracious breeze, passing over the mountains of
 Malaya and Dardura, began to blw, removing sweat by its influence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1264,8 +1214,6 @@ of flowers; *divya dundubhi ghoSashcha* = while the sound of divine gongs;
 
 Thereafter wonderful clouds let loose a rain of flowers, while the sound of divine
 gongs could be heard on every side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1314,8 +1262,6 @@ gongs could be heard on every side.
 Troops of Apsaras (divine nymphs) danced to the melodious rustling of the wind. The
 clestials and the celestial musicians sang. Vinas, stringed musical instruments transmitted their
 tunes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1362,8 +1308,6 @@ tunes.
 
 Sweat and harmonious sounds emitted smoothly, entered the sky earth and the ears of
 beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1413,8 +1357,6 @@ human beings; *bhaaratam* = Bharata's; *sainyam* = army; *dadarsha* = saw;
 
 When those celestial melodies ceased so pleasingly heard by the human ears,
 Bharata's army saw the wonderful creations of Visvakarma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1464,8 +1406,6 @@ became; *chhanna* = covered; *bahubhiH shaadvalaiH* = by many carpets of grass;
 
 A levelled land of approximately twenty miles on all sides, became covered by many
 carpets of grass, dark as emerald.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1512,8 +1452,6 @@ laden with fruit; *babhuuvUH* = were there.
 
 At that place, Bilva, Kapittha, Panasa, Citron Amalaki and Mango Trees laden with
 fruit appeared.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1563,8 +1501,6 @@ divine; *nadii* = river; *kR^itaa* = shaped; *bahubhiH* = with various;
 
 A forest of divine enjoyments from the territory of northern Kuru's along with a
 river shaped with various trees on its bank appeared there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1611,8 +1547,6 @@ gates with watch-towers flanked by turrets (could be seen).
 
 Splendid square mansions with stables for elephants and horses as well as
 resplendent gates with watch-towers flanked by turrets were seen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1714,8 +1648,6 @@ spacious, furnished with couches seats and palanquins, supplied with ambrosial d
 as well as magnificent attire and food of every variety, well-prepared eatables of every
 description in cleaned vessels free from dirt and all kinds of seats arranged in order looked
 charming with superb couches duly covered with rich carpets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1773,8 +1705,6 @@ palace; *ratna sampuurNam* = filled with precious gems.
 
 The mighty armed Bharata the son of Kaikeyi on invitation by the great sage, entered
 that palace filled with precious gems.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1791,8 +1721,6 @@ excellent get-up of the palace; *babhuuvushcha* = they became; *yuktaaH* = fille
 
 All the ministers together with priests accompanied Bharata and on entering that
 excellent get-up of the house, were filled with delight
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1839,8 +1767,6 @@ royal umbrella; (kept there); *raajavat* = as if they were utilized by a king.
 
 Bharata along with his ministers went clock-wise round the excellent royal throne,
 whisk and the royal umbrella kept there, as if they were utilized by a king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1889,8 +1815,6 @@ minister.
 They paid reverence to the royal seat, bowing before it, as if Rama sat thereon and
 thereafter Bharata, taking hold of the whisk, sat down on the seat meant for the chief
 minister.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1937,8 +1861,6 @@ at last; *prashaastaacha* = the officer-in-charge of the encampment.
 
 All the ministers and priests sat down in order of precedence. Thereafter, the chief
 of the army and at last the officer-in-charge of the encampment occupied their seats.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -1985,8 +1907,6 @@ streams; *paayasa kardamaaH* = having milk thickened with rice in the plce of mu
 
 Then, on an instant, by the orders of Bharadwaja, streams having milk thickened with
 rice in the place of mud, flowed towards Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2033,8 +1953,6 @@ born of the grace; *brahmaNaH* = of Brahma the Lord of creation; (appeared there
 
 On both the banks of those streams, enchanting and celestial houses plastered with
 white clay born out of the grace of Brahma the Lord of creation, appeared.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2084,8 +2002,6 @@ adorned with beautiful ornaments; *prahitaaH* = sent; *brahmaNaa* = by Brahma;
 
 At that moment itself, twenty thousand women adorned with beautiful ornaments, sent
 by Brahma, arrived.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2133,8 +2049,6 @@ prahitaaH* = from the region of Kubera.
 
 Twenty thousand more women, who were radiant and adorned with gold, gems, pearls and
 corals came from the region of Kubera.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2185,8 +2099,6 @@ corals came from the region of Kubera.
 
 A particular company of Apsaras, embraced by whom, a man looked as though seized
 with insanity, came from Nandana grove.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2203,8 +2115,6 @@ Bharata.
 
 Those most excellent kings among celestial musicians - Narada, Tumbura and Gopa
 whose radiance is like that of the sun, began to sing in front of Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2251,8 +2161,6 @@ Misra Kesi; *puNDariikaa* = Pundarika; *vaamanaa* = and Vamana;
 
 Then, on the command of Bharadwaja, Alambusa, MishraKesi and Vamana started dancing
 in the presence of Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2300,8 +2208,6 @@ the woods; *chaitrarathe* = of Chaitraratha; *aadR^ishyanta* = were seen;
 
 By the command of Bharadwaja, wreaths of flowers which were beloved of the gods or
 those which grow in the woods of chaitra ratha were seen at Prayaga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2349,8 +2255,6 @@ the form of dancers.
 
 By the command of Bharadwaja, Bel trees assumed the form of drummers, Vibhitaka
 trees assumed the form of cymbalists and Peepul trees assumed the form of dancers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2397,8 +2301,6 @@ hunchbacks; *atha* = and; *vaamanaaH* = dwarfs; *prahR^iSTaaH* = joyfully;
 
 Then, dcodars palmyras and Tilaka trees along with Tamala trees transformed into
 hunch backs and dwarfs and joyfully arrived there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2451,8 +2353,6 @@ into the form of dancing girls; *bharadwaajaasrame* = in the hermitage of Bharad
 Shimshapas (Ashoka trees), Amalakis (Emblic myrobalan), Jambus (rose-apple trees),
 Malati, Mallika Jati and other creepers in the forest had been changed into dancing girls in the
 hermitage of Bharadwaja and they spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2520,8 +2420,6 @@ rice; *maamsaanicha* = and meats; *sumedhyaani* = which are very much fresh;
 "O, wine-bibbers! Drink the wine, however much you desire! O troops stricken with
 hunger! Let milk thickened iwth rice and the meats which are very much fresh, be eaten (as you
 will)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2572,8 +2470,6 @@ oil.
 
 Seven or eight young women bathed every single man on the beautiful river-banks,
 after massaging their body with oil.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2622,8 +2518,6 @@ the moisture (on their body); *paayayanti* = and gave them beverages to drink;
 Women with charming eyes came running and shampooed their limbs. Lovely women
 likewise wiped off the moisture on their body with towels and gave them beverages to drink,
 mutually sharing them among each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2671,8 +2565,6 @@ Surabhi the divine cow; *teSaam* = with their; *bhojyam* = feed; *yathaavidhi*
 
 The keepers of animals fed horses, elephants, donkeys, camels and bullocks (the
 offspring of Surabhi the divine cow) with their suitable feed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2721,8 +2613,6 @@ them to eat.
 The animals, belonging to the exceedingly strong and illustrious warriors, the
 descendents of Ikshvaku, were fed with pieces of sugarcane and roasted grain soaked in honey, duly
 cajoling them to eat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2770,8 +2660,6 @@ intoxicated; maddened and enraptured on that spot.
 
 The groom did not recognise his horse. The elephant-keeper did not recognise his
 elephant. That army there appeared intoxicated, maddened and enraptured on that spot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2818,8 +2706,6 @@ soldiers; *adairayan* = uttered; *vaacham* = these words.
 
 With all their desires gratified, their bodies anointed with red-sandal paste, and
 surrounded by a company of Apsaras, those soldiers uttered the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2866,8 +2752,6 @@ Rama; *astu* = be; *sukham* = at ease!
 
 "We shall not go either to Ayodhya or to Dandaka forest. Let Bharata be well!
 Likewise, let Rama too be at east!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2916,8 +2800,6 @@ words; *iti* = thus.
 Having obtained that hospitality, the infantry, the cavalry as well as those mounted
 on elephants and their keepers too, no longer acknowledging their leaders, spoke the following
 words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -2967,8 +2849,6 @@ spoke too; *iti* = thus; *ayam* = "Verily; this is; *svagaH* = heaven!"
 
 In the height of joy, those men in thousands there, the retinue of Bharata cried
 out, "This is verily of heaven!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3015,8 +2895,6 @@ hither and thither.
 
 The soldiers in thousands, wreathed in flowers danced, laughed, sang and ran hither
 and thither.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3067,8 +2945,6 @@ which was as sweet as ambrosia; *udviikSya* = when they saw; *taan* = those;
 
 To those soldiers who had partaken that food which was as sweet as ambrosia, when
 they saw again those fresh dishes, there arose in them a desire to eat them again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3116,8 +2992,6 @@ clad in new raiment; *babhuuvaH* = became; *bhR^isham* = very much;
 
 Thousands of servants, slaves, youthful women and those in the army on every side,
 clad in new raiment, became very much contented.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3164,8 +3038,6 @@ camels; *go.ashvaashcha* = bullocks; horses; *mR^iga pakSiNaH* = animals and bir
 
 Elephants, donkeys, camels, bullocks, horses, animals and birds there were suitably
 well-fed. Hence, one did not afflict the other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3210,8 +3082,6 @@ keshovaa* = with his hair spoiled; *rajasaa* = by powdered dust.
 
 There was no one seen in soiled attire or hungry or unkept or with hair powdered
 with dust.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3261,8 +3131,6 @@ Dishes of goat and boar with delicious sauces were there and condiments that wer
 spicy, fragrant and succulent, cooked in fruit juices; vessels of rare metals filled with rice,
 decorated with flowers, were offered in thousands to those soldiers there. The soldiers saw them
 with wonder on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3314,8 +3182,6 @@ of the kardamaaH = have their mud transformed into milk in which rice has been c
 The wells in various sides of the forest (surrounding Bharadwaja's hermitage) have
 their mud transformed into milk in which rice was cooked. The cows in the region were transformed
 into cows of plenty and the trees dripped honey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3361,8 +3227,6 @@ pertaining to deer; peacocks and wild cocks; *vratapta piTaraiH* = cooked in hot
 
 Some ponds there were endowed with full of wine and some were filled with assortment
 of various dressed meats pertaining to deer, peacocks and wild cocks; cooked in hot pans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3409,8 +3273,6 @@ portable furnances; *niyutaani* = lacs; *sthaliinaam* = of culinary utensils;
 
 There were thousands of portable furnaces, lacs of culinary utensils ten crores of
 golden vessels, well-cleaned bowls filled with curds, small water-jars and wide-mouthed dishes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3456,8 +3318,6 @@ Lakes full of fresh curds, shining fragrant and in the colour of a wood-apple, c
 mixed with sugar and spices, some other lakes filled with shite curds, some others filled with milk
 soaked in rice as well as sugar and some other lakes with a mixture of barley and sugar were
 formed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3505,8 +3365,6 @@ formed.
 
 Those soldiers saw jellies, powders and syrups made of fruits and various kinds of
 accessories used in bathing, kept stored in vessels, on the banks of rivers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3686,8 +3544,6 @@ Nipa tree and of cat's eye gems useful for feeding animals.
 **टिप्पनी**
 
 Nipa tree: Nanclea cadamba
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3734,8 +3590,6 @@ manuSyaaH* = those men; *vyasmayanta* = were surprised.
 
 Seeing such a wonderful and dreamlike hospitality offered by the great sage
 Bharadwaja, all those men were surprised.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3782,8 +3636,6 @@ thus; *ramye* = in that charming; *bharadwaajaashrame* = hermitage of Bharadwaja
 
 While they were enjoying thus in that charming hermitage of Bharadwaja, in the same
 manner as celestials enjoy the garden of Nandna, that night had elapsed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 </details>
 
@@ -3835,8 +3687,6 @@ came.
 
 Having been permitted by Bharadwaja, those rivers, the celestial musicians and all
 those beautiful women went back by the same way they came.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

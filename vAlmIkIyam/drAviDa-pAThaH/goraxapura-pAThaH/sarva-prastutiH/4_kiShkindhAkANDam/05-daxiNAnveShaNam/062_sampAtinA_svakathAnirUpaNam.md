@@ -18,8 +18,6 @@ Sage Nishaakara asks Sampaati to wait for monkeys who arrive at the behest of Ra
 in search of Seetha. This sage also accords small wings and vigour to the eagle for survival until
 the arrival of harbinger monkeys of Rama, as this eagle has to guide the monkeys towards the
 location where Seetha is incarcerated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ for a while, this, said.
 "On informing the sage in this way I wept as I was highly despaired. Then on
 meditating for a while that sage said this..." Thus Sampaati continued his narration, and now he
 reports to Angada and others what that is said by Sage Nishaakara to him. [4-62-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ comeback.]
 " 'Again both of your wings will emerge as small wings anew, also thus your valour,
 power, and life-force will comeback...' Thus Sage Nishaakara started to console Sampaati.
 [4-62-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ viditam* = by hearing, to me, known.
 
 " 'In olden days I have heard that a very great happening is going to happen indeed,
 and it is known to me as I perceived it ascetically... [4-62-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ bhaviSyati* = great-resplendent, son, will be there.
 
 "There is some king known as Dasharatha, an enhancer of Ikshvaku dynasty, and to him
 there will be a great-resplendent a son who will be known as Rama... [4-62-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -263,8 +253,6 @@ goes.
 
 " 'When his father assigns him for that objective of his going to forests, that
 truth-valiant Rama goes to forests along with his brother Lakshmana... [4-62-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ by gods, demons, an un, killable one; *raavaNaH naama* = Ravana, known as;
 
 " 'A demon named Ravana, the chief of demons, and an unkillable one even for gods or
 demons abducts Rama's wife from Janasthaana... [4-62-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -361,8 +347,6 @@ bhokSyati* = not, enjoys them - does not touch them.
 " 'She that Maithili, a highly privileged and prestigious lady does not touch any
 food, though she is highly lured by banquets and feasts by that Ravana, for she will be sunken in
 sorrow... [4-62-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -410,8 +394,6 @@ he gives.
 
 " 'On knowing Seetha's plight Indra gives a nectarean food for Vaidehi, which food
 is renowned to be Nectarous and unattainable even by gods... [4-62-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -459,8 +441,6 @@ dispenses it - she cedes it as seeds in sowing.
 
 " 'But on getting that food, and on knowing that it is from Indra, Maithili takes up
 the first morsel and dispenses it on the surface of earth for Rama, saying... [4-62-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -509,8 +489,6 @@ saying she will offer food.
 " 'If my husband is living, or even my younger brother-in-law Lakshmana is living,
 or even if they have attained godhood, this food belongs to both of them...' Saying so Seetha
 offers oblation to them... [4-62-10
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -559,8 +537,6 @@ tellable - you inform them about her.
 " 'Ushered by Rama, oh, sky-flyer Sampaati, fly-jumpers will be going over to the
 place where Seetha is captivated as harbingers of Rama, and you ought to tell those monkeys about
 the queen of Rama... [4-62-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ pakSau pratipatsyase* = you, both wings, will regain.
 " 'In any case you ought not to go-as-you-please... a wingless eagle of your kind
 where you wish to go... await the times and scenes, you will regain both of your wings...
 [4-62-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -656,8 +630,6 @@ kariSyasi* = for worlds, agreeable, deed, you do - can you do?
 
 " 'I am capable of making you a winged eagle now itself, but how can you stay here
 and do an agreeable deed to the worlds! So you have to wait. [4-62-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -704,8 +676,6 @@ is to be done, isn't it.
 
 " 'That deed aimed at the wellbeing of both those princes, Rama and Lakshmana, and
 of Brahmans, teaches, sages and also of Indra is to be done by you alone, isn't it! [4-62-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 </details>
 
@@ -764,8 +734,6 @@ lives prolongedly, hence I castaway my mortal body...' and thus that is what the
 Nishakara said to me. Saying so that sage, who is a discerner who discerned the sum and substance
 of Supreme Person castaway his mortal body in his ascent to heaven." Sampaati continued his
 narration in this way. [4-62-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhasans62.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

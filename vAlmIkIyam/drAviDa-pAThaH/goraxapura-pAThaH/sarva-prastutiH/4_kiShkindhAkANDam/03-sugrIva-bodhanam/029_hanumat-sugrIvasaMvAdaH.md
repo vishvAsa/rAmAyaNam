@@ -19,8 +19,6 @@ pleasures. His indulgence becomes overindulgence and makes him to forget his pro
 Seetha. As an intelligent minister, Hanuma approaches Sugreeva and enlightens Sugreeva about his duty for the
 requital of help rendered by Rama. Ordering Niila, a commander of monkey forces, for foregathering all monkey
 troops within fifteen days, Sugreeva re-enters his palace-chambers, dragged by his sensual pleasures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -183,8 +181,6 @@ and the rubrics of duty and time, that golden-tongued Hanuma, the son of Air-god
 heart-pleasing, beneficial, pragmatic, profitable, impressive, immaculate, imperative, and impartial, and which
 words are also inclusive of care and concern of Hanuma, on making a determination with a belief that Sugreeva
 will pay heed to his words. [4-29-1, 2, 3, 4, 5, 6, 7, 8, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -232,8 +228,6 @@ kaulii - kulasya* = familial - dynastic; *shriiH* = prosperity; *eva* = that way
 
 "Acquired is the kingdom and glory as well, thus enriched is your dynastic prosperity, but foregathering friends
 is still remaining, and it will be apt of you to negotiate it. [4-29-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -279,8 +273,6 @@ also; *prataapaH ca api* = valour, also, even; *vardhate* = flourishes.
 
 "Indeed, he who really conducts himself punctually and amicably with friends, his kingdom, glory and valour will
 flourish. [4-29-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -330,8 +322,6 @@ self - his own sovereignty, also; *etaani sarvaaNi* = these, all; *samaani* = wi
 
 "Matchless kingdom is his who can keep his treasury, army, friends and his own sovereignty - all these four, in
 equiponderance. [4-29-11b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -381,8 +371,6 @@ to achieve, apt of you.
 "Therefore, as the one with straightforward actions firstly you resort to an unimperilled course of action, lest
 any peril is imminent, and it will be apt of you to dutifully achieve the purpose of your friend Rama, for which
 alone Rama along with Lakshmana came to you, thus let your power preponderate. [4-29-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -438,8 +426,6 @@ strive for the sake of his friend leaving off all other activities of self-indul
 Here Hanuma is indirectly reprimanding Sugreeva for his lascivious way of living forgetting Rama's work. This
 can be said this way also in a general tone: "No misfortune can constrain him who strives enthusiastically and
 expeditiously for his friend's mission." But Hanuma's dutifulness is to be kept in view.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -485,8 +471,6 @@ if; *mitra arthena yujyate na* = by friend's, purpose - mission, will not, assoc
 
 "One who belatedly functions for the present mission of his friend, he will indeed be unassociated with that mission,
 despite of the fact that he has once performed great deeds in respect of the same friend. [4-29-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -533,8 +517,6 @@ done.
 
 "Hence, the task of our friend is delayed, oh, enemy-destroyer, searching for Vaidehi is Raghava's mission and
 let it be done. [4-29-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -582,8 +564,6 @@ te na nivedayati* = to you, not, indicating.
 "Though the time is lagging, oh, king, that insightful and punctual Rama is not indicating about it to you, though
 he is hurrying to complete his mission within a time-frame, because he is following you alone abiding under the
 control abiding by your promise. [4-29-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -643,8 +623,6 @@ The 'augmenter of multitudes of homogeneous groups...' is not limited to Rama's 
 race, or to birds like Jatayu, or to squirrels or bears. Rama is the causer of the augmentation of any living
 being's group, if they tread the path of virtuousness, thus he is the sustainer of universe in peace. Any violator
 to that peaceful coexistence will be put to an end, may it be Viradha, Kabandha, Vali or Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -660,8 +638,6 @@ for searching Seetha, apt of you.
 
 "Certainly you have to carry through his mission as he has carried out your mission previously, and oh, lord of
 monkeys, it will be apt of you to summon worthy monkeys for searching Seetha. [4-29-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -708,8 +684,6 @@ bhavet hi* = time, transgression of, will be, indeed.
 
 "As long as Rama is not going to prod us for action deem that there is no time lapse, but the minute he does deem
 it as lapsed. [4-29-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -770,8 +744,6 @@ delaying...[4-29-20]
 A true friendship does not require barters. A timely help is the only virtue of true friendship, and thankless
 friends will neglect it: *anena kR^ita upakaarasya guNaaDhyasya kaaryam kaala anatikrameNa sarva prakaareNa
 api saadhaniiyam | adharmiShTsya tu mitra kaaryam upekShaNiiyam iti suucitam | dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -820,8 +792,6 @@ son, desire, to fulfil; *aaj~naayaam kim nu sajjase* = to issue orders, why, rea
 
 "Highly adventurous and powerful vanara as you are, oh, lord of multitudes of monkeys and bears, why do you really
 temporise in issuing orders to fulfil the cherish of Rama. [4-29-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -867,8 +837,6 @@ need be, capable of, really; *tvat pratij~naam avekshate* = from you, [fulfilmen
 
 "If need be Rama of Dasharatha is really capable of keeping gods, demons and great-vipers under his control with
 his arrows, but he is anticipating fulfilment of your promise. [4-29-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -914,8 +882,6 @@ kR^itam* = by him, an exceptional, cherish [of yours,] is done; *tasya vaidehiim
 
 "He fulfilled an exceptional cherish of yours without much doubting for the forfeiture of his own life, hence
 we search for his wife Vaidehi anywhere on earth or even on skies. [4-29-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -965,8 +931,6 @@ thus.
 
 "Gods cannot cause dismay to him, then gandharva-s - no; multitudes of wind-gods - no; asura-s - no; yaksha-s
 - no; and then wherefore the raakshasa-s can? [4-29-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -1013,8 +977,6 @@ arhasi* = any, wise - at all events, desired thing, to do, apt of you.
 
 "Therefore, oh, lord of monkeys, that Rama is energetic to exert himself, but he fulfilled your aspiration earlier,
 and it will be apt of you requite him with his aspiration at all events. [4-29-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -1061,8 +1023,6 @@ and it will be apt of you requite him with his aspiration at all events. [4-29-2
 
 "In case you were ordering us, oh, king of monkeys, among us whosoever he may be his impetus will be unhampered
 either in netherworlds, or in water, or up above on the sky. [4-29-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -1113,8 +1073,6 @@ kim* = who, wherefrom, what for - for which purpose; *vaa api* = or, even; *vyav
 "Therefore command us, oh, merited one, as you have more than ten million unchallengeable monkeys under your command,
 as to who should start from where and for which purpose, and as to how one should exert himself." Thus Hanuma
 appealed to Sugreeva. [4-29-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -1161,8 +1119,6 @@ a decision.
 
 On hearing the words of Hanuma that are validly demonstrated on time, Sugreeva whose soldiery is substantial,
 took a noble decision. [4-29-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -1220,8 +1176,6 @@ kR^ita udyamam* = one who always, makes, endeavour - strives to foregather milit
 
 And the noble minded Sugreeva directed Nila, one of the commanders of vanara army, and who always strives to foregather
 vanara army, to foregather all of the monkey-forces available in all the directions. [4-29-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1237,8 +1191,6 @@ towards; *tathaa kuru* = that way, you make happen.
 
 "You have to have organise that way as to how my army in its entirety and from all over, together with corps commanders,
 is to be marshalled to stay in the cutting edge of army. [4-29-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -1292,8 +1244,6 @@ pashyatu* = closely, see to it - you monitor - in making it as a unified whole, 
 "Those that are the quickstepped, venturesome fly-jumpers who are the defenders on the perimeter of army, they
 shall be fetched quickly an speedily at my order, and oh, Niila, you on your own have to personally and closely
 monitor the military establishment without any heterogeneity. [4-29-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -1340,8 +1290,6 @@ him, life, termination, is the punishment; *na atra kaaryaa vicaaraNaa* = not, t
 
 "And, the monkey who arrives here after fifteen nights, to him termination of life is the punishment, there is
 no business for further adjudication. [4-29-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 </details>
 
@@ -1408,8 +1356,6 @@ king, namely Sugreeva, nor as a minister, he can persuade Sugreeva to go to Rama
 monkey forces to search Seetha. In reality, monkey forces are being gathered, but that information is not passed
 on to Rama. This communication gap creates a furious emotion in Rama and he bids Lakshmana to go to Kishkindha
 and take Sugreeva to task, and even Lakshmana jumps on Sugreeva like a firebrand, in the coming chapters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

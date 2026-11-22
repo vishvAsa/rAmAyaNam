@@ -20,8 +20,6 @@ and forests and motivate all monkeys to reach Sugreeva at once. Further, having 
 they find divine fruits, tubers and medicinal herbs there, which they fetch as royal gifts to
 Sugreeva. They all return to Sugreeva in the same time when Sugreeva is with Lakshmana and prior to
 the other monkeys that are summoned.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ said, also.
 
 When the great-souled Lakshmana spoke to Sugreeva in this way, Sugreeva spoke this
 word to Hanuma who is available at his side. [4-37-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -230,8 +226,6 @@ vanara-s by employing concessions, conciliations and the like procedures. [4-37-
 Parable: The assumed Sun's Palace is to the East of earth. He dawns in the
 morning in east, travels westward, dusks in west, goes to his abode circling the earth to east, and
 for us he takes rest in his palace for the night and continues his next day's routine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -279,8 +273,6 @@ preSaya* = quickly, you hasten.
 
 "In the first instance highly speedy vanara-s are hastened at my commanded, however,
 you hasten some more monkey chiefs for the purpose of hastening them. [4-37-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -330,8 +322,6 @@ monkey, chiefs; *shiighram iha aanayasva* = quickly, to here, you lead them in.
 
 "Those that are entangled with creature comforts, and those that are stringy
 dawdlers, you quickly lead all of those monkey chiefs in here. [4-37-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -378,8 +368,6 @@ miscreants, are eliminable.
 
 "And such of those vanara-s that do not arrive within ten days by my command, those
 miscreants are eliminable as the abusers of king's decree. [4-37-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -429,8 +417,6 @@ ones; *shataani atha sahasraaNi koTyaH ca* = in hundreds, then, in thousands, in
 
 "Let all the lionly monkeys available on earth that abide by my control start coming
 to this place in hundreds, thousands, even in millions, by my command. [4-37-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -478,8 +464,6 @@ shaasanaat itaH yaantu* = by my, command, towards this way - to here, they start
 "The champions of monkeys with ghastly aspects and similar in shine with the
 mountains and clouds shall start coming here by my command, fly-jumping as though to overcast the
 sky. [4-37-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -527,8 +511,6 @@ shaasanaat* = by my, command; *aanayantu* = lead them in.
 "Let those vanara-s who know the routes to the dwelling places of other monkeys
 expeditiously proceed on quick-routes, and gather all of the monkeys available on earth at my
 command." Sugreeva ordered Hanuma that way. [4-37-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -572,8 +554,6 @@ started to send.
 
 On hearing the order of Sugreeva, the king of vanara-s, Hanuma, the son of Air-god
 has started to dispatch valorous monkeys in all directions. [4-37-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -630,8 +610,6 @@ which was once trodden by Vishnu. [4-37-17]
 Vishnu stretched his foot heavenward and covered the intermediate sky with that
 single foot in Vamana, that Dwarf Boy, incarnation. From then on heaven is also called as *tridiva*.
 Thus it is said that the monkeys skyrocketed heavenward, i.e., to skies, but not to heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -682,8 +660,6 @@ hetoH acodayan* = for Rama's, cause, motivated.
 After skyrocketing those monkeys have reached the monkeys that are living at
 seashores and islands, in the caves and crags of mountains, and at lakeshores and their surrounds,
 and motivated all of the monkeys available there towards the cause of Rama. [4-37-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -732,8 +708,6 @@ arrived.
 On hearing that command of the king of kings of Vanara-s, Sugreeva, who is semblable
 with the Death-god and Time-god, all of the monkeys have arrived with the terror of Sugreeva
 haunting them. [4-37-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -782,8 +756,6 @@ mountain]; *nir yayuH* = out, travelled - sallied forth.
 Then thirty million fly-jumpers whose swiftness is inconceivable, and whose shine is
 like that of black-mascara have sallied forth from mountain Anjana to there where Raghava is
 camping, i.e., Mt. Prasravana. [4-37-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -832,8 +804,6 @@ there, fallen - jumped in.
 Hundred million monkeys who take delight on the best mountain where the sun goes
 into dusk, namely the westerly mountains, asta adri, and whose hue is
 similar to the refined gold, for dusk has a golden hue, have jumped in. [4-37-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -880,8 +850,6 @@ the hue of; *vaanaraaNaam* = of Vanara-s; *koTi sahasraaNi* = thousand, crores
 
 Vanara-s who are in the hue of lion's mane have turned up in thousand crores, say
 hundred billion, from the pinnacles of Mt. Kailash. [4-37-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -931,8 +899,6 @@ thousand billion, trillion]; *samavartata* = arrived.
 
 Those that are sheltered on Himalayas subsisting on fruits and tubers have arrived
 in a thousand of thousand crores, say a trillion. [4-37-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -980,8 +946,6 @@ millions; *apatan drutam* = fallen - alighted, swiftly.
 Millions and millions of Vanara-s whose looks and deeds are gruesome, and who equal
 the planet Mars in their crimson-flush, as they dwell on the hotbeds of Mt. Vindhya, have swiftly
 alighted from Mt. Vindhya. [4-37-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1044,8 +1008,6 @@ phonetic difference between *Da* or *la*, and *ra* or *la*, and
 used as *naari kera*, in it original phonetic form. And the Bengalis even now pronounce
 *ba* for *va*. Even the English keyboard of typewriters too, provide *b*
 adjacent to *v* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1101,8 +1063,6 @@ childhood. It is intended to say that the irrefutable *sugreeva aaj~na* 'Sugreev
 command...' as said in his order at ' *monkeys have to come as though to overcast the sky'*
 , at 4-37-14 above, is effectuated by these troops of monkeys, who seem to overcast the sky as if
 they are going to gorge the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1162,8 +1122,6 @@ Usually it is said that 'they saw a great tree on Himalayan mountains...' which
 offers no speciality to the following verses. Instead of one tree, some decipher the meaning, that
 'they have seen Himalayas with many a great tree...' thereby it will be reinforcing the 'doubt that
 occurred to Hanuma' in identifying Sanjivini herb among many trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1210,8 +1168,6 @@ Shiva's, aiming Shiva; *yaj~naH babhuuva* = Vedic-ritual, took place.
 
 On that best and auspicious mountain, once a glorious Vedic-ritual intending God
 Shiva took place, which pleased the hearts of all gods. [4-37-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1262,8 +1218,6 @@ fruits, also; *dadR^ishuH* = they saw.
 There the vanara-s have seen luscious tubers and fruits similar to nectar, which
 have originated from the oblational food material spattered in the Vedic-ritual for Shiva.
 [4-37-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1314,8 +1268,6 @@ fruits, tubers; *yaH kashcit sakR^it ashnaati* = who, a little, at one time, eat
 If one eats for one time, a little of those divine and heart-pleasing fruits and
 tubers that have taken their origin from that oblational food material, he remains satiated for a
 month. [4-37-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1362,8 +1314,6 @@ collected.
 
 The best monkeys that are fruit-eaters have collected those divine fruits, tubers,
 and even the divine medicinal herbs. [4-37-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1413,8 +1363,6 @@ for purpose of; *aaninyuH [ aa nin yuH]* = fetched.
 
 On going to the cardinal ground of Vedic-ritual which was performed once, those
 vanara-s fetched highly fragrant flowers in order to please Sugreeva. [4-37-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1463,8 +1411,6 @@ Kishkindha.]
 On motivating all of the monkeys on earth, all those best monkeys who proceeded to
 forgather other monkeys, quickly returned to Kishkindha ahead of the forgathered troops of monkeys.
 [4-37-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1506,8 +1452,6 @@ praaptaaH* = to Kishkindha, quickly, arrived.
 Those quick paced monkeys quickly reached Kishkindha just at that moment when
 Lakshmana is still with Sugreeva, and those monkeys arrived at that place where Sugreeva is
 available along with Lakshmana. [4-37-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1558,8 +1502,6 @@ them; *tam* = him [Sugreeva]; *prati graahayaamaasuH* = in turn, obliged to take
 Taking the medicinal herbs, fruits, and tubers along with them, all of those
 Vaanaras obliged Sugreeva to accept fruits, tubers and herbs as royal gifts, and they also spoke
 this word to Sugreeva. [4-37-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1607,8 +1549,6 @@ earth, all of the, vanara-s; *te upa yaanti* = for you, coming near.
 "We have rounded up all the mountains, rivers, and forests even, and all of the
 Vanara-s available on earth are fetched to your fore according to your command." Thus the monkeys
 said to Sugreeva. [4-37-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 </details>
 
@@ -1655,8 +1595,6 @@ jagraaha ca* = in turn, taken - accepted, also.
 
 On listening these words then the king of fly-jumpers Sugreeva is gladdened and
 accepted the gifts brought from Himalayas from all of them. [4-37-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga37/kishkindhasans37.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

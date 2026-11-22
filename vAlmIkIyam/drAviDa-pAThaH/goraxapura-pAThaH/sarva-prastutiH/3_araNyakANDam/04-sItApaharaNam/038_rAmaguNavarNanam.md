@@ -20,8 +20,6 @@ Maareecha continues his good word to Ravana and he dissuades him from abducting
 Seetha. His advice is that the dalliance with other's wives is the greatest sin, more so, with
 Rama's wife as Rama's valour is irrefutable. Maareecha narrates how Rama hurt him while
 safeguarding Vishwamitra's Vedic-ritual, when Rama was still a young boy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -106,8 +104,6 @@ bearing the strength of a thousand elephants, mountainous in my size and black-c
 sheen, wearing ear-knobs and a crown made out of refined gold, with a bludgeon as my weapon, and
 such as I was, I rambled Dandaka forest causing terror to the world, and eating the fleshes of
 sages." Thus Maareecha started to narrate his experience with Rama. [3-38-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -154,8 +150,6 @@ person; *nara indram dasharatham gatvaa* = to people's king, to Dasharatha, on g
 
 "The virtue-souled great-saint Vishvamitra who was highly scared of me, then on
 going to Dasharatha in person that great-saint spoke this to that lord of people. [3-38-3b, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -203,8 +197,6 @@ verily, chanced - befallen; *raamaH samaahitaH* = Rama, becoming alert; *parva k
 " 'An awesome dismay has befallen owing to this Maareecha, oh, lord of people
 Dasharatha, let Rama safeguard me becoming alert at the opportune time of the Vedic-ritual.
 [3-38-4b 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ Dasharatha; *dharma atmaa raajaa dasharathaH tadaa* = virtue-souled, king, Dasha
 
 "When he is spoken in that way, then that virtue-souled king Dasharatha replied that
 great-fortunate and great-saint Vishvamitra in this way. [3-38-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -320,8 +310,6 @@ Rama. [3-38-6b, 7a]
 In Bala Kanda the age of Rama as said by Dasharatha to Vishvamitra is *uuna
 SoDasa varSaH *'less than sixteen years.' Here Maareecha is saying that Rama is less than twelve.
 Maheshvara Tiirtha says that Maareecha lessened the age of Rama only to intimidate Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -344,8 +332,6 @@ Vishvamitra. [3-38-7b, 8a]
 
 In the fourfold army the four categories of army units are chariots, elephants,
 cavalry, and foot-soldiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 
 </details>
@@ -394,8 +380,6 @@ counterbalance.
 
 "When the sage Vishvamitra is spoken thus, then he said to the king, 'No other force
 in the world than Rama can counterbalance that demon. [3-38-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -442,8 +426,6 @@ aasiit* = in tri-world, well-known, is there.
 
 " 'No doubt, you are a defender of gods in wars, and oh, king, the exploits you have
 undertaken on behalf of gods are well-known in the triad of worlds. [3-38-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -498,8 +480,6 @@ there be.
 alone, and even if this great resplendent one is still a boy he alone is competent to forestall
 that Maareecha, hence oh, enemy-subjugator, let good betide you, I wish to take him alone along
 with me.' [3-38-10b, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -575,8 +555,6 @@ uktvaa* = thus, that way, on saying; *nR^ipa aatma jam* = king's, own, son; *tam
 
 "Thus that way on saying he that sage Vishvamitra returned to his own hermitage
 highly gladdening to take the prince Rama along with him. [3-38-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -597,8 +575,6 @@ Vishvamitra who entered the vow of Vedic-ritual. [3-38-13]
 
 There is a difference in mentioning the forest as Dandaka. Bala Kanda says that
 Vishvamitra performed ritual in north and Maareecha is now saying that as Dandaka forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -697,8 +673,6 @@ Further, he has a likeable persona to any, even to the present demon Maareecha, 
 When Ravana sees Rama for the first time in war, Ravana praisefully acknowledges Rama's
 personality. Besides, Rama's gleam is like that of a baby-moon, against the backdrop of a thickish,
 darkish, blackish sky, called the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -755,8 +729,6 @@ one possess or the wealth factor. Maareecha refers to these ear ornaments more t
 that 'wealth or wisdom is nothing to Rama, but righteousness alone will work out.' Because Ravana
 did not give an ear for the suggestions of Maareecha, his Lanka, built with refined gold, will be
 burnt to ashes in Sundara Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -804,8 +776,6 @@ bowstring; *cakaara ha* = made - strung, aimed, indeed.
 
 "Rama quickly noticed me on my very entry with an uplifted weapon, and on seeing me
 he unexcitedly strung bowstring to his bow. [3-38-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -852,8 +822,6 @@ Vishvamitra, that, towards Fire-altar; *abhya dhaavam* = towards, ran.
 
 "Unmindfully trivialising him as, 'this Raghava is just a boy,' I made haste and ran
 towards that Fire-altar of Vishvamitra. [3-38-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -900,8 +868,6 @@ yojana-s [afar,] in ocean, plunged.
 
 "He then released an acute arrow that eliminates the enemy, and hit by it I am
 plunged into the ocean which was a hundred yojana-s off. [3-38-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -960,8 +926,6 @@ bewildered, [is my] animation; *nir astaH* = without, base - I was on my last le
 "That Rama did not wish to kill me then, and I am thus saved by that valiant one,
 oh, dear boy Ravana, but the thrust of Rama's arrow bewildered my animation and I was on my last
 legs. [3-38-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -978,8 +942,6 @@ towards, went.
 
 "That way I who had been flung into the abyssal water of the ocean by him gained
 consciousness after a long time and proceeded towards the city of Lanka. [3-38-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1027,8 +989,6 @@ consciousness after a long time and proceeded towards the city of Lanka. [3-38-2
 "At that time, that one with elementary knowledge in the use of weaponry, but who
 can undertake deeds in an effortless manner, such a boy, such a Rama spared me, albeit killing them
 that were my helpmates in that escapade. [3-38-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1078,8 +1038,6 @@ nashiSyasi* = on getting, you ruin yourself.
 
 "Thereby, if you wish to make for any confrontation with Rama, despite of my
 proscribing you, you will ruin yourself on getting a disastrous calamity. [3-38-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1129,8 +1087,6 @@ disaster, also; *aahariSyasi* = you derive.
 
 "The demons are methodical in sporting and flirting, thus by their own conduct they
 are also socialising and frolicking, and to them you derive distress and disaster. [3-38-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1178,8 +1134,6 @@ will see.
 
 "Dense with skyscrapers and palaces, and decorated with many a gemstone is that city
 Lanka, but you will see it completely shattered down, for the sake of that Maithili. [3-38-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1226,8 +1180,6 @@ if; *shucayaH* = sinless ones; *paapa samshrayaat* = with sinners, by interdepen
 
 "Even if with uncommitted sins, the sinless will get ruined owing to their
 interdependence with other sinners, like the fish in a lake with snakes. [3-38-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1276,8 +1228,6 @@ abhihataan drakSyasi* = to earth, trampled out, you are going to see.
 "Bedaubed with divine sandal-paste, beautified with divine ornaments are the limbs
 of the demons now, perchance you will be seeing them trampled out on ground for the blunder of
 yours. [3-38-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1326,8 +1276,6 @@ protector; *dasha dishaH* = to ten, directions; *vi dravataH* = verily, running 
 "Maybe, you will have to see the fleeing of the nightwalkers surviving after the
 carnage in all ten directions, some abandoning their wives and some along with their wives, only
 for lack of a protector. [3-38-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1374,8 +1322,6 @@ you, will see; *a samshayam* = without, doubt.
 
 "Without a doubt you will be seeing Lanka encircled with an enmesh of arrows,
 enfolded in the tongues of torches, while her buildings are utterly gutting down. [3-38-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1428,8 +1374,6 @@ sahasraaNi tava parigrahe* = ladies, thousands, by you/your, seized [or, married
 
 "Oh, king, there is no other sin that is outrageous and gravest than the dalliance
 with another's wife and, besides, you already have a thousand wives, isn't so! [3-38-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1446,8 +1390,6 @@ iSTam jiivitam ca* = for yourself, dear, [your] life, also; *[raksha* = safeguar
 "Abide by your own wife and be delighted with her, oh, demon, safeguard your own
 ethnos, thus safeguard dignity, affluence, and kingdom of demons, thereby safeguard even your own
 dear life. [3-38-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1494,8 +1436,6 @@ long time, to enjoy; *icChasi yadi* = you desire, if; *raama vi priyam maa kR^it
 
 "If you desire to take pleasure with your beautiful wives and with your friend's
 circles for a long time, do not do anything undesirable to Rama. [3-38-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 </details>
 
@@ -1552,8 +1492,6 @@ gamiSyasi* = to Yama [the Terminator's,] world, you will go.
 in all my good-heartedness towards you, then your army will fade away, and you with your kinsfolk
 will emigrate to the world of Yama, the Terminator, for your life will be taken away by the arrow
 of Rama." Thus, Maareecha spoke to Ravana. [3-38-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

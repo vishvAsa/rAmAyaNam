@@ -19,8 +19,6 @@ Rama entrusts the construction work of a parNa shaala, straw-cottage
  cottage and they enter it after the ritual of house-entering ceremony. Rama admires Lakshmana
  for his construction work and as a thanksgiving he embraces Lakshmana and expresses his
  heart felt feeling about Lakshmana's concern towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ lakSmaNam uvaaca* = to one who is splendidly, brilliant, to brother, to Lakshman
 
 Then on going to Panchavati which is full with many serpents and predators, Rama said to splendidly
 brilliant Lakshmana. [3-15-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ puSpita kaananaH ayam deshaH pa.ncavaTii* = with flowered, forests, this, region
 
 "We arrived at the place as indicated by the sage, oh, gentle Lakshmana, this region with its flowered
 forests is Panchavati." [3-15-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ your sight, be cast about for; *nipuNaH asi hi* = expert, you are, indeed.
 
 "In which place we have to situate our hermitage for our liking, for that cast your sight all over the
 forest, and indeed you are an expert in such matters. [3-15-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ that shall be scenic with flower gardens where Seetha can easily pluck flowers i
 it shall be a pleasurable garden for him to recline, or take his bath etc., and thirdly it shall contain
 the ritual paraphernalia within the reach of Lakshmana, so that Lakshmana can provide them to Rama in
 time, with his obedient service.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -304,8 +294,6 @@ vacanam abraviit* = to Rama, this, sentence, spoke.
 
 When thus said by Rama, Lakshmana adjoined his palms and said this sentence to Rama in the presence
 of Seetha. [3-15-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -376,8 +364,6 @@ Adherent nature of Lakshmana is also like that of a younger brother towards his 
 elder brother becomes father-like after the demise of their father. *anenapiturantaram yaavat jyeShTho
 jiivati taavat kaniShThasya na svaatantryam itisuucitam | tathaa ca manuH piteva paalayat sutaan jyeShTha
 bhraataa yaviiyasaH| putravat ca api varteran jyeShTho bhraatari dharmataH || dharmaakuutam.*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -429,8 +415,6 @@ all, attributes, comprising; *desham rocayaamaasa* = a place, started to like [t
 
 Rama is gladdened by those words of that great resplendent Lakshmana, and he selected a place that comprised
 of all the attributes. [3-15-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -445,8 +429,6 @@ haste gR^ihiitvaa* = by hand, Soumitri's, hand, on taking; *abraviit* = spoke to
 
 On taking Lakshmana's hand by his hand Rama paced that beautiful place intended for the construction
 of hermitage up and down and spoke to Soumitri this way. [3-15-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -493,8 +475,6 @@ of you.
 
 "This is an evenly and propitious place surrounded with flowered trees and it is apt of you to erect
 hermitage here, traditionally. [3-15-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -548,8 +528,6 @@ The Lake is beaming with lotuses that have the resplendence of Sun. Sun is Vishn
 of Goddess Lakshmi and the lake is full with such lotuses, which are in the heart of the lake. As such
 Goddess Lakshmi is in the lotuses, which again are situated in the heart of Vishnu, and hence this is
 a propitious lake to have Vishnu and Lakshmi together.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -602,8 +580,6 @@ this, river Godavari is [also seen from here.]
 "This River Godavari is also seen from here, surrounded by blooming trees, spread over with swans, and
 beautified with kaarandava, and chakravaaka birds, as that contemplated soul sage Agastya had said.
 [3-15-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -673,8 +649,6 @@ sane* = not, also, very, nearby; *dR^ishyante* = are appearing.
 
 "Those soaring mountains are appearing beautiful with many caves, surrounded by flowered trees, flurried
 by animal herds, sounded by peacocks, and they are neither far-off nor very nearby. [3-15-13, 14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -729,8 +703,6 @@ is the name for coloured graphical drawings on the body of elephants. Apart from
 ornamentations, the elephants are richly painted in colours during ceremonial occasions, even today.
 As such Rama is visualising the ore deposits on the mountains as cow-eye like ventilators on walls,
 and as superb streaks of paintings on the bodies of elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -804,8 +776,6 @@ thus with Punnaagaa. With Chuuta - Sweet Mango; Ashoka, Tialaka, even with Ketak
 even with Syandana, Sandalwood, Niipa, Paarnasa, Lakuch, dhava, Ashwakarna, Khadira, Shamii, Kimshuka,
 Paatala trees, and entwined are those and those trees with flowered shrubs, and along with climbers,
 and thus they brighten the mountains. [3-15-16, 17, 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -851,8 +821,6 @@ saardham etena pakSiNaa* = along with, this one, bird [Jatayu.]
 
 "This place is holy, this is delightful and this is with many animals and birds, hence Soumitri, let
 us reside here along with this bird Jatayu." Thus said Rama to Lakshmana. [3-15-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -899,8 +867,6 @@ made - erected.
 
 Thus said by Rama to that remover of foe's valour and one with very great might, namely Lakshmana, he
 briskly erected a hermitage for his brother. [3-15-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -978,8 +944,6 @@ with the cross-laid bamboos for thatching, and over that blades of Kusha grass a
 are spread and well over-covered for the roof, and thus that very great mighty Lakshmana made that best
 and very spacious straw-cottage with a levelled surface for residence of Raghava in the interests of
 Raghava alone, and it resulted as a feast to the eye. [3-15-21, 22, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -1025,8 +989,6 @@ lotuses, also, gathered; *sa phalaH punaH aagataH* = with, fruits, again, came.
 
 On his going to River Godavari that noble Lakshmana bathed and on gathering lotuses and fruits he returned
 to the cottage. [3-15-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -1073,8 +1035,6 @@ to Rama.
 
 Then making flowery offerings and peace-invocations also procedural to gR^iha
 pravesha , entering a new house,] started to show the constructed hermitage to Rama. [3-15-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -1120,8 +1080,6 @@ straw-cottage; *param harSam aahaarayat* = high, gladness, ho got.
 
 On seeing the beautifully constructed hermitage along with Seetha, Rama is highly gladdened in respect
 that straw-cottage. [3-15-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -1168,8 +1126,6 @@ idam abraviit* = very, friendly, words, this, spoke.
 
 Then Rama very highly gladdened Rama embraced Lakshmana tightly by both of his hands, and spoke these
 friendly words to him. [3-15-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -1217,8 +1173,6 @@ is done; *te priitaH asmi* = about you, I am, happy; *yat nimittam* = for which,
 
 "Oh, masterful one, I am very happy about you for you have done a great deed, for that reason I am giving
 what I have to give to you a hugging. [3-5-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -1286,8 +1240,6 @@ mR^ite api pitaadhaarmikeNa putreNa amR^ita iti suucitam | tathaa ca vaajasaneya
 eva asmin loke pratitiShThati -- ' iti | sa ca pitaa svayam mR^ite apidhaarmiksya putrasy shariireNa
 eva asmin loke yathaa shaastram karma kurvan tiShThatiiti artham|| dhamaakuutam* Hence
 Rama said in this concept also that - 'my father is though 'dead', but 'born' again in you, Lakshmana.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -1342,8 +1294,6 @@ which is with many a fruit. [3-15-30]
 
 The last word *sukhii* is read as *vashii* in other mms meaning that Rama 'with his senses
 controlled' lived there. That is to suggest the overcoming of the enchantment of Suurpanakha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 </details>
 
@@ -1390,8 +1340,6 @@ resided there.
 
 While Seetha and Lakshmana devoted themselves to that righteous Rama, he resided in Panchavati like
 a Divinity in heavenly world for sometime to come. [3-15-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ The seven sons of Prahasta surrounded by a great army rush in speedy chariots up
 who is standing on the archy gate way. They discharge a shower of arrows on Hanuma. Then, Hanuma crushes
 all the enemies, using his palms, feet, fists, nails, chest and thighs only as his weapons. After killing
 those demons, Hanuma climbs up the archy door-way and takes up his position there again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -140,8 +138,6 @@ each, and as directed by Ravana, started highly delighted from that palace, in g
 with horses. Those chariots were having a noise similar to that of an autumnal cloud, overlaid with
 a protective armour of gold, surmounted by banners and decorated with smaller flags. They were stretching
 their bows inlaid with refined gold and looking colourful like clouds accompanied by flashes of lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -191,8 +187,6 @@ _________________
 
 Coming to know that Kimkaras themselves were killed their mothers together with their
 relatives and friends were tormented with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -239,8 +233,6 @@ motionless.
 
 Those sons of chief minister, wearing ornaments made of pure gold, rushed towards Hanuma,
 who was ready for battle and who stood on the archy gate-way motionless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -290,8 +282,6 @@ vR^iSTimantaH ambhodaaH* = resembling rainy clouds.
 
 Those demons looking like clouds, diffusing thunder-like sounds of their chariots and
 discharging a shower of arrows, moved in different directions resembling rainy clouds in the monsoon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -340,8 +330,6 @@ _________________
 
 Thus covered by those showers of arrows, Hanuma became invisible even as a mountain-king
 is concealed by incessant showers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -391,8 +379,6 @@ _________________
 
 Roaming about in a cloudless sky, that fast-footed monkey made the arrows and the speedy
 chariots of those virile demons, useless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -439,8 +425,6 @@ chariots of those virile demons, useless.
 
 Playing with those demons wielding a bow each in the sky, that hero shone like the Lord
 of Wind, playing with clouds brandishing a rain bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -487,8 +471,6 @@ rakSassu* = on those demons.
 
 Making a terrific roar and frightening that great army, the valiant Hanuma rushed on
 those demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -567,8 +549,6 @@ paadaiH* = with his feet; *kaamshchit* = and some; *muSTinaa* = with his fists;
 
 That Hanuma, the annihilator of enemies, struck some with his palms, some with his feet
 and some others with his fists. He tore down some others with his nails.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -584,8 +564,6 @@ with his thighs; *kechit* = some; *patitaaH* = fell down; *bhuvi* = on the groun
 
 Hanuma crushed some with his chest and some others with his thighs. Some fell down there
 itself on the ground, just by the roar made by Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -632,8 +610,6 @@ directions; *bhayaarditam* = afflicted with fear.
 
 Seeing those demons dying and falling on the ground, all the remaining army, afflicted
 with fear, fled in ten different directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -683,8 +659,6 @@ the ground; *bhuushcha* = even the earth; *kiirNaa abhavat* = was filled with; *
 
 Their elephants trumpeted with a wrong accent. Horses fell down on the ground. Even the
 earth was filled with chariots which had their seats, banners and canopies broken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -731,8 +705,6 @@ svaraiH* = with various kinds of voices.
 
 Thereafter, streams flowing with blood were seen on the way. Lanka resounded with various
 kinds of horrible voices.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 </details>
 
@@ -791,8 +763,6 @@ _________________
 
 That heroic and mighty Hanuma having a terrible prowess, killing those arrogant demons
 and being desirous of a combat with the other demons, again reached that archy door way itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

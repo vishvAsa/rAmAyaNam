@@ -52,8 +52,6 @@ with Seetha; *drashhTum* = to see; *pitaram* = their father.
 
 Rama and Lakshmana along with Seetha gave away abundant riches to brahmanas and went
 along with Seetha to see their father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -104,8 +102,6 @@ brilliantly.
 
 Those weapons held by Rama and Lakshmana were tied on with garlands by Seetha. The
 weapons thus decorated were shining brilliantly and were fearful to look at.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -152,8 +148,6 @@ large buildings; *vimaana sikharaaNicha* = and top of palaces of seven stories h
 
 Then, wealthy people ascended lofty palatial mansions, large buildings and tops of
 palaces of seven stories high and saw them spiritlessly,
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -202,8 +196,6 @@ they were seeing; *raaghavam* = Rama; *aaruhya* = by ascending; *praasaadaan*
 The streets were indeed difficult to walk, congested as they were, with many men.
 For that reason, being in distress, they were seeing Rama by ascending lofty palatial
 buildings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -254,8 +246,6 @@ sorts.
 
 Then, by seeing Rama as a pedestrian without an umbrella, the people with their
 hearts struck by grief were uttering words of many sorts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -304,8 +294,6 @@ saartham* = along with Seetha.
 The same Sri Rama who was followed by a strong four wings of army(comprising
 elephants, chariots, cavalry and infantry), is walking lonely with Seetha followed by
 Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -353,8 +341,6 @@ virtue.
 
 Rama knew the taste of sovereignty. He can grant desires to the desirous. Even then,
 because of his respect for virtue, he is careful not to believe his father's words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -401,8 +387,6 @@ people; *maarga gataaH* = walking on road; *pashyanti* = are seeing.
 
 Even people walking on road are able to see Seetha, who could not earlier be seen
 even by beings going through the air.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -453,8 +437,6 @@ suitable cosmetics to the body; *rakta chandana seviniim* = and was fond of red 
 
 Rain, heat and cold will quickly wane to pallor Seetha, who was fond of applying
 suitable cosmetics and red sandal to the body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -499,8 +481,6 @@ _________________
 certainy; *bhaashhate* = is talking; *aavishya* = by taking possession of sattvam =
 some evil spirit; *raajaa* = the king; *na arhati hi* *vivaasayitum* = to send
 to exile; *priyam* = his affectionate; *putram* = son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -548,8 +528,6 @@ mode of conuct.
 
 How banishment can be affected on a son, even devoid of virtues? Why to tell further
 of whom, this world is conquered merely by his mode of conduct?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -597,8 +575,6 @@ best of men.
 
 Harmlessness, compassion, learning, good nature, self-control and tranquillity -
 these six virtues adorn Rama, the best of men.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -645,8 +621,6 @@ these six virtues adorn Rama, the best of men.
 
 Therefore, people are extremely painful for the injury done to him, as aquatic
 beings in summer are afflicted because of depletion of water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -697,8 +671,6 @@ root.
 
 The entire world feels afflicted by the hardship inflicted on this protector of the
 world, as a tree which acquired flowers and fruits is damaged by injury caused to its root.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -740,8 +712,6 @@ branches.
 
 This Rama, the essence of virtue possessing great lustre, is indeed the root of the
 tree of humanity. Other men are his flowers, fruits and branches.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -788,8 +758,6 @@ going; *lakshhmaNa iva* = as Lakshman; *gachchhantam* = the departing Rama.
 
 We as such along with our wives and relatives atone will follow Rama in the same way
 as Lakshmana is going with the departing Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -836,8 +804,6 @@ the same sorrows and joys.
 
 Abandoning gardens fields and houses, we shall follow Rama the righteous man, and
 share his joys and sorrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -917,8 +883,6 @@ their holes and turning round here and there, without water and smoke, upswept, 
 offering oblations to all creatures as well as the sacred fire, worship of gods, the chanting of
 sacred texts and muttering of prayers having altogether ceased, as though dilapidated by adverse
 times and scattered with broken vessels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -965,8 +929,6 @@ times and scattered with broken vessels.
 
 As Rama is going away to the forest, let that forest become a city and let this city
 being deserted by us become a forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -1018,8 +980,6 @@ region going to be inhabited by us.
 Scared by fear of us, let all the snakes abandon their holes, the dears and birds
 the mountain peaks, the elephants and the lions the forest itself. let them leave the region going
 to be inhabited by us and reach the city of Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -1079,8 +1039,6 @@ forest; *raaghaveNa saha* = along with Rama.
 Let Kaikeyi with her son along with her relatives indeed inhabit the region where
 ferocious animals and vultures live with grass, meat and fruits. Let us all (on the other hand)
 live happily in the forest along with Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -1133,8 +1091,6 @@ his; *maanasam* = mind; *na vichakre* = was not distruebed.
 
 Rama heard various kinds of remarks thus made by many people. Hearing them also, his
 mind was not disturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1152,8 +1108,6 @@ distance.
 That Rama the virtuous man, by walking with strides of an elephant in rut,
 approached his father's palace, which from a distance glowed like a peak of the Kailasa
 mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -1200,8 +1154,6 @@ palace; *viniita viira purushham* = which had disciplined and valiant attendants
 
 After entering the royal palace, which had in it disciplined and valiant attendants,
 saw Sumantra standing dejected not far from the palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -1256,8 +1208,6 @@ smiling; *chikiirshhuH* = intending to perform; *pituH* = his father's;
 
 The, Rama even on seeing the people disturbed, appeared unmoved and smiling,
 intending to fulfill his father's behest and went to see his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -1313,8 +1263,6 @@ announced to pituH = his father.
 Seeing Sumantra appearing disturbed before that, Rama the son of Dasaratha( a scion
 of Ikshhvaaku) whose mind is mighty and who is setting out to the forest, waited awhile to have his
 presence announced to his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 </details>
 
@@ -1370,8 +1318,6 @@ passion towards piety; *kR^iti buddhinishchayaH* = having made up his mind posit
 That Rama, who had passion towards piety, having made up his mind positively to
 enter the exile as per his father's command, spoke thus, seeing Sumantra, "Inform my arrival to the
 king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

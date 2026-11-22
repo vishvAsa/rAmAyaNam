@@ -20,8 +20,6 @@ of Lakshmana's action in leaving her alone.
 The content of this chapter is to amplify what that has been said in the previous chapter. This dialogue
 between Rama and Lakshmana may be deemed to have happened before their approaching hermitage, as in
 the last few verses of last chapter, and on their pathway to their hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ from hermitage, strayed from; *saumitrim* = at Soumitri; *antaraa* = in middle [
 
 Rama the descendent of Raghu, again asked Soumitri who strayed from the hermitage and whom his own anguish
 is distressing now, in the middle of path towards their hermitage. [3-59-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ abandoning; *tvam aagataH* = you, came [to me.]
 
 Rama spoke to such Lakshmana, "when I left her in the forest, I left only on confiding in you. For what
 reason you came to me on abandoning Maithili? [3-59-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ evil; *vyathitam iti yat* = distressed, thus, what [what that was being doubted]
 
 "What my heart had been doubting, rather a perilous evil, oh, Lakshmana, that has become a fact on seeing
 only you, coming to me leaving off Maithili. [3-59-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ at you; *duure* = at distance; *pathi* = on pathway; *dR^iSTvaa* = on seeing;
 
 "Seeing your coming without Seetha on pathway at a distance my left eye and left shoulder have pulsated,
 and oh, Lakshmana, my heart too has fluttered." Thus Rama said to Lakshmana. [3-59-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ lakSaNaH lakSmaNaH* = one with auspicious, [blameless] traits, such a Lakshmana;
 When Sumitra's son Lakshmana, whose traits are blamelessly auspicious is addressed thus, anguish cast
 a double spell on him, one for the tongue-lashing of Seetha while the other for the reproach from Rama,
 and he replied Rama who is anguished in his own way. [3-59-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -318,8 +306,6 @@ not, I have come; *tayaa eva* = by her, alone; *ugraiH [vacanaiH]* = by hurtful 
 
 "I have not come here leaving her off either independently or intentionally, I came here, to your proximity,
 virtually driven by her hurtful words." Thus Lakshmana is relying Rama. [3-59-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ gatam* = that, of Maithili, into ear, went into - she gave an ear to.
 
 "Maithili gave an ear to that message which is loudly shouted as if by your honour saying, 'ha, Seetha...
 ha, Lakshmana... save me immediately...' [3-59-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -419,8 +403,6 @@ begone; *iti maam aaha* = thus, to me, said.
 
 "On hearing that grievous voice of yours and owing to her love for you she shuddered with fear and wept
 out to me 'hurry up...get going...' [3-59-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -467,8 +449,6 @@ you, [with my] confidence, having [expressive of]; *idam vaakyam* = this, senten
 
 "When she frequently and insistingly compelled me to go, I have replied Maithili in this sentence which
 is expressive of my confidence in you. [3-59-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -517,8 +497,6 @@ even, this way, said [mimicked, typified.]
 
 " 'I do no think that there is a demon who can cause panic to Rama. All this is feigning. Someone might
 have typified his voice in this way, please control yourself. [3-59-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ in such circumstances. [3-59-11]
 
 A hero will not expose a lady to risk when he himself is involved in such a risky position. aapat kaale
 strii samaahvaanasya kshudra kR^ityatvaat kutsitam - Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -623,8 +599,6 @@ _________________
 
 " 'But, somehow, for some reason, someone mimicking my brother's voice discordantly shouted words saying,
 'Lakshmana save me.' [3-59-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -673,8 +647,6 @@ a demon - say Maareecha; *iiritam vaakyam* = voiced, words; *traahi iti* = save 
 " 'Oh, auspicious lady, it is unbefitting for you to panic, like lowly womenfolk who will be frivolously
 panicking for flimsy reasons, for the words like 'save me,' shouted by some demon, who may conceivably
 be Maareecha. [3-59-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -734,8 +706,6 @@ in battle; *a jeyaH* = not, defeated [undefeatable.]
 worlds who took birth, or going to take birth, to defeat Raghava in any given battle of any terrible
 nature. Raghava is undefeatable even if all gods come battling along with Indra in their van.' This
 is what I said to Vaidehi" Thus Lakshmana is informing Rama. [3-59-14, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -781,8 +751,6 @@ maam* = to me; *idam daaruNam vacaH* = this, tart, word; *uvaaca* = said.
 
 "Though I said thus, while her volition is overly besotted for you, Vaidehi said this tartly word to
 me outpouring tears. [3-59-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -832,8 +800,6 @@ _________________
 
 " 'In my respect you have harboured only an impure and nastily perspective to achieve me on the utter
 ruination of your brother, but I am unachievable to you. [3-59-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -909,8 +875,6 @@ ava pad]* = towards, his near, going - refraining to go to him, for help; *tvam*
 " 'As to why you are refraining to rush towards Rama even though he is inordinately yelling, it hints
 that Bharata made some arrangements with you, and that is the reason why you have closely followed Rama
 in exile. [3-59-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -927,8 +891,6 @@ ripuH* = [Rama's,] adversary; such as you are; *tvam* = you are; *raaghavasya* =
 
 " 'You are an adversary of Rama comporting yourself in disguise, following him because of me, and searching
 for a leeway from Rama. Thereby now you are not rushing to Rama. [3-59-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -975,8 +937,6 @@ for a leeway from Rama. Thereby now you are not rushing to Rama. [3-59-19]
 
 "When Vaidehi spoke to me thus I hurriedly came out of hermitage to you with anger reddening my eyes
 and trembling my lips. [3-59-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -1028,8 +988,6 @@ mohitaH* = by angst, deluded; *raamaH* = Rama; *abraviit* = said; *saumya*
 
 Rama who is deluded by angst said to Soumitri who is speaking thus, that "your arrival without her is
 an improper deed, oh, gentle one. [3-59-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -1075,8 +1033,6 @@ vaakyena* = of Maithili, by angry, words; *nirgataH* = exited - hermitage.
 
 "You know that I am capable enough to foil the demons, even then you have come out by the angry words
 of Maithili? [3-59-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -1127,8 +1083,6 @@ lady's; *paruSam shrutvaa* = bitter [words,] on hearing; *yat* = who; *tvam iha 
 
 "On hearing bitter words of an angry lady you have came away on leaving her off, such as you are, I
 am not at all happy with you. [3-59-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -1175,8 +1129,6 @@ yat* = thus, which [that which issue is there]; *sarvathaa te* = in everyway, of
 
 "That which action of yours is there in non-compliance of my directive to stand guard to Seetha, either
 compelled by Seetha, or coming under your own ire, it shows your dereliction in everyway. [3-59-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -1223,8 +1175,6 @@ a demon indeed; *maya* = by me; *shareNa abhihataH shete* = by arrow, hit down, 
 
 "By whom I am detoured from hermitage in the form of a deer he is indeed a demon, and he fell flat when
 my arrow hit him down. [3-59-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -1272,8 +1222,6 @@ svaraH* = piteously, voicing [bewailing]; *keyuura dharaH* = bracelets [and the 
 "When I effortlessly shot an arrow setting on bowstring and stretching the bow to full length, he hit
 by that arrow left deer's body to become a piteously bewailing demon wearing bracelets and the like
 ornaments. [3-59-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 </details>
 
@@ -1329,8 +1277,6 @@ vihaaya* = Maithili, on forsaking.
 "Then hit down by arrow thus, he with an anguished voice that is clearly audible at a very remotely
 place and that which is mimicking my voice, uttered those highly gruesome words, whereby you have come
 here forsaking Maithili." Thus Rama said to Lakshmana on their way to their hermitage. [3-59-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

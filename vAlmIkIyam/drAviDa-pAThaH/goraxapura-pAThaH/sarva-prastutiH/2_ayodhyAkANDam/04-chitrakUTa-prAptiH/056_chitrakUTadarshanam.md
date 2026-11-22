@@ -19,8 +19,6 @@ Seetha, Rama and Lakshmana reach the mountain of Chitrakuta, beholding and showi
 one another the grandeur of the woods there. They visit the hermitage of sage Valmiki. Lakshmana
 builds a leaf-hut upon instructions from Rama. All of them enter the hut, after performing
 purification ceremony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ night; *atiitaayaam* = was passing away.
 
 Then, Rama gently woke up Lakshmana, who was sleeping without break, even when the
 night was passing away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ journey; *sampratiSThaamahe* = let us start.
 
 "Oh, Lakshmana! Hear the sound of wild animals, resounding beautifully. It is time
 for our journey. Let us start."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ sleeping; *pratibodhitaH* = being woken up; *bhraatraa* = by his brother;
 
 That Lakshmana who was sleeping, being woken up by his brother at the right moment,
 had relinquished sleep, sloth and strain which resulted on the way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ _________________
 Thereafter, all of them raised up touched the auspicious water (took bath) in the
 river and proceeded towards the path leading to Chitrakuta mountain, as suggested by the sage
 Bharadwaja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ patra akSiim* = whose eyes looked like lotus leaves.
 
 Rama who set out along with Lakshmana at that dawn, spoke as follows to Seetha whose
 eyes looked like lotus leaves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ in this winter; *aadiiptaan iva* = as if they are blazing up.
 
 "Oh, Seetha! Behold Kimshuka trees with their diadem of flower blossoming all over,
 as if they are blazing up, in this winter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -368,8 +354,6 @@ as if they are blazing up, in this winter."
 
 "Look at these Bhallataka (cashew nut) trees, abounding in flowers and bent down
 with fruits and leaves, all unplucked by men. We can certainly live here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -410,8 +394,6 @@ nage* = in every tree; *lambamaanaani* = the hanging; *madhuuni* = honey-combs;
 
 "Oh, Lakshmana! Behold in every tree the hanging honey-combs, with sizes of a
 water-trough, gathered by honey-bees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -458,8 +440,6 @@ flowers; *natyuuha* = a Chataka bird; *kroshati* = is crying; *shikhii* =
 
 In this beautiful forest-region, dense with a scattered mass of flowers, a Chataka
 bird is crying and a peacock is responding to it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -505,8 +485,6 @@ by a congregation of birds.
 
 "See this Chitrakuta mountain with a high and mighty peak, wide-spread with a
 multitude of elephants and made to resound by a congregation of birds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -547,8 +525,6 @@ multitude of elephants and made to resound by a congregation of birds."
 
 "Oh, brother! We shall sport in this forest of Chitrakuta, having a level-ground
 beautifully extensive with many trees and is pure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -595,8 +571,6 @@ Chitrakuta; *ramyam* = beautiful; *mano ramam* = and (and) pleasant.
 
 Thereafter, Rama and Lakshmana along with Seetha traveling on foot, approached the
 mountain of Chitrakuta, which was pleasant and lovely.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -643,8 +617,6 @@ in flowing water; (Rama said to Lakshmana as follows)
 
 Reaching that mountain, with various flocks of birds, with many roots and fruits,
 lovely and rich in streaming water, Rama said to Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -693,8 +665,6 @@ of trees and creepers; *bahumuulaphalaH* = with various roots and fruits; *ramya
 "It is appearing to me that this beautiful Chitrakuta mountain yields an easy
 sustenance, for, it is charmingly filled with various kinds of trees and creepers with different
 kinds of roots and fruits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -741,8 +711,6 @@ this mountain; *ayam bhavet taavat* = let this become; *vaasaH* = the dwelling;
 
 "Oh, gentle brother! High souled sages are also staying on this mountain. Let this
 become the dwelling. Let us have a pleasant resort here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -784,8 +752,6 @@ Valmiki.
 
 After deciding thus Seetha, Rama and Lakshmana all with joined palms approached the
 hermitage and offered salutation to the sage Valmiki.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -832,8 +798,6 @@ knew what is right; *pramuditaH* = full of delight; *puujayaamaasa* = honoured;
 
 The great sage Valmiki, who knew what is right, full of delight, treated them with
 honour, offered cordial welcome and requested them to sit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -883,8 +847,6 @@ follows)
 
 Then Rama, the lord with mighty arms, in accord with tradition, reported to the
 ascetic all that concerned them and spoke to Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -933,8 +895,6 @@ my mind; *abhiratam* = is fascinated; *vaase* = in dwelling (here)
 
 Lakshmana, my gentle brother! Bring strong and choicest timber and construct a
 dwelling. My mind is fascinated in dwelling here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -986,8 +946,6 @@ annihilator of enemies; *cakre* = constructed; *parNa shaalaam* = a leaf-hut.
 
 Hearing those words of Rama, Lakshmana brought various kinds of trees. Thereafter,
 he the annihilator of enemies, constructed a leaf-hut.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -1036,8 +994,6 @@ closely attentive.
 Seeing that hut, which was firmly built and thatched as well as beautiful to look
 at, Rama spoke the following words to Lakshmana who listened to his command and who was closely
 attentive to him:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -1087,8 +1043,6 @@ wish to live long.
 
 "Oh, Lakshmana! Bring the meat of an antelope. We shall perform a purifactory
 ceremony while entering the house. Which is to be done by those who wish to live long."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
 </details>
@@ -1140,8 +1094,6 @@ done; *anusmara* = keep in mind; *dharmam* = the sacred obligation."
 "Oh, large-eyed Lakshmana! Killing the antelope quickly, bring it here. The
 prescribed rite according to scriptural point of view indeed is to be performed. Keep in mind the
 sacred obligation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
 </details>
@@ -1190,8 +1142,6 @@ slayer of enemies; *aaJNaaya* = understanding; *bhraatruH* = his brother's;
 
 Lakshmana the slayer of enemies, understanding his brother's words, acted as
 instructed. Rama spoke again to Lakshmana as follows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -1242,8 +1192,6 @@ instructed. Rama spoke again to Lakshmana as follows.
 
 "Oh, gentle brother! Boil this antelope's meat. We shall worship the leaf-hut. This
 day and this instant also are of a distinctive character. Be quick."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
 </details>
@@ -1291,8 +1239,6 @@ killing; *medhyam* = the holy; *kR^iSNa mR^igam* = black antelope; *chikSepa*
 
 Then, Lakshmana the strong man and son of Sumitra, killing a holy back antelope,
 tossed it in an ignited fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -1341,8 +1287,6 @@ tossed it in an ignited fire.
 
 Feeling certain that it is cooked and heated thoroughly with no blood remaining,
 Lakshmana spoke to Rama the lion among man as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
 </details>
@@ -1393,8 +1337,6 @@ you are indeed; *kushalaH* = skilled (in such act)
 
 "This black antelope, with its complete limbs, has been cooked completely by me. Oh,
 Rama resembling God! Worship the concerned deity, as you are skilled in that act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
 </details>
@@ -1444,8 +1386,6 @@ chanted; *sarvaan* = all; *mantran* = the sacred scripts; *satraavasaanikaan*
 Rama, the virtuous man and the learned man in chanting of sacred spells, after
 taking bath and with subdued mind, briefly chanted all the sacred scripts to be chanted at the end
 of a purifactory ceremony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -1487,8 +1427,6 @@ with a limitless splendour.
 
 Worshipping all classes of deities and getting himself purified, Rama entered the
 house. There was a heartful joy in rama, with his limitless splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -1566,8 +1504,6 @@ excellent tributes to the deities, for removing sins.
 Comment. Vaishvadeva: A religious ceremony which is to be performed every
 morning and evening and especially before the mid-day meal, followed by offering of food to the
 gods especially the god of fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -1610,8 +1546,6 @@ others)
 Lakshmana erected altars in all the quarters of the hermitage as was fitting,
 Chaityas (places for worship of Lord Ganesha and others) and Ayatanas (places for worship of Vishnu
 and others)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 </details>
 
@@ -1692,8 +1626,6 @@ Rama and Lakshmana along with Seetha, having auspicious characteristics, satisfi
 the sirits by crowns of flowers obtained in the forest, by fruits roots and cooked meat, by water,
 by prayers as uttered in the sacred texts (Vedas), by sacred grass, by fuel and Kusa grass and then
 entered the auspicious leaf-hut.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga56/ayodhyasans56.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

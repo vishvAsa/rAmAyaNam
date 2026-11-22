@@ -20,8 +20,6 @@ After the heavenward journey of Sage Sharabhanga, Rama is approached by
  place. They all ask Rama to eradicate the menace and Rama avows to do so, in order to
  keep up the tranquillity of those hermitages, and also to obliterate the menace of demons
  from earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ After the heavenward journey of Sage Sharabhanga, Rama is approached by
 
 On Sage Sharabhanga attaining heaven, groups of sages assembled and approached
  Rama of Kakutstha dynasty, who is glowing with resplendence. [3-6-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -156,8 +152,6 @@ The *
  to wash their vessels after a meal, without preserving any food for the next meal, for god would
  automatically give their daily bread. The sages called *ashma kuTTa*, are that kind of
  sages who pound their bodies with stones, and thus they pound grain with stones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -178,8 +172,6 @@ Some of them use their own teeth to grid the grain they eat, and some who perfor
  ascesis in neck-deep water, and some who sleep with their head resting on their shoulders or on
  chests without using any kind of bed, and some who do not use any kind of beds either, and some
  who meditate without any repose sitting in an enclosure without any leg-space. [3-6-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -204,8 +196,6 @@ Some of them use their own teeth to grid the grain they eat, and some who perfor
 
 And some sages whose food is water alone, or air alone to some, like that some who
  meditate staying in sky and some who sleep on bare ground itself. [3-6-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -227,8 +217,6 @@ And some sages whose food is water alone, or air alone to some, like that some w
 Thus some are dwellers on high-peaked places with their senses controlled, and
  some are wearers of wet cloths, always reciting name or hymn japa and like that some who meditate
  with five kinds of fire around them. [3-6-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 </details>
@@ -283,8 +271,6 @@ _________________
 
 All have Vedic resplendence and firm yogic control, and they have arrived at the
  hermitage of Sage Sharabhanga for Rama. [3-6-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -345,8 +331,6 @@ The word *
  destination that is Rama. The Omni-Luminescent, , emerged in Kakutstha dynasty as Rama. Knowing
  that, all the sages of higher knowledge have arrived at their 'destination' in this mortal world
  itself... Maheshvara Tirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -420,8 +404,6 @@ We have not heard of any chariot or horse being utilised by Rama, let alone in
  Krishna-Arjuna's chariot too had five-horses. Here the sages with controlled senses, namely
  horses, are asking the one who chariots/spins the earth and earthlings, to take off the children
  of lesser gods, namely demons, far away from humans where humans are god controlled species.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -486,8 +468,6 @@ The above is the apparent meaning. The subtext is "Are you, the supreme
  abiding by father's word, with your usual qualities like abounding virtuousness, safeguarding
  dharma in respect of your own creation/ maintenance..." Thus this is the confrontation-like-
  addressing of the enlightened sages. Maheshvara Tirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -550,8 +530,6 @@ Special supplication to god is a waste. His mercy has to flows on its own
  sages on one hand say that 'you have come here in the incarnation of Rama to eradicate evil...'
  At the same time, they say 'we have an appeal for the same...' This begging off, is as per social
  custom, made to the apparent ruler of the kingdom, not to the innate Divine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -615,8 +593,6 @@ Special supplication to god is a waste. His mercy has to flows on its own
  Rama, of your kingly duties to safeguard us..." Maheshvara Tirtha. atra a
  pramaadena prajaaH samrakShaNiiyaaH - rakShaNaat uttama loka avaaptiH - arakShaNe doShaH ca
  bhavati iti suucitam - dharmaakuutam
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -678,8 +654,6 @@ Special supplication to god is a waste. His mercy has to flows on its own
  always be endeavouring in that manner will attain permanent renown lasting for many for many
  years to come, and thereby he attains a prosperous place even in Brahma's abode... [3-6-12,
  3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -733,8 +707,6 @@ _________________
 "He who righteously protects his subjects will get one fourth of the merit of
  great duty-bound deeds performed by each individual sage, say yajna-s, ascesis, meditation etc.
  performances. [3-6-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -786,8 +758,6 @@ _________________
 "O, Rama, though you are there as protector for the hermitages, suchlike this one,
  where the most reverent Brahmans are there numerously, they look as though forsaken, for they are
  being demolished by demons, devastatingly... [3-6-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -837,8 +807,6 @@ _________________
 
 "Come and see many of the bodies of the sages, the contemplative souls, that are
  variously killed by ghastly demons in the forest... [3-6-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -887,8 +855,6 @@ _________________
 
 "At Pampa riverside, and alongside of River Mandakini, and at the surroundings of
  Mt. Chitrakuta also, this hideous warfare is being done... [3-6-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -937,8 +903,6 @@ _________________
 
 "Thus. we are not able to tolerate this injustice to the sages, being executed in
  this forest by the demons with fiendish deeds, in a ghastly manner... [3-6-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -1005,8 +969,6 @@ It is said as 'you are the only refuge' because there is no pre or post verbs
  which is undesirable.' That is to say: 'we better be given total salvation rather than killed by
  these demons, which is half way through our exercise to attain total salvation.' is the subtext
  of the speech of sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -1069,8 +1031,6 @@ There is no way-out on this earth, for that matter of fact in all the
  *sarva aniSTaaH*, all earthly undesirables. Again coupled with the vocation of 'Oh
  Prince...' it is said as: "you have come here like a prince of Ayodhya, unlike a wild boar, or a
  fish or a man-lion, your earlier incarnations, so remember us and give us salvation...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -1121,8 +1081,6 @@ There is no way-out on this earth, for that matter of fact in all the
 
 On hearing all that is said by the sages of great penance, he that virtue souled
  Rama said this unto all of the sages. [3-6-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -1174,8 +1132,6 @@ _________________
 
 "Unapt is this way of speaking to me...command me, for I am at your behest... just
  for my personal purpose I had to enter the forests.... [3-6-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -1250,8 +1206,6 @@ Rama's saying that 'I am at your command, oh sages...' is indicative of his
 Griffit's Translit: I wait the hests of all of you. / I by mine own
  occasion led / This mighty forest needs must tread, / And while I keep my sire's decree / Your
  lives from threatening foes will free.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -1305,8 +1259,6 @@ _________________
 
 "Perchance I have come for the achievement of your purpose, such as I am, dwelling
  in this forest will immensely be fruitful to me... [3-6-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -1355,8 +1307,6 @@ _________________
 
 "I wish to eliminate demons, the enemies of sages, in war... let the sages behold
  my valour, and my brother's valour in doing so..." Thus Rama promised the sages. [3-6-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 </details>
 
@@ -1414,8 +1364,6 @@ _________________
 Thus giving his aegis to the sages, that valiant Rama who is firmly virtue-souled,
  journeyed towards Sage Suteekshna with Lakshmana and the sages, and along with the one given by
  Honourable Janaka, namely Seetha. [3-6-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

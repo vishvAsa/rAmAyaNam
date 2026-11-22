@@ -31,8 +31,6 @@ whereas Ravana has none to come to his aid when chided by Shurpanakha. Out of to
 this traditional edition, verses from 25 to 62 are unavailable in critical edition, perhaps estimating them to
 be lateral interpolations, and there this chapter is quickly concluded. These verses belong to the exposition
 of 'kingly vices...' on which Tara rationally defends.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -91,8 +89,6 @@ at Rama's orders. [4-33-1]
 
 Angada on informing Sugreeva about the arrival of Lakshmana came back to Lakshmana and invited him to come inside
 Kishkindha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -138,8 +134,6 @@ on seeing; *praanjalayaH sthitaaH babhuuvuH* = with adjoined-palms, stood [back,
 
 On seeing Lakshmana the huge bodied and highly mighty monkeys available at the gateway stood back with their palms
 adjoined in supplication. [4-33-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -188,8 +182,6 @@ aatmajam* = infuriated, at him, Dasharatha's, at son; *dR^iSTvaa* = on seeing; *
 
 But on seeing at the fumingly infuriated son of Dasharatha, all the monkeys have become scared and they did not
 even gather around him. [4-33-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -236,8 +228,6 @@ even gather around him. [4-33-3]
 
 Glorious Lakshmana has seen the splendid Kishkindha which is a colossal cave crafted with jewels, replete with
 flowered orchards and richly rife with gemlike-objects d'art. [4-33-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -288,8 +278,6 @@ relish, [seasonal,] fruits; *puSpitaiH* = blossomed; *vR^ikSaiH* = with trees; *
 Kishkindha is compacted with mansions and multi-storied buildings that are embellished with various precious stones,
 and it is enlivened with blossomed trees that bear fruit of every relish and of every season, and Lakshmana has
 seen such a Kishkindha. [4-33-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -337,8 +325,6 @@ brightened; *dadarsha* = Lakshmana has seen.
 That city is brightened with vanara-s who with their prepossessing appearances are attired in marvellous garlands
 and garments, and who can change their guise just by their wish, as they are the children of gods and gandharva-s,
 and Lakshmana has seen such a city. [4-33-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -396,8 +382,6 @@ The sandalwood paste, aloe scents, lotus scents are used as body rubs. Thus ever
 and due to the continuous preparation of wines prepared from the flowers of *guDa puSpa*, Bassia latifolia,
 or from flowers Lythrum fruticosum, brewed with the juice of sugarcane and also even from grapes, that city itself
 is odorous and the streets are boozy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -447,8 +431,6 @@ Meru, mountain, semblable to; *praasaadaiH* = with buildings; and; *vi malaaH* =
 
 In that city Lakshmana of Raghava dynasty has seen buildings that are not single-storied but multi-storied, semblable
 with Mt. Vindhya and Mt. Meru, and he even saw mountain-rapids with pure water. [4-33-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -523,8 +505,6 @@ On the kings-way Lakshmana has seen the exquisite mansion of Angada, likewise th
 pertaining to the other vanara chiefs, namely Dvivida, Gavaya, Gavaaksha, Gaja, and Sharabha, Vidyunmaali, Sampaati,
 Suuryaaksha, Hanuma, and that of the noble-souled Nala, and even those of Virabaahu, Subaahu, Kumuda, Sushena,
 Lt. Taara, Jambavanta, Dadhivaktra, Niila, Supaatala, and that of Sunetra. [4-33-9, 10, 11, 12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -574,8 +554,6 @@ also.
 
 Those mansions that glitter like silver-clouds, fragrant with scents and festooned with flower-tassels, replete
 with wealth and food grains, are beaming with gemlike female-vanara-s, and Lakshmana saw them on his way. [4-33-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -744,8 +722,6 @@ yielding divine flowers and fruits, and casting cool shades. Excellent garlands 
 robust monkeys wielding weapons are screening its gateways, while its main archway cast in refined golden is splendorous.
 And the very bold Lakshmana unimpededly entered such a fascinating palace of Sugreeva, as with the sun entering
 a colossal cloud. [4-33-14, 15, 16, 17, 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -816,8 +792,6 @@ Passing through a set of seven courtyards in which carriers like palanquins, sed
 over, that duty-bound Lakshmana has seen the highly protected and prodigious palace-chambers of Sugreeva, which
 is stuffed here and there with numerous golden and silver love-beds and divans on which highly valuable upholstery
 is provided. [4-33-19, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -868,8 +842,6 @@ and all are unvarying in cadence, wording and lettering.
 
 On his very entry Lakshmana heard the ongoing melodious tunes of lyrics with pulsing wording and lettering, conjoined
 with strains from string-instruments, like Veena etc., and all have a pulsating cadency. [4-33-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 
 </details>
@@ -916,8 +888,6 @@ prideful of; *bahviiH striyaH* = many, females, dadarsha = saw.
 
 And the great-mighty Lakshmana has seen many females in Sugreeva's palace with diverse features and prideful of
 their beauty and youth. [4-33-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -982,8 +952,6 @@ On observing the females of a worthy bloodline in the palace of Sugreeva, who ar
 flowers, engrossed in making worthwhile flower-tassels and even adorned with worthiest jewellery, he also made
 a mark of the chambermaids. None of them is overawed, overstrained, and everyone is over-embellished in dressiness.
 [4-33-23, 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1033,8 +1001,6 @@ embarrassed, became, to inside the palace-chamber.
 
 Thereafter on hearing the chimes of silver-anklets and tintinnabulations of golden cinctures of female vanara-s
 that refulgent Saumitri is embarrassed to proceed further. [4-33-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1084,8 +1050,6 @@ shabdena puurayan* = compass points, with sound - twang, filling; *jyaa svanam* 
 
 On hearing the tinkles of the jewellery of female vanara-s valiant Lakshmana is highly provoked with an instantaneous
 bitterness, and he twitched bowstring as though to fill all the points of compass with twanging. [4-33-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1142,8 +1106,6 @@ protocols. *anena parasya antaHpure sahasaa na praveSTavyam iti suucitam - dk* L
 his duty consciousness and this seventh heaven like atmosphere is irritating. To vent out his ire there is none
 in his audience, and hence he twanged his bowstring, which communicates his wrath to Sugreeva, who has not yet
 surfaced from the depths of his palace-chambers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1190,8 +1152,6 @@ jerked up.
 
 With that twang of the bowstring the king of fly-jumpers Sugreeva is startled and jerked up from his exquisite
 seat as he ensured that Lakshmana has arrived. [4-33-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1237,8 +1197,6 @@ seat as he ensured that Lakshmana has arrived. [4-33-28]
 
 "As Angada indicated to me earlier, Saumitri, the votary of his brother, has come down on... it is very clear..."
 Thus Sugreeva exclaimed. [4-33-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1288,8 +1246,6 @@ praaptam bubudhe* = Lakshmana, as arrived, made up his mind; *asya mukham ca vya
 
 As has been apprised by Angada earlier, and even now by the twang of bowstring, that vanara Sugreeva made up his
 mind about Lakshmana's arrival, and he has become whey-faced. [4-33-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1336,8 +1292,6 @@ vyagram* = without, impulsiveness - staidly; *uvaaca* = spoke.
 
 The chief of monkeys Sugreeva then staidly spoke this advantageous word to the exquisite lady Tara while his heart
 is bewildered with dismay. [4-33-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1390,8 +1344,6 @@ with some disdain, really what must be the reason for a grudge! [4-33-32]
 The word used *su bhruu* 'good-eye-browed-one' has some relevancy to Tara's composure. Though certain
 people's tongues cheer, their eyebrows chide. Tara is not a double-tongued lady but she speaks her heart in all
 rationality and her eyebrows do not belie what she states.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1438,8 +1390,6 @@ will not, invoke; *khalu* = indeed.
 
 "What do you see as the basis of this young man's spite, oh impeccable Tara, this best one among men will not
 invoke despite, indeed, to a fault. [4-33-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1489,8 +1439,6 @@ immediately, thus, made known.
 
 "If you consider that we have done something objectionable to him, in the least, let that be quickly determined
 by your nimble-wittedness and let that be made known immediately. [4-33-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1536,8 +1484,6 @@ by your nimble-wittedness and let that be made known immediately. [4-33-34]
 
 "Otherwise, oh, lady, you alone are apt to see him in person, and it will be apt of you to appease him with words
 blent with mitigation. [4-33-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1595,8 +1541,6 @@ The real valorous heroes will not exhibit their warring faculties before palace 
 raajasu braahmaNe Shu ca | niyantrya sadaa krodho vR^iddha strii baala rogiShu || dk* On this premise Sugreeva
 is using all his kingly tactics to appease Lakshmana, while Tara is no less in her political thinking, which will
 be evident soon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1643,8 +1587,6 @@ heart; *kamala patra aksham* = lotus-petal-eyed one - Lakshmana; *arindamam* = e
 
 "If you seek his presence with propitiatory words his heart and senses will be pacified, and then I will be able
 to see that lotus-petal-eyed Lakshmana, the destroyer of his enemies." Sugreeva thus spoke to Tara. [4-33-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1714,8 +1656,6 @@ see him any time. Further Lakshmana treats other females as his own mothers, tha
 from these social problems, there is an imminent danger with this Lakshmana, which is more precarious than these
 presentational problems. Hence she rushed to him in 'as is where is' condition concerning herself with the fate
 of Sugreeva and that of Kishkindha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1770,8 +1710,6 @@ coiled] backed down on; *kopam* = anger; *avaa~N mukhaH aabhuut* = down, faced, 
 
 On observing the wife of the king of monkeys, the great-souled son of the king of humans stood aside unemotionally,
 and because of the presence of females he backed down on his anger with his face cast down. [4-33-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1827,8 +1765,6 @@ friendliness, bold in speech - dauntless; *vaakyam uvaaca* = sentence, spoke.
 She who is unblushing by virtue of her inebriety ad even by the gracious look of the prince Lakshmana, such a
 Tara spoke a highly noteworthy sentence that is dauntless in friendliness and entirely mitigatory in its vein.
 [4-33-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1889,8 +1825,6 @@ doubt - without a shadow of doubt; *aasiidati* = drawing nigh.
 "Oh, prince, what is the cause of your anger? Who is not abiding by your oral order? And who is he that draweth
 nigh of a wildfire that is befalling on a forest of dried-up trees, without a shadow of doubt?" Tara enquired
 thus with Lakshmana. [4-33-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1937,8 +1871,6 @@ thus with Lakshmana. [4-33-41]
 
 On hearing her words which are with a prelude of propitiation, and which by far evince friendship for all practical
 purposes, Lakshmana trustfully spoke these words. [4-33-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -1986,8 +1918,6 @@ to you, or what.
 
 "Oh, Tara, the associate of husband's prosperity! Why your husband is bound up in profligacy alone, remiss in
 garnering rectitude and riches, and his dereliction is unbeknownst to you, is it! [4-33-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2037,8 +1967,6 @@ to.
 
 "Without thinking either about the interests of the kingdom or about us that are cringing to anguish, oh, Tara,
 your husband along with his council of ministers is indulged in lechery. [4-33-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2084,8 +2012,6 @@ months, criterion, on making - stipulating an embargo; *mada udagraH* = insensib
 
 "On stipulating a four month criterion for an embargo the king of fly-jumpers is not able to realise the completion
 of that period as he is frantically insensible. [4-33-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2132,8 +2058,6 @@ to ruin.
 
 "For the purpose of achieving rightly rectitude and rightful riches this way of bacchanalia is inappreciable,
 isn't it! Just going on drinking will bring prosperity, aspirations and even probity to ruin. [4-33-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2182,8 +2106,6 @@ his purposes.
 "If one is not going to requite the favour done in his respect an awful detriment occurs in his own rectitude,
 isn't it. Thereby, that reneger will loose a highly noble friend and thereby a great shortcoming occurs to him
 in achieving his purposes. Thus a threefold ill befalls on that reneger. [4-33-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2231,8 +2153,6 @@ na tu* = in probity, standing by, not even.
 "Indeed a friend avowed to truthfulness and virtuousness is greater than one's own means and aspirations, but
 you husband forsaking that pair of his means and aspirations that have been fulfilled by such a righteous friend,
 he is not even standing by the probity. [4-33-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2284,8 +2204,6 @@ apt of you.
 "Therefore, when our present task is standstill in this way due to the bouts of your husband, oh, the knower of
 the brunt of tasks, what is it we can undertake hereafter...you yourself may aptly give an example..." Thus, Lakshmana
 spoke curtly to Tara. [4-33-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2344,8 +2262,6 @@ that the purpose of Rama is lapsed, but having confidence in ultimate success sh
 On hearing his words containing means, merit and reconciliation, and of mellowly tendency of Lakshmana, and even
 on realizing the lapse committed by Sugreeva in the purpose of Rama, yet reposing her confidence in Sugreeva's
 capability to achieve results, she again said to Lakshmana. [4-33-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2405,8 +2321,6 @@ of you.
 
 "Oh, prince, this not the time for angering, also your own people shall not be subjected to anger, and it will
 be apt of you to tolerate Sugreeva's fault because he is desirous of achieving results for you. [4-33-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2464,8 +2378,6 @@ How in name can a meritoriously high-minded being will show his anger on a relat
 say Sugreeva, whose mightiest brother's mightiness and essence, say that of Vali, are deducted by none other but
 by your brother associated with you, and oh, lad, who goes into the control of fury, say of your kind, while he
 is restrained by his perfection, and a source of abstemiousness. [4-33-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2522,8 +2434,6 @@ even, I am aware of.
 "I am aware of the fury of Rama, the friend of champion of the monkeys, namely Sugreeva, I am also aware of the
 time lapse in the task, I am even aware of the folly we have committed, and what need be done in this matter,
 I am well aware. [4-33-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2583,8 +2493,6 @@ am equally aware of those female vanara-s with whom Sugreeva is now incessantly 
 
 The females with whom Sugreeva is bound up are his wives, and there may be a self-forgetting involvement but there
 is no illegitimacy in it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2645,8 +2553,6 @@ in, man - humans; *desha kaalau* = place, time; *na avekshate hi* = will not, ob
 "Gauging by your mindset which is presently bridled by fury, you appear to be disinclined towards spells of sensualities,
 thus these aspects are past your comprehension. All right! If a man were to be voluptuary he will be inadvertent
 of place and time, isn't it! Then, how about ethicalities, or rights and wrongs? [4-33-55]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2702,8 +2608,6 @@ ca* = in lusty, vehemence, also; *vimukta lajjam* = one who shunned, decency; su
 "He who shunned decency because of the vehemence of randiness, oh, the eradicator of braving enemies, and he who
 is delighting in lust is consorted with me, ergo condone your brother-like Sugreeva, the protector of Vaanara
 dynasty. [4-33-56]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2769,8 +2673,6 @@ katham pari hartum shakya iti uktam - tathaa ca praaciinaaH - vishvaamitra paraa
 parNa ashanaaH te api strii mukha pankajam sulalitam dR^iShTvaiva moham gataaH | dk 'when the great sages
 like Vishvamitra and Paraashara, who thrive on air, water and leaves, when sensed the delicate scent of the face of
 a female, they are lured by those females...' an ancient saying.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2826,8 +2728,6 @@ husband's, in wellbeing of; *idam vaakyam babhaaSe* = this, sentence, spoke.
 She that vanara female Tara whose eyes are fluttery under the influence having said this way, she again picked
 up where she left off and sentimentally spoke this sentence to Lakshmana whose brunt is inestimable, in the interest
 of her husband's wellbeing. [4-33-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2873,8 +2773,6 @@ achieving; *udyogaH tu* = endeavour, on its part; *cira aaj~naptaH* = long ago, 
 
 "On the part of his endeavour in your task, oh, best one among men, he has ordered long before for its operation
 aiming to achieve your objective, despite of the fact that he is servile to overindulgence. [4-33-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2920,8 +2818,6 @@ thousands; *harayaH aagataa hi* = monkeys, have come, by all means.
 
 "By all means, marvellously intrepid Vanara-s that are the residents of various mountains and that can change
 gusie just by their wish have come in hundreds, in thousands, in millions. [4-33-60]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -2970,8 +2866,6 @@ not, impolite.
 to behold womenfolk inside, and enough is this upholding of tradition by you. Oh, come on, peering at the wives
 of friends with a friendly intent is not at all impolite for good-willers." Thus Tara affectionately invited Lakshmana
 inside the palace-chambers. [4-33-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -3020,8 +2914,6 @@ hastened; pravivesha abhyantaram [mandiram, or, abhi antaram] entered, select-ch
 
 Welcomed by Tara and hastened by haste of his duty, that dextrous enemy-destroyer Lakshmana entered the select-chambers.
 [4-33-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -3121,8 +3013,6 @@ wearing exquisite garlands and robes, who is glorious with a marvellous appearan
 as with Indra, and who is presently enwreathed with vanara-females who are also bedecked with precious ornamentation
 and garlands, and on seeing him Lakshmana with franticly bloodshot eyes appeared as the Terminator. [4-33-63,
 64, 65]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 </details>
 
@@ -3183,8 +3073,6 @@ that Sugreeva; *a diina sattvam* = one who is - un, flinching, in quintessence; 
 Sugreeva whose complexion is like that of rich gold is seated on an exquisite seat tightly hugging his wife Ruma,
 and that brave one has seen Lakshmana whose quintessence is never-flinching, thus, that suspiciously wide-eyed
 Sugreeva made sheep eyes at the furiously broad-eyed Lakshmana. [4-33-66]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

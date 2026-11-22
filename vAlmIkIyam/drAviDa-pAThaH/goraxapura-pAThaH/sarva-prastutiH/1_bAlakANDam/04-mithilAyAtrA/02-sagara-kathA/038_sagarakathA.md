@@ -18,8 +18,6 @@ Sage Vishvamitra narrates the legend of Sagara, the earliest King of
  Ayodhya and Rama's forefather, who is childless, but who begets
  sixty thousand sons of merit and one son of demerit. Emperor Sagara
  is the one who brought celestial Ganga onto the surface of earth..
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ Sage Vishvamitra narrates the legend of Sagara, the earliest King of
 Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
  namely sage Vishvamitra has further spoken this best sentence worded
  melodiously to Rama, the descendent of Kakutstha. [1-38-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 "Once there was a valiant and virtue-souled king of Ayodhya named Sagara,
  who is without offspring, as such he was longing for offspring. [1-38-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 "The daughter of King of Vidarbha, renowned by name Keshini, is the
  eldest wife of Sagara, and she was virtue-minded, and an advocate of
  truth. [1-38-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 "The daughter of Arishtanemi, namely sage Kashyapa, and who is also
  the sister of Garuda, the Divine-Eagle-vehicle of Vishnu, is the second
  wife of Sagara, who is known by the name Sumati. [1-38-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 *The Mt. Brugu-prsravana is said to be among Himalayan range on which
  the kindness of Sage Bhrigu is ever- flowing.*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 "On completion of a hundred years of ascesis, and when the Sage Bhrugu
  is worshipped with asceticism, that sage who is a prominent one among
  the patrons of truth bestowed a boon to Sagara. [1-38-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -359,8 +345,6 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 *" 'Oh, merited one, you will achieve very admirable progeny, and
  oh, best one among men, you will also acquire an unparalleled renown
  in the world. [1-38-7]*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -409,8 +393,6 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 " 'One of your wives will mother a son who enriches your dynasty, oh,
  dear sire, and the other mothers sixty thousand sons.' Said Sage Bhrigu
  to Sagara. [1-38-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -455,8 +437,6 @@ Highly gladdened are the daughters of kings of Vidarbha and Aristanemi,
  i.e., the queens of Sagara, and on making palm-fold in supplication
  at the sage who is speaking that way, and on gaining the grace of that
  sage they spoke to him. [1-38-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -503,8 +483,6 @@ _________________
  begets numerous sons, we two wish to listen about that, oh, Brahman,
  let your word betide truth.' Thus, the queens of Sagara spoke to the
  sage. [1-38-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -550,8 +528,6 @@ _________________
 
 On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
  your freewill be brought to bear this issue'. [1-38-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -571,8 +547,6 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
  sons who will be highly energetic, highly renowned, and highly enthusiastic.
  Who wants which boon from either of them?' Thus, the Sage gave them
  the option. [1-38-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -615,8 +589,6 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 "On listening the words of the sage, oh, Rama, oh, delighter of Raghu's
  dynasty, the first queen Keshini has chosen one son who enriches the
  dynasty in the presence of King Sagara. [1-38-13]]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -659,8 +631,6 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 "Sumati, the sister of mighty-winged Garuda and the second queen of
  Sagara has then chosen sixty thousand sons with great enthusiasm and
  high reputation. [1-38-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -709,8 +679,6 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 "On performing circumambulations to the Sage Bhrigu along with wives,
  oh, Raghu's scion, also on reverencing him head-bent, the king Sagara
  proceeded to his own city. [1-38-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -757,8 +725,6 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 
 When the time rolled by then the elder wife Keshini gave birth to the
  son of Sagara who is reputed by the name Asamanja. [1-38-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -806,8 +772,6 @@ But the second queen Sumati on part, oh, tigerly-man Rama, verily
  delivered a round and long egg which is like a single gourd, and on
  breaking it up sixty thousand sons are issued forth from that cucumber
  like egg. [1-38-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -851,8 +815,6 @@ But the second queen Sumati on part, oh, tigerly-man Rama, verily
 The childminders brought up those siblings in vessels filled with ghee,
  the clarified butter, and after a protracted time all of the children
  have attained youthfulness. [1-38-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -893,8 +855,6 @@ The childminders brought up those siblings in vessels filled with ghee,
 
 After a long time the sixty thousand sons of king Sagara have become
  youthful, and handsome in their aspects. [1-38-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -946,8 +906,6 @@ But, oh, best one among men, oh, Rama, the elder son of the king Sagara,
  namely Asamanja, always used to grab and hurl children into the waters
  of River Sarayu, and on seeing the drowning children he used to enjoy
  with laughter. [1-38-20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -994,8 +952,6 @@ This way, when that son Asamanja is with sinister activity, a torturer
 
 This Asamanja appears to be the person from the first-generation of
  sadistic child abusers, prior to Kamsa of Bhagavata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -1038,8 +994,6 @@ This Asamanja appears to be the person from the first-generation of
 But Asamanja's son is a valorous one, who by name is Anshuman, and who
  is an acceptable one for all people and who fondly converses with all.
  [1-38 -22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -1081,8 +1035,6 @@ But Asamanja's son is a valorous one, who by name is Anshuman, and who
 "Oh, best one among men, Rama, then after along time a decided thought
  has occurred to king Sagara that, 'I shall perform a Vedic-ritual.'[1-38-23b,
  24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 </details>
 
@@ -1130,8 +1082,6 @@ That king Sagara who is an expert in Vedic-procedures has then taken
  a decision along with the assemblages of his religious-teachers insofar
  as the procedures of the ritual are concerned, and he commenced to perform
  the Vedic-ritual. [1-38-24b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

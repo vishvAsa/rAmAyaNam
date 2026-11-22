@@ -59,8 +59,6 @@ monarch.
 
 Thereafter, Kausalya afflicted with grief of her son and seeing the king lying down
 depressed with sorrow, spoke to the monarch as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -108,8 +106,6 @@ slough.
 
 "Having planted her poison on Rama the tiger among men, indeed Kaikeyi of crooked
 ways will surely wander about freely like a female serpent that has cast off its slough"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -159,8 +155,6 @@ on me; *dushhTaahiriva* = like a dangerous serpent; *veshmani* = in the hous.
 
 "Having fulfilled her desire of expelling Rama to the forest, Kaikeyi the charming
 woman will frighten by clamping down upon me, like a dangerous serpent in the house."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -209,8 +203,6 @@ the house;kaama kaaraH = by doing the work entrusted ; *charan* = and roaming ab
 "Even giving my son to her as a slave would have been better. By that Rama would
 have at least stayed in the house by doing the work entrusted by her and roaming about in the city,
 asking alms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -262,8 +254,6 @@ to; *rakshhasaam* = ogres; *parvaNi* = on a new or full moon; *aahitaagninaa*
 "Having willfully thrown Rama out of his position, Kaikeyi has acted in the same way
 as one who tends the sacred fire throws a part of the sacrifice to ogres on a new or full
 moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -311,8 +301,6 @@ forest.
 
 Together with his wife, accompanied by Lakshmana and walking like king of elephants
 having a bow in hand, the mighty armed hero surely will have entered the forest "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -363,8 +351,6 @@ Kaikeyi.
 
 " In the forest, what fate will befall them who had never seen such a suffering
 before and who have been sent by you to a forest life as per the wishes of Kaikeyi?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -415,8 +401,6 @@ fruits and roots;kR^itaashanaaH = to be eaten.
 "Devoid of riches, those youthful beings, in exile at the age when they should be
 enjoying diversions of every kind, how are they to live in misery, having only roots and fruits for
 their nourishment?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -463,8 +447,6 @@ Rama;sabhaaryam = with his wife;saha bhraataa = along with his brother; *iha* = 
 
 "When that auspicious hour will come to me that will bring an end to my sorrows and
 I shall see Rama with his wife and brother returning here?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -513,8 +495,6 @@ maalinii* = and be adorned with rows of towering banners.
 "When will Ayodhya regain her pristine glory, with people thrilling with rapture and
 be adorned with rows of towering banners the moment it hears of the two heroic princes (Rama and
 Lakshmana) being present ? "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -562,8 +542,6 @@ forest?".
 
 "When will the city rejoice like an ocean swelling jubilantly on a full moon night
 to perceive the two princes who are tigers among men come back from the forest? "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -610,8 +588,6 @@ to perceive the two princes who are tigers among men come back from the forest? 
 
 "When will the mighty armed hero (Rama) enter the city of Ayodhya placing Sita in
 his front in the chariot as a bull would follow a cow?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -659,8 +635,6 @@ the city?"
 
 "When will thousands of men shower the parched grains of paddy on the royal highway
 over my two sons (Rama and Lakshmana) the subduer of their enemies, entering the city?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -707,8 +681,6 @@ Ayodhya;parvataaviva = like(a pair of mountains) ;sashR^ngou = crowned with peak
 
 "When shall I see the two princes adorned with splendid ear-rings and armed with
 excellent bows and swords, entering Ayodhya like a pair of mountains crowned with peaks?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -752,8 +724,6 @@ fruits; *kanyaa dvijaatiinaam* = to virgins and brahmanas?"
 
 +++(Wrong - hindI translation is correct.)+++ "When will those two princes with Sita merrily go round the city clockwise, giving
 away flowers and fruits to virgins and brahmanas?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -805,8 +775,6 @@ crops).
 
 "When will the pious Rama, grown ripe in intellect and shining like a god in point
 of age ,return to me, cherishing the world like the proportious and timely rain?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -854,8 +822,6 @@ them."
 
 "Undoubtedly in some past life, through mean-mindedness, Oh, valiant king, I believe
 that the teats of cows were cut off by me while their calves were longing to suck them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -904,8 +870,6 @@ Kaikeyi; *gouriva* = as a cow; *baalavatsaa* = having a calf of tender age;
 "Oh, tiger among heroes! Fond of my child like a cow, I, as such was forcibly
 deprived of my child by Kaikeyi in the same way as a cow having a calf of tender age may be
 deprived of her calf by a lion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -952,8 +916,6 @@ shaastra vishaaradam* = well-versed in all scriptures."
 
 "I cannot indeed wish to survive without my only son who is adorned with all virtues
 and is well-versed in all scriptures."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -1004,8 +966,6 @@ strength."
 
 "There is not the least capacity imaginable in me to sustain my life here so long as
 I fail to perceive my beloved son (Rama) who is mighty armed and Lakshmana of great strength"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 </details>
 
@@ -1061,8 +1021,6 @@ torturing; *maam* = me; *bhagavaan* = as the illustrious; *divaakaraH* = sun;
 "This fire born of grief occasioned by separation from my son, is torturing me in
 the same way as the illustrious sun, possessed of greatest splendor, scorches this earth with its
 rays in summer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

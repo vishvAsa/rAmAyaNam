@@ -18,8 +18,6 @@ Rama requests Sage Agastya to indicate a place in the forest to make a residence
 during the days of exile. Sage Agastya foresees the next course of Ramayana, and orients his
 conversation around womanhood and Seetha. Then that sage informs Rama to proceed to Panchavati
 where Seetha will be delightful of its surroundings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ Seetha, me, to pay respects, arrived, you have.
 
 " I am delighted Rama, safe you be, oh Lakshmana, well-contended I am for you have
 come to pay respects to me along with Seetha. [3-13-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ and it is evident from the sweat above your necks, even much more for Janaka's d
 The word *utkaNTha* is interpreted in two ways. One is *ut kaNTha*
 above neck, sides of face; the other being the anxiousness to get some rest. Thus, they are either
 wet with sweat or also anxious to get rest after a long trek in woods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ praptaa* = highly, detrimental, forests, she came to.
 
 "She is delicate and not discomforted by such distresses earlier, yet motivated by
 her friendship she came to these highly detrimental forests. [3-13-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ possible [impossible,] [deed] she has done.*
 *"In which way Seetha takes delight in these forests, Rama, that you may ensure
 to her, for she has done an impossible deed in following you to forests, an impossible deed for
 womenfolk, in general. [3-13-4]*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ stham tyajanti ca* = in ill fortune, leave off.*
 "From the beginning of creation the nature of women is this way only, oh scion of
 Raghu, they devote themselves to their men in good fortune, but they leave them off in ill fortune.
 [3-13-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -334,8 +322,6 @@ conformable. [3-13-6]*
 capricious are the women's hearts with the speed of lightning, and razor sharp will be their
 attitude to cut-off the age-old friendship, if they are ill at ease, and they sever relations with
 the speediness of an eagle or a gust.*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -389,8 +375,6 @@ Lady Arundhati is the wife of Sage Vashishta, an exemplary lady in devotion to
 her husband and she has become a star in the sky by virtue of that devotion. Even today in
 marriages, at the close of all observances, this star in skies is shown to the bride imbuing a
 sense of devotion to her bridegroom, may it be in noontime.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -438,8 +422,6 @@ also, glorified.*
 "Where you wish to put up along with Lakshmana and with this Seetha, oh,
 enemy-destroyer Rama, that province shall be glorified." So said Sage Agastya to Rama."
 [3-13-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -486,8 +468,6 @@ amiable, sentence.
 
 Thus said by the sage, Raghava spoke amiable this sentence adjoining his palms to
 the sage who is glowing like a ritual-fire. [3-13-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -534,8 +514,6 @@ I am; *anu gR^ihiitaH asmi* = blessed, I am.**
 
 "I am privileged and blessed as my mentor and the eminent age is well pleased with
 the virtues of my brother and wife which are non-dissimilar to mine. [3-13-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -583,8 +561,6 @@ kaananam* = many, forests; *vyaadisha[vi aa dish] be directed, be shown.***
 *"But a place with water and many forests may please be shown, where I can reside
 happily and self-composedly on erecting a hermitage." Thus Rama asked the Sage Agastya.
 [3-13-11]*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -643,8 +619,6 @@ Seetha's abduction and Rama's elimination of Ravana etc by his yogic power, he s
 at Panchavati. This is because, he himself is courageous sage in eliminating the demons, trusting
 that Rama also will do the same, he has shown a place which has many forests' around it, that too
 as Rama desired.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -695,8 +669,6 @@ yojana* = from here, two yojana-s.*
 "A most prosperous place called Panchavati is there at a distance of two yojana-s
 from here, oh, dear Rama, which is abundant with tubers, fruits, water, and many deer." Thus
 Agastya started to tell. [3-13-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -743,8 +715,6 @@ pituH vaakyam anupaalayan* = as, decreed, father's, sentence [order], complying 
 
 *"On your going there along with Saumitri, and on erecting a hermitage you may
 take delight in there complying the decreed order of your father. [3-13-14]*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -794,8 +764,6 @@ indeed.**
 
 *"Indeed all of this episode of yours is known to me, oh, merited one, by the
 ability of my asceticism, and also by my friendship with Dasharatha. [3-13-15]*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -846,8 +814,6 @@ you go, thus as, to you, I am, telling [advising.]***
 "I am in the know of your heartfelt certitude by my ascesis, thereby I wish to
 advise you to go to Panchavati, though I said that you may dwell in these ascetic-woods along with
 me. [3-13-16, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -894,8 +860,6 @@ praiseworthy, also; *[because it is]; *na ati duure ca* = not, very, far off, al
 
 "That woodland will be delightful, isn't it Raghava, for it is praiseworthy and not
 very far off from here, and Seetha can take delight in there. [3-13-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -966,8 +930,6 @@ tathaa eva ca* = meritorious, like that, even, also ramyaH = appealing one.
 "There Maithili will take delight nearby River Godavari, and it is with abundant
 tubers, fruits, various are its bird flocks, and it is very reclusive too, oh, great dextrous Rama,
 further it is meritorious and appealing. [3-13-18b, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -1014,8 +976,6 @@ further it is meritorious and appealing. [3-13-18b, 19]
 
 "Even you, Rama, with your good deportment are capable to safeguard the hermits
 while residing there. [3-13-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -1073,8 +1033,6 @@ gacChataa gantavyam* = banyan tree, also, on advancing towards, you have to proc
 
 "Oh, brave one, you see this great forest of flower-liquor trees, you have to
 proceed north of it and advance towards a banyan tree. [3-13-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1091,8 +1049,6 @@ there.]*
 "Then on climbing up an upland a mountain is seen, that which is also not far away,
 and that renowned Panchavati is there in an ever-blooming forest in the valley of that mountain."
 Said Sage Agastya to Rama. [3-13-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -1139,8 +1095,6 @@ farewell.*
 
 When thus said by Sage Agastya, Rama along with Soumitri venerated and bade farewell
 to that truth advocator sage Agastya. [3-13-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -1189,8 +1143,6 @@ to Panchavati; *jagmatuH* = proceeded.
 Thus well bidden by Sage Agastya those two Rama and Lakshmana have offered their
 venerations at the feet of that sage and proceeded to their prospective hermitage at Panchavati
 along with Seetha. [3-12-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 </details>
 
@@ -1250,8 +1202,6 @@ to Panchavati, proceeded.*
 Those princes that are dauntless in war took up their bows and braced up their
 quivers, and resolutely proceeded to Panchavati on the route apprised by that great sage Agastya.
 [3-13-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

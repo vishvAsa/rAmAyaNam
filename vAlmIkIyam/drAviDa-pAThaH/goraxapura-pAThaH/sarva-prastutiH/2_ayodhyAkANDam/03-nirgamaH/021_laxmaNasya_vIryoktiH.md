@@ -16,8 +16,6 @@ title_english = "021 Rama consoles angry Lakshmana"
 **Book II : Ayodhya Kanda - Book Of Ayodhya**
 
 This chapter describes Lakshmana's anger and Rama consoling Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ kausalyyaam* = to that kausalya; *rama maataram* = Rama's mother; *tathaa* = thu
 
 Lakshmana became dejected and spoke these words, properly befitting for that time, to
 that Rama's mother Kausalya who was thus weeping.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ that Rama's mother Kausalya who was thus weeping.
 
 "Oh, the honoured lady ! I also do not like Rama to be influenced by the words of a woman
 and go to the forest, leaving the prosperous kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -141,8 +135,6 @@ he not talk; *kimiva* = of anything; *chodyamaanaH* = prompted (by Kaikeyi).
 
 "The king with perverted mind, of old age, one who is outraged by sensual enjoyments
 and possessed of passion can talk any thing, prompted by Kaikeyi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -189,8 +181,6 @@ and possessed of passion can talk any thing, prompted by Kaikeyi."
 
 "I can not see any offence or cause for blame in Rama that can expel him from the state
 to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -240,8 +230,6 @@ is; *svamitro api* = even an enemy; *nirasto api* = or an expellee."
 
 I have not seen in this world any person, whether an enemy or an expellee, speaking ill
 of Rama indirectly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -288,8 +276,6 @@ self-restrained; *vatsalam* = who is affectionate; *R^ipuuNaamapi* = even toward
 
 "Can anybody observing ethicalness, causelessly get rid of a son who is equal to god
 who is honest, who is self-restrained and who is affectionate even towards adversaries?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -336,8 +322,6 @@ childhood punaH = again?"
 
 "Which son, knowing royal usage, can agree to the words of this king who is behaving
 as though he got childhood again?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -384,8 +368,6 @@ mayaa sa ardham* = together with me."
 
 "Even before others get to know about this matter, make this dominion your own, with
 my help."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -432,8 +414,6 @@ my help."
 
 "Oh, Rama! While I am standing by your side along with a bow, protecting you who are
 standing as God of Death, who is capable of doing too much ?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -480,8 +460,6 @@ standing as God of Death, who is capable of doing too much ?"
 
 "Oh, Rama, the best of men! If the city of Ayodhya turns against you, I shall make it
 desolate of men with sharp arrows"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -528,8 +506,6 @@ soft person; *paribhuuyate hi* = indeed gets disgraced."
 
 "I shall kill all those who are siding Bharata ,and are favourable to him. Soft person
 indeed gets disgraced!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -581,8 +557,6 @@ attachment; *vaadhyataamapi* = and be killed!"
 
 "If our father with an evil mind behaves like our enemy with instigation by Kaikeyi.
 I shall keep him imprisoned with out personal attachment or if necessary, kill him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -632,8 +606,6 @@ is arrogant; *ajaanataH* = who does not know; *kaaryaakaaryam* = good and evil a
 
 "Even a venerable person is to be punished, if he becomes arrogant, if he does not know
 good and evil actions and if he takes to a wrong route."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -680,8 +652,6 @@ kingdom; *tava sthitam* = belonging to you; *kaikeyyai* = for Kaikeyi.
 
 "Oh, Rama, the best of men! On what strength or season has he taken shelter to give away
 this kingdom belonging to you to Kaikeyi?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -728,8 +698,6 @@ rank; *bharataaya* = to Bharata; *kR^itvaa* = by making; *anuttamam* = great;
 
 "Oh, Rama the chestiser of enemies! Where is the ability for him to give kingdom to Bharata,
 by making great enmity against you and me "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -776,8 +744,6 @@ by making great enmity against you and me "
 
 "Oh, queen! Really, I am devotedly attached to my brother Rama. I am swearing an oath
 to you by truth by bow, by the act of giving and by the act of sacrifice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -824,8 +790,6 @@ avadhaaraya = make certain; *puurvam* = even before; *maam* = mine; *pravishhTam
 
 "Oh, queen! If Rama can enter blazing fire or forest, you make certain that even before,
 I can enter there"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -872,8 +836,6 @@ viiryaat* = by my valour; *tama iva* = as darkness; *uditaH* = by rising; *suury
 
 "I shall alleviate your grief, by showing my valour like the rising sun alleviating darkness
 .Let Rama and yourself see my valour"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -923,8 +885,6 @@ _________________
 
 Hearing these words of Lakshmana the magnanimous, Kausalya entirely given up to anguish
 and weaping, spoke thus to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -971,8 +931,6 @@ to be done; *anantaram* = immediately after."
 
 "Oh, son !You have heard the words of Lakshmana .If you agree, you do what is to be done,
 immediately."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1019,8 +977,6 @@ immediately."
 
 "It is not proper for you to go away from here, leaving me afflicted with grief, after
 hearing the un-just words spoken by my co-wife."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1067,8 +1023,6 @@ man; *ihasthaH* = stay here; *shushruushha* = serve maam = me chara = practice a
 
 "Oh, Rama! You are righteous man. If you desire to practice virtue, be a virtuous man
 and stay here serving me thereby practicing the best morality in the form of serving your mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1118,8 +1072,6 @@ the mother; *gataH* = went; *tridivam* = to heaven"
 
 "Oh, son! Formerly Kasyapa was staying in his own house itself with self restraint, performed
 great austerity by serving his mother and went to heaven"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1166,8 +1118,6 @@ feeling; *te* = to you; *puUjyaH* = is worthy of worship; *aham* = I am also;
 
 "Just as the king, by respectable feeling to you is worthy of worship, so also being
 your mother, I am worthy of worship to you. Hence, do not go to the forest"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1214,8 +1164,6 @@ me; *shreyaH* = it is good; *bhakshhaNam api* = even to eat; *tR^iNaanaam* = gra
 
 "After your separation, I shall have no use of this life or comforts for me, it is good
 even to eat grass while staying with you"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1265,8 +1213,6 @@ hi* = Indeed; I shall not be able; *jiivutum* = to live
 
 "I shall not live if you leave for the forest, leaving me who is afflicted with grief.
 I shall seek death through starvation"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1314,8 +1260,6 @@ I shall seek death through starvation"
 "Oh, son! If I fast myself to death for your sake, you will attain the universally famous
 hell, like the god of the ocean obtaining trouble because of his un justice behaviour, towards the sage
 called Pippalada, producing the latter's wrath."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1364,8 +1308,6 @@ thus; *vilapantiim* = weaping; *diinaam* = miserably.
 
 The honest Rama spoke these virtuous words to his mother Kausalya, who was thus weeping
 miserably.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 
 </details>
@@ -1413,8 +1355,6 @@ for me ; *samatikramitum* = to violet; *pituH* = father's; *vaakyam* = words;
 
 "I am not able to violate my father's words. I am bowing my head and asking your favour.
 I shall have to go to the forest"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1461,8 +1401,6 @@ I shall have to go to the forest"
 
 "A sage called Kandu, who knew righteousness, who performed religious vows and who was
 a learned man, killed even a cow, acting as per his father's words"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1509,8 +1447,6 @@ a learned man, killed even a cow, acting as per his father's words"
 
 "Previously, the sons of Sagara belonging to our race, were got bitterly digging up the
 earth, as commanded by their father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1560,8 +1496,6 @@ words; *pituH* = of father;
 
 "Parasu Rama, the son of Jamadagni personally slayed his mother Renuka in the forest
 with an axe as per his father's words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1608,8 +1542,6 @@ hitam = assignment"
 
 "Oh, mother! These and many others who were equivalent to gods, did not make their father'
 s words to go waste. I shall also do what is desired by my father"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1656,8 +1588,6 @@ these; *ye* = who kiirtitaa = were; *mentioned tava* = to you; *mayaa* = by me;
 
 "Oh, mother! I am not the only person to act according to father's command. Those I have
 mentioned to you hitherto also complied with their father's command."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1704,8 +1634,6 @@ you; *anugamyate* = I am following; *ayam* = this; *maargam* = way; *abhipretaH*
 
 "I am not setting any new contradicting customary conduct for your sake. I am adhering
 to the way agreed and followed by the ancient."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1752,8 +1680,6 @@ mayaa* = by me; *tat etat* = than such of this; *kaaryam* = practice; *bhuvi*
 
 "I cannot do otherwise than acting in accordance with father's words, the prevalent practice
 on earth. There is no deprivation indeed for anyone who complies with father's commands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1800,8 +1726,6 @@ speech; *shreshhTaH* = the best; *sarva dhanushhTataam* = of all those wearing t
 
 Rama, the best of those who speak skilfully and the best of all those wearing the bow,
 spoke thus to his mother and turned round to Lakshmana to speak.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1846,8 +1770,6 @@ anuttamam = highest sneham = affection mayi = in me vikramam chaiva = heroic val
 
 "Oh, Lakshmana ! I know your highest affection towards me, your heroic valour ,your strength
 and your unassailable splendour ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1898,8 +1820,6 @@ duHkham* = there is an unqualled and great grief; *mama maatuH* = to my mother; 
 
 " Oh, Lakshmana, with good attributes! My mother is feeling a great and unequalled sorrow,
 by not knowing the secret of truth and tranquillity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1946,8 +1866,6 @@ dharma* = in righteousness; *etat* = these; *uttamam* = best; *vachanamcha*
 
 "Righteousness is the best of all qualities in the world. Truth is established in righteousness.
 Even these best words of father are enjoined with righteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -1994,8 +1912,6 @@ is aashritya = following; *dharmam* = righteousness; *nakartavyam* = is not obli
 
 "One who follows righteousness, does not waste his promise given to one's father or mother
 or Brahmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2042,8 +1958,6 @@ or Brahmana."
 
 " I cannot transgress my father's command. On the word given by my father only, Kaikeyi
 instigated me to go to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2093,8 +2007,6 @@ _________________
 
 "Hence, leave this mean mentality of military heroism. Observe righteousness and not
 rudeness. follow my perception."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2141,8 +2053,6 @@ uvaacha* = spoke; *bhuuyaH* = again; *kausalyaam* = to Kausalya.
 
 Rama spoke thus to his brother affectionately, bowed to his mother and with folded hands,
 spoke again to Kausalya as follows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2188,8 +2098,6 @@ me; *gamishhyantam* = who is about to go; *vanam* = to forest; *shaapitaa asi*
 
 "OH, mother! I have decided to go to forest. Please give me permission. I am swearing
 to you on my life. Please invoke blessings on me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2237,8 +2145,6 @@ the promise.
 
 "As sage king named Yayati in olden times left the heaven and reached back heaven again,
 I shall be back to the city from the forest, after fulfilling my promise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2285,8 +2191,6 @@ fulfilling; *pituH* = father's; *vachaH* = command.
 
 "Oh, mother! Please do not grieve, Bear it well in your heart. I shall come back here
 again from the forest after fulfilling the father's command."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2333,8 +2237,6 @@ be remainded; *tvayaa* = by you; *mayaa cha* = by me; *vaidehyaa* = by Sita;
 
 "You and I, Sita, Lakshmana, Sumintra and all of us should follow father's directions.
 This is an eternal custom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2381,8 +2283,6 @@ kR^itaa* = of proceeding to forest; *dharmyaa* = which is righteous; *anuvartyat
 
 "Oh mother! Please approve my righteous intention of going to the forest, duly withdrawing
 preparations for my coronation and keeping in check the sorrow in your heart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2436,8 +2336,6 @@ were not unsteady; *pratilabhya* = regained; *saNjJNyaam* = consciousness; *mR^i
 
 The mother Kausalya heard the most virtuous, cool and steady words of Rama and rose,
 as though regained consciousness once more after death, looked at Rama and spoke thus again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2492,8 +2390,6 @@ do not permit; *tvaa* = you; *naarhasi* *gantum* = to go; *evam* = thus;
 "Oh, son! I am also as respectable a person to you as your father, in my own right and
 due to great affection. I do not give permission to you. You cannot thus go away, leaving me in great
 sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2549,8 +2445,6 @@ sorrow."
 "What is the use of my living in this world without you? What is the use of the other
 world or the oblation of food offered to the deceased ancestors or the nectar of immortality? Your proximity
 even for a moment is better than that of the entire world of living beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2609,8 +2503,6 @@ adhvaanam* = way; *apohyamaanaH* = being taken away; *naraiH* = ny men; *ulkaabh
 
 After hearing the pathetic lamentation of his mother, he was highly anguished, as when
 an elephant is removed highly from its way by men with flames of fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2658,8 +2550,6 @@ only; *arhati* = was fit; *vaktum* = to speak; *maataramchaiva* = to mother;
 Rama, who was established in righteousness, spoke these words endowed with virtue, to
 his mother who was looking unconscious and to Lakshmana who was disturbed and exhausted with distress.
 He was the only person worthy of speaking thus at that time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2705,8 +2595,6 @@ without looking at; *mama* = my; *abhipraayam* = opionon.
 
 "Oh, Lakshmana! I always know your devotion towards me as well as your strength. But
 now, you are joining with mother in afflicting much trouble to me without looking at my opinion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2767,8 +2655,6 @@ beloved; *suputraa* = who is having good sons; *tatra* = in those good words; *t
 "Oh, Lakshmana! In obtaining the fruit of good works in the world, righteousness utility
 and free will are being considered. As a wife who is obedient, who is beloved and who is having good
 sons, good work yields all these three things."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2822,8 +2708,6 @@ devshhyaH* = fit to be hated; *kaamaatmataapi* = so also; the ne whose very esse
 desire and righteousness do not come together. One who is intested in wealth alone becomes indeed fit
 to be hated in the world. So also the one whose very essence is desire, cannot indeed be considered
 good.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2879,8 +2763,6 @@ which reason; *kaaryam* = an action; *krodhaat* = either by anger; *prahrshhaat*
 "When father, who is venerable, a king and old-aged, commands an action either by anger
 or by extreme joy or by even desire, which right person will not perform it? Only a person who chooses
 to be cruel will not do it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2941,8 +2823,6 @@ for mother also; *saH* = he; *bhartaa* = the husband; *saH* = he; *gatiH*
 "I cannot avoid fulfilling the father's command completely. For both of us, he is an
 important person indeed to command us. To mother Kausalya also, he is the husband, the resource person
 and the personified law."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -2997,8 +2877,6 @@ other woman; *vidhavaa* = without husband?
 "while the righteous king Dasaratha is alive and especially when he is following his
 own righteous path, how the mother Kausalya can go out with me from here leaving the city like other
 widowed woman?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -3057,8 +2935,6 @@ _________________
 
 "Oh, mother the queen! Permit me to go to forest. As Yayati returned to heaven by the
 power of truth, give me your power of blessings so that I can return here after completion of exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -3112,8 +2988,6 @@ inferior; *mahiim* = earth; *adharmataH* = unrighteously.
 
 "I cannot keep back reputation and glory for the sake of kingdom alone. This cannot unrighteously
 long for this inferior kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 
@@ -3173,8 +3047,6 @@ to his mother; *hR^idi* = heartily.
 
 Rama, the best of men, decided to go to Dandaka forest fearlessly with his prowess, consoled
 his mother, advised his brother by good thoughts and made hearty circumbulatory salutation to his mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>
 </details>
 

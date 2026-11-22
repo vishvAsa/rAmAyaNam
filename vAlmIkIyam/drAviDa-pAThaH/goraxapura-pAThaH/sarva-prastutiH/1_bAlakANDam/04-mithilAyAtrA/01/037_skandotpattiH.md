@@ -17,8 +17,6 @@ chapter / sarga 37**
 Sage Vishvamitra continues his narration about the earthly course of Ganga, her
  begetting Kaartikeya, Krittika-stars breast-feeding that boy, gods naming that
  boy as Kaarthikeya, and that boy's anointment as the Chief of Celestial Armies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
  for celestial forces have arrived in the audience of Forefather Brahma, along
  with Indra and keeping Fire-god at their fore." Sage Vishvamitra continued his
  narration to Rama. [1-37-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
 
 "On approaching the Forefather Brahma, oh, Rama, all of the celestials headed
  by Fire-god and along with Indra have venerated and then spoke this to him. [1-37-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
 
 The potence that is stirred from Shiva and given to earth as in last chapter has
  not yet materialised as Kaarthikeya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 " 'Looking forward for the welfare of the worlds, oh, knower of the procedures,
  Brahma, you may order us clearly what is to be done next, as you alone are our
  ultimate recourse. [1-37-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -253,8 +243,6 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 "On listening the words of gods, Brahma, the Forefather of all the worlds, soothingly
  spoke this to the celestials with sweet words. [1-37-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -298,8 +286,6 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 " 'What the Daughter of Mountain, namely Goddess Uma, has said that 'you shall
  have no posterity in your own wives' is true and it cannot be decried, and it
  is unambiguous too. [1-37-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -347,8 +333,6 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 
 " 'In whom the Fire-god can procreate an enemy-destroying Chief of Celestial Armies,
  such an empyreal Ganga is there. [1-37-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -393,8 +377,6 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
  through Fire-god will also be pleasurable in many ways to the younger daughter
  of King of Mountains, namely Uma, no doubt about it.' So said Brahma to all the
  gods. [1-37-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -437,8 +419,6 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 "On hearing those words of Brahma, oh, Rama, the delight of Raghu's dynasty, all
  the gods have praisefully worshipped him, as their ends are achieved at the bidding
  fair of Brahma. [1-37-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -482,8 +462,6 @@ _________________
 
 "On going to that supreme Mt. Kailash, oh, Rama, which is heaped up with many
  ores, all of those gods have assigned the Fire-god to father a son. [1-37-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -527,8 +505,6 @@ _________________
  god of Fire, you may release the potence of Shiva, which you have contained so
  far, in the daughter of King of Mountains, namely River Ganga.' Thus, all gods
  have requested the Fire-god. [1-37-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -572,8 +548,6 @@ _________________
  entreating, 'Oh, Goddess Ganga, you verily bear pregnancy with the potence of
  Shiva, since this is the select process of all the gods.' So said Fire-god to
  River Ganga. [1-37-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -621,8 +595,6 @@ _________________
 "On listening that sentence of Fire-god, River Ganga adopted a celestial form
  readying herself, and on seeing her glorious mien the Fire-god seeped throughout
  her. [1-37-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -664,8 +636,6 @@ _________________
 "The Fire-god then drenched River Ganga from all over with the potence of Shiva
  which he contained so far, oh, Raghu's delight Rama, and every rill and channel
  of Ganga is replete with it. [1-37-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -714,8 +684,6 @@ _________________
  god, I am incapable to bear up the rampant fervour of yours, and while being burnt
  with the fire of god Shiva compounded with that of yours my life-force is very
  highly tortured.' [1-37-15, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -760,8 +728,6 @@ _________________
  the miserable condition of River Ganga then spoke this to her, ''you may lay away
  that embryo here at the side of Himalayan Mountains.' So said Fire-god to River
  Ganga. [1-37-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -804,8 +770,6 @@ _________________
 "Oh, great-resplendent Rama, on hearing the words of Fire-god, oh, charming prince
  Rama, River Ganga indeed ejected that great-radiant embryo of Shiva from all her
  rills and channels. [1-37-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -851,8 +815,6 @@ _________________
 "Which refulgent embryo with the glitter of molten gold has emerged from River
  Ganga is there that has reached earth, and from that the silver, and even the
  gold with its matchless dazzle have emerged. [1-37-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -899,8 +861,6 @@ _________________
  of Shiva and Fire-god, and the residua have become tin and lead, and thus that
  embryo on reaching the earth has evolved itself into various other elements also.
  [1-37-19b, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -969,8 +929,6 @@ _________________
 "But, just when that embryo is laid down on Himalayan mountains, entire reed-garden
  sprouted on that mountain is made brilliant by that glittering embryo and the
  reed-garden itself has become golden. [1-37-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -997,8 +955,6 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
  As and when Ganga's disgorged her womb there appeared a forest of fire like gold.
  So, the gold glowing like fire is called gold at many places in Ramayana. Pt.
  Satya Vrat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1040,8 +996,6 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 "Then for the boy who took birth from the embryo deposited in Himalayas, the Wind-gods
  along with Indra have arranged Krittika stars to simultaneously suckle him. [1-37-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1084,8 +1038,6 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 "Those Krittika stars have decided among themselves that 'this boy shall be the
  son for all of us,' and on making such a best resolve they suckled the just born
  boy. [1-37-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1127,8 +1079,6 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 "All the gods have then said, 'this boy will be renowned in all the three world
  as Kaarthikeya, as Krittika-stars have suckled him, with any doubt.' [1-37-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1171,8 +1121,6 @@ lakSmyaa diipyamaanam* = glowing with excellently aupicious radiance;
 "On hearing that blessing of gods Krittika stars gave a wash to that excellently
 auspicious boy who is radiant like fire, and who slid down from the secretion of
 the womb of Ganga. [1-37-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1222,8 +1170,6 @@ the womb of Ganga. [1-37-26]
 "And gods called that boy, oh, Rama of Kakutstha, whose glow is like that of flaring
  fire and who is ambidextrous as 'Skanda' for he slid down from the secretions
  of a womb. [1-37-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1282,8 +1228,6 @@ It is said that each of the six Krittika-stars came forward to give her milk fir
  that the boy has been sucking milk with six faces, i.e., with rapid-face-movement.
  Thus on establishing his ambidextrous personality, the gods nominate him as the
  Chief of Celestial Army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1326,8 +1270,6 @@ ajayat* = triumphed over.
 "On sipping the milk just for one day he became an adolescent boy on that day
  itself, and even though he is of delicate constitution as a boy, that taskmaster
  triumphed over the army troops of demons by his own vigour. [1-37-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1369,8 +1311,6 @@ ajayat* = triumphed over.
 "All of the celestial have then come together under the leadership of Fire-god
  and they anointed that highly resplendent boy, Skanda, or Kaarthikeya, as the
  Chief of Celestial Army troops. [1-37-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1413,8 +1353,6 @@ ajayat* = triumphed over.
 "This way, I have vividly narrated the legend of Ganga to you, oh, Rama, like
  that the Divine and Meritorious legend of the emergence of Kumara, namely Skanda
  is also narrated. [1-37-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 </details>
 
@@ -1463,8 +1401,6 @@ ajayat* = triumphed over.
 "He who is a devotee of Kartikeyaa, oh, Rama of Kakutstha, he thrives with longevity,
  also with sons, grandsons on this humanly earth in his mortal life, and on its
  conclusion he becomes one with Skanda on journeying to Skanda's abode. [1-37-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

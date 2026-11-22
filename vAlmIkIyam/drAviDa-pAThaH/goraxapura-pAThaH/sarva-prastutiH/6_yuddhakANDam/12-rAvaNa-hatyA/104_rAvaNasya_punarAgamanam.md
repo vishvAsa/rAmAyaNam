@@ -17,8 +17,6 @@ battle-field. The charioteer explains to Ravana, the various reasons as to why h
 the chariot. Satisfied with the explanation given by his charioteer, Ravana instructs him to take
 the chariot back to the battle-field. Thereupon, the charioteer brings the chariot in an instant
 before Rama on the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ charioteer (as follows):
 
 Impelled by force of Destiny and with his red-blood eyes through anger due to
 infatuation, that Ravana spoke to his charioteer as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ buddhyaa* = as per your discretion!
 "O evil-minded fellow! Despising me as though I were bereft of manliness, incapable,
 deficient in prowess, cowardly, petty-minded, devoid of energy, bereft of brilliance, deserted of
 conjuring tricks and abandoned by mystic missiles, you are acting as per your discretion!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ me; *shatrusamakSham* = before my enemies; *anavekShya cha* = and overlooking;
 
 "Why have you carried away this chariot of mine, thus humiliating me in the presence
 of my enemies and overlooking my will?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -224,8 +216,6 @@ fame; *chirakaala samaarjitam* = which was earned through a long period; *tejash
 
 "O vulgar fellow! You have destroyed my fame which was earned through a long period,
 prowess, vital power and the trust of people today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ his; *pashyataH* = stood looking on.
 "While my adversary, having an illustrious prowess and making others delightful
 through feats of his valour, stood looking on, myself, who has an ardent desire for fighting and
 who was made contemptible by you!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -326,8 +314,6 @@ expectation of mine; *tvam* = that you; *upaskR^itaH* = stand corrupted;
 
 "O evil-minded fellow! In case you do not, by perversity, carry away this chariot at
 any event, this expectation of mine that you stand corrupted by the enemy, will be a fact."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ me well.
 
 "This act, which has been done by you, is only befitting of enemies. This is indeed
 not the work of a friend, who wishes me well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ withdraw.
 
 "If you inhabited with me in Lanka for a long time and if you remember my merit,
 drive back the chariot swiftly till my enemy does not withdraw."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ words; *raavaNam* = to Ravana (as follows):
 
 Hearing those harsh words of the foolish Ravana, the friendly-minded charioteer
 spoke the following conciliatory words of Ravana:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -518,8 +498,6 @@ vismR^itaa* = was not forgotten.
 
 "I was neither frightened nor I was stupid. I was not bribed by the enemies, nor was
 I a blunderer. I was not disloyal to you. I have not forgotten the benefits conferred by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ something conducive to your interest.
 "An act which was not to your taste was done by me as something conducive to your
 interest, by wishing well of you, for protecting your honour and with mind affectionately disposed
 towards you through attachment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -613,8 +589,6 @@ gantum* = to hold me; *priyahite ratam* = devoted as I am to your pleasure and g
 
 "O monarch! Like somebody who is petty-minded and unworthy, you ought not to hold
 me, devoted as I am to your pleasure and good, quilty in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -661,8 +635,6 @@ gantum* = to hold me; *priyahite ratam* = devoted as I am to your pleasure and g
 
 "O monarch! Like somebody who is petty-minded and unworthy, you ought not to hold
 me, devoted as I am to your pleasure and good, guilty in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -712,8 +684,6 @@ iva* = as the onrush of a stream; *aabhoge* = (is pushed back) by a tide.
 
 "I understand your exhaustion, due to your strenuous fighting in the great battle. I
 am not reflecting on the inclination of your valour or on your superiority over your enemy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -760,8 +730,6 @@ were broken down; *rathodvahanakhinnaaH* = and were exhausted by drawing the cha
 
 "The horses of my chariot were broken down and were exhausted by drawing the
 chariot. They became miserable and thoroughly fatigued, like the cows lashed by heavy rain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -802,8 +770,6 @@ examined; *teShu teShu* = in all of them.
 
 "I am seeing inauspiciousness in all the portents, which appear to us in large
 numbers and duly examined by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ occupying the chariot; *viJNeyau* = must be ascertained (by a charioteer).
 "(Propitious and unpropitious) time and place, (good and bad) omens, facial as also
 the strength and weakness of the warrior occupying the chariot must be ascertained (by a
 charioteer)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -899,8 +863,6 @@ charioteer).
 "The eminences and depressions of the ground as well as the parts which are level
 and rugged, the time appropriate for the combat and the visible weak points of the enemy must be
 known (by a charioteer)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -941,8 +903,6 @@ this; *JNeyam* = must be known; *rathakuTumbinaa* = by charioteer;
 
 "How to arrive and retreat, how to hold one's position and to recede all this must
 be known by a charioteer, seated in the chariot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -986,8 +946,6 @@ chariot; *varjayataa* = and to relieve; *raudram khedam* = your terrible fatigue
 
 "This action appropriate was taken by me in order to give rest to you and to these
 horses of the chariot as also to relieve your terrible fatigue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -1035,8 +993,6 @@ affection for my master.
 
 "O the valiant lord! This chariot was not removed by me arbitrarily. That which was
 done by me was because I was overwhelmed with affection for my master."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -1084,8 +1040,6 @@ a mind which feels relieved of all that is due.
 
 "O annihilator of enemies! O hero! Give me a command! I will do that which you will
 enjoin me to do, with due attention and with a mind which feels relieved of all that is due."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -1136,8 +1090,6 @@ following words:
 
 Satisfied with the explanation given by his charioteer and applauding him in many
 ways, Ravana who was avaricious of fighting, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -1185,8 +1137,6 @@ enemies.
 
 "O charioteer! Take this chariot quickly towards Rama. Ravana does not turn back in
 battle, without killing his enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -1239,8 +1189,6 @@ back to the battle-field.
 Thus speaking Ravna the lord of demons was pleased and then presented a beautiful
 and excellent ornament for the hand to him. That charioteer, after hearing Ravana's instruction,s
 drove the chariot back to the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 </details>
 
@@ -1295,8 +1243,6 @@ moment; *abhavat* = stood; *raamasya rathaagrataH* = in front of Rama's chariot.
 Impelled by Ravana's command, that charioteer thereupon quickly drove the horses
 forward. Then, that chariot of Ravana stood within a moment, before Rama's chariot on the
 battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga104/yuddhasans104.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

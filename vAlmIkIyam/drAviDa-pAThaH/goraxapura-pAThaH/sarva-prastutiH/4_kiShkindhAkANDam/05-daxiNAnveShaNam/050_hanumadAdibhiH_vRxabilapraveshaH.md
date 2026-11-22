@@ -19,8 +19,6 @@ southern direction. While groping in that dark they loose time set by Sugreeva. 
 luminosity and extraordinarily built mansions, woodlands, trees and lakes. Thereupon they catch
 sight of an elderly sainted lady and they all approach her asking after the legend of that
 cavity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ saha* = Lt. Tara, Angada and others, along with; *sangamya* = associated with;
 
 Associated with Angada, Lt. Tara and others, the monkey Hanuma searched the caves
 and thick forests of Vindhya Range. [4-50-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ sravaNeSu ca* = towering, rapids, also; *[vicinoti sma* = he has searched.]
 
 Hanuma has searched in the caves of that kingly Mt. Vindhya, which are jammed in
 with lions and tigers, and even at the towering rapids. [4-50-2, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ swiftly elapsed.
 
 They reached the southwest peak of that mountain during their search and the time
 set by Sugreeva swiftly lapsed while they are overstaying thereat that Mt. Vindhya alone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ sutaH* = Air's, son [Hanuma]; *tatra sarvam parvatam* = there, everywhere, on mo
 Though that extensive province is indeed an unsearchable one with its impenetrable
 caves and forests, yet Hanuma, the son of Air-god, searched everywhere on that mountain. [4-50-3b,
 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -290,8 +280,6 @@ Jaambavanta, crown prince Angada, also the forest-mover Lt. Tara have searched t
 southern direction that is encompassed with interlocked mountains, and during their search there
 they have observed a wide-opened and impassable cavity known as Riksha cavity which is well guarded
 by a demon called Maya. [4-50-5, 6, 7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -339,8 +327,6 @@ enwrapped; *mahaa bilam dadR^ishuH* = capacious, cavity, they beheld.
 Thirst and hunger invading them they are fatigued and craving for water, and such as
 they are they beheld that capacious cavity which is enwrapped in climbers and trees. [4-50-8,
 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -395,8 +381,6 @@ water, drenched; *padma reNubhiH* = with lotus, pollen; rakta angaaH reddened, w
 There they have seen the swans and the waterfowls like Kraunca, Saarasa, and even
 Cakravaka waterfowls exiting from the cavity with their bodies drenched in water and reddened with
 the dapples of lotuses' pollen. [4-50-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -448,8 +432,6 @@ vyagra manasaH* = with amaze, dismayed, at heart [disheartened with amazement];
 
 When those best vanara-s have neared that fragrant and impermeable cavity they are
 disheartened with amazement. [4-50-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -468,8 +450,6 @@ Though a suspicion in general is evoked in them, as they presumed that cavity to
 Naraka, The Hell of Yama, or Paataala, the Netherworld of Emperor Bali, those highly resplendent
 and great mighty fly-jumpers have neared it, rejoicing for the availability of water in there.
 [4-50-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -524,8 +504,6 @@ with; *daitya indra nilaya upamam* = demon's, emperor's [Emperor Bali,] residenc
 That hideous cavity is dispersed with diverse beings, similar to the residence of
 the emperor of demons, namely Emperor Bali, in Paataala, the Netherworld, and it is unsightly and
 impermeable from anywhere. [4-50-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -576,8 +554,6 @@ abraviit* = to formidable ones [or, to all of the,] Vanara-s, spoke to.
 The son of Air-god Hanuma whose glossiness is like that of a mountaintop and who is
 a mastermind in scrutinising every inscrutable forest, then spoke to all of the formidable
 Vanara-s. [4-50-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -625,8 +601,6 @@ direction; *maargitvaa* = having searched; *pari shraantaa* = overly, fatigued;
 "We all have searched the southern quarter including those places that are enmeshed
 with meshes of mountains, and we are overly fatigued, but Maithili is unnoticed. [4-50-14b,
 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -691,8 +665,6 @@ verdant.
 birds are coming out of this cavity from all over, and even the trees available at its doorway are
 verdant. Certainly there must be a wellspring, or otherwise a pond with water." Thus Hanuma spoke
 to all monkeys. [4-50-15b, 16, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -741,8 +713,6 @@ devoid of, moon, sun [unilluminated by]; *roma harSaNam* = hair, raising [cavity
 When Hanuma spoke to them thus as a kind of assurance, all those monkeys entered the
 cavity and found it as a sunless or moonless cavity, enfolded in hair-raising darkness. [4-50-17b,
 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ entered.
 
 Those tigerly monkeys have also seen lions and various other animals and birds
 exiting therefrom, and entered that cavity which is enshrouded in obscurity. [4-50-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -847,8 +815,6 @@ gloominess.
 Despite of the gloominess of that cavity, unobstructed is their eyesight, or their
 vigour or their valorousness, and their permeation is like that of the gust of air as their
 eyesight is actuated even in darkness. [4-50-19, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -898,8 +864,6 @@ ca* = lovely, also; *uttamam desham dadR^ishuH* = a best, place, they saw.
 
 But on their going further into that cavity speedily, those elephantine monkeys
 beheld a best place that is luminous, as well as lovely. [4-50-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -946,8 +910,6 @@ antaram jagmuH* = a yojana, interstice, advanced further.
 
 In that awful cave that is compacted with various trees, then they advanced further
 an interstice of yojana distance, hand in hand lest one may miss the other. [4-50-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -996,8 +958,6 @@ petuH* = over, hopped [hopped over.]
 Though they are craving for water, highly perplexed, and lost track of their
 destination or any waterway, and yet hopeful of their mission they unwearyingly hopped in that
 cavity for a good while. [4-50-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -1046,8 +1006,6 @@ perceived.
 Those fly-jumpers are presently enervated and overly tired, and sad faced, and when
 those brave ones are despaired of their life, just then they perceived a luminescence. [4-50-23b,
 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -1235,8 +1193,6 @@ Some mms use 'lofty trees' instead of the ' golden lotuses with broad petals'
 then it means that 'the stand of trees is surrounded by both the lotus-lakes and lofty trees...' In
 the next verse also some use the word 'tortoises' is used instead of 'lotuses.' This is said to be
 the problem with copyists.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1252,8 +1208,6 @@ dadR^ishuH* = there, they beheld;
 
 Then they beheld there the lotus-lakes containing serene waters and stocky lotuses
 and burly fishes that are golden. [4-50-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -1316,8 +1270,6 @@ There the monkeys beheld choicest mansions everywhere made out of gold and silve
 some with golden and some with silver domes, while some with golden and some with silver
 multi-stories, but all are studded with lapis gems with golden windows covered with laceworks of
 pearls. [4-50-30b-32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -1402,8 +1354,6 @@ bhramaraan caiva* = golden, honeybees, also, thus; *madhuuni ca* = honeys, also;
 
 They have also seen everywhere flowered and fruited trees that are similar in shine
 to red corals and rubies, and golden honeybees, as well as honeys. [4-50-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1421,8 +1371,6 @@ everywhere, they beheld.
 They beheld everywhere diverse and capacious beds and seats that are amazingly
 crafted with gemstones and gold, and also stacks of utensils made of gold, silver and bell metal.
 [4-50-33b, 34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1438,8 +1386,6 @@ ca* = tubers, also, fruits, also; *[dadR^ishuH te* = saw, they.]
 
 They saw the stockpiles of heavenly aloe vera substances and sandalwood sticks and
 depurated eatables, tubers and fruits. [4-50-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1461,8 +1407,6 @@ sancayaan* = deerskins, sheaves, also - they saw.
 
 They have also seen top-grade soft drinks, luscious honeys, heaps of finest quality
 clothing, exotic blankets and sheaves of deerskins. [4-50-36, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1478,8 +1422,6 @@ glow; *shubhraan* = undefiled; *jaataruupasya sancayaan* = gold's, mounds of;
 
 Vanara-s have also observed mounds of undefiled gold stockpiled here and there
 glowing with the glow of ritual fire. [4-50-37b, 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -1540,8 +1482,6 @@ there, there, when searching; *a duurataH* = not, far-off; *kaamcit* = someone;
 
 When searching here and there in that cavity those valiant vanara-s of high
 resplendence have perceived some lady rather not far from them. [4-50-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1563,8 +1503,6 @@ glowing, as with; *taapasiim taam dadR^ishuH* = a sainted lady, at her, they saw
 They saw a sainted lady there who is attired in jute-cloths and who is on a
 controlled diet and who is like a luminiferous entity by her own luminescence of asceticism.
 [4-50-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1580,8 +1518,6 @@ who, are; *bilam kasya vaa* = cavity, whose, either.
 
 In wonderment the monkeys stood still all over, and in the matter of her identity
 Hanuma asked her, "Who are you? Whose cavity is this, either? [4-50-40b, 40c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 </details>
 
@@ -1637,8 +1573,6 @@ asked; *tvam kaa* = you, who [are]; *bhavanam bilam ca* = mansion, cavity, and;
 Then Hanuma whose shine is similar to that of a mountain making palm-fold and
 reverencing that aged lady asked, "Who are you? Whose is this cavity, or the mansion or these
 jewels? Please speak." [4-50-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

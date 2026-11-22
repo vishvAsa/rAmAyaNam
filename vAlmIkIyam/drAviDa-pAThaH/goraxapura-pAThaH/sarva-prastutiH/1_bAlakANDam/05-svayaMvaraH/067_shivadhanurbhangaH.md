@@ -17,8 +17,6 @@ Rama breaks Shiva's bow when he wanted to examine the tautness of its
  bowstring. Janaka is perplexed, while others swooned at the blast of breaking bow, and
  Janaka proposes Seetha to Rama in marriage. On the approval of Vishvamitra to that
  proposal, Janaka sends his plenipotentiaries to Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ Rama breaks Shiva's bow when he wanted to examine the tautness of its
 
 On listening to the words of Janaka, the eminent-saint Vishvamitra indeed said to
  the king Janaka thus as, "let the bow be displayed to Rama..." [1-67-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -110,8 +106,6 @@ On listening to the words of Janaka, the eminent-saint Vishvamitra indeed said t
 
 Then king Janaka indeed ordered his ministers, "bring the divine bow which is
  decorated with sandalwood paste and garlands... [1-67-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -190,8 +184,6 @@ Thus clearly instructed by Janaka those high souled ministers have gone out from
  the bow of Shiva is ensconced, and those ministers got it tugged by five thousand tall men of
  illimitable energy who somehow tugged it very difficultly, and thus the ministers have re-entered
  there keeping that bow afore of them. [1-67-3, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -242,8 +234,6 @@ Thus clearly instructed by Janaka those high souled ministers have gone out from
 
 On fetching that iron coffer wherein that bow is there, those ministers of the
  king have reported to their godlike King Janaka. [1-67-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -296,8 +286,6 @@ On fetching that iron coffer wherein that bow is there, those ministers of the
 Oh king and sovereign of Mithila, here is the select bow that is reverenced by
  all kings, oh, best king, which you wished to be evincible to the boys, to evince their
  capabilities... [1-67-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -342,8 +330,6 @@ raamalakSmaNau* = to them, both, Rama, Lakshmana; *abhaaSata* = spoke to.
 
 On listening the announcement of his ministers the king spoke to the noble souled
  Vishvamitra and to both Rama and Lakshmana too duly making palm-fold. [1-67-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -393,8 +379,6 @@ _________________
 Here is that exquisite bow, oh, Brahman, which is held as a time-honoured bow by
  the lineage of Janaka kings, and with which even the highly forceful kings are rendered
  inefficient to take aim with it, previously... [1-67-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -474,8 +458,6 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
  bowstring to the other end, or in twitching the bowstring for its tautness, or in placing the
  arrow on bowstring at a proper place for a proper stretchability, or even in taking a good aim
  with it... what will be that capability of one from among humans... [1-1-9, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -520,8 +502,6 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
 "Oh, eminent-saint, such as it is, this nonpareil bow among all bows is brought
  in, and oh, highly fortunate sage Vishvamitra, let this be displayed to those two princes..."
  Thus Janaka said to Vishvamitra. [1-67-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -566,8 +546,6 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
 
 Vishvamitra on listening the sentence of Janaka along with Rama, on his part said
  to Raghava, "oh, boy Rama... you may see the bow..." [1-67-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -615,8 +593,6 @@ _________________
 
 Upon the word of the great sage Vishvamitra, Rama on unclosing the lid of that
  strongbox, wherein that bow is ensconced, saw the bow and said. [1-67-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -671,8 +647,6 @@ _________________
 
 Now I wish to get the feel of this supreme bow, oh, Brahman, and I shall try to
  brandish it, or even try to take aim with it... [1-67-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -726,8 +700,6 @@ _________________
 
 "All Right!" said the saint and king to Rama in chorus, and Rama upon the word of
  the sage grasping it at the middle handgrip playfully grabbed the bow. [1-67-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -767,8 +739,6 @@ A bow has a definite height and it is a measure of length, from the ages even
  it listened to him and bent as he wished. Other way round, Rama is an ambidextrous archer and
  furthered is his skill by his possession of some divine missiles as given by Vishvamitra. Hence,
  his dexterity is now multiplied and he can handle any divine or human bow 'effortlessly...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -829,8 +799,6 @@ The bow is not broken by itself because of its oldness or dryness, but let us
  available here. Otherwise, a 'moral class' would have chanced on him for braking articles in
  neighbour's houses. The bow is broken in the middle, not at either end, but at handgrip. This
  shows the strength of his palm on handgrip.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -919,8 +887,6 @@ And the pacemaker Rama is marrying the world with peace, by stringing the
  charmy princess. Thus, this sound is the initial impact, impetus, brunt, or whatever, for
  universal peace, and that way this marriage attains a legendary significance in peace process,
  though by force.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -970,8 +936,6 @@ And the pacemaker Rama is marrying the world with peace, by stringing the
 Bewildered by that raucous caused by the breakage of bow, all the people swooned,
  except for that eminent-saint Vishvamitra, king Janaka, and those two Raghava-s, namely Rama and
  Lakshmana. [1-67-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -1027,8 +991,6 @@ _________________
 While the people are being reaccustomed after their undergoing the shock, at that
  moment that sententious king Janaka, whose discomfiture has completely departed by now has said
  this to the eminent-saint Vishvamitra with a reverent palm-fold. [1-67-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -1082,8 +1044,6 @@ Oh, godly sage, the gallantry of Dasharatha's Rama is evidently seen... and the
  whys of this boy and wherefores of his stringing that massive bow are unimaginable to me! More
  so, humans lifting it! How so? This is an unhoped-for incident for me, besides, breaking it! This
  a is highly wondrous experience for me... [1-67-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -1150,8 +1110,6 @@ This verse explains the advantageous status of Seetha than Rama in her birth
  Rama... my daughter brings *kiirti* 'celebrity' to our lineage, which is in singularly
  unique... because *kiirti* is said in singular number, it will be singularly unique...
  hence let this boy not negate my proposal as my daughter has many plus points...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -1197,8 +1155,6 @@ This verse explains the advantageous status of Seetha than Rama in her birth
 Oh, Kaushika, my commitment that she is the bounty of bravery has also come
  true... and my daughter Seetha who is nurtured well than my own lives is a worthy bride for
  Rama... [1-67-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -1256,8 +1212,6 @@ Annex: 'This boy appears to be straight from the shoulder type, and he may now
  my hand, but I have never said that I will marry your daughter without the consent of my
  father... and I am supposed to marry whomever my father ties down my neck...' knowing him to be
  such, I want to send proposals to Dasharatha at Ayodhya, that too if you say yes...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1277,8 +1231,6 @@ Annex: 'This boy appears to be straight from the shoulder type, and he may now
 With their observant submissions those ministers will narrate in detail about the
  sincere endowment of Seetha as bravery's bounty to Rama, and they will lead king Dasharatha into
  my city that observantly... [1-67-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -1327,8 +1279,6 @@ With their observant submissions those ministers will narrate in detail about th
  Rama and Lakshmana, are under the aegis of saint Vishvamitra, and thus gladdening that king they
  will expeditiously usher in king Dasharatha for marriage..." So said Janaka to Vishvamitra.
  [1-67-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 </details>
 
@@ -1384,8 +1334,6 @@ With their observant submissions those ministers will narrate in detail about th
 Vishvamitra said, "so be it," and then that right-minded king Janaka on consulting
  with his ministers started to send his ministers, plenipotentiaries, to Ayodhya to inform
  Dasharatha in detail as to what has happened, and likewise to bring him to Mithila. [1-67-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

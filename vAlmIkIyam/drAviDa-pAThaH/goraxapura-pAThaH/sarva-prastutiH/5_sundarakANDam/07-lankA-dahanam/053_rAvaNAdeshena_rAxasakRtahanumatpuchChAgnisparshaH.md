@@ -19,8 +19,6 @@ the burning of Hanuma's tail and making him move around the city by demons. Then
 the fire-god to do good to Hanuma. In response to her prayers, fire-god makes Hanuma feel cool with
 his burnign tail. Then, Hanuma approaches the city-gate of Lanka, takes an iron-rod from the arched
 door of the gate and kills all the security-guards there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ Vibhishana; *bhraatuH* = his brother; *dashagriivaH* = Ravana; *abraviit* = spok
 
 Hearing those words, which were aprropriate for that place and time, spoken by that hih-souled
 Vibhishana, his brother, Ravana spoke the following words in reply:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ _________________
 
 "You have spoken well indeed that killing of an envoy is forbidden. Another punishment
 other than killing needs be certainly meted out to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ other than killing needs be certainly meted out to him."
 
 "It is said that a tail is possibly a beloved ornament for the monkeys. Let his tail
 be burn immediately. Let him go with a burnt tail."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ relatives; *samitrajJNaataaH* = together with his friends and kinsmen; *sasuhR^i
 
 "Let all his relatives together with his friends, kinsmen and amicable persons then see
 him miserably injured with his deformed limbs."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ its cross-roads.
 
 Ravana ordered that let the monkey be carried around with his burning tail by the demons
 in the entire city around its cross-roads."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ _________________
 
 Hearing those words of Ravana, the demons, hard-tempered with their wrath, wrapped, up
 old ragged clothes around Hanuma's tail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -372,8 +358,6 @@ iva* = like a fire; *aasaadya* = after catching; *shuSkam indhanam* = dry wood;
 
 While his tail was being wrapped around with cotton tatters, Hanuma proliferating, soon
 after catching dry wood in forests.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -429,8 +413,6 @@ burning tail; *apaatayat* = threw down; *taan raakSasaan* = those demons.
 The demons sprinkled oil and set out fire on that tail. Then, Hanuma, with his face resembling
 a rising sun with his mind filled with anger and impatience and with his burning tail, threw those demons
 down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -480,8 +462,6 @@ baala vR^iddhaashcha* = together with their women; children and elders; *jagmuH*
 
 To see the burning tail of that Hanuma, the delighted demons together with their women,
 chldren and elders went there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ follows):
 
 Tied down again by the cruel demons, coming together, the heroic Hanuma the foremost
 among monkeys made up his mind appropriate for that occasion (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -557,8 +535,6 @@ me; *chhitvaa* = breaking; *paashaan* = the nooses; *punaH* = again; *aham*
 
 "Though I have been tied down, those demons cannot do whatever they wish to do against
 me. Breaking the ties, I can fly up and kill them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ command of their lord; *na niSkR^itiH* = no rebuff; *kR^itaa* = has been done; *
 
 "If these evil-minded demons fasten me who is acting for the good of Rama my lord, because
 of the command by their lord, no rebuff has been done to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -675,8 +649,6 @@ priityartham* = for the delight; *raamasya* = of Rama; *iidR^isham* = such; *laN
 
 "I am adequate enough to kill all these demons in battle. But, for the delight of Rama,
 such city of Lanka is fit to be espionaged again. For this reason, I am putting up with it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -724,8 +696,6 @@ specifications of the fort; *meva* = surely; *draSTavyaa* = it is to be seen; *m
 
 "Lanka was not indeed observed well as to the particulars of specifications of the fort,
 when it was seen by me during the night. Surely, it is to be seen by me during the day-time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -783,8 +753,6 @@ _________________
 
 "Let the demons tie me down of again and torment me as they wish, by burning my tail.
 There will be no travail to my mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -805,8 +773,6 @@ There will be no travail to my mind."
 
 Then, those delighted demons went, seizing Hanuma, who concealed all types of his feelings,
 who was strong and foremost among monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -863,8 +829,6 @@ him; *taam purim* = throughout that city.
 
 Sounding couches and kettle-drums and proclaining the acts of Hanuma like his damaging
 of the pleasure-garden, the demons performing terrible deeds, dragged Hanuma through out that city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -885,8 +849,6 @@ happily; *chaarayaamaasa* = and roamed about; *mahaapuriim* = in the great city;
 
 Accompanied by demons, Hanuma the annihilator of enemies, went happily and roamed about
 in that great city of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -934,8 +896,6 @@ in that great city of demons.
 
 Then, Hanuma saw some wonderful house some wrapped up plots of land and well parted cross
 ways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -989,8 +949,6 @@ dadarsha* = saw; *viithiiH* = streets; *gR^ihasambaadhaaH* = congested with hous
 Hanuma, the son of wind-god, saw streets congested with dwellings, places where several
 roads meet, high-ways as also approach-roads, small inner apartments and palaces appearing in multitudes,
 like clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1039,8 +997,6 @@ that Hanuma was a spy.
 
 All the demons proclaimed in cross roads, four-pillared temples and in royal high-ways,
 saying that Hanuma was a spy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1091,8 +1047,6 @@ _________________
 
 Women, children and old people came out from their respective dwellings, with an eagerness
 to see that Hanuma with his burning tail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1141,8 +1095,6 @@ _________________
 
 While the tip of Hanuma's tail was being ignited by the demons there, those female-demons
 with monstrous eyes then informed that unpleasant matter to Seetha, the princess.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1193,8 +1145,6 @@ _________________
 
 "O Seetha! That monkey with a red face, who had a conversation with you, is being moved
 around in the city, with his ignited tail."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1243,8 +1193,6 @@ _________________
 
 Hearing that cruel news, which created as much sorrow as when she was carried away by
 Ravana, Seetha was tormented with grief and started to pay homage to the fire-god.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1295,8 +1243,6 @@ _________________
 
 Then, the large-eyed Seetha, wishing for the welfare of Hanuma, prayed the fire-god with
 her devoted self.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1345,8 +1291,6 @@ yadi* = if I am; *eka patniitvam* = a faithful wife; *tvam* = you; *bhava*
 
 "If I have done any service to my husband, if I have performed a penance and if I am
 a faithful wife, please be cool to Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1397,8 +1341,6 @@ if towards me; *bhaagya sheSaH* = some good fortune is remaining; *bhava* = be; 
 
 "If the wise Rama has even a little of kindness to me and if I have still some good fortune
 remaining to my credit, please be cool to Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1448,8 +1390,6 @@ _________________
 
 "If that virtuous Rama recognises me as one,, who is endowed with a good moral conduct
 and who is ardently desirous of meeting him, please be cool to Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1498,8 +1438,6 @@ duH khaambu samrodhaat* = from this ocean of sorrow; *bhava* = be; *shiitaH* = c
 
 "If the venerable Sugreeva, true to his promise, can make me traverse from this ocean
 of sorrow, please be cool to Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1551,8 +1489,6 @@ the right.
 
 Then, the fire-god, as though informing the fawn-eyed Seetha about the well-being of
 Hanuma, shone brightly with sharp flames, undisteurbed and shooting out pointed flames towards the right.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1602,8 +1538,6 @@ Hanuma; *puchchhaanala yutaH* = combined with the fire on his tail; *vavau* = sw
 
 Even wind-god, the father of Hanuma, combined with the fire on Hanuma's tail, swept coolly
 like a snow-breeze, creating a solace to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1682,8 +1616,6 @@ agniH* = this fire; *pradiiptaH* = which was burning; *saavataH* = on all sides;
 
 While his tail was in flames, Hanuma was reflecting why the fire, which was blazing on
 all sides, was not burning him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1699,8 +1631,6 @@ though; *shishirasya samghaataH* = a snow-ball; *pratiSThitaH* = is kept; *laaNg
 
 "It is conspicuous with large flames. But it is not creating any paoin to me, as if a
 snow-ball is kept at the tip of my tail."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1779,8 +1709,6 @@ and the sea; *yat tat* = by which; *idam* = this; *vyaktam* = is clear.
 "Or, while I was jumping over the ocean, a surprise-alliance was formed with Mount Mainaka
 and through the mountain, with the ocean, because of Rama's power. By this, the reason of the coolness
 is clear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1796,8 +1724,6 @@ not do it?
 
 "If such an eagerness was there in the mind of the sea and the wise Mount Mainaka for
 the cause of Rama; will not the fire-god show the same degree of eagerness in making its touch cold?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1878,8 +1804,6 @@ my father.
 
 "The fire does not burn me, due to kindness of Seetha, powerfulness of Rama and friendlines
 of my father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1894,8 +1818,6 @@ among mokeys; *chintayaamaasa* = reflected; *bhuuyaH* = again; *atha* = and ther
 
 That Hanuma, the foremost among the monkeys, reflected agian for a monment, jumped with
 swiftness and roared too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -1945,8 +1867,6 @@ puradvaaram* = the city-gate; *unnatam* = which was looking high; *vibhaktarakSa
 
 Then, the glorious Hanuma like a mountain-peak, approached the city-gate, which was looking
 high and stood secluded from the crowds of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -2002,8 +1922,6 @@ free; *bandhanaani* = from tethers.
 
 That prudent Hanuma assumed the form of a mountain and immediately within a moment, assumed
 an exceedingly short form, thus becoming free from his tethers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2024,8 +1942,6 @@ free from his tethers; *punaH* = again; *abhavat* = assumed; *parvatasannibhaH*
 
 The glorious Hanuma, having been free from his bonds, again assumed the form equal to
 a mountain and while looking around, found and iron rod belonging to the arched door-way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -2076,8 +1992,6 @@ guards.
 **अनुवादः**
 
 That long-armed Hanuma, again taking taht rod made of iron, killed all those guards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 </details>
 
@@ -2134,8 +2048,6 @@ maalii* = with the wreath of flames; blazing on his tail.
 
 That Hanuma, having an impetuous valour in combat, destroying those demons and looking
 over Lanka, shone like the sun encircled with rays, with the wreath of flames blazing on his tail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

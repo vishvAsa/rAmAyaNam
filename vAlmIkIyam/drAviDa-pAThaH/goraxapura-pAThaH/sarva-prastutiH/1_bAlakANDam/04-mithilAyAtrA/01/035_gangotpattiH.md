@@ -17,8 +17,6 @@ Sage Vishvamitra along with others reach the banks of River Ganga and
  they make their sojourn on that riverbank. There when Rama inquisitively
  enquires about River Ganga Vishvamitra narrates the legend of Ganga,
  as to how she is taken to heavens by gods from her father Himalayas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ Sage Vishvamitra along with others reach the banks of River Ganga and
 On sojourning the remaining night on the bank of river Sona along with
  great-sages, Viswamitra spoke when that night is elapsing into a sunny
  daybreak. [1-35-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -109,8 +105,6 @@ On sojourning the remaining night on the bank of river Sona along with
 "Oh, Rama, night fared into a sunny morning, eastern day-spring is set
  in, hence awake and arise, you be safe, ready yourself for further travel."
  [1-35-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -159,8 +153,6 @@ On sojourning the remaining night on the bank of river Sona along with
 On hearing the words of Sage Vishvamitra, Rama woke up and on completion
  of morning time religious activities he readied himself for further
  journey and indeed spoke this sentence to the sage. [1-35-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -205,8 +197,6 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
  where it is so deep. Oh, Brahman, in which of the two ways, namely
  by fordless waters or by fordable water with dunes, we have to cross
  this river?" [1-35-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -248,8 +238,6 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
 
 When Rama spoke to him thus sage Vishvamitra replied, "I propose the
  same route by which these great sages are going. [1-35-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -296,8 +284,6 @@ When Rama spoke to him thus sage Vishvamitra replied, "I propose the
 
 Thus spoken by that astute Sage Vishvamitra, the other great sages travelled
  on, indeed beholding diverse forests and their environs. [1-35-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -340,8 +326,6 @@ Thus spoken by that astute Sage Vishvamitra, the other great sages travelled
 On going a distance on their way, and after a lapse of half a day, then
  they perceived the prominent one among rivers and the one adored by
  sages, namely River Ganga. [1-35-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -384,8 +368,6 @@ On going a distance on their way, and after a lapse of half a day, then
 On seeing River Ganga with her pious waters and adored by swans and
  saarasa waterfowls, all the sages felt delighted together with both
  of the Raghava-s, namely Rama and Lakshmana. [1-35-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -454,8 +436,6 @@ Then they sojourned on the riverbank of Ganga, and next on taking bath
  great-souled Vishvamitra from all sides, to the contentment of their
  heart in having performed religious chores on the riverbank of Ganga.
  [1-35-9, 10, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -505,8 +485,6 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
  according to their admissibility and custom of sitting before their
  teachers, and then Rama highly gladdened at heart has spoken to Vishvamitra.
  [1-35-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -550,8 +528,6 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
  trinal course, and as to how she is reaching the husband of rivulets
  and rivers, namely the ocean, on pervading all the three worlds." Thus
  Rama asked Vishvamitra. [1-35-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -593,8 +569,6 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
 Motivated by Rama's words the eminent-sage Vishvamitra commenced to
  narrate about the emergence and that way even about the progression
  of River Ganga. [1-35-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -641,8 +615,6 @@ _________________
 "The lordly mountain Himavan who is the greatest treasure trove of minerals,
  Rama, also treasures up a pair of daughters who by their comeliness
  are unequalled on earth. [1-35-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -686,8 +658,6 @@ _________________
 "The slender-waisted and fascinating daughter of Mt. Meru, oh, Rama,
  renowned by her name Mena, is the dear wife of Himavan and the mother
  of those two daughters, indeed. [1-35-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -734,8 +704,6 @@ _________________
 "This Ganga has emerged as an elder daughter to Himavan through Mena,
  oh, Raghava, and that way a girl renowned by the name Uma has become
  a second daughter to him. [1-35-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -778,8 +746,6 @@ _________________
 "Later, all of the divinities intending to fulfil a divine purpose have
  sought the lordly mountain Himavan to spare Ganga, who is scheduled
  to become a tri-way-cruising river. [1-35-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -822,8 +788,6 @@ _________________
 "With a righteous thinking and hopeful of the welfare in triadic world,
  Himavan then spared his daughter Ganga whose flow is at her own volition.
  [1-35-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -868,8 +832,6 @@ _________________
  welcomed Ganga, who is incidentally intended for the purpose of the
  tri-world, and they came back to heaven fetching Ganga with them, with
  a heartfelt joy for their purpose is fulfilled. [1-35-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -919,8 +881,6 @@ _________________
 "The other daughter of Himavanta, oh, Raghu's descendent, that unmarried
  girl namely Uma, she performed a rigorous sacrament taking hold of a
  supreme devoutness as her ascesis itself is her wealth. [1-35-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -964,8 +924,6 @@ _________________
 "As for Uma who is unified with her rigorous sacrament and who is adored
  by all the world, that best one among mountains Himavanta gave such
  a daughter to the unique god Rudra. [1-35-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -1007,8 +965,6 @@ _________________
 "Oh, Raghava, the prominent one among rivers namely Ganga and Uma Devi
  as well, these are the two daughters of the king of mountains that are
  highly revered by the world. [1-35-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 </details>
 
@@ -1070,8 +1026,6 @@ The three-way coursing of the river is firstly as Ganga in the lap of
  her coming to earth. And some say that gods have not left her in middle
  of the sky to come to heaven at a later time, and hence her three courses
  are as Ganga, Mandaakini, and Jahnavi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1091,8 +1045,6 @@ The three-way coursing of the river is firstly as Ganga in the lap of
  Himavanta, ever-flowing in the form of water, ascended to the abode
  of divinities and became devaganga , Divine
  River. [1-35-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

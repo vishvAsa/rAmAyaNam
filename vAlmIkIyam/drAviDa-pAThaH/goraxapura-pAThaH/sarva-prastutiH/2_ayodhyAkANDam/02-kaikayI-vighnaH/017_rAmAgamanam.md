@@ -15,8 +15,6 @@ title_english = "017 Rama s arrival at royal court"
 
 This chapter further describes journey towards the royal palace. On the way Rama hears
 blessings and well meaning words of his friends and various people gathered there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -90,8 +88,6 @@ _________________
 Rama the glorious man, who was with his joyful friends, ascended the chariot and saw
 the city which was decorated with flags and banners, which was perfumed all around by burning excellent
 aloe wood and which was endowed with varied types of people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -107,8 +103,6 @@ wood; *upashobhitam* = splendid; *paN^duraiH grihaiH* = with white houses; *abhr
 
 That Rama went through the royal passage which was incensed with aloe wood. That royal
 street was splendid with white houses resembling clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ pearls; *uttamaiH* = excellent; *sphatikairapi* = things made of crystal; *shobh
 Rama entered that excellent royal route, which was filled with sandal, superior aloe-wood,
 excellent perfumes, silk and linen cloth, heaps of them, unpierced pearls, excellent things made of
 crystal, splendid with various kinds of flowers and eatables and which was not congested.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -202,8 +194,6 @@ crystal, splendid with various kinds of flowers and eatables and which was not c
 Rama saw that royal route like divine passage in heaven. All the road junctions there
 were regularly worshipped with yoghurt, unbroken rice, clarified butter, fried grain, incense, aloe
 and sandal and all types of garlands and perfumes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -255,8 +245,6 @@ went; *sampuujyacha* = acknowledging; *sarvaanena* = all; *naraan* = people;
 
 Hearing the various blessing words spoken by his friends, he went acknowledging all those
 people suitably.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -305,8 +293,6 @@ people suitably.
 
 "Get coronated today, take the path followed by your grandfathers and great grandfathers
 and rule the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -355,8 +341,6 @@ and rule the kingdom."
 
 "If Rama becomes king, we shall be more happy than when his father ruled and also when
 his grandfathers ruled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ enough; *paramaarthaiH* = of other concerns.
 
 "If we can see Rama going forth in the city after getting coronated today, it is enough
 of eating or other activities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -452,8 +434,6 @@ of unbounded spleadour.
 **अनुवादः**
 
 "There is no other dearer thing to us than coronation of Rama of unbounded splendour".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -502,8 +482,6 @@ of unbounded spleadour.
 
 Rama, though hearing of these good, words spoken by his friends about himself was passive
 and went in royal route.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -550,8 +528,6 @@ naraH* = which man; *na shaknotihi* = was not able; *apaakrashhTum* = to turn ba
 
 Though Rama became distant, no one could turn back one's eyes and mind from him, the
 best of men.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -598,8 +574,6 @@ mind also; *vigarhate* = yould blame; *enam* = oneself.
 
 All the people blamed the one who did not see Rama and the one who was not seen by Rama.
 Such a person would blame himself of it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -620,8 +594,6 @@ classes; *vayasthaanam* = towards the aged; *tena* = hence; *te* = they; *anuvar
 
 Rama, the virtuous, had compassion towards all the four classes of men and towards the
 aged people. Hence, they were all devoted to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -691,8 +663,6 @@ towards them.
 
 Rama went by crossing road junction, god's paths, sacred trees and temples keeping his
 right side towards them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -759,8 +729,6 @@ Rama approached the royal abode and entered his father's palace which was the be
 with blazing radiance like the palace of king of celestials on earth. All around the house, there were
 various types turrets looking like Mount Kailasa, as group of clouds, as white heavenly cars touching
 the sky. There were royal houses named vardhamana which were adorned with a net of precious stones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -806,8 +774,6 @@ with bows; *jagaama* = got; *apare* = other; *dve kakshhye* = two enclosures;
 
 Rama the best of men crossed with chariot three enclosures protected by men armed with
 bows and moved over the other two enclosures by foot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ _________________
 **अनुवादः**
 
 That Rama passed over all the gates, sent all the people back and entered the palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 </details>
 
@@ -910,8 +874,6 @@ waited; *punaH nirgamam* = for exit again;chandramasaH udryam yathaa = as of ris
 
 When Rama went nearer to his father, all the people there were delighted waiting for
 his return as the ocean waits for raising of the moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

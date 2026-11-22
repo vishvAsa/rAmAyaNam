@@ -15,8 +15,6 @@ title_english = "023 Lakshmana s angry words"
 
 This chapter describes the valiant words of Lakshmana, his opposing depends on god
 and proposes to fight with Rama's enemies to endow Rama with Kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ effecting mind.
 
 While Rama was thus speeding, Lakshmana heard, bowed down his head and got into the
 midst of pain and pleasure effecting his mind again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ hole.
 
 Lakshmana then firmed up his eyebrows and sighed with frown, like an angry snake
 from its hole.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ angry; *simhasya* = lion.
 
 His wickedly looking face with eyebrows contracted, then appeared like the face of
 an angry lion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -232,8 +224,6 @@ like its trunk; *hastii* = the elephant; *paatayitvaa* = causing to fall;
 Seeing Rama with the tip of his eyes obliquely, Lakshmana spoke to him moving his
 forehand like an elephant moving its trunk and causing his head to fall in oblique and upward
 direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -301,8 +291,6 @@ speak; *etat* = this; *yathaa* = in which way; *daivam* = about destiny;
 "Oh, the best of proud military community! This untimely great confusion is born in
 you due to your conjecture of quilty righteousness and of non suspicion of the world. Can such a
 person like you speak a person like you speak thus doubtlessly of the powerless destiny?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -318,8 +306,6 @@ you; *tayoH* = in both of them; *paapayoH* = who are sinful?
 
 "Why are you speaking about this weak and pitiable destiny? Why are you not doubting
 the sinful Kaikeyi and Dasaratha?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -371,8 +357,6 @@ conduct; *kim* = why; *na budhyase* = you are not knowing?
 "Oh, the righteous sould! Both of them are smoothly deceiving in the name of
 righteousness with an intent to keep away your good conduct, with selfish away your good conduct,
 with selfish motive and by dishonest means. You are not knowing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -424,8 +408,6 @@ by both of them; *prakR^itaH* = naturally; *saH* = that; *varaH* = boon;
 
 "Oh, Rama! If it was not indeed an earlier decision taken long ago by both of them,
 the boon must have been given naturally even long ago."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -474,8 +456,6 @@ the boon must have been given naturally even long ago."
 
 "Enthroning other than yourself is not to the liking of the people. I cannot
 tolerate this act that is started. Excuse me in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -528,8 +508,6 @@ righteousness; *yena* = bye which; *tava* = your; *iyam* = this;
 
 "Oh, Rama the great minded! This righteousness by which your intellect got disunited
 and by which indulgence, you are stupefied, is disliked by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -574,8 +552,6 @@ abediently to the will of Kaikeyi.
 "you are capable of doing retaliatory action. How can you act on the word which is
 reprehensible and which is unjustified of your father who is surrendering obediently to the will of
 Kaikeyi?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -625,8 +601,6 @@ Kaikeyi?"
 
 "Though they are doing this treachery with a sinful intent, I regret that you are
 not grasping it. Such a conduct is to be censured."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -684,8 +658,6 @@ forever.
 "But of them, action on their own free will, were never desirous of your welfare.
 They are enemies in the name of parents. It is not proper even to think of fulfilling their
 desire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -728,8 +700,6 @@ divine power; *tathaapi* = even then; *narochate* = I do not desire;
 
 "It may be your opinion that their action is influenced by mere destiny. Even then,
 I do not like you to be indifferent to this also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -781,8 +751,6 @@ respect naparyupaasate = do not honour; *daivam* = destiny.
 
 "Only a confused and cowardly person depends upon destiny. Brave men with
 self-respect do not honour the destiny."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -831,8 +799,6 @@ effort; *saH* = that person; *na avasiidati* = does not regret; *vipannaartha*
 
 "That person who is capable of keeping off destiny by human effort, does not have
 regret in the sense of not being failed by destiny."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -881,8 +847,6 @@ man and destiny bhavishhyati = will become; *vyaktaa* = clear.
 
 "Today, all can see how much prowess is there in destiny and in man. This day, the
 distinction between man and the destiny will be clearly perceived."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -932,8 +896,6 @@ by my prowess.
 
 "By which destiny, your coronation is seen crushed, I shall crush that destiny by my
 prowess. Let all people see it!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -985,8 +947,6 @@ fiercely; *mada baloddhatam* = with violent force.
 
 "By my prowess, I shall turn back this destiny, as framing back an elephant which is
 not caring a hook and which is fiercely running with violent force."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1039,8 +999,6 @@ _________________
 
 "Neither all the guardians of the world nor the three worlds put together can
 withhold Rama's coronation today. Why to talk about father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1090,8 +1048,6 @@ samaaH* = for fourteen years.
 
 "Oh, King! Those who are secritlyadvocating you to live in a forest for fourteen
 years, will have to reside in forest for fourteen years in that manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1140,8 +1096,6 @@ and is trying; *putraraajyaaya* = for kingdom to her son; *tava abhishhekavighaa
 
 "That is why, I shall break down the hope of father and of Kaikeyi, who is trying
 for kingdom to her son by creating obstacle to your coronation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1194,8 +1148,6 @@ do.
 
 "The strength of destiny cannot create that much pain as that which my terrific
 prowess will create to those who are opposed to my strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1244,8 +1196,6 @@ honourable; *karishhyanti* = will rule the people.
 
 "At the end of a thousand years of your ruling the kingdom, you having gone to the
 forest, your sons will govern the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1294,8 +1244,6 @@ of ancient kings; *vanavaasaH* = to reside in forest.
 
 "It is indeed a practice for ancient kings to go to the forest after keeping care of
 people, to be nourished as children, into the hands of their sons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1371,8 +1319,6 @@ world of heaven; *aham* = I; *rakshheyam* = shall protect; *tava* = your;
 will get disturbed due to unstable mind of king Dasaratha, you need not fear. I am promising you. I
 shall protect the kingdom as a sea coast protects the sea. If not, I will not obtain the heroic
 world of heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1422,8 +1368,6 @@ force.
 
 "You become engaged in getting coronated with auspicious things. I for one is
 competent to ward off the kings by force."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1477,8 +1421,6 @@ subduing the enemies.
 "My arms are not meant for handsomeness alone. Bow is not for decoration. Sword is
 not for tying around waist. Arrows are not for staying immobile. All these four are intended for
 subduing enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1556,8 +1498,6 @@ moving brilliance like lightening. mahii = this earth; *bhavitaa* = will become;
 wearing a sword with sharp edge which is mavingly bright like lightening, I do not care any enemy,
 even Indra himself. This earth will become impermeable, uninhabited with heads hands and thighs of
 elephants horses and men crushed, having been hit by my sword."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1609,8 +1549,6 @@ my sword; *adraya iva* = like mountains; *diipyamaanaaH* = in blaze;
 
 "Now, elephants can fall down on earth, being hit by the gush of my sword, like
 mountains in blaze, like clouds, savidyutaH = with flashes of lightening.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1659,8 +1597,6 @@ will be; *purushhamaanii* = faneying himself a hero; *purushhaNaam* = among men?
 
 "As I stand holding a bow with fingers wound with shields made of allegator-skin,
 how any man will fancy himself a hero among men?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1709,8 +1645,6 @@ marmasu* = vitals of men; horses and elephants.
 
 "While I overpower one with many arrows and many with a single arrow, I discharge my
 arrows at vitals of men, horses and elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1760,8 +1694,6 @@ arrows at vitals of men, horses and elephants."
 
 "Oh, Lord! Today, the strength of my excellent arrows is capable of making you
 sovereign and making Dasaratha devoid of power."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1810,8 +1742,6 @@ government to you; *prabhavishhyati* = has the power.
 
 " Oh, Lord Rama! Today the effect of my weapons will remove the power from the king
 Dasaratha and give the lordship to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1877,8 +1807,6 @@ for bestowal of ; *vasuunaam* = riches; *paalanasya* = for protection of;
 "Oh, Rama! These arms worthy of wearing sandalwood essence and bracelets; for
 bestowing riches and for protection of friends can today do every action to prevent the agents who
 want to obstruct your coronation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1934,8 +1862,6 @@ servant; *tava* = to you.
 
 "Tell me now itself who your enemy be made deprived of life, honour and friendship,
 by me. Command me so that how this earth will become your dominion. I am your servant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 </details>
 
@@ -1996,8 +1922,6 @@ path!
 
 Then, Rama spoke thus to Lakshmana after consoling him time and again by weeping off
 his tears; "Oh, Lakshmana! I stand by the words of our father. This indeed is a good path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

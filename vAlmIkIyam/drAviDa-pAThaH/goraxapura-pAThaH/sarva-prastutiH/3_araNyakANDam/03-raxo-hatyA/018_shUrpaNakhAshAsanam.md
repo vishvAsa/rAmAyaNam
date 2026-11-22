@@ -20,8 +20,6 @@ Rama averts Shuurpanakha's advances toward him and asks her to seek Lakshmana in
  words and rushes to eat away Seetha. Lakshmana defaces her and she noisily runs away from
  there, only to report to her brother Khara, a violent demon. This is the triggering situation
  of another round of troubles to Rama and Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ softly, with voice; *smita puurvam* = smile, preceded by; *atha abraviit* = then
 
 Rama then voicing clearly and softly spoke to her, whom the noose of lust has tethered down, with a
 smile preceding his words. [3-18-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ su duHkhaa* = will be distressing.
 
 "Oh, honourable one, I am married and this is my dear wife, thus it will be distressing for your sort
 of females to live with a co-wife. [3-18-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -206,8 +200,6 @@ In another way, the word *a* in *a kR^ite* also means *antaHpura* according to
 the thesaurus of *a* and it is said as: *akaaro brahma vishNu iisha kamaTheSva~NgaNe, gaurave
 antaHpure* palace-chambers of queens; and thus the meaning is as: 'one who left behind his wife
 in palace-chambers, hence he has no wife.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -258,8 +250,6 @@ he is undergoing celibacy.' And further 'In Gorresio's text it is there as *taru
 arthii* where *taruNa* is youthfulness. Rama is also youthful. So Rama's expression of
 *apurvii* is just to indicate Lakshmana as a *brahmacaari* a celibate, though he has a
 wife and youthful also. After Prof. Satya Vrat. Unchained is he by nuptial bands: is Griffith's wording.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -315,8 +305,6 @@ with his shine. Such a massive mountain is that. Thus Mt. Meru is an absolver *n
 of sunshine. So also you reach Lakshmana and become absolved in him / by him. Govindaraja. Secondly,
 you adore Lakshmana like *bhartaaram* a husband, a Providence of all in the universe. Maheshvara
 Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -362,8 +350,6 @@ Rama; *tataH saa lakSmaNam abraviit* = then, she, to Lakshmana, spoke.
 
 When Rama clearly told that way to that demoness dazed in lust, discarding Rama quickly then she spoke
 to Lakshmana. [3-18-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -410,8 +396,6 @@ move about [take a jaunt.]
 
 "I with my best complexion will be your deserving wife meetly to you charm, you can happily take a jaunt
 all over Dandaka forest along with me." So Shuurpanakha ran after Lakshmana. [3-18-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -461,8 +445,6 @@ making, expert; *saumitrii* = Soumitri's son; *lakSmaNaH* = Lakshmana; *tataH sm
 
 Thus said by the demoness that meaningful sentence maker Lakshmana, the son of Sumitra, then smiled
 and appropriately replied Shuurpanakha. [3-18-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -509,8 +491,6 @@ bhraatraa* = vassal, brother.
 
 "How you wish to become a female servant, oh, [black] lotus-coloured one, by becoming the wife of a
 servant like me? I am just a vassal of my adorable brother. [3-18-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -569,8 +549,6 @@ amala varnaNi* when declined as *a + mudita; mala varNinii* will mean: ' you hav
 filthy is your complexion.' *yaviiyasii bhaaryaa*; 'you are an unhappy creature with a filthy
 complexion and you will become a worst possible wife of Rama... do you wish to become at least that
 worst wife? No, never you can.' Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -648,8 +626,6 @@ saMvR^ddhi* 'abounding with intellect, character, conduct etc., not just years o
 higher to her in husband-adoration, a tallish lady, slender-waisted and in her enriched are intellect,
 character and conduct... how can she be left off for your sake?' This is the innuendo of Lakshmana's
 wording. Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 
 </details>
@@ -700,8 +676,6 @@ kuryaat* = in human females, an intent, makes -- who will prefer.
 
 "Oh, best complexioned one with best waist, is there any wiseacre to simply discard your kind of best
 personality, indeed, in preference to human females?" Lakshmana said so to Shuurpanakha. [3-18-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -751,8 +725,6 @@ presumed.
 
 Thus said by Lakshmana that despicable one with slouching stomach Shuurpanakha presumed those words
 to be truthful, for she is equivocal of that equivoque. [3-18-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -799,8 +771,6 @@ to be truthful, for she is equivocal of that equivoque. [3-18-13]
 
 She who is fuddle by lust said to that unassailable enemy scorcher Rama who is sitting in the cottage
 along with Seetha. [3-18-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -850,8 +820,6 @@ na bahu manyase* = you, me, not, highly, regarding.
 
 "Tenacious of her who is disfigured, dishonest, diabolical, hallow-stomached old wife of yours you are
 not regarding me high. [3-18-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -898,8 +866,6 @@ co, wife; *tvayaa saha cariSyaami* = with you, along, I ramble [make merry]; *ya
 
 "Now I wish to eat up this human female right before your very eyes, and then I can blithely make merry
 along with you, without the botheration of a co-wife." Said Shuurpanakha to Rama. [3-18-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -949,8 +915,6 @@ akSiim* = towards deer, eyed [Seetha]; *abhyadhaavat* = dashed.
 
 Speaking that way she that torch-eyed Shuurpanakha dashed towards the deer-eyed Seetha in high exasperation
 as a great meteor would dash towards Rohini, the brightest star in the sky. [3-18-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -996,8 +960,6 @@ gR^ihya* = her, on checking; *tataH lakSmaNam abraviit* = to Lakshmana, said.
 
 By that the great-energetic Rama took umbrage and checking her who is like the noose of death swooping
 down on Seetha said to Lakshmana. [3-18-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -1044,8 +1006,6 @@ parihaasaH na kaaryaH* = punning, not, be made - inapposite; *kathamcit jiivatii
 
 "Punning in any way with the base and brutish is inapposite, oh, gentle Saumitri, mark note of Vaidehi,
 somehow surviving [3-18-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -1091,8 +1051,6 @@ knavish; *ati mattaam* = overtly, ruttish; *mahaa udariim* = big, bellied; *imaa
 
 "She is freakish, knavish and overtly ruttish, oh, tigerly man, it will be apt of you to deface this
 paunchy demoness " Thus Rama said to Lakshmana. [3-18-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -1142,8 +1100,6 @@ up [drawing,] sword; *tasyaaH karNa naasam cicCheda* = her, ears, nose, chopped 
 
 Thus said to that mighty Lakshmana he infuriately drew sword and chopped off her ears and nose before
 the very eyes of Rama. [3-18-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -1190,8 +1146,6 @@ the very eyes of Rama. [3-18-21]
 
 On hewing off her ears and nose she that ghastly Shuurpanakha blared highly and discordantly, and very
 speedily fled into forest as she came. [3-18-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -1238,8 +1192,6 @@ speedily fled into forest as she came. [3-18-22]
 
 She that very ghastly demoness when defaced is wetted by blood and blared many a blare like a cloud
 in cloudburst. [3-18-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -1280,8 +1232,6 @@ in cloudburst. [3-18-23]
 
 She that gruesome one in her appearance clasped herself and thunderously entered similarly gruesome
 forest while her blood fountained and profusely exuded. [3-18-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -1336,8 +1286,6 @@ with; *bhuumau papaata* = on ground, fell down.
 Then she who is deformed neared her brother Khara who possess violent vigour, who is abiding in Janasthaana
 and who is presently surrounded by his band of his hench-demons, and before him she that Shuurpanakha
 fell onto ground like a thunderbolt from the sky. [3-18-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 </details>
 
@@ -1397,8 +1345,6 @@ shashamsa* = all, reported.
 Then that sister of Khara who is convulsed in the fluster of fear and her body wetted with blood reported
 to her brother Khara, all about Rama's arrival in forest with his wife and Lakshmana, and even about
 his misshaping her. [3-18-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

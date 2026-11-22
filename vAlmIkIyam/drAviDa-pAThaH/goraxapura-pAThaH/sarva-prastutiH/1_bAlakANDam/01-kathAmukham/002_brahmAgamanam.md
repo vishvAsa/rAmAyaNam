@@ -20,8 +20,6 @@ kills one. Valmiki unintentionally utters a poem, which is rich in grammar and n
 of which he is very much confused as to why such a poem has come from his tongue. Brahma,
 the presiding deity of letters appears and ordains Valmiki to author Ramayana, excellent epic
 of Rama, for which purpose alone he gave such divine meter and grammar to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ of Rama, for which purpose alone he gave such divine meter and grammar to him.
 
 Then, the great sage Valmiki, a skilled orator and a virtue-minded one, having heard those words of Narada,
  worshipped him along with disciples. [1-2-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -128,8 +124,6 @@ _________________
 That divine sage Narada being worshipped befittingly by Valmiki in that way, on seeking
 permission of Valmiki to leave and having been permitted by Valmiki, went away heaven-ward.
 [1-2-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ permission of Valmiki to leave and having been permitted by Valmiki, went away h
 **अनुवादः**
 
 Then, on Narada's going to the world of gods in a trice, that sage Valmiki went to the banks of Tamasa river not far from Jahnavi river. [1-2-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ Then, on Narada's going to the world of gods in a trice, that sage Valmiki went 
 **अनुवादः**
 
 Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholding a ford of that river, spoke to his disciple who was at his side. [1-2-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -254,8 +244,6 @@ Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholdi
 **अनुवादः**
 
 "Oh! Bharadwaja, behold this ford which is without dirt, with clear waters and pleasant like a virtuous man's mind. [1-2-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -295,8 +283,6 @@ Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholdi
 
 "My dear! Let the hand-vessel [kamaNDalu] be kept [there]. Let my bark-garment be given to me. I will enter this best
 ford of Tamasa only... [1-2-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -335,8 +321,6 @@ ford of Tamasa only... [1-2-6]
 **अनुवादः**
 
 Thus being said by the great-souled Valmiki, Bharadwaaja who was obedient to his Guru, gave the bark-garment to the sage [1-2-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -378,8 +362,6 @@ vanam* = that wide forest.
 
 That self-controlled Sage Valmiki on taking bark-garment from his disciple's hands, and looking in all directions, indeed moved away from that
 wide expanse of forest. [1-2-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -421,8 +403,6 @@ its [in foreshore's] vicinity.
 
 There holy sage Valmiki saw a couple of curlews, in the vicinity of that river's
 foreshore, flying there about in togetherness and cooing charmingly. [1-2-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -462,8 +442,6 @@ foreshore, flying there about in togetherness and cooing charmingly. [1-2-9]
 
 A tribal hunter with evil intent, and a receptacle of enimity, killed the male
 one among the couple of birds, while Valmiki was looking on. [1-2-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -534,8 +512,6 @@ The wife was moving together with husband with a red crest and with joy, with go
 that bird slain on ground reeling with blood covered wings really made wailing sounds with piteous utterances on being separated from her
 husband.
 [1-2-11, 12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -575,8 +551,6 @@ occasioned.
 
 On seeing that bird felled that way by the tribal hunter, compassion occassioned in that
 saintly sage Valmiki. [1-2-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -620,8 +594,6 @@ abraviit* = uttered this sentence.
 
 Then on seeing the wailing female krounchi bird, out of state of compassion and apperceiving
 the killing of male bird as unjust, the sage uttered this sentence... [1-2-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -797,8 +769,6 @@ vii] *kaamamohitam*= fascinated by desire, [ *kaama* also means a longing, desir
 alone lusting]; Seetha is fascinated by her desire to see sage's wives in uttara Ramayana and thus
 she is sent to forests through Lakshmana. Hence seventh canto, *uttara Ramayana* is also
 suggested.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -844,8 +814,6 @@ tasya hR^idi* = in his heart; *chintaa babhuuva* = [he] became thoughtful;
 **अनुवादः**
 
 Thus speaking and pondering in his heart, he became thoughtful: "What is this utterance by me in grief and anguish for this bird?". [1-2-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -886,8 +854,6 @@ Thus speaking and pondering in his heart, he became thoughtful: "What is this ut
 
 That great wise one who was an intellectual and the best among sages, on cogitating, made up his mind and also spoke these words to the
 disciple... [1-2-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -941,8 +907,6 @@ yati
 *sorrow, so the format is named as *shloka*. And, *shloka *also means *yashas,
 kiirti
 *renown.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -994,8 +958,6 @@ abhavat muniH* = saint was delighted.
 
 Even the disciple happily received what that is articulated by the saint, a unique articulation,
 by which the saint too, was delighted. [1-2-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1045,8 +1007,6 @@ ceremonial showering of waters on deities or on kings in his coronation. At the 
 arrives at the river for a daily bath, which he would do by usual dipping in river waters. But here
 it appears that waters are showered on him, *abhiShekam kR^itvaa *meaning that waters showered
 on him are on the analogy of poetic verses of Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1088,8 +1048,6 @@ scriptures, [erudite scholar]; *shiShyaH* = disciple; *Bharadwaja; puurNam kalas
 Then Bharadwaja, the obedient disciple and an erudite scholar, for he heard and learnt many
 scriptures by listening, on taking handy-vessel full with water followed at the behind of
 his mentor. [1-2-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1131,8 +1089,6 @@ along with disciples; *pravishya aashramapadam* = on entering, hermitage's thres
 He that knower of dharma, Valmiki, having entered the threshold of hermitage along with disciples,
 and having seated spoke about the day-to-day teachings and also other things, but he himself
 is preoccupied in cogitation on the verse. [1-2-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1187,8 +1143,6 @@ Comment; The deities do not usually arrive on their own, but reveal themselves a
 penance, or on raising hue and cry as is done by demon devotees. Here Brahma, one among the
 Trinity of Hindu mythology, arrives on his own, to execute a divine deed through Valmiki,
 i.e. authoring the epic, Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1235,8 +1189,6 @@ palms; *vaagyataH* = spellbound; *tasthau* = stood aside.
 
 Then that pious saint Valmiki is highly surprised on seeing Brahma, and on quickly getting
 up from his seat with his palms adjoined humbly, he stood aside, as he is spellbind. [1-2-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1298,8 +1250,6 @@ of worlds, while Vishnu maintains them, and Shiva dissolute them. The concert of
 Saraswati, the presiding deity of speech, who was earlier requested by Brahma to be on the
 tongue of Valmiki to utter the poem, [as at 1-2-15] as an intuition to Valmiki. Thus Brahma
 now arrives to ordain Valmiki to author Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1344,8 +1294,6 @@ very, highly, worshipped [by Valmiki];*vaalmiikaye ca R^iSaye =* also at sage Va
 
 Then god Brahma, who is seated on a high seat, very highly worshipped by Valmiki, also beckoned
 at Valmiki to take a seat. [1-2-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1404,8 +1352,6 @@ aasthitaH* = mentally, brooding, recurred.
 Even though Valmiki sat on his seat when duly permitted by Brahma, and though the Grandparent
 of the worlds is manifestly sitting before him, but the same broodings on those happenings
 occurred on that day have recurred on his mind. [1-2-27-28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1422,8 +1368,6 @@ kaSTam kR^itam = hardship, is caused.
 
 "He that tribal hunter, who killed a cutely calling krouncha bird for no good reason than intending
 to capture the kill, is an evil souled one that caused hardship..." [1-2-28b-29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1488,8 +1432,6 @@ The word *jaguH *is singing; *gai= shabde; liT; prathama bahu; jagau - jagatuH -
 variant of *gaay*; c.f. Raghuvamsha of Kalidasa, verse 20, in fourth sarga; *
 aakumaarakathodghaatam shaaligopyo
 jaguryashaH *
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1539,8 +1481,6 @@ jaguryashaH *
 
 Then, Brahma smilingly spoke to that eminent saint Valmiki, "But, what that is composed is
 a verse only... and there is no need to think through... [1-2-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1556,8 +1496,6 @@ sprang forth; *hè R^iSisattama* = oh the eminent sage; *raamasya charitam kR^it
 
 "Oh, Brahman, that speech of yours sprang forth at my wish alone, hence oh, eminent sage,
 you shall render the legend of Rama, in its entirety... [1-2-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1619,8 +1557,6 @@ as heard, from Narada; *kathaya* = narrate.
 
 "You shall narrate the legend of Rama, the virtuous, intellectual and an intrepid one, and
 a godlike person in this world as well, as you have heard it from sage Narada. [1-2-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1692,8 +1628,6 @@ aviditamapi* = even unkonwn; sarvam te viditam bhaviSyati
 or unknown in every detail, and even the plight of Vaidehi which is either revealed or un-revealed
 so far, and whatever legend that has happened, all that will also be known to you, even if
 it were to be unknown, as yet... [1-2-33-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1739,8 +1673,6 @@ it were to be unknown, as yet... [1-2-33-34]
 
 "You shall versify the heart pleasing and merit-yielding legend of Rama, and not a single
 word of yours will not be false in this epic... [1-2-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1819,8 +1751,6 @@ word of yours will not be false in this epic... [1-2-35]
 
 "As long as the mountains and even rivers flourish on the surface of the earth, so long the
 legend of Ramayana will flourish in this world... [1-2-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1837,8 +1767,6 @@ legend of Ramayana will flourish in this world... [1-2-36]
 
 "And as long as Rama's legend authored by you flourishes...till then you will flourish in
 heavenly, in netherworlds, and even in my abode, namely Abode of Brahma... [1-2-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1879,8 +1807,6 @@ tatra eva* = there only; *antaradhiiyata* = vanished; tataH
 
 On saying thus that Divinity Brahma vanished then and there only, and then that godly sage
 Valmiki came by astonishment, along with his disciples. [1-2-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1933,8 +1859,6 @@ recited, also.
 
 Then all of the disciples of Valmiki sang this verse time and again very delightedly, and
 much astonished they also recited this verse, reciprocally. [1-2-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -1996,8 +1920,6 @@ of that poetry. For Kalidasa it is *shR^ingaara*, passion, for Bhavabhuti it is 
 that the verse originally structured metrically can now can be sung. Second is *shokaH
 shlokatvam aagataH...* the pathos of the poet attained the status of verse that is now
 being sung by the disciples, thus anyone can recite it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 </details>
@@ -2039,8 +1961,6 @@ maharSeH jaataa* = born to that great sage.
 
 Born is an intuition in that great sage and contemplated soul asserting that "I will compose
 entire Ramayana, the epic, in suchlike verses...' [1-2-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 </details>
 
@@ -2109,8 +2029,6 @@ letters verses in hundreds; *chakaara* = authored.
 That celebrated sage and magnanimous seer Valmiki then authored the highly renowned Rama's
 legend extolling Rama's renown, with symmetrically worded verses, and words versified to yield
 meanings semantically, prosody free-flowing, and with hundreds of such verses. [1-2-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -2169,8 +2087,6 @@ named Ravana, and further, it is said by the sage, hence this may now be listene
 This is balladeers bidding to the audience. The word *munipraNiitam *reminds that a
 non-saint cannot tell an epic; *na anR^ishiH kurute kaavyam *and hence it is to be listened
 attentively.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

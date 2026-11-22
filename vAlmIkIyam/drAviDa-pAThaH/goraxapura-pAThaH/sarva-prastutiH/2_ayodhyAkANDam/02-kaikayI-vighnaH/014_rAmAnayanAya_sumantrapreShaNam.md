@@ -16,8 +16,6 @@ title_english = "014 The night passes"
 This chapter starts with Kaikeyi's entreaties to the king followed by Dasaratha
 disowning her as wife. The night passes and Sumantra comes to wake up the King. Ordered by Kaikeyi
 to bring Sri Rama to the king, he goes to Sri Rama to fetch Him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ fallen; *visajJNam* = unconscious; *viveshhTamaana m* = tossing about; *bhuvi*
 
 That wicked woman spoke these words to Dasaratha, tormented as he was by the anguish
 for his son and who was unconscious, tossing about on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ as; *though you had perpetrated a sithtyaam* = you; *arhasi* = ought to;
 "What is this? After hearing the promise given to me, you are lying on the floor
 dejected as though you had committed a great sin. You ought to keep yourself within bounds of
 ethics".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ in truth.
 
 "People who know what is right, indeed speak of truthfulness as highest virtue. I
 too have taken refuge in truth and made you aware of your duty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ obtained; *uttamaam* = the highest; *gatim* = destiny.
 
 "Oh, king! Having made a promise to a hawk and offering his body to the bird , king
 Saibya, the ruler of world obtained the greatest destiny".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ _________________
 
 "In that manner, Alarka the glorious man plucking his own eyes, indeed gave
 remorselessly, to a brahmana skilled in the Veda, When asked for them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -318,8 +306,6 @@ tu* = ocean; the lord of rivers; *samaye* = at the time of flow-tide;
 
 "Following ruthfulness, ocean the lord of rivers even at the time of flow-tide, does
 not transgress even to a small extent its boundary because of its compliance to truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ the supreme being; *aapyate* = is obtained.
 
 "Truth is one word and is Brahma. On truth is righteousness established. Truth
 indeed is the knowledge imperishable. By truth alone, the supreme being is obtained".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -421,8 +405,6 @@ fixed; *dharme* = on piety; *samanuvartasva* = comfirm to; *satyam* = truth;
 
 "O the best among men! firmly adhere to truth, if your mind is fixed on piety. Since
 you are a bestower of boons, let my aforesaid prayer be granted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -470,8 +452,6 @@ you; *triH* = three times.
 
 "In the matter, yearning righteousness and to concede to my request, send Rama the
 son to exile. I am telling to you three times".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -518,8 +498,6 @@ if you do not implement; *imam* = this; *mama* = my; *samayam* = agreement;
 
 "Oh, the venerable man! If you do not implement our agreement, it means you have
 abandoned me. Hence I will give up my life here in front of you".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -568,8 +546,6 @@ Thus compelled by Kaikeyi, who had no uneasiness in her mind, king Dasaratha cou
 not untie the cord of plighted word that fettered him , any more than Bali could unloose the noose
 placed (round his body) by Indra(through his younger brother Vamana in order to deprive him of his
 sovereignty of the three worlds).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -619,8 +595,6 @@ vadanaH chaapi* = pale in his face.
 
 Like a bullock throbbing between yoke and the wheel , Dasaratha got agitated in
 heart and became pale in his face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -670,8 +644,6 @@ firm; *dhairyeNa* = with courage; *kR^ichchhraat* = and with difficulty;
 
 King Dasaratha, with bedimmed eyes, was unable, as it were, to see. But with
 difficulty, he controlled himself by recourse to firmness and spoke to Kaikeyi as follows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -720,8 +692,6 @@ when it was consecrated by sacred recitations; *tava putram chaiva* = as also yo
 "Oh, wicked woman! I abandon your hand, which was clasped by me in presence of
 nuptial fire, when it was consecrated by sacred recitations as also your son begotten by me along
 with yourself".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -772,8 +742,6 @@ purpose.
 "Oh, Queen! the night has gone by, with the return pf rising sun. Elderly people
 will certainly quicken me for installation of Rama with the sacred materials procured for the
 purpose".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -850,8 +818,6 @@ vyaahantaasi adi* = If you obstruct; *raamaabhishhechanam* = Rama's installation
 "Oh, woman of vicious conduct! If you obstruct Rama's installation, you including
 your son cannot offer me water. Rama will be made to do the offering of water to me, after
 death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -868,8 +834,6 @@ downwards.
 
 "Having seen people with that joy before, I cannot see them with there happiness
 ended, without any merriment and having their faces turned downward in grief".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -916,8 +880,6 @@ endowed with moon and stars; *prabhaataa* = began to become clear into a dawn.
 
 While that great souled king was speaking to her as aforesaid, the holy night
 endowed with, moon and stars began to become clear into a dawn.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -967,8 +929,6 @@ puuritaa* = filled with anger; *punaH* = again; *uvacha* = spoke;
 
 Kaikeyi of vicious conduct and of skilful talk, filled with anger again spoke these
 harsh words to the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1027,8 +987,6 @@ out delay.
 
 " Oh, king ! You are uttering words, which cannot be swallowed easily like in a
 painful throat disease. You ought to summon your son Rama here without any delay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1044,8 +1002,6 @@ kingdom kR^itvaa = by making; *raamam* = Rama; *vane charam* = wander in woods;
 
 "You will be the one who discharges duty, by installing my son to this kingdom, by
 making Rama to wander in woods and rid me of enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1095,8 +1051,6 @@ _________________
 
 Impelled again and again by Kaikeyi, like an excellent horse being severely thrashed
 with a whip, that king spoke these words to Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1144,8 +1098,6 @@ beloved.
 
 "I am bound by the ties of morality. I lost my judgement. I wish to see the pious
 Rama, my beloved elder son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1209,8 +1161,6 @@ Meanwhile, the night began to become clear, with the rising of sun. While the
 auspicious, moment united with lunar mansion approaching, the sage Vashishta who is rich in virtues
 surrounded by his disciples entered the capital city of Ayodhya briskly, having procured the
 requisite materials for Rama's coronation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1345,8 +1295,6 @@ anxiously waiting for Rama, fumigated on all sides with perfumes of sandalwood ,
 Amaravathy city(capital of Indra); the sage Vashishta beheld the excellent, gynaecium filled with
 many a number of brahmanas, crowded with citizens and countrymen, looking splendorous with
 brahmanas, knowers of sacrificial assembly filled with excellent brahmanas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1393,8 +1341,6 @@ and entered it.
 
 Sage Vashishta, being well pleased of seeing that gynaecium, got past those people
 there and , entered it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1442,8 +1388,6 @@ out.
 
 Meanwhile, Vashishta saw Sumantra by name, who was charioteer-cum-minister of
 Dasaratha and who had a pleasing appearance coming out of the royal gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1490,8 +1434,6 @@ quickly, that I have come."
 
 The word "suta" evidently denotes here the son of a kshatriya through a brahmana
 wife (his business being that of a bard or a charioteer)-Amarakosa.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1632,8 +1574,6 @@ of musical instruments,courtesans, women decked with ornaments, teachers, brahma
 and birds which are sacred, the best of citizens and men of country side, merchants along with
 their followers, all these and many other retainers speaking kind words, along with kings stand
 waiting for Rama's coronation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1680,8 +1620,6 @@ auspicious; *nakshhatra yogecha* = occation of constallation called pushya.
 
 Hasten the emperor, so that Rama will get the throne when the day gets started at
 the auspicious moment of pushya constellation uniting with the moon"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1728,8 +1666,6 @@ enlogging; *nR^ipati shaarduulam* = Dasaratha; that tiger among kings.
 
 Hearing these words Vashishta the great souled, Sumantra entered the gynaecium along
 with Dasaratha, the tiger among kings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1780,8 +1716,6 @@ king.
 
 The doormen , who were wishing to do kindness to king, could not obstruct Sumantra,
 who came before hand who was senior and who was highly esteemed by the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1828,8 +1762,6 @@ who came before hand who was senior and who was highly esteemed by the king.
 
 Standing besides the king and ignorant of that situation, Sumantra started praising
 the king with very pleasing words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1876,8 +1808,6 @@ gynaeceum; *paarthivasya* = of the king ; *tushhTaava* = enlogised;
 
 Sumantra, standing with joined palms in the gynaecium of the king, eulogised the
 king according to the appropriate moment as follows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1925,8 +1855,6 @@ delighted.
 
 "How the splendid ocean gladdens at the time of sunrise, so do you by nature filled
 with delight, gladden us with your delighted mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -1974,8 +1902,6 @@ you.
 
 "At the very hour of sunrise, Matali (Indra's charioteer)praised Indra and the
 latter conquered all the demons. In the same manner, I am awakening you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2028,8 +1954,6 @@ creator) who is self born, so am I awakening you now."
 
 Brahma derives his knowledge of objects to be evolved at the beginning of
 creation from the Vedas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2073,8 +1997,6 @@ earth; *bhuutadharaam* = which sustains the ; living beings; *tathaa* = so;
 
 "Even as the sun along with the moon awaken the beautiful earth which sustains the
 beings so, am I awakening you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2121,8 +2043,6 @@ dressed suitably for the auspicious ceremony.
 
 "Having dressed suitably for the auspicious ceremony and shining brightly with you
 personality, raise up. Oh, Majesty, like the sun from mount Meru."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2169,8 +2089,6 @@ suuryoncha* = Sun and the moon; *shiva vaishravaNaavapi* = Shiva and Kubera;
 
 "Oh, Dasaratha born in Kakutsa dynasty! May the Gods -Sun and the Moon Shiva and
 Kubera, Varuna, Agni and Indra bestow you victory!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2241,8 +2159,6 @@ was surrounded ; *shokena* = with grief; *bhuumya eva* = once more.
 
 "Oh, the best of the kings ! The holy night has gone by. Know what has been done and
 do what has to be done. All the requirements for Rama's coronation is kept ready" .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2283,8 +2199,6 @@ jaanapadaishchaapi* = citizens and village folks; *naigamaishcha* = and merchant
 
 "The venerable Vashishta himself stands waiting at the gate along with brahmanas,
 being saluted saluted with joined palms by citizens, village folk and merchants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2360,8 +2274,6 @@ herdsman; *yathaa* = how; *senaa* = army is; anaayakaH ; without commander;
 "Oh king! Give orders quickly for Rama's coronation ceremony. A kingdom without a
 king is like cattle without a herdsman, army without a commander, night without the moon and cows
 without a bull."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2413,8 +2325,6 @@ was surrounded ; *shokena* = with grief; *bhuumya eva* = once more.
 
 King Dasaratha hearing his words which were soothing and meaningful, was surrounded
 with grief once more.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2433,8 +2343,6 @@ further; *vaakyaiH* = with words"
 That king who was pious and glorious, having lost joy about his son, looked up with
 sorrowful red eyes and spoke those to Sumantra. "You are chopping off my vitals further more, with
 your words!."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2482,8 +2390,6 @@ deshaat* = from that place.
 
 Sumantra, after seeing the depressed king and hearing mournful words, joined palms
 with salutation and slipped away to a distance from that place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2525,8 +2431,6 @@ Sumantra.
 
 Dasaratha could not say any thing himself because of depression. Then, Kaikeyi who
 is experienced in fore-thoughts, spoke thus to Sumantra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2573,8 +2477,6 @@ harshha samutsakah* = getting emotional by the joy related to Rama;
 
 "Oh Sumantra! The king, being smitten by emotional joy in relation to Rama, who
 tired of awakening the whole night and got subjected to sleep"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2616,8 +2518,6 @@ quickly; *gachchha* = proceed; *aanaya* = to bring; *raamam* = Rama;
 
 "Oh, Sumantra! Hence, quickly go and bring the glorious prince Rama. Blessedness to
 you! Do not have any hesitation in this matter. "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2664,8 +2564,6 @@ hurriedly; *raaja shaasanaat* = by the orders of the king.
 
 "He was thinking of that auspicious occasion in heart and rejoiced. With pleasure,
 he set out, by the orders of the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2715,8 +2613,6 @@ _________________
 
 Instigated by her, Sumantra thought that the righteous Rama would come there
 certainly for coronation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2763,8 +2659,6 @@ the long armed
 
 Sumantra thus thinking and dwelling in a great joy, set out with a desire to see the
 long armed Rama
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 
@@ -2817,8 +2711,6 @@ sambaadhaam* = looking congested; with men; *agrahataH* = in front.
 
 Sumantra coming out of gynaceumwhich looked like a splendid pool in the sea, saw the
 gate being congested with throngs of people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2835,8 +2727,6 @@ gate being congested with throngs of people.
 
 Afterwards, proceeding further on, he saw near the gate some kings stationed there
 and very rich citizens having arrived there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
 </details>
 

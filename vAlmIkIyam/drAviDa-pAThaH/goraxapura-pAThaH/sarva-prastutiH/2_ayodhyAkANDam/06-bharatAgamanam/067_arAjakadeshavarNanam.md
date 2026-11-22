@@ -17,8 +17,6 @@ That night in Ayodhya passed over with agony. At sunrise the Brahmins who enthro
 person as a king, assembled and requested Vasista the family priest of Ikshvakus to select a youth
 to be crowned as a king of Ayodhya. They enunciated the various evil consequences of allowing the
 country without a king and leaving it in anarchy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ country without a king and leaving it in anarchy.
 
 That night in Ayodhya, which was joyless in a weeping tone and thronged with people
 with tears in their throats, slowly passed over.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ throne; *sametya* = together; *iiyuH* = went; *sabhaam* = to the assembly.
 
 At sunrise, when the night had passed over, the Brahmins who place a king on the
 throne, together gathered at the assembly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ spoke; *vaacham* = words:
 Markandeya, Moudgalya, Vamadeva, Kasyapa,Katyayana, Goutama and the greatly famous
 Jabali-all these Brahmans together with the ministers turned towards the excellent royal priest
 Vasishta and one by one spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -230,8 +222,6 @@ having obtained; *paNchatvam* = death; *putrashokena* = due to grief for his son
 "King Dasaratha having obtained death due to grief born of separation from his sons
 (Rama and Lakshmana), the night which burdened like a hundred years, has passed over with great
 difficulty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -278,8 +268,6 @@ forest. tejasvii = The brilliant; *lakshhmaNashcha* = Lakshmana; *gataH* = went;
 
 "The monarch has gone to heaven. Rama took retreat in a forest. The brilliant
 Lakshmana followed suit and went along with Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -326,8 +314,6 @@ Satrughna; *paramtapou* = the annihilators of enemies; *ramye maataamaha ni vesh
 
 "Both Bharata and Satrughna, the annihilator of enemies, are encamped in the
 beautiful house of their maternal uncle in the city of Rajagriha in the kingdom of Kekaya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ beautiful house of their maternal uncle in the city of Rajagriha in the kingdom 
 
 "Hence, let anyone here in Ikshvaku dynasty be made a king today itself lest our
 nation without a king should result in a collapse indeed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -423,8 +407,6 @@ showering; *vaariNaa* = with water; *divyena* = from sky; *mahiim* = on earth;
 
 "Lightning clouds in the sky with a great noise of thunder, will not yield rain on
 the land in a country without a king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -472,8 +454,6 @@ anarchy."
 
 "Even a fist of seeds are not disbursed in a ruler- less land. In anarchy, even a
 son is not amenable to the control of a father nor a wife in the authority of her husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -522,8 +502,6 @@ can there be; *satyam* = truth?"
 "In a rulerless land, there is no wealth. Where there is no king, there is no
 (faithful) wife. Another very dangerous thing is there. In a ruler less territory, how can there be
 truth? "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ truth? "
 
 "In a ruler- less country, people do not cause to make a delightful assembly nor
 erect beautiful parks or temples."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -620,8 +596,6 @@ who are self restraint; *brahmaNaaH* = those who have divine knowledge;
 "In a ruler- less territory, those who frequently perform sacrificial rites, those
 who have self-restraint, those who firmly adhere to a vow as well as Brahmins do not carry out Soma
 sacrifices."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -671,8 +645,6 @@ dakshhi NaaH* = proper gifts."
 
 "In a rulerless land, Brahmans who obtained wealth and sacrificers in great
 sacrificial rites do not bestow proper gifts"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -722,8 +694,6 @@ dancers; *na vardhante* = are not intensified."
 
 "In a ruler- less territory, festivals and gatherings exalting the kingdom in which
 actors, and dancers exhibit their talents are not frequently arranged"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -771,8 +741,6 @@ with their stories."
 
 "In a ruler less land, litigants do not get their disputes settled and persons who
 have a knack for narrating stories do not gratify story- lovers with their tales."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -819,8 +787,6 @@ play; *saayaahne* = in the evening."
 
 "In a ruler less territory, girls adorned in gold do not go together to parks to
 play there in the evening."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -867,8 +833,6 @@ speedily moving. vaahanaiH = vehicles."
 
 "In a lord less land, lustful men do not go out to woods with ladies in speedily
 moving vehicles"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -915,8 +879,6 @@ open."
 
 "In a lord less land, rich people living on agriculture and cattle rearing do not
 sleep in their abodes well protected, with their doors open"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -963,8 +925,6 @@ tusks ; *raajamaargeshhu* = on royal highways."
 
 "In a land without emperor, sixty year old elephants with bells tied around their
 tusks, do not roam around on royal high ways
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1013,8 +973,6 @@ shruuyati* = is not heard."
 "In a ruler less land, the noise of plucking the bow string with the palm, produced
 by archers continuously discharging arrows while practicing the use of their bows, is not
 heard."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1061,8 +1019,6 @@ samaachitaa* = along with several merchandises; *na gachchhanti* = can not trave
 
 "In a rulerless land, traders who go to distant places, carrying with them several
 merchandises, cannot travel safely in their voyages."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1114,8 +1070,6 @@ _________________
 "In a rulerless land, a monk who wanders alone, who has subdued his senses, who
 mediates himself on the soul and who takes up an abode wherever evening overtakes him, cannot roam
 around the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1162,8 +1116,6 @@ around the city."
 
 "In a rulerless land; gain and security are not duly established. In anarchy, army
 cannot conquer enemies in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1210,8 +1162,6 @@ cannot go; *sahasaa* = fast; *paramavaajibhiH* = in excellent horses;
 
 "In a rulerless land, people beautifully adorned, cannot go fast cheerfully in
 excellent horses and chariots."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1258,8 +1208,6 @@ groves; *samvadantaH* = speaking together."
 
 "In a rulerless land, persons skilled in sacred treatises cannot sit speaking
 together in forests and groves."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1306,8 +1254,6 @@ together in forests and groves."
 
 "In a rulerless land, floral garlands, sweet-meats and gifts for the sake of
 offering to the deities, are not arranged by the appointed persons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1357,8 +1303,6 @@ trees; *vasante* = in springtime."
 
 "In a rulerless land, royal princes smeared with paste of sandal and aloe-wood do
 not figure brilliantly like trees in a spring time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1406,8 +1350,6 @@ the rivers; *yathaa* = like; *atR^iNam* = a lawnless; *vanam* = garden;
 
 "A rulerless country is like the water less rivers, like the lawn less garden and
 like the cowherd less cows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1455,8 +1397,6 @@ who; *dhvajaH* = like a flag; *saH raajaa* = that king; *gatah* = obtained;
 
 "A flag is an identity for a chariot. A smoke is an identity for a fire. King
 Dasaratha, like a flag, was an identity for us and he has left the world for a heavenly abode."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1506,8 +1446,6 @@ bhavati* = there is no; *svakam* = one's own property; *kasyachit* = for any one
 
 "In a rulerless land, there is no one's own property for any one. Like fishes,
 persons always eat away each other."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1556,8 +1494,6 @@ samshayaH* = and now their fear being dispelled; *kalpante* = are able to excers
 "The atheists, who were separated from their right path and who had been tormented;
 with punishment earlier by the king, are now without fear and are able to exercise their old
 temperament (due to anarchy)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1599,8 +1535,6 @@ righteousness; *raashhTrasya* = of the country."
 
 "As the eye sight is helpful regularly for a proper setting -in-motion of the body,
 so also a king is the cause of existence for truth and righteousness of a country."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1643,8 +1577,6 @@ benefactor; *nR^iNaam* = to people."
 "The king is truthfulness and righteousness personified in him. In a race, he
 belongs to a noble family. The king is a mother and a father. The king is a benefactor to
 people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1693,8 +1625,6 @@ conduct."
 "Hence, Yama (the god of Death); Kubera (the god of riches), Indra (the ruler of
 celestials) and the very mighty Varuna (the Lord of Waters) are outstretched by the a high and
 eminent conduct."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1742,8 +1672,6 @@ perceived."
 
 "Alas! If a king is not there in the world, with his power of discrimination between
 good and evil, this world will be dark and nothing will be clearly perceived."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1793,8 +1721,6 @@ _________________
 
 "Even when the emperor was alive, we all of us did not transgress your words, only
 any more than an ocean transgresses its coast."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 </details>
 
@@ -1855,8 +1781,6 @@ you; *samikshhya* = after reviewing; *vR^Ittam* = the circumstance; *raajyam*
 "O, the excellent Brahmana! After renewing the circumstances here and seeing that
 the kingdom is becoming a jungle without a king, you yourself anoint a youth born in Ikshvaku race
 or anyone here as a king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga67/ayodhyasans67.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

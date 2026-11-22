@@ -16,8 +16,6 @@ title_english = "058 trishanku seeks shelter of vishvamitra"
 Trishanku seeks shelter of Vishvamitra when the sons of Vashishta rebuffed him, and even cursed him
 to become a profaner. Narrating his sad tale and his idealistic idea of going to heaven with mortal
 body, Trishanku earnestly appeals to Vishvamitra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ body, Trishanku earnestly appeals to Vishvamitra.
 
 "On hearing the sentence of Trishanku, oh, Rama, the hundred sons of sage Vashishta infuriately said
 this to that king." Thus, sage Shataananda continued his narration to Rama and others. [1-58-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -92,8 +88,6 @@ this to that king." Thus, sage Shataananda continued his narration to Rama and o
 'You slow-witted king, your veracious mentor has denounced you. But transgressing him how do you approach
 another branch of the same tree of wisdom, when that very tree rejected you?' So the sons of Vashishta
 have started to denounce Trishanku. [1-58-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -134,8 +128,6 @@ Priest is, ultimate, course, isn't it; *satyavaadinaH* = advocator's of truth - 
 
 'The Royal Priest is the ultimate course for all of Ikshvaku-s, isn't it. It is impossible to transgress
 the word of advise of such a veracious Priest. [1-58-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -176,8 +168,6 @@ we; *katha~ncana shaktaaH* = in which way, capable.
 
 Vashishta is the most reverential sage and such a sage has already said it is impossible to conduct
 such a Vedic-ritual. Then, in which way we are capable to conduct such a Vedic-ritual? [1-58-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -224,8 +214,6 @@ by [kings] of three worlds; *yaajane shaktaH* = is capable in orchestration of r
 alone is capable to orchestrate any ritual by any king in all the three worlds. Oh, king, how then we
 are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta refuted Trishanku.
 [1-58-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -269,8 +257,6 @@ eva* = further, thus; *etaan idam vacanam abraviit* = spoke this sentence to all
 
 "On hearing that sentence of theirs which is highly faltering with words of fury that king further spoke
 this sentence to all of them." So Shataananda continued. [1-58-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -287,8 +273,6 @@ this sentence to all of them." So Shataananda continued. [1-58-6b, 7a]
 'I am indeed rejected by the godlike Vashishta, likewise even by you, the sons of the same mentor,
 as such oh, ascetically wealthy scholars, in this state obloquy I will resort to another recourse, let
 safety betide you.' So Trishanku bade farewell to the sons of Vashishta, but... [1-58-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -354,8 +338,6 @@ then a *caNDaal* conducts *antya, uttarakriyaaH* 'rites of death afterwards...' 
 terminator. This verbiage is to demark the relative values of functionaries, according to the maxim
 'a donkey is to bear and a dog is to bark...' and if their functions are reversed, reversed are our
 results.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -371,8 +353,6 @@ gataH* = king, entered into state of basely profaner.
 
 On saying thus those great-souled sons of Vashishta withdrew to one's own hermitage and when that night
 elapsed into day then the king lapsed into a state of basely profaner. [1-58-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -425,8 +405,6 @@ yestereve was a gilt-royalty, his head-hair is shaggy which earlier was silkily 
 garlands which were richly fragrant are now funeral wreaths, and he is besmeared with crematory ashes
 which were regal emollients, and his royal jewellery is now rendered into iron adornments. [1-58-10b,
 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -471,8 +449,6 @@ which were regal emollients, and his royal jewellery is now rendered into iron a
 
 On seeing him in the mien of a profaner, oh, Rama, all of his ministers and the subjects and his own
 retinue have deserted him and took to flight in masses. [1-58-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -488,8 +464,6 @@ prosperous Vishvamitra.
 
 Though that resolutely self-assured king seethed for one night and day for this mishap, then went to
 the ascetically prosperous Vishvamitra. [1-58-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -539,8 +513,6 @@ and for officiating rituals etc., oh, Rama, sage Vishvamitra because sympathetic
 The preclusion of the king by way of his transfiguring into a profaner is not only from his kingship,
 by which he is debarred from officiating Vedic rituals etc., but also from his *aihika-aamuSmika-
 bhogaaH* 'earthly and heavenly enjoyments...' because a king is a godsend being.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -561,8 +533,6 @@ and; *idam vaakyam jagaada* = said this sentence.
 
 The great-resplendent sage and highly generous Vishvamitra firstly said to that king who is in a terrible
 aspect 'let safety betide you,' and then spoke on this sentence to him. [1-58-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -577,8 +547,6 @@ chieftain, oh brave one; *shaapaat caNDaalataam gataH* = you got [accurst] state
 
 'What is the purpose of your visit, oh, great-mighty prince Trishanku, oh, brave lord of Ayodhya,
 you are accurst to the state of profaner.' [1-58-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -619,8 +587,6 @@ spoke sentence to sententious Vishvamitra with adjoined-palms.
 
 Then that king who is accurst to a state of profaner on listening that sentence, as a diligent sentence
 maker spoke this sentence with his palms adjoined to the sententious sage Vishvamitra. [1-58-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -661,8 +627,6 @@ maker spoke this sentence with his palms adjoined to the sententious sage Vishva
 
 I am spurned off by my mentor Vashishta and also like that by his sons. My aspiration remained unachievable,
 besides, this discrepancy has bechanced upon me. [1-58-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -706,8 +670,6 @@ achieved.
 
 'Oh, gentle Vishvamitra, my aspiration is nothing but to go to heaven with my body. I have performed
 hundred rituals but I have not achieved the fruit.' Thus Trishanku started tell his sad tale.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -754,8 +716,6 @@ pledge you upon my virtue of Kshatriya-hood. [1-58-19, 20a]
 
 A liar is hell-bound but not the other way as said *yaj~no anR^ite na rakshati...* 'a Vedic ritual
 would not save liars...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -803,8 +763,6 @@ by comport.
 
 I have propitiated gods with many kinds of Vedic-rituals. I have reigned over people conscientiously.
 And with my conduct and comport the high-souled savants are also pleased. [1-58-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -826,8 +784,6 @@ gacChanti = they are not getting at - not deriving.
 While I am a pursuant in probity I expect to avail myself of the fruition of this kind of Vedic-ritual.
 Oh, eminent sage Vishvamitra, but my mentors are not deriving complete contentment by my pursuit. Hence,
 they shove me off. [1-58-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -843,8 +799,6 @@ course, isn't it.
 
 I deem destiny is the only ultimate, and manly efforts are meaningless, for destiny surmounts everything.
 Destiny is the ultimate course, isn't it? [1-58-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -887,8 +841,6 @@ me* = such as, as I am; *prasaadam kartum arhasi* = favour, to do [to accord,] a
 
 A highly anguished endeavourer, marred by destiny, a sincere requester, such as I am, it will be
 apt of you to accord, you be safe, your favour upon me. [1-58-23b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 </details>
 
@@ -939,8 +891,6 @@ sharaNam na asti* = to me, alternative, shelterer, is not there; *daivam puruSak
 it will be apt of you, a god in man's mien, to countervail my destiny.' Thus Trishanku prayed for the
 grace of Vishvamitra..." So said Sage Shataananda to Rama and others continuing the legend of Vishvamitra.
 [1-58-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

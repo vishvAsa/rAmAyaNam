@@ -17,8 +17,6 @@ Jataayu confronts Ravana on hearing the wailing of Seetha. He boldly forestalls 
 in the sky itself, and as an elderly being he reviles Ravana from the viewpoint of righteousness befitting
 to kings, but of no avail. His dilemma is that he cannot take flight to Rama's place, nor he can forestall
 Ravana until Rama comes. Yet, he persists to affront Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ aikshat* = gazed; *raavaNam vaidehiim ca dadarsha* = Ravana, Vaidehi, even, he s
 
 Jataayu who is slumbering away craned and stared on hearing the voicing of Seetha and then he saw Ravana
 and even Vaidehi. [3-50-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ tuNDaH* = very sharp, beaked one; *shriimaan* = that majestic eagle; *vanaspati 
 
 That best bird majestic Jataayu with a very sharp beak and appearing like a mountain peak, then uttered
 these words of expediency still perching on a tree. [3-50-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ anantam brahma... *and thus *bhagavat ekopaaya niSTaH*, 'I have a complete dedic
 god...' - 'I with my unwavering determination am subservient to Him alone, and such as I am, in my presence
 you cannot undertake a deplorable deed, deplorable to that Eternal Virtue or to three worlds...' On
 telling about himself, next he started to tell about his master. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -237,8 +229,6 @@ The simile of Indra and Rain-god to Rama is to say that 'Rama is a bestower of r
 like Indra, the presiding deity of east, through the Rain-god, the presiding deity of west, unlike you
 who are a pilferer... and he is the preserver of all the worlds... so, you also get persevered by him,
 because he is also the lord of yours...' Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -285,8 +275,6 @@ because he is also the lord of yours...' Govindaraja.
 
 "Whom you desire to abduct now, that best lady is Seetha by her name, and this glorious one is the legitimate
 wife of that preserver of all the worlds, namely Rama. [3-50-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -329,8 +317,6 @@ safeguarded.
 
 "How a king adhering to probity can lay his hands on the wives of others? If it is a king's wife, oh,
 great-mighty Ravana, she is to be safeguarded particularly. [3-50-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -401,8 +387,6 @@ him. Further, being a king one shall never do a deplorable and unkingly act.
 *anena loka
 ninditam karma na kartavyam iti | tathaa ca vishNu puraaNe - parityajyet artha kaamo dharma piiDaa karau
 nR^ipa | dharmam api ashubhodarkam loka vikR^iShTam eva ca - dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -471,8 +455,6 @@ all supposed to be the well-read scholars in all scriptures and sciences. Hence,
 Ravana to remember his scholarship, which is in effrontery with his present behaviour. And the suggestion
 that 'protect wives of others persons as you protect your own wife...' is to say that 'if somebody from
 your subjects, on following your present path, gains access to your wife Mandodari, do you tolerate?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -525,8 +507,6 @@ felicity or even iniquity that will emerge from the fount called king. [3-50-10]
 Other mms read *raajaa dharmasya kaamasya...* then 'the king is the root
 cause for the prevalence of probity, felicity etc. *anena prajaa raajaanam anusaranti iti
 suucitam... dk* 'subjects follow what a king does...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -581,8 +561,6 @@ have amassed affluence, as with an evildoer attaining an aircraft that puts him 
 "You by your nature are a devilish and mercurial personality though you have come from a decent lineage,
 how you have become an outranking demon among demons and how you could attain kingdom, which is to be
 ruled righteously, like an evildoer attaining a heaven-bound aircraft. [3-50-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -653,8 +631,6 @@ The reference to an aircraft that carries Ravana to heaven is not the Pushpaka a
 grabbed from Kubera. The airports of Pushpaka aircraft are in the mortal worlds and in heavens it can
 land at the best in Indra's heaven, say paradise. There is no entry for these petty airships into the
 higher realms of Brahma, Vishnu, and Maheshvara if piloted by Ravana like demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -718,8 +694,6 @@ be felled down by their own kinsfolk...'
 
 Jataayu's questioning is the same that was once Seetha asked Rama in the early chapters of Aranya, 'why
 wage a war without a cause...' She must have understood the answer by now by the acts of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -783,8 +757,6 @@ Rama's; *vyatikramaH [vi ati kramaH* = highly, over, stepping] high transgressio
 "If Rama of indefatigable deeds firstly eliminated Khara who is stationed at Janasthaana, and who transgressed
 for the sake of Shuurpanakha, tell me what in actuality is the highly overstepping behaviour of Rama
 in that matter, whereupon you are stealing off with the wife of such a lord of world? [3-50-14, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -831,8 +803,6 @@ disastrous [eyes,] with [such] eyes; *[raamasya* = of Rama]; *maa dahet* = let n
 
 "Instantly deliver up Vaidehi. Let not the disastrous and glowing fire-like eyes of Rama, which transmogrify
 so when he assumes fury, burn you down as the Thunderbolt of Indra once burnt the demon Vritta. [3-50-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -881,8 +851,6 @@ na pashyasi* = Terminator's, lasso, not, seeing [wary of] you are.
 "You are unconscious that you have presently bundled a lethally venomous serpent at the fringe of your
 attire, and you are equally unwary that the Terminator's lasso is presently loosened around your neck.
 [3-50-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -938,8 +906,6 @@ karma na kartavyam iti suucitm | tathaa ca kaamandake - shakya ashakya paricched
 | kevalam danta bha~Ngaaya dantinaH shaila taaDanam - iti - dk* 'capability or incapability
 is to be assessed firstly, with a judicious mind... one's own teeth may not be hit with a stone, only
 to examine how easily they can be broken by that stone...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1008,8 +974,6 @@ Fruitless, wearisome undertakings are meaningless thus they need not be undertak
 *ananena niShphalam
 aayaasakaram karma na aarambhaNiiyam iti suucitam | tathaa ca manuH - na karma niShphalam kuryaat yasmaat
 asukhodayam - dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1059,8 +1023,6 @@ completed.
 
 "I have dedicated myself to the kingdom of my fathers and forefathers according to tradition, and sixty
 thousand years have elapsed since I was born. [3-50-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1111,8 +1073,6 @@ aadaaya* = Vaidehi, on taking; *kushalii na gamiSyasi* = safely, you cannot, go 
 "You are youngish whereas I am oldish, you are an armoured archer darting arrows from an air-chariot,
 whereas I am pensile bird in an open sky. Nevertheless, on taking Vaidehi you cannot abscond safely.
 [3-50-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1191,8 +1151,6 @@ is the problem of god in retrieving the lost word, where that word was with the 
 Seetha is Veda, the word, Gayatri etc. And god has lost it. In search of that word, Veda, Gayatri, the
 god started his search. In his search he helps all those who abide by 'word' or 'faithful to word' and
 ultimately annihilates the demons that falsify or abuse the 'word.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1247,8 +1205,6 @@ away, and at his hand you will be slain and sprawling on earth in the same way a
 **टिप्पनी**
 
 Or optionally, you can combat with me in which meantime Rama will come hither...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1296,8 +1252,6 @@ yudhi vadhiSyati* = you, in war, eliminates.
 "He who eliminated demons and ogres in combats time after time, that Rama though apparently attired
 in jute-cloths like a meek-saint, will become a towering-inferno in a given combat, and he eliminates
 you very soon. [3-50-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1346,8 +1300,6 @@ blockade]; *samshayaH na* = doubt, is not there.
 "What can possibly be done by me when those princes have gone far-off! It is beyond the scope of my
 fetching them in time! You knave, you who are scared of them will now be lost to my blockade, without
 a doubt. [3-50-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1396,8 +1348,6 @@ imaam siitaam* = this [lady,] Seetha; *na nayiSyasi hi* = not, you lead away, in
 
 "When I am alive you cannot lead away this auspicious, lotus-leave-eyed Seetha, the dear queen of Rama.
 [3-50-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1445,8 +1395,6 @@ imaam siitaam* = this [lady,] Seetha; *na nayiSyasi hi* = not, you lead away, in
 "But I must definitely accomplish something to forestall you till they come, for I cannot willingly
 depart from here to fetch any of the two brothers, and that deed I needs must do shall be agreeable
 to the great-souled Rama, likewise even to Dasharatha, even at the stake of my life. [3-50-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 </details>
 
@@ -1500,8 +1448,6 @@ fruit, as with; *tvaam* = you; *ratha uttamaat* = from chariot, the best; *paata
 "Stopoff! Stopoff! Oh, Decahedral Ravana, briefly learn of me as how I jettison you from your best air-chariot,
 as with the unloading of a burdensome fruit from its sepals. Oh, nightwalker, I will be giving guestship
 to you in a duel as long as I am alive. [3-50-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

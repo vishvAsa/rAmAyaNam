@@ -14,8 +14,6 @@ title_english = "026 Seetha decides to give up life"
 **Book V : Sundara Kanda - Book Of Beauty**
 
 In this chapter Seetha ponders a lot and decides to give up life without Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ _________________
 
 With a face continually shedding tears, Seetha an young woman, thus speaking with a downward face,
 started to weep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -91,8 +87,6 @@ started to weep.
 
 Seetha was crying like a mad one, like an intoxicated one, with a deluded mind. Like a female horse
 rolling on ground, Seetha rolled on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -133,8 +127,6 @@ wear desired form.
 
 "While Rama was heedless (taken away by Mareecha), I who have been crying was forcibly brought
 overpowered by the ogre Ravana who can wear desired form."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -177,8 +169,6 @@ _________________
 
 "Being under the control of ogresses, being frightened very horribly, thinking and being tormented
 by grief, I do not desire to live."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -219,8 +209,6 @@ bhushhaNaishcha* = not with ornaments.
 
 "Without Rama, a great car-warrior, living in the midst of ogresses, there is no use with life
 to me; not with wealth, not with ornaments."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -270,8 +258,6 @@ and without death; *yena* = by what reason; *naavashiiryate* = is it not destroy
 
 "Or my this heart truly is made of iron. It is undecaying and without death. By what reason is
 it not destroying with sorrow?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -321,8 +307,6 @@ _________________
 
 "Whoever I with a sinful life made to be without Rama, protecting life even for a moment, to such
 me who am ignoble, who am bad wife, shame on me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -366,8 +350,6 @@ sukhe vaa* = or in comfort.
 
 "Without husband Rama who is the lord of the earth with ocean at the end, a pleasant talker, what
 is the interest to me in life or in comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -418,8 +400,6 @@ sorrow; *chiram* = for a long time.
 
 "I will leave the body. Let it be split into pieces or let it be eaten. I without husband will
 not tolerate sorrow for a long time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -468,8 +448,6 @@ conduct; *kaamayeyam kiM punaH* = what to say of desiring (him).
 
 "I will not touch even with my left foot Ravana an ogre of reprehensible conduct. What to say of
 desiring him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -520,8 +498,6 @@ jaanaati* = does not know; *aatmaanam* = him; *pratyaakhyaatam* = to be refused;
 
 "Whoever Ravana with a cruel nature is desiring to solicit me, that Ravana does not know him to
 be refused; he does not know his race."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -572,8 +548,6 @@ pralaapena* = with your prattling; *chiram* = for a long time.
 
 "Even if cut or if divided into parts in blazing fire, I will not reach Ravana. What is the use
 with your prattling for a long time?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -623,8 +597,6 @@ became) hard hearted.
 
 "Rama is famous, is a wise man, is compassionate with a good conduct. Due to the deterioration
 of my fortune, I doubt He became hard hearted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -672,8 +644,6 @@ _________________
 **अनुवादः**
 
 "By whom alone fourteen thousand of ogres have been destroyed, why is that Rama not saving me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -716,8 +686,6 @@ khalu* = is indeed capable; *hantum* = to kill; *raavaNam* = Ravana; *ahave* = i
 
 "I am withheld by the ogre Ravana with little strength. My husband is indeed capable of killing
 Ravana in a war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -761,8 +729,6 @@ _________________
 
 "By which Rama Viradha, best among ogres, has been killed in Dandaka forest in a war, why is that
 He not saving me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -806,8 +772,6 @@ bhavishhyati* = there will not be; *gatirodhaH* = an obstacle to flying; *raagha
 
 "This city of Lanka being in the middle of ocean is difficult to be attacked. But there will not
 be an obstacle to flying of Rama's arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -857,8 +821,6 @@ is not protecting; *ishhTaam bhaaryaam* = His dear wife; *apahR^itaam* = stolen;
 
 "What now is that reason by which Rama with a firm courage is not protecting His dear wife stolen
 by an ogre."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -908,8 +870,6 @@ _________________
 
 "I doubt that Rama elder to Laksmana does not know me to be here. After knowing will that glorious
 Rama tolerate this outrage?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -959,8 +919,6 @@ raNe* = in war.
 
 "Whoever Jatayu nearing Rama will have let known to Rama that Seetha was stolen, that king of vultures
 has been killed by Ravana in war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1003,8 +961,6 @@ _________________
 
 "A great deed has been done by that Jatayu, thus protecting me, although of old age, standing in
 a dual combat with Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1099,8 +1055,6 @@ make; *lokam* = the world; *araakshasam* = to be without ogres; *baaNaiH* = with
 
 "If that Rama knows me to be living here, with anger He will make the world to be without ogres
 with His arrows now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1120,8 +1074,6 @@ with His arrows now."
 
 "Rama will blow away the city of Lanka, will dry up the great ocean, will destroy the name and
 fame of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1137,8 +1089,6 @@ fame of Ravana."
 
 "Thereafter how I am crying in this way, in the same way, in very house, ogresses with killed husbands
 will cry again and again. There is no doubt in this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1182,8 +1132,6 @@ _________________
 
 "Rama together will Lakshmana will search the city of Lanka belonging to ogres. An enemy seen by
 those two will indeed not live even for a moment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1232,8 +1180,6 @@ agitated with smoke of funeral pyres; *gR^idhramaNDalasaMkulaa* = crowded with a
 
 "This Lanka shortly will become like a graveyard, with paths agitated with smoke of funeral pyres,
 crowded with a group of vultures."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1283,8 +1229,6 @@ aakhyaati* = is telling; *sarveshhaam* = all; *vaH* = of your; *viparyayam* = de
 
 "In a short time only I will attain my desire. This evil course is telling of destruction of you
 all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1334,8 +1278,6 @@ of glory.
 
 "Here in Lanka whatever inauspicious things are being seen, from those, in a short while Lanka
 will become deprived of glory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1385,8 +1327,6 @@ _________________
 
 "While the sinful, vile ogre Ravana is being killed, Lanka which is unconquerable till now, definitely
 will get drying up like a woman who lost husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1437,8 +1377,6 @@ lost husband;.
 
 "Now abounding in pious festivities, the city of Lanka with lost lord together with ogresses will
 become like a woman with lost husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1481,8 +1419,6 @@ _________________
 
 "In a short while here in every house I can definitely hear the sound of ogresses crying being
 tormented by grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1554,8 +1490,6 @@ nirdagdhaa* = burnt; *raamasaayakaiH* = by Rama's arrows; *saandhakaaraa* = toge
 
 "The city of Lanka will become burnt by Rama's arrows together with darkness, with destroyed luster
 with killed best ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1569,8 +1503,6 @@ with killed best ogres."
 **अनुवादः**
 
 "Will that Rama who is a strong man with red eye corners know me to be in the house of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1669,8 +1601,6 @@ good; *asmin dushhTe* = in the matter of this evil one.
 
 "Whatever time has been ordered by this cruel and vilest of men Ravana, this time has come to me.
 That death decreed to me does not hold good to this evil one (Ravana)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1687,8 +1617,6 @@ eaters; *na jaanati* = do not know; *dharmam* = virtue.
 
 "Whoever sinful ogres who do not know what should not be done, due to their unrighteousness now
 there will be a great calamity. These meat eating ogres do not know virtue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1772,8 +1700,6 @@ appearance; *suduHkhitaa* = I am grieving a lot; *apashyantii* = not seeing; *ra
 
 "An ogre will definitely eat me for breakfast. What should such I do without Rama with pleasing
 appearance? I am grieving a lot not seeing Rama with red eye corners."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1789,8 +1715,6 @@ husband; *kshipram* = quickly; *pashyeyam* = will see; *devam* = the god; *vaiva
 
 "Now if there exists any one who is a giver of poison here, I without husband quickly will see
 the god Yama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1841,8 +1765,6 @@ will not do; *mama maargaNam* = my search; *uurdhvaam* = on earth;
 
 "That Rama elder to Lakshmana may not know me to be alive. If those two know me to be alive, then
 it cannot be said that they will not do my search on earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1892,8 +1814,6 @@ _________________
 
 "That valiant Rama who is the elder brother of Lakshmana due to grief of me, leaving the body on
 earth has gone to celestial world. This is certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1944,8 +1864,6 @@ Devas; *siddhaashcha* = Siddhas; *sagandhravaaH* = together with Gandharvas; *pa
 
 "Whoever is seeing my husband Rama with eyes resembling a lotus flower such Devas, Siddhas together
 with Gandharvas and great sages are fortunate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -1996,8 +1914,6 @@ _________________
 
 "Or to that Rama with a desire in virtuousness, who is intelligent, a sage-king, the supreme spirit,
 there is no use with me, his wife."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -2048,8 +1964,6 @@ one who does not see; *kR^itaghnaaH* = ungreatful ones; *naashayanti* = destroy 
 
 "Friendly disposition will occur in what is being seen. There is no friendship to one who does
 not see. Ungrateful ones destroy frindship. But Rama will not destroy friendship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -2100,8 +2014,6 @@ _________________
 
 "I who is a woman who is perishing without the chief Rama to such me are there no good qualities
 or has my fortune diminished."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -2152,8 +2064,6 @@ _________________
 
 "To me who is deprived of Rama with untroubled reputation, a warrior, annihilator of enemies, a
 great soul, more than living, death is good."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -2204,8 +2114,6 @@ fruits.
 
 "Or those two brothers who are best among men giving up weapons in the forest may have become dwellers
 of forest eating roots and fruits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -2254,8 +2162,6 @@ raavaNena* = by king of ogres Ravana; *chadmanaa* = by deceit;
 
 "Or Rama and Lakshmana the warrior brothers may have been killed by the evil soul king of ogres
 Ravana by deceit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -2307,8 +2213,6 @@ _________________
 
 "Under such circumstances and time, such I in all ways am desiring to die. Even in this grief,
 death is not bestowed on me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 </details>
 
@@ -2358,8 +2262,6 @@ is no; *priyaapriye* = pleasure or displeasure.
 
 "Great souled ones with abandoned sins, with a conquered mind, those with great fortune, sages
 are indeed fortunate to whom there is no pleasure and displeasure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

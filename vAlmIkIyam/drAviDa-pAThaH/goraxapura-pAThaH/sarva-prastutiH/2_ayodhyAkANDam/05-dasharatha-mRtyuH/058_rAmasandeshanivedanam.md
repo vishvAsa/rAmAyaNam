@@ -18,8 +18,6 @@ title_english = "058 Sumantra delivers the messages of Rama"
 As per the orders of king Dasaratha, Sumantra delivers the parting messages of Rama
 and Lakshmana. Rama sends positive messages to Kausalya and Bharata but Lakshmana sends angry
 messages to Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ kaaraNaat* = for the purpose of getting the report on Rama.
 
 Thereafter, the king when recovered from loss of consciousness and again returned to
 his breath, he called that charioteer for the purpose of getting the report on Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -148,8 +144,6 @@ elephant; *asvastham* = which is sick.
 Then, Sumantra, who joined his palms in reverence, approached the monarch who was
 repenting about Rama alone, filled with pain and sorrow, advanced in age, greatly anguished,
 sighing like a newly caught elephant and reflecting on something as a sick elephant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -166,8 +160,6 @@ near him.
 
 The king, having great distress, spoke to Sumantra, whose body was covered with
 dust, his face filled with tears, who was miserable and who approached near him (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ raaghavaH* = that Rama; *atyanta sukhitaH* = who enjoyed very many comforts;
 
 "Oh, Sumantra! Where can Rama the virtuous man abide, taking refuge at the root of a
 tree? What that Rama, who enjoyed very many pleasantries, can eat now?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -266,8 +256,6 @@ paala aatmajo* = Rama the prince; *shayanochitaH* = who was habituated to good b
 
 "Oh, Sumantra! How can Rama the prince, who was habituated to good beds, sleep with
 such discomfort on a floor like an orphan?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ forest?
 
 "Foot soldiers, Chariots and elephants used to follows whenever Rama was marching
 ahead. How such a man can take shelter and stay in a forest devoid of people?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ animals; *kR^iSNa sarpa niSevitam* = and haunted by black snakes?
 
 "How Seetha Rama and Lakshmana entered forest filled with wild animals and black
 snakes?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -411,8 +395,6 @@ princes; *siitayaa saha* = with Seetha; *sukumaaryaa* = the delicate;
 
 "Oh, Sumantra! How those princes with Seetha the delicate and the poor lady went on
 foot, after descending from the chariot?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -460,8 +442,6 @@ of Mandara mountain; *ashvinaav* = by the two divinities of Aswini; *tvam* = you
 
 "Oh, Sumantra! You have seen my sons entering the forest, as though divinities of
 Aswini had entered the Mountain-range of Mandara. You are indeed lucky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -509,8 +489,6 @@ Rama; *uvaacha* = speak; *kim* = what did; *lakSmaNaH* = Lakshmana;
 
 "Oh, Sumantra! After reaching the forest, what words did Rama speak? What did
 Lakshmana speak? What did Seetha speak?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -564,8 +542,6 @@ Comment: King Yayati, when doomed to fall from heaven requested Indra to cast
 his lot with saints. He was accordingly sent down to a spot on the earth, where four ascetics-
 Astaka Pratardana, Vasuman and King Sibi had been practicing austerities, and had discourse with
 them- Mahabharata, Adi Parva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -612,8 +588,6 @@ paribaddhayaa* = and choked with tears.
 
 As asked thus by the king, Sumantra spoke to the emperor in a voice quivering and
 choked with tears (as follows).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -668,8 +642,6 @@ spoke; *maam* = to me.
 
 "Oh, emperor! Rama, keeping up the prescribed course of conduct, making salutation
 with joined palms and bowing his head in reverence to you, spoke to me as follows:"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -691,8 +663,6 @@ greeted; *vandyau* = are to be saluted; *shirasaa* = with my head;
 
 "Oh, charioteer! Tell my salutations to my father, the one with a remarkable
 intellect, a mighty soul and the one to be respectfully greeted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -709,8 +679,6 @@ too.
 
 Oh, charioteer! Enquire about the health of all the people in the gynaeceum without
 any disparity and offer my appropriate salutations to them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -760,8 +728,6 @@ be told; *kushalam* = about my welfare; *abhivaadanam ca* = about my salutations
 
 My mother Kausalya is to be told about my welfare, about my offering salutations to
 her and about my meticulousness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -779,8 +745,6 @@ Dasaratha; *devavat* = like with a god.
 "Oh, godly lady! Be always righteous and be interested in offering worship and
 sacrifices as per the prescribed timings in the House of Fire worship. Nurture the feet of the Lord
 Dasaratha, like with a god."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -824,8 +788,6 @@ Dasaratha, like with a god."
 
 "Oh, mother! Behave towards my other mothers, abandoning self-conceit and
 indignation. Make the venerable Kaikeyi, agreeable to the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
 </details>
@@ -873,8 +835,6 @@ substance; *anusmara* = remember; *raajadharmam* = the rules; relating to kings.
 
 "In respect of Bharata your son, follow a respectable behaviour as with a king.
 Kings are indeed sovereign in substance. Remember the rules relating to kings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -922,8 +882,6 @@ Kings are indeed sovereign in substance. Remember the rules relating to kings."
 
 "Bharata is to be enquired about his well-being and he is also to be informed as
 follows: "Follow good behaviour indeed judiciously towards all your mothers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -970,8 +928,6 @@ yauvaraajyasthaH = being installed in the office of prince Regent.
 "The mighty armed Bharata the son of Ikshvaku race, is to be told as follows: �Being
 installed in the office of Prince Regent, attend to your father who still stays in the
 throne'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1021,8 +977,6 @@ king; *tvam* = of; *jiiva* = live; *kumaara raajye* = as a prince."
 
 "The king has crossed his age. But do not depose him on that score. By proceeding
 according to the orders of the king, you live as a prince."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1068,8 +1022,6 @@ is very much longing her son; *draSTavyaa* = is to be looked after; *te* = by yo
 
 "Shedding tears profusely, Rama again spoke to me as follows : �My mother, who is
 very much longing her son, is to be looked after by you as if she is your mother'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1086,8 +1038,6 @@ thus; *maam* = to me; *bhR^isham* = amply; *avartata* = shed;
 
 "Oh, emperor! Rama of the most beautiful appearance with red eyes resembling red
 lotus flowers, while even uttering these words to me profusely shed tears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1134,8 +1084,6 @@ angry; *nishshvasan* = and breathing a sigh; *abraviit* = spoke; *vaakyam* =
 
 "But Lakshmana was very angry and breathing a sigh, spoke to me as follows: �On
 which offence this prince was expelled from home?'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1183,8 +1131,6 @@ as though it is a proper act; *yena* = by which; *vayam* = we; *abhipiiDitaH*
 
 "The king even took shelter under a wretched decree of Kaikeyi and performed an act
 not to be done, as though it is a proper deed, for which we are now tormented."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1231,8 +1177,6 @@ daana nimittam vaa* = or with the intention of giving boons; *raamaH* = Rama;
 
 "Even if this was done for the good pleasure of the king or through the will of God,
 I do not see any justification for Rama's abandonment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1279,8 +1223,6 @@ the will of god; *na upalakshhye* = I do not see; *hetum* = any justification;
 
 "Even if this was done for the good pleasure of the king or through the will of god,
 I do not see any justification for Rama's abandonment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1321,8 +1263,6 @@ reflection; *janayishhyati* = will raise; *samkrosham* = intensive anguish.
 
 "Rama's exile, an illegal decision undertaken whether due to levity of judgment or
 due to lack of reflection, will raise countless protests."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1369,8 +1309,6 @@ due to lack of reflection, will raise countless protests."
 
 "I do not consider the emperor as my father. For me, Rama is the brother, lord,
 relative and my father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1418,8 +1356,6 @@ act?
 
 "Leaving Rama the beloved of all people and who is interested in the welfare of all
 human beings, how would all these people would be interested in you by this act of yours?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1466,8 +1402,6 @@ virtuous; *virudhya* = and opposing; *imam sarva lokam* = all this entire world;
 
 "By banishing Rama who is delightful to entire people and who is a virtuous man and
 by opposing all this entire world, how will you stay as a king?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1517,8 +1451,6 @@ own existence there; *viSThitaa* = stood motionless.
 
 "Oh, King! The wise Seetha for her part with her mind like one possessed and
 forgetting her own existence, stood sighing and static.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1565,8 +1497,6 @@ illustrious one; *adR^iSTa puurva vyasanaa* = having not seen such misfortune ea
 
 "The illustrious Seetha having not seen such misfortune earlier, could not even to
 speak me anything, weeping as she was with that uneasiness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1612,8 +1542,6 @@ with emaciated; *mukhena* = face; *udviikSamaaNaa* = perceiving; *bhartaaram*
 
 "Seeing me going back, Seetha with emaciated face, perceiving her husband, soon shed
 down tears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 </details>
 
@@ -1669,8 +1597,6 @@ chariot; *tathaiva* = and; *maam* = me."
 "In the same way, Rama with tears on his face and with joined palms, stood being
 shielded by the arms of Lakshmana. The miserable Seetha in the same manner was weeping and seeing
 the royal chariot and me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

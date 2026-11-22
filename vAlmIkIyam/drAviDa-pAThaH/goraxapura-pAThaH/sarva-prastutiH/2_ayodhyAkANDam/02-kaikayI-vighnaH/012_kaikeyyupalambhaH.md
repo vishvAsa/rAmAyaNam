@@ -15,8 +15,6 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 Dasaratha is shocked by the strange wishes of Kaikeyi and tries to convince Kaikeyi of
 her wishes as being harmful. Kaikeyi would not heed to the emperor's words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -62,8 +60,6 @@ her wishes as being harmful. Kaikeyi would not heed to the emperor's words.
 
 After hearing the cruel words of Kaikeyi; King Dasaratha got disturbed and suffered great
 agony for a while.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -109,8 +105,6 @@ mama* = my chittamoho apivaa = confusion of mind?; *anubhuutopasargo vaa* = or d
 
 "As it a day-dream or confusion of my mind? Or could it be an eclipse of my experience
 or a disease of the mind?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -220,8 +214,6 @@ Then, regaining consciousness, he felt tormented by Kaikeyi's words. Distressed 
 at the sight of a lioness and seated on the bare floor, he gave forth a long sigh like a highly venomous
 serpent fixed to a charmed spot through magic spells. Uttering words "what a pity!" the angry king fell
 into a swoon once more, his mind infatuated with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -268,8 +260,6 @@ into a swoon once more, his mind infatuated with grief.
 
 Regaining consciousness after a long time and feeling much distressed and angry; the
 King spoke thus to Kaikeyi, as though consuming her with fire in his eyes
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -316,8 +306,6 @@ of wicked conduct!; *vinaashini* = one who exterminates; *asya kulasya* = this r
 
 "Oh cruel woman of wicked conduct inclined to exterminate this race! What wrong has been
 done to you by Rama or by me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -364,8 +352,6 @@ done to you by Rama or by me?"
 
 "When Rama is treating you in the same way as his mother, why are you bent upon harming
 only him?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -415,8 +401,6 @@ house; *aatmavinaashaartham* = for my own destruction.
 
 "By not knowing you as a female snake with fiery poison, you were admitted by me as princess
 in my house for my own self destruction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -457,8 +441,6 @@ Rama; *uddishya* = pointing; *kam* = to what ; *aparaadham* = offence; *aham*
 
 "When all living beings extol the virtues of Rama, for what offence shall I forego my
 beloved son?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -505,8 +487,6 @@ of virtues; *uddishya* = pointing to; *kam* = which; *aparaadham* = offence;
 
 "For what offence shall I forsake my beloved son; when the entire world of living beings
 extol the virtues of Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ extol the virtues of Rama?"
 
 "Supreme delight comes to me on seeing my eldest son. My very consciousness is lost,
 if I fail to see Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -595,8 +573,6 @@ vinaa* = without Rama.
 
 "The world can exist without the sun, a crop without water. But life cannot continue
 in my body, without Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -639,8 +615,6 @@ Enough; *tat* = of it; *eshhaH* = This; *nishchayaH* = resolve; *tyaajyataam*
 
 "Oh, sinful woman! Enough of it. Let this resolution be given up. I even touch your feet
 with my head. Be gracious to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -717,8 +691,6 @@ son; *dharmajyeshhThaH* = senior in practice of virtue; *me* = to me; *tat* = Th
 my kindly or unkindly feeling towards Bharata, let it be so. But the observation made by you earlier
 that glorious Rama, who is senior in the practice of virtue is my eldest son as it were, must have been
 uttered in order to coax me or to get service from him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -771,8 +743,6 @@ you are possessed by an evil spirit; *shuunyam gR^iham* = in a lonely house; *pa
 
 "Afflicted with grief by hearing Rama's proposed installation; you are tormenting me
 too much. Possessed by an evil spirit in a lonely house; you are subject to control of another"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -813,8 +783,6 @@ to which; *te* = your; *matiH* = mind; *vikR^itaa* = has been perverted .
 
 "Oh, queen! In this Ikshhvaaku race, which is rich in good conduct, this very great misfortune
 has appeared, due to which your mind has been perverted
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -864,8 +832,6 @@ do not believe.
 
 "Oh, large eyed one! Earlier you have not done anything unreasonable or repugnant to
 me. That is why; I do not believe what has been done by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -912,8 +878,6 @@ indeed equal; *bharatena* = to Bharata; *mahaatmanaa* = the great souled; *baale
 
 "Indeed, Rama is on par with the great souled Bharata to you, for many times you were
 telling me stories illustrating this, Oh, young lady!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -960,8 +924,6 @@ the righteous; *yashasvinaH* = and the illustrious man.
 
 "Oh, timid lady! How do you take delight in banishment for fourteen years of that pious-minded
 and illustrious Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1008,8 +970,6 @@ his self held; *dharme* = in piety?
 
 "How do you take delight in the sojourn, in a most dreadful forest; of Rama with very
 delicate body and having his self held in piety?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1056,8 +1016,6 @@ is so pleasing.
 
 "Oh, the fair-eyed one! Why do you take delight in banishment of Rama, who is so pleasing
 to look at and who is so obediently doing service to you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1098,8 +1056,6 @@ do not see; *visheshham* = speciality; *bharatasya* = of Bharata.
 
 "Rama always is doing service to you more than Bharata does. For that reason also, in
 your case, I do not see any speciality in Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1147,8 +1103,6 @@ correct notion and; *vachanakriyaam* = in obedience?
 
 In fact, who else other than Rama the best of men could do much more service to you with
 respect, with correct notion and in obedience?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1218,8 +1172,6 @@ raamaH* = Rama; *manuja vyaaghraH* = a tiger among men; *gR^ihNaati* = captivate
 "No censure or calumny against Rama can come from the mouth of many of thousands of women
 or from numerous dependents maintained by me. Addressing gently all created beings with clear mind,
 Rama a tiger among men, captivates the people of his kingdom by his kind actions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1269,8 +1221,6 @@ shushruushhsyaa* = by srevice; *jayati* = conquers; *shaatravaan* = enemies; *dh
 
 "Rama the valiant, conquers men by virtue, the poor through charity, the elders by service,
 the enemies in battle by his bow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1317,8 +1267,6 @@ austerity; *tyaagaH* = sacrifice; *shoucham* = purity; *aarjavam* = straight for
 
 "Truthfulness, charity, austerity, sacrifice, purity, straight forwardness, learning,
 service to elders-these firmly established in Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1359,8 +1307,6 @@ who is endowed with honesty; *devopame* = who is equal to god ; *maharshhi sama 
 
 "Oh, Queen! How do you wish harm to that Rama who is richly endowed with honesty, who
 is equal to god and who is having splendour as of a great sage?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1401,8 +1347,6 @@ word; tvatkR^ite for your sake; *raamam* = to Rama; *priyam* = my beloved.
 
 "I do not remember an unkind word spoken by Rama, who always speaks kindly words to all.
 As such, how can I for your sake, break unpalatable news to Rama the beloved."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1450,8 +1394,6 @@ Rite* = other than Rama; *yasmin* = in whom ; *kshhamaa* = forgiveness; *damaH*
 
 "What recourse is there for me other than Rama, in whom forgiveness, asceticism, self-denial,
 truthfulness, piety, gratitude and harmlessness towards living beings exist."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1492,8 +1434,6 @@ to show; *kaaruNyam* = mercy; *mama* = to me; *vR^iddhasya* = old man; *gatantas
 
 "Oh, Kaikeyi! You ought to bestow mercy to me, and old and miserable man who reached
 his end and is coaxing painfully to you"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1543,8 +1483,6 @@ not anger take possession of; *tvaam* = you .
 
 "Whatever can be attained on earth, which has the sea an end, all that I can give you.
 Let not anger take possession of you
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1586,8 +1524,6 @@ matter.
 
 "Oh, Kaikeyi! I fold my hands in salutation to you. I am even touching your feet. Be
 a protector of Rama. Let not unrighteousness lay hold on me in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1644,8 +1580,6 @@ a protector of Rama. Let not unrighteousness lay hold on me in this matter."
 The fierce Kaikeyi again spoke these fiercer words to Dasaratha, who was burning with
 sorrow and was wailing as aforesaid, who had fallen unconscious and was tossing about as he was filled
 with grief, and was praying again and again for being speedily borne across the sea of grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1692,8 +1626,6 @@ with grief, and was praying again and again for being speedily borne across the 
 
 "Oh, Valiant king! Having again boons, if you repent again and again how can you proclaim
 piety on this earth?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1740,8 +1672,6 @@ piety on this earth?"
 
 "Oh, knower of what is right! When many royal saints assemble and converse with you,
 what will be your reply?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1788,8 +1718,6 @@ what will be your reply?"
 
 "Can you say" a wrong was done to Kaikeyi, on whose grace I am living now and who protected
 me earlier?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1836,8 +1764,6 @@ me earlier?"
 
 "Oh, King! You having granted boons indeed today, now talk in another way, creating blemish
 on other kings"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1899,8 +1825,6 @@ flesh every time he chopped it from his body till at last he ascended the scale 
 himself in exchange for the pigeon. **Alarka*=The royal sage Alarka parted with his own eyes in order
 to implement a boon granted by him to a blind Brahmana who asked for the king's eyes in order to have
 his own eyesight restored.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1947,8 +1871,6 @@ not make; *samayam* = promise; *anR^itam* = as un truth.
 
 "The ocean, having given a promise, never crosses its limits. Therefore, bearing in mind
 the previous occurrences do not violate the pledge given by you to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -1996,8 +1918,6 @@ for ever."
 
 "Oh, the evil-minded! By giving up righteousness and by installing Rama in the kingdom,
 you want to enjoy life with Kausalya forever."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2038,8 +1958,6 @@ you want to enjoy life with Kausalya forever."
 
 "Let it be unrighteous or righteous, real or hoax. There should be no change in whatever
 is promised by you for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2080,8 +1998,6 @@ now itself; *agrataH* = in front; *tava* = of you.
 
 "If Rama is coroneted, I shall indeed die before your eyes by drinking abundant poison
 now itself in front of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2122,8 +2038,6 @@ by joining palms; *ekaahamapi* = even for a day; *mR^itiH* = death; *shreyaH nan
 
 "If I have to see Kausalya, the mother of Rama receiving salutations even for day, death
 is indeed better for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2164,8 +2078,6 @@ swear an oath; *bharatena* = by Bharata; *atmanaacha* = and by myself; *yathaa*
 
 "Oh, King! I swear to you an oath by Bharata and by myself that I will not be pleased
 with anything else other than sending Rama to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2204,8 +2116,6 @@ with anything else other than sending Rama to exile."
 **अनुवादः**
 
 Kaikeyi spoke words of such extent and stopped. She did not further reply to the wailing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2258,8 +2168,6 @@ to Kaikeyi.
 Hearing Kaikeyi's boons, asking for Rama's exile and Bharata's sovereignty which are
 very much unwelcome, king Dasaratha nevertheless was perturbed for a while and did not move his lips
 towards Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2303,8 +2211,6 @@ sukhitaH* = comfortable; *aakaraNya* = on hearing; *taam vaacham* = that utteran
 He kept gazing with unwinking eyes towards his beloved queen Kaikeyi, who spoke such
 disagreeable words. The king could not become comfortable on hearing that utterance, which was unkindly
 to his heart filling with pain and sorrow and was as terrible as a thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2351,8 +2257,6 @@ shshasya* = heaved a sigh; *rama iti* = uttering "Rama"; *apatat* = fell; *tarur
 
 Reflecting over Kaikeyi's resolve and her terrible swearing, Dasaratha heaved a sigh,
 uttering "Rama" and fell like tree which was cut off.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2393,8 +2297,6 @@ tejaaH* = bereft of fierceness.
 
 Then the king become like mental a mad man who lost his equilibrium like an ailing man
 getting upset and like a serpent losing it's fierceness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2448,8 +2350,6 @@ whose mind has been perverted by an evil spirit; *na lajjase* = you are not asha
 The king spoke to Kaikeyi in a distressed tone as follows "By whom have you been taught
 this worthless thing which appears to be worthwhile? Like a woman whose mind has been perverted by an
 evil spirit; you are not ashamed to speak to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2493,8 +2393,6 @@ conduct; *tu* = but; *idaaniim* = now; *lakshhaye* = I am seeing; *tat*
 
 "In the beginning, I was not knowing your wavery conduct in this way. But now, I am seeing
 it in you. It is perverted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2548,8 +2446,6 @@ vidham* = in this way; *bharatam* = for Bharata; *aasiinam* = to be sitting; *ra
 
 "From whom has such fear cropped up in you, so as to seek Bharata to be seated on the
 throne and Rama to stay in the forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2565,8 +2461,6 @@ is sinful; *etena vaa* = to send Rama to exile.
 
 "If you want to do favour to your husband, to the world at large and to Bharata, you
 give up this sinful intention of sending Rama to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2613,8 +2507,6 @@ nu* = which; *duHkham* = trouble some matter; *aliikam vaa* = or offence pashyas
 
 "Oh, cruel! Petty minded woman of sinful resolve and wicked deed! Which grievance or
 offence are you finding in me or in Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2661,8 +2553,6 @@ stronger; *dharamataH* = in virtue; *raamaadapi* = than Rama too.
 
 "With out Rama, Bharata will not in any case take possession of the kingdom of Ayodhya
 as I think him to be stronger in virtue than even Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2711,8 +2601,6 @@ as I think him to be stronger in virtue than even Rama."
 
 "Having uttered the words 'proceed to the forest!' How can I behold the pale face of
 Rama resembling an eclipsed moon?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2784,8 +2672,6 @@ kingdom; *chiram* = for a long time.
 friends and decided, being foiled like an army destroyed by enemies? What the kings who came from many
 directions, will speak about me? 'Alas', this king Dasaratha, a fool was ruling this kingdom for such
 a long time!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2836,8 +2722,6 @@ maam* = me; *kaakuthsam* = about Rama; *tadaa* = then; *aham kim vakshhyaami*
 
 "When many virtuous and learned elders enquire me about Rama, what then shall I tell
 them?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2853,8 +2737,6 @@ truth; *raamaH* = Rama; *pravraajitaH* = was sent; *vanam* = to forest; *mayaa*
 
 "Even if I tell the truth that Rama was sent to forest by me, hard-pressed as I was by
 Kaikeyi, nobody will believe it and think as untruth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2903,8 +2785,6 @@ maam* = to me?; *kR^itvaacha* = Having done; *iidR^isham* = such; *apriyam*
 
 "What will Kausalya say to me if Rama proceeds to forest? What can I, having done an
 unkind act, reply to her?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -2968,8 +2848,6 @@ me; *daasiivachcha* = like a maid servant; *sakhiivachcha* = like a friend; *bha
 was blessed with a pet son, who speaks kind words and who deserves to be kindly treated, was waiting
 on me like a maid-servant, like a friend, like a wife, like a sister and like a mother. But, for your
 sake, she was never treated kindly by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3016,8 +2894,6 @@ is done good; *mayaa* = by me; *tapati* = is hurting; *maam* = me; *aaturamiva*
 
 "That which was done good be me for you, is hurting me now even as a meal taken with
 forbidden sauces fills an ailing person with repentance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3058,8 +2934,6 @@ samprayaa Namcha* = and of his departure; *vanasya* = to forest; *vishvasishhyat
 
 Being apprehensive of seeing Rama being treated with contempt and his exile to the forest,
 how will Sumitra put faith in me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3103,8 +2977,6 @@ hear; *kR^ipaNam* = woefully; *dvayam* = two news; *apriyam* = which are unpleas
 
 "Seetha, alas, will hear woefully two unpleasant, of me having befallen to death and
 of Rama seeking refuge in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3150,8 +3022,6 @@ grief ; *kshhapayishhyati* = will make me lose; *me paaNaam* = my life.
 
 "Alas! Like a Kinnara girl bereft of her partner at the side of Himalayan hill, Seetha
 with her grief will make me lose my life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3206,8 +3076,6 @@ to live.
 
 "Seeing Rama dwelling in a great forest and Seetha lamenting, I cannot indeed desire
 to line."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3223,8 +3091,6 @@ not indeed wish; *jiivitum* = to live.
 
 "Oh, Kaikeyi! Deprived of your husband, you can as such rule the kingdom along with your
 son. It is indeed impossible for me to survive, after Rama's exile"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3272,8 +3138,6 @@ satiim* = bad wife; *ruupiNiim* = with beautiful form .
 "I considered you, a good and virtuous wife as you are, proving to be perpetually bad
 wife, as one, having drunk wine with poison, though possessing an attractive appearance, concludes it
 to be obnoxious."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3323,8 +3187,6 @@ bhaashhasesma* = you used to speak; *maam* = to me; *bahu* = very; *saantvayanti
 
 "You used to speak to me very consolingly with untruthful gentle words like a deer being
 killed by a hunter after enticing it with melodious sounds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3371,8 +3233,6 @@ away the son; *anarya* = iti = that Iam bad; *braahmaNam yathaa* = like a brahma
 
 "Venerable people gathered in the streets will reproach me who has sold away my son,
 saying that I am as bad as a brahmana who drinks wine. It is certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3414,8 +3274,6 @@ how painful!; *yatra* = In which cercumstances; *kshhame* = Iam forbearing; *tav
 
 "Alas! How was distressing and how painful it is that I have to forbear your words! I
 got this type of trouble as an evil consequence earned in a previous life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3462,8 +3320,6 @@ got this type of trouble as an evil consequence earned in a previous life."
 
 "Like a rope used for hanging up one's neck through ignorance; Oh sinful woman; you have
 been lovingly maintained by me, sinful as I am"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3510,8 +3366,6 @@ with you; naabhilakshhaye I could not recognise; *tvaa* = you; *mR^ityum* = as d
 
 "Enjoying life with you, I could not recognise you as death. I touched you, like cobra
 touched with hand by a child in a deserted place."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3558,8 +3412,6 @@ me; *tam* = as such; *nuunam* = certainly.
 
 "This world of living beings is certainly fit to curse me, such as I am; saying that
 Rama the great souled is deprived of fatherly protection by me, the evil-minded."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3609,8 +3461,6 @@ dasharathaH* = that king Dasaratha; *kaamaatmaa* = whose mind is lustful; *bhR^i
 
 Alas! Extremely foolish is king Dasaratha; whose mind is lustful for a woman and sent
 his son to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3657,8 +3507,6 @@ great; *kR^ichchhram* = hardship.
 
 "Emaciated by vow's, by study of Vedas and by service to his preceptors, Rama will indeed
 during the period of enjoyment, again undergo a great hardship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3699,8 +3547,6 @@ saH* = he; *vakshhyati* = will say; *baadham ityeva* = "Be it so."
 
 "My son Rama is incapable of saying a second word to me to go to forest, he will say
 "Be it so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3750,8 +3596,6 @@ go; *vanam* = to forest; *tat* = it; *syaat* = will become; *priyam* = dear;
 
 "If Rama does contrary to my command to go to forest, it will be most welcome to me.
 But, Rama the darling would never do so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3798,8 +3642,6 @@ thinking; *uktaH* = Having been told; *iti* = thus; *pravraja* = he will say ;
 
 "Rama, who is pure minded; cannot indeed conjecture my way of thinking. Having been told
 to go to the forest, he will say "Be it so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3840,8 +3682,6 @@ god of punishment.
 
 "On Rama reaching the forest, Death will take me, who is condemned by all men and unpardonable,
 to the abode of Yama the god of punishment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3891,8 +3731,6 @@ remaining; *mama ishhTe jane* = people beloved of me.
 
 "Rama the foremost among men-having left for the forest and I having been dead, what
 sinful act can you think of the remaining people beloved of me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3939,8 +3777,6 @@ shatrughna; *asahatii* = not bearing with; *duHkhaani* = the woes; *maameva anum
 
 "The queen Kausalya, after losing me, Rama and sons Lakshmana and satrughna, will be
 enable to endure the woes and will follow me to the abode of Yama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -3987,8 +3823,6 @@ bhava* = be happy!"
 
 "Having thrown Kausalya, Sumitra along with three sons and myself into tortures of hell,
 you be happy!."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4033,8 +3867,6 @@ could not be disturbed; *tyaktam* = being abandoned; *mayaa* = by me; *raameNach
 
 "Being abandoned by me and Rama, the Ikshhvaaku dynasty which was eternal, which was
 adorned with qualities, which could not be disturbed, will now be protected by you by bringing disorder."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4078,8 +3910,6 @@ kaarshhiit* = let not Bharata to do ; *preta kR^ityam* = funeral rite; *me* = to
 
 "If it becomes agreeable to Bharata to send Rama to exile, let not Bharata do funeral
 rite to me, when life has departed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4153,8 +3983,6 @@ of desires!; *raame* = when Rama; *purushha puNgave* = the best of men; *vanam g
 "Alas! My adversary! Oh, vulgar lady, Kaikeyi! Become satisfied with your desires! When
 I am dead consequent on Rama, the foremost of men, having proceeded to forest, you a widow along with
 your son will then rule over the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4210,8 +4038,6 @@ loke* = in the world; *atulaa* = unequalled; *akiirtiH* = ill-fame; *paribhavava
 "You are residing in my house with the designation of a princess. All fame, which is
 unequalled in this world and lasting insult as well as disrespect of men will fall to my share as to
 a perpetrator of sins.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4227,8 +4053,6 @@ again; *rathaiH* = in chariots; *gajaashvaishcha* = in elephants and horses; *vi
 
 "How can my beloved son Rama, who was hitherto travelling as a Lord time again in chariots
 elephants and horses, will move on foot in a great forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4295,8 +4119,6 @@ in front"; *pachantisma* = cooking; *prashastam* = excellent; *paana bhajanam*
 How will my sin; in whose dining time; cooks wearing ear-rings used to prepare excellent
 food and drinks trying to finish their work before others actually survive by eating astringent bitter
 and pungent wild foods?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4342,8 +4164,6 @@ costly robes; *chira sukhochitaH* = will Rama who is deserving of lasting comfor
 
 "How having worn costly robes, will Rama who is deserving of lasting comforts, be in
 brown-red clothing on this earth?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4394,8 +4214,6 @@ is this; *raamasya araNyagamanam* = of Rama going to forest; *bharatasya abhishh
 
 "Whose terrific and thoughtless words are these of one demanding Rama's exile to forest
 and the other of Bharata's consecration as king?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4451,8 +4269,6 @@ maataram eva* = but of Bharata's mother only
 
 "Women of course are deceivers, even occupied with selfishness. Let them be condemned!
 Here, I am not mentioning of all women but of Bharata's mother only."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4512,8 +4328,6 @@ hitaanukaariNi* = the benefactor
 "Oh, cruel woman of evil intent; given to pursuit of your selfish ends, you have a settled
 disposition to bring grief to me. What a mischief do you expect through me or through Rama, who is always
 doing benefit to you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4567,8 +4381,6 @@ be loved; *patiimshchaapi* = the husbands; *sarvam* = All; *kR^itsnam* = the ent
 
 "On seeing Rama plunged in adversity fathers leave of their sons and wives too their
 husbands. Not, even the entire world gets exasperated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4622,8 +4434,6 @@ husbands. Not, even the entire world gets exasperated."
 
 "I, for one, rejoice by seeing that son Rama in the form of a divine boy, adorned with
 ornaments coming in proximity to me. By seeing him again and again, I get rejuvenated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4678,8 +4488,6 @@ suryeNa vinaapi* = even without the sun or; *vajradhareNa* = the wielder of the 
 "Active life may not be possible even without sun or even Indra (the wielder of thunder
 bolt) not pouring rain. But, my opinion is that not even one will survive, by seeing Rama departing
 from here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4734,8 +4542,6 @@ from here."
 "I lodged in my house, as one would one's own mortal enemy, you, who seek my destruction
 and are unfriendly. Alas, due to ignorance, a highly venomous female serpent has been held on my lap
 so long and therefore I am undone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4786,8 +4592,6 @@ abhiharshhiNii* = the one who beings delight; *mama ahitaanaam* = to my enemies.
 
 "Bereft of me as also Rama and Lakshmana, let Bharata along with you, rule over the city
 and the state. After killing your relatives, bring delight to my enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4846,8 +4650,6 @@ athaH* = down; *vishiiryamaaNaaH* = breaking into; *sahasradhaa* = thousands of 
 
 "Oh, cruel natured! One who has struck a blow in adversity! When you violently utter
 such words now, why the teeth from your mouth have not fallen down, breaking into thousands of pieces?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4903,8 +4705,6 @@ such words now, why the teeth from your mouth have not fallen down, breaking int
 "Rama does not speak a word which is even a little malevolent or unkindly. He does not
 know how to utter harsh words. How indeed are you recounting the faults of Rama, who talks beautifully
 and who is always admired for his virtues"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -4959,8 +4759,6 @@ vaa* = you faint away; *prajjvalavaa* = or flare up; *praNashyavaa* = or perish!
 "Oh, Kaikeyi, the black guard of Keka dynasty! You may faint away or flare up or perish
 or enter the earth split up into thousands of cracks! I will not act on your word which is very cruel
 and inimical to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 </details>
 
@@ -5008,8 +4806,6 @@ to the mind; *didhakshha maaNam* = intending to burn; hR^idayam-my heart; *saban
 "I do not wish the survival of you, who are destructive like a razor, always speaking
 falsely pleasing words, are of evil natured, disastrous to the family, intent upon burning my heart
 along with vitals and repellent to my mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

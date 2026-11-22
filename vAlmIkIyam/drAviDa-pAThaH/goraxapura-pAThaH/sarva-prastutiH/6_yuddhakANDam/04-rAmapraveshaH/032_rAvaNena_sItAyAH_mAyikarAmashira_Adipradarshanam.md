@@ -19,8 +19,6 @@ Seetha was shocked, fell unconscious at the sight of Rama's head and bow. She re
 consciousness and asked Ravana to kill her also, so that she would join her husband in heaven. Meanwhile,
 Ravana is abruptly called away by an emissary and after consultation with his ministers, prepares his
 army for action against the forces of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -94,8 +92,6 @@ relationship with Sugreeva, as earlier apprised by Hanuman. Recognizing that hea
 a proof resembling her husband's eyes, facial complexion, hair, expanse of his forehead and the beautiful
 jewel worn on the top of his head, she was very much afflicted with sorrow, cried like an osprey and
 abused Kaikeyi who was the originator of the present calamity (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -142,8 +138,6 @@ of your desires; *ayam* = this Rama; *kula nandanaH* = causing joy to the family
 
 Kaikeyi! Be a fulfiller of your craving! This Rama, causing a joy to the family, has
 been slain. The entire race has been destroyed by a woman of squabbling nature.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -190,8 +184,6 @@ yat* = why; *prasthaapito* = was he sent on exile; *vanam* = to the forest; *may
 
 "You gave clothes made of bark to the venerable Rama and sent him on exile to the forest
 along with me. What harm has he done to you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -239,8 +231,6 @@ tree; *chhinnaa* = which was cut-off.
 Thus speaking, Seetha the miserable girl was trembling and fell on the ground like a
 plantain tree that was cut off. Thus speaking, Seetha the miserable girl was trembling and fell on the
 ground like a plantain tree that was cut off.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -290,8 +280,6 @@ _________________
 
 The wide eyed Seetha thereafter was consoled in a moment, regained consciousness, approached
 near that illusory head and lamented as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -338,8 +326,6 @@ avasthaam* = last fate; *kR^itaa* = I have been made; *vidhavaa* = a widow.
 
 "O, the long armed Rama! The pursuer of a strong will! Alas, you have been killed! I
 have become a witness to your last fate. I have been made a widow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -386,8 +372,6 @@ died; *agrataH* = earlier; *mama* = to me; *saadhu vR^ittaayaaH* = well survivin
 
 "It is said that the early death of a husband is the misfortune of a wife. You, having
 good conduct, have preceded me in death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ so.api* = such of you also; *vinipaatitaH* = have been killed.
 
 "Even you who were actually intent on protecting me, fallen in great affliction and immersed
 in an ocean of grief, have been killed by the enemies"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ son; *vatseneva* = as by a calf; *dhenu yathaa* = as to the cow
 
 "O, Rama! My mother- in-law Kausalya who cherished you tenderly has been left without
 a son and resembles a cow that has lost its calf."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -533,8 +513,6 @@ lengthy; *raaghava* = O;Rama! teshhaam = their; *vachanam* = words; *anR^itam*
 
 "O, Rama! It was mentioned even by astrologers that your life span is lengthy. O, Rama!
 Their words are wrong. You are short lived."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -581,8 +559,6 @@ Their words are wrong. You are short lived."
 
 "Otherwise, your prudence might have disappeared even though you were sagacious, for,
 Time the master of all beings has brought you to an end."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -629,8 +605,6 @@ Time the master of all beings has brought you to an end."
 
 "How is it possible that you, who knew the doctrine of political ethics obtained an unforeseen
 death? You, who knew the science of expediency, were indeed skilled in warding off calamities"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -680,8 +654,6 @@ by the night of all destroying time; *ati nR^ishamsayaa* = which was very much c
 
 "O, Rama, the lotus eyed! The night of destroying time which was very much cruel and
 terrible thus has encircled you, embezzled you and snatched you away from me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -728,8 +700,6 @@ terrible thus has encircled you, embezzled you and snatched you away from me."
 
 "O, the mighty armed! O, the best of men! Leaving the miserable me, you lied down here,
 embracing the earth as your beloved"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -770,8 +740,6 @@ matpriyam* = dear to me; *satatam* = which was forever; *architam* = worshipped;
 
 "O, valiant Rama! Here is your bow which was decorated with gold, dear to me and worshipped
 diligently by you with sandal paste and wreath of flowers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -818,8 +786,6 @@ diligently by you with sandal paste and wreath of flowers."
 
 "O, the faultless Rama! Surely, you must have met in heaven your father and my father-in-
 law Dasaratha as well as all the multitude of manes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -868,8 +834,6 @@ law Dasaratha as well as all the multitude of manes."
 
 "You have abandoned your own pious lineage of royal sages but whereas you performed a
 great act, which illuminated the heaven like a luminary."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 
 </details>
@@ -921,8 +885,6 @@ together; *sampraaptam* = since the time of my obtaining; *baalaam* = as girl; *
 
 "O, prince! Why don't you look at me? Why don't you reply me, a wife who lived with you
 together since the time of obtaining me as a girl by you as a boy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -970,8 +932,6 @@ as I am.
 
 "O, Rama! Remember your solemn promise at the time of our marriage, saying I shall have
 righteous conduct with you' Take me also with you, wretched as I Am."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1019,8 +979,6 @@ this; *lokaat* = world?
 
 "O, Rama the best of beings! Why have you gone away, quitting me like this? Leaving me,
 the miserable woman, why have you gone to the other world from this world?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1070,8 +1028,6 @@ me; *kalyaaNaiH* = with divine essences.
 
 "That beautiful body, which was cuddled by me with divine essences, is now being dragged
 about by wild beasts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1120,8 +1076,6 @@ with abundant gifts?
 "Why are you not securing the privilege of being cremated with a sacrificial fire, even
 though you have worshipped the Lord through sacrificial performances such as Agnishtoma, duly furnished
 with abundant gifts?".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1167,8 +1121,6 @@ with abundant gifts?".
 
 "Kausalya absorbed as she was with grief can only see Lakshmana alone returned out of
 the three who attained exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1215,8 +1167,6 @@ by the demons; *te mitra balasya* = of the army of your ally; *nishaayaam* = at 
 
 "He will narrate surely to her when enquired, about your slaughter as also the killing
 of the army of your alley, by demons at night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1264,8 +1214,6 @@ she; *na bhavishhyati* = will be no more; *hR^idayana* = with her heart; *avadii
 
 "O, Rama! Hearing that you were killed while sleeping and that I was kept in the house
 of ogres, she will be no more, as her heart will be broken."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1312,8 +1260,6 @@ the cause; *mama* = of me; *anaaryaayaaH* = an unworthy woman.
 
 "The strong and faultless prince Rama was killed in a small puddle, after crossing the
 ocean, for the cause of me, an unworthy woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1360,8 +1306,6 @@ ocean, for the cause of me, an unworthy woman."
 
 "I, the obloquy of my race, was wedded by Rama due to ignorance. Thus, a wife herself
 has eventually proved to be the cause for death of Rama, an honorable man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1413,8 +1357,6 @@ anyaam* = in a another (previous); *jaatim* = existence; *uttamam* = an excellen
 "Even though I was a wife of Rama who showed hospitality to all the guests, it is I,
 that very person, who is weeping here and now, because without doubt, in a previous existence, an excellent
 gift was refused by me (to an eligible person)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1462,8 +1404,6 @@ act
 
 "Unite the wife with the husband and without delay, arrange to kill me right at the head
 of Rama. Thus, you will perform an admirable and auspicious act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1510,8 +1450,6 @@ of Rama. Thus, you will perform an admirable and auspicious act."
 
 "O, Ravana! Join my head with his head and my body with his body. I shall go along the
 path of my magnanimous Lord."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1558,8 +1496,6 @@ grief; *vilalapa* = and lamented; *itiiva* = in this way.
 
 The wide-eyed Sita, seeing her husband's head and bow there again and again, was tormented
 with grief and lamented as aforesaid.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1606,8 +1542,6 @@ his joined palms in salutation. (And cried as follows):
 
 While Seetha was lamenting thus, a demon who was a royal guard approached his Lord there
 with his joined palms in salutation (and cried as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1654,8 +1588,6 @@ Lord! saH* = he; *abhivaadya* = respectfully announced; *iti* = thus; *prasaadya
 
 "May you be victorious, O noble Lord!" he respectfully announced thus, thereby winning
 his pleasure and informed that Prahasta the army chief had come.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1699,8 +1631,6 @@ _________________
 
 "O, Lord! Prahasta has come with all ministers. He has sent me, eager as he is, to see
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1747,8 +1677,6 @@ you."
 
 "O, king, endowed with patience! There is a little urgent work by way of king's duty.
 Please accord them your audience now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1795,8 +1723,6 @@ left; *ashokavanikaam* = the garden of Ashoka; *yayou* = and accorded; *darshana
 
 Hearing the aforesaid communication of the demon, Ravana left the garden of Ashoka and
 bestowed audience to his ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1845,8 +1771,6 @@ for what was to be done.
 He deliberated with his ministers as to what action in its entirety to be pursued and
 entered the council-chamber and issued his commands in accordance with the knowledge he possessed of
 Rama's forces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1894,8 +1818,6 @@ kaarmukamcha* = bow; *jagaama* = attained; *antardhaanam* = disappearance.
 **अनुवादः**
 
 Soon after the departure of Ravana, the illusory head and bow had vanished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1941,8 +1863,6 @@ yaamaasa* = decided; *raamakaaryavinishchayam* = on the measures he would adopt 
 
 Then, Ravana the king of demons in consultation with his highly powerful ministers, decided
 on the measures he would adopt against Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -1989,8 +1909,6 @@ on the measures he would adopt against Rama.
 
 Ravana the king of demons, resembling Yama the god of death, addressed all the generals
 standing nearby, devoted to his interests as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -2037,8 +1955,6 @@ standing nearby, devoted to his interests as follows:
 
 "By a sound of a drum beaten audibly with a drum stick, immediately summon all my forces.
 Do not tell them the reason for which I am calling."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 </details>
 
@@ -2093,8 +2009,6 @@ Do not tell them the reason for which I am calling."
 Then, the messengers answered, "So be it" obedient as they were to his words and instantly
 gathered a huge army together and informed their lord longing for fight, that they had since assembled
 the army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga32/yuddhasans32.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

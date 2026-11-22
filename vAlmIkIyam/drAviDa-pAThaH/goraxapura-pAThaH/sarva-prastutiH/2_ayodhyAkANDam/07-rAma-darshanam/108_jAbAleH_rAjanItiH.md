@@ -17,8 +17,6 @@ A Brahmana named Jabali tries to persuade Rama to accept the kingdom by advocati
 the theory of Nastikas (non-believers), saying that he need not get attached to his father's words
 and remain in the troublesome forest. Jabali requests Rama to enjoy the royal luxuries, by
 accepting the crown.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ accepting the crown.
 
 A brahmana called Jabali spoke the following unrighteous words to Rama, who knew
 righteousness and who was assuaging Bharata as aforesaid
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ distinguished for your intelligence; *manasvinaH* = and virtue.
 
 "Enough, O Rama! Let not your wisdom be rendered void like a common man, you who are
 distinguished for your intelligence and virtue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ chit* = from whom; *kasya* = by whom? yat = because; *jantuH* = a living; being;
 
 "Who is related to whom? What is there to be obtained by anything and by whom? Every
 creature is born alone and dies alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ known; *unmatta iva* = as one who has lost his wits; *naasti hi* = there is none
 
 "O, Rama! He who clings to another, saying, 'This is my father, this is my mother,
 he should be known as one who has lost his wits. There is none who belongs to another."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ place; *sajjanaaH* = the wise; *na sajjante* = do not become attached; *atra*
 "O, Rama! As one who passes the a strange village spends the night the and the next
 day leaves that place and continues his journey, so are mother, father, home and possessions to a
 man; they are but a resting place. The wise do not become attached to them".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -325,8 +313,6 @@ lonely forest; *duHkham* = that is painful; *viSamam* = hard to traverse;
 
 "O, chief of men! You as such should not abandon your father's kingdom in order to
 dwell in a lonely forest, that is excruciating hard to traverse and full of thorny thickets."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ dwell in a lonely forest, that is excruciating hard to traverse and full of thor
 
 "Get yourself crowned in the prosperous kingdom of Ayodhya. That city is waiting for
 you, with your locks duly unfound."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -421,8 +405,6 @@ the Lord of Celestials; triviSTape (moves in) heaven!
 
 "O, prince! Enjoy the royal luxuries worthy of you. Move around in Ayodhya as Indra
 the Lord of celestials does in heaven!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -470,8 +452,6 @@ the Lord of celestials does in heaven!"
 
 "Dasaratha is none to you nor you in anyway to him. That king is another and your
 are another. Hence, do what is told by me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -522,8 +502,6 @@ mother's womb; *tat* = so that; *puruSasya* = man; *janma* = is born;
 
 "The father is only the seed of a being. The sperm and the ovum blend at the right
 time in the mother's womb, so that a human being is born in this world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ unnecessarily; *tvam tu* = you are still; *vihanyase* = frustrated.
 
 "The king has gone, where he had to go. This is the fate of all being unnecessarily,
 you are still frustrated over the matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -624,8 +600,6 @@ this life; *bhejire* = they have met with; *vinaasham* = extermination;
 "I pity all those whosoever, devoted to wealth and religious merit, not other (who
 are devoted to sense-enjoyment), for, they, having undergone suffering in this life, have met with
 extermination after death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -676,8 +650,6 @@ waste annasya = of food; *kim* = what; *mR^itaH* = (will) a dead man;
 
 "These people say, 'The eighth day should be given up to sacrifices for the spirits
 of our ancestors.' See the waste of food. What will a dead man eat?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ will it not become; *ashanam* = a food; *pathi* = on their path?
 
 "If food eaten by one here, reaches another's body, then let a sacrifice be offered
 for those who are setting out on a distant journey. Will it not become a food on their path?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -778,8 +748,6 @@ samvananaaH* = for the sake of inducing others to give.
 "Perform sacrifices, distribute gifts, consecrate yourselves, practise ansterity and
 renunciation' - These writings are composed by learned men for the sake of inducing others to
 give."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -828,8 +796,6 @@ turn your back; *parokSam* = on what is beyond our knowledge.
 "O, the highly wise! Arrive at a conclusion, therefore, that there is nothing beyond
 this Universe. Give precedence to that which meets the eye and turn your back on what is beyond our
 knowledge."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 </details>
 
@@ -876,8 +842,6 @@ propitiated; *bharatena* = by Bharata.
 
 "Honour the judgment of the wise and regarding that which is approved by all, accept
 the kingdom as propitiated by Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga108/ayodhyasans108.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

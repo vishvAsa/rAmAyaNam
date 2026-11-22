@@ -18,8 +18,6 @@ its right eye thereby, as a token of remembrance. She also asks to remind Rama o
 on her cheek with realgar, when a mark on her forehead was defaced, as a further token of Hanuma having
 met her. Seetha also requests Hanuma to appraise Rama of her wretched plight and finally greets him
 to have a happy journey ahead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ of that; *mahaatmanaH* = high-souled; *vaayusuunoH* = Hanuma; *Siita* = Seetha;
 
 Hearing the words of that high-souled Hanuma, Seetha who resembled the daughter of god,
 spoke the following words beneficial to herself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ you; *priyavaktaaram* = speaking pleasant words; *samprahR^iSyaami* = I am over-
 
 "O Hanuma! Seeing you speaking pleasant words, I am as overjoyed, as a field with half-sprouted
 crop of grain is thrilled by receiving a rain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ touch; *puruSavyaaghram* = that Rama the tiger among men; *tathaa* = in that man
 
 "With my limbs emaciated with grief, I have a desire to touch that Rama the tiger among
 men. Show mercy on me and fulfill my desire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ ekaakSishaataniim* = and the one eye of a crow destroyed; *raamasya* = by Rama.
 "O Hanuma the excellent one among the troops of monkeys! Present the story of the blade
 of grass called Ishika hurled with anger and thereby one eye of the crow destroyed by Rama (as a signal
 remembrance)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ cheek; *arhasi* = you ought surely; *smartum* = to recollect; *tam* = it.
 
 "O Rama! You ought surely to recollect that while a mark on my forehead had got effaced
 once, another mark with realgar was indeed painted by you on the side of my cheek."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ king of Universe; *samanumanyase* = give consent to; *siitaam* = Seetha; *hR^ita
 
 "How are you, the valiant man equal to Indra the Lord of celestials and Varuna the King
 of Universe, ignore Seetha who was taken away and now staying in the midst of these demons?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -367,8 +353,6 @@ well; *mayaa* = by me; *dR^iSTvaa* = seeing this; *vyasane* = in my distress;
 
 "O faultless Rama! This wonderful jewel for the head head has been protected well by
 me. Seeing this in my distress, I have been getting delighted, as though I have seen you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -409,8 +393,6 @@ me. Seeing this in my distress, I have been getting delighted, as though I have 
 
 "This splendid jewel, produced in water, has been sent to you. Absorbed in grief, I shall
 not be able to survive henceforth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -460,8 +442,6 @@ _________________
 
 "With a hope of your coming here at any time, I am enduring these unbearable hardships
 and also the words of horrible female demons; which pierce my heart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -508,8 +488,6 @@ O Rama the prince!; *dhaarayiSyaami* = I shall hold; *jiivitam* = my life; *maas
 
 "O Rama the prince, the annihilator of enemies! I shall hold my life only for a month.
 I will not survive without you, after a month."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -560,8 +538,6 @@ for a moment.
 
 "This Ravana, the king of demons, is terrible. In my instance, his glance is not pleasant.
 Hearing that you are causing a delay, I will not survive even for a moment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -611,8 +587,6 @@ great splendour; *atha* = thereafter; *abraviit* = spoke (as follows):
 
 Hearing the words of Seetha, spoken pitiably with tears, Hanuma the son of wind-god,
 with a great splendour, spoke (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -754,8 +728,6 @@ you. I sear it to you truly. when Rama is overpowered by grief, Lakshmana too ge
 see the end of your sorrow shortly." "Those two princes, the excellent among men, the annihilator of
 enemies and who are eager to see you, will surely reduce Lanka to ashes. "O large-eyed Seetha! Killing
 the cruel Ravana along with his relatives, Rama and Lakshmana will take you to their own city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -805,8 +777,6 @@ which creates will pleasure; *tasya* = to Rama.
 
 "O faultless Seetha! Be pleased to give another token of remembrance, which Rama will
 recognise and which creates pleasure to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -859,8 +829,6 @@ jewel; *shraadheyam bhaviSyati* = will become trust-worthy; *raamasya* = to Rama
 
 Seetha said, " An excellent token of remembrance was indeed given by me. Seeing this
 jewel for my hair, Rama will trust your words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -907,8 +875,6 @@ monkeys; *praNamya* = offering salutation; *shirasaa* = by bowing his head; *dev
 
 Taking that excellent jewel, the illustrious Hanuma, the best among monkeys, offered
 salutation to Seetha by bowing his head and has set off to go.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -962,8 +928,6 @@ best among monkeys; *utpaatakR^itatsaaham* = possessed of energy to jum up; *mah
 Seeing that Hanuma, the best among monkeys, possessed of energy to jump up with great
 speed and expanding, Seetha spoke (as follows) in her voice choked with tears and looking miserable
 in her face filled with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -1013,8 +977,6 @@ _________________
 
 "O Hanuma! Enquire about the welfare of Rama and Lakshmana, the brothers looking like
 lions, of Sugreeva together with his ministers and of all other."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -1059,8 +1021,6 @@ saH raaghavaH* = that Rama; *mahaabaahuH* = deliver (me) in whatever manner; *as
 **अनुवादः**
 
 "Be pleased to make that long-armed Rama deliver me from this ocean of sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -1119,8 +1079,6 @@ Your journey; *astu* = be; *shivaH* = happy.
 
 "O valiant monkey! After approaching Rama, appraise him of this terrific gush of my grief
 and also about the threatening attitude of these female-demons. Have a happy journey!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 </details>
 
@@ -1180,8 +1138,6 @@ _________________
 Having been appraised of the matter by Seetha the princess, having accomplished his object,
 having his mind filled with joy and having perceived that only a little remained to be done, Hanuma
 intellectually sought the northern direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga40/sundarasans40.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

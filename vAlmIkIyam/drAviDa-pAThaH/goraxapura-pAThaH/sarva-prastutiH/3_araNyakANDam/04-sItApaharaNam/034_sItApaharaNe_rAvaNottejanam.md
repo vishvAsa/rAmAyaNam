@@ -16,8 +16,6 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 Ravana enquires about Rama's valour and weaponry for which Shuurpanakha narrates about Rama, Seetha,
 and Lakshmana and what has happened in Janasthaana. Thus she prompts Ravana to achieve Seetha as his
 wife, for none surpasses Seetha in her beauty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ on seeing; *samkR^iuddhaH raavaNaH paripapracCha* = highly, infuriated one, Rava
 
 On observing Shuurpanakha who is speaking bitter words against him in the presence of ministers then
 Ravana is highly infuriated and queried her. [1-34-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -132,8 +128,6 @@ his ancestral kingdom and enter Dandaka, a stronghold of demons?' This is the re
 *kena ca kaaraNena kula parampara aagatam praajyam raajyam parityajya nikhila nishaacara vaaso asmin
 deshe samaagataH - dk* Ravana might be unaware that Dandaka forest also belongs to Ikshvaku-s as
 Kishkindha belonged to them, as said by Rama at the time of eliminating of Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -199,8 +193,6 @@ ca aayudhaani khara mukha nishaacra praaNa haani karaaNi - dk*'you said that Ram
 this havoc single-handedly, then he should have used various and numerous weapons by which missiles
 are flung... because common sense does not permit any belief that a handheld bow can dart numerous arrows
 or missile, that too when wielded by a single human...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ upacakrame* = to describe, commenced.
 
 When the king of demons has asked her thus, she that demoness Shuurpanakha who is in a fit of fury then
 commenced to describe Rama in the point of fact. [3-34-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -301,8 +291,6 @@ his dress; *kandarpa sama ruupaH ca* = Love-god, similar, in semblance.
 
 "Dasharatha's son Rama is the one with inescapable arms and keen-eyed, but has jute-cloths and skin
 of black-deer for his dress, yet in semblance he is similar to the Love-god. [3-34-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -350,8 +338,6 @@ sarpaan iva* = those that have deadly, poison, snakes, like; *diiptaan naaraacaa
 
 "Yanking out a bow with golden fillets, and that is similar to the bow of Indra in its shine, he strews
 candent iron-arrows that simulate snakes with deadly poison. [3-34-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -405,8 +391,6 @@ vikarSantam* = bow, stretching of; *na* = I do not see; *muncantam [shiilii mukh
 on the battleground; or, stretching his bow admitting those arrows on bowstring - no; or, his releasing
 those sharp edged arrows from the bow - no; why them, that great mighty Rama himself has become imperceptible
 in the fastness of his action. [3-34-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -454,8 +438,6 @@ best, army; *pashyaami* = I am seeing - then I have seen.
 
 "As with a crop of grain devastated by a hailstorm of Indra, I could only see that best army while it
 is being annihilated with a downpour of arrows. [3-34-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -508,8 +490,6 @@ The above is consolidated and said as: *saH ayam
 adhunaa muni jana samucita veShopi dhik kR^ita shakra paraakrame vikrameNa shakra kaarmuka sadR^ikSham
 caapam aakR^iShya mahaa viShaan aashii viShaan iva rukma punkhaan anukShaNam prakShipan rakSho vikShobhakaram
 ati bhayankaram ruupam aavahati - dk*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -564,8 +544,6 @@ is only the castled city Lanka. Now that the doors to Lanka are wide open Lanka 
 danger. *nishaacaraan
 asankhyaiH rukma punkhaiH vishikhaiH vimadhya shatamakha mukhamakha bhuje akhila tapasvinaH ca nirbhayam
 vidhaaya danDakaaraNyam api sakala muni jana sharaNyam atanuta - dk*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -618,8 +596,6 @@ brother Rama,] in bravery; *anuraktaH ca* = adherent, also; *bhaktaH ca* = devot
 
 "A highly resplendent one who by his trait matches his brother in bravery, an adherent and a devotee
 of his brother, such a stout-hearted one is Rama's brother known as Lakshmana. [1-34-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -636,8 +612,6 @@ a brother Lakshmana is; *nityam raamasya dakSiNe baahuH* = perpetual, Rama's, a 
 "That Lakshmana is an easily irritable one, he is not that easily invincible, an easy victor, but not
 an easygoing valiant, yet he is an intellectual at ease, and a mighty one who does not ease off, such
 a Lakshmana is the perpetual right-hand and the peripherally moving life of Rama. [1-34-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -684,8 +658,6 @@ well-being, delights in.
 
 "But, one with her broad-eyes, face similar to the full-moon is the dear and wedded wife of Rama, and
 she always takes delight in the well-being of her dear one, namely Rama. [1-34-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -736,8 +708,6 @@ iva* = another - temporal, Goddess Lakshmi, like; *raajate* = is beaming forth.
 "She is the one with lengthy hairdo, her nose and thighs are fine, and that glorious one with fine looks
 is the wife of Rama, and she is beaming forth like a sylvan deity situated in that woodland, who in
 turn is like Goddess Lakshmi in a temporal form. [1-34-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -787,8 +757,6 @@ hips; *tanu madhyamaa* = with slender waist; *siitaa naama* = Seetha, known as.
 
 "She has a complexion mathing the shade of refined gold, her nails are rosy and jutting, and she with
 her curvaceous hips and slim waist is the daughter of King of Videha, and known as Seetha. [1-34-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -836,8 +804,6 @@ kinnaraa-female, even; *na* = no; *naarii mahiitale* = woman, on the face of ear
 
 "So far I have not seen any goddess with such a comeliness; a gandharva female - no; a yaksha female
 - no; a kinnara female - no; and a woman, no, not on the face of earth! [1-34-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -887,8 +853,6 @@ than] Indra; *ati jiivet* = grandly, lives.
 
 "To whom Seetha becomes a wife and around whom she gladly throws her arms after such a marriage, he
 lives more grandly than Indra in all the worlds. [1-34-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -938,8 +902,6 @@ anuruupaa bhaaryaa* = she is, to you, seemly for, a wife; *[syaat* = she becomes
 
 "She is a highly gracious lady, laudable by her bodily structure, incomparable by her appearance, and
 she will become a seemly wife of yours, and you too will become a best husband of hers. [1-34-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -992,8 +954,6 @@ asmi* = disfigured, I am.
 
 "Oh, mighty shouldered brother, but when I ventured to bring her as your wife, whose hips are broad,
 bosom fat and bulgy, face excellent, that cruel Lakshmana disfigured me. [1-34-21, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -1040,8 +1000,6 @@ adya dR^iSTvaa* = her, at Vaidehi, now, if you see; *tvam* = you; *manmathasya s
 
 "You too will become a groveller at the arrows Lover-god in case you now see Vaidehi with a face shining
 like full-moon. [1-34-22, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -1088,8 +1046,6 @@ uddhriyataam* = quickly, be upraised - put your best foot forward.
 
 "Hence, if you hatch an opinion to make her as your wife, and if you aspire success, now itself quickly
 put your best foot, namely your right foot, forward. [1-34-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -1136,8 +1092,6 @@ my, sentence - idea, let it be done.
 
 "Oh, the king of demons Ravana, if this advise of mine is pleasing to you, let this idea be actualised
 without any shilly-shallying in your mind. [1-34-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -1187,8 +1141,6 @@ for your, in wifehood - to become a wife; kriyataam [hriyataam] may be made, [be
 
 "Oh, king of the demons, realise your stout-heartedness, and oh, great mighty one, let that immaculately
 limbed Seetha be abducted to become your wife. [1-34-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 </details>
 
@@ -1244,8 +1196,6 @@ arhasi* = to awake to, apt of you.
 "On recognising that Rama with his straight shooting arrows destroyed the night-walkers positioned at
 Janasthaana, and further on distinguishing that Duushana, and even Khara, is dispatched, it is apt of
 you to awake to a workable action." Thus Shuurpanakha has earbashed Ravana. [1-34-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

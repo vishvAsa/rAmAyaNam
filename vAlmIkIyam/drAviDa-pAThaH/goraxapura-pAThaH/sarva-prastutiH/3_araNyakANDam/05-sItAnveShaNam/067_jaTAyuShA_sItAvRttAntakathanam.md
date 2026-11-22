@@ -19,8 +19,6 @@ moments. On conceding to the suggestion of Lakshmana that they should search for
 searching the forest and at certain place the mountainous Jataayu is seen. Mistaking him to be a
 demon Rama wants to kill and speedily approaches Jataayu, but on listening Jataayu's words, Rama
 recognises and laments for his wretched situation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -84,8 +82,6 @@ graahyam baalaat api subhaaShitam | tathaa ca - anena baalot iiritam api yuktam 
 uktam - tathaa ca bhaarate udyoge - viduraH - api unmatta pralaapato baalaacca parisarpitaH |
 sarvataH saaram aadadyaat ashmabhya iva kaancanam || iti - dk 'youngsters advices
 can be taken like gold from the coals...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -137,8 +133,6 @@ propping against; *lakSmaNam abraviit* = he, to Lakshmana, said.
 
 Such as he is that dextrous Rama on controlling his highly heightening fury,
 propping against his bedazzling bow spoke this to Lakshmana. [3-67-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -187,8 +181,6 @@ cintaya* = in this matter, you clearly think.
 
 "What is to be done by us, oh, dear boy... or, whereto we might go, or, by which
 device Seetha is discernable... Lakshmana, now you think of it, clearly... [3-67-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ you.
 To such a Rama who is tormented by anguish, Lakshmana said, "it will be apt of you
 to search this Janasthaana alone which is rife with many demons, and replete with manifold trees
 and climber-plants... [3-67-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -318,8 +308,6 @@ gandharva-s, palaces, as well; *santi* = are there.
 "Here there are unclimbable mountains, glens and glyphs as well. There are divers
 and pernicious caverns tumultuous with diverse packs of predators, and here are the mansions of
 kinnaraa-s and palaces of gandharva-s, as well... [3-67-5b, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -380,8 +368,6 @@ will not, fluctuate.
 "It will be apt of you to steadfastly search in them along with me, and oh, best one
 among men, your sort of literati and clever-souls will be unfluctuating in calamities like the
 mountains unfluctuating in windstorms..." Lakshmana said so Rama. [3-67-6, 7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -431,8 +417,6 @@ roved.
 
 When Lakshmana said in this way to that ireful Rama, he roved entire forest along
 with Lakshmana readying a crescent-shaped razor-sharp deadly arrow on his bow. [3-67-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -490,8 +474,6 @@ blood, wet [bloodstained]; *jaTaayuSam* = at Jataayu; *dadarsha* = [Rama] beheld
 
 Then Rama beheld Jataayu who is akin to a mountaintop in his gleam, and a best
 beatific brave bird among all the birds, but bloodstained and buckling on earth. [3-67-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -508,8 +490,6 @@ Seetha, is gluttonised; *atra samshayaH na* = in that matter, doubt, is not ther
 On beholding him who is like a mountaintop in his gleam, Rama said to Lakshmana,
 "This one has gluttonised Seetha, the princess from Vaidehi, there is no doubt about it...
 [3-67-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -587,8 +567,6 @@ jihma gaiH* = not, crisscross, going [shoot off straightly]; *baaNaiH* = with bo
 and having gluttonised that wide-eyed Seetha he is now reposing comfortably. I will eliminate him
 with deadly arrows, whose arrowheads blaze away and which shoot off straightly..." Thus Rama
 declared. [3-67-11b, 12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -642,8 +620,6 @@ aa patat* = towards, come, and fallen] = rushed towards.
 On saying thus and on readying a crescent-shaped razor-sharp deadly arrow on his
 bow, that ireful Rama rushed towards the eagle, as though to a-tremble the whole of the earth that
 which is within the perimeter of oceans. [3-67-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -701,8 +677,6 @@ Dasharatha, namely Rama, in a pathetic tone. [3-67-14]
 Jataayu is firstly recollecting his friend Dasharatha on his deathbed, then he
 recounts this Rama as that Dasharatha's son, and hence, the epithet to Rama is
 non-non-essential.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -755,8 +729,6 @@ you are searching; *saa devii* = she, that lady; *mama praaNaa ca* = my, lives, 
 "Oh, boy Rama, blest is your eternality, for whom you are searching as with the
 search of a rejuvenescent herb in the vast of forest, Ravana stole that lady and my lives, too...
 [3-67-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -799,8 +771,6 @@ Ravana, while being stolen; *mayaa dR^iSTaa* = by me, seen.
 
 "I have seen that lady while being stolen by brute-forced Ravana when you and even
 Lakshmana absented from her... [3-67-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -859,8 +829,6 @@ utterly battered chariot... and I felled him and that chariot there... onto eart
 
 Some mms use Chatram 'parasol...' for the word atra for 'there...' and prabho
 'oh, lord...' for mayaa 'by me...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -914,8 +882,6 @@ is his combat-chariot... which, in combat shattered by me... [3-67-18]
 
 Some mms use prabho 'oh, lord...' for etat and sharaaH tathaa 'arrows like that'
 for sharaavaram 'armour...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -982,8 +948,6 @@ trice; *rakSasaa puurvam nihatam* = by demon, earlier [already,] killed; *maam* 
 Ravana gashed my wings and flew skyward taking Seetha of Videha kingdom with him, and it will be
 inapt of you to kill me who am already killed by the demon..." Thus Jataayu appealed to Rama.
 [3-67-19, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -1045,8 +1009,6 @@ saktaam* = Seetha, concerning to; *priyaam kathaam* = desirable, narration - new
 
 Rama jettisoned his forceful bow when he heard the much desired news about Seetha
 while hugging that kingly eagle Jataayu. [3-67-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1075,8 +1037,6 @@ manuShyaaNaa~N bhR^isha~N bhavati duHkhitaH || utsaveShu ca sarveShu piteva pari
 all functions celebrated by people on the occasions of child birth and the like, just as their own
 father does...' So, it must be true in respect of Seetha, even. This is agreeable to Govindaraja,
 too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -1134,8 +1094,6 @@ Here the words ekaayane kR^irChre may mean differently. kR^iChre
 'difficultly...' ekaayane 'one-way breathing, breathing in, inhaling difficultly...' and this way
 of juxtaposing words, 'Jataayu is struggling for a breath...' would mean more near to the scene,
 than a single-strait, or a narrow pathway, which are not uncommon in forests.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -1186,8 +1144,6 @@ vaasaH* = in forest, resided [misplaced]; *siitaa naSTaa* = Seetha, lost [mislai
 "Mislaid is my kingdom and I am mislocated into forests, Seetha is misplaced and now
 this mischance of death on this bird... this kind of misfortune of mine incinerates even Agni, the
 Divine-Incinerator... [3-67-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -1238,8 +1194,6 @@ shuSyet* = completely, runs dry; *nuunam* = definitely.
 "Even if it were to be a plethoric and limitless ocean, and now if I were to enter
 it, or take a swim to the other shore of blissfulness, even that Lord of Rivers runs completely
 dry, owing to my misfortune, it is definite... [3-67-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -1291,8 +1245,6 @@ put together, mobile, sessile [all beings]; *asmin* = in this; *loke* = in world
 "There will not be any greater unfortunate being in this world than me, even if all
 the sessile and mobile beings are put together, by whom such a complicated catastrophic enmeshment
 as this is derived... [3-67-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -1347,8 +1299,6 @@ wounded eagle Jataayu. [3-67-27]
 
 Some mms use the word mahaa balaH 'great mighty' eagle king, while others use
 jaraanvita 'old aged, decrepit...' for a pathetic touch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -1397,8 +1347,6 @@ also, patted [on body.]
 
 Thus, lamenting in that way for many times Raghava patted the body of Jataayu along
 with Lakshmana instancing his parental regard. [3-67-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 </details>
 
@@ -1453,8 +1401,6 @@ king; *parirabhya* = on hugging; *mama praaNa samaa* = to my, lives, equal;
 On hugging that kingly eagle whose wings are hacked off and who is bloodstained, and
 on uttering this much, "she who is identical with my lives,... where is that Maithili..." Rama
 collapsed to earth. [3-67-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

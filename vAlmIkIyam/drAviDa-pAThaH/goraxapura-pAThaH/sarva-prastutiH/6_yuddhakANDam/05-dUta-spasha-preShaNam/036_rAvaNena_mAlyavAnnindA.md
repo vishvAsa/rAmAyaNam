@@ -18,8 +18,6 @@ exaggerating the strength of Rama. Ravana further says that he will not restore 
 Rama and his army will not go back alive, having crossed the ocean and reached Lanka. Then, Ravana assigns
 Prahasta and others to guard the four main gates of Lanka against the inroads of the enemy. He retires
 to his inner apartments, after ordering these assignments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ evil-minded; *aagataH* = who had fallen; *vasham* = under the sway; *kaalasya*
 
 The evil- minded Ravana the ten-faced monster, who had fallen under the sway of Death;
 could not brook that beneficial advice tendered by Malyavan.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ fury; *abraviit* = spoke; *atha* = then; *maalyavantam* = to Malyavan; (as follo
 
 He had fallen under the sway of anger, knitting his brows on the face as he was, rolling
 his eyes in fury and spoke to Malyavan (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ an enemy; *na shrotagatam* = has not caught the ears; *mama* = to me.
 
 "I have closed my ears to the speech you have made, albeit with good intentions and even
 by taking sides with the enemy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ small man; *shaakhamR^igaashrayam* = taking help from monkeys; *tyaktam* = aband
 
 "How can you hold Rama, who is a mere human being, a small feeble man, taking help from
 monkeys and dwelling in a forest having been abandoned by his father, to be a competent person?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ monkeys and dwelling in a forest having been abandoned by his father, to be a co
 
 "How can you hold me, the Lord of demons, terrifying celestials and possessing all powers
 in full, to be a weaker person?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ of your hero-hatred; *pakSapatena vaa* = or your partiality; *ripoH* = towards t
 
 "I suspect that you spoke these harsh words to me because of your envy of my prowess
 or your partiality towards the enemies or my lenience towards you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ vaa = without any instigation?
 
 "Which learned man, understand the truth in the scriptures, would speak thus harshly
 to a mighty person in power, were it not to instigate him?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -411,8 +395,6 @@ from the forest; *bhayaat* = through fear; raaghavasya of Rama?
 
 "Why should I give back Seetha, who is like Lakshmi the goddess of fortune without the
 lotus, having brought her away from the forest, through fear of Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -459,8 +441,6 @@ together with Sugreeva; *nR^itam* = in the midst; *vaanara koTiibhiH* = of crore
 
 "See Rama killed within a few days by me, along with Lakshama together with Sugreeva
 in the midst of crores of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -507,8 +487,6 @@ entertain; *bhayam* = fear; *yuddhe* = in the encounter?
 
 "How should this Ravana, whom in combat, the celestials themselves dare not meet in a
 duel, entertain fear in this encounter?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -557,8 +535,6 @@ duel, entertain fear in this encounter?"
 
 "Rather would I be cut into two pieces than bend before anybody! Such was I from birth,
 it is my nature by difacult and unalterable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -606,8 +582,6 @@ it is my nature by difacult and unalterable."
 
 "What great marvel is there in that which gave way to terror if by happy chance, a bridge
 indeed was constructed by Rama across the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -654,8 +628,6 @@ his army of monkeys; *tiirtraa* = having crossed; *aarNaam* = the ocean; *na pra
 
 "That Rama along with his army of monkeys, having crossed the ocean, will not go back
 alive. It is my true promise to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -702,8 +674,6 @@ did not get; *vaakyam* = (any) words; *uttaram* = in reply.
 
 Beholding Ravana to be highly excited and speaking with such fury, Malyavan, abashed,
 did not reply.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -753,8 +723,6 @@ Malyavan; *abhyaanujJNaataH* = having been given permission; *jagaama* = went; *
 
 Invoking blessings of victory to the king as courtesy demanded Malyavan took permission
 and went home.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -801,8 +769,6 @@ things to be examined; *kaarayaamaasa* = set about planning; *tadaa* = then; *gu
 
 Ravana the demon on his part, assisted by his ministers having deliberated on the things
 to be examined, set about planning the defense of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -859,8 +825,6 @@ bahubhiH = a considerable force of; *raakSasaiH* = demons.
 Thereafter, he assigned the eastern gate to the demon, Prahasta and the southern gate
 to Maha Parshva and Mhodara both of great prowess. At the western gate, he placed his son Indrajit,
 a powerful conjuror, with considerable force of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -910,8 +874,6 @@ spoke; *mantriNaH* = to his ministers; *taan* = that; *gamiSyaami* = he would go
 
 Placing Shuka and Sarana at the northern city-gate, Ravana told his ministers that he
 would go there personally.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -958,8 +920,6 @@ number of demons.
 
 He place the demon Virupaksha, who was full of energy and courage, to be in the center
 of the fort, with a large number of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -1006,8 +966,6 @@ demons; *kaalachoditaH* = under the sway of Time; *manyate* = deemed; *aatmaanam
 
 Making an arrangement in Lanka in this manner, that bull among demons, under the sway
 of Time, deemed his purpose as accomplished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 </details>
 
@@ -1063,8 +1021,6 @@ counsellors; *saH* = he; *vivesha* = entered; *mahat* = the mighty; *R^iddhimat*
 Having ordered for adequate arrangements for the defence of the city, Ravana then let
 his ministers depart. Having been honoured with blessings of victory by the body of counsellors, he
 entered his mighty and sumptuous inner apartments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga36/yuddhasans36.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

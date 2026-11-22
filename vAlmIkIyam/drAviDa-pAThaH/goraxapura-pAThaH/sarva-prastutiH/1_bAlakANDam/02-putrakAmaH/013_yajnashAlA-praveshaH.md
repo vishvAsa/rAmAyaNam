@@ -18,8 +18,6 @@ ritual. Sage Vashishta instructs all the concerned about the discipline to be ob
 executing the works. Sage Vashishta also instructs the minister Sumantra to invite various
 kings of other countries, and those kings will be received with great hospitality. King Dasharatha
 along with his wives takes ritual vow and enters ritual hall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ The performer of such Vedic rituals has to perform preliminary rituals for a per
 year in order to attain eligibility to perform the final one. Here Dasharatha is said to have
 completed such preludes as he entering into the Vedic ritual hall in the springtime of the
 succeeding year to the one referred in last chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ prashritam prasavaartham vaakyam* = said, very, humble, words.
 
 Greeting and even adoring the Sage Vashishta customarily Dasharatha said these very humble
 words to him. [1-13-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ no, obstacles, be occurred; that way; *vidhiiyataam* = be conducted.
 
 "Let my ritual be performed scripturally, oh eminent Brahman, let it be conducted in such
 a way that no obstacle occurs even in its ancillary functions. [1-13-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -226,8 +218,6 @@ shall shoulder it.
 
 "You being my very reverent royal priest are friendly and kind-hearted to me, and you alone
 shall shoulder the burden of the commenced ritual in all good faith and credence. [1-13-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -279,8 +269,6 @@ raajaanam abraviit* = thus, said to king.
 
 Then that reverent Brahman Vashishta said to king, "Whatever that is requested or decided
 by you, I will see that all of them are materialised accordingly. [1-13-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -394,8 +382,6 @@ altar of fire, huge sheds will be constructed to accommodate thousands of partic
 onlookers. Apart from this, mammoth kitchens and dining halls are to be constructed as all
 of the thousands of participants, who are to be fed as long as ritual is conducted. Some of
 the many tradesmen are listed in a bird's eye view as above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -436,8 +422,6 @@ ones; *braahmaNaavasathaaH* = accommodation for Brahmans; *shatashaH kartavyaaH*
 
 "Like that, for accommodating Brahmans hundreds of sanctified houses be built, well endowed
 and well established with very many eatables, foods, and potables. [1-13-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -478,8 +462,6 @@ pR^ithak* = to kings, separately, separately [accommodation is to be given.]
 
 "So also, accommodation is to be given for city dwellers too, in very spacious housing, and
 severally for the kings arriving from distant places.[1-13-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -526,8 +508,6 @@ great, billets; *vaideshikanivaasinaam* = dwellers of foreign-country.
 "For horses stables, reposing stalls for elephants, like that great billets for soldiers may
 be built for those foreign-country dwellers arriving in here on their horses and elephants
 along with their soldiers. [1-13-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -571,8 +551,6 @@ very grand [food be given.]
 "These lodgings are to be arranged with many foods and utilities for the people of this city
 and for others coming from distant countries, and a very grand food be given in all of them.
 [1-13-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -621,8 +599,6 @@ tu liilayaa* = treating well, not, just, illusively; *sarve varNaaH* = to all, c
 "Food is to be given dutifully treating all of them well but not just illusively, and the
 people of all the castes shall be well honoured as they would get their due respect, and no
 disrespect be shown, even when overcome by passion or anger at anyone. [1-13-14, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -696,8 +672,6 @@ foods, also; *sampuujitaaH syuH* = they will be well treated.
 "Exceptionally respectable are those men and architects that are preoccupied in the works
 of the ritual as they deserve, and those men involved in these works shall be well-treated
 with funds and food. [1-13-15b, 16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -713,8 +687,6 @@ spirit; *kurvantu* = shall administer.
 
 "Thus, as to how all this be well organised without least negligence, thus you all shall administer
 in all your cooperation and good spirit." Thus Sage Vashishta spoke to the organisers. [1-13-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -759,8 +731,6 @@ least, will be neglected; *yathaa uktam tat kariSyamaH* = as, said, that, we wil
 Then all of them collectively replied to Sage Vashishta "As desired, all the well ordered
 works will not be neglected in the least, and they will be done as ordered, and not the least
 of them will be slighted." So said the artisans to Sage Vashishta. [1-13-18, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -820,8 +790,6 @@ eva sahasrashaH* = also, thus, in thousands [scores of tem]; *satkR^itya samaana
 of the earth that are righteous be invited, and let all the people from all the kingdoms,
 say Brahmans, Kshatriya-s, Vaisya-s, Shudra-s be invited in scores duly honouring them." So
 said Vashishta to Sumantra. [1-13-19b, 20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -873,8 +841,6 @@ association; *puurvam braviimi te* = firstly, I am telling, you.
 "You personally invite Janaka the king of Mithila, a valiant one and an advocate of truth,
 honouring his well and duly bearing in mind that he is a long-time associate of our King Dasharatha,
 hence I am telling you in the first instance. [1-13-21b,22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -917,8 +883,6 @@ who is friendly, always, affectionate, desiring one, well behaved [cordial] one;
 
 "Thus that King of Kaashi who is always a friendly, affectionate and a cordial one, indeed
 he shall be invited by you personally. [1-13-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -964,8 +928,6 @@ one; *shvashuram* = father-in-law; *raajasimhasya* = of lion like king [Dasharat
 
 "Likewise, King of Kekaya, an elderly, very virtuous, and also the father-in-law of our Lion-King
 Dasharatha, you personally invite him along with his sons. [1-13-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1012,8 +974,6 @@ honoured, *samaanaya* = be invited well.
 
 "Romapada, the lord of Anga kingdom and the user of great bow, let that illustrious one be
 invited well honoured, for he is the friend of our lion-king Dasharatha. [1-13-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1055,8 +1015,6 @@ Bhanumanta; *susatkR^itam* = well honoured; *magadhaadhipatim* = king of Magadha
 
 "Like that King of Kosala namely Bhanumanta, and the King of Magadha, a brave one and a profound
 one in all scriptural knowledge, let them be honoured well and be invited. [1-13-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1099,8 +1057,6 @@ shaasanam aadaaya* = taking king's orders; *chodayasva* = motivated by it;
 "And Praaptijna, the king of Magadha, the kind-hearted and best one among kings, be well honoured
 and invited. Further, taking the orders of King Dasharatha and motivated by those orders,
 the kings of Sindhu, Sauviira and Sauraastra kingdoms may also be invited. [1-13-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1155,8 +1111,6 @@ aanayasva nR^ipaaj~nayaa* = invite them, by king's, orders.
 other friendly kings on the surface of the earth, they too shall be invited as early as possible
 with all their followers, relatives through highly illustrious envoys, of course with the
 orders of our king." Thus Sage Vashishta said to minister Sumantra. [1-13-28, 29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1203,8 +1157,6 @@ envoys.
 
 On hearing that word of Vashishta, Sumantra expeditiously ordered devout envoys to invite
 all those kings to their kingdom. [1-13-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1250,8 +1202,6 @@ sage's orders; *twaritaH bhuutva* = on becoming brisk; *samaanetum mahiikShitaH*
 
 That virtuous Sumantra became brisk upon sage's words and personally journeyed to fetch all
 the rulers on the earth. [1-13-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1291,8 +1241,6 @@ the rulers on the earth. [1-13-31]
 
 All those artisans engaged in ritual works have reported Vashishta, the details of all those
 ritual works that are accomplished. [1-13-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1337,8 +1285,6 @@ disrespect, will kill, donor; *na atra samshayaH* = there is no doubt.
 Then, that satisfied saint and eminent Brahman Vashishta, spoke this way to all of them, "nothing
 is to be endowed to anyone either with disrespect or deceptively, the deeds done with disrespect
 will kill the donor and there is no doubt about it." [1-13-33, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1397,8 +1343,6 @@ _________________
 
 Then in some days and nights many kings have arrived taking precious gems with them as gifts
 for Dasharatha. [1-13-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1450,8 +1394,6 @@ satkR^itaaH sarve* = all well honoured by me, also; *yathaarham raajasattamaaH*
 Then the well pleased Sage Vashishta said this to King Dasharatha "the kings from distant
 kingdoms have arrived at your behest, oh, tigerly-man, and these best kings are well honoured
 by me also as per their status. [1-13-35b, 36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1501,8 +1443,6 @@ puruSaiH* = well coalesced, by men; *bhavaan yaSTum* = you, to perform ritual;
 "All the ritual works are also completed by the well coalescent men, thus you may start towards
 the ritual place that is nearby, to perform your ritual." Said Sage Vashishta to King Dasharatha.
 [1-13-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1543,8 +1483,6 @@ indeed; *manasaa vinirmitam eva* = as though built by wish [this ritual hall];
 
 "All the desirable paraphernalia is arranged and made available everywhere, and it is apt
 of you see ritual hall that is as though built by your mere wish. [1-13-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1606,8 +1544,6 @@ called *tithi, vaara, nakshatra* in accordance with astrological import. In addi
 to these three are two more *yoga* and *karaNa* , which when added together
 this becomes *panchaanga*, five-aspects of time, which are essential to verify before
 conducting any auspicious work.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 </details>
 
@@ -1651,8 +1587,6 @@ eva dwijottamaaH* = all, thus, eminent Brahmans; *R^iSyashR^ingam puraskritya*
 
 Then Sage Vashishta and other eminent Brahmans keeping the Sage Rishyasringa ahead of them
 entered the ritual hall, to commence the ritual works thus. [1-13-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1668,8 +1602,6 @@ king Dasharatha; *saha patniibhiH* = with his wives; *diikShaam upaavishat*
 
 When all have entered the ritual hall as per canons and custom, that glorious king Dasharatha
 along with his wives undertook vow of ritual. [1-13-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

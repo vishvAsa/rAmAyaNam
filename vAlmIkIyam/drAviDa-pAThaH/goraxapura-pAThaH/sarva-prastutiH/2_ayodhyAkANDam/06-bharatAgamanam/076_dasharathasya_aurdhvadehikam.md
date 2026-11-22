@@ -19,8 +19,6 @@ had been immersed in oil and proceeds with the funeral rites. The appointed prie
 people of the city and the weeping royal women followed the funeral pile of the king to the banks
 of Sarayu River where the body was cremated. Bharata along with others return to the city after the
 completion of the cremation-ceremony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ of Kaikeyi; *evam* = who was thus; *shokatamtaptam* = tormented with grief.
 
 The sage Vasishta, the excellent one among the speakers having eloquence, spoke to
 that Bharata, Kaikeyi's son who was thus tormented with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ your sorrow; *kuru* = perform; *uttamam* = in an excellent; *samyaanam* = way;
 
 "O, the greatly illustrious prince! My blessing to you. You have lamented long
 enough. Perform in an excellent way, the last rites of the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ obsequies.
 
 Hearing the words of Vasishta, Bharata conversant with his duty fell prostate and
 proceeded with all the arrangements for the obsequies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -242,8 +234,6 @@ Raising the body of king Dasaratha, from the vessel where it had been immersed i
 oil, seeming as it were asleep with face in the color of gold, that son Bharata placed it in a
 magnificent couch, adorned with every kind of precious stone and in a great grief, lamented.(as
 follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -292,8 +282,6 @@ Lakshmana; *mahaabalam* = possessed of great strength?
 "O, king! Having sent into exile the virtuous Rama and Lakshmana who is possessed of
 great strength, while I was away from home and had not yet returned, what did you intend to
 do?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ leaving; *imam janam* = this person; *duHkhitam* = who is distressed; *hiinam*
 
 "Where will you go, leaving this person (me) who was distressed and bereft of Rama
 the unwearied one in action and the excellent one among men?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -390,8 +376,6 @@ while you; *prayaate* = have gone;svaH = to heaven; *raamecha* = and Rama;
 "O, king! O, father! Who is supposed to see the welfare and security of your city of
 Ayodhya, while you have departed for heaven and while Rama has gone, taking refuge in a
 forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -439,8 +423,6 @@ out a moon.
 
 "O, king! Bereft of you and deprived of its lord, this earth does not look charming.
 To me, this city is looking like a night without a moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -487,8 +469,6 @@ bharatam* = to that bharata; *diinamaanasam* = who was distressed in mind; *evam
 
 The great sage Vasishta again spoke the following words to that Bharata who was
 distressed in mind and thus lamenting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -538,8 +518,6 @@ those; *pretakaaryaaNi* = funeral rites; *asya vishaampate* = to this king;
 
 "O, mighty armed Bharata! Without hesitation or repining, carry out the funeral
 rites of the king that should be done."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -586,8 +564,6 @@ purohitaachaaryaan* = the appointed priests; knowing the rules of the funeral ri
 
 "Be it so" answered Bharata and obedient to Vasishta's command, he summoned speedily
 the appointed priests who were knowing the rules of the funeral rites."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ the appointed priests; *yaajakaashchaiva* = and sacrificial attendants; *yathaav
 
 The fires of that king were prepared outside the chamber and kindled in accordance
 with the rituals by the priests and the sacrificial attendants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -687,8 +661,6 @@ it(away).
 
 The attendants were choked with tears in their throats and disconsolate in their
 mind, made the dead king to mount on a small palanquin and carried it away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -735,8 +707,6 @@ in front; *nR^ipate* = of the king.
 
 The people went along the path, scattering silver, gold and various kinds of clothes
 in front of the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -800,8 +770,6 @@ In the same manner, some others brought sandal wood, sweet aloes, different frag
 essences, with leaps of Sarala Padmaka and Devadaru woods and many other kinds of fragrant
 substances, went there and threw them into the funeral pile. Thereafter the appointed priests
 caused the king's body to lie down there in the midst of the funeral pyre.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -854,8 +822,6 @@ shaastram* = according to the rules.
 Then, those priests engaged for the benefit of the king poured oblations into the
 fire and recited sacred texts (relevant to the funeral rites). Those among the priests, who could
 recite the hymns of Samaveda, chanted them according to the rules.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -909,8 +875,6 @@ place.
 
 Then, his ladies, encircled by elders mounted palanquins or other vehicles, as
 deserving and departed from the city to that place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -928,8 +892,6 @@ on a funeral pile.
 Then, the appointed priests as well as Kausalya and other women who were tormented
 with grief, circumambulated in anti clockwise direction that king who was lying on a funeral
 pile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -976,8 +938,6 @@ heard; *krouN^chiinamiva* = like the sounds of female curlew birds.
 
 At that time the crying sounds of thousands of women, pitiably weeping with agony,
 were heard like the sounds of female curlew birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -1025,8 +985,6 @@ River.
 
 Thereafter, the lamenting ladies deprived of their grit wept again and again and
 descended from their vehicles at the bank of Sarayu River.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 </details>
 
@@ -1082,8 +1040,6 @@ ten days; *bhuumou* = sleeping on the floor.
 Along with Bharata, the royal women, the ministers and family priests offered their
 oblations with water and entered the city with their eyes filled in tears and spent ten days with
 great difficulty by sleeping on bare floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

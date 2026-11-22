@@ -16,8 +16,6 @@ title_english = "022 Khara s army marches to Rama"
 Khara, the brother of Shuurpanakha starts out to wage war with Rama with fourteen thousand demons and
 with their unusual arsenal. This is the first major move of demons towards Rama that leads to the ultimate
 battle at the end of epic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ one; *khara taram vacaH* = hurtful, highly, words; *uvaaca* = spoke.
 
 Thus when Shuurpanakha disparaged that valiant Khara amidst demons he is infuriated and spoke these
 highly hurtful words. [3-22-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ highly hurtful words. [3-22-1]
 
 "This fury of mine originating from the disgrace brought on you is like the highly bitter salt water
 that is impossible to contain when ingested. [3-22-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ vi mokSyati* = now, lives, is going to give up.
 
 "I do not care the valour of that Rama for he is a human with dwindled lifetime, now going to give up
 his life slain by his own misdoings. [3-22-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ along with; *nayaami yama saadanam* = send, to Terminator's, abode.
 
 "Control your tears and cast off your despair too, for I will send Rama to the abode of the Terminator
 along with his brother. [3-22-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -259,8 +249,6 @@ lives - short-lived Rama; *raamasya raktam uSNam rudhiram* = Rama's, red, hot, b
 
 "Now, you demoness, you will swill that Rama's red hot blood when that short-lived one is hewed down
 to earth with an axe." So Khara assured Shuurpanakha. [3-22-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -308,8 +296,6 @@ to earth with an axe." So Khara assured Shuurpanakha. [3-22-5]
 
 On hearing the words plunged from the mouth of Khara she is very much gladdened and in all her stupidity
 she further praised her brother highly saying, "you are the best among all the demons..." [3-22-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -355,8 +341,6 @@ senaa patim* = Duushana, named, to army, commander; *abraviit* = said - ordered.
 
 Though she denounced him earlier she alone praised him now for which Khara is overjoyed, and then he
 ordered his army commander, namely Duushana. [3-22-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -420,8 +404,6 @@ the pamperers of genocide, as such, cause them for a belligerency, all at once. 
 The very sight of these black cloud like demons will be murderous to humans, as Rama exclaimed about
 Tataka. If the on looking humans are not dead at first sight of these demons, then these demons can
 pamper in killing humans
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -437,8 +419,6 @@ such of those; *rakSasaam* = demons; *catur dasha sahasraaNi* = four, ten, thous
 
 "Those who are the followers of my will, whose hustle will be frightful and who will be unretreating
 in combats, such of those demons are there in fourteen thousand numbers, aren't they. [3-22-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -485,8 +465,6 @@ before me, be positioned.
 
 "For me, oh, gentle one, promptly position my chariot before me along with bows and arrows, amazing
 swords and diverse sharp power bolts. [3-22-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -544,8 +522,6 @@ For this Maheshvara Tiirtha says: *raamasya
 agre paulastyaanaam raakShasaanaam vadhaartham niryaatum icchaami* which gives meaning:
 "Before Rama I wish to present all the demonic clansmen of Sage Paulastya, for the purpose of elimination,
 for which I am starting ahead as a starter of this elimination process..."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -592,8 +568,6 @@ shabalaiH* = variegated in colours; *sat ashvaiH yuktam* = very good, horses, al
 
 While Khara is saying thus Duushana heralded saying, "Here comes the great chariot with sun's dazzle,
 yoked with very good horses of variegated colours." [3-22-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -671,8 +645,6 @@ in gold, wheels golden, gem-studded yoke-to-carriage shaft, all around encompass
 like fishes, flowers, trees, mountains, sun, moon, and auspicious birds flocks and stars, and even decorated
 with jingle-bells, endowed with flags, swords, and best horses, and such as it is, Khara embarked on
 it with all his rancour. [3-22-13, 14, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -723,8 +695,6 @@ iti* = proceed, thus as; *abraviit* = said - charged.
 
 On overseeing that great army with chariots, skins shields, weaponry and flags, and even at Duushana
 too, Khara charged all those demons saying "proceed." [3-22-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -771,8 +741,6 @@ issued forth.
 
 Then that demonic force with their ghoulish skin shields, weaponry and flags, issued forth from Janasthaana,
 blaring blatantly and foraying dashingly. [3-22-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -848,8 +816,6 @@ fiendish demons that are the followers of Khara's whim, has started from Janasth
 
 Earlier batch which was sent against Rama consisted fourteen demons and now it is an army of fourteen
 thousand demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -896,8 +862,6 @@ proceeded.
 
 On seeing the outrush of those demons of diabolic appearance, then Khara's chariot also proceeded a
 little later at their behind. [3-22-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -944,8 +908,6 @@ horses - speedily charioted.
 
 Then the charioteer set spurs on those colourful horses that are adorned in polished gold according
 to the notions of Khara. [3-22-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -992,8 +954,6 @@ noise, started to swell.
 
 When the chariot of enemy destroyer Khara is driven that impetuously, it has started to swell earth's
 four cardinal quarters and inter-quarters with turbulence. [3-22-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 </details>
 
@@ -1054,8 +1014,6 @@ at; *acuucudat [a cuu cudat]* = hurried up.
 He whose voice is thunderous and whose rancour escalated speedily, and who is hastening forward like
 the Terminator intending to destroy his enemy, that Khara repeatedly hurried the charioteer shouting
 at him loudly like a overwhelming cloud that is going to storm stones. [3-22-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga22/aranyasans22.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

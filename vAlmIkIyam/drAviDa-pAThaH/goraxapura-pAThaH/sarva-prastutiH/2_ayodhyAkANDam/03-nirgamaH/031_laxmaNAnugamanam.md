@@ -85,8 +85,6 @@ Lakshmana who came there earlier, heard the conversation of Seetha and Rama, hav
 his eyes glut with tears, being unable to bear the anguish, tightly pressed the feet of his bother
 and spoke (as floows) to Rama who was performing a great vow and to Seetha who enjoyed great
 honour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -133,8 +131,6 @@ go; *vanam* = to forest; *mR^igagajaayutam* = filled with antelopes and elephant
 
 "If you decided to go to the forest filled with antelopes and elephants, I, in front
 wearingthe bow, shall accompany you to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -183,8 +179,6 @@ wearingthe bow, shall accompany you to the forest."
 
 "Together with me, you will travel in the various forests, resonant with sounds of
 birds and herds of wild animals."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -228,8 +222,6 @@ even sovereignity; *lokaanaam* = over the globes.
 
 "Without you, I do not want ascendency to heaven now do I desire immortality now do
 I wish for sovereignity over the globes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -277,8 +269,6 @@ spoke.
 
 Lakshmana who was speaking in favour of coming to the forst, was forbidden by Rama
 through many of his pacifying words. After hearing them, Lakshmana again soke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -325,8 +315,6 @@ permitted; *bhavataa* = by you; *puurvameva* = even earlier; *idaaniim* = now;
 
 "I was indeed permitted by you earlier. How is it that you are prohibiting me
 now?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -368,8 +356,6 @@ indeed doubt; *me* = in me.
 
 "Oh, the faultless man! I desire to know the reason for prohibiting me, who is
 indeed willing to come to the forest, because there is doubt in my mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -417,8 +403,6 @@ before; *viiram* = the valiant man; *yaachamaanam* = soliciting;
 
 Thereafter Rama of great splendour spoke to Lakshmana the valiant man who was
 standing in front, intending to preceede Sri Rama and soliciting with joined palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -468,8 +452,6 @@ path; *priyaH* = the beloved one; *praaNa samaH* = as dear as life; *vashyaH*
 
 "You are so friendly, interested in righteousness, valiant, abiding always in a good
 path, dear to me as life, obedient, my brother and a companion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -517,8 +499,6 @@ illustrious.
 
 "Oh Lakshmana! If you proceed to the forest along with me now, who will support
 Kausalya or the illustrious Sumitra?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -565,8 +545,6 @@ of great splendour; *abhivarshhati* = used to shower; *kaamaiH* = objects of des
 
 "That emperor of great splendour, who used to shower blessings on the people as a
 cloud sends down rain on the earth, stands circumscribed by cord of love."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -613,8 +591,6 @@ treatment; *sapatniinaam* = to step-wives; *duHkhitaanaam* = who are at grief.
 
 "That Kaikeyi daughter of king Aswapathi, after obtaining this kingdom, will
 certainly not accord good treatment to her step-wives, who are at grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -661,8 +637,6 @@ to Kaikeyi; *na smarishhyati* = will not think; *kausalyaam* = of Kausalya;
 
 "Bharata on acquiring the kingdom will be devoted to Kaikeyi and will not think of
 sorrowful Kausalya or Sumitra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -710,8 +684,6 @@ the venerable lady; *chara* = do; *imam* = this; *artham* = thing;
 
 "Oh, Lakshmana! You stay here and support the venerable Kausalya through your own
 self or by obtaining favour through the king. Do this thing, as said."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -763,8 +735,6 @@ unequalled; *dharmashcha* = religious merit(will accrue).
 "Oh, Lakshmana the knower of righteousness! Thus, your devotion towards me will have
 been fully demonstrated by you. By honouring the elders, a great unqualled religious merit will
 accrue to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -811,8 +781,6 @@ mother; *viprahiinaayaaH* = who is left behind; *naH* = bye us.
 
 "Oh, Lakshmana, the exhilarator of Raghu dynasty! Do this for my sake. There will be
 no happiness to our mother, if she is left behind by us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -860,8 +828,6 @@ skilled in speech.
 
 Lakshmana who is intelligent in speech, after hearing Rama's words, replied in a
 gentle voice to him who is skilled in speech.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -912,8 +878,6 @@ in this matter.
 
 "Oh, Rama the valiant! Bharata being inspired by your splendour of morality will
 respect Kausalya and Sumitra. There is no doubt in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -965,8 +929,6 @@ my type.
 
 "Kausalya obtained (by grant) thousand villages , which are dependent on her. Hence,
 that venerable Kausalya can maintain even thousand people like me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -987,8 +949,6 @@ herself; *tathaivacha* = but also; *mama maatuH* = my mother; *bharaNaayacha*
 
 "The illustrious Kausalya is competent not only to maintain herself but also my
 mother and people like me in addition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1005,8 +965,6 @@ accomplishing my object; *tava* = your; *arthattcha* = purpose also;
 
 "Make me your attendant. In this, there is no unrighteousness. Besides, I will be
 accomplishing my object. Your purpose also will be fulfilled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1056,8 +1014,6 @@ path; *agrataH* = in front; *te* = of you.
 
 "Taking my bow and arrows and carrying a spade and a basket, I will walk in front of
 you showing the path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1107,8 +1063,6 @@ food stuffs; *vanyaani* = available in the forest; *tapasvinaam* = for sages.
 
 "I will procure for you for all time the tubers, fruits and other things which are
 good food stuffs available in the forest for sages."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1155,8 +1109,6 @@ with Seetha; *ramsyate* = enjoy yourself; *girisaamushhu* = on mountain = ridges
 
 "You along with Seetha enjoy yourself on mountain-ridges. I shall do everything
 while you are waking or sleeping."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1206,8 +1158,6 @@ take leave; *sarvameva* = of all; *suhR^ijjanam* = your friends.
 
 Rama, very much delighted of hearing these words, said to him: "Oh, Lakshmana! Go,
 take leave of all your friends."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1324,8 +1274,6 @@ of water) personally gave heavently bows which are dreadful to look at, divine i
 of armour, quivers containing an inexhanstible stock of arms, two swords decked with gold and with
 spotless lustre like that of a sun - all these were kept at the residence of our receptor Vasista,
 after paying due reverence. Take all those arms and return soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1348,8 +1296,6 @@ excellent; *aayudham* = arms.
 Lakshmana, who was assured of his sojourn in the forest, after bidding good bye ot
 his friends, approached Vasista the preceptor of Ikshvaku dynasty and took the excellent
 armoury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1365,8 +1311,6 @@ were worshipped maalya bhuushhitam = and decorated by garlands.
 
 Lakshmana, a tiger among princes, showed to Rama all those arms, which were divine,
 being worshipped and decorated by garlands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1414,8 +1358,6 @@ the excellent man! tvam = you; *aagataH* = came; *kaale* = in time;
 
 Rama, who had fully controlled his mind, affectionately spoke as follows to
 Lakshmana who arrived: "Oh, Lakshmana, the excellent man! You came in time as desired by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1463,8 +1405,6 @@ ansterities.
 
 "Lakshmana, the chastiser of foes! along with you, I want to give all this wealth
 pertaining to me to brahmanas, practising ansterities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1511,8 +1451,6 @@ brahmanas; *vasanti* = residing; *iha* = here; *dR^idham* = as strong;
 
 "I also desire to give to those excellent brahmanas residing here as strong devotees
 to their proceptors and to all my dependents."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 
@@ -1562,8 +1500,6 @@ samastaan dvijaatiin* = all other brahmanas; *shishhTaan* = who are cultured;
 
 "You bring boon the venerable Suyagna, the son of Vasista, the best. After adoring
 all other brahmanas also who are cultured, I will go to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
 </details>
 

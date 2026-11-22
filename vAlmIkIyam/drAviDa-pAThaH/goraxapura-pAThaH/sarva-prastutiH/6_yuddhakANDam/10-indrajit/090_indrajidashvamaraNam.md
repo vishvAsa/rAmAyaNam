@@ -23,8 +23,6 @@ strikes Vibhishana with arrows, Vibhishana kills Indrajit's horses. Fitting a mi
 by Indra the lord of celestials, Lakshmana addressed a prayer on Rama and discharged it towards
 Indrajit. Indrajit's head gets chopped off and falls to the ground. Witnessing Indrajit's death,
 all the monkey-chiefs, Vibhishana, Hanuma and Jambavan applaud Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ all the monkey-chiefs, Vibhishana, Hanuma and Jambavan applaud Lakshmana.
 
 Indrajit, the demon, who was endowed with extraordinary energy, standing on the
 ground his horses having been killed; was very much enraged and blazed with spirit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ elephants; *abhiniShkraantau* = going out; *vane* = in the forest; *vijayena*
 Those two warriors, holding their bows, having an extreme intent to kill each other
 with their arrows, were like two excellent elephants going out in the forest for the purpose of
 conquering one over the other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -156,8 +150,6 @@ destroying; *anyonyam* = each other; *na jahuH* = did not desert; *bhartaaram*
 
 Those demons and monkeys, rushing from all sides, destroying each other, did not
 desert their masters in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -204,8 +196,6 @@ spoke; *idam vacham* = the following words:
 
 Applauding and causing rejoice to all the demons and even feeling delighted himself,
 Indrajit then spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -248,8 +238,6 @@ enemy.
 "These quarters are wrapped on all sides with abundant darkness. O foremost of
 demons! It can not be identified at this time whether one belongs to one's own army or an
 enemy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -299,8 +287,6 @@ to the battle; *aasthaaya* = after ascending; *ratham* = a chariot.
 
 "You courageously fight, so as to stupefy the monkeys. I, on my part, will return to
 the battle-field, ascending another chariot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -316,8 +302,6 @@ such a way; *yathaa* = that; *ime* = these; *duraatmanaH* = evil-minded;
 
 "You act in such a way so that these evil-minded monkeys do not carry on their fight
 (with me) while enter the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -358,8 +342,6 @@ City of Lanka; *ratha hetoH* = for the sake of another chariot.
 
 Thus speaking, Indrajit the annihilator of enemies, having deceived the monkeys,
 entered the City of Lanka for the sake of getting anther chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -410,8 +392,6 @@ Arranging for embellishment of a chariot, which was beautiful, decked with gold,
 furnished with darts, swords and arrows, yoked with excellent horses, directed by a charioteer who
 could understand those horses properly and could give credible instructions to them, that Indrajit,
 a conqueror in battle, who was endowed with extraordinary energy, then ascended it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -458,8 +438,6 @@ forth; *nagaraat* = from the city.
 
 That valiant Indrajit, surrounded by troops of principal demons and incited by the
 force of destiny, sallied forth from the city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -506,8 +484,6 @@ force of destiny, sallied forth from the city.
 
 Moving out form the City with his swift horses, that indrajit, the destroyer of
 valiant enemies, attacked Lakshmana and Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -558,8 +534,6 @@ laaghavaat* = with alacrity; *tasya dhiimataH* = of the intelligent Indrajit.
 
 Seeing Idnrajit seated in the chariot, Lakshmana, the mighty monkeys and Vibhishana
 the demon then were very much surprised on recalling the alacrity of the intelligent Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -606,8 +580,6 @@ also; *paatayaamaasa shatashaH* = struck down hundreds; *atha* = and;
 
 The enraged Indrajit also struck down hundreds and thousands of monkey-chiefs by
 using a multitude of arrows in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -648,8 +620,6 @@ kR^iddhaH raavaNiH* = that enraged Indrajit; *samitimjayaH* = the conqueror in b
 
 Stretching his bow to a circle, that enraged Indrajit the conqueror in battle,
 exhibiting supreme agility, began to kill the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -696,8 +666,6 @@ iva* = as people; *prajaapatim* = would seek refuge in Brahma the lord of creati
 
 Thus being killed by steel arrows, those monkeys of terrible prowess sought refuge
 in Lakshmana, as people would take refuge in Brahma the Lord of Creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -738,8 +706,6 @@ his bow.
 
 Then, blazing with hostile anger, Lakshmana, showing his agility of hand, tore
 Indrajit's bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -786,8 +752,6 @@ tadapi* = that bow also of indrajit; *tribhiH baaNaiH* = with three arrows.
 
 Hurriedly, he took another bow and made it ready. Lakshmana tore that bow too of
 Indrajit with three arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -835,8 +799,6 @@ serpentine poison.
 
 Thereupon, Lakshmana struck that Indrajit, whose bow was torn, on his chest with
 five arrows which were deadly like a serpentine poison.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -883,8 +845,6 @@ huge red serpents.
 
 Those arrows, released from that great bow, penetrating through Indrajit's body,
 fell to the ground like huge red serpents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -926,8 +886,6 @@ stronger (than the earlier bow).
 
 Ejecting blood from his month, that Indrajit, who had his bow torn, took hold of his
 excellent bow with the bow-string firmly fastened and which was stronger than the earlier bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -969,8 +927,6 @@ streaming forth the rain.
 
 Employing utmost agility, Indrajit, aiming at Lakshmana, streamed forth a shower of
 arrows, as Indra the lord of celestials streaming forth the rain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1017,8 +973,6 @@ to be resisted; *muktam* = released; *indrajitaa* = by Indrajit.
 
 Lakshmana the annihilator of enemies coolly warded off the shower of arrows released
 by Indrajit, though it was most difficult to resist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1059,8 +1013,6 @@ that; *abhuut* = was; *adbhutamiva* = marvelous indeed.
 
 Lakshmana with great splendor, remaining unperplexed, then showed his prowess to
 Indrajit, which was marvelous indeed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1131,8 +1083,6 @@ Indrajit; *baanaughaiH* = with an array of arrows.
 Getting extremely enraged, Lakshmana then pierced all those demons who stood in the
 battle-field with three arrows each, showing his speed in discharging missiles and also struck
 Indrajit with an array of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1175,8 +1125,6 @@ sharaan* = several arrows; *lakShmanaaya* = for Lakshmana.
 
 That Indrajit, who was struck by the enemy, who was mighty destroyer of enemies,
 released several arrows unhindered towards Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1233,8 +1181,6 @@ Lakshmana, the destroyer of valiant adversaries, tore those arrows yet unarrived
 with sharp arrows. The virtuous Lakshmana eliminated the head of the charioteer of Indrajit, the
 chariot-warrior, in the battle with an arrow called Bhalla which was looking curved at its
 nodes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1282,8 +1228,6 @@ wonderful indeed.
 
 Those horses, bereft of a charioteer there, without getting perturbed, ran up in a
 circular fashion and continued to draw the chariot. The scene looked wonderful indeed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1333,8 +1277,6 @@ pierced (them); *sharaiH* = with arrows.
 
 Getting the power of anger, Lakshmana of unyielding prowess, pierced the horses of
 Indrajit with arrows, so as to frighten them thereby.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1375,8 +1317,6 @@ act; (of Lakshmana); *raNe* = in battle; *raavaNasya sutaH* = Indrajit;
 
 Getting impatient with that act of Lakshmana in battle, Indrajit struck that enraged
 Lakshmana with ten arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1425,8 +1365,6 @@ prabham* = with a golden hue; *vilayam jagmuH* = obtained destruction.
 
 Those arrows of Indrajit, equal to thunderbolts and deadly as serpentine poison,
 having reached Lakshmana's armour with a golden hue, got destroyed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 </details>
@@ -1474,8 +1412,6 @@ and showing; *shiighram* = his swiftness; *astram* = in discharging missiles;
 Understanding Lakshmana to have been protected by an impenetrable armour and showing
 his swiftness in discharging missiles, Indrajit the son of Ravana, who felt very much angered,
 pierced Lakshmana in the forehead with three arrows provided with good plumes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1491,8 +1427,6 @@ delight in battle; *shushubhe* = shone; *parvataH iva* = like a mountain;
 
 With those three arrows planted in his forehead, Lakshmana who was fond of fighting,
 shone like a mountain with its three peaks, in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1543,8 +1477,6 @@ kuN^Dale* = having beautiful ear-rings.
 Thus tormented in battle by Indrajit the demon, that Lakshmana then quickly
 stretching the bow, pierced him in return with five arrows, in battle, in Indrajit's face holding
 beautiful ear-rings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1592,8 +1524,6 @@ arrows.
 
 Lakshmana Indrajit, the heroes endowed with extraordinary might and armed with very
 strong bows and possessing terrible prowess, struck each other with distinctly pointed arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1640,8 +1570,6 @@ kimshukau iva* = like Kimshuka trees in blossom.
 
 Those two warriors, Lakshmana and Indrajit, with both their bodies stained in blood,
 shone in the battle-field at that time, like Kimshuka trees in blossom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1682,8 +1610,6 @@ all the others limbs; *ghoraiH baaNaiH* = with dreadful arrows.
 
 Those two archers, with their minds directed towards victory, met each other and
 pierced their opponent in all limbs with dreadful arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1733,8 +1659,6 @@ baaNaiH* = with three arrows.
 
 Then, Indrajit, filled with martial anger, struck Vibhishana in his auspicious face,
 with three arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1781,8 +1705,6 @@ with three arrows.
 
 Having struck Vibhishana, the leader of demons, with three arrows, Indrajit struck
 all those monkey chiefs with a single arrow each.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1829,8 +1751,6 @@ evil-minded Indrajit; *gadayaa* = with his mace.
 
 Very much enraged with him, that Vibhishana of great splendor killed the horses of
 that evil-minded Indrajit with his mace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1879,8 +1799,6 @@ mahaatejaaH* = that Indrajit of a great splendor; *samaaplntya* = just dumped do
 Just leaping down from the chariot whose charioteer was destroyed earlier and whose
 horses were killed, that Indrajit of great splendor employed his javelin towards his maternal
 uncle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1921,8 +1839,6 @@ uncle.
 
 Seeing that Javelin rushing towards Vibhishana, Lakshmana tore it into ten pieces
 with his sharp arrows and felled it on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -1973,8 +1889,6 @@ thunder-bolt; *urasi* = into the bossom; *tasmai* = of Indrajit;
 
 The strong bodied Vibhishana, in anger, dug five arrows, whose impact was a hard as
 that of a thunder-bolt, into the bosom of Indrajit, whose horses were already killed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2022,8 +1936,6 @@ serpents.
 
 Having penetrated his body, those arrows which were provided with golden feathers,
 went straight into their target, got stained with blood and appeared like red large serpents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2065,8 +1977,6 @@ Death.
 
 Enraged with his paternal uncle, that Indrajit, standing in the midst of demons,
 took hold of an excellent arrow earlier presented by Yama the lord of Death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2113,8 +2023,6 @@ also; *mahaatejaa* = of great splendor; *bhiima paraakramaH* = and terrible prow
 
 Seeing that great arrow seized by him, Lakshmana also, of great splendor and
 terrible prowess, took hold of another arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2158,8 +2066,6 @@ celestials.
 That arrow had been presented to him, in the course of a dream, by Kubera the god of
 riches, of immense glory himself, which was difficult to be conquered and much more difficult to be
 tolerated even for gods and demons including Indra the lord of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2207,8 +2113,6 @@ curlew-cranes.
 
 Stretched with strength by their arms, which resembled a pair of steel rods, emitted
 a piercing sound like that of a pair of curlew-cranes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2255,8 +2159,6 @@ a piercing sound like that of a pair of curlew-cranes.
 
 The excellent arrows fitted and pulled out from their excellent bow by those heroes,
 blazed very much with splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2300,8 +2202,6 @@ sollided with each other; *ojasaa* = powerfully.
 
 Those arrows, released from the bow, making the sky shine and hitting each other
 face to face, collided each other powerfully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2343,8 +2243,6 @@ fierce.
 
 The collision of those arrows of terrible form broke out a fierce fire comprising of
 smoke and sparkles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2391,8 +2289,6 @@ pieces; *petatuH* = and fell; *medinyaam* = on the ground.
 
 Hitting each other like two major planets, those two arrows in battle burst into a
 hundred pieces and fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2440,8 +2336,6 @@ provoked.
 
 On seeing their arrows warded off in the battle-front, those two warriors, Lakshmana
 and Indrajit then felt abashed and got provoked.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2492,8 +2386,6 @@ Varuna (the god of water); *yuddhaviShThitaH* = being active in the performance 
 Getting excited, Lakshmana took hold of a missile presided over by Varuna (the god
 of water). Skilled in warfare, the great Indrajit too discharged a missile presided over by Rudra
 (the god of destruction) in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2572,8 +2464,6 @@ and the conqueror of battle; *lokam samkShipanniva* = like the destroyer of the 
 By that Rudra missile, that very wonderful Varuna-missile was struck. Then, that
 enraged Indrajit of great splendour and the conqueror of battle, looking like the destroyer of the
 world, employed a missile presided over by Agni the god of fire which was blazing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2619,8 +2509,6 @@ baaNam* = arrow used by demons; *shatrudaaraNam* = and capable of tearing an ene
 The valiant Lakshmana obstructed Agni-missile, by a missile presided over by the
 sun-god. Finding his missile repelled, Indrajit was filled with anger and took hold of a sharp
 arrow used by demons and capable of tearing down an enemy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2636,8 +2524,6 @@ arrow used by demons and capable of tearing down an enemy.
 
 From that bow, blazing weapon similar to a hammer duly hidden, darts, fire arms,
 maces, swords and axes rushed forth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2706,8 +2592,6 @@ the brilliant Lakshmana; *pratyavaarayat* = obstructed; *tat* = that; *astram*
 Seeing that terrible missile, which was very harsh, unrestrainable for all beings
 and which can tear all weapons in battle, the brilliant Lakshmana obstructed that missile by using
 Maheswara-missile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2748,8 +2632,6 @@ hair to stand erect; *bhuutaani* = the beings; *gaganasthaani* = in the sky;
 
 There was a wonderful battle between both of them, causing hair to stand erect. The
 beings in the sky surrounded Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2797,8 +2679,6 @@ sparkled.
 
 Surrounded by many surprised beings in that terrible battle taking place between
 monkeys and demons, yielding terrific noise, the sky sparkled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2866,8 +2746,6 @@ battle-field.
 Placing Indra the lord of celestials as their head, the sages, manes, gods,
 Gandharvas the celestial musicians, eagles and serpents protected Lakshmana in the
 battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2883,8 +2761,6 @@ daaraNam* = and which can tear down Indrajit.
 
 Then, Lakshmana fitted another excellent arrow, which had a sensation of ignition
 and which can tear down Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2911,8 +2787,6 @@ The heroic Lakshmana fitted the arrow, having beautiful plumes, which consisted 
 rounded parts, well-jointed, skillfully fashioned, decked with gold, capable of destroying the body
 of the enemies, not difficult to keep off but difficult even to tolerate, a source of terror to the
 demons as deadly as the venom of poisonous snakes and duly honoured by the host of gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2930,8 +2804,6 @@ yuddhe* = in a combat which raged between celestials and demons.
 With the help of that arrow, the highly powerful and valiant Indra, the lord of
 celestials, who had green horses to his chariot, was able to conquer the demons in a combat which
 raged between celestials and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -2984,8 +2856,6 @@ to achieve his purpose:
 Fitting a missile presided over by Indra the lord of celestials, which had never
 been defeated in battle, to his excellent bow and drawing it, the glorious Lakshmana addressed the
 following prayer, which was intended to achieve his purpose:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3033,8 +2903,6 @@ second to none; *pauruSham* = in prowess; *jahi* = kill; *enam* = this;
 
 "O my dear arrow! If Rama the son of Dasaratha has set his mind on virtue, keeps up
 his promise and is second to none in his prowess, destroy this Indrajit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3078,8 +2946,6 @@ went straight; *viiraH* = the heroic; *lakShmaNaH* = Lakshmana; *tam sasarja*
 
 Thus saying and drawing up to the ear the arrow, which went straight, the heroic
 Lakshmana released it towards Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3152,8 +3018,6 @@ and a head-protector; *kaayaat* = from his trunk; *paatayaamaasa* = felled (it);
 75. tat mahat shiraH= that large head; raakShasatanuujasya= of Indrajit; bhinna
 skandham= separated from his trunk; rudhirokShitam= and moistened with blood; dadR^ishe= appeared;
 bhuumau= on the ground; tapaniiya nibham= shining like gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3200,8 +3064,6 @@ moistened with blood; *dadR^ishe* = appeared; *bhuumau* = on the ground;
 
 That large head of Indrajit, separated from his trunk and moistened with blood, was
 seen on the ground, shining like gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3248,8 +3110,6 @@ ground; *kavachii* = sashirastraaNaH = along with his armour and head-protector;
 
 Having been killed, that Indrajit then forthwith fell to the ground, along with his
 armour and head-protector, with his bow shattered.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3299,8 +3159,6 @@ as the celestials (roared in rejoice) vR^itravadhe = when Vritra the demon was k
 
 As Indrajit was killed, all those monkeys together with Vibhishana roared in
 rejoice, as the celestials did, when Vritra the demon was killed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3347,8 +3205,6 @@ Gandharavas the celestial musicians and Apsarasas the celestial nymphs.
 
 Then, a shout of victory rose in the sky from the mouth of gods, great-souled sages,
 Gandharvas the celestial musicians and the celestial nymphs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3392,8 +3248,6 @@ victory; *bheje* = sought; *dishaH* = the quarters.
 
 Seeing him fallen, that great army of demons, being struck by monkeys shining with
 victory, sought the quarters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3440,8 +3294,6 @@ went; *laN^kaam abhimukhaaH* = towards Lanka.
 
 Abandoning their weapons, while being struck by the monkeys, those demons went
 towards Lanka, running fast stupefied.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3488,8 +3340,6 @@ their weapons; *paTTishaasi parashvadhaan* = sharp-edged spears; swords and axes
 
 All those frightened demons, abandoning their weapons sharp-edged spears, swords and
 axes ran away in hundreds to various directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3533,8 +3383,6 @@ Lanka; *kechit* = some; *patitaaH* = fell; *samudre* = into the ocean;
 
 Tormented by the monkeys, some were scared and entered Lanka. Some fell into the
 ocean. Some took refuge in the mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3581,8 +3429,6 @@ battle-field; *kashchit* = not even one; *sahasreShu* = among the thousands;
 
 Seeing Indrajit killed and lying on the battle-field, not even one among the
 thousands of demons was to be seen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3623,8 +3469,6 @@ left; *dishaH* = to (different) directions.
 
 As the sun-rays do not exist when the sun has sunk below the horizon, so those
 demons left to different directions when Indrajit had fallen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3671,8 +3515,6 @@ iva* = and like the fire; *nirvaaNaH* = which is extinguished.
 
 Thrown asunder and dead, that long-armed Indrajit looked like the sun whose rays
 have cooled down and like the fire which is extinguished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3713,8 +3555,6 @@ pacified; *praharShavaan* = and the one which was rejoiced.
 
 When Indrajit was fallen, the world then had its oppressions pacified, now that its
 enemy had been destroyed and it experience a rejoice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3764,8 +3604,6 @@ Indra the ruler of gods; *sarveH maharShibhiH saha* = along with all the great s
 
 While that demon of sinful deeds is having been killed, the illustrious Indra the
 ruler of gods along with all the great sages were rejoiced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3782,8 +3620,6 @@ gandharvaishcha* = and of the great souled Gandharvas the celestial musicians.
 In the sky too was heard the sound of large drums played by celestials, the melody
 produced by dancing Apsaras the celestial nymphs and the songs of Gandharvas the celestial
 musicians.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3830,8 +3666,6 @@ cruel deeds; *hate* = was killed; *puShpavarShaaNi* = a deluge of flowers;
 
 While that demon of cruel deeds was killed, a deluge of flowers rained along with
 showers of praises. It was a wonderful scene.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3879,8 +3713,6 @@ the scene).
 
 While that Indrajit, who was the terror of all the worlds, had fallen, the waters
 and the sky became clear. The celestials and demons were rejoiced and arrived on the scene.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3931,8 +3763,6 @@ ceased.
 
 The gratified celestials, Gandharvas the celestial musicians and the demons said:
 "Let the Brahmanas move about cheerfully, now that their trouble has ceased."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -3983,8 +3813,6 @@ applauded (Lakshmana).
 
 Seeing that foremost among demons, who was unrivalled in battle, having been killed,
 the rejoiced monkey-chiefs applauded Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -4031,8 +3859,6 @@ his victory; *tuShTuvaH cha api* = and applauded him too.
 
 Vibhishana, Hanuma and Jambavan the chief of bears were pleased at Lakshmana for his
 victor and applauded him too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 </details>
 
@@ -4083,8 +3909,6 @@ achieved their aim; *kShveDantashcha* = roaring; *plavantashcha* = and jumping;
 
 The monkeys, who accomplished their aim, roaring, jumping with joy and emitting
 thundering sounds, stood encircling Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

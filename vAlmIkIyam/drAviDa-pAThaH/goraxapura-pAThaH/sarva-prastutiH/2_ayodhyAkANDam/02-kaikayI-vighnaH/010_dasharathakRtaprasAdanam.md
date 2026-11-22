@@ -15,8 +15,6 @@ title_english = "010 Kaikeyi enters the house of wrath"
 
 In this chapter, Kaikeyi enters the house of wrath. Dasaratha tries to pacify her
 anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ down; *bhumau* = on floor; *kinnariiva* = like a kinnara woman;
 
 Having been thus wrongly preached by that sinful Manthara. Kaikeyi lied down on the
 floor as a Kinnara woman beaten by a poisoned arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ floor as a Kinnara woman beaten by a poisoned arrow.
 
 The skilful Kaikeyi, after deciding in mind what ought to be done told it all slowly
 to Manthara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ way; *aatmasukhaavaham* = which can lead to her happiness.
 Being stupefied by the words of Manthara, that Kaikeyi became dejected, made firm
 resolve, with deep and warm sigh, like a maiden-serpent and thought for that moment about the ways
 which can lead to her happiness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ resolution; *babhuuva* = became; *paramapriitaa* = very much pleased;
 
 Manthara, who is Kaikeyi's companion and who is desirous of getting benefit, heard
 of Kaikeyi's firm resolve and became very much pleased as if she achieved success.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ face.
 
 Kaikeyi, being angry and well determined, lied down on the floor with eye brows,
 knitted in her face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -309,8 +297,6 @@ which were thrown away; *kaikeyyaa* = by Kaikeyi; *prapedire* = reached;
 
 Thereafter, she threw away her colourful chaplets and beautiful ornaments on to the
 floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -353,8 +339,6 @@ floor.
 
 Those chaplets and ornaments which were thrown away by her were making the earth
 shine, as stars to the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ Kaikeyi; *nipatitaa* = lying down; *krodhaare* = in chamber of wrath; *babhau*
 Tying her single braid of hair tightly over her head and wearing soiled clothes,
 that Kaikeyi lying down in the chamber of wrath was looking like a Kinnara woman lying down
 dead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -453,8 +435,6 @@ took permission; *upasthaanam* = from the nearest; *pravivesha* = entered;
 
 King Dasaratha ordered for various arrangements to be made for Rama's coronation,
 took permission to leave from the elders who were present there and entered his palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -505,8 +485,6 @@ be told good news.
 king Dasaratha, who kept all activates under his control entered into the inner
 chambers to tell the good news of Rama's coronation to Kaikeyi who was a worthy woman to be told
 the good news first (thinking that she has not yet heard the news).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -549,8 +527,6 @@ Kaikeyi's house; *nishaakaraH aakaashamiva* = as the moon into sky; *paaNDuraabh
 
 That Dasaratha with vast glory entered Kaikeyi's chambers as moon enters the sky
 with white clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -695,8 +671,6 @@ altars built with ivory, silver and gold. There were trees yielding flowers and 
 seasons and wells in the middle. There were beautiful seats constructed with ivory, silver and
 gold. Various types of food, drinks and snacks were made available. That palace was looking like
 heaven with beautifully adorned women.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -743,8 +717,6 @@ pleasure; *vishhasaada* = was distress; *apashyam* = in not seeing; *dayitaam*
 
 Being possessed of power of lust, that king who came with object of sexual pleasure,
 was distressed in not finding his beloved wife and enquired the people there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -790,8 +762,6 @@ empty; *gR^iham* = house; *kadaachana* = at any time.
 
 In former times, Kaikeyi did not keep away herself at that kind of hour, nor the
 king enter her chambers at any time without her presence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -807,8 +777,6 @@ Kaikeyi; *swaartha lipsum* = who desired to get her selfish ends.
 
 After entering the house, king Dasaratha enquired with the aid-servants there as
 before, without knowing about foolish Kaikeyi who desired to get her selfish ends.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -856,8 +824,6 @@ angry".
 
 Then, a female door-keeper fearfully folding her hands in supplication, said: "Oh,
 king! The queen ran to her chamber of wrath with much anger".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -907,8 +873,6 @@ hearing; *pratiihaaryaaH* = door keeper's; *vachaH* = words.
 
 That Dasaratha having much disturbed mind already for the absence of Kaikeyi there,
 became more dejected after hearing the words of door-keeper.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -949,8 +913,6 @@ improper condition; *praptaH eva* = like burning; *duHkhena* = with grief.
 
 King Dasaratha, after seeing Kaikeyi lying down on floor in the chamber of wrath,
 became tormented with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1027,8 +989,6 @@ That Dasaratha, who was sinless, a youthful woman dearer than his life, lying do
 on the floor with an intent to do sin. At that time, she was looking like a completely uprooted
 creeper, like a fallen angel, like a thrown down Kinnara woman, like an expelled divine dancer
 Apsarasa, like a dropped off illusionism and like a female deer tied up in a net.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1083,8 +1043,6 @@ her; *snehaat* = affectionately.
 
 That Dasaratha touched Kaikeyi affectionately, as a great elephant in a forest
 touches a female elephant which is wounded by poisoned arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1100,8 +1058,6 @@ spoke; *idam* = these words.
 
 That Dasaratha, possessed with infatuation and having fearful mind, touched that
 lotus-eyed woman with his hands and spoke the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1154,8 +1110,6 @@ seshhe* = that you are resting; *paamsushhu* = on dirty floor."
 
 "Oh queen, of auspicious qualities! I do not know that you are angry with me. Who
 has cursed or disrespected you? I am pained to see you resting in this way on a dirty floor."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1204,8 +1158,6 @@ one who is possessed of a devil.
 
 "when I am here to expend all good to you, why are you hurting my mind by lying down
 on the floor like the one who is possessed of a devil."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1247,8 +1199,6 @@ abhishhTutaaH cha* = and who are enlogised on all sides; *karishhyanti* = who ca
 
 "There are so many royal physicians who are skilled and famous on all sides. They
 can make you healthy. Tell me your sickness".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1298,8 +1248,6 @@ ought to be done; *te* = by you? kena vaa = by whom; *vipriyam* = offence;
 
 "To whom do you want a favour to be done? who has offended you? Tell me to whom I
 have to extend a favour now and to whom I have to do a great offensive act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1356,8 +1304,6 @@ be released? kovaa = who; *daridraH* = a poor person; *bhavet* = to become;
 "Oh, Kaikeyi! Do not weep and get your body dried up. If you tell, I shall kill a
 person who is exempt from death or shall release a person who is worthy to be killed. I shall make
 a poor man prosperous or a rich man, destitute".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1406,8 +1352,6 @@ your; *abhipraayam* = intention.
 
 "I and all my people are submissive to you. I do not wish to foil even a little of
 your intention".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1458,8 +1402,6 @@ do; *tava* = your; *riitim* = liking.
 "Tell me that which is desired by your mind to be achieved even at the cost of my
 life. You need not suspect me, as you very well know your authority over me. I keep my oath on my
 righteousness that I shall certainly do whatever is liked by you".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1513,8 +1455,6 @@ My jurisdiction over this earth stretches out as much to the extent as to the ex
 a chariot-wheel revolves. Eastern countries, Sindhu, Sauviira and Saurastra countries, as well as
 countries in the south, Vanga, Anga, Magadha and Matsya countries, Kasi and Kausala countries are
 all full of riches.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1556,8 +1496,6 @@ all full of riches.
 
 In those countries, gold and grain, sheep and goats and all types of goods are
 produced. Oh, Kaikeyi! which of the goods do you want to acquire?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1611,8 +1549,6 @@ tell; *me* = me; *tat* = that; *yataH* = from where; *bhayam* = fear;
 "Oh, fearful one! why are you exerted like this? oh, beautiful lady? Get up get up!
 Oh, Kaikeyi1 Tell me the source of your fear. I shall remove that source as sun sets aside the
 mist."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 </details>
 
@@ -1659,8 +1595,6 @@ unkindly word; *upachakrame* = was begining; *paripiidayitum* = harass;
 
 Consoled by hearing the words of Dasaratha, Kaikeyi intending to tell unkindly words
 like Rama's exile was beginning to harass her husband further, by her words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

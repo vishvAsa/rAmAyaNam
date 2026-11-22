@@ -15,8 +15,6 @@ title_english = "030 Hanuma falls in dilemma"
 
 Hanuma falls in a dilemma whether to console Seetha or to remain silent. Finally Hanuma decides
 to console Seetha, by eulogising Rama's attributes in a sweet voice, so that Seetha can give credence to his words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ _________________
 
 The valiant Hanuma also heard truly all those words of Seetha, Trijata and the threatening words
 of the female demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ ways.
 
 Thereafter, seeing that Seetha as a divine lady in the garden of Nandana, Hanuma echoed his thought
 in various ways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ cha* = and myriads; *kapiinaam* = of monkeys; *saa iyam* = the same Seetha; *aas
 
 "Which Seetha is being searched in all directions by many thousands and myriads of monkeys, the
 same Seetha has been found by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -232,8 +224,6 @@ shakti vyapekSya* = in my view to ascertain the enemy's strength; *idam* = this;
 
 "By me, employed thoughtfully (by my Master) as a secret agent and gone about secretly with a view
 to ascertain the enemy's strength, this has been perceived.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -253,8 +243,6 @@ to ascertain the enemy's strength, this has been perceived.
 
 "The characteristics of demons, this town and the power of the king of demons, Ravana, have been
 perceived by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -305,8 +293,6 @@ of immeasurable might.
 
 "It is proper for me to console the wife of Rama, desirous of seeing her husband who is compassionate
 towards all beings and who is of immeasurable might."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -357,8 +343,6 @@ by grief; *duHkhasya antam* = the end of her affliction.
 
 "I shall console this woman, whose face resembles a full moon, who is having an unforeseen affliction,
 who is tormented by grief and who is not attaining the end to her affliction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -408,8 +392,6 @@ is tormented by grief; *gamanam* = my departure; *bhavet* = becomes; *doSavat* =
 
 "If I return without consoling this Seetha, the wife of Rama, even though her mind is tormented
 by grief, my departure becomes blemished."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -459,8 +441,6 @@ illustrious; *raajaputrii* = princess; *janakii* = Seetha; *tyajet* = may give u
 
 "Not finding a rescue when I return to Kishkindha, the illustrious princess Seetha may give up
 her life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -509,8 +489,6 @@ _________________
 
 "That long-armed Rama having the countenance of a full moon, eagerly longing to see Seetha, is
 fit to be consoled by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -560,8 +538,6 @@ kartvyam khalu nu* = indeed to be done?; *aham* = I; *kR^ichchhragato hi* = am i
 
 "It is not proper to speak with her within the sight of these female-demons. How indeed is this
 to be done? I am indeed perplexed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ raatri sheSeNa* = during the rest of this night; *parityakSyati* = she will fors
 
 "If she is not consoled by me during the rest of this night, she will forsake her life by all means.
 There is no doubt about it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -660,8 +634,6 @@ _________________
 
 "If Rama enquires of me as to what words did Seetha speak about him, what can I say to Rama without
 speaking now to this Seetha, the slender-waisted lady?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -712,8 +684,6 @@ itaH* = from here; *siitaa sandesha rahitam* = without carrying Seetha's message
 
 "To me returning in haste from here without carrying Seetha's message Rama may get irritated and
 burn me up with his pungent eyes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -763,8 +733,6 @@ to do his best; *raamakaaraNaat* = in the cause of Rama; *tasya* = his; *aagaman
 
 "Even if I instigate my master Sugreeva to do his best in the cause of Rama, his arrival here with
 an army will be futile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ baahuLaam* = who is very much in distress.
 
 "Staying here itself and getting hold of an opportunity even in the midst of the female-demons
 (when they are in attentive), I shall slowly console Seetha who is very much in distress."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ _________________
 
 "However, I am very small in stature, particularly as a monkey and can speak now Sanskrit, the
 human language too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -920,8 +884,6 @@ _________________
 
 "If I use Sanskrit language like a brahmin, Seetha will get frightened, thinking me as Ravana.
 Especially, how can a monkey speak it?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -973,8 +935,6 @@ Especially, how can a monkey speak it?"
 
 "Certainly, meaningful words of a human being are to be spoken by me. Otherwise, the virtuous Seetha
 cannot be consoled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1024,8 +984,6 @@ _________________
 
 "Looking at my figure and the language, Seetha who was already frightened previously by the demons,
 will get frightened again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1073,8 +1031,6 @@ ruupiNam* = who can assume any form at will; *kuryaat* = and may make; *shabdam*
 
 "Thereafter, this large-eyed Seetha who is full of mind, thinking me as Ravana who can assume any
 form at will, may shout loudly, engendered by fear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1121,8 +1077,6 @@ form at will, may shout loudly, engendered by fear."
 
 "As soon as Seetha shouts loudly, a troop of female-demons, wielding various kinds of weapons and
 appearing dreadful as Yama the Lord of Death, may assemble here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1172,8 +1126,6 @@ faces; *samparikSipya* = may encircle; *maam* = me; *sarvataH* = from all sides;
 
 "Then those ugly faced female-demons may encircle me from all sides and try to catch and kill me
 with all their might."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1224,8 +1176,6 @@ may become; *bhaya shaNkitaaH* = alarmed with fear.
 
 "Then, seeing me running hither and thither, seizing big branches, twigs and trunks of excellent
 trees, they may get alarmed with fear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1275,8 +1225,6 @@ the grove.
 
 "The ugly faced female-demons will be frightened with fear, after seeing my huge figure wandering
 in the grove."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1322,8 +1270,6 @@ in the grove."
 **अनुवादः**
 
 "Then those female-demons may call the other demons too retained by Ravana in his house."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1373,8 +1319,6 @@ lances and swords.
 
 "Those female-demons with an element of turbulence and rapidity may rush into a battle with various
 kinds of weapons like spears lances and swords."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1424,8 +1368,6 @@ the other shore; *mahodadhe* = of the great ocean; *vidhaman* = while destroying
 
 "Surrounded on all sides by them, I may not be able to reach the other shore of the great ocean,
 while destroying the army of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1475,8 +1417,6 @@ grahaNamcha* = capture too; *bhavet* = may occur.
 
 "Or having jumped up (over me) many demons operating speedily may capture me. Then, Seetha may
 not be able to know the occurrence of my arrival. Even I may get captured too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1524,8 +1464,6 @@ will be ruined.
 
 "Or the violent minded demons may kill this Seetha. Consequently this work of Rama and Sugreeva
 will be ruined."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1574,8 +1512,6 @@ _________________
 
 "Seetha is residing in this secret place, with a concealed access, surrounded by demons and encircled
 by an ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1625,8 +1561,6 @@ _________________
 
 "If I am killed in the battle or got captured by the demons, I do not see any other companion for
 Rama who can fulfill this work (of searching for Seetha)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1673,8 +1607,6 @@ i got killed."
 
 "Even after due reflection, I do not see any monkey who can transgress the ocean with a breadth
 of one hundred Yojanas, in case I am killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1724,8 +1656,6 @@ i got killed."
 
 "I am competent to kill even thousands of demons. I am quite sure. But, after doing such a large
 battle, I may not be capable of reaching the other shore of the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1775,8 +1705,6 @@ battle, I may not be capable of reaching the other shore of the ocean."
 
 'Conflicts are unreal too and to me, there is no desire for uncertainty. which intellectual will
 do an assured act with an apprehension?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1822,8 +1750,6 @@ this; *mahaan* = great; *doSaH* = lapse; *syaat* = will occur.
 **अनुवादः**
 
 "If I do not talk, there will be Seetha's death. If I talk to Seetha, this great lapse will occur."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1875,8 +1801,6 @@ _________________
 "Actions which are going to be accomplished shortly, get spoiled at the hands of a accomplished
 shortly, get spoiled at the hands of a confused messenger, when the actions are set in opposition to time and
 space, even as darkness disappears at sun rise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1924,8 +1848,6 @@ space, even as darkness disappears at sun rise."
 
 "Even if a decision is taken, regarding what is worthy and what is worthless, it does not yield
 good results. Messengers boasting themselves to be learned, thus indeed ruin those actions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -1973,8 +1895,6 @@ occur?; *katham nu* = also how; *lamghanam cha* = my leaping across the sea; *na
 
 "How does not my work get spoiled? How should I avoid my feebleness? Also how does not my leaping
 across the sea become vain?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1995,8 +1915,6 @@ mind (as follows):
 
 "How can Seetha hear my words without fear?" Thinking in this way, the wise Hanuma made up his
 mind (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -2046,8 +1964,6 @@ frighten; *enaam* = her; *tadbandhugatamaanasaam* = whose mind is directed towar
 
 "If I eulogize Rama, who is unwearied in action and a good relation, I shall not frighten her,
 whose mind is directed towards that relation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -2113,8 +2029,6 @@ sarvaani* = I shall make everything intelligible; *iyam* = that Seetha; *yathaa 
 "Offering auspicious and righteous words about Rama the most excellent prince Ikshvaku dynasty
 who possesses a learned soul and myself speaking in a sweet voice, I shall make everything intelligible so that
 Seetha rightly believes everything."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 </details>
 
@@ -2174,8 +2088,6 @@ seeing; *pramadaam* = the wife; *jagatipate* = of Rama; the Lord of the Earth; *
 
 The noble-minded Hanuman, abiding in the midst of the twigs of the trees and seeing Seetha, spoke
 the following words of many kinds which were not futile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

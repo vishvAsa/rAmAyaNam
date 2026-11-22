@@ -15,8 +15,6 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 
 In this chapter Rama further tries to pacify Lakshmana and tells him that his stay in
 forest is the will of gods. He also wants all the celebration for his coronation to be stopped.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ dilated with wrath; *uvaacha* = spoke; *idayam* = these words.
 Afterwards ,the self composed Rama by controlling his thoughts with courage ,approached
 the kind -hearted and affectionate brother Lakshmana who was distressed with agony who was very much
 angry like a hissing king cobra ,with his eyes dilated with wrath and spoke the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -136,8 +132,6 @@ kaaryam* = action; *nirtyayam* = that is faultless."
 " Hold back grief and anger. Forget this insult, by taking refuge in courage alone. Obtain
 great joy! Abandon all these arrangements made today for my coronation and immediately take up action
 that is faultless ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -187,8 +181,6 @@ sambhaara sambhramaH* = zeal for preparations; *astu* = be ; *abhishheka nivR^it
 
 "Oh, Lakshmana! Show the same zeal now in terminating my coronation as the zeal shown
 earlier in preparations for my coronation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -235,8 +227,6 @@ earlier in preparations for my coronation."
 
 "My mother Kaikeyi is still agonized about my coronation. Behave in such a way that no
 apprehension comes to her mind on this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -282,8 +272,6 @@ the form of suspision; *pratisanjaatamapi* = created; *manasi* = in mind ; *tasy
 **अनुवादः**
 
 "Oh, Lakshmana! I do not wish to disregard the painful doubt in her mind even for a moment".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ the form of suspision; *pratisanjaatamapi* = created; *manasi* = in mind ; *tasy
 
 "I do not remember to have done even a small disagreeable thing here at any time to my
 mothers or to my father, either intentionally or unintentionally."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -379,8 +365,6 @@ of; *paralokabhayaat* = the fear of the other world; *nityam* = always; *satyaab
 
 "Let the promise made by my father ,who is truthful, who is truly mighty and who is afraid
 of the fear of the other world, become true .Let him be fearless."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ apasamhR^ite* = if this coronation is not with drawn; *tasya* = his; *tapaaH* = 
 
 "Our father will feel anguished that his word has not come true ,if this coronation is
 not withdrawn. His distress will cause pain to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -478,8 +460,6 @@ _________________
 
 "Oh, Lakshmana for that reason, I wish to go to forest immediately from her, by withdrawing,
 coronation arrangement."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -528,8 +508,6 @@ _________________
 
 "Soon after my departure to the forest now, Kaikeyi having accomplished her purpose,
 will coolly get her son coronated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -575,8 +553,6 @@ dhare* = wearing deer skin rags; *jaaTaamaNdale dhaariNi* = wearing twisted lock
 
 "If go to forest , wearing deer -skin rags and with my hair twisted together Kaikeyi
 will have mental peace."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -627,8 +603,6 @@ maa = without chiram = delay."
 
 "I do not want to create trouble to my father, who has taken this hard decision in his
 mind . Hence, I will go to the forest at once
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -674,8 +648,6 @@ Matpravaasane = and in sending me to exile".
 
 "Oh, Lakshmana! Look at it as destiny which has taken back kingdom given to me and which
 is sending me to exile"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -721,8 +693,6 @@ is sending me to exile"
 
 -"If not making of destiny to create such a thought in Kaikeyi, how come she resolved
 to harass?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -769,8 +739,6 @@ me sute api vaa = or in her son Bharata."
 
 "You know that I had no discrimination among mothers and Kaikeyi also in the past had
 no discrimination between me and her son Bharata"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -817,8 +785,6 @@ for abolishion of my coronation ; *pravaasaarthaishena* = desirous of sending me
 
 "I do not perceive any other reason than an accident that made Kaikeyi to abolish my
 coronation , to send me to exile ,and to speak ferocious words ,not to be talked about."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -867,8 +833,6 @@ atriiva = like common woman; *bhartR^I sannidhou* = before husband matpiidaam = 
 
 "If it is for not an accidental reason, how Kaikeyi who is of a perfect temperament and
 who is born in a royal family can tell like a common woman to her husband to create trouble for me ?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -914,8 +878,6 @@ patitaH = befall; *mayicha* = in me tasyaamcha = and in her vyaktam = It is clea
 
 "The influence of destiny is un imaginable. No living being can counteract its influence.
 An adverse fate has befallen on me and on her .It is clear now ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -961,8 +923,6 @@ be able yoddhum = to fight against daivena = destiny? kanchit = whatever anyatra
 
 "Oh, Lakshmana! There is no means whatsoever to abstain from it otherwise than to follow
 the course of destiny. Who will be able to fight against the destiny. ?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1008,8 +968,6 @@ thing tathaabhuutam = of such nature tat = that karmanamu = indeed is action dai
 
 "Pleasure and pain, fear and anger, gain and loss, birth and death and such other things
 are all the acts of destiny"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1055,8 +1013,6 @@ are all the acts of destiny"
 
 "Even sages, who performed sever penance, having been harassed by destiny leave aside
 restraint and get ruined by lust and anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1102,8 +1058,6 @@ restraint and get ruined by lust and anger."
 
 "It is indeed an act of destiny which suddenly and unimaginably obstructs an action,
 undertaken in the world ,at the starting point itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1149,8 +1103,6 @@ self by the self; *etayaa buddyaa* = with this intellect tattvayaa = which is re
 
 "Although my coronation is obstructed, I have no grief since I have restrained the self
 by myself with real consciousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1196,8 +1148,6 @@ relating to coronation kshhipram = immediately aparitaapaH = without agony."
 
 "Hence ,you also ,like me, get the arrangements for coronation withdrawn immediately
 without any anguish"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1246,8 +1196,6 @@ bath after completing religious vow taapasye = of asceticism mama = to me."
 
 Oh, Lakshmana! Let all these very pots of water arranged for coronation be used by me
 for my bath after completing the religious vow of asceticism."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1298,8 +1246,6 @@ svayam = by myself karishhyati = will do vrataadesham = imposition of the vow me
 
 "Otherwise ,why to me this water in these pots ,which is royal property? The water drawn
 out by myself ,will be used for my bath after completing the religious vow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1343,8 +1289,6 @@ mahodayaH = final beautitude."
 
 "Oh, Lakshmana! Do not repent about this perverseness of Lakshmi, the goddess of wealth.
 When you talk of kingdom or dwelling in the forest, this is the final beautitude."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 </details>
 
@@ -1403,8 +1347,6 @@ jaanaasi = You know daivamcha = also the destiny; *tathaa prabhaavam* = which ha
 "Oh, Lakshmana! Do not suspect our mother for obstruction of coronation ceremony. She
 is uttering evil words, being overpowered by destiny. You are aware of this destiny, which has such
 influence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga22/ayodhyasans22.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

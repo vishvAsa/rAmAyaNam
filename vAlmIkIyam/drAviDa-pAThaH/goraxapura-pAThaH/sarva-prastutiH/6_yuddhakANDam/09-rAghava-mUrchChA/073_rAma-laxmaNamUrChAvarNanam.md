@@ -23,8 +23,6 @@ and arrows. Then, he rains a multitude of arrows of Rama and Lakshmana. Rama say
 he along with Lakshmana can act as thought they fell unconscious, so that Indrajit can return to
 Lanka, boasting of his laurels of victory. Grievously hurt on the battle field by the missiles of
 Indrajit, Rama and Lakshmana along with the whole army of monkeys fell unconscious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ hastily; *shashamsuH* = told; *raavaNaaya* = Ravana; *taan* = that;
 
 Then, those surviving troops of demons hastily told Ravana that Devantaka, Trishira,
 Atikaya and other foremost of demons had been killed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -212,8 +208,6 @@ indeed protect; *praaNaan* = his lives.
 
 "O father, the king of demons! You ought not to get embarrassed, while Indrajit is
 alive. Anyone who is struck by Indrajit's arrows cannot indeed protect his life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -267,8 +261,6 @@ diffused all over.
 
 "Today, you will see Rama along with Lakshmana, with their bodies undistinguished,
 scattered and dead, lying down on the floor, with their limbs diffused all over."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -328,8 +320,6 @@ arrows.
 
 "Listen to Indrajit's promise, which is very firm, backed by valour and divine
 blessing. Now itself, I will overwhelm Rama together with Lakshmana unfailing flood of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -386,8 +376,6 @@ enclosure where a sacrifice was being performed by Bali; the demon-king.
 fire-god, the sun and the moon can see my unlimited prowess, like the terrific prowess of Vishnu
 (in his dwarf incarnation as Vamana) in the enclosure where a sacrifice was being performed by
 Bali, the demon-king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -437,8 +425,6 @@ samaadhiyuktam* = and yoked with excellent donkeys.
 Thus speaking, that Indrajit, with an undepressed mind, after seeking permission
 from the king, mounted his chariot with a speed equal to that of wind and yoked with excellent
 donkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -485,8 +471,6 @@ battle was going on.
 
 That greatly resplendent Indrajit, the annihilator of enemies, having ascended a
 chariot looking like the chariot of the sun, quickly went to the battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -604,8 +588,6 @@ hands, carrying lances, sharp-edged spears, swords, axes and maces as also armed
 with iron spikes) and iron rods, followed that great souled Indrajit. Some rode on the back of
 elephants, some ascended excellent horses, tigers, scorpions, cats, donkeys and camels,
 looking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -652,8 +634,6 @@ couches; *bheriiNaam* = and kettle-drums.
 
 That valiant Indrajit swiftly went to the battle-field with full blasts of couches
 and kettle-drums.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -700,8 +680,6 @@ chandramasaa* = with the full moon.
 
 Indrajit, the tormentator of enemies, with a parasol white as a couch and the moon,
 shone like the sky with the full moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -748,8 +726,6 @@ chaamaramukhyaiH* = with foremost of charming whisks with handles of gold.
 
 The valiant Indrajit, the foremost among all the wielders of bow and decked with
 gold ornaments, was being fanned then with supremely charming whisks with handles of gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -790,8 +766,6 @@ raavaNaH* = that glorious Ravana; *raakShasaadhipatiH* = the king of demons;
 
 Seeing that son setting out with a large army, that glorious Ravana, the king of
 demons, spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -847,8 +821,6 @@ lord of celestials; *jitaH* = was conquered; *nihaniShyasi* = you can kill;
 lord of celestials was conquered by you. You can kill Rama, a mere human being, who is assailable.
 How much more can I tell?" After hearing these words of Ravana Indrajit accepted his great
 blessings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -896,8 +868,6 @@ like sky; *bhaasvataa* = shining; *arkeNa* = with the sun.
 With that Indrajit, having a splendour equal to that of the sun and having no
 warrior who can stand him as his rival, the City of Lanka shone, like the sky shining with the
 sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -938,8 +908,6 @@ annihilator of enemies; *sthaapayaamaasa* = stationed; *rakShaamsi* = his demons
 
 Reaching the battle-field, Indrajit of great splendour, the annihilator of enemies,
 stationed his demons around his chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -999,8 +967,6 @@ the fire.
 Then, that foremost of demons, having a radiance equal to that of fire, with
 excellent sacrificial incantations, performed a sacrifice, as per rules, making an oblation to the
 fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1016,8 +982,6 @@ and; *kaarShNaayasam sruvam* = the sacrificial ladle was made of iron.
 
 That valiant leader of demons offered oblations to fire there, with garlands and
 pounded sandalwood, including clarified butter and parched grain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1065,8 +1029,6 @@ and; *kaarShNaayasam sruvam* = the sacrificial ladle was made of iron.
 That sacrificial rite was performed with weapons serving as reeds, chips of
 Vibhishaka tree serving as fuel, then using red pieces of cloth and the sacrificial ladle made of
 iron.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1115,8 +1077,6 @@ accompanied by lances; *tatra* = there; *saH* = he; *jagraaha* = elapsed;
 Duly spreading fire with reeds (in the form of other weapons) accompanied by lances
 there, Indrajit elapsed the neck of a live goat of dark hue (for offering it to the fire as an
 oblation).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1158,8 +1118,6 @@ victory (of the past).
 
 From the great fire of flames, set ablaze by that offering having been thrown into
 it acting at once without smoke, appeared such signs as had beckoned victory (of the past).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1200,8 +1158,6 @@ shikhaH* = and having flames revolving from left to right; *pratijagraaha* = acc
 
 The fire, resembling the molten gold, rising up on its own and having flames
 revolving from left to right, accepted that oblation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1249,8 +1205,6 @@ all.
 
 Indrajit, who was skilled in the use of mystic missiles, invoked the missile
 presided over by Brahma and charged it on his bow, chariot and all.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1300,8 +1254,6 @@ moon; other planets and lunar mansions; *vitatraasa* = trembled with terror.
 
 While that missile was being invoked and the sacrificial fire propitiated, the
 firmament including the sun, the moon, other planets and lunar mansions trembled with fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1352,8 +1304,6 @@ rathaashvasuutaH* = with the bow; arrows; sword; chariot; horses; charioteer and
 Having propitiated offering in fire, Indrajit, having a splendour shining like the
 fire, having a might similar to that of Indra, and possessing an unimaginable prowess, became
 himself invisible in the sky, with the bow, arrows, sword, chariot, horses, charioteer and all.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1378,8 +1328,6 @@ contemplated for long.
 Thereupon, suddenly hearing of those who had been killed, Ravana the prosperous king
 of demons, having his eyes filled with profuse tears; boarding over the terrific destroyal of his
 son as also the death of his brothers, contemplated for long.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1420,8 +1368,6 @@ desire to fight; *nardamaanam* = roaring.
 
 Then, the army of demons, extensive with horses and chariots, embellished by banners
 and flags, set out with a desire to fight, roaring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1469,8 +1415,6 @@ and goads too.
 
 They killed the monkeys in the battle-field with many wonderful and ornamental
 arrows, possessing great velocity as also lances and goads.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1510,8 +1454,6 @@ Indrajit on his part; (spoke to them as follows:)
 
 Seeing those demons, the most enraged Indrajit on his part spoke to them as follows:
 "All of you fight enthusiastically with an intent to kill the monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1558,8 +1500,6 @@ those demons; *garjanaH* = roaring; *jayakaaN^kShiNaH* = with a desire for victo
 
 Roaring with a desire for victory, all those demons thereafter terribly rained
 showers of arrows on monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1601,8 +1541,6 @@ arrows; steel arrows; *gadaabhiH* = maces; *musalairapi* = and clubs.
 
 That Indrajit, on his part, along with his demons in the battle-field, destroyed the
 monkeys with Nalika (broad-headed) arrows, steel arrows, maces and clubs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1624,8 +1562,6 @@ Ravana the king; *diinam* = miserably; *samparipuluvaan* = submerged;
 
 Then, seeing Ravana the king, miserably submerged in a sea of sorrow, Indrajit,
 Ravana's son, the best among charioteers, spoke to him as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1666,8 +1602,6 @@ and trees; *raavaNim* = on Indrajit.
 
 Those monkeys, wielding trees as their weapons, being struck in the battle-field,
 quickly rained mountains and trees on Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1714,8 +1648,6 @@ strength; *tadaa* = then; *kruddhaH* = was enraged; *vyadhamat* = and wounded;
 
 Indrajit the son of Ravana, on his part, possessing great splendour and great
 strength, was enraged and wounded the bodies of the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1756,8 +1688,6 @@ bringing enormous delight; *raakShasaan* = the demons; *bibheda* = severed off;
 
 Bringing enormous delight to the demons that enraged Indrajit severed off the
 monkeys by nines, fives and sevens with a single arrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1798,8 +1728,6 @@ destroyed; *vaanaraan* = the monkeys; *samara* = in battle.
 
 That most invincible chief of demons, with arrows decked with gold, having
 brilliance equal to the sun, destroyed the monkeys in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1840,8 +1768,6 @@ by the arrows; *samara* = in battle; *bhinnagaatraaH* = with severed limbs;
 
 Those monkeys, tormented by the arrows in battle, with their limbs severed, fell
 down with their aspirations shaken, like the great demons fallen down by the celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1888,8 +1814,6 @@ baaNagabhastibhiH* = with his terrific ray-like arrows.
 
 Those excellent monkeys with anger attacked Indrajit, who was tormenting them like
 the sun with his terrific ray-like the sun with his terrific ray-like arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1930,8 +1854,6 @@ consciousness; *vyathitaaH* = perturbed; *samukShitaaH* = and dampened;
 
 Then, all the monkeys, with their bodies severed, having lost their consciousness
 and perturbed as they were, having their limbs dampened with blood, took to their heels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -1978,8 +1900,6 @@ mountains as their weapons; *nardantaH* = roaring; *samare* = in battle;
 
 Those monkeys, wielding mountains as their weapons, roaring in the battle field,
 without turning back, abandoned their lives, showing their courage for the sake of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2020,8 +1940,6 @@ mountain-peaks; *shilaabhishcha* = and rocks.
 
 Continuing to stay in the battle-field, those monkeys rained trees, mountain-peaks
 and rocks on Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2062,8 +1980,6 @@ that; *mahat* = great; *varSham* = rain; *drumaanaam* = of trees;
 
 Indrajit of great splendour and the conqueror of battles, kept off that great rain
 of deadly hail of trees and rocks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2104,8 +2020,6 @@ of deadly hail of trees and rocks.
 
 Thereupon, the capable Indrajit with his arrows, identical of fire and looking like
 serpents in battle, split the armies of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2152,8 +2066,6 @@ farway; *navabhiH* = with nine arrows.
 
 Indrajit struck Gandhamadana with eighteen sharp arrows and also struck Neela, who
 was standing at a far-away place, with nine arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2194,8 +2106,6 @@ fire arrows; *gajamchaiva* = Gaja too; *samyuge* = in battle.
 
 Indrajit having a great prowess, struck Mainda with seven arrows, which can tear
 asunder vital parts and also struck Gaja with five arrows in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2248,8 +2158,6 @@ Rishabha; *aN^gadam* = Angada; *tathaa* = and; *dvividam* = Dvivida;
 Indrajit then struck Jambavan with ten arrows and Nila with thirty arrows. He also
 struck Sugreeva, Rishabha, Angada and Dvivida with sharp and terrific arrows endowed with boons and
 made them breathless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2299,8 +2207,6 @@ _________________
 
 That enraged Indrajit, then looking like an excited fire that is to destroy the
 world, tormented other chiefs of monkeys too with many arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2347,8 +2253,6 @@ the armies; *vaanaraaNaam* = of monkeys; *mahaaraNe* = in that great battle;
 
 He harassed the armies of monkeys' fast-moving arrows looking like the sun in their
 splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2389,8 +2293,6 @@ and tormented; *sharajaalena* = by a multitude of arrows.
 
 That enthusiastic Indrajit, with a great pleasure, saw that exclusive army of
 monkeys, drenched in blood and tormented by a multitude of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2439,8 +2341,6 @@ _________________
 
 Indrajit, the son of Ravana, possessing a great splendour power and strength, again
 generating a terrific rain of arrows and weapons, destroyed the army of monkeys from all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2496,8 +2396,6 @@ vaahiniSha* = on the armies; *niilaambudharaH yathaa* = as a black cloud (down p
 Leaving off his army from that great battle-field and becoming invisible, Indrajit
 advanced towards the monkeys and quickly rained terrific hail of arrows on those armies of monkeys,
 as black cloud downpours the rain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2550,8 +2448,6 @@ thunderbolt.
 In that battle, those mountain-like monkeys as victims of conjuring tricks with
 their bodies torn into pieces by Indrajit's arrows and roaring as they were with discordant notes,
 fell down on earth, like mountains struck by Indra's thunder bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2612,8 +2508,6 @@ api* = that Indrajit the demon; *surendrashatrum* = the enemy of Indra;
 Those monkeys in battle saw only arrows with pointed tips falling on the armies of
 monkeys. They could not see there, that Indrajit the demon, the enemy of Indra, remaining concealed
 by his conjuring trick.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2668,8 +2562,6 @@ cha* = and tore asunder; *vaanarendraan* = the monkey-chiefs.
 Then, the mighty Indrajit, the leader of demons, covered all the quarters with
 hundreds of sharply pointed arrows, having splendour of the sun and tore asunder the
 monkey-chiefs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2728,8 +2620,6 @@ diiptaanila saprabhaaNi* = shining like augmented and flaming fire;
 
 Indrajit excessively rained on the army of monkeys' pikes, swords and axes, shining
 like augmented and flaming fire and shooting forth incandescent flames with sparks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2779,8 +2669,6 @@ which shone brightly as fire; *vaanarayuuthapaiH* = the monkey-commanders; (look
 
 Struck by the Indrajit's arrows, shining brightly as fire, the monkey-commanders
 then looked like Kimshuka trees bearing crimson flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2821,8 +2709,6 @@ approaching; *anyonyam* = at each other; *ninadantashcha* = and roaring;
 
 Those excellent monkeys, torn asunder by that chief of demons, approaching at each
 other and roaring in a discordant tone, fell down on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2863,8 +2749,6 @@ other; *petushcha* = and fell down; *jagatiitale* = on the floor.
 
 Banged in the eyes by arrows, some monkeys looking up towards the sky, joined each
 other and fell down on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -2951,8 +2835,6 @@ excellent demon struck all those foremost of monkeys, namely Hanuman, Sugreeva, 
 Gandhamadana, Jambavan, Sushena, Vegadarshina, Mainda, Dvivida, Nila, Gavaksha, Gavaya, Kesari,
 Hariloma, Vidyuddamshtra, Suryanana, Jyothimukha, a monkey called Dadhimukha, Pavakaksha, Nala as
 also a monkey named Kumuda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3008,8 +2890,6 @@ principal monkey-warriors; *gadaabhiH* = by maces; *baaNaiH* = and arrows;
 Tearing asunder the principal monkey-warriors by maces and arrows, which were of
 golden colour, that Indrajit rained a multitude of showers of arrows equal to sun's rays on Rama
 and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3069,8 +2949,6 @@ luster; *samiikShamaaNaH* = looking around thoroughly; *uvaacha* = spoke;
 Ignoring that showering rain of arrows, as though they are mere showers of rain,
 that Rama of the most wonderful luster, looking around thoroughly, then spoke to Lakshmana as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3124,8 +3002,6 @@ incessantly; *shitaiH sharaiH* = with his sharp arrows.
 
 "O Lakshmana! This Indrajit, by a great missile, is throwing down our army of
 monkeys and tormenting us incessantly with his sharp arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3181,8 +3057,6 @@ concealed his terrible form; *udyataastraH* = who stands with his weapons uplift
 "How can the mighty and composed Indrajit on whom a boon has been bestowed by Brahma
 and who has concealed his terrible form who stands with his weapons uplifted eventhough his body is
 visible be killed in the battle today?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3243,8 +3117,6 @@ wise one!; *avyagramanaaH* = remaining undistracted in mind; *tvam* = you;
 "I think the self-born Brahma who is the source of the universe is inconceivable and
 this missile is presided over by him. O wise one! Remaining undistracted in mind, you bear along
 with me today the hail of arrows here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3300,8 +3172,6 @@ charming.
 "Let this chief of demons, who is surpassing all, be covered with a multitude of
 showers of arrows. This entire army of Sugreeva, whose leading warriors have fallen, looks no more
 charming."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3356,8 +3226,6 @@ pravekShyati = he will certainly return; *amaraarivaasam* = Lanka (the abode of 
 "Finding both of us fallen unconscious without displaying any joy or anger as also
 having desisted from fighting, Indrajit will certainly return to Lanka, after having obtained
 laurels of battle in its beginning itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3418,8 +3286,6 @@ also; *viShaayitvaa* = causing affliction; *tau* = to both of them; *nanaada*
 Thereafter, Rama and Lakshmana there became struck by a multitude of arrows of
 Indrajit. That leader of demons also there, causing affliction to both of them, roared with a
 thrill of rapture in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 </details>
 
@@ -3473,8 +3339,6 @@ Thus causing the army of monkeys along with Rama and Lakshmana to become despond
 in battle, that Indrajit, getting eulogized by the demons, quickly reached the city of Lanka which
 was being protected by Ravana's arms. Then, Indrajit cheerfully informed all that had happened, to
 his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ When Rama incinerates Kabandha he resurrects as a celestial being and detailing 
 Rama to befriend him. He informs Rama that Sugreeva is also in a similar condition and he needs some
 one to rely upon, in order to overcome his problems, and thus Kabandha asks Rama to help Sugreeva, and
 get help as requital from Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -136,8 +134,6 @@ burnt it [stewed the body.]
 That massy body of Kabandha is full with fat and while it is being cooked, it is in simile with a massy
 gob of ghee. But the Fire had to stew that body tardily, though that stewed meat is Fire's favourite
 dish, because of that body's massiveness. [3-72-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -184,8 +180,6 @@ agniH iva utthitaH* = without, fumes, fire, alike [looks like,] zoomed.
 
 In a trice that highly dynamic Kabandha zoomed up shoving off that pyre, and he is now attired in lily-white
 vestments and angelic garlands, and appeared like a fumeless fire. [3-72-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -248,8 +242,6 @@ not, sullied, clothing; *samhR^iSTaH* = highly gladdened; *sarva prati anga bhuu
 
 Then highly gladdened Kabandha jumped up onto sky from the pyre, and there he is irradiant with unsullied
 clothing, and fineries decorated on every limb. [3-72-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -269,8 +261,6 @@ On going to firmament Kabandha is now seated in a dazzling celestial aircraft yo
 endows renown because it takes the occupants to the realms of Brahma, and sitting in that celestial
 aircraft he said this sentence to Rama, while his own great glimmer and glitter beamed forth in all
 ten quarters. [3-72-6, 7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -331,8 +321,6 @@ The six ideations employed by kings in kingship are 1] *sandhi* a covenant with 
 2] *vigraha* continuing hostilities; 3] *yaana* waging war; 4] *aasana* sit out
 for proper time; 5] *dvaidhii bhaava* creating factions and vicissitudes in enemy groups; 6]
 *samaashraya* taking shelter under a coequal.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -381,8 +369,6 @@ abducting]; *vyasanam praaptam* = dire straits, obtained.
 "Oh, Rama, you along with Lakshmana went into a spell of nemesis, and thus you have become an underprivileged
 one, and that spell alone has obtained you this dire straits, in the form of abducting your wife...
 [3-72-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -432,8 +418,6 @@ on thinking; *na pashyaami hi* = not, perceiving, indeed.
 "Oh, best among kind-hearted ones, thereby you have to certainly befriend such a soul in similar dire
 straits... however deeply I may think, I am not able to perceive your accomplishment if you do not befriended
 with such a soul... [3-72-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -473,8 +457,6 @@ with such a soul... [3-72-10]
 
 "Oh, Rama, listen what I tell... a vanara is there by name Sugreeva, who is vengefully reneged by his
 brother Vali, the son of Indra... [3-72-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -521,8 +503,6 @@ along with nivasati = is living.
 
 "That self-respectful valiant Sugreeva is living on the Mt. Rishyamuka, a best mountain available in
 the lambent fringes of Pampa Lake, along with four other vanara-s. [3-72-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -572,8 +552,6 @@ the lambent fringes of Pampa Lake, along with four other vanara-s. [3-72-12]
 "He that Sugreeva is a masterful one among vanara-s, highly mettlesome, self-resplendent, and illimitable
 is his self-radiance... and he is also truth-bound and culture-bound... a mastermind, master-hand and
 a taskmaster... [3-72-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -630,8 +608,6 @@ intrepid, incursive - such Sugreeva; *raajya hetuH* = kingdom, for reason of; *m
 "He is a capable adventurer, a courageous exploiter and incomparable one in intrepidity and a brave
 one in incursions, and his personality will be coruscating ever and anon, for he is the son of Sun-god...
 but he is banished by his self-conceited brother owing to the reasons of kingdom... [3-72-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -646,8 +622,6 @@ he conducts himself; *shoke manaH maa kR^idhaaH* = in agony, heart, do not, do [
 
 "Oh, Rama, he will be your associate and an aid in searching for Seetha, and he conducts himself in
 your wellbeing, hence let not your heart yield to agony... [3-72-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -697,8 +671,6 @@ ati kramaH* = Time, impossible, to over, step [countervail against]; *hi* = isn'
 
 "Oh, tigerly Ikshvaaku, further nothing can be countermanded in this world which is indeed ineluctable,
 and it is impossible to countervail against Time, isn't it... [3-72-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -749,8 +721,6 @@ diipyamaane* = fire, while it is blazing; *tam vayasyam kuru* = him, as a friend
 here now and promptly you fraternise with Sugreeva... and to not to bode any ill of unfriendliness among
 you two, you make him a friend before blazing Fire, making that Fire as an Attestor of your friendship...
 [3-72-17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -798,8 +768,6 @@ he is a monkey]; *saH sugriivaH* = he, Sugreeva; *te* = by you; *na ava mantavya
 "You shall not look down on that lord of monkeys taking him as a lowly simian, why because that Sugreeva
 is a valiant one, a guise changing wizard and presently he is in the need of a bolsterer, and if you
 render help he will be obligated to you for ever... [3-72-18b, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -847,8 +815,6 @@ vaa* = not, achieved, his purpose, or not; *tava kR^ityam kariSyati* = your, tas
 
 "Now you two are capable enough to effectuate the desired task of Sugreeva, isn't it... whether his
 own purpose is achieved through you or not, he will effectuate your task... [3-72-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -898,8 +864,6 @@ Sun's, direct, son; *saH* = he, that Sugreeva; *vaalinaa* = by Vali; *kR^ita kil
 
 "Sugreeva is the son of Riksharaja, and the direct son of the Sun, but Vali trespassed against him.
 Wary of Vali's onslaughts Sugreeva is wandering around Pampa... [3-72-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -949,8 +913,6 @@ himself on Mt. Rishyamuka, as a friend of yours taking an oath on your weapon be
 
 The compound *aayudham sam ni dhaaya* can mean in the three possible ways as said above.
 Any one, or three meanings can be obtained, as intensifiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -971,8 +933,6 @@ iishvarau* = people's, lords; *tau viirau* = those, brave men; *giri pradaram aa
 
 When Kabandha said that way, both those brave men and lords of people, on throwing the body of Kabandha
 into a mountain cleft and then embedded it with firewood. [3-72-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -988,8 +948,6 @@ ja jvaaala]* = suddenly, blazingly, blazed.
 
 On his part Lakshmana started to torch that pyre with highly sparkling torches from all over, and even
 that pyre too suddenly blazed with blazes from all over. [3-72-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -1041,8 +999,6 @@ indeed.
 
 "With his expertise that straightforward monkey Sugreeva is indeed conversant with all of the strongholds
 of anthropophagite demons in the world in their entirety... [3-72-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -1090,8 +1046,6 @@ is there; *hi* = isn't it.
 
 "Oh, enemy-subjugator Rama, as far as the thousand rayed sun manifestly irradiates the world, oh, Raghava,
 thus far, nothing in the least is unfamiliar to him, isn't it... [3-72-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -1142,8 +1096,6 @@ kandaraan* = mountains, cliffs, caves; *anviSya* = on raking over; *te patniim a
 
 "He makes the monkeys to purposefully rake over the expansive rivers, extensive mountains and their
 impassable cliffs and caves in locating your wife... [3-72-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -1196,8 +1148,6 @@ preSayiSyati* = to [all] directions, he expedites; *raavaNa aalaye* = in Ravana'
 "Oh, Raghava, he expedites giant bodied monkeys in all directions to search for her, who is agonised
 by your parting, and he quests after the residence of Ravana for that comely lady Maithili... [3-72-25b,
 26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 </details>
 
@@ -1254,8 +1204,6 @@ he will, bestow [Seetha to you.]
 abiding on the planes of nadir of the earth, he that defiant one among fly-jumpers, Sugreeva, on entering
 there and annihilating the demons, he again bestows Seetha to you..." So Kabandha continued his advise
 to Rama regarding Sugreeva. [3-72-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

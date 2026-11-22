@@ -16,8 +16,6 @@ title_english = "060 Jambavan s wise guidelines"
 Angada suggest with enthusiasm that Seetha must be restored by them only, after conquering
 Lanka. But Jambavan replies that it is not proper for them to do like that without enquiring about Rama's
 intention.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -109,8 +107,6 @@ princess; *dR^iSTaa* = though seen; *bhavadbhiH* = by you; *khyaata vikramaiH*
 
 "I perceive it as improper to inform there that Seetha the princess, though seen by you
 of renowned prowess, has not been brought here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -126,8 +122,6 @@ worlds; *saamara daityeSu* = comprising of celestials or demons.
 
 "O the best of monkeys! No one is equal to us even in our prowess nor indeed anyone who
 can leap like us in the worlds either of celestials or demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ shall go; *gR^ihiitvaa* = after taking; *jaanakiim* = Janaki.
 
 "Hanuma indeed thus killed all the warriors among the demons. What work is remaining
 to be done by us? We will go, after taking Janaki."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
 </details>
 
@@ -235,8 +227,6 @@ of the high-souled Rama; *deviim vinaa* = without the princess; *vaanaraaH* = O 
 Hearing those words of Hanuma, Angada the son of Vali spoke as follows: "Even after our
 seeing of Seetha, it is not proper for us to approach the high-souled Rama without taking Seetha with
 us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -257,8 +247,6 @@ pleased; *uvaacha* = and spoke; *arthavat vaakyam* = (the following) meaningful 
 
 Jambavan, the foremost among the forest-animals, understanding the sense, was very much
 pleased and spoke the following meaningful words to that Angada, who thus formed a resolution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -275,8 +263,6 @@ tathaa* = in which way; *raamasya matiH* = Rama's inclination; *nivishTa* = will
 
 "O prince! This thought you thus perceive is not incompetent of us. But, you must see
 the way in which Rama's inclination would be, for the accomplishment of the object."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
 </details>
 

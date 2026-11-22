@@ -17,8 +17,6 @@ Hanuma thinks within himself that he should implement the fourth strategy for su
 viz. open assault with the demons, so as to meet Ravana and his ministers for knowing their designs
 and strengths. Accordingly, he makes up his mind to damage the royal pleasure-garden attached to the
 gynaecium at Lanka and then proceeds to do that task.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ having gone to a distance; *chintayaamaasa* = thought (in this way):
 
 Seetha honoured Hanuma, who was ready to go, with good words. Hanuma, having gone to
 a distance from that place, thought within himself (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ sowing dissension; negotiation and bribery; *chaturthaH* = the fourth strategy v
 "I have seen this black-eyed Seetha. There is only a little that remains to be done by
 me. Abandoning the three strategies for success viz. sowing dissension, negotiation and bribery, I have
 to implement here the fourth strategy viz. open assault."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -185,8 +179,6 @@ of sowing dissension is not amenable. mama = to me; *iha* = here; *paraakramastv
 "In the case of demons, the strategy of negotiation is not practicable. For those persons
 having abundant wealth, the strategy of bribery is not suitable. For persons who are proud of their
 strength, the strategy of sowing dissension is not amenable. Prowess alone is agreeable for me here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -246,8 +238,6 @@ upapadyate* = is adequate; *asya kaaryasya paraakramaat R^ite* = except showing 
 "Except showing of valour, no strategy in accomplishing this task is adequate in these
 circumstances, for the demons can adopt a weak attitude in the ensuring combat, if their foremost heroes
 are somehow killed here and now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -297,8 +287,6 @@ _________________
 
 "He alone can accomplish his purpose, who implements many (secondary) tasks even after
 the initial task has been carried through, without impairing the previous achievement."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -347,8 +335,6 @@ task.
 'There is indeed no single exclusive method to accomplish a purpose however small a task
 may be. On the other hand, whoever knows to do a task in many ways, he alone is capable of achieving
 that task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -408,8 +394,6 @@ ourselves; *ihaiva taavat* = here itself; *tataH* = then; *mama bhartR^ishaasana
 'If I go to the abode of Sugreeva the Lord of monkeys, having ascertained the truth as
 to who will predominate in an encounter between the adversary and ourselves here itself, then will the
 command of my master have been carried out by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -468,8 +452,6 @@ that Ravana; *maanayet* = applaud; *maam* = me; *raNe* = in battle?
 
 "How can my combat with the demons now will prove to be a happy one? And, how will my
 strength become fruitful? How indeed will that Ravana applaud me in battle?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -529,8 +511,6 @@ from here; *sukhena* = happily.
 
 "Then meeting Ravana with his troop of ministers, his army and his followers in battle
 as well as knowing his designs and strength, I will go back from here happily."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -577,8 +557,6 @@ looking like Nandana; Indra's paradise.
 
 "This excellent grove of this cruel Ravana, with its various kinds of trees and creepers,
 which is pleasing to the eyes and the mind, is looking like Nandana, Indra's paradise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -628,8 +606,6 @@ angry; *tataH* = then.
 
 "I will destroy this grove like fire scorching a dried up forest. While this grove gets
 demolished, Ravana will then be angry."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -688,8 +664,6 @@ like great tridents and spears made of iron; *tataH* = and then; *idam* = this; 
 
 "Thereupon Ravana will order for an army consisting of horses, great chariots and elephants
 and armed with weapons like great tridents and spears made of iron. Then, a great combat will follow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -748,8 +722,6 @@ _________________
 
 "Attacking those demons of terrific prowess, I too with my unbearable prowess, will kill
 that army instigated by Ravana and return to the place of Sugreeva happily."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -796,8 +768,6 @@ a highly violent jerk of his thighs; *maarutavat* = like a wind.
 
 Thereafter, Hanuma of terrific prowess, getting angry, started then to throw away trees
 by a highly violent jerk of his thighs akin to the jerk of a wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -847,8 +817,6 @@ _________________
 
 Then, the valiant Hanuma laid waste the royal garden attached to the gynaecium resonant
 with cries of birds in heat and endowed with various kinds of trees and creepers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -895,8 +863,6 @@ with cries of birds in heat and endowed with various kinds of trees and creepers
 
 Hanuma damaged trees in that grove, destroyed the ponds and crushed the tops of pleasure
 hills to powder. Thus, that grove became nasty at sight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -959,8 +925,6 @@ With its trees and creepers dried up, with the howls of various birds, with its 
 destroyed, with its copper-coloured sprouts dried up there, that grove did not look bright, as though
 it had been destroyed by a wild fire. Those creepers with their bars of support displaced, fell down
 like distressed woman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -1019,8 +983,6 @@ grottos; *gR^ihaiH* = (and other) structures unmathitaiH = demolished; *tat maha
 
 "With its arbours and picture-galleries destroyed, its great serpents and wild animals
 emitting cries of distress, its grottos and other structures demolished, that grove became defaced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -1067,8 +1029,6 @@ distressed women; *kapeH* = by Hanuma's; *balaat* = strength.
 "That woody land of that pleasure-garden which afforded shelter to the women-folk of
 Ravana and which has clusters of Ashoka creepers became a jumble of creepers of sorrow for the distressed
 women; by the violence of Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 </details>
 
@@ -1128,8 +1088,6 @@ to combat; *ekaH* = alone; *bahubhiH* = with many; *mahaabalaiH* = mighty demons
 
 Creating a great displeasure to the mind of that high-souled Ravana, the Lord of the
 land of Lanka; that Hanuma decided to fight alone against many mighty demons and stayed
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga41/sundarasans41.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -20,8 +20,6 @@ Sugreeva approaches Rama and falls prostrate on Rama's feet as though seeking pa
 him up and mildly admonishes him. Then Sugreeva while giving the account of legions that are coming in, informs
 Rama that all the Vanara armies on earth are coming for confronting Ravana in battle. On asserting that Sugreeva
 is at his job, Rama is pleased heartily.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ them off - dispersed them.
 
 On receiving all those gifts brought in by the Vanara-s from Himalayas, Sugreeva dispersed them all with approbation.
 [4-38-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ raaghavam ca* = great-mighty, Raghava, also; *kR^ita artham* = achieved, aspirat
 
 On dispersing thousands of monkeys who have effectuated their errand of summoning all monkeys on the earth, Sugreeva
 deemed that his own aspirations and as well as those of that great-mighty Rama are achieved. [4-38-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ harSayan* = to gladden; *prashritam vaakyam abraviit* = courteous, sentence, spo
 
 Gladdening Sugreeva who is indomitably mighty and the indomitable one among all vanara-s, Lakshmana spoke these
 courteous words to him, "oh, gentle one, if it please you, make an exit from Kishkindha." [4-38-3, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ way, it will be - so be it; *gacChaamaH* = let us go; *mayaa* = by me; *tvat* = 
 
 On hearing the courteous words of Lakshmana Sugreeva is extremely pleased and he indeed spoke this sentence to
 him, "So be it. Let us go. I remain biddable in your command." [4-38-4b, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -267,8 +257,6 @@ him, "So be it. Let us go. I remain biddable in your command." [4-38-4b, 5]
 
 Sugreeva speaking thus to Lakshmana, whose person itself is auspicious, then bade adieu to Lady Tara and the other
 female vanara-s. [4-38-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ anjali puTaaH* = with adjoined, palms, fold; *shiighram aayayuH* = swiftly, came
 Sugreeva shouted sharply saying, "come here," at the best monkey-adjutants and on hearing his call all of those
 monkeys that are spared to see the ladies of palace chambers have come there swiftly with their palms adjoined
 in supplication. [4-38-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -368,8 +354,6 @@ in supplication. [4-38-7]
 
 Then the king Sugreeva whose refulgence is kindred to that of sun has said to those vanara-s that have arrived
 there, "oh, vanara-s, immediately position my palanquin before me." [4-38-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -409,8 +393,6 @@ there, "oh, vanara-s, immediately position my palanquin before me." [4-38-8b, 9a
 
 On hearing his words those monkeys who are the adept ones in their agility right away brought an exquisite palanquin
 and readily started to position it at his nearby. [4-38-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -457,8 +439,6 @@ mount it; *iti saumitrim abraviit* = thus, to Soumitri, said.
 
 And on seeing palanquin positioned at his nearby the king of monkeys Sugreeva said to Saumitri, "you mount it,
 Lakshmana, be quick." [4-38-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -507,8 +487,6 @@ _________________
 
 Saying so Sugreeva got into that golden carriage which in shine is like the sun and which has many monkey-carriers
 along with Lakshmana. [4-38-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ with high, sounds, also; *nir yayau* = out, started.
 Sugreeva who achieved the kingdom of unexcelled magnificence has started out that magnificently to the high extolment
 of panegyrists, while a white royal-parasol spread overhead the palanquin, white fur-fans fanning him from all
 over, and while conch-shells are blowing loud and drums are drumming high. [4-38-12b, 13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -618,8 +594,6 @@ Rama, where he is, ensconced; *tatra yayau* = to there, they travelled.
 
 Sugreeva travelled thus surrounded with many hundreds of vanara-s, who look confrontational and who wielded weapons,
 to the place where Rama is staying. [4-38-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -670,8 +644,6 @@ there; *shreSTham tam desham* = choicest, that, province; *anupraapya* = on atta
 
 On reaching the province where Rama is staying in all his adoration to that place, the great-resplendent Sugreeva
 descended the palanquin along with Lakshmana. [4-38-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -687,8 +659,6 @@ making, palms adjoined, when he remained; *vaanaraaH ca* = [all of the] monkeys,
 
 When Sugreeva reached Rama he stood still with adjoined-palms, and when he remained still with palm-fold all the
 other monkeys stood still with palm-fold. [4-38-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -744,8 +714,6 @@ Terrible looking monkeys are compared with delicate lotus buds - is this a simil
 lotus buds. While adjoining palms they raised hands over their heads, where their bodies are appearing similar
 to the stems of lotuses, and folded palms are like unfolded lotus buds. Rama is gladdened because the lake called
 Sugreeva contains these many prayerful devotees who are praying with lotus-bud-like folded palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -791,8 +759,6 @@ Rama,] fallen; *tam hariishvaram* = him, monkey's king - Sugreeva; *utthaapya* =
 
 Raghava raised and tightly hugged the king of monkeys Sugreeva, who has prostrated himself with his head touching
 the feet of Rama, with care and credit. [4-38-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -843,8 +809,6 @@ _________________
 
 After hugging Sugreeva that virtue-souled Rama then said to him, "be seated." Then on seeing Sugreeva who took
 seat on ground Rama spoke to him. [4-38-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -901,8 +865,6 @@ and pleasure-seeking. [4-38-20b, 21a]
 **टिप्पनी**
 
 Say, mornings for duty-bound affairs, afternoons for financial matters, and nights for pleasure-seeking programs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -923,8 +885,6 @@ he is like the one who slept on a treetop who awakens only after falling down. [
 
 An out-and-out pleasure-seeker wakes up only when he runs into troubles. Till such time he uses slender branches
 and tender leaves available on the infirm treetop, called his pleasuring area, as his cushion bed and foam pillows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -974,8 +934,6 @@ like wealth, age or destitution. This happens if only he summarily rejects the o
 pursuance to acquire real and everlasting prosperity, in lifetime. And a real king worth his kingship is the one
 who practises and enjoys all the threefold virtues, namely probity, prosperity and pleasures at appropriate timings
 and at appreciable limits, unlike Sugreeva who is indulgent in only one among those three, namely pleasures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -1022,8 +980,6 @@ and at appreciable limits, unlike Sugreeva who is indulgent in only one among th
 
 "Oh, enemy-eliminator, time for endeavour has come, oh, king of monkeys, let this be discussed along with your
 monkey-ministers." Thus Rama spoke to Sugreeva. [4-38-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -1079,8 +1035,6 @@ beneficence, punaH praaptam = again, achieved.
 When Rama addressed him in this way, Sugreeva said these words to Rama, "oh, dextrous Rama, by your beneficence
 I have repossessed prosperity, popularity and this everlasting kingdom of monkeys which are actually mislaid.
 [4-38-24b, 25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -1131,8 +1085,6 @@ _________________
 "Oh, god, by your and your brother's benevolence alone I regained what I lost, oh, victorious one among victors,
 and he who does not requite the favour that has been done for him will become the vitiator of probity among men.
 [4-38-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -1201,8 +1153,6 @@ just returned on forgathering.
 
 "These are the hundreds of vanara chiefs, oh, enemy-subjugator, who have just returned on forgathering all of
 the forceful vanara-s on earth. [4-38-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -1248,8 +1198,6 @@ such; *vaanaraaH* = Vanara-s; *svaiH svaiH sainyaiH* = their, their [their own,]
 the impenetrable forests, woodlands and impassable mountains are coming. And the bears, monkeys and brave baboons
 who are the children of gods and gandharva-s, and who change their guise just by their wish are halfway through
 on their path duly fenced round with one's own forces. [4-38-28, 29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -1394,8 +1342,6 @@ By this, the nomenclature of million, billion and trillion was there in ancient 
 by the names: *prayutam* 'a million...' *arbuda* 'a billion..' and *shanku* 'a trillion...'
 and this exactly relates to the decimal system which is based on the number ten, in which the smaller units are
 related to the principal units as powers of ten [units, tens, hundreds, thousands, etc.]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -1442,8 +1388,6 @@ will be approaching; *hi* = surely.
 
 "Those vanara-s who are combative in wars, and those who can fetch Maithili on eliminating Ravana in war, will
 be approaching you soon." Thus Sugreeva informed Rama. [4-38-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 </details>
 
@@ -1504,8 +1448,6 @@ observing; *harSaat* = by jubilance; *pra buddha niila utpala tulya* = well, blo
 
 Then on seeing the perfect effort made by the prominent one among all monkeys, Sugreeva, who is operating under
 his control, the eyes of valorous prince Rama are widened in jubilance, like the well-bloomed blue-lotuses. [4-38-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

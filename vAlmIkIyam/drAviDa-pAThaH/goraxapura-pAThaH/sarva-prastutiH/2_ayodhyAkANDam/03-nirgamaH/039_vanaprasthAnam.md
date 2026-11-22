@@ -82,8 +82,6 @@ of enam = him(Rama).
 Hearing Rama's words and seeing him clad in a garb of hermit, king Dasaratha with
 his wives fell unconscious. Consumed by grief, he could not look towards Rama. Troubled in mind as
 he was, the king could not speak to Rama by seeing into his face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -130,8 +128,6 @@ anuchintayan = thinking of raaman eva = Rama alone.
 
 The mighty armed Dasaratha was unconscious for some time, distressed and repented in
 various ways thinking of Rama alone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -179,8 +175,6 @@ come."
 
 "I think that previously many people were separated from their children by me or in
 any case many living beings were killed. Hence, this (calamity) has befallen me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -251,8 +245,6 @@ clad in the robes of an ascetic; *vihaaya* = having cast off; *suukshhme* = fine
 "life does not decamp from the body surely without the arrival of time. Death does
 not claim me, even being tormented by Kaikeyi and eventhough I behold my son, efflugent as fire,
 standing before me clad in the robes of an ascetic having cast off his fine garments."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -302,8 +294,6 @@ Kaikeyi; *samshritya* = who sought refuge; *nikR^itim* = in chicanery;
 
 "All these people are suffering on account of only Kaikeyi, who sought refuge in
 chincanery, with an implicit intent of selfishness"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -353,8 +343,6 @@ once; *na shashaaka ha* = he was not able; *vyaahaartum* = to speak;
 
 Having uttered these words and saying "Oh, Rama!" only once, he was not able to
 speak any more, his organs of voice being choked by tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -401,8 +389,6 @@ his eyes; *ashrupuurNaabhyaam* = filled with tears; *abraviit* = spoke; *idam*
 
 Regaining consciousness after a moment, the king, with his eyes filled with tears,
 spoke these words to Sumantra:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -450,8 +436,6 @@ territory.
 
 "You come with a chariot, fit for driving, yoked with excellent horses and take this
 highly distinguished prince beyond this territory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -502,8 +486,6 @@ is said (to be); *phalam* = the reward; *guNaanaam* = of virtues; *guNavataam*
 
 "Since a pious and a valiant son is being sent to exile by father and mother, I
 think such is said to be the reward of virtues of the virtueous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -551,8 +533,6 @@ decorated.
 
 Sumantra obeying the words of the king, walked away quickly and arrived there fitted
 with horses, a chariot duly decorated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -599,8 +579,6 @@ fitted; *parama vaajibhiH* = with superb horses.
 
 The charioteer told the prince with joined palms about that chariot decorated by
 gold, fitted wih superb horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -649,8 +627,6 @@ spoke(as follows)
 The king, who knew what should be done at a proper place and time and was clear by
 all means, quickly called an officer placed in charge of the treasury and spoke in a decisive tone
 (as follows);-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -698,8 +674,6 @@ in exile).
 
 "Quickly bring for Seetha, clothings of great worth and ornaments of high quality,
 taking into consideration all these years (that Seetha has to spend in exile)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -746,8 +720,6 @@ lot; *praayachchhat* = (and) gave; *siitaayai* = to Seetha.
 
 After thus spoken by the king, the officer went to the treasury, brought all that in
 a lot and gave to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -794,8 +766,6 @@ limbs; *vibhuushhaNaiH* = with jewels; *vichitraiH* = which were wonderful.
 
 Setting out as she was to the forest, Seetha of noble birth adorned her beautiful
 limbs with those wonderful jewels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -842,8 +812,6 @@ sun; *udyataH* = rising.
 
 Seetha, beautifully adorned as she was, illumined that palace, as the sky in a
 morning is illuminated by a rising sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -891,8 +859,6 @@ morning is illuminated by a rising sun.
 
 Embracing in her arms that princess of Mithila, who never behaved in self-pity, and
 smelling her head(as a token of affection), her mother-in-law(Kausalya) spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -940,8 +906,6 @@ this world.
 
 "Dishonest women, eventhough adored all the time by their husbands, cease to esteem
 their husband who has come to pass into evil days, throughout this world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -983,8 +947,6 @@ and even desert(their husband) praapya = on obtaining; *alpaamapi* = even the le
 
 "Having enjoyed happiness in the past, they become spoiled and even desert their
 husband, on obtaining even the least misfortune: such is the nature of (bad) women."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1032,8 +994,6 @@ moment.
 
 "Young women, who are evil-minded, are untruthful in their disposition, are affected
 by passion and their essence, incomprehensible. They get aversion within a moment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1078,8 +1038,6 @@ unstable their heart indeed.
 
 Neither a noble descent, nor an accomplishment, nor learning, nor a gift nor even
 entertainment can capture the heart of women. They are unstbale of their heart indeed!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1126,8 +1084,6 @@ the most; *pavitram* = sacred entity; *vishishhyate* = the best of all.
 
 "But, for women established in good conduct, truthfulness, sacred learning and
 mental quietness, their husband alone is the most sacred entity, the best of all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1174,8 +1130,6 @@ you; *sadhanopi vaa* = even if he is with riches or; *nirdhanaH* = without riche
 
 "My son who is being sent to the forest should not be despised by you. Even if he is
 invested with riches or without riches, let him be a deity to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1226,8 +1180,6 @@ replied; *shvashruum* = to her mother-in-law; *sthitaam* = standing;
 
 perceiving her words, endowed with essence of righteousness and joining her palms,
 Seetha replied to her mother-in-law standing in front of her, as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1275,8 +1227,6 @@ I; *me* = for me; *shrutamcha* = have also heard(about it)
 
 "I shall do just all that, as your venerable self instructs me. I know how I should
 behave towards my husband. I have also heard about it earlier."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1323,8 +1273,6 @@ behave towards my husband. I have also heard about it earlier."
 
 "Your venerable self is not worthy of equating me with evil women. I am unable to
 deviate from virtue, even as a moon from the moonlight"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1376,8 +1324,6 @@ husband; *syaadapi* = even perhaps; *shataatmajaa* = belssed with hundred childr
 "Vina (Indian lute) does not resonate without chords. Chariot does not move without
 wheels. Now can a wife bereft of her husband, even if blessed with hundred children, will not lie
 happily in comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1425,8 +1371,6 @@ bestower; *amitasya* = of unlimitedness."
 
 "A father indeed gives a limited extent, a mother in a limited measure and a son in
 moderation. Which woman, then, would not adore her husband, the bestower of unlimitedness!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1478,8 +1422,6 @@ how; *saa aham* = can I; *evam gataa* = despise(my husband?); *aarye* = Oh;
 "Having heard about the special and ordinary duties of a wife from the most
 excellent women, how can I, as such, despise my husband, Oh venerable lady? Husband is indeed a
 deity to women."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1526,8 +1468,6 @@ words; *hR^idayaNgamam* = which touched her heart; *kausalyaa* = Kausalya;
 
 Hearing Seetha's words, which touched her heart, Kausalya of pure mind suddenly
 started shedding tears born of agony and delight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1574,8 +1514,6 @@ spoke; *vaakyam* = (these) words; *taam maataram* = to that mother;
 
 Rama, the most virtuous man, joining his palms, approached and spoke these words to
 his mother, who is highly respected among all his mothers:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1625,8 +1563,6 @@ pitaram* = my father; *kshhayaH* = the end; *vanavaasasya* = of exile;
 
 "Oh, mother! You do not grieve. You look after my father. The end of exile will come
 rather soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1677,8 +1613,6 @@ _________________
 
 "Fourteen years will elapse, while you are asleep. you as such, will see me, duly
 arrived here in my entire being, surrounded by my well-wishers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1736,8 +1670,6 @@ fifty; *maataraH cha* = mothers also.
 
 Uttering the aforesaid words of such quality and appropriate meaning to his mother,
 Rama thought once again and gazed at his three hundred and fifty step-mothers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1755,8 +1687,6 @@ were in consonance with righteousness.
 Rama joined his palms and saluted those step mothers also, who were too distressed
 in the same way and spoke these words which were in consonance with the spirit of
 righteousness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1807,8 +1737,6 @@ because of our living together; *aamantrayaami* = I take leave of; *sarvaaH* = a
 
 "Please excuse me, if I have done any mistake either becuase of our living together
 or due to ignorance on my part. I now take leave of you all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1858,8 +1786,6 @@ with righteousnes; *samaahitam* = the cool submission; *raaghavasya* = of Rama.
 
 All those women, whose mind was overpowered with grief, heard the aforesaid cool
 submission of Rama, which was in consonance with righteousness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1909,8 +1835,6 @@ those; *maanavendrasya bhaaryaaNaam* = wives of Dasaratha.
 
 While Rama was speaking thus, an outery, resembling the wail of female cranes arose
 from those wives of Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 </details>
 
@@ -1965,8 +1889,6 @@ large drum and Meghas(musical instruments which sound like rumbling of clouds); 
 Dasaratha' s palace, which was earlier resounding with tomtoms, large drums and
 Meghas( musical instruments which sound like rumbling of clouds) was now filled with wails and
 cries and fallen on evil days.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

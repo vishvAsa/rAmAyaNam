@@ -17,8 +17,6 @@ Lakshmana and Vibhishana approach Rama and inform him that Indrajit's head has b
 chopped off. Rama was delighted with the news and applauds Lakshmana, by embracing him. Rama gets
 Lakshmana and others treated by Sushena. After the medical treatment by Suhena, Lakshmana becomes
 sound, active and full of joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -108,8 +106,6 @@ leaning himself upon; *vibhiiShaNan hanuumantam cha* = Vibhishana and Hanuma.
 Having offered salutation to Jambavan, Hanuma and all those monkeys, that valiant
 Lakshmana of great brilliance then quickly came from there to the place where Sugreeva and Rama
 were there, by leaning himself upon vibhishana and Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -151,8 +147,6 @@ as Lord Vamana (the younger brothre of Indra); *shakrasya* = (would stand beside
 Having offered his salutation and approached Rama, Lakshmana stood beside his
 brother, even as Lord Vamana (the younger brother of Indra) would stand beside Indra the lord of
 celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -196,8 +190,6 @@ vadham* = about the terrible destroyal; *indrajitaH* = of Indrajit.
 
 Then, the valiant Lakshmana, arriving at the great-souled Rama, told him in a
 murmering tone (as he was feeling tiresome) about the terrific destroyal of Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ had been chopped off; *mahaatmanaa lakShmaNena* = by the great-souled Lakshamna.
 
 Then, the rejoiced Vibhishana informed (in a clear tone) to Rama that Indrajit's
 head had been chopped off by the great-souled Lakshaman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -289,8 +279,6 @@ prowess; *lebhe* = obtained; *atulam* = immeasurable; *praharSham* = joy;
 
 Just on hearing the news about the killing of Indrajit by Lakshmana, Rama of great
 prowess obtained immesurable joy and spoke the following words
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ prowess obtained immesurable joy and spoke the following words
 
 "O Lakshmana! Well done! I feel gratified. An ardous act has been done. Consider it
 as our victory, through the destroyal of Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -384,8 +370,6 @@ Smelling the head of that Lakshmana, who had augmented his fame and yet who was
 feeling abashed (to hear himself being praised), forcibly drawing him to his lap and placing that
 Lakshmana his younger brother in his lap with affection, wounded as he was, that valiant Rama,
 having embraced him, tenderly gazed upon him affectionately again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -439,8 +423,6 @@ arrows that had penetrted into his body, who had been wounded, who was breathing
 endowed with auspicious characterestics, was afflicted with agony and was feeling paine dat the
 time of respiration, and hurriedly stroking him as well as restoring confidence in him, Rama the
 foremost among men spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -487,8 +469,6 @@ foremost among men spoke the following words:
 
 "An extremely noble act was performed by you, a doer of difficult things. Now, that
 his son having been killed, I account Ravana to have been killed in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -532,8 +512,6 @@ support; *mahat raNe* = in that great battle; *mahat karma* = a great feat;
 Lakshmana! Fortunately, you indeed severed the right hand of the cruel Ravana. Indrajit is indeed
 the support for that Ravana. Vibhishana and Hanuma too performed a great feat in the great
 battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -557,8 +535,6 @@ forth; *mahataa* = with a great; *balavyuuhena* = and powerful battle-array.
 "In the course of three days and nights, the valiant Indrajit was felled down
 somehow. Now, I have been made free of enemies. Hearing of his son having been struck down, Ravana
 will indeed come forth with a great and powerful battle-array."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -574,8 +550,6 @@ auspicious body marks; *rudhiraklinnagaatraH* = and with his limbs drenched in b
 
 Lakshmana, endowed with auspicious bodily marks, whose limbs were drenched in blood,
 felt rejoiced on having killed Indrajit in combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -616,8 +590,6 @@ great army; *nihaniShyaami* = I will kill him; *niryaantam* = who is coming fort
 
 "By encircling that Ravana, who is difficult to be conquered, with a great army, I
 will kill him, who is coming forth with a feeling of distress for the death of his son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -664,8 +636,6 @@ this earth; *duShpraapaa* = is hard to attain.
 
 "O Lakshmana! As that Indrajit has been killed in battle by you, who are my
 protector, neither Seetha nor this entire earth is hard to attain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -716,8 +686,6 @@ brother; *pariShvajya cha* = and having embraced him; *saH raamaH* = that Rama;
 
 Having thus consoled Lakshmana and having embraced him, that Rama who was born in
 Raghu-dynansty, was duly delighted and by calling Sushena, spoke to him the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -764,8 +732,6 @@ perfectly well; *mahaapraajJNaH* = O highly intelligent one!.
 
 "O highly intelligent one! You attend upon this wounded Lakshmana, who is fond of
 frinds, so that he will become perfectly well in health."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -849,8 +815,6 @@ Let Lakshmana along with Vibhishana be quickly made free from pain caused by the
 arrows that have penetrated into their body. Let all others too among the gallant bear and
 monkey-warriors fighting with trees who have fought on the battle-field here and stand pierced with
 arrows and owunded, be healed in the same way with great care."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -866,8 +830,6 @@ monkey-cheif; *dadau* = gave; *paramauShadham* = an excellent medicine;
 
 As commanded by Rama, the great-souled Sushena, the monkey-cheif gave an excellent
 medicine through nose to Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -908,8 +870,6 @@ his wounds got completely cured.
 
 Inhaling the odour of that herb, Lakshmana became healed of the arrow-wounds, free
 from pains and his wounds got completely cured.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -959,8 +919,6 @@ ncluding all the monkey-chiefs.
 
 As per the order of Rama, Sushena then treated his companions like Vibhishana and
 others including all the monkey-chiefs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -1008,8 +966,6 @@ having restored; *prakR^itim* = his original disposition; *mumude* = felt joyful
 
 Then, with his arrow-wounds healed, his fatigue gone and his feverishness cured
 within a moment, Lakshmana having restored his original disposition, felt joyful there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -1062,8 +1018,6 @@ valiant; *R^ikShapatishcha* = Jambavan; *sa sainyaah* = along with the army;
 
 Then, on seeing Lakshmana standing up with sound health, Rama, Sugreeva, Vibhishana
 and the valiant Jambavan along with the army were rejoiced for a long time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 
@@ -1122,8 +1076,6 @@ Indrajit; *nipaatitam* = having been killed; *yudhi* = in battle;
 
 That great-souled Rama apllauded the ardous feat of Lakshmana. Hearing of Indrajit
 having been kille din battle, Sugreeva became delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
 </details>
 

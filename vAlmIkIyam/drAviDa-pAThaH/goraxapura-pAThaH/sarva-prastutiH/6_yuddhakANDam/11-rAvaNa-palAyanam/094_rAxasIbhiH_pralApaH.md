@@ -20,8 +20,6 @@ Ravana did not heed to the appropriate advice given by Vibhishana. They further 
 perceiving bad omens and predict the annihilation of Ravana. They recollect an instance of
 celestials praying for Shiva and getting a boon that a woman (Seetha) will be born to cause the
 destruction of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -96,8 +94,6 @@ Rama, who was unweary in action, with his shining arrows adorned with pure gold,
 killed those thousands of elephants dispatched by Ravana, thousands of horses, valiant demons who
 can change their form at will mounted on thousands of chariots with their flag-staffs, having the
 colour of fire, fighting with maces and iron rods and conspicuous with their golden banners.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -145,8 +141,6 @@ Seeing and hearing about the killing of the demons, the surviving demons well
 frightened, looked sad and were overwhelmed with anxiety. They wailed when they met their wives.
 All female-demons who lost their husbands, sons and kinsfolk met at one place, stricken as they
 were with sorrow, wailed as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -190,8 +184,6 @@ _________________
 
 "How did the old and ugly Surpanakha, of sunken belly, approach, in the forest, Rama
 who is charming like the god of love?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -234,8 +226,6 @@ by people; *prakaamitaa* = was stung with excessive lust?
 "How strange that on seeing that Rama of tender youth, endowed with extraordinary
 strength and devoted to the welfare of all created beings, that ugly woman (Surpanakha) who
 deserved to be condemned by the people, was stung with excessive lust?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -278,8 +268,6 @@ beautiful face?
 "How that ugly-faced demoness, who is bereft of all virtues, dared to make love to
 Rama, who is full of virtues, endowed with great bodily strength and who possessed a charming
 countenance?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -341,8 +329,6 @@ worth ridiculing; *sarvalokagarhitam* = and condemned by the whole world.
 "Because of the ill-luck of these people, and to the destruction of demons and of
 Dushana and Khara, that grey-haired and disgusting woman, who had developed wrinkles, tried to be
 arrogant with Rama, misdeed which was worth ridiculing and condemned by the whole world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -389,8 +375,6 @@ brought; *dashagriiveNa* = by Ravana; *rakShasaa* = the demon.
 
 "For the sake of that Surpanakha, Ravana built this huge enmity. For his own
 destruction, Ravana the demon brought that Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -440,8 +424,6 @@ enmity; *baddham* = has been built.
 
 "Ravana cannot obtain Seetha, the daughter of Janaka, but an endless enmity has been
 built with the mighty Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ raameNa* = single-handed by Rama; *paryaantam* = is enough.
 
 "Seeing that instance of Rama killing single-handedly Viradha the demon, who was
 yearning for Seetha, is enough indeed (to convince Ravana of Rama's strength and ability)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -528,8 +508,6 @@ yearning for Seetha, is enough indeed (to convince Ravana of Rama's strength and
 
 "In Janasthana, Rama killed fourteen thousand demons who were doing terrific feats,
 with his arrows resembling tongues of fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -545,8 +523,6 @@ was killed; *duuShaNaH* = DushaNa; *tathaa* = and; *trishiraaH* = Trishira
 
 "In that battle, Khara, Dushana and Trishira were killed with arrows resembling the
 sun. That instance should have been sufficient (to open the eyes of Ravana)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -594,8 +570,6 @@ been sufficient.
 
 "Further, that Kabandha having arms with a length of eight miles each, with blood as
 his food and roaring with anger was killed. That instance should have been sufficient."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -642,8 +616,6 @@ celestials; *megha samkaasham* = and looking like the cloud; *tat* = that;
 
 "Rama killed the mighty Vali, the son of Indra the lord of celestials, looking like
 the black cloud. That instance should have been sufficient. (To open the eyes of Ravana)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -691,8 +663,6 @@ in Mount Rishyamuka; *bhagna manorathaH* = living with his wishes disappointed; 
 "The kingdom was restored to the miserable Sugreeva, who was residing in Mount
 Rishyamuka, living with his wishes disappointed. That instance should prove sufficient. (To open
 the eyes of Ravana)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -739,8 +709,6 @@ ignorance.
 "The appropriate advice tendered by Vibhishana which was conformable to duty and
 interest of Ravana as also beneficial to all the demons, was not to the liking to him, due to his
 ignorance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -756,8 +724,6 @@ ignorance."
 
 "Had Ravana followed Vibhishana's advice, this Lanka would not have become a burial
 ground, tormented by sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -807,8 +773,6 @@ huge-bodied; *idrajitam* = Indrajit; *priyam putram* = his beloved son;
 "Ravana is not able to learn a lesson, even after hearing that the mighty
 Kumbhakarna was killed by Rama and that unconquerable colossal-bodied Indrajit, his beloved son was
 killed by Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -857,8 +821,6 @@ been killed) mama* = my bhartaa = husband (has been killed).
 "Ravana is not able to learn a lesson, even after hearing that the mighty
 Kumbhakarna was killed by Rama and that the unconquerable colossal-bodied Indrajit, his beloved son
 was killed by Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -905,8 +867,6 @@ killed; *padaatayashchaapi* = even foot-soldiers; *hataaH* = have been killed.
 
 "The valiant Rama killed hundreds and thousands of chariots, horses and elephants in
 the battle. He killed even the foot soldiers too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -953,8 +913,6 @@ us.
 "Rama, coming in the form of either Rudra the lord of destruction or Vishnu, the
 lord of preservation, or Indra the lord of celestials who performed one hundred ritual sacrifices,
 or otherwise Yama, the Lord of Death himself, is killing us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -996,8 +954,6 @@ are lamenting.
 
 "As Rama killed all our great warriors, we are lamenting with a loss of hope in our
 lives, failing to see an end to our fear and having become helpless."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1047,8 +1003,6 @@ calamity; *samutpannam* = coming forth; *raamahastam* = from Rama's hand.
 
 "The valiant Ravana, having been gifted with great boons by Brahma, is not able to
 understand this greatly terrific calamity, coming forth from the hand of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1096,8 +1050,6 @@ attacked; *raameNa* = by Rama; *samyuge* = in combat.
 
 "Neither the celestials nor Gandharvas the celestial musicians nor the evil spirits
 nor the demons are able to protect Ravana, who is about to attack Rama in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1144,8 +1096,6 @@ Ravana; *raameNa* = by Rama.
 
 "Bad omens are appearing for Ravana, as and when his warriors are setting out for
 each combat. They are indeed telling about the prospective annihilation of Ravana by Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1196,8 +1146,6 @@ raakShasaiH* = from celestials; demons and ogres; *na yaachitam* = not sought
 Brahma, the lord of creation, gratified by the austerity of Ravana, gave protection
 to Ravana from celestials, demons and ogres. But Ravana did not seek protection from human
 beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1245,8 +1193,6 @@ doubt.
 
 "I think that such a calamity has come from that humanity only dreadfully causing an
 end to the lives for the demons and for Ravana too. There is no doubt about it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1287,8 +1233,6 @@ creation; *diiptaiH tapobhiH* = with glowing austerities.
 
 "The celestials, tormented by the mighty Ravana, because of the misuse of the boon
 bestowed on him, worshipped Brahma the lord of creation with their glowing austerities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1335,8 +1279,6 @@ celestials; *uvaacha* = spoke; *idam* = these; *mahat* = excellent;
 
 "The great-souled Brahma, duly gratified, spoke for the benefit of those celestials,
 the following words to them:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1380,8 +1322,6 @@ with fear forever; *vicharinti* = will be wandering; *shaashvatam* = always;
 
 "From today onwards, all the ogres and demons, constantly enveloped with fear, will
 be wandering always in the three worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1430,8 +1370,6 @@ of gold; silver andiron in the sky; air and earth for demons.
 "All the celestials together with Indra and others, got propitiated by Shiva the
 lord of destruction, with the ensign of a bull on his flag-staff and who destroyed the three strong
 cities built of gold, silver and iron in the sky, air and earth for demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1479,8 +1417,6 @@ demons.
 
 "The gracious Shiva spoke the following words to the celestials: 'For your benefit,
 a woman will be born, for causing destruction of the demons.'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1528,8 +1464,6 @@ earlier.
 
 "This Seetha, the destroyer of demons, employed by the celestials, will consume us
 along with Ravana, as in the past hunger consumed the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1571,8 +1505,6 @@ grief.
 
 "As a result of the bad behaviour of Ravana, the wicked demon with an evil
 disposition of mind, this terrific havoc with grief occurred."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1614,8 +1546,6 @@ protection; *naH* = to us; *loke* = in this world.
 
 "Rama is occupying us, as the Death occupies at the time of dissolution of the
 universe. We do not find any one now, who can give protection to us in this world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1665,8 +1595,6 @@ _________________
 
 "There is no refuge whatsoever for us, who stand in great danger, as indeed there is
 no shelter for female-elephants, enveloped by a wild fire in a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1713,8 +1641,6 @@ him only; *sharaNam gataH* = he sought refuge.
 
 "The great-souled Vibhishana did something opportune. He sought refuge in him alone
 from whom such a peril is perceived."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 </details>
 
@@ -1760,8 +1686,6 @@ wailed; *uchchaiH* = loudly; sudaaruNam and very severely.
 
 Then, all female-demons, embracing each other in their arms, afflicted as they were
 with grief and tormented with excessive fear, lamented thus and wept loudly and severely.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

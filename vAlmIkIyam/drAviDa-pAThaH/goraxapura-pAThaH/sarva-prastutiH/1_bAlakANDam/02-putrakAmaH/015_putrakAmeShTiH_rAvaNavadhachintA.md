@@ -20,8 +20,6 @@ in the Horse Ritual conducted by King Dasharatha. They are perturbed at the atro
 Ravana, and request Brahma to think for a way to eliminate Ravana. Vishnu arrives there and
 pacifies Brahma and other celestials with an assurance that he will incarnate as human to
 eliminate Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ to King, said.
 
 That intellectual sage and one proficient in Veda-s Rishyasringa contemplated for a while,
 and gaining indications as to which ritual is to be performed, then said the king. [1-15-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ kariSyaami* = I will conduct ritual procedurally.
 "I will procedurally conduct the ritual contained in the preamble of *atharva-veda*
 with procedural hymns, called <<em>>putra kaameSTi i.e., the ritual that bestows sons, for
 your benefit." [1-15-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ idam iSTim taam* = that son giving ritual; *praakramat* = commenced; *tejasvii*
 
 Then that resplendent Sage Rishyasringa commenced that *putrakaameSTi* ritual, offering
 oblations into sacred fire with ritual acts meticulously contained in hymns. [1-15-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ in the firmament to receive their part of the oblations. [1-15-4]
 These celestial beings having attained salvation and living in their heavenly abodes do not
 re-enter these mortal worlds. They assemble in their cosmic zone, up above the Fire Altar
 of the Vedic ritual whenever a yajna is conducted on earth, to receive oblations.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ said.
 
 Those deities who procedurally assembled there in that congregation then spoke to Brahma,
 the creator of worlds. [1-15-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -317,8 +305,6 @@ na shaknumaH* = we are unable to control him.
 
 "Oh! God, the demon named Ravana is torturing all of us with his intrepidity, as you have
 blessed him, and we are unable to control him. [1-15-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -408,8 +394,6 @@ and resides along with virtue, like the two sides of a coin. These raakshasa-s a
 extraordinary beings with extraordinary powers like god incarnates. But, with wickedness in
 their will, monstrosity in mind and a conqueror's ambition in their heart, they are rendered
 themselves as demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -460,8 +444,6 @@ southeast, 3] *yama* Death-god : South, 4] *naiR^iti* Demon-god : southwest,
 5] *varuNa* Rain-god : west, 6] *vaayu* Air-god : Northwest, 7] *kubera*
 god of wealth management : North, 8] *iishaana* god of bliss : Northeast. The governance
 of all these deities is Indra's function, since he is the presiding deity of Heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -525,8 +507,6 @@ abode in heaven, like Rahu, Ketu, and others who attain salvation in this mortal
 Ravana came from Heaven, and returns there only at the end of the war with Rama. Thus *
 a-sura-s* are not earthly demons but celestial beings of a kind like other demi-gods,
 namely *yaksha, gandharva, kinnara, kimpurusha* etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -573,8 +553,6 @@ seeing Ravana, the lord of the undulating waves, namely the ocean will not pulsa
 
 And ocean hides those undulating waves from Ravana for the waves are his wives whom Ravana
 may abduct as in the case of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -615,8 +593,6 @@ kartum arhasi* = apt of you to make an idea.
 
 "Thereby, there is a great panic for all of us from that demon with an awesome look, hence
 oh, god, it will be apt of you to give a thought for his elimination. [1-15-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -669,8 +645,6 @@ oh, god, it will be apt of you to give a thought for his elimination. [1-15-11]
 
 When all the deities spoke to Brahma thus, he thought for a while and then said "Aha! The
 idea to kill that evil-minded Ravana is discerned. [1-15-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -686,8 +660,6 @@ asmi iti* = I shall be not killable, thus; *vaak uktaa* = words, were uttered
 
 "Ravana said while seeking boon that, 'I shall not be killed by gandharva-s, yaksha-s, or
 by gods, or by other demons...' and I also said 'so be it..." [1-15-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -734,8 +706,6 @@ by gods, or by other demons...' and I also said 'so be it..." [1-15-13]
 
 "That demon did not express about humans then with his disrespect to them, and evidently his
 death does not occur otherwise." So said Brahma to gods. [1-15-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -775,8 +745,6 @@ maharSayaH* = those, gods, great sages; *sarve prahR^iSTaaH abhavan* = all becam
 
 On hearing Brahma explaining himself, then all those gods and great sages became adequately
 happy. [1-15-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -877,8 +845,6 @@ is due on earth. Hence, the sun on collecting all the merits called the rituals 
 in the form waters is coming riding on a black cloud to shower rains. Hence Vishnu and Sun
 both are ready now shower their graces. Vishnu will shower grace by eradicating the evil called
 Ravana, and the sun by showering the gratuitous and cooling rains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -918,8 +884,6 @@ Ravana, and the sun by showering the gratuitous and cooling rains.
 
 Vishnu having met Brahma stood there contemplating, and then all of the gods on bowing down
 and offering prayers addressed Vishnu. [1-15-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -993,8 +957,6 @@ which Queen Sumitra has, by which alone she magnificently and unhesitatingly adv
 Lakshmana to go along with Rama to woods. And the third, *kiirti*, the glory, and the
 glory of Kaika is well known. The position of this epic minus Kaika can be imagined, thereby
 her glory, may it be negative, that may be imagined.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1011,8 +973,6 @@ avadhyam* = not killable by gods; *raavaNam samare jahi* = Ravana be killed in w
 "Oh! Vishnu, on your taking birth as human through the wives of Dasharatha you eliminate Ravana
 in war, who has become exacerbating and thorny to all worlds, and who is otherwise not eliminable
 for gods. [1-15-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1059,8 +1019,6 @@ doggedness.
 
 "He that preposterous demon Ravana with his invigorated doggedness is torturing gods along
 with eminent saints, gandharva-s, and siddha-s. [1-15-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1109,8 +1067,6 @@ are knocked down [from heavens.]
 "He that furious one with his insolence is knocking down sages from their celestial abodes,
 and like that he is knocking down the gandharva-s and apsara celestials too from the heavenly
 gardens Nandana, where they will be taking delight. [1-15-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1151,8 +1107,6 @@ tvaam sharaNam gataaH* = thereby, [we all] we have gone in your shelter.
 
 "We the celestial beings like siddha-s, gandharva-s, yaksha-s along with sages have actually
 come for his elimination, and thereby we seek shelter in you. [1-15-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1200,8 +1154,6 @@ kuru* = make mind [give a thought.]
 "Oh, enemy tormentor, oh, Vishnu, you are the ultimate recourse for all us in eliminating
 enemies of divinity, hence you make up your mind to take birth in human world." The gods appealed
 to Vishnu that way. [1-15-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1247,8 +1199,6 @@ assemblage; *dharmasamhitaan* = abiding in righteousness; *pitaamahapurogaan*
 When the god of gods Vishnu, the supreme one among deities, one who is revered by all worlds
 is eulogised this way, then he spoke to all of those celestials that abide in the righteousness
 and that are in the assemblage, keeping the Forefather Brahma at their helm. [1-15-26a, 27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1324,8 +1274,6 @@ who became dreadful to deities and sages, along with his sons, grandsons, friend
 and relatives, ministers and forces too in war for your welfare, I will then reside in human
 world ruling this earth for eleven thousand years." Thus Vishnu assured the gods. [1-15-28,
 29, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1375,8 +1323,6 @@ point].
 
 On giving boon to all gods in that way the kind-hearted god Vishnu started to think about
 the instituting base for his birth in human world. [1-15-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1429,8 +1375,6 @@ cannot be reckoned as his incarnation as they become parts of the whole but not 
 'whole' itself he did not divide himself on the other account. And the tradition believes
 that Vishnu did not divide himself but incarnated in one piece, where his brothers are his
 paraphernalia. There is no unanimity on this, as yet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1482,8 +1426,6 @@ with prayers of divine exposition. [1-15-32b, c]
 
 Vishnu in early times killed a ghastly demon called Madhu and his brother Kaitabha, hence
 He is also called Madhusuudana. This is one the thousand names of Vishnu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1541,8 +1483,6 @@ eliminate that Ravana [give final emancipation, deliver him from curse].
 that Ravana is uprising furiously with his heightened arrogance, and he has become a thorn in the
 side of hermits hence he is a fright to sages, afor he tortures insubordinates to the the extent of
 loud wailing; hence we pray you to eliminate that Ravana." [1-15-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 </details>
 
@@ -1599,8 +1539,6 @@ which is] rid of flaws and blemishes; *swarlokam aagacCha* = [your] heavenly, ab
 neutralise the pandemonium created by him in all the worlds, and for a long time to come you
 get rid of your febrility, and you please return to your heavenly abode, namely your blameless
 and faultless Vaikuntha. [1-15-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

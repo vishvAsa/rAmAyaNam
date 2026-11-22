@@ -17,8 +17,6 @@ IV : Kishkindha Kanda - The Empire of Holy Monkeys**
 Sampaati narrates his legend to Angada and others. He explains how he has fallen on
 Mt. Vindhya and how he reached a sage called Nishaakara descending Mt. Vindhya with great
 difficulty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ over, surrounding him; *ramye girau upaviSTaaH* = on beautiful, mountain, they s
 Then the monkey commanders sat on that beautiful mountain surrounding the eagle from
 all over, after that eagle has offered water-oblations for his deceased Jataayu and bathed for
 purification. [4-60-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ pratyayaH* = who caused, trust [trustworthy Sampaati]; *sampaatiH* = Sampaati;
 
 Sampaati who earned trustworthiness of monkeys, and who is sitting surrounded by all
 monkeys, again gladly spoke to Angada who sat at his close by. [4-60-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ you listen.
 
 "Oh, monkeys, you all be quiet and listen to my words alertly as I wish to recount
 the actuality as to how I came to know about Maithili... [4-60-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ was
 
 "Oh, impeccable Angada, once I have fallen on the peak of this Mt. Vindhya when
 sunrays completely burned my wings and limbs scorching in sun's heat... [4-60-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ control [helpless]; *sarvaaH dishaH viikSamaaNaH* = in all, directions, on looki
 
 "On getting sensitivity after six days, and on looking in all directions I could not
 recognise anything in the least, as I was helpless and frantic... [4-60-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -316,8 +304,6 @@ senses, came [I could sensate.]
 
 "But then on observing all the oceans, mountains, rivers, lakes, provinces and
 forests, I could regain senses... [4-60-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ this one is this mountain is; *dakSiNasya udadheH tire* = southerly, ocean's, at
 "Since this mountain is teeming with teams of birds, caves in its midriffs, and it
 is with peaks of its own kind, thus I resolved this to be Mt. Vindhya at the coast of southern
 ocean... [4-60-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -413,8 +397,6 @@ intense, ascesis; *R^iSiH abhavat* = a sage, was there.
 
 "There was a sacred hermitage belonging to a sage of intense ascesis known as Sage
 Nishaakara which was reverenced even by gods. [4-60-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -462,8 +444,6 @@ thousand years; *[gatau* = lapsed.]
 
 "Eight thousand years have lapsed while I was living here on this mountain after the
 departure of that probity knowing sage Nishakara to heaven. [4-60-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -516,8 +496,6 @@ onerously and slowly, whereat the sacred-grass-blades are thorny... [4-60-10]
 
 The grass blades became thorny because sages nipped their apices and they dried
 up and became thorny for a wingless eagle perching almost on its belly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -564,8 +542,6 @@ thus; *bahushaH abhigataH hi* = many times, [he was] approached, indeed.
 
 "As I was desiring to see that sage I neared that place with much anguish, because I
 and Jataayu approached that sage for many a time in earlier times... [4-60-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -615,8 +591,6 @@ vaa* = without, fruits, either; *na* = is not seen.
 
 "Near about his hermitage wind wiffles with a sweet-smell, and no tree is flowerless
 and no tree is fruitless, whatsoever it is... [4-60-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -664,8 +638,6 @@ present] I awaited.
 
 "On nearing that sacred hermitage and sheltering myself at the base of a tree, I
 waited there desirous to see that godly Nishaakara... [4-60-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -716,8 +688,6 @@ am seeing - I saw.
 
 "Then I saw the sage available distantly, returning facing north after performing
 his holy bath, an unassailable sage irradiating the ambience with his radiance... [4-60-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -768,8 +738,6 @@ gacChanti* = at heel, they are going - following him.
 
 "Bears, antelopes, tigers, lions, and diverse reptiles and snakes are following him
 at his heel, as with living beings following a donor, or all-donating Brahma... [4-60-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -818,8 +786,6 @@ those, beings [animals etc.,] went away.
 "As to how the ministerial and military staff retrace steps when a king enters his
 place-chambers, so also the animals and other beings on knowing the sage's entry into his
 hermitage, retraced their steps and went away... [4-60-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -867,8 +833,6 @@ of my coming,] he asked about.
 
 "But the sage is gladdened on seeing me and though he has entered into his hermitage
 he again came out in a moment and asked about the objective of my visit... [4-60-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -916,8 +880,6 @@ being identified [you are]; *imau pakSau agni dagdhau* = these two, wings, by fi
 " 'On seeing the deformity of your feathers, oh, gentle Sampaati, you
 unidentifiable. These two wings of yours are fire burnt, but lives are let out in your body...'
 Thus, the sage started to talk to me... [4-60-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -959,8 +921,6 @@ similar to; *kaama ruupiNau* = by wish, form-changers - this is an inconsistent 
 
 " 'I have earlier seen you two eagle brothers, kingly eagles among eagles, similar
 in your speed to Wind-god and form-changers by your wish... [4-60-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -1008,8 +968,6 @@ feet.
 
 " 'You are the elder, isn't it! And Jataayu is your younger brother. You used to
 touch my feet taking up human forms... [4-60-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 </details>
 
@@ -1061,8 +1019,6 @@ tell.
 "Is this falling of wings a result of any illness, if so what is it... or is this
 any scourge imposed on you, if so, who is he... tell me all who am inquiring into those details...
 [4-60-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhasans60.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

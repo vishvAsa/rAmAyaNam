@@ -19,8 +19,6 @@ sainted lady who safeguards the paradisaical creation of a demon named Maya. May
 as a heaven on earth, for which the infuriated Indra eliminated Maya. Hema, an apsara,
 nymphal-virtuoso accords this fantastic creation to Swayamprabha. Swayamprabha offers hospitality
 to all the monkeys who entered that cave.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ caariNiim* = sainted lady, in probity, conducting herself.
 
 Thus, Hanuma on saying therein [that subject,] again spoke to that most reverential
 and sainted lady who is dressed in black deerskin and conducting herself in probity. [4-51-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -135,8 +131,6 @@ overawed, also, anywise.
 
 "Overtired with hunger and thirst we are overawed anywise, and we suddenly entered
 this cavity, which is overspread with darkness..." [Thus Hanuma is speaking to her.] [4-51-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -158,8 +152,6 @@ these diverse and marvellous mansions we are verily amazed [presuming that this 
 some demon,] and we are agitated [in not knowing dos and don'ts,] and agonised [at our
 incarceration...] whose trees are all these golden ones, splendent like young sun... [4-51-3,
 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ god [golden,] ventilators; *maNi jaala aavR^itaani ca* = jewelly, laces, overspr
 
 "The edibles, tubers, and fruits are all depurated... golden are the aircrafts...
 mansions silvern... ventilators golden and encased in jewelly laces... [4-51-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -232,8 +222,6 @@ paadapaaH* = these, completely golden, trees; *kasya tejasaa* = by whose, splend
 
 "Flowered and fruited and also aromatically scented are these auspicious and
 completely golden trees... by whose splendour [they are rendered thus?] [4-51-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -290,8 +278,6 @@ also, are golden; *dR^ishyante saha kacChapaiH* = ostensibly, with, tortoises.
 
 "Also how the lotuses born in limpid water are golden, and how the fishes along with
 tortoises are ostensibly golden? [4-51-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -308,8 +294,6 @@ arhasi* = all of it, to narrate, apt of you.
 "Or, is all this owing to the innate prodigy of yours or to whose ascesis' prowess
 all this is owed... as all of us are oblivious of it, so it will be apt of you to narrate all of
 it..." [Thus Hanuma requested that sainted lady.] [4-51-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -356,8 +340,6 @@ beings, in well-being, blissful one.
 
 Thus when Hanuma addressed her, that sainted lady, and a blissful one in the well
 being of all the beings, she replied Hanuma. [4-51-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -409,8 +391,6 @@ golden, woodland.
 "A marvellous fantasist by name Maya was there, a bullish demon of wizardry and by
 him with his phenomenal expertise all this golden woodland is constructed..." [Thus, that sainted
 lady started her narration.] [4-51-10b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -457,8 +437,6 @@ constructed, mansion, superb.
 
 "Once he was the Universal Craftsman to the lords of demons by whom this divinely
 golden and superb mansion was constructed... [4-51-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -528,8 +506,6 @@ to demons from out of thin air, gods must also be bestowing riches on them, as g
 function than this. Hence, this demon Maya, being a demon, wanted to loot the wealth of his own
 demon-priest Shukraacaarya, viz., the Architectural Engineering. And Brahma granted it, as a
 crosswise benefit to gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -576,8 +552,6 @@ mahaavane* = time, some, in this, great, forest.
 
 "That dynamic one methodised everything and then resided comfortably in this great
 forest for some time, privileged with all his wishes... [4-51-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -626,8 +600,6 @@ destroyer, namely Indra.
 "Indra, the Administrator of Worlds and destroyer of enemy citadels, on taking His
 Thunderbolt eliminated Maya, when that eminent demon was engaged with an apsara, a paradisiacal
 nymph, called Hema... [4-51-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -677,8 +649,6 @@ hiraNmayam* = mansion, also, this one, golden.
 
 "This marvellous woodland, these everlasting wish-fulfillers, and this golden
 mansion, are beneficed by Brahma for Hema... [4-51-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -725,8 +695,6 @@ vaanarottama* = of Hema, oh, best monkey.
 
 "I am the daughter of Merusaavarni, oh, best monkey, named Swayamprabha and I am
 safeguarding this mansion of her, [that apsara] Hema... [4-51-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -794,8 +762,6 @@ departed to Brahma's abode, bequeathing this mansion to Swayamprabha. From then 
 *brahma loka* 'Brahma's abode...' as said at: *ghR^itaaciim atha vishvaaciim.... naaga
 datam ca hemaam ca...* in Ayodhya part II, Ch. 91, verse 17. When Sage Bharadwaja gave
 hospitality to Bharata, that sage says this.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -842,8 +808,6 @@ you all, is seen [discovered.]
 
 "What is your effort or for what reason you came to pass this impervious forest, and
 how you all have discovered this impassable forest... [4-51-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 </details>
 
@@ -891,8 +855,6 @@ about all, to me, to say [inform,] apt of you.
 "Dine on these wholesome edibles, fruits and tubers, also on drinking soft drinks,
 it is apt of you to inform me all about [your mission..." Thus Swayamprabha gave hospitality to the
 monkeys.] [4-51-19b, 19c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

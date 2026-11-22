@@ -19,8 +19,6 @@ the rectitude of Vishvamitra, which Vishvamitra gained through a series of self-
 exploits, when he was a great king at one time. Shataananda finds worth in informing
 the biography of Vishvamitra to Rama, because too much of overbearing of kings,
 as has been done by Vishvamitra, will be unbecoming for kings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -100,8 +98,6 @@ On hearing that sentence of that intellectual sage Vishvamitra, the highly reful
 and the great ascetic Shataananda is overjoyed, and Sage Shataananda, the eldest
 son of Sage Gautama, and whose radiance is brightened by his own ascesis is highly
 amazed just on seeing Rama. [1-51-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -150,8 +146,6 @@ sons [princes] ; *munishreSTham vishvaamitram abraviit*
 On raptly observing those two princes who are sitting comfortably with their heads
 bending down submissively, then Shataananda spoke to the eminent sage Vishvamitra.
 [1-51-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -192,8 +186,6 @@ upaagataa* = came near [who meted out] marathon ascesis; *yashasvinii*
 
 Oh, tigerly saint Vishvamitra, you have revealed my glorious mother Ahalya who
 meted out a marathon ascesis to the princes - Really! [1-51-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -242,8 +234,6 @@ in Rama - in respect of Rama; *vanyaiH* = with forest produce
 
 And the highly resplendent and celebrated mother of mine worshipped Rama, who is
 worthy of worship by every corporeal being, with forest produce, is it so! [1-51-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -290,8 +280,6 @@ subjected to; *puraatanam* = anciently - happened episode; *yathaavR^ittam*
 
 Oh, great-resplendent Vishvamitra, you have narrated to Rama about the maltreatment
 of my mother by the Providence as has happened anciently, isn't it![1-51-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -339,8 +327,6 @@ reunited with.
 
 Oh, the best sage Kaushika, you be safe, my mother is reunited with my father on
 beholding and giving hospitality to Rama - Really! [1-51-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -385,8 +371,6 @@ resplendent father of mine worshipped Rama because the redemption of my mother i
 per the kindness of Rama! Has this great-souled Rama reverenced that great resplendent
 father of mine by according a redemption, ahalyaa-daana,
 the endowment of Ahalya to her husband. [1-51-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -438,8 +422,6 @@ _________________
 "Oh, Kaushika, on his arrival at my mother's place whether this reverential Rama
 reverenced my father with a pacified heart without becoming contumelious!" Thus
 sage Shataananda exclaimed at the marvel occurred through Rama. [1-51-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -489,8 +471,6 @@ to sentence, to precisionist, to Shataananda; *pratyuvaaca* = spoke in reply.
 
 On hearing that sentence of his, that great-saint and sentence-precisian Sage Vishvamitra,
 replied the sentence-precisionist Sage Shataananda. [1-51-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -544,8 +524,6 @@ occasion, Jamadagni, orders his son Parashu Rama to behead her, i.e., Renuka, Pa
 Rama's own mother and Parashu Rama unhesitatingly carries out his father's orders.
 Thus, Parashu Rama is called Bhaargava Rama, with an axe as his unsurpassed weapon.
 This Parashu Rama confronts Rama of Ramayana after Seetha's marriage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -586,8 +564,6 @@ shataanandaH* = of high refulgence, Shataananda; *raamam vacanam abraviit*
 
 On hearing those words of that highly intellectual Vishvamitra, high refulgent sage
 Shataananda spoke these words to Rama. [1-51-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -642,8 +618,6 @@ who this Rama is. Further, when such and such a sage spearheads Rama, Rama ought
 to know something about the background of his steersman, namely Vishvamitra, basing
 on which Rama can learn his own lessons. As such, next few chapters are catered
 to the legend of Vishvamitra through Shataananda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -701,8 +675,6 @@ to say more. Hence, the meaning is said on taking *vedmya* 'you should know
 some more...' would be better. Because Vishvamitra is a *paramahitasandhaayaka*
 'a do-gooder for universal peace' as indicated by his name itself, *vishva*
 'of universe...' *mitra* 'friend, 'friend of universe...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -744,8 +716,6 @@ taptam* = by whom, supreme, ascesis, practised; such a sage; *kushikaputraH*
 
 None other than you is fortunate enough on earth, oh, Rama, as you are in the custodial
 care of Vishvamitra, the scion of Kushika, who has practised supreme ascesis. [1-51-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ how; *abhidhaasyaami* = I will narrate; *tat me nigadataH shR^iNu*
 
 What is the prowess of the great-souled Vishvamitra, and what the quintessence
 of his legend may be heard from me while I narrate it. [1-51-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -841,8 +809,6 @@ king.
 This probity-souled Vishvamitra, being a proficient in rectitude, a perfectionist
 in kingcraft, a proponent of people's welfare, more so a persecutor of enemies,
 was there as a king for a long time. [1-51-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -883,8 +849,6 @@ balavaan* = powerful one; *sudhaarmikaH* = verily righteous one;
 
 There was a king named Kusha, a brainchild of Prjaapati, and Kusha's son was the
 powerful and verily righteous Kushanaabha. [1-51-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -925,8 +889,6 @@ great-saint, Vishvamitra; *gaadheH putraH* = Gaadhi's, son.
 
 One who is highly renowned by the name Gaadhi was the son of Kushanaabha, and Gaadhi's
 son is this great-saint of great resplendence, Vishvamitra. [1-51-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -973,8 +935,6 @@ son is this great-saint of great resplendence, Vishvamitra. [1-51-19]
 
 Vishvamitra ruled the earth, and this great-resplendent king ruled the kingdom
 for many thousands of years. [1-51-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -1020,8 +980,6 @@ a unit of akshauhini army. [1-51-21]
 
 The army unit called *akshauhini* consists of 21,870 elephants, as many chariots,
 65,610 cavalry, and 1,09,350 foot soldiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 </details>
 
@@ -1185,8 +1143,6 @@ in meditations and oblations into Ritual-fire, and with such sages and their act
 whole of the perimeter of that hermitage is brightened and rendered splendent, and
 king Vishvamitra arrived at such a magnificent hermitage of Sage Vashishta. [1-51-22,
 23, 24, 2125, 26, 27, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1204,8 +1160,6 @@ seen.
 "And this best one among vanquishers and the great-stalwart Vishvamitra has then
 seen the hermitage of Vashishta which is like the worldly Universe of Brahma." Thus
 Sage Shataananda continued his narration. [1-51-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ Rama explains to dying Vali as to why he gave such a punishment. Rama categorica
 question put by Vali in the last chapter from the viewpoint of scriptures that lay down principle for
 *sanaatana dharma*, eternal tradition, as well as *raaja dharma*, king's duty. Vali finally
 concludes that there is someone superior to him and thus seeks refuge in Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -86,8 +84,6 @@ uktaH* = thus, [Rama,] was addressed [by Vali.]
 
 Thus, Vali who is hit down by arrow and who is collapsing humbly spoke exacting words that contained
 probity, meaningfulness, and expedience, to Rama. [4-18-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -117,8 +113,6 @@ confronting me...' and the meaningfulness in the words like 'a quarrel comes whe
 the cause, I should have brought Ravana without bloodshed, I would have brought Maithili and presented
 before your....' etc. But these words are with the death time wisdom of Vali, and they become parroted
 saying but cannot be practical with the kind of righteousness followed by Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ rebuking.
 
 "Uncaring for probity, prosperity, pleasure deriving, and even for the social conventions, now how do
 you rebuke me childishly in this matter? [4-18-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ gentle one; *[or saumyam maam* = gentle, me]; *maam* = with me; *vaanara caapaly
 "Unconsulted are the doyens of your race that are intellectually well off and agreeable to your mentors
 about rights and wrongs about your deeds, oh, gentle one, how do you wish to debate with me in this
 matter with your primate's caprice. [4-18-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -273,8 +263,6 @@ the animals, birds, and humans on it belongs to Ikshvaku-s. [4-18-6]
 
 Vali's question No. 4] 'I have not done any misdeed either in your country or city...' is answered in
 this, "when entire earth belongs to us where is the question of a city or a particular country?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -322,8 +310,6 @@ knower of; *nigraha anugrahe rataH* = in controlling, in condoning, concerned in
 "He who is virtue-souled, truth-abiding, plain-speaking, and the knower of the import of probity, pleasures,
 and prosperity, and the one who is concerned in controlling or condoning his subjects, that Bharata
 is the ruler of earth. [4-18-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ kaala vit raajaa* = he is, place, time, knower, king.
 
 "In whom both scrupulousness and benignancy are there, truthfulness is firmed up, and valour as evinced
 by scriptures is evident, and he who is the knower of time and place is the king, namely Bharata. [4-18-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -433,8 +417,6 @@ bhava svayam naraaNaam | vanyaanaam aham api raaja raaNmR^igaaNaam |* Ayodhya Ka
 'Bharata, you become the king of humans, and I shall be the king of forest-beings...' Thus, taking responsibility
 on his own shoulders, in his own duty as a Kshatriya to keep up dharma, Rama is trekking forests. Some
 'other kings' roaming like this are not detailed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -484,8 +466,6 @@ ruling; *kaH* = who; *dharma vi priyam* = to morality, un, acceptable [way]; *ch
 
 "While that Bharata, the kingly-tiger and a patron of virtue, is ruling the earth in its entirety, who
 is there to conduct himself in an unacceptable way to morality on it? [4-18-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ _________________
 
 "Abiding in our own pre-eminent righteousness, and even abiding by the order of Bharata we punish him
 who deviated from the path of morality, according to custom. [4-18-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -592,8 +570,6 @@ conduct meetly to a king. [4-18-12]
 
 Vali's question 5. 'Non-guilty being is hurt...' is answered: 'your only guilt is that you have not
 abided by conduct a king should have...' The nature of that guilt is narrated in next verses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -640,8 +616,6 @@ be known.
 
 "It is to be known by him who treads the way of righteousness that he has three fatherly personages,
 namely his own father, his elder brother, and the one who accords education to him. [4-18-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -689,8 +663,6 @@ vat* = one's, own, son like; *cintyaa* = are to be deemed; *atra dharmaH caiva k
 
 "An younger brother, a son, and a disciple with good characteristics, these three are to be deemed as
 one's own sons, for such matters take base on rectitude alone. [4-18-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -743,8 +715,6 @@ abides in the hearts of all beings alone can differentiate between just and unju
 In another way the above is: 'I am that Supreme Soul residing in the hearts of all beings. So I alone
 will decide what is right and what is wrong...' Vali's question 8 is taken up. 'Your primary aspiration
 is to kill without probing into good or bad...' is answered saying that 'I am the decider...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -792,8 +762,6 @@ and unjust,] really, what?
 
 "Like a blind by birth counselling with similarly blind, you being a vacillant, on your counselling
 only with frantic minded vacillant monkeys, what can you really fathom about right and wrong? [4-18-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -843,8 +811,6 @@ indeed.
 
 "I will clarify about the words I have said, but I tell you that it is indeed inapt of you to disdain
 me just out of your outrage. [4-18-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -896,8 +862,6 @@ the perpetual tradition. [4-18-18]
 
 With this one and only reason Rama suffices all the thirteen questions of Vali, as summarised in endnote
 of last chapter. Beyond this Rama also answers other paltry questions, later.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -944,8 +908,6 @@ Vali being a king, he committed incest transgressing tradition. *vaalii taavat s
 dharmaati kramam kR^itavaan | dharma duuShakaH ca raajaa avashyam daNDaniiyaH | dharmaakuutam*This
 is the very fault found by Rama when expressing *'vaalii caaritra duuSakaH* 'abuser of history/tradition...'
 in Kishkindha, 4-10-33.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -999,8 +961,6 @@ brother's wife, thereby for your transgression of tradition and virtue. [4-18-20
 
 Vali's question 10, 'inveterate killers are hell-goers...' is replied, 'killing a sinner is no sin and
 no hell is ensuing thereby...' is the reply, establishing Vali's sin.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1060,8 +1020,6 @@ Then, why should I waste that much of political manoeuvre in your regard? Thus y
 Vali may counter Rama in asking for a lesser punishment than killing, like exiling etc., which he has
 given to Sugreeva. For this Rama is ready to say that no other punishment is evident than the one said
 by Manu: *sapiNDaapatya daareShu (retaH siktvaa) praaNa tyaago vidhiiyate - - manu smR^iti*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1115,8 +1073,6 @@ scriptures, specified.]
 "As a Kshatriya emerged from a best dynasty I do not tolerate your wrongdoing, and the punishment to
 the one who lustfully indulges with his daughter, or with his sister, or with the wife of his younger
 brother is his elimination, as recalled from scriptures. [4-18-22, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1167,8 +1123,6 @@ possible.
 
 While Bharata is the lord of land and we are his proxies adhering to his orders, and while you too have
 overstepped the bounds of rightness, then how is it possible to be lenient? [4-18-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1210,8 +1164,6 @@ for.
 
 "While ruling righteously sensible Bharata punishes him who oversteps the momentous virtue, and he is
 poised to put down lustful ones. [4-18-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1262,8 +1214,6 @@ _________________
 
 "As for us, oh, monkey's lord, we effectuate our brother's orders and our duty, and we stand for curbing
 your kind of shatterers of ethics. [4-18-25b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1339,8 +1289,6 @@ whole of monkey force will be with Vali, and these few warriors will be routed d
 all, Rama has promised Sugreeva to eliminate Vali, the abuser of tradition, and Rama becomes blameworthy
 if he fails in his word. Hence the simplest formula 'enemy's friend is my enemy too...' works well and
 Rama followed that only.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1362,8 +1310,6 @@ it possible for my kind to dishonour a given promise? [4-18-27]
 In Aranya Kanda he tells Seetha, that he even leaves his life than to feign his promise. *api aham
 jiivitam jahyaam tvaam vaa siite sa lakSmaNaam ||* 4-10-18. Hence there is no question of his going
 back on the word given to them that crave for his mercy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1410,8 +1356,6 @@ yat shaasanam* = to you, which, punishment; *yuktam* = befitting; *tat bhavaan a
 
 "Thereby you have to infer that a befitting punishment is given to you, owing to all these great reasons
 that abound with virtue and with supreme value. [4-18-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1458,8 +1402,6 @@ it; *vayasyasya upakartavyam eva* = to a friend, has to render assistance, alone
 
 "Anywise, you have to regard the punishment given to you is legitimate, and he whom rectitude guides
 has to render assistance to his friend, in any event. [4-18-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1514,8 +1456,6 @@ caritam* = by me, that [way,] likewise, done - I have conducted myself.
 we hear two verses that are given to the advocacy of good conventions, which the experts of rightness
 have also accepted, and which are said to be coined by Manu, and I too conducted myself only as detailed
 in those verses of law. [4-18-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1575,8 +1515,6 @@ heaven, they come.
 
 " 'When kings impose proper punishment on the humans who have sinned, they become sinless and enter
 heaven as with the pious souls with good deeds.' So says one verse of Manu. [4-18-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1592,8 +1530,6 @@ he derives.
 
 " 'Either by punishment or by clemency a thief will be absolved from sin, but the king who does not
 impose proper punishment will derive the blot of that sin.' So says the other verse of Manu. [4-18-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>Misc Detail</summary>
@@ -1662,8 +1598,6 @@ called *yati*. Because he is religious person is he to let off; a religious pers
 is doubly punishable; are the problems of Maandhaata. This word *shramaNa* yati, need not be
 equated with a Buddhist monk, for they also have same titles, and Maandhaata is said to have existed
 long before Buddha's era.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1718,8 +1652,6 @@ The kings who are otherwise busy may not hanker after thieves and sinners always
 of each and every individual's behaviour. So the kings used to make amends at appropriate time. It is
 up to the individual to comport properly or improperly. An offender may escape hundred offences, but
 if caught once, he has to pay for all his wrongdoings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1775,8 +1707,6 @@ not acted on my own, but bound by scriptures and precedents...'
 - manu smR^iti 9-249-*'How much sin is acquired by executing a murderer, that much sin is acquired
 by executing a non-murderer...' which again is somewhat similar to the present day saying, 'let hundred
 criminals go unpunished, but let no innocent be punished.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1823,8 +1753,6 @@ will not be infuriated.
 
 "Oh, brave and best one among monkeys, further listen to another cause, and on listening that important
 cause you will not be infuriated. [4-18-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1881,8 +1809,6 @@ by Tara, and the other their daily routines of Veda-s. But Vali takes a U-turn d
 animal and asks: 6] Why fruits, tubers eating being is killed; 11] Un-wearable is my skin uneatable
 is my flesh; 12] Five kinds of five-nailed animals are usable by humans...' Rama started to tell how
 humans deal with animals, should Vali declare himself an animal, if not a specific Vedic-being.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -1926,8 +1852,6 @@ blame [sacrilege,] not, evident.
 "Meat eating people will undeniably kill animals, either they are speedily sprinting or standing steadily,
 fully dismayed or undismayed, vigilant or unvigilant, and even if they are facing away, in that there
 is no sacrilege. [4-18-38b, 39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2002,8 +1926,6 @@ into Rama's mouth. Rama with all solemn ceremony, has made a league of alliance 
 brother whom he regards as a dear friend and almost as an equal, and now he winds up his reasons for
 killing Vali by coolly saying: 'Besides you are only a monkey, you know, after all, and as such I have
 every right to kill you how, when, and where I like.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2043,8 +1965,6 @@ lifestyles, also; *pra daataaraH* = are bounteous, benefactors; *na samshayaH* =
 
 "Kings are the bounteous benefactors of the unobtainable righteousness and propitious lifestyles, oh,
 best vanara, no doubt about it. [4-18-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2096,8 +2016,6 @@ to them; *ete devaaH* = these, divinities [the kings]; *maanuSa ruupeNa* = in hu
 "They the kings are not to be harmed, also not to be reproved, not disparaged and nothing displeasing
 is spoken to them, as they are the divinities conducting themselves in human form on the plane of earth.
 [4-18-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2178,8 +2096,6 @@ to Rama, as the killing of a refugee is not a merited act, Rama has to pardon Va
 refuse or not, killing Vali on that day itself, and establishing Sugreeva in Kishkindha are the promises
 made by Rama, at the time of befriending Sugreeva. The word given is to be kept up. So Rama did it and
 there is no unrighteous deed done by Rama. And Vali also accepts this in the coming stanzas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2238,8 +2154,6 @@ ca dharmo'dhigataniscaya iti visheSheNa puurva kR^itam akhilam api raama duuShaN
 eva | itaH param vakShyamaaNam akhilam dharmyam eva vadati iti avagatam : dharmaakuutam-*Whatever
 spoken by Vali earlier is without proper knowledge of dharma, and whatever said hereafter is in conformity
 with righteousness [owing to the dawn of death-time wisdom.] Dharmaakuutam.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2287,8 +2201,6 @@ only - proper; *atra samshayaH na* = in that, doubt, is not there.
 
 That lord of vanara-s then replied Rama with adjoined palms, "oh, best one among men, what all you have
 said is that way proper, undoubtedly. [4-18-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2356,8 +2268,6 @@ not, apt of you.
 "Indeed an ignoble cannot disprove a nobleman, Raghava, and with regards to the undesirable and improper
 words I have unwittingly spoken earlier, in that mater too it will be truly unapt of you to make me
 blameworthy, as I spoke them in anguish and ignorance. [4-18-46, 47a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2375,8 +2285,6 @@ in accomplishment; *prasannaa* = serene, clear.
 and emancipation; *dharma, artha, kaama, moksha* ; and you take delight
 in the welfare of subjects, and your faultless intellect is clear in accomplishing ends by judging the
 causes and effects. [4-18-47b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2424,8 +2332,6 @@ with, words; *paripaalaya* = command me - care for me, give me absolution.
 "Oh, Rama, the knower of probity, I am the one who digressed from the rightness and a forerunner among
 such transgressors, such as I am, give absolution even to me with words abounded with rightness." Vali
 is thus saying to Rama. [4-18-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2472,8 +2378,6 @@ is thus saying to Rama. [4-18-48]
 
 Vali who like an elephant plumped in slough continued to say slowly, with tears fully impeding his throat
 and with an agonised moan, on keenly observing Rama. [4-18-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2520,8 +2424,6 @@ api na* = about relative, even, no.
 
 "Also, I neither worry for myself, nor for Tara, nor even for any relatives of mine, as I do for my
 son Angada, the best-virtuous one with golden bicep-lets. [4-18-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2569,8 +2471,6 @@ gets into.
 
 "Right from his childhood I fondly looked after Angada, and he will be dejected when he sees me no more,
 and he withers away like a lake with its water drained for a drink. [4-18-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2617,8 +2517,6 @@ also, not, made-up, mind [juvenile]; *me priyaH eka putraH ca* = to me, dear, on
 
 "He is boyish, juvenile, and the only dear son of mine, oh, Rama, as such that great-mighty son of Tara
 needs your protection. [4-18-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2667,8 +2565,6 @@ also.
 
 "You have firm convictions about practicable and impracticable procedures, and you alone are the protector
 of the good and punisher of the bad, hence treat both Sugreeva and Angada with equal compassion. [4-18-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2715,8 +2611,6 @@ of the good and punisher of the bad, hence treat both Sugreeva and Angada with e
 
 "Oh, lord of men, it will be apt of you to show the same kind of outlook towards Sugreeva, oh, king,
 even towards Angada, which you have for Bharata and Lakshmana. [4-18-54]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2764,8 +2658,6 @@ even towards Angada, which you have for Bharata and Lakshmana. [4-18-54]
 "The fault occurring from my fault of maltreating Sugreeva may not light upon that self-reproachful
 Tara, and it will be apt of you to see that Sugreeva will not look down on her treating her as the wife
 his rival. [4-18-55]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2817,8 +2709,6 @@ to achieve, also.
 "When you indeed approve someone, he is capable enough to govern the kingdom, abiding himself under
 your control and following your heart, why a kingdom, he can rule the earth, why earth, he can even
 achieve the heaven itself. [4-18-56, 57a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -2902,8 +2792,6 @@ Rama, he wanted to defeat that unknown Rama, along with suppressing Sugreeva's t
 Tara that he is not going to kill Sugreeva, but wanted to take him to task. On coming to field Rama
 is not evident. Then Vali wanted to see to Sugreeva first and then search for Rama. But what happened
 is the reverse of it. Perhaps gorilla war tactics started from this point onwards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2925,8 +2813,6 @@ and; *dharma tatva artdha yuktayaa* = probity's, essence, meaning, containing; *
 Rama consoled Vali with words that are agreeable to savants and that contain the essence and meaning
 of rightness, while Vali is with an evincible perspective of righteousness by now. And Rama spoke to
 Vali this way. [4-18-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2947,8 +2833,6 @@ a decision.
 we take care of them... nor you should bother about us thinking that we have arbitrarily eliminated
 you, nor necessarily bother about yourself for committing sins, as we took this decision according to
 rightness and considerateness in your respect. [4-18-60]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -3000,8 +2884,6 @@ get condemned.
 "He who administers punishment to the punishable, and he who is punishable and gets punished, both of
 them will achieve the results of cause and effect, where punishment is the effect from the cause of
 wrongdoing, and they both thereby will not be condemned. [4-18-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -3054,8 +2936,6 @@ own, nature, you got into - obtained.
 "Thereby, by virtue of the punishment you are completely divested of your blemish, and as contained
 in the scriptures on rightness you attained your true nature, that which is agreeable to rightness.
 [4-18-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -3102,8 +2982,6 @@ in the scriptures on rightness you attained your true nature, that which is agre
 
 "Let distress, desire and even dread that abide in your heart be discarded, oh, monkey's supreme, you
 cannot possibly transcend destiny. [4-18-63]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -3150,8 +3028,6 @@ me, even with; *tathaa nityam varteta* = likewise, always, he will conduct himse
 
 "As Angada has always been conducting himself with you, thus he will conduct himself with Sugreeva and
 also even with me, without doubt." Thus Rama spoke to Vali. [4-18-64]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -3212,8 +3088,6 @@ in war, absolute, crusher [of enemy]; *tasya raamasya* = his, of that Rama; *mad
 On hearing the agreeable and assertive words of that great-souled Rama, who is the treader on the path
 of rightness and an absolute crusher of enemies in war, Vali, the vanara, spoke these well-disposed
 words to Rama. [4-18-65]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 </details>
 
@@ -3270,8 +3144,6 @@ muchly, one who is blamed; *me idam kSama* = my [blaming,] this, you excuse; *tv
 "Oh, lord, oh, tremendously braving one, oh, Rama, the lord of people, I blamed you when your arrow
 sweltered and rendered me imbecile, thus I blamed you unthinkingly for which I may please be pardoned,
 I appease you for the same. [4-18-66]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

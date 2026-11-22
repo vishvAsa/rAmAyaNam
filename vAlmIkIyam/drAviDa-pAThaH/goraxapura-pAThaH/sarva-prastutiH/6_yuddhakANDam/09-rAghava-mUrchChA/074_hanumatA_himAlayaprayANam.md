@@ -23,8 +23,6 @@ Himalayas and reaches Mount Rishabha, where the wonderful herbs exist. Hanuma se
 wonderful herbs. But the herbs appear invisible for him. Hanuma uproots the mountain clothed with
 the four celestial herbs and carries it along with him. Inhaling the odour of those herbs, Rama,
 Lakshmana and all the monkeys regain their normal health.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ what to do).
 
 Then, in the battle-front, Rama and Lakshmana were knocked down senseless. The army
 of monkey-leaders fainted. Sugreeva, Nila, Angada and Jambavan could not understand what to do.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -127,8 +123,6 @@ Sugreeva the lord of monkeys; *apratimaiH* = matchless; *vachobhiH* = words.
 Seeing the entire army looking worried, Vibhishana, the best among the intelligent
 ones, spoke the following matchless words, consoling the warriors of Sugreeva, the lord of
 monkeys:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -191,8 +185,6 @@ becoming dejected; *maa bhiShTa* = do not be afraid; *naasti* = there is no;
 Dasaratha have actually lost their free will and became dejected and have allowed themselves to be
 knocked down by the missiles of Indrajit. Hence do not be afraid. There is no occasion for
 despondency now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -248,8 +240,6 @@ kaalaH* = a time for despondency; *atra* = here.
 "This excellent missile, presided over by Brahma the creator, with never-failing
 strength, was given to Indrajit by Brahma. Honouring it, Rama and Lakshmana the princes fell down
 in battle. This not a time for despondency here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -291,8 +281,6 @@ vachaH* = the words of Vibhishana; *abraviit* = spoke; *idam* = these words.
 
 Then, the intelligent Hanuma, the son of wind-god, paying honour to the missile
 presided over by Brahma and hearing the words of Vibhishana, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -372,8 +360,6 @@ their hands; *vicheratuH* = roamed about; *raNashiirShe* = in the battle-front.
 
 Both those valiant ones, Hanuma and Vibhishana, together at that time of the night,
 roamed about in the battle-front, with torches in their hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -436,8 +422,6 @@ Hanuma and Vibhishana saw the battle-field, covered on all sides, with
 mountain-sized monkeys fallen with heir tails, arms, thighs, feet, fingers and heaps of heads
 fractured with blood oozing from their limbs and urine flowing out. The earth was also covered with
 flaming weapons fallen around.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -499,8 +483,6 @@ were struck down; *raNe* = in battle.
 Vibhishana and Hanuma saw Sugreeva, Angada, Nila, Sharabha, Gandhamadana, Gavaksha,
 Sushena, Vegadarshi, Mainda, Nala, Jyotimukha and a monkey called Dvivida, who were struck down on
 the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -548,8 +530,6 @@ Brahma, the self-born creator, in the fifth and last period* of the day.
 six Ghatikas (or two hours and twenty four minutes) each. They were known by the names of PraataH
 (early morning), Sangava (forenoon), Madhyaahva (midday), Aparaahna (afternoon) and Saayaahna
 (evening).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -599,8 +579,6 @@ wounded by the arrows; *saagaraughanibham* = and appearing like a tide of an oce
 
 Hanuma, along with Vibhishana, began to search for Jambavan, while looking at the
 terrific army (wounded by the arrows) which appeared like the tide of an ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -649,8 +627,6 @@ bhisamkramya* = approaching abraviit = spoke; *vaakyam* = the him; following wor
 Looking at Jambavan, the son of Brahma, who was naturally bequeathed with old age,
 an elderly person, with his body conspicuous of hundreds of arrows and a valiant person looking
 like an extinguishing fire, Vibhishana approached him and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -689,8 +665,6 @@ vachaH* = the words of Vibhishana; *jaambavaan* = Jambavan; *R^ikSha puNgavaH* =
 the foremost among bears; *abraviit* = spoke; *idam vachanam* = these words;
 *abhyudgivan* = uttering; *vaakyam* = the words; *kR^ichchhraat* = with
 difficulty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -738,8 +712,6 @@ with a great prowess!; *abhilakShaye* = I am recognizing; *tvaa* = you;
 
 "O Vibhishana, the leader of demons, with a great prowess! I am able to recognize
 you by your voice alone. Pierced with sharp arrows, I am not able to see you with my eyes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -791,8 +763,6 @@ whom; *aN^janaa* = Anjana (his mother); *maatarishraacha* = and the wind-god;
 "O Vibhishana, of good manners! Does Hanuma, the foremost among monkeys, because of
 whom, Anjana (his mother) and the wind-god are his blessed parents survive, holding his life any
 where nearby?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -834,8 +804,6 @@ you ask; *maarutim* = about Hanuma; *atikramya* = leaving unnoticed;
 
 Hearing the words of Jambavana, Vibhishana spoke the following words, "why do you
 enquire about Hanuman, passing over the venerable sons of Dasaratha?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -877,8 +845,6 @@ even in Rama.
 
 "O venerable one! The exceptional affection, you are showing towards Hanuma, is not
 being shown towards Sugreeva or Angada or even Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -926,8 +892,6 @@ Hanuma.
 
 Hearing the words of Vibhishana, Jambavan replied as follows: "O the foremost among
 demons! Listen to me, why I am enquiring about Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -968,8 +932,6 @@ is unhurt; *hanuumati* = If Hanuma; *ujghitapraaNe* = has given up his life;
 
 "If that brave Hanuma is surviving, the whole army even if killed, is unhurt. On the
 other hand, if Hanuma has given up is life, we are all dead, even though living."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1019,8 +981,6 @@ bhavet* = there is a hope to live (for us).
 
 "O dear child! If Hanuma, who is equal to the wind and the fire in prowess,
 survives; then there is a hope for all of us to survive.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1064,8 +1024,6 @@ by grasping the feet; *jaambavataH* = of Jambavan; *vinayaat* = with modesty.
 
 Thereafter, Hanuma the son of wind-god approaching the elderly Jambavan, offered his
 salutation, by grasping the feet of Jambavan with modesty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1112,8 +1070,6 @@ salutation, by grasping the feet of Jambavan with modesty.
 
 Hearing the voice of Hanuma, Jambavan, the foremost among monkeys, with perturbed
 senses, considered himself as though born again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1158,8 +1114,6 @@ Jambavan; *mahaatejaaH* = of great splendour; *abraviit* = spoke;
 
 Thereafter, that Jambavan of great splendour spoke to Hanuma as follows: "Come on, O
 foremost of monkeys! You ought to protect the lives of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1202,8 +1156,6 @@ kaalaH* = is the time to show your prowess; *na pashyaami* = I do not see;
 "You are the great companion for these monkeys, by your copious prowess. There is no
 other person. This is the appropriate time to show your prowess. I do not see any other person to
 do it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1244,8 +1196,6 @@ arrow-wounds.
 
 "Cheer up the martial warriors of both monkeys and bears. Heal Rama and Lakshmana
 from their arrow-wounds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1286,8 +1236,6 @@ of mountains; *gatvaa* = by traveling; *uparyupari* = higher and higher over;
 
 "O Hanuma! You ought to go to Himalaya, the foremost of mountains, by traveling
 higher and higher over the large ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1335,8 +1283,6 @@ powerful.
 
 "O annihilator of enemies! Thereafter, you will see there the Mount Rishabha, the
 excellent mountain and the very much powerful peak of Kailasa, with a golden hue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1384,8 +1330,6 @@ herbs.
 
 "O valiant Hanuma! In the midst of these two peaks, you will see a blazing and
 unequally brilliant herbal mountain, containing all kinds of herbs."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1436,8 +1380,6 @@ quarters.
 
 "O foremost of monkeys! Sprouted on the head of that mountain, are four blazing
 herbs. You can see them, illuminating the ten quarters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1491,8 +1433,6 @@ _________________
 Vishalyakarani (capable of extracting weapons and healing all wounds inflicted by weapons),
 Suvarnakarani (restoring the body to its original complexion) and Sandhani, the great herb (capable
 of joining severed limbs or fractured bone)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1540,8 +1480,6 @@ by injecting lives into them.
 
 "O Hanuma! Bring all those herbs quickly. O son of wind-god! Bring succour to the
 monkeys, by injecting lives into them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1589,8 +1527,6 @@ wind.
 
 Hearing the words of Jambavan, Hanuma the son of wind-god was infused with animated
 strength, as the ocean gets animated with the force of the wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1637,8 +1573,6 @@ appeared; *dvitiiyaH parvataH iva* = like a second mountain.
 
 Standing on the summit of Trikuta mountain and pressing the foremost of mountains
 (with his feet), that valiant Hanuma appeared like a second mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1688,8 +1622,6 @@ _________________
 
 Then, increasingly pressed and bent by Hanuma's feet, that mountain was not able to
 bear its weight and sank.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1731,8 +1663,6 @@ broken.
 
 The trees on that mountain, pressed by Hanuma, fell to the ground and caught fire
 due to rapidity of Hanuma. Its peaks also got broken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1774,8 +1704,6 @@ broken.
 
 The monkeys were unable to stand on that excellent mountain, which started to reel,
 while being pressed severely by Hanuma, as the trees standing on it and the rocks got broken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1822,8 +1750,6 @@ appeared; *pranR^itteva* = as though dancing; *raatrau* = at night.
 
 Confounded with panic, the City of Lanka, whose principal gates were broken, whose
 houses and town-gates were shattered, appeared as though dancing at night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -1870,8 +1796,6 @@ shake.
 
 Pressing hard the mountain, Hanuma equal to a mountain, caused the earth along with
 the ocean to shake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2001,8 +1925,6 @@ Utpala lotuses blooming, visited by celestials and celestial musicians, having a
 Yojanas (four hundred eighty miles), frequented by Vidyodharas, a number of sages and Apsaras the
 nymphs, filled with various kinds of animal-troupes and illuminated by many caves, Hanuma grew his
 body, appearing like a cloud, bewildering Yakshas, Gandharvas and Kinnaras.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2053,8 +1975,6 @@ frightening; *rajaniicharaan* = the demon; (Hanuma); *nanaada* = roared;
 
 Pressing the mountain hard with his feet, opening his terrific mouth which shone
 like a submarine fire and frightening the demons, Hanuma roared loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2101,8 +2021,6 @@ of demons; *laN^kasthaaH* = residing in Lanka; *na shekuH* = were not able;
 
 Hearing his loud noise, roaring clamorously, the foremost of demons residing in the
 City of Lanka, were not able to stir anywhere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2153,8 +2071,6 @@ of Rama.
 
 Hanuma of terrific prowess, annihilator of his enemies, after offering salutation to
 the ocean, made up his mind to embark on a prime act for the sake of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2215,8 +2131,6 @@ which shore like a terrific submarine fire; *saH* = Hanuma; *aapupluve* = jumped
 Raising his tail which resembled on serpent, bending his back, contracting his ears
 and opening his month which shone like a terrific submarines-fire, Hanuma jumped into the sky, with
 a head long speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2277,8 +2191,6 @@ their speed diminished.
 By his velocity, he carried away a multitude of trees, mountains and some ordinary
 monkeys. Driven up and away by the momentum generated from his arms and thighs, they fell down in
 water when their speed diminished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2334,8 +2246,6 @@ bhogakalpau* = looking like coils of serpents; *saH vaayusuunuH* = that Hanuma;
 Stretching his arms, looking like coils of serpents, that Hanuma vying with the
 prowess of hostile Garuda the eagle, headed towards the excellent mountain of Himalayas, with gush
 as though he was drawing away the four quarters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2390,8 +2300,6 @@ Hanuma; *jagaama* = speeded up sahasaa = quickly; *chakram yathaa* = like the di
 Beholding the sea, whose waves along with its water were made to agitate and all
 whose creatures were caused to whirl round, Hanuma quickly speeded up, like the discuss loosed by
 the fingers of Lord Vishnu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2447,8 +2355,6 @@ shot forth.
 Gazing at the hills, flocks of birds, lakes, rivers, pools and excellent towns full
 of people, that Hanuma with a speed equal to that of the wind-god his father, shot forth towards
 Himalayas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2492,8 +2398,6 @@ taking recourse; *aadityapatham* = to the orbit of the sun.
 
 That valiant Hanuma, with a prowess equal to that of his father, whose fatigue was
 gone, swiftly rushed, taking recourse to the orbit of the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2540,8 +2444,6 @@ of monkeys; *jagaama* = hastened towards Himalayas.
 
 With a great speed of wind, reverberating the four quarters with sound, Hanuma the
 foremost of monkeys, hastened towards Himalayas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2588,8 +2490,6 @@ monkey; *bhiima vikramaH* = with a terrific stride; *sahasaa* = suddenly;
 
 Remembering the words of Jambavan, Hanuma the great monkey with a terrific stride,
 suddenly saw Mount Himalaya too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2642,8 +2542,6 @@ kinds of caves; mountain-streams; *chaarudarshanaiH shikharaiH* = and summits;
 Hanuma went to Mount Himalaya, the foremost of mountains, embellished with various
 kinds of cascades, many kinds of caves, mountain-streams and summits resembling an assemblage of
 white clouds as also many kinds of trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2697,8 +2595,6 @@ by a multitude of divine sages.
 
 Having approached that great mountain having excellent overbearing summits, he saw
 great holy hermitages, inhabited by a multitude of divine sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2749,8 +2645,6 @@ He saw the abode of Brahma the lord of creation, Kailasa the abode of Shiva the 
 of dissolution, the abode of Indra the lord of celestials, the arrow-discharging place of Rudra,
 the worshipping place of Hayagriva, the horse-faced form of Vishnu, the shining place at which
 Brahma's head fell down, the sun-god and Kimkaras.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2803,8 +2697,6 @@ He saw the abode of Agni the fire-god, the abode of Kubera (son of Visrava) shin
 like the sun, the spot where the sun was tied down, the abode of Brahma, the abode of bow belonging
 to Lord Shiva and the novel of the earth (containing the hole through which one can enter Patala
 the nethermost subterranean region).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2825,8 +2717,6 @@ the nethermost subterranean region).
 
 "Let us restore to confidence whosoever is in this army of energetic monkeys, after
 having been struck by the missile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2889,8 +2779,6 @@ He saw the gigantic Mount Kailasa, the rock of Mount Himalaya (on which Lord Shi
 is believed to have practiced austerities and abstract meditation) and Mount Rishabha, the lofty
 golden mountain, which was highly illumined by the flaming herbs and the lord of mountains on which
 all types of herbs grew.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2946,8 +2834,6 @@ herbs.
 Seeing that mountain shining with a heap of fire, Hanuma the son of wind-god, who is
 the envoy of Indra, was surprised to see that great mountain of herbs and then made a search for
 the herbs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -2988,8 +2874,6 @@ possessing heavenly herbs.
 
 That Hanuma, the great monkey, having crossed thousands of yojanas, walked around
 that mountain, searching for the heavenly herbs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3037,8 +2921,6 @@ disappearance.
 
 Knowing then that somebody was coming in search of them, all the distinguished herbs
 on that mountain disappeared from Hanuma's view.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3099,8 +2981,6 @@ as red as the fire; *uvaacha* = spoke; *vaakyam* = (the following) words;
 In not seeing them thus, that great souled Hanuma was enraged. He made a loud noise
 in anger unable to bear it, Hanuma with his eyes as red as the fire, spoke the following words to
 the prince of mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3148,8 +3028,6 @@ pieces; *adya* = today.
 "O prince of mountains! Is it quite sure that you have not shown any compassion for
 Rama? If it is so, overcome by the strength of my arms; find yourself shattered to pieces
 today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3205,8 +3083,6 @@ speed; *sahasaa* = at once.
 Fiercely seizing hold of the top of that mountain, furnished with thousands of
 minerals, with its trees, elephants and gold, with the projections of mountain shattered and the
 crest of its plateau set on fire, at once sprang up with speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3262,8 +3138,6 @@ sprang up; *kham* = into the sky; *jagaama vegaat* = and proceeded speedily;
 Having uprooted that mountain, frightening the worlds together with the leaders of
 celestials and demons inhabiting them and being praised by many aerial beings, Hanuma sprang up
 into the sky and proceeded expeditiously with the terrible speed of Garuda the eagle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3319,8 +3193,6 @@ of the sun.
 Grasping that mountain-peak, radiant as the sun, that Hanuma who resembled the sun,
 having reached the orbit of the sun, shone as a second sun (as sun's image) in the vicinity of the
 sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3367,8 +3239,6 @@ who resembled mountain himself; *raraaja* = appeared; *bhR^isham* = mostly;
 In the sky, with that mountain in his hand, that Hanuma the offspring of the
 wind-god, who resembled a mountain himself, appeared mostly like Vishnu with his flaming discuss
 with its thousand edges holding his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3416,8 +3286,6 @@ Lanka; *vineduH* = roared; *bhiimataram* = terribly high.
 Then, seeing Hanuma, the monkeys made a noise. Seeing them, Hanuma in turn roared in
 delight. Hearing their awfully excessive noises the inhabitants of Lanka roared still more
 terribly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3465,8 +3333,6 @@ embraced; *vibhiiShaNam* = Vibhishana.
 Thereupon, the great souled Hanuma descended on that prince of mountains (Trikuta)
 in the midst of that army of monkeys. Having offered salutation to the illustrious monkeys there
 with his head bent low, he then embraced Vibhishana
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3529,8 +3395,6 @@ _________________
 
 By inhaling that fragrance of those great herbs, both Rama and Lakshamana became
 healed of their wounds then and there. Other monkey-warriors rose up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3549,8 +3413,6 @@ who are asleep.
 By the fragrance of those most powerful herbs, all those monkey-warriors who were
 earlier dead were healed momentarily of their wounds, relieved of their pain, even as those who are
 asleep fully get up at the close of night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3608,8 +3470,6 @@ From the day the monkeys and demons began to fight in Lanka, from that day onwar
 under the orders of Ravana, all those demons, who were being killed by the foremost of monkeys were
 being thrown away into the sea as and when they were killed, merely or the sake of honour (so that
 their number may not be known to the monkeys).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 </details>
 
@@ -3662,8 +3522,6 @@ difficulty; *vimukta kavachadhvajam* = and whose armours and standards were thro
 
 Then, Hanuma the son of wind-god, with a great speed, carried away that mountain of
 herbs quickly back to the mountains of Himalayas and again joined Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

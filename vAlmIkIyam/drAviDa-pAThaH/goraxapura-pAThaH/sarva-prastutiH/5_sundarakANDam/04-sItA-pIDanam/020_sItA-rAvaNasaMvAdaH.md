@@ -16,8 +16,6 @@ title_english = "020 Ravana talks to Seetha"
 **Book V : Sundara Kanda - Book Of Beauty**
 
 In this chapter Ravana entices Seetha with wealth, gems, sovereignty over all wives of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ pitiable.
 
 Ravana conveyed in significant words to that Seetha who was surrounded by ogresses, wretched, without
 happiness and pitiable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ dR^ishhTvaa* = seeing me; *guhamaanaa* = covering; *stanodaram* = (your) breasts
 
 "You are with thighs like the trunk of an elephant. Seeing me covering your breasts and belly,
 you desire obtaining disappearance of self due to fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -155,8 +149,6 @@ endowed with bodily excellencies; *sarva loka manohare* = pleasing to all people
 
 "O wide eyed one! You are endowed with bodily excellencies, pleasing to all people. I desire you.
 O lovable one! respect me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -200,8 +192,6 @@ _________________
 
 "O Seetha! Here there are no humans or ogres with ability to change form. Let your fear caused
 due to me be removed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -245,8 +235,6 @@ belonging to others; *haraNam vaa* = or abducting; *saMpramathya* = by force; *s
 
 "O one with fear! Obtaining women belonging to others or abducting by force is the righteous deed
 for ogres by all means. There is no doubt in this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -297,8 +285,6 @@ desire; *kaamam* = very much; *yathaa kaamam pravartataam* = may behave in whate
 
 "O Seetha! It is like this. desire very much may behave in whatever way it likes in my body. But
 I will not touch you without lust."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -345,8 +331,6 @@ absorbed in sorrow;evam = like this.
 
 "O queen of my heart! In this matter fear is not to be made. O love! Believe in me. Truly become
 with love. Do not become absorbed in sorrow like this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -389,8 +373,6 @@ time; *etaani* = all these; *na aupayikaani* = are not useful; *te* = to you.
 
 "Single plait, the bed of ground,mediation,dirty cloth,fasting at an inappropriate time - all these
 are not useful to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -450,8 +432,6 @@ cha* = and best ornaments; *mahaarhaaNi paanaani* = the best drinks; *shayanaani
 
 "O Seetha! After getting me gain wonderful garlands, sandals, Agallochums, a variety of cloths
 and best ornaments, the best drinks, beds and seats, song and dance and musical instrument."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -495,8 +475,6 @@ how (will you); *syyaH* = become; *anarhaaH* = unsuited (for luxuries).
 
 "You are a gem among women. Do not be like this. Make decoration on your limbs. O one with a good
 body! Getting me how will you become unsuited for luxuries?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -546,8 +524,6 @@ born beautifully; *vyativartate* = is passing away; *yat* = Whichever (youth); *
 
 "This your youth born beautifully is passing away, whichever youth is quickly passing away will
 not come back again like the flow of water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -598,8 +574,6 @@ the creator of form; *saH* = that; *visvasR^ik* = creator of the world; Lord Bra
 
 "O one with auspicious appearance! The creator of form, that creator of the world, Lord Brahma
 has made you and stopped - I think thus. There is not another who is equal to your appearance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -648,8 +622,6 @@ pitaamahaH* = (even if he is) Lord Brahma himself; *ativarteta* = will disregard
 
 "O Seetha! Obtaining you endowed with beauty and youth, which man even if he is Lord Brahma himself
 will disregard (leave) you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -697,8 +669,6 @@ will disregard (leave) you."
 
 "O one with face like that of moon! O one with broad hips! Your whichever limb I see, my eye is
 getting tied in that that limb."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -750,8 +720,6 @@ consort; *te bhadram* = (let there be) auspicious to you.
 
 "O Seetha! Become my wife. Leave this ignorance. In all my many best women brought from here and
 there, become foremost consort. Let there be auspicious to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -802,8 +770,6 @@ me* = my; *etat* = this; *raajyam* = kingdom; *aham cha* = and also myself; *te*
 
 "O timid one! Whatever gems that have been brought by force, all those, my this kingdom and also
 myself belong to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -843,8 +809,6 @@ myself belong to you."
 
 "O charmful lady! Conquering the entire earth together with chain of various cities for your sake,
 I can give to king Janaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -883,8 +847,6 @@ I can give to king Janaka.
 **अनुवादः**
 
 "In this world I do not see another one who is equally matched to me. See my very great power."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -925,8 +887,6 @@ met;mama = of me.
 
 "Suras and Asuras defeated with broken flags by me in war many times are powerless to stand in
 an army against me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1022,8 +982,6 @@ brilliance; *avasajya* = be fit; *saadhu pashyaami* = I will see well; *tava* = 
 
 "Desire me! Now let your best decoration be made. On your body let ornaments also with great brilliance
 be fit. I will see well your form together with decoration."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1039,8 +997,6 @@ cha* = Rejoice
 
 "O one with best face! O timid one! With consideration enjoy luxuries according to your desire
 together with decoration. Drink. Rejoice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1089,8 +1045,6 @@ cha* = and wealth; *yathecchham* = according to wish; *visrabhdaa* = with confid
 
 "You donate land and wealth according to your wish. With confidence behave freely in my matter.
 Fearlessly order also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1140,8 +1094,6 @@ one!; *tvam* = you; *anupashya* = see; *mama* = my; *buddhim* = wealth; *me yash
 
 " By my grace with your sporting, tour relatives will also sport. O auspicious one! You see my
 wealth and my fame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1190,8 +1142,6 @@ hope of victory; *gatashrii* = with gone fortune; *vana gocharaH* = roaming in f
 
 "O beautiful one! What can you do with Rama clad in tatters, with lost hope of victory, with gone
 fortune. Roaming in forests, observing austerities and also sleeping on floor, I doubt if Rama is alive or not."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1242,8 +1192,6 @@ at the front.
 
 "O Seetha, Rama indeed does not get opportunity even to see you like moonlight covered by dark
 clous with cranes at the front."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1282,8 +1230,6 @@ clous with cranes at the front."
 **अनुवादः**
 
 "Like Keerthi got by Hiranyakasipu from Indra's hand, Rama is not suited to get you from my hands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1331,8 +1277,6 @@ yathaa* = like a serpent; *suparNaH* = (stolen) by Garuda.
 
 "O one with a beautiful smile! O one with beautiful teeth!O one with beautiful eyes! O charmful
 one! O timid one! You are stealing my heart like a serpent stolen by Garuda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1373,8 +1317,6 @@ one! O timid one! You are stealing my heart like a serpent stolen by Garuda.
 
 "You are Wearing a silk cloth in a bad condition. You are emaciated. Even though you have not decorated,
 seeing you I am not getting happiness in my wives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1421,8 +1363,6 @@ seeing you I am not getting happiness in my wives."
 
 "O Seetha! whoever women living in gynaeceum endowed with all virtues, have sovereignty on all
 of them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1465,8 +1405,6 @@ _________________
 
 "O one with black hair! My those women and apsarasas who are the best among the three worlds will
 serve you like the goddess of wealth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1517,8 +1455,6 @@ eyebrows; *bhunkshva* = enjoy; *yathaasukham* = according to your comfort; *yaan
 
 "O one with beautiful hips! O one with beuatiful eyebrows! Enjoy according to your comfort whatever
 gems and wealth belonging to Kubera, all those three worlds and me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1568,8 +1504,6 @@ _________________
 
 "O Seetha! Rama is not equal to me by austerity, not equal by might; not equal by strength, not
 equal by wealth, by brilliance and by fame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1624,8 +1558,6 @@ relatives; *lalantu* = may sport; *sametya* = together; *tvayi* = in you.
 
 "O playful one! I will give hordes of wealth and land. You drink. Roam freely and play. Enjoy luxuries.
 Sport according to comfort in me. Your relatives may sport together in you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 </details>
 
@@ -1675,8 +1607,6 @@ of flowered trees; *bhramara yutaani* = with humble bees
 
 "O timid one! With body decorated with gold colored, pure garlands, roam with me in forests born
 at sea shore filled with groups of flowered trees and with humble bees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ and his consort by keeping awake the whole night. Lakshmana expressed his unwill
 in the presence of his elder brother and sister in law and preferred to remain awake. He spends
 night talking with Guha, voicing grief for his royal father as well as his affectionate
 mothers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ Lakshmana; *raaghavam* = who was born in Raghu dynasty; *jaagratam* = who kept a
 Distressed with anguish (to see Rama and Sita lying on the ground) Guha said to
 Lakshmana, the scion of Raghu, who kept awake, through sincere love, for the protection of his
 brother Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ brother Rama.
 
 "Here is a comfortable bed made for you, my friend! Relax well comfortably on it,
 Oh, prince!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ night."
 
 "All of us are habituated to hardships. You are habituated to comforts. We shall
 keep awake this night, for the protection of Rama"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ swear; *te* = to you; *satyenaina* = by truth."
 
 "For, none is dearer to me than Rama in this world. I speak the truth and swear to
 you by truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -272,8 +262,6 @@ merit; *vipulaam* = (and) extensive; *arthaavaaptimcha* = acquirment of wealth;
 
 "I hope to acquire abundant acclaim and supreme merit in this world as also full
 reward of wealth, by the sole grace of Rama"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ kindred; *rakshhishhyaami* = shall protect; *priya sakham* = my dear friend;
 
 "As such, I along with my kindred, shall protect my dear friend Rama who is reposing
 with Sita in every way, with bow in hand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ horsemen; and foot soldiers)."
 "Nothing is indeed unknown in this forest to me, where I wander continually. We can
 able to withstand even a vast army too, comprising of four parts (elephants, chariots, cavalry, and
 infantry)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -420,8 +404,6 @@ bhiitaaH* = not afraid; *atre* = in this land."
 
 Then, Lakshmana replied to Guha as follows: "Oh, sinless Guha! Being protected by
 you, who keep your duty alone in view, all of us are fearless in this land."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -438,8 +420,6 @@ amenities of life?"
 
 "When Rama, the son of Dasaratha is lying on the ground with Sita, how is it
 possible for me to sleep or to enjoy the pleasures of life?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -487,8 +467,6 @@ Sita."
 
 "See that Rama, who cannot be vanquished in combat even by the gods and demons
 combined, now sleeping profoundly on the grass along with Sita."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -553,8 +531,6 @@ When Rama- who is endowed with similar characteristics as Dasaratha, uniquely
 beloved, the son obtained by Dasaratha by virtue of his chanting of several sacred texts and
 austerities and by various undertakings (in the form of sacrificial performances) has gone to
 exile, the king will not live long and the earth will become surely widowed forthwith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -602,8 +578,6 @@ palace.
 
 Having cried out in a high-pitched tone, the women having exhausted, will have
 fallen silent and I am sure that a profound stillness reigns in the palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -650,8 +624,6 @@ sarve* = all of them; *yadi jiivanti* = to remain alive; *imaam* = this;
 
 "I do not expect Kausalya, Dasaratha and my mother all of them to remain alive for
 this night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -698,8 +670,6 @@ has given birth to a hero; *yat vinashishhyati* = may perish.
 
 "By looking forward to meet Satrughna, my mother might even stay alive. But it will
 be painful if Kausalya who has given birth to a heroic son, dies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -746,8 +716,6 @@ seized with sorrow over the king's death; *vinashishhyati* = will perish.
 
 That city of Ayodhya, filled with devoted people, hitherto a source of joy and which
 brought pleasure to the world, when seized with agony over the king's death, will perish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -795,8 +763,6 @@ generous?"
 
 "How, in the absence of his magnanimous and the first born son, will the vital airs
 in the body of the generous king be maintained?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -836,8 +802,6 @@ behind. anantaramcha = Afterwards; *mama maataa.api* = my mother also; *upaishhy
 **अनुवादः**
 
 "After the death of king, Kausalya will die. My mother also will die thereafter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -887,8 +851,6 @@ my father; *vinashishhyati* = will perish."
 
 "Having failed to install Rama in the kingdom, failed forever, which was the most
 cherished wish of his heart, my father will leave this world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -935,8 +897,6 @@ all funeral rites; *tasmin kale* = (when) the hour; *vyupasthite* = has struck."
 
 "Those who are fortunate will consecrate our deceased father and the king in the
 course of all funeral rites, when the hour has struck.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -1013,8 +973,6 @@ well-to-do men, temples and royal palaces adorned with the foremost of courtesan
 horses and elephants that obstruct the roads, the musical instruments that resound there- full of
 all blessings and crowded with merry and well fed men, well- provided with gardens and royal parks
 and bright with festivities carried on under the patronage of associations.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -1061,8 +1019,6 @@ can we see; *mahaatmaanam* = the high-soled king; *suvratam* = of noble vows;
 
 Will Dasaratha remain alive? After returning from exile, can we see the high-soled
 king Dasaratha of noble vows again?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -1109,8 +1065,6 @@ promises.
 
 Can we safely return to Ayodhya, after completion of the exile in the forest along
 with Rama who is faithful to his promises?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -1157,8 +1111,6 @@ Lakshmana;paridevayaamaanasya = thus lamenting; *tishhTataH* = stood on guard;
 
 While the high-soled Lakshmana thus lamenting, stood on ground, afflicted with
 anguish as he was, that night rolled away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 </details>
 
@@ -1216,8 +1168,6 @@ While Lakshmana (son of Dasaratha), who was concerned with the welfare of the
 people; was thus speaking the truth out of his affection for his elder brother (Rama), Guha,
 overcome with agony and oppressed with adversity shed tears like an elephant tormented with
 fever.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

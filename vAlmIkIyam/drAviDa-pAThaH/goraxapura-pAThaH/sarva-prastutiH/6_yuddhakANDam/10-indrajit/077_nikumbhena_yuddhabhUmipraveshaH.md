@@ -18,8 +18,6 @@ his weapon roars and faces the battle. Hanuma directly attacks Nikumbha, by stri
 on Nikumbha's breast. Unmoved by that blow, Nikumbha lifts Hanuma, off the ground. Hanuma in retaliation
 frees himself and throws down Nikumbha on the ground. Hanuma descends on Nikumbha, pounds his chest
 with his fist, catches his head and tears it off. Thus, Nikumbha dies at the hands of Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ angry looks; (at Sugreeva); *pradahanniva* = as is would burn him (into ashes).
 
 Seeing his brother stretched on the ground, Nikumbha cast angry looks at Sugreeva, as
 it would burn him into ashes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -111,8 +107,6 @@ breadth.
 Then, Nikumbha of firm mind grasped his iron club, stupendous like the crest of Mount
 Mandara and which was bright, festooned with wreaths and provided with iron plates, measuring five digits
 in breadth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -153,8 +147,6 @@ like the death-dealing rod of Yama (it seemed); *bhiimam* = causing dismay to th
 
 Round it ran a broad strip of gold while diamonds and rubies studded it all over. Like
 the death-dealing rod of Yama, it seemed causing dismay to the monkeys and nerving the demons with courage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -195,8 +187,6 @@ wide.
 
 Wielding that weapon, which in size resembled the flag-staff of Indra, Nikumbha of terrific
 prowess, roared with his mouth yawing wide.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -252,8 +242,6 @@ On his chest shone a medal of gold. His arms were held by beautiful bracelets. L
 pendants depended from his ear. Resplendent garland enfolded his neck. With these ornaments and with
 his club, Nikumbha assumed the threatening semblance of a cloud, with lightning and thunder and shot
 with a vivid rainbow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -294,8 +282,6 @@ of heaven; *prajajvaala* = and illumined; *paavakaH iva* = like the fire-god; *v
 
 The strong Nikumbha, with his arms as strong as his club, hurled his club having sun-like
 splendour, on the breast of that mighty Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -351,8 +337,6 @@ the stars and the planets; (joining the rotating race).
 The sky above appeared whirled around in the toss of Nikumbha's club, as though Alaka
 the City with the palaces of Gandharvas performed rapid revolutions and the moon and the stars and the
 planets joining the rotating race.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -394,8 +378,6 @@ his fury as its face; *duraasadaH* = dangerous to be approached; *utthitaH yugaa
 The hot tempered fire of Nikumbha, which had his club and ornaments for its flame and
 his fury as its fuel, became dangerous to be approached, like the fire rising at the time of dissolution
 of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -438,8 +420,6 @@ in front (of Nikumbha).
 The demons and the monkeys too, out of fear, were unable even to make the slightest movement.
 The mighty Hanuma, on his part, stood alone among them, with his breast bared to the fury of the attack,
 in front of Nikumbha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -480,8 +460,6 @@ prabham* = with a splendour of the sun; *vakShasi* = on the breast; *tasya balav
 
 The strong Nikumbha, with his arms as strong as his club, hurled his club having sun-like
 splendour, on the breast of that mighty Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -522,8 +500,6 @@ hundreds of meteors; *vikiiryamaaNaH* = shattered; *ambare* = into the sky.
 
 The titanic club, which fell on the wide and rock-like chest of Hanuma, at once shattered
 into hundreds of fragments, like hundreds of meteors shattering into the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -568,8 +544,6 @@ tena* = by that; *prahaareNa* = blow; *parigheNa* = of the club; *vichachaala*
 **अनुवादः**
 
 That Hanuma, struck by that blow of the club, was unmoved like a mountain in an earthquake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -617,8 +591,6 @@ _________________
 **अनुवादः**
 
 Thus struck by him, the mighty Hanuma the monkey-chief clenched his fist forcibly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -659,8 +631,6 @@ father; *udyamya* = lifting; *tam* = that fist; *abhichikShepa* = struck it agai
 
 The greatly splendoured, powerful and swift Hanuma, with the violence of the wind-god,
 his father, lifting that fist, struck it against, Nikumbha's breast with force.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -704,8 +674,6 @@ _________________
 
 By the blow of that fist there, his armour got split up and red blood profusely oozed
 out, as a black cloud streaked suddenly with fierce lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -751,8 +719,6 @@ nijagraaha* = and grasped; *mahaabalam* = the mighty; *hanuumantam* = Hanuma.
 
 But, by that blow, Nikumbha was unmoved, recovered soon and grasped the unwieldy bulk
 of Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -795,8 +761,6 @@ _________________
 
 Seeing the mighty Hanuma lifted off the ground in battle, loud roar of exultant joy rose
 from the ranks of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -846,8 +810,6 @@ _________________
 
 Eventhough he was being carried off in that way by that demon, Hanuma the son of wind-god,
 struck him with his thunderbolt-like fist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -888,8 +850,6 @@ struck him with his thunderbolt-like fist.
 
 Freeing himself from Nikumbha, Hanuma the son of wind-god then threw him down on the
 ground and treated him with blows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -939,8 +899,6 @@ and pounded it mercilessly.
 
 Throwing down Nikumbha by main force and with a supreme effort, Hanuma descended on him,
 leaped on his chest and pounded it mercilessly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -956,8 +914,6 @@ roaring.
 
 Then with both hands, he caught the enemy's neck, twisted it about and tore off his huge
 head, while Nikumbha was horribly roaring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -1003,8 +959,6 @@ suunvoH* = and Makaraksha; son of Khara a ruler of demons.
 
 Then, while the roaring Nikumbha was killed in battle by Hanuma, there ensued an exceedingly
 terrific struggle between the enraged Rama and Makaraksha, son of Khara, a ruler of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 </details>
 
@@ -1065,8 +1019,6 @@ to crumble; *bhayam* = and fear; *aviveshacha* = seized; *raakShasaanaam balam*
 When it was clear that Nikumbha had expired, the monkeys shouted with glee, the quarters
 thundered with satisfaction, the earth rocked with joy, the heaven appeared to crumble and fear seized
 the army of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

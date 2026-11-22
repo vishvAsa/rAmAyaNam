@@ -16,8 +16,6 @@ title_english = "021 Hanuma consoles Tara"
 Hanuma tries to console Tara. He asserts that Angada will not be looked down. Though Vali is put to
 his plight, Hanuma says, that Tara alone is the empress to lead Kishkindha kingdom. But Tara prefers
 self-immolation along with her husband Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ leader, Hanuma; *shanaiH aashvaasayaamaasa* = slowly, consoled.
 
 Hanuma, the leader of monkeys, then neared and slowly consoled Tara who has fallen to ground like a
 star from sky. [4-21-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -130,8 +126,6 @@ For this verse Dharmaakuutam says: *atra ca sva karama phala hetukamiti visheSha
 parampara aasaadita dharma artha vaasanaa vashena shubham ashubham vaa karma anuShThaaya tad auruupam
 sukaham duHkham vaa phalam avaapnoti iti uktam -- dharmaakuutam*Thus Hanuma is saying that Vali
 is not dead at the hand of Sugreeva but dead due his own demerits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ body, bubble, in similitude; *kaH kasya anushocyaH asti* = who, for whom, lament
 "Of which lamentable one you lament while you yourself are in a lamentable state? Of which pitiable
 one you take pity while you yourself are in a pitiable condition? Who is pitiable by whom in these bubbles
 like bodies? [4-21-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -232,8 +224,6 @@ like bodies? [4-21-3]
 "You are the one with a living son, and you have to look after this young one Angada, and you have to
 think of the forthcoming activities for his well-being and for his performance of duty towards his father.
 [4-21-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -281,8 +271,6 @@ auspicious ones, are to be done, indeed.
 "You are aware that the coming and going of beings, in their subtle forms of earth, water, fire, air
 and space into this mortal life and back is uncertain, thereby the prudent ones have to perform auspicious
 worldly deeds here in this world, say, the funeral of Vali. [4-21-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -329,8 +317,6 @@ fate's, end, he came.
 
 "In whom hundreds and thousands of monkeys are harboured and astir, for they have reposed their confidence
 in him alone, that Vali has arrived at his end. [4-21-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -379,8 +365,6 @@ him, your sorrowing, apt of you.
 "By which reason this Vali conducted himself judiciously, observing friendliness, courteousness and
 forgivingness, by that reason alone Vali is going to a domain in heavens which he righteously conquered
 for himself, and it is unapt of your sorrowing for him. [4-21-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ pati raajyam ca* = monkeys, bear, lords, kingdom of, also; *tvat* = in you; *sa 
 
 "All the tigerly-monkeys, oh, impeccable Tara, including this son of yours Angada, and all the lords
 of monkeys and bears have their guardian angel in you. [4-21-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -474,8 +456,6 @@ taken up [acquiesce to]; *ayam angadaH mediniim shaastu* = this, Angada, the ear
 
 "Oh, lady, inspirit these two, Sugreeva and Angada, that are searing in grief, and if you acquiesce
 then this Angada will rule over the earth. [4-21-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -532,8 +512,6 @@ this has happened so according to Time's decision...'
 *arthaa gR^ihaat
 nivartante aa smashaanaat tu baandhava | sukR^itam duShkR^itam caiva gacchantam anucacChgati ||*'wealth
 and means remain in house, relatives come up to graveyard, only Merit and Demerit follow the goer...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -579,8 +557,6 @@ pashyantii shaantim eSyasi* = son, on seeing, peace, you can obtain.
 
 "Cremation of the king of monkeys and anointment of Angada are the present time affairs, and seeing
 your son invested on the throne you can obtain peace." Thus spoke Hanuma to Tara. [4-21-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -629,8 +605,6 @@ Tara; *tasya vacanam shrutvaa* = his [Hanuma's,] words, on hearing; *avasthitam 
 
 On hearing Hanuma's words she who is tormented by the plight of her husband, that Tara replied Hanuma
 who is standing nearby. [4-21-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ him who is put to death is the best .... [4-21-13]
 This verse is said to be difficulkt one to derive meaning *kiSTa anvaya*. There is another narration
 of this verse omitting the first foot of next stanza and it reads: * kim kaaryam pati hiinayaaH putraaNaam ayutaiH api | pitR^ivyah tasya sugriivaH sarva kaaryeShu anantaraH
 ||*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -734,8 +706,6 @@ affairs, close at hand.
 
 "Who am I either for conducting the monkeys kingdom or to anoint Angada when Angada's paternal-uncle
 Sugreeva is close at hand? [4-21-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -785,8 +755,6 @@ defender; *na maataa* = not, mother.
 
 "Hanuma, this thinking of yours that Angada is to be crowned is really untenable, oh, best monkey, father
 is the real defender of a son, but not the mother. [4-21-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 </details>
 
@@ -847,8 +815,6 @@ away, who is killed; *viira sevitam* = by such brave one, adored; *idam shayanam
 "Indeed there is nothing highly befitting to me, either in this world or in the other, than the auspices
 of the king of monkeys, and now to me the only befitting thing is to join in this brave one on this
 death bed, which he is adoring when put to death while he is facing away. [4-21-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga21/kishkindhasans21.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

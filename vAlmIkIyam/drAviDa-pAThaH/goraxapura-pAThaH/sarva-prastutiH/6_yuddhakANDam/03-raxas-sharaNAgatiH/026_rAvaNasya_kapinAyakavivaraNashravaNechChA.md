@@ -17,8 +17,6 @@ Hearing the submission of Sarana, Ravana climbs up the roof of his palace and se
 the entire army of monkeys from there. Ravana enquires about the various monkey leaders and Sarana
 shows him Nila, Angada, Nala, Sweta, Kumuda, Rambha, Sarabha, Panasa, Vinata and Krathana the
 army-generals along with their distinguishing characterestics.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ Ravana; *paryabhaSata* = spoke; *saaraNam* = to Sarama (as follows):
 
 Hearing those words, which were truthful and coward less, as spoken by Sarana, the
 king Ravana spoke to Sarana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ if there is terror from all the worlds.
 
 "I do not give Seetha even if the celestials, celestial musicians or demons attack
 me or even if there is a terror from all the worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ fearful; *manyase* = you are thinking; *pratipradaanam* = of giving back;
 
 "O, gentle one! As you were harassed very much by the monkeys and hence fearful; you
 are thingking of giving back Seetha now itself as good."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -229,8 +221,6 @@ causing the world to cry, spoke harsh words as aforesaid and then from there asc
 his palace which was shining white like his snow and which was equal to the height his snow and
 which was equal to the height of several palmyrah trees, with a desire to see the army of
 monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -286,8 +276,6 @@ the mountains; *vanaanicha* = and the forest; *dadarsha* = and beheld;
 
 Ravana, stupefied with anger, along with his spies, saw that ocean, the mountains
 and the forests and beheld the entire land completely filled with monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -334,8 +322,6 @@ army; *vaanaraaNaam* = of monkeys; *apaaram* = which was boundless;
 
 Seeing that great army of monkeys, which was boundless and intolerable, the king
 Ravana asked Sarana as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -381,8 +367,6 @@ great energy?
 
 "Which monkeys are important among them? Who are valiant ones? Who are the very
 strong ones? Who will stay in front at all places, with great energy?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -432,8 +416,6 @@ all.
 
 "To whom Sugreeva will hear? Who are the generals of the commanders of the
 monkey-heads? What is the influence of the monkeys? O, Sarana! Tell me all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -481,8 +463,6 @@ enquiring (about them).
 
 Then, Sarana who knew the chiefs of monkeys, spoke the following words about the
 chiefs of the monkeys i them, to the lord of demons who was enquiring about them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ is resembling a mountain- peak in stature, who is like filaments of a louts in h
 of anger continuously lashes out his tail and the swish of which is heard in ten regions, he is the
 prince named Angada, anointed by Sugreeva the king of monkeys and is challenging you to the
 battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -630,8 +608,6 @@ is remsebling amountain- peak in stature, who is like filaments ofa louts in hue
 anger continuously lashes out his tail and the swish of hwich is heard in ten regious, he is the
 prince named Angada, anointed by Sugreeva the king of monkeys and is challenging you to the
 battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -673,8 +649,6 @@ battle."
 
 "This Angada, a worthy son of Vali and always dear to Sugreeva, is coming forwards
 for Rama's interests, as Varuna is to Indra's."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -715,8 +689,6 @@ desires the welfare; *raaghavasya* = of Rama.
 
 "It is all due to Angada's design that Seetha was found by Hanuman, who is a swift
 monkey and a well-wisher of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -757,8 +729,6 @@ chiefs of monkeys; *abhiyaati* = is approaching; marditum to crush; *tvaam* = yo
 
 "This valiant Angada, bringing along with him innumerable cheifs of monkeys, is
 approaching to crush you, with the help of his own army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -799,8 +769,6 @@ the creator of the bridge; *viiraH* = and the valiant one; *samgraame* = in batt
 
 "Surrounded by a large army, here stands the valiant Nala the creator of the bridge,
 next to Angada the son of Vali, prepared for the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -896,8 +864,6 @@ sandalwood groves, yelling with a lion's roar and having stiffened their limbs, 
 eye=brows raised in anger. These valiant monkeys, who are terrific and fierceful having a feroceous
 zeal are going after Nala. Nala himself with his aforesaid army aspires to smash Lanka
 forthwith."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -949,8 +915,6 @@ worlds; *aagatya* = has come; *sugriivam* = to Sugreeva; *tuurNam* = swiftly;
 "A monkey called Sweta of sivlver hue who is quick-witted and cleaver, of terricfic
 prowess and a warrior renowned in the three worlds, has come to Sugreeva swiftly, dividing the army
 of monkeys and brining great delight to the troops, he goes back at once."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -1056,8 +1020,6 @@ around that mountainous region. He also used to rule that kingdom. He is the lea
 monkeys. He has a very long hair-coppery, yellow, pale and white and hideous to cook upon- thrown
 about on his tail is the intrepid and fierceful monkey called Kanda. He yearns to fight and boast
 that he with destroy Lanka his forces."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -1114,8 +1076,6 @@ attentively as though he wishes to consume it with his glasses, who dwells mostl
 of Krishna and Sahya of Vindhya range of pleasing aspect, is the General named Rambha. Three
 thousand crores of excellent monkeys, who are formidable of impetuous valour and vigour, surround
 him who is marching ahead and follow in his goot-sets to destroy Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -1192,8 +1152,6 @@ does not have fear of death, he who never retreats from a battle, but violently 
 who again sees obliquely, he who lashes out his tail and roars like a lion with great vigour, he
 who constantly dwells on the lovely Salveya mountain, he is Sarabha by name, the commander of
 monkeys with immense energy and devoid of fear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -1259,8 +1217,6 @@ strong.
 **टिप्पनी**
 
 *Viharas - Those who roam about at will.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1284,8 +1240,6 @@ Pariyatra; *anuttamam* = a mountain that is exceeded by none in height."
 of monkey-warriors like Indra the god of celestials, the great voice of whose monkeys wishing for
 battle is heard like the roll of drums, is the General named Panasa, who is always invincible in
 battle. He dwells in Pariyatra, a mountain that is exceeded by none in height."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -1332,8 +1286,6 @@ in separate units; *paryupaasate* = attend obediently; *enam* = to him.
 
 Troop-commanders numbering fifty lakhs commanding separate units attend obediently
 to him, who is excellent among the Generals."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -1410,8 +1362,6 @@ moves about; *piban* = drinking; *naddiim* = ( the waters of) River; *veNaam*
 like unto a second ocean is the commander called Vinata who resembles Dardura mountain (in size)
 and is positioned there lending charm to the formidable army marching ahead and moves about,
 drinking the water of River Vena, the foremost of all rivers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1433,8 +1383,6 @@ battle."
 
 "A monkey called krathana, keeping the courageous, strong monkeys and the
 army-lieutenants in separate units, is inviting you for the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1452,8 +1400,6 @@ sarvaan = all; *vaanaraan* = the monkeys.
 
 "That resplendent monkey who for his part nourishes his body having the hue of a red
 chalk and proud of his strength, stands facing you with anger despising all other monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 </details>
 
@@ -1503,8 +1449,6 @@ _________________
 
 "Seventy lakhs monkeys are attending on him. He himself wishes to crush the city of
 Lanka with the help of his army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

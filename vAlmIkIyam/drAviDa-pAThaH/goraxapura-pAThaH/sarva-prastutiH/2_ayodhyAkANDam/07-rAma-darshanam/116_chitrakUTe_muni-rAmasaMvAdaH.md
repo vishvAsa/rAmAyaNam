@@ -18,8 +18,6 @@ an elderly sage among them is asked by Rama about the reason for their anguish, 
 informs that some demons under the leadership of Khara are molesting the sages and hence the sages
 wished to leave the place. Rama gives his consent for their leaving. Bidding farewell to them with
 great respect, Rama retires to his own hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ sages; *outsukyam* = and their perturbation.
 
 Bharata having returned (to Ayodhya), Rama who was dwelling in the woods, observed
 anxiety accompanied by perturbation among the sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ those ascetics; *purastaat* = who were formerly; *nirataah* = quite pleased;
 
 He saw there those ascetics-who were formerly quite pleased in that hermitage at
 Chitrakuta depending as they did on Rama- anxious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ eye-brows; *shankitaah* = minifesting their anxiety; *upajalpantaH* = whispering
 
 Pointing out to Rama through the movements of their eyes and eye-brows manifesting
 their anxiety, they whispered among themselves, narrating some legends in secret.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ apprechension; *svaatmani* = about himself; *kR^itaajJNaliH* = and with joined p
 
 Perceiving their distress, Rama was filled with apprehension about himself and with
 joined palms spoke the following words to a sage, the leader of that community of ascetics:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -272,8 +262,6 @@ agitated.
 
 "O venerable sage! I fear that the conduct of my forefathers is not seen in me or
 there is some change for the worse in me, due to which the ascetics feel agitated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ Lakshmana; *aatmanaH* = the high-souled; *pramaadaat* = through inadvertence;
 
 "Has my younger brother, the high-souled Lakshmana, through inadvertence, behaved
 unworthy of him while the sages were seeing?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -369,8 +355,6 @@ for women.
 
 "I hope that Seetha, who is serving you and who is keen in serving me, does not, I
 am afraid, behaved properly, according to the conduct suitable for women."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -418,8 +402,6 @@ beings.
 
 Then, that grown-up sage, who was elderly both by age and penance, appeared
 trembling and spoke to Rama, who was ever compassionate to all beings, as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ disposition; *tathaa* = and ; *kalyaaNaabhirateH* = follower of virtue.
 
 "O, dear Rama! What is there for us the ascetics to fear above all from Seetha, who
 is natural in her disposition and is the follower of virtue?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -518,8 +498,6 @@ how (they may best defend themselves)
 
 "It is on account of demons, who, through enmity to you, have begun to oppress the
 sages. Alarmed by it, they discuss with each other how they can best defend themselves."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -577,8 +555,6 @@ you also.
 "O, darling! Here, a demon called Khara, Ravana's younger brother- who is a boaster,
 victorious in battle, cruel and eater of human flesh, haughty and sinful-having uprooted all the
 ascetics who dwell in Janasthana, is unable to endure you also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -625,8 +601,6 @@ ascetics who dwell in Janasthana, is unable to endure you also."
 
 "My darling! From which time you came to dwell in this hermitage, from that time
 inwards, the demons continue to ill-treat the ascetics."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -684,8 +658,6 @@ fillign them with terror; *naanaaruupaiH* = in diverse forms; *viruupaishcha* =
 
 "They appear in grotesque and harmful forms, filling them with terror, in diverse
 forms and possessing ugly and unnatural demeanor."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -701,8 +673,6 @@ them; *pratighnanti* = and kill; *aparaan* = some ascetics.
 
 "Flinging filthy and inauspicious objects on some of the ascetics, the wicked demons
 stand in front of them and kill some ascetics too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -749,8 +719,6 @@ those evil-minded demons; *ramante* = delight; *naashayantaH* = in destroying;
 
 "Having themselves in those hermitages unnoticed, those evil-minded demons delight
 themselves in destroying the ascetics there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -800,8 +768,6 @@ undertaken; *avakSipanti* = (they) scatter; *srugbaaNDaan* = sacrificial vessels
 
 "At the time of pouring oblations into the sacred fire, they scatter the sacrificial
 vessels, sprinkle the fires with water and break the water-pots."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -852,8 +818,6 @@ retreats; *aamR^iSTaan* = that have been invaded; *taiH* = by them;
 
 "Resolved to leave these retreats that have been invaded by evil spirits, the
 ascetics today are urging me to go to another area."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -900,8 +864,6 @@ abandoning; *imam aashramam* = this hermitage; *tat* = for that reason.
 
 "O, Rama! Before those wicked beings indeed show bodily injury to the ascetics, we
 are abandoning this hermitage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -952,8 +914,6 @@ assembly of sages.
 
 "Not far from here, there is a colourful grove yielding many roots and fruits. I
 will take shelter again in that previous hermitage itself, along with an assembly of sages."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -1000,8 +960,6 @@ will take shelter again in that previous hermitage itself, along with an assembl
 
 "O, darling! Khara, the demon will behave unjustly with you in the same way. If your
 mind feels so inclined, come along with us from here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -1051,8 +1009,6 @@ your stag; *iha* = here; *adya* = is now; *duHkham* = difficult.
 
 "O, Rama! To you, who live with your wife, though you are competent and ever
 watchful, there is a danger. Your stay here is conduced with misery now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -1098,8 +1054,6 @@ shashaaka* = could not; *avabandhum* = desist; *tam tapasvinam* = that sage;
 
 Rama the prince could not with his responsive words desist the said sage when he had
 spoken as aforesaid, eager as he was to leave the place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -1146,8 +1100,6 @@ his statement; *raaghavam* = to Rama; *jagaama* = went; *tyaktvaa* = leaving;
 
 Having greeted, bidding farewell and justifying his statement to Rama, that leader
 of the community departed, leaving the hermitage, along with a host of sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -1211,8 +1163,6 @@ Accompanying them for a distance from that place, bidding farewell to that group
 sages, offering his salutation to that ascetic, the leader of the community and taking leave of
 them, who were well-pleased and having received their counsel, Rama returned to his dwelling, which
 was sacred to reside.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 </details>
 
@@ -1268,8 +1218,6 @@ them; *dhR^itaguNaaH* = who had fixed their mind; *raaghavam* = on Rama;
 That Rama, the lord, did not leave even for a moment that hermitage that had been
 deserted by the sages. But some ascetics among them who had fixed their mind on Rama (who followed
 the conduct of the sages) constantly followed Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ title_english = "010 Hanuma enters Ravana s house"
 
 In this Chapter Hanuma has first glimpse of Ravana in his house. He also observes various wives
 of Ravana sleeping in the house. He sees Mandodari and thinks her to be Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -90,8 +88,6 @@ chitraaN^gaiH* = with wonderful parts made of ivory and gold; *vyDuuryaiH mahaar
 In that house, while observing, Hanuma saw a portion of house with beds and couches, consisting
 of best couches equaling those in heaven, made of crystal decorated with diamonds, with wonderful parts made of
 ivory and gold, covered with best beds made of cat's eye gems of great value.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -141,8 +137,6 @@ tasya* = of that room; *chhatram* = an umbrella; *paaNDuram* = white in colour; 
 
 Hanuma saw in a part of that room, an umbrella white in colour decorated with best flower garlands
 and resembling moon - the lord of stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -185,8 +179,6 @@ _________________
 
 Hanuma saw an excellent couch made of gold with radiance equaling that of fire, spread by garlands
 of Ashoka flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -260,8 +252,6 @@ their hands; *samantataH* = in all the four directions; *jushhTam* = obtained; *
 
 Fanned by women with fans in their hands in all the four directions and obtained by various fragrances
 fumigated by the best incense.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -275,8 +265,6 @@ rows; *varamaalyaanaam* = of excellent garlands.
 **अनुवादः**
 
 Covered by an excellent bed, spread by sheep skin everywhere and shone by rows of excellent garlands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -357,8 +345,6 @@ read eyes; *mahaabaahum* = with long arms; *mahaarajatavaasasam* = wearing gold 
 
 Hanuma saw Ravana in that house, equaling a cloud, wearing earrings with a brilliant shine with
 red eyes and with long arms wearing gold clothes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -373,8 +359,6 @@ in the red sky at sunset; *sataTidgaNam* = together with groups of lightening.
 
 With his body smeared with red sandal-wood with good fragrance like a cloud in the red sky at sunset,
 together with groups of lightening.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -390,8 +374,6 @@ mandaram iva* = resembling mount Mandara; *prasuptam* = in sleep; *savR^ikshavan
 
 Ravana was filled with excellent jewellery, with a good appearance, with an ability to assume desired
 form, resembling mount Mandara in sleep, together with groups of trees and bushes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -412,8 +394,6 @@ raakshasakanyaanaam* = to the Rakshasa girls; *sukhaavaham* = causing comfort; *
 
 Resting after having pleasure at night, bedecked with the best ornaments, he was a lover to the
 rakshasa girls and causing comfort to rakshasas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -427,8 +407,6 @@ rakshasa girls and causing comfort to rakshasas.
 **अनुवादः**
 
 That great Hanuma saw the gallant king of rakshasas in sleep on a shining couch resting after drinking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -488,8 +466,6 @@ serpent.
 
 That Hanuma, best among Vanaras neared Ravana, became very gloomy and moved away with great dread,
 as though from a hissing serpent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -508,8 +484,6 @@ sma* = (and) observed closely; *raakshasa shaarduulam* = Ravana.
 **अनुवादः**
 
 Thereafter the great Hanuma neared staircase, sought another dais and observed closely Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -559,8 +533,6 @@ samvishhThe* = when a scented elephant resides (in it).
 
 The excellent couch of the sleeping Ravana shone like a great lake when a scented elephant resides
 in it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -632,8 +604,6 @@ diamond; *vishhNuchakraparikshatau* = hit by Vishnu chakra;
 
 Those arms had wounds made by stabbing from the pointed edges of tusks of Iraavata and fleshy shoulders
 smeared with diamond and hit by Vishnu chakra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -675,8 +645,6 @@ with well grown and equal shoulders; *samgatau* = proportionate to body; *balasa
 
 These arms of Ravana were corpulent with well grown and equal strong shoulders proportionate to
 body, with knees and thumbs of good characteristics, with good fingers and palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -721,8 +689,6 @@ iva* = like five headed snakes; *vikshiptau* = thrown; *subhre shayane* = on cle
 
 With strong joints in the shape of club, round in shape resembling the trunks of an elephant, like
 five headed snakes thrown on clean couch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -783,8 +749,6 @@ deva daanava raaviNau* = (which made) yakshas; nagas; gandharvas; devas and daan
 Shoulders well smeared by best sandal with good smell and very cool resembling in color to a hare's
 blood, well decorated, massaged by the best women, served by the best sandal and which made yakshas, nagas, gandharvas,
 devas and daanavaas scream.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -826,8 +790,6 @@ Mandara.
 
 That Hanuma saw there arms on the couch like great serpents in anger sleeping in the middle of
 mount Mandara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -880,8 +842,6 @@ in honor ) of Indra.
 
 That Hanuma also saw the wealthy Ravana's arms tied with golden armlets thrown apart, resembling
 flag staffs raised in honor of Indra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -897,8 +857,6 @@ flag staffs raised in honor of Indra.
 
 That king of Rakshasas equaling a mountain with those shoulders, which were well built and shone
 like Mount Mandara with twin peaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 </details>
@@ -960,8 +918,6 @@ flavor of best cooked rice; *paanagandhapuraskR^itaH* = with the smell of liquor
 From the great face of that king of Rakshasas who was sleeping, came out breath with fragrance
 like that of flowers of chuuta and punnaaga, consisting of the best fragrance of Vakula flowers, together with
 the flavor of best cooked rice, with the smell of liquor as though filling that house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1161,8 +1117,6 @@ blood, well tied by a best cloth of yellow colour and of very best quality, rese
 snoring like a hiss of a snake, like an elephant sleeping in the middle of water belonging to the great river
 Ganga with all the four directions shone by the four lamps of golden colour, resembling a cloud with all the parts
 being shone by groups of lighting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1212,8 +1166,6 @@ out.
 
 The leader of Vanaras saw those wives of Ravana with faces with radiance of moon, adorned with
 beautiful earrings, wearing jewellery and flower garlands which were not worn out.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1264,8 +1216,6 @@ being in sleep.
 
 Hanuma saw wives of Ravana with skill in dance and musical instruments, who obtained the shoulders
 of Ravana wearing the best jewellery and being in sleep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1314,8 +1264,6 @@ and cats eye gems; *taapaniiyaani* = and having golden colour.
 
 He saw earrings of those women at the end of ears with embedded diamonds and cats eye gems and
 having golden colour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1366,8 +1314,6 @@ _________________
 
 With the faces of those women with delicate earrings which were equal to moon and auspicious that
 house shone like the sky with clusters of stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1414,8 +1360,6 @@ house shone like the sky with clusters of stars.
 
 Women of that Ravana being tired from lustful passion and exertion and having lean waists slept
 at first opportunity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1465,8 +1409,6 @@ dance postures.
 
 Another woman with skill in dancing consisting of delicate body postures slept in the same way
 with all her body parts making the same dance postures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1514,8 +1456,6 @@ with all her body parts making the same dance postures.
 
 One woman hugging veena and sleeping was shining like a lotus plant thrown away by the flow of
 a great river and resorting a boat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1563,8 +1503,6 @@ boy with love.
 
 Another woman with black eyes sleeping with an instrument called madduka under arm pit shone like
 a woman carrying an infant boy with love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1615,8 +1553,6 @@ _________________
 
 A woman with beautiful body features and with beautiful breasts slept tightly and hugged instrument
 called pataha as though hugging a lover, getting him after a long time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1665,8 +1601,6 @@ like a woman with lust; *gR^ihya* = holding; *priyatamam* = (her) lover; *rahaH*
 
 Another woman with lotus like eyes hugging a flute slept like a woman with lust holding her lover
 in secret.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1717,8 +1651,6 @@ with her lover.
 
 Another woman skilled in dance obtained sleep getting an instrument like veena and being in tune
 with it like a woman together with her lover.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1769,8 +1701,6 @@ gold; *mR^idupiinaiH* = and which were smooth and fleshy.
 
 Another woman with lusty eyes slept hugging a percussion instrument called mridanga with her body
 parts which were pleasant which resembled gold and which were smooth and fleshy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1821,8 +1751,6 @@ not to be blamed; *suptaa* = slept; *madakR^itasramaa* = due to tiresomeness fro
 
 Another woman with thin stomach, who was not to be blamed, slept due to tiresomeness from lust
 together with an instrument called Padama between her shoulders and reaching arm pits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1873,8 +1801,6 @@ her husband; *vastham* = and also her child;
 
 Another woman with an instrument called Dindima near her slept in the same way as a woman hugging
 her husband and also her child.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1924,8 +1850,6 @@ petals; *prasuptaa* = slept; *kR^itvaa* = making; *aaDambaram* = the instrument 
 
 Another woman with eyes like lotus petals slept making the instrument called adambara pressing
 it by her shoulders being desired by lust.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -1976,8 +1900,6 @@ spring.
 
 Another woman sleeping, felling down a small pot, shone like a flower garland with the flowers
 of strange hue made auspicious in spring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -2025,8 +1947,6 @@ hugging; *kuchau* = her breasts; *suvarNkalashopamau* = resembling golden pots; 
 **अनुवादः**
 
 Another woman slept hugging her breasts resembling golden pots by her hands, overcome with sleep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -2074,8 +1994,6 @@ Another woman slept hugging her breasts resembling golden pots by her hands, ove
 
 Another woman with eyes like lotus petals, with her face resembling full moon, overcome with lust
 slept hugging another woman with a beautiful hip region.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -2125,8 +2043,6 @@ with breasts; *kaaminyaH kaamukaaniva* = as though lustful woman with lusty men;
 
 Some excellent women slept hugging strange instruments and pressing them with breasts as though
 lustful woman with lusty men.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -2176,8 +2092,6 @@ women; *ruupasampannaam striyam* = a very beautiful woman; *syaanaam* = sleeping
 
 That Hanuma saw among those women a very beautiful woman sleeping on an auspicious couch arranged
 alone at a side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -2261,8 +2175,6 @@ well decorated; *bhuushhaNaiH* = by jewellery; *svashriya* = and with her self r
 Hanuma saw Mandodari with a beautiful form together with diamonds and pearls, well decorated by
 jewellery and with her self radiance as though decorating that great building with a fair complexion and with
 a radiance like golden colour, who was dear to her husband the lady of women in that gynaeceum sleeping there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2285,8 +2197,6 @@ harshhenayuktaH* = together with great pleasure.
 That Hanuma with great arms seeing the woman well decorated, out of logic thought thus: "This is
 Seetha by the wealth of her appearance and her youth". That warrior of Vanaras was delighted together with great
 pleasure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 </details>
 
@@ -2341,8 +2251,6 @@ land.
 
 He clasped his arms, kissed his tail he was delighted, he was playful, sang, paced showing his
 simian nature, climbed pillars and fell down on land.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

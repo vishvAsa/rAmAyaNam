@@ -21,8 +21,6 @@ husband. Reaching the hermitage, both Rama and Lakshmana hold the feet of the Qu
 Kausalya feels sad at the fate of Seetha in the forest, when the latter touches her feet. Rama
 holds the feet of his preceptor and takes his seat. Accompanied by his ministers, Bharata also sits
 nearby.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ wives; *purataH* = in front.
 
 Eager to see Rama again, Vasishta approached that place, preceded by Dasaratha's
 wives.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -110,8 +106,6 @@ lakSmaNa sevitam* = being frequented by Rama and Lakshmana.
 
 The king's wives, while moving slowly towards River Mandakini, saw the ford there,
 being frequented by Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ Kausalya; *abraviit* = spoke; *sumitraam* = to Sumitra; *yaaH* = and whoever;
 
 With a gloomy and emaciated face, filled with tears, Kausalya spoke to Sumitra and
 other royal women (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -205,8 +197,6 @@ illustrious exploits; *anaathaanaam* = who have no country.
 "This is the ford, located in the eastern region of the forest, frequented by
 Seetha, Rama and Lakshmana, banished from the kingdom; those unfortunate persons of illustrious
 exploits who have no country."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -253,8 +243,6 @@ putraH* = your son; *harati* = draws; *jalam* = water; *svayam* = himself;
 
 "O, Sumitra! Lakshmana, your son always draws water himself from here unwearyingly
 for the sake of my son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -302,8 +290,6 @@ virtues.
 
 "Through engaged in an inferior act (of carrying water), your son is not to be
 censured because all that service rendered to his brother is enjoined with virtues."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -344,8 +330,6 @@ now; *pramuNchatu* = will indeed be relieved; *sajjam* = of this laborious;
 
 "Your son too, who is not accustomed to such pains, will indeed be relived now of
 this mean, wretched and laborious task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -397,8 +381,6 @@ pointed towards the south.
 The large-eyed Kausalya observed a ball made of Ingudi pulp, which was placed by
 Rama in honour of his father on the ground, on aheap of Darbha grass, the raised spikes of which
 pointed towards the south.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -446,8 +428,6 @@ of Dasaratha (as follows):
 
 Seeing that ball of food placed on the ground by the unfortunate Rama for his
 father, the Queen Kausalya spoke to all those wives of Dasaratha (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -497,8 +477,6 @@ _________________
 
 "See this ball of food offered traditionally by Rama in honour of his father, the
 high-souled Dasaratha the Lord of Ikshvaku race."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -539,8 +517,6 @@ every pleasure; *mahaatmanaH* = and a great souled.
 
 "I do not consider this offering as befitting for that great-souled king, who was
 like unto a God and who lived amidst every pleasure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -588,8 +564,6 @@ mighty man; *bhuktvaa* = having enjoyed; *mahiim* = the earth; *chaturantaam*
 "How can that Lord of the earth, Dasartha, equal to the Lord of celestials and a
 mighty man, having enjoyed the earth with its four quarters, the boundaries of which are the
 oceans, eat a cake of Ingudi pulp?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -637,8 +611,6 @@ Ingudi pulp.
 
 "I do not consider any thing painful to me on earth than when Rama the man of
 fortune offering a cake of Ingudi pulp to his father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -688,8 +660,6 @@ his father; *katham* = why; *me hR^idayam na sphoTati* = does my heart not break
 
 "Seeing this offering, a cake of Ingudi pulp, of Rama to his father, why does my
 heart not break into a thousand pieces with anguish?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -737,8 +707,6 @@ heart not break into a thousand pieces with anguish?"
 
 "It indeed occurs to me that the saying among men that the food eaten by man is also
 consumed by his Gods is true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -786,8 +754,6 @@ Immortal; *svargachyutam* = driven out of Paradise.
 
 Consoling Kausalya thus afflicted by grief, Kausalya's companions then proceeded
 further and saw Rama in his hermitage, who resembled an Immortal driven out of Paradise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -834,8 +800,6 @@ mothers; *shokakarshitaaH* = agnised with grief; *aartaaH* = and in deep distres
 
 Beholding Rama bereft of all enjoyments, his mothers agonized as they were with
 grief, emitted cries and allowed tears to flow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -882,8 +846,6 @@ all; *taasaam maatR^iiNaam* = those mothers.
 
 Rama, the tiger among men, true to his promise raised up and took hold of the
 auspicious feet of all his mothers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -931,8 +893,6 @@ pR^iSThaat = back.
 
 Those large-eyed Queens, by means of their pleasantly touching soft fingers and
 palms as well as charming hands, wiped the dust from Rama's back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -982,8 +942,6 @@ devotedly; *raamaat anantaram* = immediately offer Rama.
 
 Seeing all those mothers, the wailing Lakshmana too slowly paid obeisance devotedly
 to them all by bowing to each in turn, immediately after Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1025,8 +983,6 @@ towards Rama.
 
 All Dasaratha's wives manifested the same affection towards Lakshmana, who was born
 of Dasaratha and exceedingly handsome, as they did to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1073,8 +1029,6 @@ in their front; *ashrupuurNaakSii* = with her eyes filled with tears.
 
 Then, the grief-stricken Seetha, her eyes filed with tears, also touched the feet of
 her mothers-in-laws and stood before them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1126,8 +1080,6 @@ afflicted with grief; *vana vaasakR^ishaam* = emaciated because of her stay in t
 Kausalya embraced the miserable Seetha as a mother her daughter, she who was
 emaciated because of her stay in the forest and afflicted with grief, and spoke the following
 words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1174,8 +1126,6 @@ duaghter-in law; *dasharathasya* = of Dasaratha; *sampraapto* = has met with;
 
 "How has the daughter of King Janaka, the daughter-in-law of King Dasaratha and
 Rama's wife, fallen into such a wretched plight that she is living in a desolate forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1246,8 +1196,6 @@ adversity; *aashrayam maam manasi* = and existing in my mind; *ddahati* = burns 
 "O, Seetha! Seeing your face, like a lotus withered with heart or a faded lily or
 gold defiled with dust or a moon hidden by the clouds, the fire of grief produced by the firewood
 of adversity and existing in my mind burns me severely."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1295,8 +1243,6 @@ Vasishta.
 
 While the sorrowful mother was speaking thus, Rama the elder brother of Bharata
 approached Vasishta and took hold of his feet in salutation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1352,8 +1298,6 @@ down; *tena sahaiva* = by his side.
 Then, Rama holding the feet of that priest, who was equal of Agni the fire and
 endowed with very great splendour, even as Indra the Lord of celestials would clasp the feet of
 Brihaspati, sat down by his side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1408,8 +1352,6 @@ people; *upopaviSTaH* = approached and sat near; *agrajam* = his elder brother.
 Then, after Rama and Vasishta sat, Bharata the pious man along with his counsellors,
 the leading citizens, warriors and virtuous people seated himself at a lowel level at a proximity
 to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1466,8 +1408,6 @@ creation.
 Seeing Rama in the garb of an ascetic, radiant in majesty, the extremely powerful
 Bharata, paying obeisance to him with joined palms, then took his place in his presence, as the
 devoted Indra the Lord of celestials sits before Brahma the Lord of creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1523,8 +1463,6 @@ having offered salutation; *satkR^itya cha* = and paid homage (to him).
 A highest curiosity arose in the minds of those worthy men (assembled there) as to
 what persuasive words Bharata at that moment would utter, while addressing Rama, having offered
 salutation and homage to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 </details>
 
@@ -1582,8 +1520,6 @@ That Rama endowed with truth and forbearance with Lakshmana who was bestowed wit
 magnanimity and the pious Bharata, surrounded by his companions, were as resplendent as the three
 sacrificial Fires (known by the names of Garhapatya, Ahavamiya and Dakshina), accompanied by the
 superintending priests.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga104/ayodhyasans104.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

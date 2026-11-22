@@ -18,8 +18,6 @@ bring Rama to his presence once again. After Rama arrives, Dasaratha expresses t
 to anoint Rama as a prince the very next day. He cites various bad dreams and inauspicious signs as
 the reason for his haste. Rama thus informed by his father, goes to his mother's house and informs
 her of the good news. Kausalya becomes delighted at the news and gives Rama her blessings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -89,8 +87,6 @@ After the citizens left, Dasaratha who was efficient in taking decisions pertain
 to place and time of ceremonies, again conferred with the ministers and decided thus: "Tomorrow
 will be a day when the constellation of Pushya would be in the ascendant. My son Rama, who has eyes
 like red lotus, can be crowned as a prince tomorrow".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -137,8 +133,6 @@ bring; *raamam* = Rama; *punaH* = again; *iha* = here.
 
 Thereafter, king Dasaratha entered the inner palace and then ordered Sumantra thus,
 "Bring Rama again here".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -186,8 +180,6 @@ words; *saH* = that; *suutaH* = charioteer Sumantra; *punaH* = again;
 
 Obeying the king's words, Sumantra went to Rama's house immediately to bring Rama
 once again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -229,8 +221,6 @@ doorkeepers; *shrutvaa cha api eva* = and as soon as Rama heard; *tam* = his
 
 The doorkeepers informed Rama that Sumantra had come again. Hearing that, Rama was
 uncertain as to the reason for Sumantra's arrival again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ what; *te aagamana kR^ityam* = purpose is your arrival.
 
 Rama immediately allowed Sumantra inside and spoke these words to him: "Tell me
 completely the purpose of your arrival again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -326,8 +314,6 @@ Dasaratha; *ichchhati* = wants to; *drashhTum* = see; *tvaam* = you;
 
 Hearing those words, Sumantra said: "King Dasaratha wants to see you. Decide
 yourself in this matter whether to proceed to your father or otherwise".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ again.
 
 Rama, after hearing Sumantra's words, started immediately and went to the royal
 palace to see king Dasaratha, the Lord of people, again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -423,8 +407,6 @@ palace to see king Dasaratha, the Lord of people, again.
 
 Hearing Rama to have arrived, king Dasaratha allowed him to come into the house, to
 tell him an excellent and affectionate word.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -472,8 +454,6 @@ of Raghu); *pravishanneva* = soon after entering; *pituH* = father's;
 
 The glorious Rama, soon after entering his father's house, saw his father from a
 distance and fell prostrate before him in an act of submission, with his palms joined together.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -521,8 +501,6 @@ beautiful; *aasanam* = seat; *asmai* = to him; *abraviit* = (and) spoke;
 
 Dasaratha lifted Rama up and took him into his embrace. Then, he offered a beautiful
 seat to Rama and spoke to him as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -572,8 +550,6 @@ ceremonies (have been performed); *kratushataiH* = (through) hundreds of sacrifi
 "Oh Rama, I have now become aged after living for a long period. I enjoyed all the
 luxuries in life, as I desired. I propitiated Gods by performing hundreds of sacrifices, in which
 food and lots of fees were given away to the officiating priests. "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -617,8 +593,6 @@ performed); *adhiitam cha* = and (Vedas and other holy scriptures have been) stu
 "O Rama, the best of men! You are now born to me as without an equal on earth and as
 my beloved child. I had given away lots of donations, I had performed holy rites and I have also
 studied Vedas and other Holy Scriptures during my life time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -662,8 +636,6 @@ myself.
 of all debts to the celestials (by performing holy sacrifices), to the sages (by studying Vedas
 etc.), to my ancestors (by begetting you), to the Brahmans (by giving away donations and food) and
 to myself (by enjoying all comforts as I desired)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -711,8 +683,6 @@ to myself (by enjoying all comforts as I desired)."
 
 "I have no duty other than to anoint you for the crown. Hence, do what I tell
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -753,8 +723,6 @@ people; *ichchhanti* = want; *tvaam* = you; *naraadhipam* = as king;
 
 "Now all the people want you to be the king. Hence, I can install you as
 prince."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -803,8 +771,6 @@ inauspicious; *svapne* = dreams; *iha* = here; *sanirghaataa* = thunderous;
 "Oh, Rama! It is not only the people's desire, but also these days I am getting
 fearful and inauspicious dreams. Here, thunderous comets are falling with great sound, during day
 time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -851,8 +817,6 @@ encroaching; *me* = my; *nakshatram* = natal star.
 
 "Oh, Rama! Astrologers are informing me that fearful planets like Sun, Mars and Rahu
 are encroaching my birth star."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -899,8 +863,6 @@ generally; *aapnoti* = will get; *mR^ityum* = death; *vaa* = or;
 
 "Whenever such inauspicious signs are produced, the king generally will get either
 death or a fearful accident."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -948,8 +910,6 @@ anointed to crown; *chalaahi* = Is it not unstable; *matiH* = the mind;
 
 "Oh, Rama! Hence, before my mind gets changed, get you anointed to the crown. Are
 not the minds of men unstable?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -998,8 +958,6 @@ joins pushyami star; *niyatam* = can be fixed (for coronation ceremony).
 "Today, the moon is entering the constellation known as Punarvasu which comes before
 Pushyami star. The astrologers inform that the coronation ceremony can be fixed for tomorrow, when
 the moon joins Pushyami star."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1048,8 +1006,6 @@ kingdom; *svaH* = tomorrow.
 "Hence, get anointed for the crown on the day of Pushyami star. My mind is urging me
 as it were to expedite things. O, annihilator of the enemies! I shall anoint you for the princely
 kingdom tomorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1097,8 +1053,6 @@ Kusha grass.
 
 "That is why, with self control, you along with your wife should observe fast for
 this night from now onwards, and sleep on a couch made of Kusha grass."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1139,8 +1093,6 @@ this night from now onwards, and sleep on a couch made of Kusha grass."
 
 "Generally, there are many obstacles for such type of functions. Hence, your friends
 should guard you vigilantly from all directions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1182,8 +1134,6 @@ opinion.
 
 "It is my opinion that your coronation function should occur, while Bharata is away
 from the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1237,8 +1187,6 @@ the path of good people.
 
 " Bharata, your brother, goes according to his eldest brother. He is righteous,
 compassionate and has the senses under control. He verily follows the path of good people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1254,8 +1202,6 @@ cha* = endowed with goodness; *kR^ita shobhi* = may act unexpectedly on impulse.
 
 "Oh, Rama! It is my opinion that minds of men are inconstant. But the ever
 righteous, endowed with goodness, sometimes may act unexpectedly on impulse."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1304,8 +1250,6 @@ father; *abhyayaat* = went; *gR^iham* = to house.
 Dasaratha, after telling in this way about the ensuing coronation ceremony scheduled
 for the next day, permitted Rama to depart. Rama offered his salutations to his father and went to
 his house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1353,8 +1297,6 @@ mother's queenly palace.
 
 After hearing the decision of Dasaratha regarding coronation ceremony, Rama entered
 his house and by starting immediately, went to his mother's queenly house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1395,8 +1337,6 @@ in a silent way; *ayaachatiim* = who is praying; *shriyam* = goddess Lakshmi.
 
 There, in the queen's worshipping place, Rama saw Kausalya silently in meditation,
 wearing silk clothes and praying to goddess Lakshmi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1443,8 +1383,6 @@ wearing silk clothes and praying to goddess Lakshmi.
 
 Hearing the good news of the coronation ceremony of Rama, Sumitra and Lakshmana came
 there even before Seetha was brought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1491,8 +1429,6 @@ being attended closely ; *sumitrayaa* = by Sumitra; *siitayaa* = by Seetha;
 
 At that time, Kausalya closed her eyes and was in meditation. Along with her,
 Sumitra, Lakshmana and Seetha were sitting nearby.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1540,8 +1476,6 @@ Vishnu.
 
 Hearing that her son will be anointed for the princely kingdom on the day of
 Pushyami star, Kausalya with controlled breath, was meditating on lord Vishnu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1592,8 +1526,6 @@ delighted.
 
 Rama approached his mother, even while she was engaged in pious observance, offered
 salutation and spoke the following words making her delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1652,8 +1584,6 @@ _________________
 
 "Oh, mother! My father ordered that I should rule the people. As per his orders,
 there will be anointing ceremony to me tomorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1669,8 +1599,6 @@ teachers; *uktavaan* = spoke; *evam* = this; *maam* = to me.
 
 "Seetha too, along with me should observe fast this whole night. The father together
 with preceptors and teachers said this to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1717,8 +1645,6 @@ me; *vaidehyaaH chaiva* = and to Seetha; *adya* = today.
 
 "Have all the auspicious rites that are required for the ensuing tomorrow's
 anointment ceremony, performed to me and to Seetha today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1766,8 +1692,6 @@ ceremony; *chirakaalaabhikaaN^kshitam* = which was being desired for a long time
 
 Hearing the news of anointment ceremony, which was being desired by her for a long
 time, Kausalya spoke to Rama the following sweet words with tears of joy in her eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1809,8 +1733,6 @@ Sumitra.
 
 "Oh, child Rama! You live a long life! Let your enemies be destroyed! Let the
 cousins of mine and of Sumitra be made happy by your glory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1858,8 +1780,6 @@ virtues.
 
 "O, my little son! You were born to me on a day of an auspicious star. That is why,
 your father king Dasaratha was propitiated by your virtues."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1907,8 +1827,6 @@ this one; *ikshvaaku raajyashriiH* = the glorious kingdom of Ikshvaku dynasty;
 
 "O, son! My worship to the lotus eyed Lord Vishnu with endurance has become
 fruitful. Hence, this glorious kingdom of Ikshvaku dynasty is going to embrace you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -1956,8 +1874,6 @@ smilingly; *idam* = these words.
 
 Rama, after hearing the words spoken by his mother, saw his brother Lakshmana who
 was sitting humbly nearby with joined palms and spoke to him smilingly as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -2005,8 +1921,6 @@ reached; *tvaam* = you; *me* = my; *dvitiiyam* = second;
 
 "O, Lakshmana! You rule this earth together with me. This glorious kingdom has
 reached you, who are my second conscience."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -2053,8 +1967,6 @@ reached you, who are my second conscience."
 
 "O, Lakshmana! You enjoy the benefits as desired by you and the fruits of kingdom. I
 desire to live and even to rule the kingdom but for you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 </details>
 
@@ -2104,8 +2016,6 @@ obtain permission and; *jagaama* = went; *svam nivesanam* = to his house.
 
 Rama, after speaking thus to Lakshmana, offered salutations to both the mothers, got
 Seetha to obtain permission from them and went to his house along with Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

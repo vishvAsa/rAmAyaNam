@@ -27,8 +27,6 @@ A word about this chapter. Readers acquainted with critical version of Ramayana 
 find some 35 verses in this chapter that are unknown to them. They occur in all the other
 traditional versions and they carry the blemish of interpolation. They are inescapable in
 traditional versions, as age-old commentators have commented on them at length.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -136,8 +134,6 @@ sphere of moon on silvern sky freed by ceasing rains, and even autumnal nights t
 with moonshine, and thus he observed that Seetha is lost hopelessly, engrossed in lust Sugreeva is
 lost to world intractably, and furthermore time too is being lost irretrievably, and thus he became
 highly impatient and even swooned. [4-30-1, 2, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -184,8 +180,6 @@ Vaidehi; *cintayaamaasa* = started to think.
 
 But on getting consciousness in a moment, that thoughtful king Raghava started to
 think of Vaidehi who is abiding in his heart, though not at his side. [4-30-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -232,8 +226,6 @@ birds, shrieks, [now] vibrant with; *vimalam ca* = spotless, also; *vyoma dR^iST
 
 On seeing the sky to be spic and span when set free of black-clouds and lightning,
 and even vibrant with the shrieks of Saarasa birds, Rama bemoaned in woeful words. [4-30-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -282,8 +274,6 @@ soliloquised his thoughts in this way.]
 Rama's concepts are on the rove towards his ladylove when he beheld the skyscape of
 autumn while sitting on the summit of a mountain that is embellished with gold and other ores, and
 he soliloquised his thoughts in this way. [4-30-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -340,8 +330,6 @@ used to call me to observe these birds in a voice that soundalike the Saarasa bi
 delighted to listen the callings of those birds together. But now staying among demons how can she
 take delight in seeing these seasonal birds or call me for help with such a voice, because her
 voice is lost in the blare of bawling demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -400,8 +388,6 @@ On seeing these flowers Seetha used to go near the trees to check their beauty,
 and even used to check up for my availability to show their beauty to me. Now if she sees these
 seasonal flowers in that place where she is captivated, at least for a moment, but if she does no
 find me there, she looses her heart for these flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -466,8 +452,6 @@ synchronising with the clucking of swans. On my awakening, I used to see her aus
 all-charming physique, by that I daily used to have a waking up protocol, *suprabhaata
 seva*, now how
 she can do it or how I can enjoy her sight every morning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -518,8 +502,6 @@ listening; *katham bhaviSyati* = how, she, will be - what becomes of her.
 "On hearing the sharp notes of Cakravaka birds that always move together in couples,
 what will become of this white-lotus-like broad-eyed Seetha, since she is not together with me.
 [4-30-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -570,8 +552,6 @@ without; *sukham na labhe* = joy, not, - I am - able to get.
 "I am not able to enjoy myself without that deer-eyed lady though wandering around
 enjoyable lakes, rivers, tanks, forests and woodlands, whose thirst is drenched by rainwater and my
 thirsting for her is not. [4-30-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -629,8 +609,6 @@ knowing fully well that she is separated from me besides being a delicate person
 Love-god leave her alone? No, He will not... for, merciless is that Manmatha, God of Love, and He
 may agonise Seetha till death, for she is an unyielding woman to others*pati vrata* , nor I am at
 her side.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -686,8 +664,6 @@ on rain water alone, but not on water in rivers or brooks. They fly up to skies 
 directly from clouds granted by Indra. So also Rama is desirous of Seetha alone for his theory is
 'one-man-one-wife.' Thereby he does not eye other women. In epical aesthetics this is called
 *anukuula naayaka lakshaNa* 'hero in harmony.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -738,8 +714,6 @@ seen.
 
 Meandering on the pleasant mountain-terraces in search of fruits brilliant Lakshmana
 returned and has seen his elder brother Rama. [4-30-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -800,8 +774,6 @@ Rama; *bhraatuH viSaadaat* = owing to brother's, sadness; *ati diinaH* = on beco
 Noble-hearted Saumitri, on observing lone Rama in a lonely place, who is beset with
 unbearable sadness and whose posture is vacuous, became very miserable for the sad condition of his
 brother, and spoke to Rama fretfully. [4-30-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -870,8 +842,6 @@ purpose can be achieved now in retracing steps from the goal. [4-30-16]
 passional temperance has arrived now, namely the autumn, and now loosing heart to shameful sadness,
 and loosing manly boldness to seasonal passions... what purpose can be achieved by it?' Maheshvara
 Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -935,8 +905,6 @@ results]; *sva karma ca* = your own, endeavour [daily rituals to gods,] also; *h
 good disposition of mind, and bring time under control with steadfastness and ideation, and the
 capabilities of your helpmates, say Sugreeva and others be gathered, and the basis for your
 achievements, say daily rituals towards gods, be performed by you as your means. [4-30-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -994,8 +962,6 @@ attainable one for others, oh, highly honourable one, if it is said that none wi
 nears the tongues of flaming fire, oh, brave one, it is not so, for Janaki is a flaming fire, and
 anyone nearing her in ill-will will be burnt to ashes like a grass-hopper." Thus Lakshmana said to
 Rama. [4-30-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1083,8 +1049,6 @@ Lakshmana.
 Rama spoke to seemly and undeniable Lakshmana with words that emerged from his very
 nature, which are tasteful, morally abiding, and further abounding with friendliness,
 righteousness, and meaningfulness.[4-30-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1105,8 +1069,6 @@ factors that contribute to its accomplishment, like enthusiasm, helpmates etc., 
 through, and not only these aspects but we also have to observe the fruition of task when that task
 is becoming unwieldy, unattainable and formidable, along with the lapse of time and lapsing of
 help." Thus Rama said to Lakshmana. [4-30-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1153,8 +1115,6 @@ to Lakshmana, spoke.
 
 On thinking about the fruit of his mammoth task, namely that lotus-petal-eyed
 Maithili, thereafter Rama spoke to Lakshmana with a dried-up face. [4-30-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1202,8 +1162,6 @@ off. [4-30-22]
 Here a selfless philanthropist who accords benefits on his own without any
 petition or prayer is suggested in referring to Indra and rains, and Rama has not yet done such act
 in respect of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1251,8 +1209,6 @@ trees, overhead, going; *meghaaH salilam visR^ijya* = clouds, waters, on let loo
 "Clouds roving on the tops of mountains and trees with their protracted and profound
 peals have let the water loose and they are now retired, oh, prince, but tireless are rumbles and
 grumbles in my heart, thus I cannot retire. [4-30-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1309,8 +1265,6 @@ responsible for world's sustenance, but they now are nonchalant on performing th
 with their administrator Indra. Rama is not able to do his duty due to slackness of Sugreeva, and
 thus he is questioning himself whether his mission / incarnation is going to be futile or
 worthwhile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1357,8 +1311,6 @@ rain's, with winds; *caritvaa vi rataaH* = on wafting, without, activity - pause
 
 "Now pausing are the high-speeded rainy-winds, which once speedily swooped with
 water in their wombs, and wafted the fragrance of Kutaja and Arjuna flowers. [4-30-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1405,8 +1357,6 @@ peacocks, also; *prasravaNaanaam ca* = of freshets, also; *naadaH* = rales;
 
 "The rales of clouds, elephants, peacocks, and oh, merited Lakshmana, of the
 freshets too, are suddenly quietened. [4-30-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1456,8 +1406,6 @@ aabhaanti* = enamelled, as though, shining forth.
 
 "Scoured well by rains from colossal clouds those amusing mountain terraces are
 grime-less and they shine forth as though enamelled with the moonbeams. [4-30-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1519,8 +1467,6 @@ rollicking. [4-30-28]
 The seven-leaved banana plants are bearing whitish-buds, the luminosity of sun,
 moon and stars is blanched and because such a congenial atmosphere of autumn is prevailing the
 elephants are frolicking, since no other season can make those pachyderms joyous.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1584,8 +1530,6 @@ indicated by the gleaming lotuses. In autumn the sun does not scorch, thus by hi
 awakened are the pink, blue, and white lotuses, and there are many such lotus-lakes, which also
 gleam with their gleaming lotuses, and thus 'Lakshmi' - the affluence, splendour, grandeur, of
 nature is glorified through the sage-like lotuses' bloom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1648,8 +1592,6 @@ the swarms of honeybees that are singing in accompaniment to the rustle of breez
 that breeze for its fragrance, and because that breeze is breezing unceasingly, that alone is
 fetching the pride of rut for the already rutted elephants, and thus this autumnal season is highly
 glistening. [4-30-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1715,8 +1657,6 @@ come nigh the swans are larking. [4-30-31]
 Swans and Cakravaka birds are said to be born enemies. But due to autumnal
 effect, they have stopped their infighting and came together on the sand dunes, for their mating
 games.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1776,8 +1716,6 @@ verily, shining forth.
 "Divided variously the autumnal glory is shining forth among the overbearingly
 ruttish elephants that are trumpeting, among the herds of haughty bulls bellowing, and among the
 limpid waters that are murmuringly slopping down. [4-30-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1848,8 +1786,6 @@ in Seetha, but his present priority is to conquer Ravana, for which Ravana is to
 Further, gone is the festivity to Rama, which chanced while befriending Sugreeva, who then was in a
 similar state, but now completely transformed into a frivolous monkey. Thus, Rama is pondering over
 the possibility of locating and conquering Ravana by himself, should Sugreeva refuse the pact.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1911,8 +1847,6 @@ illuminated, as though.
 of the boughs of those trees are sagging down by their much weighty flowers-bunches, and
 eye-delighting is the golden-yellow hue of those flowers, and with them the interiors of these
 forests look as though illuminated, lit with golden lamps. [4-30-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -1969,8 +1903,6 @@ mandaaH* = strides, slackened.
 those best elephants that have a fond for forests and lotus-lakes has started to flow on their
 temples, thus they are indulgent in rut and their strides are slackening while they are moving
 along with their beloved female elephants. [4-30-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2026,8 +1958,6 @@ bright.
 "The sky is clear as with the tinge of just whetted weapon, lessened are the flows
 of river-waters, breeze is chilly while wafting the chillness of red-lotuses, and all the
 directions released from the darkness are looking bright. [4-30-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2087,8 +2017,6 @@ people's, lords; *adya udyoga kaalaH* = now, strive [against,] time.
 "Overcome by the sun's heat dried out is the sludge, at last the earth is dense with
 the up-heaved dust, and for the lords of people who have mutual animosity this is the time to
 foregather their forces to strive against one another. [4-30-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2144,8 +2072,6 @@ hankering for; *nadanti* = are bellowing.
 "The nature of autumn has enhanced the features of bulls' bullishness and with their
 bodies covered with dust and their vigour pepping them up they are ecstatic, and staying in the
 midst of cowherd they are bellowing hankering for bullfights. [4-30-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2207,8 +2133,6 @@ prayaati* = tagging along.
 "While a ruttish male elephant is going in the forest the slow paced she-elephant is
 tagging along her male along with other elephants of her breed, and with an intensified attachment
 and passion she is bumping and rubbing her husband. [4-30-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2278,8 +2202,6 @@ fortune is enriched by this autumn, though they are inferior to peacocks in anyw
 the lusty twitters of Saarasa birds are more or less insulations to these one-time-fortunate
 peacocks. So also, should the one-time-fortunate Rama, be insulted by the newly fortunate
 Sugreeva?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2349,8 +2271,6 @@ lotus is swished and swashed by a ruttish elephant, called Sugreeva, whose sudde
 seasonal water in lakes, that too made available by Rama, is making him to swill only a few
 mouthfuls of watery toddy-liquor. For that Rama, who is flitting so far from forest to forest, is
 alarmed like the flitting birds called Kaarandava and Cakravaka-s.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2410,8 +2330,6 @@ delightedly, falling down [diving deeply.]
 "De-silted is the silt of rivers and they are with sand-dunes and serene waters, and
 cow-stock is gathering there, besides, they are resonant with clucking of Saarasa birds, in such
 rivers swans are delightedly taking deep dives. [4-30-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2468,8 +2386,6 @@ definitely.
 are quietened, and much amplified gusts of wind, and screams of peacocks along with crocks of
 frogs, are now completely undone as their festivity is definitely lost with the rains.
 [4-30-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2533,8 +2449,6 @@ While frogs welcome the rain snakes despise the same. In the game of
 hunter-hunted, snakes are now on spree for their hunt, because the festivity of frogs is over and
 they can fall prey to snakes. But where is the prey, namely Ravana, for the snaky arrows of
 Rama?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2593,8 +2507,6 @@ for the moon.
 
 "Aha! By the touch of the hand of her twinkling hero a damsel in all her love to him
 is delightedly widening her pupils and disrobing her ochry robe on her own. [4-30-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 
 </details>
@@ -2650,8 +2562,6 @@ iva* = damsel, like; *vibhaati* = glistening.
 "Damsel-night is with the risen-moon as her genteel-face, myriad-stars as her
 twinkling-eyes, moonlight as her veiling-cloth, and she is glistening like the one who
 fully-enfolded her limbs within a whitish-cloth-like moonshine. [4-30-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2706,8 +2616,6 @@ with; *nabhaH sam aakramati* = sky, well, overrun;
 "On eating richly ripened yield of rice delighted are the Saarasa birds, and in a
 delightful bird-line with swift speed they are overrunning the sky like a stringed flowery-tassel
 up-heaved by wind. [4-30-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2769,8 +2677,6 @@ Very deep and vast is the tank in which clear and unruffled water is there. On
 that water one white swan is sleeping around which white-lotuses are thickset. It is like the
 nightly autumnal vault of heaven brightened with one full moon and many stars, clear of any
 cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2833,8 +2739,6 @@ The swaying swan-lines are the girdles of the lake-maid, and lotus-rows are her
 flowery tassels, and with the floating of the swans the water ruffles, then that ruffled water is
 ruffling those girdles and tassels on the sheet of water, thus the tank is appearing like a maiden
 on whose body girdles and tassels are swaying and swinging.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2903,8 +2807,6 @@ cows, and the fluting of the transverse flutes of cattle-boys, and the chanting 
 are audible like the sound emitted from mountain caves are permeating into the breeze. And the
 tuneful breeze is supplementing that intermixed sound, and thus all are commixed and broadcast by
 that breeze to the delight of the inhabitants of that locale.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -2971,8 +2873,6 @@ While the reed-beds with white flowers on either side of two banks of the river
 are like a white silky outfit, the two riverbanks beneath them are the two buttocks of that
 lady-river. Since her water is tossing against each bank, her buttocks appear swinging and thereby
 the silk clothe like reed-bed is swinging.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3034,8 +2934,6 @@ journey; *kurvanti* = making - journeying.
 yellowed with the pollen of lotuses and asana flowers when they had bouts of nectar, and they are
 saucily but delightedly making their journey along with their lady-loves in tow with the forest
 breeze. [4-30-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3090,8 +2988,6 @@ apa niita] = removed, phased out; *kaalam* = time; *shamsanti* = denoting.
 "Waters are standing tranquilly, flowers are smiley, crane-birds are noisily,
 rice-crops are ripely, breeze is softly, and moon is brightly, thus they denote the time of rains
 has phased out. [4-30-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3146,8 +3042,6 @@ upa bhukta alasa gaaminiinaam* = with lover, on romancing, tiresomely, that are 
 "In the dame-like rivers fish are very closely seen as if they are girdle ornaments
 of that dame, and nowadays these dames are strutting slothfully like ladyloves who strut tiresomely
 in the early morning of next day, after a nightlong romancing with their lovers. [4-30-54]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3218,8 +3112,6 @@ resembles the inerasable tattooing, whereas this sort of lines are crafted with 
 or with the orpiment like Gorocana, which will fade away after some days, like henna
 *mehandi*. This is a handicraft of womenfolk who sophisticatedly draw the shapes of leafs,
 creeper-plants etc. Nowadays these leafy-lined decorations are coming as stickers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3279,8 +3171,6 @@ caapaH udyata daNDa caNDaH* = taking, bow, to punish, unimpededly; kaamaH - Love
 "In the forest that is portrayed with the flourishing Baana and Asana trees, where
 the honeybees are humming elatedly, there alone the Love-god, Manmatha, is moving about unimpededly
 taking his bow to punish the lovesick. [4-30-56]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3335,8 +3225,6 @@ forsaking; *praNaSTaaH* = dissipated.
 "On appeasing the world with good rains, on filling the rivers and tanks, and on
 making the earth to derive good harvests also, clouds have dissipated forsaking the sky.
 [4-30-57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3382,8 +3270,6 @@ pulinaani dunes; *shanaiH shanaiH darshayanti* = slowly, slowly, showing.
 
 "The autumnal rivers are showing their dunes slowly and slowly, as with shying
 brides showing hips in their new trysts, slowly and slowly. [4-30-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3430,8 +3316,6 @@ aashayaaH* = such - water, receptacles - lakes; *vibhaanti* = verily, glistening
 
 "Oh, gentle Lakshmana, with clear waters, well sounding fish-hawks, teeming teams of
 Cakravaka birds the lakes are glistening well. [4-30-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3487,8 +3371,6 @@ victory, oh, gentle Lakshmana, for those kings their striving time has come up. 
 Rama is also bound by hostile mood and anxious to start his campaign against
 evil as *muhuurta* 'opportune time...' has come. Please refer to verse 78 in this chapter for
 details.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3539,8 +3421,6 @@ not, even, I perceive.
 
 "This is the starting time for invasions of the kings, but I do not even perceive
 Sugreeva, or his striving for any invasion as such. [4-30-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3590,8 +3470,6 @@ shyaama creepers; *dR^ishyante* = are appearing.
 
 "On mountain terraces there appear flowered Asana trees, seven-leaved banana plants,
 Kovidaara, Bandhujiiva trees, and the Shyaama creepers. [4-30-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3648,8 +3526,6 @@ Here it is said that there is a problem with the copyist of palm-leaf books.
 These two verses 62 and 63 occur prior to the verse 60 in some mms. The thought of Rama is about
 Sugreeva as spoken at verse 61, and these two verses suddenly switching over to trees and birds,
 thus they are mismatching in the placement.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3697,8 +3573,6 @@ months, rolled by.
 
 "Four rainy months have rolled by and to me they are like a hundred years, for I
 have not seen Seetha, likewise I am seethed in grief. [4-30-64]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3746,8 +3620,6 @@ bird, as with; *pR^iSTataH anugataa* = rearward, followed.
 "Like a female Cakravaka bird that follows rearward of her husband, that lady Seetha
 followed her husband, that is what I am, to the precarious forest of Dandaka, as if she is going to
 pleasure-gardens. [4-30-65]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3795,8 +3667,6 @@ benevolence, not, doing.
 
 "Dear departed, kingdom plundered, rendered homeless, and one in desperate straits,
 such as I am Lakshmana, king Sugreeva is not benevolent to me. [4-30-66]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3856,8 +3726,6 @@ distant home, lovelorn and sought shelter in me alone...' thus Sugreeva may be t
 persecuted by a powerful demon Ravana, he is dismal... since he came from a distant homeland, he
 hasn't got a leg to stand on... since he is lovelorn, he sought my shelter faint-heartedly...' thus
 Sugreeva may be thinking of me. [4-30-67]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -3873,8 +3741,6 @@ reasons; *dur aatmanaH* = spite, minded one; *vaanara raajasya* = by vanara, kin
 
 "By these reasons, oh gentle Lakshmana, I am perhaps scoffed off by the spiteful
 king of Vanara-s Sugreeva oh, the enemy-blazer, Lakshmana. [4-30-68]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3924,8 +3790,6 @@ arthaH* = on achieving his means; *siitaayaaH parimaargaNe* = in Seetha's, in se
 
 "He computed the time for search of Seetha well, and entered into a treaty with me
 as well, but on achieving his means that base-minded one is unmindful of it. [4-30-69]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -3976,8 +3840,6 @@ sukhe saktam* = one in uncouth, pleasures, tangled up; *sugriivam* = to Sugreeva
 
 "Oh, enemy blazer Lakshmana, such as you are, you enter Kishkindha and upon my word
 speak to that arch-vanara Sugreeva, which stupid is tangled up in uncouth pleasures. [4-30-70]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4035,8 +3897,6 @@ with you, viz., in killing your enemy and in enthroning you, and to such like us
 hope but now breaking it off, thus you tend to become a worst individual. Hence oh, Sugreeva, do
 not become the worst person in the world...' Thus, Rama is putting words in the mouth of Lakshmana
 to be spoken to Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4089,8 +3949,6 @@ for its accomplishment, indeed he is the champion and a best one among men. [4-3
 Promising in a helpless condition and unable to fulfil it in the same helpless
 situation does not make matters worse. But having attained a state of fulfilling that promise and
 not heedful of it, then the 'word-of-honour' conflict occurs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4151,8 +4009,6 @@ Maha Bharata in episodes like *naaDii jangha,* and others. Thus some hold the op
 Maha Bharata is an explanatory treatise to Ramayana because more than hundred *upa
 aakhyaana-s* 'sub-episodes' of Ramayana are incorporated in it and in detail. In detailing
 these episodes of Ramayana, that epic Maha Bharata has became more voluminous than this one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4203,8 +4059,6 @@ aspire.
 
 " 'You definitely aspire to see that facet of the gold-spined bow of mine which in
 simile will be like a cluster of electric-discharges when I fully stretch it in war. [4-30-74]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4253,8 +4107,6 @@ hear, you are desirous of.
 " 'Once more you desire to clearly hear that calamitous crashing boom from my
 bowstring, which is a soundalike with the crash of thunderbolt, when I angrily clang the unbent
 bowstring in a given war. [4-30-75]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4322,8 +4174,6 @@ evanished...' *tvat sahaayasya me cintaa na syaat...* 'by your help, to me, alar
 there...' 'Even then, I am un-alarmed as long as your help is there... Thus, oh, Lakshmana, you may
 tell Sugreeva that I depend less on his help, but I wish to eliminate him too, as he failed in his
 promise...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4372,8 +4222,6 @@ abhijaanaati* = is not, recognising.
 "For which reason this venture of eliminating Vali and its sequel is commenced, oh,
 the vanquisher of enemy-capitals, Lakshmana, and the timeframe set for it, that king of fly-jumpers
 Sugreeva is not recognising, as his ends are achieved. [4-30-77]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4664,8 +4512,6 @@ Top of Page
 © 2002, Desiraju Hanumanta Rao [Revised : August
 04]
 *
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4715,8 +4561,6 @@ council of, while frolicking; *paanam eva upasevate* = drinking, alone, absorbed
 
 "Frolicking with all in the council of ministers Sugreeva is absorbed in drinking
 alone, and he is not sympathising with us who are agonised by grief. [4-30-79]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4765,8 +4609,6 @@ ca* = this, word, be told, also.
 "Oh, great-mighty Lakshmana, you may proceed to Kishkindha and let Sugreeva know
 through you as to how my fury takes shape, and oh, brave one, he may be told this word also.
 [4-30-80]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4816,8 +4658,6 @@ has gone; that; *pamthaaH* = that path; *na ca samkucitaH* = not, even, tapered 
 
 " 'Oh, Sugreeva, abide by your commitment. The path by which slain Vali has gone is
 not tapered off, as such do not tread Vali's path. [4-30-81]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4864,8 +4704,6 @@ along with, kith and kin, I wish to slay.
 
 " 'In a clash Vali is slain singly with my arrow, but I wish to slay you along with
 your kith and kin since you have transgressed truthfulness. [4-30-82]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4917,8 +4755,6 @@ up; *kaala vyatikramaH* = time, lapse [let not time lapse.]
 "Oh, best one among men, Lakshmana, when the mission of searching for Seetha is
 scheduled in this way but hampered, you speak about all things that are appropriate for us and for
 Sugreeva even, oh, foremost one among men, hurry up, let there be no time lapse. [4-30-83]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -4980,8 +4816,6 @@ Time-god's, house [hell,] do not, see.
 promised to me, render it as a reality. Otherwise, now driven by my arrows to death, and on going
 to Yama, the Time-god's Inferno, you will see Vali " Thus Rama appraised Lakshmana about his
 thinking of Sugreeva. [4-30-84]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 </details>
 
@@ -5038,8 +4872,6 @@ mood, he made.
 On clearly examining his elder brother Rama, who has become ruthlessly
 uncompassionate and pitiably prating, the mood of that intensively resplendent Lakshmana, who is an
 augmenter of Manu's dynasty, has become hostile towards the monkey-king Sugreeva. [4-30-85]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

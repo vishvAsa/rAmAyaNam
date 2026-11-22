@@ -19,8 +19,6 @@ to the world of Death. Rama then pours down streams of arrows on Ravana. Rama mo
 torments Ravana with his sharp arrows and mystic missiles, till Ravana becomes helplessly weak and
 confused. Ravana's charioteer carries away Ravana in the chariot, camly and slowly away from the
 battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ of his fight; *arditaH* = who was tormented; *bhR^isham* = much;
 
 Tormented by Rama in fury, that Ravana then for his part, who was boasting of his
 fight, flew into a great rage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -145,8 +141,6 @@ Raising his bow, his eyes blazing with anger, extremely enraged as he was with R
 in that great battle, the valiant Ravana of prowess continued to oppress, by covering Rama with
 thousands of streams of arrows, as a rainy cloud would fill a pond with thousands of arrow-like
 torrents from the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -193,8 +187,6 @@ large mountain; *akampyaH* = which was unshakable.
 
 Covered by a multitude of arrows discharged from Ravana's bow in battle, Rama did
 not wince, like a large mountain which was unshakable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -239,8 +231,6 @@ the sun.
 
 The valiant Rama stood interrupting the torrents of arrows with his own arrows in
 the battle-field and endured them as rays of the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -281,8 +271,6 @@ struck; *shara sahasraaNi* = thousands of arrows; *urasi* = into the breast;
 
 Then, the enraged Ravana of brisk hand, struck thousands of arrows into the breast
 of the great-souled Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -323,8 +311,6 @@ forest.
 
 Rama, bathed in blood in the battle-field, appeared like a very big Kimshuka tree
 with bloom in a forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -374,8 +360,6 @@ _________________
 
 Enraged at the impact of the arrows, that Rama of very great splendour , took hold
 of arrows which shone like the sun at the time of dissolution of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -422,8 +406,6 @@ other; *tadaa* = at that time; *samara* = in the battle-field;
 
 Both Rama and Ravana who were see each other at that time in the battle-field, which
 was shrouded in darkness by the arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -467,8 +449,6 @@ vachaH* = the following harsh words; *raavaNam* = to Ravana.
 
 Bursting into laughter, though filled with anger, the valiant Rama, the son of
 Dasaratha spoke the following harsh words to Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ since; *mama bhaaryaa* = my wife; *hR^itaa* = was taken away; *te* = by you;
 
 "O the worst of demons! Since you took away my helpless wife without my notice from
 Janasthana, hence you are not a person of prowess."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -558,8 +536,6 @@ was staying; *mahaavane* = in the great forest; *virahitaam* = away from me;
 
 "Having taken away by force the miserable Seetha while she was staying in the forest
 away from me, you think: �I am a champion'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -607,8 +583,6 @@ on another's wife; *shuura* = posing as a hero; *striiShu* = in relation to wome
 
 "Having done an act of cowardly persons of laying your hands on another's wife,
 posing as a hero in relation to women without a protector, you think: "I am a champion'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -657,8 +631,6 @@ shuuraH* = �I am a champion'.
 "O shameless person, who have broken the bounds of morality and are unstable of
 customs, having laid hold through vanity of death (in the form of Seetha) you think �I am a
 champion'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -705,8 +677,6 @@ wealth; *balaiH samuditena* = rich in strength!.
 
 "Indeed a praiseworthy, great and glorious act has been performed by you, a valiant
 brother of Kubera, the god of wealth, rich in strength!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -747,8 +717,6 @@ which is contemptible; *ahitasya* = and noxious.
 
 "Reap now and today the stupendous fruit of that noxious and contemptible act,
 perpetrated through sheer vanity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -793,8 +761,6 @@ like a thief.
 
 "O evil-minded one! You think: �I am a champion' yourself! Shame did not stand in
 your way at all, for having taken away Seetha like a thief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -838,8 +804,6 @@ you would have surely seen; *bhraataram* = your brother; *kharam* = Khara;
 
 "If Seetha were laid hands upon by you in my presence, you would have surely seen
 your brother Khara at that very moment when killed with my arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -886,8 +850,6 @@ Death; *tiikShNaiH saayakaiH* = by my sharp arrows; *adya* = today.
 
 "Thank heaven, O stupid fellow, you have come within the range of my sight. I will
 dispatch you to the world of Death, by my sharp arrows, today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -929,8 +891,6 @@ let your head; *raNapaamsuShu* = lying on the dust-laden battlefield;
 
 "Let your head, having blazing ear-rings lying on the dust-laden battle-field, be
 carried away by beasts of prey, after being chopped off by my arrows today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -979,8 +939,6 @@ orifices caused by the impact of pointed arrow-tips.
 "O Ravana! Let vultures fly down on your wounded breast when you have been thrown
 down on the ground and oozing out from the orifices caused by the impact of my pointed
 arrow-tips."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -1027,8 +985,6 @@ birds and vultures; *uragaamiva* = as serpents are dragged.
 
 "Let birds (such as crows and vultures) tear out your bowels, as eagles would drag
 serpents when you fall down dead when pierced by my arrows today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -1069,8 +1025,6 @@ serpents when you fall down dead when pierced by my arrows today."
 
 Thus speaking, the valiant Rama, the annihilator of enemies, poured out streams of
 arrows on Ravana, who was in the vicinity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -1111,8 +1065,6 @@ kaaNkShiNaH* = when he longed for the death of his enemy; *samyuge* = in battle.
 
 The prowess, the strength, the enthusiasm and the stamina of arms of Rama became
 two-fold, when he longed for the death of his enemy in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -1160,8 +1112,6 @@ swift-handed.
 
 All kinds of mystic missiles came to light in the mind of Rama the learned self and
 in his excessive enthusiasm, Rama of extra-ordinary energy became all the more swift-handed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -1202,8 +1152,6 @@ destroyer of demons; *aardayan* = tormented; *raavaNam* = Ravana;
 
 Recognizing those good omens, Rama, the destroyer of demons, tormented Ravana even
 more vehemently.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -1250,8 +1198,6 @@ stones; *hariiNaam* = of the monkeys; *sharavarShaat* = and the showers of arrow
 
 While being struck by volleys of stones hurled by the monkeys and the showers of
 arrows coming from Rama, Ravana felt bewildered at heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -1312,8 +1258,6 @@ mind being confused.
 
 Ravana could no longer take up weapons, nor stretch his bow, nor reacted to Rama's
 prowess - on account of his mind being confused.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1335,8 +1279,6 @@ time of death abhyavartata = approached.
 
 As the time of his death approached, the arrows swiftly hurled and the various kinds
 of missiles employed by Ravana did not turn to be of any use in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1354,8 +1296,6 @@ tadavastham; having that plight; *asambhraantaH* = without getting excited;
 Seeing Ravana reduced to such a plight, the charioteer driving the chariot, for his
 part, without getting excited, calmly and slowly carried off his chariot away from the
 battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 </details>
 
@@ -1412,8 +1352,6 @@ dismay.
 On seeing Ravana, the king sunk down; hopelessly bereft of energy, the charioteer
 diverting in haste the chariot of Ravana, which was rumbling like a cloud, thereupon sneaked away
 from the battle-field in dismay.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

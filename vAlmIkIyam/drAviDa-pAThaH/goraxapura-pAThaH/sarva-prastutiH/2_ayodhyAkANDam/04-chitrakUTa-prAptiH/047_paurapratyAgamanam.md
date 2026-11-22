@@ -17,8 +17,6 @@ The multitude that had caused Rama in his journey to the forest wake up to find 
 and his associates gone. They begin to rebuke themselves. Overwhelmed with grief, they hunt up to
 tracks of Rama's chariot. Being unable to find the tracks, they helplessly return to Ayodhya in
 sheer despair.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ motionless.
 
 As the night was beginning to become dawn, those citizens relinquished by Raghava
 were perplexed with grief and became motionless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ even a glimmer; *raamasya* = of Rama.
 
 Made miserable with tears born of anguish and agony, they could not notice even a
 glimmer of Rama, though casting their eyes everywhere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ which were compassionate.
 
 Their faces distorted with sorrow, deprived as they were of sagacious Rama and
 therefore non-plused, the citizens broke into piteous exclamations, saying:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ pashyaamahe* = and could not behold;adya = today; *pR^ithuuraskam* = broad chest
 
 "Cursed be to that slumber, rendered unconscious, by which we could not behold today
 that mighty armed Rama with a broad chest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ abandoning; *bhaktam* = his devoted; *janam* = people?"
 
 "How that Rama the strong armed, whose actions are never ineffectual, leave for
 exile, abandoning his devoted citizens?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -310,8 +298,6 @@ born of his loins; *katham* = how; *saH* = he; *tyaktvaa* = could leave;
 
 "How did the chief of Raghus, who protected us ever, like a father the children born
 of his loins, could proceed to the forest, leaving us?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -360,8 +346,6 @@ Rama."
 "Let us have recourse to death here itself, or definitely set out for a grand
 journey ( to the north with a resolve to die). For what purpose can life be good for us, separated
 as we are from Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -408,8 +392,6 @@ woods. prajvalya = Lighting; *chitaam* = a funeral pile; *taiH* = by them;
 
 " Or there are a number of big dry logs of wood here. Lighting a funeral fire out of
 them, let us all enter the fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -458,8 +440,6 @@ all); *niitaH* = has been conveyed (to the forest); *kshhamam* = How can we;
 "What shall we say to our fellow citizens? �The great armed Rama who is free from
 egoism and who speaks kindly ( to all ) has been conveyed to the forest by us!' How can we say
 so?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -500,8 +480,6 @@ and the aged; *bhavishhyati* = will become; *niraanandaa* = cheerless."
 
 "Seeing us returning without Rama, that city of Ayodhya, already desolate, will with
 its women, children and the aged, become even deeply cheerless."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -548,8 +526,6 @@ thus with that hero; *nityam* = ever; *jitaatmanaa* = self-conquered man;
 
 "Having left the city thus with that hero, the conqueror of one's own self, how can
 we look on that city again without him?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -596,8 +572,6 @@ cows; *vivatsaaH* = bereft of their calves; *vilapantisma* = lamented;
 
 Uplifting their arms , those men stricken with anguish, like cows bereft of their
 calves, lamented in various ways as above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -645,8 +619,6 @@ tracks.
 
 Then, proceeding to some distance along the tracks for a while, they were
 overwhelmed with great despair again due to sudden disappearance of tracks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -697,8 +669,6 @@ shall we do? Upa hataaH = we are afflicted; *daivena* = by providence.
 The good-natured citizens, due to disappearance of the tracks of the chariot,
 returned to Ayodhya, saying thus, " How is it? What shall we do? We are afflicted by
 providence"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ by the path; *yathaagatenaiva* = on which they had come.
 
 Therafter, all of them with aggrieved hearts went to the city of Ayodhya, which was
 comprising of virtuous people with distress, by the same path on which they had come.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -793,8 +761,6 @@ stricken as they were in grief.
 
 Beholding the city, they shed tears through their eyes stricken as they were in
 grief , their minds distressed through cheerlessness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -835,8 +801,6 @@ Rama; *naatishobhate* = was not enchanting even a little; *aapagaa iva* = as a r
 
 Bereft of Rama, the aforesaid city of Ayodhya was not any more enchanting than a
 river whose snakes were uplifted from its pool by Garuda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -880,8 +844,6 @@ vichetasaH* = those disconcerted men; *apashyan* = beheld; *nagaram* = the city;
 
 As the sky without the moon or the sea without the water, these disconcerted men
 beheld the city from which all joy had fled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 </details>
 
@@ -942,8 +904,6 @@ dishtinguish; *svajanam* = their own people; *janam vaa* = or others;
 Entering their houses full of abundant riches with uneasiness, the citizens could
 not distinguish between their own people and others, even though being looked at, stricken as they
 were with grief, their joy having altogether extinguished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

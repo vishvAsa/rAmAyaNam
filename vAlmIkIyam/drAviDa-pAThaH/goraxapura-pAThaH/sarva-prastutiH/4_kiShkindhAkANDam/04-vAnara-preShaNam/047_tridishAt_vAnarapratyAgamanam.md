@@ -17,8 +17,6 @@ IV : Kishkindha Kanda - The Empire of Holy Monkeys**
 Search for Seetha failed in east, north, and west directions. The monkey chiefs who
 went there have come back to inform that she is not found and they all hoped Hanuma to find her
 out, because he is pursuing the direction in which Seetha was taken away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ with post-haste; *sarvataH jagmuH* = everywhere, essayed at.
 
 As commanded by the king of monkeys Sugreeva all of the elephantine monkeys essayed
 everywhere with post-hast for a glimpse of Vaidehi. [4-47-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ everywhere, thoroughly, searched out.
 Those monkeys have thoroughly searched at lakes, in the pens of creepers on
 riverbanks, in vacant lands and in crowded cities and at impassable places with rivers and
 mountains. [4-47-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ searched.
 
 All the monkey commanders explicitly commanded by Sugreeva, very carefully searched all the provinces inclusive of mountains,
 woodlands, and thick forests of those provinces. [4-47-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ aayaanti sma* = well [together,] come, they are.
 All the Vanara-s firmed up in finding Seetha have searched nooks and corners of
 earth by day, and at nighttimes they used to come together onto earth at scheduled places.
 [4-47-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -287,8 +277,6 @@ of all provinces, Rama blesses all of the trees of those and those countries thr
 to be full of fruits. Even now allowing a
 troop of monkeys into orchard or groves is tolerable and sacred. But after a sumptuous meal, they start all their monkey tricks and ransack gardens,
 which is intolerable and then they are driven out.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -337,8 +325,6 @@ Sugreeva.
 Counting the day of their starting as day one, those elephantine monkeys returned to
 Mt. Prasavana within one month, hopeless of Seetha, and met Sugreeva, the king of monkeys, who is
 with Rama awaiting the return of monkeys. [4-47-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -385,8 +371,6 @@ said [as advised by Sugreeva]; *puurvaam disham vicitya* = eastern, quarter, on 
 
 Cmdr. Vinata, the great-mighty vanara, came back after searching eastern quarter as
 Sugreeva had advised, but without finding Seetha there. [4-47-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -437,8 +421,6 @@ came back.
 
 Even the valiant and matchless monkey Shatabali explored whole of the northern
 direction along with his army, but he too came back as Seetha is undiscovered there. [4-47-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -487,8 +469,6 @@ arrived.
 Sushena, the father-in-law of Sugreeva, searching whole of western quarter along
 with vanara-s, but not finding Seetha there, he came back when one month is completed, and
 approached Sugreeva. [4-47-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -538,8 +518,6 @@ abruvan* = this, [all the expeditionists] spoke.
 
 All of the expeditionists have reached and venerated Sugreeva who is sitting along
 with Rama on the peak of Mt. Prasavana and spoke this to him. [4-47-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -598,8 +576,6 @@ places [inhabitations - are thoroughly searched.]
 
 "All of the mountains, all of the serried forests, all of the riversides up to the
 edge of oceans, likewise, all of the inhabitations have been searched. [4-47-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -617,8 +593,6 @@ also.
 "Those caves that were explicitly extolled by you, they are all thoroughly searched,
 and immense shrubby hutches that are thickly entwined with climber plants have also been rummaged.
 [4-47-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -675,8 +649,6 @@ they are; *punaH punaH vicitaaH* = again, again, searched high and low.
 "Search is conducted in the compacted, lopsided, and impenetrable provinces, and
 colossal beings are hunted out and killed presuming that Ravana might have assumed those odd
 shapes, and the impassable provinces are searched high and low, time and again. [4-47-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 </details>
 
@@ -736,8 +708,6 @@ hanuumaan* = Air-god's, son, Hanuma; *aasthitaH* = resorted to.
 "Hanuma is high-born and exceptionally mighty, oh, Sugreeva, the king of vanara-s,
 he will ascertain about Maithili, because the son of Air-god, Hanuma, resorted to the direction in
 which Seetha is taken away." Thus, monkey chiefs reported to their king Sugreeva. [4-47-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

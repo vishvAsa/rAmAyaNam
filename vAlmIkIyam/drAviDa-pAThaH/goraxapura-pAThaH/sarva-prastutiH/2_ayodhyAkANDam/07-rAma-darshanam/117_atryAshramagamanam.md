@@ -18,8 +18,6 @@ handicaps. Setting out his journey from Chitrakuta mountain, he reaches the herm
 and offers his salutation to him. Introducing his wife Anansuya as a great female ascetic to Rama,
 Atri urges Rama to send his concert Seetha to Anasuya. Anasuya receives Seetha, who greeted her and
 gives her instructions on the role and responsibilities of a devoted wife.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ _________________
 
 Thereafter, when the sages departed, Rama, reflecting again and again, found no
 pleasure to remain in that place for many reasons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -128,8 +124,6 @@ them; *nityam* = daily.
 
 "It is here that Bharata, my mother along with the inhabitants of the city visited
 me. That memory haunts me, who lament for them daily."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ spoliation.
 
 "The dry dung of horses and elephants of that high souled Bharata's encamped army
 caused much spoliation (around here)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ raaghavaH* = that Rama; *sangataH* = along with; *vaidihyaaH* = Seetha;
 
 "We shall, therefore, move elsewhere", pondering thus, Rama along with Seetha and
 Lakshmana left that place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -280,8 +270,6 @@ son.
 On the way, after reaching the hermitage of a sage called Atri, the highly
 celebrated Rama offered salutation to that sage. The venerable sage, Atri too received him as his
 own son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ own son.
 
 Offering personally, abundant hospitality with full honours to Rama, the sage Atri
 rendered equal honour to Lakshmana and the highly blessed Seetha too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -397,8 +383,6 @@ addressed gently to her.
 Atri, who knew righteousness and who was interested in the welfare of all beings,
 called his aged wife Anasuya who had just come there, she who was revered by all and addressed
 gently to her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -417,8 +401,6 @@ taapasiim* = female ascetic; *raamaaya* = to Rama (as follows)
 Atri excellent sage spoke to the illustrious Anasuya, rich in asceticism and who
 lived a pious life, saying "You welcome Videha's daughter!" and thereafter introduced that virtuous
 female ascetic to Rama (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -538,8 +520,6 @@ within the next ten days. The hermitess in her turn pronounced a counter-curse s
 would be no dawn any more. Alarmed at this, gods approached Anasuya, who by virtue of her
 asceticism converted the period of ten nights into one and in this way averted the death of the
 hermittess, husband and accomplished the purpose of gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -586,8 +566,6 @@ hermittess, husband and accomplished the purpose of gods.
 
 "Let Seetha find refuge with that ascetic, who is revered by all the beings, famous
 as she is and though old is ever free from anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -635,8 +613,6 @@ words.
 
 Saying "Be it so" to the aforesaid sage, who was speaking thus, Rama spoke to the
 virtuous Seetha, the following excellent words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -683,8 +659,6 @@ approach; *tapasviniim* = the saintly Anasuya.
 
 "O, princess! You have heard what the sage has said. For your own good, approach the
 saintly Anasuya without delay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -732,8 +706,6 @@ circumambulated; *taam* = that; *atripatniim* = Anasuya; Atri's wife;
 
 Hearing these words of Rama, who is desirous of her welfare, Seetha the daughter of
 Mithila circumambulated around Anasuya, Atri's wife, who knows piety.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -805,8 +777,6 @@ Seetha coolly and reverently paid homage to that fortunate Anasuya, a devoted an
 virtuous wife, who was feeble, wrinkled, aged, with her hair turned grey due to old age, and whose
 frame constantly shook like a banana tree in a storm. Seetha introduced herself, by announcing her
 name to Anasuya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -856,8 +826,6 @@ with joined palms; *hR^iSTaa* = and rejoiced; *paryapR^ichchhat* = enquired;
 
 Saluting the irreproachable ascetic the rejoiced Seetha with joined palms enquired
 about he well-being.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -905,8 +873,6 @@ follows); *avekSase* = you are attending; *dharmam* = to righteousness;
 
 Then, comforting that celebrated Seetha, engaged in righteous acts, Anasuya
 rejoicingly spoke as follows: "Luckily enough, you are attending to righteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -954,8 +920,6 @@ expelled vane = into a forest.
 
 "O, Seetha the beautiful lady! Thank heaven! Leaving your relatives, honour and
 prosperity, you are accompanying Rama, who is expelled into a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -1006,8 +970,6 @@ mahodayaaH* = greatly fortunate; *lokaaH* = words.
 
 "Highly fortunate worlds await those women, await those women, to whom their husband
 is dear no matter whether he lives in a city or in a forest; whether he is sinful or virtuous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -1054,8 +1016,6 @@ nature; *patiH* = husband; *paramam* = is the hightest daivatam = deity;
 
 "To women of noble nature, the husband is the highest deity no mater whether he is
 ill-behaved or licentious or devoid of riches."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -1103,8 +1063,6 @@ wife; *sarvatra* = in all circumstances; *avyayam iva* = like the imperishable f
 
 "O, Seetha! On a reflection, I perceive none who is a better friend than a husband,
 who protects his wife in all circumstances, like the imperishable fruit of one's austerities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -1153,8 +1111,6 @@ hearts follow their passions; *charanti* = and; conduct themselves;
 "Those evil women, whose hearts follow their passions and conduct themselves
 dominating their husband, having no understanding of virtue and vice, do not follow him in the
 aforesaid manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -1203,8 +1159,6 @@ authority; *tadvidhaaH* = in the aforesaid manner; *praapnuvanti* = reap;
 
 "O, Seetha! Surely, those evil women, who get into an improper act of authority over
 their husbands reap infamy and decline in righteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -1255,8 +1209,6 @@ tathaa* = therefore; *chariSyanti* = dwell; *svarge* = in heaven; *yathaa*
 "Women, like you, on the other hand who are endowed with virtues, who look with
 detachment on prosperity and adversity in this world, therefore dwell in heaven as those who
 performed meritorious deeds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 
@@ -1306,8 +1258,6 @@ dharmachaariNii* = an honest wife; *svabhartuH* = to your husbandtataH = and the
 
 "Thus devoted to your lord, loyal to your husband, following established rules, you
 become an honest wife to your husband and obtain merit and renown."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>
 </details>
 

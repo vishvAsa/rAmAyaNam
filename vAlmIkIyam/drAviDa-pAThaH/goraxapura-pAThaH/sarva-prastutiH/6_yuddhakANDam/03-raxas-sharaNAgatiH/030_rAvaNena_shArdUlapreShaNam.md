@@ -18,8 +18,6 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 Dispatched by the king Ravana to ascertain the strength of the army in the
 opposition-camp, Shardula the demon-spy acquaints his master with the important leaders of the
 monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ shaile* = on Suvela Mountain.
 
 Thereafter, the spies informed Ravana about Rama, with his unperturbable army,
 having encamped on Suvela Mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ following) words; *sharduulam* = to Shardula.
 
 Hearing from the spies about the arrival of Rama, the exceedingly strong man, Ravana
 became a little perturbed and spoke to Shardula as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ enemies.
 
 O, demon! Your complexion is not so as it should be. You look miserable too. I hope
 that you have not fallen a victim to the enraged monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ Ravana; *shaarduulaH* = Shardula; *bhaya vihvalaH* = afflicted with fear;
 
 Thus questioned by Ravana, Shardula afflicted with fear, then sluggishly spoke the
 following words to Ravana the tiger among demons:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ being; *chaarayitum* = spied upon.
 
 "O, king! Those strong, bold and excellent monkeys protected by Rama are not capable
 of being spied upon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -314,8 +302,6 @@ monkeys; *parvatopamaiH* = looking like mountains.
 
 "They are not capable of being talked with and nothing can be found in interrogating
 with them. The entire path is being protected by the monkeys looking like mountains."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ Vibhishana); *asmi* = I was; *vichaaritaH* = investigated (by them);
 "I was identified when that army was merely penetrated into (by me) and began to be
 examined. I was seized forcibly by the demons (forming the retinue of Vibhishana), who investigated
 me in various ways."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -414,8 +398,6 @@ the army.
 
 "I was beaten on all sides with knees, fists, teeth and palms by the enraged
 monkeys. I was also paraded round in the midst of their army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -463,8 +445,6 @@ being trembled; *chalitendriyaH* = my senses were disturbed.
 "Having been paraded all around thus, I was finally taken to the court of Rama. All
 my limbs were bleeding and Rama. All my limbs were bleeding and I was trembling, with my senses
 disturbed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -511,8 +491,6 @@ palms; *paritraataH* = I was saved; *yard^ichchhayaa* = fortunately;
 
 "While being plagued by the monkeys and asked for protection with joined palms, I
 was saved fortunately by Rama, saying �stay!stay!'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -560,8 +538,6 @@ equipped with weapon.
 
 "Rama has filled the sea with boulders and rocks, taking up his position at the
 gates of Lanka and stands there, well-equipped with weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -612,8 +588,6 @@ approaching; *laN^kaameva* = towards Lanka.
 
 "Having released me, Rama of great splendour arranged the army in the form of Garuda
 (an eagle). He is encircled on all sides by the monkeys and is approaching towards Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -660,8 +634,6 @@ immediately; *pradiiyataam vaapi* = or even give him; *yuddham* = a battle.
 
 "Before he reaches the ramparts, do one thing or the other quickly or give away
 Seetha immediately or even offer him battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -709,8 +681,6 @@ thereafter; *uvaacha* = spoke; *sumahat vaakyam* = the significant words;
 
 Having heard those words, Ravana the lord of demons reflected on it and thereafter
 spoke the following significant words to Shardula.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -757,8 +727,6 @@ the celestial musicians or the demons; *pratiyudhyerannapi* = were to fight agai
 
 "I will not give away Seetha even if the celestials or Gandharvas the celestial
 musicians or the demons were to fight against me or even under danger from all beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -806,8 +774,6 @@ monkeys; *atra* = among them?
 
 After uttering the aforesaid words, the heroic Ravana again spoke as follows: "Has
 the army been espied by you? Who are the valiant monkeys among them?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -856,8 +822,6 @@ the army been espied by you? Who are the valiant monkeys among them?"
 "O, the virtuous gentle Shardula! What radiance do the monkeys, who are difficult to
 be conquered possess of? what kind? Whose sons and grandsons are they? You tell me that
 information."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -906,8 +870,6 @@ yearning; *yuddham* = for battle?
 "After knowing their strengths and weakness, I will decide in this matter
 accordingly. Is it not necessary to count clearly those who are really yearning to fight the
 battle?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -957,8 +919,6 @@ Ravana; *shaarduulaH* = Shardula; *uttamaH charaH* = the excellent spy; *atha*
 
 Hearing Ravana's words, Shardula the excellent spy then started to narrate these
 words for Ravana's information:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1006,8 +966,6 @@ called as Jambavan.
 
 "Certainly, king Sugreeva, the son of Riksharajasa, is difficult to be conquered in
 battle. Here is the son of Gadgada, famously called as Jambavan."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1056,8 +1014,6 @@ Brihaspati; the teacher; *shatakratoH* = of Indra the god of celestials; (called
 "The other one is the son of the same Gadgada. Another one is the son of Brihaspati
 the teacher of Indra the lord of celestials, called Kesari by whose son Hanuman the demons were
 destroyed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1105,8 +1061,6 @@ kapiH* = and a monkey called Dadhimukha; *somaatmajaH* = who is the son of moon;
 
 "O, king! Here is Sushena the son of Yama the Lord of Death who is valiant and
 virtuous, as well as a monkey called Dadhimukha, the cool-minded, who is the son of moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1153,8 +1107,6 @@ in the form of monkeys; *svayambhuvaa* = by Brahma the Lord of creation.
 
 "Sumukha, Durmukha and a monkey called Vegadarshi are surely the personifications of
 death in the form of monkeys, created by Brahma, the Lord of creation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1204,8 +1156,6 @@ Wind; *vishrutaH* = well-know; *hanumaaniti* = as Hanuman.
 
 "Here is Nila the army-general himself, the son of Agni the Lord of Fire. Here is
 the son of Vayu the Lord of Wind well- known as Hanuman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1316,8 +1266,6 @@ here. I cannot venture to tell about the remaining glorious sons of god."
 The two divinities of Ashvin are said to appear in the sky before the dawn in a
 golden carriage drawn by horses or birds, they bring treasures to men and avert misfortune and
 sickness; they are considered as the physicians of heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1365,8 +1313,6 @@ Trishira.
 
 "This young man is Rama, Dasartha's son, who is well-built like a lion, by whom
 Dushana ws killed as also Khara and Trishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1413,8 +1359,6 @@ Dushana ws killed as also Khara and Trishana.
 
 "There is no one on earth who is equal in prowess to Rama, by whom Viradha was
 killed as also Kabandha who was equal to Yama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1458,8 +1402,6 @@ Rama; *yena* = by whom; *taavantaH* = all raakshasaH = the demons;
 
 "No man on this earth is able to narrate the qualities of Rama, by whom all the
 demons staying in Janasthana were killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1536,8 +1478,6 @@ elephants; *maataN^gaanaam* = among elephants.
 "Here too is the virtuous Lakshamana, resembling the most excellent elephant among
 elephants, in the path of whose arrows, even Indra the Lord of celestials himself could not
 survive
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1583,8 +1523,6 @@ here.
 "Sweta and Jyotirmukha, the sons of the sun-god, a monkey called Hemakuta, another
 son of Varuna, Nila the son of Visvakarma the strong and the best of monkeys, as well as that
 mighty and swift Durdhara the son of Vasus are all here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1635,8 +1573,6 @@ prospective gift from Rama); *rataH* = remains devoted; *hite* = to be good;
 
 "There is the prince of demons Vibhishana, your brother, who having secured the city
 of Lanka (as a prospective gift from Rama) remains devoted to the good of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 </details>
 
@@ -1685,8 +1621,6 @@ It is for you; *gatiH* = to decide; *sheSakaarye* = what remains to be done!.
 
 "Thus, I have described about the entire army of monkeys stationed on the Mount
 Suvela. Now, it is for you to decide what remains to be done!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga30/yuddhasans30.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -58,8 +58,6 @@ samjahaara* = did not withdraw; *aatmachakshhushhii* = his eyes.
 
 As long as the dust raised by the wheels of Rama's chariot could be seen, so long
 did the king not withdraw his gaze from it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -107,8 +105,6 @@ seeing his son.
 
 As long as the king was seeing his beloved son who was exceedingly virtuous, so long
 did the dust in the earth appear to be rising for the purpose of seeing his son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -155,8 +151,6 @@ dejection; *papaata* = fell; *dharaNiitale* = on ground.
 
 When the dust raised by Rama's chariot was no longer visible, the unfortunate king
 afflicted by dejection, fell insensible on ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -203,8 +197,6 @@ on the left; *paarshvam* = side.
 
 When Dasaratha fell down, Kausalya his wife took her place on his right side to lift
 him up and Kaikeyi of charming limbs took her place on his left side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ her; *vyathitendriyaH* = in his agitated senses.
 
 The king endowed with wisdom virtue and discretion seeing Kaikeyi beside him, said
 to her in great agitation as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ bhaaryaa* = are not my wife; *na* = nor; *baandhavii* = a relative
 
 "Oh, wicked Kaikeyi! Do not touch my limbs. I do not wish to see you .You are no
 longer my wife nor a relative."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -348,8 +336,6 @@ avariciousness alone.
 
 "I am not of those who are dependent on you nor are they anything to me. I discord
 you, by whom righteousness has been discorded and who are solely interested in avariciousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -399,8 +385,6 @@ world; *paratracha* = and the next.
 
 All that contract which I entered into by taking your hand and circumambulating the
 sacred fire, I now renounce in this world and the next. "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -451,8 +435,6 @@ this kingdom ; *avyayam* = which is imperishable; *yat* = what ever; *dadyaat*
 
 "If Bharata feels cheerful for having got this kingdom which is imperishable, let
 the obsequial rites performed to me after my death do not reach me"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -502,8 +484,6 @@ naraadhipam* = that king; *reNusamuddhvastam* = who was covered with dust;
 
 Meanwhile Kausalya the queen overwhelmed with grief, lifted up the king who was
 covered with dust and returned to her house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -554,8 +534,6 @@ by hand.
 
 The virtuous monarch, thinking deeply of his son Rama, was so desolated as one who
 has slain a brahmin intentionally or as touching the fire by hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -610,8 +588,6 @@ king in grief lost its radiance like sun losing its radiance when swallowed by R
 
 *-Rahu- the inauspicious planet sent to swallow the sun at the time of
 eclipse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -661,8 +637,6 @@ Thereafter; *buddhvaa* = knowing ; *putram* = his son;anupraaptam = reaching ;
 
 Afflicted by grief, thinking of his beloved son he lamented. Knowing that his son
 reached the end of the city, he said as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -709,8 +683,6 @@ that Rama ;dR^shyante = were seen; *pathi* = on the way; *saH* = He ;
 
 "The marks of hooves of excellent horses which carried away my child are seen on the
 way. But he the great souled one is not being seen"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -768,8 +740,6 @@ a tree ;kvachideva = somewhere ;shayishhyate = lying down; *kaashhTam vaa* = on 
 refreshed by fans waved over by him by the most deserving women, Rama the best of all my sons ,
 will from now on , has to take refuge at the foot of a tree somewhere, lying down on its trunk or
 rest on a stone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -816,8 +786,6 @@ female elephants; *prasravaNaat iva* = (rising from)the side of a hill."
 
 "The unfortunate one will wake up from the hard earth stained with dust, sighing
 like a bull-elephant rising from the side of a hill"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -865,8 +833,6 @@ around ; *anaathavat* = like an orphan."
 
 From today the inhabitants of the forest will behold that long armed lord of the
 world, Rama, rising from the ground and wandering around like an orphan"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -917,8 +883,6 @@ undergrowth."
 
 "The daughter of Janaka, who was always accustomed to comforts, will wander
 exhausted in the forest through the thorny undergrowth "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -969,8 +933,6 @@ end.
 
 "Sita who was not earlier accustomed to woodlands, from now on will live in terror,
 hearing the roaring sound of wild beasts ,which was thundering ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1017,8 +979,6 @@ without Rama ; *purushhavyaaghram* = the tiger among men."
 
 "Oh, Kaikeyi! Let your desire be fulfilled! Dwell in the kingdom as a widow. I do
 not indeed wish to survive without Rama the tiger among men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1066,8 +1026,6 @@ funeral bath.
 
 Thus lamenting, the king surrounded by his people, entered Ayodhya the best of
 cities like entering a disastrous house by one who has taken the funeral bath.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1132,8 +1090,6 @@ Seeing the entire city with its road-junctions and mansions deserted, its shops 
 temples closed, with its people exhausted with fatigue and plunged in affliction; its highways not
 very crowded ,the king entered his palace wailing and thinking of Rama alone as the sun enters a
 cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1154,8 +1110,6 @@ unperturbed due to emptying of snakes in it by Garuda*
 
 *Garuda was a mythical bird (chief of feathered race, enemy of the serpent
 race)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1202,8 +1156,6 @@ accents; *mR^idu* = in soft; *diinam* = pitiful ; *asvaram* = indistinct ;
 
 The lamenting monarch spoke in trembling accents and in soft, pitiful, indistinct
 and not clearly intelligible words (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1250,8 +1202,6 @@ mother of Rama; *na anyatra* = Nowhere else ; *mama hR^idayasya* = my heart
 
 "Take me quickly to the apartment of Kausalya the mother of Rama. Nowhere else my
 heart will find solace "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1300,8 +1250,6 @@ Kausalya's; *gR^iham* = house . tatra = there; *viniitavat* = (he was ) gently;
 
 The attendants took the king who was speaking as aforesaid, to Kausalya's house and
 there he was gently laid (on a coach).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1349,8 +1297,6 @@ there he was gently laid (on a coach).
 
 Having entered Kausalya's apartment and even though laid on a coach, his heart
 became agitated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1397,8 +1343,6 @@ and the daughter in law also; *vivarjitam* = having left; *raajaa* = the king;
 
 Bereft of his two sons and his daughter -in-law also having deserted, the king saw
 that house devoid of charm as a sky without a moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1446,8 +1390,6 @@ mother and I).
 
 Looking at that palace and lifting up his arm, the powerful monarch cried in a loud
 voice, " Oh, Rama! You have left us both, your mother and I."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1500,8 +1442,6 @@ and see; *raamam* = Rama;punaH aagatam = come back ;parishhvajantaH = and embrac
 
 "Alas! Those jewels among men who will survive the term of fourteen years, seeing
 Rama come back and embrace him, will be happy indeed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1517,8 +1457,6 @@ fallen; *kaala raatryaamiva* = (the night) resembling the hour of death ;aatmana
 
 Thereupon, the night having fallen, the night resembling the hour of death to him,
 Dasaratha spoke these words to Kausalya when the midnight struck :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1564,8 +1502,6 @@ now; *na pashyaami* = I cannot see; *tvaa* = you;saadhu = properly ;spR^isha = t
 
 "Oh, Kausalya! My sight has extinguished along with Rama and not returned. Even now,
 I am not able to see you properly. Touch me with your hand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 
@@ -1615,8 +1551,6 @@ and sitting down beside him ;viniHshvasantii = began to sigh; *vilalaapa* = and 
 
 Perceiving that monarch on the coach absorbed in the thought of Rama alone, Kausalya
 appeared very sad and sitting beside him, began to sigh and lament with a distressed look.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
 </details>
 

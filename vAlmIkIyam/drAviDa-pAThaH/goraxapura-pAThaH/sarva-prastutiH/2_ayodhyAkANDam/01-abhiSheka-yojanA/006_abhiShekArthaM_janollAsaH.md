@@ -20,8 +20,6 @@ prince, along with his wife Seetha, on the eve of his anointment ceremony. The f
 Ayodhya, the happiness of the people with King Dasaratha's decision to anoint Rama are also
 described here. Also, people from different directions arrive in Ayodhya to be there on the grand
 occasion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ occasion.
 
 After Vasistha left, Rama took bath and meditated on Lord Narayana with undistracted
 mind along with his wide-eyed wife, Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 
 </details>
@@ -119,8 +115,6 @@ it ) into blazing fire.
 
 Taking the vessel with clarified butter on his head as per scriptures, he offered to
 Lord Vishnu the clarified butter, by dropping it into the blazing fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ deity in a separate shrine built within the precincts of the royal palace. We ar
 the Patala Khanda of Padma Purana how Rama so kindly handed over the image to Vibhishana; through
 whom it reached Srirangam (near Tiruchirapally) in South India; where it exists even to this day
 and is held in the highest reverence by the Vaishnavas and other devotees all over India.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ made done; *kR^itsnam* = entire; *alankaaravidhim* = required decoration;
 
 Rama woke up three hours before dawn and caused to complete the entire decoration of
 the house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -284,8 +274,6 @@ syllables each (Rigveda iii-62-10: - tat savitur varenyam bhargo devasya dhimahi
 prachodayat) addressed to Savitri or the Sun as generator. Gayatri personified is considered as the
 mother of the first three classes viz. priestly class, warrior - class and the trader-class in
 their capacity of twice born.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -332,8 +320,6 @@ wearing pure silk clothes; *vaachayaamaasa* = got valedictory text recited by;
 
 He praised Lord Vishnu by bowing his head before Him. By wearing pure silk clothes,
 he got valedictory text recited by Brahmans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -383,8 +369,6 @@ madhura* = deep and sweet; *puNyaaha ghoshhaH* = valedictory sound;
 
 Their deep and sweet chorus of the valedictory, united with the accompanying musical
 instruments, then filled the city of Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -425,8 +409,6 @@ janaH* = the people residing in Ayodhya; *pramuditaH* = were delighted;
 
 All the people residing in Ayodhya were delighted when they heard that Rama and
 Seetha had observed fast for the ensuing anointment ceremony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -468,8 +450,6 @@ becoming dawn.
 
 All the citizens decorated the town for coronation function of Rama, soon before
 sunrise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -543,8 +523,6 @@ Banners and colorful flags were hoisted on temples, which looked brilliantly lik
 the silver lining of cloud, at road junctions, in streets, on big trees situated in temple
 compounds, from watching towers at city gates, on shops of wealthy merchants, on buildings of rich
 family persons, on all assembly halls and all visible trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -591,8 +569,6 @@ and of singers; *gaayataam* = singing.
 
 From different sides, actors were showing their talents, dancers were performing
 dance. Singers were singing and sweet voices were heard, pleasing the minds and ears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -640,8 +616,6 @@ and in houses.
 
 With Rama's anointment ceremony approaching, people were engaged in mutual
 conversations in their houses and at road junctions, about the ceremony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -689,8 +663,6 @@ mutually.
 
 Even children playing together before gateways of houses were telling each other,
 narratives of Rama's anointment ceremony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -733,8 +705,6 @@ of Rama's anointment ceremony.
 The citizens made king's road splendid, by sprinkling flowers on it and by making it
 good smelling with burning of incense and perfumes, on the occasion of Rama's anointment
 ceremony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -781,8 +751,6 @@ streets; *prakaashakaraNaartham* = for the purpose of illumination.
 
 On a doubt of approach of night on completion of the ceremony, they arranged lamps
 in the shape of trees to illuminate all the streets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -840,8 +808,6 @@ junctions; *sabhaasucha* = and in assembly halls; *mithaH* = mutually;
 All the citizens residing in Ayodhya, having thus decorated the city desiring Rama's
 coronation, gathered together in groups at road junctions and in assembly halls, mutually talking
 about this matter there and praising king Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -892,8 +858,6 @@ dynasty; *mahaatmaa* = has a great mind.
 
 "O! This king Dasaratha, who delights Ikshvaaku dynasty, having known himself that
 he became aged, is going to anoint Rama for the kingdom. What a great man he is!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -941,8 +905,6 @@ paraavaraH* = has seen the totality of the world ; *mahiipatiH* = he as king;
 
 "Rama; who has seen the totality of the world is going to become our protector for
 long. We have all been blessed by king Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -989,8 +951,6 @@ in his mind; *vidvaan* = learned man; *dharmaatmaa* = righteous man;
 
 "Rama is modest, knowledgeable and righteous. He is as compassionate to us as to his
 brothers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -1031,8 +991,6 @@ is faultless; *jeevatu* = let him live; *chiram* = for long period.
 
 "Let the faultless and righteous king Dasaratha live long! Due to his blessings, we
 are going to see Rama as being anointed for the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -1079,8 +1037,6 @@ citizens; *evam vidham* = thus; *kathayataam* = narrating.
 
 The villagers, who came from different directions after hearing the news of
 coronation ceremony of Rama, listened to the narration of the citizens of Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -1122,8 +1078,6 @@ from various directions; *puram* = to the city; *drashhTum* = to see;
 
 The city of Ayodhya was filled with villagers who came from different directions to
 see the anointment ceremony of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -1170,8 +1124,6 @@ impetuous ocean; *parvasu* = on full moon days.
 
 The noise in the city was heard by the groups of those people, while moving here and
 there, as the roaring of an impetuous ocean on full moon days.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 </details>
 
@@ -1227,8 +1179,6 @@ filled with sea-animals.
 That city of Ayodhya equal to the residence of the celestial god Indra, disturbed
 with the sound being made all over by the villagers who came with the desire to see the ceremony,
 shone like a roaring ocean filled with sea animals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga6/ayodhyasans6.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

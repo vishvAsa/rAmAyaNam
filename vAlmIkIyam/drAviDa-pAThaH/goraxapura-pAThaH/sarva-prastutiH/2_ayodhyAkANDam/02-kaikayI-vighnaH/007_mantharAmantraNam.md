@@ -16,8 +16,6 @@ title_english = "007 The wicked Manthara"
 Manthara feels very sad after hearing about anointment of Rama for the princely
 kingdom. She tells Kaikeyi about the coronation of Rama. Kaikeyi becomes delighted and gives
 Manthara one of her jewels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -63,8 +61,6 @@ the balcony of palace; *chandrasa~Nkaasham* = which resembled the full moon.
 
 Manthara, a housemaid who was residing with Kaikeyi since her birth, accidentally
 ascended the balcony of Kaikeyi's white palace, which resembled the full moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ water; *prakiirNakusumotkaraam* = and stewn with heaps of flowers.
 
 Manthara, from that balcony, saw the entire city of Ayodhya, with all its principal
 roads being sprinkled with water and strewn with heaps of flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -227,8 +221,6 @@ with flowers and sweets in their hands were chanting Mantras. The gateways of te
 washed. There were sounds of all musical instruments. The city was filled with rejoicing people and
 resounding chant of Vedas. The elephants and horses were also merry. The bulls were making roaring
 noise. The highly delighted citizens hoisted rows of flags on their housetops.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -275,8 +267,6 @@ noise. The highly delighted citizens hoisted rows of flags on their housetops.
 
 Manthara asked a house maid with bright pleasing eyes and wearing white silk clothes
 standing nearby, as follows: -
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -329,8 +319,6 @@ money.
 
 "Why is Kausalya giving away money to people so delightfully today in charity,
 eventhough she is badly lured of money?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -346,8 +334,6 @@ act? shamsa = tell; *me* = me.
 
 "Why are people so happy today? Is the king duly pleased with something, doing any
 great act? Tell me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -400,8 +386,6 @@ bursting; *harsheNa* = with joy; *atha* = thereafter; *aachachakshe* = told;
 
 That housemaid, bursting with joy, told Manthara in a great gladdening tone about
 the great honor to be conferred upon Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -417,8 +401,6 @@ clan; *yauvaraajyena* = for the princely kingdom.
 
 "Tomorrow on the day of Pushyami star, king Dasaratha is going to anoint the
 fault-less Rama for the princely kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -465,8 +447,6 @@ quickly; *amarshhitaa* = with anger; *avarohata* = stepped down; *praasaadaat*
 
 After hearing the words of that maid, Manthara quickly with wrath walked down from
 the roof of the palace, which was in the shape of mount Kailasa.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -513,8 +493,6 @@ lying on bed; *abraviit* = and spoke; *idam* = these; *vachanam* = words.
 
 Manthara of sinful thought; burning with anger, approached Kaikeyi who was lying on
 a bed and spoke these words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -562,8 +540,6 @@ yourself?
 
 "O, fool! Get up. Why are you sleeping? A dreadful situation is befalling you. A
 flood of troubles submerges you. Why are you not knowing this yourself?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -615,8 +591,6 @@ river; *ushhNage* = in summer.
 "Oh, Kaikeyi ! You appear to be a beloved wife for your husband, but in reality he
 does not like you. You boast of your fortune. Like the flow of a stream in summer; your fortune is
 unsteady".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -657,8 +631,6 @@ hard; *vachaH* = words; *evam* = thus; *rushhTayaa* = with anger;
 
 Kaikeyi was very much worried after hearing hard words spoken with anger by Manthara
 of sinful thoughts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -706,8 +678,6 @@ worried face.
 
 Kaikeyi asked the hunch-backed Manthara as follows; "O, Manthara! Are you not safe?
 You appear to be very sorrowful with your worried face".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -752,8 +722,6 @@ words; *madhuraaksharam* = with sweet words; *mantharaa tu* = Manthara;
 
 After hearing Kaikeyi's sweet words, Manthara who was an expert in talking, spoke
 with anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -770,8 +738,6 @@ hitaishhiNii* = wishing Kaikeyi's welfare; *vishhaadayantii* = making her sorrow
 That Manthara, who was full of cunning, feigning to be seeking Kaikeyi's welfare,
 appeared more worried, and making Kaikeyi sorrowful, spoke the following, to create hostility
 between Rama and Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -821,8 +787,6 @@ anointing; *raamam* = Rama; *yauvaraajye* = for princely kingdom.
 
 "Oh, queen! An unending great ruin has encircled you. King Dasaratha is going to
 anoint Rama for the princely kingdom".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -863,8 +827,6 @@ with pain and sorrow; *dahyamaanena* = (I am) burning; *analena* = as if by fire
 
 "I am immersed in a bottomless pit of fear. I am in distress and my mind is burning
 as if by fire. I hastened here to seek you out."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -915,8 +877,6 @@ about this.
 
 "Kaikeyi! If Rama becomes king, his son will become king after him. Thus, Bharata's
 name itself will be removed from the royal clan."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -957,8 +917,6 @@ a king; *katham* = why; *na buddhyase* = not knowing; *ugratvam* = cruelty;
 
 "Oh, Kaikeyi! Having born in a royal family and being an emperor's wife, how is it
 that you are not knowing about the cruelty in kingly duties?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1001,8 +959,6 @@ minded! najaaniishhe* = you are not able to know; *atisandhitaa* = that you are 
 "Your husband talks about righteousness, but does harm secretly. He says sweet words
 but behaves cruelly. Because of your clean thinking; you are not able to know that he is cheating
 you thus."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1049,8 +1005,6 @@ you thus."
 
 "Your husband approaches you and talks good words, which are useless. But he passes
 on benefit today to Kausalya only."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1100,8 +1054,6 @@ Rama; *raajye* = in kingdom; *nihatakaNTake* = without hindrance.
 
 "The evil minded Dasaratha sent Bharata to the house of his relatives and at dawn,
 is going to install Rama on the throne without hindrance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1148,8 +1100,6 @@ ankeneva* = like a poisonous serpent in your bosom; *shatruH* = enemy;
 
 "O, childish one! Like a mother, you wish for his well being. But he is an enemy,
 and is called husband for a namesake. He is like a poisonous serpent in your bosom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1196,8 +1146,6 @@ serpent or; *shatruruvaa* = an enemy
 
 "King Dasaratha has acted towards you and your son today in the same way as an enemy
 or a serpent would behave if ignored."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1246,8 +1194,6 @@ ever deserving of ease; *anR^ita saantvena* = with his untruthful sweet words;
 "O, stupid one! With his untruthful sweet words to you, who are ever deserving of
 ease, the evil minded king is installing Rama on the throne and is thus ruining you along with your
 son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1289,8 +1235,6 @@ cha* = and me.
 
 "O, Kaikeyi, of amazing beauty! You have to take timely action immediately, so as to
 save yourself, your son and me too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1338,8 +1282,6 @@ delight; *uttasthau* = rose(from the coach); *chandralekheva* = as crescent moon
 
 Hearing Manthara's words, that Kaikeyi of charming countenance who was lying in bed,
 rose from her coach full of delight like unto the crescent moon in autumn.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1386,8 +1328,6 @@ that; *kubjaayai* = hunch backed Manthara.
 
 That Kaikeyi in the midst of her astonishment and joy gave a graceful jewel to the
 hunch-backed Manthara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1437,8 +1377,6 @@ backed one; *dR^istvaa* = saw; *mantharaam* = Manthara; *abraviit* = spoke;
 
 Kaikeyi, the best among women, gave a jewel to Manthara and spoke to her as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1455,8 +1393,6 @@ good (news); *me* = to me.
 
 "Oh, Manthara! You informed much gladdening news to me. What else can I do for you,
 who informed such a good news?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1498,8 +1434,6 @@ Bharata; *tasmaat* = that is why; *tushhTaasmi* = I am happy; *yat* = for;
 
 "I do not see any difference between Rama and Bharata. That is why, I am happy that
 Rama is being anointed for crown by the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 </details>
 
@@ -1556,8 +1490,6 @@ for this reason; *pradadaami* = I shall give; *param* = good; *varam* = boon;
 "O, Manthara! You do merit every favor. I have no other pleasant news than this.
 Hence, you cannot ever again inform a better loving news than this. I shall give you a good boon.
 Ask for it!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

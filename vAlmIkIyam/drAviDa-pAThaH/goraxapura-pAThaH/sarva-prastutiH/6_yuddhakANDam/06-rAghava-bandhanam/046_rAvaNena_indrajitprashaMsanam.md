@@ -21,8 +21,6 @@ Jambavan. When Sugreeva looks depressed on seeing the plight of Rama and Lakshma
 consoles him, saying that Rama is not going to die. He also reassures the disheartened monkeys and
 infuses confidence in them. Indrajit, in the meanwhile, informs Ravana that both Rama and Lakshmana
 have been killed. Ravana applauds his son for his daring act.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ monkeys; *dadR^ishaH* = beheld; *bhraatarau* = the brothers; *raama lakSmaNau*
 
 Thereafter, surveying the earth and the sky, the monkeys beheld the brothers Rama
 and Lakshmana, covered with arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ his work and retired; even as Indra* would, after raining.
 **टिप्पनी**
 
 � Indra: The god of the sky and the given of rain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ his work and retired; even as Indra* would, after raining.
 
 Nila, Dvivida, Mainda, Sushena, kumuda, Angada along with Hanuman forthwith began to
 grieve for Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -312,8 +304,6 @@ little prowess, their limbs smeared with a stream of blood, resembling two golde
 lying on heroes' couch, those warriors with tardy movement of their limbs, were surrounded by their
 monkey-leaders, whose eyes were suffused with tears. Seeing the two Raghavas, pierced by a
 multitude of arrows, all the monkeys along with Vibhishana became perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -360,8 +350,6 @@ multitude of arrows, all the monkeys along with Vibhishana became perturbed.
 
 The monkeys surveyed all the quarters in the sky, without being able to discover
 Indrajit (the son of Ravana), who was veiled by his magic powers in the fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -410,8 +398,6 @@ pratichchhannam* = duly hidden by his occult power.
 
 Vibhishana, beholding by his magic arts, saw that nephew, standing nearby, duly
 hidden by his occult power.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -462,8 +448,6 @@ had received; *dadarsha* = 9he) was recognized; *vibhiiSaNaH* = by Vibhishana;
 Althought that warrior who had no peer in the field and who had unique exploits, had
 made himself invisible by virtue of the boon he had received, he was recognized by Vibhishana, who
 was full of energy, glory and prowess.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -511,8 +495,6 @@ all the demons; *uvaacha* = said.
 
 Contemplating his own feat, Indrajit gazed on those two warriors, stretched on the
 earth and in excess of joy, wishing to share it with all the demons, said.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -553,8 +535,6 @@ killed; *maamakaiH* = by my; *baaNaiH* = arrows.
 
 "The exceedingly strong brothers Rama and Lakshmana, the killers of Khara and
 Dushana have been killed by my arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -604,8 +584,6 @@ themselves; *etasmaat iSubandhanaat* = from those arrows that paralyse them.
 
 "Even were they aided by the gods and demons with the host of sages, these two
 brothers would never be able to release themselves from those arrows that paralyse them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -672,8 +650,6 @@ account, the three watches of the night slipped past my father, who is unable ev
 couch with his limbs, who remains absorbed in thought and stricken with grief and because of whom,
 the entire city of Lanka remains agitated, like a river during the rains, has ban destroyed by
 me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -723,8 +699,6 @@ _________________
 
 "As clouds are useless in the autumn, so are all the exploits of Rama, Lakshmana and
 all the monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -771,8 +745,6 @@ too; *parishyataH* = who were observing.
 
 Thus speaking to all those demons, Indrajit the son of Ravana (by his arrows0 struck
 the monkey chief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -823,8 +795,6 @@ superb arrows (on each).
 
 Striking Nila with nine arrows, Indrajit the destroyer of foes tormented Mainda and
 Dvivida with three superb arrows on each.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -866,8 +836,6 @@ Dvivida with three superb arrows on each.
 
 Indrajit the wielder of a great bow smacked the chest-region of Jambavan with an
 arrow and released ten arrows towards Hanuman, the swift monkey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -908,8 +876,6 @@ Gavaksha; *sharabham chaiva* = and Sharabha; *amitavikramau* = of unbounded valo
 
 Indrajit the son of Ravana of great swiftness, struck both Gavaksha and Sharabha of
 unbounded valour with two arrows on each of them, in that battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -950,8 +916,6 @@ then; *aNgadam* = Angada; *vaali putram* = the son of Vali.
 
 Thereafter, Indrajit the son of Ravana swiftly with his various arrows, struck
 Gavaksha (the ruler of golangulas) and then Angada the son of Vali too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -993,8 +957,6 @@ began to shout (in triumph).
 
 Indrajit, that strong and highly courageous demons, pierced those jewels among the
 monkeys there with his arrows which resembled flames of fire and began to shout in triumph.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1045,8 +1007,6 @@ _________________
 
 Tormenting them with a multitude of arrows and frightening the monkeys, the mighty
 armed Indrajit heartily laughed and spoke (as follows).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1093,8 +1053,6 @@ Lakshmana); *baddhau* = bound; *sahitau* = together; *mayaa* = by me;
 
 "O, demons! At the forefront of the army, behold those two brothers (Rama and
 Lakshmana) bound together by me by a terrible net work of my arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1141,8 +1099,6 @@ the treacherous fighters; *evam* = thus; *uktaaH* = spoken (by Indrajit);
 
 All those demons, the treacherous fighters on their part, after hearing the words of
 Indrajit, were seized with a great wonder and were overjoyed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1189,8 +1145,6 @@ is dead; *samapuujayan* = (they) unanimously cheered; *raavaNim* = Indrajit.
 
 All of them cheered Indrajit unanimously with a roar like unto thunder, crying "Rama
 is dead".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1237,8 +1191,6 @@ the two brothers; *raamalakSmaNau* = Rama and Lakshmana; *niSpanau* = motionless
 
 Seeing the two brothers - Rama and Lakshmana lying motionless and breathless on the
 floor, Indrajit thought they were dead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1285,8 +1237,6 @@ purrim* = the city of Lanka.
 
 Indrajit, full of joy and victorious in conflict, returned to Lanka, spreading
 happiness among the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1334,8 +1284,6 @@ Sugreeva.
 
 Seeing Rama and Lakshmana riddle with arrows and pierced in every limb and bone of
 their bodies, a great fear had taken possession of Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1388,8 +1336,6 @@ baaSpavadanam* = with his face filled with tears; *diinam* = looking helpless;
 
 Vibhishana then spoke to that Sugreeva, who was frightened, whose eyes were filled
 with tears, looking helpless and whose eyes were agitated in grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1443,8 +1389,6 @@ like this; *vijayaH* = victory; *naasti* = is not; *naiSThikaH* = certain.
 
 "Have no fear, O Sugreeva! Stay this rush of tears. Wars are like this. Victory is
 not certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1466,8 +1410,6 @@ consciousness.
 
 "O, warrior! If a remnance of luck is there with us, the highly-souled and the
 exceedingly strong Rama and Lakshmana will drive off this loss of consciousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1484,8 +1426,6 @@ righteousness.
 
 "O, Sugreeva! Be courageous and bring about courage in me, having no protector. For
 those who are devoted to truth and righteousness, there is no fear of death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1532,8 +1472,6 @@ hand; *jalaklinnena* = moistened in water.
 
 Thus speaking, Vibhishana then wiped the charming eyes of Sugreeva with his hand
 moistened in water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1574,8 +1512,6 @@ cha* = enchanted it; *vidyayaa* = with an incantation; *pramamaarja* = and wiped
 
 Then, the pious minded Vibhishana took water, enchanted it with an incantation and
 wiped the eyes of Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1622,8 +1558,6 @@ sense; *asambhraantam* = and comfort.
 
 Having dried the face of the wise Sugreeva Vibhishana spoke the following words full
 of good sense and comfort.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1670,8 +1604,6 @@ of good sense and comfort.
 
 "O, Sugreeva the king of monkeys! This is not the time to cling to despondency. At
 this hour, even too much attachment leads to death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1721,8 +1653,6 @@ troops; *raama purogaaNaam* = which have Rama going before them.
 
 "Therefore, abandoning your despair, which ruins all actions, focus now on how best
 to serve the troops which have Rama going before them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1773,8 +1703,6 @@ Rama and Lakshmana; *vyapaneSyataH hi* = can indeed drive away; *bhayam* = the f
 
 "Or else, let Rama be protected till he regains consciousness. Having regained
 consciousness, Rama and Lakshmana can indeed drive away the fear of both of us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1822,8 +1750,6 @@ abandoning; *evam* = him.
 
 "This is nothing to Rama nor Rama is going to die. The bodily splendour, which is
 difficult to be found in those whose longevity of life has run out; is not abandoning him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1870,8 +1796,6 @@ difficult to be found in those whose longevity of life has run out; is not aband
 
 "Therefore console yourself and call on your prowess, till I restore confidence in
 the entire ranks."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1918,8 +1842,6 @@ each and every ear; *aagata saadhvasaaH* = terrified as they were.
 
 "O, the foremost of monkeys! These monkeys, having their eyes dilated due to fear,
 are signaling some words into each other's ear, terrified as they were."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -1967,8 +1889,6 @@ activate aaniikam = the troops.
 
 "Let the monkeys cast off their fear, even as one would discard a used garland, on
 seeing me running about to activate the troops."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -2015,8 +1935,6 @@ monkeys; *vidrutam* = who were pushing away.
 
 Having emboldened Sugreeva, Vibhishana the foremost of demons once again reassured
 that army of monkeys, who were pushing away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -2062,8 +1980,6 @@ samaavR^itaH* = surrounded by all his forces.
 
 Indrajit, the great conjurer, surrounded by all his forces, re-entered the city of
 Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -2111,8 +2027,6 @@ had been killed.
 
 Approaching Ravana there and saluting with joined palms, Indrajit informed his
 father in pleasing words that both Rama and Lakshmana had been slain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -2160,8 +2074,6 @@ son.
 
 Hearing in the midst of demons, the news that both the enemies having been killed,
 Ravana forthwith sprang on his feet in joy and embraced his son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -2215,8 +2127,6 @@ by being entwined with arrows.
 Smelling on his head, Ravana delighted at heard, made enquiries in the matter.
 Indrajit reported the matter as it happened, to his enquiring father, as to how both Rama and
 Lakshmana were made motion-less and luster-less by entwining them with arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 </details>
 
@@ -2277,8 +2187,6 @@ account of Rama; *abhinanda* = and applanded; *putram* = his son;
 Hearing the words of Indrajit the great charioteer, Ravana with his heart filled
 with a gush of joy, relinquished his anguish, caused on account of Rama and applauded his son with
 pleasing words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ then describes her miserable state to Hanuma and requests him to ask Rama, Laksh
 came to Lanka to destroy Ravana together with his army. Hanuma consoles Seetha, saying that Rama and
 Lakshmana would reduce Lanka to ashes and take her back to Ayodhya. When Hanuma further requests Seetha
 to give a token of remembrance to be handed over to Rama, she gives him a jewel for the head as a token.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ high-souled; *raaghaveNa* = Rama; *hanumaan* = Hanuma; *nyavedayata* = reported;
 
 Hearing the words of the high-souled Rama, Hanuma reported to Rama, all the words spoken
 by Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ of an event; *puurvavR^ittam* = that occured previously; *chitrakuuTe* = in Moun
 
 "O Rama the foremost of men! Seetha, the princess, spoke a detailed account of an event
 which occurred long ago in Mount Chitrakuta, as a token of recollection."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ flesh; *stanaantare* = at an area in the midst of her breasts (with its beak).
 
 "Seetha, who slept happily by your side (at one instance) got up before you. A crow coming
 down quickly, tore her flesh at an area in the midst of her breasts (with its beak)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ _________________
 
 "O Rama! You slept in your turn on the lap of the princess. That crow again began to
 torment the princess."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ bodhitaH kila* = were awakened (by her).
 
 "Coming near again and again, it tore her breast severely. Dampened by her blood, you
 then were awakened by her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ happily; *bodhitaH kila* = were awakened.
 
 "O tormentator of enemies! Though lying happily asleep, you were awakened by Seetha the
 princess, who was being ceaselessly tormented by the crow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ _________________
 
 "O long-armed Rama! Seeing her, who was lacerated at the midst of her breasts, you were
 enraged like a hissing snake and spoke to her as follows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ _________________
 
 " 'O bashful Seetha! By whom was the middle of your breasts lacerated with nail-points?
 Who is playing with an angry five-hooded serpent?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -477,8 +459,6 @@ abhimukham* = in front of her; *tiikSNaiH nakhaiH* = with its sharp nails; *saru
 
 "Looking around, you suddenly saw a crow, which perched in front of Seetha, with its
 sharp nails stained with blood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -528,8 +508,6 @@ _________________
 
 "That crow, foremost of the birds was indeed the son of Indra the lord of celestials;
 dwelling in the middle of the mountains and equal in speed to the wind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -579,8 +557,6 @@ intention; *tasmin vaayase* = against that crow.
 
 "O great armed Rama, the excellent among the wise! With your eyes rolling with anger,
 you then harboured a cruel intention against that crow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -632,8 +608,6 @@ forth; *kaala agniH iva* = like the fire of universal dissolution; *khagam abhim
 "Taking a blade of grass from your bed of the sacred grass, you charged it with the potency
 of Brahma missile. That flaming blade blazed forth like the fire of universal dissolution, with its
 end facing the bird."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ _________________
 
 "You hurled that flaming blade of grass towards the crow. Then that flaming blade of
 grass for its part followed the crow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -734,8 +706,6 @@ _________________
 
 "Forsaken by all the celestials, Indra, its father and the sages too, that crow did not
 find a protector even after going round all the three worlds (heaven, earth and the lower regions)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -818,8 +788,6 @@ the ground; *sharaNaagatam* = and who sought your protection.
 "O destroyer of enemies! Being frightened the crow came to your presence once again and
 sough your protection. Though fit to be killed, you on your part, affording shelter, in mercy to the
 crow, protected that crow which had fallen flat on the ground."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -835,8 +803,6 @@ eye; *kaakasya* = of the cow.
 
 'O Rama! Since it is not possible to make the missile a waste, you destroyed the right
 eye of the crow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -886,8 +852,6 @@ _________________
 
 "O Rama! Then, that crow, having been discharged by you, went back to its own habitation,
 after offering salutation to you and to king Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -937,8 +901,6 @@ the demons; *shreSThaH api* = though foremost; *astravidaam* = among the wielder
 
 "O Rama! Why are you not employing the same type of a missile on the demons, though you
 are the foremost among the wielders of missiles, though courageous and possessed of good disposition?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -989,8 +951,6 @@ gaNaaH* = nor the troops of maruts; *the na sarve* = nor all of them put togethe
 "Neither the Nagas the celestials serpents nor even Gandharvas the celestial musicians
 nor the demons nor the troop of Maruts the host of gods, nor all of them joined together are capable
 of fighting with Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1040,8 +1000,6 @@ sambhramaH asti* = there is eagerness; *mayi* = in my matter; *hanyataam raavaNa
 
 "If that powerful Rama is eager to save me, let him kill Ravana in battle quickly with
 his exceptionally sharp arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1092,8 +1050,6 @@ Rama his brother?
 
 "Why even that Lakshmana, the annihilator of adversaries and the foremost of men born
 in Raghu dynasty is not saving me, by taking orders from Rama his brother?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1145,8 +1101,6 @@ even though they can conquer; *suraaNaam* = the celestials; *upekSataH* = are ig
 "Wherefore those two competent brothers Rama and Lakshmana, with their splendour equal
 to that of air and fire, and excellent among men, even though they can conquer the celestials, are ignoring
 me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1197,8 +1151,6 @@ paying attention; *maam* = to me.
 
 "There is no doubt that I had done some big impure act, for which reason those two brothers
 Rama and Lakshmana, who torment the enemies, even though capable, are not paying attention to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1248,8 +1200,6 @@ Seetha; *idam vachanam* = the following words:
 
 Hearing the miserable words of Seetha spoken with tears, I again spoke to that venerable
 Seetha the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1300,8 +1250,6 @@ pain.
 
 " 'O Seetha the princess! Rama has grown indifferent because of grief born of separation
 from you. I swear it to you truly. Rama, being overwhelmed with grief, Lakshmana too is feeling pain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1351,8 +1299,6 @@ your sorrows; *imam muhuurtam* = during this very moment.
 
 " 'O faultless one! You can give now, a token of recollection, which Rama can recognize
 and which can beget happiness to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1401,8 +1347,6 @@ _________________
 
 " 'Those two princes, the foremost among men and the faultless ones are eager to see
 you. They can reduce Lanka to ashes'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1481,8 +1425,6 @@ his relatives; *samare* = in battle; *raaghavaH* = Rama; *nayate* = will take;
 
 " 'O lady with charming hips! Killing the terrific Ravana together with his relatives
 in battle, Rama will certainly take you to his City of Ayodhya'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1498,8 +1440,6 @@ in battle, Rama will certainly take you to his City of Ayodhya'."
 
 " 'O faultless one! You can give now, a token of recollection, which Rama can recognize
 and which can beget happiness to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1580,8 +1520,6 @@ _________________
 "O mighty Rama! Having surveyed all the directions and having untied from the end of
 her garment, this excellent jewel which was being strung together in her hair that Seetha gave it to
 me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1597,8 +1535,6 @@ my salutation; *shirasaa* = by bowing my head; *aaryaam taam* = to that venerabl
 
 "O Rama! Taking that wonderful jewel for your sake from her, and offering my salutation
 by bowing my head to that venerable Seetha, I was seized with a haste to come back."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1659,8 +1595,6 @@ abundantly; *jaanaka atmajaa* = Seetha; *varavarNinii* = having a beautiful comp
 
 "Seeing me who was in a hurry to come back and augmenting my body abundantly, Seetha
 having a beautiful complexion spoke to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1682,8 +1616,6 @@ spoke to me as follows); *shokavega samaahataa* = afflicted with a gush a grief.
 "With her eyes filled with tears, looking miserable, with her words ambiguously coming
 out of her coked throat, bewildered as she was, at the though of my flying away and afflicted with a
 gush of grief; (she spoke to me as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1704,8 +1636,6 @@ about their well-being.
 
 "O Hanuma! Inquire those two brothers Rama and Lakshmana looking like lions, Sugreeva
 together with his ministers and all others about their welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 
@@ -1767,8 +1697,6 @@ me to cross this ocean of sorrow. O best of heroes among monkeys! Approaching Ra
 gush of my grief and the threats of these female-demons. Have a happy journey!' "O illustrious princes,
 the protector of men! The venerable Seetha filled with sorrow spoke these words to be conveyed to you.
 Comprehending this matter spoken by me, believe that Seetha is completely safe."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
 </details>
 

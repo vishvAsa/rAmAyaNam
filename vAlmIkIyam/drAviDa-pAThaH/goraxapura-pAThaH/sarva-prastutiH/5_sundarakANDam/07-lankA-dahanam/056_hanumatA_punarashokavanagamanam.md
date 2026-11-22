@@ -17,8 +17,6 @@ Hanuma again visits Ashoka garden and sees Seetha once more. He consoles Seetha 
 Rama along with his forces of monkeys and bears will come soon and after conquering the enemies in battle,
 will take her back. After bidding adieu to Seetha, he ascends Mount Arishta and enlarges his body making
 himself ready to leap across the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ Heaven!; *pashyaami* = I am seeing; *tvaam* = you; *iha* = here; *akSataam*
 
 Thereafter, having offered his salutation to Seetha, who was present at the foot of Ashoka
 tree, Hanuma spoke: "Thank heaven! I am seeing you uninjured here!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ bhartR^isnehaanvitam* = endowed with affection towards her husband.
 
 Then, beholding again and again, that Hanuma, who had made ready for his return journey,
 Seetha spoke the following words, filled with affection towards her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ energy; *yashasya* = is creditable.
 
 "O Hanuma, the annihilator of enemies! You are yourself surely sufficient single-handed
 completion of this task. Your elevated energy is creditable indeed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ _________________
 
 "But, it will be appropriate for Rama, who destroys the hostile forces, to take me with
 him, after routing Lanka with his arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -273,8 +263,6 @@ of him.
 
 "Therefore, you act in such a way that the high-souled Rama, valiant in battle, may exhibit
 prowess worthy of him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -329,8 +317,6 @@ _________________
 
 Hearing those humble, reasonable and meaningful words of Seetha, Hanuma spoke the following
 words in reply.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -388,8 +374,6 @@ _________________
 
 "Rama, accompanied by the leaders of monkeys and bears, will come soon and after conquering
 the enemies in battle, will take away your grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -410,8 +394,6 @@ the enemies in battle, will take away your grief."
 
 Hanuma, the son of wind-god, thus consoling Seetha and making up his mind to go, saluted
 Seetha with reverence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -461,8 +443,6 @@ samdarshanotsukaH* = with an anxious desire to see his lord; *aaruroha* = ascend
 
 Thereafter, that Hanuma the foremost among the monkeys, and the annihilator of enemies,
 with an anxious desire to see his lord, ascended the Mount Arishta of excellence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -513,8 +493,6 @@ hanging between its summits; *sottariiyamiva* = as with an upper garment.
 That mountain was covered as it were with dark green rows of gardens inhabited by towery
 elephants with red spots on their skin and with its clouds hanging between its summits, as with an upper
 garment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -564,8 +542,6 @@ love; *shubhaiH divaakarakaraiH* = by the bright rays of the sun.
 
 By metals scattered here and there, looking like eyes drawing up the eye-lids, the mountain
 looked like being awakened, as it were, with love by the bright rays of the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -616,8 +592,6 @@ at a high pitch; *naanaa prasravaNasvanaiH* = in the form of roaring sound of va
 The mountain looked resembling the one which has started reciting the scriptures clearly
 in the form of the deep sound of running streams of water, singing as it were at a high pitch, in the
 form of roaring sound of various cascades.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -668,8 +642,6 @@ sound of its cascades.
 
 The mountain stood as it were with uplifted arms in the form of very lofty deodars and
 which started crying loudly as it were, on all sides, in the form of the sound of its cascades.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -713,8 +685,6 @@ _________________
 
 The mountain seemed to be trembling in the form of waving dark automnal groves, which
 was piping as it were, in the form of hollow bamboos shaken up by the wind and whistling.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -764,8 +734,6 @@ kR^ita gambhiiraiH* = which were deep and covered with mist.
 
 The mountain was hissing as it were with fury, in the form of its terrible and most poisonous
 snakes and which sat absorbed in meditation as it were, in the form of its deep caves covered with mist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -817,8 +785,6 @@ having a lining of clouds; *jR^imbhamaaNamiva* = seemed to stretch its limbs; *a
 The mountain seems to be setting out on a journey on all four sides, with feet of the
 mountain, looking like rising clouds, which with its peaks having a lining of clouds, seemed to stretch
 its limbs in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -868,8 +834,6 @@ taalaashvakarNaishcha* = sal; palmyrah; karna and bamboo trees.
 
 The mountain was embellished with a number of summits and adorned with numerous caves
 scattered at many places and endowed with many sal, palmyrah, karna and bamboo trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -920,8 +884,6 @@ of liquid minerals.
 The mountain was adorned with clusters of creepers having plenty of flowers, filled with
 a number of summits and adorned with numerous caves scattered at many places and endowed with many sal,
 palmyrah, karna and bamboo trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -970,8 +932,6 @@ serpents.
 
 The mountain was endowed with many cascades, crowded together with heaps of rocks and
 frequented by great sages, Yakshas, Gandharvas, Kinnaras and celestial serpents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1019,8 +979,6 @@ and trees; *simhaadhyuSia kandaram* = having caves inhabited by lions; *vyaaghra
 
 The mountain was exquisite with creepers and trees, having caves inhabited by lions,
 spread over with a number of tigers and endowed with sweet roots and fruit-trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1069,8 +1027,6 @@ _________________
 
 Hanuma, the son of wind-god, in a hurry to see Rama, ascended that mountain, excited
 as he was with an extreme joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1120,8 +1076,6 @@ of his feet lied heavily; *sama shiiryanta* = were crushed; *saghoSaaH* = with s
 
 Then, the rocks in the charming table-land of the mountain, on which the soles of Hanuma
 lied heavily, were crushed with noise and fallen to pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1181,8 +1135,6 @@ northern shore; *dakSiNaat* = from the southern shore; *lavaNaambhasaH* = of the
 
 Desirous of reaching the northern shore from the southern shore of that ocean, Hanuma
 ascended that mountain and enlarged his body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1203,8 +1155,6 @@ by fishes and water-snakes.
 
 Then, the valiant Hanuma after ascending the mountain, saw the terrific ocean inhabited
 by fishes and water-snakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1254,8 +1204,6 @@ sky; *uttaraam disham* = towards northern direction; *dakSiNaat* = from southern
 
 Hanuma, the foremost among the monkeys and the son of the wind-god, entered the sky towards
 northern direction, like a wind, from southern direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1308,8 +1256,6 @@ drumaiH* = and toppling trees.
 
 Pressed at that moment by Hanuma, that excellent mountain sank into the bowels of the
 earth along with the various living beings and made a noise with its shaking summits and toppling trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1365,8 +1311,6 @@ blossoms; *rugNaaH* = were broken; *nipetuH* = and fell down; *bhuutale* = on ea
 
 Shaken by the impetus of the thighs of Hanuma, trees in blossom were broken and fell
 down on earth, as though struck by a thunder-bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1387,8 +1331,6 @@ bhindan* = piercing; *uabhaH* = the sky.
 
 When the lions of great prowess dwelling in the midst of caves were tormented and roared
 terribly, that roaring noise was heard as it was piercing the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1438,8 +1380,6 @@ bhuuSaNaaH* = and their ornaments fallen off; *samutpetuH* = went up; *sahasaa* 
 
 The females of Vidyadhara class of supernatural beings, with their raiments in disorder
 through fear and their ornaments fallen off, went up all of a sudden from the mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1483,8 +1423,6 @@ poisonous; *nipiiDita shirogriivaaH* = with their hoods and necks severely press
 
 Large poisonous serpents of immense size, possessing vigour and having fiery tongues
 with their hoods and necks severely pressed lay coiled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1534,8 +1472,6 @@ that tormented; *nagavaram* = mountain of excellence; *kinnaroragagandharva yakS
 
 Then, leaving that tormented mountain of excellence; Kinnaras, Nagas, Gadharvas, Yakshas
 and Vidyadharas ascended to the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1585,8 +1521,6 @@ _________________
 
 Pressed down by that strong Hanuma, that beautiful mountain having its elevated summits
 crowned with trees, entered the bowels of the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1636,8 +1570,6 @@ thirty Yojanas (two hundred and forty miles); *babhuuva* = became; *yaataH* = co
 
 That mountain, with a width of ten yojanas (or eighty miles) and a height of thirty yojanas
 (or two hundred and forty miles) got level with the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 
@@ -1687,8 +1619,6 @@ the sky).
 
 With a desire to cross easily the terrific ocean, whose shores were being lashed by its
 waves, which Hanuma jumped up into the air.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
 </details>
 

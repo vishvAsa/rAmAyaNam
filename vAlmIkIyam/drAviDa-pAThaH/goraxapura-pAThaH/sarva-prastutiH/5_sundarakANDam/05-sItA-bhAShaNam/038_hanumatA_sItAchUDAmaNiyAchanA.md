@@ -19,8 +19,6 @@ repeat it before Rama by way of a token of recollection. She further sends greet
 Lakshmana, conveys her enquiry about their welfare and conveys to them her resolve to survive only for
 a month after the expiry of the time-limit given by Ravana. Thereupon, she hands over to Hanuma her
 jewel for the head as a token of remembrance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ among monkeys; *vaakya vishaaradaH* = who was skilled in speech; *shrutvaa* = af
 
 Hearing those words of Seetha, the eloquent Hanuma was very much pleased and spoke to
 Seetha (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ Seetha (as follows):
 
 "O Seetha, the beautiful princess! Whatever you spoke is befitting. It is in keeping
 with woman's nature and humility of a chaste women."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ Yojanas.
 
 "It is indeed not fit for a woman to mount on my back and traverse an extensive ocean,
 which is having a width of one hundred yojanas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -232,8 +224,6 @@ te* = of you; *patnyaaH* = the wife; *tasya mahaatmanaH* = of that high soled Ra
 "O Seetha endowed with modesty! The second reason you mentioned that you would not be
 touching any one else other then Rama is befitting of you, the wife of that high soled Rama. O princess!
 which other lady except you can speak of such sweet words?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -280,8 +270,6 @@ in front; *mama* = of me.
 
 "O princess! I can completely inform Rama of all that you have done and of all that you
 have spoken before me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -328,8 +316,6 @@ manasaa* = and with a mind moistened with affection; *etat* = this; *samudiirita
 
 "O princess! All this was told by me because of several reasons, being desirous of doing
 good to Rama ad with my mind moistened with affection towards him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -408,8 +394,6 @@ _________________
 
 "I spoke this because of the unassailability of Lanka, its great ocean so difficult to
 be crossed and also my capacity of taking you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -425,8 +409,6 @@ and devotion; *ichchhami* = I wish; *tvaam samaanetum* = to carry you well; *ady
 
 "Because of my great affection and devotion towards you, I wish to carry you well now
 itself to Rama your hushand. These words were not spoken by me with any other motive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -473,8 +455,6 @@ not willing; *yaatam* = to go; *mayaa saartham* = with me; *tvam* = you; *prayac
 
 "O faultless Seetha! If you are not willing to go with me, give me a token of remembrance
 which Rama can recognise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -528,8 +508,6 @@ thing; *abhiJNaanam* = as a token of remembrance; *mama priyam* = to my beloved 
 Hearing Hanuma's words, Seetha like the daughter of a god, slowly spoke the following
 words, strung together with alphabets of tears: "You tell this (following) excellent thing as a token
 of remembrance to my beloved husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -607,8 +585,6 @@ of sages.
 with roots fruits and water. In that place, while we were residing in a hermitage of sages, on a day
 long ago, we were strolling in water in parts of groves with various kinds of flowers of perfume in
 that hillock. Your thereupon became wet and sat at my proximity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -666,8 +642,6 @@ _________________
 
 "Then, a crow, yearning for meat, began to peck me. Picking up a clod of earth, I prevented
 the crow from its act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -688,8 +662,6 @@ crow pariliiyate = was hiding; *tatraiva* = there only; *saH* = that; *balibhoja
 
 "Pecking me again and again, the crow was hiding there only. That crow, yearning for
 food, did not resig from meat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -739,8 +711,6 @@ _________________
 
 "While I was angry with that bird, my skirt was slipping and I was pulling its string
 (so as to tighten it). I was seen by you then."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ for food; *upaagataa* = I sought shelter; *tvaam* = with you.
 
 "Moved by anger, I felt abashed for being laughed at by you. Torn down by the crow, which
 was yearning for food, I sought shelter with you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -841,8 +809,6 @@ delighted.
 
 "Feeling tired, I again settled on your lap. As though angry, I was consoled by you and
 I was fully delighted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -889,8 +855,6 @@ having my eyes; *parimaarjatii* = being wiped; *mandam* = slowly; *aham* = I;
 
 "Slowly wiping my eyes, my face filled with tears, I was seen by you, O Lord, as having
 been annoyed by the crow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -940,8 +904,6 @@ prasuptaH* = slept; mama; *aN^ke* = in my arms.
 
 "I even slept for a long time on Rama's lap because of my fatigue. In his turn, Rama
 the elder brother of Bharata, slept in my arms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1016,8 +978,6 @@ up; *punaH punaH* = again and again; *maam vidadaara* = tore me up; *bhR^isham*
 "Meanwhile, the same crow appeared there. Descending all of a sudden, the crow clawed
 me at the space between the breasts, even as I awoke from my sleep and rose from the lap of Rama. Flying
 up again, it tore me up a lot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1071,8 +1031,6 @@ of enemies; *sukha suptaH* = who was in a pleasant slumber; *bodhitaH* = was wok
 "Then, Rama got wet by the discharged drops of blood. Thereafter, that splendorous Rama,
 the annihilator of enemies, who was in a pleasant slumber, was woken up by that crow and by me who was
 grievously tormented by the crow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1121,8 +1079,6 @@ tadaa* = then; *shvasan* = hissing; *kruddhah ashiiviSaiva* = like an angry serp
 
 "That long-armed Rama, seeing me pierced violently on the breasts, then spoke the following
 words, hissing like an angry serpant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1173,8 +1129,6 @@ serpent; *saroSeNa* = filled with fury?
 
 "O Seetha the round-thighed woman! Who has wounded the space between your breasts? who
 is playing with a fire-faced serpent filled with fury?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1224,8 +1178,6 @@ me alone.
 
 'Then, throwing a glance around, Rama saw that crow with its sharp claws moistened iwth
 blood and sitting in front of me alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1275,8 +1227,6 @@ celestials; *dharaantarayataH* = residing; among the mountains; *gatau* = and in
 
 "That crow, the best among birds, seems to be the son of Indra the Lord of celestials,
 staying in mountains and moving with a peed equal to the wind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1327,8 +1277,6 @@ of that ferocious cow.
 
 "Then, the long-armed Rama, the best among wise men, swirling his eyes in anger, made
 a resolve in the matter of that ferocious crow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1379,8 +1327,6 @@ the world; *jajvaala* = flared up; *dvijam abhimukham* = in front of that bird.
 "Taking a blade of Kusa grass from his bed ( made of Kusa grass), Rama employed it to
 work with Brahma's missile (a mythical weapon which deals with infallible destruction). That blazing
 shoot of grass, resembling a fire destroying the world, flared up in front of that bird."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1431,8 +1377,6 @@ ha* = chased; *tam vaayasam* = that crow; *ambare* = in the sky.
 
 "As Rama threw that blazing blade of Kusa grass towards that crow, that blade of grass
 went chasing that crow in the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1482,8 +1426,6 @@ chased; *jagaama* = wnet; *vividhaam* = in many; *gatim* = a way; *traaNa kaamaH
 
 "Then, while that blade of grass came chasing, that crow went flying in many a way. Seeking
 protection, it roamed all over the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1561,8 +1503,6 @@ its father; *suraishcha* = celestials; *sa maharSibhiH* = along with sages; *sha
 
 "Roaming the three worlds in search of a saviour, that crow was abandoned by Indra; its
 father, the celestials and the sages. Finally, it sought refuge in the same Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1578,8 +1518,6 @@ for protection; *vadhaarhamapi* = even though it was apt to be killed.
 
 "That Rama, who affords protection, was compassionate and protected that crow, which
 fell on the ground (in salutation to Rama) and sought for protection, eventhough it was apt to be killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1676,8 +1614,6 @@ me what to do.
 
 "Seeing that crow, coming exhausted and dejected, Rama said to it: 'It is not possible
 to make Brahma missile a waste. For this reason, tell me what to do now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1696,8 +1632,6 @@ to make Brahma missile a waste. For this reason, tell me what to do now."
 Thereafter, that crow said "Let your arrow shoot my right eye." Then that blade of Kusa
 grass shooted the right eye of that crow. By giving away its right eye in that way, the crow saved its
 life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1741,8 +1675,6 @@ svam* = its own; *aalayam* = abode.
 
 "After offering salutations to Rama and King Dasaratha and being discharged by that valiant
 Rama, the crow returned to its own abode."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1792,8 +1724,6 @@ kasmaat* = why; *kSamase* = are you forgiving; *tam* = him; *yaH* = who;
 
 "O lord of the earth! For my sake you hurled a Brahma's missile even at a crow. Why are
 you forgiving the one who has taken me away from you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1843,8 +1773,6 @@ _________________
 
 "O Rama the best among men! You, with great strength, annihilate the enemy and bestow
 your mercy on me. O Lord! She who has a protector in you, actually looks like one without any protector."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1920,8 +1848,6 @@ mahotsaaham* = a great energy; *mahaabalam* = and a great strength; *apaarapaara
 "You yourself told me that kindness is the best righteousness. I know you, having a great
 prowess, a great energy, and a great strength. I know your non-acquiescence, imperturbability, profoundness
 like an ocean, as Lord of the earth including the oceans and as equal to Indra the Lord of celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -1996,8 +1922,6 @@ storm-gods; *na* = are not capable.
 
 "Neither the serpent-demons, nor the divine musicians nor the demons nor the storm-gods
 are able to resist the onrush of Rama in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2047,8 +1971,6 @@ man; *evam* = thus; *kimartham* = why; *nayojayasi* = are you not employing;
 
 "O Rama! Eventhough you are strong, excellently skilled in archery and a truthful man,
 why are you not utilizing your arrow on demons?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2064,8 +1986,6 @@ his sharp arrows?
 
 "If the valiant Rama has any haste in my case, why does he not destroy the demons with
 his sharp arrows?!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2138,8 +2058,6 @@ men; Rama and Lakshman; *vaayvagni samtejasau* = with a sharpness equal to that 
 
 Those two tigers among men, Rama and Lakshmana, with a sharpness equal to that of wind
 and fire, even if they are unconquerable by demons too, why are they neglecting me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2189,8 +2107,6 @@ _________________
 
 "For what reason, even Lakshmana the tormentator of enemies, the mighty man and the valiant
 man does not protect me, by taking the command of his elder brother?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2207,8 +2123,6 @@ not seeing; *maam* = me.
 
 "There is not doubt that I would have committed a great sin, for which reason those two
 brothers Rama and Lakshmana the tormentators of enemies, even when capable , are neglecting me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2287,8 +2201,6 @@ vaidehyaa* = by Seetha; *hanumaan* = Hanuma; *mahaatejaa* = of great splendour;
 
 Hearing the pitiable appeal Seetha with tears, Hanuma of great splendour and the son
 of wind-god spoke (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2304,8 +2216,6 @@ by grief; *lakSmaNaH cha* = Lakshmana too; *paritapyate* = is tormented (by grie
 
 "O Seetha! Rama has grown averse to everything else, caused by grief towards you. I swear
 it to you by truth. When Rama is overpowered by grief; Lakshmana too gets tormented by grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2384,8 +2294,6 @@ _________________
 
 "O faultless Seetha! Somehow or other, you have been discovered by me. This is not the
 time to lament. Your will see the end of your sorrow within a short time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2400,8 +2308,6 @@ time to lament. Your will see the end of your sorrow within a short time."
 
 "Those two mighty princes, the excellent among men, are eager to see you and they will
 reduce Lanka to ashes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2453,8 +2359,6 @@ _________________
 
 "O large-eyed Seetha! Killing the cruel Ravana along with his relatives in battle, Rama
 will take you back to his own city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2539,8 +2443,6 @@ the monkeys assembled (there).
 
 "Tell me what to be expressed to Rama or to the mighty Lakshmana or to the splendourous
 Sugreeva or even to the other monkeys assembled there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2561,8 +2463,6 @@ Hanuma; *siita* = Seetha; *surasutopamaa* = like the daughter of a sage; *shoka 
 
 Hearing the words of Hanuma, Seetha, like the daughter of a sage, tormented with grief,
 spoke to Hanuma the monkey (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2578,8 +2478,6 @@ by bowing your head; *pR^ichchha* = and ask; *sukham* = about the welfare of; *t
 
 "On my behalf, salute by bowing your head and ask about the welfare of Rama, the Lord
 of the worlds, whom the magnanimous Kausalya gave birth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2605,8 +2503,6 @@ mother; *raamaH anupravrajitaH* = went to exile; following Rama.
 having renounced the wreaths of flowers, all the riches, pleasant and beautiful girls and even the prosperity
 difficult to be obtained in this extensive world, offered his profound respects to and pacified his
 father and mother, followed Rama to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2627,8 +2523,6 @@ in an affectionate way towards him; *vane* = in the forest.
 
 "Renouncing a great comfort, the righteous Lakshmana, acting in an affectionate manner
 towards Rama, followed him, watching over him in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2645,8 +2539,6 @@ lion; *mahaabaahuH* = mighty armed; *mansvii* = steady minded; *priyadarshinaH*
 
 "Lakshmana, who has broad shoulders like that ofa lion, mighty-armed, steady-minded and
 having pleasant looks, behaves towards Rama as towards his father and looks to me as his own mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2670,8 +2562,6 @@ away (by Ravana); *vR^iddhopasevii* = He serves elders; *lakSmiivaan* = He has s
 "The valiant Lakshmana, on that day of occurrence, did not know that I was being taken
 away by Ravana. He serves elders. He possesses a splendour. Though capable, he does not talk much. To
 Dasaratha, my father-in-law, he is his replica a beloved and the best prince."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2693,8 +2583,6 @@ Dasaratha, my father-in-law, he is his replica a beloved and the best prince."
 
 "Lakshmana, the younger brother of Rama is the one who is dearer to me always. That energetic
 Lakshmana carries out well, whatever load of work is entrusted to him"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2769,8 +2657,6 @@ _________________
 
 "Seeing whom, Rama ceases to recollect his deceased father, that Lakshmana is to be asked
 about his well-being, as my word and on my behalf."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2846,8 +2732,6 @@ dakSaH* = and clever; *priyaH* = darling; *raamasya* = of Rama; *duHkhakSaya kar
 "O Hanuma, the excellent of monkeys and the best of monkeys! you are the model for fulfilling
 this act of addressing him in such a way that Lakshmana, the mild, every-pure and clever darling of
 Rama may bring my sorrows to an end."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2863,8 +2747,6 @@ me naatham* = my lord; *shuuram* = and the hero.
 
 "Depending on your effort, Rama will be more active with his effort the following words
 again and again to Rama, my Lord and the hero:"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2914,8 +2796,6 @@ _________________
 
 "O Rama! I shall hold my life for a month. I cannot survive after a month I am telling
 you the truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -2996,8 +2876,6 @@ prosperity; *paataalaat* = from the abode of serpents and demons.
 "O valiant man! You are required to rescue me, detained (as I am) by Ravana the criminal
 and subjected to humiliation, as you (as Lord Vishnu) earlier protected Indra the Lord of celestials
 and Lakshmi the goddess of prosperity from the abode of servants and demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3013,8 +2891,6 @@ her garment; *siitaa* = Seetha; *dadau* = gave (it); *hanumate* = to Hanuma;
 
 Then, untying the bright devine jewel for her head tied in her garment, Seetha gave it
 to Hanuma, saying that it might be handed over to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 </details>
 
@@ -3068,8 +2944,6 @@ assumed his former tiny form) na praabhavat hi* = was not fitting (to it).
 
 Taking the excellent jewel, the valiant Hanuma thereupon fitted it to his finger, since
 his arm (eventhough he had assumed his former tiny form), was not fitting to it properly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

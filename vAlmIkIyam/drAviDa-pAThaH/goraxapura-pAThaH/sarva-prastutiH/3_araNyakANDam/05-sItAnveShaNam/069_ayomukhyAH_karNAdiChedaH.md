@@ -16,8 +16,6 @@ title_english = "069 Kabandha captures Rama Lakshmana"
 Kabandha captures Rama and Lakshmana while they are searching forests for Seetha. In the meantime, a
 demoness named Ayomukhi wanted to romance with Lakshmana, but Lakshmana cuts her ear and nose and chases
 away. The episode of Kabandha has a turning point in the epic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ looking around for Seetha. [3-69-1]
 
 They firstly have to go westward in order to go south as said by Jataayu, and as continued in next verse
 onwards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ going; *a vi pra hatam* = not, verily, regularly, beaten [off the beaten track];
 
 On going in southwest direction, both the Ikshvaku-s wielding bows, arrows, and swords, have come about
 a pathway which is an off the beaten track. [3-69-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ seen.
 
 That pathway is thickly wrapped in and penned up with numerous trees, climber plants, and hedgerows
 from all over, thus that is jammed, blocked and horrid in its appearance. [3-69-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ tu = crossed over, but; *vyatiyaatau [vi ati yaatau* = really, ahead, moved] = c
 
 On taking up the southern direction, and on crossing over that highly horrendous and thick of the forest,
 both those spryly energetic brothers moved ahead, speedily. [3-69-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -284,8 +274,6 @@ between the tips of a person's thumb and little finger]= 9 in; 4 *vitasta-s* = 1
 *krosa-s* = 1 *yojana* = 9 miles, nearly 15 km; and this being so, the British
 revenue measured a *yojana* as a 5 mile distance and Chambers and Oxfords has this 5 mile
 figure in their dictionaries, while traditionally a yojana is said as a distance of 10 miles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -358,8 +346,6 @@ intently explored that forest temporising there and there. That forest is evocat
 many a black-cloud, and it embodies numerous flowers on many a flowered tree, numerous flights of birds
 flitting over them, and numerous animals sprawling under them, and with them that forest is as though
 highly rejoiced everywhere. [3-69-6, 7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -464,8 +450,6 @@ and Matanga hermitage, which is overspread with various thicketed and impassable
 by numerous gigantic predators and vulturine birds, and on scrutinising such a forest everywhere, there
 they saw a cave in a mountain, which is abyssal, equal to infernal region, and ever enshrouded by gloom.
 [3-69-8. 9, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -515,8 +499,6 @@ with massive, in shape; *vi kR^ita aananaam* = anti, made, faced [misshapen face
 
 On getting at that cave those manly-tigers have seen a demoness nearby that cave, who is massive in
 shape and misshapen in her face. [3-69-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -589,8 +571,6 @@ Both the brothers, Rama and Lakshmana, have seen a demoness there, who is an ind
 dunderheaded dullards, traumatic in her acts and truculent in her appearance, pot-bellied, pierce-fanged,
 overblown, pachydermatous, head hair shaggy, body shape lumpy-bumpy, and she is going on eating massive
 beasts. [3-69-12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -637,8 +617,6 @@ agrataH vrajantam* = [elder] brother, ahead of, who is going; *lakshmaNam* = ont
 
 Drawing nigh of those valorous brothers who are journeying on their way, that demoness actually clung
 onto Lakshmana who is going ahead of his elder brother, saying, "come... let's romance..." [3-69-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -716,8 +694,6 @@ Closeting Soumitri in her embrace she told him this sentence, "I am Ayomukhi, by
 me by your heroic personality, by that way, none can win me over... thus, you alone are my lover...
 oh, hero, oh, my husband... you will romance with me on mountaintops, in rivers, and on sandy isles,
 till the end of this life..." So is the love prattle of that demoness Ayomukhi. [3-69-15, 16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -767,8 +743,6 @@ _________________
 
 When said that way that enemy-suppressor Lakshmana became furious, and upraising his sword he sheared
 off her nose, one ear, and one of her breasts. [3-69-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -815,8 +789,6 @@ ran back [rushed off.]
 
 When her nose and ear are cut off that demoness of hideous mien yelled highly in a high voice, and she
 rushed off as she had rushed in at Lakshmana. [3-69-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -864,8 +836,6 @@ forest, arrived in - entered into.
 When she fled those two brothers who are the eliminators of the friends of their enemies, have travelled
 further into the forest and entered a dense area of that forest, with their spiritedness as their guiding
 force. [3-69-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -917,8 +887,6 @@ palm-fold [prayfully]; *diipta tejasam* = [one with am- radiantly fulgorous [ani
 Though Lakshmana is the one with preparedness, properness, and pureness and thus a highly fulgent one
 by his persona, he prayfully said this sentence to his brother Rama whose anima is radiantly fulgorous.
 [3-69-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -970,8 +938,6 @@ iva* = my, heart, distraught, as though; *praayashaH ca api* = manifoldly, also,
 
 "My left arm is strongly shuddering and my heart is as though distraught... and even undesirable forebodings
 are also bidding fair... [3-69-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -987,8 +953,6 @@ mind my words; *nimittaani* = forebodings; *sadyaH* = immediately ensuing; *samb
 
 "Oh, exalted brother, thereby you be at the ready by paying attention to my expedient words... these
 forebodings are indeed portending to me as if some hazard is immediately ensuing... [3-69-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1035,8 +999,6 @@ ululating.
 
 "This eerily dreadful bird known to be Vanjulaka is loudly ululating as though presaging our triumph
 in any given conflict that may ensue..." So said Lakshmana to Rama. [3-69-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1083,8 +1045,6 @@ forest; *ojasaa* = steadfastly; *anveSatoH* = when they are searching [for Seeth
 
 When those two brothers are searching entire forest for Seetha in that way, they heard a boisterous
 brouhaha emanated as though to completely shatter down that forest. [3-69-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1134,8 +1094,6 @@ filling up that forest.
 
 As though an unbearable windstorm muffles up the sky, that forest's cacophony appeared to be unbearably
 filling up that forest. [3-69-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1183,8 +1141,6 @@ bodied one; *raakSasam* = demon; *vipula urasam* = gigantesque, chested onel dad
 
 But desiring to know the source of that noise that sword-wielder Rama has seen a gigantically giant-bodied
 and gigantesque-chested demon in a section of brushwood along with his younger brother Lakshmana. [3-69-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1232,8 +1188,6 @@ mukham* = in paunch, who has mouth; *kabandham* = at Kabandha; *aasedatuH* = rea
 
 Then they both had to drew nigh of a waylaying demon Kabandha, who is situated frontally with an overgrown
 body, which is neckless, ergo headless, ergo mouth in paunch. [3-69-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1283,8 +1237,6 @@ heart [that which is contained in the heart of a cloud, namely the thunder, such
 
 That diabolical demon is peaking like a huge mountain, his hair is horripilate and thickset, and his
 gleam is like a dark cloud, and his sounding is like a thunder. [3-69-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1350,8 +1302,6 @@ on his chest. That single eye with incisive and sharp-sight is broad beaming and
 there are winglike eyelids. That monster is now licking his giant mouth that is stuffed with spearhead
 like fangs, as he has just finished a gobble, and the brothers had to drew nigh of such a demon. [3-69-29,
 30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1408,8 +1358,6 @@ a demon.
 He is eating the highly brutal bears, lions, predators, and elephants, and he is outstretching both
 of his deadly arms, each of which is stretchable to a yojana distance, and the bothers neared such a
 demon. [3-69-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1430,8 +1378,6 @@ That demon stayed waylaying the pathway of both the brothers who chanced there, 
 bears, divers flights of birds, and numerous choicest animals of those and those herds, gripping them
 with both of his long-reaching hands and hauling towards his mouth at his paunch, or dropping them off
 if they are unpalatable, and the brothers reached nearby of such a demon. [3-69-32, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1498,8 +1444,6 @@ Earlier it is said that they saw Kabandha in brushwood and now they are seeing h
 of 2 1/4 miles away from them. Their seeing him is continuous and thereby the height of Kabandha is
 established and he can be seen from a distance, as with a hillock. Their pathway is this only and it
 is waylaid by this demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1554,8 +1498,6 @@ his closed fists together, in which they are wrung, so that he can examine them 
 eye. This also gave a chance for the conversation between the brothers. Otherwise, if one arm goes one
 way and the other in another way, there will be a gap of 2 yojana-s, as each arm can stretch to a yojana
 distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1601,8 +1543,6 @@ ones; *bhraatarau* = both brothers; *kR^iSyamaaNau* = while dragged; *vi vasham*
 Though they are the grapplers with swords and brandishers of unerring bows, and though outblazing is
 their pneuma and outstanding is their dexterity, both of those great mighty brothers lost control and
 had to yield themselves to that demon when he captured and dragged them. [3-69-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1667,8 +1607,6 @@ over Jataayu in self-sacrifice for the sake of brotherhood. And the boyish callo
 Lakshmana has not recollected for a while, as to how they have handled Viradha, in the opening chapters
 of this canto. His overalled thinking is that his brother should be safe, at the cost of his own self,
 if that comes to that.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1717,8 +1655,6 @@ leave me to get yourself released.]
 "Oh, valiant brother, see me, who am out of control on my inner-self, and gone into the control of the
 demon... oh, Raghava, you leave me and get yourself released from the grip of the demon... [3-69-38b,
 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1768,8 +1704,6 @@ offering, indeed; *yathaa sukham* = as per, your pleasure; *palaayasva* = seek s
 
 "Indeed offer me as an offering to this quiddity, and you seek safety at your pleasure... and you will
 reach Vaidehi shortly... this is my belief... [3-69-39b, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1819,8 +1753,6 @@ reach Vaidehi shortly... this is my belief... [3-69-39b, 40a]
 
 "Oh, Kakutstha, on regaining the kingdom of our father and forefathers, and when enthroned, oh, Rama,
 it will be apt of you to reminisce me always..." So said Lakshmana to Rama. [3-69-40b, 41a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1868,8 +1800,6 @@ maa sma* = fretful, let not, you be - don't fear; *tvaa dR^ik* = your, sort [of 
 
 But when Lakshmana said that way, Rama said to Soumitri, "Fret not thyself, futilely... oh, brave one,
 your king of persons will not get dismayed, futilely... [3-69-41b, 42a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1919,8 +1849,6 @@ _________________
 
 In the meantime, that ruthless, log-armed, fiercest demon Kabandha thunderously asked those brothers,
 Rama and Lakshmana. [3-69-42b, 43a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -1981,8 +1909,6 @@ broad swords, how have you come about this province? For god's sake, I come acro
 
 The last compound has different compositions in different mms. It is taken here, as 'dainty morsel'
 as the 'eyes' is ill fitting in the compound, as this demon has only one eye.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1998,8 +1924,6 @@ may be said; *yuvaam kim artham aagatau* = you, for what, reason, arrived; *kSud
 
 "What business you have here, and for which reason you have come here... you chanced for me who am sitting
 here and painfully ravenous... [3-69-44b, 45a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -2054,8 +1978,6 @@ my; *upa sam praaptau* = to nigh, well, on reaching; *vaam jiivitam* = to you, l
 "Though you are with arrows, bows and swords, and though you are like bulls with sharp horns ready to
 gore... but they are all a waste, as your life has readily become ungainful on reaching nigh of my sight
 and arms..." So said Kabandha, in his arrogant tone. [3-69-45b, 46a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -2108,8 +2030,6 @@ a drying, face; *lakSmaNam uvaaca* = to Lakshmana, said [this.]
 
 On hearing that sentence of that vile-souled Kabandha, Rama said this to Lakshmana with a wilted face.
 [3-69-46b, 47a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2127,8 +2047,6 @@ On hearing that sentence of that vile-souled Kabandha, Rama said this to Lakshma
 after a catastrophe...namely, the expiration at the hands of this demon presently, and the expropriation
 of Seetha previously, and the expulsion from kingship, still previously... nonetheless, without coming
 across that ladylove, this disastrous despair of ending our lives is coming about... [3-69-47b, 48a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -2176,8 +2094,6 @@ maam ca* = myself, also; *pashya* = see [at ourselves.
 "Oh, Lakshmana, the efficacy of Time is preponderant and proportional among all beings... oh, manly-tiger,
 why generalisation... see, as to how yourself and even myself are entangled in the tangles of life,
 even though we assert ourselves to be brave and best... [3-69-48b, 49a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -2228,8 +2144,6 @@ The use of word God for Time is to say that time is a created phenomenon, and to
 time and nature as said *na vR^iksha kaalaa prakR^itbhiH yasmaat
 prapancam parivartae ayam...*shvetaashvatara
 upanishat 6-6.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 </details>
 
@@ -2277,8 +2191,6 @@ readied himself.]
 Rama being the son of Dasharatha is an indomitable one, besides, a firmly and factually valorous one,
 by which he earned a great renown, and he on telling thus, and on looking over that recalcitrantly vengeful
 Soumitri, then Rama readied himself by his own steadied thinking. [3-69-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

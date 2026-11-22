@@ -18,8 +18,6 @@ his mind to set fire to the city of Lanka which is the only work let for him to 
 entire city, barring the abode of Vibhishana. All the demons were frightened o seeing the blazing fire,
 consuming their city with its trees, houses and a host of living beings. Surprised to see the city burning,
 the celestials and musicians (Gandharvas) gain a great delight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ achintayat* = thought; *kaarya sheSam* = about the remaining act to be done; *va
 
 Then, after fulfilling his heart's wish, Hanuma, looking over Lanka, thought about the
 remaining act to be done, with an augmented energy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ indeed; *avashiSTam* = remaining; *iha* = here; *me* = for me; *yat* = that;
 
 "Which act indeed is remaing nowto be done by me here, that may further create anguish
 to these demons?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ to these demons?"
 
 "I have demolished the garden. I have killed excellent demons. I destroyed a portion
 of the army. The demolition of the fort is still remaining."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ of the army. The demolition of the fort is still remaining."
 
 "When the fort gets destroyed, the task (of Rama's battle) will be devoid of fatigue.
 Even with a small effort in this task, the work will become fruitful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -263,8 +253,6 @@ with these; *gR^ihottamaH* = excellent houses.
 
 "It is justified to satisfy this blazing flame on my tail, by feeding it to the full,
 with these excellent houses (in the city of Lanka)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -310,8 +298,6 @@ with these excellent houses (in the city of Lanka)."
 
 Then, Hanuma, with his burning tail, strolled over the house-tops of Lanka, like a cloud
 charged with lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -352,8 +338,6 @@ charged with lightning.
 
 Surveying the gardens and lofty palatial mansions, that Hanuma, without fear, passed
 from one house to another, of the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -422,8 +406,6 @@ equal to wind, scattering fire on it, jumped over from there, to another house b
 Hanuma, with great swiftness, having strength equal to wind, scattering fire on it, jumped over from
 there, to another house belonging to Mahaparsva. Hanuma scattered a fire there resembling a flame of
 fire that is to destroy the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -490,8 +472,6 @@ Sarana.
 
 That Hanuma, of great splendour, then leapt to the houses of Vajradamshtra, Shuka and
 Sarana, the intelligent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -575,8 +555,6 @@ Leaving the house of Vibhishana, Hanuma of great splendour, went successively to
 houses of Rashmiketu, Surya shatru, Hrasvakarna, Damshtra, Romasha the demon, Yuddhonmatta, Matta, Dhvajagreeva
 the demon, the terrific Vidyujjihva, Hastimukha, Karala, Pishacha, Shonitaaksha, Kumbhakarna, Makaraksha,
 Yajnashatru, Brahmashatru, Narantaka, Kumbha as also the evil-minded Nikumbha and burnt the houses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -618,8 +596,6 @@ _________________
 **अनुवादः**
 
 That Hanuma of great fame burnt away wealth in the mansions of the rich.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -660,8 +636,6 @@ the king of demons.
 
 Having passed over all the houses, the mighty and glorious Hanuma thereafter approached
 the house of Ravana the king of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -723,8 +697,6 @@ Meru and Mandara; *sarvamaNgaLa shobhite* = and embellished with all good work; 
 Thereafter, scattering a blazing fire located at the tip of his tail, on that principal
 house, decorated with various kinds of precious stones, resembling Mounts Meru and Mandara as also embellished
 with all good work, the valiant Hanuma roared like a cloud thundering at noon-time in a rainy season.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -774,8 +746,6 @@ destroy the world.
 
 In contact with the wind, the fire escalated with a great speed and intensity, blazing
 like a fire that is to destroy the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -834,8 +804,6 @@ _________________
 
 The wind carried the blazing fire to other houses. In conjunction with the wind, the
 fire became very swift.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -855,8 +823,6 @@ jaalaani* = with golden windows; *muktaamaNimayaani cha* = embedded with pearls;
 
 Those large houses, with golden windows, embedded with pearls, gems and precious jewels
 were shattered to pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -909,8 +875,6 @@ energy and abundant wealth.
 The demons, who were running hither and thither to protect their houses and who lost
 their spirits and abundant wealth, created a tumultuous nose, saying "Alas! The fire-god has come really
 in a form of this monkey!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -985,8 +949,6 @@ soudaaminyaH iva* = like lightning's; *patantyaH* = falling; *abhrebhyaH* = from
 Some women crying and carrying their suckling's with their hair dishevelled, fell down
 from their houses, which were enveloped with fire, and shone like flashes of lightning falling from
 clouds in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1036,8 +998,6 @@ from every marvellous house.
 
 That Hanuma saw molten metals mixed with diamonds, corals, cat's eye-gems, pearls and
 silver, surging from every marvellous house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1097,8 +1057,6 @@ kimchit* = even a little; *vadhe* = in killing; *raakSasendraaNaam* = of demons;
 As the fire does not get satisfied with any amount of firewood and straw fed to it, Hanuma
 was not wearied in killing any number of demons. The earth was not then wearied in receiving the number
 of demons killed by Hanuma (in her lap).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1120,8 +1078,6 @@ of demons killed by Hanuma (in her lap).
 
 Flames of fire glittered like Kimshuka flowers at some places, blossoms of Shalmali tree
 at some places and like saffron-flowers at some other places.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1164,8 +1120,6 @@ Rudra.
 
 The high souled Hanuma, the swift monkey scorched the city of Lanka, as Rudra scorched
 the city of Tripura.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1222,8 +1176,6 @@ to the summit of the mountain on which the city of Lanka was situated.
 
 Then, the fire having a terrific prowess, diffused by the swift Hanuma, stretching out
 a circle of flames, blazed and rose up to the summit of the mountain on which the city of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1281,8 +1233,6 @@ like a ghee.
 That fire diffused on those buildings, together with the wind picked up a speed equal
 to that of a fire at the time of dissolution of the world. It grew taller, touching the sky with a smokeless
 splendour. Those flames of fire shot up, as inflamed by ghee
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1374,8 +1324,6 @@ _________________
 The fire with a fierce splendour there, extended fully to the sky, shooting flames like
 Kumshuka flowers. The clouds, bearing the colour of blue lotuses, shone as covered by smoke formed out
 of the extinguished fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1458,8 +1406,6 @@ surrounding; *samastaan laN^kaam* = the entire Lanka; *sutejaaH* = with a good s
 The great fire persisted, surrounding the entire Lanka, having a good splendour equal
 to that of millions of suns and blazed like a broken-up hemi-sphere of the world, creating many sounds
 of a wide-spread thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1478,8 +1424,6 @@ eye of Lord Shiva; *arkaH* = or the sun-god; *dhanadashcha* = or Kubera the lord
 "He is not a monkey. He is either Indra the Lord of celestials wielding a thunderbolt,
 or Yama the lord of death of water, or the wind-god or the fire seated in the third eye of Lord Shiva
 or the sun-god or Kubera the lord of riches or the moon-god. He may be Kala (the Time-spirit) himself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1503,8 +1447,6 @@ extra ordinary power?
 "Or whether a supreme bright energy of Vishnu, the lord of maintenance of the Universe,
 unthinkable, unmanifest, infinite and pearless, arrived now, assuming the form of a monkey for the destruction
 of demons, by virtue of Her extraordinary power?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1522,8 +1464,6 @@ also trees.
 
 Thus spoke all those excellent troops of demons in multitude, gathering together there,
 on seeing that city scorched so soon, with its host of living beings, houses and trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1573,8 +1513,6 @@ rage of four-faced Brahama; *sarva pitaamahasya* = the grand father of all; *sar
 
 "Whether the rage of four-faced Brahma, the grand father of all and the creator of all
 has arrived here in the guise of a monkey, playing the role of a destroyer of demons?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1591,8 +1529,6 @@ samR^igaa* = animals; *savR^ikSaa* = and trees; *ruroda* = cried; *diinaa*
 
 Then, Lanka having been scorched with its demons, horses, chariots, elephants, multitude
 of birds, animals and trees, cried pitiably with tumultuous noise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1653,8 +1589,6 @@ with enjoyments.
 Making a very terrific noise with a dreadful sound, the demons cried in various ways
 as follows: "O my dear beloved son! O my beloved husband! O my friend! O my very auspicious life, filled
 with enjoyments!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1712,8 +1646,6 @@ _________________
 
 That Lanka appeared as though afflicted by a curse, as defeated by a strong fury of Hanuma,
 enveloped by flames of fire, with its distinguished heroes killed and with its warriors in retreat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1772,8 +1704,6 @@ by the fury of Brahama; the creator of the universe.
 
 Hanuma, with his great mind, saw Lanka with its dazed, frightened and dejected demons,
 marked by blazing flames of fire and afflicted by the fury of Brahma the creator of the universe.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1826,8 +1756,6 @@ purrim* = that city; *gR^iharatnamaaliniim* = endowed with a series of excellent
 After demolishing the garden which was full of excellent trees, killing great demons
 in battle and burning that city endowed with a series of excellent houses, Hanuma the monkey and the
 son of wind-god, stood at ease.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1879,8 +1807,6 @@ by his blazing tail; *vyaraajata* = shone; *aadityaH iva* = like the sun; *amshu
 Standing there on the wonderful flat summit of Mount Trikuta, Hanuma the foremost leader
 of the monkeys, having a garland of flames formed by his blazing tail, shone like the sun having a garland
 of rays.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -1939,8 +1865,6 @@ _________________
 
 Killing those multitudes of demons, demolishing that garden endowed with several trees
 and scattering fire on the houses of demons, the high-souled Hanuma sought Rama with his mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -2000,8 +1924,6 @@ viira mukhyam* = the principal; warrior of the monkeys; *mahaabalam* = possessin
 Then, all the multitude of celestials enlogised that Hanuma, the principal warrior of
 the monkeys, possessing great strength and swiftness similar to the wind, greatly intelligent and the
 most excellent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -2047,8 +1969,6 @@ splendoured; *mahaakapiH* = Hanuma; *raraaja* = shone; *dagdhvaa* = after burnin
 
 Demolishing the garden, killing the demons in battle, Hanuma of great splendour shone
 brightly, after burning the beautiful City of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -2104,8 +2024,6 @@ _________________
 
 Seeing that city of Lanka burnt there, celestials, saints and great sages along with
 celestial's musicians, got a colossal surprise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -2149,8 +2067,6 @@ _________________
 
 Seeing that Hanuma, the foremost among the monkeys and a mighty monkey, all the created
 beings were frightened, thinking of him as a fire that is to destroy the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 
@@ -2200,8 +2116,6 @@ the spirits; *sarvaani* = all; *mahaanti bhuutaani* = great living beings; *jagm
 
 There, all the celestial musicians, Vidyadharas the supernatural beings, Nagas the celestial
 serpents, Yakshas the spirits and all great living beings attained a great joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 </details>
 

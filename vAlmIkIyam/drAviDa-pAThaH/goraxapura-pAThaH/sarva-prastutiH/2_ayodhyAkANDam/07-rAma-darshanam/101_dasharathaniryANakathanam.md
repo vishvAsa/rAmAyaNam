@@ -21,8 +21,6 @@ take over the kingdom, endowed to him as per succession. Rama says that since ki
 allotted two different duties to the two of them one enjoining the exile of his elder brother being
 binding on him and the other bequeathing the kingdom to Bharata, they must be implicitly obeyed by
 both of them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ who was devoted to his elders.
 
 Rama along with Lakshmana, his younger brother, began to question Bharata, his
 brother who was devoted to elders (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ an antelope-skin.
 
 "I desire to hear from you, why you have come tot his place in robes of bark and an
 antelope-skin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -146,8 +140,6 @@ clad in deer-skin and matted hair; *hitvaa* = leaving; *raajyam* = the kingdom.
 
 "You ought to tell me all about the purpose for which you entered this place, clad
 in deer-skin and matted hair, relinquishing the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -194,8 +186,6 @@ joined palms; *abraviit* = spoke; *vaakyam* = (the following) words:
 
 Thus questioned by the high souled Rama, by closely embracing him again, Bharata
 with joined palms answered as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -244,8 +234,6 @@ shokaabhipiiDitaH* = with grief caused by separation from him son.
 "O, noble brother! Our father the mighty armed, after performing a deed must
 difficult to perform, and having abandoned us has gone the divine region; he died of grief on
 account of separation from his son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -293,8 +281,6 @@ reputation.
 
 "O, tormented of foes! As urged by his wife and my mother Kaikeyi;, our father
 committed this great sin that has taken away his own reputation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -345,8 +331,6 @@ hell.
 
 "Without having plucked the fruit of kingdom, widowed and emaciated with grief my
 mother will fall into the most terrific hell."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -393,8 +377,6 @@ such; *abhiSiN^chasva* = and get anointed; *raajyena* = in the kingdom;
 
 "Grant me, who am your true servant, a favour! This very day, as Indra the Lord of
 celestials himself, receive the royal anointing!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -441,8 +423,6 @@ have reached; *tvat sakaasham* = your proximity; *arhasi* = you ought;
 
 "Grant all these people and these widowed Queens, who have come here to see you,
 this felicity!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -494,8 +474,6 @@ per succession; *dharmeNa* = and as per your right; *kuru* = and fulfill;
 "O, Prince! For that reason, accept the throne that is befitting; endowed to you as
 per succession and that is yours by right fulfill, as your should, the desires of your
 friends."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -542,8 +520,6 @@ friends."
 
 "Bring the widowhood of the entire world to an end by becoming her Lord, as does the
 immaculate moon to the autumn-night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -596,8 +572,6 @@ slave.
 
 "Grant this grace to your brother, who prostrates at your feet along with your
 ministers is both your discipline and your slave."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -644,8 +618,6 @@ unbroken kingdom; *shaashvatam* = which is eternal; *pitryam* = ancestral;
 
 "O, Tiger among men! You cannot disregard this unbroken kingdom, which is eternal,
 ancestral and honoured."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -695,8 +667,6 @@ the mighty armed; *kaikeyiisutaH* = Bharata; *sa baaSpaH* = with tears;
 
 Thus speaking, the mighty armed Bharata, with tears, once again seized Rama's feet
 in great honour, as per precept.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -746,8 +716,6 @@ _________________
 
 Rama embraced his brother Bharata, who sighed again and again like an elephant in
 rut, and spoke as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -795,8 +763,6 @@ mere kingdom?
 
 "How should a man of noble birth, rich in Sattva (goodness), dignified and who has
 observed sacred vows like myself, commit sin for the sake of a mere kingdom?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -843,8 +809,6 @@ abuse; *jananiim* = your mother; *baalyaat* = for a childish action.
 
 "O, Bharata the annihilator of enemies! I do not see the slightest fault in you and
 you should not reproach your mother for a childish action."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -892,8 +856,6 @@ aha* = and progeny.
 
 "O, Bharata the highly intelligent and the faultless man! It is incumbent always on
 the part of the elders to act freely with reference to their wives and progeny."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -941,8 +903,6 @@ know; (that); *vayam* = we; *bhaaryaaH* = the women; *putraashcha* = children;
 
 "O, gentle brother! Since it was said thus by virtuous men in this world, we should
 all, women children and disciples, obey our Lord; this must be known to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -984,8 +944,6 @@ skin; *raajye vaapi* = or to sit on the throne; *saumya* = O gentle brother!.
 "The great king is the master, who has a discretion either to make me reside in the
 forest, wearing bark robes and a black antelope skin or to sit on the throne, O gentle
 brother!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -1033,8 +991,6 @@ world.
 
 "O, excellent among the supporters of law and the virtuous! The same degree of
 respect is to be paid to our mother, as is due to our father, who is honoured by all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -1081,8 +1037,6 @@ iti* = to go to the forest.
 
 "How can I do otherwise, while both my parents of virtuous nature ask me to go to
 the forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -1129,8 +1083,6 @@ occupied; *mayaa* = by me; *valkalavaasasaa* = wearing bark robes.
 
 "It is for you to occupy the throne in Ayodhya that the world reveres and it is for
 me to occupy this Dandaka forest, wearing bark robes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -1182,8 +1134,6 @@ manner; *loka sannidhau* = in the presence of the people; *gataH* = and scended;
 "Having commanded thus, the emperor Dasaratha with a great splendour, made the
 division of duties in this manner (for us two) in the presence of the people and then ascended to
 heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -1231,8 +1181,6 @@ given; *pitraa* = by our father.
 
 "That pious souled king, the preceptor of the world is the standard authority for
 you and you have to enjoy the share given by our father accordingly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 
@@ -1279,8 +1227,6 @@ you and you have to enjoy the share given by our father accordingly."
 
 "I, for my part, shall enjoy the share given to me by our high-souled father for
 fourteen years, taking my abode in Dandaka forest, O gentle brother!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>
 </details>
 

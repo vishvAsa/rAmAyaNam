@@ -16,8 +16,6 @@ II : Ayodhya Kanda - Book Of Ayodhya**
 
 Establishing the greatness of Rama, Sumitra of gracious speech, assuages Kausalya's
 grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ wailing; *tathaa* = thus; *pramadottamaam* = and who was best among women.
 Sumitra, who was devoted to righteousness spoke the following words, which were
 virtuous, to the celebrated Kausalya, the foremost among women, who had been wailing as
 aforesaid
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ or weeping ; *kR^ipaNam* = piteously?"
 
 "That son of yours, oh the venerable one, is endowed with excellent virtues and is
 the foremost among men. What is the use in your lamenting in this way or in weeping piteously?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -185,8 +179,6 @@ kadaachana* = never; *shochya* = deserves to be lamented. "
 father perfectly truthful by renouncing his throne. He stood firmly in righteousness, which is
 always practiced perfectly by disciples and which gives fruits even after death. That Rama, the
 most excellent man, never deserves to be lamented."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -234,8 +226,6 @@ most excellent man, never deserves to be lamented."
 
 "Lakshmana, the faultless man and the compassionate man towards all beings, always
 renders the best form of service to Rama. His conduct is beneficial to the high-soled Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -282,8 +272,6 @@ whatever; *anugachchhati* = is accompanying; *tava* = your; *aatmajam* = son;
 
 Sita, who was habituated to comforts, even after knowing the pain whatsoever, is
 accompanying your virtuous- soled son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -332,8 +320,6 @@ praptaH* = has not been secured(by him)?"
 "What has not been secured by your capable son, who is rich in virtue and is
 engrossed in the vow of truthfulness, and the banner of whose fame flutters though out the
 world?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -381,8 +367,6 @@ his rays."
 
 "Having known the purity and magnanimity of Rama , the sun assuredly will not be
 able to torment Rama's body with his rays."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -429,8 +413,6 @@ at all times; *sevishhyati* = will render service; *raaghavam* = to Rama."
 
 "Auspicious and delightful breeze of moderate heat and cold, blowing from woods at
 all times , will render service to Rama"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -480,8 +462,6 @@ at night; *abhiparishhvajan* = and embracing him ; *piteva* = like his father;
 
 "Gently touching with its cool rays when he is reposing at night and embracing him
 like a father, the moon will refresh Rama"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -554,8 +534,6 @@ even when living in the forest; *veshmamiiva* = as his own palace."
 Brahma being delighted , gave celestial weapons to Rama, the man with great splendor. Rama the hero
 and the tiger among men, relying on the strength of his own arms, will dwell fearlessly in the
 forest as if in his own palace"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -603,8 +581,6 @@ be stable?"
 
 "How can earth cannot be under the command of Rama, to whose aim of arrows, the
 enemies fall an easy prey?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -653,8 +629,6 @@ vaasaH* = after completion of his exile in the forest."
 "The splendor endowed with Rama, the valor that is in him and the beneficent
 strength that resides in him lead one to believe that when he completes the term of his exile in
 the forest, he will speedily regain his kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -719,8 +693,6 @@ or; *pure* = in Ayodhya?"
 rules, the splendor of splendor, the foremost glory of glory, the forbearance of forbearance, the
 god of gods and the foremost being of all the beings. Indeed, what handicaps are there for him in
 the forest or in Ayodhya?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -772,8 +744,6 @@ Fortune another consort oh Vishnu)"
 "Rama the best among men will be installed on the throne soon along with the Mother
 Earth (the consort of lord Vishnu), Sita the princess of Videha kingdom and Lakshmi ( the goddess
 of fortune another consort of Vishnu)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -832,8 +802,6 @@ Rama; *kimnaama* = which; *durlabham* = is difficult to obtain?"
 of grief shed tears born of agony. The goddess of fortune as Sita followed the invincible hero even
 as he departed for the forest, clad in a garment of the sacred Kusa grass. Indeed, what can be
 difficult for him to obtain?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -875,8 +843,6 @@ obtain?"
 
 "What can be difficult to obtain for, to whose front indeed walks Lakshmana himself
 the best among the holders of bow wielding arrows, sword and missiles?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -918,8 +884,6 @@ vanavaasam* = having completed the period of dwelling in the forest. jahi = aban
 
 "Oh, Kausalya! I tell you the truth : you can see Rama coming back, on having
 completed the term of his exile in the forest . Abandon grief and infatuation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -967,8 +931,6 @@ head."
 
 "Oh, auspicious Kausalya, the irreproachable one! You will be able to see your son,
 like the rising moon, saluting respectfully your feet, by bowing his head."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1016,8 +978,6 @@ like the rising moon, saluting respectfully your feet, by bowing his head."
 
 "Seeing Rama shining with great splendor appearing before you again, having been
 coroneted, you will be shedding soon tears of joy from your eyes "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1068,8 +1028,6 @@ see; *kshhipram* = soon; *putram* = your son; *sa siitam* = along with Sita;
 
 "Oh, Kausalya! Do not have uneasiness or grief. Rama has no ill luck. You will be
 able to see soon your son along with Sita, accompanied by Lakshmana".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1119,8 +1077,6 @@ you; *idaaniim* = now; *karoshhi* = you are promoting; *viklabam* = grief;
 
 "Oh, the faultless queen! While people are to be consoled by you at this moment, why
 are you fostering grief in your heart?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1168,8 +1124,6 @@ are you fostering grief in your heart?"
 
 "Oh,queen! You, whose son is Rama, ought not to grieve, for none is established in
 right path in the world than Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1217,8 +1171,6 @@ you will be shedding; *ashru* = tears; *mudaa* = with joy; *kshhipram* = soon;
 
 "Seeing your son saluting with his friends, you will at once begin to shed tears,
 like a line of clouds in a rainy season"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1265,8 +1217,6 @@ Ayodhya; *piidayishhyati* = will press; *charaNou* = your feet; *paaNibhyaam*
 
 "Your son the bestower of boons, will soon return to Ayodhya, and touch your feet
 with his gentle but muscular hands "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1317,8 +1267,6 @@ by a line of clouds."
 
 "When your son the hero along with his friends salute you respectfully in adoration,
 you will sprinkle tears of joy in the same way as a line of clouds pour rain on the mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1372,8 +1320,6 @@ you will sprinkle tears of joy in the same way as a line of clouds pour rain on 
 
 Sumitra the queen, skilled in her employment of words, who is faultless and
 charming, thus consoled Rama's mother with various words and finally stopped speaking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 </details>
 
@@ -1429,8 +1375,6 @@ body; *megha iva* = like a cloud; *alpatoyaH* = with a little water ;
 Hearing those words of Sumitra the mother of Lakshmana, the agony of Kausalya Rama's
 mother and the wife of Dasaratha quickly disappeared in the same way as an autumnal cloud with a
 little water in it disappears quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga44/ayodhyasans44.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

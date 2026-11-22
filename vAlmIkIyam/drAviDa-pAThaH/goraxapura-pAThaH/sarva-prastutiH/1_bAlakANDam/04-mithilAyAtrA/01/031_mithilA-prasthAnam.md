@@ -18,8 +18,6 @@ also to see the auspicious bow of Shiva that is being worshipped in the palace o
 Janaka from ages. The other sages suggest to Rama, that he too may go over there
 along with them to see that marvellous bow. They all proceed from Siddha Ashram
 towards River SoNa, a tributary of Ganga, and camp on its bank for a night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ aatmanaa* = well, gladdened, in inner, souls - heart of hearts; *tatra*
 Rejoicing for achieving the result of their journey with Vishvamitra, the brave
 Rama and Lakshmana then resided in that hermitage for that night, gladdening in
 their heart of hearts. [1-31-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -127,8 +123,6 @@ to other, sages, also; *abhi jagmatuH* = towards, on going - approached.
 When that night turned into a new day, performing their morning chores both of the
 brother jointly approached Sage Vishvamitra, who is along with other sages by then.
 [1-31-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ uucatuH* = highly, courteous, sentence, they spoke.
 And those gentle-speakers on reverencing that eminent sage Vishvamitra, whose radiance
 is akin to the ritual-fire, they two spoke this highly courteous sentence to him.
 [1-31-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ we have to carry out.
 
 "Oh, tigerly-sage, here are your attendants sir, available in your attendance, what
 order is to be carried out further, oh, eminent saint, that you may order us. [1-31-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -281,8 +271,6 @@ _________________
 
 When they have said that way all those great sages spoke to Rama, keeping Vishvamitra
 at the helm of affairs. [1-31-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -329,8 +317,6 @@ Vedic-ritual; *bhaviSyati* = is going to take place; *vayam tatra yaasyaamahe*
 
 "Oh, best one among men, a highly righteous Vedic ritual belonging to King Janaka
 of Mithila is going to take place, and we the sages are going over there. [1-31-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -396,8 +382,6 @@ say the maxim *an aahuuto adhvaryam gacChet* 'even uninvited can attend a
 Vedic-ritual...' Thus the sages are tempting, rather than inviting Rama to come
 to Mithila in the name of a divine bow, seeing which any valiant prince would easily
 get excited to string.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -455,8 +439,6 @@ king of Mithila in a congregation of a Vedic-ritual. [1-31-8]
 This is the bow of Shiva with which He destroyed the ritual of Daksha. Then gods
 pleased Shiva and obtained this bow from Him. Then gods gave it to Devaraata, an
 earlier king of Mithila as a boon of Vedic-ritual.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -506,8 +488,6 @@ na* = gandharva-s, not; *asuraa* = asura-s, not; *na ca raakSasaaH*
 
 "Gods cannot capably lift it to string; gandharva-s, no; asura-s, no; demons, no;
 and for human beings, not in any way. [1-31-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -554,8 +534,6 @@ that, bow's; *viiryam jij~naasantaH* = power, inquisitive about; *[te sarve*
 
 "Though many kings were inquisitive about the power of that bow, all of those great
 mighty princes are rendered incapable to string its bowstring. [1-31-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -604,8 +582,6 @@ Mithila, if you come with us.
 "Oh, tigerly-man Rama, there in Mithila you can see that particular bow of the great-souled
 king of Mithila and his highly admirable Vedic ritual too, if you come with us.
 [1-31-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -664,8 +640,6 @@ janakaaya adbhutam dhanuH || kuurma puraaNa | | caapam shambhoH dayaat dattam -
 padma puraaNa '*Satisfying with the ritual of Devaraata of Janaka, the Trident
 holder and holder of venom in throat, namely god Shiva, gave the marvellous bow
 to eliminate enemies.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -719,8 +693,6 @@ true aloe [aloe vera,] its scents; *dhuupaiH ca* = with incenses, also;
 dhanur utsava-s, festivals of bows-and- arrows. Hence
 it is kept in the palace of King of Mithila, and oh, Raghava it is worshipped with
 a variety of sandalwood pastes, scents of aloe substance, and with incenses." [1-31-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -771,8 +743,6 @@ of sages, and even along with Rama and Lakshmana, whose tacit consent to follow
 the sage is obtained by now, and on bidding farewell to the deities of woodlands
 of that Accomplished Hermitage, where his ritual is accomplished with the help of
 Rama and Lakshmana. [1-31-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -823,8 +793,6 @@ of - mountains, ranges; *gamiSyaami* = I wish to go.
 the ritual I have undertaken here, I wish to go from this Accomplished Hermitage
 towards the ranges of Himalayan Mountains that are on the northern bank of River
 Ganga." [1-31-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -872,8 +840,6 @@ is ascesis; *uttaraam disham uddishya* = northern, side, intending to;
 Thus saying farewell to woodland-deities that descendent of Kaushika, namely Vishvamitra,
 the saint whose wealth is his ascesis started to journey on aiming to reach the
 northern side of River Ganga. [1-31-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -922,8 +888,6 @@ northern side of River Ganga. [1-31-16]
 While that best saint set forth, the team of his close followers who are the advocators
 of Vedic canons have moved behind him, approximately with a hundred carts loaded
 with their ritual paraphernalia. [1-31-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -984,8 +948,6 @@ This following of animals and birds is to suggest that while any guest proceedin
 from their place, it is the courtesy of the residents of that place or house, to
 see him off for a distance, unlike 'showing a person the door.' Here Vishvamitra
 is the guest at these woodlands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -1038,8 +1000,6 @@ kuule* = River Sona, on the bank of; *vaasam cakruH* = camp, they made.
 
 Those assemblages of sages on going far on their path made a camp on the bank of
 River Sona when the sun is dangling towards west. [1-31-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1058,8 +1018,6 @@ in fire; *having performed evening rituals; *vishvaamitram puraskR^itya*
 When the sun went into dusk those sages with illimitable resplendence took their
 bath and on kindling the consumer of kindled oblations they completed their evening
 fire ritual, and then squatted before sage Vishvamitra. [1-31-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -1108,8 +1066,6 @@ before; *niSasaada* = squatted.
 
 And even Rama along with Lakshmana on worshipping those sages squatted before that
 intellectual Vishvamitra. [1-31-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -1156,8 +1112,6 @@ sage; *muni shaarduulam* = sagely, tiger; *kautuuhala samanvitaH*
 
 With growing inquisitiveness that resplendent Rama has asked the tigerly sage Vishvamitra
 whose wealth is his ascesis. [1-31-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -1206,8 +1160,6 @@ arhasi* = in essence, to talk - to tell, apt of you.
 "Oh, godly sage, this place is glistening with well-developed woodlands, really
 what is this place? You be blest! It will be apt of you tell about it, in essence."
 Thus Rama asked Vishvamitra.[1-31-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 </details>
 
@@ -1258,8 +1210,6 @@ place's, all about; *kathayaamaasa* = started to tell.
 Sage Vishvamitra whose vows are unselfish and whose ascesis is exalted is motivated
 with the words of Rama and staying amidst the sages he started to tell all about
 that place. [1-31-24b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

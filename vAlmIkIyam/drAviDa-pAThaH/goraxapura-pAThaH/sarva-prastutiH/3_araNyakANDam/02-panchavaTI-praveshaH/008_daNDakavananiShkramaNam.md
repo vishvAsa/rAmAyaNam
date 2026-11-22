@@ -20,8 +20,6 @@ Sage Suteekshna explains concern about the forests, which are rich natural gifts
 abodes of hermits, and implicitly suggests to Rama, to somehow safeguard them from the demonic activities
 in this Dandaka Aranya, by whom these forests are rendered into graveyards, not even honourable graveyards,
 but stockyards for heaps of dead bodies, bones and skulls, for no faulty reason of the saints and sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ abudhyata* = in morning, again, got up [awoken.]
 
 Rama along with Soumitri is well revered by Sage Suteekhsna, spent that night there and awoken in the
 morning. [3-8-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ fragrance, water, having touched [took morning bath, and readied to go.]
 
 Rama got up according to time along with Seetha and touched finely cool water with lotus-fragrance for
 morning bath. [3-8-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -151,8 +145,6 @@ abruvan* = gently, this, sentence, spoke.
 Then they all, Vaidehi, Rama and Lakshmana, on worshipping sacred fire and deities dutifully in the
 shelter of the sages in that forest and on seeing the dawning sun, they are reft of their blemishes,
 and then they approached Sage Suteekshna speaking this sentence gently. [3-8-3, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -198,8 +190,6 @@ puujitaaH* = by you, venerable one, venerated; *aa pR^icChaamaH* = we come, to a
 
 "We stayed here happily, oh, god, venerated by a venerable one like you, and here we come to ask your
 permission as we wish to journey on, as the sages are hastening us... [3-8-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -245,8 +235,6 @@ sages, entire, hermitage, habitats; *draSTum* = to see; *tvaraamahe* = we make h
 
 "We make haste to see the habitats of hermitages in their entirety, and even wish to see the sages with
 meritorious selves living in Dandaka forest... [3-8-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -293,8 +281,6 @@ icChaamaH* = permission, we aspire.
 
 "We wish to have your permission, and that of these eminent sages, who are ever virtuous, self-controlled
 by their ascesis, and who look like the veritable tongues of sacred fire... [3-8-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -351,8 +337,6 @@ feet, venerated.
 "We wish to proceed before sun attains an intolerable glare, like an unworthy person of unworthy lineage
 attains wealth in an improper way with much glare..." saying so Rama with Seetha and Lakshmana venerated
 at the feet of that sage Suteekshna. [3-8-8, 9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -398,8 +382,6 @@ at the feet of that sage Suteekshna. [3-8-8, 9]
 
 That eminent sage lifted them that are touching his feet, embraced them tightly, and said this sentence
 in all his friendliness. [3-8-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -445,8 +427,6 @@ gacCha* = invulnerable, on way, you may go.
 
 "Proceed in an invulnerable way, Rama, along with Lakshmana, and with this Seetha while she follows
 you closely like a shadow... [3-8-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -493,8 +473,6 @@ see.
 
 "See the pleasant thresholds of the hermitages of the dwellers in the forests of Dandaka, oh! Valiant
 one, whose souls are consecrated just by their ascesis... [3-8-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -594,8 +572,6 @@ araNyaani* = pleasant, forests; *drakSyase*= you can see.
 peaceful bird flocks... tranquil waters with spreading clusters of bloomed lotuses and water-birds in
 the pools and lakes... eye-pleasing rapids from mountains and you can see pleasant forests loaded with
 the hearty screams of precooks... [3-8-13, 14, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -643,8 +619,6 @@ ca* = come, and go you may.
 
 "My dear Rama, you may go and Soumitri you too also may go... but come again towards this hermitage
 after seeing all of them... [3-8-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -692,8 +666,6 @@ started on.
 
 Thus said by the sage, Rama in his turn said to him, "so be it..." and having performed circumambulations
 around the sage he started to journey on. [3-8-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -739,8 +711,6 @@ around the sage he started to journey on. [3-8-17]
 
 Then the broad eyed Seetha gave auspicious quivers and bows to those brothers and then spotless swords
 too. [3-8-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ to go, exited.
 
 Both of those two Rama and Lakshmana tied their beautiful quivers well on their backs, and took the
 twangy bows and exited from that hermitage to go on their way. [3-8-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 </details>
 
@@ -841,8 +809,6 @@ Raghava-s; *anuj~naatau maharSiNaa* = permitted by, august sage; *dhR^ita chaapa
 
 Those two Raghava-s, the handsome princes, have swiftly set out when permitted by that august sage,
 wielding bows and swords, and along with Seetha. [3-8-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

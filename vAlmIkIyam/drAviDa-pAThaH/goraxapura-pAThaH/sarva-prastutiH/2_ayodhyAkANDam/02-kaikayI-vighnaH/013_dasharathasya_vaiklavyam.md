@@ -15,8 +15,6 @@ title_english = "013 Dasaratha s grief and anguish"
 
 In this chapter, Sage Valmiki describes the bitter agony of Dasaratha on hearing to
 the adamant Kaikeyi's words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -81,8 +79,6 @@ to such a situation. He was lying down on the floor, as king Yayati who fell dow
 exhausting his merit in the region of heaven. Kaikeyi who was a manifestation of worthlessness who
 accomplished her desire, who was fearlessly exhibiting her fearful form, asked for those boons
 again in a loud voice, to Dasaratha who was in such a bad mood situation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ boast satyavaadii = I speak truth; *dR^iDhavrataH* = I am persistent in promise;
 
 "Oh, king! You always boast yourself, saying "I speak truth. I am persisted in my
 promise." Now, why are you objecting to my boon?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ became angry; *vihvalanniva* = turned out delirious; *muhuurtam* = for a moment;
 
 After thus spoken to by Kaikeyi, Dasaratha became angry, turned out delirious for a
 moment and again spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -213,8 +205,6 @@ forest; *mayi mR^ite* = and when I die; *hanta* = alas!
 
 "Oh, the vulgar one! You, my enemy! You want to be happy after your desire is
 fulfilled when Rama the best among men leaves for the forest and when I die thereafter. Alas!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -255,8 +245,6 @@ bit perceived; *daivataiH* = by celestials; *svarge api* = in heaven also;
 
 "When celestials ask for me about Rama's well-being after I reach heaven, how can I
 indeed convince them that he is well obscuringly the actual fact?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -304,8 +292,6 @@ untruth.
 
 "If I tell without obscuring the fact that I sent Rama to exile desirous of showing
 kindness to Kaikeyi, nobody will believe me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -353,8 +339,6 @@ abandoned?
 
 "With much effort I, the childless begot the great and powerful Rama as my son. How
 can I abandon such Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -396,8 +380,6 @@ patraakshhaH* = who has eyes like lotus petals ; *vivasyate* = be exiled; *mayaa
 
 "How can I send away Rama who is valiant and knowledgeable, who has subdued anger,
 who has forbearance and who has eyes like lotus-petals".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -447,8 +429,6 @@ lotus; *diirghabahuum* = who is long-armed; *mahaabalam* = who is very strong;
 
 "How I can I send Rama, who is dark blue in colour like a blue lotus, who is
 long-armed , who is very strong and graceful, to Dandaka forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -489,8 +469,6 @@ see; *raamasya* = (such)Rama's ; *duHkham* = trouble ?
 
 "Rama is accustomed to comforts. He is not accustomed to difficulties. How can I
 imagine such sensible Rama in a troublesome situation?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -532,8 +510,6 @@ imagine such sensible Rama in a troublesome situation?"
 *sankramaNam bhavet* = if death occurs; *mama* = to me; *adya* = now;
 *tataH* = so that; *aduHkhaarhasya raamasya* to difficulties; *duHkham* =
 misery; *akR^itvaa* = is not created.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -590,8 +566,6 @@ uneaqualled; *akiirtiH* = ill-fame; *paraabhavashcha* = and humiliation;
 "Oh, cruel one! One with sinful thoughts! Oh, kaikeyi! why are you planning to do
 harm to Rama who is beloved to me and who is truly heroic? I shall certainly get unequalled ill
 fame and humiliation in this world".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -638,8 +612,6 @@ setting of; *suuryaH* = sun.
 
 While Dasaratha was thus lamenting with his disturbed mind, there was approach of
 night with setting of the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -686,8 +658,6 @@ night ; *triyaamaa* = at nine hours(three yamas) ; *navyabhaasata* = was not shi
 
 To Dasaratha, who was thus lamenting painfully, the night seemed to be dark even
 though it was adorned with charming circular moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -757,8 +727,6 @@ as afflicted with disease; *vinishshvasya* = sighed; *ushhNam* = hotly;
 
 The aged Dasaratha was lamenting painfully as though afflicted with a disease, with
 lot and hard breaths, having his eyes fixed on the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -806,8 +774,6 @@ lot and hard breaths, having his eyes fixed on the sky.
 
 "Otherwise, Oh, Night! Leave away quickly. I do not went to see Kaikeyi, who is
 shameless, cruel and for whose reason this great calamity occurred"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -854,8 +820,6 @@ spoke; *idam cha* = this word also; *Kaikeyiim* = to Kaikeyi
 
 The king spoke like this and beseeched kaikeyi with folded hands. He again spoke
 this word to Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -903,8 +867,6 @@ favour be done.
 
 "Oh, auspicious queen! I am a well conducted man. I am dejected and seeking refuse
 in you. I am an old man and especially a king. Be kind to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -946,8 +908,6 @@ hearted!
 
 "Oh, well-hipped one! I hope that whatever I told, has not merged in the sky. Oh!
 young woman, be kind to me . You are good-hearted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -994,8 +954,6 @@ raajyam* = my kingdom; *tvaddattam* = given by you; *avaapnuti* = obtain;
 
 "Oh, queen with dark outer corner of eyes be kind. You your self give my kingdom to
 Rama. Thus, you will obtain great fame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -1036,8 +994,6 @@ world; *guruuNaam* = to priests bharatasyacha = and to Bharata.
 
 "Oh, broad hipped, with beautiful face and eyes! do this. It will be pleasing to me,
 to Rama, to the world, to priests and to Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -1094,8 +1050,6 @@ king.
 Hearing the king, who was her pure-hearted husband and who was pitifully lamenting
 strangely with red eyes filled with tears, that bad tempered cruel woman did not follow his
 words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -1147,8 +1101,6 @@ fell down; *kshhitau* = on floor.
 
 Seeing his discontented wife talking unpleasantly about sending Rama to forest, that
 king was distressed, fainted again and fell down unconscious on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 </details>
 
@@ -1196,8 +1148,6 @@ awakening.
 While the distressed and self-respected king was sighing terribly in the way, that
 night came to an end. In the dawn, bards and singers started to awaken him. But the excellent king
 prevented them to do.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga13/ayodhyasans13.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

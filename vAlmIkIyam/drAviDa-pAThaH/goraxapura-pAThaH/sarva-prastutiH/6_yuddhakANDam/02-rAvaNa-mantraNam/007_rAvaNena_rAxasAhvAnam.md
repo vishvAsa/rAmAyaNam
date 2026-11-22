@@ -15,8 +15,6 @@ title_english = "007 The demons inspire Ravana"
 
 The demons inspire Ravana with confidence and eulogise his army's strength. They suggest
 that Indrajit alone is enough to kill the army of monkeys together with Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ _________________
 Hearing the words of Ravana, those demons who were strong, stupid and without moral conduct,
 all raising up their joined palms and spoke to Ravana the king of demons, without knowing the strengths
 of their enemy's side (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ and sharp-edged spears; *sumahat* = is very great; *kasmaat* = why; *bhavaan bha
 
 "Oh, king! Our army, equipped with iron bars, javelins, double-edged swords, darts and
 sharp-edged spears, is very great. Why are you getting worried?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -189,8 +183,6 @@ kR^itvaa* = having done; *sumahat* = a very great; *kadanam* = battle; *vashyaH*
 under the earth), the serpents there were defeated by you. Kubera (the bestower of riches) who resides
 on the peak of Mount Kailasa, surrounded by many yakshas (a class of demi-gods) surrendered to you after
 doing a great battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -241,8 +233,6 @@ with Lord Shiva (the Supreme Lord); *loka paalaH* = a guardian of the world; *ma
 "Oh, Lord! By your rage, Kubera who was boasting himself for his friendship with Lord
 Shiva (the Supreme Lord) and said to be a guardian of the world possessing great strength, was defeated
 by you in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -289,8 +279,6 @@ by you in battle."
 
 "Throwing down a group of Yakshas, after causing a flutter among them and taking them
 in prison, this aerial car (Pushpak) was procured by you from Mount Kailasa."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -337,8 +325,6 @@ fear from you; *icchataa* = and desiring; *sakhyam* = friendship.
 
 "Oh, the best of ogres! By Maya, the lord of demons, Mandodari his daughter was given
 to you in marriage, due to fear from you and duly desiring your friendship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -386,8 +372,6 @@ to you in marriage, due to fear from you and duly desiring your friendship."
 Oh, mighty armed! Madhu Kumbhinasa's (your sister's) husband, another ruler of demons,
 who was proud of his valour and who was difficult to be defeated, was taken into your subjugation, your
 having won a battle against him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -436,8 +420,6 @@ captivated; *vasham* = as your subject.
 "Oh, mighty armed! After moving down to rasatala (the penultimate subterranean region),
 the you conquered serpent-demons Vasukim Takshaka, Saukha and Jati were conquered by you and captivated
 as your subjects."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -501,8 +483,6 @@ them.
 battle for a year by you mighty demons who were beyond destruction, who were valiant and who obtained
 boons (for immortality) were defeated using your own strength in combat. Several fascinating tricks
 also were learnt from them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -550,8 +530,6 @@ chariots; cavalry; and infantry); *nirjitaaH* = were defeated; *te* = by you; *r
 
 "Oh, illustrious king! Varuna's sons, valiant strong and who were followed by an army
 having four limbs (viz. elephants, chariots, cavalry and infantry) were defeated by you in a battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -621,8 +599,6 @@ used a weapons), turbulent with a huge wave in the shape of noose of Kala (Time 
 in the form of Yama's servants and difficult to be conquered on account of mighty Jvara (Spirit presiding
 over fevers), and churning the sea in the form of Yama's forces, a great victory was obtained and death
 warded off by you. All the people there were delighted to see your good battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -669,8 +645,6 @@ equal to that of Devendra (Lord of celestials).
 
 "The earth was filled, like with big trees, with many warriors who were strong with a
 courage equal to that Devendra (Lord of celestials).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -718,8 +692,6 @@ courage equal to that Devendra (Lord of celestials).
 
 "Oh, King! Rama was not equal to them in combat, by their valour excellence and energy.
 Those warriors, who were difficult to be overcome in battle, were overpowered and killed by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -766,8 +738,6 @@ stay; *kim* = why; *shrameNa* = by exertion; *tava* = to you? Mahaaraaja = Oh;
 
 Oh, emperor! Why exertion to you? You remain here. Oh, emperor! This Indrajit alone can
 destroy the monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -817,8 +787,6 @@ Lord; shiva); *varaH* = a boon; *parama durlabhaH* = very rare to be obtained; *
 
 "Oh, emperor! After performing an excellent sacrifice to propitiate Mahesvara (the great
 lord shiva), a boon very rare to be obtained in the world, was acquired by him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -896,8 +864,6 @@ horses, infested with alligators in the form of (eleven) Rudras (gods of destruc
 having chariots horses and elephants for its volume of waters and the sandy elephants for its volume
 of waters and the sandy banks its infantry, Devendra (Lord of celestials) was captured by him and was
 impelled to come to Lanka (as a detenu).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -947,8 +913,6 @@ demons called Shambara and Vritra; *sarvadevanamaskR^itaH* = and who was adored 
 
 "Oh, king! Having been released by the orders of your grand father Brahma, Devendra who
 killed demons called Shambara and Vrita and who was adored by all celestials, went back to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -998,8 +962,6 @@ be brought; *kSayam* = to an end.
 
 "Oh, emperor! You send that Indrajit alone, so that the army of monkeys together with
 Rama will be brought to an end."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 </details>
 
@@ -1049,8 +1011,6 @@ _________________
 
 "Oh, king! This unbefitting danger has come froma a man who is ordinary. It is not to
 be kept by you in mind, you will kill Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga7/yuddhasans7.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

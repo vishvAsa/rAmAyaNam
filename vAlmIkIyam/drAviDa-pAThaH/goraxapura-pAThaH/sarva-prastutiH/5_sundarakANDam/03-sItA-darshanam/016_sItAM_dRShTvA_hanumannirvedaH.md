@@ -15,8 +15,6 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 Hanuma is grief stricken seeing the plight of Seetha, in that garden being surrounded by ogresses.
 He becomes firm in mind that She is indeed Seetha, based on Her auspicious bodily marks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ immersed in thought; *punaH* = again.
 
 The best among vanaras praising that Seetha who is fit to be praised, and also praising Sri Rama
 pleasing with His virtues, became immersed in thought again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ Seetha; *baaSpa paryaakulekSaNaH* = (and) became with eyes tormented with tears.
 
 That Hanuma the radiant one thinking for a moment, cried about Seetha and became with eyes tormented
 with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ difficult to withstand.
 
 "Respectable to Lakshmana, instructed by teachers, Seetha is also dear to teachers; if She is stricken
 with grief, destiny is indeed difficult to withstand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ lakSmaNasya ca* = and of sagacious Lakshmana; *devii* = Seetha; *na kSubhyate* =
 
 "Knowing the effort of Sri Rama and of sagacious Lakshmana, Seetha is not worried a lot, like Ganga
 in the rainy season."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -279,8 +269,6 @@ in the rainy season."
 
 "Sri Rama is suited to Seetha with Her well matched character, age and conduct; with well matched
 pedigree and characteristics this black-eyed Seetha is also suited to Him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -333,8 +321,6 @@ of new gold; *shriyam iva* = like the goddess Laksmi; *loka kaantaam* = delightf
 
 Seeing that Seetha with the radiance of new gold, like the goddess Laksmi, delightful to the world,
 Hanuma went by heart to Sri Rama spoke these words also.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -384,8 +370,6 @@ ca* = Kabanda also; *raavaNa pratimaH* = equalling to Ravana; *viirye* = in stre
 
 "For the sake of this Seetha, the wide eyed one, Vali of great strength has been killed, Kabanda
 also equalling Ravana in strength has been felled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ also equalling Ravana in strength has been felled."
 
 "In the forest during war Virada of horrible prowess has been killed by Rama by valour, like Sambara
 by Mahendra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -491,8 +473,6 @@ killed; *agni shikha sharaiH* = by arrows equalling tongues of fires.
 
 "At Janastaana fourteen thousands of rakshasas of terrible deed have been killed by arrows equalling
 tongues of fires."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -512,8 +492,6 @@ mahaatejaaH duuSaNaH ca* = Duushana with great glory also (has been killed); *sa
 
 "By Rama with a famed mind, Khara has been killed, Trisira also has been fell down, Duushana with
 great glory also has been killed in war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -559,8 +537,6 @@ world.
 
 "For Her sake Sugreeva obtained wealth of vanaras ruled by Vali difficult to be obtained and worshiped
 by the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -610,8 +586,6 @@ been crossed; *mayaa* = by me; *iyam* = this; *purii ca* = city also; *niriikSit
 
 "For the sake of Her, with wide eyes, the ocean, lord of rivers and streams, has been crossed by
 me; this city also has been explored."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -661,8 +635,6 @@ at the end; *jagat ca api* = and the entire universe; *yuktam iti* = it is fair;
 
 "If Sri Rama for Her sake turns upside down the earth with the ocean at the end, and the entire
 universe it is fair, this is my opinion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -712,8 +684,6 @@ of Seetha.
 
 "Among three worlds, if it is a choice between kingdom or Seetha, the daughter of Janaka, all the
 kingdom of three worlds will not approach a sixteenth part of Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -783,8 +753,6 @@ daughter; *janakasya maithilaraajasya* = of king Janaka of Mithila; *mahaatmanaH
 
 "This She is that Seetha, the daughter of king Janaka of Mithila, the great soul, and noble one
 with a firm resolution towards husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -799,8 +767,6 @@ paamsubhiH* = by auspicious dust of field; *padma reNu nibhaiH* = equalling poll
 
 "While a field was being ploughed She rose up splitting the earth covered by auspicious dust of
 field equalling pollen."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -849,8 +815,6 @@ one; *anivartinaH* = not turning back; *samyugeSu* = in the battle.
 
 "She is the famed eldest daughter-in-law of king Dasaratha the valorous one, not turning back in
 the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -898,8 +862,6 @@ of Rama; *dharmaj~nasya* = the righteous one; *kR^itaj~nasya* = grateful one; *v
 
 "This She the dear wife of Rama the righteous one, grateful one, knower of Self has obtained capture
 of demonesses."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1009,8 +971,6 @@ a smiling talk; *anarthaanaam abhaaginii* = not suited to misfortunes; *saa iyam
 sorrows, entering forest unpopulated with humans, being happy with fruits and roots, devoted to the service of
 Her husband, even in forest is getting great happiness like in a palace, the one with golden limbs, always with
 a smiling talk, not suited to misfortunes - that this Seetha is bearing all this suffering."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1060,8 +1020,6 @@ freely.
 
 "Sri Rama likes to see this Seetha who is endowed with excellent character and tormented by Ravana,
 like a thirsty one for a place where water is available freely."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1114,8 +1072,6 @@ Rama; *nuunam* = definitely; *eSyati* = will get; *priitim* = happiness; *raajaa
 
 "By Her gain again Sri Rama definitely will get happiness like a king who lost kingdom getting
 back the land."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1163,8 +1119,6 @@ back the land."
 
 "Left by coveted enjoyments, lacking relatives also Seetha is keeping body desirous of meeting
 with Sri Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1213,8 +1167,6 @@ a single heart; *raamam eva anupashyati* = is meditating only on Sri Rama; *nuun
 
 "She is not seeing demonesses, not flowers, fruits or trees and with a single heart is meditating
 only on Sri Rama - this is sure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1266,8 +1218,6 @@ looking charming; *tena rahitaa* = without Sri Rama.
 
 "Husband is indeed the greatest adornment for a woman greater than jewellery; this Seetha though
 deserving of decoration, is not looking charming without Sri Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1316,8 +1266,6 @@ depressed; *duhkhena* = by sorrow.
 
 "Sri Rama although bereft of Her that Lord Rama is doing an impossible task by retaining His body
 and not being depressed by sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1370,8 +1318,6 @@ gloomy.
 
 "Knowing Her with black ended hairs, with lotus like eyes, deserving of comforts, and in sorrow,
 my mind also is gloomy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1431,8 +1377,6 @@ lakSmaNaabhyaam* = by Sri Rama and Lakshmana; *saa* = that Seetha; *samprati* = 
 
 "Whoever Seetha with earth-like patience, with eyes resembling lotuses, was protected by Sri Rama
 and Lakshmana, that Seetha now is being guarded by ogresses with crooked eyes at the base of a tree."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1490,8 +1434,6 @@ plant hit by snow; *nipiiDyamaanaa* = being tormented; *vyasana paramparayaa* = 
 
 "With lost glory like a lotus plant hit by snow, being tormented by a series of calamities, Seetha
 obtained a pitiable condition like a chakravaka bird without a companion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1546,8 +1488,6 @@ grief).
 
 "Ashoka trees with bent branches due to flowers are giving rise to gloom a lot to Her; Due to melting
 of snow the risen up moon also with thousands of rays is causing grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 </details>
 
@@ -1607,8 +1547,6 @@ against (it).
 
 The mighty one, the best among vanaras, quick one, Hanuma thus observed the subject: "This is Seetha!"
 - thus with a firm mind sat at that tree, leaning against it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

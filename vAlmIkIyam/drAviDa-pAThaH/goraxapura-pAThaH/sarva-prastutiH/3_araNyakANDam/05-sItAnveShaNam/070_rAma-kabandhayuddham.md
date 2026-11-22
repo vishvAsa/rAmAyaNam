@@ -16,8 +16,6 @@ title_english = "070 Kabandha s overlong arms are cut off"
 Kabandha's overlong arms are cut off when he wanted to devour Rama and Lakshmana as godsend dainty morsels.
 Then Kabandha wishes to know who these two are and when Lakshmana informs him of Rama, that demon feels
 elated for his accursed state is over at the hands of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ elated for his accursed state is over at the hands of Rama.
 
 On prying at those two brothers, Rama and Lakshmana, who are completely stowed in the hangman's halter-like
 arms of the demon, and who are enduring within it, Kabandha said this sentence to them. [3-70-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ are sent.
 
 "Oh, excellent Kshatriya-s, on seeing me who am miserably famished, really what for you stay cool? You
 are the godsend gobs of mine, and hence now you are almost dead..." So said Kabandha to brothers. [3-70-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ vaakyam uvaaca* = advisable, words, said [to Rama.]
 
 Lakshmana who is possessed by anguish, and who is determined to wreck revenge on that demon, said these
 expedient and advisable words to Rama on hearing that demon's word. [3-70-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ off.
 
 "This scurrilous demon quickly hauled in you and me to his face level, and he will quickly take us in,
 therefore, we will have to swiftly hack off his lengthy arms at his shoulder level... [3-70-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ hi* = now, us, to finish off, wishes, indeed.
 
 "Gruesome is this gargantuan bodied demon, and triumphing over just with his arms he has utterly devastated
 this province, and he now wishes to end us... [3-70-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -338,8 +326,6 @@ araNyaam utsR^ijyam a himsaayaa* 'unsanctified or wild animals brought from wild
 off, unhurt...' 4] or, one that which is not at the sacrificial post - it is not to be
 sacrificed...' and Lakshmana says addressing Rama as 'oh, king, you have to let off those beasts,
 but not this beastly demon who is aggressive and contemplating a regicide...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -390,8 +376,6 @@ bhakshayitum aarabhat* = both, to wolf down, started to.
 
 On hearing all of their conversation that demon is infuriated, and then widely opening his ferocious
 mouth he started to wolf down both of them. [3-70-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -450,8 +434,6 @@ Maheshvara Tiirtha states this as *su sam vignau* meaning 'very highly agitated.
 at the short time available to cut off his hands, before falling into his well-head like mouth. And
 this expression 'very highly gladdened' is for the righteous advice given by Lakshmana,
 circumspectly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -498,8 +480,6 @@ cicCheda]* = left [arm, hewed down.]
 
 Then that dextrous Rama with an unrestrained speed hacked off the right arm, and valiant Lakshmana on
 his part hewed down the left arm that speedily. [3-70-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -547,8 +527,6 @@ mangled, arms; *mahaa svanaH* = with cacophonous, voice; *jala daH yathaa* = rai
 
 He that overlong-armed Kabandha fell down with mangled arms, reverberated the sky, earth, and all of
 the ten points of horizon with a cacophonous voice, like a black-thunderous-cloud. [3-70-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -598,8 +576,6 @@ papracCha* = those, two bold ones, has asked.
 
 That demon on seeing at his dissevered shoulders on which the gushes of blood are overflowing, he self-piteously
 asked those two bold ones thus as, "who are you..." [3-70-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -643,8 +619,6 @@ shashamsa* = about Kakutstha Rama, informed.
 
 When that great mighty Kabandha is asking thus, Lakshmana who has prosperous characteristics has informed
 him about Rama of Kakutstha, an unremitting dynasty. [3-70-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -694,8 +668,6 @@ one by my name]; *viddhi* = you know.
 
 "He is known to people by the name of Rama, the legatee of Ikshvaku dynasty, and you know me as his
 younger brother, Lakshmana, by my name... [3-70-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -753,8 +725,6 @@ vanam carati* = great, forest, he moves about.
 
 "Countervailed from kingdom by mother this Rama is bluntly sent to forests, and he is on the rove in
 great forests along with me ad his wife... [3-70-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -769,8 +739,6 @@ abducted; *yaam icChantau iha aagatau* = whom, wishing [to retrieve,] to here, [
 
 "A demon stole his wife while he whose leverage is like that of god is living in the unpopulated forest...
 and wishing to retrieve her we came here... [3-70-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -818,8 +786,6 @@ calves [legs, legless]; *vane* = in forest; *kim artham vaa* = for what, reason,
 "But who are you? Your legs are broken, and your mouth is infernal, yet it is on your chest, and alike
 a topless, rootless tree trunk you are sprawling in the forest, how so, or, for what reason?" Lakshmana
 asked the demon thus. [3-70-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ on his part; *tat indra vacanam smaran* = that, Indra's, words, on memorising; *
 
 But Kabandha is highly delighted when Lakshmana spoke that way, as the words of Indra came to his memory,
 and he said these words in reply. [3-70-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -923,8 +887,6 @@ are these shackles, called my two arms, by you... [3-70-18]
 The arms, mouth-to-stomach, and another organ are the epitomes of mortals. A
 mortal does everything with arms and devours anything with mouth. *martyaa kartaa bhoktaa
 ca* Now those shackles of mortality are severed and he is ready for immortality.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 </details>
 
@@ -971,8 +933,6 @@ yat ruupam* = mine, which, form - is there; that; *yathaa* = as to how; *a vinay
 
 "Oh, manly tiger, actually how this form of mine is disfigured, of course owing to my distrustful behaviour,
 that you may listen while I narrate it to you. [3-70-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

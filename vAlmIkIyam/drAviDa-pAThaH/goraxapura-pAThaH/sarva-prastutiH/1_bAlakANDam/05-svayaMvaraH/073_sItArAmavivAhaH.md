@@ -15,8 +15,6 @@ title_english = "073 sItha s marriage with rAma"
 
 We need not wait for any invitation or wedding card or call for this marriage, as all are welcome, equally and individually.
 Let us go there straight, without any introductions and preliminaries.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ Let us go there straight, without any introductions and preliminaries.
 
 On which day the king Dasharatha made the impressive cow donations or, initiatory rites, on that day alone the valiant Yudhaajit
 turned up. [1-73-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -81,8 +77,6 @@ uncle; that Yutaajit; *raajaanam dR^iSTvaa* = having seen king Dasharatha; *kush
 
 Yudhaajit, the son of Kekaya king and the brother of Kaikeyi, thus the direct maternal uncle of Bharata, having seen and
 asked after the wellbeing of Dasharatha said this to him. [1-73-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -126,8 +120,6 @@ asked after wellbeing; *yeSaam* = whose; *kushalakaamaH asi* = wellbeing [of all
 
 The ruler and king of Kekaya, viz., my father and your father-in-law, has affectionately asked after the wellbeing of all,
 and in whose wellbeing you are interested at my place, they are all hale and healthy as of now... [1-73-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -142,8 +134,6 @@ of Kekaya, my father]; *mama svasriiyam* = my, sister's son - my nephew - Kaikey
 
 Oh, Raghu's legatee, oh, best king, my father and the king of Kekaya is interested to see my sister Kaikeyi's son, Bharata,
 and for that reason I am sent to Ayodhya... [1-73-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -193,8 +183,6 @@ Is this entry of this maternal uncle of Bharata a forced one or does this have a
 though not a question. Further he is saying 'my sister's son' i.e., Bharata alone, instead of 'all my nephews...' Whether
 this episode has a bearing on future events or not, one *maama* is entered in Indian epics, like this one and *
 Shakuni maama* in Maha Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -243,8 +231,6 @@ arrived [in his presence]; *dR^iSTvaa* = on seeing about; *puujaarham* = he who 
 
 Then king Dasharatha on seeing the adorable guest who arrived in his presence, and who is a merited one for adoration, Dasharatha
 adored Yudhaajit well, with full observances. [1-73-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -299,8 +285,6 @@ He arrived at the Vedic-ritual hall that he was frequenting for the last few day
 will not enter the marriage hall, and nowadays such an invitation includes a small function also, called *varapuuja*
 as every bridegroom will be looked up to as Vishnu, and the bride as Lakshmi. The marriage hall is constructed nearby this
 Vedic-ritual hall, thus it is to be assumed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -367,8 +351,6 @@ part of day, hence this time is to be reckoned as one that acquires some victory
 Brides are not the lone category of people destined to wear jewellery. But bridegrooms are also asked to wear golden ornaments,
 at least one, on such occasions. The metal gold is said to contain some effect by which a man or a woman will be benefited,
 health wise: *mR^itaa durluptam madhumat suvarNam dhanam jananam ruNam daarayiSunam...* after all gold is gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -410,8 +392,6 @@ marriage-thread; *putraiH* = with such sons; *daataaram abhikaankSate* = looking
 Then that godly sage Vashishta on going from Vedic-ritual hall to marriage hall said this to Janaka, "Oh, best one among
 best people, oh, king Janaka, having performed the auspicious marriage-thread ceremony, Dasharatha along with his sons is
 looking forward for the donor... [1-73-10b, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -458,8 +438,6 @@ king Dasharatha come, and then on actualising this best marriage you too will be
 
 Hindu marriage is not a contractual obligation because it protracts over seven life cycles of that couple. Therefore, it
 is calculated correctly and celebrated sacredly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -500,8 +478,6 @@ is calculated correctly and celebrated sacredly.
 Janaka is not just a decidedly valiant king but he is the profound knower of probity also, besides being an unreservedly
 generous king, hence he has already made all arrangements, and when he is spoken in this way by Vashishta that king replied
 this sentence to that right honourable Vashishta. [1-73-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -565,8 +541,6 @@ your own house, or what? This kingdom is as good as yours... isn't so... [1-73-1
 These are neither questions nor surprises, but the usual retorts and repartees usually employed during wedding time by both
 parties, *sandhi-s* of northerners and *sammandi-s*, of southerners, i.e., the wedding parties. By these rebuttals
 and ripostes, both the parties come close with each other's family habits or with its members.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -583,8 +557,6 @@ arciSaH iva* = as with jets of flame of fire; *vedimuulam* = at the base of Alta
 Oh, eminent-saint Vashishta, on absolutely performing the auspicious ceremony for the marriage-thread, and thereby tying
 thread-band at wrists my daughters have already arrived, and they are at the base of the Altar of Fire, like the irradiant
 jets of flames of radiant fire... [1-73-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -638,8 +610,6 @@ And Vashishta reported this to Dasharatha, and Dasharatha and his coterie then s
 be dillydallying, inching and poking along, very leisurely. Even today this custom, not custom exactly, the habit of 'wedding-walks'
 is there and a *baraat* 'pageant of bridegroom's party' covers two furlong distance in two hours, or even more, keeping
 the bride's party on tenterhooks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -679,8 +649,6 @@ even; *praveshayaamaasa* = started to enter - the marriage hall.
 
 On hearing that sentence of Janaka, then Dasharatha started towards marriage hall, and then he started to enter his sons
 one by one, four in all, into marriage hall along with all of the assemblages of sages. [1-73-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -732,8 +700,6 @@ rejoicer of world; *raamasya* = Rama's; *vaivaahikiim kriyaam* = marriage orient
 Then that king from Videha bloodline, Janaka, said in this way to Vashishta, "Oh, the knower of punctilios, oh, Brahma-sage,
 oh, masterly sage, along with other sages you make happen all of the marriage ceremonies of Rama, the rejoicer of the world..."
 Thus Janaka spoke to Vashishta. [1-73-18, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ velvet bag...' and thereafter a sermon follows about the dying Indian culture at
 he starts throwing the packets of *navadhaanya* etc., as though he is giving alms to the beggar. Though Janaka has
 not purchased such a bag of dowry, he has some more problems with this marriage. A discussion on this is there at later
 part. Here the sprouted sprigs are the sprouting avengers on the evil, called Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -875,8 +839,6 @@ Then that great resplendent and eminent-saint Vashishta neatly overlaid even-siz
 with Vedic-chants, and on preparing Ritual-fire by rubbing two wooden sticks, called araNi
 , he placed that fire in the pit of Altar, which is aflame now, and then reverently and in tune with the Vedic-hymns he
 effused oblational liquids into that Altar of Fire, with short-handled and long-handled wooden scoops. [1-73-23b, 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -966,8 +928,6 @@ happen? Avoiding all these irksome situations, the poet gave this stage-directio
 of Kausalya, with a subtext, 'you are mothered by some human female, whereas my daughter is motherless, rather un-mothered,
 *ayonijaa* non-foetal is her origination, hence it is apt of you to not to belittle her, anytime and anywhere...
 and you have to keep faith with her, since she outshines in outperforming your task in this so-called incarnation...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -995,8 +955,6 @@ you, take her palm into your palm..." [1-73-26b, 27a]
 
 Here Sita stands, my daughter fair, / The duties of thy life to share. / Take from her father, take thy bride, / Join hand
 to hand, and bliss betide! / - Ralph T. H. Griffith
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1017,8 +975,6 @@ then poured forth water into the palms of Rama, which is sanctified with hymns. 
 Pouring water at the time of donation into the donee's hand symbolises the free flowing will of the donor. The 'shadow'
 expresses *nitya-sambandhatva* 'ever related entity...' Or, a trace of His *liilaa-vibhuuti, maayaa*. Though
 they are living separately so far, that farness is now washed off by this holy water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -1075,8 +1031,6 @@ saa janakaatmajaa* 'unlimited is the energy, to whom Janaka's daughter belongs..
 in eliminating Ravana, whereas Seetha is the efficient cause for it. Lanka is ruined by Seetha, through Hanuma with the
 help of Fire-god, but not by Rama, or all of the monkeys put together. And Rama eliminates the half-dead Ravana. There are
 some more flower-showers and drumbeats and dances, later.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -1122,8 +1076,6 @@ she who is sanctified with hymn water; *sutaam siitaam dattvaa* = on handing ove
 
 On handing over his daughter Seetha who is duly sanctified with sanctified waters, King Janaka is completely overwhelmed
 with exhilaration for the successful performance of his bit as a father and he said this. [1-73-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1146,8 +1098,6 @@ marriage is first...' does not apply if the brothers are from co-wives: *pitR^iv
 vaa | vivaahadaanayajnaadau parivedo na duuShaNam ||* 'the elderliness among the sons of father's brothers or mothers
 co-wives, or other sons from other wives, do not count in their marriages, donation ceremonies, of Vedic-rituals... an younger
 one can be called first on such occasions...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -1187,8 +1137,6 @@ one can be called first on such occasions...'
 
 Janaka having said to Lakshmana that way, he also addressed Bharata, "Oh, Bharata, the delight of Raghu-s, take Maandavi's
 palm into your palm... [1-73-31b-32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -1237,8 +1185,6 @@ paaNinaa* = with your palm; *shrutakiirteH paaNim gR^ihNiiSva* = you take Shruta
 
 That honourable king of Mithila even said to Shatrughna, "oh, dextrous Shatrughna, take the palm of Shrutakiirti into yours...
 [1-73-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1254,8 +1200,6 @@ not, there be, time's, lapse.
 
 "Oh, Rama, Lakshmana, Bharata, Shatrughna ... you all are tender-hearted, well-behaved and well-intentioned brothers from
 Kakutstha lineage... without lapse of time take up other ceremonies..." So said Janaka to bridegrooms. [1-73-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -1312,8 +1256,6 @@ orchestration of Vedic hymns and procedures. [1-73-34b, 35a]
 **टिप्पनी**
 
 The word 'palminpalmed' may look oddish, but it is in fashion with the verb 'arminarmed' invented by poet Roger McGhou.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1342,8 +1284,6 @@ time oblations. After accepting the palms of brides, they made circumambulations
 ritual fire and offered oblations into it. Then each couple had oblated rice-flakes into the fire, and again performed circumambulations
 to that Ritual-fire, respectively. Thus, the marriage is not a handshake like one-minute affair, as they all shall be before
 fire, daylong.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -1392,8 +1332,6 @@ There occurred rich and highly dazzling flower showers from firmament, and that 
 divine drums and with vocal and instrumental music, and promenades of apsara-s danced, and even the gandharva-s sang tunefully,
 and because it is the marriage of celebrated bridegrooms from Raghu's dynasty, such a charming spectacle is envisioned..
 [1-73-37, 38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -1437,8 +1375,6 @@ te* = those brothers; *triH* = thrice; *agnim parikramya* = circumambulated the 
 
 In this kind of ongoingness of harmonious music of vocal, instrumental and that of dancers, those great resplendent brothers
 married their wives on circumabulating the Ritual-fire fire thrice. [1-73-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 </details>
 
@@ -1486,8 +1422,6 @@ with assemblages of sages; *sabaandhavaH* = with kinfolks; *pashyan* = with all 
 Then those legatees of Raghu went to their visitatorial-palace with their wives, followed by king Dasharatha along with
 the assemblages of sages, kinfolks, queens and wives included, and Dasharatha feasted his eyes on sons and daughter-in-laws.
 [1-73-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

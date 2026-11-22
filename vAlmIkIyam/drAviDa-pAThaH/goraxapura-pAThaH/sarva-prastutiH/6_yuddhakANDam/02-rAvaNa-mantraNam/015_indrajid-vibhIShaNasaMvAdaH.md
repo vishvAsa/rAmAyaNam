@@ -17,8 +17,6 @@ Indrajit criticizes Vibhishana for underestimating the former`s strength. Vibhis
 abuses Indrajit for his immaturity of mind and for his rash nature in underscoring the power of
 Rama`s arrows. Vibhishana further advises Ravana to give back Sita along with valuable presents to
 Rama and to live happily ever after in Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -84,8 +82,6 @@ eloquence); *mahaatmaa* = the high spirited; *Indrajit* = Indrajit;
 Carefully hearing the words of Vibhishana, whose intellect was equal to that of
 Brihaspati (god Of wisdom and eloquence) the high spirited Indrajit, the chief of army of demons
 spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ thing (as you suggest)".
 "O, youngest uncle! Pray, what? Your words are meaningless and very much
 frightening. Even he who is not born in this race would neither speak such words nor do such a
 thing (as you suggest)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -193,8 +187,6 @@ courage; *shauryana* = valour; *tejasaacha* = and vital power."
 
 "In our race, this Vibhishana the youngest uncle is the only individual lacking in
 strength, heroism, prowess, courage, valor and vital powers" W.w m.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -240,8 +232,6 @@ are you frightening (us); *bhiiro* = O; coward!"
 
 "What after all are those princes who are mere human beings? They can be killed even
 by one very ordinary demon among us. O, coward! Why are you frightening us? "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -297,8 +287,6 @@ quarters."
 "At one time, the competent Devendra, the lord of three worlds, was indeed tossed
 down on the floor by me. All the flocks of celestials were cast into fear and all of them fled to
 different quarters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -354,8 +342,6 @@ were frightened."
 "Airavata (Indra`s elephant), which was making noise discordantly, was hurled down
 by me on the floor. I forcibly extracted its teeth and frightened the entire flock of
 celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -411,8 +397,6 @@ who made miserable; *daityottomaanaamapi* = the life of even excellent of the de
 "How can I, with great valor, who suppressed the arrogance of even the celestials
 and who made the lives of even excellent of the demons miserable, not capable of conquering the two
 princes who are ordinary human beings?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -473,8 +457,6 @@ Vibhishana; *varishhThaH* = excellent; *shastrabhR^Itaam* = among bearers of wea
 Hearing those words of Indrajit, who was equal to Indra (god of celestials),
 dangerous to be approached, and possessing great vital power, Vibhishana the excellent one among
 bearers of weapons spoke then the following highly meaningful words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -530,8 +512,6 @@ too; *aatmavinaashanaaya* = for only your self destruction."
 "O, child! There is no stability of thought in you. Being a boy, you are still
 immature in mind. That is why, many a meaningless word was prattled by you too, for only your
 self-destruction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -587,8 +567,6 @@ self-destruction."
 "In the guise of a son, O, Indrajit, you are an enemy of Ravana putting on the mask
 of a well wisher in that even hearing (from me) of his destruction at the hands of Rama, you are
 blindly agreeing with him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -648,8 +626,6 @@ also he; *sudurmatiH* = who is very much a fool; *vadhyah* = is to be killed."
 
 "You surely are fit to be killed. Nay, he too is fit to be killed, who brought you,
 a reckless boy here today and ushered you foolishly in the proximity of counselors".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -709,8 +685,6 @@ viishhi* = are thus speaking; *baalatayaa* = because you are a boy."
 "O, Indrajit! You are a stupid, irresolute, without humility, rude natured; unwise;
 evil person, inexperienced and highly evil minded. You are speaking in this manner because you are
 an immature boy".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -758,8 +732,6 @@ Yama's staff.
 "Who can endure the arrows, discharged by Rama in battle right in front of the
 enemy, which resemble Brahma's (creator's) staff in glory, which present a form similar to that of
 God of Death and are equal to the Yama's staff?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 </details>
 
@@ -819,8 +791,6 @@ anguish.
 
 " O, king! Offering riches, precious stones, good jewellery, excellent clothes,
 bright colored gems and the god-like Sita to Rama, let us live here, free from anguish."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhasans15.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

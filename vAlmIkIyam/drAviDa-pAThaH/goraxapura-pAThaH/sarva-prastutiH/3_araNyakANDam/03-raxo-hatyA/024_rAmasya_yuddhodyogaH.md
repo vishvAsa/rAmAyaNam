@@ -17,8 +17,6 @@ Rama perceives good omens of victory, but to safeguard Seetha he sends her away 
 shelter in a mountain's cave till the war is over. Then he adopts a furious nature to annihilate demons.
 Gods and divinities watch from heavens as to how a war can occur between one against fourteen thousand
 demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ indeed.
 
 While fiercely valorous Khara proceeded towards Rama's hermitage, Rama along with his brother Lakshmana
 has indeed seen the very same auguries which have earlier appeared to Khara. [3-24-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ resent; *raamaH lakSmaNam vaakyam abraviit* = Rama, sentence, said to.
 
 On looking at those very gruesomely bad omens, and perceiving them to be unpropitious to people, Rama
 spoke this sentence to Lakshmana. [3-24-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ can annihilate; *sarva raakSasaan* = all, demons; *sam hartum* = complete, to el
 
 "Oh, dextrous Lakshmana, for the complete elimination of all the demons these great indications have
 arisen, as though betokening the annihilation of all beings. See them. [3-24-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ in reddish-grey tint; *amii meghaa tu* = these, clouds, on their part; *vyomni n
 
 "On their part these clouds are hovering on the sky with stark reddish-grey tint, thunderously braying
 and copiously showering streams of blood. [3-24-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -266,8 +256,6 @@ apart; *vi ceSTante [viveSTante]* = verily, gesturing - incessantly spurring.
 
 "All my arrows too are incensed to fuming in an ecstasy towards a war, and dorsally gold-plated bows
 of mine are incessantly spurring to hook up those arrows, telling apart the impeding conflict. [3-24-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -314,8 +302,6 @@ uncertainty, too.
 
 "Judging by the kind of wild birds that are shrieking here, danger is up ahead and coming upon us, along
 with uncertainty of our lives. [3-24-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -389,8 +375,6 @@ sure.
 is going to occur, no doubt, but oh brave one, our victory and defeat to the enemies are also in vicinity,
 and for sure, your face is also appearing brightish and aglow, which itself is a good omen. [3-24-8]
 [3-24-7, 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -437,8 +421,6 @@ dwindle, it will be - death looms large on their longevity.
 
 "If the faces of those that are poised for a conflict loose lustre, deem that the death is looming large
 on their longevity too. [3-24-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -485,8 +467,6 @@ shruuyate ca* = is audible, also.
 
 "This nasty noise which we hear pertains to the uproar of demons, and even to the drumming of war drums
 by the demons of fiendish activities, and this is ear-splitting. [3-24-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -539,8 +519,6 @@ by a person with misgivings about a danger, or by a person of talent. [3-24-11]
 The meaning can otherwise be rendered as: 'If any misgivings are caused by an imminent danger a well-wisher
 and intellectual person shall effectuate preventive measures...' but this becomes more self-centred
 and cannot become a maxim or axiom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -586,8 +564,6 @@ samkulaam* = with trees, overgrown; *durgaam guhaam aashraya* = impassable, cave
 
 "Hence, wield your bow, keep arrows ready at hand, and taking Vaidehi with you seek shelter in a impassable
 cave of a mountain overgrown with trees. [3-24-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ you are] = by my, pair of feet, you are sworn - have honour on my feet; *gamyata
 
 "I wish you to gainsay me for this word of mine, my boy, have honour on my feet and be gone not before
 long. [3-24-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ nihantum icChami* = personally, to eliminate, I long to.
 
 "You are a stalwart, a forceful one, and for sure you can eliminate them all, it is doubtless, but I
 long to eliminate all of the nightwalkers, personally" Rama said thus to Lakshmana. [3-24-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -748,8 +720,6 @@ to hide in any cave camouflaged by trees along with Seetha, and Lakshmana goes o
 character of Rama is at stake. Thus, as promised to sages and saints Rama alone wanted to trigger off
 the elimination process of demons. That is why Rama breathes fresh air saying "good riddance" in next
 verse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -797,8 +767,6 @@ himself]; *kavacam aavishat* = armour, shield, entered - donned.
 
 On Lakshmana's entering into cave along with Seetha, Rama said to himself, "thank goodness, it is a
 good-idea!" and thus saying he donned his shield. [3-24-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -845,8 +813,6 @@ Rama; *timire utthitaH* = in utter darkness, up-shot; *vi dhuumaH* = without, fu
 
 Well bedecked in a shield that has fire-like brilliance that Rama shone forth like a fumeless conflagration
 up-shot in utter darkness. [3-24-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -893,8 +859,6 @@ he stood; *sam babhuuva* = he became - he firmed up.
 
 On raising his imposing bow and drawing arrows, that valorous Rama firmed up and stood there, filling
 all the directions with the tinny sounds of bowstring. [3-24-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -940,8 +904,6 @@ siddhaaH ca caaraNaiH saha* = great-souls, siddha-s, carana-s, along with; *yudd
 
 Gods with gandharva-s and great-souled siddha-s along with carana-s have then met one another and came
 there aspiring to see the war. [3-24-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -998,8 +960,6 @@ exploits; *sametya* = came together; *anyaH anyam* = other, to other [one anothe
 
 The great-souled sages and those that are known in worlds as eminent Brahma-sages, on their coming together
 those beings of pious exploits spoke to one another, among themselves. [3-24-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1017,8 +977,6 @@ sarvaan asura pungavaan* = in war, all, demons, mighty ones; *iti uucuH* = thus,
 "Let good betide cows, Brahmans and those people that are abiding in all the worlds. Raghava shall be
 victorious in the war over the clansmen of Sage Paulastya, the nightwalkers." Thus they talked among
 themselves. [3-24-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1070,8 +1028,6 @@ katham bhaviSyati* = war, how, results in.
 Thus speaking they also well-said again, looking at each other "the demons of fiendish deeds are fourteen
 thousand in number and this virtue-souled Rama is solitary... what would be the result of this war!"
 Thus the sages discussed among themselves. [3-24-22b, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1117,8 +1073,6 @@ staying, gods, also; *jaata kautuuhalaat tasthuH* = originated, inquisitiveness,
 
 Thus the assemblages of kingly-sages, siddha-s and the eminent Brahmans, along with gods that are staying
 in their aircrafts, tarried there in the firmament peering inquisitively at Rama. [3-24-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1165,8 +1119,6 @@ by dread, verily, in throes of.
 
 Immured in an aura of invincibility Rama is standing up to the war in its vanguard, and then on seeing
 at him all beings went into the throes of dread. [3-24-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1225,8 +1177,6 @@ vilasitam dR^iShTvaa raama kalebaram | sa~Nkham cakra shuulam ca pinaakam kheTam
 ghanTaam Damaru baaNa paasha ankusham tathaa | caapam vajram khaDgam ca parashum traasa kaaraNam | jaya
 shriyam ca gangaam ca dadR^ishuH siddha caaraNaaH | skaandda puraaNa* According to Maheshvara
 Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1307,8 +1257,6 @@ demons arriving from all over with boisterous noises, spouting cries of bravo, h
 skins, shields, weaponry and war-flags, and onrushing at each other in disarray. With brassy twanging
 of bows, with the drumming of war drums, and even by their jumping, leaping and bouncing that area is
 filled with very loud and clamorous noise. [3-24-27, 28, 29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1361,8 +1309,6 @@ niH shabdam* = without, noise - silence is there; to there; *pR^iSThataH na aval
 When highly brutish cacophony of demons started to fill the forest, that jangling even panicked the
 brutes ranging in that forest, and those beasts dashed off to other places where silence prevailed,
 without looking back. [3-24-30, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1412,8 +1358,6 @@ ocean, in simile; *tat aniikam* = that, army; *raamam* = towards Rama; *sam anu 
 
 And that foolhardy army of demons which in simile is like an unnavigable ocean steered towards Rama
 handling many assault weapons. [3-24-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1460,8 +1404,6 @@ has seen.
 
 Casting his sight all-over even that war-expert Rama has seen that army of Khara lunging at a conflict.
 [3-24-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1527,8 +1469,6 @@ samudyata yaatudhaanaanidhaanaaya satvaram udagra kopam aaviShTasya pracaNDa ani
 yugaanta anala kalpasya sakala jana duShprekShyasya - - dharmaakuutam* Even now, on seeing
 Rama's unsightly aspect, should these demons fall prostrate before him, there would no loss to their
 lives. But Khara, as his name itself indicates that he has an asinine mentality, will not yield.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1546,8 +1486,6 @@ vyathan* = very much, annoyed.
 And when he is enraged and blazing he became frightful-looking like the blazing Fire at the end of era,
 and on seeing such a Rama when he is pervaded with conflagration like anger, the pastoral deities are
 very much annoyed. [3-24-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1596,8 +1534,6 @@ pinaakinii iva* = one who wields Pinaaka bow - namely Rudra, as with; *dadR^ishe
 The all-pacific aspect of that Rama then in his exasperation appeared to be like that of the all-ruinous
 Rudra, the wielder of bow called Pinaki, namely peaceful Shiva when enraged, at the time of Rudra's
 embarking on to ruin the Vedic ritual of Daksha Prajaapati. [3-24-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 </details>
 
@@ -1661,8 +1597,6 @@ in evening times and dwindled in morning. Thus their fire-like armours will ceas
 real Sun's fire [or fire of Rama's arrows] starts to flame, their bows cease to exits if the rainbow-giver
 comes in, and their flagging ensigns will cease with the ensigncy of raising sun in sky, and ill becomes
 of them, the evil-doers, after a short while.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

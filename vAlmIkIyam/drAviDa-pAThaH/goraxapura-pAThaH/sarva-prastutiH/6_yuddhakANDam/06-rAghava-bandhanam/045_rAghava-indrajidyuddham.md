@@ -20,8 +20,6 @@ Indrajit arrested the approach of those monkeys, by means of his arrows. Both Ra
 transfixed by Indrajit with a net work of serpentine arrows into the vital parts of Rama and Lakshmana
 and they fall down on the battle-ground in a bath of blood. Seeing those two scions of Raghu in that
 state, the monkeys give way to utter despondence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ state, the monkeys give way to utter despondence.
 
 That very strong and powerful Rama the son of Dasaratha ordered ten monkey-generals to
 search for the whereabouts of Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ and Rishabhaskandha.
 Rama the scourger of his enemies ordered both the sons of Sushena, Nila the chief of
 monkeys, Angada the son of Vali, the stron Sharabha, Dvivida, Hanuman, the very strong Sanuprastha,
 Rishabha and Rishabha skandha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ with enthusiasm; *udyamya* = lifted; *bhiimaan* = terrific; *paadapaan* = trees;
 
 All those monkeys, thrilled with enthusiasm, flung into the air brandishing huge trunks
 of trees in order to explore the ten regions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ skilled in the use of magic weapons; *iSubhiH* = by means of his arrows; *vegava
 Indrajit, the son of Ravana, who was skilled in the use of magic weapons, by means of
 his arrows with great speed, released from his most excellent of bows, arrested the impetuous outbreak
 of the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ sun; (is obscured); *aavR^itam* = when veiled; *meghaiH* = in clouds.
 
 Those monkeys of terrific bound, whose bodes were cruelly pierced by those shafts, were
 unable to see Indrajit in the darkness, as the sun is obscured when veiled in clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ Rama and Lakshmana exactly.
 
 Indrajit, the victorious in battle, transfixed Rama and Lakshmana with those arrows that
 lacerated their flesh in great measure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ arrows.
 
 The bodies of both those warriors, Rama and Lakshmana were densely transfixed with serpentine
 arrows by the enraged Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -421,8 +405,6 @@ arrows by the enraged Indrajit.
 
 Blood flowed from the wound-marks of both Rama and Lakshmana and both of them shone like
 Kimshuka trees in flowring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ of collyrium mixed with oil; *antardhaana gataH* = though still invisible; *abra
 
 At that instant, though still invisible, Indrajit, Ravana's son, with his inflamed eyes,
 which resembled a mass of collyrium mixed with oil, spoke the following words to those two brothers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -520,8 +500,6 @@ myself invisible; *shakro.api* = even Indra; *tridasheshvaraH* = the lord of cel
 
 "When I enter into combat, making myself invisible, even Indra the lord of celestials
 is not able to see or approach me. How much less, you two!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ of Yama the Lord of Death.
 "O, Descendents of Raghu! Having imprisoned you in this net work of arrows furnished
 with heron's feathers, I, yielding myself up to the violence of my wrath, am about to dispatch you to
 the region of Yama the Lord of Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -618,8 +594,6 @@ righteousness; (Indrajit); *nirbibheda* = pierced (them); *shitaiH* = with point
 
 Speaking thus to the brothers Rama and Lakshmana, who were aware of righteousness, Indrajit
 pierced them with pointed arrows and shouted too exultantly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -666,8 +640,6 @@ eva* = even once more; *mahaa mR^idhe* = in that great fight.
 
 Indrajit, who was as black as a heap of shattered collyrium, stretching his immense bow,
 discharged formidable arrows even once more, in that great fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -714,8 +686,6 @@ of the vital parts; *muhurmuhuH* = set up a continual; *nanaada cha* = shouting;
 
 That warrior, Indrajit, who was aware of their vital parts, set up a continual shouting,
 digging sharp arrows into the vital parts of Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -762,8 +732,6 @@ looking up.
 
 Those two princes, in the forefront of battle, bounded by that net work of arrows in
 the twinkling of an eye, became incapable of even looking up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -833,8 +801,6 @@ rajju muktau* = and freed from their chords.
 Pierced in their vital parts, exhausted, and covered all over with heads of arrows, those
 two mighty and courageous archers fell to the earth, they who were the lords of the earth, shaking violently
 like a pair of flag-staffs in honour of Indra the Lord celestials and freed from their raised of chords.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -884,8 +850,6 @@ shayane* = on that heroes' bed; *rudhirokSitau* = bathed in blood; *sharaveSTita
 
 Those warriors, Rama and Lakshmana, lying on that heroes' bed (on the battle-ground),
 bathed in blood, all their limbs bristling with arrows and extremely injured, felt distressed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -936,8 +900,6 @@ breadth; *antaram* = of space; *tayoH* = on their; *gaatre* = bodies; *aakaaraag
 
 There was not a finger's breadth on their bodies form the tips of their fingers to the
 end of their feet that was not lacerated, implanted and pierced by those arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -984,8 +946,6 @@ and Lakshmana; *jalam iva* = as water; *prasravaNau* = from a spring.
 
 Struck down by that ferocious demon, who was able to change his shape at will, the hot
 blood gushed forth from both Rama and Lashmana, as water from a spring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -1032,8 +992,6 @@ krodhaat* = of the wrathful; *indrajitaa* = Indrajit; *yena* = by whom; *shakraH
 
 Rama fell first, his vital parts pierced by arrows of the wrathful Indrajit, who had
 formerly vanquished Indra the Lord of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -1088,8 +1046,6 @@ vatsa dantaishcha* = Vatsadantas; *simha damSTraiH* = Simhadantas; *tathaa* = an
 Indrajit pierced Rama by arrows with golden shafts, with sharp points, which had downward
 movement, which go fast, Narchas, Demi-narachas, Bhallas (with wide tips), Anjalis, Vatsa dantas, Simha
 dantas and those shafts like unto razors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 
 </details>
@@ -1137,8 +1093,6 @@ Rama; *shishye* = lied down; *viirashayane* = on heroes bed (on the battle-groun
 
 Throwing asunder his bow bent at three places, adorned with gold, with its string loosened
 away and detached from the hold of his fist, Rama lied down on the battle-ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -1185,8 +1139,6 @@ the one without any hope; *jiivite* = in life.
 
 Seeing Rama the excellent man fallen, at a distance of an arrows range, Lakshman became
 hopeless about his own life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -1233,8 +1185,6 @@ of arrows; (Lakshmana); *shushocha* = lamented.
 
 Seeing his elder brother Rama, with his eyes resembling lotus-leaves, having fallen on
 the ground, wounded as he was by a net work of arrows, Lakshmana felt sad.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -1275,8 +1225,6 @@ by sorrow; *ghoram* = and terribly; *chakmshuH* = wept.
 
 Beholding that Rama, the monkeys too were in great grief and wept terribly, with their
 eyes filled in tears, being afflicted as they were by sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 </details>
 
@@ -1332,8 +1280,6 @@ great; *viSaadam* = grief.
 Those monkeys with Hanuman in first place gathered at a place and stood surrounding Rama
 and Lakshmana, who wee bound by a net work of arrows and lying down on the battle ground. They were
 disturbed and afflicted sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga45/yuddhasans45.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

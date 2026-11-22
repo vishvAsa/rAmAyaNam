@@ -17,8 +17,6 @@ IV : Kishkindha Kanda - The Empire of Holy Monkeys**
 Sugreeva informs Rama that Vali could not be appeased in spite of repeated requests
 as he is resolved to accept Sugreeva as an enemy. Vali banishes Sugreeva from the kingdom with the
 same thinking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ well-being, desiring.
 
 "Then desiring both of our well-being I have begged of my brother who is enveloped
 in anger and behaving capriciously. [4-10-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ you, alone, are the protector.
 "Oh, orphan's, delight Rama, I addressed him like this, "Luckily you have eliminated
 the enemy and returned safely, and to an orphaned one like me you alone are the protector.
 [4-10-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ this, [regal] umbrella, you accept.
 
 Let this regal umbrella unfolded like a full moon, with its many of its spikes, and
 with accompanying fur-fans may please be accepted while I hold it for you. [4-10-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -245,8 +237,6 @@ kiSkindhaam praavisham* = again, Kishkindha, I entered.
 and on seeing the blood that started to flow from out the cave in the entrance my heart is engulfed
 in sadness and my senses perturbed very much, and then covering that cave's entrance with a
 hilltop, and departing from that country, I re-entered Kishkindha. [4-10-4, 5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -293,8 +283,6 @@ tvam arhasi* = therefore, me, to pardon, apt of you.
 
 "On seeing me returning with grief, the citizens and ministers alike crowned me, but
 that is not at my desire, therefore it is apt of you pardon me. [4-10-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -370,8 +358,6 @@ kantakam* = eliminated, thorniness; *sthitam* = is there.
 "As an estimable one you alone are the king, and I will be as I was, and
 establishing me in kingship is owing to your unavailability, but the capital with citizens and
 ministers is kept up without thorniness. [4-10-7b, 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -420,8 +406,6 @@ this, kingdom; *tava* = to you; *niryaatayaami* = returning; *aham* = I am;
 
 "Oh, gentle one, I am now returning this custodial kingdom to you, oh, enemy
 eliminator, you need not be hostile towards me. [4-10-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -472,8 +456,6 @@ on; *aham* = I was; *asmin* = to this [kingship]; *rajabhaave* = in kingship;
 "I beg you with my bowed head and with my prayerful palm-fold, the ministers and the
 city dwellers have collectively and forcibly nominated me to the kingship, only to keep the
 kingless kingdom under control. [4-10-10, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -521,8 +503,6 @@ uktvaa* = to me said; *tat tat* = that, that, [expletives]; *bahu* = many;
 
 "While I was speaking that politely he threatened me and indeed used many expletives
 starting from 'fie, fie, upon you.' and the like. [4-10-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -569,8 +549,6 @@ garhitam vaakyam* = very, abusive, words; *aaha* = he said / hurled.
 
 "And summoning people and venerable ministers he hurled very abusive words at me
 among friends. [4-10-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -620,8 +598,6 @@ that; *viditam* = you are aware of.
 
 "You all are aware that earlier the gigantic and rancorous demon Maayaavi invited me
 desiring a duel in that night. [4-10-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -669,8 +645,6 @@ bhraataa* = this, brother; *anuyaataH ca* = followed, also; *tuurNam* = quickly;
 
 "On hearing his call for a duel I went out of the royal palace, and this very
 hazardous brother of mine quickly followed me. [4-10-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -727,8 +701,6 @@ abhidrutaH* = speedily, he ran; *saH* = he; *mahaabilam* = great, cavity;
 "And that formidable demon Maayaavi ran away as he was fraught with fear on seeing
 me with a second one at my side, and he speedily entered a great cavity of earth on seeing us two
 nearly reaching him. [4-10-15b, 16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -775,8 +747,6 @@ cavity; *atha* = then; *kruura darshanaH* = cruel to look; *ayam me bhraataa*
 
 "On knowing the demon's entry into that great precarious cavity, I said to this one,
 this cruel looking brother of mine. [4-10-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -825,8 +795,6 @@ dvaari* = at cavity's, entrance; *pratiiksha* = wait.
 "My power will not let me return from here to the capital without killing that
 demon, hence you wait at this cavity's entrance, till I kill that demon and come out of the cavity.
 [4-10-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -874,8 +842,6 @@ impenetrable cave; *tadaa* = then; *tatra* = there; *tam* = him, that demon;
 
 "Believing that he stayed at the entrance of the cavity I entered that impenetrable
 cavity, and then in searching for that demon there one year elapsed. [4-10-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -922,8 +888,6 @@ along with; *mayaa* = by me; *sadyaH nihataH* = immediately, killed.
 
 "I have seen that terrified enemy of mine effortlessly, and I killed him immediately
 along with all of his relatives. [4-10-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -970,8 +934,6 @@ aakraamam aasiit* = impossible, to tread, it has become.
 
 "That cavity has become impassable, since it is fully filled with the gushes of
 blood emanating from the mouth of that demon who fell yelling onto ground. [4-10-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1018,8 +980,6 @@ cavity's, closed, face.
 
 "On my killing that invading enemy easily, I could not see any exit from that cavity
 as its mouth was closed. [4-10-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1069,8 +1029,6 @@ and again; *vi kroshamaanasya* = while I loudly shouted; *me* = to me; *yataH*
 
 "Wherefore I did not get a reply though I repeatedly shouted, 'Sugreeva, oh,
 Sugreeva.' thereby I was very saddened. [4-10-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1117,8 +1075,6 @@ prahaaraiH* = with foot, poundings; *paripaatitam* = [lidded hilltop] is smashed
 
 "With my foot I pounded and smashed that lidded hilltop, and from there I exited
 that way and arrived here. [4-10-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1169,8 +1125,6 @@ _________________
 
 "As such this cruel fantasist of kingdom trammelled me in there forgetting the
 clannishness." So said Vali to all the courtiers. [4-10-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1217,8 +1171,6 @@ clothing, one only; *nirvaasayaamaasa* = started to render me homeless - banishe
 
 "On saying thus that monkey ruthlessly banished me, then and there in the court
 itself, who am with a single clothing on my body. [4-10-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1276,8 +1228,6 @@ his, fear, alone; *sa vana arNavaa* = withal, forests, oceans sarvaan = all over
 
 "Thus he threw me away and even stole my wife, oh, Rama, and owing to his fear alone
 I roamed all over the earth with its forests and oceans. [4-10-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1293,8 +1243,6 @@ impenetrable one; *giri varam* = mountain, safest; *Rishyamuukam* = Mt. Rishyamu
 
 "I who am saddened by stealing my wife have entered this safest mountain Rishyamuka,
 which is impenetrable for Vali by another reason. [4-10-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1341,8 +1289,6 @@ may see - examine; *anaagasaa* = without fault; *mayaa praaptam* = by me, attain
 
 "All this notable account of enmity is reported to you, oh, Raghava, and you may
 examine the dire straits befallen on me at no fault of mine. [4-10-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1390,8 +1336,6 @@ nigrahaat* = him, rein [him] in; *kartum arhasi* = to bestow, apt of you.
 "Oh, Rama, the fear-remover of all the worlds, it is apt of you to bestow me
 invulnerability from the fear of Vali, and oh, valiant one, as well as to rein him in." Sugreeva
 requested Rama thus. [4-10-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1440,8 +1384,6 @@ started.
 When he is requested thus by Sugreeva, that virtuous and resplendent Rama started to
 tell Sugreeva, the words that abide by virtue, as though trivializing the task on hand.
 [4-10-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1491,8 +1433,6 @@ vaalini* = on that, Vali; *patiSyanti* = will fall.
 
 "Admirable and sun-like burners are these arrows of mine that are now mingled with
 my wrath, and they are bound fall on that evil minded Vali. [4-10-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1539,8 +1479,6 @@ abuser; *saH vaalii jiivet* = he, that, Vali, will live.
 
 "He that stealer of your wife, that evil-minded abuser of history lives as long as I
 descry. [4-10-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1588,8 +1526,6 @@ definitely; *praapsyasi* = you will regain; *pushkalam* = abundantly.
 "By my experience I see how you are deluged in a sea of sadness, but I will make you
 to get over that sea, and you will definitely regain abundantly whatever you lost." Rama assured
 Sugreeva thus. [4-10-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 </details>
 
@@ -1636,8 +1572,6 @@ priitaH* = verily, gladdened; *su mahat vaakyam abraviit* = very, great, sentenc
 
 Hearing that sentence of Rama, which is enhancing happiness and self-esteem,
 Sugreeva is very gladdened and further said this great sentence. [4-10-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

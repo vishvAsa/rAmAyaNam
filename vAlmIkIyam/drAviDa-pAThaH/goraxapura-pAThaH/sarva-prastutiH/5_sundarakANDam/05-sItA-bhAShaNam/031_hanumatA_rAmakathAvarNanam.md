@@ -16,8 +16,6 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 Sitting on the branch of a Simshapa tree, Hanuma began to narrate in human language the story of
 Rama from the time he was born till his sending Hanuma to Lanka in search of Seetha. Hearing the narration of
 Hanuman, Seetha was overjoyed and finds Hanuma perched on Simshapa tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ Seetha.
 
 Thus reflecting on many kinds of thought, Hanuma spoke the following sweet words within the hearing
 range of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ mahaayashaaH* = who was very glorious; *ikSvaakuuNaam* = among kings belonging t
 
 "There was a king named Dasaratha who was very glorious among the kings of Ikshvaku dynasty and
 had a virtuous disposition. He owned chariots, elephants and horses, becoming very famous.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ was equivalent to Indra; *bale* = in prowess.
 
 "He was excellent in virtues among royal sages. He was equal to the seven sages in austerity. He
 was born in the lineage of emperors and was equivalent to Indra in prowess."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -229,8 +221,6 @@ _________________
 
 "He was keen on harmlessness. He was not vulgar. He was compassionate. He was truly mighty. He
 was an eminent king in Ikshvaku race. He was endowed with prosperity and was causing to increase prosperity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -252,8 +242,6 @@ gave happiness; *sukhii* = and was happy himself.
 "The king Dasaratha was endowed with royal characteristics, highly prosperous, excellent among
 kings and highly prosperous, excellent among kings and famous on earth with its four borders. He was happy man
 and gave happiness to others."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -301,8 +289,6 @@ a moon; *visheSaJNaH* = knowing distinctions (in humans and others); *shreSThaH*
 
 "There was an eldest son named Rama to that Dasaratha. Rama was beloved having a moon-like face.
 He, knows the distinctions among humans and others. He was excellent among all the wielders of the bow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -350,8 +336,6 @@ He, knows the distinctions among humans and others. He was excellent among all t
 
 "That Rama who annihilates enemies, is a protector of his own mode of life, a protector of his
 own people, a protector of every living being and a protector of righteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -402,8 +386,6 @@ Rama; a brave man; a brave man; *pravraajitaH* = went on exile; *vanam* = to a f
 
 "By the command of that Dasaratha, his old father and true-speaking man, that Rama a brave man
 went on exile to a forest along with his wife and brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -450,8 +432,6 @@ by that Rama.
 
 "While hunting in that forest, that Rama killed many demons who were valiant and who could assume
 any form at will."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -526,8 +506,6 @@ of enemys cities; *mahaabalaH* = and a very stron man; *hatvaa* = having killed;
 
 "Searching for Seetha the irreproachable lady, that Rama met a monkey called Sugreeva as his friend
 in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -572,8 +550,6 @@ of monkeys; *sugriivasya* = to Sugreeva.
 
 "Thereafter, Rama the conqueror of enemy's cities and very strong man, killed Vali and gave away
 that kingdom of monkeys to Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -627,8 +603,6 @@ rupeNa* = in the guise of a deer; *raaman* = Rama; *vane* = in the forest; *maay
 "Thereafter, hearing about the killing of demons in Janasthana, a part of Dandaka forest, in addition
 to killing of Khara and Dushana the demons, the enraged Ravana took away, Seetha, by deceiving Rama in creating
 an illusive image of deer in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -644,8 +618,6 @@ quarters.
 
 "As commanded and sent by Sugreeva, thousands of monkeys capable of assuming form at their will,
 are searching for that lady Seetha in all quarters of the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -695,8 +667,6 @@ eyed Seetha.
 
 "By the words of Sampati, I a swift monkey crossed the ocean having a length of one hundred yojanas
 for the sake of this broad eyed Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -755,8 +725,6 @@ I; *taam* = that Seetha; ashrauSam- had heard; *raaghavasya* = from Rama.
 
 "This Seetha has been found by me according to the same comeliness, complexion and the bodily marks
 as I had heard from Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -771,8 +739,6 @@ as I had heard from Rama."
 **अनुवादः**
 
 Having spoken these words, Hanuma kept quiet. Hearing those words, Seetha too got a great surprise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -829,8 +795,6 @@ aikSata* = and looked towards; *shimsupaavR^ikSam* = shimshupa tree.
 
 Thereafter, that Seetha whose consciousness was enshrouded by affliction, whose hair-ends were
 curved and who was of a fearful nature, lifted her face and looked towards Shimshupa tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -876,8 +840,6 @@ curved and who was of a fearful nature, lifted her face and looked towards Shims
 
 Hearing Hanuma's words and looking at all quarters and sub-quarters, Seetha was recollecting Rama
 in all ways and obtained a great joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 </details>
 
@@ -937,8 +899,6 @@ the sun; *udayastham* = behind an eastern mountain.
 
 Looking at sides, up and down, that Seetha saw that Hanuman, the sun of wind-god, having an unimaginable
 intelligence, the minister of Sugreeva and looking like the sun behind an eastern mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

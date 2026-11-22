@@ -17,8 +17,6 @@ As per the advice of Sardula, Ravana sends Shuka to Sugriva as an ambassador. Th
 monkeys harass him, who came to their place as a spy. But because of Rama's gracefulness, Shuka
 comes out of danger. Sugriva gives a fitting reply to Ravana's message sent through Shuka. When
 monkeys again try to bind him and harass him, Rama prevents them from killing him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ _________________
 
 Thereafter, an energetic demon named Shardula came and saw the army, commanded by
 Sugriva, which was drawn up in a battle array.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ approaching ; *laNkaam* = Lanka.
 
 "Boundless and immeasurable like another ocean, this multitude of monkeys and bears
 is approaching Lanka.".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -196,8 +190,6 @@ beauty; *mahaadyuti* = very much dignified men; *aagatou* = have come; *padam*
 "These brothers Rama and Lakshmana, the sons of Dasaratha, the excellent and the
 most dignified men endowed with beauty have arrived in the cause of Sita and settled in a camp
 after reaching the sea shore" .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -214,8 +206,6 @@ measuring; *sarvataH* = on all sides; *dashayojanam* = ten yojanas(ten miles);ar
 
 "O, monarch! Their army is employed around a radius of ten yojanas (eighty miles)on
 all sides. You have to ascertain this truth quickly"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -261,8 +251,6 @@ or an act of giving away;bhedovaa = or sowing dissention (in the enemy's ranks);
 "O, monarch! Your other spies also ought to ascertain the fact quickly. Under such
 circumstances, either conciliation or an act of giving away or sowing dissention (in the enemy's
 ranks) may be employed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -316,8 +304,6 @@ those who know their duty.
 Hearing Shardula's words Ravana the lord of demons was perturbed and immediately
 determined his cause of action. Then he spoke the following words to a demon by name, Shuka the
 foremost among those who know their duty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ voice:
 
 "Going quickly, speak fearlessly to king Sugriva on my behalf, according to my
 command, in an excellent and gentle voice, as follows:"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -423,8 +407,6 @@ me.
 O, great king! You are indeed born in a noble family, possessor of a great strength
 and are a son of Riksharaja. No gain whatsoever or any harm will accrue to you (from this battle)
 .O, lord of monkeys! Nevertheless, you are like a brother to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -474,8 +456,6 @@ wise? Gamyataam = return; *kishhkindhaam prati* = to Kishkinda.
 
 "What does it matter to you, if I have embezzled the wife of a wise prince?
 (Therefore) return to Kishkindha"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -520,8 +500,6 @@ monkeys?
 
 "This Lanka cannot be reached by monkeys in any way. It cannot be acquired even by
 celestials and Gandharvas (celestial musicians), why to talk about men and monkeys?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -562,8 +540,6 @@ Ravana; *bhuutvaa* = become; *vihaNgamaH* = a bird; *aaplutyacha* = and flew;
 
 Then Shuka the demon heralded by Ravana turned himself into the form of a bird and
 quickly flew into the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -612,8 +588,6 @@ ocean; *samsthitaH* = and stationed; *ambare* = in the sky(itself); *abraviit*
 
 Proceeding in the sky for a distance continuously over the ocean, Shuka then stood
 up in the sky itself and spoke these words to Sugriva:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -665,8 +639,6 @@ to strike him; *mushhTibhiH* = by their fists.
 Shuka repeated all the words the wicked Ravana had told him to say to Sugriva. As he
 was still speaking, the monkeys bounded into the air to reach him at that moment quickly to tear
 off his wings and to smite him by their fists.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -716,8 +688,6 @@ down; *bhuutale* = to the ground; *gaganaat* = from the sky.
 
 The demon thus attacked was forcibly seized by all the monkeys and immediately
 brought down to the ground from the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -776,8 +746,6 @@ properly.
 
 Shuka being harassed by monkeys spoke the following words: "O, Rama! Messengers are
 not to be killed. Let your monkeys be restrained properly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -795,8 +763,6 @@ messenger; *anukta vaadii* = who speaks which was not told; *arhati* = is fit;
 "That messenger, who by abandoning the opinion of his king will speak about his own
 opinion though he being a messenger and he who on the other hand speaks that which was not told to
 him, that messenger is indeed fit to be killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -846,8 +812,6 @@ monkeys; *ghnatah* = who were beating; *maa vadhishhTa* = "do not kill."
 
 Hearing Shuka's complaining words, Rama spoke to the foremost of monkeys, who were
 beating him as aforesaid, saying "Do not kill him"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -895,8 +859,6 @@ laghuH* = light winged; *bhuutvaa* = virtually; *sthitaH* = standing;
 
 Perceiving no fear from monkeys, Shuka became light winged, virtually standing in
 the sky and spoke again the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -943,8 +905,6 @@ the sky and spoke again the following words.
 
 "O, Sugriva, rich in courage and possessing great strength and valor! What am I to
 tell Ravana, whose nature is to cause world to cry?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -992,8 +952,6 @@ words; *shuddham shukam* = to the blame less Shuka; *rajaniicharasya* = Ravana's
 Hearing the aforesaid words, the mightily strong Sugriva the king of monkeys and the
 foremost among them, with a merciless mind then spoke to the blame less Shuka, Ravana's spy, as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1050,8 +1008,6 @@ your associates; *vaalina* = like Vali.
 "O, Ravana, worthy of killing! You are not my companion. You are not worthy of
 sympathy. You are not the person who helped me in any way. I do not like you, as you are Rama's
 enemy. Hence, You are worthy to be killed like Vali, along with your associates"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1074,8 +1030,6 @@ enemy. Hence, You are worthy to be killed like Vali, along with your associates"
 
 That demon, the spy of Ravana the evil natured king of ogres, coolly observed that
 army from all sides, speedily returned to Lanka and spoke to their king as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -1122,8 +1076,6 @@ kinsfolk; *sametya* = together; *mahataa balena* = with my great army;
 
 "O, the king of demons! I am killing you along with your sons, relatives and other
 kinsfolk. Arriving with a great army, I will reduce the entire Lanka and all of you to ashes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -1211,8 +1163,6 @@ Rama, even if you are protected by all including Indra (the lord of celestials) 
 disappeared (by virtue of conjuring trick) or obtained, the solar orbit or entered the nethermost
 subterranean region or even if approached the lotus feet of Shiva (the lord of Kailasa
 mountain)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -1267,8 +1217,6 @@ musician); *na* = nor; *asuramcha* = an ogre.
 "I do not see any protector to you as such in the three worlds, nor do I see any
 devilish being or a demon or a Gandharva (celestial musician) or an ogre coming forward to protect
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -1323,8 +1271,6 @@ her; *yaam* = what she is.
 "You killed Jatayu, the king of vultures and who was senior to you in old age. Why
 the wide-eyed Sita was not taken away in the presence of Rama and Lakshmana? Having made her
 captive, you do not recognize her for what she is."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -1375,8 +1321,6 @@ your lives.
 
 "You are unaware how strong, high soled and irresistible even to celestials, is this
 Rama the excellent man of Raghu dynasty, who shall deprive you of your life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1393,8 +1337,6 @@ intelligent! ayam* = He; *na* = is not; *duutaH* = an ambassador;
 
 Thereafter, Angada the son of Vali and the foremost of the monkeys spoke as follows:
 "O, Sugriva the highly intelligent! He is not an ambassador. He appears to me as a spy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -1436,8 +1378,6 @@ indeed has been evaluated; *anena* = by him; *tishhThataa* = standing here;
 
 "All our army has been indeed evaluated by him, standing here. Let him be made
 captive. Let him not return to Lanka. This indeed finds favor with me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -1486,8 +1426,6 @@ jumped up; *jagR^ihushcha* = seized; *babandhushcha* = and bound him;
 
 Commanded then by the king Sugriva, the monkeys jumped up, seized and bound him, who
 without defence, wailed loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1503,8 +1441,6 @@ the high soled; *dasharathaatmajam* = son of Dasaratha(as follows):
 
 Harassed by those monkeys there, Shuka on his part cried loudly towards Rama, the
 high soled son of Dasaratha as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 </details>
 
@@ -1549,8 +1485,6 @@ I; *jaaye* = was born; *yaamcha* = on which; *raatrim* = night;
 
 "My wings are being pulled out forcibly. My eyes are being pierced. If I die, all
 the sins incurred by me between my birth and my death would fall to your share."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Hearing Hanuman's words, Rama says that he cannot desert Vibhishana who is seeki
 refuge in him. Initially Sugreeva disagrees with Rama's opinion. But when Rama explains the
 different circumstances under which Vibhishana is acceptable, Sugreeva also agrees with that view.
 Finally Vibhishana joins as an associate in Rama's side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ after hearing; *vaayusutasya* = Hanuman's words; *pratyabhaashhata* = spoke;
 Thereafter the inviolable Rama who possesses sacred knowledge, after hearing
 Hanuman's words, spoke with a clear understanding, the following opinion that was firm in his
 mind:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ our welfare.
 
 "I also wish to tell my opinion about Vibhishana. I want it to be heard by you, who
 are firmly established in our welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ appearance; *syaat yadyapi* = even though he has; *doshhah* = a defect; *etat*
 
 "By any means, I do not desert anyone who arrives with a friendly appearance, even
 if he has a defect. His acceptance is irreproachable in the eyes of good men"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ examined; *tadvaakyam* = those words of Rama; *tatah* = and thereafter;
 
 Then, Sugreeva the chief of monkeys closely analyzed and examined the aforesaid
 words of Rama and thereafter spoke the following most auspicious words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ words of Rama and thereafter spoke the following most auspicious words:
 
 "What matters if this ranger of night is very dangerous or other wise, if he can
 desert his own brother at a time of peril? Whom will he not betray subsequently?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -322,8 +310,6 @@ lakshhaNam* = of virtuous characteristics:
 
 Hearing the words of Sugreeva, Rama who was truly mighty looked round all of them ,
 smiled a little and spoke the following words to Lakshmana, of virtuous characteristics:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ scriptures; *anupasevyacha* = and without serving; *vR^iddhaan* = elders.
 
 "Without studying scriptures and without serving elders, it is not possible to speak
 such words as Sugreeva spoke."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -417,8 +401,6 @@ subtle thing; *asti* = is there; *atra* = Here; *maa* = to me;
 "It appears to my mind that there is however something peculiar in these
 circumstances which are clearly to be seen in all lives of kings and even occurring in ordinary
 life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -466,8 +448,6 @@ adversities; *tasmaat* = for that reason; *ayam* = he; *aagatam* = came;
 
 "It is told that persons of the same family and rulers belonging to adjoining
 territories become enemies and strike in times of adversities. For this reason, he came here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -515,8 +495,6 @@ kings; *eshhaH* = even the persons; *shobhanaH* = who are virtuous;
 
 "Even if belonging to the same family, persons who are virtuous do respect their own
 well wishers in that family. Generally among kings, even a virtuous person is apprehended."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -564,8 +542,6 @@ adversary.
 
 "With regard to the draw back you told me in the matter of accepting a person coming
 from the side of an adversary, hear from me what the scriptures say."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ learned; *tasmaat* = for that reason; *vibhiishhaNaH* = Vibhishana; *graahyaH*
 "We do not belong to the same family. Further, Vibhishana the demon is desirous of
 acquiring the kingdom. A few of the demons also may be rather learned ones. That is why, Vibhishana
 is acceptable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -663,8 +637,6 @@ split; *ataH* = for that reason; *bhayam* = a fear; *aagatam* = has come;
 "Kinsfolk do not live together in a fearless mode and in a delightful manner. Hence,
 they get a split among themselves. For this reason, a fear has come to him. This loud appeal is
 also major cause. That is why, Vibhishana can be accepted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -711,8 +683,6 @@ also major cause. That is why, Vibhishana can be accepted."
 
 "My dear one! Neither all brothers are like Bharata, nor all sons of a father like
 me nor all friends are like you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -759,8 +729,6 @@ saluting; *abraviit* = and spoke; *idam* = these; *vaakyam* = words:
 
 Hearing Rama's words Sugreeva who was together with the highly wise Lakshmana stood
 up saluting and spoke these words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -802,8 +770,6 @@ night(demon); *praNihatam* = to have been sent; *raavaNena* = by Ravana;
 
 "O, Rama the excellent among the tolerant! Realise that Ravana has sent Vibhishana,
 the demon. I think of him to be worthy of being taken as a captive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -867,8 +833,6 @@ demon.
 "O, the mighty armed Rama! The faultless one! This demon is being sent to kill you
 who are unsuspecting, or to kill Lakshmana or me in trust. He came here with a crooked mind. He
 with his counselors is fit to be imprisoned. Is not Vibhishana the brother of cruel Ravana?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -915,8 +879,6 @@ the mode of expression; *tatah* = thereafter; *paagamat* = obtained; *mounam*
 
 Speaking thus to Rama, the best of Raghu dynasty, Sugreeva who knew the mode of
 expression, thereafter kept silent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -966,8 +928,6 @@ auspicious; *vaakyam* = words; *haripuNgavam* = to Sugreeva.
 
 Hearing those words of Sugreeva, Rama pondered over the words and thereafter spoke
 more auspicious words to Sugreeva as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1014,8 +974,6 @@ demon; *sudushhTovaa* = is very bad? asaktaH = He is incapable; *kartum* = of do
 
 "What does it matter whether that demon is very bad or not bad? He is incapable of
 doing even a little harm to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1063,8 +1021,6 @@ earth; *aNgulyagreNa* = with the tip of my finger.
 
 "O, Sugreeva, Lord of monkey-troops! If I wish, I can kill those devilish beings,
 demons, supernatural beings and ogres living on earth with just a tip of my finger"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1111,8 +1067,6 @@ and was invited for a feast; *svaiH* = with its own; *maamsaiH* = flesh.
 
 "It is narrated how by a dove, its enemy ( a fowler) when it came for a refuge, was
 received according to rules of hospitality and was invited for a feast with its own flesh."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1159,8 +1113,6 @@ accepted as a guest; *tam* = the fowler; *aagatam* = as he came;
 
 "O, the excellent of monkeys! The aforesaid dove indeed accepted as a guest, the
 fowler as he came, although he killed its wife .How much more a man like me has to do?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1210,8 +1162,6 @@ and by Kandu by name; *gathaa* = verses; *dharmishhThaa* = inculcating virtue;
 
 "Hear the verses inculcating virtue so long ago, by Kandu, the son of a sage called
 Kanva, a great sage and a speaker of truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1260,8 +1210,6 @@ and who is seeking refuge; *na hanyaat* = should not be killed; *anR^ishamsyaart
 "O, king the terminator of enemies! Even an enemy, who formed a cup with his
 hollowed hands, a miserable person, a person who is begging and who is seeking a refuge should not
 be killed with the aim of not being cruel."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1313,8 +1261,6 @@ one who has a well-disciplined mind.
 "An enemy who comes for protection against others, even if the aforesaid enemy is
 oppressed or arrogant, is to be protected by one who has a disciplined mind, even by abandoning
 one's life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1361,8 +1307,6 @@ one's life."
 
 "If he does not protect rightly through his strength, by fear or by ignorance or by
 desire, it is a sin to be reproached by the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1410,8 +1354,6 @@ in; *sharaNam* = a refuge; *tasya* = and if that; *rakshhiNaH* = protector;
 
 "If having not been protected, a refugee dies before the eyes of a man who is able
 to protect him, the former takes along all his moral merit and goes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1459,8 +1401,6 @@ it devastates strength and valor."
 "In not protecting thus the persons who take refuge, there is a great blemish
 involved in it. It does not bestow heaven. It destroys reputation. It devastates strength and
 valor"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1507,8 +1447,6 @@ reputation; *svargyam* = leads to heaven; *phalodayam* = and rewards appear.
 
 "I will follow the excellent words of Kandu. It becomes a very righteous thing,
 gives reputation, leads to heaven and the rewards appear consequently."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1558,8 +1496,6 @@ bhuutebhyaH* = against all types of beings; *etat* = this; *mama* = is my;
 
 "He who seeks refuge in me just once, telling me that �I am yours', I shall give him
 assurance of safety against all types of beings. This is my solemn pledge"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1609,8 +1545,6 @@ been given; *asya* = to him; *mayaa* = by me; *aanaya* = bring; *evam*
 
 "O, Sugreeva, the chief of monkeys! Let him either be Vibhishana or even Ravana
 himself; I have given an assurance of safety to him. Bring him here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1657,8 +1591,6 @@ words; *SugreevaH* = Sugreeva; *plavageshvara* = the Lord of monkeys;
 
 Hearing Rama' s words, Sugreeva the lord of monkeys, overwhelmed as he was with
 cordial friendship, replied to Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1708,8 +1640,6 @@ venerable words?
 "O, Rama, who knows righteousness, the crest jewel among lords of the world! What
 surprise is there in thinking that you, duly endowed with true essence of life and established in a
 right path, speak these venerable words?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1756,8 +1686,6 @@ be genuine; *supariikshhitaH* = being well examined; *sarvataH* = from all angle
 
 "My inmost spirit also feels Vibhishana to be a genuine person, he being well
 examined from all angles, by act of inference and by his appearance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1804,8 +1732,6 @@ him get; *sakhitvamcha* = friendship too; *nah* = with us.
 
 "O, Rama! Hence, let the highly wise Vibhishana be equal among us soon together. Let
 him get our friendship too"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 </details>
 
@@ -1865,8 +1791,6 @@ celestials; *patattrirajena* = had with Garuda the king of birds.
 Hearing those words of Sugreeva, Rama the king of men, as acknowledged by Sugreeva,
 held meeting with Vibhishana, as Indra the lord of celestials once met Garuda the king of
 birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhasans18.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

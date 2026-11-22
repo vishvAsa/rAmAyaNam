@@ -18,8 +18,6 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 The Horse Ritual of Emperor Dasharatha is started on the banks of Sarayu River. The details
 of the arrangements for the participants, and visitors along with some aspects of the Vedic
 Ritual are narrated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -94,8 +92,6 @@ raajnaH asya* = in great Horse ritual of king; *R^iSyashR^ingam puraskR^itya*
 
 Keeping Rishyasringa at the helm of affairs those eminent Brahmans commenced, *ashva-medha*
 , the Horse-ritual of that noble-souled Dasharatha. [1-14-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -136,8 +132,6 @@ karma kurvanti vidhivat* = works, performed, customarily; *yathaavidhi yathaanya
 Those well-versed conductors of Vedic rituals called *ritviks* , have started to perform
 works relating to ritual as per canon and rules, and conducted them scripturally and customarily.
 [1-14-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ as per scriptures; *tathaa eva upasadam* = like that, upasada ritual;
 On performing *pravargya* ritual as per scriptures, like that *upasada* ritual
 too, those Brahmans have customarily performed all of those other rituals incidental to the
 main one scripturally. [1-14-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ main one scripturally. [1-14-4]
 Then all of those distinguished sages are contended with what they have performed by worshipping
 gods already summoned, they also conducted early morning *savana* ritual and its ancillaries
 as enjoined. [1-14-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ ritual has come to pass according to sequence. [1-14-6]
 
 Soma creeper is from Sacrostemma Brevistigma of Asclepiadacea family and some other scholars
 hold the view that it is from Sarcostema Viminalis family.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 </details>
@@ -324,8 +312,6 @@ asya raaj~naH* = of that highly, exalted soul, of that, king; *tR^itiiyasavanam 
 
 Like that those proficient Brahmans have also performed the third *savana* , ritual
 of that great-exalted soul Dasharatha according to the viewpoint of scriptures. [1-14-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -369,8 +355,6 @@ retained the pronunciation of letters though trained much earlier]; *shakraadiin
 
 Rishyasringa and other best scholars with their well lettered and intonated Vedic hymns have
 invoked Indra and other gods to that place. [1-14-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ daduH* = they gave oblations to partaking celestials.
 The *hotaa* -s, invocators, have welcomed the celestials for partaking oblations by
 singing *saama* Veda hymns sweetly and harmoniously, and on inviting them with Vedic
 hymns they have offered oblations to them. [1-14-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -464,8 +446,6 @@ either; *sarvam brahmavat dR^ishyate* = all, appeared, to be hymn oriented;
 There is no unburnt oblation resulted in that fire-ritual nor even a small mishap slipped
 in the performance of ritual. Everything appeared canonically correct and hymn oriented. Indeed
 the ritual is performed in a secure way. [1-14-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -526,8 +506,6 @@ apprentices; *na* = not seen; *tatra* = there.
 
 In these days of ritual none found there to be weary or hungry, and there is no single unscholarly
 person, nor any Brahman without at least a hundred apprentices. [1-14-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -580,8 +558,6 @@ aspect of salvation as per *Indra is the friend of traveller. Therefore wander -
 brahmaNa [VII.33.3]* The Buddhist *shramaNa* -s are the wandering monks in search
 of converts whereas Hindu *shramana*-s are pure *sanyasi*-s wandering for their
 own salvation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ to complete the meal is attained for themselves, as the food served is that plea
 Elderly people, sick ones, women and children though dining on always thus, there is no satisfaction
 to Emperor Dasharatha, for it appeared to be too meagre a serving and a lot more is to be
 served. [1-14-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -676,8 +650,6 @@ by; *tathaa chakruH anekashaH* = accordingly, done [distributed,] in many ways.
 
 "Food be given abundantly, clothing be given variously" are the directives, accordingly the
 king's men have distributed numerously there at the ritual place. [1-14-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -723,8 +695,6 @@ heaps of food stuff made available; *bahavaH parvatopamaaH* = many, mountain sim
 
 Heaps of foodstuffs are also appearing there, many of them and mountain similar, which is
 made available customarily, day after day. [1-14-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -760,8 +730,6 @@ food and drinks, well pleased.
 
 To that ritual of that great-souled Dasharatha masses of men and women have arrived from different
 countries, and they are all well-pleased with the sumptuous food and drink supplied. [1-14-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -807,8 +775,6 @@ heard.
 "The eminent Brahmans have appreciated the food that is prepared by perfect cooking to be
 relishable, and it is heard as they said, "oh, Raghava, blessed are you for we are satisfied..."
 [1-14-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -838,8 +804,6 @@ of releasing king are well established and he may proceed with the ritual proper
 the ritual horse released during last year by King Dasharatha has come back without being
 captured by anyone, thus establishing the invincibility of King Dasharatha, as such he can
 commence the ritual proper.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -890,8 +854,6 @@ commence the ritual proper.
 
 Well-decorated men have served food to Brahmans, while others who wore gem-studded and lustrous
 earrings have helped them. [1-14-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -938,8 +900,6 @@ hetuvaadan* = many, intellectual debates - arts of reasoning; *sma vaagminaH pra
 
 Those eminent Brahmans that are good debaters have debated many intellectual debates to defeat
 each other, during the gap-periods of ritual works. [1-14-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1001,8 +961,6 @@ scriptures; *chakruH* = have performed.
 
 Day by day those expert Brahmans have performed all ritual works as encouraged by Vashishta,
 and others and as contained in scriptures. [1-14-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1057,8 +1015,6 @@ that king Dasharatha is an inexpert in debating, thus all are scholarly Brahmans
 The six branches of Veda-s are: 1] *shikSaa* - phonetics, 2] *vyaakaraNa* - grammar,
 3] *chandas* - prosody, 4] *nirukta* - etymology, 5] *jyoutiSha* - astronomy,
 6] *kalpa* - ritual acts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1137,8 +1093,6 @@ When the time came to stake wooden ritual posts, six posts of bilwa wood, six po
 wood, and further the same number of posts of parnina wood are staked. One post of sleshmaataka
 wood and two of devadaaru wood as stipulated are staked. Then the distance between each post
 is maintained at the length of extended arms. [1-14-22,23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1179,8 +1133,6 @@ abhavan* = they [posts] became gold-pleated, decorated.
 
 All of those the posts are made by the authorities on scriptures and ritual scholars, and
 they are gold-pleated and decorated for the purpose of elegance to that ritual. [1-14-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1223,8 +1175,6 @@ in height; *ekavimshati yuupaaH te* = twenty-one posts, they are;
 
 They are altogether twenty-one posts, each post is twenty-one cubits in height, and each is
 decoratively clothed with each cloth. [1-14-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 </details>
@@ -1272,8 +1222,6 @@ decoratively clothed with each cloth. [1-14-25]
 
 Carpenters have carved all the posts well, and built them strongly with octahedral surfaces
 that are smoothened, and thereby they are implanted procedurally. [1-14-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1321,8 +1269,6 @@ The Seven Sages is the constellation of stars in the Ursa Major - The Great Bear
 *sapta R^ishimaNDala* . The Indian names of the Seven Sages are 1] *atri* ,
 2] *angiirasa* , 3] *pulastya* , 4] *pulaha* , 5] *kratu* , 6]
 *mariichi* , 7] *vashiSTha* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1374,8 +1320,6 @@ each brick is to be consecrated with hymns. On completion of the layering of bri
 required shape, i.e., that of an eagle-like platform for a *garuDayaj~na-vedi* etc.,
 then Holy head bath *abhiSeka* is performed to the brick-work of the Altar by pouring
 milk and other sacred liquids to the chanting of Vedic hymns.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1431,8 +1375,6 @@ with gold sahasram hiraNyashakalaiH pratidinam agnim prokShati - shruti
 meaning *every day with thousands of gold chips oblate the fire...* scriptures say
 so. So the Altar of fire is glittering with thousands of gold chips sprinkled every day. This
 altar is laid threefold bigger than the usual one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1473,8 +1415,6 @@ thus; *tat tat daivatam uddishya* = designated to that and that deity; *niyuktaa
 
 In that ritual animals, serpents and birds designated to such and such deities are readied
 according to the scriptural directives. [1-14-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1523,8 +1463,6 @@ and village animals. In them many of the forest animals will be let off by takin
 the fire on to their right in salutation to fire, *agnipradakShiNa-namaskaara*. The
 animals pertaining to village will be sacrificed in ritual. Hence it is up to the priests
 to decide which is to be retained or let off.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1570,8 +1508,6 @@ gemlike best horse; *yuupeSu niyatam* = arranged [tied] to wooden posts.
 
 Three hundred animals are tied to the ritual posts, along with the gemlike best ritual horse
 of that King Dasharatha. [1-14-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1630,8 +1566,6 @@ knives like needles. The scripture says that all the eligible wives of the perfo
 have to pierce that way. sauvarNiibhi suuciibhiH patnayaH ashvasya asipathaan
 kalayanti - shruti / scripture. So all the three queens have performed that symbolic
 act by piercing that horse, which is already dead, with golden needle-like knives. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1677,8 +1611,6 @@ night, she resided with that horse that flew away.
 
 Queen Kausalya desiring the results of ritual disconcertedly resided one night with that horse
 that flew away like a bird. [1-14-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1745,8 +1677,6 @@ brahma ritvik* is not cited along with *paalaakali*, goblet-maid, they are impli
 The donation is symbolic and later bartering with some valuable items that is redeemed. Govindaraja.
 There is another way of translating this. For the wording, *hastena samayojayan* the
 priests took these wives by hand to bring them in contact with the dead horse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 </details>
@@ -1805,8 +1735,6 @@ Some more scholars give a non-violent touch to this act and they say that a medi
 horse, and the wording is read differently. When the sequence is running on horse and horse's
 body parts how a medical plant is brought in, is unclear. And some say that a horse will not
 have omentum according to Vedic texts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1846,8 +1774,6 @@ vapaayaaH tu* = smoke's smell, of fat [omentum being cooked]; *jighrati sma* = h
 
 The king Dasharatha smelt the smell of smoke as per time and procedure to cleanse his own
 sin. [1-14-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1897,8 +1823,6 @@ sin. [1-14-37]
 
 Those remaining body parts that horse are there, the sixteen officiating priests have procedurally
 oblated all of them into fire. [1-14-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1939,8 +1863,6 @@ bhaagaH* = oblation of Horse sacrifice ritual; *vaitasaH iSyate* = is to be done
 In other rituals the oblations will be offered into sacrificial fire with spoon-like sticks
 of plaksha tree, but in Horse-sacrifice ritual they are offered through the vetasa creeper,
 a rattan plant, cane. [1-14-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -1986,8 +1908,6 @@ ritual, is said [ to be performed]; *tasya prathamam ahaH chatuSTomaH parikalpit
 The Horse Ritual is to be performed for three days as laid down in *kalpasutra*-s,
 the rules governing such rituals, and by *braahmaNa*-s, the penultimate parts of Veda-s,
 and the one performed on the first day is called *chatuSToma* ritual. [1-14-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2009,8 +1929,6 @@ there in that ritual as envisaged in scriptures. [1-14-41]
 
 The horse-ritual is conducted only for three days. But Dasharatha got it performed with more
 variously connected rituals, in all his eagerness to appease gods for progeny.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2061,8 +1979,6 @@ mahaakratuH* = great ritual aptoryaama are conducted.
 The rituals called *jyothiSToma, aayuSi,* and *atiraatra* rituals are performed.
 And also rituals of great kind like *abhijit, vishwajit, aptoryaama* are performed.
 [1-14-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2135,8 +2051,6 @@ As the promoter of his own dynasty that king Dasharatha donated eastern side to 
 western to *adhvaryu*, and southern to *brahmaa*. And to *udgaataa* northern
 side is given in donation. These were the donations stipulated in that great ritual, *ashwamedha*,
 by the Self-Created Brahma from earlier times. [1-14-44,43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 </details>
@@ -2183,8 +2097,6 @@ promoter of dynasty; *kratum samaapya* = on completion of ritual; *tadaa nyaayat
 
 On completing the ritual thus that best man Dasharatha justifiably donated those lands to
 the officiating priests, called ritwiks, to promote his dynasty. [1-14-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2229,8 +2141,6 @@ gatakilbiSam* = to king, who by now is rid of sin; *abruvan* = said.
 Thus on giving away the vast expanses of his kingdom he that glorious one born in Ikshvaku
 dynasty is gladdened, but all the officiating priests said to the king who by now is rid of
 his sins. [1-14-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2271,8 +2181,6 @@ for us, no work with lands; *na paalane shaktaaH sma* = we are not capable in ru
 "You alone are capable to protect the earth in its entirety, and there is no use for us with
 these lands, and we are not capable to rule it, either." Thus the priests are addressing the
 king. [1-14-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2313,8 +2221,6 @@ modest thing]; *prayacChatu iti* = now, be given, by thus.
 
 "We are always preoccupied with self-study and teaching of scriptures, oh, king, thus you
 may give us something else in barter, any modest thing. " [1-14-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2361,8 +2267,6 @@ expanses.
 
 "Let best gems, gold, or cows or anything else that is available you may give us, what is
 the use of these vast expanses to us." So said the scholars. [1-14-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2425,8 +2329,6 @@ them millions of cows, ten of ten million gold coins, and the silver four times 
 
 Silver is prohibited for donation in such rituals, but here it is being given as barter for
 the lands earlier donated, hence it is an acceptable item.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -2477,8 +2379,6 @@ to Rishyasringa, also to enlightened Sage Vashishta; *pradaduH* = they gave.
 
 Then all those officiating priests collectively gave that wealth to sage Rishyasringa and
 to the enlightened sage Vashishta. [1-14-51b, 52a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2521,8 +2421,6 @@ to the enlightened sage Vashishta. [1-14-51b, 52a]
 Then all of those Brahmans are well satisfied at heart and distributed among themselves the
 wealth passed on by Rishyasringa and Vashishta, and then they said, "We are highly gladdened."
 [1-14-52a, 53a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2570,8 +2468,6 @@ donated.
 
 Then to the other Brahmans who arrived there to see the ritual, King Dasharatha sincerly donated
 ten million gold coins. [1-14-53b, 54a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -2616,8 +2512,6 @@ kasmaichit daridraaya dwijaaya* = impoverished Brahman someone who is beseeching
 
 That descendent of Raghava dynasty gave an excellent hand ornament to someone who is an impoverished
 Brahman and who is beseeching. [1-14-54a, 55a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -2669,8 +2563,6 @@ akarot* = he made veneration dutifully to them .
 
 While those Brahmans are becoming happy then that king and the patron of Brahmans venerated
 them dutifully with his senses fluttering with happiness. [1-14-55b, 56a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2731,8 +2623,6 @@ occasion called *aashiirwachana* hymns. To date this practice is continued where
 Brahmin priest is commissioned to perform even a domestic ritual. In effect, it shall be construed
 that these are not the blessings of the Brahmin priests who are chanting, but it is the blessing
 of Veda itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -2785,8 +2675,6 @@ leading to heaven; *paarthivarSabhaiH dustaram* = impossible to undertake by bes
 Then that king is gladdened at heart for the successful achievement of the completion of that
 excellent ritual that removes sin and that leads to heaven as well, and that which cannot
 be undertaken by many of the best kings. [1-14-57b, 58a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2836,8 +2724,6 @@ expansion [oriented ritual]; *kartum arhasi* = it is apt of you to perform.
 
 Thereafter king Dasharatha said to sage Rishyasringa thus, "oh, sage with best vows, you alone
 are eligible to perform the ritual for the expansion of my dynasty." [1-14-58b, 59a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2877,8 +2763,6 @@ are eligible to perform the ritual for the expansion of my dynasty." [1-14-58b, 
 
 That best Brahman Rishyasringa saying yes to the proposal, said this to king Dasharatha, "oh,
 king, there will be four sons to you that ennoble your dynasty. [1-14-59b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 </details>
 
@@ -2932,8 +2816,6 @@ Rishyasringa, again said.
 
 On hearing the sweet words of Sage Rishyasringa, he that king of kings Dasharatha went into
 a state of ecstasy and venerating that great soul, Rishyasringa, again said this to him. [1-14-60]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

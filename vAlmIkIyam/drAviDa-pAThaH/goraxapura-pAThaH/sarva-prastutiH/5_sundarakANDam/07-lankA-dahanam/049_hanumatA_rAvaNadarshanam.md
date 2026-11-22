@@ -17,8 +17,6 @@ Hanuma sees well-adorned Ravana, who is seated on a well-decorated throne of cry
 He is surrounded by four ministers viz., Durdhara, Prahasta, Mahaparshva and Nikumbha. Surprised to
 behold the splendor and glory of Ravana, Hanuma believes that he could even rule heaven along with Indra,
 but for his gross unrighteousness, which pulled him down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ tasya* = by that Indrait's; *karmaNaa* = deed.
 
 Then, Hanuma with a terrific prowess, was enraged (at his capture and his being dragged)
 and saw Ravana with his red hot eyes. He was surprised by that deed of Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ with strings of pearls.
 
 Ravana was endowed with a great splendor and shone with a glittering and precious diadem
 of gold as also encircled with strings of pearls.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ the mind.
 
 That Ravana was adorned with bright-coloured gold ornaments, inlaid with diamonds and
 decorated with worthy gems, which appeared as though they were prepared with the mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ decorated with worthy gems, which appeared as though they were prepared with the
 
 Ravana was attired in very costly silk and his body was smeared with red-sandal paste
 and well painted with various brightly coloured designs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -293,8 +283,6 @@ Ravana looked strange with his ten heads, having terrible-looking yet good-looki
 of red eyes each, with brilliant sharp enormous teeth and protruding lips, like a daring demon endowed
 with extra ordinary vigour, shining brightly as Mount Mandara with its peaks and infested with snakes
 of different varieties.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -345,8 +333,6 @@ _________________
 Ravana was having a pearl necklace casting its splendor on his bosom. He was looking
 like a mass of blue antimony, but with his countenance shining like the full moon and appearing like
 a cloud illumined by the rising sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -397,8 +383,6 @@ paNchashiirSaiH uragairiva* = and looking like large five-hooded serpents
 Ravana was distinguished by (twenty) arms, adorned with bracelets, smeared with excellent
 sandal-paste and decked with shining Angadas another variety of bracelets and looking like large five-hooded
 serpents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -448,8 +432,6 @@ picturesque; *ratna samyoga samskR^ite* = by being embedded with jewels; *uttmaa
 
 He was comfortably seated on a big excellent throne of crystal, rendered picturesque
 by being embedded with jewels and overspread with an exquisite covering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -495,8 +477,6 @@ alankR^itaabhiH* = well adorned; *vaalavajanahastaabhiH* = with whisks in their 
 
 He was duly waited upon at close quarters on all sides by young ladies, well-adorned
 and with whisks in their hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -558,8 +538,6 @@ saagaraiH* = by four oceans.
 He was proud of his might and had four counselors sitting nearby, all belonging to the
 demonical race and who knew the secret of good counsel, viz. Durdhara, Prahasta, Mahaparshva the demon
 and the counselor Nikumbha and looked like the entire terrestrial globe enclosed by four oceans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -610,8 +588,6 @@ other; *rakSobhiH* = demons; *shubhabuddhibhiH* = with; *rakSobhiH* = demons;
 
 He was being reassured by counselors knowing the secret of good counsel and other demons
 with auspicious minds, as Indra the lord of celestials is reassured by celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -660,8 +636,6 @@ satoyam toyadam iva = like a rainy cloud; *merushikaare* = on the peak of Mount 
 
 Hanuma saw Ravana with a great splendor, sitting on the throne, looking like a rainy
 cloud on the peak of Mount Meru.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -708,8 +682,6 @@ demons; *saH* = that Hanuman; *bhiimavikramaiH* = of terrific prowess; *gatvaa*
 
 Though tortured by the demons that Hanuma, of terrific prowess, experiencing a great
 surprise, looked attentively at Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -756,8 +728,6 @@ surprise, looked attentively at Ravana.
 
 Seeing the glittering Ravana, the king of demons, Hanuma was bewildered by his splendor
 and thought in his mind as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -804,8 +774,6 @@ has.
 
 "What figure, what courage, what strength, what splendor and what amalgam of auspicious
 marks, alas, this king of demons has!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -852,8 +820,6 @@ celestials; *sashakrasya* = including Indra the Lord of celestials.
 
 "Had this lord of demons perhaps not strong in unrighteousness, he would have been a
 protector of even the world of celestials together with Indra the lord of celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 </details>
 
@@ -918,8 +884,6 @@ a single ocean.
 "By his cruel and violent acts despised by the world, all people including gods and demons
 indeed remain frightened of him. If enraged he is indeed capable to turn the entire world into a single
 ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -940,8 +904,6 @@ ocean."
 
 Seeing the power of Ravana the king of demons, who possessed an unlimited vigour, the
 intelligent Hanuma formulated many kinds of thoughts in this way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

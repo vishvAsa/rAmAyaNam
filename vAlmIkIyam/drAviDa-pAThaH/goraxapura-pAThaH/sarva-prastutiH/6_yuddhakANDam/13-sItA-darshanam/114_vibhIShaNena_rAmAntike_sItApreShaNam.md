@@ -14,8 +14,6 @@ title = "११४ विभीषणेन रामान्तिके स�
 
 Rama sends Vibhishana to bring Seetha to his presence. Vibhishana brings Seetha to
 Rama's presence. Seetha casts her looks on the moon-like face of Rama, her beloved husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -99,8 +97,6 @@ fruit.
 
 "You ought to see Seetha that divine lady who is consumed by grief, for whose sake
 this course of actions was undertaken and which has (now) borne fruit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -179,8 +175,6 @@ Lakshmana.
 "By her, who has trust in me because of confidence which has trust in me because of
 confidence which had been inspired me on a former occasion, I was spoken as follows: 'I desire to
 see my husband, who has accomplished his purpose, together with Lakshmana.'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -244,8 +238,6 @@ bit thoughtful.
 
 Hearing Hanuma's words, Rama who was the foremost among the supporters of
 righteousness, was a little over whelmed with tears and suddenly became a bit thoughtful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -261,8 +253,6 @@ closely resembled a cloud in hue; *upasthitan* = and who was standing nearby.
 
 Drawing a deep and warm breath and casting his looks on the ground, he spoke (as
 follows) to Vibhishana, who closely resembled a cloud in hue and who was standing nearby.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -303,8 +293,6 @@ beautiful jewels; *maa chiram* = let there be no delay.
 
 "Bring here Seetha, after she has bathed her head, has been anointed with charming
 cosmetics and adorned with beautiful jewels. Let there be no delay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -345,8 +333,6 @@ gyaecium; *tvaramaaNaH* = in haste; *achodayat* = communicated his presence;
 
 Hearing the words of Rama, Vibhishana, after entering the gynaecium in haste,
 communicated his presence to Seetha, through his own women.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -388,8 +374,6 @@ over his head; *viniitaH* = humbly; *uvaacha* = spoke (as follows):
 
 Then, the glorious Vibhishana the king of demons, after seeing the highly fortunate
 Seetha, with his palms joined over his head, humbly spoke to her as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ charming cosmetics; *divyaabharaNa bhuuShitaaH* = and adorned with beautiful jew
 
 "O Seetha! Anointed with charming cosmetics and adorned with beautiful jewels if you
 please, mount on the vehicle. Your husband wants to see you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ raakShaseshvara = O king of demons!; *ichchhaami* = I wish; *draShTum* = to see;
 
 Hearing the words of Vibhishana, replied as follows: "O king of demons! I wish to
 see my husband, even without taking my bath."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -531,8 +511,6 @@ see my husband, even without taking my bath."
 
 Hearing those words of Seetha, Vibhishana replied as follows: "You ought to do the
 bidding of Rama, your husband, as he has enjoined you to do."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -580,8 +558,6 @@ bidding of Rama, your husband, as he has enjoined you to do."
 
 Hearing those words of Vibhishana, the virtuous Seetha, regarding her husband as a
 divinity, endowed as she was with a devotion to her husband, said in reply, "So t be!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -656,8 +632,6 @@ Prevailing upon Seetha to ascend a shining palanquin, covered with an exceedingl
 valuable cloth and guarded by numerous demons, after she had bathed her head and cleansed her body,
 had put on costly robes and had been adorned with exceedingly valuable jewels, Vibhishana then
 brought her to the presence of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -706,8 +680,6 @@ to him; *siitaam praaptaam* = that Seetha had arrived.
 Approaching the great-souled Rama, who was absorbed in thought, even after coming to
 know that Seetha had arrived, Vibhishana offered his obeisance and with full of great joy,
 announced to him that Seetha had arrived.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -750,8 +722,6 @@ all the three (at once).
 
 Hearing that Seetha had arrived after living long in the abode of a demon, Rama was
 filled with joy, indignation and felt miserable too all the three emotions at the same time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -773,8 +743,6 @@ wielders of the bow; *kamala patraakSham* = and whose eyes resembled the louts-p
 Having offered his salutation to that Rama, who was excellent among all the wielders
 of the bow and whose eyes resembled the lotus-petals, that highly intelligent Hanuma spoke to him
 as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -823,8 +791,6 @@ spoke; *idam vachaH* = the following words; *dR^iShTvaa* = looking at;
 Feeling unhappy on considering with deep thought, the question of Seetha having come
 in a palanquin, all the way, Rama then spoke the following words, looking at Vibhishana who was
 beside him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -868,8 +834,6 @@ Seetha; *samupagachchhatu* = duly seek; *me samnikaSham* = my presence;
 
 "O the gently king of demons, who is forever intent on my victory! Let Seetha duly
 seek my presence quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -916,8 +880,6 @@ who knew what was right; *utsaaraNam kaarayaamaasa* = began to disperse the peop
 
 Hearing those words of that Rama, Vibhishana, who knew what was right, began to
 disperse the crowd there quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -967,8 +929,6 @@ _________________
 
 Demons wearing jackets and turbans, their hands carrying staffs which made a
 jingling sound, walked there all round, dispersing those warriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1015,8 +975,6 @@ maaNaani* = dispersed; *sarvashaH* = on all sides; *utthasthuH* = bounced;
 
 Crowds of bears, monkeys and demons, dispersed on all sides, bounced for a distance,
 from their nearness to the palanquin.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1063,8 +1021,6 @@ that way); *abhuut* = there was; *sumahaan svanaH* = a very great sound;
 
 While those warriors were being driven away, there was a very great sound,
 resembling the roar of a sea, lashed by a storm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1107,8 +1063,6 @@ behaviour of the demons who were dispersing them).
 Seeing them being dispersed on all sides excited, Rama then stopped that operation
 of those who were dispersing them, out of kindness (for those who were being driven away) and
 resentment (at the behaviour of the demons who were dispersing them).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1155,8 +1109,6 @@ vibhiiShaNam* = to the highly intelligent Vibhishana.
 
 The enraged Rama, consuming the demons with his looks as it were, Rama spoke the
 following reproaching words to the highly intelligent Vibhishana
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1203,8 +1155,6 @@ these; *janaH* = people; *svajanaH* = are my own people.
 
 "Why disregarding me, are these people harassed by you? Stop this exertion. They are
 my own people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1255,8 +1205,6 @@ nor; *tiraskR^iyaa* = the concealments; *na* = nor; *iidR^ishaaH* = such;
 
 "An apartment is not a thing that protects a woman, nor robes, nor compound-walls,
 nor concealments nor such royal honours. Her character is her shield."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1308,8 +1256,6 @@ ceremonies; *na vaa* = nor; *vivaahe* = in marriage functions.
 "A woman becoming visible to public in times of a calamity is not condemned in
 difficult situations, nor in battles, nor in self-choosing of a husband by a princess at a public
 assembly of suitors, nor in sacrificial ceremonies nor in marriage-functions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1357,8 +1303,6 @@ presence.
 
 "The younder Seetha is in distress and beset with a great difficulty. There is no
 fault in her appearance in public, particularly in my presence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1405,8 +1349,6 @@ Seetha; *mama samiipe* = in my presence.
 
 "That is why, let her come on foot alone, leaving the palanquin there. Let these
 monkeys see Seetha in my presence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1447,8 +1389,6 @@ with decency; *upaanayat samnikarSham siitaam* = brought Seetha to the vicinity;
 
 Hearing the words of Rama the intelligent Vibhishana, with decency, brought Seetha
 to Rama's vicinity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1489,8 +1429,6 @@ babhuuvuH = became; *bR^isham* = very much; *vyatitau* = perturbed.
 
 Hearing the words of Rama, Lakshmana Sugreeva and Hanuma the monkey then felt very
 much perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1531,8 +1469,6 @@ much perturbed.
 
 From the pitiless facial features of Rama, showing indifference to his consort, they
 conjectured as if Rama had some displeasure towards Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1573,8 +1509,6 @@ with modesty; *abhyavartata* = approached; *bhartaaram* = her husband;
 
 Seetha, for her part, shrinking into her limbs with modesty, approached her husband,
 duly followed by Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1622,8 +1556,6 @@ duly followed by Vibhishana.
 
 The pleasant-faced Seetha, who considered her husband as the divinity, saw the
 charming face of her husband, with a surprise, rejoice and affection.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 </details>
 
@@ -1665,8 +1597,6 @@ time; *uditachandra puurNa kaantam* = and which was charming like the rising ful
 
 Seeing the face of her beloved husband, which had not been seen for a long time and
 which was charming like the rising full moon, she forth dispelled her mental fatigue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1687,8 +1617,6 @@ which was charming like the rising full moon, she forth dispelled her mental fat
 
 "Hearing the news of your victory, that Seetha, stricken as she was with grief, is
 now longing to see you, her eyes filled with tears of joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

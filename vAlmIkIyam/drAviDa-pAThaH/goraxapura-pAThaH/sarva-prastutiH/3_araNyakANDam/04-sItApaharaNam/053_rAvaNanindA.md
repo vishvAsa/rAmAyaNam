@@ -17,8 +17,6 @@ III : Aranya Kanda - The Forest Trek**
 Seetha denounces Ravana's misdeed and challenges him to brave her husband in a manly
 combat, rather than thieving her in a mousy way. She reasons with him about his propriety in
 abducting other's wives, in vainglory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ highest, dismay, remaining in; *duHkhitaa* = she is distraught.
 
 Maithili, the daughter of Janaka, on seeing the skyward flight of Ravana taking her
 along became highly frantic and remaining in highest dismay she is distraught. [3-53-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ chief; *karuNam idam abraviit* = piteously, this, said [poured scorn on Ravana.]
 Seetha whose eyes turned coppery-red with tears and resentment, still outpouring
 tears while being abducted she piteously poured this scorn on that gory-eyed demon's chief, Ravana.
 [3-53-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ not ashamed in the least.
 
 "You knave Ravana, you are taking flight on thieving me after prowling about my
 loneliness, such as you are, are you not ashamed in the least for this subterfuge. [3-53-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ Golden-Deer's, guise; *apa vaahitaH* = to side, lined - led away from hermitage;
 
 "You black-hearted fiend, for sure, you alone sidelined my husband in a trickish
 guise of Golden Deer wishful to abduct me as you are a coward. [3-53-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ father-in-law, such as he is he is also felled, indeed. [3-53-5]
 Annex: 'You have felled an old and withered eagle after a long-drawn battle...
 then, how long can you battle that Raghava? Does this felling of an age-old eagle adds any feather
 to your crown?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -344,8 +332,6 @@ and thus triumphing over me - or what? Tell me, you mousy demon...
 "Unable to conquer my husband in a combat, but able to earbash your name to a lonely
 woman and abducting her, will this tantamount to your apparently audacious audacity? Thus, I am not
 really triumphed over by a lowly demon like you... [3-53-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -368,8 +354,6 @@ deplorable deed, how unashamed are you? [3-53-7]
 
 Annex: 'Will not the other males deplore you for your unmasculine female
 stealing, for this kind of undertaking is unobserved even in animal world?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -422,8 +406,6 @@ yours will be recounted by all men in all worlds. [3-53-8]
 Annex: 'For this is an unmanly action of yours, all the manly men wish to
 recount this as a fabulously fabled account, in dissent, for exemplification of their manliness and
 also to retroject your self-vainglory...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -479,8 +461,6 @@ captivating me, damn with them... since there is not an iota of gallantry in thi
 one in the thick of the forests... and this misdemeanour of yours which not only ruins you but
 becomes a lamentable affair to whole of your clan, while being burnt in the infernos of Raghava's
 arrows...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ Annex: 'You are fleeing as though death is haunting you... death is at your
 behind... wait, wait and stay... it will approach you speedily... when death nears you, let us
 watchfully ascertain whose is glory or whose is vainglory... between your Death similar Raghava and
 deadened you...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -587,8 +565,6 @@ samarthaH hi* = moment, even, to live on, not, capacitated you are, indeed.
 "On your coming into the line of sight of those two princes, even if you are with
 whole of your military, you will be incapacitated to live on, indeed even for a moment...
 [3-53-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -645,8 +621,6 @@ Annex: 'After all, birds flee by the very touch of fiery air of forest fire even
 it is burning distantly... thus, where is the question of your tolerating those infernos, called my
 husband's arrows, shot from long, long a distance... and whereby you can stop them from hitting
 you, or with what you can retaliate them...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -708,8 +682,6 @@ their indignation. Seetha spewed out a stomachful of ire. Pausing a while, she n
 sermonise this demon with *hita bodha* 'moral teaching...' thinking in 'his' shoes and
 foreseeing 'his' annihilation. What and why does he care? And how does she bother for his
 well-being? These questions have their answers in mythology.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -764,8 +736,6 @@ Seetha's wording should have been 'for lovemaking with me...' instead of
 'endeavour' but as an urbane lady, she used a + graamya pada prayoga, 'urbane' language rather than
 the graamya bhaaSa 'boorish wording.' Her calculated and cultured talking indicates her staunchness
 in her 'husband-devoutness...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -821,8 +791,6 @@ after this dialogue. She prefers to use whatever means to end her life, rather t
 immorality. To indicate this 'character's mood' *paatra aucityam* of Seetha, all her opinions about
 'somebody's possessing her' were listed when Lakshmana was hastened after Rama, though at the cost
 of Lakshmana's steadfastness in his duty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -887,8 +855,6 @@ Annex: 'Bechanced is your death-time hence you behave eccentrically and as a
 dying person wants to feast on with disagreeable foods, you also would like to consume a lethal
 poison, that is me, and on your death Yama, the Terminator, is ready to offer you a sumptuous feast
 with hellish edibles...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -905,8 +871,6 @@ behold, indeed.
 
 "But which is recuperative that is unpalatable to all of the death-rattlers, and
 indeed, I behold you as one around whose throat the noose of Time is looped. [3-53-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -958,8 +922,6 @@ indeed.
 "As you are dauntless in this daunting situation as for yourself, oh, Decahedral
 demon, indeed it is clear that you are clearly fantasising the ill-omened golden trees all around.
 [3-53-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -1021,8 +983,6 @@ thus; pashyasi you will see.
 "Oh, Ravana, you will see the ghastly River Vaitarani which will be tumultuously
 streaming with blood streams, also thus you will see the grisly sword-leaved-forests in hell.
 [3-53-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1053,8 +1013,6 @@ This is a kind of punishment in a section called *asi patra vana*
 silk-cotton tree like wooden structure with golden leaves and sappharine flowers and irony thorns,
 where all these items will be sweltering the sinners besides pinching and piercing with thorns.
 This punishment is aimed at those who abduct, molest, or rape the other man's wife.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -1119,8 +1077,6 @@ that Seetha is saying that 'the lasso of the Time is very long, but its noose is
 and that noose is already noosed around your throat, called arm-length-sized arrow of Rama, already
 shot from his bowstring, called sting-like Seetha, as I am his and only his... as such, inescapable
 you are, anywhere you go...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1141,8 +1097,6 @@ you will get complacency from that uncompromising husband of mine? [3-53-22b, 23
 
 Ravana may say: 'is it? What is the proof of his mettle basing on which you
 sermonise me?' For this, her reply is in the next verse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -1209,8 +1163,6 @@ kills.
 single-handedly without any help from his brother, how then that brave and mighty Raghava, an
 expert in all kinds of missiles, will not eliminate you, the stealer of his chosen wife, with his
 mordant arrows?" Thus Seetha poured forth her ire at Ravana. [3-53-23b, 24, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -1257,8 +1209,6 @@ mordant arrows?" Thus Seetha poured forth her ire at Ravana. [3-53-23b, 24, 25a]
 
 On saying this much and other exacting words, Vaidehi who has gone onto the flank of
 Ravana, indeed lamented lamentably as her dismay is coalesced with her distress. [3-53-25b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 </details>
 
@@ -1321,8 +1271,6 @@ She who is highly agonised and weeping before talking, a ranter who ranted much,
 resentful lady who has come of age, and a pitiable whirler in the hands of demon whose whirligig
 has transformed into spasmodic jerking of her body for deliverance from that sinner, and in that
 way that sinner stole that princess Seetha. [3-53-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

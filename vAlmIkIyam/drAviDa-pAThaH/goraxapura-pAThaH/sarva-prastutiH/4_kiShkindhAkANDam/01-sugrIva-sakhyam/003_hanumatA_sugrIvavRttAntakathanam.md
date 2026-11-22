@@ -29,8 +29,6 @@ i.e., Veda-s. In mythology, Hanuma is taken as the *veda vedaanga paarangataH*,
 knower of all Vedas, and their subsidiary scriptures, *nava vyaakarana panditaH*,
 scholar in nine schools of grammars, *buddhimata variSTaH* , cleverest of
 the clever. He is the supreme scholar, teacher, and the cleverest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -81,8 +79,6 @@ words, mindful of; *puplave* = took his flight; *parvataat R^iSyamuukaat* = from
 
 Mindful of the words of noble-souled Sugreeva, Hanuma took his flight from Mt. Rishyamuka to where Raghavaa-s
 are. [4-3-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -135,8 +131,6 @@ of ascetic, thinking that nobody tells a lie to an ascetic, and thus he wanted t
 an ascetic's form, but futile is his effort. Rama or Lakshmana will go on listening to what Hanuma says,
 without any reply. Hanuma himself is vexed at their silence and he has to come out of his guise to reveal
 his original form, as at 4-3-19.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -188,8 +182,6 @@ praising, also.
 
 Then on nearing Raghava-s that Hanuma voicing softly and well pleasingly like an obedient one, that
 best monkey befittingly hailed, greeted and praised those two valiant ones. [4-3-3, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -210,8 +202,6 @@ words, spoke.
 
 The best Vanara Hanuma spoke soft-wordily, as desired by Sugreeva, to those candidly resolute ones,
 on making reverent obeisance to both of them. [4-3-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ scaring; *imam desham katham praaptau* = this, country-side, how you arrived.
 "You two look like kingly saints, or deities by your build, ascetics with blest vows, but with ideal
 complexions... how come you arrived at this countryside scaring the herds of animals and other inhabitants
 of this forest... [4-3-5b, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -291,8 +279,6 @@ your presence on these banks you make this river Pampa with its propitious water
 but you with your golden hue appear as courageous ones, yet you sigh over repeatedly, you wear jute-cloths,
 yet you look mighty shouldered... who are you that distress all the beings in this forest... [4-3-7,
 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -362,8 +348,6 @@ foremost..
 "Dauntless, bold and brave are you with sharp glances of lions, wielding bows like that of Indra's bow
 you are the real enemy destroyers... glorious, splendid, and even impetuous you appear like Sacred Bulls...
 elephant's trunks are your arms... and you foremost among men are self-resplendent... [4-3-9, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -409,8 +393,6 @@ divinities-like; *iha desham katham aagatau* = now, to country-side, how, you re
 
 "This lord-like mountain is effulgent with your effulgence, you two look as kingdom-worthy, or worthy
 divinities, but how you have reached this countryside now... [4-3-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -486,8 +468,6 @@ you some undaunted human ascetics... nay, you look clonal, are you from some wor
 are on earth, does this earth have a chance to receive Sun and Moon on her by her fortune... nay, are
 you some broad-chested deities in human form... lion-shouldered, very vehement and vigorous like Sacred
 Bulls... who you might be... [4-3-12, 13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -568,8 +548,6 @@ them. The *parighaH* in simple terms means, clubs, bludgeon, or ancient dumbbell
 present day dumbbells of gym, but the word is deciphered to be *pari gha* fully, removing, or
 fully, falling to one's lot. That is, here these shoulders are mighty to eliminate Vali and these
 hands if shook by Sugreeva in friendship, Sugreeva's miseries will be removed completely.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -584,8 +562,6 @@ hands if shook by Sugreeva in friendship, Sugreeva's miseries will be removed co
 
 "I deem that each of you are the choicest one to protect the earth adorned with Mt Meru and Vindhya
 range, and with all her oceans and forests... [4-3-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -632,8 +608,6 @@ like, Indra's; *hema vibhuuSite* = in gold, decorated; *vajre iva* = Thunderbolt
 
 "And these awesome bows are polished with odd things are smooth, and they are brightening like the gilded
 Thunderbolt of Indra. [4-3-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -680,8 +654,6 @@ full with, also.
 
 "Full with hazardous, life terminating, fiery snake like sharp arrows are these quivers, admirable in
 their appearance... [4-3-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -730,8 +702,6 @@ burnt [refined,] gold, decorated with; *khaDagau etau viraajete* = swords, these
 
 "Dazzling are these amply wide, broad and gilded swords like the snakes just released from their moults...
 [4-3-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -807,8 +777,6 @@ Apart from this, Rama is following his own Imperial protocol of assessing the pe
 his own, who is talking like this one, and who has high knowledge of all the scriptures. This analysis,
 Rama gives to Lakshmana after a few more verses. For now, Hanuma had to yield to high resistance from
 those two brothers, and is going to reveal himself, with a come-what-may attitude.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -857,8 +825,6 @@ ones, by king; *tena SugreeveNa* = by him, by that Sugreeva; *preSitaH* = delega
 
 "Delegated by that great soul and the king of important monkeys Sugreeva, I have come here and by name
 I am Hanuma, another Vanara... [4-3-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -917,8 +883,6 @@ alter; *pavana aatmajam vaanaram* = son of, Air-god, a monkey [thus you may know
 the son of Air-god... I had to come here from Mt. Rishyamuka in an ascetic's form only to appease that
 Sugreeva, and I can wend my way by my will, and wear any guise as I wish..." Hanuma said so to those
 brothers. [4-3-22, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -964,8 +928,6 @@ tu* = thus, saying, only; *punaH kinchanaH na uvaacha* = further, anything, not 
 
 Saying thus to those valorous Rama and Lakshmana, Hanumaan, the sententious wordsmith, spoke nothing
 further. [4-3-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1021,8 +983,6 @@ with envoys or ambassadors. Later Rama asks Lakshmana to conduct the dialogue wi
 to have another reason. Because Lakshmana is another wordsmith, equalling Hanuma by way of his knowledge
 in scriptures, Rama assigns that duty to Lakshmana. Now Rama's analysis of this envoy's knowledge, thereby
 gauging his master's virtuousness, is made know to Lakshmana in the following verses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1068,8 +1028,6 @@ alone, [I am] cherishing, at my, near, he arrived.
 
 "He is the minister of that noteworthy soul and king of monkeys, Sugreeva... whom alone I cherish, but
 he himself has drew nigh of me, on his own... [4-3-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1127,8 +1085,6 @@ destroyer, because Rama has not yet concluded on Hanuma's epithets. In Chaukambh
 Gorakhpur version and in Eastern versions it is *arindama* , in vocative case only, but
 Baroda and Tokunaga versions and some more have this as *arindamam*, objective case. Similar
 usage can be found in this chapter at 4-3-36, *vaajyaj~naH, vaakyaj~nam* etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1197,8 +1153,6 @@ which has its bearing on the Yajurveda quote *ajaayamaano bahudhaa vijaayate...*
 said having lotus-petal like eyes, at 4-3-11, taking clue from cChandogya of Saamaveda, *
 myathaakapyaasam punDariikam evaakshiNii...*. Hence these utterances of Hanuman are said to have
 direct base in the Veda-s.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1255,8 +1209,6 @@ thereon is to be implemented in society. A simple recitalist is known as *chaa.n
 orthodox fellow, while the user of that knowledge for the good of society is *vyavahaarta*
 practical fellow. Hence Hanuma is implementing the grammar and training received originally as a
 Vedic scholar, because he is a practical one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1319,8 +1271,6 @@ worst reciters.
 1] Undue stretching, 2] quickening the pace, 3] nodding the head 4] reading by
 seeing written texts without memorising 5] unknowing the meaning, 6] weak-voiced, are thus the six
 sorts of worst reciters of Vedic hymns.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1388,8 +1338,6 @@ Reading scriptures with 1] doubting, 2] fearing, 3] shouting,4] unclear, 5]
 nasal, 6] shrieking, 7] high-pitched, and like with 8]improper sounds placement, 9] melody-less,
 10] rudely, and also 11] letters torn apart, 12] rendering negative meaning, 13] chaotic, 14]
 labiovelar, are the fourteen reciting mistakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1452,8 +1400,6 @@ of Veda-s:
 
 With sweet voice, enunciated syllables, properly parting the words, quick and
 confident, and rhythm included are the six best qualities of best reciters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 
 </details>
@@ -1508,8 +1454,6 @@ Three places to generate speech are *urashi* at chest, *shirashi*
 at head, *kanTha* at throat. A real speqker of his mind has to generate his speech in these
 three areas, without rendering any lip service. Again this is the rule of Vedic *siksha*
 namely the training.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1552,8 +1496,6 @@ kaaryaaNaam katham siddhyanti* = his, works [means,] ways, how, they will accomp
 
 "Oh, faultless Lakshmana, if this sort of envoy is not there to a king, really how can that king accomplishes
 his ways and means... [4-3-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1597,8 +1539,6 @@ by; *siddhyanti* = are achieved;
 
 "Should a king have this kind of work accomplishers with a variety of virtues, all his objectives will
 be achieved impelled by such an envoy's words..." Rama thus said to Lakshmana. [4-3-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1645,8 +1585,6 @@ j~naH* = wise-worded one; *vaakyaj~nam* = to [another] wise-worded one; *pavamaa
 
 When said thus by Rama, wise-worded Lakshmana spoke to that monkey and the minister of Sugreeva, namely
 Hanuma, the son of Air-god, who is equally a wise-worded one. [4-3-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1693,8 +1631,6 @@ alone.
 
 "The virtues of that great soul Sugreeva are known to us, oh, scholarly monkey, we for our part are
 in search of that lord of fly-jumpers Sugreeva alone... [4-3-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1741,8 +1677,6 @@ indeed.
 
 "As you communicated the words of Sugreeva, oh, gentle Hanuma, by them and by your words we indeed wish
 to do accordingly... [4-3-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 </details>
 
@@ -1797,8 +1731,6 @@ sakhyam kartum iyeSa* = then, to them, friendship, to materialise [at the earlie
 On observing that operative sentence of Lakshmana the monkey Hanuma is gladdened, as seen from his composure,
 and kept his mind at ease at the prospective victory, and then he wished to materialise the pact of
 friendship between Rama ad Sugreeva, at the earliest. [4-3-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

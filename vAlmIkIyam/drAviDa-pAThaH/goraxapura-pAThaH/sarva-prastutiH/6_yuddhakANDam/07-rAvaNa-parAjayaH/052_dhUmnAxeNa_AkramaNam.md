@@ -18,8 +18,6 @@ the demons and the monkeys. The battle reached frightful proportions in that bot
 demons were killed in large numbers. When Dhumraksha pounced on Hanuman, the latter shattered
 Dhumraksha's chariot to pieces. Lifting his mace, Dhumraksha fights with Hanuman, who in turn hits
 him on his head and kills him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ for war.
 
 Beholding the demon, Dhumraksha of terrible prowess coming forth, all the monkeys
 waiting for the war, roared with joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -127,8 +123,6 @@ and maces.
 
 A highly tumultuous battle was seen between those monkeys and demons, who were
 slaying each other, with terrible trees, lances and maces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ monkeys.
 
 The terrible monkeys were moved down on all sides by the demons. The demon too were
 levelled down to the earth with trees by the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ appearance.
 
 Enraged with anger, the demons, on their part, paralyzed the monkeys with sharp and
 frightful arrows, going as straight as wings of eagle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -289,8 +279,6 @@ with an excitement born of anger.
 While being torn asunder by the demons with terrible maces, spears, hammers,
 frightful iron bars and variegated tridents, the mighty monkeys fearlessly accomplished their tasks
 with an excitement born of anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ trees; *shilaashcha* = and rocks; *tatra* = there.
 
 While their bodies were split up by the tridents and their limbs broken by arrows,
 those leaders of monkeys took up trees and rocks there to fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -379,8 +365,6 @@ and called out; *naamaanicha* = their names.
 
 Those terribly swift monkeys, roaring aloud harassed the valiant demons at all
 places, by calling out their names.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ demons; *babhuuva* = became; *adbhutam* = wonderful.
 
 That awful battle with all kinds of rocks and trees furnished with many branches
 between monkeys and demons appeared wonderful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ vomitted; *rudhiram* = blood; *mukhaiH* = from their months.
 
 Some demons were crushed by monkeys, who conquered fear and some blood-sucking
 demons vomited blood from their mouths.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -524,8 +504,6 @@ torn; *dantaiH* = by teeth.
 
 Some demons were slashed open at their sides. Some were formed into a heap by the
 trees. Some others were crushed by stones and yet others torn to pieces by the monkeys teeth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -575,8 +553,6 @@ some; *rajaniicharaaH* = demons; *vyathitaaH* = were perturbed.
 
 With their standards crushed and broken, their swords snapped and their chariots
 overturned, some demons were perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -620,8 +596,6 @@ scattered; *gajendraiH* = with elephants; *parvataakaaaiH* = resembling hills;
 
 Crushed by the great rocks of monkeys, the earth was scattered with corpses of great
 elephants resembling hills and horses with their riders.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -673,8 +647,6 @@ terrific prowess; *vegitaiH* = and swiftness; *raakSasaaH* = the demons;
 The monkeys of terrific prowess rushed upon the demons, flinging themselves upon
 them with great bounds horizontically and vertically and scratching their faces with their sharp
 nails.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -721,8 +693,6 @@ very much; *viprakiirNashiroruhaaH* = their hair torn out; *muuDhaH* = maddened;
 
 With their faces dejected very much, their hair torn out and maddened by the smell
 of blood, those demons fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -769,8 +739,6 @@ their palms; *vajrasparsha samaiH* = having a diamond-like blow.
 
 Some other demons of exceeding valour, who were enraged, very much, ran up towards
 the monkeys to attack them with their palms having a diamond-like blow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -817,8 +785,6 @@ fists; *charaNaiH* = feet; *dantaiH* = teeth; *paadapaishcha* = and tress.
 
 The monkeys, receiving that sharp shock, with even a greater ferocity, crushed the
 demons with blows of their fists, feet teeth and trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ blood-shed; *vaanaraaNaam* = of the monkeys; *yuyutsataam* = wishing to fight.
 
 Seeing his army routed, Dhumraksha that lion among the demons, in his anger began to
 create a blood-shed of the monkeys wishing to fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -917,8 +881,6 @@ surgface.
 
 Some monkeys pierced with spears lost rivers of blood while others struck down by
 blows of axe, fell to the earth's surface.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -968,8 +930,6 @@ javelins; *vihvalantaH* = were exhausted; *gataasavaH* = and lost their lives.
 
 Some were crushed by iron bars, others torn by harpoons, some others pierced by
 javelins, all exhausted and lost their lives.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1017,8 +977,6 @@ fell on the ground; *kechit* = some others; *naSTaaH* = disappeared;
 
 Slain in battle by infuriated demons, some monkeys, drenched with blood, fell on the
 ground and some others disappeared, having been driven away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1068,8 +1026,6 @@ _________________
 
 With pierced hearts, some monkeys were made to lie down on one side. Some were torn
 asunder by tridents that even their intestines came out.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1119,8 +1075,6 @@ intense between monkeys and demons; *shilaapaadapa samkulam* = crammed with rock
 
 That mighty battle assumed most awful proportions in that monkeys and demons were
 crammed with rocks, trees and multitude of weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1167,8 +1121,6 @@ giitam* = and vocal music in the form of trumpeting of elephants.
 
 With the bow-strings as the tuneful lute, the neighing of horses as a measure rhythm
 and the trumpeting of elephants as the vocal music, the whole battle resembled a symphony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1218,8 +1170,6 @@ battle-front; *vidraayaamaasa taan vaanaraan* = made those monkeys to run away;
 
 Dhumraksha on his part, wielding a bow in his hand and laughing at the battle-front,
 made those monkeys to run away to all the quarters by a shower of his arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1267,8 +1217,6 @@ rock.
 
 Seeing the army perturbed due to tormented by Dhumraksha, Hanuman was enraged and
 turned towards him, taking a gigantic rock in his hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1315,8 +1263,6 @@ rock; *ratham prati* = towards the chariot; *dhuumraakSasya* = of Dhumraksha.
 
 Hanuman, who was equal in strength to his father, with his eyes inflamed with anger,
 flung the rock on the chariot of Dhumraksha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1364,8 +1310,6 @@ earth.
 
 Beholding the befalling rock, Dhumraksha lifting his mace hurriedly, jumped down
 speedily from the chariot and stood there on the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1412,8 +1356,6 @@ to the ground.
 
 Shattering his chariot with its wheels, its pole, its crest along with banner and
 bows, that rock rolled down to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1461,8 +1403,6 @@ shoots.
 
 Thereafter, Hanuman the son of Maruta (the wind-god), after breaking the chariot,
 destroyed the demons with trunks of trees furnished with their branches.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1509,8 +1449,6 @@ destroyed the demons with trunks of trees furnished with their branches.
 
 With their heads crushed, the demons were drenched with blood. Some others were
 crunched by the trees and fell down to the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1556,8 +1494,6 @@ crunched by the trees and fell down to the earth.
 
 Having driven away the army of demons, Hanuma born of Maruta, breaking off the peak
 of a mountain, ran towards Dhumraksha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1607,8 +1543,6 @@ sound; *abhidravat* = ran; *tam hanumantam* = towards that Hanuma;
 
 The valiant Dhumraksha lifted his mace and making a roaring sound, ran towards that
 Hanuman who was rushing on him suddenly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1658,8 +1592,6 @@ hanuumataH* = of that Hanuman.
 
 Thereafter, Dhumraksha with an outrage, brought down that mace studded with
 countless spikes on the head of that Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1711,8 +1643,6 @@ on the middle of the skull; *dhuumraakSasya* = of Dhumraksha.
 
 That Hanuman, who was endowed with an energy similar to the wind, was in no way
 disturbed by that blow but struck Dhumraksha on the middle of his skull with his rocky peak.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1759,8 +1689,6 @@ ground; *parvataH iva* = like a mountain; *vikiirNaH* = crumbling.
 
 That Dhumraksha, struck by the rocky peak, which shattered all his limbs, soon fell
 down on the ground like a mountain crumbling.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1808,8 +1736,6 @@ Lanka.
 
 Seeing Dhumraksha having been killed, the demons left surviving were frightened of
 being killled by the monkeys and re entered Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 </details>
 
@@ -1870,8 +1796,6 @@ weary of slaughter of enemies; *mudam* = with delight; *agamat* = received;
 That illustrious Hanuman the son of Pavana having destroyed his enemies, causing
 rivers of blood to flow, weary of slaughter of the enemies, with delight, received the cordial
 felicitations by the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga52/yuddhasans52.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

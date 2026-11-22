@@ -17,8 +17,6 @@ Bharata replies that it is an established practice for the eldest son to become 
 king and requests Rama to come to Ayodhya and get crowned in the kingdom for the welfare of
 Ikshvaku race. Bharata requests Rama to offer traditional libations of water to their deceased
 father, who died wtih the thought of Rama alone, absorbed in his mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ kariSyati raajadharma* = "What will the discharge of royal duties amount; *me* =
 
 Hearing Rama's words, Bharata replied as follows: "What will the discharge of royal
 duties amount to me, who is outside of that code?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ the elder son is there; *kaniiyaan* = the younger son; *na bhavet* = cannot beco
 
 "O, the foremost of men! O, Majesty! It has been ever the established tradition in
 us that while the elder son is there, the younger one cannot become a king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 </details>
 
@@ -159,8 +153,6 @@ race; *naH* = of ours.
 
 "O, Rama! Therefore, come to the prosperous Ayodhya along with me and get anointed
 in kingdom for the welfare of our race."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 </details>
 
@@ -203,8 +195,6 @@ conceded; *mama* = by me; *devatve* = as a godhead.
 "The king, whom people speak of as a human being and whose conduct is in conformity
 with righteousness and worldly prosperity, they declare as super- human, is conceded by me as a
 god-head."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 </details>
 
@@ -253,8 +243,6 @@ has gone; *divam* = to heaven.
 "While I was there in Kekaya kingdom and you had proceeded tot he forest, the king
 Dasaratha, the revered one who was given to the performance of sacrifices and was honoured by the
 virtuous, has gone to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 </details>
 
@@ -295,8 +283,6 @@ and ascended; *tridivam* = to the most sacred heaven."
 
 "Hardly were you gone with Seetha and Lakshmana, than the king succumbed to
 misfortune and grief and ascended to the most sacred heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 </details>
 
@@ -341,8 +327,6 @@ libations of water.
 
 "Arise, O the Tiger among men! Let the traditional libations of water be offered to
 our father. Shatrughna and I have previously done it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 </details>
 
@@ -389,8 +373,6 @@ our father. Shatrughna and I have previously done it."
 
 "O, Rama! It is said that the one given by an affectionate son becomes measureless
 and you undoubtedly are beloved to our father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 </details>
 
@@ -446,8 +428,6 @@ died; *samsmaran* = recollecting; *tvaam* = you.
 "Entirely abandoned by you, lamenting about you, desirous of beholding you, being
 not able to turn away his mind absorbed in you alone, immersed in grief of you and recollecting
 you, your father died."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga102/ayodhyasans102.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

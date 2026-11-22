@@ -19,8 +19,6 @@ Spending seven nights in his journey, crossing various streams and rivers and
 passing through many woods and territories, Bharata reaches the city of Ayodhya, from there ,he
 finds the city of Ayodhya in a forlorn mood and discusses this situation with the charioteer. With
 an apprehensive and gloomy mind, he enters his father's house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -97,8 +95,6 @@ as well as the wide Hladini river, whose stream flowed towards eastern direction
 The route Bharata drove was a different one from the route the messengers had
 taken from Ayodhya to Rajagriha. This is a longer route and it took a complete week for Bharata to
 reach Ayodhya
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
 </details>
@@ -178,8 +174,6 @@ The pure and illustrious Bharata, who kept up his promise, crossing shatradru ri
 at Eladhana village, reaching the region of Apara parpata, crossing a rocky hill called akurvati,
 seeing the villages of Agneyam and salyakartana as well as Silavaha river, crossed huge mountains
 and traveled towards the woods of Chitraratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -229,8 +223,6 @@ the north; *viiramatsyaanaam* = of Viramatsya region.
 
 Arriving at the confluence of Saraswati and Ganga rivers, Bharata entered the woods
 of Bharmuda, the north of Viramatsaya region.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -281,8 +273,6 @@ _________________
 
 Reaching and crossing a refreshing river named Kulinga, which is swift and
 surrounded by mountains as well as Yamuna river, the army was then made to rest there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -337,8 +327,6 @@ surrounded by mountains as well as Yamuna river, the army was then made to rest 
 Making cool the limbs of the tired horses by bathing there and cheering up them,
 nay, taking a bath himself, drinking some water and carrying it for future use, Bharata proceeded
 further.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -354,8 +342,6 @@ which was rarely frequented; *bhadreNa* = by his excellent; *yaanena* = chariot;
 
 The blessed prince Bharata traversed that rarely frequented huge forest by his
 excellent chariot as the wind glides through an atmosphere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -402,8 +388,6 @@ excellent chariot as the wind glides through an atmosphere.
 
 Bharata soon reached the great river, Bharathi, which is difficult to be crossed, at
 the city of pragvata in the region of Amsudhana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -452,8 +436,6 @@ arrived at; *dharmavardhanam* = the river of Dharmavardhana.
 Crossing the River Ganga at the city of Pragvata, he reached the river
 Kulikoshthika, traversed it along with his army and then arrived at the region of
 Dharmavardhana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -500,8 +482,6 @@ a beautiful; *gramamcha* = village too; *varuutham* = called Varutha.
 
 Bharata reached Jambuprasta village, which is located at the southern part of Torana
 region and from there he arrived at a beautiful village too, named Varutha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -552,8 +532,6 @@ priyakaaH paadapaaH* = a number of Kadamba trees.
 
 Making a camp in thatbeautiful forest there, Bharata traveled towards the east and
 reached a garden in the city of Ujjihana, in which there are a number of Kadamba trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -601,8 +579,6 @@ went ahead; *tvaritaH* = quickly.
 
 Having reached Sala and Kadamba trees, Bharata yoked swifter horses to his chariot,
 allowed his army to come after him and quickly went ahead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -664,8 +640,6 @@ the river kapivati; *lohityu* = at Lohitya village.
 Having halted min Sarvatirtha village and having crossed Uttamika river and various
 other rivers by mountain -ponies and reaching Hast prasthaka village, Bharata crossed Kutika river
 and traversed kapivati river at Lohitya village.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -716,8 +690,6 @@ at Vinata village; *suprarishraanta vaahanah* = as the horses were verymuch tire
 Bharata, after crossing Sthanumati river at Ekasala village and Gomati river at
 Vinata village, took rest at a grove of Sala trees at Kalinga city as the horses were very much
 tired and then proceeded quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -770,8 +742,6 @@ was built; *manunaaraG^yaa* = by the king Manu.
 
 Driving through grove quickly in the night, Bharata at the dawn saw the city of
 Ayodhya, which was earlier built by King Manu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -788,8 +758,6 @@ charioteer.
 
 Seeing the city of Ayodhya in front, after spending seven nights on his way, Bharata
 the tiger among men, spoke the following words to his charioteer:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -849,8 +817,6 @@ distance. PaaNDum rittikaa = as a heap of white clay.puNyodyaanaa = beautiful ga
 distance, as a heap of white clay. It has beautiful gardens. It is filled with performers of
 sacrifices and with people endowed with good qualities as well as well versed in the Vedas and with
 Brahmins inmost abundant reaches , It is being ruled by a royal sage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -898,8 +864,6 @@ Ayodhya; *adya* = Now; *aham* = I; *na shR^iNomyaham* = am not hearing;
 
 Earlier , a big clattering voice of men and women used to be heard all round in
 Ayodhya. Now, I am not hearing that voice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -950,8 +914,6 @@ evening; *mama* = to me; *anyathaa* = otherwise.
 "The parks which used to beam with men streaming forth on all sides, having given up
 sporting in the morning after entering them in thee evening having spent the whole night in sport,
 now appear to me otherwise"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -967,8 +929,6 @@ miserable; *saarathe* = o; *charioteer!me* = to me; *purii* = the city;
 
 "These parks deserted by the lovers now turn out to be dejected . O, charioteer! To
 me, the city appears to have changed into a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1021,8 +981,6 @@ _________________
 
 "Here, as before, important persons indeed are not seen going into the city or
 coming out it in carriages or on horses or on elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1067,8 +1025,6 @@ contacts; *janaanaam* = of men.
 
 "Earlier parks used to be conspicuously excited with joy and gaiety and were most
 congenial for love contacts of men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1084,8 +1040,6 @@ sides; *drumaiH* = with trees; *srastaparNaih* = having their leaves fallen;
 
 "I am seeing the same parks., today with lack of enjoyments on all sides and with
 trees having their leaves fallen along the road, looking like picture of dismay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1132,8 +1086,6 @@ charming madhuraam = with sweet; *vaaniim* = tone; *vyaahratam* = uttering;
 
 "Even now at dawn, charming sounds with sweet and much melodious tone of animals and
 birds intoxicated with happiness are not being heard."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1183,8 +1135,6 @@ burnt incense; *na pravaachi* = not blow; *adya* = today?
 
 "Why does, as before, pure and auspicious breeze laden with aloes and sandal wood
 intensified with the fume of burnt incense,not blow today.?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1226,8 +1176,6 @@ stopped; *puraa* = which formerly; *sadaa adiinagatiH* = never ceased; *punaH*
 
 "Why today have the sounds of kettledrums, clay tomtoms and Vinas played upon with
 drum-sticks or palms or fingers stopped which formerly never ceased at any time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1274,8 +1222,6 @@ sinful; *amanujJNaani* = and silly; *tena* = by this; *me* = my;
 
 "I perceive various kinds of evil sinful and silly omens and by this, my mind is
 dejected."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1317,8 +1263,6 @@ down.
 
 "O, charioteer! It is not possible that all sounds be well with my kinsfolk, as
 indeed, even without anycause for a grievance, my spirit is cast down"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1365,8 +1309,6 @@ distressed in mind; *trastaH* = frightened; *sululitendriyaH* = and extremely;
 
 Despondent, distressed in mind, frightened and extremely entered the city, which was
 ruled by the descendents of Ikshvaku.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1414,8 +1356,6 @@ Vaijayanta; *uktaH* = greeted; *vijayam* = with slogans of victory; *utthaaya*
 
 Bharata, with his tiered horses entered the city through Vaijayanta gate. Greeted
 with slogans of victory by the standing gatekeepers, he went inside, along with others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1467,8 +1407,6 @@ salutations; *tam* = of those; *janam* = men; *dvaastham* = at the gate;
 Bharata, with a distracted mind, responded to the salutations of those porters at
 the gate and those porters at the gate and spoke to the charioteer who was beloved to Asvapati as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1512,8 +1450,6 @@ My; *shiilamcha* = energy is also; *patatiiva* = lost.
 
 "O, the faultless charioteer! Why was I brought so quickly without any reason? My
 mind is apprehending some evil. I lost my all energy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1563,8 +1499,6 @@ _________________
 
 "Whatever things were heard by us formerly in the same case of ruin of kings, I am
 seeing here all those signs."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1643,8 +1577,6 @@ and people with lack of beautiful appearance; *alakshhmiikaani* = looking distre
 "I am seeing the family horses in which dirt is not swept away, with their doors
 wide open, bereft of splendor on all sides without any offerings being made, and with no incense
 burned . Families are starving and people look miserably without any charming appearance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1697,8 +1629,6 @@ assembling to perform sacrifices; *yathaapuram* = as before.
 
 "The temples of gods are deserted and have lost their radiance, with their splendor
 of floral decorations lost, nor are there any assembling to perform sacrifices as before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1715,8 +1645,6 @@ are also in the same condition; *tathaa* = and; *paNyaani* = saleable garlands;
 
 "Worships of the deities were placed aside. Assemblies of prayers are also not
 adorned with saleable flowers and garlands today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1759,8 +1687,6 @@ agitated with thoughts ; *na dR^ishyante* = are not being seen; *atra* = here;
 
 "Even traders lost interest in trading tie-ups and their minds are tied up in
 thoughts. They are not being seen here today, as before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1804,8 +1730,6 @@ messy; *diinam* = miserable;ashrupuurNaakshham = with their eyes held in tears;
 "Clusters of birds in temples and large trees in the city are looking desolate. The
 population of men and women in the city look thoughtful anguished weak messy and despondent with
 their eyes held in tears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1857,8 +1781,6 @@ went; *raajagR^iham* = to the rayol palace.
 
 After seeing those bad omens in Ayodhya, the broken hearted Bharata spoke to the
 charioteer as aforesaid and went to the royal palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 </details>
 
@@ -1913,8 +1835,6 @@ bhabhuua* = because; *sampuurNataraH* = overcome; *duHkhena* = with grief.
 Beholding the city of Ayodhya,that formerly possessed the splendor of the capital
 city of Indra, now with its squares houges and high ways deserted, the doors and hinges covered
 with rust , Bharata was overcome with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

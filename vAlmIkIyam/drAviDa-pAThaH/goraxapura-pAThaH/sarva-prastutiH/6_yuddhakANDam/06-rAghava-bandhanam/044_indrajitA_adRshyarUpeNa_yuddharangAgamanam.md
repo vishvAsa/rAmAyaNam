@@ -23,8 +23,6 @@ chariot and the charioteer all at once, but Indrajit vanishes from the spot. Sug
 monkeys feel delighted and praise Angada's prowess. Indrajit comes back in an invisible form and by
 recourse to magic, makes Rama and Lakshmana captive by hurling a net work of serpentine around
 them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ demons; *yuddhataameva* = were fighting; *tadaa* = then; *raviH* = the sun;
 
 While those monkeys and demons were fighting, the sun sank below the horizon,
 setting in motion a night of carnage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ _________________
 
 Then, a nocturnal was commenced between the terrific monkeys and demons, who
 contracted hostility with each other, wishing for their victory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ asi* = "you are a monkey"; *jaghnuH* = killed; *anyonyam* = each other;
 
 "You are a demon" said the monkeys "You are a monkey" said the demons and killed at
 each other in battle; during that dreadful darkness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -226,8 +218,6 @@ tumultuous; *shabdaH* = sound; *shushruve* = could be hear; *evam* = thus;
 
 "Strike!" "Tear asunder!" "come near!" "Why are you running away?" - very tumultuous
 sounds like this could be heard in that army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ sounds like this could be heard in that army.
 
 The black demons in that darkness, wearing golden mails, were appearing as mountains
 with groves of medicinal plants emitting their light.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -325,8 +313,6 @@ with anger; *bhakSayantaH* = destroying; *plavaN^gamaan* = the monkeys;
 
 In that darkness, which was difficult to be overcome, the demons agitated as they
 were with anger, attacked with great speed, duly destroying the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -380,8 +366,6 @@ banners; *ashiiviSobhayan* = and frightened; *raakSasiim* = the demoniacal;
 Those strong monkeys with a terrific rage leapt forward and tore asunder by their
 sharp teeth, the steeds with gold ornaments on their head, the serpentine banners and frightened
 the demoniac army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -436,8 +420,6 @@ provided with banners and flag-staffs; *dadamshcha* = breaking them to pieces;
 Agitated with anger, the monkeys dragged the elephants and those mounted on them and
 also the chariots with their banners and flag-staffs duly breaking them to pieces with their
 teeth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -484,8 +466,6 @@ demons; *dR^ishyaadR^ishyaani* = both those who were visible and those who were 
 
 Rama and Lakshmana killed the foremost of the demons, both those who were visible
 and those who were invisible, with their arrows resembling venomous snakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ chariots; *rurodha* = blocked; *karNanetvaaNi* = the ears and the eyes;
 
 The dust rising from the hooves of horses and the wheels of the chariots blocked the
 ears and the eyes of the combatants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -587,8 +565,6 @@ terrible; *nadyaH* = rivers; *rudhiroughaaH* = with streams of blood;
 
 While that terrible battle was taking place, causing the hair to bristle; very
 terrible rivers with streams of blood were flowing there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ and fellies of chariot-wheels; *paNavaanaamcha* = and drums.
 
 There arose a marvelous sound of kettle drums and tabors, mixed with the sounds of
 counches, fellies of chariot-wheels and drums.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ monkeys; *shastaanaam* = being wounded.
 
 There appeared a terrific sound resonated by horses, demons and monkeys being
 wounded.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -750,8 +722,6 @@ were able to change their form at will and with their bodies appearing like moun
 there on the battle-field. And those weapons appeared to be offered up as a profusion of flowers by
 the earth, which became hidden and rendered impassable by the slime formed out of streams of
 blood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -798,8 +768,6 @@ overcome; *sarveSaam* = by all; *bhuutaanaam* = beings.
 
 That fatal night became as calamitous to the monkeys and demons, as a night of
 dissolution, which is difficult to be overcome by all beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -846,8 +814,6 @@ that darkness; *parama daaruNe* = the very terrible; *te raakSasaaH* = those dem
 
 In that very terrible darkness, those demons thrilling with rapture attacked Rama
 with showers of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -895,8 +861,6 @@ in order to attack (Rama); *abhuut* = became; *svanaH iva* = like the noise;
 
 Yelling in fury, the sound of those demons approaching in order to assault Rama was
 like the noise of the oceans at the time of destruction of all the creatures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -946,8 +910,6 @@ arrows; *agnishikhopamaiH* = resembling tongues of flame; *jaghaana* = struck do
 
 Within a twinkling of an eye, Rama with six sharp arrows resembling tongues of
 flame, struck down six of those demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1019,8 +981,6 @@ The unconquerable Yagnashatru, Mahaparashva, Mahodara, the giant bodied
 Vajradamshtra, both Shuka and Sarana - all those six having been beaten by Rama on their vital
 organs with a flood of his arrows, retreated from the battle and somehow survived for the rest of
 their life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1068,8 +1028,6 @@ demons).
 
 Rama the great warrior, merely within an instant, made the quarters and the
 intermediate quarters, clear of all the demons, by his arrows resembling flames of fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1117,8 +1075,6 @@ face towards; *raamasya* = Rama; *te.api* = they also; *naSTaaH* = perished;
 
 The other valiant demons, who were standing with their face turning towards Rama,
 also perished like moths, having encountered the same fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1165,8 +1121,6 @@ golden shafts; *vishikaiH* = of arrows; *sampatadbhiH* = falling; *samantataH*
 
 That night, with the golden shafts of arrows, flying on all sides, appeared
 bright-coloured, like an autumnal night with its fire-flies on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1213,8 +1167,6 @@ the roaring; *raakSasaanaam* = of the demons.
 
 The terrible night on that day became more terrible again by the sound of
 kettle-drums and by the roaring sounds of the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1261,8 +1213,6 @@ achalah* = the mountain Trikuta; *kandaraatiirNaH* = full of caves;
 
 By that great sound, which re-echoed on all sides, the mountain Trikuta, full of
 caves, appeared to be uttering confused murmurs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1304,8 +1254,6 @@ devoured (by jackals; vultures etc).
 
 Long-tailed and black faced monkeys with their gigantic bodies and dark-like figure,
 crushed the demons with their arms and allowed them to be eaten (by jackals, vultures etc).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1352,8 +1300,6 @@ his charioteer; *hayaanapi* = and the horses; *aashu* = all at once.
 
 Angada on his part, who came to annihilate the enemies in that battle-field, struck
 Indrajit, his charioteer and the horses all at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1425,8 +1371,6 @@ leaving; *ratham* = the chariot; *hataashvaH* = with its horses killed;
 While that awful and very intense battle was going on, Indrajit a great trickster,
 leaving the chariot, with its horses and charioteer killed by Angada, vanished from that very spot
 itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1468,8 +1412,6 @@ wind-god.
 
 All the celestials, both Rama and Lakshmana together with all sages were pleased
 with that act of the venerable Angada the son of Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1520,8 +1462,6 @@ in battle; *tataH* = for that reason; *tuSTaaH* = (they) were pleased;
 
 Since all the living beings knew the supernatural powers of Indrajit in battle, they
 were pleased on seeing that highly gifted demon being defeated by Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1565,8 +1505,6 @@ delighted; *nedushcha* = and praised him; *saadhviti* = as good.
 
 Seeing the enemy defeated, those monkeys along with Sugreeva and Vibhishana were
 delighted and praised Angada as an efficient warrior.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1613,8 +1551,6 @@ by this Angada the son of wind-god; *bhiimakarmaNaa* = a dreadful monkey.
 
 Indrajit, on the other hand, then was driven to a very terrible rage, as he was
 defeated in battle by Angada the son of Vali a dreadful monkey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1663,8 +1599,6 @@ antardhaana gataH* = who had gone out of sight; *paapaH* = the sinful one;
 That Indrajit the son of Ravana, the sinful demon who had gone out of sight and was
 cruel in battle, rendered himself as invisible again and hurled forth sharp arrows, bright as
 lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1717,8 +1651,6 @@ limbs; *raamam cha* = of Rama; *lakSmaNam chaiva* = and Lakshmana; *raaghavau*
 
 Being enraged in battle, Indrajit bursted out serpent-like terrible arrows into all
 the limbs of Rama and Lakshmana who were born in Raghu dynasty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1738,8 +1670,6 @@ bandhena* = with a net work of arrows.
 Enveloped by illusion, he sought to confuse Rama and Lakshmana in the struggle there
 and invisible to all beings through his magic arts, Indrajit the ranger of the night bound those
 two brothers Rama and Lakshmana with a net work of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1790,8 +1720,6 @@ of that enraged demon.
 
 Then, the monkeys saw the two warriors, those lions among men, being wounded quickly
 by the serpentine arrows of that enraged demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 </details>
 
@@ -1846,8 +1774,6 @@ princes captive.
 
 Not being able to hurt those two princes in his manifest form, Indrajit the son of
 the king of demons with his perverse mind, had recourse to magic in order to make them captive.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

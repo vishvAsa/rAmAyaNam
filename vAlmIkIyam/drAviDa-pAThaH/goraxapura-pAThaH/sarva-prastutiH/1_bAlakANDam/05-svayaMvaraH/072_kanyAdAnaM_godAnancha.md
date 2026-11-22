@@ -51,8 +51,6 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 
 Then the eminent-saint Vishvamitra together with Vashishta said these words to Janaka, the valiant king of Videha, who has
 just said about his lineage. [1-72-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -93,8 +91,6 @@ is not there.
 
 The Ikshvaku-s and Videha-s are unimaginably admirable and immeasurably distinguished dynasties, oh, Janaka, the best one
 among all men, there is no single king comparable to one from these dynasties... [1-72-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -135,8 +131,6 @@ even.
 
 Oh, king Janaka, these espousals of Seetha with Rama and Urmila with Lakshmana is behovely to each other's dynastical prestige
 and even it is befitting to the winsome charms of the brides and bridegrooms, but that being so... [1-72-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ raajaa kushadhvajaH* = this, king, Kushadhvaja; *dharmaj~naH* = probity, at home
 
 Oh, grand sire, you may listen to my words of advise... this younger brother of yours, king Kushadhvaja, is at home in
 every kind of probity... [1-72-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -201,8 +193,6 @@ not matchable [nonpareil] in world; *asya dharmaatmanaH* = of this, right-minded
 
 Oh, king, the pair of daughters of this right-minded Kushadhvaja is nonpareil in comeliness in this world, hence, oh, grand
 sire, we choose to pair them off with Bharata and Shatrughna... [1-72-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -217,8 +207,6 @@ ca* = for smart Shatrughna, even; *mahaatmanoH tayoH arthe* = for the sake of th
 
 Oh, king, for the sake of those two honourable boys, for that young man Bharata and for that smart man Shatrughna, we opt
 your brother's daughters... [1-72-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -261,8 +249,6 @@ _________________
 
 All these four sons of Dasharatha have handsomeness and youthfulness, and they are equal to the four rulers of the world
 from four quarters, and their valour vies with the valour of God Vishnu... [1-72-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -308,8 +294,6 @@ bhavataH [kulam] api* = [having] pious deeds, your [dynasty,] as well - is an im
 
 "Oh, best king, let both these dynasties of yours, the impeccable dynasty of Ikshvaku-s and the immaculate dynasty of yours
 as well, be interlocked by these wedlock-s..." Thus Vishvamitra advised Janaka. [1-72-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -349,8 +333,6 @@ shrutvaa* = on hearing Vishvamitra's words; *janakaH praanjaliH* = Janaka, with 
 
 On hearing the words of Vishvamitra that have the concurrence of Vashishta then Janaka reverently said this to those two
 eminent-saints. [1-72-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -397,8 +379,6 @@ alliance; *tau munipungavau* = you two, eminent-saints; *svayam* = personally; *
 
 By which reason you two eminent-saints personally bid fair to this befitting proposal, thereby I opine that my dynasty
 is highly honoured... [1-72-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -438,8 +418,6 @@ daughters; *sahitau* = being together [brothers in perfect accord, paired brothe
 
 So be it! Safe betides you all! Let the pair of Kushdhvaja's daughters, namely Maandavi, Shrutakiirti, devout themselves
 as a pair of wives to the paired brothers, namely Bharata and Shatrughna, respectively... [1-72-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -479,8 +457,6 @@ four of the, king's daughters; *paaNiin gR^ihNantu* = take hands into hand [i.e.
 
 Oh, eminent-saint Vishvamitra, let the palms of four princesses be taken in the palms of these four mettlesome princes
 in marriage, in the light of one day... [1-72-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -534,8 +510,6 @@ pre-Phalguni star...' which usually does not happen, but it is also said to be c
 will be in the 12th house at that time, so the marriage is agreeable...' However the stars for best results of marriages
 are: *rohiNii-mR^igashiirShyaaNi
 uttaraphalgunii-svaati iti vivaahasya nakShatraaNi | bodhaayana suutraaNi*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -575,8 +549,6 @@ eminent saints; *vaakyam abraviit* = said sentence.
 
 On saying those gracious words thus, king Janaka got up from his throne and coming nigh of both of the eminent-saints, Vishvamitra
 and Vashishta, reverently said this sentence. [1-72-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -628,8 +600,6 @@ you may please preside over these thrones, that of mine, my brother's, and that 
 The kind deed done by the two sages, Vishvamitra and Vashishta, is fetching right husbands for his daughters, and for his
 brother's daughters, without flattening his own flatties. And this sitting on the three thrones is for assuming symbolic
 rulership on the three kingdoms, Ayodhya, Mithila, and Saamkaasya, in getting the marriages performed without a hitch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -671,8 +641,6 @@ happen.
 "As to how this city Mithila appertains to Dasharatha, in the same way city of Ayodhya is mine... and there shall be no
 hesitancy for you two sages in governance on these three kingdoms, thus it will be apt of you to make the marriages happen
 as aptly as you can..." So said Janaka to the sages. [1-72-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -712,8 +680,6 @@ as aptly as you can..." So said Janaka to the sages. [1-72-16]
 
 The legatee of Raghu-s king Dasharatha is gladdened while the legatee of Videha is talking in such a hobnobbing way, and
 he replied king Janaka in this way. [1-72-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -766,8 +732,6 @@ may besmirch your unblemished personality, because for the first time I am marry
 way, you have performed many marriages, concluding that every bride is your own daughter-like, thus we hear... thus, your
 sitting complacently on intrusting all the works of marriages to us, is infeasible... so, you do all the works and we sit
 comfortably seeing the celebrations...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -816,8 +780,6 @@ _________________
 
 "Enjoy that blessedness! Let safe betide you! We now depart to our visitatorial-palace, and we shall customarily carry out
 the tributary rituals..." Dasharatha said thus. [1-72-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -860,8 +822,6 @@ afore; *aashu jagaama* = promptly, departed.
 
 On seeking leave of absence from the sovereign of people, Janaka, that highly renowned king Dasharatha promptly departed
 from there, keeping both of the eminent-saints afore, namely Vishvamitra and Vashishta. [1-72-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -903,8 +863,6 @@ utthaaya* = on getting up; *kaalyam* = in opportune time; *uttamam godaanam* = i
 King Dasharatha on going to his visitatorial-palace has procedurally undertaken the tributary rituals, and on getting up
 in the next morning, he carried out the initiatory rituals of marriages, in a grand way, in which donation of cows is a
 part. [1-72-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -944,8 +902,6 @@ ca* = hundred thousand, also; *dharmataH dadau* = righteously donated.
 
 That lord of people king Dasharatha has righteously donated hundred thousand cows to Brahman-s, in the name of each of his
 four sons. [1-72-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -1002,8 +958,6 @@ In that cow donation ceremony intended for his sons, he that best one among men 
 his sons, Dasharatha, the legatee of Raghu-s, has donated on behalf of each of his sons, four hundred thousand cows, that
 are abundant milkers, and that have golden casings on their horns, and that are with their calves, and along with milking
 jugs made with bell metal, and he even donated very many other kinds of assets to Brahmans. [1-72-23, 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 </details>
 
@@ -1059,8 +1013,6 @@ The 'unnecessarily' repeated word 'quartet' refers to *dharma* where its manifes
 shR^ingaa, trayo asya paadaa, dve shiirSe...* 'dharma's horns is a quartet, three are its feet, two are its heads...'
 so on. When read together with 23, 24 verses, the bullish Dasharatha is said to have the quartet of bullhorn like sons,
 who are being readied to administer *dharma* in the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

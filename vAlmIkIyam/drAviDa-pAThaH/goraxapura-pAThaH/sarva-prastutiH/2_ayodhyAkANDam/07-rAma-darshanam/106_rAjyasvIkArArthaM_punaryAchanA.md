@@ -19,8 +19,6 @@ from Kaikeyi and requests Rama to reverse that transgression of righteousness. B
 not to return to Ayodhya but to continue to stay in the forest in case Rama did not heed to his
 request. Rama's mothers also join Bharata and urge Rama to grant his request, when they find Rama
 lukewarm in the matter and insistent on implementing the words of his deceased father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ virtuous; *mandaakiniitiire* = at the banks of that River Mandakini.
 When Rama thus kept silent after uttering those meaningful words as aforesaid, the
 pious Bharata for his part addressed to virtuous Rama who was fond of people conformable to justice
 at the banks of that River Mandakini.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -128,8 +124,6 @@ highly honoured by; *vR^iddhaanaam* = elders; *pR^ichchhasi* = you ask;
 "Who, in this world, is endowed with such qualities like you, O annihilator of
 enemies! Neither does sorrow disturb you nor does joy enrapture you. You are highly honoured by
 elders and you clarify your doubts from them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ and the prosperity; *yathaa tathaa* = in the same way.
 
 "By what should he be moved, who looks on life and death, misfortune or prosperity
 with an equal eye?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ with an equal eye?"
 
 "O, King! He who knows the totality of time as you do, ought not to feel despondent
 even on meeting with adversity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ understanding.
 
 "O, the magnanimous Rama! you are equally strong as celestials. You are true to your
 promise, all-knowing, all-viewing and endowed with understanding."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -322,8 +310,6 @@ recognizing the birth and end of all things.
 
 "Even the most fearful calamity ought not to attack you, endowed as you are, with
 such attributes; and recognising the birth and end of all beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ liking; *me* = of me; *bhavaan prasiidatu* = be gracious; *mama* = to me.
 
 "The sinful deed, committed by my mean mother for my sake during my absence, was not
 to my liking. (Hence) be gracious to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -419,8 +403,6 @@ was perverse conduct.
 
 "I am bound by the chanins of morality. For that reason, I do not kill iwth a severe
 punishment, my mother who was of perverse conduct and worthy of retribution."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -468,8 +450,6 @@ one?
 
 "How can I, born of Dasaratha of noble birth and deeds and conversant of right and
 wrong, do the most wicked and horrible act?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -521,8 +501,6 @@ I do not abuse; *taatam* = my father; *samsadi* = in an assembly.
 "The King Dasaratha was my preceptor, had several sacrificial performances to his
 credit was aged, was my father, equal to a deity and is now dead. Hence, I cannot reproach him in
 an open assembly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ chikiirSaH san* = in order to please; *striyaaH* = a woman?
 "O Rama the knower of piety! What man who knows the principles of righteousness,
 would commit such an improper act, bereft of one's interest and duty, in order just to please a
 woman?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -620,8 +596,6 @@ real; *loke* = (in the eyes) of the world.
 
 "There is an ancient saying that at the time of death, beings lose their judgment.
 The king, acting as he did, has made this saying indeed true in the eyes of the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -673,8 +647,6 @@ _________________
 "This transgression of righteousness was done by our father for fear of anger (of
 kaikeyi) or through infatuation and over-haste. You do keep in view a noble purpose and reverse
 that transgression."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -723,8 +695,6 @@ this; *vipariitam* = is quite reverse.
 "A son who honours only a good deviation (from righteousness) of a father is
 accepted as a real son in this world. He who acts otherwise than this would be facing a quite
 reverse situation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -772,8 +742,6 @@ committed; *pituH* = by our father; *loke* = (which) in this world;
 
 "You be that real son. Do not lend yourself to the infamous act, committed by our
 father, which in this world, confident men freely condemn."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -824,8 +792,6 @@ Kaikeyi; *maamcha* = and me; *taatamcha* = our father; *naH* = our;
 
 "Save Kaikeyi and me, our father, our friends, our relatives, all the urbanites and
 the villagers as well as the entire kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -873,8 +839,6 @@ bhavaan = you; *na arhati* = ought not; *kartum* = to do; *iidR^isham* = such;
 
 "Where is the forest and where is the princely dignity? Where is the matted hair and
 where is the protection of a kingdom? You ought not to do such a contradictory act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -925,8 +889,6 @@ which; *eSaH paripaalanam* = this protection; *prajaanaam* = of the subjects;
 
 "O, the highly enlightened hero! The first duty of a warrior is indeed to get
 crowned, so that he may then protect his subjects."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -974,8 +936,6 @@ which has a mental restraint; *anishchitam* = and which is uncertain?
 "Which man of warrior-caste would set aside his manifest duty and prctise a virtue
 that gives doubtful result, which does not promise happiness, which has a mental restraint and
 which is uncertain?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1023,8 +983,6 @@ tradition.
 
 "If you desire to pursue a virtue alone; although born of pain, then take pains
 while protecting the four castes as per tradition, by recourse to righteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1078,8 +1036,6 @@ it?"
 
 *Four Stages of life Brahmacherya (student-life); Garhasthya (life of a
 house-holder); Vanaprastha (life of a hermit); Sannyaasa (Life of an ascetic).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1127,8 +1083,6 @@ are still living.
 
 "I am indeed junior to you in the point of learning, situation and by birth. How
 should I rule the earth, while still you are living?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1178,8 +1132,6 @@ exist; *vinaabhuutaH* = without; *bhavataa* = you.
 
 "I, a mere child, who am devoted of intelligence and virtues besides placed in an
 inferior position, cannot even live without you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1231,8 +1183,6 @@ prescribed for you; *baandhavaiH saha* = along with your relatives.
 "O, Rama the knower of righteousness! Rule this entire kingdom belonging to your
 father, without distraction, without hindrance and as per the conduct prescribed for you along with
 your relatives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1280,8 +1230,6 @@ ministers; *savasiSThaaH* = along with Vasishta; *saha* = with;
 
 "Let all the king's ministers along with Vasishta and other priests well-versed in
 sacred formulas, crown you, the knower of sacred texts, here itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1330,8 +1278,6 @@ sacred formulas, crown you, the knower of sacred texts, here itself."
 "You, having been crowned thus, may proceed to Ayodhya along with us to rule it,
 like Indra the Lord of celestials, having conquered all the worlds with his might, proceeds to his
 kingdom along with celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1383,8 +1329,6 @@ wishes of all your friends and you alone rule me in Ayodhya."
 **टिप्पनी**
 
 Three obligations to the Gods, the Ancestors and Brahmins.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1432,8 +1376,6 @@ quarters; *adya* = today.
 
 "O, noble brother! May your friends rejoice today at your enthronement. May your
 enemies, full of terror, flee today to the ten quarters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1480,8 +1422,6 @@ wipe off; *mama* = my; *maatuH* = mother's; *aakrosham* = curse; *adya*
 
 "O, excellent among men! Wipe off my mother's curse today and protect our venerable
 father from his sin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1528,8 +1468,6 @@ iva* = as Lord shiva ( the supreme Deity); *bhuuteSu* = on all beings.
 
 "I request you by bowing my head before you. Show compassion on me and on all our
 relatives as Lord Shiva ( the Supreme Deity) on all beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1579,8 +1517,6 @@ kR^itvaa* = disregard; *etat* = my entire request; *gamiSyati* = and move;
 
 "Else if you disregard my entire request and move again into the forest form here, I
 too will go along with you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1636,8 +1572,6 @@ not fee; *matim* = inclined; *gamanaaya* = to return (to Ayodhya).
 Even while being propitiated by Bharata as above, by bowing his head duly sinking in
 his spirit, the illustrious Rama, the Lord of the earth was still abiding in the words of his
 father and did not feel inclined to return to Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1694,8 +1628,6 @@ Ayodhya); *duHkhitaH* = felt sorrowful; *samam* = and at the same time;
 Seeing that wonderful staunchness in Rama, the people of Ayodhya felt sorrowful and
 at the same time, experienced joy. They became distressed that he was not going to Ayodhya and felt
 rejoiced to see his firmness of resolve.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 </details>
 
@@ -1750,8 +1682,6 @@ Citizens and elders of that multitude; *maataraH* = as well as the mothers;
 The priests, citizens and elders of that multitude as well as Queens, distracted and
 weeping bitterly, acclaimed Bharat who was then speaking thus, duly prostrating himself before Rama
 and added theri supplications to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga106/ayodhyasans106.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

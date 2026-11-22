@@ -57,8 +57,6 @@ vaakyam shrutvaa* = on hearing that sentence; *pituH gauravaat* = owing respect 
 
 On hearing that sentence of Rama of Jamadagni, then Rama of Dasharatha said this to him in a courtly owing to the presence
 of his father Dasharatha. [1-76-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -105,8 +103,6 @@ of his father Dasharatha. [1-76-1]
 
 Oh, Bhaargava Rama, whatsoever endeavour you have strived for freeing yourself from the indebtedness towards your father,
 I have heard of them, and oh, Brahman, we appreciate for your achieving that freeness from your paternal debt, but... [1-76-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -162,8 +158,6 @@ the mist cast around them, rather on our eyes, will be cleared, when Rama return
 Further more, all the people available there are rendered unconscious at the arrival of Bhaargava Rama, and a few like Dasharatha,
 Vashishta, Rama's brothers are with senses. So, even if they hear and see this scene, those listeners or seers do no harm
 in revealing Rama's godhood to world, or in particular to Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -217,8 +211,6 @@ Rama, while snatching the bow from his hands. For this Padma Puraana says:*iti u
 gataayaa saha | jagraaha vaiShNavam caapam vinayena ca liilayaa ||* 'oh, Devi Parvati, saying so Rama took away the
 Vishnu's anima from Bhaargava Rama, along with bow of Vishnu, sportily and obediently, too...' Thus, Rama of Dasharatha
 bade goodbye to his earlier incarnation, Parashu Rama, as two swords cannot be in one sheath.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -258,8 +250,6 @@ arranged arrow on bowstring; *cakaara ha* = did it [took aim,] indeed; *tataH ra
 
 On lifting up the bow that is already fitted with an arrow on bowstring, then Rama started to take aim with it, but being
 indecisive about the target, then Rama of Dasharatha irefully said this to Rama of Jamagadni. [1-76-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -312,8 +302,6 @@ for they are under an illusion, called war...' So said Bhiishma to Krishna and t
 Kripa, Ashvatthaama and suchlike weaponed Brahman-s in war, but not in peace. There are many more such sayings of Bhiishma.
 Here Parashu Rama said that he will give a duel to Rama, hence he is no more a Brahman when he raises a weapon. And he is
 a blood relation of Vishvamitra, and that corner of mercy is not allowing Rama to release the arrow on Parashu Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -363,8 +351,6 @@ yat icChasi* = whichever, you wish.
 
 Oh Bhaargava Rama, either this motility of yours at the speed of your mind, or even those unparalleled realms of heavens
 which you have earned by the power of your ascesis, I will eliminate whichever you wish... [1-76-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -387,8 +373,6 @@ the eulogy for Vishnu's longbow is intended to suggest the all-powerful capacity
 lead the epic to its own goal. Dharmaakuutam has to say this: *prakR^ite - adhikam menire vishNum - iti raamaayaNavacanam
 tu agre kartavyasakalaraakShasavadhahetubhuutavaiShNavadhanuShaH praashastapratipaadanaparam j~neyam |* Hence
 the mythological quarrels have no place in Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -463,8 +447,6 @@ wielding the extraordinary longbow of Vishnu, and extremely amazing event that i
 The 'amazing event' is not the handing over or taking over of longbow, but it is the transference of the essential nature
 of Bhaargava Rama to Dasharatha Rama. Nrisimha Puraana has this: *tataH parashuraamasya dehaat nirgatasya vaiShNavam
 | pashyataam sarvadevaanaam tejo raamam upaavishat ||*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -518,8 +500,6 @@ Vividly: When the aura of Vishnu available in Bhaargava Rama has entered Dashara
 of Vishnu, Dasharatha Rama's aura dazzled like that of Vishnu, and that dazzlement of Vishnu's aura threw the world in a
 daze, and then that aura-less, thus vigourless Bhaargava Rama has nothing to do except to stare at Vishnu-like Rama, with
 upraised eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -565,8 +545,6 @@ one; *raamam* = to Rama; *mandam mandam* = slowly, softly; *uvaaca ha* = spoke, 
 
 Rama of Jamadagni is calloused as his vitality is subdued by the radiance of that lotus-petal eyed Rama of Dasharatha, and
 he spoke to Rama of Dasharatha, slowly and softly. [1-76-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -612,8 +590,6 @@ you...' thus... [1-76-13]
 A donor cannot enjoy a gift anymore, once donated to the donee. And if the donor still clings around that donation, it does
 not come under the true definition of 'donation.' Hence, Parashu Rama is asked to depart from this world. Hence he has gone
 to the ethereal mountain called Mt. Mahendra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -657,8 +633,6 @@ made over by me; *kaashyapasya ha* = for Kashyapa, indeed.
 
 Such as I was, in my observance of my mentor Kashyapa's order I do not spend nights on this earth from then afterwards,
 oh, Kakutstha Rama, as I made over this earth for Kashyapa, indeed... [1-76-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -705,8 +679,6 @@ will depart.
 
 Thereby oh, valiant one, it will be inapt of you to impair this motility of mine, oh, Raghava, I will depart with the speed
 of cerebration to Mt. Mahendra, a par excellent mountain... [1-76-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -749,8 +721,6 @@ _________________
 
 But I triumphed over matchless realms of heavens with my ascesis, oh, Rama, you may hash them up with that irreversible
 arrow... let there be no time-lag... [1-76-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -794,8 +764,6 @@ enemy-inflamer; *svasti te astu* = blessedness betides to you.
 
 I have realized your touch of nature as that of the Immutable Supreme Being, God of Gods, the Exterminator of the demon
 Madhu, namely Vishnu, by the touch of your handling that bow... oh, enemy-inflamer, blessedness alone betides you... [1-76-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -841,8 +809,6 @@ achievements and to whom there is no counter-dueller in conflicts... [1-76-18]
 Parashu Rama is hastening up Dasharatha Rama to finish business quickly, otherwise the nature of Rama and his incarnation
 will publicized, not by these two Rama-s, but the game watching gods. If these spectators stay for a long time in sky, some
 airborne demon will let the cat out of the bag.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -892,8 +858,6 @@ _________________
 
 Oh, Kakutstha Rama, you are the lord of the triad of worlds, such as you are, you faced me down, and it is malapropos to
 say that this is a disgrace to me... [1-76-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -934,8 +898,6 @@ unloosened arrow; *parvatottamam mahendram gamiSyaami* = I will go to ethereal m
 "It will be apt of you to unloose that unsurpassed arrow, oh, Rama, as you have ethical commitment to wipe out demons as
 I wiped out menacing kings, and should you unloosen that arrow now I wish to depart to the ethereal mountain Mt. Mahendra,
 a point of no return for me..." So said Parashu Rama to Dasharatha Rama. [1-76-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -981,8 +943,6 @@ sharam cikSepa* = shot off nonpareil arrow.
 
 While Rama of Jamadagni is speaking that way, that venturesome and blessed Rama of Dasharatha shot off that nonpareil arrow
 from that longbow of Vishnu. [1-76-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -1035,8 +995,6 @@ Mt. Mahendra, the heavenly mountain. [1-76-22]
 **टिप्पनी**
 
 Rather, ready to depart... as he is given some more role-play in next verses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -1086,8 +1044,6 @@ the assemblages of sages extolled Rama, in whose hands the longbow is upraised. 
 **टिप्पनी**
 
 Please refer the endnote about this longbow and how it is passed on to Janaka's dynasty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 </details>
 
@@ -1133,8 +1089,6 @@ raamam prashasya* = on acclaiming Dasharatha's Rama; *tataH pradakSiNiikR^itya* 
 
 Then that dab hand at axe, Rama of Jamadagni, on acclaiming, and even on making circumambulations to Rama of Dasharatha,
 went on his own way into oblivion. [1-76-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

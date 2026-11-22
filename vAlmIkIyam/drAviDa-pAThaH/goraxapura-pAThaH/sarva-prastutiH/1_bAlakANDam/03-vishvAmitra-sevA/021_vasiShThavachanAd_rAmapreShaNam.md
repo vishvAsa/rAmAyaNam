@@ -19,8 +19,6 @@ The ire of sage Vishvamitra is shown at king Dasharatha. To pacify sage Vishvami
  Vishvamitra, his knowledge of weaponry. Vashishta also suggests that all those
  weapons will be given to Rama, if Rama is dispatched with Vishvamitra. At last,
  Dasharatha agrees to send Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ The ire of sage Vishvamitra is shown at king Dasharatha. To pacify sage Vishvami
 
 On hearing the wavery words of Dasharatha that are full of fond for his son,
  Vishvamitra wrathfully replied this sentence to the king. [1-21-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -109,8 +105,6 @@ On hearing the wavery words of Dasharatha that are full of fond for his son,
 "On promising me to fulfil my object in the first instance you wish to repudiate
  it now, undeserving is this kind of deviation for the kings of Raghava dynasty.
  [1-21-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -226,8 +220,6 @@ On hearing the wavery words of Dasharatha that are full of fond for his son,
 "If this is worth while to you, oh, king, I wish to go away as I have come, and
  you with your feigned promises be nonchalantly happy with your kinsmen." So said
  Vishvamitra to the king. [1-21-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -277,8 +269,6 @@ _________________
 
 When that prudent sage Vishvamitra is thus enwrapped in fury, then the whole earth
  trembled and the gods are scared. [1-21-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -320,8 +310,6 @@ When that prudent sage Vishvamitra is thus enwrapped in fury, then the whole ear
 On knowing the appalled appearance of the entire world at the fury of Vishvamitra,
  Vashishta the great sage with high vows and an insightful one too, said these
  words to the king. [1-21-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -364,8 +352,6 @@ On knowing the appalled appearance of the entire world at the fury of Vishvamitr
 "Born in Ikshwaku dynasty you are apparently the other god of ethics on earth,
  a staunch one with righteous vows and a glorious one too, such as you are, it
  will be unapt of you to forsake ethics." [1-21-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -413,8 +399,6 @@ On knowing the appalled appearance of the entire world at the fury of Vishvamitr
 "In three worlds you are renowned as the right-minded one, oh, Raghava, hence
  adhere to your own uprightness, and adhering to unrighteousness will be unapt
  of you. [1-21-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -463,8 +447,6 @@ On knowing the appalled appearance of the entire world at the fury of Vishvamitr
 In some Vedic rituals activates for social service are undertaken, and they are
  known as *iSTaapuurta* rituals, in which digging wells, lakes and other
  social facilities will be undertaken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -512,8 +494,6 @@ In some Vedic rituals activates for social service are undertaken, and they are
 
 In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
  it from thieving by the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -560,8 +540,6 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 "He is an embodiment of virtue, matchless among the venturesome, peerless in intellect
  among all in the world, and flawless in ascesis. [1-21-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -605,8 +583,6 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
  triad of worlds, inclusive of sessile and mobile worlds, who is knowledgeable
  about him, or someone who can know him will be there in future, excepting myself.
  [1-21-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -649,8 +625,6 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 "While Gods cannot know Vishvamitra, can anybody from sages - no; immortals- no; demons
  - no; the gandharva-s and eminent yaksha-s together with the kinnaraa-s and great
  reptile beings - no, they cannot know him. [1-21-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -693,8 +667,6 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 "All the missiles known to Vishvamitra are the highly righteous children of Krishaashva
  Prajapati, where Prajapati-s were the earliest ruler of mankind, and god Shiva
  gave them to Vishvamitra when was ruling kingdom. [1-21-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -742,8 +714,6 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 "Those missiles are the sons of Daksha Prajaapati's daughters and her husband
  Krishaasva Prajapati, and they are disparate in their form, intrepid, dazzling,
  and victory-oriented missiles. [1-21-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -794,8 +764,6 @@ _________________
 
 "Jaya and Suprabha, the daughters of Daksha Prajapati, endowed with best waists
  gave birth to a hundred missiles and weaponry whose flare is supreme. [1-21-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -847,8 +815,6 @@ _________________
 "On getting a boon Jaya named wife of Krishaasva Prajapati is benefited with fifty
  best and formless sons with immeasurable fortitude for the destruction of ungodly
  beings. [1-21-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -896,8 +862,6 @@ _________________
 
 "Suprabha, another wife of Krishaasva Prajapati, gave birth to another fifty unassailable,
  unconquerable and mighty sons named the Eliminators. [1-21-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -945,8 +909,6 @@ _________________
 
 "And this sage Vishvamitra is in the precise know of the said missiles, and this
  principled one is also capable of creating hitherto unavailable missiles. [1-21-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -989,8 +951,6 @@ _________________
 "Thereby, oh, Raghava, nothing whatsoever is unknown to this great-souled Vishvamitra,
  who is a distinguished sage and the knower of virtue, either that has happened
  or that is happening. [1-21-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -1033,8 +993,6 @@ _________________
 "Thus, the highly renowned and great resplendent sage Vishvamitra has this sort
  of enterprise, oh, king, allowing a doubt enter your mind in Rama's accompanying
  the sage will be unapt of you. [1-21-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -1077,8 +1035,6 @@ _________________
 "This son of Kushi, Vishvamitra, can as well control those demons by himself,
  but intending to accord beneficence to your son he approached you and imploring
  upon you. [1-21-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 </details>
 
@@ -1133,8 +1089,6 @@ Thus the prominent king from Raghu dynasty, namely Dasharatha, became serene-min
  by sage Vashishta's words, and he who is supreme among other kings and who has
  pronounced renown, that Dasharatha then gladly and wholeheartedly consented to
  the travel of Rama along with the sage Vishvamitra. [1-21-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga21/balasans21.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

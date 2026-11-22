@@ -15,8 +15,6 @@ title_english = "002 Sugreeva comforts Rama"
 
 Sugreeva comforts Rama, who is tormented with grief, asking him to keep away from
 apprehensive mind and to think of ways and means to cross the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ Dasaratha; *shokaparidyuunam* = felt miserable by grief.
 
 The glorious Sugreeva made the following reply, which was intended to expel his
 grief, to Rama the son of Dasaratha who felt miserable with anguish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ abandoning friendship; *kR^itaghnaH* = by an ungrateful man.
 
 "Oh, hero! Why are you lamenting thus, as any other ordinary man? Do not be
 sorrowful like this. Abandon your grief, as an ungrateful man abandons friendship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ Rama!"
 
 "As the information about Seetha has since been gathered, I do not indeed see any
 scope for your grief Oh, Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ spirit is disciplined."
 "Oh, Rama! You are a wise person, a knower of sacred works, an intellectual and a
 learned man. Give up these ordinary apprehensions like a man whose spirit is disciplined gives up
 ideas which spoil the purpose.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ destroy; *te* = your; *ripum* = enemy.
 
 "We shall make our way up to Lanka, by crossing the ocean filled with large
 crocodiles. We shall destroy your enemy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -312,8 +300,6 @@ individual; *shoka paryaakulaatmanaH* = and a person disturbed with grief;
 
 "All action get dissipated by a person who is non-enthusiastic, depressed and
 disturbed with grief. Such a person gets into troubles too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ I know; *eshhaam* = this; *harshheNa* = from their joy; *mama* = my;
 "These leaders of monkey squads are gallant and efficient in all ways. They are
 enthusiastic even to enter a fire for your sake. I understand this from their joy and my reasoning
 too is sound."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -412,8 +396,6 @@ deeds.
 
 "You ought to act in every way that I may be able to get back Seetha, after
 destroying by an attack the enemy Ravana of sinful deeds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -461,8 +443,6 @@ Rama!"
 
 "You take steps in such a way that a bridge is constructed across the sea and we
 reach that city of the king of ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ mountain.
 
 "Be certain that Ravana is killed, once he is seen in a battle and on our seeing
 that city of Lanka standing on a peak of the Trikuta Mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -559,8 +537,6 @@ Varuna (the god of water); *laN^kaa* = Lanka; *na shakyaa* = cannot be;
 
 "Without building a bridge across the sea, the dreadful abode of Varuna (the god of
 water), Lanka cannot be defeated even by gods and demons including Indra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -636,8 +612,6 @@ battle."
 "Know that when the whole of my army crosses the sea as a bridge is built across it,
 they will come out victorious, because these monkeys who are able to change their form at will are
 indeed valiant in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -685,8 +659,6 @@ king!"
 
 "Therefore, take away your apprehensive mind, which destroys any enterprise for
 grief in this world diminishes the might of a man, Oh king!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -735,8 +707,6 @@ truly; kartuH to the doer; *satvaram* = quickly."
 
 �Cling to the practice of boldness, ought to be resorted to by a man. It will
 produce competence without doubt to the doer quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ magnanimous; *manushhyaaNaam* = men; *tvadvidhaanaam* = like you."
 "Prevail upon the strength with alertness at this moment, Oh highly intelligent
 prince! Grief for something lost or destroyed consumes all resources of even the strong and
 magnanimous men like you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -842,8 +810,6 @@ among the intelligent; *sarva shaastra kovidaH* = the knower of all sacred texts
 
 "You are the foremost among the intelligent and the knower of all sacred texts.
 Hence, you ought to defeat the enemy, with allies like me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -888,8 +854,6 @@ against you; *trishhu lokeshhu* = in the three worlds; *gR^ishiita dhanushhaH* =
 
 "I do not indeed see any one who can withstand you in a battle filed in the three
 worlds, when you are armed with a bow, Oh Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -931,8 +895,6 @@ imperishable.
 
 "You work duly entrusted to the monkeys will not be spoiled. You shall behold Seetha
 era imperishable sea."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -982,8 +944,6 @@ Kshatriya as (members of warrior- tribe); *nishcheshhTaah* = who are not active;
 "Oh, Lord of the earth! Desist from this melancholy. Yield to your legitimate
 indignation. Unadventurous Kshatriyas (members of warrior-tribe) never win honor but all fear the
 wrathful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -1033,8 +993,6 @@ think of; *laN^ghanaartham cha* = design to cross; *samudrasya* = the sea;
 
 "You with your resourceful mind, along with us together, ponder over now a design to
 cross the sea, the terrible Lord of rivers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -1076,8 +1034,6 @@ of having won; *sarvam* = (if) all; *me* = my; *sainyam* = forces;
 
 "Know victory to be certain, once the sea has been crossed by the army. Verily when
 all my forces have passed over the sea our triumph is assured!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -1121,8 +1077,6 @@ at will; *vidhamishhyantihi* = will indeed blow away; *taan* = those; *ariin*
 
 "These monkeys, the courageous soldiers who are able to change their form at their
 volition, will crush their opponents with an avalanche of rocks and trees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 </details>
 
@@ -1163,8 +1117,6 @@ abode of Varuna; *laN^ghitam* = crossed; *kathamchit* = by any manner whatsoever
 
 "Once we have crossed the sea (the abode of Varuna) by whatever the means employed,
 Ravana is as definitely killed in my eyes, Oh exterminator of enemies!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga2/yuddhasans2.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

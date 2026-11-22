@@ -20,8 +20,6 @@ the enemy's plans and that they returned after gathering the required news about
 arrangements at the four gates of theity. After hearing Vibhishana's information, Rama orders Nila,
 Angada Hanuman and others to storm the four gates and decides to stay on Suvela mountain with his
 army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -115,8 +113,6 @@ the demons together; *uraga gandharvaiH* = or the uragas (the serpant-demons) an
 
 "Observe this city of Lanka, ruled by Ravana, impregnable both to celestials and the
 demons together, or the uragas (the serpent-demons) and Gandharvas (celestial musicians)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -163,8 +159,6 @@ demons together, or the uragas (the serpent-demons) and Gandharvas (celestial mu
 
 "Ravana, the lord of demons always stays in the City. Think of the ways and means
 for the success of our expedition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -211,8 +205,6 @@ brother of Ravana; *abraviit* = spoke; (the following); *puSkalaartham* = meanin
 
 While they were talking thus, Vibhishana the younger brother of Ravana spoke the
 following meaningful and polished words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -264,8 +256,6 @@ analaH* = Anala; *panasashchaiva* = and Panasa; *sampaatiH* = Sampati;
 
 "My counsellors named Anala, Panasa, Sampati and Pramati went to the City of Lanka
 and returned here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -307,8 +297,6 @@ which; *tat* = that; *vidhaanam* = arrangement; *vihitam* = was done.
 
 "Assuming the form of birds, all the four entered that enemy's citadel and observed
 the measures taken by Ravana closely."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -358,8 +346,6 @@ the arrangement; *raavaNasya* = of Ravana; *duraatmanaH* = the evil-minded.
 
 "O, Rama! I give a detailed report as it was given to me of the defence-arrangements
 made by tha evil-minded Ravana, hear me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -406,8 +392,6 @@ of mighty prowess; ( are at); *dakSiNamcha* = the southern gate.
 
 "The very strong Prashata is standing near the eastern gate. Mahaparshva and
 Mahodara of mighty prowess are at the southern gate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -464,8 +448,6 @@ at the western gate.
 "Indragit, the son of Ravana is at the western gate along with many demons armed
 with harpoons, swords, bows, spears and hammers together with warriors furnished with weapons of
 various kinds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -521,8 +503,6 @@ lances in their hand.
 
 "A prey to great anxiety, Ravana knower of magical formulas, is himself stationed at
 the northern gate, along with several thousands of demons holding lances in their hand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -572,8 +552,6 @@ gulamam* = the center of the fort.
 
 "As for Virupaksha he with mighty army carrying spears, clubs and bows along with
 other demons, occupies the center of the fort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -618,8 +596,6 @@ aagataaH* = and returned; *iha* = here; *shiighram* = quickly.
 
 "All these counsellors of mine watched those groups of troops arranged in Lanka in
 this manner and immediately returned here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -674,8 +650,6 @@ Meanwhile, Rama the king of men and Sugreeva the Sovereign of monkeys, Hanuman t
 son of the wind, Jambavan the king of the Bears, Vibhishana the demon, Angada the son of Vali,
 Lakshmana, Sushena along with his kinsfolk, Mainda, Dvivida, Gaja, Gavaksha, Kumuda, Nala and
 Panasa, all having reached the enemy's territory, assembled to take counsel together.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -720,8 +694,6 @@ more than; *koTishcha* = crore; *rakSasaam* = foot soldiers; *balavantashcha*
 "The elephants and chariots number some ten thousand each, the cavalry twenty
 thousand and there are more than a crore foot soldiers. These strong and intrepid demons
 endeavouring to kill someone in battle have ever been their sovereign's favourites."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -770,8 +742,6 @@ _________________
 
 "O, Rama! In these demons, a retinue of ten lacs each is near at hand for each
 demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -822,8 +792,6 @@ counsellors.
 
 The mighty armed Vibhishana showed those counsellors to Rama after reporting the
 aforesaid news pertaining to Lanka, thus informed by his counsellors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -873,8 +841,6 @@ words.
 The counsellors of Vibhishana themselves confirmed all that was known regarding
 Lanka. Thereafter, the illustrious Vibhishana, in his desire to please Rama, addressed that
 lotus-eyed one, further with the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -936,8 +902,6 @@ because of angmented courage; *darpNa* = and a pride; *atra* = there.
 "O, Rama! When Ravana attacked Kubera in battle, sixty lacs of demons sallied forth
 with him. All of them were akin to the evil-minded Ravana in prowess, in strength, in courage and
 in pride."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -986,8 +950,6 @@ bhiiSaye* = and not terrifying; *asihi* = you are indeed; *samarthaH* = capable;
 "Indignation need not be resorted to (by you) based on this report. I am not
 terrifying you, bt only arousing your wrath. You are indeed capable of overpowering even celestials
 by your valour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1038,8 +1000,6 @@ you.
 
 "Having set out these monkey-forces in battle-array, you shall destryoy Ravana with
 this great army of monkeys, composed of four divisions, which surround you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1086,8 +1046,6 @@ spoken; *vaakyam* = words; *evam* = thus; *raaghavaH* = Rama;
 
 Vibhishana having spoken thus Rama gave the following orders for the attack of the
 adversaries.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1137,8 +1095,6 @@ monkeys; *prahasta pratiyoddhaa* = should attack Prahasta.
 
 "At the eastern gate of Lanka, Nila that lion among monkeys for his part, surrounded
 by many monkeys, should attack Prahasta."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1185,8 +1141,6 @@ mahodarau* = Mahaparshva and Mahodara.
 
 "At the southern gate, Angada the son of Vali, surrounded by his mighty army, should
 oppose Mahaparshva and Mahodara."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1237,8 +1191,6 @@ City)
 
 "Let Hanuman that son of the Wind and of inscrutable spirit, surrounded by a
 multitude of monkeys, enter the City through the western gate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1313,8 +1265,6 @@ I am myself determined to slay that wicked who owing to the boon he has received
 enjoys oppressing multitudes of Daityas (gaints) and Daanavas (demons), as also the magnanimous
 sages and who ranges the world, persenting all being. With the aid of Lakshmana, I shall forcibly
 enter the northern gate where Ravana is stationed along with his army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1362,8 +1312,6 @@ of the army.
 "Let the mighty Sugreeva the king of monkeys, the valiant Jambavan the king of bears
 and Vibhishana, the younger brother of the Lord of demons occupy the central position of the
 army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1411,8 +1359,6 @@ monkey-shape; *bhavatu* = should be; *samjJNaa* = a sign of recognition; *naH*
 
 "Monkeys should not assume human form in the battle, for, in the army of monkeys,
 this monkey-shape should serve as a sign of recognition among us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1486,8 +1432,6 @@ fifhth; *aatmanaa* = with him (along with his four companions).
 "Among our own people also, the form of monkeys will become a sign of recognition
 for us. Seven of us will attack the foe in our human form, I, my brother Lakshmana, who is full of
 valour, my friend Vibhishana and his four companions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 </details>
 
@@ -1561,8 +1505,6 @@ ascend Mount Suvela; *ramaNiiyataram* = the more charming; *taTam* = slope;
 
 Having said thus to Vibhishana for the success of the enterprise, Rama in the role
 of a wise leader, decided to stay on Mount Suvela, after observing its charming slopes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga37/yuddhasans37.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

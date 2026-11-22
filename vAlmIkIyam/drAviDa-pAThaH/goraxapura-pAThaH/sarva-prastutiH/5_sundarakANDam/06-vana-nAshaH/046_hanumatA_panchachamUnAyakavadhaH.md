@@ -20,8 +20,6 @@ asks them to exert a great effort to capture him. Hanuma first kills Durdhara wh
 him. He then kills Virupaksha and Yupaksha, by attacking them with a sala tree. Hanuma later kills Praghasa
 and Bhasakarna, by hurling the top of a mountain on them. After destroying the remaining army together
 with horses elephants and chariots, he again in returns to the archy door way of the Ashoka groove.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ of his face; *chakaara* = made; *uttamaam* = an excellent; *matim* = thought.
 
 Coming to know that the chief minister's sons were killed by the high souled who had
 cleverly concealed the expression made an excellent thought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -136,8 +132,6 @@ them) brave demons; *nayavishaaradaan* = skilled in strategy; *hanumadgrahaNavya
 That Ravana ordered (as follows) five foremost leaders of the army viz. Virupaksha, Yupaksha,
 Durdhara the demon, Praghasa and Bhasakarna, all of them brave demons, skilled in strategy, eager to
 capture Hanuma and equal to the speed of wind in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -210,8 +204,6 @@ capture Hanuma and equal to the speed of wind in battle.
 
 He ordered as follows: "March, all of you O generals, taking a large army together that
 mokey be punished."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -227,8 +219,6 @@ virodhitam* = which is not out of accord with time and space.
 
 "Approaching that monkey, you ought to become diligent. Action should be taken by you
 which is not out of accord with time and space."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ mahaabala parigraham* = putting on an extra ordinary might.
 
 "Judging him by his actions, I do not think him as a mere monkey. By all means, he may
 be an evil spirit, putting on an extraordinary might."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -363,8 +351,6 @@ the spirits and Gandharvas the celestials musicians were conquered by my along w
 Even same offensive surely, will be effected to us by them. It is such an evil spirit created by Indra.
 There is no doubt about it. Let it be captured forcibly. This monkey of a great prowess should not be
 despised by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -446,8 +432,6 @@ the capacity to change their form or energy (at will).
 Nila the Chief of army and so on like Dvivida. their scheme of performance is not so fearful as this;
 nor their efficacy, nor their prowess, nor their intellect, nor this capacity to change their form or
 energy at will."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -518,8 +502,6 @@ and human beings; *na paryaaptaaH kaamam* = their desires are not accomplished.
 
 "The three worlds including Indra, celestials, demons and humans are not fit to stand
 before you in the battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -566,8 +548,6 @@ capture; *kriyataam* = be made.
 
 "Keeping in view that it is a great evil spirit standing in the form of a monkey, exert
 a great effort and capture it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -583,8 +563,6 @@ in strategy; *aakaaN^kSataa* = desirous of; *jayam* = a victory; *raNe* = in bat
 
 "Even then, the one who is skilled in strategy, desirous of a victory in a battle is
 to protect himself. Victory in a battle is indeed unreliable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -649,8 +627,6 @@ a great speed.
 All of them, having a great strength and a blaze equal to that of fire, accepting the
 orders of their king and augmenting their strength with chariots, elephants in rut, horses of extra
 ordinary swiftness and various kinds of sharp weapons, sallied forth with a great speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -715,8 +691,6 @@ sun; *diipyamaanam* = shining; *toraNastham* = standing on the archy doorway; *m
 Thereafter, those valiant demons saw that Hanuma the great monkey, encircled by his rays
 of splendour like a rising sun, shining, standing on the archy door-way, possessing enormous energy,
 strong mental disposition and colossal strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -770,8 +744,6 @@ descend; *shiras* = into the head; *tasya* = of Hanuma; *durdhareNa* = by Durdha
 
 Durdhara discharged five sharp and fierce steel arrows with a lustre of black lily-petals
 and yellow tops to descend into Hanuma's head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -823,8 +795,6 @@ taiH* = with their respective; *bhiimaiH* = terrific; *praharaNaiH* = weapons.
 Immediately on seeing that Hanuma of great intellect, of great swiftness and of a gigantic
 body, all those demons, stationed in all quarters, attacked him with their terrific weapons from every
 side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -840,8 +810,6 @@ nadan* = making a sound; *vinaadayan* = reverberating; *dashadishaH* = in all di
 
 Pierced in the head by those fire arrows, Hanuma leapt roaring in the sky, making the
 roar reverberating in all directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -891,8 +859,6 @@ arrows; *abhipede* = attacked Hanuma.
 
 Then the mighty and the valiant Durdhara leapt into the sky with his chariot. Stretching
 his bow and throwing hundreds of sharp arrows, he attacked Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -942,8 +908,6 @@ iva* = as the wind (warding off); *vR^iSTimantam payodam* = a rainy cloud; *payo
 
 Hanuma warded him off from showering the arrows on him in the sky, as the wind wards
 off a rainy cloud from raining at the end of a monsoon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -993,8 +957,6 @@ ninadam* = a roar; *bhuuyaH* = again; *vegavaan* = and swiftly; *vyavardhataH*
 
 Thus afflicted by that Durdhara, Hanuma then emitted a roar once again and swiftly expanded
 his body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1041,8 +1003,6 @@ up; *duuram* = from far above; *mahaavegaH* = with great speed.
 
 Like a mass of lightning on a mountain, Hanuma instantaneously fell on Durdhara's chariot,
 by jumping up from far above with great speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1118,8 +1078,6 @@ tyakta jiivitaH* = losing his life; *bhuumau* = to the ground.
 
 Losing his chariot whose axle and pole had been broken and all his eight horses destroyed,
 Durdhara then dropped down, losing his life, to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1135,8 +1093,6 @@ the air.
 
 Engrossed in anger to see his fallen on the ground, the inviolable virupaksha and Yupaksha,
 the annihilators of enemies, jumped up into the air.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1183,8 +1139,6 @@ the annihilators of enemies, jumped up into the air.
 
 Jumping up in the air all of a sudden those two demons struck in the chest with their
 clubs that long-armed Hanuma standing in clear sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1234,8 +1188,6 @@ prowess equal to that of Garuda the eagle; *punaH* = again; *nipapaata* = descen
 
 Striking down the swiftness of those violent demons, the mighty Hanuma whose prowess
 is equal to that of Garuda the eagle, again descended on to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1285,8 +1237,6 @@ tam utpaaTya cha* = and uprooting it; *saH pavanaatmajaH* = that Hanuma; *vaanar
 
 Approaching a sala tree and uprooting it, that Hanuma the monkey killed those two valiant
 demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1355,8 +1305,6 @@ in his hand (attacked).
 
 Getting to know all those mighty three killed by Hanuma, Praghasa with a great alacrity,
 forcefully attacked Hanuma. The valiant Bhasakarna, highly enraged, attacked taking a spear in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1416,8 +1364,6 @@ demon; (attacked); *shuulena* = with a dart.
 
 The two generals stood by the side of the illustrious Hanuma. Praghasa pierced Hanuma
 with a sharp-pointed spear and Bhasakarna attacked him with a dart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1438,8 +1384,6 @@ samaprabhaH* = having his blaze similar to that of rising sun.
 
 With his limbs wounded by those two demons, that Hanuma with his body-hair anointed by
 blood, became enraged, with his blaze similar to that of a rising sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1483,8 +1427,6 @@ of a mountain; *samR^igavyaaLa paadaam* = with its animals; serpants and trees; 
 
 Having plucked up the top of a mountain with its various animals serpents and trees,
 the heroic Hanuma the best among monkeys, killed those two demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1533,8 +1475,6 @@ _________________
 
 When those five army-generals have been killed, Hanuma then destroyed that remaining
 army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1589,8 +1529,6 @@ _________________
 Like Indra the thousand-eyed god destroying the demons, Hanuma destroyed the horses by
 striking them with horses, the elephants with elephants, the warriors with warriors and the chariots
 with chariots.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1640,8 +1578,6 @@ _________________
 
 The earth had its path-ways blocked on all sides with the elephants and the horses killed,
 with the demons killed and with the big chariots which had their axles broken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 
@@ -1697,8 +1633,6 @@ arch way.
 Like Yama the Time-spirit waiting for the right moment for the destruction of the mortals,
 the heroic Hanuma, killing the eminent demons and the army-generals with their troops and vehicles in
 the combat, waited for the right moment at the arch-way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
 </details>
 

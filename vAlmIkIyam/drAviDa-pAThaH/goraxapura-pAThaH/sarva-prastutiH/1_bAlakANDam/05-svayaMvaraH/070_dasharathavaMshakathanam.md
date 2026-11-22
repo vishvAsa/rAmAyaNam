@@ -18,8 +18,6 @@ Ikshvaku's bloodline is narrated as custom demands to enquire into the bridegroo
 offer his two daughters to Bharata and Shatrughna. This listing and eulogising ancestors is an adjunctive custom in Indian
 marriages. Nowadays it is limited to cite only three preceding generations, instead of narrating from the first, since nobody
 holds his family tree, ready at hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ shataanandam* = to the [royal] priest Shataananda; *vaakyam uvaaca* = said sente
 
 Then on the next day morning after getting the ritual liturgies performed through sages, he that articulator Janaka articulated
 this to sage Shataananda, the royal priest. [1-70-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ aircraft of richly-rich god Kubera, and as though supping the sugarcane juice-li
 
 The words *vaaryaa phalakaparyantaam* also mean 'that city is surrounded by the plantation of citrus grapefruits
 that are famous for health keeping.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ in partaking the joyousness of this marriage... " So said Janaka to Shataananda.
 
 Kushadhvaja supplied whole lot of paraphernalia for this Vedic-ritual of Janaka from his auspicious city Saankaasya, and
 hence he is the benefactor of the ritual.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ words [enunciation] ; *avyagraaH* = not flustering [alacritous envoys]; *kecit a
 
 That way when Janaka asseverated that enunciation in the presence of Shataananda, Shataananda in turn ordered and summoned
 envoys, and then some alacritous envoys have come, whom Janaka ordered to proceed to his brother. [1-70-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -258,8 +248,6 @@ envoys, and then some alacritous envoys have come, whom Janaka ordered to procee
 
 By the order of the king those envoys who have speedy horses have travelled on to city Saankaasya speedily, to lead forth
 that tigerly man Kushadhvaja that speedily, which is as good as fetching Vishnu by order of Indra. [1-70-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -306,8 +294,6 @@ Rama's breaking of Shiva's bow, and they have also submitted the point of view o
 The viewpoint of Janaka is to offset the problem of marriages of both the daughters of his brother Kushadhvaja. Dasharatha
 has four sons and Janaka presaged a quadruple alliance with him, where Janaka has two daughters and his brother Kushadhvaja
 has two.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -347,8 +333,6 @@ speed]; *duutashreSThaiH* = from worthy envoys; *tat vR^ittam shrutvaa* = on hea
 
 On hearing that event from the worthy envoys whose speed is praiseworthy, king Kushadhvaja came right away to Mithila by
 the order of king Janaka. [1-70-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ divine [majestic] seat, also; *adhyarohata [adhi-aarohat]* = mounted upon [sat u
 Kushadhvaja addressed himself to the insightful one and a compassionate person in the duty of an elder brother, namely Janaka,
 and on reverencing sage Shataananda firstly, next he has reverenced his fondly affectionate brother Janaka, and then he
 sat upon a majestic seat, that which is befitting to kings. [1-70-9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -457,8 +439,6 @@ assumed high seats]; *mantrishreSTham sudaamanam* = distinguished minister, Suda
 
 Both the brothers of unlimited self-refulgence having assumed their high seats, they who are distinguished for their righteous
 acts have started to send Sudaamana, the distinguished minister. [1-70-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -501,8 +481,6 @@ will be - with ministers [Vedic celebrants]; *aatmajaiH saha* = with his sons; *
 "Oh, minister plenipotentiary, Sudaamana, you please proceed immediately to king Dasharatha, the legatee of Ikshvaku-s with
 illimitable resplendence, and let that invincible king Dasharatha be led hither along with his sons and along with his Vedic-celebrants..."
 Thus Janaka ordered Sudaamana, the minister. [1-70-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -517,8 +495,6 @@ shirasaa abhivaadya ca* = on hailing him with head [head-bent, bow down], also; 
 
 Accordingly Sudaamana has gone to the visitatorial-palace of the promoter of Raghu's heritage, namely Dasharatha, and he
 said this on appearing before that king duly bowing down and hailing the king. [1-70-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -559,8 +535,6 @@ said this on appearing before that king duly bowing down and hailing the king. [
 "Oh, valiant king, oh, sovereign of Ayodhya, his highness the sovereign of Mithila from the heritage of Videha kings is
 poised for seeking an audience with your highness, along with your highness' royal-priest Vashishta and other mentors..."
 The minister Sudaamana said so to Dasharatha. [1-70-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -606,8 +580,6 @@ minister; *saRSigaNaH* = with sage's assemblages; *sabandhuH* = with kinsmen;
 
 On hearing that best minister's words, then king Dasharatha came to the place where Janaka is available, along with his
 kinsmen and the assemblages of sages. [1-70-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -648,8 +620,6 @@ kinsmen and the assemblages of sages. [1-70-14b, 15a]
 
 That sententious king Dasharatha said this to the king from the lineage of Videha kings, Janaka, who is with his mentors,
 kinsfolk, and ministers. [1-70-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -689,8 +659,6 @@ kinsfolk, and ministers. [1-70-15b, 16a]
 
 "Oh, exalted king Janaka, you already appreciate that this godly sage Vashishta is godlike to the bloodline of Ikshvaku-s,
 and in all affairs he is our internuncio... [1-70-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -763,8 +731,6 @@ yathaakramam* = as per lineage; *me* = of mine [my bloodline]; *vakSyati*= will 
 narrate about my bloodline, lineally..." And, to the nod of Vishvamitra Dasharatha become reticent, and then the godly and
 sententious sage Vashishta who is along with his men of the cloth said these sentences to the king of Videha, namely Janaka.
 [1-70-17b, 18, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -840,8 +806,6 @@ Out of the three epithets to Brahma one is 'timeless' because He continues to be
 say 31, 10, 40, 00, 00, 00, 000 human years, without transmutation, yet He continues further. He is 'changeless' as his
 faculties or His divine being does not undergo any mutation or metamorphosis. He is 'perishless' during the above period
 and after, since Vishnu gave rise to Him. Up to here is ultramundane order of progeny and the mundane lineage is now continued.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -881,8 +845,6 @@ son; *tam ikSvaakum* = him, that Ikshvaku; *ayodhyaayaam* = in Ayodhya; *puurvak
 
 Manu is the earliest Prajaapati and Ikshvaaku is the son of Manu, and that Ikshvaaku is the first king of Ayodhya... know
 thus... [1-70-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -928,8 +890,6 @@ thus... [1-70-21]
 
 The son of Ikshvaaku is the legendary Kukshi, thus he is renowned, and the famous Vikukshi is the son of Kukshi...
 [1-70-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -969,8 +929,6 @@ is; *baaNasya* = Baana's [son.]
 
 From that most brilliant and courageous Vikukshi, Baana emerged as son, and the highly refulgent and valinat Anaranya is
 the son of Baana... [1-70-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1016,8 +974,6 @@ renowned one, Dhundumaara emerged as son.
 
 Pruthu is the son of Anaranya, and Trishanku is Pruthu's son, and the highly renowned Dhundumaara happened to be the son
 of Trishanku... [1-70-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1063,8 +1019,6 @@ charioteer, Yuvanaashva - is the son; *pR^ithiviipatiH* = lord of - king of land
 
 Dhundumaara begot a highly glorious and a speediest charioteer Yuvanaashva as son, and Mandhaata emerged as the son of
 Yuvanaashva... [1-70-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1104,8 +1058,6 @@ a highly noble, son, engendered; *susandheH api* = from Susandhi, even; *dhruvas
 
 Maandhaata engendered the highly noble Susandhi as son, and even Susandhi engendered two sons, namely Dhruvasandhi and
 Prasenajit... [1-70-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1145,8 +1097,6 @@ effulgent one; *asitaH naama jaayata* = is begotten by name Asita.
 
 From Dhruvasandhi, an illustrious one named as Bharata is begotten, and Bharata begot a highly effulgent son named as Asita...
 [1-70-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1189,8 +1139,6 @@ _________________
 
 To which Asita, kings like Haihaya-s, Taalajanghaa-s, and the valiant Shashabindu-s have become adversaries and kings in
 hostility, he had to wage war with them... [1-70-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1236,8 +1184,6 @@ hostility, he had to wage war with them... [1-70-28]
 
 While counterattacking those kings, Asita is dethroned in war and then he reached Himalayas along with his two wives...
 [1-70-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1308,8 +1254,6 @@ gave toxic [food] to co-wife; *iti shrutam* = thus, we heard.
 
 Asita was with his meagre forces when he was in Himalayas, and there he drew nigh of his Time. At the time of his demise
 two of his wives were pregnant, and one of two wives gave toxic food to the co-wife for abortion... thus we heard... [1-70-30-31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1350,8 +1294,6 @@ bhaargavaH cyavanaH naama muniH* = sage Bhrigu's [heir,] Cyavana, named, saint; 
 
 There was a saint named Cyavana, the heir of Sage Bhrigu, who in fascination with best and beautiful mountains then taking
 shelter on Himalayas. [1-70-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1371,8 +1313,6 @@ shelter on Himalayas. [1-70-31b, 32a]
 
 One of the two wives of Asita, the lotus-petal eyed and highly fortunate one queen came there desirous of a best son, and
 reverenced the sage who is godly in his glow... [1-70-32b-33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1424,8 +1364,6 @@ There are variations in reading these lines. While some say that Kaalindi is one
 some others say that Kaalindi is the one who 'received' the poisoned food. Here taking the *kaalindi ca* 'Kaalindi
 also...' it is said that 'Kaalindi is she who has administered poison...' Since she is also pregnant, coupled with the guilt
 of poisoning, hence the use of *ca* , she too came to the sage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1443,8 +1381,6 @@ of poisoning, hence the use of *ca* , she too came to the sage.
 'Oh, highly fortunate lady, a very good son and a very mighty son is there in your womb. Soon you will give birth to a
 highly vigorous, highly refulgent son and that illustrious one will take birth with toxicity, but there is no need to worry...'
 So said Sage Cyavana to the queen of Asita who received the poison. [1-70-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1486,8 +1422,6 @@ no more] husband; *devii* = that lady; *cyavanam namaskR^itya* = reverencing Sag
 **अनुवादः**
 
 On reverencing Sage Cyavana that husband devout princess whose husband is no more that lady gave birth to a son... [1-70-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1543,8 +1477,6 @@ Shashabindu-s, wars with them and drives them out of this country. While doing s
 of their Kshatriya-hood. Taking the nearness of name *paarada* to Persia, it is said that the kings repulsed by Sagara
 taken domicile in the Middle East and *a aaryan* or *a aa riaan* is *Airan* or present day Iran, and
 age-old are Indo-Iranian links. Further, the word Asia has its own nearness to the name of king Asita.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1587,8 +1519,6 @@ _________________
 
 From Sagara it is Asamanja and from Asamanja it is Amshuman, and from Amshuman it is Diliipa, and the son of Diliipa is
 Bhageeratha... [1-70-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1645,8 +1575,6 @@ of Vashishta and becomes a man-eating demon. But he too got his mystic powers. W
 to Vashishta, by taking water into his hand, his wife Madayanti, being a husband devout wife dissuades him to not to counter
 all-powerful Vashishta. He on listening to his wife drops that water taken for cursing, onto his own feet. Then his accursed
 water blemished him via his feet. Hence, he is also termed as Kalmashapaada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1712,8 +1640,6 @@ Ambariisha is the son of Prashushruka.
 
 Shankana's son is Sudarshana, and from Sudarshana it is Agnivarsna... And Shiigraga is the son of Agnivarsna, and Shiighraga's
 son is Maru and from Maru it is Prashushruka, and Ambariisha is the son of Prashushruka... [1-70-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1764,8 +1690,6 @@ Ambariisha's son was Nahusha, the emperor and Yayaati is the son of Nahusha, but
 **टिप्पनी**
 
 These names Nahusha and Yayaati also occur in other Puraana-s, indicating them in earlier eras to Ramayana period.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1780,8 +1704,6 @@ Dasharatha, is manifest; *asmaat dasharathaat* = from him Dasharatha,; *bhraatar
 
 Aja was Naabhaaga's son and from Aja, this Dasharatha is manifest, and from him, from this Dasharatha, these brothers,
 Rama and Lakshmana are born... [1-70-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 </details>
 
@@ -1852,8 +1774,6 @@ seemly daughters of yours to seemly [pair of brothers]; *daatum* = to espouse to
 indomitable, and irreproachable, and in respect of these kings born in this line of blood, oh, king Janaka, I espouse that
 it will be meetly of you to offer your seemly daughters to this seemly pair of Rama and Lakshmana..." So said Vashishta
 to king Janaka. [1-70-44, 45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

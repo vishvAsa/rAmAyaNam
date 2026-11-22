@@ -17,8 +17,6 @@ title_english = "055 Monkeys decide to fast unto death"
 Monkeys decide to fast unto death as they failed in executing Sugreeva command. Sugreeva already said that anyone
 returning after timeframe might deem himself as dead. Thus, Angada casting aspersions on Sugreeva and his ruthless
 commands, takes this decision on many counts. All the other monkeys follow the suite.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ said.
 
 On hearing the polite and righteous words of Hanuma, which are just yeomanly towards Hanuma's lord, namely Sugreeva,
 Angada said these sentences. [4-55-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ Sugreeva, not, deducible.
 
 "Un-deducible in Sugreeva are his steadiness, or harmlessness, or frankness, also thus salience, or even valiance,
 further more cleanliness of heart or soul. [4-55-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -189,8 +183,6 @@ Sugreeva closed the mouth of the cavity when his brother in all his belief assig
 the mouth of the cavity to fightback the demon Dundubhi if he tries to escape, all the more when his own brother
 is still inside the cavity, thus he is nefarious, how then he can be said as one conversant with moral rectitude?
 [4-55-3, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ good services of others like us? [4-55-5]
 For this statement Hanuma may retort saying 'Sugreeva has not overlooked Rama but otherwise engrossed in material
 comforts. He sent all of us all over to search for Seetha in requital to the help rendered by Rama... is it not
 the upright conduct of Sugreeva?' For that Angada is ready with an answer as.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -295,8 +285,6 @@ as a coward; *na* = not; not as a coward fearing his own unscrupulousness; *tasm
 
 "He has ordered and sent us for searching Seetha owing to the fear from Lakshmana, but not as a coward fearing
 his own unscrupulousness, how then can scrupulosity be manifest in him? [4-55-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -346,8 +334,6 @@ one belonging - one belonging to his family.
 act of eliminating my father, and unmindful of tradition in usurping my mother and throne, and unthankful in requiting
 Rama by himself, instead of using us as pawns, and changeful in ignoring his promise to Rama, but in fearing for
 Lakshmana? Will it be possible especially for one like me belonging to his family? [4-55-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -403,8 +389,6 @@ This is in reply to Hanuma's advise, 'he establishes you only in kingdom, as bef
 cannot rebut Angada for he has no valid proof to show to Angada about Sugreeva's goodness towards Angada, as sermonised
 by Hanuma in the earlier chapter. Hence, 'better to follow the leader, than to argue...' is the only option left
 to Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -452,8 +436,6 @@ live, indeed.
 "My slyness in planning to live in Black Hole has backfired, I am now culpable in not finding Seetha being the
 troop leader, and I am a powerless as you all are Sugreeva's side, how then can I live on indeed after reaching
 Kishkindha, like caitiff turned into a wretch. [4-55-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -503,8 +485,6 @@ hi* = surceases, indeed.
 
 "Indeed he surceases me by some mysterious trammelling punishment, for that Sugreeva becomes disingenuous, ferocious,
 also barbarous just for the reason of his kingship. [4-55-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -550,8 +530,6 @@ be acquiescent; *gR^iham gacChantu* = to dwelling place, may go back.
 
 "Fast unto death behoves me than trammels and tramples, thus you all be acquiescent to my proposal and you may
 go back to your dwellings. [4-55-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -597,8 +575,6 @@ to city, not, I wish to go; *iha eva praayam aasiSye* = here, only, fast unto de
 
 "I am reiterating to you all that I do not wish to go to the city of Kishkindha, and here only I sit fasting unto
 death, as death alone is expedient to me. [4-55-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -665,8 +641,6 @@ death, as death alone is expedient to me. [4-55-12]
 
 "On my behalf Raghava-s wellbeing may be enquired firstly paying deference to them, so also the wellbeing of my
 paternal uncle and king may be enquired, only after paying deference to that lord of vanara-s. [4-55-13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -712,8 +686,6 @@ iha* = now; *maam vinaSTam shrutvaa* = me, as perished one, on hearing; *vyaktam
 Lady Tara, who by her nature is a warm-hearted and austerely lady who cherishes her son more, and such as she
 is she will obviously leave off her life on hearing that I breathed my last." So said Angada to all monkeys. [4-55-14b,
 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -762,8 +734,6 @@ on sacred grass, entered - reclined.
 
 On speaking to that point and after paying deference to older vanara-s available there, Angada puling glum facedly
 reclined on the sacred grass spread on ground. [4-55-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -821,8 +791,6 @@ vaari* = from pairs of eyes, heated [seething,] verily [effusive,] water [teardr
 
 Apropos to Angada's recumbency on ground, the other outstanding Vanara-s snivellingly sluiced down seethingly
 effusive teardrops emotionally. [4-55-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -837,8 +805,6 @@ ca* = of Vali, esteeming, also; *angadam parivaarya* = Angada, gathering around;
 
 While disesteeming Sugreeva but esteeming Vali, all of the vanara-s have gathered around Angada deciding to sit
 down for fasting unto death in step with Angada. [4-55-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -897,8 +863,6 @@ said by Angada as appropriate, they positioned themselves on the sacred grass af
 The sacred-grass is spread as sacred beds to cast off their lives. The edges of grass blades are positioned southward.
 As they are on that northern shore of southern ocean, all those best monkeys who are bent on to self-immolation,
 they became recumbent facing eastward. [4-55-19b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -961,8 +925,6 @@ Vali. [4-55-21, 22]
 Here Maheshvara Tiirtha says that 'an apprehensive dread swept over them subconsciously...' not because of the
 past episodes, but due to some future events, where their becoming pray to some unknown carnivore, namely Sampaati,
 is apprehended. Thus, their fasting unto death, as per scriptural sanction is going to fail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 </details>
 
@@ -1023,8 +985,6 @@ became.
 While those many fly-jumpers who mirror up great mountaintops by their physique are recumbent discussing stridently,
 the entrails of caves of mountain are rendered strident, and that mountain itself appeared like skyscape filled
 with strident clouds about to burst a good fortune. [4-55-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

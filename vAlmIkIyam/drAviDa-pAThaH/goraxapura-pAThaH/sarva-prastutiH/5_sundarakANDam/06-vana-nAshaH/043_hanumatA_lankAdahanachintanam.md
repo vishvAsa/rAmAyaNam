@@ -21,8 +21,6 @@ ascends to the top of the sanctuary and after killing the guards posted there, s
 clapping on his arms and by uttering the names of Rama, Lakshmana and Sugreeva in a roaring voice. Hanuma
 assumes a gigantic form and uplifting a pillar in that sanctuary, he speedily whirls it around and burns
 the sanctuary by producing a fire, created out of its friction with the other pillars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -115,8 +113,6 @@ has not been destroyed. For that reason, I will cause this mansion to crumble do
 Thus thinking himself, Hanuma the best among monkeys, son of the wind-god having large jaws, by showing
 his strength, bounced up and ascended the lofty palatial mansion of the sanctuary, which was as high
 as a mountain-top of Meru.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -157,8 +153,6 @@ as a mountain-top of Meru.
 
 That Hanuma, an army-chief of monkeys, possessing a very great splendour, ascending the
 lofty palatial mansion similar to a mountain shone like a second rising sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -234,8 +228,6 @@ _________________
 
 Overpowering the lofty and inviolable of the sanctuary, Hanuma blazing mansion his splendour,
 meta morposed into a towering sized body equal to that of Pariyatra mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -251,8 +243,6 @@ body; *prabhaavaat* = by dint of his distinction; *maarutaatmajaH* = Hanuma; *aa
 
 Enhancing his body to a very big size by dint of his distinction, Hanuma clapped on his
 arms strongly, filling the City of Lanka with sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ the sanctuary also; *mohitaaH* = (fell down) unconsciously.
 
 By the great deafening noise, made by clapping on his arms, the birds and also the guards
 protecting the sanctuary unconsciously fell down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -388,8 +376,6 @@ am the servent of Rama, the king of Kosala kingdom, who is unwearied in action. 
 will not be matching equally with me, who is capable of striking with thousnads of rocks and trees in
 battle. Here, before the eyes of all the demons, I will annihilate the City of Lanka and after offering
 salutation to Seetha, I will go back duly completing my task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -439,8 +425,6 @@ to the guards protecting the sanctuary; *hariyuuthapaH* = Hanuma the chief of ar
 
 Thus uttering to those guards protecting the sanctuary, roared terribly, making a noise
 and creating a terror to the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -494,8 +478,6 @@ bodies; *paryavaarayan* = surrounded; *maartutim* = Hanuma; *visR^ijantaH* = dis
 Hearing that loud noise, hundreds of guards protecting the sanctuary went, taking many
 kinds of weapons, spears, swords and axes. Those Kinkaras with huge bodies surrounded Hanuma, duly discharging
 those weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -564,8 +546,6 @@ demons; *parikSipya* = surrounding; *harishreSTham* = Hanuma the best among monk
 They banged Hanuma with various kinds of maces, iron bludgeons plated with gold and arrows
 shining like the sun. That troop of demons surrounding Hanuma the best among monkeys, shone like a greatly
 extensive whirlpool in the waters of River Ganga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -619,8 +599,6 @@ the son of wind-god; *utpaaTayitvaa* = uplifting; *stamabham* = a pillar; *shata
 Thereupon, the enraged Hanuma assumed a terrific form. Hanuma possessing a gigantic body
 and the son of wind-god, uprooting a pillar with a hundred edges and decorated with gold in that edifice,
 then speedily whirled it around.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -671,8 +649,6 @@ _________________
 Fire was also generated there (due to friction with other pillars) The edifice was then
 consumed by fire. Seeing the edifice burning, that Hanuma killing those hundred demons, like Indra killing
 demons with his thunderbolt and gloriously staying in the sky, spoke (the following) words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -736,8 +712,6 @@ balinaam* = having strength; *sugriiva vashavartinaam* = obeying the orders of S
 
 "Thousands of monkeys like me, possessing gigantic bodies of strength, were sent on the
 orders of Sugreeva. We and other monkeys are now roaming the entire earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -781,8 +755,6 @@ a prowess equal to; *naagasahasrasya* = that of a thousand elephants.
 
 "Some of the monkeys are having a strength of ten elephants. Some are having a strength
 of a hundred elephants. Some are having a prowess equal to that of a thousand elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -799,8 +771,6 @@ measured.
 
 "Some are having the strength of a strong stream. Some have strength equal to that of
 wind. Some other army-chiefs of monkeys even cannot be measured."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 </details>
 
@@ -882,8 +852,6 @@ will come.
 
 "Surrounded by hundreds, myriads, lakhs and crores of such monkeys having their teeth
 and nails as their weapons, Sugreeva, who is capable of destroying you all, will come."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -900,8 +868,6 @@ and nails as their weapons, Sugreeva, who is capable of destroying you all, will
 
 "You hold enmity with the high souled Rama. For this, the City of Lanka will not be there.
 Neither you, nor even Ravana will survive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

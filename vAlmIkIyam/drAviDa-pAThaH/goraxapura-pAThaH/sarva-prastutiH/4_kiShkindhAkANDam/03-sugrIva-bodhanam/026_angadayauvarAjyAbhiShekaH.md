@@ -18,8 +18,6 @@ Hanuma proposes that the coronation of Sugreeva is to be performed under the aeg
 he cannot enter villages or cities during exile, and asks the chiefs of monkeys to perform the same. Rama also
 suggests that Angada may also be crowned as crown prince. Accordingly, Sugreeva is anointed as king and Angada
 as crown prince of Kishkindha. The regal splendour of the coronation is narrated in here.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ eminent, ministers; *parivaarya upatasthire* = arriving around, stood nearby - s
 The eminent ministers of tree-branch animals then surrounded Sugreeva, who is very much seared in grief and who
 is still wearing damp cloths, as he just a while ago offered watery oblations to his deceased brother, stood accessible
 to him. [4-26-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -94,8 +90,6 @@ palms-adjoined, they stood.
 
 On going towards the dexterous Rama, whose exploits are effortless, all of those monkeys tarried with their palms
 adjoined as with the sages tarrying in the presence of Brahma, the Forefather. [4-26-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -145,8 +139,6 @@ palms, sentence, spoke.
 
 Hanuma, the son of Air-god, whose sheen is like that of the golden mountain Meru, and whose visage is like that
 of the tender sun in its glint, then spoke this sentence reverently adjoining his palms. [4-26-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -203,8 +195,6 @@ privileged, might; *mahaatmaanaam* = of great-souled ones - rather, deferential 
 is a privileged one - since our might is not dependent on any weapons or other tactical warfare, except our own
 bodily strength - and oh, Kakutstha, that which belongs to his father and forefathers, and that which is otherwise
 impossible for him to regain, Sugreeva regained such a kingdom with your grace. [4-26-4, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -251,8 +241,6 @@ as king; *sarvaaNi kaaryaaNi sam vidhaasyati* = all, activities, well, set right
 "And if you empower, this Sugreeva will enter the propitious city Kishkindha along with a group good-hearted friends,
 and he will get anointed procedurally with various essences and herbal-extracts as its king, and thus he can revamp
 all the administration. [4-26-5b, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -272,8 +260,6 @@ consolidate; *sam pra harSayan* = for the very, high, exhilaration - of monkeys.
 to enter this delightful mountain cave, namely Kishkindha, and you may kindly consolidate the congenial affinity
 between the governor and the governed for the very high exhilaration of Vanara-s." Hanuma appealed Rama in this
 way. [4-26-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -319,8 +305,6 @@ ones, destroyer of - Rama; *vaakya kovidaH* = in sentence making, scholar - enun
 
 When Hanuma said so, Rama the destroyer of valiant foes, an intellectual and an enunciator replied Hanuma in this
 way. [4-26-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -360,8 +344,6 @@ vaa* = or, else; *puram* = city; *na pravekSyaami* = not, I enter.
 
 "As a conformist to the directives of my father, oh, gentle Hanuma, I am not supposed to enter either a village
 or a city. [4-26-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -409,8 +391,6 @@ procedurally, be anointed, enthroned.
 
 "As and when the best one among Vanara-s valorous Sugreeva enters the highly flourishing and statuesquely Kishkindha,
 he shall be enthroned in the kingdom, immediately and procedurally. [4-26-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -453,8 +433,6 @@ Sugreeva, spoke.
 
 Replying Hanuma thus, that knower of the etiquette Rama, also spoke to Sugreeva, who is rich in politesse and
 an imposing one by his might and valour. [4-26-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -504,8 +482,6 @@ The eldest son with kingly merits, though parented by an elder brother, need be 
 anena jyShTho guNavaan
 jyeShTha bhraatR^i putro api yauva raajye abhiShecaniiya iti uktam - dharmakuutam*The whole Maha Bharata is
 based on this rule till a gruesome war has chanced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -561,8 +537,6 @@ first month of rainy season that brings many showers. [4-26-14]
 This month *shrvaNa*, compares nearly with July-August months. There are elaborate accounts for calculating the
 duration of Ramayana basing on the months indicated here and there, and they cannot be included here for these
 calculations vary in themselves. The Hindu seasons are six as detailed in Bala Kanda 1-12-1.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -608,8 +582,6 @@ calculations vary in themselves. The Hindu seasons are six as detailed in Bala K
 
 "This is not a time for any striving, hence you enter the propitious city Kishkindha, oh, gentle Sugreeva, and
 I for my part will stay on this mountain along with Lakshmana. [4-26-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -655,8 +627,6 @@ salilaa* = copious, is water; *prabhuuta kamala utpalaa* = aplenty, red-lotuses,
 
 "This mountain cave is heart-pleasing by being spacious with worthwhile breeze, oh, gentle one, water is copious
 and red and blue lotuses are aplenty about this place. [4-26-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -709,8 +679,6 @@ ones - your friends; *sam pra harSaya* = full, well, gladden - exhilarate.
 "On the advent of *kaartika* month, October, say post-rainy season, you shall do your best in the cause of Ravana's
 elimination, and this is our covenant, and hence oh, gentle Sugreeva, for now enter your mansion, be enthroned
 in kingdom as well, and exhilarate your friends." [4-26-17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -759,8 +727,6 @@ vaanara rSabhaH* = Vanara-s, best; *vaali paalitaam* = by Vali, ruled; *ramyaam 
 
 Thus when Rama countenanced that best vanara Sugreeva entered the charming city Kishkindha which is so far ruled
 by Vali. [4-26-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -807,8 +773,6 @@ by Vali. [4-26-18b, 19a]
 
 When the sovereign of vanara-s Sugreeva has entered the city, very gladly thousands of vanara-s have also entered
 and fenced off that lord of fly-jumpers from all over. [4-26-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -858,8 +822,6 @@ attitude; *vasudhaayaam patitaaH* = on ground, they fell - prostrated.
 
 All the inmates and ministers in Kishkindha then revered the lord of monkey throngs Sugreeva with their head-bent,
 and they have also prostrated before him with an assiduously polite attitude. [4-26-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -907,8 +869,6 @@ gentle here,] inner, palace - palace-chambers, entered.
 
 Raising the rank-and-file members from their prostration, and on exchanging a word or two with them, that valiant
 and highly mighty Sugreeva entered the beautiful palace-chambers of his brother. [4-26-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -955,8 +915,6 @@ vaanara rSabham sugriivam vanara-s, arch - arch-vanara, Sugreeva is; *su hR^idaH
 
 When that prodigiously venturesome arch-vanara Sugreeva has entered the palace his cohorts anointed him as gods
 would anoint the Thousand-eyed Indra. [4-26-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1064,8 +1022,6 @@ on dry-land, best sandal paste, also various and numerous perfumes, Holy-yellow-
 and fragrant called priyangu, honey, ghee, curds, skin of tiger, tassels of fragrant flowers, and invaluable sandal
 shoes, unguents before oil bath, orpiment preparations one in yellow called gorochana, and the other in red called
 Manshila, there arrived sixteen best and cheerful damsels. [4-26-23b, 24, 25, 26, 27, 28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1115,8 +1071,6 @@ anoint - they started.
 
 They the Vanara-s have then started to anoint that best Vanara Sugreeva according to the tradition, having appeased
 the eminent Brahmans with jewels, garments and delicacies. [4-26-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1157,8 +1111,6 @@ the eminent Brahmans with jewels, garments and delicacies. [4-26-29]
 
 Authoritative scholars in Vedic-hymns then spreading the ritual grass around the Fire-altar which is with enkindled
 Ritual-fire oblated fire oblations into it duly sanctifying them with hymns. [4-26-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1281,8 +1233,6 @@ Hindu tradition draws its methodology of religious ceremonies mainly from two so
 and *smR^iti, suutra-s* rules framed by sages. In the above verse it is said that water is poured through
 the horns of bulls. It is a practise to do so to achieve religious merit. So also bathing God Shiva through the
 horn of rhino is said to be the highest method of *abhiSeka* anointment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1322,8 +1272,6 @@ the best; *hR^iSTaaH* = cheerily = pra cukrushuH = highly, shouted - chattered, 
 
 Hundreds and thousands of the great-souled and prominent vanara-s that are there, all of them have cheerily raised
 high hullabaloos while Sugreeva is anointed. [4-26-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1369,8 +1317,6 @@ word, to effectuate; *angadam sam pariSvajya* = Angada, on graciously embracing;
 
 The best one among monkeys Sugreeva graciously embraced Angada and anointed his as crown prince in order to effectuate
 Rama's word. [4-26-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1417,8 +1363,6 @@ worshipped - acclaimed, indeed.
 
 On the anointment of Angada those fly-jumpers that have sympathy for him have acclaimed Sugreeva saying, 'well
 done, well done.' [4-26-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1465,8 +1409,6 @@ extolled.
 
 While that kind of pompous anointment is taking place all are gladdened and that way they repeatedly extolled
 the great-souled Rama, and even Lakshmana too. [4-26-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1515,8 +1457,6 @@ puSTa jana aakiirNaa* = with blithe, bulgy, people - monkeys, overspread with.
 
 That magnificent city Kishkindha situated in the cave of mountain which is already splendorous with flags of triumph
 and banners is further splendorous with blithe and burly monkeys overspreading it. [4-26-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 </details>
 
@@ -1577,8 +1517,6 @@ achieved.
 The valiant Sugreeva who is by now the king of monkeys army, then apprised the great-souled Rama about his grand
 anointment, and thus he not only regained his wife Ruma but also secured the kingdom, like the chief of divinities
 Indra. [4-26-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

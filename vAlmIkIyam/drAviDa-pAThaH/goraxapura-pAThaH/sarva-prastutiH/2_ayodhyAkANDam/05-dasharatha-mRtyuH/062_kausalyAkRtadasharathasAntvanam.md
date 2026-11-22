@@ -17,8 +17,6 @@ After hearing harsh words from Kausalya, king Dasaratha loses consciousness and
 restores it after a long time. Afterwards, Kausalya repents for her mistake of speaking such crude
 words and consoles the king with her reconciliatory words. Overcome by grief, Dasaratha fell into
 the grip, Dasaratha fell into the grip of slumber as the night prevailed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ and thought upon them.
 
 When harsh words with anger in this manner by the grief-stricken Kausalya, Rama's
 mother were heard, king Dasaratha felt depressed and reflected upon them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ after a long; *kaalena* = time.
 The king fell brooding thus perplexed as he was in his mind and lost his
 consciousness. Thereafter, that king who torments the enemies regained his consciousness after a
 long time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ ca* = and hot; *dR^iSTvaa* = and seeing; *kausalyaam* = Kausalya;
 
 After restoring his consciousness he, breathing a long and hot sigh and seeing
 Kausalya by his side, began to worry again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ vidhinaa* = by shooting with an arrow an unseen object; the sound of which is on
 As he thus brooded over, he recalled in his mind, a sinful deed that was done by him
 out of ignorance long ago, by shooting with an arrow an unseen object, the sound of which was only
 heard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -274,8 +264,6 @@ agony for Rama; *anvatapyata* = felt tormented; *advabhyaam* = by duel;
 
 The mighty emperor felt distressed through agony caused by that sinful dead and as
 also through agony caused by separation from Rama and was tormented by the dual grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -323,8 +311,6 @@ in salutation; *prasaadaartham* = desirous of getting her grace; *aaha* = spoke;
 
 That king, tormented by the afflictions, was trembling, bent his head down, joined
 his palms in salutation, desirous of getting her grace and spoke to Kausalya as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -372,8 +358,6 @@ indeed king.
 
 "O, Kausalya! I seek your grace. This joining of palms is set out by me. You are
 always affectionate even towards others and even indeed kind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -420,8 +404,6 @@ the husband; *guNavaan* = either virtuous; *nirguNo.apivaa* = or worthless;
 
 "O, queen! For women reflecting on righteousness, a husband whether he is virtuous
 or worthless, is a visible god indeed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -473,8 +455,6 @@ is too much in distress.
 "You as such, who is ever intent on virtue, who has understood good and evil
 fortunes in the world, even if grief-stricken, ought not to have spoken unpleasant words to me, who
 is too much in distress."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -525,8 +505,6 @@ channel.
 
 Hearing those miserable words spoken by the distressed king, Kausalya shed tears,
 akin to new rain water flowing from channel.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -574,8 +552,6 @@ words; *sambhramaat* = in eagerness.
 
 Capturing on her own head, the king's palms joined in the form of a lotus, Kausalya
 was scared and spoke weeping in hurriedly lettered words in eagerness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -625,8 +601,6 @@ indeed to be forgiven; *tvayaa* = by you.
 
 "O, king! I appeal to you with my bowed head. I lie prostrate on the floor. I am
 ruined. I am not to be forgiven indeed by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -677,8 +651,6 @@ ill- becoming; *ubhayoH* = in both; *lokayoH* = the worlds.
 
 "O, Valiant man! In both the worlds, it is ill-becoming of a woman, being
 propitiated by her husband, who is praise worthy and possessing good disposition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -726,8 +698,6 @@ api* = something; unseemly; *bhaaSitam* = was spoken; *mayaa* = by me;
 
 "O, valiant man! In both the worlds, it of a woman, being propitiated by her
 husband, who is praise worthy and possessing good disposition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -774,8 +744,6 @@ courage; *shokaH* = grief; *naashayate* = ruins; *shrutam* = sacred learning;
 
 "Grief ruins courage. Grief ruins sacred learning, grief ruins all. There is no
 enemy like grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -823,8 +791,6 @@ tolerated.
 
 "A hitting that descended from the hands of an enemy is possible to be tolerated.
 But, the grief suddenly descended, even if so small, is not possible to be tolerated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -873,8 +839,6 @@ minds infatuated with grief.
 "O, valiant man! Even ascetics, who know righteousness, who have learnt sacred texts
 and who have rent asunder doubts relating to religious merit and wealth, go astray having their
 minds infatuated with grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -921,8 +885,6 @@ happiness is mined by grief; *paNcavarSopamaH* = equal to five years.
 
 "Today it is counted as five days since Rama has gone to exile. It is equal to five
 years for me, since grief has ruined my happiness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 </details>
 
@@ -975,8 +937,6 @@ is growing; *mahat samudra salilamiva* = like water in the great ocean; (increas
 
 "While I think of Rama, this grief in my heart is increasing, like water in a great
 ocean increases with the fast streaming of rivers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -992,8 +952,6 @@ ocean increases with the fast streaming of rivers.
 
 While Kausalya was telling auspicious words indeed as aforesaid the sun became
 feeble and turned towards night too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ regions and provinces of northern side and asks them to search in the places of 
 Darads etc., civilisations. Sugreeva specially informs them about a divine province called Uttara
 Kuru and a heavenly mountain called Mt. Soma on which Brahma, Vishnu and Shiva make sojourn for its
 sacredness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -83,8 +81,6 @@ vaanaram* = to valorous, vanara; *[uvaaca* = spoke to.]
 
 On sending his father-in-law, namely Susheshana, to westerly direction then the king
 of Vanara-s Sugreeva, spoke to a valorous vanara named Shatabali. [4-43-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -100,8 +96,6 @@ beneficial, for Rama, even; *vaakyam uvaaca* = words, spoke.
 
 That knowledgeable and the powerful one among all monkeys, King Sugreeva, spoke
 words to Shatabala that are advantageous to himself, and beneficial to Rama as well. [4-43-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -160,8 +154,6 @@ proceed.
 
 "Accompanied with a hundred thousand forest-dwelling monkeys of your kind, and also
 with all of your ministers who the sons of Yama, the Terminator, you have to proceed. [4-43-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -177,8 +169,6 @@ parimaargadhvam* = everywhere, scouted out.
 
 "Oh, venturesome Shatabala, you scout out whole of the northern quarter that has
 snowy Himalayan mountains as its crown for the glorious wife of Rama. [4-43-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -226,8 +216,6 @@ accomplished, of purpose; *bhaviSyaamaH* = we will become.
 
 "Oh, enterprising vanara-s, when this mission is complete and when we can effectuate
 a task agreeable to Rama, we will become debt-free and accomplished of our purpose. [4-43-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -274,8 +262,6 @@ phalam = with, fruit [fruitful]; *bhavet* = becomes.
 
 "Great-souled Raghava has indeed done a favour to us, isn't it. If there is
 reciprocation to that kind deed, our lives will become fruitful. [4-43-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -324,8 +310,6 @@ punaH* = why, again - telling.
 "He who completes the deed of a requester, even though that requester has not
 rendered any hep earlier, his life becomes fruitful. Then what is there to say again about him who
 has already received help from the requester? [4-43-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -374,8 +358,6 @@ undertaken.
 "Let all of you abide by such a thinking as you are the well-wishers of our
 well-being and welfare, and undertake your mission in such a way as to how Seetha can be found in
 your search. [4-43-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -427,8 +409,6 @@ befriended us.
 "On his part this Rama, who is the best on among men and the champion of enemies'
 fastnesses, is the estimable one for all beings, and his interests have indeed fell in with ours.
 [4-43-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -475,8 +455,6 @@ places; *nadyaH shaila antaraaNi ca* = rivers, mountains, canyons also;
 
 "Let all of you with your assets of wisdom and valour rake over all of these
 impassable places, rivers, mountains and also their canyons. [4-43-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -555,8 +533,6 @@ etc.,] and they are called Mleccha-s...' *bodhaayana* aphorisms.
 Some hold the view that
 Ramayana was written more lately to Greek's invasion on India on seeing the names like this Yavana,
 Shaka etc. for this please see the endnote for some more information
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ Deodar trees, Ravana is to be searched there and there, together with Seetha. [4
 
 Lodhra trees are of Tymplocos racemosa, and Devadaru tree is of Uvaria
 longifolia, commonly called as Deodar trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -656,8 +630,6 @@ saanum* = great, peaked; *kaalam naama* = Kala, named; *tam parvatam gamiSyatha*
 
 "You to Soma hermitage, which is adored by the gods and gandharva-s, and then you go
 to that great-peaked mountain named Mt. Kala. [4-43-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -707,8 +679,6 @@ Seetha; *raama patniim* = Rama's, wife; *vicinvata* = shall be searched.
 
 "On its cliffs, mountainsides and in caves the highly fortunate and impeccable wife
 of Rama shall be searched. [4-43-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -755,8 +725,6 @@ mountain; *gantum arhatha* = to go, apt of you.
 
 "On going across that lordly mountain Kala, which great-mountain is impregnated with
 gold, it will be apt of you to go to the mountain named Sudarshana afterwards. [4-43-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -803,8 +771,6 @@ named, mountain - will be there.
 
 "Latter there will be a mountain overspread with various birds and adorned with
 varied trees named Devasakha which is a sanctuary for birds. [4-43-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -851,8 +817,6 @@ maargitavyaH* = there, there, quested for.
 
 "Let Ravana be quested after in the segments of woods, at waterfalls, and even in
 caverns of that mountain, together with Vaidehi. [4-43-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -900,8 +864,6 @@ yojanam* = all around, hundred, yojana-s; *aakaasham* = sky - void land; is ther
 "On crossing Mt. Devasakha, there is a vacant land to a span of hundred yojana-s all
 around, which is devoid of mountains, rivers and even trees, and discarded by all beings.
 [4-43-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -959,8 +921,6 @@ Snowy Range of Central Asia and the wealth god Kubera, was to the north of Himal
 appear to correspond with the Kwenlun Range, which extends northwards and connects with the Altai
 chain. The route indicated must have been by the south skirts of the desert towards the west, to
 pass by the Kailash Range...' Ancient Geography. This is presently in Tibet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1002,8 +962,6 @@ pass by the Kailash Range...' Ancient Geography. This is presently in Tibet.
 "There is the delightful mansion of Kubera, which in shine will be like a silver
 cloud and processed with gold, and the Divine Architect Vishvakarma has constructed it.
 [4-43-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1051,8 +1009,6 @@ is there that is the place of Kubera.
 "Where an expansive lake is there, which is replete with lotuses and costuses,
 overrun by swans and partridges, and adored by throngs of apsara-s, that is the place of Kubera,
 Deity for Wealth-Management. [4-43-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1101,8 +1057,6 @@ rejoices.
 "The son of Sage Vaishravana and king of yaksha-s, who is reverenced by all beings
 for he is the money giver, that fortunate king will be rejoicing there along with guhyaka-s, viz.,
 yaksha-s. [4-43-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1155,8 +1109,6 @@ which will be shining like moon, together with Vaidehi. [4-43-24]
 Ravana is a brother of Kubera and the aircraft of Kubera, namely Pushpaka, is
 seized from this very Kubera. Thus, there is every chance to hide Seetha at Kubera's place bringing
 Kubera under duress.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1211,8 +1163,6 @@ impassable tunnel of that mountain to search Seetha. That tunnel, they say, is a
 Kumara or Skanda, the son of Shiva-Parvati-Ganga made this bore by using His
 shakti prayoga 'Divine power.' This is his birthplace, and the legend of His birth and growth are
 detailed in Bala Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1263,8 +1213,6 @@ ruupaa* = godly, in mien; *mahaatmaanaH* = great-souled ones; such; *maharSayaH*
 "In that tunnel great-souled sages reside at the request of gods, and those
 great-sages are similar to Sun in their resplendence and godly in their mien. Even then, you search
 for Ravana therein that tunnel. [4-43-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1312,8 +1260,6 @@ there; *vicetavyaaH* = shall be searched.
 
 "Besides the main peak of Mt. Kraunca, its other peaks, terraces, crevices and
 midriffs shall be searched, far and wide. [4-43-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1370,8 +1316,6 @@ cannot enter there then where is the question of entry to other beings...' If th
 un-enterable even for birds or gods how these few monkeys can enter, is the question that ensues.
 Sugreeva gives the answer to Rama at the start of this exodus of monkeys, saying that these monkeys
 can do any undoable task, which is peculiar to these genera.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1424,8 +1368,6 @@ fringe mountains, and on moving away from that Mt. Kraunca, a mountain named Mai
 
 This Mainaaka is different from the one that wanted to give hospitality to
 Hanuma during his flight across ocean in Sundara Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1486,8 +1428,6 @@ of horse-faced females, namely KimpuruSa-s, are there and you have to search the
 The word *ashvamukhi* is taken as one word to explain the genera of
 *kimpuruSa* , a kind of sylvan beings like *yaksha-s, caarana-s* and the like,
 whereas some take it as horse-faced beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1538,8 +1478,6 @@ vaalakhilyaaH ca taapasaaH = vaalakhilyaa-s, also, sages.
 "On crossing over that province there is the hermitage adored by siddha-s, the
 resolved-souls. There the sages, namely siddha-s, vaikhaanasa-s, and vaalakhilyaa-s will be there.
 [4-43-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1590,8 +1528,6 @@ you; *siitaayaaH pravR^ittim* = of Seetha, course [whereabouts]; *praSTavyaaH ca
 "Then you venerate those sages with accomplished souls, whose asceticism alone has
 effaced their blemishes, and you may even humbly ask them after Seetha's whereabouts. [4-43-32b,
 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1640,8 +1576,6 @@ there.
 "There is the lake belonging to Vaikhaanasa sages, overspread with golden lotuses,
 and overrun with prosperous swans whose resplendence will be similar to the tender sun. [4-43-33b,
 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1688,8 +1622,6 @@ place; *pari eti* = goes over - will be visiting.
 
 "The carrier elephant of Kubera known as Saarvabhauma will always be visiting that
 place along with she-elephants. [4-43-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1736,8 +1668,6 @@ clusters; *niS payodam* = without, clouds; *a naaaditam* = less of, noise
 
 "Passing that lake there will be just sky which will be devoid of moon, or sun, or
 the clusters of stars, and it will be cloudless and noiseless. [4-43-35b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1789,8 +1719,6 @@ luminescent.
 "That place will be luminescent with the self-resplendence of godlike sages who have
 accomplished their asceticism and who are taking rest at that place, as if illuminated with
 innumerable rays of the sun. [4-43-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1852,8 +1780,6 @@ bamboo stick is carefully selected to produce a desired tone and pitch. The trav
 bank is by the entwined bamboo-sticks-bridges across the river, and these monkeys shall make use of
 those bridges because anyone/anything falling in that river will be petrified, say frozen to
 petrifaction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -1937,8 +1863,6 @@ thickets of red Costuses alongshore. [4-43-38b, 39, 40a]
 
 The Costus is a lotus-like plant grwoing on land, like Kashmir's Saussurea
 hypoleuca, Latinised from Greek 'kostos'.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2008,8 +1932,6 @@ hypoleuca, Latinised from Greek 'kostos'.
 the hue of sapphires, with fibrils in the hue of gold, and with amazing thickets of blue costuses
 around lakes, which lakes will be surrounding that province with a resplendence similar to sun.
 [4-43-40b, 41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2062,8 +1984,6 @@ valuable, jewels; *nimnagaaH* = deep flowing rivers; *jaataruupaiH* = with gold;
 
 "There the sand dunes of deep flowing rivers are lumped together with incomparable
 pearls, highly valuable jewels and gold. [4-43-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2087,8 +2007,6 @@ Perhaps these poetic accounts of golden, jewelled riverbanks and golden lotuses
 etc. might have attracted the then invaders towards India, presuming that the loot is over there on
 the riverbanks like sand. However mythical these accounts might be, they portray that the lands and
 rivers are self-contained and self-sufficient.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2142,8 +2060,6 @@ aakaaraaNi vaasaansi* = numerous, shapes, of clothing; phalanti bear fruits - th
 "There the trees will be eternally flowering and fruiting on which birds will be
 endlessly squawking. Their yield will be spilling forth meeting every delicacy with a divine smell,
 taste and touch. Some other best trees will yield clothing in numerous shapes. [4-43-44, 45a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2225,8 +2141,6 @@ producing.
 vying with ornament made with pearls or with lapis gemstones, and suitable both for women and men.
 Like that, they can be worn happily in all seasons. Some other best trees will be yielding gemlike
 marvellous decorations applicable to noblesse. [4-43-45, 46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2279,8 +2193,6 @@ also.
 "There are other trees that produce wooden-beds with astonishing upholsteries, and
 even garlands that will be attractively heartening, while some other trees will be yielding juices
 and foodstuffs that are relevant to highly choicest consumers. [4-43-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2330,8 +2242,6 @@ vidyaadharaa-s will be delighting along with their own females. [4-43-48b, 49]
 Some say that the females are also born out of the very same trees by adding the
 word *prasuuyante* to these compounds of trees. Nevertheless, it is better taken as 'daughters of
 soil.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2380,8 +2290,6 @@ there.
 "All the inhabitants of North Kuru have carried out good deeds in earlier births,
 hence they are accorded with paradisiacal pleasures now. All are engaged in passion, all of them
 live in pleasure and prosperity along with their youthful females. [4-43-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2429,8 +2337,6 @@ notes,] out flowing, sound; *tatra satatam shruuyate* = there, always, comes to 
 "The notes of vocal and instrumental music will be flowing out mixed with the peals
 of vivacious laughter, which will always come to ears in a heart-stealing manner for all beings.
 [4-43-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2482,8 +2388,6 @@ attributes; *vardhante* = will be enhancing.
 "There is none who is infelicitous and there is none who is friendly to untruthful
 ones, and in that province these heart-pleasing attributes of those blessed souls like rejoicing,
 festivity etc. will be enriching day by day. [4-43-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2538,8 +2442,6 @@ Mt. Soma. [4-43-53]
 The north of Himalayas is referred as the northern ocean. It is held that
 Himalayas have emerged from an ocean to where Vali used to leap everyday in the early hours to
 offer water oblation to the Sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2587,8 +2489,6 @@ raajam* = at it, mountain, lordly; *sam avekSante* = they will be clearly seeing
 "Those who have gone to the sphere of Indra, and those who have gone to the sphere
 of Brahma can clearly see that lordly Mt. Soma, situated in the vast of ocean from the vast of
 heavens. [4-43-54]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2639,8 +2539,6 @@ prakaashate* = its own [mountain's,] resplendence, illuminated with.
 "Even though that place is sunless it is comprehensible as if with sunshine, since
 it is illuminated with the resplendence of Mt. Soma itself, which will be irradiating that place as
 if with the resplendence of the Sun. [4-43-55]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2689,8 +2587,6 @@ sojourn - there on Mt. Soma.
 "The God and Cosmic-Souled Vishnu and Shambhu or Shiva, an embodiment of eleven
 selfsame Souls, called ekaadasha rudra-s , and the god of gods Brahma
 who is surrounded by Brahma-Sages, will be sojourning on that Mt. Soma. [4-43-56]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2747,8 +2643,6 @@ people, as they mentioned in the *aitareya braahmaNa viii-14* wherefore the seve
 in this northern quarter beyond the Himalayas, the Uttara Kurus and the Uttara Madras are
 consecrated to glorious dominion and people term them glorious...' Mouris, Sanskrit Series, Vol.
 I
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2795,8 +2689,6 @@ return; *arhatha* = apt of you.
 
 "That mountain named Soma is an impassable one even for gods, and it will be apt of
 you to quickly return from there on seeing that mountain. [4-43-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2844,8 +2736,6 @@ not, we know - I do not know.
 
 " It is possible for the vanara-s to go only up to there, oh, best vanara-s, and we
 have no knowledge of those sunless and boundless realms available far and beyond. [4-43-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2894,8 +2784,6 @@ you make up.
 "You shall thoroughly search in all those provinces that are explained by me, and
 you have to make up your mind for searching in other places that are not referred by me.
 [4-43-60]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -2953,8 +2841,6 @@ accomplishment, it becomes.
 born in Videha kingdom, namely Vaidehi, an extremely desirable task for the sake of Dasharatha's
 son Rama is considered as done. Thereby it becomes a still privileged accomplishment even for me
 achieved through your efforts. [4-43-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 </details>
 
@@ -3012,8 +2898,6 @@ earth, over, rove - rove over.
 with heart-pleasing concessions, and when your enemies are silenced, you will rove over the earth
 with your friends and relatives and with your beloveds, also fostering your progeny." Thus Sugreeva
 said to the monkeys going to North. [4-43-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

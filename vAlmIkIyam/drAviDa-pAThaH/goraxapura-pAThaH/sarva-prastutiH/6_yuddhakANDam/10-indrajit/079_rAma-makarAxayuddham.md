@@ -21,8 +21,6 @@ Finally, Rama breaks the chariot and its horses of his chariot, stands on the gr
 splendorous spike in his hand to fight and hurls it on Rama. Rama chops it off with his four
 arrows. When Makaraksha rushes towards Rama to fight with his fist, Rama hurls a mystic missile
 from his bow and kills him on the spot. The demons get frightened and run away to Lanaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ fight.
 
 On seeing Markaraksha come out, all those chiefs of monkeys, leaping all at once,
 took their positions, with intent to give fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ demons.
 
 Thereafter, a very great battle ensued between monkeys and demons, which caused
 one's hair to bristle, like the encounter between celestials and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ paatanaiH* = and by throwing maces and clubs; *mardayantisma* = began to crush;
 
 The monkeys and demons then, by hurling trees and spikes and by throwing maces and
 clubs, began to crush each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -226,8 +218,6 @@ Those demons, who were prowlers of might, made a slaughter of the lions among th
 monkeys, by means of their javelins, swords, maces, spears, lances, sharp edged spears, Bhindipalas
 (slings for throwing stones), nooses, mallets, staffs, missiles and other weapons and by throwing
 arrows on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ with fear; *dudruvuH* = and ran away.
 
 Tormented by Makaraksha with a multitude of arrows, all the monkeys were bewildered
 in mind, agonized with fear and ran away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -310,8 +298,6 @@ roared; *jitakaashinaH* = assuming a triumplant feeling.
 
 On seeing those monkeys fleeing, all the arrogant demons roared like lions, assuming
 a triumphant feeling.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -358,8 +344,6 @@ were fleeing; *samantataH* = on all sides; *raamaH* = Rama; *tadaa* = then;
 
 While those monkeys were fleeing on all sides, Rama then, with a shower of arrows,
 intercepted those demons on that occasion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -403,8 +387,6 @@ spoke; *idam vachanamcha* = the following words.
 
 Seeing Rama thus interrupting the demons, Makaraksha, the demon, engrossed in a fire
 of anger, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -451,8 +433,6 @@ by the sharp arrows; *dhanurmuktaiH* = discharged from my bow.
 
 "Pause, O Rama! You will have a dual with me. I will make your life to quit, by the
 sharp arrows discharged from my bow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -503,8 +483,6 @@ engaged in such nefarious acts.
 
 "Since you killed my father on that day in Dandaka forest, my anger is still growing
 violent, when I think of you engaged in such nefarious acts".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -546,8 +524,6 @@ fumed.
 
 "O evil minded Rama! Since you were not being seen by me from that time in that
 large forest, my limbs were getting very much fumed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -594,8 +570,6 @@ as a lion in hunger; *itaraH mR^igaH iva* = (seeks) other animal (to eat).
 
 "By a good fortune, you came into my sight here, O Rama! You are being sought by me,
 as a lion in hunger seeks other animal to eat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -639,8 +613,6 @@ Death; *vasiShyasicha* = you will reside; *taiH shuuraaH saha* = with those warr
 
 "Now, by the flight of my arrows, you will go to the world of Death and reside there
 with those warriors, who were killed by you earlier."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -685,8 +657,6 @@ _________________
 
 "O Rama! What is the use, by telling too much on this topic? Hear my words. All the
 worlds will look at you and me, in this battle-front."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -730,8 +700,6 @@ arms; *yena tena vaa* = or by those means; *abhyastam* = learnt (by you).
 
 "O Rama! The battle will proceed in the battle-field, either with the weapons, or
 with a mace or by our arms or by any other means as learnt by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -773,8 +741,6 @@ interruption).
 
 Hearing the words of Makaraksha, Rama the son of Dasaratha laughingly spoke the
 following words to him, who was still talking further and further (without interruption).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -820,8 +786,6 @@ vain?; *yuddhena vinaa* = without fighting; *raNe* = in the battle-field;
 "O demon! Why are you boasting yourself with so many unworthy words, in vain?
 Without fighting in the battle-field, it is well nigh impossible for you to attain victory with the
 strength of a mere speech."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -874,8 +838,6 @@ were killed; *mayaa* = by me; *daN^Dake* = in Dandaka-forest.
 
 "I killed fourteen thousand demons along with Khara your father, Trishira and even
 Dushana in Dandaka forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -891,8 +853,6 @@ khaaN^kuraaH* = with their sharp beaks and goad-like claws; *bhaviShyanti* = wil
 
 "O sinful one! Today, vultures jackals and crows with their sharp beaks and
 goad-like claws will be satiated with your flesh."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -933,8 +893,6 @@ Rama; *raNaajire* = in the battle field.
 
 Hearing Rama's words, the mighty Makaraksha discharged a multitude of arrows on that
 Rama in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -985,8 +943,6 @@ shafts; *nipetuH* = fell; *bhuvi* = to the ground; *chhinnaaH* = when torn;
 
 Rama tore those arrows in many ways, by his array of arrows. Those arrows, which
 were provided with golden shafts, fell to the ground, when torn in thousands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1030,8 +986,6 @@ demon; *dasharathasya suunoH cha* = and Rama the son of Dasaratha.
 
 That battle raged furiously, on their meeting each other there, between Makaraksha
 the son of Khara the demon and Rama the son of Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1078,8 +1032,6 @@ clouds; *aakaashe* = in space.
 
 Then, the sound emanated by the bows, with a great resonance, was heard on the
 battle-front, like the rumbling of clouds in space.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1121,8 +1073,6 @@ and the great serpents; *antarikShagataaH* = arrived at the sky.
 With an intent to see that wonderful battle, all the celestials, the demons, the
 celestial musicians kinnaras the mythical beings and Mahoragas the great serpents reached the
 sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1165,8 +1115,6 @@ other and returned the blows of the other; *raNaajire* = in the battle-front;
 Though the limbs of both were pierced by each other, their strength was redoubled.
 The two warriors inflicted wounds on each other, returned the blows of the other in the
 battle-front and continued the combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1208,8 +1156,6 @@ by the demon.
 
 In the battle, that demon broke the multitude of arrows discharged by Rama. Rama
 snapped off, in many ways, the arrows released by the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1257,8 +1203,6 @@ and did not become visible.
 
 All the four quarters and the intermediate points were diffused with a multitude of
 arrows. Even the earth was covered on all sides and did not become visible.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1300,8 +1244,6 @@ arrows. Even the earth was covered on all sides and did not become visible.
 
 Then, the long-armed Rama, full of anger in battle, broke off the bow of the demon.
 Thereupon, by his eight iron arrows, struck the charioteer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1349,8 +1291,6 @@ Makaraksha; *nishaacharaH* = the demon; *virathaH* = bereft of his chariot;
 
 Rama, breaking the chariot with his arrows and killing its horses, made them to fall
 down dead. That Makaraksha the demon, bereft of his chariot, stood on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1393,8 +1333,6 @@ of fire at the end of the world.
 That demon, standing on the ground, took into his hand, a spike, which created
 fright among all living beings and whose splendour was equal to the fire at the end of the
 world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1451,8 +1389,6 @@ That great spike, which was difficult to be obtained, was gifted to him by Rudra
 one of the eight forms of Shiva the Lord of Dissolution. That terrible spike, which flamed
 violently in the sky, looked like another new weapon of destruction of the world. On seeing it, all
 the godheads were afflicted with fear and fled to different quarters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1505,8 +1441,6 @@ raaghavaaya* = against that great-souled Rama.
 
 Brandishing that flaming great spike, that enraged demon hurled it against that
 great-souled rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1553,8 +1487,6 @@ flaming; *chyutam* = coming forth from; *kharaputrakaraat* = the arm of Makaraks
 
 Rama broke, by his four arrows, that flaming spike coming forth from Makaraksha's
 arm and rushing towards him in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1598,8 +1530,6 @@ scattered; *bhuvi* = on the earth; *maholkena* = like a mighty meteor.
 
 That spike, adored with charming gold, broken in many ways, struck by Rama's arrows,
 fell scattered on the earth, like a mighty meteor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1640,8 +1570,6 @@ unwearied in action; *bhuutaani* = the beings; *nabhogataaH* = standing in the a
 
 Seeing that spike struck by Rama, who was unwearied in action, the beings standing
 in the air, cried, saying 'Excellent, Excellent!'.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1691,8 +1619,6 @@ Rama; *iti* = saying; *tiShTha tiShTha* = "Wait; Wait!".
 
 Seeing that spike destroyed, Makaraksha the demon, rising his fist, called out to
 Rama, saying "Wait, Wait!".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1733,8 +1659,6 @@ fitted to his bow; *paavakaastram* = a mystic missile presided over by fire.
 
 Then, seeing Makaraksha rushing towards him, that Rama the delight of Raghu dynasty,
 while smiling, fitted to his bow, a mystic missile presided over by fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1781,8 +1705,6 @@ dead; *tatra* = there; *raNe* = in the battle-field.
 
 Struck by that missile by Rama, the demon with his heart split open, fell down dead
 then and there, in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1826,8 +1748,6 @@ demons; *raamabaaNa bhayaarditaaH* = tormented by the fear of Rama's arrows;
 
 Seeing the fall of Makaraksha, all those demons, tormented by the fear of Rama's
 arrows, ran away straight to Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 </details>
 
@@ -1879,8 +1799,6 @@ the flighs of Rama's arrows; *girimiva* = like a mountain; *vikiirNam* = shatter
 Thrilled with delight, the celestials watched that demon, the son of Khara,
 destroyed by the flights of Rama's arrows and resembling a mountain shattered, after struck by
 lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -16,8 +16,6 @@ title_english = "047 The debate of Seetha and Ravana is started"
 The debate of Seetha and Ravana has started, as Ravana wished to woo Seetha. In the first instance Seetha
 believes him to be a Vedic Brahman but insists to know about him. Ravana reveals his identity and asks
 her to become his wife. Thereupon she goes into a frenzied state and brainstorms Ravana in all her curtness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ raavaNena* = friar's, in mien, by Ravana; *pR^iSTaa vaidehii* = one who is asked
 
 When Ravana whose intention is to abduct her has enquired thus, then on the basis of his Brahman friar's
 mien Seetha informed about herself on her own. [3-47-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -128,8 +124,6 @@ be revered either by a lady or a gentleman...' and thus he cannot be turned out 
 not at home...' and if he is neglected he may curse...' these are the criss-cross thoughts of Seetha
 at that moment. Ghastly Viradha boldly carried her off at one time, but she is yet to see the cunningness
 of a demon. So with a half-belief and half-heart she started to talk to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -184,8 +178,6 @@ Here some versions use *bhaaryaa *'wife' while some use *mahiSii *'queen...' and
 to Ravana, as she immediately says who her husband is, as she is aware that this friar is Ravana. Then
 it implicitly means 'you who wish to abduct me, think twice, for my husband is Rama, and let safety
 prevail on whole of your dynasty, for it is hard to deal with Rama or with his dear queen-wife...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -241,8 +233,6 @@ to enjoy along with him in her in-law's place, she enjoyed those luxuries. Or, i
 heavenly comforts as she was enjoying as Lakshmi in *vaikunTha *'Milky Ocean of Vishnu.' And
 then, she is indirectly telling Ravana that she has come now as Seetha, after immolating herself as
 Vedavati, in an earlier incarnation, only to end Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -288,8 +278,6 @@ with; *raamam abhiSecayitum* = Rama, to anoint [as Crown Prince]; *amantryata* =
 
 "In the thirteenth year the lordly king Dasharatha deliberated together with his imperial ministers
 to anoint Rama as Crown Prince of Ayodhya. [3-47-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -336,8 +324,6 @@ boon, begged.
 
 "When Raghava's anointment was being organised my venerable mother-in-law known as Kaikeyi begged her
 husband Dasharatha for a boon. [3-47-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -394,8 +380,6 @@ husband - Dasharatha; *mama bhartuH* = my, husband's; *pra vraajanam* = distant,
 
 "Restraining my veracious father-in-law by a good deed once done by her in his respect, Kaikeyi besought
 two boons from him, namely expatriation of my husband, and anointment of her son Bharata. [3-47-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -471,8 +455,6 @@ arthaiH* = with meaningful, riches; *ayaacata* = entreated; *saa yaa.ncaam na ca
 " 'If Rama is anointed now, come what may I will not eat, sleep, or drink, and my life ends this way,'
 thus Kaikeyi was adamantine, and the king and my father-in-law entreated her who is nagging with meaningful
 riches, but she did not make good on that entreaty. [3-47-8b, 9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -522,8 +504,6 @@ book of Ramayana with thousand couplets is started from here. The whole of Ramay
 thousand verses and Gayatri hymn has twenty-four letters, and each book of Ramayana contains a thousand
 verses, starting with each letter of Gayatri. This is the then classification of the cantos of this
 epic and such grouping of verses is nonexistent now.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -585,8 +565,6 @@ But in Indian scripts they are not mere repetitions but reiteration of the very 
 very same words, which is not an epical flaw in view of the ruling *aadaraat punarukti, aadaraat
 dvirukti... *'an affectionate reiteration...' Hence, the very same words are put on the tongue of
 the principle character, Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -633,8 +611,6 @@ svayam* = great-king, [his, Rama's] father, Dasharatha, personally; *kaikeyyaaH 
 
 "But Rama's father Dasharatha was lovesick for Kaikeyi and to fulfil her desired aspiration that great
 king did not anoint Rama. [3-47-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -680,8 +656,6 @@ vacaH uvaaca* = Kaikeyi, these, readily [decidedly,] words, spoke.
 
 "When Rama arrived in the presence of his father, Kaikeyi readily and decidedly spoke these words to
 my husband. [3-47-b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -733,8 +707,6 @@ proclaimed; *idam mama shR^iNu* = this, mine [from me,] you hear; *a kaNTakam id
 
 " 'What your father has proclaimed, oh, Raghava, that may be heard from me. He said, 'let this thornless
 kingdom be accorded to Bharata.' [3-47-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -750,8 +722,6 @@ a nR^itaat mocaya* = father, from untruthfulness, be released [redeemed from the
 
 "And you, oh, Kakutstha Rama, indeed have to inhabit the forests for nine plus five years, hence you
 repair to forests and redeem your father from the remorse of perjury.' [3-47-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -798,8 +768,6 @@ having said; *tasyaaH tat vacaH cakaara* = her, that, word [dictate,] made good 
 
 " 'As an unfearing one from any quarter and as a resolute one in his pledge my husband Rama said 'so
 be it' to Kaikeyi and followed her dictate. [3-47-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -854,8 +822,6 @@ In Maha Bharata Dharmaraja is informed that 'a king shall give, but he shall not
 a Vedic Ritual but cannot make it performed by others, he can learn Veda-s, but cannot teach them, he
 shall endeavour to govern the people [properly...] *dadyaat raajaa na yaaceta yajeta na yaajayeta
 | na adhyaapayet adhiyiita prajaan ca paripaalayet || bhaarata - raaja dharma*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -912,8 +878,6 @@ and an eliminator of enemies in war. [3-47-18b, 19a]
 A stepmother is called as *vi maata *or *dvaimaata *and it is said *vaimaatreyo vimaatR^ija
 - amara kosha *one is other mother, the other is second-mother, both are the nomenclatures of a
 stepmother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -935,8 +899,6 @@ his bow as a helpmate, when Rama was proceeding to forests along with me. [3-47-
 
 Some texts use the word *brahma caarii *'celibate' basing on the word Rama used when saying about
 Lakshmana to Shuurpanakha about Lakshmana as *apuurvii *while some others use as above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -985,8 +947,6 @@ araNyam praviSTaH* = Dandaka, forest entered.
 
 "Because Rama always abides in probity and resolutely vowed to it, he entered Dandaka forest in the
 aspect of a tufty haired saint along with me and his brother. [3-47-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1031,8 +991,6 @@ our own mettle; *gambhiiram vanam vicaraamaH* = impenetrable, forest, we are mov
 
 "Such as we are, oh, eminent Brahman, we three are moving about the impenetrable Dandaka forest just
 by our own mettle as we fell down from kingdom owing to Kaikeyi. [3-47-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1078,8 +1036,6 @@ of the genus Herpestes, Marathi manguus]; *varaahaan ca* = wild-boars, also; *ha
 "Be comfortable for a moment, here it is possible for you to make a sojourn, and soon my husband will
 be coming on taking plentiful forest produce, and on killing stags, mongooses, wild boars he fetches
 meat, aplenty. [3-47-22b, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1110,8 +1066,6 @@ him to be a cursing Brahman in the first instance, but she might have found him 
 Now that she is slowly realising that he may not be a proper Brahman either, she may be asking him straightforwardly.
 Because Ravana is coming out of Brahman's guise in next two stanzas, it is said that she pointedly asked
 him as above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1160,8 +1114,6 @@ king, Ravana; *tiivram uttaram* = brusque, reply; *prati uvaaca* = in turn, said
 
 Ravana, the great-mighty king of demons, brusquely replied Seetha, the wife of Rama, while she is still
 speaking in this way. [3-47-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1208,8 +1160,6 @@ sovereign of; *raavaNaH naama* = Ravana, known as.
 
 "Oh, Seetha, of whom all the worlds composed of gods, demons and humans are highly startled, I am that
 sovereign of hosts of demons, known as Ravana. [3-47-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1265,8 +1215,6 @@ after a long time... *svakeSu *'in my kith and kin...' *daareSu *wives...' *rati
 *'pleasure, involvement...' *na adhigacChaami *'not, I attain...' 'On seeing you, I no longer
 can attain pleasure with my kith and kin, or with my wives... for I have seen my ultimate motherly goddess...
 thus I am ready to renounce this accursed being of Ravana...' Maheshvara Tirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1321,8 +1269,6 @@ by me...; *mama* to me'; *agra mahiSiiyaa* 'to the one who is my prime queen'; *
 ca mama ca* to her and to me; *bhava iishvarii* you be the ruling deity; 'To all of the choicest
 women appropriated by me... and to the one who is my present prime queen, namely Mandodari, to her and
 to me, and to all of us, you be the ruling deity...' Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1362,8 +1308,6 @@ that Lanka; *giri muurdhani* = mountain, on top; *niviSTaa* = nestled.
 
 "Nestled on a mountaintop my great city known as Lanka is there in the midst of an ocean and all over
 encompassed by an ocean. [3-47-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1418,8 +1362,6 @@ you will not think back to this forest-living, at all events. [3-47-30]
 
 The word *bhaamini* is an addressing to a beautiful lady, who is with some anger or resentment
 *kopanaa saa eva bhaaminii - amara kosha* and Ravana mistook Seetha's fury as 'an anger in passion.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1473,8 +1415,6 @@ Ravana, the devotee, is saying *panca sahasraaNi daasyaH* 'five thousand servant
 then you will be *baaryaa; bha + aaryaa; bhaayaa= kaantyaa, aaryaa= puujyaa* 'by your splendour...'
 *bhavasi* you will become the venerable Goddess Lakshmi by your own splendour while thousands
 are serving you...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1526,8 +1466,6 @@ and replied that demon. [3-47-32]
 
 Here the word *tu* in *raavaNena evam uktaa tu* is said as *tu shabdena puurvokta upacaara
 vacana vilakshaNa vacana* it means ultimately as - Seetha spoke in derision.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1584,8 +1522,6 @@ The ocean will be turbulent on its surface but it will be calm and clear at its 
 treasures... though my husband appears as a passionate person, an indulgent person in humanly pursuits,
 from hunting games to hollering, in worldly agonies and ecstasies, but at his heart, he is like the
 fathomless serene ocean... I have avowed to follow him in this lifetime.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1645,8 +1581,6 @@ for it is so wide at its apex. Hence, anyone can take shelter under Rama, becaus
 all *sarva jana anukuulata* as said in an ancient saying: *kuupa udakam vaTa cchaayaa yuvatiinaam stana
 dvayam | shiitaa kaale bhavet uShNam uShNa kaale bhavet shiitalam ||* 'water in a well, banyan tree
 shade, maiden's two breasts, will warm up in cold season and cool down in hot season...' Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1701,8 +1635,6 @@ Milky Ocean, becoming Mohini, becoming a Fish, a Tortoise etc. His strides are e
 dwarfish boy strode all the three worlds. As a lion-man, he tore the very stomach of the evil and now
 he is striding like a prancing lion towards you, for you alone are the prey for that lionised human
 incarnation...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1767,8 +1699,6 @@ in you, befitting even to a petty king... then where is the question of your maj
 
 Seetha reiterates the statement 'I am avowed to adhere to such a Rama...' four times. This
 is *daarDhyata *- said for the purpose of 'reinforcement' of her statement.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1830,8 +1760,6 @@ She is perceivable but untouchable. If anyone can lay his hands on her by the di
 practises, and if he baskets that Shine for use in night, that night becomes a day, for it will be shining
 with sunshine, and thus his pleasurable night is evanished. Thereby he looses his minimal personal comfort
 of a night and it will be self-ruinous to experiment with such ideas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1887,8 +1815,6 @@ visualising many golden trees, undeniably. [3-47-38]
 
 A dying person fantasises golden trees and the like presuming his travel to heaven. By these illusions
 his death is predictable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -1952,8 +1878,6 @@ to protect its instruments, namely fangs. Hence, Seetha is the fang of expeditio
 in eliminating evil on earth and now he will become a grudging venomous cobra too, for its tail is going
 to be trampled, by Seetha's abduction. Thus, the instrumentality of Seetha is established and no instrument
 needs to bother on its own, because its owner takes care of that instrument.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1986,8 +1910,6 @@ Before Lakshmi's emergence from the churning Milk Ocean, Her elder sister *haala
 consume her elder sister *kaalakuuTa, haalaahala *'lethal poison' it is evident what will
 become of him. This is *nidarshana alankaara; samaanya vaakyaartha aikyata *'aesthetics of
 correspondence...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2003,8 +1925,6 @@ correspondence...'
 
 "If you wish to override the dear wife of Raghava, then it is as good as wishing to deeply scrape your
 eyes with needlepoint, and licking the razorblade with your tongue. [3-47-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2057,8 +1977,6 @@ hartum icChasi* = with a pair of you hands, to steal, you wish to.
 "You who wish to bitterly intimidate the dear wife of Rama are as good as the one who wish to swim an
 ocean arraying a boulder around his neck, and with a pair of hands you wish to steal away both the Sun
 and Moon? [3-47-42, 43a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2106,8 +2024,6 @@ icChasi* = by cloth [bundle,] to steal away, you wish to.
 
 "You who wish to abduct me with an auspicious legend as the wife of Rama, thus you wish to steal away
 a glowing fire in a cloth-bundle, though evincing it to be highly flaming? [3-47-43b, 44a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2164,8 +2080,6 @@ naama saa sattaa vaiShNavii paraa - lakShmii tantra 3-1 - yahaa mayaa jagat vyaa
 | tayaa vaaptam idam vishvam niyantrii ca tathaa iishvarii ||* 'I am indeed Naaraayanee
 [i.e. Lakshmi] the supreme essence of Lord Vishnu----Lakshmi Tantra 3.1. 'In my essence and entity I
 pervade all this universe, and as I pervade all over I am the controller and presiding deity...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2227,8 +2141,6 @@ odds with the son of Dasharatha. [3-47-45]
 The usage of the word *syandanika* is said to be the usage of a rare word by
 Valmiki, meaning *kshudra nadi* 'a turbid-rivulet...' as recorded by Pt. Satya Vrat, in
 Ramayana - A Linguistic Study.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2284,8 +2196,6 @@ wildcat; *yat antaram* = which, imparity - is there; *tat antaram* = that [such,
 "Which imparity is there among the metals of gold and lead, which imparity is there among the waters
 of sandalwood and sewage, which imparity is there between an elephant and a wildcat of forests, such
 an imparity exists between you and the son of Dasharatha. [3-47-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2346,8 +2256,6 @@ like that, only; *tat antaram* = that [such,] dissimilarity is there.
 "Which dissimilarity obtains betwixt a crow and an eagle, which dissimilarity obtains betwixt a waterfowl
 and a peacock, which dissimilarity obtains betwixt a swan and a falcon living in forest, such a dissimilarity
 obtains betwixt you and the son of Dasharatha. [3-47-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2412,8 +2320,6 @@ vomited out for the nausea caused by that fly in the stomach. But diamond rends 
 word *vajram* is usually a diamond, and if a diamond is consumed, accidentally or wilfully,
 it will tear off the intestines to death. Hence taking the Vedic saying *vajro va aajyam*
 the word is generally translated as ghee.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2480,8 +2386,6 @@ she is yet to know about Rama's welfare, which will be impossible if this demon 
 On the other side, as a Divine Consort of Vishnu, her uneasiness is for her separation from Rama, but
 not from the fear of any molestation by Ravana, and as the expected hour has come, the expectancy for
 the prospective elimination of Ravana is making her to tremble, impetuously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 </details>
 
@@ -2536,8 +2440,6 @@ the prospective elimination of Ravana is making her to tremble, impetuously.
 
 On closely marking Seetha to be tremulous, he that Ravana whose impetus is Death similar, clearly informed
 her of his name, caste, competency, and capability as his purpose is to cause scare. [3-47-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

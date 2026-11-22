@@ -18,8 +18,6 @@ approaches Rama and shows him the apparel, jewels and garlands gifted by Anasuya
 by her, Rama spends the night there along with Seetha Lakshmana. At the onset of dawn, they take
 leave of the ascetics and advance further into the great forest in the route suggested by the
 ascetics.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ Seetha; *pariSvajata* = and hugged her; *baahubhyaan* = in her arms.
 
 Hearing that great story, Anasuya the knower of piety kissed Seetha's forehead and
 hugged her in her arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ kathayaa* = (by hearing) your story.
 "It was narrated sweetly and amazingly by you, in clear words and syllables. It has
 been indeed heard by me how all that Svayamvara, the process of self-choosing marriage took place.
 O, the sweet speaking Seetha! I am overjoyed by hearing your story."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -187,8 +181,6 @@ sleep; *sandhyaakaale* = at the time of evening-twilight.
 horizon. The twittering of the birds can be heard, who, through the day, have sought their
 nourishment far and wide and are seeking their shelter for sleep at the time of
 evening-twilight."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -235,8 +227,6 @@ wet with sprinkled water.
 
 "These ascetics too are returning together, their bark-robes drenched from bathing,
 and with uplifted vessels, wet with sprinkled water on them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -284,8 +274,6 @@ pigeon's neck; *pavanoddhataH* = raised by the wind; *dR^ishyate* = is seen
 
 "From the sacred fire kindled by the sages, according to the scriptural ordinance, a
 column of smoke with the hue of a Pigeon's neck, raised by the wind, is seen there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -335,8 +323,6 @@ this place; *viprakR^iSTendriye* = by whom the senses are drawn apart.
 
 "Thought their foliage is sparse, the trees look dense all around. The quarters of
 the world, by whom the senses are drawn apart, do not shine brilliantly at this place."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -383,8 +369,6 @@ tiirtheSu* = round the sacred altars.
 
 "The animals who wander about at night are ranging everywhere. The deer of the
 hermitage are sleeping round the sacred altars."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -431,8 +415,6 @@ samalaNkR^itaa* = richly adorned with stars; *sampravR^ittaa* = has set well in 
 
 "O, Seetha! The night richly adorned with stars has set well in motion. The moon
 encircled with light is seen rising in the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -479,8 +461,6 @@ encircled with light is seen rising in the sky."
 
 "Go now. I give you leave. Be a female companion to Rama. Your sweet conversation
 has charmed me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -527,8 +507,6 @@ me; *divyaalaNkaara shobhitaa* = in embellishing yourself with heavenly ornament
 
 "O, Seetha! O, Dear child! Adorn (with ornaments and apparel gifted by me_ before my
 eyes and cause delight to me in embellishing yourself with heavenly jewels."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -575,8 +553,6 @@ manner; *praNamya* = making obeisance by bending down; *shirasaa* = her head;
 
 Then Seetha, adorning herself, resembled the daughter of a god, and making obeisance
 to the feet of Anasuya, she went forward to meet Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -617,8 +593,6 @@ over the charming gifts; *tapsvinyaaH* = of the ascetic.
 
 Rama, the most eloquent one, saw Seetha adorned as aforesaid and felt delighted over
 the charming gifts of the ascetic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -669,8 +643,6 @@ hermitess.
 
 Seetha, the daughter of Mithila kingdom then showed to Rama all the apparel, jewels
 and garlands the affectionate gifts of Anasuya the hermitess.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -718,8 +690,6 @@ Lakshmana; *mahaarathaH* = the great car-warrior; *abhavat* = felt;
 
 Seeing the respectful treatment, received by Seetha, which was very rare among human
 beings, Rama and Lakshmana the great car-warrior felt highly rejoiced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -767,8 +737,6 @@ auspicious; *sharvariim* = night.
 
 Thereupon, Rama with his face resembling the moon, having been honoured by the holy
 ascetics, was delighted and spent that auspicious night there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -817,8 +785,6 @@ just poured oblations into the sacred fire.
 While that night passed away, Rama and Lakshmana the tigers among men finished their
 ablutions and took leave of the ascetics dwelling the forest, who had just poured oblations into
 the sacred fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -872,8 +838,6 @@ follows)
 
 Those ascetics dwelling in the forest and practising virtue told Rama and Lakshmana
 about the region of that forest, which was infested with demons (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -889,8 +853,6 @@ mahaaraNye* = in this great forest.
 
 "O, Rama! Various forms of man-eating demons and beasts drinking the blood are
 living in this great forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -940,8 +902,6 @@ off.
 
 "O, Rama! They devour an ascetic or a celibate, who has not rinsed his mouth after
 finishing his meal or who is inattentive in this great forest. (Pray ward them off!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -992,8 +952,6 @@ vanam* = in his dangerous forest.
 
 "O, Rama! Here is the path of the great sages, through which they fetch the fruits
 in this forest. It is appropriate for you to go by this path in this dangerous forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 </details>
 
@@ -1050,8 +1008,6 @@ maNDala* = a mass of clouds.
 Thus addressed by those Brahmanas having great asceticism, who, with joined palms
 paid obedience to him and blessed his journey, Rama the harasser of his foes entered the forest
 with his consort along with Lakshmana, as sun enters a mass of clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

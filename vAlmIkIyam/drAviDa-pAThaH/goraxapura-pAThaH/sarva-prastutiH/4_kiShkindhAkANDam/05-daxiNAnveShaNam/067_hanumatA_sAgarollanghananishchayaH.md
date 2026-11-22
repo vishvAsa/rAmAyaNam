@@ -21,8 +21,6 @@ whole of that mountain is put to turmoil. And he reaches Lanka, instinctually, a
 of Air-god and of the Thought Process, i.e., mano javam, maaruta tulya
 vegam... Thus, with this chapter this book of Kishkindha Kanda, 'The Empire of Holy
 Monkeys...' concludes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -91,8 +89,6 @@ On seeing that best monkey Hanuma, who is burgeoning to cross over the hundred
 yojana-ocean and who is also quickly, progressively, and stupendously maximising his body, the
 other monkeys instantly shunning off their sadness, raved and rhapsodized over that staggeringly
 mighty monkey, Hanuma. [4-67-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -143,8 +139,6 @@ Those monkeys available all over there are altogether buoyed up and utterly
 astounded, and as with the people who have enthusiastically seen Narayana when He maximised His
 physique to tread the triad of worlds in His Trivikrama incarnation, these monkeys too are looking
 at Hanuma who is now maximising his body. [4-67-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -196,8 +190,6 @@ gladness [owing to extolling]; *balam upeyivaan* = [added] energy, [Hanuma] on a
 Hanuma who is already an outmatching monkey by way of his energy, has now accrued
 added energy obtained through the gladness derived by the way of extolment from other monkeys, and
 then he impetuously lashed his tail and oversized himself. [4-67-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ not, surpassed, it became.
 
 His physique which is being reinforced with resplendence while all the monkey chiefs
 are eulogising him has become unsurpassed in its form. [4-67-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -292,8 +282,6 @@ now, like that, prancing around.
 
 Hanuma, the lineal son of Air-god, is now prancing about as with a lion prancing
 around a wide-open den of a mountain. [4-67-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ frying-pan, in simile; *vi dhuuma paavakaH iva* = without, fumes, Ritual-fire, l
 
 While he is inflating the face of that clever Hanuma shone forth like a red-hot
 frying pan and like the fumeless white-hot Ritual-fire. [4-67-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -392,8 +378,6 @@ abraviit* = this, said.
 
 On bestirring himself from among the monkeys, and on reverencing the elderly
 monkeys, Hanuma said this, with a spine-tingling sensation in his body. [4-67-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -445,8 +429,6 @@ down.
 "He who is an inestimable one in his formidableness, and an expeditious one in his
 meandering in the skies, that Air-god who is the friend of Fire-god will be toppling
 mountaintops...... [4-67-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -502,8 +484,6 @@ them Jambavanta blesses him to find Seetha. This is not a self-exaltation but se
 capabilities. Hence these are to be taken as expressions of strong assertions, rather than a
 self-eulogy or wishful thinking, and hence it is said here in 'shall I? Do you want me to?'
 fashion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -557,8 +537,6 @@ lofty scribe-pawl scribing on the sky, for thousands of times, that too, unremit
 
 Annex: 'As none has ventured to measure its circumference nor its height, so
 far...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -612,8 +590,6 @@ and lakes... [4-67-12]
 
 Annex: 'As none has turned the table of ocean, nor the ocean swam beyond its
 shoreline in a fashion of misdemeanour, all through the creation, shall I make it so, now...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -667,8 +643,6 @@ and spilled all over... [4-67-13]
 Annex: 'unheard is the fact that marine fauna has ever came out onto land...
 shall I make them come out of it now, and offer as an easy prey to Garuda... as Garuda helps a lot
 in the Great War with Ravana, in future...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -721,8 +695,6 @@ the viper-diner, Garuda, while he is on the wing in the sky... [4-67-14]
 Annex: 'unknown is one who can dare to approach or trespass Garuda's flight
 path, and all the birds slide-slip if He comes into sight... shall I orbit Him now, as he is
 considerate of me...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -788,8 +760,6 @@ venture to start with the Sun who starts his journey of the day from Mt. Sunrise
 Mt. Dusk before Sun, and again shall I venture to comeback even before the sundown towards the same
 day's flaming Sun when he is garlanded with flaming sunrays around him in midday, that too without
 my touching the land... [4-67-15, 16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -853,8 +823,6 @@ pare off the earth... [4-67-17]
 These capabilities of these vanara-s are already said in Bala Kanda, as their
 congenital capabilities as at 1-17-27: 'They can also speedily agitate the Lord of Rivers, the
 Ocean...tear off the ground with their two feet, and can leap great oceans...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -871,8 +839,6 @@ ocean [hariSyaami] = I wish to expropriate - wish to deplete.
 "Or, shall I pulverise the mountains while fly-jumping on them, or oh, fly-jumpers,
 shall I splash out the waters great ocean just by the speed of my thighs while I fly over it, by
 which all of its water will trail after my tail... [4-67-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -930,8 +896,6 @@ Annex: 'these flowers pay a floral tribute to my flight as a bon voyage... would
 you like to see it now...' The star Swati is Arcuturus, as forming the 13th and 15th lunar
 asterism, and esteemed as deity bringing fresh rains and thereby crops. Hence, this adventure of
 Hanuma will yield crops in finding Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -985,8 +949,6 @@ ca* = falling down [descent on southern side]; *sarva bhuutaani* = all, beings;
 
 "Oh, vanara-s, shall I make all beings see my northerly ascent to the sky, my
 movement across the vast of sky, and my southerly descent from the sky... [4-67-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1038,8 +1000,6 @@ Meru and flying with a propulsive force as though to swallow the sky... [4-67-21
 Annex: 'so far you have seen one massive Mt. Meru swallowing a bit of sky with
 its massy peak... but I will be a flying mountain and I will swallow all of the sky, not only with
 a mountainy peak but with a mountainous base, as well...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1060,8 +1020,6 @@ shall I swirl the mountains topsy-turvy, or shall I sere the ocean pell-mell... 
 
 Annex: 'all can be done not individually, but I do it all at a time, in my
 gustily alacritous single flight...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1121,8 +1079,6 @@ excepting for the king of eagles, Garuda and the almighty Air-god... [4-67-23]
 Here the anu vrjet 'follow up on me...' is not straggling after me...' but 'who
 can follow me to overtake me in the race...' Hence 'many can follow me but it can be called, a
 treading after me, as none can surpass me in my speed...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1169,8 +1125,6 @@ split-second]; *sahasaa* = in a trice; *nir aalambanam ambaram* = without, suppo
 
 "Shall I penetrate the supportless sky in a split-second, like an electric-flash
 rocketing from a black-cloud in a trice? [4-67-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1217,8 +1171,6 @@ like that of; *[adya* = now]; *bhaviSyati hi* = will become, indeed.
 
 "When I am jumping over the ocean, now my aspect will indeed become like that of
 Vishnu who in those days easily paced the triad of worlds just in three paces... [4-67-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1271,8 +1223,6 @@ yourselves.
 "Oh, fly-jumpers, I am clearly perceiving by my percipience and the different
 strokes of my perspicacity are similarly prognostic... and I avouch that I will descry Vaidehi...
 hence, rejoice yourselves... [4-67-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1319,8 +1269,6 @@ certitude is.
 
 "I who am a coequal of Air-god in speediness, and of Garuda in fleetness, can
 traverse ten-thousand yojana-s at a stretch... that is my certitude... [4-67-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1375,8 +1323,6 @@ Self-created, Brahma, or; *hastaat* = from [their] hand; *sahasaa* = fleetly;
 Indra even if he is wielding his Thunderbolt just on fleetly triumphing over him... or, I can even
 bring isle of Lanka itself extracting it from the ocean... thus is my confidence..." So said Hanuma
 to other monkeys. [4-67-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1427,8 +1373,6 @@ While that choicest vanara with illimitable resplendence, namely Hanuma, is roar
 out his capabilities in the matter of leaping ocean on enormously increasing his physique, all the
 other monkeys are stunned to stare overhead at his aggrandized form and thus they are extremely
 gladdened.. [4-67-29b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1479,8 +1423,6 @@ Jambavanta; *pari sam hR^iSTaH* = very, much, gladdened; *uvaaca* = [and] said.
 On hearing the avouchment of Hanuma, which itself is an annihilator of the anguish
 of his kinsmen, then the king of fly-jumpers Jambavanta is very much gladdened and said. [4-67-29b,
 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1527,8 +1469,6 @@ Kesari's, son; *vegavan* = oh, speediest one; *maaruta aatmaja* = oh, Air-god's,
 
 "Oh, brave one, oh, son of Kesari, oh, son of Air-god, oh, dear boy, you have wiped
 out the boundless bother of your kinsmen in its entirety... [4-67-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1577,8 +1517,6 @@ attainment, for the purpose of; *mangalam kariSyanti* = benedictions [orisons,] 
 "The monkey leaders forgathered here are enamoured of your blessedness, and for the
 purpose of your attainment of the object, they all obsecrate orisons, devoutly... [4-67-31b,
 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1632,8 +1570,6 @@ The course he adopts in jumping over ocean is that of *siddha-s,
 caarana-s* who
 are teacherly, and by these references of Jambavanta, Hanuma is going to perform a teacherly
 mission in teaching Seetha, about the relativity of soul-body-supreme, in Sundara Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1688,8 +1624,6 @@ Annex: 'we stand in a yogic posture of standing on a single-foot, as though in
 ascesis, awaiting your successful arrival, as all our lives are now accompanying you... and it is
 apt of you to comeback successfully and return our lives to us... so that we have a
 breather...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1747,8 +1681,6 @@ oblate... as none is manifest...' For this Adi Shankara says *eka asmai devaaya 
 vidhema* because this hymn misses one *è - èkaaratva lopena* 'to that
 single Almighty we offer oblations...' Here too Hanuma is allusively referring to Rama, 'except for
 Rama who is other who can possibly do so...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1806,8 +1738,6 @@ mountain's; *etaani shikharaaNi* = these, crests; *sthiraaNi ca* = tough, also;
 
 "This Mt. Mahendra is beaming forth with boulders and altitudinal cliffs, and the
 crests of this mountain are indeed tough, and even towering... [4-67-35b, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1824,8 +1754,6 @@ gamiSyaami* = I, into speed, I go [I gain speed for my kick-start.]
 "Diversely outspreaded are its trees, and divers are its transuding ores, thus this
 mountain is shining forth... hence, from the peaks of this Mt. Mahendra I will gain speed for my
 kick-start... [4-67-36b, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -1891,8 +1819,6 @@ tat kaaraNa sambhavaat iti cet na - aatma stuteH viira vaadatvena adoShatatvaat 
 ruupayaa aatma stute adoShatvam - iti vaanaraan protsaahayan bala mardino janaardana iva
 pravR^iddha kalevaro hanumaan a~Ngada jaambavabhi anuj~nayaa raavaNa mandira darshana kutuuhalena
 mahendra girim aaruroha || dharmaakuutam- *Thus Hanuma climbs Mt. Mahendra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -2000,8 +1926,6 @@ is constrictive with diverse flowers of ever flowering, ever fruiting trees and 
 climbers as well, and where lions and tigers are freely moving and ruttish elephants love it, and
 where the flights of birds are uproarious, and pent-up rapids are clangourous. [4-67-39, 40,
 41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -2048,8 +1972,6 @@ such a mountain; *mahendram vicacaara* = on Mahendra, ambled.
 
 He who is equal in valour to the Paradisiacal Mahendra, that highly energetic and
 grand monkey Hanuma ambled on loftiest and towery crags of such a mountain. [4-67-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -2103,8 +2025,6 @@ Some mms use the word *padbhyaam* 'by feet...' instead of
 *baahubhyaam* 'by arms and hands...' where mountaineering is basically done firstly with
 hands, and where the foothold comes later. And this *padbhyaam* can be ellipted in next
 verse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -2157,8 +2077,6 @@ Virtually and widely bestrewn are the heaps of boulders, essentially scared are 
 the animals and elephants, and actually rocked are the gigantic trees, and its rapids and
 waterfalls have spouted out of that mountain by the impact of foot-stepping of Hanuma.
 [4-67-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -2225,8 +2143,6 @@ indulged in drinking and inebriated on that mountain are forsaking those lofty c
 mountain, and even the birds are put to flight, spanking snakes are completely slouching, and
 rising up and falling down are the stones of that mountaintops to each step of Hanuma, and thus
 that colossal mountain is desolated. [4-67-45, 46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -2287,8 +2203,6 @@ Vividly: The snakes popped up from the snake pit only with half of their body,
 ready to slither away if Hanuma treads them underfoot. The flutters of a flags are the hissings of
 snakes and swaying of hoods are the waving flags, and numerous are those snaky-flags, and equally
 numerous are their colours, and with them the mountain itself is with flying colours.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -2338,8 +2252,6 @@ be.
 While the sages are forsaking that towering mountain as their own scare bewildering
 them, that mountain appeared to be one who is desolated by his associates in the vast of a thick of
 forest, as a wilting wayfarer. [4-67-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 </details>
 
@@ -2401,8 +2313,6 @@ And he who is an importantly brave monkey among all the monkeys, an eliminator o
 enemy stalwarts, that highly proficient, expeditious, and conscientious Hanuma, on stabilising his
 impulses and making soul is quite staid in speediness, he made head away to Lanka, instinctually.
 [4-67-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

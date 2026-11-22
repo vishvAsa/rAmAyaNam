@@ -18,8 +18,6 @@ and see a city named Vishaala. Vishvamitra narrates how *haalaahala*, the
 lethal poison as well as *Amrita*, the ambrosial elixir emerged from the
 churning of Milk Ocean, and how Shiva contained the poison and how Vishnu helped
 the churning in His incarnation as Tortoise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ vismayam gatvaa* = gone into great astonishment; *atha vishvaamitram abraviit*
 On listening the narration of Sage Vishwamitra about Ganga's descent along with
 Lakshmana, Rama went into a great astonishment, and then addressed Vishvamitra.
 [1-45-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -109,8 +105,6 @@ it, even; *puNyam* = [are] sacrosanct; *atyadbhutam* = highly amazing.
 The blessed legend you have narrated about the digging of an ocean at the behest
 of Sagara, Ganga's alighting, and Bhageeratha filling it with the water of Ganga
 is sacrosanct and even highly amazing. [1-45-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -155,8 +149,6 @@ your, all of this episode; *nikhilena* = in entirety; *chintayatoH*
 
 Oh, enemy-inflamer, for two of us entire night rolled by as if it is a single moment
 while we were thinking about the episode you have narrated in its entirety. [1-45-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -206,8 +198,6 @@ of the universe, Vishvamitra, whole night rolled by." Thus Rama is addressing Vi
 
 Here the placement of verses does not give a continuity of narration in this version,
 insofar as Rama's speech is concerned. Other versions have a continuity of narration.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -250,8 +240,6 @@ insofar as Rama's speech is concerned. Other versions have a continuity of narra
 Thereafter on the next fresh dawn the enemy-oppressor Raghava spoke these words
 to sage Vishvamitra, whose affluence is nothing but asceticism, and who by now has
 performed his daily chores of rituals. [1-45-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -300,8 +288,6 @@ over.
 We have listened the praiseworthy legend of River Ganga, and the deific night
 has also passed by while listening such a legend, we may now cross over the very
 same prominent and merited River Ganga, the tri-path-cruiser. [1-45-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -346,8 +332,6 @@ praaptam* = your holiness, here, chanced - visited this place; *j~naatvaa*
 and which is comfortably blanketed with mats in its deck has come here, and indeed
 on knowing about the visit of your holiness to this place the sages have fetched
 it." Thus Rama spoke to Vishvamitra. [1-45-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -390,8 +374,6 @@ tat vacanam shrutvaa* = on hearing that sentence; *sarSisanghasya*
 Hearing the words of great-souled Raghava, Vishvamitra of Kusha dynasty, started
 to cross over the River Ganga along with the assemblage of sages, and with both
 the Raghava-s. [1-45-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -440,8 +422,6 @@ to here; *gangaakuule niviSTaaH* = then, sojourned on Ganga's bank;
 Arriving at the northern bank of River Ganga they have honoured the group of sages
 who ferried them up to here and sent them off. Then sojourning on the riverbank
 of Ganga they have seen the city called Vishaala. [1-45-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -483,8 +463,6 @@ went.
 
 The great sage Vishvamitra then quickly started along with Rama and Lakshmana to
 the charming and admirable city Vishaala, which in comparison is like heaven. [1-45-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -527,8 +505,6 @@ palms, on becoming; *mahaamunim vishvaamitram* = with great sage, Vishvamitra;
 Then Rama, whose flair for knowing everything is high, became suppliant duly adjoining
 his palms, and enquired about the prominent city Vishala with the great Sage Vishvamitra.
 [1-45-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -571,8 +547,6 @@ is there to me, indeed.
 "Oh, great sage, which dynasty of kings is ruling from this city of Vishaala? Let
 safeness betide you, I am interested to hear of it and indeed I am highly inquisitive
 about it." Thus Rama spoke to Vishvamitra. [1- 45-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -619,8 +593,6 @@ about it." Thus Rama spoke to Vishvamitra. [1- 45-12]
 
 Hearing that sentence of Rama then the eminent sage Vishvamitra has commenced to
 narrate the legend of ancient Vishaala. [1-45-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -666,8 +638,6 @@ has happened, indeed; *[tat api* = that, even]; *raaghava* = oh Raghava;
 Oh, Rama, I will tell you about the auspicious legend of Indra as I was told, and
 you listen to it as I tell. Oh, Raghava, indeed you may now listen to the quintessence
 of what has happened in this country. [1-45-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -717,8 +687,6 @@ were originally called asura-s, and later given the nomenclature
 of *raakshasaa*-s, the demons. Lady Aditi the second wife of that sage Kaashyapa,
 gave birth to the progeny of sura-s, later generally called as
 *devataa*-s, the gods. These two ladies are the daughters of Daksha Prajaapati.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -770,8 +738,6 @@ syaamaH* = how, we shall be - how to thrive; *buddhiH aasiit* = thought
 
 "Oh, tigerly-man, Rama, then those great-souls speculated as to 'how we can thrive
 without ageing, illness, and likewise without death.' [1-45-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -813,8 +779,6 @@ indeed.
 
 A thought occurred to those masterminds who were thinking on that matter clueing
 them up, 'we indeed can get elixir of life by churning the Milky Ocean.' [1-45-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -857,8 +821,6 @@ yoktram kR^itvaa* = on making Vasuki - King of Snakes as churning-rope;
 Deciding upon to churn the Milky Ocean then made Vasuki, Thousand-headed King of
 Snakes, as the churning rope and Mt. Mandara as stirrer, and those brothers whose
 energy is unlimited have started churning the Milky Ocean thoroughly. [1-45-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -909,8 +871,6 @@ used as churning rope, is incapacitated to bear the friction of churning and fan
 the cliffs of Mt. Mandara. Thereby a great lot of venom is disgorged from the heads
 of that serpent Vaasuki, which venom on melting the rocks of Mt. Mandara became
 the holocaustic poison called *haalaahala*. [1-45-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -952,8 +912,6 @@ the holocaustic poison called *haalaahala*. [1-45-19]
 
 A lethal poison similar to inferno known as *haalaahala* has started to fulminate
 therefrom, by which whole universe of gods, non-gods and humans is burnt down. [1-45-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -996,8 +954,6 @@ us, thus, they prayed to Him.
 The gods seeking shelter then approached Rudra, the Cardinal God, Endower of Solace,
 and who husbands all the created animals inclusive of human-animals, namely Shiva,
 and they prayed to him saying 'save, save us.' [1-45-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1040,8 +996,6 @@ there, only, revealed himself.
 This way while the gods are praying the Lord and God of Gods, namely Shiva, then
 handling his disc and conch-shell Vishnu has also revealed himself at that place.
 [1-45-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1105,8 +1059,6 @@ to you, isn't it. By virtue of your position as the foremost god among gods, oh,
 omnicompetent god Shiva, you please accept this poison applying yourself to that
 position of foremost god, and deeming this poison, haalahala, as a foremost oblation
 to your godhood'. [1-45-23, 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1161,8 +1113,6 @@ Saying so Vishnu, the best one among gods, has disappeared then and there only.
 And on observing the scare of gods and also on paying heed to the words of the Wielder
 of Bow called *shaar~Nga*, namely Vishnu, god Shiva gulped that lethal poison,
 *haalaahala *, as if it is ambrosia. [1-45-25, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1179,8 +1129,6 @@ away; *raghunandana*= oh delight of Raghu's dynasty - Rama; *tataH devaasuraaH s
 The god of gods Hara then left for his abode Kailash parting with other gods, and
 oh, Rama, the joy of Raghu's dynasty, the gods and non-gods have continued to churn
 the Milky Ocean. [1-45-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1228,8 +1176,6 @@ the Milky Ocean. [1-45-26b, 27a]
 Now the loftiest mountain that is being used as stirrer, namely Mt. Mandara, has
 caved into the netherworld, thereby the gods along with gandharva-s have prayed
 to Madhusuudana, the other name of Vishnu. [1-45-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1273,8 +1219,6 @@ girim uddhartum arhasi*= apt of you to elevate mountain.
 'You alone are the recourse to all beings, especially to the dwellers in heavens,
 oh ambidextrous god Vishnu, you safeguard us, it will be apt of you elevate the
 mountain.' So prayed gods to Vishnu. [1-45-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1322,8 +1266,6 @@ Hearing the prayer of gods Vishnu, Hrisheekesha, the controller of senses, adopt
 the form of a tortoise and positioning the stirring Mt. Mandara on that tortoiseshell,
 he lay recumbent at the bottom of Milky Ocean as a base to the stirrer. [1-45-29b,
 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1366,8 +1308,6 @@ participated in churning.
 Keshava then reached out his hand and grasped the mountaintop as he is the Cosmic-Soul,
 and thus staying amid gods that Supreme Person Vishnu participated in churning the
 ocean by holding the stirring mountain upright. [1-45-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1420,8 +1360,6 @@ Sciences, namely aayurveda , a highly righteous soul, named Dhanvantari,
 has firstly surfaced with his arm-rest-stick and with his handy water-vessel, and
 then the remarkably elegant Apsara-s, angelic damsels, have emerged next to him
 from the Milky Ocean. [1-45-31b, 32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1467,8 +1405,6 @@ they became - their genera became.
 Choicest females have come out an elixir obtained on absolute churning of the waters
 of Milk Ocean, oh, best one among men, Rama, thereby that genera of females became
 Apsara-s. [1-45-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1515,8 +1451,6 @@ emerged]; *taasaam*= their; *yaaH paricaarikaaH*= who are the, maidservants
 Six hundred millions of such Apsara-s with amazing dazzle have emerged from the
 churning of Milky Ocean, oh, descendent of Kakutstha, and their maidservants who
 emerged along with them are innumerable. [1-45-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1572,8 +1506,6 @@ have a case of sound etymology par excellence [in Ramayana,] in *sura, asura
 of the suffix *ra *and means 'one full of *ra *spiritual life i.e.,
 *asu *and 'by curious process of semantical change came to mean a demon.'
 Pt. Satya Vrat - Ramayana - A Linguistic Study.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1616,8 +1548,6 @@ Oh, descendent of Raghu, then the heaven-sent damsel Vaaruni came up from Milky
 Ocean searching for her espousal, who is the daughter of Varuna, the Rain-god, and
 who incidentally is the presiding deity of hard liquors and also called as *sura*.
 [1-45-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1663,8 +1593,6 @@ taken - accepted.
 Oh, Rama, the sons of Diti, namely asuraa-s, have not espoused that daughter of
 Rain-god, but oh, brave Rama, the sons of Aditi on their part, namely sura-s, have
 espoused that impeccable Vaaruni. [1-45-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1707,8 +1635,6 @@ delighted, rejoiced [gods].
 Thereby the sons of Diti are called *asuraa*-s, and the sons of Aditi are
 called *suraa*-s, and gods are delighted and rejoiced on espousing Vaaruni.
 [1-45-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1750,8 +1676,6 @@ gem of a jewel, also; *tathaiva*= like that; *uttamam amR^itam udatiSThan
 Then a best horse called Ucchaishravaa has emerged, oh, Rama, the best among men,
 and then a gem of a jewel, called Kaustubha, and like that *amrita*, the
 Supreme ambrosial elixir of gods, have also emerged. [1-45-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1799,8 +1723,6 @@ part; *diteH putraan asuudayan*= Diti's, sons are, havocked.
 Owing to the dispute regarding the possession of that ambrosia, oh, Rama, then
 there chanced a rampant ethnic havoc, and then the sons of Aditi have havocked the
 sons of Diti. [1-45-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1842,8 +1764,6 @@ perplexing; *mahaaghoram yuddham aasiit*= very gruesome, war, occurred.
 All the asura-s and demons have come to one side against sura-s, and there occurred
 a very gruesome war which was perplexing to all the triad of universe viz., ethereal,
 real and surreal spheres. [1-45-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1900,8 +1820,6 @@ as male person's feet. He further looked at those two feet and beholding them as
 *shrii caraNa*, 'Reverential Divine Feet of Vishnu,' with which he covered
 the three spheres, Brihaspati's illusion is shattered and he venerated those feet,
 recognising this as Vishnu's Maya, illusory power.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1945,8 +1863,6 @@ whose blaze is manifest in the fire, sun and lightning, hence one who has triple
 Whoever confronted that Eternal and Supreme Person, namely Vishnu, in that war,
 then Vishnu whose blaze is threefold as manifest in the sun, fire and lightning,
 has pulverised him. [1-45-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -1988,8 +1904,6 @@ brave ones, Aditi's, sons gods; *diteH putraan*= Diti's, sons - demons;
 In this horrendous war between the progeny of Diti, namely demons, and the progeny
 of Aditi, namely gods, the sons of Aditi being gods, have altogether massacred the
 demonic sons of Diti. [1-45-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 </details>
 
@@ -2039,8 +1953,6 @@ he ruled.
 eliminator of enemy cities, namely Indra, happily ruled the worlds that are inclusive
 of sages and caarana-s." Thus Vishvamitra continued his narration about Vishaala
 city and its emergence. [1-45-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

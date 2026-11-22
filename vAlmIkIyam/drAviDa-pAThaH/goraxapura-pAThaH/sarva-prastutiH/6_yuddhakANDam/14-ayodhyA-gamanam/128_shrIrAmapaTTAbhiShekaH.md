@@ -30,8 +30,6 @@ gives away presents to the priests as well as Sugreeva and Angada. Rama presents
 to Seetha and Seetha presents that necklace in turn to Hanuma. Rama further gives away presents to
 Vibhishana, Sugreeva, Jambavan and others on the occasion. Rama bids farewell to monkeys. The glory
 of the epic is complemented in the end by Valmiki.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -88,8 +86,6 @@ slightly hallowed; *shirasi* = on his head (as a token of salutation).
 Placing his hallowed hands together on his head (as a mark of salutation), Bharata
 the enhancer of Kaikeyi's happiness, spoke to the truly brave Rama, his elder brother (as
 follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ was treated respectfully; *idam raajyam* = this kingdom; *dattam* = was given;
 
 "You gave this kingdom to me and treated my mother's words respectfully. As you gave
 it to me then, in the same way I am giving it to you again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ bull; *ekaakinaa* = all alone.
 
 I cannot carry this heavy burden anymore than a young ox would sustain a load,
 carried forward by a strong bull all alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ by a mammoth stream of water.
 "I think this venerable point in the form of administration of the kingdom is
 difficult to be controlled, as a broken dam, seeping from its cracks when breached mammoth stream
 of water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -272,8 +262,6 @@ take up); the chase of a wild goose.
 
 O hero, the annihilator of enemies! I am not able to follow your path, any more than
 a donkey would follow the gallop of a horse or a crow would take up the chase of a wild goose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -350,8 +338,6 @@ though grown big and difficult to climb with a huge trunk and large branches, do
 but dries up after flowering, he who planted it would not enjoy the fruit for which it was planted.
 This is the analogy applied to you, if you, as a Master, would not indeed rule over us, your
 servants. You can understand the meaning."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ the world; *anupashyati* = see; *tvaam* = you; *abhiShiktam* = crowned;
 
 "O Rama! Today, let the world see you when crowned, like the sun with its glowing
 splendour, shining brilliantly at noon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -451,8 +435,6 @@ invocation of songs.
 May you relax and wake-up too, to the sounds of an ensemble of musical instruments,
 the tinkling of ornaments strung with tiny bells and worn around the waist and anklets as well as
 sweet invocation of songs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -499,8 +481,6 @@ as; *vasumdharaa* = the earth; *taavat* = is so much.
 
 Look after, you, lordship of world here, as long as the stellar sphere revolves and
 so far as the earth is spread out."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -545,8 +525,6 @@ seat.
 
 Hearing the words of Bharata, Rama who conquered the cities of adversaries, accepted
 his words saying "Be it so" and sat on an auspicious seat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -593,8 +571,6 @@ speed; *parya vaarayan* = encircled; *raaghavam* = Rama. (all round).
 
 Thereafter, on instructions from Shatrughna, skilled barbers with gentle hands who
 can do their work with a good speed, encircled Rama all round.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -651,8 +627,6 @@ Bharata, having bathed first, the mighty Lakshmana, Sugreeva the lord of monkeys
 Vibhishana the king of demons took bath. Rama had his matted locks disentangled and bathed. He
 stood there, shining with splendour, adorned with picturesque garlands, smeared with sandal pastes
 of various colours and clothed in costly raiment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -693,8 +667,6 @@ and charming man; *ikShvaakukula vardhanaH* = the promoter of Ikshvaku dynasty;
 
 Shatrughna, the valiant and charming man, the promoter of Ikshvaku dynasty made
 arrangements for personal adornment of Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -735,8 +707,6 @@ decoration; *svitaayaah* = of seetha.
 
 Then, all the noble-minded widows of Dasaratha indeed themselves personally adorned
 Seetha beautifully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -783,8 +753,6 @@ Seetha beautifully.
 
 Thereupon, the delightful Kausalya, who was affectionate of her sons, adorned with
 zeal all the wives of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -825,8 +793,6 @@ horses); *sarvaaNga shobhanam* = completely beautiful in all respects.
 
 Later, on the orders of Shatrughna, the charioteer by name Sumantra made his
 appearance, yoking chariot to horses which were completely beautiful in all respects.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -877,8 +843,6 @@ armed; *raamaH* = rama; *parapuramjayaH* = the conqueror of hostile cities;
 
 Seeing the charming chariot, which emitted immaculate splendour like that of the
 sun, standing before him, the mighty armed Rama, the conqueror of hostile cities, ascended it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -924,8 +888,6 @@ sparkling ear-rings.
 Sugreeva and Hanuma, having splendour similar to that of Indra the lord of
 celestials, after taking their bat, wore beautiful raiment as well as sparkling ear rings and
 started.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -972,8 +934,6 @@ Seetha; *yayuH* = moved out; *usukaaH* = longing; *draShTum* = to see;
 
 Endowed with all types of ornaments as well as charming ear-rings, those wives of
 Sugreeva together with Seetha moved out, longing as they were, to see the city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1017,8 +977,6 @@ having placed the priest in their front; *mantrayaamaasa* = planned (everything)
 
 In Ayodhya, the ministers of king Dasaratha, having placed the priest in their
 front, planned everything meaningfully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1065,8 +1023,6 @@ front, planned everything meaningfully.
 
 Ashoka, Vijaya and Siddhartha, with a great concern, discussed about Rama's
 advancement and the prosperity of the City.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1107,8 +1063,6 @@ Rama; *jayaarhasya* = worthy of victory.
 
 "You ought to do auspiciously whatever is required for the coronation of the
 great-souled Rama, worthy of victory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1156,8 +1110,6 @@ Rama.
 
 Advising the priest in this way, all those ministers quickly started from the city,
 with an intention to see Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1199,8 +1151,6 @@ forth; *nagaram* = to the city.
 
 The faultless Rama, mounting the excellent chariot, as Indra ascended the chariot
 yoked to green-coloured horses, sallied forth to the city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1273,8 +1223,6 @@ nearby; *jagR^ihe* = held; *aparam* = another; *shvetam* = white;
 Bharata took up the reins. Shatrughna held the parasol on Rama's head. Lakshmana
 winnowed a fan. Vibhishana, the king of demons standing nearby, held a white fan, shining
 brilliantly like the moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1325,8 +1273,6 @@ of the gods; *raamasya* = Rama; *stuuyamaanasya* = was being praised;
 
 Then, in the sky, groups of sages, celestials along with troop of the Maruts, the
 host of the gods, praised Rama and sweet reverberation was heard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1373,8 +1319,6 @@ splendor; *aaruroha* = mounted; *kuN^jaram* = an elephant; *shatrumjayanaama*
 
 Thereupon, Sugreeva, the foremost of monkeys, possessing a great splendor, mounted
 an elephant named Shatrunjaya, looking like a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1415,8 +1359,6 @@ nine thousand elephants.
 
 Assuming human forms and adorned with all types of ornaments, monkeys sallied forth,
 mounting on mine thousand elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1466,8 +1408,6 @@ puriim* = to that City of Ayodhya; *harmya maaliniim* = having a series of palac
 
 Rama, the foremost among men, accompanied by sounds of conches buzzing in the ears
 and sounds of kettle-drums, proceeded to the city of Ayodhya, having a series of palaces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1508,8 +1448,6 @@ on a chariot; *sapuraH saram* = with attendants proceeding in advance.
 
 Then, the people of Ayodhya saw Rama, the chariot warrior, having a beautiful form,
 arriving on a chariot, with attendants walking in front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1550,8 +1488,6 @@ they; *anujagmuH* = followed; *mahaatmaanam* = the great souled Rama;
 
 Felicitating Rama and greeted in reciprocation by Rama, they followed the great
 souled Rama, who was surrounded by his brothers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1595,8 +1531,6 @@ brilliance; *chandramaaH iva* = like the moon; *nakShatraiH* = among the stars.
 
 Surrounded by ministers, brahamanas and other citizens, Rama shone with his own
 brilliance, like the moon among the stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1644,8 +1578,6 @@ surrounded; *muditaiH* = by musicians; *tuuryaiH* = with musical instruments;
 
 That Rama drove, surrounded by musicians having musical instruments cymbals and
 Swastika-musical instruments in their hands walking in front and uttering auspicious songs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1694,8 +1626,6 @@ Rama.
 Men with grains of rice mixed with turmeric and thereby appearing gold in colour,
 cows, maidens along with brahmanas having balls of sweets in their hands, walked in front of
 Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1742,8 +1672,6 @@ that great act; *vaanaraaNaam* = of monkeys; *mantriNaam* = to his ministers.
 
 Then, Rama narrated about his friendship established with Sugreeva, the power of
 Hanuma and the great act of monkeys to his ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1786,8 +1714,6 @@ Hanuma and the great act of monkeys to his ministers.
 
 Hearing the well-known achievement monkeys and the commonly known strength of the
 demons, the citizens of Ayodhya were astonished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1841,8 +1767,6 @@ raamaH* = that resplendent Rama; *pravivesha* = entered; *ayodhyaam* = Ayodhya;
 Then, Rama spoke to his counselors about his meeting with Vibhishana. After
 recounting it, the resplendent Rama entered Ayodhya crowded with happy and rejoiced people,
 together with the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1893,8 +1817,6 @@ kings.
 
 Then, the citizens hoisted flags on every house. Rama reached the beautiful palace,
 paternal occupied by Ikshvaku kings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -1952,8 +1874,6 @@ the foremost among the righteous.
 Approaching and entering the palace of the great-souled father, Rama the prince
 offered salutation to Kausalya, Sumitra and Kaikeyi and spoke the following sweet and meaningful
 words to Bharata, the foremost among the righteous:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2003,8 +1923,6 @@ of pearls and cat's eye gems; *sugriivaaya* = to Sugreeva (for his stay).
 
 "Give this great palace of mine which looks excellent with Ashoka garden and
 consisting of pearls and cat's eye-gems to Sugreeva for his stay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2045,8 +1963,6 @@ hand; *pravivesha* = entered; *tam aalayam* = that house; *tataH* = then.
 
 Hearing those words of Rama, Bharata having a true prowess, holding Sugreeva by his
 hand, entered that house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2087,8 +2003,6 @@ hand, entered that house.
 
 Thereupon, some men as ordered by Shatrughna, quickly brought oil lamps, beds as
 also mats and entered the house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2129,8 +2043,6 @@ Rama; *prabho* = O capable person!.
 
 Bharata of great splendour spoke to Sugreeva as follows: "O capable person! Order
 the messengers to make arrangements for Rama's coronation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2171,8 +2083,6 @@ to four leaders of monkeys.
 
 Sugreeva then gave four golden jars encrusted with jewels, to four leaders of
 monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2219,8 +2129,6 @@ filled with; oceans respectively.
 
 "O monkeys! Get ready in such a way that you await my orders tomorrow at dawn, with
 your water-jars filled with water from the four oceans respectively."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2261,8 +2169,6 @@ leapt; *shiighram* = quickly; *gaganam* = into the sky.
 
 The great souled monkeys, resembling elephants and going speedily like eagles, thus
 ordered by Sugreeva, leapt quickly into the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2336,8 +2242,6 @@ rivers kumbhaiH = with (those) jars.
 
 Jambavan, Hanuma, a monkey called Vegadarshi and Rishabha brought water-jars filled
 with water. They brought water from five hundred rivers with those jars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2378,8 +2282,6 @@ with water. They brought water from five hundred rivers with those jars.
 
 Thereafter, the energetic SusheNa brought a jar, adorned with all types of precious
 stones, filled with water from the eastern sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2426,8 +2328,6 @@ stones, filled with water from the eastern sea.
 
 Rishabha brought water quickly from the southern sea in a golden jar, covered with
 some stems of red sandal-wood tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2468,8 +2368,6 @@ large jar set with jewels.
 
 Gavaya, having a pace as rapid as wind, brought cool water from the western ocean,
 in a large jar set with jewels.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2522,8 +2420,6 @@ brought; *shiighram* = swiftly; *uttaraat* = from the northern sea.
 That virtuous Nala, who vied with Garuda (the king of birds) and the wind-god in
 prowess, and who was endowed with all good qualities, swiftly brought water form the northern
 sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2541,8 +2437,6 @@ purohitaaya* = to their chief priest; *suhR^idbhyaH cha* = and friends.
 Then, Shatrughna, accompanied by the counsellors, reported to Vasishta, their chief
 priest and his friends, about that water intended for Rama's coronation brought by those foremost
 of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2589,8 +2483,6 @@ occupy; *sasiitam* = along with Seetha; ratnamaye precious stones.
 
 The elderly Vasistha, with diligence, along with other brahmins on his side,
 prevailed upon Rama duly to occupy along with Seetha, on a seat made of precious stones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2644,8 +2536,6 @@ Rama the tiger among men, with clear and fragrant water, as the eight Vasus*
 * Eight Vasus: 1. Aapa (connected with water), 2. Dhruva the pole-star, 3. Soma
 the moon, 4. Dhara, 5. Anila, the wind, 6. Pavaka the fire, 7. Pratyusha, the Dawn , 8. Prabhasa
 the Light.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2709,8 +2599,6 @@ Vasishta and others, with much delight got him consecrated first, with brahmanas
 officiating as priests and by virgins, ministers, warriors, as well as merchants sprinkling the sap
 of all kinds of medicinal herbs, with the four gods the guardians of the worlds, standing in the
 air and with all the gods assembled there, sprinkling the sap on Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2794,8 +2682,6 @@ precious stones in the council-hall, studded with gold, graced with abundant ric
 shiningly made with most charming jewels of various kinds, and thereafter Rama duly adorned by that
 crown as well as jewels by the great-souled Vasishta and other priests officiating at the
 coronation-ceremony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2874,8 +2760,6 @@ Vibhishna; *raakShasendraH* = the lord of demons; *apramcha* = another whisk;
 
 Shatrughna held over him, a white and charming parasol; Sugreeva the king of
 monkeys, a white whisk and vibhishana the lord of demons, another whisk shining like the moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2891,8 +2775,6 @@ hundred lotuses; *jvalantiim* = and of a shining; *vapuShaa* = form.
 
 Encouraged by Indra, the lord of celestials, the wind-god presented to Rama, a
 golden garland consisting of a hundred lotuses and which looked shining brilliantly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2939,8 +2821,6 @@ samaayuktam* = and endowed with several types of precious stones.
 
 Induced by Indra, the wind-god presented to Rama the king, a chain of pearls,
 adorned with gems and endowed with several types of precious stones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -2983,8 +2863,6 @@ gracefully sang; *apsarogaNaaH* = and troups of Apsaras (celestial nymphs);
 On that occasion of the coronation-ceremony of the intelligent Rama, who was
 well-deserving it, the celestial-musicians among the celestials gracefully sang and troupes of
 Apsaras (celestial nymphs) danced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3029,8 +2907,6 @@ flowers; *gandhavanti cha* = endowed with fragrance.
 
 On the occasion of that merriment of coronation to Rama, the earth was bearing a
 rich crop, the trees were laden with fruits and fragrant flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3046,8 +2922,6 @@ hundred thousand; *ashvaanaam* = horses; *tathaa* = and; *gavaamcha* = cows;
 
 Rama the foremost among men, first gave away to Brahmanas, a hundred thousand horses
 and cows that have lately calved as well as a hundred bulls.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3088,8 +2962,6 @@ vastraaNi* = jewels and raiments.
 
 Rama again gave to Brahmanas, thirty crores of gold coins, all kinds of very costly
 jewels and raiment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3139,8 +3011,6 @@ pratiikaashaam* = looking like a beam of sun-light.
 
 Rama gave to Sugreeva, a beautiful chaplet, studded with plenty of gems, looking
 like a beam of sun-light.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3196,8 +3066,6 @@ eye gems; *maNiratna vibhuuShite* = and adorned with jewels and gems.
 
 The joyful Rama presented to Angada, the son of Vali, a bracelet worn on upper arm,
 conspicuously studded with cat's eye gems and adorned with jewels and gems.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3214,8 +3082,6 @@ conspicuously studded with cat's eye gems and adorned with jewels and gems.
 
 Rama presented to Seetha, an excellent string of pearls, furnished with superior
 gems, shining like a beam of moon-light; two clean and beautiful raiment and lovely ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3285,8 +3151,6 @@ again.
 
 Looking towards Hanuma the monkey, Seetha, daughter of Janaka, having taken off the
 pearl-string from her neck, repeatedly caught the glimpse of all the monkeys and her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3344,8 +3208,6 @@ Looking at her, Rama who was acquainted with the gesture of another spoke to See
 as follows: "Dear Seetha! Give the pearl-necklace to a person, with whom you are pleased and in
 whom the following viz. sharpness, firmness, renown, dexterity, competence, modesty, prudence,
 virility, prowess and intelligence are ever present."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3398,8 +3260,6 @@ beams of moonlight; *shushubhe* = shone brilliantly; *achalaH yathaa* = as a mou
 The black-eyed Seetha gave that pearl necklace to Hanuma. Hanuma, the foremost among
 the monkeys, by wearing that necklace, which was as white as a heap of moonlight-beams, shone
 brilliantly as a mountain silvered by a white cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3434,8 +3294,6 @@ monkeys; *pratipuujitaaH* = were honoured; *vaashobhiH* = with raiments;
 
 All the elder ones among the monkeys and others, who were foremost among the moneys,
 were honoured suitably with raiment and ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3485,8 +3343,6 @@ inclinations; *mainda dvividaabhyaam* = niilaayacha = to mainda; Dvivida and Nil
 
 Thereafter, Rama the tormentator of enemies, having thought over, presented articles
 according to their inclinations, to Mainada, Dvivida and Nila.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3532,8 +3388,6 @@ desire; *puShkalaiH ratnaiH* = with abundant gifts; *sarve* = all of them;
 Rama, who was unwearied in action, then suitably honoured Vibhishana, Sugreeva,
 Hanuma, Jamabavan and all other eminent monkeys with desired objects and abundant gifts. All of
 them went back, delighted in mind even as they had come.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3583,8 +3437,6 @@ by Rama; *samupaagaman* = reached; *kiShkindhaam* = Kishkindha.
 
 Thereafter, all those excellent great souled monkeys, offering their salutation to
 Rama and getting permission from him, returned to Kishkindha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3625,8 +3477,6 @@ entered; *kiShkindhaam puriim* = the city of Kishkindha.
 
 Having seen Rama's coronation-ceremony, Sugreeva the chief of monkeys, after getting
 honoured by Rama, entered the city of Kishkindha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3674,8 +3524,6 @@ nairR^itarShabhaiH* = with those foremost of demons; *praayaat* = returned;
 
 The righteous and the renowned king Vibhishana too, after obtaining the treasure of
 his race (kingdom of demons), followed by those foremost of demons, returned to Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3751,8 +3599,6 @@ follows).
 That renowned Rama, of a very generous nature, having destroyed his enemies and
 ruling the entire kingdom, enjoyed it with a great delight. Rama, affectionate of righteousness,
 spoke to Lakshmana, the knower of righteousness (as followers):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3801,8 +3647,6 @@ dhuram* = that burden (of sovereignity); *yaa* = which (was borne); *pitR^ibhiH*
 "O Lakshmana, the knower of what is right! Rule with me, this earth, as ruled by the
 earlier kings, with the help of an army. Installed in the office of Prince Regent, bear like me,
 the burden (of sovereignty), which was borne by our forefathers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3856,8 +3700,6 @@ not give; *yogam* = his consent; *niyujyamaano.api* = nay; even being appointed;
 When Lakshmana did not give his consent, even though being repeatedly entreated in
 all ways, nay even being appointed to the office of Prince Regent, the great-souled Rama thereupon
 consecrated Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -3909,8 +3751,6 @@ other; *yajJNaiH* = sacrifices.
 
 Rama propitiated the gods by performing Paundarika, Ashvamedha, Vajapeya and other
 sacrifices many times.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 </details>
@@ -3956,8 +3796,6 @@ which numerous gifts were bestowed.
 
 Having enjoyed the kingship for ten thousand years, Rama performed a hundred
 horse-sacrifices, in which good horses were sacrificed and numerous gifts bestowed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4007,8 +3845,6 @@ earth; *lakShmaNaanucharaH* = with Lakshmana as his companion.
 
 That Rama, having his long arms reaching down his knees, having a broad chest and
 glorious, ruled this earth with Lakshmana as his companion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4056,8 +3892,6 @@ and relatives.
 
 Obtaining a very great kingdom the righteous Rama propitiated the almighty with many
 kinds of sacrifices, with the team-work of his sons, brothers and relatives.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4104,8 +3938,6 @@ bhayam* = and no fear; *vyaadhijam* = born of diseases.
 
 While Rama was ruling the kingdom, there were no widows to lament, nor there was no
 danger from wild animals, nor any fear born of diseases.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4153,8 +3985,6 @@ youngsters.
 
 The world was bereft of thieves and robberies. No one felt worthless nor did old
 people perform obsequies concerning youngsters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4201,8 +4031,6 @@ Rama alone; *na abhyahimsan* = no one was killing; *parasparam* = each other.
 
 Every creature felt pleased. Every one was intent on virtue. Turning their eyes
 towards Rama alone, creatures did not kill one another.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4243,8 +4071,6 @@ thousands of years; *tathaa* = and; *putra sahasriNaH* = with thousands of proge
 
 While Rama was ruling the kingdom, people survived for thousands of years, with
 thousands of their progeny, all free of illness and grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4294,8 +4120,6 @@ centred round; *raamaH raamaH raamaH iti* = Rama; Rama and Rama; *jagat* = the w
 
 While Rama ruled the kingdom, the talks of the people centered round Rama, Rama and
 Rama. The world became Rama's world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4343,8 +4167,6 @@ puShpaaH* = were having regular flowers; *nitya phalaaH* = and regular fruits;
 
 The trees there were bearing flowers and fruits regularly, without any injury by
 pests and insects. The clouds were raining in time and the wind was delightful to the touch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4400,8 +4222,6 @@ Brahmins (the priest-class), Kshatriyas (the warrior-class), Vaishyas (the class
 merchants and agriculturists), Shudras (the servant-class) were performing their own duties,
 satisfied with their own work and bereft of any greed. While Rama was ruling, the people were
 intent on virtue and lived without telling lies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4448,8 +4268,6 @@ good characteristics; *sarve* = all; *dharmaparaayaNaaH* = were engaged in virtu
 
 All the people were endowed with excellent characteristics. All were engaged in
 virtue. Rama was engaged in the kingship thus for one thousand years.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4529,8 +4347,6 @@ In this world, whoever person reads and listens to this foremost lyric derived f
 the speech of a sage, which is endowed with righteousness, conferring fame and longevity, fetching
 victory to kings and as written at first by Valmiki, that person is delivered from all
 misfortune.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4549,8 +4365,6 @@ and a person looking for wealth; *labhatevai* = dhanaani cha = gets the riches;
 On hearing the narrative of his coronation in this world, a person seeking for sons
 gets sons. A person looking for wealth, gets the riches. A king conquers the earth and overcomes
 his enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4622,8 +4436,6 @@ cha* = in Bharata; *tathaa* = even likewise; *striyaH* = the women;
 Even as Kausalya, the mother has Rama as her living son, or as Sumitra has Lakshmana
 or as Kaikeyi has Bharata, the women likewise can become mothers of living sons, endowed with
 children as well as grand children and thus become happy forever.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4670,8 +4482,6 @@ victory; *raamasya* = of Rama; *akkliShTa karmaNaH* = who was unweary in his act
 
 On hearing this epic of Ramayana and all the episode of victory of Rama, who was
 unweary in his actions, a person gets longevity to life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4719,8 +4529,6 @@ Valmiki; *puraa* = long ago; *asau* = that person; *ati tarati* = overcomes;
 
 He or she, who hears with attention and with a subdued anger, this poetic
 composition done by Valmiki long ago, that person overcomes the difficulties.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4737,8 +4545,6 @@ their relatives; *ramante* = get rejoiced.
 
 Whoever hears this poetical composition written by Valmiki long ago, they at the
 conclusion of their absence from home, meet their relatives and get rejoiced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4780,8 +4586,6 @@ listen to it.
 
 They get all the boons, entreated from Rama. All the gods get pleased with those who
 carefully listen to it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4828,8 +4632,6 @@ end; *raajaa* = a king; *vijayeta* = conquers; *mahiim* = the earth;
 
 Whoever carefully listens to the epic in his house, all obstacles come to an end. A
 king conquers the earth. A person staying away from home, fares well.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4880,8 +4682,6 @@ menstruating women; *suuyaH* = give birth to; *anuttamaan* = excellent;
 
 On hearing the epic, the menstruating women give birth to excellent sons. The adorer
 and the reader of this ancient epic gets relieved of all sins and obtains longer life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -4956,8 +4756,6 @@ the birth of a son.
 The epic is to be listened by warrior-class, after offering their salutation with
 their heads bent low, from brahmins every day regularly. There is no doubt that the listener and
 the reader of this entire Ramayana will get lordship and the birth of a son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -5010,8 +4808,6 @@ Rama gets forever pleased with him who listens to or reads Ramayana daily. He is
 indeed the eternal Vishnu, the Lord of preservation. Rama is the primordial Lord, clearly placed
 before the eyes the powerful Lord removing the sins and the great-armed, who has abode on waters
 (of the ocean of milk) Sesha (the serpent-god forming his couch is said to be Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -5052,8 +4848,6 @@ before the eyes the powerful Lord removing the sins and the great-armed, who has
 
 Tell this epic which occurred long ago in this manner, to those who ask for it,
 fearlessly. Let there be happiness to you! Let the strength of Vishnu increase!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -5098,8 +4892,6 @@ pleased.
 
 By studying and listening to this epic, all the gods get appeased. By listening to
 this Ramayana, the forefathers forever get pleased.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -5143,8 +4935,6 @@ residence; *triviShTase* = in heaven (is assured).
 
 To those persons who transcribe with devotion this collection of poems depicting the
 story of Rama residence in heaven is assured.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -5200,8 +4990,6 @@ and all; *arthasiddhimcha* = the acquisition of wealth; *bhuvi* = on earth.
 By listening to this highly meaningful and auspicious poetical composition, a person
 gets family-prosperity, augmentation in money and grain, superior women, exquisite happiness and
 all the acquisition of wealth on this earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 </details>
 
@@ -5248,8 +5036,6 @@ fraternity; *buddhikaram* = endowment of intelligence; *shubham cha* = welfare;
 
 This narrative is to be listened invariably by good people, seeking for wisdom,
 longevity, health, fame, fraternity, intelligence, welfare and brilliance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

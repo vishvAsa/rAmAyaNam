@@ -17,8 +17,6 @@ can leap across a vast sea, as well as her appeal to Rama to destroy Ravana alon
 in Lanka and take her back to Ayodhya. Hanuma further informs Rama, how he resolved her doubt by explaining
 the prowess of the troops of monkeys and bears, commanded by Sugreeva as also how he brought solace
 and peace to her from her worries.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ the princess; *uttaram* = about the future.
 "O excellent among men! Having shown respect for me out of her affection and good-heartedness
 for you, I, who was in a haste to go, was spoken to again by Seetha the princess about the further course
 of action."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ in battle; *yathaa tathaa* = and as to how; *maam aapnuyaat* = he can get me bac
 
 "Rama, the son of Dasaratha, is to be informed by you thus in several ways, for quickly
 killing Ravana in battle and also as to how he can get me back."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ samvR^ite deshe* = in a secret place; *gamiSyasi* = you can go; *shvaH* = tomorr
 
 " 'O hero the annihilator of enemies! If you deem it fit, stay for a day in a secret
 place. You can go tomorrow after taking rest'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ presence; *asya mama shoka vipaakasya vimokSaNam* = the termination of my full-f
 
 "'O the valiant one! Because of your presence, the termination of my full-blown grief
 may continue for a while'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ uncertainity; *mama praaNaamapi* = even to my life; *na sandehaH* = there is no 
 
 "'When you, the courageous one, have actually left to come back, there will be a danger
 even to my life. There is no doubt about this'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ _________________
 
 "'The sorrow born of your disappearance will further torment me, who is overtaken by
 one sorrow after another, miserable and doomed to grief as I am'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -374,8 +360,6 @@ haryR^ikSeSu = in the matter of monkeys and bears; *tvatsahayeSu* = who are help
 
 "'O best among the monkeys! O valiant one! In the matter of monkeys and bears who are
 your helpmates, this very grave doubt stands before me'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -391,8 +375,6 @@ two princes; *tariSyanti* = can cross; *duSpaaram* = the insurmountable; *mahoda
 
 "'How indeed can those troops of monkeys and bears or Rama and Lakshmana can cross that
 great insurmountable ocean?'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -442,8 +424,6 @@ _________________
 
 "'Three beings viz. Garuda the eagle, or yourself or the wind-god only have the capacity
 of crossing this ocean'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -495,8 +475,6 @@ evam* = thus?; *tvam* = you; *varaH his* = are indeed excellent; *kaaryavidaam*
 "'O valiant monkey! That is why, what strategy are you visualizing to fulfill this act,
 which is so difficult to accomplish thus? You are indeed excellent of those who know how to accomplish
 any work'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -543,8 +521,6 @@ phalodayaH* = fulfillment of result; *yashasyaH* = is famous.
 
 "O Hanuma the annihilator of hostile enemies! You, as one alone, are capable of fulfilling
 this task. Your act of fulfilling this task your act of fulfilling the result is well-known."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -594,8 +570,6 @@ nayet* = takes; *maam* = me; *svaam puriim* = to his city.
 
 ""It would result in his glory, if Rama, after killing Ravana along with his entire army,
 takes me to his city in his victory'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -642,8 +616,6 @@ aham* = I; *hR^itaa* = was taken away; *vanaat* = from the forest; *rakSasaa*
 
 "'Rama ought not to take me back for fear that Ravana, in the same manner as Ravana the
 demon took me away from the forest in the absence of Rama by cheating that heroic Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -693,8 +665,6 @@ filled; *sharaiH* = with arrows; *maam nayet* = takes me home; *tat* = that;
 
 If Rama, the destroyer of rival army, fills the entire Lanka with arrows and takes me
 home, it will be quite worthy of him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -741,8 +711,6 @@ Rama; *aahava shuurasya* = valiant in battle; *bhavet* = may exhibit; *vikraanta
 
 "For that reason, you act in such a way, that the high-souled Rama, valiant in battle,
 exhibits the prowess befitting of him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -793,8 +761,6 @@ _________________
 
 "Hearing that appeal (of Seetha), that was somewhat good in its meaning, courteous and
 duly furnished with reasons, I gave then my remaining reply (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -844,8 +810,6 @@ strength; *kR^ita nishchayaH* = is firmly determined; *tva arthe* = in your caus
 
 "'O Seetha the princess! Sugreeva, the lord of the troops of monkeys and bears, excellent
 among the monkeys and endowed with strength, is firmly determined to rescue you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -919,8 +883,6 @@ indolent; *mahatsu karmasu* = (to perform) great tasks.
 to any place as they wish, are intensely committed to Sugreeva's command. There is no hindrance to their
 movement either in the sky or the ground or in a horizontal region between the sky and the ground. Those
 monkeys with unlimited splendour are not indolent in performing any great task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -969,8 +931,6 @@ of wind; *bhuumiH* = the earth; *pradakSiNii kR^itaa* = was circumambulated.
 
 "Those illustrious monkeys, proud of their strength and following the path of wind, circumambulated
 the entire earth several times."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -1041,8 +1001,6 @@ ones; *na preSyante hi* = are not sent (for errands); *itare* = other; *janaaH*
 "'In them, some of the monkeys are superior to me and some are even equal to me. No one
 in the vicinity of Sugreeva is inferior to me. When I have arrived here, why to talk about those mighty
 ones? Generally, superior ones are not sent for errands. Only others are indeed sent'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -1092,8 +1050,6 @@ will reach; *laN^kaam* = Lanka; *eka utpaatena* = by one single leap.
 
 "'O Seetha the princess! Enough of your lamentation. Take away your sorrow. Those leaders
 of monkeys will reach Lanka by one single leap'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -1140,8 +1096,6 @@ of monkeys will reach Lanka by one single leap'."
 
 "Rama and Lakshmana, those two lions among men, also of great strength, ascending on
 my shoulders, can come to you, like the rising sun and the moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -1191,8 +1145,6 @@ dvaaram* = the entrance gate of Lanka; *drakSyasi* = and you will see (them).
 
 "Rama, the annihilator of enemies, similar to a lion, and Lakshmana wielding a bow in
 his hand, will surely approach the entrance-gate of Lanka and you will see them soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -1239,8 +1191,6 @@ simha shaarduula vikramam* = having the prowess of lions and tigers; *vaaraNendr
 
 "'You can see soon those valiant monkeys, with their claws and tusks as weapons, having
 the prowess of lions and tigers and looking like lordly elephants, coming here together'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -1290,8 +1240,6 @@ shail ambudan nikaashaanaam* = like mountains and clouds.
 
 "'You will hear within a short time, the clamour of the excellent of monkeys resonating
 like a mountains and clouds, on the peaks of Mount Malaya in Lanka'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -1338,8 +1286,6 @@ along with you; *kShipram* = soon.
 
 "'You will see Rama, the annihilator of enemies, returning from exile, and getting anointed
 to the crown in Ayodhya, along with you soon'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 </details>
 
@@ -1399,8 +1345,6 @@ peace of mind.
 
 "Thereafter, soothened by me with comforting, well-disposed and agreeable words, Seetha,
 though tormented with thought of your grief, obtained peace of mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

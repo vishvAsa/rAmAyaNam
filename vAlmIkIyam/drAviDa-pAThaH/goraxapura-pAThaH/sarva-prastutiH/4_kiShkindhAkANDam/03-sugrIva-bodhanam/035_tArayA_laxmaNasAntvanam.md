@@ -20,8 +20,6 @@ Tara appeases Lakshmana and reasons with him about the delay, which is held as d
 it is the preparatory time lag. She gives an account o Ravana's forces that cannot be countered without proper
 assistance of Vanara military. She informs Lakshmana that all the Vanara forces are mobilized and they present
 themselves before Rama on this very day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ adhipa nibha aananaa* = stars', lord's [moon,] in shine, faced one; *taaraa abra
 
 Tara with her visage that shines like the Lord of Stars, namely the Moon, then spoke to the son of queen Sumitra,
 namely Lakshmana, who while he is speaking is as though blazing with his own resplendence. [4-35-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ na arhati* = [he] to listen, not, apt - not the right one.
 
 "Let not this king of monkeys be addressed in this way, oh, Lakshmana, and he is not warranted to listen such
 tongue-lashing, especially from your tongue. [4-35-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ duplicitous, also, not.
 
 "Sugreeva is not an unthankful one, oh, brave Lakshmana, a treacherous one - no; a flagitious one - no; an utterer
 of untruth - no; a duplicitous one, no, this king of monkeys is not even that. [4-35-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ favour; *na vismR^itaH api* = not, forgotten - disregarded, also.
 
 "Although he is a monkey this Sugreeva has not dismissed from his mind even the favour Rama has done in his respect,
 oh, valiant Lakshmana, which in combat is impractical for others. [4-35-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ me, also; *praaptavaan* = has obtained - privileged with.
 
 "By the beneficence of Rama, oh, the enemy-scorcher Lakshmana, now Sugreeva is privileged with reputation, everlasting
 kingship of monkeys, more so with Ruma and me as well. [4-35-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ na jaaniite* = not, aware of - not oriented himself.
 
 "Hitherto he has tolerated high anguish and on the attainment of this high comfort of kingship he has not oriented
 himself to the time-oriented actions as with saint Vishvamitra. [4-35-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 
 </details>
@@ -375,8 +361,6 @@ In Bala Kanda the legend of Vishvamitra is there. And there his association with
 the Menaka and Ghritaachi are the same apsara-s. But others say that Ghritaachi is a separate apsara. Vishvamitra
 gives up even his daily routines *sandhya upaasana, nitya karma*, required of a Vedic sage, in all the
 ten years of his association with Ghritaachi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -417,8 +401,6 @@ of.
 
 "When he who is a best one among the time-knowers, that great-resplendent Sage Vishvamitra himself is not privy
 to the occasioned time for a good many years, why talking about a commoner again. [4-35-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -474,8 +456,6 @@ a while. [4-35-9]
 
 The ever-alive bodily appetites common for any living being are four *aahaara, nidraa, maithuna, bhaya*,
 bhaya 'food, sleep, sex, and fear.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -521,8 +501,6 @@ bhaya 'food, sleep, sex, and fear.'
 
 "Without knowing realities, oh, young man Lakshmana, it will be extraneous of you to hastily enter into the control
 of your rancour like a commoner. [4-35-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -572,8 +550,6 @@ of - inconsiderately; *sahasaa roSasya vashyataam* = hurriedly, rancour's, getti
 
 "Men of your kind having conscientiousness, oh, best one among men, do not hurriedly rush in and get clutched
 by their own rancour, unconscionably. [4-35-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -619,8 +595,6 @@ upshot; *mahaan* = great; *ayam samrambhaH tyajyataam* = this, [anger's] clangou
 
 "I beg for your grace, oh, virtue-knower, in the interest of Sugreeva with all my equability, and you may dispel
 this clangour upshot in high dudgeon of yours. [4-35-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -667,8 +641,6 @@ of, if need be; *rumaam* = Ruma; *maam ca* = me, even; *angadam raajyam* = Angad
 
 "In the honour of Rama, Sugreeva will disown his wife Ruma, even me, even Angada, why us, he will disown whole
 kingdom with its riches, food grains, livestock and whatnot, as I can infer. [4-35-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -726,8 +698,6 @@ to his curse Daksha says that the Moon shall wax for fifteen days and wane for t
 Moon shall take holy bath on no-moon day in one of the Holy Rivers, namely River Saraswati, now extinct, at a
 place called Prabhaasa. Then all the twenty-six other stars stopped interfering with the coalescence of Moon with
 Rohini.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -782,8 +752,6 @@ and six hundred; 1,000,000,399,600 plus many more in hundreds and thousands (?) 
 that Lanka is a garrison of warriors, except for some sane citizens like Vibheeshana and his family, Mandodari,
 Sulocana wt al. Apart from them there is an invaluable wealth amassed by Ravana. And there are many sages and
 women that are held captive in that island.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 
 </details>
@@ -830,8 +798,6 @@ abducted; such; *raavaNaH* = Ravana; *hantum* = to kill; *na shakyaH* = not, pra
 
 "Without eliminating those unassailable and guise changing demons, it is impracticable to eliminate him who has
 abducted Maithili, namely Ravana. [4-35-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -892,8 +858,6 @@ method: *na ca shakyaa raNe hantum asahaayena raakshasaaH | raameNa kR^Ira karma
 'Rama cannot kill these many demons without assistance, more so Sugreeva. So Sugreeva summoned all his forces
 to assist him. Sugreeva in turn can assist Rama along with his millions and millions of troops.' This is keeping
 the import of the verse 19 also in view.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -949,8 +913,6 @@ Sugreeva, Vali making fun of Sugreeva might have detailed Ravana's capabilities 
 is a useless fellow, and Ravana has got these many capabilities, then why that helpless Rama shall befriend this
 hopeless Sugreeva? Rama should have sought my help, instead!' This might be the occasion for Vali to give details
 of Ravana's capabilities to Tara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -1003,8 +965,6 @@ Tara's reasoning is logical in calculating that a war is imminent and in the com
 the final output. Then the gist of her dialogue will be 'without attending to these pre-confrontation strategies
 what is the use of Sugreeva's or Hanuma's coming to you and sitting before you two, except to sing *bhajan-s,
 kiirtan-s *'musical exalts and extols.' Thereby Sugreeva has done the need of the hour at the advise of Hanuma.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -1051,8 +1011,6 @@ he is awaiting for them; *na niryaati* = not, out, started - has not come to you
 
 "Determined to achieve the objective of Raghava this king of monkeys Sugreeva has not bestirred himself while
 awaiting the return of those venturesome and very great mighty monkey-warriors who are sent out. [4-35-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -1099,8 +1057,6 @@ aagantavyam* = to day, they have to come.
 
 "According to the well-organised groundwork earlier made by Sugreeva, oh, Saumitri, all of those great-mighty
 monkeys have to arrive here today itself. [4-35-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -1157,8 +1113,6 @@ in; *tvaam upa yaasyanti* = to your, fore, they arrive; *kopam jahi* = anger, re
 "Only today millions and millions of bears and hundredfold millions of baboons, and innumerable monkeys who by
 their own flare are like firebrands will arrive in your fore, oh, Lakshmana, thereby, oh, the enemy-repressor,
 therefore rebut your rage. [4-35-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 </details>
 
@@ -1219,8 +1173,6 @@ instance; *shankitaaH sma* = with premonition, we are.
 "On staring at this angry face of yours, and on gazing at the angrily bloodshot eyes of yours, unsecured is the
 peace to the females of monkeys chief, and with the fear caused at first by Vali's elimination we are all indeed
 premonished about such a happening in respect of Sugreeva too. [4-35-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga35/kishkindhasans35.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

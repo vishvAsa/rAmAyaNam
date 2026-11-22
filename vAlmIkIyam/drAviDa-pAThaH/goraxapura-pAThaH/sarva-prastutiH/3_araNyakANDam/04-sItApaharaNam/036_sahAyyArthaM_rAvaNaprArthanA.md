@@ -20,8 +20,6 @@ golden-deer. If Rama and Lakshmana are distracted from the hermitage, Ravana can
 Seetha. Listening to this Maareecha is struck dead, because he is already struck with the arrow of
 Rama when he was in Tataka forest. As such, Maareecha tries to explain Ravana about Rama's
 quintessence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ ultimate, course, isn't it.
 "Give attention to my words as I speak, oh, sire, Maareecha, I am an anguished one,
 and when I am in such an anguish you are the ultimate course to me, isn't so." Thus Ravana started
 addressing Maareecha. [3-36-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -154,8 +150,6 @@ sister Shuurpanakha, and even the highly fiery demon and devourer of raw-flesh T
 numerous other night-walking demons who are cocksure of hitting their targets have made Janasthaana
 as their residency, and while residing there they put the sages of that great forest that tread a
 righteous path to torture, of course, all this as assigned by me. [3-36-2, 3, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -206,8 +200,6 @@ fourteen, thousand; *[tvam jaaniiSe* = you are, aware of; you are equally aware 
 Janasthaana, who are the followers of the wish of Khara, who are with fiendish exploits, and who
 are the troublemakers to the sages of Dandaka forest or to the intruders therein, aren't you.
 [3-36-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -264,8 +256,6 @@ assaulters, for their part had an encounter with Rama in a combat. [3-36-6, 7a]
 This episode is narrated in chapter 33, i.e., the episode of Akampana, but there
 is a difference in the way of Ravana's narration at this place than the previous one. This is
 another point to discuss whether Akampana's episode is an original work or an interpolation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -318,8 +308,6 @@ sharaiH vyaapaaritam* = bow, with arrows, brought into play.
 
 "With rancour tiding in him, and without making any scathing remark in the least,
 that Rama brought his bow into play with arrows in the van of the combat. [3-36-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -377,8 +365,6 @@ completely wiped out.
 
 "But that foot-soldier, that too, a human, has completely wiped out those
 fourteen-thousand demons with flaring fieriness with his fierce arrows. [3-36-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -394,8 +380,6 @@ forest; *nir bhayaa* = free, from fear - of demons; *kR^itaaH* = is made.
 
 "Khara is hewed down, Duushana is mowed down, and even Trishira is hacked down,
 thereof that Dandaka forest is rendered free from the fear of demons. [3-36-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -438,8 +422,6 @@ slaughterer of my demonic army.
 "He who is put to flight by his infuriated father, and who came to Dandaka forest
 along with his wife, that ignoble Kshatriya is the slaughterer of that demonic army of mine, as his
 lifespan is diminished. [3-36-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -540,8 +522,6 @@ devotee of Rama.
 In anyway, the innuendo incorporated in certain verses has given rise to diverse commentaries, but
 the unity of Ramayana is kept up, either by Shaivaites or Vaishnavaite or other sects of Hindu
 thinking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -563,8 +543,6 @@ Seetha; *vikramya* = holding sway; *janasthaanaat* = from Janasthaana;
 any enmity but just depending upon his own brawn, I would like to inveigle such a man's nymphean
 wife Seetha holding sway on her in Janasthaana, and in that matter I want you to be my aide in
 Dandaka forest. [3-36-12b, 13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -620,8 +598,6 @@ abducting Seetha.
 my associates, I indeed care a damn for all of the gods if they are going to wage a war against me,
 therefore, oh, demon Maareecha, as you are capable of rendering aid you should indeed become my
 aide in this venture. [3-36-14b, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -669,8 +645,6 @@ expert.
 
 "In valour, war and verve there is none similar to you, you are a topmost stalwart
 in trickery, and a matchless expert in illusive-tricks. [3-36-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -718,8 +692,6 @@ karma* = that, deed; *mama vacanaat* = by my, word - as I tell you, detail you;
 
 "I have come nigh of you only for that reason, oh, nightwalker, and listen to that
 deed which you have to do in the course of helping me as I detail you. [3-36-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -766,8 +738,6 @@ Seetha's, before, - in front of, you move.
 
 "On becoming an astounding golden deer with silver dots, you move in front of Seetha
 in the hermitage of that Rama. [3-36-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -817,8 +787,6 @@ lakSmaNam ca* = thus, to husband, to Lakshmana, also; *niH samshayam* = without,
 
 "On seeing you in the shape of a deer, Seetha undoubtedly bids her husband
 forthwith, and even Lakshmana, saying, 'lay hold of it.' [3-36-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -868,8 +836,6 @@ abduct;.
 "Then on the diversion of those two, Rama and Lakshmana, I will comfortably and
 unimpededly abduct Seetha in that lonely place, as planet Rahu abducts the shine of moon.
 [3-36-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -944,8 +910,6 @@ If Ravana temporarily hides Seetha, as Rahu hides the moon, Rama, who metaphors 
 worlds, may be in gloom temporarily. But neither Rahu nor Ravana are illuminated or enlightened with
 the presence of the moonbeams of Seetha, alias Goddess Lakshmi, for they tried to seize that
 all-illuminating Moon/Seetha by force.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -992,8 +956,6 @@ completely, became; *pari trastaH babhuuva ca* = fully, frightened, he became, e
 
 On listening the very word of Rama that honest-souled Maareecha's mouth is
 completely dried up, and he is fully frightened. [3-36-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -1049,8 +1011,6 @@ At the very word 'Rama' Maareecha is shuddered.
 *dashaanana samudiirita vacanam aakarNya raama shabda shravaNa maatreNa sa.mtrasta hR^idayo maariicaH kR^itaanjaliH evam uvaaca - dk* From the time when he was firstly struck by Rama's arrow he retired to hermitage
 and no demonic activity is undertaken by Maareecha. But now Ravana is instigating, which leads
 Maareecha to his own end, of which he is perfectly aware.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 </details>
 
@@ -1107,8 +1067,6 @@ Maareecha's heart sank with scare as he is aware of Rama's valour when he was in
 great forest of Tataka, thus suppliantly making palm-fold he started telling about factuality of
 Rama to Ravana, which is beneficial both to Ravana and to himself, as well, if only Ravana is
 heedful of it. [3-36-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

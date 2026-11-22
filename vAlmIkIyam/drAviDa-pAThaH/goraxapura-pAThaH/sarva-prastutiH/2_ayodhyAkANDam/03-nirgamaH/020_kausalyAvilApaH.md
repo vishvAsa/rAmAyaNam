@@ -15,8 +15,6 @@ title_english = "020 Kausalya s grief"
 
 Rama approaches his mother Kausalya to inform her of the calamity. Kausalya on
 hearing the news, faints. On recovering, she laments in the most grevious tones to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ after offering salutation; *sriiNaam* = among women; *antaHpura* = in the palace
 
 While Rama, the best of men was leaving, after offering salutation to his father,
 women in the palace were weaping loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ purasya* = palace; *saH raamaH* = such Rama; *pravatsyati* = is going to exile;
 
 Which Rama, without being told by his father, used to do necessary activities and
 protect the entire palace, is about to go to exile now".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ us; *yathaa* = as how; *yuktaH* = attentive; *sadaa* = always;
 
 "Rama, since he was born, was showing the same attention to us, as he was showing to
 his mother Kausalya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ from here.
 
 "He used to avoid actions which created anger and soothed all those who were angry.
 Rama was not furious with those who abused him. Such Rama is going today to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -261,8 +251,6 @@ abuddhiH = who is stupid; *charati* = is offending jiivalokam = all beings."
 
 "Our stupid king by abandoning Rama who was helpful to all beings , is offending all
 the beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -313,8 +301,6 @@ aachukrushushcha eva = also abused patim = husband.
 
 Thus, all the king consorts while weaping loudly, as cows which lost their Calves,
 abused their husband .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ for his son.
 
 After hearing the terrific distressful crying sounds in the palace, Dasaratha clung
 to the seat, with extreme anguish for his son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -413,8 +397,6 @@ brother.
 
 Rama, who was greatly hurt, sighed like an elephant, subdued his senses and went to
 his mother's palace along with Lakshmana
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -462,8 +444,6 @@ many aparaamshcha = others tishTataH = standing tatra = there.
 
 Rama saw a much worshipped old man sitting at the gateway of the house and many
 other standing there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -515,8 +495,6 @@ triumphant man.
 
 After seeing Rama, all of them rose quickly and greeted Rama the most triumphant
 man, by uttering the words "May you have increased success!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -565,8 +543,6 @@ raaGyaa = by king.
 
 Rama crossed the first gate and saw old Brahmanas who were perfect in Vedas and duly
 honoured by the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -618,8 +594,6 @@ enclosure.
 
 Rama offered salutation to those brahmanas and saw old women and girls, guarding the
 gate in the third enclosure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -668,8 +642,6 @@ Kausalya; *the mother of Rama priyam* = the pleasing news.
 
 Then those women, having been delighted, greeted Rama with good word of success,
 quickly entered the house and informed Kausalya about the lovely arrival of Rama .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -718,8 +690,6 @@ son.
 
 At that time, Kausalya having spent the whole night with steadfastness, who
 performing worship to Vishnu,at dawn, for the welfare of her son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -773,8 +743,6 @@ hymns.
 Kausalya, who was interested to practise religious vows regularly was appearing
 auspiciously by wearing a white silk sari and gladly performing sacrificial ceremony in a sacred
 fire, by reciting vedic hymns.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -822,8 +790,6 @@ haavayantiim = performing sacrificial ceremony hutaashanam = in sacred fire tatr
 
 Then Rama entered the auspicious mother's apartment and saw his mother performing
 sacrificial ceremony in sacred fire there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -885,8 +851,6 @@ There, Rama saw the articles of worship kept ready for the purpose of the sacred
 ceremony like curd, unbroken rice, clarified butter, sweet meats, things fit for oblation, fried
 grain, garlands made of white flowers, rice boiled in milk, mixture of rice and peas with a few
 spices, sacrificial sticks, vessels full of water etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -935,8 +899,6 @@ water.
 
 Kausalya, who became lean because of observance of vows, was shining like an angel
 with her white silk sari and was satiating gods by presenting to them libations by water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -986,8 +948,6 @@ came chirasya = after a long time; *maatR^i nandanam* = who gave delight to his 
 By seeing her son who came after a long time and who gave delight to mother,
 Kausalya was pleased and approached towards him, like a female horse approaching her young
 colt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1035,8 +995,6 @@ baahubhyaam = by her arms; *upaaghraatashcha* = was smelt muurdhani = in his hea
 
 Rama offered salutation to the approaching mother by touching her feet. Then, she
 took him into her arms and smelt his head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1084,8 +1042,6 @@ sutam = son tam raaghavam = that Rama duraadharshham = who was unassailable
 
 Kausalya spoke these pleasing words affectionately to her son Rama, who was
 unassailable by enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1134,8 +1090,6 @@ glory; *dharmamcha* = and duty upahitam = engrained kule = in your race;
 
 "Obtain long life and glory, as obtained by the aged , the virtuous, the great
 souled and the royal sages .Protect the righteousness engrained in your race"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1187,8 +1141,6 @@ youvaraajye = as successor to kingdom.
 
 "Oh,Rama ! King Dasaratha ,your father is a man of true promise. Today itself, you
 will be installed as successor to the kingdom by your virtuous father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1236,8 +1188,6 @@ kinchit = slightly aNjalim = joined palms; *abraviit* = spoke maataram = to moth
 
 Kausalya asked Rama to take food , but Rama just touched the seat offered by her and
 after performing salutation to her, spoke thus to his mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1287,8 +1237,6 @@ being humble in nature; *nataHcha* = and modest gouravaat = due to respect for m
 That Rama , being humble in nature , became still modest due to respect for his
 mother and was set about to ask her permission before setting forth his journey to Dandaka
 forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1337,8 +1285,6 @@ Lakshmana.
 
 "Oh,mother! You do not know that a great dismay is approaching now. It brings grief
 to you, to Sita and to Lakshmana"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1380,8 +1326,6 @@ appeared; *visTaraasanayogyaH* = which is fit for a seat made of kusa grass.
 
 "I am going to Dandaka forest. Why this seat for me? Time has come for me to sit on
 a seat made of Kusha grass."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1432,8 +1376,6 @@ aamishham = meat; *jiivan* = living madhu muulaphalaiH = with honey; roots and f
 
 "I shall live in a solitary forest like a sage for fourteen years, leaving off meat
 and living with roots, fruits and honey".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1481,8 +1423,6 @@ to Bharata youvaraajyam = the succession to kingdom. maam punaH = To me; however
 
 "The great king is giving to Bharata the succession to kingdom and to me, however,
 he is making me a sage to stay in the forest of Dandaka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1534,8 +1474,6 @@ for fourteen varshhaaNi = years.
 
 "I have to satisfy with the things existing in the forest and subsist with roots and
 fruits in a solitary forest for fourteen years."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1583,8 +1521,6 @@ vane = in the forest; *devatena* = as angel chyutaa = dropping down divaH = from
 
 The queen Kausalya fell on the floor all at once like the branch of a tree, cut down
 by an axe and as an angel dropping down from heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1633,8 +1569,6 @@ a plantain tree.
 
 Seeing Kausalya who was fit to be free from sorrow, Rama lifted up her, who had
 fallen unconsciously on the floor like a plantain tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1684,8 +1618,6 @@ powder badamaamiva = like a female horse; *vaahitaam* = made to be carried of lo
 Rama touched with his hand that miserable Kausalya,whose limbs were covered with
 fragrant powder and who rose like a loaded horse from the floor on which it rolled from side to
 side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1735,8 +1667,6 @@ while Lakshmana upashR^iNvati = was hearing.
 
 Kausalya, who was fit for happiness but was afflicted with grief, spoke thus to Rama
 the best of men who was sitting nearby, while Lakshmana was hearing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1784,8 +1714,6 @@ bhuuyaH = greater duHkham = grief ataH = than this aprajaaH = without progeny.
 
 "Oh, Rama! I would not have felt this much grief if I were childless .You are born
 only to produce sorrow to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1833,8 +1761,6 @@ grief maanasaH = relating to mind iti = that asmi aprajaaH "I have no children"
 
 "Oh, son! There is no other grief to a barren woman except the only worry that "I
 have no sons".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1883,8 +1809,6 @@ manliness. asthitam = It was believed mayaa = by me iti = that api pashyeyam = c
 
 "Oh, Rama! I have not seen any happiness or prosperity earlier, while my husband is
 in power. I believed that I could see them at last when my son comes to power."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1931,8 +1855,6 @@ words sapatniinaam = of fellow wives; *avaraaNaam* = who are inferior to me;
 
 "I have to hear so many disagreeable words from my fellow-wives who are inferior to
 me and who pierce my heart with their words though I am a better and virtuous wife among them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -1978,8 +1900,6 @@ vilaapashcha = and dissolving shokaH = grief mama = to me
 
 "Which one will be more sorrowful to women than this unending and consuming grief
 that occurred to me now?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2026,8 +1946,6 @@ dhR^ivam is certain me = to me
 
 "Even when you are near by, I am being rejected. What to tell after you leave for
 exile? Death indeed is certain to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2073,8 +1991,6 @@ athavaa = or avaraa = lower than parivaareNa = servants kaikeyyaaH = of Kaikeyi
 
 "My husband always held me down, without giving me any independence and treat me
 equal to or even lower than the servants of Kaikeyi"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2120,8 +2036,6 @@ speak anviikshhya = after seeing kaikeyyaaH = Kaikeyi's putram = son
 
 Those who serve me now and those who follow me, will not speak to me, after seeing
 Bharata".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2162,8 +2076,6 @@ continuous anger
 
 Oh, son! How can I, the miserable one, see the face of Kaikeyi who talks hurtingly
 because of her continuous anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2223,8 +2135,6 @@ troubles
 
 "Oh,Rama! I have been waiting for seventeen years after your second birth of thread
 ceremony, with the hope that my troubles will disappear at one time or the other."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2271,8 +2181,6 @@ great du Hkham = sorrow chiram = for long time
 
 Oh, Rama! In this old age, I cannot bear insult from co-wives and this unending
 sorrow for a long time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2319,8 +2227,6 @@ moon
 
 "How can I the pitiable one, spend this miserable life without seeing your face
 radiating like full moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2368,8 +2274,6 @@ by me durgatayaa = the unfortunate one; *upavaasaishcha* = and painful voes.
 
 "You were nourished in vain by me ,the important one by fasts, by meditations, by
 various difficult and painful vows ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2416,8 +2320,6 @@ I think it sthhiram = as strong.
 
 "My heart is not breached, as bank of a great river, struck by new water in monsoon,
 by hearing this news.That is why, I feel it is strong."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2471,8 +2373,6 @@ wishing to carry off maam = me adyaiva = now itself prasahya = forcibly.
 "There is no death to me, indeed .I have no place in the abode of god yama who
 presides over the spirits of the dead .That is why, Yama is not forcingly carrying me off like a
 lion carrying off a wailing antelope."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2527,8 +2427,6 @@ dhR^ivam = It is certain.
 "This grief is inserted into my body. Even then, my heart is stable. It has not
 broken into pieces and fallen on the floor .It is indeed made of iron. There is no untimely death,
 it is certain"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2583,8 +2481,6 @@ saline soil.
 "I feel bad since all my religious vows, charities, restraints have all gone
 waste.The austerity I performed for the sake of of -spring has gone in vain, as a seed sown in a
 saline soil."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2643,8 +2539,6 @@ itself tvayaa vinaa = without you dhenuriva = like cow aatmajenavina = without c
 "If a man in great distress can get premature death out of his own will, I being
 separated from you ,would have attain the glory of the dead now itself like cow without the
 calf."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2699,8 +2593,6 @@ completely weak cow gouH = cow anukaaNkshhayaa = with compassion
 "Moreover, what is the use of life? Oh, Rama! With your brilliant face shining like
 moon! My life is useless without you. I shall accompany you to the forest like a weak cow going
 behind it's calf"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 </details>
 
@@ -2759,8 +2651,6 @@ woman.
 
 Then, that Kausalya looked at Rama to whom a great calamity has occurred, saw her
 son bound by grief and lamented very much in various ways like a kinnara woman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga20/ayodhyasans20.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -20,8 +20,6 @@ them from the top of Suvela mountain. Some of the monkeys, thrilling with raptur
 gardens and enjoy their beauty of flowers and birds. Some others went towards Lanka; located on the
 apex of Trikuta mountain. They see the city with its large mansions and seven storied buildings,
 including the thousand-pillared mansion of Ravana with a height almost touching the skies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ the gardens andgroves; *laN^kaayaam* = in Lanka
 
 The valiant army-chiefs of monkeys stayed on Suvela mountain for that night and saw
 the garden and groves in Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ astonished.
 
 Seeing those gardens which were levelled, beautiful, spacious, majestic and
 enchanting to look at, they became astonished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -217,8 +211,6 @@ sides like the city of Amaravati reigned by Indra the god of celestials, with gr
 variegated avenues and with beautiful trees of various kinds like Hintala, Arjuna, Nipa Saptaparna
 in full flowering, Tilaka, Karnikara and Patal whose crests were laden with flowers and which were
 intertwined with climbers laden with multi-coloured flowers and red tender leaves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -265,8 +257,6 @@ iva* = as human beings; *bhuuSaNaani* = the ornaments;
 
 The trees there were laden with fragrant and greatly enchanting flowers and fruits,
 as human beings were laden with ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -315,8 +305,6 @@ Indra the Lord of celestials)
 That garden, which bore flowers and fruits in relation to all seasons and with full
 of bees, like chaitraratha (garden of Kubera, the god of riches), was quite charming, like Nandana
 (garden of Indra the Lord of celestials)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -363,8 +351,6 @@ of bees, like chaitraratha (garden of Kubera, the god of riches), was quite char
 
 In that garden abounding in cascades, the songs of birds like gallinules,
 lapwings(small white cranes), dancing peacocks and cuckoos were heard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -456,8 +442,6 @@ Then, those monkeys, thrilling with rapture, delighted, brave and assuming any s
 at will, entered the aforesaid groves and gardens, with birds ever excited with joy, wandered by
 bees, with clusters of trees occupied by cuckoos, having variegated sounds of birds and song of the
 large bees, abounding with sounds of ospreys, with the music of wagtails and cries of canes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -473,8 +457,6 @@ with flowers; *ghraaNasukhaH* = delightful to the nose; *vavau* = blew.
 
 While those mighty and splendid monkeys were entering the groves a breeze with
 flowery fragrance, delightful to the nose, blew.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -522,8 +504,6 @@ flags.
 
 Some other troop-leaders of the valiant monkeys came out of their troops with due
 permission from sugreeva and went towards Lanka, the city adorned with flags
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -571,8 +551,6 @@ sounds.
 
 Those monkeys, great in making noises causing the birds to frighten and displeasing
 to the animals and elephants, went, causing that Lanka to tremble, by their noises.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -622,8 +600,6 @@ their feet; *rajashcha* = and the dust; *charaNotthitam* = raised by their feet;
 
 Those monkeys with great speed marched ahead, making the earth flattened by their
 feet and the dust thus raised by their feet went up instant aneously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -674,8 +650,6 @@ toward; *dasha dishaH* = ten directions.
 
 Frightened by that sound, bears lions buffaloes elephants, deers and birds were
 trembled and terrified and hastened towards ten different directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -756,8 +730,6 @@ The solitary peak of Trikuta mountain, which is so high as if touching the sky, 
 over covered with flowers entirely, resembling gold; to an extent of eight hundred miles; bright;
 charming to look at, beautiful, glorious, majestic, inaccessible even by birds, hard to be ascended
 by people may, even by the mind-how much more by an act of walking?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -813,8 +785,6 @@ The length and breadth of the city given here varies from that given elsewhere -
 which is a hundred Yojanas wide and thirty yojanas long. This anomaly is reconciled by commentators
 by explaining the present verse as referring to the length and breadth of Lanka proper, which
 comprised the residence of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -864,8 +834,6 @@ samnibhaiH* = resembling white clouds; *kaaNchanena* = and with golden;
 
 The city of Lanka looked beautiful with its towering City-gates resembling white
 clouds as well as with golden and silver ramparts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 </details>
@@ -915,8 +883,6 @@ between (earth and heaven)
 The city of Lanka, greatly adorned by palaces and seven storied mansions, looked
 like the sky with clouds at the end of a summer and as a region of Vishnu (the god of preservation)
 between earth and heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -988,8 +954,6 @@ A palace, duly graced with a thousand pillars, which looked like a peak of Mount
 Kailasa was three in the City of Lanka, which was always the City of Lanka, which was always
 protected by a complete army of demons. The palace seemed to be scraping the skies and was to be
 seen as an ornament to the City of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -1096,8 +1060,6 @@ charming golden city of Ravana, graced with mountains picturesque with various m
 with gardens reechoing with songs of birds of every kind, frequented by varieties of deer, richly
 endowed with various kinds of flowers, inhabited by demons of every degree and duly flourishing,
 having increased its wealth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 </details>
 
@@ -1148,8 +1110,6 @@ crammed with huge palaces; *lakSmaNa puurvajaH* = Rama; the elder brother of Lak
 
 Beholding that City, which looks like heaven and crammed with huge palaces, the
 valiant Rama the elder brother of Lakshmana was seized with astonishment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

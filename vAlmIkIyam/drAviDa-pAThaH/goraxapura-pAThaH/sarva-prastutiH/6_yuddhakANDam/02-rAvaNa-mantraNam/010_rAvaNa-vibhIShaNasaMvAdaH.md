@@ -16,8 +16,6 @@ title_english = "010 Vibhishana advises Ravana to restore Seetha to Rama"
 Vibhishana, the half-brother of Ravana, lists out bad omens occurring in the city
 and in the gynaeceum and advises Ravana to restore Seetha to Rama as an atonement t these evil
 forces. Ravana turns a deaf ear to Vibhishana's counsel and sends him away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -98,8 +96,6 @@ dharmaartha nishcayaH* = who arrived at a settlement about virtue; pleasure and 
 
 Vibhishana, who always arrived at a settlement in matters of virtue, pleasure and
 wealth and who was terrible in his act, on arrival of the dawn, entered the palace of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -115,8 +111,6 @@ demons; *aapta paryaaptaiH* = who were trust-worthy and efficient.
 
 It was inhabited by prime ministers, who were intelligent and beloved. It was
 guarded on all sides by demons, who were trust worthy and efficient.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -133,8 +127,6 @@ made to resound; by a set of musical instruments.
 The air was filled with the sighing breaths of elephants in rut, with tumultuous
 noise produced by the blowing of conches and made to resound by an ensemble of musical
 instruments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -151,8 +143,6 @@ decorations.
 The palace was filled with a number of women-folk. It was having principal passages
 in which spoken words were heard. It was having turrets made of pure gold and adorned with
 excellent decors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -173,8 +163,6 @@ sambaadhaam* = filled with a collection of jewels; *bhavanam iva* = resembling a
 
 The palace was like an abode of Gandharvas (celestial musicians) and of Maruts
 (strom-gods) filled with a collection of jewels resembling a house of Nagas (serpent-gods).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -190,8 +178,6 @@ Sun; *tejovistR^ita rashmimaan* = with rays outstretched with splendour.
 
 The valiant Vibhishana with great splendour entered that mansion of his elder
 brother, Ravana, like the sun with rays outstretched with splendour entering a big cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -240,8 +226,6 @@ brother.
 Vibhishana with great radiance, heard the auspicious sounds of felicitous recital of
 prayers uttered by the knowers of Vedas (scriptural texts), wishing for the victory of his
 brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -290,8 +274,6 @@ brother.
 Vibhishana of great strength, saw Brahmins who know Mantras (sacred texts) and
 Brahmanas, respected and offered with pots filled of curd, clarified butter as well as with flowers
 and unbroken rice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -343,8 +325,6 @@ shining; *svategasaa* = by his own splendour; *vavande* = offered salutation;
 The mighty armed Vibhishana, being adored by the deomons and shining by his own
 splendour, offered salutation to Ravana the younger brother of Kubera (the lord of riches), who
 occupied the throne.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -385,8 +365,6 @@ formalities; *saH* = Vibhishana; *aachara kovidaH* = who knew the code of conduc
 
 Practicing customary formalities, Vibhishana who knew the code of conduct, obtained
 a seat adorned with gold, as endowed to him by a glance of the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -436,8 +414,6 @@ Ravana; *mahaatmaanam* = the powerful; *vachanam* = the words; *hetunishcitam*
 
 In the presence of ministers and in privation, Vibhishana spoke to powerful Ravana
 the words convinced of reason and which were very much beneficial.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -455,8 +431,6 @@ consonance with place; time and purpose.
 Vibhishana, who could discriminate between good and evil things in the world, having
 sought the favour from his eldest (half-) brother by means of soothing words arranged in an order,
 spoke in consonance with place, time and purpose.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -503,8 +477,6 @@ omnes; *dR^ishyante* = are being seen; *naH* = by us.
 
 "O, annihilator of enemies! We are seeing inauspicious omens, since Seetha arrived
 here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -556,8 +528,6 @@ rising sparks; *sadhuumaarahiH* = with flames containing smoke; *sadhuumakaluSod
 "Even if the sacrificial fire is fed with oblations while uttering a proper set of
 Mantras (Spiritual texts), the fire is not flaring up well, emitting sparks, its flames are
 enveloped in smoke and are coming forth, polluted with soot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -609,8 +579,6 @@ seen); *havyeSu* = in things to be offered as oblations.
 "Serpents are seen at the corner of the sacrificial post which is nearest the fire,
 also in houses keeping sacrificial fire and in places where sacred studies are made. Ants are seen
 in things to be offered as oblations."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -660,8 +628,6 @@ rut; *ashraaH* = horses; *praheSante* = are neighing; *diinam* = miserably;
 
 "Cow's milk is getting curdled. Excellent elephants are bereft of rut. Horses are
 neighing miserably and are not rejoiced in eating grass."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -708,8 +674,6 @@ avatiSThante* = do not stand; *svabhaave* = to their nature.
 
 "O, king! Donkeys, camels and mules shed tears, losing their hair and even if
 treated asper medical procedures are not getting cured."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -759,8 +723,6 @@ assembled together; *vimanaagreSu* = on house-tops.
 
 "Crows in flocks are crying cruelly from all sides and are seen in crowds assembled
 together on house-tops."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -804,8 +766,6 @@ approach; *dve sandhye* = of both dawn and dusk.
 
 "Vultures fly to and fro in circles over the city. Jackals are crying inauspiciously
 at the approach of both dawn and the dusk."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -852,8 +812,6 @@ niHsvanaaH* = with thundering noise.
 
 "At city-gates are heard loud cries of carnivorous animals gathered in groups, with
 thundering noise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -904,8 +862,6 @@ away; *raaghavaaya* = to Rama.
 
 "O, brave man! Hence, when the actions of evil forces are happening in this way,
 this atonement is appropriate that Seetha be given away to Rama and I like it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -955,8 +911,6 @@ or greed; *tatraapi* = in that case also; *naarhasi* = you ought not; *kartum*
 
 "O, emperor! If I am speaking this because of infatuation or greed, in that case
 also, you ought not to find fault with me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -1003,8 +957,6 @@ lady-demons; *purasya* = of the city; *antaHpuraasya* = and of the gynaeceum;
 
 "These bad omens are being seen indeed by demons and lady-demons of the city and of
 the gynaeceum as well as all these people here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -1057,8 +1009,6 @@ occasion.
 "All your ministers have abstained to pass this counsel to you. Whatever is seen or
 heard, it is to be told certainly by me. Hence, you ought to do according to a justification of
 things for the occasion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1103,8 +1053,6 @@ brother
 
 Vibhishana, the half- bother spoke these beneficial words to Ravana, the best among
 demons in the midst of his half-brother's ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1169,8 +1117,6 @@ suitable for the past future and the present times; *upasthitajvaraH* = got enra
 Ravana, who had evil inclination, heard those words, which were beneficial very
 well-meant, soft, conformable to reason and suitable for the past future and present times, got
 enraged and uttered this reply.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1193,8 +1139,6 @@ Indra; *surairapi* = together with celestials also?
 
 "I do not see any fear from whom so ever. Rama cannot obtain Seetha by any means.
 How Rama even along with Indra and the celestials can stand before me in battle?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 </details>
 
@@ -1243,8 +1187,6 @@ Vibhishana; *aaptavaadinam* = who spoke honestly.
 
 Ravana, who annihilated the army of celestials and who was very powerful with an
 impetuous valour, thus spoke and then sent away Vibhishana, who had spoken honestly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1265,8 +1207,6 @@ occupied by eminent men.
 
 Ravana's palace was looking like a mass of rocks, elevated like a mountain-peak,
 well-divided into spacious apartments and occupied by eminent men.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

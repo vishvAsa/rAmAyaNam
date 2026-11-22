@@ -58,8 +58,6 @@ title_english = "009 Legend of Sage Rishyasringa"
 Sumantra, the charioteer and one of the misters of King Dasharatha, having heard all about
 the king's desire to perform a Vedic ritual, said this in confidence to king, "oh, king, I
 will tell an early legend, an early legendary narration that I listened... [1-9-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -105,8 +103,6 @@ me.
 "Oh, king, I have earlier heard of this present advice given to you by Vedic scholars, as
 godly Sage Sanatkumara has once narrated an account about the arrival of your sons in the
 presence of other sages, and sage Sanat Kumara said... [1-9-2, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -167,8 +163,6 @@ he is born with a horn on the crown of his head. Thus he is named as Rishyasring
 R^iSi the Sage; *shR^i~Nga* horn; a Sage with a horn on his forehead at his birth time.
 This being the mythological import, he is an acme among sages, as *shR^i~Nga* also
 means a peak.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -232,8 +226,6 @@ eclipses, and other astronomical occurrences and some more. This kind of self-im
 is one way of observing sustained family planning methods, instead of resorting to medicaments.
 Here, this word is more nearer to mean 'hindrance', than to mean the 'two way celibacy' as
 deciphered by some commentators.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -273,8 +265,6 @@ cha kathitam sadaa* = by Brahmans, praised, always; *tasya evam vartamaanasya*
 
 "In the world he becomes famous for his celibacy, oh king, and he will always be praised by
 Brahmans, and thus time will pass on with that kind of his conduct. [1-9-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -330,8 +320,6 @@ one; *raajaa* = king; *romapaadaH* = Romapaada; *angeShu* = in Anga kingdom;
 Sage Rishyasringa looses no time with his servitor-ship to the Sacrificial Fire and also to
 his celebrated father, and during this period alone there will be a famed and very strong
 king Romapaada, a valiant in Anga country... [1-9-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -347,8 +335,6 @@ king Romapaada, a valiant in Anga country... [1-9-7, 8a]
 
 "But by a violation of righteousness of that king there will be a shocking and devastating
 famine in that country...[1-9-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -407,8 +393,6 @@ versed ones[learned, scholars]; *samaaniiya* = on summoning; *pravakShyati*
 
 "While the famine is besetting that king Roamapada will be afflicted with grim, and on summoning
 Brahmans and learned scholars he will address them... [1-9-9b. 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -424,8 +408,6 @@ Brahmans and learned scholars he will address them... [1-9-9b. 10a]
 
 "All of you are well versed in rituals and knowers of the world history... order me how to
 how the purification from sin will be... [1-9-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -503,8 +485,6 @@ will say; *raajan* = oh king; *vibhaaNDakasutam* = Sage Vibhandaka's son;
 "Thus said by king those scholarly Brahmans and Vedic scholars will say to the king, 'oh,
 king, son of Sage Vibhaandaka, namely Rishyasringa, is to be fetched by all methods... [1-9-11b,
 12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -522,8 +502,6 @@ you give [in marriage.]
 "Oh! King, having brought Sage Rishyasringa and honouring him well with good care, procedurally
 give him your daughter Shanta in marriage to that Vedic Brahman and the son of Sage Vibhaandaka...
 [1-9-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -568,8 +546,6 @@ be fetched.
 
 "On listening them the king becomes thoughtful about the idea by which it is possible to bring
 that self-controlled sage to his place... [1-9-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -610,8 +586,6 @@ intelligence; *purohitam* = clergymen; *amaatyaan cha* = ministers, also;
 
 "Then that intellectual king decides along with ministers, to dispatch clergymen and ministers,
 honouring them well, and then sends them... [1-9-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -652,8 +626,6 @@ honouring them well, and then sends them... [1-9-15]
 
 "They on hearing king's words are awestruck and lowering their faces they will say, 'we can
 not go there as we are afraid of sage Vibhandaka, father of Rishyasringa...' [1-9-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -701,8 +673,6 @@ aaneShyaamaH* = we will fetch that Brahman, Rishyasringa,; *na cha doShaH bhaviS
 "After thinking over they will say as a second thought, and having found a solution with a
 plan to bring that sage, 'we will fetch that Brahman and also by that no stigma will occur...'
 [1-9-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -744,8 +714,6 @@ will be] brought; *[then] devaH avarSayat* = god[Rain-god] will shower rains;
 "Thus by the king of Anga kingdom and by his courtesans the son of sage Rishyasringa will
 be brought and the presiding deity for rains will shower rains, and Shanta will also be given
 in marriage to that sage...' [1-9-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -798,8 +766,6 @@ his narration in confidence to King Dasharatha.] [1-9-19]
 Sage Rishyasringa is also a son-in-law to King Dasharatha. Princess Shanta, in a distant relationship
 is a daughter to King Dasharatha in relation and the adopted daughter of Romapaada, the King
 of Anga. Thus Sumantra's saying son-in-law also means Dasharatha's son-in-law, besides Romapada's.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 </details>
 
@@ -848,8 +814,6 @@ how, Rishyasringa, brought [to Anga Kingdom]; *vistareNa tathaa ucyataam* = shal
 
 Then King Dasharatha is delighted and in turn spoke to Sumantra "By what idea Rishyasringa
 is brought to Anga kingdom, that shall be said elaborately..." [1-9-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

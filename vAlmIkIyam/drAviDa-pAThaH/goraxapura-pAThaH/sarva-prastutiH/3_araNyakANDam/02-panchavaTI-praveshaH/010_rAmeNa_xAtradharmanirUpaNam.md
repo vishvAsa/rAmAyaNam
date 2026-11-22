@@ -16,8 +16,6 @@ title_english = "010 Sri Rama s reply to Seetha"
 Rama replies Seetha's enquiry as to why he should wage war to eliminate the demons. He says
  that it is only to protect the land from the atrocities of demons, and for safeguarding
  the decrepit sages under his scheme of protecting the helpless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ Janaki.
 
 On hearing all of the words said by Vaidehi, in adoration of her husband, he who abides by virtue alone
 that Rama replied Janaki. [4-10-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ is said.
 
 "You have said beneficial, friendlily words that are seemlier to your disposition, oh, lady, which
 are apt to speak of your familial brought up, for you are the daughter of virtue-knowing Janaka. [4-10-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ vacaH tvayaa eva uktam* = this, word, by you, alone [perhaps,] said [iterated.]
 
 "What more shall I say, oh, lady, since it is said that 'a warrior handles a bow so that misery's tears
 cease to flow...' and this saying is iterated even by you... [4-10-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ gone in [came into.]
 
 "Oh! Seetha, those shleterable sages of Dandaka forest have approached me sombrely on their own, and
 thus they came into my refuge... [4-10-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ invidious, deeds, by demons, scared; *sukham na labhante* = quietude, not gettin
 
 "Subsisting on fruits and tubers, living at all the time in forests those sages are not getting quietude,
 as they are scared by the demons with invidious deeds... [4-10-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ us] come to rescue; *iti* = thus as; *maam uucur* = to me, said.
 "The sages dwelling in Dandaka forest are being eaten away by fiendish demons that subsist on human
 flesh, and while being eaten away like that those eminent Brahmans have said to me, "please come to
 our rescue..." [4-10-6,7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -393,8 +379,6 @@ hi* = this, for me, immense, shame/dishonour, indeed.
 "Be gracious to me... you all... by which reason I am being addressed this way by this kind of eminent
 Brahmans, whom I should have actually addressed my self, this indeed is a dishonour for me... [4-10-7b,
 8, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -409,8 +393,6 @@ Brahmans, whom I should have actually addressed my self, this indeed is a dishon
 
 "Then I said before the Brahmans, "what shall I do?" All of them thus thronged and spoke this word.
 [4-10-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -458,8 +440,6 @@ we are; *bhavaan tatra rakshatu naH* = you, us, there in that, context protect, 
 
 "Many of the guise changing demons are outrightly torturing us in Dandaka forest, hence in that context
 you shall protect us... [4-10-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -506,8 +486,6 @@ tu* = at oblation, times, but; *parva kaaleSu ca* = on propitious, times, also; 
 
 "Those resistless carnivorous demons, oh, merited Rama, will descend exactly at the time of fire oblations,
 or on propitious times like full or new moons to persecute us... [4-10-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -554,8 +532,6 @@ on you.]
 
 "We the ascetics being assaulted thus are aggrieved, and when we searched for a recourse you chanced
 as our ultimate course... [4-10-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ tapaH* = for a long time, earned, ascesis [ the effect of]; *na ca icChaamaH kha
 
 "We by the efficacy of our ascesis are surely capable to eradicate those demons, but we do not wish
 to shorten the effect of our long earned merit of ascesis... [4-10-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -625,8 +599,6 @@ not, issued.
 
 "Many hurdles are always there in our practice of ascesis, and even the ascesis have become impracticable,
 oh, Raghava, thus though being eaten away by the demons we are not issuing any curse... [4-10-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -677,8 +649,6 @@ we have you isn't it.
 "Thereby, you along with your brother protect us that are being persecuted by the demons dwelling in
 Dandaka forest as you alone are the protector of ours in these forests...'so said sages to me... [4-10-15b,
 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -728,8 +698,6 @@ to sages; *kaartsnyena paripaalanam samshrutam* = complete, protection, promised
 
 "On hearing all those words, oh, Seetha, I promised complete protection to the sages of Dandaka forests...
 [4-10-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -777,8 +745,6 @@ isn't it.
 
 "Having promised to the sages it is incapable of me to implement it otherwise while I am alive... truth
 is dearer to me, isn't it... [4-10-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -826,8 +792,6 @@ is dearer to me, isn't it... [4-10-17b, 18a]
 
 "I may forfeit my life, forgo Lakshmana, or even forsake you but not a promise, that too especially
 made to Brahmans, and having promised I can never go back... [4-10-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -874,8 +838,6 @@ kaaryam* = by me, definitely, to be done; *pratij~naaya katham punaH* = having, 
 
 "By that reason, oh, Seetha, even if I am unasked, safeguarding sages is definitely to be done by me,
 how then it is undone when given a promise... [4-10-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -922,8 +884,6 @@ also; *idam vacaH uktam tvayaa* = this, word, is said, by you; *parituSTaH asmi 
 
 "With your friendship and good-heartedness you say these words, oh, Seetha, I am contended... uninterested
 ones do not forewarn, indeed... [4-10-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -973,8 +933,6 @@ ca* = appropriate, seemly, also; *me sa dharma caariNii* = with me, virtue, wife
 "Appropriate and seemly is your word of caution to your bloodline, oh, graceful Seetha, you are the
 co-pursuer in dharma with me, hence you are loftier to me than my own lives..." So said Rama to Seetha.
 [4-10-21b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 </details>
 
@@ -1027,8 +985,6 @@ ramyaaNi tapo vanaani jagaama* = to picturesque, hermits, woodlands, went to.
 
 That exalted soul Rama on saying those words to Seetha, his dear wife and the daughter of Janaka, wielding
 his bow proceeded further with Lakshmana to the picturesque woodlands of hermits. [4-10-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ title_english = "060 Rama laments for Seetha s separation"
 Rama laments for Seetha's separation. He starts searching for her and goes on asking every plant, tree
 and animal, in a kind of frenzied attitude. This chapter is too poetic to summarise, hence this much
 is said here.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ bhR^isham* = frequently; *praasphurat ca* = fluttered, also; *raamaH askhalat ca
 
 While Rama is coming towards hermitage his lower eyelid frequently fluttered, his gait faltered, and
 he missed his footing. [3-60-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ for Seetha, safety, even [in fact,] but, [will Seetha be safe!]; *iti vyaajahaar
 
 On closely watching those inauspicious forebodings Rama indeed uttered oftentimes reflexly thus as,
 'would she be safe, in fact!' [3-60-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ home, on seeing; *udvigna maanasaH babhuuva* = distraught, at heart, he became.
 
 He quickened himself and went with an ardency to see Seetha, and then on seeing an empty home his heart
 is distraught. [3-60-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ house of; *dadarsha* = he has seen.
 Raghava looked like a flying-flutterer as his speed jostled his arms and gait flutteringly, and on closely
 probing there and there, and all-over the places of that cottage, then he saw the lustreless house of
 straw devoid of Seetha, alike a befogged wintry lotus-lake without lustre. [3-60-4, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -313,8 +303,6 @@ By this bestrewn, battered, or shattered state of articles, it is evident that S
 to get release from the clutches of Ravana, and in their tussle articles are in shambles. Hence, Ravana
 did not carry Seetha on a clod of earth as said in Adhyaatma Ramayana and other texts. Valmiki's Seetha
 is an out and out human, as of now.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -364,8 +352,6 @@ athavaa* = or else; *ni liinaa api* = under, cover [shrouded herself, playfully,
 or savoured by some gruesome beasts, or else she strayed in this gauntly forest, and even she might
 have playfully shrouded herself in the grimly forest, or else she must be sheltering herself in this
 forest which will be gruelling to locate. [3-60-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -412,8 +398,6 @@ yaataa* = to lotus-lake, gone; *jala artham* = water, for the sake of; *nadiim g
 
 "Or else, she might have again gone to pick the flowers or fruits, or again gone to lotus-lake, or gone
 to the river for water." Thinking thus, Rama started his search for Seetha. [3-60-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -467,8 +451,6 @@ his eyes the appearance of that glorious one seems to be that of a madman. [3-60
 The word iva 'as though, seems to be, alike...' has some importance from the viewpoint of commentators,
 and some discussion is given in endnote on its usage. Because he is 'like' a madman, the translation
 shall also be 'like' a mad-translation, as long as he talks 'like' a madman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -526,8 +508,6 @@ Whether Rama 'really wept' over Seetha's absence or it the 'playacting' of god -
 As a hero of the epic, it is 'real' weeping and it is necessary to arouse pathos, but should he be god
 or god incarnate, is 'weeping' manifest in the qualities of Omniscient - is the dilemma. Some points
 are presented in the endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -586,8 +566,6 @@ Seetha; *shamsa* = you tell.
 
 "Oh, Kadamba tree, seest thou someone a lady who is lover of Kadamba flowers, one with a lovable face
 and a love of mine, thou tellest me if thou knowest. [3-60-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -603,8 +581,6 @@ upama stanii* = Bilva-fruits [rotund and silky,] in simile, breasted; *[kaccit* 
 
 "Oh, Bilva tree, if thou seest someone who is drest in yellowy-ochry silks, whose skin likens to the
 silkiness of thine leaflets, breasts to thine rotund and silky Bilva fruits, thou tellest me... [3-60-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -652,8 +628,6 @@ jaaniiSe* = if, you know her]; *arjuna priyaam* = Arjuna [flowers,] a lover of; 
 
 "Otherwise, thou Arjuna tree, if thou knowest her who is a lover of thine Arjuna flowers and the ladylove
 of mine, thou telleth whether that slender-waisted daughter of Janaka liveth or otherwise... [3-60-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -711,8 +685,6 @@ maithiliim* = of her, of Maithili; *vyaktam jaanaati* = obviously, will be knowi
 "As to how this Kakubha tree shineth laden with creepy-creepers, foliole-foliage and flowery-flowers,
 this tree knowest Maithili whose thighs can be likened to the smoothish trunk of this very Kakubha tree...
 [3-60-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -730,8 +702,6 @@ chorus of bees is audible to the tree; thereby; *eSa* = this - Tilaka tree; *til
 "As to how this best tree among all trees heareth the chorus of honeybees that singest around it, thereby
 this Tilaka tree clearly knowest Maithili, a lover of Tilaka trees, as this shouldst have heard her.
 [3-60-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 
 </details>
@@ -781,8 +751,6 @@ thinking is marred by agony]; *maam* = me; *kSipram* = readily; *tvat naamaanam*
 
 "Oh, Ashoka tree, an alleviator of agony, that is thine name lingually... but practically and readily
 name me after thine, by showing my ladylove, as my agony has marred my empathy... [3-60-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -828,8 +796,6 @@ on me, mercy [you have,] if there; *varaarohaam kathayasva* = of shapely lady, y
 
 "Oh, Palm tree, if thou seest that lady breasted alike ripened-palm fruits of thine, and if thine mercy
 is mine, thou telleth of that shapely lady Seetha... [3-60-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -885,8 +851,6 @@ me without hesitation...
 
 "Oh, Rose-apple tree, if thou seest Seetha and thou knowest my ladylove whose complexion is smoothish
 like thine Rose-apples, thou telleth me unhesitatingly... [3-60-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -946,8 +910,6 @@ with their voice and hands... and the birds and bees nestled on you also might h
 but those birds and bees are unable to communicate what has happened... you trees, though you may not
 have rushed to rescue her, as you are pegged on ground, you indicate to me, at least with your branchy
 gestures, what exactly has happened...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1011,8 +973,6 @@ appearing to be.
 Rama has gone on asking trees like mango, niipa, massive saala, jack-fruit, kuruva, dhava, and even
 around daaDima, bakula, punnaaga, sandalwood, ketaka trees, and when he is running around them that
 highly glorious Rama appeared like a madman. [3-60-21, 22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1072,8 +1032,6 @@ time playmate of you deer... and you are an expert in escaping, and you might ha
 was in danger, does not matter, it is your nature, now tell me what exactly has happened...' [but, then
 that deer ran in a particular way, but Rama is now unable to decipher it... and concludes,] 'now also
 you are escaping expertly... leave it at that...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1129,8 +1087,6 @@ Annex: 'though you are a pachyderm you are keen-eyed and you can find out even a
 also you are around this place for a long time, thus well acquainted with all of us... hence I deem
 that something must have happened and somehow you might have seen... though you could not prevent it
 with your massive head, trunk or legs, but tell me what exactly has happened...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1188,8 +1144,6 @@ ran after that one who caused some harm to Seetha or not, as Seetha never harmed
 on the prowl hereabouts...' But that tiger retraced its steps, because Rama is an archer with a bow
 and arrows, without telling him that without exception all the animals vainly ran after Ravana trying
 to rescue Seetha. Such as he is, an uninformed one, he starts a delirious soliloquy in imagery.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1238,8 +1192,6 @@ veiling [camouflaging]; *maam* = to me; *kim na prati bhaaSase* = why, not, in t
 
 "Oh lotus-eyed lady, in fact I have seen you my dear, then why this running away and concealing yourself
 under trees, why do not you reply me... [3-60-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1287,8 +1239,6 @@ upekSase* = what, for, you ignore.
 
 "Stay...stay... oh, best lady, don't you have mercy on me? You are not unacceptably tease-humoured!
 What for you ignore me? [3-60-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1335,8 +1285,6 @@ silk-sari; *suucitaa asi* = betokened, you are; *dhaavanti api* = running away, 
 
 "Oh, beautifully complexioned lady, even if you are running away your yellowy silk-sari betokens you,
 stay, if you have goodwill for me... [3-60-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1385,8 +1333,6 @@ to avoid me, not, aptly of her - she would not avoid me; *nuunam* = definitely.
 
 "Otherwise, she whom I have just seen me may not be Seetha, why because, it is unapt of her to avoid
 me who attained this wretched state, hence Seetha with cheery smiles is certainly murdered... [3-60-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1433,8 +1379,6 @@ gorgers, by demons, she is gorged.
 
 "Obviously the raw-flesh gorgers must have gorged that youngish lady on diving all her limbs in my absence
 from my dear one... [3-60-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1486,8 +1430,6 @@ entered [obtained.]
 
 "Her face which is similar to a full-moon with pretty teeth, prettier lips, prettily nose and with prettyish
 earrings, might have obtained a blanched look when being devoured... [3-60-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1534,8 +1476,6 @@ but; *bhakSitaa hi* = glutted down, indeed.
 
 "But that exquisite and beautiful neck of that lady which shines forth in the colour of Campaka flower,
 befitting for any neck ornament, indeed it might be glutted down while she is bewailing... [3-60-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1582,8 +1522,6 @@ angadau* = with, hand, ornaments [bangles,] bicep-lets; *tau baahuu* = those two
 
 "Her two arms which are delicate like tender leaves, ornamented with bangles and bicep-lets might have
 been definitely nibbled while they are wriggling with quivering fingers... [3-60-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1633,8 +1571,6 @@ like [as worse as]; *bhakSitaa* = she is feasted.
 and though Seetha has many relatives she has become as worse as a lonesome woman who is completely forsaken
 by her caravan who is lonesomely ready for the feast of highwaymen, and demons have feasted on her.
 [3-60-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1695,8 +1631,6 @@ have gone; *haa siite* = ha, Seetha; *iti punaH punaH* = thus, again, again; *[r
 
 "Ha, Lakshmana... oh, dextrous one... have you seen my ladylove anywhere... ha, dear, where have you
 gone... oh, auspicious lady... ha, Seetha..." thus Rama lamented again and again in his search. [3-60-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1719,8 +1653,6 @@ to Seetha, and somewhere else, marking creepers, plants or slender shrubs and su
 Seetha he has become really alluded by the powerfulness of allusion, and elsewhere, he is not discriminating
 paths or pathless routes for his trekking as an impassioned one in the search of his ladylove, and thus
 he is nitid like a madman. [3-60-36, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1773,8 +1705,6 @@ ca* = mountain, rapids, also; *kaananaani ca* = thick forests, also; *aparisamst
 
 Rama is on the rove around woods, rivers, hills, mountain-rapids and thicketed forests, speedily and
 restlessly. [3-60-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 </details>
 
@@ -1834,8 +1764,6 @@ became intangible]; *saH* = he; *atha* = then; *punaH* = again; *priyaayaaH*
 
 On going round the vast of great forest in that way and on searching for Maithili, his hope became intangible,
 but again he undertook the search for his ladylove, over-strenuously. [3-60-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

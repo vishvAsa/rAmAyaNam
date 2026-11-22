@@ -27,8 +27,6 @@ all publications. However, it may be mentioned that if some Valmiki Jr. written 
 it should have been ages before, but not in the known ages, because Dharmaakuutam, Govindaraja and others
 have commentaries on chapter. In all the commentaries an exhaustive commentary is there on two verses
 uttered by Tara, which is included here also.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -86,8 +84,6 @@ tepe* = for brother's, killing, [brother Sugreeva] regretted.
 
 On seeing Tara who quickly deluged in a speedy and vast ocean of intolerable anguish, then that Vali's
 mighty brother Sugreeva regretted for the killing of his matchless brother. [4-24-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -145,8 +141,6 @@ pashyan* = while seeing [Tara]; *nirviNNa manaa* = despaired, at heart; *manasvi
 
 While that kind hearted Sugreeva observed Tara for a moment he is despaired at heart, tears filled his
 face, and lamenting very much he slowly paced to the near of Rama, surrounded by his attendants. [4-24-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -205,8 +199,6 @@ such a Raghava who is standing nearby, Sugreeva spoke this way. [4-24-3]
 
 Rama is still wielding his bow and arrow throughout this chapter. Perhaps he is on his own guard to
 confront any hopping of any monkey at him, with indignation for killing Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -264,8 +256,6 @@ with life; *adya mama manaH* = now, my, heart; *bhogeSu nivR^ittam* = extravagan
 "As promised, oh, best king, you have accomplished this deed with its eventual fruition of getting back
 the kingdom and my wife, but now, oh, prince, my heart is backsliding from extravagances of kingdom
 and kingship, as my life itself is rendered despicable, for I got my brother killed. [4-24-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -319,8 +309,6 @@ pure ati vikroshati* = in city, much, wailing is there; *angade ca* = Angada is,
 "When the king is killed, this empress is wailing bitterly, much wailing is there in city scorched in
 sadness, and Angada too is in a doubtful state of sustaining his lives in the fond of his father, as
 such oh, Rama, my heart is not taking delight in kingdom. [4-24-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -374,8 +362,6 @@ extremely; *pra tapsye* = highly, remorseful I am.
 "In the first instance I have agreed for the elimination of my brother owing to my anger, intolerance
 and as I was subjected to too much ignominy, but now, oh, best one from Ikshvaku-s, when the chief of
 monkeys Vali is put to death, I am painfully remorseful. [4-24-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -434,8 +420,6 @@ shaila mukhye R^iSyamuuke* = on that, mountain, the best, on Rishyamuka; *ciram 
 "I think it would be better for me to live on that best mountain Rishyamuka for ever in an as is where
 is condition, somehow spending life befitting to a monkey, and achieving even heaven on killing my brother
 is of no good. [4-24-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -489,8 +473,6 @@ word, deed, also, to me, befitting.
 "The words which he used to speak to me saying, 'I do not wish to kill you, begone...' are befitting
 to that great-souled and rational vanara, and my words in asking you to him to kill him, and my deeds
 in getting him killed are befitting to me, as an irrational vanara. [4-24-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -545,8 +527,6 @@ in killing; *katham naama* = how, indeed; *vi rocayeta* = takes pleasure in.
 in kingdom on killing that brother will be more? Or, the distress ensuing that killing will be the most?
 Without truly discriminating these cruces, even if one has one's own own avarice in prospect, who is
 he that is going to take pleasure in killing his own highly honoured brother? Excepting me! [4-24-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -594,8 +574,6 @@ aasiit* = violation, is there.
 
 "Killing me is not in the intent of Vali violating his probity, but my intent has become evilly life
 taking, violating my own probity. [4-24-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -644,8 +622,6 @@ cane]; *muhurtam* = for a time; *pariniSTanan aham* = whining, I was; *anena sva
 "I was whining for a time when Vali thrashed me with a tree branch, as if with a schoolmaster's cane,
 but later on comforting me he said this to me, 'do not do this again, this daring me to fight you back.'
 [4-24-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -692,8 +668,6 @@ of a monkey, also, exhibited.
 
 "Fraternity, dignity and also probity are conserved by him, while I exhibited furiousness, enviousness
 and also naughtiness of a monkey. [4-24-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -763,8 +737,6 @@ TvaSTa himself is Brahma's brainchild, and made Vishvaruupa to sit on the high s
 Vishvarupa becoming partial to demons used to give portions of ritual oblations to demons. Knowing this
 Indra kills Vishvarupa, and thus gets attached to sin called *brahma paataka paapa*, sin for
 slaying a Brahman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -827,8 +799,6 @@ wanted an all purifying effect, and women wanted to have never decreasing sexual
 agreed to these conditions, then the earth has taken a part of Indra's sin by which it acquired sinful
 wastelands, waters got froth, trees exudation, and women menstruation. This is as detailed in *bhaagavata
 puraNa *, sixth canto.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -882,8 +852,6 @@ kula naasha yuktam* = race, ruination, along with - involves; *evam vidham karma
 "On undertaking this sort of deed that includes unjust and involves ruination of one's own race, I am
 unsuited for this sort of accolade from the subjects of this kingdom, and when I am ineligible to be
 the price regent of this kingdom, wherefore to become its regent? [4-24-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -938,8 +906,6 @@ water's, speed, as with; *mahaan ayam shokaH* = irresistible, this, misery; *mam
 "In this world, I am a committer of a felony which is debased, highly damnable and pernicious to the
 world itself, whereupon this irresistible misery is rushing in on me, as with the rush of speeding rainy-waters
 towards a declivity. [4-24-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -994,8 +960,6 @@ eyes, head, tusks; *enaH mayaH* = sin, full with; *dR^iptaH* = berserk; *pra vR^
 my own brother have assumed that elephant's hind and tail, and my causing agony to my own brother has
 become that elephant's head, eyes, trunk, and tusks, with them that berserk and monstrous elephant called
 sin, is goring me as it would gore a riverbed. [4-24- 17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1055,8 +1019,6 @@ as with; *nivartate* = shedding off - casting away; *bata* = how difficult.
 is shed from my heart, as with the gold, which if alloyed will be intolerant of that filth, but oh,
 Raghava, even the gold sheds itself from scum when melted, and though I melt in grief this scum of sacrilege
 is unshed. [4-24-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1110,8 +1072,6 @@ of - body of; *artha sthita praaNam* = in half, withstanding, lives, [half-dead,
 "I think this body of great-might monkey commanders is withstanding its lives in a halfway, oh, Raghava,
 just because of me and this Angada who is searing in anguish, for it is half-dead with the death of
 Vali. [4-24-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1182,8 +1142,6 @@ also refers to another wording of Rama in Yuddha Kanda *deshe deshe kalatraaNi d
 | tam tu desham na pashyaami yatra bhraataa sahodaraH ||* meaning that 'wives and relatives can
 be there in various countries, but I do not see a country where one's own brother lives avoiding his
 own brothers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1241,8 +1199,6 @@ jiivet* = she, not, thus, lives; *iti me nishcitam* = thus, my, resolve is.
 "This best of brave ones, Angada, will not live reft of his father, but his mother Tara has to live
 to foster her son Angada, but if Angada dies with his heartbroken for his farther, then without her
 son her misery will become miserable, and then she too may not live... this is my resolve. [4-24-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1303,8 +1259,6 @@ best, valiant ones; *nideshe* = under your control; *pari vartamaanaaH* = conduc
 "Such as I am, I wish to enter a highly blazing fire seeking amity with my departed brother and as well
 with son Angada, and these best valiant monkeys will search for Seetha duly conducting themselves under
 your control. [4-24-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1363,8 +1317,6 @@ perpetrated, infraction; *maam anujaaniihi* = me, you permit.
 "Oh, prince, even if I am dead your mission will be achieved in its entirety, and oh, Rama, having perpetrated
 infraction I have become an eliminator of the propriety of our race, hence I have become an unworthy
 one to live, and hence permit me to commit myself to fire..." Thus Sugreeva said to Rama. [4-24-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1428,8 +1380,6 @@ of his adherents are his own tears or joys, for he involves so deep in such matt
 time of befriending Rama, Sugreeva says that 'our mirth or misery too, are same for us from now on...'
 at 4-5-17. They are the tears of complaisance, but not due to any wailing or moaning at the declaration
 of Sugreeva to self-immolate with his dead brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1488,8 +1438,6 @@ vyasane nimagnaam* = in desperation, deluged in; *rudantiim* = she who is wailin
 At that moment, Rama whose perseverance is like that of the earth and who is the protector of earth
 has seen Tara, who is wailing and repeatedly looking around as she is deluged in desperation, and then
 with all his concernedness Rama paced towards her. [4-24-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1543,8 +1491,6 @@ intellect]; *kapi raaja patniim* = monkey, king's, wife; *taam* = her; *mantri p
 The prominent monkey ministers then started to raise her up, whose eyes are pleasant and intellect unfailing,
 and who had the lion among monkeys as her husband, but now collapsed on ground hugging her departed
 husband. [4-24-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1609,8 +1555,6 @@ puraNa* says all these incarnations are just lamps lit by another, rather the or
 that entity what you may: *nR^isi~Nha
 raama kR^iShNeShu ShaaDguNyam paripuuritam | paraa avasthaa tu devesha diipaat utpannam diipa vat ||
 padma puraaNa*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1676,8 +1620,6 @@ She came to know him as 'that' Rama, 1] of whom Angada told her earlier; 2] who 
 whom saintly people talk about. Eyes talk a lot, thus that fawn-eyed lady's eyes met those divine
 eyes of Rama, as 'great people perceive each other's greatness by a simple look...' *vidvaan eva vijaanaati
 vidavad jana parishrama*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1736,8 +1678,6 @@ and an unreachable one for his enemies. [4-24-29]
 
 Though Rama started towards her she herself advanced to his fore thus establishing her humble nature,
 demanded of the noblemen/women when dealing with higher beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -1805,8 +1745,6 @@ to not to confront this Rama, then also she spoke about the attributes of Rama, 
 information. Now to be in his presence, she is rendered as a pure consciousness. Other mms ascribe
 *vishuddha sattvaa* to Tara, as Rama's pure being is already known to all. The nearness of a
 pure being automatically provides a serene mind to anyone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2021,8 +1959,6 @@ after visualising a kind of *vishva ruupa* 'the Image of Supreme...' at the time
 which is not voiced intentionally but sprang forth from her pure consciousness *shuddha sattva*,
 while she she continues her wailing and pleading with Rama, at a later time. Thus the divine revelations
 have their own stunning effects.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2090,8 +2026,6 @@ after visualising a kind of *vishva ruupa* 'the Image of Supreme...' at the time
 which is not voiced intentionally but sprang forth from her pure consciousness *shuddha sattva*,
 while she she continues her wailing and pleading with Rama, at a later time. Thus the divine revelations
 have their own stunning effects.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2173,8 +2107,6 @@ takes delight.
 
 "Oh, brave one, kill me too with the same arrow with which you have killed my dear husband, and on getting
 killed at your hand I wish to reach his near, as Vali takes no delight without me. [4-24-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2197,8 +2129,6 @@ cuuDaa* = [those with] towering, with red, tiaras; *vicitra veSaaH* = with amazi
 "Though Vali with eyes like unblemished lotus petals reaches heaven he looks around for me, and not
 finding me there, he does not have a romance with celestial apsara-s though they will be in amazing
 costumes and wear red-coloured towering tiaras. [4-24-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2253,8 +2183,6 @@ derives.
 "Even though Vali is in heaven he will derive despair and despondency without me, like you, who are
 despondent and despaired on the pleasant stretches of mountainsides of that best mountain Rishyamuka,
 as you are without Seetha. [4-24-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2314,8 +2242,6 @@ find, born out of - owing to; *duHkham* = discomfort; *na bhajeta* = not, may [n
 
 "How a virile person derives discomfort without his woman, that much you know, isn't it! Because you
 are aware of it, you kill me; let not Vali get any discomfort when he does not find me. [4-24-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2376,8 +2302,6 @@ jahi* = me, you, kill; *strii vadhaH na syaat* = woman, killing, will not be, th
 "Oh, prince, as a high souled one even if you think that, "sin of killing a female will not befall on
 me?" But deem me as his soul, as scriptures say that the wife is the soul of husband, and hence kill
 me, then there will not be any blemish of woman killing. [4-24-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2446,8 +2370,6 @@ The Maha Bharata says in its *aadi parva* what a married woman is: *
 artham bhaaryaa manuShyasya bhaaryaa shreShThatamaH sakhaa |*'man's
 better half is wife, and man's best friend is
 the wife.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2501,8 +2423,6 @@ of sin; *na lapsyase* = not, you attain.
 "Even you, oh, valiant one, on examining good and bad bestow me to my dear husband, and by that way,
 oh, brave one, by such an endowment of a wife to her husband, by way of killing and sending her to her
 husband, you too will not get any touch of sin. [4-24-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2566,8 +2486,6 @@ these Vanara misters, and it is unapt of you to not to kill me, as I am incapabl
 whose sprightly gait is like that of an elephant, a best one among fly-jumping Vanara-s, a courageous
 one, and who wears a precious and exquisite golden pendant..." Thus Tara pleaded with Rama for a mercy-death.
 [4-24-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2621,8 +2539,6 @@ of, mind - mind go raving; *maa kuruSva* = don't, make; *sarvaH lokaH vidhaatraa
 Thus that way when Tara spoke to that lord and great-souled Rama, Rama consoling Tara well, spoke this
 word of expediency, "oh, wife of valiant one, let not your mind go raving, the Creator decreed all the
 world to be in this way, isn't so! [4-24-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2681,8 +2597,6 @@ na ati kramante* = not, over, step [transgress, worlds.]
 "And the same Creator has ordained mirth and misery , and even their association, so say sagely people.
 And even the triad of worlds is indeed under his control, and that triad too, cannot transgress the
 foreordained predestination. [4-24-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2765,8 +2679,6 @@ as per Govindaraja commentary.
 Regarding the chastity of Tara no doubt is to be expressed by
 any for she is a celestial, emerged from the churning of Milky Ocean. She is equated with Seetha, Draupadi,
 Ahalya, and listening their episodes is said to remove any evil-visualisations, as in this verse:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 </details>
 
@@ -2819,8 +2731,6 @@ taaraa viraraam* = she, Tara, paused - her plaint.
 
 Thus consoled by that persuasive, noble-souled and enemy-burner Rama, that brave one's wife whose aspect
 is fair and whose attire is proper, she paused her plaint, but with a puling expression. [4-24-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

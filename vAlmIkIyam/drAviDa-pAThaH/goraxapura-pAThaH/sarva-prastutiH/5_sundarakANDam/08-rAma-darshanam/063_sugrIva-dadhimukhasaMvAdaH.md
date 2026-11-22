@@ -18,8 +18,6 @@ has been damaged by monkeys headed by Angada and Hanuma. When Lakshmana in the v
 about the matter, Sugreeva says that by hearing about the jubilation of the monkeys, it can be concluded
 that Seetha has been traced out. Assuaging Dadhimukha, Sugreeva asks him to send without delay, Hanuma,
 Angada and others to him, so as to hear about their efforts in tracing out Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ these; *vaakyam* = words; *udvigna hR^idayaH* = with an agitated mind.
 
 Just on seeing Dadhimukha, who fell touching his feet with his head, Sugreeva the chief
 of monkeys, with an agitated mind, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ abhidhiiyataam* = Let the entire truth be spoken!.
 
 "O valiant monkey! Stand up, rise! Why have you fallen on my feet? I grant you immunity
 from fear. Let the entire truth be spoken!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ intelligent Dadhimukha; *utthaaya* = rising up; *abraviit* = spoke; *vaakyam* =
 
 Thus inspired by the high-souled Sugreeva with confidence, that highly intelligent Dadhimukha,
 rising up, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ your father; *na* = nor; *tvayaa* = by you; *na* = nor vaalina api = by Vali eve
 
 "O king! Madhuvana was indeed not set free previously at any time by Riksharajas, your
 father, or by you, or by even Vali. That Madhuvana has been consumed away by the monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -278,8 +268,6 @@ _________________
 
 "When these guards of the grove obstructed the monkeys, they disregarded the guards and
 continue to eat the fruits and drink the honey too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ us); *te sarve* = all of them; *darshayanti hi* = are indeed showing; *bhruvaH*
 "Some are throwing away a remnant of honey, after drinking it there and some others are
 consuming that remnant. When prevented by us, all of them are indeed exhibiting their eye-brows to us
 (in anger)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -382,8 +368,6 @@ are more angry; *tathaa* = and; *vaarayantaH* = keeping them off; *tasmaat vaana
 
 "When these guards of the grove became angry and tried to keep them off from the grove,
 those enraged monkeys threatened them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -433,8 +417,6 @@ away; *krodhaat* = with anger.
 
 "O chief of monkeys! Then, those valiant monkeys in large numbers, having their red eyes
 in anger, drove away these monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -484,8 +466,6 @@ darshitaaH cha* = they were tossed into; *deva maargam* = air.
 
 "Those monkeys struck some of the guards with their hands. They beat some of them with
 their knees. They dragged some of them and tossed them into air."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ _________________
 
 "While you are in the position of a king, those monkeys have beaten these valiant guards
 and are eating away the entire Maduvana too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -586,8 +564,6 @@ Dadhimukha); *lakShmaNaH* = Lakshmana; *para viirahaa* = the killer of hostile h
 
 Lakshmana, the killer of hostile heroes and a very wise man, asked that Sugreeva, the
 excellent of monkeys (as follows) while Dadhimukha was thus reporting to him:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -637,8 +613,6 @@ in grief; *abraviit* = spoken; *vaakyam* = some words (to you)?
 
 "O king! Why has this monkey the garden-protector, come here?' Pointing out what matter
 has this monkey in grief, spoken these words to you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -688,8 +662,6 @@ pratyuvaacha* = replied; *laKShmaNam* = to Lakshmana; *idam* = these; *vaakyam*
 
 Hearing the words of the high-souled Lakshmana, the eloquent Sugreeva replied to him
 as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -743,8 +715,6 @@ was consumed.
 "O esteemed Lakshmana! Dadhimukha, the valiant monkey is informing that the foremost
 of monkeys, who returned from the southern direction, after searching for Seetha as also Angada and
 other heroes consumed honey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -819,8 +789,6 @@ upakramaH* = in such an exploit; *akR^ita kR^ityaanaam* = had they not accomplis
 "By seeing the manner in which these returned monkeys overpowered, destroyed and behaved
 towards Madhuvana, we can deduce that the monkeys would not have indulged in such an exploit, had they
 not accomplished my purpose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -910,8 +878,6 @@ has been accomplished; *vaanaraiH* = by the monkeys; *devii* = Seetha; *dR^iShTa
 "When those monkeys have overpowered Madhuvana, then it means that our task has been
 accomplished by the monkeys. Seetha was found. There is no doubt. None other than Hanuma must have seen
 Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -935,8 +901,6 @@ effort; *viiryam cha* = vigour; *shrutam cha api* = and learning; *pratiShThitam
 "There is none other than, Hanuma who is the executor in accomplishing this work. In
 that Hanuma, the foremost among the monkeys, capacity to accomplish any object; intelligence; strenuous,
 vigour effort; and learning are well established in his life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -952,8 +916,6 @@ the progress; *tasya* = of that work; *na anyathaa* = cannot be otherwise.
 
 "Where Jambavan as well as Angada are leaders and Hanuma is an administrator, the progress
 of that work cannot be as otherwise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -1005,8 +967,6 @@ destroyed; *viiraiH* = by the heroes; *aN^gada pramukhaiH* = with Angada as the 
 
 "It is so reported that Madhuvana has been destroyed by the heroes with Angada as the
 chief and the garden-guards who were together preventing the damage, were beaten up with knees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -1101,8 +1061,6 @@ has come; *iha* = here.
 
 "To tell this matter in sweet words, the monkey renowned by Dadhimukha by name, with
 his celebrated prowess, has come here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1124,8 +1082,6 @@ siitaa* = Seetha; *dR^iShTaa* = was found; *pashya* = perceive; *tattvataH*
 
 "O the long-armed Lakshmana! Perceive the truth that Seetha has been seen and see that
 all monkeys, getting together, are drinking honey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1146,8 +1102,6 @@ varam* = which was granted as a boon; *divyam* = and is charming.
 
 "O Lakshmana, the foremost among men! If the renowned monkeys have not seen Seetha, they
 would not have abused the charming grove; which was granted as a boon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1166,8 +1120,6 @@ too; *bhR^isham* = was very much; *praahR^iShyate* = rejoiced.
 Then, the righteous Lakshmana, together with Rama, felt delighted. Hearing the words
 coming from the mouth of Sugreeva, which were pleasant for the ears, Rama was rejoiced. The mighty Lakshmana
 too was very much rejoiced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -1217,8 +1169,6 @@ following words; *vana paalam* = to the guardian of the grove.
 
 Hearing those words of Dadhimukha, Sugreeva with a charming neck, was very much pleased
 and further spoke to Dadhimukha, the guardian of the grove (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -1306,8 +1256,6 @@ the grove); *kR^ita karmaNaam* = done by those monkeys who have accomplished the
 "I am happy that Madhuvana has been enjoyed by those monkeys, who have accomplished their
 act. Since the act (damage to the grove) done by those monkeys, who have accomplished their purpose
 is fit to be forgiven, I pardon them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1326,8 +1274,6 @@ darpaan* = having the pride of a lion; *kR^ita arthaan* = and who attained their
 "I, together with Rama and Lakshmana, soon desire to see those monkeys, with Hanuma as
 their chief, who having acquired the pride of a lion and who attained his purpose; and also to hear
 about their effort in finding out Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 
@@ -1385,8 +1331,6 @@ Seeing Rama and Lakshmana with their eyes filled with ecstatic delight, the prin
 who were thrilled with joy and who accomplished their aim, Sugreeva that king of the monkeys was very
 much delighted, knowing that accomplishment of their work is coming close to their hands and his limbs
 were thrilled with joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 </details>
 

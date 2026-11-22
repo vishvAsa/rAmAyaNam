@@ -15,8 +15,6 @@ title = "१२६ हनुमता रामागमनसन्देशः
 Hanuma recounts to Bharata, broad details relating to the soujourn of Rama, Seetha
 and Lakshmana in the forest from the day Bharata takes wooden sandals of Rama, till the day Ravana
 is killed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -62,8 +60,6 @@ lord; *gatasya* = who went; *sumahat* = to the vast; *vanam* = forest;
 
 "I am indeed hearing a delight mention of my lord, who proceeded to the vast forest
 so many years ago.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -110,8 +106,6 @@ so many years ago.
 
 "This common saying sounds to me good, that bliss comes to a surviving man, even if
 it be after a hundred years!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -152,8 +146,6 @@ acha kapiinaamcha* = between Rama and he monkeys; *kashmin deshe* = and at what 
 
 "How and on what ground, an alliance has been concluded between Rama and the monkeys
 and at what place? Tell the truth to me, enquiring as I am."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -195,8 +187,6 @@ and at what place? Tell the truth to me, enquiring as I am."
 
 Seated comfortably on a cushion and interrogated by Bharata, Hanuma thereupon began
 to narrate the entire exploits of Rama in the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -298,8 +288,6 @@ followed righteousness to take back the kingdom, how Rama who stood by his fathe
 renounced the kingdom and stood by his father's words, renounced the kingdom and how your returned
 to Ayodhya, taking with you the wooden sandals all this is known accurately to you. Hear from me
 now, that which occurred after you had returned to Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -357,8 +345,6 @@ animals and birds ( on seeing strange people in the forest).
 
 "When you had gone away, that forest (of Chitrakuta) then assumed a very miserable
 appearance, with the frightened animals and birds (on seeing strange people there)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -375,8 +361,6 @@ deers.
 
 "Rama, thereupon, entered that large, terrific and solitary forest of Dandaka, which
 had been trampled by elephants and extensive with lions, tigers and deers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -420,8 +404,6 @@ _________________
 
 "In front of them, even as they were going in that dense forest, there appeared
 Viradha, a demon, uttering forth a very loud roar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -462,8 +444,6 @@ cry; *kuN^jaramiva* = like an elephant.
 
 "They cast him, who rushed with uplifted arms towards them, into a pit, turning his
 head bent low, and who was emitting a loud cry, like an elephant."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -504,8 +484,6 @@ hermitage; *shrabhaN^gasya* = of Shrabhanga; *saayahne* = in the evening.
 
 "Carrying out that ardous task, Rama and Lakshmana, both the brothers, went to the
 beautiful hermitage of Sharbhanga, in that evening.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -546,8 +524,6 @@ truly mighty; *upaagamat* = reached; *janasthaanam* = Janasthana = region.
 
 "Offering salutation to all the hermits when Sharabhanga ascended to heaven, Rama
 who truly mighty, reached the region of Janasthana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -600,8 +576,6 @@ chopped off; *karNanaase* = her ears and nose.
 "Thereafter, a female-demon called Surpanakha sought the presence of Rama. As
 ordered by Rama, the mighty Lakshmana thereupon rose quickly and seizing a sword, chopped off her
 ears and nose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -642,8 +616,6 @@ fourteen thousand; *janasthaana vaasinaam* = demons inhabiting Janasthana; *hata
 
 "Fourteen thousand demons, inhabiting Janasthana-region, were killed by the
 great-souled Rama, while sojourning that region."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -686,8 +658,6 @@ finished; *chaturthabhaagena ahnaH* = in a fraction of a quarter of a day.
 
 "The demons, who came together at the battle-front, were wholly finished by Rama
 alone, in a fraction of a quarter of a day."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -728,8 +698,6 @@ inhabitants of Dandaka-forest; *mahaaviiryaaH* = who were causing obstacles; *ta
 
 "The demons who were the mighty inhabitants of Dandaka-forest, who were causing
 obstacles to the austerity of the ascetics, were killed by Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -776,8 +744,6 @@ killed; *hatvaa* = after killing; *duuShaNam* = Dushana; *agrataH* = first;
 
 "The demons were smashed in the battle. Khara (their leader) also was killed. After
 killing Dushana (his brother) first, Trishira (the other brother) was killed thereafter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -823,8 +789,6 @@ studded with precious stones; *lobhayaamaasa* = allured; vaidehiim Seetha.
 "Tormented by the incident of destruction of demons, the foolish Surpanakha sought
 refuge with Ravana. Disguised in the form of a deer studded with precious stones, a terrific demon
 by name, Maricha, a follower of Ravana, allured Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -874,8 +838,6 @@ deer; *gR^ihyataam bhaviShyat* = be caught; *naH aashramaH* = so that our hermit
 
 "That Seetha, on seeing it, told Rama, 'Let this deer be caught. Our hermitage will
 turn out to be charming and pleasing to the eye'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -922,8 +884,6 @@ with an arrow; *aanataparvaNaa* = having curved knots.
 
 "Thereupon, Rama wielding a bow in his arm, chased that deer and killed that running
 one, with an arrow of curved knots."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -971,8 +931,6 @@ hermitage.
 
 "O good sir! While Rama was chasing the deer and even when Lakshmana had gone out,
 Ravana forthwith entered their hermitage during that interval."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1030,8 +988,6 @@ Seetha with him.
 "Ravana, the demon, seized Seetha, even as a planet like Mars would obscure the
 constellation, Rohini. Having killed a vulture named Jatayu, who sought to deliver her, Ravana then
 went quickly in haste, taking Seetha with him"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1084,8 +1040,6 @@ mountain-peak; *parvatopamaaH* = looking like mountain; *dadR^ishuH* = saw;
 "Then, in surprise, some monkeys who was staying on a mountain-peak, looking like
 mountain, saw, with astonishment writ large in their faces, Ravana the king of demons, passing that
 way, taking away Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1142,8 +1096,6 @@ thought; *vaidehye saha* = along with Seetha; *tadaa* = and thereupon;
 "Going still faster and ascending along with Seetha, the aerial car, Pushpaka, which
 was as swift as thought, the mighty Ravana the king of demons thereupon entered the City of
 Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1190,8 +1142,6 @@ her gently; *vaakyaiH* = with his words.
 
 "Conducting that Seetha into a large beautiful mansion, embellished with gold, that
 Ravana sought to cajole her gently with his words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1241,8 +1191,6 @@ actually remained; *ashoka vanikaam* = in Ashoka-grove.
 
 "Caring a straw for that Ravana and his talk, Seetha, later, actually remained in
 Ashoka-grove."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1300,8 +1248,6 @@ disturbed).
 "Having killed that deer, Rama while returning to the hermitage, saw the vulture
 (Jatayu) in the forest. Rama was greatly disturbed. Seeing the vulture (Jatayu) who was dearer to
 him than his own father killed, Rama was disturbed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1342,8 +1288,6 @@ along the bank of Godavari-river.
 
 "While searching for Seetha, RAma along with Lakshmana strolled after blossomed
 woodlands along the bank of Godavari-river."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1398,8 +1342,6 @@ Sugreeva; *gatvaa* = after heading for; *R^iShyamuukagirim* = Mount Rishyamuka.
 
 "They met, in that great forest, a demon by name Kabandha. Then according to the
 advice of Kabandha, Rama of true prowess met Sugreeva, after heading for Mount Rishyamuka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1452,8 +1394,6 @@ affection; *pragaaDhaH* = deeply arose; *tayoH* = between Rama and Sugreeva.
 "Even before they met, a meeting of hearts through affinity, had taken place between
 them. Sugreeva had been banished in the past by the enraged Vali, his elder brother and as a result
 of mutual talks, affection deeply arose between Rama and Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1494,8 +1434,6 @@ strength of his arms; *samare* = in combat; *mahaabalam* = the mighty;
 
 "Having killed with the strength of his arms in combat, the mighty Vali with a
 colossal body, Rama caused the kingdom of Sugreeva restored.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1536,8 +1474,6 @@ given his pledge; *raamaaya* = to Rama; *maargaNam* = to commence a search;
 
 "Sugreeva, who was established in his kingdom with all, his monkeys, had given his
 pledge to Rama, to commence a search for Seetha the princess."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1578,8 +1514,6 @@ four quarter.
 
 "Ten crores of monkeys were accordingly commanded by the great-souled Sugreeva and
 sent to all the four quarters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1626,8 +1560,6 @@ felt sore stricken with sorrow.
 
 "Having lost our way in Vindhya, the foremost of mountain-ranges, a long time
 slipped past us and we felt sore-stricken with sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1675,8 +1607,6 @@ Ravana.
 
 "Meanwhile, the brother of Jatayu (the king of vultures), Sampati by name, precisely
 communicated to us that Seetha was dwelling in the habitation of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1730,8 +1660,6 @@ hundred yojanas (eight hundred miles); *samaasthaaya* = resorting to; *aatmaviir
 
 "Removing the grief of my kinsfolk, who were seized with sorrow, I, as such, crossed
 one hundred yojanas (eight hundred miles of the ocean), resorting to my own strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1782,8 +1710,6 @@ cheerless.
 
 "There, I saw Seetha, living alone in a grove of Ashoka trees, clad in a soiled
 silk-saree, looking cheerless, but unflinching in her vow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1799,8 +1725,6 @@ handover to her; *mayaa* = by me; *abhiJNaanam* = as token.
 
 "After meeting her and duly enquiring that faultless Seetha, everything of her, a
 ring with the name, Rama engraved on it, was handed-over to her by me as a token."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1850,8 +1774,6 @@ jewel; *dattham* = was given; *mayaa* = by me; *abhiJNaanam* = as a token;
 "Receiving in return from her, a jewel (from her head), I came back to the northern
 shore, successful as I was in my undertaking. On my return, that brilliant and valuable jewel was
 given by me as a token to Rama who was unweary in action."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1898,8 +1820,6 @@ Seetha; *raamastu* = Rama for his part; *aashasham se* = regained the hope;
 
 "On hearing the news of Seetha, Rama for his part regained the hope to survive, as a
 dying patient would, on drinking the ambrosia."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1951,8 +1871,6 @@ universe.
 "Excited as he was to put forth a war-effort, he set his mind on the destruction of
 Lanka, as the fire-god intending to destroy all the three worlds, would, at the end of the
 universe."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -1993,8 +1911,6 @@ valiant monkeys; *aatarat* = crossed (the ocean).
 
 "Then, on reaching the ocean, he got a bridge constructed by Nala and through that
 bridge, the army of the valiant monkeys crossed the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -2035,8 +1951,6 @@ Prahasta; *raamaH* = Rama; *raaghavaH* = the scion of Raghu dynasty; *svayam*
 
 "Neela killed Prahasta. Rama, the scion of Raghu dynasty, personally killed
 Kumbhakarna and Ravana. Lakshmana killed Indrajit, the son of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -2111,8 +2025,6 @@ svayambhuubhyaam* = Maheshwara; the great lord (Shiva) and Brahma the lord of cr
 celestials, Yama the lord of dissolution, Varuna the lord of waters, Maheshvara, the great lord
 (Shiva), Brahma the lord of creation as also Dasaratha (his deceased father) and was bestowed boons
 by them. Sages and celestial masters who came there, too gave boons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -2156,8 +2068,6 @@ with the monkeys; *puShpakena vimaanena* = on Pushpaka; the aerial car.
 
 "Having been granted boons, Rama for his part flew to Kishkindha in an aerial car
 called Pushpaka, along with the monkeys who gathered there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -2209,8 +2119,6 @@ you will be able; *draShTum* = to see (Rama); *avighnam* = without any obstacle.
 "Reaching the coast-line of Ganga-river again, Rama is staying in the presence of
 the sage, Bharadwaja. Tomorrow, when the moon will be in conjunction with the asteroid, Pushya you
 will be able to see Rama, without any obstacle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 </details>
 
@@ -2267,8 +2175,6 @@ manorathaH* = "My desire; *puurNaH khalu* = has been indeed fulfilled; *chirasya
 "Gladdened to hear Rama's impending return to Ayodhya in the sweet words of Hanuma,
 Bharata offered his salutation by joining his palms together and spoke the following words, which
 enraptured his mind: 'My desire has been fulfilled indeed after a long time'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

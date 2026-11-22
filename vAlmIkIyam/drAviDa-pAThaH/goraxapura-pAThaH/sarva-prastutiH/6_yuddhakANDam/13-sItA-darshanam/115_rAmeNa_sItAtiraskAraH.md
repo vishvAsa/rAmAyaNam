@@ -16,8 +16,6 @@ Rama informs Seetha that the dishonour meted out to him and the wrong done to he
 Ravana have been wiped off, by his victory over the enemy with the assistance of Hanuma, Sugreeva
 and Vibhishana. However, regarding with suspicion the character of Seetha, Rama disowns her and
 asks her to seek shelter elsewhere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ asks her to seek shelter elsewhere.
 
 Seeing that Seetha, who stood at his vicinity bowing low, Rama began to tell his
 feeling hidden in his heart (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ enemy; *raNaajire* = in the battle-field; *tat yat* = that which;
 
 "You are won back by me, after conquering the enemy in the battle-field, my dear
 lady! That which is to be done through human effort, has been accomplished by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ lady! That which is to be done through human effort, has been accomplished by me
 
 "I have come to the end of my indignation and my outrage has been completely
 requited as also the contempt against the enemy have been wiped out, all at once, by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ I; *tiirNa pratijJNaH* = have fulfilled my promise; *adya* = today;
 
 "Now, my manly strength has been seen by all. Today, my toil has borne fruit. Now, I
 have fulfilled my promise. Today, I am the master of myself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -257,8 +247,6 @@ been corrected; *mayaa* = by me; *maanuSheNa* = a human being.
 "The wrong done to you, when you were deserted from me, in that you were taken away
 by a fickle-minded demon, which was ordained by the destiny, has been corrected by me as a human
 being."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -304,8 +292,6 @@ lot; *tejasaa* = by means of his energy?
 
 "What is the use of a prowess, however great, of that weak-minded man who does not
 wipe out, by his energy, the insult fallen to his lot?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -355,8 +341,6 @@ fruit.
 
 "The praise-worthy act of Hanuma in the form of crossing of the ocean and the
 destroying of Lanka, has borne fruit today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -399,8 +383,6 @@ destroying of Lanka, has borne fruit today."
 
 "The endeavour of Sugreeva, who exhibited his prowess on the battle-field with his
 army and tendered a good advice, is fruitful today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -450,8 +432,6 @@ abandoning; *bhraataram* = his brother; *viguNam* = who was void of good qualiti
 
 "Furthermore, the exertion of Vibhishana, who after deserting his brother who was
 void of good qualities, sought my presence, is fruitful today.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -494,8 +474,6 @@ those of a female-deer; babhuuva was; *ashrupariplutaa* = filled with tears.
 
 Hearing those words spoken thus by Rama, Seetha with her eyes wide open like those
 of a female-deer, was bathed in tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -538,8 +516,6 @@ bhayaat* = for fear of the talk of the public.
 
 The heart of King Rama, as he saw Seetha, (the beloved of his heart) near him, was
 torn for fear of public scandal.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -582,8 +558,6 @@ patraakShiim* = whose eyes resembled the petals of a lotus; *niila kuN^jitu muur
 
 In the midst of monkeys and demons, Rama spoke (as follows) to Seetha, whose eyes
 resembled the petals of a lotus, who wore dark curly hair and was endowed with fine hips.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -633,8 +607,6 @@ killing; *raavaNam* = Ravana; *pratimaarjitaa* = and thus wiping away;
 
 "I, wanting for an honour, have done this particular act, which ought to be done by
 a man, in killing Ravana and thus wiping away the insult meted out to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -679,8 +651,6 @@ Sage Agastya.
 "You have been won by me, whose mind stands purified by asceticism as the southern
 quarter, which was difficult to be approached by the world of mortals, was conquered by the Sage
 Agastya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -757,8 +727,6 @@ of my friends; *na kR^itaH* = was not undertakne; *tvadartham* = for your sake;
 successful carried through, due to the strength of my friends was not undertaken for your sake. Let
 there be prosperity to you! This was done by me in order to keep up my good conduct and to wipe off
 the evil-speaking from all sides as well as the insinuation on my own illustrious dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -808,8 +776,6 @@ eye-sight.
 
 "You, with a suspicion arisen on your character, standing in front of me, are
 extremely disagreeable to me, even as a light to one, who is suffering from a poor eye-sight."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -853,8 +819,6 @@ directions; *naasti* = there is no; *kaaryam* = work to be done; *me* = to me;
 
 "O Seetha! That is why, I am permitting you now. Go wherever you like. All these ten
 directions are open to you, my dear lady! There is no work to be done to me, by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -903,8 +867,6 @@ directions are open to you, my dear lady! There is no work to be done to me, by 
 
 "Which noble man, born in an illustrious race, will take back a woman who lived in
 another's abode, with an eager mind?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -949,8 +911,6 @@ looks?
 "While mentioning greatly about my lineage, how can I accept again, you who were
 harassed in Ravana's lap (while being borne away by him) and who were seen (by him) with evil
 looks?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -1002,8 +962,6 @@ here.
 "You were won by me with that end in view (viz. the retrieval of my lost honour).
 The honour has been restored by me. For me, there is no intense attachment in you. You may go
 wherever you like from here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -1047,8 +1005,6 @@ sukham* = as per your ease.
 
 "O gracious lady! Therefore, this has been spoken by me today, with a resolved mind.
 Set you mind on Lakshmana or Bharata, as per your ease."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -1100,8 +1056,6 @@ on Sugreeva; *vibhiiShaNe va* = or on Vibhishana; *raakShase* = the demon;
 
 "O Seetha! Otherwise, set your mind either on Shatrughna or on Sugreeva or on
 Vibhishana the demon; or according to your own comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -1151,8 +1105,6 @@ separation).
 
 "Seeing you, who are endowed with a beautiful form and attractive to the sense,
 detained for long in his abode, Ravana could not have endured your separation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 </details>
 
@@ -1213,8 +1165,6 @@ a creeper; *gajendra abhihataa* = attacked by the proboscis of an elephant; *mum
 Hearing that unpalatable speech of her beloved husband, Seetha who used to hear
 pleasing words alone, was very much trembled for long, like a creeper attacked by the proboscis of
 an elephant and thereupon shed tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga115/yuddhasans115.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

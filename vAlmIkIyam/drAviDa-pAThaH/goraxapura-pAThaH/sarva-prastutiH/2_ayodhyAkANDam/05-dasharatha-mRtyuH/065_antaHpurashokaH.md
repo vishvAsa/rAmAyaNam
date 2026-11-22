@@ -18,8 +18,6 @@ the king. Some women, who were empowered to go near the bed, detected the king's
 crying loudly. Kausalya and Sumitra suddenly woke up from their slumber and came to know of the
 king's death. All the wives of Dasaratha wept miserably. The gynaecium was filled with men and
 women who felt bewildered with fear and restlessness; when the king met with his appointed end.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -100,8 +98,6 @@ While the night passed away, there arrived at the residence of the emperor, at t
 dawn of the next day, highly cultured and excellently learned bards who were pronouncers of
 benedictions and whose custom was to eulogize the king, as well as singers and panegyrists uttering
 recitations in different styles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -148,8 +144,6 @@ pronouncing accolades; *raajaanan* = of the king; *aavartatahi* = pervaded;
 
 Their sounds of praises, uttering benedictions in a loud voice and pronouncing
 accolades of the king, pervaded in full the interior area of the palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -196,8 +190,6 @@ of claps; *avaadayaan* = pronounced claps; *udaahR^itya* = illustrating;
 
 While those bards are uttering praises, others who make a bang of claps, patted the
 claps, eulogizing the previous glorious acts of Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ shabdena* = by that sound; *visasvanuH* = began to twitter.
 
 The birds dwelling in royal palaces perched on the branches of trees and others in
 cages were awakened by that sound and began to twitter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -292,8 +282,6 @@ uttered; *nissvanaaHcha* = and the notes; *viiNaanaam* = of Vina;
 
 The auspicious words uttered by bards parrots etc and the notes of Vina as well as
 blissful songs of the metric verses filled that palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ of whom were women and eunuchs ; *upatasthuH* = arrived to serve(the king).
 
 Then, as before, persons who maintain pure practices and those who were skilled in
 the services to the king, most of whom were women and eunuchs, arrived there to serve the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -389,8 +375,6 @@ according to the set procedures.
 
 Those who took care of royal ablutions brought water sprinkled with yellow sandal in
 golden pitchers in accordance with appropriate time and the set procedures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -440,8 +424,6 @@ _________________
 
 In that manner, women too most of whom were virgins brought all that were pleasing
 to the touch, eatables, decorative clothing and ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -489,8 +471,6 @@ extremely graceful.
 
 All that was brought near him was endowed with all auspicious characteristics
 offered with reverence as per prescribed scriptures. All that was extremely graceful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -537,8 +517,6 @@ king; *upashaNkitam* = with a suspicion; *kim svit iti* = as to what was it;
 
 All that retinue, greatly excited as they were, without coming near to the king and
 with a suspicion as to what was it, stayed thus till sunrise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -588,8 +566,6 @@ approached; *bhartaaram* = their lord; *pratyabodhayan* = and woke him up.
 
 The women who were empowered to go near the bed of Dasaratha went in proximity to
 him and woke him up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -637,8 +613,6 @@ api* = anything either.
 
 Even so, those modest and prudent women with proper conduct, touched Dasaratha's bed
 and could not detect any sign of life whatsoever in him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -689,8 +663,6 @@ possessed of tremor; *samchakaashire* = and were revealing;
 Those women knew the condition of a body in sleep, by its gestures, movements and
 others. As such, they were possessed of tremor apprehensive as they were about the king's life and
 they resembled like tips of reeds standing against a stream.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -740,8 +712,6 @@ apprehended.
 
 Now, seeing the king, certainty arose in the minds of those doubting women about the
 calamity (of death) that was apprehended.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -782,8 +752,6 @@ were completely possessed of death.
 
 Overpowered by grief for their sons, the slumbering Kausalya and Sumitra did not
 wake up, as though they were completely overtaken by death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -830,8 +798,6 @@ wake up, as though they were completely overtaken by death.
 
 Kausalya bereft of luster, pale faced, emaciated with grief and dispirited, did not
 shine brightly (as before) like a star hidden away in darkness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -878,8 +844,6 @@ before); *shokaashru lulitaananaa* = with her face ruffled by tears of grief.
 
 The queen Kausalya, immediately close to the king and with Sumitra on her side, was
 not shining as before with her face ruffled by tears of grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -927,8 +891,6 @@ sleeping.
 
 The persons in the gynaecium, having seen those distinguished queens in slumber and
 also the king in that manner, thought that the king had lost his life while just sleeping.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -979,8 +941,6 @@ voice; *kareNavaH iva* = like female elephants crying; *sthaana prachyuta yuutha
 Then, those beautiful women miserably cried loudly with their voice, like female
 elephants crying when their group leader an elephant was removed from their place in the
 forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -1027,8 +987,6 @@ relieved of sleep.
 
 Kausalya and Sumitra suddenly obtained consciousness by the sound of their cries and
 woke up from sleep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -1075,8 +1033,6 @@ and fell; *dharaNiitala* = on the ground.
 
 Kausalya and Sumitra, on seeing and touching king Dasaratha, cried �O, Lord!' and
 fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -1126,8 +1082,6 @@ a star; *chyutaa* = slipped down; *gaganaat* = from the sky.
 
 Rolling on the floor and covered by dust, Kausalya the daughter of Kosala king was
 not shining as before and resembled a star falling down from the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -1175,8 +1129,6 @@ killed (and felled on ground).
 
 While the king was deceased, all the women saw Kausalya who fell on the floor
 appearing as a female elephant, which was killed and felled on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -1220,8 +1172,6 @@ others; *sarve* = all; *narendrasya* = the king`s; *striyaH* = women;
 
 Kaikeyi and all other wives of king Dasaratha were weeping afflicted by grief and
 fell unconscious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -1262,8 +1212,6 @@ which; *tat* = that; *gR^iham* = house;
 
 That great noise was supplemented by those wailing women, bloated by which, it
 rendered the house all the more noisy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -1322,8 +1270,6 @@ That gynaecium of the king who met his appointed end was filled with people who 
 bewildered with fear and restlessness, with tumultuous wail all around, and crowded with relatives
 disturbed by sorrow, with happiness withered away in it suddenly and became a sight of misery and
 despondency.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 </details>
 
@@ -1384,8 +1330,6 @@ _________________
 Knowing that the glorious king of excellence had passed away, the king's wives
 surrounded him with great sorrow; pitiably wailing profusely and lamented, grasping their hands one
 another, like orphans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga65/ayodhyasans65.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

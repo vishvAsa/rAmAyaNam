@@ -19,8 +19,6 @@ Rama and the other two on their way to Panchavati come into contact with Jatayu,
  eagle. When Rama questions about its identity, Jatayu narrates the creation of animal species
  along with humans, and informs Rama that he is a friend of King Dasharatha and would like
  to help Rama in exile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ bodied, with marvellous, might; *gR^idhram aasasaada* = an eagle he reached, cam
 
 Then while proceeding to Panchavati that Rahu's descendent came across a mammoth eagle with marvellous
 might in midway. [3-14-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ they presumed.
 
 On seeing such an eagle in the forest those two highly privileged brothers Rama and Lakshmana questioned
 it asking, "Who you are?" presuming it to be a demon. [3-14-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ Rama; *maam aatmanaH pituH vayasyam viddhi* = me, of your, father's, friend , th
 
 But that eagle with sweet ad soft words spoke to them as though to please them, "oh boy Rama know me
 as your father's friend." [3-14-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ asked for.
 
 Accepting that bird as his father's friend Raghava revered it, and he that Rama then asked for that
 eagle's name and lineage. [3-14-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ sarva bhuuta sam udbhavam* = reg. all, beings, overall, genesis; *kulam aatmaana
 
 On hearing Rama's words that bird said about his ancestry and himself, and in doing so, that eagle also
 narrated the overall genesis of all beings. [3-14-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -314,8 +302,6 @@ you may listen.
 
 "Once upon a time there were lords of people, oh dextrous Raghava, and you may listen all about them
 from the beginning, while I narrate [3-14-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -421,8 +407,6 @@ also, great resplendent; *teSaam aasiit pashcimaH* = of them, was there, the las
 and a vigorous one he was. Then Sthaanu, Mariichi, Atri, the great mighty one Kratu, Pulasthya, Angira,
 Pracheta and Pulah were there. And oh, Raghava, Daksha, Vivaswan were while the other name of Vivasvan
 is Arishtanemi, and lastly the great resplendent Kashyapa, was there as Prajapati. [3-14-9] [3-14-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -469,8 +453,6 @@ ones; *babhuuvuH iti vi shrutam* = were there, thus, we hear.
 **अनुवादः**
 
 "Oh glorious Rama, there were sixty highly renowned daughters to Daksha, thus we hear. [3-14-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -527,8 +509,6 @@ waisted ones, has accepted.
 
 "Of them Kashyapa accepted eight slender-waisted daughters of Daksha Prajapati, namely Aditi, Diti,
 Danu, Kaalakaa and Taamra, Krodhavasha, also thus Manu and even Anala also as wives. [3-14-11, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 
 </details>
@@ -579,8 +559,6 @@ of, indeed; *mat samaan putraam janayiSyatha* = sons, to me, similar, you delive
 
 "Then Kashyapa is gladdened and said to those young wives, "You all shall deliver sons similar to me
 and who can sustain the three worlds." [3-14-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -627,8 +605,6 @@ became;.
 
 "Oh, dextrous Rama, Aditi, Diti, Kaalakaa and Danu have agreed for that, but others became unheedful
 of Kashyapa's words. [3-14-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -677,8 +653,6 @@ three, gods, are born; *parantapa* = oh enemy-oppressor.
 
 "Aditi gave birth to twelve Aditya-s, the Sun-gods, eight Vasu-s, the Terrestrials-gods, eleven Rudraa-s,
 the Fury-gods, and two Ashvinis, the medicine-gods, total thirty-three of them. [3-14-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -726,8 +700,6 @@ was there.
 
 "Oh, boy Rama, Diti gave birth to well-known Daitya-s, the so-called demons, and earlier this earth
 with forests and oceans belonged to them. [3-14-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -773,8 +745,6 @@ Kaalaka, also thus; *kaalakaa api vyajaayata* = Kaalakaa, even gave birth to.
 
 "And oh, enemy-destroyer Rama, Danu gave birth to son Ashvagriiva or also called Hayagriiva, Horse-headed
 god, and Kaalakaa gave birth to Naraka and Kaalaka. [3-14-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -825,8 +795,6 @@ to five, girls, gave birth.
 
 "But Taamraa gave birth to five world renowned girls namely, Krounchi, Bhaasii, Shyenii, Dhritaraashtrii,
 and Shukii. [3-14-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -885,8 +853,6 @@ water-birds.]
 Kraunchii gave birth to Uluuka-s, the owls, Bhasii-s gave birth to Bhaasaa-s, the vultures, and Shyenii
 gave birth to very sharp eagles and falcons, and then Dhritaraashtrii gave birth to swans and all other
 kinds of graceful water-birds. [3-14-18b, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -932,8 +898,6 @@ gave birth, to Nata; *nataayaaH sutaa vinataa* = Nata's, daughter, is Vinata.
 
 "Dhritaraashtrii gave birth even to Chakravaaka water-birds, and Shukii gave birth to a daughter Nata,
 and Nata's daughter is Vinata. [3-14-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -995,8 +959,6 @@ dasha* = self-same, ten [daughters.]
 "Oh, Rama, Krodhavasha gave birth to ten of her self-same daughters namely Mrigi, Mrigamanda, Hari,
 Bhadramanda, Maatangii, Sharduulii, Shweta, Surabhii, and like that to Surasa, who is embodied with
 all giftedness, and even to Kadruva. [3-14-21, 22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1043,8 +1005,6 @@ oxen; *tathaa* = like that.
 
 "Children Mrigi are all of the the deer, oh best of the best-men, Rama, and Mrigamnda's progeny is Riksha-s,
 Bears, a kind of antelope, and like that the Himalayan yak like species.[3-14-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1093,8 +1053,6 @@ sutaam* = to Iravati, named, daughter; *tasyaaH putraH airaavataH* = her, son is
 
 "Then Bhadramanda gave birth to the girl named Iravati and her son is elephant the great, Airaavata,
 the protector of world. [3-14-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1140,8 +1098,6 @@ the protector of world. [3-14-24]
 
 "And Hari's offspring are lions and sagely/mighty monkeys, while Sharduulii gave birth to baboons and
 tigers. [3-14-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1190,8 +1146,6 @@ dishaa gajaam* = Shweta, gave birth, to sons, at quarters, elephants; = .
 
 "Then Maatangi's childrenm are elephants, oh, best one among men, Rama, and Shweta gave birth to eight
 elephants that are at eight quarters of world, sustaining the world on their head. [3-14-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1237,8 +1191,6 @@ named, illustrious one; *gandharviim ca* = Gandharvii, also; *vi ajaayata dve du
 
 "Then, oh Rama, Surabhi gave birth to two daughters, one is named as illustrious Rohini, safe you
 be, and the other is Gandharvi. [3-14-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1285,8 +1237,6 @@ also, to [ordinary] serpents.
 
 "Rohini gave birth to cows and other livestock, while Surasa gave birth to Naagaa-s, viz., many headed
 serpents, while Kadru gave birth to ordinary serpents. [3-124-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1339,8 +1289,6 @@ humans.
 
 "Oh, the best among men Rama, the wife of great-soul Kashyapa, lady Manu procreated humans, Brahman--s,
 Kshatriya-s, Vyasya-s, and Shudra-s. [3-14-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1389,8 +1337,6 @@ from scriptures [Veda-s.]
 "The Brahman-s emerged from face, the Kshatriya-s from chest, the Vyasya-s from two thighs, and the
 Shudra-s from two feet, thus we hear from the scriptures viz., Veda, i.e., Rig Veda Purusha Shuukta.
 [3-14-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1437,8 +1383,6 @@ Kadru, also, Surasa's, sister; I will narrate.
 
 "All the merited fruit-bearing trees are given birth by Anala, and now I will narrate about Vinata,
 the daughter's daughter of Shukii, and about Kadru, the sister of Surasa. [3-14-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1492,8 +1436,6 @@ Garuda is the eagle-vehicle of Lord Vishnu, while Aruna, also called Anuuru, for
 being, is the charioteer of Sun's seven-horse chariot. The seven horses of Sun's chariot are the seven
 colours in vibgyor as in a rainbow. Aruna and Garuda are of avian origination and attributed to be the
 speediest propellers, and Jatayu and Sampati belong to that lineage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1541,8 +1483,6 @@ agrajaH* = Sampaati, is my, elder brother; *shyenii putram* = Shyeni's, son; *ma
 
 "Oh enemy-destroyer Rama, I took birth from that Aruna, the charioteer of Sun, and my elder brother
 Sampati too, hence know me as Jatayu, the son of Shyenii. [3-14-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1595,8 +1535,6 @@ forest is; *mR^iga raakshasa sevitam hi* = by predators, demons, beloved to, isn
 "Such as I am, I can be your helpmate at your residence if only you wish me to... oh, boy, this impassable
 forest is a beloved one to predators and demons, isn't it... as such I can take care of Seetha if you
 and Lakshmana go out..." Thus Jatayu said to Rama. [3-14-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1656,8 +1594,6 @@ heard of [he is regardful,] indeed.
 Raghava revered Jatayu in his turn by gladly hugging and stood by him with his head bent, and that kind-natured
 Rama is indeed regardful of the friendship of his father with Jatayu that is repeatedly said by Jatayu.
 [3-14-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 </details>
 
@@ -1713,8 +1649,6 @@ jagaama* = proceeded.
 He that Rama took the princess from Mithila Seetha, and proceeded to Panchavati along with that very
 mighty bird and Lakshmana, as though to incinerate enemies, like fire that burns down grasshoppers.
 [3-14-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

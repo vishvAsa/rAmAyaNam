@@ -19,8 +19,6 @@ of his asceticism, he could know everything about the exploits of Rama from the 
 Ayodhya, till he destroyed Ravana. Then, Rama seeks a boon from Bharadwaja, asking him to make the
 trees on the route to Ayodhya, to bear fruit in the off-season for which the sage grants the boon.
 Thereupon, the troops of monkeys feasted on those fruits at will.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ After completion of fourteen years of his exile and on the fifth day of the brig
 half of the lunar month of Ashvayuja (roughly corresponding to the month of September), Rama, who
 was disciplined even now, reaching the hermitage of the sage Bharadwaja, offered his salutation to
 the sage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ Having offered his obeisance to Bharadwaja, who was rich in asceticism, Rama
 enquired (of him): "Have you heard, O venerable one, of Ayodhya City having an abundance of food
 and free from disease? Is that Bharata attentive in his rule? I hope my mothers are still
 alive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ quite rejoiced as he was; *pratyuvaacha* = replied; *smitapuurvam* = with a smil
 
 Hearing the words of Rama, Bharadwaja the great sage, quite rejoiced as he was,
 smilingly replied to Rama (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ are; *kshalam* = safe; *gR^ihe* = at your home and in the city.
 "Bharata, with his mud-smeared limbs 9throwing the burden and blame ie. mud and with
 matted locks, as also placing your wooden-sandals before him, is looking forward for your arrival.
 All are safe at your home and in the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -292,8 +282,6 @@ having renounced all your possession, with your spouse (Seetha) as the third (of
 Lakshmana and yourself), resolved in carrying out the behest of your father and intent on
 implementing the pledge given (by your father) to Kaikeyi and living on wild roots and fruits, pity
 arose in me earlier."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -336,8 +324,6 @@ friends and relatives.
 "But now, a great delight occurred to me, on seeing you, having fulfilled your
 purpose, that you have conquered your enemies and are accompanied by your host of friends and
 relatives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -384,8 +370,6 @@ joy and sorrow; *tvayaa* = by you; *raaghava* = o Rama!
 
 "That joy and sorrow experienced by you in abundance while residing in
 Janasthana-forest in completely known to me, O Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ the interest of Brahmanas; *aninditaa iyam* = this irreproachible wife of yours;
 
 "While you were busy in protecting all the ascetics who prayed you for safeguarding
 the interests of Brahmanas, this irreproachable wife of yours was taken away by Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -547,8 +529,6 @@ arrogant of his might, was killed in battle, with his sons kinsfolk and his mini
 happened, how a boon was conferred by them on you- all this is known to me by virtue of my
 asceticism. My disciples, who were accustomed to report to me the news, used to go to Ayodhya-City
 from here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -564,8 +544,6 @@ far superior; *svargaadapi* = to even the heaven.
 
 "The friends, the riches and the grains are highly honoured in this world. Mother
 and mother-land are far superior to even the heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -608,8 +586,6 @@ following boon:
 Bowing to the aforesaid statement of the sage with his head bent low, highly pleased
 as he was and saying, "By all means" the glorious prince (Rama) asked of him the following
 boon:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -666,8 +642,6 @@ abundant fruits of various kinds; *amR^itagandhiini* = and emitting the fragranc
 "O venerable sir! Let all the trees on the way, even as I fly to Ayodhya, bear fruit
 even in the off-season and flow with honey. Let abundant fruits of various kinds, emitting the
 fragrance of nectar, appear on them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -708,8 +682,6 @@ trees.
 
 Once the consent of the sage was given in the words "be it so", the trees there grew
 to be closely like the heavenly trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -764,8 +736,6 @@ Then, for an extent of three Yojanas (twenty four miles) on all sides, in the
 direction of their travel, the trees that no longer bore fruit, were laden with fruit and those
 which had ceased to blossom looked charming with blossom. The withered trees were fully clothed
 with foliage and further began to flow with honey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 </details>
 
@@ -819,8 +789,6 @@ divyaani phalaani* = of many of those wonderful fruits.
 
 Highly rejoiced who had conquered the heaven, those monkey-chiefs thereupon consumed
 at will, thousands of many of those wonderful fruits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

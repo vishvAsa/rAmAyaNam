@@ -19,8 +19,6 @@ that Seetha was killed by Indrajit, Rama fell into a swoon. Telling Rama the sec
 trick practiced by Indrajit in killing an illusory image of Seetha, Vibhishana assures him of
 Seetha being still alive and urges him to send Lakshmana with an army to the sanctuary of
 Nikumbhila.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ of his army; *svasthaane* = in their respective positions; *aagachchhat* = arriv
 
 While Lakshmana, who was so fond of his brother, was consoling Rama, Vibhishana,
 keeping the troops of simian army in their respective positions, arrived there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -152,8 +148,6 @@ That Vibhishana, surrounded by four warriors, wielding many types of weapons, an
 who were chiefs of troops, looking like heaps of black collyrium and who were appearing like
 elephants, approached Lakshmana who was totally engrossed in sorrow and saw the monkeys also, whose
 eyes were filled with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -194,8 +188,6 @@ lap; *lakShmaNasya* = of Lakshmana.
 
 Vibhishana also saw the great-souled Rama, the delight of Inkshvaku dynasty fallen
 into a swoon and resting on the lap of Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -236,8 +228,6 @@ that Vibhishana; *diinaatmaa* = distressed in spirits; *duHkhena* = with agony;
 
 On seeing the embarrassed Rama, tormented with grief, that Vibhishana, distressed as
 he was in spirits, with agony inside, asked him, "What is this?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -288,8 +278,6 @@ meaning.
 
 Fixing his gaze on Vibhishana's face and looking at Sugreeva and those monkeys,
 Lakshmana with tears pouring down, spoke the following words, with a splendid meaning:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -336,8 +324,6 @@ Seetha; *hataa* = was killed; *indrajitaa* = by Indrajit; *raaghavah* = Rama;
 
 "O gentle Sir! Just on hearing through the words of Hanuma, saying that Seetha was
 killed by Indrajit, Rama entered into a swoon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -399,8 +385,6 @@ unconscious.
 
 Intercepting the narrating Lakshmana in the middle, Vibhishana spoke the following
 amply meaningful words to Rama, who was in an unconscious state.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -417,8 +401,6 @@ the sea.
 
 "I hold that which you have been told by Hanuma with a sorrowful temper, O ruler of
 men, to be absurd as the drying up of the sea."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -459,8 +441,6 @@ men, to be absurd as the drying up of the sea."
 
 "O the long armed! I know the design of the evil-minded Ravana towards Seetha. He
 would never do the killing of Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -501,8 +481,6 @@ iti* = to give up; *vaidehiim* = Seetha; *na kR^itavaan* = he did not heed;
 
 "Eventhough begged by me, the well-wisher, several times to give up Seetha, he did
 not heed that advice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -551,8 +529,6 @@ kenachit* = by any other strategy.
 "It is neither possible even to see her by recourse to conciliation nor by bestowing
 gifts nor by sowing dissention. How is it possible then by a war? By any other strategy, it is
 impossible."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -593,8 +569,6 @@ killed by him); *maayaamayiim* = as unreal.
 
 "That Indrajit for his part retracted, by hoodwinking the monkeys. O the long armed!
 Know that Seetha (who was seemingly killed by him) as illusory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -651,8 +625,6 @@ duraadharShaH* = will prove difficult to be overcome; *samgraame* = in battle;
 "After reaching a sanctuary by name Nikumbhila, this Indrajit will pour oblations
 into the sacred fire. On returning after pouring oblations into the sacred fire, Indrajit will
 prove difficult to be overcome in battle, even by celestials including Indra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -701,8 +673,6 @@ the monkeys; *tatra* = there.
 "Certainly, this conjuring trick (in the form of killing an illusory living effigy
 of Seetha) was exhibited by him, who was employing his magical art, expecting interruption by the
 prowess of the monkeys there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -775,8 +745,6 @@ into despondency.
 "While the sacrificial performance is not ended, we shall proceed to that place,
 along with an army. O the foremost of men! Give up this improper grief, which has come upon you.
 Seeing you tormented with grief, the entire army is sinking into despondency."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -792,8 +760,6 @@ us; *sainyaanukarShibhiH* = who are summoning an army.
 
 "Very exalted as you are in courage, stay you here, confident at heart, and send
 Lakshmana with us, who are taking an army along with us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -834,8 +800,6 @@ prince; *raavaNim tyaajayiShyati* = can make Indrajit abandon; *tat* = that;
 
 "This Lakshmana, the eminent prince, can make Indrajit abandon that act of
 sacrifice, by employing his sharp arrows. Then, he will be susceptible of being killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -885,8 +849,6 @@ of the wings of a bird; *paasyanti* = can drink; *tasya shoNitam* = his blood;
 
 "Lakshmana's arrows, which are sharp and fiery, with a speed equal to the wings of a
 bird, can drink his blood like cruel birds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -931,8 +893,6 @@ Indrajit.
 
 "O the long-armed one! Therefore, dispatch Lakshmana having auspicious body-marks
 even as Indra the lord of celestials employed the thunderbolt to kill Indrajit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -988,8 +948,6 @@ madhane* = (hurl his thunderbolt) to destroy the enemies of celestials.
 "O the best of men! It is not appropriate to delay the killing of the enemy any
 further now. Therefore, grant permission to Lakshmana to destroy the enemy, as Indra would hurl his
 thunderbolt to destroy the enemies of celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 </details>
 
@@ -1045,8 +1003,6 @@ indeed be invisible; *suraasuraiH* = to celestials and demons; *samara* = in bat
 "If that Indrajit, the foremost of demons completes the sacrifice, he would not be
 visible even to the celestials and the demons in battle. If he come with a desire to fight, after
 ending that sacrifice, the celestials also will feel a great suspicion on their own lives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

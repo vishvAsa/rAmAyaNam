@@ -18,8 +18,6 @@ Angada informs Sampaati of their plight in searching for Seetha. As a part of it
 also details the plight of Rama. He explains that Seetha is unseen even after their meticulous
 search, thereof they transgressed the order of Sugreeva, thereby they did not return to Kishkindha,
 and therefore they resorted to fast-unto-death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ disbelieved Sampaati.
 Though Sampaati's voice is turned husky by his sadness for the demise of his brother
 Jataayu, the monkey commanders doubtingly disbelieved neither him nor even his words by the fact of
 his being an eagle intending to kill and eat up all the monkeys. [4-57-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ eagle.
 On seeing the eagle those fly-jumpers who sat for fast-unto-death have become
 furious at the eagle thinking that, "that eagle wishes to eat up all of us..." Thus, the monkeys
 deliberated the eagle's words. [4-57-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ achieved.
 "We are sitting for fast-unto-death and if that eagle wishes eat us let it be so...
 then our deliverance will be achieved in anyway and we will go to heaven from here..." Thus, some
 other monkeys gave thought to lower that eagle down. [4-57-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -224,8 +216,6 @@ angadaH* = then, Angada; *aaha* = spoke to it.
 
 When all of the monkey chiefs made up their mind in this way, then some of them on
 going to the mountaintop brought that eagle down, and then Angada spoke to the eagle. [4-57-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -289,8 +279,6 @@ king, he became.
 outstanding monkey among all monkeys, was the king of monkeys. He has two generous and great mighty
 sons namely Vali and Sugreeva. My father Vali was highly renowned in the world for his bold acts,
 and he became the king later to my grandfather... [4-57-5, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -353,8 +341,6 @@ praviSTaH* = Dandaka, forest, moved into.
 peerless person, and he is the son of Dasharatha, namely Rama, and abiding by his father's
 directives and opting for righteous course of conduct, he moved into Dandaka forests along with his
 brother Lakshmana and even with his wife Vaidehi... [4-57-7, 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -412,8 +398,6 @@ abducted, princess from Videha kingdom; at Seetha; *dadarsha* = saw.
 "Ravana forcibly abducted his wife from Janasthaana, namely Seetha, the princess
 from Videha kingdom, and a kingly eagle named Jataayu, who is a friend of Rama's father Dasharatha,
 has seen her while she was being abducted by skyway. [4-57-9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -430,8 +414,6 @@ abduction]; *pari shraantaH ca* = overly, tired, also; *vR^iddhaH ca* = being ol
 "Jatayu is overly tired when he made Ravana's chariot defective and withheld
 Maithili from abduction as he is senescent, then Ravana killed him in that conflict... [4-57-10b,
 c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -478,8 +460,6 @@ api* = by Rama, solemnised by [performed], obsequies, also, even; *uttamaam gati
 
 "Thus that eagle was killed by that mighty Ravana, but solemnised by the obsequies
 performed by Rama, he departed on a sublime avenue to heavens... [4-57-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ with; *mama pitraa viruddhaH* = with my, father, antagonised; so my father inter
 autocrat, and Sugreeva got my father killed. Since Sugreeva antagonised my father, my father
 interdicted him along with his ministers, and Rama killed my father Vali and anointed Sugreeva...
 [4-57-12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -601,8 +579,6 @@ vayam prasthaapitaa* = by him, we all are, expedited.
 
 "Rama enthroned Sugreeva as the ruler of all vanara-s and that king of all vanara
 chiefs expedited all of us... [4-57-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -649,8 +625,6 @@ we attained.
 
 "Though we are spearheaded by Rama and though we searched thereabouts for Vaidehi at
 the behest of Sugreeva, as with a nightly sunshine Vaidehi is unattainable for us... [4-57-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -698,8 +672,6 @@ have.
 
 "Such as we were we searched Dandaka forest very meticulously, but we unwittingly
 entered into a wide-opened Black Hole of the earth... [4-57-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -749,8 +721,6 @@ crafted; *tat bilam vicinvataam* = that, hole, while searching; *naH* = for us;
 
 "During our search in that Black Hole, which was crafted by the wizardry of demon
 Maya, the month fixed by our king for our return has been elapsed... [4-57-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -798,8 +768,6 @@ owing to fear [from Sugreeva,] fast-unto-death, we sat down.
 "We who are all supposed to execute the order of our king, we have exceeded the
 established norm of timeframe, and for fear of fury from our king Sugreeva we sat down for
 fast-unto-death... [4-57-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 </details>
 
@@ -847,8 +815,6 @@ infuriated; *tatra* = there [to Kishkindha]; *gataanaam api* = on going, even;
 "When Rama along with Lakshmana, and even Sugreeva will be infuriated by our
 infringement of time, and even on our going to Kishkindha, as infringers there will be no survival
 for all of us..." Thus Angada narrated their plight to Sampaati. [4-57-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

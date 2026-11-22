@@ -17,8 +17,6 @@ Rama instructs Lakshmana to arrange for the installation of Vibhishana on the th
 Lakshmana arranges to get sea-water from some monkey-chiefs and sprinkles it on vibhishana, to
 instal him as the King of Lanka, in the presence of the demons there. Then, Rama sends his message
 to Seetha through Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ kathaaH* = about the auspicious narratives.
 
 Having seen the destruction of Ravana, those gods, celestial musicians and demons,
 while chatting about the auspicious narrative, went away in their respective aerial cars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ Chatting themselves about the awful destruction of Ravana, the terrific prowess 
 Rama, the admirable combat of the monkeys, the counsel tendered by Sugreeva, the affection and
 valour of Lakshmana; the son of Sumitra; the loyaltyof Seetha to her husband and about the strength
 of Hanuma, the illustrious celestials and others rejoicingly returned as they had come.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ Matali.
 
 Taking leave of the celestial chariot, which had been given by Indra the lord of
 celestials and which shone like fire, the mighty armed Rama respectfully saluted Matali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -229,8 +221,6 @@ mounting; *divyam tam ratham* = that celestial chariot; *utpapaata* = ascended;
 
 As assented by Rama, Matali Indra's charioteer, mounting that celestial chariot,
 ascended to the heaven itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -278,8 +268,6 @@ ascended to the heaven itself.
 
 When Matali ascended to heaven along with his chariot, Rama, the foremost one among
 the chariot-warriors was highly rejoiced and embraced Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -327,8 +315,6 @@ stationed.
 
 Having embraced Sugreeva greeted by Lakshmana and having been honoured by the
 monkey-troops. Rama came to the camp where the army had been stationed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ auspicious marks; *samiipa parivartanam* = who stayed nearby.
 
 Then, Rama spoke (as follows) to Lakshmana, son of Sumitra, who was endowed with
 strength and having auspicious marks, who stayed nearby.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -392,8 +376,6 @@ to us.
 "O the benevolent Lakshmana! Consecrate on the throne of Lanka, this Vibhishana to
 whom everyone is attached, a loyal person as he is and the one who has formerly done a service to
 us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -437,8 +419,6 @@ Ravana; *abhiShiktam* = being consecrated for throne; *laN^kaayaam* = in Lanka.
 
 "O gentle one! This s my paramount desire that I should see this Vibhishana, the
 brother of Ravana being consecrated for throne in Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -483,8 +463,6 @@ procured; *sauvarNam* = a golden; *ghaTam* = pot.
 
 Hearing the words of the great soled Rama, Lakshmana replied, 'so it be' and
 rejoicingly procured a golden pot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -501,8 +479,6 @@ sea-water.
 
 That mighty Lakshmana, then placing that pot in the hands of the monkey-chiefs,
 instructed them, who were as swift as thought, to bring sea-water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -543,8 +519,6 @@ obtained; *jalam* = the water; *samudraat* = from the sea.
 
 Thereupon, those excellent monkeys, with the swiftness of thought, moving very
 quickly from that place, returned, having obtained the water from the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -613,8 +587,6 @@ Thereupon, Lakshmana together with his friends, taking one pot and making Vibhis
 to sit on the throne, sprinkled him with sea-water from that pot in accordance with the rule
 prescribed in Vedic scriptures, while the demons were witnessing the ceremony, to make him the king
 for Lanka, as directed by Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -630,8 +602,6 @@ ordinary delight; *tuShTuvuH* = (they) eulogized; *raameva hi* = Rama indeed.
 
 Then, all the demons as well as the monkeys consecrated Vibhishana. Having gained
 extra ordinary delight, they indeed eulogized Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -686,8 +656,6 @@ to him; *jahR^iShire* = were rejoiced.
 Seeing Vibhishana the lord of demons consecrated for the throne of Lanka, his four
 counsellors who were always together with him and such of those demons who were devoted to him,
 were rejoiced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -704,8 +672,6 @@ greatly delighted).
 
 Rama together with Lakshmana were greatly delighted. That Vibhishana, having gained
 that great kingdom bestowed on him by Rama, was also greatly delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -776,8 +742,6 @@ After consoling his people, Vibhishana then sought to presence of Rama. Now, the
 demons who were residing in the city were quite delighted and brought to him (by way of presents)
 curds, unbroken grains of rice, sweets shaped like balls, parched grains of unhusked rice and
 flowers too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -822,8 +786,6 @@ objects; *raaghavaaya* = to Rama; *lakShmaNaaya* = and to Lakshmana;
 
 Accepting them, the valiant and unconquerable Vibhishana happily offered all those
 auspicious objects to Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -868,8 +830,6 @@ to him.
 
 Seeing Vibhishana, who had accomplished his act and increased his resources, Rama
 accepted it all, with a sole desire to show gratefulness to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -918,8 +878,6 @@ his palms joined together for salutation.
 Thereupon, Rama spoke the following words to the valiant Hanuma the monkey who was
 equal in size to a mountain and who was standing in humility, with his hands joined in
 salutation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -967,8 +925,6 @@ Seetha.
 
 "O the benevolent one! Taking permission from this Vibhishana, the great king and
 entering into the City of Lanka, inform about our welfare to Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 </details>
 
@@ -1022,8 +978,6 @@ in battle.
 
 "O Hanuma, the proficient one in speech! Inform Seetha that myself together with
 Lakshmana and Sugreeva are well and that Ravana had been killed in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1039,8 +993,6 @@ taking back; *samdesham* = her message.
 
 "O Hanuma the master of monkeys! Making clear this favourite news to Seetha, you
 ought to return, taking back her message."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

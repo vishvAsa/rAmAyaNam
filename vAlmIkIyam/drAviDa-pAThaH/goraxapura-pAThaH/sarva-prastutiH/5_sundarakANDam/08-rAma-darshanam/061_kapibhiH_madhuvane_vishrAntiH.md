@@ -19,8 +19,6 @@ halt at Madhuvana, a protected grove abounded in honey which was dear to Sugreev
 monkey, Dahimukha. When the monkeys started to enjoy drinking of honey in the grove with the permission
 of Prince Angada, Dahimukha hinders in their way. The monkeys bruise Dadhimukha with their nails and
 teeth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ teeth.
 
 Thereupon, the heroic monkeys like Angada and others as also Hanuma, the great one among
 the monkeys accepted the words of Jambavan.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -217,8 +213,6 @@ to fulfill the purpose of Rama and to attain a great glory, having accomplished 
 determined to complete the task. All of them were looking up at narrating the previous pleasant tidings
 and taking delight in war. All of them, in high spirits, were judging rightly the vengeance of Rama
 against the evil-minded Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -268,8 +262,6 @@ the divine grove; *druma lataa yutam* = filled with trees and creepers.
 
 Then, those monkeys, leaping into the sky and floating in the air, reached a garden looking
 like Nandanavana the divine grove filled with trees and creepers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -316,8 +308,6 @@ for all beings.
 
 They reached, that Madhuvana by name, the garden abounded with honey, which was protected
 grove, unapproachable for all and looking fascinated to the soul of all beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -367,8 +357,6 @@ called Dadhimukha; *yat* = who was; *mahaatmanaH* = a high-souled; *kapiH mukhas
 
 A very powerful monkey called Dadhimukha, who was a high-souled eminent monkey and the
 maternal uncle of Sugreeva always protected that garden.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -418,8 +406,6 @@ _________________
 
 Reaching that huge grove, which was very dear to the heart of Sugreeva, those monkeys
 became highly excessive in their behaviour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -468,8 +454,6 @@ for tastes of honey.
 Then, seeing that large Madhuvana, the garden abounded in honey, those monkeys, whose
 colour was as yellow as honey, were delighted and solicited Angada the prince for permission to taste
 the honey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -516,8 +500,6 @@ the honey.
 
 Thereupon, Angada the prince, taking approval from those elders like Jambavan and others,
 gave the monkeys a liberty to drink honey there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -567,8 +549,6 @@ and became; *pranR^ityantaH* = gesticulated in dancing.
 
 Thereafter, all those monkeys, thus permitted to drink honey, were exceedingly pleased.
 Then, those excited monkeys felt glad and began dancing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -626,8 +606,6 @@ incoherently.
 Some were singing. Some were offering salutations. Some were dancing. Some were laughing
 loudly. Some were falling down. Some were moving in different directions. Some were jumping up. Some
 were talking incoherently.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -682,8 +660,6 @@ parasparam* = one another; *kechit* = some; *upaakramante* = were falling upon;
 
 Some were leaning against one another. Some were falling upon one another. Some were
 disputing with one another. Some were playing with one another.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -744,8 +720,6 @@ the ground.
 Some were running from one tree to another. Some were falling down to the ground from
 the tree-tops. Some, with a missile-like speed, were flying towards the tops of gigantic trees from
 the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -805,8 +779,6 @@ one was weeping; *anyaH* = another; *upaiti* = approached him; *praNudan* = push
 While one was singing, another approached him laughing. While one was laughing, another
 approached him weeping. While one was weeping, another approached him pushing. While one was pushing,
 another approached him roaring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -865,8 +837,6 @@ mattaH babhuuNa iti na* = was not drunk; *na kachichit* = now; *atra* = in that 
 
 That army of monkeys, moving in excessively honey-drunken state, became highly excited.
 None in that army was not drunk. None in that army was not satiated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -925,8 +895,6 @@ naamaa* = named Dadhimukha; *tataH* = then; *kopaat* = by anger; *nivaarayaamaas
 
 Seeing that grove, being consumed and the trees stripped off their leaves and flowers
 the monkey named Dadhimukha (who was incharge of the grove) then angrily interrupted those monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -987,8 +955,6 @@ means; *rakSaamprati* = about the protection; *vanasya* = of the grove; *vaanare
 Threatened by those monkeys who were behaving excessively, Dadhimukha who was endowed
 with a terrible energy, the care-taker of the grove and an elderly hero of the monkeys further contemplated
 the means to protect that grove from the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -1048,8 +1014,6 @@ collusion with them; *tathaiva* = in like manner; *upajagaama* = he approached; 
 
 He spoke harsh words with some and courageously struck some others with his palms uninterruptedly,
 created a quarrel by coming into collusion with some, and approached some in a conciliatory manner.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 
@@ -1148,8 +1112,6 @@ That Dadhimukha was dragged, after coming into collusion with him by those monke
 were being forcibly hindered by him, eventhough those monkeys overpowered him with unrestrained emotion
 arising out of their intoxication, those who had abandoned their fear disregarding any bad consequence
 of their act.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1168,8 +1130,6 @@ and honey.
 Bruising with their nails, biting with their teeth on account of their inebriety and
 making short work of that Dadhimukha with their palms and feet, all those moneys made that large grove,
 divested of its flowers, fruits and honey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>
 </details>
 

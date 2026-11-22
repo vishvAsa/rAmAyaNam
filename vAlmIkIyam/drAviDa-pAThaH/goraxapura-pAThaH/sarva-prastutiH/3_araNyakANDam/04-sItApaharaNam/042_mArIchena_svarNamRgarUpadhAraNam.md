@@ -17,8 +17,6 @@ III : Aranya Kanda - The Forest Trek**
 On travelling by the aircraft like chariot Ravana and Maareecha enter Dandaka forest
 and arrive at the threshold of Rama's hermitage. Then at the insistence of Ravana Maareecha assumes
 the form of an amazing golden Deer, and Seetha catches a sight of that deer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ thus; *raavaNam* = to Ravana; *abraviit* = said.
 
 Maareecha though curtly said in that way, then afraid of the king of night-walkers
 he became self-pitying, and said to Ravana, 'let us go.' [3-42-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -145,8 +141,6 @@ by the wielder of; *mat vadhaH udyata shastreNa* = for my, killing, [if he with]
 "If he who wields a bow, arrows and a sword, and who brandishes a weapon to only
 kill me happens to see me again, deem my life is verily lost, without his shooting any arrow.
 [3-42-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -164,8 +158,6 @@ reflected, image; *te* = [before] you; *vartate* = carrying on - is appearing.
 "None can really make so bold at Rama to reappear with life, isn't it. What is
 appearing before you is the reflected image of mine, as I am already slain by the wand of Yama, the
 Terminator, the moment I conceded to your demand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ boy; *nishaacaraH* = oh, night-walker; *eSa aham gacChaami* = this, I am, going;
 
 "When you are spiteful, oh, boy, indeed what can I possibly do otherwise, oh,
 night-walker, thither I go, may good betide you." So said Maareecha to Ravana. [3-42-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -260,8 +250,6 @@ sentence, spoke.
 
 By that word of Maareecha demon Ravana is very much gladdened and he spoke this
 sentence tightly hugging him. [3-42-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -318,8 +306,6 @@ The other way to tell this is: "Though your words show the fear of my dictate, b
 those obdurate words, it appears that you have spoken them for yourself, regaining the grit of your
 demon-hood and estimating Rama as your own enemy," by which Ravana is shirking his responsibility to
 Maareecha himself in the event of the death of Maareecha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ then sci-fi version of aircrafts. Ravana's son Indrajit also uses such spaceship
 and his weaponry is altogether different, i.e., somewhat like the present day laser oriented
 hardware. These propellers may not be construed as real donkeys or mules but some powered
 vehicle-drawing instruments designed to look like ordinary harmless creatures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ and misleading Rama and Lakshmana away from hermitage. Maareecha knows that ther
 away from Rama's arrow, which once chased him up to seashore. But Ravana presumes that if Maareecha
 is capable enough, he will escape Rama, or if this old demon Maareecha is incapable of it, he may
 perhaps die by the arrow of Rama, for which Ravana is unconcerned.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -492,8 +474,6 @@ aashrama maNDalaat* = from that, hermitage's, surroundings - from Maareecha's he
 Tataka's son Maareecha said "All right" to Ravana, and then both Ravana and
 Maareecha mounted the chariot as they would emplane an aircraft and swiftly journeyed from the
 surroundings of Maareecha's hermitage. [3-42-9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -546,8 +526,6 @@ mountains, also, rivers, all of them; *raaSTraaNi nagaraaNi ca* = provinces, cit
 
 While looking at the seaports and forests, also at all the mountains and rivers,
 even at the cities and provinces en route they proceeded. [3-42-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -567,8 +545,6 @@ seen the hermitage of Raghava. [3-42-11b, 12a]
 
 Please refer to the endnote for the Ancient Indian way of classification of
 villages, towns, and cities as per Indian architecture called *vaastu shaastra*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -615,8 +591,6 @@ avatiirya* = with golden [ornaments,] decorated, from that, chariot, having alig
 
 Alighting the chariot that is decorated with golden ornaments Ravana then spoke this
 sentence to Maareecha taking his hand into his. [3-42-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -665,8 +639,6 @@ done.
 "This one which we are seeing and which is surrounded with banana plants is the
 threshold of Rama's hermitage, and -`----oh, friend, the purpose for which we came here let it be
 effectuated promptly." Thus Ravana hastened Maareecha. [3-42-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -713,8 +685,6 @@ bhuutvaa* = deer, on becoming; *raamasya aashrama dvaari* = in Rama's, hermitage
 
 "And on hearing Ravana's words demon Maareecha then became a deer and indeed ambled
 freely in the frontage of Rama's hermitage. [3-42-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -775,8 +745,6 @@ Adopting the form of a gorgeous deer which is superbly amazing just by its
 appearance, whose tips of antlers are in the hue of best sapphires, and whose face is whitish at
 some places and not so whitish at other in its look, he became a Golden Deer and moved thereabout.
 [3-42-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -801,8 +769,6 @@ bluish-lotus, one of its ears is in the hue of bloomed blue-lotus while the othe
 of a sapphire, while the shine of its stomach is like that of a best blue-diamond,
 Indra-niila-maNi, and with a little upraised neck that deer has moved about there. [3-42-16b,
 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -820,8 +786,6 @@ cohered - limbs; *vicacaara* = moved about.
 One flank is shining whitish like Madhuka flowers and the other is similar to the
 roseate fibrils of lotuses, while its hooves are similar to the gemstone lapis, calves thin, and
 thus with very well cohered limbs that deer moved about there. [3-42-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -874,8 +838,6 @@ encompassed [dappled with.]; *manaH haraH* = heart, stealing - deer's aura;
 With an upraised tail that shone forth in a tinge equal to the weapon of Indra,
 namely Rainbow, and with a complexion that is lustrous and dappled with many diverse gemlike
 dapples, that deer moved thereabout with a heart-stealing aura. [3-42-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -927,8 +889,6 @@ deer, emerged as.
 Thus that demon Maareecha emerged like a highly splendorous and fascinating deer in
 a wink highly irradiating those woodlands, and the threshold of Rama's hermitage in particular.
 [3-42-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -978,8 +938,6 @@ Adopting such an exquisite and heart-stealing form which is amazingly dappled wi
 the colours of diverse ores, that demon ambled all over there freely with the bearing of a real
 deer in order that Vaidehi might be deluded, and he moved forward onto the pastures. [3-42-2b,
 21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1026,8 +984,6 @@ grass-blades, to graze; *vicacaara ha* = moved about, indeed.
 
 And with hundreds of silvery stipples of body he became an astonishing deer with
 pleasant looks and indeed moved chewing new grass-blades of trees. [3-42-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1075,8 +1031,6 @@ view - at such a place; *sam aashrayan* = well, abided - resorted to such a plac
 That Golden Deer has gone into the boscages of banana plants, and moved here and
 there around Karnikara trees, and then resorted to a place which is within the eyeshot of Seetha.
 [3-42-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1124,8 +1078,6 @@ sukham vicacaara* = as per, delight, milled around.
 With an odd lotus like hind-side that astounding deer is verily scintillating, and
 it milled around the surroundings in the threshold of Rama's hermitage according to its own
 delight. [3-42-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1172,8 +1124,6 @@ kriiDan]* = again, towards [hermitage,] returns, [very, playfully.]
 
 That excellent deer beats a retreat and again returns, and meanders thus time and
 again, and turns its tail for sometime only to return once again very playfully. [3-42-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1221,8 +1171,6 @@ goes.
 
 Again gambolling everywhere it sits somewhere on the ground, then, on coming to the
 threshold of hermitage it goes towards herds of deer. [3-42-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1274,8 +1222,6 @@ That demon who has gone into the deer-hood has gone after some herd of deer. But
 returned again though that herd followed him wanting to fraternise, in order that he shall remain
 perceptible to Seetha, and he whirligiged in amusing circles while leaping and bounding to and from
 that herd of deer. [3-42-27, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1336,8 +1282,6 @@ directions noticing it as a demon turned into a deer. [3-42-28b, 29a]
 Here the animals are portrayed as better beings than humans in identifying
 demons or ghosts. Though they may not know or wish to know about god, the apparent ghost scares
 them. Humans apperceive neither god nor ghost because they are half of each.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1387,8 +1331,6 @@ Even that demon in the deer's semblance Maareecha, though indulged in killing th
 forest animals, and though the other animals are touching him, he is not killing and eating them
 indulgently, only for the reason of camouflaging his present nature of demon-hood. [3-42-29b,
 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1439,8 +1381,6 @@ abhyavartata [abhi a vartata]* = to trees, towards, she came.
 
 What is more, Vaidehi with her felicitous eyes came towards trees yearning for
 plucking the flowers in the same instant. [3-42-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1456,8 +1396,6 @@ flowers, while plucking, moved about.
 
 And she with her inebriating glances and delightful visage moved there about while
 plucking flowers of Karnikaara, Ashoka, and of Mango trees. [3-42-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1506,8 +1444,6 @@ surprising, having limbs; *tam mR^igam dadarsha* = at that, deer, she beheld.
 
 That select lady who is unmeet for forest life beheld that deer which is completely
 gemlike and whose limbs are surprising as though studded with pearls and gems. [3-42-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1556,8 +1492,6 @@ iikSata]* = well, raising eyes, has seen - rubbernecked, goggled; *vai* = indeed
 And she that Seetha goggled the Golden Deer with a wide-eyed astonishment, which
 deer has pretty lips and teeth, hair resembling silver and copper ores, and she indeed gazed at it
 with an affinity for wildlife. [3-42-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1604,8 +1538,6 @@ then, there about, verily, moved.
 
 On seeing Rama's wife Seetha that highly phantasmal deer too then moved there about
 as though to scintillate that woodland. [3-42-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 </details>
 
@@ -1657,8 +1589,6 @@ numerous gems, the daughter of Janaka, Seetha, went in to an intense wonderment.
 
 The stress continuously laid on the eyes of Seetha is observable, only to
 conclude that *'trust not what thy eyes show you...'*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

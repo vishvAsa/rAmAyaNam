@@ -18,8 +18,6 @@ Seetha gives a taunting reply to Rama, saying that why she was not abandoned by 
 latter, even at the time when Hanuma came to see her in Lanka. Then, Seetha requests Lakshmana to
 prepare a pile of fire for her to enter. When Lakshmana prepares a pyre, Seetha prays the fire-god
 and enters into it, in order toprove her conjugal fidelity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ perturbed.
 
 Hearing the harsh words with indignation, spoken by Rama, which caused her hair to
 stand on end, Seetha became very much perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ maithilii* = that Seetha; *tadaa* = at that time; *abhavat* = became;
 
 Hearing the terrific words of her husband, which were never actually heard by her
 before, amidst a large gathering of people, Seetha stood bent low with shame.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ before, amidst a large gathering of people, Seetha stood bent low with shame.
 
 As though her own limbs were pierced by those words, which were arrow-like with
 pointed splinters, Seetha shed profuse tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ aananam* = her face; *baaShpa pariklinnam* = which was bathed in tears;
 
 Then, wiping clean her face, which was bathed in tears, she spoke the following
 words slowly, in a stammering voice to her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -273,8 +263,6 @@ iva* = like a common man; *praakR^itaam* = (speaking) to a common woman?
 
 "O valiant Rama! Why are you speaking such harsh words, which are violent to hear
 for me, like a common man speaking to a common woman?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ _________________
 
 "O the long-armed one! I am not the one in the way you understand me. Have a faith
 in me. I swear to you by my own character."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ trustworthy); *te* = by you.
 
 "By the conduct of vulgar woman you distrust the entire race of women. Give up this
 doubt, if I have been actually tested (and found trustworthy) by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -419,8 +403,6 @@ helpless; *daivam* = my (adverse) fate; *aparaadhyati* = was to blame; *tatra*
 
 "O lord! It was not my willfulness, when I came into contact with the person of
 Ravana. I was helpless. My adverse fate was to blame on that score."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ fallen under the sway of another?
 
 "My heart, which was subservient to me, was abiding in you. What could I do,
 helpless as I was, with regard to my limbs which had fallen under the sway of another?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ ignorance.
 "O bestower of honour! If I could not be fully known to you, in spite of our love
 having simultaneously grown and despite of our having lived together, I am ruined permanently by
 such ignorance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -568,8 +546,6 @@ such ignorance."
 
 "O king! Hanuma, the great hero, was sent by you as your search-agent. Why I, who
 was still in Lanka, was not abandoned then itself?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -619,8 +595,6 @@ desertion); *asya vaanarasya pratyakSham* = before the eyes of this monkey.
 
 "O hero! Life would have been given up by me, when deserted by you; immediately on
 hearing the message (conveying your desertion) before the eyes of the monkey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -669,8 +643,6 @@ your friends have been put to such fruitless hardship.
 "This wasteful endeavour (in the form of crossing over to Lanka and waging war
 against the mighty Ravana, keeping your life in jeopardy), would not have been there, nor would
 have your friends been put to such fruitless hardship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -717,8 +689,6 @@ however; *puraskR^itam* = gave priority; *striitvameva* = to woman liness;
 
 "O excellent king! You, however, like a feeble man, gave priority to womanliness,
 conforming yourself to just an emotion of anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -763,8 +733,6 @@ honoured; *te* = by you.
 
 "O knower of virtuous conduct! My birth was from Janaka in disguise; but was
 actually from the earth. My sacred birth of such a high degree, was not honoured by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -811,8 +779,6 @@ you); *baalye* = in our childhood; *na pramaaNiikR^itaH* = was not recognized;
 
 "My hand taken (by you as a bride) in our childhood was not duly recognized by you.
 My devotion, my chastity and all have been ignored by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -856,8 +822,6 @@ tears; *uvaacha* = said; *lakShmaNam* = to Lakshmana; *diinam* = who was sad;
 
 Seetha, thus speaking, weeping and stammering with tears, said to Lakshmana, who was
 sad and engaged in thoughtfulness (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -898,8 +862,6 @@ false blames; *na utsahe* = (I) no longer wish; *jiivitum* = to survive.
 
 "O Lakshmana! Create a pile of fire, for me, which is a remedy for this disaster. I
 no longer wish to survive, smitten as am with false blames."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -941,8 +903,6 @@ assembly of men; *bhartraa* = by me husband;apriitena = who was not satisfied;
 
 "I will enter a fire, to obtain the only course appropriate for me, who has been
 abandoned amidst an assembly of men, by my husband who was not satisfied with my traits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -989,8 +949,6 @@ Seetha; *lakShmaNaH* = Lakshmana; *para viirahaa* = the destroyer of enemy-warri
 
 Hearing the words of Seetha, Lakshmana, the destroyer of enemy warriors, giving way
 to wrath, looked towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1032,8 +990,6 @@ the wishes of Rama's.
 
 Understanding the inclination of the mind of Rama, hinted by the expression in his
 face, that valiant Lakshmana prepared a pyre, in deference to the wishes of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1076,8 +1032,6 @@ dissolution of the world.
 No one near and dear was indeed able to cajole on that occasion or to speak or even
 to look upon Rama, who appeared like Yama the lord of death at the time of dissolution of the
 world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1124,8 +1078,6 @@ the blazing; *hutaashanam* = fire.
 
 Thereupon, Seetha, after doing circumambulation to Rama, who was standing with his
 head bent low, proceeded towards the blazing fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1175,8 +1127,6 @@ Seetha; *uvaacha* = spoke; *idam* = the following words:
 
 Having offered salutation to gods and brahmins as also having joined her palms in
 the vicinity of the fire, Seetha spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1217,8 +1167,6 @@ so; *paavakaH* = let the fire-god; *lokasya saakShii* = the witness of the world
 
 "As my heart never moves off from Rama, so let the fire-god, the witness of the
 world, protect me from all sides."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1265,8 +1213,6 @@ the world; *paatu* = protect; *maam* = me; *sarvataH* = from all sides.
 
 "As Rama apprehends me, though of unimpeachable conduct, to be spoilt, let the
 fire-god the witness of the world protect me from all sides."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1308,8 +1254,6 @@ and speech; *raaghavam* = to Rama; *sarvadharmajJNam* = who knows all the virtue
 
 "As I have never been unfaithful in act, thought and speech to Rama, who knows all
 the virtues, so let the fire-god protect me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1364,8 +1308,6 @@ me).
 "Since the adorable sun-god, wind-god, the four quarters and even so the moon-god,
 as also the deity presiding over the day-time and the twilights and the night and the earth and
 even others know me to be endowed with good conduct, so let the fire-god protect me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1412,8 +1354,6 @@ entered; *diiptam jvalanam* = the blazing fire.
 
 Thus speaking, Seetha walking around the fire-god, with her mind free from
 hesitation, entered the blazing fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1460,8 +1400,6 @@ shining; *maithiliim* = Seetha; *pravishantiim* = having entered;
 
 A large gathering of men including children and elders, saw the shining Seetha
 having entered the fire there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1502,8 +1440,6 @@ refined gold; *papaata* = plunged; *diiptam jvalnnam* = into the blazing fire;
 
 That Seetha, with the shining of fresh refined gold and decked with ornaments of
 refined gold, plunged into the blazing fire, in the presence of all people.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1544,8 +1480,6 @@ wide-eyed Seetha; *rukavedi nibhaam* = and looking like a sacrificial altar made
 
 All the living beings saw then that wide-eyed Seetha, who looked like a golden
 altar, plunging into the fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1593,8 +1527,6 @@ clarified butter.
 
 The sages, gods, and the Gandharvas saw that illustrious Seetha entering deep into
 the fire as a sacred oblation of clarified butter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1645,8 +1577,6 @@ sacrificial fire; *mantraiH* = duly consecrated with Vedic hymns.
 All the women (who were present there) screamed on seeing her, rushing into the
 fire, like a gush of clarified butter plunging into the sacrificial fire, duly consecrated by Vedic
 hymns.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 
 </details>
@@ -1695,8 +1625,6 @@ into a cursed hell; *tridivaat* = from heaven.
 The denizens of the entire three worlds including the gods, Gandharvas and demons,
 beheld her falling into the fire, like a goddess, subjected to a curse, falling from heaven to
 hell.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 </details>
 
@@ -1737,8 +1665,6 @@ which appeared strange; *haa haa iti* = uttering 'Alas; Alas'; *sambabhuuva* = r
 
 While she was entering deeply into the fire, a loud sound, which appeared strange,
 uttering 'Alas, Alas' rose both from the demons and the monkeys alike.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga116/yuddhasans116.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

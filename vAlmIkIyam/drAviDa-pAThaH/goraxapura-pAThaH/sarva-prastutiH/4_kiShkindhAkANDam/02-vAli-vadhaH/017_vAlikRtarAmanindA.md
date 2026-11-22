@@ -18,8 +18,6 @@ approach dying Vali, he questions the propriety of Rama in killing him. Vali's q
 is straightforward befitting to the defeated mighty Vanara King. But implicitly, there are ancient commentaries
 that deduce many more meanings in picturising Vali as a devotee of Rama, who wanted to die at the hand
 of Rama, like Viraadha and others, as a means of salvation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ down, tree, as with; *sahasaa papaata* = suddenly, fell down.
 
 When Rama's arrow hit him then Vali, the scourger in war, suddenly fell down like a hewed down tree.
 [4-17-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ kept [sank,] all, body-parts; *a patat* = fell down.
 
 He who glittered with pure golden ornaments, that Vali fell down on earth while all of his limbs sank
 to dust, like the flag of Indra when released from its ropes. [4-17-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ nipatite* = on his, on earth, when fell; *medinii* = earth; *naSTa candram vyoma
 
 On the fall of that lord of hosts of monkeys and bears onto earth, unilluminated is the earth like the
 welkin that has forsooth lost its moon. [4-17-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ great-soul one, his, from body; *shriiH na jahaati* = brilliance, not, leaving -
 
 Though that great souled Vali fell onto earth, neither his brilliance, nor lives, nor resplendence,
 nor his bravery are unfettering from his body. [4-17-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ chief's; *praaNaan tejaH shriyam ca* = lives, resplendence, brilliance, also; *d
 
 That superb and gem-studded golden pendent given by Indra sustained that monkey chief's lives, resplendence
 and brilliance. [4-17-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -318,8 +306,6 @@ traced with - smeared with; *pari antaH* = all, around edges; *payaH dhara iva a
 
 By still wearing that golden chest-pendant around his neck, that brave general of monkeys Vali appeared
 like a black-cloud smeared with the colour of golden sunset all around its edges. [4-17-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -367,8 +353,6 @@ splendour, as though; *shobhate* = effulgent.
 Even though Vali has fallen on ground his splendour is as though refulgent devising itself into three
 aspects, namely by his body, chest-pendant, and the arrow of Rama, which arrow is given to strike the
 crucial body parts alone, and which is still stuck in Vali's chest. [4-17-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ forth.
 
 That arrow which effectuates the pathway to heaven, now discharged from the bow of Rama has brought
 forth that redemption to brave Vali . [4-17-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -509,8 +491,6 @@ But he starts his self-praise and goes on narrating his achievements. Indra trie
 is heaven, here there is no you-ness and I-ness...' but in vain. Later unable to contend with Yayaati's
 self-eulogy Indra pushes him back to mortal worlds. Vali is in the same predicament as he took pride
 in his own brawny strength but now battered by still mightier person.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -569,8 +549,6 @@ _________________
 On seeing the brave Vali fallen like that, who by now is like fire with extinguished tongues of flames,
 and who is seeing droopily, those two valiant brothers, Rama and Lakshmana, neared him with due honour.
 [4-17-12b, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -642,8 +620,6 @@ On seeing Rama and the great mighty Lakshmana as well, he who fell to ground fla
 whose energy and lives are trifling and vigour trivialised thereby, that Vali spoke these sarcastic
 words in his proper pride to Rama, who is taking pride in this conflict as a victor, which words at
 the same time have meaning, politeness, and self-righteousness. [4-17-14, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -726,8 +702,6 @@ yathaa* and I will go to heavens without blemish'.
 For the last compound *tvat kR^ite nidhanam gataH* other mms use *shareNa urasi taaditaH*
 'with arrow, on chest, struck...' establishing that Rama did not backstab Vali, but hit on chest as
 said at 4-16-35: *vaali vakSasi paatitaH*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -793,8 +767,6 @@ aren't they. [4-17-17, 18]
 Explicitly it is Vali's harsh accusation of Rama, but implicitly it is a praise offered to Rama, since
 his arrow accords heavens to Vali. This is the same with the following two verses. *vyaaja ninda*
 innuendo of praise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -845,8 +817,6 @@ punishing of, also; *parthivaanaam guNaa* = for kings, aptitudes.
 "To be able to control senses and will, forgiveness, conscientiousness, resoluteness, truthfulness,
 and adventurousness, oh, king, are the aptitudes of a king, and even punishing the wrongdoers, too.
 [4-17-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -893,8 +863,6 @@ even though; *sugriiveNa samaagataH* = with Sugreeva, confronted.
 
 "Concluding that those kingly characteristics will be obtainable in you, and even judging by the noble
 dynasty of yours, I have confronted Sugreeva though Tara dissuaded me. [4-17-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -945,8 +913,6 @@ thus, my, concept, came up, became.
 "When you have not appeared before me when I confronted Sugreeva my concept was, 'it will be inapt of
 Rama to hurt me while I am combating with another combatant, besides, when I will be unvigilant in that
 fight...' [4-17-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1005,8 +971,6 @@ saying in Bhagavad Gita, *kam ghaatayati hanti kam?* 'who can stab the soul, who
 *na enam chindanti shasraaNi* 'knife can cleave It not...' as at 2-21 and its successive verses.
 Here Vali has said that 'nobody knows, including me... that you are flag-bearer of virtue above individual
 souls, sins...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1061,8 +1025,6 @@ iva paavakam* , 'as fire will burn the one who is covered with sin, you also wil
 is no 'garb of dharma...' to you, for you are dharma itself. Thus Vali said to have noticed Supreme
 in Rama, as said at *apahata paapmatvaadi guNa vishiSTa* 'Supreme Person is one who is above
 the words like sins, merits' etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1142,8 +1104,6 @@ was involved with another? [4-17-24, 25]
 'You do not kill any guiltless beings, *tvam api a+kilbiSam na himsi* , but you are now killing
 me because there is some guilt in my deeds, of which I am well aware, but waited for you to come...'
 This is the subtext of Vali's retrospection.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1191,8 +1151,6 @@ even, to be there; *dR^ishyate* = appearing.
 
 "You are renowned to be a prince with charming looks, oh, king, and indications agreeable to rectitude
 are also appearing on your body. [4-17-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1234,8 +1192,6 @@ karma samaacaret* = ruthless, deed [like this one, killing me,] executes.
 "Will anybody born in Kshatriya's family, a learned one in Veda-s, thereby who is rid of ambiguities
 with respect to right and wrong, and who is cloaked in an air of probity, execute such a ruthless deed
 like this? [4-17-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1304,8 +1260,6 @@ This is Vali's self-assurance that Rama is the Supreme Being, but killed him wit
 he would like to know that purpose. In this sequence, Vali assumes that Rama killed him in his search
 for Seetha, and thus Vali tells Rama 'if that is the only reason I would have brought Seetha in one
 day without any bloodshed…' The purpose for Vali's elimination is nothing but the elimination of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1360,8 +1314,6 @@ oh, king, and even punishing the wrongdoers. [4-17-29]
 'The first said political strategies *saama, daana, bheda*, may not work with me because I am
 not a coequal of yours in kingship, so the last one, *daNda*, 'punishing the wrongdoer,' is enough
 to eliminate me, for I must have committed wrongs.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1432,8 +1384,6 @@ grade foods than us, while we are destined to eat fruits and tubers. When there 
 you humans and we monkeys, and then there can be no enmity between you and me, because enmity crops
 up only when there is a correlation. Apart from this, I am no equal of yours, but inferior and worthless
 vanara, and hence your killing me is only to give me salvation.' Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1484,8 +1434,6 @@ you are decoyed into these forests of mine or in the fruits of mine. [4-17-31]
 **टिप्पनी**
 
 The statements of 'my forests... my fruits...' will be retorted by Rama in the next chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1541,8 +1489,6 @@ for the kings do not conduct themselves volitionally. [4-17-32]
 Vali's statement is: 'Even the ordinary rulers on earth do not conduct themselves without adhering to
 their codes of conduct, then what is there to speak of you who is the Ruler of Universe. So, you must
 have imposed this punishment without mixing the pairs of opposites that results in my salvation...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1593,8 +1539,6 @@ in, [shooting-happy archer.]
 
 "But, to you your self-interests are primary, and you are a wrathful, capricious, contriver of kingcraft,
 and an impetuous shooting-happy archer. [4-17-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1662,8 +1606,6 @@ for humans' *kaama vR^itte san* ' you are independent in your deeds or movements
 kR^iSyase, kim?* 'are you drawn away by senses, or what? No. You cannot be drawn away by the horses
 called senses for you are the holder of their reins. So you are the *jana iishvara* Supreme Lord
 for the people, as king of people, or as the Supreme Person who took incarnation as Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1719,8 +1661,6 @@ of yours in killing me is a wrongdoing... you may say them that 'I have killed a
 at fault...' " Vali has no need to say repeatedly that he is killed by the arrow of Rama, as he is not
 killed by a sword or cudgel. But, it is to be repeated necessarily to remind that the arrow came from
 an unknown destination.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1767,8 +1707,6 @@ marriage of his elder brother; *sarve niraya gaaminaH* = all, hell, goers.
 
 "A regicide, a Brahman-cide, a cow-slayer, a thief, an inveterate killer, an atheist, and an younger
 brother who marries before his elder, all of them will go to hell. [4-17-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1815,8 +1753,6 @@ go; *na atra samshayaH* = not, there, doubt.
 
 "A slander-monger, skinflint, friend-killer and one who makes love with his teacher's wife, they all
 go to the worlds of evil-souls, no doubt about it. [4-17-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1875,8 +1811,6 @@ for royal fanning instruments. Deerskin has its own place in high religious seat
 Hence the poachers are making a fortune on this fauna. But the skin, bones, or hair of monkey, or to
 that matter of fact any item of a monkey is not of any use either in religious or in medicinal or for
 decorative purposes. Hence, they are not killed for food, game or poaching.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1931,8 +1865,6 @@ animals; *bhakSyaa* = are edible.
 
 "Raghava, five kinds of five-nailed animals, viz., a kind of wild rodent, a kind of wild-boar, a kind
 of lizard, a hare and fifthly the turtle are edible for Brahmans and Kshatriya-s. [4-17-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -1997,8 +1929,6 @@ such as I am, a five-nailed animal, I am killed. [4-17-40]
 'There appears to be no reason as to why a five-nailed animal like me is to be killed, when there is
 no reason for political, religious, hunting, or food purposes. Then this act of yours shall have an
 ultimate purpose isn't it....'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2052,8 +1982,6 @@ Though dissuaded by Tara, *kaalasya vasham aagataH, satyam*; I am bound to come 
 is over and I am destined to die at the hands of the Supreme Being. Or, to say clearly *iishvarasya
 vasham aagataH, satyam* 'I have come under the control Supreme, truly...' where *kaalaH*,
 Time, is another name for Supreme Being; *kaalo asmi loka kshaya kR^it pravaddhaH... kala *
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2107,8 +2035,6 @@ The king is usually the lord of land. Vishnu is the husband of Earth, *bhuu devi
 is both. Here Vali's contention is, 'unlike a husband without rectitude, you will safeguard the land
 truthfully as you have all the attributes of a lord of land and a good husband. *duSTa nigrahatvaadi
 kalyaaNa guNa ruupeNa*. So, you will protect Earth by eradicating evildoers on it... like me...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2153,8 +2079,6 @@ to a false modesty subconsciously, and an evildoer? [4-17-43]
 
 'You are born to great-souled Dasharatha, *yato mahaatmanaa dasharathena jaataH... katham shaThaH?*
 'being the son of such a great-soul Dasharatha, how can you be artful, felonious?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2212,8 +2136,6 @@ etc., are required to the humanly elephants that move in herds, break their cord
 and social values. The Supreme Being is not so, as said later by himself *naiva tasya kR^te na artho*
 in Bhagavad Gita at 3-18 and also at *saMkarsaya ca kartaaa syaam* 3-24. 'So getting eliminated
 from this mortality by no less than the Supreme Being is my fortune.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2269,8 +2191,6 @@ Me, reached...' Vali attained salvation and reached Me. *a+shubham ca a+yuktam c
 'Though Vali's actions are unpropitious, unjustified and condemnable by the righteous, but by Me eliminated
 he attained Me, the Supreme Being...' And this agrees with *mR^ityuH sarva haraH ca aham* Gita
 - 10-34 'I am the death, an all- exhausting-one.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2338,8 +2258,6 @@ towards me on your divine feet, which feet will not be revealed even to Brahma, 
 them to sages and saints. I have seen them now. Had I seen these Divine Feet earlier, I would have suddenly
 fallen on them long back, like Sugreeva. But, I do not foresee advancement of the same feet towards
 the real wrongdoers, namely Ravana, Kumbhakarna and Indrajit, as yet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2403,8 +2321,6 @@ Thinking that, though I am capable of killing you, and hopefully kill you, do yo
 god like Yama in *naraka* the Hell. Improbable and impossible are all these suppositions, and
 thus this act of eliminating me cannot be called a killing, but 'according salvation' by you the Supreme,
 in person.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2483,8 +2399,6 @@ his strength to Vali...
 Knowing this through Sugreeva, and honouring Brahma's boon Rama did not come face to face with Vali.
 This is said at 4-16-27, and 4-16-31. The same is the situation when Hanuma is bound by Brahma missile
 in Sundara Kanda, where he obliges Brahma's decree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2579,8 +2493,6 @@ in incarcerating Ruma, Sugreeva's wife? If this is asked Vali might have replied
 am an animal and those adductions, seductions etc., do not work in our animal kingdom, and we enjoy
 what we want.' But it is not so with Veda practising Vanara-s. Hence this race is given the title of
 Vanara, neither animal, nor monkey, nor human.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2633,8 +2545,6 @@ There is one Upanishad called
 *shveta ashvatara* Upanishad and when it was in the shape of white female
 horse, this horse was stolen by Madhu and Kaitabha demon-brothers and later retrieved by Hayagreeva,
 another aspect of Vishnu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2682,8 +2592,6 @@ that which; *a yukatam* = is improper.
 
 "The fact of Sugreeva's getting the kingdom after my going to heaven is proper, but the fact of your
 killing me in war, unrighteously, is improper. [4-17-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2729,8 +2637,6 @@ you relevant, reply; *saadhu cintyataam* = gently, think of.
 
 "Admittedly the world is this way, and if possible a relevant reply may gently be thought ofabout your
 propriety in killing me..." So said Vali to Rama. [4-17-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 </details>
 
@@ -2799,8 +2705,6 @@ Vali is still lingering with the same arrow in his chest. The same is said in Yu
 arrow which pierced through seven great sala trees, and which has killed the greatest Vali. *yaiH
 saayakaiH saala varaa nikR^ittaa, vaalii hato vaanara pu~NgavaH ca...* and narrating thus the poet
 says that Vali is nothing when compared with Kumbhakarna and others in Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

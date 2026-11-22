@@ -21,8 +21,6 @@ protect the City of Lanka and even Ashoka garden, where Seetha has been kept in 
 the army not to be indifferent to the movements of the monkey-warriors. After issuing the necessary
 instruction to his army, he enters deep into his palace and remains boarding over the loss of
 Atikaya, his son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -133,8 +131,6 @@ were struck down.
 of weapons, Prahasta and Kumbhakarna were killed by Rama, who was unwearied in battle. The mighty
 and valiant demons longing for battle, who conquer the adversaries, who was never defeated in
 battle by the enemies they along with their enemies were killed. Many other mighty warriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -193,8 +189,6 @@ by terrific arrows; *dattavaraiH* = on which boons had been conferred.
 
 "That day, Indrajit, my son, whose strength and prowess are renowned, bound both
 Rama and Lakshmana, the brothers with terrific arrows, on which boons had been conferred."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -217,8 +211,6 @@ not know; *tat* = that.
 or by Yakshas the supernatural beings or Gandharvas the celestial musicians or Pannagas the
 serpent-demons. Rama and Lakshmana, the two brothers were released from that tie of arrows either
 by their power or by their sorcery or by their marvel I do not know that."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -266,8 +258,6 @@ monkeys.
 
 "All of those valiant demon-warriors set out for battle, at my command, were killed
 by those exceptionally mighty monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -317,8 +307,6 @@ lakShmaNam* = along with Lakshmana; *sasugriiva vibhiiShaNam* = Sugreeva and Vib
 
 "I do not find any demon, who can destroy the valiant Rama along with Lakshmana,
 Sugreeva and Vibhishana accompanied by their army in battle now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -359,8 +347,6 @@ Sugreeva and Vibhishana accompanied by their army in battle now."
 
 "By Rama's valour, the demons were destroyed. Alas! How great is Rama's strength!
 How great is the power of his arrow!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -407,8 +393,6 @@ Seetha; *abhirakShyate* = is being guarded; *rakShyaatu* = have to be protected;
 
 "Some regiments of the army have to protect this City and even Ashoka garden where
 Seetha is being guarded, vigilantly on all sides."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -456,8 +440,6 @@ tva* = in that and that place (where); *niShkramovaa* = persons are going out;
 
 "We should know the locations of army-regiments and also the places where persons
 are exiting and entering at all times, again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -504,8 +486,6 @@ those monkeys; *draShTavyam cha* = is to be watched.
 
 "O demons! Stay on all sides with your respective armies. The various positioning of
 those monkeys are to be watched."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ remaining.
 "Indifference should not be shown to monkeys in any way at any time, either at
 evening or at midnight or at dawn. You have watch whether the army of adversaries is fervently
 active or advancing or staying where it was."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -601,8 +579,6 @@ active or advancing or staying where it was."
 
 Hearing those words of Ravana, all the mighty demons then precisely carried it out
 forthwith in its totality.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -649,8 +625,6 @@ manyushalyam* = suffering from prickly sorrow; *diinaH* = and depression;
 
 Having thus instructed all of them, Ravana the king of demons, suffering from
 prickly sorrow and depression, penetrated deeply into his palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -703,8 +677,6 @@ sighing.
 
 Blazed as he was with a fire of anger, Ravana the mighty lord of demons, then
 remained broading about the loss of his son (Atikaya) and also sighing again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 </details>
 
@@ -749,8 +721,6 @@ killed; *mahaatmanaa lakShmaNena* = in the hands of the high souled Lakshmana;
 
 Hearing Atikaya having been killed in the hands of the great-souled Lakshmana,
 Ravana was worried and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

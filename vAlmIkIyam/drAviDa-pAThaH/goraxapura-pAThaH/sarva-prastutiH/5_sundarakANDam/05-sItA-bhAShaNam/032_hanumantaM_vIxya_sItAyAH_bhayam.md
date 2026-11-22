@@ -16,8 +16,6 @@ title_english = "032 Seetha is shocked to see Hanuma"
 Seetha is shocked to see Hanuma, perched on the branches of a shimshupa tree She is confused whether
 it is a dream or a reality. Finally, she thinks that as the monkey is talking to her in a manifested form, it
 is quite a reality. She prays Lord Brihaspati and Brahma to make he words spoken by Hanuma as true.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ a monkey.
 
 Then, seeing Hanuma, who was tawny coloured like a series of flashing thunderbolts wrapped up in
 a white cloth and hiding behind the branches of a tree, Seetha had her mind shaken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -95,8 +91,6 @@ chaamiikarekSaNam* = with his eyes resembling refined gold; *prashritam* = humbl
 
 Seetha beheld there a monkey, beaming like a cluster of Ashoka flowers wide opened, with his eyes
 resembling regined gold, humble and speaking agreeable words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -148,8 +142,6 @@ _________________
 
 Seetha got a great surprise and thought (as follows): "Alas! This monkey is hard to be approached,
 fearful and difficult to be looked at." Thus thinking, she was bewildered again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ _________________
 
 The splendid woman Seetha, bewildered by fear and afflicted with grief, lamented most piteously
 saying "O, Rama! O, Rama! and "O Lakshmana!". Seetha wept faintly in a low voice in many ways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ woman; *maithilii* = Seetha; *chintayaamaasa* = thought; *ayam* = it; *iti* = as
 **अनुवादः**
 
 Seeing that excellent monkey appraching humbly, that splendid woman Seetha thought it as a dream.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -317,8 +305,6 @@ kaaram* = doing as told; *shaakhaamR^igendrasya* = by Sugreeva the king of monke
 
 Seetha, looking hither and thither, saw Hanuman, who was having a wide and curved mouth, doing
 acts as told by sugreeva the king of monkeys, the foremost of monkeys, greatly adored and the best among the inelligent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -376,8 +362,6 @@ bhuuyaH* = again; *vichintayaamaasa* = thought (as follows).
 
 As soon as seeing Hanuma Seetha lost her consciousness very much and became seemingly lifeless.
 Regaining her consciousness after a long time the wide eyed Seetha moreover thought (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -436,8 +420,6 @@ and; together with Lakshmana; *tathaa* = and; *me pituH* = with my father; *jana
 
 "Today, I saw an ugly monkey in my dream, which is forbidden according to a body of scriptures.
 May it be well with Rama together with Lakshmana and with my father, King Janaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -497,8 +479,6 @@ _________________
 
 "This is not a dream. To me, tormented by sorrow and grief, there is indeed no sleep. To me, separated
 from Rama whose countenance resembles a full moon, there is no happiness indeed!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -556,8 +536,6 @@ way; *tadarthaam* = with the same object.
 
 "Since I am pondering with my mind about that Rama only, and always saying 'Rama! Rama!' thus,
 confomably I am seeing and hearing a story thus corresponding to he same thought."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -616,8 +594,6 @@ like manner; *shR^iNomi* = I am hearing (the same matters).
 "Tormented as I am today by manmatha god of love longing for Rama, my whole feelings directed towards
 him and constantly thinking of him alone, in the like manner I am seeing him and in the like manner i am hearing
 of him alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -678,8 +654,6 @@ wish; *syaat* = will be fulfilled; *tathaa* = likewise; *vitarkayaami* = I am re
 "I am imagining that my wish will be fulfilled. Likewise, I am reasoning my wish by my intellect
 also. There is no concrete form indeed for my wish. He, with a well manifested form is speaking to me. for what
 reason?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 </details>
 
@@ -739,8 +713,6 @@ manner; *na anyathaa* = let it not be otherwise!.
 "My salutation to Brihaspati the Lord of eloquence, together with Indra the wielder of a thunderbolt,
 to Brahma the self-existent Lord and to the Lord of Fire eating the oblations! Let whatever words spoken by this
 monkey be true! Let them not be untrue!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Shuurpanakha, the problem demoness of Ramayana enters here. She approaches the c
 her wifehood to Rama. She is the sister of Ravana and her husband Vidyut Jihva was murdered by Ravana
 alone, rendering his own sister a widow. She being an age-old demoness wants Rama to marry her, leaving
 Seetha off.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ Godavari, from bank, jagmuH svam aashramam = went, to his own, hermitage.
 
 On taking bath Rama with Seetha and Soumitri, then went to his own hermitage from that bank of River
 Godavari. [3-17-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ that, hermitage, on nearing; *paurva aahNikam karma kR^itvaa* = early, morning, 
 
 Nearing that hermitage Raghava along with Lakshmana performed early morning rituals and then reached
 the cottage. [3-17-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -198,8 +192,6 @@ the cottage. [3-17-2]
 
 At one time when Rama is sitting in hermitage and heartily absorbed in telling narratives some demoness
 arrived at that place, fortuitously. [3-17-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -214,8 +206,6 @@ being, who is like; *raamam aasaadya* = Rama, on reaching; *dadarsha* = she saw 
 
 She is but the sister of ten-faced demon Ravana, Shuurpanakha by her name and she has seen him on reaching
 the paradisiacal being like Rama. [3-17-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ forth like the moon when with Chitra constellation. [3-1-7-3, 4]
 The Chitra star is with clearest whiteness against the sky-blue background and thus it is said *citra
 mauktikam ekam* 'Chitra star and a pearl are one in colour.' Thus sky-blue coloured Rama is the
 moon while pearl white Seetha is pearl white Chitra star.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -346,8 +334,6 @@ He whose face is radiant, arms lengthy, eyes large like lotus petals, stride lik
 wearing bunches of hair-tufts, delicate yet greatly vigorous, possessor of all kingly aspects, complexion
 deep-blue like blue lotus, similar to Love-god in brilliance and in simile to Indra, the demoness has
 seen such a Rama and became lovesick. [3-17-7, 8, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -402,8 +388,6 @@ one, ugly featured one with the charming featured one, brassy voiced one with th
 deplorably oldish one with the youngish one, crooked talker with the pleasant talker, ill-mannered one
 with the well-mannered one, uncouth one with couth, abominable one with amiable Rama spoke, besieged
 by Love-god. [3-17-9b, 11, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -459,8 +443,6 @@ arhasi = to tell, apt of you..
 "You are an ascetic yet with a wife, handling bow and arrows yet in the appearance of a sage what for
 you have come to this province frequented by demons it will be apt of you to tell the purpose of your
 coming here, in actuality " [3-17-12b, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -507,8 +489,6 @@ to.
 
 Thus asked by demoness Shuurpanakha that enemy-scorcher Rama started to inform all about it, straightforwardly.
 [3-17-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -554,8 +534,6 @@ janaiH shrutaH* = Rama, by name, by people, heard.
 
 "A king named Dasharatha was there with his godlike valour, I am his eldest son, and people hear of
 me by name Rama. [3-17-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -605,8 +583,6 @@ thus, well-known.
 
 "He is Lakshmana by his name, my younger brother and a devoted follower of mine, and she is my wife,
 daughter of Videha's king, well-known as Seetha. [3-17-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -655,8 +631,6 @@ aagataH* = here, to live, to forests, I came.
 "Desiring to implement the probity in following father's orders and for the sake of establishing probity
 in living an ascetic's life I have come here to forests to dwell, as enjoined by the directives of the
 king and my father, and by my mother, as well. [3-17-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -726,8 +700,6 @@ No demon or demoness can approach that cottage of Rama, as long as Jatayu is the
 establishment. While the difference in mms/texts is between one or two letters like, *na hi taavat
 manoj~na angii* and *tvam hi taavat manoj~na angii* , whether the poet entered Shuurpanakha
 in a fashionable getup or as an old female is another point that remained inconclusive.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -778,8 +750,6 @@ by love, wetted; *saa raakSasii abraviit* = she that, demoness, spoke.
 
 "What for you have come, either, you tell in actuality..." Thus Rama asked her. On hearing the words
 of Rama she that demoness wetted with love said these words. [3-17-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -797,8 +767,6 @@ in this, forest, am freely moving.
 
 "I will tell you truth, Rama, nothing but truth, I am a guise-changing demoness named Shuurpanakha,
 and I will be freely moving in this forest in a solitary manner and unnerving all. [3-17-20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -845,8 +813,6 @@ ever heard, [or, mighty one, demons, king.]
 
 "My brother is valorous and mighty Ravana, the king of demons and the son of Vishravasa, if ever you
 have heard of him. [3-17-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -914,8 +880,6 @@ dharmaatmaa vibhiiSaNaH* = virtue-souled one, Vibheeshana [is also my brother]; 
 "And the mighty Kumbhakarna who will always be in profound sleep is my brother, and the virtue-souled
 Vibheeshana too is my brother, but he does not behave like a demon, and two more bothers of mine are
 Khara and Duushana who are renowned for their bravery in war. [3-17-22b, 23
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -962,8 +926,6 @@ of; *sam upetaa* = neared; *asmi* = I am.
 
 "I can excel all of them by my bravery, oh, Rama, and on seeing you for the first time I had a notion
 that you being the choicest among men you alone are my husband, hence I neared you. [3-17-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -1010,8 +972,6 @@ do [bring off.]*
 
 "I am endowed with such preponderances and I can operate with my independent might, as such you become
 my everlasting husband by the way, what can you bring off with Seetha. [3-17-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -1058,8 +1018,6 @@ ruupeNa pashya* = me, wife, in manner of, see, me [treat me as your wife.]
 
 "Unlovely and unshapely is this one, such as she is, this Seetha is unworthy to be your wife, and I
 am the lone one worthy to be your wife, hence treat me as your wife. [3-17-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -1111,8 +1069,6 @@ him, that brother of yours to make you free.
 **टिप्पनी**
 
 Lakshmana will use the very same wording in the next chapter when retorting Shuurpanakha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -1161,8 +1117,6 @@ enjoying; *maya saha* = me, along with; *kaamii* = lustily; *daNDakaan vi cariSy
 
 "Afterwards, you can lustily ramble about Dandaka forest along with me while enjoying yourself on various
 mountaintops in the sky and in forests on the earth." So Shuurpanakha said to Rama. [3-17-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 </details>
 
@@ -1209,8 +1163,6 @@ started.
 
 When he is said that way Rama chuckled and that wordsmith started to reply her who eyes are besotted
 in lovesickness with this sentence. [3-17-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -20,8 +20,6 @@ Ganga descends to earth by the extraordinary effort of Bhageeratha.
  by his ancestors where heaps of ashes of his grandparents are there,
  and she enters accordingly to inundate those mounds of ashes according
  salvation to the souls.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ Bhageeratha stood on one big-toe with an unwavering intent and bodily
  movement, and with his hands upraised in prayer for a period of one
  year by day and night, sustaining himself on mere air, and thus his
  yogic concentration increased and that alone pressurised the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ _________________
 On completion of one year, he who is venerated by all worlds, the consort
  of Uma and the god of animals from insects to humans, that god Shiva
  revealed himself and spoke this to the king. [1-43-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ On completion of one year, he who is venerated by all worlds, the consort
 Oh, best one among humans, I am delighted with your unwavering effort,
  and I will fulfil your cherish. I will therefore sustain Ganga, the
  daughter of king of mountains by my head. [1-43-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ Afterwards, she who is reverenced by all the worlds and who is the
  elder daughter of Himavanta, that Ganga assuming an unendurable form
  and an insupportable rapidity, they say, then plunged from the sky onto
  the auspicious head of Shiva. [1-43-4, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ Afterwards, she who is reverenced by all the worlds and who is the
 She who is an extremely unendurable river that goddess Ganga even speculated
  saying to herself, 'let me enter netherworld, indeed whisking Shiva
  with my streams.' [1-43-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ _________________
 Discerning her egotism god Shiva is infuriated, and then on his part
  that Three-eyed god Shiva thought to pent her up in the tufts of his
  head-hair. [1-43-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -362,8 +348,6 @@ Discerning her egotism god Shiva is infuriated, and then on his part
 And oh, Rama, she that holy River Ganga swooped down into the cavernous
  curls of matted hair-tufts on the holy head of God Shiva, and she became
  a detainee in them. [1-43-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -384,8 +368,6 @@ Though she strove hard in one way or another to reach the earth that
  Ganga is rendered incapable, as she could not gain access for an outlet
  from any edge of the coils of matted hair-tufts of Shiva, hence she
  is held there in durance vile. [1-43-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -436,8 +418,6 @@ Goddess Ganga whirled round and round in the coils of tufts alone for
  many number of years, and when Ganga's emanation from those coils is
  intangible Bhageeratha again firmed up in a marvellous penance in the
  matter of her descent to earth. [1-43-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -486,8 +466,6 @@ Goddess Ganga whirled round and round in the coils of tufts alone for
 Oh, Rama, the legatee of Raghu, with that ascesis of Bhageeratha god
  Shiva is very much delighted, and thereupon he has also released Ganga
  aiming at Bindu Lake in Himalayas. [1-43-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -558,8 +536,6 @@ While god Shiva released Ganga into Bindu Lake seven streams have emerged
  out of it, and thus three auspicious Ganga-s with holy waters have cruised
  eastward which are known as Hlaadini, Paavani, and Nalini. [1-43-11b,
  12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -608,8 +584,6 @@ While god Shiva released Ganga into Bindu Lake seven streams have emerged
 Also thus Sucakshu, Seetha, and the excellent river Sindhu are the
  other three rivers which streamed to the westward direction with their
  holy waters. [1-43-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -667,8 +641,6 @@ Also thus Sucakshu, Seetha, and the excellent river Sindhu are the
 Of them the seventh Ganga flowed towards the path of Bhageeratha' chariot,
  and that great-resplendent and kingly sage Bhageeratha sitting in a
  divine chariot moved ahead and even Ganga followed him. [1-43-14, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -697,8 +669,6 @@ The River Ganga is also called as *tripathagaa* 'she courses
  flow as led by Bhageeratha. The westward river Sindhu is the Indus and
  the eastward Nalini, which is now called as river Brahmaputra, while
  Ganga proper courses a little to south to move towards the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ The earth then verily shone forth with the shoals of fish, schools
  of tortoises, and scores of porpoises and other aquatic beings that
  have already fallen and that are still falling in step with the spates
  of Ganga. [1-43-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -800,8 +768,6 @@ The earth then verily shone forth with the shoals of fish, schools
 Later, they the gods, sages, gandharva-s, yaksha-s, and the assemblages
  of siddha-s have then seen there the swoop of Ganga in that way from
  heaven to earth, with curiosity. [1-43-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -822,8 +788,6 @@ Some of the gods with aircrafts that are like cities in their shape
  and size, and some with horses that are prancing, and some with best
  elephants that are staggering, at the very sight of plunging Ganga,
  have entered the firmament at that place. [1-43-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -879,8 +843,6 @@ The gods whose animation is unlimited, and who are anxious to see the
  animation than that of gods who came to see, and even benignant to the
  world in according water and salving souls, which those gods cannot
  do. [1-43-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -924,8 +886,6 @@ The gods whose animation is unlimited, and who are anxious to see the
 "The glitter of the ornaments of hosts of gods who are in stampede,
  made the cloudless sky to shine as if it is with a hundred of suns.
  [1-43-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -969,8 +929,6 @@ The gods whose animation is unlimited, and who are anxious to see the
 At that time, with the falling and rising of scores of porpoises and
  reptiles, even with the wriggling fishes, the sky became flashy as if
  flashes of lightning are strewn over it. [1-43-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1014,8 +972,6 @@ At that time, with the falling and rising of scores of porpoises and
 Spattered innumerably with the whitish froth from the splashes of Ganga,
  and stippled with the flights of swans, the sky is as though overspread
  with silver-clouds of autumn. [1-43-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1082,8 +1038,6 @@ Somewhere Ganga is coursing precipitately in declivities, elsewhere
  elsewhere sloppily in canting lands, somewhere gushingly in craggy lands,
  and somewhere else her cruise is leisurely in flatlands and tardily
  in uplands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1101,8 +1055,6 @@ Somewhere Ganga is coursing precipitately in declivities, elsewhere
 
 Somewhere her water repeatedly knocking against her own water is recurrently
  billowing upwards only to make nosedive onto earth. [1-43-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1152,8 +1104,6 @@ _________________
 That impeccable and immaculate water of Ganga then became outstanding
  as it has flounced down from heaven primarily onto the head of Shankara,
  and therefrom it has coasted down onto the earth. [1-43-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1198,8 +1148,6 @@ And asserting that the water as holy, because it descended touching
  the body of Shiva, viz., the head of Shiva, the assemblages of sages,
  gandharva-s, and those that are residents on the plane of earth have
  sipped that water at that place. [1-43-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1252,8 +1200,6 @@ _________________
 Also those that have fallen from heaven onto the surface of earth by
  some curse or the other, they too became blemishless on taking head-bath
  in the water of Ganga. [1-43-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1271,8 +1217,6 @@ Also those that have fallen from heaven onto the surface of earth by
 When sins are washed away with the hallowing water of Ganga, they again
  transited skyward and then obtained their own empyrean worlds once again.
  [1-43-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1322,8 +1266,6 @@ When sins are washed away with the hallowing water of Ganga, they again
 With her splendorous water people are blissful, and on taking dip-baths
  in Ganga they are totally removed of the strains of their sins, and
  they lived blissfully ever after. [1-43-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1379,8 +1321,6 @@ In this way, the great-resplendent and kingly sage Bhageeratha sitting
 This verse is almost similar to the verse No. 14 above. But here, the
  continuous actions of both the leader and the led are implied with ellipses
  - 'in this way', and 'continuously.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1441,8 +1381,6 @@ Oh, Rama, all of the gods along with the assemblages of sages, ogres,
  moved after Ganga who is following the chariot of Bhageeratha, and why
  they, in fact, all of the aquatic beings have followed Ganga. [31b,
  32, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1487,8 +1425,6 @@ In whichever direction king Bhageeratha has advanced, that glorious
  River Ganga, who is the prominent river among all the rivers and the
  complete obliterator of sins, has also moved at his behind in that direction.
  [1-43-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1538,8 +1474,6 @@ While in flow she started to completely inundate the field of Vedic-ritual
  belonging to the great-souled sage Jahnu, who is of marvellous deeds
  and who is presently an officiator of an ongoing Vedic-ritual. [1-43-34b,
  35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1582,8 +1516,6 @@ While in flow she started to completely inundate the field of Vedic-ritual
 But on knowing her hubris, oh, Raghava, that sage Jahnu has become
  irritated and causing an extreme marvel he drank off all the water of
  Ganga. [1-43-35b, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1661,8 +1593,6 @@ Thereupon, the gods along with gandharva-s and sages at that extremely
  to worship that ablest human and great-souled sage Jahnu, and even deigned
  for the daughterhood of Ganga to that high-souled sage Jahnu. [1-43-36b,
  37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1681,8 +1611,6 @@ That greatly radiant and godly sage Jahnu is then delighted and released
  Ganga from both of his ears. Therefore Ganga became the daughter of
  sage Jahnu, and she is also renowned as Jahnavi, after the name of that
  sage. [1-43-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1737,8 +1665,6 @@ Even though Ganga again proceeded moving behind the chariot of Bhageeratha
 
 Some take the word *saagaram* as the netherworld dug by the sons
  of Sagara and omit the mention of her ocean-bound travel.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1787,8 +1713,6 @@ Some take the word *saagaram* as the netherworld dug by the sons
 Even kingly-sage Bhageeratha making every effort ushered Ganga to netherworld,
  but on seeing his grandparents rendered to ashes he has became doleful.
  [1-43-40b, 41a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 </details>
 
@@ -1838,8 +1762,6 @@ Even kingly-sage Bhageeratha making every effort ushered Ganga to netherworld,
  of ashes of Sagara's six-thousand sons, by which those souls obtained
  heaven, while the sins of souls are cleansed with the water of Ganga."
  Thus Vishvamitra continued his narration. [1-43-41b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

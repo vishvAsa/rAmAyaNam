@@ -18,8 +18,6 @@ Sugreeva consoles Rama soothingly and advises him to come out of his frenzy emot
 at the loss of Seetha, which is not befitting to a person like Rama. Rama recovering from his
 emotional state, promises Sugreeva to be truthful to his word in alleviating the fear of Vali for
 Sugreeva. And Sugreeva also promises to make all his efforts to search for Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ tears, trembling voice; *sa baaSpam* = with tears;. pra anjaliH = with adjoined 
 
 Thus said by Rama in agony that monkey Sugreeva with his palms adjoined, and with
 tears rolling in eyes and also voice trembling with tears said this to Rama. [4-7-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ not, familiar.
 
 "Unfamiliar is the residence, or capability, or valour, or lineage of that sinning
 demon from a sinister dynasty, in any wise... [4-7-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ shokam* = discard, anguish.
 
 "Truthfully I am promising you, oh, enemy destroyer, as to how you will get back
 Maithili therefor I strive to make effort, let anguish be discarded... [4-7-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ way, not, before long, done, by me.
 "As to how you will satisfy yourself on killing Ravana along with his henchmen, and
 as to how to you pride yourself thereby, I will make it happen in that way in no longer a time...
 [4-7-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ ineptness; *na sadR^isham* = not, seemly.
 
 "Enough is this clinging on to despair, recollect your inherent courage, and it is
 unseemly for persons of your sort to have this kind of mental ineptness... [4-7-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ forsook.
 
 "Upon me too this yearning caused by the separation of wife has chanced, but I did
 not despair this way, nor I have forsaken my courage... [4-7-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -369,8 +355,6 @@ tell about you.]
 
 "Though I am a primitive monkey I am not totally disheartened for the distancing of
 wife, why tell about a great soul like you who are well read and courageous... [4-7-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -417,8 +401,6 @@ belonging to self-controlled ones; *maryaadaam* = propriety; *dhR^itim* = courag
 
 "It is apt of you to control trickling tears with courage, and equally it is inapt
 of you to discard the courage and propriety of self-controlled people... [4-7-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -466,8 +448,6 @@ indeed.
 
 "Either in a riddle, or in financial loss, or at the end of life, or in fear, a
 courageous one does not sink down, but indeed introspects in his own mind... [4-7-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -515,8 +495,6 @@ sadness, drowns.
 
 "Stupid is that man who always follows self-piteous sadness unable to control
 himself, and he drowns down in that melancholy like a overweighing ship in waters... [4-7-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -563,8 +541,6 @@ not, apt of you.
 
 "Adjoined are my palms in this way beseeching you in friendship, kindly bear up your
 self-esteem and you should not give any leeway to sadness... [4-7-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -611,8 +587,6 @@ arhasi* = not, your, saddening, is apt.
 
 "Those that delve deep into moroseness, to them there is no happiness, and their
 brilliance too dwindles, thus saddening is inapt on your part... [4-7-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -659,8 +633,6 @@ off; *kevalam dhairyam aashraya* = just, courage, hold on to.
 
 "One well-engulfed in sadness doubts even his life, oh, king of kings, leave off
 that sadness and just hold on to courage...[4-7-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -707,8 +679,6 @@ tvam shocitum arhasi* = not, your, saddening, is apt.
 
 "I am telling a benefiting and friendly thought, but not instructing you, should you
 regard my friendship then your saddening is inapt..." [Thus said Sugreeva to Rama.] [4-7-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -758,8 +728,6 @@ tears, fully covered; *mukham* = face; *vastra antena* = with cloth's, edge;
 
 Sweetly solaced thus by that Sugreeva Rama dabbed his face with the edge of cloth,
 which is covered fully with tears. [4-7-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -809,8 +777,6 @@ abraviit* = this, sentence, said.
 
 Lord Rama steadied himself in his own nature by the words of Sugreeva, and on
 embracing him Rama said this sentence to him. [4-7-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -857,8 +823,6 @@ timely, also; *yuktam ca* = befitting, also; *tat tvayaa* = that which, by you;
 
 "Sugreeva, a friendly obligation that which is to be done, a benefiting, befitting
 and a timely one too, is what you have performed with your friendly advise... [4-7-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -905,8 +869,6 @@ myself; *iidR^ishaH bandhuH durlabhaH hi* = this kind of, friend, impossible to 
 
 "Oh, friend, I steadied myself in my own nature when implored by you... it is
 impossible to get this kind of friend, especially at these times... [4-7-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -952,8 +914,6 @@ Ravana's; *parimaargaNe yatnaH kaaryaH* = search for, endeavour, is to be done.
 
 "But, trying to search for Maithili and that furious, evil-minded demon Ravana, is
 your endeavour... [4-7-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -1000,8 +960,6 @@ lands, as though [seeded crop]; *sampadyate* = be reaped.
 
 "What is to done by me that be said in all believability, and all your endeavour
 will reap like the crops planted during rainy season in good lands... [4-7-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -1048,8 +1006,6 @@ word, is spoken; *tat tvayaa* = that, by you; *tattvam iti* = factually, thus;
 
 "What that is spoken by me is in my self-confidence but not in any self-conceit, oh,
 tigerly-monkey, deem them as doubtless facts... [4-7-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -1096,8 +1052,6 @@ am, by truthfulness, alone taking oath.
 
 "Untruth is not uttered by me earlier nor will be at anytime from now, and all this
 I am promising you taking oath on that truthfulness alone.. [4-7-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -1144,8 +1098,6 @@ promise; *prahR^iSTaH* = is gladdened.
 
 Then on hearing the words of Rama Sugreeva along with his monkey ministers is
 gladdened, especially of Rama promise. [4-7-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -1192,8 +1144,6 @@ befitting; *sukha duHkham* = pleasure and pain; *abhaashtaam* = discussed.
 
 Then those two, the man and the monkey, met in privacy and both discussed in a
 mutually befitting manner about their pleasures and pains. [4-7-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 </details>
 
@@ -1249,8 +1199,6 @@ hearing; *tadaa ca* = then; *kR^itam* = accomplished; *kaaryam* = manoeuvre;
 On hearing the word of that intellectual, highly capable one and the best king among
 kings, namely Rama, he that Sugreeva, the chief among the monkey heroes, thought at heart that his
 manoeuvre to surpass his dominant brother Vali is accomplished. [4-7-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga7/kishkindhasans7.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

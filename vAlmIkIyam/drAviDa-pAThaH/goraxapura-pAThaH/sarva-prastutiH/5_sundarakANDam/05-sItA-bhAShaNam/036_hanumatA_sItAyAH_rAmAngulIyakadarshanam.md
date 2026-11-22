@@ -20,8 +20,6 @@ Bharata and Sugreeva will come to Lanka with their armies so as to destroy Ravan
 Seetha's words, Hanuma consoles Seetha saying that Rama, Sugreeva and a host of monkeys will come to
 Lanka by crossing the ocean, so as to defeat Ravana and his army, with assurance that Rama will appear
 before her shortly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ from Seetha; *eva* = again; *abraviit* = spoke; *prashritam* = modestly; *vaakya
 
 Hanuma, the highly energetic son of wind-god, with an inducement to obtain confidence
 from Seetha, again modestly spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -150,8 +146,6 @@ cha* = ring also; *raama naamaaNkitam* = marked with Rama's name.
 
 "O illustrious lady! I am a monkey and a messenger of the wise Rama. O princess! Look
 at this ring too, marked with Rama's name."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -167,8 +161,6 @@ asi hi = you are indeed; *kSiNaduHkhaphalaa* = free from the object of your grie
 
 "I brought this ring given by the high souled Rama, for the purpose of gaining your confidence.
 Get consoled indeed. Happiness to you! You are now free from the object of your grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ by Rama's hand; *prekSamaaNaa* = and seeing (it); *saa jaanakii* = that Seetha; 
 
 "I brought this ring given by the high souled Rama, for the purpose of gaining your confidence.
 Get consoled indeed. Happiness to you! You are now free from the object of your grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -297,8 +287,6 @@ The countenance of that large-eyed Seetha, which appeared charming with red and 
 eyes shone like a moon the king of stars liberated by Rahu the demon. Then, that young Seetha, gladdened
 by the message of her husband, became shy and message of her husband, became shy and well-pleased. Uttering
 delightful words, she praised Hanuma the great monkey (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -346,8 +334,6 @@ by demons; *pradharSitam* = is overpowered; *tvam* = you as such; *vikraantaH*
 
 "O Hanuma the best of monkeys! You have singly overpowered this place infested by demons.
 You are valiant. You are competent. You are intelligent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -394,8 +380,6 @@ having a width of one hundred Yojanas; *makaraalayaH* = and an asylum of crocodi
 
 "You, with an acclaimable gallantry, crossed the ocean having a width of one hundred
 Yojanas and an asylum of crocodiles, making it as a small puddle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -445,8 +429,6 @@ you; *naasti* = there is no; *samtraapaH* = fear; *raavaNaat* = from Ravana;
 
 "O excellent of monkeys! For you there is no fear nor even bewilderment from Ravana.
 Hence, I do not consider you as an ordinary monkey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -493,8 +475,6 @@ the nature of his self; *arhase* = you are fit; *samabhaaSitam* = to talk well; 
 
 "O the best of monkeys! If you are sent by that Rama, who knows the nature of his self,
 you are worthy of talking to me well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -544,8 +524,6 @@ tested; *na preSayiSyatihi* = must not have sent you; *visheSataH* = and especia
 
 "The indomitable Rama must not have sent you indeed, especially to me, without knowing
 your enterprise and without testing you in advance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -595,8 +573,6 @@ sangaraH* = who is true to his promise; *lakSmaNashcha* = and Lakshmana; *mahaat
 
 "Rama the righteous man who is true to his promise and Lakshmana of great splendour who
 enriches the joy of Sumitra are fortunately safe."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -643,8 +619,6 @@ fire at the end of the world.
 
 "If Rama is safe, with his anger why is he not scorching the earth with ocean as its
 belt, like rising fire at the end of the world?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -691,8 +665,6 @@ belt, like rising fire at the end of the world?"
 
 "Otherwise, Rama and Lakshmana are capable of holding down even the celestials. But I
 think there is no end indeed to my troubles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -742,8 +714,6 @@ best of men; *kurute* = doing; *kaaryaaNi* = actions; *uttaraaNi* = to be done;
 
 "Is not Rama getting perturbed? Is he not tormented with grief? Is Rama the best of men
 now doing the right acts to annihilate the enemies?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -790,8 +760,6 @@ mistaken; *kaaryeSu* = in his actions?; *kachchit kurute* = I hope he is doing; 
 
 "Is Rama the prince miserable and confused? Is he even mistaken in his actions? I hope
 he is doing all acts which require human effort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -840,8 +808,6 @@ assault; *suhR^it kachchit* = is he kind-hearted; *mitreSu* = to friends; *vijag
 "Is Rama the annihilator of enemies as per necessity resorting to the two strategies
 viz., conciliatory and partaking approaches and even the three strategies viz., partaking, sowing dissension
 and open assault? Is he kind-hearted towards friends, with a wish to conquer the enemies?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -891,8 +857,6 @@ mitraishcha* = by his friends?
 
 "Is he getting friends? Has he been approached for friendship by others? I hope he is
 having good friends and even so honoured by them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -942,8 +906,6 @@ fate?
 
 "Is Rama the prince wishing the grace of the gods? Is he equally aware of the role of
 human endeavour and the role of fate?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -993,8 +955,6 @@ _________________
 
 "O Hanuma! Is Rama not losing affection in me because of my staying away from home? Will
 he release me from this evil predicament?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1041,8 +1001,6 @@ he release me from this evil predicament?"
 
 "Is Rama, who is habituated always to pleasures and not habituated to pains, not sinking
 into despondency by now getting this great pain?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1087,8 +1045,6 @@ into despondency by now getting this great pain?"
 **अनुवादः**
 
 "Are you constantly hearing the news of safety of Kausalya, Sumitra and Bharata?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1138,8 +1094,6 @@ shokena* = suffering from pain; *mannimitteva* = just because of me; *raamaH na 
 
 "Is Rama worthy of honour, suffering from pain just because of me? Will he liberate me
 from my sorrow, without fixing his mind on something else?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1191,8 +1145,6 @@ furnished with banners; *guptaam* = guarded; *mantribhiH* = by the ministers; *a
 "I hope Bharata, having a brotherly affection, will send for my sake, an army furnished
 with banners, guarded by the ministers, consisting of ten anikinis (21870 elephants, 21870 chariots,
 65610 horses and 109350 foot soldiers) which were terrific in appearance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1239,8 +1191,6 @@ nakhaayudhaiH* = with their tusks and nails as weapons.
 
 "The glorious Sugreeva the lord of monkeys will indeed come for my sake along with his
 valiant monkeys, who have their tusks and nails as their weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1287,8 +1237,6 @@ the multitude of his arrows.
 
 "Lakshmana, the strong man, who augments the joy of Sumitra and who is an expert in weaponry,
 will indeed destroy the demons by the multitude of his arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1335,8 +1283,6 @@ with his companions; *raNe* = in the battle-field; raudreNa; *astreNa* = by terr
 
 "Within a short time, I hope see Ravana killed along with his companions in the battle-field
 by terrific weapons burning brightly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1390,8 +1336,6 @@ of me; *jalakSaye* = and dehydrated; *na shuSyati kechchit* = I hope it is not p
 
 "That face of Rama with its golden and with the fragrance of a lotus may be looking miserable
 as bereft of me and getting dehydrated too. I hope it is not parched by the sun, like a louts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1452,8 +1396,6 @@ kingdom; *dharmaapadeshaat* = as an indication of his righteousness; *yasya* = t
 "Which Rama left the kingdom as an indication of his righteousness and to whom there
 was neither disturbance nor fear nor sorrow even while taking me to the forest by foot, I hope that
 the same Rama is maintaining boldness in his heart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1514,8 +1456,6 @@ priyasya = of my beloved.
 "To Rama, in the matter of affection, neither his mother nor his father nor any body
 else is equal to or more than me. O Hanuma the messenger! I wish to survive only as long as I hear the
 activity of my beloved."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1571,8 +1511,6 @@ Rama.
 Uttering thus those greatly meaningful and sweetly worthwhile words, Seetha the princess
 further abstained from talking so as to hear Hanuma's delightful words describing the matters pertaining
 to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1619,8 +1557,6 @@ spoke; *vaakyam* = (the following) words; *uttaram* = in reply.
 
 Hearing Seetha's words, Hanuma of terrific prowess, keeping his joined palms on his head,
 spoke the following words in reply.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1669,8 +1605,6 @@ take you back; *aashu* = soon; *purandaraH iva* = as Indra the destroyer of stro
 
 "O Seetha having lotus eyes! Rama does not know that you are here. For that reason, he
 did not take you back soon, as Indra the destroyer of strong holds did not take back Sachi, his wife."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1720,8 +1654,6 @@ _________________
 
 "Soon after hearing my words, Rama will come soon, drawing forth a large army, consisting
 of a multitude of monkeys and bears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1768,8 +1700,6 @@ of arrows; *kariSyati* = and make; *lan^kaam purim* = the city of Lanka; *shaant
 
 "Rama will paralyze the imperturbable ocean with his flood of arrows and make the City
 of Lanka extinguished of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1819,8 +1749,6 @@ time; *saH* = he; *vadhiSyati* = will kill; *taanapi* = them also.
 
 "If the goddess of Death along with demons or celestials stand firmly in the way of Rama
 at that time, he will kill them also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1870,8 +1798,6 @@ _________________
 
 "O noble lady! Being full of grief caused by your non-appearance, that Rama is not obtaining
 happiness, like an elephant tornmented by a lion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1935,8 +1861,6 @@ full moon.
 Dardura as well as by our staple food of roots and fruits, that you will soon see Rama's face, having
 good eyes, handsome, having lips with the colour of a bright-red gourd (fruit of Momordica monodelpha)
 and with its charming look like a rising full moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -1986,8 +1910,6 @@ back; *naagaraajasya* = of Airavatha; the chief of elephants.
 
 "O Seetha! You will see soon Rama on the Prasravana mountain, like Indra the Lord of
 celestials seated on the back of Airavata, the chief of elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -2031,8 +1953,6 @@ _________________
 
 "Rama is not eating meat, nor indulging even in spirituous liquor. Everyday, in the evening,
 he is eating the food existing in the forest, well arranged for him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -2082,8 +2002,6 @@ insects; *na sariisR^ipaan* = nor reptiles.
 
 "With his mind wholly devoted to you, Rama is not even driving away forest-flies from
 his body, nor mosquitoes nor insects nor reptiles from his body."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -2133,8 +2051,6 @@ _________________
 
 "Rama always cogitates on something or the other. He is forever engaged in sorrow. He
 is enamoured with the god of love and thinks of nothing else."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -2184,8 +2100,6 @@ words; *siiteti* = "lo! Behold! Seetha!"
 
 "Rama mostly does not have sleep. Even if that best of men sleeps, he keeps awake uttering
 sweet words like "lo! Behold! Seetha!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -2235,8 +2149,6 @@ _________________
 
 "When he happens to see a fruit or a flower or any other beautiful object, he recollects
 of you and says 'O beloved!' many times and breathes a sigh."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -2290,8 +2202,6 @@ effort; *tavalaabhaayaiva* = to find you alone.
 
 "O Seetha the princess! Rama the magnanimous prince is always lamenting, speaking just
 about you, recollecting "Seetha, Seetha!". Being firm in his vow, he makes effort to find you only."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 </details>
 
@@ -2351,8 +2261,6 @@ samkiirtana viita shokaa* = became worn out of grief on hearing the adoration of
 "That Seetha, who has the same amount of grief as that of Rama, became worn out of her
 grief upon hearing the adoration of Rama, like a night with the moon obscured by the remnant clouds
 at the commencement of autumn."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

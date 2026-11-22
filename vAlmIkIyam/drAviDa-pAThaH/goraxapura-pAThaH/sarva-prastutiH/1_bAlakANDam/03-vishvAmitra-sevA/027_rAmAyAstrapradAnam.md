@@ -25,8 +25,6 @@ Sage Vishvamitra satisfied with the behaviour of Rama in obliging the
  given which can be used to nullify the enemy's missiles. In the endnote
  of this chapter some verses describing the nature of
  astra-s are incorporated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -84,8 +82,6 @@ Sage Vishvamitra satisfied with the behaviour of Rama in obliging the
 Then, on staying that night there in Tataka forest, on the next day
  morning the greatly renowned sage Vishvamitra, smilingly and wording
  sweetly spoke to Rama. [1-27-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -127,8 +123,6 @@ Then, on staying that night there in Tataka forest, on the next day
 "I am highly pleased with you, oh, illustrious prince Rama, let safety
  be with you, I will now give you all of the divine missiles in utmost
  fondness of mine. [1-27-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ Then, on staying that night there in Tataka forest, on the next day
  gods, demons, or even from gandharva-s, uragaa-s and the like, or even
  earthlings are dominated, humbled down and conquered in war. Let safety
  be with you. [1-27-3, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -286,8 +278,6 @@ _________________
  will become a projectile weapon. Rama uses on Kakasura. In Mahaa Bharata
  Ashvatthaama also uses this at the final stage of war, which Krishna
  nullifies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -340,8 +330,6 @@ _________________
 "Oh manly tiger prince Rama, I am going to accord two maces that are
  brilliant by their radiance called, the Modaki, [the Beater,] and Shikhari,
  [the Tower of Protection.] [1-27-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -360,8 +348,6 @@ _________________
  and kaala-paasha and Varuna paasha, [Virtue noose and Time noose, Rain
  god's noose] as well as an unequalled missile called Varuna astra, Rain-god's
  missile. [1-27-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -405,8 +391,6 @@ _________________
  shushka [The Drier] and the other aardra [The Drencher] and even
  the missiles of Pinaaka and that of Narayana, [the missiles of god Shiva
  and Narayana] I will give. [1-27-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -453,8 +437,6 @@ _________________
 "Oh, impeccable Rama, thus a well-known missile shikhari [The Tower]
  and another the fond of Fire-god known as prathama [The Blower] and
  a missile of Air-god too, I will be giving. [1-27-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -498,8 +480,6 @@ _________________
  [The Horse-head] and Krouncha [The Wrester] and two Impellers, one
  presided over by the power of Vishnu, and the other by the power of
  Rudra. [1-27-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -546,8 +526,6 @@ _________________
 "I will be giving all those weapons that are wielded by demons, namely
  the deadly Pounder named Kankaalam, and Rods named as Kapaalam and Kankanam,
  for the elimination of those very demons. [1-27-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -590,8 +568,6 @@ _________________
 "Oh, mighty armed son of the best king, I am giving a great missile
  named Vaidyadhara by its name, and a gem of sword named Nandana. [1-27-13b,
  14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ _________________
  [The Stupefier,] the missile called Prasvapana [The Inducer of Sleep,]
  and the gentle Prashamana [The Pacifier of enemy's anger.] [1-27-14b,
  15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -702,8 +676,6 @@ _________________
  the fond missile of gandharva-s namely maanava by its name, [The Humane
  missile,] and oh, tigerly man, a missile dear one to pishaaca-s, monsters,
  namely paishaca [The Monster missile.] [1-27-15, 16, 17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -790,8 +762,6 @@ _________________
  of tvaSTa namely sudaamana; and even the dangerous missile of bhaga
  namely shita-iSu, these and the maanava missile of Manu, the earliest
  ruler of mankind, I will be giving. [1-27-17b, 18, 19, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -837,8 +807,6 @@ _________________
 "These missiles are, oh, dextrous prince, disguise-wizards, greatly
  powered, and highly providential ones, oh, Rama, you may take them forthwith."
  So said sage Vishvamitra to Rama. [1-27-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -889,8 +857,6 @@ _________________
 That pre-eminent sage Vishvamitra on performing his personal holy depuration
  then gave the assortment of extraordinary hymns to Rama facing eastward.
  [1-27-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -934,8 +900,6 @@ That pre-eminent sage Vishvamitra on performing his personal holy depuration
 The comprehension of which invoking hymns of the missiles is impossible
  even to gods with their sections and subsections of procedures, that
  Brahman dedicated such hymns to Raghava. [1-27-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -990,8 +954,6 @@ _________________
 While that intelligent saint Vishvamitra chanted the hymns, all of those
  highly venerable missiles came nigh and stood accessible to Raghava
  in their astral form. [1-27-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1014,8 +976,6 @@ All of those highly obliging missiles in astral bodies, gladdening to
  are your thralls, Sire, we are here to accomplish whatever you bid us
  to do, let safety be with you." So said the deities presiding over the
  missiles to Rama. [1-27-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 </details>
 
@@ -1083,8 +1043,6 @@ All of those highly obliging missiles in astral bodies, gladdening to
 
 That highly resplendent Rama revered sage Vishvamitra with a thankful
  heart and readied himself for further journey. [1-27-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

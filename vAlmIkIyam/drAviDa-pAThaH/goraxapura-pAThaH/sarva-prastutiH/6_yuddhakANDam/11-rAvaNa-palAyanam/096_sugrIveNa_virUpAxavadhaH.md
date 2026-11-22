@@ -17,8 +17,6 @@ Having destroyed some monkeys in the battle-field, Ravana tries to approach Rama
 continue his fight. Meanwhile, Sugreeva along with some monkeys attack some chiefs of demons and
 destroy them. Then, Virupaksha a demon comes and attacks Sugreeva. Sugreeva brings down a violent
 slap on the temple-bone of Virupaksha and kills him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ in that manner.
 
 The battle-field there, on its part, was strewn on that occasion with those monkeys
 whose bodies had thus been torn asunder by Ravana with his arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ bear); *diiptam jvalanam* = a blazing fire.
 
 Those monkeys could not bear that irresistible descent of arrows loosed by Ravana,
 any more than moths would bear a blazing fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ enveloped in flames of fire; *dahyamaanaaH* = and getting scorched.
 
 Those monkeys tormented by sharp arrows, fled away roaring, as elephants run away,
 when enveloped in flames of fire and getting scorched by them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ the wind; (blows away); *mahaabhraaNi* = large clouds.
 
 Ravana was marching forward swiftly in that battle-field, blowing away the army of
 monkeys, like the wind blows away large clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -266,8 +256,6 @@ strength; *vanaukasaam* = the monkeys; *tato yuddhe* = in that battle;
 
 Having brought about with his might the destruction of those monkeys in battle,
 Ravana quickly approached Rama on the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ Ravana quickly approached Rama on the battle-field.
 
 Seeing those monkeys running away in defeat in that battle, Sugreeva kept Sushena in
 charge of his army and quickly threw his mind into the fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ sugriivaH* = that Sugreeva; *paadapaayudhaH* = armed witht he tree as a weapon;
 
 Keeping that Sushena who was equal to himself, his substitute, that Sugreeva, armed
 with the tree as a weapon, marched forward towards the enemy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -411,8 +395,6 @@ paarshrataH* = at his side; *pR^iShThatashcha* = and behind.
 
 Taking huge rocks and various kinds of trees, all the monkey-warriors followed
 Sugreeva at his side and behind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -457,8 +439,6 @@ battle-field; *pothayan* = striking with his blows; *mamantha* = (he) crushed;
 
 The gigantic Sugreeva roared at a high pitch in the battle-field. Striking with his
 blows, he crushed various other chiefs of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -474,8 +454,6 @@ agamaaniva* = as the grown-up trees; (are smashed); *vaayuH* = by the wind;
 
 The colossal bodied Sugreeva smashed the demons, as the grown-up trees are smashed
 by the wind at the time of dissolution of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -522,8 +500,6 @@ birds; *kaanane* = in a forest.
 
 Sugreeva rained a hail of rocks on the army of demons, as a cloud rains a shower of
 hail-stones on a host of birds in a forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -599,8 +575,6 @@ While those demons, thus defeated by Sugreeva, falling on the floor and then
 roaring, get diminished in number from all sides, the indomitable Virupaksha the demon, holding a
 bow, pronouncing his name by himself, descended from his chariot and mounted the back of an
 elephant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -650,8 +624,6 @@ rushed; *vaanaraan* = towards the monkeys.
 
 That mighty Virupaksha, mounting that elephant, then roared a terrific noise and
 rushed towards the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -699,8 +671,6 @@ up.
 
 Virupaksha released dreadful arrows on Sugreeva who was at the front-rank of the
 army. He strengthened his support to the worried demons, by cheering them up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -747,8 +717,6 @@ profuse anger; *dadhe manaH* = he set his mind; *asya vadhe* = on killing him.
 
 Sugreeva, the king of monkeys, when he was struck severely with sharp arrows by that
 demon, shouted loudly. With profuse anger, he set his mind on killing him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -795,8 +763,6 @@ demon, shouted loudly. With profuse anger, he set his mind on killing him.
 
 Uplifting a tree and coming near that huge elephant, the valiant Sugreeva, a
 thorough fighter, struck it on its face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -837,8 +803,6 @@ receded; *dhanurmaatram* = to a distance of four yards; *niShasaada* = sank down
 
 That huge elephant, struck with the blow of Sugreeva, receded to a distance of four
 yards, sank down and roared too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -896,8 +860,6 @@ approached; *sugriivam* = Sugreeva; *vyavasthitam* = who stood firm;
 Descending quickly from his wounded elephant, that valiant demon then seizing hold
 of his sword from a shield made of a bull's hide and advancing in rapid paces, facing towards
 Sugreeva his enemy, approached him, who stood firm, threatening him as it were.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -944,8 +906,6 @@ Sugreeva his enemy, approached him, who stood firm, threatening him as it were.
 
 Taking a huge rock, which looked like a cloud, that Sugreeva, who felt enraged,
 threw it on Virupaksha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -986,8 +946,6 @@ receding away; *praaharat* = struck (him); *khaDgena* = with a sword.
 
 Seeing that rock falling, that highly valiant and excellent of demons then receding
 away, struck him with a sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1034,8 +992,6 @@ the ground; *muhuurtam* = for a moment.
 
 Wounded by the blow of the sword of that strong demon, Sugreeva became as though
 unconscious on the ground, for a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1076,8 +1032,6 @@ down; *raakShasasya vakShasi* = on the demon's chest; *vegena* = violently.
 
 Then, bouncing up suddenly in that great battle, Sugreeva, tightening his fist,
 brought it down on the demon's chest violently.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1123,8 +1077,6 @@ from his feet.
 Feeling enraged, when struck by the blow of that fist, Virupaksha the demon brought
 down the armour of Sugreeva by his sword at the battle-front. Thus struck by him, Sugreeva fell
 down from his feet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1171,8 +1123,6 @@ kapiH* = that Sugreeva; *vyasarjayat* = gave; *tasya* = him;
 
 Getting up when fallen, Sugreeva gave him a slap, which produced a terrific sound
 similar to a thunder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1220,8 +1170,6 @@ fist.
 
 Setting himself free from that slap, which was about to be raised by Sugreeva
 skillfully, Virupaksha the demon struck Sugreeva on the chest with his fist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1264,8 +1212,6 @@ much enraged.
 
 Then, seeing that demon escaping his blow, Sugreeva the monkey-king for his part,
 very much enraged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1282,8 +1228,6 @@ temple-bone.
 
 That monkey saw an opportunity to strike that Virupaksha. Then, with anger, Sugreeva
 brought down another violent slap on his temple-bone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1348,8 +1292,6 @@ spring.
 
 * Nine apertures of body are two eyes, two nostrils, two ears, mouth, penis and
 anus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1412,8 +1354,6 @@ anger and as such rendered all the more deformed.*
 
 * There is a pun here on the word 'Virupaksha' which means one with deformed
 eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1429,8 +1369,6 @@ from; *sphurantam* = as also throbbing; *paarshvena* = on his sides;
 
 The monkeys saw their enemy, bathed in blood, turning to and from as also throbbing
 on his sides and roaring piteously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1485,8 +1423,6 @@ large oceans; *bhinna setuu* = which had burst their bounds.
 Confronting together in the battle-field in that way, those two violent and terrific
 armies which were extensive as oceans, of monkeys and demons, roared like two large oceans which
 had burst their bounds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 </details>
 
@@ -1540,8 +1476,6 @@ the agitatd river of Ganga.
 
 Beholding that mighty Virupaksha killed by Sugreeva, the army of monkeys and demons
 together looked like the agitated river of Ganga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

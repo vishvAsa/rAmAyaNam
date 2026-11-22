@@ -17,8 +17,6 @@ I : Bala Kanda - The Youthful Majesties**
 The visitant Parashu Rama narrates the legends of bows of Vishnu and Shiva to Rama. Unheedful of the request of Dasharatha
 to spare his sons, Parashu Rama addresses Dasharatha Rama directly and asks him to take an aim with the longbow of Vishnu,
 and if Dasharatha Rama is capable to do so, Parashu Rama says that he will give a duel to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -63,8 +61,6 @@ smashing, also thus - other things [about your eliminating Tataka]; *nikhilena m
 
 Oh, valiant Rama of Dasharatha, your valour is bruited as a sensational valour, and sensational is your smashing of Shiva's
 bow, also thus I have thoroughly heard about your others deeds like elimination of Tataka et cetera... [1-75-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -105,8 +101,6 @@ shubham dhanuH gR^ihya* = on taking another transcending [outranking] bow; *anup
 
 That way, smashing of that particular bow of Shiva is wondrous and even unimaginable... on hearing that alone I happened
 upon you, bringing another outranking bow... [1-75-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -147,8 +141,6 @@ yourself your own capability.
 
 This alone is that catastrophic bow received through Sage Jamadagni... flex it with an arrow on bowstring stretching up
 to your ear, and in that way show your capability... [1-75-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -199,8 +191,6 @@ you a combative duel..." So said Parashu Rama to Dasharatha Rama. [1-75-4]
 
 Pt. Satya Vrat cites this in his book 'The Ramayana - A Linguistic Study... 'As in English, we speak of *yuddhadaanam*
 - giving a fight to the enemy - in Sanskrit, too...' it is giving a duel.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -240,8 +230,6 @@ Rama,] that, sentence, on hearing; *viSaNNavadanaH* = becoming downcast faced; *
 
 On hearing that sentence of Bhaargava Rama, then king Dasharatha became a pitiable one, and with a downcast face and adjoined
 palms said this. [1-75-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -292,8 +280,6 @@ Vividly: 'peace is primary for Brahman-s... though that was once disturbed in yo
 the then ruthless Kshatriya-s... thus your rancour was appeased then... and you too peacefully retired for inviolable ascesis
 and acquired still higher bliss by them... do you now wish to violate your own intrinsic nature of peacefulness being a
 blissful one, being an all-knower, being an elderly Brahman, that too on mere boys...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -314,8 +300,6 @@ haven't you readily discarded weapon-wielding on your promise to Thousand-eyed I
 Annex: 'how can you abnegate your own promise of *shastrasanyaasa* 'reclusion from weaponry...' by wielding a weapon
 now, and thus becoming yourself a self-critical personality, and thus making the entire Brahman-hood as a self-contradictory
 classis...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -367,8 +351,6 @@ repaired to forests, and haven't you flagged yourself on Mt. Mahendra... [1-75-8
 Annex: 'if so, is this for showing the flag or else is it for keeping the flag flying... in anyway, is it inapt of you to
 eliminate the progeny of your own donee... Kashyapa... and if you say that 'I don't kill you all nonentities, but my target
 is this Rama...' then my reply will be like this...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -414,8 +396,6 @@ eliminated, nay-said that we all will be living..." Thus Dasharatha had gone on 
 Annex: 'should you leave off Rama and eliminate rest of us all, Rama will not live... or, if you leave all of us and eliminate
 Rama alone, we all don't live... anywise it is an 'anywise' annihilation of ours... for I am still living for this Rama,
 and Rama alone...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -455,8 +435,6 @@ tu* = uncaring for; *raamam eva abhyabhaaSata* = addressed Rama alone.
 
 While Dasharatha is speaking in that way that intransigent Bhaargava Rama of Sage Jamadagni uncaring for those merciful
 words of Dasharatha addressed Rama of Dasharatha alone. [1-75-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -498,8 +476,6 @@ well crafted.
 These are the two strong and sturdy unsurpassed longbows, well-designed by gods and well-crafted by Vishvakarma, the Divine
 Architect, and these are very important among all bows and well-worshipped by all worlds... one broken in your, and the
 other in my hand... [1-75-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -549,8 +525,6 @@ Demon; *ekam* = one [of the two.]
 
 Oh, best one among men, out of the two longbows gods gave one to restive Trymbaka, God Shiva for a combat with demon Tripura,
 and oh, Kakutstha, that bow alone is the annihilator of Tripura, the demon... and you have broken that alone... [1-75-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -600,8 +574,6 @@ one is identical in essence [efficacy] with Rudra's longbow.
 This is the second one and the choicest gods gave this to Vishnu, thereby this is named after Him as 'Vishnu's bow...'
 this is an indestructible and enemy-citadel conquering longbow... and this is identical in its efficacy with Rudra's longbow...
 [1-75-13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -673,8 +645,6 @@ Once, all the gods were asking the Grandparent, Brahma, as to who is powerful an
 Shiva and Vishnu... but the Grandparent Brahma on inferring the intent of gods started to create adversity among those two,
 Shiva and Vishnu, for the Grandparent is the best adherer of truthfulness, as truth cannot be demonstrated on hearsay evidence...
 [1-75-14b, 15, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -714,8 +684,6 @@ himself] victory; *shitikaNThasya* = blue throated Shiva's; *viSNoH ca* = of Vis
 
 Owing to their animosity then occurred a fierce and hair-raising war among Shiva and Vishnu, as each aspired victory for
 himself... [1-75-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -761,8 +729,6 @@ is frozen... [1-75-17b, 18a]
 The bow is *jR^imbhitam* broken by the hum in dissent of Vishnu - Govindaraja. And Maheshvara Tiirtha says that the
 bow as well as Shiva are rendered *jaDa* motionless. There are many legends on this *shiva-garvabhanga* 'deflation
 of Shiva's pride' and some info about is given in endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -813,8 +779,6 @@ _________________
 Then gods along with the assemblages of sages and celestial carana-s have come together and appealed to those two for appeasement
 in the matter of wielding authority, and then those two superior gods, Shiva and Vishnu, went into a state of amity... [1-75-18b,
 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -860,8 +824,6 @@ dhanuH dR^iSTvaa* = on seeing that Shiva's bow; *tadaa saRSigaNaaH devaaH* = the
 
 "On seeing the bow of Shiva rendered inert by the mettlesomeness of Vishnu, from then on the gods along with the assemblages
 of sages deemed Vishnu to be the paramount... [1-75-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -911,8 +873,6 @@ Shiva's consort Sati self-immolates herself in her father's ritual, Viira Bhadra
 that ritual, and this *shiva-keshavayuddha* 'duelling of Shiva and Vishnu...' happens... all to show - a single
 person's disinterestedness ruins even a holy marriage. Here Daksha was uninterested to give his daughter Sati in marriage
 to Shiva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -952,8 +912,6 @@ conquering; *idam vaiSNavam dhanuH* = this, Vishnu's, longbow; *bhaargave* = of 
 
 Oh, Rama, this alone is that enemy-citadel conquering longbow of Vishnu, and Vishnu handed over this to Sage Riciika, the
 son of Bhrigu, as a trustworthy trust... [1-75-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -1002,8 +960,6 @@ who devour oblations repeatedly and at a single time in Vedic-rituals, namely go
 *jajiihi* because I sprang up from Ritual-fire... and when the first syllable in *ja jaamat* is dropped it
 remained as *jamat* and when combined with fire *jamat agni* it shortened after dropping *matup pratyaya*
 to become *jamadagni* so oh, lady know me as one born and having Ritual-fire... or, Vedic-ritual itself...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -1044,8 +1000,6 @@ to become *jamadagni* so oh, lady know me as one born and having Ritual-fire... 
 
 Adhering to a barbarous mentality Kaartaviirya Arjuna put my father to death, when the ascetically powerful father of
 mine has isolated himself from arsenal... [1-75-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -1121,8 +1075,6 @@ as and when they are born, that too not for one time, but I did so for thirty-se
 on getting the entire earth under my control I performed Vedic-ritual, and at the end of that Vedic-ritual, I gave all that
 earth to sage Kashyapa, a sage with divine soul and with pious observances, as a ritualistic-generosity... and I am at present
 on Mt. Mahendra practising ascesis and thus conjoined are the powers of ascesis in me... [1-75-24b, c, 25, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 </details>
 
@@ -1194,8 +1146,6 @@ one; *vaiSNavam dhanuH gR^ihNiiSva* = you take-you handle longbow of Vishnu.
 On hearing about the breakage of Shiva's longbow, then I promptly came here. Thereby, oh, Rama, wield this supernatural
 and superlative longbow of Vishnu, which is passed on to me from my forefathers and my father. Keep your fealty to Kshatriya-hood
 in view, and wield this as you have wielded Shiva's longbow... [1-75-26b, 27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1210,8 +1160,6 @@ sharam* = enemy citadels conquering, arrow; *yojayasva* = you join; *shaktaH asi
 
 Take an aim with an arrow that conquers enemy's citadels fixing it on this supramundane longbow... and oh, Kakutstha, should
 you be capable of it, thereafter I will give you a duel... [1-75-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ offered various kinds of flood to Rama, the latter refused it. He adds that Rama
 Lakshmana observed fasting for that night. Guha also informs Bharata that Lakshmana laid a bed of
 grass for Rama as well as Seetha to sleep theron and Lakshmana stood guarding Rama during the
 night, along with Guha and his kinsmen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ mind on Rama; *yatra* = of whom; *tam* = those; *apriyam* = unpleasant words;
 
 Hearing those most disagreeable words from Guha, Bharata began to think deeply,
 directing his mind on Rama, of whom those unpleasant words were heard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -138,8 +134,6 @@ That gentle, extremely courageous and the mighty armed young prince, whose shoul
 resembled a lion's his large eyes opening like a flowering lotus and having pleasing appearance,
 momentarily sighed and in his extreme anguish, sank to the ground suddenly like an elephant that
 has been wounded in the heart with goads.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -189,8 +183,6 @@ drumaH* = like a tree; *bhuumikampe* = during an earth-quake.
 
 Seeing Bharata unconscious, Guha growing pale, shook like a tree during an
 earthquake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -237,8 +229,6 @@ who was in that stae; *visamjJNaH* = becoming non-pulsed; *ruroda* = cried;
 
 Shatrughna, who stood near, taking Bharata, who was in that unconscious state in his
 arms, becoming non-pulsed, cried loudly, overcome as he was with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -283,8 +273,6 @@ Bharata).
 
 Then, all the queens, emaciated through fasting, extremely miserable, being unable
 to find consolation for the sad end of their lord, rushed towards Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -334,8 +322,6 @@ ground; *kausalyaaH tu* = Kausalya on her part; *durmanaaH* = torn with grief;
 
 All of them, sobbing, surrounded Bharata who fell on the ground. Kausalya on her
 part, torn with grief and bending over him, embraced him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -385,8 +371,6 @@ to her bossom; *vatsam yathaa* = as to a calf; *svam* = by its own mother-cow;
 
 That affectionate Kausalya, agitated as she was with grief and looking miserable,
 pressing him to her bosom as a cow its own calf, questioned Bharata (in the following words)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -436,8 +420,6 @@ hope that no ailment afflicts; *te shariiram* = your body; *adya* = now;
 
 "O, son! I hope that no ailment afflicts your body. Now, the life of this royal race
 is indeed dependent on you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -485,8 +467,6 @@ now.
 
 "O, son! Rama along with Lakshman has gone to the forest. The king Dasaratha is
 dead. I survive, looking on you. Now, you alone are the protector for us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -534,8 +514,6 @@ putraayaaH* = my only son; *gate* = who left; *vanam* = for the forest;
 
 "I hope you have not heard any unpleasant news about Lakshmana or about Rama my one
 and the only son who left for the forest along with his wife."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -585,8 +563,6 @@ consoled; *kausalyaam* = kausalya; *rudanneva* = and while still weaping;
 
 Bharata of great renown, easing himself well within a moment, consoled Kausalya and
 while still weeping, spoke to Guha (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ did Lakshmana (halt in the night)?; *bhuktvaa* = eating; *kim* = what;
 
 "O, guha! Tell me where did Rama my brother as also Seetha and Lakshmana halt in the
 night? On what couch and eating what, did he repose?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -685,8 +659,6 @@ Nishadas; *hR^iSTaH* = thrilling with rapture; *abraviit* = spoke; *bharatam*
 Guha, the Lord of Nishadas, thrilling with rapture, spoke to Bharata about the
 manner in which he made arrangements for (feeding and reposing) his beloved and kind guest,
 Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -737,8 +709,6 @@ consumption.
 
 "Various kinds of food and drink and different varieties of fruits were brought
 repeatedly by me to the presence of Rama for the purpose of his consumption."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -785,8 +755,6 @@ pratyagR^ihNaat* = could not accept; *tat* = it.
 
 Rama, the truly courageous man, refused all of them. Reminding himself of his
 warrior's statute, he could not accept it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -833,8 +801,6 @@ saying thus; *'sakhe* = O; friend!; *na pratigraahyam* = nothing should be recei
 
 "O, Bharata! We were pacified by that high-souled Rama by saying thus: ' O, friend!
 We are not allowed to receive anything we must always be givers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -881,8 +847,6 @@ We are not allowed to receive anything we must always be givers."
 
 "Rama, of great glory, then along with Seetha drank the water brought by Lakshman as
 observed fasting."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -930,8 +894,6 @@ evening-twillight
 
 "Thereafter Lakshmana also drank the left-over water and those three practised
 silence together in that evening-twilight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -981,8 +943,6 @@ bed; raaghava; *kaaraNaat* = for Rama; *kSipram* = immediately.
 
 "Lakshmana then personally brought a layer of Kusa grass and arranged a fittingly
 nice bed with it for Rama immediately."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -1029,8 +989,6 @@ nice bed with it for Rama immediately."
 
 "Rama, along with Seetha, settled down on that bed. After washing their feet,
 Lakshmana went away to a distance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -1077,8 +1035,6 @@ foot of Ingudi Tree; *idameva* = on just this; *tR^iNamcha* = grass; *yasmin*
 
 "Here at this fort of Ingndi Tree, on just this grass, on which both Rama and Seetha
 slept that night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -1139,8 +1095,6 @@ alone; *paritaH* = round; *asya* = Rama; *nishaam* = during the night.
 "Lakshmana, the scourge of his foe, wearing a glove of goha skin, strapping two
 quivers full of arrows on either side of his back and wielding a great stringed bow, remained on
 his part walking round Rama during that night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 </details>
 
@@ -1201,8 +1155,6 @@ Lakshama; *paripaalayan* = was guarding mahendra kalpam = Rama; who vied with In
 "Wearing excellent arrows and a bow along with my vigilant kinsmen carrying their
 bows, I on my part remained near Lakshman, who was guarding Rama who vied with Indra the Lord of
 celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

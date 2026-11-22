@@ -22,8 +22,6 @@ made friendship with him. Hanuma also tells the story about Rama installing Sugr
 after killing Vali and about Sugreeva promising Rama to get Seetha searched. Celebrating the glory of
 Rama, Hanuma points out to Ravana that if he wished to survive he should give back Seetha to Rama and
 that he should be prepared for the worst if on the other hand he refuses to do so.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ energetic; *dashaananam* = Ravana; *sattvavaan* = the courageous; *harisattamaH*
 
 Seeing that highly energetic Ravana, the courageous Hanuma coolly spoke to him the following
 meaningful words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ aalayam* = to your abode; *hariishaH* = Sugreeva; that Lord of monkeys; *bhraata
 
 "O king of demons! By the command of Sugreeva, I came here to your abode. Sugreeva, the
 Lord of monkeys, your brother, asked me to enquire about your welfare.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -180,8 +174,6 @@ and in the other world; *dharmaarthopahitam* = as also endowed with righteousnes
 
 "Hear the righteous and meaningful words, as a following advice, of the high-souled Sugreeva,
 your brother, conducive to good in the world as well as in the other world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ equal to that of Indra the Lord of celestials.
 
 "There was a king named Dasaratha, having chariots, elephants and horses, like a father
 to the people and endowed with a splendour equal to that of Indra the lord of celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -291,8 +281,6 @@ his wife; Seetha.
 "His eldest son named Rama, having mighty arms, a bestower of affection and our lord,
 by the command of his father, abiding in a righteous path, went out on exile and entered a forest called
 Dandaka along with Lakshmana his brother and Seetha his wife."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -342,8 +330,6 @@ kingdom; *naSTaa* = got lost; *vane* = in the forest.
 
 "Seetha, wife of Rama, devoted to her husband and daughter of the high-souled king, named
 Janaka, the head of Videha kingdom, got lost in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -393,8 +379,6 @@ his brother; *maarga maaNaH* = searching; *taam deviim* = that lady; *anupraapta
 
 "That prince, Rama together with his brother, searching that lady, reached Mount Rishyamuka
 and happened to meet Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -444,8 +428,6 @@ for Seetha; *pratijJNaatam* = was promised; *tasya* = to that Rama; *raameNa api
 
 "While Sugreeva promised Rama to get Seetha searched, Rama too promised to get the kingdom
 of monkeys to Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -492,8 +474,6 @@ Sugreeva; *sthaapitaH* = was installed; *raajye* = in the kingdom; *haryR^ikSaNa
 
 "Thereafter, killing Vali in a combat, Rama installed Sugreeva on the throne as a lord
 of that troop monkeys and bears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -537,8 +517,6 @@ _________________
 
 "You may indeed know Vali, the foremost among monkeys, previously. Rama killed that Vali
 with a single arrow in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -585,8 +563,6 @@ with a single arrow in battle."
 
 "Sugreeva, the lord of monkeys, true to his promise, was intent on searching for Seetha
 and sent his monkeys to all directions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -633,8 +609,6 @@ her; *sarvaasu dikSu* = in all directions; *adhashcha* = as also below; *upari*
 
 "Hundreds, thousands and lakhs of monkeys are searching for her in all quarters, as also
 below and above in the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -681,8 +655,6 @@ kechit = some; *anilopamaaH* = are like wind; *shiighraaH* = swiftly going; *asm
 
 "Among those monkeys, some mighty and virile monkeys are similar to Garuda the eagle.
 Some are like wind, swiftly going with an unhindered movement."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -735,8 +707,6 @@ to see; *taam* = her.
 "I am, however, an own son of wind-god and named as Hanuma. I came here even by crossing
 quickly the ocean, which is a hundred yojanas (or eight hundred miles) wide for the sake of Seetha and
 wishing to see her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ great intellectual!; *tat* = that is why; *tvam na arhasi* = you ought not; *upa
 "While strolling around in the city of Lanka, I found Seetha in your abode. You know
 about religious merit and wealth. You performed and mastered the austerities. That is why, you ought
 not besiege the wife of another, O great intellectual!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -828,8 +796,6 @@ not besiege the wife of another, O great intellectual!"
 
 "Intellectuals like you indeed are not engrossed in acts, which are antagonistic to righteousness,
 which are attended with many dangers and which even ruin the doer at the roots."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -876,8 +842,6 @@ by Lakshmana; *raama kopaanuvartinaam* = in the wake of the fury of Rama?
 
 "Who is capable even among celestials and demons, to withstand the arrows discharged
 by Lakshmana, in the wake of the fury of Rama?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -952,8 +916,6 @@ _________________
 
 "O king! No one is known in the three worlds, who have gained happiness, by doing harm
 to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -970,8 +932,6 @@ Seetha; *pratidiiyataam* = be restored; *naradevaaya* = to Rama.
 "That is why, accede to my words, which are beneficial for all the three divisions of
 time (viz. the past, present and future), resulting in affluence and respectability as well. Let Seetha
 be restored to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1019,8 +979,6 @@ hi* = has been indeed beheld; *yat* = which; *durlabham* = is difficult to be ac
 
 "I beheld Seetha, the princess. The audience of Seetha is difficult to be achieved and
 it is obtained here. It is for Rama there to decide his remaining task of future consequence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1070,8 +1028,6 @@ to recognize; *iyam siitaa* = this Seetha; *shokaparaayaNaa* = wholly given up t
 
 "Capturing Seetha, whom you do not recognize as a five-hooded female serpent in your
 abode, has been found by me in that manner, and wholly given over to sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1121,8 +1077,6 @@ _________________
 
 "She is incapable of being devoured with one's might even by celestials and demons, any
 more than food mixed with abundant poison could be digested with one's digestive power, if consumed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1172,8 +1126,6 @@ longevity); *yaH* = or which; *ayam dharmaparigrahaH* = is an outcome of your vi
 
 "It is not proper for you to lose your exceptional longevity and that fortune which is
 an outcome of your virtue, both of which have been acquired by you through the practice of austerities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1220,8 +1172,6 @@ an outcome of your virtue, both of which have been acquired by you through the p
 
 "You may be thinking that you are immune from death from demons and celestials, because
 of your austerities. But your opinion in that matter is not correct, on account of the following reason.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1308,8 +1258,6 @@ the celestial musician; *yakSaH na* = nor Yaksha; the semi-divine being; pannaga
 "This Sugreeva is indeed neither a god, nor Asura the chief of evil spirits nor a demon
 nor a child of Danu the demon, nor Gandharva the celestial musician nor Yaksha the semi-divine being
 nor pannaga the serpent-demon. O King! How do you protect your life from him?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1326,8 +1274,6 @@ not; *adharmaphalasamhitam* = close by the result of unrighteousness; *tat phala
 "The fruit of righteousness does not exist together with the result of unrighteousness
 (eventhough he practices virtue). That consequence of unrighteousness alone follows him. Righteousness
 in abundance destroys unrighteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 
 </details>
@@ -1378,8 +1324,6 @@ already been obtained; *bhavataa* = by you; *na samshayah* = there is no doubt; 
 
 "You already obtained the fruit of virtue till now. There is no doubt about it. In no
 time, you will obtain the fruit of unrighteousness also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1429,8 +1373,6 @@ Sugreeva; *budhyasva* = realise; *aatmanaH* = your own; *hitam* = interest.
 
 "Recognizing the killing of demons in the forest of Janasthana, about the killing of
 Vali and about the friendship between Rama and Sugreeva, realize your own interest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1480,8 +1422,6 @@ this; *ma* = is not; *nishchayaH* = a decision; *tasya* = of Rama.
 
 "I am indeed, even alone, undoubtedly, destroying Lanka, along with its horses, chariots
 and elephants. However, this is not in accordance with the resolution of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1531,8 +1471,6 @@ _________________
 
 "For, Rama, indeed, promised in the presence of troops of monkeys and bears, about the
 extermination of enemies, by whom Seetha was actually laid violent hands upon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1582,8 +1520,6 @@ _________________
 
 "Even Indra the Lord of celestials, in person, cannot attain happiness if he does any
 harm to Rama. How much move to another person like you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1635,8 +1571,6 @@ goddess presiding over and responsible for universal dissolution); *sarva laN^ka
 "Know her, whom you recognize as Seetha and who stays in your captivity, to be none else
 than Kalaratri (the goddess presiding over and responsible for dissolution), who can destroy the entire
 Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1686,8 +1620,6 @@ your; *kSemam* = safety; *chintyatataam* = be thought of.
 
 "Therefore, have it enough of this noose of death, in the form of Seetha's personality,
 which has been placed by yourself around your neck. Think well of your safety."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1738,8 +1670,6 @@ puriim* = city (of Lanka); *dagdhaam* = burnt away; *tejasaa* = by the effulgenc
 "See; (in the immediate future), this city of Lanka, burnt away by the effulgence of
 Seetha and the City too being scorched with its markets and main streets, afflicted by the wrath of
 Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1789,8 +1719,6 @@ _________________
 
 "Do not lead to extermination your own friends, counsellors, kinsmen, brothers, sons,
 well-wishers, enjoyments, wives and Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1834,8 +1762,6 @@ to; *mama* = my; *satyam* = truthful; *vahanam* = words; *raamadaasasya*
 
 "O king of demons! Listen to my truthful words coming as it is from the lips of this
 servant of Rama, his messenger and particularly of this monkey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1881,8 +1807,6 @@ and inanimate things; *tathaa sraSTum* = and also to create in like manner as be
 "The renowned Rama is capable of totally destroying all the worlds together with its
 five elements, along with its animate and inanimate things and also to create yet again all the worlds
 in like manner as before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -1973,8 +1897,6 @@ ogres or among all Vidyadharas, a king of super-natural beings or among Gandharv
 or among Uragas the semi-divine serpents or among Siddhas the holy personages having super-natural powers
 or among excellent Kinnaras the mythical beings with human figure and head of a horse or among all types
 of birds or among all living beings at all places and at all times."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -2028,8 +1950,6 @@ _________________
 
 "After doing a great harm in this manner to Rama the lord of all worlds as well as the
 lion among kings, your survival will be difficult."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -2082,8 +2002,6 @@ or Yaksha the semi-divine beings; *sarve* = all of them; *nashaktaaH* = are not 
 "O king of demons! Either celestials or demons or Gandharvas the celestial musicians
 or Vidyadharas a king of super-natural beings or Nagas the semi-divine serpents or Yakshas the semi
 divine beings-all of them are not able to stand before Rama the lord of the three worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 </details>
 
@@ -2146,8 +2064,6 @@ to be killed by Rama; *yudhi* = in battle.
 destroyer of Tripura (the city built of gold, silver and iron in the sky, air and earth, by Maya for
 the demons and burnt by Shiva), or Mahendra the god of atmosphere and sky as also the lord of celestials
 would not be able to protect the one to be killed by Rama in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -16,8 +16,6 @@ title_english = "006 Ravana calls a meetings of his ministers"
 Ravana recalls the over-powering of Lanka and discovering of Seetha by Hanuman. He
 calls a meeting of his ministers and invites suggestions from them in view of the latest situation
 of a probable attack of Rama and his army on the City of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ and spoke; *sarvaan* = to all; *raakshhasaan* = the demons (as follows):
 Having seen the fearful and the terrible act in Lanka done by Hanuma, like Devendra
 the powerful King of celestials, Ravana with his face descended a little with shame, spoke to the
 demons as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ also seen (by him).
 
 "By him, who was only a monkey, the irresistible City of Lanka was entered into and
 was over-powered. Seetha the daughter of Janaka was also discovered by him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ sanctuary; *dharshhitaH* = was assaulted; *hanumataa* = by Hanuma; *pravaraaH*
 
 The thousand-pillared building used as a sanctuary was assaulted by Hanuma. Our most
 excellent demons were killed. The entire City of Lanka was made turbid.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -226,8 +218,6 @@ well-done.
 
 May prosperity befall on you! What shall I do? What appropriate thing is to be done
 next? Please speak that which is well-answering and that, if attempted becomes well-done.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ desire; *mantram* = a deliberation; *raamamprati* = about Rama.
 
 "Oh, people of great strength! Wise-men say that victory is dependent on good
 forethought. Verily for that reason, I desire a deliberation about Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -325,8 +313,6 @@ most and the lowest; *aham* = I; *vadaami* = am telling; *teshhaam* = their;
 
 "There are three types of men in the world, namely the foremost the middle most and
 the lowest. I am telling their inherent merits and defects."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -386,8 +372,6 @@ among men.
 any undertaking after consulting those who are wedded with welfare of others, or with ministers who
 are efficient in conferring decisions or with friends having common interests or additionally with
 relatives or who try to get a favour from Providence too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -435,8 +419,6 @@ naram* = that man; *madhyamam* = as mediocre.
 
 "The wise men call that man as mediocre, who deliberates about an activity
 solitarily, applies his mind on law and justice all by himself and performs works singly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -485,8 +467,6 @@ solitarily, applies his mind on law and justice all by himself and performs work
 "He who does not determine the merits and demerits of an act clearly, having
 recourse to Providence and neglects his duty by simply telling �I shall do it', he is the lowest
 among men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -533,8 +513,6 @@ known; *uttama adhama madhyamaH* = as good; bad or mediocre."
 
 "In which manner these men are categorized always as good, bad or mediocre, so also
 the resolution in thought is classified as good bad or mediocre."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -582,8 +560,6 @@ the excellent one.
 
 "The wise say that resolution of thought is excellent, in which the thinkers, on a
 view perceived by scriptures, obtain consensus and are satisfied with it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -631,8 +607,6 @@ of a matter; *mantriNaam* = by the counselors; *punaH* = once more; *praaptaH*
 
 "Only after deliberating several kinds of opinions, that decision of a matter
 obtained finally by a consensus of the counselors, is called mediocre."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -680,8 +654,6 @@ divergent opinions; *naasti* = (in which) there is no; *shriyaH* = advantage;
 
 "That resolution is said to be worst in which several arguments are made, employing
 one or the other divergent opinions and in which there is no advantage even after a consensus."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -732,8 +704,6 @@ be done."
 
 "For that reason, you, having excellent intellect, arrive at a well-thought out
 rightful action. To me, this is earnestly to be done."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -783,8 +753,6 @@ _________________
 
 "Rama surrounded by thousands of courageous monkeys, is coming to the City of Lanka,
 for the purpose of besieging us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -834,8 +802,6 @@ _________________
 
 "Rama, by his be-fitting strength, can certainly cross the ocean easily, with his
 brother along with his army and his companions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 </details>
 
@@ -885,8 +851,6 @@ valour; *tasmin* = that; *kaarye* = act; *viruddhe* = of enemity;
 "He may even get the ocean dried up. He may do any other thing by his valour. The
 aforesaid act of enmity with monkeys having commenced in this way, advise me everything that is
 good for the city and my army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga6/yuddhasans6.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ The Kingdom of Holy Monkeys**
 Hanuma fetches Rama and Lakshmana to Sugreeva, and advises him to befriend Rama. Accordingly Rama and
 Sugreeva take the oath of friendship before an altar of fire and Rama assures to eliminate Vali the
 vice, from the face of earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ raaghavau tadaa* = then; *viirau* = about the valiant ones; *aachachakSe* = has 
 
 Hanuma on going from Mt. Rishyamuka to Mt. Malaya, has reported to the king of monkeys Sugreeva, about
 the two valiant Raghava-s. [4-5-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ satya vikramaH* = virtuously valiant one.
 
 "Oh! great discerner Sugreeva, this is Rama... oh, stubbornly valiant Sugreeva, this virtuously valiant
 Rama arrived along with his brother Lakshmana... [4-5-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ kaarakaH* = thus, father's, orders, adherent.
 
 "Rama is the son of king Dasharatha, one born in Ikshvaku dynasty, an adept one in virtue and thus an
 adherent of his father's orders... [4-5-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ the reason, to forests, he came.
 in hundreds and thousands are donated in those rituals, by whom this earth is ruled devoutly and truthful
 to his word, such Dasharatha's son is this Rama, who has to come to forests owing to a woman... [4-5-4,
 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -268,8 +258,6 @@ to his word, such Dasharatha's son is this Rama, who has to come to forests owin
 
 "Ravana stole the wife of this principled one and great soul Rama when dwelling in forests, such as
 he is, he came seeking your refuge... [4-5-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -322,8 +310,6 @@ these two and worship them, for they are most venerable ones..." Hanuma thus adv
 Here Hanuma's role as teacher is depicted. God comes to the rescue of the needy, and communicates through
 a competent teacher. Only the teacher can visualize the god and his intent, and thus narrate it to the
 taught. That is what Hanuma's advise to Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -376,8 +362,6 @@ Sugreeva is not in a presentable form till now because he is outrageously furiou
 syndrome, on seeing Rama and Lakshmana. None can calm these vanara heroes down, except their own favourable
 interests. On listening from Hanuma that the entrants are friends, Sugreeva got his cool back, and thus
 became 'presentable,' befitting to his honourable kingship.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ me* = to me; *bhavat guNaaH* = your, attributes.
 
 "You are a trained one in treading righteous path, best by your scruples, and a kindlier one to all,
 so said Air-god's son Hanuma to me about your attributes, in subtlety... [4-5-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ laabhaH ca* = an honour, best, achievement, also.
 
 "Therefor oh, lord, you wish to make friendship with a monkey like me, thereby this is an honour and
 a best achievement to me alone... [4-5-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -522,8 +502,6 @@ a best achievement to me alone... [4-5-10]
 
 "If you aspire my friendship here I extend my arm, take this hand of mine into yours, thus let the convention
 be stably made fast..." Thus Sugreeva proffered friendship to Rama. [4-5-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -575,8 +553,6 @@ aalambya* = friendship, while abiding; *hR^iSTaH* = happily; *piiditam* = grippi
 Rama is gladdened at heart on listening all those words well said by Sugreeva, and then clutched Sugreeva's
 hand in his, and ardently abiding by the vow of friendship he embraced Sugreeva, grippingly and happily.
 [4-5-12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -654,8 +630,6 @@ fire and a little fume appear, it will be put into the Altar of Fire. Here, Hanu
 ascetic form to his original monkey shape. This form changing at their will and wish is called
 *kaamaruupa vidya*, changing guise at will, which will be useful to Hanuma in the coming
 episodes of Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -704,8 +678,6 @@ at fire, circumambulations, they made; Sugreeva; Raaghava; *ca* = also; *eva* = 
 
 Then those two performed circumambulations to that well glowing ritual fire, and thus, Rama and Sugreeva
 entered into the pact of friendship. [4-5-15, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -755,8 +727,6 @@ viikshantau* = gazing at; *na* = not; *tR^iptim* = satisfaction; *upajagmatuH*
 
 And then gladdened at heart are those two, that monkey and Raghava, gazed enough at each other eye-to-eye,
 but their hearts did not derive any fraternal satisfaction. [4-5-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -806,8 +776,6 @@ vaakyam uvaacha* = thus, Sugreeva, rejoicingly, to Raghava, sentence, said.
 
 Sugreeva rejoicingly said to Raghava, "you are the amiable friend of mine, henceforth our mirth or miseries
 are same for us..." [4-5-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -858,8 +826,6 @@ it.
 
 And then Sugreeva snapped off and spread a fully flowered tree-branch of sala tree with many leaves,
 and sat on it along with Rama. [4-5-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -908,8 +874,6 @@ Hanuma; *chandana vR^ikshasya* = of sandalwood, tree; *parama puSpitaam* = well,
 
 Then Hanuma the son of Air, gladly gave a well-flowered branch of sandalwood tree to Lakshmana... [4-5-19b,
 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -956,8 +920,6 @@ lochanaH* = eyes; *shlakshnam* = softly; *tadaa* = that way; *prati uvaacha*
 
 Then that delighted Sugreeva with his sweet words, and with his eyes quavering in happiness, replied
 Rama softly. [4-5-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1007,8 +969,6 @@ I am moving; *trastaH* = dread; *durgam* = impenetrable; *etat* = this forest;
 
 "Rama, I am ridiculed, stolen is my wife, I move here about in these forests with dread and fear haunting
 me... I took refuge in this impenetrable forest... [4-5-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1059,8 +1019,6 @@ trastaH* = fearing; *udbhraanta chetanaH* = with dismayed, vitality; *vane* = in
 
 "Oh, Raghava, my brother denounced me, he even made me an enemy of his, such as I am I am living in
 these forests with scare and fear, and with dismayed vitality... [4-5-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1108,8 +1066,6 @@ will not, be there; *[tathaa* = that way]; *kartum arhasi* = to do so, apt of yo
 "Oh, highly fortunate Rama, affirm fearlessness to me from Vali by who I am highly intimidated, and
 as to how there will be fearlessness to me from him, it will be apt of you to accomplish that, that
 way... [4-5-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1156,8 +1112,6 @@ iva* = laughing off, as though.
 
 When thus said, that resplendent and righteous one being the patron of virtue Rama replied Sugreeva,
 as though laughing off. [4-5-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1204,8 +1158,6 @@ kill [eliminate.]
 
 "A friend is the resultant factor of helpfulness... that I know... oh, great monkey I intend eliminate
 that Vali, the abductor of your wife... [4-5-2b, 26a5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1268,8 +1220,6 @@ _________________
 "Unfailing are these arrows of mine, scorchers like sun, sharp ones tied with eagle feathers, similar
 to Indra's Thunderbolts, sharp are their point and straight is their egress, similar to enraged snakes,
 and these arrows of mine will be speeded up to fall on that vicious Vali... [4-5-26b, 27, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1318,8 +1268,6 @@ kruuraiH sharaiH vinihitam* = by cruel, arrows, completely ruined; *bhuumau* = o
 "You will see now itself the falling of Vali like a splintered mountain onto ground, when completely
 ruined by these cruel arrows that are similar to venomous snakes..." Thus Rama inculcated confidence
 in Sugreeva. [4-5-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1366,8 +1314,6 @@ appeasing; *raaghavasya tat vachanam* = of Raghava, that saying; *shrutvaa* = on
 
 On hearing Raghava's words that are appeasing for his self, Sugreeva is very completely satisfied and
 said this fine sentence. [4-5-29b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1423,8 +1369,6 @@ me; *tathaa tvam kuru* = like that, you, do; *vairiNam* = to my enemy; *mama agr
 "By your grace, oh, lion among men, let me regain my wife and kingdom too... oh, god of humans, as to
 how he does not suffer me again, thus you may please make happen... let not my elder brother turned
 as an enemy of mine suffer me again... [4-5-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 </details>
 
@@ -1487,8 +1431,6 @@ compare Seetha's eyes with lotuses, Vali's eyes with golden-balls for his comple
 Ravana's eyes with fireballs. But all are left eyes only that have fluttered. The flutter of left eye
 to the male is a bad omen while to the female it is a good omen. Hence the friendship of Rama and Sugreeva
 is the seedling point for eradication of vice, namely Vali and Ravana, from face of the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

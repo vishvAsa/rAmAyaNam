@@ -18,8 +18,6 @@ title_english = "055 Ravana entices Seetha to marry him"
 Ravana entices Seetha to marry him by demonstrating various luxuries and comforts, and even baiting
 her to become his empress. The words of Ravana have some latent meanings as derived by ancient commentators
 and they are included here, as far as possible.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ ghastly, demons; *samdishya* = on directing; *buddhi vaiklavyaat* = by mind's, h
 
 On directing those eight ghastly demons Ravana is amused in his heart of hearts that he has accomplished
 a great feat. [3-55-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ he entered.
 
 On continually musing upon Vaidehi Ravana is tormented with the arrows of Love-god, thereby to lay eyes
 on Seetha he post-hastily entered the beautiful palace. [3-55-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ paraayaNam siitaam* = ruefulness, overwhelmed by, at Seetha; *apashyat* = he beh
 
 On entering the palace-chamber that supremo of demons beheld Seetha overwhelmed with ruefulness amongst
 demonesses. [3-55-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -245,8 +237,6 @@ and the statement at verse 1, *aatmaanam buddhi vaiklavyaat* Rama Tilaka negates
 that Seetha is brought to Lanka as a much cherished Goddess Lakshmi, but her bringing is only with a
 villainous intent. Even then, the supporters of Ravana - the devotee - disagree. There are many such
 slants given to Ravana's dialogs, to portray him as a devotee, in this chapter itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -326,8 +316,6 @@ gemstones. The pillars are amazingly gilded with engraving of ivory, gilt, quart
 and they are even embossed with diamonds and with lapis gems, which are heart-pleasing for a look. The
 drumbeats of divine drums are echoing in entire palace, and its archways are adorned with the gildings
 of pure gold. [3-55-7, 8, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -404,8 +392,6 @@ amusing for sight. [3-55-9b, 10]
 
 Did she walk on her own or was she dragged on the flight of stairs? Yes! She had to walk up the staircase
 after Ravana, but defiantly and straggly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -446,8 +432,6 @@ praadarshayata* = to Maithili, he displayed.
 
 That Decahedral Ravana displayed the multiple stories of his own palace which is all over white-marbled
 and diamond encrusted to Maithili. [3-55-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -505,8 +489,6 @@ demon or his opulence, just for the sake of carnality, is beyond the scope of Se
 to her reply to Ravana, in next chapter 'all this affluence is going to be reduced to ashes...' keeping
 Rama in view as the reducing agent, for Hanuma, the actual reducer of this affluence, is yet an unknown
 entity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -556,8 +538,6 @@ palace, best one; *vaidehiim darshayitvaa* = to Vaidehi, on flaunting siitaam ic
 
 On flaunting his best palace in its entirety to Vaidehi that dirty-minded Ravana spoke this sentence
 to Seetha in order that she may be tempted on her own, lustily. [3-55-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -607,8 +587,6 @@ am, the lord.
 ghastly exploits are there, thus all put together, three hundred twenty millions of demons are there
 in Lanka, omitting the weakish, oldish, youngish demons. For all of them I am the lord." Thus Ravana
 started his self-eulogy. [3-55-14, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -655,8 +633,6 @@ one; *tvam me praaNaiH gariiyasii* = you are, to me, by lives, loftier.
 "For every single work of mine a thousand servitors will rush in. Such as I am I pledge entire life
 of mine along with the suzerainty of this sovereign city-state Lanka to you, oh, broad-eyed lady, for
 you are loftier than my lives. [3-55-15b, 16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -712,8 +688,6 @@ and all of my wives that are amassed by me... for, You are the most adorable God
 though appearing in a gross form of Seetha, you are the real Subtlety, Goddess Lakshmi... *bhaaryaa;
 bhaa= cidruupiNii*= oh, Subtlety; *aaryaa* = oh, adorable one; *a+bhava* = oh, Redeemer;
 *priye* = most adorable Goddess Lakshmi.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -769,8 +743,6 @@ desire for you, and of what use is your thinking conversely about that long-lost
 dhvani/innuendo: The word *kaama* is ellipted here as it appears in other mms. Then it is said
 ' *kaama* 'desirous... I have the burning desire of regaining my servitude at your door...' thus
 *maam bhajasva* 'me, you accept accordingly...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -817,8 +789,6 @@ Indra; *sura asuraiH api* = for gods, demons, even; *iyam dharSayitum* = this, t
 
 "It is impossible to assail this Lanka even for Indra with all of the gods and demons, as an ocean roundly
 enshrouds this Lanka which is hundred-yojana-s witdthwise. [3-55-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -865,8 +835,6 @@ no; *R^iSiSu na* = among sage, no.
 
 "I behold none matchable to my vitality is existent among gods; among yaksha-s - no; among gandharva-s
 - no; among sages - no, nor anyone in any world. [3-55-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -927,8 +895,6 @@ the saints, sages, seers and such hapless lot...' and *alpa tejasaa* by which I 
 itareSaam teejo yasmaat tena* 'by whom others' resplendency is dwindled and lessened, just by his
 own resplendence... about such *raameNa kim?* Why you bother about such Rama, since he is *
 parama puruSa* the Supreme Person?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -997,8 +963,6 @@ for that you stay here in Lanka *maya saha* which cleaves like *maa= lakshmi, ra
 in your service constantly... for which I am the seemliest servant of yours... for that you stay in
 Lanka and grace me and this Fortune of Kingdom, till the arrival of Rama, and then accord deliverance
 through Rama...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1053,8 +1017,6 @@ dhvani/innuendo: Rama is living by his own wits and wisdom to come to Lanka, and
 heart, is ambitiously steered by that chariot's horses, called the five senses of Rama, towards Lanka
 alone all through this incarnation. And bechanced is that time and opportunity, thus he has to come
 here, hence oh, Seetha, you needn't worry...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1104,8 +1066,6 @@ api vaa* = even, or [more so,] to lay hold of; *[na shakyaH* = not practicable.]
 
 "It is impossible to knot the currents of cyclonic gusts in mid air, more so, it is impracticable to
 lay hold on the tongues of radiately irradiant fire. [3-55-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1163,8 +1123,6 @@ and if tried, he becomes a straw in the gale or char in flame... hence *tam na p
 foresee anyone else... *raamam vinaa, iti seSaH* 'excepting Rama...' ellipted. Thus, Rama is
 scheduled to come here as we have our own dealings, hence *maa kR^ithaaH buddhim darshane raamasya*
 don't get perturbed at mind in not seeing Rama... he comes soon...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1220,8 +1178,6 @@ From now on Ravana is dedicating whatever he has or acquired to his benefactress
 saying *madvidhaa* 'me-like...' it is *aatma samarpaNa* self-dedication...' *lankaayaam
 raajyam anu paalaya* 'from Lanka you rule over...' this is *aatmiiya samarpaNa* 'selfless
 dedication...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1292,8 +1248,6 @@ accept...'
 by me are evanished just by getting a glimpse of my choicest deity Goddess Lakshmi in you, thus I am
 absolved of all demerits... and any merit, if remnant with me by my performing some good deeds, intentionally
 or unintentionally, I surrender the fruits of all those merits even, unto to you... pray accept...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1344,8 +1298,6 @@ God cannot be appeased with mountainy offerings. But here Ravana, the devotee wa
 deity with divinely garlands and topmost jewellery... *maya - samarpitaani iti sheSaH* 'by me...'
 ellipted: 'offered...' *saha= ekadaiva* 'at least once...' *sevasva* 'accept them...'
 'Touch my offerings at least for once... thereby I deem that I am graced by you...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1398,8 +1350,6 @@ up, in war.
 
 "Oh, well-waisted lady, just by my might I notched up an aircraft known as Pushpaka from my brother
 Kubera in a war with him, which is similar sun in its shine. [3-55-29b. 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1422,8 +1372,6 @@ dhvani/innuendo: 'That aircraft *maya - samarpite - iti sheSaH* when I dedicated
 to you...' *sa artham= sarva sampadbhiH* 'with all other riches, besides this aircraft... *
 viharasva* 'you enjoy...' 'Apart from this aircraft, I denounce all the riches I gained in you...
 you enjoy the fruits of my action and release me...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1471,8 +1419,6 @@ bhraajati* = not, brightish.
 "Oh, lady with a comely countenance, your visage is lotus similar in its shine, besides being immaculate,
 fairish and eyeful, but oh, curvaceous lady, with such a mushily maudlin of such a face this palace
 of mine is unbright, thus marry me to brighten everything" Thus Ravana spoke to Seetha. [3-55-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1520,8 +1466,6 @@ of mine is unbright, thus marry me to brighten everything" Thus Ravana spoke to 
 
 While Ravana is speaking to her in this way that graceful lady Seetha veiled her moonier face with fringe
 of her sari, and stiflingly dispelled tears on that mooniest face behind her half-veil. [3-55-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1581,8 +1525,6 @@ She allowed him to prattle whatever he wished, but when it is aimed at her face,
 customarily to conceal the flood of sobbing tears, aversely. But Ravana, being a leech of lechery, amusedly
 thinks that she is bashful, thus silent, and because silence is 'half-agreeing', thus he furthers his
 leeching.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1698,8 +1640,6 @@ devotee... Tilaka.
 
 In spite of all these debates and counter-debates of commentators - Ravana remained as a devotee of
 Seetha, namely Goddess Lakshmi, legendarily.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 
 </details>
@@ -1748,8 +1688,6 @@ subordinate; *daasaH asmi* = servant, I am.
 
 "Let these two feet of yours be massaged by my ten heads, do me favour readily, for I am your subordinate
 and servant. [3-55-35b. 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1806,8 +1744,6 @@ the wordage is *shunnyamaanena* emptied by lust...' *imaaH vaacaH* 'these words.
 *shuunyaaH* 'empty...' *na kR^ithaa* 'do not make them...' 'Nullified by lust I spoke
 all these words... and you, on taking them as mere nullities, pray, do not nullify my lovelorn words...'
 Tiirtha calls this as *rasaabhaasa* 'desiring an undesirous woman of others, by hook or by crook.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 </details>
 
@@ -1856,8 +1792,6 @@ sway, on getting; *iyam mama* = she is, mine; *iti manyate* = thus, he deemed.
 
 That Decahedral Ravana on speaking thus to Maithili, who is the daughter of Janaka, deemed that 'she
 is mine,' as he has gone under the sway of the Terminator. [3-55-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

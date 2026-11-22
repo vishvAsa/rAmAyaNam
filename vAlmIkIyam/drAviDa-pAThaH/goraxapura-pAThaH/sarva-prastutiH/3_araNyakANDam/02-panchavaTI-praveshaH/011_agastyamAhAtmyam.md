@@ -24,8 +24,6 @@ Rama comes across lake from which divine music is heard. Surprised at the musica
  leave of that sage and proceeds to see Sage Agastya. And on the way he visits the brother
  of Sage Agastya also. Rama, on the way narrates about the great deeds done by Sage Agastya
  in protecting humans from demons, and also depicts the propitious nature of Agastya's hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -106,8 +104,6 @@ in line. Now, Rama wanted to wage war with demons, thus he leads the way, keepin
 followed and guarded by Lakshmana. This is the view point of the sages following them, for they the
 sages always meditate about that Absolute, in terms of *Om*, and these three appeared as the
 three letters of Om.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -153,8 +149,6 @@ terraces; *vanaani ca* = forests, also; *vividhaa ramyaaH nadiiH ca* = rivers, t
 
 They proceeded while seeing diverse mountain terraces, forests, and diversely enchanting rivers too,
 along with Seetha. [4-11-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -203,8 +197,6 @@ khagaiH yutaani* = water, born, birds, having; *saraamsi ca* = lakes, also.
 
 Beholding the rivers that have water-birds like saarasa, chakravaaka that move on their sandbanks, and
 also the lakes that contain lotuses and water born birds, they moved on. [4-11-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ animals.
 
 The moved on watching spotted deer banded in herds, the wild boars, large horned buffaloes maddened
 in virility, and the ruttish elephants rending trees like their enemies. [4-11-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -323,8 +313,6 @@ On going far on their way, and when the sun is dangling in the western skiy, tog
 lake of one yojana width fully overloaded with red and white lotuses, overspread with sporting elephants,
 and over-flurried with waterfowls like saarasa birds, kaadamba birds, swans and with others kinds too.
 [4-11-5, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -364,8 +352,6 @@ audible; *na tu kashcana dR^ishyate* = not, but, anyone, is visible.
 
 Out of the tranquil and enchanting waters of that lake audible are the melodies of singing and musical
 instruments, but none is visible. [4-11-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -412,8 +398,6 @@ to.
 
 Then Rama and also Lakshmana, the great charioteer, inquisitively started to ask the Sage named Dharmabhrita
 about it. [4-11-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -462,8 +446,6 @@ intense, is created; *kim idam* = why, this; *saadhu kathyataam* = clearly, tell
 
 "On hearing this greatly amazing music from lake, oh, great saint, intensive inquisitiveness is created
 in all of us, why this, please tell us clearly about it." Thus Rama asked. [4-11-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -509,8 +491,6 @@ to tell; *kshipram upacakrame* = quickly, started to.
 
 Thus said by that Raghava then that virtuous sage quickly started to tell about the efficacy of that
 lake. [4-11-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -556,8 +536,6 @@ lake; *panca apsaraH naama taTaakam* = this one is, five apsara, named, lake.
 
 "Oh, Rama, this is an all-time lake built by the ascetic power of the sage Mandakarni, known as Five
 Apsara Lake. [4-11-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -606,8 +584,6 @@ aashaye* = air, while consuming, in lake; *dasha varSa sahasraaNi* = ten, years,
 
 "He that great saint Mandakarni practiced rigorous ascesis for ten thousand years staying in the waters
 of the lake, and consuming air alone. [4-11-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -653,8 +629,6 @@ samaagataaH* = together, meeting; *sa agni purogamaaH* = with, Fire, at helm of 
 
 "Then all the gods are worried and met together with Fire-god at the helm of affairs, and they all conversed
 among themselves. [4-11-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -703,8 +677,6 @@ someone's, place, he is praying for; *iti-* = thus; *sarve divaukasaH tatra samv
 
 "This sage is praying for someone's place among us," thus all of those heaven-dwellers are perturbed
 at heart. [4-11-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -754,8 +726,6 @@ assigned.
 
 "Then all gods assigned five important Apsara-s, the celestial courtesans, whose shine is like the sprint
 of the lightning, to effectuate hindrance in that sage's ascesis. [4-11-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -803,8 +773,6 @@ the celestials; *devaanaam kaarya siddhaye* = for gods', function, to achieve; *
 Then those five celestial beauties have led that sage astray who discerned the nature of this and the
 other world, or good and bad, or the nature of Absolute-Soul and Body- bound Soul, towards the passional
 restraint by, as though to achieve god's task.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -851,8 +819,6 @@ taTaake antar hitam nirmitam* = in there, in lake, inside concealed, is built.
 
 "Also thus, those five celestial apsara-s attained wifehood of that sage, and for them he built a house
 in there, concealed inside that lake. [4-11-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -902,8 +868,6 @@ they are gratifying.
 
 "While those five celestial apsara-s are living in there, they are gratifying that sage according to
 his delight as youthfulness came upon that sage owing to his power of asceticism. [4-11-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -950,8 +914,6 @@ mingled with; *manoharaH giita shabdaH shruuyate* = delightful, singing, of melo
 "These musical sounds we hear are emerging out as played on their instruments, mingled with the tinkling
 of their ornaments, and mixed with their delightful singing of melodies." So said sage Dharmabhrita
 to Rama. [4-11-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -998,8 +960,6 @@ to Rama. [4-11-19]
 
 That highly renowned Raghava together with his brother acknowledged the sage Dharmabhrita's account,
 exclaiming it as "amazing is this..." [4-11-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1052,8 +1012,6 @@ Lakshmana, also,
 While saying thus Raghava has seen a cluster of hermitages nearby, encircled with sacred grass, jute
 cloths, and even encompassed with Vedic solemness, and he entered that hermitage along with Seetha and
 Lakshmana. [4-11-21, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1127,8 +1085,6 @@ to hermitages; *paryaayeNa jagaama* = for another round, he went.
 Rama happily stayed in that august cluster of hermitages duly venerated by those great saints for sometime,
 and then that expert in great missiles Rama went to the hermitages of those sages with whom he stayed
 earlier, for another round. [4-11-22, 23, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1191,8 +1147,6 @@ three, months; *aSTa maasaan ca* = eight, months, also; = nyavasat sukham = live
 Rama stayed there for nearly ten months at some place, elsewhere for one year, at somewhere else for
 four months, and for five, and six months at elsewhere, even at somewhere else for more than a month,
 and for more than one and half months elsewhere. [4-11-24, 25, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1248,8 +1202,6 @@ nikhila muni jana nilayeShu niitvaa dasha samvatsaraan punaraagamya tiikShNatapa
 Thus ten full years are spent only in around these hermitages, peregrinating from one to the other.
 The total period of exile is fourteen years. Here it is said that ten years are completed. In Chitrakuta
 two years are spent. Then the search for Seetha and final war should happen in two year span.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1298,8 +1250,6 @@ sutiikSNasya aashramam aajagaama ha* = to sage Suteekshna's, hermitage, went to,
 
 Thus that virtue-knowing glorious Rama on going around those hermitages along with Seetha indeed went
 to the hermitage of Sage Suteekshna again. [4-11-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1345,8 +1295,6 @@ api kamcit kaalam nyavasat* = there, even, for some time, resided.
 
 On coming at that hermitage that enemy destroyer is adored by sages, and he resided there for some time.
 [4-11-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1393,8 +1341,6 @@ sutiikSNam upaasiinaH* = to that, great, saint, to Suteekshna, who is sitting ne
 
 Then on one day while staying in that hermitage Rama submissively said this to that sage Suteekshna
 who is sitting nearby. [4-11-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1448,8 +1394,6 @@ narrated [about him, thus]; *mayaa* = by me; *shrutam* = heard.
 
 "I have always heard through the narratives narrated by other sages that the godly and eminent sage
 Agastya is residing in this forest. [4-11-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1464,8 +1408,6 @@ one's, of that, sage; *puNyam aashrama padam kutra* = pious, hermitage, where is
 
 "But due to the vastness of this forest I have not known that place, where is the pious hermitage of
 that astute sage? [4-11-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1522,8 +1464,6 @@ saha siitayaa* = with, brother, along with Seetha; *munim agastyam abhivaadayitu
 
 "I wish to approach that sage seeking that godly sage's graciousness, along with my brother and Seetha
 to venerate him. [4-11-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1538,8 +1478,6 @@ ambition; *me hR^idi pari vartate* = in my, heart, it is recurring.
 
 "Can I personally propitiate that supreme sage -- is my high ambition, and it is recurrent in my heart."
 So said Rama to Suteekshna. [4-11-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1589,8 +1527,6 @@ son; *idam uvaaca* = this, said.
 
 Sage Suteekshna on hearing that particular request of that virtue-minded Rama is gladdened and said
 this to him. [4-11-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1645,8 +1581,6 @@ _________________
 
 "Oh, Raghava, even I wished to say this to you, that you may approach Agastya along with Lakshmana and
 Seetha. [4-1-35b, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1662,8 +1596,6 @@ yatra mahaamuniH agastyaH* =* = where, Agastya, great sage is there; *ayam te aa
 
 "But providentially you alone raised this topic with me, Rama, I will tell you where that great sage
 Agastya is. [4-11-36b, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1711,8 +1643,6 @@ Agastya is. [4-11-36b, 37a]
 
 "On your going four yojana-s from this hermitage, oh, dear Rama, there is the great and glorious hermitage
 of Agastya's brother on the southern side. [4-11-37b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1757,8 +1687,6 @@ deshe* = in forest, place [that hermitage is there.]
 
 "That hermitage is there on a plateau in a spectacular place of that forest which is adorned with many
 flowers and fruits, thickets of long pepper, and reechoed with the callings of various birds. [4-11-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1776,8 +1704,6 @@ upa shobhitaaH* = with ruddy gees, beautified with; *vividhaaH padminyaH* = dive
 "There are diverse lakes that are receptacles for tranquil waters, that are teeming with swans and partridges,
 beautified with ruddy geese, and Rama staying there for a night you may proceed in the next morning.
 [4-11-39, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1826,8 +1752,6 @@ on going; *tatra agastya aashrama padam* = there, Agastya's, hermitage, [you wil
 
 "On going one yojana beyond, taking the southward course on the side of the forest clump you will find
 Agastya's hermitage. [4-11-40b, 41a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1868,8 +1792,6 @@ also, you, along with, will enjoy; *bahu paadapa sam yutaH* = with divers, trees
 
 "Seetha and Lakshmana will enjoy those woodlands adorned with diverse pleasant trees, as the woodlands
 abounding with diverse trees will naturally be delightful, isn't it. [4-11-41b, 42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1915,8 +1837,6 @@ up; *draSTum agastyam tam mahaamunim* = to see, Agastya, that, great sage; *adya
 
 "If your mind is made up to see that great sage Agastya, oh, great ingenious Rama, resolve your thinking
 in going only today." So said Sage Suteekshna to Rama. [4-11-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -1963,8 +1883,6 @@ aiming at.
 
 On listening that which is said by the sage, Rama revered that sage along with his brother, and then
 he journeyed with Seetha and his follower Lakshmana aiming to reach Agastya. [4-11-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2033,8 +1951,6 @@ pathaa* = by that, path; *sukham gatvaa* = happily, on going; *parama sam hR^iST
 While viewing beautiful forests, cloud-like mountains, lakes, and rivers that are flowing following
 the pathways, Rama happily journeyed on the pathway indicated by sage Suteekshna, then he gladly spoke
 this sentence to Lakshmana. [4-11-45, 46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2080,8 +1996,6 @@ with pious deeds; *agastyasya bhraatuH* = of Agastya's, brother; *tasya muneH aa
 
 "Definitely this alone appears to be the hermitage of Sage Agastya's brother, one with great soul and
 pious deeds. [4-11-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2128,8 +2042,6 @@ too; *sam nataaH* = much, bowed; *drumaaH* = of trees; *sahasrashaH* = in thousa
 
 "As how thousands of trees are bowing under the weight of flowers and fruit on the pathway, thereby
 I perceive it to be the hermitage of Agastya's bother. [4-11-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2174,8 +2086,6 @@ I perceive it to be the hermitage of Agastya's bother. [4-11-48]
 **अनुवादः**
 
 "Upraised by the wind the sour-smell of pippali fruits is suddenly coming closer from the forest. [4-11-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2225,8 +2135,6 @@ all over, can be seen.
 
 "Here and there visible are the well heaped heaps of firewood, and all over appearing is the sacred
 grass snipped at its top and gemlike in its tinge. [4-11-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2273,8 +2181,6 @@ visible.
 
 "From inside the hermitage in the midst of this forest the vertex of smoke from ritual fire is clearly
 visible as high as the vertex of a black rainy cloud. [4-11-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2335,8 +2241,6 @@ in a big size leaf.
 
 "Best are the flowers brought personally, medium is the forest-born, purchased are the worse, and those
 that are brought by others, the worst."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2385,8 +2289,6 @@ words; *yathaa mayaa shrutam* = as, by me, heard; *eSa nuunam agastyasya bhraatu
 
 "Thus by the words of Sage Suteekshna as I have heard, oh, gentle Lakshmana, this hermitage shall definitely
 be that of Sage Agastya's brother. [4-11-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2438,8 +2340,6 @@ mR^ityum* = by his efficacy, controlling, death; *iyam dik sharaNyaa* = this, re
 "Whose brother is Sage Agastya with meritorious deeds, who wishing well-being of the world controlled
 death by his efficacy, and who made this southern region a liveable region, this must be the hermitage
 of such a sage, such Agatya's brother. [4-11-54]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2485,8 +2385,6 @@ kila* = brothers, dreadful demons, together, they were here, they say.
 
 "Once upon a time verily cruel demon brothers Vaataapi and Ilvala were here together, and they the dreadful
 demons, they say, used to be Bhraman-killers. [4-11-55]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2549,8 +2447,6 @@ demon Ilvala used to speak in chaste Sanskrit. This is one version. The other is
 But as could be seen all the raakshasa-s are Vedic pundits and thus there is no oddity in their speaking
 chaste Sanskrit. Hence their luring or sophisticated talk to entice Brahmans is taken valid. The following
 verse also has the same word, meaning refinement.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2566,8 +2462,6 @@ dvijaan bhojayaamaasa* = them, Brahman, he was feeding.
 
 Then Ilvala used to make his brother Vaataapi into a ram, perfect that ram's meat into deliciously cooked
 food, and used to feed Brahmans according to obsequial rites and deeds. [4-11-57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2613,8 +2507,6 @@ mahataa svareNa vadan* = Ilvala, with loud voice, shouting; *vaataape niS kramas
 
 "When those Brahmans are surfeited with that ram's meat, then Ilvala used to shout loudly, "oh, Vaataapi,
 you may come out." [4-11-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2661,8 +2553,6 @@ braahmaNaanaam* = bodies, of Brahman; *vi niS patat* = used to lunge out.
 
 "Then on listening his brother's words Vaataapi used to lunge out bleating like a ram, tearing and rending
 the bodies of those Brahmans. [4-11-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2716,8 +2606,6 @@ Some say that the wording *taiH* they, is plural ad it is not accommodative, and
 text of unknown reference contained these words, *taabhyaam evam paramtapa pishita ashayaa* by
 them two, that way, Lakshmana, for *pishita aashayaa* raw meat, avaricious as they are, they
 used to kill.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2764,8 +2652,6 @@ agastyena* = by great sage, Agastya; *shraaddhe anubhuuya* = in obsequial rites,
 "Then by Sage Agastya, whom gods have prayed to end this demonic menace, and whom demon Ilvala invited
 to feast during obsequial rites, he that Agastya having relished the fiendish demon in the form of ram,
 they say, had finished him off. [4-11-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2813,8 +2699,6 @@ conversed.
 "Then Ilvala while giving lateral hand wash into the palms of Agastya entered in the routine conversation
 of obsequies asking, "Is this rite fulfilled..." and he furthered it in calling his brother to come
 out. [4-11-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2860,8 +2744,6 @@ saH abraviit prahasan* = to Brahman, killer, to that Ilvala, spoke, mockingly.
 
 Then that wise and eminent sage Agastya spoke mockingly to Ilvala who is conversing that way to his
 brother to come out. [4-11-63]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2919,8 +2801,6 @@ for many times. It means that mothers wished their babies should digest any indi
 to health, as has been digested by Sage Agastya. It is said Agastya prohibited any kind of meat to Brahmans,
 as meat food will be shearing their stomachs with it ram's horns from then on. He is also said to have
 cursed Brahmans to be diverse, *braahmaNaanaam anekatvam* as none will concur with the other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -2966,8 +2846,6 @@ night-walker; *munim pra dharSayitum aarebhe* = at the sage, to assault, commenc
 
 "Then on hearing the words of sage Agastya affirming brother's demise, that night-walking demon furiously
 commenced to assault the sage. [4-11-65]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3017,8 +2895,6 @@ gataH* = doom, went into.
 
 "When that demon rushed towards that best Bhraman to kill, he that sage glowing with his own refulgence
 burnt him down just by his flame-like eyes and doomed him to death. [4-11-66]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3066,8 +2942,6 @@ idam duS karam kR^itam* = feat, this, impossible, deed, is done; *tasya bhraatuH
 "This hermitage embellishing with lake and woods belongs to the brother of Sage Agastya who has done
 this impossible deed just by his compassion towards Brahmans." So said Rama to Lakshmana and Seetha
 about Agastya. [4-11-67]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3113,8 +2987,6 @@ abhya vartata* = vesperal, time, came close of.
 
 While Rama narrated that way to Lakshmana sun went into dusk and the vesperal time came close of him.
 [4-11-68]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3161,8 +3033,6 @@ also, greeted.
 
 Worshipping sunset along with brother as per custom, Rama entered that hermitage and greeted that sage.
 [4-11-69]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3211,8 +3081,6 @@ nyavasat* = that, one night, [there] he spent.
 
 Raghava spent one night there when that sage received him well and when they dined on tubers and fruits.
 [4-11-70]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3258,8 +3126,6 @@ brother, that one, of Agastya; *aamantrayata* = took leave of.
 
 Raghava spent that night there and when sun rose in solar orbit he took leave of the brother of Sage
 Agastya saying the following. [4-11-71]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3307,8 +3173,6 @@ I proceed.
 
 "Oh, godly sage, we stayed in the night comfortably, I now make an obeisance and bid farewell to you,
 as I wish to proceed to see your mentor and elder brother Agastya. [4-11-72]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3359,8 +3223,6 @@ as directed by Suteekshna, and on observing those woodlands. [4-11-73]
 
 The name of this brother of Agastya is Sudarshana. But none calls him by that name and he is just called
 *agastya bhraata* , Agastya's brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3421,8 +3283,6 @@ also; *tindukaan* = tinduka trees [Diospyros tomenfosa.]
 
 On observing the wild grass that grows on its own giving wild grain, Jack-fruit trees, sala trees, Ashoka
 trees, lemons trees, saplings of bilva trees and also madhuka and bilva trees he journeyed. [4-11-74]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -3441,8 +3301,6 @@ the trees]; *dadarsha* = he saw.
 Rama has seen hundreds of flowered forest trees that are battered by the trunks of elephants, that are
 adorned with monkeys, reverberated by hundreds of lusty bird folks, and that are enriched by the flowered
 climbers whorled around them. [4-11-75, 76]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3491,8 +3349,6 @@ one; *samiipa stham lakSmaNam near, at hand, to Lakshmana, abraviit* = said.
 
 Then the lotus-eyed Rama said this to his follower Lakshmana who is a valiant and glory-enriching one
 and who is near at hand. [4-11-77]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3541,8 +3397,6 @@ very, far, it is situated.
 "As to how the trees are appearing with velvety leaves, and as to how the animals and birds appear unwearied,
 thus gauging by this it appears that the hermitage of that contemplative soul Agastya is situated not
 very far from here. [4-11-78]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3594,8 +3448,6 @@ be his hermitage that alleviates the weary of wearied ones. [4-11-79]
 **टिप्पनी**
 
 The name Agastya is cleavable like *aga+ stha* mountain, who stayed, stopped from excessive growth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 </details>
@@ -3644,8 +3496,6 @@ birds, sonority [overloaded with.]
 "The forest nearby this hermitage is overrun by huge smoke from altars of fire, overstuffed with the
 garlands of jute cloth, overcrowded with the herds of peaceful deer, and also overloaded with sonority
 of the birds. [4-11-80]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3693,8 +3543,6 @@ a liveable province by his pious deeds, his hermitage is this. [4-11-81]
 **टिप्पनी**
 
 There is some problem in copying. These stanzas of verse have already appeared above at 4-11-54.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -3710,8 +3558,6 @@ There is some problem in copying. These stanzas of verse have already appeared a
 
 "Under whose influence the demons behold this southern quarter appallingly, and they do not even venture
 to live here, such a sage Agastya's hermitage is this. [4-11-82]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3757,8 +3603,6 @@ pra shaantaaH [abhavat]* = night, walkers, without, feud, they calmed down.
 
 "And from when that pious deeded Agastya took possession of this quarter, from then on the night walkers
 are calmed down and remained without feud. [4-11-83]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3805,8 +3649,6 @@ befitting one, dextrous one]; *iyam dakSiNaa dik* = this, southern, quarter; *bh
 
 "This very worthy southern quarter is known in the name of that godly saint Agastya and this remained
 unattackable to the demons with cruel deeds. [4-11-84]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3898,8 +3740,6 @@ seasons' revolve, Vedic calendars etc. are again put to normalcy. Thus the name 
 mountain, stopper, *agam sthaasyati* or, *stabhnaati iti agastyaH*. He played an important
 role in uplifting southern regions of India, namely Dravidian cultures. Hid wife is Lopaamudra, the
 saintly lady will be quoted in Lalitha Sahasra Naamaavali. The thousand name of Mother Universe.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3945,8 +3785,6 @@ yoja yiSyati* = when we go to him, for us, beneficence, he accords.
 
 "He that gentle sage who is always interested in the respect of sagacious ones is thus an esteemed one
 in the world, and for us when we approach him he accords beneficence. [4-11-87]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -3993,8 +3831,6 @@ vaasasya sheSam aham vatsyaami* = forest, dwelling, remainder of, I, [here] will
 
 "Oh, adept Lakshmana, I wish to worship that great saint Agastya therein that hermitage, and oh, gentle
 one, I think of living the remainder of forest living here only. [4-11-88]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -4044,8 +3880,6 @@ also; *parama R^iSayaH* = exalt, sages; *niyata aahaaraaH* = controlled, dietary
 
 "There gods with gandharva-s, siddha-s, exalted sages will be worshipping Agastya who is self-regulating
 self-disciplinary. [4-11-89]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -4095,8 +3929,6 @@ vaa* = sinful, in behaviour, either; *atra na jiivet* = there, not, he will be a
 
 "There no liar can live, nor a savage, nor even a deceiver, nor a man-torturer, nor one with sinful
 behaviour, for that sage is of that nature. [4-11-90]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -4143,8 +3975,6 @@ to.
 
 "There the gods, celestials, reptiles, birds live together wishing to worship the Absolute with self-discipline.
 [4-11-91]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -4192,8 +4022,6 @@ R^iSayaH* = blest, sages.
 
 "There the blest and great souls of accomplished ascesis rode to heavens by aircrafts similar to sun
 in resplendence, on relinquishing their mortal bodies here and on obtaining new bodies. [4-11-92]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -4239,8 +4067,6 @@ ca* = realms, many a, also; *pra yacChanti* = they will endow.
 
 "There gods will endow the state of celestials or immortals, or many realms of divine living to those
 auspicious beings that worship them. [4-11-93]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 </details>
 
@@ -4297,8 +4123,6 @@ the instrument to eliminate Ravana, namely Seetha have come. Rama says in above 
 like to spend rest of the exile here in this hermitage. But Sage Agastya later asks him to proceed to
 Panchavati, i.e., towards the dominions of demons. For that and for keeping the sage informed about
 the arrival of time to eradicate Ravana, Rama seeks this protocol.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

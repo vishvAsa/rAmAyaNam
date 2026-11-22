@@ -17,8 +17,6 @@ title_english = "027 Sharana describes the individual strength of the army"
 
 Sharana continues to describe the individual strengths of the various commanders in
 the army of monkeys, mentioning their names one by one, in detail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -127,8 +125,6 @@ the city of Lanka; *sahasaa* = soon.
 "Hundreds and thousands of troop-leaders who are resolved to be the servants of
 Sugreeva rally behind him, carrying trees with them and with an intention to attack Lanka
 soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -214,8 +210,6 @@ in plains; *nadiiSu cha* = and on river-banks abhivartante = and they are coming
 extremely ferocious bears, truly mighty in combat, which are in exceedingly large number,
 indefinable like the other shore of an ocean, whom you are observing and serve of whom reside in
 mountains, plains and on river-banks. They are all coming towards you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -237,8 +231,6 @@ Dhumra; *adhipatiH* = the lord sarvarkSaaNaam = of all bears; *piban* = who drin
 appearance, encircled by all like Parjanya (the rain-god) being encircled by clouds; is the
 army-chief called Dhumra, the Lord of all bears, who drinks the waters of River Narmada and resides
 on an excellent mountain named Rikshavanta."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -303,8 +295,6 @@ battle.
 form resembling like his brother, is more distinguished in prowess. He as such is a commander of
 even the mighty generals called Jambavan, who is setting on the march (for the battle). He has a
 respectful behaviour towards venerable persons impatient in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -347,8 +337,6 @@ battle between celestials and demons; *bhavaH* = and many; *varaashcha* = boons 
 
 By the intelligent Jambavan, a great help was rendered to Indra (the lord of
 celestials) in a battle between celestials and demons and many boons were obtained."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -410,8 +398,6 @@ and hurl; *mahaabhra vipulaaH* = as big as huge clouds; *shilaaH* = massive rock
 "Jambavan's giant bodied troops, resembling demons and devils, having thick hair and
 endowed with unlimited energy, wander about, climbing mountain-heights and hurl massive rocks as
 big as huge clouds. They do not have a fear in facing death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -473,8 +459,6 @@ called Dambha; *balasamyuktaH* = who along with his army; *balena* = in bulkines
 "O, king! This Lord of monkeys- the commander of commanders on whom, whether he is
 in a hurried fury or leaping or standing still and all the monkeys stand looking - he is called
 Dambha who along with his bulky troops dwell on Sahasraksha mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -545,8 +529,6 @@ body, whose huge form no other four-begged animal is having, by which intelligen
 was given earlier to Indra the Lord of celestials on a field of battle but no defeat was sustained
 by him, he is a commander of commanders and the grand-father of monkeys, famous as Samnadana by
 name."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -562,8 +544,6 @@ of Rama; *narakSanti* = without protecting; *jiivitam* = their life.
 
 "I on my part shall tell you, who are keenly observing about those army-chiefs, who
 are ready to show their valour in the case of Rama, even without caring for their lives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -629,8 +609,6 @@ kanyaayaam* = of a youthful Gandharva maiden; *kR^iSNavartmanaa* = and Krishnava
 "This Samnada, whose striding prowess is equal to that of Indra the Lord of
 Celestials was born of a youthful Gandharva maiden and krishnavartman for the purpose of helping
 the celestials in a combat between celestials and demoneous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -655,8 +633,6 @@ illustrious one, sits beneath the Jambu tree, on that mountain, the king of peak
 frequented by Kinneras, and which mountain affords delight constantly to your brother. It is near
 there, Krathana, that fortunate one, that powerful lord of the monkeys, whose prowess in not
 confined to words in battles, sports."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -677,8 +653,6 @@ Lanka; *svena* = by his; *aniikena* = army.
 
 "He indeed is standing, surrounded by a thousand crores of monkeys. He hopes to
 crush Lanka with the help of his army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -700,8 +674,6 @@ ground.
 "He is a monkey called Hara, who has terrific acts to his credit. The hair on his
 tail, measuring many fathoms, soft, red in colour, yellow, white and super-white, wavery and
 shining like the rays of the sun standing erect thrown about are dragging along the ground."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -787,8 +759,6 @@ subduing; *vanyaan gajaan* = wild elephants.
 elephants, remembering as he does the old quarrel between elephants and monkeys, thundering and
 uprooting trees, he is the commander and leader of monkeys called Pramathim who dwells in
 mountain-caves, subduing wild elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -807,8 +777,6 @@ River Ganaga; *ramte* = passes his life happily; *shukraH iva* = like unto Indra
 "This excellent one among the monkeys and this army-chief of monkeys, taking shelter
 in Mandara the foremost of mountains and the mountain called ushirabija alongside the River Ganga,
 passes his life happily like unto Indra himself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -824,8 +792,6 @@ following; *enam* = him.
 
 "A hundred thousands of monkeys; proud of their strength and prowess with their
 radiant fore-arms, making a roaring noise, are following him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -847,8 +813,6 @@ conquered.
 
 "He is the leader of these high-soled monkeys. O, king! He is the commander called
 Pramathi, the one difficult to be conquered."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -869,8 +833,6 @@ wind; (is Pramathi); *yatra* = in which place; *aruNaabhaasam* = a red illumined
 great quantity of red illumined dust is tossed about and raised by wind in various ways in
 different directions. Energetic and excited army of monkeys is also stationed there along with
 Pramathi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 </details>
@@ -930,8 +892,6 @@ bodily strength.
 appearance and with great strength, experiencing the crossing of the bridge, surrounds the
 troop-leader by name Gavaksha, a monkey and are making a roaring noise, ready to crush Lanka by
 their bodily strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -1012,8 +972,6 @@ colour and splendour, by whose brightness, the animals and birds ever shine with
 whose table-land on the top of the mountain the great sages do not leave, wherein trees, all
 mango-trees laden with fruits on all sides and wherein inhabit honey-bees of excellent
 variety."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -1114,8 +1072,6 @@ four tusks, with nails as their weapons having four tusks like lions, difficult 
 like tigers, resembling fire, like unto serpents vomiting poison with their very long coiling
 tails, resembling elephants in rut, equal to mighty mountains and making great thunderous sound
 like that of clouds. All of them stand looking on your Lanka as if they are about to crush it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -1171,8 +1127,6 @@ he; *aashamasate* = who swears; *marditum* = to destroy; *laN^kaam* = Lanka;
 "O, king! He who stands in the middle is the powerful leader of the monkeys who ever
 faces the sun, who is a wise man, eager to conquer you and is famous in the world by the name,
 Shatabali. He swears to destroy Lanka with his troops."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -1216,8 +1170,6 @@ sake of Rama.
 
 "This Shatabali the monkey is courageous, strong, valiant and is established in his
 manliness. He does not care for his life, in the cause of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -1264,8 +1216,6 @@ koTibhiH* = by ten crores; *yodhaanaam* = of warriors.
 
 "Each and every single one, like Gaja, Gavaya, Nala and a monkey called Nila is
 surrounded by crores of warriors."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -1315,8 +1265,6 @@ mountain; *laghuvikramaaH* = and are impossible; *samkhyaatum* = to be counted;
 
 "Besides, other excellent monkeys residing in Vindhya mountain are quick-paced and
 are impossible to be counted because of their multitude."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 </details>
 
@@ -1364,8 +1312,6 @@ shailaam* = by uprooting and razing to its mountains to the ground.
 "O, monarch! All of them are highly prominent, their stature equal to high hills and
 all of them are capable in a moment to level the earth by uprooting and razing its mountains earth
 by uprooting and razing its mountains to the ground."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

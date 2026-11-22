@@ -17,8 +17,6 @@ Rama describes to Seetha the beauty of Mandakini River with its multi-coloured
 beaches, swans, geese, deer and flowery trees on its banks. He shows some sages taking dip in the
 river and herds of elephants and monkeys coming for a drink there. Thus Rama and Seetha spend some
 of their time in enjoying the charms of Chitrakuta mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ Mithila; *ramyaam* = the beautiful; *mandaakiniim nadiim* = river of Mandakini;
 Then, turning away from the mountain, Rama (The prospective ruler of Kosala) showed
 Seetha (the daughter of the King of Mithila) the beautiful river of Mandakini carrying splendid
 waters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ nibhaananaam* = whose face resembled the moon.
 
 The lotus-eyed Rama spoke to Seetha, (the daughter of Janaka) who was having an
 elegant waist and whose face resembled the moon:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ multi-coloured sandy beaches; *hamsa saarasaa sevitaam* = frequented by swans an
 
 "Behold this charming river of Mandakini, with its multi-coloured sandy beaches,
 frequented by swans and geese and laden with flowers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ loveliness; *aliniim iva* = like the lake (sangandhika); *raajaraajasya* = of Ku
 "Behold this river, hedged on all sides with various kinds of flowers and fruits,
 growing on its banks and enhance its loveliness like the lake (Sangadhika) of Kubera (the ruler of
 Yakshas)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -266,8 +256,6 @@ Yakshas)"
 
 "At this moment, its pleasant fords, where herds of deer drink and make the waters
 turbid, create ecstasy in me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -316,8 +304,6 @@ hour.
 "O, beloved Seetha! Sages with matted locks and wearing antelope-skins and having
 bark of trees for their upper garment, take a dip in the River Mandakini, at the appointed
 hour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ hour."
 
 "O, Lady of wide eyes! Here are some other sages of austere vows, worshipping the
 sun with uplifted arms; as per the scriptural injunctions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ leaves and flowers; *nadiim abhitaH* = on both sides of the river; *parvataH* =
 
 "The trees, their crowns agitated by the breeze, that shower down leaves and flowers
 on both sides of the river cause the mountain to appear as though it were dancing!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ places."
 **टिप्पनी**
 
 Siddha: A class of semi-divine beings endowed with mystic powers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -518,8 +498,6 @@ waist.
 
 "Behold you, heaps of flowers shaken down by the wind and shattered. See some other
 heaps of flowers floating, O lady with slender waist!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -566,8 +544,6 @@ harmonious; *giraH* = tones.
 
 "O, Kalyani! Behold the sweet-voiced ruddy geese, ascending the banks uttering
 harmonious tones."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -615,8 +591,6 @@ woman!.
 
 "I consider this sight of Mandakini River and of Chitrakuta, particularly at your
 sight, to be more delightful than dwelling in the City of Ayodhya, O, lovely woman!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -664,8 +638,6 @@ should enter; *mayaa saha* = with me;
 Here are Siddhas (semi-divine beings endowed with mystic powers), free from
 impurities and rich in asceticism, with their senses and mind under control, who perpetually stir
 the waters. You too should take a dip in the river along with me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -712,8 +684,6 @@ Lovely Seetha!.
 
 "Enter the Mandakini River, as on the breast of a friend, submerging the red and
 white lotuses in it- O, Lovely Seetha!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -761,8 +731,6 @@ as the Sarayu.
 
 "My darling! Think of the wild beasts as inhabitants of the city of Ayodhya, this
 mountain of Chitrakuta as the city of Ayodhya and this river as the Sarayu from now on!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -809,8 +777,6 @@ commands; *tvam cha* = you too; *anukuulaa* = are well-disposed; *janayathaH*
 
 "O, Seetha!; The virtuous Lakshmana is obeying my commands and you too are
 well-disposed, causing delight to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -860,8 +826,6 @@ spR^ihaye* = nor do I long; *ayodhyaayai* = for Ayodhya; *adya* = now.
 
 "Bathing three times a day in the river and living on honey, roots and fruits in
 your company, I do not desire for the kingdom nor do I long for Ayodhya now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -918,8 +882,6 @@ bloom.
 "There is none in the world, who would not be relieved of his fatigue and feel
 refreshed on the banks of this enchanting river, frequented by herds of elephants, who with lions
 and monkeys, come here to drink and which is adorned with innumerable flowers in full bloom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 </details>
 
@@ -975,8 +937,6 @@ of a piece of collieries.
 Describing the varied beauties of the Mandakini River, Rama the bestower of delight
 to Raghu dynasty with his beloved consort as a companion, strolled in the lovely mountain of
 Chitrakuta which was shining like a piece of collieries."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga95/ayodhyasans95.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

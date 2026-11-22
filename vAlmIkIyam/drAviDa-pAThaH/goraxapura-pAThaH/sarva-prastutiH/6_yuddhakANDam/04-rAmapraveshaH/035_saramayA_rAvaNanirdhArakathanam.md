@@ -17,8 +17,6 @@ With the sound of kettle drums and couches, Rama arrives to Lanka with his army.
 Ravana hears those sounds and calls his ministers to chalk out his further course of action.
 Malyavan, Ravana's maternal grandfather advises Ravana to conclude peace with Rama and restore
 Seetha to him as he is perceiving adverse omens.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ kattle drums; *shaN^kha vimishreNa* = mingled with the blast of couches.
 
 The mighty armed Rama, the conqueror of hostile cities sallied forth with the
 resonant roll of kettle drums, mingled with the blast of couches.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ demons; *aasthaaya* = resorting to dhyaanam = meditation; *muhuurtam* = for a mo
 
 Hearing that sound, Ravana the Lord of demons, paused for a moment to reflect and
 looked towards his ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ demon; *raakSaseshvaraH* = and the lord of demons; *tatra* = these;
 Ravana of great strength the tormentor of the world, and a cruel lord of demons then
 addressed all his ministers in a voice that resounded the entire hall as follows, accusing
 none.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ ocean; *vikramam* = his prowess; *balapauruSam* = strength and heroism.
 
 "I have heard what you told me about Rama's crossing the ocean, his prowess,
 strength and heroism."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -242,8 +232,6 @@ are truly brave; *yuddhe* = in the field of battle; *viditvaa* = yet on being aw
 
 "I know that you are truly brave in the battle-field, yet, on beholding that valiant
 Rama, you too look on each other in silence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -293,8 +281,6 @@ intelligent; *tataH* = then; *abraviit* = answered; *iti* = as follows:
 
 Hearing those word of Ravana whose maternal grandfather he was, the highly
 intelligent demon called Malyavan, answered him thus:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -347,8 +333,6 @@ prudence, enjoys sovereignty for a long time and compels his enemies too into su
 
 Four Vedas, six Vedaangas, the Puranas, the Mimamsa, Nyaya and Dharma together
 constitute fourteen sciences.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -395,8 +379,6 @@ and attains; *mahat* = a great; *aishvaryam* = power.
 
 "He who concludes peace even with enemies or wages war at a fitting time strengthens
 his own party and attains a great power."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -445,8 +427,6 @@ war.
 "A treaty of peace should be reached by a king who is weaker or equal to an enemy.
 The king should never underrate that enemy. If the king is more powerful, he should make war on the
 enemy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -494,8 +474,6 @@ enemy."
 
 "O, Ravana! For that reason, alliance with Rama finds favour with me. Let Seetha,
 for whose sake you are being attacked, be restored to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -543,8 +521,6 @@ agreable; *te* = to you.
 
 "All the celestials, sages and Gandharvas the celestial musicians are wishing for
 victory of Rama. Do not get an enmity with them. Let alliance with him be acceptable to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -592,8 +568,6 @@ them respectively.
 
 "Brahma, the lord of creation, created only two classes of beings, the celestials
 and the demons. Celestials take refuge in righteousness and demons in unrighteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -641,8 +615,6 @@ demons.
 
 "O, Ravana! Righteous is said to be on the side of the high-souled celestials.
 Unrighteousness is indeed on the side of ogres and demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -693,8 +665,6 @@ Yuga the fourth age.
 
 "When righteousness swallows unrighteousness, it becomes kR^ita Yuga, a golden age.
 When unrighteousness swallows righteousness, it incites Kali Yuga the fourth age."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -742,8 +712,6 @@ reason; *pare* = the enemies; *balinaH* = are stronger; *asmat* = than us.
 
 "Therefore, while you were wandering in the worlds, even the great righteousness was
 destroyed and unrighteousness favoured by you. So, the enemies are stronger than us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -791,8 +759,6 @@ cha* = is getting augmented.
 
 "Due to your negligence, that well nourished unrighteousness is swallowing us. Being
 favourable to demons, the sect of demons is thereby getting augmented."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -842,8 +808,6 @@ fire; *prasaktena* = who are interested; *viSayeSu* = in sensual enjoyments;
 
 "You, who are interested in sensual enjoyments, doing whatever you like, have
 created a great alarm in the sages, having the nature of fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -950,8 +914,6 @@ Brahamans worship the gods through different principal sacrifices, also pour obl
 sacred fires with due ceremony and read the Vedas (Sacred texts) in a loud voice. Having subdued
 the demons, they continued to chant the sacred text, on hearing which all the demons scattered in
 all directions, as thundering clouds in a hot season."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -999,8 +961,6 @@ resemble the fire ( in brilliance); *vyaapya* = enveloping; dasha- the ten; *dis
 
 "The smoke coming forth from the sacred fire of the sage who resemble the fire (in
 brilliance), enveloping the ten directions, takes away the magical power of the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1047,8 +1007,6 @@ torment; *raakSasaan* = the demons.
 
 "The severe austerity practised by the sages, firm of resolve, in different
 countries torment the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1119,8 +1077,6 @@ vikramaaH* = having stron prowess; *mahaabalaaH* = and very efficacious;
 "You received a boon of invincibility from celestials, demons and semi-divine
 beings, but then are men, bears as well as powerful and very efficacious having strong prowess who
 are coming hither, roaring like lions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1168,8 +1124,6 @@ demons.
 
 "By seeing various kinds of unexpected events (portents) and many types of terrific
 things, I am perceiving a destruction of all the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1216,8 +1170,6 @@ things, I am perceiving a destruction of all the demons."
 
 "With terrifying clamour, monstrous clouds, inspiring horror, rain hot blood on
 Lanka on every side."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1264,8 +1216,6 @@ prabhaanti* = and are not shining; *yathaapuram* = as before.
 
 "Drops of tears drop from the weeping elephants, horses etc., whose skins became
 discoloured, covered with dust and are not shining as before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1312,8 +1262,6 @@ discoloured, covered with dust and are not shining as before."
 
 "Flesh-eating animals, jackals and eagles and howling horribly. Entering Lanka, they
 are in the groves, forming into groups."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1364,8 +1312,6 @@ teeth.
 
 "Black women, chattering incoherently in dreams and robbing different houses stand
 in front, laughing loudly with their white teeth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1415,8 +1361,6 @@ rats; *nakuleSu* = of mongoose.
 
 "Dogs devour the sacred offerings offered in homes. Donkeys are born of cows and
 rats of mongoose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1465,8 +1409,6 @@ or with a horse's body with the head of a man); *raakSasaishchaapi* = with demon
 "Cats mate with tigers, pigs with dogs, Kinnaras (a species of demi-gods with the
 human figure and the head of a horse or with a horse's body and the head of a man) with demons and
 men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1516,8 +1458,6 @@ move in different directions; (foretelling); *vinaashaaya* = the extermination;
 
 "Red-footed and white pigeons, messengers of death, move in different directions,
 foretelling the extermination of demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1570,8 +1510,6 @@ _________________
 
 "Domesticated minas (a kind of birds) making a chirping sound, defeated by other
 bellicose birds drop down, being twined together in groups."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1625,8 +1563,6 @@ nimittaani cha* = sinister omens; *utpatanti* = appear.
 "Birds and wild animals, facing towards the sun, cry out. Death, in the form of a
 frightful, monstrous and cruel blackish fellow with a shaven head casts his eyes on all our
 dwellings, both morning and evening. These and such other sinister omens appear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 </details>
 
@@ -1680,8 +1616,6 @@ understanding.
 mere human being, he by whom that most wonderful bridge was built across the sea. O, Ravana!
 Conclude peace with Rama, who is the king of men. Having come to know of his acts, let that which
 is good for the future be done after a mature understanding."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

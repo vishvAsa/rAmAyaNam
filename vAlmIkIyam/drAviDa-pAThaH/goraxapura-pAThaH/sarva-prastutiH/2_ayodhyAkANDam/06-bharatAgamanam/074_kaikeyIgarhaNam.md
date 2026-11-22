@@ -19,8 +19,6 @@ Kausalya, Sumitra and other mothers because of his father's death and brother's 
 forest. He compares the grief of the Kausalya with the grief of Kamadhenu the mythical cow who was
 aggrieved of a pair of bullocks (her sons) being harassed by a plough -man. Bharata then promises
 that he would bring Rama back to Ayodhya and make him as a king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ reproaching; *taam* = her; *tathaa* = in that manner; *punareva* = again;
 
 Reproaching Kaikeyi in that manner, Bharata again spoke the following words, wrapped
 as he was in great anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ who will be dead.
 
 "O, Kaikeyi! The cruel and evil-mannered woman! Get lost from this kingdom. You
 having abandoned righteousness, remain lamenting about me, who will be dead soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ the highly righteous man (have done);yayoH = to whom; *mR^ityuH* = death;
 
 "What harm king Dasaratha or the highly righteous Rama have done to you so harshly
 that Dasaratha's death and Rama's exile have occurred at one and the same time because of you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ the same heaven; *bhartuH* = with your husband.
 
 "O, Kaikeyi! You got the sin of killing an embryo because of the destruction of this
 race. O, Kaikeyi! Go to hell .Do not get the residence in the same heaven as your husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ also.
 
 "You have done this terrific act and committed such a great sin. By forsaking the
 persons beloved by all, an alarm has been created in me also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ you.
 
 "My father died and Rama is dwelling in a forest, because of you. You got me ill
 fame in this world of beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ Aham = I; *naasmi* = am never; *abhibhaashhyaH* = to address; *te* = you.
 "Though in appearance you are my mother, you are inimical to me. You are a cruel
 woman, greedy of kingdom. With evil conduct, you killed your husband. I should never speak to
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ wherefore; *praapya* = by falling victim; *tvaam* = to you; *kuladuushhiNiim*
 
 "Kausalya, Sumitra and my other mothers are engrossed in a great misfortune, by
 falling victim to you, who brought disgrace to our family."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -493,8 +475,6 @@ to destroy the house; *pituH* = of my father
 grief for his son, my father went to heaven. You do not seem to be the daughter of Asvapati, the
 pious and sensible king. You were born there as a demo ness, to destroy the house of my
 father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -510,8 +490,6 @@ apriyecha* = and I was disliked; *sarvalokasya* = by all the people.
 
 "The aforesaid sin you have committed has made me father less. Besides, I have been
 abandoned by my brothers and all the people dislike me now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -562,8 +540,6 @@ son?
 
 "O, woman having evil desires, moving towards hell! Which world will you attain now,
 after making Kausalya endowed with righteousness, deprived of her son?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -611,8 +587,6 @@ father?
 
 "O, cruel woman! Don't you know that Rama the son of Kausalya is a subdued man, who
 is devoted to his relatives and as an eldest brother, equal to a father?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -664,8 +638,6 @@ relatives; *priyaa evatu* = are only like friends.
 "A son is the most beloved to his mother as he is born from the primary and
 secondary limbs of her body and also from her heart. The other relatives are only like
 friends."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -714,8 +686,6 @@ worshipped by celestials; *dadarshaka* = is said to have seen; *putrou* = her so
 "Once upon a time, Kamadhenu the mythical cow of Vasista, who knew righteousness and
 was worshipped by celestials, is said to have seen her sons, drawing a heavy burden on earth and
 became unconscious."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -763,8 +733,6 @@ eyes full of tears; *putra shokena* = in grief for the fate of her sons.
 "Seeing her sons (a pair of bullocks) fatigued, after toiling for half a part of
 their day on earth, Kamadhenu the mythical cow cried with her eyes full of tears in grief for the
 fate of her sons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ fell; *gaatre* = on the limbs; *mahaatmanaH* = of the high soled;
 
 "Small and sweet smelling tear drops of that mythical cow fell on the limbs of the
 high soled Indra the lord of celestials, who was traveling below in a lower region."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -864,8 +830,6 @@ high soled Indra the lord of celestials, who was traveling below in a lower regi
 
 "Seeing those sweet- scented tears falling on his limbs, Indra the Lord of
 celestials identified the tears to be those of the great Kamadhenu the mythical cow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -912,8 +876,6 @@ pitiably; *rudatiim* = crying; *bhR^ishaduHkhitaam* = with great sorrow.
 
 "Looking into the sky, Indra saw that Kamadhenu standing there with anguish and
 pitiably weeping with great grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -962,8 +924,6 @@ tormented with grief; *abraviit* = spoke; *praaN^jaliH* = with joined palms;
 "Indra the lord of celestials with a thunder bolt in his hand, seeing that beautiful
 Kamadhenu the mythical cow, tormented with grief, spoke eagerly with joined palms to her, as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1010,8 +970,6 @@ your; shokaH sorrow?
 
 "O, cow the well wisher of all! I hope there is no great panic from any quarter to
 us. For what occasion is your sorrow?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1058,8 +1016,6 @@ intelligent; *suraraajena* = Indra the god of celestials; *dhiiraa* = the pruden
 
 "Hearing the words of the intelligent Indra the god of celestials, the prudent
 Kamadhenu who was skilled in expressing words, replied as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1135,8 +1091,6 @@ grief ; *aham* = I; *diina* = am pitiably; *shochaami* = weeping ;
 whatsoever to you from any quarter. Seeing these pair of bullocks, my sons, who are in hardship,
 being scorched by sun's rays, becoming weak, being troubled by the man who ploughs the land and
 being immersed in grief, I am pitiably weeping O, Indra!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1184,8 +1138,6 @@ born; *mama* = from my; *kaayaat* = body; *naasti* = there is no;
 
 "By seeing them who are afflicted with the burden and aggrieved, I am greatly
 anguished. They are indeed born of my body. There is no dearest one equal to a son indeed!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1236,8 +1188,6 @@ mother).
 
 Seeing such a sacred cow weeping, whose hundreds of sons pervaded the entire world,
 Indra reckoned none whosoever as more than a son (to a mother) .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1296,8 +1246,6 @@ existence; *raamam vinaa* = without Rama?
 having unequalled behavior, the venerable one, by its very nature functioning forever with good
 qualities and to whom there are thousands of sons, is lamenting, how much more indeed Kausalya will
 drag her existence, without Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1345,8 +1293,6 @@ drag her existence, without Rama?"
 
 "She, who has only one son and who is a holy woman, has been made without a child by
 you. Thereafter, you will obtain grief forever after your death or even here while living."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1394,8 +1340,6 @@ their glory; *vardhanam* = and prosperity ; *na samshayaH* = there is no doubt.
 "I for my part, shall toil for the complete reinstatement of my brother and complete
 the obsequial rites due to my father as well as for their prosperity and glory. There is no
 doubt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1442,8 +1386,6 @@ forest; *muninishhevitam* = frequented by the sages.
 
 "Rama the son of Kausalya, of great prowess will be brought back to Ayodhya and I,
 myself will go to the forest inhabited by the sages."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1485,8 +1427,6 @@ done; *tvayaa* = by you.
 
 "O, wretched and evil minded woman! By seeing the sorrow stricken citizens, I am
 indeed not able to bear the inequity done by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1534,8 +1474,6 @@ indeed not able to bear the inequity done by you."
 
 "As for you, enter the fire or you yourself go to forest of Dandaka.or fasten a rope
 around your neck. There is no other recourse for you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1579,8 +1517,6 @@ man; *praapte* = obtains; *avanim* = his native land; *ahamapi* = I even;
 
 "After Rama the truly mighty man, obtains his native land, I will even become an
 accomplished man, with my sins duly washed away."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1627,8 +1563,6 @@ speaking in this manner; *papaata* = and fell; *bhuvi* = on the ground.
 
 As an elephant in a forest pricked with a javelin and a goad and as a hissing
 serpent, Bharata was enraged and fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 </details>
 
@@ -1689,8 +1623,6 @@ raised at the end of a ceremony.
 His eyes inflamed, his clothes in disarray, and his all ornaments discarded, Bharata
 the prince and the tormentor of foes, lay on the earth, like a banner of Indra raised at the end of
 a ceremony**
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

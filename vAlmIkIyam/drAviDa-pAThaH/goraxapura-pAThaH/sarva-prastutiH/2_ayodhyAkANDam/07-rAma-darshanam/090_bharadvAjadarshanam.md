@@ -21,8 +21,6 @@ Bharadwaja informs that Rama along with Seetha and Lakshmana are staying on the 
 mountain. Thereafter, at the request of Bharadwaja, Bharata along with his routine decides to make
 a night halt on that day at that hermitage and to proceed to Chitrakuta on the following
 morning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -85,8 +83,6 @@ Having seen Bharadwaja's hermitage at a couple of miles away, that excellent man
 Bharata, knowing what is right, leaving all his army behind, discarding his weapons and ornaments,
 and wearing simple silken garment, went forwards by foot, proceeded by Vasishta, his spiritual
 preceptor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -133,8 +129,6 @@ Vasista; his spiritual preceptor
 
 Leaving his ministers behind at a visible distance to Bharadwaja, Bharata then went
 along with Vasishta, his spiritual preceptor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -185,8 +179,6 @@ to wash the hands (of the distinguished guests) with.
 
 On seeing Vasishta, Bharadwaja the great ascetic rose quickly from his seat, asking
 his disciples to fetch water to wash the hand (of the distinguished guests) with.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -233,8 +225,6 @@ salutation; *bharatena* = by Bharata; *abudhyata* = recognized; *tam* = him;
 
 Having met Vasishta and greeted by Bharata, Bharadwaja of great splendour recognized
 him to be a son of Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -286,8 +276,6 @@ enquired; *kushalan* = about the welfare; *kule* = of their family.
 Bharadwaja, knowing what is right, offering them both, in order of seniority, water
 to wash theri hands and feet with and fruits afterwards, made enquiries concerning the welfare of
 their family.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -337,8 +325,6 @@ Subsequently, Bharadwaja made enquires with both of them as to whether all were 
 in the city of Ayodhya, with the army, with the treasury, friends and counsellors. But knowing
 Dasaratha friends and counsellors. But knowing Dasaratha to be dead, he did not speak of the
 king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -386,8 +372,6 @@ birds
 
 Vasishta and Bharata in return made enquires with Bharadwaja, if all were well with
 his body his sacred fires, his disciples, the trees, the deer and birds in the hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ Bharadwaja; *pratijJNaaya* = replied; *tata tatheti* = "All is well";
 
 The great ascetic Bharadwaja replied, "All is well" and spoke the following words to
 Bharata, bound as he was with affection to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -483,8 +465,6 @@ cleared (of all doubts)
 
 "For what reason have you, who are ruling the kingdom, come here? Tell me all this,
 for my mind is not getting cleared of doubts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -561,8 +541,6 @@ who with his brother and his wife have been exiled to the forest for a long peri
 is full of glory, through the intrigues of a woman was condemned to dwell in the forest for
 fourteen years by his father. I hope you do not intend to do any harm to that irreproachable prince
 and his younger brother in order to enjoy the throne without hindrance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -609,8 +587,6 @@ replied; *bharadvaajam* = to Bharadwaja ( as follows).
 
 "Thus spoken to as aforesaid, Bharata with his eyes filled with tears in grief and
 in a faltering tone, replied to Bharadwaja as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -660,8 +636,6 @@ _________________
 
 "If you the Blessed One, regard me like this, I am lost indeed! I cannot conceive of
 any harm towards Rama having proceeded from me. do not charge me thus."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -709,8 +683,6 @@ words.
 
 " I do not approve of what my mother has done when I was away from home. I am not
 pleased with her nor do I accept her word in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -757,8 +729,6 @@ among men; *ayodhyaam* = to Ayodhya; *prasaadakaH* = after propitiating him.
 
 "I, on my part, came to take back that tiger among men to Ayodhya, after prostrating
 myself at his feet and having propitiated him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -809,8 +779,6 @@ the lord of the world; *(is to be found) samprati* = now?
 
 "O, venerable one! Believing me to have come for the aforesaid purpose, you ought to
 do a favour for me. Tell me where Rama the Lord of the world is to be found now?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -857,8 +825,6 @@ affectionate; *vachaH* = words ( as follows):
 
 Requested by Vasishta and other priests likewise, Bharadwaja answered Bharata in
 affectionate words as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -906,8 +872,6 @@ following; *saadhuunaam* = virtuous men; *(are all) yuktam* = worthy of you.
 "O, Bharata the tiger among men! Good manners towards teachers as well as self
 control and walking in the footsteps of virtuous men-these qualities are worthy of you, born as you
 are in the Raghu dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -958,8 +922,6 @@ fame; *atyartham* = immeasurably.
 
 " I was aware of your purpose in your mind. But, I desired to confirm it and it is
 on this account that I asked you, in order to strengthen you fame immeasurably."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -1007,8 +969,6 @@ called Chitrakuta.
 
 "I know where the virtuous Rama along with Seetha and LakSmana are to be found. Your
 elder brother is staying on the great mountain called Chitrakuta."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -1056,8 +1016,6 @@ desham* = to that place; *vasa* = stay here; *adya* = today;
 
 "You may proceed to that place tomorrow. Stay here today along with your ministers.
 O, man of great wisdom, who understands legitimate interest and desire! Grant me this desire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 </details>
 
@@ -1118,8 +1076,6 @@ look; *pratiitaruupaH* = and whose reality (as an admirer of Rama) had now come 
 Bharata of a broad outlook and whose reality (as an admirer of Rama) had now come to
 be known, answered thus: "So be it". Then, the prince made up his mind to stay for that night in
 the hermitage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga90/ayodhyasans90.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

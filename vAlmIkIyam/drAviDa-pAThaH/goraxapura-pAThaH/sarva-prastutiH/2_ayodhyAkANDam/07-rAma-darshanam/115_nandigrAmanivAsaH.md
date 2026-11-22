@@ -19,8 +19,6 @@ the chariot and proceed towards Nandigram. The ministers, family-priest, the arm
 of Ayodhya followed Bharata in his journey. Installing the wooden sandals of Rama on the royal
 throne, Bharata puts on the garb of an ascetic and carries on the rule under orders of the sandals,
 holding the royal canopy over them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ elders (as follows):
 
 Having brought his mothers back to Ayodhya; Bharata, fixed in his resolve but sore
 stricken with grief, spoke to Vasishta and the elders (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ occasioned by Rama's absence."
 
 "I am going to Nandigrama village. I take leave of all of you. There, I shall be
 able to endure all this woe, occasioned by Rama's absence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ tot he kindom; *saH hi* = since verily he alone; *raajaa* = is the lord;
 
 "The king Dasaratha went to heaven. My elder brother is in the forest. I shall await
 for Rama to return to the kingdom; since verily he alone is the celebrated Lord of Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ follows):
 
 Hearing those auspicious words of the magnanimous Bharata, Vasishta the preceptor
 and all the ministers spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -272,8 +262,6 @@ along."
 
 "O, Bharata! The words which your have spoken by you in devotion to your brother are
 very much appreciable. It is worthy of you alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -322,8 +310,6 @@ path of elders.
 "What man would not approve of the proposal of your highness, who are deeply
 fascinated of your relative, always affectionate to your brother and devoted to the path of
 elders?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -371,8 +357,6 @@ according to his wish; (Bharata); *abraviit* = spoke; *iti* = these; *vaakyam*
 
 Hearing the affectionate words of his counsellors, who spoke according to his wish,
 Bharata said to his charioteer, "Let my chariot be made ready!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -420,8 +404,6 @@ Shatrughna.
 
 The illustrious Bharata, looking pleased and having offered salutation to all his
 mothers, entered his chariot along with Shatrughna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -468,8 +450,6 @@ quickly; *param priitau* = and exceedingly rejoiced; *yayatuH* = set out;
 
 Both Shatrughna and Bharata, having quickly mounted the chariot and exceedingly
 rejoiced, set out, accompanied by ministers and family-priests.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -520,8 +500,6 @@ eastward; *yataH* = in which direction; *nandigraamaH* = Nandigrama; *abhavat*
 
 All the preceptors there, headed by Vasishta and other brahmanas being in the
 forefront, proceeded eastward, in which direction Nandigrama village was situated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -569,8 +547,6 @@ suit).
 
 When Bharata had left, the army too, abounding in elephants, horses and chariots
 marched unbidden. The residents of the city also followed suit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -621,8 +597,6 @@ remaining in the chariot; *tuurNam* = and quickly; *yayau* = set out;
 
 The magnanimous Bharata, affectionate of his brother, bearing the sandals belong to
 Rama on his head, set out for Nandigrama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -670,8 +644,6 @@ preceptors.
 
 Thereafter, having entered Nandigrama briskly Bharata descended his chariot quickly
 and spoke to his preceptors as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -721,8 +693,6 @@ embellished with gold; *yogakSamavahe* = diffuse gain and security (to the peopl
 
 "My brother, Rama has given to me this kingdom as a trust. These sandals,
 embellished with gold diffuse gain and security to the people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -763,8 +733,6 @@ of his ministers; *duHkha samtapataH* = sore stricken with anguish; as he was.
 
 Having dedicated the sacred trust to the wooden sandals, Bharata sore-stricken with
 anguish, spoke to the entire body of his ministers as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -813,8 +781,6 @@ these wooden sandals; *mama guroH* = of my brother; *dharmaH* = piety;
 "Hold the state canopy speedily over these wooden sandals, which have been accepted
 as symbols of the feet of Rama, my noble brother. By the presence of these wooden sandals of my
 brother here, a piety has been established in the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -862,8 +828,6 @@ Rama.
 
 "As a mark of compassion, this trust has been placed at my disposal, by my brother.
 There trust as such will be preserved till his return."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -905,8 +869,6 @@ sandals.
 
 "Having restored these wooden sandals personally to Rama's feet immediately after
 his return, I shall behold those feet of Rama along with these sandals."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -954,8 +916,6 @@ kingdom; *gurave* = to my elder brother; *bhajiSye* = I shall assume;
 
 "Restoring the kingdom to my elder brother, when re-united with him and thereby
 laying down the burden, I shall then assume the role of a servant of my elder brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -1002,8 +962,6 @@ Rama; *bhavaamicha* = I shall become; *dhuuta paataH* = washed of all my sins.
 
 "By giving away these excellent wooden sandals, the symbols of trust, this kingdom,
 as well as the City of Ayodhya to Rama, I shall be washed of all my sins."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -1054,8 +1012,6 @@ kingdom.
 
 "Rama will be installed and his subjects made happy. It will be a four-fold more
 fame and happiness for me than that having obtained from the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -1103,8 +1059,6 @@ illustrious man; *diinaH* = (but) a distressed man; *vilapan* = lamenting;
 
 The highly illustrious Bharata though a distressed man, thus lamenting and pained,
 looked after the state administration along with his ministers from Nandigrama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -1151,8 +1105,6 @@ dwelt; *nandigraame* = in Nandigrama; *sa sainyaH* = protected by the army.
 
 Assuming bark robes and matted locks in the guise of an ascetic, the lord and the
 hero Bharata dwelt in Nandigrama, protected by the army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -1209,8 +1161,6 @@ his brothers; *pratijJNa paaragaH* = and faithful to his vow; *tathaa* = thus;
 Bharata, obedient to his elder brother, affectionate of his brothers and faithful to
 his vow, thus resided in Nandigrama, coronating the wooden sandals on the throne and wishing always
 for the return of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -1258,8 +1208,6 @@ sandals)
 
 Reporting all the royal orders to the wooden sandals, Bharata was holding the royal
 canopy together with the chowrie to those sandals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -1300,8 +1248,6 @@ administration; *tadadhiinaH* = being subservient to them; *sarvadaa* = always.
 
 Coronating the wooden sandals of his elder brother, the illustrious Bharata
 thereafter carried out the state administration, always maintaining his subservience to them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 </details>
 
@@ -1349,8 +1295,6 @@ accordingly.
 Whatever a small affair of the state came up or whenever a high-valued gift was
 offered, Bharata used to report that matter to the wooden sandals and then only dealt with it in
 the proper way afterwards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga115/ayodhyasans115.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

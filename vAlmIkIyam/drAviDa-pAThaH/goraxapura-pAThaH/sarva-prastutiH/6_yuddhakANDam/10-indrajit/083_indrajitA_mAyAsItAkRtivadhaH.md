@@ -19,8 +19,6 @@ Hanuma, with his army, approaches Rama and informs him that Indrajit has killed
 Seetha. Rama faints away, upon hearing that news. The monkeys sprinkle water on Rama, so that he
 regains consciousness. Then, Lakshmana embraces Rama and discusses with him the roles of vice and
 virtue in life. After consoling Rama, Lakshmana prepares for a fight with Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ that great tumult of battle; *raakShasa vanaukasam* = between demons and monkeys
 
 On hearing that great tumult of battle between demons and monkeys, Rama spoke to
 Jambavan as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ exceedingly difficult feat; *kR^itam* = has been performed; *hanumataa* = by Han
 "O excellent Jambavan! From the way in which a very great terrible rattling sound of
 arms in heard, it seems an exceedingly difficult feat has been performed by Hanuma. It is
 certain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ kapishreShThasya* = to that Hanuma; *yudhyataH* = who is fighting.
 
 "O lord of bears! Therefore, accompanied by your own army, go and quickly extend
 your help to that Hanuma, who is fighting."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -213,8 +205,6 @@ was.
 
 Saying "Yes, so be it" and surrounded by his own army, Jambavan came to the western
 gate, where the monkey, Hanuma was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ account of grief caused by the destruction of Seetha).
 
 Thereupon, Jambavan saw Hanuma, coming with monkeys, who had given fight and were
 sighing (on account of grief caused by the destruction of Seetha).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ all).
 
 Seeing that terrible army of bears, looking like a dark cloud on their way, ready
 (to perform battle) and effectively intercepting it, Hanuma retreated them all.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -362,8 +348,6 @@ illustrious; *saH* = Hanuma; *duHkhitaH* = with sorrow; *abraviit* = spoke;
 
 Quickly seeking the presence of Rama with that army, the highly illustrious Hanuma,
 with sorrow, spoke the following words to Rama:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -407,8 +391,6 @@ during the time we were carrying on the battle; *indrajit* = Indrajit;
 
 "While we, who were carrying on the battle, stood looking on, Indrajit, the son of
 Ravana killed Seetha in front of us, even though she continued to weep."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -449,8 +431,6 @@ Ravana killed Seetha in front of us, even though she continued to weep."
 
 "O destroyer of enemies! On seeing her with my distressed mind, I felt sad. I came
 to report the event to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -495,8 +475,6 @@ with its bottom chopped off.
 
 Hearing those words of Hanuma, Rama then was agitated with grief and fell down on
 the ground, like a tree with its bottom chopped off.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -537,8 +515,6 @@ the ground; *kaisattamaaH* = the chiefs of monkeys; *samutpatya* = came bouncing
 
 On seeing that Rama, who with the semblance of god, falling on the ground, the
 chiefs of monkeys came bouncing from all sides and rushed towards him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -587,8 +563,6 @@ and lilies; iva as (one would sprinkle); *anaasaadyam* = an inextinguishable; *a
 They sprinkled him with water, fragrant with scent of lotuses and lilies, as one
 would sprinkle an inextinguishable as one would sprinkle an inextinguishable fire, which has just
 flared up suddenly and is burning all.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -655,8 +629,6 @@ raamam* = that ailing Rama; *uvaacha* = spoke; *vaakyam* = the following words;
 
 Then, the highly lamenting Lakshmana, having embraced that ailing Rama in his arms,
 spoke the following meaningful words, endowed with reason:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -678,8 +650,6 @@ useless.
 
 "O venerable brother! Virtue cannot save you, who are sticking to the noble path and
 who have subdued the senses, from adversities and is (hence) useless."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -721,8 +691,6 @@ non-existent.
 
 "Just as inanimate and animate beings are visible, likewise virtue and vice are not
 visible. Therefore, my opinion is that virtue is non-existent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -765,8 +733,6 @@ vipadyate* = would not fail.
 "Even as inanimate beings and animate beings are expressly visible, likewise this
 form of virtue of vice is not established. For, in that case, a virtuous man like you would not
 have this misfortune."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -811,8 +777,6 @@ righteousness; *naapnuyaat* = would never obtain; *vyasanam* = adversity;
 
 "If unrighteousness had been effective, Ravana should have obtained the hell. You,
 endowed with virtue, would never obtain such troubles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -859,8 +823,6 @@ contraries of each other (have changed the roles with each other).
 "Since there is absence of calamity for Ravana and misfortune occurred to you, the
 result of vice is obtained through virtue and the result of virtue is obtained through vice. The
 contraries of each other have changed the roles with each other."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -922,8 +884,6 @@ Will the fruit of virtue be obtained through virtue and fruit of vice through vi
 If that in whom unrighteousness is rooted are enjoined with the fruit of unrighteousness alone,
 people showing interest in unrighteousness would be deprived of the fruit of virtue. The fruit of
 virtue alone would have accrued to those who administer righteousness through that virtue?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -965,8 +925,6 @@ of virtue; *klishyante cha* = suffer; *tasmaat* = hence; *etau* = these two
 
 Since prosperities of those, in whom unrighteousness is rooted, develop; while those
 who have a conduct of virtue suffer, hence these two (virtue and vice) are useless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1009,8 +967,6 @@ that unrighteousness; *vadhakarma hataH* = as it does in the act of killing; *ha
 "O Rama! If sinful doers are killed by their own vice, that unrighteousness, as it
 does, in the act of killing, will be forthwith destroyed. Whom will that unrighteousness destroy
 (which is destroyed in the course of three seconds)?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1060,8 +1016,6 @@ kartaH* = and not the agent.
 "Or if a man is killed by a recourse to a ritual prescribed in the scriptures or
 kills another (by recourse to such a ritual), that destiny alone, which is engendered by that
 ritual, is tainted by that sinful act and not the agent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1109,8 +1063,6 @@ which has never known how to retaliate; *asataa sataa* = and hence is non-existe
 "O Rama, the destroyer of adversaries! It is not clear how prosperity can be reached
 by righteousness, which has never known how to retaliate. Hence, righteousness seems to be
 non-existent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1169,8 +1121,6 @@ engendered by virtuous acts is real is not proved."*
 fit of agony on seeing Rama agonized shows his agitation caused by love. Later on, as his grief
 subsides, Lakshmana himself says in verse 44 below that he had given expression only to assuage the
 grief of Rama and spur him on to action.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 
 </details>
@@ -1240,8 +1190,6 @@ deprived of its capacity; *na sevyaH iti* = should no longer be pursued.
 "Or else, if righteousness becomes weak and cowardly, as it surrenders to the might,
 it is my opinion that the righteousness, which lacks strength and has been deprived of its
 capacity, should no longer be pursued."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1262,8 +1210,6 @@ giving up; *dharmam paraakrame* = predominance of virtue.
 
 "Depend on might, as you do now on virtue, if the virtue is subordinate to might,
 thus giving up predominance of virtue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1315,8 +1261,6 @@ you not; *baddhaH* = bound (by that announcement)?
 "O tormentator of enemies! Or else, if speaking truth were indeed a virtue, our
 lying father, who was merciless to you, was disunited from you. Were you not bound by that
 announcement made by our father regarding your installation as the Prince Regent?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1364,8 +1308,6 @@ pursuing, Indra the wielder of thunderbolt would not have performed a sacrifice 
 
 *The story was narrated at length in Book VI, DiscourseIX of Srimad
 Bhagavata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1407,8 +1349,6 @@ will.
 
 "O Rama! Virtue destroys enemies, when united with might (something other than
 virtue). O Rama! A man does all this, according to his will."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1455,8 +1395,6 @@ the other day.
 "O Rama in a pitiable condition. My opinion is that righteousness consists in such
 recourse to both virtue and strength. The very roots of virtue (in the form of earthly gain) have
 been chopped off by you in that you spurned the sovereignty the other day."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1507,8 +1445,6 @@ indeed fulfilled; *aapagaaH iva* = as the rivers; *parvatebhyaH* = flow;
 
 "By the treasures brought from place to place and augmented by means of various
 strategies, all the tasks are indeed fulfilled, as the rivers flow from the mountains."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1555,8 +1491,6 @@ strategies, all the tasks are indeed fulfilled, as the rivers flow from the moun
 
 "All the tasks of a man of small intellect, bereft of his wealth, get a cessation as
 small rivers dry up in summer-season."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1605,8 +1539,6 @@ of punishment); *pravartate* = follows from it.
 "Such a man, brought up by comforts, renouncing wealth (within easy reach) and
 seeking comfort, proceeds to commit sinful act and then evil (in the form of punishment) follows
 from it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1658,8 +1590,6 @@ virile; *loke* = in the world; *yasya* = who has; *arthaaH* = riches;
 
 "Friends gather round him, who has riches. Relatives stand by him, who has riches.
 He alone is virile in the world, who has riches. He alone is a learned man, who has riches."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1707,8 +1637,6 @@ He alone is virile in the world, who has riches. He alone is a learned man, who 
 
 "He alone is a mighty man, who has riches. He alone is a prudent man, who has
 riches. He alone is highly fortunate. He alone is distinguished, who has riches."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1757,8 +1685,6 @@ me).
 
 "O resolute one! I told you about these evils attendant on the abjuration of wealth.
 The ground on which you made the resolve to sacrifice the kingdom was not known to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1804,8 +1730,6 @@ hunting for wealth; *na shakyaH* = it is not possible; *arthaH* = to get wealth.
 "A man in whom the treasures abide, religious merit and wealth are obtained. All
 would be favourable to him. To the penniless man, who has a desire for wealth and even hunting for
 wealth, it is not possible to attain wealth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1847,8 +1771,6 @@ wealth.
 
 "O king! Delight, sensuous pleasure, pride, virtue, anger, peace, control of the
 senses all these are attained from wealth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1890,8 +1812,6 @@ the planets; (are seen); *durdineShu* = on cloudy days.
 "Those riches, due to renunciation of which, worldly happiness of those practicing
 the path of virtue gets lost, are not seen in you, any more than the planets are seen in cloudy
 days."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1936,8 +1856,6 @@ demon.
 
 "O valiant one! While you were in exile, faithful to the command of your father,
 your wife who was more beloved than life itself, was stolen away by a demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -1979,8 +1897,6 @@ Rama!
 
 "O valiant prince! I shall dispel with my exploits today, that great agony caused by
 Indrajit. Therefore, rise O Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -2030,8 +1946,6 @@ are you not knowing about yourself; who is the great-souled and whose spirit is 
 "O the foremost among men! O the long-armed one! O the firmly resolute one! Arise!
 Why are you not knowing about yourself, who is the great-souled and whose spirit is
 disciplined?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 </details>
 
@@ -2092,8 +2006,6 @@ vinipaatayaami* = I shall completely destroy; *iShubhiH* = with my arrows;
 "O faultless one! On seeing the death of Seetha and enraged, rising to do favour for
 you, I shall completely destroy with my arrows, Lanka with its chariots, elephants and horses along
 with Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

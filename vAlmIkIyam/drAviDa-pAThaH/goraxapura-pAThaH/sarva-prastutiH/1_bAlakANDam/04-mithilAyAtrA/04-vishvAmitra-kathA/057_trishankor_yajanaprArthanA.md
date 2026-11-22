@@ -20,8 +20,6 @@ The legend of Trishanku is narrated to Rama, which forms a part of Vishvamitra's
  to go to heaven with mortal body and approaches Vashishta who rejects
  that very suggestion. Then that king approaches the sons of the same
  Vashishta with the same idea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -96,8 +94,6 @@ repeatedly. Then on going to southern quarter with his prime queen, that great-a
 Vishvamitra self-collectedly conducted a highly astounding ascesis subsisting only
 on fruits and tubers." Thus Sage Shataananda continued his narration of Vishvamitra's
 legend. [1-57-1, 2, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ mahaarathaH* = Mahaaratha; *satyadharmaparaayaNaaH* = conducting in candour chiv
 
 Then Vishvamitra begot sons named Havispanda, Madhuspnada, Dhridhanetra and Mahaaratha,
 who conduct themselves in candour and chivalry. [1-57-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -196,8 +190,6 @@ At the close of one thousand years of ascesis Brahma, the Grandparent of all wor
 revealed Himself to Vishvamitra and spoke these words mellowly to ascetically wealthy
 Vishvamitra, 'oh, son of Kushika, Vishvamitra, you have won the worlds of kingly-sages
 by your ascesis.' [1-57-4b, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -247,8 +239,6 @@ saha* = along with gods [in convoy] ; *brahmalokam* = to Brahma's abode;
 'We indeed acquiesce you as a kingly-sage by your ascesis.' saying so that great
 resplendent Brahma, the Supreme Ruler of the Worlds, went away to his Abode of Brahma,
 while the gods in Brahma's convoy went to Indra's Heaven. [1-57-6, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -293,8 +283,6 @@ aaviSTaH* = prevailing over with high anguish; *samanyuH idam abraviit*
 
 On hearing that Vishvamitra is down-faced with disgrace, and while high anguish
 prevailed over him, he rancorously soliloquised this. [1-57-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -312,8 +300,6 @@ there.
 'Even though I have practised a very high ascesis, the gods together with the
 observances of hermits are recognising me just as a 'kingly-sage.' Thereby I deem
 that there is no fruition to my ascesis.' Thus Vishvamitra thought. [8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -360,8 +346,6 @@ again, that way; *paramam tapaH cacaara* = undertook supreme ascesis.
 
 Oh, Rama of Kakutstha, deciding in this way in his heart of hearts that self-willed
 Vishvamitra again undertook a supreme ascesis as he is a great-ascetic. [1-57-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -402,8 +386,6 @@ vikhyaataH* = thus renouned as Trishanku; such a king is there.
 
 In this meantime there is a veracious king named Trishanku, an enhancer of
 Ikshvaku dynasty, and one renowned for his self-conquest. [1-57-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -473,8 +455,6 @@ kathayaamaasa* = started to tell what he thought [by Trishanku].
 Oh, Raghava, an idea sprang up in the mind of Trishanku to perform a ritual
 by which he will go to heaven with his own body. Then he sincerely invited Vashishta
 and told him what his thinking is. [1-57-11b, 12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -526,8 +506,6 @@ But the great-souled Vashishta said it as impossible. Thus repudiated Trishanku
 went to southerly direction in search of orchestrators for the purpose of realising
 that task, such a phantasmal ritual that enables him to go to heaven with his body,
 and that king has gone to the sons of Vashishta. [1-57-13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -582,8 +560,6 @@ Trishanku has indeed gone to the place where the sons of Vashishta are protracte
 expiating, and there he visited the hundred noble-souled sons of Vashishta, who
 are supremely self-luminescent and superbly self-refulgent by their ascesis. [1-57-14b,
 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -638,8 +614,6 @@ On reaching nigh of those noble-souled sons of the indoctrinator, namely Vashish
 Trishanku reverenced all of them sequentially according to their age, but with a
 little down- faced owing to abashment, and spoke to all of those great-souled ones
 making palm-fold in supplication. [1-57-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ vasiSThena pratyaakhyaataH asmi* = I am repudiated by great-souled Vashishta.
 I have come as a shelter-seeker seeking the shelter of yours as you are the shelterers
 of the needy, you all be safe, as the great-souled Vashishta has repudiated me.
 [1-57-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -742,8 +714,6 @@ _________________
 I am longing to perform an unusual ritual and it will be apt of you to give assent
 to it. Reverencing all of the sons of my mentor Vashishta I am proposing this to
 you. [1-57-18b, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -763,8 +733,6 @@ sashariiraH* = I, with my body; *yathaa* = as to how; *devalokam*
 With reverence I truckle before you all Brahmans who are abiding in ascesis.
 Such as you are I beg you to assiduously get a ritual performed through me, as to
 how I can get to heaven with my body. [1-57-19b, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -805,8 +773,6 @@ how I can get to heaven with my body. [1-57-19b, 20]
 
 Oh, ascetically wealthy Brahmans, as I am repudiated by Vashishta, I do not perceive
 another recourse excepting you, who are all the sons of mentor Vashishta. [1-57-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 </details>
 
@@ -849,8 +815,6 @@ paramaa gatiH hi* = Priest, is ultimate, recourse, isn't it; *tasmaat*
 isn't it. Therefore, next to Vashishta you are all the next-best gods to me.' Thus
 Trishanku entreated the hundred sons of Sage Vashishta." Sage Shataananda thus continued
 narration. [1-57-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ As per Ravana's command, his army marches forward to the battle-field, so as to
 fight fiercely with Rama and his army with their weapon. When the demons attack the monkeys with
 their various weapons fiercely, they seek refuge in Rama. Rama destroys the troops of demons in the
 battle-field swiftly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ the assembly-hall; *niShasaada* = sat; *mukhya aasane* = on his pre-eminent seat
 
 That king, who was dejected and very much distressed, having entered the
 ssembly-hall, sat on his pre-eminent seat, snorting like a lion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -112,8 +108,6 @@ his palms in salutation; *abraviichcha* = spoke; *vaakyam* = the following words
 
 That mighty Ravana, who was emaciated for his son's death, having joined both his
 palms in salutation, spoke the following words all those chiefs of army:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -158,8 +152,6 @@ showering; *shara varShaaNi* = streams of arrows; *ambudaaH iva* = even as cloud
 
 "Encircling Rama alone, you have to kill him, by showering streams of arrows upon
 him, even as clouds pour showers during the rainy season."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -207,8 +199,6 @@ tomorrow.
 
 "Or I shall kill Rama, while the world is witnessing it tomorrow, once his limbs are
 torn by you with your sharp arrows in the great battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -255,8 +245,6 @@ the various kinds of armies; *shiighraiH rathaiH* = and speedy chariots.
 
 Having heard those words of Ravana, those demons sallied forth for the battle, along
 with various kinds of armies and speedy chariots.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -300,8 +288,6 @@ trees; *shailaan* = and mountains; *raakShasaan prati* = towards the demons.
 
 All those demons hurled iron clubs, sharp-edged spikes, arrows, swords and axes
 capable of destroying the life. The monkeys too hurled trees and mountains towards the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -342,8 +328,6 @@ monkeys.
 
 Towards sun-rise, that very terrific battle became tumultuous between demons and
 monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -390,8 +374,6 @@ monkeys.
 
 Those monkeys and demons then began to strike each other with multi-coloured maces,
 darts, swords and axes in the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -438,8 +420,6 @@ blood; *rakShasaam vaanaraamcha* = proceeding from the demons and monkeys.
 
 While the battle was thus in progress, the surprisingly enormous dust was actually
 settled down by the streams of blood, proceeding from the demons and mokeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -486,8 +466,6 @@ fish; *dhvajadrumaaH* = with flag-staffs as trees; *prasasruH* = gushed forth;
 
 With elephants and chariots as their river-banks, with horses as their fish and with
 flag-staffs as trees, rivers of blood gushed forth, carrying dead
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -537,8 +515,6 @@ rathaan* = flag = staff; srmours; chariots; *ashvaan* = horses;
 Then, all those monkeys were drenched in streams of blood. Leaping and bouncing on
 the battle-field, the monkey-chiefs broke off flag-staffs, armours, chariots, horses and various
 kinds of weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -585,8 +561,6 @@ their sharp teeth; *nakhaishchaapi* = and even nails; *vyakartayan* = tore off;
 
 With their sharp teeth and nails, the monkeys tore off the hair, ears, eye-brows and
 noses of the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -627,8 +601,6 @@ towards); *vR^ikSham* = a tree; *phalinam* = laden with fruits.
 
 A hundred monkey-chiefs rushed towards each single demon in the battle, even as
 birds would rush towards a tree laden with fruits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -679,8 +651,6 @@ axes.
 
 Then, the demons resembling mountain in size, struck down the terrific monkeys with
 large maces, darts, swords and axes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -721,8 +691,6 @@ large maces, darts, swords and axes.
 
 The huge army of monkeys, being struck down by the demons, sought refuge in Rama,
 the son of Dasaratha, who affords protection.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -770,8 +738,6 @@ showers of arrows.
 
 Thereupon, Rama of great splendour and prowess, taking up his bow and entering the
 army of demons, streamed forth showers of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -820,8 +786,6 @@ army of demons, streamed forth showers of arrows.
 Those highly terrific demons dared not approach Rama, having entered their ranks,
 was scorching them with the flame of his arrows, even as clouds would not approach the scorching
 sun in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -871,8 +835,6 @@ battle field; *asukaraaNi kR^itaani* = which were difficult to perform for other
 
 Those demons saw the most terrible deeds only of Rama, when they were actually
 performed by him in the battle-field, which were difficult to perform for others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -922,8 +884,6 @@ their huge army; *vidhamantam* = and blowing away; *mahaarathaan* = great chario
 
 Those demons could not actually see Rama, whle he was shaking their huge army and
 blowing away their great chariots, any more than one could see a gale of wind in a forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -971,8 +931,6 @@ kaariNam* = who was doing hs martial operations swiftly.
 
 They saw the army torn and pierced with arrows, as also scorched, broken down and
 tormented with missiles. They could not see Rama, who was so swift in his martial art.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1020,8 +978,6 @@ of their senses.
 
 The demons could not behold Rama hitting their bodies, even as created beings are
 not able to see their individual souls resting in their sense-objects.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1081,8 +1037,6 @@ resemblance with Rama.
 chariot-warriors. Here is Rama, killing foot-soldiers along with horses with his sharp arrows".
 Saying so, all those demons struck one another with rage in the battle-field those who were in
 similarity of appearance to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1131,8 +1085,6 @@ army.
 Having been thrown into confusion by the great mystic missile presided over by the
 Gandharvas, the celestial musicians; presided over by the Gandharvas, the celestial musicians;
 those demons were unable to see Rama, even when he was scorching away their army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1179,8 +1131,6 @@ eva* = only one; *kaakutstham* = Rama.
 
 Those demons for their part saw thousands of Rama's in the battle-field, while at
 other times, they saw only one Rama in that great battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1221,8 +1171,6 @@ Rama.
 
 Those demons for their part saw thousands of Ramas in the battle-field; while at
 other times, they saw only one Rama in that great battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1276,8 +1224,6 @@ demons on the battle-field, like the "Wheel of Time", for its flame, the arrows 
 bow for the felly of the wheel, the twanging of the bow-string and the clanging of the gauntlet for
 the sound produced for its revolution, his energy and the virtues for its radiance and the power of
 his mystic missiles for its edge.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1343,8 +1289,6 @@ Within a matter of three hours, with his arrows looking like tongues of flames, 
 killed an army of demons, capable of changing their form at will, including ten thousands chariots
 possessing the swiftness of the wind, eighteen thousand strong elephants, fourteen thousand horses
 with their riders and a full two lacs of demons fighting on foot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1394,8 +1338,6 @@ broken; *abhipetuh* = rushed back towards; *laN^kaam puriim* = the city of Lanka
 
 Those surviving demons, with their horses killed, with their chariots destroyed,
 with thier flag-staffs broken and with broken spirits, rushed back towards the City of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1442,8 +1384,6 @@ kruddhasya rudrasya* = of the powerful and the enraged Rudra the lord of destruc
 
 That battle-field, with elephants, foot-soldiers and horses killed, looked like a
 pleasure-grave of the powerful and the enraged the lord of destruction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1485,8 +1425,6 @@ done!"
 
 Then, the celestials along with Gandharvas the celestial musicians, holy saints and
 great sages acclaimed that feat of Rama, saying "well done, well done!".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1542,8 +1480,6 @@ Then, the virtuous Rama spoke also to Sugreeva, Vibhishana, Hanuma the monkey,
 Jambavan, Mainda the foremost of monkeys and even Dvivida, who were in close proximity to him as
 follows "Such wonderful power of this missile exists either with me or with the three-eyed Rudra
 the lord of destruction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 </details>
 
@@ -1594,8 +1530,6 @@ rejoiced troops of celestials.
 Rama, a compeer of Indra the lord of celestials, the great souled, unwearied in the
 use of weapons and missiles, having destroyed that army of demons, was applauded by the rejoiced
 troops of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1616,8 +1550,6 @@ troops of celestials.
 
 "Surrounded by the entire elephants and horses, as also graced with columns of
 chariots and foot-soldiers, all of you march forward."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga93/yuddhasans93.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

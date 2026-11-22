@@ -21,8 +21,6 @@ way, he beholds Bharadvaja's hermitage and meets the sage. Bharata informs the s
 insistance of Rama to stay back in the forest for fourteen years so as to honour the promise of his
 father scruprulously and also Vaishta's advice to Rama to offer his sandals to Bharata, to ensure
 peace and harmony in Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ pleased; *aaruroha* = ascended; *ratham* = his chariot.
 
 Thereafter, keeping the sandals on his head, Bharata delightfully ascended his
 chariot along with Shatrughna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ went ahead.
 
 Before him, Vasishta, Vasudeva of firm vows, Jabali and all the ministers
 distinguished for their counsels, went ahead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ charming; *nadiim* = River; *mandaakiniim* = Mandakini.
 
 Them, they advanced eastwards, by the charming Mandakini River, after making a round
 of Chitrakuta Mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ with his troops.
 
 Observing various types of thousands of enchanting rocks, Bharata advanced along
 with his troops along the side of the mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ bharadvaajaH* = that Bharadwaja; *kR^itaalayaH* = made it as a residence;
 
 In the vicinity of Chitrakuta Mountain, Bharata saw a hermitage where the sage
 Bharadwaja resided.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 
 </details>
@@ -319,8 +307,6 @@ descended; *rathaat* = from his chariot; *vavande* = and bowed down in salutatio
 
 Then, that Bharata endowed with understanding reached that hermitage of Bharadwaja,
 descended from his chariot and bowed down to the feet of Bharadwaja in saluation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ replied; *bharadvaajam* = to Bharadvaja (as follows)
 
 The, Bharadvaja full of joy, enquired of Bharata saying, "O, dear prince! Has your
 purpose been accomplished? Have you met Rama?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -418,8 +402,6 @@ replied; *bharadvaajam* = to Bharadvaja (as follows):
 
 Hearing the words of the learned sage, Bharadvaja, Bharata who was affectionate
 towards his brothers, replied to Bharadvaja (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -466,8 +448,6 @@ spoke; *vaakyam* = ( the following) words; *vasiSTham* = to Vasishta.
 
 Despite the entreaties of his preceptor and of mine, Rama is unshakeable in his
 resolve and most cheerfully spoke the following words to Vasishta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -514,8 +494,6 @@ varSaaNi* = for fourteen years.
 
 "I shall honour the promise of my father scrupulously and reside in the forest for
 fourteen years as I promised him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -566,8 +544,6 @@ the most skilful of orators.
 
 Hearing the words of Rama, the highly wise Vasishta, the knower of proper mode of
 expression, replied to Rama who is the most skilful of orators, in the following great words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -614,8 +590,6 @@ expression, replied to Rama who is the most skilful of orators, in the following
 
 "O, the extremely segacious prince! Bestow joyfully thse gold-encrusted sandals of
 yours on us and ensure peace and harmony in Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -662,8 +636,6 @@ EAst; *adhiruhya* = placed his feet; *ete* = in those; *paaduke* = sandals;
 
 "Hearing the words of Vasishta, Rama stood up and turning to the East, placed his
 feet in those sandals and gave them to me as a sign of regency."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -710,8 +682,6 @@ auspicious; *paaduke* = sandals; *gachchhaami* = and proceeding;
 
 "Having taken leave of the very high-souled Rama, I turned back after receiving the
 auspicious sandals. Now, I am proceeding to Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -758,8 +728,6 @@ high-souled; *bharadvaajaH muniH* = the sage Bharadvaja; *uvaacha* = spoke;
 
 Hearing those auspicious words of the high-souled Bharata, the sage Bharadvaja spoke
 to him the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -811,8 +779,6 @@ there is no; *chitram* = surprise; *etat* = that; *aaryam* = a noble trait;
 "O Bharata the Tiger among men and excellent among those having virtue and good
 conduct! There is no surprise that a noble trait prevails in you, as naturally as the water allowed
 to go, always settles downwards."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -860,8 +826,6 @@ you; *putraH* = are the son; *iidR^ishaH* = wndowed with such qualities;
 
 "Your valiant father, Dasaratha, is immortal in having such a son as you are, the
 knower of righteousness and loving peity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -910,8 +874,6 @@ _________________
 
 Hearing the words of that sage, Bharata with his joined palms, touched his feet in
 salutation and began taking leave from him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -959,8 +921,6 @@ ministers.
 
 Then, the glorious Bharata made circumambulation again and again to Bharadwaja and
 proceeded to Ayodhya along with hims ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -1007,8 +967,6 @@ and elephants; *nivR^ittaa* = turned back; *punaH* = again (towards Ayodhya).
 
 Thata extensive army of Bharata, following him with vehicles, carts and elephants,
 turned back again towards Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -1056,8 +1014,6 @@ Yamuna; *uurmi maaliniim* = wreathed wtih waves; *punaH* = and moreover;
 
 Thereafter, all of them crossed the charming River Yamuna wreathed with waves and
 moreover saw the River Ganga with its pure water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -1108,8 +1064,6 @@ again.
 Bharata accompanied by his relative and his army crossed that River Ganga, full of
 charming waters and entered the beautiful town of Shringibhera. From Shringibhera, he saw Ayodhya
 again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -1158,8 +1112,6 @@ brother; *bharataH* = Bharata; *duHkhasantaptaH* = tormented with grief;
 
 Beholding the City of Ayodhya, which was bereft of his father and brother, Bharata
 tormented with grief, spoke the following words to the charioteer:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 </details>
 
@@ -1200,8 +1152,6 @@ with choked voice.
 
 "O, Charioteer! See that Ayodhya city, ruined, with a vacant look, joyless,
 miserable, and with an impeded voice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga113/ayodhyasans113.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

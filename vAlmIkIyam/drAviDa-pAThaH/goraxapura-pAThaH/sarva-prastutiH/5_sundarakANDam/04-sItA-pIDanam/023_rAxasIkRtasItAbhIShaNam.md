@@ -16,8 +16,6 @@ title_english = "023 Ogres frighten Seetha"
 **Book V : Sundara Kanda - Book Of Beauty**
 
 This chapter describes the ogre women speaking to Seetha about her marrying Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -63,8 +61,6 @@ makes enemies to cry; *iti uktvaa* = thus speaking; *maithiliim* = to Seetha; *t
 
 The king Ravana who makes enemies to cry thus speaking to Seetha thereafter also ordering all ogre
 women went away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -140,8 +136,6 @@ _________________
 
 After Ravana left and obtained gynaeceum, those ogres with horrible appearances went running to
 Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -157,8 +151,6 @@ speech; *param* = (which was) very; *parushhayaa* = harsh; *abruvan* = spoke; *i
 
 Thereafter reaching Seetha ogre women swooned with anger and with a very harsh speech spoke these
 words to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -201,8 +193,6 @@ varidhhThasya* = best among men; *mahaatmanaH* = a great soul; *dashagrrivasya* 
 
 "O Seetha! You are not respscting becoming wife of Ravana born in the family of Paulastya, best
 among men, a great soul with ten heads."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -249,8 +239,6 @@ among men, a great soul with ten heads."
 
 Thereafter an ogre woman named Ekajata with red eyes sue to anger calling Seetha with stomach that
 can be held by palm of the hand, spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -302,8 +290,6 @@ _________________
 
 "Among th six Prajapatis, whichever son, the fourth Prajapati, born by the thought of Lord Brahma
 ,he is famous as Paulastya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 </details>
@@ -350,8 +336,6 @@ sage; *sutaH* = is the son; *maanasaH* = (born) from the thought; *pulastasya* =
 
 By the name, famous as Visrava, with a radiance equalling that of Lord Brahmathat glorious sage
 is the son born from the thought of Pulastya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ you not agree; *vaakyam* = words; *uktam* = spoken; *mayaa* = by me.
 
 "O wide eyed one! Ravana who makes enemies to cry, is Visrava's son. You are suited to become Ravana's
 wife. O one with all beautiful limbs! Why will you not agree words spoken by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -451,8 +433,6 @@ _________________
 
 "By whom thirty three Devas and the king of Devas have been conquered, you are suited to become
 the wife of that lord of ogres.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 </details>
@@ -502,8 +482,6 @@ words.
 
 Thereafter an ogre woman named Harijata with eyes like those of a cat turned around eyes due to
 anger and spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -518,8 +496,6 @@ anger and spoke these words.
 
 Thereafter an ogre named Praghasa swooning with anger and then frightening Seetha, spoke this horrible
 word.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -569,8 +545,6 @@ wife-hood (of Ravana); *viiryotsiktasya* = (who is) proud of his might; *shuuras
 
 "Why will you not get wifehood of Ravana who is proud of his might, valiant, who will not turn
 back in wars, who is strong together with valour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -586,8 +560,6 @@ who among all wives; *mahaabhaagaam* = is most fortunate; *upaishhyati* = can ob
 
 "The mighty Ravana can leave dear respectable wife who among all wives is most fortunate and can
 obtain you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -638,8 +610,6 @@ _________________
 
 "Ravana leaving gynaeceum filled with thousand women and shone by various best things can obtain
 you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -724,8 +694,6 @@ _________________
 
 Another ogre woman named Vikata spoke these words: "By whom a number of times in war Devas, in
 war Nagas, Gandharvas and Danavas have been conquered that Ravana has come to your side."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -740,8 +708,6 @@ war Nagas, Gandharvas and Danavas have been conquered that Ravana has come to yo
 
 "O vile one! Why are you not desiring wifehood of such Ravana, fulfilled in all respects, who is
 a great soul and lord of ogres.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 </details>
 
@@ -787,8 +753,6 @@ na tiShThasi* = not favourable.
 
 Thereafter an ogre woman named Durmukhi spoke these words: " O one with long eyes! Fearing whom
 the sun will not comsume by heat, fearing whom the win will not blow, to that one why are you not favourable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -807,8 +771,6 @@ Ravana; *nairR^ita raajasya* = king of ogres; *raajaraajasya* = (and) king of ki
 "O one with good eyebrows! O Seetha! By the fear of whom trees shed a shower of flowers, whenever
 Ravana desired mountains and clouds will shed water, why you are not making mind to be the wife of such Ravana,
 who is the king of ogres and king of kings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -16,8 +16,6 @@ title_english = "032 Ravana s pomp and pride"
 The pomp and pageantry of Ravana is portrayed along with his idiosyncrasy and individuality, his triumphs
 and victories, his jalousies and covetousness. Shuurpanakha approaches him to inform of her fate at
 the hand of Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ in simile; *mahaa naadam nanaada* = great, blare, blared.
 On seeing the fourteen thousands demons of heinous crimes, and even on seeing Trishira, Duushana, and
 even Khara, who are all exterminated by lone Rama, then Shuurpanakha emitted a thunderous blare like
 a thundercloud. [3-32-1, 2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -127,8 +123,6 @@ to.
 
 Highly agitated to witness the deed done by Rama, which deed is highly impossible for others, she hurried
 Lanka ruled by Ravana. [3-32-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -189,8 +183,6 @@ The words *upa upa viSTa* 'the ministers are sitting near him, and are in attend
 use of extra preposition *upa*, but in the course of time the idea of 'nearness or proximity' are lost
 and it came be used as just 'sitting...' Thus, the tautological tendencies were influencing Sanskrit'
 - Pt. Satya Vrat in Ramayana - A Linguistic Study.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -258,8 +250,6 @@ Vedic-rituals. Ravana's throne, rather the seat of authority, itself is the Gold
 kind, and every praise, or extolment of Ravana is a hymn in his eulogy, and any offering made anywhere
 in his jurisdiction is an offering made into that Ravana-Fire-Altar. That absolute power of Ravana is
 making him to glow to the bedazzlement of all the worlds. And how he got that Indrahood is said next.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -314,8 +304,6 @@ An invincible one either for gods or gandharva-s, or to sages with exalted souls
 entity worth its name, whose appearance itself is catastrophic, and who is sitting identical to the
 Terminator, as though that Terminator himself is sitting with a wide gaped mouth, at such a Ravana Shuurpanakha
 saw. [3-32-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -332,8 +320,6 @@ kiNa vakSasam* = when gored, blotched, chest.
 One who is severally bruised in several combats of gods and demons with the thunderbolts from the Vajra
 weapon of Indra, and one who is severally blotched on his chest when the prongs of the tusks of Airavata,
 the lordly elephant of Indra, gored his chest, at such a Ravana Shuurpanakha saw. [3-32-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ with all of the kingly attributes, Shuurpanakha saw. [3-32-8]
 Ravana is said to have four legs also in *naaradiiya jaimini Ramayana: dasha aasyam viMshati bhujam bhinna
 anjana cayamopamam | paadaiH catur ati ugram taamroSTam *11 chapter, 75 verse. In Raghuvamsha in 18th
 chapter bhujamuurthoru baahulyaa dekopidhana daanuja etc., but not vividly portrayed elsewhere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -416,8 +400,6 @@ alike; *tapta kaancana kuNDalam* = one with burnt [refined,] gold, ear-knobs; *s
 Blent with the gleam of Lapis gems studded in his ornaments his glisten is alike that gem, while
 his ear-knobs are made out of refined gold, and his arms strongish, teeth whitish, mouth widish and
 he is mountainous, and Shuurpanakha saw such a Ravana. [3-32-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -480,8 +462,6 @@ kriyaa shaktiH | bhaava unmeSha udyamaH | sudarshanam ca sa~NkalpaH | shabdaa pa
 ahirbuj~na vaakya* 'sudarshana is my causative thinking, words are just alternatives -- * ahirbudhnya* aphorisms. This narration is to portray that Ravana has war-wounds on all over his limbs.
 Though hit by Thunderbolts or missiles for umpteen times, he is just wounded but not dead and he is
 on such a winning spree, ineradicably.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -529,8 +509,6 @@ on such a winning spree, ineradicably.
 Likewise, whose limbs are thrashed with thrashing missilery of all gods, whereby his body and soul have
 become harsh, thus he can perpetrate anything swiftly at his will, and he who can capably roil an un-perturbable
 ocean at his wish, at such Ravana Shuurpanakha saw. [3-32-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -578,8 +556,6 @@ molester.
 
 At him who is a volleyer of mountain peaks, a represser of gods, an extirpator of ethical values, and
 a molester of others wives, Shuurpanakha saw. [3-32-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -632,8 +608,6 @@ He who is a marksman of every divine missile, and an ever interdictor of Vedic-r
 to the city named Bhogavati, the capital of Naga-s, and on defeating Vaasuki, the King of Serpents,
 has abducted the dear wife of Taksha on molesting her, and Shuurpanakha saw such a molester of others
 wives. [3-32-13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -675,8 +649,6 @@ jahaara vai snatched away, indeed.
 On going to Mt. Kailash he who has defeated the god who uses humans as his vehicle, namely Kubera, and
 snatched away his aircraft, namely Pushpaka, which aircraft transits at the wish of its steersman, and
 Shuurpanakha saw such a grabber of others possessions. [3-32-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ vinaashayati* = with enviousness, devastated.
 He who enviously devastated the divine gardens of Kubera, called Caitraratha, along with a divine Lake
 of Lotuses pertaining to the same Kubera, called Pushkarini, and the gardens of Indra, called Nandana,
 along with other paradisiacal gardens of gods, Shuurpanakha saw such an envious demon. [3-32-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ rise. [3-32-16b, 17a]
 
 Tall as a hill that cleaves the sky, / He raised his mighty arms on high / To check the blessed moon,
 and stay / The rising of the Lord of Day. - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -829,8 +797,6 @@ upajahaara* = heads [his ten heads,] dedicated [to Brahma.]
 That courageous one who in early times has practised ascesis for ten thousand years in a great-forest,
 and who on accomplishing it has dedicated ten of his heads to the Self-Created Brahma, she saw such
 a Ravana with such ten heads. [3-32-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -877,8 +843,6 @@ reptiles; *mR^ityutaH* = from death; *a bhayam* = no, fear - indemnity - is give
 Whereby, to whom there is an indemnity against death in war at the hand of gods, demons, gandharva-s,
 devils, birds, or reptiles, excepting humans, and Shuurpanakha saw such an unimperilled Ravana. [3-32-18b,
 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -927,8 +891,6 @@ He who is an extreme-ultraist that expropriates the Soma-juice-oblation form the
 in Vedic-rituals, which Soma juice-oblation is blest with Vedic-hymns and kept separately by Vedic Brahmans,
 since it is intended and shall belong to Indra and other divinities, and she saw such a plunderer. [3-32-19b,
 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -988,8 +950,6 @@ fear he lets none to conduct any Vedic sacrifice. Secondly, he has became one wi
 of Brahma. So, any ritual should be centred on Ravana, not Indra. He is not a routine Brahman slayer
 as he has Brahmanic origin, and his teachers are Brahmans, and the like. But he goes against those Brahmans
 who dare to conduct rituals for Indra and other divinities.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -1052,8 +1012,6 @@ raama patniim
  vanasthaam ninaaya *- iti raavaNa* 'one who abducted Rama's wife from woodlands...' In another way it is
 *raavaNasya
 apatyam pumaan raavaNaH* 'Ravana's son is Raavana.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -1100,8 +1058,6 @@ for Time [himself]; *tam* = him - she saw.
 And at him who is conspicuously sitting on a throne, attired and bejewelled in excellent apparels and
 jewels, shining forth with marvellous garlands, and who is like the Ultimate-Time on the rise destined
 for the Eventual-Time. [3-32-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -1144,8 +1100,6 @@ abraviit* = nearing him, sentence, spoke.
 Demoness Shuurpanakha nearing Ravana, who is the highly fortunate king of demons, an enemy-destroyer
 and a felicity of the dynasty of Sage Pulasta, and who is now surrounded by his ministers, she spoke
 this sentence. [3-32-23b, 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 </details>
 
@@ -1200,8 +1154,6 @@ viruupitaa* = by great-souled one [Lakshmana,] defaced; such; *shuurpaNakhaa* = 
 She who is disfigured by the high souled Lakshmana, and who is still perplexed with the fear of Lakshmana
 and her own craving for Rama as well, on displaying her misfortune to everybody that fearless rover
 Shuurpanakha spoke this very caustic sentence to Ravana, whose eyes are broad and burning. [3-32-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -15,8 +15,6 @@ title_english = "057 Rama meets Lakshmana"
 
 Rama meets Lakshmana while returning to hermitage after killing the deer demon Maareecha. He also confronts
 some ill omens and worries why Lakshmana left Seetha alone and came to him, sad facedly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ _________________
 Rama on killing that demon Maareecha, who is a guise changer at his wish and who moved about in the
 guise of a deer, instantly started to return on the trail by which he trailed after that deer-demon.
 [3-57-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ howled.
 
 While Rama is anxiously hurrying to see Maithili, then a brutish voiced jackal deafeningly howled at
 his behind. [3-57-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -160,8 +154,6 @@ his behind. [3-57-2]
 
 On hearing that threatening and hair-raising howl of jackal Rama is overly threatened just by the tone
 of fox in which it is foreboding, inasmuch as the forbidding intoning of Maareecha. [3-57-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -208,8 +200,6 @@ thereby; *aham a shubham manye* = I, not, auspicious, I deem; *raakSasaiH bhakSa
 
 "Huh! As to how this jackal has howled I deem that as inauspicious. As yet undevoured by demons would
 Vaidehi be safe? [3-57-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -280,8 +270,6 @@ leaving; *kSipram mat sakaasham eSyati* = instantly, to my, near, he rushes.
 If Lakshmana listens that voice, recognising it as my voice he will instantly rush to my near. Else
 if Maithili listens, she will hasten him to go over here and Soumitri instantly rushes here leaving
 her off. [3-57-5, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ vadhaH iipsitaH* = Seetha's, killing, intended; *nuunam* = defiantly.
 his becoming a demon when hit with an arrow, and his shouting words indeed like, 'ha, Lakshmana, ha,
 Seetha, I am killed,' the demons are collectively intending to do away with Seetha. It is certain. [3-57-7,
 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -392,8 +378,6 @@ grudge [against me,] I am, am not I; *adya ghoraaNi bahuuni ca* = now, severe, s
 "Whether there will be safety in forest for those two in my absence, or not, is my doubt. Owing to my
 devastating Janasthaana I have become a harboured grudge for demons, am not I! As such, foretokens are
 appearing now, severely and severally." Thus Rama's thoughts have sprinted. [3-57-9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -463,8 +447,6 @@ appearing now, severely and severally." Thus Rama's thoughts have sprinted. [3-5
 When that soulful Rama has heard the whistle of jackal while returning, he persistently thought in this
 way about his detour caused by demon in the disguise of a deer, thus he speedily advanced towards his
 hermitage. [3-57-10b, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -515,8 +497,6 @@ hearted; *mR^iga pakSiNaH* = animals, birds; *diinam aaseduH* = at doleful Ragha
 
 Raghava came to Janasthaana doubting overly, and the animals and birds of Janasthaana which look doleful
 have neared him whose heart has become doleful. [3-57-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -573,8 +553,6 @@ anena
 mR^iga pakShiNaam apradakShiNa gamanam ashubhakaram iti uktyaa pradakShiNa gamanam shubhakaram iti suucitam
 - mR^igaa vihangaaH ca gataaH pradakShiNam mahiibhR^itaam kaankShita kaarya siddhaye | ratnamaala -
 dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -628,8 +606,6 @@ gone [lacking,] lustre - with a lacklustre face; *lakSaNam* = at Lakshmana; *dad
 Then Rama saw Lakshmana coming towards him with a lacklustre face, and then Lakshmana, who is melancholic
 and anguishing in his divergence from Seetha, met Rama not a long-way-off, where Rama is a similar partaker
 in melancholy and anguishing by way of his convergence upon ill-omens. [3-57-14, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -678,8 +654,6 @@ aagatam* = Seetha, leaving off, who has come; *tam lakSmaNam* = him, at Lakshman
 
 On seeing Lakshmana who has arrived at this place leaving off Seetha in a forest that is desolate, more
 so an adorable forest for demons, Rama reproached him as his elder brother. [3-57-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -733,8 +707,6 @@ This statement obtains two shades of meaning. One, the speech of Rama in reproac
 appear to be brusque, latently it is congratulatory to Lakshmana, to make happen the abduction of Seetha
 firstly, and thereby the ultimate elimination of Ravana. Two, he scolded Lakshmana prima facie for leaving
 Seetha, but on realising that he is not at fault, his speech is softened.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -786,8 +758,6 @@ aho* = alas.
 
 "You have done a deplorable deed in coming here forsaking Seetha. Now, oh, gentle Lakshmana, are we
 somewhat safe, or everything has already gone astray now itself, or what. [3-57-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -862,8 +832,6 @@ me samshayaH na asti* = to me, doubt, not, is there.
 "Oh, brave one, according to these many inauspicious forebodings that have manifested themselves to
 me, we might have lost Janaka's daughter Seetha, or the forest ranging demons might have devoured her,
 or else they might have kidnapped her, I am doubtless about it. [3-57-18b, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -878,8 +846,6 @@ or else they might have kidnapped her, I am doubtless about it. [3-57-18b, 19]
 
 "Oh, tigerly-man Lakshmana, I wonder whether we can at least make out the daughter of Janaka Seetha
 in her intactness and aliveness. [3-57-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -932,8 +898,6 @@ as to how, noisily, voicing; gauging by it; *raaja putryaa tasyaa* = king's, dau
 "On observing these mobs of deer, this jackal, also even these birds which are voicing noisily facing
 the direction lit by the sun, oh, great-mighty Lakshmana, can we presume that there will be safety to
 that princes Seetha? [3-57-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -988,8 +952,6 @@ hatam* = somehow, killed; *saH mriyamaaNa eva* = he, when dying, only; *raakSasa
 
 "This very demon in his likeness to a deer led me on and led me off distantly as I was indeed following
 him, and by an intense effort somehow he was killed, and when dying he transfigured into a demon. [3-57-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 </details>
 
@@ -1054,8 +1016,6 @@ puruShasya manaso asantoSho vaama netra sphuraNam ashubha suucakam iti uktyaa da
 manaH santoShaH ca shubha kara iti suucitam | tathaa ca raghu vamshe kaalidaasaH - tasyaam raghoH suunu
 rupaa sthitaayaam vR^iNiita vaa neti samaakulo aabhuut | vaametaraH samshayam asya baahuH keyuura bandhhocHravasito
 nunoda || - dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

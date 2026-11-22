@@ -16,8 +16,6 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 Rama explains to Lakshmana the various portents, he observes around him, that signal
 a destructive war fare. He orders for formation of battalions in the army and surges forth together
 with the battalions towards Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ acquainted with omens; *dR^IshhTNaa* = on seeing; *nimittaani* = the omens;
 
 Rama, who was well acquainted with portents, on seeing the portents around, embraced
 Lakshmana and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ woods; *phalavanti* = abounding in fruit; *samvibhajya* = let us speedily divide
 "O, Lakshmana! Acquiring this region endowed with cold water and woods abounding in
 fruits, let us speedily divide this multitude of forces into battalions and drawing it up in battle
 array, we shall stand attentive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -158,8 +152,6 @@ heroes; *R^ikshha vaanara raakshhasaam* = among bears; monkeys and demons.
 
 "I perceive an impending danger which will be terrific, causing destruction to the
 world, and torture to the eminent heroes among bears monkeys and demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -206,8 +198,6 @@ trees; *patanticha* = are falling down.
 
 "Winds are blowing with dust and earth is trembling. Mountain- tops are quivering
 and trees are falling down."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -248,8 +238,6 @@ svanaaH* = with harsh sound; *pravarshhanti* = are raining; *kruuram* = cruelly;
 
 "Ferocious clouds resembling wild beasts were dirty colored and emit a terrific
 roaring and let loose dreadful showers mingled with drops of blood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -290,8 +278,6 @@ fire; *patanticha* = falls.
 
 "Evening twilight resembling red sandal wood is very much dreadful. From the blazing
 sun, balls of fire fall."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -332,8 +318,6 @@ melancholic sound; *pratyaadityam* = facing towards the sun; *mahat* = in great;
 
 "Wild animals and birds from all sides are roaring pitiably with melancholic sound,
 facing towards the sun in great fear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -374,8 +358,6 @@ invested with a black and red halo; *samtaapayati* = is tormenting(the mind);
 
 "The splendorous moon as though rising at the time of universal dissolution,
 invested with a black and red halo is tormenting the mind this night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -422,8 +404,6 @@ the colorless solar disc; *hrasvaH* = which is diminished; *ruukshhaH* = dreary;
 
 "O, Lakshmana! A dark stain appears on the cloudless solar disc, which is
 diminished, dreary, inauspicious and coppery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -470,8 +450,6 @@ dissolution; *lokaanaam* = of the worlds.
 
 "O, Lakshmana! Look! Stars enveloped in enormous dust, appear to announce a
 dissolution of the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -515,8 +493,6 @@ very dreadful; *ashubhaan* = and inauspicious; *naadaan* = sounds.
 
 "Crows, eagles and vultures are flying low. Jackals too are howling very dreadful
 and inauspicious sounds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -563,8 +539,6 @@ monkeys and demons; *maamsa shoNita kardamaa* = and a quagmire of flesh and bloo
 
 "Earth will become a quagmire of flesh and blood, covered with rocks spears and
 swords hurled by monkeys and demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -605,8 +579,6 @@ quickly; *javenaiva* = with a speed.
 
 "Abounding with all the monkeys we shall attack the city ruled by Ravana, now itself
 at a quick pace."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -648,8 +620,6 @@ dharshhaNaH* = the conqueror of enemies in battle; *raamaH* = and a charming man
 
 Rama the lord, the conqueror of enemies and a charming man thus speaking, wielded a
 bow and sallied forth in front, facing towards Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -690,8 +660,6 @@ for thedestruction; *dvishhataam* = of enemies; *dhR^itaanaam* = the audacious.
 
 All those excellent monkeys, together with Vibhishana and Sugriva making roaring
 sounds surged forth for the destruction of the audacious enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 </details>
 
@@ -732,8 +700,6 @@ their beloved; *raaghavasya* = Rama.
 
 Rama on his part was pleased by the act and gestures of those very strong monkeys,
 with their intention to gratify him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga23/yuddhasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

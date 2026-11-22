@@ -14,8 +14,6 @@ title_english = "017 Hanuma sees Seetha with ogresses"
 **Book V : Sundara Kanda - Book Of Beauty**
 
 In this chapter Hanuma sees Seetha surrounded by ogresses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ a peaceful rise; *kumuda shhanDaabhaH* = with radiance equaling that of a group 
 
 Thereafter the moon with a peaceful rise, with radiance equaling that of a group of lotuses, obtained
 the clear sky like a swan obtaining blue water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ the clear sky like a swan obtaining blue water.
 **अनुवादः**
 
 That moon with a peaceful glow served Hanuma with cool rays as though performing help with radiance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ shookabhaaraiH* = by the weight of grief; *naavamiva* = like a ship; *nyastaam* 
 
 Thereafter Hanuma saw Seetha with a face like a full moon, put down by the weight of grief, like
 a ship sinking down in water due to weight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -506,8 +498,6 @@ to head; one with lean and long neck; one with disheveled hair and also one with
 hair; one with hanging stomach and breasts; one with hanging face; one with lips at chin; one with hanging face;
 one with hanging knees; one who is short; one who is tall and also hunch backed one; one who is distorted; a dwarf
 one and also one with high teeth and one with crooked mouth, one with green eyes and one with a horrible face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -557,8 +547,6 @@ camels, donkeys, those with horrible appearance, ogresses carrying pikes and clu
 those who like quarrels, those with high teeth, with hair color like that of smoke, with horrible faces, always
 drinking liquor, always desiring meat and liquor, with body smeared by meat and blood, with meat and blood as
 food, whose appearance made hair to stand up, sitting around a great tree with huge trunk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -621,8 +609,6 @@ _________________
 
 Hanuma the glorious one saw that Seetha, the princess, daughter of Janaka, unblemished one below
 that tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -643,8 +629,6 @@ exhausted; *taaraamiva* = like a star; *chyutaam* = fallen from heavens; *bhuuma
 
 She was lack luster being tormented by grief, with hair covered by dirt, with merits exhausted,
 like star fallen from heavens onto ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -696,8 +680,6 @@ excellent ornaments; *bhartR^ivaatsalya bhuushhaNaam* = with husband's love as o
 
 She was rich with fame of lofty character, poor due to not seeing husband, lacking excellent ornaments,
 with husband's love as ornament.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -749,8 +731,6 @@ viyuudhaam* = without herd; *siMha saMruddhaam baddhaam* = being detained by a l
 
 Being held captive by Ravana, without any relatives, She was like a she-elephant without herd,
 being detained by a lion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -800,8 +780,6 @@ lustre; *asamsparshaat* = due to lack of contact (with husband); *valaakiimiva* 
 
 She was like moon being covered by clouds at the end of rainy season with an appearance lacking
 lustre due to lack of contact with husband, was like an unplucked Veena.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -862,8 +840,6 @@ in the middle of Ashoka garden;aaplutaam = being immersed; *shoka saagaraam* = i
 
 Hanuma saw Seetha being suited to be with her husband, in the custody of ogresses, in the middle
 of Ashoka garden being immersed in an ocean of grief
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -883,8 +859,6 @@ of Ashoka garden being immersed in an ocean of grief
 
 Hanuma saw Seetha there surrounded by those ogresses, like Rohini with planets, like a creeper
 without flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -934,8 +908,6 @@ with dirt.
 
 With body smeared with dirt, being graced by Her body, that Seetha shone and also did not shine,
 like a lotus-fibre covered with dirt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -1039,8 +1011,6 @@ svena shiilena* = by her own character.
 The monkey Hanuma saw that Seetha with great beauty with black eyes, covered by a cloth which was
 creased and dirty, with eyes of a deer, with a pitiful face, not depressed due to the brilliance of her husband,
 protected by her own character.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1068,8 +1038,6 @@ samghaatamiva* = like a bundle of grief; *uurmimiva* = like a wave; *duHkhasya* 
 
 Hanuma became happy on seeing Seetha with eyes of a fawn, fearful like a she-deer, seeing trees
 with young shoots, as though being burnt by sighs, like a bundle of grief, with a wave of sorrow risen up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1085,8 +1053,6 @@ praharshaam* = great joy.
 
 Hanuma the son of wind god on seeing Seetha that Seetha like the goddess earth, with well divided
 body parts shining eve without ornaments, obtained great joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 </details>
 
@@ -1166,8 +1132,6 @@ _________________
 
 Hanuma on seeing Seetha there with intoxicating eyes shed tears of joy and also paid obeisance
 to Sri Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1182,8 +1146,6 @@ Sri Rama; *lakshmaNaaya cha* = and to Lakshmana;samvR^itaH abhavat = became cove
 
 Being joyful on seeing Seetha, Hanuma the mighty one paid obeisance to Sri Rama and to Lakshmana
 and became covered with leaves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

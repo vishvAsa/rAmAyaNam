@@ -17,8 +17,6 @@ IV : Kishkindha Kanda - The Empire of Holy Monkeys**
 Sugreeva reports the incident that sparked off the indignation and ire of Vali
 towards Sugreeva. Sugreeva describes to Rama about the strength and heartless nature of Vali, with
 a kind of indirect portrayal of his enemy's capabilities.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ for me, to, even; *tathaa* = like that.
 
 "Oh, great enemy destroyer Rama, my elder brother Vali is a very dear one to our
 father, and even for me too he was so, earlier. [4-9-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ iishvaraH = for monkeys, king.
 
 After the demise of our father all the ministers have glorified him immensely and
 made him the king of all the monkeys as he is the elder. [4-9-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ him; *sarveSu* = in all; *kaaleSu* = times; *praNataH* = bowed down;
 
 While he was ruling the great kingdom of my father and forefathers, I have always
 bowed down to him like a servant and stood by him. [4-9-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -213,8 +205,6 @@ him [to Dundubhi]; *strii kR^itam* = female, due to; *mahat vairam* = great enmi
 There was a fierce demon named Maayaavi, the elder brother of Dundubhi and the son
 of one demon named Maya. There was a great enmity between this Maayaavi and Vali owing to some
 female. [4-9-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -261,8 +251,6 @@ he was; *vaalinam ca rane aahvayat* = Vali is, invited, for a fight.
 
 He that Maayaavi arrived at the doors of Kishkindha in a night when the people are
 sleeping, and blared very much inviting Vali for a fight. [4-9-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -312,8 +300,6 @@ speedily; *niSpapaata* = fell out [ palace chambers,] came out.
 
 Then my brother who was also sleeping well, on hearing that bellowing in a
 clamouring voice, did not tolerate and came out speedily. [4-9-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -361,8 +347,6 @@ really.
 
 Though the females and myself bowed reverently to prevent Vali, he came out of
 palace in all his anger to kill that great demon. [4-9-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -409,8 +393,6 @@ predisposition; *nihsR^itaH* = started; *vaalinaa saha* = Vali, along with.
 
 But Vali spurned all of us away and forged ahead, and then I also have started to go
 along with Vali in all my predisposition. [4-9-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -461,8 +443,6 @@ quickly.
 
 A great fear was induced in that demon on seeing my brother and me too coming from a
 distance, and then he quickly ran away. [4-9-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ alone.]
 
 While he is running away in fear we quickly followed him on a path that is barely
 lit by moonlight of the moon who is just coming up. [4-9-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -560,8 +538,6 @@ covered; *mahat vivaram* = a great, cleavage, cavity; *vegaat* = speedily;
 That demon speedily entered an un-enterable cavity under the ground, covered with
 grass, and we too having reached there speedily stood at the aperture of that cavity for a while.
 [4-9-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -611,8 +587,6 @@ uvaaca* = to me, this sentence, said.
 
 Then Vali has gone into the enfoldment of fury on observing the entry of that demon
 into the hole, whereby his senses felt outraged, and he said this sentence to me. [4-9-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -660,8 +634,6 @@ at hole's, entrance; *tiSTha* = you stay.
 Then Vali said to me, "Now you stay here on the alert, Sugreeva, at the entrance of
 this hole till I return on destroying the enemy in a fight on my entering this hole..."
 [4-9-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -709,8 +681,6 @@ made me to swear; *tataH bilam pravivesha* = then, the hole, he entered.
 On hearing those words I requested him to allow me too to come in to the hole, but
 he being the great tormentor of his enemies disallowed it, and he made me to swear on his feet and
 entered that hole. [4-9-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -757,8 +727,6 @@ that; *kaalaH* = time; *vyatyavartata* = passed away.
 
 Well over a year is over after his entering into that cleavage, and to me too who
 stayed at the entrance of the cleavage that much time had passed away. [4-9-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -808,8 +776,6 @@ also, able to see; *me manaH paapa shanki ca* = my, mind, harm, doubting.
 
 I thought I lost him for my brother is unseen, and in all fondness towards him my
 mind started to doubt about some harm might have befallen on him. [4-9-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -856,8 +822,6 @@ mind started to doubt about some harm might have befallen on him. [4-9-16]
 
 After a long time blood with foam gushed out that hole, and on seeing it I was
 deeply saddened. [4-9-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -904,8 +868,6 @@ ratasya* = in fight, involved in; *kroshataH api* = on who is screeching, even;
 
 Sounds of screaming demon came to my ear, but the screeches of my brother who is
 involved in fight are unheard, in the least. [4-9-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -965,8 +927,6 @@ brother is finished, and covered the cavity's opening with a mountain similar bo
 performed water oblations to my deceased brother with saddening pain, and then returned to
 Kishkindha. But the ministers have persuaded and heard from me the actual happening though I was
 concealing it. [4-9-19, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -1022,8 +982,6 @@ daanavam hatvaa* = enemy, demon, on killing; *aajagaama* = he returned.
 Then duly summoned by all of those ministers I was crowned, and while I was ruling
 the kingdom judiciously, oh, Raghava, that semi-human Vali returned on killing that demoniac enemy.
 [4-9-21, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1039,8 +997,6 @@ seeing; *kopaat* = in anger; *sam rakta locanaH* = well, reddened, eyes;
 
 But on seeing me crowned his eyes were reddened in anger, and he arrested all my
 ministers as he spoke rudely. [4-9-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -1090,8 +1046,6 @@ towards; *na praavartata* = not, disposed to.
 And oh, Raghava, though I was capable enough to counter him, my reason was
 controlled by my esteem to brotherhood, and I was indisposed to commit that sin of defying
 brotherhood. [4-9-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -1143,8 +1097,6 @@ satisfied, inner self; *aashiSaH na uktaaH ca* = blessings, not, said, even.
 He that brother of mine entered the capital thus on destroying the enemy, and I
 hailed him as usual while respecting that audacious soul, but his inner self is unsatisfied and I
 remained unblest. [4-9-24b, 25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 </details>
 
@@ -1194,8 +1146,6 @@ chakaara* = leniency [quarter,] not, done [showed no quarter.]
 
 Oh, lord Rama, though I bowed with the crown touching his feet, he that rancorous
 Vali showed no quarter towards me." So said Sugreeva to Rama. [4-9-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

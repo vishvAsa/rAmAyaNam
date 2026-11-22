@@ -64,8 +64,6 @@ dark-brown; coloured man; *mahaan* = the mighty man; *nirupamaH* = beyond compar
 
 Thereafter, the lotus-eyes Rama, who was dark-brown in complexion and great beyond
 compare, spoke thus to the charioteer, "Tell about me to my father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -81,8 +79,6 @@ with his senses disturbed by grief; *raama preshhitaH* = having been sent by Ram
 
 Quickly entering inside, when sent by Rama, the charioteer saw the king having
 sighs, his senses disturbed by grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -132,8 +128,6 @@ fire; *bhasmachchhannam* = covered by ash; *tataakam iva* = as a lake;
 
 He saw the king resembling an eclipsed sun, like fire covered by ash, as a lake
 without water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -149,8 +143,6 @@ joined pams.
 
 The charioteer, a great intellectual, saw Dasaratha repenting with his mind greatly
 agitated and approached him with joined palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -197,8 +189,6 @@ blessings of triumph; *abraviit* = spoke; *mandayaa* = in slow; *shlakshhNam*
 
 The charioteer, first inspiring the king with blessings of triumph, spoke thus in a
 slow and sweet voice, overcome with fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -252,8 +242,6 @@ dependents; *tishhTati* = is standing; *dvaari* = at the gate.
 
 "Your son, the tiger among men, having given away all his wealth to brahmanas and
 dependents, is waiting at the gate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -274,8 +262,6 @@ that Rama; *satya paraakramaH* = who is truly brave; *pashyatu* = see; *tvaa*
 
 "May auspiciousness betide you! Let that Rama, who is unfailingly brave, see you.
 After bidding farewell to all friends, he wants to see you now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -291,8 +277,6 @@ out; *mahaaraNyam* = to a great forest; *pashya* = see; *tam* = that Rama;
 
 "Oh, king! Rama is setting out to a great forest. See him who is resembling a sun
 with rays of light, displaying royal qualities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -340,8 +324,6 @@ him(thus).
 
 That king Dasaratha, who speaks truth, whose mind is virtuous, who is like an ocean
 by his depth of character and who is blemish less like a sky, replied to Sumantra as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -389,8 +371,6 @@ virtuous Rama.
 
 "Oh, Sumantra! being all my wives, who are here. Surrounded by all of them, I want
 to see the virtuous Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -438,8 +418,6 @@ there; *maa chiram* = without delay.
 
 Sumantra, after entering the gynaecium, spoke these words to those women as follows:
 "Oh, the venerable ladies! The king is calling you. Go there without delay.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -486,8 +464,6 @@ after knowing; *shaasanam* = the instruction; *bhartuH* = of their husband.
 
 All those women, asked thus by Sumantra as per the king's orders, went to his
 palace, after knowing the instructions of their husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -535,8 +511,6 @@ steadfast in their vow (of devotion to their husband); *taamra lochanaaH* = havi
 
 Encircling Kausalya, three hundred fifty women, steadfast in their vow(of devotion
 to their husband), with their eyes reddened, went there slowly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -586,8 +560,6 @@ suutam* = towards that chariorteer; *uvaacha* = and spoke(thus); *sumantra* = Oh
 
 After arrival of his wives, king Dasaratha spoke to that charioteer as follows, "Oh,
 Sumantra! Bring my son here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -634,8 +606,6 @@ kअप्पणॆ पडॆद सुमन्त्रनु होगि श
 
 Taking Rama, Lakshmana and Seetha, that charioteer then speedily went to the king's
 presence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -683,8 +653,6 @@ surrounded by women; *dR^ishhTvaa* = seeing; *duraat* = from a distance;
 
 King Dasaratha surrounded by women, seeing from a distance his son coming with
 folded hands, distressed as he was, rose swiftly from his seat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -735,8 +703,6 @@ Dasaratha; *vishaampatiH* = the ruler of people; *abhidadraava* = ran towards hi
 
 Seeing Rama, King Dasaratha ran speedily towards him. But without reaching him he
 fell on the floor senseless, afflicted as he was with sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -783,8 +749,6 @@ seemed senseless; *duHkhena* = with grief; *sashokam* = through agony.
 
 Then, Rama and Lakshmana an eminent car-warrior, quickly approached that king who
 seemed unconscious with full of grief as he was, through agony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -831,8 +795,6 @@ dhvanimuurchhitaH = mixed with the sound of tinkling of ornaments.
 
 Sounds of thousands of women crying "Alas! Alas! Oh Rama!" generated all at once
 from the royal palace, mixed with the sound of tinkling ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -879,8 +841,6 @@ Rama and Lakshmana; *siitayaa saardham* = along with Seetha; *parishhvajya* = he
 
 Holding Dasaratha in their arms and crying, both Rama and Lakshmana along with
 Seetha laid him on the couch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -931,8 +891,6 @@ sorrow.
 
 Then, Rama with folded hands spoke thus to king Dasaratha who got consciousness
 within a short time and who was inundated in a sea of sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -980,8 +938,6 @@ within a short time and who was inundated in a sea of sorrow.
 
 "Oh, emperor! I take leave of you, who are the lord of all of us. See auspiciously
 towards me, who am about to leave for Dandaka forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1035,8 +991,6 @@ are not agreeing.
 
 "Permit Lakshmana also and Seetha too who is accompanying me to the forest. Even if
 prevented(by me0 on many true reasons, these two are not agreeing to stay behind"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1054,8 +1008,6 @@ Brahma.
 "Giving up grief, Oh the bestower of honour, grant leave to all of us, Lakshmana
 myself and Seetha as Brahma(the lord of creation) did to his sons(sanaka and his three brothers who
 intended to go to forest for practising austerities)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1105,8 +1057,6 @@ permission; *jagatiipateH* = of the king; *vanavaasaaya* = stay in the forest;
 
 Gazing at Rama who is unruffled, awaiting permission of the king for stay in the
 forest, the king Dasaratha spoke thus:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1153,8 +1103,6 @@ now; *nigR^ihya* = by confirning; *maam* = me; *tvameva* = you alone;
 
 "Oh, Rama! I was stupefied by Kaikeyi through a boon. Now, by confining me, be you
 the king of Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1203,8 +1151,6 @@ after making salutation with joined palms.
 When told thus by the king, Rama the best man in supporting righteousness and who is
 proficient in expression, replied( as follows) to his father, after making salutation with joined
 palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1254,8 +1200,6 @@ me; *na kaaryam* = do not make; *anR^itam* = untruth; *tvayaa* = of you.
 
 "Oh, king! You be the ruler of the earth for thousand years. But, I for my part,
 will stay in the forest. For my sake, do not generate untruth about you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1303,8 +1247,6 @@ strolled; *vanavaase* = in the forest; *nava paNchaacha* = for fourteen;
 
 "Oh, ruler of men! Having strolled in the forest for fourteen years, I shall clasp
 your feet once more after fulfilling my promise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1354,8 +1296,6 @@ said; *rudan* = weeping; *tam* = to that; *priyam putram* = beloved son.
 
 Prompted secretly by kaikeyi, the distressed king, tied up by fetters of truth, said
 weeping to that beloved son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1403,8 +1343,6 @@ fearless from any quarter.
 
 "Oh, darling! Proceed for welfare, for advancement and for coming again. Let your
 path of travel be auspicious, undistracted and fearless from any quarter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1461,8 +1399,6 @@ reversed.
 
 "Oh, darling, the seion of Raghu! Truthful as you are by nature and your mind being
 given to righteousness, your decision cannot be reversed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1478,8 +1414,6 @@ given to righteousness, your decision cannot be reversed."
 
 "Oh, son! Do not leave in any case today, now at night time. Even by seeing you for
 one day, I may live happily."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1528,8 +1462,6 @@ objecs; *tvam* = you; *saadhayishhyasi* = may leave; *shvaH* = tommorrow;
 
 "Looking at your mother and myself, stay at least for this night today. Satiated by
 all the desired objects, you may leave tomorrow at dawn."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1577,8 +1509,6 @@ place; *tyaktvaa* = leaving; *priyaan* = beloved ones.
 
 "Oh Rama, my son! An incorrigible thing is being done by you since for my pleasure
 you are going to the forest a solitary place, leaving beloved ones."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1632,8 +1562,6 @@ swear; *satyena* = by my faith; *asmi* = I was; *chhalitaH* = cheated;
 
 "Oh Rama my son! Your exile is not agreeable to me. I was cheated by Kaikeyi who had
 concealed intentions and resembled fire with ashes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1649,8 +1577,6 @@ concealed intentions and resembled fire with ashes."
 
 Incited by Kaikeyi who has destroyed established customs, you wish to redeem my
 deceit, derived by me from her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1697,8 +1623,6 @@ promises; *tat etat* = this; *na* = is not aashcharyatamam = a great surprise.
 
 "It is not a great surprise, my son, that you my eldest son should seek to make your
 father as one who does not have false promises."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1746,8 +1670,6 @@ lakshhmaNena saha* = along with his brother lakshman; *shrutvaa* = hearing;
 
 After hearing these words of their father who was depressed, Rama and Lakshmana were
 upset. Then Rama spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1797,8 +1719,6 @@ all enjoyments.
 
 Even if these worldly pleasures are obtained today, who will offer those things to
 me tomorrow? Therefore I desire only to get away in lieu of all these enjoyments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 </details>
@@ -1840,8 +1760,6 @@ foodgrains; *pradiiyataam* = may be given; *bharataaya* = to Bharata.
 
 "This earth being relinquished by me; which included various provinces, filled with
 people, imbued with riches and food grains, may be given to Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1894,8 +1812,6 @@ completely.
 "I cannot budge now from my decision made about my stay in the forest. Oh king the
 bestower of boons! You were pleased to give a boon to Kaikeyi and let it be fulfilled completely.
 Be you a truthful man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1942,8 +1858,6 @@ _________________
 
 "I , as promised, fulfilling your command, shall live in the forest along with
 forest-dwellers for fourteen years."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -1987,8 +1901,6 @@ forest-dwellers for fourteen years."
 "Oh, king! Do not have any hesitation in offering the kingdom to Bharata. Neither
 kingdom nor happiness indeed is desired by my nature. It is dear to me only to do your command as
 directed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2035,8 +1947,6 @@ difficult to assail; *na kshhubhyatihi* = is not indeed agitated.
 
 "Let your sorrow disappear! Do not be overwhelmed with tears. The ocean, the lord of
 rivers which is difficult to assail, indeed does not get agitated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2087,8 +1997,6 @@ life.
 
 "I do not crave for kingdom or happiness nor again for Seetha nor even all these
 enjoyments nor for heaven nor even for life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2130,8 +2038,6 @@ enjoyments nor for heaven nor even for life."
 
 "Oh, Jewel among men! I wish you to be a truthful mean, not a fallacious man. I
 swear to you in your presence by truth and by virtue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2182,8 +2088,6 @@ going back; *me* = for me.
 
 "It is not possible for me, Oh father, to stay on even for a moment. Therefore,
 contain this grief, Oh Lord, for there is no going back upon my word."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2231,8 +2135,6 @@ that; *satyam* = pledge.
 
 "Oh Dasaratha the seion of Raghu! I was indeed asked by Kaikeyi to go to the forest.
 It was also replied by me that I would go. I shall redeem that pledge."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2279,8 +2181,6 @@ It was also replied by me that I would go. I shall redeem that pledge."
 
 "Oh, king! Do not feel anxious. We shall sport in the forest, flocked with peaceful
 deer and rendered noisy by birds of various types."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2321,8 +2221,6 @@ father's; *vachaH* = word; *daivatam ityeva* = considering it s divine.
 
 "Oh, father! It was indeed said that even for celestials, father is the god.
 Therefore, I shall carry out the father's word, considering it as divine."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2372,8 +2270,6 @@ vimuchyataam* = let this grief be given up.
 
 "Oh father, the best among men! You will see me, when I come back after elapsing
 fourteen years. Let this grief be given up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2423,8 +2319,6 @@ _________________
 
 "Oh, tiger among men! Why have you got perturbed-you by whom all these people bathed
 in tears, ought to be consoled?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2479,8 +2373,6 @@ in it; *chiraaya* = for long.
 
 "Let this city, province and whole of this earth left by me, be given to Bharata. I
 for one following your instructions, shall proceed to the forest to dwell in it for long."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2537,8 +2429,6 @@ by me; *anushaastu* = be ruled over; *bharataH kevalam* = barely by Bharata;
 "Oh, king! Let this earth with multitude of mountains, comprising of cities with
 their gardens relinquished by me, be ruled over barely by Bharata, within the bounds of
 righteousness. Let the word of honour given by you(to Kaikeyi) come true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2598,8 +2488,6 @@ manner; *na* = it is not; *mahatsu* = on haughty; *kaameshhu* = enjoyments;
 
 "Oh, the faultless king! My mind is not directed on haughty physical enjoyments or
 sensuous pleasures which is approved by the wise. Let your agony disappear, for my sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2661,8 +2549,6 @@ become; *satyam* = true.
 Oh, the sinless king! Therefore, now associating you with untruth, I just do not
 desire for kingdom, nor all the sensual enjoyments, nor happiness nor existence nor even Seetha.
 Let your pledge(given to Kaikeyi) prove true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2717,8 +2603,6 @@ with; *bhakshhayan* = eating; *phalaani* = fruits; *muulanicha* = and tubers;
 "I shall be happy, entering the forest filled with wonderful trees, eating fruits
 and tubers as well as seeing mountains rivers and lakes in the forest. Let there be satisfaction
 for you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2774,8 +2658,6 @@ little.
 Embracing his son, that king Dasaratha, who had thus fallen on evil days, was
 tormented with grief and distress, got fainted, fully losing his consciousness and not moving even
 a little.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 </details>
 
@@ -2835,8 +2717,6 @@ weeping; *sarvam* = everything; *tatra* = there; *babhuuva* = became;
 
 Then, all the queens assembled there except Kaikeyi began to cry. Sumantra also fell
 into a swoon, while weeping. Everything there became loud lamenting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Verses converted to UTF_8 Sept, 09**
 Sumantra, the minister continues his narration to his king Dasharatha, about Rishyashringa's
 arrival at Anga kingdom of King Romapaada and his marriage with Princess Shantha, the daughter
 of Romapada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ tat me nigaditam sarvam* = that all spoken by me.
 Sumantra thus motivated by King Dasharatha, said these words to king "Oh! King, how and with
 which idea Sage Rishyasringa is brought by the ministers of Romapada, all that will be spoken...
 that may please be listened from me along with ministers... [1-10-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ idam* = said this to king Romapaada; *upaayaH nirapaayaH ayam* = this one is a n
 
 "The ministers along with clergyman have spoken this way to King Romapaada, "this is a non-harmful
 plan, well thought over by us..." [1-10-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -162,8 +156,6 @@ of.
 
 "Rishyasringa is a forest-dweller absorbed in ascesis and self-study of Vedic scriptures,
 and he is not aware of women, or of worldly-matters or of even worldly-pleasures...[1-10-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -203,8 +195,6 @@ wish to bring; *kShipram ca adhyavasiiyataam* = immediately, let be decided.
 
 "With much desired sense-pleasing objects that will be disquieting the minds of men, we wish
 bring him to the city... Let it be decided quickly... [1-10-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -248,8 +238,6 @@ him, hither.
 
 "Beautiful and well decorated courtesans will go there to bring him hither by tempting with
 many a feint, and let the courtesans be given ample gifts... [1-10-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -295,8 +283,6 @@ many a feint, and let the courtesans be given ample gifts... [1-10-5]
 
 "Hearing that the King replied the priest, "Let it be so..." and then the priests and ministers
 have carried out the plan that way... [1-10-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -359,8 +345,6 @@ be nominated as Court Dancers or Temple Dancers and the like. Ancients recognize
 arts *chatuSSaSThi-kalaa* , which include right from music, dance, and drama, sculpture,
 painting etc., up to the art of thievery. Kings in their political or sovereign pursuits variedly
 used these Deva Daasis, the courtesans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -440,8 +424,6 @@ either of city or of countryside from the time of birth onwards... [1-10-8b, 9]
 
 Rishyasringa is thus not aware of gender differentiation or exposed to any other object of
 pleasure, and thus his father conditioned him to achieve some supreme ritual ideal.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -481,8 +463,6 @@ son Rishyasringa; *yadR^icChayaa tam desham aajagaama* = casually came to that p
 
 "Then at one time Rishyasringa casually arrived at that place, and has seen those comely females.
 [1-10-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -522,8 +502,6 @@ son Rishyasringa; *yadR^icChayaa tam desham aajagaama* = casually came to that p
 
 "They the lustful women are amazingly attired and singing melodious tunes, all of them neared
 the sage's son and spoke these words... [1-10-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ vane* = lonely, devoid of people [desolate,] in deep, forests; *[kim] charasi*
 
 "Who you are? Why you move lonely in these deep and desolate forests, why you conduct yourself
 like this? Oh! Brahman, we are interested to know... please tell us..." [1-10-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -620,8 +596,6 @@ inclined to.]
 "Those women are in most desirable form and hitherto he has not seen such forms in that forest,
 hence a kind of friendship spouted, with which he is inclined to detail about his father...
 [1-10-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -668,8 +642,6 @@ my name and by an event on my birth, and thus renowned on earth..."
 The birth-event associated with his name is that he is born with a horn on the crown of his
 head. Thus he is named as Rishyasringa, i.e., *R^iSi*= the Sage; *sR^i~Nga*= horn; a Sage with
 a horn, and this here he recalls his birth time event.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -709,8 +681,6 @@ all; *vidhipuurvakam puujaam kariSye* = I wish to worship according to scripture
 
 "Our hermitage is here only, oh, august ones, I wish to perform scripturally worship to you
 all verily there..." thus said the sage to the courtesans. [1-10-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -751,8 +721,6 @@ jagmuH* = thereby, all, women went.
 
 "On hearing the words of sage's son, all those courtesans are verily inclined to see the threshold
 of that hermitage, then all the women went to hermitage. [1-10-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -808,8 +776,6 @@ worshipped the courtesans, as he would worship some super-natural deities by say
 words, which will usually be used in ritual worship of Hindu deities. He being a fruitarian
 has offered the courtesans the tuber fruits like sweet potatoes etc., which are ridiculous
 to urbanites, that too to the pleasure-taking courtesans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -850,8 +816,6 @@ mind to make away that way.
 
 "All of them have received that kind of worship much enthusiastically, but dread at the arrival
 of the sage Vibhandaka, they quickly made-up their mind to make away from there. [1-10-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -898,8 +862,6 @@ holy One; *bhadram te* = safe be you; *bhakShayasva* = eat them; *chiram*
 
 " 'Take these important fruits of ours, oh, Brahman, you be safe, oh, holy one... eat them
 before long....' Said courtesans to Rishyasringa.] [1-10-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -949,8 +911,6 @@ of best ones; *pradaduH tasmai* = well presented, to him.
 
 "Then all of the courtesans have embraced him and all of them with a kind of mirthfulness
 in the offing, presented sweet-balls and other varieties of best sweetmeats to him. [1-10-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -990,8 +950,6 @@ in the offing, presented sweet-balls and other varieties of best sweetmeats to h
 
 "Having relished the sweets, that resplendent sage supposed them to be fruits only, for he
 did not taste sweets earlier, as he is always forest-bound. [1-10-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1040,8 +998,6 @@ on asking [for leave]; *vratacharyaam nivedya cha* = on informing devotional dut
 duties, they the courtesans departed from there on the pretext of their daily worship, while
 they actually feared for the arrival of Rishyasringa's father who may hurl curses on his arrival...
 [1-10-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1082,8 +1038,6 @@ parivartate* = he behaved in sadness, even.
 
 "After the departure of all them the courtesans, that Brahman Rishyasringa, the grandson of
 Sage Kaashyapa, is disturbed at heart and even behaved sadly... [1-10-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1129,8 +1083,6 @@ aajagaama* = arrived at that place.
 "Then on the next day Rishyasringa, son of Vibhandaka and the prosperous sage with ascetic
 power has arrived at that place where he saw well-decorated and delightful courtesans recollecting
 in mind repetitively about them alone. [1-10-24, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1187,8 +1139,6 @@ also; *abruvan* = they have said.
 " Then on seeing the arrival of that Brahman, the courtesans felt happy at heart, and all
 of those courtesans on surrounding him said, "oh, gentle one, welcome to the threshold of
 our hermitage... [1-10-25b, 26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1235,8 +1185,6 @@ indeed.
 
 "There are excellent tuber fruits and fruits and there will be a very distinctive hospitality...
 definitely indeed..." So said the courtesans.[1-10-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1283,8 +1231,6 @@ took away him.
 
 "On hearing the heart-pleasing words of all those courtesans, Rishyasringa made up his mind
 to go over there, and then those women took him away [to their place in Anga Kingdom.] [1-10-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1325,8 +1271,6 @@ rain.
 
 "While that great soul ad Brahman Rishyasringa while being brought into Anga Kingdom, then
 the Rain-god quickly showered rain in Anga kingdom to the delight of the world. [1-10-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1406,8 +1350,6 @@ country, at a later time ... [1-10-30, 31]
 The salutation in prostration on the ground is usually performed before Gods or Deities, in
 reverence. It is called *saaSTaanga-praNaamam = sa aSTa anga praNaamam* , i.e., saluting
 with eight body parts touching the ground, indicating his absolute surrender to the worshipped.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1456,8 +1398,6 @@ city]; *kanyaam shantaam asmai yathaavidhi datvaa* = on giving bride Shanta cust
 
 "On entering the palace princess Shanta is given to Rishyasringa in customary marriage, and
 then that King Romapada obtained rejoice with a peaceful mind. [1-10-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 </details>
 
@@ -1505,8 +1445,6 @@ fulgent sage; *shantayaa saha bhaaryayaa* = along with his wife Shanta; *sarvaka
 " Thus that great fulgent Rishyasringa lived in Anga kingdom along with his wife Shanta, and
 with all his desires fulfilled and also well worshipped" [Thus Sumantra said the legend of
 Rishyasringa to King Dasharatha.] [1-10-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga10/balasans10.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ it is. Lakshmana ascends a tree and informs Rama that Bharata's army is approach
 hermitage. Lakshmana expresses his apprehension to Rama, saying that Bharata's army may be coming
 there in order to kill both of them. An enraged Lakshmana says that he will kill both Bharata and
 Kaikeyi together with the army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ _________________
 
 Having shown Mandakini River in that manner to Seetha, the daughter of Mithila, Rama
 set on the hill-side in order to gratify her appetite with a piece of flesh.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ speaking; *idam* = this meat; *madhyam* = is fresh; *idam* = this;
 
 Rama, whose mind was devoted to righteousness stayed there with Seetha, saying;
 "This meat is fresh, this is savoury and roasted in the fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ Rama, whose mind was devoted to righteousness stayed there with Seetha, saying;
 
 While Rama was thus sitting there the dust and clamour of Bharata's army, which was
 approaching, ascended into the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ approaching, ascended into the sky.
 
 Meanwhile, frightened by that gigantic clamour, the leaders of elephants and other
 animal - troops, in rut, were tormented and fled in different directions from there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ cha* = leaders of the animal flock; *vipradrutaan* = running away.
 
 Rama heard that sound generated from the army and also saw all those leaders of the
 animal-flock, running away from there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -314,8 +302,6 @@ courage.
 
 Seeing those animals running away and hearing that clamour, Rama spoke to Lakshmana
 (son of Sumitra) of burning courage as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ Seeing those animals running away and hearing that clamour, Rama spoke to Lakshm
 
 "Alas! O, Lakshmana! Sumitra is blessed with a noble son in you. Here is heard a
 tumultuous sound as terrific as that of a roaring cloud. See what it is."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -423,8 +407,6 @@ various directions.
 
 "The lordly elephants in the forest, the buffaloes in the great woods and the wild
 beasts frightened by lions are suddenly running away in various directions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -440,8 +422,6 @@ other; *kiNchit* = somewhat; *shvaapadam* = savage beast.
 
 "O, Lakshmana! You ought to find out whether it is a king or a prince roaming for a
 hunt or some other savage beast."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -488,8 +468,6 @@ to birds; *arhasi* = you ought; *J^Naatum* = to find out; *achiraat* = soon;
 
 "O, Lakshmana! This mountain is difficult of access even to birds. You ought to find
 out soon, all this in an accurate manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -536,8 +514,6 @@ out soon, all this in an accurate manner."
 
 Lakshmana quickly ascended a Sala tree in flowering and looking towards all
 directions, saw towards eastern side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -585,8 +561,6 @@ foot-soldiers.
 
 Looking in northern direction, Lakshmana saw a huge army, full of chariots, steeds
 and elephants accompanied by smart foot-soldiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -633,8 +607,6 @@ spoke; *idam* = these; *vachanamcha* = words also.
 
 Lakshmana informed Rama about that army which was full of horses, elephants and
 chariots decorated with flags and spoke the following words also.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -682,8 +654,6 @@ occupy; *guhaam* = a hiding place; *kuruSva* = Make; *chaapam* = your bow;
 
 "O, honourable brother! Extinguish the fire. Let Seetha occupy a hiding place. Make
 your bow ready with a bow-string and arrows. Wear an armour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -733,8 +703,6 @@ army; *manyase* = your think; *imaam* = is this?.
 
 Rama the tiger among men replied to Lakshmana, saying: "O, Lakshmana! See, whose
 army do you think is this?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -781,8 +749,6 @@ though wishing to scorch; *taam senaam* = that army.
 
 Hearing Rama's words, Lakshmana was irritated like a fire and spoke the following
 words, as though he was wishing to scorch the army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -830,8 +796,6 @@ us; *vyaktam* = It is clear.
 
 "Bharata, Kaikeyi's son, having obtained coronation and desirous of making the
 kingdom free of enemies, is coming here to kill both of us. It is clear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -882,8 +846,6 @@ tree; *viraajati* = is shining; *rathe* = on that chariot.
 "The gigantic and glorious tree with superb branches is shining over there
 prominently. The ensign bearing the device of a kovidara (pomegranate) tree is shining on that
 chariot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -931,8 +893,6 @@ mounted; *yathaakaamam* = comfortably; *shiighragaan* = on their swift;
 
 Among the cavalry, some are cavorting merrily on their swift horses, while others
 are beaming with delight, mounted on their elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -979,8 +939,6 @@ mountain; *athavaa* = or; *tiSThaavaH* = let us stay; *ihaiva* = here itself;
 
 "O, warrior! Let us take up our bows and ascend the mountain or let us stay here
 itself, fully prepared with our weapons in our hands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1036,8 +994,6 @@ cha* = by me.
 "O, Rama! Will that flag with the insignia of a Kovidara tree come into our
 subjugation? Can we see Bharata, because of whom a great misfortune has occurred to you, to Seetha
 and to me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1054,8 +1010,6 @@ deprived; *shaashvataat* = of an eternal; *raajyaat* = kingdom; *ayam* = such;
 
 "O, Rama the warrior! By the reason of whom you were deprived of an eternal kingdom,
 such Bharata as a foe who is coming here, deserves to be slain by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1102,8 +1056,6 @@ before; *na yujyate* = non is charged adharmaNa = with unlawfulness.
 
 "O, Rama! I see no sin in slaying Bharata. None is charged with unlawfulness, if one
 strikes down an aggressor."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1153,8 +1105,6 @@ legitimate; *etasmin* = (while) he; *nihate* = is slain; *anushaadhi* = rule;
 
 "Bharata is the assailant and his death is legitimate. He being dead, you will rule
 the entire earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1209,8 +1159,6 @@ down by an elephant.
 
 "Let Kaikeyi, who is craving for the kingdom see, with great sorrow, her son slain
 by me today in battle, as a tree is crushed down by an elephant."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1257,8 +1205,6 @@ accomplices madinii = Le the earth; *adya* = today; *parimuchyataam* = be reliev
 
 "I shall kill Kaikeyi too along with her friend the hunch-back and other
 accomplices. Let the earth today be relieved of a great sinner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1306,8 +1252,6 @@ accomplices. Let the earth today be relieved of a great sinner."
 
 "O, warrior bestowing an honour! Today in the concentrated fury that injustice has
 kindled I shall scatter the enemy - battalions as a fire consumes the dry wood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1357,8 +1301,6 @@ kuuTasya* = of Chitrakuta; *shoNitokSitam* = overflow with blood.
 
 "Today, with my sharpened arrows, I shall slay the bodies of my foes and make this
 forest of Chitrakuta overflow with blood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1408,8 +1350,6 @@ darts; *naraamshcha* = and the men; *nihataan* = struck down; *mayaa* = by me;
 
 "The elephants and horses whose breasts were laid open with my darts and the men too
 struck down by me, be dragged about by savage beasts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 </details>
 
@@ -1460,8 +1400,6 @@ arows; *dhanuSashcha* = and my bow.
 
 "By killing Bharata together with his army in this great forest, I shall discharge
 my debt to my bow and arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

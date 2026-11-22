@@ -16,8 +16,6 @@ title_english = "052 Ravana orders Hanuma to be killed"
 Hearing the harsh words of Hanuma, Ravana orders him to be killed. Vibhishana, however,
 advises Ravana to desist from the dastardly act, pointing out that the killing of an envoy is forbiddenaccording
 to religious scriptures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ for the killing; *tasya* = of Hanuma.
 
 Hearing those words of the high=souled Hanuma, Ravana duly excited with anger, ordered
 for the killing of Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ entrusted with the function of a messenger.
 
 While it was ordered by the evil-natured Ravana for the killing of Hanuma, Vibhishana
 did not agree to the killing of Hanuma, who was entrusted with the functions of a messenger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ action to be done.
 Seeing Ravana getting enraged and looking to that affair (of killing of an envoy) that
 has arisen, Vibhishana who was firm in accompanying any object, reflected upon an appropriate action
 to be done.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ a conqueror of enemies; *uvaacha* = spoke; *atyartham* = very meaningful; *hitam
 Then, deciding about a right action, Vibhishna, who was silled in communication and a
 conqueror of enemies, spoke softly the following very meaningful and useful words to Ravana, his venerable
 borther.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -281,8 +271,6 @@ envoy.
 
 "O king of demons! Forgive and give up your anger. Be gracious and hear my words. Virtuous
 kings of excellence, knowing the distant and the near, do not cause killing of an envoy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -332,8 +320,6 @@ _________________
 
 "O hero! Killing of this monkey is against a royal virtue and any universal custom condemns
 it. Hence, it is improper for you also to do it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -383,8 +369,6 @@ are experienced in royal virtues; *paraavarajJNaH* = you know both the distant a
 
 "You are indeed the knower of what is right. You are a person of gratitude. You are well-versed
 in royal virtues. You know both the distant and the near in beings. You know the highest truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -405,8 +389,6 @@ just a labour in vain.
 
 "If even learned persons like you are seized by anger, then the knowledge of scriptures
 is indeed just a labour in vain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -457,8 +439,6 @@ be ordered.
 
 "O king of demons! O annihilator of enemies, dangerous to be approached! Therefore, be
 graceful. After ascertaining about right and wrong, let appropriate punishment be ordered to the envoy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -531,8 +511,6 @@ words; *uttaran* = in reply.
 
 Hearing the words of Vibhishana, Ravana the lord of demons was greatly enraged and replied
 in the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -548,8 +526,6 @@ therefore; *vadhiSyaami* = I shall kill; *enam* = this; *vaanaram* = monkey;
 
 "O Vibhishana, the annihilator of enemies! There is no sin, even if the sinners are killed.
 So, I shall kill this monkey, who performed sins."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -601,8 +577,6 @@ juSTam* = and practised by the dishonourable; *vibhiiSaNaH* = Vibhishana; *variS
 Hearing those words, rooted in unrighteousness, enveloped in a great anger and accepted
 by the dishonourable, Vibhishana the best among those who weer endowed with understanding, spoke the
 following words, comprising of the highest truth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -661,8 +635,6 @@ Lanka!; *prasiida* = be gracious enough!; *shruNuSva* = hear; *vachanam* = my wo
 
 "O king of demons! O lord of Lanka! Be gracious enough. Hear my words endowed with righteousness
 and significance. O king! Sages say that messengers should not be killed at all places and at all times."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -718,8 +690,6 @@ pravadanti* = do not speak; *duuta vadhyaam* = about the killing of an envoy; *b
 "There is no doubt that this enemy is arrogant. He has created an unlimited displeasure
 to us. But, sages do not talk about the killing of an envoy There are indeed severeal punishments, intended
 for an envoy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -778,8 +748,6 @@ _________________
 
 "Some of the punishments to an envoy are-deforming the limbs, striking with a whip, shaving
 the head and impressing marks on the body. Indeed, we have not heard at any time of killing a messenger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -838,8 +806,6 @@ viniita buddhiH* = holding an intellect trained in religious merit and purpose; 
 
 "How can a person like you, holding an intellect trained in religious merit and purpose
 and a right judgement on cause and effect, subject to anger? Wise people indeed contain their anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -900,8 +866,6 @@ matters).
 "O hero! There is no one equal to you, who can discuss about the law or duty, none about
 universal custom and none in capturing the essence of scriptures. You are indeed excellent among all
 the celestials and demons in these matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -953,8 +917,6 @@ samghaaH* = multitude of celestials and demons; *narendraaH* = together with the
 "O king of demons! You are valiant. You are heroic. Even celestials and demons cannot
 conquer you. You conquered a multitude of proud celestials and demons together with their kings in battles
 several times"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -1010,8 +972,6 @@ by whom; *ayam kapiH* = this monkey; *preSitaH* = was sent.
 
 "I do not see any merit in killing this monkey. Let this carnal punishment be employed
 on those by whom this monkey was sent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -1058,8 +1018,6 @@ on those by whom this monkey was sent."
 
 "He is a person, sent by our enemies, whether he is good or bad. It is not worthy of
 killing him, who is an envoy, who is dependent on others and who talks for the cause of others."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -1107,8 +1065,6 @@ ocen.
 
 "O king! Moreover, If he is killed, I do not find any other person, who can travel through
 the sky and come here again to this shore of the great ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -1158,8 +1114,6 @@ your effort; *deveSu* = on celestials; *sendreSu* = including Indra.
 
 "O conqueror of enemies! Therefore, do not make efforts to kill him. On the other hand,
 you ought to strengthen such effort on celestials including indra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -1209,8 +1163,6 @@ a long distance; *yuddhaa ya* = for war.
 
 "O Ravana, who is fond of war! If he is dead, I do not find any other hero, who can incite
 those two arrogant princes, who are hindered by a long distance, for war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -1270,8 +1222,6 @@ prowess; energy and courage; *na yuktaa* = it is not proper; *naashayitum* = to 
 "O Ravana who can gladden the hearts of demons! It is not proper for you, who are difficult
 to be conquered by even celestials and demons having sufficient prowess energy and courage, to crush
 the arrival of a war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -1331,8 +1281,6 @@ high spirits; *variSThaaH* = excellent ones; *shastra bhR^itaam* = among wielder
 "There are more than a crore of valiant warriors in your charge, well-maintained, who
 desire your welfare, quite devoted, having colossal merits, born in a good tribe, holding high spirits
 and excellent wielders of weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 
@@ -1395,8 +1343,6 @@ _________________
 
 "Therefore, let some who follow your command, by talking a portion of your army, subjugate
 those two stupid princes, in order to make your power known to your adversaries."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1419,8 +1365,6 @@ his brother; *buddhyaa* = with his presence of mind.
 Ravana, the mighty and the eminent king of demons as also the lord of ogres and the adversary
 of the world of celestials, understood the cherished and excellent message of Vibhishana his brother
 with his due presence of mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
 </details>
 

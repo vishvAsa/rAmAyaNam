@@ -18,8 +18,6 @@ Rama finds Seetha's flowers and footprints, followed by heavy footprints of some
 male massive demon. On detailed probing there appear some more ruins of a combat between two
 warriors. Concluding that Seetha is definitely abducted by a massive demon, Rama wants to
 countermove the universe, even by waging a war with gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ whether, gone there; *jaaniihi* = you know - find out.
 A pitiable one, such as he is, he spoke to Lakshmana in a pitiable voice,
 "Lakshmana, go quickly to River Godavari and find out whether Seetha has gone to Godavari to fetch
 lotuses..." [3-64-1, 2a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ river; *punaH eva hi* = again, thus, indeed; *jagaama* = went to.
 
 When Rama said thus to him Lakshmana again went to the charming River Godavari
 quickening his pace. [3-64-2b, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ replying
 Searching at many declivities which River Godavari has on its banks Lakshmana said
 to Rama, "I do not espy her at ghats, declivities of riverbanks, and she is not replying though I
 shouted for her. [3-64-3b, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ really.
 "In fact, oh, Rama, to which place she that neutraliser of nervousness, namely
 Vaidehi, has got round to, or where that frailty is, that place is really incomprehensible to me...
 [3-64-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -303,8 +293,6 @@ where [are you]; *iti evam abraviit* = thus, that way, said [shouted.]
 Rama who is already stupefied by anguish is now despaired on listening Lakshmana's
 words and he personally went straight to River Godavari, and staying nearby that river Rama shouted
 in this way, "Seetha... where are you?" [3-64-5b, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -322,8 +310,6 @@ shashamsuu* = to Rama, not, informed.
 The forest creatures which were asked earlier have not said to Rama that a
 deservedly destructible demagogue of demons has divested him of Seetha, likewise now River Godavari
 which is now being asked has not informed Rama about Seetha. [3-64-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -372,8 +358,6 @@ she [Godavari]; *siitaam* = about Seetha; *na avadat* = not, said.
 Though the woeful Rama has asked her, and even though all the georgic beings
 impelled her to inform Rama the fact about his ladylove, River Godavari then remained mouthless
 about Seetha. [3-64-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -424,8 +408,6 @@ manoeuvres, also; *dhyaatvaa* = recalling; *bhayaat tu* = owing to fear;
 She that River Godavari has not informed Rama about Vaidehi just out of fear on
 recalling the mien and manoeuvres of malefic-minded Ravana, lest Ravana may drain her away.
 [3-64-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -474,8 +456,6 @@ spoke.
 Rama who is already in a rundown condition owing to the non-appearance of Seetha, is
 further rendered as a hopeless being by River Godavari in the matter of his catching a glimpse of
 Seetha, and such a Rama spoke to Saumitri. [3-64-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -530,8 +510,6 @@ say.
 absence of Vaidehi, oh Lakshmana, really what is that unpleasant word I have to say to Vaidehi's
 father king Janaka, also thus to Vaidehi's mother-in-law and my mother Kausalya, when I meet them!
 [3-64-11, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -582,8 +560,6 @@ away [who is a remover]; *saa kva gataa nu* = she, to where, went to, really.
 "Which Vaidehi is the remover of all my sadness who am a destitute of kingdom and
 surviving in forests on forest produce, such as she is, where has she gone, really! [3-64-12b,
 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -634,8 +610,6 @@ distanced from]; *raaja putriim a pashyataH* = king's, daughter, not, seen;
 "Though I am distanced from my relatives I deemed that princess Seetha alone would
 be an evermore relative of mine. But now when that princess alone is unseen I deem that my
 sleepless nights would be lengthy. [3-64-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -692,8 +666,6 @@ River Mandakini is River Ganga and here River Godavari is said as Ganga as there
 are five Ganga-s panca gangaa Cauvery, Tungabhadra, Krishna Veni, Gautami
 [namely Godavari,] Bhaagiirathi. in Southern India and these are held sacred on par with
 River Ganga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -743,8 +715,6 @@ vaktu kaama iha hi* = to me, to say [something,] they desire, now - as it were.
 
 "Now all these burly animals are repeatedly looking at me as though to speak to me,
 oh, brave Lakshmana, this I reckon with their body language as it were. [3-64-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -795,8 +765,6 @@ once.
 
 But on seeing them pryingly that tigerly-man Raghava has indeed asked them at once
 with a voice stifled with tears, "where is Seetha?" [3-64-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -843,8 +811,6 @@ When that best king has asked, those animals rose to their feet in a trice and
 facing themselves southward showed skyward with their snouts. And while running in the direction in
 which Maithili is taken away they are stopping to look back at that lord of people, Rama. Thus they
 are repeatedly running, stopping and staring at Rama. [3-64-17b, 18, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -897,8 +863,6 @@ gacChanti* = again, clamorously, going [adopting the very same southerly course]
 By which reason those animals are going in a southerly course on a southerly
 terrain, and stopping to peer at Rama, and again clamorously adopting the very same southerly
 course, Lakshmana ascertained that reason. [3-64-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -915,8 +879,6 @@ vat* = striver, as a; *jyeSTham bhraataram uvaaca* = to elder, brother, he spoke
 On noticing the lingua franca and even the lingua persona of those animals, that
 imaginative Lakshmana spoke to his elder brother, alike a striver striving hard for some
 information. [3-64-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -979,8 +941,6 @@ quickly rose to their feet, and as to how they are showing the track on the grou
 direction as well, thereby we may, for sure, go south-westward to know whether there is some
 information about her, or else, even that noble lady herself may be available there..." [3-64-21a,
 22, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1028,8 +988,6 @@ followed by; *vasundharaam viikshyamaaNaH* = earth, while seeing [scrutinising];
 On saying "Yes!" to Lakshmana that illustrious Rama of Kakutstha sallied forth to
 southern direction followed by Lakshmana, scrutinising the earth on his walkway. [3-64-23b,
 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1076,8 +1034,6 @@ flowers; *apashyataam* = they have seen.
 
 Those two brothers who are proceeding while discussing among themselves have seen
 the walkway bestrewn with flowers fallen from a person. [3-64-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1118,8 +1074,6 @@ anguished, Lakshmana; *vacaH uvaaca* = [this] word, said.
 
 That valiant Rama who is anguished to see the drizzle of flowers fallen on the
 surface of earth spoke this word to Lakshmana who is equally anguished. [3-64-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1169,8 +1123,6 @@ I recognise; *kaanane mayaa dattaani* = in forest, by me, given - these flowers;
 
 "I recognise these flowers that are fallen here, oh, Lakshmana. In forest I gave
 them to Vaidehi and she tucked these very flowers in her bun. [3-64-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1219,8 +1171,6 @@ they are carefully safeguarding; *manye* = I deem so.
 air as they are unswept by it, and by the glorious earth, as they are unspoilt by that, thus I deem
 that these naturals, sun, air, and earth are really proffering a helping hand to me. [3-64-27b,
 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1267,8 +1217,6 @@ uvaaca* = to mountain, spoke [asked.]
 
 On saying thus to best one among men Lakshmana, that virtue-souled and dextrous Rama
 asked the mountain that is uproarious with rapids. [3-64-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1334,8 +1282,6 @@ When the question itself becomes an answer it is citra alankaara and the
 mountain gave that reply in an echo of Rama's verbiage. Rama takes this as a mere echo of the
 mountain, but not a clear reply, and thus angering at it he wants to splinter it down, as said in
 next lines.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1393,8 +1339,6 @@ apiece; *taam hema varNaam* = her, golden, tinged; *hema angiim* = golden, limbe
 Because his question is unanswered he is enraged as with a lion enraging at a puny
 animal, and then he spoke to the mountain, "show me that golden tinged, golden limbed Seetha, oh,
 mountain, no sooner than I devastate all your apices, apiece..." [3-64-30b, 31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1450,8 +1394,6 @@ anything but a proper indication, thus it has dishonoured Rama - Maheshvara Tiir
 appeared to have said something but kept mum on other details - Govindaraja. In either way it
 silent on other details for fear of later time atrocity of Ravana, thereby Rama wanted to subject
 it to his arrows atrocity, now itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1509,8 +1451,6 @@ Then Rama of Dasharatha said to the hefty mountain, "When the infernos of my arr
 will burn you down completely and when you will be pared down ashes, you shall be grassless,
 treeless and tender-leafless, and thus you become a meritless mountain... hence, show Seetha before
 becoming so... [3-64-33, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1560,8 +1500,6 @@ yadi* = to me, not, going to tell, if; *adya imaam saritam vaa* = now, this one,
 
 "Lakshmana, if this River Godavari is not going to tell me immediately about that
 moonshine-faced Seetha, now I will dry her up... [3-64-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1637,8 +1575,6 @@ with his eyes, then he has seen on the ground gigantic footprints of a demon, an
 Vaidehi, who appeared to have run fearfully here and there in a helter-skelter manner expecting the
 arrival of Rama, and which footprints are heavily trodden by a demon who followed her. [3-64-35b,
 36, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1691,8 +1627,6 @@ shashamsa* = to dear, brother, informed.
 On scrutinising the overly trodden footprints of Seetha and the demon, and a broken
 bow, broken quiver, and broken and variously bestrewn chariot also, then Rama became baffle-hearted
 and said to his dear brother Lakshmana. [3-64-37b, 38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1739,8 +1673,6 @@ golden, beads; *kiirNaam [shiirNaam] hi* = strewn around [dropped down] indeed;
 
 "See Lakshmana, many beads of jewellery and many bits of garlands of Vaidehi have
 indeed fallen down, and oh, Soumitri, they are strewn around... [3-64-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1787,8 +1719,6 @@ and small,] blood, with drops; *sarvataH* = everywhere; *aavR^itam* = enclosed
 
 "Also the surface of the earth is everywhere interspersed with big and small blood
 drops that are akin to golden droplets, you see them Saumitri... [3-64-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1830,8 +1760,6 @@ think.
 
 "I think Lakshmana, guise changing demons would have ripped and rived Vaidehi, or
 divided her into pieces, or they might have gluttonised her. [3-64-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1881,8 +1809,6 @@ yuddham babhuuva* = here, a deadly, clash, occurred.
 
 "A deadly clash has occurred here, Soumitri, while two demons were clashing between
 themselves on account of Vaidehi... [3-64-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1933,8 +1859,6 @@ demons; *adhavaa api* = else, or; *suraaNaam* = of gods.
 "Oh, gentle Lakshmana, studded with pearls and gems this great bow of someone is
 beautifully decorated, but it is fragmented and fallen to earth. Oh, dear boy, Lakshmana, this bow
 may perhaps belong to demons, or else to gods... [3-64-43, 44a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -1981,8 +1905,6 @@ patitam* = on earth, fallen.
 
 "Studded with lapis gem beads this golden armour of someone is similar to the rising
 sun in its shine, but it is splintered and fallen to earth... [3-64-44b, 45a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2037,8 +1959,6 @@ down.
 "This hundred-spoked regal-parasol of someone is embellished with divine festoons,
 but oh, gentle Lakshmana, its central-shaft is wrecked and it is felled to earth... [3-64-45b,
 46a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2088,8 +2008,6 @@ hewed down; *ime kharaaH* = these, mules; *kasya* = whose; *vaa* = either.
 
 "These ghost-faced mules with golden breastplates are macabre in form and massive in
 frame, but they are hewed down in war, whose are they, either... [3-64-46b, 47a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2140,8 +2058,6 @@ down, battered, also.
 
 "Somebody's combat-chariot is irradiant and similar in shine to the flaring fire
 with a war-pennon, but it is broken and battered down, as well... [3-64-47b, 48a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2199,8 +2115,6 @@ which is unacceptable to some as Ravana did not travel in his chariot with a meg
 way aksha is taken as the 'eye of axle...' Then the diameter of his arrow is said, 'as thick as an
 axle...' Some others said the size of arrow is eighty-four inches according to shilpa shaastra
 'science of chariot making...' taking this 'eye of axle' into consideration.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2264,8 +2178,6 @@ The word used here for quivers is sharaavara and for this Dr. Satya Vrat says:
 and occurs at least twice in the Ramayana...' Here and at 3-51-14 of this canto and there it was
 used in the meaning of armour. If this meaning of armour is adopted here also, then the meaning of
 the above verse may somewhat be,
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2324,8 +2236,6 @@ demons occasionally... I thought that Seetha strayed her way, or eaten away by s
 paltry demon... but on seeing the massive footprints I consider this as a calculated and culpable
 crime... now that my animosity is multiplied hundredfold, whole of the demonic race will be
 eliminated...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2377,8 +2287,6 @@ Dharma or Righteousness does not go on safeguarding either its adherents or
 antagonists, everyone, everywhere, everlastingly. dharmo rakshati rakshitaH and suchlike sayings
 are also time-bound and when the time is negative aapatsu raksha ko dharmaH 'in difficulties which
 rightness safeguards?' is the ensuing dilemma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2431,8 +2339,6 @@ Lakshmana, then who are the gods who can possibly be benignant to me in this wor
 
 'No god can possibly be non-benignant to me, either in this world or in the
 other...' Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2480,8 +2386,6 @@ by unenlightenment; *ava manyeran* = dis, respect.
 "Lakshmana, someone, even if He were a Creator of Worlds, or an Omnipotent, if He
 were to be lenient at heart or in His actions, He will be disrespected by all beings, owing to the
 unenlightenment of those beings... [3-64-54]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2539,8 +2443,6 @@ evil-doers are reverenced by one and all, though negatively owing to scare... bu
 scoffed off, for his deeds are positive and do not yield quick and instant results... and my
 Omnipotence is looked down as my impotence...' This concept is amplified throughout Bhagavat
 Gita.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2600,8 +2502,6 @@ inverted to become demerits on getting at me, thus I am unmerited in forgoing Se
 with the sizzle of sun uprisen quelling all the moonshine, now you may see as to how my irradiance
 radiates quelling all the merits like softness and fairness for the nonentity of all beings
 proactive to demons, inclusive of demons. [3-64-56, 57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2649,8 +2549,6 @@ vaa* = kinnaraa-s, either; *manuSyaa vaa* = humans, or.
 "Oh, Lakshmana, will the yaksha-s be comfortable now, no; gandharva-s - no; monsters
 - no; demons - no; either kinnaraa-s or humans - no, none can be comfortable henceforth...
 [3-64-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2698,8 +2596,6 @@ render, indeed; *pashya* = you notice.
 
 "Now the welkin will be packed with my arrows and missiles, and I will render it as
 an impassable sphere for the treaders in the triad of worlds... [3-64-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2776,8 +2672,6 @@ devastated, and then everything will be overcast with darkness. Mountaintops wil
 pulverised, water receptacles will be dried out, and trees, creeping-plants and shrubberies will be
 destroyed, and oceans depleted, thus I will bring the triad of the worlds to nought, relative to
 the task of Time in extinguishing an era... [3-64-60, 61, 62a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2824,8 +2718,6 @@ my, onslaught - blitzkrieg, they, will be seeing.
 
 "If the gods are not going to safely restore Seetha to me, oh, Soumitri, they can
 see what my blitzkrieg is, at this very moment... [3-64-62b, 63a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2872,8 +2764,6 @@ beings; *mama caapa guNa unmuktaiH* = my, bow, string, released from; *baaNa jaa
 
 "All beings cannot fly high in the sky, oh, Lakshmana, as there will be a labyrinth
 of my arrows released from my bowstring, minus an intercolumniation... [3-64-63b, 64a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2921,8 +2811,6 @@ witness.
 
 "Bombarded with my iron-shafts this world will be put to disorderliness, Lakshmana,
 you may now witness how the animals and birds will be dazed and devastated... [3-64-64b, 65a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -2974,8 +2862,6 @@ phantoms; *a raakSasam* = without, demons; *kariSye* = I will render.
 "Because of Maithili I will render this mortal world de-demonical, de-phantasmal by
 force-stretching my unstoppable arrows up to my ears to release them forcefully... [3-64-65b,
 66a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3026,8 +2912,6 @@ adya drakSyanti* = gods, now, let them witness.
 
 "Let the gods witness now the impact of the blaze-crested, thoroughgoing arrows of
 mine, projected by my wrath and released by my irascibility... [3-64-66b, 67a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3078,8 +2962,6 @@ demons, no.
 
 "That being so, when the triad of worlds is completely ruined by my anger will there
 be gods, no; demons - no; phantoms - no, none can survive... [3-64-67b, 68a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3128,8 +3010,6 @@ falling.
 
 "Whatever worlds of gods, or monsters, or even those of demons are there, they will
 be splintered and falling down apiece by the fusillades of my arrows... [3-64-68b, 69a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3182,8 +3062,6 @@ arrows; *imaan lokaan* = these, worlds; *nir maryaadaan* = without, civility
 "Whether she is abducted, or even if she is killed, oh, Soumitri, if the gods are
 not going to give back my Seetha I will now jeopardise these worlds with my arrows... [3-64-69b,
 70a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3238,8 +3116,6 @@ arrows, I will swelter.
 after Golden Deer, I will be annihilating the triad of world in its entirety, together with its
 mobile and sessile beings, and I will be sweltering the entire universe with my arrows as long as I
 am not going to get a glimpse of her." Thus Rama gave a vent to his feelings. [3-64-70b, 71a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3287,8 +3163,6 @@ bandhayat* = matted hair, mass, twined up.
 Rama on saying thus with his eyes reddening in fury, his lappet-fold of lips jerking
 spasmodically, he girded up his jute-cloths and deerskin and twined up the mass of his matted-hair.
 [3-64-72]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3337,8 +3211,6 @@ forth.
 When the disposition of that venturesome and infuriated Rama has become in that way
 holocaustic, it is like that of Rudra, the All-Inflamer god, when He became like this in earlier
 times, intending to inflame the Triple-Cities. [3-64-73]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3397,8 +3269,6 @@ On saying so that illustrious Rama, the delighter of world, grabbed his bow from
 Lakshmana and gripped it tightly, unholstered a deadly and dazzling arrow from his quiver which is
 like a poisonous serpent, and readying it on the bowstring of his bow, that Rama, the vanquisher of
 enemies fastnesses, who looked like the Ear-End-Fire, spoke this sentence. [3-64-74, 75]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3458,8 +3328,6 @@ Time is the all-transcending factor and none can countervail it. anena mR^ityu
 jara aadayoH ashakya pratiikaaraa iti suucitam | tathaa ca droNa parvaaNi - na hi eSha brahma
 caryeNa na veda adhyayanena ca | na kriyaabhiH na ca astreNa mR^ityoH kashcin nivartayate | kruura
 sarva vinaashaaya kaalo asau na ati vartate | mahaa bhaarata - dk
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 </details>
 
@@ -3520,8 +3388,6 @@ irreproachability to my character if only I can have a glimpse of her, is not re
 fine fettle as she was when she was with me, then I will countermove whole of this universe
 together with its gods, immortals, humans, florae and faunas, mountains and waters... and
 whatnot... [3-64-77]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

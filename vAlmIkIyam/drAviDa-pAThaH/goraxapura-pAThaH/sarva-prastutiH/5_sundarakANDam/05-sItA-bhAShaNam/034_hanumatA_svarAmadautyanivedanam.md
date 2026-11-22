@@ -18,8 +18,6 @@ and repeats the enquiries made by Rama, Lakshmana and Sugreeva. Seetha, however,
 in disguise and chides him when Hanuma approaches nearer to her. Seetha then asks Hanuma to describe the good
 qualities of Rama. Hanuma on his part discloses to her his actuality as a minister of Sugreeva and tells the important
 qualities of Rama. He requests her to have faith in his words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ kindly and affectionate; *uttaram* = reply.
 
 Hearing those words of Seetha who was overthrown from one grief to another, Hanuma the best of
 monkeys gave the following reply in a kindly and affectionate manner.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -127,8 +123,6 @@ sandeshaat* = on the direction of Rama; *kusalii* = the virtuous; *raamaH* = Ram
 
 "O Seetha the daughter of the king of Videha Kingdom! I have come here as your messenger on Rama's
 directions. The virtuous Rama enquired about your welfare too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ infallible destruction); *vedaamshcha* = and Vedas the sacred knowledge; *abravi
 "O Divine Lady! Rama the son of Dasaratha, who is excellent among the knowers of Veda and who knows
 Brahma's missile (a mythical weapon which deals infallible destruction) and Vedas the sacred knowledge, enquired
 about your welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -230,8 +222,6 @@ husband; *shoka santaptaH* = tormented with grief; *kR^itavaan* = performed; *te
 
 "Also the greatly splendourous Lakshmana, the favourite brother and the follower of your husband,
 himself tormented with grief, performed salutation to you by bowing his head."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -282,8 +272,6 @@ Seetha; *priiti samhR^iSTa sarvaaNgii* = with all her limbs thrilled with joy; *
 
 Hearing that news of welfare of Rama and Lakshmana the excellent of men, the divine lady, with
 all her limbs thrilled with joy, spoke to Hanuma (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -330,8 +318,6 @@ laukikiir* = wordly; *gaathaa* = adage; *pratibhaati* = appears; *kalyaaNi* = au
 
 " 'Joy rushes to surviving man even though (it be) as the end of a hundred years' - this popular
 adage appears true and and auspicious for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -382,8 +368,6 @@ made; *aalaapamcha* = conversation; *paraspareNa* = with each other.
 
 Seetha showed wonderful friendly disposition towards Hanuma who approached her. Both of them also
 conversed with each other in full confidence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -433,8 +417,6 @@ samiipam* = nearer (to her).
 
 Hearing that reply of Seetha who was afflicted with grief, Hanuma the army-chief of monkeys endeavoured
 to draw nearer to her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ Seetha; *parishaN^kate* = suspected; *tam* = him; *raavaNam* = as Ravana.
 **अनुवादः**
 
 In as much as that Hanuma drew nearer to her, in the same way, that Seetha suspected him as Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -563,8 +543,6 @@ indeed that Ravana; *upaagamya* = who obtained; *ruupaantaram* = another guise.
 
 "O shame! It was my guilt to tell him all this to him. He is indeed that Ravana, who obtained another
 guise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -580,8 +558,6 @@ itself.
 
 That Seetha, having faultless limbs, leaving that branch of Ashoka tree and as emaciated with grief,
 sat down on that ground itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ look towards; *enam* = him; *bhuuyaH* = again.
 
 Seeing Seetha afflicted with grief and deluded with fear, the great armed Hanuma also then simply
 saluted her. She too, trembling with fear, did not look towards him again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -686,8 +660,6 @@ svaraa* = in a sweet-sounding voice (as follows):
 
 Seetha, with her countenance resembling the moon, seeing Hanuma saluting her, had a deep sigh and
 spoke to Hanuma in a sweet-sounding voice (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -728,8 +700,6 @@ spoke to Hanuma in a sweet-sounding voice (as follows)
 
 "If you are Ravana, who made use of an illusive guise and yourself a conjurer, you are causing
 me a further agony. It is no good."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ indeed; *tvam asi* = you are.
 
 'You are indeed the same Ravana, who, abandoning your real form, appeared to me in the guise of
 a vagrant religious mendicant in Janasthana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -824,8 +792,6 @@ any; *bhuuyaH* = again; *maam* = to me; *upavaasakR^ishaam* = who is emaciated b
 
 "O demon who can assume any form at your will! It is no good that again you are causing agony to
 me, emaciated because of fasting and feeling very miserable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -866,8 +832,6 @@ me, emaciated because of fasting and feeling very miserable."
 
 "Otherwise, whatever is suspected by me is not indeed true because in my mind, a pleasurable sensation
 indeed occurred by reason of your audience."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -915,8 +879,6 @@ indeed occurred by reason of your audience."
 
 "If you have come as Rama's messenger, may you be blessed! O the best of monkeys! Rama's anecdote
 is very pleasurable for me. Hence, I am requesting you to narrate it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -956,8 +918,6 @@ is very pleasurable for me. Hence, I am requesting you to narrate it."
 
 "O monkey! Narrate the qualities of my beloved Rama. O gentle one! You are eroding my mind as a
 rapid course of stream erodes a river bank."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1007,8 +967,6 @@ dream!.
 
 "I, who was taken away long ago, is seeing a monkey sent by Rama in this way. Alas! How delightful
 this dream is!'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1048,8 +1006,6 @@ disheartened; *mama* = in my case; *svapno.api* = even the dream; *matsarii* = i
 
 "If I have seen the eminent Rama together with Lakshmana, I would not have disheartened. In my
 case, even my dream is wicked!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1097,8 +1053,6 @@ shakyaH* = is not fit; *praaptum* = to get; *abhyudayam* = prosperity; *abhyuday
 
 "I do not deem it as a dream. Seeing a monkey in a dream does not bring about prosperity But prosperity
 has come to me!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1148,8 +1102,6 @@ a delusion of my mind? iyan bhavet = is it the impending; *vaatagatiH* = course 
 
 "How possibly is it a delusion of my mind? Is it an impending course of flatulence or changing
 mental condition of madness? Is it a looming mirage?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1197,8 +1149,6 @@ madness; *moho.api* = nor even a delusion; *unmaada lakSaNaH* = which is a sympt
 
 "Otherwise, it is neither madness nor even a delusion, which is a symptom of madness. Because I
 am knowing about myself as also about this monkey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1253,8 +1203,6 @@ their forms at will.
 
 Thus deliberating upon the strengths and weaknesses in several ways, Seetha finally imagined him
 to be Ravana, as demons can change their forms at will.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1275,8 +1223,6 @@ having made up her mind; *na prativyaajahaara* = did not reply in return; *vaana
 
 Then, that slender waisted Seetha, the daughter of Janaka, thus having made up her mind, did not
 reply in return anything further to Hanuman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1327,8 +1273,6 @@ _________________
 
 Understanding the contemplation of Seetha, Hanuma the son of wind-god then brought about a great
 joy in her with his words most favourable to her ears (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1416,8 +1360,6 @@ like Manmadha; the Lord of love; *muurtimaan* = personified himself.
 
 "Rama is a speaker of truth. Like Lord Brihaspati, he has a sweet voice. He is a handsome man,
 possessing good fortune and a royal dignity. He is a personified Manmadha, the lord of love."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1466,8 +1408,6 @@ the lord of wealth; *mahaayashaaH* = greatly renowned; *viSNuH yathaa* = like Vi
 
 "Rama has a great splendour like that of the sun. He is pleasing to all like the moon. As Kubera
 the Lord of wealth, he is a lord to the entire world. Like Vishnu, he is greatly renowned and endowed with valour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1483,8 +1423,6 @@ man; *lokaH* = the world; *avasTabdhaH* = is resting on.
 
 "Rama gets anger only at right time. He strikes a befitting person at a right time. He is an excellent
 chariot-warrior. The world is resting under the shelter of arms of this high souled man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1535,8 +1473,6 @@ _________________
 
 "Showing an illusory antelope, Ravana detracted Rama and took you away from a deserted hermitage.
 You will see later, the consequence Ravana will get for this act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1612,8 +1548,6 @@ Rama; *duHkhaartaH* = pained with grief; *tvadviyogena* = by your separation; *a
 "Which valiant Rama with arrows strongly shining like sparkles released with anger, by the same
 Rama I was sent here as a messenger and I arrived at your presence. That Rama, agonised by your separation wishes
 to enquire of your welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1672,8 +1606,6 @@ splendour; *sumitraa nanda vardhanaH* = who augments the happiness of Sumitra hi
 
 "That long-armed Lakshmana too, having a great splendour and who augments the happiness of Sumitra
 his mother, saluted you and enquired about your welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1694,8 +1626,6 @@ welfare.
 
 "O princess! That monkey called Sugreeva, a companion of Rama and the king of the excellent monkeys,
 asked about your welfare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1744,8 +1674,6 @@ of female-demons; *jiivasi* = you are surviving; *diSTyaa* = by your good luck.
 
 "Rama, together with Sugreeva and Lakshmana, is always recollecting you. O Seetha! Eventhough coming
 into the control female-demons, you are somehow surviving by your good luck!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1793,8 +1721,6 @@ splendorous; *sugriivam cha* = Sugreeva; *madhye* = in the presence of; *vaanara
 
 "Within a few days, you will see Rama, the mighty Lakshmana and the highly splendorous Sugreeva,
 in the presence of crores of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1839,8 +1765,6 @@ minister of Sugreeva; *humaan naamaH* = named Hanuma; *praviSTaH* = I entered; *
 
 "I am a monkey, the minister of Sugreeva, called Hanuma. I entered the city of Lanka, by traversing
 the great ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 </details>
 
@@ -1888,8 +1812,6 @@ Ravana; *aham* = I; *upayaataH* = have come; *draSTum* = to see; *tvaam* = you.
 
 "Asserting my strength and putting down my feet on the head of the evil minded Ravana, I have come
 to see you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

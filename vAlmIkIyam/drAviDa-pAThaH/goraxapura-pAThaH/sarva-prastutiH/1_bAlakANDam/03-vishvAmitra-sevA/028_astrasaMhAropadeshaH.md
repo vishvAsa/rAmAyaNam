@@ -19,8 +19,6 @@ Rama requests sage Vishvamitra for endowing annulment missiles, besides
 
 chance to see a picturesque forest on their way and Rama enquires about
  it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -63,8 +61,6 @@ chance to see a picturesque forest on their way and Rama enquires about
 On becoming personally purified Rama, the descendent of Kakutstha-s,
  received the missiles, and then on their way he is now speaking to Sage
  Vishvamitra with a pleasant face. [1-28-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -107,8 +103,6 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
 "Oh, godly sage, I have taken the missiles and became unassailable even
  for gods, but oh, eminent sage, I wish to know the annulment of missiles
  too." So said Rama to the sage. [1-28-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -152,8 +146,6 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
 When Rama of Kakutstha said thus, next that resolute, well-averred and
  purified sage of eminence Vishvamitra imparted the knowledge of annulment
  missiles. [1-28-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -272,8 +264,6 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
  Sarvanaabha, Varana... and these are the guise changing wizards and you
  are the eligible one to handle these missiles, let safety be with you."
  Thus Vishvamitra gave missiles to Rama. [1-28-4, 5, 6, 7, 8, 9, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -364,8 +354,6 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
  them holding out their hollowed palms, and some with palms adjoined
  melodiously spoke to Rama saying, "here we are, oh, tigerly man, what
  can we do for you." [1-28-11, 12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -403,8 +391,6 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
 "While remaining in my memory you assist me as and when needed, and
  till then you may go away as you wish," thus that legatee of Raghu-s said
  to those deities of annulment missiles. [1-28-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -442,8 +428,6 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
 Saying "it will be done that way" to Rama, the legatee of Kakutstha-s,
  also on performing circumambulation to him and then on taking his consent
  those deities have gone away as they have come. [1-28-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -485,8 +469,6 @@ Saying "it will be done that way" to Rama, the legatee of Kakutstha-s,
 After learning the nullifying missiles and then while proceeding on
  the walkway Raghava asked the great sage Vishvamitra with sweet and
  soft words. [1-28-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -530,8 +512,6 @@ After learning the nullifying missiles and then while proceeding on
  with numerous kinds of birds that have pleasant callings it is highly
  soul-delighting, thus, my inquisitiveness is growing very much to know
  it, what is this, really! [1-28-17, 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -579,8 +559,6 @@ After learning the nullifying missiles and then while proceeding on
  understand that we have come out of the extremely alarming forest of
  Tataka, but oh, god, whose hermitage's threshold is this, kindly tell
  me all. [1-28-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 </details>
 
@@ -646,8 +624,6 @@ After learning the nullifying missiles and then while proceeding on
  your ritual ceremonies, and demons too are to be eliminated? Oh, eminent
  sage, what is that place? I would like to hear all of it." Rama asked
  Vishvamitra in that way. [1-28-20b, 21, 22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga28/balasans28.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

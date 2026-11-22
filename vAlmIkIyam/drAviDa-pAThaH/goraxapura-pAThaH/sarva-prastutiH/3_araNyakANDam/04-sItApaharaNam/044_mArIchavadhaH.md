@@ -19,8 +19,6 @@ Deer. He sports with that deer for a long time and when it is leading him away a
 hermitage, he is vexed with the trickery of the deer and kills it. At the time of his death
 Maareecha shouts out for Seetha and Lakshmana, as demanded by Ravana. Rama is perplexed at this
 oddity of Maareecha and presumes that some danger is immanent and then returns to hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ handle, sword; *ba bandha* = securely, tied - at his waist.
 
 Rama, the great-resplendent scion of Raghu, on instructing his brother Lakshmana in
 that way securely fastened his sword with golden handle to his waist. [3-44-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ taking; *dvau kalaapau ca* = two, quivers, also; *aabadhya* = on binding - on ba
 
 Rama whose valour is escalating then took his own insignia, the three-way arched bow
 called kodanDa, and fastened two quivers and proceeded. [3-44-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ On peering at the peerless one among kings, namely Rama, who is indeed coming do
 on him, that Golden Deer disappeared as if with fear and even to beguile him, and again it came
 into clear visibility. And Rama speedily spurted to that place from where the Golden Deer has
 firstly disappeared with securely grit sword and firmly handled bow. [3-44-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -248,8 +240,6 @@ appeared to be springing as though to skies in very highly perplexity of warines
 disappearing somewhere in the thickets of forest, and it is putting in an appearance elsewhere in
 those thickets, like the autumnal orb of the moon under the fly front of splintered clouds.
 [3-44-4b, 5, 6, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -295,8 +285,6 @@ aakarSata* = to side, attracted - sidetracked, drawn off.
 In a wink Rama could proximately see that Maareecha who transformed himself into the
 Golden Deer, and again in a flash he appeared distantly. Thus that deer/demon has drawn off Raghava
 very far from his hermitage in this hide and seek game. [3-44-7b, 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -347,8 +335,6 @@ tree,] taking shelter, on pasture, he stayed on.
 
 Rama of Kakutstha is incensed as its form is spellbinding but its capture slippery,
 and then verily tired as he is he stayed on a pasture taking shelter of a tree shade. [3-44-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -395,8 +381,6 @@ pratyadR^ishyata* = not, from faraway [close-by,] reappeared.
 
 Nightwalker Maareecha has further maddened Rama in the guise of Golden Deer by
 reappearing in his close-by, surrounded with other animals of the forest. [3-44-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -445,8 +429,6 @@ became.
 Again on seeing Rama who is stalking his catch that deer ran towards him as though
 to impress with its guilelessness, and just at that moment it vanished again as if with extreme
 fear. [3-44-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -497,8 +479,6 @@ decision.
 
 Then that deer has again emerged out of the thick of trees, and on spotting it the
 great-resplendent Rama has firmed up his decision to fell it. [3-44-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -568,8 +548,6 @@ enemy-subjugating arrow that is similar to the flare of the sun, tautening it on
 bow that forceful Rama forcefully outstretched the bowstring with arrow targeting the Golden Deer
 alone, and released that fierily blazing arrow-missile which is carefully created by Brahma and
 which is hissing like a snake. [3-44-13, 14, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -617,8 +595,6 @@ Maareecha's, heart, alone; *vibheda* = severed.
 On very profoundly impaling the body of deer's form that superb arrow which is
 similar to a thunderbolt has severed the heart of Maareecha in the core of deer's body. [3-44-15b,
 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -669,8 +645,6 @@ ground fell down.
 
 Then Maareecha is highly frenzied as his lifespan is minimised, blared a blaring
 shriek, vaulted up to a height of palm-tree, and fell down onto the ground. [3-44-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -737,8 +711,6 @@ words and thought about it.' What he really thought is the causation of death to
 caused his own death, namely Ravana. Ravana can do nothing to Maareecha now as Maareecha is
 breathing his last. Whatever is to be done now it has t become a self-ruinous act to Ravana. Hence,
 it is better to do as said by Ravana for the elimination of Ravana. So thought Maareecha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -789,8 +761,6 @@ Lakshmana, thus, also; *svaram cakaara ca* = voice, made, also.
 Perceptive of the time that chanced bearing his death, and wishful of the death of
 Ravana too, then made a voice that is a soundalike to Raghava's voice and yelled 'ha, Seetha...'
 also thus 'ha Lakshmana...' [3-44-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -856,8 +826,6 @@ to grant such a capacity but one's own practise achieves it. Whereas in other ca
 gods have bestowed boons, so he need not practise such yoga etc., as he is blessed to be above
 these mortal's practises and thus can change his form and can rejoice in any state with that body
 or form. This is how he abducts Seetha changing his semblances instantaneously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -917,8 +885,6 @@ to Seetha.
 On seeing that demon with a fiendish look, who has fallen to earth with limbs
 steeped in blood, and who is weltering on the surface of earth, Rama emotionally took flight to
 Seetha reminiscing Lakshmana's words. [3-44-21b, 22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -966,8 +932,6 @@ is] killed; *ayam maariicaH* = he is, Maareecha.
 "This is the trickery of Maareecha which Lakshmana vouchsafed earlier, that has
 indeed happened in that way alone, and the one whom I have killed now is none other than Maareecha.
 [3-44-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -1043,8 +1007,6 @@ hair-raising, frightened]; *[babhuuva* = Rama became.]
 Lakshmana...' And on hearing this how Seetha will be? And what will be the plight of dextrous
 Lakshmana?" Thus on thinking over them that righteous-souled Rama remained in a hair-raising
 predicament. [3-44-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1060,8 +1022,6 @@ by gloom, caused, frantic, fear; *aavivesha* = ensorcelled.
 
 On killing that demon in the form of Golden Deer, and also on hearing his yelling,
 Rama is ensorcelled with a frantic fear caused by his own gloom. [3-44-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 </details>
 
@@ -1108,8 +1068,6 @@ abhimukhaH sasaara* = to Janasthaana, towards, he drifted, proceeded.
 
 Raghava then on killing another spotted deer and on taking its flesh, he hurried
 himself towards Janasthaana. [3-44-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

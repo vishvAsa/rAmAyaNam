@@ -20,8 +20,6 @@ are narrated to Rama and Lakshmana, while Vishvamitra is narrating the legend of
 of Diti, Indra blesses the seven segments of her foetus to become saptamarudgaNa-s,
 Seven Wind gods, and the place where the legend of Indra-Diti has happened, that province
 later became the City of Vishaala.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ one, Thousand-eyed Indra; *saanunayaa vaakyam abraviit* = spoke words with appea
 "Diti was highly anguished when her foetus is rendered into sevenfold, and spoke these
 appeasing words to the indomitable Thousand-eyed Indra." Thus Vishvamitra continued his narration about
 City Vishala. [1-47-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -111,8 +107,6 @@ City Vishala. [1-47-1]
 'Oh, Indra, the eliminator of demon Bala, this foetus of mine is sliced into seven
 segments owing to my own misdeed, oh, ruler of gods, Indra, indeed there is no iniquity of yours in
 this matter.' Thus Diti started speaking to Indra. [1-47-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ in planetary spheres; *parivaha* in the Seven-Sages sphere; *varaavaha*
 in north polar regions. These are otherwise called by names *gagana, sparshana,
 vaayu, anila, praaNa, praaNeshvara, jiiva*. Each of the Marut god has a batch
 of seven Marut-s, thus they are forty-nine entities, in total.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ Maaruta-s, thus, renowned; *carantu divi* = let them move, in heaven.
 
 Oh, son Indra, let these seven sons of mine become the seven presiding deities of
 Cosmic Air Divisions and let them move in heaven with heavenly forms. [1-47-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 
 </details>
@@ -266,8 +256,6 @@ him circulate.
 One from the seven may permeate Brahma's abode, likewise another may permeate the
 heaven of Indra, and even the third one, let him become a greatly celebrated and reputed as Divine Wind,
 and he may circulate in entire universe. [1-47-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ let them permeate, indeed; *te bhadram* = let safety betide you.
 time and at your command, let safety betide you, and let them be renowned verily by the name given by
 you as 'Marut,' because you have coaxed the crying fragments of foetus saying, 'maa ruda, maa ruda,
 'do not cry, do not cry...' Thus Diti said to Indra. [1-47-6, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -372,8 +358,6 @@ said words to Diti.
 
 On hearing her words, the Thousand-eyed destroyer of enemy's citadels and a demon named
 Bala, namely Indra, spoke this word to Diti, humbly adjoining his palms. [1-47-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -445,8 +429,6 @@ son; *tapovane* = in ascetic forest; *evam nishcayam kR^itvaa* = in this way, on
 would be pervading in the forms of gods, you be safe.' Thus Indra assured Diti. Those two, the stepmother
 Diti and the stepson Indra, on arriving at a decision in that ascetic forest, departed to heaven fulfilling
 their purposes. Thus we heard the legend." Thus Vishvamitra continued his narration. [1-47-8b, 9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -489,8 +471,6 @@ rendered services.
 Oh, Rama of Kakutstha, this province is that one which was once presided over by Indra,
 and where he rendered services to that accomplished one in her asceticism, namely lady Diti. [1-47-10b,
 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -541,8 +521,6 @@ him and known by his own name, Vishaala. [1-47-11b, 12]
 
 These Ikshvaku-s of Vishaala are not the Ikshvaku-s of Ayodhya, i.e., of Solar Dynasty.
 The Bhaagavata Puraana says separately in its seventh canto about this dynasty of Ikshvaku-s of Vishaala.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -582,8 +560,6 @@ Hemachandra; *vishaalasya sutaH* = Vishala's, son; *hemacandraat anantaraH* = la
 
 "Oh, Rama, Vishaala's son is the great-mighty Hemachandra, and Hemachandra's son is highly
 renowned as Suchandra.. [1-47-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -623,8 +599,6 @@ renowned as Suchandra.. [1-47-13]
 
 "The son of Suchandra became famous as Dhuumraashva, and oh, Rama, Dhuumraashva derived
 his son named Srinjaya. [1-47-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -664,8 +638,6 @@ putraH* = most righteous, Kushaashva is, Sahadeva's, son.
 
 The fortunate and valorous son of Srinjaya is Sahadeva, and the son of Sahadeva is the
 most righteous Kushaashva. [1-47-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -706,8 +678,6 @@ one.
 
 The highly resplendent and dauntless Somadatta is the son of Kushaashva and Somadatta's
 son is highly reputed as Kakutstha. [1-47-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -756,8 +726,6 @@ one, and a highly celebrated one is dwelling in this city. [1-47-17]
 
 These two Ikshvaku and Kakutstha are of Vishaala dynasty. They are not to be confounded
 with the grandparents of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -798,8 +766,6 @@ nR^ipaaH* = relating to Vishaala, [successive] kings; *sarve* = all of them; *di
 
 By the grace of Ikshvaku, the successive kings of Vishaala have longevity, intrepidity,
 well-off in generosity, and they were great-souled ones. [1-47-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -844,8 +810,6 @@ Janaka [King of Mithila].
 "Today we may gladly go to sleep here for a night, and oh, best one among men, and it
 will be apt of you to see Janaka, the King of Mithila tomorrow morning." Thus Sage Vishvamitra spoke
 to Rama and Lakshmana. [1-47-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -888,8 +852,6 @@ came towards - for warm welcome.
 The best one among best men, a widely reputed and the highly resplendent king of Vishaala,
 namely Sumati, having heard that Vishvamitra has arrived at the precincts of the city, came to him for
 a warm welcome. [1-47-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -933,8 +895,6 @@ _________________
 
 King Sumati arrived along with his mentors and family members, offered an excellent veneration
 to Vishvamitra, and then spoke to the sage with adjoined palms enquiring about his well being. [1-47-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 </details>
 
@@ -977,8 +937,6 @@ is there.
 "To which province you have visited that happens to be mine, thereby I could get an audience
 of yours without stirring myself from my country, hence none will be more fortunate than me." So said
 king Sumati to Vishvamitra. [1-47-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga47/balasans47.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

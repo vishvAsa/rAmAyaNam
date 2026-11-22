@@ -65,8 +65,6 @@ again and again; *sumantra* = to Sumantra.
 Then, Dasaratha the scion of Ikshvaku dynasty, squeezed by his own promise in the
 matter of sending Rama to exile, sighed heavily with tears and spoke the following words again and
 agian to Sumantra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -115,8 +113,6 @@ sampuurNaa* = filled with the best of its kind; *pratividhiiyataam* = be arrange
 
 "Oh, Sumantra! Let a military body consisting of (all) the four limbs of the arms,
 filled with the best of its kind, be arranged immediately"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -165,8 +161,6 @@ versed in speaking; *vaNijashcha* = merchants; *mahaadhanaaH* = with great riche
 
 "Let courtesans well versed in speaking and merchants with great riches having
 exposure for extension of sales bestow elegance to the forces of the Prince"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -216,8 +210,6 @@ exposure for extension of sales bestow elegance to the forces of the Prince"
 
 Appoint in this contingent those too, by giving abundant money to them who were
 dependent on Rama and on whom he took delight in gallantry"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -266,8 +258,6 @@ dependent on Rama and on whom he took delight in gallantry"
 
 "Let important weapons, chiefs of police and vehicles, hunters knowing the secrets
 of forest accompany Rama(scion of Kakutsa)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -317,8 +307,6 @@ of forest accompany Rama(scion of Kakutsa)"
 
 "Killing deer and elephants, drinking forest-honey, seeing various rivers, he would
 not remember of sovereignty"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -368,8 +356,6 @@ uninhabited.
 
 "Let the granary and the treasury belonging to me be sent to Rama residing in the
 uninhabited forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -419,8 +405,6 @@ in the forest.
 
 "Rama can spend his exile happily, by performing sacrificial rite in holy places and
 disbursing appropriate gifts, along with sages living in the forest "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -469,8 +453,6 @@ along with all objects of enloyments"; *iti* = thus spoke.
 
 "The mighty armed Bharata will rule Ayodhya. Let the glorious Rama be sent alog with
 all objects of enjoyment"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -522,8 +504,6 @@ parched; *svarashchaapi* = her voice also; *nyarndhyata* = got choked.
 
 While Dasartha was speaking thus, fear drew near Kaikeyi. Her mouth too also got
 parched. her voice also got choked.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -572,8 +552,6 @@ kaikeyi* = that Kaikeyi; *abraviit* = spoke; *vaakyam* = these words.
 
 Feeling depressed and apprehensive, with her mouth getthing parched and her face
 turned towards the king, Kaikeyi spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -622,8 +600,6 @@ turned towards the king, Kaikeyi spoke as follows:
 
 "Bharata will not accept the kingdom, which will become uninhabited, hollow and
 which will be absolutely unenjoyable like wine, quaffed of its spiriteous part, Oh noble soul!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -684,8 +660,6 @@ words; *raajaa* = king; *dasharatha* = Dasaratha; *uvaacha* = spoke;
 
 While Kaikeyi who has cast off her shame was thus uttering th emost cruel words,
 King Dasaratha spoke these words to that lady with large eyes:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -737,8 +711,6 @@ Having charged me with a burden, Oh hostile woman, why do you prick me while I a
 carrying it? Why did you not check before(while asking the boons by putting a condition that Rama
 should not be allowed to take anything with him) the deed(of sending troups etc with Rama) in the
 begining itself, Oh the vulgar woman!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -788,8 +760,6 @@ words; *raajaanaam* = to the king.
 
 Doubly enraged in hearing this angry question of Dasaratha, Kaikeyi the beautiful
 woman replied to the king as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -833,8 +803,6 @@ woman replied to the king as follows:
 Sagara; *upaarudhat* = cast away; *jyeshhTa putram* = his eldest son;
 *dhyaatam* = called; *asamaNjaH iti* = as Asamanja; *aayam* = this Rama(too);
 *arhati* *gantum* = to go; *tathaa* = like that.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -884,8 +852,6 @@ it.
 
 Spoken to as above, king Dasaratha uttered only a word "Shame!". The entire people
 there were ashamed. But Kaikeyi did not perceive it"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -935,8 +901,6 @@ words.
 
 There, the aged and the upright chief minister siddhartha by name who was highly
 esteemed by the king, spoke to Kaikeyi these words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -989,8 +953,6 @@ it.
 
 "Asamanja the evil-minded, catching hold of children playing in the street and
 throwing them in the waters of saryu river, took delight in it"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1040,8 +1002,6 @@ vR^iNiishhva = choose; *asamNjam* = either Asamanja; *ekam* = alone;
 
 By watching him, all the citizens were angry and spoke to the king, "choose either
 to keep yourself Asamanja alone or to preserve us, Oh the promoter of the state!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1091,8 +1051,6 @@ those; *prakR^itayashchaapi* = people also; *abruvan* = spoke; *vaakyam* =
 
 Thereupon the king said to them, "For what reason is this fear? Duly asked by the
 king, those people also replied these words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1142,8 +1100,6 @@ mind.
 
 "He obtains incomparable delight by throwing, through stupidity, our playing
 children in sarayu river in a whirled state of mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1192,8 +1148,6 @@ priyachikiirshhayaa = in a bid to do good; *taasaam* = to them.
 
 Hearing the words of those poeple, that king abandoned the son repugnant to his
 subjects, in a bid to do good to them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1245,8 +1199,6 @@ wife; *saparichchhadam* = together with their belongings(utensils; implements et
 Arranging immediately to place him along with his wife together with the
 paraphrenalia (like utensils, implements etc) in a vehicle, the king instructed his persons thus:
 "He should be exiled for life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1303,8 +1255,6 @@ mountain passes; *gR^ihya* = by taking phaala pitakam = a basket and a shovel;
 
 Roaming in all directions as though he has done sinful deeds, he ransacked mountain
 passes, by taking a basket and a shovel.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1320,8 +1270,6 @@ for which; *uparudhyate* = he was debarred; *evam* = in this way?
 
 "The highly righteous King Sagara abandoned Asamanja for perpetration sinful deeds
 as above. But, what sin Rama has done, for which he was debarred in this way?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1370,8 +1318,6 @@ him; *shashaaNkasya* = as of a (new) moon.
 
 We do not indeed perceive any fault in Rama. It is as difficult to find a taint in
 him as in a new moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1424,8 +1370,6 @@ exiled.
 
 "Or if you see any fault in Rama, Oh Kaikeyi you tell about it now correctly. Then,
 Rama will be exiled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1478,8 +1422,6 @@ ruler of gods).
 
 As it is contradictory to righteousness to abandon one who is guilty and who is
 devoted to a good path, it would consume the splendour of even Indra (the ruler of gods)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1531,8 +1473,6 @@ hi* = should be taken care of; *te* = by you.
 
 "Oh, Kaikeyi! Hence, there is no need of impeding the royal fortune of Rama. Oh,
 lady with a charming face! Even blame from the public should be taken care of by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1584,8 +1524,6 @@ Kaikeyi; *shraantatara svanaH* = in the most tiresome tone; *vaachaa* = in a voi
 
 Hearing the words of Siddhartha, king Dasaratha spoke to Kaikeyi in the most
 tiresome tone, with a voice choked with deep anguish, as follows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1642,8 +1580,6 @@ righteousness.
 "Oh, the sinful being! Do you not agree with these words of Siddhartha? By resorting
 to the path of the deplorable, you with a bad behaviour, are not alive to my interests or to your
 own. Your action is deprived of a righteous path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 </details>
 
@@ -1703,8 +1639,6 @@ _________________
 
 "I am accompanying Rama now, by abandoning my kingdom, happiness and wealth. You
 enjoy the kingdom for a long time, happily together with Bharata the King."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

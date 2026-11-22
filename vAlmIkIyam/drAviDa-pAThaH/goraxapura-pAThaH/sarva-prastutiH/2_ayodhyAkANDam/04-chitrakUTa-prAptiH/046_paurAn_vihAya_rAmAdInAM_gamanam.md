@@ -18,8 +18,6 @@ Ayodhya, Rama passes the night on the banks of Tamasa river. Waking up in the me
 instructs the charioteer to drive the chariot in such a way as to elude the citizens and lead them
 to think that the chariot had turned back towards Ayodhya instead of proceeding towards the forest.
 He then ascends the chariot along with Sita and Lakshmana and went ahead to the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ vachanam* = these words; *soumitrim* = to Lakshmana :
 
 Then Rama taking his position at the banks of Tamasa river and looking at Sita,
 spoke to Lakshmana as follows :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ you."
 
 "Oh, Lakshmana! We have been sent to the forest. Today is the first night of our
 residence in the forest .You ought not feel anxious. May all be well with you!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ residence in the forest .You ought not feel anxious. May all be well with you!"
 
 "Look here: As the animals and birds are returning to their respective abodes
 seeking for shelter, the desolate woods seem to be crying from all sides"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ with its women and men; *shochishhyati* = will lament; *asmaan* = about us;
 
 "Now, the city of Ayodhya the capital of my father with its men and women will
 lament about us that have departed (to the forest). There is no doubt"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ virtues; *bahubhiH* = which are many."
 "Oh, tiger among men! The citizens (of Ayodhya) are indeed having affection to the
 king no less than to you and myself, as also to Bharata and Satrughna, for many of our
 virtues."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -317,8 +305,6 @@ apivaa bhavetaam = Will they become even; *andhou* = blind; *rudantou* = by weep
 
 "I feel repented for my father and my illustrious mother. I fear whether they will
 become even blind, by weeping incessantly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ sahitaiH* = (containing)religious merit ; material welfare and sense- gratificat
 
 "Bharata, the virtuous man, can indeed console my father and mother by his kind
 words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -416,8 +400,6 @@ and again; *aham* = I;naanushochaami = do not grieve; *pitaram* = for(our) fathe
 
 "Oh,Lakshmana! Thinking of Bharata's kindness again and again, I do not grieve for
 our father and mother"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -464,8 +446,6 @@ following; *maam* = me; *kaaryam* = a purpose; *kR^itam* = has been served;
 
 "Oh, Lakshmana, tiger among men! You have done well by accompanying me, as
 otherwise, a help would have to be sought for by me for protecting Seetha"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -513,8 +493,6 @@ though being present; *etat* = this is; *rochete hi* = indeed a preference;
 
 " Oh, Lakshmana! I shall live on water alone tonight. Though there are various kinds
 of wild fruits and roots, this is indeed a liking for me"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -561,8 +539,6 @@ careful; *ashveshhu* = about the horses."
 
 Thus telling Lakshmana, Rama spoke also to Sumantra as follows: "Oh, gentle man!
 Attend to the horses carefully."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -612,8 +588,6 @@ eat);babhuuva = (and)became; *pratyanantaraH* = the immediate neighbor(of Rama).
 
 The sun having completely set, Sumantra tied up the horses, supplied them with
 abundant grass and immediately stood nearest (to Rama).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -661,8 +635,6 @@ bed; *raamasya* = for Rama.
 
 Having worshipped the beautiful evening twilight and having seen the night come
 nearer, Sumantra along with Lakshmana made the bed for Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -710,8 +682,6 @@ ha* = laid down.
 
 Seeing that bed made of leaves of a tree on the bank of Tamasa river with the help
 of Lakshmana, Rama along with his wife laid down on it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -758,8 +728,6 @@ various; *guNaan* = virtues; *suutaaya* = to Sumantra.
 
 Seeing that brother sleeping along with his wife, Lakshmana narrated Rama's various
 virtues to Sumantra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -806,8 +774,6 @@ river;jaagratohyeva = keeping awake; *taam raatrim* = that (whole) night.
 
 WhileLakshmana was thus recounting Rama's excellences to Sumantra, keeping awake
 that whole night at the bank of Tamasa river, the sun rose.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -854,8 +820,6 @@ Tamasa river; *gokulaakula tiiraayaH* = whose banks were crowded with herds of c
 
 At a good distance from Tamasa river, whose banks were crowded with herds of cows,
 Rama passed that night there with the citizens.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -903,8 +867,6 @@ auspicious bodily marks:
 
 Getting up from the bed and seeing those citizens, Rama with an extraordinary
 splendor, spoke to his brother, Lakshmana who was endowed with auspicious bodily marks:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -952,8 +914,6 @@ unmindful; *gR^iheshhvapi* = even of their homes; *sampratam* = now;
 
 "Observe, Oh Lakshmana, the citizens full of longing for us, unmindful even of their
 homes, sleeping together at the roots of trees, Oh, the son of Sumitra!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1001,8 +961,6 @@ back; *nyasishhyanti* = (they) will lay down; *praaNaanapi* = even their lives;
 "From the way in which these citizens are making coercion to take us back (to
 Ayodhya), it seems they will even lay down their lives, but in no case would give up their
 resolve"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1049,8 +1007,6 @@ asleep; *taavadeva* = in that time; *vayam* = we; *laghu* = quickly;
 
 "Till which time the citizens are asleep, within that time, let us quickly mount the
 chariot and take a route which has no fear from any quarter"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1100,8 +1056,6 @@ me; *nasvapeyuH* = may not sleep; *idaaniim* = as of now; *vR^ikshha muulaani*
 
 "From this the citizens of Ayodhya (the ancient capital of Ikshvaku), who are
 longing for me, may not sleep as of now, at the roots of trees again and again"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1150,8 +1104,6 @@ citizens; *na yojyaaH hi* = should not be burdened; *duHkhena* = with hardship;
 "The residents of city should indeed be made free of their suffering brought about
 by (citizens) themselves, by the sons of their rulers. The citizens should on no account be
 burdened with hardship caused by (princes) them selves as is our case."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1200,8 +1152,6 @@ chariot) be mounted; *kshhipram* = quickly."
 Lakshmana replied as follows to Rama, who is standing firm like righteousness
 personified: "Oh, wise brother! What you say is agreeable to me. (Pray) ascend the chariot
 quickly"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1249,8 +1199,6 @@ Oh; *capable man! yujyataam* = Arrange; *rathaH* = the chariot; *gamishhyaami*
 
 Then, the glorious Rama spoke to the charioteer as follows: "Oh, capable man! Keep
 the chariot ready. I shall proceed to the forest. Let us go quickly from here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1298,8 +1246,6 @@ palms.
 
 Then, Sumantra quickly fastened the chariot to its excellent horses and thereafter
 submitted with joined palms to Rama (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1347,8 +1293,6 @@ with Sita; *saha lakshhmaNaH* = and with Lakshmana . bhadram = May prosperity be
 
 "Oh, mighty armed prince! Your chariot is kept ready. You ascend it along with Sita
 and with Lakshmana, Oh jewel among car-warriors! May prosperity attend you"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1390,8 +1334,6 @@ with whirl-pools .
 
 Rama mounted the chariot with all necessaries (like bow, armor, quiver, spade,
 basket, and so on) and crossed the swift flowing Tamasa river, thickly set with whirl- pools.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1433,8 +1375,6 @@ danger.
 
 Having duly crossed the stream, the glorious Rama the mighty armed reached a great
 road free from obstacles and safe even for those who are apprehensive of danger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1506,8 +1446,6 @@ showing their immense affection towards him? Love without self-centeredness know
 Then the seemingly untruth is not untruth, the hurt in appearance is not really a hurt and the said
 deception is not a deception. Rama the knower of love was free to do what was right and whatever he
 did was righteous.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1557,8 +1495,6 @@ _________________
 
 Hearing Rama's advice, the charioteer made a round of the chariot as he was
 suggested and on returning, reported to Rama about the arrival of the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1614,8 +1550,6 @@ drove forward; *turangamaan* = the horses; *pathaa* = along the route; *yena*
 Then, Rama and Lakshmana(the promoters of the race of Raghu) along with Sita
 ascended the chariot yoked together. The charioteer urged the horses along the route by which they
 can reach a grove suited to the practice of austerities.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 </details>
 
@@ -1671,8 +1605,6 @@ car-warrior; sa saarathiH; along with the charioteer; *aasthaaya* = mounted; *ra
 However, Sumantra placed that chariot by facing it to the north, for he saw omens
 auspicious for journey (in that quarter). Rama (son of Dasaratha) the mighty car-warrior, along
 with the charioteer mounted the chariot and proceeded to the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Kabandha requests Rama to incinerate him, so that he would get his divine form a
 to give some clues in regaining Seetha. He admits that the present hideous state has chanced only because
 of his arrogant behaviour, thereby a sort of repentance has occurred in him. A course of conversations
 occurs among these two, as each is distrustful of the other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ triSu lokeSu vishrutam* = in three, world, renowned; *aasiit* = was there.
 "Oh, great dextrous Rama with great daring and dashing, as to how the physique of sun, moon, and even
 that of Indra is there now, my physique was also like that earlier, an unbelievable mien and renowned
 in all the three worlds... [3-71-1, 2a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ this sort of, form, on making [on disguising]; *tataH tataH* = there, there; *va
 
 "Such as I was with an admirable body, disguising myself in this kind of horrendous form which is utterly
 dreadful to the world, I was scaring the forest living sages, there and there... [3-71-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ on who is collecting; *sthuulashiraa naama maharSiH* = Sthuulashariira, named, g
 
 "On one day, when a great sage named Sthuulashira was collecting divers forest produce for his Vedic-ritual,
 I scared him with this ugly form and I even exasperated him... [3-71-3b, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -195,8 +187,6 @@ eva astu* = [present] form, alone, will be [you will abide in.]
 
 "On seeing me that sage who is an enforcer of deadly curse cursed me in this way, 'that which is presently
 diabolic and despicable form of yours, hereinafter you will abide in this form alone...' [3-71-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -250,8 +240,6 @@ him, this, word, is spoken.
 "When I begged that enraged sage as, 'even if I have committed this blasphemy owing to my blasphemous
 fate, will there be an end to this blasphemed form of mine, or not...' and then he spoke this word to
 me... [3-71-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -304,8 +292,6 @@ auspicious form, will be regained
 
 " 'When Rama incinerates you in an uninhibited forest on chopping off your shoulders, then you will
 regain your own grand and auspicious form...' So said the sage to me... [3-71-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -327,8 +313,6 @@ me owing the ire of Indra in battlefield... [3-71-7b, 8a]
 The cause of curse is said so far and now the effect is narrated, and
 *tiivrataratapaHpratyaahitapitaamahavaralabhaashastravadhyabhaavadarpitena
 mayaa raNe vikramya pradharShita shakraH* - so says dk about it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -388,8 +372,6 @@ off [in my mind.]
 
 "I have gladdened Grandparent Braham with severe ascesis and He granted longevity to me, and then a
 kind of recalcitrance touched off in my mind... [3-71-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -404,8 +386,6 @@ relying upon; *raNe shakram adharSayam* = in a bout, with Indra, I jousted with.
 
 " 'When longevity is acquired by me what Indra can do to me...' thus relying upon that kind of certitude,
 I jousted with Indra in a bout... [3-71-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -457,8 +437,6 @@ head, also thus; *shariire sam praveshitam* = into body, to verily, enter [ramme
 
 "But the Thunderbolt that has a hundred cutting edges and that which is launched from Indra's hand has
 rammed by head and thighs into my body... [3-71-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -506,8 +484,6 @@ lives]; *tat pitaamaha vacaH satyam astu* = that [word of,] Grandparent's, word,
 "When I begged of him saying, 'lead me to the hell of Yama, rather than making me to live this hell
 of a body...' Then Indra said this to me, 'Let the Grandparent Brahma's word about your longevity come
 true...' Thus Indra spared me to me... [3-71-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -556,8 +532,6 @@ at least; *katham shaktaH* = how, I am capable.
 stomach... and without thighs how can I prowl, without arms how can I scrabble, and without a mouth
 how can I guzzle... and how am I capable to live on, and even that living too, is destined for too long
 a time...' [3-71-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -605,8 +579,6 @@ paunch, he devised.
 
 "When I said to Indra this way, Indra devised for me yojana long arms, also that way a rapier-fanged
 mouth in my paunch... [3-71-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -657,8 +629,6 @@ in; *bhakSayaami* = I am eating.
 
 "Such as I am, I have been eating the lions, elephants, animals, and tigers that are on the move in
 this forest, hauling them in with both of my overlong arms... [3-71-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -705,8 +675,6 @@ this forest, hauling them in with both of my overlong arms... [3-71-14b, 15a]
 
 "Indra has also said to me, 'as and when Rama hacks off your arms along with Lakshmana in a conflict,
 then you can go to heaven...' Thus Indra said to me and vanished. [3-71-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -752,8 +720,6 @@ then you can go to heaven...' Thus Indra said to me and vanished. [3-71-15b, 16a
 
 "Oh, sire, I am grabbing whatever I see in this forest while living with this body... oh, powerful king,
 as I feel it meetly and a must for me... [3-71-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -802,8 +768,6 @@ captivity, comes nigh of; thus; *aham manye* = I, believed; *imaam buddhim puras
 "I believed that Rama will certainly come nigh of my captivity, and confiding myself in this kind of
 determination, presaged by sage Sthuulashira, as well... I have been toiling to dislodge this body...
 [3-71-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -852,8 +816,6 @@ na* = I am, by other [person,] to be killed [mangle,] capable, not.
 "Oh, Raghava, as to how this has happened in this way according to the sum and substance told by the
 sage Sthulashira, you alone are that Rama, let safe betide you, and none other than you is capable to
 mangle me... [3-71-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -902,8 +864,6 @@ will do [give]; *mitram caiva upadekSyaami* = friend, also thus, I will [further
 "Oh, impetuous man Rama, if I were to be beatified by you two by incinerating me in Fire, I will advice
 you about the next course of your action... I will further advise you about your prospective friend..."
 So said Kabandha to Rama. [3-71-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -958,8 +918,6 @@ of one or two words. This being the riddle of grammarians, we are supposed to kn
 blessed for gandharva-hood, and then accursed to demon-hood, and then becomes a gandharva again and
 goes to heaven, at the blessing of Rama. The last compound in second stanza differs with that of other
 mms, in wording, but not in its meaning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1013,8 +971,6 @@ Seetha; *raavaNena yathaa sukham hR^itaa* = by Ravana, as per, convenience [conv
 
 "Ravana conveniently stole my illustrious wife when myself and my brother exited from Janasthaana...
 [3-71-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1042,8 +998,6 @@ to Kabandha is unclear so far, and in order to put his case straight Rama has to
 over again. The same is the case with Sugreeva. He blatantly lies to Rama that he does not know Ravana,
 in Kishkindha Kanda. And if insisted Sugreeva, or to that matter of fact Seetha, both are ready with
 their self-assertive dialogue: *kaH na aparaadhyati* 'who errs not...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1097,8 +1051,6 @@ be] following [comply with]; *kaaruNyam* = mercifulness; *sadR^isham kartum [arh
 
 "It will be apt of you to show befitting mercy on us who are anguished by agony, running all over helter-skelter
 like unsheltered ones, and we who will be compliant for your restitution... [3-71-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1146,8 +1098,6 @@ will incinerate.
 
 "Oh, brave Kabandha, on bringing dried up firewood that was rent at times by elephants, and on digging
 a large trench, we will incinerate you in it... [3-71-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1199,8 +1149,6 @@ or; *hR^itaa* = stolen; *samaacakSva* = inform clearly; *ati artham* = very much
 "Such as you are, if you actually know who stole Seetha, or whereto she is stolen, either... you clearly
 inform of her when incinerated, thus you will be rendering a most gracious deed to me, and to all concerned..."
 Thus Rama made clear of his case. [3-71-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1249,8 +1197,6 @@ to Raghava; *anuttamam vaakyam* = unexcelled [expedient words,] words; *provaaca
 
 When he is said thus that expert articulator Kabandha replied Rama, who is also an expert enunciator,
 with expedient words. [3-71-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1298,8 +1244,6 @@ aasthitaH* = [my] own, form, on assuming; *yaH* = he; *taam* = her; *GYaasyati*
 "There is no divine knowledge to me as of now... nor I can identify Maithili... but when I am burnt
 I assume my own original divine form, and then I will be able tell about him, who will find her out...
 [3-71-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1346,8 +1290,6 @@ demon; tat vakshye that, I speak about.
 "With this unburnt body, oh, Rama, I indeed have no ability to discern anything, hence oh, lord, I will
 be able to speak about him who can familiarise you with that great mighty demon, by whom your Seetha
 is stolen, only after that incineration... [3-71-28b, 29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1391,8 +1333,6 @@ sva kR^itena* = by me, by my own, deeds - my own antics towards sages and Indra;
 
 "Oh, Raghava, utterly distorted is my acumen, indeed, by the blemish of curse... and this form which
 is despicable to world has bechanced only because of my own antics... [3-71-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1443,8 +1383,6 @@ Sun's horses will never be fatigued, but fatigued is this Kabandha in this grote
 vehicle predestined to communicate some information to Rama. And when a dusking Sun is indicated, another
 dawning Sun is also indicated, in his freshness. So also, Kabandha is about to resurrect after this
 incineration, as a vehicular messenger for Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1488,8 +1426,6 @@ aham tvayaa* = I, by you; *nyaayena* = justifiably [scripturally]; *avaTe dagdha
 
 "Oh, Rama, the legatee of Raghu, when I am scripturally burnt by you in a trench, oh, great valiant
 Rama, for sure, I will tell of him, who can quiet fathom that demon... [3-71-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1530,8 +1466,6 @@ kalpayiSyati* = to you, succour, evolves.
 
 "Oh, Raghava, you have to befriend him with an amicable comportment... and that valiantly alacritous
 one will be gladdened by the sequel of your friendship, and he will evolve a succour to you... [3-71-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 </details>
 
@@ -1581,8 +1515,6 @@ Kabandha to his natural death, and go away. But Rama is already acquainted with 
 of demons, where they die only after a physically dead, perforce, by consigning them to fire or burying
 them alive, as in the case of Viraadha. Hence this stingy maiming and baiting of Kabandha is continued,
 to burn him down, perforce.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

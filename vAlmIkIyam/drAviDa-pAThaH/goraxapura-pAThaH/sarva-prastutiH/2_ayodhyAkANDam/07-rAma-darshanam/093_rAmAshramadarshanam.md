@@ -20,8 +20,6 @@ living. Valiant men penetrate into the forest and pursuing their search, they ob
 smoke rising at some distance and concluding the site to be the hermitage of Rama. Bharata commands
 his army to halt and decides to walk with Sumantra and Dhriti his spiritual preceptor to Rama's
 hermitage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ beasts; *vanavaasinaH* = the denizens of the woods; *ardhitaaH* = were frightene
 
 Seeing that large army on the march, the herds of beasts with their leaders, the
 denizens of the woods were frightened and ran away together.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ hills; *nadiiSu* = and by the rivers.
 
 Bears, dappled deer and antelopes could be seen every where, on the tracks of the
 forest, on the hills and by the rivers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ divisions.
 
 That pious minded Bharata gracefully marched ahead, surrounded by that clamorous
 army of four divisions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ as clouds; *dyaam* = the sky; *praavR^iSi* = in a rainy season.
 
 The army, of the magnanimous Bharata, which resembled the high tide of an ocean,
 covered the earth as clouds cover the sky in a rainy season.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -260,8 +250,6 @@ horses; *vaaraNaishcha* = and elephants; *mahaajavaiH* = of great speed;
 
 Submerged by the waves of horses and elephants of great speed at that time, the
 earth became invisible for a long time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -309,8 +297,6 @@ counsellors.
 
 Having travelled for a long distance, that glorious Bharata, whose animals were now
 fully exhausted, said to Vasishta, the most segaceios of his counsellors (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -361,8 +347,6 @@ heard; *mayaa* = by me; *yam* = about which area; *bharadvaajaH* = Bharadwaja;
 
 "Looking at the features of the pace and from what has been heard by me, it is clear
 that we reached that area of which Bharadwaja spoke."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -417,8 +401,6 @@ like a blue cloud; *duuraat* = from a distance.
 
 "This mountain is Chitrakuta. This river is Mandakini. This forest is appearing like
 a blue cloud from a distance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -439,8 +421,6 @@ a blue cloud from a distance."
 
 "By my elephants appearing themselves like mountains, the lovely peaks of Chitrakuta
 mountain are being trampled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -487,8 +467,6 @@ on the peaks of the mountain; *muN^chaanti* = are showering; *kusumaani* = flowe
 
 "These trees on the peaks of the mountain are shedding flowers, as black and intense
 clouds shower water in a rainy season."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -538,8 +516,6 @@ _________________
 
 "Behold, O Shatrughna, this mountain, (hitherto) frequented by Kinnaras, now teaming
 with horses on every side, as a sea is infested by allegators."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -587,8 +563,6 @@ in autumn.
 
 "These herds of antelopes, having a rapid speed, as urged forward (by the troops)
 appear like a mass of clouds driven by the wind in the sky in antumn."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -638,8 +612,6 @@ the people; *daakSinaatyaaH* = of the south.
 
 "Those tree, with their leaves in multitude dazzling, crowned with fragrant chaplets
 of flowers, resemble the people of the south."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -686,8 +658,6 @@ like Ayodhya; *janaakiirNaa* = swarming with people.
 
 "This forest, which was silent and wore a terrifying look till now, appears to me
 like Ayodhya, swarning with people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -735,8 +705,6 @@ pleasure.
 
 "The dust raised from the hooves of the horses blots out the heavens, but the wind
 carries it away immediately as if to give me pleasure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -784,8 +752,6 @@ forest.
 
 "Behold, O Shatrughna, these chariots yoked with horses and mounted by the chief
 charioteers are rushing together rapidly in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -862,8 +828,6 @@ asceics.
 
 "This place to me is appearing very much lovely. Resembling in every way like a
 threshold of heaven, it is clearly an abode of ascetics."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -911,8 +875,6 @@ flowers.
 
 "In this forest, many dappled deer with their hinds, endowed with enchanting forms,
 are seen as if studded with flowers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -956,8 +918,6 @@ tigers among men; *raamalakSmaNau* = Rama and Lakshmana.
 
 "Let the soldiers proceed quickly to explore the woods to find those tigers among
 men, Rama and Lakshamana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -1008,8 +968,6 @@ paaNayaH* = wearing weapons in their hands; *vivishuH* = entered; *tat* = that;
 
 Hearing the words of Bharata, valiant men wearing weapons in their hands, penetrated
 into the forest suddenly they observed a plume of smoke rising.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -1057,8 +1015,6 @@ deserted place; *vyaktam* = Assuredly; *raaghavau* = Rama and Lakshmana;
 
 Seeing that spiral of smoke, they returned to bharata and said; "There can be no
 fire in a deserted place. Assuredly, Rama and Lakshmana are there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -1106,8 +1062,6 @@ are; *anye* = other; *tapasvinaH* = ascetics; *raamopamaaH* = like Rama;
 
 "If it be not those two tigers among men, the two princes, the scourger of their
 foes here, obviously there are other ascetics like Rama here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -1154,8 +1108,6 @@ sarvaan sainyaan = to that entire army (as follows)
 
 Hearing those words concurred even by pious men, Bharata the destroyer of enemy's
 forces, spoke to the entire army (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -1203,8 +1155,6 @@ preceptor; Driti.
 
 "You stay here vigilantly. Do no proceed any further. I alone will go along with
 Sumantra and also Dhriti, my spiritual preceptor."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -1252,8 +1202,6 @@ smoke.
 
 On this command, all the troops halted there and Bharat with his gaze fixed on the
 column of smoke, went forward.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 </details>
 
@@ -1308,8 +1256,6 @@ though perceiving bhuumi = the place; *agrataH* = before them; *babhuuva* = felt
 
 The army, which was held up there by Bharata, eventhough perceiving the place ahead,
 felt rejoiced in the thought of meeting their beloved Rama soon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1330,8 +1276,6 @@ sight; *vitraasitaan* = are frightedned; *aavishataH* = and are entering;
 
 "Behold these peacocks and birds, which are pleasant to the sight, are frightened
 and are entering their dwelling places hastily."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

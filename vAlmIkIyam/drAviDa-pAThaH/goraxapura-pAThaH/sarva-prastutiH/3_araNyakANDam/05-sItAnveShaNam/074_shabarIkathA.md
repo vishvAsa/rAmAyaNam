@@ -18,8 +18,6 @@ approach Shabari as said by Kabandha and she adores them on their seeking her pr
 them as visitant guests and expresses her desire to depart to the spheres where her teachers are. Rama
 gives consent to it, on which she offers herself into fire and emerges as a divine angel, to ascend
 to heaven.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ gR^ihya* = in forest, west, side, on taking up; *kabandhena darshitam* = by Kaba
 
 Both the sons of that best king Dasharatha, on taking up westerly path in that forest travelled on the
 passage to Pampa as shown by Kabandha. [3-74-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ draSTum jagmatuH* = Sugreeva, to see, moved forward.
 
 Those two, Rama and Lakshmana, while seeing several of the ticketed trees on mountains which have nectarous
 fruits on them moved forward to see Sugreeva. [3-74-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ tiiram* = Pampa's, westward, bank's moorland; *upatasthatuH* = drew nigh of.
 
 Those two legatees of Raghu on making a sojourn on the mountaintop, they the Raghava-s drew nigh of
 the moorland on the westward of Pampa Lake. [3-74-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ ramyam aashramam* = there, Shabari's, idyllic, hermitage; *apashyataam* = they h
 
 Then on getting at the westward moorland of that lotus-lake Pampa, there those two have spotted the
 idyllic hermitage of Shabari. [3-74-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ of Shabari, came nigh.
 
 On getting at that hermitage and on perusing at that picturesque environ that is wreathed round with
 several picturesque trees, those two came nigh of Shabari. [3-74-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ even; *paadau jagraaha* = feet, taken [braced.]
 
 On seeing them that sublimated yogi Shabari instinctively made palm-fold, got up imperatively, and then
 she braced the feet of Rama, and even that of sagacious Lakshmana, impressively. [3-74-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -372,8 +358,6 @@ taam shramaNiim* = to her, that anchoress; *raamaH uvaaca* = Rama, spoke - asked
 
 She gave them water for feet-wash and mouthwash, and other viands customarily affordable to visitants,
 and then Rama asked after that anchoress who is unflinchingly abiding in her duty. [3-74-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ kaama, krodha, lobha: tri vidham narakasya idam dvaaram naashanam aatmanaH | kaa
 tasmaat etat trayam tyajet ||* 16-21 Gita. The Doors of Hell / Are threefold, whereby men to ruin
 pass,- / The door of Lust, the door of Wrath, the door / Of Avarice. Let a man shun those three! - Sir
 E. Arnold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -479,8 +461,6 @@ E. Arnold.
 "Oh, suave speaker, mayhap your sacred commitments are achieved, anywise... appeased is your self, anyway...
 and your subservience to your mentors brought to fruition, perchance... isn't it!" Thus Rama enquired
 with Shabari. [3-74-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -532,8 +512,6 @@ _________________
 
 When Rama asked her in this way she that Shabari who is a senescent anchoress, sublimated yogin and
 an adherent to the sublimated yogis of higher rank, informed Rama remaining in his vis-�-vis. [3-74-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -602,8 +580,6 @@ ete kathitaa hi arthaaH prakaashante mahaatmaaH |prakaashante mahaatmana iti | s
 6-23* 'for a noble soul who reposes devotion in god, and an equal devotion in his teacher, to such
 a noble soul all truths manifests themselves... to such a noble soul all truths manifests themselves...'
 Shabari: Yes, yes, so also I stand ennobled after envisaging you, just now...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -668,8 +644,6 @@ the dance programs of Rambha or Tilottama, as said by Gita 8-16: *aabrahma bhuva
 arjuna | maam upetya tu kaunteya punar janma na vidyate ||* The worlds, Arjuna!- even Brahma's world-
 / Roll back again from Death to Life's unrest; / But they, O Kunti's Son! that reach to Me, / Taste
 birth no more. - Sir E. Arnold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -739,8 +713,6 @@ salvation, salvas gratis, grant me those returnless worlds...' Govindaraja. Rava
 with the above six negativities plus four more as - *kama* lust; k*rodha* anger;
 *lobha* greed; *moha* delusion; *mada * pride; m*aatsarya* : envy;
 *manas* : mind; *buddhi* intellect; *chitta * will; *ahamkara* ego.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -826,8 +798,6 @@ from here, to welkin, lifted up.
 
 "Divine aircrafts of unequalled refulgence have lifted those disciples of Sage Matanga in whose tendance
 I was, to welkin on your arriving at Chitrakuta... [3-74-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -861,8 +831,6 @@ student or servant by the active participation of the deliverer. The best world 
 attainable by soul-searching individuals is *kaivalya* whereas seeing that deliverer with one's
 own eyes *bhagavad avalokana*, is far beyond these worlds or states with nomenclature, and it
 is *mukti*, salvation from life cycles. Govindaraja
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -952,8 +920,6 @@ many stories and see many pictures telling that she gave many fruits after bitin
 teeth to test the taste. All that is not in Valmiki Ramayana. This amplification is from Padma Purana.
 *phalaani ca supakvaani muulaani madhuraaNi ca | svayam aasaadya maadhuryam pariikShya paribhakShya
 ca | pashcaat nivedayaamaasa raaghaabhyaam dhR^iDhvrataa |*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1012,8 +978,6 @@ for and against this caste oriented banalities. So taking by those days we may f
 this Shabari, tribal king Guha, Dasharatha's minister Sumantra, and the like and then we may examine
 how much the so-called outcaste is cared for or sought after. They may be ineligible to perform ritual
 deeds but none is barred from esoteric knowledge.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1069,8 +1033,6 @@ her to show hermitage. [3-74-19b, 20a]
 
 He is rather showing that hermitage to us in order to emphasise the path followed by the disciples of
 Matanga, whom this Shabari served that laboriously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1122,8 +1084,6 @@ one, that, woodland, started to show.
 
 On hearing those words voiced by Rama, Shabari started to show that unique woodland to both of them.
 [3-74-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1207,8 +1167,6 @@ hymns... [3-74-21b, 22]
 There is another shade with a little different wording *cakruH analam mantravat mantra kovidaaH*
 meaning *mantra kovidaaH* experts in hymns; *mantravat* hymn oriented; *analam*
 Ritual-fire; *juhaavaan* oblations in fire; *cakruH* conducted, worshipped.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1276,8 +1234,6 @@ the present day commercial temple complexes, cf., *ashva medha yaGYa* in Bala Ka
 any in such Vedic ceremonies, but some are not expected to perform them personally, again cf., Vishvamitra-Trishanku
 episodes. If everybody becomes a Bishop, who will be remaining for appointment as pastoral staff? The
 Reverend Bishop is the Bishop, but staffers are many.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1330,8 +1286,6 @@ teachers,] ascesis, by efficacy; *a tula* = not, comparable; *prabhaaH* = in irr
 "Oh, best one from Raghu-s, by the efficacy of the ascesis of my teachers these Altars of Fire are with
 incomparable irradiance, and even now they are irradiating all of the directions with solemnity... see
 them... [3-74-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1388,8 +1342,6 @@ process all the seven seas came close by, in coalescence... see them... [3-74-25
 That is why Pampa Lake is held sacred. Instead of rivers going into sea, seas flowed back to form this
 lake for the sake of these old sages. Sea bathing is the best, river bathing is of medium merit, and
 bathing with well or vessel water is worst, in terms of holy baths.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1439,8 +1391,6 @@ api* = now, even; *na vi shuSyanti* = not, completely, dried.
 "On performing holy baths those sages have spread their jute cloths on those trees with their own doddering
 hands here at this place and oh, Raghu's legatee, those cloths did not dry even now by the touch of
 their hands... [3-74-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1491,8 +1441,6 @@ going in, indeed.
 
 "Which garlands they have knotted together with black-lotuses and other flowers while they were worshiping
 gods, these are really those garlands, and indeed there is no discolouration to them... [3-74-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1547,8 +1495,6 @@ is seen; *shrotavyam ca shrutam* = listenable, also, listened; *tat* = thereby; 
 "You have seen what is seeable and you have listened what is listenable of this woodland in its entirety...
 thereby I wish to become a permittee, where you alone are my permitter, as I wish to castaway this sheathe
 of soul, called my body... to make that soul to move nigh of my teachers feet... [3-74-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1595,8 +1541,6 @@ gantum icChaami* = I, to go to, yearn [soulfully.]
 
 "Of which sages this hermitage is, and of which sages I am also a maidservant, I soulfully go the proximity
 of those contemplative souls..." Thus, she appealed to Rama. [3-74-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1653,8 +1597,6 @@ Annex: 'astonishing is this hermitage and its inmates... where the inmates prais
 as said at *gurum prakaashayet dhiimaan* 'gurus are to be extolled by true and wise disciples...'
 and the masters made the environ blissfully livable, all this is without any maya or magic... so, fairness
 has its own place...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1705,8 +1647,6 @@ with]; *gacCha* = you may go.
 Then Rama spoke to that Shabari who is firmed up in her faith towards her masters, "oh, saintly lady,
 you treated me with deference... thus may go to your cherished worlds, where you can solace yourself
 with your masters... [3-74-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1781,8 +1721,6 @@ fire, similar to; *saa svargam eva jagaama* = she, to heaven, alone, went to.
 Thus that way said by Rama in consent, she who is wearing tufty-matted hair, jute-cloths, and deerskin
 as her clothing, she offered herself as an oblation into Ritual-fire, and then like a flaring fire,
 she went to heaven alone. [3-74-32, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1800,8 +1738,6 @@ babhuuva* = there, angel-like, for a sight, she became.
 Now she appeared as an angle bejewelled with angelic ornaments, wearing angle's wraparound and angelical
 flowery tassels, and bedaubed with suchlike cosmetics, and as with the scintillations of electric sparks
 she scintillated that province. [3-74-33b, 34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 </details>
 
@@ -1867,8 +1803,6 @@ The minute you finger it, of course when snake went a long way off, then that sh
 of pieces. That is why this metaphor is used to suggest the world as *viSNu maya*, which remains
 beautiful and if touched shatters all misconceptions. Saint-singer Tyaagaraaya has a *kR^iti*
 on this *pannagapu doma tera paikettavemayya…* So Shabari is rid of that illusion, or *maya…*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

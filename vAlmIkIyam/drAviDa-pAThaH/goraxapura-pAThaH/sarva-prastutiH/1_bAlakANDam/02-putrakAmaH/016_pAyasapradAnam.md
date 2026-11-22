@@ -20,8 +20,6 @@ is performing the Vedic ritual called putrakaameSTi a deity called
 praajaapatya-puruSha arises from the sacrificial fire to give
 a golden vessel of divine dessert to Dasharatha for distribution among his queens to beget
 progeny. The three queens on consuming that dessert conceive their children.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -84,8 +82,6 @@ outcome, he gently spoke these words to gods in this way. [1-16-1]
 The name Vishnu indicates his all pervading Omnipresence in all beings, sessile or mobile:
 *vyaapitvaat sarvabhuuteSu vishnuH iti abhidhiiyate*. This is one of his thousand
 names, called Vishnu *sahasranaama* , each name elucidating his attributes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -128,8 +124,6 @@ Ravana] ; *upaayaH kaH* = idea, what is; *yam samaasthaaya*
 
 "What is the idea to eliminate that demon's chief Ravana, oh, gods, adopting which strategy
 I will have to eliminate that thorn in the side of sages?" Thus Vishnu asked the gods. [1-16-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ I will have to eliminate that thorn in the side of sages?" Thus Vishnu asked the
 
 Asked thus all the gods said to that sempiternal Vishnu, "on assuming a human form, eliminate
 Ravana in a war." [1-16-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ thereby; *lokakR^it* = worlds creator; *and lokapuurvajaH* = earliest born in wo
 "Oh, destroyer of enemies, he that Ravana undertook a vehement ascesis for a long period,
 thereby the creator of worlds and the first born one Brahma, felt gladsome of his ascesis.
 [1-16-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ humans, are slighted, indeed.
 "Satisfied with his ascesis Brahma gave boon to that demon that he shall have no fear for
 his life from many kinds of beings, excepting humans, because that demon indeed slighted humans
 earlier at the time of bestowing boon. [1-16-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -342,8 +330,6 @@ also; *tasmaat paramtapa* = therefore, oh enemy destroyer Vishnu; *tasya vadhaH*
 "Thus, on getting boon from the Forefather Brahma he has become arrogant and torturing the
 three worlds, and he is even abducting women. As such, oh, enemy destroyer Vishnu, his elimination
 is envisaged through humans alone." So said gods to Vishnu. [1-16-6b, 7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -383,8 +369,6 @@ is envisaged through humans alone." So said gods to Vishnu. [1-16-6b, 7]
 
 On hearing that speech of gods said that way, he that kind-hearted Vishnu then chose Dasharatha
 as his father in human world. [1-16-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ _________________
 
 During that time the great resplendent king and an enemy subduer Dasharatha is performing
 putrakaameSTi ritual, desiring progeny as he is sonless. [1-16-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ puujyamaanaH* = by gods, saints, while being extolled; *antardhaanam gataH* = va
 
 On taking a decision Vishnu took leave of Forefather Brahma, and vanished while he is still
 being extolled by gods and sages. [1-16-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -521,8 +501,6 @@ _________________
 Then, from Fire of Altar Dasharatha's ritual there emerged a greatly vigorous and energetic
 Divine Being with an unparalleled resplendence, called yajna-puruSa.
 [1-16-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -566,8 +544,6 @@ head hair like mane of lion.
 
 He is clad in black and red garments and his face is red and his voice resembled the drumbeat.
 His moustache and hairdo are soft like that of a lion's mane. [1-16-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -607,8 +583,6 @@ in height he is like mountain peak; *dR^iptashaarduulavikramam* = in valiance he
 
 And he is endowed with auspicious features and decorated with divine ornaments, in height
 he is like a mountain peak, and in valiance he is like an imperious tiger. [1-16-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -665,8 +639,6 @@ hands as if he would personally handle his own wife, which vessel is made from t
 gold and covered with a silver lid, and which appeared to be crafted out of a divine illusion,
 since it is dazzling like sun and glowing like the tongues of flame, and that vessel is full
 with the divine dessert. [1-16-14, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -707,8 +679,6 @@ arrived here; *maam* = me; *praajaapatyam* = from Prajapati [sent by];
 
 That divine person on observing king Dasharatha said these words "oh, king, you may know me
 as the being sent by Prajapati." [1-16-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -755,8 +725,6 @@ as the being sent by Prajapati." [1-16-16]
 
 There after, king Dasharatha greeted that divine being with palms adjoining and said in reply,
 "oh, god, welcome to you, and what shall I do for you?" [1-16-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -797,8 +765,6 @@ obtained [by you.]
 
 Then again, that divine being sent by Prajapati said these words, "oh, king, now you have
 obtained this dessert in golden vessel as you have propitiated gods. [1-16-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -839,8 +805,6 @@ dessert.
 
 "Oh, tigerly king, take this dessert prepared by divinities, this is a blessed dessert that
 enriches progeny and health. [1-16-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -882,8 +846,6 @@ taasu tvam lapsyaase* = you will get sons in them [in queens] .
 "Oh, king, let this be consumed" saying so he further said, "for which purpose you have performed
 this ritual that childbearing will be fructified in your wives by bearing sons, hence give
 this among your eligible wives." So said the divine being to Dasharatha. [1-16-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -934,8 +896,6 @@ wholeheartedly]; *priitaH* = he is delighted.
 
 Agreeing to that the king wholeheartedly took that god-given golden vessel full with divine
 food. [1-16-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -951,8 +911,6 @@ cha* = revering, too; *chakaara abhipradakShiNam* = performed, circumambulations
 With high ecstasy Dasharatha revered that Ritual Being, the Prajaapati-
 PuruSha or yaj~na-puruSha , an astonishing and delightful
 being in his appearance, and performed circumambulations around him. [1-16-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -1002,8 +960,6 @@ being in his appearance, and performed circumambulations around him. [1-16-22]
 
 On obtaining that dessert prepared by gods then Dasharatha is highly gladdened like a pauper
 obtaining unforeseen wealth. [1-16-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1020,8 +976,6 @@ only, disappeared.
 On completing his work of giving the golden vessel with dessert then that divine being who
 is astonishing by his form and highly glowing by his physique, disappeared then and there
 itself. [1-16-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -1065,8 +1019,6 @@ chandrasya amshubhiH* = with moon's, rays; *nabhaH iva* = sky, like; *babhuuva*
 
 Lit up with beams of happiness Dasharatha's palace chambers shone forth like the autumnal
 sky brightened with moonbeams. [1-16-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -1120,8 +1072,6 @@ in order to maintain the divinity of Ram's birth. In the context of seed and fie
 has no equal importance to the seed *biija-kShetra nyaaya* . Hence the seed is divine
 in the form of dessert and fields are therefore shall 'be eligible' for the seedling. As such
 the First Queen and Empress Kausalya is being addressed firstly, and given firstly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -1245,8 +1195,6 @@ lionise her share and as an Empress. Sumitra waited a while till apportionment i
 Kaikeyi got her portion but waited till her elder sister Sumitra completes her drink. In the
 meanwhile Dasharatha thought a while, as said in the verse, and gave Sumitra another one-eighth
 part. Sumitra then consumed her two parts. Later Kaikeyi drinks her dividend.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -1296,8 +1244,6 @@ they deemed [the dessert.]
 
 On getting the dessert all of those best ladies of the king, whose hearts are exuberant with
 happiness, deemed it as a reward. [1-16-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -1356,8 +1302,6 @@ that Fire and Sun became pregnant after some time. [1-16-31]
 A synecdochic expression to indicate that Sun and Fire, the enliveners of living beings,
 *pratyakSha-naraayaNa* are there in those wombs and their resplendence is shining out
 of mothers bodies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 </details>
 
@@ -1413,8 +1357,6 @@ babhuuva hR^iSTaH* = became, delighted.
 Then on seeing his queens with confirmed pregnancies Dasharatha regained his lost heart for
 sons, and he is gladdened like Vishnu, who will always be gladsome when worshipped by gods,
 namely Indra and others, as well as by the assemblages of great souls, sages. [1-16-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

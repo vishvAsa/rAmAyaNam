@@ -23,8 +23,6 @@ him of the matter. Dadhimukha along with his followers appears on the scene and 
 trees and rocks. Angada thrashed Dadhimukha with his arms and made him fall on the ground. Dadhimukha
 along with his followers then proceed to Kishkindha to report the matter to him. Dadhimukha bows down
 and touches Sugreeva's feet as a mark of salutation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -86,8 +84,6 @@ way.
 Hanuma, like a bull among the monkeys and the foremost among them spoke to them as follows:
 "Cherish the honey with a cool mind, O monkeys! I will keep off your opposer who is standing in your
 way."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -145,8 +141,6 @@ madhu* = the honey.
 
 Hearing the words of Hanuma, the gracious minded Angada the principal among the monkeys
 repeated the words: "Let the monkeys drink the honey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -161,8 +155,6 @@ kaaryasya* = who has accomplished his work; to be obliged; *avashyam* = certainl
 
 "The words, though improper of Hanuma who had accomplished his task, are to be obliged
 certainly by me. Wherefore then, moreover, on such an occasion?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -209,8 +201,6 @@ coming from the mouth; *aN^gadasya* = of Angada; *vaanaraaH* = those monkeys; *v
 
 Hearing the words coming from the mouth of Angada, those monkeys who were like bulls
 among the monkeys were delighted and answered with reverence, saying 'good, good!'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -260,8 +250,6 @@ honey was there; *nadii vegaH iva* = like rush of a river; *drumam* = towards a 
 
 Reverencing Angada the foremost among the monkeys, all the monkeys rushed towards Madhuvana,
 the grove abounding in honey, like the rush of a river towards a tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -318,8 +306,6 @@ viiryataH* = with their prowess; *vapuH* = drank; *madhu* = the honey; *tadaa*
 Because Hanuma had seen Seetha and others had heard of her and because of the grant of
 permission from Angada, all those gifted monkeys entered Madhuvana the grove, overpowered the guards
 with their prowess, drank honey and the partook juicy fruits there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -369,8 +355,6 @@ _________________
 
 Then, all those monkeys jumped on the guards of the grove, who came there in hundreds
 together and banged them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ banged those who obstructed them.
 **टिप्पनी**
 
 Drona= A wooden vessel containing 1024 Mushtis/fists of honey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 
 </details>
@@ -485,8 +467,6 @@ as yellow as honey; *piitvaa* = having drunk; *madhuuni* = vessels of honey; *pr
 Some monkeys, with their skin-colour as yellow as honey, after drinking vessels of honey,
 also threw some honey away. Some others, with the remnant of honey in their arms, after drinking, whipped
 up one another with their excessive intoxication.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -507,8 +487,6 @@ up one another with their excessive intoxication.
 
 Some others, seizing a branch of a tree, stood rooted at the foot of a tree. Some, who
 were highly intoxicated, laid down spreading leaves on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -557,8 +535,6 @@ drinking of honey; *unmatta bhuutaaH* = became inebriated; *kShipanti* = and wer
 
 Those monkeys, who were intoxicated by drinking the honey, became inebriated and started
 pushing one another cheerfully and some others began to stumble.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -607,8 +583,6 @@ like birds; *kechit harayaH* = some; *madhunaa* = with honey; *suptaaH* = slept;
 
 Some were roaring like lions. Some, with joy, whistled like birds. Some monkeys, inebriated
 as they were by drinking honey, simply slept on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -657,8 +631,6 @@ they were doing; *anye kechit* = some others; *budhyanti* = were understanding; 
 
 Doing something or other, some were laughing. Some others were doing something else.
 Some were telling what they were doing, while some others were understanding some things else.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -715,8 +687,6 @@ directions.
 
 The honey-keepers, who were there as messengers of Dadhimukha in that Madhuvana, were
 warded off by the terrific monkeys and they fled to different directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -737,8 +707,6 @@ vachaH* = spoke the (following) words.
 
 Dragged by their knees and tossed up in the air by the monkeys, those honey-keepers were
 very much depressed, went to Dadhimukha and complained as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -791,8 +759,6 @@ darshitaaH* = and were shown; *deva maargam* = the air.
 
 "The monkeys, as permitted by Hanuma, violently destroyed Madhuvana. We were dragged
 by our knees and further tossed up in the air."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -842,8 +808,6 @@ _________________
 
 Hearing that Madhuvana was damaged, Dadhimukha, the grove-protector there was enraged
 and thereafter consoled those monkeys (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -893,8 +857,6 @@ consuming; *madhu* = the honey.
 
 "Come here let us go there and prevent by our force, the monkeys who are arrogant of
 their strength and are consuming the honey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -941,8 +903,6 @@ their strength and are consuming the honey."
 
 Hearing these words of Dadhimukha, the foremost of those monkeys who displayed their
 heroism, quickly went again to madhuvana along with him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -992,8 +952,6 @@ cha* = monkey-followers too (ran).
 
 Grasping a tree, Dadhimukha speedily took up his position in the middle of those monkeys
 in Madhuvana. All his follower-monkeys also ran with him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1043,8 +1001,6 @@ kuNjaraaH* = foremost of monkeys (were there).
 
 Those enraged monkeys, taking rocks, trees and even mountains, went to the place wehre
 those foremost of monkeys were there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1094,8 +1050,6 @@ trees and rocks as their weapon.
 
 Those heroic monkeys, keeping the words of their master in mind, briskly ran with Sala
 trees, palm trees and rocks as their weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1145,8 +1099,6 @@ of the trees; *bala darpitaan* = and who wee arrogant of their strength.
 
 Then, the valiant guards of the grove running in thousands invaded the monkeys who were
 on trees, at the foot of the trees and who were arrogant of their strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1195,8 +1147,6 @@ tadaa* = then; *abhyadhaavanta* = ran towards him; *vegena* = with speed.
 
 Seeing Dadhimukha coming with anger, Hanuma along with eminent monkeys ran towards him
 with speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1248,8 +1198,6 @@ night; *mahaabaahum* = having long arms; *aapatantam* = and rushing with speed; 
 The enraged Angada struck there with his arms, that long-armed Dadhimukha the maternal
 uncle his father, who was endowed with extraordinary might and who was rushing with speed with a tree
 in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1301,8 +1249,6 @@ _________________
 Blinded with arrogance, that Angada did not show any mercy to him on the score of his
 being the maternal uncle of his father and caused him at once to fall down and began to crush him against
 the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1352,8 +1298,6 @@ arms; thighs and shoulders; *shoNito kShitaH* = and drenched in blood; *sahasaa*
 
 That Dadhimukha, the valiant elephant among the monkeys, who was afflicted with his broken
 arms, thighs and shoulders, drenched as he was in blood, lost his consciousness for a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1397,8 +1341,6 @@ enraged; *vaarayaamaasa* = resisted; *vaanaraan* = those monkeys; *madhumohitaan
 
 That Dadhimukha, Sugreeva's maternal uncle, quickly recovering his breath, was enraged
 and resisted those monkeys, who were highly intoxicated because of drinking of honey, by a proper reprimand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1448,8 +1390,6 @@ _________________
 
 Somehow released by those monkeys that Dadhimukha the foremost among the monkeys, went
 to a solitary place and spoke to his messengers who came there (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1493,8 +1433,6 @@ _________________
 
 "Let these monkeys stay here. We will go to the place where the thick-necked Sugreeva,
 our lord of the monkeys stays together with Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1544,8 +1482,6 @@ monkeys killed.
 
 "I will make known to the king, all the misdeed of Angada. Hearing my words, the enraged
 king will get the monkeys killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1595,8 +1531,6 @@ and it derived from his father and grand-father; *divyam* = (It is ) so charming
 
 "This Madhuvana is indeed cherished by our high-souled king, Sugreeva and it derived
 from his father and grand father. It is so charming, but is dangerous to be approached even by celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1646,8 +1580,6 @@ sasuhR^ij janaan* = can get all these monkeys together with their companions kil
 
 "The longevity of these monkeys got reduced, as they were very much lustful of honey.
 That Sugreeva can get these monkeys together with their companions, killed as a matter of punishment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1697,8 +1629,6 @@ impatience; *bhaviShyati* = will become; *saphalaH* = fruitful.
 
 "These evil-minded beings, who disregarded the royal command, are fit to be capitally
 punished. Our wrath, springing from our impatience, will indeed become fruitful."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1748,8 +1678,6 @@ the garden-guards; *mahaabalaH* = the mighty; *dadhimukhaH* = Dadhimukha; *sahas
 
 Thus speaking to the garden-guards, the mighty Dadhimukha quickly springing up all at
 once, went (to Kishkindha) together with the garden-guards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 </details>
 
@@ -1806,8 +1734,6 @@ there); *nimeSha antara maatreNa* = within an interval of only a moment.
 
 That Dadhimukha, the monkey, reached the place where that Sugreeva, the intelligent monkey
 was there, within an interval of only a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1827,8 +1753,6 @@ was there, within an interval of only a moment.
 
 Seeing Rama, Lakshmana and Sugreeva, Dadhimukha descended to a level ground, from the
 sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

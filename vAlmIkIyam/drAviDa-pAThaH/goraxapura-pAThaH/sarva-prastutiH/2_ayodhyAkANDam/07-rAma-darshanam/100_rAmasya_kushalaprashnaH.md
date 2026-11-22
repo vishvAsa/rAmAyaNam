@@ -18,8 +18,6 @@ title_english = "100 Rama enquires his father s welfare with Bharata"
 Rama gives instruction to Bharata as regards the duties of a king and the polity
 under an ideal monarchy under the pretext of enquiring about the welfare of his father and
 others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ ground; *durdarsham* = incapable of being seen; *bhaaskaram yathaa* = as the sun
 Rama saw Bharata, with matted locks, wearing bark-robes and, with joined palms,
 lying on the ground, incapable of being seen as the sun at the time of the dissolution of the
 world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -99,8 +95,6 @@ face became pale; *kR^isham* = who was emaciated; *parijagraaha* = and took;
 
 Rama recognized with some difficulty his brother Bharata, whose face became pale and
 who was emaciated, and took him by the arm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -117,8 +111,6 @@ bharatam* = that Bharata; *paryapR^ichchhat* = and enquired (as follows);
 
 Smelling the crown of his head, placing him on his lap, Rama who was born in Raghu
 dynasty embraced Bharata and with an absorbent mind, enquired of him as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -166,8 +158,6 @@ dynasty embraced Bharata and with an absorbent mind, enquired of him as follows:
 
 "My darling! Where is our father, that you have come to the forest? He, being alive,
 you ought not have to come to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -215,8 +205,6 @@ you come; *vanam* = to the forest?.
 
 "I see you after a long time, coming from a far-off distance, wearing a mournful
 face into this forest Alas! Why have you come to the forest, my darling?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -263,8 +251,6 @@ departed; *lokaantaram* = to the other world; *sahasaa* = all of a sudden.
 
 "My dear brother! Is the king alive, that you have come here? I hope the miserable
 king has not indeed departed to the other world, all of a sudden."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -316,8 +302,6 @@ permanent; *raajyam* = kingdom; *na bhraSTam kachchit* = has in no way suffered;
 "O, gentle brother! I hope the eternal kingdom has in a no way suffered from your
 youthful experience. My darling! Are you rendering service to our father, who is truly
 valiant?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -364,8 +348,6 @@ Dasaratha; *kushalii* = is well; *satyasangaraH* = he who is true to his promise
 
 "I hope that the King Dasaratha is well, he who is true to his promise, he who
 performs Rajasuya and Ashvamedha Sacrifices and he who has a righteous resolve."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -414,8 +396,6 @@ the virtues; *mahaadyutiH* = and who has a great splendour.
 "My darling! Are you treating respectfully as before that preceptor of the
 Ikshvakus, the one who knows the sacred scriptures, the one who knows the sacred scriptures, the
 learned who constantly keep up the virtues and he who has a great splendour?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -463,8 +443,6 @@ rejoicing.
 
 "My darling! I hope that Kausalya and Sumitra having good offspring are happy. I
 hope the venerable queen Kaikeyi is rejoicing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -513,8 +491,6 @@ person; *anudraSTaa* = and full of insight; *satkR^itaH* = is duly honoured;
 "I hope that the preceptor (Suyajgna the son of Vasishta); who is rich in humility,
 a son of a noble family, who has a knowledge of many scriptures an unenvious person and who is full
 of insight, is duly honoured by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -563,8 +539,6 @@ sacred fire having been; *hoSyamaaNamcha* = or going to be fed with oblations.
 "I hope that a brahmin who is versed in the traditions, who is intelligent and just,
 employed in your sacred fires, always informs you in time, about a sacrificial fire having been or
 going to be fed with oblations."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -612,8 +586,6 @@ teachers; *vR^iddhamshcha* = who are aged; *pitR^isamaan api* = as your father t
 
 "My darling! I hope that you are holding in high esteem the gods, your ancestors,
 dependents and teachers of your father's age the doctors and the brahmins."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -662,8 +634,6 @@ well-versed in political economy.
 "O, my darling! I hope that you treat with due respect; Sudhanva, your teacher in
 archery, who is furnished with the most excellent arrows and darts and well-versed in political
 economy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -712,8 +682,6 @@ gesture; *kR^itaaH* = are assigned; *te* = to you.
 "I hope that ministers who are valiant like you, learned, masters of their senses of
 noble birth and skilled interpreting internal sentiments by external gesture, are assigned to
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -761,8 +729,6 @@ within themselves; *raaghava* = O; Bharata!.
 
 "The source of victory for kings indeed comes from a concealed counsel by ministers,
 who are well-versed in political sciences and who can hide their thoughts within themselves."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -813,8 +779,6 @@ during the later half of the night; *arthanaipuNam* = adroitness of an action.
 "I hope you do not fall a prey to excess of sleep and do wake up at appropriate
 time. I hope you contemplate during the later half of the night, about the adroitness of an
 action."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -863,8 +827,6 @@ flow; *raaSTram* = to the public.
 "I hope that you do not deliberate alone nor indeed with numerous men. I hope your
 decision arrived at by you through such deliberation does not flow to the public (even before it is
 carried out)".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -912,8 +874,6 @@ diirghayasi* = and do not delay it.
 
 "O, Bharata! I hope considering your interest fully, you lanuch an undertaking,
 which has maximum benefit with minimum coast and indeed do not delay it further."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -962,8 +922,6 @@ which has maximum benefit with minimum coast and indeed do not delay it further.
 "I hope the other kings know your entire undertakings only after they have been
 successfully completed as well as those which have taken a shape, but not your proposed
 undertakings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1012,8 +970,6 @@ any other strategies; *aparikiirtitaa* = no mentioned; *tvayaa raa* = by you;
 "My darling! I hope that others are not knowing, by their enquiries or strategies or
 by any other approaches not mentioned, the details of discussions you make with your
 ministers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1064,8 +1020,6 @@ kR^ichchhreSu* = in difficult matters.
 
 "I hope you solicit for one wise man rather than for a thousand stupids for, a wise
 man can be of a great help to you in difficult matters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1112,8 +1066,6 @@ helpfulness; *teSu* = in them.
 
 "Even if a king employs thousands or tens of thousands of fools, they will not be
 helpful to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1161,8 +1113,6 @@ royal authority.
 
 "Even one wise, valiant sagacious and efficient minister alone can cause to secure a
 great prosperity to the king or to one who enjoys royal authority."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1213,8 +1163,6 @@ inferior works.
 
 "I hope that superior servants are assigned superior works only, mediocre servants
 in mediocre works and inferior servants in inferior works."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1263,8 +1211,6 @@ incorruptible; *pitR^ipaitaamahaan* = born of the fathers and forbears of good f
 "I hope you are appointing those ministers, who are eminent incorruptible, born of
 the fathers and for bears of good family and who are full of integrity in matters of great
 importance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1312,8 +1258,6 @@ witnesses; *bR^isham udvejita prajam* = (while) your subjects tremble with great
 "O, Bharata! I hope your ministers do not watch as mere witnesses, while your
 subjects in the kingdom wielding tremble with great fear, under your inflexible wielding of the
 scepter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1364,8 +1308,6 @@ iva* = as women; (hold); *kaamayaanam* = of those lustful men.
 "I hope those who perform the sacrifice do not hold you in contempt, as one who
 accepts terrible gifts; as one who is fallen, as women hold in contempt of those highly lustful
 men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1417,8 +1359,6 @@ a valiant warrior; *aishvarya kaamam cha* = seeking kingly power; *saH* = he
 "He, who does not slay a physician skilled in ways and means of aggravating a
 disease, a servant intent on bringing disgrace and a valiant warrior seeking kingly power, is
 *himself) slain by them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1467,8 +1407,6 @@ selected.
 
 "I hope an army-chief, who is cheerful, wise, courageous, valiant, well-behaved,
 born in a good family, who is beloved by his subordinates and efficient, is selected by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1517,8 +1455,6 @@ skilled in war-fare; *dR^iSTaapadaanaa* = whose excellent actions were seen befo
 "I hope those warriors, who are excellent strong, skilled in war-face, whose
 excellent actions were seen before and the most courageous ones are duly honoured and respected by
 you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1565,8 +1501,6 @@ daily provisions; *daatavyam* = to be given; *yathochitam* = and suitable;
 
 "I hope you are regularly giving your army, the daily provisions and the suitable
 salary to them, without any delay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1614,8 +1548,6 @@ and become corrupt; *saH* = (and) that; *smR^itaaH* = is said to be;
 
 "When there is delay in giving bread and wages, the servants become incensed against
 their master and become corrupt; and that is said to be a great unfortunate occurrence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1663,8 +1595,6 @@ steadfastly?
 
 "I hope all the foremost descendents of your race (kshatriyas) are devoted to you
 and do they lay down their lives steadfastly for your sake?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1714,8 +1644,6 @@ you.
 "I hope that a knowledgeable man, living in your own country, a wise man a skilled
 person endowed with presence of mind and the one who knows how to speak to the point, is selected
 as an ambassador by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1779,8 +1707,6 @@ kingdom, who also performed the duties of a forester; 17) the magistrate; 18) th
 with conservation of waters; hills, forests and tracts difficult of access.: The fifteen
 functionaries of one's own side are the last fifteen of this very list, omitting the first three;
 viz; the chief ministers, the family priest and the crown prince.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 
 </details>
@@ -1831,8 +1757,6 @@ and having been expelled; *pratiyaataamshcha* = return again to revenge.
 
 "O, slayer of your Foes! I hope you do not forever think lightly of your foes, who
 are weak and having been expelled, return again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1883,8 +1807,6 @@ learned.
 
 I hope are not honouring the materialistic brahmins, My dear brother! These men are
 skilled in perverting the mind, ignorant as they are and thinking themselves to be learned."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1925,8 +1847,6 @@ presence of; *mukhyeSu* = eminent; *dharma shaastreSu* = books on righteousness.
 
 "Reaching to their logical acumen, these men of perverted intellect preach
 meaninglessly, in the presence of eminent books on righteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -1999,8 +1919,6 @@ with its fortified gates, its elephant horses and chariots that fill it, with it
 warriors and merchants in thousands, ever engaged in their respective duties, with its noble
 citizens self-controlled and full of energy, with its palaces in various shapes and the learned who
 abound there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2089,8 +2007,6 @@ social festivities, with land well-tilled, abiding in cattle which are totally f
 the agricultural land not exclusively fed by rains, which is beautiful and is purged of beasts of
 prey, which is completely rid of fears, studded with mines, a destitute of sinful men, and
 well-protected by our fore-fathers, is prosperous and an abode of happiness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2138,8 +2054,6 @@ well.
 
 "Are you cherishing all those who live by agriculture and cattle-rearing, O, dear
 borhter! The people living on agriculture and cattle-rearing indeed prosper well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2191,8 +2105,6 @@ pariihaaraiH* = by providing what they need and eschewing what they fear; *sarve
 "I hope their maintenance is being looked after by you, in providing what they need
 and eschewing what they fear. All the citizens are indeed to be protected by a king through his
 righteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2240,8 +2152,6 @@ secrets.
 
 "I hope you are pacifying the women well. Are they protected by you? I hope you are
 not believing the words of these women and not telling them the secrets."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2290,8 +2200,6 @@ horses; *kuNjaraaNaam cha* = and male-elephants.
 "Are you supervising the woods inhabited by elephants? I hope female elephants are
 there to you in good number. I hope you are not simply satisfied with the existing population of
 female elephants, horses and male-elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2338,8 +2246,6 @@ in the forenoon; *mahaapathe* = on the great high way.
 
 "O, Prince! Do you, regally adorned, appear before the people on rising each
 morning, on the great high way?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2391,8 +2297,6 @@ middle course only; *kaaraNam* = the principle ; *atra* = in this matter.
 "I hope that all your servants, in your presence, do not adopt a disrespectful
 attitude or on the other hand all of them do not hasten away on seeing you. Ofcourse, a middle
 course only in the principle to be followed in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2440,8 +2344,6 @@ archers.
 
 "I hope all your citadels are quite full of money, grain, weapons, water and
 mechanical contrivances as well as artisans and archers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2489,8 +2391,6 @@ your; *aayaH* = income; *vipulaH* = is abundant; *kachchit* = I hope;
 
 "I hope your income is abundant and expenditure, minimum. I hope your treasure does
 not reach undeserving people, O, Bharata!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2537,8 +2437,6 @@ visitors; *yodheSu* = soldiers; *mitra vargeSu* = and hosts of friends.
 
 "I hope that your expenditure goes for the cause of divinity, manes, brahmins,
 unexpected visitors, soldiers and hosts of friends."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2587,8 +2485,6 @@ law-books.
 "If one of noble work, despite his honesty and integrity, is falsely accused of some
 offence, I hope he is not killed impatiently, without enquiry by those well-versed in
 law-books."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2636,8 +2532,6 @@ from greed o wealth.
 
 "O, foremost of men! If a thief is seen and even caught at the time of his act on
 sufficient ground and interrogated-I hope, he is not released from greed of wealth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2686,8 +2580,6 @@ sufficient ground and interrogated-I hope, he is not released from greed of weal
 "O, Bharata! I hope that your well-educated ministers examine a case dispassionately
 when a contention occurs between a rich man and a poor man, after studying the situation
 carefully."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2736,8 +2628,6 @@ justice; *priityartham* = merely for the sake of pleasure.
 "The tears fallen from those who are the victims of false accusations, O Bharata,
 destroy their sons and herds of those who are indifferent to justice, merely for the sake of
 pleasure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2788,8 +2678,6 @@ mukhyaamshcha* = and the foremost physicians.
 
 "I hope that you seek to conciliate by the following three means, viz. gifts, a
 loving mind and polite words- the aged, the children and the foremost physicians."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2839,8 +2727,6 @@ conduct.
 "I hope you greet your teachers, the elderly, the ascetics, the deities; the
 unexpected visitors, the trees standing at cross roads and all the brahmins of auspicious life and
 conduct."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2891,8 +2777,6 @@ the senses.
 excessive devotion to wealth or your earthly interests by your over-emphasis on religion or both
 your religious and secular interests by your self-indulgence in pleasure, greed and gratification
 of the senses."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2944,8 +2828,6 @@ who is conversant with the proper time; *varada* = and O; the bestower of boons!
 "I hope your pursue wealth, religion and the delights of the sense dividing them all
 according to time, O Jewel among the victorious, the one who is conversant with the proper time and
 O, the bestower of boons!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -2992,8 +2874,6 @@ and country; *aashansante* = pray; *te* = for your; *sharma* = happiness.
 
 "O, the one who is endowed with great wisdom! I hope that brahmins versed in the
 knowledge of the scriptures, the inhabitants of town and the country pray for your happiness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -3064,8 +2944,6 @@ alone devoting thought to the affairs of the state (without consulting the minis
 counsel with those of perverted insight; failure to undertake the projects already decided, failure
 to keep secrets, failure to utter auspicious words (at the beginning of an undertaking); and rising
 from one's seat (indiscriminately) to receive all.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -3167,8 +3045,6 @@ indulged in sensuous pleasures and luxuries; 13. who is ill-fated; 14. a fatalis
 that all things are pre-determined or subject to fate); 15. who is afflicted by famine and; 16. by
 military reverses; 17. who (mostly) remains away from home; 18. who has numerous enemies; 19. who
 is in the clutches of adverse times and; 20. who is not devoted to truth and piety.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 
 </details>
@@ -3217,8 +3093,6 @@ secret
 
 "I hope that you consult with three or four ministers as mentioned in scriptures any
 proposal collectively and singly with each of them in secret."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -3263,8 +3137,6 @@ you; *vedaaH* = study of Vedas?; *kachchit te kriyaaH* = are your acts;
 
 "Do you find advantages in your study of Vedas? Are your acts, production of fair
 results? Do you benefit from the company of your consorts? Has your learning been fruitful?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -3313,8 +3185,6 @@ and wealth.
 "O, Bharata! I hope that your conviction, is the same as mentioned by me in the
 foregoing verses, which is conducive to long life, fame, religious merit, enjoyment and
 wealth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -3362,8 +3232,6 @@ path of the virtuous; *shubhaa* = and which is distinguished (in itself).
 
 "Do you follow the common practice, which our fore fathers observed and which is in
 accord with the path of the virtuous and which is distinguished in itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -3410,8 +3278,6 @@ to your friends; *aasham samaanebhyaH* = who wish to receive the same.
 
 "I hope you do not eat by yourself nicely made eatable and do you share it with your
 friends, who seek it?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 </details>
 
@@ -3465,8 +3331,6 @@ from this mortal body; *upaitihi* = and indeed obtains; *svargam* = heaven.
 "A wise and learned king, having obtained and ruled the entire earth, properly by
 righteousness and by administering justice to the people, indeed ascends to heaven when detached
 from the mortal body."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

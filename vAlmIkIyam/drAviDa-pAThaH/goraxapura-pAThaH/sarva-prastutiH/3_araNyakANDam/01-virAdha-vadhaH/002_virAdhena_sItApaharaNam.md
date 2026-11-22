@@ -23,8 +23,6 @@ Viradha the demon confronts Rama and other and tries to abduct Seetha, and
  to own his goddess and hence lifts Seetha into his hands to abduct her away from Rama.
  But Rama and Lakshmana overpower and eliminate him, rescuing not only Seetha, but also
  other saints and sages living thereabout.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -81,8 +79,6 @@ Viradha the demon confronts Rama and other and tries to abduct Seetha, and
 Then, on receiving the hospitality in that hermitage for that day, and on the next
  day before sunrise, Rama bade farewell to all of the sages, and thus entered the deep forests.
  [3-2-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -149,8 +145,6 @@ Rama followed by Lakshmana has indeed seen that midst of the forest which is
  filled with very many animal herds, where the bears and tigers are frequenting, and whose trees,
  creepers, bushes are ruined, water ponds rendered unsightly, birds song-less, but where the
  swarms of crickets are whistling deafeningly. [3-3-2, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -204,8 +198,6 @@ _________________
 
 Therein Rama has seen along with Seetha, a lurid voiced man-eater who is akin to a
  mountain-peak, among horrendous animals. [3-2-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -256,8 +248,6 @@ Therein Rama has seen along with Seetha, a lurid voiced man-eater who is akin to
 
 Deep eyed, huge mouthed, horrible with a monstrous belly, hideously misshapen, and
  a very soaring one that demon is, an ugly one with a horrendous look. [3-2-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -307,8 +297,6 @@ Deep eyed, huge mouthed, horrible with a monstrous belly, hideously misshapen, a
 
 Wearing tiger's skin that is wetted with fat and dampened with blood, he is
  frightening to all beings like the wide-open mouth of Death. [3-2-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -369,8 +357,6 @@ _________________
 He skewered three lions, four tigers, two wolves, ten spotted deer, and a big head
  of an elephant with tusks and fouled with fat on an iron spear, and he is yelling with his
  deafening voice. [3-2-7-8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -425,8 +411,6 @@ He skewered three lions, four tigers, two wolves, ten spotted deer, and a big he
 
 He that demon on seeing Rama, Lakshmana and Seetha ran towards them very angrily,
  like the Time, the Eliminator of people. [3-2-8b-9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -444,8 +428,6 @@ He that demon on seeing Rama, Lakshmana and Seetha ran towards them very angrily
 
 He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
  with his arms and gone afar, and then said this way. [9b-10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -499,8 +481,6 @@ He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
 "You two wear jute cloths like hermits, but handle arrows, bows and swords like
  warriors, yet entered Dandaka forest with your wife... your lives are on the wane...
  [3-2-10b-11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -562,8 +542,6 @@ This demon Viradha could not comprehend their identity prima facie. By their
  goddess in Seetha, he lifts her into his arms, like a baby. This demon while admonishing Rama and
  Lakshmana for flaunting the sainthood, for they are moving with weapons and a wife, he narrates
  about himself in next verses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -614,8 +592,6 @@ This demon Viradha could not comprehend their identity prima facie. By their
 
 "I am a demon named Viradha and I will be on the rove in this impassable forest
  with weapon, always eating the flesh of sages... [3-2-12b-13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -666,8 +642,6 @@ This demon Viradha could not comprehend their identity prima facie. By their
 
 "This best waisted woman will be my wife, and I will drink your blood of you two
  sinful one in a fight with you... [3-2-13b-14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -728,8 +702,6 @@ Here Viradha said that Seetha would become his *
  Further he handles Seetha like a baby, as in 3-2-16, she is said to be *viraadha anka
  gata* , gone into the arm-fold of Viradha as babies would. The peevish ones like Viradha or
  Ravana grab her very quickly for she is Goddess Lakshmi, the presiding deity of wealth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -775,8 +747,6 @@ Here Viradha said that Seetha would become his *
 Seetha in fear wiggled like a plantain tree in a whirlwind, and on seeing at the
  auspicious lady gone into the arms of Viradha, Raghava spoke this sentence to Lakshmana, with his
  face fully turning to pale. [3-2-15b-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -832,8 +802,6 @@ _________________
 "See! Gentle Lakshmana, see that illustrious princes Seetha, the daughter of
  emperor Janaka, one who is brought up comfortably in immense comfort, and my auspiciously
  traditional wife... now gone into the wretched hands of a demon... [3-2-17-18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -887,8 +855,6 @@ _________________
 "That which is desired to befall on us, and that which is the choicest desire of
  Kaikeyi, and that which is concomitant to her boons, oh, Lakshmana, that has come to pass
  quickly, and today only Lakshmana... [3-2-18b-19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -937,8 +903,6 @@ _________________
 "She who is a foresighted lady, she who is not happy with the kingdom for her son,
  she by whom I, a dear one to all beings, am sent to forests, and she is my middle mother, her
  desire is fulfilled today, nay now itself... [3-2-19b-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -1003,8 +967,6 @@ Here Rama says that 'my' kingdom is grabbed away, and now the grabbing away of
  terms of his father's death and grabbing away of his kingdom. Raajya Lakshmi, Kingdom Wealth is
  nothing before his wife, Wealth of Fortune, i.e. Bhaagya Lakshmi. Hence Rama is more bothered
  about his fortune wife than the retrievable kingdom, or the death of an aged father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -1064,8 +1026,6 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
  *aadi SheSa*, the thousand headed serpent on which Vishnu reclines. The mythological
  derivation is that Lakshmana is the incarnation of that serpent, while Bharata and Shatrughna are
  the incarnations of the conch shell and disc that adorn the two upper hands of Vishnu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -1116,8 +1076,6 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 
 "Oh, Rama, you being the Indra like lord of all beings, and while you are being
  attended by an adherent like me, what for you worry yourself like a derelict? [3-2-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -1167,8 +1125,6 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 
 "He will now be felled with my arrow as I am enraged at him, and gone are his
  lives now, and indeed the earth shall drink his blood... [3-2-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -1218,8 +1174,6 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 "Indeed, that which anger was there to me on Bharata when he desired kingdom, that
  anger I will now release on Viradha, as Indra released his Thunderbolt on the mountain...
  [3-2-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 </details>
 
@@ -1277,8 +1231,6 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 "Accelerated by my shoulder strength this ruinous arrow shall fall on his massive
  chest, thus life from his body shall decamp, and then he shall whirlingly fall onto the earth..."
  So said Lakshmana. [3-2-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

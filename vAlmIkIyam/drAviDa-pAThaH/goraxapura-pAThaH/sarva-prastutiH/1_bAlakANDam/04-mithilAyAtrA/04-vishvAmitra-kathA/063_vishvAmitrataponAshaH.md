@@ -19,8 +19,6 @@ Absolute-sageship. In the meanwhile, the celestial wench Menaka arrives at that
 place and Vishvamitra is enticed by her beauty and spends some years with her. Later,
 on realising the he should have won over lust, he further undertakes severe ascesis,
 by which gods are perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ suraaH* = all, gods; *tapaHphalacikiirSavaH* = wishing
 took a bath of solemnity, all the gods have come forward wishing to accord the fruit
 of that ascesis to Vishvamitra." Thus Sage Shataananda continued the legend of Vishvamitra.
 [1-63-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ a 'kingly sage' *raajaSi* and to attain a still higher *brahmarSi*
 'Absolute sageship' you are not yet merited... as the Absolute sageship will be
 endowed to those who are above the negative traits of humans, like greed, anger,
 lust, jealousy etc.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ vigorous Vishvamitra again performed a great ascesis. [1-63-3]
 
 The word *vi* in the name of Vishvamitra is taken as the third syllable in
 Gayatri Hymn.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ swimming for sport.
 
 Then at a long lost time Menaka, the prominent apsara, celestial wench, has arrived
 and started to swim for sport in that holy lake. [1-63-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -259,8 +249,6 @@ an incomparable one; *taam menakaam dadarsha* = he has seen at her, Menaka.
 That great resplendent sage Vishvamitra has seen Menaka who is incomparable in
 her mien and comparable to an electric-flash in a black-cloud, while she is swimming
 in the holy lake. [1-63-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ in the holy lake. [1-63-5]
 On seeing her the sage having gone under the sway the Love-god said this to her,
 'oh, apsara, you are welcome, I invite you to bide in my hermitage. Oblige me who
 am bewitched by Love-god for you. You be safe.' [1-63-6, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -385,8 +371,6 @@ vyaticakramuH* = years, comfortably, elapsed; *vishvaamitram* = to Vishvamitra;
 When he said thus to her, oh, Raghava, then she made a stopover there and ten years
 rolled by comfortably, and oh, gentle Rama, because of her staying Vishvamitra is
 indeed faced with a great hindrance in his ascesis. [1-63-7b, 8, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -458,8 +442,6 @@ buddhiH samutpannaa* = thought, occurred.
 Then after the lapse of that ten year period Vishvamitra became doleful with distress
 and he is enwrapped in humiliation, as it were, and, oh, Rama, Raghu's legatee,
 then a resentful thought occurred to him. [1-63-9b, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -511,8 +493,6 @@ All this is the mischief of gods to defraud me of the great merit of my ascesis.
 Ten years have rolled by as if they are just a day and a night. Furthermore, I who
 am under the influence of lust and lure had to encounter this hindrance in my ascesis.
 [1-63-11, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -589,8 +569,6 @@ Oh, Rama, that best saint suspired heavily when he became emotional with reparat
 But on seeing the scared celestial wench Menaka, who is shivering and waiting with
 suppliantly adjoined palms, he sent her away with pleasant words, and he that Vishvamitra
 indeed went to the northern Himalayan mountain. [1-63-12b, 13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -633,8 +611,6 @@ naiSThikiim buddhim kR^itvaa* = on making resolve for sang-froid temperament;
 He that highly celebrated sage who made a resolve to attain a sang-froid temperament
 and to vanquish lust, performed an unsurpassable ascesis on reaching the riverbank
 of River Kaushiki. [1-63-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -676,8 +652,6 @@ mountain; *varSasahasraaNi* = thousand years; *ghoram tapaH upaasataH*
 Oh, Rama, while he reverently performed an unspeakable ascesis for a thousand years
 on the northern mountain, namely Himalayas, then fear occurred to gods. [1-63-15b,
 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -720,8 +694,6 @@ on the northern mountain, namely Himalayas, then fear occurred to gods. [1-63-15
 ' All gods coming together with assemblages of sages have approached Brahma and conveyed
 that, 'this Vishvamitra, the son of Kushika, may duly be given the epithet of 'Maharshi,
 Exalted Sage.' [1-63-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -766,8 +738,6 @@ vaakyam abraviit* = spoke pleasant words.
 
 On listening the advice of gods, Brahma, the Grandparent of all the worlds, spoke
 these pleasant words to the ascetically wealthy Vishvamitra. [1-63-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -784,8 +754,6 @@ these pleasant words to the ascetically wealthy Vishvamitra. [1-63-17b, 18a]
 'Oh, exalted sage, I welcome you my dear, as I am gladdened by your stern ascesis,
 oh, Kaushika, I bestow upon you the sublimity and supremacy among sages.' [1-63-18b,
 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -837,8 +805,6 @@ _________________
 'If your Godhead had said that I am a Brahma-sage, a sageship acquired personally
 by my pious deeds, rather than an exalted sage, then I would have become one who
 is really self-conquered.' Thus Vishvamitra said to Brahma. [1-63-20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -855,8 +821,6 @@ praanjaliH praNataH bhuutvaa* = on becoming obeisant with well-adjoined palms;
 And on hearing the words of Brahma he that ascetically wealthy Vishvamitra became
 obeisant and replied the Grandparent adjoining his palms suppliantly. [1-63-19b,
 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -898,8 +862,6 @@ jitendriyaH taavat na* = you are, not as such with conquered senses;
 
 Brahma then said to him, 'your senses remain unconquered as such, oh, tigerly sage,
 make an effort for it.' Saying so Brahma went heavenward. [1-63-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -942,8 +904,6 @@ insecurely standing in levitation; *vaayubhakSaH* = subsisting on air;
 While the gods who came here along with Brahma have returned, that great sage Vishvamitra
 undertook another round of ascesis by standing in levitation, upraising his arms,
 and subsisting on air alone. [1-63-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -1002,8 +962,6 @@ Five fires are four Fires in four directions and the fifth one is the scorching
 sun, overhead. An ascetic staying among these five fires will become an ascetic
 fire. The first word in first foot *dharme*, will also used as *gharme*,
 as above, in some mms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -1044,8 +1002,6 @@ very high, burning [problem]; *aasiit* = it became.
 
 While that great saint is undertaking fervent ascesis it has become a very high
 burning problem to gods and even to Indra. [1-63-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 </details>
 
@@ -1095,8 +1051,6 @@ assemblages; *aatmahitam* = advantageous for himself; *kaushikasya*
 celestial wench, words that are advantageous to himself, but disadvantageous to
 the son of sage Kushi, namely Vishvamitra." Thus Sage Shataananda continued his
 narration. [1-63-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

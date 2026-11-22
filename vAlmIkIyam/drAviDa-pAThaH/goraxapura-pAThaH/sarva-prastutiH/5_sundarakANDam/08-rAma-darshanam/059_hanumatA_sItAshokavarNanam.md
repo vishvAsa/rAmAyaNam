@@ -19,8 +19,6 @@ he is capable of destroying that City of Lanka with its troops of demons, and ki
 so when accompanied by heroic, mighty and powerful monkeys. Then, he recounts the past heroic exploits
 of Jambavan, Angada, Neela, Panasa, Mainda and Dvivida. Hanuma thus incites them all to decide consciously
 of a war against Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ words.
 
 After informing all this, Hanuma the son of wind-god started telling more of the following
 words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ also; *pravaam* = is devoted (to her).
 
 "By the power of virtuousness of Seetha, Rama's effort and Sugreeva's zeal are getting
 fulfilled. My mind too is devoted to her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ kruddhovaapi* = even if he is enraged; *nirdahadapi* = he can scorch away (his e
 
 "Ravana, the king of demons, who is strong in all ways, can burn away the three worlds
 by the power of his penance. Even if he is enraged, he can scorch away his adversaries."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -226,8 +218,6 @@ touched; *paaNinaa* = with one's hand; *na kuryaat* = cannot do; *tat* = that;
 "His body, which touched Seetha the daughter of Janaka, was not destroyed because of
 his askesis. Even a flame, when fully touched with one's hand, cannot do that which Seetha would, if
 stirred by anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -302,8 +292,6 @@ discovery); *nivedite* = which has been informed; *bharataam* = to you; *evam ga
 "This work (of mine in the form of Seetha's discovery) has been informed to you in this
 way. It is indeed proper to see those two princes (Rama and Lakshmana) along with Seetha, after taking
 permission from all the great monkeys headed by Jambavan.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -353,8 +341,6 @@ alone; *hantum* = to destroy; *taam laN^kaam puriim* = that City of Lanka; *sara
 
 "I am sufficient, even alone; to destroy rapidly that City of Lanka together with those
 troops of demons as also the mighty Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -376,8 +362,6 @@ so?
 
 "When accompanied by you, who are strong, whose spirit is disciplined, who are proficient
 in the use of arms, valiant, longing for victory and moving by jumps, how much more is required?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -417,8 +401,6 @@ in the use of arms, valiant, longing for victory and moving by jumps, how much m
 
 "In the battle, I on my part will kill Ravana along with his army, his forerunners, his
 sons and his brothers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -500,8 +482,6 @@ son); *haniSyaami* = I can kill; *raakSasaan* = the demons.
 "In the battle, I can blow out the missiles presided over by Indra the lord of celestials,
 Brahma the creator, Rudra the god of destruction, Vayu the wind-god, Varuna the god of water and even
 those missiles even if they are difficult to be looked at, employed by Indrajit (Ravana's eldest son).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -552,8 +532,6 @@ much more; *taan* = those; *nishaacharaan* = demons?
 "My prowess, when permitted by you, will frustrate that Ravana. The shower of rocks,
 which will be unequalled and incessant, discharged by me, can kill even celestials. How much more those
 demons?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -574,8 +552,6 @@ demons?"
 
 "The ocean may overflow its shore. Mount Mandara may move from its position. But, in
 battle, no army of adversaries can stagger Jambavan."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -625,8 +601,6 @@ demons who were their progenitors.
 
 "The heroic Angada, the son of Vali alone, is sufficient to destroy all the troops of
 demons and even the demons who were their progenitors."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -676,8 +650,6 @@ even Mount Mandara; *avashiiryeta* = can be shattered; *kim punaH* = How much mo
 
 "By the rapid movement of the thighs of the high-souled Neela and of Panasa, even Mount
 Mandara can be shattered. How much more, the demons in battle?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -719,8 +691,6 @@ yakSeSu* = or the celestials or demons or Yakshas the semi-divine beings.
 "Tell me any one who can fight against Mainda or Dvivida, among Gandharvas the celestial
 singers or Uragas the serpents or Pakshis the birds or the celestials or the demons or Yakshas the semi-divine
 beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -770,8 +740,6 @@ monkeys; *raNaajire* = in the battle-field; *na pashyaami* = I do not find; *pra
 
 "These two illustrious sons of Ashvini Kumaras, Mainda and Dvivida are the foremost among
 the monkeys. In the battle-field, I do not find anyone who can fight against these two monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -850,8 +818,6 @@ supreme pride; *etau* = these; *sarva vaanara sattamau* = two foremost among all
 
 "Proud of having received boons from Brahma the creator and their grandfather and abiding
 in a supreme haughtiness, these two foremost among all the monkeys live on Amrita the nectar."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -872,8 +838,6 @@ of all the worlds; *dattavaan* = gave atulam = an unequal boon; *anayoH* = to th
 
 "Long ago, Brahma the grandfather of all the worlds gave an unequal boon to them in honour
 of Ashvini Kumaras regarding their inviolability."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -889,8 +853,6 @@ of Ashvini Kumaras regarding their inviolability."
 
 "By the pride of those boons, those two heroic monkeys harassed a great army of celestials
 and thereupon drank up nectar, excited as they were with joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -940,8 +902,6 @@ kumjaraam* = along with its horses; chariots and elephants.
 
 "Let all the other monkeys stand aside. Even these Mainda and Dvivida on their part are
 capable of destroying the entire city of Lanka together with its horses, chariots and elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -990,8 +950,6 @@ _________________
 
 "I alone burnt and destroyed the City of Lanka. In all its royal high-ways, the name
 (of Rama and others) was proclaimed by me as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -1063,8 +1021,6 @@ name (of Rama and others); *vishraavitam* = was heralded; *mayaa* = by me; *sarv
 "'Victorious is Rama, the exceedingly strong and the mighty Lakshmana too! Victorious
 is King Sugreeva, protected by Rama. I am Hanuma, a servant of Rama and the son of wind-god'. In this
 way, the name (of Rama and others) was heralded by me everywhere."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -1135,8 +1091,6 @@ who is arrogant of his strength.
 the virtuous Seetha was seen staying dejected, encircled as she was with female-demons, agonized with
 grief and anguish, lusterless like a digit of the moon encircled by a line of clouds and disregarding
 that Ravana who is arrogant of his strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -1210,8 +1164,6 @@ dare* = in the concern of Indra the destroyer of strong holds.
 "Seetha, a devoted and virtuous wife, having charming hips, has been placed under restraint.
 The auspicious Seetha is devoted to Rama in all ways, giving her undivided thought to Rama like Shachi
 the goddess, giving her concern to Indra the destroyer of strong holds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -1286,8 +1238,6 @@ shoka samtaapa diina aNgii* = with her body looking miserable with grief and ang
 "Weaving that single piece of cloth, which she had on her person even while being borne
 away by Ravana, and likewise covered with dust, she was seen by me in a miserable condition with her
 grief and anguish, devoted as she was to the welfare of her husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -1338,8 +1288,6 @@ a royal pleasure-garden; *raakSasii madhye* = amidst female-demons.
 frightened time and again by those ugly female-demons. That Seetha, wearing a single braid of hair and
 looking depressed, was fully engaged in thinking about her lord. Looking like a lotus with a discoloured
 figure in winter, she had determined to die, utterly averting to do anything with Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 </details>
 
@@ -1386,8 +1334,6 @@ Rama and Sugreeva.
 "With great difficulty, I created confidence in that fawn-eyed Seetha. Thereafter, I
 talked to her and explained everything to her. She was delighted to hear the companionship cropped up
 between Rama and Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

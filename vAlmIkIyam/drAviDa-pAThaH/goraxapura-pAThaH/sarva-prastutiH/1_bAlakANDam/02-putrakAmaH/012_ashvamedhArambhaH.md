@@ -17,8 +17,6 @@ Verses converted to UTF_8 Sept, 09**
 King Dasharatha requests the Sages to conduct the Vedic ritual for which the sages indent paraphernalia,
 which the ministers are ordered to supply forthwith. This chapter is almost a replication of chapter
 8, excepting the inclusion of references to Sage Rishyasringa who by now is available in Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ ritual. [1-12-1]
 **टिप्पनी**
 
 Please refer to endnote for Indian seasons and months for vasanta / spring season.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -132,8 +128,6 @@ having convinced; *kulasya santaanaartham* = to beget progeny for dynasty;
 Then bowing his head before that Brahmana sage Rishyasringa whose is glow is like that of a deity, King
 Dasharatha verily beseeched that sage to conduct Vedic ritual on his behalf as he wished to beget progeny
 to maintaining his family line. [1-12-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -195,8 +189,6 @@ river; *uttare tiire* = on northern banks; *yaj~nabhoomiH* = ritual place; *vidh
 Sage Rishyasringa who by now is well-honoured by the king said to the king, "So it shall be, let the
 paraphernalia for ritual be garnered and let your ritual horse be released as a prerogative and
 let the ritual place be decided on the northern banks of Sarayu River...." [1-12-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -262,8 +254,6 @@ other; *dwijasattamaaH* = the scholarly Brahmans; *aavaahaya* = invite.
 Then King Dasharatha said to his best minister Sumantra, "Let the Vedic scholars and ritual conductors
 like Sages Suyajna, Vaamadeva, Jaabaali, and Kaashyapa, along with the family priest Vashishta, as well
 as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4, 5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -337,8 +327,6 @@ Then Sumantra being a quickest person went quickly and fetched all those Vedic s
 Then the virtuous king Dasharatha having offered due worships to all the sages and saints brought in
 by Sumantra, uttered these words which are with virtue and meaning, in an impressible manner. [1-12-6,
 7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -414,8 +402,6 @@ kaamam* = my desire; *praapsyaami cha api* = even I get.
 Vedic Horse Ritual for progeny... I wish to perform the ritual as enshrined in the scriptures and by
 strict observances... I wish to get my desires fulfilled through the divine influence of the Sage's
 son, Rishyasringa... [1-12-8, 9, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -492,8 +478,6 @@ Then "Splendid, splendid is this idea," said the Brahmana scholars blessing the 
 along with all other important personalities have applauded the idea that has come out of the king's
 voice, and all those Vedic scholars and clerj~nmen keeping Rishyasringa at helm of affairs said this
 to the king, in appreciation of that idea. [1-12-10b, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -542,8 +526,6 @@ river; *uttare tiire* = on northern banks; *yaj~nabhoomiH* = ritual place; *vidh
 means get four sons with boundless valour... let ritual paraphernalia be garnered and let your ritual-horse
 be released and let the ritual place be decided on the northern banks of Sarayu River...."
 The Vedic seers thus blessed Dasharatha. [1-12-12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -593,8 +575,6 @@ The Vedic seers thus blessed Dasharatha. [1-12-12, 13]
 
 Then the king is gladdened to hear the blessing advises of the Vedic scholars, and he spoke to the other
 ministers of his court, with happiness derived from those good words. [1-12-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -769,8 +749,6 @@ gets ruined if there were be to be faults... that is why this ritual shall be co
 till its conclusion, and with absolute adherence to the scriptures... since all of you assembled here
 are efficient ones in conducting such rituals without faults, I hope you all will organise carefully....
 [1-12-15,16,17,18, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -813,8 +791,6 @@ are efficient ones in conducting such rituals without faults, I hope you all wil
 
 In appreciation of his orders all the ministers replied the king saying "it will be done accordingly..."
 and indeed they have faultlessly carried out works as ordered. [1-12-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -858,8 +834,6 @@ of them; *punaH jagmuH* = again, returned; *yathaa aagatam* = as they have come.
 Then all the Brahmans applauded the virtuous king and who is like a Sacred Bull among the kings for
 his virtuous endeavour of undertaking the Vedic ritual, and with his permission all of them returned
 from there as they have come. [1-12-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 </details>
 
@@ -909,8 +883,6 @@ his; *veshma* = palace; *pravivesha* = entered.
 On the departure of the prominent Brahmans, King Dasharatha sent off those ministers who are still available
 there for further orders from the king, and then he the great resplendent king has entered his own palace.
 [1-12-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga12/balasans12.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

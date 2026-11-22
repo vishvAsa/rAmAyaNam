@@ -15,8 +15,6 @@ title_english = "014 Hanuma enters the Ashoka garden"
 
 Hanuma enters the Ashoka garden and observes its beauty. He starts looking for Seetha in the garden.
 He thinks that Seetha would definitely come to that garden if she were to be alive.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ wall of that house.
 
 That Hanuma with great resplendence thought for a moment, obtained that Ashoka garden by mind and
 jumped from the compound wall of that house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -152,8 +148,6 @@ of a monkey; *puSpita agraan* = in full blossom; *vasanta aadau* = at the start 
 That great Hanuma with joyful limbs, being on enclosure wall saw various trees such as Sal, beautiful
 Ashoka, Champaka full of flowers, Uddalaka, Naga, mango trees with their fruit in the colour of the snout of a
 monkey, in full blossom at the start of the spring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -169,8 +163,6 @@ surrounded by hundreds of creepers
 
 Thereafter Hanuma flew like a Naracha arrow released from bow string, toward the garden covered
 by mango trees and surrounded by hundreds of creepers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -291,8 +283,6 @@ with varied hues during spring, resounded by birds, with trees made of silver, m
 by birds and groups of animals; wonderful with wonderful trees equaling the Sun at sunrise together with trees
 of various kinds which obtained flowers and fruits, served daily by Cuckoos and by dragon flies, resounded by
 peacocks in heat and with groups of birds of various kinds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -341,8 +331,6 @@ the royal daughter Seetha; *vara aarohaam* = with excellent limbs; *aninditaam* 
 
 Hanuma searching the royal daughter Seetha with excellent limbs and without blame, woke up birds
 in comfortable sleep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -386,8 +374,6 @@ various kinds.
 
 Trees hit by wings of groups of birds in flight shed showers of flowers of various colours and
 of various kinds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -438,8 +424,6 @@ avakiirNaH* = sprinkled with flowers shushubhe = shone; *giriH yathaa* = like a 
 
 The son of Lord Vayu, Hanuma sprinkled with flowers shone like a mountain of flowers in the middle
 of Ashoka garden.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -490,8 +474,6 @@ be) vasanta.
 
 Seeing Hanuma running in all directions and being in the middle of trees, all living creatures
 thought Him to be Vasanta, the lord of spring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -542,8 +524,6 @@ woman.
 
 There the Earth sprinkled by flowers of various kinds which fell down from trees shone like a well
 decorated woman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -591,8 +571,6 @@ shaken; *tarasaa* = by the might; *kapinaa* = of Hanuma; *tarasvinaa* = the migh
 **अनुवादः**
 
 Then those trees, shaken by the might of Hanuma the mighty one, showered wonderful flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -643,8 +621,6 @@ kept down.
 
 The trees with their branches, removed leaves with fallen down fruits and flowers were like defeated
 gamblers with their clothes and jewellery kept down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -693,8 +669,6 @@ fruits.
 **अनुवादः**
 
 The excellent trees shining with best flowers fell down instantly flowers, leaves and fruits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -745,8 +719,6 @@ being resort to branches only; *agamaaH iva* = like trees; *nirdhutaaH* = shook;
 
 All those trees losing groups of birds became being a resort to branches only like trees shook
 by wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -812,8 +784,6 @@ shubha danta oSThii* = with auspicious teeth and lips drunk from; *vikSataa* = w
 Hit by Hanuma's tail, hands and feet, Ashoka garden with broken best trees became like a young
 woman with disturbed hair, with effaced sandal paste, with her auspicious teeth and lips drunk from and wounded
 by nails and by teeth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -857,8 +827,6 @@ clouds of mountain Vindhya.
 
 Hanuma broke circles of great creepers by His might like the wind during rainy season, breaking
 the groups of clouds of mountain Vindhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -908,8 +876,6 @@ floors.
 
 That Hanuma pacing there saw diamond studded floors, silver inlaid floors, and beautiful gold inlaid
 floors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1034,8 +1000,6 @@ by trees of golden hue and of wonderful hue at banks containing beds of lotuses 
 by chakravaka birds nearby, sounded by water fowls, resounded by swans and cranes, together with tall trees, with
 nectar like waters, with hundreds of auspicious creepers, covered by the flowers of santaana trees, surrounded
 by various shrubs with middle regions of karaveera and also wells and in various shapes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1097,8 +1061,6 @@ _________________
 Thereafter the monkey warrior Hanuma saw a mountain which was a beautiful mountain in the world,
 equaling cloud with high peaks, with wonderful peaks surrounded in all directions by peaks, spread by caves and
 covered by different trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1196,8 +1158,6 @@ Hanuma saw river which fell down from the mountain like a beloved (young wife) w
 jumping from the lap of a loved one shone by trees whose ends fell down in water or like a woman in anger being
 detained by her near and dear. That great Hanuma again saw that river with water, turning back like a beloved
 woman reaching her beloved again, being reconciled to her beloved one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1248,8 +1208,6 @@ of birds.
 
 The best among vanaras and the son of Vayu, that Hanuma saw near to that mountain, lotus ponds
 together with many groups of birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1327,8 +1285,6 @@ by Vishwakarma; *kR^itrimaiH kaananaiH ca api* = with groups of artificial trees
 He also saw an artificial pond filled with cold water, with steps embedded with best diamonds,
 shone by the sand of pearls, wonderful forest with very big buildings made by Vishwakarma, with groups of artificial
 trees decorated in all directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1379,8 +1335,6 @@ there; *puSpa upaga phala upagaaH* = with flowers and fruits; *sarve* = all thos
 
 There whatever trees were there with flowers and fruits, all those were together with umbrellas,
 together with big platforms and with smaller golden platforms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1445,8 +1399,6 @@ bahubhiH lataa prataanaiH* = with many groups of creepers; *bahubhiH parNaiH* = 
 
 The monkey warrior Hanuma saw one shimshupaa tree golden in colour covered with many groups of
 creepers and with many leaves surrounded everywhere with platforms made of gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1531,8 +1483,6 @@ amanyata iti* = thought thus; *divaakaraH* = like the sun; *prabhayaa* = by the 
 
 Then the courageous Hanuma thought thus: "Like the sun by the radiance of Mount Meru, by the radiance
 of those trees, I am of golden colour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1546,8 +1496,6 @@ of those trees, I am of golden colour."
 **अनुवादः**
 
 Hanuma saw lands, mountain springs, and some other golden trees equal to fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1605,8 +1553,6 @@ got surprised.
 
 Seeing that shimshupaa tree with groups of trees of golden colour blown by the wind, with the sound
 of hundreds of tinkle bells, Hanuma got surprised.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1665,8 +1611,6 @@ up; *taam* = that shimshupaa tree; *puSpita agraam* = with well flowered ends; *
 
 Hanuma with great arms climbing up that shimshupaa tree with well flowered ends, beautiful tree,
 mature with young shoots and leaves and covered by leaves (thought thus).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1687,8 +1631,6 @@ Rama; *sampatantiim* = while she is moving; *itaH ca itaH ca* = here and there; 
 
 "I will see by God's grace, Seetha who is interested in the sight of Sri Rama while she is moving
 here and there with grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1749,8 +1691,6 @@ of birds; *ramyaa* = is beautiful; *saa raama mahiSii* = that wife of Sri Rama; 
 
 "This pond also served by groups of birds is beautiful; that wife of Sri Rama definitely will come
 for this pond."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1770,8 +1710,6 @@ Ravana; *dR^iDham* = is definitely; *ramyaa* = beautiful; *vibhuuSitaa* = it is 
 
 This Ashoka garden of evil-souled Ravana is definitely beautiful; it is well decorated by Champaka
 trees, by sandal trees and by Vakula trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1853,8 +1791,6 @@ Sri Rama; *satii* = a chaste wife; *raama* = soul captivating one; *vana samcaar
 
 "The wife of Sri Rama dear to Sri Rama, a chaste wife, soul captivating one, expert at moving in
 forest, that Janaki will definitely come."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1870,8 +1806,6 @@ the thought of Sri Rama; *saa aarya* = that noble one; *eSyati* = will come; *ih
 
 "Otherwise one with the eyes of a deer, emaciated by the thought of Sri Rama, that noble one will
 come for this garden."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1922,8 +1856,6 @@ _________________
 
 "Tortured by grief for Sri Rama, with beautiful eyes, interested always living in the garden, that
 Devi moving about in the garden will come."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -1969,8 +1901,6 @@ garden; *nuunam* = this is true.
 
 "The beloved wife of Sri Rama, the daughter of king Janaka, the chaste wife, earlier always was
 interested the denizens of the garden. This is true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -2023,8 +1953,6 @@ water; *sandhyaarthe* = for Sandhya rite.
 
 "The ever youthful one with the best complexion, Seetha interested in the rites of Sandhya time
 will definitely come to this river with the auspicious water for Sandhya rite."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -2077,8 +2005,6 @@ to that Seetha; *iyam ashoka vanikaa* = this Ashoka garden; *shubhaa* = an auspi
 
 "Whoever Seetha, the auspicious wife, a dear one of Sri Rama, the king of kings, to that Seetha
 this Ashoka garden, an auspicious one, is well suited also."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -2130,8 +2056,6 @@ water.
 
 "That Devi with the face like that of the moon, if alive, she definitely will come for this river
 with auspicious water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 </details>
 
@@ -2190,8 +2114,6 @@ sarvam dadarsha* = saw everything; *avekSamaaNaH ca* = observing everywhere.
 
 The great-souled Hanuma thus thinking being concealed in the mass of well flowered leaves saw everything
 observing everywhere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

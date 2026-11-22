@@ -17,8 +17,6 @@ title_english = "027 Trijata s dream"
 
 In this chapter an ogress named Trijata describes her dream. She dreams of Sri Rama triumphs and
 the ogre Ravana is conquered.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ _________________
 
 Thus spoken to by Seetha, ogresses swooned with anger terribly. Some went to tell that to Ravana
 the evil minded one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ _________________
 
 Therafter ogresses with a terrible appearance neared Seetha and ten agin spoke words of evil purpose,
 with a single meaning and which were harsh.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ with a single meaning and which were harsh.
 
 "O ignoble one! O one with a sinful resolve! O Seetha! Today at this moment ogreeses will eat this
 your flesh according to comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ words.
 
 Then, seeing Seetha frightened by those evil ones, an ogress named Trijata, sleeping till then,
 spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ king Dasaratha.
 
 "O evil ones! Eat your selves. You will not eat Seetha who is the dear daughter of king Janaka
 and daughter-in-law of king Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ _________________
 
 "Now a dream which is terrible, causing the hairs to stand erect for the destruction of ogres and
 for the welfare of Her husband, has been seen by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ _________________
 **अनुवादः**
 
 Thus spoken to by Trijata all ogresses were frightened and spoke to that Trijata these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -453,8 +437,6 @@ vachanam* = (this) word; *svapna saMshritam* = relating to the dream.
 
 "Of what kind is this dream seen by you. Tell us". Listening to this utterance that came forth
 from the mouths of those ogresses, Trijata spoke at that time this word relating to the dream.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -470,8 +452,6 @@ sahasreNa* = with a thousand swans; *aagataH* = arrived; *lakshmaNena saha* = al
 
 "Rama wearing white garlands and clothes passing through the sky, Himself ascending a palanquin
 made of ivory tied with a thousand swans, arrived along with Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -524,8 +504,6 @@ white clothes; *aasthitaa* = was sitting; *shvetam parvatam* = on a white mounta
 
 "Now it has been seen by me in the dream that Seetha also wearing white clothes was sitting on
 a white mountain surrounded by the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -574,8 +552,6 @@ on a great elephant; *chaturdraShTram* = with four tusks; *shailasaMkaasham* = e
 
 "Seetha came together with Rama like the light with the Sun. Rama also was seen by me to be mounted
 on a great elephant with four tusks and equalling a mountain and Rama wandered together with Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -625,8 +601,6 @@ two; *narashaarduulau* = best among men (Rama and Lakshmana); *paryupasthitau* =
 
 "Thereafter shining with their own radiance, wearing white garlands and clothes, those two best
 among men Rama and Laksmana neared Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -667,8 +641,6 @@ the sky; *parigR^ihiitasya* = taken; *bhartraa* = by Her husband Rama; *agre* = 
 
 "Thereafter Seetha rested on the upper part of back of elephant in the sky; taken by Her husband
 Rama to the front of that mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -722,8 +694,6 @@ _________________
 
 "Thereafter it has been seen by me that Seetha with eyes like lotuses has risen up from the lap
 of Her husband and gently touched the Moon and the Sun with Her hand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 </details>
@@ -764,8 +734,6 @@ of Her husband and gently touched the Moon and the Sun with Her hand."
 
 "Thereafter that best elephant ascended by those princes Rama and Lakshmana and by Seetha with
 wide eyes stood on the top of Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ yuktena aShTa yujaa* = tied with eight white bulls;
 **अनुवादः**
 
 "Rama together with wife Seetha, Himself came here in a chariot tied with eight white bulls."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -896,8 +862,6 @@ aeroplane; *suurya sannibham* = equalling the Sun; *jagaama* = went; *aalokya* =
 
 "The valorous best among men Rama together with brother Lakshmana and with Seetha ascended wonderful
 Pushpaka aeroplane equalling the Sun, went in the northern direction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -913,8 +877,6 @@ Lord Vishnu; *raaghavaH* = born in Raghu's dynasty; *saha* = together; *bhraatra
 
 "Rama with strength equalling that of Lord Vishnu, born in Raghu's dynasty together with brother
 Lakshmana and with Seetha has been seen by me thus in the dream."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -961,8 +923,6 @@ by ogres; *anvairvaa* = or by others; *svargaH iva* = like heaven; *paapajanaiH*
 
 "Rama with great glory is not possible to be defeated by Suras or by ogres or by others like heaven
 not being conquerable by sinners."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1017,8 +977,6 @@ oil; *mattaH* = intoxicated;
 
 "Ravana also was seen by me on earth sprinkled with oil, with red clothes, with garlands tied with
 Oleander flowers, drinking oil and intoxicated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1034,8 +992,6 @@ Oleander flowers, drinking oil and intoxicated."
 
 "Now Ravana fallen down on to earth from Pushpaka aeroplane having the head shaved, wearing black
 clothes again was seen to be pulled by a woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1094,8 +1050,6 @@ drinking; *tailam* = oil; *hasan* = laughing; *nR^ityan* = dancing; *bhraanta ch
 
 "Wearing red garlands and unguents, drinking oil, laughing, dancing, with a confused mind, with
 agitated senses, Ravana went by a chariot tied by donkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1117,8 +1071,6 @@ the donkey; *avaakchiraaH* = with head down.
 
 "Undertaking southern direction, Ravana went quickly by a donkey.Again it was seen by me that the
 king of ogres Ravana stupefied with fear, fell down from the donkey with head down."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1197,8 +1149,6 @@ _________________
 "That Ravana rising up quickly, together with perplexity, distressed with fear, excited by passion,
 being naked, like a mad man, prattling many bad words, entering dirt with a bad smell, which was intolerable,
 horrible, dark, like the hell and quickly sank in that."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1219,8 +1169,6 @@ in southern direction.
 
 "A woman with red clothes, who was black, with body smeared with dirt, tying Ravana by the throat,
 was pulling hiim in southern direction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1280,8 +1228,6 @@ _________________
 
 "In that dream the ogre Kumbhakarna has been seen thus by me. All Ravana's sons have been seen
 to be sprinkled with oil."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1295,8 +1241,6 @@ camel; *prayaataaH* = set out; *dakshiNaam disham* = in southern direction.
 **अनुवादः**
 
 "Ravana by a pig, Indrajit by a porpoise, Kumbhakarna by a camel set out in southern direction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1369,8 +1313,6 @@ be having a white umbrella; *shuklamaalyaambaradharaH* = wearing white garlands 
 
 "Among those Vibhishana is the only one who has been seen by me to be having a white umbrella,
 wearing white garlands and clothes and anointing body with white unguents."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1413,8 +1355,6 @@ saartham* = together with four ministers.
 "Vibhishana is there adorned with the sound of conch shells and kettledrums, with dances and songs,
 ascended a best elephant equalling a mountain with the sound of a thundering cloud, with four tusks. He approached
 the sky together with four ministers"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1434,8 +1374,6 @@ the sky together with four ministers"
 
 "An assembly also of ogres drinking oil and wearing red garlands, with red clothes, with the sound
 of songs and musical instruments has been seen by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1451,8 +1389,6 @@ elephants; *bhagnagopuratoraNaa* = with broken gates and arches; *patitaa* = fal
 
 "This beautiful city of Lanka has also been seen together with horses and elephants with broken
 gates and arches fallen down in the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1495,8 +1431,6 @@ Ravana; *dR%iShTaa* = has been seen; *mayaa* = by me; *svapne* = in the dream; *
 
 "Lanka protected by Ravana has been seen by me in the dream to be burnt by a quick Vanara who is
 a messenger of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1544,8 +1478,6 @@ cha* = and also dancing a lot.
 
 "In Lanka horrible with ash, all ogresses were drinking oil, laughing heartily with a great noise
 and also dancing a lot."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1594,8 +1526,6 @@ _________________
 
 "All these best among ogres such as Kumbhakarna and others taking a red cloth entered a hole filled
 with cow dung."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1645,8 +1575,6 @@ _________________
 
 "Go away! Be destroyed! Rama will get Seetha. With a great anger He will get you killed together
 with other ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1688,8 +1616,6 @@ _________________
 
 "Rama will not approve frightening ot threatening His dear wife who is highly valued by Him, who
 followed Him to live in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1733,8 +1659,6 @@ me* = to me.
 
 "For that reason, enough of cruel words. Gentle words indeed be said. Let us request Seetha. This
 is agreeable to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1782,8 +1706,6 @@ is agreeable to me."
 
 "Which woman while being sorrowful, such type of dream has been seen, that woman being released
 from various sorrows, will get unsurpassed pleasure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1833,8 +1755,6 @@ raaghavaat* = from Rama; *ghoram bhayam* = a horrible fear; *upasthitam* = has c
 
 "O ogresses! Entreat Seetha who has been frightened. What is the use with a desire to speak. From
 Rama a horrible fear has come to ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1910,8 +1830,6 @@ who is wide eyed; *a~NgeShu* = in Her limbs; *susuuskhmamapi* = even a minute; *
 "O ogresses! This Seetha daughter of Janaka, pleased with prostration is competent to protect us
 from great danger. And also I do not see in Her who is wide eyed, in Her limbs even a minute misshapen characteristic,
 even insignificant one."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -1961,8 +1879,6 @@ even insignificant one."
 
 "I see an imperfection in complexion alone. I doubt that this princess who came near an aeroplane
 in my dream, who is not suited to sorrows received sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -2004,8 +1920,6 @@ motive; *vaidehyaaH* = of Seetha; *upasthitaam* = coming near; *raakshasendra vi
 
 "I am seeing Seetha coming near accomplishment of motive. I also see the destruction of Ravana
 also and victory of Rama coming near."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -2046,8 +1960,6 @@ dR^ishyate* = is being seen ( by me).
 
 "Being a cause to listen to a great pleasure of Her, this throbbing eye long like a lotus petal
 is being seen my me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -2093,8 +2005,6 @@ is being seen my me."
 **अनुवादः**
 
 "One left arm of this strightforward Seetha suddenly has become erect and is slightly trembling."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -2134,8 +2044,6 @@ is being seen my me."
 
 "Seetha's best left thigh equal to an elephant's trunk is trembling indicating Rama's standing
 in front of Her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 
@@ -2190,8 +2098,6 @@ impelling (Seetha).
 
 "A bird also entering its dwelling place on a branch again and again speaking best consolating
 words, is telling heartily welcoming words being delighted again and again, as though impelling Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
 </details>
 

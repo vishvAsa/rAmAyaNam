@@ -16,8 +16,6 @@ title_english = "046 Ravana praises Seetha s beauty"
 Ravana praises Seetha's beauty by extolling every limb of hers, though he enters like a Brahman sanyaasi,
 a friar. He indulges in a most untoward laudation that is unbefitting for a saintly and elderly almsman.
 Unable to refute him, because he is in such a pious garb, she had to invite him as an untimely guest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -80,8 +78,6 @@ bhR^isham* = very much; *vi kaankSan* = verily, yearning [to see Rama]; *na cira
 Raghava's younger brother Lakshmana is very much infuriated at Seetha who spoke to him rudely, as such
 he journeyed towards Rama at once as though he is yearning to see Rama immediately, albeit his heart
 wanted him to stand guard to Seetha. [3-46-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -136,8 +132,6 @@ moved towards - approached.
 
 Quickly taking hold of intervallic time then the ten-headed Ravana approached Vaidehi adopting an aspect
 of a sanyaasi, a meandering Brahman friar. [3-46-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -212,8 +206,6 @@ ca mano daNDaH kaaya daNDaH tathaiva ca | yasya ete nihitaa buddhau sa tridaNDii
 the word *daNDa* means 'repressing, suppression, control...' thus a sanyaasi has to control his 'speech,
 mind, and body... by that alone he is renowned as sanyasi... Manu. As such, Ravana is in the getup of
 an unmistakable Brahman sanyaasi, with an unbridled tongue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -272,8 +264,6 @@ two brothers, without - she who is - Seetha; *taam* = her; *suurya candraabhyaam
 As with a pitchiest gloom overcoming the sunless and moonless lively eventide, that great-mighty Ravana
 came over to Vaidehi in that forest, when she is without two of the brothers, namely Rama and Lakshmana.
 [3-46-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -340,8 +330,6 @@ then looked over the glorious and youthful princess Seetha. [3-46-5b, 6a]
 Rohini is the principle star and dear wife of the Moon will be in lunar asterism of the same name, and
 when she comes in the view of planets like Saturn and Mars astrology predicts earthly havocs. Hence,
 Ravana is compared with such a planet and Seetha with Rohini.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -397,8 +385,6 @@ also; *na pra vaati* = not, in full, swing.
 
 On observing ferocious Ravana whose activities are iniquitous, the trees of Janasthaana are not in full
 sway, nor the wind is in full swing. [3-46-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -421,8 +407,6 @@ The reaction of the trees, wind, and river is as said by gods to Brahma in Bala 
 the Sun will not verily parch Ravana. Maarutha, the Air will not surge at his sides. On seeing Ravana,
 the lord of the undulating, drifting waves, Ocean... will not pulsate either, and will hide the undulating
 waves, for the waves are his wives, and Ravana may abduct them... like Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -476,8 +460,6 @@ Ravana; *tat antare* = in that, meanwhile; *bhikSu ruupeNa* = sanyaasi, in the g
 
 In the meanwhile the Decahedron demon Ravana, who is all the while waiting for some lapse of Rama, neared
 Vaidehi in the getup of a sanyaasi. [3-46-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -526,8 +508,6 @@ iva* = to Star Citra, as with; *abhyavartata* = made advances to.
 That disgraceful Ravana made advances in a graceful mien of Brahman almsman to Vaidehi who is thinking
 over her husband, like the slow moving Saturn making advance to Star Citra which will be ominous. [3-46-9b,
 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -591,8 +571,6 @@ when he put it in the mouth of Shakuntala as she was being repudiated by Dushyan
 *ko anyo dharma
 kancuka praveshinaH tR^iNa kuupa upama asya tava anukaari bhaviShyati - abhij~naana shaakuntalam*
 Act 5.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -685,8 +663,6 @@ While standing before her then Ravana eyed at the auspicious wife of Rama, whose
 fine, visage is shiny like a full moon, and who is presently tortured by her tearful lamentation and
 sitting in the straw-cottage, and he approached that lotus-petal eyed Vaidehi who is dressed in ochry
 silks, as that night-walker is gladdened at his heart for her solitude. [3-46-11b, 12,13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -743,8 +719,6 @@ spoke.
 He who is hit by the arrows of Love-god that king of demons Ravana, on seeing Seetha entered resonating
 the resonances of Vedic-hymns as precursory in seeking alms, and spoke these well-mannered sentences
 to her who is in solitariness. [3-46-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -793,8 +767,6 @@ acclaimed, really.
 Ravana really acclaimed her who is an excellent one in all the three worlds, beaming forth with the
 beauty of her body, and who is like Goddess Lakshmi but for Divine-lotus as Her settle, for Seetha is
 devoid of her settling, namely Rama. [3-46-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -855,8 +827,6 @@ paada kamala*... 'lotus-eyes, lotus-face, lotus-stalk like hands and lotus-feet 
 word* padmini* also means a 'lake' besides the runner of lotus plant. The first compound is also read
 as: *raupya kaancana aabhaa* meaning 'shining like silver and gold...' but it is in limited mms and with
 very limited use.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -925,8 +895,6 @@ iishvarii... *and for each of these attributes, a presiding deity is there with 
 Here the *hrii *is also taken to mean *bhuu devi *'Mother Earth' another wife of
 Vishnu. The addressing *varaarohe *etc., are the attributes of the addressees as a beautiful
 woman in the group of: *varaarohaa, matta kaashinii, uttamaa, vara varNiniii - amara kosha *
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -984,8 +952,6 @@ black, starred [irises, pupils are black.]
 
 "Your teeth are evenly, smooth and their tips are like jasmine buds, and your whitish broad eyes are
 spotless, reddish at ends, and pupils are black. [3-46-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1055,8 +1021,6 @@ fruit, like; *rucirau* = beautiful.
 ornamented with best jewellery are rotund, rubbing and bumping each other, and they are swinging up
 and up, their nipples are brawny and jutting out, and they are smoothish like palm-fruits, thus they
 are covetable for they are beautiful. [3-46-19, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1116,8 +1080,6 @@ breasts extrusive to each other.
 "Oh, allurer, your smile is alluring, teeth are alluring, and your eyes allure, oh, beauty, your waist
 is palmful, your hair velvety, your breasts are jostling, and you rob my soul as a spate robs riverbank.
 [3-46-21, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1176,8 +1138,6 @@ no.
 "I have not hitherto seen any earthly female with this kind of features on the face of earth; or, a
 goddess - no; a gandharva female - no; yaksha female - no; kinnaraa female - no, none whosoever! [3-46-22b,
 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुति::</summary>
@@ -1246,8 +1206,6 @@ up [maddening, I marvel why.]
 
 "I marvel why an excellent one in all the three worlds by her features, more so, fragile and youthful
 as yourself should be living here in the thick of forest. [3-46-23b, 24, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1263,8 +1221,6 @@ ones, by wish, guise-changers; *raakSasaanaam vaasaH* = for demons, dwelling-pla
 
 Such as you are you go back, let safety betide you, as you are unsuited to live in here, for this forest
 is the dwelling for ghastly demons who by their wish will be changing their guise. [3-46-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1324,8 +1280,6 @@ pleasure-gardens, also - they alone; *tvayaa aacaritum yuktaani* = by you, to sa
 
 "Delightful rooftops of skyscrapers, flourishing and richly fragranced pleasure-gardens of cities alone
 are meetly to you to saunter. [3-46-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1384,8 +1338,6 @@ meetly to you, oh, lady with black pupils, hence it is meet and right to you to 
 "Getting at you, the garlands, scents, foodstuffs, or clothing, they all become the best, because you
 are the best beauteous one, as such, he alone becomes a best person who gets you as his wife, and it
 is meet and right to you to choose such a husband, [aside: me alone.] [3-46-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1452,8 +1404,6 @@ marut gaNaa-s, *Wind-gods? Or, because earth has ancient connections with *aSTa 
 eight-Vasu-s, do you belong to any one of them?' Further, Seetha is not smiling throughout this
 chapter as her mind is set on her husband's safety. Nevertheless Ravana assumes that if Seetha
 smiles, that smile will be impeccable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1506,8 +1456,6 @@ na* = gods, no; *kinnaraaH ca na* = kinnaraa-s, also, no; *ayam raakSasaanaam va
 
 "This is the dwelling-place of demons, and no goddess, nor a gandharva, nor a kinnara can arrive here,
 but how you have come here? [3-46-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1562,8 +1510,6 @@ katham na bibhyase* = from them, how, not, frightened you are.
 
 "Here, simians, lions, leopards, tigers, likewise other predators, bears, tigers, vultures will be moving.
 How you are not frightened from them? [3-46-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1617,8 +1563,6 @@ how, not, you are scared.
 
 "Being alone in this forest, oh, lady with a lovely face, how you are unafraid of horrendous and mighty
 elephants possessed of rut? [3-46-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1674,8 +1618,6 @@ elephants possessed of rut? [3-46-30b, 31a]
 "Oh, auspicious lady, who are you? Whose are you? Also from where are you? And being lonely, what for
 you are moving in dreadful Dandaka forest that is adored by demons?" Thus Ravana spoke to Seetha. [3-46-31,
 32b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1740,8 +1682,6 @@ all, [casual] guest, [affordable] respects; *puujayaamaasa* = she started to rev
 When the wicked minded Ravana praised her in this way, Vaidehi the princess from Mithila has seen him
 who has arrived in the getup of Brahman and started to revere him with all the respects affordable to
 a casual guest. [3-46-32b, 33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1798,8 +1738,6 @@ to him.
 
 She firstly fetched a seat him, then invited him with water for feet-wash, and then said to him who
 looked gracious in his bearing, 'alms are ready.' [3-46-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1913,8 +1851,6 @@ parivraajaka *etc. A Brahman alone is eligible to take up *sanyaasa *
 the sanyaasi-hood is taken he is no more a Brahman and his bodily being neutralises in the Absolute,
 and such a sanyaasi shall drag on his body, without comfortable bodily needs, until his natural
 death. But Seetha is addressing him contrary to his stance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -1976,8 +1912,6 @@ victuals]; *tvat artham siddham* = for your, sake, ready; *iha avyagram upabhujy
 "Oh, Brahman, this is the Darbha-grass-seat and you be seated comfortably, here is water, receive it
 for hand and feet wash, here is the forest grown victuals for your sake... dine on them relaxedly..."
 Thus Seetha said to Ravana. [3-46-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -2044,8 +1978,6 @@ started to dedicate.
 Ravana thoroughly observed that wife of the king, Maithili, when she invited him talking civilities
 contextual in inviting a guest, that too Brahman sanyasi, and he firmed up his mind to abduct her even
 forcibly, and started to dedicate himself for destruction. [3-46-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 </details>
 
@@ -2113,8 +2045,6 @@ she saw.
 Then she looked forward for her shapely husband who has gone on a hunting game, and who must be returning
 along with Lakshmana, and though she looked intently she could only see the green backdrop of that great
 forest, but not Rama or Lakshmana. [3-46-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

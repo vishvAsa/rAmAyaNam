@@ -20,8 +20,6 @@ Amshuman's search for horse reveals that Kapila rendered his paternal-uncles
  whereby the souls are cleansed and they go to heaven. Amshuman reports
  the same to King Sagara, but Sagara not finding any way to get River
  Ganga onto earth departs to heaven at the end of his time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ Amshuman's search for horse reveals that Kapila rendered his paternal-uncles
  oh, Rama, king Sagara spoke this to his grandson, Amshuman, who is radiant
  with his own self-resplendence." Thus Vishvamitra continued his narration
  about Sagara. [1-41-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ _________________
  thus you search the course of your paternal uncles, also him by whom
  the horse is stolen.' Thus King Sagara started speaking to his grandson
  Amshuman. [1-41-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ _________________
 The living beings in netherworlds of earth are intrepid and they
  are extraordinary also, hence you take your bow along with your sword
  to retaliate them in the event of their attacking you. [1-41-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ The living beings in netherworlds of earth are intrepid and they
  of tracking the ritual-horse, and thus you comeback safely and let my
  Vedic-ritual be crossed over to the other shore of mortality by you.'
  Thus king Sagara told his grandson Amshuman. [1-41-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ The living beings in netherworlds of earth are intrepid and they
 
 When the great-souled king Sagara has thoroughly said in this way,
  that adroitly agile Amshuman proceeded wielding a bow and a sword. [1-41-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ _________________
 Motivated by the King Sagara, oh, Rama, the best one among men, Amshuman
  progressed on the walkway that was hollowed out by his great-souled
  paternal-uncles inside the earth. [1-41-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -362,8 +348,6 @@ serpents; *puujyamaanam* = being venerated; *dishaagajam apashyata*
 And he that resplendent Amshuman beheld one of the four directional
  elephant of the earth which is being venerated by gods, monsters, demons,
  imps, vultures and serpents. [1-41-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -410,8 +394,6 @@ On circumambulating that elephant in supplication, and even on enquiring
  after its well-being, he that Amshuman has enquired in detail with it
  for his paternal-uncles and even about the robber of the ritual-horse.
  [1-41-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -459,8 +441,6 @@ On hearing that enquiry of Amshuman that directional elephant with
  great perception replied on its part saying, 'oh Amshuman, son of Asamanja,
  on achieving your mission you will return expeditiously along with the
  horse'. [1-41-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -506,8 +486,6 @@ On hearing that word of that directional elephant he departed from
  enquiry which he made with the first, according to the positioning of
  elephants in directions, and according to the established procedures
  of their venerability. [1-41-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -554,8 +532,6 @@ All the elephants that safeguard the directions of earth which have
  the faculties of articulation and eloquence have adored Amshuman and
  motivated him by saying, 'you will be going from here taking the horse.'
  [1-41-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -599,8 +575,6 @@ All the elephants that safeguard the directions of earth which have
 On hearing that common blessing of all the directional-elephants, he
  that nimble-footed Amshuman has gone to the place where his paternal-uncles,
  sons of Sagara, were rendered as mounds of ashes. [1-41-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -643,8 +617,6 @@ On hearing that common blessing of all the directional-elephants, he
 But he on whom the control of anguish has chanced for not physically
  seeing his paternal-uncles, that son of Asamanja then wept, as he is
  highly agonised and extremely anguished at their destruction. [1-41-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -686,8 +658,6 @@ But he on whom the control of anguish has chanced for not physically
 That tigerly-man Amshuman who is overwhelmed by agony and anguish,
  also beheld there the horse of Vedic-ritual that is grazing nearby.
  [1-41-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -737,8 +707,6 @@ That tigerly-man Amshuman who is overwhelmed by agony and anguish,
 When he that great resplendent Amshuman wanted to offer obsequial waters
  to the departed sons of Sagara and searched for water he has not found
  any fount of water. [1-41-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -791,8 +759,6 @@ Spanning his expert glances, oh, Rama, he then saw the rapid-winged
  king of birds, namely Garuda, the Eagle-vehicle of Vishnu, who is the
  maternal uncle of his father and other paternal-uncles, and whose flight
  will be similar to that of the Wind-god. [1-41-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -836,8 +802,6 @@ Spanning his expert glances, oh, Rama, he then saw the rapid-winged
 That great-mighty son of Lady Vinata, namely Garuda, also spoke this
  word to Amshuman, 'do not bemoan, oh, tigerly-man, this eradication
  of your paternal-uncles is worthwhile to the worlds'. [1-41-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -882,8 +846,6 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
  paternal-uncles of yours, oh, observant Amshuman, as such it will not
  be apt of you to offer the mundane obsequial water-oblations to them,
  indeed. [1-41-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -933,8 +895,6 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
  Himavanta, and oh, dextrous one, you have to offer water-oblation to
  the departed paternal-uncles of yours in her waters, namely the holy
  waters of River Ganga'. [1-41-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -986,8 +946,6 @@ World purifier River Ganga will drift them who are rendered as mounds
  of ashes to heaven, and when she who is much adored by all worlds drenches
  this ash, that River Ganga herself will lead the sixty-thousand sons
  of Sagara to heaven. [1-41-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -1037,8 +995,6 @@ World purifier River Ganga will drift them who are rendered as mounds
  from here with the horse, oh, brave one, it will be apt of you to carry
  out the Vedic-ritual of your grandfather.' Thus Garuda said to Amshuman.
  [1-41-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -1087,8 +1043,6 @@ World purifier River Ganga will drift them who are rendered as mounds
 On hearing the words of that great-winged eagle, Garuda, he that highly
  brave and well-renowned Amshuman swiftly took the horse, and returned
  to the ritual place of his grandfather, king Sagara. [1-41-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -1131,8 +1085,6 @@ On hearing the words of that great-winged eagle, Garuda, he that highly
 Then on reaching the King Sagara, who is under the vow of the ritual,
  oh, Rama, Amshuman described what all has happened and even the words
  of Garuda. [1-41-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -1175,8 +1127,6 @@ Then on reaching the King Sagara, who is under the vow of the ritual,
 
 On hearing those unendurable words from Amshuman, the king Sagara firstly
  completed the Vedic-ritual scripturally and procedurally. [1-41-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -1228,8 +1178,6 @@ _________________
 On completing the Vedic-ritual King Sagara arrived at his capital,
  but that king could not arrive at a decision about the arrival of Ganga
  to the earth. [1-41-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 </details>
 
@@ -1273,8 +1221,6 @@ On completing the Vedic-ritual King Sagara arrived at his capital,
  to earth even after a long time, and on ruling kingdom for thirty-thousand
  years he went to heaven." Thus Vishvamitra continued his narration about
  the ancestors of Rama. [1-41-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga41/balasans41.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -15,8 +15,6 @@ title_english = "049 Rama crossed three rivers"
 
 Having traveled for a pretty long distance, Rama crossed Vedasruti, Gomati and
 Syandika rivers. He presses forward in the chariot talking with Sumantra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ his father; *jagaama* = obtained; *mahat* = a long; *antaram* = distance;
 
 Rama the tiger among men, revolving in his mind the command of his father, covered a
 long distance during the rest of the night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ the blissful; *sandhyaam* = (morning) twilight; *vyagaahata* = passed beyond;
 
 While Rama was traveling with the same alacrity, that delightful night passed away.
 Having worshipped the blissful morning twilight, he passed beyond the boundary of that country.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ Seeing villages, whose outskirts have been tilled and the woodlands laden with
 blossoms and hearing as follows the words of men dwelling together in the midst of the village,
 Rama proceeded apace in those excellent horses as though slowly (engrossed as he was in enjoying
 the sights).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -277,8 +269,6 @@ Kaikeyi the cruel and the sinful one now is still engaged in a cruel game. She i
 the prince Rama, the pious man, the great intellectual, the compassionate man and he who subdued
 the senses. That hot-tempered Kaikeyi is behaving in a rude manner, transgressing the bounds of
 propriety"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -319,8 +309,6 @@ was delighted; *sadaa* = always; *sukheshhu* = in(homely)comforts;
 
 "How Sita the venerable woman, the daughter of Janaka, who was delighted always in
 homely comforts can now experience hardships in the forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -368,8 +356,6 @@ faultless; *aho* = what a surprise!"
 
 "What a surprise! The king Dasaratha, having no love for his son, now wants to
 abandon Rama who is so beloved to the people and is even faultless."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -416,8 +402,6 @@ villages and hamlets; *viirah* = the heroic; *kosaleshvaraH* = prince of Kosala;
 
 Hearing these words of people residing in villages and hamlets, Rama the heroic
 prince of Kosala crossed the boundaries of Kosala state.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -464,8 +448,6 @@ quarter; *agastyaadhyushhitaam* = occupied by the Sage Agastya.
 
 Having crossed the river of auspicious waters called Vedashruti, Rama then stretched
 forth, facing the quarter occupied by Sage Agastya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -513,8 +495,6 @@ sea.
 
 After traveling a pretty long time from there, Rama crossed the river Gomati having
 beautiful waters, whose banks were adorned with cows and which headed towards the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -564,8 +544,6 @@ Gomati river too; *hayaiH* = by horses; *shiighragaiH* = which are swift-moving;
 
 Reaching the other bank of Gomati river with the help of the swift moving horses,
 Rama crossed the river called Syandika which had resounded with howls of peacocks and swans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -614,8 +592,6 @@ Rama crossed the river called Syandika which had resounded with howls of peacock
 The said Rama showed to Sita the land (of Kosala, the southern boundary of which was
 defined by Syandika river)given long ago by the king Manu to Ikshvaku and which was bounded by many
 territories.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -664,8 +640,6 @@ rut; *aabhaashhya* = addressed; *tam saarathim* = that charioteer;
 The glorious Rama, the foremost among men, whose voice resembled the cackling of a
 swan in rut, addressed the charioteer with great affection, in the words "Oh, charioteer!" and
 spoke as follows :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -713,8 +687,6 @@ blossoms?"
 
 "When, coming back and united with my mother and father, shall I roam hunting in the
 forest, bordering on Sarayu river and laden with blossoms?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -790,8 +762,6 @@ times; *manujaiH* = by the sons of Manu; *abhikaaNkshhitaam* = and sought after 
 fact it is a delightful spot, made much of in the world by hosts of royal sages. Hunting in the
 forest is indeed for gratification of royal sages in this world. At times; the bow- men adopted it.
 But I do not long for it excessively."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 </details>
 
@@ -838,8 +808,6 @@ Rama; *yayou* = went; *adhvaanam* = along that route.
 
 Uttering in sweet voice to the charioteer on various topics dearer to him, Rama
 advanced thus along that route.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga49/ayodhyasans49.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

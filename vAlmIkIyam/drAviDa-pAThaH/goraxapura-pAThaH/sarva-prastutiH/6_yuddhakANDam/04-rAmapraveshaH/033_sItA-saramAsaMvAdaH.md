@@ -18,8 +18,6 @@ created an illusory appearance of Rama's head and exhibited it before her. She i
 Rama is still alive and is stationed along with his forces at the southern shore of the ocean.
 Sarama restores confidence to Seetha, by saying that Rama after killing Ravana in battle will soon
 win her back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ companion then approached Seetha, her beloved Seetha, her beloved friend.
 **टिप्पनी**
 
 *Sarama, according to some commentators was the wife of Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ Seetha; *mohitaam* = who was infatuated; *raakshhasendreNa* = by Ravana;
 
 Sarama, the soft-spoken woman, consoled Seetha who having been infatuated by Ravana
 was very much in distress.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ being protected; *tatra* = there.
 
 Sarma, who was assigned by Ravana to guard Seetha, was kind hearted and firm in
 austerity. She was indeed made a companion by Seetha, who was being protected by her there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ covered with dust
 
 The affectionate Sarama found Seetha stupefied and just risen after rolling in the
 dust and soiled, resembling a female horse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ mind.
 
 Sarama consoled the very virtuous Seetha as follows "O, Seetha! Be comfortable! Do
 not get perturbed in your mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -328,8 +316,6 @@ fear; *raavaNaat* = of Ravana; *tava hetoH* = in your cause.
 timid woman! Because of my friendship with you, I overheard Ravana's words and all
 the words you have spoken in reply to him, by hiding nearby in a barren sky without fear. O, large
 eyed woman! I do not have any fear of Ravana, owing to my affection towards you".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -376,8 +362,6 @@ that matter; *yatkR^ite* = why; *saH raakshhaseshvaraH* = that Ravana;
 
 "O, Seetha! Every thing was ascertained by me on the spot, after going out, about
 the reason for which Ravana has gone away agitated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -425,8 +409,6 @@ upapadyate* = does not come into existence.
 
 "It is not possible to attack Rama, a man of self awareness, while he is asleep. Nay
 even killing him, the tiger among men, is well nigh impossible."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -484,8 +466,6 @@ Indra the excellent among celestials.
 "It is not possible to kill in this manner even monkeys, who perform fighting with
 trees, in as much as they are fully protected by Rama, even as celestials are protected by Indra
 their lord"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -543,8 +523,6 @@ strength, a protector for himself and for others, while together with his brothe
 of high descent, a knower of doctrines of conduct and behavior, the killer of a stream of enemy
 forces, a man of inconceivable strength and valor, a venerable man and an annihilator of
 adversaries, has not been killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -591,8 +569,6 @@ virodhinaa* = an enemy of all beings; *roudreNa* = and a fiery person.
 
 "A trickery has been hurled on you here by the cruel Ravana, a conjurer, who is
 perverse in thinking and action and an enemy of all beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -641,8 +617,6 @@ occasioned; *tvaam* = you; *dhruvam* = Assuredly; *lakshhmiiH* = prosperity;
 
 "Your sorrow is (now) gone once for all. An all-pervading auspiciousness will await
 you. Accordingly prosperity will attend on you. Hear me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -689,8 +663,6 @@ reached; *dakshhiNam tiiram* = the southern shore; *samudrasya* = of the sea;
 
 "Rama, along with his army of monkeys, having crossed the ocean, reached its
 southern shore and is encamped there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -738,8 +710,6 @@ perceived; *me* = by me; *tishhTati* = who is stationed (there); *rakshhitaH*
 
 "Rama, who was along with fully meaningful Lakshmana, was perceived by me. He stands
 protected by the troops gathered together at the vicinity of the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -789,8 +759,6 @@ that; *raaghavaH* = Rama; *tiirNaH* = had crossed(the ocean.)
 
 "Some swift paced demons, who were dispatched by Ravana, brought this very news here
 that Rama has crossed the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -837,8 +805,6 @@ his ministers.
 
 "O, the wide-eyed Seetha! Hearing that news, yonder Ravana is busy making
 deliberations with all his ministers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -886,8 +852,6 @@ troops.
 
 While Sarama, the ogre was talking as aforesaid with Seetha; a terrific sound was
 heard, from the troops engaged in the impending war.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -934,8 +898,6 @@ sweetly; *uvaacha* = spoke; *siitam* = to Seetha; *idam* = these words:
 
 Hearing the crashing sound of kettle drums, made to sound like a thunder storm with
 a drum stick, Sarama in her sweet voice spoke to Seetha as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -987,8 +949,6 @@ resembling the sound of a lightening cloud.
 "O, timid Seetha! This frightful sound of a kettledrum is indeed indicative of
 preparation for a war. Hear also the thundering crash of the kettle drums, which resembles the
 rumbling of clouds"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1038,8 +998,6 @@ seen.
 
 "Elephants in rut are being caparisoned for war. Chariot horses are being prepared
 for a battle. Thousands of horsemen carrying darts in their hands are seen."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1095,8 +1053,6 @@ with roaring sound; *vegavadbhiH* = and velocity.
 "Thousands of soldiers equipped with armor are marching quickly hither and thither.
 Royal highways are filled with wonderfully looking warriors like a swift flowing sea with its flood
 of waters making a roaring sound."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1144,8 +1100,6 @@ energetic; *raakshhasaam* = demons; *hR^ishhitaanaam* = thrilled with joy.
 forth luster of many hues like the splendor of fire consuming a forest in summer. Here is seen the
 flurry of chariots, horses and elephants following the lead of Ravana as well as of energetic
 demons thrilled with joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1226,8 +1180,6 @@ end.
 neighing horses, resembling the flourish of trumpets. Here is the bustle of demons, carrying
 uplifted weapons in their hands; following the lead of Ravana. This bustling activity is causing
 hair to stand erect through terror."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1273,8 +1225,6 @@ in battle; *adhigamishhyati* = will acquire; *tvaa* = you.
 "A good fortune, which will bring your sorrow to an end, awaits you. A peril has
 arrived for demons. The lotus eyed Rama, your husband, who has overcome his anger but having an
 unimaginable strength will kill Ravana in battle and win you back"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1323,8 +1273,6 @@ strength over); *shatrushhu* = the adversaries.
 "Your consort along with Lakshmana will show his valor against the demons, like
 Indra the lord of celestials along with Vishnu the lord of preservation, the annihilator of enemies
 exhibited his strength over his adversaries."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1374,8 +1322,6 @@ coming being fulfilled; *shatrou* = and the enemy; *vinipaatite* = fallen.
 
 "Very soon, I shall see you, mounted on the lap of Rama who actually arrived, your
 object of his coming being fulfilled and the enemy fallen."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1422,8 +1368,6 @@ reunited with you; *parishhvaktaa* = holding you clasped to his breast.
 
 "O, Seetha! You will shed tears of joy on the bosom of that broad-chested Rama, re-
 united with you and holding you clasped to his breast."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1471,8 +1415,6 @@ jaghanam* = your hips; *dhR^itaam* = which you have worn; *bahuun* = these many;
 
 "Before long, O divine Seetha, that mighty Rama will loosen the one single plait
 which has reached past your hips, which you have worn these many months."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1519,8 +1461,6 @@ grief; *pannagii iva* = like a female snake; *nirmokam* = (casts off) its slough
 
 "O, Queen! Seeing his face, looking like a rising moon, you will renounce your tears
 born of grief, like a female snake casts off its slough."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1568,8 +1508,6 @@ yourself.
 
 "O, Seetha! Having killed Ravana in combat within no time, Rama (who deserves
 facility); will enjoy happiness in the company of the beloved, namely yourself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 </details>
 
@@ -1620,8 +1558,6 @@ soled; *raameNa* = Rama; *tvam* = you; *modishhyasi* = will be delighted;
 
 Acclaimed by the high soled Rama, you will be so happy as how the earth, endowed
 with crops, feels after the onset of good rains."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga33/yuddhasans33.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

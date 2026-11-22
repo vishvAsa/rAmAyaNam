@@ -17,8 +17,6 @@ The wedding party arrives at Ayodhya on the exit of Parashu Rama. Yudhaajit, the
  who came before marriages, now takes Bharata and Shatrughna to his kingdom. Rama and Lakshmana from then on
  are engaged in the welfare works of their subjects, at the behest of their father. Rama and Seetha will then
  enter the threshold of their blissful married life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ longbow of Vishnu into the hand of inimitable Rain-god. [1-77-1]
 **टिप्पनी**
 
 On this longbow and its giving to god of Rain, some discussion is incorporated in the earlier chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ father; *provaaca [pra-uvaaca]* = well said - placatingly addressed.
 
 On paying respects to sage Vashishta and to the other important sages, Rama, the delight of Raghu's lineage, placatingly
 addressed his agitated father Dasharatha. [1-77-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ convoy]; *ayodhyaabhimukhii prayaatu* = let it move on towards Ayodhya.
 
 "Rama of Jamadagni has gone on his way, you may now order the army under your wardship, for which you are the lord,
 to move on towards Ayodhya..." So said Rama to his father. [1-77-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ to have taken a rebirth.
 On hearing the words of Rama king Dasharatha hugged his son with both of his arms, and kissed on the forehead of Raghava,
 and king Dasharatha is gladdened to listen about the departure of Parashu Rama, and then he is further gladdened in deeming
 that he and his sons took a rebirth. [1-77-4, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -310,8 +300,6 @@ them, and reverberating with high sounding bugle-horns. Further, those highways 
 are handling welcoming kits which are golden handy-crates or plates in which lit camphor, fragrant incenses, vermilion powder,
 flowers to shower on the incomers are arranged, and those highways are well-decorated with throngs of people who are glee-faced
 at their king's re-entry, and into such an exhilarating city Ayodhya king Dasharatha and his retinue entered. [1-77-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -364,8 +352,6 @@ palazzo. [1-77-8b, 9]
 *gR^ihapravesha* 'entering into householder-hood, the second stage of life *gaarhapatya-dharma* out of the
 four stages of living, 1] celibate scholar, 2] householder, 3] repairing to forest or sageship, 4] final release, moksha.
 *paaNigrahaNaanantaram kriyamaaNo gR^ihapraveshaH - dk* where ceremonies go on for hours together.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -425,8 +411,6 @@ because, Dasharatha wanted his palace to be in festivity, with just one son. But
 four brides in one go, hence fourfold is his happiness. It may be observed that Kaikeyi is the lone queen with 'beauty'
 as her attribute, and the problem with her is seeded here alone, saying that enchantment of Dasharatha towards her outweighs
 his affection to Rama, later.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -472,8 +456,6 @@ propitious, Seetha; *yashasviniim uurmilaam ca* = highly fortunate, Urmila, also
 
 Then the womenfolk of the king welcomed the highly propitious Seetha and the highly fortunate Urmila too, along with both
 the daughters of Kushadhvaja, namely Maandavi and Shrutakiirti, with pageantry and festivity. [1-77-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -494,8 +476,6 @@ Vedic hymns and Ritual-fires, thus they shone forth like the tongues of Holy Fir
 These young couples by themselves are radiant, and they are now clad in radiant silks that glitter wavily like the tongues
 of fire, and the Ritual-fire s are already there flaring wavily, to the weave-like chanting of Vedic benedictions. With
 all these waving, flaring, glaring the couples too appeared as the humanly Ritual-fires before the wood burnt Vedic Ritual-fires.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ pai lagoo* . And if the girls are from jeans or pants culture, [because days hav
 to bridal sari, which itself will be a weight to carry. And many times we see the young brides falling on the blessing couple
 because her bridal sari gets entangled in the toes of the bride, and she is not yet ready to manage it. So goes on this
 parade until their backs are broken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -600,8 +578,6 @@ sasuhR^ijjanaaH* = with good hearted people [around]; *pitaram* = father; *shush
 And those best men among men, Rama, Lakshmana, Bharata, Shatrughna, who are by now accomplished persons in weaponry and
 whose marriages have also come to pass, occupied themselves in the welfare of kingdom while assisting their father and moving
 around with good hearted people. [1-77-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -615,8 +591,6 @@ to Bharata; *abraviit* = spoke.
 **अनुवादः**
 
 Then after sometime that king Dasharatha, the legatee of Raghu-s, spoke to his and Kaikeyi's son, Bharata. [1-77-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -657,8 +631,6 @@ yudhaajit* = this, Yudhaajit; *vasati* = is staying behind.
 "This is your maternal uncle and the son of king of Kekaya, and this valiant Yudhaajit came here to take you to Kekaya province,
 and he is staying behind because of your marriage..." thus Dasharatha bade farewell to Bharata suggesting that Bharata may
 now go with Yudhaajit. [1-77-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -707,8 +679,6 @@ abhicakraama* = readied himself to travel.
 
 On hearing the opinion of Dasharatha, Bharata, the son of Kaikeyi, then readied himself to travel along with Shatrughna
 to Kekaya province. [1-77-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -759,8 +729,6 @@ complexities [uncomplicatedly dextrous in deeds]; *raamam ca* = from, Rama; *maa
 That valiant and best one among men Bharata on asking leave from his father, from Rama, an uncomplicatedly dextrous one
 in undertaking deeds, and even from his mothers, Kaikeyi, Sumitra, and Kausalya, travelled on along with Shatrughna. [1-77-18b,
 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -803,8 +771,6 @@ own city; *tasya pitaa tutoSa ha* = his, father, highly rejoiced, indeed.
 
 Yudhaajit on clinching not only Bharata, but Shatrughna also, that valiant one is highly gladdened and entered his own city,
 indeed to the high rejoice of his father, King of Kekaya. [1-77-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -847,8 +813,6 @@ god, like [godly]; *pitaram* = father; *puujayaamaasatuH* = started to worship [
 
 After the departure of Bharata, then the masterly proficient Rama along with Lakshmana started to square with the plans
 and programs of his godly father for an ideal-sovereignty. [1-77-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -918,8 +882,6 @@ Rama keeping his father's directives in view undertook welfare activities for th
 to them, and in the entirety of those activities, and he undertook activities to humour motherly affection with his mothers,
 and educational activities with educators, and in a highly self-disciplined manner he used to review them carefully from
 time to time. [1-77-22b, 22, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -990,8 +952,6 @@ That way Dasharatha is pleased with the deportment and comportment of Rama, like
 all of the indwellers in the entire kingdom are pleased, and he who has high distinction, his truthfulness alone is his
 vantage point, and whose hallmarks are of higher degree, that Rama has manifested himself to those subjects in the kingdom,
 and even to all of the living beings in the world, as the Self-Created Brahma. [1-77-23b, 24, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -1053,8 +1013,6 @@ is grammatically a *parasmaipadi* then the fruition goes to the subject, and sub
 alone is the enjoyer and insatiate is his enjoyment with Seetha, even during and after *bahuun R^ituun* many, and
 many seasons. *niravadhikaparasparabaddhaanuraagaabhivR^iddhi* ' an endless, mutual, conjugal, impassion and
 its enrichment - the self-content bliss of monogamy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -1103,8 +1061,6 @@ Seetha burgeoned by virtue of Seetha's own virtues and loveliness. [1-77-26b, 27
 Here the good old saying *atiruupavatii siitaa - atimuurkhaH ca raavaNaH* 'Seetha is the greatest beauty, Ravana
 is the highest pigheaded demon...' may be remembered. He loved her for his father's voice / Had given her and approved the
 choice: / He loved her for each charm she wore / And her sweet virtues more and more. - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1119,8 +1075,6 @@ in heart of hearts]; *hR^idaa vyaktam aakhyaati* = clearly [both] converse by he
 
 Even Rama as her husband made his mark in Seetha's heart twice as good, and they both used to clearly converse about their
 thoughts in their heart of hearts, just by their hearts. [1-77-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -1167,8 +1121,6 @@ In her mien Seetha is identical with goddesses, and she is like personified Godd
 Prosperity, and as she hails from Holy Mithila she shall be held Holy, and since she is the daughter of Janaka, a loftiest
 sagacious and invincible king, she is sagely and stately, besides being shapely, and she with all these heaps of natural
 traits and characteristics, Seetha is rejoicing the heart of Rama. [1-77-28b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 </details>
 
@@ -1229,8 +1181,6 @@ immersed in my heart as sugar merges in milk, as the Red oleander reflects in a 
 as a picture carved on a stone tablet, as a gem studded in a ring, as bedaubed skin-cream, and as though the five darts
 of Love-god are nailed fixedly, [which darts usually will be in a touch-and-go fashion,] and as though stringed with thought-strings
 of my heartstrings, that are the halters with fastness...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Placing an illusory live image of Seetha in his chariot, Indrajit along with his
 army enters the battle-field. Hanuma with his army of monkeys march in front to face Indrajit in
 battle. While Hanuma and his army are watching, Indrajit pulls Seetha by her hair and unsheathed
 his sword. Indrajit kills the illusory living image of Seetha, with his sharp sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -105,8 +103,6 @@ _________________
 
 Then, recalling the killing of those energetic demons like Kumbhakarna and others,
 that valiant Indrajit sallied forth (for the fight) with red-hot eyes in anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -153,8 +149,6 @@ born in Pulastya-dynasty; *vR^itaH* = surrouded; *raakShasaiH* = by demons;
 
 That Indrajit, of very great prowess, the adversary of gods and who was born in Sage
 Pulstya's dynasty, accompanied by an army of demons, came forth from the western gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -198,8 +192,6 @@ then; *praaduShkarot* = demonstrated; *maayaam* = his conjuring tricks.
 
 Seeing the two valiant brothers, Rama and Lakshamana, who were prepared for the
 encounter, Indrajit for his part, then started to demonstrate his conjuring tricks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -246,8 +238,6 @@ then; *aarochayat* = intended; *tasyaaH vadham* = to kill her.
 
 Placing an illusory image of Seetha on his chariot and a large army surrounding the
 chariot, Indrajit intended to kill her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -289,8 +279,6 @@ kR^itvaa* = making up his mind; *sarveShaam mohanaartham* = to purposefully conf
 Making up his mind to purposefully confuse all, by playing a trick to kill Seetha's
 illusory image, the exceedingly evil-minded Indrajit sallied forth towards the direction of the
 monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -338,8 +326,6 @@ fight.
 
 Seeing him coming forth towards their direction, all those monkeys were enraged and
 bounced towards him, with rocks in their hands and with an intent to fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -380,8 +366,6 @@ others; *jagaama* = went; *purataH teShshaam* = in front of them.
 
 Hanuma, the foremost among the monkeys, taking hold of a very large mountain-peak,
 which was difficult to be reached by others, marched in front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -453,8 +437,6 @@ That Hanuma saw Seetha, the wife of Rama, the best among women, bereft of joy,
 wearing only a single braid of hair, looking miserable, with her face emaciated due to fasting,
 dressed in a single worn-out clothing, unadorned and with all her limbs covered with dust and dirt;
 in the chaiot of Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -501,8 +483,6 @@ Seetha; *achiradR^iShTaa his* = was indeed seen not long ago; *tena* = by him.
 
 On seeing her for a moment, Hanuma ascertained her as Seetha and became dejected.
 That Seetha was indeed seen by him, not long ago.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -572,8 +552,6 @@ leaders of monkeys; *abhyadaavata* = rushed; *raavaNim* = towards Indrajit.
 Seeing her stricken with grief bereft of joy, looking distreseed, miserable and
 sitting under the sway of Indrajit, Hanuma wondered as to what his intention might be. Thus
 thinking, he along with those leaders of mnkeys, rushed towards Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -619,8 +597,6 @@ her head.
 
 Beholding that army of monkeys, Indrajit was excited with anger, pulled Seetha by
 the hair on her head and unsheathed his sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -641,8 +617,6 @@ then; *nivR^itya* = turning away from; *tasmaat aahavaat* = that battle;
 
 Guessing the mind of that great-souled Rama, Indrajit turning away from that battle,
 entered the City.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -693,8 +667,6 @@ that woman; *yojitaam* = who was placed; *rathe* = in the chariot; *maayayaa*
 
 While those monkeys were seeing, demon began to strike that woman who was placed in
 the chariot by the dint of his conjuring trick and who was crying "Rama! Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -735,8 +707,6 @@ wind-god; *dainyam aagataH* = was confounded with misery; *utsR^ijat* = and shed
 
 On seeing her seized by the hair Hanuma the son of wind-god was confounded with
 affliction and shed tears, in agony from his eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -778,8 +748,6 @@ Indrajit.
 
 On seeing Seetha with all her charming limbs, the beloved wife of Rama, Hanuma
 angrily addressed the foolowing harsh words to Indrajit:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -820,8 +788,6 @@ belonging to the race; *raakShasiim* = of demons; *paraamR^ishaH* = you touched;
 
 "O evil minded one! Born in a dynasty of Brahmanical sages, but belonging to
 demoniacal race, you touched a lock of her hair, for your hair, for your own ruin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -868,8 +834,6 @@ you!.
 "O cruel, vulgar and mean fellow! O wicked demon of sinful prowess! O pitiless
 fellow! Woe be to you, of sinful conduct, in whom such a resolve has taken place. Such an act is
 worthy of a barbarian. There is no pity in you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -917,8 +881,6 @@ her kingdom; *raama hastaachcha* = and from the protection of Rama; *hamsi yat e
 
 "O pitiless one! Seetha came away from her house, from her kingdom and from her
 huband's (Rama's) protection. What wrong has Seetha done to you, that you are killing her?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -965,8 +927,6 @@ way; *vadhaarha* = O demon; deserving of death!; *tena karmeNa* = by your act;
 
 "By killing Seetha, you will not survivie for long in any way. O demon, desrving of
 death! By your act, you indeed fell into my hands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1012,8 +972,6 @@ deserved to be killed by the peple.
 "Abandoning your life in this world, you shall, after death, descend to those worlds
 which are the lot of the killers of women and are condemned even by those who deserved to be killed
 by the people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1063,8 +1021,6 @@ their weapons; *susamkruddhaH* = and very much enraged; *abhyadhaavat* = rushed;
 
 Thus speaking, Hanuma surrounded as he was by monkeys with their weapons and very
 much enraged, rushed headlong towards Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1111,8 +1067,6 @@ much enraged, rushed headlong towards Indrajit.
 
 The army of demons of terrible rage intercepted that army of mokeys possessing a
 high prowess and advancing towards them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1156,8 +1110,6 @@ that Indrajit; *pratyuvaacha ha* = replied; *hanumantam* = to Hanuma;
 
 Stirring up that army of mokeys with a multitude of his arrows, Indrajit replied to
 Hanuma, the foremost of mokeys as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1202,8 +1154,6 @@ Hanuma, the foremost of mokeys as follows:
 
 "For whose sake, Sugreeva, yourself and Rama came here, I am going to kill Seetha
 now itself, while you stand looking on."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1219,8 +1169,6 @@ vibhiiShaNam cha* = and that vulgar Vibhishana; *tataH* = thereafter.
 
 "O monkey! After killing her, I will make a short work of Rama, Lakshmana, yourself
 too, Sugreeva and that vulgar Vibhishana thereafter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1268,8 +1216,6 @@ hantavyaaH* = are not to be killed; (hear my reply); *yat* = that which;
 
 "O monkey! What you have said just now viz. that women are not to be killed, is
 correct. But that which causes tormentation to the enemies indeed needs to be done."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1319,8 +1265,6 @@ Hanuma; *indrajit* = Indrajit; *svayam* = personally; *nijaghaana* = killed;
 
 Having spoken thus to Hanuma, Indrajit personally killed that illusory Seetha, who
 ahd been sobbing all the while, with his sharp-edged sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1362,8 +1306,6 @@ pleasant to the sight; *papaata* = fell down; *pR^ithivyaam* = on the ground.
 
 Split asunder by him diagonally, that miserable lady of broad hips and pleasant to
 the sight, fell down on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1438,8 +1380,6 @@ weapon; *mayaa* = by me; *eShaa* = this; *vaidehii* = Seetha;
 
 After killing that woman, Indrajit told Hanuma as follows: "See, I killed Rama's
 wife with my weapon. This Seetha is dead and all your labour is in vain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1487,8 +1427,6 @@ high sound.
 
 After killing her with a large sword personally, that Indrajit then sitting on his
 chariot, pleasurefully roared loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 </details>
 
@@ -1535,8 +1473,6 @@ chariot; which was actually difficult of access for others.
 The monkeys standing in vicinity heard his roar, even as he shouted with his mouth
 wide open, while comfortable sitting in that tower of the aerial chriot, which was actually
 difficult of access for others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

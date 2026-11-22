@@ -14,8 +14,6 @@ title_english = "019 Seetha in Ashoka garden"
 **Book V : Sundara Kanda - Book Of Beauty**
 
 In this chapter Valmiki describes the plight of Seetha in Ashoka garden in detail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ with excellent ornaments.
 
 Thereafter at that time Seetha a princess without any blame of excellent limbs shook like a plantain
 tree in wind on seeing Ravana the king of rakshasas endowed with beauty and youth adorned with excellent ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -111,8 +107,6 @@ color; *aachchhaadya* = covering; *udaram* = stomach; *uurubhyaam* = with thighs
 
 The wide eyed Seetha with excellent color covering stomach with thighs and breasts with hands sat
 down crying.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -162,8 +156,6 @@ in the sea;
 
 Ravana saw Seetha protected by batches of ogres looking miserable being struck with grief like
 a ship in danger in the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -184,8 +176,6 @@ the tree).
 
 Hanuma saw Seetha sitting down on uncovered land, with a firm resolve, like a branch of a tree
 fallen down on earth being torn from the tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -236,8 +226,6 @@ with mud; *na vibhaati cha* = and also not shining
 Hanuma saw Seetha with a stange body with dirt as ornament, who although suited to decorate with
 ornaments was without ornaments. Although She was shining like a lotus stem covered with mud, She was not shining
 also.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -277,8 +265,6 @@ manorathaiH* = with desires as chariot; *samkalpahayasamyuktaiH* = tied with tho
 
 Seetha was as though going near to Rama a lion among kings with a famous personality with desires
 as chariot tied with thoughts as horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -319,8 +305,6 @@ of grief;anuvrataam = following the will; *raamam* = of Rama.
 
 Seetha a pleasant one, was emaciated, was crying, being alone having surrendered to Her thoughts
 and sorrow not seeing the end of grief, following the will of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -369,8 +353,6 @@ _________________
 
 And also Seetha was like a great she-serpant writhing under the spell of an incantation. She was
 like Rohini being fumigated by a smoke colored planet called Ketu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -414,8 +396,6 @@ dushhkule* = in a bad family
 
 Being born in a virtuous traditional family with good conduct and character and getting married,
 Seetha appeared as if She was born in a bad family.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -476,8 +456,6 @@ to) false; *apavaadena* = blame;vidyaamiva = like education; *prashithitaam* = r
 
 Seetha was like fame fallen down due to false blame. She was like education ruined due to lack
 of learning by heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -497,8 +475,6 @@ of learning by heart.
 
 Seetha was like deteriorated great fame,like insulted faith,like an understanding grown feeble,
 like dulled hope.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -519,8 +495,6 @@ quarter; *kaale* = during a period of destruction; *puujaamiva* = like a worship
 
 Seetha was like an expectation destroyed, like an order flouted; like a blazing quarter during
 a period of destruction, like a worship stolen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -541,8 +515,6 @@ light; *tamodhvastaam* = destroyed by darkness; *apaagaamiva* = like a river; *u
 
 Seetha was like a lotus destroyed, like an army with killed warriors, like light destroyed by darkness,
 like vanished river.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -584,8 +556,6 @@ _________________
 
 Seetha was like an altar desecrated, like a tongue of fire gone out, like a full moon night with
 moon devoured by Rahu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -634,8 +604,6 @@ roughly treated by the trunk of an elephant.
 
 Seetha was like a lotus pond agitated with torned out leaves and lotuses, being roughly traeated
 by the trunk of an elephant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -678,8 +646,6 @@ a river; *shushhkaam* = dried up; *visraavitaam* = (with water) caused to flow o
 
 Grieved for husband, Seetha was like a river which has dried uo with water caused to flow out lacking
 best washing, was like a new moon night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -723,8 +689,6 @@ built limbs; *ratnagarbhagR^ihochitaam* = accustomed to houses full of diamonds;
 
 Seetha was a delicate one with well built limbs, accustomed to houses full of diamonds, being tormented
 by heat, like a lotus fibre uprooted short time back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -774,8 +738,6 @@ much tormented by grief.
 
 Seetha was like a she-elephant captured and tied to a pillar, made to be without the leader of
 herd, sighing, very much tormented by grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -818,8 +780,6 @@ vanaraajyaa* = with dark groups of trees; *niiradaapaaye* = at the end of rainy 
 
 With a long single plait, shining without effort, Seetha was like the earth with dark groups of
 trees at the end of rainy season.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 </details>
 
@@ -889,8 +849,6 @@ as wealth.
 
 Wasted, emaciated due to fasting, due to sorrow, due to thought and due to fear, Seetha was with
 limited food and with austerity as wealth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -905,8 +863,6 @@ by grief; *bhavena* = by thought; *praaN^jalim* = with joined palms; *ayaachamaa
 
 Seetha was like a celestial being, tormented by grief and by thought with joined palms, desiring
 the defeat of Ravana at the hands of Sri Rama
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

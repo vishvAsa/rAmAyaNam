@@ -17,8 +17,6 @@ title_english = "032 Hanuma s advise to Sugreeva"
 Sugreeva is disturbed at the unfounded anger of Lakshmana and wanted his ministers to elicit the cause for that
 anger. Hanuma informs Sugreeva that causing delay is the only fault of Sugreeva, for which Sugreeva is advised
 to pray for the mercy of Lakshmana personally.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ apart from Plaksha, Prabhava,] along with; *angadasya vacaH shrutvaa* = Angada's
 
 On hearing the words of Angada along with those of his ministers, namely Hanuma, Plaksha, and Prabhava et al,
 also on knowing that Lakshmana is angered, that sensible Sugreeva stirred from seat. [4-32-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ them, sentence, spoke.
 
 On discriminating the pros and cons Sugreeva spoke this sentence to the strategist-ministers, for he himself is
 an expert in strategies and a diligent one in carrying out those strategies. [4-32-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -166,8 +160,6 @@ bhraataa lakSmaNaH* = Raghava's, brother, Lakshmana; *kim kruddhaH* = why, anger
 
 "I have not in the least spoken any ill of them, nor committed any misdeed in their respect, thus I am thinking
 why should Raghava's brother Lakshmana take offence at me? [4-32-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ to listen - ear-filled.
 
 "Unsympathetic rivals of mine, who will always be snoopy for scope, might have ear-filled Raghava's brother about
 the fabricated faults of mine. [4-32-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -263,8 +253,6 @@ way - meticulously; *bhaavasya* = attitude [of Lakshmana, or, issue of fact]; *n
 
 "In this situation, all of you on your part and according to your perspectives have to find out firstly and meticulously
 about the attitude of Lakshmana, along with a steady but diligent determination thereof. [4-32-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ and showing his ire here, which is out of context. Lakshmana should have summone
 or he should have come as a calm and collected emissary, and then he can become ireful if Sugreeva rejects any
 help. But Lakshmana's entry itself is 'unfounded or unreasonable.' This one statement of Sugreeva makes him lofty
 of virtue in his heart of hearts for he reposed full confidence in Rama and thus fearless of a trusted friend.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -371,8 +357,6 @@ befriended; *prati paalanam* = in turn, to manage; *duS karam* = not, practicabl
 
 "It is always practicable to befriend any, but in turn it is impracticable to manage that friendship, even a trifle
 splits off that friendliness for sentiments are transient. [4-32-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -418,8 +402,6 @@ Rama, but; *trastaH* = flustering; *mama* = to me; *yat upakR^itam* = which, fav
 
 "On that score I am flustering because of the noble-souled Rama, and I cannot possibly requite the favour that
 has been done to me." So said Sugreeva to his ministers. [4-32-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -468,8 +450,6 @@ tarkeNa* = with his own, by logic [with a dint of his expediency]; *uvaaca* = sp
 
 While Sugreeva is saying that way, the eminent-monkey Hanuma spoke with a dint of his own expediency, from among
 the Vanara ministers. [4-32-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ is there; *etat* = that point; *sarvathaa aashcaryam na* = in any way, astonishi
 
 "In any case, it is not astonishing to say, oh, king of monkey troops, that you with a deep regard have not forgotten
 the advantageous help rendered to you, since it is natural for you. [4-32-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -577,8 +555,6 @@ fear, distantly, tossing away; *tvat priya artham* = your, cherish, to fulfil; *
 
 "On his part Raghava tossed off his fear distantly and eliminated Vali, whose valour equals that of Indra, only
 to fulfil your cherish. [4-32-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -593,8 +569,6 @@ prosperity, enhancer, Lakshmana; *sam prahitavaan* = he [Rama] expedited.
 
 "Anywise, by virtue of his friendliness with you Raghava must be annoyed, hence he must have expedited his brother
 Lakshmana, whose disposition in effect to is enhance prosperity. [4-32-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -649,8 +623,6 @@ banana plants. [4-32-13]
 Sugreeva is ascribed as a great disciplinarian and punctualist and his order
 *sugriiva aaj~na* ' Sugreeva's order...'
 a Sanskrit phrase still ruling high, is an inalienable, do-or-die order for the rank and file of Vanara-s.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -696,8 +668,6 @@ with planets, stars; *sarvaaH dishaH ca* = all, directions, also, are clear; *sa
 
 "Clear is the sky with its planets and stars as clouds have vanished on it, even all the ten directions are clear,
 and the rivers and lakes too are equable. [4-32-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -744,8 +714,6 @@ came; *vyaktam* = it is obvious.
 
 "Because the time for campaigns has chanced, oh, the ablest monkey, and because you were very slumberous you have
 not got the drift of it, as such Lakshmana must have come here, and it is obvious. [4-32-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -793,8 +761,6 @@ antaraat* = [through] person, another one - thru Lakshmana; *paruSam vacanam* = 
 "Raghava's bitter words are endurable by you as he is primarily an anguished person, further he is the one whose
 is wife is abducted, and furthermore he is magnanimous in giving kingdom to you, besides, he is reproachful through
 another person, namely Lakshmana. [4-32-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -849,8 +815,6 @@ of even gods quickly. *an~jaliH paramaa mudraa kshipram
 deva prasaadinii*'Adjoining palms reverently is the highest
 gesture, and gods will bestow grace by it.' Here it is said in singular meaning that 'you appease Lakshmana single-mindedly...
 soulfully...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -900,8 +864,6 @@ I am saying.
 
 "A king is to be advised beneficially and unhesitatingly by the minister designates, that is why I am speaking
 what I hold fast discarding fear. [4-32-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -947,8 +909,6 @@ sthaapayitum samarthaH hi* = in control, to keep, capable, isn't it.
 
 "If Raghava is highly infuriated he is capable to keep the world under his control along with gods, demons, gandharva-s
 just on hitching up his bow, isn't it! [4-32-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -995,8 +955,6 @@ bhavet* = not, seemly, it becomes.
 
 "It becomes unseemly to infuriate him who is to be placated time and again, especially when remembering his earlier
 beneficence to you and when you are beholden to him. [4-32-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -1048,8 +1006,6 @@ auspices.
 "Prostrate yourself before him along with your son, friends and relatives to pay deference, oh, king, and abide
 by your own accord you made with him remaining under his auspices, like a wife abiding in the care of her husband.
 [4-32-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 </details>
 
@@ -1111,8 +1067,6 @@ of Indra, and who is associated with selfsame Lakshmana, isn't it." Thus Hanuma 
 
 For the usage of words *maanuSam balam* it is said as 'his humanly adventures are already known to you, yet his
 divine expeditions are to be known by you.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

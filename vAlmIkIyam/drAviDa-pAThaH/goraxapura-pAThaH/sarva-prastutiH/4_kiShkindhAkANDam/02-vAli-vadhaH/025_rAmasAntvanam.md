@@ -20,8 +20,6 @@ body and wailing endlessly. Rama tersely tells about living being's dependency o
 Fate and the Absolute. Then Sugreeva takes charge of the situation and arranges for the monarchical
 funeral to Vali. At the final departure of her husband, Tara again laments. Ultimately Vali's body is
 committed to fire for his voyage to heavens on a remote avenue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ this, said.
 
 While a similar disquiet of Sugreeva is prevailing over Rama and Lakshmana, Rama palliatively said this
 to Sugreeva, and even to Tara together with Angada. [4-25-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ appropriate to.
 
 "Deceased will not derive bliss by sorrowful mourning, hence it will be appropriate to arrange for that
 work which is subsequent in this matter. [4-25-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -186,8 +180,6 @@ body is kept unattended for more than ten hours of death, a blemish called *pary
 occurs. Thus, it is said, 'The duties ordained according to their time value are to be attended on
 time, otherwise if you lapse that particular time by shedding tears alone, there is no merit to the
 departed soul...' Maheshvara Tiirtha
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -257,8 +249,6 @@ the presiding authority of worlds. For this the *shveta ashvatara upanishad*: ha
 niyatiH yadR^icaa bhuutaani yoniH puruSha iti cintyaa | *'time, nature, fate, chance, material, power,
 intellect... thus all these are [thought to be the cause, but in vain...] Thus the words used as 'Fate'
 'Time' are alterable with 'Supreme Being/Person.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -314,8 +304,6 @@ world. [4-25-5]
 
 Unlike Bhagavad Gita, which says everything in first person, here Rama is saying that he alone is Supreme,
 but naming Time, Fate etc., instead of using first person and declaring about himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -361,8 +349,6 @@ on attaining; *na ati vartate* = will not, over, step.
 
 "Time will not transcend Time, neither Time transgresses itself, and on attaining the nature endowed
 by Time nothing can overstep its own Fate. [4-25-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -412,8 +398,6 @@ sambandhaH na kaaraNam = = such connectivity, is not, the causative factor.
 "Time has no kinship, thus it has no partiality, there is nothing instrumental to override Time, hence
 nothing can override it, and there are no causative factors to Time that connect through friends or
 relatives, hence all are equal in its viewpoint. [4-25-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -469,8 +453,6 @@ brought in by the course of Time and according to them and also taking the help 
 one has to intelligently undergo the course of events, without asserting himself of his own achievements
 or without blaming himself or that imposing Time, should the results be distasteful. This is the way
 to attain the humanly-means, *puruSa artha* -s. And this is the way to live different from animals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -519,8 +501,6 @@ praaptaH* = pious, exploits, fruits [of actions befitting to a king,] obtained.
 "That king of fly-jumpers Vali departed from here on attaining his own nature of subtle-soul, and he
 obtained pious fruits connected with his one time actions befitting to a king like, friendliness, courteousness,
 and forgivingness required of a king. [4-25-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -574,8 +554,6 @@ This is to say Vali has attained a higher heaven than the routine heaven ruled b
 and demerit are metered. These higher heavens are impossible abodes for usual seekers of release from
 karmic cycle, but they chance upon certain blessed souls like Vali, who is sent from here to *vaikunTha*
 Vishnu's Milky-Oceanic abode, by no less than Rama himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -633,8 +611,6 @@ saapekShya eva | na svatantra | evam kaala karma paraadhiinaH puruSho api na kar
 the word *niyati *the results of earlier births come to fruition abiding the Time... Time is bound by
 the results of earlier births... as such no independency to Time... thus, bound by the Time cycle, an
 individual is also not independent...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -680,8 +656,6 @@ individual is also not independent...'
 
 At the close of Rama's sentence Lakshmana, the eliminator of braving foes, spoke this courteous sentence
 to the disconcerted Sugreeva. [4-25-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -728,8 +702,6 @@ cremation, [arrange] for.
 
 "Sugreeva, you attend to the funeral rites, to be performed subsequently along with those two, Tara
 and Angada, and arrange for the cremation of Vali. [4-25-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -769,8 +741,6 @@ of; *sam aaj~naapaya* = at once, you order.
 
 "Order at once for substantial dry firewood, likewise for finest sandalwood, for the purpose of the
 exequies of Vali. [4-25-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -816,8 +786,6 @@ exequies of Vali. [4-25-14]
 
 "Bolster up that miserable Angada who is heartbroken, you too should not become frivolous in thinking
 as this city Kishkindha is now dependant on you. [4-25-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -864,8 +832,6 @@ items useful in funeral.]
 
 "Let Angada bring wreaths, different cloths, ghee, oils, as well perfumes and other items that are consequently
 useful in funeral. [4-25-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -914,8 +880,6 @@ truly.
 
 "And Lt. Tara, you go quickly and come readily fetching a palanquin of the dead, for despatch is a merit,
 which is truly worthwhile, especially at these times. [4-25-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -965,8 +929,6 @@ hariSyanti* = out, carry off - to cart him away.
 
 "Let suitable, proficient and sturdy Vaanara-s be at the ready as the bearers of the litter of the dead
 to carry away Vali." Thus said Lakshmana to Sugreeva. [4-25-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1013,8 +975,6 @@ withdrawn.
 
 Speaking thus to Sugreeva that enhancer of his mother Sumitra's delight and the eliminator of braving
 foes, Lakshmana stepped off and stayed behind his brother Rama. [4-25-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1064,8 +1024,6 @@ entered.
 
 On hearing the words of Lakshmana Lt. Tara's mood became hectic and he fleetly entered Kishkindha with
 his mood firmed up to get the litter of the dead. [4-25-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1112,8 +1070,6 @@ that litter; *aadaaya* = on fetching; *punaH* = again; *paryaapatat [pari aa pat
 
 Lt. Tara came back in a trice fetching that litter of the dead, getting it carried by gritty and suitable
 Vanara-s. [4-25-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1289,8 +1245,6 @@ mms. The word *guhaa gahana* is not 'deep cave' as in ordinary sense. It is one 
 expressions used in Ramayana. *guhaa gahana shabdena shibika upari prasaarya maaNaanaam pa~njaram ucyate...*
 'the roof of the cabin / cage of the palanquin...' is the meaning of the above words. Tilaka. [After Dr. Satya
 Vrat.].
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1337,8 +1291,6 @@ away; *preta kaaryam vidhiiyataam* = corpse, rites [funeral ceremony,] be undert
 
 On seeing such a sort of palanquin Rama said to Lakshmana, "Let Vali be taken away quickly and funeral
 ceremony be undertaken." [4-25-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1384,8 +1336,6 @@ on lifting up; *tadaa* = then; *shibikaam aaropayata* = into litter, set him in 
 
 Thereafter Sugreeva along with Angada and others lifted up and then lodged Vali in the litter of the
 dead squalling woefully. [4-25-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1461,8 +1411,6 @@ lost, life; *vaalinam* = Vali is; *shibikaam aaropya* = into litter, on getting 
 Thus setting that deceased Vali who is diversely decorated and adorned with garlands and cloths onto
 the palanquin, then Sugreeva, the king of best fly-jumpers, has ordered, "let the funeral ceremony of
 this noble brother of mine be undertaken, befitting to his magnificence... [4-25-29, 30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1510,8 +1458,6 @@ ratnaani vishraaNayantaH* = gems, strewing [on pathway]; *agrataH yaantu* = in v
 **अनुवादः**
 
 "Let the vanara-s proceed in van strewing various gems plentifully, and the palanquin afterward... [4-25-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1560,8 +1506,6 @@ good, action - honour, immortalisation; *iha kurvantu* = now, to be performed.
 "In which way the grandiose of monarchical opulence will be conspicuous on earth when kings decease,
 in a similar way the Vanara-s have to immortalise lord Vali now," Sugreeva ordered monkeys in that way.
 [4-25-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1618,8 +1562,6 @@ out.
 On performing services to the dead in the same way as ordered by Sugreeva, then all of those vanara-s
 like Lt. Tara and others, have promptly started out hemming round Angada, keening over their dead relative
 Vali. [4-25-33, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1667,8 +1609,6 @@ bhuuyaH kroshantii* = they, for their beloved, repeatedly, wept.
 
 Then all the female adherents of Vali came together and wept saying, 'oh, brave one, oh, brave one...'
 and they repeatedly wept thus for their departed dear. [4-25-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1715,8 +1655,6 @@ also.
 
 Lady Tara and all other female Vanara-s, whose husband is dead, followed the funeral procession wailing
 in a pathetic tone. [4-25-35b, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1763,8 +1701,6 @@ as though [it appeared.]
 
 With the din of wailing of those Vanara females in the interiors of the forest, that forest along with
 its hillocks appeared to be wailing noisily. [4-25-36b, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1813,8 +1749,6 @@ pile, arranged.
 
 Many Vanara-s have arranged a funeral pile on an unpopulated sandy isle, around which brooks from the
 cascades of hills are encircling. [4-25-37b, 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 
 </details>
@@ -1861,8 +1795,6 @@ melancholy, weltered in; *ekaantam aashritya tasthuH* = lonely [aside,] stood as
 
 All of those best vanara-s then lifted down that palanquin from their shoulders and stood aside weltered
 in melancholy. [4-25-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1909,8 +1841,6 @@ anguishing; *tasya shiraH anke aaropya* = his, head, in lap, on bringing up; *vi
 
 Lady Tara on seeing at her husband Vali recumbent on the bier of the litter of the dead, she then brought
 his head onto her lap, and wailed painfully. [4-25-39b, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -1962,8 +1892,6 @@ janam* = at this, creature [that is me]; *kasmaat na pashyasi* = why for, not, y
 
 "O, great king of monkeys... o, my consort... my dear... o, meritorious one, o, mighty one, o, my dear...
 see me... why do not you see this grief-stricken creature, that is me... [4-25-40b, 41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2010,8 +1938,6 @@ hR^iSTam dR^ishyate* = now, highly, enchanting, is appearing.
 
 "Though your lives have gone your face is appearing to be highly enchanting as if it has a similar dazzle
 of the sun on dusking mountain, as it had when you were alive. [4-25-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2058,8 +1984,6 @@ as widows, rendered, we are.
 
 "Time-god in the mien of this Rama is hauling you away, oh, vanara, on rendering all of us as widows
 by flinging a single arrow in the fight. [4-25-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2110,8 +2034,6 @@ nanu* = to you, dearest ones, isn't it.
 "These are those female vanara-s of yours, oh, best king, unable to come by leaping and jumping as they
 are wont to, they have come treading a much lengthy way of yours, why do not you mind them? They with
 their faces like moonshine are your cherished wives, isn't it! [4-25-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2182,8 +2104,6 @@ gathering round, very much, sinking down; *[kim na budhyase* = why, not, mind th
 "What for you are not seeing the lord of fly-jumpers Sugreeva, and these Lt. Tara and others are all
 your ministers, oh, king, and even the people dwelling in Kishkindha city have gathered around you and
 sinking down, why do not you mind them? [4-25-45b, 46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2231,8 +2151,6 @@ kriiDaamahe* = in woods, we sport with [you.]
 
 "Bid adieu to these ministers as usual, oh, enemy subjugator, then we all can sportfully wander in the
 woods in voluptuousness." Thus Tara mourned for Vali. [4-25-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2276,8 +2194,6 @@ away.]
 
 While Tara is enwrapped in the grief for her husband and wailing that way, then other female Vanara-s,
 who are equally haggard by grief have lifted her up and took her away from the body of Vali. [4-25-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2324,8 +2240,6 @@ to mount.
 
 Angada wailing along with Sugreeva, started to mount his father's body onto pyre in an involuntary way,
 as his senses are deluged under grief. [4-25-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2382,8 +2296,6 @@ which is called *savyam*. In funeral rites it is occasionally changed onto right
 when circumambulations are performed, the devotee faces the idol, keeping his right to left of the idol and
 moves on his left, around sanctum sanctorum. This is called *savya pradakshiNa* and in funerals it is
 other way round, called *apa savya pradakshiNa*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2430,8 +2342,6 @@ nadiim* = to river; *aajagmuH* = arrived.
 
 On cremating Vali procedurally those best fly-jumpers arrived at the propitious river with auspicious
 waters to offer water oblations to the departed soul. [4-25-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2481,8 +2391,6 @@ agrataH sthaapya ca* = Angada, in front, locating, also; *jalam siSicuH* = water
 
 Those vanara-s on coming together along with Sugreeva and Lady Tara, and then locating Angada in their
 front, they have offered water oblations to the soul of Vali. [4-25-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2531,8 +2439,6 @@ one, with Sugreeva, thus; *samaana shokaH* = even up, in sadness - on becoming; 
 
 He whose sadness evened up with that of Sugreeva, and who became one with Sugreeva in haplessness, that
 great mighty Rama effectuated the funeral rites of Vali. [4-25-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 </details>
 
@@ -2603,8 +2509,6 @@ bathed in the pious waters called Rama's mercy, thus his resplendence is pure an
 By these observances of funeral rites, water oblations etc., the Vanara- may not be regarded as monkeys
 or as other mammals, but this race is to be regarded a divine race adherent to Vedic practises. They
 took birth at the hest of Brahma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

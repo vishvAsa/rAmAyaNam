@@ -18,8 +18,6 @@ At the end of the conversation with Seetha, Anasuya requests her to ask for a bo
 pleased with her, Anasuya bestows heavenly flowers and ornaments on her. Anasuya then requests
 Seetha to relate to her the story of her marriage with Rama. Then Seetha relates that story to
 Anasuya in detail.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ and began; *pravaktum* = to speak; *mandam* = gently (as follows):
 
 Anasuya having spoken thus, Seetha without any jealousy, full of reverence for her,
 addressed her gently as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ woman.
 
 "It is not a surprise that a venerable woman like a you, talk to me like this, for,
 I know well that a husband is a respectable person for a woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ me.
 
 "O, venerable woman! Even if my husband be without fortune, he should unhesitatingly
 be obeyed by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ shlaaghyaH* = renowned for his virtues; *saamkroshaH* = compassionate;
 "How much more, if he be renowned for his virtues, compassionate, master of my
 heart, who is ever affectionate, a religious person, manifests the tenderness of a mother and a
 father to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ his behaviour; *kausalyaayaam* = towards Kausalya.
 
 The exceedingly strong Rama bears himself to all other Queens, as he exercises his
 behaviour towards his mother, Kausalya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ once; *utsR^ijya* = free from; *maanam* = all sense of importance.
 "The valiant and pious Rama who is devoted to Dasartha and free from all sense of
 importance treats all those women as his mothers on whom Dasaratha has even once bestowed a single
 glance."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ mother-in-law.
 
 "While departing for the lonely and fearful forest, my mother-in-law imparted a
 great message to me, which I have inscribed in my heart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -421,8 +405,6 @@ by my mother; *tadapi* = those words dhR^itam = are detained; *me* = by me.
 
 "What my mother taught me when witnessed by the fire, earlier at the time of my
 marriage with Rama, I shall always remember them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ tapaH* = no austerity; *vidhiiyate* = is decreed; *maaryaaH* = for a woman.
 
 "O, virtuous woman! By your words, all that is being renewed. No austerity, other
 than obedience to one's husband is decreed for a woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -523,8 +503,6 @@ husband."
 **टिप्पनी**
 
 SAvitri was the celebrated wife of Prince Satyavan.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ excellent; *sarva nariiNaam* = among all the women; *na dR^ishyate* = is not see
 
 "This goddess Rohini, the excellent among all women, is not seen without the moon
 even for a single moment in the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -619,8 +595,6 @@ even for a single moment in the sky."
 
 "Such excellent women, devoted to their husbands, and by their meritorious deeds,
 are highly honoured in heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -671,8 +645,6 @@ delightfully (as follows)
 
 Hearing the words of Seetha, Anasuya was very much pleased, kissed on Seetha's
 forehead and spoke delightfully (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -720,8 +692,6 @@ of that power; *chhandaye* = I wish to confer a boon; *tvaam* = on you.
 
 "O, Seetha with a bright smile! There is a great merit acquired by me in virtue of
 my various pious observances. Through that power, I wish to confer a boon on you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -768,8 +738,6 @@ my various pious observances. Through that power, I wish to confer a boon on you
 
 "O, Seetha! Your words are suitable for the occasion and are charming too. I am
 satisfied. Tell me what good I may do for you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -818,8 +786,6 @@ kR^itamiti* = "Everything stands fulfilled (by your grace)."
 Hearing those words of Anasuya, Seetha was surprised and with a gentle smile spoke
 to her, who was richly endowed with the power of askesis, saying; "Everything stands fulfilled (by
 your grace).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -867,8 +833,6 @@ Alas!; *aham* = I; *karomi* = will create; *praharSam* = a great joy;
 
 Thus spoken by Seetha, the pious-minded Anasuya became more delighted and said: "O,
 Seetha! Alas! I will create a great joy for you, which will be to your advantage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -926,8 +890,6 @@ limbs; *nityameva* = It wll be ever; *anuruupam* = worthy of you; *bhaviSyati*
 "O, Seetha, the daughter of Videha kingdom! Here are divine gifts: a garland, an
 apparel, jewels, a scented cosmetic and rare body-cream. These are all given by me to adorn your
 limbs. They will be ever worthy of your and will remain in tact (even after constant use)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -976,8 +938,6 @@ imperishable; *viSNum* = Vishnu (the lord of preservation).
 "O, Seetha! Your body, anointed with these heavenly cosmetics, will cause your
 husband to look beautiful, as Lakshmi (the goddess of fortune and beauty) does the imperishable
 Vishnu (the Lord of Preservation)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1035,8 +995,6 @@ _________________
 
 Seetha accepted the apparel, the scented cosmetic, the jewels and the garlands as
 unsurpassed gifts of love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1052,8 +1010,6 @@ love; *shliSTaajJNalipuTaa* = with joined palms; *samupaasta* = sat near;
 
 Having accepted those gifts of love, the illustrious Seetha with joined palms, sat
 near that female ascetic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1102,8 +1058,6 @@ her;tathaa = in that manner.
 To inquire about a lovely tale of once upon a time, Anasuya who was firm in
 austerity, started asking the following words to Seetha who was sitting near her in that
 manner.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1156,8 +1110,6 @@ process of your self-choosing (svayamvara)*. This report has reached my ear."
 
 *Svayamvara= the ceremony of self-choice, when a princess chooses her own
 consort from the royal suitors assembled, by placing a garland around his neck.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1207,8 +1159,6 @@ _________________
 
 "O, Seetha! I wish to hear that narrative in detail. Hence, tell me that tale in
 full as you experienced it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1256,8 +1206,6 @@ woman.
 
 Then, Seetha obediently answered, saying "Hear me" and began to truly narrate that
 tale of Svayamvara to the virtuous woman, Anasuya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1306,8 +1254,6 @@ a Warrior class; *shaasti* = and was ruling; *mediniim* = the earth; *nyaataH*
 "A king of Mithila kingdom, named Janaka who was valiant and a knower of
 righteousness, was devoted to the duty of his warrior class and was ruling the earth in a fitting
 manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1358,8 +1304,6 @@ maNDalam = a territory of land; *laaNgala hastasya* = holding a plough in his ha
 
 "While he was furrowing a territory of land, holding a plough in his hand, it is so
 said that I came forth, splitting up the land, as a daughter of that king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1406,8 +1350,6 @@ said that I came forth, splitting up the land, as a daughter of that king."
 
 "The king Janaka, who was absorbed in scattering handfuls of seeds was surprised to
 see me, with all my limbs covered with dust."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1454,8 +1396,6 @@ daughter; *snehaH* = and his fondness; *nipaatitaH* = got a place.
 
 "Placing me personally in his lap with affection, that childless king Janaka called
 one as his daughter, and was very fond of me since then."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1504,8 +1444,6 @@ you; *dharmayaa* = rightly.
 "It is said that voice resembling that of a human being in the air above me rang
 out, saying": "O, King! Let it be so. This divine child without a match is a daughter to you,
 rightly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1553,8 +1491,6 @@ extensive; *R^iddhim* = property.
 
 "Thereafter, my father the pious mind the lord of men and the king of Mithila
 kingdom was rejoiced in my possession and acquired extensive property."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1605,8 +1541,6 @@ devajai* = the chief Queen; *asmi* = I was; *sambhaavitaa* = nourished;
 
 "That king performing auspicious acts gave me into the care of the chief Queen. She
 nourished me fondly and with maternal affection."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1655,8 +1589,6 @@ his possessions.
 "Seeing my age to be such, when union with a husband can be easily had, my father
 fell a prey to anxiety like an indigent man, feeling miserable by the loss of all his
 possessions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1708,8 +1640,6 @@ suitor's men; *sadR^ishaashcha* = ( no matter whether) they are equal;
 "Eventhough the father of an unmarried girl be like Indra himself on earth, suffers
 indignity in the world from the suitor's men, no matter whether they are equal or inferior to
 him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1758,8 +1688,6 @@ anxiety; *naasasaada* = and did not reach; *paaram* = its end; *aplavoyathaa*
 "Perceiving that ill-treatment threatening him at no distant date, the king Janaka
 was plunged into an ocean of anxiety and did not reach its end any more than a man without a bark
 would reach the end of a sea."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1806,8 +1734,6 @@ a suitable; *sadR^isham* = and worthy; *patim* = husband; *mama* = for me.
 
 "Knowing me to be the one not emerged from a mother's womb, the king after a deep
 reflection, was unable to find a suitable and worthy husband for me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1855,8 +1781,6 @@ shall arrange; *svayamvaram* = for a process of self-choosing marriage; *tanuuja
 
 "After reflecting thus deeply, the thought came to him, 'I shall inaugurate a
 Svayamvara, a process of self-choosing marriage, for my daughter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1904,8 +1828,6 @@ arrows; *priityaa* = with affection.
 
 "In ancient days, Janaka received with affection from Varuna the rain-god, an
 excellent bow with two quivers that should never lack arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -1952,8 +1874,6 @@ excellent bow with two quivers that should never lack arrows."
 
 "That bow was so heavy in weight that no man could lift it up nor any of the kings
 were bale to bend it even in their dreams."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2000,8 +1920,6 @@ that bow; *praapya* = to be lifted.
 
 "My truthful father called all the princes first and informed them in a meeting
 about the bow to be lifted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2048,8 +1966,6 @@ him); *na* = there is no; *samshayaH* = doubt.
 
 "Whoever is able to lift up and string this bow, I will bestow my daughter in
 marriage on him. There is no doubt about it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2097,8 +2013,6 @@ and went away.
 
 "Seeing that excellent bow, resembling a mountain in weight, and being unable to
 lift it up, the princes offered salutation to it and went away."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2155,8 +2069,6 @@ sacrifice.
 "After a very long time, this Rama born in Raghu dynasty with a great splendour
 possessing a true valour, along with his brother Lakshmana together with a sage Visvamitra, came to
 witness a sacrifice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2172,8 +2084,6 @@ father;bhraatarau = about the two brothers; *raama lakSmaNau* = Rama and Lakshma
 
 "The pious-souled Visvamitra, having been received well by my father said to my
 father, (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2222,8 +2132,6 @@ father, (as follows):
 
 "These two boys, the sons of Dasaratha wish to see that bow. Show that bow, coming
 from gods, to Rama the prince."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2292,8 +2200,6 @@ bows-cord; *puurayaamaasa* = ad drew the bow to the full.
 "Hearing the words of Vivamitra, Janaka caused the bow to be brought there. The
 mighty and the valiant Rama bent that bow merely within an instant and immediately stringed the bow
 with the bow-cord and drew the bow to the full."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2342,8 +2248,6 @@ ashaneriva* = like that of a falling thunder-bolt.
 "While Rama was drawing the bow to the full, the bow was broken into two in the
 middle due to the resultant jerk. The terrific sound then created was like that of a falling
 thunderbolt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2390,8 +2294,6 @@ decided; *daatum* = to give; *aham* = me; *raamaaya* = to Rama;
 
 "Then and there, my father true to his promise decided to bestow me on Rama,
 offering him a jar of pure water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2438,8 +2340,6 @@ father; *prabhoH* = the Lord; *ayodhyaadhipateH* = and the king of Ayodhya.
 
 "But Rama did not consent to accept my hand till the will of his father, the Lord
 and the king of Ayodhya had been made known to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2489,8 +2389,6 @@ nR^ipam* = king Dasaratha; *aamantrya* = was invited; *aham* = I; *dattaa*
 
 Thereupon, my father-in-law and the aged Dasaratha was invited to Mithila by my
 father and with his approval, I was bestowed on Rama, the knower of the self."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2537,8 +2435,6 @@ lovely looks; *bhaaryaarthe* = as a consort; *lakSmaNasyaapi* = to Lakshmana.
 
 "My younger sister Urmila, the virtuous lady of lovely looks was given as a consort
 to Lakshmana by my father himself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 </details>
 
@@ -2586,8 +2482,6 @@ is excellent; *viiryavataam* = among men of strength.
 
 "I was given thus to Rama in that Svayamvara, a process of self-choosing marriage. I
 became devoted, by my good works, to my husband who is excellent among men of strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

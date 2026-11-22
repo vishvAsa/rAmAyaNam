@@ -19,8 +19,6 @@ also feels distressed on perceiving the bodies of Rama and Lakshmana lying uncon
 ground. Sugreeva consoles and convinces Ravana that Rama and Lakshmana will regain consiousness.
 Meanwhile, Garuda the King of Birds, makes his appearance on the scene and liberates Rama and
 Lakshmana from their bondage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ of its course; *jale* = in water.
 Meanwhile, Sugreeva the king of Monkeys, possessing a great splendour and a mighty
 power, enquired saying, "Why is this army agitated, like a ship driven out of its course in
 water?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ arrows.
 Hearing the words of Sugreeva, Angada the son of Vali replied, saying "Do you not
 see the high-souled Rama and Lakshmana of the great chariot, those two valiant sons of Dasaratha
 covered with darts lying all bloody in a bed of arrows?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -195,8 +189,6 @@ son; *aN^gadam* = Angaa; *na manya* = I do not think; *idam* = this;
 
 Thereupon, Sugreeva the Lord of Monkeys said to his son Angada: "To my mind, there
 is some othere cause why the monkeys are bewildereed. There must be some danger ahead."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -243,8 +235,6 @@ praharaNaaH* = throwing down their arms; *viSaNNavadanaaH* = and looking dejecte
 
 "Here, these monkeys are runnng away in all directions, with their eyes distended
 with terror, throwing down their arms and looking dejected."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -291,8 +281,6 @@ cha* = and leaping over; *patitam* = those who have fallen.
 
 "They are not ashamed of one another. They are not looking behind than even. They
 are jostling each other and leaping over those who have fallen."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -339,8 +327,6 @@ there); *vardhayaamaasa* = and cheered; *sugriiva* = Sugreeva; *raaghavam cha*
 
 In the midst of this turmoil, the valiant Vibhishana, wielding a mace in his hand
 came there and cheered Sugreeva and Rama saying "Victory to Rama! Victory to Rama!."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -387,8 +373,6 @@ Jambavan the king of the bears; *samiipastham* = who stood near; (as follows):
 
 Observing Vibhishana to be the cause of panic among the monkeys, Sugreeva spoke to
 the illustrious Jambavan the king of Bears who stood near (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -439,8 +423,6 @@ Indrajit; Ravana's son.
 
 "It is Vibhishana who has come here. On seeing him, the foremost of monkeys seized
 with terror have fled, deeming him to be Indrajit, Ravana's son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -488,8 +470,6 @@ monkeys; *bhiighram* = immediately; *susantrastaan* = who; in fear;
 
 "You reassemble those monkeys immediately, who in fear have scattered in many
 directions and inform them that it is Vibhishana who has come!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -539,8 +519,6 @@ Sugreeva; *jaambavaan* = Jambavan; *R^ikSa paarthivaH* = the king of Bears;
 
 Thus spoken by Sugreeva, Jambavan the king of Bears called the fugitive monkeys back
 and restored them to confidence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -587,8 +565,6 @@ nivR^ittaaH* = retraced their steps; *tyakta saadhvasaah* = shaking off their fe
 
 Hearing the words of Jambavan the king of Bears, all those monkeys, on perceiving
 Vibhishana, retraced their steps, shaking off their fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ Vibhishana, retraced their steps, shaking off their fear.
 
 Meanwhile, the virtuous Vibhishana, on beholding Rama's body as also of Lakshmana's
 covered with arrows, felt distressed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ eyes; *hastena* = with his hands; *jalaklinnena* = dipped in water; *ruroda* =
 
 Washing their eyes with his hands dipped in water, Vibhishana began to weap, with
 anguish seizing his heart and lamented, saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -732,8 +704,6 @@ combatants.
 
 "These two powerful and valiant warrriors have been brought tot his state by the
 demons, the treacherous combatants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -783,8 +753,6 @@ wicked youth; *duraatmanaa* = of perverse soul; *raakSasyaa* = in his demoniacal
 
 "The son of my brother, that wicked youth of perverse soul in his demoniac cunning
 mind, has decived those two honourable fighters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -831,8 +799,6 @@ mind, has decived those two honourable fighters."
 
 "These two warriors, Rama and Lakshmana, who were struck badly by arrows and covered
 with blood are lying on the earth, like two porcupines."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -880,8 +846,6 @@ the body.
 
 "These two lions among men, on whom depended the positon aspired by me, are lying
 insensible, waiting for the dissolution of the body."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -929,8 +893,6 @@ desires realised.
 
 "Deprived of the hope now of becoming a king, I am as one dead, eventhough
 surviving; while my rival Ravana sees his vow fulfilled and gets his desires realised."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -977,8 +939,6 @@ lamenting; *abraviit* = spoke; *idam* = these words.
 
 Then, Sugreeva the magnanimous King of Monkeys embraced that Vibhishana thus
 lamenting and spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1026,8 +986,6 @@ now.
 
 "O, knower of what is right! You shall certainly reign over Lanka. Ravana and his
 son will not acheive their purpose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1075,8 +1033,6 @@ battle.
 
 "The injury done to Rama and Lakshmana is not grave. Emerging from their swoon, they
 will destroy Ravana with his hordes in battles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1126,8 +1082,6 @@ convincing; *tam raakSasam* = that Vibhishana; *evam* = in this way;
 
 Consoling and convincing Vibhishana thus, Sugreeva spoke to Sushena, his
 father-in-law, who was on his side (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1176,8 +1130,6 @@ sanjJNau* = have recovered their consciouness.
 "Taking these two brothers, Rama and Lakshmana with the troops of monkeys who are
 strong, you go to Kishkindha, till these two scourgers of their foes have recovered their
 consciousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1225,8 +1177,6 @@ lost.
 
 "As for me, I shall slay Ravana with his son and his relatives and bring back Seetha
 as did Indra the Lord of celestials, the prosperity he had lost."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1274,8 +1224,6 @@ me.
 
 "Hearing the words of Sugreeva, Sushena replied as followers: " A highly terrific
 and great was between celestials and demons was perceived by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1323,8 +1271,6 @@ arms.
 
 "By making themselves invisible again and again, the demons skilled in the use of
 arrows overcame the celestials despite their skill in bearing arms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1372,8 +1318,6 @@ lost their lives; *bR^ihaspatiH* = Brihaspati; *chikitsati* = treated (them);
 
 "To those celestials who were wounded, unconscious and almost deprived of life,
 Brihaspati treated them by the aid of herbs accompanied by his spells of sacred formulas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1420,8 +1364,6 @@ bring; *taani* = those; *ouSadhaani* = herbs.
 
 "Let the monkeys Sampati, Panasa and others go quickly in speed, to the ocean of
 milk, to bring those herbs."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1468,8 +1410,6 @@ efficacious herbs; *divyaam* = the celestial; *samjiivakaraNiim* = Samjivakarani
 
 "These monkeys are conversant with those efficacious mountianous herbs - the
 celestial Sanjivakarani and Vishalya, which were created by a God."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1529,8 +1469,6 @@ aparamauSadhii = excellent herbs; *tatra* = are here.
 "In the bosom of the milky ocean the best of oceans, rise the mountains called
 Chandra and Drona, where the ambrosia was formerly churned. These two excellent herbs exist
 there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1546,8 +1484,6 @@ celestials; *raajan* = O; King!; *ayam* = (Let) this; *hanuumaan* = Hanuman;
 
 "The celestials place dthose two mountain in the vast sea. O, King! Let Hanuman the
 son of Wind-God go there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1596,8 +1532,6 @@ earthquake.
 In the meantime, a great wind arose, accompanied by massed clouds and lightning,
 whipping up the salty waves in the ocean, causing the mountains to tremble as from an
 earthquake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1644,8 +1578,6 @@ briny water; *ambhasi* = of the ocena.
 
 "Large trees on the sand-banks had their branches broken by the mighty stroke of
 Vata's wings and fell headlong into the briny waters of the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1693,8 +1625,6 @@ ocean.
 
 "The snakes became frightened. The snakes inhabiting there and all the marine
 animals plunged quickly into the briny ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1741,8 +1671,6 @@ paavakam iva* = like unto a blzing torch.
 
 Thereupon, all the monkeys saw within a moment, a mighty eagle, Garuda, the son of
 Vinata, like unto a blazing torch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1790,8 +1718,6 @@ of mighty prowess; *sharabhuutaiH* = which became arrows; *yaiH* = by whom;
 
 On beholding Garuda the eagle which came there, the serpants who bound those two
 warriors Rama and Lakshmana in the form of mighty arrows, fled away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1843,8 +1769,6 @@ samaprabhe* = which were readiant like the moon.
 Thereupon, Garuda the eagle, coming into contact iwth Rama and Lakshmana d offering
 them his good wishes, with his hands caressly touched their faces that were radiant like the
 moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1894,8 +1818,6 @@ became; *snigdhe* = smooth; *suuarNecha* = and well-rounded.
 
 Their wounds, touched by Garuda the eagle, were healed. Their bodies soon became
 smooth and well-rounded.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1945,8 +1867,6 @@ intelligence; *smR^itishcha* = and memory; *dviguNam* = were re-doubled.
 
 Their lustre, valour, strength, endurance and resolution, those great qualities,
 also their perspicacity, intelligence and memory were re-doubled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -1994,8 +1914,6 @@ follows)
 
 Lifting them up both who were like Indra, the highly majestic Garuda the eagle
 embraced them. Rama also, being pleased, spoke to him (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2043,8 +1961,6 @@ before.
 
 "Now, by your grace, we both have overcome a great disaster created by Indrajit the
 son of Ravana. We have been made strong as before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2092,8 +2008,6 @@ paternal grandfather.
 
 "By meeting you thus, my heart is gladdened in the same manner as I am meeting
 Dasaratha, my fatehr and Aja, my paternal grandfather."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2140,8 +2054,6 @@ anointments; *vasaanaH* = wearing; *viraje* = clean; *vastre* = garments;
 
 "Who are you, the one endowed with beauty, having blissful garlands and anointments,
 wearing clean garments and adorned iwth divine ornaments?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2191,8 +2103,6 @@ in gladness; *uvaacha* = spoke; *tam* = to that Rama (as follows):
 
 The highly majestic and the mighty Garuda the eagle, the King of Birds, with his eys
 widened in gladness and with a pleased heart, spoke to Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2239,8 +2149,6 @@ here; *saahya kaaraNaat* = for helping; *yuvayoH* = both of you.
 
 "O, Rama! I am your dearest friend Garuda dear as your own breath moving outside I
 came here for the purpose of helping you, both."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2320,8 +2228,6 @@ sorcery; *indrajitaa* = by Indrajit; *kruura karmaNaa* = of cruel deeds.
 together with the celestial musicians having Devendra the Lord of celestials in their forefront are
 unable to untie this awfully terrific entanglement of arrows created through his power of sorcery
 by Indrajit of terrific deeds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2339,8 +2245,6 @@ you."
 "These serpents, which took their base at, were none other than the sons of Kadru
 with their sharp fangs, abundantly filled with poison, transformed into arrows, by the dint of
 sorcery by Indrajit the demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2388,8 +2292,6 @@ battle.
 
 "O, Rama the knower of righeousness and true to your promise! You, along with your
 brother Lakshmana the annihilator of enemies, indeed are lucky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2436,8 +2338,6 @@ incident; *aham* = I; *aagataH* = came; *sahasaiva* = soo;
 
 "Hearing about this incident, I have hastened all at once, duly cherishing the love
 and friendship (for you)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2484,8 +2384,6 @@ maintained; *yuvaabhyaam* = by both of you.
 
 "You have been released from this quite terrific shackle of arrows. Both of you
 should maintain vigilance, all the time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2532,8 +2430,6 @@ forwardness; *balam* = are the strength.
 
 "All the demons by their very nature are treacherous fighters in battle. For you,
 the warriors, your pue-mindedness and straight forwardeness are the strengths."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2581,8 +2477,6 @@ battle-field.
 
 "What Indrajit has done, exemplifies how the demons are always crooked-minded. For
 this reason, you should not trust the demons in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2632,8 +2526,6 @@ then; *pariSvajya cha* = and having embraced; *susnigdham* = affectionately;
 
 That mighty Garuda, having spoken thus to Rama then and having affectionately
 embraced him, began to take leave of him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2680,8 +2572,6 @@ leave of you; *gamiSyaami* = I shall proceed; *yathaasukham* = happily.
 
 "O, Rama the knower of piety, affectionate even towards your enemies and my dear
 fried! I wish to take leave of you." I shall proceed happily."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2728,8 +2618,6 @@ prati* = about my friendship; *kR^itakarmaa* = after the act is accomplished;
 
 "O, hero! You need not be so curious to know the casue of my friendship. You will
 know of it, once you have accomplished success in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2780,8 +2668,6 @@ flutter of your arrows; *hatvaa* = and by slaying; *raavaNam* = Ravana;
 
 "When, under the flutter of your arrows, Lanka has been destroyed save for the aged
 and the children and you have slain Ravana,. your enemy, you will bring back Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2840,8 +2726,6 @@ Having spoken thus, Garuda of swift flight, having beautiful wings, who had just
 healed Rama's wounds in the presence of monkeys, having paid obeisance presence of monkeys, having
 paid obeisance to him (by circumambulation) and taken him into his arms, entered the sky with the
 speed of the wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2888,8 +2772,6 @@ lions; *te* = they; *dudhuvushcha* = lashed; *laanguulam* = their tail.
 
 Seeing Rama and Lakshmana healed of their wounds, the cheifs of monkeys haowled like
 roars of lions and lashed their tails.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2939,8 +2821,6 @@ jumped in joy; *yathaapuram* = as before.
 
 Thereupon, gongs were beaten, drums resounded, and couches were blown amid jumping
 in joy of the monkeys as before.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -2991,8 +2871,6 @@ kinds; *shatasahasraH* = of hundreds and thousands; *drumaan* = of trees;
 
 Some other strong monkeys who use trees as maces in battle, waving their arms and
 uprooting hundreds and thousands of various trees, stood there, ready for the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -3042,8 +2920,6 @@ monkeys; *upaajagmuH* = reached; *lan^kaa dvaaraaNi* = the gates of Lanka.
 
 Uttering great noises, frightning the demons and desirous to fight, the monkeys
 reached the gates of Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 </details>
 
@@ -3098,8 +2974,6 @@ summer.
 
 Thereafter, a highly terrible and tumuluous sound arose among the leaders of the
 monkeys, as, at the end of summer the roaring of thunder clouds in the mid-night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -16,8 +16,6 @@ title_english = "009 Vibhishana speak words of morality"
 Sumantra was unable to console Kausalya, who lied on the floor due to her extreme
 grief over her separation from Rama, even though he tries to avert her grief by telling her that
 Rama can reside in the forest delightfully, by warding off his agony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -129,8 +127,6 @@ whom; *la.nkaa* = Lanka; *pradharSitaa* = was attacked.
 
 "Now itself, we shall kill Rama along with Lakshmana and Sugreeva as well as the
 pitiable Hanuma by whom Lanka was attacked."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 </details>
 
@@ -180,8 +176,6 @@ _________________
 
 Vibhishana (Ravana's youngest half-brother) restraining all those who were made to
 seize weapons, were made to sit again by saluting them with joined palms and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 </details>
 
@@ -230,8 +224,6 @@ maniiSiNaH = by wise men.
 "Dear brother! That act which cannot be accomplished by three well-known strategies
 (viz . conciliation, gift and sowing dissention) , is only then to be accomplished by exhibiting
 prowess, as stated by wise men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 </details>
 
@@ -280,8 +272,6 @@ to precept; *pariikSya* = after being examined carefully; *sidhyanti* = succeed.
 "The gallantries performed according to the prescribed precept, after being tested,
 O dear brother, only succeed against those who are indifferent, who have been already attacked by
 an enemy or who stand struck down by fate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 </details>
 
@@ -332,8 +322,6 @@ _________________
 "How do you wish to attack that famous Rama, who is always attentive, who has a will
 to conquer, who is established in strength, who has subdued his anger and who is difficult to be
 conquered."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 </details>
 
@@ -381,8 +369,6 @@ ocean; *nada nadii patim* = the lord of streams and rivers?
 
 "Who can conceive or even imagine in this world, that Hanuma's speed in crossing the
 formidable ocean, which is the lord of streams and rivers?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -404,8 +390,6 @@ any means.
 
 "O, demons! The strength and the abilities of the enemies are difficult to be
 measured. They cannot be treated with contempt hastily by any means."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 </details>
 
@@ -447,8 +431,6 @@ measured. They cannot be treated with contempt hastily by any means."
 
 "What offence was done earlier to the king of demons by the illustrious Rama, whose
 wife that he bore away from Janasthana?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -499,8 +481,6 @@ by living beings."
 
 "Khara, who has gone beyond limits, was of course killed by Rama in an encounter.
 Lives are certainly to be protected, according to one's own strength, by living beings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -552,8 +532,6 @@ arthe* = with an animosity as an end?.
 "For this reason, a very great danger because of Seetha will occur to us. She, who
 was brought here, is to be given away. What is the use in doing anything, with an animosity as an
 end?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -601,8 +579,6 @@ end?"
 
 "It is not appropriate to make enmity uselessly with Rama, who is valiant and who
 follows righteousness. Let Seetha be given away to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -652,8 +628,6 @@ samaakulaam* = and filled with many riches; *daarayate* = are shattered;
 
 Before the City of Lanka with its elephants, horses and many riches are shattered by
 arrows, let Seetha be given away to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -706,8 +680,6 @@ away.
 
 "Not so long as the huge army of monkeys which is very dangerous and unconquerable
 attacks our Lanka, let Seetha be given away."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 </details>
 
@@ -750,8 +722,6 @@ too(will perish).
 
 "If the beloved wife of Rama is not given away of your own accord, the city of Lanka
 will indeed perish. All our valiant demons too will Perish."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -799,8 +769,6 @@ beneficial; *tvaham tu* = and the truthful (word); *maithilii* = (let) Seetha;
 
 "I am propitiating you because of my relationship. Act on my words. I am telling you
 beneficial as well as truthful word. Let Seetha be given away to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -866,8 +834,6 @@ and shafts; *amoghaan* = which are unfailing; *maithilii* = (let) Seetha;
 "Before Rama the prince discharges for your destruction, very strong and unfailing
 arrows equal to the rays of autumnal sun and provided with new heads and shafts, let Seetha be
 given away to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 </details>
 
@@ -918,8 +884,6 @@ away; *daasharathaaya* = to Rama.
 "Abandon soon your anger, which destroys happiness and piety. Resort to
 righteousness, which augments joy and fame. Become placid so that we may live with our sons and
 relatives. Let Seetha be given away to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -969,8 +933,6 @@ words; *raavaNaH* = Ravana; *raakSaseshvaraH* = the king of demons;
 
 After hearing Vibhishana's words, Ravana the king of demons left all of them and
 entered his own palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1010,8 +972,6 @@ extraordinarily strong, Dhumarksha and Atikaya and the demon by name Durmukha, c
 sharp-edged spears, spikes, darts, javelins and axes, bows with excellent arrows and swords shining
 like a vast expanse of water, and who were all extremely enraged, and flaming as it were with
 glory, those demons rose up and spoke to Ravana (as follows).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

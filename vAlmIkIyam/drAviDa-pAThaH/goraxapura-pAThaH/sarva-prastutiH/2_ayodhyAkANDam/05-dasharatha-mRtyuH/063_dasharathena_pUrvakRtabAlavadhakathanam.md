@@ -21,8 +21,6 @@ trumpeting of an elephant the prince hit the boy with an arrow, which went deep 
 mortally wounded him. On approaching the victim, he discovered the fatal blunder and tendered his
 heart felt apologies to the hermit boy, who asked him to extract the arrow from his body and inform
 his parents. The boy died soon after the arrow was drawn out from the body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ chetanaH* = with mind affiliated with grief; *abhyapadyata* = got into;
 
 The king, awakened after some time, with his mind afflicted with grief, got into an
 anxious thinking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ Rahu.
 
 Due to banishing of Rama and Lakshmana, a great calamity befell on Dasaratha who was
 equal in strength to Indra like sun seized by obscurity, which is attributed to the demon Rahu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ whose eye-corners were dark in colour.
 After Rama along with his wife departed to the forest, Dasaratha the king of Kosala
 recalling his earlier sin, wanted to tell Kausalya, whose eye-corners were dark in colour all about
 it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ ago).
 
 After Rama was sent into exile to the forest, King Dasaratha, on the sixth night at
 mid-night, was recalling his sin done (long ago).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ to Kausalya; *putrashokaartaam* = who was suffering from sorrow for her son.
 
 King Dasaratha, afflicted by grief for his son, recalling his sin, spoke the
 following words to Kausalya who was suffering from sorrow for her son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ obtains; *tadeva* = it surely; *aatmanaH* = his own; *karmajam* = result.
 
 "O, blessed lady! O gracious one! A doer reaps surely the fruit of his own deeds
 corresponding to the nature of work either good or bad, of that which he does!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ vaa* = (or) their defect; *saH* = he; *uchoyate ha* = is surely called;
 
 "He who does not consider, while undertaking actions, the relative value of their
 fruits as well as the utilities or defects accruing from them, is surely called a fool."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ to grief; *phalaagame* = after arrival of fruit."
 "Anyone, who after seeing their (charming and big) flowers, greedily desires their
 (large and luscious) fruits and nourishes Palasa trees, by cutting off a mongo grove, he will come
 to grief after bearing of their fruit."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -474,8 +456,6 @@ at the time of fruit-bearing; *shochet* = will come to grief.
 
 "He who without knowing the result goes running towards action, will come to grief
 as a nourisher of Kimsuka trees coming to grief at the time of their fruit-bearing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -526,8 +506,6 @@ mango grove. durmatiH = being wicked-minded; *tyaktvaa* = leaving; *raamam* = Ra
 
 "I nourished Palasa trees, by cutting off mango grove. Being wicked-minded in
 abandoning Rama at the time of arrival of fruit, I am lamenting thereafter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -575,8 +553,6 @@ a bow; *idam* = this; *paapam* = sin; *kR^itam* = was done; *kumaareNa*
 
 "This sin was done by me while I was young and wielding a bow. At that time, I was
 famous as a young man, who can shoot heard (but unseen) object by an arrow, O Kausalya!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -624,8 +600,6 @@ me; *yathaa syaat* = perhaps as; *viSam* = a poison; *bhakSitam* = eaten;
 
 "This grief, obtained by my own accord, has befallen me, as by a boy in ignorance
 eating poison in the world; O, Kausalya!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -674,8 +648,6 @@ eating poison in the world; O, Kausalya!"
 "How the other man became disillusioned by Palasa trees, I also became disillusioned
 in the same manner, without knowing accurately the correct result of hitting a target by means of
 sound only."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -723,8 +695,6 @@ and desire (for hunting).
 
 "O, Kausalya! You were unmarried till then and I was the Prince Regent. Then came
 the rainy season which enhanced excitement and desire (for hunting)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -772,8 +742,6 @@ spirits.
 
 "The sun, partaking fluids from earth and warming the world with its rays, entered
 the terrible southern quarter haunted by spirits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -820,8 +788,6 @@ frogs; cuckoos and peacocks; *kajR^iSire* = were full of joy."
 
 "Heat disappeared suddenly. Resplendent clouds appeared in the sky. All frogs,
 cuckoos and peacocks were full of joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -869,8 +835,6 @@ wind."
 
 "Birds with moistened top of their wings as if they bathed, reached with great
 difficulty the trees, the tops of which were shaken off by rain and wind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -917,8 +881,6 @@ rut; *ababhau* = glowed; *toyaraashiriva* = like an ocean.
 
 "Enveloped by water falling again and again on the water already fallen, the
 mountain with its antelopes in rut, glowed like an ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -966,8 +928,6 @@ varNaani* = with white and red colours; *sabhasmaani* = along with ashes;
 "Although the water-streams were crystal clear, they flowed in serpentine courses,
 with white and red colours because of their admixture with ashes and mountain-minerals on the
 way."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1014,8 +974,6 @@ churned with reddish water; *unmaargajalogaamini* = carrying water by a wrong wa
 
 "The water-streams, which were crystal-clear till then, became churned with reddish
 waters, carrying water by a wrong way, after the onset of rain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1062,8 +1020,6 @@ a chariot; dhanuSmaan; wearing a bow; *ishhumaan* = and arrows.
 
 "With a wish to do hunting as an exercise in that most comfortable season, I went
 along Sarayu River, in a chariot, wearing bow and arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1114,8 +1070,6 @@ kaarmukaH* = I was ready with my bow; *ekaante* = at a solitary place.
 "Without my senses under control and with an intent to kill there a (wild) buffalo
 or an elephant or any other wild animal coming in the night at that place for the purpose of
 drinking water, I was ready with my bow at a solitary place."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1163,8 +1117,6 @@ which arrived; *tatra* = there.
 
 "Hearing the sound, I killed turning towards it, a wild animal, which came to the
 bank of Sarayu River and another violent beast too which came there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1222,8 +1174,6 @@ up; *jale* = in water; *nardataH vaaraNasyeva* = like that of an elephant."
 
 "Meanwhile, in that darkness and not within the react of the eye, I heard the sound
 of a pitcher being filled up, the sound of which appeared like that of an elephant."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1239,8 +1189,6 @@ an arrow; *diiptam* = shining; *ashiiviSopamam* = and equal to a serpent.
 
 "With an intent to hit that elephant, I drew out a shining arrow resembling a
 serpent, targeted towards the direction sound and discharged it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1312,8 +1260,6 @@ forest; *patataH* = dropping down; *toye* = in water; *baaNaabhiihatamarmaNaH*
 "I released a sharp arrow, resembling a serpent. There, at dawn, arose a distinct
 voice uttering 'Ah! Ah!' of a forest-inhabitant, dropping down in water after his vital part was
 hit by an arrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1335,8 +1281,6 @@ me?
 
 "While that arrow was attacking a human voice there was heard, saying, 'Oh, how a
 weapon did rush upon an ascetic like me?' "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1353,8 +1297,6 @@ was done; *mayaa* = by me; *karya* = to any one?
 
 'I came to the river, which is away from habitation, in the night to fetch water. By
 whom I was hit by an arrow? On the other hand what wrong have I done to anyone?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1409,8 +1351,6 @@ enjoined?
 
 "To a seer like me, of having laid down violence and living a fruits and roots of
 wild plants in the forest, how a killing by an arrow is enjoined?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1431,8 +1371,6 @@ killing; *mama* = of me; *jaTaabhaarudharasyaam* = wearing a mass of locks of ha
 
 "Who is desirous of killing me, wearing a mass of locks of hair and clad with bark
 of trees and deer-skin? What harm was done to him by me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1449,8 +1387,6 @@ violates his teacher's bed; *saadhu* = as good.
 "A vain act concerning only with a useless objective is undertaken in this manner.
 No one will admire him, as for instance like any man seeking the bed of his preceptor's wife, as
 good."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1497,8 +1433,6 @@ both; *maataram* = for my mother; *pitaaramcha* = and father.
 
 "I do not worry that much of my death. I worry both for my mother and father, in the
 case of my death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1545,8 +1479,6 @@ case of my death."
 
 'By what means of livelihood this elderly couple, maintained since a long time by
 me, support themselves when I obtain my death?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1600,8 +1532,6 @@ and very much a fool; *sarve* = all of us; *nihataaH sma* = are killed?
 
 "I and my aged parents are killed by a single arrow. By a man without self control
 and being very much a fool, all of as are virtually killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1623,8 +1553,6 @@ arrows."
 
 "Hearing those pitiable words and since I was always intent on righteousness, I felt
 distressed. The bow and arrow fell down from my hands to the ground."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1641,8 +1569,6 @@ grief."
 
 "Hearing his pathetic cry, weeping profusely during the night, I became unconscious
 frequently, utterly bewildered as I was, due to flare-up of my grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1717,8 +1643,6 @@ the arrow.
 the ascetic, hit by the arrow at the bank of Sarayu River, with his tresses of hair scattered, his
 pitcher of water thrown asunder, having his limbs anointed with sand and blood lying down as he
 was, hurt by the arrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1766,8 +1690,6 @@ he; *uvaacha* = spoke; *iti* = thse; *kruuram* = harsh(words); *tataH*
 
 Looking up with his eyes, as if going to scorch with his glory, at me who stood
 terrified and sick in mind, he spoke those harsh words then:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1815,8 +1737,6 @@ residing; *vane* = in a forest?"
 
 "O, king! I, who was carrying water for my parents, was hit by you. What was the
 harm done to you by me who is residing in a forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1863,8 +1783,6 @@ father; *andhau* = who are blind; *vR^iddhau* = and aged.
 
 'Being hit on my secret part by a single arrow, you virtually killed both my mother
 and father, who are blind and aged.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1914,8 +1832,6 @@ and attended with expectation; *chiram* = since long; *nuunam* = I am sure.
 
 "Both of them, weak blind and thirsty, might have refrained their thirst with
 difficulty and waited with expectation of my arrival since long. I am sure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -1967,8 +1883,6 @@ on the ground.
 'Surely, our (mine or father's) religious austerity or sacred knowledge have not
 borne fruit because my father does not have information about me, having fallen down and lying on
 the ground.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -2015,8 +1929,6 @@ the ground.'
 
 "What my disabled father, unable to walk around can do, even if he knows like a tree
 unable to protect another tree which is being cut off?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -2075,8 +1987,6 @@ anger; *vanamiva* = as a forest (in scorched); *edhitaH* = by flared-up;
 
 'O, Dasaratha! Going there soon, you alone tell my father; so that he will not
 scorch you by his anger, as a forest is scorched by a flared-up fire.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2094,8 +2004,6 @@ you."
 
 'O, king! This foot-path will lead you to my father's hermitage. After going there,
 seek his graciousness, lest he should get angry and execrate you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -2140,8 +2048,6 @@ delicate; *amburayaH yathaa* = in the same way as a river current (corrodes);
 'O, king! Extract this arrow-head from my body. This sharp arrow torments my
 delicate vital part in the same way as a river-current corrodes the sandy bank, which is at a
 height.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2159,8 +2065,6 @@ suffer; *praaNaiH* = with his lives; *vishalyaH* = without the arrow-head;
 "While extracting the arrow-head from him, this thought entered my mind. With
 arrow-head in his body he will suffer, even though surviving. But after extracting the arrow-head,
 he will die."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -2210,8 +2114,6 @@ pitiable; *shokaaturasya* = suffering from anguish.
 
 "Then, the son of the sage perceived worry in the heart of myself, who was lamenting
 pitiably, suffering from anguish."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -2268,8 +2170,6 @@ and being in distress; *vivR^ittaangaH* = distorting the limbs in agony;
 Sinking into despondency with distress, distorting his limbs in agony, coiling round
 himself on the floor with extreme pain and having approached the end of his life, he spoke to me
 (as follows) with great difficulty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2286,8 +2186,6 @@ heart; *brahmahatyaakR^itam* = caused by the thought of your having killed a Bra
 
 'Suppressing my grief with firmness, I am becoming stable-minded. Let the torment in
 your heart, caused by the thought of your having killed Brahmana be removed.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 </details>
 
@@ -2338,8 +2236,6 @@ born; *shuudraayaam* = = through a Sudra woman; *vaishyena* = by Vysya.
 
 'O, king the ruler of the country! I am not a Brahmana. Let there be no agony in
 your mind. I am born through a Sudra woman by a Vysya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

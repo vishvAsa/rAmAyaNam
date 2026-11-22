@@ -18,8 +18,6 @@ They cross the River Yamuna by a raft prepared by themselves. Seetha prays the R
 fig tree called Syama. The three of them traveled for a couple of miles along the bank of Yamuna,
 strolling in the charming forest and reach a leveled ground on the bank to take rest for the
 night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ towards that mountain.
 Having stayed that night there, those princes the annihilators of enemies,
 thereafter offered salutation to the sage Bharadwaja and proceeded towards that mountain of
 Chitrakuta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ That great sage Bharadwaja performed a religious rite ensuring a sage journey
 (scattering boiled rice on the ground and invoking blessing through the repetition of certain
 sacred texts0 for them. Perceiving them setting out for the journey, the sage accompanied them for
 a distance, as a father would do for his sons (and daughter-in-law).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ a distance, as a father would do for his sons (and daughter-in-law).
 
 Bharadwaja the great sage with a remarkable splendour began to speak the following
 words to Rama the truly brave man.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ anugachchhetaam = follow; *kaaLindiinadiim* = the River Yamuna;
 
 "After approaching Oh, the best of men! The confluence of Ganga and Yamuna, follow
 the river Yamuna which takes to the direction of west."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -307,8 +297,6 @@ river; *amshumatiim* = Yamuna (the daughter of the sun-god) kR^itvaa = by prepar
 perceiving in it a passage for descent into the river, which is too much frequented the river,
 which is too much frequented, you cross the River Yamuna (the daughter of the sun-god) by preparing
 a raft there, Oh Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -333,8 +321,6 @@ tree."
 After crossing the river Yamuna and approaching a large banyan tree named Syama
 (dark-green) having green leaves surrounded by many tress and visited by Siddhas, Seetha should,
 joining her palms, recite her auspicious prayers to the tree."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -389,8 +375,6 @@ with Sallaka and jujube trees."
 "Having approached that tree, you can stay there or go beyond it. After going only
 for two miles from there, you will see a beautiful forest blue in colour with bamboo trees touching
 upon Yamuna river and interspersed with Sallaka and jujube trees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -438,8 +422,6 @@ forest-fire.
 
 "It is the way to Chitrakuta. I visited that place many times. It is beautiful,
 endowed with serenity and free from forest-fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -487,8 +469,6 @@ return.
 
 Having thus informed the way and ebbing urged by Rama to return after he had paid
 obeisance to the sage and Rama having replied �so be it', the great sage Bharadwaja returned.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -539,8 +519,6 @@ anukampate shows compassion; *naH* = towards us.
 
 That sage having returned, Rama spoke to Lakshmana as follows: "Oh Lakshmana! We are
 fortunate that the sage has shown compassion towards us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -590,8 +568,6 @@ guarding; *siitaam* = Seetha; *agrataH eva* = still in front.
 
 Deliberating thus, Rama and Lakshmana the tigers among men who were highly
 intelligent, headed for the river Yamuna guarding Seetha still in front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -641,8 +617,6 @@ titiirshhavaH* = desirous of crossing the river-waters.
 
 Having reached the River Yamuna, running with rapid stream, all of them then plunged
 into a thought of how to cross those river-waters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -701,8 +675,6 @@ bamboo canes.
 
 Then, Rama and Lakshmana prepared a big raft with pieces of timber fastened
 together, covered with a kind of grass and spread over with dry bamboo canes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -718,8 +690,6 @@ branches of reeds; *jambushaakshaashcha* = and branches of rose apple tree.
 
 Thereafter, the valiant Lakshmana made for Seetha a comfortable seat, after chopping
 branches of reeds and of rose apple tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -778,8 +748,6 @@ of fortune.
 
 Then Rama the son of Dasaratha helped Seetha his beloved consort who was
 unimaginable like the goddess of fortune and who was feeling shy a little- to mount the raft.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -795,8 +763,6 @@ robes; *bhushhaNaani cha* = the jewellery; *kaThinakaajam cha* = shovel and a ba
 
 Rama kept the two robes the jewellery, a shovel and a basket by the side of Seetha
 in the raft there, along with weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -847,8 +813,6 @@ Seetha to ascend (it); *tataH* = and then; *prateratuH* = ferried over;
 
 Those valiant sons of Dasaratha firmly held that raft, firstly helped Seetha to
 ascend it and then ferried across the river watchfully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -921,8 +885,6 @@ Having arrived at the middle of Yamuna river, Seetha offered salutation to the r
 and prayed as follows: "Oh, goddess of Yamuna! Adieu! I am crossing you! May my husband complete
 his vow! When Rama safely comes back again towards the city of Ayodhya, ruled by Ikshvaku kings I
 shall propitiate you by offering a thousand cows and a hundred drinking vessels."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -969,8 +931,6 @@ reached; *dakshhiNam tiirameva* = the bank on the southern side.
 
 Seetha of excellent complexion thus praying with joined palms to Yamuna River,
 forthwith reached the southern side of the river.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1013,8 +973,6 @@ reflection.
 Thus, by the raft, Seetha Rama and lakshmaNa crossed the River Yamuna, which flows
 briskly, wreathed with waves, with many trees born on its bank and having rays for it
 reflection.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1056,8 +1014,6 @@ through; *yamunaavanaat* = the river-forest of Yamuna; *aaseduH* = and reached;
 
 They, who have crossed the river, abandoned the raft and march through the
 river-forest of Yamuna and reached a cool banyan tree called Syama having green leaves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1127,8 +1083,6 @@ Kausalya and; *yashasviniim* = the illustrious; *sumitraam cha* = Sumitra;
 Having approached that banyan tree, Seetha spoke these words, "Oh, great tree!
 Obeisance to you! Let my husband complete his vow! Let me see again Kausalya and the illustrious
 Sumitra." Thus speaking, Seetha circumambulated that tree with joined palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1175,8 +1129,6 @@ was beloved; *vidheyaameha* = and who was obedient; *abraviit* = spoke;
 
 Seeing the irreproachable Seetha, who was beloved and obedient to him thus praying,
 Rama spoke to Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1223,8 +1175,6 @@ Rama spoke to Lakshmana as follows:
 
 "Oh, Lakshmana, the excellent of men! You take Seetha and proceed in the front. I,
 along with weapons, will follow you behind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1272,8 +1222,6 @@ finds delight."
 
 "Give to Seetha whatever fruit or flower she desires it and wherever this Seetha's
 mind finds delight."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1323,8 +1271,6 @@ the middle; *maataNgayoH* = of two elephants.
 
 Seetha who was walking in the middle of both of them was like an auspicious female
 elephant in the middle of two elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1375,8 +1321,6 @@ earlier.
 
 That Seetha asked Rama whenever she saw the one or the other tree or a bush or a
 creeper shining with flowers which was not seen earlier.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1423,8 +1367,6 @@ kinds; *ramaNiiyaan* = of beautiful twigs; *paadapaan* = of tress;
 
 Duly grasping Seetha's words; Lakshmana brought to her many kinds of beautiful twigs
 of trees, full of flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1471,8 +1413,6 @@ naaditaam* = re-echoing to the cry of swans and cranes.
 
 Then Seetha the daughter of King Janaka was please to see the River Yamuna with
 wonderful sands and waters re-echoing to the cry of swans and cranes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 </details>
 
@@ -1524,8 +1464,6 @@ wonderful sands and waters re-echoing to the cry of swans and cranes.
 
 Thereafter having travelled only a couple of miles the two brothers Rama and
 Lakshmana killed many consecrated deer and ate in the river-forest of Yamuna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

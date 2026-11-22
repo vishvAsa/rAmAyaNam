@@ -18,8 +18,6 @@ Indrajit. A fight ensues between bears monkeys and demons. Hearing the terrible 
 battle, Indrajit discontinues his sacrificial rite and enters the battle-field. Hanuma with trees
 as weapons, plays havoc among the demons and challenges Indrajit to a duel. Lakshmana catches sight
 of Indrajit, coming in his chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -65,8 +63,6 @@ saadhakam* = and which promoted an advantage (to Lakshmana).
 
 In that situation, Vibhishana then spoke the following words, which were hostile to
 the enemies and advantageous to Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ etat aayodhyataam* = be quickly engaged in this battle; *kapibhiH* = by the monk
 
 "Let this army of demons which is seen here, dark as a cloud, be quickly engaged in
 battle, by the monkeys using rocks as thier weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ samaapyate* = is not carried through.
 "You as such, rush forward quickly, gushing out arrows, equal to Indra's
 thunderbolt, on the enemies, so long as this sacrificial act of Indrajit is not actually carried
 through."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -206,8 +198,6 @@ acts; *sarvaloka bhayaavaham* = and who brings fear to all the worlds.
 "O hero! Make a short work of Indrajit, the evil minded, who is interested in
 performing conjuring tricks, who is unjust, engaged in cruel acts and who brings fear to all the
 worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -254,8 +244,6 @@ Vibhishana; *lakShmaNaH* = Lakshmana; *shubhalakShaNaH* = having auspicious mark
 
 Hearing the words of Vibhishana, Lakshmana, having auspicious marks, showered forth
 streams of arrows in the direction of Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -302,8 +290,6 @@ battle-array; *sahitaaH* = together.
 
 Bears and monkeys, who fight was gigantic trees, rushed towards that army of demons,
 drawn up in battle-array.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -353,8 +339,6 @@ spears and javelins.
 
 The demons too, with an intent to kill the monkeys in battle, attacked them with
 sharp arrows, sowrds, spears and javelins.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -395,8 +379,6 @@ reverberating; *laN^kaam* = Lanka; *samantataH* = on all sides.
 
 That tumultuous battle between the monkeys and the demons rendered Lanka noisy on
 all sides with its great uproar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -446,8 +428,6 @@ girishR^ingaishcha* = and with tossed mountain-tops.
 
 The sky was covered with weapons of various shapes, sharp arrows, trees and tossed
 mountain tops.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -496,8 +476,6 @@ of ugly faces and arms; *niveshayantaH* = hurling; *shastraaNi* = weapons;
 
 Those demons of ugly faces and arms, hurling weapons on the monkeys, created a great
 fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -544,8 +522,6 @@ struck; *jaghnuH* = and killed; *sarva raakShasaan* = all the demons; *samare*
 
 Even the monkeys too struck and killed all the demons in the battle, with various
 types of trees and mountain-peaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -589,8 +565,6 @@ monkeys; *mahaakaayaiH* = possessing collosal bodies.
 
 A great fear developed among the demons who were fighting with mighty leaders of
 bears and monkeys endowed with colossal bodies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -637,8 +611,6 @@ dejected; *saH durdharShaH* = that unconquerable Indrajit; *udatiShThata* = left
 
 Hearing that his own army being tormented by the enemies, was dejected; that
 unconquerable Indrajit left off, without performing the sacrificial rite.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -685,8 +657,6 @@ trees; *aaruroha* = ascended; *ratham* = his chariot; *sajjam* = kept ready;
 
 That enraged Indrajit, coming out from the gloominess of the trees, ascended his
 firmly yoked chariot which had already been united
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -733,8 +703,6 @@ shone; *antakaH mR^ityuriva* = like the destructive Death.
 
 That awful Indrajit, armed with terrific bow and arrows, looking like a mass of
 black collyrium with his blood-red eyes, appeared like the destructive Death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -775,8 +743,6 @@ demons; *bhiima vegaanaam* = with a terrific speed; *paryavartata* = turned back
 
 Just on seeing Indrajit being on a chariot, that army of demons with a terrific
 speed, turned back, wishing to fight with Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -848,8 +814,6 @@ At that time, Hanuma the destroyer of enemies looking like a mountain, uplifted 
 absolutely unpaalleled large tree. Consuming that army of demons, as a fire at the time of
 universal dissolution, the aforesaid monkey made that army unconscious on the battle field, with
 many trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -890,8 +854,6 @@ weapons.
 
 Immediately on seeing Hanuma destroying thier army rapidly, thousands of demons
 hurled weapons on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -984,8 +946,6 @@ with spears, as also with bright-looking spears, with hundreds of cylindrical wo
 with iron spikes, with steel hammers, ,with awful axes, with slings for the rwing stones, with
 their thunderbolt-like fists and slaps which fell like flashes of lighning. Then, the enraged
 Hanuma made a colossal destruction of those demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1032,8 +992,6 @@ Hanuma made a colossal destruction of those demons.
 
 That Indrajit saw Hanuma, the foremost of monkeys, looking like a mountain,
 fearlessly killing his enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1075,8 +1033,6 @@ raakShasaam* = of our demons.
 
 He spoke the following words tohis charioteer: "Take the chariot to the place where
 that monkey is standing. If we neglect him, he will surely destroy our demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1118,8 +1074,6 @@ Hanuma (was there).
 
 Hearing the words of that Indrajit, the charioteer went, carrying that very
 unconquerable Indrajit sitting in the chariot, to the place where Hanuma was there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1169,8 +1123,6 @@ sharp-edged spears and axes; *kapimuurdhaani* = on the head of Hanuma.
 
 Coming close to Hanuma, that unconquerable Indrajit hurled swords, sharp-edged
 spears and axes on the head of Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1220,8 +1172,6 @@ rage.
 
 Receiving those terrible weapons, that Hanuma spoke, seized as he was, with great
 rage, the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1261,8 +1211,6 @@ to Hanuma; *na pratiyaasyasi* = you will not return; *jiivan* = alive.
 
 "O evil-minded Indrajit! If you are valiant, fight with me. Coming nearer to Hanuma,
 you will not return alive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1304,8 +1252,6 @@ the best; *rakShasaam* = among the demons.
 
 "O foolish fellow! If you enter into a duel with me, fight with your arms. Withstand
 my force in the battle-field. Then you will be considered as the best among the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1346,8 +1292,6 @@ Hanuma.
 
 Vibhishana told Lakshmana in the following words that while with bow upraised,
 Indrajit sought to kill Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1397,8 +1341,6 @@ _________________
 
 "Having seated in a chariot, Indrajit, who conquered Indra, is seeking to kill
 Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1414,8 +1356,6 @@ enemies; *jiivitaanta karaiH* = and putting an end to their lives.
 
 "O Lakshmana! Kill that Indrajit with your terrific arrows of incomparable
 workmanship, which ward off the enemies and putting an end to their lives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 </details>
 
@@ -1463,8 +1403,6 @@ was difficult to approach.
 Hearing the words of Vibhishana, who was fearful to his adversaries, the
 great-souled Lakshmana saw Indrajit, who closely resembled a mountain, seated in a chariot, of
 terrific strength and who was difficult to approach.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1485,8 +1423,6 @@ bhinne* = while this army is borken; *raakShasendra sutaH.api* = Indrajit also;
 
 "O Lakshmana! Make an effort to break this mighty army. When this army is destroyed,
 Indrajit also will become visible."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

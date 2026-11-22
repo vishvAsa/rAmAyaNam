@@ -20,8 +20,6 @@ presence of Ravana, whom he was eager to see and was forced in self-defense to k
 in his way. Finally, he declares himself to be a messenger of Rama and adds that, though he was incapable
 of being bound by a missile presided over by Brahma, he surrendered to it only in order to see Ravana
 in person.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ aaviSTah* = affected with violent anger; *shaN^kaahR^itmaa* = with his mind seiz
 That Ravana, the long-armed, who caused people to cry, looking up at that monkey standing
 in front of him, was affected with violent anger, having his mind seized with suspicion, speculated
 (as follows) about Hanuma, the jewel among the monkeys, who was invested with splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -138,8 +134,6 @@ or he; *syaat kim svit* = in whether; *mahaasuraH baaNaH* = the great demon name
 "When Mount Kailasa was moved by me, is it the same Nandi the divine bull (attendant
 of Siva) which cursed me long ago and came here now in this form or whether he is Bana the great demon
 (son of Bali) came here in the form of a monkey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -186,8 +180,6 @@ Prahasta; *mantrisattaamam* = his chief of ministers.
 
 That king Ravana, becoming enraged with red hot eyes, spoke the following concise and
 meaningful words relevant to that occasion, to Prahasta, his chief of ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -260,8 +252,6 @@ place; *kaH arthaH* = and for what purpose; *asya* = for him; *tarjane* = to fri
 
 "Ask this wicked monkey from where did he come, for what reason did he come to this place
 and for what purpose did he frighten the female-demons in destroying our garden."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -277,8 +267,6 @@ aayodhanevaa* = in doing the battle.
 
 "Ask this evil-minded monkey as to what really is his purpose in coming over to my invincible
 City and what pursuit he is doing this battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -354,8 +342,6 @@ words (to Hanuma); *samaashvasihi* = take courage!; *bhadram te* = Happiness to 
 
 Hearing the words of Ravana, Prahasta spoke the following words to Hanuma, "Take courage!
 Happiness to you! You need not get frightened, O monkey!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -371,8 +357,6 @@ fear; *te* = for you; *mokSyase* = you will be released.
 
 "O monkey! If Indra has sent you to the abode of Ravana, tell me the truth. Do not have
 fear. You will be released."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -453,8 +437,6 @@ longing for a victory?
 "Are you, the one who has entered our city, assuming the guise of a spy, sent by Kubera
 the god of riches or by Yama the god of death or by Varuna the lord of the sea or whether sent by Vishnu
 the lord of preservation, as a messenger, longing for a victory?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -470,8 +452,6 @@ form alone; *vaanaram* = (is that of) a monkey; *tejaH* = (your) splendour; *na 
 
 "O monkey! Your form alone is that of a monkey. Your splendour indeed is not that of
 a monkey. Now, tell me the truth. Thereupon, you will be released."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -517,8 +497,6 @@ a monkey. Now, tell me the truth. Thereupon, you will be released."
 
 "If you tell a lie, your survival will be difficult. Or else, tell me the purpose of
 your entry into Ravana's abode."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -582,8 +560,6 @@ Hearing the words of Prahasta, Hanuma spoke to Ravana the Lord of demons as foll
 "I am not a messenger of Indra or Yama or Varuna. I have no friendship with Kubera the god of riches,
 nor am I instigated by Vishnu. This is just my form of existence, by my very birth. I am a monkey who
 came here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -644,8 +620,6 @@ _________________
 
 "The sight of Ravana the King of demons is difficult to be obtained. Intent on that object
 (of sight of Ravana), the garden was destroyed by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -687,8 +661,6 @@ too; *pitaamahaadeva* = from Brahma only.
 
 "I am incapable of being bound by missiles and nooses even by celestials and demons.
 This boon came to me also from Brahama only."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -733,8 +705,6 @@ _________________
 
 "Then, those strong demons came with a desire to fight with me. Just for protecting my
 body, I had to attack them in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 </details>
 
@@ -784,8 +754,6 @@ king's duty.
 With a desire to see you the king, I surrendered to the missile. Soon after bound by
 the demons, I was indeed released from the missile. I came to your presence, prompted by some mission
 of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -806,8 +774,6 @@ vachaam* = word of mine; *shruujataam cha* = be heard (by you).
 
 "O, Lord of demons! Know me to be a messenger of Rama who is possessing I am unlimited
 splendour. I am telling you a beneficial word. Listen to it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

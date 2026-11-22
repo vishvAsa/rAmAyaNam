@@ -22,8 +22,6 @@ his growing infatuation for her. Ravana asks his companions and relatives gather
 suggest ways and means to kill Rama and Lakshmana. Then, Kumbhakarna, Ravana's brother first
 accuses Ravana of his unworthy act but assures him that he would neutralize that dishonour by
 killing the enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ follows):
 
 Then, Ravana an eminent person in the assembly, having seen all that gathering,
 instructed Prahasta the chief of his army (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -155,8 +151,6 @@ king's order; *vinikSipat* = stationed; *sarvam* = the whole; *balam* = army;
 
 Prahasta, resolute in his mind to follow the king's orders stationed the whole army
 both outside as well as inside the city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -192,8 +186,6 @@ front; *raaN^aH* = of the king; *jagaada* = and spoke (as follows).
 
 Thereafter, Prahasta after keeping the whole army in defence of the city, sat in
 front of the king and spoke (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -238,8 +230,6 @@ undistracted mind."
 
 Your army, as strong as you are, has been positioned both outside and inside the
 city. Pray do quickly, with an undistracted mind, whatever is preferable to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -318,8 +308,6 @@ detriment; *hitaahite* = and of advantages and disadvantages of things.
 When you are in difficult situations regarding virtue pleasure and wealth, you are
 able to have a correct notion of pleasant and unpleasant things, happiness and sorrow, gain and
 detriment as well as advantages and disadvantages."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -369,8 +357,6 @@ _________________
 
 "All of my works undertaken by you with an act of attention, were never in
 vain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -410,8 +396,6 @@ well as celestials."
 
 "I will obtain maximum prosperity, while abiding with you, as Indra obtains
 properity while abiding with moon, planets, stars and celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -463,8 +447,6 @@ Kumbhakarna; *svapnaat* = beacuse of his sleep; *na achodayam* = I could not inf
 
 "I am intent on reminding all of you again. But I could not inform this matter
 earlier to Kumbhakarna because of his sleep."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -511,8 +493,6 @@ six months; *saH* = He; *samutthitaH* = woke up; *idaaniim* = now.
 
 "This most powerful Kumbhakarna, the chief among all the wielders of weapons, was
 indeed sleeping for the last six months and now, he woke up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -563,8 +543,6 @@ middle; *suhR^idaam* = of his friends.
 
 Hearing the words of Prahasta, who wished the welfare of the kingdom, king Ravana,
 with a desire to obtain happiness, spoke in the desire midst of his friends as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -580,8 +558,6 @@ randered; *rakSobhiH* = by demons."
 
 "Seetha the beloved wife of Rama was brought from the forest of Dandaka, the place
 frequented by demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -629,8 +605,6 @@ woman; *siitaa sadR^ishii* = similar to Seetha; *triSu* = in the three;
 
 Seetha of languid pace, does not like to reach my bed. I do not imagine any other
 woman similar to Seetha existing in the three worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -677,8 +651,6 @@ Maya.
 
 Maya: Architect of demons, also versed in magic, astronomy and military
 science.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ reddish nails; *me* = my; *shariirajaH* = lust; *diipyate* = is kindled.
 
 "Seeing Her feet with rose-coloured soles, smooth and evenly resting on ground with
 the rosy soles, my lust is kindled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ not being in my fire will; *eyivaan* = I obtained; *vasham* = the will;
 "Seeing her countenance similar to the flame of a sacrificial fire and looking like
 the radiance of the sun, with her prominent nose and the pretty clear and handsome eyes, I became
 unrestrained, having submitted to the will of my passion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -822,8 +790,6 @@ in grief and anguish."
 
 "I have been polluted by lust and equally by anger and pleasure thus making me pale
 and I have been ever since in grief and anguish."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -881,8 +847,6 @@ along the way; *satatam* = uninterruptedly.
 "Looking forward Rama, her husband, that longish large eyed Seetha, requested me to
 give time for one year. I accepted the auspicious words of the charmingly eyed Seetha. I am wearied
 of this lust, like a horse galloping along a path continuously."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 </details>
@@ -936,8 +900,6 @@ _________________
 
 How the monkeys or even Rama and Lakshmana can cross the unassailable ocean,
 completely infested as it was with sea-animals?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -982,8 +944,6 @@ known; *bruuta* = tell (me); *yathaamati* = according to your own intellect;
 "on the other hand, a huge destruction was done to us, by a single monkey. The
 consequences of their acts are unpredictable. Tell me what is there in your mind, according to your
 own understanding."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1037,8 +997,6 @@ the ocean.
 together with you, I conquered the celestials in a battle between the celestials and demons. You
 also conquered them. Knowing the whereabouts of Seetha, Rama and Lakshmana together with Sugreeva
 and other monkeys reached the other shore of the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1083,8 +1041,6 @@ may be killed; *suniitam* = A prudent advice; *abhidhiiyatamca* = be mentioned."
 
 "Let a consultation be held by you and a judicious line of course suggested, so that
 Seetha may not have to be handed -over to them back and Rama and Lakshmana may be killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1134,8 +1090,6 @@ Victory; *nishchayena* = is surely; *mama* = mine."
 
 "I do not see any other's capability to cross the ocean even so with the monkeys.
 Victory is surely mine."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1176,8 +1130,6 @@ those; *vachanam* = words.
 
 Hearing the lamentation of Ravana who was captivated by lust, Kumbhakarana became
 angry and spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1200,8 +1152,6 @@ to command.
 "O, commander! You are allowed to issue an order to see that well-trained warriors
 belonging to the four divisions of the army (viz.cavalry, infantry, chariots and elephants) are
 entrusted with the defense of the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1264,8 +1214,6 @@ by Yamuna River."
 here forcibly only after a single impulsive thought from the hermitage of Rama, who was accompanied
 by Lakshmana, even like the river Yamuna fills the depression at its source the moment it descends
 on earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1307,8 +1255,6 @@ done.
 
 "O, emperor! If all this act of consultation with us was done at the beginning of
 this action itself (of bringing Seetha here), it would have been worthy of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1355,8 +1301,6 @@ king; *karoti* = does; *raajakaaryaani* = king's functions;
 
 "O, Ravana! A king who performs king's functions with a mind duly ascertained by
 justice, will not repent thereafter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1403,8 +1347,6 @@ devotion.
 
 "Actions done pervertedly without use of any stratagem get spoiled, even as
 oblations not intent on devotion got spoiled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1452,8 +1394,6 @@ oblations not intent on devotion got spoiled.
 
 "He who is not aware of prudence and imprudence, wants to do actions which are to be
 done before at a later stage and actions which are to be done later at a stage before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1510,8 +1450,6 @@ swans seek the cleavage in the Kraunca mountain."
 
 God Kartikeya (son of Lord Shiva) made a cleavage in Krauncha mountain with His
 javelin. (Mahabharata, Salya Parva 46-84).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 </details>
@@ -1560,8 +1498,6 @@ mixed with poison."
 
 "This great act was undertaken by you without proper thinking. By good fortune, Rama
 did not kill you even as the meat mixed with poison would kill the consumer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1612,8 +1548,6 @@ therefore; *hatvaa* = by killing; *tava* = your; *shatruum* = enemies;
 
 "O, irreproachable brother! Therefore by killing your enemies, I shall neutralize
 the dishonourable act undertaken by you in relation to your enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1659,8 +1593,6 @@ Kubera (the god of riches) and Varuna (the god of water).
 "O, ranger of night! I shall destroy your enemies. I shall do battle with the two
 brothers, even if they are Indra and the sun-god or the god of fire and the wind-god or Kubera (the
 god of riches) and Varuna (the god of water).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1701,8 +1633,6 @@ afraid of me; *girimaatra shariirasya* = with a mountain-sized body;
 
 "Entering the combat with a mountain-sized body and fiery teeth, roaring the while
 and attacking with an immense bludgeon, I shall strike terror in Indra himself!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1744,8 +1674,6 @@ freely."
 
 "Even before Rama strikes me once more with a second arrow, I shall drink his blood.
 Cheer up freely.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1799,8 +1727,6 @@ shall eat awa; *sarvaan* = all hariyuuthamukhyaan = the leaders of monkey- troop
 
 "I shall try to fetch victory, which brings pleasure to you, by the killing of Rama.
 By exterminating Rama along with Lakshmana, I shall devour all the leaders of monkey-troops."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 </details>
 
@@ -1855,8 +1781,6 @@ abode of death; *mayaa* = by me; *siita* = Seetha; *bhavishhyati* = will be;
 "Enjoy yourself freely. Drink excellent of wines to the extent of your desire
 without any anxiety. Rama, having been dispatched by me to the abode of death, Seetha will be at
 your disposal forever."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Bala Kanda - The Youthful Majesties**
 Vishvamitra undertakes Trishanku's Vedic ritual and sends disciples to invite all Vedic-scholars. Many
 sages have come except for Vashishta and his sons. Further, the sons of Vashishta have ridiculed this
 ritual of Vishvamitra and Trishanku. Vishvamitra gets irritated and hurls curses at the sons of Vashishta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ sentence.
 
 "Vishvamitra, the son of Kushi, piteously spoke this mellowly sentence to king Trishanku who spoke thus,
 and who in reality attained a state of profaner." Thus Sage Shataananda continued his narration. [1-59-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ _________________
 
 Oh, Trishanku, the legatee of Ikshvaku-s, you are welcome. I am aware that you are a highly righteous
 king. Oh, the best king, you need not be dismayed, for I accord you haven. [1-59-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -156,8 +150,6 @@ king. Oh, the best king, you need not be dismayed, for I accord you haven. [1-59
 
 I will invite all the sages with pious activities who will render assistance in the ritual, oh, king,
 then you can perform the ritual self-composedly. [1-59-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -201,8 +193,6 @@ this form; *sashariiraH gamiSyasi* = you can go with body - to heaven.
 
 You can go to heaven with this body of yours, as well as with the form which is deformed by the curse
 of mentor Vashishta through his sons. [1-59-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -218,8 +208,6 @@ aagamya* = having approached [all] sheltering Kaushika [to Vishvamitra] ; *shara
 
 'I deem that heaven is handy to you, oh, king of subjects, as you have approached the all-sheltering
 Vishvamitra and sought shelter.' Thus Vishvamitra solaced Trishanku. [1-59-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -260,8 +248,6 @@ paramadhaarmikaan* = highly righteous ones; *mahaapraaj~naan* = astutely brillia
 
 On saying thus to Trishanku that great-resplendent Vishvamitra ordered his highly righteous and astutely
 brilliant sons to organise the arrangements for the ritual. [1-59-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -314,8 +300,6 @@ sartvijaH* = with ritwiks [conductors of rituals]; *subahushrutaan* = very many 
 Vishvamitra calling forth all of his disciples said this sentence, 'oh boys invite all the eminent sages who
 are well-read in many Veda-s, along with their disciples and friends, and their ritwiks, the conductors
 of rituals at my order.' [1-59-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -357,8 +341,6 @@ invitees [whoever]; *uktam anaadR^itam* = spoken, not considerately; *tat sarvam
 'If someone speaks inconsiderately incited by the forcefulness of my word, whoever speaks it, whichever
 word it may be, all that is to be reported to me, whatever it is.' Thus Vishvamitra ordered his disciples.
 [1-59-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -408,8 +390,6 @@ advocators of [Vedic scholars] Brahma; *aajagmuH* = started to arrive.
 
 On listening that word of Vishvamitra his disciples went to all directions inviting all by his order,
 and then the Vedic scholars started to arrive from all provinces. [1-59-9 b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -424,8 +404,6 @@ of Vedic scholars; *vacanam* = words [spoken by scholars]; *uucuH* = said - repo
 
 All of the disciples have returned to the fulgently resplendent sage Vishvamitra, and reported the
 words spoken by all the Vedic scholars. [1-59-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -466,8 +444,6 @@ samaayaanti* = all, Brahmans, are coming; *mahodayam varjayitvaa* = except Mahod
 'On listening your word all the Brahmans from all provinces have started to come and some have already
 come, leaving alone Mahodaya, the son of Vashishta.' Thus, the disciples have started to inform Vishvamitra.
 [1-59-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -515,8 +491,6 @@ in their fury; *[yat* = which]; *vacanam aaha* = words, [they] said; *yathaa*
 
 What all said by those hundred sons of Vashishta is explosively worded in their fury, oh, eminent
 sage, and what all they have said that you may please listen. [1-59-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -568,8 +542,6 @@ of Vashishta exclaimed. [1-59-13b, 14a]
 One who is uninitiated into any esoteric knowledge is venturing to perform a Vedic ritual and a king,
 who can perform a ritual, but who cannot officiate ritual or teach Veda-s like a Brahman, is officiating
 it. Thus both of these, officiator and performer have no Vedic sanctity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -584,8 +556,6 @@ bhuktvaa* = by partaking of profaner's food; *svargam katham gamiSyanti* = how t
 
 Though the Brahmans or the high-souled sages are now embarrassed by Vishvamitra, how can they go
 to heaven even after their demise, partaking of the food of a profaner? [1-59-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -635,8 +605,6 @@ eyes - in anger; *etat vacanam naiSThuryam* = all these derisive sentences; *uuc
 
 'Oh, tigerly sage Vishvamitra, all the sons of Vashishta including Mahodaya spoke these derisive sentences
 with their eyes reddening in anger.' Thus, the disciples reported to Vishvamitra. [1-59-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -676,8 +644,6 @@ with their eyes reddening in anger.' Thus, the disciples reported to Vishvamitra
 
 The eminent sage Vishvamitra having heard those words of the sons of Vashishta from all of his disciples,
 said this rancorously with bloodshot eyes. [1-59-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -728,8 +694,6 @@ _________________
 
 He who reproves me, who am abiding in rigorous ascesis, and who am an unreprovable one by my ascetic
 merit, that irreverent person will be reduced to ashes, and there is no doubt about it. [1-59-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -781,8 +745,6 @@ for seven hundred births to come; *sarvashaH* = anywise - come what may;
 
 Now they will be dragged by the lasso of Time to the House of Yama, the Terminator, and from now
 to seven hundred births to come they take birth as devourers of corpses, come what may. [1-59-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -798,8 +760,6 @@ lokaan anucarantu* = they wander about these [mortal] worlds [in them].
 
 Those who reprove me will be wandering about these mortal worlds on taking birth as disfigured and
 deformed beings in the ruthless sect of Mustika-s that always feed on dog's flesh. [1-59-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -845,8 +805,6 @@ duuSitaH* = reproached by all world; *niSaadatvam gamiSyati* = obtains tribal-ho
 
 That wrong-headed Mahodaya also reproached me, who am irreproachable on my part, hence he gets into
 tribal-hood and becomes a reproachable tribal for the entire world. [1-59-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -862,8 +820,6 @@ utter barbarity; *diirghakaalam* = for a long time; *durgatim vartayiSyati*
 
 By my fury he obtains an utter barbarity and he will be occupied with a murderous bent, and he cycles
 through a worst possible living for a long time. [1-59-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 </details>
 
@@ -914,8 +870,6 @@ not come at the beck and call of Vishvamitra, they too are liable for the above 
 curses too, from Vishvamitra. So, knowing this Vedic-ritual of ineligible Trishanku and unqualified
 Vishvamitra is an improper egotistical extravaganza of Vishvamitra, those who have already come, have
 come at the cost of their Brahman-hood.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

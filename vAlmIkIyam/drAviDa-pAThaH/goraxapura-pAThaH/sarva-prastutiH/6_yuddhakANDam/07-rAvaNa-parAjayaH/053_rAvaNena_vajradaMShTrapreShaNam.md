@@ -17,8 +17,6 @@ Ravana sends Vajradamstra, another demon to kill Rama, Sugreeva and his monkeys.
 Vajradamstra and his army emerge from the southern gate where Angada, the General of the Monkeys is
 stationed. The monkeys had a tough fight with the demons. Angada, the leader of the monkeys strikes
 the terrible strong demons, chopping off their heads.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -89,8 +87,6 @@ cruel; *mahaabalam* = and mighty.
 Hearing the death of Dhumraksha, Ravana the King of demons was possessed of anger
 and began to hiss like a serpent. Polluted by anger, with long and burning sighs, he addressed the
 cruel and mighty Vajradamshtra, a demon (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -137,8 +133,6 @@ proceed niryaahi = go ahead; *parivaaritaH* = surrounded; *raakSasaiH* = by demo
 
 "O, warrior! Go ahead as the head of the demons and slay Rama the son of Dasaratha,
 as also Sugreeva and his monkeys!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -209,8 +203,6 @@ well-attentive mind; *samalankR^itaH* = and well-prepared.
 many divisions of the army that surrounded him. With the utmost attention, he assembled teams of
 elephants, horses mules camels and chariots adorning them with conspicuous flags and banners and he
 himself was well-prepared.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -254,8 +246,6 @@ immediately; *nirvayau* = started.
 
 Adorned with colourful bracelets and a diadem, Vajradamshtra set out immediately,
 wielding a bow and well-covered by an armour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -296,8 +286,6 @@ kaan^chana bhuuSitam* = adorned with pure gold.
 
 That army-general circumambulated and ascended his chariot, duly decorated with
 flags and shiningly adorned with purpose.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -359,8 +347,6 @@ spears; *khaDgaiH* = swords; *chakraiH* = discus; *gadaabhishcha* = maces;
 Infantry of every kind issued forth, furnished in their hands with weapons such as
 clubs, excellent javelins, smooth pestles, harpoons, bows, lances, spears, swords, discus, maces
 and sharp axes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -411,8 +397,6 @@ hills.
 
 All those excellent demons in their resplendent and coloured uniforms, full of
 strength and mounted on elephants furious with rut, resembled moving mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -460,8 +444,6 @@ were mighty in strength.
 
 All those excellent demons in their resplendent and coloured uniforms, full of
 strength and mounted on elephants furious with rut, resembled moving mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -512,8 +494,6 @@ from the southern gate; *yatra* = where; *yuuthapaH* = the General; *aNgadaH*
 That whole army of demons paraded, looking as brilliant as the clouds, with
 lightning and sound in the rainy season. They emerged from the southern gate where the General
 Angada is stationed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -582,8 +562,6 @@ belched forth; *paavakajraalaaH* = flames and fire.
 While those demons set forth, inauspicious portents appeared. From a cloudless yet
 burning sky, meteors fell. Fearful jackals, emitting their howls, belched forth flames and
 fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -625,8 +603,6 @@ miserably.
 
 The dreadful beasts then foretold destruction of demons, who while entering the
 combat, stumbled miserably.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -668,8 +644,6 @@ exceeding prowess; *tejasvii* = and sharpness; *aalambhya* = shored up;
 
 Ever after seeing these portents Vajradamshtra of exceeding prowess and sharpness,
 shored up courage and being fond of battle, set out for the combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -716,8 +690,6 @@ and filled; *dasha* = the ten; *dishaH* = quarters.
 
 The monkeys, burning for victory, seeing their enemies advancing, made tremendous
 shouts which echoed every quarter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -758,8 +730,6 @@ fearful forms; *anyonya vadhakaaNkSiNaam* = and desirous of killing each other.
 
 Thereafter, a tumultuous battle ensured between the monkeys and the demons, who were
 cruel, of ferocious form and desirous of each other's destruction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -809,8 +779,6 @@ severed; *nyapatan* = fell; *dharaNiitale* = to the surface of the earth;
 
 Some warriors of great energy, coming for war, their necks, and bodies severed, fell
 to the surface of the earth, their entire bodies bathed in blood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -857,8 +825,6 @@ not turn back; *samre* = in battle; *parighapaaNayaH* = with arms resembling ste
 
 Some other warriors, who did not turn back in battle, with arms resembling steel,
 approached one another, attacking with various kinds of weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -899,8 +865,6 @@ sound; *hR^idaya bhedanaH* = breaking the hearts; *shruuyate* = was heard;
 
 An extremely great and terrible noise, breaking the hearts, was heard there from
 trees, rocks and weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -947,8 +911,6 @@ bheriimR^idaN^gaanaam = of couches; kettle-drums and tabours; *babhuuva* = arose
 
 A terrific noise of the wheel-rims of chariots and the bow, along with the
 tumultuous sounds of couches, kettle-drums and tabours arose there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -1003,8 +965,6 @@ rocks.
 Some demons, leaving weapons, performed battle with their arms. The demons were
 beaten and their bodies made fragmented by the monkeys of fighting arrogance, with their palms,
 feet, fists, trees and knees. Some demons were crushed to powder with rocks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -1053,8 +1013,6 @@ like Yama the God of Death; *loka samhaare* = at the time of destroying the word
 Tremendously frightening the monkeys in the battle by his arrows, Vajradamshtra
 moved himself in the battle-field like Yama the God of Death moving at the time of dissolution of
 the worlds, wielding a noose in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -1104,8 +1062,6 @@ weapons; *jaghnuH* = killed; *vaanara sainyaani* = the army of monkeys; *raNe*
 
 The strong demons skilled in weaponry and wielding various kinds of weapons, killed
 the army of monkeys in that battle, with their increased anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -1149,8 +1105,6 @@ battle; *samvartake analaH iva* = like a world destroying fire.
 
 The courageous Angada the son of Vali, twice possessed of anger, killed all those
 demons in the battle, like a world-destroying fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -1222,8 +1176,6 @@ prowess resembling that of Indra the Lord of celestials; *chakaara* = made; *gho
 The valiant Angada with his raging red eyes lifted a tree and killed all those troop
 of demons, like a lion killing small animals. Angada, with his prowess resembling that of Indra the
 Lord of celestials, brought about a terrific destroyer of the enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -1273,8 +1225,6 @@ like trees; *nikR^ittaaH* = chopped off.
 
 The terribly strong demons, struck by Angada there, had their heads shattered and
 fell down like chopped off trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -1325,8 +1275,6 @@ appeared fearful; *samchannaa* = being covered; *rathaiH* = with chariots;
 
 The earth then appeared fearful, it being covered with chariots, conspicuous flags,
 horses, bodies of monkeys and demons with streams of blood flowing there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 </details>
 
@@ -1373,8 +1321,6 @@ necklaces; bracelets worn on upper arm; garments; *chatraishcha* = and umbrellas
 
 That battle-field, decorated with necklaces, bracelets worn on upper arm, garments
 and umbrellas looked like an autumnal night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga53/yuddhasans53.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

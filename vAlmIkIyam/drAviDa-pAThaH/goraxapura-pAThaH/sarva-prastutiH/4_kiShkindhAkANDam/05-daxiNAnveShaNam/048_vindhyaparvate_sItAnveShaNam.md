@@ -18,8 +18,6 @@ Hanuma's search for Seetha, together with Angada and others is started. They sea
 certain mountains and forests belonging to Vindhya, but in vain. They enter many uninhabited
 forests and places. Angada kills a demon presuming him to be Ravana. Their hearts sadden when their
 search became futile at these places.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ province, [to go to,] started out.
 
 Hanuma, the monkey, quickly started along with Angada, Lt. Tara, and others to that
 province which Sugreeva has indicated, namely the south. [4-48-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ Arriving at a remote place with all of those powerful monkeys, then Hanuma searc
 the caves and forests of Vindhya Mountains, and on their mountaintops, at impassable places, at
 rivers and lakes, and in stands of trees with beamy trees, also on diverse mountains, forests and
 trees. [4-48-2, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -163,8 +157,6 @@ dadR^ishuH* = not, seen.
 
 Though all of those brave vanara-s have searched in all directions they have not
 noticed the princess of Mithila and the daughter of Janaka, namely Seetha. [4-48-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ there, sojourned, indeed.
 
 Feeding upon unalike fruits and tubers, sojourning here and there, those
 invulnerable vanara-s conducted their search. [4-48-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -260,8 +250,6 @@ a sight.
 
 But that province is an inscrutable one, deeply caved, deeply forested, much less of
 water and still less of people, a void and an impenetrable one with a ghastly look. [4-48-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -313,8 +301,6 @@ searchable.
 They are highly tormented when they vainly searched there, and even in another
 province that is also of the same kind, waterless and people-less, and an unreachable one,
 abstrusely caved and forested. [4-48-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ into; *vai* = indeed.
 
 Then all of those monkey commanders gave up that province and entered another
 impermeable province as they are fearless from any quarter. [4-48-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -411,8 +395,6 @@ highly, impossible, to get.
 Whereat the trees are infertile for fruiting, destitute of leaves and flowers, and
 whereat the brooks are deprived of waters, and whereat it is highly impossible to get even tubers,
 there they entered. [4-48-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -461,8 +443,6 @@ gocaraaH* = forest moving beings; *ye anye ca* = those, any other [animals,] als
 Where there are no buffalos, no elephants, no animals, nor even birds or tigers, or
 no other forest moving beings are there, for they do not have their feed there, they entered such a
 province. [4-48-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -518,8 +498,6 @@ Where there are no useful trees, nor herbal plants, nor climbing plants on trees
 nor creeping plants on earth, and lotus-lakes which will be normally pleasing for sight have no
 soft leaves, nor bloomed lotuses on their creepers, and even honeybees are discarding them as they
 are not richly fragranced, in such a province those vanara-s have entered. [4-48-11,12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ highly, short-tempered one; *niyamaiH* = by his self-discipline; *duS pra dharSa
 A highly fortunate, veracious, ascetically wealthy sage known as Kandu is there in
 that province, and that great sage is a highly short-tempered, and an impossible one to subjugate
 by virtue of his own self-discipline. [4-48-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -619,8 +595,6 @@ sage's; *dasha vaarSikaH* = ten, year old one; *putraH baalaka* = son, a boy;
 
 In that forest that sage lost his son, a ten-year-old boy, as that boy's life ended
 there by which that great sage is infuriated. [4-48-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -668,8 +642,6 @@ cursed.
 
 Thereby that virtue-souled sage cursed that great forest in it entirety to become an
 uninhabitable and impermeable forest abandoned by birds and animals. [4-48-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -722,8 +694,6 @@ of rivers; *prabhavaaNi ca* = fountains, also; *vicinvanti* = searched.
 
 But those monkeys conscientiously searched such a forest up to its fringes,
 including its mountains, caves, fountains, and rivers. [4-48-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -741,8 +711,6 @@ forest.
 But not finding the daughter of Janaka or even her kidnapper Ravana there, those
 monkeys who are the perfecters of that which is acceptable to Sugreeva, have entered another
 fearsome forest. [4-48-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -792,8 +760,6 @@ bhayam* = from gods, un, fearing; *asuram dadR^ishuH* = a demon, they saw.
 
 On entering another fearsome forest which is overly encompassed with climbers and
 shrubberies they saw a demon of fiendish deeds who is fearless of gods. [4-48-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -842,8 +808,6 @@ wrestler's girdle-cloth.
 All of those vanara-s are amazed to see that fiendish demon standing similar to a
 mountainous boulder, and apprehending an imminent danger on observing that mountain similar demon,
 those vanara-s have tightly girthed their wrestler's girdle-cloth. [4-48-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -891,8 +855,6 @@ kruddhaH* = highly, frenzied; *sangatam muSTim udyamya* = clenched, fist, shovin
 
 Even that mighty demon shouting at all vanara-s, 'you are all dead... stay,' rushed
 towards them shoving up his clenched fist. [4-48-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -939,8 +901,6 @@ palm, thwacked, indeed.
 
 Angada, the son of Vali, then presumed him who is onrushing as Ravana and saying,
 'he is Ravana...' he quickly thwacked that demon indeed with his palm. [4-48-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -998,8 +958,6 @@ spewed [spewed forth]; *paryasta* = upside down - inverted; *bhuumau* = on groun
 
 When Vali's son whacked him that demon spewed forth blood from his throat and fell
 onto ground alike an inverted mountain. [4-48-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1016,8 +974,6 @@ vyacinvan* = all, that [demon's,] mountain, cave, they searched.
 When that demon breathed his last all of those monkeys with triumphal shimmer have
 wellnigh searched everywhere, and even in that cave of that mountain where that demon appeared,
 presuming that cave belonged to Ravana. [4-48-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -1064,8 +1020,6 @@ aparam = nearby one; *giri gahvaram* = mountain, cave; *vivishuH* = entered.
 
 Then all those forest dwelling monkeys searched everywhere else, and like that they
 entered another horrible cave which is nearby. [4-48-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 </details>
 
@@ -1107,8 +1061,6 @@ tree, at its base; *niSeduH* = sat down.
 On searching that cave they came out saddened as their search is futile, and coming
 together they sat down at the base of a lonely tree downheartedly as their efforts are unsuccessful
 in searching Seetha. [4-48-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

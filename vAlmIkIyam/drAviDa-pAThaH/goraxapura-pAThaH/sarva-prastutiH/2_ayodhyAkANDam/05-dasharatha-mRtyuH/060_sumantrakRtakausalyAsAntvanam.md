@@ -16,8 +16,6 @@ title_english = "060 Sumantra was unable to console Kausalya"
 Sumantra was unable to console Kausalya, who lied on the floor due to her extreme
 grief over her separation from Rama, even though he tries to avert her grief by telling her that
 Rama can reside in the forest delightfully, by warding off his agony.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ follows)
 
 Then, Kausalya, trembling again and again, as though possessed by a spirit, and
 lying on the floor without proper disposition of mind, spoke to Sumantra as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ take; *maam* = me; *tatra* = there; *taan vinaa* = without them; *aham*
 
 "Wherever Rama, Seetha and Lakshmana are there, take me to them. Without them, I do
 not cherish to live here even for a moment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ abode.
 
 "Turn back the chariot quickly. Take also myself to the forest of Dandaka. Now, if I
 do not go after them, I shall enter the Death's abode."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ Kausalya; *abraviit* = spoke; *idam* = these words (to her).
 
 Sumantra with joined palms and with a voice choked with tears and in faint accents,
 consoling Kausalya, spoke these words to her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ forest; *vyavadhuuya* = warding off; *samtaapam* = anguish.
 
 "Abandon grief, delusion and haste born of affliction. Rama, can reside in the
 forest, warding off anguish."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -312,8 +300,6 @@ serving; *paadau* = the feet; *raamasya* = of Rama; *vane* = in the forest;
 
 "Lakshmana too, knowing about a righteous conduct, having subdued his senses and
 serving the feet of Rama in the forest, is propitiating the other world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -361,8 +347,6 @@ confidence.
 
 "Seetha, getting a dwelling place resembling a house even in a lonely forest, her
 mind encamped in Rama and being fearless, is acquiring confidence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -413,8 +397,6 @@ developed; *asyaaH* = in Seetha; *maa pratibhaati* = It appears to me;
 
 "Not even very minute depression, even a little, is seen developed in Seetha. It
 appears to me as though Seetha is accustomed to so many exiles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -461,8 +443,6 @@ I the city; *tathaiva* = in the same manner; *ramate* = (She) is taking delight;
 
 "Seetha is taking delight in the desolate forests in the same manner as she was
 earlier enjoying in visiting gardens in the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ little girl.
 
 "Seetha, a charming woman with her face resembling a full moon and with her mind
 absorbed in Rama, even though staying in a lonely forest, is enjoying it like a little girl."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -559,8 +537,6 @@ him; *ayodhyaa api* = even if Ayodhya; *raama hiinaa* = is without Rama;
 
 "Seetha's heart is directed towards Rama. Her life also is dependent on him. Even if
 Ayodhya is without Rama, then it becomes a forest to her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -630,8 +606,6 @@ enquiring Lakshmana; *jaanatii* = and knows about them.
 "As if only a couple of miles away from Ayodhya and as being in a garden there,
 Seetha on seeing villages, towns, movement of rivers, and various types of trees, enquires with
 Rama or Lakshmana and Knows well about them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -678,8 +652,6 @@ Rama or Lakshmana and Knows well about them."
 
 "I am remembering only these incidents about Seetha. It does not flash to my mind
 now of the words hurriedly spoken of by Seetha about Kaikeyi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -727,8 +699,6 @@ now of the words hurriedly spoken of by Seetha about Kaikeyi."
 
 Expunging the remarks spoken by Seetha about Kaikeyi coming almost nearer to his
 lips by inadvertence, Sumantra spoke only delightful and sweet words to Kausalya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -779,8 +749,6 @@ amshu sadR^ishii* = equivalent to moon's rays; *na hi gacchati* = does not disap
 "Seetha's radiance resembling a moon's gleam is not fading away due to her travel in
 the forest or due to the velocity of wind or because of her bewilderment or due to heat of the
 sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -827,8 +795,6 @@ of a full moon; *na vikampate* = did not become changed."
 
 "That face of altruistic Seetha resembling a lotus flower, whose lustre is similar
 to that of a full moon, did not become changed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -876,8 +842,6 @@ trees); *padma kosha sama prabhau* = with a lustre equal to that of red lotus bu
 "Her feet, which even though no longer painted with vermilion, still looks red as
 Alakta (red juice obtained from resin of certain trees), with lustre equal to that of red lotus
 buds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -924,8 +888,6 @@ Seetha; *idaaniim api* = even now; *nyasta bhuuSaNaa* = is donned with her ornam
 
 "Seetha, sporting her tinkling anklets, walks playfully. Even now, Seetha dons her
 ornaments, as a mark of Her passion towards Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -973,8 +935,6 @@ ornaments, as a mark of Her passion towards Rama."
 
 "Seetha who stays in the forest, takes refuge in the arms of Rama and hence does not
 give Herself to fear, even by seeing an elephant or a lion or a tiger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -1021,8 +981,6 @@ give Herself to fear, even by seeing an elephant or a lion or a tiger."
 
 "There is no need to pity them nor us nor the king too. This story will thrive in
 the world forever."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -1083,8 +1041,6 @@ the forest; *paripaalayanti* = are keeping up; *shubhaam* = the auspicious;
 "Abandoning grief, possessing cheerful minds, settling well in the path followed by
 great sages, delighting in the forest-life and eating fruits of the forest, they are keeping up the
 promise given to their father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 </details>
 
@@ -1138,8 +1094,6 @@ as dear; *putra iti* = as son; *raaghava iti* = as Rama.
 
 Even if averted thus by Sumantra, who is speaking appropriately well, being
 emaciated by sorrow for her son, could not stop crying, "O, my dear son Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga60/ayodhyasans60.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

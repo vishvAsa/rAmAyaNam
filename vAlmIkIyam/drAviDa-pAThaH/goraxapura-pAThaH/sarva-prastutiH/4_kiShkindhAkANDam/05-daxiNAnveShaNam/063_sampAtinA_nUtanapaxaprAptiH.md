@@ -19,8 +19,6 @@ IV : Kishkindha Kanda - The Empire of Holy Monkeys**
 Sampaati regains his wings when he passes information to the monkeys. Sampaati flies
 away for flight-test of his newborn wings wishing the monkeys success. Then the enthused monkeys
 journey on to southern direction, as directed by Sampaati.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ hermitage / heavens [dwelling,] he entered.
 "That expert in sentences, namely sage Nishaakara, entered his own dwelling on
 saying these and many other words of encouragement and after permitting me to take leave.
 [4-63-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ samaaruhya* = Mt. Vindhya, on clambering up; *bhavataH pratipaalaye* = towards y
 
 "But on creeping slowly and slowly from the cave of that mountain I clambered up the
 Mt. Vindhya and I am looking forward for your arrival... [4-63-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -183,8 +177,6 @@ For this there is another shade given to this verse in other mms and the compoun
 hundred, three, three hundred years...' then the meaning will be 'that sage lived for eight
 thousand years, and he died a hundred years back, and I have been waiting for three hundred years
 after his demise...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 
 </details>
@@ -232,8 +224,6 @@ many; *vi tarkaiH* = illogical, thoughts; *vR^itam* = one who is enfolded in; su
 
 "But many illogical thoughts crowded round me when Sage Nishaakara has gone on great
 voyage to heaven, thus my anguish burned me down... [4-63-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -287,8 +277,6 @@ away, taking.
 "I have been reversing the thought cropped up for my suicide by virtue of the
 afflatus endowed to me by that sage, and I have been safeguarding my lives as that afflatus is
 taking away my anguish, as a tongue of flaring fire takes away darkness... [4-63-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -338,8 +326,6 @@ traataa* = how, [she is] not, saved; *[iti* = thus]; *vaagbhiH* = with words;
 
 "Though I am aware of the valour of that dirty-minded Ravana, I was rebuking my son
 saying, 'how you have not saved Maithili?' [4-63-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -387,8 +373,6 @@ priyam* = by [my] son, a cherish [of mine]; *na utpaaditam* = not, effectuated.
 "My son has not effectuated my cherish even on hearing the bewail of Seetha, or at
 least on hearing that Rama and Lakshmana are separated from Seetha, or at least on knowing my
 friendship with Dasharatha..." Thus Sampaati spoke to monkeys. [4-63-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -436,8 +420,6 @@ speaking; *vana caariNaam samakSam* = of forest, movers - monkeys, before eyes;
 Both the wings of Sampaati have then cropped up just before the eyes of those
 monkeys who are clustering around him, while Sampaati is speaking in this way to those monkeys...
 [4-63-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -485,8 +467,6 @@ also.
 
 On looking at his own body which is now covered with newborn reddish-feathered wings
 Sampaati obtained an incomparable rejoice, and he also said this to vanara-s. [4-63-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -536,8 +516,6 @@ upasthitau* = both wings, again, present themselves [resurfaced.]
 
 By the efficacy of that kingly sage of illimitable magnificence both the wings of
 Sampaati that were burnt down by sunrays have resurfaced again. [4-63-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -587,8 +565,6 @@ _________________
 
 "Which valour, vigour, and valiance were prevailing in my youth, now I am
 experiencing them alone... [4-63-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -638,8 +614,6 @@ kaarakaH* = to you all, for accomplishment, credibility, causer of.
 
 "Let an endeavour be made by all of you. For sure, you will come by Seetha. This
 event of my regaining wings shall be the causer of credibility in you all... [4-63-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -687,8 +661,6 @@ fallen - took wing.
 
 On saying thus to all of those monkeys that best bird Sampaati took wing from that
 mountaintop to ascertain the plight of a sky-going bird when anew on the wing. [4-63-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -738,8 +710,6 @@ inspirited, proactive; *babhuuvuH* = they became.
 
 On hearing that word of Sampaati those tigerly monkeys are heartily gladdened and
 while their valour inspiriting them they have became proactive towards their task. [4-63-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 </details>
 
@@ -796,8 +766,6 @@ Those best fly-jumpers having redeemed their certitude, then with a gustily gust
 waited for an opportune time called abhijit lagna and then journeyed
 on to the southern direction, as they are the pioneers in searching Seetha, the daughter of Janaka.
 [4-63-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhasans63.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

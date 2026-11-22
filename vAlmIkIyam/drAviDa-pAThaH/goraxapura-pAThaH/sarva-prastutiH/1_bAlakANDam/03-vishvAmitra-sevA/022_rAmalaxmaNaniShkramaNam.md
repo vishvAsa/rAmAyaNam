@@ -17,8 +17,6 @@ King Dasharatha sends Rama and Lakshmana along with Sage Vishvamitra as requeste
  by the sage. In their course of travel, Sage Vishvamitra imparts a secret knowledge
  to the young princes Rama and Lakshmana, called bala-atibala-
  vidya-s, by practicing which nothing can wither their vigour and vitality.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ King Dasharatha sends Rama and Lakshmana along with Sage Vishvamitra as requeste
 
 When Vashishta said that way king Dasharatha with an air of satisfaction personally
  fetched Rama along with Lakshmana. [1-22-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ Duryodhana of Maha Bharata knows about this rule position and when he wanted to
  Bharata, she said 'where there is virtue there will be victory'. Hence, mothers
  are the first ones to bless sons in every enterprise, and here Rama's enterprise
  as incarnate of Vishnu is commencing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -238,8 +232,6 @@ _________________
 When the great-souled Rama forged ahead there occurred an abounding downpour of
  flowers with the booming of divine drums, together with the boom and blare of
  drums and conch-shells of Ayodhya. [1-22-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -255,8 +247,6 @@ When the great-souled Rama forged ahead there occurred an abounding downpour of
 
 Then on seeing the lotus-eyed Rama following Vishvamitra, dustless
  and pleasant for touch breeze blew. [1-22-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -297,8 +287,6 @@ Then on seeing the lotus-eyed Rama following Vishvamitra, dustless
 
 Rama with jet-black hair-locks handling his bow followed Vishvamitra who walked
  ahead, while Lakshmana handling his own bow followed Rama. [1-22-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -371,8 +359,6 @@ The meaning of As'vins from as'va a horse, Persian asp, Greek
  to be the children of the sun and the nymph As'vin, who is one of the lunar asterisms
  personified. In the popular mythology they are regarded as the physicians of the
  Gods. Gorresio/Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -467,8 +453,6 @@ two, one Ganesha and the other Kumara, of which Kumara is the Army General of Go
 to Maha Bharata, Kumara is said to have become four in a split-second, known as 1- Skanda,
 2- Vishaakha, 3- Shaaka, 4- Naigamesha. Here the first two aspects of Kumara, namely Skanda
 and Vishaakha, are incorporated in simile to Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -484,8 +468,6 @@ and Vishaakha, are incorporated in simile to Rama and Lakshmana.
 
 And on going one and half yojana distance Vishvamitra addressed Rama in a harmonious
  voice calling, 'oh, Rama', on the southern riverbank of Sarayu. [1-22-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -543,8 +525,6 @@ And on going one and half yojana distance Vishvamitra addressed Rama in a harmon
 Since the Vedic hymns cannot be taught after sunset, now it shall be evening time
  before sunset, when oblations will be offered at sunset, and hence no time lapse
  is envisaged. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -561,8 +541,6 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 "On receiving these hymns neither tiredness nor fever, nor disfiguring of personality
  can effect you, nor the demons can charge you either you are sleeping or unvigilant.
  [1-11-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -610,8 +588,6 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 "As it is none whosoever on earth can equal you in dexterity, Rama, and by reciting
  these hymns none can equal you in the three worlds. [1-22-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -682,8 +658,6 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 "My dear Raghava, if bala atibala hymns are practised, oh, impeccable one, none
  can equal you in the world by your handsomeness, calibre, erudition, by your discernment,
  and even in replying or rebutting you. [1-22-14b, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -724,8 +698,6 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 "On receiving these two teachings there will be none similar to you, for bala
  and atibala are the mothers of all knowledge. [1-22-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -766,8 +738,6 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 "Oh, best one among men, Raghava, if you go on reciting bala and atiblala hymns,
  my dear Rama, there will be no hunger or thirst to you. [1-22-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -826,8 +796,6 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
  of Forefather Brahma, and oh, Rama of Kakutstha, I intend to impart these hymns
  to you, oh virtuous one, as you are the most eligible one, hence take the teachings
  that are kept safe from the world. [1-22-18, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -919,8 +887,6 @@ _________________
 "Though all of these numerous qualities are undoubtedly available with you, that
  too in abundance, yet these hymns if ascetically nurtured will yield various results."
  Thus spoke Sage Vishvamitra to Rama. [1-22-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -962,8 +928,6 @@ _________________
 
 Then Rama on touching water to purify himself received those teachings from the
  contemplative soul Vishvamitra with gladness beaming on his face. [1-22-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -1030,8 +994,6 @@ Throughout this chapter Vishvamitra addresses Rama alone to learn the hymns. It
  may not be construed that Lakshmana is eliminated or avoided but he said to be
  one with Rama when it comes to education. Thus these hymn are imparted to Lakshmana
  also, not to Rama alone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 </details>
 
@@ -1123,8 +1085,6 @@ _________________
 Though both Rama and Lakshmana slept on an undeserving grass bed, nestled by the
  comfortable words of Vishvamitra that night is as though pleasant to the noteworthy
  children of Dasharatha. [1-22-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

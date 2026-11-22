@@ -18,8 +18,6 @@ Rama gives ring to Hanuma as a memorabilia enabling Seetha to recognise Hanuma w
 Hanuma's capabilities very high and reposes full confidence in him for locating Seetha. On seeing Sugreeva assigning
 the task to Hanuma, Rama perceives that Hanuma alone can achieve results and thus hands over his ring to Hanuma.
 Then Hanuma starts on the expedition with others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -83,8 +81,6 @@ vaayu putra samiipam tu gatvaa tam vaakyam abraviit | shR^iNu mat vacanam viira 
 aatmaja | ayam ikShvaaku daayaado raajaa raamaH prataapavaan | sarva aatmaa sarva lokesho vishNuH maanuSha ruupa
 dhR^it | - nR^isimha puraaNa; 'on nearing Air-god's son Sugreeva spoke, 'oh, Hanuma listen to my saying,
 he this Rama, the valorous scion of Ikshvaku, is the Cosmic Soul and Vishnu in human form...' Nrisimha Puraana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -130,8 +126,6 @@ he this Rama, the valorous scion of Ikshvaku, is the Cosmic Soul and Vishnu in h
 
 The king of all the residents of forest Sugreeva is well pleased to pick and choose Hanuma for the purpose, and
 spoke to the venturesome son of Air-god, Hanuma. [4-44-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -181,8 +175,6 @@ will usually obstruct one another, or in high skies where there is no foothold, 
 there, or in the wild blue yonder where celestial bodies alone gravitate at random, nor in waters where there
 is no underwater movement for earthly beings, nor in the heaven, the abodes of immortals, where those immortals
 will not allow mortals like us to meander as we like. [4-44-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -231,8 +223,6 @@ by earth, namely, mountains]; *sarva lokaaH* = all, worlds; *te viditaaH* = to y
 
 "All the worlds that contain demons, gandharva-s, naaga-s, humans, gods, and the oceans and mountains therein
 are known to you. [4-44-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -282,8 +272,6 @@ father; *mahaa ojasaH* = of marvelling, dynamism; *maarutasya* = of Air-god; *sa
 
 "With your unusual mobility, unstoppable celerity, unremitting vivacity, and untold ability you are identical
 to your father Maaruti, the Air-god of marvelling dynamism. [4-44-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -330,8 +318,6 @@ about.
 
 "Or even by your radiancy none on earth is coming to mind who can be a coequal of yours, thereby you alone shall
 think about that process as to how to access Seetha. [4-44-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -378,8 +364,6 @@ alone, are there.
 
 "Oh, Hanuma, in you alone there are brawniness, astuteness and venturesomeness, and oh, ethicist, you conduct
 yourself in abidance with time, place and ethicality." Thus Sugreeva said to Hanuma. [4-44-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -425,8 +409,6 @@ yourself in abidance with time, place and ethicality." Thus Sugreeva said to Han
 
 Raghava started pondaration when he is cognisant of the entrustment of the task to Hanuma and on cognising Hanuma
 as an efficient cause. [4-44-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -473,8 +455,6 @@ highly, also, even
 
 "This king of monkeys, Sugreeva, is anywise definitive in his resolve reposed in Hanuma, and Hanuma is definitely
 resolute in achieving the task. [4-44-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -525,8 +505,6 @@ chosen by his king. As such, this Hanuma will certainly bring task to fruition.
 "This Sugreeva is well-aware of each individual's accomplishments and hence he specifically chose Hanuma, and
 Hanuma who is now transiting must be individually well-known for accomplishment of any task assigned to him. Hence
 the fruition of the task is certain." Thus, Rama pondered. [4-44-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -573,8 +551,6 @@ highly, delighted - Rama.
 
 On perusing Hanuma who is the ablest one in his endeavours, the highly resplendent Rama is immensely delighted,
 and his heart and senses are elated as if his purpose has been achieved. [4-44-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -626,8 +602,6 @@ Hanuma, as a remembrancer for princess Seetha. [4-44-12]
 
 When Rama shed all his regalia while coming to forests how he kept a ring on his finger, and when Angada is there
 as troop leader why this ring is given to Hanuma - are the debated topics. Please refer to the endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -673,8 +647,6 @@ has arrived; *an udvignaa* = without, apprehension; *anupashyati* = she identifi
 
 "By this emblematic ring, oh, best monkey, Janaka's daughter Seetha identifies you to have reached her from my
 proximity, without apprehension. [4-44-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -720,8 +692,6 @@ combined with, venturesomeness, also; *sugriivasya sandeshaH ca* = Sugreeva's, m
 
 "Oh, brave one, your enthusiasm, vital-force combined with your venturesomeness, and also the message of Sugreeva
 to you, are as if heralding achievement to me." Thus, Rama spoke to Hanuma while giving his ring. [4-44-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -771,8 +741,6 @@ kR^ita anjaliH* = making, palm-fold; *caraNau caiva vanditvaa* = at two feet, ha
 
 On taking the ring that foremost monkey Hanuma kept it on his own head, and making palm-fold he reverenced the
 feet of Rama, and then that noteworthy monkey started off. [4-44-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -828,8 +796,6 @@ clusters, brightened by; *shashii iva* = moon, like; *babhuuva* = he became - ap
 That brave monkey-son of Air-god leapt to sky along with that massive force of monkeys as if he is hauling them
 up, and he who is brightened by monkeys around him on the skyscape appeared like the moon in a very clear lunar
 sphere on a cloudless sky brightened by clusters of stars around. [4-44-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 </details>
 
@@ -886,8 +852,6 @@ how, she can be accessed; *tathaa kuruSva* = in that way, you do - you make happ
 "Oh, highly powerful Hanuma, I rely upon your vivacity, being the best venturesome monkey, oh, son of Air-god,
 showing your adventures that are not inconsequential you make happen as to how access can be gained to Janaka's
 daughter, Seetha." Thus, Rama shouted at Hanuma flying in the sky. [4-44-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga44/kishkindhasans44.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

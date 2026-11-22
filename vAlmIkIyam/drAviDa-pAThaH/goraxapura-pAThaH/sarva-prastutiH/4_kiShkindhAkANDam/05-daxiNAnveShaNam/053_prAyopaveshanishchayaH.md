@@ -18,8 +18,6 @@ Angada proposes fast unto death as this troop of monkeys failed to find Seetha, 
 has also lapsed, and if they return to Kishkindha, it is sure that Sugreeva takes them to task. As they are caught
 between the devil and the deep sea, Sugreeva and southern Indian Ocean, they resort to lay their lives by fasting
 unto death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ aakulam* = implacable, with waves, tumultuous; *saagaram* = ocean; *dadR^ishuH* 
 
 Then they saw an inexorable ocean, the realm of Rain-god, tumultuous with out-roaring and implacable waves, and
 shoreless otherwhere. [4-53-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -112,8 +108,6 @@ raaj~naa samayaH kR^itaH* = which [month,] by king, time, made [timeframe,] set;
 
 Which month is set as timeframe for the monkeys by king Sugreeva that month passed off while the monkeys are searching
 mountains, impassable areas and within the cavity concocted by the wizardry of demon Maya. [4-53-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ in desperation. [4-53-3]
 
 This is the southwest quarter of India as said at: *himavat vindhya shailaabhyaam praayo vyaaptaa vasundharaa
 - bheShaja kalpa *'the Vindhya range spans from Himalayas to [southern ocean, for India...]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ trees; *dR^iSTvaa* = on seeing; *bhaya shankitaaH babhuuvuH* = by fright, incred
 
 Then on seeing the treetops of spring season, weighty with flowers and enshrouded with hundreds of vines, they
 became incredulous with the fright of failing Sugreeva's timeframe. [4-53-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -273,8 +263,6 @@ Oct. - Dec., and fixed *puSya* month, nearly Feb., as their timeframe. That *puS
 while they were searching at other places in south and the next *maagha* month, nearly March, they spent
 in the Dark Hole. Hence this must be *phaalguna* nearly April, and in their overstaying for two months
 they are frightened of Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -332,8 +320,6 @@ spoke.
 The crown prince and a great foreseer Angada, the monkey, whose nape of neck is leonine and bullish, arms lengthy
 and sturdy, then as usual paying respects to elderly monkeys greeted all of the forest dwellers and spoke this
 sentence in a modest voice. [4-53-6, 7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -391,8 +377,6 @@ be sensible of it - are you aware of it?
 
 "Oh, monkeys, we all have started at the command of the king of monkeys, and the month fixed by him is zeroed
 out while we were in Black Cavity. Are you aware of it?" Thus Angada started to speak his mind. [4-53-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -428,8 +412,6 @@ in cavity, thus this is *phalguNa maasa*. This analogy is based on the analogy u
 Sugreeva *kaartiike samanupraapte tvam raavaNam dheyata* "On the advent of *kaartika* month
 [October, post-rainy season,] you shall try for the elimination of Ravana... this is our accord... hence oh,
 gentle one, enter your mansion for now..." at 4-26-17.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -479,8 +461,6 @@ contrivers of.
 
 "You all the pioneers in the pathway of principles, you have notched up the credibility of your king, you are
 all well-disposed in the well-being of your king, and you are the contrivers of any exploit. [4-53-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -533,8 +513,6 @@ afore - as helmsman, started out.
 
 "All of you are unparalleled in all tasks, all your asperity is renowned in all directions, and all of you have
 come impelled by that ochreish eyed Sugreeva keeping me as your helmsman. [4-53-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -550,8 +528,6 @@ is incomplete; hence; *martavyam* = we have to die [at the hand of Sugreeva]; *a
 
 "As of now our mission is incomplete hence we are scheduled to die, and there is no doubt about it. Who can be
 complacent by keeping the directive of monkey's king incomplete? [4-53-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -597,8 +573,6 @@ yuktam* = personally - voluntarily, fast unto deaths, is appropriate.
 
 "But in this matter of course, as the time set by Sugreeva is lapsed, it is appropriate for all of us forest dwelling
 monkeys to voluntarily undertake fasting unto death. [4-53-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -647,8 +621,6 @@ transgression, done; *naH* = us; *sarvaan na kSamiSyati* = all [any of us,] not,
 
 "Instinctively Sugreeva is a tormentor and now he is institutionalised in lordship, thus he will not condone any
 of us as we will be as good as transgressors if we were to return. [4-53-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -701,8 +673,6 @@ and homes, too; *tyaktvaa* = on leaving off; *iha adya eva* = here, now, only; *
 "Sugreeva commits sin alone in our respect by killing all of us as we failed in the facts about Seetha, therefore
 it is pertinent to enter upon fasting unto, leaving off our sons, wives, riches and houses and homes, too. [4-53-15,
 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -749,8 +719,6 @@ us, all; *a prati ruupeNa* = un, mirrored, in shape [in a freakish manner]; *vad
 
 "That king Sugreeva definitely and freakishly tortures all of us on our going back futilely, hence suicide at
 this place is justifiable for all us. [4-53-16b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -797,8 +765,6 @@ I am.
 
 "I am not anointed to crown-princedom by Sugreeva, but I am anointed by the unbigoted Rama, the king of people.
 [4-53-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -839,8 +805,6 @@ observing; *kR^ita nishcayaH* = on making, decision [decisively]; *maam* = me; *
 
 "That king Sugreeva who is already bound up in animosity with my father, and thus with me too, now on observing
 me transgressing his directive will decisively wish to liquidate me by a tyrannous victimisation. [4-53-18a, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -888,8 +852,6 @@ fast unto death, sit out [outwait.]
 "Of what use is the witnessing of my kith and kin at me when I am tortured in the prime of my life, hence here
 on this sacred seashore alone I will outwait my death fasting unto it." Thus Angada said to all the monkeys. [4-53-19b,
 c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -935,8 +897,6 @@ c]
 
 On hearing all that uttered by that youngish Angada, the crown prince, all of those prominent Vanara-s sympathetically
 spoke these words. [4-53-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -999,8 +959,6 @@ likeable, [doing] desirous of - to satisfy Raghava; *a sanshayam* = without, dou
 is lapsed and Vaidehi is unspotted. If we go back to Kishkindha now, on seeing us returning without completing
 our assignment, and with a thinking to satisfy Rama Sugreeva wishes to liquidate us without any doubt. [4-53-21,
 22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -1047,8 +1005,6 @@ ca* = being chieftains, also; *vayam samaagataaH* = we, are co-ordinated [and se
 "It will be inexcusable for the culprits to pass at the sideways of lords, then where is the question of their
 coming into king's audience, and we should be barefaced to return because we are all the chieftains of Sugreeva
 who are coordinated and sent here. [4-53-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -1099,8 +1055,6 @@ will to go.
 "If we do not return to that champion Sugreeva on searching somewhere here for Seetha, or on our educing some
 information about her, we will rather enter the realm of Yama, the Terminator." Thus the other monkeys discussed
 among themselves. [4-53-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -1154,8 +1108,6 @@ on entering, we live [therein.]
 
 On hearing the words of fly-jumpers, who are tormented by fear of Sugreeva, Lt. Tara spoke this to them, "enough
 is your desperation, if you all are interested let us enter that cave again where we can live. [4-53-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -1202,8 +1154,6 @@ monkeys, king, either.
 "That highly impassable cavity is contrived by the demon Maya and it is abundant with trees, water, eatables and
 potables, and there is no fear even from Indra in that cavity, nor from Raghava, nor from Sugreeva, the king of
 monkeys." So said Lt. Tara to all. [4-53-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 </details>
 
@@ -1254,8 +1204,6 @@ adya eva* = now, only; *vidhaanam* = a method; *asaktam vidhiiyataam* = promptly
 On hearing Angada's words, as well as the words of Lt. Tara that are trended to Angada's words, all the monkeys
 compliantly spoke with believability, "in which way we all will not be killed that way may be waymarked, and promptly
 make it happen now only." So said all the monkeys to Angada. [4-53-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

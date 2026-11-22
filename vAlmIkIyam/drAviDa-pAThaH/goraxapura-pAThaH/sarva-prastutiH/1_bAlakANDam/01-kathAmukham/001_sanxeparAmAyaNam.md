@@ -27,8 +27,6 @@ classification, or dividing verses into thousand chapters is unavailable now, th
 identified with the 24 letters of Gayatri hymn, called as Gayatri Ramayana, is available and it is given
 in the endnote of this page. In tune with the scheme of Gayatri, Ramayana starts the first verse with
 letter *ta* an auspicious letter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -88,8 +86,6 @@ The ascetic Valmiki inquired Naarada - 'who engaged deeply in austerity and stud
 
 The epic starts with the word auspicious word *ta* as said in *'takaarovighnanaashakaH',
  'takaarosaukhyadaayakaH'...*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -141,8 +137,6 @@ The epic starts with the word auspicious word *ta* as said in *'takaarovighnanaa
 
 "Who really is that person in this present world, who is virtuous and vigorous, a conscientious
  one, one who is mindful of good deeds done to him, and also a speaker of truth and who is determined in his deed... [1-1-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -197,8 +191,6 @@ one. The word *eka* also means 'unique' and thus his complexion, facial, physica
 etc., shall be unique and shall differ from ordinary beings. *kShaNe kShaNe yat navataam
 upaiti tadeva ruupam ramaNiiyataayaaH* 'which / what / who gets newness moment by moment, that
 alone is pleasant...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -239,8 +231,6 @@ alone is pleasant...'
 
 "Who is that self-composed one, who controlled his ire, who is brilliant, non-jealous and whom do even
  the gods fear, when provoked to war... [1-1-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ The attributes of the hero of Ramayana, as required by Valmiki, are 16; sixteen 
  vidvaan 10 - samarthaH - 11 - priyadarshanaH 12 - aatmavaan 13 - jitakrodhaH 14 - dyutimaan 15 - anasuuyakaH 16 - bibhyatidevaaH* These sixteen attributes are attributed
 to the sixteen phases of the Full Moon, and Valmiki is about to picture Rama to be as pleasant as a
 full-moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -380,8 +368,6 @@ it be heard..." and beckoning at Sage Valmiki to listen attentively, he spoke th
 
 Narada is cognizant of three worlds, where the three worlds are *bhuuloka, bhuvarloka, suvarloka*
 this world, the intermediary heaven, the heavens themselves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -402,8 +388,6 @@ this world, the intermediary heaven, the heavens themselves.
 Narada came hither to impart the legend of Rama, as Brahma already imparted the same to him, and wanted
 him to impart these very attributes to Valmiki to compose Ramayana. It is a coincidence of interests
 Valmiki and those of Narada and Brahma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -466,8 +450,6 @@ Upanishad. Next, *vashii* Absolute is the Omnipotent on the entire Universe. *ek
  * 2-5-12, Katha-Upanishad and *sarvasya vashii sarvasya iishaanaH* and
 the like. The rest of the attributes of Rama as said by Narada are identifiable with the causative factors
 of that Absolute in Creation, and the process of Creation is the self-expression of the Absolute.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -525,8 +507,6 @@ one who maintains the rhythm of universe as said at *eSa setuH vidharaNa eSaam l
 He is propitious because *shriiH kaantisaMpadoH lakshmyaam...* gleaming, glistering richness
 of prosperity emanates from him. The following stanzas describe the physical qualities an Emperor should
 have by birth, as per *saamudrikashaastra*, the physiognomic treatise of astrology.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -578,8 +558,6 @@ called *prakramabhangadoSa* 'jump-cut in narration...' It is not so, his lengthy
 firstly and those arms can wield a great bow that can eliminate enemies, both physical and psychological
 ones like *ariSaDvarga* like desire, ire, avarice, conceit etc., as detailed in verse
 4 above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -627,8 +605,6 @@ charmingly... he is a prosperous one with all the auspicious features ...
 Up to here the godly physical aspect *bhagavadvigraha* is explained that which is perceptible
 by the adherents as said in Chāndogya Upanishad: *ya eSo antaraaditye hiraNmayaH puruSo dR^ishyate...*
 1-6-6. From now on, the features that are reliable for the adherers are said.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -670,8 +646,6 @@ prajaanaam ca hite rataH = also concerned in welfare of subjects; *yashasvii*
 "He is the knower of rectitude, bidden by the truth, also his concern is in the welfare of subjects,
 proficient in prudence, clean in his conduct, self-controlled and an attentive one...
 [1-1-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -724,8 +698,6 @@ deviating from traditional translations of prajaapatiH as Lord Brahma here and t
 only in the Supreme Person, but unobtainable in any other...' Maheshvara Tiirtha. These two, Govindaraja
 and Maheshvara Tiirtha are reputed commentators on Ramayana among many
 others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -801,8 +773,6 @@ has not been handed over to the successive generations, lest everything would ha
 by now. In Ramayana too, which is much earlier to Mahabharata, there are elaborate accounts of such
 *astra-s* in the coming chapters. Sage Vishvamitra, who is well-versed in warfare, gives many
 such weapons to Rama. For now, these bow and arrow references may not be taken as those of Robin Hood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -844,8 +814,6 @@ and distinguishing.]
 "He is the knower of the meaning and essence of all the scriptures, excellent at memory, a brilliant one,
 and dear to all the worlds, gentle, level-headed and clear-headed in discriminating and distinguishing...
 [1-1-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -896,8 +864,6 @@ vR^itti-aadi bhedaabhaavaat* And the word *eva* in *sa eva priyadarshanaH* indic
 'always...' 'unvarying in his demeanour with anyone...' Govindaraja. And by the simile of ocean to Rama,
 for rivers there is no other course except an ocean; thus, the living beings, may it be humans or birds
 like Jataayu, have no other recourse than Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -955,8 +921,6 @@ get hassled though subjected to many problems, for they place their faith in the
 are unshaken though battered by storms or lightings...' So, like a mountain he is unalterable and constant
 for a true devotee. An icy-mountain is meltable by scorching sun, thus Rama also melts down when his
 adherents are scorched with their problems.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1034,8 +998,6 @@ or words that would make it up...' We therefore request the readers to go by the
 than by the order of words, for there is a saying... *paaThakrame arthakramo baliiyaH...* So,
 this *adhyaahaara*, supply of words, may not be that faithful while rendering from Sanskrit
 to English.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1098,8 +1060,6 @@ yuktam = concerned for welfare of the people.
 "Lord of the land King Dasaratha with an intent for doing good to the people, affectionately desired to endow with regent-hood to that Rama,
 the eldest and a dear son to Dasaratha and who possessed such merits with true valour, together with best of qualities,
 and concerned for welfare of the people....[1-1-29b, 20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1152,8 +1112,6 @@ ca* = and Bharata's, anointment; *varam enam* = (as) boons from him [Dasaratha].
 "Then seeing the arrangements for the anointment of Rama as crown-prince, Kaikeyi, the dear wife
 and a queen of Dasaratha, solicited boons that were once accorded to her by Dasharatha, for the
 banishment of Rama and anointment of Bharata as boons. [1-1-21b, 22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1196,8 +1154,6 @@ _________________
 
 "Bound by his true plighted word and by the noose of righteousness that king Dasharatha
  exiled his dear son Rama to forests. [1-1-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1240,8 +1196,6 @@ promise of his father to Kaikeyi; *pituH vacananirdeshaat* = by father's directi
 
 "That warrior Rama went to forest for pleasing Kaikeyi, and as
 directed by his father, and to follow his father's word of honour. [1-1-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1293,8 +1247,6 @@ dear brother to Rama, followed him out of affection, showing brotherly fraternit
 **टिप्पनी**
 
 व्रजन्तम् is an accusative case of व्रजत् with व्रज् as its root.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1364,8 +1316,6 @@ The deities have their wives always with them. Chandra, the Moon has Rohini, a c
 Surya, Sun has Prabha, Sunshine. Minus these wives, their glow and glitter is void. So also, Rama has
 an inseparable wife. Though Seetha and Lakshmana were not exiled, they followed Rama out of concept
 of 'togetherness...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1410,8 +1360,6 @@ of 'togetherness...'
 distance when he started on his exile. Later Rama reached the tribal chief named Guha, who liked
 Rama, on the bank of River Ganga in a town called Sringaberapura. Together with Guha,
 Lakshmana and Seetha, he left off the charioteer. [1-1-28b, 29, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1476,8 +1424,6 @@ and forest dwelling... as every part of Universe is theirs.
 
 In another way *tevane vanam gatvaa* 'playfully, to forests, they went...' It is a play for them
 to enter the forest to resolve the purpose of Ramayana and their incarnations.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1521,8 +1467,6 @@ weeping for son... [1-1-32b, 33a]
 **टिप्पनी**
 
 The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshvara Tiirtha's text will have 'then'.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1575,8 +1519,6 @@ The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshva
 
 "On Dasharatha's dying, though Bharata had been appointed for kingship by Sage Vashishta and other Brahmanas, that highly mighty one did not desire kingdom.
  That warrior Bharata went to forest to propitiate the venerable Rama... [1-1-33b. 34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1629,8 +1571,6 @@ _________________
 **टिप्पनी**
 
 *tu* is omitted in the translation since it is there for the purpose of *paadapuuraNa*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1674,8 +1614,6 @@ aadeshaat* = due to father's injunction; *na icChat* = did not desire; *raajyam*
 **अनुवादः**
 
 "Even though Rama was very benevolent, gracious also, highly famed and with great prowess, Rama did not desire kingdom due to father's injunction... [1-1-36b, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1691,8 +1629,6 @@ cha nyaasam = and entrusting [them]; *raajyaaya* = for (the sake of) kingdom.
 
 "Thereafter, repeatedly turning Bharata back, the elder brother, Rama, gave his wooden shoes to Bharata and entrusting them to represent him
 for the sake of kingdom. [1-1-37b, 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1732,8 +1668,6 @@ thus; *raamapaadau upaspR^ishan* = touching Rama's sandals (representing Rama's 
 
 "That Bharata, thus with a desire unfulfilled, ruled the kingdom from Nandigrama, touching Rama's sandals representing feet of Rama, with an
 expectation of Rama's arrival... [1-1-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1792,8 +1726,6 @@ The translation of *ekaagraH* as "undisturbed" is done according to the context 
 from various people to Chitrakuta and entreaties from them for Rama to return to Ayodhya. Normally *ekaagraH* is translated as
 "single-pointed attention". Govindaraja explains *ekaagraH* with respect to following father's injunction or being alert to increased
 presence of *RakShasaas*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1846,8 +1778,6 @@ called as *agatsyabhraataa*, brother of Agastya.
 **टिप्पनी**
 
 *tu* is omitted in the translation since it is there for the purpose of *paadapuuraNa*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1888,8 +1818,6 @@ called as *agatsyabhraataa*, brother of Agastya.
 
 "On Sage Agastya's word, Rama, with great delight, received from Agastya, Indra's bow along with the sword and two quivers with ever replenishing
  arrows... [1-1-42b, 43a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1933,8 +1861,6 @@ called as *agatsyabhraataa*, brother of Agastya.
 
 "During Rama's stay in the forest, all the sages together with other forest dwellers,
 approached him for the elimination of ogres and demons... [1-1-43b, 44a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -1992,8 +1918,6 @@ the fire and who were living in that Dandaka forest about killing of the demons 
 The word asura is as from *asuun raati iti asura*: *asu* = life; *ra*= taker; i.e.,
 life takers - demons, while the word *sura* is nectar consuming one, the divine. In later chapters
 of this canto, accounts are given as how these were created and named.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2047,8 +1971,6 @@ of Shuurpa-nakha.
 Shuurpa-nakha is so named because her fingernails are like winnowing fans, *shuurpatulyanakhaa iti shuurpanakhaa; shuurpa*=
  winnowing fan; *tulya* = like; *nakhaa* = fingernails. She is the sister of Ravana the main antogonist of the epic, and
  she is the actual trouble creator in the epic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2095,8 +2017,6 @@ including the demons Khara, Trishira, Duushana together with all of their foot-f
 **टिप्पनी**
 
 We are ignoring in translation the एव part of चैव and translating the word चैव as "and".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2134,8 +2054,6 @@ We are ignoring in translation the एव part of चैव and translating the 
 **अनुवादः**
 
 "During Rama's stay in that forest, fourteen thousand demon inhabitants of Janasthana became slain... [1-1-48b, 49a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2189,8 +2107,6 @@ vishravaso vishravaNa-ravaNau* 'the son of one named Vishravasa...' Govindaraja.
 **टिप्पनी**
 
 *वरयामास* is the *लिट् लकार of * of the root *वर* (see *आत्मनेपदी* form)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2234,8 +2150,6 @@ vishravaso vishravaNa-ravaNau* 'the son of one named Vishravasa...' Govindaraja.
 
 "But Maareecha restrained Ravana telling him many times, 'Oh, Ravana! Rivarly with that formidable
 Rama is not appropriate of you...' [1-1-50b, 51a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2252,8 +2166,6 @@ raavaNaH kaalachoditaH = Ravana impelled by [his own] fate; *tadaa* = then; *jag
 
 "Then disregarding Maareecha's words and impelled by his own fate, Ravana advanced to the
 place of Rama's hermitage along with Maareecha... [1-1-51b, 52a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2292,8 +2204,6 @@ place of Rama's hermitage along with Maareecha... [1-1-51b, 52a]
 **अनुवादः**
 
 "After taking away of Rama and Lakshmana to a distance by the trickster Maareecha, Ravana stole Rama's wife after killing Jatayu... [1-1-52b, 53a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2333,8 +2243,6 @@ place of Rama's hermitage along with Maareecha... [1-1-51b, 52a]
 
 "Raghava on seeing the smitten Jatayu and also on hearing about Seetha's abduction, wailed with disturbed senses,
 seething with anguish ... [1-1-53b, 54a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2385,8 +2293,6 @@ _________________
 "Rama then cremated that vulture Jataayu with that state of anguish, and while searching for Seetha in forest, he
 indeed saw a demon named Kabandha, deformed in his looks and with a terrible appearance... [1-1-54b,
 55]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2436,8 +2342,6 @@ she who is an expert in probity; *shramaNiim* = a devotee.
 
 "That Rama with great arms after slaying Kabandha, cremated him and Kabandha obtanined heaven. Before going to heaven, he spoke thus to Rama:
 'Oh Raghava! You proceed to Sabari, a lady with righteous conduct, an expert in probity and a devotee.'... [1-1-56, 57a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2482,8 +2386,6 @@ she who is an expert in probity; *shramaNiim* = a devotee.
 Next verse onwards the episodes in KiShkindha are introduced. Now Rama meets Hanuma, the Vaanara. *vanena*= in forests, *charati*= moves about,
 *iti*= thus; therefore *vaanara* = 'forest-ranger' is the declination of the term Vaanara.
 Traditionally Hanuma is worshipped as a god.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2525,8 +2427,6 @@ Traditionally Hanuma is worshipped as a god.
 
 "Rama was united indeed with the Vanara Hanuma on the banks of Lake Pampa, and upon the word of Hanuma, Rama met with
  Sugreeva... [1-1-58b, 59b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2578,8 +2478,6 @@ Here the use of 'highly powerful...' for Rama is to indicate that though he hims
 to eliminate Ravana, but as a human, he needed some agency, since humans in such difficulties
 are usually in need of a helping hand. As such, Rama had to befriend Sugreeva and
 it was necessary to narrate all sad episodes to his friend.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2621,8 +2519,6 @@ _________________
 **अनुवादः**
 
 "The Vanara Sugreeva after listening to all that talk of Rama made friendship with Rama delightedly with sacred fire as witness... [1-1-60b, 61a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2662,8 +2558,6 @@ _________________
 
 "Then out of affection, the incident was related with regard to Sugreeva's enemity with Vali
 in its entirety by the Vanara King with grief to Rama ... [1-1-61b, 62a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2714,8 +2608,6 @@ flying from one ocean to the other. He is mightier than Ravana, the chief villai
 Ravana was subdued by Vali's strength. As a preamble to the incident of eliminating mighty Ravana in
 the last book of the epic, this episode of eliminating a still mightier monkey is the stepping-stone
 for the climactic victory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2761,8 +2653,6 @@ dead body to gain confidence in Raghava... [1-1-63b, 64]
 **टिप्पनी**
 
 Vali had at one time killed Dundubhi and kicked his body over a long distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2827,8 +2717,6 @@ in a remote forest doubts my capability... let him see a speck of it...' thus Ra
 And the often repeated epithet to Rama *mahaabaahuH* means not just 'yards and yards of lengthy
 arms...dangling up to knees..' but 'one who does unimaginable deeds...' and his arms are the unusual
 instruments to perform such unusual tasks, hence ambidextrous, or omni-dextrous...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2882,8 +2770,6 @@ create faith in the mind of Sugreeva... [1-1-66]
 The *rasaatala* is deepest subterranean plane, and it forms the base of other planes of earth
 called, *atala, vitala, sutala, talaatala, mahaatala, rasaatala* underneath the surface of earth
 up to its core.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2931,8 +2817,6 @@ great monkey [Sugreeva]; priitamanaaH = [with a] gladdened heart; tena = by it [
 "Thereafter great monkey Sugreeva with a gladdened heart by that act of Rama, proceeded to cave-like Kishkindha then along with Rama
 and with confidence in Rama's strength...
 [1-1-67]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -2980,8 +2864,6 @@ the main epic. The canto-wise summarisation is as below:
 
 Valmiki composed Ramayana according to the letters of Gayatri Hymn and they are identified with the
 following verses in all cantos:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2997,8 +2879,6 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 
 "Then that best monkey Sugreeva, with a golden hue, made a roaring sound. By that loud sound, the king of monkeys, Vali, emerged out...
 [1-1-68]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -3013,8 +2893,6 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 **अनुवादः**
 
 "Then after Tara [wife of Vali] permitting, Vali met with Sugreeva in a combat. And Rama killed this Vali with a single arrow there... [1-1-69]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3053,8 +2931,6 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 **अनुवादः**
 
 "Then Raghava after killing Vali in a combat as per Sugreeva's plea, installed Sugreeva alone as the king of Vanaras.. [1-1-70]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3101,8 +2977,6 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 Sugreeva was acclaimed to be a strict disciplinarian, and his orders were inviolable by anyone. Even now the
 proverbial saying exists that a "command by elders is to be followed like *sugreevaaj~naa* 'Sugreeva's
 order'.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3147,8 +3021,6 @@ order'.
 
 "After that, the strong Hanuma, upon the word of the vulture Sampati who was elder brother of Jatayu, flew across the salty ocean
  one hundred yojanas in breadth... [1-1-72]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3192,8 +3064,6 @@ _________________
 **अनुवादः**
 
 "On reaching the city of Lanka ruled by Ravana, Hanuma saw Seetha situated in Ashoka gardens there and meditating on Rama alone... [1-1-73]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3240,8 +3110,6 @@ _________________
 
 "After delivering to Seetha the mark of identification in the form of a ring from Rama and also communicating
  Rama's disposition and consoling Vaidehi, Hanuma destroyed the welcome-arch of Ashoka gardens... [1-1-74]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3279,8 +3147,6 @@ sons; *shuuram akSham ca niSpiSya* = and crushing valiant Aksha; *grahaNam samup
 **अनुवादः**
 
 "After killing five army chiefs and seven minister's sons and crushing the valiant Aksha, Hanuma got into state of captivity... [1-1-75]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3363,8 +3229,6 @@ down to ashes some day,
 besides Vibheeshana's place, for Vibheeshana is the adherer of Dharma. This episode is to relegate
 the false pride of Ravana, and as a symbolic suggestion that pomp and effluence without virtue are short
 lived.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3404,8 +3268,6 @@ performing circumambulation [around Rama]; *saH* = he [Hanuma]; *ameyaatmaa* = h
 
 "Approaching the great Rama and peforming circumambulation around Rama, Hanuma having an inestimable intelligence,
 submitted in essence thus: 'Seen Seetha...' [1-1-78]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3451,8 +3313,6 @@ comparable to the Sun... [1-1-79]
 
 Rama became angry at the ocean for not yielding way to Lanka. In order to make way through the Ocean,
 Rama starts depleting its waters with arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3498,8 +3358,6 @@ Nala, a Vanara engineer, had a boon from his mother. In his childhood he used to
 water wanting them to float. But they were all submerged. His mother then gave a boon to him saying
 that whatever article he throws in waters will float, may they be toys or stones or boulders. Here
 that boon is taken advantage of, and a boulder bridge is built on ocean waters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3539,8 +3397,6 @@ that boon is taken advantage of, and a boulder bridge is built on ocean waters.
 **अनुवादः**
 
 "Rama, having gone to the city of Lanka by that bridge, killing Ravana in a battle, experienced great shame on getting Seetha back... [1-1-81]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3584,8 +3440,6 @@ _________________
 
 "There-after, Rama spoke harshly to Seetha in the assembly of the people. Being devoted to her husband, that Seetha, intolerant of the
  harsh words of Rama, entered into burning fire... [1-1-82]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3659,8 +3513,6 @@ of eliminating Ravana; *mahaatmanaH raaghavasya* = of the great Raghava; *trailo
 "Then, upon the word of Fire-god, having known Seetha to be sinless, Rama became extremely glad.
 Worshipped by all gods he became resplendent. By that accomplishment of the great Raghava the three worlds together with mobile and immobile
 beings, and with groups of gods and sages became exultant... [1-1-83, 84]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -3677,8 +3529,6 @@ chieftain; *tadaa* = then;
 
 "Enthroning Vibheeshana as the chieftain of demons in Lanka, and with a done deed,
 Rama then rejoiced highly indeed free from distress... [1-1-85]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3722,8 +3572,6 @@ Rama then rejoiced highly indeed free from distress... [1-1-85]
 "After obtaining a boon from the gods, Rama raised up monkeys from death. He then travelled to Ayodhya by Pushpaka aircraft
 surrounded by good hearted ones...
 [1-1-86]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3771,8 +3619,6 @@ _________________
 **अनुवादः**
 
 "Rama, with true valour, on going to sage Bharadwaja's hermitage, sent Hanuma to the presence of Bharata... [1-1-87]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3819,8 +3665,6 @@ _________________
 "Then, having boarded Pushpaka aircraft again after leaving the hermitage of Bharadwaja, and narrating past history
  to Sugreeva and others about the events in the days of his exile in forests, while flying overhead
 of the very same places, Rama went to Nandigrama... [1-1-88]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3861,8 +3705,6 @@ anupraapya* = after getting back Seetha; *punaH raajyam avaaptavaan* = regained 
 "That sinless Rama rejoining with all of his brothers in the village Nandigrama removed his matted hair.
 Thus he, on regaining Seetha and on discarding hermit's role again became
 a householder, and he regained his kingdom also... [1-1-89]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3906,8 +3748,6 @@ a householder, and he regained his kingdom also... [1-1-89]
 "When Rama is ruling the world will be highly rejoiced and happy, satisfied and abundant,
 also very righteous, wholesome, disease-free, and free from fear of famine..." Thus Narada is
 foreseeing the future and telling Valmiki. [1-1-90]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -3958,8 +3798,6 @@ least; *naaryaH ca* = ladies also; *avidhavaaH* = without being widowed; *nityam
 
 "While Rama is on the throne men will not see the deaths of their children anywhere in their lifetime,
 and the ladies will remain husband-devouted and unwidowed during their lifetime... [1-1-91]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -4011,8 +3849,6 @@ and the ladies will remain husband-devouted and unwidowed during their lifetime.
 "In the kingdom of Rama, there will be no fear for his subjects from wildfires, gale-storms or from diseases,
 and there will be no fear from hunger or thieves, nor the cattle will be drowned in floodwaters as well... [1-1-92,
 93a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -4054,8 +3890,6 @@ and there will be no fear from hunger or thieves, nor the cattle will be drowned
 
 "Cities and states as well will be replete with wealth and grains likewise. All his subjects will be highly glad always,
 like in Krita yuga... [1-1-93b, 94a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -4115,8 +3949,6 @@ according to custom.
 
 "Like-wise the highly illustrious Rama having performed hundreds of horse rituals and having donated plentiful gold and crores
 of cows and wealth that cannot be counted to Brahmanas and to scholars according to custom... [1-1-94b, 95a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -4133,8 +3965,6 @@ folds.
 "In this world Raghava will establish kingly dynasties in hundredfold and he will be maintaining the
 four-caste system positing each in his own duty, may it be caste-bound or provincial-kingdom-bound
 duty, in order to achieve a perfect social harmony... [1-1-96]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -4187,8 +4017,6 @@ In *raamaraajyam upaasitvaa...* the word used is *upaasana* is not ruling by sce
 it is 'reverentially serving the kingdom...' as one would regard or treat his personal god with reverence.
 Rama thus served his kingdom as a devotee of his subjects and this is the concept of *raamaraajya*.
 The brahma loka is not the abode of four-faced Brahma, but still higher abode, rather VaikunTha itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -4231,8 +4059,6 @@ The brahma loka is not the abode of four-faced Brahma, but still higher abode, r
 
 "This Ramayana is holy, sin-eradicating, merit-endowing, and conformable with the teachings of Vedas.
 Whoever reads this Legend of Rama, will be verily liberated of all sins... [1-1-98]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -4279,8 +4105,6 @@ comforts; *sagaNaH* = with attendants;
 "This Ramayana is long-life giving. A narrative by reading which a human will be blessed with sons and grandsons, and after enjoying worldly
 comforts with attendants, will be adored in heaven after demise...
 [1-1-99]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 </details>
 
@@ -4340,8 +4164,6 @@ ca* = if even a Sudra; *mahatvam iiyaat* = attains excellence.
 "By reading this Ramayana, that person if a Brahmana obtains excellency in speech, if a Kshatriya obtains land-lordship, if Vaisya
 attains profit in trade and even if a Sudra attains excellence." Thus Sage Narada gave a gist of Ramayana
 to Sage-poet Valmiki. [1-1-100]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

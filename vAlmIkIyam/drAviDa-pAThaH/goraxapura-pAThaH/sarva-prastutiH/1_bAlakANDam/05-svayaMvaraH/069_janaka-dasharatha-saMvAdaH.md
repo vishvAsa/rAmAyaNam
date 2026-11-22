@@ -16,8 +16,6 @@ title_english = "069 dasharatha arrives at mithila"
 Dasharatha arrives at Mithila and Janaka receives him reverentially, as he belongs
 to a crowning dynasty, called Ikshvaku-s. Then, after the usual exchange of royal
 pleasantries and protocol, all of them stay in Mithila comfortably.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -63,8 +61,6 @@ raatryaam vyatiitaayaam* = then, night, on being elapsed [into next dawn];
 
 On the next dawn that heartened king Dasharatha who is with his teachers and his
 relatives then said this to his minister Sumantra. [1-69-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -108,8 +104,6 @@ them travel in advance.
 Now let the chancellors of exchequers draw ample riches, gems and numerous other
 items that are used in the marriage from bridegroom's side, all-inclusively, and
 let them travel in advance and let them be well-prepared for any exigency... [1-69-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ quadruple opulence, namely 'riches, gold, equipage, and vehicles...' where opule
 will be the only show in Indian marriages, either of poor or rich. R. C. Dutt comes
 near to this when telling in his poetic version: 'Ride in front with royal riches,
 gold and gems in bright array
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -238,8 +230,6 @@ Janaka,] hastening me, indeed.
 Sage Kaatyaayana... let these Brahmans travel in forefront... and let horses be
 yoked to my royal-cariole, and as the messengers of Janaka are hastening me arrange
 for the travel without time lapse..." Thus Dasharatha ordered. [1-69-4, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -287,8 +277,6 @@ for the travel without time lapse..." Thus Dasharatha ordered. [1-69-4, 5]
 On the word of that best king the fourfold opulence, and even the fourfold forces
 up to some extent followed rearward of the king who is going after the sages who
 are going afore of him. [1-69-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -345,8 +333,6 @@ of the bride's place, esp. if it were to be a village, then a small function / c
 will be held laudatory to the bridegroom, and then they are invited into that place
 of bride like, 'meet a party halfway...' type protocol. This is other than *baraat*
 'matrimonial pageantry...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ Then the king Janaka who is by far gladdened went into a state of ecstatic elati
 when he met the senescent king and paladin of people, namely Dasharatha, as the
 pace for the marriage celebrations is quickened because of the immediate arrival
 of Dasharatha. [1-69-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -462,8 +446,6 @@ done it. This is a common unified laudation used for both of them, in view of th
 insuperable brotherhood, and such a sort of commingling both, for one person's action,
 can be heard often. For e.g., when Lakshmana misshapes Shuurpanakha, Rama is said
 to have done, and even both are said to have done that act.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -508,8 +490,6 @@ had to perform 'shata' hundred 'kratu' Vedic-ritual-s in his earlier human birth
 Providentially bechanced is the arrival of this great-resplendent and godly sage
 Vashishta, who arrived here with all of these eminent Brahmans, like Indra himself
 with all gods... [1-69-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -559,8 +539,6 @@ Providentially my hindrances are overcome by the arrival of godlike sages, and
 providentially my lineage too is gloried owing to this hymeneal engagement with
 noble-souled Raghava-s, who are the most valorous among all the valorous people...
 [1-69-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -616,8 +594,6 @@ There is controversy about the marriage of Seetha with Rama, insofar as its cate
 Whether it is one of the eight kinds or not, is a debated point. The eight kinds
 of marriages are *braahma, daiva, praajaapatya, aarSa, aasura, gaandharva, raakshasa,
 paishaaca* and this topic can be discussed at a later time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -659,8 +635,6 @@ paishaaca* and this topic can be discussed at a later time.
 
 On hearing that sentence of king Janaka the sententious king Dasharatha replied
 the king Janaka from amongst the sages. [1-69-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -709,8 +683,6 @@ thinking, that we will do... [1-69-14b, 15a]
 The word restitutor is used instead of 'donor' because Janaka is restoring the estranged
 divine pair to their togetherness in this mortal world. R. C. Dutt uses 'Gift betokens
 giver's bounty...' for this expression.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -760,8 +732,6 @@ Usually the bridegroom's party will be stiff-necked at least till the marriage i
 over, which has become a nuisance practice in Indian marriages. Here Dasharatha
 is telling the opposite, by which his words are viewed as agreeable to righteousness
 of marriages etc., and for which Janaka is surprised.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -814,8 +784,6 @@ resided - they spent.
 Then, on the foregathering of sages from Vashishta's side with the sages of Mithila
 all the sages have attained extreme joy and they spent that night happily. [1-69-16b,
 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -859,8 +827,6 @@ with]; *pituH paadau upaspR^ishan* = to touch father's feet.
 
 Then that most brilliant Rama, keeping Vishvamitra ahead, and strutting in step
 with Lakshmana, strutted to touch the feet of his father Dasharatha. [1-69-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -914,8 +880,6 @@ of Janaka is that high. [1-69-18]
 
 The expression of 'medallists' to the word *Raghava-s* as above will look
 odd. So an explanation to this is furnished in the endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 </details>
 
@@ -969,8 +933,6 @@ chest. [1-69-19]
 The marriages will be commenced with initial ceremonies called *ankuraaropaNa-
 aadi kriyaaH* for an unhindered marriage function and for the harmonious family
 life of the newly wed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga69/balasans69.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ Vishvamitra narrates the legend of Ahalya to Rama and Lakshmana when
  of Vishaala. Indra is infatuated with Ahalya desires a union with her,
  for which she complies. However, Gautama catching them unawares curses
  both Indra and Ahalya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ pR^iSTvaa* = king Sumati, having asked well-being; *kathaante* = end of episode
 When those two, Vishvamitra and Sumati, have met one another there at that place,
 king Sumati raised the topic of Rama and Lakshmana, after exchanging greetings and
 enquiring about the well-being of the great-saint Vishvamitra. [1-48-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -193,8 +189,6 @@ called 'bending the bow of Shiva' and thereby winning the hand of an unusual pri
 Seetha, in marriage. Hence, he footslogged this much distance for *siitaakalyaaNaartham,
 lokakalyaaNaartham* Seetha's marriage, which is for the 'universal
 goodness.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -278,8 +272,6 @@ through smiles, eyebrows, lip movement etc. A person could be analysed by these
 very expressions as we presently call this as face reading. This is what Sugreeva
 says when sending Hanuma to Rama and Lakshmana for the first time, 'because you
 are an expert in reading faces, know them by their facial expressions...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -330,8 +322,6 @@ also; *tathaa* = like that; *raakSasaanaam vadham*
 On hearing those words of King Sumati, Vishvamitra informed him about the visit
 of Rama and Lakshmana to the Hermitage of Accomplishment, also about the elimination
 of demons, as it has happened. [1-48-7a, 7b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -379,8 +369,6 @@ King Sumati is highly astonished to hear the words of Vishvamitra about the visi
 of Rama and Lakshmana, and treating them to have come as the most prominent and
 honour-worthy guests that king started to honour those two great-mighty sons of
 Dasharatha customarily. [1-48-7c, 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -422,8 +410,6 @@ praapya* = on getting high honour from Sumati; *tatra ekaam nishaam uSya*
 On getting high honours from King Sumati, Raghava-s stayed there along with Vishvamitra
 and with the community of sages for one night, and then they all have moved on to
 Mithila. [1-48-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -473,8 +459,6 @@ will be admired for its fortification. However, Mithila is a venerable city, bec
 by itself it is a temple town and the Vedic-rituals etc., will be going on forever.
 It is a blessed place as it has Shiva's Bow, for which bow ritual worship is be
 ongoing from time immemorial.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -516,8 +500,6 @@ papracCha* = asked the eminent sage.
 
 On seeing a hermitage in the fringes of Mithila, that appeared to be age-old, but
 now uninhabited, yet pleasing, Rama asked the eminent sage Vishvamitra. [1-48-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -559,8 +541,6 @@ hermitage; *shrotum icChaami* = I wish to listen.
 "This is semblable to a hermitage but sages seem to have discarded it. Oh, venerable
 sage, whose is this hermitage previously, I wish to listen of it." Thus, Rama asked
 Vishvamitra. [1-48-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -611,8 +591,6 @@ uktam* = spoken by Raghava; *tat vaakyam* = that, sentence; *shrutvaa*
 
 On hearing that sentence spoken by Raghava, the expert in sententiousness, a great
 resplendent sage and eminent-saint Vishvamitra replied him in this way. [1-48-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -668,8 +646,6 @@ factually, and which great soul has resentfully cursed this. [1-48-14]
 
 The pleasure expressed by Vishvamitra is for the arrival of time, for the event
 of Rama's grace, in releasing Ahalya from her cursed state.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -711,8 +687,6 @@ gautamasya aasiit* = belonged to the great-souled, Gautama's, was there
 
 Oh, the best one among men Rama, this hermitage with a heavenly glisten, and highly
 hallowed even by gods, once belonged to the great-souled sage Gautama. [1-48-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -754,8 +728,6 @@ son [prince Rama]; *puraa* = once; *saH* = he - Gautama; *ahalyaasahitaH*
 
 In this hermitage, oh, prince Rama, once that highly renowned Sage Gautama sat
 tight in asceticism for numerous cycle of years along with his wife Ahalya. [1-48-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -807,8 +779,6 @@ his stay with his wife in ascetics]; *viditvaa* = on knowing; *muniveSadharaH*
 On knowing the meantime of Gautama's availability at hermitage, Indra, the husband
 of Shaci Devi and the Thousand-eyed god wearing the guise of sage Gautama and becoming
 such a sage, approached Ahalya and said this to her. [1-48-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -858,8 +828,6 @@ conjoined, so who in the universe will not yearn to have intercourse with you...
 and on seeing your slender waist and thickset hips I wish to copulate with you now
 itself... and let there be no fear of safe period or unsafe period for I do not
 wish to have any progeny of mine from you...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -908,8 +876,6 @@ Her thinking is: This is none but Indra in the guise of my husband, for my husba
 never asks me like this nor he violates times... I heard that Indra is seeking me
 for a long time... and when King of Gods expresses such a desire, it cannot be refused...
 let him have it
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -964,8 +930,6 @@ She felt fulfilled in her heart of hearts and then she said this to that best go
 Indra, 'I am gratified in complying with your wish, oh, best of gods, get going
 oh, lord, from here quickly, oh, ruler of gods, always safeguard yourself and me
 from Sage Gautama.' Thus, Ahalya said to Indra. [1-48-20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -1009,8 +973,6 @@ I am; *yathaa aagatam gamiSyaami* = as I have come, I will go away.
 
 Indra on his part smilingly said this word to Ahalya, 'oh, well-hipped lady, I
 am quite delighted, here I go as I have came.' [1-48-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -1058,8 +1020,6 @@ hastily; *gautamam prati shankitaH* = uncertain towards [his arrival] Gautama
 
 Oh, Rama, Indra then came out of the cottage flustering hurriedly after copulating
 with her with an uncertainty about the arrival of Sage Gautama. [1-48-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -1108,8 +1068,6 @@ there with Kushagrass; *munipungavam Gautamam* = the prominent saint, Gautama
 Indra looked at Gautama..the one who is great saint, inaccessible to gods and demons, full of ascetic power,
 purified with holy water, bright like fire, holding Samidha-s and kusha grass in hands,
 and eminent Sage entering into the hermitage. [1-48-23b, 24, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -1157,8 +1115,6 @@ Indra; *dR^iSTvaa* = on seeing; *roSaat vacanam abraviit* = spoke words by furio
 On seeing the sage the lord of gods Indra is scared and became dreary-faced. Then
 the well-behaved Gautama furiously spoke these words on seeing the ill-behaved Thousand-eyed
 Indra who is donning the guise of a saint. [1-48-25b, 26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -1206,8 +1162,6 @@ Indra who is donning the guise of a saint. [1-48-25b, 26]
 
 'Oh, dirty-minded Indra, taking hold of my form you have effectuated this unacceptable
 deed, whereby you shall become infecund.' Thus, Gautama cursed Indra. [1-48-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -1255,8 +1209,6 @@ testicles; *tat kSaNaat* = that, very moment; *bhuumau petatuH*
 
 When that great-souled sage Gautama spoke that way with rancour, the testicles
 of the cursed Thousand-eyed Indra fell down onto ground at that very moment. [1-48-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -1309,8 +1261,6 @@ On cursing Indra thus the sage cursed even his wife saying, 'you shall tarry her
 for many thousands of years to come without food and consuming air alone, and unseen
 by all beings you shall live on in this hermitage while contritely recumbent in
 dust.' [1-48-29, 30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1332,8 +1282,6 @@ puutaa bhaviSyasi* = then, you will be purified.
 When that unassailable son of Dasharatha, namely Rama, arrives at this squalid
 forest, for it will be henceforth rendered so along with you, then you will be purified.
 [1-48-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1352,8 +1300,6 @@ craze; *mudaa yuktaa* = with rejoice; *mat sakaashe*
 and craze in which you lingered so far, and then you will assume your own body and
 then you can be in my proximity, rejoicingly.' Thus, Sage Gautama cursed his wife
 Ahalya. [1-48-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 </details>
 
@@ -1400,8 +1346,6 @@ on Himalayas, peaks; *tapaH tepe*= practised asceticism.
 hermitage which was once adored by celestials like siddha-sand caarana-s, and that
 great-ascetic Gautama practised his asceticism on the pleasant peaks of Himalayas."
 Thus, Vishvamitra continued his narration about the legend of Ahalya. [1-48-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

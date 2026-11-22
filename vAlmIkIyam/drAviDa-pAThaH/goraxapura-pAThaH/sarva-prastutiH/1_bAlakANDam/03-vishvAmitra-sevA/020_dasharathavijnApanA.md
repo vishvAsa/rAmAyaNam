@@ -16,8 +16,6 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 On enquiring details about those dangerous demons that are ravaging sage's ritual, King Dasharatha
 refuses to send young Rama along with Sage Vishvamitra on many an account, and thus confronts
 the Sage's wrath.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ thus, became senseless; *sanj~naavaan idam abraviit* = said this gaining senses.
 
 On hearing what is spoken by Vishvamitra the tigerly-king Dasharatha became insensate for
 a time, and on redeeming senses he said this. [1-20-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -158,8 +154,6 @@ for war. Can he combat even if he is under aged? Yes, he can, says Govindaraja a
 is not to be reckoned' As such, though Rama appears to be under aged he can do wonders in
 eliminating the vice. This is again rounded off with Vishvamitra's wording in last chapter:
 *aham vedmi mahaatmaanam raamam raajiivalocanam*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -215,8 +209,6 @@ One *pankti* row, is the first unit of ancient military, which consists of 1 cha
 1 elephant, 3 cavalry, and 7-foot soldiers. Multiples of this first unit become an *akShouhiNii*
 troop, which consists of 21,870 chariots and the same number of elephants, 65,610 cavalry,
 and 1,09,350 of foot soldiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -259,8 +251,6 @@ brave ones, also; *vikraantaaH* = daring ones; *astravishaaradaaaH* = experts in
 "Brave and daring are these soldiers of mine, and as experts in weaponry they are the appropriate
 ones to combat the hordes of demons, but, it will be ungentle of you to take Rama with you.
 [1-20-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -301,8 +291,6 @@ yotsye* = I war with nightwalkers [demons] .
 
 "I alone with bow in my hand can protect your ritual, and as long as I bear my lives so long
 I war with those nightwalkers staying in the van of war. [1-20-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -349,8 +337,6 @@ impediments; *bhaviSyati* = it will be; *raamam netum na arhasi* = inapt of you 
 
 " I myself wish to come over there thereby the works of ritual will be well-guarded and unimpeded,
 but, taking Rama with you will be ungracious of you. [1-20-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -406,8 +392,6 @@ it.
 strengths and weaknesses of opponents - no; has he got the equipage of arsenal - no; has he
 any expertise in warfare - no; is he an equal to the demons - no; be that as it may, those
 demons definitely conduct a deceitful warfare, isn't it. [1-19-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -454,8 +438,6 @@ unapt of you to take Rama with you.
 
 "Alienated from Rama I am disinclined to live even for a moment, oh, tigerly sage, hence taking
 Rama with you will be unjust. [1-20-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -475,8 +457,6 @@ him off along with me, and along with my four kinds of troops. [1-20-9b, 10a]
 **टिप्पनी**
 
 The four kinds of troops are: chariots, elephants, cavalry, and foot soldiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -525,8 +505,6 @@ with you.
 "Sixty thousand years have passed from my birth, oh! Vishvamitra, and this Rama is engendered
 at this age, that too with tribulations, hence taking Rama with you will be inappropriate
 of you. [1-20-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -569,8 +547,6 @@ unapt of you to take Rama with you.
 "I will have exceptional affection for all of my four sons, isn't it, and among them Rama
 has a significance in the matter of his descent as an eldest son, hence taking Rama with you
 will be unjust of you. [1-20-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -613,8 +589,6 @@ ke* = they, who; *katham pramaaNaaH* = of what, size; *ke cha etaan rakShanti*
 
 "Oh, eminent sage, of what fortitude are those demons? Whose sons are they? Who are they?
 How is their size and shape? Also who protects all of them? [1-20-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -630,8 +604,6 @@ pratikartavyam* = how to, retaliate.
 
 "Oh, Brahman, how Rama, or my forces, or I myself have to retaliate those demons that are
 deceitful militants. [1-20-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -711,8 +683,6 @@ his [Dasharatha's,] on hearing that words; Vishvamitra; *abhyabhaaSata* = spoke.
 "Tell me all that, oh, god, how I have to carry on when warring with those evil minded demons,
 for the demons will be delirious by their audacity, isn't it..." Thus Dasharatha asked Vishvamitra
 insistently. On hearing those words Sage Vishvamitra replied this way. [1-20-14b, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -735,8 +705,6 @@ mighty, greatly brave; *saH* = he; *brahmaNaa dattavaraH* = given boon by Brahma
 "One born in Paulastya dynasty, an extremely mighty and exceedingly brave demon named Ravana
 is there, and he with the boon given by Brahma, and accompanied with many other demons is
 torturing the triad of worlds, contemptuously. [1-20-16, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -752,8 +720,6 @@ so.
 
 "Unequivocally that chief of demons is the brother of Kubera and the son of sage Vishravasa,
 thus we hear. [1-20-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -802,8 +768,6 @@ Subaahu, also; *tau mahaabalau raakShasau tu* = those, very mighty, demons, but;
 "That formidable Ravana is not a devastator of rituals by himself, even so, two very mighty
 demons called Mareecha and Subaahu will cause devastating hindrances to rituals, instigated
 by him." Thus Sage Vishvamitra said to Dasharatha. [1-20-18b, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -846,8 +810,6 @@ of deputing my young Rama to confront him.
 Thus when he is said so by that sage Vishvamitra, then the king Dasharatha spoke to the sage,
 "I myself am not capable of standing against that evil minded Ravana, in truth, where is the
 question of deputing my young Rama to confront him? [1-20-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -889,8 +851,6 @@ less fortunate one, me, also, thus; *prasaadam kuruSva* = benevolence, you besto
 "You are the knower of probity, such as you are, you may please bestow benevolence upon my
 boyish son, as well on a less fortunate one like me too, and as our mentor you are indeed
 a god of ours. [1-20-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -931,8 +891,6 @@ capable of; *kim punaH maanavaaH*= why, again [tell, about] humans.
 
 "Gods, demons, celestial beings like gandharva-s, yaksha-s, winged and reptile beings
 are incapable to bear the brunt of that Ravana in fight, why tell again about humans. [1-20-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -979,8 +937,6 @@ are incapable to bear the brunt of that Ravana in fight, why tell again about hu
 "But that Ravana depletes the valour of valorous opponents in a battle, oh, eminent sage,
 either with my entire forces, or with all my sons I am inadequate to grapple with all his
 forces, or with him, individually. [1-20-23, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -1022,8 +978,6 @@ a boy]; *sangraamaaNaam* = in wars; *akovidam* = not experienced; *baalam*
 "My boyish son is godlike and unfledged in warfare, oh, Brahman, and he is the one who alleviates
 me from punnama naraka the hell of sonless fathers... no, I cannot
 spare my son in anyway. [1-20-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -1071,8 +1025,6 @@ war, Death-god in simile; *putrakam na eva daasyaami* = not in any way I spare m
 "Further, those saboteurs of your ritual namely Mareecha and Subaahu, are similar to Death-god
 and the descendents of the earliest demons and subverters of rituals, namely Sunda and Upasunda,
 no, I cannot spare my son, in any case. [1-20-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -1117,8 +1069,6 @@ friendly forces; *tayoH anyataram yoddhum* = to war with one only [either of the
 friendly forces to war with either of those two demons, otherwise, I along with all my relatives
 implore upon you for your exoneration in my failure to comply my own promises. [1-20-26b,
 27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 </details>
 
@@ -1177,8 +1127,6 @@ namely sage Vishvamitra is overwhelmed with outrageous anger by his mentation, a
 glorious sage looked like the ritual fire into which many inflammable oblations are offered,
 and which is drenched with a lot of clarified butter, whereby it is flaring up its tongues.
 [1-20-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

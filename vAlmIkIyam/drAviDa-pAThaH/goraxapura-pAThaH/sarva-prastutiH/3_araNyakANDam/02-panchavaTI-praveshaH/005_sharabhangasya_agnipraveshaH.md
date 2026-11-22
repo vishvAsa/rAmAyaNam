@@ -17,8 +17,6 @@ Rama after killing demon Viradha enters the hermitage of Sage Sharabhanga, as ad
  in the previous episode. Sage Sharabhanga refuses the invitation of Indra to come to heaven, but awaits the
  arrival of Rama to see him with his own eyes. After seeing Rama, Seetha and Lakshmana, and also showing next
  course of their journey, that Sage enters the yogic fire and ascends to Brahma's abode.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ to brother, to Lakshmana, said.
 
 After killing that stupendously mighty demon Viradha in forest, then Rama comfortingly embraced Seetha, and spoke to his
 brother Lakshmana who is beaming forth with resplendence. [3-5-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -88,8 +84,6 @@ in ascesis, wealthy, to Sharabhanga, we will go.
 
 "Difficult is this impassable forest, nor we are forest inhabitants either... let's go quickly to that ascetically rich
 sage Sharabhanga..." [3-5-2b, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -133,8 +127,6 @@ wonder, has seen.
 
 On his approach at the hermitage of Sage Sharabhanga, a sage with a divine effect and the one with a purified soul, saw
 a great wonder at the nearby of that hermitage of Sharabhanga.[3-5-3b, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -191,8 +183,6 @@ great souls; *devam vibudha iishvaram dadarsha* = lord of three worlds, Indra, i
 Rama has seen Indra, the lord of three worlds, with a radiant body that has the coupled radiance of Sun and Fire, mounted
 on a great chariot that does not touch the earth, wearing greatly brilliant ornaments and attired in spotless dress, while
 the other divinities are attending, and many more selfsame great-souls are worshipping him. [3-5-5, 6, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ firmament, traversing, chariot [of Indra] [raamaH] dadarsha = Rama, saw.
 
 Rama saw at his very nearby a chariot yoked with green horses that traverses in firmament, which in its splendour is either
 like the noontime sun, or a cluster of silver clouds, or like the silvern sphere of the moon. [3-5-7b, 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -327,8 +315,6 @@ Comment: The royal umbrella and fanning instruments of Hindu order are of partic
 counterparts. These chamara instruments will be made from the bushy long, silver-white hair of chamara animal, a Himalayan
 beast, [Bos grunniens] and the hair will be studded into a golden or silver handle. These are not for actual air circulation
 but they are royal insignias.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -375,8 +361,6 @@ giirbhiH agryaabhiH aiDayan* = with hymns, best ones, extolling.
 
 And the celestials like gandharva-s, amara-s, siddhaa-s and very many great sages as well are extolling Indra who is abiding
 in firmament. [3-5-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -395,8 +379,6 @@ Rama; *lakshmanam* = to Lakshmana; *abraviit* = spoke.
 **अनुवादः**
 
 On seeing Indra speaking there to sage Sharabhanga, Rama spoke to Lakshmana. [3-5-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -440,8 +422,6 @@ pradarshayan* = his amazement, to Lakshmana, on showing; oh, Lakshmana; *archiSm
 
 Rama then on pointing out the chariot expressed his own amazement saying, "Lakshmana see this wonderful chariot that includes
 effulgence and auspiciousness as well, and that abides in firmament, and highly luminous like the Sun... [3-5-12b, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -490,8 +470,6 @@ firmament, abiding; *divyaaH ime* = divine, they, dhruvam = definitely.
 
 "Of which horses we have earlier heard from our teachers telling that they belong to Indra, the Chief Invitee in Vedic rituals,
 they are these divinely green horses that now abide in the firmament, and definitely these must be Indra's horses... [3-5-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ of age; *ruupam bibhrati* = that appearance, they [always] bear.
 ear-ornaments and swords in hands, with wide and broad chests, with club shaped arms, and clad in glimmering red garments,
 all are like tigers, all are unapproachable, all of them are wearing ornamental chains on their chest-place that are akin
 to flaring fires, and in their appearance, Soumitri, they always bear a look of twenty-five-year-olds... [3-5-15, 16, 17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -617,8 +593,6 @@ remains, they say; [elliptic: for they are immortals and they will be ever young
 
 "The age factor of gods remains constant at the age that appears for these nice-looking Tigerly-men, so they say...
 for gods are immortals and they will be ever young... [3-5-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -663,8 +637,6 @@ a resplendent one, on chariot.
 **अनुवादः**
 
 "Stay for a moment Lakshmana along with Vaidehi, until I know clearly about that resplendent one on that chariot... [3-5-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -709,8 +681,6 @@ on saying; *kaakutshhaH* = Kakustha scion, Rama; *sharabhanga; *aashramam prati*
 **अनुवादः**
 
 On saying to Lakshmana stay there only...' Rama proceeded towards the hermitage of Sage Sharabhanga.. [3-5-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -756,8 +726,6 @@ On saying to Lakshmana stay there only...' Rama proceeded towards the hermitage 
 
 Then, on seeing Rama arriving there, Indra, bade farewell to Sage Sharabhanga and said this to the celestials attending
 him. [3-5-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -842,8 +810,6 @@ The same verse in Dharmaakuutam is like this,
 
 In any case, the import is this "Now he that Rama can not talk to me, and after getting the results of his incarnation,
 i.e., elimination of Ravana, then only he can see me..."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -898,8 +864,6 @@ as Rama. If any divine being comes into direct contact and conducts a dialogue, 
 Ravana will apprehend that and then revokes his boon of not to be killed by any divine being. As long as Ravana believes
 Rama to be a human being, so long he dares any human to confront, because he slighted humans when seeking his boon. Ravana
 can be ended only by Rama, but not by others. Hence, Indra departed from there before the arrival of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -952,8 +916,6 @@ The word *paricChada* means, that which encloses anything, apart from its ordina
 the enclosures for Rama are Seetha and Lakshmana. As with any deity in a sanctum sanctorum, who is enclosed by impregnable
 walls and sanctimonious atmosphere, Rama is enclosed by that impregnable Lakshmana like a firewall, where the sanctimonious
 environ is the presence of Seetha, near at Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -999,8 +961,6 @@ labdha vaasaa* = obtaining, shelter [say, for that day and for first time]; *nim
 
 Touching the feet of that Sage Sharabhanga Rama along with Seetha and Lakshmana, and duly permitted and invited by that
 Sage Sharabhanga they sat there, as they obtained a shelter. [3-5-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1045,8 +1005,6 @@ Sharabhanga also; *raaghvaaya* = to Raghava; *tat sarvam*
 **अनुवादः**
 
 Then, Raghava enquired with sage about the arrival of Indra and Sage Sharabhanga narrated all that to him. [3-5-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1095,8 +1053,6 @@ abode; *maam* = me; *niniiSati* = wishes to take.
 
 "Oh! Rama, that boon-giver Indra wishes to take me to Brahma's abode, which is achieved by me by my arduous ascesis and
 that which is unattainable for them with their souls unconquered... [3-5-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1153,8 +1109,6 @@ an impracticable affair. Hence the mortal body is to be cast off here only. If t
 request of Indra, the sage's mortal eyes cannot see Rama, for Rama leaves this earth after fulfilling his vow of eradicating
 evil, and equally, a Sage of high order like Sharabhanga, on going to Brahma's abode will not return as an earthling. Hence
 seeing and receiving Rama is his priority now.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1214,8 +1168,6 @@ na arjuna...* 8-16: and here Krishna also says *maam upetyatu...* 'In me repose 
 tripaadasya amR^itam divi...*' etc. Dharmaakootam puts it as *brahma lokam gamiSyaami tridivam deva sevitam...*
 without separating this concept into two kinds of heavens, namely paradise and Brahma's abode. Hence there is nothing enjoyable
 in any of the said heavens, than having a glance at you. Maheshvara Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1274,8 +1226,6 @@ concept 'I am the doer thus I shall enjoy...' Even in the daily worship we are s
 with oblating water saying ' *karomi yad yat sakalam parsmai naaraayaNaayeti samarpayaami...* 'Whatever is done,
 in all its entirety, I dedicate it unto the Supreme...' And Govindaraja observes, whatever that is acquired by the sage
 is his wealth. So the heavenly abodes are his only wealth as of now, and they all are surrendered to Rama, as guest-worship.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1321,8 +1271,6 @@ this sentence, said.*
 
 Thus said by the Sage Sharabhanga to that Manly-tiger Rama, being the scholar in all the scriptures he spoke this sentence
 to that sage. [3-5-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1392,8 +1340,6 @@ is provider, fetcher, and Vishnu Himself is the fetcher, provider. In another wa
 away, or merge and thus Rama is said to express 'I snatch away everything and anything done by my true devotee...for he
 does not do it for his own sake...' This is said to be God's *karma phala swiikaara* 'receiving of the fruits of
 work...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1439,8 +1385,6 @@ way, spoke, sentence.
 
 Thus said by Raghava, who is like Indra in strength, that supremely intellectual Sage Sharabhanga again spoke this sentence
 this way. [3-5-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1489,8 +1433,6 @@ saH te shreyaH vidishyati* = he, to you, benignant, will do.
 
 "Here, oh! Rama, a great resplendent sage named Suteekshna, lives in this forest...a virtuous and a self-disciplined one,
 and he will do something benignant to you... [3-5-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1539,8 +1481,6 @@ vidhaasyati* = he, to you, housing, arranges.
 
 "You approach Sage Suteekshna and to you he will arrange housing in his auspicious and dpleasant place woods of hermits...
 [3-5-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1592,8 +1532,6 @@ at Sage Suteekshna's hermitage...] [3-5-37]
 Comment: Mandaakini is the name of River Ganga, and hence any river with continuous flow is affectionately called Ganga,
 like Dakshina Ganga, Bhaagiirathi etc. So this name of Mandakini is to mean a river here, but not Ganga. Later in Kishkindha
 also River Pampa is called Mandakini, at times.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1654,8 +1592,6 @@ from earth. 'If Rama were to enter into Panchavati, a powerful dominion of demon
 loyalties to Ravana, it is definite that an encounter will ensue and Rama will start eradicating one after the other, and
 ultimately ending with Ravana...' this appears to be the logic of all the sages. As such Rama is asked to go on travelling
 towards the evil side of the earth, for all of the sages know about Rama's destination
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1701,8 +1637,6 @@ susamaadhaaya* = fire, well, invoked; *aajyena* = with clarified butter; *mantra
 
 Then that hymnist on invoking the sacred fire and offering oblations with clarified butter into it, that radiant sage Sharabhanga
 entered that sacred fire. [3-5-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1767,8 +1701,6 @@ his mortal body, and hence entered the holy fire. Those that are superior in cha
 Deva, cannot even touch, rather provides a coolant condition in His lap. It is the same with Seetha in Yuddha Kanda and
 it also happened with Queen Chandramati, the virtuous wife of Emperor Harishchandra, one of the forefathers of Rama. Thus
 said in Dharmaakuutam:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1818,8 +1750,6 @@ fire he shone-forth. [3-5-41]
 **टिप्पनी**
 
 Comment: The age of celestial is always constant like twenty-five-year-olds, as said above by Rama at 3-5-17/18.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1865,8 +1795,6 @@ souls, of saints, also; *devaanaam cha* = divinities, also; *lokaan* = worlds; *
 
 He that Sage Sharabhanga, transcending the ethereal worlds of fire-worshippers, of saints, of great souls, and also of divinities,
 has ascended to Brahma's abode. [3-5-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 </details>
 
@@ -1919,8 +1847,6 @@ cha api* = Brahma, also, even; *samiikSya* = seeing him; *tam dvijam* = that, Br
 
 He that meritorious and best Brahman Sharabhanga has seen Brahma in Brahma's abode, and Brahma too, on seeing that Brahman
 happily spoke to him... "Welcome..." [3-5-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

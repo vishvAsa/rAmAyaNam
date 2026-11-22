@@ -21,8 +21,6 @@ and others and Angada is its leader. Sugreeva gives a vivid picture of the south
 dviipa up to the south-most part of passable regions, next to which the abode of Yama, the
 Terminator is there. This troop is also given one month's time to find the whereabouts of
 Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ prasthaapya* = great one, that, vanara, force [to East,] on sending; *tataH* = t
 
 On sending that great vanara force to east, Sugreeva started to send tried and true
 vanara-s to south. [4-41-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -169,8 +165,6 @@ Ulkaamukha, Ananga. [4-41-2, 3, 4, 5]
 
 Sushena said in above verses is not the father of Tara. Sugreeva addresses him
 later when sending another direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 </details>
@@ -218,8 +212,6 @@ southerly, direction, [Sugreeva] ordered.
 
 Sugreeva made the formidably mighty Angada as the chief of those valiant monkeys
 forming search party and ordered southern direction for them. [4-41-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -271,8 +263,6 @@ gave a picture of.
 The king of monkeys Sugreeva gave a picture about some of the highly impassable
 countries available in southern quarter that need an introduction to those prominent monkeys bound
 south. [4-41-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 </details>
@@ -395,8 +385,6 @@ has this as *abruvantiim bruvantimm* roughly forming part of the speech of Sugre
 and unspoken areas by me...' However, these areas are in the Southwest of India, and it appears the
 order of positing the rivers or kingdoms, one after the other is not maintained or may be
 shuffled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -436,8 +424,6 @@ Nadu, especially northern area, and Pundra is roughly in between Andhra and Chol
 south-most area where in Kanyakumari district the Cape Camorin is there, and Kerala is the present
 Kerala state from Gokarna to Kanyakumari. Its historical name was *chera raajya* and in
 Ashoka's time, it was called *kerala putra.*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 </details>
@@ -504,8 +490,6 @@ on that great mountain in the places that are with the copses of sandalwood tree
 
 This Mountain is also called Agastyamalai and it is in Western Ghats from which
 River Tamraparni emerges.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 </details>
@@ -565,8 +549,6 @@ where *kaakam* is 'crow...' *viri* 'spread out...' When Agastya is bringing wate
 sprinkled from his handy vessel and flooded the *kaa* 'the garden...' in Tamil, the garden
 of Indra. Then it is called *kaaviri*, but *Shilpadikkaaram* records its name as
 Kaaveri only *pulavoy vazhi kaaveri... nadanthai vazhi kaaveri...*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -615,8 +597,6 @@ drakSyatha* = Sage, the eminent, Agastya, you shall see.
 
 "You shall see the eminent sage Agastya, whose resplendence is akin to that of the
 Sun, and who will be sitting on the top of that highly resplendent Mt. Malaya. [4-41-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 </details>
@@ -666,8 +646,6 @@ highly cherished by, River Taamraparni; such a; *mahaa nadiim* = great river;
 "And when that great-souled Agastya complaisantly permits you, then you shall leave
 that mountain and cross over the great River Taamraparni, a highly cherished river of crocodiles.
 [4-41-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -749,8 +727,6 @@ corrupt from *Simhalaka* Abu Rihaan gives the form of *Singal-dip* and then the
 Arabic name *Tilaan* came and that resulted into *Cylone.* After a long lost time
 they have renamed it as per the nomenclature given in Ramayana as *Lanka,* but adding a
 *Sri* before it. [After Ancient Geography of India.]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -795,8 +771,6 @@ there; *drakSyatha* = you shall see; search inside that gateway.
 "From there, on going to the Paandya Kingdome you shall see a fully golden
 castle-door bracing the compound-wall of the fortress, which is decorated with pearls and jewels,
 and conduct your search even in that kingdom. [4-41-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 </details>
@@ -874,8 +848,6 @@ the local people benefit from the herbs that grow on this mountain and even the 
 cooked on this mountain will turn to sweet taste. This is being the story of this end of the ocean
 for Herbal Mountain, on the other end in Sri Lanka also there is a similar herbal mountain called
 Rhumassala Kanda, in Singhalese.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -942,8 +914,6 @@ Thousand-eyed Indra will always be visiting that Mt. Mahendra on every auspiciou
 The auspicious day for Tamil almanac is no moon day *amavaashya* because of its
 neutrality from the wax and wane affects of lunar phases. So, it is believed that Indra will come
 to this mountain on every no-moon-day in the Indian month.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -994,8 +964,6 @@ that island up to its fringes. [4-41-23b, 24a]
 This island on the other shore of the ocean is Ravana's Lanka, and it is
 believed to be the present day Sri Lanka. That island's association with River Taamraparni is as
 noted above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1083,8 +1051,6 @@ well acquainted with it. Rama, who is astounded at this geographical description
 not ask Sugreeva as to why this particular place of Ravana is not indicated to him earlier. So, the
 denial of information earlier by Sugreeva is completely political, and now giving orders to search
 Seetha is for his requital.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1139,8 +1105,6 @@ who eats prey by grabbing its shadow when flying overhead. [4-41-26]
 
 This demoness is also termed as Simhika whom Hanuma tears apart in Sundara
 Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1193,8 +1157,6 @@ of one with - infinite, vital power - Rama; *nara indrasya patniim* = people's, 
 doubtable place by thorough searching, and you have to go on searching somewhere else for Seetha,
 the wife of the king of people with infinite vitality, namely Rama, only after getting rid of your
 doubts about her possible presence at any given place. [4-41-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1243,8 +1205,6 @@ mountain; is there.
 "On crossing over that isle and after a hundred yojana-s a mountain named Pushpitaka
 is there in that august ocean, which is adored by the celestials like siddha-s, caarana-s.
 [4-41-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1295,8 +1255,6 @@ as if; *bhraajate* = [that mountain] shines forth.
 "Well-settled in oceanic waters that Mt. Pushpitaka will be shining forth with a
 resplendence similar to sunrays on one side and with that of moonshine on the other, and its lofty
 crests will look as if they are scribbling on the sky. [4-41-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1350,8 +1308,6 @@ na* = unbelievers, no.
 "One of its summit will be golden which the Sun adores, and the other will be
 silvery whitish which the Moon adores, and that mountain is unperceivable to the unfaithful ones,
 or to the unkindly ones or to unbelievers. [4-41-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1406,8 +1362,6 @@ that - mountain, on going across; *durvigaahena [dur vi gaahena]* = by highly, i
 thoroughly. Then on going across that inviolable mountain and taking a highly impassable route
 there is a mountain named Suuryavaan after fourteen yojana-s from Mt. Pushpitaka. [4-41-31,
 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1455,8 +1409,6 @@ with fruits; *sarva kaala manoharaiH* = all, times, heart-pleasing ones; *vR^ikS
 "On crossing over even that Mt. Suuryavaan after searching, there is a mountain
 named Vaidyuta whose trees will be all-time heart-pleasing and they yield fruits satiating every
 taste. [4-41-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1510,8 +1462,6 @@ gacChata* = farther, you proceed.
 
 "Oh, vanara-s, you proceed farther after devouring choicest fruits and tubers
 growing on Mt. Vaidyuta, and even on consuming precious honey at that place. [4-41-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1554,8 +1504,6 @@ bhavanam nirmitam* = Agastya's, mansion, is built.
 
 "At that place a mountain named Kunjara is there which will be pleasing both to eye
 and heart, on which Vishvakarma built the mansion of Agastya. [4-41-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 </details>
@@ -1603,8 +1551,6 @@ decorated with; *kaancanam sharaNam* = a golden, abode - Agastya's mansion - is 
 
 "There the golden abode of Agastya will be beautiful decorated with numerous
 gemstones, and it measures a yojana breadthwise and ten yojana-s in height. [4-41-35b, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1661,8 +1607,6 @@ dwelling.
 and safeguarded from everywhere, and thus it becomes an unvanquishable city. Deadly serpents with
 harrowing fangs and fatal venom will be protecting it, in which the highly hazardous king of
 serpents, namely Vasuki, will be dwelling. [4-41-36b, 37. 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1714,8 +1658,6 @@ searched.]
 "That Bhogavati city is to be searched for Seetha and on coming out of that city,
 you have to search even in the fringes surrounding that city including the intermediate zones from
 city to its fringes. [4-41-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1763,8 +1705,6 @@ ratnamayaH* = every [kind of gem,] replete with gems; *shriimaan* = glorious one
 "On crossing over that province there will be a glorious mountain named Rishabha, as
 that great mountain looks like a Holy Bull, and it is replete with every kind of gemstone.
 [4-41-39b, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1833,8 +1773,6 @@ to the mountain itself in 40th verse in some, thus nominating only two varieties
 namely greenish, and bluish varieties as extra. In some other translations the Fire-like glow of
 the mountain is added as another variety of sandalwood and then four varieties are counted as 1]
 ochry, 2] greenish, 3] bluish, and 4] fire-like sandalwood trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1850,8 +1788,6 @@ Rohita, named, [genre of] gandharva-s; *rakSanti* = will be protecting.
 
 "But never touch those sandalwood trees when you see them, as a genre of Gandharva-s
 called Rohita will be protecting that dangerous woodland of sandalwood trees. [4-41-41b, 42a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1932,8 +1868,6 @@ beings with pious, activities; *nivaasaH* = it is a dwelling place.
 resplendence is similar to that of Sun will be residing there. It is also the dwelling place of
 those who achieved ethereality by their pious activities, of whom some resemble the Sun, some Moon,
 and some Fire by their physique. [4-41-42b, 43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -1982,8 +1916,6 @@ need not think of going there]; *na* = it is not.
 "From Mt. Rishabha to the terminus of the earth the invulnerable beings who won
 heavens will be staying. After that, farther from earth there is the most dreadful world of manes,
 namely the abode of Yama, the Terminator, and you need not consider going there. [4-41-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -2038,8 +1970,6 @@ the Terminator. After that there is no entry into the abode of Yama for the mort
 
 This is the Indian mythological naraka 'The Hell...' and there are various
 sections in this hell for various sins committed while alive or on rebirth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -2088,8 +2018,6 @@ quickly, to return; *arhatha* = apt of you.
 "It will be apt of you to return quickly on knowing the course of Vaidehi after
 thoroughly searching all these places in their entirety, and even in those other places you happen
 to see, whether I have mentioned them or not. [4-41-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -2142,8 +2070,6 @@ comfortable living on a par with me in high-living and luxuries. [4-41-47]
 
 Hanuma speaks the same wording 'Seetha seen,' in Sundara Kanda on finding
 Seetha, for which commentators have given a very great value.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -2190,8 +2116,6 @@ a dear one; *bahushaH kR^ita aparaadhaH* = many times, committed, misdeeds - eve
 
 "He who says so will be more dearer to me than anyone, rather than my own life in
 particular, and even if he has committed many misdeeds he becomes my confidant. [4-41-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 </details>
 
@@ -2257,8 +2181,6 @@ effort...' thus the monkeys or vanara-s suddenly do not become humans. For this 
 saadhanam* 'this man's, purpose, to achieve... start off to achieve this man's, namely Rama's
 purpose...' or 'to achieve the purpose of *parama puruSa* 'the Supreme Person...' in
 eradicating evil on earth...' you start on your mission.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

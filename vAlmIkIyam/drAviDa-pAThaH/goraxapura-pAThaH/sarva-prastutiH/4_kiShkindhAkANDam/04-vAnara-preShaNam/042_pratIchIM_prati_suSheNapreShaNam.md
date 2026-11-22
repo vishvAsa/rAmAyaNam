@@ -21,8 +21,6 @@ Sushena, the father of lady Tara. Describing the various and magnificent mountai
 situated at the northwest of India, and also the ocean down south to it, namely the present Arabian
 Sea and almost up to Persian provinces, he orders monkey troops to return within one month's
 time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -108,8 +106,6 @@ vaanaram* = Sushena, named, to vanara; *abravit* = spoke to.
 
 On sending monkeys to southern direction Sugreeva spoke to a vanara named Sushena
 who looked like a massive cloud. [4-42-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -126,8 +122,6 @@ also; *praanjaliH* = with palms-folded; *vaakyam abraviit* = sentence, spoke.
 On approaching and venerating that awesomely valorous Sushena, the father of Lady
 Tara, thereby his own father-in-law, king Sugreeva spoke this sentence while adjoining palms in
 supplication. [4-42-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -158,8 +152,6 @@ his resplendence, endowed with brilliance and bravery and whose speed equals tha
 Vinata, namely Garuda, the Eagle-vehicle of Vishnu. Along with him Sugreeva also ordered the
 greatly mighty brothers of Arcishman i.e., the other vanara sons of Sage Mareecha, known as
 Arcishmaalyaa-s, also called as Mareecha-s. [3, 4, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -177,8 +169,6 @@ down.
 "Oh, outstanding monkeys, you shall search for Vaidehi proceeding with two hundred
 thousand monkeys, say two lakhs, and Sushena as your leader." Thus, Sugreeva started to speak to
 vanara troops. [4-42-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -248,8 +238,6 @@ interiors, and even in the thickets of Ketaka trees. [4-42-6b, 7, 8a]
 The province of Candracitra, the present day Mathura and is also mentioned as
 *shuura desha* 'Shuura province...' in other mms, and the Suraashtra is identified with present day
 Sauraashtra, a peninsula in Gujarat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -336,8 +324,6 @@ lands that are virtually waterless and on the highly towering mountains that are
 searching such an impassable western quarter encircled with enmeshed mountains, then it will be apt
 of you to come and see Western Ocean. Having come to Western Ocean, you will see seawater ruffled
 by sharks and crocodiles. [8b, 9, 10, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -380,8 +366,6 @@ may ramble.
 
 "Later the monkeys may ramble in the shrubberies of Ketaka plants, in copses of
 Tamaala plants and in the boscages of coconut trees. [4-42-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -443,8 +427,6 @@ These are said as cities with names of *muralii, jaTiipuram*, in other mms, and 
 is also said to be Maurvi. The said Avanti is not the Avanti already said to the monkeys who were
 sent to east. is 'un-cared-for' as the thick woods at its periphery make the interiors of forest
 neglected.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 </details>
@@ -499,8 +481,6 @@ shR^ingaH* = with hundreds of, summits; *mahaa drumaH* = with gigantic, trees;
 "At the junction of River Sindhu with the ocean, Mouth of Indus, there is a huge
 mountain named Hemagiri, Golden-Mountain, which is with hundreds of summits and gigantic trees.
 [4-42-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -517,8 +497,6 @@ uplifts [winching.]
 
 "On the beautiful ridges of that mountain flying-lions are inhibiting and they will
 be winching sharks, fish and elephant seals to their lairs. [4-42-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -573,8 +551,6 @@ verily, move about.
 "The elephants inhibiting on the top of that mountain are contended and conceited,
 and trumpeting like thunderous clouds they will be moving everywhere in that vast area of the
 mountain abutted by water and near at the lairs of flying-lions. [4-42-17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -622,8 +598,6 @@ monkeys; *aashu vicetavyam* = quickly, to be searched.
 "The monkeys who can change their guise by their wish have to quickly and entirely
 search the golden peak of that Hemagiri which will be touching the sky and which has amazing trees
 on it. [4-42-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -672,8 +646,6 @@ blindingly glittering]; *koTim* = mountain peak; *drakSyatha* = you shall see.
 "On your seagoing there, oh, vanara-s, you will see the golden peak of a waterlogged
 mountain called Mt. Paariyaatra, which peak will be hundred yojana-s in height, and which is
 difficult to see as it will be blindingly glittering. [4-42-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -736,8 +708,6 @@ fire and who can change their guise at their wish are living there on that mount
 The Gandharva-s said here are not the celestial musicians but human Gandharva-s
 and the Paariyaatra Mountain may perhaps belong to one in Suleiman Range, now in Pakistan, but not
 the one among Vindhya Range.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -755,8 +725,6 @@ closely, to be approached [provoked.]
 "If those Gandharva-s who resemble the tongues of fire are given offence, they will
 be thronging together from everywhere, as such even awfully courageous vanara-s shall not provoke
 them. [4-42-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -834,8 +802,6 @@ This area must be in and around present day Afghanistan because it is famous for
 dry fruits and it is the age-old practice of Kabuli Walla-s to sell most delicious dry-fruits. When
 they grow that kind of high-grade fruits which orchardist allows a monkey to pluck and plunder
 them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -885,8 +851,6 @@ in the least; *na hi* = is not there, indeed.
 your following just monkey-hood and its antics, without becoming adventuresome, there will be no
 scare from those Gandharva-s. Then you proceed from that Mt. Paariyaatra to Mt. Vajra.
 [4-42-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -963,8 +927,6 @@ standing like a diamond in its shape, hence it is diamondiferous. There that glo
 be soaring high, squarely for a hundred yojana-s, and diverse trees and climbers will be spreading
 over it. There, on that mountain you have to search pursuantly including its caverns. [4-42-25,
 26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1017,8 +979,6 @@ This is not just a wheel with thousand spokes, but said to be a machine of
 weaponry with thousand parts or sub-weapons. The Divine Architect Vishvakarma constructs such
 marvellous things not only for to gods, but even to the demons, while coming under duress, as and when
 demons conquer Indra's paradise. In the following verses, a connected legend is also touched.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 </details>
@@ -1076,8 +1036,6 @@ demon Pancajana to death on that very mountain and took away his backbone, which
 Thus the conch-shell handled by Vishnu is known as paancha janya
 shankha 'Paanchajanya conch.' Thus, this Cakravaan named mountain assumes legendary
 importance to search for Seetha. [4-42-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1125,8 +1083,6 @@ Ravana; *vaidehyaa saha* = Vaidehi, together with; *maargitavyaH* = be searched;
 "Vaidehi is to be searched on the delightful cliffs of that Mt. Cakravaan and also
 in its spacious caves, together with Ravana, and search for her here, there, and everywhere.
 [4-42-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1176,8 +1132,6 @@ yojana-s; *suvarNa shR^ingaH* = golden, peaked; *varaahaH naama* = Varaha, named
 
 "After sixty-four yojana-s another very great mountain with golden peaks is there in
 abyss of the abode of Rain-god, namely the ocean, and it is named as Mt. Varaaha. [4-42-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1238,8 +1192,6 @@ roughly with the middle Brahmaputra valley...' The name is derived as *praak* 'f
 easterly...' *jyotiSh* 'planet, Sun, and his light' that is to say, 'the place which takes the first
 light...', that is the east of India...' i.e., Assam. The said demon Naraka is not just "the
 buffalo-demon" who was eliminated by Goddess Durga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1286,8 +1238,6 @@ there, there.
 
 "There on the delightful cliffs and spacious caves of that Mt. Varaaha, including
 that city Praagjyotisha, Ravana shall be searched together with Vaidehi. [4-42-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1339,8 +1289,6 @@ there, called Meghavanta.
 "On ranging from that best Mt. Varaaha, whose caves are inlaid with gold-deposits
 apparent to the naked eye, there is an entirely golden mountain containing waterfalls and rapids
 called Meghavanta. [4-42-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1390,8 +1338,6 @@ mountain]; *darpitaaH* = proud-heartedly; *satatam* = always; *abhi garjanti*
 construing them to be the roars of their opponent beasts, the elephants, wild boars, lions, and
 tigers will always be facing that mountain and roaring proud-heartedly all around it, by which that
 Mt. Meghavanta itself appears to be roaring, proud-heartedly. [4-42-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1434,8 +1380,6 @@ gods; *raajaa* = as king; *abhiSiktaH* = is anointed; *saH* = such a;
 "On which mountain the distinguished Mahendra, whose horses are green and who is the
 controller of demon Paka, is anointed by gods as their king, such a mountain is this named Mt.
 Megha, or Mt. Meghavanta, which you have to scour. [4-42-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1494,8 +1438,6 @@ you shall go to.
 you shall go to the range of sixty thousand golden mountains. Those mountains are radiant all
 around with the tinge of young Sun, and with the resplendence of fully flowered trees which are
 wholly golden in hue. [4-42-36, 37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1555,8 +1497,6 @@ upon a time; *shailaH* = that mountain; *prasannena aadityena* = by generous, Su
 "There is a unique and kingly mountain in the midst of that range of golden
 mountains, which is called Mt. Meru, or Saavrni Meru, to which mountain generous Sun has once given
 a boon. [4-42-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1582,8 +1522,6 @@ transmute into golden hue, either by day or by night. Even those that reside on 
 gandharva-s, or demons, they too shall thrive as my votaries and as far as their resplendence is
 concerned they will be glittering like gold, i.e., in the ochry golden hue of the eventide.
 [4-42-39, 40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1654,8 +1592,6 @@ The above list may not mention others but it is construed to be inclusive of
 *ekaadasha rudra-s,* who are twenty-one in number, while the *vishvedevaaH* are
 thirteen, *vasavaaH* are eight, *maruts* are seven, *aadityaa-s* 'the other
 Suns in other galaxies...' are twelve.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1702,8 +1638,6 @@ Astagiri, Mt. Dusk]; *shiighram abhi yaati* = quickly, towards, goes.
 
 "The Sun courses across those ten thousand yojana-s from Mt. Meru Saavarni to Mt.
 Astaadri in one and half hours, and quickly reaches Mt. Astagiri, or Mt. Dusk. [4-42-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1752,8 +1686,6 @@ there.
 "On the pinnacle of Mt. Astagiri, or the Mt. Dusk, there is a supreme and heavenly
 manor-house compacted with multi-storied buildings, which in shine will be similar to Sun and which
 is arranged by Vishvakarma, the Divine Architect. [4-42-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1801,8 +1733,6 @@ hand [wielder of]; *varuNasya niketam* = Rain-god Varuna's, villa - is there.
 "That villa is brightened by amazing trees, on which diverse birds will be
 twittering musically, belongs to the great-souled Varuna, the Rain-god, who wields a tether.
 [4-42-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1857,8 +1787,6 @@ This area must be the present day Arabian and the ancient Persian province,
 because the Date-palm tree is the highly respected tree at there or even throughout south East
 Asia. The three kinds of Dates trees are called as dry-grass-palm trees, as said in Amara Kosha.*kharjuura, ketakii, talii, kharjuurii ca tR^iNa drumaa: amara kosha* 'Date, Pandamus odara tissimus,
 Corypha Talliera and Wild Date are dry-grass-palms, and these grow in abundance around oases.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1905,8 +1833,6 @@ there; *vaidehyaa* = Vaidehi; *saha raavaNaH* = together with, Ravana;
 
 "On all those mountains, lakesides and riversides Vaidehi shall be searched together
 with Ravana, far and wide. [4-42-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -1954,8 +1880,6 @@ Saavarni.
 
 "This is where the virtue-knower, an enlightened one by his own asceticism, a
 selfsame personality to Brahma and one renowned as Sage Merusaavarni indeed resides. [4-42-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2004,8 +1928,6 @@ asked.
 "And that sage Merusaavarni who is Sun-similar in his shine can be asked, only on
 your prostration before him in veneration, about the tidings of Maithili, and her whereabouts.
 [4-42-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2056,8 +1978,6 @@ parvatam gacChati* = to Astagiri, mountain [Mt. Dusk,] goes to.
 "On effacing the utter darkness of all the mortal world up to here, the illuminator
 of mortal world and the decliner of night, namely the Sun, will go to the Mt. Astagiri, say Mt.
 Dusk. [4-42-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2126,8 +2046,6 @@ Moreover, it is assumed that Sugreeva has said this way: 'because Ravana is a hi
 cultured demon, in his own way, he too despises those lowly cultures despite of his obstinacy. For
 sure, he will not be there with Seetha, and hence Seetha need not be searched in those
 countries.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2177,8 +2095,6 @@ Dusk, mountain, on reaching; *maase puurNe* = month, while completing [within a 
 
 "You shall return within a month on knowing about Vaidehi and also about the
 residency of Ravana, or on your reaching Mt. Astagiri, say Mt. Dusk. [4-42-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2227,8 +2143,6 @@ proceed.
 "And none shall stay behind for more than a month, and if anyone stays, I have to
 exercise coup de grace in his respect. By the way, my valorous father-in-law, namely Sushena, is
 proceeding along with you. [4-42-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2277,8 +2191,6 @@ proceeding along with you. [4-42-53]
 "As achievers of ordered tasks you shall give heed to all of the orders given by
 him. He who is highly dextrous and great mighty such a Sushena is my father-in-law, thus he is a
 venerable to me, as well as to you. [4-42-54]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2325,8 +2237,6 @@ pashyadhvam* = western, direction, you shall see - search.
 
 "Even all of you are triumphant ones and indeed archetypes by yourselves, but
 instituting him as your archetype you shall search the western direction. [4-42-55]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2378,8 +2288,6 @@ become.]
 "We all fulfil ourselves in reciprocating him who has done good to us, only if we
 can locate Seetha, the wife of the king of humans whose vitality is unlimited, namely Rama.
 [4-42-56]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2429,8 +2337,6 @@ done.
 task, and which shall also be conducive to time, place and purpose, you shall undertake that task
 also on deciding about it among yourselves." Sugreeva spoke thus to the monkeys going to western
 direction. [4-42-57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 </details>
 
@@ -2492,8 +2398,6 @@ On hearing the sentences of Sugreeva sedulously, then Sushena and the other
 important fly-jumpers took leave of the king of fly-jumpers, namely Sugreeva, and proceeded along
 with their individual troops to that western direction which is well cloistered by Varuna, the
 Rain-god. [4-42-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

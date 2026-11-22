@@ -18,8 +18,6 @@ Yudhajit. They request Bharata to start for Ayodhya urgently. Bharata seeks perm
 Kekeya his maternal uncle. King Kekeya gives permission to Bharata to leave for Ayodhya and bestows
 him various gifts. Bharata and Satrughna along with men. elephants and horses start his journey for
 Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -97,8 +95,6 @@ While Bharata was narrating his dream, the messengers whose horses were tired,
 entered the beautiful city called Rajagriha, which has too big a palace-gate and met the king
 Kekeya and the prince Yudhajit, who received them hospitably. They saluted the feet of the king
 Kekeya and spoke the following words to Bharata:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ the ministers also; (were asking about your welfare); *niryaahi* = come forth in
 
 "Vasistha, the family-priest and all the ministers were asking about your welfare.
 Come forth indeed quickly. There is an urgent work with you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -197,8 +191,6 @@ _________________
 
 "O, Bharata the wide-eyed man! Take these very valuable clothes and jewels and give
 them to your maternal uncle"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -245,8 +237,6 @@ Kekeya; *tathaivacha* = and like wise; *sampuurNaaH* = a full; *dashakoTyastu*
 
 "O, prince! In these jewels and clothes, a worth of hundred crores is to be given to
 the king Kekeya and likewise a worth of ten crores in full to your maternal uncle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -297,8 +287,6 @@ follows):
 
 Bharata, who had a great affection towards his kind hearted relatives, took all
 that, honored these messengers profusely with gifts of their liking and spoke(as follows) :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -348,8 +336,6 @@ high soled; *lakshhmaNecha* = Lakshmana."
 
 "I hope that king Dasaratha, my father is quite safe. I also hope that Rama and the
 high-soled Lakshmana are well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -397,8 +383,6 @@ healthy?"
 
 "Is Kausalya, the venerable lady, who is intent on virtue, who knows righteousness,
 who visualizes goodness and who is the mother of the wise Rama, also well? "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -446,8 +430,6 @@ healthy."
 
 "I hope that Sumitra, who knows righteousness, who is the mother of Lakshmana as
 well as the heroic Satrughna and our middle mother, is well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -494,8 +476,6 @@ mother; *api arogaa* = also healthy? kim = What; *uvaachaha* = did she say?"
 
 "As Kaikeyi, who loves herself, a forever fiery lady of wrathful nature, who prides
 herself to be highly intelligent and my mother, also well? What did she say?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -545,8 +525,6 @@ messengers; *tadaa* = then; *uuchuH* = spoke; *idam vachaH* = these words;
 
 On hearing the words of the high soled Bharata, those messengers then respectfully
 spoke to Bharata as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -594,8 +572,6 @@ your; *rathaH* = chariot; *yujyataamchaapi* = be made ready."
 
 "O, tiger among men! Those, of whom you do enquire, are all well. The goddess of
 prosperity, holding a lotus in her hand, awaits you. Let your chariot be made ready."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -646,8 +622,6 @@ to those messengers(as follows); *"aham* = I; *apR^ichchhe* = will get permissio
 
 Hearing the words Bharata spoke to the messengers as follows: "I will get permission
 from the monarch(to leave for Ayodhya) saying that the messengers are hastening me up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -695,8 +669,6 @@ maternal uncle:
 
 Bharata the prince having been asked to move quickly (to Ayodhya) by the messengers,
 spoke as aforesaid to those messengers and uttered the following words to his maternal uncle:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -743,8 +715,6 @@ messengers to move quickly; *gamishhyaami* = I am going; *pituH* = to my father'
 
 "O, king! Requested by the messengers to come to Ayodhya urgently, I am going to my
 father's presence. I shall again come, whenever you recall me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -792,8 +762,6 @@ auspicious ; *vaakyaam* = words:
 
 Hearing the words of Bharata, the king Kekeya, his maternal uncle smelled (as a
 token of affection) the head of Bharata and spoke the following auspicious words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -841,8 +809,6 @@ and father."
 
 "Go, my dear child! I am permitting you. Kaikeyi is fortunate to have a good son
 like you. Bear my greetings to your mother and father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -890,8 +856,6 @@ Lakshmana."
 
 " My dear child! Pay obeisance to your family priest, the other illustrious Brahmins
 and your brothers Rama and Lakshmana the wielders of bows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -939,8 +903,6 @@ riches(gold;silver vessels etc)
 
 The king Kekaya, treating him hospitably gave that Bharata the best of elephants,
 woolen clothes of varied colors, antelope skins and riches (gold and silver vessels etc).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -987,8 +949,6 @@ nishhkasahasre* = thousand coins of gold; *shhoDasha* = sixteen;
 
 The king Kekeya generously gave as gifts to Bharata, two thousands coins of gold and
 sixteen hundred horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1038,8 +998,6 @@ _________________
 
 Likewise, Aswapati sent some attendants, who were dear, reliable, endowed with
 virtues and inmates of his palace with Bharata (to accompany him on the return journey)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1088,8 +1046,6 @@ quickly; *susamyuktaan* = and were well trained.
 Yuddhajit, his maternal uncle gave him as gifts, elephants of Airavata race born in
 Indrasira mountain-range and which were charming to behold as well as mules which could walk
 quickly and were well trained
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1137,8 +1093,6 @@ yudhaan* = and which used tusks as weapons.
 
 He gave as a gift, large bodied dogs, which were well nourished in the gynoecium,
 possessing strength and vitality of a tiger and which were using their tusks as weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1185,8 +1139,6 @@ that; *bharataH* = Kaikeyi's son; *gamanatvarayaa* = who was in a hurry to go;
 
 The wealth of gifts bestowed by the king Kekeya did not rejoice Bharata, Kaikeyi's
 son, who was then in a hurry to go.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1233,8 +1185,6 @@ messengers; *darshanaachchaapi* = and visualization; *svapnasya* = of the dream;
 
 Due to goading of messengers and visualization of the dream, a very big worry was
 formed at that time in his heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1282,8 +1232,6 @@ high way.
 
 The glorious Bharata crossed his very big palace, augmented with men elephants and
 horses and entered the excellent royal high way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1330,8 +1278,6 @@ crossed the royal highway; *apashyat* = as saw; *antaHpuram* = the gynaecia;
 
 The sagacious Bharata crossed the royal high way and perceived the gynoecia. Then,
 the glorious Bharata entered those gynoecia.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1378,8 +1324,6 @@ of; *maataamaham* = his maternal grand father; *maatulam* = and his maternal unc
 
 Bharata took leave of his maternal grandfather and also Yudhajit, his maternal uncle
 and set out on a chariot (for Ayodhya) along with Satrughna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1435,8 +1379,6 @@ horses and mules as also servants followed Bharata as he departed.
 
 Instead of "rathaan maNdalachakraamshcha", "rathaan ratnavichitraamshcha" in the
 old version is taken -as the clause "chariots with round wheels " appears to be meaningless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 </details>
 
@@ -1499,8 +1441,6 @@ Being protected by the army, the high soled Bharata, who was free from enemies,
 taking Shatrughna along with other companions good enough to him, started from the palace of his
 venerable maternal uncle, as a Siddha(a semi- divine being of great purity and perfection and said
 to possess supernatural faculties) would start from Indraloka( the world of celestials).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga70/ayodhyasans70.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -16,8 +16,6 @@ title_english = "013 Mahaparsva s advise to Ravana"
 Advised by Mahaparsva to take charge of Sita by force, Ravana expresses his
 inability to do so, because of a curse pronounced against him by Brahma (lord of creation) in the
 past. Ravana then boasts of his own prowess.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ Mahaparsva; *anusanchintya* = thought; *muhuurtam* = for a while; *praaNjaliH*
 
 Perceiving Ravana enraged, a very strong demon named Mahaparsva thought for a while
 and with joined palms, spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ honey; *na pibet* = does not drink; *saH* = he; *dhruvam* = surely;
 
 "That man indeed is a fool, who after reaching a forest inhabited by wild beasts and
 vicious elephants and having duly found honey, does not drink it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -157,8 +151,6 @@ your enemies; *ramasva* = you take pleasure; *vaidehyaa saha* = with Sita."
 
 "O,annihilator of enemies! Who is a lord to you, who are a lord of all? Setting your
 foot upon the heads of your enemies, take pleasure with Sita."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -208,8 +200,6 @@ using force against her; *bhuNkshhva* = enjoy; *taam siitaam* = that Sita;
 
 "O, ruler endowed with a mighty prowess! Act in the mode of a cock, forcibly against
 her. Enjoy that Sita, by charging on her again and again and revel with her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -251,8 +241,6 @@ her. Enjoy that Sita, by charging on her again and again and revel with her."
 
 "What fear will be there to you, after fulfilling your lust? All that comes or yet
 to come will be prevented (by us)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -298,8 +286,6 @@ celestials); *savajram* = wielding the weapon of a thunderbolt".
 
 "Kumbhakarna and Indrajit of great might together with us are capable of keeping off
 even Devendra (god of celestials), wielding the weapon of a thunderbolt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -345,8 +331,6 @@ through hostility."
 "Overstepping the methods of giving away gifts or conciliation or even showing
 dissention being followed by right men, I like accomplishment of actions through hostile
 means."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -391,8 +375,6 @@ is no doubt."
 
 "O, ruler endowed with great might! We shall make all your enemies reaching here to
 surrender, by the power of our weapons. There is no doubt about it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -439,8 +421,6 @@ surrender, by the power of our weapons. There is no doubt about it."
 
 Appreciating the words spoken thus by Mahaparsva, King Ravana spoke the following
 words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -482,8 +462,6 @@ occurred long ago."
 
 "O, Mahaparsva! Know a little secret about me. I shall tell you an incident, which
 occurred to me long ago."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -530,8 +508,6 @@ herself (for fear of me); *aakaashe* = in the sky; *gachchhantiim* = and proceed
 
 "Once I saw a celestial nymph, Punjikasthala(by name) flashing like a flame,
 concealing herself in the sky and proceeding towards the abode of Brahma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -572,8 +548,6 @@ abode of Brahma; *naliniiyathaa* = like a lotus; *lolitaa* = which was crumled."
 
 "She was made unclothed by me and was enjoyed forcibly. Thereafter, appearing like a
 crumpled lotus, she went to the abode of Brahma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -624,8 +598,6 @@ me."
 
 "I think that the matter was made known to the high soled Brahama and then the
 enraged Brahma spoke to me the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -673,8 +645,6 @@ samshayaH* = there is no doubt."
 
 "From today onwards, if you revel with any other woman forcibly, your head then
 undoubtedly will break asunder into a hundred pieces."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -721,8 +691,6 @@ am not making that Sita; the daughter of king Videha to mount; *shube* = (my) be
 
 "Fearing the curse given in this manner by Brahama, I am not violently making Sita
 the daughter of Videha, to mount on my beautiful bed forcibly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -770,8 +738,6 @@ me."
 
 "My swiftness is like that of an ocean. My movement is like that of a wind. Rama
 does not know this and hence he is indeed having an encounter with me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -818,8 +784,6 @@ death; *aasiinam* = sitting; *kR^Iddham* = enraged."
 
 "If not otherwise, who wants to arouse me (for a combat) as one would awaken a lion
 asleep, sitting at a place in a mountain cave or arouse into activity an enraged Death?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -867,8 +831,6 @@ that reason; *abhigachchhati* = he is coming against; *maam* = me; *samgraame*
 
 "Rama did not see the arrows, looking like two tongued serpents, coming forth from
 me. That is why he is marching against me for a battle"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -918,8 +880,6 @@ thunderbolts; *shatadhaa* = in hundreds; *kaarmukachyutaiH* = released from my b
 
 "I shall blaze up Rama swiftly with my arrows in hundreds resembling thunder bolts
 discharged from my bow, like tormenting an elephant with fire brands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -960,8 +920,6 @@ stars; *uditaH* = by a rising; *savitaa* = sun; *kaale* = in dawn."
 
 "Surrounded by great army, I shall take away that strength of Rama, as a rising sun
 at dawn takes away radiance of the stars."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 </details>
 
@@ -1009,8 +967,6 @@ chakshhushhaa* = with thousand eyes; *varuNenavaa* = or by Varuna(king of the un
 "Even Devendra (lord of celestials) with thousand eyes or Varuna (king of the
 Universe) can not conquer me in battle. Once upon a time, this city of Lanka ruled by Kubera (Lord
 of riches) was conquered by me with the power of my arms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga13/yuddhasans13.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

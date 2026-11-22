@@ -17,8 +17,6 @@ Rama encounters his first problem-female demoness Tataka, also called as Taadaka
 and eliminates her at the orders of sage Vishvamitra. This is a crucial test put
 to Rama by Vishvamitra in ascertaining whether Rama is the follower of dharma through
 elder men's orders or not. Rama eradicates Tataka basing on his own self-confidence.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ replied.
 On hearing the words of that unfaltering sage about demoness Tataka, Raghava, best
 man's son who is firm in his vows, reverently adjoining his palms replied the sage.
 [1-26-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ that word too cannot be disregarded. [1-26-3]
 Dasharatha bade Rama to do whatever assigned by Vishvamitra. Here Vishvamitra is
 assigning something ambiguous. Hence the dilemma between two instructions of two
 elderly people, and thus scriptures and practise confuse the young.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -144,8 +138,6 @@ as the word of sage Kushi's son, my mentor, this task is definitely to be implem
 The third consideration is 'teacher's words' *itarairapi gurushaasane sati avishankayaadharmyam
 api tad uktam avashyam kartavyam iti suucitam - dharmaakuutam* hence,
 Rama cannot be heedless of the words of both his father and teacher.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -200,8 +192,6 @@ guruH - tasya vacanam avicaareNa kartavyam - evam sati dasharathena api - kaushi
 yad vadati tat kartavyam - iti anushiSTo raamaH ekasya gurorvacanam anullanghaniiyam
 - gurudvayaanushiSTam vacaH katham parihartum shakyata iti - striivadhaniSedhe
 satyapi taaDakaavadham angiikR^itavaan - dharmaakuutam*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -249,8 +239,6 @@ word [bidding]; *udyataH* = I am ready.
 "I am ready to effectuate the bidding of an inestimable sage like you, for the welfare
 of cows and Brahmans, and for the advantage of this province." So said Rama to sage
 Vishvamitra. [1-26-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -298,8 +286,6 @@ Vishvamitra. [1-26-5]
 Saying thus, Rama, the enemy-destroyer, clenched his left fist on the handgrip in
 the middle of the bow, and with the right he made a thunderous sound of the bowstring
 making all the directions to blast. [1-26-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -353,8 +339,6 @@ vitrastaaH* = startled by that sound; *taaTakaa cha* = Tataka is, even;
 
 By that sound the inhabitants of Tataka forest are startled, and even Tataka is
 stupefied by that sound, and she is intolerably infuriated at it. [1-26-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ vinissrutaH* = from where, sound, emerged; in that way; *kruddhaa abhyadravat*
 
 She who is convulsed in anger to hear that sound gave attention to the direction
 wherefrom it emerged and she rancorously rushed thereto. [1-26-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -448,8 +430,6 @@ one; *taam dR^iSTvaa* = her, on seeing; *lakshmaNam abhyabhaaShata*
 
 Raghava on seeing that monstrous-looking demoness with a distorted face and who
 by proportions is very gigantic, furthermore infuriated, spoke to Lakshmana. [1-26-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -495,8 +475,6 @@ hearts, bursts.
 
 "Lakshmana, see that yakshii's grisly and ghastly physique, seeing which hearts
 of cowards are prone to burst. [1-26-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -538,8 +516,6 @@ having magical powers; *etaam* = her; *hR^itakarNaagranaasikaam*
 
 " She is unstoppable and has magical powers, is't, you may see now how I will make
 her to readily retreat by lopping off her ears and the tip of nose. [1-26-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -595,8 +571,6 @@ also, even; *hanyataam iti me matiH* = be terminated, thus is, my, intention.
 
 "As it is her femininess is protecting her, and I too I do not really attempt
 to kill her, but I intend to terminate her impudence and mobility. [1-26-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -651,8 +625,6 @@ upraising - swinging arms; *garjantii* = roaringly; *raamam eva abhyadhaavata*
 
 While Rama is still speaking that way, convulsed in anger Tataka roaringly rushed
 towards Rama alone, swinging her arms. [1-26-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -693,8 +665,6 @@ also; *abhyabhaaSata* = said.
 
 But the Brahma-sage Vishvamitra daunted sounded her off and said to Rama and Lakshmana,
 "let you be safe, and be victorious." [1-26-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -735,8 +705,6 @@ dust; *raaghavau ubhau* = two of them on Raghava-s; *muhuurtam*
 
 Flinging up dreadful dust on those two Raghavaa-s, Tataka baffled them for a while
 with a massive cloud of dust. [1-26-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -777,8 +745,6 @@ chukrodha* = then, Rama, became indignant.
 
 Then taking hold of witchery she inundated both the Raghava-s with highly torrential
 stone rain, by which Rama became indignant. [1-26-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -819,8 +785,6 @@ stones storming; *sharavarSheNa prativaarya* = forestalled by arrow storms;
 
 On forestalling her effusive stone storming with his arrow storm, Rama even mutilated
 both of her arms with arrows while she rushed towards them. [1-26-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -868,8 +832,6 @@ ears and tip of nose; *akarot* = made [cut off.]
 With her arms severed and fatigued she started to roar extremely at the nearby,
 and then provoked Lakshmana made her to loose her ears and the tip of nose by cutting
 them off. [1-26-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -923,8 +885,6 @@ moved about.
 That guise changer vanished after variously altering her aspects, and then on baffling
 them with her illusoriness and discharging stone storms she moved about appallingly.
 [1-26-19, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -971,8 +931,6 @@ one, Gadhi's son [Vishvamitra]; *idam vachanam abraviit* = spoke this sentence.
 And on seeing both Rama and Lakshmana who are being overspread by storms of stones
 from all-over, then the illustrious sage Vishvamitra spoke this sentence. [1-26-20b,
 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -995,8 +953,6 @@ from all-over, then the illustrious sage Vishvamitra spoke this sentence. [1-26-
 "Enough is your compassion Rama, she is a sinister, behaviourally malevolent, a
 hinderer of rituals, and this yakshii gets a grip on herself in a short time by
 her illusory powers. [1-26-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1013,8 +969,6 @@ hi* = demons become unassailable, indeed.
 "Sun is going to set in a short time, and only before that time she shall be destroyed,
 for demons at dusk and afterwards become unassailable, indeed." So said sage Viswamitra
 to Rama. [1-26-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1065,8 +1019,6 @@ _________________
 When Vishvamitra addressed him thus, Rama displaying his capacity in sonic archery
 forestalled that yakshii who has gone into invisibility and storming stone-storms,
 with his arrows. [1-26-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1111,8 +1063,6 @@ Rama, Lakshmana also; *abhidudraava* = towards dashed.
 
 And when the arrays of arrows obstructed her who possesses illusional powers, she
 dashed towards Rama and Lakshmana blaring stridently. [1-26-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1130,8 +1080,6 @@ in chest; *saa papaata* = she, readily fell; *mamaara cha*
 And Rama struck an arrow in her chest who is invading and speedily swooping down
 like a thunderbolt, and thus she is readily felled down and totally dropped dead,
 too. [1-26-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1182,8 +1130,6 @@ esteemed at Rama.
 On seeing her who is horrendous in her shape is eliminated, Indra and other gods
 have highly esteemed Rama saying, admirable, admirable is this act. [1-26-26b,
 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1225,8 +1171,6 @@ also [spoke]; *abruvan vishwaamitram* = spoke, to Vishvamitra [this way.]
 The thousand eyed and the destroyer of enemy?s citadels Indra then spoke with high
 satisfaction, and even all of the gods are gladdened and said to Vishvamitra this
 way. [1-26-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1267,8 +1211,6 @@ to you; *sendraaH* = with Indra; *sarve marudgaNaaH*
 
 "Oh, sage Vishvamitra, you are blessed, all the groups of wind-gods along with Indra
 are pleased, so you please show more concern for Raghava. [1-26-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1314,8 +1256,6 @@ ascetic strength, oh, Brahman, they may be offered to Raghava. [1-26-29b, 30a]
 
 These are the sons like missiles of Krishaashva Prajaapati. About them, the divine
 weaponry and their birth, c.f. 21st sarga/chapter, verse 10 to 20.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1358,8 +1298,6 @@ te paatrabhuutaH* = befitting one to you - worthy receiver; *raajasuununaa*
 "Rama is steadfast in following your assignments and thus he is the worthy receiver
 of those missiles, and this prince has to accomplish a very great deed of gods.
 So said gods to Vishvamitra. [1-26-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1400,8 +1338,6 @@ tataH sandhyaa pravartate* = then, sunset, come to pass.
 
 All the gods on saying thus and on extolling Vishvamitra they contentedly returned
 to heavens, and then the sunset has come to pass. [1-26-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1442,8 +1378,6 @@ tataH then; *idam vachanam abraviit* = this, sentence, said.*
 
 That best sage is satisfied with Rama and gladdened for the eradication of Tataka
 kissed the forehead of and then said this sentence. [1-26-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1489,8 +1423,6 @@ kissed the forehead of and then said this sentence. [1-26-32b, 33a]
 
 "Here we stay for tonight, Rama, the august one for a gaze, and tomorrow morning
 we will go to that hermitage of mine. So said Vishvamitra to Rama. [1-26-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1531,8 +1463,6 @@ that night, stayed.
 
 On listening sage Vishvamitra's words, Dasharatha's son Rama, comfortably stayed
 that night there in that forest of Tataka. [1-26-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1574,8 +1504,6 @@ yathaa chaitraratham vanam* = as with, [heavenly] Chaitra Ratha, garden;
 On that very day alone that forest of Tataka too is released from the curse, and
 it shone forth like the luxurious heavenly garden of Kubera, namely Chiatra Ratha.
 [1-26-35b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 </details>
 
@@ -1623,8 +1551,6 @@ only; *prabhaatavelaam* = at dawning time; *pratibodhyamaanaH*
 Rama while being eulogised by the groups of celestials and liberated Souls for complete
 elimination of yaksha's daughter, namely Tataka, stayed there along with the sage
 only to be awakened by the next day's sunrise. [1-26-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

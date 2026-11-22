@@ -17,8 +17,6 @@ title_english = "011 Hanuma continues search for Seetha"
 
 Realizing that the woman he saw at Ravana's house was not Seetha, Hanuma begins to search again
 for Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ for Seetha.
 
 The great Hanuma then removing that thought became with the right mind and had another thought
 about Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -142,8 +138,6 @@ this is another woman; *iti* = thus; *nishchitya* = deciding; *saH* = that Hanum
 That Seetha is not suitable to sleep separated from Rama, will not eat, will not decorate also,
 not suited to drink a beverage, to reach another man even though if he were Indra because there is indeed no one
 equaling Rama even among gods. This is another woman - thus deciding that Hanuma paced in that banqueting hall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -194,8 +188,6 @@ dance; *tathaa* = and; *paanaviprahataaH* = were unconscious from consumption of
 
 Some women were tired from erotic dalliance and then some other women were tired from singing;
 some others were weary from dance and were unconscious from consumption of liquor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ _________________
 **अनुवादः**
 
 Some women were stationed on tabors, on Mrudangas, on seats, some other women rested on chief carpets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -326,8 +316,6 @@ indulged in sleep after sexual dalliance.
 The warrior among Vanaras saw a thousand of women decorated by jewellery with a nature of talking
 about beauty, conversing about the correct meaning of songs being sung, behaving according to time and place,
 wont to speak appropriate words, indulged in sleep after sexual dalliance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -342,8 +330,6 @@ bull; *gavaam madhye* = in the middle of cows; *mahatighoshhThe* = in a big cow-
 
 In the middle of that group of women, Ravana with great arms shone like a bull in the middle of
 cows in a big cow-pen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -393,8 +379,6 @@ _________________
 
 That Ravana himself surrounded by those women, shone like a great elephant surrounded by she elephants
 in a great forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -443,8 +427,6 @@ a bar also; *upetaam* = consisting; *sarvakaamaiH* = of all desirables.
 **अनुवादः**
 
 The best among Vanaras saw in that wealthy Ravana's house a bar also, consisting of all desirables.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -486,8 +468,6 @@ buffalo; *varaahaaNaam cha* = of wild boar; *nyastaani* = kept; *bhaagashaH* = s
 **अनुवादः**
 
 Hanuma saw there in that bar, meat of dear and of buffalo, of wild boar kept separately.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -536,8 +516,6 @@ bhaajaneshhu* = in wide vessels; *raukmeshhu* = of golden colour.
 **अनुवादः**
 
 The best among Vanaras saw half eaten peacocks and chicken in wide vessels of golden colour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -591,8 +569,6 @@ _________________
 
 Hanuma observed meat of pigs and goats, porcupines, deer and peacocks preserved in curds and sochal
 salt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -649,8 +625,6 @@ beverages; *vividhaani bhojyaani* = (and) various foods.
 Hanuma saw birds called Krakara cooked ready to be eaten in variety of ways, birds called Chakoras
 half eaten, wild buffalos, fishes called ekashleya, goats, food to be licked of various kinds, beverages and various
 foods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -707,8 +681,6 @@ and armlets; *mahaadhanaiH* = of great value; *apaviddhaiH* = thrown around; *vi
 In the same way that floor was obtaining glory greatly with Ragas and Shadabas seasoned with sour
 and salty sauces, with necklaces, anklets and armlets of great value thrown around, with various fruits left in
 drinking vessels, with flowers sprinkled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -728,8 +700,6 @@ drinking vessels, with flowers sprinkled.
 
 That bar was seen as though radiant without fire, with couches and chairs well arranged and placed
 there and there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 </details>
@@ -774,8 +744,6 @@ arranged; *pR^ithak* = separately; *paanabhuumigataiH* = obtained that bar.
 
 Many meats of different kinds cultured with various best seasonings, well arranged separately obtained
 that bar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -877,8 +845,6 @@ made of fruits; *kR^ita suraaH api* = also artificially made liquors; *taiH taiH
 Excellent and clear various liquors, a liquor called Sura, liquor made of sugar, liquor made of
 honey, liquor made of flowers and liquors made of fruits also, artificially made liquors - those and those were
 cultured separately with various fragrant powders.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -900,8 +866,6 @@ cultured separately with various fragrant powders.
 
 The floor shone filled by flower garlands in a variety of forms, with various vessels of golden
 hue and also made of crystal, filled with other small vessels of golden colour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -915,8 +879,6 @@ hue and also made of crystal, filled with other small vessels of golden colour.
 **अनुवादः**
 
 Hanuma saw indeed then lot of best quality liquor in pots of silver and of golden colour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 </details>
@@ -994,8 +956,6 @@ _________________
 
 That great Hanuma saw vessels full of liquor of golden colour, embedded with gem stones and also
 of silver hue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1011,8 +971,6 @@ some places; *sarvashaH piitaani* = completely drunk; *kvachit* = (and) some pla
 
 That Hanuma saw indeed at some places drinks half filled and at some places completely drunk and
 some places not at all drunk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1088,8 +1046,6 @@ flower garlands; *phalaani cha* = and fruits.
 
 Hanuma saw some places with vessels broken, some places with pots in shambles, some places with
 water together with flower garlands and fruits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1134,8 +1090,6 @@ of women; *bahudhaa shubhraaNi* = were varied and clean; *kaashchit* = some; *va
 **अनुवादः**
 
 Here couches again of women were varied and clean, some best women slept there hugging one another.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1186,8 +1140,6 @@ _________________
 
 Hanuma paced about seeing at some places various eatables and at some places drinks separately,
 and at some places remnants of cooked rice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1202,8 +1154,6 @@ clothing; *suptaaH* = and slept; *paridhaaya* = covering (themselves).
 
 Some women conquered by the power of sleep pulled other sleeping women's clothing and slept covering
 themselves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1253,8 +1203,6 @@ the throats of those (women); *spandate* = was moving; *na atyartham* = slightly
 
 Clothing and garland on the throats of those women was moving slightly and wonderfully as though
 obtaining air from the air of breath.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1306,8 +1254,6 @@ fumes.
 
 There wind blew carrying in a lot of directions, a variety of fragrances of cool sandal-paste and
 of sweet liquor, of various flower garlands and of various kinds of agallocum fumes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1363,8 +1309,6 @@ _________________
 
 There in that Ravana's house, some women had fair and white complexion some best women were black,
 some women had a body of golden complexion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1410,8 +1354,6 @@ _________________
 
 Appearance of those sleeping women, tired from being possessed by sleep and from lust, was like
 lotuses sleeping.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1455,8 +1397,6 @@ _________________
 **अनुवादः**
 
 Hanuma with great radiance thus saw entire Ravana's house completely but did not see Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1501,8 +1441,6 @@ anguish; *dharmasaadvaHsasheN^kitaH* = being in doubt because of fear in the mat
 
 Then that Hanuma seeing those women obtained great anguish being in doubt because of fear in the
 matter of dharma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1553,8 +1491,6 @@ plane.
 
 Then the blossoming fragrance from the baths and sandal paste and from agallocum fumes blew spreading
 all around in that Pushpaka plane.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1568,8 +1504,6 @@ atyartham dharmalopam* = a great deficit to dharma.
 **अनुवादः**
 
 "My seeing sleeping house of other people's wives will do a great deficit to dharma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1649,8 +1583,6 @@ vishhayavartinii* = in the matter of others wives; *atra* = here; *ayam* = these
 
 "My sight is indeed not in the matter of other wives here. These other's wives have been seen by
 me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1666,8 +1598,6 @@ hand.
 
 To that Hanuma with an excellent mind, with a fixed and concentrated mind, was born another thought
 again, showing a fixed resolve in the task at hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1718,8 +1648,6 @@ _________________
 
 "All Ravana's women who were in faith could have been seen by me; to my mind there indeed was not
 even a little disturbance".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1769,8 +1697,6 @@ is the reason; *me* = my; *tachcha* = that mind; *suvyavasthitam* = is very stea
 
 "Among auspicious or inauspicious states in the behavior of all senses mind is the reason. My that
 mind is very steady."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1820,8 +1746,6 @@ _________________
 
 "By me it is not possible to search Seetha at another place. Always during search women will be
 seen among other women."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1872,8 +1796,6 @@ _________________
 
 "To an animal of whatever race that animal is searched in that race; a woman missing is not possible
 to be searched among female deer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1918,8 +1840,6 @@ _________________
 
 "For that reason all this Ravana's house has been search by me with a pure mind Seetha alone cannot
 be seen."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -1968,8 +1888,6 @@ girls from nagas; *naivaavaikshata* = did not see; *jaanakiim* = Janaki.
 **अनुवादः**
 
 The strong Hanuma observing girls from devas, gandharvas and girls from nagas did not see Janaki.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -2020,8 +1938,6 @@ _________________
 
 The powerful Hanuma not seeing Her there and seeing other best women then started to think deeply
 going far from there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 
@@ -2071,8 +1987,6 @@ _________________
 
 That Hanuma the glorious one adopting a great task again left that bar and began to search that
 house.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
 </details>
 

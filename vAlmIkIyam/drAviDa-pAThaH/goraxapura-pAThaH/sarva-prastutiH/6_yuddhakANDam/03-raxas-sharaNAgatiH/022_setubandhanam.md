@@ -17,8 +17,6 @@ When Rama is about to release a missile presided over by Brahma from his bow, th
 sea-god appears in person before him with joined palms and advises him to get a bridge constructed
 by Nala across the ocean. The ocean god disappears after giving this advice to Rama. Nala
 accordingly constructs a bridge across the sea with the help of other monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ ocean; *mahaarNava* = "O; *Ocean! shoshhayishhyaami* = I will make you dry up;
 
 Then, Rama spoke these harsh words to the ocean: "O, ocean! I will make you dry up
 now along with your nethermost subterranean region."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -135,8 +131,6 @@ _________________
 
 "By a gush of arrows released by my bow, our monkeys can proceed to the other shore
 even by foot; O, ocean!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -188,8 +182,6 @@ indeed get ; *santaapam* = repentance; *mattaH* = at my hands.
 
 "O, Sea the abode of demons! You are not able to recognize my valor or prowess
 through your intelligence .You will indeed get repentance at my hands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -232,8 +224,6 @@ presided over by Brahma; *shreshhThe dhanushhi* = to his excellent bow;
 "Fixing an arrow resembling the Rod of Brahma (the creator) charged with a missile
 (presided over by Brahama) to his excellent bow, the exceedingly powerful Rama stretched it towards
 the sea."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -368,8 +358,6 @@ meteors; *(while) nirghaataaH* = thunders; *nirjagmuH* = reverberated;
 The moon sun and the stars moved obliquely and though the sun's rays lighted the
 sky, it was enveloped by darkness and shined with a blaze of hundreds of meteors while thunders
 reverberated with an unparalleled sound in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -422,8 +410,6 @@ drawing out; *jaladaan* = clouds; *muhuH* = again and again; *tadaa* = then;
 
 Series of celestial winds blew in their colossal form and the winds, then sweeping
 away the clouds, tore up the trees again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -478,8 +464,6 @@ thunders.
 The wind, shattering the mountain peaks, broke off the points of the rocks. Winds of
 great velocity struck together in the sky and emitted flashes of radiance proceeding from lightning
 with a great sound and then there were great thunders.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -526,8 +510,6 @@ anguished; *na cha paspandiri* = they did not move; *bhayaat* = due to fear.
 The visible creatures cried out along with the thunders. The invisible beings too
 gave off a terrific noise. The creatures were overpowered, frightened, agitated, lied down and also
 very much anguished. They did not move due to fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -574,8 +556,6 @@ became; *sahasaa* = soon; *bhiimavegaH* = possessed with terrific velocity;
 The great ocean with its waves and water, along with its living creatures including
 snakes and demons soon became possessed of a terrific velocity. Due to that speed and swelling of
 waters, the ocean crossed beyond the other shore to the extent of a Yojana (eight miles).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -616,8 +596,6 @@ its limits.
 
 Rama born in Raghu dynasty and the annihilator of enemies, did not retreat before
 that ocean, which swelled and crossed its limits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -664,8 +642,6 @@ meroH = from the huge mountain of Meru; *udayam* = at dawn.
 
 Then, Sagara (the ocean god) himself rose from the middle of the ocean as the sun
 rises at dawn from the huge mountain of Meru.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -715,8 +691,6 @@ adorned with gold.
 
 That ocean along with snakes of flaming jaws appeared with a hue of glossy emerald
 adorned with gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -782,8 +756,6 @@ and the creations inhabiting you get destroyed; *mayaa* = by me.
 
 "O, Ocean! A vast stretch of sand will appear, when your water gets consumed by my
 arrows; when you get dried up and the creatures inhabiting you get destroyed by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -886,8 +858,6 @@ path.
 
 "O, beloved Rama! Earth, wind ether, water and light remain fixed in their own
 nature, resorting to their eternal path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -936,8 +906,6 @@ telling; *te* = you; *etat* = this (the following device to cross me).
 "Therefore, I am fathomless and my nature is that it is impossible of being swum
 across. It becomes unnatural if I am shallow. I am telling you the following device to cross
 me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -984,8 +952,6 @@ waters inhabited by alligators.
 
 "O, prince! Neither from desire nor ambition nor fear nor from affection, I am able
 to solidify my waters inhabited by alligators."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1037,8 +1003,6 @@ aggressive.
 "O, Rama! I shall make it possible to see that you are able to cross over. I will
 arrange a place for the monkeys to cross me and bear with it. As far as the army crosses me, the
 crocodiles will not be aggressive to them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1086,8 +1050,6 @@ descended?
 
 Then, Rama spoke to that ocean as follows: "Listen to me. This great arrow should
 not go in vain. In which region should it be descended?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1129,8 +1091,6 @@ Rama.
 
 Hearing Rama's words and seeing that powerful arrow, the large splendid Ocean spoke
 the following words to Rama:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1174,8 +1134,6 @@ as; *bhavaan* = you; *khyaataH* = are well known; *loke* = in the world.
 
 "Towards my northern side, there is a holy place. It is well known as Drumatulya, in
 the same way as you are well known to this world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1216,8 +1174,6 @@ waters; *tatra* = there.
 
 "Numerous robbers of fearful aspect and deeds, having the sinful Abhiras as their
 chief, drink my waters there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1265,8 +1221,6 @@ there; *amoghaH* = with out vain.
 
 "I am not able to bear that touch of those wicked people, the evil doers, O, Rama!
 Let this excellent arrow with out vain be released over them there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1310,8 +1264,6 @@ released; *tam sharam* = that arrow; *param* = which was excellent; *diiptam*
 
 Hearing those words of the high-soled Ocean, Rama released that excellent and
 splendid arrow towards that place as directed by the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1364,8 +1316,6 @@ earth.
 **टिप्पनी**
 
 * Maru�Malwar in Rajastan (India)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1415,8 +1365,6 @@ sound; *toyam* = the waters; *rasaatalaat* = of the penultimate subterranean reg
 
 The earth there, pierced by the dart, then emitted a sound . The waters of the
 penultimate subterranean region gushed forth from the mouth of that cleft.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1457,8 +1405,6 @@ penultimate subterranean region gushed forth from the mouth of that cleft.
 
 Then the hollow became known as Vrana. Water constantly seen, gushing forth from it
 resembled seawater.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1502,8 +1448,6 @@ water; *ashoshhayat* = was dried up; *kukshhishhu* = in those cavities;
 
 A terrific splitting sound was born in that place. Water was dried up in those
 cavities, as a result of hurling of that arrow by Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1574,8 +1518,6 @@ marave* = to the desert of Maru.
 That desert of Maru became famous in the three worlds. Rama (the son of Dasaratha),
 a wise man and a valiant man resembling a celestial, made that cavity dried up and gave a boon to
 that desert of Maru.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1622,8 +1564,6 @@ Due to granting of a boon by Rama, that desert of Maru became the most congenial
 place for cattle rearing, a place with a little of disease, producing tasty fruits and roots, with
 a lot of clarified butter, a lot of milk and various kinds of sweet- smelling herbs. Thus it became
 an auspicious and suitable move, bestowing these merits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1670,8 +1610,6 @@ lord of rivers; *abraviit* = spoke; *idam* = these; *vachanam* = words;
 
 While that cavity was burning, Ocean the lord of rivers spoke these words to Rama
 who knew all scientific treatises.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1719,8 +1657,6 @@ Visvakarma.
 
 "O, excellent man! This one, named Nala, a glorious person, is the son of
 Vishvakarma; who was given a boon by his father and is equal to Visvakarma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1767,8 +1703,6 @@ greatly energetic one; *karotu* = build; *setum* = a bridge; *mayi* = in me;
 
 "Let this greatly energetic monkey build a bridge across me. I can hold that bridge.
 He is just the same as his father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1819,8 +1753,6 @@ up; *abraviit* = and spoke; *vaakyam* = words; *(these) raamam* = to Rama;
 
 Thus speaking, the god of Ocean disappeared from that place. Then Nala, the more
 distinguished among monkeys stood up and spoke the following words to Rama of great power:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1868,8 +1800,6 @@ my father.
 
 "The great Ocean disclosed a truth. I will construct a bridge across this large
 Ocean, taking recourse to the skill and ability of my father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1916,8 +1846,6 @@ formidable; *mahodadhiH* = mass of water; *daN^Da bhyaat* = in fear punishment;
 
 "This Sagara, the formidable mass of water, in fear of punishment, gave a passage to
 Rama, wishing to see a bridge constructed on it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -1965,8 +1893,6 @@ following boon; *dattaH* = was given; *mama maatuH* = to my mother;
 
 "On the mountain of Mandara, the following boon was given by Visvakarma to my
 mother: "O, god like lady! A son equal to me will be born to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2018,8 +1944,6 @@ Visvakarma's own loins; *sadR^ishaH* = I am equal; *visvakarmaNaa* = to Visvakar
 "I am a son born of Visvakarma's own loins. I am equal to Visvakarma. This god of
 Ocean has reminded me. The great ocean spoke the truth. Being unasked, I have not told you my
 details earlier."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2069,8 +1993,6 @@ _________________
 
 "I am capable of constructing a bridge across the ocean. Hence, let the foremost of
 monkeys build the bridge now itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2119,8 +2041,6 @@ in joy; *sarvataH* = on all sides; *mahaaraNyam* = towards the great forest.
 
 Then, being sent by Rama, hundreds and thousands of monkey heroes jumped in joy on
 all sides towards the great forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2167,8 +2087,6 @@ of monkeys; *nagasamkaashaaH* = who resembled the mountains; *babhaN^juH* = brok
 
 Those army-chiefs of monkeys, who resembled mountains, broke the rocks and trees
 there and dragged them away towards the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2245,8 +2163,6 @@ Asoka.
 Those monkeys filled the ocean with all types of trees like Sala and Asvakarna,
 Dhava and bamboo, Kutaja, Arjuna, palmyra,Tilaka, Tinisa, Bilva, Saptaparna, Karnika, in blossom as
 also mango and Asoka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2296,8 +2212,6 @@ trees; *samuulaancha* = some with roots intact; *vimuulaancha* = (and some);
 
 The excellent monkeys, the forest animals lifted and brought, like Indra's flag
 posts, some trees with roots intact and some others without roots.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2313,8 +2227,6 @@ Bakula; *nimbaan* = and neem trees.
 
 From here and there the monkeys brought Palmyra trees, pomegranate shrubs, coconut
 and Vibhitaka, Karira, Bakula and neem trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2355,8 +2267,6 @@ and Vibhitaka, Karira, Bakula and neem trees.
 
 The huge bodied monkeys with mighty strength uprooted elephant-sized rocks and
 mountains and transported them by mechanical contrivances.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2406,8 +2316,6 @@ sky; *tataH* = from there; *punaH* = again; *avaasarpat* = gushed back.
 
 The water, raised up due to sudden throwing of mountains in the sea, soured upward
 towards the sky and from there again, gushed back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2448,8 +2356,6 @@ hundred Yojanas; *aayatam* = long; (in order to keep the rocks in a straight lin
 
 The rocks befalling on all sides perturbed the ocean. Some others drew up strings a
 hundred Yojanas long (in order to keep the rocks in a straight line.)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2499,8 +2405,6 @@ a monumental bridge; *madhye* = in middle; *nadanadiipate* = of the ocean;
 
 Nala on his part initiated a monumental bridge in the middle of the ocean. The
 bridge was built at that time with the cooperation of other monkeys, of terrible doings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2570,8 +2474,6 @@ logs; *vaanarah satashaH* = by hundred s of monkeys; *tatra* = there;
 Some monkeys were holding poles for measuring the bridge and some others collected
 the material. Reeds and logs resembling clouds and mountains, brought by hundreds of monkeys, lead
 by the command of Rama, fastened some parts of the bridge.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2633,8 +2535,6 @@ mountains;; *shikharaaNicha* = and peaks; *giriiNaam* = of mountains;
 Monkeys constructed the bridge with trees having blossom at the end of their boughs.
 Some monkeys looking like demons seized rocks resembling mountains and peaks of mountains and
 appeared running hither and thither.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2650,8 +2550,6 @@ sound; *babhuuva* = occurred; *tatra* = there; *shilaanam* = of the rocks;
 
 Then, a tumultuous sound occurred when the rocks were thrown into the sea and when
 mountains were caused to fall there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2696,8 +2594,6 @@ delight; *gaja samkaashaiH* = resembling elephants; *tvaramaaNaiH* = speedily.
 
 On the first day, fourteen Yojanas of bridge were constructed by the monkeys
 speedily, thrilled with delight as they were, resembling elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2776,8 +2672,6 @@ strength.
 
 In the same manner, on the second day twenty Yojanas of bridge were constructed
 speedily by the monkeys of terrific bodies and of mighty strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2793,8 +2687,6 @@ constructed) ; *saagare* = in the ocean; *tvaramaaNaih* = speedily;
 
 Thus, on the third day twenty-one Yojanas of the bridge were constructed in the
 ocean speedily by the monkeys with their colossal bodies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2830,8 +2722,6 @@ yojanas; *kR^itaani* = were constructed; *tvaritaiH* = by the hastening monkeys;
 
 On the forth day, a further of twenty-two Yojanas were constructed by the dashing
 monkeys with a great speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2852,8 +2742,6 @@ asunder; *parvataashcha* = Mountains also; *chakampire* = were shaken.
 
 While Rama was stretching that bow, both the heaven and earth suddenly seemed to be
 split asunder. Mountains also were shaken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -2889,8 +2777,6 @@ by the monkeys; *kshhipra kaaribhiH* = working quickly.
 
 In that manner, on the fifth day, the monkeys working quickly constructed
 twenty-three yojanas of the bridge up to the other seashore.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2937,8 +2823,6 @@ tathaa* = as truly as; *asya* = his; *pitaa* = father.
 
 That Nala, the strong and illustrious son of Visvakarma and an excellent monkey
 built the bridge across the sea as truly as his father would have built it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2959,8 +2843,6 @@ enveloped; *lokam* = the world; *dishashcha* = the quarters; *na chakaashire*
 
 Darkness enveloped the world. All the quarters were obscured. Lakes and rivers were
 soon agitated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3008,8 +2890,6 @@ and lovely; *setuH* = bridge; *kR^itaH* = constructed; *nalena* = by Nala;
 
 That beautiful and lovely bridge constructed by Nala across the ocean the abode of
 alligators, shone brightly like a milky way of stars in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3059,8 +2939,6 @@ in the sky.
 With a desire to behold that marvel, celestials along with Gandharvas, the heavenly
 musicians, Siddhas (semi-divine beings of great purity and perfection, possessing super natural
 qualities) and great sages came then and stood up in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3101,8 +2979,6 @@ having a width of ten yojanas; *shatayojanam aayatam* = and a length of hundred 
 
 The celestials and Gandharvas, the heavenly musicians saw Nala's bridge, having a
 width of ten yojanas and a length of hundred yojanas and which was very difficult to be built.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3174,8 +3050,6 @@ unimaginable; *asahyamecha* = impossible; *adbhutam* = wonderful;
 The monkeys taking long leaps and short leaps shouted in joy. All other beings saw
 that construction of the bridge across the ocean as unimaginable, impossible and wonderful, causing
 their hair to stand on end in amazement.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3229,8 +3103,6 @@ the ocean.
 
 Those thousand crores of monkeys in a great spectacle reached the other shore of the
 great ocean soon after building that bridge across the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3278,8 +3150,6 @@ glorious; *subhuumiH* = of good posture; *susamaahitaH* = and held together firm
 
 That colossal bridge, which was broad, well-constructed, glorious, well postured and
 held together firmly, looked beautiful like a separating straight line in the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3329,8 +3199,6 @@ _________________
 
 Vibhishana, wielding a mace in his hand, stood up on the seashore along with his
 ministers, for the purpose of invading the enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3411,8 +3279,6 @@ Thereafter, Sugriva on his part spoke to Rama, the truly brave man as follows: "
 valiant man! This ocean, the abode of alligators, is indeed vast. You ascend the shoulder of
 Hanuman and let Lakshmana ascend the shoulder of Angada. These monkeys can hold both of you while
 flying in the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3429,8 +3295,6 @@ army.
 
 Rama the glorious and righteous man, wielding a bow along with Lakshmana together
 with Sugriva, went in front of that army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3482,8 +3346,6 @@ iva* = like Garuda; the eagle.
 Some monkeys went along the middle of the bridge. Some others went along the sides.
 Some others were jumping into water. Some others marched forward on the path. Some monkeys entered
 the sky and aviated like Garuda the eagle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3538,8 +3400,6 @@ ocean); *ghoshham* = the sound; *saagarasya* = of the ocean; *samuchchhritam*
 
 The highly terrific sound of the ocean was covered up by the great sounds of the
 terrific monkeys who were crossing the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3555,8 +3415,6 @@ having many fruits roots and water; *raaj^Naa* = by Sugriva.
 
 That army of monkeys, which crossed the ocean by the bridge constructed by Nala, was
 encamped by Sugriva at a shore having many fruits tubers and water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3610,8 +3468,6 @@ Seeing that Rama's accomplishment, which was amazing and arduous; celestials,
 Siddhas (semi-divine beings possessing supernatural faculties) and Charanas (celestial bards) along
 with great sages, forthwith approached Rama and consecrated him with very splendid waters
 separately.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3663,8 +3519,6 @@ the sea; *shaasvatiiH* = eternally; *samaaH* = for years.
 The celestials, Siddhas and others exalted Rama, who was duly respected by kings
 with their auspicious -words as follows: " O, king! Defeat the enemies. Rule the earth and ocean
 eternally for years."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 </details>
 
@@ -3773,8 +3627,6 @@ and hanging in the middle of a single string of pearls, with a multitude of wave
 him, encircled by the clouds and winds, escorted by rivers mainly the Ganga and Sindhu, endowed
 with diverse forms resembling various deities, approached Rama with joined palms, who stood with
 arrows in hand, addressing him first as �Rama!' and spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -21,8 +21,6 @@ Indrajit creates a darkness in the sky and showers a multitude of steel arrows t
 Lakshmana. Sharp golden shafts arrows are then released by Rama and Lakshmana. Struck by the arrows
 discharged by Indrajit, monkeys in hundreds fall down dead. Then, Rama and Lakshmana reflect on the
 various ways and means to destroy Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -119,8 +117,6 @@ means.
 
 "O hero! Either remaining yourself invisible or visible, kill Rama and Lakshmana,
 the brothers of great prowess. You are superior in strength by all means."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -161,8 +157,6 @@ punaH na vadhiShyasi* = can you not kill; *dR^iShTvaa* = on seeing (them);
 
 "You have conquered Indra, of incomparable deeds, in battle. Can you not kill those
 two men, on seeing them in the battle-field?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -210,8 +204,6 @@ ground.
 
 Hearing the words of Ravana, that Indrajit, bowing to the command of his father,
 poured oblations into the sacred fire, with due ceremony, on the sacrificial ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -254,8 +246,6 @@ sacred fire; *tatra* = there; *raakShasyaH striyaH* = the female-demons;
 Even as he was pouring oblations into the sacred fire there, the female-demons
 carrying red turbans (for the use of priests) hastily arrived at the spot where Indrajit was
 there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -309,8 +299,6 @@ Weapons (such as a lance) served as blades of Shara grass (for being spread arou
 the sacrificial fire). Chips of wood of Vibhitaka tree served as wooden sticks to feed the
 sacrificial fire as also red robes and iron ladles were used for cleaning and pouring clarified
 melted butter into the sacrificial fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -359,8 +347,6 @@ kR^iShNasya* = entirely black (and consigned it to the fire).
 Having spread on the ground around all the sides of the sacrificial fire with other
 weapons along with lances, the demon seized hold of the neck of a live goat, entirely black and
 consigned it to the fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -401,8 +387,6 @@ smokeless; *mahaarchiShaH* = fire which burst into mighty flames; *homa samiddha
 
 Such omens as betokened victory appeared in the smokeless fire which burst into
 mighty flames, when it was fully aroused by that single offering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -446,8 +430,6 @@ gold; *pratijagraaha* = received; *tat* = that; *haviH* = offering.
 
 Becoming visible in person, the god of fire, who was shooting out flames towards the
 right and who shone brightly like refined gold, received that offering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -495,8 +477,6 @@ capable of disappearing from sight.
 
 Offering oblations in fire and gratifying the gods, the devils and demons, Indrajit
 ascended an excellent and splendid chariot, capable of disappearing from sight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -540,8 +520,6 @@ mighty bow placed on it; *saH* = that; *syandanottamaH* = excellent chariot;
 
 Drawn by four horses, provided with sharp arrows and a mighty bow placed on it, that
 excellent chariot looked beautiful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -582,8 +560,6 @@ antelopes; *chandra ardhachandraishcha* = full moons and crescents.
 
 Adorned with gold, that chariot glittered on account of its body and was decorated
 with carved images of antelopes, full moons and crescents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -627,8 +603,6 @@ and decorated with cats's eye gems.
 
 The flag-post of Indrajit shone like a flaming fire, provided, as it was, with large
 rings of gold and decorated with cat's eye gems.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -675,8 +649,6 @@ missile presided over by Brahma; *aaditya kalpena* = which was as efflugent as t
 
 Protected by the missile presided over by Brahma, which was as efflugent as the sun,
 that Indrajit endowed with exceptional strength, became difficult to be attacked.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -726,8 +698,6 @@ with the utterance of spells; *raakShasaiH* = sacred to demons; *abraviit* = spo
 Coming forth from the city and having acquired the capacity of vanishing from the
 sight, by offering oblations into the sacred fire, with the uttereance of spells sacred to demons,
 that indrajit, who was ever victorious in war, spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -776,8 +746,6 @@ Ravana; *adya* = today.
 "By killing both the princes who left home to become religious mendicants in the
 forest in vain, I will present a gift of victory secured in the battle, to my father, Ravana
 today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -819,8 +787,6 @@ from the sight.
 
 "By making the earth bereft of monkeys today and by killing Rama and Lakshmana, I
 will create a great spleasure". Thus speaking, Indrajit vanished from thes sight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -870,8 +836,6 @@ swiftly came; *samkruddhaH* = enraged; *atha* = thereafter.
 
 Impelled, as he was, by Ravana, the fiery Indrajit, with his barbarons bow and steel
 arrows, swiftly came to the battle-field enraged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -913,8 +877,6 @@ monkeys.
 
 That Indrajit saw the two heroes, showering a multitude of arrows. Both the princes,
 having mighty prowess, looked like three- hooded serpents in the middle of the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -958,8 +920,6 @@ with floods of arrows; *vR^iShTimaan parjanyaH iva* = like rainy clouds do.
 
 Concluding that both of them were the two princes, Rama and Lakshmana and stringing
 his bow, he covered them with a flood of arrows, as the rainy clouds do.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1006,8 +966,6 @@ and remaining invisible to the reach of eyes; *vivyaadha* = struck; *raamalakShm
 
 That Indrajit with his chariot, reaching the sky and remaining invisible, struck
 Rama and Lakshmana with his sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1048,8 +1006,6 @@ Rama and Lakshmana with his sharp arrows.
 
 When enveloped by a stream of arrows Rama and Lakshamana, fitted arrows to their
 bows and revealed divine missiles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1100,8 +1056,6 @@ their arrows charged with mystic missiles; *suuryasamkaashaiH* = equal to the su
 Though covering the sky with a net-work of arrows, the two mighty princes could not
 touch Indrajit with their arrows charged with mystic missiles and which were efflugent like the
 sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1149,8 +1103,6 @@ darkness.
 
 Covering the sky, the illustrious Indrajit created a dark-like smoke. He made the
 quarters also invisible, by enclosing them with mist-liek darkness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1193,8 +1145,6 @@ prakaashate* = nor did his form come to view.
 While Indrajit was moving about, neither the sound produced by the impact of his
 palm on the bow string was heard, nor the sound of his wheels or the clattering of hoofs of his
 horses could be heard, nor did his form come tot he view.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1241,8 +1191,6 @@ wonderful shower of rocks.
 
 In that thick darkness, that long-armed Indrajit showered hails of his steel arrows,
 like wonderful shower of rocks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1288,8 +1236,6 @@ with his arrows; *datta varaiH* = which were greanted as boons; *suurya samkaash
 
 That enraged Indrajit in battle, abundantly pierced Rama in all his limbs with his
 arrows, which were earlier granted as boons to him and which were effluent like the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1314,8 +1260,6 @@ son; *indrajitam* = Indrajit; *raNaaya* = for the battle.
 On hearing Makaraksha having been killed, Ravana who had been ever victorious in
 battle, grinding his teeth in rage, reflected on what to do then and there, and as greatly furious
 as he was, instructed Indrajit, his son to proceed to the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1357,8 +1301,6 @@ puN^khaan* = with golden shafts.
 
 Both Rama and Lakshmana, the foremost of men, who were being struck with steel
 arrows, like two mountains being hit by torrents, released sharp golden-shafted arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1405,8 +1347,6 @@ arrows, like two mountains being hit by torrents, released sharp golden-shafted 
 
 Those arrows, adorned with plumes of heron, reaching Indrajit in the sky and
 piercing him, fell to the ground, soaked in blood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1457,8 +1397,6 @@ Bhallas.
 
 Shining beyond measure with a flood of arrows, the two excellent men began to chop
 off those arrows which were falling on them with many arrows called by the name of Bhallas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1509,8 +1447,6 @@ missiles.
 
 Both Rama and Lakshmana for their part directed their excellent missiles in the
 direction from which they saw the aforesaid sharp arrows, fallen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1559,8 +1495,6 @@ sharp arrows.
 Indrajit for his part, who was a superior chariot-warrior and who was swift in
 discharging missiles, rushed on towards all sides and pierced Rama and Lakshmana with his sharp
 arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1601,8 +1535,6 @@ iva* = like two Kamshuka trees; *puShpitau* = in flowering.
 
 Those valiant princes, Rama and Lakshmana pierced deeply with well-made goldne
 shafted arrows, appeared like two Kamshuka trees in flowering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1651,8 +1583,6 @@ other thing about him; *kimchit* = whatever; *viditam* = could be knwon.
 No one could perceive his rapid movement, like the position of the sun when the sky
 is thickly overcast with clouds, nor his form nor his bows and arrows, nor any other thing about
 him whatsoever could be known.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1693,8 +1623,6 @@ surgace; *tatra* = there.
 
 Struck down by him, the monkeys were killed. The monkeys dropped dead in hundreds on
 the earth's surface there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1742,8 +1670,6 @@ killing; *sarva raakShasaam* = all the demons.
 
 Then, Lakshmana for his part was enraged and told his brother that he would employ
 the missile presided over by Brahma for the purpose of killing all the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1786,8 +1712,6 @@ hetoH* = for the sake of a single demons.
 Then, Rama spoke to that Lakshmana, who was endowed with auspicious bodily marks as
 follows: "You ought not to kill all the demons on earth, merely for the sake of a single
 demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1845,8 +1769,6 @@ who is fleeing; *mattam vaa* = or who is intoxicated.
 
 "You ought not to kill on this earth one who is not fighting or one who is hiding or
 one who seeks refuge with joined palms or is fleeing or is intoxicated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1862,8 +1784,6 @@ impetuosity; *aashiiviShopamaam* = and which are equal to venomous serpents.
 
 "O long-armed Lakshmana! We shall try to kill Indrajit alone. We will employ mystic
 mssiles with great impetuosity and which are equal to venomous serpents."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1904,8 +1824,6 @@ skilled in conjuring tricks; *antarhita ratham* = and whose chariot remains invi
 
 "On seeing this demons, the leaders of mokey-troops will forcibly kill this petty
 demon, who is skilled in conjuring tricks and whose chariot remains invisible."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -1970,8 +1888,6 @@ penetrates the vault of heaven; *niguuDho.api* = and remains completely hidden;
 "Scorched by my mystic missiles, he will fall dead on the ground, even if he enters
 the earth or into heaven or into the subterrranean world or penetrates the vault of heaven and
 remains completely hidden in this manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 </details>
 
@@ -2028,8 +1944,6 @@ deeds.
 Speaking highly meaningful words in the aforesaid manner, the great-souled Rama,
 surrounded by the foremost of monkeys, started to reflect on the speedy means of killing the
 furious Indrajit, the demons of cruel deeds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

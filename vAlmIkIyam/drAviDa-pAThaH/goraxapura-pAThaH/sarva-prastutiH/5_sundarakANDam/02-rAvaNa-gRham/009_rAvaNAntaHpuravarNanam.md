@@ -18,8 +18,6 @@ V : Sundara Kanda - Book Of Beauty**
 
 This chapter further describes the inner buildings of Ravana's house. Hanuma passess
 through a hall filled with Ravana's wives.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -82,8 +80,6 @@ a tall one; *vipulam* = and a wide one; *madhye* = in the middle;
 
 Hanuma, the son of Vayu, saw a best tall building and a wide one in the middle of
 that best group of houses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -104,8 +100,6 @@ Yojana tall.
 
 That building of Ravana filled with many edifices was half a Yojana long and one
 Yojana tall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -155,8 +149,6 @@ wide eyed; *viadehiim* = the daughter of King of Videha.
 
 Hanuma, the destructor of enemies, moved around in all directions searching for
 Seetha the wide eyed daughter of King of Videha
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ Thereafter, Hanuma the glorious one neared and observed the best residence of
 Rakshasas and the house of Ravana, containing elephants with four tusks and also those with three
 tusks, those with two tusks and still not crowded. It was protected by soldiers bearing raised
 weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ with serpants.
 That building surrounded by the wives of Ravana, by demonesses, and princesses
 brought by strength, was like an ocean filled with crocodiles, big fishes, sharks and other fishes,
 moved by the speed of wind, and together with serpants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -351,8 +339,6 @@ Kubera; *yaa lakshmii* = whatever riches; *indre cha* = at Indra;
 
 Whatever wealth is at Kubera, whatever riches at Indra with green horses, all that
 affluence was at Ravana's house. That wealth was always without reduction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -399,8 +385,6 @@ of Varuna; *taadrushii* = the same fortune; *vaa tadvishishhTaa* = or even great
 
 Whatever was the fortune of Kubera the King of Yakshas, of Yama and of Varuna, the
 same fortune or even greater treasure was at this house of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -450,8 +434,6 @@ harmyasya* = of that house; *sunirmitam* = a well build one;
 
 Hanuma saw another house in the middle of that house, a well built one consisting of
 many elephants in rut.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -522,8 +504,6 @@ austerity; *pitaamahaat* = from Lord Brahma; *raakshasheshvaraH* = Ravana;
 Whatever wonderful aeroplane by the name of Pushpaka, decorated with all kinds of
 precious stones, made by Visvakarma in heaven for lord Brahma, whatever plane Kubera obtained by
 great austerity from Lord Brahma, Ravana obtained that plane by prowess defeating Kubera.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -597,8 +577,6 @@ shape.
 Supported by pillars decorated with images of wolves, with silver and golden hue and
 which were well made, radiant with splendour, decorated all around with rooms equalling Mount Meru
 and Mount Mandara, as though touching the sky with an auspicious shape.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -648,8 +626,6 @@ beautiful and best platforms.
 
 Well made by Visvakarma and resembling Fire and Sun in splendour, with stairways
 made of gold and with beautiful and best platforms;
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -696,8 +672,6 @@ emeralds.
 
 With windows and ventilation holes made of gold and also made of crystal, with
 platforms made of sapphires and emeralds;
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -744,8 +718,6 @@ with precious stones; *mahaadhanaiH* = of great value; *muktaabhiH* = with pearl
 
 Shone by floors embellished with corals of strange hue and with precious stones of
 great value, with pearls without comparison;
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -785,8 +757,6 @@ gold; *yuktam* = together; *chandanena* = with sandal wood; *supuNyagandhinaa*
 
 Reddish and resembling gold, together with sandal wood having a good smell and
 brilliant like the Sun at noon;
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -840,8 +810,6 @@ upper floors
 
 The great Hanuma alighted the best aeroplane called Pushpaka with an excellent form
 decorated by rows of upper floors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -894,8 +862,6 @@ being there; *jighram* = smelled; *divyamgandham* = a wonderful sweet fragrance;
 
 That Hanuma then being there, smelled a wonderful sweet fragrance like wind with an
 appearance, created from drinks and foods, including cooked rice diffused on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -946,8 +912,6 @@ though saying thus; *tam* = to that Hanuma; *itaH ehi* = come here;
 
 That sweet smell was as though saying thus to that Hanuma : "Come here!", like a
 relative to a best relative pointing to there wherever that Ravana was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1001,8 +965,6 @@ woman.
 
 Hanuma started thereafter there (in that direction) and saw an auspicious great
 hall, close to heart of Ravana, like a delightful best woman.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1023,8 +985,6 @@ shapes made ivory in the middle.
 
 That hall was made of stairways embedded with diamonds, decorated with golden
 windows, with a floor embellished with crystal, with shapes made from ivory in the middle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1070,8 +1030,6 @@ silver and gold; *maNistambhaiH* = and with diamond studded pillars;
 
 Well decorated with pearls, corals and also with silver and gold and with diamond
 studded pillars and also decorated with many pillars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1118,8 +1076,6 @@ studded pillars and also decorated with many pillars.
 
 By pillars slightly bent with no distortion, which were very tall and well decorated
 all over, that hall was as though starting for sky with very high wings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1172,8 +1128,6 @@ of houses.
 Covered by a wonderful large carpet with all earth's characteristics like rivers,
 mountains, oceans, forests, painted over, that hall was like the vast earth together with states
 and rows of houses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1223,8 +1177,6 @@ inhabited by the King of rakshasas.
 
 It was resounded by birds in heat, made fragrant by excellent perfumes, hung with
 best tapestries and inhabited by the king of rakshasas
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1274,8 +1226,6 @@ agallocum; *vimalaam* = a pure one; *hamsapaaNDuraam* = white like a swan;
 
 It was made smokey by the fumes of agallocum. It was a pure one white like a swan,
 wonderful by the decoration of flowers, like divine cow with a great radiance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1326,8 +1276,6 @@ _________________
 
 That excellent hall was causing happiness to heart, causing a fair complexion,
 destroying sorrow and was as though producing prosperity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1379,8 +1327,6 @@ indriyaarthaiH* = with the excellent five objects of the senses.
 
 Like a mother, then that hall governed by Ravana caused satisfaction to all five
 sensory organs with all the excellent five objects of the senses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1424,8 +1370,6 @@ austerity.
 
 Hanuma thought thus : "This is heaven! This is indeed the abode of Devas! This is a
 city of Indra. This might be the result of a great austerity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1502,8 +1446,6 @@ still as though in thought.
 
 Like gamblers defeated by greater gamblers in gambling, Hanuma saw golden hued lamps
 being still, as though in thought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1519,8 +1461,6 @@ cha* = and also due to the radiance of jewellery.
 
 Hanuma thought thus : "This building shines by the light of lamps and the brilliance
 of Ravana and also due to the radiance of jewellery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1566,8 +1506,6 @@ sitting on the rug; *naanaavarNaambarasrajam* = with clothing of various colours
 
 Thereafter Hanuma saw a thousand of best women sitting on the rug with clothing of
 various colours and decorated in a variety of ways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1644,8 +1582,6 @@ midnight; *shushhvaapa* = (that women folk)slept; *balavat* = deeply;
 
 Then at the turn of midnight, those women slept deeply resting after playing during
 night, with a deep sleep caused by liquor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1661,8 +1597,6 @@ night, with a deep sleep caused by liquor.
 
 That sleeping group of women, adorned with jewels which were not making sound, shone
 like a great park of lotuses with calm swans and bees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1709,8 +1643,6 @@ and with lotus fragrance.
 
 Hanuma saw faces of those best women, with teeth covered by lips with closed eyes
 and with lotus fragrance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1761,8 +1693,6 @@ ambujaaniiva* = like lotuses in blossom.
 
 Hanuma thought that drunk bees definitely are desiring again and again these lotus
 faces like lotuses in blossom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1811,8 +1741,6 @@ night.
 
 At that time, those faces shone which became like lotuses in blossom during day time
 and again were like lotuses with closed petals at night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1828,8 +1756,6 @@ hi* = thought also that; *taani* = those faces; *samaani* = equal salilodbhavaiH
 
 The glorious great Hanuma thought as above by recourse to reason. He also thought
 thus "Those faces equal lotuses by their qualities such as beauty, fragrance, and others".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1877,8 +1803,6 @@ autumn; *abhishobhitaa* = shone; *taaraabhiH* = by stars.
 
 That hall of Ravana's being shone by those women, glittered like a calm cloudless
 sky in autumn shone by stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -1928,8 +1852,6 @@ sky in autumn shone by stars.
 
 That lord of Rakshasas surrounded by those women shone like the radiant moon
 surrounded by stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 </details>
@@ -1978,8 +1900,6 @@ sangataaH* = had been together as these women.
 
 Then Hanuma thought thus : "Whatever meteors together with residue of piety fall
 down from the sky, all those meteors had been together as these women".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2029,8 +1949,6 @@ complexion and grace; *yoshhitaam* = of those women; *suvyaktam* = clearly;
 
 There the luster, complexion and grace of those women clearly resembled great stars
 which emitted an auspicious radience.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2097,8 +2015,6 @@ side.
 
 Best women with disturbed sacred marks (tilaka) on forehead became with displaced
 anklets, became with necklaces fallen off to side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2143,8 +2059,6 @@ had walked long.
 
 Some other women became tied with pearl necklaces, some others became with tied-up
 waist ornaments (and) resembled young female horses who had walked long.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2194,8 +2108,6 @@ with dishevelled large thick garlands and scattered excellent jewels;
 
 Those women with dishevelled large thick garlands and scattered excellent jewels
 during the time of drinking, dancing etc., were with consciousness stolen by sleep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2211,8 +2123,6 @@ elephant; *mahaavane* = in a big forest.
 
 Some others wearing nice earrings with flower garlands that were torn and disturbed,
 resembled creepers, tread upon by an elephant in a big forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2260,8 +2170,6 @@ _________________
 
 Big pearl necklaces with the radiance of moon-rays in the middle of breasts of some
 other women shone like sleeping swans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2339,8 +2247,6 @@ Kadambas; *anyaasaam* = and for some others; *hemasuutraaNi* = golden chains;
 
 And of some other women, necklaces made with cat's eye gems resembled birds called
 Kadambas and for some others golden chains were like Chakravaka birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2361,8 +2267,6 @@ rivers; *hamsa kaaranDavapakshrNaaH* = filled with swans and bird called Karanda
 
 Those women with buttocks resembling sand dunes, shone like rivers filled with swans
 and birds called Karandas and decorated by Chakravaka birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2409,8 +2313,6 @@ buds; *haimavipulaaMbujaaH* = with golden jewellery as big lotuses; *bhaava graa
 
 Those sleeping women shone like rivers with their smiles as flower buds, with golden
 jewellery as big lotuses, with their behaviours as crocodiles, with fame as banks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2481,8 +2383,6 @@ women; *vyaadhuuyante* = were being fluttered; *punaH punaH* = again and again;
 
 Edges of clothing (worn by them) disturbed by air from breathing of some other
 women, were being fluttered again and again on their faces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2523,8 +2423,6 @@ beautiful shine; *uddhuutaaH* = hoisted.
 
 Those edges of clothes with various beautiful colours, shone at the base of Ravana's
 wives' throats like hoisted flags of beautiful shine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2568,8 +2466,6 @@ saMsargaat* = due to the air from breathing (of those women).
 
 Here ear-rings of some beautiful women with a good glory, also moved lightly due to
 the air from breathing of those women.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2617,8 +2513,6 @@ Ravana.
 
 Then comforting breath from the faces of those women, by nature fragrant with the
 smell of liquor made of Sarkara, served Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2659,8 +2553,6 @@ decoration; *saMstitaaH* = which were; *mR^idushhu aNgeshhu* = on smooth parts;
 
 Auspicious lines of decoration which were on smooth parts of some other women and on
 nipples, were like jewellery.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2676,8 +2568,6 @@ face of Ravana.
 
 Some women of Ravana smelled co-wives' faces again and again imagining them to be
 face of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2727,8 +2617,6 @@ delight only; *sapatniinaam* = to their co-wives.
 
 Those best women with greatly devoted mind in Ravana, then not being on own will,
 brought delight only to their co-wives.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2777,8 +2665,6 @@ _________________
 
 Some other women slept there, making as pillows their arms decorated with bracelets
 and beautiful clothes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2828,8 +2714,6 @@ woman's thigh; *aparaa* = another; *tasyaaH kuchau* = (slept) on her breasts.
 
 Another woman slept on another's bosom, again another woman slept on her shoulder,
 another woman slept on another woman's thigh and another slept on her breasts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2875,8 +2759,6 @@ limbs placed on one another.
 
 Overcome with heat and friendship, they resorted to thighs, sides, waist and back of
 one another, with mutual limbs placed on one another.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -2958,8 +2840,6 @@ with dragon flies on it; *ghrathitaa* = tied; *suutre* = in thread.
 
 That garland of women tied with the rope of each other's shoulders shone like a
 flower garland with dragon flies on it tied in thread.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2982,8 +2862,6 @@ That group of women of Ravana, tied by each other as garland with mixed group of
 flowers, with beautiful shoulders entwined promiscuously, hair like an exalted garden with a flower
 garland tied together of creepers in bloom due to the caress of the lord of wind in the vernal in
 the month of Vaisakha, with entwined beautiful trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -3056,8 +2934,6 @@ _________________
 
 While Ravana slept comfortably, golden lamps shining brilliant, were as though
 seeing without closing eyes, those women of various glows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -3102,8 +2978,6 @@ surrendered from lust; *tasya* = to Ravana.
 
 Women of royal sages, brahmanas and demons and of Gandharvas, of Rakshasas - all
 those unmarried girls surrendered from lust to Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -3144,8 +3018,6 @@ those unmarried girls surrendered from lust to Ravana.
 
 Then it was not possible to make clear the knowledge of jewellery, body parts and
 clothes of those women even for those used to them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3162,8 +3034,6 @@ love.
 
 All those women had been stolen by Ravana with a desire for war, some together with
 heat of youth obtained Ravana being desired by god of love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -3225,8 +3095,6 @@ desire in another(man); *na anyapuurvaacha* = and also there was no one with ano
 There, even one woman had not been obtained forcefully by the strong Ravana, except
 for that daughter of Janaka, Seetha. Every other woman had been obtained by her character alone and
 there was no woman who had desire in another man, and there also was none with another lover.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -3281,8 +3149,6 @@ one with less beauty; *na adakshiNaa* = no one without skill; *na anupachaara yu
 And there was no wife of his without a good lineage, there was no one with less
 beauty, no one without skill, no one without service, none with low intellect, no one without
 causing desire to lover.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -3342,8 +3208,6 @@ wife of Rama(had been left happy with her husband) idR^ishii yatha = in the same
 Following thought occurred to Hanuma with a pious mind : "It would have been good
 for this Ravana if the virtuous wife of Rama had been left happy with her husband in the same such
 manner as these wives of the king of rakshasas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 </details>
 
@@ -3404,8 +3268,6 @@ un-gentlemanly deed) asyaam = with her.
 Hanuma became gloomy and thought thus: "Seetha is definitely the best by virtues;
 then this lord of Lanka even though being great otherwise, did an evil and an un-gentlemanly deed
 with her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

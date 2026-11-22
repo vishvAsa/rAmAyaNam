@@ -14,8 +14,6 @@ title = "१०५ राम-अगस्त्यसंवादः"
 
 Sage Agastya advises Rama to recites the 'Aditya Hridaya', a collection of verses in
 praise of the sun-god, with a view to gaining victory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -101,8 +99,6 @@ Approaching Rama standing absorbed in fight in the battle-field, exhausted as he
 by the fight, and seeing Ravana who came nearby, facing him duly prepared for the battle, the
 glorious sage, Agastya, who had come together with the gods, to perceive the battle, then spoke as
 foolows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -143,8 +139,6 @@ foolows:
 
 "O Rama, the mighty armed! Hear the following eternal secret, by which you can
 conquer all the enemies in battle, my child!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -202,8 +196,6 @@ shivam* = supremely auspicious; *sarva maN^gala maN^galayam* = the blessing of a
 blessings; *sarva paapa praNaashanam* = root out all sins; *chintaa shoka
 prashamanam* = allay all anxiety and grief; *uttamam* = excellent;
 *aayurvardhanam* = and prolong life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -246,8 +238,6 @@ and brings light to the world.
 "Worship the sun-god, the ruler of the worlds, who is crowned with the rays, who
 appears at the horizon, who is greeted by the gods and the demons alike, shines forth; covering up
 all other lights and brings light to the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -297,8 +287,6 @@ and demons; *lokaan* = as well as their worlds; (by his rays).
 
 "He is the embodiment of all gods, full of glory and the reflector of rays. He
 protects the multitude of gods and demons as well as their worlds by his rays."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -344,8 +332,6 @@ waters.
 of destruction, Skanda (son of Lord Shiva), Prajapati (the ten lords of creted beings), Indra the
 ruler of gods, Kubera the bestower of riches, Kala the Time-spirit, Yama the god of retribution,
 Soma the moon-god and Varuna the ruler of the waters."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -371,8 +357,6 @@ light.
 physicians of gods, the fortymine Maruts (wind-gods), Manu (a progenitor of the human race), Vayu
 the wind-god, the fire-god, the created beings, the life-breath of the universe, the source of teh
 seasons and the store-house of light."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -445,8 +429,6 @@ progenitor of all; *suuryaH* = Surya; the sun-god and the provocator of acts in 
 of acts in people, the courser in the sky, the nourisher of all iwth rain, the possessor of rays
 the golden, the brilliant, having golden seed whose energy constitutes the seed of the universe and
 the maker of the day."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -464,8 +446,6 @@ radiant.
 "He has seven green horses, is thousand-rayed, full of rays, the destroyer of
 darkness, the source of happiness, maker of thinness, the infuser of life in the lifeless cosmic
 egg and radiant."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -483,8 +463,6 @@ evening; *shishiranaashanaH* = and the destroyer of frost.
 "He is a golden foetus, maker of coolness, creator of heat, the bringer of a day,
 the one who is eulogized by all, pregnant with fire, the son of Aditi, the one who pacifies himself
 in the evening and the destroyer of frost."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -502,8 +480,6 @@ the path of the sky.
 "He is the lord of the sky, the disperser of darkness, the master of the three Vedas
 (Viz. Rik, Sama and Yajur), the sender of thick rain, the friend of water and the on who courses
 swiftly in the path of the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -527,8 +503,6 @@ of all evolutes.
 "He is the radiator of heat and adrned with a circle of rays. He is death himself,
 tawny of hue, a giver of warmth to all, omniscent, all-formed, endowed with extra-ordinary
 splendour, the one who has an affection in all and the source of all evolutes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -545,8 +519,6 @@ twelve forms (in the shape of twelve months in a year); *te namaH astu* = hail t
 "He is the controller of all lunar mansions, planets and stars, the creator of all
 and the resplendent among the splendid. O god, appearing in twelve forms (in the shape of twelve
 months in a year), hail to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -587,8 +559,6 @@ eastern mountain namaH = and hail; *pashchimaaya adraye* = to the western mounta
 
 "Hail to you in the form of eastern mountain and hail to the western mountain. Hail
 to the lord of host of luminaries and hail to the lord of the day."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -636,8 +606,6 @@ rays!; *namaH namaH aadityaaya* = hail; hail to you the son of Aditi!
 "Hail to you, the giver of victory, hail to you, the joy born of victory! Hail to
 you, the god with green horses, hail to you, having thousands of rays! Hail, hail to you the son of
 Aditi!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -678,8 +646,6 @@ lotus!; *te namaH tu prachaN^Daaya* = hail to you the furious one!
 
 "Hail to you, the fierce one, hail to you the valiant one! Hail to you, the one with
 variegated colours! Hail to you, the awakener of the louts, hail to you, the furious one!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -728,8 +694,6 @@ appearing in teh form of Rudra.
 "Hail to you, the ruler of Brahma, Lord Shiva and Lord Vishnu the infallible, the
 sun-god, the light indwelling the solar orb, the resplendent one, the devourer of all, appearing in
 form of Rudra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -778,8 +742,6 @@ the ruler of all lights.
 "Hail to you, the dispeller of darkness, the destroyer of cold, the exterminator of
 foes, the one whose extent in immeasurable, the destroyer of the ungrateful, the god, who is the
 ruler of all lights."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -822,8 +784,6 @@ world!
 "Hail to you, possessing the lustre of refined gold, the dispeller of ignorance, the
 architect of the universe, the uprooter of darkness, the splendour incarnate, the onlooker of the
 world!'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -870,8 +830,6 @@ rays; *eShaH* = He; *varShati* = sends the rain.
 
 "This sun, the lord alone destroys and brings into existence all the brings. He
 radiates heat by his rays. He sends the rain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -912,8 +870,6 @@ cha* = and the fruit; *agnihotriNaam* = attained by those who pour such oblation
 
 "Planted in all created beings, he remains awake, when they have fallen asleep. He
 alone is the oblation to the fire-god and the fruit attained by those who pour such oblations."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -959,8 +915,6 @@ competent one; *kR^ityaami* = of all activities; *yaani* = which are found;
 "He comprises all the gods, as well as the sacrifies as also the fruit of all
 sacrifices. He is a supremely competent one of all activities, which are found in all the
 worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -1001,8 +955,6 @@ distresses; *kR^ichchheShu* = in difficulties; *kaantaareShu* = in the wood;
 
 "O Rama! No individual glorifying this sun-god, in distresses in difficulties; in
 the woods or in times of peril, comes to grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -1054,8 +1006,6 @@ praise; *triguNetam* = three times; *vijayiShyasi* = you will come out victoriou
 "Worship this sun-god, the lord of the universe and the god of all gods with
 undivided attention. Muttering this praise three times, you will come out victorious in
 battles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -1103,8 +1053,6 @@ he had come.
 
 "You will be able to kill Ravana at this very moment, O mighty armed one!" Saying
 so, the sage, Agastya, thereupon, left as in the same way as he had come.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -1161,8 +1109,6 @@ shokaH* = bereft of anguish; *supriitaH* = feeling greatly delighted; *raaghavaH
 
 Hearing this, Rama of extra ordinary energy, then became bereft of anguish. Feeling
 greatly delighted, Rama retained that hymn in his memory with a devoted mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1185,8 +1131,6 @@ Sipping the water thrice and getting purified looking intently on the orb of the
 and repeating this prayer, the valiant Rama obtained a great rejoice. Seizing hold of his bow and
 seeing Ravana, Rama felt delighted in mind and marched forward for the fight. He stood voed to kill
 Ravana, with an intense and all-sided effort.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 </details>
 
@@ -1234,8 +1178,6 @@ as he was in teh middle of a troop of celestials.
 Seeing Rama with a delighted mind, and becoming most exhildrated on foreseeing the
 death of Ravana, the sun-god, standing in the middle of a troop of celestials, exclaimed, "Hasten
 up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

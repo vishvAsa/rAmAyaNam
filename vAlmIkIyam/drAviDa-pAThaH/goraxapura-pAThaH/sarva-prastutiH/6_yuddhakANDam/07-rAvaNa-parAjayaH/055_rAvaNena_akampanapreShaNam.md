@@ -16,8 +16,6 @@ title_english = "055 Ravana next sends Akampana"
 Ravana next sends Akampana for the battle. As Akampana along with his army sets out
 for the war, he visualized various bad portents. A deadly conflict ensued between monkeys and
 demons. Kumuda, Nala and Mainda the chiefs of monkeys creates a great carnage among demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ reverence.
 
 Hearing that Vajradamshtra was killed by Angada, Ravana spoke the following words to
 the General of his forces who, with joined palms, stood near him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ demons; *durdharSaaH* = of irresistible courage; *niryaantu* = go forth;
 
 "Let the invincible demons of irresistible courage go forth soon, with Akampana as
 their head, who is skilled in the use of every weapon and missile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -160,8 +154,6 @@ my welfare; *samarapriyaH* = and loved war; *nityam* = forever.
 
 "This excellent demon is a chastiser, a protector and a leader in battle. He ever
 desired my welfare and always loved war."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -208,8 +200,6 @@ terrific; *vaanaraan* = monkeys; *na* = there is no; *samshayaH* = doubt.
 
 "There is no doubt that he will prove victorious and Rama, Lakshmana, the mighty
 Sugreeva and the other terrible monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -253,8 +243,6 @@ Akampana; *laghuparaakramaH* = of quick resolution; *tadaa* = then;
 
 Taking that command of Ravana, the mighty Akampana of quick resolution then
 mobilized the army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -296,8 +284,6 @@ had dispatched them.
 
 Those foremost of demons of terrifying appearance, furnished with every kind of
 weapon and fearful to look upon, rushed into the fray where their general had dispatched them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -343,8 +329,6 @@ dreadful; *raakSasaiH* = demons.
 Then, Akampana of the stature and colour of a cloud, whose voice resembled a
 thunder, ascended his great chariot, decorated with fine gold and set out, surrounded by dreadful
 demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -391,8 +375,6 @@ iva* = was resembling the sun; *teSaam* = among the demons.
 
 Even celestials were indeed unable to upset Akampana in a great battle. Hence, among
 the demons, he was shining like the sun, by his splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -439,8 +421,6 @@ dainyam* = were deprived of their energy; *akasmaat* = suddenly.
 
 As he sped on his way, hastened and eager to enter the battle, the horses drawing
 his chariot were suddenly deprived of their energy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -487,8 +467,6 @@ and his voice; *abhavat* = became; *gadgadaH* = trembled.
 
 The left eye of Akampana, who delighted in warfare, began to twitch. His countenance
 grew pale and his voice trembled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -539,8 +517,6 @@ beasts; *uuchuH* = uttered; *kruuraaH* = cruel; *bhayaavahaaH* = and fearful;
 
 At a time of a good day, marked by fine weather, it turned into a day of bad weather
 with a bitter wind beginning to blow. Birds and beasts uttered cruel and fearful cries.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -587,8 +563,6 @@ shoulders of a lion; *shaarduulasama vikramaH* = and the agility of a tiger;
 
 That demon, who had the shoulders of a lion and the agility of a tiger, disregarding
 those portents, rushed towards the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -635,8 +609,6 @@ that seemed to convulse; *saagaram* = the ocean.
 
 While Akampana advanced thus with his troops, an immense tumult arose that seemed to
 convulse the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -692,8 +664,6 @@ frightened.
 
 By hearing that clamour of the demons coming for the battle, the huge army of the
 monkeys, brandishing trees and rocks, was frightened.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -709,8 +679,6 @@ raavaNayoH arthe* = for the sake of Rama and Ravana.
 
 A highly fierce battle ensued between those monkeys and demons, who were ready to
 lose their lives for the sake of Rama and Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -757,8 +725,6 @@ and all; *parvata samnibhaaH* = were resembling mountains.
 
 All the monkeys and demons, who were willing to kill each other, were very strong
 and valiant. All were resembling mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -811,8 +777,6 @@ were heard; *pamyuge* = in that combat.
 
 The tremendous clamour of the aforesaid warriors, yelling in their rage and
 strength, making savage cries, were distinctly heard on the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -859,8 +823,6 @@ strength, making savage cries, were distinctly heard on the battle-field.
 
 A highly terrific dust, in a thick coppery colour, raised by the monkeys and demons
 enveloped all the ten quarters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -907,8 +869,6 @@ whitish like a piece of silk shaken by the wind; *na dadR^ishuH* = did not see;
 
 The combatants, enveloped by that dust, which was whitish like a piece of silk
 shaken by the wind, could no longer distinguish each other on the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -955,8 +915,6 @@ shaken by the wind, could no longer distinguish each other on the battle-field.
 
 Neither standard, banner and shield, nor horse, weapon and chariot could be
 discerned in that pall of dust.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1007,8 +965,6 @@ heard; *yuddhe* = in the battle; *ruupaaNi* = (yet in the confuison) no forms;
 
 A great tumultuous clamour, of warriors, making challenging cries and rushing upon
 each other, was heard on the battle-field, yet in that confusion, no form was visible.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1055,8 +1011,6 @@ the demons; *nijaghnuH* = killed; *raakSasaashchaapi* = the demons themselves.
 
 In the darkness, the greatly enraged monkeys killed the monkeys themselves and the
 demons killed the demons themselves in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1098,8 +1052,6 @@ mud.
 
 Those monkeys and demons killing other and their own people then made the earth
 dampened with blood, anointing its body with mud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1149,8 +1101,6 @@ filled with bodies and corpses.
 
 Under the stream of blood being sprinkled, the dust was laid, revealing the earth
 covered with bodies and corpses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1197,8 +1147,6 @@ maces; javelins; *shilaa parigha tomaraiH* = stones; bars and picks.
 
 The demons and the monkeys vigorously struck each other swiftly with blows from
 trees, spears, maces, javelins, stones, bars and picks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1245,8 +1193,6 @@ deeds; *parvatopamaaH* = and who resembled mountains; *yuddhantaH* = fighting;
 
 The monkeys of dreadful deeds, resembling mountains, fighting with their arms
 appearing like iron bars, killed the demons in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1296,8 +1242,6 @@ cruel; *shastraiH* = weapons.
 
 The enraged demons with darts and javelins in their hands, struck the monkeys there
 with their cruel weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1338,8 +1282,6 @@ Akampana; *chamuupatiH* = the General of the army; *raakSasaanaam* = of demons;
 
 The extremely enraged Akampana, the general of the army of demons, cheered all those
 demons by his terrible prowess.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1386,8 +1328,6 @@ those demons; *mahaa druma mahaashmabhiH* = with blows from large trees and ston
 
 The monkeys however leaping upon them and snatching their weapons through their
 strength, crushed those demons with blows from large trees and stones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1434,8 +1374,6 @@ displayed; *anuttamam* = unsurpassed; *vegam* = rashness.
 
 Meanwhile Kumuda, Nala and Mainda the courageous monkeys in an outburst of anger,
 displayed unsuprassed rashness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 </details>
 
@@ -1488,8 +1426,6 @@ displayed unsuprassed rashness.
 Those exceedingly valiant chiefs of monkeys, as in sport, in the battle-front, with
 mighty blows of trees, created a great carnage among the demons. All of them repeatedly crushed the
 demons with every kind of weapon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

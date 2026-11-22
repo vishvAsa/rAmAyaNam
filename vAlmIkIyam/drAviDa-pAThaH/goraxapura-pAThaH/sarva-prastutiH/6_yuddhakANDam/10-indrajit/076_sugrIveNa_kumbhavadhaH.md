@@ -21,8 +21,6 @@ Angada kills Prajangha. Shonitaksha dies in the hands of Dvivida and Youpaksha a
 Mainda. When Kumbha throws down Angada in the battle-field, Rama sends some more monkey-chiefs
 headed by Jambavan. Sugreeva, with his thunderbolt-like fist, strikes Kumbha with a heavy blow and
 kills him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ attacked; *viiram* = the valiant; *kampanam* = Kampana.
 
 While that terrific battle, which destroyed many eminent heroes, was in progress,
 Angada, who was eager to fight, attacked the valiant Kampana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -111,8 +107,6 @@ reeled.
 
 Calling Angada to fight, Kampana with fury, rapidly struck him with a mace in
 anticipation. Violently hit by him, Angada was reeled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -153,8 +147,6 @@ obtaining; *samJNaam* = consciousness; *chikShepa* = hurled; *gireH shikharam*
 
 Restoring consciousness, the energetic Angada hurled a mountain peak. Tormented by
 that stroke, Kampana fell down on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -198,8 +190,6 @@ Kampana; *hatam* = killed; *raNe* = in battle; *shoNitaakShaH* = Shonitaksha;
 
 Then, seeing Kampana killed in battle, Shonitaksha fearlessly rushed there towards
 Angada quickly in a chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -279,8 +269,6 @@ arrow with its head resembling the leaf of a Karaveera tree.
 He then swiftly struck Angada with sharp pointed arrows which can tear up the limbs
 and with fire-like forms which can destroy the world. He struck with many sharp arrows by the names
 of Kshura, Kshurapra, Naaraacha, Vatsatanta, Shilimukha, Karni, Shalya and Vipatha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -297,8 +285,6 @@ terrific; *dhanuH* = bow; *ratham* = the chariot; *baaNaan* = and darts;
 
 The strong and powerful Angada, the son of Vali, with his wounded limbs, crushed his
 terrific bow, chariot and darts with his might.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 </details>
@@ -343,8 +329,6 @@ _________________
 
 Then, Shonitaksha quickly took a sword and a shield. Enraged as he was, he swiftly
 jumped down (from his chariot) unhesitatingly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -391,8 +375,6 @@ away; *khaD^gam* = the sword; *nanaada cha* = made a (lion's) roar.
 
 Springing forward more swiftly, seizing hold of him with his hand and snatching away
 the sword, the strong Angada made a lion's roar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -439,8 +421,6 @@ flat surface of his shoulder; *kapikuN^jaraH* = that foremost of monkeys; *chich
 
 Angada the foremost of monkeys the sword into the flat surface of his shoulder and
 cut him from left to right diagonally.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -487,8 +467,6 @@ Angada; *abhidudraava* = rushed; *paraanariin* = towards other enemies;
 
 Taking hold of that large sword and repeatedly roaring, Angada rushed towards the
 other surviving enemies in the battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -529,8 +507,6 @@ part; *kruddhaH* = was enraged; *prajN^ghasahitaH* = and together with Prajangha
 
 Taking hold of that large sword and repeatedly roaring, Angada rushed towards the
 other surviving enemies in the battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -574,8 +550,6 @@ his consciousness; *gR^ihya* = and taking; *aayasiim gadaam* = an iron mace;
 
 That valiant Shonitaksha, wearing golden armlets, restoring his consciousness, took
 an iron mace and rushed quickly towards the same Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -616,8 +590,6 @@ vaaliputram* = the mighty Angada; *gadayaa* = with his mace.
 
 The strong and the great warrior, Prajangha on his part, along with Yupaksha, was
 enraged and rushed towards the mighty Angada with his mace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -658,8 +630,6 @@ staying in the middle; *vishaakhayoH* = of two Vishakha asterisms.
 
 Angada, the chief of monkeys, between the two warriors, Shonitaksha and Prajangha,
 shone like a full moon between the two asterisms known as Vishakhas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -706,8 +676,6 @@ with an intent to exhibit each his own martial skill.
 
 Protecting Angada, Mainda and Dvivida took their position near Angada, with an
 intent to exhibit each of their own martial skill.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -748,8 +716,6 @@ rage; *asibaaNagadaa dharaaH* = wielding swords; arrows and maces.
 
 The mighty demons with their colossal bodies retaliated and rushed in anger,
 wielding swords, arrows and maces, towards the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -797,8 +763,6 @@ puN^gavaiH* = excellent demons.
 
 A great battle, causing hair to stand on end, was waged by the three monkey-chiefs
 who encountered the three excellent demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -845,8 +809,6 @@ pratichikShepa* = got rid of them; *khaDgena* = with a sword.
 
 In the battle-field, the monkeys, seizing hold of trees, hurled them against the
 demon-chiefs. The mighty Prajangha, however, cut them down with his sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -897,8 +859,6 @@ mighty; *yuupaakShaH* = Yupaksha; *taan chichheda* = chopped them off;
 
 The monkeys in the battle-field hurled trees and rocks towards chariots and horses.
 The mighty Yupaksha chopped them off with a flood of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -946,8 +906,6 @@ demon; *prataapavaan* = and the powerful demon; *babhaaN^ja* = chopped off;
 
 Shonitaksha, the valiant and the powerful demon, chopped off the trees uplifted and
 hurled by Dvivida and Mainda with his mace in the midway itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -988,8 +946,6 @@ chop off vital parts of the enemies; *abhidudraava* = rushed; *vegitaH* = swiftl
 
 Prajangha, lifting a large sword, which can chop off vital parts of the enemies,
 rushed swiftly towards Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1034,8 +990,6 @@ rushed swiftly towards Angada.
 
 Then the mighty Angada, who was exceedingly strong, seeing him coming nearer, struck
 him with an Ashvakarna tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1051,8 +1005,6 @@ sword; *papaata* = fell; *kShitau* = on the ground.
 
 Angada struck, with his fist, the arm of Prajangha, holding the sword. By that blow,
 the sword fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1094,8 +1046,6 @@ a thunder-bolt.
 
 Seeing that sword looking like a pebble (in shape), which fell on the ground, the
 mighty Prajangha tightened his thunderbolt like fist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1143,8 +1093,6 @@ moment.
 
 When that Prajangha of great splendour struck Angaa, the excellent monkey with a
 great strength on his forehead, Angada shuddered for a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1185,8 +1133,6 @@ caused Prajangha's head to fall; *kaayaat* = off his trunk.
 
 That Angada of splendour and prowess, restoring his consciousness, struck with his
 fist and shattered Prajangha's head off his trunk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1235,8 +1181,6 @@ sword; *avaruhya* = after descending; *rathaat* = from his chariot.
 That Yupaksha, with tears filled in his eyes because of the death of his paternal
 uncle in battle, quickly took a sword as his arrows were exhausted and descended from his
 chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1277,8 +1221,6 @@ the strong Dvivida; *balata* = forcibly; *jagraaha* = caught hold of him.
 
 Seeing that Yupaksha rushing on him, Dvivida hurriedly struck Yupaksha on his chest
 and with a rage, forcibly caught hold of him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1325,8 +1267,6 @@ Shonitaksha; *mahaatejaaH* = of great splendour; *tataH* = then; *aajaghaana*
 
 Seeing his mighty brother being seized, Shonitaksha, of great splendour, then struck
 Dvivida on his chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1367,8 +1307,6 @@ was tottered; *jahaara* = (but) pulled off; *tasya gadaam* = his mace; *punaH*
 
 That mighty Dvivida, struck by Shonitaksha was tottered; but pulled off the
 platter's mace when lifted again on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1415,8 +1353,6 @@ on his chest; *talena* = with his palm.
 
 Meanwhile, Mainda came nearer to Dvivida and banged Yupaksha on his chest with his
 palm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1458,8 +1394,6 @@ pulling and overthrowing; *bhR^isham* = vehemently; *tiivram* = and severely.
 Those two demons, Shonitaksha and Yupaksha, who were full of violence, carried on a
 keen contest with the two monkeys in the battle field, by pulling and overthrowing them vehemently
 and severely.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1504,8 +1438,6 @@ crushed him.
 
 The valiant Dvivida, after splitting open shonitaksha's face with his claws, threw
 him down on the floor by his strength and crushed him down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1546,8 +1478,6 @@ monkeys; *abhisamkruddhaH* = was enraged; *piiDayaamaasa* = and pressed;
 
 Mainda, the foremost of monkeys, was enraged and pressed Yupaksha with his arms.
 Yupaksha fell down dead on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1596,8 +1526,6 @@ Kumbhakarna (was there).
 That army of demons, which was perturbed with their great warriors killed, then
 moved with its face turned towards the place where Kumbha (the son of Kumbhakarna) was carrying on
 battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1669,8 +1597,6 @@ Kumbha, restored to confidence, that army which was coming towards him with spee
 Then, seeing the army of demons whose chief-warriors were thrown down by the most powerful monkeys
 who could fulfill their aim, the powerful Kumbha then performed a great feat which was very
 difficult to do in a battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1715,8 +1641,6 @@ the bodies.
 
 That Kumbha, the foremost among the wielders of bow, taking his bow and fully
 composed, released serpentine arrows which can split open the bodies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1762,8 +1686,6 @@ Airavata (the elephant carrying Indra on its back).
 That excellent bow of his, fitted with an arrow, shone like a second bow of Indra
 (the rain-god), illumined by flashes of lightning and the splendour of Airavata (the elephant
 carrying Indra on its back).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1804,8 +1726,6 @@ carrying Indra on its back).
 
 By that arrow with a golden shaft and fastened with feathers, drawn upto his ear and
 discharged, he then struck Dvivida.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1853,8 +1773,6 @@ throbbing.
 
 Suddenly struck by that arrow, that excellent monkey possessing a splendour of Mount
 Trikuta, was perturbed, with his feet swaying to and fro and fell down throbbing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1902,8 +1820,6 @@ attack the demon).
 
 Beholding his brother defeated in that great battle, Mainda there on his part,
 taking a large rock, rushed with speed to attack the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1944,8 +1860,6 @@ prasannaiH* = with his five shining; *sharaiH* = arrows.
 
 While that mighty Mainda hurled that rock towards the demon, Kumbha broke that rock
 into pieces with his five shining arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -1987,8 +1901,6 @@ the brother of Dvivida.
 
 Stretching another arrow resembling a serpent and with a good pointed tip, Kumbha of
 a great splendour, struck it on the chest of Mainda the brother of Dvivida.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2032,8 +1944,6 @@ fell; *bhuvi* = on the ground; *muurchitaH* = unconscious.
 
 As that blow of Kumbha's arrow struck that Mainda, the monkey-chief, on his vital
 parts, he fell unconscious on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2080,8 +1990,6 @@ parts, he fell unconscious on the ground.
 
 Seeing both his mighty maternal uncles wounded, Angada rushed speedily towards
 Kumbha, who was standing with his bow uplifted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2129,8 +2037,6 @@ to him; *maataN^gamiva* = as (one would fierce) an elephant tomaraiH = with goad
 
 With five steel arrows and with three other sharp-edged arrows, Kumbha pierced that
 Angada advancing towards him, as on would pierce an elephant with goads.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2172,8 +2078,6 @@ sharp; *tiikShaNaiH* = and harsh.
 
 That valiant Kumbha pierced Angada with a multiple of sharp arrows, decked in gold,
 with edges which were harsh and sharp.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2216,8 +2120,6 @@ kampate* = was not shaken; *vavarShaha* = (He) showered; *shilapaadapavarShaaNi*
 
 Angada, the son of wind-god, though pierced all over the body with sharp arrows, was
 however not shaken. He showered a rain of rocks and trees on Kumbha's head.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2258,8 +2160,6 @@ Angada; *bibheda cha* = and broke off; *shilaaH punaH* = the rocks further.
 
 The glorious Kumbha the son of Kumbhakarna chopped off all those trees hurled by
 Angada and burst off the rocks further.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2307,8 +2207,6 @@ monkey-chief; *aapatantam* = rushing upon him; *kumbhaH* = Kumbha; *vivyaadha*
 
 Seeing Angada the monkey-chief rushing upon him, Kumbha pierced his brows with his
 brows with his arrows, as an elephant would be struck with flaming torches.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2332,8 +2230,6 @@ with blood; *paaNinaa* = with one hand; *parijagraaha* = he caught hold of;
 Since Angada's blood was oozing out, his eyes were covered with blood; Covering his
 eyes, dampened with blood, with one hand, he caught hold of a Sala tree nearby with another
 hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2350,8 +2246,6 @@ it.
 
 In the battle-field, propping that tree with branches and all, on his chest, holding
 it with his hand and bending a little, Angada uprooted it from the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2398,8 +2292,6 @@ vR^ikSham* = that tree; *mandarasannibham* = looking like Mount Mandara;
 
 While all the demons were looking on, Angada hurled that tree-which was tall like
 Indra's banner and resembled Mount Mandara in size.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2447,8 +2339,6 @@ which were capable of splitting asunder the body; *saH* = that; *aN^gadaH* = Ang
 
 That Kumbha chopped off that tree with seven sharp arrows which were capable of
 splitting asunder the body. That Angada was very much perturbed and fell down, swooning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2495,8 +2385,6 @@ unconquerable Angada; *patitam* = fallen down; *siidantam* = sinking into depres
 
 Seeing the unconquerable Angada fallen down and sinking into depression as though in
 an ocean, the monkey-chiefs informed the matter to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2538,8 +2426,6 @@ by Jambavan.
 
 Hearing of Angada being seized with anguish in that great combat, Rama sent out for
 help, leaders of monkeys, headed by Jambavan.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2580,8 +2466,6 @@ monkeys; *susamkruddhaaH* = were very much enraged; *abhipetuH* = and rushed;
 
 Hearing Rama's message, those excellent monkeys were very much enraged and quickly
 rushed towards Kumbha who was wielding a bow in his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2622,8 +2506,6 @@ their eyes reddened of fury; *abhyapatan* = rushed on.
 
 With an intent to defend Angada, the monkey-chiefs then holding trees and rocks in
 their hands and with their furious blood-red eyes, rushed on.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2664,8 +2546,6 @@ Kumbhakarna.
 
 The enraged Jambavan, Sushena and Vegadarshi, the monkey ran up towards Kumbha the
 son of Kumbhakarna to attack him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2712,8 +2592,6 @@ aavavaara* = covered (them) sharaugheNa = with a flood of arrows; *jalaashayam n
 
 Seeing those mighty monkey-chiefs coming nearer to him, Kumbha covered them with a
 flood of arrows, as one would obstruct the course of a stream by means of a rock.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2762,8 +2640,6 @@ shore.
 Reaching the range of his arrows, the great souled monkey-chiefs were unable even to
 look at him, much less advance towards him, any more than a great ocean would overstep its
 shore.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2822,8 +2698,6 @@ Seeing those troops of monkeys being tormented by a flood of arrows, Sugreeva th
 king of monkeys, keeping Angada his brother's son in the rear, rushed headlong towards Kumbha in
 the battle, as a swift lion would bounce upon an elephant walking along the slopes of a
 mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2870,8 +2744,6 @@ mahaakapiH* = that king of monkeys; *chikShepa* = hurled (them on Kumbha).
 
 Uprooting many large trees beginning with Ashvakarna and many kinds of trees,
 Sugreeva the king of monkeys hurled them on Kumbha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2919,8 +2791,6 @@ and which was difficult to be attacked.
 
 The illustrious Kumbha, the son of Kumbhakarna, with his sharp arrows, chopped off
 that down pour of trees, which was obscuring the sky and which was difficult to be assailed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -2978,8 +2848,6 @@ studded with iron spikes).
 The trees, chopped off with his sharp arrows by the brutal Kumbha, skilled in
 hitting his target, shone like terrific Shataghnis (stones or cylindrical pieces of wood studded
 with iron spikes).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3037,8 +2905,6 @@ shower of trees; *bhinnam* = chopped off; *kumbhena* = by Kumbha;
 
 Seeing that shower of trees chopped off by Kumbha, the mighty and illustrious
 Sugreeva of valour was not disturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3054,8 +2920,6 @@ of a rain-bow; *babhaN^ja* = broke it; *sahasaa* = all at once.
 
 Enduring those arrows being hit, Sugreeva snatched away Kumbha's bow, possessing the
 splendour of a rain-bow and broke it all at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3099,8 +2963,6 @@ broken.
 
 Thus bouncing swiftly and doing that most difficult task, the enraged Sugreeva spoke
 (as follows) to Kumbha, who was looking like an elephant with a broken tusk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3118,8 +2980,6 @@ vaa* = or even with Ravana.
 "O Kumbha, the elder brother of Nikumbha! Both your prowess and the swiftness of
 your arrow are wonderful. Both Ravana and you are equal in complaisance towards demons and the
 majesty too exists.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3165,8 +3025,6 @@ your stronger father.
 "O Kumbha, the compeer of Prahlada, Bali, Indra (the destroyer of the demon Vritra),
 Kubera (the god of riches) and Varuna (the god of water)! You alone are born with a likeness of
 your father (Kumbhakarna) who was exceedingly strong."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3210,8 +3068,6 @@ exhibit your prowess; *mahaabuddhe* = O; demon of a great intellect!; *pashya* =
 "The celestials cannot surpass even you alone, with a spike in hand, who can destroy
 the enemy with your large arms, as mental agonies cannot overwhelm the one who subdued his senses.
 Hence, exhibit your prowess, O demon of great intellect and see my exploits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3253,8 +3109,6 @@ by his prowess; *sahate* = is tolerating; *suraasuraan* = celestials and demons.
 "Because of the boon received by him, Ravana your uncle is able to attack the
 celestials and demons. But Kumbhakarna (your father) on his part is tolerating the celestials and
 demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3296,8 +3150,6 @@ demon-folk.
 
 "You are equal in archery to Indrajit and in prowess to Ravana. Hence, you are now
 the foremost in strength and heroism among the demon-folk."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3341,8 +3193,6 @@ occurred between Indra and Shambara; the demon.
 
 "Let the created beings see your great wonderful fight with me in the battle field
 today, as they saw that fight between Indra and Shambara, the demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3384,8 +3234,6 @@ prowess; *paatitaaH* = have been struck down.
 
 "You have performed an incomparable task. You have also shown your skill in missile
 weaponry. You have struck down these monkey-heroes possessing a terrific prowess."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3432,8 +3280,6 @@ my; *balam* = strength; *vishraantaH* = after taking some rest.
 
 "O valiant demon! Since you look tired after performing your martial duty, I did not
 kill you, with a fear of public censure. Identify my strength, after taking some rest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3480,8 +3326,6 @@ oblation.
 Kumbha was thus honoured with those insulting words of Sugreeva. Kumbha's splendour
 then enhanced, like the splendour of the sacrificial fire, when a melted butter is offered to it as
 an oblation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3531,8 +3375,6 @@ The reopen, Kumbha pressingly clasped Sugreeva in his arms. Then, they stood
 breathing heavily again and again as elephants in rut, having their bodies fastened against each
 other, rubbing one another and emitting a flame to blaze with smoke from their faces because of
 their fatigue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3573,8 +3415,6 @@ ocean; *chukShubhe* = became turbulent.
 
 The battle-ground sank under the trampling of their feet. With their waves whirled
 about, the ocean became turbulent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3621,8 +3461,6 @@ about, the ocean became turbulent.
 
 Then tossing up Kumbha, Sugreeva threw him down speedily into the ocean, showing him
 the bottom of the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3663,8 +3501,6 @@ samkaashaH* = equal to the height of Mount Vindhya; *visasarpa* = diffused;
 
 Due to the hurling down of Kumbha, the fully risen sea, reaching a height of as to
 that of Mount Vindhya, diffused on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3714,8 +3550,6 @@ muShTinaa = with his fist ; *vajrakalpena* = equal to a thunder-bolt.
 
 The enraged Kumbha, then jumping up and throwing down Sugreeva, struck him on his
 chest with his thunderbolt-like fist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3765,8 +3599,6 @@ was given a counter-strike; *asthimaN^Dale* = by the cage of bones.
 
 Sugreeva's armour was burst asunder. Even blood appeared oozing out of his chest.
 His cage of bones gave a counter-strike to that awfully forceful fist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3811,8 +3643,6 @@ Mount Meru; *vajra niShpeShasamjaataa* = born out of a stroke of lighting.
 
 Then, by the force of that fist shot forth there, a mighty flame resembling the fire
 that bursts up on Mount Meru, was born out of a stroke of lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3859,8 +3689,6 @@ Sugreeva; *vaanara shreShThah* = the foremost of monkeys; *abhihataH* = struck;
 
 Thus struck by Kumbha there, that mighty Sugreeva, the chief of monkeys, tightened
 his fist which appeared like a thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3876,8 +3704,6 @@ vikacha ravimaN^Dala varchasam* = which shone like the solar disc encircled by a
 
 The valiant Sugreeva forcefully descended his fist, which shone like the solar disc
 encircled by a thousand rays, on the breast of Kumbha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3918,8 +3744,6 @@ and then; *nipapaata* = fell down; *paavakaH iva* = like a fire; *gataarchiH*
 
 That Kumbha, very much hurt by that blow, was exhausted and then fell down, like
 fire whose flame has extinguished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -3961,8 +3785,6 @@ accidentally.
 
 Thus struck with Sugreeva's fist, that demon fell down suddenly, as the planet Mars,
 of splendid rays, would drop down from the sky accidentally.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 </details>
 
@@ -4010,8 +3832,6 @@ demons.
 When Kumbha was killed in battle by Sugreeva the chief of monkeys, possessing a
 terrific prowess, the earth with its mountains and forests trembled. Too much fear seized the
 demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

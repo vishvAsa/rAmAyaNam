@@ -17,8 +17,6 @@ Vali dismissing Tara's words, who is dissuading him to confront Rama, starts out
 A ghastly fight ensues in which Vali depletes Sugreeva's strength by the boon and Indra's chest-plate,
 and thus Sugreeva seeks Rama's help. Rama shoots his arrow which hits Vali on chest, but does not render
 him dead immediately. Thus that great mighty and unassailable Vali is brought down to ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ vacanam abraviit* = this, word, said.
 
 While Tara with a face that shines like the lord of stars is speaking thus, Vali dauntingly spoke to
 her with these words. [4-16-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ while raving; *kena api kaaraNena* = by which [by any,] even, by reason; *marSay
 
 "He is an younger brother and an adversary in particular, oh, pretty-faced Tara, can I by any reason
 tolerate him when he kept raving on frenetically, tell me. [4-16-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ of; *maraNaat atiricyate* = death, more than.
 
 "To those valiant ones who neither give ground nor get assailed in wars, oh, shyly, endurance of a overweening
 war-whoop is more than death. [4-16-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ feeble, voiced [dumbly]; *garjatam* = bawling; *sugriivasya* = of Sugreeva; *sam
 **अनुवादः**
 
 "I am incapable of withstanding that dumbly Sugreeva's bawling commotion desiring a brawling duel. [4-16-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -262,8 +252,6 @@ kariSyati* = sin, how, can do - I wonder.
 
 "Also, you need not bother about Raghava's doing some harm to me, as I wonder how a diligent man and
 knower of virtue can commit sin. [4-16-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ shown - expressed, truly; *mayi bhaktiH kR^itaa* = in me, devotion, owing to.
 
 "How do you follow me again, you return with all these females, truly you have expressed your friendliness
 owing to your devotion to me. [4-16-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -338,8 +324,6 @@ lives will not be released.
 
 "You may do away with your perplexity as I will retaliate Sugreeva on my going there only to drive him
 and his arrogance out, but without letting his lives loose. [4-16-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -390,8 +374,6 @@ muSTi prahaaraiH ca* = [ by caning] with trees, fist, fights, also; *piiDitaH pr
 
 "As he is firmed up for a combat, I will indeed have to effectuate what his desire is, by caning with
 trees and fistfights, by which roughed up he returns. [4-16-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -438,8 +420,6 @@ trees and fistfights, by which roughed up he returns. [4-16-8]
 
 "My nerve and pace of combat will be insufferable to that malign minded Sugreeva, oh, Tara, you have
 offered your helping suggestion and you have shown all your friendliness to me, it is enough. [4-16-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -488,8 +468,6 @@ raNe alam jitvaa nivartiSye* = in combat, easily, on defeating, I return [revert
 
 "I adjured you on my lives, return with your followers, and I shall return to you on easily defeating
 and returning that 'brother of mine." Said Vali to Tara. [4-16-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -530,8 +508,6 @@ and returning that 'brother of mine." Said Vali to Tara. [4-16-10]
 
 She that pleasant articulator and talented Tara then hugged and circumabulated Vali, suppressing her
 moaning, as an honour to the braver. [4-16-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -591,8 +567,6 @@ handing him his bow or sword, all with respective Vedic hymns. The weaponry of t
 in the custody of their wives, for they have to worship the weaponry that brings victory to their
 husbands. Seetha also gives Rama his bow and sword in Aranya Kanda, on his departure to forests from
 Suteekshna's hermitage as at 3-8-18.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -639,8 +613,6 @@ great, snake, like, hissing; *nagaryaa niryayau* = from city, came out.
 
 On Tara entering her own palace chambers along with other females, Vali emerged out of the city hissing
 like an infuriated great snake. [4-16-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -686,8 +658,6 @@ sighting, intending to; *sarvataH dR^iSTim caarayan* = everywhere, his sight, sp
 
 He that highly rancorous Vali suspired with high audacity and spread his sight everywhere intending
 to sight his enemy. [4-16-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -734,8 +704,6 @@ to sight his enemy. [4-16-14]
 
 Then that celebrated Vali saw Sugreeva who is in golden-ochre hue, whose girdle cloth is tightened for
 a fight, and who is with an air of self-confidence, blazing like fiery-fire. [4-16-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -782,8 +750,6 @@ available; *tam sugriivam dR^iSTvaa* = him, that Sugreeva, on seeing; *vaasaH ga
 
 That strong armed Vali who is highly provoked has also tightened his girdle cloth on seeing proximately
 available Sugreeva. [4-16-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -833,8 +799,6 @@ Sugreeva, only, towards, proceeded.
 
 He that formidable Vali strongly tightening his girdle-cloth too, and proceeded towards Sugreeva in
 a well timed manner uplifting fists to fight him off. [4-16-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -883,8 +847,6 @@ lifting at the ready; *hema maalinam vaalinam* = one with golden, pendent, at Va
 
 Even Sugreeva has come at that imprudent Vali with golden pendant, on tightening his fists, lifting
 them up at the ready, and aiming them well at Vali. [4-16-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -931,8 +893,6 @@ them up at the ready, and aiming them well at Vali. [4-16-18]
 
 Vali spoke this word to that Sugreeva who is swooping down on him, whose eyes are reddened in fury,
 and who is an expert and expeditious in fighting. [4-16-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -982,8 +942,6 @@ speedily, while released [pitched]; *te praaNaan aadaaya* = you, lives, on takin
 
 "Properly clenching fingers this great fist of mine is firmly clenched, and it will unclench only on
 taking your lives when I pitch this on you at full speed." So said Vali threateningly to Sugreeva. [4-16-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1030,8 +988,6 @@ praaNaan haran* = your, lives, to take; *muurdhani patatu* = on forehead, shall 
 
 Thus said, Sugreeva with high dudgeon said, "this fist of mine shall fall on your forehead plundering
 your lives." [4-16-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1078,8 +1034,6 @@ torrents; *parvataH iva* = mountain, like; *abhavat* = he became.
 
 Coming near instantaneously Vali hit him, whereby Sugreeva is enraged and became like a mountain streaming
 blood in its torrents. [4-16-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1126,8 +1080,6 @@ blood in its torrents. [4-16-22]
 
 But Sugreeva unhesitatingly uprooted a saala tree with his force and thrashed the limbs of Vali as with
 the thunderbolt thrashing a great mountain. [4-16-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1174,8 +1126,6 @@ filled with, brimming with; *sa saarthaa nauH iva* = with, merchants, [tossing] 
 
 But Vali when thwacked with saala tree had staggered and looked like a tossing ship in an ocean filled
 with heavy weight of merchandise and brimming with merchants, but on the brink of wrecking. [4-16-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1230,8 +1180,6 @@ Those two, Vali and Sugreeva, with their sensational energy, triumphing zeal, fr
 as good as the Divine Eagle Garuda, vigilance in exploring perilous body parts of one another, ravagement
 of their own enemies fought frighteningly, like the sun and moon in the sky, which is inconceivable.
 [4-16-25, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1279,8 +1227,6 @@ of their own enemies fought frighteningly, like the sun and moon in the sky, whi
 
 But Vali being the possessor of might and vigour progressed and though greatly mighty is son of sun,
 Sugreeva, regressed. [4-16-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1327,8 +1273,6 @@ Sugreeva, regressed. [4-16-26b, 27a]
 
 Sugreeva became retardant in aggression when Vali routed his pride and then he exasperatedly started
 searching for Raghava to counteract Vali. [4-16-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1382,8 +1326,6 @@ Vritra, Indra, like [as has happened]; *punaH punaH* = again, again; *ghoram yud
 Among those two there happened a deadly fight time and again using trees with branches, peaks of mountains,
 their own nails that are similar to the razor-sharp edges of thunderbolts, and with fists, knees, feet,
 and arms, like the fight that once chanced between demon Vritra and Indra. [4-16-28b, 29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1430,8 +1372,6 @@ on fighting.
 
 Those forest moving vanara-s that are soaked in blood have gone on clashing, threatening each other,
 like two clouds clashing uproariously. [4-16-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1478,8 +1418,6 @@ like two clouds clashing uproariously. [4-16-30]
 
 Raghava has then seen the lord of monkeys Sugreeva who is repeatedly eyeing all sides for help and who
 is even deteriorating in his enterprise. [4-16-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1523,8 +1461,6 @@ on seeing; *vaalinaH vadha kaankshayaa* = for Vali's, elimination, aiming at; *s
 
 On seeing the lord of monkeys Sugreeva in a forlornness, then the refulgent and fearless Rama scanned
 for an arrow aiming to eliminate Vali. [4-16-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1571,8 +1507,6 @@ iva* = Terminator, Time, disc, like [bow]; *puurayaamaasa tat caapam* = started 
 
 Then on tautening a venomous serpent like arrow in the bow, Rama started to draw out bowstring, whereby
 that bow attained a similitude with the Time-disc of the Terminator. [4-16-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1622,8 +1556,6 @@ leave alone small birds]; *mR^igaaH ca eva* = animals, also, thus; *yuga anta mo
 
 At the blast of bowstring the lordly birds and animals are panicked, like those that will be startled
 by the approach of ear ending, and they all fled. [4-16-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1672,8 +1604,6 @@ sound of - boom of thunderclap; *pradiipta ashani sannibhaH* = flashing, lightni
 
 The arrow released by Raghava that has the boom of thunderbolt's thunderclap and the flashes of a lightning
 fell on the chest of Vali. [4-16-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1719,8 +1649,6 @@ abhihataH* = by fleetness, hit; *mahii tale nipapaata* = on earth's, plane, fell
 
 Hit by the fleetness of that arrow then that highly magnificent and intrepid lord of monkeys Vali fell
 onto the plane of earth. [4-16-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1781,8 +1709,6 @@ This* indra dhvaja ustava*, festival of Indra's flagstaff will be undertaken aft
 of year, usually after summer in order to appease Indra to cause rains. On full-moon day in Ashvayuja
 month [October-November] this will be performed and after the ritual the flag / flagstaff will be thrown
 to ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1842,8 +1768,6 @@ antaka upamam* = era, ender, in simile; *kaancana ruupya bhuuSitam* = in gold, s
 That best one among men Rama released a blazing and enemy subjugating arrow which in simile is like
 an Epoch-ender at the end of era, and that best arrow decorated in gold and silver looked like the glance
 from the Third-Eye of Rudra, emitting fire with smoke. [4-16-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 </details>
 
@@ -1911,8 +1835,6 @@ Indra, but which is altogether dislodged and abandoned on the ground. [4-16-39]
 
 Ashoka tree by itself stands high and stout with its blood red flowers, and by virtue of its growing
 on high of mountains it is more gloriously standing till now, like Vali, but that is felled too suddenly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Rama laments while searching for Seetha and reminiscing over his past, which was
 Seetha. Rama and Lakshmana search for her at riversides of Godavari but she is unseen there. Though
 Lakshmana continuously encourages Rama for a thorough search without submitting to mere anguish, Rama
 sinks into his own anguish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ drifted into.
 
 That prince Rama whom agony and anguish are distressing has become anxious in his mien, and he again
 drifted into a dire desperation while despairing his brother Lakshmana. [3-63-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -135,8 +131,6 @@ seemly; *vaakyam uvaaca* = sentence, spoke.
 Rama who is sunken in a chasmal sorrow spoke this sentence while wailing sorrowfully, suspiring severely
 and scorchingly, and which sentence is seemly to his sensitivity, to Lakshmana who is already under
 the sway of sorrow. [3-63-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -191,8 +185,6 @@ woe; *paramparaayaa* = in seriation; *hR^idayam* = heart; *manaH ca* = mind, eve
 
 "I am second to none among the blameworthy wrongdoers on this earth, thus I deem, and indeed woe followed
 by woe are getting at me in seriation to burst my heart and mind... [3-63-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -255,8 +247,6 @@ As with the accrual of merit by good deeds, sin also accrues with impious or sin
 kR^ita paapa anuruupam phalam bhavati iti arthaH - strii parvaaNi - nuunam vyapakR^itam puurveShu janmaasu
 | yena maam duHkhabhaageShu dhaataa karmasu yuktkavaan - mahaa bhaarata - dk* and this ripens and
 bechances at a later time in the shape of misfortune.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -311,8 +301,6 @@ that are thought over; *me shoka vegam aapuurayanti* = my; agony, haste of, [the
 "I am deprived of the kingdom, departed from my own people, mainly Seetha, my father departed and I
 am detached from my mother, and Lakshmana, when all these setbacks are very deeply thought over they
 are replenishing the haste of my agony... [3-63-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -367,8 +355,6 @@ agniH iva* = by firewood [fuel,] in a flash, flaring up, fire, as with; *puna ap
 "All this sadness of mine has silenced physically and there is some peace on coming to these desolate
 forests, in association of Seetha, but with the dissociation of Seetha misery is again upshot, as with
 fire which flares up in a flash when fuel is added... [3-63-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -424,8 +410,6 @@ tune [untunefully]; *vikranditavati* = she [must have] shouted; *nuunam* = it is
 "My noblewoman might be abducted by a demon, and on reaching the sky that lady who converses with a
 sweet voice might have wept a lot fearfully, and it is definite that she must have shouted a lot, untunefully...
 [3-63-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -481,8 +465,6 @@ blood, mud of, bedaubed; *na abhibhaata* = not, shining forth.
 "Those two roundish bosoms of my ladylove which always deserved the application of pleasantly looking
 red-sandalwood's paste might definitely be unshiny, as they might be bedaubed with muddy blood when
 they are extricated from her body for devouring. [3-63-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -543,8 +525,6 @@ in the mouth of [Rahu,] moon, as with; *na bhraajate nuunam* = not, shiny, defin
 with a hairdo with hair lumped together and plaited, such as her visage is, it must have become unshiny
 on her going into the repression of demon, as with an unshiny moon when repressed in the mouth of eclipsing
 planet Raahu, it is definite... [3-63-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -604,8 +584,6 @@ eaters [thirsty,] demons; *shuunye* = in a secluded [place]; *bhitvaa* = on mang
 "The contours of the neck of that strait-laced ladylove of mine are always worthy for necklaces and
 chain-wears. The bloodthirsty demons would have indeed mangled that neck in a secluded place and they
 might have drunk her blood, it is definite... [3-63-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -662,8 +640,6 @@ like; *vi naadam* = rough, sound [discordantly]; *muktavatii* = released [shriek
 "While I was away from her in this uninhibited forest demons would have forcibly hauled her up when
 they are abducting that lady with broad-bright eyes, and she would have discordantly shrieked out like
 a piteous she-dove, it is definite... [3-63-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -754,8 +730,6 @@ Linguistic Study, Pt. Satya Vrat. And to supplement Panditji's above saying, eve
 is evident and Oxford in saying meaning for proximity, says 'sat in close proximity to them' where
 'proximity' itself is one *upa* and 'close' is another *upa...* Thus tautology is
 same everywhere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -808,8 +782,6 @@ I think; *saa ekaakinii* = she, lonely; *kadaacit na yaati hi* = anytime, not, g
 
 "Among rivers this Godavari is the best and it is an all the time cherished river to my ladylove, and
 I think she would have gone thereunto. But, at anytime she did not go there, singly... [3-63-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -863,8 +835,6 @@ gacChati hi* = for lotuses, not, she goes, indeed.
 
 "Or, that lotus-faced, lotus-petal eyed Seetha has gone straight to bring lotuses! Nay, that idea itself
 is incongruous, for she never goes to get lotuses, indeed without me... [3-63-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -924,8 +894,6 @@ much, scared - to go alone.
 "But has she really gone to this stand of thicket which is with flowered trees and with birds of divers
 kind! Nay, that thought also is incongruent, because she as a timid one is much scared of solitude...
 [3-63-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -981,8 +949,6 @@ you tell.
 "Oh, Sun, you are the knower of performed and unperformed deeds in the world, a wittnesser of good and
 bad deeds in the world, tell me, who am woefully writhing, to where my ladylove strolled, or is she
 stolen... [3-63-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -1045,8 +1011,6 @@ which [whichsoever]; *nityam* = at all times [whensoever]; *te* = to you; *na vi
 and whichsoever it might be, and whencesoever it might exist, that cannot possibly be unknown to you.
 Hence, tell me of the lady from noble heritage... is she stolen, or slain, or strayed her steps..."
 Thus Rama begged of the Eternals for locating Seetha. [3-63-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -1101,8 +1065,6 @@ diina sattvaH* = not, dispirited, in courage; *nyaaye sthitaH* = in justice, sta
 
 To such a Rama whose physique is routed by his anguish in this way and who is insensately bewailing
 in that way, Soumitri whose courage is un-dispirited gave a justifiable and timely suggestion. [3-63-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -1173,8 +1135,6 @@ tasmaat shokam parityajya shreyase prayated budhaH | praharSham abhimaanam ca ci
 GYaatvaa sthiro bhuutvaa jahi ariin dhairyam aapnuhi | dk* Thus Vyaasa advises
 Dharmaraja to have fortitude and courage when he was sinking under the grief for the merciless
 killing of lonesome Abhimanyu, the son of Arjuna, in Maha Bharata war.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 </details>
 
@@ -1228,8 +1188,6 @@ also; *mahat duHkham abhyupaagamat* = great [inexplicable,] anguish, he encounte
 
 When Soumitri of towering bravery is speaking this way, Rama, the enhancer of Raghu's lineage, gave
 no heed to it, and since he castaway his fortitude he again encountered an inexplicable anguish. [3-63-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga63/aranyasans63.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

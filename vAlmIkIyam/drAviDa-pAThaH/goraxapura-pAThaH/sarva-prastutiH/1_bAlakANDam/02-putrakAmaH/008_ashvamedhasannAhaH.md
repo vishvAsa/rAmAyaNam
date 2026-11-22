@@ -16,8 +16,6 @@ title_english = "008 King dasharatha proposes Vedic ritual for progeny"
 Dasharatha decides to perform an elaborate Vedic ritual, called Aswamedha yajna, Horse Ritual, to beget
 children. He being a considerate king in taking conscience of the courtiers, he discusses this aspect with the Vedic
 scholars and ministers of his court, beforehand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ scholars and ministers of his court, beforehand.
 
 To him, to such an effectual and virtuously great-souled King Dasharatha, a dynasty-enriching son is
 not begotten though his heart is burning to beget children. [1-8-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -131,8 +127,6 @@ _________________
 
 To that anguished great-soul, a thought occurred this way, "To beget sons, why should not I perform
 Horse ritual...[and thus appease the gods in order to beget worthy sons..."] [1-8-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -218,8 +212,6 @@ _________________
 That intellectual and a conscientious king having resolved with all of his sagacious ministers that such
 a Vedic ritual is performable, then addressed best ne among ministers, namely Sumantra, "fetch all my teachers and
 clerics, quickly.." [1-8-3,4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -300,8 +292,6 @@ clerics, quickly.." [1-8-3,4]
 Then Sumantra gone quickly, for he in quickness is a dauntless one, and fetched all of the clerics like
 Suyajna, Vaama Deva, Jaabala, Kashyapa, and even Sage Vashishta, and also those other eminent Brahman that are Vedic
 scholars. [1-8-5,6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -317,8 +307,6 @@ scholars. [1-8-5,6]
 
 Then on adoring them virtuous King Dasharatha spoke this impressible sentence that included
 justification and meaning. [1-8-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -359,8 +347,6 @@ justification and meaning. [1-8-7]
 
 "My mind is tumultuous without quietude for I have no sons... for that reason, I wish perform Aswamedha,
 Vedic Horse Ritual... this is my thinking... [1-8-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -414,8 +400,6 @@ Vedic Horse Ritual... this is my thinking... [1-8-8]
 "Therefore, I contemplate to perform that ritual as enshrined in the scriptures and as a rite-oriented
 one as well... let this contemplation of mine be well thought of... and as to how my desire to beget sons will be
 fulfilled... [1-8-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -463,8 +447,6 @@ fulfilled... [1-8-9]
 Then the Brahman scholars along with Sage Vashishta and all other important personalities in their turn
 have blessed and honoured him, saying that "splendid is this idea..." thus, for that which is voiced by the king.
 [1-8-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -511,8 +493,6 @@ Dasharatha; *vacaH* = these words; *uucuH ca* = they said, also;
 
 All of them becoming happy have also said to King Dasharatha, "let the paraphernalia be provided, and
 your ritual-horse be released... [1-8-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -531,8 +511,6 @@ itself to beget sons.
 "Oh, king, by all means you will beget sons as you desired, since you, to whom an upright thinking has
 suggested itself... let the ritual ground be arranged on the northern banks of River Sarayu..." So said the scholars.
 [1-8-12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -600,8 +578,6 @@ vacanaat* = now, on my, teacher's, advise;
 " Then King Dasharatha is gladdened on hearing the sayings of those Brahmans. And with happiness
 lurching on his eyes the king spoke to the ministers, "As advised by my Vedic teachers let the paraphernalia be
 procured... [1-8-13b, 14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -618,8 +594,6 @@ procured... [1-8-13b, 14]
 
 "On the northern banks of River Sarayu the ritual ground be arranged... and the Ritual-Horse be released
 monitored by capable warriors, along with the religious teachers..." So said the king. [1-8-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -644,8 +618,6 @@ monitored by capable warriors, along with the religious teachers..." So said the
 "Let peace invocations be prevailing and prospering, as ordained in the scriptures and tradition...if it
 is possible for the correct performance to obtain results of this ritual, and if it is possible to conduct this ritual
 without any difficult faults during its performance, then all the kings on earth would have performed it... [1-8-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -661,8 +633,6 @@ Brahmans [who became] Brahma-demons; *Chidram hi mR^igayante* = they hunt for fa
 
 "Scholarly Brahma-demons will be hunting for the faults alone in the course of this ritual... should the
 procedure of this ritual be depraved of its set rules, the performer gets ruined... [1-8-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -725,8 +695,6 @@ as such demons they, with their inherent jealousy and ire will always be hunting
 performances. If they cannot find one, they cause certain hindrances in that performance, so that the performer may
 commit mistakes and get ruined in the present life span and then take rebirth as Brahma-demon. Hence, every
 Vedic-ritual performer shall be vigilant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -774,8 +742,6 @@ vaakyam* = the best king's, that, word; *nishamya* = on listening;
 
 On listening the words of the king all the ministers adored and assured him saying, 'It will be
 conducted faultlessly as has been conducted earlier...' [1-8-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -816,8 +782,6 @@ conducted faultlessly as has been conducted earlier...' [1-8-19]
 
 On hearing those words of that best king, and what that is spoken earlier, then the virtue knowing
 Brahman scholars hailing that best king took leave of him and went away as they have come. [1-8-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -858,8 +822,6 @@ Brahman scholars hailing that best king took leave of him and went away as they 
 
 Then on sending off those Brahman scholars, the king spoke this way to the ministers... "As advised by
 the Vedic scholars this ritual shall be conducted, procedurally..." [1-8-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -900,8 +862,6 @@ the Vedic scholars this ritual shall be conducted, procedurally..." [1-8-21]
 
 Tha tigerly-king and highly intellectual Dasharatha, on saying thus to his ministers who are still in
 his audience, sent away those ministers also, and he entered his palace. [1-8-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -943,8 +903,6 @@ his audience, sent away those ministers also, and he entered his palace. [1-8-22
 
 And on approaching his wives, that best king's heartily dear ones, he said to them, " I am performing a
 Vedic ritual for the reason of begetting sons, and you all shall enter a vow..." [1-8-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 </details>
 
@@ -986,8 +944,6 @@ Vedic ritual for the reason of begetting sons, and you all shall enter a vow..."
 
 On hearing those words of the king, the lustrous countenances of the queens have become more gleaming,
 like the blooming lotuses after the clearance of dew-fall. [1-8-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

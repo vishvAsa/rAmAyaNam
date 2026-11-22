@@ -19,8 +19,6 @@ acquired any merit to reach heaven. Vishvamitra enraged at this starts to replic
 of stars and galaxies, and he proceeds to clone even gods. On seeing this chaotic situation, Indra with
 gods yield to the pertinence of Vishvamitra and allow that which Vishvamitra replicated to survive and
 also allow Trishanku to inhibit that pseudo Creation, but with an upside down posture.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ also allow Trishanku to inhibit that pseudo Creation, but with an upside down po
 "The great-resplendent Vishvamitra on knowing through his ascetic power about the ruination of the sons
 of Vashishta, along with Mahodaya, proclaimed this amidst the observance of sages." Sage Shataananda
 continued his narration of Trishanku's legend. [1-60-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ gataH* = he obtained my shelter.
 'This legatee of Ikshvaku dynasty is well-know as Trishanku, a righteous and benevolent one. He came
 under my shelter as he wishes to win over the heaven of gods with his own mortal body.' So Vishvamitra
 started to speak to sages. [1-60-2, 3b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ that way; *bhavadbhiH* = by you all; *mayaa saha* = along with me; *yaj~naH prav
 
 'You all scholars have to conduct Vedic-ritual along with in such a way as to how Trishnaku reaches
 the heaven of gods.' Thus Vishvamitra advised the conductors of the ritual. [1-60-3b, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -208,8 +200,6 @@ on listening; *sahasaa* = quickly; *dharmasamhitam* = to righteousness, agreeabl
 On listening the words of Vishvamitra all those great-sages have come together and quickly discussed
 among themselves about what is agreeable to righteousness, as they are the knowers of scruples of conducting
 Vedic-rituals, but such a ritual is desultory. [1-60-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -259,8 +249,6 @@ agnikalpaH* = similar to fire - Vishvamitra; *bhagavaan* = godly [reverential, a
 Whatever Vishvamitra says let it be translated entirely and exhaustively into deeds called ritual.
 This Vishvamitra is the legatee of Sage Kushi, and indeed he is a saint similar to Ritual-fire besides
 being an extremely furious person. Otherwise this awesome sage gives curse, rancorously. [1-60-5b, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -278,8 +266,6 @@ be conducted; *tataH sarve samadhitiSThata* = therefore, all, well preside over.
 'As such, let the Vedic-ritual be conducted intending and enabling Trishanku, the legatee of Ikshvaku,
 to go to heaven by the ritualist prowess of Vishvamitra, therefor you conduct yourselves and you all
 preside over it.' Thus, the officiators conceded among themselves. [1-60-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -327,8 +313,6 @@ vishvaamitraH* = great-resplendent in Vedic-ritual, Vishvamitra [himself]; *yaaj
 
 Concluding thus those great-sages undertook concerned works of that Vedic-ritual and the great-resplendent
 Vishvamitra himself became its principal officiator. [1-60-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -372,8 +356,6 @@ methodically carried out all ceremonies.
 Those hymnodists who are the experts in hymnodies have scripturally carried out all ceremonies
 in a methodical way with inviolable hymnal methods, and as per Kalpa treatise, that lays down the rules
 for conducting such rituals. [1-60-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -416,8 +398,6 @@ cakaara* = made welcome.
 
 After a long time that highly ascetical Vishvamitra welcomed all the gods to receive their allotted
 oblations in that ritual. [1-60-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -464,8 +444,6 @@ fury; *trishankum idam abraviit* = said this to Trishanku.
 Then all of the gods who are invited to partake of the oblation have not come forward to receive their
 allotments, and then the great-saint Vishvamitra, obsessive with fury, furiously lifted up a wooden-oblational-scoop,
 and said this to Trishanku. [1-60-11b, 12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -517,8 +495,6 @@ Oh, ruler of people, now you shall see the potency of my ascesis which I persona
 as I am I shall lead you forth to haven with your own body just by my personal capability. Oh, king
 of people, now you will go to heaven with your own mortal body, which is otherwise unattainable. [1-60-13,
 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -574,8 +550,6 @@ to heaven with own body.
 'May it be a little, but there is some fruit of my ascesis, isn't it! Oh, king, you will journey to
 heaven with your own body owing to that prowess of my ascesis.' Vishvamitra said so to Trishanku. [1-60-14b,
 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -616,8 +590,6 @@ heaven with your own body owing to that prowess of my ascesis.' Vishvamitra said
 
 "Once the sage Vishvamitra said those words, oh, Rama of Kakutstha, that king Trishanku soared to heaven
 with his mortal body, before the very eyes of other sages." Sage Shataananda continued. [1-60-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -661,8 +633,6 @@ sentence.
 
 On seeing Trishanku's entry into the realm of heaven, Indra, the subjugator of demon Paaka, spoke this
 sentence together with all the multitudes of gods. [1-60-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -712,8 +682,6 @@ head [head inversed]; *bhuumim pata* = you fall down on earth.
 Oh, Trishanku, you have not yet made heaven as your haunt, hence retrace your steps. As you are thrashed
 by the damning of your mentor Vashishta, you inane human, again fall down on earth, but with your head
 inversed. [1-60-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -757,8 +725,6 @@ back - fell down from sky.
 
 When Mahendra said so, Trishanku loudly exclaiming at the ascetically wealthy Vishvamitra saying, 'save
 me, save me,' and fell down from heaven. [1-60-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -799,8 +765,6 @@ thus; *abraviit ca* = said, also.
 
 On hearing the exclamatory sentence of Trishanku who is shouting it loudly, Vishvamitra assumed an
 abnormal anger and also said, 'wait... wait...' [1-60-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -874,8 +838,6 @@ opposition to the natural creation adopted by Almighty. From this point onwards,
 or synthetically created, cloned, or replicated from natural item acquired the name of *vishvaamitra-
 sR^iSTi* 'Vishvamitra's cloning,' including the present day hybrids. Whether this Ursa Major like
 constellation is still available in southern hemisphere - is a point left to astronomers, or stargazers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -925,8 +887,6 @@ On replicating the stereotyped stocks of other galaxies and stars, and while fur
 him Vishvamitra said, 'I will now clone an alternative Indra, or let that realm created by me remain
 without any Indra,' and when he is about to proceed to clone even gods in his wrath, the gods are startled.
 [1-60-22b, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -966,8 +926,6 @@ to Vishvamitra; *saanunayam vacaH* = with words of placatory; *uucuH* = addresse
 
 The gods are highly startled at Vishvamitra's creation, and they along with demons and with observances
 of hermits addressed the great-souled Vishvamitra with placatory words. [1-60-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -1009,8 +967,6 @@ eva* = not, eligible, at all.
 'Oh great-fortunate Vishvamitra, this king Trishnaku is damned by his mentor, hence oh, ascetically
 wealthy sage, he is not at all eligible to go to heaven with his mortal body.' So said gods to Vishvamitra.
 [1-60-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -1053,8 +1009,6 @@ gods; *sumahat vaakyam abraviit* = spoke highly laudable sentence.
 
 On hearing that sentence of those gods, the eminent saint Kaushika spoke this highly laudable sentence
 to all of the gods. [1-60-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -1095,8 +1049,6 @@ to all of the gods. [1-60-26]
 
 Let safety betide you all. I have promised to this king Trishanku that he will ascend to heaven with
 his mortal body, and I am not interested to make it untrue. [1-60-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -1153,8 +1105,6 @@ be there; *suraaH sarve tat anuj~naatum arhatha* = all gods, that, apt of you to
 'Let there be eternal heaven to Trishanku with his mortal body. Next, as along as the worlds remain,
 let all of these stars and galaxies I have created also remain eternally in their places as my creation.
 It will be apt of you all gods to accede to this.' So said Vishvamitra to gods. [1-60-28, 29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -1234,8 +1184,6 @@ Safe you be! Let all the created objects prevail in their respective places. Tho
 stars you have created will remain in firmament, but outside the path of stelliform of Cosmic Person.
 Trishanku will also remain in the circle of stars you created, but upside-down, for Indra's indict cannot
 be annulled, and he will be gleaming like a star and similar to any celestial. [1-60-30, 31, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1253,8 +1201,6 @@ ends; *kiirtimantam ca* = acclaimed one, also - with your tour de force; *nR^ipa
 will suppliantly circumambulate this best king Trishanku, who has achieved his ends and who has become
 an acclaimed one with your tour de force.' So said gods to Vishvamitra in deterring his further cloning
 of a simulative Universe. [1-60-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -1301,8 +1247,6 @@ on his part; *R^iSimadhye* = among sages; *devataaH* = to gods; *baaDham*
 
 Even the benign-souled Vishvamitra, when reverenced by all gods, that great-resplendent sage without
 stirring himself from among the sages said to all gods, 'Agreed!' [1-60-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 </details>
 
@@ -1346,8 +1290,6 @@ all, went away as they have come.
 
 Oh, best one among men Rama, later at the end of that ritual great-souled gods and ascetically wealthy
 sages went away as they have come. Thus Sage Shataananda continued the narration of the legend. [1-60-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

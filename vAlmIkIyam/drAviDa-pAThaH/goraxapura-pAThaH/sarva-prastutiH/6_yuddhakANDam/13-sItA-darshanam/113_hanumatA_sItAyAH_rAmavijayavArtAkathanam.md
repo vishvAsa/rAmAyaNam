@@ -19,8 +19,6 @@ Rama instructs Lakshmana to arrange for the installation of Vibhishana on the th
 Lakshmana arranges to get sea-water from some monkey-chiefs and sprinkles it on Vibhishana, to
 install him as the King of Lanka, in the presence of the demons there. Then, Rama sends his message
 to Seetha through Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ received; *nishaacharaiH* = by the demons.
 
 Thus directed by Rama, Hanuma the son of wind-god, entered deeply into the City of
 Lanka, being respectfully received by the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -193,8 +189,6 @@ Lanka, being respectfully received by the demons.
 
 Even after seeing the mighty Hanuma who came there, Seetha kept herself silent.
 Then, seeing and recollecting him, she became rejoiced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -238,8 +232,6 @@ entire; *vachanam* = message; *raamasya* = of Rama.
 
 Seeing her cool face, Hanuma the excellent monkey began to narrate the entire
 message of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -286,8 +278,6 @@ sahitaH* = and collectively with the army of monkeys; *kushalii* = is well.
 
 "O Seetha! Rama is well, together with Sugreeva and Lakshmana, along with Vibhishana
 as his supporter and collectively with the army of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -339,8 +329,6 @@ saha* = along with the monkeys; *viiryavaan raavaNaH* = the valiant Ravana;
 "O the divine lady! Having destroyed his enemy, Rama the annihilator of his
 adversaries, having accomplished his object, is informing you about his welfare. Rama and
 Lakshmana, with the support of Vibhishana and the monkeys, killed the valiant Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -389,8 +377,6 @@ prabhaavaat* = because of your power; *ayam* = this; *mahaan* = great;
 "O the divine lady! I am telling a pleasant news and again eulogizing you. O Seetha,
 the knower of righteousness! Rama accomplished this great victory in the battle, because of your
 power. Be free from your grief and be comfortable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -441,8 +427,6 @@ been redeemed.
 "Ravana, the enemy was killed. Even the Lanka has been subdued. With a firm
 determination to win you back, by me who have had no sleep, a bridge has been constructed across
 the great ocean and this vow (of winning you back) has been fulfilled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -487,8 +471,6 @@ the great ocean and this vow (of winning you back) has been fulfilled."
 
 "You ought not to have any fear, living as you do in Ravana's abode. This kingdom of
 Lanka has now been placed indeed under the dominion ship of Vibhishana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -505,8 +487,6 @@ rejoice.
 
 "That is why, console yourself complacently. You are staying in your own house. This
 Vibhishana too is coming to you with a rejoice, as he is so eager to see you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ Vibhishana too is coming to you with a rejoice, as he is so eager to see you."
 
 Hearing these words, that Seetha the divine lady, whose face resembled the moon,
 could not speak, tongue-tied as she was with a thrill of delight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -596,8 +574,6 @@ speak; *maam* = to me?
 
 Thereupon, Hanuma spoke to Seetha, who was not making any answer (as follows): "O
 divine lady! What are you reflecting upon? Why don't you speak to me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -641,8 +617,6 @@ a righteous path; *paramapriitaa* = was very much delighted; *abraviit* = and sp
 
 Thus asked by Hanuma, Seetha, who was ever established in a righteous path, was very
 much delighted and spoke (as follows) in a voice choked with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -689,8 +663,6 @@ praharShavasham* = overpowered as I was by extreme joy.
 
 "Hearing these pleasant tidings about the victory of my husband, I became speechless
 for a while, overpowered as I was, by extreme joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -742,8 +714,6 @@ brain.
 "O, Hanuman! I indeed do not see any appropriate thing here, which pleases you in
 return, to offer you, who have announced these tidings pleasant to me, even after enervating my
 brain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -794,8 +764,6 @@ yat* = and on bestowing which; *tava* = on you; *sukham* = happiness;
 
 "Nor, do I perceive anything worthy for you on this earth for you act of conveying
 this agreeable news to me and on bestowing which on you, happiness may come to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -842,8 +810,6 @@ the three worlds.
 
 "Neither silver, nor gold nor even diamonds nor the sovereignty of the three worlds,
 can be worthy of this message."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -894,8 +860,6 @@ follows):
 
 Hearing the words of Seetha, Hanuma standing with his face turned towards Seetha and
 with his hands joined in salutation, joyfully replied as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -946,8 +910,6 @@ _________________
 
 "O faultless lady, interested in things agreeable and beneficial to husband and
 wishing for his victory! You alone deserve to speak such words filled with affection."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -991,8 +953,6 @@ diamonds; *devaraajyaat* = or the sovereignty over the gods.
 
 "O gentle lady! These words of yours, endowed with preciousness and affection, are
 better than various kinds of collection of diamonds or the sovereignty over the celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1041,8 +1001,6 @@ qualities; *praaptaaH* = have been obtained; *mayaa* = by me.
 "I see Rama victorious and happy, he having killed the enemies and having obtained
 victory. That is to say, I have attained the blessing like the sovereignty over the celestials and
 other good qualities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1083,8 +1041,6 @@ following most auspicious words; *pavanaatmajam* = to Hanuma.
 
 Hearing those words of Hanuma, Seetha the daughter of Janaka thereupon spoke the
 following auspicious words to Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1138,8 +1094,6 @@ the faculty of comprehension and 8) realization of truth: These are the eight ch
 good intelligence, according to Neetisara Kamandaka, often quoted by the commentators in Sanskrit:
 shushruShaa shravaNaM chaiva | ghruhaNaM dhaaraNaM tathaa | uuhoapehoarthavijJnaanaM |
 tattvajJNaanaM cha dhiiguNaaH ||
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1171,8 +1125,6 @@ permission from Vibhishana, getting approval from him and entering Ashoka grove 
 prevailing regulation, saw at the foot of a tree, Seetha, who was bereft of freshness, looking
 joylessly like a frightened cow and surrounded with female-demons. Approaching her humbly by
 offering salutation to her in bending his head, he stood there silently.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 
 </details>
@@ -1232,8 +1184,6 @@ superlative skill (in action); *tejaH* = spirit; *kShamaa* = forbearance;
 qualities are there in you along (as follows, along with others): strength, valour, knowledge of
 scriptures, vigour, prowess, superlative skill (in action), spirit, forbearance, firmness,
 stability and re is no humility. There is no doubt about it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1281,8 +1231,6 @@ in front; *siitaayaaH* = of Seetha; *asambhraantaH* = free from flurry;
 
 Thereafter, having joined his hands together in salutation, standing in front of
 Seetha in humility and free from flurry, Hanuma again spoke to Seetha (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1326,8 +1274,6 @@ khalu* = indeed the female demons; *tvam anumasyase yadi* = if you permit me;
 
 "If you permit me, I wish to kill of all these notorious female-demons, by whom you
 have been frightened earlier."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1378,8 +1324,6 @@ heard; *maya* = by me; *iha* = here; *vadantyaH* = speaking;
 eyes, having ugly faces, were heard by me here speaking again and again harsh words to you, who are
 so devoted to your husband, at Ravana's command, when you were suffering hardships in the Ashoka
 grove, O divine lady!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1469,8 +1413,6 @@ terrific hairs and eyes; *daaruNakathaaH* = talking together roughly; *prayachch
 "I wish to kill with various kinds of strokes, these cruel, extremely rough and
 deformed female-demons, with distorted features and terrific hairs and eyes, talking together
 roughly. (Pray) grant this boon to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1521,8 +1463,6 @@ you, striking them down with my fists, hand-blows, long arms, blows of my shanks
 causing pain to their teeth, biting off their ears and nose and pulling out their hair, making them
 severely dry-mouthed, tearing them off, leaping over them, encountering them and throwing down
 their bodies, with their burst cheeks, necks, shoulders and ribs."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1571,8 +1511,6 @@ the past.
 
 "O illustrious lady! Striking them with several blows in this way, I would destroy
 the female-demons of terrible form, by whom you have been threatened in the past."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1594,8 +1532,6 @@ follows:
 
 Reflecting as pondering for a while, when spoke thus by Hanuma, the compassionate
 Seetha, who was kind to the miserable, spoke to Hanuma as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1611,8 +1547,6 @@ vidheyaanaam* = and work; *paraajJNayaa* = in obedience to the orders of others.
 
 "O the foremost of monkey! Who will be angry with servant-maids, who are dependent
 on their king's command and work in obedience to the orders of others?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1661,8 +1595,6 @@ on their king's command and work in obedience to the orders of others?"
 "All this is reaped by me, as a consequence of my bad fortune or an account of a
 misdeed committed by me in the past. The fruit of one's own making is indeed experienced (in one's
 life)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1715,8 +1647,6 @@ gatiH* = divine strategy; *nishchitam* = it was decided; *iti* = that;
 strategy. It was ordained that this type of situation is to be obtained by me, due to the
 application of fate. Feeble as I am in these matters, I am forgiving the servant-maids of Ravana
 here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1764,8 +1694,6 @@ they will not do; *tarjanam* = the threatening.
 
 "O Hanuma! As commanded by Ravana the threatened me. As he is dead now, they will
 not do the threatening."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 
 </details>
@@ -1813,8 +1741,6 @@ the presence of a tiger; *nibodha* = hear; *tam* = it (from me).
 
 "O Hanuma! There is an old axim possessed of merit, actually uttered by a bear in
 the presence of a tiger. Hear it from me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1872,8 +1798,6 @@ another bough and thus escaped from falling down. The tiger now addressed the fo
 the bear: "The hunter sought to hurl you down and has thus wronged you. Therefore push him down."
 Though pressed by the tiger again and again, the bear refused to hurl him down and repeated the
 above quoted verse in support of his attitude.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1921,8 +1845,6 @@ none; *naaparaadhyati iti na* = who never commits a wrong.
 
 "Kindness is to be shown by a noble person either towards a sinner or to a virtuous
 person or even to a person who deserves death, for, there is none who never commits a wrong."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -1969,8 +1891,6 @@ himsaavihaaraaNaam* = in taking pleasure to harm people; *kruuraaNaam* = the cru
 
 "No evil is to be done, even to those cruel persons of sinful deeds, who take
 pleasure to harm the life of others and continue to perpetrate their sinful acts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -2017,8 +1937,6 @@ faultless Seetha; *raamapatriim* = the consort of Rama.
 
 Hearing the words of Seetha, Hanuma who was skilled in speech, then replied to the
 faultless Seetha, Rama's consort (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -2066,8 +1984,6 @@ is.
 
 "O divine lady! You are the apt wife of Rama, full of virtue. Give me a message in
 return. I will go to the place where Rama is."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -2114,8 +2030,6 @@ Janaka; *abraviit* = spoke (as follows); *vaanarottama* = O the foremost of monk
 
 Thus spoken by Hanuma, that Seetha the daughter of Janaka spoke as follows: "O the
 foremost of monkeys! I long to see my husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -2162,8 +2076,6 @@ foremost of monkeys! I long to see my husband."
 
 Hearing those words of Seetha, the highly intelligent Hanuma, the son of wind-god,
 bringing delight to Seetha, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -2212,8 +2124,6 @@ consort of Indra); (would see); *tridasheshwaram* = Indra; the lord of gods.
 "You shall see today, Rama whose countenance is like a full moon, whose friends
 (like Sugreeva and Vibhishana) are alive, whose enemies have been killed along with Lakshmana, as
 Shachi (the consort of Indra) would see Indra the lord of gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 </details>
 
@@ -2265,8 +2175,6 @@ was.
 
 Thus speaking to that Seetha, who appeared radiant before his eyes as Lakshmi the
 goddess of prosperity, Hanuma of great splendor, came to the place where Rama was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ Rama, Lakshmana and the monkeys. Makaraksha, surrounded by his army of demons, s
 encounter. Makaraksha's whip and flag staff fall down all of a sudden, by the will of providence
 and a dust-storm ensued. Ignoring those portents, Makaraskha's army march forward in the
 battle-field, to reach Rama and Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -131,8 +129,6 @@ monkeys.
 
 "I am commanding you! Accompanied by an army, go my son! Kill Rama, Lakshmana and
 the monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -182,8 +178,6 @@ _________________
 
 Hearing Ravana's words, Makaraksha, the son of Khara, thinking himself as a hero,
 was rejoiced and assured Ravana that he would do it certainly as commanded.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -200,8 +194,6 @@ Ravana).
 
 Having respectfully saluted, even by performing circumambulation, the mighty
 Makaraksha, by the orders of Ravana, came forth from these shining palace of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -243,8 +235,6 @@ let a chariot be brought; *tuurNam* = quickly; *sainyam* = and the army;
 
 Makaraksha the son of Khara asked the commander of an army who was in the vicinity
 to bring a chariot and the army swiftly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -285,8 +275,6 @@ the army; *samiipam* = to his proximity.
 
 Hearing his words, the army-commander of the demons brought the chariot and the army
 to his proximity.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -336,8 +324,6 @@ drive; *ratham* = the chariot; *shiighram* = quickly.
 
 Walking clockwise round the chariot and ascending it, Makaraksha asked the
 charioteer to drive forward the chariot quickly to the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -378,8 +364,6 @@ purastaat* = in my presence; *raakShasaaH* = O; demons!.
 
 Then Makaraksha spoke the following words to those demons, "O demons! All of you
 begin your fight before my presence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ raavaNena* = by the mighty Ravana; *raakShasa raajena* = the king of demons;
 
 "The mighty Ravana, the king of demons commanded me to kill both Rama and Lakshmana
 in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -468,8 +450,6 @@ in battle."
 
 "Today, I will kill Rama, Lakshmana, Sugreeva the monkey and the other monkeys with
 my excellent arrows, O demons!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -510,8 +490,6 @@ my excellent arrows, O demons!"
 
 "By hurling the spears, I will destroy completely the huge army of monkeys who
 arrived today to the battle-field, as the fire destroys the dry wood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -552,8 +530,6 @@ wielding various kinds of weapons; *samaahitaaH* = were steadfast (to fight).
 
 Hearing those words of Makaraksha, all those strong demons, wielding various kinds
 of weapons, were steadfast to fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -612,8 +588,6 @@ Those cruel demons, who can change their forms at will, who had protruding tusks
 had tawny coloured eyes, had their disheveled hair, creating terror with their colossal bodies,
 then marched forward like roaring elephants, shaking the firmament and surrounded the huge-bodied
 Makaraksha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -655,8 +629,6 @@ Makaraksha.
 
 There arose a great tumult sounded, on all sides, of thousands of couches and
 kettle-drums including leonine roars and clapping of arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -677,8 +649,6 @@ lost; *raavaNaH* = Ravana; *paramaamarShii* = was very much enraged;
 
 On hearing of Nikumbha and Kumbha having been killed, Ravana was very much flared up
 like fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -720,8 +690,6 @@ province.
 
 The long whip then slipped down from the hands of Makaraksha's charioteer and the
 flag-staff of that demon also suddenly fell down by the will of the province.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -765,8 +733,6 @@ were walking; *aakulaiH charaNaiH* = with flurried feet; *yuyuH* = and went;
 
 Those horses, yoked to his chariot, deprived of their diversified gait, were walking
 with flurried feet and went timidly, with tears in their eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -811,8 +777,6 @@ forth.
 
 At the time of marching of that dreadful and evil-minded Makaraksha, a harsh and
 fearful dust-storm blew forth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -853,8 +817,6 @@ those Rama and Lakshmana (were there).
 
 Though seeing those portents, all those highly valiant demons ignored them and set
 out to the place, where both Rama and Lakshmana were there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 </details>
 
@@ -907,8 +869,6 @@ Saying thunderously, "I shall take the lead", those demons who resembled black
 clouds, elephants and buffaloes in hue, who had been wounded pointedly more than once by maces and
 swords in the battle-front and who were skilled in martial art, moved hither and thither in the
 battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -929,8 +889,6 @@ impelled; *vishaalaakSham* = the wide-eyed; *makaraakSham* = Makaraksha;
 
 Engulfed with both anger and sorrow, Ravana ordered the wide-eyed Makaraksha, the
 son of Khara (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

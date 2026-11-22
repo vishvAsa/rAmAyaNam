@@ -17,8 +17,6 @@ III : Aranya Kanda - The Forest Trek**
 Maareecha advises Ravana to stay away from Rama with his own unpleasant experience
 with Rama's arrow when he was in Tataka forest, and portrays a gruesome picture of Rama to Ravana,
 asking him to not to meddle with Rama's affairs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ uvaaca* = in reply, spoke - replied.
 
 On hearing that idea of the chief of demons Ravana in abducting Seetha, Maareecha, a
 well-informed one and an articulator spoke to the lord of demons in reply. [3-37-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -132,8 +128,6 @@ raajaa sahaayavaan || sulabhaaH puruSaa raajan satatam priya vaadinaH | apriyasy
 vaktaa shrotaa ca durlabhaH ||* The last two foots may be observed because they are similar to the above
 verse of Ramayana, by such similarities some hold the opinion that Maha Bharata is an explanation
 to Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -208,8 +202,6 @@ budhyase* = definitely, you are not, apperceiving.
 "Definitely you do not apperceive Rama who is decidedly dynamic and exaltedly adept,
 for you are impetuous and desultory in dealing with your spies, but that Rama is identical to the
 thunderous Mahendra and tempestuous Varuna, the Rain-god. [3-37-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -231,8 +223,6 @@ will render this world de-demonised! [3-37-4]
 '...but for you...' 'Will you let the demons on earth live, or, would like to
 eradicate them through Rama, through your obsessions.' The second thought has come true when Rama
 eliminated all demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -280,8 +270,6 @@ be there [will there be a disaster, so to speak.]
 
 "Has this Seetha, the daughter of Janaka, taken birth to end your life, or what! And
 because of this Seetha will there be a great disaster, so to speak! [3-37-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -329,8 +317,6 @@ doomed or what.]
 
 "Egocentric and rampant, such as you are, on acquiring you as her lord, will the
 City of Lanka be doomed along with her demons, and you put together, or what! [3-37-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -388,8 +374,6 @@ dveSii vardhaya ari sampadaH | praapyaa api mahad aishvaryam saha tena vinashyat
 Ramayana quotes Kamandaka etc., in such matters of dharma. The availability of the books quoted by
 the commentator of Dharmaakuutam in reprint is doubtful, where Dharmaakuutam itself is unavailable
 in full, in these days.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -466,8 +450,6 @@ father - no, he is not; there is unseemliness in him - no, not in the least; he 
 - no; he is selfish - no; he is an ignoble Kshatriya - no, not at all; and he is neither a debased
 one insofar as the merits of righteousness are concerned, nor he is atrocious towards living
 beings, for he takes delight in the welfare of all beings. [3-37-8, 9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -517,8 +499,6 @@ vrajitaH* = he neatly, journeyed.
 "On seeing his father who is a proponent of truth, and whom Kaikeyi has outwitted,
 that virtue-souled Rama neatly decamped from Ayodhya saying that 'I will prove my father to be a
 real proponent of truth.' [3-37-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -569,8 +549,6 @@ discarding; *daNDakaa vanam praviSTaH* = Dandaka, forest, he entered.
 "Discarding the kingdom and even royal-comforts Rama entered Dandaka forest only to
 fulfil the cherish of Kaikeyi, viz., kingdom for her son Bharata, and even that of Dasharatha,
 viz., to remain loyal to his promise to Kaikeyi. [3-37-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -620,8 +598,6 @@ speak of, apt of you.
 "Rama is ruthless - no; an unscholarly one - no; unconquered are his senses - no;
 and oh, boy, it is unapt of you to speak of impalpable and unheard-of topics in this way.
 [3-37-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -674,8 +650,6 @@ as his valour, and as with Indra to all gods he is the king of entire world. [3-
 Rama's principles alone make him victorious, as he does not deviate from the
 path of righteousness. And by not deviating from the path of righteousness, he is truly valorous
 and the question of his defeat does not arise, because he will abide by his conscience.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -730,8 +704,6 @@ and if she is to be separated from sun, only an eternal gloom overcasts the worl
 doubt controlled natural forces like sun, moon, rivers etc., but not altogether eradicated or
 upturned their functions. Then, is it possible to Ravana and hosts of his demonic-adherents to
 thrive in an unnatural gloom? This is the doubt of Maareecha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -780,8 +752,6 @@ Rama, [called] fire; *sahasaa* = rashly - recklessly; *praveSTum* = to enter int
 "Arrows as it jets of fire, bow and sword as it firewood that fire called Rama will
 be blazing in war, and it will be inapt of you to enter into such an uninfringeable fire,
 recklessly. [3-37-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -847,8 +817,6 @@ becoming tongues of fire spewed forth from that flaming mouth, he that Rama the 
 will become fierce and insufferable when he wields bow and arrows, and oh, dear boy Ravana, it will
 be inapt of you to at once draw pretty nigh of such an annihilator of the armies of enemies, on
 discarding your kingdom, comforts and even the dear life of yours. [3-37-16, 17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -916,8 +884,6 @@ This apart, it is said that 'a pertinent devotion to a god makes the devotee lik
 *shraddhayaa devo devatvam ashnute *and Seetha is the devotee of Rama and she became one with
 Rama. Thereby, there is twofold resplendence, namely, that of Rama and that of Seetha, so it is
 inapt of you to make any useless effort when everything is firewalled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -965,8 +931,6 @@ perpetuity, his - him alone; *anu vrataa* = following, avowed - avowed to follow
 
 "That lady Seetha is his wife, dearest than the lives of that lion-chested lion-man
 Rama, and in truth, she is avowed to follow him alone, in perpetuity. [3-37-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -1014,8 +978,6 @@ to abuse; *na shakyaa* = not, possible one.
 
 "As the spire of blazing ritual fire cannot be abused, so also, she that curvaceous
 Maithili, the cherished wife of that dynamic Rama, is an impossibility for any abuse. [3-37-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -1074,8 +1036,6 @@ activity, too much of enmity with one's own people, too much belief in one's own
 the four doors to death...' Hence, Maareecha is advising Ravana not to embark on a wrong foot, and
 even if Seetha is forcibly abducted, she cannot be possessed because she surrounded by a firewall,
 namely the resplendence of that couple.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -1123,8 +1083,6 @@ wish; *raama vi priyam* = to Rama, un, pleasant; *maa kR^ithaa* = do not, do.
 "If you cherish to take pleasure for a long time in your life, in your comforts and
 also thus in your kingdom, which kingdom is highly impossible to achieve, do not do anything
 unpleasant to Rama. [3-37-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -1196,8 +1154,6 @@ take a decision on your own considering rights and wrongs of the case, and beari
 your own strengths and weakness, and even on making sure of Raghava's capability in its reality,
 and then it will be apt of you to take up befitting action that will be conducive to your
 interests. [3-37-24,25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 </details>
 
@@ -1253,8 +1209,6 @@ one; *kSamam* = befitting one; *yuktam ca* = reasonable, also; *idam vaakyam*
 "Oh, king of nightwalkers Ravana, I for myself deem that your confrontation with
 Rama, the prince of Kosala, in a war is improper, and a better, befitting, and a reasonable one is
 this advise of mine, to which you may listen further. [3-37-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

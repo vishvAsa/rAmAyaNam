@@ -17,8 +17,6 @@ Shatrughna asks Bharata why even Lakshmana could not prevent Dasaratha from send
 Rama to the forest. Meanwhile, when Manthara arrives at the scen, Shatrughna seizes her with his
 powerful hand, threatens to punish her and abuses Kaikeyi too. When Kaikeyi pleads for mercy with
 her son, Bharata intervenses and Shatrughna releases Manthara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ expedition (to Rama)
 
 Thereafter, Shatrughna the younger brother of Lakshmana spoke the following words to
 Bharata, who was tormented with grief and who desired to undertake an expedition to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ to the forest.
 
 "When that even-minded Rama is a refuge for all beings, how much more to tell about
 our seeking solace to him in our grief? He has been abandoned to the forest by a woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ it?
 
 "Why the so-called Lakshmana, the strong and powerful man, even could not rescue
 Rama from distress by making our father to restrain from doing it?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ puurvameva = even before itself.
 "By perceiving the prudence and imprudence in that wrong course adopted by the king,
 who has fallen into the clutches of a woman, Lakshmana should have restrained Dasaratha even at the
 beginning itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ types of ornaments; *abhuut* = appeared; *praagdvaare* = at the eastern gate.
 
 While Shatrughna the younger brother of Lakshmana was talking thus, the hump-backed
 Manthara duly adorned with all types of ornaments, appeared at the eastern gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -312,8 +300,6 @@ sandal-word; *bibhratii* = wearing; *raajavastraaNi* = royal clothes;
 
 Anointed with a scent of sandal-wood and wearing royal clothes, she was bedecked
 with several kinds of ornaments of every description in various ways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ _________________
 
 Studded with bright-coloured girdle-bands and many other excellent ornaments,
 Manthara appeared like a female-monkey tied with ropes!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -412,8 +396,6 @@ the door-keepers; *gR^ihiitvaa* = caught her; *nyavedayan* = and delivered her;
 
 Beholding that hump-backed Manthara, the very much sinful and insensitive woman, the
 door-keepers caught her and delivered her to Shatrughna (with the following words:)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -461,8 +443,6 @@ you please; *tasyaaH* = with her.
 
 "Here is that sinful and cruel woman, by whose act Rama is in the forest and your
 father has laid down his body. Do with her, as you consider fitting."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -509,8 +489,6 @@ words; *shatrughnaH* = Shatrughna; *bhR^isha duHkhitaH* = who was very much in g
 
 Hearing those words, Shatrughna who was very much in grief and was firmly resolute,
 spoke to all those inmates of that gynaecium, as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -561,8 +539,6 @@ _________________
 
 "Let this woman, who created serious misfortune to my brothers and my father,
 receive the fruit of her cruel act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -613,8 +589,6 @@ resound (with her shrieks).
 
 Speaking thus in the midst of her companions, he seized that hunch-backed woman with
 his powerful hand soon and she in turn made that mansion resound with her shrieks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -665,8 +639,6 @@ directions.
 
 Then, her companion, having conceived Shatrughna's anger and extremely agonised as
 they were, ran away helter-shelter in all directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -713,8 +685,6 @@ companions; *amantrayata* = surnised (as follows); *yathaa* = the way how;
 
 All the company of women there surmised as follows : "The way how he is coming up,
 he will surely slay us all"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -762,8 +732,6 @@ Kausalya; *saanukroshaam* = the compassionate; *vadaanyaam ca* = and the magnani
 
 "We shall take reguge with the compassionate, magnanimous, virtuous and illustrious
 Kausalya. Let her be the sure asylum for us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -810,8 +778,6 @@ violently dragged; *kroshantiim* = the crying; *kubjaam* = hum-back;
 
 That Shatrughna, the tormentor of enemies, with his raging red eyes then violently
 dragged the crying hump-back along the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -862,8 +828,6 @@ _________________
 
 While that Manthara was violently dragged, here various colourful ornaments were
 scattered asunder here and there on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -908,8 +872,6 @@ stars).
 
 Thus, that splendid royal mansion scattered by those ornaments, appeared very much
 like an autumnal sky studded with innumerable stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -958,8 +920,6 @@ man; *gR^ihiitvaa* = seizing; *balavat* = violently; *krodhaat* = with rage;
 
 Shatrughna, the strong and the eminent man, thus violently seizing her with rage,
 sharply rebuked Kaikeyi and spoke harsh words to her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -1007,8 +967,6 @@ son.
 
 Agonised very much by those harsh and painful words, Kiakeyi overwhelmed as she was
 with the fear of Shatrughna, took refuge with Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -1056,8 +1014,6 @@ beings; *pramadaaH* = women; *avadhyaaH* = are not to be killed; *kSamyataam*
 
 Seeing that enraged Shatrughna, Bharata said: "Among all beings women are not to be
 killed. Hence she is to be pardoned."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -1105,8 +1061,6 @@ have killed; *imam kaikeyiim* = this Kaikeyi; *duSTachaariNiim* = the evil-doing
 
 "If the pious Rama were not to express his displeasure with me for killing the
 mother, I would have killed this Kaikeyi, the ill-mannered and sinful woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -1154,8 +1108,6 @@ hunch-backed woman; *hataam* = has been killed; *dhruvam* = it is sure;
 
 "If the virtuous Rama hears that the hunch-backed woman has been killed, it is sure
 that he will cease to talk to you or even to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -1206,8 +1158,6 @@ younger brother of Lakshman; *tataH* = then; *nyavartaH* = renouncing;
 
 Hearing the words of Bharata, Shatrughna the younger brother of Lakshmana renouncing
 his guilty design forthwith released that Manthara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -1256,8 +1206,6 @@ weeping kR^ipaNam = piteously.
 **अनुवादः**
 
 Manthara fell at the feet of Kaikeyi, breathless, weeping piteously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 </details>
 
@@ -1313,8 +1261,6 @@ a noose; *bharatasya* = Bharata's; *maataa* = mother; *shanaiH* = slowly;
 Seeing the hunch-backed woman, who was distraught on account of shatrughna's
 violence, wearing a disturbed appearance and looking like a crane that has been caught in a noose,
 Bharata's mother slowly consoled her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

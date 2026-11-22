@@ -17,8 +17,6 @@ Rama on hearing the harsh and cruel words of Kaikeyi remains unruffled. He asks
 Kaikeyi sorrowfuly about the reason the king did not speak to him directly about the matter. He
 then immediately decides to leave for forest after duly saluting the king and Kaikeyi. On the way
 to forest He desires to visit his mother and Sita and inform them of his decision.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ equivalent to death; *navivyathe* = was unruffled; *abrabiit* = spoke; *idam*
 
 Rama the annihilator of enemies heard those harsh and deadly words but was
 unruffled. He spoke these words to Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ hair and covered with a hide.
 
 "Let it be, as you said it. I shall fulfil the king's promise, go to the forest from
 here to reside there, wearing braided hair and covered with a hide."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ inviolable; *arindamaH* = the subduer of enemies; *naabhinandati* = is not greet
 
 "But I want to know why the king, the inviolable and the subduer of enemies, is not
 greeting me today as before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -217,8 +209,6 @@ rags and braided hair; *bhava* = become; *supriitaa* = delighted well.
 
 "Oh, queen! you need not be indignant. I am telling before you that I shall go to
 the forest, wearing rags and braided hair. Become delighted well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ commanded; *hitena* = as well = wisher; *guruNaa* = as person with right conduct
 
 "How can I not do faithfully an action dear to my father, as commanded by him as
 well-wisher, venerable man, as person with right conduct and as king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -313,8 +301,6 @@ burning indeed;ekam = one; *aliikam* = displeasure; *maanasam* = of mind;
 
 "My heart is burning indeed with one sorrowful feeling that king himself has not
 informed me about Bharata's coronation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ brother.
 
 "Without being asked, I myself would have gladly offered even Sita with kingdom,
 even my life, loved ones and wealth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ the sake of your beloved desire.
 
 "Being directed by king, who is my father himself, how much more should I tell that
 I can give everything to Bharata, duly obeying father's promise to fulfil your beloved desire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -466,8 +448,6 @@ fixed upon the floor.
 
 "That is why, you console him. Why indeed the king is thus slowly shedding tears,
 with eyes gazed upon the floor?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -516,8 +496,6 @@ itself; *hayaiH* = on horses; *shiighrajavaiH* = with rapid speed; *aanayitum*
 
 "Let messengers go now itself on fleet horses to bring Bharata from maternal uncle's
 house as per orders of the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -564,8 +542,6 @@ without reflecting; *vaakyam* = on words; *pituH* = of father.
 
 "Immediately, I shall go to live in forest of Dandaka for fourteen years, without
 reflecting on whether my father's words are right or wrong."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -615,8 +591,6 @@ glad; *shraddhadhaanaa* = believing; *prasthaanam* = his departure;
 
 Hearing Rama's words, Kaikeyi felt glad that he would certainly go and urged him to
 make haste at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -663,8 +637,6 @@ make haste at once.
 
 "Let it be so. Messengers can go on horses having rapid speed, to bring back Bharata
 from his maternal uncle's house."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -712,8 +684,6 @@ why tvam = you; *arhasi* = are fit; *gantum* = to go; *vanam* = to forest;
 
 "But I think it is not quite appropriate for you who are enthusiastic to go to
 forest, to delay further."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -763,8 +733,6 @@ be removed.
 
 "It is nothing but shyness that the king is not able to speak to you. Oh Rama, the
 best of men! Do not worry about it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -811,8 +779,6 @@ immediatly; *vanam* = to the forest.
 
 "Oh, Rama! Your father will neither take his bath nor eat a meal until you leave the
 city for the forest immediately.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -862,8 +828,6 @@ with murchhitaH = fainted; *nyapatat* = fell; *tasmin paryaN^ke* = in that couch
 
 Hearing these words, the king saying "what a pity! How much misery!" was overwhelmed
 with sorrow, fainted and fell in that couch adorned with gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -910,8 +874,6 @@ Kaikeyi; *vaajiiva* = as horse; *aahataH* = was hit; *kashayaa* = by whip.
 
 Rama lifted up the king and soon got hurried up to leave for the forest he was again
 instigated by Kaikeyi as a horse was hit by a whip.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -958,8 +920,6 @@ spoke; *vaakyam* = the words; *kaikeyiim* = to Kaikeyi.
 
 Rama after hearing that vulgar woman's words, which were harsh and having
 consequence, was unruffled and spoke these words to Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1009,8 +969,6 @@ equal to R^ishhibhiH = sages; *aasthitam* = abiding; *dharmam* = in righteousnes
 
 "Oh queen! I am not concerned with wealth. I want to receive the world hospitable.
 Know me as equal to a sage, abiding in righteousness alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1063,8 +1021,6 @@ do; *yat priyam* = that is dearer; *atrabhavataH* = to my revered father;
 
 "If I have to do whatever action is dearer to my revered father, that action is just
 done in all respects even by renouncing life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1116,8 +1072,6 @@ father; *tasya vachana kriyaavaa* = or doing what he commands.
 
 "There is not indeed anything of greater performance of duty than doing service to
 father or than doing what he commands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1167,8 +1121,6 @@ fourteen years; *bhavatyaaH vachanaat* = as per your word.
 
 "Even if our reverent father does not tell me, I shall reside in the forest, devoid
 of people, now for fourteen years as per your word."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1219,8 +1171,6 @@ any; *guNam* = merit; *mayi* = in me; *nuunam* = certain!
 " In the matter of coronation of Bharata, you told Dasaratha and not to me, even
 though you had every authority to tell, me directly. By this, it is known that you have not seen
 any merit in me. It is certain!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1267,8 +1217,6 @@ go; *mahat dandakaanaam vanam* = to the great forest of Dandaka.
 
 " Today itself, I shall go to the forest of Dandaka after bidding, farewell to my
 mother and also after consoling Sita."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1315,8 +1263,6 @@ father; *saH* = It; *sanaatanaH dharamaH* = is indeed an agae old practice.
 
 "While ruling the kingdom, see that Bharata serves our father well. It is indeed an
 age-old practice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1364,8 +1310,6 @@ was hurt with grief; *bhR^isham* = very much; *ashaknuvan* = was unable;
 
 Dasaratha after hearing Rama's words was hurt very much with grief was unable to
 talk and wept loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1413,8 +1357,6 @@ honourable.
 
 That Rama, with great brilliance, came out, after duly offering obeisance to the
 feet of his father who was fainted and also to the feet of that vulgar Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1464,8 +1406,6 @@ circumabulatory salutation; *pitaram* = to his father; *kaikeyiimcha* = and Kaik
 
 Rama made circumambulatory salutation to his father as well as Kaikeyi, left that
 palace and saw his friends.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1514,8 +1454,6 @@ paripuurNaakshhaH* = with tearful eyes; *anujagaamaH* = accompanied;
 
 Lakshmana, the son of Sumitra, felt very angry with his eyes filled with tears and
 accompanied behind Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1568,8 +1506,6 @@ collected coronation; *dR^ishhTim* = the glance; *saapakshhaH* = kept respectful
 
 Rama did a circumbulatory salutation around the auspicious materials collected for
 the propound coronation and having fixed his attention respectfully on them, moved away slowly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1620,8 +1556,6 @@ eva* = as a night; *siina rashme* = of moon's splendour.
 As Rama was a pleasing personality, he was loved by all the people. The loss of
 kingdom could not diminish such a great splendour of Rama as a night cannot diminish the splendour
 of the moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1671,8 +1605,6 @@ the earth; *gantukaamasya* = who decided to go; *vanam* = to forest;
 In that Rama, who was leaving the kingdom after having decided to go to the forest,
 there was no perturbation of mind in him like in an ascetic who is beyond worldly pain and
 pleasure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1739,8 +1671,6 @@ shamsivaan* = to inform the unpleasent.
 Rama, the man of great courage, refused fans and umbrella, sent away his friends,
 chariot and citizens kept back sorrow in his mind, subdued his senses and entered his mother's
 house to inform the unpleasant news.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1790,8 +1720,6 @@ spoke truth.
 
 The people adjacent to Rama could not visualise any change in the face of Rama who
 was dignified and truthful in his words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1840,8 +1768,6 @@ lose; *aatmanaH* = his; *uchitam* = usual; *harshham* = joy; *tejaiva*
 
 Rama did not lose his natural joy, as an autumnal moon with lofty rays does not lose
 its natural splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1890,8 +1816,6 @@ went; *samiipam* = near to; *maatuH* = mother.
 
 Rama with his courageous spirit and of great fame, paying his respects to the people
 with his sweet words, went nearer to his mother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -1941,8 +1865,6 @@ with; *tam* = that Rama.
 
 Lakshmana, who got virtues equal to Rama, who was having great heroic valour and who
 was the brother, kept the grief within himself and went along with Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 </details>
 
@@ -2002,8 +1924,6 @@ When Rama entered, Kausalya's palace was filled with great joy. At that time, Ra
 did not show any displeasure for the mihlap occurred in truth. He behaved like that because he had
 doubted about the possible shock to his friends even of fear of their life, if he showed any
 perturabation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga19/ayodhyasans19.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

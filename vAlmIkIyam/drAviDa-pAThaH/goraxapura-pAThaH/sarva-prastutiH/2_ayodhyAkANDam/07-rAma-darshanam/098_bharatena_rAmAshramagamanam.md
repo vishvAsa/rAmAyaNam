@@ -19,8 +19,6 @@ proceed on foot to some other side of the forest for the search. He goes through
 some time. Climbing up a sala tree, Bharata observes a plume of smoke at a distance and conjectures
 that place as Rama's hermitage. Bharata quickly proceeds with quick steps, along with Guha, to see
 Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -79,8 +77,6 @@ approach; *kaakutthsam* = Rama; *guruvartakam* = who was abiding his;
 
 After encamping the army, the mighty Bharata the excellent among men, sought to
 approach on foot, Rama who was complying with the words of his father.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -96,8 +92,6 @@ guidelines; *bharataH* = Bharata; *abraviit* = spoke; *idam* = these words;
 
 Soon after encamping the army in a well-behaved manner per the guidelines, Bharata
 spoke the following words to Shatrughna:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -144,8 +138,6 @@ sides; *idam anam* = of this forest.
 
 "O, gentle brother! You, along with a troop of men and trackers, ought to search on
 all sides of this forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -195,8 +187,6 @@ kinsmen; *shara chaapaasi dhaariNaa* = wielding arrows; bows and swords.
 
 "Let Guha search for Rama and Lakshmana in this forest, himself accompanied by a
 multitude of his kinsmen, duly wielding their bows, arrows and swords."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -243,8 +233,6 @@ foot; *sarvam* = in the entire; *vanam* = forest.
 
 "I too, surrounded by the ministers, citizens, priests and Brahmanas; shall
 personally go round the entire forest on foot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -285,8 +273,6 @@ Lakshmana or; *mahaabhaagam* = the illustrious; *vaidehiim vaa* = Seetha.
 
 "Peace will not be with me until I do not see Rama or the very mighty Lakshmana or
 the illustrious Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -334,8 +320,6 @@ eyes like lotus = leaves.
 
 "Peace will not be with me until I do not see the auspicious face of my elder
 brother, resembling the moon and having eyes bearing resemblance to lotus-leaves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -382,8 +366,6 @@ elder brother; *paarthiva vyaN^janaanvitau* = bearubg ritak ubsugbua;
 
 "Peace will nt be with me until I do not hold firmly on my head, the soles of my
 elder brother, bearing royal insignia.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -432,8 +414,6 @@ jalaklinnaH* = and consecrated by sprinkling water (on his head).
 "Peace will not come to me until my elder brother, who is eligible for the crown, is
 not installed in the kingdom of Ayodhya, which was derived from our father and grand father and
 consecrated by sprinkling water on his head (as a symbol of crowing the kingdom)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -480,8 +460,6 @@ and having lotus = eyes; *siddhaarthaH khalu* = is indeed an accomplished man.
 
 "Lakshmana, who is seeing regularly the face of Rama having a great luminance
 resembling the bright moon and having lotus eyes, is indeed an accomplished man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -529,8 +507,6 @@ object.
 
 "Seetha, the illustrious daughter of Janaka, who is following the steps of Rama the
 Lord of the earth extending to the sea, has fulfilled her object."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -581,8 +557,6 @@ nandana."
 
 "That enchanting mountain of Chitrakuta resembles the King of Mountains on which
 Rama is residing, as Kubera the Lord of riches is living in the garden of Nandana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 
@@ -629,8 +603,6 @@ Rama is residing, as Kubera the Lord of riches is living in the garden of Nandan
 
 "Blessed is this dense forest, inhabited by wild animals, where Rama, the great
 warrior and the excellent man among the wielders of weapons, dwells."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>
 </details>
 

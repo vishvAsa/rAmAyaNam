@@ -17,8 +17,6 @@ arrows and a powerful spear. A tumultuous and thrilling battle ensues between Ra
 spear hurled by Ravana is thwarted by a powerful spear (sent by Indra) of Rama. Then, Rama strikes
 Ravana's horses with arrows. He also pierces the chest region and the forehead of Ravana with his
 fierce arrows. Ravana gets severely hurt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ his bow; *samdadhe* = fixed the arrow on the bow-string.
 
 Hearing those words of Lakshmana, that valiant Rama, the annihilator of his enemies,
 taking hold of his bow, fixed an arrow on the bow-string.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ iva* = as Rahu the seizer-demon(rushes towards); *bhaaskaram* = the sun.
 In the forefront of battle, Rama released terrific arrows towards Ravana. Then,
 occupying another chariot, Ravana the king of demons rushed towards Rama, even as Rahu the
 seizer-demon rushes towards the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ with arrows equal to thunderbolts; *toyadaH iva* = as a cloud; (strikes);
 
 Ravana for his part, standing in his chariot struck Rama with thunderbolt-like
 arrows, as a cloud strikes gushes of rain on a huge mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ on Ravana; *raNe* = in the combat.
 
 With an attentive mind, Rama showered golden decked arrows, looking like blazing
 flames of fire, on Ravana in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ occupying a chariot.
 
 The gods, celestial musicians and kinnaras the mythical beings thought that the
 battle was not equal between Rama standing on the ground and Ravana fighting from a chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -313,8 +301,6 @@ words.
 
 Hearing their nectar-like words, the illustrious Indra, the chief f celestials then
 called Matali and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -366,8 +352,6 @@ great; *devahitam* = service to the gods.
 "Go quickly with my chariot to Rama, who is standing on the earth. After reaching
 the earth, invite him to take his seat in the chariot and carry out a great service to the
 gods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -414,8 +398,6 @@ offering salutation; *shirasaa* = by bowing his head; *devam* = to his lord;
 
 Hearing the words of Indra, Matali, the charioteer of Indra, offering salutation to
 him by bowing his head, spoke then the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -457,8 +439,6 @@ immediately; *karomi* = I will perform; *saarathyam cha* = the duty of a chariot
 
 "O Indra! Providing with green horses the excellent chariot, I will proceed then
 immediately and perform the duty of a charioteer to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -554,8 +534,6 @@ the morning sun, yoked to excellent green horses, having golden chaplets on thei
 white whisks, covered with nets of gold, shining like the sun and bearing a flag-staff raised on a
 golden bamboo. Ascending the chariot, as enjoined by Indra and descending from paradise, Matali
 approached Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -600,8 +578,6 @@ words; *raamam* = to Rama.
 
 Then Matali, the charioteer of Indra, along with a whip in his hand, stayed in the
 chariot itself and joining his palms in salutation, spoke the following words to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -651,8 +627,6 @@ victory; *mahaasattva* = O the mighty; *shriimaan* = the glorious;
 
 "Indra has sent this chariot to you for your victory, O the mighty and the glorious
 Rama, the destroyer of adversaries!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -699,8 +673,6 @@ and stainless; *shivaa* = auspicious; *shaktishcha* = spear; (were giving).
 
 "Here is the great bow belonging to Indra, an armour shining as fire, some arrows as
 bright as sun and a stainless auspicious spear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -751,8 +723,6 @@ demons.
 
 "O heroic king! Mounting this chariot with me as a charioteer, kill Ravana the king,
 as earlier Indra the lord of celestials killed the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -803,8 +773,6 @@ circumambulating; *tam* = then; *aaruroha* = ascended it; *viraajayan lokaan*
 Duly circumambulating that chariot (as a mark of respect) and offering his
 salutation, when thus spoken by Matali, Rama then ascended the chariot, causing the three worlds to
 shine forth with his splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -851,8 +819,6 @@ and Ravana; *rakShasaH* = the demon.
 
 Then ensued a tumultuous and thrilling battle, between the great armed Rama and
 Ravana, the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -895,8 +861,6 @@ daivena* = by means of Gandharva missile and Daiva missile.
 That Rama, who was skilled in the use of great missiles, struck the missile presided
 over by Gandharvas and the missile presided over by gods, by means of missiles of the same
 type.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -943,8 +907,6 @@ astram* = missile presided over by demons.
 
 Ravana, the king of demons was very much enraged and again released another
 extra-ordinarily terrific missile presided over by demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -985,8 +947,6 @@ rolled towards; *kaakutthsam* = Rama.
 
 Those arrows, decked with gold, discharged from Ravana's bow, turning as they were
 into highly poisonous snakes and rolled towards Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1028,8 +988,6 @@ alone.
 
 With flaming mouths wide open and vomiting blazing fire, those dreadful snake-like
 arrows dashed towards Rama alone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1081,8 +1039,6 @@ corners between the quarters; *samaavR^itaaH* = stood enveloped (by them).
 All the quarters stood covered by highly poisonous serpents, whose impact was as
 hard as that of Vasuki (the king of serpents), with the flaming coils. Even the corners between the
 quarters stood enveloped by them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1127,8 +1083,6 @@ serpents).
 
 Seeing those serpents rushing towards him in the battle-field, Rama released the
 terrific and dangerous missile presided over by Garuda the eagle (an enemy of serpents).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1170,8 +1124,6 @@ around.
 
 With golden shafts which shone like flames, discharged by Rama's bow turning into
 golden eagles (the enemies of serpents) those arrows flew all around.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1213,8 +1165,6 @@ snakes.
 
 Those arrows of Rama, which can assume any form at will, appeared in the form of
 eagles and destroyed all those arrows, which flew with a great speed in the form of snakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1255,8 +1205,6 @@ eagles and destroyed all those arrows, which flew with a great speed in the form
 
 Enraged on his missile having been frustrated by Rama, Ravana streamed forth
 terrific showers of arrows on Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1303,8 +1251,6 @@ _________________
 
 Tormenting Rama of unwearied action with thousand arrows, Ravana then pierced Matali
 with a multitude of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1354,8 +1300,6 @@ Indra's horses; *sharajaalena* = with a multitude of arrows.
 Targeting with only one arrow, Ravana tore off the flag-staff. Striking down the
 golden flag-staff from the top of the chariot down to the seat of the chariot, Ravana struck even
 Indra's horses with a multitude of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1404,8 +1348,6 @@ Seeing Rama afflicted, the gods, Gandharvas the celestial musicians, Charanas th
 celestials bards along with the demons, as also Siddhas the demi-gods and the great sages felt
 dejected. Seeing the moon in the shape of Rama eclipsed by Rahu in the shape of Ravana, the
 monkey-chiefs too, along with Vibhishana, felt perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1458,8 +1400,6 @@ Seeing thus the moon in the shape of Rama eclipsed by the planet Rahu in the sha
 of Ravana, the planet Mercury stood, assailing the constellation Rohini presided over by the god
 Prajapati (the lord of creation), the beloved of the moon the heavenly body and spelling disaster
 to all created beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1500,8 +1440,6 @@ to all created beings.
 
 Blazing as it were in fury, the ocean rose high at that time, as though it was going
 to touch the sun, its mist-wreathed waves moving to-and-fro.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1551,8 +1489,6 @@ its lap; *samsaktaH* = and united; *dhuumaketunaa* = with a comet.
 
 The sun, looking ashy in colour assuming a piercing aspect, and its rays grown
 exhilarated, appeared in a headless trunk in its lap and united with a comet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1602,8 +1538,6 @@ god of fire) kosalaanaam vyaktam = which is adorned by the kings of Kosala.
 
 The planet Mars stood assailing in the sky, the constellation Vishakha, presided
 over by the gods Indra and Agni (the god of fire), which is adorned by the kings of Kosala.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1644,8 +1578,6 @@ Mount Mainaka.
 
 That Ravana, having ten faces and twenty arms, holding a bow tightly in his hands,
 looked like Mount Mainaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1695,8 +1627,6 @@ his arrows to his bow.
 
 Being overwhelmed by Ravana the demon in the battle-front, Rama could not fit his
 arrows to his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1743,8 +1673,6 @@ slightly blood-red; *jagaama* = got; *sumahaakrodham* = into a fierce anger;
 
 The enraged Rama, knitting his eye-brows and with his eyes turned slightly
 blood-red, was provoked to fierce anger, as though he would burn out the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1788,8 +1716,6 @@ cha* = the earth too; *praakampata* = began to tremble.
 
 Seeing the face of the sagacious Rama getting provoked of anger, all the living
 beings got frightened. The earth too began to tremble.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1836,8 +1762,6 @@ and tigers; *chaladrumaH* = as also with swaying trees; *samchchaala* = was trem
 
 The mountain, with lions, tigers and swaying trees, was trembled. Even the ocean,
 the lord of rivers, became agitated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1878,8 +1802,6 @@ the sky; *nardantaH* = thundering.
 
 Dense clouds, emitting harsh sounds and assuming a stern aspect, roamed all over in
 the sky, thundering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1929,8 +1851,6 @@ enraged; *raamam* = Rama; *daaruNaan utpaataan cha* = and terrific portents;
 
 Seeing the very much enraged Rama and also the terrific portents, all the living
 beings were frightened. Fear seized Ravana too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -1981,8 +1901,6 @@ Seated in their aerial cars, gods, Gandharvas the celestial musicians, great Nag
 (semi divine beings having the face of a man and the tail of a serpent), the sages, demons, giants
 and those eagles remaining in the air, saw then the battle of two heroes, fighting steadily with
 various dreadful weapons and looking like the final dissolution of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2027,8 +1945,6 @@ the gods and demons; *vigraham aagataaH* = who had come to witness the conflict;
 
 Getting rejoiced on observing that great battle, all the gods and demons who had
 come to witness the conflict at that time, responded:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2079,8 +1995,6 @@ victorious!".
 
 The demons who reached there cried out to Ravana, "Be victorious!". Those gods
 called to Rama saying again and again: "Be you victorious!".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2199,8 +2113,6 @@ enemies, resembling the mountain-peaks, which with its sharp points dreadful to 
 behold, resembling a smoke-crested mass of fire blazing at the end of the world-cycle, exceedingly
 furious, which was difficult to approach even for Death, which was unassailable, which was a terror
 for all beings, capable as it was of tearing and splitting them and blazing as it was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2247,8 +2159,6 @@ surrounded; *shuuraiH aniikaiH* = by warriors of demons; *samare* = in battle;
 
 That valiant Ravana, surrounded by warriors of demons in battle, was very much
 enraged and took hold of that spear at its middle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2289,8 +2199,6 @@ his spear and bringing rejoice to; *svasainyam* = his own army; *nanaada* = roar
 
 With blood-red eyes in anger, Ravana with his collossal body, duly raising the spear
 and bringing rejoice to his own army, roared terribly in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2331,8 +2239,6 @@ four quarters; *tathaa* = and; *pradishashcha* = and the angles of the compass.
 
 The terrific noise made by Ravana then trembled the earth, the sky, the four
 quarters and the angles of the compass
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2373,8 +2279,6 @@ the living beings; *vitresuH* = were frightened; *saagarashcha* = the ocean too;
 
 By that roar of that evil-minded Ravana of a collossal body, all the living beings
 were frightened. The ocean too got agitated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2415,8 +2319,6 @@ large spear; *saH raavaNaH* = that Ravana; *mahaaviirya* = of great prowess;
 
 Taking hold of that large spear, that Ravana of great prowess, emitting a very loud
 roar, spoke the following harsh words to Rama:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2464,8 +2366,6 @@ help-mate.
 
 "Raised in fury by me, O Rama! This spear with the power of a thunder-bolt, will
 take away surely your life along with the life of your bother, your help-mate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2513,8 +2413,6 @@ front.
 
 "Killing you with my strength now, I, who always commend war-fare, will make you
 level with the valiant demons, who have been killed in the battle-front."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2558,8 +2456,6 @@ that demon; *chikShepa* = hurled; *tat shuulam* = the spear.
 
 "Wait, I will kill you with the spear now, O Rama!" Saying so, that demon hurled
 that spear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2602,8 +2498,6 @@ sky.
 That spear, wreathed as it was in a circle of lightning, provided as it was with
 eight bells and making a loud noise, released from Ravana's hand, splashed, as it went into tehs
 sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2651,8 +2545,6 @@ released; *vishikhaan* = the arrows.
 
 Seeing that blazing spear of terrible appearance, the valiant Rama who was born in
 Raghu dynasty, having stretched his bow, released the arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2695,8 +2587,6 @@ dissolution of the world.
 With streams of arrows, Rama warded off that spear, which was rushing upon him, as
 with streams of water, Indra the lord of celestials warded off the fire shooting up at the time of
 dissolution of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2737,8 +2627,6 @@ as fire; (would consumed); *pataN^gaan* = the moths.
 
 That large spear of Ravana consumed those arrows coming forth from Rama's bow, as
 fire would consume the moths.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2788,8 +2676,6 @@ sky; *raaghavaH* = Rama; *aaharat* = was seized; *krodham* = with fury.
 
 Seeing those arrows smashed by coming into contact with the spear and reduced to
 ashes even while positioned in the sky, Rama was seized with fury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2836,8 +2722,6 @@ Matali the charioteer; *vaasaasammataam* = as desired by Indra the lord of celes
 
 That Rama, the delight of Raghus, was quite enraged and took hold of that spear
 brought by Matali the charioteer, as desired by Indra the lord of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2881,8 +2765,6 @@ yugaantolkeva* = like a blazing meteor at the time of dissolution of the world.
 
 That spear, lifted up by the powerful Rama, which was rendered resonated by the
 bells, began to blaze like a blazing meteor at the time of the dissolution of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2930,8 +2812,6 @@ lustre extinguished.
 
 That spear, hurled by Rama, fell on that Ravana's spear. Torn down by Rama's spear,
 the large spear of Ravana fell on the ground, with its lustre extinguished.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -2982,8 +2862,6 @@ Ravana.
 
 With terrific arrows of high speed, with their shafts made of reeds, going straight
 to their target, Rama pierced the exceedingly fleet horses of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -3031,8 +2909,6 @@ arrows.
 
 With his sharp arrows, Rama then pierced the chest-region of Ravana. He also struck,
 quite deliberately, the forehead of Ravana with three arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 </details>
 
@@ -3085,8 +2961,6 @@ trees.
 With all his limbs torn down by arrows and with blood flowing from his limbs, that
 Ravana in the midst of demons, shone like a blooming Ashoka tree in the midst of a multitude of
 trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga102/yuddhasans102.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

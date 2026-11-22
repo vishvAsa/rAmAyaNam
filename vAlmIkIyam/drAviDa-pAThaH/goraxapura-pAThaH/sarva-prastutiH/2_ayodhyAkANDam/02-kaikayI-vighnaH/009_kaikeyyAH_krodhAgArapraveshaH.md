@@ -15,8 +15,6 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 This chapter describes Manthara's success in turning Kaikeyi's mind away from good
 towards evil.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ Manthara.
 
 After hearing those words, Kaikeyi with her face burning with anger, had a long and
 hot sigh and spoke to Manthara as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ shall make Rama to travel; *kshhipram* = quickly; *vanam* = to forest; *itaH*
 
 "Now itself, I shall send Rama quickly to forest. I shall get Bharata anointed for
 princely kingdom immediately."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ method; *sampasya* = see; *idam* = this; *idaaniim* = now.
 
 "O Manthara! What is the means by which Bharata will get the kingdom but Rama will
 not get it by any method. Think about it now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -213,8 +205,6 @@ thinker; *abraviit* = spoke; *idam* = these words; *kaikeyiim* = to Kaikeyi;
 
 After hearing her words, the sinful thinking Manthara, spoke thus to Kaikeyi to
 destroy Rama's benefit of kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -261,8 +251,6 @@ shruuyataamcha* = let I be listened.
 
 "O Kaikeyi! I am very glad. I shall tell you the means by which your son Bharata
 only will get the kingdom. Listen to it!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -303,8 +291,6 @@ stated; *aatmaanam* = for your benefit; *na smarasi kim* = are you not remeberin
 
 "Oh, Kaikeyi! You desire to hear from me the means for your benefit. Have you
 forgotten about it or are you hiding, even if you have remembered it?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -345,8 +331,6 @@ by me; *abhidhaasyaami* = I shall tell you; *shruuyataam* = let it be heard;
 
 "O the lady of charms, Kaikeyi! If you desire to hear this from my mouth, I shall
 tell you. Listen to me. Let it be acted upon after listening to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -393,8 +377,6 @@ well laid bed; *abraviit* = and spoke; *idam* = these words.
 
 After hearing Manthara's words, Kaikeyi slightly rose from the well-laid bed and
 spoke the following :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -445,8 +427,6 @@ trick.
 
 "O Manthara! Tell me the trick by which Bharata will get the kingdom and Rama will
 not get it under any circumstances."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -494,8 +474,6 @@ benefit.
 
 After hearing Kaikeyi's words, the sinful thinking, hunch backed Manthara, spoke
 thus, with an intention to destroy Rama's benefit of kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -576,8 +554,6 @@ Dandaka.
 your husband Dasaratha went along with you and other holy kings to help Indra in battle, to a
 famous city called Vaijayata in which the demon Timidhvaja lived in a southern direction in the
 forest of Dandaka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -593,8 +569,6 @@ forest of Dandaka."
 
 "That great demon famously called shambara, who had several magic effects, defeated
 all the celestials and conferred battle upon Devendra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -649,8 +623,6 @@ by arrows and also those who were sleeping at night."
 
 Comment : It is not a virtuous practice according to scriptures, to kill injured
 people and defenceless people sleeping at night. Demons do not follow such scriptures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -694,8 +666,6 @@ pieces; *shastraiaH* = with weapons; *asuraiH cha* = by demons.
 
 "Then, king Dasaratha fought a great battle there. With their weapons, demons made
 into pieces the long armed Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -743,8 +713,6 @@ patiH* = your husband; *vikshhataH* = who was beaten; *shastraiH* = by weapons;
 
 "O Queen! You saved the life of your unconscious husband by taking him away from the
 battle field. There also, you again saved him, when beaten by demons with their weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -792,8 +760,6 @@ said; *tena mahaatmanaa* = by that great souled Dasaratha; *tathaa iti* = let it
 
 "O Kaikeyi with auspicious appearance! Getting delighted, he gave two boons to you.
 Then, you said, " I shall ask you whenever I require them". He then agreed to it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -837,8 +803,6 @@ anointment; *nigR^ihya* = by force.
 "O Queen! I do not know what had happened there. You yourself told this story
 previously to me. I am keeping this in my mind because of my friendship with you. Hence, you have
 to stop, by force, the arrangements being made for Rama's coronation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -885,8 +849,6 @@ exile; *chaturdasha varshhaaNi* = for fourteen years.
 
 "You ask your husband as two boons, anointing Bharata for princely kingdom and
 sending Rama to exile for fourteen years."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -927,8 +889,6 @@ your son; *prajaabhaavagatasnehaH* = will get intimate association in the people
 
 If you send Rama to forest for fourteen years, your son Bharata will get intimate
 association in the hearts of the people and will get stabilised in kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -976,8 +936,6 @@ clothes.
 
 Oh, kaikeyi! Now, enter the room of wrath as if angry with him and lie down on floor
 without any spread underneath and wearing soiled clothes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1024,8 +982,6 @@ abhibhaashhataaH* = nor talk; face to face; *enam* = to him.
 
 As soon as you see Dasaratha, be sorrowful and keep on weeping, without looking at
 him and without talking to him face to face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1072,8 +1028,6 @@ even enter; *hutaashanam* = fire; *tvatkR^ite* = for your sake.
 
 You are always dear to your husband. I have no doubt about it. King Dasaratha will
 even jump into a fire for your sake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1120,8 +1074,6 @@ krodhayitum* = of making you angry; *na* = not able; *diikshhitum* = to see;
 
 The king is not capable of making you angry. He is not even able to see you with
 anger. He will give up his life for your love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1168,8 +1120,6 @@ strength.
 
 Oh, foolish one! The king will not be able to transgress your word. You realise your
 abundant strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1216,8 +1166,6 @@ abundant strength.
 
 King Dasaratha may offer you diamonds, pearls, gold and various other precious
 stones. Do not care for them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1266,8 +1214,6 @@ tvaa; = you.
 Oh, Kaikeyi, the great fortunate! you remind Dasaratha of those boons given by him
 to you in that battle between celestials and demons. See that your benefit does not get
 thwarted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1314,8 +1260,6 @@ king steady; *vriNuyaaH* = ask; *imam varam* = this boon.
 
 Dasaratha himself will raise you from the floor and offer you the boon. Thus , after
 making him steady, you ask for this boon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1362,8 +1306,6 @@ for fourteen years; *bharataH kriyataam* = let Bharata be made; *raajaa* = as ki
 
 "Oh, king! send Rama to forest for fourteen years. Let Bharata be made as king of
 this earth".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1410,8 +1352,6 @@ to forest; *chaturdashavarshhaaNi* = for fourteen years; *te sutaH* = your son;
 
 Rama having been sent to forest for fourteen years, your son will stand firmly,
 having laid his roots and will stay in power for the remaining period.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1458,8 +1398,6 @@ benefits; *siddhyanti* = will be accomplished.
 
 Oh, Kaikeyi! Ask Dasaratha of sending Rama to forest also as a boon. Thus, your son
 will accomplish all the desired benefits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1503,8 +1441,6 @@ people; *tava* = your; *bharatascha* = Bharata; *bhavishhyati* = will become;
 
 Thus , by sending Rama to exile, he will not become amiable to people. Your Bharata
 will become king, after the enemies having been annihilated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1553,8 +1489,6 @@ manushhyaH* = having drawn people to his fold; *suhridbhiH* = and friends also;
 
 When Rama returns from forest, your wise son will accumulate friends and draw people
 to his fold, thus establishing roots himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1597,8 +1531,6 @@ appropriate time; *te* = to you; *viita saadhvasaa* = after bequeathing fear;
 
 This is the appropriate time for you. Be fearless and by your insistence, make the
 king turn aside his effort to anoint Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1644,8 +1576,6 @@ Manthara; *idam* = these words.
 
 Kaikeyi, being brain-washed an unworthy matter as the most worthy matter by
 Manthara, accepted her well and having delighted, spoke to her as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1661,8 +1591,6 @@ natured; *param vismayam gataa* = was very much surprised; *vaakyena* = by words
 
 Though of right thinking in nature, Kaikeyi was very much surprised to hear
 Manthara's words and like a small girl, got into a wrong path.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1715,8 +1643,6 @@ I have not recognised; *tvaam* = you; *shreshhTaam* = as the best;
 Oh, Manthara! You are telling very good things. Till now, I have not recognised you
 as this good. You are the best among the hunch-backed on this earth in making intellectual
 decisions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1733,8 +1659,6 @@ being; *hitaishhiNii* = and wishing my benefit; *aham* = I;
 
 Oh, Manthara! you always show interest in my well being and wish for my benefit. But
 for you, I would not have been aware of the king's intentions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1785,8 +1709,6 @@ extremely dreadful; *tvam* = you; *priyadarshanaaH* = appear lovely;
 There are so many hunch backed persons in the world. Their bodily construction is
 very bad. They are crooked and dreadful. But you appear lovely, as a lotus flower bent by
 breeze.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1837,8 +1759,6 @@ both sides; *samunnatam* = and in lofty; *yaavatskandaat* = upto the shoulders;
 Your chest is appearing equally on both sides and is loftily extended unto the
 shoulder. Below it is the stomach with an excellent navel, which is lean as though it is shy of
 seeing the loftiness of chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1885,8 +1805,6 @@ seeing the loftiness of chest.
 
 Oh, Manthara! with perfect hips and well rounded breasts and with your face like an
 untainted moon you are shining well.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1933,8 +1851,6 @@ both; *paadou cha* = feet also; *aayatou* = are long.
 
 Oh, Manthara! your waist decorated with golden belt is making sound. Your
 leg-muscles are well rounded and your feet are tall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -1983,8 +1899,6 @@ are splendid; *raajahamsiiva* = like a royal swan; *gachchhantii* = walking;
 
 Oh, Manthara! you are splendid like a royal swan walking before me, with long thighs
 are wearing a silk sari.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2046,8 +1960,6 @@ anyaashcha = others nivisTaaH = are lying; *tvayi* = in you.
 
 In addition to all those thousand magic effects lying in shambara, the lord of
 demons, another further thousands of magic effects are lying in you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2064,8 +1976,6 @@ and magic effects.
 
 In your long hunch, which looks like an apex of a chariot, are dwelling your various
 thoughts, royal arts and magic effects.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2118,8 +2028,6 @@ garland; *hiraNmayiim* = made of gold.
 
 Oh Manthara! When Rama goes to forest and Bharata gets kingdom, I shall adore this
 hunch back with a golden garland.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2135,8 +2043,6 @@ gold; *jaatyena* = of good class.
 
 Oh, Manthara! After accomplishing the benefit desired by me, I shall, with delight,
 get your hunch back anointed with well refined gold of good quality.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2179,8 +2085,6 @@ get your hunch back anointed with well refined gold of good quality.
 
 Oh, Manthara! I shall get beautiful ornaments made and for your forehead auspicious
 dots of variety done of pure gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2224,8 +2128,6 @@ competing with; *chandram* = moon.
 You will be moving around like an angel, wearing beautiful clothes. You will achieve
 an important position in the eyes of your adversaries with pride and with your face, incomparably
 competing with moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2273,8 +2175,6 @@ bhushhitaaH* = adorned with all ornaments; *sadaa* = always; *paricharashhyanti*
 The hunch backed women, adorned with all ornaments, will always do service, at your
 feet, as how as hunch-backed women, adorned with all ornaments, will always do service at your
 feet, as how as hunch-backed you are doing it to me.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2315,8 +2215,6 @@ couch;agni sihaamiva = like a flame of five; *vedyaam* = in a sacrificial altar.
 
 Manthara in this way being praised spoke these words to Kaikeyi, who was lying in a
 clean couch like a flame of fire upon the sacrificial altar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2363,8 +2261,6 @@ act; *anudarshaya* = show your influence; *raajaanam* = to king.
 
 Oh, Kaikeyi the auspicious one! When water has already flown out, there is no use
 constructing a dam. Now rise and do this purposeful action. Show your influence to the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2447,8 +2343,6 @@ Kaikeyi who was of wide eyes, who was proud of her intoxicating beauty, who was 
 a queen, removed pearl necklace worth in lacs and other great valuable auspicious ornaments from
 her body, entered the chamber of wrath along with Manthara, lied on the floor there like a golden
 wire and spoke to Manthara as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2502,8 +2396,6 @@ person; *iha* = here.
 
 "After Rama's going to the forest, Bharata shall get the kingdom. Or else, you
 inform the king that I died here itself".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2519,8 +2411,6 @@ to me; *na* = nor; *ratnaiH* = diamonds; *na* = nor; *bhuushhaNaiH cha*
 
 Neither gold nor diamonds nor ornaments are of any use to me. on which day Rama gets
 anointed for the kingdom, the same day it will be the end of my life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2573,8 +2463,6 @@ upetya* = in relation to Rama.
 Afterwards, that Manthara again spoke to the seriously talking mother of Bharata
 that is Kaikeyi the following words which were beneficial to her and not beneficial in relation to
 Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2629,8 +2517,6 @@ son; *bharataH* = Bharata; *abhishhekshhyate* = will get anointed ; *yatasva*
 
 If Rama becomes king, you and your son will be destroyed. Oh, Kaikeyi of auspicious
 qualities! Hence you try for coronation of your son, Bharata
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2691,8 +2577,6 @@ keeping; *hastou* = hands; *hR^idaye* = on heart; *shamshasa* = praised;
 Having thus hit by arrows of words employed by Manthara again and again, Kaikeyi
 felt sad, was angry with the king, by keeping hands on her heart, was surprised with the cleverness
 of Manthara and praised her time and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2743,8 +2627,6 @@ bhavishhyativaa* = or Bharata becomes; *samR^iddha kaamaH* = fulfiller of desire
 
 If Rama does not go to forest from here, I do not long for any mattresses or
 garlands or sandal paste or eye-liner or drink or food or even the loaf here.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2798,8 +2680,6 @@ bhojanam* = drink or food; *na* = nor; *jiivitamcha* = life even.
 
 If Rama does not go to forest from here, I do not long for any mattresses or
 garlands or sandal paste or eye-liner or drink or food or even the life here.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2854,8 +2734,6 @@ vachanam* = these words; *sudaaruNam* = which are cruel; *atta* = afterwards;
 
 Kaikeyi, thus uttering cruel words, having removed all ornaments, lied on the floor
 without a mattress like a fallen angel.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 </details>
 
@@ -2914,8 +2792,6 @@ sky; *magnataarakaa* = with missing stars; *tamovR^itaa* = surrounded by gloom.
 
 Kaikeyi, having removed all adornments, having her face covered by the darkness of
 extreme anger and with her depressed mind, looked like a starless sky in a gloomy night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

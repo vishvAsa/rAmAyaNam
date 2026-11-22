@@ -16,8 +16,6 @@ title_english = "064 Monkeys arrive at seashore"
 Monkeys on arriving at seashore are awestruck to have a glimpse of unnavigable ocean, which is tumultuous with
 many sea-creatures. Angada noticing the baffle of monkeys pacifies them and elicits information about each monkey's
 capability to jump over the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -63,8 +61,6 @@ samyuktaa* = gladness, associated with - gladly; *samutplutya [sam ut plutya]* =
 
 Those lion-hearted fly-jumpers who are informed thus by the kingly eagle Sampaati have gladly jumped and loped
 and screamed in league [4-64-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -111,8 +107,6 @@ arrived.
 
 On hearing the words of Sampaati, the monkeys have delightedly come to the ocean to go to the residence of Ravana,
 longing for a glimpse of Seetha. [4-64-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ Here the word *pratibimba * is taken as entire ocean with its shores, and the oc
 framed by it shores.' Thus, the ocean is said to contain all the items of entire world and it is becoming a world
 by itself, together with its own paraphernalia, from fishes to sharks, pebbles to diamonds etc. This is according
 to Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ with their wide-opened mouths.
 
 Here in this mms of Gorakhpur one verse is not given which is available in other versions. That verse is given
 here for an easy comprehension of the later verses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -303,8 +293,6 @@ Somewhere that ocean is as though sleeping well, and somewhere else it is as tho
 overspread with tidewaters as high as mountains, somewhere else it is tumultuous with the best demonic beings
 who are the residents on the plane of netherworld, and the elephantine monkeys despaired on seeing such a hair-raising
 ocean.. [4-64-5, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -351,8 +339,6 @@ saying.
 
 On seeing the shoreless ocean that is like an endless sky, hence unnavigable, the vanara-s are despaired and said
 each to each, "how to vault this ocean?" [4-64-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ each to each, "how to vault this ocean?" [4-64-7]
 
 Then the best one among monkeys, Angada, started to inspirit the army of monkeys who are anguished by fear on
 their gazing at the ocean. [4-64-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -446,8 +430,6 @@ ruins.
 
 "Loosing heart to dismay is an unworkability, because dismaying itself is detrimental, and dismay alone ruins
 a person, as a vicious viper unworkably ruins an innocent child... [4-64-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -503,8 +485,6 @@ has occurred. [4-64-10]
 
 These two sayings of Angada, and suchlike at other places, become precedent for the sayings of Krishna in Bhagavad
 Gita, esp., in the Ch. of *arjuna viSaadayoga* 'Arjuna's Despair'.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -550,8 +530,6 @@ vR^iddhaiH vaanaraiH saha* = old, monkeys [golden-agers,] along with; *samaagamy
 
 While that night is elapsing into the wee hours of next day, Angada met all the golden-ager monkeys, and again
 deliberated with them. [4-64-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -598,8 +576,6 @@ like; *babhau* = beamed forth.
 
 When those troops of monkey army stood encircling Angada, it beamed forth like the army of gods encircling Indra.
 [4-64-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -658,8 +634,6 @@ anena sena patiH prabalaH kartavyam iti suucitam | tathaa ca udyoge bhaarate - b
 bhavaanushanasaa tulyo hita eShii ca sadaa mama | asamhaaryaH sthito dharme sa naH senaapatiH bhava || dk
  Now,
 excepting Angada and Hanuma, some other vaulter is needed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -706,8 +680,6 @@ spoke.
 
 Then that enemy-subjugator and illustrious Angada, on revering the old-ager monkeys and paying due respects to
 the army of monkeys, spoke this meaningful sentence. [4-64-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -753,8 +725,6 @@ sandham* = truth [truthful word,] bounden; kariSyati, makes [facilitates.]
 
 "Now, who is that great-resplendent one who can vault over the ocean and who is he who can facilitate the enemy-repressor
 Sugreeva to become truthful to his word... [4-64-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -804,8 +774,6 @@ yojana shatam langhayeta* = yojana-s [distance,] hundred, hurdles over; *imaan y
 
 "Who is that brave hurdler who can hurdle over a hundred yojana distance, oh, fly-jumpers, who is he who can even
 emancipate all these monkey commanders from the great fear of Sugreeva... [4-64-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -852,8 +820,6 @@ even; *pashyema* = we can see.
 
 "By whose benignancy we can rejoicingly see our wives, sons, houses and homes on going back from here after achieving
 the purpose of our task... [4-64-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -903,8 +869,6 @@ also; *mahaabalam sugriivam ca* = great-mighty one [here, ruthless one,] to Sugr
 
 "By whose benevolence we can unworriedly approach Rama, or even that irascible Lakshmana, or ruthless Sugreeva,
 as well... [4-64-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -951,8 +915,6 @@ dakSiNaam* = munificence; *dadaatu* = let him give.
 
 "If someone among you is competent enough to jump over the ocean, that monkey may now quickly give us all, a munificence,
 called a solemn impunity from Sugreeva..." Angada addressed monkeys in this way. [4-64-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -998,8 +960,6 @@ all, that, monkey, troop; *stimitaa iva abhavat* = standstill [dumbfounded,] as 
 
 On hearing Angada's words there is none someone to say something in that matter, as the entire monkey troop is
 as though dumbfounded. [4-64-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -1052,8 +1012,6 @@ again, adored ones [for your adventures,] also, even.
 Again that best one among monkeys Angada clearly said to those monkeys thus, "all of you are the best ones among
 powerful monkeys, you all are determinedly venturesome, born in flawless families and even adored again and again
 for your adventures... [4-64-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 </details>
 
@@ -1103,8 +1061,6 @@ capability - is there, that; *bruvadhvam* = let it be said.
 
 "There will be no barrier to whomsoever, whensoever he wanted essay wheresoever, isn't it! Hence, oh, best fly-jumpers,
 each one you may give an account as to which one has got which capability in jump-leaping the ocean. [4-64-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga64/kishkindhasans64.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

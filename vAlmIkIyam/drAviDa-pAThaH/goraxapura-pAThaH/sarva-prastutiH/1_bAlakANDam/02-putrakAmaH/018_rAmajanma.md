@@ -21,8 +21,6 @@ are born. Their virtues in childhood and rituals connected thereto are depicted 
 then contemplates the marriages of the princes, since marrying sons after completion of education
 is customary. At that juncture Sage Vishvamitra arrives at the court of Dasharatha seeking
 help from the king. Dasharatha receives him adoring in high esteem.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -110,8 +108,6 @@ puriim* = entered, city [Ayodhya,].
 
 The king completing his consecratory vows held for horse ritual, entered Ayodhya city along
 with the company of his queens, servants, guards and vehicles. [1-18-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -153,8 +149,6 @@ him, the king; *yathaarham puujitaaH* = honoured befittingly; *muditaaH*
 The other kings who arrived for the ritual are delighted when befittingly honoured by the
 king Dasharatha, and they too returned to their countries, after suitably adoring the eminent
 sage Vashishta. [1-18-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -202,8 +196,6 @@ shone forth in fine fettle. [1-18-4]
 Some commentaries said that the soldiers are given white and clean uniforms by Dasharatha
 by the word *shubhraaNi* and hence they are happy. But they may be said to be sprucely
 without those gifts from Dasharatha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -253,8 +245,6 @@ _________________
 
 On the departure of visiting kings, then that fortunate king Dasharatha entered the city Ayodhya,
 keeping eminent Brahman priests ahead of him in the procession. [1-18-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ with virtuous one, king [Romapaada]; *anugamyamaanaH cha* = followed by, king al
 Well adored by king Dasharatha sage Rishyasringa also travelled along with his wife Shanta,
 followed by his father-in-law King Romapada, and along with other co-travellers, namely the
 entourage of Romapada. [1-18-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ entourage of Romapada. [1-18-6]
 
 On dispersing all of them king Dasharatha gratifyingly dwelled there in Ayodhya, with a satiated
 heart dwelling upon the birth of his sons. [1-18-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -485,8 +471,6 @@ by Vishnu. The fruit of ritual is obtained in the shape of dessert, and Kausalya
 half of it, but it is not half of Vishnu as he is illimitable. Even Sreenivasa Aiyangar took
 it as half, in saying half of Vishnu's essence is Rama. This has become a perennial topic debating whether
 the incarnation of Rama is a *pUrNaavatAra*, *ardhaavatAra* or *aMshaavatAra*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -526,8 +510,6 @@ the incarnation of Rama is a *pUrNaavatAra*, *ardhaavatAra* or *aMshaavatAra*.
 
 Kausalya shone forth with such a son whose resplendence is unlimited, as with lady Aditi who
 once stood out with her son Indra, the best one among gods. [1-18-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -577,8 +559,6 @@ itself is his valour and who is fourth component of manifest Vishnu, namely Rama
 The fraction indicated here like 'one fourth of Vishnu' etc may be reckoned as the share of
 the dessert consumed by the queens, but not as a cleaved portion of Vishnu as he is an indivisible
 entity. Here it is half of one-fourth i.e., one-eighth of dessert given to Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -619,8 +599,6 @@ epitome; *lakShmaNashatrughnau* = Lakshmana and Shatrughna;
 
 Queen Sumitra then gave birth to two sons who are the embodied epitomes of Vishnu, namely
 Lakshmana, and Shatrughna, who are valiant ones and experts in all kinds of weaponry. [1-18-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -690,8 +668,6 @@ months' -- Schlegel.
 
 The eleven-month gap between Rama and Bharata is unapparent in the words
 of verse. This may be from some other version of Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -758,8 +734,6 @@ containing their meanings. We request the readers to kindly inform us if they ha
 the meanings of these seemingly useless and metre-filling-like epithets in any book, so that,
 that book will be brought to the notice of readers who are mistaking them as 'redundant stanza
 fillers'.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -780,8 +754,6 @@ pratigR^ihya* = gods on taking their portion [of oblations]; *yathaa aagatam*
 
 On the competition of the horse ritual of high-souled Dasharatha, the golds having received
 their portion of sacrificial oblation returned to their abodes as they have come. [1-18-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 </details>
@@ -838,8 +810,6 @@ flowery, rain, also, fallen; *ayodhyaayaam janaakulaH* = with people thronging i
 The celestial singers sang melodiously, paradisiacal dancing parties danced, divine drums
 drummed and heavens rained flowers, with all this there is a great festivity in Ayodhya with
 thronging people. [1-18-17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1072,8 +1042,6 @@ sounding - hilarity, jubilation; *tatra* = there - on streets; *vipulaaH virejuH
 Hilarity filled the streets with people stampeding them and with the flurry of actors, dancers,
 singers and instrumentalists, as well by other onlookers, and there on the streets widely
 strewn are all kinds of gems appreciating the artists. [1-18-18b, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1114,8 +1082,6 @@ braahmaNebhyaH* = to Brahmans; *vittam* = funds; *godhanaani sahasrashaH*
 
 The king gave worthy gifts to eulogisers, bard singers, and panegyrists, and to Brahmans he
 gave funds and wealth in the form of thousands of cows. [1-18-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1206,8 +1172,6 @@ shatrughno nityashatru-ghnaHShatrughna is always an enemy destroyer.
 The naming ceremony acquires a particular significance, because Vashishta, the *purohita*
 = *puraa* future; *hitaH* well-wisher of; well wishing advisor about the future
 of the kingdom, named these princes with a vision into the future.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 </details>
@@ -1268,8 +1232,6 @@ The king feasted Brahmans, urbanites and villagers and he gifted many valuable g
 in an unlimited way, and all the rituals of birth and ceremonies sequel to it like naming
 ceremony, first-food-feeding ceremony, first-hair-removal ceremony, and sacred thread ceremony
 are performed in respect of the princes. [1-18-23, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1321,8 +1283,6 @@ self-emerged [god, Brahma].
 
 Among those princes the eldest one Rama is like a flagstaff and a delight of his father Dasharatha,
 and he became acceptable to all beings like the self-created Brahma. [1-18-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1369,8 +1329,6 @@ and he became acceptable to all beings like the self-created Brahma. [1-18-24b, 
 
 All the princes are scholars in Veda-s, valiant ones, all are interested in the welfare of
 the world, all are intellectuals and all of them possess an air of probity. [1-18-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1422,8 +1380,6 @@ satyaparaakramaH* = Rama, truthfulness as his valorous one; *nirmalaH shashaanka
 
 Among them the great resplendent Rama, whose valour itself is his truthfulness, is the dear
 one to all the world like the tranquil moon. [1-18-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1441,8 +1397,6 @@ shoulders; *ashvapR^iSThe* = on [riding] horse's back; *cha* = also;
 Rama is admittedly a champion of riding elephants and horses, also in tactical charioting,
 and he rejoices in the art of archery, and absorbed in the obedient service of his father.
 [1-18-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1489,8 +1443,6 @@ jyeSThasya bhraatuH* = towards elder, brother; *raamasya* = in respect of Rama;
 
 Right from childhood Lakshmana, the enhancer of prosperity, is always amiable towards his
 world-charming elder brother Rama. [1-18-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1508,8 +1460,6 @@ outer life - alter ego, [he behaved like alter ego].
 Lakshmana who is endowed with the wealth of dedication dedicated himself to Rama with bodily
 service, and while performing all agreeable deeds in respect of Rama, he behaved like Rama's
 alter ego. [1-18-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1556,8 +1506,6 @@ ca* = brought [for him,] delicious, food, also; *tam vinaa* = without him [Laksh
 
 That best one among the men Rama does not get his sleep without Lakshmana and he would
 not eat food brought for him, however delicious it may be, without Lakshmana. [1-18-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1602,8 +1550,6 @@ not eat food brought for him, however delicious it may be, without Lakshmana. [1
 
 Whenever Raghava mounts a horse and goes on a hunting game Lakshmana rushes after him wielding
 his bow as a squire. [1-18-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1620,8 +1566,6 @@ he is, a dear one.
 
 Lakshmana's younger brother Shatrughna is a dear one to Bharata, like that Bharata too held
 Shatrughna dearer than his own lives. [1-18-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1661,8 +1605,6 @@ fortunate, four, dearest, sons; *pitaamahaH devaiH iva* = Forefather, Brahma, as
 
 King Dasharatha is highly gladdened with four of his highly fortunate sons like the Forefather
 Brahma with gods in heaven. [1-18-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1715,8 +1657,6 @@ When all of the four sons are thus prospering with prudence, gifted with all the
 to do wrong deeds, well-known for their gentility, knowers of pros and cons and even the conscientious
 princes, then their father Dasharatha is contented in respect of all of them who are such
 radiantly brilliant and potential princes, like Brahma. [1-18-34b, 35, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1757,8 +1697,6 @@ radiantly brilliant and potential princes, like Brahma. [1-18-34b, 35, 36a]
 Even those tigerly-men, namely the princes, are engrossed in the studies of Veda-s, delighted
 to render service to their father and they are also the experts in art of archery. [1-18-36b,
 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1831,8 +1769,6 @@ daarakriyaam prati* = about their matrimonial works [alliances]; *chintayaamaasa
 
 Then the noble souled Dasharatha contemplated along with his priestly teachers and relatives
 about the matrimonial alliances of his sons. [1-18-37b, 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1848,8 +1784,6 @@ about the matrimonial alliances of his sons. [1-18-37b, 38a]
 
 While the great souled Dasharatha is discussing the marriages of princes among his ministers,
 the highly powerful sage Vishvamitra arrived. [1-18-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1906,8 +1840,6 @@ king.]
 Desirous to have an audience with king Vishvamitra said to the doorkeeper, "Let the king be
 informed quickly that I, the son of Gadhi from the dynasty of Kushi, have come" [1-18-39b,
 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1947,8 +1879,6 @@ informed quickly that I, the son of Gadhi from the dynasty of Kushi, have come" 
 
 On listening those words all the doorkeepers are dumbfounded, and ushered by those words they
 quickly rushed to the place of Dasharatha. [1-18-40b, 41a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -1989,8 +1919,6 @@ as has come; *ikShwaakave nR^ipaaya* = to the king of Ikshwaku dynasty; *aaveday
 
 Then on their arriving at the king's palace the doorkeepers have announced to the king of
 Ikshvaku-s, namely Dasharatha, about the arrival of sage Vishvamitra. [1-18-41b, 42a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2033,8 +1961,6 @@ priests; *samaahitaH* = collecting himself, in self-possessed manner; *[tam*
 On hearing that message from doorkeepers Dasharatha is highly pleased and he has gone towards
 Vishvamitra in a self-possessed manner along with royal priests, as Indra would ceremoniously
 go towards Brahma. [1-18-42b, 43a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2086,8 +2012,6 @@ upahaarayat* = water, offered.
 Then on seeing the resplendent sage Vishvamitra, whose radiance is by his own ascesis and
 who has severe self-discipline, the king offered water with a gladsome aspect, as first customary
 hospitality in receiving unexpected guest. [1-18-43b, 44a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2132,8 +2056,6 @@ cha avyayam cha eva* = well-being, also, welfare, also, thus; *paryapR^icChat*
 
 On receiving water from the king scripturally and customarily Vishvamitra enquired after the
 well-being and welfare of king Dasharatha. [1-18-44b, 45a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2174,8 +2096,6 @@ in rural areas, among relatives; *suhR^itsu* = among good hearted-ones - friends
 
 That highly righteous sage Vishvamitra asked the king after the well-being of city, exchequer,
 rural areas, friends and relatives. [1-18-45b, 46a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2223,8 +2143,6 @@ humans; *saadhu anuSThitham* = properly, performed.
 Sage Vishvamitra asked Dasharatha, "Are all of the provincial kings acquiescent to you, and
 all your enemies conquered? Are you properly performing the devotional and social works?"
 [1-18-46b, 47a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2276,8 +2194,6 @@ spoke [asked after,] indeed.
 
 And on meeting the eminent sage Vashishta and with them the other exalted sages according
 to custom Vishvamitra asked after their well-being. [1-18-47b, 48a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2318,8 +2234,6 @@ king, adored - invited; *niSeduH* = took seats.
 
 Then adoringly invited by the king Dasharatha all of them gladly entered the palace and they
 took their seats according to protocol. [1-18-48b, 49a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2360,8 +2274,6 @@ took their seats according to protocol. [1-18-48b, 49a]
 
 Then the very generous king Dasharatha is gladdened at heart at the arrival of Vishvamitra,
 and he spoke this way feeling happy to adore that sage. [1-18-49b, 50a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2419,8 +2331,6 @@ tathaa eva* = your, arrival, like that, only; *manye* = is deemed; *swaagatam
 "I deem your arrival is in the vein of mortals attaining ambrosia, rainfall in a droughty
 land, a barren father begetting a son through his deserving wife, a regain of long lost treasures,
 and the gladness at a great happening, oh, great saint, welcome to you." [1-18-50b, 51, 52a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2477,8 +2387,6 @@ recipient from me, what is that choicest object of yours to be fulfilled by me, 
 way. Oh, endower of respect, for me your arrival is fortunate whereby my birth is fructified
 and my life flourished today, and wherefore I could see a great Brahman like you visiting
 my home, therefore the sun appears to have dawned in my night. [1-18-52b, 53, 54a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2535,8 +2443,6 @@ sainthood by ascesis; *mayaa bahudhaa puujyaH asi* = you are venerable in many w
 "Originally your glory was explicit by your title kingly-sage, and subsequently you
 attained the Absolute-sainthood by your ascesis, and you are venerable to me, in many
 ways." [1-18-54b, 55a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2559,8 +2465,6 @@ by your very appearance I have become one who has gone on a quiet pilgrimage. [1
 Dasharatha deems that city itself is sanctified with the arrival of Vishvamitra and thinks
 that he is like the one who secured the merit of pilgrimage without actually going over a
 sacred place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2608,8 +2512,6 @@ sacred place.
 
 "You may tell me, entreating which work your arrival chanced here and I feel that I am indeed
 blessed and wish to make it happen to achieve results. [1-18-56b, 57a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2666,8 +2568,6 @@ hi* = you are god for me, indeed.
 "It is unapt of you to deliberate about the feasibility of the work, oh, sage with blest vows,
 while I am the fulfiller of it without any reminder, since you are god to me, indeed. [1-18-57b,
 58a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2714,8 +2614,6 @@ is the unexcelled one.
 
 "Oh, Brahman, this is the great prosperity that bechanced on me, and this is propriety in
 its entirety that bechanced on me, as a result of your arrival. [1-18-58b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 </details>
 
@@ -2764,8 +2662,6 @@ On hearing the words of high-minded Dasharatha, said that way in all his humblen
 that are pleasant to ears as well to heart, he who is a renowned for his personal attributes
 and a reputed one by his exceptional qualities, that sublime sage Vishvamitra obtained high
 rejoice. [1-18-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

@@ -16,8 +16,6 @@ title_english = "002 Dasaratha s Desire"
 Dasaratha mentions his desire about coronation of Rama before the assembly of
 people. All people in the assembly unanimously and delightfully accept it while describing all of
 Rama's virtues.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ Dasaratha; *evam* = thus; *uvaacha* = spoke; *hitam* = beneficial;
 
 Addressing invited gathering in the court, Dasaratha spoke in friendly, pleasing and
 clear terms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ splendid; *svareNa* = with voice; *anupamena cha* = without comparison;
 In a loud voice resembling that of a kettle-drum, resounding the air like a
 thundering cloud and in a sweet splendid and incomparable voice endowed with the characteristics of
 a king's voice, King Dasaratha the lord of men spoke to the kings as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ my; *uttamam* = best; *raajyam* = kingdom; *paripaalitam* = was protected by;
 
 "It is well known that my excellent kingdom was ruled by my ancestral kings as if it
 were their son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -210,8 +202,6 @@ by; *sarvaiH* = various; *ikshvaakubhiH* = descendants of ikshvaaku;
 
 "I have a desire that this entire land which was protected by the descendents of
 Ikshvaaku dynasty, be bestowed with goodness and the resultant happiness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -252,8 +242,6 @@ Ikshvaaku dynasty, be bestowed with goodness and the resultant happiness."
 
 "Following the path established by my ancestors, I have always protected my people
 with alertness and to the best of my ability."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -295,8 +283,6 @@ umbrella.
 
 "In conducting the kingdom for benefit of the entire people, my body became impaired
 under shade of the white umbrella."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -336,8 +322,6 @@ rest.
 **अनुवादः**
 
 "This body has been living for many thousands of years. Hence I desire rest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -385,8 +369,6 @@ senses; *asmi parishraantaH* = I am tired; *vahan* = of carrying.
 "This burden of worldly righteousness is very heavy. This can be sustained only by
 royal power with qualities like courage and valor. A person who has no control of senses can not
 carry this burden. I have become tired while carrying this burden of righteousness. "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -437,8 +419,6 @@ benefit of people.
 
 "I desire to take rest, entrusting the rule to my son for the benefit of the people,
 after obtaining consent from all those best Brahmans who are close to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -485,8 +465,6 @@ after obtaining consent from all those best Brahmans who are close to me."
 
 "My eldest son Rama is equal to Devendra in valor. He is the conqueror of cities of
 enemies. He is equal to me in all qualities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -535,8 +513,6 @@ the realm of prince.
 "Joyfully, I shall appoint Rama, who shines like the moon together with Pushya star,
 who is the best among the protectors of righteousness and who is an excellent man, to the realm of
 prince."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -586,8 +562,6 @@ glorious; *anuruupaH* = fitting; *naathaH vai* = Lord.
 
 "If Rama becomes the lord, the three worlds also will have the best master. He is a
 glorious man. That Rama is the only fittest lord for the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -628,8 +602,6 @@ I shall become; *gataklesaH* = devoid of difficulties.
 
 "By entrusting this kingdom to Rama, I shall be thus doing an immediate good and
 shall be devoid of difficulties."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -679,8 +651,6 @@ good; *katham vaa* = How else; *aham* = I; *karavaani* = shall do.
 
 "I am telling this after lot of thinking. Give consent to me if you feel this to be
 good and befitting. How else shall I do it?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -729,8 +699,6 @@ opposing views).
 "This is my desire. Yet, let there be thinking on any other beneficial way. Thinking
 by impartial neutral people will be distinctive and well developed through grinding of opposing
 views."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -771,8 +739,6 @@ so speaking; *barhiNaH iva* = like peacocks; *nardantaH* = make sound;
 
 Those delighted kings complimented king Dasaratha so speaking with a loud applause
 as the peacocks cry in delight when they see the raining great cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -819,8 +785,6 @@ created; *janaughodghushhTa sannaadaH* = uproaring sound by the gathering of peo
 
 That building appeared trembling by the sweet and reverberating sound made by the
 gathering of people there with their fond uproar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -878,8 +842,6 @@ Dasaratha.
 After understanding the opinion of King Dasaratha, who knew the holy and worldly
 matters, the Brahmans, important people, urban and rural citizens came to a consensus after
 discussing together and told the aged king as follows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -926,8 +888,6 @@ of years; *saH* = that you; *abhishhinchasva* = inaugurate; *raamam* = Rama;
 
 "Oh king! You are an elderly person with thousands of years of age. Hence,
 inaugurate Rama as the ruling prince."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -968,8 +928,6 @@ white umbrella; *yaantam* = going; *mahataa gajena* = by great elephant.
 
 "All of us want to see Rama, with long arms, the hero with great might born in the
 clan of Raghu , his face protected by a white umbrella, moving on a great elephant."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1011,8 +969,6 @@ knowing.
 
 King Dasaratha, after hearing their words, spoke as follows as though he did not
 know their mind earlier and sought to know their true intention.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1060,8 +1016,6 @@ present matter; *tattvataH* = truly.
 
 "Oh kings, I have a doubt as to why you want Raghava to be the king immediately
 after hearing my words. Inform your real opinion in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1108,8 +1062,6 @@ desire; *drashhTum* = to see; *mama* = my; *aatmajam* = son;
 
 "Why do you desire to see my son as the prince, when I am ruling this earth with
 righteousness?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1156,8 +1108,6 @@ great soul; *nR^ipaH* = Oh king; *te* = your; *putrasya* = son; *santi*
 
 Those kings together with urban and rural citizens after hearing those words spoke
 to the great soul Dasaratha as follows: "Oh king! Your son Rama has many auspicious virtues".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1209,8 +1159,6 @@ happiness.
 "Oh king! We shall tell you now the various virtues of your wise son, listen to
 them. His qualities are equal to those of celestials. They are liked by all. They give happiness to
 all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1251,8 +1199,6 @@ qualities; *satya paraakramaH* = having a true valor; *atiriktaH* = greater than
 
 "Oh king! Rama is equal to Devendra in heavenly qualities. He has true valor. He is
 greater than all the kings born in Ikshvaaku clan."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1303,8 +1249,6 @@ separation.
 
 "Rama is the world renowned gentleman. He is keenly interested in truth and
 righteousness. Only Rama can make both righteousness and wealth combine without separation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1352,8 +1296,6 @@ righteousness. Only Rama can make both righteousness and wealth combine without 
 
 "He is equal to moon in making the people happy; equal to the earth in the quality
 of forgiveness; equal to Brihaspati in wisdom and verily to Devendra in valour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1405,8 +1347,6 @@ to his word; *shiilavaan* = Has good character; *anasuuyakaH* = has no envy;
 "Rama knows all righteousness. He is true to his word and has good character. He has
 no envy. He has patience. He consoles those who are in troubles. He speaks good words. He has
 gratitude. He keeps senses under control."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1453,8 +1393,6 @@ glory; *tejascha* = splendor; *vardhate* = growing; *iha* = in this world.
 He speaks truthful and loving words to all living beings. He worships aged Brahmans endued with the
 knowledge of various sciences. By that, his name, glory and splendor are growing in this
 world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1509,8 +1447,6 @@ Vedas along with its branches. *"
 Grammar 3. Chandas or Prosody 4. Nirukta or Etymology 5. Jyautisha or Astronomy 6. Kalpa or the
 branch of knowledge prescribing the ritual and giving rules for the ceremonial or sacrificial
 acts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1552,8 +1488,6 @@ wisdom.
 
 "Rama is best in the world in the art of music. He has best relatives. He is gentle.
 He is not weak in mind. He has great wisdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1601,8 +1535,6 @@ victory.
 righteousness and in the science of political economy. If it is necessary to go to a battle to
 protect a village or a city, Rama goes with Lakshmana and returns home only after obtaining
 victory."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1659,8 +1591,6 @@ about the servants and the disciples; *nityam* = always; *nikhilena* = completel
 inquires about their well being as though they were his own kinsmen, like a father does to his
 sons. He asks about their wives and children, about the sacred fires, about their servants and
 students, always completely as per the due order."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1709,8 +1639,6 @@ thus; *vaH* = your; *shishhyaaH* = disciples; *shushruushhante* = serving;
 
 "Rama the best among men always asks us interrogatively thus: 'Are your disciples serving you by keenly
 performing their actions?' "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1751,8 +1679,6 @@ performing their actions?' "
 "Rama feels very sad towards afflictions of men; and feels delighted in all
 functions celebrated by people on the occasions of child birth and the like, just as their own
 father does."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1796,8 +1722,6 @@ ways.
 
 "Rama speaks only truth. He is a great hero. He serves elders. He kept the senses
 under control. Rama, who talks smilingly, protects righteousness in all ways."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1813,8 +1737,6 @@ quarreling; *vaktaa* = orator; *vaachaspatiryathaa* = like Brihaspati;
 
 "Rama duly procures beneficent deeds. He is not interested in wrangling talks. He is
 an orator like Brihaspati by his replies and rejoinders."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1862,8 +1784,6 @@ and valour.
 
 "Rama, who enchants the world, has beautiful eyebrows. He has red and broad eyes. He
 is absolutely like the God Vishnu himself in strength, heroism and valour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1910,8 +1830,6 @@ capable of; *bhoktum* = enjoying; *trailokyamapi* = even three worlds; *ekaH*
 
 "He knew the ins and outs of public administration. His senses are not afflicted by
 passion. He is capable of administering not only earth, but also the three worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -1962,8 +1880,6 @@ slaying.
 
 "Rama's anger or mercy is not arbitrary at any time. He kills those who are to be
 slain as per rules. He is not angered at the innocent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -2032,8 +1948,6 @@ entire people; *priitijananaiH* = which create delight; *nR^iNaam* = to humans.
 "He gladly bestows wealth to those with whom he is satisfied. As the sun shines by
 his rays, Rama shines by his qualities that are peaceful, which are enchanting and delightful to
 men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -2074,8 +1988,6 @@ deities like Devendra; *naatham* = as the lord.
 
 "All people desire Rama, who is endowed with this wealth of qualities, who has true
 valour, who is equal to presiding deities like Devendra, to be their lord."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -2126,8 +2038,6 @@ iva* = like kaasyapa; *maariichaH* = the son of Mareechi.
 "Oh king Dasaratha! Rama is born to you as a son, because of your good fortune, for
 the welfare of this world. He has all the virtues befitting of a son, like Kasyapa, the son of
 Marichi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -2176,8 +2086,6 @@ having reputed nature; *devaasuramanushhyeshhu* = in celestials; demons and men;
 "All people in the state including those in the capital as well as those in the
 nearby and in the far off places, pray for long life, health and strength of Rama of reputed
 nature."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -2232,8 +2140,6 @@ renowned; *raamasya* = of Rama.
 
 "Both young and aged women are praying with a stable mind each morning and evening
 to all celestials, for the benefit of renowned Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -2283,8 +2189,6 @@ with princely kingdom; *aayaachitam* = prayer; *teshhaam* = of those people;
 "Oh best of kings, Dasaratha ! We shall see Rama adorned with princely kingdom. Your
 son Rama has the complexion of a black lotus flower and annihilates all his enemies. Let the wish
 of the people be fulfilled by your grace."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 </details>
 
@@ -2341,8 +2245,6 @@ virtues.
 "Oh fulfiller of people's desires, Dasaratha! For our benefit, you gladly and
 immediately inaugurate your son Rama, who is equal to Vishnu, who is interested in the welfare of
 the entire world and who is possessing the best of virtues."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

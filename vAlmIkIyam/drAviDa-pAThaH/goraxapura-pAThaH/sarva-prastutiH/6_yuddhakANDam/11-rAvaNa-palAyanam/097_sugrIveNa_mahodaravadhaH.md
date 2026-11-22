@@ -18,8 +18,6 @@ the hands, feet and thighs of monkeys. Some monkeys seek refuge with Sugreeva an
 life. Sugreeva attacks Mahodara and initially kills the horses of the latter. Both of them fight
 till the weapons in their hands get broken. Then, they start wrestling with each other, till they
 get exhausted. Finally, Sugreeva cuts off Mahodara's head with a huge sword.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -66,8 +64,6 @@ summer.
 
 Being killed by each other in that major battle, those two armies were very much
 diminished soon, like two lakes in a severe summer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -114,8 +110,6 @@ diminished soon, like two lakes in a severe summer.
 
 Ravana the lord of demons got doubly enraged because of the destroyal of his own
 army and the fall of Virupaksha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ seeing; *daivaviparyam* = the reversal of his fate; *vyathaa* = restlessness;
 
 He felt restless to find his own army diminished while being killed by the monkeys
 and to see the reversal of his fate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ jayaashaa* = my hope for victory; *tvayi sthitaa* = lies in you.
 
 He spoke to Mahodara, the annihilator of enemies, standing beside him (as follows):
 "O the long-armed! At this juncture, my hope for victory is centered in you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ of subsistence received from him); *yudhyataam* = fight; *saadhu* = well.
 "O the brave demon! Destroy the army of our enemies. Show your prowess now. This is
 the time to repay the debt of your master (received in the form of sustenance from him). Fight
 well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -312,8 +300,6 @@ enemies; *pataN^gaH iva* = as a moth; (rushed into); *paavakam* = a flame.
 
 Hearing the words of Ravana, Mahodara the chief of demons saying "So it be",
 penetrated into the army of enemies, as a moth rushed into a flame.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -354,8 +340,6 @@ by dint of his own valour.
 
 Emboldened by the words of his master, that mighty demon, with full of energy,
 destroyed the monkeys by dint of his own valour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -402,8 +386,6 @@ enemies; *jaghmuH* = killed; *sarva raakShasaan* = all the demons.
 
 Taking hold of huge rocks and penetrating the terrific army of enemies, those highly
 strong monkeys too started killing all the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -453,8 +435,6 @@ hands; feet and thighs; *vaanaraaNaam* = of the monkeys.
 
 In that great battle, the highly enraged Mahodara, with his arrows decked in gold,
 chopped off the hands, feet and thighs of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -496,8 +476,6 @@ refuge; *sugriivam* = with Sugreeva.
 
 Then, among all those monkeys who were tormented by the demons, some ran away into
 ten directions. Some others sought refuge with Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -545,8 +523,6 @@ close to him.
 
 Seeing the large army of monkeys defeated in the battle, Sugreeva rushed towards
 Mahodara who was immediately close to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -588,8 +564,6 @@ him.
 
 Seizing hold of a large and terrific rock, which looked like a mountain, Sugreeva
 who was endowed with a great energy, hurled it with an aim to kill the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -630,8 +604,6 @@ who was endowed with a great energy, hurled it with an aim to kill the demon.
 
 Seeing that rock falling suddenly, Mahodara, then unagitated, tore it with his
 arrows, though it was difficult to approach.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -679,8 +651,6 @@ like a flock of frightened vultures.
 
 That rock, broken to a thousand pieces by that demon with a multitude of his arrows,
 forthwith fell down on earth, like a flock of frightened vultures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -731,8 +701,6 @@ pieces.
 
 Filled with rage on seeing that rock broken and uprooting a Sala tree, Sugreeva
 hurled it at his enemy and Mahodara chopped it off into many pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -780,8 +748,6 @@ torments hostile forces; *vidadaara* = lacerated; *enam* = Sugreeva; *sharaiH*
 
 The valiant Mahodara, who was the tormentator of hostile forces, lacerated Sugreeva
 with his arrows. That enraged Sugreeva then saw an iron rod on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -828,8 +794,6 @@ Sugreeva; *jaghaana* = killed; *asya hayottamaan* = the excellent horses of Maho
 
 Swinging that flashing iron rod and showing it to him, Sugreeva killed the excellent
 horses of Mahodara with that iron rod of terrible speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -876,8 +840,6 @@ valiant; *mahodaraH* = mahodara; *raakShasaH* = the demon; *atha* = thereupon;
 
 Jumping down from that huge chariot, whose horses had been killed, that valiant
 Mahodara the demon, thereupon seized hold of a mace with anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -919,8 +881,6 @@ battle.
 
 With a mace and an iron road respectively in their hands and roaring like two bulls
 and resembling like two clouds charged with lightning, those two heroes closed in for a battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -967,8 +927,6 @@ and resembling like two clouds charged with lightning, those two heroes closed i
 
 Mahodara the demon was angry with Sgureeva and thereupon hurled his blazing mace,
 which shone like the sun, on Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1025,8 +983,6 @@ fell; *bhuutale* = on the floor.
 Seeing that highly terrible mace, falling on him in that great battle, the mighty
 Sugreeva, the King of monkeys, was enraged with red eyes and struck that mace, by lifting up the
 iron rod. That iron rod broke off and fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1067,8 +1023,6 @@ a formidable steel club; *sarvatah hema bhuuShitam* = entirely decked with gold;
 
 Thereupon, the spirited Sugreeva took hold of a formidable steel club, entirely
 decked with gold, from the earth-surface.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1113,8 +1067,6 @@ hurled; *gadaam* = (another) mace; *asya* = on him; *tau* = those two weapons;
 
 Lifting that steel club, Sugreeva hurled it. Mahodara too hurled another mace on
 him. Those two weapons, clashing each other, broke and fell on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1155,8 +1107,6 @@ two warriors; *tejobala samaaviShTaa* = who were endowed with spirit and strengt
 
 As all their weapons were broken, those two warriors, who were endowed with spirit
 and strength, resembling two blazing fires, started contending with fists.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1207,8 +1157,6 @@ _________________
 
 Roaring again and again, those two warriors then banged each other. Slapping each
 other with their palms, they rolled on the earth's surface.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1255,8 +1203,6 @@ other with their palms, they rolled on the earth's surface.
 
 They raised quickly on their feet and then began to strike each other. Remaining
 unyielded, the two heroes pushed each other on their shoulders.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1306,8 +1252,6 @@ in the course of their wrestling; *tadaa* = then; *mahaavegaH* = the highly fast
 Those two heroes, the annihilators their enemies, felt exhausted in the course of
 their wrestling. Then the highly fast Mahodara the demon took hold of a sword and a shield, lying
 not very far.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1323,8 +1267,6 @@ along with a shield; *tatitam* = lying (there).
 
 In the same way, the highly swift Sugreeva the foremost of monkeys took hold of a
 large sword together with a shield, lying there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1376,8 +1318,6 @@ with their swords upraised.
 Thereupon, those two warriors, who were skilled in the use of weaponry in the
 battle-field and whose limbs were seized with anger, galloped forward, roaring with joy, with their
 swords upraised.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1424,8 +1364,6 @@ maN^Dalam* = circumambulations from left to right; *sutuurNam* = very quickly.
 
 With their thoughts concentrated on one point of victory, both the warriors were
 enraged with each other and performed circumambulations form left to right, very quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1472,8 +1410,6 @@ sword; *mahaacharmaNi* = on the heavy shield (of Sugreeva).
 
 That valiant and evil-minded Mahodara, who was boasting of his own prowess, let fall
 with very high speed, that sword on the heavy shield of Sugreeva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1522,8 +1458,6 @@ sword; shiraH mahodara's head; *kuN^Dalopagatam* = which was adorned with ear-ri
 Even while Mahodara was extracting his sword which had got struck in the shield,
 Sugreeva severed with his own sword, Mahodara's head, which was adorned with ear-rings and
 helmet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1570,8 +1504,6 @@ it; *na dR^ishyate* = could no longer be seen; *tatra* = there.
 
 While Mahodara, with his head chopped off, was falling on the ground, Ravana's army,
 on seeing it, could no longer be seen on the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1612,8 +1544,6 @@ monkeys; *dashagriivaH* = Ravana; *chukrodha cha* = was enraged;
 
 Having killed Mahodara, Sugreeva made a rejoicing roar with his monkeys. Ravana was
 enraged. Rama looked rejoicing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1654,8 +1584,6 @@ them; *vidravanti* = ran away; *tataH* = from the battle-field.
 
 With their faces looking low-spirited all the demons felt dejected. With their minds
 stricken with fear, all of them ran away from the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1703,8 +1631,6 @@ with its rays.
 Having thrown down to the ground that Mahodara, looking like a part of a huge
 mountain lying shattered the invincible Sugreeva shone in glory in the battle-field like the sun
 shines with its rays.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 </details>
 
@@ -1759,8 +1685,6 @@ Having attained victory in the battle-front, Sugreeva then continued to be looke
 by the multitude of gods, Siddhas (a class of demigods who are endowed with mystic powers) and
 Yakshas (another class of demigods attending on Kubera, the god of riches) as also a host of beings
 standing on the earth's surface who were all overwhelmed with joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

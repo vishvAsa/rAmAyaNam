@@ -19,8 +19,6 @@ irked by the wrongdoings of Ravana. In every utterance, Maareecha repeats that n
 the entire demonic race is also going to ruin due to Ravana's impertinence. Finally when Ravana is
 heedless of these advises, Maareecha prepares himself to die by the arrow of an enemy, namely Rama,
 rather than by his own clansman, Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ ordered; *[maariicaH* = Maareecha]; *raakSasa adhipam* = to demon's, king;
 
 When Ravana perversely ordered that way in all his kingliness, Maareecha spoke these
 words caustically and frankly to that king of demons. [3-41-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ karmaNaa* = by which, evil, doer; *upadiSTaH* = taught.
 
 "Oh, night-walker, by which evildoer this thought, which is self-ruinous to you,
 along with your progeny, kingdom and ministers put together, is taught to you? [3-41-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ you, is taught [shown - door of death.]
 
 "Who is that reprobate unhappy with such a happy one like you, and oh, king, by whom
 this door of demise is ingeniously shown to you? [3-41-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ vyaktam* = it is very, clear.
 
 "It is very clear, oh, night-walker, that your rivals with skimpy might are aspiring
 that you should be completely ruined coming into conflict with more mighty Rama. [3-41-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ that - scoundrel; *a hita buddhinaa* = not, helpful, intent -with a pernicious i
 
 "He who wishes you to get ruined by your undertaking a self-made destruction is a
 scoundrel with a pernicious intent, as such, by whom you are counselled to do this? [3-41-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -321,8 +309,6 @@ sentenced to death.
 "Your ministers are not curbing you anywise when you scramble on a high road to
 self-ruination, hence they are indeed to be sentenced to death, but they are not being executed for
 their dereliction. [3-41-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -371,8 +357,6 @@ being restrained.
 "Veracious ministers have to restrain a self-willed king when he relies on a
 wrong-route, isn't it. But you are unrestrained by your ministers though you are self-willed and
 though you are taking a wrong-route. [3-41-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -430,8 +414,6 @@ and *kiirti *is cross-country fame. For this, another ancient commentator Kulluk
 *jiivataH khyaati ruupam yashaH, mR^itasya khyaati ruupaam kiirtim *'a living person's fame
 is *yashaH *and a dead person fame is *kiirti *Because Ravana is alive and Maareecha
 wishes him to be living, he used that chosen word.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -479,8 +461,6 @@ praapnuvanti* = other, subjects of kingdom, distress, they derive.
 "Contrariwise, oh, Ravana, all that beneficence of the king to ministers becomes
 futile when the king behaves perversely, and even the others, namely the subjects of kingdom, will
 derive distress by the negative virtue of their master. [3-41-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -529,8 +509,6 @@ one; *dharmaH ca jayaH ca* = for probity, also, for victory [success, prosperity
 "The king alone is the root cause for probity and prosperity, isn't it. Therefore,
 oh, best prosperous one, in all situations the kings are to be safeguarded from the ill effects of
 influences. [3-41-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -578,8 +556,6 @@ not, also, even.
 
 "It is impossible to govern kingdom, oh, demon, the night-walker, for a king with
 acridity, with hostility, or with immorality. [3-41-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -642,8 +618,6 @@ bhavanti hi | tasmaat muurkha sahasreShu praaam ekam niyojayet || thus puraaNa s
 all mythological scriptures states that: 'In wise men there will be lots of good qualities. and the
 stupid persons too will be with as many qualities, but they are bad in nature. So it is better to nominate
 one wise man than a thousand stupid persons as minister.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -690,8 +664,6 @@ kinsmen; *vi naSTaaH* = completely, ruined.
 
 "In the world many saintly beings that are high-minded and pursuers of ethicality
 are completely ruined together with their kinsmen owing to the misdeeds of others. [3-41-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -738,8 +710,6 @@ vardhante* = will not, flourish.
 
 "Oh, Ravana, the subjects do not flourish while a lord with contrariety and
 coerciveness safeguards them, just like goats guarded by a fox. [3-41-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -787,8 +757,6 @@ vinashiSyanti* = definitely, will completely ruin.
 
 "All those demons will definitely ruin, oh, Ravana, to whom you are the acrimonious
 and malicious king with unconquered senses, though you have conquered the heaven. [3-41-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -847,8 +815,6 @@ tip of the tree, by which a palm fruit, as big and weighty as a small pinball fe
 fox by the swoop of the crow, and then the misery of that fox is unexplainable. The sitting of fox,
 swoop of crow, fall of fruit are all at a time and thus none can blame the other. This syndrome is
 named for such fortuitous happenings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -906,8 +872,6 @@ Maareecha decides that it is better to die at the hand of Rama rather than by
 Ravana; *raamaat api
 martavyam - martavyam raavaNaat api | ubhayod api martavye - varam raamat na raavaNaat | nR^isimha
 puraaNa - *but yet he is trying to divert Ravana from self-ruination.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -954,8 +918,6 @@ viddhi* = as killed, you know thus.
 
 "Know that I am killed just when Rama notices me, and know that you are also killed
 along with your kinsmen just when you steal Seetha. [3-41-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -1004,8 +966,6 @@ there;
 "If you are going to bring Seetha from their hermitage on going there with me, then
 you will not be there, I will not be there, Lanka will not be there, the demons will not be there.
 [3-41-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 </details>
 
@@ -1062,8 +1022,6 @@ spoken; *hitam na gR^ihNanti hi* = expedient, not, take in, isn't so.
 feel that this word of mine is unpleasant to you. People on diminishing lifetime will be similar to
 corpses and a corpse cannot take in the expedient spoken by considerate confidants, isn't so.
 [3-41-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyasans41.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

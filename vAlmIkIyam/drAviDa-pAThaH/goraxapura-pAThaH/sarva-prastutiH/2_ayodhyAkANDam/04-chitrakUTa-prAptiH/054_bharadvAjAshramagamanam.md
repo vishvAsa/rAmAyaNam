@@ -20,8 +20,6 @@ confluence of Ganga and Yamuna rivers. The sage Bharadwaja extends hospitality t
 recommends Chitrakuta as the fittest place for them to sojourn in. Spending the night in discourses
 on various matters with him, the sage grants him leave early next morning to depart for
 Chitrakuta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ place; *suurye* = (when the) sun; *vimale abhyndite* = had clearly risen.
 
 Having spent the beautiful night under the big tree, Rama, Seetha and Lakshmana
 started from that place when the immaculate sun had risen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -156,8 +152,6 @@ the name of Emperor Bhagiratha.
 Comment: Emperor Bhagiratha had the credit of bringing down the stream to the
 terrestrial plane by dint of his devotion and austerities in order to purify the ashes of his
 departed grand uncles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -207,8 +201,6 @@ _________________
 
 Observing various trees while walking at ease, Rama spoke to Lakshmana (as follows)
 when the day had just receded.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -257,8 +249,6 @@ near Prayaga (the confluence of the holy Ganga and Yamuna rivers); *manye* = I t
 "Perceive, Oh Lakshmana, the smoke looking prominent as a sign of the glorious god
 of fire near Prayaga (the confluence of the holy Ganga and Yamuna rivers). I think that sage
 Bharadwaja is staying nearby."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -306,8 +296,6 @@ heard."
 
 "We have certainly reached the confluence of rivers Ganga and Yamuna. Yes, the noise
 produced by clashing of waters is heard."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -358,8 +346,6 @@ Bharadwaja."
 
 "Pieces of timber split up by men who are dependent upon forest-products, as also
 these trees of various kinds are seen in the hermitage of Bharadwaja."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -408,8 +394,6 @@ near the confluence of; *gaN^gaayamunayoH* = rivers Ganga and Yamuna; *divaakare
 Having walked comfortably, Rama and Lakshmana wielding their bows, reached the abode
 of the sage Bhardwaja, near the confluence of rivers Ganga and Yamuna, while the Sun was falling to
 the west.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -458,8 +442,6 @@ approached; *bharadvaajam* = (the vicinity of) Bharadwaja.
 Having reached the hermitage and scaring the beasts and birds (by his very
 appearance as a bowman) and having proceeded on the intervening path for a while, Rama approached
 the vicinity of Bharadwaja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -507,8 +489,6 @@ distance.
 
 Arriving at the hermitage, the two valiant princes, who wished to see the sage,
 accompanied by Seetha, halted at first at some distance off.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -573,8 +553,6 @@ Entering the hermitage and beholding the high-souled sage who was austere and
 contemplative, his glance sharpened through severe meditation, surrounded by a group of disciples,
 who had kindled sacrificial fire, the highly fortunate man as he was, Rama together with Lakshmana
 and Seetha greeted him with joined palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -633,8 +611,6 @@ follows:); *bhagavan* = Oh; *venerable sage! avaam* = we both;
 
 Rama (the elder brother of Lakshmana) introduced himself to the sage as follows: "Oh
 venerable sage! We both are Rama and Lakshmana the sons of Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -651,8 +627,6 @@ austerities"
 
 "Here is my blessed and irreproachable wife Seetha, daughter of Janaka who has
 accompanied me to the lonely forest suitable for religious austerities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -700,8 +674,6 @@ accompanied me to the lonely forest suitable for religious austerities."
 
 "While I was being sent to exile by my father, my young and beloved brother
 Lakshmana (son of Sumitra) of firm vows has also followed me to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -749,8 +721,6 @@ fruits."
 
 "Oh, Venerable sage! Commanded by our father, we are entering a lonely forest to
 practise asceticism, living on roots and fruits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -806,8 +776,6 @@ then offered Madhuparka* as well as water to wash his hands with.
 
 Comment: Madhuparka is a traditional offering which consists of a mixture of
 curds, butter, honey and the milk of the coconut as a welcome-drink.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -849,8 +817,6 @@ accommodation.
 
 The sage, who had practiced austerities, gave them various kinds of delicacies
 prepared from wild roots and fruits and also arranged accommodation for them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -904,8 +870,6 @@ follows)
 
 Honouring with words of welcome, the sage Bharadwaja seated, being surrounded on all
 sides with beasts, birds and hermits, spoke thus to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -922,8 +886,6 @@ hospitality.
 
 Bharadwaja then said these endowed with righteousness to Rama, who had since taken
 his seat after accepting the aforesaid hospitality:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -971,8 +933,6 @@ his seat after accepting the aforesaid hospitality:
 
 "In fact, I am seeing you, arriving here after a long time, Oh scion of Kakutstha!
 And I have heard of your unjust banishment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1019,8 +979,6 @@ the confluence; *mahaanadyoH* = of the two great rivers; *viviktaH* = is seclude
 
 "This holy place at the confluence of the two rivers is secluded and delightful. You
 stay here comfortably."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1068,8 +1026,6 @@ the welfare of all; *pratyuvaacha* = replied; *shubham* = in these pleasant;
 
 Addressed in these words by Bharadwaja, Rama, born in Raghu dynasty, for his part,
 interested in the welfare of all, replied in the following pleasant words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1126,8 +1082,6 @@ hermitage.
 "The people of the city and the rural folks Oh venerable sir, are nearer to this
 place. Finding me easy to see at this place, people keen to see Seetha and myself, I presume, will
 make their appearance at this hermitage. For this reason, I do not wish to stay here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1179,8 +1133,6 @@ _________________
 "See some excellent Seetha suitable for a hermitage in some lonely place, Oh
 venerable sir, where Seetha, the daughter of Janaka, who is worthy of every comfort, may find
 delight in it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1234,8 +1186,6 @@ The said commentator. According to the latest measurements, the distance is
 calculated as eighty miles. Making allowance for the difference in the standard of measurement
 abtaining in those days the figure arrived at by the learned commentator appears to be fairly
 concet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1320,8 +1270,6 @@ approximate to the figure worked out by the said commentator. According to the l
 the distance is calculated as eighty miles. Making allowance for the difference in the standard of
 measurement abtaining in those days the figure arrived at by the learned commentator appears to be
 fairly concet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1368,8 +1316,6 @@ and never sets; *manaH* = his mind; *paape* = on sin."
 
 "As long as a man observes the peaks of Chitrakuta mountain, he will perform
 virtuous deeds and will never set his mind on a sin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1422,8 +1368,6 @@ sport , ascended to heaven, duly attaining their final emancipation."
 
 Kapaala Shiras is the name of Shiva which means happiness or final
 emancipation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1471,8 +1415,6 @@ Rama!'
 
 "I consider that mountain to be a very lonely and comfortable place for you to live
 in. Orelse stay with m here itself, during the period of your exile, Oh Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1519,8 +1461,6 @@ with his brother Lakshmana; *sarvakaamaiH* = with all desired objects.
 
 The pious sage Bharadwaja fulfilled all desires of Rama; who was his beloved guest
 and who was accompanied by his consort, Seetha and his brother, Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1568,8 +1508,6 @@ confluence of Ganga and Yamuna); *kathayataH* = was talking; *chitraah* = on var
 
 While Rama, having approached that great sage at Prayaga(the confluence of Ganga and
 Yamuna), was discoursing on various topics, the auspicious night arrived.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1618,8 +1556,6 @@ the second); *sukhochitaH* = and desered all comforts; *suham* = happily;
 Greatly fatigued, Rama(Scion of Kakutstha) accompanied by Seetha as the third
 (Lakshmana being the second) who was accustmed to all comforts, happily spent that night at the
 lovely hermitage of Bharadwaja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1666,8 +1602,6 @@ approached; *munim* = the sage; *bharadvaajam* = Bharadwaja; *jvalita tejasam*
 
 When the night was gleaming into a dawn, Rama the lion among men approached the sage
 Bharadwaja, who was gleaming with resplendence and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1715,8 +1649,6 @@ residence."
 
 "We have lodged in your hermitage tonight, Oh venerable sir! (Pray) you give us
 permission for fixing our residence now, Oh sage practicing truthfulness !"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1770,8 +1702,6 @@ fruits."
 
 That night having come to an end, Bharadwaja replied for his part, as follows:
 "Proced to Chitrakuta, rich in honey, tubers and fruits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1831,8 +1761,6 @@ possessed of great strength! You set off for that well-known, sacred and lovely 
 Chitrakuta which is adoned with clusters of trees of every description, frequented by Kinnaras and
 Nagas, is rendered charming by the cried of peacocks and infested with lordly elephants and
 bountiful with tubers and fruits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1887,8 +1815,6 @@ will visibly notice; *taani* = them; *raaghava* = Oh rama!
 
 "Since herds of elephants and troops of deer wander all around in the woodlands
 there, you will visibly notice them Oh Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1904,8 +1830,6 @@ nirjharaan* = fissures in rocks; caves and rivulets.
 
 "Roaming about with Seetha, your mind will be delighted to see rivers, cascades,
 peaks of mountains, fissures in rocks, caves and rivulets."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 </details>
 
@@ -1966,8 +1890,6 @@ deer and; *kuNjaraishcha* = elephants; *mattaiH* = in rut."
 "After reaching the auspicious and absolutely beautiful Chitrakuta mountain,
 reveberant in all direction with the notes of small white cranes and cucukoo birds as well as with
 many kinds of deer and elephants in rut, settle down there in a hermitage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

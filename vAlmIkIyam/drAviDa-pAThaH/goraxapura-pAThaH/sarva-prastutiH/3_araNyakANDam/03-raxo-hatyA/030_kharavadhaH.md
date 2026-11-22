@@ -17,8 +17,6 @@ Forest Trek**
 Rama and Khara exchange a haughty wordy duel and when the demon Khara charges at Rama, Rama eliminates
 him with his all-powerful arrow and gods and sages shower flowery rain. Seetha and Lakshmana return
 from their hiding cave and Seetha becomes very happy on seeing her victorious and indefatigable husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -83,8 +81,6 @@ therefore request pundits to consolidate the relevancy of each the inordinate ep
 narrated somewhere like web, if it is going to cost a fortune on printing and stationary. Explaining
 them occasionally is unnoticed, and they appear to be redundant metre fillers in these days where Sanskrit
 itself has become an alienated language.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -132,8 +128,6 @@ yourself.
 
 "So, this is all the strength of yours and your army that is displayed and nothing more to display,
 is it! You wretched demon, it is paltriest compared to my strength, yet you vaunt aloud futilely! [3-30-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ surface, gone down.
 
 "This mace of yours in which you repose your bombastic aplomb, now completely battered with my arrows
 has gone onto the surface of earth, so also is your vanity. [3-30-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ api* = your, that, words, even; *mithyaa* = are fake.
 
 "What that is said by you, 'I will dab the tears of the demons whose kinfolk are dead here...' even
 this word of yours is a fake. [3-30-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ this word of yours is a fake. [3-30-4]
 
 "In boasting you are knavish, in character roguish, and in behaviour ghoulish, such a demon as you are,
 I will take your life away as the Divine Eagle Garuda took away Ambrosia. [3-30-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ rip; *bhinna kaNThasya* = chopped off, of your throat; *te phena budbuda bhuuSit
 
 "Now, my arrows will rip and chop off your throat, and then the earth will guzzle the blood gushed therefrom
 garnished with froth and foam. [3-30-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -368,8 +354,6 @@ to gain, lady, like.
 
 "You will go to eternal sleep embracing the earth as you embrace an un-gainable lady, when both of your
 arms are knocked down to slide on earth, and limbs smeared with dirt. [3-30-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -416,8 +400,6 @@ Dandaka forests; *sharaNyaanaam* = for shelter-worthy [sages]; *sharaNyaa bhaviS
 
 "While you are in profound sleep, oh, notorious demon, this Dandaka forest becomes a shelter to the
 shelter-worthy sages and saints. [3-30-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -464,8 +446,6 @@ move about.
 
 "When the strongholds of demons in your Janasthaana are ruined with my arrows, the sages in this forest
 will move about everywhere, fearlessly. [3-30-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -512,8 +492,6 @@ pra sariSyanti]* = very, quickly, flee away.
 
 "The demonesses who terrorized others so far will be pitiably terrorised now, and they flee away very
 quickly with tear-wet faces as their kinsmen are killed. [3-30-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -594,8 +572,6 @@ they will become.
 grievous family like that of yours, and must be well-matched to you in grievous atrocities, and though
 they might not have tasted a grievous situation so far, since their lives have become meaningless, now
 they will become the enjoyers of the empathy of grief. [3-30-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -620,8 +596,6 @@ been bothersome to Brahmans, and those Brahmans becoming sceptical of your deeds
 are hesitatingly consigning oblations into Ritual-Fire, which are to be swiftly dropped into fire to
 the chants of hymns and even on time, hence you are countervailing against Veda-s and counteracting
 to their rituals, and countermanding their procedures." Thus Rama spoke to Khara irefully. [3-30-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -668,8 +642,6 @@ than braying; *kharaH* = Khara; *nirbhartsayaamaasa* = started to intimidate.
 
 While Raghava is speaking that way with such an impetuosity in that forest, Khara started to intimidate
 him rancorously in a voice stridulous than braying. [3-30-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -719,8 +691,6 @@ of, for sure.
 "Priding yourself resolutely you are unfearing even in a fearful situation, thereby you have indeed
 gone into the control of death, and for sure you are unmindful of what is speakable and what is not."
 Thus, Khara started his tongue-lashing. [3-30-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -782,8 +752,6 @@ such a senseless creature... So, what you have to do now is to finish me, and wh
 is this sermonising. Why not finish me off from this curse and accord salvation?' Maheshvara Tiirtha.
 *anena maraNa samaye janaanaam buddhi bhramsho bhavati iti sUchitam - dk* 'at the time of death
 people's mind deranges...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -835,8 +803,6 @@ contracting; *raNe praharaNasya arthe* = in war, to assault, for purpose of [ass
 Saying so to Rama that nightwalker Khara then knitting his brows tightly saw everywhere for an assault
 weapon for use in that combat, and then he indeed found one not far away from him, namely a huge saala
 tree. [3-30-16, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -883,8 +849,6 @@ you are, killed; *iti ca abraviit* = thus, also, saying - shouting.
 He curled his lips in frown and started to extricate that Saala tree, and that great-mighty Khara on
 forcefully uprooting that tree with both of hands hurled it aiming at Rama, braying loudly and shouting
 at him 'you are dead...' [3-30-17b, 18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -941,8 +905,6 @@ unusual facet of Rama. [3-30-19]
 
 The inveterate bitterness of Rama is to see the unyielding Khara at a time when all of his war paraphernalia
 is lost, but still trying to be aggressive, rancorously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -989,8 +951,6 @@ sahasreNa* = with arrows, a thousand; *samare kharam* = in war, Khara is; *nirbi
 
 Rama whose body is perspiring and whose eyes are acrimoniously bloodshot at ends, he utterly shredded
 Khara with a thousand arrows in that war. [3-30-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1043,8 +1003,6 @@ rapids on Mt. Prasavana, and it overflowed on earth too. [3-30-21]
 
 Mt. Prasavana is depicted in Kishkindha canto where Rama admires and eulogises the rainy season when
 waiting for Sugreeva's help.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1091,8 +1049,6 @@ towards, bolted.
 
 When Khara is tormented with the arrows of Rama in that conflict he is bedevilled and with his blood
 stinking body he quickly bolted towards that Rama alone. [3-30-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1167,8 +1123,6 @@ More so, some scholars hold that this verse has got grammatical glitches, some a
 verse as, even though this verse too has the word *apasarpaNa* scrape:
 *tam aapatantam
 vegena iiptaasyam rudhira plutam | apasR^itya tataH sthaanaat dR^iShTvaa tvarita vikramaH ||*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1215,8 +1169,6 @@ vegena iiptaasyam rudhira plutam | apasR^itya tataH sthaanaat dR^iShTvaa tvarita
 
 Then, Rama snatched an arrow which is similar to the Ritual-fire, and secondary only to the ultimate
 missile, namely the Brahma-missile, for the elimination of Khara in war. [3-30-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1264,8 +1216,6 @@ prati* = Khara, towards; *mumoca ca* = released, also.
 That particular arrow is made available to Rama through Sage Agastya by the king of gods, namely Indra,
 because Indra is a sensible one about the future course of events, and he is also prosperous in securing
 impossible weaponry, and now Rama fitted such an arrow on his bow and released it towards Khara. [3-30-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1314,8 +1264,6 @@ Khara's chest.]
 That formidable arrow is promptly released on Rama's stretching the bowstring up to his ear, bending
 bow almost to a circularity, and which arrow is thunderous while in egress like the thunder of a thunderbolt,
 and that has come and plunged inthe chest of Khara. [3-30-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1368,8 +1316,6 @@ who once was very completely burnt by Rudra in Shveta-araNya, the White-forest. 
 Andhaka is the son of Danu, the wife of Kashyapa Prajaapati, and her progeny is termed as daanava-s,
 demons. Shiva burns this Andhaka with his Third-eye in Shveta-forest, which is said to be at the confluence
 point of River Kauvery in ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1422,8 +1368,6 @@ Khara too is brought down. [3-30-28]
 
 The demon Namuchi secures a boon from the gods that he may not die by wetness or dryness, so Indra uses
 foam and forth, which are neither wet nor dry, to eliminated him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1484,8 +1428,6 @@ varSa vavarSuH* = flowers, rain, showered.
 
 In this meantime gods gathering along with carana-s drummed celestial drums from all over and showered
 flowers on Rama from all over. [3-30-29, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1503,8 +1445,6 @@ flowers on Rama from all over. [3-30-29, 30a]
 And those gods and other celestials in their amazement said among themselves that 'in one and half hours,
 say seventy two minutes of this extreme crack-down Rama with his sharp arrows has eradicated fourteen
 thousand guise changing demons, including their chieftains Khara and Duushana. [3-30-30b, 31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1557,8 +1497,6 @@ all, those, gods; *yathaa aagatam yayuH* = as, they came, went away.
 "Aha! Surprising is this great deed of Rama, the shrewd-soul, what a valour, what a fortitude, really,
 his valour and fortitude are like those of Vishnu..." Thus saying that way all of those gods have gone
 away as the have come. [3-30-32, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1607,8 +1545,6 @@ away as the have come. [3-30-32, 33a]
 All the kingly-sages and elite-sages along with Sage Agastya, who as incidentally came here to witness
 the victory of Rama, then on foregathering near at Rama delightedly said this on adoring him. [3-30-33b,
 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1661,8 +1597,6 @@ came to.
 "He that great-resplendent one, the controller of demon Paka, and the destroyer of enemy's cities, namely
 Indra, once came to the meritorious hermitage of Sage Sharabhanga only for the purpose such an elimination
 of demons. [3-30-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1678,8 +1612,6 @@ countryside, you are brought.
 
 "For the purpose of eradicating these demons who are the evildoers by nature and the natural enemies
 to saintly people you are led to this countryside by the great sages with an ideation. [3-30-35b, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1728,8 +1660,6 @@ dharmam pracariSyanti [pra car iSyati]* = their own [of sages,] duties, well-pra
 "That which is the task of ours it is accomplished by you, oh, son of Dasharatha, now that Dandaka is
 unimpeded these great-sages will be practising their respective sacred devoirs in it." Thus, the sages
 expressed their thanksgiving. [3-30-36b, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1780,8 +1710,6 @@ brave, Lakshmana, with, Seetha; *giri durgaat viniSkramya* = mountain, from cave
 
 In the meanwhile the brave Lakshmana exiting from the mountain cave came along with Seetha to their
 hermitage, and he is charmed at the victory of his brother Rama. [3-30-37b, 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1830,8 +1758,6 @@ _________________
 
 And then that brave and victories Rama too came towards hermitage while great-sages reverenced him,
 and he entered the hermitage while Lakshmana came forward to greet him. [3-30-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1888,8 +1814,6 @@ husband, on seeing; *hR^iSTaa babhuuva* = became, rejoiced; *pariSvaje* = embrac
 
 And Seetha on seeing her husband, the eliminator of enemies and accorder of happiness to sages, embraced
 her husband Rama, rejoicingly. [3-30-39b, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1910,8 +1834,6 @@ is also scatheless, she is all-smiles for him smiling sniggeringly. [3-30-40]
 
 Any wife on seeing her husband returning from a risky journey will embrace her husband delightfully,
 and nothing special about it. But the commentators attach a great significance to this situation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 </details>
 
@@ -1965,8 +1887,6 @@ eliminator of; *muditaiH mahaatmabhiH* = with delighted, great sages; *sa puujya
 
 She whose face is beaming with delight that Seetha, the daughter Janaka, on seeing Rama who has eliminated
 demonic troops, and whom great-sages are worshipping, again embraced him and became rapturous. [3-30-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

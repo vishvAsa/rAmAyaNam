@@ -16,8 +16,6 @@ title_english = "020 Rama eliminates Khara s demons"
 The fourteen demons arrive at Rama's cottage guided by Shuurpanakha and they wage a war with Rama in
 which Rama destructs all their weaponry and eliminates them all. Seeing this defeat Shuurpanakha rushes
 back to her brother to report the defeat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ _________________
 
 Then on arriving at Raghava's hermitage that ghastly Shuurpanakha has shown the brothers, Rama and Lakshmana,
 along with Seetha to the fourteen demons. [3-20-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ upaviSTam mahaabalam = sitting, great mighty; raamam dadR^ishuH = Rama , they sa
 
 They have seen the great-mighty Rama seated in the thatched cottage along with Seetha and Lakshmana
 attending to him. [3-20-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ raamaH abraviit = Rama , said.
 
 On seeing the arrival of the demons, and the demoness Shuurpanakha too, that magnificent Rama of Raghava
 dynasty said to the radiantly brilliant Lakshmana. [3-20-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ that have come; imaan vadhiSyaami = these [demons,] I wish to eliminate.
 
 "Oh, Soumitri, briefly tarry at the close of Seetha as I wish to eliminate these demons who have trailed
 the path of that demoness to here. [3-20-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -266,8 +256,6 @@ iti = so be it, thus; raamasya vaakyam prati apuujayat = Rama 's, sentence, in t
 
 On hearing that word of Rama, then the nimble-souled Lakshmana honoured the word of Rama saying "so
 be it." [3-20-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -314,8 +302,6 @@ even.
 
 On taking up his awful bow that is decorated with gold Raghava stringed it with bowstring and even spoke
 the demons as a forewarning. [3-20-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -372,8 +358,6 @@ vanam praviSTa = not, passable, Dandaka, forest, we entered.
 
 "We the sons of Dasharatha are brothers named Rama and Lakshmana, and we entered the impenetrable forests
 Dandaka along with Seetha. [3-20-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -389,8 +373,6 @@ us.
 
 "We the dispassionate subsist on fruits and tubers treading in the path of virtue, and we being the
 sages resident in Dandaka forest what for you outrage us. [3-20-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -440,8 +422,6 @@ bow; R^iSiiNaam tu niyogena = by sages, but, assigned; aham = I; praaptaH
 
 "As assigned by the sages I chanced here with bow and arrows to decimate you evil-souled and unrighteous
 beings in a crucial clash. [3-20-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -488,8 +468,6 @@ purpose [if you desire your lives]; iha nivartadhvam = now, return.
 
 "Stay there obligingly or you should not be able to return, else if you desire your lives, oh, nightwalkers,
 you may return now. [3-20-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -547,8 +525,6 @@ On hearing that sentence of Rama they the fourteen ghoulish demons who are the s
 handlers of spears have become highly infuriated, and they with their bloodshot eyes and with harsh
 words said these words to Rama, whose eyes are with blood streaks at their ends, and who also is a sweet
 talker, and whose valour is yet unseen by those fourteen demons. [3-20-11, 12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -596,8 +572,6 @@ lives.
 
 "Killed in conflict by us you alone will set your lives loose as an inciter of fury in our highly great
 souled lord Khara. [3-20-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -644,8 +618,6 @@ indeed; aahave yoddhum kim punaH = in battle, [ability] to battle against, why, 
 
 "Indeed, what capability you have as a lone one to stand against many of us in the forefront of war,
 and why tell again about your battling ability in a given battle. [3-20-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -696,8 +668,6 @@ parighaiH shuula paTTishaiH = by maces, spears, broad blade swords; praaNaam vii
 
 "When we launch maces, spears and swords by our might you will forgo your lives, mettle, and even the
 bow now clasped in your hand." So said the demons to Rama. [3-20-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -746,8 +716,6 @@ cikSipuH = they hurled.
 
 Thus saying that way clamorously they the fourteen demons, upraising their weapons they unhesitatingly
 rushed towards Rama alone, and they hurled lances towards that unconquerable Raghava. [3-20-16, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -795,8 +763,6 @@ samastaani = all of them; taavadbhiH eva = as many of them, only; kaancana bhuuS
 
 Rama in turn shredded all of those fourteen lances only with as many arrows that are adorned in gold.
 [3-20-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ bolts [like arrows,] took up.
 
 Next that great resplendent Rama in high wrath took up fourteen iron bolt like arrows that are whetted
 on whetstone and equalling the sun in their dazzle. [3-20-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -871,8 +835,6 @@ iva = Indra [releasing,] thunderbolt, like; baaNaan mumoca = arrows, released.
 
 Then Raghava took up his bow, arched it, and aiming at the targeted demons released arrows as Indra
 would release his Thunderbolts. [3-20-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -923,8 +885,6 @@ then; viniSpetuH [vi niS petuH] = swiftly coming out; bhuumau = into earth [nyam
 
 And by the force of their speed those arrows gored the chests of those demons, and then on coming out
 bedaubed with blood they swiftly penetrated into earth like snakes into snake pit. [3-20-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -974,8 +934,6 @@ Chinna muulaa drumaaH iva = cut down, at base [rooted out], trees, like; buumau 
 
 Those arrows bursting their hearts they are blood bathed, mangled, and utterly dead, and like the uprooted
 trees they fell onto the ground. [3-20-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -1032,8 +990,6 @@ iva = creeper, like; saa tu = she, but; aartaa = agonised; kharam upagamya
 On seeing the demons falling onto ground that demoness Shuurpanakha is convulsed in rage, and she with
 a blanched aspect returned to the near of Khara in an agonising manner like a creeper exuding resin
 on incision, and fell before him as before. [3-20-22b, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -1080,8 +1036,6 @@ of a whiner]; baaSpam mumoca = tears, released.
 
 Then she in the presence of her brother Khara discharged a great outcry, and with a bloodless face she
 spilled tears attuning the strains of a whiner. [3-20-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 </details>
 
@@ -1136,8 +1090,6 @@ reported.
 Shuurpanakha having seen the fall of demons quickly fled from Panchavati of Rama to trikanTaka, the
 capital of Khara, and she being the sister of Khara she reported to Khara all about the destruction
 of those demons, in its entirety. [3-20-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

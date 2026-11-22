@@ -15,8 +15,6 @@ title_english = "005 Sri Rama recollects the lotus eyed Seetha"
 
 Rama recollects the lotus-eyed Seetha and laments much about his separation from her
 Lakshmana consoles him and there approaches the sun-set.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ was kept stationed; *saadhu* = well; *uttare tiire* = at the northern shore;
 
 That famous army, well-protected by Neela, was kept stationed nicely at the northern
 shore of the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ that army; *rakSaa artham* = for the purpose of vigilance.
 
 Both Maina and Dvivida the distinguished monkeys there moved in all directions
 through that army, for the purpose of vigilance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ _________________
 
 After the army was settled at the sea-shore, Rama spoke to Lakshmana who was by his
 side (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ beloved; *vardhate* = is getting increased; *ahanyahani* = day n and day out.
 
 "It is so said that sorrow gets vanished at the passing of time. But my agony of not
 seeing my beloved is getting increased every day."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ _________________
 
 "There is no anguish for me that my beloved is at a distance, nor that she was taken
 away. Her age is indeed passing away. Only about this, I am repenting."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -317,8 +305,6 @@ her limb; *me* = to me; *tvayi* = is obtained through you; *dR^iSTisamaagamaH*
 "Oh, wind! Flow from the side of my beloved. Touch her and touch me too. It is
 through you that I get a contact of her limbs. It is through moon that I get a contact of her
 eyes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -369,8 +355,6 @@ me); *aashaye* = and hovering in my stomach; *dahati* = scorching; *me* = my;
 
 "That darling being carried away; might have cried "Oh, Lord!" Seeking for help.
 That thought is like poison gulped by me, hovering in my stomach and scorching my limbs."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -420,8 +404,6 @@ scorching; *raatrim divam* = night and day; *madanaagninaa* = by the fire of pas
 
 "My body is scorching night and day, by the fire of passion, holding fuel of my
 separation from her and my thoughts of her flaring into shimmering flames."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -472,8 +454,6 @@ in water.
 
 "Oh, Lakshmana! Diving deep into the sea without you, I shall fall asleep. This
 flaming passion will not thus scorch me, lying down in water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -524,8 +504,6 @@ _________________
 
 "It is enough for me, who is passionate, that Seetha with charming thighs and myself
 are resting on one the same earth and on this fact I am able to survive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -575,8 +553,6 @@ wet; *kedaarasya* = by another paddy-field; *sodakasya* = under water.
 
 "Even as a paddy-field without water survives, by getting wet from a neighboring
 paddy-field under water, I also survive since I am hearing her as surviving.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -624,8 +600,6 @@ enemies.
 
 "When shall I behold Seetha with charming hips, having long lotus-like eyes
 flourishing as prosperity, by conquering the enemies?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -676,8 +650,6 @@ man?"
 
 "When, gently raising her face looking like louts, with its beautiful teeth and
 lips, shall I drink as a sick man the sovereign drink of remedy?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -727,8 +699,6 @@ fruits; *bhajishhyathaH nu* = indeed press; *maam* = me?
 
 "When will those breasts which are delightful close, bulging and quivering, looking
 like palmary fruits, indeed press me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -778,8 +748,6 @@ though I am her support; *nuunam* = is certainly; *naadhigachchhati* = not getti
 
 "She, with dark-cornered eyes, who has fallen into the midst of demons, is surely
 not getting any defender, she resembling an orphan, though I am her support."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -829,8 +797,6 @@ cha* = and Dasaratha's; *snushhaa* = daughter-in-law; *shete* = is sleeping;
 
 "How Seetha the daughter of King Janaka, my darling and Dasaratha's daughter-in-law
 is sleeping among ogresses?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -881,8 +847,6 @@ autumn.
 
 "Seetha will come out, driving away (through my force) the unassailable demons, as
 driving away black clouds by a digit of the moon, in autumn."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -929,8 +893,6 @@ food; *desha kaalaviparyayaat* = and adverse position of time and place.
 
 "Seetha, who by nature is slender, will undoubtedly become leaner further because of
 her anguish, her abstinence from food and her adverse position of time and place."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -980,8 +942,6 @@ _________________
 
 "When shall I bring back Seetha, having lodged arrows in Ravana's chest and having
 abandoned this mental agony?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -1029,8 +989,6 @@ celestial; *sotkaNThaa* = with an excited longing; *aalambya* = embrace; *me*
 
 "When indeed Seetha the virtuous lady similar to the child of a celestial, with an
 excited longing, will embrace my neck and release tears of joy?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -1080,8 +1038,6 @@ abandon; *imam* = this; *ghoram* = terrible; *shokam* = anguish;
 
 "When shall I thrillingly abandon this terrible anguish, born out of my separation
 from Seetha so soon, as we abandon a soiled clothing?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -1128,8 +1084,6 @@ from Seetha so soon, as we abandon a soiled clothing?"
 
 While that sagacious Rama was lamenting thus there, the sun, the weak-rayed due to
 day-decline, approached the dusk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 </details>
 
@@ -1179,8 +1133,6 @@ recollecting; *siitaam* = Seetha; *kamelapatraakshhiim* = the lotus-eyes;
 
 Lakshmana consoled Rama who was overwhelmed with anguish, duly recollecting the
 lotus-eyed Seetha. Thereafter, Rama worshipped the evening-twilight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga5/yuddhasans5.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

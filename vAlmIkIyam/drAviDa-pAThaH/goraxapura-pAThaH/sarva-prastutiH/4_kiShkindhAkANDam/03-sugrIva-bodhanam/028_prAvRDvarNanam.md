@@ -18,8 +18,6 @@ Rama eulogises the rainy season for a heavenly elixir is showered for all the li
 the other eulogies to seasons. On this narration about rainy season, there are extensive commentaries by the ancient
 commentators as rainy season occupies a prime ordeal status among other seasons, and some of them are included
 here.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ _________________
 
 Rama spoke to Lakshmana while residing on the mountainside of Mt. Malayavata, also known as Mt. Prasavana, ensuing
 the elimination of Vali and enthronement of Sugreeva. [3-28-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ the elimination of Vali and enthronement of Sugreeva. [3-28-1]
 
 "This is that time of which we thought and it has come to pass. Now it is rainy season. You see the sky fully
 covered with mountainous clouds. [3-28-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -188,8 +182,6 @@ It is an extract of six *rasa-s* elixirs, for the utilisation of various crops.
 *atra meghaaH suurya rashmi marut aadibhiH samudram udakam gR^ihiitvaa garbhavt kaartiika maasa prabhR^iti
 nava maasa dhR^itam sasyaanaam ShaD rasa sampatti hetu bhuutam shuddham udakam shraavaNe maasi muncati it suucitam
 -- dharmaakuutam*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -246,8 +238,6 @@ thus He can easily be reached by the stepladder formation of clouds and he can b
 To do so a wife must be at his side *sa patnyaa vishaalaakshyaa naaraayanam upaagamat*
 'adore that Narayana along with your wife...' and now if Rama were to adore that Supreme, Seetha is
 not at his side. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ cloth bandaged on the gashes of sky. [3-28-5]
 
 The sky's parturition in the form of rain is just over and she is bandaged with cotton-like whitish and softish
 clouds, while the colour of spilt blood is still appearing on those dressings borrowed from the colour of sunset.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -355,8 +343,6 @@ appears like the one sighing for love. [3-28-6]
 
 The birthing of rain is over and to give next birth to next rain, the sky is ready as a wooable female with sighs
 and daubing of sandal pastes to cool off her yearning for love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -412,8 +398,6 @@ both implacably outpouring tears. [3-28-7]
 The earth that becomes heated in summer vents out hot vapours on the fall of first rains releasing its agony of
 heat. The first act of humans to vent out agony is to shed tears. Now the earth is shedding humid tears and she
 is like Seetha who is also in the same predicament of earth, as the heat called the atrocity of Ravana sears Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -460,8 +444,6 @@ coolness of; *ketaki gandhinaH* = Ketaki plant [Pandanus odora tissimus, Mogra,]
 
 "Freed from the wombs of clouds, cool as the leaves of minty-camphor, perfumed with the fragrance of Mogra plants,
 such as these breezes are it is possible to have a draught of them with the bowl of palms. [3-28-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -516,8 +498,6 @@ Sugreeva. It is further fragranced with Ketaka flowers, like the fragrant items 
 As with Sugreeva who after silencing his enemy Vali is anointed on time with the pouring down of all kinds of
 waters from golden flasks, this is mountain after silencing its enemy called sun-sear, is also being anointed
 by rainy downpours.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -584,8 +564,6 @@ of Veda-s, voicing out their chanting like the hum of the air in caves.
 
 *atra parvataanaam kR^iShNa ajina yaj~nopaviita aadi dharma kalpena adhyetR^iu saadR^ishya pratipaadanaat adhyetR^iuuNaam
 brahmacaariNaam kR^iShNa ajina yaj~nopaviita aadi dhaaraNam dharma iti uktam - dk.*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -635,8 +613,6 @@ having - internally suffering with them.
 
 "While the flashes of lightning are whipping the sky as if they are the golden whips, it is letting out rattle
 of thunders holding out against its inly throes. [3-28-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -685,8 +661,6 @@ _________________
 
 "That lightning hingeing on the blue cloud is squirmy, to me it appears like woeful Vaidehi squirming in the grasp
 of Ravana. [3-28-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -734,8 +708,6 @@ as though.
 "For those who are with their beloveds these precincts are advantageous, as their directions, as to which east
 and which is west, are unclear; and to loverless ones like me they are disadvantageous, because the same precincts
 have their planets and even their moon lost, and they look as though begrimed with dark-clouds. [3-28-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -800,8 +772,6 @@ While some natural beings are enthused to take delight in the process of nature,
 *brahma anubhava santuSTha*, or
 Supreme Self, some others are refuting it. Thus my passion is increasing to bring back those perverts onto correct
 path.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -876,8 +846,6 @@ They have nothing to do here on earth because they are immigrants onto earth. So
 returning to their own country, quarters, or abode, *pravaasino... sva deshaan*. Their own
 place *sva desha* is *vaikunTha*. Thus the divine rain blesses them with
 salvation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -948,8 +916,6 @@ Supreme. And *priya anvitaa* indicates involvement in worldly affairs, nominally
 here as 'together with their lovers'. Contrarily, those ruddy gees bound by attachments do not flee
 away, but they will stick to their worldly interests. Thus, this rainy season is sagely, to enable
 the seekers to seek the Supreme, without any bickerings due from the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1011,8 +977,6 @@ The sky, or heaven, is also called Supreme Being, according to the saying
 apparently shiny at places where the clouds of ignorance are not hovering on the minds of the discerners, and
 it is unshiny and unapparent at other places because of the gloom in the mind of the beholder about the disposition
 of that sky, or Supreme Being.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1078,8 +1042,6 @@ waters. This is indicative of purposeful devotion, *saatvika guNa prathaana bhak
 evident. Apart from these two, there are some simple devotees. They do not have any higher
 values/purposes in view, except to extol, praise, and sing for the Ultimate. Thus, the screaming
 and screeching peacocks indicate such simple devotees. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1142,8 +1104,6 @@ and to him the ripened fruit is made available. Though Rose apple is an insignif
 has a medicinal property in this rainy season. And though mango is a rich fruit it is not the season to consume
 it. So it is not picked now. Thus it is becoming a wasted fruit. Fruits of actions are therefore according to
 actions but not according to their richness or otherwise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1205,8 +1165,6 @@ like invigorated lordly elephants standing up to a fight. [3-28-20]
 The towering mountains, or the haughty elephants stand tall among all, and their thunderous grumblings are akin
 to the rumblings of Vedic scholars who stand tall to establish Vedic tenets, though they come to fistfights with
 opponents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1269,8 +1227,6 @@ couple in the form of rain, that which is sprinkled on that garden, the desires 
 and their means are fulfilled. Govindaraja. The *aparaahNa* is the fourth part of daytime,
 among the five, and they are: *praataH, sangavaH, madhyaahna, aparaahNa, saayaahna *early
 morning, morning, noon, afternoon, and evening.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1337,8 +1293,6 @@ they journey further towards total salvation. A pregnant woman also moves haltin
 The clouds are pregnant not only by the weighty water but also by carrying the weight of cranes. The cranes fly
 high up to the clouds to mate. Thus, the clouds are loaded down with their own water and even with the flying
 cranes, both trying to carry the seed, the Supreme Being, in their wombs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1406,8 +1360,6 @@ the Supreme abiding beyond the dark/obscured quarters and thus this pure white c
 flying up above the normal planes to merge into that unknown, dark, or obscured zone to have a glimpse of that
 Supreme, whose body colour is said to be 'blue' or 'blue-black' *kaala megha shyaama, niila megha shyaama* like
 that of the colourless sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1468,8 +1420,6 @@ shining forth as if she is a woman wearing a parrot-green wraparound on which la
 It is usual for the insects to swarm on the new pasturelands by which the earth is appearing to be wearing a parrot-green
 colour sari embroidered with exotic red spots. The red colour is indicative of mercy of Supreme Being appearing
 opportunely, and the green pastures are His fertile kindness that reveal after humanly suffering, say summer heat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1549,8 +1499,6 @@ Further he quotes from Kalidasa's *megha sandesha* :
 *garbhaadhaan kShaNa
 paricayaan nuunam aabaddha maalaaH | sevante nayana subhagam khe bhavantam balaakaaH ||
 meghasandesha*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1611,8 +1559,6 @@ in sensualities, adaptive; *mahii sasya vana abhiraamaa* = earth, with crops, or
 "Interiors of forests have become adaptive for the peacocks to dance very well, Kadamba trees have become adaptive
 to their branches and bouquets, bulls with matching sensualities became adaptive to cows, and adaptive is this
 earth with its enrapturing crops and orchards, and all are adaptive to the season's gaiety. [3-28-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1672,8 +1618,6 @@ are speculating, and peacocks are rocking, monkeys are resolving to stay at one 
 
 The monkeys have resolved to stay at one place without hopping hither and thither as the fruits for them are abundant
 at any one place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1741,8 +1685,6 @@ The elephants are confused at the sounds of mountain rapids falling to form broo
 those sounds are from an attacking elephant, thus they are giving out their challenge trumpeting. The peacocks
 are also screaming at the same sounds of rapids thinking them to be rainfall, as they welcome the rainfall to
 start dancing in the rain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1798,8 +1740,6 @@ madam* = intemperance; *shanaiH tyajanti* = slowly, forfeiting.
 "Honeybees languishing on the branches of Kadamba trees are knocked down by the downpour of rain, thereby they
 are slowly forfeiting the intemperance which they acquired in a trice by plunging themselves into the nectar of
 flowers. [3-28-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1854,8 +1794,6 @@ shining forth.
 
 "Rose-apple trees contain abundant fruits with profuse juice which look like the globated coal powder, with them
 the branches of those trees shine forth as though swilled by hives of honeybees. [3-28-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1914,8 +1852,6 @@ iva* = elephants, [vanara-s,] like; *vi bhaanti* = verily, shining.
 
 "Ornamented with the flags of lightning, and that have whooping, profound and blaring booms, those clouds by their
 appearances are verily shining forth like the elephants enthusiastic for a war. [3-28-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -1982,8 +1918,6 @@ wishing for a head-on collision with it. [3-28-32]
 The 'warring elephant' is indicative of Vedic proponent, where any such scholar on hearing the profound and uproarious
 challenge of his opponent, he will re-echo the same in order to retain his stand in the war of blaring words.
 Thus, he takes an elephantine U-turn to colloid headlong with his opponent to establish the Vedic dharma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2040,8 +1974,6 @@ else, with elephants, lordly, highly, excited, as if; *vi bhaati* = verily, beam
 they are richly dancing, practically, as the purple-necked peacocks are bestirring; somewhere else, they are highly
 excited, virtually, as lordly elephants are highly excited, thus the interiors of forests are beaming forth as
 retreats to many bees, birds and animals. [3-28-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2104,8 +2036,6 @@ The ancient Indian liquor lounges are rather open spaces with palm/toddy trees i
 to wear flowery garlands and flowery armlets and they used to drink in the pinkish buds of banana flowers, which
 served mostly like the present day 'use and throw' plastic mugs. The screaming and dancing of nectar-drunk peacocks
 is metaphoric with the liquor-drunk boozers, or, say cabaret artists, and the land itself is boozy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2167,8 +2097,6 @@ same water. [3-28-35]
 Indra is the administrative authority to accord rain through the presiding deity of Rain, namely varuNa, the Rain-God.
 So also, all the other aspects of nature like air, fire, thunders, thunderbolts, crops, famines, earthquakes,
 and the whole of natural happenings are at Indra's behest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2246,8 +2174,6 @@ with music for it is rendered as singable poetry:
 
 *tathaa ca bhagavataa vaalmiiki maharShiNaa svasya parama puruSha ruupa abhidhyaana artham giiti ruupam raama caritam
 varNitam | gaana arthatayaa raama nikaTe kusha lavayoH preShaNam tu*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2302,8 +2228,6 @@ as though.
 "Somewhere dancing well, elsewhere voicing in high pitch, and somewhere else seated high on the trees are the
 peacocks with plumaged tails as their dangling decorations, and it appears as the music and dance have commenced
 in the forests as programmed. [3-28-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2380,8 +2304,6 @@ casts, carves, colours and crocks are crocking scourged heavily by the streams o
 
 Frogs are the foretellers of rain and they quickly respond to the rainfall because they cherish water and land
 alike, as amphibians, for their happy dwelling.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2451,8 +2373,6 @@ The rivers are the nubile girls and the over flying pairs/flights of Cakravaka b
 These girls called rivers are rushing towards their beloveds carrying flowers and fragrances etc., and they look
 like those girls that rush heaving their new breasts, uncaring for the elders of the house, or others in society
 around them, as though their lust is overflowing the brims of riverbanks, called the society.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2505,8 +2425,6 @@ fire, burnt, mountains, like; *prabhaanti* = shining forth.
 "When the swarthy clouds full with new waters are docking among swarthily clouds, they are shining forth like
 mountains burnt by wildfire docking among other mountains that are already burnt by wildfire, both moored at mountain-bases.
 [3-28-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2560,8 +2478,6 @@ in verily, pleasant, forest, interiors; *caranti* = [elephants are] moving.
 
 "Elephants are moving about the very pleasant interiors of forests where peahens are voluptuously screaming, pasturelands
 are overspread with red-beetles, and where they are fragranced with the flowers of Niipa and Arjuna trees. [3-28-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2620,8 +2536,6 @@ streams, lashed, fibrils; *saroruhaaNi* = lotuses; *drutam parityajya* = quickly
 
 "Lashed are the fibrils of lotuses with the downpour of new waters, hence quickly leaving them off the joyful
 honeybees are quaffing the Kadamba flowers with new fibrils. [3-28-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2683,8 +2597,6 @@ playing.
 "In forests lordly elephants are ruttish, ideal bulls that are delighted, peerless lions are triumphant to a better
 degree, lofty mountains are heart-pleasant, lords of people are withdrawing from their campaigns, and the lord
 of gods, Indra, is playing well with water giving clouds. [3-28-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2738,8 +2650,6 @@ are, the; *meghaaH* = clouds; *nadiiH taTaakaani saraamsi vaapiH* = rivers, lake
 
 "The clouds having torrential water are soaring the sky, and spurning the booms of oceans with their rumbles they
 are inundating rivers, lakes, pools, tanks and even the earth. [3-28-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2793,8 +2703,6 @@ course, far afield; *nadyaH* = rivers; *shiighram jalam pravahanti* = speedily, 
 
 "Rains are falling substantially and speedily, gales are blowing intensified in their speediness, while rivers
 are conducting water speedily over their eroded riverbanks and far afield of their course. [3-28-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2851,8 +2759,6 @@ as if; *darshayanti* = showing.
 show their propitious aspect of a humanly king with applied divinity, whereas the lords of mountains are being
 anointed with the water sent directly by Indra and hitherto wafted straight by Air-god in the pots called black-clouds,
 thus these lordly mountains are standing alone as if showing their grandeur and divinity on earth. [3-28-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2913,8 +2819,6 @@ The statement of 'obscurity and illumination' is suggestive of the Vedic import
 *tamasomaa jyotirgamaya* 'from darkness
 lead me unto light...' When the earth itself is satisfied with the gift of nature the earthlings are still hankering
 after inaccessible desires, thus they cycle through the karmic cycle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -2970,8 +2874,6 @@ forth.
 "The paramount pinnacles of the mountains are thoroughly washed by the torrential rains and are shining forth
 surpassingly, and the voluminous and widespread torrents that are pitching down are like the pearly necklaces
 pendulous on the chests of mountains. [3-28-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3034,8 +2936,6 @@ cave. The caves by then are already full with screaming and colourful peacocks. 
 peacock's variegated colours, the pearly-white water has also entered the caves. Then these three, pearly water,
 colourful peacocks, blackish caves are giving out sparkles of their own, like necklaces studded with many colourful
 gems, and if many such pendants are strewn around, each of its studded stone emits its own colour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3098,8 +2998,6 @@ and then drooping onto their chests, thus culminating at their locket-position, 
 of mountains. Those caves are glittering with the colours of peacocks, pearly water and blackish caves. Thus the
 
 *utsanga* 'heart of hearts...' these noblemen's hearts of hearts are covered with such necklaces and lockets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3150,8 +3048,6 @@ dikshu* = all over, in directions; *patanti* = are falling.
 
 "Like the strings of pearls of heavenly females plopping down when broken in the friction of lovemaking, excellent
 streams of water are falling all over and in all directions. [3-28-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3197,8 +3093,6 @@ also with; *raviH astam gataH j~naayate* = sun, into dusk, gone, known to be.
 
 "With the return of birds to nests, doubling up of lotuses, and blooming up jasmines, the sun is know to have
 gone into dusk. [3-28-52]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3246,8 +3140,6 @@ maargaaH ca* = conflicts, and also, roadways; *samiikR^itaaH* = evened out - neu
 
 "Reversed are the campaigns of kings as the armies are marooned and thus rainwater has neutralised conflicts and
 roadways. [3-28-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3310,8 +3202,6 @@ time that has come for those Brahmans who concern themselves for learning the si
 During this time a vow called *caatur maasya vrata* will be observed by all adherers of Veda-s, and during
 this time young celibates are initiated into Vedic studies which commences on *bhaadrapada shukla tR^itiiya*
 'third day in the white-fortnight of this Bhaadrapada month.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3357,8 +3247,6 @@ day - pertaining to aaSaadha month; *abhyupagataH* = reached - undertaken; *nuun
 
 "On carrying out all the domestic affairs and completely garnering the goods for rainy season, Bharata, the king
 of Kosala, might have definitely undertaken the 'four-month-vow' on the full moon day of aSaaDha month. [3-28-55]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3411,8 +3299,6 @@ on beholding my returning to city. [3-28-56]
 Ayodhya and its people used to create hubbubs whenever Rama used to return to city after his short trips to outside.
 Such is the affection of the inmates of Ayodhya to Rama, and now Rama is reminiscing that hubbub of people and
 swashing of Sarayu, as both soundalike.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3460,8 +3346,6 @@ these, rains - in rainy season; *sukham ashnute* = luxuries, he partakes - he lu
 "This rainy season as such has manifold inbuilt facilities for self-contained entertainment, so Sugreeva must
 be luxuriating in them, besides, revelling for conquering his enemy, regaining his wife, and instituting himself
 as a king of an admirable kingdom. [3-28-57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3508,8 +3392,6 @@ am sinking down.
 
 "As for me, Lakshmana, I am the one who is toppled from a great kingdom, whose wife is stolen, such as I am, I
 am toppling down like a riverbank that is toppled over. [3-28-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3559,8 +3441,6 @@ is, but, formidable, enemy; *me* = to me; *a paaram* = not, possible to cross ov
 
 "Also my anguish is boundless, the rains have definitely made the pathways impassable, my enemy Ravana is a formidable
 one, thus these three appear to me as insurmountable obstacles. [3-28-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3610,8 +3490,6 @@ also; *dR^iSTvaa* = on visualising; *mayaa kimcit na iiritam* = by me, anything,
 "Though Sugreeva is very humble to embark on a campaign, visualising the rainy season as an impossible one for
 any campaign, and even the pathways are rendered highly impassable I have not said anything to him in the affirmative.
 [3-28-60]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3659,8 +3537,6 @@ any campaign, and even the pathways are rendered highly impassable I have not sa
 "Even Sugreeva has undergone many difficulties in their entirety, after a long while he is united with his wife,
 and even owing to the magnitude involved in our task of tracking down Ravana I did not desire to insist on that
 monkey. [3-28-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3706,8 +3582,6 @@ time's, closely, coming in, on realising; *upakaaram ca* = requital, also; *svay
 
 "After a respite Sugreeva will realise on his own that the time has come, and he will also realise the he has
 something to requite, isn't it! So, there needn't be any doubt in that matter. [3-28-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3756,8 +3630,6 @@ generosity, expectant of; *sthitaH kaala pratiikSaH asmi* = abiding, time, looki
 
 "I therefore stay abidingly looking forward for the time, oh, Lakshmana with felicitous aspects, expectant of
 the generosity of Sugreeva and of these rivers. [3-28-63]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3805,8 +3677,6 @@ yujyate* = with requital, conjoined - indebted with; *a kR^itaj~naH* = un, faith
 "A valiant one who is succoured will be indebted with some requital on his part, but besides being unfaithful,
 if one who does not make requital for all the favours done in his interest, he will be wounding the hearts of
 soft-hearted people." Rama said so to Lakshmana, keeping Sugreeva in view. [3-28-64]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3862,8 +3732,6 @@ with his - own, best, delightful, aspect - Rama; *raamam uvaaca* = to Rama, said
 Visualising what Rama said about their waiting for pre-winter season to be candid, and praisefully making palm-fold
 at that determination of Rama, and even to clarify his own opportune viewpoint, Lakshmana spoke to Rama who by
 his own aspect is a delightful one for a ken. [3-28-65]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 </details>
 
@@ -3928,8 +3796,6 @@ enemy." So said Lakshmana to Rama. [3-28-66]
 
 The last three verses are a repeat of 45, 46, and 47th verses of Ch 27 of this Kishkindha kaanda. Many of the
 verses in this canto bear the blemish of interpolations.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga28/kishkindhasans28.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

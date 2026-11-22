@@ -18,8 +18,6 @@ Daughters of Kushanaabha report about the Air-god's mischief. Pleased
  with Brahmadatta, a saintly king. After the marriage, by the touch of
  hand of Brahmadatta the girls are rid of their misshapen bodies and
  they again become great beauties.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ Daughters of Kushanaabha report about the Air-god's mischief. Pleased
 
 On hearing that sentence of scholarly Kushanaabha those hundred
  girls touched his feet with their foreheads and spoke to him. [1-33-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 
 " 'The all-pervasive Air-god desired to dishonour us, oh, king, resorting
  to improper approach and overlooking virtuous conduct. [1-33-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -156,8 +150,6 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 " 'Our father is there and we are not independent, you be safe, hence
  oh, Air-god, you may request our father to know whether he gives us
  to you or not.' Thus we have told the Air-god, but... [1-33-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ Since then, because the Wind-God bent / The damsels' forms for punishment,
  / That royal town is known to fame / By Kanyakubja's borrowed name.
  That is, the City of the Bent Virgins, the modern Kanauj or Canouge
  - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -256,8 +246,6 @@ Since then, because the Wind-God bent / The damsels' forms for punishment,
 
 On listening their words that highly virtuous and highly resplendent
  king spoke to the hundred girls with unsurpassed virtue. [1-33-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -301,8 +289,6 @@ On listening their words that highly virtuous and highly resplendent
 " 'Forgiving is the duty of imperturbable and you have done it. Excellent.
  Oh, daughters, coursing through your unity my family's prestige is also
  kept up. [1-33-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ This also means: 'though you possess excellent aspects and persona alike
  celestials, viz., apsara-s, for you are the children of celestial /
  apsara Ghritachi... you have forgiven Air-god, without submitting yourselves
  to bodily pleasures of humans.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -419,8 +403,6 @@ _________________
  glory, grace is virtue, and this universe is verily abiding in graciousness
  alone for grace itself is the truth, isn't it!' Thus king Kushanaabha
  said to his daughters and sent them away. [1-33-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -474,8 +456,6 @@ _________________
  marriage shall happen, and to which matching bridegroom the marriage
  is to be proposed, and so on." Thus Vishvamitra continued his narration.
  [1-33-9b, 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -528,8 +508,6 @@ The *uurdhvaretas* is that the yogi-s of a very high practice
  by use or misuse, and they make it course towards their heads through
  the six-plexuses of human body. This type of practice is to enrich their
  mental and physical glow and they will have a divine aura around them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -572,8 +550,6 @@ Rama.
 "While that sage is in the practise of asceticism a celestial female served
 him at the place of his ascesis, safety be with you oh, Rama, she is Somada by her
 name, the daughter of Urmila. [1-33-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -617,8 +593,6 @@ name, the daughter of Urmila. [1-33-12]
 "Even she is obedient in his respect, and dedicating herself in ministering
  to him she stayed there righteously. After some time that sage Cuulii
  has become satisfied with her service. [1-33-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -662,8 +636,6 @@ name, the daughter of Urmila. [1-33-12]
 "When her service is fructified, oh, Rama, that sage benevolently spoke
  to her saying, 'I am perfectly pleased with your service, let good betide
  you, what cherish of yours I have to fulfil.' [1-33-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -712,8 +684,6 @@ name, the daughter of Urmila. [1-33-12]
 "Perceiving that the sage is contented that female celestial Somada
  who is aware of making good sentences is highly delighted and spoke
  with her melodious voice to that pedantic sage. [1-33-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -758,8 +728,6 @@ name, the daughter of Urmila. [1-33-12]
  Brahma, oh, supreme ascetic, I may please be endowed with a righteous
  son whose ascetic spirituality may embody the spirituality enunciated
  in Veda-s. [1-33-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -802,8 +770,6 @@ name, the daughter of Urmila. [1-33-12]
 " 'I am unmarried and nobody's wife, safe you be, and as I took shelter
  under your kindness it will be apt of you to endow me a son with your
  faculty of asceticism.' So said Somada to sage Cuulii. [1-33-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -851,8 +817,6 @@ name, the daughter of Urmila. [1-33-12]
 
 The word 'cuuli' also read as Cuulina, another name for this sage
  Cuuli.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -894,8 +858,6 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 "King Brahmadatta endued with superb grandeur ruled from a city called
  Kaampilya as with Indra ruling the heaven. [1-33-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -937,8 +899,6 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 "The most righteous king Kushanaabha then made up his mind, oh, Rama
  of Kakutstha, to espouse his hundred daughters to Brahmadatta. [1-33-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -981,8 +941,6 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 "Inviting Brahmadatta that great-resplendent lord of the land, namely
  the king Kushanaabha, married his hundred daughters to him, pleasing
  highly in his heart of hearts. [1-33-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -1034,8 +992,6 @@ _________________
 "As with the tradition of marriage king Brahmadatta who vies with lord
  of gods, namely Indra, in succession took the palm of each of the hundred
  girls into his palm. [1-33-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -1086,8 +1042,6 @@ _________________
 "By mere touch of hand of Brahmadatta alone, their misshape and desperation
  are evanished, and all of those hundred maidens beamed bright as they
  are retouched with utmost elegance. [1-33-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -1130,8 +1084,6 @@ _________________
 "On seeing his daughters getting release from the effect of Air-god
  Kushanaabha became highly joyful, and he took great delight time and
  again as and when he looked at them. [1-33-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -1181,8 +1133,6 @@ _________________
 "Later when the marriage is complete king Kushanaabha bade farewell
  to king Brahmadatta along with his wives, his own hundred daughters,
  and along with the groups of religious teachers. [1-33-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 </details>
 
@@ -1238,8 +1188,6 @@ kriyaam* = worthwhile deed of son; in getting such daughter-in-laws;
  do so over and over again, she is gladdened. She thus praised Kushanaabha
  for giving his gemlike daughters as her daughter-in-laws and blessed
  the daughter-in-laws. [1-33-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga33/balasans33.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -20,8 +20,6 @@ Then Sugreeva commissioning Vinata explains the topography and geography of East
 jambuu dwiipa, 'the Indian subcontinent,' and its eastward, comprising whole of South-East
 Asia. This is the first chronicle ever recorded about the lands and oceans, islands and dwellers in there, as
 far as Ancient Indian Geography is concerned.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ ardanam* = enemy, might, to vanquisher; *raamam uvaaca* = to Rama, said.
 
 The lord of fly-jumpers, king Sugreeva, who by now is replete with every means, then spoke to the tigerly-man
 and the vanquisher of enemy's might, Rama. [4-40-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ ones, at wish, guise-changers; *mahendra aabhaa* = like that of Mahendra, whose 
 
 "The mighty vanara chiefs who are guise-changers by their wish and who in sheen are like Mahendra, and who dwell
 in my province have arrived and they are properly encamped too. [4-40-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ triumphant ones; *aagataa* = arrived.
 
 "Those ghastly vanara-chiefs who are a match to the monsters and ogres have arrived with these diversely triumphant,
 terribly victorious and mighty vanara-soldiers. [4-40-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -253,8 +245,6 @@ to mountains, even lifting mountainous mass etc., thus any impracticable task is
 each and every infeasible task undertaken by them is accomplished by each of them, thus they all are dependable...
 these are not only powerful individually, but they also have overpowered their individual weariness, thus they
 pursue any task unweariedly... and these are renowned for their complicate confrontations and noteworthy manoeuvres...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -303,8 +293,6 @@ anuSThaatum shakSyanti* = at your, discretion, to discharge, they will be able t
 
 "All of them will conduct themselves in orderliness and all abide by the welfare of their king, and oh, Rama,
 the enemy-repressor, they will be able to discharge whatever task entrusted to them at your discretion. [4-40-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -355,8 +343,6 @@ triumphant, terribly victorious and mighty vanara-soldiers. [4-40-7]
 **टिप्पनी**
 
 This verse may appear similar to verse 3 above but differs in mood of the dialogue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -406,8 +392,6 @@ force; *aaj~naapayitum arhasi* = to give orders, apt of you.
 
 "Oh, the manly-tiger Rama, whichever you think fit and seasonable that may be said. It will be apt of you to give
 orders to this vanara force since this has joined up under your command. [4-40-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -462,8 +446,6 @@ and these vanara-s know the task but we are waiting for formal orders from you..
 svena svaatantryam na avalambaniiyam | kintu tad uktam eva srotavyam iti suucitam - dk*'In the presence of
 the supreme commander, a lower level commander cannot and should not act independently. Whatever is said by the
 chief is to be carried out...' This is the foremost discipline required of any army personnel.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -512,8 +494,6 @@ who is speaking, to Sugreeva; *baahubhyaam sam pariSvajya* = with both arms, wel
 
 While Sugreeva is speaking thus, Rama the son of Dasharatha heartily hugged him with both of his arms and said
 this word to him. [4-40-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -553,8 +533,6 @@ jiivati vaa* = whether, Vaidehi, alive, either; *na vaa* = not, or; *raavaNaH ya
 
 "Oh, gracious Sugreeva, whether Vaidehi is alive or not - it shall be known. Likewise, oh, well-informed one that
 place in which Ravana dwells - it is to be determined, at the outset. [4-40-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -595,8 +573,6 @@ tu* = on knowing, only; *tasmin kaale* = at that, time; *tvayaa saha* = with you
 
 "Only on knowing about Vaidehi, also about the dwelling place of Ravana, I will order for the timely action at
 that time, that too, after deliberating with you. [4-40-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -643,8 +619,6 @@ also.
 
 "Oh, chief of vanara-s, I am not the master of this task, nor Lakshmana is, but you, oh king of fly-jumpers, are
 the catalyst and master of this task of searching Seetha. [4-40-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -692,8 +666,6 @@ of it, isn't it; *na samshayaH* = need not, have doubt - about it, your giving o
 "Oh, lord of vanara-s, you alone have to give orders for the right determination of my task, and what my task
 is, oh, valiant one, you are fully aware of it, isn't it. And it is inoffensive of you to issue orders in this
 regard. [4-40-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -753,8 +725,6 @@ The often repeated word of Rama 'my task, my mission...' is not just regaining S
 of demon's clan, for which Seetha is the conditional and instrumental entity. The masters have to repose absolute
 confidence in servants unconditionally to get things done: *anena prabhuNaa api aaptatame abhij~ne artha
 saadhake svaatantryam aadhaaya kaaryam saadhaniiyam iti suucitam - dk*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -816,8 +786,6 @@ abraviit* = to fly-jumpers, chief, spoke.
 When Rama said so, Sugreeva spoke in the presence of Rama and the observant Lakshmana, to a mightiest chief of
 fly-jumpers, named Vinata, who is a commander of vanara army, who is like a mountain in his sheen and who thunders
 like a cloud. [4-40-16, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -847,8 +815,6 @@ Eastern direction of the earth inclusive of its mountains, woodlands and forests
 
 In some translations the second foot's gist is also attributed to Vinata, i.e., Vinata is with the glow of sun,
 moon etc., but it is for the progeny of the Sun and Moon gods, who are to follow Vinata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -873,8 +839,6 @@ Ila, Bharati, and Saraswati* - is still the prime meridian for Indian astronomer
 - sa uddicya iti ucyate* Taking Ujjain, the place where one ancient river flowed circuitously in Central India,
 named Sharavati, as the centre of the country, the ancient astronomers have decided the quarters. So, Sugreeva
 said about the absolute east of India but not about the east of his small kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1029,8 +993,6 @@ that 'to the north of Magadha, River Ganga courses, to the west of it Kaashi pro
 its capital is *kusuma pura [paaTalii putra* present day Patna. Next, the word '*koshakaara* is
 literally a silkworm or one who makes scabbards or a lexicographer. It is also referred to the kings of these
 clans.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1045,8 +1007,6 @@ you are exploring; *tat sarvam vicetavyam ca* = that [those places, in entirety,
 
 "While you explore those places in their entirety, thereabout you have to search for Rama's dear wife and king
 Dasharatha's daughter-in-law Seetha. [4-40-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1178,8 +1138,6 @@ half-man and half-tiger, like mermaids. All of their dwellings are to be searche
 dwiipa, the tableland that contains bharata varSa, namely India. And you have
 to go beyond this to other easterly places that are reachable either by mountaineering, or by hopping, or even
 by boating. [4-40-25, 26, 27, 28, 29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1310,8 +1268,6 @@ of islands now called the Indian Archipelago, of which Java was at that time the
 of this group are Sumatra, [say, *su mitra*= good friend, Java, Bali, [the benefactor; Borneo, [or *
 varuNa*, the Rain-god, and Celebes. More details are with: Vivekananda Kendra, Kanyakumari, who are publishing
 'Vivekananda Kendra Patrika' an encyclopaedic journal on Ancient India.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1371,8 +1327,6 @@ Island.
 deep and speedy drift, and which is adored by siddha-s and carana-s. You have to scout thereabout for Vaidehi
 as well as for Ravana, at those beautiful ghats, say littorals of that Shona River, and in the amazing forests
 alongshore. Then proceed to an island called Plaksha Island. [4-40-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1419,8 +1373,6 @@ nadyaH* = from mountain, emerging, rivers; *dariimantaH parvataaH ca* = cavernou
 "On that Plaksha Island very vast rivers emerge from mountains, but alongshore they have many pleasure gardens.
 You have to search in those gardens and at rivers together with cavernous mountains and forests of that island,
 and then proceed to Ikshu Island. [4-40-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1468,8 +1420,6 @@ also; *mahaa raudram* = terribly, furious; *anila uddhitam* = by wind, up-heaved
 "It will be apt of you to proceed from there and see the terribly furious, tempestuous, blaring, and tide-ripped
 ocean called ikshu samudra, Salt Ocean, and that ocean's islands which will be extremely
 ghastly. [4-40-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1549,8 +1499,6 @@ see.
 only by it shores or tactfully, to avoid shadow-capturing of its inhabitants. There you will see colossal bodied
 demons with everlasting hunger inhibiting that ocean, which demons always capture prey by the shadow of prey as
 endued by Brahma. [4-40-37, 38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1573,8 +1521,6 @@ This *kuuTa-shalmali* tree in Indian variety is Andersonia Rohitaka, and in Mala
 it is Kapok tree, [Ceiba pentandra, the seeds of which are covered with silk cotton. Because it is on Shalmali
 Island, one among Java, Sumatra etc., islands, it is called *kuuTa shalmali* tree. The Red Ocean is also
 called *madhu samudra* 'Wine Ocean.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1616,8 +1562,6 @@ see.
 "On that Shalmali Island in Wine Ocean you will be seeing the mansion of Vinata's son, namely Garuda, the Eagle-vehicle
 of Vishnu, which is decorated with numerous jewels, and which in sheen will be like Mt. Kailash, the abode of
 Shiva. This mansion is a construction of Vishvakarma, the Heavenly Architect. [4-40-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1658,8 +1602,6 @@ similar; *bhiimaa* = merciless ones; *naanaa ruupaaH* = with various, shapes; *b
 
 "Thereabout horrifying and merciless demons of various shapes and similar to mountains in size, called Mandeha-s,
 will be dangling upside down from mountain peaks. [4-40-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1729,8 +1671,6 @@ about this:
 
 *tadu ha vaa ete brahma vaadinaH puurvaa abhimukhaH saandhyaayaam gaayatryaa abhimantryaa aapa uurdhvam vikShipanti
 - taa etaa aape vajrii bhuutvaa taani rakShaamsi mandehaa aaruNe dviipe prakShipanti* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1784,8 +1724,6 @@ Here some more Indian Mythological oceans like *sarpi, dadhi* etc., are not said
 are *lavaNa, ikshu, suraa, sarpi, dadhi, dugdha jalaiH samam* salt, sugar-cane juice, ghee [clarified butter,
 curds, milk - oceans. Further, some islands like *Kusha, Kraunca* etc., are also unsaid. Though all are
 not explicitly listed in the text, the vanara-s are supposed to search those unsaid oceans and islands implicitly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1858,8 +1796,6 @@ saraH ca* = lake, also; *[assit* = are there.]
 closely growing trees ever flowered with flowers of heavenly fragrance. And a lake renowned as Lake Sudarshana
 is also there, which is replete with silvery lotuses whose fibrils are golden in sparkle, and in which kingly
 swans will be scampering about. [4-40-44b, 45, 46a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1906,8 +1842,6 @@ kinnaraa-s; *sa apsaraH gaNaaH* = with, apsara, hosts of; *hR^iSTaaH* = gladly; 
 
 "To enjoy frolicking in that Sudarshana Lake the gods, caarana-s, yaksha-s, kinnaraa-s and hosts of apsara females
 will be arriving at that lotus-lake gladsomely. [4-40-46b, 47a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -1954,8 +1888,6 @@ see.
 
 "And on crossing over the milky ocean, oh vanara-s, then you will be immediately seeing the soft-water ocean which
 will be frightening to all beings. [4-40-47b, 48a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1984,8 +1916,6 @@ from beneath the ocean from the South Pole. This fire is called *vaDaba agni*, o
 , referred here as Horse's Face. At the time of *yuga anta*, End of Era, that fire emerges out, and the
 whole creation, with all its sessile and mobile beings, becomes its fuel, as said in next verse. This episode
 is detailed in *aadi parva* , First Canto, Maha Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2034,8 +1964,6 @@ are audible.
 
 "There the high squealing sounds of oceanic beings dwelling undersea are audible, and although they are capable
 ones, they are incapacitated on feeling Fire from the Horse Mouth as such they yell. [4-40-49b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2082,8 +2010,6 @@ ones, they are incapacitated on feeling Fire from the Horse Mouth as such they y
 
 "On the northern province of that soft-water ocean there is a hugely enormous mountain named Jaataruupa-shila,
 Golden Rock Mountain, which glitters like gold and which spreads across thirteen yojana-s. [4-40-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2146,8 +2072,6 @@ in his brilliance and whom all beings hold in reverence. [4-40-51, 52]
 Ananta means infinite, the infinite Thousand-hooded serpent-god also called as *aadi shSa* the couch of
 Vishnu. This word *ananta* is also symbolic with the infinite space that is supporting the galaxies, planets,
 and stars, of which earth is but one globe.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2194,8 +2118,6 @@ be lustrous.
 
 "A golden pylon resembling a palm tree with three branches as its heads is established on the peak of that mountain
 as the insignia of that great-souled Ananta, and it will be lustrous with a golden podium. [4-40-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2276,8 +2198,6 @@ greatly glitters for it is completely golden, and it is pedestalled with suchlik
 William's Vishnu Purana states: 'here is an interesting reference to the physical phenomena of the apparent diurnal
 motion of the sun, which sets in the west [America, and reappears again in the east *jambu dviipa*, the central
 continent, Asia...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2324,8 +2244,6 @@ with saala trees, palm trees, Tamala trees, also; *karNikaaraiH ca* = Karnikaara
 
 "That Mt. Sunrise will be splendorous with well flowered and beautiful saala, palm, Tamaala, and Karnikaara trees
 which are completely golden in hue and which will be glittering similar to sun. [4-40-56]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2374,8 +2292,6 @@ naama shR^ingam* = Saumanasa, named, pinnacle - is there.
 
 "On the apex of that Mt. Sunrise there is another pinnacle with one yojana width and ten yojana-s height named
 Saumanasa, which is completely golden and very firm. [4-40-57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2422,8 +2338,6 @@ peak, he made - he placed.
 
 "Earlier while treading the three worlds in the incarnation of Trivikrama, the Supreme Person Vishnu made His
 first foothold on that pinnacle Saumanasa, and the second on the pinnacle of Mt. Meru to tread the heavens. [4-40-58]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2474,8 +2388,6 @@ in heavens at the other side of Jambu Dwiipa, only to rise again on this Mt. Sun
 lies southerly to that heavenly Mt. Meru, and down East-South of Saumanasa, this subcontinent can happily see
 the First Sun, daily. This gives raise to the Indian name of India, that is *Bhaarata, bhaa rataH* Sun,
 delights...' The place where the Sun delights firstly, that is *bhaarata*...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2527,8 +2439,6 @@ of luminosity, for those ascetics will be with the resplendence of the Sun. [4-4
 
 Valakhilya-s and Vaikhaanasaa-s are two different groups of ascetics and these sages Vaalakhilyaa-s are sixty
 thousand in number as said in Vishnu Purana. Their account is given in the opening chapters of Aranya Kanda.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2580,8 +2490,6 @@ one, that Sudarshana, island.
 "In the presence of which resplendence the eyes of all living beings will become enlightened, and whereat that
 illuminating entity of universe, namely the Sun, will be sojourning, this is that Sudarshana Island, named so
 because it contains Sudarshana lake. [4-40-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2627,8 +2535,6 @@ vaidehyaa saha* = Ravana, together with, Vaidehi; *maargitavyaH* = shall be sear
 
 "On the top of that Mt. Sunrise, and even in its cave and forests of that island Ravana is to be searched, together
 with Seetha. [4-40-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2668,8 +2574,6 @@ imbricates; *puurvaa sandhyaa* = eastern, aurora; *raktaa prakaashate* = redly, 
 
 "The eastern aurora glows redly because the golden hue of Mt. Sunrise imbricates the resplendence of the beneficent
 Sun. [4-40-63]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2726,8 +2630,6 @@ Dharmaakuutam says that Maha Bharata defines these quarters in detail: *anena pu
 puurvam suuryasya tatra darshanaad vaa iyam dik puurve iti ucyata iti uktam | ittham ca puurvasya dishaH itaraasaam
 ca dishaam nirvacanam udyoga parve -dk - yasmaat udayate puurvam sarva loka pradiipaka || savitaa yatra saadhyaanaam
 prathamam vartate tapaH | mahaa bhaarata*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2773,8 +2675,6 @@ caverns, also; *raavaNaH* = Ravana; *saha vaidehyaa* = together with, Vaidehi; *
 
 "Ransack that mountain's peak, even thereabout the rapids and caverns of that mountain for Vaidehi, and even for
 Ravana. [4-40-65]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2824,8 +2724,6 @@ aavR^itaa* = by oblivion, hedged in; such a; *puurvaa dik* = easterly, quarter; 
 
 "Beyond Mt. Sunrise the eastern quarter is impassable. It will be hemmed in with gods since it the gateway to
 heaven, and everything is imperceivable hedged in oblivion, since it will be void of both Sun and Moon. [4-40-66]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2874,8 +2772,6 @@ also; *teSu jaanakii viceyaa* = in them, Janaki, shall be searched.
 
 "Janaki shall be scouted out on all those mountains, caverns and forests that are indicated by me, and even at
 places that are not indicated by me. [4-40-67]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2925,8 +2821,6 @@ shakyam* = by vanara-s, to go, it is possible; *a bhaaskaram* = without, sun [su
 
 "It is possible for the vanara-s to go only up to there, oh, best vanara-s, and we have no knowledge of those
 sunless and boundless realms available far and beyond. [4-40-68]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -2976,8 +2870,6 @@ shall comeback.
 
 "You shall comeback within a month on finding out Vaidehi and the residency of Ravana after your reaching Mt.
 Sunrise. [4-40-69]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -3029,8 +2921,6 @@ purpose; *maithiliim adhigamya ca* = Maithili, on reaching - exploring for her; 
 
 "And none shall stay behind for more than a month, and if anyone stays I have to exercise coup de grace. So, you
 shall return with your purpose accomplished in exploring for Maithili. [4-40-70]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 </details>
 
@@ -3099,8 +2989,6 @@ Lakshmana's dedication is of the sort of *daasya bhaava* 'dedication in servitud
 is *sevaa bhaava* 'a dedication in servitorship...' and Hanuma's *bhakti bhaava* 'dedication in
 reverence...' a true devotee, and thus in whatever way one shall strive, everything culminates in one selfless
 entity, the Supreme Person.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

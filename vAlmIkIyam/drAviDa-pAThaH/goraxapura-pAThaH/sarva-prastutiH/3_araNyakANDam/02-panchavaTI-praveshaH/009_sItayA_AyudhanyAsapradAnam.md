@@ -17,8 +17,6 @@ title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 Seetha foresees danger in Rama's decision to eliminate the demons in Dandaka forest, without
  any provocation from their side, at the request of some sages. She narrates an old episode
  about a sage who in possession of a weapon became violent and cruel.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -81,8 +79,6 @@ they can be won over by *ahimsa*, non-injurious methods also. None can avert Ram
 nor ask him to deviate from it. Aware of this stubbornness of Rama, her heart felt a foreboding, and
 that love-blind Seetha started telling in a friendlily manner, in view of her friendship with Rama,
 that may disrupt soon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -138,8 +134,6 @@ dharma* is there, which changes the negative attitude to positive Then this *aya
 translates as 'this dharma, the duty of a prince, which you are going to take-up in the wake of promise
 given to sages, i.e., killing demons, without a valid reason, that which is righteous to you, can be
 performed in a different way...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -209,8 +203,6 @@ dance and drama, wasteful wandering, are the ten desire. Manu smriti.
 
 Seetha is foretelling the triggering points in the course of Ramayana. The addictions or self-gratifying
 acts are defined as:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -226,8 +218,6 @@ be there to you.]
 
 "The habit of telling specious words is not there with you in the past nor it will be there in future,
 oh, Raghava, then wherefrom the virtue-ruining desire for other's women can be there... [3-9-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -287,8 +277,6 @@ of your heart, even, not, observable; *nR^iipa atmaja* = oh, king's, son - oh, p
 "Oh, king, earlier this vile desire for other's women is absent in you, nor it is there now, unobserved
 is such a desire in any corner of your heart oh, prince, for you are always interested in your own wife...
 [3-9-5, 6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -303,8 +291,6 @@ is such a desire in any corner of your heart oh, prince, for you are always inte
 
 "You are conscientious, adherent of truth, and obliging father's orders, and in you virtue and truth,
 nay everything is established in you... [3-9-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -357,8 +343,6 @@ one for a gaze, I am also aware of your sense control... [3-9-8]
 The compound *mahaabaahoshakyam* is also cleaved as *mahaa baaho a + shakyam*, meaning
 that 'your attributes are impossible to be known even by the self-controlled sages, but they are known
 to me...' so says Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ to you, [suddenly] chanced before you.
 
 "That third tendency to torture others' lives without enmity, that which will usually be effectuated
 unwarily, has now suddenly chanced before you... [3-9-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -452,8 +434,6 @@ rakshasaam vadhaH* = in a fight, of demons, elimination; *tvayaa pratij~naataH* 
 
 "Intending to safeguard the sages you have promised the dwellers in Dandaka forest, oh, valiant one,
 that you would eliminate demons in a fight... [3-9-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -499,8 +479,6 @@ wielding, arrows, bow; *saha bhraatraa* = along with, your brother; *dandakaa it
 
 "Only in this respect you have started towards the well-known Dandaka forest along with your brother,
 and wielding bow and arrows...[3-9-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -565,8 +543,6 @@ to eliminate. If a cause for quarrel is to be there, that will be due to me. If 
 depart you, you cannot survive without me, for you are not a polygamist. So how all these factors like
 your promise, monogamy, and eliminating demons, can be resolved by you? Thus I am thinking along with
 the associated troubles which you are going to undergo..."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -642,8 +618,6 @@ I tell; *vadantyaaH shruuyataam mama* = as I tell, you may listen, of my [talk.]
 
 "Oh, brave one, your going towards Dandaka forest is not delightful to me, I tell the cause for that
 and listen to it as I tell...[3-9-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -664,8 +638,6 @@ do isn't it; *shara* = arrow; *vyayam* = depletion.
 
 "Indeed on entering the forest along with your brother, and wielding bow and arrows, seeing the forest
 ramblers there, won't you deplete arrows on all of them... [3-9-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -715,8 +687,6 @@ tejaH* = luminosity; *balam* = strength; *ucChrayate* = enhances; *bhR^isham*
 
 "The bow of warrior and the fuel of a burning fire if available within their reach, they immensely enhance
 their strength... [3-9-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -765,8 +735,6 @@ vaak shuciH tapasvii abhavat kila* = true, worded, pious, sage, was there, indee
 
 "Once upon a time, oh, dextrous one, there was a pious and true worded hermit in some merited forest
 that was wonted by animals and birds... [3-9-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ his, that, ascesis, hindrance, to cause; *bhaTa ruupa dhR^it* = soldier, guise, 
 
 "Then Indra came to that hermitage handling a sword, and donning a soldier's guise, to cause hindrance
 to that hermit's ascesis... [3-9-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -865,8 +831,6 @@ with sage; *nyaasa vidhinaa dattaH* = in a redeemable, basis, it is given.
 
 "Indra gave that best sword to store, there in that hermitage to that sage who is lasting in his ascesis,
 on a redeemable basis... [3-9-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -913,8 +877,6 @@ weapon;] vicarati eva = moved about, thus.
 
 "On receiving that sword, he who is duteous in guarding the entrustment, moved about in the forest always
 handling the sword, to safeguard the confidence reposed in him... [3-9-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -963,8 +925,6 @@ wherever, goes; *na khadgam vinaa* = not, sword, without; *yaati* = goes, he.
 
 "Wherever that dedicated guardian of that entrustment goes, even to obtain tubers or fruits, he did
 not go without that sword... [3-9-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1004,8 +964,6 @@ saH tapaH dhanaH* = he, [by ascesis rich one] that hermit; *cakaara raudriim sva
 
 "Carrying that sword always, that hermit slowly made his own faculty infuriated, loosing determination
 in ascesis... [3-9-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1052,8 +1010,6 @@ hell.
 
 "Then with the constant association of that weapon that sage gradually became inadvertent, and smitten
 by vice he went to hell... [3-9-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1100,8 +1056,6 @@ with weapon, association; *agni samyogavat hetuH* = with fire, associating, sequ
 
 "Thus, all this happened earlier, only owing the reason of associating with a weapon constantly, and
 the sequel of constant association with weapon is as good as constant association with fire... [3-9-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1158,8 +1112,6 @@ to kill, not, desirable.
 "In affinity and in respect I am reminding but not tutoring you, and in anyway improper is that thought
 of yours to wield your bow to kill the demons dwelling in Dandaka without any enmity, oh, brave one,
 undesirable is the killing of offenceless... [3-9-24, 25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1216,8 +1168,6 @@ in their class-oriented righteousness, even when in forests. Thus Seetha's think
 live like hermits in forests, without resorting to the warring attributes of Kshatriya class. In the
 second foot she says that the function of bow is limited to 'safeguard the suffering lot...' In the
 next chapter at 3-10-3, Rama retorts with the same expression in answering Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1265,8 +1215,6 @@ order, alone; *puujyataam* = be esteemed.
 
 "Where that weapon? Where this forest? Where the principles of Kshatriya? And where is sageness? All
 this is inconsistent... let us esteem the laws of the land... [3-9-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1316,8 +1264,6 @@ Ayodhya; *kshatra dharmam cariSyasi* = Kshatriya, tenets, you can follow.
 
 "Weapon admiring mind becomes maligned with avariciousness, you may therefore follow the tenet of Kshatriya-s
 on going to Ayodhya again... [3-9-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1365,8 +1311,6 @@ devout, sage.
 
 "Everlasting satisfaction will be there to my father-in-law and mothers-in-laws, on your becoming a
 devout sage even after forfeiture of kingdom... [3-9-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1415,8 +1359,6 @@ achieved, are all; *dharma saaram idam jagat* = probity's, essence, this univers
 
 "From virtuousness prosperity emanates, from righteousness happiness, and by honourableness all are
 achieved, and this universe is the essence of probity... [3-9-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1466,8 +1408,6 @@ sukhaat labhyate sukham* = not, by pleasuring, achievable, is pleasure.
 
 "Experts will make efforts to exhaust their own selves with those and those principles, thus they realise
 sublimity... unachievable is pleasure by pleasuring alone... [3-9-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1515,8 +1455,6 @@ known.
 
 "Always tread along the righteousness with a pure mind, oh, gentle one, and specially in these sagely
 forests... you know everything in all the three worlds, in all its nuances... [3-9-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 </details>
 
@@ -1569,8 +1507,6 @@ rocate* = what, appropriate; *tat kuru* = that, you do; *ma acireNa* = not, bela
 
 "I cite all this with my womanly waver, and who is capable to talk to you about dharma? Ponder mindfully
 along with your brother, and what that is appropriate, you do it...but not belatedly... [3-9-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

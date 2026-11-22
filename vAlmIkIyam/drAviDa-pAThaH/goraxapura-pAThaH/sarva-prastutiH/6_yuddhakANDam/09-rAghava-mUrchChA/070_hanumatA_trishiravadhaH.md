@@ -22,8 +22,6 @@ Meanwhile, Hanuma and Trisira fight at each other. Hanuma finally kills Trishira
 his three heads by Trishira's sword itself. Then, Mahaparshva, the demon comes to the battle field
 and attacks Rishabha, the monkey-warrior. By banging Mahaparshva's mace on Mahaparshva Rishabha
 kills him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ _________________
 
 Seeing Narantaka dying, Devantaka, Trishira and Mahodara the son of Pulastya the
 foremost of demons, wept.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ elephant; *meghasamkaasham* = resembling a cloud; *mahodaraH* = Mahodara;
 
 Mounting an excellent elephant, resembling a cloud, Mahodara hurrily attacked Angada
 of great energy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -208,8 +202,6 @@ resembling the sun; *yuktam* = and yoked; *parama vaajibhiH* = with excellent ho
 
 Thereupon, the valiant Trishira, mounting a chariot resembling the sun and yoked
 with excellent horses, marched towards Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -262,8 +254,6 @@ uplifted; *vR^ikSham* = a tree; *mahaaviTapam* = with large boughs.
 
 That Angada, being attacked by the three chief demons, who were capable of smashing
 the pride of celestials, uplifted a tree with its large boughs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -280,8 +270,6 @@ blazing; *ashanim* = thunderbolt.
 
 The valiant Angada hurled that large tree with big branches quickly on Devantaka as
 Indra the lord of celestials would a blazing thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ on.
 
 Trishira chopped off that tree with arrows looking like serpents. Seeing the tree
 chopped off, that Angada then sprang up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -358,8 +344,6 @@ arrows.
 
 Thereupon, that foremost of monkeys streamed forth trees and rocks. The enraged
 Trishara chopped them off with his sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -406,8 +390,6 @@ club; *trishiraaH cha* = Trishira too; *saayakaiH* = with his arrows;
 
 That Mahodra broke those trees with the tip of his club. Trishira too with his
 arrows attacked the valiant Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -454,8 +436,6 @@ ahead quickly; *vaaliputram* = towards Angada; *mahodaraH* = Mahodara;
 
 Marching ahead quickly towards Angada on an elephant, the enraged Mahodara struck on
 his chest with javelins looking like thunderbolts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -502,8 +482,6 @@ quickly; *parigheNa* = with a club; *vyapachakraama* = went off to a distance.
 
 Then, the enraged Devantaka with a speed, approached Angada, struck him quickly with
 a club and went off to a distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -550,8 +528,6 @@ having prowess; *na vivyathe* = was unalarmed.
 
 Eventhough attacked at the same time by those three foremost of demons, that Angada
 of great prowess and splendour, did not get alarmed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -598,8 +574,6 @@ large elephant; *talena* = with his palm.
 
 The speedy and quite unconquerable Angada, acting with a great swiftness and
 attacking well, struck Devantaka's elephant with his palm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -646,8 +620,6 @@ attacking well, struck Devantaka's elephant with his palm.
 
 By that blow of Angada in battle, the eyes of that royal elephant fell down and that
 elephant died.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -694,8 +666,6 @@ towards Devantaka; *taaDayaamaasa* = struck him.
 
 Pulling out a tusk of that elephant in battle, the mighty Angada ran towards
 Devantaka quickly and struck him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ blood; *laakShaarasa savarNam* = with the colour of a lacquer.
 
 That energetic Devantaka swayed to and fro in disorder, like a tree being tossed up
 by the wind and emitted plenty of blood with the colour of a lacquer.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -794,8 +762,6 @@ recovering his breath; *kR^ichchhraat* = with difficulty; *tadaa* = then;
 
 Thereafter, the strong Devantaka of great splendour, recovering his breath with a
 great difficulty, then struck Angada violently, by firmly holding an iron rod.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -842,8 +808,6 @@ again; *utpapaataha* = jumped up.
 
 Then, Angada the son of king Vali, struck by the iron rod, fell down on his knees on
 the earth, but again jumped up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -890,8 +854,6 @@ straight-going; *lalaaTe* = on the forehead; *tam utpatantam* = of the rising An
 
 While Angada, the son of Vali was jumping up, Trishira struck him with three
 terrific and straight-going arrows on his forehead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -941,8 +903,6 @@ warriors; *hanuman* = Hanuma; *niilashchaapi* = and Neela; *tataH* = then;
 
 Noticing Angada being surrounded by the three demon-warriors, Hanuma and Neela went
 there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -990,8 +950,6 @@ arrows.
 
 Thereupon, Neela then hurled a mountain-peak on Trishira. The intelligent Trishira
 the son of Ravana broke it by using his sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1032,8 +990,6 @@ of fire; *sajvaalam* = and flames.
 
 That mountain-peak, broken into pieces by a multitude of arrows, with its split up
 rocks, fell down with sparks of fire and flames.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1080,8 +1036,6 @@ towards him; *parigheNa* = with his iron rod.
 
 Seeing Hanuma rushing with enthusiasm in the battle-front, that strong Devantaka ran
 towards him with his iron rod.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1128,8 +1082,6 @@ hism; *muShTina* = with his fist; *vajrakalpena* = equal to a thunder-bolt.
 
 Then, Hanuma the foremost of monkeys, while jumping up, struck on the head of
 Devantaka rushing upon him with his fist equal to a thunder-bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1176,8 +1128,6 @@ made the demons shake; *naadena* = by the sound.
 
 Then, the valiant and the strong Hanuma struck him on his head. That great ape made
 the demons shake with the sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1232,8 +1182,6 @@ fell down; *gataasuH* = dead; *urvyaam* = on the earth.
 That Devantaka, the son of Ravana, with his head crushed and broken by the blow of
 the fist, with his teeth and eyes coming out and with his tongue hanging down, swiftly fell down
 dead on the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1288,8 +1236,6 @@ varSham* = rain of sharp-pointed arrows; *niilorasi* = on Neela's chest.
 When that Devantaka the mighty chief of demon-warriors and the enemy of celestials
 was killed in battle, the enraged Trishira showered a terrible rain of sharp-pointed arrows on
 Neela's chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1359,8 +1305,6 @@ lightning; *girau* = on a mountain.
 Again mounting an elephant resembling a mountain, as the sun mounting Mandara
 Mountain, that enraged Mahodara on his part, caused rain of arrows to fall quickly on Neela, like
 rumbling cloud with a circle of lightning, showers rain on a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1415,8 +1359,6 @@ became blown up; *atha* = and then; *visR^iShTagaatraH* = with his loosened limb
 Thereupon, by the rain of a multitude of arrows, the body of Neela the commander of
 the army of monkeys became blown up. Thus the mighty Mahodara then made his loosened limbs
 paralyzed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1470,8 +1412,6 @@ mountain; *savR^ikShakhaN^Dam* = consisting of a number of trees; *tataH* = then
 
 After regaining consciousness, Neela uplifted a mountain consisting of a number of
 trees and then jumping up with a great speed, struck with it on the head of Mahodara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1492,8 +1432,6 @@ trees and then jumping up with a great speed, struck with it on the head of Maho
 
 The strong Devantaka, tormented at his brother's calamity, then taking a terrific
 iron rod, ran towards Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1552,8 +1490,6 @@ yathaa* = like a mountain; *vajraabhihataH* = struck by a thunderbolt.
 
 That Mahodara, then shattered by the fall of that mountain and crushed by that large
 elephant too, lost his life and fell down on the earth like a mountain struck by a thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1600,8 +1536,6 @@ was enraged aadade = seized hold of; *chaapam* = his bow; *vivyaadha* = and stru
 
 Seeing Mahodara his young paternal uncle killed. Trishira was enraged seized hold of
 his bow and struck Hanuma with sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1642,8 +1576,6 @@ many pieces; *tiikShNaiH sharaiH* = with his sharp arrows.
 
 While that enraged Hanuma hurled a mountain-peak, the strong Trishira broke it into
 several pieces with his sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1684,8 +1616,6 @@ sutam prati* = towards Trishira; *tasmin raNe* = in that battle.
 
 Seeing that mountain-peak becoming useless, Hanuma then hurled a volley of trees
 towards Trishira in that battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1726,8 +1656,6 @@ towards Trishira in that battle-field.
 
 The valiant Trishira chopped off that volley of trees descending on him, with his
 sharp arrows in the sky itself and roared aloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1777,8 +1705,6 @@ tu* = Hanuma on his part; *samutpatya* = bouncing up; *vidadaara* = tore asunder
 
 Then, the enraged Hanuma on his part, bouncing up, tore asunder with his nails,
 Trishira's horse, as a lion tears asunder a large elephant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1826,8 +1752,6 @@ raatrim* = gets hold of a night of all-destroying time; *chikShepa* = and hurled
 
 Thereupon, Trishira the son of Ravana seizing hold of a spear, as Yama the lord of
 death takes in his service Kalaratri, a night of all-destroying time, hurled it on Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1874,8 +1798,6 @@ foremost of monkeys; *babhaN^ja cha* = broke it; *nanaada cha* = and roared too.
 
 Capturing that spear coming like a meteor in the sky, Hanuma the foremost of monkeys
 broke it, even without its descending on him and roared too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1923,8 +1845,6 @@ clouds.
 
 Seeing that spear of a terrific form broken up by Hanuma, the monkey-troops were
 very much delighted and roared aloud like rumbling clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -1971,8 +1891,6 @@ sword; *vakShaasi* = into the breast; *vaanarendrasya* = of Hanuma.
 
 Thereupon, lifting up a sword, Trishira the foremost of demons them dug it into
 Hanuma's breast.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2019,8 +1937,6 @@ breat; *talena* = with his palm.
 
 Hurt by the thrust of the sword, the valiant Hanuma the son of wind-god, struck
 Trishira on his breast, with his palm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2067,8 +1983,6 @@ Trishira on his breast, with his palm.
 
 Struck by Hanuma's palm, that Trishira of great splendour fell down unconscious on
 the earth with the weapons slipping from his hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2118,8 +2032,6 @@ frightening; *sarvaraakShasaan* = all the demons.
 
 Hanuma, that large ape, equal to a mountain in size, snatching away that falling
 sword of Trishira, roared loudly frightening all the demons there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2165,8 +2077,6 @@ jumping up; *(he) taaDayaamaasa* = struck; *hanuumantam* = Hanuma; *muShTinaa*
 **अनुवादः**
 
 Unable to bear that roar, the demon jumped up and struck Hanuma with his fist.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2213,8 +2123,6 @@ was; *nijagraaha* = he seized hold of; *raakShasarShabham* = that foremost of de
 
 Enraged as he was by the blow of Trishiras's fist, Hanuma seized hold of Trishira
 the foremost of demons by his head covered by his diadem.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2270,8 +2178,6 @@ of Vishvarupa the son of Tvashta.
 That enraged Hanuma the son of wind-god chopped off with that sharp sword, his three
 heads furnished with diadems and ear-rings, like Indra the lord of celestials chopped off the heads
 of Vishvarupa the son of Tvashta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2332,8 +2238,6 @@ having fire-like blazing eyes; *petuH* = fell; *pR^ithivyaam* = on earth;
 Those mountain-like heads of Trishira the enemy of Indra, having longish organs of
 senses and having fire-like blazing eyes, fell down on earth, as planets and stars drop from the
 track of the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2415,8 +2319,6 @@ When that Trishira, the enemy of celestials, having a prowess equal to that of I
 was killed, the monkeys made a loud noise. The earth trembled. Then, the demons ran away
 everywhere. Seeing Trishira, Mahodara and the invincible Devantaka killed, Matta (Mahaparshva) was
 enraged with indignation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2490,8 +2392,6 @@ of iron, wound round with golden wires, filled with a froth of flesh and blood, 
 blood enemies, the upper most part of which was blazing with splendour, decked with red coloured
 garlands and which frightened the elephants supporting the quarters like Airavata, Mahapadma and
 Sarvabhauma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2538,8 +2438,6 @@ foremost of demons; *samabhidudraava* = went quickly; *harrin* = to the monkeys;
 
 Taking that mace, the enraged Matta, the foremost of demons, went quickly to the
 monkeys like the blazing fire at the end of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2586,8 +2484,6 @@ Rishabha; *vaanaraH* = a monkey; *utpatya* = jumping up; *tasthau* = stood;
 
 Then, a strong monkey called Rishabha came jumping and stood in front of that
 Mattanika (Mahaparshva), the younger brother of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2635,8 +2531,6 @@ equaling a thunderbolt.
 
 Enraged in seeing that Rishabha, looking like a mountain, standing before him,
 Mahaparshva struck him upon his breast with a mace equaling a thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2683,8 +2577,6 @@ monkeys; *bhinnavakShaaH* = had his breast broken; *samaadhuutaH* = was trembled
 
 When he struck with his mace, the breast of that Rishabha the foremost of demons was
 broken. He then trembled and exuded blood profusely.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2732,8 +2624,6 @@ maaNauShThaH* = with his lips quivering; *udaikShata* = looked towards;
 
 That Rishabha, the supreme monkey regained his consciousness after a long while and
 enraged as he was with his lips quivering, looked towards Mahaparshva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2787,8 +2677,6 @@ tightening; *muShTim* = his fist; *jaghaana* = struck; *sahasaa* = quickly;
 
 That Rishabha, the supreme monkey regained his consciousness after a long while and
 enraged as he was with his lips quivering, looked towards Mahaparshva.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2844,8 +2732,6 @@ looking like a terrific Yama's rod; *nanaada* = he roared loudly.
 With his body drenched in blood, that Mahaparshva suddenly fell unconscious on the
 ground, like a tree with its root cut off. Then, taking quickly Mahaparshva's mace, which was
 looking like Yama's rod, he roared loudly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2907,8 +2793,6 @@ Mahaparshva remained as though he was dead for a while. Springing suddenly after
 regaining his consciousness, that demon, whose colour resembled his consciousness, that demon,
 whose colour resembled an evening cloud, struck that Rishabha, the son of Varuna the lord of
 waters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -2969,8 +2853,6 @@ banged (Mahaparshva); *samkhye* = in the battle.
 That Rishabha fell unconscious for a while on the ground. Rising after regaining
 consciousness and tightly holding just the same mace, which was looking like a large mountain-peak,
 banged it on Mahapatra in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -3018,8 +2900,6 @@ kShatajam* = copious blood; *adriraajaH iva* = like a supreme mountain;
 That terrific mace, reaching the body of Mahaparshva, the fierce demon, the enemy of
 celestials, sacrificial rites and Brahmanas, broke his chest. Mahaparshva started exuding copious
 blood, as a supreme mountain exudes water full of minerals.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -3072,8 +2952,6 @@ again; *jaghaana* = he struck; *mattaniikam* = Mattanika (Mahaparshva);
 The great souled Rishabha quickly ran towards the mace of that mighty Mahaparshva.
 Seizing that dreadful mace and striking it repeatedly on the floor, he struck it on Mahaparshva in
 the battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -3120,8 +2998,6 @@ fallen out; *nipapaata* = fell down; *achalaH iva* = like a mountain;
 
 Struck by his own mace, that Mahaparshva with his teeth and eyes fallen out, fell
 down like a mountain struck by a thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -3171,8 +3047,6 @@ his long life gone away; *patite* = and fallen; *bhuumau* = on the ground;
 
 When that demon depleted his strength, burst open his eyes, with his long life gone
 away and fallen down on the ground, the army of demons ran away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 </details>
 
@@ -3228,8 +3102,6 @@ sea which has burst its shores.
 When that Mahaparshva was killed, that army of demons, which was as extensive as an
 ocean, abandoning their weapons in the battle-field, fled for mere lives, like a sea which has
 burst its shores.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

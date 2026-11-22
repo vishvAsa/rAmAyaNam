@@ -20,8 +20,6 @@ Khara provokes Rama to fight, but Rama gives enough advise to Khara to yield up.
 Rama is overtired to fight him back and thus enters into verbal fight. Ultimately Khara hurls a mammoth
 mace at Rama, which burns down all the neighbouring plants and bushes, and Rama splinters it down while
 it is still sky rocketing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ but staying his course wielding a mace. [3-29-1]
 
 Rama is said to have tested whether Khara is ready to surrender or not, at least at this stage of loosing
 all paraphernalia of war. Hence he is said to have talked softly but harshly to that demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -141,8 +137,6 @@ such as you are; *sarva loka jugupsitam karma* = by all, worlds, detestable - lo
 "Although you hold sway over a gigantic force abounding with elephants horses and chariots, you have
 perpetrated heinous deeds in Dandaka forests that are loathsome to all the worlds, that is unseemliest
 to this soldiery. [3-29-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -163,8 +157,6 @@ not, stand up for [himself.]
 
 "One who causes suffering to living beings, besides being a transgressor and completely ruthless, he
 does not stand up for himself even if he were to be the lord of all the three worlds. [3-29-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -180,8 +172,6 @@ as with; *hanti* = will eradicate.
 
 "All people will eliminate him, oh, nightwalker, who is imperious and an infringer of worldly routine,
 as they would eradicate a vicious serpent, in the event of its running across them. [3-29-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -256,8 +246,6 @@ braahmaNa paravaan iva* .
 
 Next, implying the prospective question of Khara, viz., 'What sin I have committed?' Rama answers it
 in the next verse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 
 </details>
@@ -308,8 +296,6 @@ when karmic cycle is over. But those that are not only sinners but cruel, and ev
 will ruin here only, because their merit accumulated in earlier births has come to a standstill on this
 earth itself. Those sinners will become like petrified trees trunks, they neither fall nor their boughs
 flower.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -351,8 +337,6 @@ flower.
 "Even if a fortune is made for a lavish living with an iota of merit, the evildoers, that too reprobates,
 further more those that are abominated by world will not last long, no more that petrified tree trunks.
 [3-29-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -407,8 +391,6 @@ be ghoulish, as with the flowering of trees according to season. [3-29-8]
 
 dhvani/allusion: That fruit of sin will not be immediate alike the a crop that yields long after sowing.
 Moreover the fruit of sin will be venomous, for the greedy harvester of that sin alone will devour it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -463,8 +445,6 @@ or committing a sin is simply subjective. If one commits sin unknowingly, that w
 intake of venomous food, unsuspectingly. Both the poisonous food, and committing sins will act internally
 and rapidly than any other ruinous inflictor. Then the sinner, or the consumer of poisonous food will
 acquire an inconsolable wretched state.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -525,8 +505,6 @@ upadrava karaH raaj~naa avashyam shikShaNiiyam iti suucitam |* and he goes on qu
 *vidura niiti* Vidura's morals in Maha Bharata:
 *gururaatmavataam
 shaastaa shaastaa duraatmanaam | antaH pracchanna paapaanaam shaastaa vaivasvato yamaH ||*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -583,8 +561,6 @@ dhvani/allusion: My arrows can pierce through your body, not only your body but 
 and they bounce back to re-enter my quivers like the snakes that emerge from snake pits and return to
 their pits when their task is over. Or, when these arrows enter your body that is akin to a snake pit,
 they will kill all the sins lying like snakes inside that body of yours, and return to my quivers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -647,8 +623,6 @@ of Kshatriya dharma and conduct righteous warfare they go to *brahma loka*. So s
 The same is said Bhagavad Gita *yam yam vaa
 api smaran bhaavam tyajatyante kalebaram | tam tam evaiti kaunteya sadaa tad bhaava bhaavitaH ||*
 Gita 8-6.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -704,8 +678,6 @@ in hellish death pangs when assaulted with my arrows. [3-29-13]
 The word *nirayastham* is literally 'in hell of Yama' but here it is the hell-like situation
 caused by Rama's arrows. If the literal meaning of 'in hell' is taken the above assurance of salvation
 etc., will be futile, hence, it is 'hellish pangs' by the hit of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -766,8 +738,6 @@ references, for e.g., Karna in Maha Bharata says:
 *shuuraaH
 garjanbti satatam praavR^iShi iva balaahakaaH |* 'brave ones will be regularly thundering
 like thundering clouds...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -827,8 +797,6 @@ am here... Know me thus...' etc., is for the same purpose. Thus, this is a laugh
 who are already in the know of Being. Presently it is Khara who was great Vedic Brahman once, but became
 an ogre by curse. Contrariwise, it is a 'laughable talk' of the Supreme Being, to non-knowers or for
 the non-adherers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -883,8 +851,6 @@ kopaat asamartho raama iti bhraantaa uktavaan iti no ko api doShaH | dk* But as 
 Vedic Brahman who is in the know of Rama as Vishnu is retorting Rama saying 'you also need to self-eulogise,
 when I am fully aware of you and come hither to gain my salvation at your hand? You are not supposed
 to self-extol before small beings like us...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -940,8 +906,6 @@ dhvani/allusion: This is said otherwise: *ye nararSabhaaH* 'those best ones amon
 of their own valorous resplendence, they speak up their glory, vaingloriously...' 'So it is unapt of
 you to speak up for yourself, for we are in the know of it, and we are waiting for our release from
 our curse at your hand...' Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -997,8 +961,6 @@ Kshatriya-s...' *yathaa nir arthakam vikatthase* 'as to how they meaninglessly s
 *raama tvam vikatthante* 'oh, Rama, you are speaking like that...' 'It is unapt of you to talk
 vainly like any other average Kshatriya, as you are an incarnate in a best Kshatriya clan, and you do
 your duty righteously without much talk...' Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1055,8 +1017,6 @@ that being so...' *stavam ko vaa abhidaasyati* 'self-praise, who, either, speaks
 Khara's saying is: 'where is the necessity for any warrior to self-eulogise when the death-time is hovering
 upon his enemy? And you, as Rama, are on the winning spree in this war, and there is no necessity to
 extol yourself...' Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1135,8 +1095,6 @@ Thus Khara is saying 'I was thinking that Rama is a very great valiant person, b
 your self-eulogies, at an inopportune time, you appear to be a cold stone but not a firebrand... One
 who goes on self-eulogising without taking any action in a war is a coward but not a victor...' Thus
 Khara is quickening Rama to proceed with fighting so that the ensuing salvation can also be quickened.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1183,8 +1141,6 @@ jagged; *dharaa dharam iva* = earth, borne by - mountain, like; *a kampyam* = no
 
 "But you are seeing me wielding a mace and standing before you like an unshakable and jagged mountain
 laden with ores, isn't it! [3-29-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1245,8 +1201,6 @@ api* 'Though I can strike down the lives of all in all the three worlds with thi
 Yama does so with only one noose...' *raNe tava na paryaaptaH* 'in war, with you, not, competent...
 'I am not competent enough to fight with you in war, for I am an inferior being in comparison to you,
 oh, Supreme Being...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1303,8 +1257,6 @@ you humans cannot war with us, the nightwalkers who are adept in night-wars. Thu
 nighttime does not prove my victory, for your warfare is from sunrise to sunset. Hence, this war is
 to be stalled. If you quicken now without self-extolling, I will kill you before sunset, proving my
 chivalry and then I can dab the eyes of the wives of the demons so far killed by you...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1361,8 +1313,6 @@ will wipe... 'For I sacrificed fourteen thousand kinsmen of mine, and if I am al
 wives do not find fault with me and my death will wipe their tears out... that is why, though you tried
 to pacify and avert me from warring with soft talk *mR^idu puurva bhaaSaNena*, as at 3-29-1.
 I can not but war, and you need not think that I am heedless of your words...' Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1410,8 +1360,6 @@ thunderbolt, which is like; *taam gadaam* = that, mace; *raamaaya cikSepa* = for
 
 Saying thus that highly infuriated Khara hurled his mace towards Rama, around which there are superb
 golden cinctures, and which is extremely glaring like a thunderbolt. [3-29-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1458,8 +1406,6 @@ tat samiipataH agaat* = to his [Rama's,] near, has gone - darted out.
 
 Forcefully discharged from Khara's hands that highly fiery and stupendous mace rendering trees and shrubs
 down to ashes darted towards Rama. [3-29-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1506,8 +1452,6 @@ down to ashes darted towards Rama. [3-29-26]
 
 When that monstrous mace similar to the halter of the Terminator is swooping down, Rama smashed it to
 smithereens with his arrows while it is still sky rocketing. [3-29-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 </details>
 
@@ -1566,8 +1510,6 @@ at hand. For this Dharmaakuutam says, without expanding:
 *anena mantra
 auShadhi balaiH viSha aadi naasha ukto bhavati | dk* 'any poison can be neutralised by
 antidotes, say spells and nostrums...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

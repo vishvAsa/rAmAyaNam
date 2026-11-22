@@ -18,8 +18,6 @@ occurred. Bharata and Satrughna go to Kausalya's place. Kausalya speaks harsh wo
 saying that Kaikeyi his mother procured for him the kingdom as desired by him the kingdom as
 desired by him. Bharata politely explains, on a number of oaths, his own innocence over the matter,
 Kausalya comes to know Bharata's heart, fondly takes him to her lap and weeps distressfully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ in the midst of the ministers.
 That valiant Bharata, having come to himself a long time on obtaining consciousness,
 saw his mother whose eyes were filled pitiably with tears, reproached her mother in the midst of
 the ministers and said as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -132,8 +128,6 @@ residing; *viprakR^ishhTe* = in a distant; *dashe* = land; *shatrughnasahitaH*
 "I never desired for the kingdom nor consulted about this matter with even my
 mother. I was not aware of the proposed coronation, which has of the been contemplated by king
 Dasaratha; since I was staying indeed in a distant land, along with Satrughna."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -180,8 +174,6 @@ Lakshmana; *siitaayaashcha* = and of Seetha; *abhavat* = having occured.
 
 "I was neither aware of the banishment of Rama to the forest nor about how the exile
 of Lakshmana and Seetha have occurred."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -231,8 +223,6 @@ _________________
 
 Recognising the voice of Bharata the noble man, crying out in that manner, Kausalya
 spoke the following words to Sumitra:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -279,8 +269,6 @@ that Bharata; *diirghadarshanam* = the far sighted.
 
 "Bharata, the son of Kaikeyi, the doer terrific deeds arrived. I went to see that
 far-sighted Bharata."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ the place) where; *bharataH* = Bharata;(was there).
 
 That kausalya who became pale with her demeanor, dirty and emaciated, speaking to
 Sumitra as aforesaid, became agitated and absent minded and proceeded to Bharata's place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -379,8 +365,6 @@ along with Shatrughna; *pratasthe* = proceeded; *yatra* = to where;
 
 Bharata, the younger brother of Rama on his part, along with Shatrughna started out
 to Kausalya's place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -429,8 +413,6 @@ to Kausalya's place.
 Seeing Kausalya who was afflicted with grief, who fell unconscious (on the way) who
 was crying and who was an honorable woman with a noble mind. Shatrughna and Bharata wept in sorrow,
 approached her painfully and embraced her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ Alas!
 Kausalya who was very much in sorrow , spoke the following words to Bharata: "you,
 who have a desire for kingdom, have got this invincible kingdom ."Alas! By the cruel deed of
 Kaikeyi, it was obtained by you soon!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -521,8 +501,6 @@ so?
 
 "The ruthless Kaikeyi condemned my son to wear garments of bark and sent him to
 dwell in the forest: What merit has she gained from this?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ mark of Vishnu the god of creation).
 
 "Kaikeyi ought to send me too without delay to the place where my illustrious son
 with a golden novel (the distinguished mark of Vishnu the god of creation) is there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -620,8 +596,6 @@ happily; *prasthaasye* = set out; (to the place); *yatra* = where; *raaghavah*
 "Otherwise, I for my own satisfaction accompanied by Sumitra, placing in
 front(carried by Brahmana) the sacred fire*** will happily set out to the place Raghava has
 gone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -672,8 +646,6 @@ son; *asou* = this Rama; *purushhavyaaghraH* = the tiger among men; *tapyati*
 
 "Otherwise, you yourself ought to conduct me now, if you so desire, to the place
 where my son, the tiger among men, is living as an ascetic."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -720,8 +692,6 @@ with grains and riches; *vistiirNamhi* = was indeed procured; *tava* = to you;
 
 "This vast kingdom, endowed with elephants, horses and chariots and stock piled with
 grains and riches, has been made over to you by her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -772,8 +742,6 @@ _________________
 
 Derided with these and other harsh words that he had not merited, Bharata was
 extremely perturbed, as if a needle was thrust into an open wound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -821,8 +789,6 @@ queen.
 
 His mind being perplexed and having lost his consciousness, Bharata then coming his
 senses, wailed in many ways and fell at the feet of the queen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -870,8 +836,6 @@ afflictions; *vilapanaamaam* = and weeping; *evam* = as aforesaid; *bahubhiH*
 
 Then, Bharata with folded hands, replied as follows to Kausalya who was encircled by
 afflictions and weeping as aforesaid in many ways:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -922,8 +886,6 @@ do you reproach ; *maam* = me; *ajaanantam* = who did not knowing; anything;
 
 "O, noble woman! Why do you reproach me, sinless as I am, for those things that I do
 not know anything? Nay, you know well of the greatest affection I have for Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -971,8 +933,6 @@ shroshhTo = the best of men; who keeps us his promise; *maa bhuut* = be never;
 
 "May the mind of the one who in any way whatsoever allowed for the departure of my
 elder brother the best of men who keeps up his promise, be closed to all the seriptures."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1024,8 +984,6 @@ kick; *paadena* = with his foot; *suptaam* = a sleeping; *gaam* = cow.
 "May he who counseled the banishment of my noble brother become the slave of the
 vilest scoundrels, may he answer the calls of nature in the face of the sun and may he kick with
 his foot, a sleeping cow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1073,8 +1031,6 @@ labour; *bhR^ityam* = on his servant; *anarthakam* = without remunerating him.
 
 "With whose counsel my elder brother went to exile, to him let that sin incur, as to
 a master who imposes the heaviest labour on his servant without remunerating him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1125,8 +1081,6 @@ my elder brother; *gatah* = has gone to exile; *to him) tat* = let that;
 
 "with whose counsel my elder brother has gone to exile, to him let that sin incur as
 to those who seek to harm a king who protects his people as if they are his own children."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1177,8 +1131,6 @@ counsel; *aaryaH* = my elder brother; *gataH* = went to exile.
 
 "May the guilt of a king, who taking the sixth part of the revenue of his people
 fails to protect them, be fallen on them with whose counsel my elder brother went to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1230,8 +1182,6 @@ in a sacrifice; *tapasvibhyaH* = to the priests; *vipralapataam* = breaks;
 "May the sin of those having given the promise for certain sacrificial fees to
 priests in a sacrifice, breaks that promise, to be his with whose counsel my elder brother went to
 exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1280,8 +1230,6 @@ chariots and weapons; *janasamaakule* = and abounding in men;( be his) yasya = w
 "May the sin of him, who fails to observe the code of warfare followed by the
 virtuous in a battle abundantly provided with elephants horses chariots weapons and men, be his
 with whose counsel my elder brother went to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1329,8 +1277,6 @@ subtle meanings; *shaastram* = of the scriptures; *upadishhTam* = imparted;
 
 "May that perverse wretch, with whose counsel my elder brother has gone to exile,
 forget the subtle meanings of the scriptures taught with care by a wise teacher."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1382,8 +1328,6 @@ seated; *raajyastham* = in a kingly office.
 "May he with whose counsel my elder brother has gone to exile, never behold that
 Rama having large arms and broad shoulders radiant as the sun and the moon and seated as he will be
 on a throne."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1434,8 +1378,6 @@ and peas with a few spices; *chhaagam* = a goat; *vR^ithaa* = in vain;
 the sin of partaking milk boiled with rice and sugar a cooked mixture of rice and peas with a few
 species and a goat flesh without offering them to the gods and be lacking in reverence towards
 teachers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1483,8 +1425,6 @@ teachers."
 
 "May he with whose counsel my elder brother has gone to exile, incur the sins of
 kicking the cows, of personally abusing the elders and of deceiving a friend too much."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1533,8 +1473,6 @@ words; *kaThitam* = narrated; *kvachit* = occasionally; *mittaH* = in secret;
 "May that perverse wretch with whose counsel my elder brother has gone to exile
 incur the sin of divulging a little abusing words about others spoken occasionally in secret and in
 confidence, to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1583,8 +1521,6 @@ confidence, to him."
 "May he with whose counsel my elder brother has gone to exile, become a non doer, an
 ungrateful person; a desperate man, the one who has abandoned shame and the one who is worthy of
 hate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1633,8 +1569,6 @@ ashnaatu* = of eating; *nR^ishhTam* = delicious food; *ekaH* = for himself alone
 "May he with whose counsel my elder brother has gone to exile, incur the sin of
 eating delicious food for himself alone when he is surrounded by his sons , wife and servants in
 his house."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1682,8 +1616,6 @@ suitablefor him; *anavaapya* = and thus) not fulfilling; *dharmyaam* = his relig
 
 "May he with whose counsel my elder brother has departed; die issueless, failing to
 secure a wife suitable for him and thus not fulfilling his religious duties."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1725,8 +1657,6 @@ secure a wife suitable for him and thus not fulfilling his religious duties."
 
 "May he with whose counsel my elder brother has departed, not see a child through
 his wife and in distress, may not get a full long life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1776,8 +1706,6 @@ brother has gone to exile); *pratipadyataam* = obtain; *tat* = the same;
 "That sin which was proclaimed in killing a king a woman, a child or an aged person
 or in abandoning one's dependents let him (with whose counsel my elder brother has gone to exile)
 obtain the same sin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1827,8 +1755,6 @@ poison.
 "May he with whose counsel my elder brother has gone to exile, obtain, tat= the sin
 of nurturing his wife children and other dependents through sale of lacquer, liquor, flesh, iron or
 poison."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1877,8 +1803,6 @@ at a time where) a battle; *satrupakshhabhayamkare* = inspiring fear upon the en
 "May he with whose counsel my elder brother has gone to exile, obtain the sin of
 being killed while fleeing, at a time when a battle inspiring fear upon enemy's side has
 commanded."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1926,8 +1850,6 @@ rags; *bhikshhamaaNaH* = and begging for alms.
 
 May he with whose counsel my elder brother has gone to exile, wander about the
 world, as a mad man with a wooden bowl in his hand, dressed in rags and begging for alms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -1975,8 +1897,6 @@ involved; *pane* = in intoxicvated drinks; *srtiishhu* = women; *akshheshucha*
 
 "May he with whose counsel my elder brother has departed, be given over to
 infatuation and anger and be constantly involved in wine women and dice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2029,8 +1949,6 @@ undeserving.
 May the mind of man with whose counsel my elder brother has gone to exile, never
 take delight in righteousness? Let him indulge in un righteousness and become a distributor of
 gifts for the undeserving."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2077,8 +1995,6 @@ in thousands; *vipralupyantaam* = be snatched away ; *dashyubhiH* = by robbers.
 
 "With whose counsel , my elder brother has gone to exile, let his various kinds of
 riches got accumulated in thousands , be snatched away by robbers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2137,8 +2053,6 @@ elder brother; *gataH* = has gone to exile.
 
 "That sin which was proclaimed on him who sleeps during both the twilights, let that
 sin be obtained by him, with whose counsel my elder brother has gone to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2155,8 +2069,6 @@ obtained (to him on whose counsel my elder brother has gone to exile?)
 
 "Let him obtains that sin, which attaches to a man who practices arson, to a man who
 violets his teacher's bed and to a man who cheats his friend."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2204,8 +2116,6 @@ to the gods; *pitR^iiNaam* = to the manes; *tathaivaaha* = and like wise;
 
 "May he, with whose counsel my elder brother has gone to exile, incur that sin of
 not doing service to be god, to the manes and likewise to his mother and father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2254,8 +2164,6 @@ obtained;by good man; *tathaa* = and ; *kiirtyaaH* = from illustriousness.
 "May he with whose counsel my elder brother has gone to exile, forfeit soon and now
 from the region obtained by virtuous man, forfeit the illustriousness enjoyed by good men and the
 righteous actions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2303,8 +2211,6 @@ be condemned; *anarthe* = to idleness.
 
 "May he with whose counsel, that long armed and broad chested elder brother has gone
 to exile, fail to give due reverence to his mother and be condemned to idleness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2352,8 +2258,6 @@ counsel; *aaryaH* = my elder brother; *gataH* = has gone exile;
 "May he with whose counsel my elder brother has gone to exile, possess many
 dependents be without resources, be undermined with fever and disease and be forever in
 distress."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2402,8 +2306,6 @@ looking up; *aashamsamaanaanaam* = and seeking for alms.
 "May he with whose counsel my elder brother has gone to exile, incur the sin of
 falsifying the hopes of highly miserable destitute, who having their eyes looking up seek for
 alms."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2455,8 +2357,6 @@ man;pishunaH = a back biter; *ashuchiH pishunaH* = dishonest man.
 "May he with whose counsel my elder brother has gone to exile, incur the sin of
 staying in fear of the king forever as a cunning man, a cruel man, a back biter, a dishonest man
 and an unrighteous man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2500,8 +2400,6 @@ favorable for procreation.
 "May the evil minded man, with whose counsel my elder brother has gone to exile,
 incur the sin of ignoring his chaste wife, who having bathed after her course of menstruation.
 approaches him for union having regard for the season favorable for procreation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2544,8 +2442,6 @@ approaches him for union having regard for the season favorable for procreation.
 "May that stupid with whose counsel my elder brother has gone to exile, incur the
 sin of courting the consort of another disdaining his lawful wife and having forsaken his love for
 piety."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2592,8 +2488,6 @@ elder brother; *gataH* = has gone to exile; *pratipadyataam* = obtain;
 
 "May he, with whose counsel my elder brother has gone to exile, incur that sin,
 which is obtained by a Brahmana who is issue less."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2639,8 +2533,6 @@ person who administers person.
 "May he with whose counsel my elder brother has gone to exile, incur the sin that is
 attached to a person polluting the drinking water and likewise to a person who administers
 poison."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2690,8 +2582,6 @@ ten years).
 "May he with whose counsel my elder brother has gone to exile, incur the sin
 attached to a person disturbing the worship going to be offered to a Brahmana (by another) and to
 milking a cow having a young calf. " (of age less than ten days)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2739,8 +2629,6 @@ available.
 
 "To him, with whose counsel my elder brother has gone to exile, let that sin be
 obtained of disappointing a person oppressed with thirst, even though water was available."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2789,8 +2677,6 @@ between two divided groups (without trying to make peace between them.)
 "With whose counsel my elder brother has gone to exile, let the sin be accorded to
 him, who while standing on the road, merely witnesses a dispute between two divided groups without
 trying to make peace between them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2840,8 +2726,6 @@ consoling; *kausalyaam* = Kausalya; *vihiinaam* = bereft of;
 
 "While thus counseling Kausalya, who was bereft of her husband and son, the prince
 Bharata fell down, depressed as he was with anguish."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2889,8 +2773,6 @@ manner.
 
 Kausalya spoke the following words to Bharata who was tormented with grief, was
 quite distraught and who just uttered formidable imprecations in the aforesaid manner:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2937,8 +2819,6 @@ are indeed afflicting; *me* = my; *praaNaan* = spirits.
 
 "O, son! My grief is further enhanced. By uttering the curses, you are indeed
 racking my spirits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -2989,8 +2869,6 @@ lakshhmaNaH* = along with Lakshmana.
 
 "O ,son! Fortunately, your mind as it is endowed with nobility, has not swerved from
 righteous path. You will obtain the world of the blessed, along with Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -3032,8 +2910,6 @@ much; afflicted with grief.
 
 Thus speaking to Bharata who was devoted to his brother Rama, she took the valiant
 Bharata to her lap, embraced him and wept aloud , as she was very much afflicted with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -3080,8 +2956,6 @@ the burden of grief.
 
 Lamenting thus, the great soled Bharata distraught on account of grief, felt himself
 about to swoon, with his mind crushed by the burden of grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 </details>
 
@@ -3134,8 +3008,6 @@ night; *jagaama* = passed; *shokena* = with grief; *tasya* = to Bharata.
 
 To Bharata that night passed with grief in lamenting thus laying fallen unconscious
 on the ground, sighing warmly again and again with his power of discernment having been lost.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

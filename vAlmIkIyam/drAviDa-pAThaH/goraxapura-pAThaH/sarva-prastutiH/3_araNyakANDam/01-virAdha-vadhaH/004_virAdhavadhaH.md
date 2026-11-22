@@ -21,8 +21,6 @@ go to Sage Sharabhanga, who can advise Rama properly. It is said whenever a supe
 neared empty-handedly. So, the elimination of Viradha, first act of Rama to safeguard the diinajana
 parirakshana in Dandaka forests is the gift that Rama takes to the Sage Sharabhanga in next chapter. This is not
 a separate chapter in Baroda edition. But in Gorakhpur and Eastern versions it is a separate one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ voice, screamed.
 
 On seeing those two very dexterous scions of Kakutstha, and the best ones from Raghu dynasty, namely Rama and Lakshmana,
 grabbed and being carried off, Seetha screamed in a high-pitched voice.[3-4-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -112,8 +108,6 @@ that, Dasharatha's, Rama; *saha lakshmaNaH* = with Lakshmana; *rakshasaa raudra 
 
 "He that truth-abiding, virtuous, and the flawless Rama of Dasharatha is carried off along with Lakshmana by the demon with
 a ferocious look... [3-4-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -162,8 +156,6 @@ they aspire; *raakshasa uttamaH* = oh, demon, the best; *maam haraH* = me, thiev
 
 "Wild bears, tigers and panthers aspire to eat me away... oh, best demon, thieve me instead and release Kakutstha-s... Hail
 to thee..." [Said Seetha.] [3-4-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -209,8 +201,6 @@ that, utterance, on hearing; *dura aatmanaH* = minded one's; *tasya* = of that V
 
 On hearing Vaidehi's that utterance those valorous ones Rama and Lakshmana speedily busied themselves in eliminating that
 evil-minded demon Viradha. [3-4-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -255,8 +245,6 @@ evil-minded demon Viradha. [3-4-4]
 **अनुवादः**
 
 Soumitri indeed severed the left arm of that ferocious one, while Rama rent the right arm of that demon with his might. [3-4-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -305,8 +293,6 @@ muurchitaH* = frustrated, fainted; *vajra bhinnaH achala iva* = by Thunderbolt, 
 
 When his arms are mutilated that demon similar to a dark-cloud is frustrated, fainted, and fell onto ground, like the mountain
 demolished by the Thunderbolt of Indra. [3-4-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -352,8 +338,6 @@ and heaving, also, even; *staNDile niS pipeSatuH* = on ground, entirely, pounded
 
 They battered that demon with their fists, hands and feet, and even by heaving and hurling him again and again they entirely
 pounded on him on the ground. [3-4-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -399,8 +383,6 @@ pounded; *saH raakshasa na mamaara* = he, that demon, not, killed.
 
 Though that demon is battered with many arrows, even sheared off with two swords, and even though he is entirely pounded
 on the ground he is not killed. [3-4-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -446,8 +428,6 @@ on the ground he is not killed. [3-4-8]
 
 On observing that the mountain-similar demon is ineradicable that easily, then Rama, the sublime one, and the bestower of
 shelter in fear, spoke this sentence to Lakshmana. [3-4-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -487,8 +467,6 @@ this one; *yudhi shashtreNa nirjetum* = in war, by weapons, to overpower; *na sh
 
 "Oh! Manly-tiger Lakshmana, it is impossible to overpower this demon with weapons in a confrontation, hence, let's bury
 this demon... [3-4-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -537,8 +515,6 @@ demon; *kunjarasya iva* = for an elephant, as though; *asmin* = in forest; *su m
 
 "Lakshmana, a very deep pit be dug for this furious and ferocious reprobate in this forest, as though for an elephant...
 [3-4-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -584,8 +560,6 @@ foot, on the throat, overcoming [repressing,] stood in readiness.
 
 On saying to Lakshmana that a trench shall be dug...' then Rama repressively placed his foot on the throat of Viradha, and
 stood by. [3-4-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -631,8 +605,6 @@ said; *puruSarSabhaH kaakuthsam* = man, the best, to Kakutstha; *idam prashritam
 
 On hearing that said by Raghava, demon Viradha sincerely spoke these humble words to Rama, the finest one from Kakutstha
 dynasty. [3-4-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -678,8 +650,6 @@ me, fallaciously, but; *tvam puurvam na j~naataH* = you are, earlier, [by me] un
 
 "Dead I am, oh! Manly-tiger and a coequal of Indra in your strength... I have fallaciously not identified you earlier...
 oh, best one among men... [3-4-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -725,8 +695,6 @@ mahaayashaH* = Lakshmana, too, great, renowned one [are now known.]
 
 "Oh, sire, now I have known you to be Rama, the son of Kausalya... and even propitious Seetha and greatly renowned one Lakshmana
 are now known to me... [3-4-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -775,8 +743,6 @@ _________________
 
 "By curse I had to enter this ghoulish demon's body, but I am a celestial gandharva, named Tumburu and Kubera cursed me...
 [3-4-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -826,8 +792,6 @@ body,] you attain; *bhavaan swargam gamiSyati* = you, to heavens, can go;.
 
 "When entreated by me, he that greatly renowned Kubera said to me, 'When Dasharatha's Rama kills you in a fight... then
 you will attain your nature of celestial body and you will go to heavens...' [3-4-17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -873,8 +837,6 @@ aasaktam* = in Rambha, interested; *uvaaca ha* = said [this curse-clearance,] in
 
 " King Kubera thus cursed angrily me for not presenting myself in his service when I was interested in a celestial dancer
 Rambha, and indeed he alone said this curse-clearance to me... [3-4-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -936,8 +898,6 @@ not devils or Satan's stooges, but they equal the capabilities of sura beings. P
 in an important article in the B.Br.A.S. Journal makes the following interesting suggestion. The Sanskrit equivalent of
 the word demon viz., 'Asurya' may here refer to the 'Assyrian' country. 'Assyrian and 'Asuryan' being philologically identical,
 the 'y' and the 'u' being interchangeable as in Greek..."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -991,8 +951,6 @@ vasati* = Sharabhanga, great, saint, dwells; *tvam kshipram tam abhigaccha* = yo
 
 "Oh, Sire, att one and half yojana-s of distance from here Sage Sharabhanga, a great saint of virtue, and an efficacious
 sage with sun-like resplendence dwells, you shall quickly approach him for he advises you opportunely... [3-4-20-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1040,8 +998,6 @@ to them, worlds of manes.
 
 "Rama you go safely on burying me in a pit... this is the age-old custom for those demons that lost vitality... those that
 are inhumed in pit, to them there will be the worlds of manes..." [3-4-22, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1088,8 +1044,6 @@ arrows, hurt; *babhuuva swarga sampraaptaH* = became, heavens, attained [heaven-
 **अनुवादः**
 
 "And on saying thus to Rama that Viradha who is hurt by arrows became heaven-worthy on leaving his body. [3-4-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1161,8 +1115,6 @@ stood in readiness.
 And Raghava on hearing those words of the demon ordered Lakshmana, "Lakshmana, a very deep pit be dug for this furious and
 ferocious reprobate in this forest, as though for an elephant..." On saying to Lakshmana that a trench shall be dug...'
 then Rama repressively placed his foot on the throat of Viradha, and stood by. [3-4-24b, 25, 26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1209,8 +1161,6 @@ pit, dug; *paarshvataH tasya viradhasya mahaa aatmanaH* = beside of, that, of Vi
 **अनुवादः**
 
 Then, on taking a digging tool Lakshmana dug a deep pit beside the great soul Viradha. [3-4-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1260,8 +1210,6 @@ bhairava swanam* = with horrific, voice.
 
 On releasing his throat from the stamping of Rama, he that long eared, lurid voiced Viradha is ensconced in that pit while
 he is still blaring with his horrific voice. [3-4-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1315,8 +1263,6 @@ one; *raakshsam* = him, that blaring, demon; *utkshipya balena* = raising up, by
 
 Those deftly victorious ones Rama and Lakshmana who compose themselves in a given fight, both have gladly raised that Viradha,
 a ghoulish one in fight, a terrifying demon who is still blaring, with all their might and hurled him into the pit. [3-4-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1370,8 +1316,6 @@ have undertaken.
 
 On observing the indestructibility of that demon with any weapon, however sharp it might be, those two best ones among men
 that are very expertly skilled have thought over well and undertook the elimination of that great demon in a pit. [3-4-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1429,8 +1373,6 @@ as; *swayam niveditaH* = he himself, apprised.
 
 Viradha himself preferred his death at the hands of Rama and desired for a long to be killed by Rama and that forest walker
 himself appraised that, "Killing me with any weapon is impossible..." [3-4-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1483,8 +1425,6 @@ one, by him, that demon, forest, is verily, blared.
 
 On listening to that which is said by Viradha, Rama resolved his mind to cast him into pit, and when that mighty demon is
 being flung into the pit the whole forest blared with that demon's cries. [3-4-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1543,8 +1483,6 @@ order to make it a burial-chamber to the departed soul. [3-4-33]
 
 Everywhere Rama patiently performs these funeral rites, whether it is demon, eagle or a monkey, if dead in his presence.
 Here also, Viradha's grave is covered with stones and boulders, as a kind of Stonehenge.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 </details>
 
@@ -1612,8 +1550,6 @@ ascending Sun and lengthens as the dusk of our day or life increases. Hence Sun'
 is thus compared with the Sun, for he does not have his wife travelling with him now. And Lakshmana is another karma saakshi
 [Witness of Events] in the Ramayana. In another way of commenting it is said that both of them are said to be moon-like
 in their appeasing personalities and sun-like in their radiant valour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga4/aranyasans4.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

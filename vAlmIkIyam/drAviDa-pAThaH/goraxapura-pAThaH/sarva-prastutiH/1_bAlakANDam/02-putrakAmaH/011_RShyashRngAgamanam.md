@@ -17,8 +17,6 @@ title_english = "011 dasaratha brings Rishyasringa to ayodhya"
 
 On the advice of his minister Sumantra, Dasharatha proceeds to Anga kingdom to
  fetch Sage Rishyasringa and his wife Shanta to his capital Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -85,8 +83,6 @@ said by Sanat Kumara, the best one among all deities, kindly listen to these fav
 
 Sage Sanat Kumara belongs to the bygone era of Ikshvaku dynasty. Please refer to the account
 regarding the era-system of ancient India at endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -127,8 +123,6 @@ regarding the era-system of ancient India at endnote.
 
 "A king named Dasharatha will be born into Ikshwaku dynasty who will be very virtuous,
 resplendent and truthful one to his vow." [Said Sanat Kumara, the Sage.] [1-11-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ girl named Shanta. [1-11-3]
 
 Shanta is said to be the daughter of Dasharatha and given to Romapada in adoption, and Rishyasringa
 marries her alone. This is what Sumantra says to Dasharatha at 1-9-19.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -201,8 +193,6 @@ marries her alone. This is what Sumantra says to Dasharatha at 1-9-19.
 The son of the king of Anga, the earlier king of Anga kingdom, will be known as Romapada,
 or also know as Chitraratha, and the highly renowned king Dasharatha approaches Romapada.
 [1-11-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -219,8 +209,6 @@ santaanaartham* = for the sake of progeny of my dynasty; *kratum aahareta*
 Then king Dasharatha says to king of Anga "oh, righteous one, I am childless and hence I intend
 to perform a Vedic ritual. Let the husband of your daughter Shanta, Sage Rishyasringa, preside
 over that Vedic ritual at you behest, for the sake of progeny in my dynasty. [1-11-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 </details>
@@ -273,8 +261,6 @@ after begetting a son, which Rishyasringa did not concede. So taking this some s
 has a son. But it is generally accepted that *putravantam* as *aahitaagni*,
 Vedic ritualist of eminence, according to: *jaataputraH kR^ishNakesho
 agniin adhiita... *according to *shruti* scripture.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -316,8 +302,6 @@ receiving, him, Brahman [Rishyasringa]; *vigatajwaraH* = rid of fever - uneasine
 "On receiving that Brahman, Sage Rishyasringa, at the behest of his father-in-law, that king
 Dasharatha gets rid of his febrile condition and will accomplish that Vedic ritual, feeling
 very felicitous in the depths of his heart. [1-11-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -383,8 +367,6 @@ all the quarters of earth will accomplish those desires from that eminent Brahma
 Heavenly abodes are dependent on begetting sons:* aputrasya gatirnaasti
 svargo naiva ca naiva ca* There is no way out [in other worlds] for those without sons...
 *shruti* scripture. Hence the request of Dasharatha is that way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -441,8 +423,6 @@ and they will be renowned among all beings." Thus said Sage Sanat Kumara to othe
 to have a son to perpetuate his race, and to assist with sacrifices and funeral rites to make
 him worthy to obtain a lofty seat in heaven or to preserve that which he has already obtained.'
 Gorresio via Ralph T. H. Griffith [1870-1874].
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -488,8 +468,6 @@ his narration to Dasharatha. [1-11-11]
 **टिप्पनी**
 
 Please refer endnote for *yuga* / era classification.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -543,8 +521,6 @@ well adored.
 " Oh, great king the tigerly-man, he that Sage Rishyasringa be led here on your proceeding
 in person with staff and transport and on adoring him well personally." Thus Sumantra concluded
 his narration. [1-11-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -616,8 +592,6 @@ While the chief priest Vashishta is officiator of all rituals no king can invite
 to perform something without the consent of the officiating priest. Hence the consent of Vasishta
 is obtained, after asking Sumantra to reiterate what all was said, to sage Vashishta also.
 *anena praaciina R^itvigabhyanuj~nayaa naiva anyaaaneyaH -- dharmaakuutam*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -768,8 +742,6 @@ that, eminent Brahman is; *tam desham* = in that, kingdom; *abhicakraama*= enter
 
 On crossing over the rivers and forests slowly and steadily Dasharatha entered that kingdom
 where that eminent Brahman is there. [1-11-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -815,8 +787,6 @@ nearby Romapada; *diipyamaanam iva analam* = resplendent, like, ritual fire; *dv
 
 Then Dasharatha saw that best Brahman who he is nearby king Romapada, and who is resplendent
 like ritual fire. [1-11-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -862,8 +832,6 @@ respects, he paid.
 
 Then king Romapada gladdened at heart of hearts paid excellent respects to king Dasharatha
 procedurally and in view of their friendship.[1-11-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -879,8 +847,6 @@ in return adored [ Dasharatha.]
 
 Then Romapada informed the wise sage Rishyasringa about the friendship and relation with Dasharatha,
 and then that sage worshipped king Dasharatha in his return. [1-11-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -926,8 +892,6 @@ spent time; *raajaanam* = to king Romapada; *idam* = this; *abraviit*
 
 Thus well received by king Romapada, king Dasharatha spent seven to eight days with him, and
 then spoke this to king Romapada. [1-11-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -944,8 +908,6 @@ kaaryam udyatam hi* = a great, deed - the ritual, is contemplated by me, indeed.
 "Oh, lord of subjects, your daughter Princess Shanta may go over my city Ayodhya along with
 her husband Rishyasringa, as oh, king, I am contemplating to perform a great Vedic ritual,
 indeed." So said Dasharatha to Romapada. [1-11-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1003,8 +965,6 @@ Here Ralph T. H. Griffith's translation [1870-1874] has that Shanta is the daugh
 of dames he gave / From childless woe mine age to save, / The daughter whom he loved so much,
 / Moved by compassion's gentle touch. / In him thy S'anta's father see: / As I am even so
 is he...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1021,8 +981,6 @@ said; *nR^ipam* = to the king; *saH* = he; *nR^ipeNa* = by the king;
 
 Then Rishyasringa agreed and replied to the king Romapada "So it will be done" and then having
 been permitted by the king he set forth along with his wife. [1-11-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -1067,8 +1025,6 @@ having performed; *snehaat* = by friendship; *urasaa* = with their bosoms;
 
 Those valiant kings greeted each other with thanksgiving palm-fold, and in friendship they
 embraced each other and gladdened. [1-11-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1086,8 +1042,6 @@ started to send.
 Then king Dasharatha who set forth to Ayodhya bade farewell to his friend king Romapada, and
 he firstly sent quick-footed messengers to Ayodhya to inform his citizens about his arrival
 along with Sage Rishyasringa. [1-11-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -1132,8 +1086,6 @@ thus; *swalankR^itam* = well decorated; *dhuupitam* = well incensed; *siktasammR
 "Let the entire city of Ayodhya be well decorated very quickly, let her streets be sprinkled
 with water and then swept, let the flags of welcome be hoisted.." Thus, king Dasharatha ordered
 messengers that are sent beforehand. [1-11-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -1181,8 +1133,6 @@ performed.
 
 Then on hearing the arrival of their king all the citizens felt very happy and readily performed
 all those works exactly as ordered by their king. [1-11-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -1232,8 +1182,6 @@ swalankR^itam nagaram* = well-decorated, city; *shankhadundubhinirghoShaiH* = fu
 
 Then king Dasharatha keeping Rishyasringa before him entered the well-decorated city Ayodhya
 amidst the full sounding of conch shells and drumbeats. [1-11-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -1304,8 +1252,6 @@ of the same Kaashyapa. Thus Sage Kaashyapa is instrumental to these two incarnat
 the divine grace of Sage Rishyasringa, the same Vishnu is going to take birth as Rama, while
 Sage Kashyapa is a grandparent of Rama in this era, and while he alone was Vishnu's father
 when Vishnu incarnated as Dwarf boy Vamana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -1357,8 +1303,6 @@ fulfilled; *mene* = beleived.
 Dasharatha entered the sage into the palace chambers and worshipped him there as ordained
 in the scriptures, and in bringing the Sage here into his country, king Dasharatha believed
 that his desired is fulfilled. [1-11-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -1408,8 +1352,6 @@ _________________
 
 On seeing her, the broad-eyed Shanta, who came there along with her husband all the ladies
 of palace derived happiness for the homecoming of their own daughter, as it were. [1-11-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 </details>
 
@@ -1469,8 +1411,6 @@ and all in their exactness. The whole lots of works that need be performed have 
 of precedence like prime, auxiliary or adjunctive in their ordinance. A Ritwik is the elated
 scholar who keeps track of these activities while other scholars recite hymns as directed
 by these Ritwik-s. Hence, Ritwik-hood is the highest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

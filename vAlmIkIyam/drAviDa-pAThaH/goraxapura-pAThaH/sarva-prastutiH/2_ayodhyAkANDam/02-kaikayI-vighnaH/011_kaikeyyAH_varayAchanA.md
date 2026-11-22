@@ -15,8 +15,6 @@ title_english = "011 Kaikeyi s evil boons"
 
 In this chapter Kaikeyi asks King Dasaratha to fulfill the boons given to her in
 earlier times.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -62,8 +60,6 @@ hasty lust.
 
 Kaikeyi spoke harsh words to that king, who was struck by cupid's arrows and yielded
 to hasty lust.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -105,8 +101,6 @@ wish ; *ichchhaami* = I desire; *tam* = it; *kR^itam* = to be accomplished;
 
 "Oh, King! no body has insulted me, nor despised me. But I have a certain, desire
 that needs to be fulfilled by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -153,8 +147,6 @@ that needs to be fulfilled by you."
 
 "If you wish to fulfil my desire, you promise to fulfil it. After your promise I
 shall inform you that which is desired by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -201,8 +193,6 @@ that Kaikeyi; *shuchismitaam* = having white smile; *uvaacha* = and spoke
 
 The most majestic and lustful Dasaratha smiled a little and caressingly kept his
 hand into her hair and spoke these words to Kaikeyi who was having white smile in her face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -243,8 +233,6 @@ dearer; *mama* = to me; *tvattaH* = than you; *raamaat* = except Rama;
 
 "Oh, proud woman! Don't you know that there is nobody on this earth more dearer to
 me than you except Rama, the best among men."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -292,8 +280,6 @@ being lived upon; *mahaatmanaa* = who is highsouled; *shape* = I take oath;
 "Rama cannot be defeated by enemies. He is a very important person in our family. He
 is the supporter of life and a high souled man. I take oath by him. Tell me what is desired by
 you".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -340,8 +326,6 @@ oath; *te vachana kriyaam* = to fulfill your word.
 
 "Oh, Kaikeyi ! I can't live even for a moment without seeing Rama. This is certain.
 By that Rama, I am taking my oath and promising to fulfill your word".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -388,8 +372,6 @@ sons; *tena raameNa* = by that Rama ; *manasa* = by your mind
 "I desire the well being of Rama, the best of men, even at the cost of my life or
 the lives of my other sons. I take oath by that Rama and tell you that I shall fulfil your
 word."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -440,8 +422,6 @@ good.
 
 "Oh, auspicious lady! My heart is sinking. You raise it by your touch. Oh, Kaikeyi!
 you observe all this and tell me that which you think as good."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -491,8 +471,6 @@ also; *karishhye* = I shall do; *tava* = your; *priitim* = desire.
 
 "You need not doubt me as you know your authority over me. I am taking oath on my
 auspiciousness. I shall do whatever is desired by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -534,8 +512,6 @@ abhipraayam* = that wish; *aagatam* = coming to her mind; *babhaashhe* = spoke;
 
 That Kaikeyi, who has utmost desire for coronation of Bharata and for sending Rama
 to exile, revealing that wish from her mind, uttered unspeakable wordswith bias and delight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -582,8 +558,6 @@ by those words; *vyaajahaara* = spoke; *tam abhipraayam* = that wish;
 
 Kaikeyi, having been delighted with Dasaratha's words, conveyed him of the very
 horrible wish in her mind as conveying the news of a suddenly befallen death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -633,8 +607,6 @@ as; *krameNa* = with series of; *sapasi* = your oaths.
 
 "Let thirty three celestials with the god of Fire in the forefront hear your words
 giving boons to me, preceded by series of your oaths"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -692,8 +664,6 @@ demons; *iyam* = this; *pRi^thivii* = earth; *bhuutaani* = spirits;
 "Let your words be heard by sun, moon, sky, planets, day, night, the directions,
 universe, earth, celestial musicians, demons, spirits wandering in nights , house-gods and other
 spirits."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ righteousness; *susamaahitaH* = who has good equanimity ; *dadaati* = is giving;
 "King Dasaratha, who has true promise, who has great valour, who knows righteousness
 and who has good equanimity of mind, is giving boon to me. Let the celestials hear it for my
 sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -794,8 +762,6 @@ almost everything except your life.
 
 Kaikeyi made Dasaratha to hear these words, praised him too much and thereafter
 spoke these words to him who was ready to give boons as he was infatuated by lust.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -842,8 +808,6 @@ self.
 
 "Oh, King! Remember what happened in the battle between celestials and demons in the
 olden times. There the enemy destroyed almost every thing except your life".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -890,8 +854,6 @@ which reason; *tvam* = you; *samabhirakshitaH* = were saved; *mayaa* = by me;
 
 "Oh, King! There, I saved you. Hence you gave boon to myself who was attentive in
 trying to save you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -938,8 +900,6 @@ kept for safe custody; *tava sakaashe eva* = at your vicinity only.
 
 "Oh, King! The protection of the Earth, the one who has true promise! I am hunting
 for those boons, which were given by you and kept with you for safe custody."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -981,8 +941,6 @@ itself.
 
 "You have to give that boon, as per right, to me as promised by you. If you despise
 me by not giving it, I should abandon my life now itself".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -1030,8 +988,6 @@ destruction.
 
 Dasaratha, after having thus yielded in full measure to kaikeyi's words, fell into
 her trap as a deer, for his self destruction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -1091,8 +1047,6 @@ vachaH* = my words.
 There-afterwards, Kaikeyi spoke these words to Dasaratha who was ready to give boons
 and who was infatuated by lust: "Oh, King! the lord of Earth, now only I am asking for those boons
 which were given by you then. Listen to my words".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1108,8 +1062,6 @@ anointment ceremony itself.
 
 "All arrangements have been made to undertake Rama's coronation. Let my Bharata
 instead be coronated on this occasion itself".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -1157,8 +1109,6 @@ celestials and demons.
 
 "Now, the time has arrived for the second boon given by you affectionately then in
 the battle between celestials and demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -1201,8 +1151,6 @@ jataadhaarii* = wearing rags; deer skin and matted hair.
 
 "Rama has to take refuge in the forest of Dandaka for fourteen years and let him
 become an ascetic wearing rags, deer skin and matted hair".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -1245,8 +1193,6 @@ Rama; *prayaantam* = going; *vanam* = to forest .
 
 "Now itself, Bharata has to get rights of succession to kingdom, which is free of
 enemies. This is my greatest desire. Now I am asking for the boon given by you in earlier. "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 </details>
 
@@ -1302,8 +1248,6 @@ benificial; *vaase* = while dwelling; *paratra* = in another world.
 "Oh King of the Kings, Dasaratha ! Be true to your promise and protect your caste,
 character and birth. Are not the ascetics tell that for human beings to get happiness in another
 world, they have to speak only the truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

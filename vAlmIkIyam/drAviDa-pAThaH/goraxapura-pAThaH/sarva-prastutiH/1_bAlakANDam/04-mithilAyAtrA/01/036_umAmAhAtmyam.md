@@ -22,8 +22,6 @@ Shiva on his marriage with Uma is in the conjugal bliss for a long period
  Then the Fire-god is dispatched to consolidate that into a reed forest
  called sharavaNa . Goddess Uma ireful at
  the prevention of begetting a son, now curses gods and earth to be childless.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -81,8 +79,6 @@ When that sage Vishvamitra has finished narration of the legend of the
  daughters of Himavanta, both the brave ones, namely Raghava and Lakshmana
  in their turn have extolled that legend and spoke to that eminent-sage.
  [1-36-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -137,8 +133,6 @@ When that sage Vishvamitra has finished narration of the legend of the
  righteousness, oh, Brahman, and it will be apt of you to tell emphatically
  about the divine and earthly legend of the elder daughter of Himavanta,
  namely Ganga, for you are aware to expatiate upon it. [1-36-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -193,8 +187,6 @@ When that sage Vishvamitra has finished narration of the legend of the
  Oh, virtue-knower, and connected with which deeds of merit this triple-courser
  Ganga is renowned as the best one among all the rivers in three worlds?"
  Thus Rama and Lakshmana have asked the sage Vishvamitra. [1-36-3, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -238,8 +230,6 @@ When that sage Vishvamitra has finished narration of the legend of the
 When Kakutstha-s have enquired that way, the ascetically-wealthy sage
  Vishvamitra has narrated all the legend of Ganga in its entirety, staying
  among the sages. [1-36-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -284,8 +274,6 @@ When Kakutstha-s have enquired that way, the ascetically-wealthy sage
  throated god Shiva, as his throat became blue when he consumed poison
  during the churning of Milky Ocean, at one time with a predilection
  towards her he has started lovemaking with her. [1-36-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -344,8 +332,6 @@ The hundred divine years are said to be 36,000 mortal years and this
  goes with the calculation of *yuga* Indian 'era' calculation
  where two thousand of four *yuga-s, kR^ita, treta, dvaapara, kali
  yuga-s* are one *brahmadina* Brahma's day etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ The hundred divine years are said to be 36,000 mortal years and this
  goddess Uma after this prolonged yogic act of copulation with Shiva?'
  This being the worry of all gods they have prepared for action. [1-36-7b,
  8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -480,8 +464,6 @@ This prolonged act of copulation is an act of yoga called *mahaa-
  things. In these practises, the yogis use *mudra-s* 'posture'
  'callisthenics' at the time of copulation even, so that there will be
  no ejaculation for a longer period. This is their 'Five-element theory...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -571,8 +553,6 @@ The word *tejas* also means semen, or offspring, besides resplendence
  thus the prospective offspring through ejaculation is the problem here,
  because Kumara, or, Skanda takes birth with all the irrepressible effulgence
  of Shiva, plus his own.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -617,8 +597,6 @@ The word *tejas* also means semen, or offspring, besides resplendence
 "On listening the words of gods that Rarefied-God of Universe, namely
  Shiva said, 'so be it,' and further spoke this to all of the gods, indeed.
  [1-36-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -667,8 +645,6 @@ The word *tejas* also means semen, or offspring, besides resplendence
 
 " 'I wish to bear my sperm in my virility and Uma in hers, let the immortals
  and mortals as well, derive a perfect bliss. [1-36-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -712,8 +688,6 @@ The word *tejas* also means semen, or offspring, besides resplendence
 " 'But that part which has already stirred up from its place is irrestrainable,
  as such, oh gods of eminence, you tell me who can contain that part
  of the unexcelled potence.' So said Shiva to gods. [1-36-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -760,8 +734,6 @@ _________________
 "Thus spoken by Shiva, then the gods in reply spoke to him whose banner
  is Divine-Bull, namely Shiva, 'that part of the potence which has already
  stirred up, the earth indeed endures that now. [1-3-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -805,8 +777,6 @@ _________________
 "Thus said by the gods that Yogi of par excellence and the God of Gods,
  Shiva, discharged his refulgent semen with which the earth together
  with its mountains and forests is overspread. [1-36-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -850,8 +820,6 @@ _________________
  great-potence of Rudra along with Wind-god, lest that potence may annihilate
  the earth and earthlings, because you can consume anything that comes
  in touch with you. [1-36-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -913,8 +881,6 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
  of Shiva, he is called the one born out of fire. Because Krittika stars
  have suckled him he is also called as Kaaritkeya. The birth and legend
  of Kaartikeya is detailed in the next chapter relating to Ganga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -965,8 +931,6 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 "Later on, the gods together with the assemblages of sages are well
  pleased at heart as it has happened according to their prayer, thereby
  they fulsomely adored Shiva and even Uma. [1-36-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -1009,8 +973,6 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 "Oh, Rama, but the daughter of Himalayan Mountain, namely Uma, while
  irefully saying this to the divinities she cursed them all with her
  eyes reddened in anger. [1-36-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -1056,8 +1018,6 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 " 'Wherefore, I who am desirous of a son had been prevented from the
  intimacy with my husband, therefore you shall be infecund to beget progeny
  through your own wives. [1-36-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1083,8 +1043,6 @@ Thus the celestials do not directly breed. They take the agency of humans
  or other mortals to bring forth their offspring as in the case of the
  monkey race, and Menaka, and as in the case of Vishvamitra giving birth
  to Shakuntala, who in her turn gave birth to Bharata, so on.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -1172,8 +1130,6 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
  children of earth on earth. After many tumults in her life, even Seetha
  asks her mother on earth, i.e., mother earth herself, to take her back
  into her womb.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -1217,8 +1173,6 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
 "That God of Gods Shiva becoming ill at ease to look at all of the distressed
  gods, equally feeling small to convince his consort Uma, he has started
  to journey towards the western quarter which is ruled by Rain-god. [1-36-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -1271,8 +1225,6 @@ Here some say the mountain on which Shiva settled for ascesis as *
  himavatprabhava* giving it a full name, like Mt. Kailash or Kanchanjunga
  etc. If any such mountain peak is named and available in mythologies
  or in Himalayas, this needs a revision.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 </details>
 
@@ -1318,8 +1270,6 @@ _________________
 "This is the legend of mountain's daughter, namely Goddess Uma vividly
  narrated to you, oh, Rama, and now listen from me along with Lakshmana
  about the emergence of Ganga. [1-36-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

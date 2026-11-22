@@ -19,8 +19,6 @@ to the tidings that his son Rama not only lifted the bow of Shiva, but broke it
 as well, Dasharatha is overjoyed and refers the matter of marriage of Seetha with
 Rama to his ministers and teachers. All of the ministers and sages unanimously agree
 to that proposal and they are set to travel to Mithila the next day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ got overtired horses]; *te ayodhyaam puriim praavishan* = they, entered into cit
 Those envoys who are clearly ordered by Janaka entered the city of Ayodhya on sojourning
 for three nights en route, and whose horses are overtired for they are galloped
 so fast to loose no time. [1-68-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ so fast to loose no time. [1-68-1]
 On going to the palace those envoys are given an audience with the consent of Dasharatha,
 and when they are conducted into the palace-chambers they have seen the elderly
 king Dasharatha gleaming like a god. [1-68-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -186,8 +180,6 @@ daring, dashing, swashbuckling is to be pictured, he will be indicated as 'Dasha
 son...' That is the reason why the angst of envoys is said in this verse as 'vanished'
 just by a glimpse of that godly personality, which hitherto haunted them as to how
 to countenance such a powerful personality.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -215,8 +207,6 @@ highness, along with that of your highness' priests and teachers, also that of y
 highness' subjects, who always precede your highness in convoys in any event, as
 your highness are the one who ingratiates himself with the Ritual-fires, ever and
 anon... [1-68-4, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -260,8 +250,6 @@ this to your highness.]
 His highness Janaka of Videha, and the sovereign of Mithila, having asked after
 your highness' wellbeing is sensibly saying this word to your highness, with the
 indorse of Kaushika... [1-68-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -306,8 +294,6 @@ Well-known is the solemn promise of mine that my daughter Seetha is a bounty
 for bravery... also well-know is that the kings who came to lift the bow turned
 out as gutless kings, and then they turned out as rancorous kings at me, and it
 is also well-known that I turned them back with my guts... [1-68-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -366,8 +352,6 @@ as 'royal we' sort of expression to honour Rama. Hence this *ka-pratyaya*,
 though used in the verse, will be read as singular. There is another shade of wording
 for this verse: *seyam mama sutaa raajan vishvaamitrasya shaashanaat | puriim imaam samaagatya
 tava pureNa nirjitaa ||* which uses only singular for Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -412,8 +396,6 @@ janasamsadi* = a grand assembly of people; *mahaatmanaa raameNa*
 Also, oh, highly dextrous king Dasharatha, noble souled Rama wrecked that divine
 bow, which is a gem of a bow among bows, at its central point before a grand assembly
 of people... [1-68-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -456,8 +438,6 @@ consent.
 Seetha is the bounty for bravery and I shall have to afford her to the noble-souled
 Rama, as such it will be apt of you to give your consent as I wish to keep up my
 solemn promise... [1-68-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -499,8 +479,6 @@ you; *raaghavau draSTum arhasi* = apt of you to take a look at both Raghava-s [R
 Keeping your royal priest Vashishta and other teachers ahead of you, oh, great
 emperor, I wish you to come apace, let safe betide you, for it will be apt of you
 to take a look at your ennobled son Rama, and Lakshmana, too... [1-68-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -554,8 +532,6 @@ will derive delight on seeing both of your sons...' [1-68-12]
 'by the by, you will also derive delight in seeing Seetha, for she is also a hyphenated
 daughter of yours, *sutashcha sutaa ca tayoH ekasheSaH...* with another suffix,
 in-law...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -597,8 +573,6 @@ vaakyam abraviit* = said sweet [endearing,] words - and paused.
 "Thus the sovereign of Videha kingdom said these endearing words, abiding by the
 counsel of Sage Shataananda, and Sage Vishvamitra is also consentient to the proposal..."
 Thus the envoys conveyed the proposal and paused. [1-68-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -641,8 +615,6 @@ said this way.
 King Dasharatha is highly gladdened on hearing that message from the delegates,
 and said this way to Vashishta, Vaamadeva, and to his other ministers, as well.
 [1-68-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -684,8 +656,6 @@ rejoice; *kushikaputreNa guptaH* = taken care by Kushika's, son [Vishvamitra]
 This one Rama, the enhancer of Kausalya's rejoice, is stopping over at Videha kingdom
 along with his brother Lakshmana, and Vishvamitra is taking care of both these boys...
 [1-68-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -726,8 +696,6 @@ gift his daughter as bride; *raaghave kartum icChati* = he wishes to do in respe
 
 On observing the valour of Kakutstha Rama, noble souled Janaka wishes to gift his
 daughter as bride to Raghava Rama... [1-68-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -780,8 +748,6 @@ as 'the history, legend, and the familial characteristics of Janaka...' But when
 Janaka already is famous through the bow of Shiva, and that bow itself is broken
 now, no more 'verification of antecedents' of Janaka is needed, and it is 'what
 has happened now' i.e., the impossible deed of breaking it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -826,8 +792,6 @@ _________________
 The ministers along with all of the great sages said in consonance, "Most Welcome..."
 and then that highly pleased king Dasharatha said to the ministers, "we travel tomorrow..."
 [1-68-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 </details>
 
@@ -873,8 +837,6 @@ The ministers of king Janaka who are gifted with all talents are given grateful
 hospitality by Dasharatha, and they all dwelt that night in Ayodhya, overjoyed at
 the successful completion of their august legatine, called
 sIta kalyANam... [1-68-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

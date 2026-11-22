@@ -16,8 +16,6 @@ title_english = "038 Rama decides to stay on Suvela mountain"
 Rama expresses his desire to Vibhishana and Sugreeva to halt on Suvela mountain for that
 night, and to envision the City of Lanka. Rama along with Lakshmana, Vibhishana, Sugreeva and his army
 ascend the mountain and witness the beauty of Lanka. They halt on that mountain-resort for the night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -105,8 +103,6 @@ in counsel; vidhijJNam- and the knower of prescribed rules.
 Rama, who was followed by Lakshmana, having made up his mind to ascend Mount Suvela,
 spoke in a gentle and prime voice to Sugreeva and to Vibhishana who was the knower of what is right,
 a demon devoted to him who was experienced in counsel and a knower of prescribed rules (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -122,8 +118,6 @@ a demon devoted to him who was experienced in counsel and a knower of prescribed
 
 "We shall ascend up on high this Suvela mountain, shining well with hundreds of minerals.
 All of us will stay on this mountain for this night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -195,8 +189,6 @@ virtue; *navijJNaataH* = was not understaood; *vR^ittam* = good character; *na*
 taken away for the sake of his own death, by whom virtue was not understood, good character was not
 known and noble lineage was not seen and by whom that contemptible act was done with an inferior demoniacal
 mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -244,8 +236,6 @@ the demons.
 
 "My anger is increased on hearing the name of that demon. Because of the offence committed
 by him, I shall see that all these demons are destroyed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -292,8 +282,6 @@ his offence; *kulam* = his lineage; *vinashyati* = is destroyed.
 
 "Falling into that power of trap of death, one does an evil act. Because of the offence
 committed by him the vilest, his lineage is destroyed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ committed by him the vilest, his lineage is destroyed."
 
 Rama, thus thinking of Ravana in anger, approached and ascended the mountain of Suvela
 with its conspicuous summits.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -392,8 +378,6 @@ ascended by following; *tam* = him.
 Lakshamana too who took delight in his own valour and steadfastness, keeping ready his
 mighty bow with arrows, followed behind Rama Sugreeva along with his ministers and Vibhishana ascended
 the mountain, by following him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -478,8 +462,6 @@ Panasa, Kumuda, Hara, Rambha the chief of the troop, Jambavan, sushena, the grea
 of great splendour, Shatabali the monkey and other hundreds of monkeys which are fast-moving, which
 can wander easily on mountains with a speed akin to that of wind, ascended that Suvela mountain which
 Rama ascended.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -526,8 +508,6 @@ Rama ascended.
 
 Having ascended the mountain from all sides within no long time, they saw at its apex,
 the city of Lanka which appeared as though it was hanging in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -576,8 +556,6 @@ sampuurNaam* = and pervaded with demons.
 
 The chiefs of monkey-troops saw that beautiful City of Lanka, furnished with excellent
 gates, enriched with exquisitc ramparts and pervaded all over with demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -626,8 +604,6 @@ on that exquisite rampart.
 
 Those excellent monkeys saw another rampart formed out of the black demons so standing
 together scribble on that existing exquisite rampart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -643,8 +619,6 @@ together scribble on that existing exquisite rampart.
 
 Seeing the demons who were craving for war, all those monkeys made various types of noises,
 while Rama was witnessing the scene.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -691,8 +665,6 @@ while Rama was witnessing the scene.
 
 Then, the sun reddened with evening-twillight went down and the night shining with full
 moon arrived.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 
@@ -747,8 +719,6 @@ resort of Suvela
 Thereafter, Rama along with Lakshmana as well as Sugreeva the Lord of monkeys together
 with troops and captions of troops, duly greeted welcomingly and treated hospitably by Vibhishana, halted
 happily on the mountain resort of Suvela.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
 </details>
 

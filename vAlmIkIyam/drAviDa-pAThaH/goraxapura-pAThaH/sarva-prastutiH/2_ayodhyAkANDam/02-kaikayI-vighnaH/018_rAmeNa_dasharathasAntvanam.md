@@ -18,8 +18,6 @@ becomes grieved and wants to know the cause of king's perturbance. Queen Kaikeyi
 about the boons that Dasaratha had given earlier and also her wishes of coronating Bharatha instead
 of Rama and sending Rama to Dandaka forest. On listening to these harsh words of Kaikeyi, Rama did
 not become sorrowful, but Dasaratha was very much disturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ _________________
 
 Rama saw his father sitting on a beautiful seat, but with his face looking
 completely parched up and miserable. Kaikeyi was at his side.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ saluted; *kaikeyyaaH* = Kaikeyi's; *charaNau* = feet.
 
 Rama being humble and well composed, first reverentially saluted his father's feet
 and then saluted Kaikeyi's feet.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ able; *iikshhitum* = to see; *na* = nor able; *abhibhaashhitum* = to talk.
 
 Dasaratha spoke only one word "Rama!" with his eyes filled with tears and dejected,
 being not able to see or to talk any further words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ fear; *raamo.api* = even Rama; *bhayam aapannaH* = was struck with fear;
 
 Having not seen earlier such a fearful form of his father, even Rama was frightened
 as though he seized a snake by his foot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -285,8 +275,6 @@ That king Dasaratha was sighing heavily with senses sans pleasure, emaciated wit
 grief and anguish, with distressed and agitated mind, like ocean which cannot be perturbed,
 becoming perturbed with row of waves, like sun which is eclipsed and who lost lustre like by a sage
 who spoke untruth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -336,8 +324,6 @@ like ocean; parvaNi on full moon day.
 
 Contemplating over the unimaginable sorrow of the king, he was very much perturbed
 as an ocean does on a full moon day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -384,8 +370,6 @@ thought; *kimsvid* = "why indeed; *nR^ipatiH* = king; *adyaiva* = just today;
 
 The ingenious Rama, who is fond of his father's welfare, anxiously thought : " why
 indeed the king is not greeting me in return just today?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -433,8 +417,6 @@ indeed the king is not greeting me in return just today?"
 
 "At other times, the father, even though angry used to be gracious after seeing me
 why today such a father has become weary after seeing me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -481,8 +463,6 @@ from his face; *abhivaadyaiva* = salutted; *kaikeyaam* = to Kaikeyi;
 
 Rama indeed distressed and afflicted with grief, with lustre faded from his face,
 offered his salutation to Kaikeyi and spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -530,8 +510,6 @@ offered his salutation to Kaikeyi and spoke these words.
 
 "I hope that I have not done anything wrong through ignorance. Tell me why father is
 angry with me. You alone propitiate him in my favour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -581,8 +559,6 @@ dejected; *naabhibhashhate hi* = not talking; *maam* = to me.
 
 "Why my father, who was always affectionate to me, has become displeased? With his
 face becoming pale and dejected, he is not talking to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -632,8 +608,6 @@ of mind; *na baadhate* = is not troubling; *evam* = him; *sukham* = happiness;
 
 "I hope that either bodily affliction or mental distress is not troubling him. The
 object of happiness is indeed difficult to be attained always!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ man to look at; *shatrughne* = or to great strength; *matruuNaamva* = or to moth
 
 "I hope that no bad thing occurred to Bharata, the delightful man to look at or to
 Shatrughna, the man of great strength or to my mother. "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -731,8 +703,6 @@ without doing; *vachaH* = word; *pituH* = of father.
 
 "If our father becomes angry, I do not desire to live even for a moment without
 satisfying him or without fulfilling his command."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -779,8 +749,6 @@ visible; *daivate* = god; *katham* = how; *navarteta* = behaves not.
 
 "Man sees father as the visible god who is the root cause of one's own coming into
 existence and how else can he behave towards him other than like that?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -827,8 +795,6 @@ existence and how else can he behave towards him other than like that?"
 
 "I hope you have not spoken anything which hurt my father's conscience with your
 pride and anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -879,8 +845,6 @@ in reality.
 
 "I am asking you why my father got this perturbation, which was not there earlier.
 Tell me the true position."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -921,8 +885,6 @@ her own benefit; *sunirlajjaa* = without any shame.
 
 Thus questioned by the great souled Rama, Kaikeyi fearlessly spoke these words for
 her own benefit, without any shame on her part.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -972,8 +934,6 @@ you.
 
 "Oh, Rama! The king is not angry. There is nothing of distress for him. But he has
 something in mind which he is not telling from fear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1023,8 +983,6 @@ to be done; *avashyam* = certainly; *tvayaa* = by you.
 
 "To him, words are not coming off to tell disagreeable utterance to you, the dear
 one. He promised me a word. It is to be certainly done by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1065,8 +1023,6 @@ so; *pashchaattapyate* = he is repenting.
 
 "Long ago, the king honoured me and gave me a boon. Like a common man, he is
 repenting now for having given the boon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1107,8 +1063,6 @@ repenting now for having given the boon."
 
 "This king promised me to give the boon and now he desires to build a dam wastefully
 on a place where water has gone away."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1156,8 +1110,6 @@ for your sake.
 
 "Oh, Rama! It is known by even wise men, that truth is the root of righteousness.
 See that the offended king does not abandon such a truth for your sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1205,8 +1157,6 @@ afterwards.
 
 "The king is about to mention that truth which may look auspicious or inauspicious
 to you. Still, I shall tell you all that, if you shall do it afterwards."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1247,8 +1197,6 @@ I; *abhidhaasyaami* = shall tell; *tatH* = then; *eshhaH* = this king;
 
 "If what is spoken by the king does not create unfavourableness in you, I shall then
 tell you. This king will not indeed tell you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1298,8 +1246,6 @@ deviim* = to that queen; *nR^ipasannidhau* = in the presence of the king.
 
 After hearing the words of Kaikeyi, Rama felt painful and spoke thus to her in the
 presence of the king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1370,8 +1316,6 @@ who is venerable; *bhakshhayeyam* = I shall eat; *tiikshhNam* = fiery;
 "Oh, queen! what a pity! Do not talk like that to me. If father tells me, I shall
 jump even in fire. If father, who is a king, who wishes my welfare and who is venerable, commands
 me, I shall eat fiery poison and shall sink into an ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1388,8 +1332,6 @@ things.
 
 "Oh queen! Tell me the words of the king as desired by him. I even promise to do it.
 Rama does not speak two things."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1436,8 +1378,6 @@ Rama does not speak two things."
 
 That vulgar Kaikeyi uttered very cruel words to that Rama, who was committed to
 sincerity and speaking of truth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1485,8 +1425,6 @@ war; *te pitraa* = by your father; *sa shalyena* = pierced by darts;
 
 "Oh, Rama! During a battle and a great war between celestials and demons long ago, I
 protected your father who was pierced by darts. Then, he gave me two boons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1533,8 +1471,6 @@ coronation; *bharatasya* = of Bharata; *tava* = your; *gamanam* = going;
 
 "Oh, Rama! According to those boons, I asked the king for coronation of Bharata and
 for your going to Dandaka forest today itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1584,8 +1520,6 @@ yadi* = If you want; *kartum* = to make; *pitaram* = father;
 
 "Oh, Rama! If you want to make yourself and your father faithful to a promise,
 listen to these words of mine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1632,8 +1566,6 @@ forest; *praveshhTavyam* = is to be occupied for navapanchacha = faourteen;
 
 "Abide by your father's command. As per his assurance, you have to stay in the
 forest for fourteen years."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1681,8 +1613,6 @@ king.
 
 "Bharata is to be enthroned with the use of complete collection of materials already
 arranged by the king for your sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1732,8 +1662,6 @@ wearing braided hari and covered with a hide.
 
 "You have to leave this coronation function and dwell in the forest of Dandaka for
 fourteen years, wearing braided hair and covered with a hide."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1780,8 +1708,6 @@ samaakiirNam* = completely covered with various types of precious things;
 
 "Let Bharata rule this earth, by residing in Ayodhya filled with various types of
 precious thing together with horses, chariots and elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1828,8 +1754,6 @@ samklishhTavadanaH* = with face afflicted with grief.
 
 "For this reason, king Dasaratha who is overwhelmed with sympathy towards you is not
 able to see you with his face, afflicted with grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1875,8 +1799,6 @@ vachanam* = these words; *narendrasya* = of the king; *taarayasya* = liberate;
 
 "Oh, Rama! Do as per the words of the king and liberate him by giving your father an
 opportunity to maintain the truth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 </details>
 
@@ -1931,8 +1853,6 @@ putravyasanaabhitaptaH = having been afflicted by calamity occured to hi son.
 Though she was speaking such harsh words, Rama was not affected with sorrow. But the
 mighty Dasaratha became highly disturbed, having been afflicted by the calamity occurred to his
 son.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -20,8 +20,6 @@ him and sends to Kishkindha where on seeing the infuriated, hissing, snakelike L
 are upset. Lakshmana sends Angada to Sugreeva to inform about his arrival. Sugreeva could not
 comprehend firstly because he is in an inebriated condition, but later comes to senses on the
 advise of his ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -84,8 +82,6 @@ When Rama of undeterred stamina has become pitiable while yearning for Seetha,
 overcome with grief while the search for Seetha is becoming futile, overwrought with anger while
 Sugreeva is reneging on his promise, to such an elder prince-brother from a godlike king, his
 younger prince-brother Lakshmana spoke in this way. [4-31-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -154,8 +150,6 @@ Obviously his prudence is behindhand, isn't it! [4-31-2]
 least kindness expected of a friend. Because Sugreeva is a fickly monkey, he may not abide by the
 oath of friendship taken before fire altar, whereby you eliminated Vali, and enthroned Sugreeva; but, he may
 not keep that pact or its fruits holy, as nothing is evincible of his help...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -212,8 +206,6 @@ not, to be given.
 "Without any notion of requiting the beneficence you have accorded he is insanely
 involved in primitive pleasures, such as he is, let him see his elder brother Vali when slain.
 Hence, kingdoms are unaffordable to dishonest. [4-31-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -273,8 +265,6 @@ braving ones, along with; *narendra putryaa* = of king's, daughter - of princess
 "Unbearable is this anger that is tiding quickly, now I shall kill that unfaithful
 Sugreeva and the best braving monkeys shall search for that princess Seetha, remaining under the
 command of Vali's son, Angada." Thus said Lakshmana to Rama. [4-31-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -330,8 +320,6 @@ with, persuasion, also, sentence; *uvaca* = Rama spoke.
 Rama, the slayer of braving enemies, spoke this well thought sentence that includes
 persuasiveness to Lakshmana who is with an irrepressible wartime anger, who has apprised his
 intention to slay Sugreeva, and who on taking his bow is now leaping at Kishkindha. [4-31-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -383,8 +371,6 @@ best one among men, really.
 "Certainly none of your kind shall commit this sort of sin in this world, and if
 such a situation occurs, he who by his noble gesture kills his own anger is a valorous one, and he
 really becomes the best one among men." Thus Rama is saying to Lakshmana. [4-31-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -448,8 +434,6 @@ burns down Lanka, and if anybody questions, Hanuma is apt to say that he is monk
 Such an occasion shall not happen in Kishkindha, that too through Lakshmana. Thus, Rama is
 pacifying Lakshmana in saying that 'my words shall not be understood that way, and killing of
 Sugreeva is not to be undertaken forthwith.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -500,8 +484,6 @@ words; *vaktum arhasi* = to talk, apt of you.
 "It will be apt of you to speak to that reneger Sugreeva with placating words rather
 than with caustic remarks, as his sin is no more than flouting the timeframe." Thus Rama said to
 Lakshmana. [4-31-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -550,8 +532,6 @@ enter.
 That brave one and the slayer of braving enemies Lakshmana thus schooled expediently
 by his elder brother about the means of gainfulness, that best one among men proceeded to enter the
 city of Kishkindha. [4-31-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -624,8 +604,6 @@ is agreeable and beneficial to his elder brother, then swallowing his exasperati
 bow which is shining forth like the bow of Indra, and which is standing out like a peaking mountain
 proceeded towards the palace of the monkey, namely Sugreeva, and with such a bow he appeared to be
 the peaking Mt. Mandhara and like the Era-Ender. [4-31-10, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -700,8 +678,6 @@ intelligence, then mulled over the exact words of Rama to be spoken to Sugreeva,
 Sugreeva on them, and his own sensible counter-reply to them, enwrapped as he is in a furious fire
 fired up by the desire of Rama for Seetha, proceeded to Sugreeva's palace like an embittered
 whirlwind aided and abetted by a furious fire. [4-31-12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -784,8 +760,6 @@ haste.' This is to show Lakshmana's vehemence and valour are better than that of
 was explained by the sage-poet at the time of creation of Vanara-s by celestials at 1-17-25
 onwards. When Vanara-s can fell trees or volley the peaks of mountains with some effort, Lakshmana
 can do the same effortlessly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -840,8 +814,6 @@ This is what Sugreeva told Rama when they come for second time to fight Vali
 'Spread out by the snares of monkeys... [we arrived at gate of Kishkindha city...] [4-14-5]' thus
 Lakshmana again saw that impregnable Kishkindha, but with a different reception to him at this
 time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -889,8 +861,6 @@ seen.
 
 While his lips are quivering owing to rancour towards Sugreeva, Lakshmana saw
 formidable Vaanara-s at the outposts of Kishkindha. [4-31-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -943,8 +913,6 @@ grown - trees, also; *jagR^ihuH* = grabbed.
 On seeing the most notable one among men, Lakshmana all of the elephantine vanara-s
 available in the gorges of mountain have grabbed hundreds of mountain-crests and gigantic trees,
 and they are at the ready. [4-31-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -991,8 +959,6 @@ kruddhaH* = with two, fold, fury babhuuva = he became.
 
 But on seeing all of them handling assaultive peaks and trees, Lakshmana's fury has
 become twofold as with a fire to which much fuel is added. [4-31-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1041,8 +1007,6 @@ bodies; *dishaH* = to all - directions; *vi drutaa* = quickly, ran away.
 On seeing overexcited Lakshmana who is like the Time-god and the Epoch-Ender, troops
 and troops of those fly-jumpers quickly fled away in all directions with scare coiling their
 bodies. [4-31-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1089,8 +1053,6 @@ thus; *nyavedayan* = submitted [appraised.]
 
 Then on entering the palace of Sugreeva, some best ones among monkeys have appraised
 about the arrival of Lakshmana, and even about his fury. [4-31-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1139,8 +1101,6 @@ not, clearly heard - unheedful of.
 At that time, he who is in a lustful mood, who is in the company of Lady Tara and
 who is enmired in privacy, that foremost monkey Sugreeva is unheedful of the words of those bold
 monkeys who brought the message. [4-31-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1189,8 +1149,6 @@ ministers, directed [in order to ascertain the reason for Lakshmana's fury]; *ta
 Then, as directed by ministers of Kishkindha in order to figure out the mood of
 Lakshmana, some of the elephantine monkeys who are frightening just by their appearance, who in
 sheen are similar to mountains and dark-clouds have gone out of the city. [4-31-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1240,8 +1198,6 @@ ca* = all, horrendous, in face, also.
 
 All of those brave vanara-s are armed with their own teeth and nails, all are with
 tigerish pride, all are hideous in look and horrendous by their faces. [4-31-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1291,8 +1247,6 @@ there.
 
 Some of those vanara-s are with the might of ten elephants, some ten times more, and
 some with vigour matching that of a thousand elephants. [4-31-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1340,8 +1294,6 @@ her, Kishkindha, saw.
 
 Infuriated Lakshmana has then seen Kishkindha, an unassailable city, as those
 great-mighty monkeys flaunting trees are spreading throughout it. [4-31-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1394,8 +1346,6 @@ to Lakshmana with their ebullient might. [4-31-27]
 **टिप्पनी**
 
 The word *parigha* is sometimes taken as bastions of the fort-wall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1443,8 +1393,6 @@ again, thus; *kopa vasham* = into anger's, control; *jagaama* = went into.
 On envisaging Sugreeva's blunder and of his elder-brother's expediency, that
 sensible one and fury restrained Lakshmana, again went into the restraint of fury on seeing the
 monkeys. [4-31-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1491,8 +1439,6 @@ is there.
 
 With his long, fiery, and endless exhales and eyes bloodshot in fury, that
 tigerly-man Lakshmana is like a fuming fire. [4-31-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1546,8 +1492,6 @@ own fervency is proliferating as that serpent's venom. [4-31-30]
 The words used in verse *bhogavaan, samghaata* also means 'enjoyer of
 bow, assortment of these aspects...' but *bhoga* is yet another name for 'snake-hood'
 besides its coils and *ghaata* is 'that which obtained after multiplication...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1595,8 +1539,6 @@ param viSaadam agamat* = by scare, high, sadness, he [Angada] succumbed to.
 Angada succumbing to high despair caused by the scare neared Lakshmana who is aglow
 like the Fire of Perdition and like aadi seSa, the Thousand-hooded
 King of Serpents, who is perforce infuriated. [4-31-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1663,8 +1605,6 @@ arrival, be told; *iti uta* = thus, this way - said; *samdidesha* = sent a word.
 With his eyes reddened in rancour that highly adorable Lakshmana sent a word through
 Angada, saying "oh, boy, let Sugreeva be informed about my arrival," and said this way.
 [4-31-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1688,8 +1628,6 @@ enemy-destroyer Sugreeva, distressed by the distress of his brother this Lakshma
 your presence and waiting at the door, oh, Sugreeva, the vanara, if you are interested it will be
 apt of you to listen to his advise, either by coming here or inviting him inside...' saying so oh,
 boy Angada, you comeback quickly." Thus Lakshmana spoke to Angada. [4-31-33, 34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1736,8 +1674,6 @@ come; *abraviit* = spoke informed.
 
 On hearing the words of Lakshmana Angada is muffled up in grief, and on arriving in
 the presence of his father Sugreeva he informed "Soumitri has come." [4-31-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1798,8 +1734,6 @@ then, to Ruma's; *caraNau vavande* = feet, saluted.
 Bewildered in his perception at the very sharp words of Lakshmana, mighty Angada
 then has gone to the palace assuming a very sad face, and there he firstly saluted the feet of his
 father Sugreeva and then at the feet of Ruma, wife of Sugreeva. [4-31-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1856,8 +1790,6 @@ Angada whose vitality is intense clinched himself to the feet of his father
 Sugreeva, and later clung to the feet of his mother Tara, and he even clasped the feet of his
 paternal-aunt Ruma, and latching on to the feet of his parents then he stated to appeal to them
 about the message of Lakshmana. [4-31-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1905,8 +1837,6 @@ lust, also - in its torpor, bemused [numbed down]; *babhuuva* = he became.
 Sugreeva, the vanara, who is bound up in drowsiness and dizziness could not
 comprehend clearly what Angada is talking about, as he is benumbed with intoxication, and even
 numbed down with the torpor of lustfulness. [4-31-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -1959,8 +1889,6 @@ infuriated Lakshmana, thus they jibber-jabbered so as to appease him. [4-31-39]
 
 The words *kila kila, hala hala* are the onomatopoeic words for the chatter of
 monkeys or hues and cries of others. - A Linguistic Study of Ramayana, Pt. Satya Vrat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2009,8 +1937,6 @@ svanam* = thunderbolt's, thunder, similar, din - hubbub; *simha naadam* = lion's
 And those monkeys on observing Lakshmana instantly raised a hubbub at his nearby
 that is similar to a storm of a torrent, thunder of a thunderbolt, and the roar of a lion.
 [4-31-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2058,8 +1984,6 @@ bhuuSaNaH* = topsy-turvy, garlands, ornaments; *pratyabudhyata* = came to senses
 With that uproarious noise of monkeys Sugreeva came to his senses, but because of
 stupor his coppery eyes are helter-skelter and his garlands and ornaments are topsy-turvy.
 [4-31-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2118,8 +2042,6 @@ On hearing the words of Angada two ministers who are agreeable in their advice a
 appreciable in their aspect have come along with him, and those two ministers of the king of
 vanara-s, namely Plaksha and Prabhava, have appraised Sugreeva that Lakshmana has arrived to
 discuss variously about the prosperity and probity. [4-31-42, 43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2173,8 +2095,6 @@ around, nearby, sitting; *sa artha nishcitaiH vacanaiH* = with meaning, expressi
 Those two ministers sitting around and nearby Sugreeva, who is seated like the king
 of wind-gods, namely Indra, on appeasing him with meaningful and expressive words they spoke to him
 in this way. [4-31-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -2193,8 +2113,6 @@ friends.
 though they are worthy enough to rule kingdom for themselves they have bestowed the kingdom to you,
 such as they are, they have become your true friends." Thus started the ministers to say to
 Sugreeva. [4-31-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2241,8 +2159,6 @@ Sugreeva. [4-31-45]
 
 "One among those two, Lakshmana, is biding at the door wielding his bow, by whom the
 monkeys are panicked and venting out alarms shuddering utterly. [4-31-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2297,8 +2213,6 @@ This is 'a case of delightful figurative use' of the word *vaakya
 saaradhi*
 'Rama's word as charioteer...' meaning 'directed by Rama's word...' - Ramayana A Linguistic Study,
 Pt. Satya Vrat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2345,8 +2259,6 @@ presence, is ushered.
 
 "Oh, merited one, even Lakshmana has ushered this Angada hastily, oh, king, the
 precious son of Tara, to your presence. [4-31-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2394,8 +2306,6 @@ with eyes; *cakshusaa vaanaraan nir dahana iva* = with eyes, monkeys, to burn do
 "Oh, king of monkeys, such as he is, that brave Lakshmana is sticking fast at the
 door with an awning of rancour on his eyes and as if to burn down the monkeys just with his eyes.
 [4-31-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2446,8 +2356,6 @@ roSaH upashamyataam hi* = now, Lakshmana's - bitterness, be pacified, indeed.
 "You may approach him quickly along with your son and relatives, oh, great-king,
 prostrate yourself before him holding him in reverence, and thus let his bitterness be indeed
 pacified now. [4-31-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 </details>
 
@@ -2495,8 +2403,6 @@ promise, you abide; *sva samaye bhava* = in your own, pact, stand by it.
 "Whatever that virtue-souled Rama says that you have to implement wholeheartedly,
 oh, king, you abide by the forthrightness of your promise, stick up for the pact you made." Thus
 the ministers advised Sugreeva. [4-31-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

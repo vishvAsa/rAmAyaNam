@@ -17,8 +17,6 @@ Kausalya, while weeping, rebukes Dasaratha for his evil act of sending Rama to
 exile. She explains various difficulties being faced by Rama, Lakshmana and Seetha in their
 forest-life. She says that even if Rama returns to Ayodhya in the fifteenth year, he may not accept
 the kingdom since enjoyed by Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ words; *bhartaaram* = to her husband.
 When Rama, who is excellent in virtue and outstanding among those causing delight,
 having left for the forest, Kausalya who was feeling pained, spoke, weeping to her husband as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -145,8 +141,6 @@ vara shreSTha* = O; the best among the foremost of men!
 compassionate, bountiful and kind in his words, how your two sons along with Seetha who grew
 comfortably can bear suffering in the forest when faced with hardships, O the best among the
 foremost of men!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -193,8 +187,6 @@ ca* = heat; *shiitam ca* = and cold?
 
 "That Seetha, who is a young lady in the prime of her youth and very delicate, can
 really tolerate heat and cold?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -241,8 +233,6 @@ good; *ashanam* = food; *suupa damsha anvitam* = containing soups and snacks?
 
 "How the large-eyed Seetha can eat a food prepared with wild rice, she having eaten
 here a good food containing soups and snacks?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -290,8 +280,6 @@ music?
 
 "How that irreproachable Seetha can hear the horrid sounds of cruel animals and
 lions, after hearing the auspicious sounds of singing and music here?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -338,8 +326,6 @@ and the mighty armed; *shete nu* = is sleeping indeed; *bhujam* = with his arm;
 
 Where Rama the mighty hero, resplendent as Mahendra's standard and the mighty armed
 is sleeping indeed with his arm as a pillow?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -387,8 +373,6 @@ and excellent?
 
 "When can I see the face of Rama with the colour of a lotus, framed with marvelous
 locks of lotus-perfume, with eyes resembling lotus-petals and excellent?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -437,8 +421,6 @@ seeing; *tam* = that Rama.
 There is no doubt that my heart is fully made of the solid-interior of a diamond,
 for which reason this heart is not shattered into a thousand pieces, even in my not seeing of that
 Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -486,8 +468,6 @@ for which reason; *paridhaavanti* = they are wandering around; *vane* = the fore
 
 "It was not a kindly act by you that you banished my kith and kin, who were worthy
 of comforts to wander around in the forest in such a miserable condition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -534,8 +514,6 @@ the kingdom and; *kosham ca* = the treasury."
 
 "Even if Rama comes back in the fifteenth year, it cannot be inferred that Bharata
 will abandon the kingdom and the treasury."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -581,8 +559,6 @@ illustrious Twice-born.
 
 "There are those who in a ceremony in hour of dead relatives, first feed their
 relatives and thereafter, to fulfill their duty, remember to invite the illustrious Twice-born.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -598,8 +574,6 @@ who are like unto gods; *te* = they; *na abhimanyante* = do not accept;
 
 "The virtuous and the learned Brahmins, who are like unto gods, do not accept
 afterwards even food as delicious as ambrosia."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -647,8 +621,6 @@ bull.
 
 "The best of Brahmins in their wisdom, will not accept what remains of the food of
 which other Brahmins have partaken, regarding it as a bull shorn of its horns."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -698,8 +670,6 @@ _________________
 
 "O, king! Why not the eldest and the best brother refuse to accept the kingdom
 enjoyed by the younger brother?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -747,8 +717,6 @@ another.
 
 "A tiger does not wish to share a part of food eaten by another animal. In the same
 manner, Rama the tiger among men may not accept that which has been enjoyed by another."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -796,8 +764,6 @@ manner, Rama the tiger among men may not accept that which has been enjoyed by a
 
 "Oblations, clarified butter, leavings of an offering, sacred grass and sacrificial
 posts made of trunk of Khadira tree, once used, are not put to use again in a sacrifice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -846,8 +812,6 @@ plant (from which a beverage called Soma is prepared) are lost.
 "Thus, Rama cannot accept the kingdom taken away by other, as those not accepting an
 ambrosia whose essence has been taken away or as in a sacrifice, stalks of Soma plant (from which a
 beverage called Soma is prepared) are lost."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -894,8 +858,6 @@ as touching; *vaaladhe* = of the tail; *balavaan* = by a strong; *shaarduulaH*
 
 "Rama will not go through such a type of dishonour, as a strong tiger does not
 endure even touching of its tail."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -938,8 +900,6 @@ endure even touching of its tail."
 "Even if all the worlds combine together in a great battle, they cannot stir up fear
 in him. The virtuous minded Rama will provide righteousness to the people with
 unrighteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -983,8 +943,6 @@ baaNaiH* = like at the time of destruction of the world.
 
 "Rama with great prowess and with his mighty arms can surely burn up all beings and
 even the ocean itself by his golden arrows; like at the time of destruction of the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -1031,8 +989,6 @@ his own; *aatmajoyathaa* = like (killing) its child; *jalajena* = by a fish.
 
 "That excellent man with such a lion's strength and with eyes like those of a bull
 was ruined indeed by his own father, like killing its child-fish by an adult fish."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -1081,8 +1037,6 @@ Twice born?
 "A son, who is devoted to righteousness, has been sent to exile by you. Is it a
 right thing for you, as seen by scriptures or is it an eternal conduct as practiced by the Twice
 born?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -1133,8 +1087,6 @@ fourth one; *iha* = here.
 
 "O, king! A husband is a chief refuge for a woman. Her second refuge is a son. The
 third refuge is her near-relative. There is no fourth one here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -1182,8 +1134,6 @@ all ways; *tvayaa* = b you.
 
 "Among those three refuges, you do not indeed exist. Rama on his part took refuge in
 a forest and I do not wish to go there. Thus, I have been ruined in all ways, by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -1240,8 +1190,6 @@ prahR^iSTaa = delight.
 "This kingdom along with neighboring states has been ruined by you. You yourself
 along with ministers have been ruined. I along with my son are ruined. Citizens too are ruined.
 Your son Bharata and your wife Kaikeyi only are delighted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 </details>
 
@@ -1302,8 +1250,6 @@ remembering; *smaraH* = again; *svaduSkR^itam* = his own evil act;
 Hearing the aforesaid voice of Kausalya, consisting of her cruel words, the king
 also being distressed, became disillusioned. Thereafter, the king then looking back on his own evil
 act, was entangled in grief
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

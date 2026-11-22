@@ -16,8 +16,6 @@ title_english = "079 The king makers request Bharata to take over Ayodhya kingdo
 The king-makers request Bharata to take over Ayodhya kingdom. Bharata refuses to do
 so and promises to bring back Rama to Ayodhya and make him only as the king. Bharata further orders
 for construction of a path-way to reach the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ spoke; *vaakyam* = (the following) words; *bharatam* = to Bharata.
 
 Thereafter, early in the morning on the fourteenth day, the king-makers coming
 together, spoke to Bharata the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ heaven; *pravaajya* = after having sent away from home; *jeSTham* = his elder so
 
 "Dasaratha, who was our highly venerable master, went to heaven after sending his
 elder son Rama and the exceedingly strong Lakshmana to forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -141,8 +135,6 @@ has not yet missed the mark; *anaayakam* = even without a king.
 
 "O, the highly illustrious prince! From now on, do you be our king. Fortunately,
 this kingdom has not yet missed the mark, even without a king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -190,8 +182,6 @@ ministers); *shreNayashcha* = and the citizens; *pratiikshante* = are amiting;
 
 "O, prince Bharata! Taking all the things needed for coronation, your own people
 (the counsellers and the ministers) as well as the citizens are awaiting for you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -238,8 +228,6 @@ coronate; *aatmaanam* = yourself; *paahicha* = and rule; *asmaan* = us.
 
 "O, Bharata the excellent among men! Take over the stable kingdom, which came in
 succession from your ancestors, coronate yourself and rule us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -287,8 +275,6 @@ around all; *bhaaN^Dam* = the things; *abhiSechanikam* = required for consecrati
 
 The firmly resolute Bharata performed circumambulation clockwise around all the
 things kept ready for consecration and replied to all those people as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -336,8 +322,6 @@ kulasya* = of our clan; *bhavantaH* = you; *kushalaaH* = the conversant;
 
 "It is indeed appropriate to bestow kingship always to the eldest of our clan. You,
 being the conversant people, ought not to tell in this manner to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -384,8 +368,6 @@ paN^chacha* = for fourteen; *varSaaNi* = years.
 
 "Our eldest brother, Rama will become the king. I then will reside in the forest for
 fourteen years."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -433,8 +415,6 @@ forest.
 
 "Let a great and exceptionally powerful army consisting of all the four limbs be
 kept ready. I shall bring Rama our elder brother from the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -487,8 +467,6 @@ for the sake of (bringing back) Rama.
 
 "Keeping in front, all the assembled requisites needed for consecration, I shall
 proceed to the forest for the sake of bringing back Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -505,8 +483,6 @@ sacred fire; *adhvaraat* = from a sacrificial rite.
 "Consecrating him, the tiger among men there itself, I shall surely bring Rama
 solemnized in front, as bringing home the sacred fire from a sacrificial rite, after performing it
 outside the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -554,8 +530,6 @@ desire; *aham* = I; *vatsyaami* = will reside; *vane* = in the forest;
 
 "I shall not make her, my so-called mother, fulfil her desire. I will reside in the
 impassable forest. Rama will become the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -604,8 +578,6 @@ us; *pathi* = in the path.
 "Let a path-way be prepared by those skilled in that profession, by leveling the
 uneven surfaces. Let guards who can easily move in the inaccessible forests accompany us in the
 path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -653,8 +625,6 @@ and excellent.
 
 Hearing Prince Bharata, talking in consideration of Rama's cause, all the people
 replied in the following illustrious and excellent words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -705,8 +675,6 @@ eldest; *nR^ipasute* = son of the king.
 
 "Let the gracious goddess of prosperity abide with you, who are speaking thus,
 desirous of giving kingdom to Rama the eldest son of the king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -760,8 +728,6 @@ prabhaaSitam* = spoken by the prince; *samshravaNe* = close to their ears;
 
 Hearing those excellent words spoken by the prince close to their ears, tears born
 of joy fell from the face and eyes of those venerable men.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 </details>
 
@@ -818,8 +784,6 @@ have been instructed; *panthaanam* = for making the path-way.
 Hearing these words, the people there along with council and the ministers felt
 cheerful, being relieved of their anxiety and spoke the following words : "As per your command,
 devoted men and a group of artisans have been instructed to make the path-way."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

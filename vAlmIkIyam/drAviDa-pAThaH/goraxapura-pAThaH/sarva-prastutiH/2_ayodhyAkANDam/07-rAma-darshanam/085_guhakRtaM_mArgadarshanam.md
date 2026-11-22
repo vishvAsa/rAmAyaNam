@@ -20,8 +20,6 @@ Bharata thanks Guha for having come forward to offer hospitality to him and his
  to Rama?s place to bring him back to Ayodhya. When night falls Bharata along with Shatrughna
  and his army take rest. However Guha consoles Bharata, who has been constantly bewailing, till
  the nightfall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ words; *hetvartha samhitam* = composed of reason and meaning;guham = to Guha; *n
 
 Hearing those words, the highly intelligent Bharata replied toGuha, the lord of Nishadas,
 in words that were full of reason and meaning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ in words that were full of reason and meaning.
 
 ?O, friend of my elder brother! Indeed, your desire to offerhospitality to my army of
 such a magnitude, is great.?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ bharata; *mahaatejaH* = possessed of greatsplendor; *abraviit* = said; *punah*
 
 Having spoken these excellent words to Guha; the greatlyillustrious Bharata, possessed
 of great splendor, said again to Guha the kingof Nishadas (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ gahanaH* = isnot very much easy to cross.
 
 ?O, Guha! By which of these two routes can I go to the hermitageof Bharadvaja? This region
 engulfed in waters of Ganga River is not very much easy to negotiate and is difficult to cross.?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -260,8 +250,6 @@ vaakyam* = (these)words:
 
 Hearing the words of the wise prince; Guha, who roams about inwoods, with joined palms
 answered as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ _________________
 
 ?O highly illustrious prince! My ferrymen wielding their bows,and very attentive, will
 certainly accompany you. I too will follow you (inperson).?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -359,8 +345,6 @@ is begetting; *shaN^kaam* = a doubt; *me* = in me.
 
 ?I hope you are not going to attack Rama, who is unwearied inaction. This great army
 of yours is begetting an apprehension in my mind.?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -407,8 +391,6 @@ taintless; *aakashaH* = sky; *abraviit* = spoke;vachanam = these words; *shlaksh
 
 Bharata, whose heart resembled a taintless sky, spoke thefollowing words in smooth voice,
 to that Guha, who confessed his doubt asaforesaid.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -455,8 +437,6 @@ to that Guha, who confessed his doubt asaforesaid.
 
 ?Let not such an occasion of wretchedness come! You should neverhave suspected me. That
 Rama my elder brother is indeed regarded as my father.?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -503,8 +483,6 @@ that; *kaakutthsam* = Rama; *vanavaasinam* = who isliving in the forest; *guha*
 
 ?I am going to get back Rama who is now living in the forest. O,Guha! No other apprehension
 should be made by you. I am telling you the truth.?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -551,8 +529,6 @@ follows):
 
 Hearing the words of Bharata, Guha on his part, with his faceradiated with joy spoke
 again to Bharata as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -599,8 +575,6 @@ see; *tvayaa* = your; *tulyam* = equal; *jagatiitale* = on theearth; *tvam*
 
 ?You be blessed! I do not see your equal on this earth - you, whowish to renounce the
 empire you acquired now, even without effort.?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -650,8 +624,6 @@ very person who; *ichchhasi* = wishes; *pratyaanayitum* = to bring back; *raamam
 
 Assuredly your fame will traverse permanently in all provinces,as you are the very person
 who wishes to bring back Rama from his terribleplight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -697,8 +669,6 @@ who wishes to bring back Rama from his terribleplight.
 **अनुवादः**
 
 While Guha was talking thus to Bharata, the sun diffused lesslight and the night fell.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -748,8 +718,6 @@ _________________
 
 The illustrious Bharata, lodging that army in camps, feltdelighted by Guha?s hospitality,
 returned to his camp and took rest along withShatrughna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -795,8 +763,6 @@ hi* = indeedfelt; *shokaH* = grief; *raama chintaamayah* = born of anguish for R
 
 The high soled Bharata, whose only aim is to fulfill his duty andwho is undeserving of
 sorrow, indeed felt grief, born of anguish for Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -843,8 +809,6 @@ within his heart.
 
 As a fire is hidden in a hollow tree while a forest is on fire, sodid Bharata?s fire
 of anguish burn with in his heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -891,8 +855,6 @@ rays; *himavaan* = fromHimavat mountain.
 
 Perspiration born of fieriness of grief poured off from all hislimbs, as the snow heated
 by solar rays melts and flows from Himavat mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -950,8 +912,6 @@ Bharata, the son of Kaikeyi was pressed by the weight of thatcolossal mountain o
 consisting of rocky caverns in the shape of settledcontemplations on Rama, minerals in the shape of
 groans and sighs, a cluster oftrees in the shape of depressive thoughts, summits in the form of sufferingsand
 fatigue, countless wild beasts in the shape of swoons, herbs and bamboos inthe form of his exertions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -1012,8 +972,6 @@ his breast;R^ishhabhaH yathaa = like a bull; *yuutha hataH* = strayed from its h
 Thereafter, Bharata the excellent among men sighing much inmelancholy, his mind utterly
 confused in consequence, having obtained anextreme distress, afflicted as he was with burning fever
 in his breast and likea bull strayed from its herd, found no peace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 </details>
 
@@ -1067,8 +1025,6 @@ prati* = regarding his elder brother.
 
 The noble soled Bharata, with his escort, met Guha too in acomposed mind. Then Guha slowly
 reassured Bharata again as regards his elderbrother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

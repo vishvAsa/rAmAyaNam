@@ -65,8 +65,6 @@ _________________
 When that night is elapsing into the wee hours of next day, then the eminent-saint
  Vishvamitra on asking for the leave of absence from those kings, Dasharatha and Janaka, and from
  both Rama and Lakshmana, he set out to northern mountains, namely Himalayas. [1-74-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -121,8 +119,6 @@ _________________
 When Vishvamitra departed that ruler to the delight of people, namely Dasharatha,
  on asking leave of absence with king Janaka who outvies bodily affairs, promptly set forth for
  the city of Ayodhya. [1-74-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -194,8 +190,6 @@ Then that king Janaka of Mithila, the one from Videha lineage, gave innumerable
  silk dresses, and elephants, horses, chariots, foot soldiers, besides hundreds of highly
  decorated girls, divine in their mien, as unexcelled chambermaids and handmaidens to the brides.
  [1-74-3, 4, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -246,8 +240,6 @@ Then that king Janaka of Mithila, the one from Videha lineage, gave innumerable
 
 King Janaka gave beau idéal bridal riches in gold, silver, pearls and corals even,
  for he is very highly gladdened as Seetha's marriage came true. [1-74-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -320,8 +312,6 @@ It is customary to follow the wedding party up to the outskirts of village or
  daughter, whose marriage itself is problematical so far, and when that has happened, now some
  sort of dissatisfaction has cropped up, in leaving her off with some forest ranger, called
  Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -339,8 +329,6 @@ It is customary to follow the wedding party up to the outskirts of village or
 
 Even the king Dasharatha, the sovereign of Ayodhya proceeded with his noble-souled
  sons, keeping all the sages in the fore, while his forces followed him. [1-74-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -387,8 +375,6 @@ Even the king Dasharatha, the sovereign of Ayodhya proceeded with his noble-soul
 But while going with the assemblages of sages and with young Raghava-s, namely
  Rama, Lakshmana, Bharata, Shatrughna, the sky-bound birds started to screech with startling voice
  from all around facing that tigerly-man Dasharatha. [1-74-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -409,8 +395,6 @@ But while going with the assemblages of sages and with young Raghava-s, namely
 Also thus, all of the earth bound animals are going his leftward, and on seeing
  this, albeit he is a tigerly king he is perplexed, and particularly asked Vashishta. [1-74-9b,
  10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -459,8 +443,6 @@ Also thus, all of the earth bound animals are going his leftward, and on seeing
 "Unpropitious is the starling voicing of birds, whereby my heart is throbbing
  down... and propitious is the leftward going of the animals, thereby my heart is throbbing up...
  why so?" [1-74-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -523,8 +505,6 @@ _________________
 On hearing all that is said by king Dasharatha, the instinctual sage Vashishta
  said this sentence in a soothing voice, "I will tell apart the result of these auguries...
  [1-74-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -544,8 +524,6 @@ On hearing all that is said by king Dasharatha, the instinctual sage Vashishta
 "The shrieks voiced by the birds are foretokening the forthcoming providential and
  perilous trepidation, but the behaviour of these animals is betokening it as mitigable... hence,
  let this consternation be forsaken... [1-74-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -599,8 +577,6 @@ _________________
 
 While they are discussing among themselves, a whirlwind started to whirligig
  there, as though to shake the earth and shatter all gigantic trees. [1-74-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -618,8 +594,6 @@ While they are discussing among themselves, a whirlwind started to whirligig
 
 Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
  enwrapped that army, by which it has become as though ensorcelled. [1-74-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -668,8 +642,6 @@ Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
 Then Vashishta and the other sages, the king Dasharatha along with his sons
  remained there with animation, and everything and every other one available there has become
  inanimate. [1-74-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -742,8 +714,6 @@ In that catastrophic darkness, that sand-muffled military of king Dasharatha has
  and clasped a bow in his left hand, that in simile is like a congeries of electroluminescence,
  and handling an arrow which is as if ready to electrocute, and he vied in his overall look with
  the devastator of triple cities, namely God Shiva. [1-74-16b, 17, 18, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -791,8 +761,6 @@ In that catastrophic darkness, that sand-muffled military of king Dasharatha has
 On seeing him who is perilous in his propensity and flaming like the Ritual-fire,
  Vashishta and the other prominent Brahman-s who are the practisers of meditation and
  fire-oblations have come together and started to susurrate, up and down. [1-74-20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -850,8 +818,6 @@ _________________
 
 An account of Parashu Rama's elimination of Kshatriya clans is given in
  endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -901,8 +867,6 @@ _________________
 After their susurrus the sages have approached him, who in his very look is like a
  visitation, with oblational water and addressed him with benign words of greeting like, "oh,
  Rama, oh, Bhaargava Rama..." [1-74-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 </details>
 
@@ -947,8 +911,6 @@ After their susurrus the sages have approached him, who in his very look is like
 
 On receiving the deference paid by the sage Vashishta, that inexorable Rama of
  Jamadagni started to talk to Rama of Dasharatha. [1-74-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

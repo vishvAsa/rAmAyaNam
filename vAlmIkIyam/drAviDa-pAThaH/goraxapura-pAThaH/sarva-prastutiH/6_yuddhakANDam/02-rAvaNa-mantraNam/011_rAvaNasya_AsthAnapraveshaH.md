@@ -15,8 +15,6 @@ title_english = "011 Ravana goes again to the assembly hall"
 
 Ravana goes again to the assembly hall, to hold consultations with his ministers,
 othere important demons and Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ the kind-hearted; *paapena karmaNaa* = and by his sinful action.
 
 That sinful Ravana, infatuated by his desire for Seetha, became emaciated by his
 sinful action and by his despising of well-disposed people like Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -189,8 +185,6 @@ prati* = towards the assembling hall.
 Ravana the excellent among demons ascended that most beautiful chariot, with a
 rattling sound resembling the rumbling of a large cloud and then proceeded towards the
 assembly-hall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -234,8 +228,6 @@ carmadharaaH* = holding swords and shields; *raakSasaaH* = and demons;
 
 Warriors holding swords and shield as well as demons wearing all types of weapons,
 marched in front of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -276,8 +268,6 @@ him; *paarshvataH* = from sides; *pR^iSThatashcaiva* = and even from behind.
 
 Demons wearing all types of unusual dresses and adoring various kinds of jewellery
 then marched, duly surrounding him from sides and even behind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -324,8 +314,6 @@ chariots; *varavaaraNaiH* = on excellent elephants; *mattaiH* = in rut;
 
 Great chariot-warriors in chariots, on excellent elephants in rut and horses
 supportively coming in different gaits, rushed after Ravana quickly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -373,8 +361,6 @@ with darts in theirs hands.
 
 Some had maces and iron bars in their hands. Some had javelins and iron clubs. Some
 were holding axes. Some others had darts in their hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -427,8 +413,6 @@ tumultuous; *shaNkhashabdashca* = noise of couches; *samjaN^e* = were produced.
 
 As Ravana was proceeding to the assembly-hall, loud blare of thousands of trumpets
 along with tumultuous noise of conches were produced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -472,8 +456,6 @@ high way; *juSTam* = possessed; *shriyaa* = of beauty.
 
 That excellently great chariot, making noise of the sound of its wheels, soon
 entered the beautiful royal high-way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -519,8 +501,6 @@ taaraadhipoyathaa* = like a full moon; *pragR^ihiitam* = was held;
 **अनुवादः**
 
 The spotlessly white umbrella, held on Ravana's head, shone like a full-moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -567,8 +547,6 @@ shining.
 
 On his left and right sides, two fans of yak's tails with crystal handles and golden
 fringes were shining.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -618,8 +596,6 @@ _________________
 
 All those demons standing on ground offered their salutation by bending their heads
 and joining their palms to his the best of demons, mounted on the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -665,8 +641,6 @@ assembly.
 
 Ravana the harasser of enemies, possessing great splendor, while being praised by
 demons through cheers of victory, approached that organized assembly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -723,8 +697,6 @@ Ravana with great splendour, with his body shining brightly, entered that assemb
 hall, which was paved with gold and silver, whose interior was wrought with pure crystal, carpeted
 with skins of deer, guarded by six hundred evil spirits, ever shining and well-constructed by
 Visvakarma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -741,8 +713,6 @@ throne; *vaiduuryamayam* = embedded with jewels (cat's eye gems);
 
 Ravana, that hall, occupied a big and excellent throne embedded with jewels (cat's
 eye gems), covered with skin of deer called Priyaka and furnished with pillows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -795,8 +765,6 @@ enemies; *samaanayata* = bring; *iha* = here; *etaan* = these;
 Thereafter Ravana, as a king, ordered his messengers, who were moving fast as
 follows: "There is a gigantic work before us. I know what the enemies are doing. Therefore, bring
 all the demons here quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -873,8 +841,6 @@ Lanka.
 
 Hearing those words, the messenger impelled the demons staying in entertainment
 places, in bedrooms or in gardens and went without fear to every house in Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -925,8 +891,6 @@ foot.
 
 Some of the demons mounted beautiful chariots; some mounted wild and strong horses
 and some mounted on elephants. Some others went on foot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -973,8 +937,6 @@ like the sky; *garutmadbhiH* = by the birds.
 
 That city, extremely crowded with chariots elephants and horses rushing fast
 together, appeared like birds rushing fast in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -1021,8 +983,6 @@ the assembly-hall; *giriguhaamiva* = like a mountain-cave; *simhaaH* = by lions.
 
 Parking horses, elephants and various kinds vehicles like chariots, they entered by
 foot the assembly-hall as a mountain-cave is entered by lions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -1062,8 +1022,6 @@ grass); *kechit* = and others; *bhuumau* = on the ground.
 
 Touching the feet of the king and greeted in turn by the king, some sat down on
 seats, some others on mats (of Kusa grass) and others on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1119,8 +1077,6 @@ demons.
 
 Congregating in the assembly hall at the king's command, those demons took their
 position round Ravana the king of demons, each according to their rank.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -1171,8 +1127,6 @@ Ministers who were scholars well versed in deciding action those endowed with go
 qualities, those who were all-knowing, king's ministers who could perceive things by their power of
 intellect and many warriors in hundreds, gathered according to their importance in that assembly
 hall, wrapped with gold, for providing felicity in all actions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1193,8 +1147,6 @@ hall, wrapped with gold, for providing felicity in all actions.
 
 Though the occasion for war was lacking Ravana thought of consulting with his
 ministers and well-wishers then to be a fit time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -1243,8 +1195,6 @@ auspicious; *yayau* = and drove; *samsadam* = towards assembly-hall;
 The high-souled and illustrious VibhiShana ascended an excellent auspicious and
 spacious chariot yoked with good horses with its various parts decked in gold and drove towards the
 assembly-hall of Ravana his elder brother.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -1304,8 +1254,6 @@ gave; *aasanaani* = seats; *tebhyaH* = to them; *pR^ithak* = separately;
 
 Then, that younger brother Vibhishana told Ravana his name and offered salutation to
 the feet. Suka and Prahasta followed suit. Ravana gave them suitable seats separately.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -1360,8 +1308,6 @@ the best aloe and sandal paste; *teSaam rakSasaanaam* = painted on those demons;
 The aroma of the best aloe and sandal paste painted on the persons as also of
 garlands worn round the necks of those demons duly adorned with ornaments of gold and gems and
 attired in excellent clothes diffused all round in the assembly-hall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 </details>
 
@@ -1412,8 +1358,6 @@ endowed with terrible energy; *te sarve* = all of them; *dadR^ishuH* = perceived
 The assembled persons there did not yell loudly. None uttered untruth or even talked
 vociferously. All of them were ready for action and were endowed with terrible energy. All of them
 sat, perceiving their lord's face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1434,8 +1378,6 @@ with gems and corals; *viniitaashvam* = and tied with trained horses; *saH* = he
 
 Approaching a great chariot, covered by a golden net, adorned with gems and corals
 and yoked with trained horses, Ravana mounted on it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ he came to the forest and not with any other motive. Ashamed of himself to hear 
 about Bharata, and descending the tree, Lakshmana hides his abashment by changing the topic.
 Commanded by Bharata that no disturbance should be caused to the hermitage occupied by Rama, the
 army encamps around the edge of the mountain, chitrakuta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ infatuated with anger; *abraviit* = and spoke; *idam* = these; *vachanam cha*
 
 Rama on the other hand, pacifying Lakshmana (son of Sumitra), who was very much
 agitated and infatuated with anger, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ with a shield?
 
 "While Bharata, wieldin a bow and highly wise-man himself is coming here, what is
 the use of a bow or sword with a shield?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -173,8 +167,6 @@ having promised to make; *pituH* = our father's word; *satyam* = a reality;
 
 "O, Lakshmana! Having promised to make our father's wish a reality. What shall I do
 with the kingdom by acquiring an ill-fame in killing Bharata who came here to see me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -222,8 +214,6 @@ food.
 
 "I should not enjoy the spoils obtained by slaying a relative or friend, like the
 partaking of a poisoned food."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ you.
 
 "O, Lakshmana! It is for your sake I desire virtue, legitimately acquired wealth and
 pleasure or even the earth itself. I promise this to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -322,8 +310,6 @@ desire; *raajyamapi* = the throne only; *samgrahaartham* = for the protection;
 
 "O, Lakshmana! I desire the throne only for the protection and happiness of my
 brothers. I touch my weapon and swear this fact."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ unrighteousness.
 
 "This earth, bounded by the sea is not hard to obtain for me, O the excellent man! I
 do not indeed wish even the position of Indra by unrighteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ Lakshamana the honour-giver!
 "If there be happiness that I could enjoy without Bharata or you or without
 Shatrughna, may it be without Shatrughna, may it be burnt to ashes by fire, O the
 honour-giver!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -494,8 +476,6 @@ dearer to me than my life- he who is mindful of the duties of his race. Hearing 
 that I was wearing matted locks and the antelope skin, accompanied by Seetha and you, O most
 valiant of warriors, in his devotion towards me and due to the distress that troubles his mind,
 Bharata has come to see me. He has not come with any other motive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -544,8 +524,6 @@ kingdom; *me* = to me.
 "Getting angry with Kaikeyi his mother and speaking unkind and harsh words to her,
 the glorious Bharata after getting permission from our further, came here to bestow kingdom to
 me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -592,8 +570,6 @@ even a little; *apriyam* = unkindly; *asmaasu* = towards us.
 
 "This is the proper time for Bharata to come here and see us. He does not behave or
 even think unkindly towards us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -641,8 +617,6 @@ you; *shaNkase* = are apprehending; *bhaatam* = about Bharata; *adya* = now;
 
 "Has Bharata at any time done any harm to you previously? What so the reason for you
 to be so apprehensive of Bharata now?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -690,8 +664,6 @@ disagreeble; *vachaH* = word; *kR^ite apriyam* = If an affront is offered;
 
 "Indeed, Bharata must not hear harsh or disagreeable word from your lips. If an
 affront is offered to him, it is offered to me!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -739,8 +711,6 @@ life?
 
 "O, Lakshmana! How should a son strike his father, even in a distress or a brother
 strike a brother who is as dear to him as his life?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -787,8 +757,6 @@ seeing; *bharatam* = Bharata; *vakSyaami* = I shall tell; *asai* = him;
 
 "If you are uttering these words for the sake of the kingdom, I shall tell Bharata
 to give the kingdom to you, when I see him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -835,8 +803,6 @@ ityeva* = "So be it".
 
 "O, Lakshmana! When Bharata receives this command from me, "Cede the empire to him",
 he will answer, So, be it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -883,8 +849,6 @@ though sinking; *svaam* = into his; *gaatraaNi* = limbs.
 
 At these words spoken by his honourable brother, to whom he was devoted, abashed,
 shrank into himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -935,8 +899,6 @@ himself.
 
 Listening to these words ashamed, answered: "I think that our father Dasaratha came
 here to see you himself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -986,8 +948,6 @@ _________________
 
 Observing the emberassed , Rama said, "I think the mighty armed Dasaratha came here
 to see us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1034,8 +994,6 @@ in the forest; *pratineSyati* = he wishes to bring us; *gR^ihaaya* = home.
 
 "Or rather, to my mind, as he knows that we have been accustomed to comfort,
 reflecting that we are dwelling in the forest, he wishes to take us home."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1084,8 +1042,6 @@ _________________
 
 "The glorious Dasaratha, my father possibly will take back Seetha from the forest,
 she who has ever lived in the heart of prosperity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1135,8 +1091,6 @@ this; *turagothamau* = excellent horses; *gotravantau* = of noble breed;
 
 "O, warrior! See those two excellent horses of noble breed, shining attractively and
 vying with the wind in swiftness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1186,8 +1140,6 @@ aged; (companion); *dhiimataH* = of our sagacious; *taatasya* = father.
 
 "Here is that colossal elephant who is moving at the head of the army called
 Shatrunjaya, the aged companion of our sagacious father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1234,8 +1186,6 @@ an apprehension; *iha* = on this point; *bhavati* = is created.
 
 "O, the mighty armed! But I do not see that white heavenly canopy of our father,
 well known insignia in the world. An apprehension on this point is created in my mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1294,8 +1244,6 @@ _________________
 
 "O, Lakshmana! You get down from the top of the tree. Act on my word." Thus spoke
 the virtuous Rama to that Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1311,8 +1259,6 @@ stood; *paarshvataH* = by the side; *raamasya* = of Rama.
 
 Descending from the top of that Sala tree, Lakshmana the victorious in battle, with
 joined palms, stood by the side of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1359,8 +1305,6 @@ the hermitage of Rama); *senaa* = by the army; *akalpayat aavaasam* = which enca
 
 Commanded by Bharata that no trampling of army should be made in the hermitage of
 Rama, the army was encamped round the mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1408,8 +1352,6 @@ Yojana and a half.
 
 That royal army of Ikshvaku race, crowded with elephants horses and chariots was
 encamped around the edge of the mountain occupying an area of one Yojana and a half.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 </details>
 
@@ -1465,8 +1407,6 @@ laid aside; *darpam* = his arrogance; *puraskR^itya* = placing in forefront;
 Brought by the virtuous Bharata, who laid aside his arrogance, placing the
 righteousness in forefront in order to propitiate Rama, that army showed itself to be disciplined
 in the vicinity of Chitrakuta.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

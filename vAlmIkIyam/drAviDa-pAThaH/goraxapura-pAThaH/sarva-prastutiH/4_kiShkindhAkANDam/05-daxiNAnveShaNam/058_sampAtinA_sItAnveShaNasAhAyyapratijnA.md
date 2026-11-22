@@ -21,8 +21,6 @@ an account of the lavish city Lanka as an eagle which has seen that city from th
 though he cannot fly as the scorching sun previously burnt both of his wings. Then the returnless
 monkeys on getting a bare beacon of indication from the lighthouse called Sampaati, they feel
 highly rejoiced on the seashore.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ baaSpaH* = with, tears; *vaanaraan uvaaca* = to vanara-s, spoke.
 
 When those monkeys whose lives are almost purged spoke to Sampaati with such dreary
 words, that thunder-voiced eagle tearfully spoke to those vanara-s. [4-58-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ bhraataa* = he is, mine, younger, brother.
 
 "Oh, vanara-s, of whom it is enounced that mighty Ravana felled him in a combat,
 that one is my younger brother named Jatayu... [4-58-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -175,8 +169,6 @@ presnetly I am; *bhraatuH vaira vimokSaNe* = brother's, enemy's, to release [to 
 "Even though I hear that my brother is slain I have to resign myself from any
 activity owing to my oldness and my winglessness, and presently I am indeed incapacitated to
 retaliate my brother's enemy... [4-58-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -231,8 +223,6 @@ historical present tense,] we happened to be - we flew sunward.
 "Once, when the elimination of demon Vritta was taking place at the hand of Indra,
 we two eagle-brothers sportively desiring to surpass each other flew sunward, and we have gone very
 near to the scorch-rayed sun... [4-58-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -249,8 +239,6 @@ noontide,] bechanced, when; *jaTaayuH avasiidati* = Jataayu, [started to] founde
 "Covering the skyway we have gone to firmament much speedily, then bechanced is
 noontide and thus bechanced is the scorching of the noontime sun, and then Jataayu started to
 founder... [4-58-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -298,8 +286,6 @@ to cover.
 
 "On seeing him who is being thwarted by scorching sunrays, then I started to cover
 my highly fretful brother with both of my wings in all my brotherliness... [4-58-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -352,8 +338,6 @@ living [constrainedly]; *aham bhraatuH pravR^ittim* = I, brother's, experiences 
 this Mt. Vindhya, and while living hereabouts constrainedly, I could pay no attention to my
 brother's experiences or, at least his existence, or otherwise..." So lamented old Sampaati.
 [4-58-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -403,8 +387,6 @@ prince,] Angada; *tadaa prati uvaaca* = again, replied.
 
 When Sampaati the brother of Jataayu spoke in that way, then the highly discerning
 crown prince Angada replied him. [4-58-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -448,8 +430,6 @@ praise of Jataayu, you please tell...]
 
 "If you are the brother of Jataayu, if you have heard whatever I have said in praise
 of Jataayu, and if you are aware of the whereabouts of Ravana... please tell it... [4-58-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -497,8 +477,6 @@ of Jataayu, and if you are aware of the whereabouts of Ravana... please tell it.
 "If you are aware of the location of that bigoted and knavish demon Ravana, please
 inform us. Doesn't matter whether that location is nearby or far off as we can search far and
 wide..." Thus Angada asked Sampaati. [4-58-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -545,8 +523,6 @@ elder, brother; *mahaa tejaa* = high, spirited - Sampaati; *vaanaraan* = monkeys
 
 Then Sampaati, the high-spirited elder brother of Jataayu, spoke these words that
 are self-befitting and that would highly gladden the monkeys. [4-58-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -596,8 +572,6 @@ uttamam saahyam kariSye* = of Rama [task,] best, service, I wish to render.
 
 "I am an eagle with utterly burnt wings and vanished valiance, even then, I wish to
 render a best service in the task of Rama, at least verbally... [4-58-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -651,8 +625,6 @@ atala. vitala, sutala, paataala terrains... and I have even seen those
 empyrean worlds that were triply trodden by Vishnu, and the intermediary regions of upper and lower
 worlds where gods and demons combated ghastlily, and because I am that aged I have also seen the
 unseeable Milky Ocean when it was churned for ambrosia... [4-58-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -700,8 +672,6 @@ vitality, is also, decrepit.
 "It is I who am to render service in this task of Rama firstly, than you vanara-s,
 as the common enemy of Rama and Jataayu is my first enemy, but I am decrepit as oldness has marred
 my vigour and vitality... [4-58-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -773,8 +743,6 @@ demon Ravana. She richly in her mien, embellished with every befitting jewellery
 and that lady in fury was bewailing calling, 'Rama... Rama...' even calling 'Lakshmana...' and she
 was throwing her ornaments down and her limbs were highly wriggly to set herself free from that
 demon... [4-58-15, 16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -828,8 +796,6 @@ sunshine atop a blackish mountain, or like lighting athwart a blackish ocean... 
 Thus expression *ambude taDit yathaa* is also said as *vidyut iva
 ambare - vidyut iva ambude* in other mms, meaning 'lightning with a backdrop of blue-black sky
 or ocean...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -876,8 +842,6 @@ shruuyataam* = from me, you hear.
 
 "Thus, I deem her to be Seetha by her excessive laudation of Rama, and let the
 location of that demon be heard from me while I say about it... [4-58-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -937,8 +901,6 @@ nor Vali, nor Sugreeva, nor even Hanuma, and his Sundara Kanda, as Rama would ha
 straightaway. Ramayana is still living as great literary work because it has this kind of
 melodramatic montages on very many occasions. The family tree of Ravana is given in the
 endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -989,8 +951,6 @@ Divine-Architect, built; *ramyaa lankaa purii* = lavish. Lanka, city - is there.
 "There is a lavish city in the oceanic island afar a hundred yojana-s all in all
 from here, which Vishvakarma, the Divine-Architect, has built, and it is called Lanka.
 [4-58-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1041,8 +1001,6 @@ gigantic, rampart; *sam anvitaa* = well [securely,] joined [closed in.]
 "Its multi-storied buildings are built very symmetrically and they will be in golden
 tinge with completely golden doors. The golden podia of verandas are amazing. That city is securely
 enclosed in a gigantic rampart that will be dazzling in the colour of sun... [4-58-21, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1154,8 +1112,6 @@ The ochry silk sari is for continuity reasons. As there were no continuity girls
 or continuity men, [namely, the persons responsible for agreement of detail between different
 sessions of filming,] the poet himself became one and repeats this 'gold-yellow-red coloured silk
 sari of Seetha...' oft times.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1178,8 +1134,6 @@ which ocean spans in an overalled width of hundred yojana-s from this side of se
 landing on the other seashore you can see Lanka secluded all around by ocean, and in such a
 water-walled Lanka you can see Ravana... hence, hurry up, and promptly triumph over Lanka...
 [4-58-24, 25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1258,8 +1212,6 @@ that of the birds that are the eaters of leftovers like crows and doves, or the 
 tree-fruits like parrots. The third flight level is that of the wading birds like Bhaasa, Kraunca,
 Kurara birds and cranes, herons and the like. The fourth flight level is that of hawks and the
 fifth is that of the vultures. [4-58-26, 27, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1339,8 +1291,6 @@ chariot are generally taken the seven - vibgyor - colours of light as in a rainb
 another aspect of Anuuru that appears before the advent of the Sun himself. These two are of avian
 origination and attributed to be the speediest propellers. And Jataayu and Sampaati, for that
 matter of fact, all eagles belong to that lineage, for their keen vision and powerful flight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1389,8 +1339,6 @@ kaaryam* = return, deed [retaliation]; *bhavet* = will result in [fulfilled];
 "By which raw-flesh-eating demon this deplorable deed of abducting Seetha is done,
 if that demon is retaliated by Rama and you all, my vendetta towards the very same demon, caused by
 his animosity towards my brother Jataayu will also be fulfilled... [4-58-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1438,8 +1386,6 @@ Garuda, the Divine Eagle; *divyam cakSuaH* = excellent, eyes' [sight]; *tathaa b
 
 "Staying here I am clearly seeing Ravana and like that Janaki... even for us eagles,
 our sight and power will be excellent like that of Garuda, the Divine Eagle... [4-58-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1505,8 +1451,6 @@ duura darshitam uktam | tadaa api vaidya nighaNTo - daaskhasye duura druma agre 
 dR^iShTikaH - iti | ca kaareNa anirodhena vaativiNmuutraadi utsargaadikam cakShuShyam iti ukatam -
 dk *Thus, the innate, fixed, pattern of behaviour in kingly eagles is recorded in
 response to certain stimuli.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1560,8 +1504,6 @@ For living beings if one thing is on plus's side, just at its back a minus point
 will also be there, like a night after day, sorrow after rejoice. Eagles may see long or fly high,
 but food for them is a rarity. Here Sampaati is self-piteous, as his son has not yet arrived
 bringing food for that day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1609,8 +1551,6 @@ artha* = productive, of objective; *gamiSyatha* = you will return [to Kishkindha
 "Let some idea be searched to leap the salty ocean. For sure, you will return to
 Kishkindha on your finding Vaidehi, and on your becoming productive of you objective...
 [4-58-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1658,8 +1598,6 @@ gatasya mahaatmanaH bhraatuH* = to heaven, one who has gone, great-souled one, f
 "I wish you would shift me to the residence of Rain-god, namely the ocean, for
 oblating water in respect of my great-souled brother Jataayu who departed to heaven..." Thus
 Sampaati spoke to the monkeys. [4-58-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 </details>
 
@@ -1721,8 +1659,6 @@ sincerely brought back that king of birds, Sampaati, after his offering oblation
 lodged him as a returnee at his own place. On deriving indication form Sampaati regarding Seetha,
 Ravana and Lanka, those returnless vanara-s returned to their search while their gladness returning
 to them. [4-58-36, 37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

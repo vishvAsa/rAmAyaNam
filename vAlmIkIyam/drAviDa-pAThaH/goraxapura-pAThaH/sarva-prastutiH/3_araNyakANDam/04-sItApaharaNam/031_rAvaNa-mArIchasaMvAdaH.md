@@ -23,8 +23,6 @@ This chapter is removed from the critical edition and retained by traditional ve
  are discussions on this chapter whether it is the original work or an interpolated one.
  Some more details are given in the endnote. Akampana's character inevitably has continuity
  in the war scene at the end.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ vaakyam abraviit* = to Ravana, word, spoke.
 
 Then on going hurriedly from Janasthaana and on speedily entering Lanka Akampana spoke these words to
 Ravana. [3-31-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -132,8 +128,6 @@ going ruin soon, because none can crossover the bulwark-like-Janasthaana. raajan
 two, many demons that are guarding Lanka from Janasthaana are hataaH 'dead...' Then Ravana may ask 'what
 is it Khara doing then?' kharaH ca 'Khara, also' is dead. By this ca 'also' Trishira, Duushana etc.,
 are also reported as dead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -180,8 +174,6 @@ burn down [whole world,] as though.
 
 Thus said, then that ten-faced Ravana is infuriated with bloodshot eyes, and as though to burn down
 whole world with his radiance he spoke this to Akampana. [3-31-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ hi* = recourse, not, attains, indeed - who chose not to survive in any world.
 
 "Who is that dead-and-gone that has destroyed my indomitable Janasthaana? Who is it that has indeed
 opted for no recourse in all of the worlds? [3-31-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ get, not, possible, really; *vaishravaNena api* = by Kubera, even; *na* = not [p
 
 "Evoking indignation in me it is really impossible for Indra to be happy; even for Kubera - no; for
 Yama - no; why them, even Vishnu cannot be happy. [3-31-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ of.
 
 "I am the End-Time for the Time-god himself, I will burn down the Fire-god, and I am capable of conjoining
 Death with the virtue of deathliness. [3-31-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -372,8 +358,6 @@ to halt,] I am excited to.
 
 "If I am enraged I will incinerate Sun-god or Fire-god just with my radiance, I will halt even the impetuosity
 of Wind-god with that of mine." Thus Ravana said about himself. [3-31-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -424,8 +408,6 @@ demon Ravana who is enraged in that way. [3-31-8]
 
 The words decahedron, decahedral - a solid figure with ten faces - are the fancied usage for Ten-Throated
 or Ten-Faced demon. Ravana has also got the name of dashagriiva, and he is a 'solid' demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ Akampana; *visrabdhaH* = trusting in; *a sandigdham* = not, falteringly; *vaakya
 
 When the supremo of demons Dasha-griiva pardoned him then that Akampana spoke these words, unfalteringly
 and trustfully. [3-31-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -528,8 +508,6 @@ and trustfully. [3-31-9]
 
 "He is a youth whose shoulders are mighty, arms round and lengthy, built like that a lion, who is the
 son of Dasharatha and known as Rama. [3-31-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -545,8 +523,6 @@ kharaH ca* = with, Duushana, Khara, is also; *hataH* = killed.
 
 "He is blue-black in complexion, a highly renowned one with matchless might and valour, a magnificent
 one such as he is he slew Duushana along with Khara in Janasthaana." [3-31-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -592,8 +568,6 @@ Akampana's, words, on hearing; *naaga indra iva niHshvasya* = serpent, kingly, l
 
 On hearing the words of Akampana, the chief of demons Ravana, spoke these words hissing like a kingly
 serpent. [3-31-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -643,8 +617,6 @@ by; *janasthaanam upayaataH kaccit* = to Janasthaana, arrived, whether - that is
 
 "The question is whether that Rama arrived at Janasthaana associated with Indra and along with all of
 the immortal gods? Oh, Akampana, speak about it. [3-31-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -684,8 +656,6 @@ on hearing; *mahaa aatmanaH tasya* = of great-souled one, his - Rama's; *balam v
 
 Akampana again detailed about the might and valour of that great souled Rama on hearing that sentence
 of Ravana. [3-31-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -733,8 +703,6 @@ of Ravana. [3-31-14]
 "Rama means someone who is highly resplendent, an ablest archer among all archers, one who is endowed
 with divine missiles and divine attributes, and he is the one who conducts warfare with a supreme conduct.
 [3-31-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -784,8 +752,6 @@ kaniiyaan bhraataa* = selfsame, younger, brother.
 
 "And a mighty one with redly eyes and drumbeat like voice, and whose face is shiny like the full-moon
 is Rama's selfsame younger brother known as Lakshmana. [3-31-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -832,8 +798,6 @@ such a [Rama,] Janasthaana, is destroyed.
 
 "Alike the wind associating with fire this Lakshmana is associated with that glorious and nonpareil
 prince Rama, and that firestorm, namely Rama, destroyed Janasthaana. [3-31-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -889,8 +853,6 @@ bhakshayanti sma* = demons, to consume, they have started to.
 "They are not any great souled gods or any heavenly beings as such, hence there is no need to doubt
 about it. Rama unloosened his gold-finned and feather-winged arrows, which on becoming five-faced serpents
 started consuming the demons. [3-31-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -956,8 +918,6 @@ appeared in each of the objects the demons wanted to pick up and fight back, say
 *raamam eva agrataH sthitam pashyanti* - Tiirtha. Because the demons are smitten by fear, that fear reflected
 one Rama as fourteen thousand Rama-s, and it is not any divine trick or magic done by Rama. - Govindaraja.
 It is same with Kamsa in Bhaagavata when he sees one Krishna as many Krishna-s in his fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1003,8 +963,6 @@ janasthanam gamiSyaami* = to Janasthaana I wish to go.
 
 On hearing the words of Akampana Ravana said these words, "I will to go to Janasthaana to kill Rama
 along with Lakshmana." [3-31-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1063,8 +1021,6 @@ does not cause any hindrances to ritual, but these hench-demons do. So, they rea
 actions. Or, *raamasya vR^ittam: itihaasa puraaNa prakiirtita vR^ittam* 'that which is enshrined in legends
 and mythology, I will tell those aspects of Rama.' yathaa vat balam pauruSam 'as it is his might and
 grit...' 'I will let you know about them...' So said Akampana to Ravana. - Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1133,8 +1089,6 @@ aavarta shataakulaa nadii maargam dadau sindhuH iha shriyaH pateH -- bhaagavata 
 the tumultuous river gave way to carry Krishna to go to the other side. Thus the incarnation of Krishna, in
 earlier times, or in the forthcoming eras, is suggested. - Tiirtha. As a river gives way to fishes to
 swim, his *matsya* 'Fish...' incarnation is also suggested.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1195,8 +1149,6 @@ earth is suggestive of *varaaha *'Wild Boar...' incarnation, where he uplifted d
 of a wild boar. And again *siidantii mahiim uddharet* where *mahi* is taken as people, and it is said 'when
 people on earth are sinking/collapsing under tyranny, he uplifts them...' as he is the ultimate absolver
 and terminator of the creation. Govindaraja and Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1219,8 +1171,6 @@ The deluging worlds suggest s*amkarSaNa* aspect. Govindaraja. Because he deluges
 *yuga antakaH* 'the epoch-ender...' The said 'Air' suggests other elements also, like Fire, Water etc.,
 as said in *pR^idvii apsu liiyate, aapaH tejasa liiyate* 'earth merges in waters, waters merges in fire...'
 thus he can stem the tide of all the elements, taking *samhR^itya* from the next verse. Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1283,8 +1233,6 @@ single being can do all
 these thing? For this it is said *saH shreSThaH puruSaH* 'he is more than, better than, transcendent,
 to humans...' but not 'best among men' as routinely said above. The word *punaH* 'again' is used twice,
 one belongs to the earlier dissolutions and creations and another to the forthcoming ones. Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1343,8 +1291,6 @@ Though there are many sinners in many worlds, all put together are not able to c
 Tiirtha. *anena paapiShThaiH
 svargaH praaptum na shakyata iti uktam - - *anena sukR^itinaam svargaH paapiShThaanaam naraka iti suucitam
 - dk* *.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1405,8 +1351,6 @@ janmani janmani... Gita 16-20*. Tirtha.
 
 Sage Valmiki is speaking through the tongue of this Akampana, the spy, about the invincibility of Rama.
 Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1456,8 +1400,6 @@ as; *su madhyamaa* = slender, waisted one; *tasya bhaaryaa* = is his, wife.
 
 "An excellent woman in the world is there, a youthful one with symmetrical limbs, a jewel-like lady
 adorned with jewellery, that slender-waisted one who is known as Seetha is his wife. [3-31-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1504,8 +1446,6 @@ but, where, will be.
 
 "No goddess can be likened to that mature lady; a gandharva female - no; a apsara female - no; a pannaga
 female -no, then how can there be a woman of her like? [3-31-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1576,8 +1516,6 @@ tvam imam desham upaayena maharShibhiH || 3-30-35* Thus this sagacious Akampana 
 to bring Seetha firstly, for whom Rama comes conquering Ravana, and then the demons on earth will be
 eradicated. Without Janasthaana Lanka is nothing but an open-door castle. So, the sages paved way for
 Rama through Janasthaana to Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1623,8 +1561,6 @@ it; *akampanam uvaaca* = to Akampana, spoke.
 
 The chief of demons Ravana favouring that idea thought of it and that mighty armed Ravana then spoke
 to Akampana. [3-31-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1674,8 +1610,6 @@ ca* = I wish to lead her in, also.
 
 "Agreed! I wish to go alone early in the morning with a charioteer and I delightfully wish to lead Vaidehi
 into the elegant city Lanka." Ravana declared that way. [3-31-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1722,8 +1656,6 @@ with chariot; *sarvaaH* = dishaH prakaashayan = all, directions, making to glitt
 
 Saying so Ravana journeyed in a chariot that is yoked with mule-like horses, and that has the dazzling
 of the sun, whereby all the directions are made to glitter. [3-31-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1774,8 +1706,6 @@ shubhe* = verily, shone forth.
 
 That opalescent chariot of the lord of demons while speedily progressing through starry way shone forth
 as if it is the moon in clouds. [3-31-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1829,8 +1759,6 @@ Ravana and venerated that king of demons with sweetmeats and savouries that are 
 The food items bhakshya are the supplementary items like laddu-s, jilebi, etc., and the like, whereas
 the bhojya items are boiled-rice, wheat-bread etc., the staple food items. The word a+maanuSaiH may
 also mean 'inhuman' but nowhere we find Ravana taking such a lowly food.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1876,8 +1804,6 @@ vaacaa* = meaning, inclusive, words; *vaakyam abraviit* = , sentence, spoke.
 
 Offering proper seat and water for washing feet and hands Maareecha personally attended Ravana and spoke
 to him this sentence that is worded meaningfully. [3-31-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1927,8 +1853,6 @@ neared - came here; thereby; *aashanke* = I am anxious; *na jaane* = I do not, k
 
 "Oh, king and supremo of demons, I am anxious to know whether everything safe and secure to the inhabitants
 of your kingdom, for I am not in the know of the reason by which now you have come here rushingly. [3-31-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -1975,8 +1899,6 @@ spoke.
 
 When Maareecha said so to him that greatly radiant one who is a sententious speaker that Ravana thereafter
 spoke this sentence. [3-31-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2028,8 +1950,6 @@ help, you render.
 "Oh, sire, Rama who is indefatigable in warring has ruined my security stationed at Janasthaana, and
 in war he even brought down all of Janasthaana which is undefeatable so far, such as I am, to me you
 have to render friendly help in kidnapping Rama's wife." [3-31-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2101,8 +2021,6 @@ vaakyam abraviit* = Maareecha, words, spoke; *mitra ruupeNa shatruNaa* = friend,
 On hearing the words of that chief of demons, Maareecha spoke these words, "who broached the subject
 of Seetha with you, an enemy in the fakery of a friend? Oh, tigerly demon, who is that censurable one
 that is unhappy with you, since he is giving such a self-ruinous advise? [3-31-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2155,8 +2073,6 @@ that Seetha shall be brought to Lanka?
 
 "Who is saying that Seetha is to be brought to Lanka with a desire to get your apogeal ten-heads that
 are prominent among all the clansmen of demons to be cut-off? [3-31-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2203,8 +2119,6 @@ you.]
 
 "Also, he who has motivated you in this way is an undoubted enemy of yours, for he wanted to extricate
 the fangs of a snake from its mouth, of course, through you. [3-31-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2251,8 +2165,6 @@ pratipaaditaH asi* = awry, path, attained [blundered upon,] you have; *raajan* =
 
 "By whom and by which purpose of his you are made to blunder upon this awry path, oh, king, it is as
 good as his hitting hard on your head while you are fast asleep. [3-31-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2309,8 +2221,6 @@ he that; *raaghava gandhi hastii* = Raghava, redolent, elephant; *samyuge* = in 
 elephant that has an impeccable dynasty and bloodline as its mammoth trunk, personal radiance as its
 indomitable might, very firm pair of arms as its pernicious tusks, more so, who will be with the redolence
 of the irrepressible lineage of Raghava-s. [3-31-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2378,8 +2288,6 @@ killer-demons, and mind you, do not dare to rouse that sleeping man-lion. [3-31-
 **टिप्पनी**
 
 The nara-simha, man-lion incarnation is suggested here.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2443,8 +2351,6 @@ The crocodile catches at the very moment of falling of its prey, the arrows make
 quagmire without any hope of coming up, and when the arrows once discharged tidally, the battlefield
 becomes a tideland inundated with his arrows. Thus, it is impossible to crossover that oceanic netherworld,
 called Rama. Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2500,8 +2406,6 @@ in your wives, and let Rama be delighting with wife in forests." Thus Mareecha s
 
 Suffix: 'forgive what has happened, remit a disastrous war on Lanka, be pleased with what you have and
 be content with it, holdback your greediness...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 </details>
 
@@ -2547,8 +2451,6 @@ uttamam vivesha ca* = house - palace, best one, entered, also.
 
 When thus said by Maareecha that ten faced Ravana returned to his city Lanka and entered his best house
 and home. [3-31-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

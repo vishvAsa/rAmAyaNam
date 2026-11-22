@@ -17,8 +17,6 @@ Ravana sends Aksha, his own son, to fight against Hanuma. Aksha, along with his 
 elephants and horses, approach Hanuma and incites him to battle by discharging three sharp arrows. As
 Aksha discharges his arrows, Hanuma bounces quickly to the sky and smashes Aksha, his chariot and the
 horses with blows. After killing Aksha, Hanuma returns again to the same archy door-way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -84,8 +82,6 @@ hanumataa* = by Hanuma; *raajaa* = that Ravana; *prasamaikSata* = looked at; *ak
 Hearing and sustaining that the five army-generals along with their followers and vehicles
 were disposed off by Hanuma, Ravana looked at Aksha, his son, violent in combat and who was inclined
 to fighting as well as sitting in front of him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -140,8 +136,6 @@ a fire; *udiiratah* = moved up; *dvijaatimukhyaiH* = by the foremost brahmins; *
 Goaded by the looks of Ravana, the energetic Aksha, wielding a golden dotted bow, quickly
 sprang up, like a fire switched up by the foremost of brahmins in a sacrificial fire, by offering oblations
 to it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -196,8 +190,6 @@ nairR^itarSabhaH* = that valiant chief of demons; *tataH* = then; *yayau* = went
 Mounting a great chariot, having a splendour of a newly risen sun and overlaid with a
 protective armour of highly refined gold, that valiant cheif of demons sallied forth towards that mighty
 monkey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -289,8 +281,6 @@ dhvajam* = on a flag-staff studded with gems; *suyojitam* = yoked well with; *ma
 Aksha's chariot was earned through many kinds of his penances. It was shining with a
 protective armour of highly refined gold, adorned with a flag on a flag-staff studded with gems and
 yoked well with eight excellent horses, having speed equal to that of a mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -314,8 +304,6 @@ and lances.
 That chariot was unassailable by celestials or demons. It moved without hindrance to
 any place. It shone like a sun and could move within the sky. It was well-conceived with a quiver, eight
 swords and tied with bells. It was orderly arranged with spears and lances in their respective places.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -338,8 +326,6 @@ thing; *viraajamaanam* = shining; *divaakaraabham* = like rays of sun.
 Then, Aksha having a prowess equal to that of celestials, came forth, mounting that chariot
 decorated with golden wreaths, having a brilliance of moon and sun, filled with every right thing and
 shining like rays of sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -399,8 +385,6 @@ door-way.
 
 Aksha, filling the sky earth and its mountains with sounds of horses elephants and chariots,
 together with his army, approached the efficient Hanuma the great monkey, standing at the archy door-way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -460,8 +444,6 @@ to; *bahuumaanachakSuSaa* = him with a great esteem.
 Approaching that Hanuma, standing there readily to destroy mortals, similar to a fire
 that is to destroy the world, the yellow-eyed Aksha was bewildered, born of a surprise and looked to
 him with a great esteem.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -522,8 +504,6 @@ when the frost is faded away.
 That Aksha, the mighty prince, assessing the swiftness of that high-souled Hanuma and
 his prowess with regard to his adversaries as also his own strength, increased his body more and more
 like the sun when the frost is faded away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -583,8 +563,6 @@ _________________
 Understanding Hanuma's prowess to be unrestrainable and stable in battle, that Aksha,
 exhibiting anger initially, became stable and mentally composed and incited Hanuma to battle by discharging
 three sharp arrows towards him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -644,8 +622,6 @@ bow; *avaikSata* = saw (him); *samudiirNamaanasaH* = with an excited mind.
 Recognizing that Hanuma, as a haughty monkey, after having gallantly conquered his adversaries
 and accustomed to fatigue, that Aksha, graspign the bow and arrows his hand, saw him with an excited
 mind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -700,8 +676,6 @@ armlets and charming ear-rings; *saH* = Aksha; *aashuparaakramaH* = of a quick p
 Having a glden chain, a pair of armlets and charming ear-rings, Aksha of a swift prowess,
 approached Hanuma. Their unmatched get-together in combat became a baffle to even the celestials and
 demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -762,8 +736,6 @@ too; *chukSubhe* = was agitated.
 Seeing that battle between Hanuma and Aksha, the earth uproared. The sun did not shine
 brightly. The wind ceased to blow. The mountain shook. The sky made a reverberant sound. The ocean too
 was agitated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -824,8 +796,6 @@ kapimuurdhni* = on Hanuma's head; *triin sharaan* = three arrows; *sumukhaan* = 
 Then, that eminent demon, who correctly knew how to fix his gaze on the target, to fit
 an arrow to the bow and to discharge it, hurled on Hanuma's head, three arrows which were well-painted,
 having golden shafts and feathers and which resembled venomous serpants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -886,8 +856,6 @@ of rays; *sharaamshumaan* = having the arrows as its rays.
 Oozing the blood from his wound caused by those arrows descended into his head (by Aksha),
 looking like the newly risen sun, his eyes bathed in blood rolling rapidly, Hanuma shone brightly like
 the sun surrounded by a circle of rays, having the arrows as its rays.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -947,8 +915,6 @@ his marvelllous weapons and picturesque bow; *saH* = that Hanuma; *piN^gaadhipa 
 Seeing in the battle that Aksha the prince, with his marvellous weapons and picturesque
 bow, that Hanuma the excellent one among Sugree's counsellors, was rejoiced and with an inclination
 to fight, grew in size.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1009,8 +975,6 @@ his eyes; *kumaaam* = the prince; *akSam* = Aksha; *sabalam* = along with his ar
 That Hanuma, endowed with strength and prowess, resembling the sun appearing on a peak
 of Mandara muntain and whose anger was increased, then burnt the prince Aksha along with his army and
 vehicles, by the rays of fire emnating from his eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1070,8 +1034,6 @@ the form of a rain bow; *aashu* = soon; *mumocha* = discharged; *sharaan* = arro
 That demon in the form of a cloud, raining down arrows, then wielding a bow in the form
 of a rain-bow, soon discharged arrows on Hanuma standing in the form of a mountain, like a cloud showering
 rain on a high mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1131,8 +1093,6 @@ _________________
 Seeing that Aksha the prince, possessing an impetuous valour, endowed with enhanced splendour
 strength and vigour with a capacity to move within the sky like a cloud, coming to the battle, Hanuma
 roared with joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1193,8 +1153,6 @@ iva* = like an elephant; *mahaakuupam* = (approaching) a well; *aavR^itam* = cov
 Boastful of his valour in battle because of his childish attitude, Aksha wit an enhanced
 fury and red-blood eyes, approached Hanuma who was incomparable in battle, as an elephant approaching
 a well covered with heaps of straw.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1253,8 +1211,6 @@ _________________
 
 As Aksha forcefully discharged his arrows, Hanuma roared a sound of thunder and bounced
 quickly to the sky assuming a terrible sight, stretching out his arms and thighs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1315,8 +1271,6 @@ samabhidravat* = went chasing; *utpatantam* = (that Hanuma) flying upwards; *kir
 That strong and valiant Aksha, the foremost among the demons, and the best among car
 warriors, went chasing Hanuma who was flying upwards, difusing arrows like a cloud showering hail-stones
 on a mountian.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1377,8 +1331,6 @@ wind; *sharaantare* = in the space between one arrow and another; *vimokSayan* =
 That valiant Hanuma, whose swiftness was equal to the mind and possessing impetuous valour
 in battle, rushing forth like wind in the space between one arrow and another and thus escaping Aksha's
 arrows, moved in the path visited by wind (the sky).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1439,8 +1391,6 @@ aastR^iNantam* = covering; *kham* = the sky; *sharottamaiH* = with excellent arr
 With a respectful faculty of sight, Hanuma saw that Aksha who was wielding his bow and
 readily inclined to fight, covering the entire sky with excellent arrows with various types of tops
 and became thoughful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1500,8 +1450,6 @@ mahaatmanaa* = by the high souled; *kumaara viireNa* = heroic Aksha; *vichintaya
 Then, the mighty armed Hanuma, who knew how to act under particular circumstances, roaring
 when pierced in the breast with shafts by the high souled heroic, Aksha, reflected on the prowess of
 his adversary in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1560,8 +1508,6 @@ sarvaahavakarma shobhinaH* = who is distinguished in all acts of war fare.
 
 "The mighty Aksha, possessing the lustre of a rising sun, is performing a great act,
 as a mature youth. My mind is not conceding here to kill him, who is distinguished in all acts of war-fare."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1617,8 +1563,6 @@ Nagas the serpent-demons and Yakshas the semi-divine beings.
 "He possesses a great intellect and is also prominent by his valour. He is well-composed
 and highly tolerant in battle. Due to his eminent deeds and virtues, he is undoubtedly adored by saints,
 Nagas the serpent-demons and Yakshas the semi-dviine being."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1678,8 +1622,6 @@ api* = even the minds; *suraasuraaNaam* = of celestials and demons.
 "He is standing very much before me and looks me straight in the eyes, reassured as he
 is, by his prowess and enthusiasm. His swift-moving prowess trembles even the minds of celestials and
 demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1739,8 +1681,6 @@ an augmented; *agniH* = fire.
 
 'If neglected, he would undoubtedly overpower me. His prowess is getting augmented in
 battle. The only option left out for me is to kill him now. It is not proper to neglect a spreadin fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1801,8 +1741,6 @@ _________________
 The valiant and te mighty Hanuma, reflecting thus about the swiftness of the adersary
 and determining his own couse of action, then acquired a course of action, then acquired a momentum
 and also made up his mind to kill him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1863,8 +1801,6 @@ different directions.
 That Hanuma, the heroic son of wind, killed using the blows of his palm, those eight
 horses posessing a great speed in the path of sky with alertness as also having a capacity to bear burden
 while turning to different directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1924,8 +1860,6 @@ kumubaraH* = with its carriage-pole loosened; *hatavaajiH* = and its horses dead
 Then, the great chariot of Aksha, thus struck by the palm and subdued by Hanuma the counsellor
 of Sugreeva, had its interior broken, its carriage pole loosened and its horses dead and fallen from
 the sky to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -1986,8 +1920,6 @@ _________________
 Leaving the chariot, wielding the bow and sword, that Aksha the chariot-warrior leapt
 to the sky. Having a terrible power of penance and leaving his body like a sage, he then was seen departing
 to heaven because of his Yogic penance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -2048,8 +1980,6 @@ by Garuda the eagel; the wind and Siddhas the ascetics endowed with supernatural
 Thereafter, Hanuma with his prowess equal to that of wind, approaching Aksha moving in
 the sky, which is often frequented by Garuda the eagle, the wind and Siddhas the ascetics endowed with
 supernatural powers, slowly grasped his feet firmly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -2105,8 +2035,6 @@ to the floor; *vegaat* = rapidly.
 That Hanuma, with a prowess equal to that of wind-god, his father, and the excellent
 one among monkeys, spigning round Aksha like grasping a great serpent an eagle for a thousand times
 in the battle, hurled him down to the floor rapidly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -2165,8 +2093,6 @@ killed; *vaayusutena* = by Hanuma; *kSitau* = on the ground.
 
 With his arms, thighs, hips and neck broken, blood dripping, his bones and eyes crushed,
 his joints displaced and his sinews shattered, that demon was killed by Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -2239,8 +2165,6 @@ Hanuma, having crushed him on the ground, created a great fear to Ravana. Aksha,
 having been killed, Hanuma was gazed on with excessive astonishment by great sages who move everywhere
 without obstruction and having great voes as also by spirits Yakshas the semidivine beings, Pannagas
 the serpent-demons and by celestials with Indra the lord of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 </details>
 
@@ -2296,8 +2220,6 @@ destroyed.
 Killing that Aksha, possessing a lustre equal to that of Jayanta the son of Indra the
 lord of celestials and having his eyes resembling blood, the heroic Hanuma reached the same archy door
 way again, like Yama the lord of death expecting in a moment any mortal getting destroyed by him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

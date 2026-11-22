@@ -17,8 +17,6 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 In this chapter Hanuma starts to search for Seetha overcoming the depression. He begins to go towards
 Ashoka garden to continue his search.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ middle of cloud.
 
 Hanuma the leader of Vanaras crossed from pushpaka toward the fort wall and became with speed like
 lighting in the middle of a cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 </details>
@@ -128,8 +124,6 @@ niveshanaat* = from the house of Ravana; *adR^ishhTvaa* = not seeing; *siitaam* 
 
 The simian Hanuma went far from the house of Ravana and not seeing Seetha, the daughter of King
 Janaka, said these words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ in all limbs; *vaidehiim* = and the daughter of Videha;
 
 "The city of Lanka has been mostly explored by me attempting for the pleasure of Rama. But I am
 unable to see Seetha, beautiful in all limbs, and the daughter of Videha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -264,8 +256,6 @@ nadyaH* = rivers; *anupavanaantashcha* = and forest areas; filled with water; *d
 
 "All earth consisting of pools, ponds, lakes and streams, rivers and forest areas filled with water,
 mountains difficult of access have been explored but I did not see Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -280,8 +270,6 @@ of Ravana; *aham* = I; *na cha pashyaami* = I am unable to see; *taam* = her.
 
 "It has been said by the eagle King Sampati that Seetha is here in the house of Ravana. I am unable
 to see her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ with) the evil minded Ravana.
 
 "Otherwise Seetha belonging to Videha born in Mithila and daughter of king Janaka - Can she be
 helplessly together with the evil minded Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -380,8 +366,6 @@ the journey).
 
 "I think while Ravana fearing Rama's arrows flew quickly carrying Seetha, she might have fallen
 down in the middle of the journey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -428,8 +412,6 @@ down in the middle of the journey."
 
 "Or I think the heart of the noble Seetha being stolen in the path served by Siddhas must have
 sunk at the site of the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -477,8 +459,6 @@ eyes.
 
 "I think due to great speed of Ravana and due to the torture of Ravana's shoulders the life has
 been given up by that noble one with wide eyes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -527,8 +507,6 @@ _________________
 
 "Then while being flown upon the surface of the ocean, Seetha definitely fell down in the ocean
 while wriggling."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -584,8 +562,6 @@ rakshantii* = while she was protecting her chastity; *abandhuH* = without any re
 
 "Or has the austere Seetha been eaten by this Ravana, the evil minded one while she was protecting
 her chastity without any relatives near her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -605,8 +581,6 @@ her chastity without any relatives near her."
 
 "Otherwise not being evil with black eyes, She may have been eaten by the wives of Ravana with
 evil thoughts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -653,8 +627,6 @@ must have obtained death; *dhyaayatii* = while meditating; *raamasya vaktram* = 
 
 "The pitiable Seetha equaling full moon, with eyes equaling lotus petals must have obtained death
 while meditating upon Rama's face."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -701,8 +673,6 @@ while meditating upon Rama's face."
 
 "The daughter of Videha, Seetha. �O Rama!' �O Lakshmana!' �O Ayodhya!', thus weeping greatly may
 have given up her body."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -748,8 +718,6 @@ definitely crying; *paJNjarastaa shaarikaa iva* = like a caged myna.
 **अनुवादः**
 
 "I think otherwise being put in the house of Ravana Seetha is definitely crying like a caged myna."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -800,8 +768,6 @@ _________________
 
 "How can the daughter of King Janaka, Rama's wife Seetha with a beautiful waist, with eyes like
 black lotus petals obtain Ravana's capture."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -850,8 +816,6 @@ priyabhaaryasya* = to Rama who has a dear wife; *janakaatmaja* = (if) Seetha; *v
 
 "It is not fair to let know Rama who has a dear wife if Seetha is lost or is not to be seen or
 has died."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -899,8 +863,6 @@ has died."
 
 "To be let known becomes an error; not to let know becomes an error how to perform the duty? To
 me this seems dire situation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -950,8 +912,6 @@ point.
 
 "This task while it goes this way the time is approaching. What becomes appropriate" thus Hanuma
 thought again this view point.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -998,8 +958,6 @@ city; *ita ha* = from here; *adR^ishhTvaa* = without seeing; *siitaam* = Seetha;
 
 "If I go towards Sugreeva's city from here without seeing Seetha from that to what avail will this
 effort be?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1048,8 +1006,6 @@ the site of Rakshasas; *vyartham bhavishhyati* = (all this) will become waste.
 
 "My crossing of the ocean entering the city of Lanka the site of rakshasas - all this will become
 waste."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1099,8 +1055,6 @@ _________________
 
 "To me reaching Kishkindha what would Sugreeva say or Vanaras there or those sons of Dasharatha
 what would they say?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1150,8 +1104,6 @@ say; *param apriyam* = a very unpleasant (word); *tataH* = thereafter; *jiivitam
 
 "Going there by me for Rama, �Seetha has not been seen' - thus if I say a very unpleasant word
 thereafter Rama will give up life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1201,8 +1153,6 @@ not exist.
 
 "Hearing bad word belonging to Seetha that is harsh, horrible, cruel, sharp, sense agonizing, He
 will not exist."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1252,8 +1202,6 @@ bhavishhyati* = will not exist.
 
 "Seeing that Rama being with troubles, being with a heart towards death, Lakshmana, one with great
 love and an intellectual will not exist."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1301,8 +1249,6 @@ bhavishhyati* = will not exist.
 
 "Hearing brothers to be dead, Bharata also will die. Seeing the dead Bharata, Shatrughana also
 will not exist."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1352,8 +1298,6 @@ _________________
 
 "Thereafter seeing sons to be dead the mothers Kausalya, Sumitra and Kaikeyi will not exist - there
 is no doubt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1403,8 +1347,6 @@ Rama; *tathaa gatam* = die in that way; *jiivitam tyakshyati* = will give up lif
 
 "Grateful, true to pledge Sugreeva, the leader of Vanaras, seeing Rama the leader of Vanaras seeing
 Rama die in that way will give up life thereafter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1447,8 +1389,6 @@ up; *jiivitam* = life.
 
 "Being tortured by the sorrow of husband, made sad by a gloomy heart, disconsolate without happiness,
 to be pitied, Ruma will give up life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1497,8 +1437,6 @@ Vali; *shokakarshitaa* = being emaciated from grief; *taaraapi* = Tara also; *na
 
 "Being distressed from the sorrow of Vali, being emaciated from grief, Tara also will not exist
 while the king Sugreeva is obtaining death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1547,8 +1485,6 @@ _________________
 
 "The young Angada also from the death of mother and father, from the grief of Sugreeva - why will
 he retain life?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1605,8 +1541,6 @@ their heads; *talaiH* = with palms; *mushhTibhirevacha* = and fists.
 
 "Vanaras being rejected by the sorrow due to their lord will strike their heads with palms and
 fists."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1626,8 +1560,6 @@ fists."
 
 "Vanaras loved by the famous king Sugreeva through good words, through small gifts, through respect
 will give up lives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1703,8 +1635,6 @@ enjoy; *sametya* = together; *kriiDaam* = sport; *vaneshhu* = in forest; *na sha
 
 "Best among Vanaras will not enjoy together sport in forest, not on mountains, not again in covered
 places."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1720,8 +1650,6 @@ and together with ministers; *bhartuvyasana piiDitaaH* = being tortured by grief
 
 "Together with wife and children and together with ministers being tortured by grief of their lord,
 they will fall down from top of mountains on to flat lands and on to rugged lands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1795,8 +1723,6 @@ fire; *upavaasam* = or fasting; *atho* = or; *shastram* = a weapon.
 
 "Vanaras will perform death by taking poison or getting hanged or entering fire or fasting or a
 weapon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1811,8 +1737,6 @@ weapon."
 
 "While I am going I think about the destruction of Ikshvaaku dynasty and destruction of Vanaras
 and there will be a terrible wail."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1861,8 +1785,6 @@ Seetha.
 **अनुवादः**
 
 "I will not go from here to the Kishkindha city. I am not capable to see Sugreeva without Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -1956,8 +1878,6 @@ danaH* = (subsisting on) whatever falls on hand; *mukhaadaanaH* = whatever comes
 "Without seeing Seetha subsisting on whatever falls on hand, whatever comes to mouth, being self
 restrained I will become a hermit living on trees and herbs at a region near ocean which has many roots, fruits
 and much water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2004,8 +1924,6 @@ here; *dharmaatmaanau* = those virtuous ones; *mahaa rathau* = those great warri
 
 "I while not going, being here those virtuous ones, those great warriors those two Rama and Lakshmana
 will live by hope. Vanaras also who are agile will live."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2021,8 +1939,6 @@ will live by hope. Vanaras also who are agile will live."
 
 "Or I will enter fire which is glowing after making a funeral pile or while sitting performing
 fasting onto death my body will be eaten by crows and by beasts of prey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2072,8 +1988,6 @@ aapaH* = lot of water.
 
 "This way to giving up body has been seen by sages. This is my opinion if I do not see Seetha,
 I will enter lot of water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2123,8 +2037,6 @@ of glory; *chiraraatraaya* = of long time; *sujaatamuula* = with a strong founda
 
 "Not seeing Seetha, my garland of glory of long time with a strong foundation, beautiful one together
 with fame has been destroyed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2172,8 +2084,6 @@ with fame has been destroyed."
 
 "I will become a hermit who is self restrained resorting to trees and herbs, I will not go from
 here not seeing Seetha with black eyes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2245,8 +2155,6 @@ _________________
 
 "If I go back from here without knowing that Seetha, there will not be Angada together with all
 those Vanaras."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2262,8 +2170,6 @@ definite; *jiivitasamgaaH* = for the meeting of people who are alive.
 
 "There are lots of blemishes in dying; one who is alive sees auspicious things. For that reason
 I will keep my life. It is definite for the meeting of people who are alive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2312,8 +2218,6 @@ mind; *bahuvidham duHkham* = sorrow of various kinds; *muhuH* = again and again;
 
 Hanuma carrying in mind sorrow of various kinds again and again did not get then the crossing of
 sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2387,8 +2291,6 @@ Ravana; *saagaram uparyupari* = over the surface of ocean; *upaharishhyaami* = I
 
 "Otherwise carrying this Ravana over the surface of ocean I will take him to Rama like an animal
 to the lord of animals."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2439,8 +2341,6 @@ _________________
 
 "Otherwise I will kill Ravana with ten heads, with great prowess. Whatever happened to the stolen
 Seetha, this will be revenge to that."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2455,8 +2355,6 @@ Seetha, this will be revenge to that."
 
 Hanuma not seeing that Seetha thus begetting sorrow, thought with a mind cluttered with thoughts
 and sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2537,8 +2435,6 @@ there; *vichinomi* = I will search; *etaam laN^kaam puriim* = the city of Lanka;
 
 "To wherever I see Seetha, the wife of Sri Rama and one with fame, till there I will search the
 city of Lanka again and again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2552,8 +2448,6 @@ city of Lanka again and again."
 **अनुवादः**
 
 "Based on words of Sampati if I bring Sri Rama then Sri Rama not seeing wife will burn all Vanaras."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2633,8 +2527,6 @@ naravaanaraaH* = those men and vanaras; *na vinasheyuH* = let they not be destro
 
 "With limited food and with restrained senses, I live here itself. By my deed those men and vanaras
 - let they not be destroyed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2649,8 +2541,6 @@ naravaanaraaH* = those men and vanaras; *na vinasheyuH* = let they not be destro
 
 "Whatever this Ashoka garden with great trees is being seen this I will obtain. This has not been
 searched by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2701,8 +2591,6 @@ api cha* = seven maruts; *gamishhyaami* = I will go; *shokavardhanaH* = to incre
 
 "Saluting the eight Vasus, Rudras and Adityas, the two Aswinis, seven Maruts, I will go to increase
 the grief of Rakshasas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2752,8 +2640,6 @@ _________________
 
 "Defeating all rakshasas, I will give Seetha, who gives happiness to Ikshvaaku dynasty to Sri Rama
 as the fruit of austerity to an ascetic."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2817,8 +2703,6 @@ tied by grief; *dhyaatvaa* = meditating; *muhurtam iva* = for a moment.
 **अनुवादः**
 
 The gloried son of Vayu that Hanuma got up with his senses tied by grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2840,8 +2724,6 @@ of Janaka; *devyai* = who is divine namaH astu = let there be salutations; *rudr
 
 "Let there be salutations to Sri Rama together with Lakshmana, also to that, who is divine let
 there be salutations. To Rudra, Indra, Yama and Vaayu let there be salutations."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2893,8 +2775,6 @@ dishaH* = all directions; *gataH* = went; *ashokavanikaam* = towards Ashoka gard
 
 That Hanuma saluting to all those and also to Sugreeva, observing all directions went towards Ashoka
 garden.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2944,8 +2824,6 @@ to be done later.
 
 The son of Vayu, that Vanara went by mind before itself toward that Ashoka garden. The auspicious
 one pondered the task to be done later.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -2995,8 +2873,6 @@ samskR^itaa* = adorned with various cultures; *puNyaa* = and sacred.
 
 "The Ashoka garden definitely will be with many rakshasas, filled with trees, adorned with various
 cultures and sacred."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -3049,8 +2925,6 @@ small; *raamaadhe* = for the sake of Sri Rama; *ravaNasya cha* = and (to avoid) 
 
 "There definitely guards will be protecting assigned, trees, omnipresent Lord Vayu also will be
 blowing by without force, and by me this body has been made small for the sake of Sri Rama and to avoid Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -3166,8 +3040,6 @@ ghocharaaH* = exist; *pathi* = in the path; *daasyanti* = may give; *sidhhim* = 
 devas and Agni and Vaayu, Devendra wearing the weapon of Vajra and Varuna with Pasha in hand and also the Sun
 and the moon and the aswinis. The great ones Maruts and Eshwara may give my success. Whoever is the lord of all
 living creatures among all living beings others who being unseen exist in the path may give success to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -3225,8 +3097,6 @@ full moon.
 
 "When will I see that noble face with a high nose, with white teeth without any injuries with a
 bright smile, with eyes resembling lotus petals with sight equaling the splendor of clear full moon?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 </details>
 
@@ -3286,8 +3156,6 @@ my sight; *adya* = today.
 
 "How that powerless Seetha, a helpless one, forcefully taken away by the mean vile Ravana with
 a cruel action, with a horribly decorated form will fall in the range of my sight today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ seeing his army seriously hurt, Indrajit releases a number of arrows and kills s
 destroys some terrible demons with trees and rocks. Later, Hanuma along with his army returns to
 the presence of Rama. Indrajit pours oblations into the sacred fire at the santuary of
 Nikumbhila.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ directions.
 
 Hearing that terrific roar, similar to the sound of Indra's thunderbolt, the monkeys
 looking hither and thither, ran away in all directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -139,8 +135,6 @@ looking hither and thither, ran away in all directions.
 
 "O, monkeys! Why are you running away, looking dejected and leaving your zeal to
 fight? Where has your valour gone?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -182,8 +176,6 @@ indeed not proper; *nivartitum* = to shrink back.
 
 "Come along closely behind me, while I am marching ahead in the battle. For the
 valiant who are born in a good family, it is not indeed proper to shrink back from the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ chaiva* = and trees; *snsamkruddhaaH* = in a great fury together.
 
 Hearing the words of that wise Hanuma, the monkeys in a cheerful mood, took hold of
 mountain-peaks and trees in a great fury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ Hanuma; *mahaahave* = in that great battle.
 
 The foremost of monkeys, while roaring, rushed towards the demons. They followed
 him, by surrounding Hanuma on all sides, in that great battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ hutaashanaH iva* = like a flaming fire.
 
 That Hanuma, being surrounded by those monkey-chiefs on all sides, began to consume
 that army of adversaries as a flaming fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -353,8 +339,6 @@ yamopamaH* = like Yama the lord of death does at the time of universal dissoluti
 
 That Hanuma, accompanied by his army of monkeys, brought about the destruction of
 demons, as Yama the lord of death does at the time of universal dissolution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -401,8 +385,6 @@ monkey; *mahaa shokena* = with inordinate grief; *aaviShTaH* = and filled with;
 
 Filled with inordinate grief and rage, that Hanuma the monkey-chief, threw a large
 rock on Indrajit's chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -452,8 +434,6 @@ samaayuktaH* = yoked to obedient horses; *apavaahitaH* = was carried off;
 
 On seeing that rock rushing towards them, the obedient horses, yoked to that
 chariot, carried the chariot off to a far-distance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -501,8 +481,6 @@ into bits.
 
 That rock employed in vain, without reaching that Indrajit and his charioteer
 sitting in the chariot, split itself into fragments and penetrated the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -549,8 +527,6 @@ sitting in the chariot, split itself into fragments and penetrated the ground.
 
 The demons were very much bruised by the falling fragments of the rock. That army of
 demons was perturbed over the rock thus falling upon them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -591,8 +567,6 @@ demons was perturbed over the rock thus falling upon them.
 
 Hundreds of monkeys with their colossal bodies, lifting up trees and mountain-peaks,
 rushed roaring towards Indrajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -646,8 +620,6 @@ tones.
 Those monkeys of terrible prowess, threw trees and mountain-peaks towards Indrajit
 in battle. While shooting a large deluge of trees and rocks, the monkeys caused destruction of
 their enemies. They roared in various high tones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -694,8 +666,6 @@ appearance; *vyacheShTanta* = rolled about restlessly raNakShitau = in the battl
 
 Beaten forcibly with trees, by those highly terrible monkeys, those demons of
 frightful appearance, rolled about restlessly in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -743,8 +713,6 @@ his weapons; *yayau* = sallied forth; *abhimukhaH* = facing towards; *paraan*
 
 On seeing his army tormented by the monkeys, that enraged Indrajit, taking hold of
 his weapons, sallied forth, facing towards his enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -799,8 +767,6 @@ releasing; *sharaughaan* = a multitude of arrows; *jaghaana* = killed;
 
 That Indrajit, of firm fortitude, accompanied by his army, by releasing a multitude
 of arrows, killed a very many number of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -817,8 +783,6 @@ to mallets.
 
 In the battle, Indrajit's soldiers too killed the monkeys with spikes tips of
 missiles, swords, sharp-edged spears and concealed weapons similar to mallets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -871,8 +835,6 @@ excellent trunks and branches; *shilaabhishcha* = as with rocks.
 
 The mighty Hanuma played a havoc among demons of terrible deeds, with Shala trees,
 distinguished by excellent trunks and branches as with rocks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -922,8 +884,6 @@ hanumaan* = that Hanuma; *abraviit* = spoke; *taan vanaukasaH* = to those monkey
 
 Keeping the hostile army back, that Hanuma spoke to those monkeys as follows:
 "Retreat! This army need not be conquered any more by us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -965,8 +925,6 @@ killed.
 
 "That Seetha for whose sake we have fought so far, with a wish to do what is
 pleasing to Rama, making a special effort to win, risking our lives has been killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -1007,8 +965,6 @@ them; *pratividhaasyete* = are prepared to do in return.
 
 "Informing Rama and even Sugreeva about this matter, we shall do that which both of
 them are prepared to do in return."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -1055,8 +1011,6 @@ monkeys; *asamtrastaH* = with absence of fear; *sabalaH* = along with his army;
 
 Thus speaking and keeping back all the monkeys, Hanuma the chief of monkeys, with
 absence of fear, along with his army, gradually turned back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -1104,8 +1058,6 @@ Rama was; *duShTaatmaa* = the evil-minded; *saH* = Indrajit; *gataH* = went;
 
 Seeing Hanuma with drawing to the place where Rama was, the evil-minded Indrajit
 went to a sanctuary called Nikumbhila, seeking to pour oblations into the sacred fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -1171,8 +1123,6 @@ that occasion.
 Arriving at Nikumbhila, Indrajit poured oblations into the sacred fire. Thereupon,
 while being propitiated by that demon on reaching sacrificial ground, the sacrificial fire then
 blazed up on consuming the oblations of flesh and blood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1188,8 +1138,6 @@ propitiated with oblations of blood; *sutivraH* = the highly intense; *agniH* = 
 
 Swollen up when propitiated with oblations of blood, the highly intense fire, like
 the evening sun, appeared wrapped in flames.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 </details>
 
@@ -1241,8 +1189,6 @@ Then, Indrajit, well-versed with the technique of performance of rites for the
 prosperity of the demons, poured oblations according to the scriptural precepts. Seeing this, those
 demons, who knew what was prudent and evil in major battles, stood firm in big piles (by Indrajit's
 side).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1264,8 +1210,6 @@ frightened.
 
 Then, Hanuma the son of wind-god spoke (as follows) to all those monkeys, who were
 running away widely apart, looking dejected, miserable and frightened.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

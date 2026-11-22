@@ -20,8 +20,6 @@ that report will not survive. While reflecting thus, Hanuma sees some good omens
 that Seetha can survive from the harsh forces of fire by her virtues of penance and devotion to Rama.
 In the meantime, he hears of her safety from the lips of Charanas (celestial bards) and feels consoled.
 Hanuma makes up his mind to return only after seeing her again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ _________________
 
 Seeing the city of Lanka blazing, and frightened with its multitude of demons getting
 alarmed, Hanuma the monkey became thoughtful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -128,8 +124,6 @@ taken; *aatmani* = on himself; *kimsmit* = I wonder why; *idam* = this; *karma*
 
 A great anxiety entered his mind and there arose in him a feeling of self-contempt. He
 said to himself "What an admonitory act has bee done by me in burning Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ men; *yet* = who; *nirundhati* = restrain; *utthitam kopam* = their elevated ang
 
 "As a burning fire is extinguished with water, blessed indeed are those great-souled
 men of excellence, who in their wisdom, restrain their elevated fury."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -224,8 +216,6 @@ would not incur; *paapam* = sin?; *kruddhaH* = an enraged man; *hanyaat* = kills
 
 "Which enraged man would not incur a sinful act? An enraged person may even kill his
 elders. An enraged person may insult virtuous men with harsh words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -270,8 +260,6 @@ for an enraged person; *na asti* = there is no; *akaaryam* = improper at; *na vi
 "An agitated person ever does not know which appropriate words are and which are forbidden
 words to be uttered. For enraged persons, there is neither an improper act nor ever an improper word
 to be spoken."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ anger sprung up suddenly; *kSamayaiva* = by endurance alone; *saH vai* = he veri
 
 "As a serpent casts off its slough, whoever casts aside an intense anger sprung up in
 him suddenly by virtue of his endurance, he verily is said to be an excellent man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -366,8 +352,6 @@ to that Seetha; *svaami ghaatukam* = and became hurtful to me master.
 
 "Shame be upon me, the greatest sinner with utter foolishness and impudence, who became
 a fire-brand without giving thought to that Seetha and became hurtful to my master."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -417,8 +401,6 @@ _________________
 
 "If this whole Lanka for its part has been burnt, the worshipful Seetha too has surely
 been burnt. Thus, I have spolt the purpose of my lord inadvertently."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -468,8 +450,6 @@ _________________
 
 "That purpose for which all this effort was taken, has been spoilt. At the time of burning
 the city, I have not saved Seetha indeed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -521,8 +501,6 @@ doubt.
 "This task (of burning Lanka) has been fulfilled by me and it has been completed only
 with a small effort. Overpowered as I was with anger, the very root of that fulfillment has been destroyed
 by me. There is no doubt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -572,8 +550,6 @@ _________________
 
 "The entire Lanka has been reduced to ashes. No place is seen unburnt in this City. Therefore,
 Seetha also must have been surely lost."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -623,8 +599,6 @@ prajJNaaviparyayaat* = due to my perverted intelligence; *rochate* = it is appro
 
 "If this task has been spoiled due to my perverted intelligence, it is appropriate even
 for me, here and now itself, to give up my life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -674,8 +648,6 @@ _________________
 
 "Shall I jump into fire now or into the mouth of a submarine fire? Or shall I give up
 my body as a feed to the marine animals?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ Rama and Lakshmana; *puruSa shaarduulau* = the best among men?
 
 "By me who has ruined the entire task, how can I, even while remaining alive, see Sugreeva
 the Lord of monkeys or Rama and Lakshmana the best of men?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -775,8 +745,6 @@ _________________
 
 "Due to culpability of my anger, I have indeed shown this apishness that is famous for
 instability in the three worlds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -827,8 +795,6 @@ passionate way of thinking; *aniisham* = which is helplessness; *anavasthtam* = 
 "Let there be shame upon the passionate way of my thinking, which breeds helplessness
 and instability. fir, eventhough capable as I am, Seetha could not be saved by me due to my exciting
 passion of anger."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -878,8 +844,6 @@ death happens; *sugrrivaH* = Sugreeva; *sabandhuH* = along with his associates; 
 
 "If Seetha dies, those two princes, Rama and Lakshmana will die. If their death occurs,
 Sugreeva along with his associates will also die."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -929,8 +893,6 @@ affectionate to his brother; *shakSyat* = will be able; *jiivitum* = to survive 
 
 "How can the virtuous Bharata together with Shatrughna, who are affectionate to his brother,
 survive after hearing this news?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -980,8 +942,6 @@ and affliction.
 
 "When the virtuous Ikshvaku dynasty perishes, all the people will undoubtedly be tormented
 with anguish and affliction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1031,8 +991,6 @@ roSadoSa pariitaatmaa* = having my mind filled with culpability of anger; *vyakt
 
 "Therefore, I, the unfortunate being, deprived of the values of duty and interest, with
 my mind filled with culpability of anger, clearly became the destroyer of the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1082,8 +1040,6 @@ _________________
 
 While thinking thus, Hanuma clearly saw some omens, whose welcome-results had already
 been directly experienced by him and again thought (as follows);
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1133,8 +1089,6 @@ na pravartate* = doe no do injury agnau = into fire.
 
 "Or else, Seetha the auspicious lady, who is completely charming of her limbs and protected
 by her own effulgence, does not get destroyed. Fire does not indeed destroy fire!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1179,8 +1133,6 @@ _________________
 *taam* = her; *bhaaryaam* = the wife; *tasya* = of that Rama; *dharmaatmanaH*
 = the virtuous man; *amita tejasaH* = having unlimited splendour; *svachaaritraabhiguptaam*
 = and protected by her own good conduct.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1230,8 +1182,6 @@ _________________
 
 "If this fire with its burning nature is not igniting me, it is surely due to the power
 of Rama and the benevolence of Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1281,8 +1231,6 @@ with Bharata; *manaH kaantaa* = and dear to the heart; *raamasya* = of Rama; *vi
 
 "How should that Seetha, who is a godhead for the three brothers (of Rama) starting with
 Bharata and who is dear to the heart of Rama perish?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1332,8 +1280,6 @@ it burn; *aaryaam* = the venerable Seetha?
 
 "This fire, which spreads everywhere without any hindrance, is not burning my tail. How
 can it burn the venerable Seetha?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1377,8 +1323,6 @@ sea-water; *tatra* = there.
 
 Hanuma then recalled with wonder the sight of Mount Mainaka (having gold in its cavities)
 in the midst of sea-water there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1428,8 +1372,6 @@ agnim* = the fire; *tapasaa* = by her penance; *satyavaakyena* = by her true spe
 
 "That Seetha can even burn away the fire by her penance, true utterances and undivided
 devotion towards her husband. Fire does not ignite her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1479,8 +1421,6 @@ mahaatmanaam* = of the high-souled; *chaaraNaanaam* = charanas (heavenly bards).
 
 Hanuma, who was thus thinking there about the overpowering virtue of Seetha, happened
 to hear the words of the high-souled charanas (heavenly bards).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1530,8 +1470,6 @@ act.
 
 "Alas! Hanuma, who hurled a very terrific fire into Ravana's house, has indeed done a
 difficult act."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1581,8 +1519,6 @@ its mountain-caves.
 
 "The city of Lanka, full of demons their wives, children and elders running hither and
 thither, as also filled with an uproar of people, appears as if it weeping through its mountain-caves."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1604,8 +1540,6 @@ burnt.
 
 "It is just so surprising a marvel to us that the entire City with its market-places,
 ramparts and arched door-ways, was burnt, but Seetha alone was not burnt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1655,8 +1589,6 @@ with their apparent advantages; *mahaagnNaiH* = with very high qualities; *kaara
 
 That Hanuma became delighted in his mind, by seeing the omens, with their apparent advantages
 in them and very high qualities of their origin as also the words of those sages.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 
@@ -1709,8 +1641,6 @@ pratiprayaaNaaya* = to return; *dR^iSTvaa* = after seeing; *taam* = her; *pratya
 
 Then, Hanuma, having fulfilled his object of desire by learning that Seetha the princess
 remains uninjured, made up his mind to return only after seeing her personally yet again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
 </details>
 

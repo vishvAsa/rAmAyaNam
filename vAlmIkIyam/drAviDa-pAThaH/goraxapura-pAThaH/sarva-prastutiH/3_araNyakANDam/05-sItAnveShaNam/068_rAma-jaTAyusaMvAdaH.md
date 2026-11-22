@@ -17,8 +17,6 @@ Jataayu names Ravana as the abductor of Seetha while breathing his last. Though 
 say what all has happened, the Time called death takes him away, at such a time when the important information
 is about to be said to Rama. Receiving that much information at least, Rama consigns Jataayu to funeral
 fire, like his own relative and performs other rites, and then proceeds for searching Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ sampannam saumitrim* = friendly, asset - who has the assets of companionability,
 
 Rama on seeing that eagle felled to ground by the atrocious Ravana, said this sentence to Soumitri who
 is an asset for good companionability. [3-68-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ to cast off - lives]; *praaNaan tyajati* = lives, leaves; *nuunam* = definitely.
 
 "While this bird is venturing in my concern the demon felled him in combat and he is leaving off his
 lives owing to me, definitely... [3-68-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -168,8 +162,6 @@ is being seen by us - he appears.
 
 "Obviously, lives in his body are very feeble, oh, Lakshmana, it is natural, isn't it, and he looks
 highly anguished with a dulled voice..." Thus on saying to Lakshmana, Rama then spoke to Jataayu. [3-68-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -216,8 +208,6 @@ relate, too.
 
 "Oh, Jataayu, if you are in fine fettle to further reiterate words, relate about Seetha, let safe betide
 you, and recount how you are murdered, too... [3-68-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ what, wrong is committed; *yam dR^iSTvaa* = which, keeping in view; *priyaa raav
 
 "What is the reason for Ravana in stealing that noblewoman, and even what is the wrong I have committed
 in his respect, keeping which in view that Ravana stole my ladylove... [3-68-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ mukham* = that, face - of Seetha; *katham aasiit* = how, it was - when abducted;
 
 "How was that moon similar heart-stealing face of hers at that time of abduction, oh, best bird, and
 even what are the words she uttered when being abducted... [3-68-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -364,8 +350,6 @@ kva ca* = his, residence [stronghold,] where is it, also; *taata* = oh, sire; *p
 "What is his stamina of that demon? What is his form? And what are his strategies? And where is his
 stronghold? Oh, sire, tell me while I ask you inquisitively..." Rama urged Jataayu thus for information.
 [3-68-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -415,8 +399,6 @@ to Rama, this, sentence, said.
 
 Then that warm-hearted Jataayu with his eyes rolling upwards saw Rama and with a fluttery voice said
 this sentence to Rama who is wailing like an orphan. [3-68-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -468,8 +450,6 @@ the flagitious chief of demons Ravana abducted Seetha... [3-68-9]
 
 Annex: 'he created such illusion only to render me unsteady in my flight combat... and for his escape
 in the dark of the day...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ pra yaataH* = went away.
 
 "That night walker hacked both my wings when I was overtired, and went southward taking the princess
 of Videha, Seetha, along with him... [3-68-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -573,8 +551,6 @@ grass as their treetops... [3-68-11]
 The cuscus grass is the aromatic fibrous root of an Indian grass, Vetiveria zizanaoides, used for making
 fans, screens, etc., Urdu kaskas. This odd combination of trees of gold, instead of wood, and grass
 instead of leaves, is an omen of death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -654,8 +630,6 @@ muhuurtaaH | gargamarendraadi muniidraadibR^indaiH te ninditaaH karmasu bindasa~
 *Any action initiated in this spell of the day entails adverse effects, in so far as that aim and
 action of the initiator. Ravana, though an eminent astrologer, and though he is said to have written
 an astrological treatise called *raavaNa samhita*, did not care about it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -670,8 +644,6 @@ an astrological treatise called *raavaNa samhita*, did not care about it.
 
 "On stealing your ladylove Janaki, that chief of demons, Ravana, will ruin himself, as with a fish which
 swallows a baited fishhook... [3-68-13b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -713,8 +685,6 @@ of; *tam kSipram* = hatvaa = him [Ravana,] in no time, on killing; *vaidehyaa ra
 "Impractical is your anguishing for the daughter of Janaka, as you will delight yourself with Vaidehi
 in no time, on killing that Ravana in the vanguard of a war..." Thus saying Jataayu paused for a while.
 [3-68-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -761,8 +731,6 @@ in no time, on killing that Ravana in the vanguard of a war..." Thus saying Jata
 
 Though Jataayu is speaking on to Rama with an alert mind, blood freely flowed from his mouth with shreds
 of flesh as death verged on him, even then he struggled to say. [3-68-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -824,8 +792,6 @@ that Seetha blesses Jataayu to live until Rama comes to him, and listens form Ja
 stipulate as to how much Rama has to listen or how much Jataayu has to report. *devii maa~N praahaH
 raajendra yaavat sambhaaShaNam mama | bhavataH taavat aasan me praaNaa iti aaha jaanakii ||* Maheshvara
 Tiirtha. So, the bird called life flew away for bird Jataayu...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -873,8 +839,6 @@ thin air; *jagmuH* = went away.
 
 But the lives of Jataayu departing from his body went into thin air before the very eyes of Rama who
 is still speaking to him with folded-palms, "tell... tell more..." [3-68-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -924,8 +888,6 @@ papaata* = collapsed.
 
 Jataayu flopped his head on earth, sprawled his feet on ground, and then his body collapsed onto the
 surface of earth writhing jerkily. [3-68-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -973,8 +935,6 @@ prekSya* = him, eagle, on seeing; *saumitrim [idam ]abraviit* = to Soumitri, [th
 
 He who is worsened by very many mishaps that Rama, on seeing the mountainous eagle whose eyes are bloodshot
 and whose lives have gone, said this way to Soumitri... [3-68-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1021,8 +981,6 @@ sukham bahuuni varSaaNi vasataa* = happily [fearlessly,] many, for years togethe
 
 "This bird which for years together lived fearlessly in Dandaka forest, a habitat of demons, that bird
 wilted to death, because of me... [3-68-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1071,8 +1029,6 @@ wilted to death, because of me... [3-68-20]
 "He who has longevity over many years, who actively strived for a long for rectitude, he is now killed
 and prostrating before the Time, because of me... alas... it is indeed impossible to infringe the Time...
 [3-68-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1119,8 +1075,6 @@ brute-forced, by Ravana, is slain; *pashya* = you see.
 
 "Lakshmana, this eagle which has dashed to rescue Seetha in order to render help to me is slain by that
 brute-forced Ravana, only because of me, you see... [3-68-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1166,8 +1120,6 @@ hetoH* = for my, sake - on my account; *praaNaan mumoca* = lives, released [aban
 
 "On abandoning great empire of eagles belonging to his father and forefathers this lord of bird has
 now abandoned his lives too, only for my sake... [3-68-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1214,8 +1166,6 @@ gone in, even in; *dR^ishyante khalu* = are noticeable, really.
 
 "Universally noticeable are the protective, prepotent, principled ones that are the followers of probity,
 oh, Soumitri, even though their births are avian or bestial... [3-68-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1257,8 +1207,6 @@ thus, obtained [or, tathaa vidham = that, kind of - that much]; *na* = it is not
 
 "To me, oh, enemy-inflamer, oh, gentle Lakshmana, anguish caused by Seetha's abduction is not that much,
 when compared with the anguish caused by the perish of this eagle, that too, because of me... [3-68-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1305,8 +1253,6 @@ venerable; *maanyaH ca* = honourable, also; *tathaa* = likewise; *ayam patageshv
 
 "As to how the celebrated and highly renowned king Dasharatha is venerable and honourable for me, likewise
 this lord of birds is also a venerable and honourable one to me... [3-68-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1357,8 +1303,6 @@ The fire produced in ritual acts is called *araNi *where a small concavity is ma
 pointed end to the other, and this pointed end is rubbed in churning mode in the concavity of the other
 stick, and then both the dry wood-sticks give out a small fire, which then is taken on cotton, to lit
 a huge pyre.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1407,8 +1351,6 @@ demon, killed; *imam* = this one; *pataga lokasya naatham* = birds, of realm, lo
 
 "Oh, Soumitri, I will mount this lord of realm of birds onto the pyre and cremate him who is killed
 by a feral demon..." Thus saying to Lakshmana, Rama said this to dead eagle Jataayu. [3-68-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1541,8 +1483,6 @@ sa~Nvibhaati vishuddha sattvaH kaamayate yaashca kaamaan | tam tam lokam jayate 
 aatmaj~nam hi arcayet bhuuti kaamaH - bhaaShyam - ukta lakShaNam sarvaatmanam aatmatvena pratipannaH
 | tasya sarva aatmatvaat eva sarvaa avaapti lakShaNam phalam aaha - - - aatmaj~nam aatmaj~natena vishuddha
 antaHkaraNam hi arcet puujayet - ataH puujaarha eva asau |*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1590,8 +1530,6 @@ antaHkaraNam hi arcet puujayet - ataH puujaarha eva asau |*
 On saying that way, that ethical-souled Rama mounted that lord of birds onto the pyre and he sorrowfully
 incinerated that eagle in a flaring fire of pyre, as he would do in respect of his own deceased relative.
 [3-68-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1651,8 +1589,6 @@ the bird; *saH* = he; *anutastaara* = spread sacred grass - to place offerings.
 Then that resolute Rama on going into forest along with Soumitri hunted a robust-bodied, big Rohi animal,
 or, Kesari animal, and then he spread sacred grass on ground to place that offering to the deceased
 soul of that bird. [3-68-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1669,8 +1605,6 @@ on pastures; *shakunaaya dadau* = for the bird [Jataayu,] gave [as offering.]
 On drawing up the flesh of that Rohi animal and lumping it to gobbets, that highly observant Rama placed
 those gobbets on pleasant greenish pasturelands as obsequial offerings in respect of that bird Jataayu.
 [3-68-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1737,8 +1671,6 @@ human level; hence, Rama's action is clearly pro-Vedic. And in Vaishnavaite tene
 into one - Vishnu. 'the adherents of Vishnu, may it be an animal, like Gajendra, the elephant, or humans,
 like Shabari et al., or a bird, like Jataayu, by Him, by Vishnu alone, they are led to the Ultimate
 course of the realm of Vishnu...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1785,8 +1717,6 @@ on going; *tasmai gR^idhra raajaaya* = for him, to eagle's, for king; *udakam ca
 
 Then both the sons of that notable man, namely Dasharatha, on going to River Godavari they have oblated
 waters for that king of eagles, Jataayu. [3-68-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1836,8 +1766,6 @@ udakam cakruH* = for eagle's, king, waters, made [offered.]
 
 Both of the Raghava-s took funeral baths in the waters of River Godavari and then made water oblations
 to the king of eagles. [3-68-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1893,8 +1821,6 @@ gatim jagaama* = to [heavenly] realms, went away.
 That king of eagle Jataayu, who has performed a creditworthy deed of stalling and combating Ravana,
 but who is felled by that Ravana, went away to the merited and auspicious heavenly realms of his own,
 as and when consecrated by sublime sage like Rama. [3-68-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 </details>
 
@@ -1951,8 +1877,6 @@ like; *[ellipt. dakshiNaam ] vanam jagmutuH* = to [southern] woods, went.
 Even those two, Rama and Lakshmana, on performing water oblations in respect of that best bird Jataayu,
 and on assertively giving thought to the information given by Jataayu, they like the chiefs of gods,
 namely Vishnu and Indra, went to southerly woods when their mind is set to search for Seetha. [3-68-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

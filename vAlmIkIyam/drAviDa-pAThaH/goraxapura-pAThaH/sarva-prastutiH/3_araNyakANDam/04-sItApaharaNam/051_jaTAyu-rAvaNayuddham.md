@@ -20,8 +20,6 @@ In combating with Ravana, Jataayu shatters Ravana's bows, arrows, and chariot an
 the chariot and plucks off the head of the charioteer with his beak. Further Jataayu attacks on the
 body of Ravana lacerating severally. Enraged at the bird-hits Ravana severs that eagle's wings, feet,
 and sides. Then seeing that fallen eagle Seetha weeps over, as if Jataayu is her own relative.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -85,8 +83,6 @@ another type of rendering for this verse is available in other versions, which r
 yathaa nyaayam raavaNasya jaTaayuShaa | kruddhasya agni nibhaaH sarvaa rejuH vimshati dR^iShTayaH ||*'thus
 when Jataayu spoke to Ravana in judicious words, all the twenty eyes of infuriated Ravana are torched,
 like torchlit fires...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -136,8 +132,6 @@ fight; *gagane* = in sky; *vaata* = by gust, ud dhatayoH = up, heaved; *meghayoH
 
 As with two gigantic clouds up-heaved by the tornadic gusts will be hard hitting each other tempestuously
 in sky, the combat between those two, Ravana and Jataayu, became tempestuous in the sky. [3-51-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -193,8 +187,6 @@ another commentator said that one is in Dandaka forests and the other is nearby 
 to be no second Mt. Maalyavanta and the poet seems to be taking one mountain and mirroring it, and thus
 saying that if two selfsame mountains were to confront, then it will be disastrous. This is to narrate
 the equivalence between their courage and strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 
 </details>
@@ -244,8 +236,6 @@ stormed.
 Then the great-mighty Ravana incessantly stormed the lord of eagles Jataayu, with arrows that have excruciating
 and highly dreadful arrowheads, like tubular arrows, iron arrows, and with arrows that have crescentic
 arrowheads. [3-51-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -291,8 +281,6 @@ arrays of; raavaNa astraaNi Ravana's, missiles [arrows]; *prati jagraaha* = rece
 
 That eagle Jataayu who is the lord of winged-chariots, namely birds, in turn sustained those arrays
 of Ravana's arrows in that combat. [3-51-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -333,8 +321,6 @@ made.
 
 But that great-mighty Jataayu severally made gashes on the body of Ravana with his two feet that have
 gashing claws for that bird is with best stamina. [3-51-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -384,8 +370,6 @@ shatroH nidhana kaankSayaa* = his enemy's, elimination, wishful of; *mR^ityu daN
 
 Now the Decahedral demon Ravana infuriately took up ten deadly arrows that are similar in their shine
 to the Shafts of the Terminator, wishful of the elimination of his enemy. [3-51-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -437,8 +421,6 @@ _________________
 
 That highly energetic Ravana released and impaled the eagle with straight shooting arrows on fully stretching
 the bowstring up to his ear, whose steel-pointed arrowheads are sharp, hurtful, and deadly. [3-51-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -485,8 +467,6 @@ dravat* = swiftly, towards, flowed [lunged forcefully.]
 
 That Jataayu on seeing teary-eyed Jaanaki in the chariot of the demon forcefully lunged towards that
 demon heedless of arrows that are lunging at him. [3-51-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -534,8 +514,6 @@ babhanja* = with pair of feet, shattered.
 That unexcelled bird of high refulgence then shattered Ravana's bow which is decorated with pearls and
 gemstones, and on which an arrow is admitted targeting the eagle, just by the pair of his bare feet.
 [3-51-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -584,8 +562,6 @@ now, in thousands; *shara varSaaNi vavarSa* = arrow, storms, stormed.
 
 Ravana convulsed in anger then took up another bow and stormed hundreds and thousands of arrow storms.
 [3-51-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ iva* = a bird, like; *babhau* = shone forth.
 
 Nested in the arrows shot by Ravana that lordly bird Jataayu then shone forth in that combat like a
 bird that obtains a readymade nest. [3-51-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ babhanja* = with both feet, shattered.
 
 On winnowing those arrays of arrows with both of his wings, he that highly refulgent Jataayu shattered
 the mighty bow of Ravana with both of his feet. [3-51-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -740,8 +712,6 @@ in its flare, with both of his feet. [3-51-14]
 The word used here for armour is *sharaavara *and for this Pt. Satya Vrat says: 'Another word
 which is also not noticed by Monier Williams is *sharaavara. *It means an armour *kavaca
 *and occurs at least twice in the Ramayana...' i.e., here and at 3-64-49 of this canto.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -791,8 +761,6 @@ mules, also; *samare jaghaana* = in combat, killed [knocked off.]
 
 Mighty Jataayu also knocked off the ghost-faced mules yoked to the chariot of Ravana which are covered
 in golden armours and tantivy in fastness. [3-51-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -844,8 +812,6 @@ Then that great-chariot which is flourishing with three bamboos from chassis to 
 just by its steersman's wish, and which is crafted fantastically with gem-studded body and stairs, or,
 whose wheels are crafted with gold and gemstones, and which in its flare is like a Ritual-fire, Jataayu
 splintered down even that chariot of Ravana. [3-51-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 
 </details>
@@ -895,8 +861,6 @@ also; *vyajanaiH saha* = white-fur-royal-fans, together with; *graahibhii raaksh
 
 Jataayu swiftly collapsed the parasol of Ravana which in shine is mirroring the full moon, along with
 the regalia of white-royal-fur-fans, together with the demons handling them for fanning Ravana. [3-51-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -912,8 +876,6 @@ one; *pakshi raajaH* = bird's, king, Jataayu; *asya* = his [Ravana's]; *saarathe
 
 Again that highly energetic and imposing king of birds pecked off the robust head of the charioteer
 of Ravana with beak. [3-51-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -969,8 +931,6 @@ aadaaya vaidehiim*
 can be expressed in two ways, one is like the usual villain's grabbing by torso, and the other is like
 an ardent devotee of Goddess Lakshmi, keeping her on his torso. This is similar to the method adopted
 by Viraadha while handling Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1020,8 +980,6 @@ _________________
 
 On seeing Ravana who is foundered onto earth from his crumbled vehicle, all beings like sylvan deities,
 caarana-s, siddha-s and suchlike, reverenced that lordly eagle Jataayu. [3-51-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1065,8 +1023,6 @@ hR^iSTaH* = Ravana, gladdened; *maithiliim gR^ihya* = Maithili, on taking; *puna
 
 But on seeing the commandant of birds Jataayu is fatigued owing to his senescence, Ravana is gladdened
 and he again rose up to skies taking Maithili. [3-51-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1130,8 +1086,6 @@ The highly resplendent king of eagles Jataayu swiftly rose to sky dashing practi
 which demon's assault devices are all demolished by now save for a single sword, but who is cheerful
 to spirit away the daughter of Janaka, and actually spiriting away holding her onto his flank, and Jataayu
 spoke this to such Ravana. [3-51-22, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1181,8 +1135,6 @@ bhaaryaam* = Rama's, who is wife of; *enaam* = her; *rakSasaam vadhaaya harasi k
 
 "You mean-minded Ravana, you abduct her whose husband wields arrows that touch off like the Thunderbolt
 of Indra, and this spite of yours is definitely for the destruction of all the demons. [3-51-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1230,8 +1182,6 @@ of venom]; by undertaking this you; *viSa paanam pibasi* = venom, drink, you dri
 "As one thirsteth drinketh water, you drinketh venomous drink along with your friends, relatives, ministers,
 armies, and with your accomplices, as this abduction of Seetha itself is squirrelling away dangerous
 poison. [3-51-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1279,8 +1229,6 @@ poison. [3-51-25]
 "As with the mindless adventurers quickly getting ruination for they undertake self-ruinous exploits,
 unknowing the backlashes thereof, so also you too will ruin that quickly with this mindless adventure.
 [3-51-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1339,8 +1287,6 @@ in its throat, which the fish can neither vomit nor swallow. Thus, it is destine
 you bit the baited hook called Seetha and running away with that bait and hook around your neck, thereby
 the Terminator has already lassoed His noose around your neck, and perchance you may presently abscond
 from this hermitage, but not from that noose, called Rama's arrow, for a long time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1390,8 +1336,6 @@ dharSaNam* = this, of hermitage, assailing; *jaatu* = at anytime; *na kSamiSyete
 
 "But, oh Ravana, the unassailable Raghava-s of Kakutstha dynasty will nevermore condone your assailing
 this hermitage. [3-51-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1439,8 +1383,6 @@ ones]; *na eSa* = not, this [thieving] is.
 
 "Like a dastard you are committing a crime of thieving Seetha when none at home in the footsteps of
 thieves, this thieving is contemptible to society and condemnable by valiant ones. [3-51-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1497,8 +1439,6 @@ away, and at his hand you will be slain and sprawling on earth in the same way a
 This verse is a repeat of verse at 3-50-23, and such iterations are not for want of paucity of verses
 or verbiage, but they are reckoned as the determination of the character to express his/her stance in
 similar terms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1545,8 +1485,6 @@ ruination; *pratipannaH asi* = obtained [undertaking,] you are, [fateful.]
 
 "A person undertakes such an unrighteous and fateful activity if only death looms large on him. You
 too have undertaken this unrighteous fateful activity only for your self-ruination. [3-51-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1594,8 +1532,6 @@ too have undertaken this unrighteous fateful activity only for your self-ruinati
 "If sin is consequential to any given activity who will undertake it? Even if that person vies with
 the Self-Born God and Lord of the Universe, namely Brahma, will he undertake it?" Thus Jataayu advised
 Ravana. [3-51-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1649,8 +1585,6 @@ ni papaata* = down, fallen - descended on.
 Even on speaking those commonsensical words to Ravana, Jataayu found him carrying off Seetha heedlessly,
 then that valorous Jataayu descended on the hind-side of that Decahedral demon Ravana, devastatingly.
 [3-51-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1668,8 +1602,6 @@ elephant - an uncontrollable elephant that is running amok; *yathaa* = as with; 
 On clasping Ravana with incisive claws Jataayu lacerated deeply and rampantly, as a mahout, an elephant-trainer-controller,
 sitting astride on it will try to control an uncontrollable elephant that is running amok with an incisive
 goad. [3-51-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1719,8 +1651,6 @@ to pluck off.
 
 Weaponed only with his claws, wings, and beak, Jataayu not only tore the back of Ravana asunder applying
 his beak and claws, but started to tweeze even his hair. [3-51-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1768,8 +1698,6 @@ kampata* = severely, shuddered; or; *[pradakSiNena calanam* = on to his right, s
 His lips becoming intolerantly quivery when Ravana is exasperated by that king of eagles repetitiously,
 that demon staggered on to his right targeting the hovering eagle at his hind-side to fell it down.
 [3-51-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1819,8 +1747,6 @@ with [Ravana's] palm, hit back.
 
 Ravana who is aggrieved and convulsed in fury hit back Jataayu with his palm while firmly clutching
 Vaidehi onto his left flank. [3-51-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1868,8 +1794,6 @@ Vaidehi onto his left flank. [3-51-37]
 Jataayu, the lord of birds, being a vanquisher of enemies outstripped Ravana and ripped off ten left-arms
 of Ravana with his beak, with which left arms Ravana is clutching Vaidehi, in order to release her from
 his clutches. [3-51-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1916,8 +1840,6 @@ abhavan, instantly, became - sprang up, ricocheted.
 
 Though his arms are mutilated thus, they instantaneously ricocheted from his body like snakes possessing
 a series of venomous blazes sprawling out from a snake pit. [3-51-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -1965,8 +1887,6 @@ siitaam utsR^ijya* = Seetha, throwing off; *muSTibhyaam caraNaabhyaam ca* = with
 
 The valorous Decahedron Ravana then threw off Seetha, and out of fury he scuffled with the king of eagles
 with fisticuffs and kicks, by both his feet and fists. [3-51-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -2012,8 +1932,6 @@ sangraamaH babhuuva* = for some time, encounter, chanced.
 
 Then there chanced an encounter for some time between those two valorous ones with mutually outweighing
 capabilities, namely the chieftain of demons and the chief of the birds. [3-51-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -2061,8 +1979,6 @@ ca paarshvau ca* = wings, feet, also, sides, also; *acChinat* = hewed off.
 
 Ravana brandishing his sword at Jataayu, who is revolting for the sake of Rama, hewed off both of his
 wings, sides, and feet. [3-51-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -2108,8 +2024,6 @@ life; *sahasaa* = immedietly; *dharaNyaam ni papaata* = onto earth, down, fallen
 
 When that demon of cruel actions has ruptured his wings that colossal eagle Jataayu immediately fell
 down to earth with a lessened life. [3-51-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -2156,8 +2070,6 @@ down to earth with a lessened life. [3-51-43]
 
 On seeing Jataayu fallen on earth and dampened with blood Vaidehi fell into a fit of weeping and ran
 towards him as if he is her own relative. [3-51-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -2225,8 +2137,6 @@ The cloudy blackness is simile to the black feathers of the eagle, and to the ch
 wildfire. The whitely white colour is to the whitish feathers on the chest of the eagle, and to the
 white ashes overlaid on the charred material by wildfire, before they ashen. Thus, Jataayu fell down
 in a supine posture.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 </details>
 
@@ -2285,8 +2195,6 @@ Seetha is hugging Jataayu. 'Is it admissible or not...' is another debatable iss
 it may be handled...' is one adjustment, while the other is, 'when Jataayu is a personified entity and
 a friend of Dasharatha, this bird is as good as a man. So, Seetha's touching him shall be a taboo...'
 The commentators deal this aspect in the next chapter of this canto.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

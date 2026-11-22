@@ -15,8 +15,6 @@ title_english = "059 Dasaratha falls unconscious"
 
 Sumantra narrates the ghastly fate of Ayodhya, both its animate and inanimate
 beings. Dasaratha laments and soon falls unconscious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -80,8 +78,6 @@ way.
 
 "Rama having departed to the forest, horses on the return path however, shedding
 warm tears, did not proceed further on the way."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -98,8 +94,6 @@ putraabhyaam* = the princes; *dhaarayan* = keeping back; *tat* = that;
 
 "I, on my part, offering salutation with joined palms to both the princes and
 keeping back from that grief, ascended the chariot and moved on."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -149,8 +143,6 @@ I stayed; *tatraiva* = there only; *guhena saartham* = along with Guha;
 
 "With the hope that I shall be called again by Rama, I stayed there along with Guha
 for three days."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -200,8 +192,6 @@ emaciated due to Rama's separation.
 
 "Oh, emperor! Even trees in your domain have withered, without giving flowers
 sprouts and buds, having emaciated due to Rama's separation."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -247,8 +237,6 @@ cha* = and gardens; *pariSkupalaashaani* = were with their leaves; parched up.
 
 "Rivers, pools and lakes were with hot water. Groves and gardens were with their
 leaves, parched up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -295,8 +283,6 @@ shoka abhibhuutam* = predominated by grief towards Rama
 
 "Living beings are not moving. Wild animals too are not roaming around. That forest
 became silent, predominated by grief towards Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -345,8 +331,6 @@ disappeared.
 "Oh, emperor! Lotus-lakes were with lotus-leaves hiding under water pressing
 themselves closely together, with muddy waters, with parched lotus-flowers and in which fish and
 water fowls have completely disappeared."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -393,8 +377,6 @@ bhaanti* = do not have luscious look; *yathaa puram* = as before.
 
 "Water-born flowers and flowers living on dry lands now give very little fragrance
 and fruits do not have a luscious look as before."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -435,8 +417,6 @@ the birds have vanished; *na pashyaami* = I am not seeing; *aaraamaan* = the gar
 
 "Oh, best of men! The gardens here are empty of men and the birds have vanished. I
 am not seeing the gardens as charming (as before)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -483,8 +463,6 @@ breathing; *muhur muhuH* = again and again.
 
 "Nobody greeted me, entering into Ayodhya City. Having not seen Rama, the people are
 breathing their sigh of lamentation again and again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -535,8 +513,6 @@ with tears; *duHkhaat* = by grief.
 
 "Oh, emperor! Seeing the royal chariot returning here without Rama, all the people
 along the royal high-way are shedding tears with grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -584,8 +560,6 @@ by non-appearance of Rama."
 
 "Seeing the returned chariot, women from mansions, seven-storied buildings and royal
 palaces are crying �ha ha!', being troubled by the non-appearance of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -632,8 +606,6 @@ eyes; *ashru vega pariplutaiH* = overwhelmed with a flood of tears.
 
 "Women, being more sorrowful, are looking at each other indistinctly with their long
 bright eyes overwhelmed with a flood of tears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -682,8 +654,6 @@ in non-friends; *mitraaNaam* = friends; *udaasiina janasya* = and neutral people
 
 "I do not see any distinction in their agony, whether they are non-friends, friends
 or neutral people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -740,8 +710,6 @@ exhaustion to cries of pain; *vinihshvasita nihsvanaa* = filled with sounds of m
 horses looking miserable, with sighing exhaustion due to cries of pain, filled with sounds of
 moaning, cheerless and feeling anguish due to Rama's exile, appears to me, like Queen Kausalya
 without her son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -788,8 +756,6 @@ with tears; *parama diinayaa* = and very much woeful.
 
 Hearing Sumantra's words, the king in a voice choked with tears and very much
 woeful, spoke to that charioteer as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -836,8 +802,6 @@ counsel; *vR^iddhaiH saha* = and with elders.
 
 "Enjoined by Kaikeyi with her sinful birth and intention, I could not deliberate
 with people experienced in counsel or with elders beforehand."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -889,8 +853,6 @@ texts.
 
 "This act has been done by me in haste due to infatuation for the sake of a woman,
 without consulting with friends or ministers or with interpreters of sacred texts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -938,8 +900,6 @@ accidentally.
 
 "Oh, Sumantra! This great calamity, surely, has come as an inevitable consequence or
 for the ruin of this race or accidentally."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -987,8 +947,6 @@ me; *aashu* = fast; *raamam* = to Rama; *praaNaaH* = (my) vital spirits;
 
 Oh, sumantra! If at all I have done any favour to you, lead me fast to Rama. My
 vital spirits are hastening me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1035,8 +993,6 @@ brought back; *na shakSyaami* = I cannot; *jiivitum* = survive; *raamam vinaa*
 
 "If there is the same unlimited authority of mine even now, let Rama be brought back
 to Ayodhya. I cannot survive without Rama even for a moment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1083,8 +1039,6 @@ eva* = make me to ascend; *ratham* = the chariot; *shiighram* = quickly;
 
 "Or perhaps Rama the mighty-armed might have gone a long way. Make me to ascend the
 chariot and quickly show me to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1131,8 +1085,6 @@ saha* = with Seetha; *jiivaami* = I can survive.
 
 "Where is that Rama having pearl-like teeth and wearing a large bow? If only I can
 see him well with Seetha, I can survive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1179,8 +1131,6 @@ kSayam* = to the world of death.
 
 "If I cannot see Rama having red eyes, mighty arms and with ear-rings made of gems,
 I shall proceed to the world of Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1228,8 +1178,6 @@ I shall proceed to the world of Death."
 
 "What is more distressing to me after getting into this condition, in not seeing
 here, Rama who is a delight to Ikshvaku dynasty?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1276,8 +1224,6 @@ jaaniita* = you do not know; *maam* = me; *mriyamaaNam* = as dying;
 
 "Oh, Rama! Oh, Younger Brother of Rama! Oh, unfortunate Seetha! You do not know that
 I am dying with grief, like one abandoned."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1324,8 +1270,6 @@ difficult to be crossed; *abraviit* = spoke (as follows)
 
 King Dasaratha, his mind very much despaired with grief and plunged in an ocean of
 sorrow, very difficult to be crossed, spoke (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1406,8 +1350,6 @@ great sounds are cries of lamentation. The scattered hari is its duck-week. Kaik
 submarine fire. Which is the cause for the rush in my tears. The words of the hum-backed are its
 huge crocodiles. Its shores are the boons asked by the cruel Kaikeyi. Its long stretch is due to
 sending of Rama to far away place. I cannot cross this ocean alive, without Rama. What a pity!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1469,8 +1411,6 @@ couch.
 "Though I want to see Rama and Lakshmana now, I am not able to see them here. It is
 very bad." - thus lamenting, the king of great renown soon became unconscious and fell down on his
 couch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 </details>
 
@@ -1524,8 +1464,6 @@ words; *vilapati* = lamenting; *dviguNam ca* = as much as twice; *karuNataram*
 
 Hearing his words lamenting as much as twice more pitiably for Rama and the king
 having fallen unconscious, Kausalya was alarmed once again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

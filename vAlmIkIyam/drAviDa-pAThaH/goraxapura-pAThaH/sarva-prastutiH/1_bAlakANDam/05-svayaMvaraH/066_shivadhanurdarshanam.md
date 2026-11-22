@@ -22,8 +22,6 @@ of Hanuma through Jambavanta, elaborately. But here Valmiki informs through Jana
 about the nature of birth of Seetha, very concisely, which gave raise to too much
 of debate about this enigmatic Seetha and her birth. Some points are given in the
 endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -101,8 +99,6 @@ I am biddable by you, indeed.
 
 Oh, god, you are welcome, oh, holy sage, bid me as to what I should for you, for
 I am biddable by you, indeed... [1-66-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -151,8 +147,6 @@ When said thus by the foreseer Janaka, [who can foresee as to why Vishvamitra ca
 with Raghava-s this far, and thus asked him as to what next is to be done,] that
 sage Vishvamitra, for he is presager and wordsmith, [and who knows what is to be
 done next,] said these words in reply to that valiant king Janaka. [1-66-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -196,8 +190,6 @@ shreSTham* = desirous to see, marvellous bow; *yat etat tvayi tiSThati*
 
 These two are the sons of Dasharatha, well-renowned Kshatriya-s in world, and they
 are desirous to see that marvellous bow which has a place with you... [1-66-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -238,8 +230,6 @@ sons [two princes]; *darshanaat asya dhanuSaH* = by beholding, that, bow;
 
 You may show that bow, well bodes you, and on beholding that bow the desire of
 these two princes will come true, and they will go back as they like... [1-66-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -280,8 +270,6 @@ here, it has a place.
 
 But Janaka replied the great sage Vishvamitra when he was addressed thus, "I shall
 [firstly] tell by which reason that bow has its place here... [1-66-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ Some mms use the word *jyeSTaH* instead of *SaSTa* for Nimi
 and then the meaning is that Nimi's eldest son is Devaraata. Basing on the account
 that is given by Janaka at the time of Rama's mariage with Seetha, Devaraata is
 the sixth one from Nimi, the originator of Janaka's lineage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -401,8 +387,6 @@ gods; *roSaat saliilam idam abraviit* = rancorously, with playing
 Once, during the devastation of the Vedic-ritual of Daksha Prajapati, the mettlesome
 god Rudra, rancorously outstretching the bowstring of this bow, said this to all
 gods, superciliously... [1-66-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -420,8 +404,6 @@ limbs [heads]; *mahaarhaaNi* = highly revered [heads]; *dhanuSaa shaatayaami*
 'Oh, gods, whereby you have not apportioned my portion [of oblations in Vedic-ritual
 s, as I am also the] desirer of such portion, [thereby] I will shred the highly
 revered heads of yours with this bow...' [So said Shiva to gods.] [1-66-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -471,8 +453,6 @@ became glad of them.
 
 Then, oh, best saint Vishvamitra, all gods are truly dismayed, and on their supplicating,
 Bhava, namely Shiva, the God of Gods is gladdened... [1-66-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -525,8 +505,6 @@ Bhava, namely Shiva, the God of Gods is gladdened... [1-66-11]
 And that Sublime Soul Shiva gladly gave that bow to all of the great souled gods,
 and oh, godly saint, then those great souled gods gave this gem of a bow of Shiva,
 the God of Gods, to our ancestor [Devaraata,] for custodial care... [1-66-12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -579,8 +557,6 @@ as] renowned as Seetha.
 Later, when I was ploughing the ritual field then raised by the plough [from the
 furrow is a baby girl... since she is] gained while consecrating the ritual-field,
 she is named as Seetha, and thus she is renowned... [1-66-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -612,8 +588,6 @@ is not compulsorily be paid in hard cash, but it may be any kind of gifts mutual
 exchanged, which has slowly developed into a mega havoc these days. Here Janaka
 wants the 'valour' of his prospective son-in-law as bounty due to him in the marriage
 of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -665,8 +639,6 @@ kings; *munipungava* = oh eminent sage.
 Oh, eminent sage, as my daughter has surfaced from the surface of earth and has
 come of age, the kings, [having heard my declaration that the bounty for Seetha
 is boldness alone,] have come and besought for her... [1-66-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -707,8 +679,6 @@ sage; *na dadaami sutaam aham* = I do not give daughter.
 
 To all of those kings who are beseeching for the girl, I have not given my daughter,
 saying that she will be given for a bounty of boldness... [1-6-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -757,8 +727,6 @@ _________________
 
 Then all the kings convoked and on arriving at Mithila, then they wanted to ascertain
 the calibre [of the bow, vis-a-vis their own...] [1-66-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -817,8 +785,6 @@ handling of Shiva's bow, becomes a bane to her, when one among the wives of *
 sapta-R^iSi* 'Seven Sages...' issues a curse to Seetha, saying that 'Seetha
 will be separated from her husband for some time, of course, for the good of people...'
 So says the tradition.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -864,8 +830,6 @@ know, oh ascetically wealthy Vishvamitra.
 Oh, great saint, on knowing the valour of those valorous ones as valueless, I countermanded
 them... oh, ascetically wealthy Vishvamitra, by that you may know [the sequel of
 it...] [1-66-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -906,8 +870,6 @@ valour.
 
 Then, oh, eminent sage, those kings beleaguered Mithila in a blind fury, since
 a self-mistrust bechanced among them all, about their own valour... [1-66-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -952,8 +914,6 @@ _________________
 
 They surmised for themselves that they are brushed off by me, and they possessed
 by a high rancour, they strangled the City of Mithila... [1-66-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -974,8 +934,6 @@ mahaatmaanam* = Vishvamitra, great souled one; *aajuhaava saraaghavam*
 
 Then on performing morning time rites in the aurora of next morning, king Janaka
 invited great souled Vishvamitra, along with Raghava-s. [1-66-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -993,8 +951,6 @@ indeed.
 On reverencing Vishvamitra and the noble souled Raghava-s according to the formalities
 envisaged by scriptures, then the virtue souled Janaka spoke these words, indeed.
 [1-66-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -1038,8 +994,6 @@ aham bhR^ishaduHkhitaH* = thereby, I was, highly anguished.
 
 Then elapsed is an year and in anyway the possessions for livelihood went into
 a decline, oh, eminent sage, thereby I am highly anguished [1-66-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -1085,8 +1039,6 @@ gladdened and gave me fourfold forces... [1-66-23b, 24a]
 
 Comment: The four components of army are foot soldiers, cavalry, elephant-squadrons,
 and chariot-warriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -1129,8 +1081,6 @@ viiryasandigdhaaH* = self-mistrustful [of their own valour] of valour; *paapakaa
 Then those evildoers and self-mistrustful kings while being drubbed [by the heaven-sent
 army, they have become] vigourless and broken, and they beat a hasty retreat...
 [1-66-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -1181,8 +1131,6 @@ at verse 4 'what can I do next...' etc., Janaka has sensed as to why this Vishva
 brought some boys on this long a route, that too by foot. But he is not yet self-assured
 of Rama's capability or otherwise. Hence, the next verse starts with the clause
 'if'.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 </details>
 
@@ -1225,8 +1173,6 @@ Seetha; *dadyaam* = I offer; *daasharatheH* = to Dasharatha's [son];
 "If Rama strings the bowstring of that bow, oh, sage, I will offer my daughter,
 whose birth is non-uterine, to Dasharatha's Rama..." [So said Janaka to Vishvamitra.]
 [1-66-26b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Kausalya reproaches Kaikeyi for her wrong deeds, while weeping profusely for her
 husband's death. The chamberlains reverently remove Kausalya from the place of the king's body,
 which they later keep in a trough filled with oil. The ministers and other functionaries return to
 their abodes, when the night fell in darkness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -86,8 +84,6 @@ was stricken with grief; *vividham* = of various sorts; *abhaashhata* = spoke;
 Seeing the aforesaid deceased king, who looked like a fully extinguished fire, a
 waterless ocean and a lusterless sun, Kausalya holding the king's head on her lap with her eyes
 full of tears and who was stricken with grief of various sorts, spoke to Kausalya as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -138,8 +134,6 @@ fulfilled your desires; *tyaktvaa* = deserting; *raajaanam* = the king;
 
 "O Kaikeyi the cruel one and the doer of evils! You be there, having fulfilled your
 desires. Deserting the king, you can enjoy the kingdom undisturbed and without any hindrance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -187,8 +181,6 @@ desires. Deserting the king, you can enjoy the kingdom undisturbed and without a
 
 "Rama has left me and gone to the forest. My husband too has left for heaven. I do
 not wish to live, as one left behind by a caravan in a wrong road."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -238,8 +230,6 @@ Kaikeyi; *tyakda dharmaNaH* = who was kicked off righteousness."
 
 "Which woman would wish to survive, leaving her husband who was divine, except
 Kaikeyi who kicked off righteousness?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -287,8 +277,6 @@ destroyed; *kaikeyyaa* = by Kaikeyi."
 
 "A greedy person cannot understand one's faults, like one who eats a forbidden dish.
 Due to that hump- backed woman, Kaikeyi has ruined the race of Raghu dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -336,8 +324,6 @@ act; *janakaH* = Janaka; *paritapsyati* = will profusely lament; *aham yathaa*
 
 "Hearing Rama along with his wife have been sent to exile by the king as he was
 coerced as he was (Kaikeyi) to do an unworthy act, Janaka will profusely lament as I do."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -385,8 +371,6 @@ surviving; *adya* = now; *na jaanaati* = does not know; *maam* = me;
 
 "Rama the pious man who is possessed of like lotus leaves, and who has disappeared
 from here even though living, now does not know me to have because a support -less widow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -434,8 +418,6 @@ the forest."
 
 "Even so, Sita, the daughter of king of Videha, the pitiable lady and who is
 unworthy of lamentation, will get frightened with grief in the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ she will take refuge; *nuunam* = surely; *raaghavam* = with Rama."
 
 "Greatly alarmed to hear the fearful cries of wild animals and birds making their
 noises in nights, surely she will cling herself to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -530,8 +510,6 @@ noises in nights, surely she will cling herself to Rama.
 
 "Janaka too who is aged, and who is not having sons, will be thinking of Sita, over
 whelmed with grief and will surely abandon his life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -573,8 +551,6 @@ whelmed with grief and will surely abandon his life.
 
 "Today itself, I too in devotion to my husband, will meet my appointed end. I shall
 enter the fire, duly embracing this body of my husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -621,8 +597,6 @@ grief; *samparishhvajya* = and closely embracing her dead husband.
 
 The chamberlains reverently removed from that place that unfortunate Kausalya, who
 was in excess of her grief and was closely embracing her dead husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -670,8 +644,6 @@ the king.
 
 The ministers assigned for the job kept the king in an oil trough and did all the
 acts that were to be done therafter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -720,8 +692,6 @@ absence of his sons; *tataH* = and that is why; *rakshhantu* = preserved;
 The ministers who were knowing all such matters were not willing to do cremation for
 the king in the absence of his sons and that is why preserved the king's body .(in an oil
 through).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -768,8 +738,6 @@ Ayam = He; *mR^itaH* = is dead!"
 
 Seeing that the king was laid down in an oil through by the ministers those women in
 the gynaacium cried "Alas! He is dead!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -817,8 +785,6 @@ follows:-
 
 Crying their faces with eyes flowing with tears, the miserable women through up
 their arms, stricken with grief as they were and pitiably lamented as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -859,8 +825,6 @@ why; *vijahaasi* = have you left; *naH* = us?"
 
 "Alas! Great king! When we are already deprived of Rama who speaks lovingly and who
 always keeps up his promise, why have you left us?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -911,8 +875,6 @@ husband?"
 
 "Far in distance from Rama, how shall we without our husband, live in proximity to
 Kaikeyi of wretched nature, who killed her husband?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -960,8 +922,6 @@ eminent man; *gataH hi* = has indeed gone; *vanam* = to the forest; *vihaaya*
 
 "Rama, a protector to you and all of us as well as a capable, prudent and an eminent
 man, has indeed gone on exile to the forest, leaving this lovely kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1001,8 +961,6 @@ live; *tvayaa vinaa* = and without that heroic Rama."
 
 "How can we, being disgraced by Kaikeyi, and stupefied by evil passion, live without
 you and the heroic Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1049,8 +1007,6 @@ strength; along with Sita; *samtyaktaaH* = were abandoned; *saa* = by her;
 
 "Whom else will Kaikeyi by whom have been abandoned the king as well as Rama along
 with Lakshmana great strength and Sita- not abandon?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1097,8 +1053,6 @@ ground; *niraanandaaH* = sorrowful as they were."
 
 "With tears and excessive agony, those excellent Dasaratha's wives together in a
 row, rolled on the ground, sorrowful as they were."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1146,8 +1100,6 @@ husband."
 
 The city of Ayodhya, bereft of the high-soled king Dasaratha, was splendour-less, as
 a night without moon and as awoman without husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1195,8 +1147,6 @@ a night without moon and as awoman without husband.
 With people disturbed with tears, with virtuous women raising cries of distress and
 with its cross -roads and entrances of houses looking desolate, the city of Ayodhya did not shine
 as before.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1252,8 +1202,6 @@ darkness having proceeded to spread.
 While the king has gone to heaven due to grief and while the king's wives were lying
 on the ground , the sun suddenly went away retreating its movement. The night approached, with its
 darkness having proceeded to spread throughout.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1314,8 +1262,6 @@ place.
 The friends and relatives who came there, did not like the king's cremation in the
 absence of his sons. Thus thinking, they kept the king of inconceivable sight in that resting
 place(oil- trough)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1371,8 +1317,6 @@ did not shine; *gata prabhaa* = with its light having gone away.
 Deserted by the high-soled Dasaratha, with its roads and cross roads filled with
 people choked with tears in their throats, the city of Ayodhya, looking like sky without sun and
 night with its multitude of stars disappeared, did not shine with its light having gone away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 </details>
 
@@ -1427,8 +1371,6 @@ happiness.
 
 After the king's death, men and women in the city converged in groups, abusing
 Bharata's mother, became disturbed and did not obtain happiness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

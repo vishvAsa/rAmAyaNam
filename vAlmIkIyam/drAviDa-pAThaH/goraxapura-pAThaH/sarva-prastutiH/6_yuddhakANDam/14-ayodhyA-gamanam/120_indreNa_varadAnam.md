@@ -16,8 +16,6 @@ When Indra the lord of celestials asks Rama for a boon, Rama requested Indra to
 bring back to life, all the monkeys who had lost their life in the battle. Indra grants the boon
 and all the dead monkeys are restored to life. The celestials disperse and the whole army of
 monkeys enjoy their well-earned rest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ _________________
 
 When Dasaratha returned, the Lord Indra, the destroyer of Paka the demon, was very
 much pleased and spoke to Rama, who stood there with his oined palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ not go in vain; *sma* = we are; *priitiyuktaaH* = endowed with delight; *tena*
 
 "O Rama, the foremost among men! Your sight of us, should not go in vain. Therefore,
 tell us whatever is desired by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -158,8 +152,6 @@ rejoice:
 
 Hearing the words of the great souled Indra the lord of celestials, after having
 been pleased, Rama with the most placid mind spoke the following words with rejoice:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -200,8 +192,6 @@ me; *kuru* = make; *me vachanam* = my words; *vakShyaami* = that I tell you;
 
 "O the foremst among the eloquent! O Indra! If you have affection in me, I shall
 speak out my words. Make my words real."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -242,8 +232,6 @@ energy; *mama hetoH* = for my sake; *praapya jiivitam* = restore their life;
 
 "Let all the monkeys, who reached the abode of death, after displaying their
 energyfor
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -288,8 +276,6 @@ delighted at heart.
 
 "O the bestower of honour! I wish to see all those monkeys, who for my sake, were
 removed from their sons and wives, be delighted at heart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -337,8 +323,6 @@ lives; *etaan* = to them.
 
 "They were all valiant, proving their energies and did not take their death into
 account. They made their strenuous efforts and died. O Indra! Restore their lives to them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -380,8 +364,6 @@ dear ones); *tvatprasaadaat* = by your grace; *aham* = I; *vR^iNe* = seek;
 
 "Those mokeys - who coutned death as nothing and who were fond of doing favour to me
 - let them get re-united with their near and dear ones by your grace. I seek this boon of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -426,8 +408,6 @@ valour.
 
 "O bestower of honour! I wish to see the monkeys and bears, free from wounds and
 pains, with augmented strength and valour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -468,8 +448,6 @@ with pure water; *puShpaaNi* = flowers; *muulaani cha* = roots; *phalaanicha*
 
 "Wherever the aforesaid monkeys live, let there be rivers with crystal-clear water,
 flowers, roots and fruits even in an off-season."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -516,8 +494,6 @@ vachanam* = the following words:
 
 Hearing the words of that great-souled Rama, Indra the lord of celestials endowed as
 he was with delight, again spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -568,8 +544,6 @@ bhaviShyati* = will come to be.
 
 "O beloved Rama! This boon, which has been sought by you is hard to grant. No offer
 has, however, been revised by me in the past. Therefore this will come to be."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -612,8 +586,6 @@ again.
 "Let all those monkeys and bears along with long-tailed monkeys, who have been
 killed in battle, by the demons and whose heads and arms have been severed, be alive and active
 again."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -660,8 +632,6 @@ without any and with boosted strength and valour; *harayaH* = the monkeys;
 
 "Without any ill-health andwounds and with boosted strength and valour, the monkeys
 will srise again, as those fallen asleep would do at the end of their sleep."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -708,8 +678,6 @@ delight; *sameShyanti* = will get re-united with; *suhR^idbhiH* = their friends;
 
 "All of them, full of delight, will get re-united with their friends, relatives,
 kinsmen and family members."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -756,8 +724,6 @@ the trees; *bhaviShyanti* = will be; *puSpashabalaaH* = colourful with flowers;
 
 "O the wielder of a great bow! The trees will look colourful with flowers and fruits
 even in the off-season. Rivers too will remain constantly with water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -843,8 +809,6 @@ saying to one another; "what (miracle) is this?"
 Thereupon, all those monkey-warriors got up, as if from a sleep, with all their
 limbs completely healed of wounds. All the monkeys felt surprised, saying to one another "What
 miracle is this?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -866,8 +830,6 @@ lakShmaNam* = and Lakshmana.
 
 Seeing Rama, whose wish has been fully realised, all the foremost of celestials,
 with a great delight, spoke praisingly to Rama and Lakshmana:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -884,8 +846,6 @@ you.
 
 "O monarch! Proceed to Ayodhya from here and disband the monkeys. Reassure this
 illustrious and devoted Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -962,8 +922,6 @@ on the throne; *gatvaa* = by going there; *praharShaya* = bring rejoice;
 austerities through grief caused by separation from you, the great-souled Shatrughna and all your
 mohters. Get yourself consecrated on the throne. Bring rejoice to the citizens, by going
 there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -1012,8 +970,6 @@ samkaashaiH* = shining like the sun.
 Thus speaking to Rama and Lakshmana, Idnra the thousand-eyed god of celestials,
 having beenpleased, returned to heaven with other gods in their aerial cars, shining liek the
 sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -1061,8 +1017,6 @@ respective places.
 
 having respectfully saluted all those celestials, Rama along with Lakshmana his
 brother, then instructed all the monkeys to take rest in their respective places.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 </details>
 
@@ -1118,8 +1072,6 @@ illumined; *shiitarashminaa* = by the moon.
 Thereupon, that illustrious and mighty army of rejoiced troops, for its part, whichw
 as protected by Lakshmana and Rama, and was blazing with splendour on all sides, shone brightly
 like the might, illumined by the moon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

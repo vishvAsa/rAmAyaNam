@@ -20,8 +20,6 @@ built across the ocean, Mount Mainka, Setu-bandha (where the construction of the
 started), Mount Rishyamuka, Pampa River, Janasthana-forest, Panchavati, Godavari river, the
 hermitage of sage-Agastya, the hermitage of Atri and Anasuya, Mount Chitrakuta, Yamuna-river, the
 hermitage of Bharadwaja, Ganga-river, Sarayu-river and finally the City of Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ of swans painted on it; *utpapaatam* = flew; *vihaayasam* = into the sky;
 
 As approved by Rama, that excellent aerial car, with images of swan painted on it,
 flew into the sky, with a great sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ face looking like the moon (as follow):
 
 Casting his look on all sides, Rama, the delight of Raghu dynasty, then spoke to
 Seetha, who had a moon-like face (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -153,8 +147,6 @@ shikharaakaare* = like a peak of Mount Kailasa in appearance.
 
 "O Seetha! Look at the City of Lanka, resting firmly on the mount of Trikuta,
 looking like a peak of Mount Kailasa and built by Viswarakarma, the universal architect."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -195,8 +187,6 @@ raakShasaanaamcha* = of monkeys and demons.
 
 "O Seetha! Look at this great battle-field, covered with a mud of flesh and blood as
 also a cause for the death of monkeys and demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -252,8 +242,6 @@ for your sake.
 
 "O the large-eyed Seetha! Here lies Ravana, the king of demons, the tormentator of
 people, on whom boons were conferred by Brahma and who was killed by me for your sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -300,8 +288,6 @@ people, on whom boons were conferred by Brahma and who was killed by me for your
 
 "Here, Kumbhakarna and Prahasta the demon were killed. Here, Dhumraksha was killed
 by Hanuma, the monkey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -342,8 +328,6 @@ Ravana; *nihataH* = was killed; *raNe* = in a combat.
 
 "Here was Vidyunmali killed by the great-souled Sushena and here was Indrajit, the
 son of Ravana, killed by Lakshmana in a combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -413,8 +397,6 @@ Devantaka and Narantaka (were killed).
 "Here was killed a demon called Vikata by Angada. Virupaksha, who was disagreeable
 to the sight, Mahaparsva, Mahodara, Akampana, Trishiras, Atikaya Devantaka, Narantaka and other
 mighty demons were also killed here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -486,8 +468,6 @@ was struck down; *mayaa* = by me; *yudhi* = in this battle-field.
 sons of Kumbhakarna, as also the strong Vajradamshtra, Damshtra and many demons were killed.
 Makaraksha, the most difficult demon to be attacked, was struck down by me in this
 battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -534,8 +514,6 @@ battle-field."
 
 "Akampana was killed in the great battle. The valiant Shonitaksha was also killed.
 Yupaksa and Prajangha were killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -585,8 +563,6 @@ was killed; *mahaabalaH* = the mighty; *suptaghnashcha* = Suptaghna; *nihataH*
 "Here, Vidyujjihva, the demon was a terrific appearance, was killed. Yajnashatru
 also was killed. The mighty Suptaghna was killed. Surya shatru was killed and another demon called
 Brahma shatru was too killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ a wife; *mandodariinaama* = named Mandodari; *paryadevayat* = lamented; *tam*
 
 "Here, surrounded by more than a thousand fellow-wives, Ravana's wife named
 Mandodari lamented for Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -677,8 +651,6 @@ ocean (on the sea-shore) yatra uttiirya = where having crossed; *saagaram* = the
 
 "O Seetha, the lovely-faced one! Here is seen a water-descent of the ocean on the
 sea-shore, where having crossed the ocean, we spent that night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -722,8 +694,6 @@ is; *nalasetuH* = the bridge called Nala Setu; *suduShkaraH* = which was so diff
 
 "O the large-eyed Seetha! Here is the bridge called Nala Setu, which was so
 difficult to execute for others, got built by me over the salt-sea for your sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -771,8 +741,6 @@ Varuna; *garjantam* = and which is roaring; *apaaramiva* = as though it is bound
 "O Seetha! See this roaring imperturbable and seemingly boundless ocean, the
 habitation of Varuna (the god of waters), which is teeming well with couches and
 oyster-shells."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -814,8 +782,6 @@ Hanuma.
 
 "O Seetha! See the golden mountain, Mainaka (the ruler of mountains) which rose
 passing through the ocean, in order to provide rest and relaxation to Hanuma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -866,8 +832,6 @@ Lord; *mahaadevaH* = Shiva (the supreme deity); *akarot* = bestowed;
 "See this island, located in the middle of the ocean, where my troops were
 stationed. At this place, the lord Shiva (the supreme deity) formerly bestowed his grace on
 me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -937,8 +901,6 @@ as Setu bandha; *etat* = this; *paramam pavitram* = is very much a sacred spot;
 "Here is seen the water-descent of the gigantic ocean, called a Setubandha, adored
 in all the three worlds. This is very much a sacred spot, capable of washing away major sins. At
 this very place, Vibhishana the king of demons first came."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -979,8 +941,6 @@ this very place, Vibhishana the king of demons first came."
 
 "O Seetha! Here is seen the beautiful City of Sugreeva, Kishkindha, which is full of
 colourful groves, where Vali was killed by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1022,8 +982,6 @@ Kishkindha; *vaalipaalitaam* = which was ruled by Vali (earlier); *siitaa* = See
 
 Seeing the City of Kishkindha, which was earlier ruled by Vali, Seetha, who was
 feeling timid through love, then spoke the following courteous words to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1076,8 +1034,6 @@ Tara and other; *sugriiva priyabhaaryaabhiH* = beloved wives of Sugreeva.
 
 "O king! I wish to reach the capital City of Ayodhya along with you, accompanied by
 the wives of other monkey-chiefs with Tara and other beloved wives of Sugreeva."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 </details>
@@ -1131,8 +1087,6 @@ spoke (to him); *etat vaakyam* = the following words:
 Hearing the words of Seetha, Rama then said to her in reply "let it be". Reaching
 Kishkindha, causing the aerial car to halt, and looking at Sugreeva, Rama spoke to him the
 following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1190,8 +1144,6 @@ _________________
 
 "O the king of monkeys! Instruct all the monkey-chiefs to come to Ayodhya in the
 company of their wives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1207,8 +1159,6 @@ monkeys; *gachchhaamaH* = we shall proceed.
 
 "O the mighty Sugreeva, the King of monkeys! You too hasten to depart, taking the
 wives of all the monkeys "we shall proceed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1254,8 +1204,6 @@ accompanied by all those monkeys; *shiighram* = quickly; *pravishya* = entering;
 Hearing the words of Rama of great splendour, that illustrious Sugreeva, the lord of
 monkeys accompanied by all those monkeys, quickly entering his gynaecium, spoke to Tara as
 follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1306,8 +1254,6 @@ to gratify Seetha.
 
 "O the beloved lady! You have been permitted by Rama to proceed to Ayodhya, in the
 company of the wives of the great-souled monkeys, with an intent to gratify Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1323,8 +1269,6 @@ shall proceed; *gR^ihya* = by taking; *vaanarayoShitaH* = the wives of the monke
 
 "You hurry up, to proceed to Ayodhya, with the wives of the monkeys. We shall show
 Ayodhya and all the widows of Dasaratha to them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1365,8 +1309,6 @@ charming of every limb; *aahuuya cha* = called; *sarvaaH striyaH* = all the spou
 
 Hearing the words of Sugreeva, Tara, who was charming of every limb, called all the
 spouses of the monkeys and spoke to them as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1411,8 +1353,6 @@ Ayodhya); *priyam kaaryam* = a kindly act; *mama chaapi* = will be done to me to
 
 "Duly permitted by Sugreeva and all the monkeys, hurry up to proceed to Ayodhya. A
 kindly act will be done to me too, through the sight of Ayodhya (which is so dear to me)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1429,8 +1369,6 @@ affluence; *dasharathasya striiNaam* = of the widows of Dasaratha.
 "We shall also see the entry of Rama into Ayodhya, along with the people of that
 city as well as the inhabitants of the country-side, as also the affluence of the widows of
 Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1474,8 +1412,6 @@ going round clockwise; *tat* = that; vimaanam aerial car; *adhyaaroham* = ascend
 
 Duly permitted by Tara, all the wives of the monkeys, wearing their costumes as per
 rule and going round the aerial car clockwise, ascended it with an intent to see Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1520,8 +1456,6 @@ Rishyamuka.
 
 Seeing the aerial car having risen quickly, after having taken the wives of monkeys
 too, Rama again spoke to Seetha at the vicinity of Mount Rishyamuka (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1571,8 +1505,6 @@ like a cloud with lightning.
 
 "O Seetha! Here is seen Rishyamuka, the excellent mountain, endowed with layers of
 gold and looking like a cloud with lightning."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1613,8 +1545,6 @@ here; *samayashcha* = an agreement too; *vadhaartham* = for the killing;
 
 "O Seetha! Here did I meet Sugreeva, the king of monkeys and an agreement too was
 made by me for the killing of Vali."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1655,8 +1585,6 @@ with great pain; *tvayaa vihiinaH* = having been separated from you.
 
 "Here is seen Pampa-river, abounding in lotuses and edged with colourful groves,
 where I lamented with great pain, having been separated from you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1700,8 +1628,6 @@ long; *nihataH* = was killed; *mayaa* = by me; *atra* = here.
 
 "The virtuous Shabari was seen by me at the bank of this river. Here was killed,
 Kabandha, having arms, a Yojana (eight miles) long."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1754,8 +1680,6 @@ among the birds; *nihataH* = was killed; *raavaNena* = by Ravana; *tava hetoH*
 "And over there is seen in the forest of Janasthana, O Seetha, that illustrious tree
 under which the highly brilliant and mighty Jatayu, the foremost among the birds, was killed by
 Ravana, for your sake, O sporting lady!."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1832,8 +1756,6 @@ because it consists of five banyan trees) where Khara the demon was killed by me
 straight-going arrows, as also his brothers, Dushana and the mighty Trishiras. And over there is
 seen our enchanting leaf-hut, where you were forcibly taken away by Ravana the king of demons, O
 charming lady!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1882,8 +1804,6 @@ banana-groves."
 "Here is the shining hermitage of Sutikshna, the great-souled sage. And over there
 is seen the great hermitage of Sharabhanga, where the thousand-eyed Indra, the destroyer of
 Citadels, came."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1940,8 +1860,6 @@ _________________
 "Here is the shining hermitage of Sutikshna, the great-souled sage. And over there
 is seen the great hermitage of Sharabhanga, where the thousand-eed Indra, the destroyer of
 Citadels, came."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -1987,8 +1905,6 @@ where; *atriH* = Atri; *kulapatiH* = the head of the hermitage;
 
 "O slender-waisted lady! Here are seen those sages, where, Atri the head of the
 hermitage, was equal in splendour to the sun and the fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -2036,8 +1952,6 @@ virtuous; *taapasii* = Anasuya; the ascetic lady (the wife of sage Atri).
 
 "At this place, the gigantic Viradha was killed by me. O Seetha! Here was seen by
 you, the virtuous Anasuya, the ascetic lady (the wife of sage, Atri)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -2085,8 +1999,6 @@ return to Ayodhya).
 
 "O Seetha, having a beautiful body! Here is Chitrakuta, the excellent mountain,
 shining. Bharata came here to seek my favour (in the form of my consent to return to Ayodhya)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -2133,8 +2045,6 @@ illustrious; *bharadvaajaashramaH* = hermitage of sage Bharadwaja.
 
 "O Seetha! Here is seen the beautiful river of Yamuna, surrounded by colourful
 groves. Here is seen the illustrious hermitage of Sage Bharadwaja."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -2177,8 +2087,6 @@ diwth trees in full flowering.
 "Here is seen the holy River Ganga, which wends its way through the three worlds
 (viz. heaven, the earth and the subterranean world), whose banks are crowded with flocks of birds
 and which is lined with trees in full-flowering."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -2240,8 +2148,6 @@ by Ikshvaku dynasty); *naanaatarushataakiirNaa* = bordered with hundreds of tree
 "Here is the town of Shringaberapura, where Guha my friend stays. Here is seen that
 river, Sarayu, lined with rows of sacrificial posts (the relics of sacrifices performed from time
 to time by Ikshvaku dynasty), bordered with hundreds of trees and with groves in full blossom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2257,8 +2163,6 @@ returned; *kuru praNaamam* = offer your salutation; *ayodhyaam* = to Ayodhya.
 
 "O Seetha! Here is seen that Capital City of my father. O the princess of Videha
 territory! Having duly returned, offer your salutation to Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -2308,8 +2212,6 @@ again (to have a glimpse of it); *dadR^ishuH* = saw; *taam puriim* = that City.
 
 Thereupon, all those monkeys and the rejoiced demons along with Vibhishana, at that
 time, bounding again and again (to have a glimpse of it) saw that City.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 </details>
 
@@ -2370,8 +2272,6 @@ City; *mahendrasya* = of Indra the lord of celestials.
 Thereupon, the monkeys along with the demons beheld that Ayodhya, having rows of
 white palaces, intersected with wide roads, and crowded with elephants and horses, looking like
 Amaravathi, the City of Indra the lord of Celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

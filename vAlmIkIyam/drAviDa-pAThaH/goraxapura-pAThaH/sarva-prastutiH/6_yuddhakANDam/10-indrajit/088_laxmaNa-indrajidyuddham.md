@@ -19,8 +19,6 @@ the same time. In retaliation, Lakshmana strikes Indrajit with a multiple of arr
 armour breaks up into pieces. Indrajit, in response, strikes Lakshmana with a thousand arrows and
 breaks up Lakshmana's armour. A fierce fight ensues for a long time. Meanwhile, Vibhishana joins
 the battle-field, to relieve Lakshmana's fatigue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ rushed forward; *vegena* = in fury.
 
 Hearing the words of Vibhishana, Indrajit was excited with rage, spoke harsh words
 and rushed forward in fury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -184,8 +180,6 @@ Rama.
 
 The mighty the destroyer of adversaries, wielding a large bow, fully adorned, and
 seated in a chariot saw that Lakshmana who was embellished with his own splendor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -247,8 +241,6 @@ Mountain; *sa vibhiiShaNam* = and also with Vibhishana; *pashyadhvam* = you beho
 Indrajit hurriedly spoke to those foremost of monkeys and to this Lakshmana, who
 ascended Hanuma's back with a splendor of the sun shining on Mount Udaya and also with Vibhishana
 as follows: "You behold my prowess now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -264,8 +256,6 @@ discharged from my bow; *samyuge* = in the battle field.
 
 "Now, you can face an unconquerable stream of arrows, like rain, released in the
 sky, as discharged from my bow in the battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -306,8 +296,6 @@ destroy; *vaH gaatraaNi* = your bodies; *analaH iva* = like fire;
 
 "Today my arrows released from my large bow will destroy your bodies, as fire
 consumes a pile of cotton."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -357,8 +345,6 @@ shaktyR^iShTitomaraiH* = by hurling the pikes javelins and lances.
 
 "Today, I will send all of you to the world of Yama the lord of Death, by piercing
 you with my sharp arrows and hurling the pikes, javelins and lances on you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -399,8 +385,6 @@ streams of arrows; *kShiprahastasya* = swift-handed; *samyuge* = in battle;
 
 "Who can stand before me, while I release streams of arrows with my swift-hand in
 battle, thundering like a cloud?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -452,8 +436,6 @@ and you have been; *shaayitau* = made to lie; *bhuumau* = on the floor.
 "Earlier on that day, in a nocturnal battle, both of you along with Sugreeva and
 other followers, were made unconscious by my arrows which were like thunderbolts and tips of
 missiles as also you were made to fall down on the floor."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -471,8 +453,6 @@ memory?; manye- I presume; *vyaktam* = clearly that; *yaataH* = you are on the r
 "Do you not have that remembrance? I presume clearly that you are on the road to
 Yama the lord of Death, since you have come to give battle to me, enraged as I am, like a venomous
 serpent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -513,8 +493,6 @@ words; *abhiitavadanaH* = with a courageous countenance.
 
 Enraged in hearing that roaring of Indrajit, Lakshmana then spoke the following
 words, with a courageous countenance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -564,8 +542,6 @@ are practicable.
 "O demon! It has been proclaimed by you about the successful conclusion of your
 tasks, eventhough it is difficult to achieve them. He alone is clever, whoever carries through his
 undertakings in practice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -618,8 +594,6 @@ end.
 "O evil-minded one! You are thinking that you have accomplished your end, by
 proclaiming through word alone, the achievement of your end, which is difficult to attain for
 anyone, though you, as such, lack in capacity to achieve your purpose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -667,8 +641,6 @@ followed by valiant ones.
 
 "The path, which was followed on that day by you, becoming invisible in the
 battle-field, is the one trodden by thieves and is not the path followed by valiant ones."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -710,8 +682,6 @@ that; *tejaH* = splendor (prowess); *kim* = why; *tvam* = should you;
 
 "O demon! Having reached the range of your arrows, I am standing before you.
 Therefore show your prowess today. Why should you brag with your words?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -752,8 +722,6 @@ released; *nishitaan* = sharp; *sharaan* = arrows (from it).
 
 Hearing those words, the mighty Indrajit, victorious in battle, reaching his
 terrific bow, released sharp arrows from it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -795,8 +763,6 @@ of serpents.
 
 Duly reaching Lakshmana, the arrows released by Indrajit, which rushed with great
 speed and were as deadly as the venom of serpents, fell like the hissing of snakes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -838,8 +804,6 @@ body marks.
 
 The swift Indrajit, the son of Ravana, with his arrows of very great velocity, in
 that battle, struck Lakshmana who was endowed with auspicious body-marks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -875,8 +839,6 @@ paavakaH iva* = like a smoke-less flame.
 
 That glorious Lakshmana, drenched in blood, with his body very much wounded by
 arrows, shone like a smokeless flame.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -902,8 +864,6 @@ Indrajit was looking like Yama the lord of Death at the time of dissolution of t
 world, sitting in a well-decorated and distinguished chariot yoked with black horses, having
 upraised sword and weapons, raising a big terrific enormous strong and swift bow and laying hold of
 arrows which can torment the enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -950,8 +910,6 @@ feat; *indrajittu* = Indrajit; for his part; *abhigamyacha* = approaching
 
 Mulling over his own feat, Indrajit for his part, approaching Lakshmana and emitting
 an exceedingly loud roar, spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1018,8 +976,6 @@ deadly; *sharaaH* = arrows; *patriNaH* = with their wings;
 
 "The sharp-edged and deadly arrows, with their wings, released from my bow, will now
 take your life, O Lakshmana!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1035,8 +991,6 @@ down; *mayaa* = by me; *gataasum* = you are dead.
 
 "O Lakshmana! Let a number of Jackals, multitude of hawks and vultures descend upon
 you, when struck down by me, you are dead."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1087,8 +1041,6 @@ mayaa* = killed by me.
 
 "The exceedingly evil-minded Rama now itself can see you, a mere kshatriya (military
 class only for a name sake), ever ignoble and his devoted brother, killed by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1129,8 +1081,6 @@ your bow thrown about; *hR^itottamaaN^gam* = and with your head dismantled.
 
 "O Lakshmana! Rama will see you, struck down by me today, with your armour dropped
 down, bow thrown about and head dismantled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1177,8 +1127,6 @@ logical words; *samkruddham raavaNaatmajam* = to the enraged Indrajit; *iti* = t
 
 Lakshmana, understanding the sense of the word, replied in the following logical
 words to the enraged Indrajit thus speaking harshly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1227,8 +1175,6 @@ talk; *etat* = this atha = further?; *sampaadaya* = make it full; *sukarmaNaa*
 "O evil-minded one! Give up strength of speech in your empty words. O demons! You
 are doing cruel acts. Why do you indulge in such idle talk? Make it active with your good
 work."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1275,8 +1221,6 @@ which; *shraddadhyaam* = I can believe; *tava katthanam* = your brag.
 
 "O demon! Without performing that act, why do you boast yourself here? Perform that
 act by which I can believe your brag."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1323,8 +1267,6 @@ myself; *pashya* = LO!; *vadhiShyaami* = I will kill; *tvaam* = you.
 
 "O the worst of persons! Without speaking even a few harsh words, without abusing
 you and without bragging myself, Lo! I will kill you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1365,8 +1307,6 @@ ear; *vijaghaana* = dug them; *rakShasorasi* = into the demon's chest;
 
 Thus speaking, Lakshmana stretching five steel arrows upto the ear, dug them into
 the demon's chest with a great speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1413,8 +1353,6 @@ yathaa* = like sun-rays.
 
 The arrows, blazing like serpents and feathered with fine plumes, shone like
 sun-rays in that demon's chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1455,8 +1393,6 @@ by Lakshmana; *saH* = that; *saroShaH* = enraged; *raavaNaatmajaH* = Indrajit;
 
 Struck with arrows by Lakshmana, that enraged Indrajit pierced in return three
 arrows well-directed towards Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1498,8 +1434,6 @@ of demns; *parasparajayaiShiNoH* = who wished to conquer one over the other; *yu
 
 That fight between Lakshmana, the foremost among men and Indrajit, the formost among
 demons, who wished to conquer one over the other in battle, was most terrific and tumultuous.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1546,8 +1480,6 @@ balatejasau = and peerless in strength and courage.
 
 Both were endowed with strength. Both were distinguished for their prowess. Both
 were exceedingly difficult to conquer and peerless in strength and courage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1597,8 +1529,6 @@ figuring in the sky; *balavR^itraaviva* = like Indra and Vritra; the demon.
 
 Those two heroes, who were difficult to overcome in battle, fought at that moment
 like two plants figuring in the sky and like Indra and Vritra, the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1671,8 +1601,6 @@ and demons; *abhyayudhyataam* = fought; *prahR^iShTau* = with rejoice.
 Then, the two warriors, who were engaged in releasing several streams of arrows,
 fought like two lions. Lakshmana the foremost among humans and Indrajit the foremost among demons
 fought with rejoice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1719,8 +1647,6 @@ an enraged serpent; *sasarja* = released them; *raakShasendraaya* = for Indrajit
 
 Thereupon, Lakshmana the tormentator of enemies, fitting his arrows to his bow,
 released arrows on Indrajit, hissing like an enraged serpent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1761,8 +1687,6 @@ chief of demons; *bhuutvaa* = becoming; *vivarNaradanaH* = pale-faced;
 
 Hearing the twang of the bow-string of Lakshmana, Indrajit the Chief of demons
 became pale-faced and fixed his gaze on Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1809,8 +1733,6 @@ Lakshmana; *yuddha samyuktam* = who was absorbed in the fight.
 
 Seeing Indrajit (the son of Ravana) pale-faced, Vibhishana spoke as follows to
 Lakshmana, who was fully absorbed in the fight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1854,8 +1776,6 @@ raavanaatmaje* = In this Indrajit; *yaani nimittaani* = which indications;
 
 "O the long-armed Lakshmana! I infer on the strength of the indications which I see
 in Indrajit, that he is disappointed. There is no doubt about it. Make haste."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1902,8 +1822,6 @@ sarppaaniva* = which looked like serpents full of venom; *tasmin* = on him.
 
 Thereupon, fitting to his bow sharp arrows, resembling poisonous snakes, Lakshmana
 discharged those arrows which looked like serpents full of venom to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -1953,8 +1871,6 @@ moment.
 
 Hit by Lakshmana with arrows, which invaded all his senses, like the hit of Indra's
 thunderbolt, Indrajit became stupefied for a moment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2001,8 +1917,6 @@ _________________
 
 Regaining his consciousness within a moment, with his senses restored, that Indrajit
 saw the valiant Lakshmana engaged in the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2050,8 +1964,6 @@ follows):
 
 With blood-red eyes in anger, Indrajit walked towards Lakshmana. Approaching
 Lakshmana, he again spoke the following harsh words to him:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2098,8 +2010,6 @@ you wriggled; *bhuvi* = on the floor.
 
 "Don't you remember my prowess in the first encounter, when you along with your
 brother, was bound by me and you wriggled on the floor?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2148,8 +2058,6 @@ which were equal to Indra's thunderbolt.
 "At first, both of you along with your foremost warriors in a major encounter, were
 indeed laid down unconscious on the ground, by my arrows which were equal to Indra's
 thunderbolt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2192,8 +2100,6 @@ the abode of Yama the lord of Death; *vyaktam* = clearly.
 "The fact that you desire to attack me means that either the remembrance of it no
 longer exists in you or I presume you desire to go clearly to the abode of Yama the lord of
 Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2243,8 +2149,6 @@ stand; *vyavasthitaH* = ready for it idaaniim = now.
 
 "If my prowess was not witnessed by you in the first encounter, I will show it
 today. Stand ready for it now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2291,8 +2195,6 @@ arrows; *tiikShaNadhaaraiH* = having sharp edges.
 
 Thus speaking, he struck Lakshmana with seven arrows and Hanuma with ten excellent
 sharp-edged arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2336,8 +2238,6 @@ sharashatenaiva* = with a hundred well-aimed arrows.
 
 Then, the valiant Idnrajit with anger and with twice as much vehemence, wounded
 Vibhishana with a hundred well-aimed arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2412,8 +2312,6 @@ Seeing that feat accomplished by Indrajit, yet disregarding it, deriding it by
 saying "This is noting" and taking up terrific arrows, the fearless and enraged Lakshmana the
 younger brother of Rama and foremost among men, then discharged them against Indrajit in
 battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2460,8 +2358,6 @@ are light; *alpaviiyaashcha* = weak; *sukhaaH hi* = and indeed mild.
 
 "O demon! Heroes who come to battle do not strike like this. These arrows of yours
 are light, weak and mild indeed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2508,8 +2404,6 @@ streamed forth; *sharaiH* = with arrows; *tam* = on him.
 
 "Warriors, who wish to win in battle, do not fight like this." Thus speaking,
 Lakshmana the wielder of a bow, streamed forth arrows on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2551,8 +2445,6 @@ sky.
 
 A large golden armour, broken to pieces by Lakshmana's arrows, slipped down in the
 middle of chariot, like a cob-web of stars falling from the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2593,8 +2485,6 @@ varmaa* = with his armour disheveled; *naaraachaiH* = by the steel arrows;
 
 The valiant Indrajit, with his armour disheveled by the steel arrows, was wounded in
 battle and looked like the sun at dawn.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2641,8 +2531,6 @@ Lakshmana; *sharasahasreNa* = with a thousand arrows; *samara* = in battle.
 
 Thereafter, the valiant Indrajit of terrific prowess was enraged and wounded
 Lakshmana with a thousand arrows in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2691,8 +2579,6 @@ Lakshmana with a thousand arrows in battle.
 
 The large celestial armour of Lakshmana broke into pieces. The two warriors vied
 with each other in offence and retaliation in their attack.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2742,8 +2628,6 @@ heavily; *yudhyetaam* = fought; *tumulam* = tumultuously.
 
 Those two warriors, with their entire bodies lacerated in combat, smeared with blood
 all around and breathing heavily, fought the battle tumultuously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2793,8 +2677,6 @@ each other; *nishitaiH sharaiH* = with sharp arrows.
 
 Thos mighty warriors, skilled in warfare, were cutting through each other, for a
 long time, with sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2849,8 +2731,6 @@ and standards torn to pieces; *tau* = they; *(stood) sR^ijantau* = emitting;
 Those two heroes f terrific prowess stay on strenuously trying to secure their own
 victory, covered as they were, all over with a multitude of arrows as also their armour and
 standards torn to pieces. They stood emitting hot blood, as two water-falls gushing hot water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2924,8 +2804,6 @@ raining; *aakaashe* = from the sky; *tau* = they; *na* = neither;
 Much of a time lapsed while the two warriors fought loosing terrific stream of
 arrows, then with an awful clamour, like two dark destructive clouds raining from the sky. They
 neither trned their back from the battle, nor experienced any fatigue.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -2974,8 +2852,6 @@ large and small shapes; *antarikShe* = in the sky.
 Displaying their missiles again and again, the two warriors, who were excellent
 among those skilled in the use missiles, fastened a net work of arrows both large and small, in the
 sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3019,8 +2895,6 @@ carried on; *tumulam* = a tumultuous; *ghoram* = and terrific war.
 
 Loosing their arrows faultlessly, gracefully and easily in a wonderful way, both the
 man and the demon carried on a tumultuous and terrific war.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3067,8 +2941,6 @@ pR^ithak* = one by one repeatedly; *saH* = that sound; *janayaamaasa* = created;
 
 Their terrific and tumultuous sound could be heard one by one repeatedly. That sound
 created a tremble in people, like a violent thunder-storm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3118,8 +2990,6 @@ two dreadful; *meghayoH* = thunderin clouds; *gagane* = in the sky.
 
 That clamour of those two warriors, who were engaged thus in that martial act,
 resembled the rumbling of two dreadful thundering clouds in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3163,8 +3033,6 @@ wounded; *suvarNapuNkhaiH* = with golden-shafted; *naaraachaiH* = steel arrows;
 
 Those two mighty and glorious warriors, who were determined to gain victory over one
 another, wounded with golden-shafted steel arrows, were profusely giving out blood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3205,8 +3073,6 @@ battle; *asR^igdigdhaaH* = were smeared with blood; *viniShpetuH* = came out;
 
 Fallen on their limbs, the golden-shafted arrows, dropped on the battle-field,
 smeared with blood and pierced into the surface of the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3250,8 +3116,6 @@ thousands; *sunishitaiH shastraiH* = with sharp weapons; *aakaashe* = in the sky
 
 Some more arrows released by those two warriors clashed in thousands with sharp
 weapons in the sky and shattered and tore them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3298,8 +3162,6 @@ agnibhyaam* = by the side of two blazing fires; *satre* = at a sacrifice.
 
 The terrific pile of arrows in battle appeared like a mass of sacred Kusha grass by
 the side of two blazing fires at a sacrifice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3341,8 +3203,6 @@ a forest.
 
 The wounded bodies of those two mighty warriors shone like Kimshuka and Shalmali
 (silk-cotton) trees in full blossom, deprived of leaves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3383,8 +3243,6 @@ and terrific; *samnipaatam* = battle.
 
 Indrajit and Lakshmana who were time and again wishing to attain victory one over
 the other, carried out tumultuous and terrific battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3426,8 +3284,6 @@ were striking; *anyonyam* = each other; *na pratipadyataam* = and did not experi
 
 In the combat, Lakshmana was striking Indrajit and Indrajit too was striking
 Lakshmana. Both of them were striking each other and did not experience any weariness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3474,8 +3330,6 @@ like two mountains; *praruuDhau* = shooting forth plants from them.
 
 With a multitude of arrows dug deep into their bodies, those two warriors, of great
 prowess and swiftness, shone like two mountains shooting forth plants from them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 </details>
 
@@ -3526,8 +3380,6 @@ paavakaaH iva* = like blazing fires.
 
 At that time, all their limbs, dampened with blood and thickly covered with arrows
 shone very much like blazing fires.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

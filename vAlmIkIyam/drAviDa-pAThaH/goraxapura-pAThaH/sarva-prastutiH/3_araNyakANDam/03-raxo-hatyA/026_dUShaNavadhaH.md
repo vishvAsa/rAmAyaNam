@@ -17,8 +17,6 @@ Forest Trek**
 Rama eliminates fourteen thousand demons led by Duushana. Firstly, the forerunning demons are killed,
 next Duushana is routed, and then twelve other captains who on knowing Duushana's downfall dashed towards
 Rama. Left behind are only two, Khara and Trishira, the chiefs of that demonic force in Janasthaana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ bhiima vegaan nishaacaraan* = of monstrous, impetus, nightwalkers; *samareSu a n
 
 On seeing the shattering of his own forces, Duushana bid five thousand mighty-armed nightwalkers of
 monstrous impetus, and who knew no retreat in war, to attack Rama. [3-26-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ monstrous impetus, and who knew no retreat in war, to attack Rama. [3-26-1]
 
 And they with spears, scimitars, swords, and with the rains of boulders, trees and arrows rained incessantly
 and inordinately upon Rama from all over. [3-26-2b, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ also; *varSam* = storm; *tiikSNa saayakaiH* = with fierce, arrows; *prati jagraa
 
 Raghava, the virtue-souled, in his turn has neutralised that ghastly and life-taking storm of boulders
 and trees with his fierce arrows. [3-26-3b, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ infuriation, he took [he evoked.]
 
 Like a bull receiving rain with closed eyes Rama assimilated that storming and then evoked an inordinate
 infuriation for eliminating all of the demons. [3-26-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -269,8 +259,6 @@ Duushana, on army; *sarvataH* = from all over; *sharaiH* = with arrows; *abhi ak
 
 Exasperation prevailing on him who appeared to be highly blazing with the blaze of his own virtue, he
 then diffused Duushana and his army with arrows from all over. [3-26-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -317,8 +305,6 @@ thunderbolt, simulative of, with arrows; *tam raaghavam* = him, that Raghava; *s
 
 And on becoming enraged Duushana, the railer of his rivals and the commander of that army, then virtually
 forestalled Raghava's onslaught with his arrows that are simulative of thunderbolts. [3-26-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -378,8 +364,6 @@ pieces.]
 
 That valiant one in warring Rama is then infuriated and with his crescent-barbed arrow shivered the
 sturdy bow of Duushana, shredding four of his horses with four more arrows. [3-26-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -401,8 +385,6 @@ a crescent-barbed arrow, and even impaled the chest of demon Duushana with some 
 
 One crescent dart he aimed which shred / Clean from his neck the driver's head; / Three more with deadly
 skill addressed / Stood quivering in the giant's breast. - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -478,8 +460,6 @@ grabbed a mace which outranks a peak of mountain and a hair-thriller at its sigh
 golden girths once gritted the armies of gods, the head of which is studded with incisive iron spikes
 and saturated with the fat of foes, a coequal of a diamond and a thunderbolt in its hardiness and flashiness,
 and a ransacker of the archways of fortresses of his adversaries. [3-26-9b, 10, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -526,8 +506,6 @@ tam parigham* = that, mace; *pra gR^ihya* = well, taking - gripping firmly; *raa
 
 On firmly gripping that mace which in war is akin to an infernal serpent, and the touch of which tantamount
 to snakebite, rushed that nightwalker Duushana with infernal exerts rushed towards Rama. [3-26-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -577,8 +555,6 @@ off.
 
 While Duushana came falling on, he that Raghava sheared off his shoulders that have wrist-ornaments
 on his arms with two arrows. [3-26-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -628,8 +604,6 @@ hands; *tasya* = his; *mahaa kaayaH* = gigantic, in construct; *parighaH bhraSTa
 
 When Duushana's arms are thus sheared in the van of war, his gigantic mace slipped and spun in his own
 front, like the flagstaff with flag raised in honour of Indra, and collapsed . [3-26-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -675,8 +649,6 @@ viSaaNaabhyaam* = broken down, with two tusks; *manasvii* = self-regarding - hau
 
 With both of his arms strewn around Duushana fell down onto earth like a haughty and gigantic elephant
 when both of its tusks are broken down. [3-26-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -723,8 +695,6 @@ tam duuSaNam dR^iSTvaa* = him, that Duushana, on seeing; *sarva bhuutaani* = all
 
 On seeing Duushana eliminated and fallen to ground, all the beings have applauded Rama saying, 'good,
 good...' [3-26-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -777,8 +747,6 @@ Pramaathi, also; *trayaH senaa agra yaayinaH* = three, army, fore, striders [lea
 In the meantime infuriated are the three leading commanders of that army, namely Mahakapaala, Sthulaaksha
 and great mighty Pramaathii, and they collectively ran towards Rama, bound by the rein of death. [3-26-17,
 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -824,8 +792,6 @@ ca parashvadham* = Pramaathi, also, axe [handling, they rushed.]
 
 Mahakapaala raising a broad trident, Sthulaaksha handling a scimitar, Pramaathi handling an axe rushed
 towards Rama. [3-26-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -874,8 +840,6 @@ limit [an inopportune guests of war] as with; *jagraaha* = received - taken on.
 As one would receive guests meeting his basic needs, Raghava too took on these untimely guests of war,
 rather the insurgents, meeting their basic needs which now are no more than highly sharpened acute edged
 arrows, when he saw them coming and falling upon him, inopportunely. [3-26-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -962,8 +926,6 @@ Though they are similar to give the general meaning of a tree, they are juxtapos
 as the adjective of the word *druma*. This is not exactly synonymic usage, but a shade of difference
 is available in both words. Readers may please refer to the excellent book of Dr. Satya Vrat, The Ramayana
 - A Linguistic Study.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1025,8 +987,6 @@ _________________
 
 On hearing about the killing of Duushana and also thus of the followers of Duushana, Khara irately ordered
 his army captains, under whose captaincy mighty forces are there. [3-26-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1044,8 +1004,6 @@ oh, all, demons; *mahatyaa senayaa saardham* = formidable, army, along with - ta
 "Duushana is killed in war along with his followers, hence all you demons, take formidable army, take
 weapons of diverse designs, combat and kill that evil-human Rama..." Thus Khara ordered the remaining
 demons. [3-26-24b, 25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1111,8 +1069,6 @@ Saying so Khara himself rushed towards Rama in rage, and Shyenagaami, Prithugrii
 Durjaya, Karaviiraaksha, Parusha, Kaalakaarmuka, Hemamaali, Mahaamaali, Sarpaasya, and Rudhiraaksha
 are the twelve fiendishly atrocious troop leaders of demonic forces, and they too rushed towards Rama
 launching their atrocious arrows. [3-26-26, 27, 28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1158,8 +1114,6 @@ isimilar in blaze; *hema vajra vibhuuSitaiH* = with gold, diamonds, embellished 
 
 He who is resplendent that Rama then annihilated the remaining demons of that army with his arrows that
 are embellished with gold and diamonds, and that are blazing like ritual-fires. [3-26-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1206,8 +1160,6 @@ nijaghnuH* = them, demons, felled.
 
 With those arrows that have golden tailpieces and sharp barbs, and that are dazzling like fuming ritual
 fires Rama felled the demons, as Thunderbolts of Indra will be felling gigantic trees. [3-26-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1257,8 +1209,6 @@ sahasram* = thousand [demons]; *sahasreNa* = with thousand [arrows]; *raNa muurd
 
 With a hundred rudder like arrows Rama hit down a hundred demons, and with a thousand more, thousand
 more demons are hit in the forefront of that war. [3-26-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1305,8 +1255,6 @@ aa digdhaa* = nightwalkers, by blood, wholly, [bodies] smudged; *dharaNyaam* = o
 
 Ripped are their shields and armorial-ornaments, ruined and rickety are their bows, and they the nightwalkers
 fell flat on ground, bodies wholly smudged with blood. [3-26-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1356,8 +1304,6 @@ holy-grass, spread over with, like [became.]
 
 With those demons that have fallen down in war, whose hair is tousled and who are drenched in blood,
 entire earth looked like a vast altar of fire overspread with holy grass. [3-26-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1397,8 +1343,6 @@ a moment, very, disgustingly; *maamsa shoNita kardamam* = flesh, blood, sludgy; 
 
 That forest which became sludgy with the flesh and blood of killed demons and very disgusting, in a
 moment it became identical with hell. [3-26-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1445,8 +1389,6 @@ eliminated.
 
 Thus that Rama, a lone one, that too a foot-soldier, has eliminated fourteen thousand demons of frightening
 exploits. [3-26-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1504,8 +1446,6 @@ namely Khara and Trishira are remaining, and on the other side Rama is remaining
 But it is said to be inappropriate, because Rama cannot be grouped with the killable side. Further,
 there are some more petty demons besides Khara and Trishira, to carry a word to Ravana, as said in the
 coming chapters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1552,8 +1492,6 @@ coming chapters.
 
 Lakshmana's elder brother Rama eliminated all of the remaining demons in the forefront of war who are
 highly valorous, ghastly and unbearable. [3-26-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 </details>
 
@@ -1609,8 +1547,6 @@ by a great, chariot; *raamam samaasasaada [sam aa sa saada]* = to Rama, marched 
 Then on surveying that great demonic force which is eliminated by Rama in that staggering war, Khara
 then marched on to reach Rama in a huge chariot, as with Indra who will march upraising his Thunderbolt.
 [3-26-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

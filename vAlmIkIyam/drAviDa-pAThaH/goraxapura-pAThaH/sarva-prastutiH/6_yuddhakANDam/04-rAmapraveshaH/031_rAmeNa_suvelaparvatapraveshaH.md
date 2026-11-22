@@ -61,8 +61,6 @@ _________________
 
 The spies of king Ravana informed him that Rama with his imperturbable army
  was encamped at Mount Suvela in Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -79,8 +77,6 @@ The spies of king Ravana informed him that Rama with his imperturbable army
 
 Hearing through his spies that Rama with his mighty army had arrived to Lanka,
  Ravana was a little agitated and spoke to his counsellors as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -159,8 +155,6 @@ Hearing through his spies that Rama with his mighty army had arrived to Lanka,
 
 As per his command, the ministers came instantly. Ravana conferred with the
  ogres, his ministers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -207,8 +201,6 @@ As per his command, the ministers came instantly. Ravana conferred with the
 
 The dreadful Ravana discussed about the ensuing things to be done immediately.
  He sent away the ministers and entered his palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ The dreadful Ravana discussed about the ensuing things to be done immediately.
 
 Thereafter, Ravana the practiser of conjuring tricks, took the exceedingly
  strong Vidyujjihva who was a great sourcerer along with him and went to Seetha's place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -305,8 +295,6 @@ Thereafter, Ravana the practiser of conjuring tricks, took the exceedingly
 Ravana the lord of demons spoke to Vidyujjihva, who was a knower of conjuring
  tricks as follows: "With your spells, create an illusion in order to deceive Seetha, daughter
  of Janaka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -353,8 +341,6 @@ Ravana the lord of demons spoke to Vidyujjihva, who was a knower of conjuring
 
 "O, demon! Produce a head resembling Rama's along with a great bow and arrows
  created deceptively and present yourself before me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -401,8 +387,6 @@ Ravana the lord of demons spoke to Vidyujjihva, who was a knower of conjuring
 Hearing Ravana's words, the demon Vidyujjihva said, "Be it so". He showed
  to Ravana those things of his conjuring trick, well-performed. The king became satisfied
  of his work and gave him an ornament (as a gift).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -456,8 +440,6 @@ Hearing Ravana's words, the demon Vidyujjihva said, "Be it so". He showed
 
 The exceedingly strong Ravana the suzerain lord of demons, duly entered the
  Ashoka grove, eagerly longing for the sight of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -511,8 +493,6 @@ Then, Ravana the younger brother of Kubera ( the god of riches) saw Seetha
  the unfortunate one, who did not deserve that fate, seated on the ground with her head bent
  down in the Ashoka grove plunged in grief as she was and absorbed in the thought of her
  husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -558,8 +538,6 @@ Then, Ravana the younger brother of Kubera ( the god of riches) saw Seetha
 Then, approaching Seetha who was attended upon by ghastly ogresses seated
  not far distance from her and mentioning his own name with great delight, Ravana spoke the
  following audacious words to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -601,8 +579,6 @@ Then, approaching Seetha who was attended upon by ghastly ogresses seated
 
 "O, Beautiful one! He in whom you trusted and repelled me when I sought to
  console you - that murderer of Khara, your husband Rama has been killed in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -657,8 +633,6 @@ _________________
 
 "O, Seetha! Your root has been cut off in all ways by me and your pride has
  been slain. By your present evil predicament, you will become my wife."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -675,8 +649,6 @@ _________________
 
 "O, Foolish one! Give up this resolution. What will you do with one dead.
  O, beautiful one! Become the Chief Queen over all my consorts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -727,8 +699,6 @@ _________________
 "O, Foolish one, with scant virtue and failed purpose! You think yourself
  as wise! O, Seetha! Hear about the dreadful killing of your husband in battle, as the killing
  of the demon Vritra (at the hands of Indra)"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -775,8 +745,6 @@ _________________
 
 "Rama, encircled by an extensive army led forward by Sugreeva, is said to
  have arrived at the sea-shore, to kill me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -817,8 +785,6 @@ _________________
 
 "While sun was going to set, Rama with his mighty army was encamped there,
  encroaching upon the northern shore of the sea."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -861,8 +827,6 @@ _________________
 "Their army stationed there, comfortably asleep at the middle of the night
  and completely fatigued in the course of the journey, was approached first and espied by
  our spies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -904,8 +868,6 @@ _________________
 
 "By my great army, which was led by Prahasta, Rama's army was killed in the
  night at the place where Rama and Lakshmana were there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -963,8 +925,6 @@ _________________
 The demons wielding harpoons, maces, discus, daggers, sticks, great arrows
  spears, shining maces with spikes, picks lances, darts, massed weapons, clubs and circular
  missiles, made use of them again and again in order to strike down the monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1006,8 +966,6 @@ The demons wielding harpoons, maces, discus, daggers, sticks, great arrows
 
 "The impetuous Prahasta, with his steady hand, severed the head of Rama sleeping
  there, with his mighty sword without a resistance from any one."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1057,8 +1015,6 @@ _________________
 
 "Fortunately, Vibhishana was over leaped and held captive. Lakshmana along
  with the monkeys were made to run away in all directions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1109,8 +1065,6 @@ _________________
 
 "O, Seetha! Sugreeva the king of monkeys with his neck broken and Hanuman
  with his jaw removed were laid down and killed by the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1157,8 +1111,6 @@ _________________
 
 "Thereafter Jambavan who was rising up on his knees was killed in the battle.
  His body was cut off with many sharp-edged spears, like a tree is cut off."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1231,8 +1183,6 @@ _________________
 "Mainda and Dvivida - those two great scourgers of their foes, the long bodied
  and the foremost of the monkeys, groaning and breathless, their limbs bathed in blood-were
  cut to pieces at the waist-level, by a sword."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1277,8 +1227,6 @@ _________________
 "Panasa, crying for help was stretched on the earth under a tree of the same
  name. Pierced by lying in a pit. The exceedingly valiant kumuda on his part, shrieking,
  was killed by a hail of missiles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1326,8 +1274,6 @@ _________________
 
 "Angada, who was adorned with bracelets lies fallen down, emitting blood
  on all sides, as he was pierced by the demons with many arrows, after approaching him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1378,8 +1324,6 @@ _________________
 
 "The monkeys sleeping there were crushed by elephants and multitude of chariots,
  like clouds are crushed to pieces by the velocity of wind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1426,8 +1370,6 @@ _________________
 
 "The enemy fled in terror, pursued by demons, while being struck on the bak,
  like lions pursuing great elephants."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1475,8 +1417,6 @@ _________________
 
 "Some monkeys fell in the sea and some sought shelter in the sky. The bears
  with the monkeys climbed the trees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1523,8 +1463,6 @@ _________________
 
 "By the demons with monstrous eyes, were killed a multitude of monkeys, at
  the shores of the sea, in the mountains an in the woods."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1575,8 +1513,6 @@ _________________
 
 "Thus, your husband together with his army was killed by my troops. This
  head, drenched in his blood and besmeared with dust has been gathered up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1618,8 +1554,6 @@ _________________
 
 Thereafter, Ravana the Lord of demons who was very much difficult to be attacked,
  spoke the following words to an ogress, while Seetha was overhearing them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1640,8 +1574,6 @@ Thereafter, Ravana the Lord of demons who was very much difficult to be attacked
 
 "The time for deliberation has come to us. Let our ministerial colleagues
  come quickly with their keenly attentive minds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1691,8 +1623,6 @@ _________________
 
 "Bring Vidyujjihva, the demon of the cruel deed, by whom himself Raghava's
  head was brought back from the battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1708,8 +1638,6 @@ _________________
 
 Holding that head along with a bow, Vidyujjihva making a respectful salute
  with his head bent low, stood in front of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1750,8 +1678,6 @@ Holding that head along with a bow, Vidyujjihva making a respectful salute
 
 Thereafter, the king Ravana spoke the following words to Vidyujjihva, the
  demon who had a large tongue and who was standing and moving closely.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1799,8 +1725,6 @@ Thereafter, the king Ravana spoke the following words to Vidyujjihva, the
 
 "Keep Rama's head immediately in front of Seetha. Let the miserable Seetha
  see well the final condition of her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1842,8 +1766,6 @@ Thereafter, the king Ravana spoke the following words to Vidyujjihva, the
 
 Hearing Ravana's words, that demon deposited the cherished head in the vicinity
  of Seetha and soon disappeared from the site.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1885,8 +1807,6 @@ Hearing Ravana's words, that demon deposited the cherished head in the vicinity
 
 "Here is Rama's bow famous in the three worlds!" - saying thus, Ravana threw
  a great shining bow in front of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 </details>
 
@@ -1938,8 +1858,6 @@ Hearing Ravana's words, that demon deposited the cherished head in the vicinity
 
 "This is the bow with its cord stretched, belonging to Rama, that was brought
  back by Prahasta here, after killing that hero in the night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

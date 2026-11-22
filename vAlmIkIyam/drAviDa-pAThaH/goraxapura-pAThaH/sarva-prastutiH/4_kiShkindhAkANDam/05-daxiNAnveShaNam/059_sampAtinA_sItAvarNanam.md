@@ -24,8 +24,6 @@ these are said to be interpolated chapters. However, if it is questioned as to w
 being incorporated in translations, in spite of the irregularities noticed, for this the reply is
 'because most ancient commentators have given elaborate commentaries on them they are stetted...'
 and thus these chapters are held valid.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ fly-jumpers, the best; *muditaH hR^iSTaaH* = are gladdened, rejoiced.
 
 On hearing the words of that kingly eagle Sampaati that are relishable like
 ambrosia, then those best fly-jumpers are gladdened and rejoiced. [4-59-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -129,8 +125,6 @@ talaat* = from land's, surface; *sahasaa utthaaya* = quickly, on getting up;
 Then the best fly-jumper Jambavanta got up along with all of the fly-jumpers from
 the surface of earth on which they sat for self-immolation, and spoke to kingly eagle Sampaati.
 [4-59-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ them out.
 
 "You please tell vividly as to where is Seetha, who has actually seen her, who has
 abducted Maithili, and thus you help all these forest-dwellers. [4-59-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ arrows]; kaH who; *na cintayati* = not, thinking [inadvertent]
 "Who is inadvertent of the onslaught of Rama's arrows, or of those that are
 personally bolted by Lakshmana, which arrows will be falling with the speed of thunderbolts?" Thus,
 Jambavanta and others asked Sampaati. [4-59-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ cheering them up; *punaH idam vacanam abraviit* = again, this, sentence, said.
 Sampaati is gladdened at the monkeys who refrained from self-immolation, and he
 gladly said this sentence to them so as to cheer them up who are now contemplating to listen about
 Seetha. [4-59-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -324,8 +312,6 @@ also; *iha shruuyataam* = now, I will narrate.
 
 "I will now narrate as to how I have listened about the abduction of Vaidehi, by
 whom it is said to me, and where that wide-eyed Seetha is... [4-59-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -373,8 +359,6 @@ slackened, liveliness, forcefulness.
 "At one time I fell down on this impassable mountain which is breadth-wise in many
 yojana-s, whereupon my age has advanced and my liveliness and forcefulness have slackened...
 [4-59-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -421,8 +405,6 @@ supaarshvaH naama* = by name, Supaarshva, named; *putraH* = son; *yathaa kaalam*
 
 "My son who is the best one among all birds, and who is named as Supaarshva by his
 name is sustaining me who am deteriorated to dire straits, with timely sustenance... [4-59-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -470,8 +452,6 @@ exigent, hunger.
 
 "Passion is exigent to the celestial-artists gandharva-s, aggression is exigent to
 snakes, fear is exigent to deer, like that hunger is exigent to us, the eagles... [4-59-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ day, went away, sun - till sun is down on that day; *an aamiSaH* = without, fles
 
 "On some day when hunger was aching me and I was aching for food, my son Supaarshva
 turned up without flesh when the sun of the day went down... [4-59-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -567,8 +545,6 @@ vacanam abraviit* = this, sentence, said.
 
 "I reproved him as I was deprived of food, and my son who is an enhancer of my
 gladness pacified me and said this sentence about what has actually happened ... [4-59-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -615,8 +591,6 @@ entrance, overspreading; *su sam aashritaH* = very, well, depended [hovered on i
 
 " 'Oh, father, I as a desirer of flesh flew up to skies in time and overspreading
 the Mt. Mahendra, I very well hovered on it... [4-59-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -664,8 +638,6 @@ myself; *avaa~N mukhaH* = down, with face [looking down]; *adhyavasam [adhi avas
 
 " 'I have been hovering there looking downward to completely impede the pathway of
 thousands of underwater beings of the ocean on my own... [4-59-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -712,8 +684,6 @@ shine; *striyam aadaaya gacChan vai* = lady; on taking [captivating,] going away
 
 " 'There I have seen someone who in simile is like a shoved heap of mascara and he
 is going away captivating a lady who equals the aurora in her shine. [4-59-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -762,8 +732,6 @@ sincerely [beggarly,] besought.
 
 " 'On seeing two of them I resolved to use them up for the purpose of food, but he
 benignly, basely and beggarly besought way-leave for their traversal... [4-59-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -811,8 +779,6 @@ vidyate hi* = will not be, evident, isn't it; then; *mat vidhaH* = [about] my, t
 
 " 'There will be none assaulting those that entreat in a beggarly manner, even
 someone among basely people, isn't it! Then what else is to be said of my kind, aha! [4-59-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -862,8 +828,6 @@ sabhaajitaH* = [I was] approached, [I was] applauded.
 
 " 'He hastily went away as though enshrouding the skies with his vigour, and then
 the beings that move in the firmament have approached and applauded me... [4-59-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -921,8 +885,6 @@ is an addressing to the son of Sampaati and then the meaning is: 'my boy, though
 saveable, defendable person and though you have shown your concern to stall Ravana like your
 paternal uncle Jataayu... you have not done it and left him off, then unhurt by Ravana you are
 living, fortunately...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -1011,8 +973,6 @@ ornaments and ochry-silk-sari are disorderly, and who is vanquished by the speed
 anguish, and who is yelling both the names of Rama and Lakshmana, as the wife of Dasharatha's Rama,
 the daughter of Janaka. They have also informed on showing him who is abducting her as Ravana, the
 king of demons. [4-59-19, 20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1034,8 +994,6 @@ drift; *samagram* = in entirety; *me pratyavedayat* = to me, informed.
 " 'And hence, oh, father, the lapse of time in my returning home...' thus that best
 sentence maker Supaarshva informed me all the drift in its entirety..." Thus Sampaati is continuing
 his narration to monkeys. [4-59- 21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1052,8 +1010,6 @@ samaarabhet hi* = how, initiates, indeed.
 
 "Even on listening that it has not come to my mind to dare Ravana. How a wingless
 bird can initiate any action, indeed! [4-59-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -1104,8 +1060,6 @@ bravery, dependent - an action; *tatra* = in this matter; *vakSyaami* = I narrat
 "But that which is possible for me to do is advising as a votary with the qualities
 of thinking and advising. Let it be heard as I narrate and in that matter of translating my
 information into action it certainly depends on your bravery. [4-59-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -1156,8 +1110,6 @@ mama* = that [task,] is mine [too]; *na atra samshayaH* = no, in that matter, do
 "Indeed with my analysis and information to you I wish to make all of you exuberant
 as I deem that I have done my bit, because whatever task of Rama, the son of Dasharatha, is there
 that task is mine too. There is no doubt bout it. [4-59-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -1208,8 +1160,6 @@ api duraasadaaH* = by gods, even, invincible ones; *bhavantaH* = such as you are
 "Thereby, I reckon you as the best ones by your aptitude, fortitude and attitude,
 and as invincible ones even for gods, hence Sugreeva, the king of monkeys, shepherded you...
 [4-59-25, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -1256,8 +1206,6 @@ defending, and for offending; *paryaaptaaH* = are enough.
 
 "What is more, the excruciating eagle-feathered arrows of Rama and Lakshmana are
 enough to give defence or offence to all the three worlds. [4-59-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -1304,8 +1252,6 @@ api* = in the least, even; *na* = is not there.
 
 "Perchance that Decahedral demon is definitely a powerful and prideful demon. But,
 as capable vanara-s there is nothing impossible to you, even in the least. [4-59-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 </details>
 
@@ -1352,8 +1298,6 @@ as capable vanara-s there is nothing impossible to you, even in the least. [4-59
 
 "Thereby, enough is the time-lapse and make a mental determination. Adventurers and
 prudent souls of your kind with not backslide in tasks, isn't it! [4-59-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Ravana proceeds to Maareecha seeking his help in the abduction of Seetha. He tra
 chariot and on way he sees many locations along the seacoast that are affluent and divine. On seeing
 a banyan tree Ravana recollects the episode of Garuda, the Divine Eagle. He arrives at the hermitage
 of Maareecha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ ministers, bidding adieu; *kaaryam buddhvaa jagaama ha* = his task, resolving, p
 
 On hearing the exciting advise of Shuurpanakha then Ravana bade adieu to ministers, and indeed on resolving
 his further task he proceeded to his personal palace chambers. [3-35-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ While following up his thinking about that task he got a pertinent thought, and 
 the credits and discredits, strengths and weaknesses of that thought he decided that 'this is to be
 done in this method only.' On taking a decision in that way and with a firm mind he indeed proceeded
 to his excellent vehicle-garage. [3-35-2, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -217,8 +211,6 @@ made known in the words of Kumbhakarna in Yuddha Kaanda. This is shameful for hi
 not do this way on previous occasions. For such a cowardly act, even Ravana's cherished wife Mandodari
 may despise or deride Ravana. So, he came to stables with a quirk of secrecy, which of course, will
 not remain a secret, soon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -265,8 +257,6 @@ to harness - horses, got it ready.
 
 When that brisk-paced charioteer is said in this way he instantly harnessed the favourite and choicest
 chariot of Ravana with horses and got it ready. [3-35-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -339,8 +329,6 @@ studded trappings is rideable by the wish of the rider, and sitting in such a ch
 golden and which rides with a sound like the pealing of thunder, that celebrated Ravana, the brother
 of Kubera and the lord of demons, travelled towards the lord of rivers and rivulets, namely the ocean.
 [3-35-6,7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -432,8 +420,6 @@ and rimmed with flights of cranes. [3-35-8, 9, 10]
 
 Here the cloud metaphors with Ravana, the streaks of lightning with the silvery flashes of his regalia,
 and the decorated chariot with the flight of cranes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -491,8 +477,6 @@ trees; *anu kiirNam* = interspersed; *saagara anuupam* = ocean's, costal-delta a
 
 That dauntless Ravana forged ahead while viewing the area along the coastline which is interspersed
 with thousands of mountains and which is with variously flowered and fruited trees. [3-35-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -507,8 +491,6 @@ thresholds; *samantataH alankR^itam* = everywhere, bedecked with - seeing them h
 
 Everywhere the coastland is bedecked with lotus-lakes containing clean and cool waters, and with extensive
 thresholds of hermitages containing Fire-altars. [3-35-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -557,8 +539,6 @@ upashobhitam* = coconut trees, glistening with; *saalaiH taalaiH tamaalaiH ca ta
 
 Entire coast is gleaming with banana plantation and glistening with coconut trees, and the saala, palm,
 and tamaala trees are also in full blossom. [3-35-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -638,8 +618,6 @@ brainchildren of Brahma, namely Vaikhanasa-s, Maasha-s, Vaalakhilya-s, Mariicipa
 
 The details about these sages are given in the 6th chapter of this Aranya Kanda when these categories
 of sages meet Rama requesting protection from demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -692,8 +670,6 @@ of sages meet Rama requesting protection from demons.
 With thousands of celestial maidens divine in their mien, namely apsara-s, who are prettified with divine
 ornaments and garlands, and who are also the experts in the methodical sex-games that seaside is pervaded.
 [3-35-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -716,8 +692,6 @@ The demons did not get their share of *amR^ita *'divine elixir' therefore they c
 *amR^ita ashibhiH *'ambrosia consumers.' As such, some other mms contain this expression *
 amR^ita arthibhiH *'desirers of ambrosia...' the demons. They also frequent those coasts along with
 gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -772,8 +746,6 @@ like, stones, overlain; *saagara tejasaa* = by ocean's, ambience; *saandram* = s
 It is spread with swans, ruddy-gees and frogs, and there the waterfowls are very noisy, and stones overlain
 on the coast are like lapis-gems, and with the ambience of ocean that whole delta is appearing smooth
 and sludgy. [3-35-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -833,8 +805,6 @@ While Ravana, the brother of Kubera, is quickly transiting he saw everywhere the
 aircrafts belonging to the deified souls who acquired higher worlds, and from those aircrafts adorned
 with divine flowery tassels and piloted by the wish of their steersmen, instrumental and vocal music
 is resonating, and gandharva-s are singing and apsara-s are dancing in them. [3-35-19, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -875,8 +845,6 @@ satisfying to, also; *sahasrashaH vanaani pashyan* = in thousands, woodlands, wh
 
 Ravana proceeded while observing thousands of woodlands with sandalwood trees that are soothing and
 satisfying the sense of smell, and that oozed sweet-smelling resin at their bases. [3-35-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -935,8 +903,6 @@ ca* = woodlands, also; *takkolaanaam* = of Takkola trees; *phalaanaam ca su gand
 
 He also observed on his way the forests and woodlands containing the noteworthy aloe plants, Takkola
 trees, and the nutmeg trees that are with fruits and aromatic, as well. [3-35-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -952,8 +918,6 @@ saw.
 
 Also seen are the flowers of Tamaala trees, shrubberies of pepper, and heaps of desiccating pearl-oysters
 along the seashore. [3-35-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -974,8 +938,6 @@ their ores inside; *shR^ingaaNi* = also, crests; *tathaiva ca* = like that, even
 
 Thus, he saw the peaking boulders, like that the reefs of corals, and like that also at the mountains
 that have golden and silvern crests. [3-35-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -994,8 +956,6 @@ ratnaiH aavR^itaani ca* = women, gemlike, spread with, also; *hasti ashva ratha 
 On seeing the delightful, serene, and marvellous cascades, and cities that are abundant in wealth and
 agricultural produce, and abundant with gemlike womenfolk, and that are replete with elephants, horses,
 and chariots, Ravana proceeded further. [3-35-25, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1050,8 +1010,6 @@ The demons did not get their share of *amR^ita *'divine elixir' therefore they c
 called *amR^ita ashibhiH *'ambrosia consumers.' As such, some other mms contain this
 expression *amR^ita arthibhiH *'desirers of ambrosia...' the demons. They also frequent those
 coasts along with gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1102,8 +1060,6 @@ Indian Fig tree [banyan tree, Ficus benghalensis - the branches of which hang do
 There Ravana also saw a banyan tree which in sheen is like a black-cloud, and the branches of which
 are stretching all over for a hundred yojana-s in length, and on which sages made their abode for practising
 ascesis. [3-35-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1162,8 +1118,6 @@ and tortoise are engaged in a fierce fight though none of them is a prey to the 
 and to teach a lesson to such causeless quarrellers, Garuda flies in and claws both and searches for
 a place to feast on them. Finding this tree worthwhile to have a leisure dinner he dashes on to one
 branch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1211,8 +1165,6 @@ weight, suddenly, broke - while descending rapidly.
 
 While descending rapidly then that best bird among birds Garuda suddenly broke that tree's branch which
 is full with leaves, owing to the impact of his high impetuosity. [3-35-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1260,8 +1212,6 @@ is full with leaves, owing to the impact of his high impetuosity. [3-35-29b, 30a
 Adhering to that tree-branch there are eminent sages like, Vaikhanasa-s, Maasha-s, Vaalakhilya-s, Mariicipa-s,
 Aja-s, and even sages like Dhuumraa-s that thrive on fumes and smokes are there, and there they are
 collectively practising asceticism upside down while clasping branches with their legs. [3-35-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1325,8 +1275,6 @@ ubhau gaja kacChapau ca* = those, two, elephant, tortoise also; *aadaaya* = on t
 For the sake of the grace of those sages Garuda took flight from that tree, grasping that broken tree-branch
 of a hundred yojana length along with those pendulous sages with his beak, and both of the elephant
 and tortoise with both of his claws. [3-35-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1359,8 +1307,6 @@ sages clinging to that tree branch bless him to be successful in his next missio
 When that tree branch is free from sages, Garuda throws it on a province of some antagonistic tribal
 community, by weight of which the whole of that tribal community is destroyed. This is one way of telling
 the myth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1408,8 +1354,6 @@ his mind - resolved.
 
 When his valour has become twice as much with that happiness that heedful Garuda indeed resolved to
 bring ambrosia from heaven. [3-35-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1456,8 +1400,6 @@ aajahaara* = ambrosia, plundered.
 
 Smashing the guard of iron-grid completely and crashing the unbreakable diamond -like strongroom in
 which the ambrosia is safeguarded, then Garuda carried off ambrosia from the palace of Indra. [3-35-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1504,8 +1446,6 @@ deed, signs - betokens Garuda's actions; *naamnaa subhadram* = by name, Subhadra
 
 Ravana on his way saw such a banyan tree named as Subhadra which is a much sought after tree for assemblages
 of great sages, and which betokens the deeds of that best-winged Garuda. [3-35-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1552,8 +1492,6 @@ Ravana saw.
 
 On going to the other side of the lord of rivers, namely ocean, Ravana saw a pleasing hermitage in the
 sacred and scenic interior of the forest. [3-35-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1603,8 +1541,6 @@ with controlled, diet; *maariicam naama raakSasam* = Maareecha, named, demon; *d
 
 At that place Ravana saw the demon named Maareecha, wearing jute-clothes and black deerskin and tufts
 of hairs, and the one with regulated diet. [3-35-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1651,8 +1587,6 @@ with super, humanly [not subhuman]; *sarva kaamaiH* = with all, offerings; *vidh
 
 That demon Maareecha welcomed the king Ravana and customarily entertained him catering all the offerings
 that are beyond the scope of humans. [3-35-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1699,8 +1633,6 @@ entertaining, also; *artha upahitayaa vaacaa* = with significance, connotative, 
 
 On personally offering meals and drinking water, and venerating him properly Maareecha spoke this sentence
 to Ravana which is connotative of significance. [3-35-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1777,8 +1709,6 @@ ancient mms contain this verse which also tell about that place as *deva bhuumi 
 the northern side of *kuru *i.e., *kurukhsetra *where Great War of Maha Bharata
 occurred: *uttar˜nþca
 kur¨n paþyan paþyan caiva nagottam˜n | deva d˜nava sanghai× ca sevitam hi am®ta arthibhi× ||*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 </details>
 
@@ -1825,8 +1755,6 @@ spoke [to Maareecha.]
 
 When Maareecha spoke to him thus, that highly radiant and eloquent Ravana then afterwards spoke this
 sentence to Maareecha. [3-35-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

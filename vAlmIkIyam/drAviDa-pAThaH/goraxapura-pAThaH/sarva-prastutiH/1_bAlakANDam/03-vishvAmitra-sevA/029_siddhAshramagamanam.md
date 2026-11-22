@@ -19,8 +19,6 @@ Rama and Lakshmana inquisitively enquired into the Siddhaashrama,
  Vishnu in Vaamna incarnation. Vishvamitra narrates about it and how
  Vaamna, a dwarfish ascetic boy eradicated evil on earth. It is a suggestion
  to Rama from Sage Vishvamitra to do likewise in this incarnation of Rama also.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ Rama and Lakshmana inquisitively enquired into the Siddhaashrama,
 When that matchlessly illustrious Rama has asked for details, that highly
  resplendent sage Vishvamitra started to narrate about that forest to
  Rama. [1-29-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -126,8 +122,6 @@ When that matchlessly illustrious Rama has asked for details, that highly
  outstanding ascesis that Vishnu resided here in the pursuit of practising
  ascesis and yoga for good many years, likewise for a hundred eras. [1-29-2,
  3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -154,8 +148,6 @@ This is firstly the hermitage of Vishnu before taking up Vaamna incarnation.
  hermitage belongs to both Vishnu and Vaamna, and on such an analogy
  this even belongs to Rama at the present time, so says Vishvamitra at
  24th verse below.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -225,8 +217,6 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
  his grand benevolence. He is the grand son of Prahlaada, who in turn
  is the son of greatest demon king, HiraNyakashapa, who was eliminated
  by Vishnu, in His Nara-simha, Man-Lion incarnation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
  Vedic ritual. But when Bali is conducting that ritual remaining as its
  officiator all the gods personally approached Vishnu, keeping Fire-god
  ahead of them, just here in this hermitage and they spoke to him. [1-29-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 " 'Oh, all-pervading god Vishnu, Bali the son of Virochana is conducting
  an unsurpassed Vedic ritual, before the completion of which our own
  mission, say the task of gods, is to be achieved completely. [1-29-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -365,8 +351,6 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
  but if one approaches and supplicates to him he is donating that in
  as is where is condition, whatever is supplicated and wherever it might
  be. [1-29-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -411,8 +395,6 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
  deed for the welfare of gods on resorting to your illusory power, Vishnu
  Maya, and on assuming the form of a dwarf to deal with Emperor Bali.'
  Thus gods appealed to Vishnu. [1-29-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -487,8 +469,6 @@ The ascetic practises conducted along with wife are said to yield best
  Therefore, Dasharatha also conducted the ritual to beget progeny along
  with his wives. Here Sage Kaashyapa conducted his austerities along
  with wife Aditi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -545,8 +525,6 @@ The word 'tapaH' also means j~naana, gnosis, knowledge, intellect, spirit,
  as such it is oriented that way and said as, "oh, Vishnu, you are abounding
  with intellect, aggregate of intellect, the only aspect of intellect..."
  etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -594,8 +572,6 @@ The word 'tapaH' also means j~naana, gnosis, knowledge, intellect, spirit,
 This is the concept of *vishvaruupa*, Physique of the Universes,
  which Krishna shows to Arjuna in Maha Bharata at the time of telling
  Bhavad Gita.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -646,8 +622,6 @@ Vishnu is gladdened for the devotion of sage Kaashyapa who is absolved
  of any blemish in his ascesis, and then Vishnu said this to, "You may
  seek a boon as you are boon-worthy, I opine that you are a preferred
  one to me, let safety be with you." Thus Vishnu said to Kaashyapa. [1-29-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -699,8 +673,6 @@ On hearing the word of Vishnu sage Kaashyapa, the son of Sage Mariicha
  will be apt of you to bestow the boon besought by Lady Aditi and the
  gods, oh, lord with lofty vows, for which boon I am also supplicating
  to you, following them. [1-29-15, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -747,8 +719,6 @@ On hearing the word of Vishnu sage Kaashyapa, the son of Sage Mariicha
  render help to gods who are agonised in the anguish owing to the predominance
  of Emperor Bali, by becoming the younger brother of Indra. [1-29-16b,
  17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -806,8 +776,6 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
  is appropriate in respect of Sage Kaashyapa. In any way, this hermitage
  is an Accomplished one for gods, for sages, and for Supreme Divinities,
  in taking a foothold to eliminate the evil on earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -850,8 +818,6 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
 "That great resplendent Vishnu then adopting a semblance of a dwarf
  emerged from Aditi, and that dwarfish ascetic boy approached Emperor
  Bali, the son of Virochana." Thus Vishvamitra continued narration. [1-29-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -954,8 +920,6 @@ The myth is that Vaamna, the dwarfish ascetic boy, approaches Emperor
  manvantara-s, eras. Then on Vishnu is eulogised as Trivikrama, *tri-
  vi-krama* three, verily, paced - surpassing, one who surpasses all
  the three worlds in three strides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -1011,8 +975,6 @@ _________________
  or the stress of going through the cycle of birth and death, thus this
  hermitage is an accorded of salvation, and I am also beneficed with
  this hermitage owing to my devotion to Vaamana. [1-29-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -1054,8 +1016,6 @@ _________________
 "Demons causing obstacles, oh, tigerly man Rama, will be arriving at
  that hermitage and there alone those demons with evil pursuit are to
  be eliminated. [1-29-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -1105,8 +1065,6 @@ This hermitage is my benefice now for I am practising my asceticism
  here, but originally this belongs to you because you have practised
  your asceticism here in this hermitage as Vishnu, even earlier to your
  Vaamana incarnation.' Rama Tilaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -1159,8 +1117,6 @@ So saying that great sage Vishvamitra is highly gladdened to lead Rama
  with those two, that sage shone forth like moon with a two starred constellation
  called Punarvasu, the fifth or seventh lunar mansion, after dispersal
  of mist. [1-29-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -1206,8 +1162,6 @@ So saying that great sage Vishvamitra is highly gladdened to lead Rama
 On seeing the arrival of Vishvamitra all of the resident sages of Accomplished
  Hermitage have quickly approached him with hustle and bustle adoring
  him. [1-29-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1224,8 +1178,6 @@ On seeing the arrival of Vishvamitra all of the resident sages of Accomplished
 Those sages reverenced Vishvamitra according to their deservedness,
  likewise they have offered hospitality to both of the princes, Rama
  and Lakshmana. [1-29-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -1268,8 +1220,6 @@ Those sages reverenced Vishvamitra according to their deservedness,
 Those two princes from Raghu's dynasty and the enemy-subjugators, namely
  Rama and Lakshmana, briefly took rest and adjoining palms they spoke
  to the sagely tiger Vishvamitra. [1-29-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -1318,8 +1268,6 @@ _________________
  vice true to its name, and let the word of yours given to my father
  in fetching me to this place come true." So said Rama to Vishvamitra,
  supported by Lakshmana. [1-29-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 </details>
 
@@ -1384,8 +1332,6 @@ Vishvamitra controlling senses etc., is to say that he will cut off
  from external world occupying himself with the ritual, without getting
  anger and the like during the progression of this ritual, as explained
  at 1-19-7 to King Dasharatha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1418,8 +1364,6 @@ Rama and Lakshmana spent that night vigilantly but not in a clam and collected w
 *anena kShatriyeNa
 jaagaruukatayaa yaj~naadi dharmaanuShTaatR^isamrakShNam kartavyam iti suucitam
 || dk*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

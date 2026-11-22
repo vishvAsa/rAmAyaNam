@@ -17,8 +17,6 @@ Guha reports to Bharata, how Rama and his party broke their journey at
 Shringaverapura and narrate to him the dialogue that took place between Lakshmana and himself
 during that night. Guha further tells him how Rama and Lakshmana matted their hair into a thick
 mass crossed the holy river with Seetha and left for the hermitage of Sage Bharadwaja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ soled.
 
 Then Guha the foremost dweller reported Bharata, who was having incomprehensible
 qualities, about the quality of goodness of Lakshmana(as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ brother.
 
 "I spoke as follows to that Lakshmana, who is endowed with virtues and wielding
 arrows bow and a sword and who was keeping a vigil for the safe guard of his brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -174,8 +168,6 @@ comfortable; *sheshhva* = rest; *sukham* = peacefully; *asyaam* = on this.
 
 "O, dear brother! Here is a comfortable bed made ready for you. Feel yourself at
 ease. Rest peacefully on this, O, delight of the Raghu race!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -192,8 +184,6 @@ hardships; *tvam* = you; *sukhochitaH* = are used to comfort; vayam we;
 
 "All my people are habituated for hardships, o virtuous prince! You are used to
 comfort. Hence ,we shall keep awake for the safe guard of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -241,8 +231,6 @@ am telling; *etat* = this; *satyam* = truthful; *vaakyam* = sentence;
 
 "None is more dear to me than Rama on this earth. Moreover, do not become restless.
 I am telling this truth in your presence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -290,8 +278,6 @@ enjoyment.
 
 "By the grace of Rama, I wish to attain a very great renown in this earth, an
 extensive acquisition of righteousness, an unalloyed wealth and enjoyment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -338,8 +324,6 @@ bow in my hand; *saha* = along with; *svaiH* = my; *jN^aatibhiH* = relatives;
 
 "I as such with a bow in my hand, along with my relatives will guard my dear friend
 Rama, who slept together with Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -387,8 +371,6 @@ battle.
 
 "Nothing is indeed unknown to me, who forever wander in this forest. We can defeat
 even an army consisting of all the four limbs in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -435,8 +417,6 @@ even an army consisting of all the four limbs in battle."
 
 "Thus spoken as aforesaid by us the high soled Lakshmana, who perceives
 righteousness alone,politely replied to all of us( as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -486,8 +466,6 @@ along with Seetha; *shayane* = is reposing; *bhuumou* = on the floor?
 
 "How is it possible for me to get a sleep, or even life or comforts when Rama is
 reposing on the floor along with Seetha?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -535,8 +513,6 @@ cannot be; *prasahitum* = conquered; *yudhi* = in battle; *sarvaiH* = by all;
 
 "O, Guha! Behold that Rama, who cannot be conquered in a battle even by all the
 celestials and demons, sleeping on the blades of grass along with Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -590,8 +566,6 @@ great; *tapasaa* = penance; *vividhiH* = and by facing various;
 
 "This Rama is an excellent son, having qualities equal to those of Dasaratha. The
 king obtained Rama by performing a great penance and after facing various troubles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -607,8 +581,6 @@ king obtained Rama by performing a great penance and after facing various troubl
 
 "When Rama having seen exiled, the king Dasaratha will not survive for long.This
 earth will surely be without a husband soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -657,8 +629,6 @@ royal palace.
 "The women in the gynoecium's, having cried with a great noise, would have ceased
 their crying out of fatigue. Now, the great noise would have stopped in the royal palace by
 now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -705,8 +675,6 @@ survive; *imaam* = in this; *rajaniim* = night.
 
 "I do not expect whether all of them, like Kausalya Dasaratha and even my mother
 Sumitra will survive at all till this night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -754,8 +722,6 @@ sorrow.
 
 "By beholding Shatrughna, my mother perhaps may even survive. However, the afflicted
 Kausalya who gave birth to the eminent Rama will surely die."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -802,8 +768,6 @@ over stappingly; *anikSipya* = and having not been able to install; *raamam* = R
 
 Without realising his long-cherished wish and failing to install Rama in the kingdom
 of Aodhya, my father Dasaratha will expire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -851,8 +815,6 @@ purpose.
 
 "Those who have accomplished their purpose (Shatrughna and others) will perform all
 the funeal honours to king Dasaratha, my father when the time comes for it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -922,8 +884,6 @@ mansions, with all the gems they are encrusted, with elephants horses and chario
 there, the sound of trumpets with which the city resonates, the many diversions it contains, its
 properous and well-fed people, its luxurious gardens and parks as well as the assmeblies and
 festivals that continuously take place inti."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -970,8 +930,6 @@ festivals that continuously take place inti."
 
 Shall we enter Ayodhya happily along with that virtuous Rama, who has truly redeemed
 his promise, when he completed his term of exile?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -1018,8 +976,6 @@ passed.
 
 While that magnamimous prince was lamenting thus, standing guard, the night
 passed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -1061,8 +1017,6 @@ and were ferried; *sukham* = safely; *mayaa* = by me.
 "When the sun rose brightly in the next morning Rama and Lakshmana got their locks
 of hair matted into a thick mass at the banks of River Ganga and they were safely ferried by
 me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 </details>
 
@@ -1118,8 +1072,6 @@ bow; arrows and sword; *vyapekSamaaNau* = looking back at me; *gatam* = went awa
 "Rama and Lakshmana, who were capable of tormenting their enemies, possessing great
 strength, wearing matted locks of hari and clothes made of bark, like unto the leaders of herd of
 elephants, wielding excellent bow, arrows and sword, looking back at me, went away with Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

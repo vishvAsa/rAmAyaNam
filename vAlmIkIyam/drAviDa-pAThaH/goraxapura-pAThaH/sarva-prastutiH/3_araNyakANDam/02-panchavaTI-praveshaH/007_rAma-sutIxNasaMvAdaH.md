@@ -20,8 +20,6 @@ noises. Rama wishes to kill those animals that hamper the tranquillity of hermit
 having observed the kindness of Suteekshna towards those wild animals, however disturbing they may be,
 Rama refrains to kill them, and would like to go to any other place than this. They spend that night
 there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ hermitage, threshold, gone towards.
 Rama, the enemy-scorcher, has gone towards the threshold of the hermitage of Sage Suteekshna
 along with his brother Lakshmana and Seetha, also along with those Brahmans who accompanied him all
 the way. [4-7-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ having gone on; *bahu udakaaH nadiiH tiirtvaa* = with plenty, of waters, rivers,
 
 He travelling on a long way, and on crossing rivers with plenty of waters has seen a
 tranquil mountain towering like great Mt. Meru. [3-7-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ drumaiH* = always, with divers, tress; *tat kaananam vivishatuH* = that, forest,
 
 Then those best ones from Ikshvaku dynasty, those two Raghava-s along with Seetha have
 entered the forest which will always be full with diverse trees. [3-7-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ cloths, garlanded, adorned with.
 
 Entering that perilous forest with its many a flower and fruit bearing trees, they have
 seen the hermitage in a reclusive place adorned with rows of jute cloths as though garlanding it. [3-7-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -281,8 +271,6 @@ yogic methods do not care outward bathing of body. Usually the bath is prescribe
 but hermits of a sort leave away that bodily bathing, because the sweat and soil recurs immediately
 after each bath on this impure body. So they stop taking outward bath and concentrate on cleansing the
 inner space.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -330,8 +318,6 @@ abhi vada* = to me, you talk.
 
 "Oh! godly sage I am Rama, I have come to see you, hence oh, knower of virtue, oh, great
 sage, oh, one with truthfulness as your courage, please talk to me..." [3-7-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -379,8 +365,6 @@ sage, oh, one with truthfulness as your courage, please talk to me..." [3-7-6]
 
 Then that sage having seen that brave and best proponent of virtue, Rama, embraced him
 with both of his hands, and spoke this sentence. [3-7-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -428,8 +412,6 @@ tvayaa aakraantaH* = by you, caught unprepared [treaded upon]; *ayam aashramaH* 
 
 "Welcome to you Rama, best of Raghu dynasty and the best patron of truth, and when you
 presently caught this hermitage unprepared this has become a well-lorded one... [3-7-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -490,8 +472,6 @@ sage to Rama. Govindaraja. "You birthed in Raghu's dynasty for the elimination o
 your kingdom and you are coming this way. So I am waiting for your graceful look, without going to heavens
 leaving the body. Should I leave the body and go to heavens, I cannot see *parama puruSa* , The
 Absolute, in you... so I did not cast off this body...' Thus said the sage to Rama. Maheshvara Tirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -558,8 +538,6 @@ by me]; *maam aaha* = [thus] to me, he said.
 
 "The king of gods and the chief invitee in hundred sacrifices Indra approached me, and
 that great deity said me that I have conquered all the worlds by my meritorious deeds... [3-7-10, 11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -617,8 +595,6 @@ of this canto. Any thing accrued by human effort and energy, if dedicated at the
 meritorious and establishes a selflessness of the devotee. Even in any daily worship it will be concluded
 with a saying, *ye tat phalam parameshwara arpaNamastu...* i.e., whatever is the result of this
 worship it is dedicated in the Supreme...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -666,8 +642,6 @@ vaadinam* = truth, advocate of; *prati uvaaca* = in turn, said; *brahmaaNam iva 
 
 That self-respecting Rama replied the radiant sage with intense asceticism, a great soul
 and an advocate of truth by himself, as Indra would reply to Brahma. [3-7-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -720,8 +694,6 @@ in this forest as indicated by you... [3-7-14]
 
 This is the same situation with Sage Sharabhanga in the 5th chapter of this canto.
 This is an allusive saying by Rama. cf. 3-5-33.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -768,8 +740,6 @@ gautamena = said by, great soul, Sharabhanga, belonging to sage Gautama's dynast
 "You are an expert in all affairs, and you are interested in the welfare of all the beings,
 so said the great souled Sage Sharabhanga of Sage Gautama's dynasty..." [So said Rama to the sage.]
 [3-7-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -816,8 +786,6 @@ abraviit madhuram vaakyam* = spoke, sweet worded, sentence.
 
 When said thus by Rama, that great sage with world renown spoke sweet worded sentence
 with great pleasure. [3-7-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -868,8 +836,6 @@ here, thus.
 
 "You can take delight in this good featured hermitage alone, for groups of sages will
 always be moving here, and this always contains tubers and fruits..." Thus said Sage Suteekshna. [3-7-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -931,8 +897,6 @@ got on seeing Golden Deer. But Rama raises his bow and arrow to kill these anima
 of hermitage, whether it be deer or other blaring wild animals. So Rama's fury must be at the 'luring
 deer', say Golden Deer, but not at ordinary deer. Thus this usage of 'deer and lure' may be taken as
 *lakshaNa* for *lakshita* of Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -985,8 +949,6 @@ vacanam shrutvaa* = of that, great sage, that, sentence, on hearing; *sa sharam 
 "Know that no other problem is there other than the animals..." So said the sage. On
 hearing those words of that great sage, that brave elder brother of Lakshmana taking bow and arrow said
 this sentence. [3-7-19, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -1038,8 +1000,6 @@ taan mR^iga sanghaan* = that collective come, animal, herds; *shareNa nishita dh
 
 "I will eradicate them, oh, greatly blessed one, those animals that will come collectively
 in herds with sharp edged, curve-end arrows... [3-7-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1056,8 +1016,6 @@ staying, not, befitting [thus I deem.]
 "But you may be more interested in those animals mercifully, then what will be there
 more painful to you, hence I deem our staying in this hermitage for along will be unbefitting..." So
 said Rama. [3-7-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -1125,8 +1083,6 @@ delightful one; *tatra vaasam akalpayat* = there, stay, arranged for himself.
 On saying thus to the sage then Rama came by the twilight, and he paused at it. On worshipping
 the westward vesperal time, Rama arranged a stay for himself along with Seetha and Lakshmana, there
 in that delightful hermitage of Sage Suteekshna. [3-7-22b, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 </details>
 
@@ -1189,8 +1145,6 @@ It may not be construed that Seetha is served with no food, by taking the wordin
 that 'two of best men are served food' by the sage. It is usual for the Indian women to take food after
 their husbands or other dependents take it first, then all womenfolk in the house join together to have
 their meal, [for a long time...of course, with their unending chit-chatting...]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

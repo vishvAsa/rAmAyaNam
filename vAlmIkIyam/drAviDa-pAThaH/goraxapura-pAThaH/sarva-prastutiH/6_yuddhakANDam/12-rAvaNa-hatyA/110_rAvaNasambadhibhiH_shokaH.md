@@ -15,8 +15,6 @@ title = "११० रावणसम्बधिभिः शोकः"
 All the consorts of Ravana lament, recollecting the valour of Ravana and with a
 stunning surprise of how he has been killed by an ordinary mortal. They feel sorry that, had Seetha
 been restored by Ravana to Rama, this major disaster would not have befallen them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ rushed out; *antaH puraat* = from their gynaecium.
 
 Seeing Ravana killed by the great-souled Rama, the female-demons were stricken with
 grief and rushed out from their gynaecium.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -177,8 +173,6 @@ Issuing out of the northern gate along with demons and penetrating into the terr
 battle-field, searching for their husband, who had been killed and crying out, "Ah my lord! Ah my
 husband!" they all ran hither and thither on the ground which was covered with headless trunks and
 rendered muddy with blood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -229,8 +223,6 @@ their eyes filled with tears; *vineduH nardantyaH* = loudly lamented; *karveNvaH
 Those women, who were overcome with grief about the death of their husband, having
 their eyes filled with tears, loudly lamented like female-elephants who had lost the leader of
 their herd.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -281,8 +273,6 @@ collyrium.
 
 Those women saw the gigantic Ravana, who was endowed with a great strength and
 invested with a great splendour, lying killed on the ground, like a heap of black collyrium.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -329,8 +319,6 @@ their husband; *shayaanam* = lying; *raNa paamsuShu* = in dust of the battle-fie
 
 Suddenly seeing their husband lying in dust of the battle-field, those women fell
 down on his limbs, like uprooted wild creepers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -377,8 +365,6 @@ woman; *aalambya* = clinging; *charaNau* = his feet; *kaachit* = a woman;
 
 A woman wept, embracing him out of great regard, another woman clinging to his feet
 and another, catching hold of his neck.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -422,8 +408,6 @@ her deceased husband; *upaagamat moham* = fell into a swoon.
 
 A woman rolled over the ground, with her arms thrown up. On seeing the face of her
 deceased husband, another woman fell into a swoon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -468,8 +452,6 @@ face; *ruroda* = wept; *snaapayantii* = moistening; *mukham* = that face;
 
 Keeping Ravana's head in her lap, a woman, looking at his face, wept moistening that
 face with her tears, as dew drops moisten a lotus-flower.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -545,8 +527,6 @@ face with her tears, as dew drops moisten a lotus-flower.
 whom Kubera the king was deprived of Pushpaka the aerial car, and by whom fear was caused on the
 battle-field in the Gandharva the celestial musicians, in the sages and the great-souled gods, lies
 killed in the battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -590,8 +570,6 @@ and; *pannagebhyo.api* = even the serpents for that matter!.
 
 "This danger has come from a mortal to him, who did not conceive any fear from the
 demons or the gods or even the serpents for that matter!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -633,8 +611,6 @@ man.
 
 "Here lies killed in battle, by a pedestrian man coming from Ayodhya, that Ravana,
 who was incapable of being killed by gods and even so by devils and demons too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -681,8 +657,6 @@ demons like; *mR^ityum lambhitaH* = could be killed; *martyena* = by a mortal;
 
 "He who could not be killed by gods, Yakshas and demons alike, could be killed by a
 mortal like one devoid of strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -730,8 +704,6 @@ grief.
 
 Thus uttering, those women of Ravana, wailing as aforesaid, burst into tears. They
 once more and repeatedly lamented, stricken, as they were, with grief (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -781,8 +753,6 @@ as your own self; *paatitaH* = struck down; *idaaniim* = now.
 "For your own death, Seetha was borne away by you, who did not listen to your near
 and dear ones, who always offered friendly counsel to you. The demons were struck down. Here, stand
 we (your consorts) as well as your own self, struck down now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -833,8 +803,6 @@ who sought your own destruction.
 
 "Though tendering salutary advice to you, Vibhishana your beloved brother, was
 harshly scolded through ignorance by you, who sought your own destruction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -881,8 +849,6 @@ haram* = which has robbed us of every root; *nasyaat* = would not have befallen 
 
 "If you had restored Seetha a princess of Mithila to Rama, this appallingly terrific
 disaster, which has robbed us of every root, would not have befallen us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -926,8 +892,6 @@ ambition.
 "If you had restored Seetha to Rama, Vibhishana your brother would have had his
 desire fulfilled. Rama would have been in the company of our allies. All of us would have been
 spared the curse of widowhood and our enemies would not have realized their ambition."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -969,8 +933,6 @@ cruelly; *tulyam nipaatitam* = destroyed all at once; *raakShasaaH* = the demons
 
 "By you, however, who forcefully captivated Seetha cruelly, the demons, we (your
 consorts) and your own self all the three have been destroyed all at once."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -1013,8 +975,6 @@ done; *daivam* = by a divine power; *hatam* = struck; *hanyate* = and ruined;
 "O the excellent demon! Your act of following your own free will, may not be the
 reason for your destruction, either for, all is being run by a divine power, struck and ruined by
 the divine power."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -1062,8 +1022,6 @@ battle; *upaagataH* = happened; *daivayogaat* = at the juncture of the providenc
 
 "This destruction of the monkeys, your demons as also yourself, in the battle, has
 happened at the juncture of the Providence (alone), O the great armed!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -1110,8 +1068,6 @@ aajJNayaacha* = nor even by command; *loke* = in this world.
 
 "The course of destiny, when ready to bear fruit, cannot be diverted either by
 money, or by wish, or by valour or even by command in this world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 </details>
 
@@ -1150,8 +1106,6 @@ _________________
 
 Those consorts of Ravana, depressed as they were and afflicted with grief, with
 their eyes full of tears, thus lamented like female ospreys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1174,8 +1128,6 @@ their calf.
 Even though impeded now and then by their maid servants, they were rolling in the
 dust of the streets, with their hair dishevelled, tormented as they were with grief like cows that
 had lost their calf.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga110/yuddhasans110.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -27,8 +27,6 @@ edition, whereas this traditional version contains forty-eight of them. Twenty-f
 account the names of trees, river-flows, beauty of nature etc., extolling nature are here as an
 ingredient of epical literature that aim to remind us about the need for a good environment, rather
 than to worry about global warming, ozone depletion, deforestation etc.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -77,8 +75,6 @@ mountain, reached.
 
 Rama along with his brother Lakshmana reached Mt. Prasavana while the enthroned
 Sugreeva entered the cave-city Kishkindha. [4-27-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -156,8 +152,6 @@ sanctifying and tranquil is like a heap of clouds in its shine. [4-27-2, 3]
 As a mass of clouds always showers water this cloudlike mountain also appears to
 be always showering unspoilt and sanctifying water by way of its rapids, waterfalls and cascades
 and other water resorts. Hence, it is water giving earthly cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -203,8 +197,6 @@ spaced, cave; *vaasaartham pratyagR^ihNiita* = for residence, has taken up.
 
 Rama along with Lakshmana has taken up an ample spaced cave as residence on the
 cliff of that mountain. [4-27-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -257,8 +249,6 @@ Rama, the faultless one and the elder brother of Lakshmana, who is the delight o
 Raghu's dynasty, and who made an accord with Sugreeva regarding cessation of activity during rainy
 season, spoke these significant and timely words to his humble brother Lakshmana who is the
 enhancer of prosperity. [4-27-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -305,8 +295,6 @@ iyam giri guhaa* = delightful one, this, mountain, cave; *vishaalaa* = is spacio
 
 "This delightful mountain cave is spacious and breezy, hence, oh, enemy destroyer
 Soumitri, let us stay in this during rainy nights. [4-27-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -424,8 +412,6 @@ where some more elaborate description of nature is available. These may please b
 These lists of trees may not be taken as just for page filling, but they may be regarded as the
 esteemed natural resources that cause natural and timely rainfalls, which occurs in the next
 chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -472,8 +458,6 @@ duure* = not, very, far from; *bhaviSyati* = is available.
 
 "This pleasant lake of lotuses enwreathed with its blossomy lotuses, oh, prince, is
 available not far away from our cave. [4-27-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -523,8 +507,6 @@ this one - cave; *ni vaataa bhaviSyati* = without, gust, it will be.
 "This cave with its north-easterly slope will be homely for us since the inrush of
 rainwater will be less, oh, gentle one, also thus with its upraised westerly portion this cave will
 be less of gusts that come from east. [4-27-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 
 </details>
@@ -572,8 +554,6 @@ one, also thus; *bhinna anjana caya upamamaa* = spattered, mascara, mound, in si
 
 "The black stone available at the doorway of the cave that looks like a spattered
 mound of mascara is broad, even-surfaced, and will be pleasant for a repose. [4-27-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -625,8 +605,6 @@ also.
 "See this mountain peak that looks like a scattered mound of mascara, dear boy,
 which rose up like a black-cloud on the sky, and it is an auspicious one for it is in northern
 side. [4-27-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -673,8 +651,6 @@ ores, abounding in; *[pashya* = you see, another mountain.]
 
 "Even see this mountain available in the southerly direction as if a white cloth is
 spread on sky, which is vying with Mt. Kailash and abounding with many an ore. [4-27-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -754,8 +730,6 @@ Padmaka, Sarala, and even with Ashoka trees, and it looks as if River Ganga is f
 They are now in Kishkindha and Trikuta is in Himalayan range. There at Mt.
 Trikuta or Mt. Meru or Himalayan mountains it is River Jahnavi or Ganga and here at Mt. Prasavana
 the river is Tungabhadra, which is affectionately remembered as River Ganga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -813,8 +787,6 @@ lady, as if, [river is] appears to be.
 shapes, like Vaaniira, Timida, Vakula, Ketaka, and with Hintaala, Tinisha, Niipa, Vetasa,
 Kritamaala trees, that river is brightened up, and thus that river appears as a dame finely
 bedecked with raiment and ornaments. [4-27-18, 19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -899,8 +871,6 @@ cranes are her eyes. The swans, by their nature they are famous for their majest
 such a floating of swans the majestic cruise of the maiden called river is perceptible. The
 clucking sounds of the birds are like the tinkles from the tinkling bells of that maiden's anklets.
 *alankaara : utprekhsa* say, hyperbolic rhetoric.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -949,8 +919,6 @@ water-lilies, buds; *bhaati* = shimmering.
 "Somewhere overspread with blue water-lilies, elsewhere with red water-lilies she is
 shining forth, and she is also shimmering with the beautiful buds of white water-lilies, somewhere
 else. [4-27-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -998,8 +966,6 @@ around; *saumya nadii ramaNiyaa* = gracious, river, is heart-pleasing.
 "With hundreds of waterfowls cherishing it, screeches of peacocks and cackles of
 curlews reverberating around, assemblages of sages bustling about, this gracious river is
 heart-pleasing. [4-27-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1051,8 +1017,6 @@ Kakubha - Arjuna trees, [rows of,] also - appear in similar pattern.
 "As if seeded by the wish of some divine creativity the rows of sandalwood trees
 that are virtually captivating have sprang forth uniformly, so also, the rows of Arjuna trees too
 appear in a similar pattern. [4-27-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1099,8 +1063,6 @@ certainly, we take delight - in this environ.
 
 "Aha! Soumitri, very exhilarating is this locale and we can happily reside here, oh,
 enemy-eliminator, we can certainly take delight in this environ. [4-27-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1147,8 +1109,6 @@ ati duure ca* = not, very, far off, further; *bhaviSyati* = it will be.
 
 "Further, oh, prince, hedged in charming groves that exquisite Kishkindha, the city
 of Sugreeva, will not be very far off from here. [4-27-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1196,8 +1156,6 @@ drum's - showy extravaganza; *shruuyate* = is heard - from here.
 "The melodies of singing and the tunes of musical instruments played and sung in
 Kishkindha are heard from here, oh, the best-triumphant Lakshmana, and even the blares of vanara-s
 together with their snobbish drumming is heard, hence it is not far away. [4-27-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1249,8 +1207,6 @@ exuberant; *dhruvam* = definite is that.
 "It is definite that the best monkey Sugreeva must be surrounded by his friends,
 thus he must be exuberant, as he won an utmost prosperity in winning back his wife and winning the
 kingdom." Rama thus spoke to Lakshmana. [4-27-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1297,8 +1253,6 @@ Lakshmana, resided.
 
 Raghava having said thus resided on that Mt. Prasavana along with Lakshmana, whereat
 many sightly caves and arbours are there. [4-27-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1354,8 +1308,6 @@ chanced, indeed.
 Though that mountain is indeed very comfortable, though it possess many objects of
 nature like flowers, fruits and waters, indeed, there is no slightest bliss to Rama while he
 resided there. [4-27-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1401,8 +1353,6 @@ is kidnapped; *praaNebhyaH api gariiyasiim hi* = than lives, even, loftier, inde
 
 He felt despondent in reminiscing about his wife who is loftier that his lives, but
 who is kidnapped, especially on seeing the moon just risen on the eastern mountain. [4-27-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1457,8 +1407,6 @@ has not, taken hold of - ineffective.
 
 That anguish which is surging high in him has rendered him with a bosom marred with
 tears, thereby sleep has no effect on him even if he has gone to bed in nights. [4-27-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1475,8 +1423,6 @@ said.
 
 While pacifying Rama who is pensive and who is always subjected to grief, his
 brother Lakshmana who is similarly sad for his brother's sadness spoke these words. [4-27-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1528,8 +1474,6 @@ undergoing, is enough; *tvam shocitum na arhasi* = you, to dishearten, not, apt;
 "Oh, brave one, enough is this anguishing of yours, and it will be inapt of you to
 dishearten. All objectives will backslide for them who will be ceaselessly anguishing. That you
 know clearly. [4-27-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1587,8 +1531,6 @@ yourself to behave only in a humanly attitude... and then you are bound to be a 
 have all the preceding attributes... you alone are the mobilizer, for none other can accomplish
 certain tasks for which you are mobilised by all the divinities and you have also come this far...
 [4-27-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1637,8 +1579,6 @@ to kill; *na samarthaH hi* = not, capable, indeed.
 "If you are much too lackadaisical, indeed, you will not be capable to eliminate the
 enemy in war, specially a demon, especially a trickster, let alone all of your daring enterprises.
 [4-27-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1688,8 +1628,6 @@ you will be able to.
 
 "On completely rooting out that agony then you stabilise your endeavour, and then
 you will be able to eliminate that demon Ravana along with his followers. [4-27-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1736,8 +1674,6 @@ raavaNam kim punaH hi* = him, about Ravana, why, [talk about] again, all the mor
 
 "Oh, Kakutstha, you are capable to inverse the order of earth along with all of its
 oceans, forests, and mountains, then what to speak of that Ravana, all the more. [4-27-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1789,8 +1725,6 @@ eradicate.
 "Look forward to the autumnal season, as this season that has come is of heavy
 rains, and thereafter, you will eradicate that Ravana along with his city-state and his followers.
 [4-27-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1839,8 +1773,6 @@ in you, just.
 "I am just awakening the fast sleeping vitality of yours, no more than rekindling
 fire concealed under embers with the timely offerings of flammable fire-oblations." Thus said
 Lakshmana to Rama. [4-27-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1890,8 +1822,6 @@ vacanam abraviit* = this, sentence, spoke.
 
 Honouring that expedient and propitious advise of Lakshmana, Raghava spoke this
 sentence to that good-hearted and good-natured Lakshmana. [4-27-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1938,8 +1868,6 @@ truth, courage, one who has it; by such a person; *yat vaacyam* = which, word is
 
 "What is to be said by an affectionate, amiable and cordial person, also whose
 courage is truth itself, that you have said it, Lakshmana. [4-27-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -1990,8 +1918,6 @@ strikable - not possible for a strike back - undefeatable; *tejaH* = ebullience;
 
 "Yes! Distress is retrogressive to all the functions. I am casting-off this distress
 completely. As an undefeatable one in my triumphs I am invigorating my ebullience. [4-27-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -2038,8 +1964,6 @@ word, staying, I am - I abide by your words.
 
 "Awaiting for the kind-heartedness of Sugreeva, and for the kindness of the rivers
 in their abatement, I look forward for the autumn remaining true to your words. [4-27-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -2088,8 +2012,6 @@ valiant one, on his part; *pratikaareNa yujyate* = with requital, conjoined - in
 besides being unfaithful, if one who does not make requital for all the favours done in his
 interest, he will be wounding the hearts of soft-hearted people." Rama said so to Lakshmana,
 keeping Sugreeva in view. [4-27-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -2151,8 +2073,6 @@ Visualising what Rama said about their waiting for pre-winter season to be candi
 and praisefully making palm-fold at that determination of Rama, and even to clarify his own
 opportune viewpoint, Lakshmana spoke to Rama who by his own aspect is a delightful one for a ken.
 [4-27-46]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -2209,8 +2129,6 @@ bhavaan* = steadfadt, as you are; *sharat pratiikshaH* = autumn, while awaiting;
 "Oh, lord of people, Sugreeva will be effectuating everything you have desired and
 said, not later but soon, hence awaiting autumn you may please bear up these heavy rainfalls,
 besides bearing with the idea of disciplining the enemy. [4-27-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 </details>
 
@@ -2271,8 +2189,6 @@ vasa* = me, along with, you stay.
 "Let autumn be awaited while containing your anger, and along with me you may stay
 on this mountain which is adored by lions, and spend these four rainy months here like a monsoon
 lion, although you are capable to eliminate the enemy at any moment like a lion. [4-27-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

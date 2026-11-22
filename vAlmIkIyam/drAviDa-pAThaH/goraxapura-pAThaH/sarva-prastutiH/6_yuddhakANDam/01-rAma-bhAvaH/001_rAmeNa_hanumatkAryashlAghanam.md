@@ -16,8 +16,6 @@ title_english = "001 Rama appreciates Hanuma and embraces him"
 Rama appreciates Hanuma and embraces him after hearing his report.Rama was gladdend
 that Hanuma did something worthy of a noble servent. Then, Rama reflected upon the problem of how
 to cross the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ _________________
 
 Touched with joy to hear the words rightly spoken by Hanuman, Rama replied as
 follows: -
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ achieved; *manasaapi* = even in thought; *anyena* = by another; *dharaNiitale*
 
 "A very outstanding work, the most arduous in the world has been done by Hanuman,
 which could not be carried out even in thought by any other on the surface of this earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ vehicle of Lord Vishnu); *vaayoH* = wind-god; *anyatracha* = and anyone other th
 
 "Indeed, I cannot perceive as such anyone other than Garuda (chief of the feathered
 race and vehicle of Lord Vishnu), wind- god and Hanuman, who can cross the mighty ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ ogres; *surakshhitaam* = and well under the custody; *raavaNena* = of Ravana?"
 "Who can return alive, having entered (once) taking refuge only in self- command,
 the city of Lanka, which is unconquerable by gods demons and Yakshas and even by Gandharvas, Nagas
 and ogres and well under the custody of Ravana?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ strength; *samaH* = like; *hanuumataH* = Hanuman?"
 "Who is able to capture that citadel, by assault, that is exceedingly dangerous to
 be attacked and which is powerfully guarded by ogres, but one whose courage and valour are equal to
 Hanuman's?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -307,8 +295,6 @@ Sugriva; *evam* = thus; *vidhaaya* = by exhibiting; *svabalam* = his strength;
 
 "A great act of service has been done by Hanuman to Sugriva thus by exhibiting his
 strength corresponding to his pace."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -356,8 +342,6 @@ difficult to perform; *bhrutyaH* = the servant; *kuryaat* = does; *tat* = it;
 
 "That servant to whom his master entrusts a difficult task and who performs it with
 zeal is said to be a superior person."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -404,8 +388,6 @@ superior; *kaaryam* = work; *priyam* = liked; *nR^ipate* = by the king."
 
 "The one who is ready and capable but who yet does no more than his master extracts
 from him is called a mediocre person."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -453,8 +435,6 @@ the work; *nR^ipateH* = of the king; *samaahitaH* = as directed."
 
 "The one who is well and able and yet does not carry out the instructions of his
 master as directed is said to be the least of men ."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -503,8 +483,6 @@ Sugriva too; *toshhitaH* = was delighted."
 "Through the discovery of Sita's retreat by this faithful messenger, Hanuman has
 fulfilled the task entrusted to him unfalteringly to the satisfaction of Sugriva and hence there
 was no diminution to his self."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -551,8 +529,6 @@ saved; *adya* = today; *dharmataH* = rightly."
 
 "By finding out Sita, the Raghu dynasty as well as myself and the valiant Lakshmana
 too, have been rightly saved today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -600,8 +576,6 @@ informed me these good tidings."
 
 "But it squeezes my conscience further, hopeless as I am, to think that I am not
 able to do a pleasant act befittingly to the bearer of these good tidings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -648,8 +622,6 @@ kaalam* = in these present circumstances; *dattaH* = is offered; *mayaa* = by me
 
 "Let me at least embrace this magnanimous Hanuman since in the present
 circumstances, this is all that is easily obtained from me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -697,8 +669,6 @@ word.
 
 Thus saying, Rama vibrating with joy, clasped Hanuman in his arms who, master of
 himself, his mission fulfilled, had returned.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ vachanam* = these words; *sugriivasya* = Sugriva; *iishvarasya* = the ruler;
 
 After reflecting a while, Rama the great scion of Raghus, again spoke as follows,
 Sugriva the ruler of monkeys too listening attentively.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -787,8 +755,6 @@ Sugriva the ruler of monkeys too listening attentively.
 
 "The search for Sita has been performed so much well in all ways. But my mind gets
 dejected once more, when I behold this vast ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -835,8 +801,6 @@ which is difficult to cross; *mahaambhasaH* = and which contains voluminous wate
 
 How can these monkeys put together will reach the southern bank of the ocean, which
 is so difficult to cross and which contains voluminous water?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -886,8 +850,6 @@ _________________
 
 "Having received the tidings of Sita, what can now be done to take the monkeys to
 the farther side the sea?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 </details>
 
@@ -934,8 +896,6 @@ anguish; *upaagamat* = (then) became; *dhyaanam* = thoughtful."
 
 Thus speaking to Hanuman, Rama the destroyer of enemies and the mighty armed, was
 filled with apprehension and then became absorbed in thought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga1/yuddhasans1.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

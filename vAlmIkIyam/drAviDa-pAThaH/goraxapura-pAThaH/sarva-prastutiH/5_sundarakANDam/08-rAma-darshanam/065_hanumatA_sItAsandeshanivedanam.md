@@ -19,8 +19,6 @@ request Hanuma to explain the occurrences to Rama in detail. Then, Hanuma apprai
 presence at the foot of a Simsupa tree in the midst of female-demons. After narrating the incidents
 related by her and delivering to Rama the jewel for the head, earlier handed-over by Seetha as a token,
 Hanuma conveys her message to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -83,8 +81,6 @@ Keeping Angada the prince in their forefront those monkeys, on reaching Mount Pr
 having forests of variegated appearance, offered their salutation by bowing their heads in reverence
 to Rama and the mighty Lakshmana, greeting Sugreeva respectfully. Then, they started narrating the news
 of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -137,8 +133,6 @@ complete affection; *raame* = towards Rama; *yaH ayam samayaH kR^itaH* = and the
 Those monkeys started to narrate, in the presence of Rama, about, the female-demons,
 and frightening Seetha in Ravana's gynaecium, her complete affection towards Rama and the time-limit
 of two months given by Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -180,8 +174,6 @@ alive; *raamatu* = Rama on his part; *uttaram abraviit* = replied; *kva* = where
 
 Hearing of Seetha being alive, Rama on his part replied, "Where is Seetha, the princess?
 How is she disposed towards me? O monkeys! Tell me all that about Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -228,8 +220,6 @@ knows all the incidents about Seetha.
 
 Hearing the words of Rama, the monkeys urged Hanuma to tell, in the presence of Rama,
 all the incidents because he knew them better, about Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -281,8 +271,6 @@ following) words; *yathaa siitaayaaH darshanam* = how Seetha's seeing occurred.
 Hearing the words of those monkeys, the eloquent Hanuma, the son of wind-god saluting
 towards the direction of the Seetha the princess by bowing his head, spoke the following words, explaining
 how he saw Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -334,8 +322,6 @@ _________________
 
 "Having gone across the ocean, a hundred Yojanas wide, I reached the southern shore looking
 in search of Seetha, Janaka's daughter, with a wish to see her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -413,8 +399,6 @@ city; *laNketi* = called Lanka; *duraatmanaH raavaNasya* = of the evil-minded Ra
 
 "There at the southern shore of the southern ocean, there is city called Lanka of the
 evil-minded Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -430,8 +414,6 @@ Seetha; *raamaa* = the lady; *satii* = and the virtuous wife; *jiivantii* = livi
 
 "O Rama! There, living in Ravana's gynaecium in the city, I saw the lady Seetha, your
 virtuous wife, centering her heart's desire in you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -481,8 +463,6 @@ _________________
 
 "In that pleasure garden, I saw Seetha sitting in the midst of female demons, guarded
 by those ugly-faced female-demons as also time and again being threatened by them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -543,8 +523,6 @@ somehow searched that princess, Seetha wearing a single plait (as a as a mark of
 miserable, remaining absorbed in your thought, reposing on the floor, having discoloured limbs like
 a lotus in winter, turning back the wish from Ravana, having determined to die, but thinking of you
 alone."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -594,8 +572,6 @@ _________________
 
 "O faultless tiger among men! Seetha established confidence in me, after I slowly described
 to her the fame of Ikshvaku dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -688,8 +664,6 @@ the friendship between Rama and Sugreeva; *upaagataa* = she obtained; *priitim* 
 "Thereafter, I spoke and explained to Seetha, about the entire significance of my arrival
 there. On hearing about the alliance between Rama and Sugreeva, she was quite pleased. Her morality
 as well as her devotion in you are steadfast."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -705,8 +679,6 @@ as well as her devotion in you are steadfast."
 
 "O, the foremost of men! I thus saw that illustrious Seetha, endowed with severe penance
 and devotion towards you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -756,8 +728,6 @@ _________________
 
 "O Rama, of great intelligence! To me, she gave as a token of remembrance, a previous
 event of a crow occurred at your vicinity in Mount Chitrakuta."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -807,8 +777,6 @@ _________________
 
 "Seetha spoke to me saying, 'O Hanuma! Inform Rama, the foremost among men, all that
 you have seen here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -897,8 +865,6 @@ way; *ayam cha* = (let) this jewel; *suparikShitaH yatnaat* = well-guarded delib
 
 "While Sugreeva is hearing nearby and while you are telling the words in this way, let
 this jewel, which is deliberately well-guarded, be given to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -921,8 +887,6 @@ this jewel, which is deliberately well-guarded, be given to Rama."
 "This beautiful jewel for the head has been well-guarded by me. You also ought to recall
 a mark indeed painted by you (by slip) on the curve of my cheek with powder of an orange-red rock, when
 my former mark on my forehead got effaced."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -938,8 +902,6 @@ vasham* = the control; *rakShasaam* = of demons; *na jiivayam* = I cannot surviv
 
 "O Rama! I shall be sustaining my life for a month. Having come into the control of demons,
 I cannot survive beyond one month."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -989,8 +951,6 @@ tvaaniiva* = as though I am seeing you.
 
 "This beautiful jewel, which has its origin in sea-water, has been sent to you. Seeing
 this in my grief, I am feeling always happy as though I am seeing you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1006,8 +966,6 @@ like that of a doe; *abraviit* = spoke; *iti* = as following; *maam* = to me.
 
 "Seetha, with her emaciated body, practicing virtue, confined in Ravana's gynaecium and
 with her wide-open eyes like that of a doe, spoke to me the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -1057,8 +1015,6 @@ in its entirety; *khyaatam* = has been narrated; *mayaa* = by me; *yat yathaa*
 
 "O Rama! I have narrated to you whatever has occurred, in its entirety. Let a bridge
 be constructed, by all means, across the waters of the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 
@@ -1115,8 +1071,6 @@ and having given; *tat abhijJNaanam* = that token of remembrance; *raaghavaaya* 
 Coming to know that the two princes, Rama and Lakshmana have become confident and having
 given that token of remembrance to Rama, Hanuma apprised completely in so many words, in regular succession,
 all that was conveyed by Seetha, the princess.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
 </details>
 

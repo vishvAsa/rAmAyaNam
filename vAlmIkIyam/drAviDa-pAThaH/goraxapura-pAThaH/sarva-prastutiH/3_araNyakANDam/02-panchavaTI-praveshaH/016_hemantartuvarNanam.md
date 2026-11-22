@@ -17,8 +17,6 @@ title_english = "016 Lakshmana s description of vasanta season"
 On one day before the sunrise Rama proceeds to River Godavari for daily bath along with
  Seetha and Lakshmana. On the way looking at the nature around Lakshmana eulogises winter
  season. In doing so he casts aspersions on queen Kaikeyi, and Rama reproves it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -69,8 +67,6 @@ R^ituH* = pleasant, pre-winter, season; *pravartate* = set in.
 
 Pleasant *hemantha R^itu* , pre-winter season has set in after the passage of *sharat R^itu*,
 post-rainy season at Panchavati where the noble souled Rama is staying comfortably. [4-16-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ Godavari, river; *abhiSeka artham prayayaava* = bath, for purpose of, started.
 **अनुवादः**
 
 On some day when night faded into dawn Rama started for the delightful River Godavari for a bath. [4-16-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ abraviit* = this, spoke.
 
 His valorous brother Saumitri following him humbly with a handy vessel, along with Seetha, spoke this
 to Rama. [4-16-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ year]; *sampraaptaH* = has set in; *yena* = by which; *shubhaH samvatsaraH* = pr
 
 "Adorned by which season the promising year will be bright, oh, pleasant conversationalist, and which
 season will also be pleasant to you, that hemanta season has set in. [4-16-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -258,8 +248,6 @@ sasya maalinii* = earth is, crops, has on it; *jalaani an upabhogyaani* = waters
 
 "These days the dew is harsh to the bodies of people, earth is overlaid with crops, water is unenjoyable,
 but fire is delightful. [4-16-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -313,8 +301,6 @@ The ritual *agraayaNa* is a *havis* , oblation performed after the arrival of ha
 at home from fields and before the start of its usage. Usually this is the time of Makara Sankranti,
 the starting day of northern solstice. *na anviShTa aagraayaNe na aahitaagni navasya
 ashniiyaat vriihiinaam yavaanaam shyaamakaanaam iti agra paakasya yajeta -- aapasthamba suutra*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -361,8 +347,6 @@ areas villagers; *praajya kaamaa* = ample, desires [self-satisfied]; *mahii paal
 
 "Amply fulfilled are the desires of the villagers with the affluence of milch cows and dairy, and the
 vanquishing kings are make moves for the purposes of their further vanquishes. [4-16-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -419,8 +403,6 @@ netra* is said to exist. For the women this mark is for their glorification of w
 of the existence of her husband. Should she become a widow this mark is made no more and her face will
 become dullish for she is without a husband. So also the sun is such a mark on the forehead of the woman
 called horizon. Without him no quarters glitter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -468,8 +450,6 @@ snowy; *su vyaktam* = very, obviously; *yathaartha naamaa* = true to it, name.
 
 "By their very nature Himalayas are the depositories of snow, and presently distanced from the sun they
 are very obviously snowy true to their name. [4-16-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -519,8 +499,6 @@ aadityaaaH* = are with genial, sun; *Chaayaa salila* = shades, waters; *dur bhag
 
 "By the way of touch the mid days are comfortable and in these days the daytime is very much comfortable
 for sauntering, thus the sun in daytimes is genial and ungenial are the shades and waters. [4-16-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -570,8 +548,6 @@ paTu shiitaaH* = bitterly, cold; *sa maarutaaH* = with, [wintry] breezes; *shuun
 
 "Overwhelmed by snow presently the noontimes are with soft sun, with bitter cold, with mists and wintry
 breezes, and with them the forests too are bleak in their sheen. [4-16-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -630,8 +606,6 @@ means Kali, the doom, and the demons are brining it up. Thus Lakshmana is said t
 about the purpose of his incarnation, where the gods are precluded from a restful reclining, the nightly
 activities of demons are on the increase, and the demons are bringing doom time, so Rama has to quicken
 their eradication.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -678,8 +652,6 @@ like, mirror; *candramaa na prakaashate* = moon, not, lustrous.
 "Transgressed is the destiny of moon by the sun as moon lost the chance of keeping people happy with
 his lustrousness in these days, thus the lustreless moon remained in a blushing sphere with fog, just
 like a mirror blinded by the fog of a suspire. [4-16-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ na raajate* = moonlight, not, shiny; *aatapa shyaamaa* = by sun heat, blackened 
 
 "Even on a full moon day the moonlight is unbright blemished by mist, and it is appearing like brightly
 Seetha becoming swarthy by sun's heat, but not brightly. [4-16-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -779,8 +749,6 @@ chilly in the early hours. [4-16-15]
 The vernal breeze will be cool by its nature and so is the Omnipotent. Now the snowy dew enriches the
 breeze's coolness. So also the Omnipotent, namely Rama, is doubly cool by the coolness of the prayers
 of divinities and the sages as well. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -836,8 +804,6 @@ to receive the mercy of Rama. The birds' callings are the echoing of Vedic sonor
 *yava* grains are not exactly western barley grains as usually shown in lexicons. It is called
 locally as *jov dhaan* and is used in fire oblations, . It is a dietary prescription to diabetics
 nowadays.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -890,8 +856,6 @@ a little bent down are shapely like the flowers of date-fruit. [4-16-17]
 The heads of crops are a little bent down by weight of corn, like the heads of sages who bow down with
 the weight of knowledge before the Absolute. Thus their age-old golden hair is gleaming at the first
 rays of sun. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -943,8 +907,6 @@ sun is appearing as moon. [4-16-18]
 The sun again is Rama. 'Though you have risen in the vast of forests long back and avowed to eradicate
 demons, has your radiance decreased like the vernal sun, while the demons are still radiant by their
 activities...' is the question of Lakshmana. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1002,8 +964,6 @@ The warmth of the sun is his valour which is usurped by the snowy mist. Rama's v
 inappreciable by his taciturnity. Then Lakshmana is deemed to have said, 'The demons are dominating
 the nature with their cold-blooded activities like coldish snow, oh, Rama, sustaining them with kind
 of cool profile of yours is inapt of you...' Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1058,8 +1018,6 @@ by the radiance of tender sun's warmth. [4-16-20]
 The pastureland are like the serene sages who are wetting their faces with droplets of merciful tears
 by the activities of the demons. And now the warmth of the tender sun / valour of Rama, is radiating
 on the countenances of pasturelands/sages which will be furious henceforth. Govindaraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1111,8 +1069,6 @@ elephant is backing away its trunk for the water is that cold. [4-16-21]
 
 Gods are withdrawing to touch pleasurable items that are usually enjoyable to them, fearing Ravana.
 Govindaraja
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1165,8 +1121,6 @@ The waterfowls are compared with the sages. The sages though staying nearby asce
 on riverbanks, are not able to enter into its enjoyable main realm, namely *samaadhi*, concentration.
 Another way is 'oh Rama, though you are an expert in warfare why you are backing away for a war with
 demons? Why not jump to it? Are you like these fearing waterfowls?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1225,8 +1179,6 @@ For those who are asleep it is a double darkness. One is the darkness of sleep, 
 darkness of night. They not only crouch in themselves with the inner darkness, but as they are also
 enfolded by the external darkness of night, they further crouch in. Maheshvara Tiirtha. By this sleep
 attribute, the dormant disposition of sages is made evident.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1280,8 +1232,6 @@ glistening with moist sandbanks and shores. [4-16-24]
 By rivers the sages are denominated and they are all enshrouded by the mist called the fear of demons,
 and they are perceptible just by their groaning. They are unable to come out of that misty climate,
 as good as waterfowls dependent on rivers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1333,8 +1283,6 @@ wells is generally agreeable for drinking. [4-16-25]
 
 This falling of the snow is indicative of the falling of demons upon sages, and sun's softness is with
 the soft attitude of Rama. Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1407,8 +1355,6 @@ the fibrils and carpels, thus impaired by cold they are ungracious in look. [4-1
 When the demons destroy the lake-like hermitages and their inmates, aged and withered sages and their
 lotus-petal like austerities are shattered by the hostilities of demons, and the remaining hermits are
 just like the stalks of lotuses left behind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1423,8 +1369,6 @@ harmaatmaa bharataH* = noble-souled, Bharata; *duHkha samanvitaH* = anguish, alo
 
 "But during this time, oh, manly-tiger, ushered by anguish that virtue souled one Bharata must be practising
 ascesis in city with adoration to you. [4-16-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1471,8 +1415,6 @@ too, he is in self-denial, and with his food regulated he sleeps on chilly surfa
 So far Lakshmana spoke about spring season indicating the sufferings of saints and sages by the chill
 and icy effects of demons indirectly. Now his broodings are turning to Bharata, for Bharata is avowed
 to self-immolate if Rama were not to come after a fixed time, and Rama is lingering here.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1520,8 +1462,6 @@ to self-immolate if Rama were not to come after a fixed time, and Rama is linger
 
 "Even he might always be getting up at this time of the day and proceeding to River Sarayu for a bath
 surrounded by ministers, definite is that. [4-16-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1577,8 +1517,6 @@ one who cannot tolerate your absence'. In other mms it is *sukhochita* in place 
 which means one who is habituated to pleasures of a younger prince,' but not to become a monk in these
 early years of his youth. So you should relieve him of his vow. This is the import of Lakshmana's address
 to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1648,8 +1586,6 @@ his adorable brother. [4-16-31, 32]
 
 Stomachless is not to say that Bharata is without a stomach but has a palm-like concave stomach, but
 not a potbelly to stomach the kingdom of Ayodhya that is easily usurped through his mother Kaika.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1706,8 +1642,6 @@ is said to be his conquering heavens. Lakshmana is quickening Rama's thinking to
 complete his mission in eradicating the demonic atrocities and quickly return to Ayodhya, lest time
 slips by and Bharata may self-immolate. After these many thoughts, now Lakshmana starts to move the
 eye of the needle towards Kaikeyi, the root cause for all miseries.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1764,8 +1698,6 @@ tashii maatii va jaatii tashii potii'* after Dr. Satya Vrat. This stems up from 
 *dhanyaa
 pitR^i mukhii kanyaa dhanyaa maatR^i mukhaH sutaH* 'Blest is father-like daughter,
 blest is mother-like son.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1820,8 +1752,6 @@ Godavari. [4-16-35]
 **टिप्पनी**
 
 Rama uses the same wording for Kaikeyi as our middle mother' at 3-2-19b-20
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1868,8 +1798,6 @@ Raghava, about mother; *tam pari vaadam* = against, telling [slanderous talking]
 
 When that upright Lakshmana is speaking those words that way out of his fondness towards Rama, Raghava
 spoke to Lakshmana, intolerant of that slanderous talk about their mother. [4-16-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1916,8 +1844,6 @@ naathasya bharatasya* = Ikshvaku-s, king, Bharata's; *taam kathaam eva kuru* = t
 
 "In any way, dear Lakshmana, you are not supposed to deplore another mother of ours, but you go on telling
 the topics of Bharata, the king of Ikshvaku-s. [4-16-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -1964,8 +1890,6 @@ boyishness [fascination,] is made [recurs.]
 
 "My mind is indeed set to dwell only in forest, and it is firmly avowed, but while yearning for Bharata's
 fellowship my fascination to reunite with him is recurring again. [4-16-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -2011,8 +1935,6 @@ to [ambrosial]; *manaH prahlaadaani ca* = heart, gladdening [heartening words]; 
 
 "I reminisce his words well, that are genial, sweet, heartily, ambrosial and that will gladden the heart.
 [4-16-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -2063,8 +1985,6 @@ you and Seetha." Thus said Rama to Lakshmana. [4-16-40]
 
 Usually the word *ca* means 'also, and.' In compound *tvayaa ca raghunandana* it is said
 to indicate Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -2110,8 +2030,6 @@ worrying; *godaavariim nadiim praapya* = Godavari, river, having reached; *sa an
 
 Thus worrying that way while proceeding, there Rama reached River Godavari and performed bathing with
 his younger brother Lakshmana and along with Seetha. [4-16-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -2158,8 +2076,6 @@ Seetha]; *stuvanti sma* = extolled, they are.
 
 Then on offering water oblations to manes and gods that impeccant trinity extolled the rising sun and
 gods likewise. [4-16-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 </details>
 
@@ -2220,8 +2136,6 @@ the Holy Bull. [4-16-43]
 **टिप्पनी**
 
 The similitude between Rama and Shiva suggests that Rama is about to start destruction of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

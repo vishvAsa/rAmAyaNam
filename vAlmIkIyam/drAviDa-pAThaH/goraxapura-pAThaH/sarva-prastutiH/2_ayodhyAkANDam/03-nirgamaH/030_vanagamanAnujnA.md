@@ -17,8 +17,6 @@ The persistence of Seetha continues to go along with Rama to forest. But Rama tr
 to pacify her telling that rendering service to elders staying back at home is advisable for ladies
 like Seetha, but in vain. Finally Rama had to yield to her prevail and accepts her to come along
 and asks her to give away her personal belongings to Brahmins in charity before they proceed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ in the matter of living in the forest; *abraviit* = spoke; *idam* = these words;
 
 Seetha daughter of Janaka being pacified by Rama in the matter of living in the
 forest, spoke the following words to her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ vakshhasam* = having a broad chest.
 
 Distressed and highly agitated, the said Seetha reproached Rama having a broad
 chest, from affection and pride in the following words:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -167,8 +161,6 @@ of Videha; *amanyata* = think of himself; *praapya* = having got;
 
 "What my father, the king of Mithila belonging to the country of Videha, think of
 himself having got as so-in-law you, a woman having the form of a man?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -215,8 +207,6 @@ in Rama; *divaakare iva* = as in a sun; *tapati* = which is blazing.
 
 "It is a pity if these people of Ayodhya through ignorance tell the falsehood that
 excellent valour is lacking in Rama as in a blazing sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -263,8 +253,6 @@ desert; *maam* = me; *ananya paraayaNaam* = for whom there is no other recourse.
 
 "For what reason are you cast down or whence fear in you, for which you are willing
 to desert me, for whom there is no other recourse."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -311,8 +299,6 @@ to desert me, for whom there is no other recourse."
 
 "Oh, Brave man! Know me to be as dependent on your will as Savitri who was devoted
 to Satyavan the son of Dyumatsena."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -360,8 +346,6 @@ anyone; *tvadR^ite* = except you; *anyaayathaa* = as any other woman;
 
 "Rama, the faultless man! I will not see, even in thought, anyone except you as any
 other woman bringing disrepute to her family would! I shall accompany you to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -414,8 +398,6 @@ actor; *svayam* = by your own will.
 
 " Oh, Rama! I am a young girl, lived for a long time with you, a chaste woman and
 your wife. How would you like an actor intend to deliver me to oehrs by your own will?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 
 <details><summary>गणेशोऽवधानी</summary>
@@ -486,8 +468,6 @@ beikept back.
 "Oh, Rama the sinless one! Be you always dutiful and obedient to him, whom you speak
 of welfare, for whose sake I am being kept back.(But it is improper to ask me to stay obedient to
 him)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ saha* = along with you only.
 
 "It is not proper for you as such to set out to the forest without taking me. Any
 term of austerities or forest or even heaven, let it be to me with you only."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -583,8 +561,6 @@ the path; *vitaarashayaneshhviva* = as in a place of recreation or sleep.
 
 "To me, who follow you behind, there will be no tiresomeness. I shall remain in the
 path without any fatigue, as remaining in a place of recreation or as in a sleep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ sama sparshaaH* = will touch like heap of cotton or soft deerskin.
 "While walking with you, blades of kusha grass, shrubs by the name of kaasa, reeds
 and rushes and plants with prickles which fall in the path will touch my soles like a heap of
 cotton or soft deerskin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -686,8 +660,6 @@ as sandal dust; *paraarthyam* = of highest blessing.
 
 "Oh, beloved! I shall reckon the dust raised by the strongest wind that will cover
 my body as sandal dust of highest advantage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -738,8 +710,6 @@ forest.
 
 "While dwelling in the forest, in its midst, I shall lie down on green grass. Will
 lying in beds with carpets be more comfortable than that?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -787,8 +757,6 @@ lying in beds with carpets be more comfortable than that?"
 
 "Leaves, tubers and fruits either a little or abundant in quantity brought and given
 by you yourself will be like nectar to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -835,8 +803,6 @@ mother; *pituHna* = nor my father; *na* = nor; *veshmanaH* = my home.
 
 "Enjoying the flowers and fruits belonging to various seasons there, I shall neither
 recollect my mother nor father nor my home."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -887,8 +853,6 @@ be maintained.
 
 "Hence, you are not justified to see anything unpleasant there. There will be no
 annoyance to you because of me. I will not be difficult to be maintained."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -939,8 +903,6 @@ me.
 
 "Your companionship will be a heaven to me. Without you, it will be a hell. Oh,
 Rama! By knowing thus my great love, obtain supreme joy with me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -991,8 +953,6 @@ do not take; *maam* = me; *avyagraam* = who is not alarmed; *evam* = as such;
 
 "On the contrary, if you do not take me, who is not alarmed of the forest as such, I
 shall drink poison now itself. But on no account would I bow to the enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1040,8 +1000,6 @@ relinquishment itself.
 
 "Oh, Lord! As a result of grief I will not going to live even afterwards when
 abandoned by you. Death is therefore better at the time of your relinquishment itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1088,8 +1046,6 @@ varshhaaNi* = years; *duHkhitaa* = in misery.
 
 "I cannot bear this grief even for a moment, why again fourteen years in
 misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1136,8 +1092,6 @@ misery."
 
 Seetha, burnt by grief, having got exerted, lamented much piteously, embraced her
 husband and cried a lot with loud voice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1186,8 +1140,6 @@ of wood(through attrition with another)
 persecuted with many homilies like a female elephant pierced with poisoned arrows,
 she shed tears that had long been held back even as a piece of wood would emit fire(throught
 attrition with another)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1234,8 +1186,6 @@ attrition with another)
 
 Crystal-like tears woozed from her eyes because of grief, like water-drops from two
 lotus flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1282,8 +1232,6 @@ longish eyes; *paryashushhyata* = withered; *bhaashhpeNa* = with tears;
 
 Her face with shining brilliance of the moon and having longish eyes, withered with
 tears as a lotus flower pulled out from water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1330,8 +1278,6 @@ the words; *parivishvaasayan* = fully reassuring.
 
 Then Rama embraced her, with arms, who was depressed and had fainted as it were,
 spoke the following words, fully reassuring her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1378,8 +1324,6 @@ spoke the following words, fully reassuring her.
 
 "Oh, queen! I do not relish even heaven while you are in grief. There is indeed no
 fear whatsoever to me, like the god of Brahma.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1427,8 +1371,6 @@ in the forest.
 
 "Oh, Seetha with the auspicious face! Eventhough I am able to protect you, without
 knowing your entire opinion, I do not like to take you to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1479,8 +1421,6 @@ _________________
 
 "Oh, Seetha! it appears that you are created indeed for dwelling in the forest with
 me. Hence, you cannot be left behind by me, like the honour by a man of self-regard."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1529,8 +1469,6 @@ yathaa* = like the sun; *suvarchalaa* = by suvarchala(wife of the sun).
 "Oh Seetha, with thighs like the posteriors of an elephant! Earlier, righeousness
 (like fulfilling the father's command) was practised by good men. Now, I shall follow that
 righteousness, like Suvarchala(wife of the sun) following the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1577,8 +1515,6 @@ strong by his truthfulness; *nayati* = is taking; *maam* = me.
 
 "Oh, Seetha! I cannot desist from not going to forest. That word, of my father, made
 strong by his truthfulnes is taking me to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1629,8 +1565,6 @@ duty.
 
 "Oh, comely lady! Being obedient to father and mother is one's sacred duty. That is
 why, I do not wish to survive, in violation of that duty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1671,8 +1605,6 @@ disposal; *abhiraadhyate* = can be worshipped; *prakaaraiH* = by various modes?
 
 "Mother, father and teacher are at our own disposal. By negelecting them as such,
 how can we worship god, who is not at our disposal, by various modes?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1721,8 +1653,6 @@ lokaaH* = the world-triad; *naasti* = there is none; *anyat* = other;
 "Oh, lady with enchanting glances! The triad of mother, father and teacher is the
 world-triad. There is none other in the world equal to it. Hence, this triad is worthy of
 worship."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1771,8 +1701,6 @@ sacrificial rites; *aaptadakshhiNaaH* = where presents are received by officiati
 "Oh, Seetha! In which manner service to father is regarded as strengthening, in the
 same manner truth or sacrificial rites where presents are received by officiating priest are not
 strengthening."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1820,8 +1748,6 @@ obtain.
 
 "By compliance with the wishes of one's elders, heavenly bliss or riches, foodgrains
 or leaving, sons or amenities of life - nothing whatsoever is hard to obtain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1874,8 +1800,6 @@ presided by Brahma ( creator) tathaa = and; *aparan* = other regions.
 gandharvas, the seventh heaven presided the gandharvas, the seventh heaven presided by Brahma (the
 creator) and Goloka (the highest heaven abiding in cows and presided over by Sri Radha and Sri
 Krishna the first couple).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1923,8 +1847,6 @@ is indeed righteousness; *sanaatanaH* = which is eternal.
 
 "I desire to obey in the same manner as to how my father, abiding in truthfulness
 and virtue, commands me. That itself is indeed the law of morality, which is eternal."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -1972,8 +1894,6 @@ the forest of Dandaka; *saa tvam* = you as such; *iti* = stating that;
 
 "Oh, Seetha! My mind was depressed to take you to the forest of Dandaka. But you are
 saying that you will reside in the forst, duly determined to follow me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -2021,8 +1941,6 @@ help-mate.
 
 "Oh, mistress with fascinating eyes and flawless limbs! Since you were allowed to
 come to forest, Oh Seetha the timid lady, follow me and become my help-mate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -2063,8 +1981,6 @@ resolve; *sadR^isham* = suitable; *sarvathaa* = in all ways; *mama* = to me;
 
 "Oh, Seetha the beautiful! You adopted very auspicious resolve, suitable in all ways
 to me and to your race."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -2106,8 +2022,6 @@ svargo.api* = even heaven; *na rochate* = is not a liking; *mama* = to me;
 
 "Oh, lady with charming hip and loins! Now itself, begin with duties appropriate for
 living in exile. Oh, Seetha! Even a heaven is not a liking to me without your presence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -2154,8 +2068,6 @@ delay.
 
 "Give valuable gifts to Brahmanas and food to mendicants. Be very quick. Do not
 delay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -2211,8 +2123,6 @@ wearing apparel; *upaskaraaH* = gadgets; *kriidaarthaaH* = used for sports;
 "Give to the various classes of your dependents whatever costly ornaments, beautiful
 and fine articles of wearing apparel, gadgets used for sports, my couches, conveyances and other
 articles left after satisfying brahmanas."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -2259,8 +2169,6 @@ articles left after satisfying brahmanas."
 
 Seetha the divine lady, elated to know her departure acceptable to her husband,
 quickly set about, making gifts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 </details>
 
@@ -2320,8 +2228,6 @@ gifts; *dharma bhR^itaam* = to virtuous souls.
 
 Thereafter, the illustrious and pure-minded lady, becoming delighted on hearing the
 speech of her husband, started giving riches and valuable gifts to virtuous souls.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga30/ayodhyasans30.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

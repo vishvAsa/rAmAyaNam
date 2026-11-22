@@ -19,8 +19,6 @@ Ravana returns to Lanka and asks some demons to go to the abode of sleeping
 Kumbhakarna, to wake him up and request him to come to him. The slumbering Kumbhakarna is roused by
 the demons under orders of their king. Kumbhakarna, giant in form, sets out on the high way to see
 Ravana and the monkeys get alarmed to see the giant demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -67,8 +65,6 @@ senses.
 
 Returning to the City of Lanka, Ravana the King of Demons was afflicted with the
 fear of Rama's arrows, his pride was humbled and his senses troubled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -109,8 +105,6 @@ serpent; *garuDena* = by an eagle.
 
 The king was overcome by the high-souled Rama, like an elephant is by a lion or a
 serpent by an eagle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -157,8 +151,6 @@ maddened; *smaran* = in recollecting; *raaghava baaNaanaam* = Rama's arrows;
 
 The Lord of Demons was maddened in recollecting Rama's arrows resembling the Rod of
 Brahma the Lord of creation and possessed of the splendour of lightning.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -199,8 +191,6 @@ throne; *kaaN^chanamayan* = made of gold; *divyam* = and charming; *raavaNaH*
 
 Resting on an excellent and charming throne made of gold, Ravana looked at the
 demons and spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -242,8 +232,6 @@ by a mere man!.
 
 "All that great penance performed by me became a waste indeed, for, I who am equal
 to Mahendra the Lord of Celestials have been defeated by a mere man!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -285,8 +273,6 @@ words; *brahmaNaH* = of Brahma the Lord of creation; *iti* = saying that;
 
 "The terrible words of Brahma the Lord of Creation saying, 'You know of the threat
 from men' appear true. That is so."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -333,8 +319,6 @@ serpent-demons; *nayaachitam* = but not asked; *maanuSebhyaH* = from men.
 
 "I sought immunity from death at the hands of celestials, titans or celestials
 musicians, or semi divine beings or demons or serpent-demons, but f man I made no mention."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -397,8 +381,6 @@ ministers; *sabalam* = army; *saashvasaarathim* = horses and charioteer.
 dynasty formerly spoke, saying: 'O, the worst of demons, the worst of your race and the wretched
 one! In my race will be born a man who will slay you in battle with your sons, ministers, army,
 horses and charioteer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -446,8 +428,6 @@ born; *siitaa* = as Seetha; *mahaabhaagaa* = the highly fortunate one;
 
 "Further, I was formerly cursed by Vedavati when she was humiliated by me. The same
 Vedavati is born as the highly fortunate Seetha the daughter of Janaka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -498,8 +478,6 @@ words uttered by sages; *na* = are not; *mithyam* = untrue.
 "What was predicted by Parvati the consort of Shiva, Nandishvara the attendant of
 Shiva, Rambha the wife of Nalakubara and Punjikasthala the daughter of Varunda has come to pass!
 The words of the sages never prove false."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 </details>
@@ -547,8 +525,6 @@ summit of Charya Mountian.
 
 "On account of all this and admitting it, you should exert yourselves to the
 uttermost. Let the demons go to the summit of Charya Mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -589,8 +565,6 @@ shaapaabhibhuutaH* = and on whom the curse of Brahma the Lord of Creation rests.
 
 "Awaken that kumbhakarna, who is without equal in prowess, who humbles the pride of
 the celestials and demons, and on whom the curse of Brahma the Lord of creation rests."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -636,8 +610,6 @@ one; *aatmaanam* = himself; *jitam* = being defeated; *samare* = in battle;
 
 Having known that Prahasta being slain and knowing himself to have been defeated in
 the battle, Ravana issued his commands tot he dreadful army, saying:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -653,8 +625,6 @@ samaaviSTaH* = who is slumbering soundly.
 
 "Guard the gates with utmost care. Man the ramparts. Rouse Kumbhakarna who is
 slumbering soundly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -706,8 +676,6 @@ months.
 
 "Kumbhakarna is sleeping happily, his understanding vitiated by lust and free from
 all anxieties. The demon sleeps for nine, seven, ten or eight months.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -724,8 +692,6 @@ Kumbhakarna.
 
 "Having deliberated with me nine days ago, he has since fallen asleep. Awaken
 quickly that mighty Kumbhakarna."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -768,8 +734,6 @@ quickly that mighty Kumbhakarna."
 
 "The mighty armed Kumbhakarna, the foremost of all demons will kill the monkeys and
 the two princes at once in the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -817,8 +781,6 @@ comfort.
 
 "This Kumbhakarna, the chief among all the demons and a great mark in the battle,
 being fond of a rustic comfort, is always sleeping stupidly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -859,8 +821,6 @@ this; *sudaaruNe* = highly terrific; *samgraame* = battle.
 
 "If Kumbhakarna is awaken, there will be no worry for me, who stand defeated by Rama
 in this highly terrific battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -901,8 +861,6 @@ cannot; *saahaayya* = help; *iidR^ishe* = in such; *ghore* = a dreadful;
 
 "What is the use of him, who possessing a strength equal to that of Indra the Lord
 of celestials, cannot help me in such a dreadful catastrophe?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -943,8 +901,6 @@ niveshanam* = to the abode of Kumbhakarna.
 
 Hearing those words of Ravana, those demons very briskly went to the abode of
 Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1027,8 +983,6 @@ all sides; *puSpagandhapravaahiniim* = bearing a floral perfume; *avadhuutaaH* =
 Entering the beautiful cave of Kumbhakarna, with a large door, having an area of a
 Yojana on all sides and bearing a floral perfume, the demons of mighty strength, though shaken off
 by Kumbhakarna's breaths, remained stable forcefully with difficulty and went into the cave.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1045,8 +999,6 @@ sleeping.
 
 Entering that beautiful cave inlaid with diamonds and gold, those tigers among
 demons beheld Kumbhakarna, of terrific prowess, who was sleeping.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1096,8 +1048,6 @@ _________________
 
 They together tried to awaken Kumbhakarna who was sleeping nastily like a spread-out
 mountain in a great slumber.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1199,8 +1149,6 @@ slept, Kumbhakarna of irresistible valour emitted dreadful snores, his nostrils 
 his mouth a gaping hell. Stretched to his full length on the earth, he gave forth an odour of
 marrow and blood, his limbs were adorned with golden armlets and he wore a diadem as bright as the
 sun, thus did that lion among demons, Kumbhakarna, the slayer of his foes, appear!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1247,8 +1195,6 @@ high as mount Meru agrataH = in front; *kumbhakarNasya* = of Kumbhakarna.
 
 Then, those powerful demons, in order to satisfy him, placed a heap of venison as
 high as Mount Meru, in front of Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1295,8 +1241,6 @@ cha* = and pigs.
 
 Those excellent demons piled up a great mass of wonderful food with the meat of
 deers, buffaloes and pigs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1337,8 +1281,6 @@ various kinds; *maamsaani* = of meats; *purastaat* = in front;
 
 Then, the demons placed pots of blood and various kinds of meat in front of
 Kumbhakarna.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1386,8 +1328,6 @@ sweet-smelling perfumes.
 
 They rubbed Kumbhakarna the scourge of his foes with the most rare sandalwood and
 refreshed him with celestial and fragrant garlands as well as sweet-smelling perfumes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1438,8 +1378,6 @@ like thunder of clouds.
 
 They burnt incenses and hymned the praises of that warrior who proved fatal to his
 foes. They cried out noises which burst forth on every side like thunder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1455,8 +1393,6 @@ impatience; *vineduH cha api* = made sounds; *tumulam* = tumultuously;
 
 They blew couches which were as bright as the moon and with impatience, made with
 impatience, made sounds tumultuously all at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1506,8 +1442,6 @@ clapped their hands; *chikSupuH* = and shook him; *chakruH* = made; *vipulam*
 
 Those demons made sounds by clapping their hands, in order to awaken Kumbhakarna and
 shook him too, creating a great clamour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1557,8 +1491,6 @@ shook him too, creating a great clamour.
 
 The birds passing through the sky ran helter-shelter and fell down soon on hearing
 the sounds of the couches, drums, gongs, clapping of hands and leonine roars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1613,8 +1545,6 @@ sounds; *tataH* = then; *sarve* = all; *rakSogaNaaH* = troops of demons;
 
 As the illustrious Kumbhakarna did not waken from his slumber despite those great
 sounds, all troops of demons seized hold of bars, pestles and maces towards him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1669,8 +1599,6 @@ and fists.
 
 Then, the cruel demons struck that sleeping Kumbhakarna on his chest with
 mountain-tops, pestles, maces, hammers and their fists.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1726,8 +1654,6 @@ before; *niHshvaasavaatena* = the breathing winds; *kumbhakarNasya* = of Kumbhak
 
 Even with all their strength, the demons could not stand upright before the
 breathing winds of Kumbhakarna, the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1771,8 +1697,6 @@ kettle-drums; *tathaa* = and shaNkha kumbhagaNaam = myriads of couches and trump
 
 Then, the terribly strong demons firmly seated themselves round him and began to
 beat drums, cymbals, kettle-drums and myriads of couches and trumpets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1825,8 +1749,6 @@ sambabudhe* = (he) did not wake.
 Ten thousand demons surrounded him all at once. Beating that colossus who resembled
 a heap of antimony, the demons on their part tried to rouse him by making sounds. Even then, he did
 not wake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1842,8 +1764,6 @@ unable; *patibodhayitum* = to rouse; *enam* = him; *tadaa* = then;
 
 As they were unable to rouse him by these means, they resorted to more energetic and
 ruthless methods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1893,8 +1813,6 @@ couches and drums; *sarvapraaNaiH* = by all the beings.
 
 They beat horses, camels, donkeys, and elephants with sticks whips and thongs, so
 that they trample upon him and blasted kettle-drums, couches and drums.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -1955,8 +1873,6 @@ strength.
 
 They crushed his limbs under piles of heavy logs and pillars, as also maces lifted
 with all their strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1977,8 +1893,6 @@ with all their strength.
 
 The entire Lanka, with its mountain and groves, was filled with great noise. He
 nevertheless did not wake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1992,8 +1906,6 @@ around; *mR^iSTa kaaN^chana koNaanaam* = with sticks of refined gold.
 **अनुवादः**
 
 Then, they beat a thousand drums all around with sticks of refined gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2040,8 +1952,6 @@ then; *nishaaharaaH* = the demons; *kruddhaaH* = were enraged.
 
 Yet, as he did not wake from his profound slumber, being under the spell of a curse,
 the demons were enraged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2091,8 +2001,6 @@ terrible strength; *mhaakrodha samaaviSTaaH* = were filled with a great fury; *a
 
 All those demons of terrible strength were filled with a great fury. Some others
 assembled their strength to awaken that demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2139,8 +2047,6 @@ some others; *dashanti* = bit; *karNau* = his ears.
 
 Some beat drums, some shouted, some tore out his hair and some others bit his
 ears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2184,8 +2090,6 @@ shataani* = hundreds of pitchers of water; *karNoyoH* = into his ears;
 
 Some poured hundreds of pitchers of water into his ears but Kumbhakarna, plunged in
 deep sleep, did not stir.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2235,8 +2139,6 @@ paaNayaH* = armed with rocks and hammers; *paatayan* = struck; *kuuTa mudgaraan*
 
 Some strong ones, armed with rocks and hammers, struck the rocks and hammers on his
 head, chest and other limbs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2283,8 +2185,6 @@ praabudhyata* = did not wake.
 
 Though smitten by missiles fastened with ropes on all sides, the giant bodied demon
 did not wake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2325,8 +2225,6 @@ did not wake.
 
 A thousand elephants ran up and down on his body till Kumbhakarna lightly woke up
 and became aware of the pressure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2377,8 +2275,6 @@ from sleep; *vijR^imbhamaanaH* = yawning; *nidraakSayaat* = due to loss of sleep
 Being insensible to those violent blows of crags and trees hurled upon him, but
 under the prompting of extreme hunger, Kumbhakarna suddenly sprang up from sleep, yawning due to
 loss of sleep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2431,8 +2327,6 @@ vaktram = mouth; *vaDavaamukhaabham* = like unto the face of a submarine fire;
 Waving his arms resembling serpent's coils or the peaks of mountains, hard as cut
 diamonds, that demons opening his monstrous month like unto the face of a submarine fire,
 yawned.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2483,8 +2377,6 @@ yawned.
 
 His mouth yawning horribly resembled hell and appeared like the sun rising under the
 high peak of Meru Mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2531,8 +2423,6 @@ niHshvaasaH* = heaving his sigh; *maarutaH iva* = like unto a tempest;
 
 That mighty demon, being awake, yawned, heaving a sigh, like unto a tempest arising
 from a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2582,8 +2472,6 @@ prepared to devour; *sarva bhuutaani* = all beings.
 
 That figure of Kumbhakarna, rising up, stood out resembling Time at the dissolution
 of the world, prepared to devour all beings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2630,8 +2518,6 @@ planets.
 
 His huge eyes, resembling flames of fire, with a glitter equal to that of lightning,
 appeared like great blazing planets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2698,8 +2584,6 @@ devoured (them).
 
 Then, the demons pointed to various kinds of victuals, boar and buffalo. The mighty
 Kumbhakarna devoured them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2744,8 +2628,6 @@ blood; *papau* = and gulped; *medaH kumbhaamshcha* = pitchers full of fat;
 
 Then, the hungry Kumbhakarna, the enemy of Indra, ate the meat and being thirsty
 drank the blood and gulped pitchers full of fat and wine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2786,8 +2668,6 @@ their heads; *paryavaarayan* = (they) surrounded him; *sarvataH* = on all sides.
 
 Thereupon, knowing that Kumbhakarna was gratified of his hunger, the demons
 approached him, saluting him with their heads bent and surrounded him on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2828,8 +2708,6 @@ sleep; *kaluSiikR^ita lochanaH* = his gaze still veiled; *chaarayan* = (he) dire
 
 Raising his eyelids that were heavy with sleep, his gaze still veiled, he directed
 his glance towards those demons and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2877,8 +2755,6 @@ peril; *iha* = here?.
 
 "For what reason have you thus wakened me so suddenly? Is all well with the king or
 anything in peril here?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2894,8 +2770,6 @@ demons; *vismitashchaapi* = and surprised at being roused; *abraviit* = spoke;
 
 That excellent demons kindly addressing all the demons and surprised at being
 roused, spoke the following words to the demons:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2942,8 +2816,6 @@ for which reason; *pratibodhitaH* = I have been awaken; *bhavadbhiH* = by you;
 
 "Surely, there must be some great danger from an external source since you have
 wakened me in haste."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -2984,8 +2856,6 @@ himself; *tathaa* = and; *shiitayiSye* = to freeze; *analam* = the Fire.
 
 "Now, I shall drive away the misfortune from Ravana the King of Demons, even if I
 have to cut Mahendra himself to pieces or to freeze the Fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3032,8 +2902,6 @@ sleeping; *tat* = hence; *aakhyaata* = tell me; *arthatattvena* = frankly;
 
 "For a petty reason, one does not indeed awaken, one such as I, from my slumber.
 Hence, tell me frankly, for what reason you have roused me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3075,8 +2943,6 @@ annihilator of his enemies; *evam* = thus; *bruvaaNam* = talking; *samrabdham*
 
 Yupaksha, a minister of the King, with his hands joined salutation, spoke (as
 follows) to Kumbhakarna, the annihilator of his enemies, thus talking excitedly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3118,8 +2984,6 @@ is driving us back.
 
 "O, Prince! There is no threat whatsoever at anytime for us from celestials but a
 mere man is driving us back by a tumultuous tremor."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3166,8 +3030,6 @@ mere man is driving us back by a tumultuous tremor."
 
 "O, Prince! It is not indeed the celestials or demons who have put us in such a
 peril as it comes to us from a man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3209,8 +3071,6 @@ Seetha's abduction.
 
 "Monkeys, whose forms are as large as mountains, are besieging Lanka. There is a
 tumultuous peril for us from Rama, who is furious on account of Seetha's abduction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3251,8 +3111,6 @@ monkey; *iyam* = this; *mahaapurii* = great city; *dagdhaa* = was burnt;
 
 "Already, a single monkey set fire to our great city of slew the youthful Prince
 Aksha with his escort of elephants and retinue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3294,8 +3152,6 @@ person to celestials.
 
 " ' Get thee hence' were the words addressed by Rama who is equal to the sun in
 splendour, to Ravana in person the Lord of Demons and the trouble-some person to celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3338,8 +3194,6 @@ kR^itaH* = never suffered; *devaiH* = (in the hands) of Gods; *na* = never;
 
 "That which this king never suffered at the hands of Gods or Demons or Danavas, he
 has had to endure here from Rama, who released him from the danger to his life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3386,8 +3240,6 @@ rolling his eyes; *abraviit* = spoke; *yuupakSam* = to Yupaksha (as follows):
 
 Hearing about the humiliation of his brother in the battle through the words of
 Yupaksha, Kumbhakarna rolling his great eyes, spoke to Yupaksha (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3429,8 +3281,6 @@ thereafter.
 
 "O, Yupaksha! Now itself, after conquering the entire army of monkeys with Lakshmana
 and Rama on the battle-field, then only I shall see Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3471,8 +3321,6 @@ demons; *maamsashoNitaiH* = with the flesh and blood; *hariiNaam* = of the monke
 
 "I shall satiate the demons with the flesh and blood of monkeys and, as for Rama and
 Lakshmana, I shall drink their blood myself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3524,8 +3372,6 @@ these words.
 Hearing these haughty from that demon, whose anger increased his ferocity, Mahodara
 the chief of warriors of demons, having offered obeisance with joined palms, spoke the following
 words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3572,8 +3418,6 @@ cha* = and considered; *guNa doSau* = the advantages and disadvantages (of the m
 "O, the mighty armed! When you have listened to the words of Ravana and considered
 the advantages and disadvantages of the matter, even afterwards you can conquer the enemies in
 battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3614,8 +3458,6 @@ Mahodara; *mahaabalaH* = the mighty; *kumbhakarNaH* = Kumbhakarna;
 
 Hearing the words of Mahodara, the might Kumbhakarna of great valour prepared to
 depart, surrounded by demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3656,8 +3498,6 @@ depart, surrounded by demons.
 
 The demons, having awaken that sleeping Kumbhakarna of dreadful eyes, form and
 valour, went to the King's palace in haste.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3698,8 +3538,6 @@ seated; *paramaasane* = on the throne; *uuchuH* = said to him;
 
 All those demons, approaching Ravana who was seated on the throne, said to him with
 joined palms, as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3741,8 +3579,6 @@ him; *aagatam* = who came; *iha* = here?.
 
 "O, Lord of Demons! Kumbhakarna, your brother, has wakened. Is it your will that he
 should enter the battle field from there itself or do you desire him to come here and see you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3787,8 +3623,6 @@ to see; *enam* = him; *iha* = here; *puujyataam* = let hi receive the honours;
 
 Ravana answered those demons who stood before him and with a glad heart, said: "I
 want to see him here. Bring him after extending the honours due to him in a befitting manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3832,8 +3666,6 @@ command of Ravana; *punaH aagamya* = returned; *kumbhakarNam* = to Kumbhakarna;
 
 Uttering "Be it so", all those demons as commanded by Ravana, returned to
 Kumbhakarna and spoke the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3874,8 +3706,6 @@ all the dmeons; *kaan^kSate* = desires; *draSTum* = to see; *tvaam* = you;
 
 "The king, the lion of all the demons, desires to see you. Go and gratify your
 brother!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3916,8 +3746,6 @@ iti* = "so be it"; *utpapaataha* = rose up; *shayanaat* = from his couch.
 
 Hearing his brother's wish, Kumbhakarna the inviolable demon of great prowess,
 uttering "so be it", leapt up from his couch.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -3968,8 +3796,6 @@ boost up his strength.
 
 Washing his face and bathing, refreshed and delighted, adorning himself well and
 feeling thirsty, he hastened them to bring him a drink which can boost up his strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -4011,8 +3837,6 @@ commands.
 
 Thereupon, those demons brought him quickly the wine and various kinds of eatable
 there, in their hurry to take Kumbhakarna with them as per Ravana's commands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -4053,8 +3877,6 @@ there, in their hurry to take Kumbhakarna with them as per Ravana's commands.
 
 Having drunk two thousand pitchers, Kumbhakarna prepared to set out and slightly
 inebriated and flushed, he was exhilarated and filled with energy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -4105,8 +3927,6 @@ foot-steps.
 The fuming Kumbhakarna, going to his brother's palace along with the army of demons,
 appeared like Yama the Lord of Death at the end of all-destroying Time. He caused the earth to
 tremble with his foot-steps, while marching.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -4162,8 +3982,6 @@ The royal high way was illumined by his body, like unto that orb of a thousand r
 (the sun) by its flashes illumines the earth and he went there, surrounded by a circle of demons
 paying obeisance, resembling Indra the Lord of Celestials approaching the abode of Brahma the Lord
 of Creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -4210,8 +4028,6 @@ also their leaders; *vitatrasuH* = were frightened; *sahasaa* = suddenly.
 Seeing that slayer of his foes on the royal high way, that monster as high as the
 peak of a mountain, those monkeys stationed outside the city, as also their leaders, were
 frightened suddenly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -4266,8 +4082,6 @@ directions; *kechit* = and some; *sherate sma* = lay; *bhuvi* = on the ground;
 
 Some gained refuge in Rama who affords protection, some fell down tottering, some
 fled away perturbed in all directions and some others lay on the ground, confounded with fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 
@@ -4320,8 +4134,6 @@ brilliance; *vanaukasaH* = the monkeys; *bhayaarditaaH* = were seized with terro
 Seeing that colossus appearing like a great peak, having a diadem who seemed to
 touch the sun with his brilliance, the monkeys were seized with terror and had grown immensely in
 size, fled hither and thither.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
 </details>
 

@@ -16,8 +16,6 @@ title_english = "066 Sri Rama urges Hanuma to repeat the words spoken by Seetha"
 Rama, presses the jewel for the head, dispatched by Seetha on his bosom and speaks to
 Sugreeva, telling him that by seeing that excellent jewel he obtains the sight of Seetha, her father
 and father-in-law. Rama urges Hanuma, to repeat the words spoken by Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ having Lakshmana by his side; *kR^itvaa* = pressing; *tam maNim* = that jewel; *
 
 Hearing the words of Hanuma, Rama the son of Dasaratha, having Lakshmana by his side,
 pressing that jewel on his bosom, began to weep.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -120,8 +116,6 @@ with his eyes; *ashru puurNaabhyaam* = filled with tears; *abraviit* = spoke; *i
 
 Seeing that excellent jewel, Rama emaciated with grief, having his eyes filled with tears,
 spoke to Sugreeva as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ is affectionate towards her offspring; *sravati* = gushed forth milk (from her t
 "Even as a cow, who is affectionate towards her offspring, gushes forth the milk (from
 her teats) due to her love at the very sight of her calf, so does my heart too melt through the sight
 of this excellent jewel."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -221,8 +213,6 @@ beautifying.
 
 "This excellent jewel was presented by my father-in-law to Seetha when she had become
 a bride and was tied to her head in such a way that it looked additionally beautifying."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ tuShTena* = who was highly pleased; *yaJNe* = in Yajna sacrificial rite.
 "The jewel, which was found in the waters and recommended by the good, had been presented
 to him earlier by the intelligent Indra the lord of celestials, who was highly pleased in Yajna, a sacrificial
 rite (intended to propitiate him)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ Videha.
 
 "O gentle Sugreeva! Seeing now this excellent jewel, I am considering it as surely as
 obtaining the sight of my father as well as Janaka, the king of Videha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -370,8 +356,6 @@ _________________
 
 "This jewel indeed looks splendid on the head of my beloved Seetha. By seeing this now,
 I am considering as though I obtained the sight of Seetha herself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -421,8 +405,6 @@ Videha; *aaha* = said to you; *siNchanti* = sprinkling (me); *vaakya vaariNaa*
 
 "O gentle one! Repeat again and again, what Seetha the daughter of Videha's king said
 to you, sprinkling me with your stream of words, like offering water to a thirsty person."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -472,8 +454,6 @@ _________________
 
 "O Lakshmana! What could be more painful than the fact that I am seeing this jewel found
 in waters, without the arrival of Seetha?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -523,8 +503,6 @@ her dark eyes na jiiveyam = I cannot survive; *kShaNaam* = for even a moment.
 
 "O gentle one! If Seetha can survive for a month, it means that she is surviving for
 long. O gentle one! Without that black-eyed Seetha, I cannot survive for even a moment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -571,8 +549,6 @@ pravR^ittim* = after getting the news (of her whereabouts).
 
 "Take me too to that place where my beloved Seetha has been seen. I cannot halt even
 for a moment, after receiving the news of her location."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -622,8 +598,6 @@ terrific; *ghoraaNaam* = and cruel?
 
 "How does Seetha, my virtuous wife with her charming limbs, who is very shy, stay all
 the time with demons who are terrific and cruel?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -673,8 +647,6 @@ shine; *saampratam* = at present.
 
 "Her countenance, surely like automnal moon, though liberated of darkness, but screened
 by clouds, does not shine at present."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -724,8 +696,6 @@ kathaya = tell; *me* = me; *adya* = now; *tattvataH* = in truth; *jiiviSye khalu
 
 "O Hanuma! Tell me now, correctly what Seetha told you. I shall surely survive, by hearing
 her words, even as a sick man would with the help of a medicine."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 </details>
 
@@ -774,8 +744,6 @@ been separated from me; *aaha* = said to you.
 
 "Tell me, what my beautiful consort, who is sweet-natured, and who utters sweet words,
 having fine hips and has been separated from me, said to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga66/sundarasans66.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

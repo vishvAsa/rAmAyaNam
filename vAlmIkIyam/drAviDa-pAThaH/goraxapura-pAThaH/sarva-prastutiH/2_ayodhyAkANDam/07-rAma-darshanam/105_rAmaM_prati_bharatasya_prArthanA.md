@@ -19,8 +19,6 @@ deceased father. Rama consoles Bharata, saying that death is inevitable for livi
 should not grieve for their deceased father. Rama asks Bharata to control his grief and go back to
 Ayodhya to shoulder the burden of rulership there in order to the command of their deceased father
 and that Rama himself would obey his father's command by staying back in the forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -99,8 +97,6 @@ host of friends; *shochataameva* = were still lamenting; *rajanii* = (that) nigh
 
 While those lions among men amidst a host of friends were lamenting, that night
 elapsed with a much difficulty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -117,8 +113,6 @@ approached; *raamam* = Rama.
 
 When the beautiful dawn broke, Rama's brothers along with their companions, having
 made their offerings and recited their prayers on the banks of River Madakini, approached Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ Bharata; however; *abraviit* = spoke; *vachanam* = (the following) words;
 
 Sitting in silence, no one uttered a word. Bharata, on his part, amidst his
 companions, addressed Rama as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ kingdom; *akaNTakam* = without hindrance.
 
 "My mother has been consoled (by you) by giving this kingdom to me. I am giving back
 that kingdom to you. Enjoy it without hindrance!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -263,8 +253,6 @@ other than you.
 
 "As a dam breached by a great on-rush of water during a rainy season cannot be
 repaired so easily, this great continent cannot be defended by any one other than you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ ordinary bird; *taarkSyasya* = the movement of Garuda; a kind of falcon; *mahiip
 
 "As a donkey cannot emulate the tempo of a horse, or an ordinary bird the movement
 of Garuda (a kind of falcon), neither can I follow in your footsteps, O, Lord of the world!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ by others; *yaH* = whoever; *upajiivati* = is dependent on; *paraan* = others;
 
 "O, Rama! Know his life to be blessed forever, on whom others depend Life is,
 however, difficult for him who depends on others for this life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -433,8 +417,6 @@ the distinguished; *bhartaa* = Lord (of all); na- should not; *tvam* = you;
 become inaccessible to a dwarf, yet though it may come to flowering, does not bear fruit, it yeilds
 no pleasure for him. O, mighty armed! You ought to understand the import of theis simile and being
 the distinguished Lord of all, may you guide us, your sevants!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ foes!; *agrya* = (May) the foremost; *shreNayaH* = series (of people);
 
 "O, emperor, the conqueror of foes! May all behold you, shining resplendent on all
 sides like the sun, seated on the throne!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -535,8 +515,6 @@ _________________
 "O, Rama! May the elephants, intoxicated with ichor be heard trumpeting on the
 highway, when you do return and the women of the inner apartments rejoice, all happily joined
 together."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -583,8 +561,6 @@ city; *amanyanta* = in approbation; *said saadhu* = iti; "Excellent! Well said!"
 
 Hearing the words of Bharata, who was thus appealing to Rama, the various people of
 the city in approbation, said "Excellent! Well said!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -632,8 +608,6 @@ Bharata; *vilapantam* = lamenting; *evam* = thsu; *samaashvaasayat* = consoled
 
 On seeing the illustrious and sorrowful Bharata thus lamenting, the prudent and
 self-conposed Rama began to console him as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ him; *itashcha itaratashcha* = hither and thither.
 
 "Man is not able to do what he wills. He is not the Master A fixed form or name
 drives him hither and thither."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -731,8 +703,6 @@ in separation; *jiivitam* = life; *maraNaantam* = ends in death.
 
 "All that is piled up, is finally disbursed. What rises, ends in a fall. Unio ends
 in separation. Life ends in death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ falling; *evam* = so also; *narasya* = a man; *jaatasya* = once born;
 
 "How a ripe fruit does not fear for anything other than its falling, so also a man
 once born, does not fear for anything other than his death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -831,8 +799,6 @@ decays; *tathaiva* = so also; *naraaH* = human beings; *siidanti* = perish;
 
 "As a house that is solidly contructed ultimately falls into decay, human being too
 is subject to age and death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -879,8 +845,6 @@ the bountiful; *yamunaa* = River Yamuna; *yaatyeva* = just marches on;
 
 "The night that has passed, does not return and the buntiful River Yamuna just
 marches on towards the all-sufficient abounding in water."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -928,8 +892,6 @@ nights; *iha* = in this world; *aashu* = quickly; *kSapayanti* = decrease;
 
 "The pasing days and nights in this world quickly decrease the life-span of all
 living being as in the summer, the rays of the sun dry up the water (in a pool)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -977,8 +939,6 @@ life-span; *hiiyate* = gets shortened; *tvam* = you; *anushocha* = grieve;
 
 "You grieve for yourself. Why do you grieve for another? Even while you stay at
 home, or departed to another place, your life-span gets shortened."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1028,8 +988,6 @@ distance; *nivartate* = (we) return; *saha mR^ityuH* = along with death.
 
 "Death walks just with us (as we walk) and sits with us (as we sit). Having
 travelled a very long distance (with us), death returns along with us (as we return)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1077,8 +1035,6 @@ to the original splendour?
 
 "When folds have appeared on limbs and hair have turned grey; on what expedient can
 a man having got decayed with age, come back to the original splendour?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1125,8 +1081,6 @@ able to know; *aatmanaH* = their; *jiivitakSayam* = loss in life-span.
 
 "People are deligted when the sun has risen and also when the day ends. But they are
 not able to perceive the waning in their life-span."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1176,8 +1130,6 @@ seasolns; *praaNa samkSayaH* = devours the life; *praaNinaam* = of living beings
 
 "Seeing the onset of season, people rejoice, as though it has come something newly.
 But the succession of the seasons devours the life of being."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1235,8 +1187,6 @@ parting; *dhruvohi* = is indeed inevitable.
 "As pieces of drift-wood floating on the ocean coe toghether for a span, so wives,
 children, kinsmen wealth and property come together for a while and part with us. Their parting in
 deed inevitable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1284,8 +1234,6 @@ avert his own death; *naasti* = does not ingrain; *anushochataH* = in a man mour
 
 "Here, no being can escape its destiny ( in the form of birth and death). For that
 reason, the power to avert his own death does not ingrain in a man mourning for a dead person."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1350,8 +1298,6 @@ return?
 "As a caravan is passing on a road, one stationed at the way-side says, I too will
 come behind you. In the same manner, we should inevitably follow the path taken by fathers and fire
 fathers. Why a man who obtained that path, for which there is no return, distress himself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1399,8 +1345,6 @@ blessedness; *smR^itaaH* = It is said; *prajaaH* = that beings; *sukhabhaajaH*
 
 "While the age reshes on, without any return like a flowing river, one's self should
 be emplyoed in a pursuit leading to blessedness. It is said that beings are meant to be happy?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1452,8 +1396,6 @@ priests and Brahmins); *gataH* = and went; *svargam* = to heaven.
 "The king Dasaratha, our pious minded father performed almost all auspicious
 sacrifices and paid plentiful sacrificial fees (to the officitaing preists and Brahmins) and went
 to heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1501,8 +1443,6 @@ them); *gataH* = reached; *tridivam* = heaven.
 
 "Our father reached heaven because he maintained his servants properly, protected
 his subjects and realised the taxes in the manner prescribed by scriptures from them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1549,8 +1489,6 @@ heaven; *shubhaiH karmabhiH* = because of his auspicious acts; *iSTaiH kratubhis
 
 "Our father, the king Dasaratha obtained heaven because of his auspicious acts and
 perfoming sacrifices involving heavy sacrificial fees."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1598,8 +1536,6 @@ having obtained; *uttamam* = a virtuous; *aayushcha* = long life; *svargataH*
 
 "Having perfomed many types of sacrifices, enjoying worldly pleasure abundantly and
 having obtained a long and virtuous life, king Dasaratha reached heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1646,8 +1582,6 @@ raaghavaH* = that King Dasartha; *na shochya* = is not to be pitied; *satkR^itaH
 
 "O, dear brother! King Dasaratha, our father who was treated with respect by all
 virtuous men and who secured excellent life-span and enjoyments, is not to be pitied."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1699,8 +1633,6 @@ thre realm of Brahma ( the highest heaven).
 "King Dasaratha, our father, having abandoned his worn-out human body, indeed has
 attained the celstial state, by which he can stroll in the realm of Brahma (the highest
 heaven).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1748,8 +1680,6 @@ emperor.
 
 "No wise, learned and exceptionally clever man, would weep in such a manner, such as
 I and you, about the emperor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1796,8 +1726,6 @@ sorrows; *tathaa* = and; *vilaapa rudite* = lamentations; weepings;
 
 "The wise, who are steadfast, should indeed relinquish these sorrows, lamentatious,
 weepings and such other states of misery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1845,8 +1773,6 @@ puriim* = of that city; *asi* = you were; *niyuktaH* = commanded; *tathaa*
 
 "Be composed, O Most eloquent of orators! Control your grief, return to the City of
 Ayodhya in order to obey the command of our father, the subduer of his senses."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1894,8 +1820,6 @@ virtuous deeds.
 
 "I also will fulfil the command of our father, the venrable man in that very place,
 whre I have been ordered to stay by that king Dasaratha of virtuous deeds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1948,8 +1872,6 @@ nyaayyam* = It is not justifiable; *mayaa* = for me; *tyaktum* = to give up;
 "O Bharata the Vanquisher of Foes! It is not justifiable for me to violate the
 command of our father. You also must honour it to the end, for it comes from our father, out own
 blood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -1996,8 +1918,6 @@ word; *pituH* = of our fahter; *dharmachaariNaH* = the practiser of virtue;
 
 "O, Bharata! Hence, I shall conform to the honourable word of our father, the
 practiser of virtue, by my act of dwelling in the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -2044,8 +1964,6 @@ pious; *anR^ishamsena* = who seeks to harm non; *nareNa* = by a man;
 
 O, Tigher among men! Thus should a pious man act, who seeks to harm none, who is
 obedient to his elders and who aspires to conquer the higher world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -2092,8 +2010,6 @@ father; *dasharathasya* = Dasaratha; *anutiSTha* = act in conformity to;
 
 "O, excellent among men! perceiving the virutous conduct of our father, the King
 Dasaratha, act in conformity to your own nature."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 </details>
 
@@ -2149,8 +2065,6 @@ became silent.
 Having uttered in about an hour, these meaningful words in this manner to his
 younger brother on the need of abedience to his father's will, the magnamous and the mighty Rama
 became silent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

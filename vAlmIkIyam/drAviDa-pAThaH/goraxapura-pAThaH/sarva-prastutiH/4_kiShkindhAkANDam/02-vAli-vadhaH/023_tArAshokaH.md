@@ -15,8 +15,6 @@ title_english = "023 Tara s lament for death of Vali"
 
 Tara's lamentation is narrated in here. Seeing at her departed husband Vali, Tara pitiably wails for
 his demise as any ordinary woman would.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ mR^itam patim vacanam abraviit* = to dead, husband, words, spoke.
 
 Then that renowned Tara closely whiffed that face of monkey's king Vali and spoke these words to her
 dead husband. [3-23-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ over; *su duHkhe* = very, rough; *vasudhaa tale* = on earth's, surface; *duHkham
 
 "Heedless of my word, oh, brave one, you are reposing miserably on a very rough and uneven ground spread
 with stones. [3-23-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -161,8 +155,6 @@ me, not, in turn, speaking -replying.
 
 "This earth must definitely be your beloved one, oh, best of monkeys, why because, you still embrace
 her while you recline on her, without replying me. [3-23-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -209,8 +201,6 @@ vasham praaptaH = Sugreeva's, control, you obtained - you have gone in; *sugriiv
 
 "You have gone into the control of Sugreeva and Sugreeva alone triumphed, oh, brave one, oh, enthusiast
 in adventures, oho, is it fated to happen this way. [3-23-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -267,8 +257,6 @@ to senses.
 "These chiefs of bears and monkeys are adoring you in every respect as their most worshipful one, and
 on hearing their despairing wailing, and the lamentation of Angada, and even these utterance of mine
 in keen, why do not you comeback to senses. [3-23-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ the brave, bed of; *idam yudhi hataH* = in this, fight, felled; *tatra sheSe?* =
 
 "Do you wish to repose on the very daybed on which you have laid your enemies to rest when you have
 once felled them in fights, or what? [3-23-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ protector; *maam ekaam vihaaya* = me, lonely, on leaving; *gataH asi* = gone, yo
 
 "Oh, successor of a clan with pristine calibre, oh, accorder of dignity, oh, devotee of fighting, oh,
 my dear, have you gone on leaving me without a protector and lonely? [3-23-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -412,8 +396,6 @@ of an adventurer, in a trice rendered as a war-widow left in the lurch. [3-23-8b
 For this *Sage Kaatyaana* says : *duurasthaanaam avidyaanaam mokSha maarga anusaariNaam |
 shuuraaNaam nir dhanaanaam ca na deyaa kanyakaa budhaiH ||*'to those bridegrooms who reside in distant
 places, uneducated, seekers of salvation, daring ones, un-wealthy brides shall not be given by wisemen...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -460,8 +442,6 @@ ocean; *nimagnaa asmi* = deluged, I am.
 
 "My honour is degenerated and my eternal happiness is disintegrated, and I am deluged in an abyssal
 boundless ocean called anguish. [3-23-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -509,8 +489,6 @@ boundless ocean called anguish. [3-23-9b, 10a]
 
 "And dense with metallic substance is this heart of mine in its solidity, since it is not splintering
 into hundredfold even on seeing my husband killed, it is definite. [3-23-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -558,8 +536,6 @@ you are, you have; *pancatvam aagataH* = fifth state, come over by.
 "By your nature you are my beloved, besides, you are a good-hearted one, more so, you are my husband,
 moreover, you are a valiant triumphing over your enemies in assaults, such as you are you have attained
 the fifth state, the death. [3-23-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -610,8 +586,6 @@ ucyate* = will be said, called.
 
 "Perhaps a woman might have mothered many children, and perhaps affluent with riches and crops, still
 people will call her a widow, if she is without husband. [3-23-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -653,8 +627,6 @@ now.
 
 "How do you repose now on a sheet of blood flowing from your own body, oh, brave one, as if you are
 reclining on your own bed spread with a bed sheet of red blood colour? [3-23-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -695,8 +667,6 @@ two arms; *pari rabdhum* = to fully, embrace; *na shaknomi* = not, able to I hav
 
 "I have no strength to closely embrace you with both my arms, oh, best fly-jumper, when the blood and
 dust covering your body comes in between. [3-23-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -745,8 +715,6 @@ dust covering your body comes in between. [3-23-14b, 15a]
 "Single arrow released by Rama has doubly benefited Sugreeva in this highly deplorable enmity between
 you and Sugreeva, as his ambition to become the king is fulfilled and his fear from your persecution,
 too, is evanished. [3-23-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -793,8 +761,6 @@ intently; *tava hR^idi lagnena shareNa* = in your, chest, stuck, by arrow; *gaat
 
 "In vain, I have been watching you without a wink, on whom fatality has descended, as this arrow stuck
 in your chest is hindering me to embrace you..." Thus wailed Tara. [3-23-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -841,8 +807,6 @@ as with; *ut babarha* = out, pulled - extricated.
 
 "Then the monkey chief Nila extricated that arrow which is stuck in the chest of Vali, as with the extraction
 of a firmly wedged sparkling snake from the cavity of a mound. [3-23-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -895,8 +859,6 @@ summit of dusky western mountain, and as contrasted with the hue of dusk. [3-23-
 **टिप्पनी**
 
 More brilliant days are indicated for the arrows of Rama as the dusky day of Vali has ended.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -943,8 +905,6 @@ petuH* = all over, fell out.
 
 The blood streams flown out of the gashes of Vali fell everywhere like the streams of water flowing
 from a mountain saturated with coppery mineral-ores. [3-23-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -994,8 +954,6 @@ astra samaahatam [sam aa hatam]* = by missile, summarily hit; *shuuram* = valoro
 
 On wiping off war dust with which her husband is muffled up, with tears gushing from her eyes she drenched
 that valiant one who is summarily hit by the missile of Rama. [3-23-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1043,8 +1001,6 @@ uvaaca* = to Angada, said.
 
 On giving attention to all of the blood wet limbs of her slain husband that lady Tara spoke to her son
 Angada whose eyes are coppery-red. [3-23-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1092,8 +1048,6 @@ harnessed by; *vairasya* = enmity; *antaH gataH* = end, he reached.
 
 "See the highly harrowing end time plight of your father, oh, son, he reached his end owing to the enmity
 harnessed by sinful deeds. [3-23-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1138,8 +1092,6 @@ abode, he journeyed [dead]; *raajaanam maana dam* = to king, honour, accorder; *
 "To him, whose physical splendour vied with the dazzle of rising sun, to that father, king, and the
 accorder of honour you pay you last obeisance as he journeyed to the abode of Time-god." Thus Tara said
 to Angada. [3-23-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1187,8 +1139,6 @@ up; *aham angadaH* = I am, Angada; *iti bruvan* = thus, saying; *piina vR^itaabh
 
 When he is said so, Angada swiftly rose and touched the feet of his father with both of his rotund-shouldered
 sinewy arms saying, "father, I am Angada..." [3-23-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1236,8 +1186,6 @@ you be; *iti* = thus as; *kim artham* = what, for - why don't you; *yathaa puraa
 
 "Why do not you bless Angada saying, 'long live, son...' when he is paying resects to you, as earlier?"
 Thus Tara is addressing Vali in her anguish. [3-23-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1288,8 +1236,6 @@ living through.
 
 "I am living through seeing the lifeless state of yours with the help of my son, no more than a helpless
 cow that sits near her bull with its calf, when that bull is slain by a lion, just now. [3-23-26b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1348,8 +1294,6 @@ ritual along with his wife. Vedic ritual itself is forbidden to a wifeless perso
 bath after *puurNa aahuti *, total oblation, is against the rules of ritual if taken without his wife.
 Here Vali, an adorer of combats as good as Vedic rituals is taking that bath for himself in the bloodstreams,
 called ritual waters, and Tara is questioning him about her propriety to participate in it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1400,8 +1344,6 @@ pendant; *iha kim na pashyaami* = now, why, not, I see.
 
 "Now where is that treasured golden pendant of yours which the king of gods gave to you when he is satisfied
 with your conduct in wars, I don't see it? [3-23-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1452,8 +1394,6 @@ Meru,] circumnavigating; *suuryasya prabhaa iva* = sun's, shine, as with; *raajy
 "Majesty is not deserting you even if your lives have departed, oh, accorder of dignity, as with the
 sunshine that departs the sun while he circumnavigates Mt. Meru, which mount is supposed to overshadow
 everything by its vastness. [3-23-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 </details>
 
@@ -1509,8 +1449,6 @@ shriiH* = Grace; *tvayaa saha* = you, along with; *maam api* = me, even; *vi jah
 "Neither you heeded my word of expediency, nor I was indeed capable to forestall you, and I am doomed
 along with my son when you are exterminated in fight, whereby the Grace that forsook you, is deserting
 me too, in its entirety. [3-23-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga23/kishkindhasans23.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

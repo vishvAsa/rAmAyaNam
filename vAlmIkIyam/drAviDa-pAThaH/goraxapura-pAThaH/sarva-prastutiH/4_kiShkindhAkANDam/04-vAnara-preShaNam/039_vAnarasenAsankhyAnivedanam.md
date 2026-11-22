@@ -21,8 +21,6 @@ wage war with Ravana is informed to Sugreeva. And Sugreeva who is interested for
 by Rama informs that all the monkeys on earth are ushered to remain in the service of Rama. While Sugreeva is
 informing about the arrival of monkeys, in a split-second that place is further crammed up with troops and troops
 of monkey-warriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -68,8 +66,6 @@ spoke - replied.
 
 Rama, the best proponent of probity, happily embraced Sugreeva with both of his arms and replied him who is speaking
 in this way suppliantly adjoining palms at Rama. [3-39-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -133,8 +129,6 @@ bhaviSyati* = no, wonder, it will be.
 "There is no wonder, oh, enemy-flamer, if Indra gives rain, or if that thousand-rayed sun makes the sky undark,
 or if the moon makes night shiny with his moonshine, so also oh, gentle one, if a true-friend of your kind gladdens
 his indigent-friend, there is no wonder. [3-39-2, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -182,8 +176,6 @@ vaadinam* = always, as affability, exponent of; *aham jaanaami* = I am, aware of
 "In this way, oh, nice Sugreeva, that helpful nature which is decorously prevailing in you, ushering you for organising
 the worthwhile, will not be a wonder but natural. I am aware that you have always been the exponent of affability.
 [3-39-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -230,8 +222,6 @@ worthy of you.
 
 "With you as the helmsman, oh, friend, I will be triumphing over all the enemies, and you alone are worthy to
 proffer a helping hand to me as a good-hearted friend of mine. [3-39-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -289,8 +279,6 @@ Myth: Shaci Devi, the wife of Indra, is the daughter of a demon called Puloma, t
 the son of Hiranyakshyapa, on deceiving Indra abducted Shaci Devi with the consent of her father Puloma. Then
 Indra infuriated at Puloma, the father of Sachi Devi, for making the abduction possible, killed him. Thereby Indra
 got a name Pulomajit.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 
 </details>
@@ -339,8 +327,6 @@ with sharp, arrows, I wish to eliminate.
 "As soon as possible I wish to eliminate that Ravana with sharp arrows, as has been done by the enemy slyer Indra
 when he eliminated the insolent father of Sachi Devi, namely Puloma." Thus Rama is about to tell other things
 to Sugreeva, but... [3-39-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -411,8 +397,6 @@ one [sun's]; *uSNaam tiivraam prabhaam* = scorching, intense, radiation; *Chaada
 **अनुवादः**
 
 In the meanwhile dust started to overcast the sky covering the intensely scorching radiation of the sun. [3-39-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -432,8 +416,6 @@ with, mountains, woods, forests; *sarvaa mahii ca* = entire, earth, also; *cacaa
 
 Stained with that darkness the directions are confounded, and the entire earth together with its mountains, woods,
 and forests has wobbled. [3-39-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -567,8 +549,6 @@ is marking them from the place of rising sun, moon-white body colour of some mor
 place of nightly moon, and the colour of skin looking like lotus-fibrils of many more indicates that they are
 from fertile watery lands, and the snow-white complexion of yet some more indicates that the dwelling place of
 those monkeys is Mt. Meru. [3-39-10, 11, 12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -615,8 +595,6 @@ a dR^ishyata]* = = came into view - by Rama and others.
 
 In the meantime the arrival of a distinguished and valorous vanara named Shatabali, hemmed in with ten thousand
 crores of vanara-s, came into the view of Rama and others. [3-39-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -662,8 +640,6 @@ of crores; *an ekaiH* = with not one, with multitudinous monkeys; *pratyadR^ishy
 
 Sushena, the father of Lady Tara, a valorous one with the sheen of golden mountain then appeared with very many
 thousands of crores of vanara-s. [3-39-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -710,8 +686,6 @@ saahasreNa samanvitaH* = of crores, a thousand, followed by - monkey troops; *sa
 
 Like that the most efficient vanara-chief Taara, the father of Ruma and Sugreeva's father-in-law, turned up with
 another thousand crores of vanara-s following him. [3-39-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -773,8 +747,6 @@ pratyadR^ishyata* = came into view.
 Honourable Kesari, the father of Hanuma, with his bodily gleam like that of the fibrils of lotuses and visage
 glittering in the gleam of nascent sun, and who is an intellectual, graceful and prominent vanara among all the
 vanara-s, then came into view associated with thousands and thousands of armies of vanara-s. [3-39-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -820,8 +792,6 @@ mahaaraajaH* = baboons, sovereign; *bhiima vikramaH* = formidably, adventurous o
 
 Gavaaksha, the formidably adventurous sovereign of baboons is then seen encircled by a thousand crore vanara-s.
 [3-39-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -861,8 +831,6 @@ Gavaaksha, the formidably adventurous sovereign of baboons is then seen encircle
 
 Dhuumra, the enemy destroyer, marched to the fore of Rama and others surrounded with two thousand crores of bears
 which have frightful fastness. [3-39-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -909,8 +877,6 @@ up.
 
 The highly valorous commander named Panasa has then arrived attended by a three crore legion of horrendous vanara-s
 who are beaming forth like gigantic mountains. [3-39-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -960,8 +926,6 @@ view.
 
 Commander Niila has then come into view with his colossal and blackish mascara mound-like body encircled by ten
 crores of vanara-s that are selfsame to their leader. [3-39-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1007,8 +971,6 @@ crores of vanara-s that are selfsame to their leader. [3-39-22]
 
 Then the great-mighty commander named Gavaya whose bodily sheen is like that of a golden mountain has come forth
 surrounded by five crores of vanara-s. [3-39-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1057,8 +1019,6 @@ aa yayau]* = came nigh of; *sugriivam sam upa sthitaH* = to Sugreeva, verily, ne
 
 Dariimukha, the mighty commander then came along with a thousand crore vanara-s and he stayed nearby Sugreeva
 drawing nigh of him. [3-39-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1105,8 +1065,6 @@ dvividaH ca* = Mainda, also, Dvivida, also; *ubhau* = two of them; *vaanaraaNaam
 
 Both Mainda and Dvivida, the great-mighty sons Ashvini-twin gods have then appeared, each with a thousand crore
 vanara-s. [3-39-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1152,8 +1110,6 @@ aajagaama* = to Sugreeva's, nearby, came forth.
 
 The mighty, braving and highly resplendent Gaja came forth to the near of Sugreeva encompassed by three crores
 of vanara-s. [3-39-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1199,8 +1155,6 @@ one; *R^iksha raajaH* = bears, king; *dashabhiH koTibhiH* = ten, crores - of bea
 
 A great resplendent one who is renowned by his name Jambavanta has then come with a brigade of ten crore bears
 spreading around him and stood firm under the control of Sugreeva. [3-39-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1246,8 +1200,6 @@ hundred, along with; *tuurNam aagataH* = swiftly, came.
 
 A blaze-like mighty vanara named Rumana came swiftly surrounded with a hundred crore legion of vanara-s who are
 highly venturesome. [3-39-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1296,8 +1248,6 @@ also; *haribhiH* = with vanara-s; *pR^iSThataH anugataH* = at behind, followed b
 
 Gandhamaadana has then arrived while ten thousand crores and hundred thousand crores of monkeys are following
 him at his behind. [3-39-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1347,8 +1297,6 @@ angadaH* = crown-prince, Angada; *padma sahasreNa* = padma-s, a thousand of; *sh
 Angada, the crown prince of Kishkindha, who matches his father Vali in valour has then turned up with a thousand
 padma legions and a hundred shanku legions of vanara-s.
 [3-39-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1397,8 +1345,6 @@ monkey, crores; *duurataH* = at a distance; *pratyadR^ishyata* = has appeared.
 
 Tara, the vanara-commander, whose sparkle is as that of stars and whose valour is remarkable then appeared at
 a distance with five crore monkeys. [3-39-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1448,8 +1394,6 @@ yuuthapaH* = very bold, commander; *indrajaanuH kapiH* = Indrajaanu, [named] mon
 
 Indrajaanu, the brave monkey commander who is the chief of eleven crores of monkeys has appeared then encompassed
 by selfsame vanara troopers. [3-39-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1495,8 +1439,6 @@ by selfsame vanara troopers. [3-39-32]
 
 Rambha whose bodily glow is like that of tender-sun has then come forth fenced in a thousand plus a hundred of
 aayuta-s of vanara legions. [3-39-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1545,8 +1487,6 @@ _________________
 
 A braving and powerful legion commander of vanara-s named Durmukha has then appeared encompassed with two crores
 of vanara-s. [3-39-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1592,8 +1532,6 @@ bhiima vikramaiH* = of formidable, bravery; *koTi sahasreNa* = crore, thousand; 
 
 Then Hanuma appeared with a thousand crore vanara-s encompassing him who in shape are like the summits of Mt.
 Kailash and whose bravery is formidable. [3-39-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1639,8 +1577,6 @@ Kailash and whose bravery is formidable. [3-39-35]
 
 Highly vigorous Nala has also arrived while he is surrounded with a hundred crore one thousand and one hundred
 monkeys, the dwellers on trees. [3-39-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1689,8 +1625,6 @@ to that, great-souled one, to Sugreeva; *sampraaptaH* = arrived.
 
 Dadhimukha, the salutary vanara-chief then arrived at the near of that great-souled Sugreeva encircled by a ten
 crore vanara-s who are all blaring highly. [3-39-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1747,8 +1681,6 @@ ca* = Ramha, even, also; *ete kaama ruupiNaH* = these are, by wish, guise-change
 Sharabha, Kumuda, Vahni, also even Ramha, these and many other vanara-s have come who by their wish are the guise-changers.
 And many of those other commanders who have presented themselves along with their troops, overspreading the earth
 inclusive of its mountains and forests, their count is unknown. [3-39-38, 39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1804,8 +1736,6 @@ before, they moved,] presented themselves before Sugreeva.
 
 All those fly-jumpers arrived by swinging, flying and thundering, and all of the monkeys on earth have arrived
 thus, presented themselves and settled down around Sugreeva as if a number of clouds are cramming the sun. [3-39-40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1853,8 +1783,6 @@ Sugreeva; *nyavedayan* = submitted [themselves - informed of their arrival with 
 While arriving those monkeys made many a hue and cry of war, and those outstanding monkeys who are armed with
 a pair of their own arms have informed the vanara king Sugreeva about their arrival by tilting up their heads
 as in roll-call or in headcount. [3-39-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1900,8 +1828,6 @@ tadaa* = then; *praanjalayaH sthitaaH* = with palms-adjoined, stayed behind.
 
 As befitting to them the other vanara leaders have come together to meet Sugreeva, and on their meeting with Sugreeva
 then they stayed behind with their palms adjoined. [3-39-42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -1948,8 +1874,6 @@ vanara-s, prominent ones; *raame* = to Rama; *nivedayitvaa* = having informed ab
 
 Then Sugreeva, the knower of rectitude, promptly informed about all of those paramount monkeys to Rama as to who
 is who, and staying with folded palms he addressed the forgathered monkey chiefs. [3-39-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 </details>
 
@@ -2016,8 +1940,6 @@ ca antaH ca paraadhaH Yajur Veda taittariiya vaanara pramukhaa mahaa prabhaavaa 
 khara nikharva anta madhya paraardha aneka paraardha sa~NkhyaakaiH aprameya paraakramaiH vaanaraiH parivR^itaa
 samaagataaH sugriiveNa ca yathaa sukham viniveshitaaH ca -Dharmaakuutam - Further he goes on to quote Leelavati
 mathematics: liilaavatii gaNita shaastre siddhanta shiromaNe -
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

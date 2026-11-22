@@ -15,8 +15,6 @@ title_english = "026 Rama lets Seetha know of King s wish"
 
 Seeing Rama being sad seetha wants to know the reason Rama then lets her know his
 father's wish and his decision to go to forest. He then askes her to stay in Ayodhya.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -98,8 +96,6 @@ The prince Rama, having been invoked blessings by his mother, after having
 salutation to Kausalya and remaining firmly in his virtuous path, set out journey to the forest.
 Entering to the road filled with people, he made it shine with his splendour and stirred the hearts
 of the people because of his excellent qualities.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -146,8 +142,6 @@ That; *yauvaraajyaabhishhechanam eva* = installation of Rama alone as Prince Reg
 
 Sita, practising for the coronation ceremony, did not hear anything on that matter.
 She was thinking of installation of Rama alone as prince Regent in her heart
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -195,8 +189,6 @@ She was thinking of installation of Rama alone as prince Regent in her heart
 
 As she knows what is to be done and is aware of rules relating to kings Sita herself
 being rejoiced in heart, performed the worship of the gods and was waiting for the prince.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -243,8 +235,6 @@ people; *suvibhuushhitam* = and which is well decorated.
 
 Thereafter Rama, slightly turning his face down , entered his own house which is
 well decorated and is filled with rejoicing people all around
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -291,8 +281,6 @@ sorrow; *chintaa vyaakulatendR^iyam* = having his mind perturbed with anxiety;
 
 Sita sprang up from her seat and trembled by seeing her husband stricken with
 sorrow, his mind perturbed with anxiety.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -340,8 +328,6 @@ gR^ief; *manogatam* = existing in his mind ; *tataH* = For that reason;
 
 By seeing her, Rama the virtuous man could not contain that grief existing in his
 mind and hence got unveiled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -389,8 +375,6 @@ now?
 
 Seeing him pale-faced, perspired and without endurance, Sita (stricken with grief)
 spoke thus what is this now , my Lord!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -439,8 +423,6 @@ spoke thus what is this now , my Lord!
 Oh , Rama! It is indeed told by learned brahmanas that today's constellation Pushya
 (which is presided by sage bR^ihaspati) which is propitions, is suitable (for coronation). Why are
 you sadly disposed?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -490,8 +472,6 @@ froth.
 
 Your handsome face does not shine splendidly as it should when covered by an
 umbrella white as water-froth and provided with a hundred ribs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -537,8 +517,6 @@ are superior; *chandra hamsa prakashabhyaam* = shining like a moon and a swan.
 
 Nor your lotus -eyed face is not being fanned (as it should ) by superior chowries
 shining like a moon and a swan
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -589,8 +567,6 @@ overjoyed ; *vaagminaH* = equent; *vandinashchaapi* = bards; *suutamaagadhaaH*
 
 Nor the overjoyed and eloquent bards Sutas and Maagadhas (who sing portions of epic
 poems and ancient ballads ) are seen here , praising you with auspicious words .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -638,8 +614,6 @@ muurdhniH* = on your head ; *muurdhaabhishhiktasya* = after you had taken a head
 
 Nor brahmanas who are well-versed in Vedas, have not placed , as per prescribed
 Rites , honey and curds on your head after you had taken the head -bath
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -686,8 +660,6 @@ inclined ; *anuurajitum* = to go along; *tvaam* = with you.
 
 All ministers, chiefs of Associations, citizens and country-folk, duly decked with
 ornaments, are not inclined to go along with you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -738,8 +710,6 @@ of you .
 
 Why the main carriage used for travelling and pleasure, tied with four horses decked
 with gold ornaments and with excellent speed does not go ahead of you ?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -788,8 +758,6 @@ prayaaNe* = in your journey.
 Oh, valiant prince! A glorious elephant which is worshipped for its good
 characteristics, resembling a mountain crowned with a dark cloud is not seen ahead in your
 journey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -836,8 +804,6 @@ excellent seat ; *kaaNchanachitram* = embroidered with gold
 
 Oh, brave man pleasant with the sight! I do not see marching before you an elephant
 having been placed in front with an excellent seat embroidered in gold meant for you
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -883,8 +849,6 @@ being seen ;kim = Why ; idam is this ; *idaaniim* = now ?
 
 While coronation is getting ready now, the colour of your face is appearing strange.
 Even happiness is not being seen (in you). Why is it?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -931,8 +895,6 @@ is sending me to exile; *vanam* = in a forest.
 
 Rama spoke thus to Sita, who is lamenting : Oh, Sita! My venerable father is sending
 me to a forest in exile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -980,8 +942,6 @@ krameNa* = in what sequence; *idam* = this ; *abhyaagatam* = came ; *mana*
 
 Oh, Sita ! You are born in a great family. You know what is Right and practise
 virtue . hear me in what sequence it happened to me
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1028,8 +988,6 @@ is true to a promise.
 
 Two great boons were given to my mother Kaikeyi long ago , by my father Dasaratha
 who is true to a promise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1078,8 +1036,6 @@ morality.
 Now that the arrangements initiated by the king for my coronation are getting ready
 , Kaikeyi came out with that promise of boons, turning the situation to her own advantage by
 grounds of morality
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1129,8 +1085,6 @@ princely kingdom ; *me pitraa* = by my father.
 
 I have to dwell in Dandaka forest for fourteen years .Bharata is being appointed as
 prince by my father
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1194,8 +1148,6 @@ Before setting forth to the lonely forest, I came to see you. I should not be
 praised at any time in the presence of Bharata . Men endowed with power and fortune indeed do not
 tolerate praise of others . Therefore, my virtues should not be extolled by you in front of
 Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1244,8 +1196,6 @@ any time; *shakyam* = (you) can; *vartitum* = stay; *samiipe* = familiar ;
 
 You need not be attended in a special manner at any time by him. You can stay
 familiar to him, by behaving with him conformably.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1295,8 +1245,6 @@ king Dasaratha.
 
 The princely kingdom is given to him by the king permanently. Oh, Sita ! He is fit
 to be rendered gracious by you, more so the king Dasaratha
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1345,8 +1293,6 @@ magnanimous mind ! ; *tvam* = you; *bhava* = remain; *sthiraa* = firm.
 
 Keeping up the pledge of my father, today itself. Oh, Sita of magnanimous mind!
 Remain firm.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1395,8 +1341,6 @@ interested in relegious vows and fastings; *tvayaa* = by you.
 
 Oh, Sita the good and faultless lady ! After I leave for the forest frequented by
 the sages, you can become interested in religious vows and fastings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1443,8 +1387,6 @@ per precept; *dasharathaH* = the king; *mama pitaa* = my father; *vanditavyaH*
 
 You can rise up in dawn , perform worship of the deities as per precept and do
 salutation to my father , king Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1491,8 +1433,6 @@ emaciated by grief; *vR^iddhaaH* = the aged; *mama maataa cha* = my mother ;
 
 Keeping in front of righteousness alone, you have to respect the aged Kausalya, my
 mother who is getting emaciated by grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1541,8 +1481,6 @@ which they have looked after me (in my childhood)
 For me all my mothers are equal in my eyes in point if fondness, love and the way in
 which they have looked after me ( in my childhood). Hence the rest of mothers also deserve to be
 saluted always by you
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1589,8 +1527,6 @@ seen = bhraatR^i putrasamau = as brothers or sons.
 
 You, in particular, should regard Bharata and Satrughna, as your brothers or
 sons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1637,8 +1573,6 @@ for the kingdom ; *kulasyacha* = and for family
 
 Bharata is indeed king and the master both for the kingdom and for our family .
 Hence, you should not do what is displeasing to him at any time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1685,8 +1619,6 @@ angry ; *viparyaye* = if it is to the contrary.
 
 Kings being pleased by good character and served by exerting one's self become
 happy. They get angry if it is to the contrary
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1733,8 +1665,6 @@ who are suitable.
 
 Kings abandon even their own sons, if they are antagonistic and accept even other
 people if they are fitting
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1776,8 +1706,6 @@ dwell; *iha* = here.
 
 Oh good lady ! You such dwell here, doing conformably to the will of Bharata the
 king, remaining devoted to righteousness and with a vow of truth as you end.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 </details>
 
@@ -1836,8 +1764,6 @@ is
 
 Oh, my dear Sita ! I can go to the great forest. You can stay here only, without
 doing harm to any one as it is .Listen to my words
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga26/ayodhyasans26.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -40,8 +40,6 @@ occasioned through the shrewdness of Seetha. In a legendary perspective, if evil
 good has to peregrinate troublesomely, and that troublesome peregrination of Seetha, as well as that
 of Rama, is triggered off at this situation, again due to the shrewdness of Seetha. Thus, there is no
 oddity in the shrewd talk of Seetha. Some more discussion is incorporated in the endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -93,8 +91,6 @@ voice; *sadR^isham* = identifiable; *tam aarta svaram* = that, grievous, voice; 
 
 On identifying the grievous voice that is identifiable with her husband's voice, Seetha spoke to Lakshmana,
 "you go at once, and check up on Raghava.' [3-45-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -144,8 +140,6 @@ bhraataram* = [such] brother; *traatum arhasi* = protect, apt of you.
 "I have heard the loud yelling voice of highly fretful Rama whereby my heart, or my very entity, is
 not abiding in its place, and it will be apt of you to protect such a brother of yours who is screaming
 in the forest. [3-45-2, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -200,8 +194,6 @@ Rama might have come under; *sharaNa eSiNam* = protection, he who is seeking; *t
 "He might have come under the subjugation of demons as with a bull coming under the seize of lions,
 hence, you hurry up so as to near such a brother of yours who is seeking protection." So said Seetha
 toi Lakshmana. [3-45-3b, 4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -220,8 +212,6 @@ though she said a lot to him,] he on his part; *bhraatuH shaasanam aaj~naaya* = 
 Although she spoke a lot to him in this way, Lakshmana on his part has not moved out remembering his
 brother's order to stay guard to Seetha, and hence that Janaki, the daughter of Janaka, who is already
 agitated for Rama further spoke to him in the paradox of his not going out of hermitage. [3-45-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -276,8 +266,6 @@ such as you are; *tvam* = you; *bhraatuH* = to brother; *shatru vat mitra ruupeN
 
 "You are like a foe of your brother in friend's mien, Soumitri, as you are not making a move towards
 a brother even if he is in an emergency. [3-45-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -299,8 +287,6 @@ are not following up on Raghava. It is definite. [3-45-6b, 7a]
 
 The 'real' woman in Seetha is coming out. From now on, she goes on talking unhesitatingly, unilaterally
 and even abusively because her mind is fuddled with the thought 'some damage is being done to her husband.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -350,8 +336,6 @@ him [at Rama]; *a pashyan* = without, seeing - when he is unseen; *vi srabdhaH t
 " 'Raghava in direst strait' is the most liked thing to you, thus I deem, as you have no heart for that
 brother, and as you complacently stay behind even when that great-resplendent Rama is unseen. [3-45-7b,
 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -402,8 +386,6 @@ uncertainty, when he is undergoing; *iha tiSThantyaa* = now, staying on - at her
 "After which helmsman you have come here that Rama is undergoing an uncertainty of life-and-death, as
 such I indeed wonder what business you have here now in staying with me at this hermitage?" Seetha spoke
 so to Lakshmana. [3-45-8, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -451,8 +433,6 @@ from Videha kingdom, to Seetha; *lakSmaNaH abraviit* = Lakshmana, spoke.
 
 Lakshmana spoke to Seetha, the princess from Videha kingdom, who is talking deluged under tears and
 anguish in that way, as she is fretful like a she-deer. [3-45-9a, 10b]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -502,8 +482,6 @@ doubt.
 
 "Oh, Vaidehi, your husband is an impossible one for vincibility by serpents, asura-s, gandharva-s, gods,
 fiends, demons, no doubt about it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -565,8 +543,6 @@ kinnaraa-s, beasts, also; *ghoreSu daanaveSu ca* = among horrendous, demons, eve
 "Oh, auspicious one, unmarked is some combatant who can counterattack Rama from among gods, humans,
 gandharva-s, birds, ogres, kinnaraa-s, beasts, or oh, lady, even from horrendous demons, as Rama vies
 with Indra in any given war. [3-45-11b, 12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -582,8 +558,6 @@ I venture.
 
 "It is inapt of you to talk that way as Rama is inextirpable in a given war, and as for me, I do not
 venture to abandon you in this forest in the absence of Raghava. [3-45-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -638,8 +612,6 @@ lokaiH* = coming in insurgency, of three, worlds [collectively]; *tasya balam a 
 "Let the most forceful Crowns with all their military forces, or, all of the gods together with their
 heads, why they, let all the three worlds put together come mutinously, whether jointly or severally,
 Rama's prowess is irrestrainable. [3-45, 14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -655,8 +627,6 @@ Rama's prowess is irrestrainable. [3-45, 14b, 15a]
 
 "Hence, let your heart be diverted and anxiety divested, as your husband will be returning soon on killing
 that extraordinary deer. [3-45-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -712,8 +682,6 @@ city of gandharva-s usually created by magicians in general. [3-45-15b, 16]
 
 Lakshmana has repeated the word gandharva nagara which he said to Rama. This magic is said as: *gandharva
 nagaram proktam indrajaalam maniiShibhiH* 'magic show of showing celestial cities by magicians.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -761,8 +729,6 @@ not, I dare.
 
 "And you are an entrustment, oh, best lady Vaidehi, as the great-souled Rama has entrusted you in my
 security, as such I do not dare to leave you off now. [3-45-17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -809,8 +775,6 @@ towards; *vayam etaiH nishaacaraiH* = we are, with these, nigh-walkers; *kR^ita 
 
 "Oh, gracious lady, we have become the adversaries of these night-walkers insofar as the elimination
 of Khara and others, and concerning the eradication of Janasthaana. [3-45-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -856,8 +820,6 @@ voices, they put to use; *cintayitum na arhasi* = to bother about it, not, apt o
 
 "The demons are the swaggerers in violence in great forests and they will be employing various voices.
 Therefore Vaidehi, just do not bother about it." Thus Lakshmana advised Seetha. [3-45-18b, 19, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -908,8 +870,6 @@ vaadinam lakSmaNam* = actuality, advocate of - veracious, to Lakshmana; *paruSam
 
 As for Seetha, she became furious on hearing Lakshmana's words of advice, and while her eyes are becoming
 bloodshot she spoke these rude sentences to that veracious Lakshmana. [3-45-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -959,8 +919,6 @@ The wording *anaaryaH akararuNaarambha= dayaa prasakti rahitaH *is as per the te
 while other mms have it as *akaarya karaNa aarambha; a kaarya kaaraNa aarambha *'starter for
 doing an untoward deed.' From Seetha's viewpoint it is 'in wooing brother's wife you are the starter
 of an untoward deed.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1006,8 +964,6 @@ fact is there,] that fact; *na citram eva* = not, uncommon, in that way - unsurp
 "You are haranguing all these sermons only on noticing hardship to Rama. It is unsurprising that the
 pitiless ones and rivals of your kind, who always behave in a cloak-and dagger way, will tend to commit
 deadly sins, Lakshmana, and it is not uncommon. [3-45-22b, 23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1065,8 +1021,6 @@ can snatch the kingdom from Rama, you, the other half-brother, can snatch away h
 come with covert intentions, on your own, leaving all your kinsfolk. Or, Bharata wanted me too along
 with the kingdom, so he might have instigated you to fetch me for him, after Rama's death, thus he covertly
 sent 'you' alone.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1125,8 +1079,6 @@ husband of mine, Rama? [3-45-25, 26a]
 
 For how shall I, the chosen bride / Of dark-hued Rama, lotus-eyed, / The queen who once called Rama
 mine, To love of other men decline? - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1178,8 +1130,6 @@ surface, not, thus, I live.
 "If that comes to that, I will just discard my life in your presence, Soumitri do not mistake it. I
 do not eke out an existence on this earth even for a moment without Rama." Thus Seetha threatened Lakshmana.
 [3-45-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1222,8 +1172,6 @@ palms-adjoined, to Seetha, he spoke.
 
 When that self-mortified Lakshmana is addressed in this way with hair-raising and acerbic words by Seetha,
 he spoke to her suppliantly adjoining his palm-fold. [3-45-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1267,8 +1215,6 @@ the nature of, on its part; *eSu lokeSu dR^ishyate* = in this, world, it is obvi
 "I do not venture to reply you Maithili, as you are like a deity to me. Women using words that are in
 a class by themselves is not at all surprising. This sort of bringing stilted words into play is the
 nature of women and it is obvious in the world. [3-45-28b, 29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1336,8 +1282,6 @@ the women, may be great beings but they tear asunder hearts, like oceans tearing
 is not eye-to-eye with Seetha and he is going on listening all her accusations with his two ears. And
 in between his two ears his conscience is there which is not permitting him to tolerate these words,
 yet he is tolerating.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1400,8 +1344,6 @@ to; for such one like me; *me* = to me; *saakSinaH* = corroborators; *sarve vane
 "Let all of the forest-itinerants indeed listen as to how you are addressing me with bitter words, though
 I am reasoning with you conscientiously, and let them become my corroborators for the sake of justice.
 [3-45-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1425,8 +1367,6 @@ perish or ruination, a sort of exasperated expression.
 "Fie upon you, you are acrimoniously tempered owing to your faminality, and by which impulsive reason
 you mistrust me who am presently abiding in my brother's order, may God damn you for that crotchety.
 [3-45-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1442,8 +1382,6 @@ where he is; to there; *gamiSye* = I will go; *te svasti astu* = to you, safe, b
 
 "I am going there where Rama is, oh, lady with best visage, you be blest, and oh, broad-eyed one, let
 all of the forest deities protect you. [3-45-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1505,8 +1443,6 @@ on the part of Lakshmana. But it is held correct, for he uttered derogatory word
 as a vexed person and then, on knowing what that is suddenly uttered by him, he is correcting himself
 in saying that 'she be blest...' He wished her to prosper as she belongs to Rama. Whatever belongs to
 Rama that cannot be ridiculed, especially his mother-like elder sister-in-law.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1556,8 +1492,6 @@ in reply, said.
 
 When Lakshmana spoke to that wailful daughter of Janaka, she on her part spoke this curt sentence to
 him, while tears whelmed her to a fault. [3-45-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1616,8 +1550,6 @@ or else; *aa bandhiSye* = tie myself [I hang, string up myself]; *[athavaa* = or
 
 "Without Rama I plunge myself in River Godavari, or else I string up myself, or discard this body of
 mine from heights..." Thus Seetha started to vent out her feelings. [3-45-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1654,8 +1586,6 @@ comes up. But she lists all of them in her anguish for Rama. With the same impet
 fire in the episode of *agni praveshanam *after war, when Rama belittles her. There also, she
 orders the very same Lakshmana to arrange pyre for her, disregarding her own accusations made at Lakshmana,
 at this situation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1702,8 +1632,6 @@ at this situation.
 
 Seetha on declaring to Lakshmana in this way, she who is anguished and weeping bitterly, then started
 to smite her belly with both of her palms in a heightened agony. [3-45-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1759,8 +1687,6 @@ brother [brother of her husband - to Lakshmana]; *tam* = to him; *kimcit na uvaa
 Observing the agonised aspect of Seetha that cheerless Saumitri started to cheer her up by repeatedly
 informing that her husband Rama will come soon. Even then Seetha has not spoken in the least to the
 brother of her husband, and maintained a silence of antipathy. [3-45-39]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 </details>
 
@@ -1828,8 +1754,6 @@ it is for the god unknown. But here this *iungere manus *is neither *ante pectus
 *nor *supra abdomen *but a quick gesture. He is performing *an iSTa namaskaara *'un,
 interested, greeting...' 'a half-hearted gesture' like a 'cold-handshake' rather than a 'warm' one because
 he is now sent by her compulsively and compulsorily.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -17,8 +17,6 @@ Seeing Lanka and describing it, Rama instructs Lakshmana to draw up his army in
 battle array. Rama orders for release of Shuka who was captured by the army earlier. Shuka
 approaches Ravana and describes the strength of Rama's side of the army. Ravana boasts himself of
 his own army's strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ monkeys; *raajN^aa* = along with the king Sugriva; *viraraaja* = looked charming
 
 That army of valiant monkeys along with the king Sugriva looked charming like a full
 moon night in autumn presided over by the moon and illuminated by bright stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -112,8 +108,6 @@ fear; *vegena* = by the rapid movement of the army.
 
 The earth pressed under foot by that multitude of army which was energetic like a
 sea, was trembled with fear by the rapid movement of that army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -163,8 +157,6 @@ kettledrums and tabours; *romaharshhaNam* = which caused their hair to stand on 
 
 Then the monkeys heard a great tumult arising in Lanka and noisy sounds of
 kettledrums and tabours, which caused their hair to stand on end.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ were rejoiced; *tena ghosheNa* = by that sound; *amR^ishhyamaaNaaH* = not tolera
 
 The leaders of monkeys were rejoiced by that sound. But by not tolerating that
 sound, they emitted shouts, which surpassed that uproar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -259,8 +249,6 @@ meghaanaam* = of thundering clouds; *ambare* = in the sky.
 
 Those demons too heard the roaring of the wildly delighted monkeys, which roar
 sounded like thundering of clouds in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -310,8 +298,6 @@ pataakiniim* = dressed with multicolored flags and butings; *daasharathiH* = Ram
 
 Seeing Lanka dressed with multi colored flags and buntings, Rama bethought himself
 of Sita and his heart was filled with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -358,8 +344,6 @@ like a young deer; *uparudhyate* = was detained; *raavaNena* = by Ravana;
 
 "Sita whose eyes resemble those of a young deer, was detained by Ravana there, as
 Rohini star is overshadowed by the red bodied planet (mars)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -401,8 +385,6 @@ him.
 
 Seeing Lakshmana after a warm and deep sigh, the heroic Rama spoke the following
 words, which were beneficial for him at that time :-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -450,8 +432,6 @@ his imagination; *utthitaam* = so elevated; *aalikhantim* = scraping;
 
 "O, Lakshmana! Look at this Lanka, which appears as though constructed on a hilltop
 by Visvakarma with his imagination and so elevated scraping the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -499,8 +479,6 @@ by Visvakarma with his imagination and so elevated scraping the sky."
 
 The city of Lanka was constructed densely with many seven storied buildings and
 appears like a sky the abode of Vishnu (the all pervaded), covered with white clouds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -551,8 +529,6 @@ flowers; *shubhaiH* = and charms; *pushhpitaiH* = in bloom.
 "Lanka is made beautiful by the garden vying with chaitraratha (the garden of Kubera
 the god of riches) with songs of birds of various species, with fruit bearing flowers and charms in
 bloom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -602,8 +578,6 @@ where the birds are exited with joy.
 
 "See how a gentle breeze sways the branches where the cuckoos abound where bees
 swarm and where the birds are excited with joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -654,8 +628,6 @@ scriptures.
 
 Rama the son of Dasaratha spoke as aforesaid to Lakshmana. The army there was
 divided into battalions according to the procedure found in scriptures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -704,8 +676,6 @@ with Nila; *urapi* = at the center of the formation.
 He issued the following commands: --"Taking these troops of monkeys from the army,
 let the valiant and the invincible Angada take up his position with Nila at the center of the
 formation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -753,8 +723,6 @@ monkey-troops.
 
 Let Rishabha along with the multitude of monkeys take up his position, having
 recourse to the right side of the army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -801,8 +769,6 @@ rut; *tishhThet* = take his position; *adhishhThitaH* = superintending;
 
 "Let Gandhamadana, the strong and unconquerable, resembling an elephant in rut, take
 his position superintending the left side of the monkey troops."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -853,8 +819,6 @@ those; *trayah* = three; *mahaatmanaaH* = exceedingly wise ones;
 "I shall stand alert in the forefront of the army along with Lakshmana. Let
 Jambavan, Sushena and Vegadarshi the monkey - those three exceeding wise leaders of bears and
 monkeys- protest the belly portion of the army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -903,8 +867,6 @@ monkeys- protest the belly portion of the army."
 "Let Sugriva the king of monkeys protect the rear guard of the army, resembling
 Varuna (the god of water) who remains enveloped with splendor protects the western quarter of the
 earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -945,8 +907,6 @@ the foremost of monkeys; *vibabhou* = shone; *yathaa dyouH* = like heavens;
 
 That army with innumerable divisions, being skillfully distributed led by the
 foremost of monkeys, resembled heavens with their mass of clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -993,8 +953,6 @@ foremost of monkeys, resembled heavens with their mass of clouds.
 
 With a desire to crush the demons in battle, the monkeys, seizing peaks of mountains
 and gigantic trees, reached Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1042,8 +1000,6 @@ Lanka.
 
 All the heroic monkeys held the following resolve in their minds, "It is with peak
 of mountains or with our bare fists even, we shall shatter this Lanka into pieces."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1084,8 +1040,6 @@ Sugriva; *sainyaani* = our forces; *suvibhaktaam* = are properly marshaled;
 
 Then, Rama with great splendor spoke the following words to Sugriva, "Our forces are
 properly marshaled. Let this Shuka be released."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1126,8 +1080,6 @@ properly marshaled. Let this Shuka be released."
 
 Hearing the words of Rama, Sugriva the lord of monkeys released Shuka the messenger,
 as per the order of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1168,8 +1120,6 @@ through the words of Rama; *paramasamtrastaH* = was trembling with great fear;
 
 Shuka who was harassed by the monkeys and released then as per the words of Rama,
 was trembling with great fear and reached Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1240,8 +1190,6 @@ into their; *anekachittaanaam* = various(fickle)minds?
 Ravana, even while laughing, enquired Shuka with the following words: " why were
 your wings tied up? You appear with your wings plucked up. Have you not fallen as a victim to their
 various fickle minds?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1315,8 +1263,6 @@ Ravana: uttare tiire = on the northern shore; *saagarasya* = of the ocean; *abra
 Asked as aforesaid by the king Ravana, Shuka agitated as he was with fear, gave him
 the following excellent reply: "On the northern shore of the ocean, I conveyed your message in a
 smooth tone, conciliating and without any ambiguity exactly as per your instructions."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1363,8 +1309,6 @@ smooth tone, conciliating and without any ambiguity exactly as per your instruct
 
 "Just on seeing me, the enraged monkeys jumped on me and seized me. They soon
 started beating and plucking me with their fists."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1412,8 +1356,6 @@ this matter; *vaanaraaH* = monkeys; *prakR^ityaaH* = by their nature;
 
 "O, Lord of demons! Those monkeys are not capable of being spoken to, or possible of
 being questioned in this matter. Monkeys, by their very nature, are angry and ferocious."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1454,8 +1396,6 @@ the place; *siitaayaaH* = of Sita.
 
 "That Rama the killer of Viraadha, Kabandha and Khara came along with Sugriva to the
 place of Sita."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1503,8 +1443,6 @@ the salty ocean; *nirdhuuya* = and expelling; *rakshaamsi* = the demons;
 
 "Having constructed a bridge across the sea and crossed the salty ocean and
 expelling the demons, here stands Rama wielding a bow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1551,8 +1489,6 @@ nikashaanaam* = resembling mountains and clouds; *chhaadayanti* = cover;
 
 "Thousands of divisions of hordes of bears and monkeys resembling mountains and
 clouds, cover the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1596,8 +1532,6 @@ lord of monkeys; *devadaanavayoriva* = than between a god and a demon.
 
 "There is no more possibility of an alliance between these two armies - the army of
 demons and the army of monkeys- than between a God and a demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1645,8 +1579,6 @@ him; *aashu* = soon.
 
 "Very soon they will come to our rampart. Immediately, do any one of these two acts-
 either to restore Sita or to offer a combat to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1687,8 +1619,6 @@ eyes becoming blood red in anger; *abraviit* = spoke; *vaakyam* = these words;
 
 Hearing the words of Shuka, Ravana with his eyes becoming blood red in anger, as if
 he would consume him with his glance, said as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1738,8 +1668,6 @@ pradaasyaami* = I would not give back; *siitaam* = Sita.
 
 "Even if I were frightened by all the worlds or even if I were to face a battle with
 celestials or Gandharvas (celestial singers) or demons, I would not give back Sita."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1786,8 +1714,6 @@ a tree; *pushhpitam* = in bloom; *vasante* = at spring time?
 
 "When will my arrows soon fall upon Rama, as large black bees excited with joy fall
 upon a tree in bloom at spring time?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1834,8 +1760,6 @@ released from my bow; *shoNita digdhaaNgam* = his body flowing with blood;
 
 "When shall I consume his body flowing with blood, by the blazing arrows released
 from my bow, as flaming torches destroy an elephant?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1877,8 +1801,6 @@ from my bow, as flaming torches destroy an elephant?"
 
 "Endowed with a huge army I shall eclipse the aforesaid army of Rama, as the
 brilliance of all stars is obscured at the rising of the sun."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1925,8 +1847,6 @@ that is why; *ichchati* = he desires; *maam yoddhum* = to meet me in combat.
 
 "My rashness is like that of the sea and my strength is like that of the wind. Rama
 is not aware of it. That is why, he is desirous of meeting me in a combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -1973,8 +1893,6 @@ desires; *yoddhum* = to fight; *maam* = with me.
 
 "Rama has not seen my arrows resembling venomous serpents lying in my quiver. That
 is why, he desires to fight with me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 </details>
 
@@ -2028,8 +1946,6 @@ Rama was not formerly aware of my prowess in battle. I shall cause to resound Vi
 bow string producing a tumultuous sound, the huge cries of the wounded its terrible accompaniment,
 the darts sounding its innumerable notes, when I enter a vast stage in the form of my enemy ranks
 in that battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga24/yuddhasans24.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

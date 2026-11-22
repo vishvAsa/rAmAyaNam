@@ -80,8 +80,6 @@ Rama does much good in jansthana in wiping out those cultures of greedily dictat
  the demoness, in Bala Kanda.It may not be surprising for this generation to know that a single trigger can create
  havoc of Hiroshima or Nagasaki, and then in all its probability Rama also might have triggered in the same way,
  with the missiles endowed by Sage Viswamitra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -134,8 +132,6 @@ of verse 1-1-4. The courage and invincibility are reflected in the opening verse
 *diina jana* or *sajjana rakshaNa* i.e., saving the helpless or goodly men, viz. in the present context, the
 sages. The sages are to be saved from the onslaught of demons, which requires, both courage and un-invincibility. Apart
 from the above *aatmavaan* normally means sagacious one.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -203,8 +199,6 @@ This is said to be the coming of Supreme into lower abode of Solar orbit from Hi
 Now Rama and Seetha are passing through this dazzling Solar-orbit like hermitage, to present themselves before the true
 devotees, and even to eradicate vice on earth. This appearance is without any prayers from the devotee, as contained in
 the above Vedic hymn. God reveals Himself
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -250,8 +244,6 @@ many, dense with; *pakshi sanghaiH* = bird, groups; *sama aavritam* = well, teem
 
 Those hermitages have well-tidied thresholds on all sides, dense with many deer and teemed with many groups of birds, and
 they are the recourse for all living beings. [3-1-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -324,8 +316,6 @@ are of particular nature and a long spoon is made of particular wood, to oblate 
 Alter of Fire. The deerskin is the prescribed seat for meditation. The sacrificial grass is the essential item of even in
 domestic rituals, symbolising that the human kind shall prosper like the interlaced and intermingled grass, where the starting
 or the end point is intractable.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -365,8 +355,6 @@ ninaaditam* = Brahma's, sounds [Vedic sounds,] reverberating with; *sa padmayaa 
 
 Those hermitages are sacrosanct for Ritual fire is being worshiped with fire-oblations and sacrifices to the reverberating
 Vedic sounds, and they are enwrapped with lotus ponds with lotuses, and even with flowers of forest. [3-1-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -420,8 +408,6 @@ tubers alone, ye their resplendence is like that that of the Sun-god or the Fire
 
 This *chiira* is the Sanskrit word for the present day *sari* and it is still called as *chiira* in
 some parts of India.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -469,8 +455,6 @@ has seen.]
 Rama has seen such a cluster of hermitages that is glistening forth just by the presence of holy saints whose sustenance
 is constrained, and that hermitage is distinctive like Brahma's abode, reverberating with the sounds of that Brahma's Vedic
 chants alone. [3-1-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -520,8 +504,6 @@ bow; *vi jyam kR^itvaa* = without, bowstring, on making it; *abhyagacChat* = nea
 
 That glorious and great resplendent Rama on seeing those precincts of hermitage that is graced with highly blest Brahmans,
 the knowers of Brahma, neared it, unstringing the bowstring of his great bow. [3-1-9-10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -582,8 +564,6 @@ which bow. Then if the archer is going to beam out an arrow, he shall pull the a
 and leave it, *aakarNaanta prayoga* . Here, removing the bowstring from its fastening implies that this archer, namely
 Rama who is so far handling the stringed bow, for he is roaming in forests, and since he is entering the place of elderly
 saints now, unfastened the bowstring in all his humbleness to sages and saints.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -666,8 +646,6 @@ is now arising like moon, and at Lakshmana and at glorious Seetha as well, rende
 **टिप्पनी**
 
 This context is also explained in the following ways:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -719,8 +697,6 @@ peculiar to themselves and not on par with the regular dress of hermits. This dr
 attire for onlookers, like demon Viradha, or monkey-chief Sugreeva, for these three do look like neither perfect sages nor
 perfect warriors. Even the demon Viradha scorns them in the next chapter, for the inconstancy in their attire and their
 wielding weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -777,8 +753,6 @@ vaikunTha to this hermitage, for this hermitage is like Brahma's abode, as alrea
 the sages lost their wink. And loosing any single wink will loose the sight of these divinities from
 vaikunTha; hence their unannounced arrival caused surprise in them, which further caused a
 wink-less state [3-1-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -824,8 +798,6 @@ atra parNa shaalaayaam* = into, hermitage; *atithim* = being the guest [guest a 
 
 Those august sages that are interested in the well being of all beings have indeed accommodated Rama in that hermitage,
 as Rama is their guest a priori. [3-1-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -871,8 +843,6 @@ dharma chaariNaH* = they, the virtue, practisers -sages; *vidhinaa satkR^itya* =
 
 Then those august sages who are similar to sacred fire in glow have procedurally accorded guestship to Rama, and fetched
 water for him. [3-1-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -920,8 +890,6 @@ flowers, fruits; *sarvam aashramam ca* = entire, the hermitage, too; *mahaatmana
 
 On sounding out Vedic blessings those virtuous sages have offered flowers, fruits and tubers, and even the entire hermitage
 to that great soul Rama, and then with their palms adjoined. [3-1-17-18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -967,8 +935,6 @@ cha* = adorable one, also; *danDa dharaH* = stick [sceptre,] wielding one; *guru
 
 "The king will have great renown for he is the ruler of the righteousness of these people, a protector, a respectable and
 adorable one, and as he wields the sceptre of justice, he is a revered one too... [3-1-18-19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1011,8 +977,6 @@ a pleasant one and presiding deity for medicinal herbs, so shall the king be ple
 *chandra vrata* . Fire is fiery and burns down evil and the king shall be fiery to his enemies, either internal or
 external *aagneya vrata* . The earthly earth sustains scholars and stupid, wealthy and poor, prosperous and pathetic
 alike, so shall the king bear with all of his subjects *pR^ithvii vrata*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -1052,8 +1016,6 @@ be in forests; *naH raajaa* = you are, our, king; *jana iishvara* = of people.
 
 "You alone have to protect us as we are the subjects living in your kingdom..May you be in the capital... or in the forest...you
 are our king... [3-1-20b,c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -1099,8 +1061,6 @@ tvayaa* = [we are to be] protected, by you; *shashvat garbha bhuuta* = [like] fo
 
 "We gave-up punishments, either physically or by the power of curses, conquered are our anger and senses, and our ascesis
 is the only wealth of ours, thus oh! King, we are to be protected by you, like the foetus inside a womb... [3-1-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -1146,8 +1106,6 @@ forest, also; *vividha aahaaraiH* = variety of, foods; *apuujayan* = worshipped.
 
 Thus saying they worshipped Raghava along with Lakshmana, on giving fruits, tubers, flowers and other varieties of forest
 foods. [3-1-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 </details>
 
@@ -1190,8 +1148,6 @@ vR^ittaa = virtue, followers; *taapasaaH siddhaaH* = saints, sages; *raamam* = t
 
 Thus other saints and sages who are the followers of the virtue, and similar to the Sacred Fire adored Rama, the king, according
 to the wont of custom. [3-1-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -19,8 +19,6 @@ the plight of monkeys by which they entered this cavity in searching for Seetha,
 sympathetic and offers guestship. When entreated by Hanuma for an exit from that incarceration, and as the time
 frame set by Sugreeva is lapsed in this very cavity, Swayamprabha uses her ascetic powers to transport the monkeys
 from that cave, which exit is otherwise impossible for any other intruder, in his aliveness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ concentrative; *taapasii* = sainted lady; *vishraantaan* = when relaxed; *taan s
 
 When those monkey commanders are relaxed after refreshments, then that sainted lady, who concentrates single-mindedly
 and who is a pursuer of probity, spoke this word to all of them. [4-52-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ icChaami* = to listen, I wish.
 
 "Oh, vanara-s, if your enervation is eased off by devouring fruits, and if I may listen to that episode of yours,
 I wish to listen to it." Thus Swayamprabha addressed the monkeys. [4-52-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -169,8 +163,6 @@ that, sentence, on hearing; *aarjavena* = sincerely; *yathaa tattvam* = as per, 
 
 Hanuma, the son of Air-god, sincerely started to narrate their episode in its pithiness on hearing her words.
 [4-52-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -242,8 +234,6 @@ abducted.
 "The king of all the world and one similar to Mahendra and Rain-god, such an illustrious Rama of Dasharatha entered
 Dandaka forest with his bother Lakshmana, even along with his wife Vaidehi, but Ravana coercively abducted his
 wife from Janasthaana. [4-52-4, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -287,8 +277,6 @@ that, king's [Rama's,] friend; *yena vayam prasthaapitaa* = by whom, we are, exp
 
 "A valiant one and the king of important vanara-s known as Sugreeva is a vanara and the friend of that kingly
 Rama, and that vanara king expedited us. [4-52-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -332,8 +320,6 @@ Death-god, watched over; *dakSiNaam aashaam coditaaH* = to southern, prospect [d
 "He mobilised us along with these important vanara-s and Angada as helmsman to this southerly prospect, which
 is the walkabout of Sage Agastya and watched over by Yama, the Death-god, saying, 'you all shall collectively
 search for Seetha of Videha kingdom together with the demon Ravana, a guise-changer by his wish.' [4-52-7, 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -381,8 +367,6 @@ than southern ocean; *dakSiNaam disham* = southerly, direction; *vicitya* = on s
 
 "On searching out the southerly direction in its entirety we are all hungered and we all gathered around at a
 tree-stem. [4-52-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -432,8 +416,6 @@ dhyaana paraayaNaaH* = [we] all, in propositions, preoccupied; *cintaa mahaa arN
 
 "All of us were whey-faced, all of us were preoccupied with propositions, thus deluged in the depthless deep of
 our despair we could not overreach the other shore of our oceanic despair. [4-52-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -482,8 +464,6 @@ bilam* = wide, cavity; *dR^iSTavantaH* = we became perceivers of - we perceived.
 
 "Then straggling our eyes we perceived this wide cavity wrapped up with vines and woods and enwrapped in darkling.
 [4-52-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -533,8 +513,6 @@ falling [coming out.]
 
 "Swans, water-hawks, saarasa-waterfowls were coming out of this cavity drenched in water and sprinkling drops
 of water with the flaps of their wings. [4-52-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -580,8 +558,6 @@ of water with the flaps of their wings. [4-52-12]
 
 "I said to all of them, 'Good! Let us enter it,' while they too had some inference about the availability of water
 in here. [4-52-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -631,8 +607,6 @@ taking [clasping]; *asmin ni patitaaH* = in it, down, fell - we fell down in thi
 
 "As our task was hastening us then we all readied ourselves to fall in the cavity by tightly clasping each other's
 hand, and then we fell in this cavity. [4-52-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -682,8 +656,6 @@ are ravenous; *paridyuunaa* = who are retrogressive; *sarve* = all [of us]; *tva
 
 "Thus we readily entered this Black Cavity, and this much is our activity in here as we all have come here by
 our escapade for water, and we neared you when we were ravenous and retrogressing. [4-52-15, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -731,8 +703,6 @@ tubers, also, fruits, also; *upabhuktaani* = devoured.
 
 "And we who are overly harassed by hunger have devoured the fruits and tubers you have offered with the grace
 of your hospitality. [4-52-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ kim kurvantu* = what, can they do; *bruuhi* = you tell.
 
 "You have rescued all of us who were on the verge of hunger-deaths, and what is to be done by vanara-s for you
 in requital that you may please tell." Thus Hanuma spoke to that sainted lady. [4-52-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -827,8 +795,6 @@ j~naa* = omniscient; *svayamprabhaa* = Swayamprabha; *tataH* = then; *sarvaan va
 
 When she is spoken thus by those vanara-s then that omniscient Swayamprabha replied this to all of the vanara
 commanders. [4-52-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -879,8 +845,6 @@ hence nothing need be done now in my favour, in the least. [4-52-9b, 20a]
 
 The other versions of Ramayana complete this chapter with this verse and place the following subject in a separate
 chapter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -927,8 +891,6 @@ agreeable to; *shubham vaakyam* = blessed, word; *uktaH hanumaan* = one who is s
 
 When Hanuma is said that blessed word by that sainted lady in that way, that which is agreeable to propriety,
 then Hanuma said this sentence to her who is with an unreprovable discernment. [4-52-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -979,8 +941,6 @@ one, by Sugreeva; *asmaakam* = for us; *yaH samayaH kR^itaH* = which, time, made
 
 "We are now under the auspices of your ladyship comporting yourself in scrupulosity. We lapsed the time stipulated
 for us by the noble-souled Sugreeva by our roving around in this cavity. [4-52-21b, 22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -1029,8 +989,6 @@ for us by the noble-souled Sugreeva by our roving around in this cavity. [4-52-2
 
 "Such as you are, a righteous lady, it will be apt of you to cross us over this cavity, as we have overextended
 the timeframe fixed by Sugreeva, whereby our longevity itself is threatened. [4-52-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -1083,8 +1041,6 @@ ca api* = that, deed, also, even; *na kR^itam* = not, done.
 "Oh, prudent lady, sail all of us through. We are rendered as hesitaters with the fear from Sugreeva. We still
 have to achieve an admirable achievement and that deed is also left undone as we are held-up in here." Thus Hanuma
 spoke to her. [4-52-24, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -1136,8 +1092,6 @@ abraviit* = sentence, said; *praviSTena* = he who entered - for incomers; *jiiva
 
 When Hanuma said thus that sainted lady said sentence, "I believe outgoing is impracticable for the incomers in
 aliveness from this cavity. [4-52-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1152,8 +1106,6 @@ sublime, efficacy; *sarvaan eva vaanaraan* = all of the, thus, vanara-s; *asmaat
 
 "By the sublime efficacy of ascesis acquired through my practices of numerous self-restraints I wish to sail all
 of the vanara-s through the incarceration, called this cavity. [4-52-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -1199,8 +1151,6 @@ exit; *na shakyam hi* = not, possible, indeed.
 
 "All of you best vanara-s shall close up your eyelids, for it is indeed impossible to attempt an exit with unclose
 eyes." Thus that sainted lady said to monkeys. [4-52-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -1246,8 +1196,6 @@ karaiH* = with delicate, fingered, with hands; *dR^iSTim pidadhuH* = eyesight, l
 
 Then all of those desirers of departure are gladdened and immediately shut their eyelids, and further they lidded
 them with their delicately fingered hands. [4-52-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -1294,8 +1242,6 @@ taaritaaH* = up, sailed through.
 
 She then sailed those noble souled vanara-s who covered their faces with their hands through that cavity barely
 within a minute. [4-52-29b. 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -1342,8 +1288,6 @@ idam abraviit* = on comforting, even this, spoke.
 
 That virtuous and sainted lady on comforting all of the monkeys, who are taken out of that precarious cavity,
 spoke this to them at the exterior of cavity. [4-52-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 </details>
 
@@ -1407,8 +1351,6 @@ of water; *vaanararSabhaaH* = oh, Vanara-s, best ones; *vaH svasti astu* = to yo
 Prasravana, and this vast expanse of water is the southerly ocean. Now I wish to return to my mansion... oh, best
 vanara-s, let safety betide you." saying thus Swayamprabha the Sainted Lady, re-entered the ostentatious cavity,
 called Riksha Bila. [4-52-31b, 32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

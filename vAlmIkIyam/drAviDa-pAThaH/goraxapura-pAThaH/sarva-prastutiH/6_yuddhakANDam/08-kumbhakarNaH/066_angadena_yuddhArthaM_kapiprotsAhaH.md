@@ -18,8 +18,6 @@ monkeys scare away. Angada reassures the monkeys, who then return to the battle 
 fight. When the monkeys start attacking Kumbhakarna, the latter crushes some monkeys with rage.
 Then again, the monkeys get frightened and run away in different directions. Angada then restores
 the monkeys to confidence once more and all the monkeys stand awaiting the command of Angada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ quickly; *niryayau* = sallied forth; *nagaraat* = from the city.
 
 That mighty Kumbhakarna, with his colossal body resembling the peak of a mountain,
 having crossed the rampart, sallied forth from the city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -116,8 +112,6 @@ were.
 
 Kumbhakarna emitted a roar, making the sea to reverberate, causing the mountains to
 quake and drowning the thunder-claps, as it were.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ Varuna the lord of death; *vaanaraaH* = the monkeys; *vipradudruvuH* = ran away.
 Seeing that demons of terrific eyes who could not be destroyed either by Indra the
 lord of celestials or by Yama the lord of death or by Varuna the god of water, the monkeys ran
 away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -213,8 +205,6 @@ spoke to; *nalam* = Nala; *neelam* = Neela; *gavaakSam cha* = Gavaksha;
 
 Seeing them running away, Angada the prince spoke to Nala, Neela, Gavaksha and the
 mighty Kumuda as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -264,8 +254,6 @@ monkeys; *kva* = where; *gachchhata* = do you go?.
 
 "Where do you go, forgetting your own dignities as also nobilities of birth and
 trembling with fear like common monkeys?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -313,8 +301,6 @@ competent; *yuddhaaya* = for a combat; *iyam* = this; *mahatii* = is a great;
 
 "O auspicious monkeys! Please return! Why do you so fully guard your lives? This
 demon is not competent for a combat. He is merely a great toy of terror."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -355,8 +341,6 @@ back.
 
 "O monkeys! By our prowess, we shall destroy this giant toy produced by demons. Come
 back!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -404,8 +388,6 @@ trees; *sampratasthuH* = and proceeded towards; *raNaajiram* = the battle field.
 Reconciling themselves with some difficulty, the monkeys, from all sides, assembled
 together at a place and snatching some trees, the monkeys for their part, towards the
 battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -455,8 +437,6 @@ kuNjaraaH iva = like elephants in rut; *nivR^itya* = having come back; *samrabdh
 
 Like elephants in rut, those monkeys, having came back, hurriedly hit Kumbhakarna,
 very much enraged as they were.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -472,8 +452,6 @@ their ends; *na kampate* = was unshaken.
 
 The mighty Kumbhakarna, though assaulted with lofty mountain-tops, rocks and trees
 with blossoms at their ends, stood unshaken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -520,8 +498,6 @@ with blossoms at their ends, stood unshaken.
 
 Many rocks, fallen on his limbs, got burst into pieces. The trees, with blossoms at
 their ends, were broken and fell shattered on the floor.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -566,8 +542,6 @@ fire would consume the woods.
 
 Kumbhakarna too, very much enraged, crushed the ranks of monkeys though they were
 greatly energetic, with his extreme exertion even as a rising fire would consume the woods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -611,8 +585,6 @@ the monkeys; *nirastaaH* = lay on the ground; *lohitaardraaH* = bathed in blood;
 
 Many of the foremost among the monkeys lay on the ground, bathed in blood as they
 were, fallen like trees with crimson flowers, when tossed up by the demon.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -659,8 +631,6 @@ jumping; *pradhaavantaH* = and running away; *naavalokyan* = did not look back;
 
 Some monkeys, while jumping and running away, did not look back. Some fell in the
 ocean. Some inhabited the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -708,8 +678,6 @@ the ocean.
 
 While that demon was killing some warriors of monkeys playfully, some others ran
 away by the same route, by which they earlier crossed the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -760,8 +728,6 @@ vadanaaH* = becoming pale-faced; *bhayaat* = due to fear; (inhabited);
 
 While some monkeys becoming pale-faced due to fear, inhabited the mounds and the low
 grounds, some bears ascended the trees. Some escaped to a hill.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -812,8 +778,6 @@ naive.
 Some were drowned in the ocean. Some had recourse into the caves. Some others
 escaped. Some could not even stand stable on the ground. Some fell down. Some lied down, as though
 they were dead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -863,8 +827,6 @@ _________________
 
 Seeing those monkeys disorderly retreated, Angada spoke these words, "Stay. We shall
 carry on the battle. Come back."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -912,8 +874,6 @@ place; *vaH* = for you; *bhagnaanaam* = who have retreated; *parikramya* =
 
 "I do not catch sight of any place for you, who have retreated, even if you roam
 over the entire earth. Let all of you come back. Why do you safeguard your lives?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -961,8 +921,6 @@ well.
 
 "O valiant monkeys, moving without hindrances! Your wives, seeing you running away
 leaving your weapos aside, will mock at you. It is indeed a death for those who lived well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1034,8 +992,6 @@ honour.
 "All of us are born in distinguished races; which are well developed. Where to you
 go frightened, like ordinary monkeys? As you are running away with fear, leaving all your valour,
 you are indeed unworthy of honour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1082,8 +1038,6 @@ coming for the battle)?; *gataani* = melt away?
 
 "Where did those boasting words of you melt away, in which you highly projected
 yourself in front of the people just before coming for the battle?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1134,8 +1088,6 @@ fear; *tyajyataam* = be abandoned.
 
 "The cowards, who survive even after being reproached, have to hear slanders from
 the people. Let the path trodden by the good people be followed. Let your fear be abandoned."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1184,8 +1136,6 @@ warriors.
 "If our longevity is short, we shall lie down, being killed by the enemies, on the
 earth and reach the realm of Brahma (residence of pious spirits), which is difficult to be attained
 by bad warriors."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1227,8 +1177,6 @@ warriors.
 
 "O monkeys! We shall obtain glory by killing our enemies in battle or if killed on
 the other hand, we shall enjoy the heaven, attained by the warriors."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1269,8 +1217,6 @@ jvalanam* = a blazing fire.
 
 "Coming face to face with Rama, Kumbhakarna will not go back alive, any more than a
 moth meeting a blazing fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1312,8 +1258,6 @@ one person alone; *rakSaamahi* = and protect; *praaNaan* = and lives;
 
 "If we, in large numbers, who are intended to fight, are conquered by one person
 alone and if we protect our lives by running away, our glory will undergo a damage."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1355,8 +1299,6 @@ golden armlets; *evam* = thus; *bruvaaNam* = speaking.
 
 Then, those fleeing monkeys spoke the following words, which were contemptible by
 the warriors, to that valiant Angada, who was adorneed with golden armlets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1397,8 +1339,6 @@ sthaanakaalaH* = it is not the proper time to stay; *gachchhaamaH naH* = to us;
 
 "For us, it is enough of this terrific battle with Kumbhakarna, the demon. It is not
 the proper time to stay back but it is to time to go away. Life is indeed dear to us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1443,8 +1383,6 @@ all directions.
 
 Seeing that terrific Kumbhakarna coming with his dreadful eyes, all those commanders
 of monkey-troops, speaking words only thus far, scattered in all directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1492,8 +1430,6 @@ arguments.
 
 Thereafter, with the coaxing words and inferential arguments by Angada, all those
 fleeing commanders of monkeys turned back.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 </details>
 
@@ -1544,8 +1480,6 @@ cheerfulness; *dhiimataa vaaliputreNa* = by the intellectual Angada; *sarve* = a
 
 Having been cheered up by the intellectual Angada, all those commanders of the
 army-troops stood awaiting his command.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

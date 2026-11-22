@@ -20,8 +20,6 @@ depressed. He orders for stopping of those sounds and starts lamenting. Then, Va
 family-priest enters the assembly-hall and sends messengers, asking them to call Bharata urging him
 to be present in the court, and in response to his call, Bharata with Shatrughna, the ministers and
 others enter the assembly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ with auspicious hymns of praise on the night preceding Naandimukha.
 
 Naandimukha: The name of a ceremony in honour and for the benefit of dead
 relatives observed on a festive occasion to secure their blessings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ _________________
 A drum from the sound of which nigh-hours are identified, struck with a golden
 stick, gave its sound. Couches and loud-sounding instruments in hundreds producing various types of
 noises were blown.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -180,8 +174,6 @@ grief.
 
 That mammoth sound of the musical instruments, as if filling up the whole sky,
 created further distress and grief to Bharata who was already tormented with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -229,8 +221,6 @@ am not; *raajaa* = the king; *samnivartyacha* = caused to stop; *tam* = that;
 
 Then, the awakened Bharata proclaiming that "I am not the king", caused to stop that
 sound and spoke the following words to shatrughna:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -278,8 +268,6 @@ sound and spoke the following words to shatrughna:
 
 "Behold, O, Shatrughna! How much harm was done to the world by Kaikeyi! The king
 Dasartha left us, leaving all sorrows to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -328,8 +316,6 @@ Dasartha left us, leaving all sorrows to me."
 "This prosperous kingdom of Ayodhya, a foundation of law and religion of that
 high-souled Dasaratha the righteous king is now like boat without a rudder moving hitter and
 thither in water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -377,8 +363,6 @@ who; *sumahaan* = was a great; *naathaH* = protector; *naH* = to us;
 
 "Even that Rama, who was a great protector has been sent to the forest by this very
 mother of mine, abandoning her righteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -426,8 +410,6 @@ mother of mine, abandoning her righteousness."
 
 Seeing Bharata who lost his consciousness by lamenting in that way, all the women
 then miserably cried in one voice.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -475,8 +457,6 @@ Ikshvaku dynasty.
 
 While Bharata was lamenting thus, the great illustrious Vasishta who knew the rules
 relating to kings, entered the assembly-hall of Dasaratha the Lord of Ikshvaku dynasty.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -531,8 +511,6 @@ Sudharma the celestial assembly-hall.
 The pious minded Vasishta along with his attendants entered that lovely
 assembly-hall, made of gold and studded with gems and jewels, resembling Sudharma the celestial
 assembly-hall.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -549,8 +527,6 @@ follows)
 
 Vasista, who knew all the scriptures, then sat in a presidential chair made of gold
 and wrapped with a comfortable cushion. He ordered the messengers as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -605,8 +581,6 @@ indeed to be done.
 "Quickly bring Brahmanas (a class of people having divine knowledge), Kshatriyas
 (people belonging to warrior-class), Vaisyas (agriculturists and traders), ministers and troop
 commanders coolly. There is an urgent duty indeed for us to be done.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -624,8 +598,6 @@ charioteer; *ye janaaH* = and those people who; *hitaaH* = are royal well-wisher
 "Bring Shatrughna with his royal attendants, the illustrious Bharata, Yudhaajit
 (Bharata's maternal uncle) Sumantra the charioteer and those people who are royal well-wishers
 there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -672,8 +644,6 @@ shabdaH* = hallooing sound; *samapadyata* = generated from the people;
 
 There was a huge hallooing sound generated while the people invited were coming on
 chariots, horses and elephants.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -721,8 +691,6 @@ celestials.
 
 People of high position like ministers and other welcomed the approaching Bharata in
 every way as they had welcomed Dasaratha and as Indra was welcomed by celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 </details>
 
@@ -784,8 +752,6 @@ shells and sand; *timinaaga samvR^itaH* = and filled with great fish and serpent
 That royal assembly, made splendid by Bharata the son of Dasartha, radiated as
 before as with the presence of Dasaratha, like a lake of tranquil waters sown with pearls shells
 and sand and filled with great fish and serpents.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

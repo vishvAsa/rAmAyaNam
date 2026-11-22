@@ -17,8 +17,6 @@ Rama and Lakshmana while safeguarding the ritual of Sage Vishvamitra for six day
 and nights, on the last night demons named Maareecha and Subaahu come to hinder
 the ritual. Rama acts deftly and hits out Maareecha to a long distance, but kills
 the other, namely Subaahu. Rama thus makes the ritual of sage Vishvamitra a success.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -80,8 +78,6 @@ the other, namely Subaahu. Rama thus makes the ritual of sage Vishvamitra a succ
 The two enemy subjugators, Rama and Lakshmana, who are sensible of their conduct
 according to time and place, and who will be sensibly talking according to time
 and place, those princes then spoke this sentence to Vishvamitra. [1-30-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -134,8 +130,6 @@ be safeguarded by us?' But positioning the word *samrakShNiiyau* is a grammarian
 headache. On this many kinds of declinations are said. Rama Tilaka attributes this
 *rakShNiiyau* 'to be safeguarded' to ritual, and he says that 'from whom the
 ritual is to be safeguarded'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ king's sons - to princes of Kakutstha-s; *te munayaH sarve* = all those sages
 All the sages available there are delighted with the princes of Kakutstha dynasty
 who are speaking thus and making haste for a combat with demons and they praised
 them. [1-30-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -227,8 +219,6 @@ ca gamiSyati hi* = he enters into muteness, also, indeed.
 "Oh, Raghava-s, you have to safeguard this ritual for six nights and days from today,
 and this Sage Vishvamitra who is under the vow of ritual goes into muteness as required
 by the vow." Thus said the other sages near at ritual place. [1-30-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -275,8 +265,6 @@ princes, for their part; *tat vacanam shrutvaa* = on hearing that sentence;
 
 On hearing that sentence of the other sages those two glorious princes have wakefully
 safeguarded that woodland of the ritual for six nights and days. [1-30-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -318,8 +306,6 @@ munivaram* = Vishvamitra, the best sage; *rarakSatuH* = they protected.
 On alertly patrolling nearby the Altar of Fire those two enemy-destroyers who are
 the wielders of great bows and valiant ones have protected the best sage Vishvamitra.
 [1-30-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -366,8 +352,6 @@ bhava* = be prepared, you be on alert.
 
 While that period of six days is elapsing and when the sixth day has come, then
 Rama said to Saumitri, "you be prepared and be on alert." [1-30-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -416,8 +400,6 @@ namely Vishvamitra, and other priests around it. [1-30-8]
 The compound *prajajwaala*, with many stresses for the flare is given
 here to import that the ritual is achieving its climax and it will be fructified
 thereby. The demons enter just at this juncture to spoil the ritual.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -469,8 +451,6 @@ is an arm-length wooden spoon with a palm size receptacle at one end used to pou
 clarified butter and other liquids into Altar of Fire to the chanting of hymns.
 *samidha*-s comprises items of wood pieces or sticks, mainly from sandalwood
 trees and a variety of other items that are offered into fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -512,8 +492,6 @@ blare; *praaduH aasiit* = it is generated.
 While the Vedic ritual is proceeding well towards its conclusion according to hymnal
 rendering and rules of conducting the ritual, a strident and frightening blare is
 generated in the sky. [1-30-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -560,8 +538,6 @@ maayaam vikurvaaNau* = two demons, verily performing wizardry; *abhyadhaavataam*
 As to how massive clouds appear in torrential cloudburst, likewise two demons appeared
 enshrouding the sky, and performing wizardry they are about to swoop down towards
 the Altar of Fire. [1-30-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -578,8 +554,6 @@ spates.
 
 Maareecha and Subaahu are the monstrous demons that have come along with their followers
 and they have started to pour down spates of blood. [1-30-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -630,8 +604,6 @@ filled]; *taam samukShitaam* = that, verily swamped; *vediim viikShya*
 
 On noticing the Altar of Fire swamped with streams of blood, then Rama swiftly ran
 towards that direction and saw the demons in the sky. [1-30-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -649,8 +621,6 @@ abraviit* = sentence, said.
 Perceiving that the two demons are about to swoop down on Altar of Fire in haste,
 that lotus-eyed Rama however gave a quick checking look at Lakshmana saying this
 sentence. [1-30-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -698,8 +668,6 @@ sentence. [1-30-14]
 eating demons, but no doubt, they will be puffed out with Manava missile like a
 gust puffing thick clouds, you may see." Thus Rama said to Lakshmana. [1-30-15,
 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -745,8 +713,6 @@ furious Rama; *raaghavaH maariicorasi* = Raghava, on Maareecha's chest;
 Saying so that agile Rama fitted the very benign and highly radiant arrow Maanava
 on his bow, and taking aim with it at Maareecha that highly furious Raghava darted
 it on the chest of Maareecha. [1-30-16b, 17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -790,8 +756,6 @@ _________________
 
 Cleanly hit with that great missile Maanava, demon Maareecha is pitched for a hundred
 yojana lengths in full, and flung down into an ocean rocking with tidewaters. [1-30-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -833,8 +797,6 @@ yojana lengths in full, and flung down into an ocean rocking with tidewaters. [1
 
 On seeing him highly whirling, rendered insensate and thrown out when rammed away
 with the strength of that Cold arrow Rama said this to Lakshmana. [1-30-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -889,8 +851,6 @@ Rama is reluctant to eliminate demon Maareecha at this juncture because the same
 demon discourages Ravana in confronting Rama, but becomes a golden deer at the behest
 of Ravana, at the time of Ravana's abducting Seetha. So, Rama shows forbearance
 at Maareecha till such time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -935,8 +895,6 @@ demons, but; *vadhiSyaami* = I wish to kill.
 
 "But I wish to kill these demons for they are ruthless, iniquitous, flagitious,
 ritual-hinderers and blood-drinkers." So said Rama to Lakshmana. [1-30-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -993,8 +951,6 @@ Thus saying to Lakshmana, as though to show his swift dexterity Rama, the descen
 of Raghu dynasty, took up a very powerful missile called Aagneya astra, Fire-missile,
 and darted it on the chest of Subaahu, by which that demon Subaahu is struck and
 fell flat on ground. [1-30-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1011,8 +967,6 @@ generous one - Rama; *raaghavaH* = Raghava; *muniinaam mudam aavahan*
 
 In order to bring felicity to the sages that great glorious and supremely generous
 Raghava took up the missile of Air-god and hit down the remaining demons. [1-30-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -1060,8 +1014,6 @@ tatra R^iSibhiH puujitaH* = there - in hermitage idealised by sages.
 When Rama, the delight of Raghu's dynasty, has eliminated all of the demons that
 are the hinderers of Vedic rituals, the sages available there in that hermitage
 idealised him as Indra was idealised once, when he became victories on demons. [1-30-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -1102,8 +1054,6 @@ mahaamuniH* = Vishvamitra, great sage; *niriitikaa dishaH dR^iSTvaa*
 
 On the completion of ritual beholding the precincts that are devoid of calamities
 the great sage Vishvamitra said this to Rama. [1-30-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 </details>
 
@@ -1153,8 +1103,6 @@ mentor, where one mentor is your father King Dasharatha and the other is myself,
 likewise oh, valiant Rama the glory of this Accomplished hermitage is also actualised..."
 thus when Vishvamitra is applauding Rama, they have come close to vesper-time for
 vespertine prayers on Sandhya, the goddess of gloaming. [1-30-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

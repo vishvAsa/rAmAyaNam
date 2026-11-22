@@ -22,8 +22,6 @@ Then, Ravana gets angry and sends some demons called Kinkaras to catch hold of H
 Kinkaras rush towards Hanuma to catch him. But Hanuma, with his might, kills all Kinkaras with an iron
 rod. Getting to know of the killings, Ravana again sends Jambumali, the son of Prahasta to catch hold
 of Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ with fear.
 
 At the screaming sound of birds and at the sound of the crash of falling trees, all the
 inhabitants of Lanka then became trembled with fear.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ frightened; *mR^iga pakSiNaH* = beasts and birds; *vineduH* = began to scream; *
 
 Made to run to-and-fro and getting frightened, beasts and birds began to scream. Atrocious
 omens made their appearance before the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ and that grea heroic monkey.
 
 Then, the ugly-faced female-demons, whose sleep has vanished, found that grove demolished
 and saw that great heroic monkey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ female demons.
 
 Seeing those female-demons, the mighty armed Hanuma endowed with a great courage and
 might, assumed a gigantic form which created a terror to the female-demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ _________________
 
 Beholding that mighty monkey having a gigantic body similar to a mountain, the female-demons
 then asked Seetha (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -334,8 +322,6 @@ _________________
 
 "Who is he? Whose messenger is he? From where and for what purpose he has come here?
 Wherefore a conversation was held by him with you?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -352,8 +338,6 @@ the eye!; *kim* = what; *kR^itavaan* = did; *ayam* = he; *samvaadam* = talk;
 
 "O large-eyed Seetha! Tell us. Let there be no fear for you, O fortunate lady! What did
 he speak to you? O lady having black outer eye-corners!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -432,8 +416,6 @@ serpent; *na samshayaH* = there is no doubt.
 
 "You alone can recognise who he is and what he does. A serpent only can recognise the
 feet of another serpent. There is no doubt about it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -491,8 +473,6 @@ terrific form?
 
 Thereupon Seetha the virtuous lady, having a complete beauty of all limbs, spoke as follows:
 "Where is the ability for me to know about the demons of a terrific form?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -508,8 +488,6 @@ at his will raakSasameva = only as a demon; *aagatam* = who arrived here.
 
 "By seeing him, I too get frightened. I do not know who he is. I only know him as a demon,
 able to assume any form at his will, who arrived here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -562,8 +540,6 @@ inform (about the matter).
 
 Hearing the words of Seetha some female-demons fled to different directions. Some stayed
 back. Some others went to Ravana to inform about the matter.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -613,8 +589,6 @@ _________________
 
 After approaching Ravana, the female demons of ugly faces started to tell (as follows)
 of the monstrous and terrific monkey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -687,8 +661,6 @@ made a conversation; *siitayaa* = with Seetha.
 
 "O king! A monkey having a terrific body and a boundless prowess, is stationed in the
 middle of Ashoka grove and made a conversation with Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -704,8 +676,6 @@ middle of Ashoka grove and made a conversation with Seetha."
 
 "Eventhough questioned in many ways by us, Seetha, the daughter of Janaka, having eyes
 similar to those of a doe, is not inclined to tell about the monkey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -752,8 +722,6 @@ Rama; *siitaanveSaNa kaan^kSayaa* = desirous of searching for Seetha.
 
 "He may be a messenger of Indra the Lord of celestials, or the messenger of Kubera the
 king of riches or even a messenger sent by Rama to search for Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -803,8 +771,6 @@ of troops of animals; *pramR^iSTam* = has been wiped off.
 
 "He, having a wonderful form, has wiped off your grove, attached to the gynaecium, which
 is fascinating and extending with many kinds of animal-flock."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -855,8 +821,6 @@ by him.
 
 "There is no place whatsoever in that grove, which was not destroyed by him. Only that
 place, where Seetha the daughter of Janaka was sitting, was not destroyed by him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -903,8 +867,6 @@ place, where Seetha the daughter of Janaka was sitting, was not destroyed by him
 
 "It is not known whether to protect Seetha or because of fatigue, he has left that place
 undestroyed, or else, what fatigue is there for him? He has done it to protect Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -954,8 +916,6 @@ _________________
 
 "That well-grown Simsupa tree, abounding in charming sprouts and flowers, under which
 Seetha herself took shelter, has been spared by him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1004,8 +964,6 @@ ugram* = a terrible; *daN^Dam* = punishment.
 **अनुवादः**
 
 To that terribly looking monkey by whom Seetha was spoken to and that grove destroyed you to order a terrible punishment.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1052,8 +1010,6 @@ parigR^ihiitaam* = who has been mentally accepted by you; *nasyaat* = not perhap
 
 "O chief of the demons-troops! Who would dare to talk to that Seetha, who has been mentally
 accepted by you, except perhaps he who is ready to abandon his life?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1103,8 +1059,6 @@ _________________
 
 Hearing the words of the female-demons, Ravana the lord of demons flared up like a funeral
 fire, his eyes spinning with anger.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1153,8 +1107,6 @@ _________________
 
 Tears dropped from Ravana's enraged eyes, like drops of oil dripping from resplendent
 lamps.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1204,8 +1156,6 @@ hold; *hanumataH* = of Hanuma.
 
 Ravana, with a great splendour, sent demons with a valiance equal to him, called Kinkaras,
 in order to catch hold of Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1278,8 +1228,6 @@ started tasmaat bhavanaat = niryayuH = started; *tasmaat bhavanaat* = from that 
 He ordered for eighty thousand of those Kinkaras who were strong. All those mighty Kinkaras
 with their large bellies, long tusks and terrible forms, longing to fight with iron mallets and clubs
 in hand, in eagerness to lay hold on Hanuma, started from that place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1326,8 +1274,6 @@ in hand, in eagerness to lay hold on Hanuma, started from that place.
 
 Approaching Hanuma who was standing near the arched doorway, they rushed towards him
 with a great speed, like locusts rushing towards a fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1377,8 +1323,6 @@ samnibhaiH* = shining like the sun.
 
 They banged Hanuma with various kinds of maces, iron bludgeons plated with gold and arrows
 shining like the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1428,8 +1372,6 @@ Hanuma; *mudgaraiH* = with clubs; *paTTisaiH* = sharp edged spears; *shuulaiH*
 
 Quickly surrounding Hanuma with clubs, sharp edged spears, iron pikes, lances, javelins
 and swords, they stood in front of him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1479,8 +1421,6 @@ a thunderous noise.
 
 The highly splendorous and illustrious Hanuma too, looking like a mountain, hurled his
 tail on the ground, making a thunderous noise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1530,8 +1470,6 @@ Lanka; *shabdena* = with that sound.
 
 The highly splendourous and illustrious Hanuma too, looking like a mountain, hurled his
 tail on the ground, making a thunderous noise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1578,8 +1516,6 @@ also cried aloud; *idam* = this here; *uchchaiH* = with a clamorous voice (as fo
 
 By that great sound made by Hanuma through clapping on his arms together with a resound,
 birds fell down from the sky. Hanuma also then cried aloud with a clamorous voice (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1636,8 +1572,6 @@ live; *raajaa* = the king; *sugriivaH* = Sugreeva; *anupaalitaH* = protected;
 
 "Long live the mighty Rama and the powerful Lakshmana! Long live the King Sugreeva, protected
 by Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1653,8 +1587,6 @@ by Rama!"
 
 "I am Hanuma, the destroyer of the army of adversaries and the son of wind-god. I am
 the servant of Rama, the king of Kosala Kingdom, who is unwearied in action."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1675,8 +1607,6 @@ the servant of Rama, the king of Kosala Kingdom, who is unwearied in action."
 
 "Even a thousand of Ravanas will not be matching equally with me, who is capable of striking
 with thousands of rocks and trees in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1692,8 +1622,6 @@ cha* = and offering salutation; *maithiliim* = Seetha; *gamiSyaami* = I will go 
 
 "Here, before the eyes of all the demons, I will annihilate the City of Lanka and after
 offering salutation to Seetha, I will go back after fully completing my task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1740,8 +1668,6 @@ with fear; *tasya samaada shabdena* = by his clamorous voice cried aloud; *dadR^
 
 Those demons became frightened by the clamorous voice of Hanuma cried aloud and saw him
 to be as high as a twilight rain-cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1791,8 +1717,6 @@ chitraiH* = and amazing; *praharaNaiH* = weapons.
 
 Not feeling apprehended because of the orders of their king, those demons thereafter
 rushed towards Hanuma, with their terrific and amazing weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1839,8 +1763,6 @@ parigham* = iron bar; *toraNaashrittam* = belong to the arched gate.
 
 Surrounded on all sides by those strong demons, that Hanuma endowed with a great strength
 seized a huge iron bar belonging to the arched gate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1918,8 +1840,6 @@ _________________
 
 Taking that iron rod, Hanuma killed the demons. That violent Hanuma strolled in the sky,
 taking that iron rod in his hand, as Garuda the eagle would carrying a serpent in its claws.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1935,8 +1855,6 @@ to; *toraNam* = the archy gate-way.
 
 Killing the valiant demons called Kinkaras, that heroic Hanuma wishing to fight again,
 arrived at the archy gate way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -1986,8 +1904,6 @@ _________________
 
 Some demons, who somehow escaped from that terror, went to Ravana and informed him that
 all the Kinkaras have been killed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 
@@ -2038,8 +1954,6 @@ lochanah = with his eyes rolling rapidly (in anger); *samaadidesha* = ordered; *
 Hearing of large army of demons having been killed, that Ravana with his eyes rolling
 rapidly (with anger), ordered Jambumali, son of Prahasta, who was unequal in prowess and admirably unconquerable
 in battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
 </details>
 

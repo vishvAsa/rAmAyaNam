@@ -16,8 +16,6 @@ title_english = "008 All demons eulogising their strengths"
 All the demons of King Ravana present there namely Prahasta, Durmukha,
 Vajradamshtra, Nikumbha and Vajrahanu, eulogising their strengths, assure the king that they can
 individually kill Rama and his army within no time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -106,8 +104,6 @@ be dharSayitum = attacked; *raNe* = in battle; *kim punaH* = why to talk about;
 
 "All gods, demons, gandharvas, devils, birds and serpents can be attacked by you in
 battle. Why to talk about two human beings?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -154,8 +150,6 @@ indeed go; *jiivan* = alive; *me* = (while) I; *jiivitaH* = an alive.
 
 "All of us, in good faith but with negligence, were cheated by Hanuma. That monkey
 cannot go alive, while I am alive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -202,8 +196,6 @@ kaananaam* = along with mountains forests and woods; *avaanaraam* = bereft of mo
 
 "I shall make the entire earth extending upto the ocean, along with mountains
 forests and woods, bereft of monkeys. You command me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -251,8 +243,6 @@ Seetha).
 
 "Oh, Ravana! I shall arrange for your defence from that monkey. Not a little trouble
 will come to you on account of your guilt (abduction of Seetha)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -299,8 +289,6 @@ will come to you on account of your guilt (abduction of Seetha)."
 
 A demon by name Durmukha, being seriously enraged, spoke to him as follows: "This
 humiliation meted out to us by that monkey is indeed not to be tolerated."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -347,8 +335,6 @@ the attack by Sugreeva; the king of monkeys; *shriimataH* = of the glorious;
 
 "This insult to the city of Lanka and the palaces together with attack by Sugreeva
 on the glorious Ravana are still outrageous."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -396,8 +382,6 @@ into the sky.
 
 "Proceeding at this moment alone, I shall destroy those monkeys, whether they
 entered the ocean or the subterranean region or the sky."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -443,8 +427,6 @@ _________________
 
 Thereafter the very strong Vajradamshtra, beset with great anger, took hold of a
 terrific iron club smeared with flesh and blood and spoke (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -497,8 +479,6 @@ api* = and Sugreeva; *durdharSe* = who are difficult to be conquered; *tiSThati*
 
 "What work for us with that pitiable and miserable Hanuma, when Rama along with
 Lakshmana and Sugreeva who are difficult to be conquered exist?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -549,8 +529,6 @@ back.
 
 "Now itself, with this iron club, killing Rama, Lakshmana and Sugreeva after
 perturbing the army of monkeys, I shall come back."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -598,8 +576,6 @@ these words; *upaayakushalaH eva* = one who is skilled in stratagem only;
 
 "Oh, king! If you are willing, hear my words further. One who is skilled din a
 stratagem alone will be without lassitude and can indeed defeat the enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -647,8 +623,6 @@ can wear; *maanuSam* = human; *vapuH* = body; *upasangamya* = approach;
 O, king of demons! Thousands of demons able to change their form at will courageaous
 appalling terrifying to look at and firm (in their purpose) can wear human body approach Rama
 without embarrassment and all speak to Rama (as follows).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -669,8 +643,6 @@ Bharata; *tava* = your; *yaviiyasaa* = younger; *bhraatraa* = brother;
 
 "We have been despatched by Bharata, your younger brother. He is summoning his
 forces and will surely come here soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -717,8 +689,6 @@ baaNaasihastaashca* = with arrows and swords in hand; *yaamahe* = will go;
 
 "Carrying spikes, javelins and maces together with arrows and swords in hand, we
 will quickly go there from here soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -766,8 +736,6 @@ Death.
 
 "Standing as groups in the sky and beating that army of monkeys with a mighty hail
 of stones and missiles, we should send them to the world of Death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -803,8 +771,6 @@ they are taken away (by the trap)
 
 "If Rama and Lakshmana thus approach softly into our trap they will surely abandon
 their lives as they are taken away by the trap."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -826,8 +792,6 @@ commander-in-chief; *niila ambuda prakhyaH* = appearing like a dark cloud;
 
 A valiant demon by name Prahasta, the commander-in-chief, appearing like a dark
 cloud, joined his palms in salutation and spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -874,8 +838,6 @@ powerful; *paramakruddhaH* = became very angry; *abraviit* = and spoke;
 
 Thereafter Kumbhakarna's son, by name Nikumbha, strong and powerful, became very
 angry and spoke (as follows) to Ravana, who made people cry.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -927,8 +889,6 @@ the monkeys too."
 
 All of you stay along with the king. I alone will kill there, Rama along with
 Lakshman, Sugreeva along with Hanuma and all the monkeys also.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -979,8 +939,6 @@ the corners of his mouth; *jihvayaa* = with his tongue; *abraviit* = spoke;
 
 Then, a demon by name Vajrahanu who was resembling a mountain, becoming enraged and
 licking the corners of his mouth with his tongue, spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 </details>
 
@@ -1050,8 +1008,6 @@ I; *ekaH* = alone; *bhakSayiSyaami* = will devour; *sarvaam* = the entire;
 
 "You do your occupations freely redeemed of mental pain, play comfortably and drink
 spirituous liquor without any worry. I alone will devour the entire army of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1067,8 +1023,6 @@ with Lakshmana; *hanuumantam* = Hanuma; *sa angadam* = along with Angada;
 
 At this time I alone will kill Sugreeva along with Lakshmana Hanuma along with
 Angada and all monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

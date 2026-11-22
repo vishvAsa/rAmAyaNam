@@ -17,8 +17,6 @@ title_english = "007 Estimable nature of king dasharatha s ministers"
 The truthful and upright characters of the ministers of Dasharatha are portrayed,
  who make the rulership meaningful with their virtuous, skilful and efficient administration.
  Along with the political ministers, the religious ministry is also portrayed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -89,8 +87,6 @@ _________________
 The misters for the great soul from Ikshvaku kings of Emperor Dasharatha, are
  epitomised ones of their tactfulness, adroitness and are always obliged to undertake
  welfare activities of their king and the kingdom. [1-7-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -108,8 +104,6 @@ The misters for the great soul from Ikshvaku kings of Emperor Dasharatha, are
 Eight ministers are there for that valiant and glorious King Dasharatha, who are
  clean at heart and are involved in the works of the king and kingdom at all time.
  [1-7-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ _________________
 
 Dhristi, Jayantha, Vijaya, Suraashtra, Raashtravardhana, Akopa, Dharmapaala, are
  seven, and Sumantra is the eighth one. [1-7-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -223,8 +215,6 @@ Two venerable saints of eminence are religious ministers for they are authoritie
  in Vedic rituals, namely Vashishta and Vamadeva, who are the acquiescent with
  religious matters, and apart from these two some more religious ministers are
  also there to King Dasharatha. [1-7-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -245,8 +235,6 @@ Suyajna, Jabaali, Kaashyapa, Gautama, Maarkandeya, Deerghaayu, and then Kaatyaya
  are the scholarly Brahmans acting as religious ministers, and along with them
  there are also Brahma-sages who are always the ancestral ritual scholars for Dasharatha's
  family. [1-7-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -315,8 +303,6 @@ All the ministers are well versed in scriptures, they shun bad deeds, skilful
  knowers of all sciences, firmly courageous, and they are distinguished and quiet-souls,
  and those ministers are true to their word. They are magnificent, patient and
  famed ones and they smile afore they converse. [1-7-6b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -363,8 +349,6 @@ They never speak untruthful words in anger or in greed or for monetary reasons
  either. There is nothing unknown to them, even a little, in their own country
  or in the others either, or about everything that is happening or has happened,
  or that is going to happen, for they know them through agents. [1-7-8b, 9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -407,8 +391,6 @@ They never speak untruthful words in anger or in greed or for monetary reasons
 They are efficient in administration and their friendships are well examined by
  the king, and those ministers impose punishment even on their own sons, if situation
  demands it. [1-7-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -456,8 +438,6 @@ They are efficient in administration and their friendships are well examined by
 In collections to their treasury and to militarise their armies they are dutiful,
  even an unfriendly person will not be tortured, if he were not really blameworthy.
  [1-7-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -506,8 +486,6 @@ In collections to their treasury and to militarise their armies they are dutiful
 They are valiant ones with engineered enthusiasm, administrators of political
  science, clean persons and protectors of subjects of their kingdom at all times.
  [1-7-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -550,8 +528,6 @@ They are valiant ones with engineered enthusiasm, administrators of political
 They do not persecute Brahman-s and Kshatriya-s to fill-up the treasury, and high
  degree punishments will be given on assessing that person's, or the offender's
  strength and weakness. [1-7-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -603,8 +579,6 @@ _________________
 All of those ministers are clean administrators of kingdom, and are in league
  with each other, as such there is none anywhere, either in capital or in country,
  a liar. [1-7-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -622,8 +596,6 @@ All of those ministers are clean administrators of kingdom, and are in league
 None with an evil-mind or with an interest in other man's wife is there, and thus
  on whole in the kingdom and also like that in the capital, there is an undisturbed
  society. [1-7-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -677,8 +649,6 @@ None with an evil-mind or with an interest in other man's wife is there, and thu
 Well-dressed and well-decorated and they the ministers of King Dasharatha, observe
  decency in the interest of the king and also of the kingdom, with diligence and
  with a truthful-eye. [1-7-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -736,8 +706,6 @@ _________________
 They acquired good qualities from their mentors and they are renowned by their
  expertise, and even in foreign countries they are famous for their intellectual
  determinations in all affairs. [1-7-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -779,8 +747,6 @@ They acquired good qualities from their mentors and they are renowned by their
 Versatile and virtuous are they the ministers and there is none who discarded
  his virtuosity, and they are the determiners of truce or war, and by their nature
  they possess opulence. [1-7-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -830,8 +796,6 @@ Versatile and virtuous are they the ministers and there is none who discarded
 They are capable to keep up the confidentialities of strategies, and also capable
  to apply their mind even in micro-affairs, and they know moral science comprehensively,
  and above all, they are gentle articulators. [1-7-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -898,8 +862,6 @@ They are capable to keep up the confidentialities of strategies, and also capabl
 
 Accompanied with such of those effectual and good-natured ministers the exalted
  king Dasharatha ruled the earth. [1-7-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -980,8 +942,6 @@ He that most generous one among men, Dasharatha, while observing through spies,
  unrighteousness and became a generous king avowed to truthfulness alone, and thus
  he that Dasharatha ruled the earth, which rulership is renowned in all the three
  worlds. [1-7-21,22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -1039,8 +999,6 @@ Emperor Dasharatha has not encountered either a superior or an equal in his king
  and to him there are many friends, subdued are his provincial kings and eliminated
  is thorniness by his own valour. He thus ruled the world like Indra would in Heaven.
  [1-7-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 </details>
 
@@ -1097,8 +1055,6 @@ Emperor Dasharatha has not encountered either a superior or an equal in his king
 In the company of those ministers, who are conducive to the strategies, interested
  in the king and subjects as well, skilful and efficient ones, he that King Dasharatha
  obtained brilliance, like the rising Sun along with resplendent sunrays. [1-7-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

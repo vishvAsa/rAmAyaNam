@@ -19,8 +19,6 @@ Diti seeks for a son to kill Indra because Indra and other gods have
  that Indra-killer. On a fateful day when Diti failed to maintain the
  procedure of vow, Indra enters her womb and dissects the foetus into
  seven fragments, which later become saptamarudgaNa-s, The Seven Wind-gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -73,8 +71,6 @@ Diti seeks for a son to kill Indra because Indra and other gods have
 "Oh, Rama, Lady Diti was highly anguished for those sons that are killed
  and said this to her husband, Sage Kashyapa, the son of Sage Maareechi."
  Thus Vishvamitra continued narration. [1-46-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ Oh, god, I am bereaved of my sons who are killed by your great mighty
  sons, the sons of your second wife Aditi, as such I wish to bear a son,
  who is achievable by sustained penance, for he shall be the exterminator
  of Indra. [1-46-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -177,8 +171,6 @@ A sage's wife requires permission of her husband if she wishes to undertake
  an individual asceticism, because she will be receiving her own share
  of merit from her sage-husband's penances and practises, as he is her
  life-mate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ A sage's wife requires permission of her husband if she wishes to undertake
 
 On hearing her request the great resplendent sage Kaashyapa, the son
  of Sage Mareechi, replied Diti, who is deeply mournful. [1-46-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -265,8 +255,6 @@ On hearing her request the great resplendent sage Kaashyapa, the son
 " 'So be it... oh, ascetically wealthy lady, you be blest, if you abide
  by the propriety of the practises of asceticism, then you will be delivering
  a son who can become an exterminator of Indra in war. [1-46-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ In some other versions the word *trailokyahantaaram* is carried
  an exterminator of three worlds, because the three worlds are in vogue
  at Kaashyapa's grace. Some attach this adjective to Indra but not to
  the forthcoming son of Diti.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -374,8 +360,6 @@ _________________
 Saying thus that great resplendent sage patted her, and then on his
  touching her she is consecrated, and then that sage Kaashyapa departed
  for his ascetic practises, saying 'be blest.' [1-46-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -425,8 +409,6 @@ On the exit of Sage Kaashyapa, oh, best one among men Rama, highly
  elated Diti reached the sacred place called Kushaplava, on which the
  present City of Vishala is now standing, and practised a highly rigorous
  asceticism. [1-46-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -473,8 +455,6 @@ While she is truly practising asceticism, oh, the best among men Rama,
  that Thousand-eyed god Indra has indeed rendered services with his abundant
  and surpassing veracities to her, who is none other than his maternal-aunt.
  [1-46-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -517,8 +497,6 @@ While she is truly practising asceticism, oh, the best among men Rama,
 The Thousand-eyed god Indra made available fire, firewood, water, the
  sacred Kusha grass, fruits and like that tubers also, and whatever other
  items she required in her ascetic practise. [1-46-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -561,8 +539,6 @@ The Thousand-eyed god Indra made available fire, firewood, water, the
 All the time Indra indeed served Diti by massaging her body, and other
  means of removing her bodily strain resulting from her arduous practises.
  [1-46-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -612,8 +588,6 @@ Oh, Rama, the descendent of Raghu, when ten years are less to complete
  the thousand years span of her ascetics, Diti is highly rejoiced as
  her ambition is going to fructify in just ten more years, and then she
  spoke to the Thousand-eyed god, Indra. [1-46-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -659,8 +633,6 @@ _________________
 Oh, best one among the valiant ones, Indra, to me who am practising
  asceticism ten years are remaining to complete, then you can see your
  brother, you be safe. [1-46-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -719,8 +691,6 @@ Oh, son Indra, whom I am now bringing up, will be enthusiastic in
  after all his brother, and no harm shall be done to you, and oh, son
  Indra, if you join him you will get rid of your febrility, caused by
  his emergence, and then you two can conquer all the three worlds. [1-46-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -773,8 +743,6 @@ Oh, best one among gods, Indra, on my prayer your high-souled father
  Sage Kaashyapa bestowed this boon on me for a son, which materialises
  at the end of thousand years, and only ten more years are to slip by.
  [1-46-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -833,8 +801,6 @@ and for a person under a vow noontime sleep is prohibitive.
 *anena vratasthaanaam
 divaa svaapaH paadasthaane shiraH sthaapanam ca ashucikaram iti suucitam - dk*
 Hence her meticulousness is defeated.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -877,8 +843,6 @@ Hence her meticulousness is defeated.
 On observing her who has become impious by placing her head at feet-side
  and braid falling on feet, Indra is gladdened and laughed at her failed
  asceticism. [1-46-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -922,8 +886,6 @@ On observing her who has become impious by placing her head at feet-side
 Oh, Rama, being a highly courageous one, Indra the destroyer of enemy
  fastnesses, entered the body of Diti through her vaginal aperture and
  rent her foetus asunder into seven fragments. [1-46-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -968,8 +930,6 @@ _________________
 
 Oh, Rama, then that foetus wailed clamorously while being sliced with
  Thunderbolt that has hundred cutting edges, and then Diti woke up. [1-46-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -1012,8 +972,6 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 'Do not scream, do not scream...' thus Indra was coaxing the foetus,
  and even though that foetus is screaming piteously the great resplendent
  Indra has gone on fragmenting it. [1-46-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -1062,8 +1020,6 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 'Unkillable, unkillable is my foetus...' thus Diti raved in that way,
  and then Indra fell out of the womb honouring his stepmother's entreaty.
  [1-46-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 </details>
 
@@ -1113,8 +1069,6 @@ Indra humbly folding his palms that are still handling his bloody Thunderbolt
  spoke to Diti, 'oh, lady, you have become impious when your braid touched
  your feet and when you have gone to sleep in midday, and you vow is
  thwarted.' [1-46-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1135,8 +1089,6 @@ Indra humbly folding his palms that are still handling his bloody Thunderbolt
  it will be apt of you to pardon me for that act of mine." So said
  Indra to lady Diti. Thus, Sage Vishvamitra continued narration about
  City of Vishaala. [1-46-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

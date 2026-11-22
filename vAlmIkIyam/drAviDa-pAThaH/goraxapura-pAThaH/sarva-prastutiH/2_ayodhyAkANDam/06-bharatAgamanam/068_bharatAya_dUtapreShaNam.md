@@ -19,8 +19,6 @@ for the capital of Kekaya, riding their fast horses. They cross Ganga River at H
 Saranda River and reach Abhikala village. Then, they cross the holy river of Ikshumati and proceed
 through Bahlika kingdom in Sudama mountain range to Vishnupada and finally reach the city of
 Girivraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ the words; *taan* = to that; *mitra amaatyagaNaam* = group of friends and minist
 
 Hearing their words, Vasistha replied thus to that group of friends as well as
 ministers and to all the Brahmans (assembled there):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -150,8 +146,6 @@ horses; *gachchhantu* = be gone; *shiighram* = quickly; *kim* = what;
 "Bharata, who was given kingdom (by Dasaratha) is staying very happily in his
 maternal uncle's home, along with Satrughna. Hence messengers in fast running horses are to be sent
 quickly to bring back those heroic brothers. What are we to think of further in this matter?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -199,8 +193,6 @@ uttered; *vaakyam* = the words; *vasishhTham* = to Vasista; *iti* = saying;
 
 Then all of them uttered words agreeing to send the messengers quickly. Hearing
 their words, Vasistha spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -247,8 +239,6 @@ O; *Jayanta! Asoka* = O; *Asoka! Nandana* = O; *Nandana! Ehi* = please come;
 
 "O, Siddhartha! O, Jay anta! O, Vijaya! O, Ashoka! O, Nandana! Please come. I am
 telling you all. Hear that which is to be done"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -300,8 +290,6 @@ whose grief is relieved; *vaachyaH* = are to be told; *bharataH* = to Bharata;
 "After starting quickly from here by traveling in rapidly running horses, you reach
 the city of Rajagriha. After relieving yourself of the grief, you have to tell Bharata these words
 as my orders:"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -349,8 +337,6 @@ you."
 
 "The royal priest and other ministers are asking about your welfare. Come forth, by
 starting quickly. There is a very urgent work with you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -398,8 +384,6 @@ descendents Raghu dynasty."
 
 "After going there, do not tell him that Rama has gone to exile or that his father
 is dead or about this calamity occurred to the descendents of Raghu dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -446,8 +430,6 @@ to Bharata."
 
 "Go quickly, taking silk clothes and excellent ornaments to the king and to Bharata
 "
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -493,8 +475,6 @@ given eatables required on their way; *aaruuhya* = mounting; *sammataan* = admir
 The messengers, who are going to leave for the land of Kekayas, took sufficient
 eatables required on their way and went to their respective houses, by riding on their admirable
 horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -542,8 +522,6 @@ having been given permission; *vasishhThena* = by Vasista; *yayuH* = proceeded;
 
 Having completed all the remaining preparations for the journey and having been
 permitted by Vasistha, the messengers quickly proceeded (to the destination).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -584,8 +562,6 @@ permitted by Vasistha, the messengers quickly proceeded (to the destination).
 
 Those messengers went on touching Malini River, flowing between the passing
 Aparatala Mountain and the northern end of Pralamba Mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -659,8 +635,6 @@ nature of their mission.
 Having crossed Ganga River at Hastinapura, they proceeded towards west and, reaching
 Panchala kingdom through Kuru Jangala and observing well filled lakes and rivers with clear water,
 the aforesaid messengers went briskly, due to the pressing nature of their mission.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -707,8 +681,6 @@ went crossing; *divyaam sharadaNDaam* = the beautiful Saradanada river;
 
 They speedily moved on, crossing the beautiful Saradanda River, containing clear
 water frequented by various kinds of birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -751,8 +723,6 @@ of Kulinga.
 Reaching a holy coastal tree called Satyopayaachana (so called because prayers made
 to it become fulfilled); which was worthy of salutation and going round it clockwise (as a mark of
 respect) the messengers entered the city of Kulinga
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -801,8 +771,6 @@ pitR^ipaitaamahiim* = associated with the father and grandfather of Dasaratha.
 From there having reached a village named Abhikala, they crossed the holy Ikshumati
 River, which was flowing down from Bodhibhavana Mountain. This region was associated with the
 father and grandfather of Dasaratha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -850,8 +818,6 @@ water through hollows of their palms; *yayuH* = (they) proceeded;
 
 Seeing Brahmans skilled in Vedas who survived by only drinking water through hollows
 of their palms, they proceeded through Bahlika kingdom towards a mountain called Sudama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -914,8 +880,6 @@ Perceiving a locality called Vishnu padam, Vipasa river, Salmali trees, rivers,
 ponds, tanks, pools and lakes, as well as seeing many kinds of lions, tigers, antelopes and
 elephants, they proceeded by that broad lofty high way desirous as they were to execute the command
 of their master.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -965,8 +929,6 @@ and safely; *puraveram* = to the excellent city; *girivrajam* = of Girivraja.
 
 Those messengers, though riding on tired horses on a long route, reached quickly and
 safely to the excellent city of Girivraja.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 </details>
 
@@ -1022,8 +984,6 @@ messengers; *yaataaH* = quickly reached; *tat* = that; *purameva* = city;
 For the sake of fulfilling the beloved object of their master (Vasistha), for the
 sake of preserving the royal family and for keeping up the prestige of the sovereign race, those
 messengers quickly and respectfully reached that city in the night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga68/ayodhyasans68.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

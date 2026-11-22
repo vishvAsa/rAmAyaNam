@@ -18,8 +18,6 @@ Sugreeva again requests Rama to ascertain whether he is prepared to eliminate Va
 this time. Rama assures Sugreeva that he will not deviate from what he has promised, and he never
 would, and asks Sugreeva to challenge Vali by way of inviting him for a duel. Sugreeva blares out
 inciting Vali to the duel.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ camouflaging]; *atiSThan* = stayed waited on.
 
 They all on quickly going to Kishkindha, the city of Vali, hedged themselves in the
 thickets of forest trees and waited. [4-14-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -119,8 +115,6 @@ he assumed.
 
 That forest lover with tumultuous voice Sugreeva cast his eye everywhere and assumed
 tremendous fury. [4-14-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ on making; *yuddhaaya ca ahvayat* = for fight, also invited.
 Then Sugreeva encompassed by his followers war-whooped ghastlily, like a great cloud
 that emerged accelerated by gusty wind and that is thundering as though to rip the sky, inviting
 Vali for fight. [4-14-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -218,8 +210,6 @@ alike; *dR^ipta simha gatiH* = proud, lion, in stride; *sugriivaH* = Sugreeva;
 
 Then Sugreeva who is like the rising sun and whose stride is like that of a proud
 lion saw the adroit Rama and then said this sentence. [4-14-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -282,8 +272,6 @@ are.
 " She whose arch-way is decorated in gold, who is spread out with snares of monkeys,
 and who is impregnated with flags and machinery, we arrived at such city of Vali, Kishkindha.
 [4-14-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -308,8 +296,6 @@ that Sugreeva is like the slender leafless shoot of a climbing plant that requir
 tree to hang on and flourish. It is said *lata, kavita, vanita na shobhate aashrayam vinaa*
 climbing plant, poetry, or an young girl do not prosper without patronage. So Sugreeva is
 submitting himself, as a *kainkarya* to the patronage of Rama, like Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -359,8 +345,6 @@ said, words.
 
 When thus said by Sugreeva that enemy-destroyer and righteous Raghava said this word
 Sugreeva. [4-14-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -418,8 +402,6 @@ what for it is garlanded; *anayaa gaja saahvayaa* = by this, gaja-flower, creepe
 
 "By which creeper-garland that Lakshmana plucked out and garlanded you, by this
 creeper-garland of gaja-flowers alone your identification is marked. [4-14-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -475,8 +457,6 @@ Now that Sugreeva is appearing like the blazing Sun with garland of night stars,
 for he is wearing the gaja-flower garland, Rama foresees the destruction of the present lord of
 Kishkindha, namely Vali. Further Sugreeva is from Lord Sun's lineage. Govindaraja and Maheshvara
 Tiiratha agree on the last rendering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -523,8 +503,6 @@ fear, enmity, as well; *pramokSyaami* = I will set free.
 
 "Oh Vanara, today itself I will set you free from the fear and enmity whipped up by
 Vali by releasing a single arrow in fight. [4-14-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -565,8 +543,6 @@ ceSTate* = by then, he rolls.
 
 "You show me your enemy in a brother's mien, oh, monkey, by then he will be rolling
 in the dust of this forest eliminated by me. [4-14-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -611,8 +587,6 @@ deride, also.
 
 "If he returns to live even after my espying him then immediately you can find fault
 with me, you can even deride me. [4-14-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -659,8 +633,6 @@ be, dispatched, you will be knowing - be sure.
 
 "Seven saala trees are rived with a single of arrow of mine in your presence,
 thereby be sure that Vali will be dispatched now, by my might. [4-14-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -717,8 +689,6 @@ anywise, not, also, going to be said.
 "Just bound by the anxiousness to implement righteousness untruth is unsaid by me
 earlier though I am involved in distresses for a long time, and hereafter it will not be said in
 anywise. [4-14-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -733,8 +703,6 @@ promise, fructify - will make happen, I will do; *jahi sambhramam* = kill, perpl
 
 "As Indra fructifies the sprouted paddy field I will make happen my promise, hence
 leave off your perplexity." [4-14-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -787,8 +755,6 @@ niSpatet* = by which, monkey [Vali,] comes out.
 
 "Thereby to invite that Vali with golden pendant, oh, Sugreeva, you make such a
 war-cry by which that monkey Vali comes out. [4-14-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -854,8 +820,6 @@ once, Vali will not tolerate any more war cries from Sugreeva, thus comes out of
 
 *ripunagara gopura dvaaram uparudhya vyuthaaya bahir aagaccheti samud ghoShaya | tadasahamaano
 vaali yuddha sannadho bahir nirgacched eva --- iti raama vacanam - dharmaakuutam*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -902,8 +866,6 @@ ladies, presence, especially.
 
 "One who is assertive of his own valour will not tolerate to hear enemy's daring in
 a brawl, that too in the presence of ladies." So said Rama to Sugreeva. [4-14-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -950,8 +912,6 @@ naadena nanarda* = with a gruesome, blare, blared.
 
 On hearing the words of Rama he that Sugreeva with golden yellow complexion blared a
 gruesome blare as though to completely rend the sky. [4-14-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -1003,8 +963,6 @@ outsiders - invaders, mishandled - ill-treated; *kula striya iva* = well-born, l
 By that sound of Sugreeva the splendour of cows is marred and they are running
 helter-skelter like the well-born ladies who are mishandled by invaders due to the misrule of their
 own king. [4-14-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -1065,8 +1023,6 @@ falling is like the meteors falling onto ground. It is said that every liberated
 in the sky, like the star of North Pole, *dhruva tara* . So also the planets and stars are the
 liberated soul of eminent saints or sages. Thus the falling of birds is compared to the falling of stars,
 planets, or meteors. This expression is *shleSa* with *kaanti guNa* ; Metaphoric colligates.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 </details>
 
@@ -1121,8 +1077,6 @@ like; *tvarayaa naadam amuncat hi* = promptly, sound, he released, indeed.
 Sugreeva, the son of Sun, who is well-known for cloud like thundering, and whose
 vigour is now reinforced by his bravery, then promptly released an oceanic roar like an ocean with
 splashing waves drifted by gales. [4-14-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

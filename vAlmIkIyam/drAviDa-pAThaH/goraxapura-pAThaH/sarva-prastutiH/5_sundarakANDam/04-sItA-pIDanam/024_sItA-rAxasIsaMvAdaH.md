@@ -15,8 +15,6 @@ title_english = "024 Seetha s reply to Ogres"
 
 Seetha cites the examples of Sachi, Arundhati, Rohini et.al., on their devotion towards their husbands.
 Ogre women threaten to kill Seetha and eat her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ _________________
 
 Thereafter ogre women with a cruel nature, with crooked faces neared that Seetha and spoke unpleasant
 words harshly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ _________________
 
 "O Seetha! Why are you not agreeing to stay in the gynaeceum pleasing to all beings together with
 very best beds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -160,8 +154,6 @@ _________________
 
 "You who are a human are thinking highly about the wifehood of a human being. Withdraw your mind
 from Rama. Otherwise you will not exist at all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -201,8 +193,6 @@ from Rama. Otherwise you will not exist at all."
 
 "Sport according to your comfort coming together with the king of ogres Ravana enjoying luxuries
 of the three worlds and taking him as husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -253,8 +243,6 @@ Rama; *maanushham* = who is a human; *bhrashhTam* = banished; *raajyaat* = from 
 
 "O beautiful one! O irrreproachable one! But being a human you are desiring that Rama who is a
 human, banished from kingdom, unsuccessful and gloomy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -294,8 +282,6 @@ vachanam* = these words; *netraabhyaam* = with eyes; *ashrupuurNaabhyaam* = fill
 
 Seetha with eyes like lotuses hearing the words of ogre women spoke these words with eyes filled
 with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -339,8 +325,6 @@ in your; *manasi* = mind;
 
 "All of you coming together whatever words which are hated in the world you spoke in my matter,
 this does it not seem sinful in your mind?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -381,8 +365,6 @@ kaamam* = freely; *khaadata* = eat; *maam* = me; *na karishhyaami* = I will not 
 
 "Human woman is not waited to become wife of an ogre. All of you freely eat me. I will not honour
 your words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -458,8 +440,6 @@ your words."
 
 "Although wretched or without kingdom, whoever is my husband, He alone is my master. Like Suvarchala
 with the Sun God, I am fond of Him always."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -482,8 +462,6 @@ on Chyavana; *saavitrii satyavantam* = (like) Savitri on Satyavanta; *shriimatii
 on the Moon God, like Lopamudra on Agastya, like Sukanya on Chyavana, like Savitri on Satyavanta, like Srimati
 on Kapila, like Madayanti on Saudasa, like Kesini on Sagara, like Damayanti the daughter of Bhima, devoted to
 husband Nala, in the same way I am devoted to my husband Rama, the best in Ikshvaku dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -532,8 +510,6 @@ _________________
 
 Ogre women incited by Ravana listening to the words of Seetha, swooned with anger and frightened
 Her with harsh words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -583,8 +559,6 @@ not talking; *avaliinaH* = (and) hiding; *shiMshupaa drume* = in the Simsupa tre
 
 That monkey Hanuma not talking and hiding in the Simsupa tree listened to those ogre women frightening
 Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -634,8 +608,6 @@ lips.
 
 Nearing that Seetha shaking with fear in all directions, those ogres being angry licked a lot shining
 and hanging lips.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -707,8 +679,6 @@ _________________
 
 Being angry a lot and grasping axes quickly spoke as follows: "This woman is not suited to have
 the king of ogres Ravana as husband."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -724,8 +694,6 @@ the king of ogres Ravana as husband."
 
 Being frightened by ogre women who were horrible that Seetha with best face with tears in eyes
 and moving from there reached that Simsupa tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -777,8 +745,6 @@ surrounded; *raakshasiibhiH* = by ogre women; *tasthau* = was situated (there); 
 
 Thereafter the wide eyed Seetha nearing that Simsupa tree being surrounded by ogre women was situated
 there with gloom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -856,8 +822,6 @@ emaciated; *diinavadanaam* = with a pitiful face; *malinaambaradhaariNiim* = wea
 
 Those ogres frightened from all directions that Seetha who was emaciated with a pitiful face and
 wearing dirty garments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -873,8 +837,6 @@ to Her.
 
 Thereafter an ogre woman named Vinata with a horrible appearance with an angry form, crooked, having
 a prominent belly spoke to Her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -924,8 +886,6 @@ excessively; *upakalpate* = serves as; *vyasanaaya* = vice ;
 
 "O Seetha! You have showed love of husband. This much is enough. O auspicious one! At all times
 doing something excessively serves as vice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -966,8 +926,6 @@ vachaH api* = words also;bruvantyaaH = (which are) being told;
 
 "O Seetha! I am happy. Human duty has been done by you. Let there be fortune to you. Do also according
 to my wholesome words being told."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1067,8 +1025,6 @@ appearance; *sarvasya* = to all;
 
 "Obtain as husband Ravana who is the lord of al l ogres, bold and handsome, like Indra the lord
 of Devas, able one and liberal with a pleasing appearance to all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1085,8 +1041,6 @@ of all the worlds; *adyaprabhR^iti* = from today.
 
 "Leaving Rama who is a human and miserable, seek refuge in Ravana. O Seetha! With best unguents
 to the body and decorated with best ornaments, become mistress of all the worlds from today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1134,8 +1088,6 @@ to the body and decorated with best ornaments, become mistress of all the worlds
 
 "O auspicious one! Like Svaha the wife of the Fire God, like Sachi the wife of Indra become mistress
 of all worlds. O Seetha! What is the use with Rama who is miserable and with gone vigour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1181,8 +1133,6 @@ this spoken word; *vayam sarvaaH* = all of us; *asmin* = in this; *muhuurte* = m
 **अनुवादः**
 
 If you do not do my this spoken word, all of us in this moment will eat you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1229,8 +1179,6 @@ kupitaa* = with anger; *abraviit* = spoke; *siitaam* = to Seetha.
 **अनुवादः**
 
 Another ogre named Vikata with hanging breasts raising fist and roaring with anger spoke to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1279,8 +1227,6 @@ _________________
 
 "O Seetha with an evil mind! Your many words which are unpleasant have been tolerated due to pity
 and due to softness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1344,8 +1290,6 @@ have entered; *ghoram* = terrible; *raavaNaanantaHpuram* = gynaeceum of Ravana.
 "O Seetha! You are not doing according to our word which is respected by time and wholesome. You
 have been brought to this bank of the ocean not obtainable by others. You have entered the terrible gynaeceum
 of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1415,8 +1359,6 @@ _________________
 
 "Withheld in the house of Ravana well protected by us, even Devendra himself is not capable to
 protect you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1431,8 +1373,6 @@ to) my word; *hitavaadinyaaH* = (which is) beneficial; *ashruprapaatena* = disch
 
 "O Seetha! Do according to my word, which is beneficial. Discharge of tears is enough. Leave worthless
 gloom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1511,8 +1451,6 @@ _________________
 
 "O Seetha! Have love and happiness. Leave this daily gloom. Sport according to comfort with the
 king of ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1528,8 +1466,6 @@ avaapnuhi* = get; *sukham* = comfort.
 
 "O timid one! You know how youth of women is not lasting. As long as your youth will not pass away,
 so long get comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1576,8 +1512,6 @@ raajena* = along with king of ogres; *chara* = roam; *ramyaaNi udyaanaani* = bea
 
 "O one with intoxicating eyes! You along with king of ogres roam beautiful groves, mountains and
 nearby forests.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1593,8 +1527,6 @@ nearby forests.
 
 "O beautiful one! seven thousand women will be in your control. Have as husband Ravana the lord
 of all ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1637,8 +1569,6 @@ vyaahR^itam vaakyam* = (according to) my spoken word; *yathhvat* = as is; *bhaks
 
 "O Seetha! If you do not do according to my spoken word as is, I will eat your heart indeed by
 plucking it out."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1688,8 +1618,6 @@ _________________
 
 Thereafter an ogre woman named Chandodari swooning with anger, turning around a big spike spoke
 this word.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1710,8 +1638,6 @@ this word.
 
 "Seeing this woman with eyes like that of a deer, with moving breasts due to fear, abducted by
 Ravana, there occured to me a great desire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1761,8 +1687,6 @@ sabandhanam* = together with muscle; *antraaNyapi cha* = and entrails; *tathaa* 
 
 "It is my mind to eat the liver, the spleen, flesh above heart and heart together with muscle and
 entrails and the head."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1811,8 +1735,6 @@ _________________
 
 An ogre woman named Pragasa spoke these words : "Squeeze the neck of this cruel woman. Why do we
 delay?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1828,8 +1750,6 @@ delay?"
 
 "Thereafter let it be known to the king that that human woman has died. He will say thus : "Eat.".
 There is no doubt in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1879,8 +1799,6 @@ _________________
 
 "Thereafter all of us will divide. Quarrel is not desirable to me. Liquor, many kinds and a lot
 of lickables be brought quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1896,8 +1814,6 @@ of lickables be brought quickly."
 
 Thereafter an ogre woman named Ajamukhi spoke these words : "All of you killing this woman thereafter
 do equal pieces."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 </details>
 
@@ -1941,8 +1857,6 @@ _________________
 
 Thereafter an ogre woman named Surpanakha spoke these words: "That which was spoken by Ajamukhi,
 is desirable to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1958,8 +1872,6 @@ maaMsam* = human flesh; *atha* = afterwards; *nR^ityaamaH* = we will dance; *nik
 
 "Liquor which is the destroyer of all sorrow be brought quickly. Eating human flesh afterwards,
 we will dance for propitiating Nikumbila."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

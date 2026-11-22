@@ -15,8 +15,6 @@ title = "१०८ रामेण रावणवधः"
 On the advice of Matali the charioteer, Rama employs on Ravana, a mystic missile
 presided over by Brahma. That arrow penetrates Ravana's heart and kills him. Ravana falls down dead
 from his chariot to the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ you are unaware (of how to dispose of him)?
 Thereupon, Matali refreshed the memory of Rama as follows: "O the valiant one! Why
 are you still carrying out the battle with Ravana as though you are unaware (of how to dispose of
 him)?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -113,8 +109,6 @@ now; *yaH* = which (was expressed); *suraiH* = by the celestials.
 
 "O lord! You can employ a mystic missile presided over by Brahma the lord of
 creation. The time for his destruction has come now, as expressed by the celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -185,8 +179,6 @@ iva* = and which looked like a hissing serpent.
 Then, the valiant Rama, who was reminded thus by Matali, took hold of a blazing
 arrow, which was given by Brahma and which in turn was given to him by the glorious sage, Agastya
 earlier in the battle-field and which looked like a hissing serpent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -229,8 +221,6 @@ jayakaaN^kShiNaH* = who was desirous of conquering the three worlds.
 Having been made formerly for Indra, the lord of celestials by Brahma, the lord of
 creation of infinite strength, it was bestowed in the past on the ruler of gods, who was desirous
 of conquering the three worlds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -277,8 +267,6 @@ of conquering the three worlds.
 
 In its feathers, wind was established. In its end-point were the fire and the sun.
 In its heaviness were Mounts Meru and Mandara. Its shaft was made of ether.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -323,8 +311,6 @@ the elements; *bhaaskara varchasam* = and an illuminating power of the sun.
 
 Provided with good shaft decked with gold, the arrow which had its body shining, had
 been made up of the efficacy of all the elements and an illuminating power of the sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -342,8 +328,6 @@ elephants and horses.
 Blazing like a fire at the time of universal dissolution enveloped in smoke and
 looking like a venomous snake, it was swift in action and capable of bursting hosts of men,
 elephants and horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -394,8 +378,6 @@ with their marrow; *sudaaruNam* = (it presented) a very terrific appearance.
 
 It broke gate-ways, iron bars, and even mountains. Smeared witht he blood of various
 victims and quoted with their marrow, it presented a very terrific appearance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -416,8 +398,6 @@ pannagam iva* = like a hissing serpent.
 
 That arrow had an efficacy of a thunder bolt, loud-sounding, tearing off armies of
 adversaries in many battles and creating fear to all, like a hissing serpent.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -434,8 +414,6 @@ fearful.
 
 It was giving perennial feed to vultures, eagles, cranes, troops of jackals and
 demons in the battle-field, possessing a form of Yama the lord of Death and was fearful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -483,8 +461,6 @@ kinds of beautiful coloured feathers; *garutmataH* = of Garuda; the king of eagl
 That arrow bestowed joy on the monkey-leaders and destroyed the demons. It was made
 speedy, by tying various kinds of beautiful coloured feathers of Garuda, the king of eagles, to
 it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -540,8 +516,6 @@ Making it sacred by a special formula as per the procedure specified in scriptur
 Rama who was endowed with an extraordinary strength then fixed that arrow which was the foremost
 among the three worlds, capable of removing the fear of Ikshwaku dynasty, taking away the glory of
 the enemies and bestowing joy to one's own self on his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -582,8 +556,6 @@ all the beings; *samtresuH* = were frightened; *vasumdharaa* = the earth;
 
 While that excellent arrow was being fixed by Rama, all the beings were frightened
 and the earth trembled.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -624,8 +596,6 @@ tear off the vitals; *raavaNaaya* = towards Ravana.
 
 That enraged Rama, stretching his bow well and with an attentive mind, hurled that
 arrow which can tear off the vitals, towards Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -666,8 +636,6 @@ chest.
 
 That arrow, which was inviolable as a thunderbolt hurled by the arms of Indra and
 irresistible as Yama the lord of Death, fell upon Ravana's chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -714,8 +682,6 @@ great speed; *shariiraantakaraH* = and which was capable of destroying the body;
 
 That arrow, released with great speed and which was capable of destroying the body,
 tore off the heart of that evil-minded Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -765,8 +731,6 @@ capable of causing death to the body; *haran* = taking away; *praaNaan* = the li
 
 That arrow, which was capable of causing death to the body, after taking away the
 life of Ravana and having been anointed with blood, penetrated the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -816,8 +780,6 @@ re-entered; *svatuuNiim* = its own quiver (of Rama); *nibhR^itavat* = silently.
 
 Smeared with blood on having killed Ravana and thereby accomplishing its mission,
 that arrow re-entered its own quiver (of Rama) silently.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -864,8 +826,6 @@ fell; *aashu* = quickly kaarmukam = his bow; *sasaayakam* = with its arrow;
 
 From the hands of the slain Ravana, who was being separated from his life, fell his
 bow with its arrows (fitted to it), at the same time coinciding indeed with his life-breath.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -914,8 +874,6 @@ ground; *syandanaat* = from his chariot; *vR^itraH yathaa* = as Vritra the demon
 Having lost his life, that king of demons for his part, who was endowed with
 terrible swiftness and invested with great splendour, fell down from the chariot to the ground ,
 like Vritra the demon when the latter was struck down by the thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -957,8 +915,6 @@ like Vritra the demon when the latter was struck down by the thunderbolt.
 
 Seeing Ravana fallen down on earth, the surviving demons whose king had been killed,
 were panic stricken and ran away to all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1008,8 +964,6 @@ the monkeys; *jitakaashinaH* = assumed a triumphant appearance.
 
 The monkeys, who fought with trees, fell upon the demons from all sides. Seeing the
 killing of Rvana, the monkeys assumed a triumphant appearance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1057,8 +1011,6 @@ miserable; *baaShpa sravaNaiH* = with tears flowing down; *abhyapatan* = ran awa
 
 Tormented by the monkeys, the demons rushed back with panic towards Lanka, with
 faces looking miserable and tears flowing down, their supporter having been killed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1100,8 +1052,6 @@ Ravana.
 
 Roaring shouts of joy, quite rejoiced as they were, and proclaiming Rama's victory
 and the killing of Ravana in his hands, the monkeys behaved like conquerors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1148,8 +1098,6 @@ dundibhiH* = kettle-from of the gods; *vyanadat* = reverberated antarikShe = in 
 
 Then the cheerful kettle-drum of the gods reverberated in the sky. Very pleasant
 winds, carrying divine odour, blew there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1200,8 +1148,6 @@ occasion.
 
 Pouring over the chariot of Rama quite fascinating shower of flowers, which was
 difficult to be accomplished (elsewhere), fell from the heavens to the earth on that occasion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1248,8 +1194,6 @@ Rama; *vishruve* = was distinctly heard; *gagane* = in the sky.
 
 Excellent pronouncements of the great-souled gods saying "well done! Bravo!",
 combined with a panegyric in praise of Rama, was distinctly heard in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1296,8 +1240,6 @@ combined with a panegyric in praise of Rama, was distinctly heard in the sky.
 
 When Ravana, the cruel demon and the terror of all the worlds, was killed, a great
 rejoice filled the hearts of gods and charanas the celestial bards.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1338,8 +1280,6 @@ killing; *raakShasa pungavam* = Ravana; *raaghavaH* = Rama; *tataH* = then;
 
 Having been pleased with the killing of Ravana, Rama then fulfilled the desire of
 Sugreeva, Angada and Vibhishana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1387,8 +1327,6 @@ too; *abhavat* = shed; *sthiraprabhaH* = a steady light.
 Then, troops of celestials got their mental peace. All the quarters were brightened
 up and the sky became clear. The earth did not tremble. The wind blew gently. The sun too shed a
 steady light.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1449,8 +1387,6 @@ their respects; *vidhinaa* = with due ceremony.
 Rejoiced with the victory in battle, Sugreeva, Vibhishana and Angada together with
 Lakshmana along with their friends paid their respects with due ceremony to Rama, who looked
 charming.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 </details>
 
@@ -1511,8 +1447,6 @@ iva* = like Indra the lord of celestials.
 That Rama, the delight of Dasaratha, for his part, who had just killed his enemy and
 thus who was steadfast in his vows and who was endowed with a great splendour, who stood surrounded
 on the battle-field by his own people and the army shone like Indra the lord of celestials.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -60,8 +60,6 @@ Janaka, in reply said reverentially making palm-fold; *te bhadram* = you be safe
 
 When sage Vashishta said that way, Janaka reverentially made palm fold and said this in reply, "oh, sage, let safeness betide
 you all... now, it will be apt of you all to listen to our distinguished lineage..." [1-71-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -77,8 +75,6 @@ noble] gens; *pradaane* = while offering [bride]; *niravasheSataH* = without a l
 
 "Oh, eminent sage Vashishta, he who is born in a particular noble gens has to inform about his parentage in its entirety,
 especially when he offers a bride... thereby oh, great sage, let all be informed of about our lineage..." [1-71-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -118,8 +114,6 @@ especially when he offers a bride... thereby oh, great sage, let all be informed
 
 Once there was an emperor Nimi, who was renowned in the triad of worlds by his own accomplishments, and who was uniquely
 seraphic-souled and a best one among all stalwart emperors... [1-71-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -165,8 +159,6 @@ Janaka, even, Udaavasu - is born.
 
 And his son was named as Mithi, and Janaka was Mithi's son... the first one to be designated as Janaka... and even from
 that Janaka it is Udaavasu who took birth... [1-71-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -211,8 +203,6 @@ named one.
 **अनुवादः**
 
 From Udaavasu it is noble souled Nandivardhana took birth, and Nandivardhana's son is named as Suketu, by his name... [1-71-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -252,8 +242,6 @@ Brihadratha, thus, heard - him to be his son.
 
 From Suketu the highly powerful and virtue-souled Devaraata is born, and from that kingly sage Devaraata, it is Brihadratha
 who took birth, thus we have heard... [1-71-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -293,8 +281,6 @@ courageous one, Mahaaviira, became - took birth; *mahaaviirasya* = of Mahaavira;
 
 From Brihadratha it is the highly braving, courageous and valiant Mahaaviira has come, and the bold and truth-valiant Sudhriti
 from Mahaaviira... [1-71-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -334,8 +320,6 @@ generous one; *dhR^iSTaketuH* = it is Dhristaketu; *raajarSeH dhR^iSTaketoH* = f
 
 Form Sudhriti, the right-minded and highly generous Dhristaketu took birth, and from the kingly sage Dhristaketu it is
 highly renowned Haryashva is the son... [1-71-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -375,8 +359,6 @@ kiirtirathaH* = king, Kiiriratha.
 
 Haryashva's son is Maru, and Maru's, son is Pratiindhaka, and the son of Pratiindhaka's is noble-souled king Kiirtiratha...
 [1-71-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -418,8 +400,6 @@ remembered; *devamiiDhasya vibudho* = of Devamiidha, Vibudha; *vibudhasya mahiid
 
 The son of Kiirtiratha is remembered as Devamiidha, and the son of Devamiidha is Vibudha, and Vibudha's son is Mahiidraka...
 [1-71-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -458,8 +438,6 @@ Mahaaroma, born.
 **अनुवादः**
 
 Mahiidraka's son is the great mighty king Kiirtiraata, and the son born to sagely king Kiirtiraata is Mahaaroma... [1-71-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -501,8 +479,6 @@ _________________
 **अनुवादः**
 
 From Mahaaroma it is the virtue-souled Swarnaroma, and from kingly sage Swarnaroma it is Hrasvaroma... [1-71-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -551,8 +527,6 @@ Kushadhvaja is; *mama* = my; *anujaH* = later born [younger]; *bhraataa* = broth
 
 Two sons are born to that knower of virtue and noble souled Hrasvaroma, I am the elder, and my younger brother is this
 brave Kushadhvaja... [1-71-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -598,8 +572,6 @@ brave Kushadhvaja... [1-71-13]
 
 He that king and father of ours, Hrasvaroma, anointing me in kingdom as I am the elder, and vesting the duty of looking
 after Kushadhvaja in me, he departed to forests... [1-71-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -640,8 +612,6 @@ aavaham* = lugging around.
 
 On the departure of our aged father to heaven, I am looking after this godlike Kushadhvaja with brotherliness and lugging
 around the burden of this kingship... [1-71-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -689,8 +659,6 @@ puraat* = from Saamkaasha, city; *agamat* = he came.
 **अनुवादः**
 
 Then after sometime, a valorous king named Sudhanva came beleaguering Mithila, from his city Saamkaasha... [1-71-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -736,8 +704,6 @@ me.
 
 'The unexcelled bow of Shiva shall be given to me, along with the lotus-eyed virgin, Seetha...' thus he started to urge
 me... [1-71-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -783,8 +749,6 @@ me... [1-71-17]
 
 "Oh, Brahma sage Vashishta, for the reason of my non-bestowal of bow or bride he warred with me, and when he affronted me
 in that war I have put that Sudhanva to the sword..." [1-71-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -824,8 +788,6 @@ in that war I have put that Sudhanva to the sword..." [1-71-18]
 
 Oh, best sage Vashishta, on eliminating king Sudhanva, I have anointed my valiant brother Kushadhvaja in the kingdom of
 Saamkaasha... [1-71-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -874,8 +836,6 @@ vai* = Urmila, for Lakshmana, for sure; *te bhadram* = to you - to all, let ther
 Oh, best saint Vashishta, this is that younger brother of mine, and I am the elder. Oh, eminent-saint, I am bestowing those
 brides with a highly gladdened heart... Seetha for Rama, and Urmila for Lakshmana, let there be felicity for all... [1-71-20,
 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -933,8 +893,6 @@ The thrice reiteration is the threefold commitment *mano vaak-kaaya-karaNaaH* i.
 mind, voice, and body... so I endow the brides whole-heartedly, clear-articulately, and agleam-physically...' Here this
 verse is addressed to Vashishta, while other mms say that it is aimed at Dasharatha by placing words 'raghunandana' instead
 of 'munipungava.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -989,8 +947,6 @@ attends him. After shaving off the unwanted hair, then *samaavartana* is underta
 place is, that Rama or Lakshmana are born without *vyanjana-kesha* unwanted hair, except head-hair, as Indian mythology
 will not give a hairy makeup to these four brothers. 'How then Janaka asked to undertake such ceremony, when discardable
 hair itself is not there...' is the objection. Whether they have hair or not, the ceremony has to go on.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 </details>
 
@@ -1055,8 +1011,6 @@ of Rama and Lakshmana, may be accorded to the eligible generously... [1-71-24]
 These old people have meticulously calculated stars and their sidereal times for marriage, but being old, they have forgotten
 to print the date of wedding on wedding invitations or, at least said about it. Thereby the dating of Ramayana has become
 a problem, and dating with Ramayana prospered.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

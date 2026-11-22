@@ -21,8 +21,6 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
  of excellent beauty. When Vayu, Air-god cherishes them all, those girls
  refuse him, as they prefer an arranged marriage by their father. Then
  Air-god in his indignation disfigures them all.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -78,8 +76,6 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
  of Brahma, whose ascesis is of higher order, who has never flouted the
  rules of rituals or his vows, and who revered the knowers of virtue
  by name Kusha." Thus Sage Vishvamitra commenced narration. [1-32-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -131,8 +127,6 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
  Kushamba, Kushanaabha, Adhuurtarajasa also called as Asuurtarajasa,
  and Vasu through the princess of Vidarbha, which princess is of noble
  birth and an eligible wife of Kusha. [1-32-2, 3a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -195,8 +189,6 @@ _________________
  Kusha spoke to them who are brilliant, highly enthusiastic, virtue abiding,
  and the advocators of truth saying, 'establish your rulership, sons,
  and achieve righteousness abundantly.' [1-32-3b, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 </details>
@@ -246,8 +238,6 @@ _________________
 "On hearing the words of Kusha those four sons that are the formidable
  ones in the world and the best men among people initiated to build four
  cities. [1-32-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -289,8 +279,6 @@ _________________
 "Great-resplendent Kushamba built the city named Kaushambii for his
  part, and for his part the virtue-souled Kushanaabha built a city named
  Mahodaya. [1-32-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -349,8 +337,6 @@ _________________
 
 It is believed that the city Kaushambii is the present day Kannauj and
  Girivraja the present day Rajgir.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -464,8 +450,6 @@ It is believed that the city Kaushambii is the present day Kannauj and
 "This land on which we are presently staying is known as the land of
  virtue-souled Vasu, all around which these five best mountains are standing
  high. [1-32-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 </details>
@@ -516,8 +500,6 @@ It is believed that the city Kaushambii is the present day Kannauj and
 **टिप्पनी**
 
 This river is said to be the present day River Son
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -573,8 +555,6 @@ This river is said to be the present day River Son
 
 The confluence of this river with Ganga is said as the one now available
  near at Patna, Bihar.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -590,8 +570,6 @@ The confluence of this river with Ganga is said as the one now available
 
 "Though many kings were inquisitive about the power of that bow, all of those great mighty princes
  are rendered incapable to string its bowstring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -640,8 +618,6 @@ The confluence of this river with Ganga is said as the one now available
 Children begotten through celestial maidens are of superior nature for
  further procreating a divine generation, like Shakuntala, who begot
  Bharata, the earliest dynastic king.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -702,8 +678,6 @@ Children begotten through celestial maidens are of superior nature for
  a hundred streaks during rainy season, and while those girls that are
  decorated with select ornaments are singing, dancing and playing musical
  instruments, they got into a fantastic felicity. [1-32-12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -746,8 +720,6 @@ Children begotten through celestial maidens are of superior nature for
 "On their coming to parklands those girls whose all limbs are pretty
  and whose looks are unparalleled on earth, they looked like stars amid
  clouds within the cloudy thickets of garden bushes. [1-32-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -802,8 +774,6 @@ Children begotten through celestial maidens are of superior nature for
 "On seeing them who are flourishing with all their aspects together
  with comeliness and ripeness, the all pervading Air-god, Vayu, spoke
  this word to them. [1-32-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -846,8 +816,6 @@ Children begotten through celestial maidens are of superior nature for
 " 'I have a desire for you all, hence leaving off the notions pertaining
  to human beings you all become my wives, thereby you too will acquire
  longevity like divinities. [1-32-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -895,8 +863,6 @@ Children begotten through celestial maidens are of superior nature for
 " 'Teenage is always transitory, expressly in humans, but on marrying
  me you will achieve undiminished youthfulness and forever you can be
  youthful like immortal females.' Thus Air-god said to those girls. [1-32-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -939,8 +905,6 @@ Children begotten through celestial maidens are of superior nature for
 "On hearing that proposal of Vayu, the Air-god whose strives are unimpeded,
  then those hundred girls spoke this sentence laughing off his proposal.
  [1-32-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -996,8 +960,6 @@ Children begotten through celestial maidens are of superior nature for
 " 'we are aware that you inspirit all the living beings from inside,
  oh, the ablest divinity, we are also aware of your uniqueness. But,
  what for you are dishonouring all of us. [1-32-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -1056,8 +1018,6 @@ _________________
 " 'We are the daughters of Kushanaabha, oh, best divinity, and we are
  all capable of displacing you from your realm, but oh, god, we are restraining
  ourselves in doing so only to conserve our ascetic values. [1-32-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -1101,8 +1061,6 @@ _________________
 " 'That time shall never come, oh, god with sordid thinking, when we,
  at our liberty, may look up for our grooms overlooking our veracious
  father.' [1-32-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -1145,8 +1103,6 @@ _________________
 " 'Our father is indeed our lord and for us he is the ultimate god too.
  To whomever we are offered by our father in marriage he alone becomes
  our husband.' So said hundred girls to Air-god. [1-32-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1211,8 +1167,6 @@ _________________
 On hearing their sentence of rejection, Vayu, the Air-god whose impact
  is powerful, very angrily entered into all of the limbs of those girls
  only to disfigure them. [1-32-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -1270,8 +1224,6 @@ _________________
 "Those girls whom Air-god disfigured in that way have entered palace-chambers
  of the king, but they have entered diffidently, embarrassedly, and tearfully.
  [1-32-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -1314,8 +1266,6 @@ _________________
 
 "That king on seeing his dear and attractive daughters as disfigured
  and despondent girls he is highly perturbed and said this. [1-32-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 </details>
 
@@ -1383,8 +1333,6 @@ _________________
  you all? Let it be said! Why you gesticulate saying nothing.' asking
  thus that king sighed and quietened down waiting for a reply." Thus
  Sage Vishvamitra continued his narration. [1-32-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga32/balasans32.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

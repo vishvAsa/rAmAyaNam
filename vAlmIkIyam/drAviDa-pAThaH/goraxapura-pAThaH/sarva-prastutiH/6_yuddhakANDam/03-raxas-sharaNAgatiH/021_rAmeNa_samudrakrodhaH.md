@@ -18,8 +18,6 @@ title_english = "021 Rama becomes angry at the ocean"
 The careless ocean did not appear in his personal form to Rama, even when it was
 requested to do so. Rama becomes angry at the ocean and looses fierce arrows, which cause a terror
 among the creatures inhabiting the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -150,8 +148,6 @@ resembling the splendor of a rising sun.
 
 Formerly, his arm used to be tended with sandalwood and aloe and with saffron pastes
 and made beautiful like the splendor of a rising sun.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -194,8 +190,6 @@ snake); *gaN^gaajalanishhevitam* = supported on the water of the Ganga.
 
 In the past, the aforesaid arm was graced by the head of Seetha on the couch. It
 resembled the body of Takshaka. (A snake) supported on the water of the Ganga.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 </details>
@@ -239,8 +233,6 @@ at the shore of the sea.
 
 The aforesaid arm resembled a yoke. It enhanced the grief of his enemies in battle.
 It was delightful to his friends. It is now placed at the shore of the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -322,8 +314,6 @@ the left arm resembling a great mace and that mighty right arm that bestowed tho
 charity was used as a pillow. Rama, the competent man and the mighty armed said: " Either crossing
 of the ocean or a death should occur to me today". Making that resolve he laid down by the ocean,
 restraining his speech and with a pious disposition according to tradition.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -366,8 +356,6 @@ nights.
 
 Following the scriptural injunction, that Rama who was devoted to his sacred vow,
 while sleeping on the ground spread with Kusha grass, spent a time of three nights there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -417,8 +405,6 @@ the ocean; *sritaam patim* = the Lord of rivers.
 
 Remaining there for three nights, Rama who was skilled in policy and fond of piety,
 waited upon the ocean, the lord of rivers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -434,8 +420,6 @@ waited upon the ocean, the lord of rivers.
 
 Though honored according to his worth by the self subdued Rama, the careless ocean
 did not appear in his personal form to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -478,8 +462,6 @@ becoming angry; *raktaanta lochanaH* = with the outer corners of his eyes turned
 
 Rama becoming angry with the ocean, having the outer corners of his eyes turned red,
 spoke those words to Lakshmana, having auspicious marks, who was in his vicinity:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -504,8 +486,6 @@ of the snake; *upadhaaya* = as his pillow.
 Thereafter Rama, the annihilator of enemies, spreading sacred grass on the sea
 shore, making a respectful salutation (by joining his palms) to the great ocean with his face
 turned eastward, lied down with his arm, resembling the body of a snake , as his pillow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -559,8 +539,6 @@ having no virtues.
 "O, what arrogance of the ocean, who does not appear himself personally before me!
 Indeed calmness, forbearance kind spoken ness and straight -forwardness- these qualities of noble
 men give weak results, when directed towards those having no virtues."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -607,8 +585,6 @@ that man; *aatma prashansinam* = who boasts himself;dushhTam = and shameless;
 
 "This world honors that man, who boasts himself, is corrupt and shameless, runs
 about in all directions advertising himself and commits every kind of excess"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -655,8 +631,6 @@ about in all directions advertising himself and commits every kind of excess"
 
 "O, Lakshmana! In this world, it is not possible to obtain fame, glory or victory at
 the end of a battle, by conciliation"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -703,8 +677,6 @@ sides; *madbaaNanirbhagnaiH* = and broken asunder by my arrows.
 
 "O, Lakshmana! Behold now this ocean, having its water made suffocated soon with its
 crocodiles floated on all sides and broken asunder by my arrows".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -752,8 +724,6 @@ me.
 
 "See here, O, Lakshmana, the coils of water snakes, the huge bodies of alligators
 and the trunks of sea elephants being shattered by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -800,8 +770,6 @@ now; *mahataa yuddhena* = by this great battle.
 
 "I will make the ocean with its multitude of conches, oyster shells, fishes and
 crocodiles, dry up now in this great battle"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -848,8 +816,6 @@ endowed as I am; *kshhamayaa* = with forbearance; *dhik* = out with;
 
 "This ocean is considering me as an incapable man endowed as I am with forbearance.
 It is a great mistake to show forbearance to such an individual."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -906,8 +872,6 @@ appearing; *aatmaanam* = himself; *me* = to me; *saamnaa* = on kind words;
 "The Ocean is not appearing himself before me on kind words. O, Lakshmana! Bring the
 bow and the serpentine arrows. I shall dry up this ocean, so that our monkeys can cross it by
 feet."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -965,8 +929,6 @@ demons.
 "Being provoked now, I will shake this ocean, even if it is unshakable. I will force
 the ocean, which is demarcated by banks and agitated with thousands of waves, bereft of a boundary,
 by my arrows. I will agitate the great ocean, thronged with great demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1008,8 +970,6 @@ to look at; *jvalan yugaantaariva* = like a blazing fire at the end of the world
 
 Speaking as aforesaid, Rama with his eyes made larger by anger and wielding a bow
 with his hand, became dreadful to look at, as a blazing fire at the end of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1057,8 +1017,6 @@ celestials).
 
 Swaying his terrific bow and making the earth tremble by his violence Rama released
 the arrow resembling a powerful thunderbolt of Indra. (god of celestials).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1110,8 +1068,6 @@ their splendor; *pravishhyanti* = entered ; *jalam* = the waters; *samudrasya*
 
 Those excellent arrows having a great speed and ablaze by their splendor, penetrated
 the waters of the ocean, striking the water- snakes with terror.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1153,8 +1109,6 @@ ocean; *tathaa* = and; *sa maarutaravaH* = together with the resonance of the wi
 
 The great jerk of water with fishes and alligators of the ocean, together with the
 resonance of the wind became very much dreadful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1176,8 +1130,6 @@ bhuushhaNaiH* = adorned with armlets of gems and gold and the most excellent jew
 His arm formerly adorned with armlets of gems and gold and the most excellent jewels
 of pearls, was touched more than once, by excellent women ( Kausalya and other mothers or by royal
 maids).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1224,8 +1176,6 @@ maids).
 
 Immediately that great ocean, became shaken by the cluster of huge waves enveloped
 by a multitude of conches in its rolling waves and a smoke came out.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1275,8 +1225,6 @@ greatly valiant demons; *paataalatalavaasinaH* = residing in nethermost subterra
 
 Sea-snakes having brilliant faces and glittering eyes and the very valiant demons
 residing in nethermost subterranean region of the sea, were perturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1323,8 +1271,6 @@ in thousands (so large);vindhyamandarasamkaashaaH = resembling Vindhya and Mandh
 
 Thousands of waves, so large resembling Vindhya and Mandhara mountains, jumped up
 from the sea with its crocodiles and sea monsters.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1371,8 +1317,6 @@ serpents and demons; *udvartita mahaagraahaH* = with huge crocodiles caused to c
 
 That ocean with its multitude of fluctuating waves, with its frightened serpents and
 demons, with huge crocodiles coming out, became full of noise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1428,8 +1372,6 @@ bow.
 Then Lakshmana rushed towards Rama who in a terrific velocity was stretching his
 incomparable bow, with a penetrating sigh, crying: "No further, no farther" and took hold of the
 bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1485,8 +1427,6 @@ power of anger; *bhavaan* = some durable; *saadhu vR^ittam* = and noble way;
 "O, honorable man! Even without the destruction of the ocean, the purpose of you the
 greatest hero will be fulfilled. Men like you do not fall into the sway of anger. You see some
 durable and noble alternative"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 </details>
 
@@ -1537,8 +1477,6 @@ iti* = saying No farther; no farther; *kashhTamiti* = ah;oh;alas!
 
 Brahmana-sages and celestial sages, stationed in the interior of the sky cried in a
 loud voices, saying "No farther, no farther" and making a noise "Ah,Oh,Alas!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

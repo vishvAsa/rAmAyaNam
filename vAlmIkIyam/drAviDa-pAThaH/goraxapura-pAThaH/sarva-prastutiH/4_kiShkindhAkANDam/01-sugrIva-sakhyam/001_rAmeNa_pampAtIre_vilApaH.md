@@ -42,8 +42,6 @@ which the surroundings of Pampa Lake are exemplified as good surroundings for fi
 As far as possible, the commentaries of ancients are given in comment section of those verses. At the
 fag end of this chapter, the mighty monkey hero Sugreeva, moving on the Rishyamuka Mountain sees Rama
 and Lakshmana entering into his territory, flees into deep forests, fearing them to be enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -112,8 +110,6 @@ fishes are seen as the souls captivated in human bodies, rushing hither and thit
 is hindered by the banks of life [here the banks of the lake.] Thus on certain occasions we chance to
 meet with the different points of view of Rama, one as hero and the other as god incarnate, derived
 from the metaphors or similes by the ancient commentators.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -163,8 +159,6 @@ overcame, engrossed; *saumitrim idam abraviit* = to Lakshmana, this way, spoke.
 
 There, on seeing that Lake of Lotuses, thrilled are his senses with gladness, and he engrossed and overcame
 by passion spoke this way to Lakshmana. [4-1-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -232,8 +226,6 @@ If it were said that the water is like *vaiduurya *or cat's-eye or Lapis, it rem
 other eight gems including a diamond. As such the waters are crystalline and pellucid in their look
 like priceless gems, for water is the invaluable gem-like gift of nature and flowing waters are the
 priceless possessions for livelihood as well.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -279,8 +271,6 @@ or trees lustre with their mountainous peaks... [4-1-4]
 The mountainous trees are teachers, and their mountainous branches are the taught, that depend on their
 teachers, and both of they depending upon the Pampa Lake, the divine tranquil water... and everything
 depends on waters, as per Vedic saying: *aapovaa idagam sarvam...* waters are everything...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -337,8 +327,6 @@ problems of anguished Bharata and abduction of Seetha.' It is said that Rama rem
 along with Seetha at this juncture, because as a god incarnate He remembers the sufferance of these
 innate souls dedicated to Him. Bharata is another *kainkarya* /dedicatee of Rama, the divine,
 like Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -390,8 +378,6 @@ cool waters, though I am disquieted... [4-1-6]
 
 In grief everything is disquieting, *duHkhite manasi sarvam asahyam...* but these pleasant floral
 environment of Pampa is admirable to Rama, because nature is divine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -443,8 +429,6 @@ and restless are the deer and birds flocks, as well... [4-1-7]
 Even though serpents etc., are there, the lake with its lotuses is pleasant. This suggests that if a
 wise-one contains a vice, he is not deplorable... *teSaam tejo visheSeNa pratyavaayo na vidyate...smriti*
 scriptures.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -497,8 +481,6 @@ flowers covering it like flowery bed-sheet with variegated colours... [4-1-8]
 The green pasturelands have become colourful pastures with variegated flower-fall, means that the a
 mortal soul on receiving many a teaching from many teachers, where the teachers are trees and flowers
 are teachings, that mortal is becoming immortal, and becomes an abode to the Supreme soul.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -552,8 +534,6 @@ are wholly embraced by climbers and their apices. [4-1-9]
 
 A householder, though embraced by many flowery desires, will stand out, with his own flowers of wisdom,
 should he be true devotee.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -609,8 +589,6 @@ students, who always surround the teachers. Rama in search of some good teacher 
 to the captive Seetha finds some other great teachers of nature, but whom he cannot utilise for his
 purpose because they are sessile. He however praises them while remembering Seetha. The touch of Cupid
 is for the Rama, the Hero, and the touch of anguish in search of a good teacher is for the god incarnate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -660,8 +638,6 @@ rain, like the rain from rain-clouds... [4-1-11]
 **टिप्पनी**
 
 Teachers rain flowers of wisdom like rain from clouds without any seeking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -707,8 +683,6 @@ swung; *puShpaiH avakiranti gaam* = flowers, showering, onto ground.
 
 "Also on those appeasing terraces of mountains there are many forest trees... speed of winds are swinging
 them to shower flowers onto ground... [4-1-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -762,8 +736,6 @@ about to fall and yet to fall are not just for flowers but also for those who ar
 morally. With all of them the god plays in his *kriida, liila* . Presently god's own attribute,
 namely the Air is playing with them, since air is the *suutra* , string, the thread of whole
 creation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -815,8 +787,6 @@ and though displaced those bees are singing as though in accompaniment to the si
 
 The singing of honeybees or of the air amounts to the chanting of Sama Veda hymns at the sight of Absolute,
 i.e., Rama who now appeared in this environ.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -875,8 +845,6 @@ are the abode of the hermits and sages, who sing Sama hymns. Later in the canto 
 dwell in caves, and are equated with the pre-eminent teaches who always sing in the praise of God, which
 will be as good as singing the Vedic Hymns. Now the air emerging from the caverns of yonder firmaments
 is singing Sama Veda applauding Rama, the Divine.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -929,8 +897,6 @@ entwined one with the other... [4-1-16]
 **टिप्पनी**
 
 Entwined are the devotees in the devotion of their common Supreme.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1003,8 +969,6 @@ and their knowledge is fragrance, where the taught are the birds whose cooing is
 Veda. The birds, as the captivated souls, are seeking salvation in their chanting around the teachers
 i.e., flowers to communicate the same to god, with their fragrant knowledge. This enthrals the god,
 now Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1050,8 +1014,6 @@ humming; *vaneSu madhu gandhiSu* = in forest, with honey's, aroma.
 "Air is vacillating these trees in this honey scented forest... and the trees appear to be enjoying
 their fluttering dance and seem to be swinging their treetops to appreciate the singing of honeybees
 that are humming in accompaniment to this dance... [4-1-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1097,8 +1059,6 @@ shailaaH* = mountains; *vi raajante mahaa drumaiH* = indeed, liven up, with grea
 
 "On mountain-planes that are beautiful with fully flowered and pleasant tress that entwine the mountain
 peaks with their high treetops, and thus these mountains indeed liven up with these great trees...[4-1-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1145,8 +1105,6 @@ peaks with their high treetops, and thus these mountains indeed liven up with th
 "Air is moving the treetops fully covered with flowers to swinging and the coronet like honeybees have
 to swing around those treetops, thus these trees themselves appear to be dancing to be dancing and singing...
 [4-1-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1197,8 +1155,6 @@ iva* = yellow, cloth, like.
 "Fully flowered are these Karnikaara plants all over with golden colour flowers at top and yellow coloured
 stems, and they look like men wearing golden ornaments on their upper body, while their loin cloth is
 yellow... [4-1-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1244,8 +1200,6 @@ disunited...[4-1-22]
 All the innate souls are required to be in unison with the Supreme Soul, and they are not to depart
 for the worldly illusions. Seetha's illusion to possess the Golden Deer chanced for her abduction, and
 thus disunited from Rama
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1294,8 +1248,6 @@ happy calls is rather calling me down... [4-1-23]
 The hero hears the call of cuckoo as heroine's call. The God is listening to the same from the beings
 of nature, as a call for salvation. Rama, who has not heard any call of Seetha so far, which he will
 hear at the end of this canto, is in wait for such a call.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1342,8 +1294,6 @@ me awesome.
 
 "This gallinule bird happily calling in the forest brooks is making me awesome with its calls, as the
 Love-god has already made me awestricken... [4-1-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1393,8 +1343,6 @@ my, dear one Seetha; *etasya shabdam shrutva* = this bird's, calling, on hearing
 
 "Earlier when we were in hermitage, on hearing this bird's call, dear Seetha used to call me to listen,
 and she herself was highly cheerful at this bird's calls... [4-1-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1437,8 +1385,6 @@ _________________
 
 "Very many amusing birds of that kind are flitting all over on trees, bushes, and creepers emitting
 very many sounds... see them, Lakshmana... [4-1-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1488,8 +1434,6 @@ king-bees, well, gladdened; Soumitri; *madhura swaraaH* = pleasing, tunes [singi
 "Well mingled are these female birds with their male ones, for which they are well admired by their
 own flock, oh! Soumitri, and such birds are calling gladsomely together with the pleasing humming of
 king-bees... [4-1-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1577,8 +1521,6 @@ retrieves Her, for no one on earth can amass heavenly wealth. In Lakshmi tantra,
 text Lakshmi states that: *aham naaraayanii naama saa sattaa vaiShNavii paraa* " I am indeed
 Naaraayanee [i.e. Lakshmi] the supreme essence of Vishnu..." [Lakshmi Tantra 3.1.] Hence, Seetha may
 not be taken as yet another princess from this viewpoint.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1690,8 +1632,6 @@ stupifaction.
 The Ashoka flower kills natual hunger, Jasmine desciccates, mango flower fades
 the colour, and lotusess causes criss-cross thinking, and the costuses incite the desire for
 suicide.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1739,8 +1679,6 @@ life, [will there,] be, purposefulness.
 
 "And if she with slender eyelids on her eyes, decent hairdo, and a soft spoken one, Oh! Soumitri, if
 she is unseen by me will there be any purposefulness of my life? [4-1-30b, 31a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1790,8 +1728,6 @@ end of [far-flung]; *ayam kaalaH* = season; *hi ruchiraH* = indeed, appealing [t
 
 "My dear Seetha has an enchantment for these enchanting woodlands bustling with koels up to their horizons,
 and Lakshmana, similarly enchanting is this vernal season to her... [4-1-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1840,8 +1776,6 @@ of love, throes, born out of; *vasanthaH guNa varthitaH* = spring's, by attribut
 
 "This fire of grief born out of the throes of love, and furthered by the attributes of spring season
 will swiftly burn me down in no time... [4-1-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
 </details>
@@ -1888,8 +1822,6 @@ this, in soul, arising one [Love God, in me]; *bhuuyastvam upayaasyati* = intens
 
 "As the one unable to see that lady but able to see beautiful trees the Love-god in me gains intensity...
 [4-1-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1935,8 +1867,6 @@ touch of, remover;. dR^ishyamaanaH vasantha cha = visible one, spring-season, to
 
 "Now, that invisible Seetha is intensifying my agony, and this visible spring season, the remover of
 the touch of sweat too, is doing the same... [4-1-34b, 35a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -1986,8 +1916,6 @@ chaitra vana anilaH* = cruel, Chaitra month's [April-May], forest, breeze; *sant
 
 "Overwhelmed with the grief of worry about that deer eyed Seetha, such as I am, I am burnt down by this
 cruel vernal breeze of forests...[4-1-35b, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2044,8 +1972,6 @@ eye like spot. Here the air is permeating these eyes on the plumage of peacock a
 look like crystals. Thus the spring breeze is permeating anywhere, including Rama, causing a want for
 the togetherness with Seetha. Unlike other birds, the peacocks do not mate often and in open. It has
 some ritual like dancing and secret in its conduct of mating.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2094,8 +2020,6 @@ love, muffled in; *mama manamadha vardhanaaH* = in me, lovesickness, intensifyin
 
 "Those peacocks that are surorounded by their peahens and convulsed in love are intensifying longing
 in me, who am already muffled in love-longing... [4-1-37b, 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2141,8 +2065,6 @@ bhartaaram mayuuram upa nR^ityanti* = dancing, after husband, peacock, at nearby
 
 "See Lakshmana, on that mountain terrace this peahen longing for love is dancing at the nearby of her
 husband, that peacock... [4-1-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2188,8 +2110,6 @@ wings; *rutaiH upahasan iva* = screams, jokingly, as though; *manasaa taam raama
 
 "Spreading his beautiful wings and screaming as though joking, even that peacock is longingly running
 after his female... [4-1-39b, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2237,8 +2157,6 @@ na hR^itaa* = by demon, not, abducted; *tasmaat* = therefore; *nR^ityati ramyeSu
 
 "Definitely no demon has abducted that peacock's ladylove, hence he is dancing with her in beautiful
 forests... [4-1-40b, 41a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
 </details>
@@ -2291,8 +2209,6 @@ in passion, her husband, following.
 
 "Living in this flowering month is unbearable for me... Lakshmana, see the fondness even in those originated
 in animals, thus that peahen in her passion is following her husband... [4-1-41b, 42]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2341,8 +2257,6 @@ she is; *madanena jaata sambhramaa* = with love, born, ecstasy, haste; *evam maa
 
 "Had she, that broad eyed lady Seetha, not been abducted, she too would have followed me in this way
 with an ecstatic love... [4-1-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2385,8 +2299,6 @@ niSphalaani bhavanti me* = flowers, futile, are becoming, to me.
 
 "See Lakshmana, while these forests are abundantly weighty with flowers in wintry season these flowers
 are becoming futile to me... [4-1-44]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2432,8 +2344,6 @@ are becoming futile to me... [4-1-44]
 
 "Though these flowers on the trees are exceedingly beautiful they are falling onto the earth wastefully,
 along with the swarms of honeybees hovering over them... [4-1-45.]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2484,8 +2394,6 @@ as they like, and this is causing love madness in me... [4-1-46]
 
 The calling of the birds in-groups suggests the harmonious prayers by the devotees, which is maddening
 the god to accord salvation to so many of them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2532,8 +2440,6 @@ me.
 
 "Should this spring season be there too, where my dear one Seetha is living, she with her unrequited
 merriment will definitely be saddened like me... [4-1-47]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2580,8 +2486,6 @@ how can, [she,] comport, indeed
 
 "Definitely this spring season will not touch that place where she is... and even if this touches that
 place, how can that lady with black-lotus-eyes can possibly comport without me! [4-1-48]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2622,8 +2526,6 @@ do.
 
 "Otherwise, even if the spring happens to be there where my dear is, what can that fine waisted lady
 do under threat by others? [4-1-49]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2669,8 +2571,6 @@ bhaashiNii cha* = soft spoken, also; *me priyaa* = my dear one; *nuunam vasantam
 
 "She in midst of her youth, eyes like lotus petals, also soft-spoken one is my dear one... and definitely
 taken by the spring she leaves her life... [4-1-50]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2716,8 +2616,6 @@ vartayitum* = to live; *na alam* = not, be able to.
 
 "Indeed in my heart a strong notion is prevailing that the chaste lady Seetha will be unable to live
 separated from me... [4-1-51]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2763,8 +2661,6 @@ vi niveshitaH* = always, well, abide.
 
 "My thoughts of Seetha alone are well biding in me, and in Seetha also thoughts about me will always
 be abiding... [4-1-52.]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2804,8 +2700,6 @@ be abiding... [4-1-52.]
 
 "This breeze carrying fragrance of flowers is though pleasant for touch and though coolish like snow,
 this alone is like fire to me as I am very much worried about that lady... [4-1-53]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2851,8 +2745,6 @@ always, happiness, I, felt; *yam* = by which [breeze]; = saH maarutaH = that, br
 
 "By which breeze I always felt happiness earlier along with Seetha... that breeze alone is increasing
 anguish in me without Seetha... [4-1-54]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2899,8 +2791,6 @@ well, cawing.
 
 "When Seetha was with me, then this crow flew into the sky and cawed much indicating Seetha's departure
 from me, and now sitting on a tree it is cawing agreeably indicating early arrival of Seetha... [4-1-55]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -2961,8 +2851,6 @@ The crow's cawing is for both good and bad omens, which even now is an accepted 
 roves over in the sky continuously cawing, it is bad omen. If it sits on nearby tree or wall and caws
 incessantly, it is good omen to get desired things or to indicate the arrival of dear ones etc. Such
 prognostications are available by way of bad dreams etc., at many places in Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3011,8 +2899,6 @@ _________________
 
 "Lakshmana, observe the appealing tonality of birds in the forest that calling out atop the flowered
 trees, that which is indeed furthering one's passion� [4-1-57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3063,8 +2949,6 @@ that are raising their faces with vigour�[4-1-58]
 
 The true devotee quickly grasps the nectar of knowledge from the teacher like the honeybee
 that quickly grasps the nectar of the flower, however vagrant the flower may be.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3111,8 +2995,6 @@ it is standing.
 
 "To the impassioned ones that Ashoka tree is very much enhancing grief, and with its bouquets of flowers
 hustled up by the wind it is sanding as though to daunt me... [4-1-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3158,8 +3040,6 @@ trees; *vibhrama utsikta manasaa* = flirtatiously, aroused, with heart; *sa anga
 
 " Lakshmana, these mango trees bearing greenish yellow flower are appearing like men whose hearts are
 flirtatiously aroused, and who have creamed their bodies with greenish-yellow body cream� [4-1-60]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3208,8 +3088,6 @@ tataH* = indeed moving, there, and there.
 
 "Oh, tigerly man Soumitri, see these Pampa's amazing forests ranges... and therein the nymphs are moving,
 hither and yon... [4-1-61]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3249,8 +3127,6 @@ propitiously, fragrant; *jale sarvashaH* = in waters, everywhere; *taruna suurya
 
 "See Lakshmana, these fragrant and propitious blue lotuses are everywhere in the waters, glistening
 like tender sun... [4-1-62]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3297,8 +3173,6 @@ permeated with; *sougandhikaa yutaa* = with red lotuses, along with; *eSaa pampa
 
 "This Pampa Lake is shining forth with its tranquil waters, that contain lotuses, blue water-lily's,
 and red lotuses, along with swans and water-birds that permeate it � [4-1-63]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3344,8 +3218,6 @@ abhi samvR^itaH* = all over, well wrapped up; *shobhate [eSaa pampaa]* = beams f
 
 "Lotuses with the resplendence of tender sun enwrapping its waters, pollen grain pilfered by honeybees
 enwrapping those lotuses� with them this Pampa is beaming forth�
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3408,8 +3280,6 @@ to the Pampa area, because his great grand father Yudhisthara of Maha Bharata re
 Tungabhadra at this place. However there is a vast lake like formation at present day Hospet and Hampi
 in Karnataka State, where three rivers, namely Tungabhadra, Varada and Hagari and their tributaries
 etc., meet and disperse. This place is geographically at Long. 76�--78�, and Lat. 12�--16�.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3458,8 +3328,6 @@ wind, throbbed, by the speed; *uurmibhiH* = by ripples; *taaDyamaanaani* = pulsa
 
 "In the tranquil water the speed of wind is throbbing ripples, and the ripples throb the lotuses, thus
 the throbbing and rippling lotuses appear beautiful� [4-1-66]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3511,8 +3379,6 @@ Vaidehi... to me my life is uninteresting... [4-1-67]
 Rama's tranquil heart is throbbing like the ripples in the waters, because the resident in that lotus
 like heart, Seetha is missing. Goddess Lakshmi sits in the lotus holding lotuses, like the pollen, and
 the vast lake of tranquil waters is the heart of Vishnu.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3559,8 +3425,6 @@ that graceful lady; *smaara yiSyati* = to reminisce, [love-god] wishes to.
 
 "Aha! Deplorable is the deviousness of Love-god, for he is causing reminisces about that graceful lady
 who articulates that gracefully, even if she is gone away and cannot be regained now... [4-1-68]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3610,8 +3474,6 @@ tolerate; *shakyaH* = possible one
 
 "If this spring with its flowered trees is not going to deaden me... the Love-god is a possible one
 to tolerate, though now he came upon me forcefully...[4-1-69]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3660,8 +3522,6 @@ exhilarating [places or objects,] becoming, they are; *taani eva tayaa vina a ra
 
 "All those places or objects that were delightful ones to me when she was with me, and they alone are
 now becoming anguishing ones to me...for she parted from me� [4-1-70]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3710,8 +3570,6 @@ _________________
 
 "To gaze the petals of the lotus buds my sight is fascinated... and in them I perceive the pair of Seetha's
 bud-like eyes...Oh! Lakshmana...and they are alike thus... [4-1-71]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3808,8 +3666,6 @@ with Her affection, but becomes a sinner, She recommends even that sinner to the
 obliteration of his sins and to accord salvation. Hence Vaishnavites demand heart-pouring devotion to
 the Almighty, than indulging in earthly cherishing. This is termed as *nirhetuka satata dyaa prasaara*
 i.e., without any precondition the grace of Goddess Lakshmi always flows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3852,8 +3708,6 @@ on terraces; *puSpitaam karNikaarasya* = flowered, karnikara trees [Pentepetes A
 
 "Soumitri, see those flowered Karnikara trees with their tree-trunks on those southern hill-terraces
 of Pampa, they are highly splendorous... [4-1-73]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3899,8 +3753,6 @@ by; *vichitram reNum adhikam sR^ijate* = wondrous, dust, muchly, creating [exhau
 
 "That one, that kingly mountain which is ornamentally impregnated with ores and minerals is exhausting
 much mass of wondrous dust with the colour of its ores, that is drifted by the wind's speed... [4-1-74]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -3955,8 +3807,6 @@ are luminous in red colour, all over. This is indicating that the Kingly Mountai
 the other King Rama or Rama the divine, with an incensed camphor, that will be red in glow and emits
 coloured smoke. This is the *mangala aarati* , the auspicious camphor-torch deference offered to kings
 of deities.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4006,8 +3856,6 @@ _________________
 
 "On the banks of Pampa these jasmines, water-lilies, red oleanders have grown up and they are now flowered
 that is wetted with the fragrance of nectar...[4-1-76]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4057,8 +3905,6 @@ _________________
 
 "The Mogra bushes, Sinduka, Vaasanti are well flowered. Maadhavi, flowers are also fully fragrant, and
 everywhere there are bushes of Jasmine... [4-1-77]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4108,8 +3954,6 @@ champakaaH* = [Michelia champaca]; *tilkaaH* = tilaka; *cha eva* = also, like th
 
 "Charming are the saplings of Bilva, and Madhooka, and plants like Vakula, Champaka, Tilaka, Naaga trees
 are well flowered.... [4-1-78]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4159,8 +4003,6 @@ _________________
 
 "Padmaka plants are well flourishing, and like that Neela, Ashoka are also flowered... trees on the
 mountain terraces namely Lodhra trees are brownish like lion's mane... [4-1-79]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4213,8 +4055,6 @@ _________________
 
 "The trees of Alangium, Kurntaka, Poornaka, Devadaaru, and also the Mango trees, and like that Patala
 trees, and the trees of Mountain ebony are flowered...[4-1-80]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4273,8 +4113,6 @@ trees.
 
 "Muchukunda trees, also Arjuna trees are seen on mountain terraces...Date palm trees, Uddaalaka trees
 also... like that the Shiriisha tree, simshupa trees, and dhava trees... [4-1-81]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -4291,8 +4129,6 @@ eva* = also, like that; *raktaah kuravaka* = red, mehandi [Globe amaranat]; *tat
 
 "Silk cotton trees, palaasha trees also, like that are red mehandi trees, thus are Tinisha and Naktamaala
 trees, sandalwood trees, spandana trees are all thus well flowered... [4-1-82]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4343,8 +4179,6 @@ _________________
 
 "Flowered are the trees like hintaala, tilaka, and naaga trees, and they are enfolded by the flowered
 climber-plants at their apices... [4-1-83]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4393,8 +4227,6 @@ climber-plants at their apices... [4-1-83]
 "See the splendorous trees of Pampa here, oh! Soumitri...their branches bestirred by wind and bend onto
 other trees, as though these trees are nearby and within the reach of climber-plants... thus the climber-plants
 passionately bear upon those trees, like the doting of passionate women... [ [4-1-84, 85a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4442,8 +4274,6 @@ savouring, happy, as though; *paadapaat paadapam* = from tree to tree; *vanaat v
 "And the breeze is perhaps unhappy by savouring only one kind of nectarine aroma, hence it appears to
 be gliding from tree to tree, forest to forest, mountain to mountain... while going from tree to tree,
 mountain to mountain, forest to forest... [4-1-85b, 86a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4489,8 +4319,6 @@ buds, enveloped; *shyaamaa varNaa iva babhuH* = dark, in colour, thus, they shin
 
 "Some trees are full with flowers whose nectar is fragrant, and some shine forth with dark colour as
 they are enveloped with buds... [4-1-86b, 87a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4540,8 +4368,6 @@ thus, plunging.
 
 "And the honeybee on assessing each of the flower as 'this one is pure... this one is delicious... and
 this one is well bloomed...' is plunging into them... [4-1-87b, 88a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4587,8 +4413,6 @@ this one is well bloomed...' is plunging into them... [4-1-87b, 88a]
 
 "On plunging into the flowers that nectar-avaricious honeybee is again coming up, and quickly going
 elsewhere in the trees on the banks of Pampa... [4-1-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4634,8 +4458,6 @@ clusters of; *shayana prastharaiH iva* = bed, laid on, like; *upastiirNaa* = spr
 
 "These clusters of flowers that have fallen on their own are spreading out like a bed of flowers laid
 on, with them the ground appears to endow comfort... [4-1-89]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4684,8 +4506,6 @@ slabs, rendered into, yellow, red, hues.
 
 "On mountain slopes varied flowers are spread out, with them the colour of diverse mountain slabs is
 rendered into yellow-red hue... [4-1-90]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4735,8 +4555,6 @@ flowered, indeed, as though.
 
 "Soumitri see the bloom of flowers in spring after winter, as if the trees have indeed bore the flowers
 in competition with one another... [4-1-91]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4784,8 +4602,6 @@ attractive, highly; Lakshmana.
 "The drones of honeybees among the trees with flowered treetops appear to be the talk of trees, and
 the swinging branches of trees appear to be their invitational gestures to one another, thus those trees
 look highly attractive... [4-1-92]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4845,8 +4661,6 @@ and sages lost their loincloths, chastity belts peeled off on their own, and ent
 topsy-turvy, when Manmadha took charge of the Universe for only a few moments, to kindle Shiva's love
 towards Parvati. As such the nature at Pampa itself has become a love god to Rama, to pour out his passion
 for Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4901,8 +4715,6 @@ is there to River Ganga, it would have been the world's best environ..." But Riv
 and this environ cannot be there. This stanza signifies that Pampa is a river but not a vast lake, and
 all these narrations of longing epitomises the longing for a true friend like Sugreeva or Hanuma, or
 for Rama's life-mate Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -4963,8 +4775,6 @@ Rama, basing on some satirical remarks of his lowly subject deserts Seetha.
 " Earlier, you refused the kingdom-fortune, [Rajya Lakshmi,] and came to forests, where I was with you.
 Now that, that kingdom-fortune, Rajya Lakshmi winning your affection, is jealous of me i.e., Bhagya
 Lakshmi, and she does not let me live in your palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5011,8 +4821,6 @@ to be; *na me bhavet chintaa* = not, to me, there will be, worry; *spR^ihaa anye
 
 "Nay... if I were to take delight this way in these pleasant green meadows along with her, there will
 be no worry to me... nor interest in other things... [4-1-96]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5063,8 +4871,6 @@ me.
 
 "Indeed these beautifully leaved and variously flowered trees are maddening my heart as I am without
 that lady Seetha in this forest... [4-1-97]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5113,8 +4919,6 @@ that lady Seetha in this forest... [4-1-97]
 
 "See the cool water of this Pampa Lake, Soumitri, filled with blue lotuses, and with ruddy geese well
 moving in, and well venerated by the partridge birds...[4-1-98]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5164,8 +4968,6 @@ is this Pampa; *vi kuujadbhiH vihangamaiH* = with pleasantly calling, birds.
 
 "Well filled with waterfowls, curlew birds, and adored by great animals, this Pampa glistens much with
 pleasantly calling birds...[4-1-99]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -5180,8 +4982,6 @@ priyam* = reminding of, dear one; *padma nibha iikshNaam* = lotus, radiance, in 
 
 "Enkindling passion in me, are these umpteen gladdened birds, reminding me of my dear one who is in
 the mid of her youth, moonfaced, and with the radiance of lotuses in her eyes... [4-1-100]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5234,8 +5034,6 @@ vyadhayanti iva* = further, agonising, as though; *me cittam* = my, heart is [ t
 "See that female deer along with male deer moving there and there on those wonderful mountainsides...
 and at me, who am weaned away from such a fawn-eyed lady Seetha... and such as I am, my heart is further
 agonised on seeing these wide-eyed deer, and for not seeing her, the wide-eyed Seetha... [4-1-101]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5282,8 +5080,6 @@ there.
 
 "If only I can see that lady on those spectacular terraces filled with impassioned bird groups with
 much ado, then there shall be peace for me... [4-1-102]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5326,8 +5122,6 @@ _________________
 
 "I live along for sure, Soumitri, if that slender-waisted Vaidehi basks in this benignant breeze of
 Pampa along with me... [4-1-103]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5384,8 +5178,6 @@ on its chest; *shivam* pure, uncontaminated breeze, i.e., the first breeze of th
 dhanyaaH* fortunate, *sevante* those that await and adore. Those couples that await this
 first breeze, emerging from the gardens of Pampa Lake, carrying fragrance of many a flower, like that
 of a garland of flowers, are fortunate.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5431,8 +5223,6 @@ of a garland of flowers, are fortunate.
 
 "That youthful, lotus-petal eyed beloved of mine, that Janaka's daughter... how can that helpless lady
 bear her lives without me... [4-1-105]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5480,8 +5270,6 @@ Seetha is an unusual princess by birth. Winning her hand in marriage is unusuall
 King Janaka with the lifting of Shiva's bow, which none else could do than Rama. Having won Seetha's
 hand in marriage, but lost her in the forest, will be ridiculous. Rama reflects here as to how his father-in-law
 King Janaka would lookdown Rama for not protecting his daughter Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5531,8 +5319,6 @@ is staying.
 
 "She who accompanied me, an unfortunate one whom his father sent to forests, taking up a virtuous course...
 now where will be she, that ladylove of mine, be abiding... [4-1-107]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5581,8 +5367,6 @@ kR^ipaNaH* = her, without, desolated; *katham dhaaraye* = how, live on.
 
 "Whose kingdom is forfeited, and whose soul succumbed to the circumstance at the time of exile, but
 she accompanied suchlike me, and Lakshmana, without her how I can I live on in desolation... [4-1-108]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5629,8 +5413,6 @@ siidati iva* = my, mind, is sinking, as though.
 
 "She who has a pretty and beaming face with lotus-like eyes, that is fragrant, auspicious and scarless,
 and not seeing such a face my mind is as though sinking... [4-1-109]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5677,8 +5459,6 @@ in between, having; *guNavat* = wisdom-wise; *madhuram* = pleasing; *hitam* = fr
 
 " Lakshmana, when can I hear that conversation of Vaidehi that will have smiles and wits in between...
 wisdom wise pleasing, friendly and unique one in its own way... [4-1-110]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5726,8 +5506,6 @@ wisdom wise pleasing, friendly and unique one in its own way... [4-1-110]
 "That youthful and decent lady though succumbed to suffering in forests used to look as though got rid
 of her sufferings, and as though gladsome woman, and she used to speak to me, one smitten by her love,
 very fondly... [4-1-111]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5807,8 +5585,6 @@ very fondly... [4-1-111]
 
 "What can I say in Ayodhya to that kind hearted lady and my mother Kausalya, oh, prince Lakshmana, when
 she asks �where is she, my daughter-in-law? And how is she? ' [4-1-112]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -5824,8 +5600,6 @@ be able to, isn't it.
 
 "Begone! Lakshmana.... you may see Bharata, that affectionate one for his brothers... I may not be able
 to live on leaving off Seetha... isn't so!" [So said Rama to Lakshmana] [4-1-113]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -5845,8 +5619,6 @@ raamam* = to great soul, Rama; *bhraataa* = his brother; Lakshmana; *yuktam avya
 
 To that great-souled Rama who is bewailing that way like a waif, his brother Lakshmana said these appropriate
 and infallible words. [4-1-114]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5893,8 +5665,6 @@ and infallible words. [4-1-114]
 
 "Oh, best one among men, please control yourself Rama, let safety betide you, do not lament, the intellect
 of your kind of unblemished souls does not become languorous... [4-1-115]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -5963,8 +5733,6 @@ Other words being same, the rest are:
 Such wrong orientations of words used in verses will be found in other verses also, because printed
 books are carrying them forward, and they need correction by some pundits who can kindly spare time
 and effort. The above correction is per courtesy of : Pt. Paturi Sitaramaanjaneyulu
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6010,8 +5778,6 @@ na bhavishyati taavat* = in any way, does not, live on, at all.
 
 "If Ravana goes to the netherworlds, or still deeper worlds from there, oh my brother, still he will
 not live, Raghava... [4-1-117]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6057,8 +5823,6 @@ of by him; *nidhanam vaa gamiSyati* = doom, or, enter into.
 
 "Let the emplacement of that sinning demon e obtained... and then he either cedes Seetha or enters into
 his own doom... [4-1-118]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6111,8 +5875,6 @@ I wish to slay him,...[4-1-119]
 **टिप्पनी**
 
 Please refer to Ch 45- 46 of Bala Kanda of details about Diti and someone entering her womb.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6163,8 +5925,6 @@ try; *na adhigamyate* = not, regain.
 
 "May you rejuvenate and be secure, oh, revered one, cast-off your pathetic mood... result of purpose
 will be lost indeed, for the endeavourers without a try, thus nothing can be regained by them... [4-1-120]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6212,8 +5972,6 @@ impossible.
 
 "Vehemence is might, oh, noble one, there is no superior might than vehemence and to him with vehemence
 there is no impossibility in the world,... even the slightest... [4-1-121]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6258,8 +6016,6 @@ in deeds; *utsaaha maatram aashritya* = with vehemence, alone, taking hold of; *
 **अनुवादः**
 
 "Vehement men do not regress in deeds, and taking hold of vehemence alone we regain Seetha...[4-1-122]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6305,8 +6061,6 @@ pR^iSTataH* = compassion, let go, behind [pushback]; *maha aatmaanam* = your gre
 
 "You leave off this enclosure of ardency and pushback that compassion ... you are not able to know your
 great and controlled soul...with these thoughts of self-pity and fondness... [4-1-123]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6361,8 +6115,6 @@ on receiving information that Indrajit, the son of Ravana killed Seetha. Here th
 ' stands for pity and *moha* stands for fondness, and god has these two basic attributes towards
 His creation. Thus the pity and fondness of god is now aimed at releasing the innate soul, namely Seetha,
 from the captivation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6413,8 +6165,6 @@ strode forward.
 
 He that inestimable valiant Rama strode forward those areas of charming Pampa Lake, with the charm of
 wind-flopped trees, getting rid of grief. [4-1-125]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6466,8 +6216,6 @@ wind-flopped trees, getting rid of grief. [4-1-125]
 
 That great one Rama on observing all over quickly, all round the forest with its brooks and caves, and
 reviewing with Lakshmana, though agonised at heart that anguished one travelled on. [4-1-126]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6521,8 +6269,6 @@ manaa* = not, despaired, at mind; *apramattaH* = vigilantly; *dharmeNa balena ch
 While that great soul Rama is walking ahead, that great souled Lakshmana whose stride is also like that
 of an elephant, and whose deeds are agreeable to Rama, vigilantly protected Rama with an un-despaired
 mind and even by his virtue and strength. [4-1-127]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6581,8 +6327,6 @@ frightened; *na eva cicheSTa ceSTaam* = not, thus, gesticulated, any gestures - 
 He who is the chief of Vanara-s, who moves about Mt. Rishyamuka, while he is meandering thereabout he
 happened to see those two who are so amazing for a look, namely Rama and Lakshmana, by which he is so
 frightened that he is petrified. [4-1-128]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6641,8 +6385,6 @@ is engulfed under the weight of his fear. [4-1-129]
 **टिप्पनी**
 
 Here Dharmaakuutam depicts this:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 </details>
 
@@ -6696,8 +6438,6 @@ always; *shaakhaa mR^iga sevita antam* = by tree-branch, animals, adored, inland
 On seeing those magnificent two, Rama and Lakshmana, the monkeys are frightened and fled towards the
 pious hermitage of Sage Matanga, which has an inland that is always adored by monkeys for it is consolatory
 and sheltering them. [4-1-130]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

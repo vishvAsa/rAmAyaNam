@@ -17,8 +17,6 @@ Ravana reprimands Shuka and Sarana, asking them to leave the assembly. He again
 sends some spies to the place of Rama and Lakshmana. Those spies were got caught by Vibhishana and
 the monkeys start harassing them. But the compassionate Rama gets them released and the spies reach
 back Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -119,8 +117,6 @@ thunderbolt, the powerful Hanuman, the imincible Jambavan, Sushena, Kumuda, Nila
 excellent of monkeys, Gaja, Gavaksha, Sharabha, Mainda and Dvivida- that Ravana - his heart became
 agitated a little, was enraged and then abused those two heroes Shuka and Sarana who had completed
 their report.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -167,8 +163,6 @@ faces bent donw; *vaachaa* = in a voice; *roSagadgadayaa* = choked in anger;
 
 Ravana spoke (the following) excited and harsh words, in a voice choked in anger to
 Shuka and Sarana who stood saluting with their faces bent down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -215,8 +209,6 @@ who has the power; *nigrahe* = to mete out punishment; *pragrahe* = or reward.
 
 "It is not befitting to utter unpleasant words by dependent ministers to their king
 who has the power to mete out any punishment or reward."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -263,8 +255,6 @@ adverse to us; *abhivartataam* = and who are coming; *yuddhartham* = for war;
 
 "Is it proper for both of you to shower irrelevant praise on our enemies who are
 adverse to us and are approaching for a war?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -315,8 +305,6 @@ feet; *aachaaryaaH* = of your elders; *guravaH* = and your preceptors;
 
 "In vain have you sat at the feet of your elders, your preceptors and the aged,
 since the essence to be followed from political sciences has not been grasped by both of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -368,8 +356,6 @@ is a miracle; aham (that) I; *dharaami* = I am able to retain my sovereignity.
 "Or if you have imbibed them, you have not remembered them. You are over-burdened
 with ignorance! Being associated with such foolish ministers, it is a miracle that I am still able
 to retain my sovereignty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -417,8 +403,6 @@ to retain my sovereignty."
 
 "Have you no fear of death that you dare address me thus rudely, I whose tongue that
 you dare tongue dispenses good and evil?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -468,8 +452,6 @@ daN^DaparaamR^iSTaaH* = if touched by the royal scepter.
 
 "Trees may survive in the forest, even if disturbed by fire. But the guilty cannot
 survive, if touched by the royal scepter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -516,8 +498,6 @@ miscreants; *satrupakSaprashamsinau* = who are praising the band of enemies.
 
 "If my anger is not softened by the services they rendered earlier, I would have
 killed thse two miscreants who are praising the band of enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -570,8 +550,6 @@ here; *smaraani* = I am recollectin; *vaam* = your; *upakR^itaani* = services;
 "Keep away from my neighbourhood. Do not be seen anywhere here. I am recollecting
 your past services and hence do not wish to kill you. Both of you, who are ungrateful and
 unfaithful towards me, are just as dead to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -618,8 +596,6 @@ enlogised; *jayashabdena* = with words of victory.
 
 Hearing Ravana's words, Shuka and Sarana felt ashamed to see Ravana paid obeisance
 to him saying, "Be thou victorious!" and went away.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -672,8 +648,6 @@ standing nearby (as follows):- upasthaaya = bring; *me* = me; *chaaraan* = spies
 
 The demon Ravana spoke to Mahodara who was standing nearby as follows: "Bring me the
 spies here quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -743,8 +717,6 @@ their desire to see him victorious.
 Hearing those words, Mahodara immediately ordered for the spies. The spies came
 hurriedly as per the orders of the king, paid obeisance to him by joining their palms and
 approached him, having made a complement expressing their desire to see him victorious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -792,8 +764,6 @@ from fear.
 
 Then, Ravana the king of demons spoke the following words to those spies, who were
 faithful, brave, energetic and free from fear:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -842,8 +812,6 @@ intimate friends; *asya* = to him; *samaagataaH* = and those who joined;
 "You go from here to investigate about the first impression concerning Rama, as
 regards who are his intimate friends and in respect of those who joined on his side with a liking
 towards him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -890,8 +858,6 @@ ought to come; *vijJNaaya* = after acquainting with; *sarvam* = all this;
 
 "Find out what are his hours of sleeping and waking and what he intends to do next.
 You ought to come here, after acquainting with all this information completely and skillfully."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -938,8 +904,6 @@ a little; *yatnena* = of effort.
 
 "An enemy in battle, got known through spies by kings, will be defeated with only a
 little of effort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -987,8 +951,6 @@ little of effort."
 
 Those spies on their part delightfully replied, "May it be so", kept Shardula in
 their front and made their circumambulation clockwise around Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -1030,8 +992,6 @@ with Lakshmana (were there).
 
 Having thus made circumambulation to Ravana the excellent and the distinguished
 demon, the spies went to the place where Rama along with Lakshmana were there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -1078,8 +1038,6 @@ Lakshman; *sa sugriiva vibhiiSaNau* = together with Sugreeva and Vibhishana;
 
 Having gone in a disguised manner, those spies saw Rama and Lakshman together with
 Sugreeva and Vibhishana in the neighbourhood of Mountain Suvela.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -1126,8 +1084,6 @@ Vibhishana the Lord of demons; *dharmaatmanaa* = the high-souled.
 
 Seeing that army, those demons became overwhelmed with fear. However, they were
 observed by the high-souled Vibhishana the Lord of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -1175,8 +1131,6 @@ seized.
 
 Accidentally, the deomons there were caught by Vibhishana, who said that the demon
 Shardula among them was wicked and got him alone seized.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -1224,8 +1178,6 @@ kind man.
 
 That Shardula also, who was going to be killed by the monkeys, was got released by
 Rama. The other demons also were got released by Rama, the kind man.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 </details>
 
@@ -1276,8 +1228,6 @@ sigh; *anupraaptaaH* = and reached; *laN^kaam* = Lanka; *punaH* = again.
 
 Those demons, harassed by the courageous and the quick-paced monkeys, became
 insensible, heaved a sigh and reached back Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga29/yuddhasans29.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

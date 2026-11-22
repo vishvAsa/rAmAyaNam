@@ -17,8 +17,6 @@ IV : Kishkindha Kanda - The Empire of Holy Monkeys**
 Sampaati details Sage Nishaakara as to how his wings were burnt, when he and his
 brother Jataayu were flying competitively near at the sun. He says that he wanted to commit
 suicide, as his two wings, eagle kingdom, valour and even brother, are lost.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ of it, to sage [Nishaakara]; *aacacakSe* = [I have] informed.
 "Then I have informed the Sage Nishaakara all about that impossible and
 impracticable deed done indiscreetly by me and Jataayu and our following the Sun in red heat, as
 well..." Thus Sampaati continued his legend. [4-61-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ elaborately, to speak on; *na shaknomi* = no, capable I am.
 "Oh, godly sage, scorching sun has ulcerated me, shame perturbed my senses for not
 protecting Jatayu, further I am haggard to descend this mountain to come to you, such I am I am
 incapable to speak on, elaborately... [4-61-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -171,8 +165,6 @@ patitau* = far-away, on sky, we two fell - we flew up.
 
 "Fascinated by our arrogance and inquisitive of our relative triumphs, myself and
 Jataayu competitively flew up far-away on the sky... [4-61-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -220,8 +212,6 @@ us.
 
 "Before the sages on the peak of Mt. Kailash we have staked a stake that we two
 shall follow the Sun till he reaches the great westerly mountain, namely Mt. Dusk... [4-61-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -272,8 +262,6 @@ pR^ithak* = separately, singly; *apashyaava* = we have seen.
 "We reached the sky in a trice to a height wherefrom we could see each of the
 townships on the surface of earth, separately and singly, in the size of a chariot's wheel...
 [4-61-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -320,8 +308,6 @@ ladies; *pashyaavaH sma* = we saw; we have.
 
 "We have seen and heard instrumental music somewhere, and somewhere else tinkling of
 jewellery, and elsewhere singing of many ladies dressed in red... [4-61-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -371,8 +357,6 @@ shaadvala samsthitam* = that, forest, pasture [a patch of pasture,] positioned a
 
 "On our quick rising to the sky and abiding in solar path we have observed that a
 forest is positioned just as a patch of pasture on earth... [4-61-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -422,8 +406,6 @@ earth; *suutraiH samviitaa iva* = with yarn, interwoven, as with; [appeared to b
 
 "From there the earth covered with pebble like mountain heights appeared shingly,
 and interwoven with yarn like rivers the surface of the earth is thready... [4-61-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -481,8 +463,6 @@ Vindhya, also; *su mahaan giriH* = very, high, mountain; *meruH ca* = Meru, even
 
 "Himalayas, even Mt. Vindhya, and even the very high mountain Mt. Meru, shone forth
 like elephants in lakes... [4-61-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -499,8 +479,6 @@ invaded us.
 
 "Then there bechanced an abnormal sweating, tiredness and fear, and then stupor
 invading both of us, we two underwent a severe vertigo... [4-61-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -572,8 +550,6 @@ Gita, 12-5-
 
 The travail is for such as bend their minds / To reach th' Unmanifest.
 That viewless path / Shall scarce be trod by man bearing the flesh! - S. M. Arnold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -630,8 +606,6 @@ seen by us - saw the sun directly; *bhaaskaraH* = Sun; *pR^ithvii pramaaNena tul
 "Though my brainpower is deranged I again tried laboriously just depending on my
 sight. I again tried strenuously concentrating my brainpower and sight on Sun and I have directly
 seen the Sun. Then the Sun appeared in a size equal to the earth. [4-61-12, 13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -679,8 +653,6 @@ down.
 
 "Without informing me Jataayu started to trip over the earth, and then on seeing him
 I too let myself loose from the sky... [4-61-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -726,8 +698,6 @@ dagdhaH* = completely, burnt - by sun.
 
 "I have hidden Jataayu in sky with both my wings from the scorching Sun... hence, he
 is not burn that much... but I am completely burnt when falling from the sky... [4-61-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -743,8 +713,6 @@ aashanke* = in Janasthaana, fell down, I supposed; *aham tu* = I, for my part;
 
 "I supposed that Jataayu as has fallen in Janasthaana, but I have fallen on Mt.
 Vindhya, as a wing-burnt and insensate eagle... [4-61-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 </details>
 
@@ -793,8 +761,6 @@ top, I wished to fall.
 "As one who is divested of his kingdom, his brother, both of his wings, and his own
 valance too, such as I was I wished to fall from the mountaintop to die, in any way...
 [4-61-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

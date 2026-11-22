@@ -17,8 +17,6 @@ title = "१०७ राम-रावणयोर्भीषणयुद्ध
 Loosing arrows at each other, Rama and Ravana perform a fierce battle. Ravana's
 flag-staff is thrown down by Rama's arrows. When Rama begins to cut off Ravana's head, another head
 starts to crop up in its place. The fierce encounter continues thus for seven days.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -64,8 +62,6 @@ worlds; *pravR^ittam* = occurred; *raama raavaNayoH* = between Rama and Ravana.
 
 Then ensued a fierce and a prolonged chariot-duel between Rama and Ravana, which was
 frightful to all the worlds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -115,8 +111,6 @@ praharaNam* = having taken hold fast of their weapons; *samavartata* = stood;
 
 Then, the army of demons and the huge army of mokeys, stood motionless with their
 weapons held fast in their hands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -164,8 +158,6 @@ a great; *vismayam* = wonder.
 
 Having their hearts captivated in seeing those two warriors, a human being and a
 demon, both in full strength engaged in a fight, all for their part experienced a great wonder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -212,8 +204,6 @@ abhijagmuH* = they did not go for war; *parasparam* = on each other.
 
 Having their hands occupied with various kinds of weapons, all those warriors stood
 amazed in mind in beholding that duel. They did not go for war on each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -254,8 +244,6 @@ vaanaraaNaam cha* = and the army of demons; *raaghavam* = (seeing) Rama;
 
 The demons beholding Ravana and the army of monkeys seeing Rama with their eyes in
 amazement appeared as though they were paintings.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ svaviirya sarvasvam = the entire wealth of their prowess; *yuddhe* = in that bat
 Rama, who was convinced that he was going to win and Ravana who was firmly persuaded
 that he would die, then demonstrated the entire wealth of their prowess in battle on that
 occasion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -374,8 +360,6 @@ chariot; *raaghavasya* = of Rama.
 
 Thereupon, the valiant Ravana, fitting his arrows with anger, released them,
 directing them towards the flag-staff fixed on Rama's chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -425,8 +409,6 @@ ground.
 
 Without even reaching the ensign on Indra's chariot and touching off the staff which
 supported the banner of the chariot, the arrows fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 </details>
@@ -474,8 +456,6 @@ with his mind; *kartum kR^ita pratikR^itam* = to return blow for blow.
 
 Thereafter, the valiant Rama too, in great anger, stretching his bow, proceeded with
 his mind, to return blow for blow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -517,8 +497,6 @@ flag-staff.
 
 Rama released a sharp arrow, looking like a huge serpent and which was unbearable,
 as though blazing with its own splendour, directing towards Ravana's flag-staff.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -569,8 +547,6 @@ having torn asunder; *dashagriiva dhvajam* = Ravana's flag-staff; *jagaama* = we
 
 As the brilliant Rama released the arrow towards the flag-staff, that arrow, tearing
 asunder Ravana's flag-staf, entered the earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -630,8 +606,6 @@ That standard, mounted on Ravana's chariot, having been torn off, fell on the
 ground. Seeing the thrown-down piece of his flag-staff, that mighty Ravana stood blazing as though
 he was laughing with intolerance. Flaming up with anger, he showered a stream of arrows afflicted
 as he was, with the power of wrath.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -684,8 +658,6 @@ they were struck; *padmanaalaiH* = with lotus-stalks.
 Ravana struck Rama's horses with blazing arrows. Those divine horses were neither
 shaken nor stumbled in the battle-field. They were indeed healthy at heart and felt as though they
 were just struck with lotus-stalks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -729,8 +701,6 @@ released; *shara varSham* = showers of arrows.
 
 Seeing those horses unstumbled, Ravana then was very much enraged and released
 showers of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -751,8 +721,6 @@ iron bludgeous; *chakraaNi* = discs; *musalaani* = iron clubs;
 
 He also hurled maces, iron bludgeons, discs, iron clubs, mountain-tops, trees,
 spikes and axes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -768,8 +736,6 @@ thousands of; *baaNaan* = arrows.
 
 Unwearied as he was in his heart and in effort, Ravana then employed streams of
 missiles as a creation of magic and also thousands of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -816,8 +782,6 @@ missiles as a creation of magic and also thousands of arrows.
 
 In that battle, abundant rain of various missiles, which were tumultuous, generating
 fear, terrific and attended with a terrible echo, descended.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -866,8 +830,6 @@ the sky.
 
 Leaving alone Rama's chariot, Ravana released arrows on the army of monkeys on all
 sides, thus wholly covering the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -928,8 +890,6 @@ Ravana released arrows with a mind, which had given up all hope of survival. See
 that Ravana, who was interested in the battle, putting forth his great effort, Rama fitted Sharp
 arrows to his bow, as though laughing and thereupon he loosed the arrows in hundreds and
 thousands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1007,8 +967,6 @@ arrows.
 Seeing those arrows, Ravana completely covered the sky with his own arrows. Due to
 that dazzling shower of arrows then employed by the two warriors, the shining sky looked like a
 second sky built with arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1027,8 +985,6 @@ vain; *abhisamhatya* = colliding; *anyonyam* = with each other; *nipetuH* =
 While Rama and Ravana were discharging the arrows thus in the battle0field, no arrow
 missed the target, no one failed to pierce the target and none had gone in vain. Colliding with
 each other, they fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1078,8 +1034,6 @@ other); *ghoraiH sharaiH* = with their terrific arrows; *chakratuH cha* = they m
 
 Releasing the arrows left and right continually, they fought at each other. With
 their terrific arrows, they made the sky, bereft of even a breathing space.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1123,8 +1077,6 @@ each other; *kR^itaanukR^ita kaariNau* = doing anything before and after.
 
 Rama struck Ravana's horses. Ravana struck Rama's horses. Both the warriors then
 struck at each other, doing anything before and after.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1166,8 +1118,6 @@ causing the hair to stand erect.
 
 Those two extremely enraged warriors in this way, carried out are excellent combat.
 A tumultuous battle ensued for an hour or so, causing the hair to stand erect.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1219,8 +1169,6 @@ flag-staff was thrown down.
 The mighty Ravana and Rama carried out the fight well with sharp arrows in the
 battle-field. That Ravana at that time was very much enraged with Rama, as his flag-staff was
 thrown down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1267,8 +1215,6 @@ Rama and Ravana; *tathaa* = who were thus; *yudhyamaanau* = fighting; *samare*
 
 All the created beings for their part gazed with an astonished mind on Rama and
 Ravana, who thus were fighting at each other in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1311,8 +1257,6 @@ each other.
 
 Furiously attacking each other in the battle-field, those excellent chariots of the
 two warriors ran towards each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1363,8 +1307,6 @@ assumed; *ghoraruupaa* = a terrible aspect.
 Intent on destroying each other, those chariots, displaying various types of
 movements such as, moving in circles, moving straight and darting forward as also receding
 forthwith, originated from the capabilities of those charioteers, assumed a terrible aspect.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1411,8 +1353,6 @@ them); *samaapannau* = had recourse to; *gativegam* = speed in movement;
 
 Rama wounding Ravana and Ravana too wounding Rama, both of them had recourse to
 speed in movement in their forward and backward motions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1462,8 +1402,6 @@ casting; *sharajaalaami* = streams of arrows; *cheratuH* = strolled;
 
 Those excellent chariots, casting streams of arrows, strolled in the battle-field,
 like two clouds pouring showers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1507,8 +1445,6 @@ facing; *parasparasya* = each other.
 
 Showing various kinds of movement in the battle-field, those chariots then again
 stood facing each other.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1551,8 +1487,6 @@ vaajinaam* = of the horses (met) the one with the other; *pataakaaH* = and the f
 The shaft of the two chariots even as they stood at that moment, met one with the
 other shaft the muzzle of the horses met the one with the other and the flags met the one with the
 other flags.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1599,8 +1533,6 @@ splendid; *hayaan* = horses; *raavaNasya* = of Ravana.
 
 Then Rama, with his four sharp arrows discharged from his bow, drove back the four
 splendid horses of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1641,8 +1573,6 @@ Rama.
 
 That Ravana, falling a prey to anger for retreating his horses, discharged sharp
 arrows on Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1682,8 +1612,6 @@ arrows on Rama.
 
 Rama, who was severely struck by the mighty Ravana, did not get upset nor was even
 tottered.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1733,8 +1661,6 @@ with a sound similar to that of a thunder-bolt.
 
 Directing towards Matali, Indra's charioteer, Ravana hurled arrows with a sound
 similar to that of a thunder-bolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1781,8 +1707,6 @@ bewilderment; *vyathaam vaa* = or hurt (on him); *yudhi* = in the battle.
 
 Arrows of great speed, fallen on Matali's body, did not cause even a pretty little
 of bewilderment or hurt on him in that battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1827,8 +1751,6 @@ his net work of arrows (on him).
 
 Enraged at that daring attack on Matali, Rama who for his part did not feel provoked
 by the attack on himself, made his enemy turn away by hurling a net work of arrows on him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1875,8 +1797,6 @@ by the attack on himself, made his enemy turn away by hurling a net work of arro
 
 The valiant Rama discharged twenty, thirty, sixty and hundreds and thousands of
 arrows on the enemy's chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1923,8 +1843,6 @@ varSheNa* = by showering maces and mallets (on him); *raNe* = in the battle.
 
 Thereupon, even Ravana, the enraged king of demons, who was seated in the chariot,
 tormented Rama, by showering maces and mallets on him in the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -1971,8 +1889,6 @@ seven ocean; *kShubhitaaH* = became agitated.
 The battle thus started again by then, was tumultuous, causing one's hair to stand
 erect. With the sounds of maces, mallets and iron rods and with the gusts raised by the plumes
 adorning the flying arrows, the seven agitated oceans felt disquieted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2013,8 +1929,6 @@ agitated oceans; *vyathitaaH* = felt disturbed.
 
 Thousands of all the demons and serpents, inhabiting in the nethermost subterranean
 region of the agitated oceans, felt disturbed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2050,8 +1964,6 @@ shailavanakaananaa* = including mountains; groves and forests; *chakampe* = trem
 
 The entire earth, including mountains, groves and forests trembled. The sun too
 became gloomy even the wind did not blow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2094,8 +2006,6 @@ obtained; *chintaam* = anxiety.
 Then, the gods along with Gandharvas the celestial musicians, Siddhas the
 semi-divine beings, great sages and all including Kinnaras the mythical beings and great serpents
 became disquieted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2172,8 +2082,6 @@ one's hair to stand on end.
 At that time, those gods along with troops of sages, saying "May all be well with
 the cows and Brahmanas, May all the worlds endure forever, May Rama conquer Ravana!", saw a
 terrific battle between Rama and Ravana, which caused one's hair to stand on end.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 </details>
@@ -2229,8 +2137,6 @@ Seeing that matchless struggle and observing that the sky is its own compeer and
 ocean is its own analogue, the battle between Rama and Ravana can be likened only to the battle
 between Rama and Ravana, the hosts of Gandharvas the celestial musicians and Apsaras, the heavenly
 lymphs, looked on that battle between Rama and Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2280,8 +2186,6 @@ Thereupon, the great-armed Rama who augmented the fame of the kings born in Ragh
 dynasty, stretching with anger, the serpent-like arrow with his bow, chopped off the glorious head
 of Ravana, which was graced with blazing ear-rings. Then, all the three worlds saw that head,
 fallen on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2327,8 +2231,6 @@ similar; *tasyaiva* = exactl to that head; *utthitam* = cropped up;
 Another head, exactly similar to that head, cropped up on the shoulders of Ravana.
 That second head was again chopped off by Rama, possessing a swift hand and who was swift in his
 act.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2375,8 +2277,6 @@ battle; *tat shiirSham chhinnamaatram* = soon after that head was chopped off;
 
 The second head of Ravana was cut off by arrows in that battle. Soon after that head
 was chopped off, it again rose into view.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2426,8 +2326,6 @@ of heads; *tulyavarchasaam* = of equal splendour; *chhinnam* = were chopped off.
 
 Rama chopped off that head too with his arrows looking like thunderbolts. In the
 same manner, a hundred of Ravana's heads of equal splendour were chopped off by Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2495,8 +2393,6 @@ thoughtful (said to himself as follows:)
 Yet, no certainty about Ravana's death could be seen. Thought equipped with many
 arrows and well-versed with all kinds of missiles, the valiant Rama, the augmentor of Kausalya's
 joy, then became thoughtful (said to himself as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2522,8 +2418,6 @@ Kroucha-forest, and Viradha in Dandaka-forest were killed, by which seven Sala t
 mountains were burst, by which Vali was killed and the ocean shaken up all these arrows which
 provided immediate succour to me in battle, have proved of little efficacy in the case of
 Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2564,8 +2458,6 @@ Ravana."
 
 Thus absorbed in thought, Rama remained vigilant in the battle-field. He showered
 streams of arrows in Ravana's chest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2606,8 +2498,6 @@ varSheNa* = by showeing maces and mallets (on him); *raNe* = in the combat.
 
 Thereupon, even Ravana, the enraged king of demons, who was seated in his chariot,
 tormented Rama by showering maces and mallets on him in the combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2649,8 +2539,6 @@ mountain.
 
 That great tumultuous battle, which caused one's hair to stand on end, took place in
 the sky, on the ground and furthermore on the mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2697,8 +2585,6 @@ battle; *avartata* = occurred; *saptaraatram* = for seven days.
 
 While the gods, the demons, Yakshas the super-natural beings, the devils, the
 serpents and the ogres were witnessing, that great battle occurred for seven days.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2739,8 +2625,6 @@ upagachchhati* = occurred in the night; *na* = nor; *divasam* = in the day;
 
 There was no respite in battle between Rama and Ravana, either in the might or in
 the day-time or for an hour or even for a instant.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 </details>
 
@@ -2795,8 +2679,6 @@ Rama; who was still engaged in fighting.
 Not beholding the victory of Rama in the combat between Rama and Ravana that
 great-souled Matali, the charioteer of Indra quickly spoke the following words to Rama, who was
 still engaged in fighting.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2819,8 +2701,6 @@ portents; *tatra* = there (in the battle).
 Having made up their minds and being firm in their anger, those two warriors for
 their part, Rama and Ravana fought fearlessly, as it were, on seeing the portents in the
 battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

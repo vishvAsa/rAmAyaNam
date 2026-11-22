@@ -20,8 +20,6 @@ of monkeys and bears to cross the ocean. Hanuma explains to Seetha about the str
 and assures her about their ability to cross the ocean. In the end, Hanuma consoles Seetha by promising
 to bring Rama and Lakshmana on his back across the sea so that they will together destroy the City of
 Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -76,8 +74,6 @@ Rama.
 
 Then, after giving the jewel for head, Seetha spoke to Hanuma as follows: "This token
 of remembrance is actually known to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ and the king; *dasharathasya* = Dasaratha.
 
 "By seeing this jewel, the heroic Rama can recollect three of us, viz. my mother, myself
 and the king Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -204,8 +198,6 @@ undertaking this task.
 
 "O Hanuma the excellent among monkeys! Driven by your enthusiasm again, think what remains
 to be done in undertaking this task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -224,8 +216,6 @@ to be done in undertaking this task."
 "O Hanuma the best among monkeys! You are capable of fulfilling this task. O Hanuma!
 Become the one who can remove my misfortunes, by employing your effort. If you think of it carefully,
 your effort will become the one which can remove my misfortunes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -304,8 +294,6 @@ his salutation; *shirasaa* = by bowing his head; *vaidehiim* = to Seetha; *upach
 
 That Hanuma of terrific prowess, having promised 'so be it', offered salutation to Seetha
 by bowing his head to her and was set off to go.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -320,8 +308,6 @@ words; *baaSpagadgadayaa* = with her voice choked by tears.
 
 Getting to know Hanuma ready to set out, Seetha the princess spoke the following words
 with her voice choked by tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -376,8 +362,6 @@ all the monkeys; *vR^iddhaan* = who are elder.
 "O Hanuma, the excellent among monkeys! Ask about the welfare of both Rama and Lakshmana
 together. You also ask, according to our usage, about the welfare of Sugreeva together with his ministers
 and of all the monkeys who are elder."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -427,8 +411,6 @@ samrodhaat* = ocean of misfortunes.
 
 "You deserve to evolve a strategy through which the long-armed Rama can make me to cross
 over this ocean of misfortunes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -479,8 +461,6 @@ word.
 
 "O Hanuma! Tell, in whatever manner, by which the illustrious Rama can console me, even
 while I am still surviving. Reap righteousness, by helping me through your word."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -530,8 +510,6 @@ will by intensified; *madavaapyate* = to recover me.
 
 "Constantly hearing the words endowed with energy spoken by you, Rama's manly strength
 will be intensified to recover me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -581,8 +559,6 @@ raaghavaH* = Rama; *vidhivat samvidhaasyati* = will duly set his heart; *paraakr
 
 'Hearing the words containing my message from you, the valiant Rama will duly set his
 heart in exercising his strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -632,8 +608,6 @@ _________________
 
 Hearing the words of Seetha, Hanuma the son of wind-god, having placed his open hands
 side by side, slightly shallowed on his head in salutation), spoke the following words in reply.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -683,8 +657,6 @@ _________________
 
 "Coming soon together with valiant monkeys and bears, Rama after defeating the enemies
 in battle, will eliminate your sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -735,8 +707,6 @@ able; *sthaatum* = to stand; *agrataH* = before; *yaH* = that Rama; *yudhi*
 
 "While discharging his arrows, none can be seen either in men or in monkeys or in celestials
 who are able to stand before Rama in battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -786,8 +756,6 @@ to endure; *arkamapi* = even the sun-god; *parjanyam api* = even Indra the god o
 
 "That Rama is capable of enduring even the sun-god, even Indra the god of rain or even
 Yama the god of death, son of the sun-god a battle-field especially for your sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -837,8 +805,6 @@ _________________
 
 "Rama is indeed worthwhile to master the entire earth bounded by the ocean. O Seetha!
 Rama's victory is indeed for your sake."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -914,8 +880,6 @@ abraviit* = spoke; *idam* = these; *vachanam cha* = words too.
 
 Hearing those words of Hanuma, spoken rightly and truly well, Seetha held him in great
 respect and proceeded to speak (the following) words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -931,8 +895,6 @@ words; *bhartR^isnehaanvitam* = endowed with friendliness for her husband.
 
 Thereupon, looking again and again towards that Hanuma who was going away, Seetha kind-heartedly
 adored his words endowed with friendliness for her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -982,8 +944,6 @@ _________________
 
 "O valiant monkey, the annihilator of enemies! If you are agreeable, stay for a day at
 any one secret place. After taking rest, you can go tomorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1030,8 +990,6 @@ any one secret place. After taking rest, you can go tomorrow."
 
 "O Hanuma! Because of your vicinity, there may be a relief for a moment to this great
 sorrow of me, who is less fortunate."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1081,8 +1039,6 @@ you go; *punaraagamanaaya* = for your return; *syaat* = there will be; *sandehaH
 
 "O Hanuma the lion among the monkeys! If after that, there is any doubt about your return,
 there is a doubt even for my survival too. There is no suspicion about this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1132,8 +1088,6 @@ diipayanniva* = like a burning flame.
 
 'O Hanuma! To me, who is tormented by one grief after another grief, my sorrow due to
 your disappearance will further torment me, like a burning flame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1186,8 +1140,6 @@ you; *ayam* = this; *sumahaan* = highly great; *sandehaH* = doubt; *tiSThatiiva*
 
 "O best among the monkeys! O valiant one! In the matter of monkeys and bears who are
 your helpmates, this highly great doubt is lingering before me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1208,8 +1160,6 @@ two princes; *tariSyanti* = can cross; *duSpaaram* = the insurmountable; *mahoda
 
 "How indeed can those troops of monkeys and bears or Rama and Lakshmana can cross that
 great insurmountable ocean?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1259,8 +1209,6 @@ _________________
 
 "Three beings viz. Garuda the eagle, or yourself or the wind-god only have the capacity
 of crossing this ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1311,8 +1259,6 @@ any work.
 
 "O valiant monkey! That is why, what strategy are you visualizing to fulfill this act,
 which is thus impassable? You are indeed excellent of those who know how to accomplish a task.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1362,8 +1308,6 @@ your; *phalodayaH* = fulfillment of result; *yashasyaH* = is famous.
 
 "O Hanuma the annihilator of hostile enemies! You, as one alone, is capable of fulfilling
 this task. Your act of fulfilling the result is well-known."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1413,8 +1357,6 @@ bhavet* = it will be worthy; *tasya* = of him.
 
 "If Rama defeats Ravana with his entire army in battle and as a champion takes me back
 to his own city, it will be quite worthy of him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1464,8 +1406,6 @@ sadR^isham bhavet* = will be worthy; *tasya* = of him.
 
 "If Rama, the destroyer of rival army, fills the entire Lanka with his arrows and takes
 me home, it will be quite worthy of him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1512,8 +1452,6 @@ man; *aahavashuurasya* = valiant in battle; *bhavet* = may become; *vikraantam*
 
 "For that reason, you act in such a way, that Rama the high-souled man, valiant in battle,
 may exhibit the prowess befitting of him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1563,8 +1501,6 @@ vaakyam* = reply.
 
 Hearing those words, which were meaningful humble and attended with reason, Hanuma gave
 his final reply (as follows)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1614,8 +1550,6 @@ strength; *kR^itanishchayaH* = is firmly determined; *tava arthe* = in your caus
 
 "O Seetha the princess! Sugreeva, the Lord of the troops of monkeys and bears and the
 premost among the monkeys, who is endowed with strength, is firmly determined in your cause."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1662,8 +1596,6 @@ demons.
 
 "O Seetha! That Sugreeva, endowed with thousands and crores of monkeys, will come soon
 to destroy the demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1707,8 +1639,6 @@ _________________
 
 "So many monkeys, endowed with prowess, perseverance, great strength and who can rush
 to any place as they wish are intensely committed to Sugreeva's command.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1757,8 +1687,6 @@ great tasks.
 "There is no hindrance to their movement either in the sky or in the ground or in any
 horizontal region (between the sky and the ground) with unlimited splendour are not indolent in performing
 any great task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1808,8 +1736,6 @@ earth; *sa saagaradharaadharaa* = with its oceans and mountains; *pradakSiNiikR^
 
 "The earth with its oceans and mountains has been circumambulated clockwise many times
 by those monkeys, who are highly energetic and who follow the aerial path."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1856,8 +1782,6 @@ me.
 
 "In them, some of the monkeys are superior to me and some are even equal to me. No one
 in the vicinity of Sugreeva is inferior to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1904,8 +1828,6 @@ in the vicinity of Sugreeva is inferior to me."
 
 "When I have arrived here, why to talk about the mighty ones? Generally, superior ones
 are not sent for errands. Only others are indeed sent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -1952,8 +1874,6 @@ vyapaitu* = be removed; *te* = those; *hariyuuthapaaH* = leaders of monkeys; *eS
 
 "O Seetha the princess! Enough of your lamentation. Take away your sorrow. Those leaders
 of monkeys will reach Lanka by one single leap."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2003,8 +1923,6 @@ too; *mahaasathau* = of great strength; *mama pR^iSThagatau* = sitting on my sho
 
 "Rama and Lakshmana, those two lions among men also of great strength, ascending on my
 shoulders, can come to you, like the rising sun and the moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2051,8 +1969,6 @@ coming; *sahitau* = together; *vidhamiSyataH* = can destroy; *laN^kaamnagariim*
 
 "Coming together, Rama and Lakshmana the valiant and the excellent among men, can destroy
 the City of Lanka with their arrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2102,8 +2018,6 @@ _________________
 
 "O Seetha with a good waist! Rama, the delight of Raghu dynasty, killing Ravana together
 with his troops, will return to his town, duly taking you with him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2150,8 +2064,6 @@ the time; *drakSyase* = you shall see; *na chiraat* = within a short time; *raam
 
 "For that reason, console yourself indeed! Happiness to you! If you wait for some time,
 you shall see, within a short time, Rama like a blazing fire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2205,8 +2117,6 @@ will meet Rama, as Rohini* met the moon."
 **टिप्पनी**
 
 *Rohini: A consort of the moon-god, presiding over a constellation of the same name.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2256,8 +2166,6 @@ also see; *raavaNam* = Ravana; *nihatam* = as destroyed; *raameNa* = by Rama.
 
 "O Seetha the princess! You shall see the end of your sorrow soon. Within a short time,
 you will also see the end of Ravana, as destroyed by Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2307,8 +2215,6 @@ Seetha; *hanumaan* = Hanuma; *maarutaatmajaH* = the son of wind-god; *kR^itva*
 
 Thus consoling Seetha, Hanuma the son of wind-god made up his mind to go back and spoke
 to Seetha again as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2359,8 +2265,6 @@ you will see (them).
 
 "That Rama the annihilator of enemies, who firmly decided to destroy his adversaries
 and Lakshmana wielding a bow in his hand will soon reach the entrance of Lanka and you will see them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2407,8 +2311,6 @@ simha shaarduula vikramaan* = having the prowess of lions and tigers; *vaaraNend
 
 "You can see soon those valiant monkeys, with their claws and tusks as weapons, having
 the prowess of lions and tigers and looking like lordly elephants, coming together."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2458,8 +2360,6 @@ the peaks of Malaya mountain in Lanka.
 
 "O venerable lady! You shall see many troops of excellent monkeys resembling hills and
 clouds, thundering on the peaks of Malaya mountain in Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2506,8 +2406,6 @@ clouds, thundering on the peaks of Malaya mountain in Lanka."
 
 "Hit in the vitals by the darts of venerable Manmatha the god of love, Rama is not obtaining
 happiness, as an elephant gets tormented by a lion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2559,8 +2457,6 @@ the husband as her protector.
 "O Seetha the princess! Do not weep with grief. Let your mind be without any unpleasantness.
 You are indeed having Rama your husband as your protector like Shachi having Indra her husband as a
 protector."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2608,8 +2504,6 @@ to you.
 
 "Who else is there greater than Rama or who else equal to Lakshmana? Those two brothers,
 like fire and wind, are supportive to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 </details>
 
@@ -2665,8 +2559,6 @@ my meeting (with Rama my return).
 "O Seetha the princess! You will not stay for long at this place, which is very terrific
 and occupied with a multitude of demons. The arrival of your husband will not be delayed. Be patient
 till the moment of my meeting with Rama on my return."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

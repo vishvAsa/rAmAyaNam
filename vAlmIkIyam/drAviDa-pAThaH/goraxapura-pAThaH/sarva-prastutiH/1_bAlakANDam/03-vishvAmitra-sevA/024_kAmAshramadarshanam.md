@@ -17,8 +17,6 @@ While crossing over the River Ganga, sage Vishvamitra sails them through its con
 River Sarayu, which flows at their capital Ayodhya. The sage leads them to a deadly forest
 on the other bank of River Ganga and narrates about the ambushing nature of demoness Tataka,
 preparing him to kill her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ now] performed morning ritual tasks, Vishvamitra; *puraskR^itya* = keeping ahead
 Then, in the fresh of the morning those enemy destroyers, Rama and Lakshmana, arrived at the
 riverbank of Ganga keeping sage Vishvamitra ahead of them, which sage has just completed his
 ritualistic chores of dawn. [1-24-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ upasthaapya* = nearby positioning auspicious ferryboat; *atha vishvaamitram abru
 All those sages of Kaama's hermitage that are the great souls and scrupulous ones in their
 vows, have positioned an auspicious ferryboat within the reach in the river, and then they
 said to sage Vishvamitra. [1-24-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -172,8 +166,6 @@ not be there - without time-shift.
 
 "You may board the boat keeping the princes ahead of you, and we wish you to proceed on a
 prosperous route without the shift of time." So said the sages. [1-24-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -214,8 +206,6 @@ tataara* = crossed over.
 
 Sage Vishvamitra on saying 'it must be so,' to those sages and revering them in his turn,
 cruised the river that itself is cruising towards ocean, along with both the princes. [1-24-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ he, Rama, with younger brother; *j~naatukaamaH* = desired to know; *mahaatejaaH*
 On coming to the midstream of water there Rama heard an unusual and increasing noise of gushy
 waters along with his younger brother, and that brilliant one Rama desired to know its significance.
 [1-24-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -316,8 +304,6 @@ sound.
 
 Rama then asked the eminent sage Vishvamitra in the midst of the river, "what is this turbulent
 sound sire, as though slashing water?" [1-24-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -357,8 +343,6 @@ nishchayam* = of that, sound's, significance; *kathayaamaasa* = started telling.
 
 On hearing the inquisitive words of Raghava that virtue-souled sage Vishvamitra started to
 tell the significance of that sound. [1-24-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -405,8 +389,6 @@ at will, created - lake is the brainchild of Brahma; *tena* = hence; *idam saraH
 
 "On Mt. Kailash Brahma created a great lake at his will, oh, tigerly-man Rama, hence that
 is called Maanasa Lake. [1-24-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -481,8 +463,6 @@ this is known as Sarayu. And because it flows from Brahma's Lake it is a merited
 is the remarkable noise of such a Sarayu River in its coursing towards River Ganga, generated
 by the collision of their waters, and Rama, offer regards to these rivers, respectfully."
 So said Vishvamitra to the princes. [1-24-9b, 10, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -526,8 +506,6 @@ those, two; *taabhyaam tu* = to them [ the two rivers]; *kR^itvaa praNaamam*
 
 Offering their salutations to River Sarayu and Ganga those two most virtuous and agile footed
 princes proceeded further on reaching the southern riverbank. [1-24-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -573,8 +551,6 @@ in looks; *aviprahatam* = [a-vi-pra-hatam = not, verily, trodden] = untrodden - 
 
 On seeing a horrendous and uninhibited forest, Rama, the son of the best king Dasharatha asked
 the eminent sage Vishvamitra. [1-24-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -634,8 +610,6 @@ with; *idam vanam durgam* = this, forest, difficult to enter - impenetrable.
 
 "Oh, impenetrable is this forest fraught with swarms of crickets, brutish predators, and vultures,
 which are all horribly strident. [1-24-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -651,8 +625,6 @@ also, even; *shobhitam* = made to shine - atypical.
 
 "Various vultures are screeching with fierce sonority, and tigers, wild boars, and elephants
 render this forest atypical. [1-24-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -714,8 +686,6 @@ Tinduka, Patala, and Badari trees." Thus Rama asked Vishvamitra. [1-24-15b, 16a]
 The botanical names of the trees mentioned in the text are Grislea Tormentosa, Shorea Robusta,
 Echites Antidysenterica, Bignonia Suaveolens, Aegle Marmelos, and Diospyrus Glutinosa. I have
 omitted the Kutaja (Echites) and the Tinduka (Diospyrus). Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -756,8 +726,6 @@ hear - I will tell you, my boy; *kaakutstha* = oh Rama; *etat daaruNam vanam yas
 
 The resplendent and the great saint Vishvamitra then said to Rama, "I will tell you, oh, my
 boy Rama, whose is this wretched forest. [1-24-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -816,8 +784,6 @@ If mortal hunger is there excreta will be there and then mortality of Indra is a
 if hunger is eliminated there will be nothing filthy. Once these provinces were such hunger
 removers equalling to heaven, but deteriorated in their heaven-on-earth attributes, owing
 to demoness Tataka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -860,8 +826,6 @@ befell upon.
 "Once upon a time, oh, Rama, mortal impurities of filth and hunger completely stained Indra
 when he eliminated demon Vritra, as he committed the sin of killing of a Brahman, where the
 demon Vritra was incidentally a Brahman. [1-24-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -902,8 +866,6 @@ filth.
 
 "The gods and ascetically rich sages then started to bathe feculent Indra with their handy
 vessels for the riddance of his defilement. [1-24-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -943,8 +905,6 @@ thus; *datvaa* = on giving; *tataH devaaH harSam prapedire* = then gods obtained
 
 "On giving filth and hunger emerged out of the body of Mahendra here on the earth then the
 gods were gladdened. [1-24-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -1003,8 +963,6 @@ varam praadaat* = he gave unexcelled boon.
 
 "As and when Indra was without desecration and hunger as well, and thus purified, then gladdened
 about this place he gave it an unexcelled boon. [1-24-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1021,8 +979,6 @@ cha* = as Malada, and Karuusha, also; *loke khyaatim gamiShyataH* = they will at
 "These provinces that bear the impurity of my body shall become resourceful and they shall
 attain renown in world as Malada and Karusha." Thus Indra gave boon to this place. [1-24-22b,
 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -1063,8 +1019,6 @@ paakashaasanam* = controller of demon Paaka - to Indra; *abruvan* = said - prais
 
 "On observing the honour accorded by wise Indra to these places gods praised the controller
 of demon Paaka, namely Indra saying, 'splendid, splendid it is.' [1-24-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -1114,8 +1068,6 @@ etau janapadau* = these people's habitations were affluent; *dhanadhaanyataH mud
 
 "For a long time these habitations Malada and Karuusha were affluent, oh, enemy subjugator
 Rama, and people were happy with wealth and provisions. [1-24-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -1204,8 +1156,6 @@ there - prevailed, indeed; *bhadram te* = safety, to you.
 "Later at sometime, a yaksha female who is a guise changer at her wish, possessor of the strength
 of a thousand elephants, wife of clever Sunda, and she whose son is demon Mareecha, the
 one equal to Indra in his bravery, prevailed here, let you be safe Rama. [1-24-25b, 26, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1221,8 +1171,6 @@ traasayate prajaaH* = always, terrifying, people.
 
 "That demon Mareecha is round shouldered, huge headed, cavernous mouthed, and gigantic bodied
 one, and he is always terrifying the people. [1-24-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -1264,8 +1212,6 @@ one, Tataka; *imau janapadau* = these, inhabitations; *maladaan cha karuuSaan ch
 
 "And Raghava, that malevolent Tataka is always destroying the inhabitations at Malada and
 Karusha. [1-24-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -1334,8 +1280,6 @@ made, to eradicate her and her activities. [1-24-29b, 30a]
 
 This verse also means 'where there is the forest of Tataka there we have to go.' The above
 is another shade of that verse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1356,8 +1300,6 @@ and assigned by me you have to make this province free from thorniness. [1-24-30
 
 Great persons accomplish their deeds by their self-confidence, *kriyaasiddhiH sattve bhavati
 mahataam, nopakaraNe* not by their hardware.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -1411,8 +1353,6 @@ hi* = none, not, capable, indeed; [hence make them habitable.]
 "Indeed, none is able to enter this sort of province, Rama, destroyed by the hazardous
 and invincible unearthly being who turned into a demoness, namely Tataka, hence you have to
 make the provinces habitable. [1-24-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 </details>
 
@@ -1457,8 +1397,6 @@ to you.
 "As to how that ghoulish Tataka destroyed this entire forest, rendering it as a devastated
 place, without refraining from it even today, all that is narrated." So said Vishvamitra to
 Rama. [1-24-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

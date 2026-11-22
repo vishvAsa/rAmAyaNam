@@ -20,8 +20,6 @@ Sugreeva's knowledge of physical world is acquired when Vali put him to flight. 
 to how Sugreeva has many details of lands, countries, rivers, and mountains. In reply, Sugreeva says that when
 repulsed by Vali he was on the run to pillar to post, until he finally settled on Mt. Rishyamuka. During such
 a plighted flight, Sugreeva says, he acquired a direct and personal knowledge of earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ Rama, to Sugreeva, spoke; *bhavaan* = you; *bhuvaH sarvam maNDalam* = of earth, 
 
 When the chiefs of monkey-troops are on their way Rama spoke to Sugreeva, "Indeed, how do you know very-well about
 the globe of earth in its entirety?" [4-46-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -121,8 +117,6 @@ the globe of earth in its entirety?" [4-46-1]
 **अनुवादः**
 
 Then Sugreeva bowing down before Rama said, "I will narrate all vividly, and let my words be heard." [4-46-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -198,8 +192,6 @@ in the first instance for a fight with Vali. But on seeing Vali and Sugreeva, Du
 the cave with Maayaavi and somehow escaped from there, and thus only Maayaavi is killed by Vali. Later Dundubhi
 came at the gate of Kishkindha and was killed by Vali. Hence, Sugreeva's referring to Dundubhi here includes both
 Maayaavi and Dundubhi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 
 </details>
@@ -246,8 +238,6 @@ a year, lapsed; *vaalii na niS kramate* = Vali, not, out, coming - exiting from 
 
 "Vali then kept me at the mouth of the cave as I was an amenable brother, but Vali did not exit from cave even
 after one full year. [4-46-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -294,8 +284,6 @@ I was agonised.
 
 "I was dumbfounded to see that cave is then fully filled with blood, and then a venom like anguish called the
 loss of my brother agonised me. [4-46-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -346,8 +334,6 @@ similar, boulder; *bila dvaari kR^itaa* = cavity, in mouth, made [fixed];
 "Then I concluded that 'my brother is unmistakably killed,' and then I fixed a mountain similar boulder in the
 mouth of that cavity with a thinking that it will be impossible for that buffalo to exit and it will get destroyed
 within that cave itself. [4-46-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -414,8 +400,6 @@ aashaH* = without, hope; *kiSkindhaam aagaam* = to Kishkindha, I came; *su mahat
 
 "Unhopeful of Vali's aliveness then I arrived in Kishkindha, and on getting the very magnificent kingdom of Kishkindha,
 and also Ruma along with Tara, I was peaceably staying there with friends. [4-46-8, 9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -461,8 +445,6 @@ spellbound; *gauravaat raajyam adadaam* = owing to deference, kingdom, gave back
 
 "Vali then came back to Kishkindha on killing that great demon, and then I was spellbound in fear of Vali's killing
 me, and I gave back the kingdom to Vali owing to my deference to him. [4-46-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -508,8 +490,6 @@ away; *jighaansuH* = wishing to kill - me; *krodhaat pari kaalayate* = furiously
 
 "That evil-minded Vali becoming highly perturbed at his senses furiously repulsed me further and further away,
 even though I was running away from him with my ministers, as he wished to kill me. [4-46-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -566,8 +546,6 @@ also; *pashyan* = on seeing; *pra dhaavitaH* = rapidly, made to run away - chase
 
 "Such as I was, who is repulsed by Vali, I was made to run away rapidly, and during that fleeing I went on seeing
 diverse rivers, forests and cities. [4-46-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -585,8 +563,6 @@ cow-hoof-print, [made as,] indeed.
 the objects in exactness, and the earth is like the circle of a fireball, where it is encircled with fire-like
 reddish, brownish, ochreish minerals and ores, and it appeared to me in my high flight like a cow-hoof-print in
 the mirror, called my perception. [4-46-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -635,8 +611,6 @@ ca* = numerous, lakes, also; *pashyaami* = I saw.
 
 "Then on going to eastern direction I saw various trees, enchanting mountains with caves, and also numerous lakes.
 [4-46-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -682,8 +656,6 @@ caiva* = Milk Water, oceans, also thus; *pashyaami* = I saw.
 
 "There I saw the mountain wreathed in with ores, namely Mt. Udaya, the Sun-Rise, and I have also seen the Milk
 Water Oceans which is forever an abode for apsara-s. [4-46-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -733,8 +705,6 @@ travel - chased to flee.
 
 "I fled speedily when Vali repulsed me, but oh, lord Rama, when I returned he again made me to flee forthwith.
 [4-46-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -780,8 +750,6 @@ sandalwood, trees, enriched; *dakshiNam disham prasthitaH* = to southern, direct
 
 "Then from that eastern direction I fled to southern direction, which is thick with Vindhya Range mountains and
 diverse trees, especially with sandalwood trees. [4-46-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -831,8 +799,6 @@ I reached. [Here aparaam means doubly 1. another, 2. west quarter.]
 
 "While I was seeing the interiors of forest and mountains again I was made to run by Vali, who was setting upon
 me from within the interiors of those forests and mountains, and then I reached the western direction. [4-46-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -879,8 +845,6 @@ north; *sam pra dhaavitaH* = very, much [by a long way,] ran [took to my heels.]
 
 "Such as I was, on seeing diverse cities and the best mountain Astagiri, Mt. Dusk, I reached that excellent Mt.
 Dusk also, and since Vali is at my heel, I took to my heels, by a long way to north. [4-46-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -937,8 +901,6 @@ his prosperity, Hanuma; *maam vaakyam abraviit* = to me, word, said.
 "Even at Himalayas, Mt. Meru, like that at the Northern Ocean, Vali drove me back, and when the clemency from
 Vali, or a shelter, or even a foothold on earth was indeterminable, then Hanuma, whose prosperity is his wisdom,
 said a word to me. [4-46-20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -995,8 +957,6 @@ tension [imperturbable]; *bhaviSyati* = it will be.
 enters the fringes of the hermitage of Sage Matanga, Vali's head gets splintered in hundred ways. Hence dwelling
 in sage Matanga's hermitage will be peaceful and imperturbable for us.' Thus Hanuma spoke to me. [4-46-21b, 22,
 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 </details>
 
@@ -1072,8 +1032,6 @@ evam* = in this way; *tadaa* = at that time; *sarvam pR^ithivii maNDalam* = enti
 Sage Matanga and his curse, oh, king Rama, thus this globe of earth is apparently and closely sighted by me in
 its entirety, and then I came into the cave of Rishyamuka and did not stir out." So said Sugreeva to Rama. [4-46-23b,
 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

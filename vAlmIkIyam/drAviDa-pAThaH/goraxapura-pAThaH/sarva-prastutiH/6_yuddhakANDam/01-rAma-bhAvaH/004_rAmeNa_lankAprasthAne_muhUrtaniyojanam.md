@@ -18,8 +18,6 @@ title_english = "004 Rama fixes an auspicious hour for the departure"
 
 After hearing the report of Hanuma, Rama fixes an auspicious hour for the departure of
 his forces to Lanka and perceives good omens. The Army reaches the shores of the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -74,8 +72,6 @@ thereafter; *abraviit* = spoke (as follows).
 
 Rama, a very bright man and a true warrior, having duly heard the words of Hanuman from
 the beginning, thereafter spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -125,8 +121,6 @@ ogre; *yaam* = of which; *nivedayase* = you inform; *braviimi* = I am telling;
 
 "I shall destroy quickly Lanka, the city of that terrible ogre (Ravana), of which you
 just informed I am really telling this."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -178,8 +172,6 @@ _________________
 
 "Be pleased to approve our march at this moment, a suitable moment for success. The sun
 reached the mid-day.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 </details>
@@ -234,8 +226,6 @@ ambrosia; *aaturaH* = by a sick man; *piitvaa* = having drunk; *vishham* = poiso
 "Let that ogre go (to his abode) after kidnapping Seetha. Where will he go alive? Hearing
 of my march to Lanka, Seetha will get back her hope in life, like a sick man having drunk poison touches
 ambrosia at the end of his life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -282,8 +272,6 @@ accompanying us; *sugriiva* = Oh; Sugreeva!
 
 "This northern planet of Phalguni will be in conjunction with the Hasta star tomorrow.
 Hence, let us depart today itself with all the troops accompanying us, Oh, Sugreeva!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -330,8 +318,6 @@ Hence, let us depart today itself with all the troops accompanying us, Oh, Sugre
 
 "By seeing the omens which are becoming visible, I deduce that I shall bring back Seetha
 the daughter of Janaka, by killing Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -440,8 +426,6 @@ to explore; *maargam* = the way.
 
 "Let general Nila accompanied by strength of hundred thousand warriors go before the
 army, to explore the way."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -488,8 +472,6 @@ army, to explore the way."
 
 "Oh Nila the chief of Army! Steer the army speedily by the path, abound with fruits and
 roots, cool woods and fresh water and honey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -536,8 +518,6 @@ roots, cool woods and fresh water and honey."
 
 "The evil-minded demons may spoil the roots, fruits and water in the path-way. You always
 try to be on you guard."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -584,8 +564,6 @@ cha* = and into thickets; *abhipashyeyuH* = and notice; *balam* = the army; *par
 
 "Let the monkeys jump into law grounds, into places made inaccessible by forest-grores
 and into thickets and notice whether any rival forces are stationed there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -626,8 +604,6 @@ dreadful; *prayujyataam* = let is be discharged; *vikrameNa* = daringly."
 
 "Let whatever little of feeble forces stay back in Kishkindha, as our operation will
 indeed be dreadful. It has to be discharged daringly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -677,8 +653,6 @@ army; *saagaraughanibham* = which is akin to an oceanic stream."
 
 "Let the best of monkeys with great strength in hundreds and thousands lead the formidable
 of the army, which is akin to an oceanic stream."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -728,8 +702,6 @@ of cows; *dR^ipataH* = a majestic; *R^ishhabhaH* = full.
 
 "Let Gaja, equal to a mountain, Gavaya a very strong warrior and Gavaksha march in front,
 as a majestic bull marches in front of a cow-herd."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -776,8 +748,6 @@ side; *vaanaravaahinyaaH* = of the army of simians.
 
 "Let the monkey called Rishabha, Lord of the simians and the best of the primates march
 forward, duly guarding the right side of the army of the simians."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -824,8 +794,6 @@ side; *vaanaravaahinyaaH* = of the army of monkeys.
 
 "Let Gandhamadana, with a strength unconquerable like an elephant in rut, proceed duly
 guarding the left side of the army of monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -872,8 +840,6 @@ guarding the left side of the army of monkeys."
 
 "I myself, mounted on the shoulders of Hanuman, like Indra on Airavata, will march in
 the centre of my troops, duly cheering the multitude of army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -920,8 +886,6 @@ Kubera the lord of Riches; *bhuteshaH* = and the sovereign of beings.
 
 "Let this Lakshmana, resembling the lord of Death, march on the shoulders of Angada like
 Kubera the lord of riches and the sovereign of beings marches on an elephant called Sarvabhauma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -968,8 +932,6 @@ three; *rakshhantu* = guard; *kukshim* = the middle part.
 
 Let the highly strong, Jambavan with Sushena and the monkey called Vegadarshi, all three,
 guard the middle part of the army."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1016,8 +978,6 @@ guard the middle part of the army."
 
 "Hearing the words of Rama, Sugreeva with great valour, the commander of forces and the
 lion among monkeys gave orders to the monkeys accordingly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1064,8 +1024,6 @@ up; *aashu* = and quickly; *pupluvire* = bounced; *guhaabhyaH* = from caves;
 
 Then, all those troops of monkeys with great speed together raised up and quickly bounced
 from caves and mountain-tops.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1112,8 +1070,6 @@ southern direction; *sa sainyaH* = along with army.
 
 Thereafter Rama the virtuous man, treated respectfully by Sugreeva and Lakshmana, moved
 towards southern direction, along with the army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1155,8 +1111,6 @@ and in crores.
 
 At that time, Rama went surrounded by monkeys, looking like elephants, numbering in hundreds,
 hundreds of thousands and crores.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1237,8 +1191,6 @@ army of monkeys; *anuyaantii* = followed; *tam* = Rama; *yaantam* = who was marc
 
 That extensive army of monkeys followed Rama who was marching in the lead. All those
 monkeys maintained by Sugreeva were rejoicing with delight.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1254,8 +1206,6 @@ monkeys maintained by Sugreeva were rejoicing with delight.
 
 The monkeys, jumping overwhelmingly with roaring sound and jest fully playing musical
 instruments (like trumpets) marched towards southern direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1295,8 +1245,6 @@ madhuuni* = honeys; *phalaanicha* = and fruits; *udvahantaH* = carrying; *mahaav
 
 They marched on, eating good-smelling honeys and fruits and carrying large branches bearing
 clusters of blossoms in multitude.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1346,8 +1294,6 @@ kshhipanti* = and throw; *anyonyam* = one another; *sahasaa* = all of a sudden;
 
 Wild monkeys would lift up and throw one another all of a sudden. Some others were hanging
 down and flying upwards. Some other monkeys were throwing down others.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1388,8 +1334,6 @@ down and flying upwards. Some other monkeys were throwing down others.
 
 Monkeys close to Rama were thus shouting, "To us, Ravana is worthy of killing and also
 the entire demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1435,8 +1379,6 @@ the entire demons."
 
 Rishabha, Nila, and the courageous Kumuda along with many monkeys were clearing up the
 path ahead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1483,8 +1425,6 @@ monkeys; *balibhiH* = which are robust; *bhiimaaH* = and terrible.
 
 Sugreeva the king of monkeys, Rama and Lakshmana the destroyers of enemies were moving
 in the centre along with many robust and terrible monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1531,8 +1471,6 @@ in the centre along with many robust and terrible monkeys.
 
 The heroic monkey satabali who was accompanied by ten crores of monkeys, standing alone
 firmly, guarded the whole army of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1582,8 +1520,6 @@ of a hundred crore; *pansaH* = Panasa; *gajaH* = Gaja; *arkashcha* = and Arka;
 
 Kesari with a retinue of a hundred crore, Panasa, Gaja and Arka along with many monkeys
 were protecting one flank of that army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1630,8 +1566,6 @@ were protecting one flank of that army.
 
 Keeping Sugreeva in front, Sushena and Jambavanta surrounded by many bears, protected
 the hinder part of that army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1681,8 +1615,6 @@ of the army; *viiraH* = the brave; *vaanarapuN^gavaH* = the best among monkeys; 
 
 Nila their chief of the army, the brave and the best among monkeys, the self controlled
 and the foremost among movable beings, was protecting atha army in every direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1729,8 +1661,6 @@ jambhaH* = Jambha; *atha* = and; *rabhasaH* = Rabhasa; *kapiH* = the monkey;
 
 Valimukha, Prajangha, Jambha and Rabhasa the monkey were moving on all sides, urging
 the monkeys forward.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1808,8 +1738,6 @@ of mountains; *girishataayutam* = joined with many small mountains; *saraamsi* =
 Those foremost among the monkeys, proud of their strength, thus marching with the army,
 saw the Sahya mountain the best of mountains joined with many small mountains, lakes fully abounding
 in flowers and eminent ponds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1854,8 +1782,6 @@ and even villages; *niHsasarpa* = marched; *aarNavam iva* = like an ocean; *maha
 That large army of monkeys, terrific like an ocean-flood cognizing the command of Rama
 which is frightfully enraging, having terror-stricken, abandoning the vicinity of towns and even villages,
 marched like a highly dreadful ocean with a great hoaring sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1902,8 +1828,6 @@ at the side; *tasya daasharatheH* = of that Rama.
 
 All those prominent and valiant monkeys were overwhelmingly jumping ahead, like fine
 horses being whipped, at the side of that Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -1955,8 +1879,6 @@ large; *grahabhyaam* = planets (Jupiter and Venus).
 Rama and Lakshmana the best among men being carried on shoulders by Hanuman and Angada
 the two monkeys, were effulgent like the moon and the sun having come together in contact with two large
 planets (Jupiter and Venus).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2035,8 +1957,6 @@ sitting on angada; *uvaacha* = spoke; *shubhayaa* = (the following) auspicious; 
 Thereafter, Rama the virtuous man, treated respectfully by Sugreeva and Lakshmana, moved
 towards southern direction, along with the army. Lakshmana, with a fully meaningful presence of mind,
 sitting on Angada, spoke the following auspicious words which were fully meaningful, to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2052,8 +1972,6 @@ taken away; *pratiyaasyasi* = you will proceed; *ayodhyaam* = to Ayodhya; *samR^
 
 "Killing Ravana fast and obtaining Seetha who was taken away, you will proceed to Ayodhya
 which is abundant by rich, having accomplished your purpose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2105,8 +2023,6 @@ _________________
 
 "I am seeing all grand good omens in the sky and the earth self-evident of your fulfillment,
 Oh Rama! The wind which is favorable, gentle beneficial and comfortable to the army is blowing alongside."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2127,8 +2043,6 @@ sun; *vimalaH* = is clear.
 
 "These beasts and birds are uttering sonorous and sweet sounds. All the quarters are
 looking bright. Even the sun is clear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2174,8 +2088,6 @@ pole-star (which is recognized by the contiguity of the stars presided over by t
 of Brahma the creator) is hanging behind you. Dhruva, the very bright pole-star (which is recognized
 by the contiguity of the stars presided over by the seven Brahmana sages) is becoming clear. All the
 pure great sages having bright light are shining are shining around Dhruva star.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2222,8 +2134,6 @@ pure great sages having bright light are shining are shining around Dhruva star.
 
 "The royal sage Trishanku, our paternal grand father, born in the high-souled Ikshvaku
 dynasty, is purely shining (as a star) in front, along with his family-priest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2273,8 +2183,6 @@ supreme; *nakshhatram* = constellation; *asmaakam ikshhvaakuuNaam* = is of our I
 
 "Visakha stars are shining clearly without any evil influence. This supreme constellation
 is of our Ikshvakus, the high-souled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2321,8 +2229,6 @@ dhuupyate* = and tormented by it.
 
 "The Mula constellation of the titans is badly aspected, in that it is touched by a comet
 risen with a tail of light and tormented by it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2369,8 +2275,6 @@ a planet; *kaale* = in its last hour.
 
 "All this has come for the destruction of the titans, for, the star seized by death is
 oppressed by a planet in its last hour."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2423,8 +2327,6 @@ _________________
 
 "The waters are crystal-clear, with good taste. The woodlands are laden with fruit. The
 fragrant air is not blowing much. Trees are bearing seasonal flowers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2475,8 +2377,6 @@ fit; *bhavitum* = to become; *priitaH* = delighted; *samiikshya* = on seeing;
 "The armies of monkeys formed into different squadrons are looking highly splendid like
 the armies of celestials in the battle in which the demon Taraka was killed, Oh venerable one! Be pleased
 to see these good omens in this manner."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2547,8 +2447,6 @@ having very nails and teeth as weapons; *jagaama* = marched; *aavR^itya* = cover
 The delighted Lakshmana spoke thus, cheering up his brother. Then, the army of monkeys
 consisting of excellent bears and monkeys having their very nails and teeth as weapons, marched ahead,
 covering the entire earth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2627,8 +2525,6 @@ region; *dyaamiva* = like the sky; *ambudasamtatiH* = a mass of cloud.
 The aweful dust raised by nails and claws of monkeys obscured the splendor of the sun
 and also covered the earth comprising of mountains forests and the atmosphere. The colossal monkey-army
 advanced, encompassing the southern region like a mass of cloud enveloping the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2643,8 +2539,6 @@ advanced, encompassing the southern region like a mass of cloud enveloping the s
 
 While the army was crossing the entire river-currents uninterruptedly, the currents flowed
 invertedly for a distance of many yojanas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2698,8 +2592,6 @@ fruits; *saa* = that army (entered); *madhyena* = from the middle; *samantaat*
 The mighty army entered thoroughly into lakes containing clear water, mountains full
 of trees, plain-landed territories and forests laden with fruits from the middle, from the four sides,
 from across and from under.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2746,8 +2638,6 @@ from across and from under.
 
 The gigantic army marched, thoroughly covering the land. All of them with a wind-like
 aped went on, manifesting a joy in their faces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2803,8 +2693,6 @@ with each other); *darshayantaH* = showed; *balaodrekaat* = high spirits; *harsh
 
 For the sake of Rama, the monkeys with fully elevated pace vied with each other in high
 spirits, vigor and prowess. Out of pride born of prime youth, some made various gestures on the way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2845,8 +2733,6 @@ monkeys; *tatra* = there; *jagmuH* = went; *drutam* = rapidly; *tathaa*
 
 Some wild monkeys there walked very speedily. In that manner, some others hovered highly.
 Some made noises, sounding "kila! kila!".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2893,8 +2779,6 @@ api* = (some) even stamped; *padaani* = their feet; *anye* = some others; *viksh
 
 Some monkeys lashed their tails. Some even stamped their feet. Some others, stretching
 their arms, broke off rocks and trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2943,8 +2827,6 @@ their arms, broke off rocks and trees.
 
 Some monkeys ascended mountain-peaks and uttered huge noises. Some others made lion's
 roars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -2989,8 +2871,6 @@ monkeys; *vichikriiDuH* = played; *shilaadrumaiH* = with rocks and trees; *jR^im
 
 Some monkeys were crushing many webs of creepers by the jerks of their thighs. The valiant
 monkeys also played with rocks and trees, by stretching their limbs.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3006,8 +2886,6 @@ monkeys also played with rocks and trees, by stretching their limbs.
 
 In that place, the land was covered splendidly by hundreds of thousands, by thousands
 and crores of monkeys, who were looking very dreadful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3080,8 +2958,6 @@ pramokshhayishhavaH* = those monkeys desirous of Seetha's release; *naavasan* = 
 That extensive monkey-army was marching day and night. All the monkeys ruled by Sugreeva
 were exceedingly pleased and cheerful. All were marching quickly, rejoicing for war. Those monkeys desirous
 of Seetha's release, did not halt even for a moment anywhere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3128,8 +3004,6 @@ with many kinds of beasts.
 
 Then, those monkeys reached and climbed up a mountain called sahya with a full canopy
 of trees and filled with many kinds of beasts.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3175,8 +3049,6 @@ and cascades; *sahyasya* = of Sahya; *malayasya cha* = and Malaya mountains.
 
 Rama too went along, seeing the wonderful woods, streams and cascades of Sahya and Malaya
 mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3221,8 +3093,6 @@ trees.
 
 The monkeys enjoyed the fruits of Champaka, Tilaka, mango, Praseka, Sindnvaara Timisa
 and Karaveera trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3268,8 +3138,6 @@ and Karaveera trees.
 **अनुवादः**
 
 The monkeys enjoyed Ashoka, Karanja, Plaksa, Nyagrodha, Jambu, myrobalan and Naga trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3312,8 +3180,6 @@ prachalitaa* = shaken by gust of winds; *avakiranti* = poured out; *pushhpaiH* =
 
 Various kinds of forest-trees standing on enchanting plateaus, being shaken by gust of
 winds, poured out flowers on those monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3373,8 +3239,6 @@ chandanashiitalaH* = (while) the bees; *anukuujadbhiH* = hummed; *madhugandhishh
 
 A soft-touching breeze, refreshing as a sandal, blew while the bees hummed in the nectar-scented
 woods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3391,8 +3255,6 @@ woods.
 
 That royal Sahya Mountain was highly adorned with red-coloured metal. The dust blown
 from that metal by the velocity of wind, coming forth from all sides, obscured the huge monkey-army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3432,8 +3294,6 @@ from that metal by the velocity of wind, coming forth from all sides, obscured t
 
 "My eye which is twitching on the upper lid, is proclaiming as it were, my desire of
 victory coming nearer."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3546,8 +3406,6 @@ the charming Vasanti, Madhavi creepers with flowers full of scent, clumps of jas
 Vanjula and Vakula, Ranjanka and Tilaka, Nyavriksha all in flower, Mango, Patalike, Kovidara in flower,
 Muchulinda, Arjuna, Simsapa and Kutaja, Hintala, Timisa, Chirna and Nipa, blue Ashoka, Sarala, Ankola
 and Padmaka all these trees were crawled in excitement by the monkeys who were delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -3568,8 +3426,6 @@ man; *arthakovidaH* = versed in moral law; *supuujitaaH* = well adored; *vaanara
 
 Then Rama the virtuous man versed in moral law, who was well-adored by Sugreeva the king
 of monkeys and Lakshmana, again spoke as follows:-
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3683,8 +3539,6 @@ birds, frequented by karandava birds, crowded with water-fowls and cranes, visit
 haunted on all sides by bears, hyenas, lions and many dreadful tigers. There were beautiful reservoirs
 of water with blossoming blue lotuses, water lilies, white water lilies, black water lilies and various
 other kinds of aquatic flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3727,8 +3581,6 @@ mountain; *plaavayanti sma* = and drenched with water; *anyauyam* = one over the
 Various kinds of birds sang in those mountain-peaks. Monkeys bathed in water, drank those
 waters and played. They ascended the mountain and got drenched in water, by sprinkling water by one
 over the other among themselves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3773,8 +3625,6 @@ over the other among themselves.
 **अनुवादः**
 
 Monkeys in mad rut plucked sweet-smelling fruits, roots and flowers there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3821,8 +3671,6 @@ went on; *svasthaaH* = cheerfully.
 
 Those monkeys, in reddish brown colour like honey, drinking honey from honey-combs weighing
 about a maund each, went on cheerfully.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3869,8 +3717,6 @@ girivaraan* = excellent mountains.
 
 Those foremost among the monkeys marched, breaking off trees, pulling along creepers
 and throwing away excellent mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3917,8 +3763,6 @@ and throwing away excellent mountains.
 
 Some other monkeys, well-pleased with honey got from trees, yelled loudly. Some others
 reached trees to get honey. Some others were drinking honey excessively.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -3964,8 +3808,6 @@ reached trees to get honey. Some others were drinking honey excessively.
 
 The earth filled with those excellent monkeys, was like land filled with ripened fields
 of paddy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4012,8 +3854,6 @@ lotus-eyed; *mahaa baahuH* = and the mighty armed; *sampraapya* = reached; *mahe
 
 Then, the lotus-eyed and the mighty-armed Rama reached Mahendra mountain and ascended
 its top, adorned with trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4060,8 +3900,6 @@ well with turtles and fishes.
 
 Then, Rama the son of Dasartha mounted the peak and saw an ocean ruffled with water and
 scattered well with turtles and fishes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4108,8 +3946,6 @@ mountain; *maalyam cha* = and Malaya; *mahaagirim* = the large mountain; *aanupu
 
 They crossed Sahya mountain and Malaya mountain and systematically approached the ocean
 having terrific sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4159,8 +3995,6 @@ _________________
 
 Rama the foremost of those who entrance the mind, together with Sugreeva and Lakshmana
 quickly descended the mountain and went to the excellent woodland adjoining the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4206,8 +4040,6 @@ washed by floods of water risen vehemently and spoke these words.
 
 Then Rama reached the extensive ocean with rocks underneath washed by floods of water
 risen vehemently and spoke these words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4254,8 +4086,6 @@ risen vehemently and spoke these words.
 
 "Oh, Sugreeva! We have reached the abode of Varuna. We should consider now the matter
 (of how to cross the ocean) with which we were formerly preoccupied."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4302,8 +4132,6 @@ a strategy.
 
 "This ocean, the lord of Rivers, is shore less beyond. This sea is impossible to be crossed
 without a proper strategy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4350,8 +4178,6 @@ without a proper strategy."
 
 "For this reason, let the military be assembled here only. Here, let us discuss the plan
 how this military of monkeys will reach the other shore."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4401,8 +4227,6 @@ _________________
 
 Rama, the mighty armed, emaciated due to taking away of Seetha, then reached the sea
 and ordered thus for the halt of the army there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4449,8 +4273,6 @@ army; *niveshyantaam* = be stationed; *velaayaam* = at the sea-shore; *iha* = he
 
 "Let all the army be stationed at the sea-shore, Sugreeva! Here, the time has come for
 us to think about the subject of crossing the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4498,8 +4320,6 @@ vanaraaH* = monkeys; *gacchhantu* = go.
 
 "Let not anyone slip away in any direction, leaving his respective unit of army. Let
 valiant monkeys make a more and it should be known whether there is a hidden danger for us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4546,8 +4366,6 @@ valiant monkeys make a more and it should be known whether there is a hidden dan
 
 Hearing Rama's words, Sugreeva along with Lakshmana made the army to halt at the sea-shore,
 stretched with trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4594,8 +4412,6 @@ white honey-coloured water.
 
 That army, stationed at the vicinity of the ocean, shined like a second ocean splendid
 with yellowish white honey-coloured water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4642,8 +4458,6 @@ of monkeys; *upaagamya* = reached; *velaavanam* = the woodlands at shore; *nivis
 
 There, those foremost of monkeys reached the woodlands at the shore and settled down,
 desiring to reach the other shore of the vast sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4684,8 +4498,6 @@ halting there; *sainya samnaahaniHsvanaH* = the sound created out of their movem
 
 While all the monkeys were halting there, the noise created out of their movement was
 dominantly heard, concealing the roar of the sea.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4743,8 +4555,6 @@ the monkeys; *abhipaalitaaH* = ruled; *sugriiveNa* = by Sugreeva; *nivishhTaa*
 
 That army of the monkeys ruled by Sugreeva, stationed as three divisios (viz. 1. bears
 2. long tailed monkes and 3. monkeys) looked fully dedicated to the cause of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4760,8 +4570,6 @@ pashyamaanaa* = to see; *mahaarNavam* = the mighty ocean; *vaayuvega samaadhuuta
 
 That army of monkeys reached the mighty ocean and was delighted to behold the mighty
 ocean being diffused by the velocity of wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4811,8 +4619,6 @@ far off; *rakshhogaNanishhevitam* = inhabited by a number of demons; *hariyuutha
 
 Seeing the sea, the abode of Varuna, which was boundless and having the opposite shore
 far off, inhabitd by a number of demons, the monkey-troups sat down there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4861,8 +4667,6 @@ at the beginning of the night; *phenaaghaiH* = with its foaming waves; *hasanami
 
 Rendered appalling by the ferocity of fierce alligators and crocodiles, that ocen with
 its foaming waves at the end of the day and at the beginning of the night, appeared to laugh and dance.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4921,8 +4725,6 @@ kiirNam* = (It was) full of chaNDaanilamahaagraahaiH = huge alligators swift as 
 
 The ocean surged, when the moon rose. The image of moon was reflected limitlessly in
 it. The sea was full of huge alligators swift as fierce winds along with whales and great fish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4941,8 +4743,6 @@ filled with bhujaNgaiH = serpants; *diiptabhogairiva* = bestowed with flaming ho
 That sea, the abode of Varuna was filled with serpents bestowed with flaming hoods, plunged
 with mighty aquatic creatures, abounding in various types of mountains, too difficult to cross, with
 an inaccessible path, suffocationly fathomless and an abode of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -4989,8 +4789,6 @@ motion by the breeze.
 
 Increasing waves of the sea in which sharks and bodies of serpents swarmed, rose and
 fell whipped into motion by the breeze.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -5036,8 +4834,6 @@ of gods; *paataalavishhamam* = (the sea reaches upto) the uneven patala (subterr
 
 Emitting whirled sparkles, shining with large water-snakes, a fearful abode of enemies
 of gods forever, the sea reaches upto the uneven Patala (subterranean region).
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -5084,8 +4880,6 @@ ocean; *adR^ishyata* = appeared; *ambaramcheti* = like the sky; *nirvisheshham*
 
 The ocean looked like the sky. The sky looked like the ocean. The ocean and the sky looked
 alike without any distinction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -5132,8 +4926,6 @@ sea; *dR^ishyate* = looked; *tadR^igruupe* = with the same splendour.
 
 The water blended with sky and the sky blended with water. Filled with stars above and
 the pearls below, both the sky and the sea looked with the same splendour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -5180,8 +4972,6 @@ clouds.
 
 There was no distinction between the two, of the sea filled with a row of waves and of
 the sky with a row of falling clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 </details>
 
@@ -5228,8 +5018,6 @@ saktaaH* = together; *aahataaH* = banging; *anyonyaiH* = one another; *bhiimaniH
 
 The waves of the ocean together banging one another with a terrific resonance, sounded
 like a kettle-drum in the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

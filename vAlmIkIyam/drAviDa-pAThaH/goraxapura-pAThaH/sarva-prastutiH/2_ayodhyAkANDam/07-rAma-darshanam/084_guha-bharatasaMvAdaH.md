@@ -18,8 +18,6 @@ title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 Guha the king of Nishada tribe asks his relative to guard the river bank and get
 ready for a battle, if necessary, with Bharata. Then, Guha approaches Bharata with a welcome-drink
 of honey, meat and fish. He asks Bharata with his army to accept his hospitality.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -75,8 +73,6 @@ relatives (as follows):
 
 Just on seeing an army encamped and positioned along the River Ganga, Guha the king
 of Nishadas hastily spoke to his relatives as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -124,8 +120,6 @@ mind.
 
 "On this side, a huge army is seen like an ocean. I am not able to comprehend the
 extent of this army even by my discerning mind."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -179,8 +173,6 @@ Bharata himself with an evil intent seems to have come."
 **टिप्पनी**
 
 Kovidara tree: pomegranate tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -254,8 +246,6 @@ desiring; *shriyam* = the prosperous kingdom; *sampannaam* = a luxury;
 "Will Bharata the son of Kaikeyi bind us with chains or slay us? Or is he coming to
 kill Rama, the son of Dasaratha, who was exiled from the kingdom by his father, desirous as Bharata
 is to get the prosperous Ayodhya kingdom, a luxury and that which is inaccessible to another?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -303,8 +293,6 @@ the interest; *tasya* = of that Rama.
 
 "Rama the son of Dasaratha is my Lord and my companion too. Hence you, covered with
 armor, be stationed on this bank of Ganga River, desiring to advance the interest of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -351,8 +339,6 @@ stay; *anvaashritaaH* = positioned along; *gaN^gaam nadiim* = the River Ganga.
 
 "Let all our ferrymen guarding the river, along with the troops, eating meat roots
 and fruits ( in their boats), stay positioned along the River Ganga."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -402,8 +388,6 @@ and sannddhaam = made ready; *iti* = (Guha) thus; *abhyachodayat* = announced.
 
 "Let five hundred boats, each manner by a hundred youthful ferrymen, be stationed
 and made ready" -thus announced Guha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -450,8 +434,6 @@ be; *aduSTaH* = well-disposed; *iha* = here; *raamasya* = towards Rama;
 
 "If Bharata is favourably disposed now towards Rama, then only his army may (be
 allowed to) cross the River Ganga in safety."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -500,8 +482,6 @@ and approached; *bharatam* = Bharata.
 
 After uttering thus, Guha the king of Nishadas took fish, meat and honey as an
 offering and approached Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 
 </details>
@@ -550,8 +530,6 @@ follows):
 
 Seeing him approach, Sumantra the charioteer, a majestic man who knows the rules of
 discipline, humbly told Bharata as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -610,8 +588,6 @@ brother.
 
 "This Lord who is surrounded by a thousand of his own people, is fully acquainted
 with the forest of Dandaka and also an old friend of your elder brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -628,8 +604,6 @@ there).
 
 "O, Bharata! For that reason, let Guha the king of Nishadas see you. He knows surely
 where those two Rama and Lakshmana - are stationed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -676,8 +650,6 @@ Bharata; *uvaacha* = spoke; *iti* = these; *vachanam* = words; *guhaH*
 
 Hearing the auspicious words of Sumantra, Bharata answered, "Introduce Guha to me
 without delay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -725,8 +697,6 @@ words.
 
 Having obtained permission, Guha along with his own people, joyfully and humbly
 approached Bharata and spoke as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -773,8 +743,6 @@ as such; *vasa* = stay; *daasakule* = in this servant's house.
 
 "This place is like a pleasure-grove near your house. We are your subjects and are
 reporting to you as such. Stay in this servant's house."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -825,8 +793,6 @@ all a produce of the forest.
 
 "Here are the roots and fruits gathered by my tribe as well as fresh and dried meat
 of great quality and of various kinds, and all a produce of the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 </details>
 
@@ -877,8 +843,6 @@ night; *architaH* = offered reverently; *vividhaiH* = various kinds; *kaamaiH*
 
 "I hope the army, after eating well, can halt for the night here. Furnished with all
 you could desire, you can continue your journey tomorrow along with your troops."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

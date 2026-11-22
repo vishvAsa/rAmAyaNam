@@ -15,8 +15,6 @@ title = "१०६ राम-मातलिसंवादः"
 Seeing Ravana's chariot coming, Rama asks Matali the charioteer to be on his guard.
 Bad omens prognosticating the fall of Ravana and good omens predicting the victory of Rama appeared
 in the scene of battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -95,8 +93,6 @@ piece of art like Gandharva-city, an imaginary city in the sky, mounted with fla
 horses of excellent quality adorned with golden necklaces, filled with war-implements, adorned with
 rows of flags and banners, which was devouring the sky as it were, making the earth resound, which
 was the destroyer of the army of adversaries and caused delight to its own.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -202,8 +198,6 @@ Rama saw that Ravana's chariot, which was coming speedily with a noise, bearing 
 large flag-staff, yoked with black horses, endowed with a terrific luster, blazing like an aerial
 car in the sky, with a luster of the sun, filled with lightning-like flags and with a beautiful
 appearance of a rain-bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -263,8 +257,6 @@ Indra's charioteer (as follows):
 Seeing that chariot, releasing streams of arrows, like a cloud releasing streams of
 rain, with a noise equal to that of a bursting mountain, struck with a diamond, Rama after
 stretching his bow in a crescent shape, spoke to Matali, Indra's charioteer as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -314,8 +306,6 @@ the right to the left; *tathaa* = therefore; *matikR^itaa* = heart has been set;
 "O Matali! From the way in which the enemy is marching forward from left to right
 with a great speed in his chariot more, it appears that heart has been set by him upon destroying
 himself in the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -356,8 +346,6 @@ as the wind; *utthitam* = would blow; *megham* = a cloud.
 
 "Therefore, take care and march forward, facing the chariot of the enemy I wish to
 destroy it, even as the wind would blow a cloud."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -398,8 +386,6 @@ niyatam* = and the move of the reins fully controlled; *prachodaya* = drive;
 
 "Without fear and flurry and with a steady heart and vision, and the movement of the
 reins fully controlled, drive the chariot swiftly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -442,8 +428,6 @@ teaching you.
 "You need not be instructed by me, accustomed as you are to drive the chariot of
 Indra the lord of celestials. Keen as I am to fight with a close attention, I am just reminding you
 and not teaching you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -496,8 +480,6 @@ the excellent; *sura saarathiH* = charioteer of gods; *prachodayaamaase* = drove
 
 Extremely gratified with those words of Rama, that Matali the excellent charioteer
 of gods drove on the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -513,8 +495,6 @@ sambhuuta rajasaa* = by the dust risen from the wheels (of his own chariot).
 
 Passing the huge chariot of Ravana on the right, the charioteer then set Ravana
 shaking, by the dust risen from the wheels of his own chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -555,8 +535,6 @@ facing his chariot; *saayakaiH* = with arrows.
 
 The enraged Ravana then, with his coppery eyes wide open, trembled Rama, who stood
 facing his chariot, with arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -603,8 +581,6 @@ anger; *dharShaNaamarShitaH* = though provoked with assault; *raamaH* = Rama;
 
 Meeting fortitude with anger, though provoked with assault, Rama took hold of
 Indra's bow, which was possessed of extra ordinary impulse in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -661,8 +637,6 @@ facing each other; *dR^iptayoH simhayoriva* = like two proud lions.
 He also seized hold of arrows of exceeding swiftness, which were shining like
 sun-beams. Then began that great battle between the two warriors (Rama and Ravana) who were
 desirous of killing each other, while facing each other like two proud lions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -705,8 +679,6 @@ battle of both the chariot-warriors.
 Then, the gods along with the Gandharvas the celestial musicians, Siddhas the
 demigods and great sages, desirous of Ravana's ruin, arrived to see the battle of both the
 chariot-warrriors.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -753,8 +725,6 @@ Ravana; *raaghavasya udayaaaya cha* = and prosperity to Rama.
 
 Thereupon, terrific portents that caused one's hair to stand on end, appeared giving
 an augury of doom to Ravana and prosperity to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -801,8 +771,6 @@ an augury of doom to Ravana and prosperity to Rama.
 
 The god of rains poured blood on Ravana's chariot. Horrible winds blew from right to
 left, forming circles.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -849,8 +817,6 @@ rathaH* = Ravana's chariot; *yaati* = was going.
 
 A large flock of vultures, roaming about in the sky, was flying forward in the same
 direction in which Ravana's chariot was going.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -897,8 +863,6 @@ direction in which Ravana's chariot was going.
 
 Lanka was overcast with dusk, resembling a (red) Japa flower. The land in Lanka, as
 also the day appeared as if they were blazing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -948,8 +912,6 @@ viShaadayan* = made demons to lament.
 
 Large meteors, along with lightnings fell with great noise. Those entities, inimical
 to Ravana, made demons to lament.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -990,8 +952,6 @@ fighting; *gR^ihiitaa iva* = were like as if they were clasped.
 
 The earth on which Ravana was there, trembled. The arms of fighting demons looked as
 if they were clasped.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1038,8 +998,6 @@ coppery; *piitaaH* = yellow; *sitaashvetaaH* = white and dark; *dhaatavaH iva*
 
 Fallen before Ravana, the rays of the sun appeared coppery, yellow, white and dark,
 like mineral ores on a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1081,8 +1039,6 @@ Ravana's face; *vamantyaH* = (as also) vomiting; *jvalanam* = fire; *mukhaiH*
 
 The she-jackals followed by vultures hastily uttered inauspicious howls, on
 beholding Ravana's face as also vomiting fire from their mouths.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1122,8 +1078,6 @@ scattering dust upwards; *vavau* = blew; *pratikuulam* = in an inverted order.
 
 Scattering the dust upwards over the battle-field and clouding the vision of that
 Ravana, the wind blew in a direction inimicable to him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1170,8 +1124,6 @@ svanaaH* = with a noise; which was hard to endure.
 
 Even without the appearance of clouds, thunderbolts fell on his army on all sides,
 with a noise which was hard to endure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1222,8 +1174,6 @@ difficult to be seen.
 
 All the quarters and intermediate points of the compass became covered with darkness
 and due to outpourings of dust, the sky became difficult to be seen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1277,8 +1227,6 @@ fell down upon Ravana's chariot.
 **टिप्पनी**
 
 *Sarika bird: zoological name: Turdus salica.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1326,8 +1274,6 @@ continuously.
 
 His horses discharged sparks of fire from their hips and loins as also tears from
 their eyes, releasing out fire and water at the same time continuously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1374,8 +1320,6 @@ the way; *bhayaavahaaH* = bringing danger; *vinaashaaya* = and destruction;
 
 Frightful portents in multitude thus sprang up, bringing danger and destruction to
 Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1415,8 +1359,6 @@ shamsiini* = depicting victory; *raamasya* = of Rama; *babhuuvuH* = arose;
 
 Pleasant and auspicious omens, depicting victory of Rama appeared on all sides,
 before Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1463,8 +1405,6 @@ Ravana; *hatam* = as (already) dead.
 
 Seeing the pleasant omens depicting his victory, Rama was very much pleased and
 considered Ravana as (already) dead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 </details>
 
@@ -1520,8 +1460,6 @@ happiness; *chakaara adhikam vikramamcha* = as also shown enhanced prowess; *yud
 Then Rama, with the knowledge of all omens, having seen those portents in his own
 way in the battle-field, obtained rejoice as well as extreme happiness and shown enhanced prowess
 in combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

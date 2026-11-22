@@ -19,8 +19,6 @@ Both the monkeys and demons were killed in the battle. Prahasta the demon and Ni
 face to face to fight. Prahasta hurls a volley of darts over Nila. Nila kills Prahasta's horses by
 hurling a huge tree and breaks his bow. Finally a huge rock hurled by Nila breaks Prahasta's head
 into myriad pieces and dies. All the other demons abandon the battle-field and return to Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -72,8 +70,6 @@ into myriad pieces and dies. All the other demons abandon the battle-field and r
 
 Seeing Prahasta setting out with a martial ardour, Rama the conqueror of enemies,
 smiling, spoke to Vibhishana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -117,8 +113,6 @@ very huge body; *aagachchhati* = coming; *mahaavegaH* = with great speed;
 
 "Who is he with a very huge body, coming with a great speed along with a large army?
 O, the mighty armed! Tell me about this strong demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -176,8 +170,6 @@ Ravana.
 Hearing Rama's words, Vibhishana replied as follows "He is guarded by two-thirds of
 the army of Lanka. He is a demon of prowess, skilled in the use of mystic weapons and valiant. He
 is the demon named Prahasta, the Army general of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -276,8 +268,6 @@ _________________
 Swords, lances, daggers, darts, spears, clubs, maces bars, barbed missiles, various
 kinds of axes and different bows glittered in the hands of demons, who were running up towards the
 monkeys and seeking victory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -327,8 +317,6 @@ burning to fight; *jagR^ihuH* = seized; *paadapaamshchaapi* = trees;
 
 The monkeys who were burning to fight took hold of trees in flower, rocks and lofty
 and thick stones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -376,8 +364,6 @@ bombardment of stones.
 
 As they approached each other, a very great battle arose between those combatants
 who showered down a hail of arrows and a bombardment of stones.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -424,8 +410,6 @@ pungavaan* = excellent monkeys; *bahavaH* = and many; *vaanaraaH* = monkeys;
 
 In that battle, many of the demons killed several excellent monkeys and several
 monkeys killed many of the demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -472,8 +456,6 @@ bars; *kechit* = and some; *chhinnaaH* = were slit parashvadhaiH = by axes.
 
 Some monkeys were smashed by spears and some others by finer weapons. Some were
 struck by iron bars and some others were slit by axes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -523,8 +505,6 @@ them; *vibhinna hR^idayaaH* = with their hearts split asunder.
 
 Yet again, some fell breathlessly on the ground and some were destroyed by the
 arrows aimed at them with their hearts splits asunder.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -575,8 +555,6 @@ with (the strokes of) swords; *shuuraiH raakSasaiH* = by the powerful demons;
 
 Cut into two with the strokes of swords by those powerful demons, some monkeys,
 trembling, fell on the earth, their sides torn open.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -623,8 +601,6 @@ trembling, fell on the earth, their sides torn open.
 
 Even the flock of demons on all sides were crushed on to the earth by the furious
 monkeys with tree and mountain-peaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -673,8 +649,6 @@ demons); *vaman* = vomited; *bhR^isham* = plenty; *shoNitam* = of blood;
 Having been administered thundering slaps with their hands and terrific blows with
 their fists, the faces and eyes of demons were were lacerated. The demons vomited plenty of blood
 from their months.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -721,8 +695,6 @@ from their months.
 
 A tumultuous clamour arose among monkeys and demons, as cries of pain and leonine
 roars were bellowed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -770,8 +742,6 @@ courage.
 
 The monkeys and the demons with anger, following the path of heroes, with their
 cruel and hostile eyes, accomplished their deeds with great courage.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -818,8 +788,6 @@ Prahasta's companins; *ete sarve* = all these demons; *jaghnuH* = killed;
 
 Narantaka Kumbhahanu, Mahanada and Samunnata all these companions of Prahasta killed
 the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -867,8 +835,6 @@ monkeys.
 
 Dvivida, with a mountain-peak, struck down Narantaka, the one among them who was
 rushing upon quickly and killing the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -915,8 +881,6 @@ drumam* = a very large tree; *apothayat* = and crushed; *samunnatam* = Samunnata
 
 The ape Durmukha on his part, with a ready hand, uprooted a very large tree and
 crushed the demon Samunnata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -963,8 +927,6 @@ chest-region; *mahaanaadasya* = of Mahanada.
 
 The energetic Jambavan with a great fury seized a huge rock and threw it on the
 chest-region of Mahanada.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1012,8 +974,6 @@ discharged; *sadyaH* = soon; *praaNaan* = his lives.
 
 Then, the valiant Kumbhahanu there in the battle, having attacked the General Tara,
 who was armed with a huge tree, received a blow immediately cost him his life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1061,8 +1021,6 @@ of the monkeys.
 
 Not tolerating the aforesaid act, Prahasta having occupied his chariot with bow in
 hand, caused a terrible havoc among the monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1110,8 +1068,6 @@ hand, caused a terrible havoc among the monkeys.
 
 Then, with the rapid movement of both the armies, there arose of clamour resembling
 the roar of an unfathomable and tempestuous ocean in a time of dissolution.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1158,8 +1114,6 @@ of arrows; *paramaahave* = in that great combat.
 
 The demon Prahasta, who was hard to be subdued in battle, with full of anger,
 tormented the monkeys by an immense avalanche of arrows in that great combat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1206,8 +1160,6 @@ very extensive area; *medinii* = of the ground; *samvR^itaa* = was covered;
 
 By the frightening corpses of monkeys and demons, appearing like hideous mountains,
 a very extensive area of the ground is covered.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1254,8 +1206,6 @@ maasi iva* = as in the month of spring; *samchhannaa* = when covered; *puSpitaiH
 
 That ground, covered by the stream of blood, shone as in the month of spring when
 overspread fully with the bloossoming crimson-coloured Palasa flowers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1346,8 +1296,6 @@ the tumult the sound of its waters, the battle field resembled a river, incapabl
 by cowards, visited by water-fowls at the end of the rainy season, those demons and the foremost of
 the monkeys crossed over that impassable river, as elephants lead their herds across a lake that
 the lotuses have covered with pollen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1395,8 +1343,6 @@ swiftly.
 
 Then, Nila saw Prahasta who was employing a multitude of arrows sitting in the
 chariot and annihilating the monkeys swiftly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1467,8 +1413,6 @@ chariot; *aaditya varNena* = having the sun's colour.
 Seeing Nila who was running towards him in the battle-field, as a rocking wind in
 the sky rushes towards a large massive clouds, Prahasta the Army general attacked Nila himself with
 his chariot having the sun's colour.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1510,8 +1454,6 @@ great battle.
 
 That Prahasta the Army General, who was excellent among the wielders of bow, drew
 the bow-string and hurled the arrows towards Nila in that great battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1554,8 +1496,6 @@ pierced (him); *jagmuH* = and fell; *mahiim* = on the earth.
 
 Those arrows with a great speed resembling furious snakes employed by Prahasta
 proceeded towards Nila, pierced him and fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1599,8 +1539,6 @@ uprooted; *vR^ikSam* = a tree; *taaDayaamaasa* = and thumped; *tam prahastam*
 That great ape of prowess Nila, who was struck by sharp arrows resembling flames,
 uprooted a tree and thumped it on the descending Prahasta who was most difficult to be
 assaulted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1653,8 +1591,6 @@ _________________
 
 Being unable to restrain the series of arrows hurled at him by that evil-minded
 demon, nila received them with closed eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1673,8 +1609,6 @@ eyes; *sehe* = endured; *duraasadran* = though it was scarce to be endured.
 Like a bull standing under a sudden autumnal down-pour, so under that intolerable
 and sudden rain of darts released by Prahasta, Nila endured with closed eyes though it was scarce
 to be endured.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1721,8 +1655,6 @@ horses; *mahataa saalena* = by a huge sala tree.
 
 The exceedingly strong and the great Nila, enraged over the volley of darts, killed
 Prahasta's horses by hurling a huge Sala tree on them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1764,8 +1696,6 @@ punaH* = again and again.
 
 Thereafter the greatly enraged Nila quickly broke the bow of Prahasta the
 evil-minded demon and shouted again and again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1812,8 +1742,6 @@ mace; *avapupluve* = leapt down; *syandanaat* = from the chariot.
 
 Deprived of his bow, Prahasta the leader of the army, seizing a formidable mace,
 leapt down from the chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1860,8 +1788,6 @@ standing; *kuN^jarau iva* = like two elephants; *prabhinnau* = in rut.
 
 Those two army-chiefs, who were courageous and in whom enmity had sprung up, with
 their limbs covered with blood, wee standing like two elephants in rut.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1934,8 +1860,6 @@ heroes; *anivartinau* = and those who did not flee; *samareSu* = in battles; (th
 Lion and tiger in gait, lion and tiger in gestures, those two warriors tore each
 other with their shap teeth. Vanquishers of other heroes and intrepid combatants, both of them,
 thirsting for fame, resembled Vritra and Indra.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -1982,8 +1906,6 @@ blood; *susraava* = oozed = tataH = from his forehead.
 
 Then, that Prahasta exerting himself well struck Nila on his forehead with a mace
 and blood oozed from his forehead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2030,8 +1952,6 @@ it; *urasi* = on the chest-region; *prahastasya* = of Prahasta.
 
 Whereupon, that great ape, his limbs smeared with blood, seized a huge tree and
 struck Prahasta full in his chest with fury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2078,8 +1998,6 @@ Nila; *balinam* = the strong; *plavaN^gamam* = monkey.
 
 Ignoring that blow, he seized a huge mace and ran in strength towards Nila the
 strong monkey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2126,8 +2044,6 @@ strong monkey.
 
 Seeing Prahasta of terrible velocity briskly rushing towards him, Nila the great
 monkey took a huge rock swiftly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2174,8 +2090,6 @@ fighting with a mace; *mR^idhe* = in the battle.
 
 Nila quickly hurled that rock on the head of Prahasta who was longing for war and
 fighting with a mace in the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2216,8 +2130,6 @@ Prahasta's; *shiraH* = head; *bahudhaa* = into myriad pieces.
 
 Then, that huge and terrific rock hurled by Nila the leader of the monkeys broke
 Prahasa's head into myriad pieces.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2265,8 +2177,6 @@ the root.
 
 That Prahasta who lost his breath, was disfigured and dead, bereft of his senses and
 at once fell on the ground like a tree cut up by the root.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2308,8 +2218,6 @@ body too; *susraava* = (blood) streamed forth; *prasravanam yathaa* = like a cas
 
 A lot of blood oozed from his broken head. From his body two, blood streamed forth
 like a cascade from a mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -2333,8 +2241,6 @@ forth; *sumahaakaayam* = with his very huge body.
 
 That huge and powerful army of monkeys, who began to emit cries of defiance with
 fury, thereupon saw the terrible Prahasta of formidable exploits coming forth towards them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2381,8 +2287,6 @@ army; *raakSasaanaam* = of demons; *ahR^iSTaanaam* = disconsolated;
 
 Thier leader having been slain by Nila that unshakable and large army of demons,
 becoming disconsolated, withdrew to Lanka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2423,8 +2327,6 @@ firmly there; *salilam yathaa* = any more than water; *samaasaadya* = on reachin
 
 Thier chief of Army having been killed, those demons could not continue to stand
 firmy there, any more than water on reaching a breached bridge.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 
@@ -2481,8 +2383,6 @@ tiivram* = in an ocean of burning grief.
 That Prahasta the chief of Army having been slain, those demons dumb dispirited and
 inactive, regained the abode of their king. They became unconscious as it were plunged in an ocean
 of burning grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2499,8 +2399,6 @@ experienced; *prahR^iSTa ruupaH* = supreme joy.
 
 The triumphant Nila, however, was honoured by Rama and Lakshmana for his task well
 accomplished and experienced supreme joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
 </details>
 

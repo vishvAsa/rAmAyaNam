@@ -22,8 +22,6 @@ brings them to his palace, and summons all his brothers and ministers to listen 
 Rama himself is put to the turmoil, for the ballad sung by these youngsters narrates the legend
 of Seetha. But he himself collecting his calm, Rama paid his attention to listen the 'Legend
 of Seetha' siithaayaH charitam mahat as Valmiki calls Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -81,8 +79,6 @@ on retrieval, of kingdom by Rama; *vichitrapadam* = admirably worded; *kR^itsnam
 
 The godly saint Valmiki composed Ramayana on Rama's retrieving kingdom, wording admirably
 and meaningfully. [1-4-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -182,8 +178,6 @@ by the sages and hermits in Aranya Kanda. *devasya* and in *dhiimahi* where
 that *deva* the Divine is explained by Hanuma, not only to Seetha but to all in Sundara
 kanda. *hi dhii mahi* is as explained in Uttara Kanda, which centers around *mokSha*
 salvation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -237,8 +231,6 @@ over.
 
 Though that great scholar composed thus with leading and sequel legends, that godly saint
 thought over thus 'really, who will render all this ballad...' [1-4-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -287,8 +279,6 @@ _________________
 
 Then Lava and Kusha who are in the attire of hermits have touched the feet of that contemplative
 soul Valmiki, who is now thoughtful. [1-4-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -333,8 +323,6 @@ residents of [of same] hermitage; *[Valmiki] dadarsha* = seen;
 Glorious Kusha and Lava are the virtue knowing princes, and they are endowed with melodious
 voice, besides being the residents of the same hermitage, thus Valmiki saw them saluting at
 his feet. [1-4-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -357,8 +345,6 @@ intellectual pair; *vedeShu pariniSTitau* = proficient in Vedas; *dR^iSTvaa*
 On seeing that pair intellectuals who are proficient in Veda-s that self-reliant sage Valmiki
 made those two to memorize the epic, as the epic Ramayana is composed only to reinforce the
 import of Veda-s, as an ancillary. [1-4-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -381,8 +367,6 @@ Seetha's conduct is the primary aspect and Ravana's elimination is secondary in 
 Ramayana. *poulasthyavadha* . Giving one to many names to poem/epics is usual as in
 *maaghakaavya'* which is known as *shishupaalavadha* whereas it is actually
 *kR^iShNacarita* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -453,8 +437,6 @@ equal but identical to Breve, Minim and Quaver of Western classical music. The s
 classifications of swara-s are *1] shadja [2] madhyama [3] gaandhaara [4] niSaada [5] R^iSabha
 [6] dhaivata [7] pa~nchama* . These are roughly identical to Accelerando, Calando, Decresando,
 Smorzando, Sostentuo, and others of Western classical music.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -488,8 +470,6 @@ Killing, torturing etc., situations arouse furiousness. Lakshmana, Indrjit and o
 showing bravery. Seeing ugly demons either in forests or those that surround Seetha is causing
 fright. The very sight of ugly bodied demons like Viradha, Kabandha is creating disgust. Hanuma's
 leaping ocean, burning Lanka, and the entire Rama-Ravana war are amazing
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -569,8 +549,6 @@ singers. [1-4-10]
 
 The gandharva-s are celestial beings with adorable personalities and performers of all kinds
 of performing arts. Hence, Indian musical art is termed as *gaandhava-vidyaa*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 </details>
@@ -625,8 +603,6 @@ reflections of one original object, and thus they came out from the body of Rama
 Vishnu's reflection is Rama; and Kusha, Lava are two reflections of Rama, and thus, in turn,
 these two princes are adorable like Vishnu, as in *bimba-pratibimba nyaaya* , image-reflection
 syndrome.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -685,8 +661,6 @@ sarvam* = by voice, preserved [memorized,] all that; *kR^itvaa kaavyam aninditau
 
 They the princes have memorized that virtue-expounding epic, the best; in its entirety and
 in doing so, they rendered that epic faultlessly. [1-4-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -702,8 +676,6 @@ samaagame* = also assemblages of eminent persons; *yathopadesham tattvaj~nau*
 
 They sung the epic as schooled, well aware of its content and intent, among the assemblages
 of sages, scholars and also of eminent persons, with their best concentration [1-4-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -758,8 +730,6 @@ of assemblage; *idam kaavyam agaayataam* = sung this epic.
 
 Once those two great-souls who endowed with musical talent and with all remarkable features,
 sung this epic, standing nearby the midst of a gathering of sages and pious souls. [1-4-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -780,8 +750,6 @@ thus, they, said [appreciated].
 
 On hearing that, the eyes of all the sages were overspread with tears of happiness, and they
 appreciated saying, 'splendid, splendid is this...' [1-4-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -797,8 +765,6 @@ patrons of virtue; *te priitamanasaH* = they pleased at heart; *prashastavyau*
 
 All those saints being the saint-patrons of virtue are pleased at heart, and praised the praiseworthy
 Kusha and Lava, while they are singing. [1-4-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -848,8 +814,6 @@ this though happened long-ago; *pratyakSham iva darshitam* = shown like happenig
 
 "The melody of the ballad, especially the meaning of verses, aha! Superb... though this has
 happened long-ago it is shown like the one happening presently... [1-4-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -892,8 +856,6 @@ svarasampadaa) maintaining pitch and tune; *bhaavam agaayataam* = sang its impor
 
 "On getting into the mood of the epic, those two sang its import in one tune, that too melodiously
 and rapturously, marinating the pitch and tune..." So said the saints. [1-4-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -934,8 +896,6 @@ evam prashasyamaanau* = that way, being appreciated; *tau* = those two; *samrakt
 
 While the great saints of blessed ascesis are appreciating that way, those two melodiously
 sang very effectually and very meaningfully. [1-4-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -986,8 +946,6 @@ sang very effectually and very meaningfully. [1-4-19]
 
 And someone, a pleased saint, got up and bestowed a handy vessel to them... another reputed
 sage, lauding them contributed a jute robe. [1-4-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -1093,8 +1051,6 @@ another a bundle of firewood sticks, and yet another gave a plank-seat of audamb
 and other called forth blessings, and someone then happily chanted bless-hymns for longevity...
 there by all the truth-avowing saints, those that are great sages have thus bestowed boons.
 [1-4-21-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
@@ -1155,8 +1111,6 @@ tomorrow's, poets, subsistence; *yathaakramam cha samaaptam* = completed sequent
 
 "Surprising is this well-said rendering of Valmiki... it is the subsistence for tomorrow's
 poets... and this is completed sequentially, as well... [1-4-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -1263,8 +1217,6 @@ While this song that generates longevity and prosperity, and one that is melodio
 all ears is being sung everywhere in streets and king's ways and while those two singers who
 are experts in singing any kind of music are being appreciated everywhere, Rama has seen them.
 [1-4-27-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1280,8 +1232,6 @@ are experts in singing any kind of music are being appreciated everywhere, Rama 
 
 Then on seeing them Rama, the enemy-eliminator, fetched those honour-worthy bothers, Lava
 and Kusha, to his palace and honoured them. [1-4-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1297,8 +1247,6 @@ sat.
 
 He that king Rama is then surrounded by his ministers and brothers that are sitting his nearby,
 he himself sat on a divine golden throne. [1-4-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -1319,8 +1267,6 @@ likewise; *uvaaca* = spoke to.
 
 Having seen the mannerly brothers endowed with beautiful features, Rama spoke to Lakshmana,
 and Shatrughna, and Bharata likewise. [1-4-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1336,8 +1282,6 @@ two singers, motivated.
 
 Rama said to thus, "Let this ballad be keenly heard from these divinely resplendent brothers,
 for it contains versatile words and meanings...' and thus he motivated the singers. [1-4-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -1394,8 +1338,6 @@ _________________
 Even those two singers have sung the ballad melodiously and effectually, with their clear
 and clarified voices, like the melody of string and rhythmic instruments, with very clear
 and meaningful intonation. [1-4-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1412,8 +1354,6 @@ song; *janasamsadi* = in people's gathering; *sarvagaatraaNi* = for all bodies
 Enthralling courtier's bodies, minds and hearts also, and thus that song shone forth as it
 is for all ears, bearing a comfort in its manifestation, among the gathering of the people.
 [1-4-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -1468,8 +1408,6 @@ it be Rama's alone, he will get the blemish of self-glorification, *aatmaprasham
 , and brave heroes of legends cannot be subjected to such a blemish. And to listen to the
 legend of his dearest, who at present is not with him, gives a kind of consolation, and thus
 he is asking all of us to listen to *siitaayaH caritam mahat* ...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 </details>
 
@@ -1527,8 +1465,6 @@ Then those two singers, motivated by Rama's words, sang the ballad in maarga sys
 are well versed in it, then even Rama, who is also in the congregation, again to pacify his
 mind, [for the story of Seetha puts his mind to turmoil,] became interested at heart [to continue
 listening Seetha's story...] [1-4-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>

@@ -16,8 +16,6 @@ title_english = "021 Surpanakha reports demons death to Khara"
 Shuurpanakha comes again to her brother Khara to report that all the fourteen demons sent by him are
 slain by Rama. She persuades him to wage a war against Rama and Lakshmana and annihilate them for they
 intruded into Dandaka and there is every possibility of onslaught by them on demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -70,8 +68,6 @@ of, came back - to wreck havoc on; *taam* = to her; *vyaktataa vaacaa* = in clea
 
 On seeing Shuurpanakha who came back only to wreck havoc on demonic race and again fell before him as
 before, Khara spoke this sentence to her in clear terms in all his fury. [3-21-1]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -122,8 +118,6 @@ commanded; *punaH kim artham rudyate* = again, what, for, it is wept - you howl.
 
 "What for your are howling again when I have just now commanded those fearless flesh eating demons in
 order to fulfill your wish? [3-21-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -170,8 +164,6 @@ no, not, doers - no question of not accomplishing my order.
 
 "Those demons are my admirers, adherers and they always remained my well-wishers, hence there is no
 question of their non-accomplishment of my orders. [3-21-3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -219,8 +211,6 @@ it; *shrotum icChaami* = to listen, I wish to.
 
 "Owing to what you are highly bawling by saying, 'haa, lord' and wriggle on the ground like a snake?
 I would like to know the reason for all this, what is it? [3-21-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -271,8 +261,6 @@ ward off, thus; *iti* = thus he said.
 
 "I am here to take care of you, then why should you really cry out like an uncared-for being, get up...get
 up, and ward off this sort of perplexity." Thus Khara said to Shuurpanakha. [3-21-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -319,8 +307,6 @@ abraviit* = to brother, Khara, she spoke.
 
 She that Shuurpanakha who is otherwise an unassuageable one is wholly pacified when Khara spoke to her
 thus that way, and she on dabbing her tearful eyes then spoke to her brother Khara. [3-21-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -367,8 +353,6 @@ completely, comforted, also - isn't it.
 
 "I came to you just a while back with my ears and nose chopped off and wet with gushes of blood, and
 you too have comforted me, isn't it. [3-21-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -422,8 +406,6 @@ demons, sent, isn't it.
 
 "Oh, valiant brother, for my delight you too have sent fourteen demons to eliminate that atrocious Rama
 along with Lakshmana, isn't it? [3-21-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -438,8 +420,6 @@ hands; *te sarve* = they, all; *raameNa* = by Rama; *marma bhedibhiH saayakaiH*
 
 "But they all who handled their spears and bolts along with an envious anger are killed in a fight with
 Rama by his arrows that cleave the crucial parts of his opponents. [3-21-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -486,8 +466,6 @@ unusual, deed, also; *dR^iSTvaa* = on seeing; *mama* = to me; *mahaan traasaH ab
 
 "On seeing those highly impetuous demons falling to earth in a trice, and even on seeing the unusual
 deed of Rama in felling them, I am highly alarmed. [3-21-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -534,8 +512,6 @@ you, for refuge, I sought.
 
 "Oh me! I am alarmed, fully frenzied, and even despaired, oh, nightwalker Khara, and beholding dread
 everywhere again I have come seeking your refuge. [3-21-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -582,8 +558,6 @@ me, why, not, rescue.
 
 "Why do not you rescue me when I am drowned in a vast ocean called grief, wherein each pervasive crocodile
 is despair and each swelling wave is fright. [3-21-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -630,8 +604,6 @@ by Rama; *bhuumau* = on earth; *nishitaiH sharaiH nihataa* = with sharp, arrows,
 
 "Besides, those flesh-eating demons that have followed me are also felled by Rama with his sharp arrows,
 for whom I have a contrite heart. [3-21-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -687,8 +659,6 @@ of; *raakSasa kaNTakam* = for demons, a thorn; *jahi* = kill.
 "If you have mercy on me, and even on those dead demons, and if ability and animation are still left
 in you to cope with Rama, oh, nightwalker, kill that Rama who is a thorn in the side of demons dwelling
 in Dandaka forest. [3-21-14, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -739,8 +709,6 @@ that too in your fore, that too now itself.
 
 If you are not going to kill that enemy destroyer Rama now itself, now itself I will give up my life
 than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -815,8 +783,6 @@ I am discerning - instinctually perceiving.
 "I can perceive instinctually that you are incapable of affronting Rama in a given crucial battle, even
 if your are with all your forces on the battlefield, and you assert yourself a valiant, but you are
 just vainglorious. [3-21-16b, 17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -871,8 +837,6 @@ and Duushana are the provincial governors of Janasthaana, nominated by Ravana. I
 the rescue of Shuurpanakha, or to that matter of fact should they not eliminate intruders into Janasthaana,
 there is every possibility of their ouster from their posts by Ravana, because Shuurpanakha has more
 access to Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -922,8 +886,6 @@ kSipram vi nashiSyasi hi* = quickly, completely evanish, indeed; *dasharatha aat
 
 "You will completely and quickly evanish, indeed, subjugated by resplendence of Rama, for that Dasharatha's
 son Rama possess that kind of resplendence, in effect. [3-21-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 </details>
 
@@ -983,8 +945,6 @@ more, she swooned. [3-21-21, 22]
 **टिप्पनी**
 
 The name Khara also stands for a he-ass
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>

@@ -18,8 +18,6 @@ through some foretellers that she has to live in forests for some time, when she
 father's place. But Rama is not interested to make Seetha's life penurious in forests and once
 again tries to pacify her. He asks her to stay back at Ayodhya. For that Seetha laments to become
 lonely parted with her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 
 <details><summary>भागसूचना</summary>
@@ -71,8 +69,6 @@ vachanam* = these words; *mandam* = slowly.
 
 Seetha was distressed to hear these words of Rama and spoke these words slowly, with
 her face with tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -123,8 +119,6 @@ placed before them.
 
 "know all those disadvantages you mentioned about dwelling in the forest become
 advantages to me, if your affection is placed before them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -184,8 +178,6 @@ cause for fear; *sarve* = all; *bibhyati hi* = would have indeed fear.
 legs), birds, yaks and all others which roam in the forest, run away after seeing your form, since
 they have never seen your figure before. When there is cause for fear, who would not have
 fear?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -232,8 +224,6 @@ along with you; *tvadviyogena* = by separation from you; *jiivitam* = life;
 
 "Oh, Rama! As per the command of the elders, I also should go along with you. My
 life is to be abandoned here, if I were separated from you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -283,8 +273,6 @@ me; *tvatsamiipasthaam* = who is in your vicinity.
 
 "Oh Rama! Even Devendra the Lord of celestials, by his strength, cannot over power
 me, who is in your vicinity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -331,8 +319,6 @@ live; *raama* = Oh; *Rama! kaamam* = verily; *evam vidham* = such a thing;
 
 "Oh Rama! Verily such a thing was taught to me by you, that a woman disunited from
 her husband should not be able to survive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -380,8 +366,6 @@ besides; *puraa* = formerly; *pitR^igR^ihe* = in my father's house;
 
 "Oh Rama, the very wise! Besides, formerly in my father's house it was heard by me
 from the month of brahmanas that I was destined to stay really in a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -429,8 +413,6 @@ a forest.
 
 "Oh Rama the man of great strength! Ever since I heard this word from brahmanas who
 can interpret marks on the body, I was always eager to stay in a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -480,8 +462,6 @@ by me; *aham* = I saa = as such; *yaasyaami* = can go; *tatra* = to forest;
 
 "Oh, Rama the beloved! That prediction of dwelling in the forst is to be realised by
 me. I must accordingly accompany you to the forest, it cannot be otherwise."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -529,8 +509,6 @@ come; *bhavatn dvijaH* = let brahmana become; *bhavatu dvijaH* = let brahmana be
 
 "I shall be the one who has fulfilled the brahmana's word. I shall accompany you to
 the forest. The time has come for brahmana's words to come true."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -577,8 +555,6 @@ are many indeed; *niyatam* = certainly; *praapyante* = be obtained;
 
 "Oh valiant prince! I know that in the forest, sufferings indeed are many and are
 invariably obtained by men having unformed minds."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -629,8 +605,6 @@ invariably obtained by men having unformed minds."
 "While I was an unmarried girl, the prediction about my dwelling the forest was
 heard by me in my father's house from a female mendicant having good manners, in the presence of my
 mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -679,8 +653,6 @@ indeed; *tvayaa saha* = with you.
 
 "Oh Lord! In the past, you have been really pleased for many a time to take me along
 with you indeed for the tour of a forest, as longed by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -727,8 +699,6 @@ adventurist; *rochate hi* = is really delightful mama = to me.
 
 "Oh, Rama! May all be well with you! I am waiting for a journey to the forest. A
 work-out of adventurist is really delightful to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -775,8 +745,6 @@ by loving devotion; *anugachchhantii* = following; *bhartaaram* = you; the husba
 
 "Oh, the pure-minded! Following my husband with loving devotion, I shall become
 sin-less; for husband is the supreme deity to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -851,8 +819,6 @@ she(belongs) pretya bhaave.api = even after death.
 words of brahmanas is being heard thus:- In this world, which woman was given away to whom by
 parents with water according to the moral code binding on them, that woman belongs to him alone
 even after death.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -900,8 +866,6 @@ you.
 
 "By what reason now are you thus not willing to take me, the woman having good
 conduct, devoted to her husband and belonging to you, from this place?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -950,8 +914,6 @@ sharing in your joys and sorrows.
 "Oh Rama, the seion of Kakutsa! You ought to take me, who is a devotee, so devoted
 to husband, who is distressed who feels alike in pleasure and pain and shares your joys and
 sorrows."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -998,8 +960,6 @@ or; *agnim* = fire or; *jalamvaa* = water; *mR^ityukaaraNaat* = for dying;
 
 "I shall take resort to poison or fire or water for dying, if you are not willing to
 take me, afflicted as I am, as above."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -1050,8 +1010,6 @@ is a solitary place.
 
 Eventhough she requested him in many ways about setting out to the forest, he did
 not agree to take her to the forest, which is a solitary place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -1098,8 +1056,6 @@ with earth; *snaapayantiiva* = as though wet; *ushhNaiHashrubhiH* = by burning t
 
 After hearing Rama's words, seetha was sorrowful, moistening with earth as it were
 with burning tears, trickling down her eyes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 </details>
 
@@ -1149,8 +1105,6 @@ lips; *chintayantiim* = who was sorrowful; *tathaa* = as above.
 
 Rama the prudent man then pacified in many ways, to avert that Seetha with red lips,
 who was sorrowful as above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga29/ayodhyasans29.htm)
 </details>
 
 <details><summary>समाप्तिः</summary>
