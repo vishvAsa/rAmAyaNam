@@ -103,7 +103,7 @@ When Śarabhaṅga had ascended to heaven (_divaṃ prāpte_), hosts of sages (_
 वैखानसा वालखिल्याः सम्प्रक्षाला मरीचिपाः ।  
 अश्मकुट्टाश्च बहवः पत्राहाराश्च तापसाः ॥ २ ॥  
 दन्तोलूखलिनश्चैव तथैवोन्मज्जकाः परे ।  
-गात्रशय्या अशय्याश्च तथैवानवकाशिकाः ॥ ३ ॥  
+[^non-baroDa-CE] गात्रशय्या अशय्याश्च तथैवानवकाशिकाः ॥ ३ ॥  
 मुनयः सलिलाहारा वायुभक्षास्तथापरे ।  
 आकाशनिलयाश्चैव तथा स्थण्डिलशायिनः ॥ ४ ॥  
 तथोर्ध्ववासिनो दान्तास्तथाऽऽर्द्रपटवाससः ।  
@@ -1204,8 +1204,8 @@ It is said as 'you are the only refuge' because there is no pre or post verbs
 
 <details><summary>मूलम्</summary>
 
-परा त्वत्तो गतिर्वीर पृथिव्यां नोपपद्यते ।  
-परिपालय नः सर्वान् राक्षसेभ्यो नृपात्मज ॥ २० ॥
+[^non-baroDa-CE] परा त्वत्तो गतिर्वीर पृथिव्यां नोपपद्यते ।  
+[^non-baroDa-CE] परिपालय नः सर्वान् राक्षसेभ्यो नृपात्मज ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1329,7 +1329,7 @@ Hearing this speech of those ascetics rich in penance (_tāpasānāṃ tapasvin�
 <details><summary>मूलम्</summary>
 
 नैवमर्हथ मां वक्तुमाज्ञाप्योऽहं तपस्विनाम् ।  
-केवलेन स्वकार्येण प्रवेष्टव्यं वनं मया ॥ २२ ॥
+[^non-baroDa-CE] केवलेन स्वकार्येण प्रवेष्टव्यं वनं मया ॥ २२ ॥
 _________________
 नैवमर्हथ मां वक्तुमाज्ञाप्योऽहं तपस्विनाम् ।  
 केवलेनस्वकार्येण प्रविष्टव्यंवनं मया ॥
@@ -1393,8 +1393,8 @@ Declaring that his forest exile will bear great fruit through the destruction of
 
 <details><summary>मूलम्</summary>
 
-विप्रकारमपाक्रष्टुं राक्षसैर्भवतामिमम् ।  
-पितुस्तु निर्देशकरः प्रविष्टोऽहमिदं वनम् ॥ २३ ॥
+[^non-baroDa-CE] विप्रकारमपाक्रष्टुं राक्षसैर्भवतामिमम् ।  
+[^non-baroDa-CE] पितुस्तु निर्देशकरः प्रविष्टोऽहमिदं वनम् ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1533,7 +1533,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 तपस्विनां रणे शत्रून् हन्तुमिच्छामि राक्षसान् ।  
-पश्यन्तु वीर्यमृषयः सभ्रातुर्मे तपोधनाः ॥ २५ ॥
+[^non-baroDa-CE] पश्यन्तु वीर्यमृषयः सभ्रातुर्मे तपोधनाः ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1649,3 +1649,5 @@ Thus giving his aegis to the sages, that valiant Rama who is firmly virtue-soule
 Having granted that boon to the ascetics rich in penance, the hero, his soul firm in dharma (_dharme dhṛtātmā_), together with Lakṣmaṇa and accompanied by the ascetics, of noble conduct (_ārya-vṛttaḥ_), set out directly toward Sutīkṣṇa.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

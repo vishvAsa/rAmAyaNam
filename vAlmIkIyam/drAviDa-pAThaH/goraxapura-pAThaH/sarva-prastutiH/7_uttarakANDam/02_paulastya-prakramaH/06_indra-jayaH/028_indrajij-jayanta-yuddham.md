@@ -130,7 +130,7 @@ Then, as he entered the field bearing manifold weapons (_praviśatas tasya vivid
 
 <details><summary>मूलम्</summary>
 
-न बभूव तदा कश्चिद् युयुत्सोरस्य सम्मुखे ।  
+[^non-baroDa-CE] न बभूव तदा कश्चिद् युयुत्सोरस्य सम्मुखे ।  
 सर्वानाविद्ध्य वित्रस्तांस्ततः शक्रोऽब्रवीत् सुरान् ॥ ५ ॥
 </details>
 
@@ -358,7 +358,7 @@ And likewise Jayanta, son of Śacī, [pierced] his charioteer (_tasya sārathim_
 
 <details><summary>मूलम्</summary>
 
-स हि क्रोधसमाविष्टो बली विस्फारितेक्षणः ।  
+[^non-baroDa-CE] स हि क्रोधसमाविष्टो बली विस्फारितेक्षणः ।  
 रावणिः शक्रतनयं शरवर्षैरवाकिरत् ॥ १२ ॥
 </details>
 
@@ -397,11 +397,11 @@ Rāvaṇi showers thousands of blades, clubs, and mountain peaks upon the celest
 
 <details><summary>मूलम्</summary>
 
-ततो नानाप्रहरणाञ्छितधारान् सहस्रशः ।  
-पातयामास सङ्क्रुद्धः सुरसैन्येषु रावणिः ॥ १३ ॥
+[^non-baroDa-CE] ततो नानाप्रहरणाञ्छितधारान् सहस्रशः ।  
+[^non-baroDa-CE] पातयामास सङ्क्रुद्धः सुरसैन्येषु रावणिः ॥ १३ ॥
 _________________
 ततो नाना प्रहरणान् शितधारान्सहस्रशः ।  
-पातयामास सङ्क्रुद्धः सुरसैन्येषु रावणिः ॥
+[^non-baroDa-CE] पातयामास सङ्क्रुद्धः सुरसैन्येषु रावणिः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -555,8 +555,8 @@ Nor could they recognize one another (_nābhyajānanta cānyonyam_), whether rā
 
 <details><summary>मूलम्</summary>
 
-देवा देवान् निजघ्नुस्ते राक्षसान् राक्षसास्तथा ।  
-सम्मूढास्तमसाच्छन्ना व्यद्रवन्नपरे तथा ॥ १८ ॥
+[^non-baroDa-CE] देवा देवान् निजघ्नुस्ते राक्षसान् राक्षसास्तथा ।  
+[^non-baroDa-CE] सम्मूढास्तमसाच्छन्ना व्यद्रवन्नपरे तथा ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -656,8 +656,8 @@ Taking up that daughter’s son (_saṅgṛhya taṃ tu dauhitram_), he plunged 
 
 <details><summary>मूलम्</summary>
 
-ज्ञात्वा प्रणाशं तु तदा जयन्तस्याथ देवताः ।  
-अप्रहृष्टास्ततः सर्वा व्यथिताः सम्प्रदुद्रुवुः ॥ २१ ॥
+[^non-baroDa-CE] ज्ञात्वा प्रणाशं तु तदा जयन्तस्याथ देवताः ।  
+[^non-baroDa-CE] अप्रहृष्टास्ततः सर्वा व्यथिताः सम्प्रदुद्रुवुः ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1346,7 +1346,7 @@ Bristling with weapons and bleeding like a storm-cloud, Kumbhakarṇa fights on 
 
 <details><summary>मूलम्</summary>
 
-बभौ शस्त्राचिततनुः कुम्भकर्णः क्षरन्नसृक् ।  
+[^non-baroDa-CE] बभौ शस्त्राचिततनुः कुम्भकर्णः क्षरन्नसृक् ।  
 विद्युत्स्तनितनिर्घोषो धारावानिव तोयदः ॥ ३७ ॥
 </details>
 
@@ -1747,3 +1747,4 @@ Then, as those two fought fiercely with showers of arrows on every side (_prayud
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

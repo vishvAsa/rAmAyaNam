@@ -48,7 +48,7 @@ Enraged at hearing of Makarākṣa's death, Rāvaṇa commands Indrajit to slay 
 <details><summary>मूलम्</summary>
 
 मकराक्षं हतं श्रुत्वा रावणः समितिञ्जयः ।  
-रोषेण महताविष्टो दन्तान् कटकटाय्य च ॥ १ ॥
+[^non-baroDa-CE] रोषेण महताविष्टो दन्तान् कटकटाय्य च ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -78,7 +78,7 @@ Hearing that Makarākṣa had been slain, Rāvaṇa, victorious in battle (_sami
 
 <details><summary>मूलम्</summary>
 
-कुपितश्च तदा तत्र किं कार्यमिति चिन्तयन् ।  
+[^non-baroDa-CE] कुपितश्च तदा तत्र किं कार्यमिति चिन्तयन् ।  
 आदिदेशाथ सङ्क्रुद्धो रणायेन्द्रजितं सुतम् ॥ २ ॥
 </details>
 
@@ -2276,3 +2276,4 @@ Having spoken this word of great import (_vacanaṃ mahārtham_), that great-sou
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -29,8 +29,8 @@ As dawn breaks after the first joy-filled night of Rāma’s consecration, sweet
 
 <details><summary>मूलम्</summary>
 
-अभिषिक्ते तु काकुत्स्थे धर्मेण विदितात्मनि ।  
-व्यतीता या निशा पूर्वा पौराणां हर्षवर्धिनी ॥ १ ॥
+[^non-baroDa-CE] अभिषिक्ते तु काकुत्स्थे धर्मेण विदितात्मनि ।  
+[^non-baroDa-CE] व्यतीता या निशा पूर्वा पौराणां हर्षवर्धिनी ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -60,11 +60,11 @@ When the scion of Kakutstha, knower of the self, had been consecrated according 
 
 <details><summary>मूलम्</summary>
 
-तस्यां रजन्यां व्युष्टायां प्रातर्नृपतिबोधकाः ।  
-वन्दिनः समुपातिष्ठन् सौम्या नृपतिवेश्मनि ॥ २ ॥
+[^non-baroDa-CE] तस्यां रजन्यां व्युष्टायां प्रातर्नृपतिबोधकाः ।  
+[^non-baroDa-CE] वन्दिनः समुपातिष्ठन् सौम्या नृपतिवेश्मनि ॥ २ ॥
 _________________
 तस्यां रजन्यां व्यष्टायां प्रातर्नृपतिबोधकाः ।  
-वन्दिनः समुपातिष्ठन्सौम्या नृपतिवेश्मनि ॥
+[^non-baroDa-CE] वन्दिनः समुपातिष्ठन्सौम्या नृपतिवेश्मनि ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -94,7 +94,7 @@ When that night brightened into dawn (_tasyāṃ rajanyāṃ vyuṣṭāyām_), 
 
 <details><summary>मूलम्</summary>
 
-ते रक्तकण्ठिनः सर्वे किन्नरा इव शिक्षिताः ।  
+[^non-baroDa-CE] ते रक्तकण्ठिनः सर्वे किन्नरा इव शिक्षिताः ।  
 तुष्टुवुर्नृपतिं वीरं यथावत् सम्प्रहर्षिणः ॥ ३ ॥
 </details>
 
@@ -125,11 +125,11 @@ All those sweet-voiced singers (_te raktakaṇṭhinaḥ sarve_), skilled like c
 
 <details><summary>मूलम्</summary>
 
-वीर सौम्य प्रबुध्यस्व कौसल्याप्रीतिवर्धन ।  
-जगद्धि सर्वं स्वपिति त्वयि सुप्ते नराधिप ॥ ४ ॥
+[^non-baroDa-CE] वीर सौम्य प्रबुध्यस्व कौसल्याप्रीतिवर्धन ।  
+[^non-baroDa-CE] जगद्धि सर्वं स्वपिति त्वयि सुप्ते नराधिप ॥ ४ ॥
 _________________
 वीर सौम्य प्रबुध्यस्य कौसल्याप्रीतिवर्धन ।  
-जगद्धि सर्वं स्वपिति त्वयि सुप्ते नराधिप ॥
+[^non-baroDa-CE] जगद्धि सर्वं स्वपिति त्वयि सुप्ते नराधिप ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -159,8 +159,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-विक्रमस्ते यथा विष्णो रूपं चैवाश्विनोरिव ।  
-बुद‍्ध्या बृहस्पतेस्तुल्यः प्रजापतिसमो ह्यसि ॥ ५ ॥
+[^non-baroDa-CE] विक्रमस्ते यथा विष्णो रूपं चैवाश्विनोरिव ।  
+[^non-baroDa-CE] बुद‍्ध्या बृहस्पतेस्तुल्यः प्रजापतिसमो ह्यसि ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -190,8 +190,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-क्षमा ते पृथिवीतुल्या तेजसा भास्करोपमः ।  
-वेगस्ते वायुना तुल्यो गाम्भीर्यमुदधेरिव ॥ ६ ॥
+[^non-baroDa-CE] क्षमा ते पृथिवीतुल्या तेजसा भास्करोपमः ।  
+[^non-baroDa-CE] वेगस्ते वायुना तुल्यो गाम्भीर्यमुदधेरिव ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -230,7 +230,7 @@ Finishing their dawn hymn to Rāma as steadfast as Śiva and gentle as the moon,
 <details><summary>मूलम्</summary>
 
 अप्रकम्प्यो यथा स्थाणुश्चन्द्रे सौम्यत्वमीदृशम् ।  
-नेदृशाः पार्थिवाः पूर्वं भवितारो नराधिप ॥ ७ ॥
+[^non-baroDa-CE] नेदृशाः पार्थिवाः पूर्वं भवितारो नराधिप ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -261,10 +261,10 @@ Finishing their dawn hymn to Rāma as steadfast as Śiva and gentle as the moon,
 <details><summary>मूलम्</summary>
 
 यथा त्वमसि दुर्धर्षो धर्मनित्यः प्रजाहितः ।  
-न त्वां जहाति कीर्तिश्च लक्ष्मीश्च पुरुषर्षभ ॥ ८ ॥
+[^non-baroDa-CE] न त्वां जहाति कीर्तिश्च लक्ष्मीश्च पुरुषर्षभ ॥ ८ ॥
 _________________
 यथा त्वमसि दुर्धषो धर्मनित्यः प्रजाहितः ।  
-न त्वां जहाति कीर्तिश्च लक्ष्मीश्च पुरुषर्षभ ॥
+[^non-baroDa-CE] न त्वां जहाति कीर्तिश्च लक्ष्मीश्च पुरुषर्षभ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -294,10 +294,10 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-श्रीश्च धर्मश्च काकुत्स्थ त्वयि नित्यं प्रतिष्ठितौ ।  
-एताश्चान्याश्च मधुरा वन्दिभिः परिकीर्तिताः ॥ ९ ॥
+[^non-baroDa-CE] श्रीश्च धर्मश्च काकुत्स्थ त्वयि नित्यं प्रतिष्ठितौ ।  
+[^non-baroDa-CE] एताश्चान्याश्च मधुरा वन्दिभिः परिकीर्तिताः ॥ ९ ॥
 _________________
-श्रीश्च धर्मश्च काकुत्स्थ त्वयि नित्यं प्रतिष्ठितौ ।  
+[^non-baroDa-CE] श्रीश्च धर्मश्च काकुत्स्थ त्वयि नित्यं प्रतिष्ठितौ ।  
 एताश्चान्याश्च मधुरा वन्दिभिः परिकीर्तताः ॥
 </details>
 
@@ -328,8 +328,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-सूताश्च संस्तवैर्दिव्यैर्बोधयन्ति स्म राघवम् ।  
-स्तुतिभिः स्तूयमानाभिः प्रत्यबुध्यत राघवः ॥ १० ॥
+[^non-baroDa-CE] सूताश्च संस्तवैर्दिव्यैर्बोधयन्ति स्म राघवम् ।  
+[^non-baroDa-CE] स्तुतिभिः स्तूयमानाभिः प्रत्यबुध्यत राघवः ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -360,7 +360,7 @@ And the royal _sūtas_ likewise kept awakening Rāghava with divine hymns of pra
 <details><summary>मूलम्</summary>
 
 स तद्विहाय शयनं पाण्डुराच्छादनास्तृतम् ।  
-उत्तस्थौ नागशयनाद्धरिर्नारायणो यथा ॥ ११ ॥
+[^non-baroDa-CE] उत्तस्थौ नागशयनाद्धरिर्नारायणो यथा ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -390,10 +390,10 @@ Leaving that couch spread with pale-white linen (_sa tad vihāya śayanaṃ pā�
 
 <details><summary>मूलम्</summary>
 
-तमुत्थितं महात्मानं प्रह्वाः प्राञ्जलयो नराः ।  
-सलिलं भाजनैः शुभ्रैरुपतस्थुः सहस्रशः ॥ १२ ॥
+[^non-baroDa-CE] तमुत्थितं महात्मानं प्रह्वाः प्राञ्जलयो नराः ।  
+[^non-baroDa-CE] सलिलं भाजनैः शुभ्रैरुपतस्थुः सहस्रशः ॥ १२ ॥
 _________________
-तमुत्थितं महात्मानं प्रह्वाः प्राञ्जलयो नराः ।  
+[^non-baroDa-CE] तमुत्थितं महात्मानं प्रह्वाः प्राञ्जलयो नराः ।  
 सलीलं भाजनैः शुभ्रैरुपतस्थुः सहस्रशः ॥
 </details>
 
@@ -433,7 +433,7 @@ Having performed ablutions, fire-oblations, and ancestral worship in the Ikṣv�
 <details><summary>मूलम्</summary>
 
 कृतोदकः शुचिर्भूत्वा काले हुतहुताशनः ।  
-देवागारं जगामाशु पुण्यमिक्ष्वाकुसेवितम् ॥ १३ ॥
+[^non-baroDa-CE] देवागारं जगामाशु पुण्यमिक्ष्वाकुसेवितम् ॥ १३ ॥
 _________________
 कृतोदकः शुचिर्भूत्वा काले हुतहुताशनः ।  
 देवागारं जगामातु पुण्यमिक्ष्वाकुसेवितम् ॥
@@ -467,7 +467,7 @@ Purified by morning ablutions (_kṛtodaka-śucir bhūtvā_) and having offered 
 <details><summary>मूलम्</summary>
 
 तत्र देवान् पितॄन् विप्रानर्चयित्वा यथाविधि ।  
-बाह्यकक्षान्तरं रामो निर्जगाम जनैर्वृतः ॥ १४ ॥
+[^non-baroDa-CE] बाह्यकक्षान्तरं रामो निर्जगाम जनैर्वृतः ॥ १४ ॥
 _________________
 तत्र देवान्पितृन्विप्रानर्चयित्वा यथाविधि ।  
 बाह्यकक्ष्यान्तरं रामो निर्जगाम जनैर्वृतः ॥
@@ -500,8 +500,8 @@ Having duly worshipped the gods, the ancestors, and the Brahmins there (_tatra d
 
 <details><summary>मूलम्</summary>
 
-उपतस्थुर्महात्मानो मन्त्रिणः सपुरोहिताः ।  
-वसिष्ठप्रमुखाः सर्वे दीप्यमाना इवाग्नयः ॥ १५ ॥
+[^non-baroDa-CE] उपतस्थुर्महात्मानो मन्त्रिणः सपुरोहिताः ।  
+[^non-baroDa-CE] वसिष्ठप्रमुखाः सर्वे दीप्यमाना इवाग्नयः ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -531,7 +531,7 @@ High-souled ministers together with the royal priests, headed by Vasiṣṭha (_
 
 <details><summary>मूलम्</summary>
 
-क्षत्रियाश्च महात्मानो नानाजनपदेश्वराः ।  
+[^non-baroDa-CE] क्षत्रियाश्च महात्मानो नानाजनपदेश्वराः ।  
 रामस्योपाविशन् पार्श्वे शक्रस्येव यथामराः ॥ १६ ॥
 </details>
 
@@ -562,10 +562,10 @@ High-souled Kṣatriyas as well, lords of manifold realms (_kṣatriyāś ca mah
 
 <details><summary>मूलम्</summary>
 
-भरतो लक्ष्मणश्चात्र शत्रुघ्नश्च महायशाः ।  
-उपासाञ्चक्रिरे हृष्टा वेदास्त्रय इवाध्वरम् ॥ १७ ॥
+[^non-baroDa-CE] भरतो लक्ष्मणश्चात्र शत्रुघ्नश्च महायशाः ।  
+[^non-baroDa-CE] उपासाञ्चक्रिरे हृष्टा वेदास्त्रय इवाध्वरम् ॥ १७ ॥
 _________________
-भरतो लक्ष्मणश्चात्र शत्रुघ्नश्च महायशाः ।  
+[^non-baroDa-CE] भरतो लक्ष्मणश्चात्र शत्रुघ्नश्च महायशाः ।  
 उपासाञ्चक्रीरे हृष्टा वेदास्त्रय इवाध्वरम् ॥
 </details>
 
@@ -596,8 +596,8 @@ Bharata, Lakṣmaṇa, and renowned Śatrughna (_bharato lakṣmaṇaś cātra �
 
 <details><summary>मूलम्</summary>
 
-याताः प्राञ्जलयो भूत्वा किङ्करा मुदिताननाः ।  
-मुदिता नाम पार्श्वस्था बहवः समुपाविशन् ॥ १८ ॥
+[^non-baroDa-CE] याताः प्राञ्जलयो भूत्वा किङ्करा मुदिताननाः ।  
+[^non-baroDa-CE] मुदिता नाम पार्श्वस्था बहवः समुपाविशन् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -635,8 +635,8 @@ Attended by twenty vānara chiefs, Vibhīṣaṇa’s counselors, Vedic elders, 
 
 <details><summary>मूलम्</summary>
 
-वानराश्च महावीर्या विंशतिः कामरूपिणः ।  
-सुग्रीवप्रमुखा राममुपासन्ते महौजसः ॥ १९ ॥
+[^non-baroDa-CE] वानराश्च महावीर्या विंशतिः कामरूपिणः ।  
+[^non-baroDa-CE] सुग्रीवप्रमुखा राममुपासन्ते महौजसः ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -669,11 +669,11 @@ Twenty vānaras of mighty valor, shape-shifting at will and endowed with great e
 
 <details><summary>मूलम्</summary>
 
-विभीषणश्च रक्षोभिश्चतुर्भिः परिवारितः ।  
+[^non-baroDa-CE] विभीषणश्च रक्षोभिश्चतुर्भिः परिवारितः ।  
 उपासते महात्मानं धनेशमिव गुह्यकः ॥ २० ॥
 _________________
 विभीषणश्च रक्षतोभिश्चतुर्भिः परिवारितः ।  
-उपासते महात्मानं धनेशमिव गुह्यकाः ॥
+[^non-baroDa-CE] उपासते महात्मानं धनेशमिव गुह्यकाः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -703,7 +703,7 @@ And Vibhīṣaṇa, attended by his four rākṣasa counselors (_vibhīṣaṇa�
 
 <details><summary>मूलम्</summary>
 
-तथा निगमवृद्धाश्च कुलीना ये च मानवाः ।  
+[^non-baroDa-CE] तथा निगमवृद्धाश्च कुलीना ये च मानवाः ।  
 शिरसा वन्द्य राजानमुपासन्ते विचक्षणाः ॥ २१ ॥
 </details>
 
@@ -735,7 +735,7 @@ Likewise, discerning elders steeped in Vedic lore and men of noble lineage (_nig
 <details><summary>मूलम्</summary>
 
 तथा परिवृतो राजा श्रीमद्भिर्ऋषिभिर्वरैः ।  
-राजभिश्च महावीर्यैर्वानरैश्च सराक्षसैः ॥ २२ ॥
+[^non-baroDa-CE] राजभिश्च महावीर्यैर्वानरैश्च सराक्षसैः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -765,8 +765,8 @@ Thus surrounded, the king is encompassed by illustrious sages (_tathā parivṛt
 
 <details><summary>मूलम्</summary>
 
-यथा देवेश्वरो नित्यमृषिभिः समुपास्यते ।  
-अधिकस्तेन रूपेण सहस्राक्षाद् विरोचते ॥ २३ ॥
+[^non-baroDa-CE] यथा देवेश्वरो नित्यमृषिभिः समुपास्यते ।  
+[^non-baroDa-CE] अधिकस्तेन रूपेण सहस्राक्षाद् विरोचते ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -796,8 +796,8 @@ Even as the Lord of Gods is ever waited upon by the sages (_yathā deveśvaro ni
 
 <details><summary>मूलम्</summary>
 
-तेषां समुपविष्टानां तास्ताः सुमधुराः कथाः ।  
-कथ्यन्ते धर्मसंयुक्ताः पुराणज्ञैर्महात्मभिः ॥ २४ ॥
+[^non-baroDa-CE] तेषां समुपविष्टानां तास्ताः सुमधुराः कथाः ।  
+[^non-baroDa-CE] कथ्यन्ते धर्मसंयुक्ताः पुराणज्ञैर्महात्मभिः ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -824,3 +824,5 @@ Even as the Lord of Gods is ever waited upon by the sages (_yathā deveśvaro ni
 Among them, seated harmoniously together (_teṣāṃ samupaviṣṭānām_), manifold sweet narratives imbued with dharma (_tās tāḥ sumadhurāḥ kathāḥ ... dharmasaṃyuktāḥ_) are recounted by high-souled masters of ancient lore (_kathyante ... purāṇajñair mahātmabhiḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

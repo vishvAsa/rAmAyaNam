@@ -670,7 +670,7 @@ obtain you."
 
 <details><summary>मूलम्</summary>
 
-अन्या तु विकटा नाम राक्षसी वाक्यमब्रवीत् ।  
+[^non-baroDa-CE] अन्या तु विकटा नाम राक्षसी वाक्यमब्रवीत् ।  
 असकृद् भीमवीर्येण नागा गन्धर्वदानवाः ।  
 निर्जिताः समरे येन स ते पार्श्वमुपागतः ॥ १४ ॥  
 तस्य सर्वसमृद्धस्य रावणस्य महात्मनः ।  
@@ -679,7 +679,7 @@ _________________
 सर्वासां च महाभागां त्वामुपैष्यति रावणः ।  
 समृद्धं स्त्रीसहस्रेण नानारत्नोपशोभितम् ॥
 अन्तःपुरं समुत्सृज्य त्वामुपैष्यति रावणः ।  
-अन्या तु विकटा नाम राक्षसी वाक्यमब्रवीत् ॥
+[^non-baroDa-CE] अन्या तु विकटा नाम राक्षसी वाक्यमब्रवीत् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -734,7 +734,7 @@ Durmukhī warns Sītā that even the sun, wind, trees, mountains, and clouds obe
 
 <details><summary>मूलम्</summary>
 
-ततस्तां दुर्मुखी नाम राक्षसी वाक्यमब्रवीत् ।  
+[^non-baroDa-CE] ततस्तां दुर्मुखी नाम राक्षसी वाक्यमब्रवीत् ।  
 यस्य सूर्यो न तपति भीतो यस्य स मारुतः ।  
 न वाति स्मायतापाङ्गि किं त्वं तस्य न तिष्ठसे ॥ १६ ॥
 _________________
@@ -914,3 +914,5 @@ who is the king of ogres and king of kings."
 Rightly (_sādhu_) has this been told to you in truth (_tattvataḥ_), O queen! Rightly accept (_gṛhāṇa_) this word, O spirited lady of lovely smile (_susmite_); otherwise you shall not live (_na bhaviṣyasi_)!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -919,8 +919,8 @@ As the six rākṣasa champions sally forth, Mahodara mounts the elephant Sudar�
 
 सर्वौषधीभिर्गन्धैश्च समालभ्य महाबलाः ।  
 निर्जग्मुर्नैर्ऋतश्रेष्ठाः षडेते युद्धकाङ्क्षिणः ॥ १८ ॥  
-त्रिशिराश्चातिकायश्च देवान्तकनरान्तकौ ।  
-महोदरमहापार्श्वौ निर्जग्मुः कालचोदिताः ॥ १९ ॥
+[^non-baroDa-CE] त्रिशिराश्चातिकायश्च देवान्तकनरान्तकौ ।  
+[^non-baroDa-CE] महोदरमहापार्श्वौ निर्जग्मुः कालचोदिताः ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2164,12 +2164,12 @@ Roaring in mutual defiance, the monkey commanders plunge into the rākṣasa ran
 दीप्तानलरविप्रख्यैर्नैर्ऋतैः सर्वतो वृतम् ।  
 तद् दृष्ट्वा बलमायातं लब्धलक्षाः प्लवङ्गमाः ॥ ४२ ॥  
 समुद्यतमहाशैलाः सम्प्रणेदुर्मुहुर्मुहुः ।  
-अमृष्यमाणा रक्षांसि प्रतिनर्दन्त वानराः ॥ ४३ ॥
+[^non-baroDa-CE] अमृष्यमाणा रक्षांसि प्रतिनर्दन्त वानराः ॥ ४३ ॥
 _________________
 दीप्ता नलरविप्रख्यैर्नैर्ऋतैः सर्वतोवृतम् ।  
 तद्दृष्ट्वा बलमायान्तं लब्धलक्षाः प्लवङ्गमाः ॥
 समुद्यत महाशैलाः सम्प्रणेदुर्मुहुर्मुहुः ।  
-अमृष्यमाणा रक्षांसि प्रतिनर्दन्त वानराः ॥
+[^non-baroDa-CE] अमृष्यमाणा रक्षांसि प्रतिनर्दन्त वानराः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2341,11 +2341,11 @@ Plunging into the dreadful rākṣasa army (_te rākṣasabalaṃ ghoraṃ pravi
 
 केचिदाकाशमाविश्य केचिदुर्व्यां प्लवङ्गमाः ।  
 रक्षःसैन्येषु सङ्क्रुद्धाः केचिद् द्रुमशिलायुधाः ॥ ४६ ॥  
-द्रुमांश्च विपुलस्कन्धान् गृह्य वानरपुङ्गवाः ।
+[^non-baroDa-CE] द्रुमांश्च विपुलस्कन्धान् गृह्य वानरपुङ्गवाः ।
 _________________
 केचिदाकाशमाविश्य केचिदुर्व्यां प्लवङ्गमाः ।  
 रक्षः सैन्येषु सङ्क्रुद्धाः केचित्द्रुम शिलायुधाः ॥  
-द्रुमांश्च विपुलस्कन्धान्गृह्य वानरपुङ्गवाः ।
+[^non-baroDa-CE] द्रुमांश्च विपुलस्कन्धान्गृह्य वानरपुङ्गवाः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2647,8 +2647,8 @@ Leaping up suddenly (_sahasāplutya_), the monkeys struck down the yātudhānas 
 
 <details><summary>मूलम्</summary>
 
-राक्षसाश्च शरैस्तीक्ष्णैर्बिभिदुः कपिकुञ्जरान् ॥ ५२ ॥  
-शूलमुद‍्गरखड्गैश्च जघ्नुः प्रासैश्च शक्तिभिः ।
+[^non-baroDa-CE] राक्षसाश्च शरैस्तीक्ष्णैर्बिभिदुः कपिकुञ्जरान् ॥ ५२ ॥  
+[^non-baroDa-CE] शूलमुद‍्गरखड्गैश्च जघ्नुः प्रासैश्च शक्तिभिः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2699,8 +2699,8 @@ There the bulls among rākṣasas staggered, fell, and shrieked (_celuḥ petuś
 
 <details><summary>मूलम्</summary>
 
-अन्योन्यं पातयामासुः परस्परजयैषिणः ॥ ५३ ॥  
-रिपुशोणितदिग्धाङ्गास्तत्र वानरराक्षसाः ।
+[^non-baroDa-CE] अन्योन्यं पातयामासुः परस्परजयैषिणः ॥ ५३ ॥  
+[^non-baroDa-CE] रिपुशोणितदिग्धाङ्गास्तत्र वानरराक्षसाः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2812,10 +2812,10 @@ Within an hour the earth is drenched in blood as monkeys and rākṣasas grapple
 <details><summary>मूलम्</summary>
 
 विकीर्णैः पर्वताकारै रक्षोभिरभिमर्दितैः ।  
-आसीद् वसुमती पूर्णा तदा युद्धमदान्वितैः ॥ ५५ ॥
+[^non-baroDa-CE] आसीद् वसुमती पूर्णा तदा युद्धमदान्वितैः ॥ ५५ ॥
 _________________
 विकीणैः पर्वताकारै रक्षोभि रभिमदितैः ।  
-आसीद्वसुमती पूर्णा तदा युद्धमदान्वितैः ॥
+[^non-baroDa-CE] आसीद्वसुमती पूर्णा तदा युद्धमदान्वितैः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2867,7 +2867,7 @@ within an hour (_muhūrtena_), the earth was covered over and drenched with bloo
 <details><summary>मूलम्</summary>
 
 आक्षिप्ताः क्षिप्यमाणाश्च भग्नशैलाश्च वानराः ।  
-पुनरङ्गैस्तदा चक्रुरासन्ना युद्धमद्भुतम् ॥ ५६ ॥
+[^non-baroDa-CE] पुनरङ्गैस्तदा चक्रुरासन्ना युद्धमद्भुतम् ॥ ५६ ॥
 _________________
 आक्षिप्राः क्षिप्यमाणाश्च भग्नशैलाश्च वानराः ।  
 पुनरङ्गैस्तथा चक्रुरासन्ना युद्धमद्भुतम् ॥
@@ -3304,10 +3304,10 @@ Strewn with shattered mountains and cloven trees in the fray (_vikīrṇāḥ pa
 
 <details><summary>मूलम्</summary>
 
-ते वानरा गर्वितहृष्टचेष्टाः  
+[^non-baroDa-CE] ते वानरा गर्वितहृष्टचेष्टाः  
 सङ्ग्राममासाद्य भयं विमुच्य ।  
-युद्धं स्म सर्वे सह राक्षसैस्ते  
-नानायुधाश्चक्रुरदीनसत्त्वाः ॥ ६४ ॥
+[^non-baroDa-CE] युद्धं स्म सर्वे सह राक्षसैस्ते  
+[^non-baroDa-CE] नानायुधाश्चक्रुरदीनसत्त्वाः ॥ ६४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4585,7 +4585,7 @@ sensation equal to a thunderbolt, towards my chest."
 
 अङ्गदस्य वचः श्रुत्वा प्रचुक्रोध नरान्तकः ।  
 सन्दश्य दशनैरोष्ठं निःश्वस्य च भुजङ्गवत् ।  
-अभिगम्याङ्गदं क्रुद्धो वालिपुत्रं नरान्तकः ॥ ८७ ॥
+[^non-baroDa-CE] अभिगम्याङ्गदं क्रुद्धो वालिपुत्रं नरान्तकः ॥ ८७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5188,3 +5188,5 @@ terrible acts, was infused with vigour and again showed enthusiasm in battle.
 For Aṅgada had accomplished that exceedingly difficult feat of valor (_suduṣkaraṃ taṃ kṛtavān hi vikramam_) which gladdened the heart of Rāma (_rāmamanaḥpraharṣaṇam_); and [Rāma] too was struck with wonder (_visismiye so&#x27;py atha_), while Aṅgada of terrible deeds became jubilant once more for battle (_punaś ca yuddhe sa babhūva harṣitaḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

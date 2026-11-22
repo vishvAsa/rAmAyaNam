@@ -2099,7 +2099,7 @@ Resembling a mountain himself (_pṛthivīdharasaṃkāśaḥ_), the son of the 
 
 <details><summary>मूलम्</summary>
 
-आरुरोह तदा तस्माद्धरिर्मलयपर्वतम् ।  
+[^non-baroDa-CE] आरुरोह तदा तस्माद्धरिर्मलयपर्वतम् ।  
 मेरुमन्दरसङ्काशं नानाप्रस्रवणाकुलम् ॥ ४२ ॥
 </details>
 
@@ -2138,8 +2138,8 @@ Swelling like a cloud on the sixty-yojana peak, Hanūmān opens his jaws like th
 
 <details><summary>मूलम्</summary>
 
-नानाद्रुमलताकीर्णं विकासिकमलोत्पलम् ।  
-सेवितं देवगन्धर्वैः षष्टियोजनमुच्छ्रितम् ॥ ४३ ॥
+[^non-baroDa-CE] नानाद्रुमलताकीर्णं विकासिकमलोत्पलम् ।  
+[^non-baroDa-CE] सेवितं देवगन्धर्वैः षष्टियोजनमुच्छ्रितम् ॥ ४३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2169,8 +2169,8 @@ Swelling like a cloud on the sixty-yojana peak, Hanūmān opens his jaws like th
 
 <details><summary>मूलम्</summary>
 
-विद्याधरैर्मुनिगणैरप्सरोभिर्निषेवितम् ।  
-नानामृगगणाकीर्णं बहुकन्दरशोभितम् ॥ ४४ ॥
+[^non-baroDa-CE] विद्याधरैर्मुनिगणैरप्सरोभिर्निषेवितम् ।  
+[^non-baroDa-CE] नानामृगगणाकीर्णं बहुकन्दरशोभितम् ॥ ४४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2200,7 +2200,7 @@ Swelling like a cloud on the sixty-yojana peak, Hanūmān opens his jaws like th
 
 <details><summary>मूलम्</summary>
 
-सर्वानाकुलयंस्तत्र यक्षगन्धर्वकिन्नरान् ।  
+[^non-baroDa-CE] सर्वानाकुलयंस्तत्र यक्षगन्धर्वकिन्नरान् ।  
 हनूमान् मेघसङ्काशो ववृधे मारुतात्मजः ॥ ४५ ॥
 </details>
 
@@ -2747,7 +2747,7 @@ Beholding mountains, flocks of birds, lakes, rivers, pools, noble cities, and fl
 <details><summary>मूलम्</summary>
 
 आदित्यपथमाश्रित्य जगाम स गतश्रमः ।  
-हनूमांस्त्वरितो वीरः पितुस्तुल्यपराक्रमः ॥ ५४ ॥
+[^non-baroDa-CE] हनूमांस्त्वरितो वीरः पितुस्तुल्यपराक्रमः ॥ ५४ ॥
 _________________
 आदित्यपथमाश्रित्य जगाम स गतश्रमः ।  
 हनुमांस्त्वरितो वीरः पितुस्तुल्यपराक्रमः ॥
@@ -2803,8 +2803,8 @@ Making the quarters resound as he speeds like the wind, Hanūmān reaches cloud-
 
 <details><summary>मूलम्</summary>
 
-जवेन महता युक्तो मारुतिर्वातरंहसा ।  
-जगाम हरिशार्दूलो दिशः शब्देन नादयन् ॥ ५५ ॥
+[^non-baroDa-CE] जवेन महता युक्तो मारुतिर्वातरंहसा ।  
+[^non-baroDa-CE] जगाम हरिशार्दूलो दिशः शब्देन नादयन् ॥ ५५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2855,8 +2855,8 @@ Endowed with mighty speed and the velocity of the wind (_vātaraṃhasā_), Mār
 
 <details><summary>मूलम्</summary>
 
-स्मरञ्जाम्बवतो वाक्यं मारुतिर्भीमविक्रमः ।  
-ददर्श सहसा चापि हिमवन्तं महाकपिः ॥ ५६ ॥
+[^non-baroDa-CE] स्मरञ्जाम्बवतो वाक्यं मारुतिर्भीमविक्रमः ।  
+[^non-baroDa-CE] ददर्श सहसा चापि हिमवन्तं महाकपिः ॥ ५६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2910,7 +2910,7 @@ Remembering Jāmbavān&#x27;s words (_smarañ jāmbavato vākyam_), that great m
 
 नानाप्रस्रवणोपेतं बहुकन्दरनिर्झरम् ।  
 श्वेताभ्रचयसङ्काशैः शिखरैश्चारुदर्शनैः ।  
-शोभितं विविधैर्वृक्षैरगमत् पर्वतोत्तमम् ॥ ५७ ॥
+[^non-baroDa-CE] शोभितं विविधैर्वृक्षैरगमत् पर्वतोत्तमम् ॥ ५७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3880,18 +3880,18 @@ Revived instantly with Rāma and Lakṣmaṇa by the herbs' fragrance while the 
 तं गन्धमाघ्राय महौषधीनाम् ।  
 बभूवतुस्तत्र तदा विशल्या-  
 वुत्तस्थुरन्ये च हरिप्रवीराः ॥ ७३ ॥  
-सर्वे विशल्या विरुजाः क्षणेन  
-हरिप्रवीराश्च हताश्च ये स्युः ।  
-गन्धेन तासां प्रवरौषधीनां  
-सुप्ता निशान्तेष्विव सम्प्रबुद्धाः ॥ ७४ ॥
+[^non-baroDa-CE] सर्वे विशल्या विरुजाः क्षणेन  
+[^non-baroDa-CE] हरिप्रवीराश्च हताश्च ये स्युः ।  
+[^non-baroDa-CE] गन्धेन तासां प्रवरौषधीनां  
+[^non-baroDa-CE] सुप्ता निशान्तेष्विव सम्प्रबुद्धाः ॥ ७४ ॥
 _________________
 तवाप्युभौ मानुषराजपुत्रौ  
 तं गन्धमाघ्राय महौषधीनाम् ।  
 बभूवतुस्तत्र तदा विशल्या-  
 वुत्तस्थुरन्ये च हरिप्रवीराः ॥
-सर्वे विशल्या विरुजाः क्षणेन  
-हरिप्रवीराश्च हताश्च ये स्युः ।  
-गन्धेन तासां प्रवरौषधीनां  
+[^non-baroDa-CE] सर्वे विशल्या विरुजाः क्षणेन  
+[^non-baroDa-CE] हरिप्रवीराश्च हताश्च ये स्युः ।  
+[^non-baroDa-CE] गन्धेन तासां प्रवरौषधीनां  
 सुप्ता निशान्तेष्टि व सम्प्रबुद्धाः ॥
 </details>
 
@@ -4196,10 +4196,10 @@ Rāma Varmā (_Tilaka_) notes the _ārṣa_ vowel-lengthening in ओषधीश
 
 <details><summary>मूलम्</summary>
 
-यदाप्रभृति लङ्कायां युध्यन्ते हरिराक्षसाः ।  
-तदाप्रभृति मानार्थमाज्ञया रावणस्य च ॥ ७५ ॥  
-ये हन्यन्ते रणे तत्र राक्षसाः कपिकुञ्जरैः ।  
-हता हतास्तु क्षिप्यन्ते सर्व एव तु सागरे ॥ ७६ ॥
+[^non-baroDa-CE] यदाप्रभृति लङ्कायां युध्यन्ते हरिराक्षसाः ।  
+[^non-baroDa-CE] तदाप्रभृति मानार्थमाज्ञया रावणस्य च ॥ ७५ ॥  
+[^non-baroDa-CE] ये हन्यन्ते रणे तत्र राक्षसाः कपिकुञ्जरैः ।  
+[^non-baroDa-CE] हता हतास्तु क्षिप्यन्ते सर्व एव तु सागरे ॥ ७६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4318,3 +4318,4 @@ Then that monkey of fierce velocity (_udagravegaḥ_), the son of the Wind-god, 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

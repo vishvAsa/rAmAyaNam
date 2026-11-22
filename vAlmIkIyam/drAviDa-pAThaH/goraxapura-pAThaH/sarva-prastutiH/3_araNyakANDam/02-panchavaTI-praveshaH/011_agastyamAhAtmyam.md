@@ -1035,10 +1035,10 @@ Then all the gods, with Agni at their head (_sāgni-purogamāḥ_), were sorely 
 <details><summary>मूलम्</summary>
 
 अस्माकं कस्यचित् स्थानमेष प्रार्थयते मुनिः ।  
-इति संविग्नमनसः सर्वे तत्र दिवौकसः ॥ १४ ॥
+[^non-baroDa-CE] इति संविग्नमनसः सर्वे तत्र दिवौकसः ॥ १४ ॥
 _________________
 अस्माकं कस्यचित् स्थ्थानमेष प्रार्थयते मुनिः ।  
-इति संविग्न मनसः सर्वे तत्र दिवौकसः ॥
+[^non-baroDa-CE] इति संविग्न मनसः सर्वे तत्र दिवौकसः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5078,3 +5078,5 @@ the arrival of time to eradicate Ravana, Rama seeks this protocol.
 We have reached the hermitage precinct (_āgatāḥ smāśrama-padam_), O son of Sumitrā; enter ahead (_praviśāgrataḥ_) and announce here to the sage that I have arrived together with Sītā (_nivedayeha māṃ prāptam_).”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

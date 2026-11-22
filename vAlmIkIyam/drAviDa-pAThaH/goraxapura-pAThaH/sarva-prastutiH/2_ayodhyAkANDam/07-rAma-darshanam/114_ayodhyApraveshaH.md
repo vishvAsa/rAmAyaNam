@@ -1181,12 +1181,12 @@ Standing in his chariot, the glorious Bharata, son of Daśaratha (_bharatas tu r
 नेदानीं श्रूयते पुर्यामस्यां रामे विवासिते ।  
 चन्दनागुरुगन्धांश्च महार्हाश्च वनस्रजः ॥ २२ ॥  
 गते रामे हि तरुणाः सन्तप्ता नोपभुञ्जते ।  
-बहिर्यात्रां न गच्छन्ति चित्रमाल्यधरा नराः ॥ २३ ॥
+[^non-baroDa-CE] बहिर्यात्रां न गच्छन्ति चित्रमाल्यधरा नराः ॥ २३ ॥
 _________________
 नेदानीं श्रूयते पुर्यामस्यां रामे विवासिते ।  
 चन्दनागरुगन्धाश्च महार्हाश्च वनस्रजः ॥
 गते रामे हि तरुणाः सन्तप्ता नोपभुञ्जते ।  
-बहिर्यात्रां न गच्छन्तिचित्रमाल्यधरा नराः ॥
+[^non-baroDa-CE] बहिर्यात्रां न गच्छन्तिचित्रमाल्यधरा नराः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1318,9 +1318,9 @@ pleasure-trips, wearing colourful garlands nor festivals are observed by them."
 
 <details><summary>मूलम्</summary>
 
-नहि राजत्ययोध्येयं सासारेवार्जुनी क्षपा ।  
-कदा नु खलु मे भ्राता महोत्सव इवागतः ॥ २५ ॥  
-जनयिष्यत्ययोध्यायां हर्षं ग्रीष्म इवाम्बुदः ।
+[^non-baroDa-CE] नहि राजत्ययोध्येयं सासारेवार्जुनी क्षपा ।  
+[^non-baroDa-CE] कदा नु खलु मे भ्राता महोत्सव इवागतः ॥ २५ ॥  
+[^non-baroDa-CE] जनयिष्यत्ययोध्यायां हर्षं ग्रीष्म इवाम्बुदः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1501,10 +1501,10 @@ emperor and which resembled a cave bereft of a lion.
 
 <details><summary>मूलम्</summary>
 
-तदा तदन्तःपुरमुज्झितप्रभं  
+[^non-baroDa-CE] तदा तदन्तःपुरमुज्झितप्रभं  
 सुरैरिवोत्कृष्टमभास्करं दिनम् ।  
 निरीक्ष्य सर्वत्र विभक्तमात्मवान्  
-मुमोच बाष्पं भरतः सुदुःखितः ॥ २९ ॥
+[^non-baroDa-CE] मुमोच बाष्पं भरतः सुदुःखितः ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1559,3 +1559,4 @@ The highways in Ayodhyā no longer shine with young men in handsome attire (_tar
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

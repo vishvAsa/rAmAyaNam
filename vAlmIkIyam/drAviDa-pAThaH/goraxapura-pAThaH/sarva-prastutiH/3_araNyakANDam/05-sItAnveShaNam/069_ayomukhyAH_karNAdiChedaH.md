@@ -417,11 +417,11 @@ Eager to behold (_didṛkṣamāṇau_) Vaidehī, those two searched (_vicikyatu
 
 <details><summary>मूलम्</summary>
 
-ततः पूर्वेण तौ गत्वा त्रिक्रोशं भ्रातरौ तदा ।  
-क्रौञ्चारण्यमतिक्रम्य मतङ्गाश्रममन्तरे ॥ ८ ॥
+[^non-baroDa-CE] ततः पूर्वेण तौ गत्वा त्रिक्रोशं भ्रातरौ तदा ।  
+[^non-baroDa-CE] क्रौञ्चारण्यमतिक्रम्य मतङ्गाश्रममन्तरे ॥ ८ ॥
 _________________
 ततः पूर्वेण तौ गत्वा त्रिकोशं भ्रातरौ तदा ।  
-क्रौञ्चारण्यमतिक्रम्य मतङ्गाश्रममन्तरे ॥
+[^non-baroDa-CE] क्रौञ्चारण्यमतिक्रम्य मतङ्गाश्रममन्तरे ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -451,8 +451,8 @@ Having then gone three _krośas_ (_tri-krośam_) eastward (_pūrveṇa_) from th
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वा तु तद् वनं घोरं बहुभीममृगद्विजम् ।  
-नानावृक्षसमाकीर्णं सर्वं गहनपादपम् ॥ ९ ॥
+[^non-baroDa-CE] दृष्ट्वा तु तद् वनं घोरं बहुभीममृगद्विजम् ।  
+[^non-baroDa-CE] नानावृक्षसमाकीर्णं सर्वं गहनपादपम् ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -482,8 +482,8 @@ And having seen that dreadful forest teeming with many fearsome beasts and birds
 
 <details><summary>मूलम्</summary>
 
-ददृशाते गिरौ तत्र दरीं दशरथात्मजौ ।  
-पातालसमगम्भीरां तमसा नित्यसंवृताम् ॥ १० ॥
+[^non-baroDa-CE] ददृशाते गिरौ तत्र दरीं दशरथात्मजौ ।  
+[^non-baroDa-CE] पातालसमगम्भीरां तमसा नित्यसंवृताम् ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -539,10 +539,10 @@ The two sons of Daśaratha beheld (_dadṛśāte_) on a mountain there a cavern 
 
 <details><summary>मूलम्</summary>
 
-आसाद्य च नरव्याघ्रौ दर्यास्तस्याविदूरतः ।  
-ददर्शतुर्महारूपां राक्षसीं विकृताननाम् ॥ ११ ॥
+[^non-baroDa-CE] आसाद्य च नरव्याघ्रौ दर्यास्तस्याविदूरतः ।  
+[^non-baroDa-CE] ददर्शतुर्महारूपां राक्षसीं विकृताननाम् ॥ ११ ॥
 _________________
-आसाद्य च नरव्याघ्रौ दर्यास्तस्याविदूरतः ।  
+[^non-baroDa-CE] आसाद्य च नरव्याघ्रौ दर्यास्तस्याविदूरतः ।  
 ददर्शतुर्महारूपां रक्षसीं विकृताननाम् ॥
 </details>
 
@@ -594,8 +594,8 @@ Drawing near (_āsādya_), those two tigers among men (_nara-vyāghrau_) beheld 
 
 <details><summary>मूलम्</summary>
 
-भयदामल्पसत्त्वानां बीभत्सां रौद्रदर्शनाम् ।  
-लम्बोदरीं तीक्ष्णदंष्ट्रां करालीं परुषत्वचम् ॥ १२ ॥
+[^non-baroDa-CE] भयदामल्पसत्त्वानां बीभत्सां रौद्रदर्शनाम् ।  
+[^non-baroDa-CE] लम्बोदरीं तीक्ष्णदंष्ट्रां करालीं परुषत्वचम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -633,8 +633,8 @@ The demoness Ayomukhī embraces Lakṣmaṇa as he walks ahead and invites him t
 
 <details><summary>मूलम्</summary>
 
-भक्षयन्तीं मृगान् भीमान् विकटां मुक्तमूर्धजाम् ।  
-अवैक्षतां तु तौ तत्र भ्रातरौ रामलक्ष्मणौ ॥ १३ ॥
+[^non-baroDa-CE] भक्षयन्तीं मृगान् भीमान् विकटां मुक्तमूर्धजाम् ।  
+[^non-baroDa-CE] अवैक्षतां तु तौ तत्र भ्रातरौ रामलक्ष्मणौ ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -686,8 +686,8 @@ The two brothers Rāma and Lakṣmaṇa beheld (_avaikṣatām_) her there—dev
 
 <details><summary>मूलम्</summary>
 
-सा समासाद्य तौ वीरौ व्रजन्तं भ्रातुरग्रतः ।  
-एहि रंस्यावहेत्युक्त्वा समालम्भत लक्ष्मणम् ॥ १४ ॥
+[^non-baroDa-CE] सा समासाद्य तौ वीरौ व्रजन्तं भ्रातुरग्रतः ।  
+[^non-baroDa-CE] एहि रंस्यावहेत्युक्त्वा समालम्भत लक्ष्मणम् ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -738,11 +738,11 @@ Approaching (_samāsādya_) those two heroes, she seized (_samālambhata_) Lak�
 
 <details><summary>मूलम्</summary>
 
-उवाच चैनं वचनं सौमित्रिमुपगुह्य च ।  
-अहं त्वयोमुखी नाम लाभस्ते त्वमसि प्रियः ॥ १५ ॥
+[^non-baroDa-CE] उवाच चैनं वचनं सौमित्रिमुपगुह्य च ।  
+[^non-baroDa-CE] अहं त्वयोमुखी नाम लाभस्ते त्वमसि प्रियः ॥ १५ ॥
 _________________
 उवाच चैनं वचनं सौमित्रिमुपगृह्य च ।  
-अहं त्वयोमुखी नाम लाभस्ते त्वमसि प्रियः ॥
+[^non-baroDa-CE] अहं त्वयोमुखी नाम लाभस्ते त्वमसि प्रियः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -772,10 +772,10 @@ And embracing (_upaguhya_) the son of Sumitrā, she spoke these words to him: �
 
 <details><summary>मूलम्</summary>
 
-नाथ पर्वतदुर्गेषु नदीनां पुलिनेषु च ।  
-आयुश्चिरमिदं वीर त्वं मया सह रंस्यसे ॥ १६ ॥
+[^non-baroDa-CE] नाथ पर्वतदुर्गेषु नदीनां पुलिनेषु च ।  
+[^non-baroDa-CE] आयुश्चिरमिदं वीर त्वं मया सह रंस्यसे ॥ १६ ॥
 _________________
-नाथ पर्वतदुर्गेषु नदीनां पुलिनेषु च ।  
+[^non-baroDa-CE] नाथ पर्वतदुर्गेषु नदीनां पुलिनेषु च ।  
 आयुःश्चिरमिदं वीर त्वं मया सह रंस्यसे ॥
 </details>
 
@@ -827,10 +827,10 @@ till the end of this life..." So is the love prattle of that demoness Ayomukhi. 
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तु कुपितः खड्गमुद‍्धृत्य लक्ष्मणः ।  
-कर्णनासस्तनं तस्या निचकर्तारिसूदनः ॥ १७ ॥
+[^non-baroDa-CE] एवमुक्तस्तु कुपितः खड्गमुद‍्धृत्य लक्ष्मणः ।  
+[^non-baroDa-CE] कर्णनासस्तनं तस्या निचकर्तारिसूदनः ॥ १७ ॥
 _________________
-एवमुक्तस्तु कुपितः खड्गमुद्धृत्य लक्ष्मणः ।  
+[^non-baroDa-CE] एवमुक्तस्तु कुपितः खड्गमुद्धृत्य लक्ष्मणः ।  
 कर्णनासौ स्तनौ तस्या निचकर्तारिसूदनः ॥
 </details>
 
@@ -882,8 +882,8 @@ Thus addressed, the wrathful (_kupitaḥ_) Lakṣmaṇa, destroyer of foes (_ari
 
 <details><summary>मूलम्</summary>
 
-कर्णनासे निकृत्ते तु विस्वरं विननाद सा ।  
-यथागतं प्रदुद्राव राक्षसी घोरदर्शना ॥ १८ ॥
+[^non-baroDa-CE] कर्णनासे निकृत्ते तु विस्वरं विननाद सा ।  
+[^non-baroDa-CE] यथागतं प्रदुद्राव राक्षसी घोरदर्शना ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -942,8 +942,8 @@ As the brothers press deeper into the forest after Ayomukhī's flight, Lakṣma�
 
 <details><summary>मूलम्</summary>
 
-तस्यां गतायां गहनं व्रजन्तौ वनमोजसा ।  
-आसेदतुरमित्रघ्नौ भ्रातरौ रामलक्ष्मणौ ॥ १९ ॥
+[^non-baroDa-CE] तस्यां गतायां गहनं व्रजन्तौ वनमोजसा ।  
+[^non-baroDa-CE] आसेदतुरमित्रघ्नौ भ्रातरौ रामलक्ष्मणौ ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1456,12 +1456,12 @@ Towering like a great mountain (_mahā-girim ivocchritam_) with sharp, pointed b
 
 <details><summary>मूलम्</summary>
 
-अग्निज्वालानिकाशेन ललाटस्थेन दीप्यता ।  
+[^non-baroDa-CE] अग्निज्वालानिकाशेन ललाटस्थेन दीप्यता ।  
 महापक्षेण पिङ्गेन विपुलेनायतेन च ॥ २९ ॥  
 एकेनोरसि घोरेण नयनेन सुदर्शिना ।  
 महादंष्ट्रोपपन्नं तं लेलिहानं महामुखम् ॥ ३० ॥
 _________________
-अग्निज्वालानिकाशेन ललाटस्थेन दीप्यता ।  
+[^non-baroDa-CE] अग्निज्वालानिकाशेन ललाटस्थेन दीप्यता ।  
 महापक्ष्येण पिङ्गेन विपुलेनायतेन च ॥
 एकेनोरसि घोरेण नयनेनसुदर्शिना ।  
 महादंष्ट्रोपपन्नं तं लेलिहानं महामुखम् ॥
@@ -1624,12 +1624,12 @@ if they are unpalatable, and the brothers reached nearby of such a demon. [3-69-
 स्थितमावृत्य पन्थानं तयोर्भ्रात्रोः प्रपन्नयोः ।  
 अथ तं समतिक्रम्य क्रोशमात्रं ददर्शतुः ॥ ३३ ॥  
 महान्तं दारुणं भीमं कबन्धं भुजसंवृतम् ।  
-कबन्धमिव संस्थानादतिघोरप्रदर्शनम् ॥ ३४ ॥
+[^non-baroDa-CE] कबन्धमिव संस्थानादतिघोरप्रदर्शनम् ॥ ३४ ॥
 _________________
 स्थितमावृत्य पन्थानं तयोर्भ्रात्रोः प्रपन्नयोः ।  
 अथ तं समतिक्रम्य क्रोशमात्रा ददर्शतुः ॥
 महान्तं दारुणं भीमं कबन्धं भुजसंवृतम् ।  
-कबन्धमिव संस्थानादतिघोरप्रदर्शनम् ॥
+[^non-baroDa-CE] कबन्धमिव संस्थानादतिघोरप्रदर्शनम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1812,8 +1812,8 @@ While Rāma remains unshaken in Kabandha's grasp, the distressed Lakṣmaṇa ur
 
 <details><summary>मूलम्</summary>
 
-तत्र धैर्याच्च शूरस्तु राघवो नैव विव्यथे ।  
-बाल्यादनाश्रयाच्चैव लक्ष्मणस्त्वभिविव्यथे ॥ ३७ ॥
+[^non-baroDa-CE] तत्र धैर्याच्च शूरस्तु राघवो नैव विव्यथे ।  
+[^non-baroDa-CE] बाल्यादनाश्रयाच्चैव लक्ष्मणस्त्वभिविव्यथे ॥ ३७ ॥
 _________________
 तत्र धैर्याच्च शूरस्तु राघवौ नैव विव्यथे ।  
 बाल्यादनाश्रयच्चैव लक्ष्मणस्त्वभिविव्यथे ॥
@@ -1882,7 +1882,7 @@ In that plight (_tatra_), out of steadfastness (_dhairyāc ca_), the heroic Rāg
 
 <details><summary>मूलम्</summary>
 
-उवाच च विषण्णः सन् राघवं राघवानुजः ।  
+[^non-baroDa-CE] उवाच च विषण्णः सन् राघवं राघवानुजः ।  
 पश्य मां विवशं वीर राक्षसस्य वशङ्गतम् ॥ ३८ ॥
 </details>
 
@@ -1936,11 +1936,11 @@ And dejected (_viṣaṇṇaḥ san_), the younger brother of Rāghava (_rāghav
 
 <details><summary>मूलम्</summary>
 
-मयैकेन तु निर्युक्तः परिमुच्यस्व राघव ।  
-मां हि भूतबलिं दत्त्वा पलायस्व यथासुखम् ॥ ३९ ॥
+[^non-baroDa-CE] मयैकेन तु निर्युक्तः परिमुच्यस्व राघव ।  
+[^non-baroDa-CE] मां हि भूतबलिं दत्त्वा पलायस्व यथासुखम् ॥ ३९ ॥
 _________________
 मयैकेन तु विनिर्युक्तः परिमुच्यस्व राघव ।  
-मां हि भूतबलिं दत्त्वापलायस्व यथासुखम् ॥
+[^non-baroDa-CE] मां हि भूतबलिं दत्त्वापलायस्व यथासुखम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1992,9 +1992,9 @@ reach Vaidehi shortly... this is my belief... [3-69-39b, 40a]
 
 <details><summary>मूलम्</summary>
 
-अधिगन्तासि वैदेहीमचिरेणेति मे मतिः ।  
-प्रतिलभ्य च काकुत्स्थ पितृपैतामहीं महीम् ॥ ४० ॥  
-तत्र मां राम राज्यस्थः स्मर्तुमर्हसि सर्वदा ।
+[^non-baroDa-CE] अधिगन्तासि वैदेहीमचिरेणेति मे मतिः ।  
+[^non-baroDa-CE] प्रतिलभ्य च काकुत्स्थ पितृपैतामहीं महीम् ॥ ४० ॥  
+[^non-baroDa-CE] तत्र मां राम राज्यस्थः स्मर्तुमर्हसि सर्वदा ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2046,8 +2046,8 @@ it will be apt of you to reminisce me always..." So said Lakshmana to Rama. [3-6
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणेनैवमुक्तस्तु रामः सौमित्रिमब्रवीत् ॥ ४१ ॥  
-मा स्म त्रासं वृथा वीर नहि त्वादृग् विषीदति ।
+[^non-baroDa-CE] लक्ष्मणेनैवमुक्तस्तु रामः सौमित्रिमब्रवीत् ॥ ४१ ॥  
+[^non-baroDa-CE] मा स्म त्रासं वृथा वीर नहि त्वादृग् विषीदति ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2107,10 +2107,10 @@ As Rāma consoles his brother, the Dānava chief Kabandha demands to know who th
 
 <details><summary>मूलम्</summary>
 
-एतस्मिन्नन्तरे क्रूरो भ्रातरौ रामलक्ष्मणौ ॥ ४२ ॥  
+[^non-baroDa-CE] एतस्मिन्नन्तरे क्रूरो भ्रातरौ रामलक्ष्मणौ ॥ ४२ ॥  
 तावुवाच महाबाहुः कबन्धो दानवोत्तमः ।
 _________________
-एतस्मिन्नन्तरे क्रूरो भ्रातरौ रामलक्ष्मणौ ॥  
+[^non-baroDa-CE] एतस्मिन्नन्तरे क्रूरो भ्रातरौ रामलक्ष्मणौ ॥  
 तमुवाच महाबाहुः कबन्धो दानवोत्तमः ।
 </details>
 
@@ -2555,3 +2555,4 @@ Speaking thus, the glorious and puissant son of Daśaratha (_dāśarathiḥ prat
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

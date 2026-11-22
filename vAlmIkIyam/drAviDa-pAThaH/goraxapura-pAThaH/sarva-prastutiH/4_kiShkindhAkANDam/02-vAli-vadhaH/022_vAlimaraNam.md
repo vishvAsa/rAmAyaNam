@@ -1397,8 +1397,8 @@ Having spoken thus (_ity uktvā_), sorely tormented by the arrow (_śarasampī�
 
 <details><summary>मूलम्</summary>
 
-ततो विचुक्रुशुस्तत्र वानरा हतयूथपाः ।  
-परिदेवयमानास्ते सर्वे प्लवगसत्तमाः ॥ २५ ॥
+[^non-baroDa-CE] ततो विचुक्रुशुस्तत्र वानरा हतयूथपाः ।  
+[^non-baroDa-CE] परिदेवयमानास्ते सर्वे प्लवगसत्तमाः ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1450,8 +1450,8 @@ Then all those foremost of leapers (_sarve plavagasattamāḥ_), the monkeys who
 
 <details><summary>मूलम्</summary>
 
-किष्किन्धा ह्यद्य शून्या च स्वर्गते वानरेश्वरे ।  
-उद्यानानि च शून्यानि पर्वताः काननानि च ॥ २६ ॥
+[^non-baroDa-CE] किष्किन्धा ह्यद्य शून्या च स्वर्गते वानरेश्वरे ।  
+[^non-baroDa-CE] उद्यानानि च शून्यानि पर्वताः काननानि च ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1515,12 +1515,12 @@ fly-jumpers is dead all the vanara-s are rendered up into a lacklustre life. [4-
 
 <details><summary>मूलम्</summary>
 
-हते प्लवगशार्दूले निष्प्रभा वानराः कृताः ।  
-यस्य वेगेन महता काननानि वनानि च ॥ २७ ॥  
-पुष्पौघेणानुबद्‍ध्यन्ते करिष्यति तदद्य कः ।
+[^non-baroDa-CE] हते प्लवगशार्दूले निष्प्रभा वानराः कृताः ।  
+[^non-baroDa-CE] यस्य वेगेन महता काननानि वनानि च ॥ २७ ॥  
+[^non-baroDa-CE] पुष्पौघेणानुबद्‍ध्यन्ते करिष्यति तदद्य कः ।
 _________________
-हते प्लवगशार्दूले निष्प्रभा वानराः कृताः ।  
-यस्य वेगेन महता काननानि वनानि च ॥  
+[^non-baroDa-CE] हते प्लवगशार्दूले निष्प्रभा वानराः कृताः ।  
+[^non-baroDa-CE] यस्य वेगेन महता काननानि वनानि च ॥  
 पुष्पौघेणानुबध्यन्ते करिष्यति तदद्य कः ।
 </details>
 
@@ -1598,9 +1598,9 @@ Recalling how Vālin slew the Gandharva Golabha in the sixteenth year, the monke
 
 <details><summary>मूलम्</summary>
 
-येन दत्तं महद् युद्धं गन्धर्वस्य महात्मनः ॥ २८ ॥  
-गोलभस्य महाबाहोर्दश वर्षाणि पञ्च च ।  
-नैव रात्रौ न दिवसे तद् युद्धमुपशाम्यति ॥ २९ ॥
+[^non-baroDa-CE] येन दत्तं महद् युद्धं गन्धर्वस्य महात्मनः ॥ २८ ॥  
+[^non-baroDa-CE] गोलभस्य महाबाहोर्दश वर्षाणि पञ्च च ।  
+[^non-baroDa-CE] नैव रात्रौ न दिवसे तद् युद्धमुपशाम्यति ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1666,12 +1666,12 @@ English like - 'give me a duel.' etc.
 
 <details><summary>मूलम्</summary>
 
-ततः षोडशमे वर्षे गोलभो विनिपातितः ।  
-तं हत्वा दुर्विनीतं तु वाली दंष्ट्राकरालवान् ।  
+[^non-baroDa-CE] ततः षोडशमे वर्षे गोलभो विनिपातितः ।  
+[^non-baroDa-CE] तं हत्वा दुर्विनीतं तु वाली दंष्ट्राकरालवान् ।  
 सर्वाभयङ्करोऽस्माकं कथमेष निपातितः ॥ ३० ॥
 _________________
 ततस्तु षोडशे वर्षे गोलभो विनिपातितः ।  
-तं हत्वा दुर्विनीतं तु वाली दंष्ट्राकरालवान् ।  
+[^non-baroDa-CE] तं हत्वा दुर्विनीतं तु वाली दंष्ट्राकरालवान् ।  
 सर्वाभयङ्करोऽस्माकं कथमेष निपातितः ॥
 </details>
 
@@ -1855,3 +1855,4 @@ Then Tārā (_tatas tu tārā_), submerged in an ocean of calamity (_vyasanār�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

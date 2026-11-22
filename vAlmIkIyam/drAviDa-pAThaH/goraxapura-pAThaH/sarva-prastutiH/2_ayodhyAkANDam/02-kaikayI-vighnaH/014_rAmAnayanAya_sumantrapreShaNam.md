@@ -371,10 +371,10 @@ Exalting truth as the one-syllable Brahman, Kaikeyī thrice demands Rāma's exil
 
 <details><summary>मूलम्</summary>
 
-सत्यमेकपदं ब्रह्म सत्ये धर्मः प्रतिष्ठितः ।  
-सत्यमेवाक्षया वेदाः सत्येनावाप्यते परम् ॥ ७ ॥
+[^non-baroDa-CE] सत्यमेकपदं ब्रह्म सत्ये धर्मः प्रतिष्ठितः ।  
+[^non-baroDa-CE] सत्यमेवाक्षया वेदाः सत्येनावाप्यते परम् ॥ ७ ॥
 _________________
-सत्यमेकपदं ब्रह्म सत्ये धर्मः प्रतिष्ठितः ।  
+[^non-baroDa-CE] सत्यमेकपदं ब्रह्म सत्ये धर्मः प्रतिष्ठितः ।  
 सत्येमेवाक्षया वेदाः सत्येनावाप्यते परम् ॥
 </details>
 
@@ -427,10 +427,10 @@ Truth is the one-word Brahman (_satyam ekapadaṃ brahma_); in truth is righteou
 
 <details><summary>मूलम्</summary>
 
-सत्यं समनुवर्तस्व यदि धर्मे धृता मतिः ।  
-स वरः सफलो मेऽस्तु वरदो ह्यसि सत्तम ॥ ८ ॥
+[^non-baroDa-CE] सत्यं समनुवर्तस्व यदि धर्मे धृता मतिः ।  
+[^non-baroDa-CE] स वरः सफलो मेऽस्तु वरदो ह्यसि सत्तम ॥ ८ ॥
 _________________
-सत्यं समनुवर्तस्व यदि धर्मे धृता मतिः ।  
+[^non-baroDa-CE] सत्यं समनुवर्तस्व यदि धर्मे धृता मतिः ।  
 स वरः सलो मेऽस्तु वरदो ह्यसि सत्तम ॥
 </details>
 
@@ -482,8 +482,8 @@ Cleave unto truth (_satyaṃ samanuvartasva_), if your mind is fixed on _dharma_
 
 <details><summary>मूलम्</summary>
 
-धर्मस्यैवाभिकामार्थं मम चैवाभिचोदनात् ।  
-प्रव्राजय सुतं रामं त्रिः खलु त्वां ब्रवीम्यहम् ॥ ९ ॥
+[^non-baroDa-CE] धर्मस्यैवाभिकामार्थं मम चैवाभिचोदनात् ।  
+[^non-baroDa-CE] प्रव्राजय सुतं रामं त्रिः खलु त्वां ब्रवीम्यहम् ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1031,8 +1031,8 @@ Emerging at the outer gate, Sumantra sees the royal officers (महीपते
 
 <details><summary>मूलम्</summary>
 
-प्रयाता रजनी देवि सूर्यस्योदयनं प्रति ।  
-अभिषेकाय हि जनस्त्वरयिष्यति मां ध्रुवम् ॥ १५ ॥
+[^non-baroDa-CE] प्रयाता रजनी देवि सूर्यस्योदयनं प्रति ।  
+[^non-baroDa-CE] अभिषेकाय हि जनस्त्वरयिष्यति मां ध्रुवम् ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1088,9 +1088,9 @@ The night has passed away, O queen (_prayātā rajanī devi_), toward the rising
 
 <details><summary>मूलम्</summary>
 
-रामाभिषेकसम्भारैस्तदर्थमुपकल्पितैः ।  
-रामः कारयितव्यो मे मृतस्य सलिलक्रियाम् ॥ १६ ॥  
-सपुत्रया त्वया नैव कर्तव्या सलिलक्रिया ।
+[^non-baroDa-CE] रामाभिषेकसम्भारैस्तदर्थमुपकल्पितैः ।  
+[^non-baroDa-CE] रामः कारयितव्यो मे मृतस्य सलिलक्रियाम् ॥ १६ ॥  
+[^non-baroDa-CE] सपुत्रया त्वया नैव कर्तव्या सलिलक्रिया ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1121,13 +1121,13 @@ With the very articles prepared for Rāma’s consecration (_rāmābhiṣekasamb
 
 <details><summary>मूलम्</summary>
 
-व्याहन्तास्यशुभाचारे यदि रामाभिषेचनम् ॥ १७ ॥  
-न शक्तोऽद्यास्म्यहं द्रष्टुं दृष्ट्वा पूर्वं तथामुखम् ।  
-हतहर्षं तथानन्दं पुनर्जनमवाङ्मुखम् ॥ १८ ॥
+[^non-baroDa-CE] व्याहन्तास्यशुभाचारे यदि रामाभिषेचनम् ॥ १७ ॥  
+[^non-baroDa-CE] न शक्तोऽद्यास्म्यहं द्रष्टुं दृष्ट्वा पूर्वं तथामुखम् ।  
+[^non-baroDa-CE] हतहर्षं तथानन्दं पुनर्जनमवाङ्मुखम् ॥ १८ ॥
 _________________
-व्याहन्तास्यशुभाचारे यदि रामाभिषेचनम् ॥
+[^non-baroDa-CE] व्याहन्तास्यशुभाचारे यदि रामाभिषेचनम् ॥
 न शक्तोऽद्यास्म्यहं द्रष्टुं दृष्ट्वा पूर्वं तथासुखम् ।  
-हतहर्षं तथानन्दं पुनर्जनमवाङ्मुखम् ॥
+[^non-baroDa-CE] हतहर्षं तथानन्दं पुनर्जनमवाङ्मुखम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1201,8 +1201,8 @@ As dawn breaks, wrathful Kaikeyī demands that Rāma be summoned and banished at
 
 <details><summary>मूलम्</summary>
 
-तां तथा ब्रुवतस्तस्य भूमिपस्य महात्मनः ।  
-प्रभाता शर्वरी पुण्या चन्द्रनक्षत्रमालिनी ॥ १९ ॥
+[^non-baroDa-CE] तां तथा ब्रुवतस्तस्य भूमिपस्य महात्मनः ।  
+[^non-baroDa-CE] प्रभाता शर्वरी पुण्या चन्द्रनक्षत्रमालिनी ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1507,14 +1507,14 @@ At sunrise in the auspicious hour, Sage Vasiṣṭha and his disciples enter fes
 
 <details><summary>मूलम्</summary>
 
-ततः प्रभातां रजनीमुदिते च दिवाकरे ।  
-पुण्ये नक्षत्रयोगे च मुहूर्ते च समागते ॥ २५ ॥  
-वसिष्ठो गुणसम्पन्नः शिष्यैः परिवृतस्तथा ।  
-उपगृह्याशु सम्भारान् प्रविवेश पुरोत्तमम् ॥ २६ ॥
+[^non-baroDa-CE] ततः प्रभातां रजनीमुदिते च दिवाकरे ।  
+[^non-baroDa-CE] पुण्ये नक्षत्रयोगे च मुहूर्ते च समागते ॥ २५ ॥  
+[^non-baroDa-CE] वसिष्ठो गुणसम्पन्नः शिष्यैः परिवृतस्तथा ।  
+[^non-baroDa-CE] उपगृह्याशु सम्भारान् प्रविवेश पुरोत्तमम् ॥ २६ ॥
 _________________
-ततः प्रभातां रजनीमुदिते च दिवाकरे ।  
-पुण्ये नक्षत्रयोगे च मुहूर्ते च समागते ॥
-वसिष्ठो गुणसम्पन्नः शिष्यैः परिवृतस्तथा ।  
+[^non-baroDa-CE] ततः प्रभातां रजनीमुदिते च दिवाकरे ।  
+[^non-baroDa-CE] पुण्ये नक्षत्रयोगे च मुहूर्ते च समागते ॥
+[^non-baroDa-CE] वसिष्ठो गुणसम्पन्नः शिष्यैः परिवृतस्तथा ।  
 उपगृह्याशु सम्भरान् प्रविवेश पुरोत्तमम् ॥
 </details>
 
@@ -1576,8 +1576,8 @@ requisite materials for Rama's coronation.
 
 <details><summary>मूलम्</summary>
 
-सिक्तसम्मार्जितपथां पताकोत्तमभूषिताम् ।  
-संहृष्टमनुजोपेतां समृद्धविपणापणाम् ॥ २७ ॥
+[^non-baroDa-CE] सिक्तसम्मार्जितपथां पताकोत्तमभूषिताम् ।  
+[^non-baroDa-CE] संहृष्टमनुजोपेतां समृद्धविपणापणाम् ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1607,10 +1607,10 @@ whose avenues were sprinkled and swept clean (_siktasammārjitapathām_), adorne
 
 <details><summary>मूलम्</summary>
 
-महोत्सवसमायुक्तां राघवार्थे समुत्सुकाम् ।  
-चन्दनागुरुधूपैश्च सर्वतः परिधूमिताम् ॥ २८ ॥
+[^non-baroDa-CE] महोत्सवसमायुक्तां राघवार्थे समुत्सुकाम् ।  
+[^non-baroDa-CE] चन्दनागुरुधूपैश्च सर्वतः परिधूमिताम् ॥ २८ ॥
 _________________
-महोत्सवसमायुक्तां राघवार्थे समुत्सुकाम् ।  
+[^non-baroDa-CE] महोत्सवसमायुक्तां राघवार्थे समुत्सुकाम् ।  
 चन्दनागुरुधूपैश्च सर्वतः प्रतिधूमिताम् ॥
 </details>
 
@@ -1642,7 +1642,7 @@ alive with a grand festival (_mahotsavasamāyuktām_), eagerly expectant on Rāg
 <details><summary>मूलम्</summary>
 
 तां पुरीं समतिक्रम्य पुरन्दरपुरोपमाम् ।  
-ददर्शान्तःपुरं श्रीमान् नानाध्वजगणायुतम् ॥ २९ ॥
+[^non-baroDa-CE] ददर्शान्तःपुरं श्रीमान् नानाध्वजगणायुतम् ॥ २९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1672,8 +1672,8 @@ Passing through that city which rivaled the capital of Purandara (_puraṃdarapu
 
 <details><summary>मूलम्</summary>
 
-पौरजानपदाकीर्णं ब्राह्मणैरुपशोभितम् ।  
-यष्टिमद्भिः सुसम्पूर्णं सदश्वैः परमार्चितैः ॥ ३० ॥
+[^non-baroDa-CE] पौरजानपदाकीर्णं ब्राह्मणैरुपशोभितम् ।  
+[^non-baroDa-CE] यष्टिमद्भिः सुसम्पूर्णं सदश्वैः परमार्चितैः ॥ ३० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1742,8 +1742,8 @@ Meeting Sumantra at the inner palace gate, Vasiṣṭha bids him announce his ar
 
 <details><summary>मूलम्</summary>
 
-तदन्तःपुरमासाद्य व्यतिचक्राम तं जनम् ।  
-वसिष्ठः परमप्रीतः परमर्षिभिरावृतः ॥ ३१ ॥
+[^non-baroDa-CE] तदन्तःपुरमासाद्य व्यतिचक्राम तं जनम् ।  
+[^non-baroDa-CE] वसिष्ठः परमप्रीतः परमर्षिभिरावृतः ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1794,8 +1794,8 @@ Reaching that inner palace precinct (_tad antaḥpuram āsādya_), Vasiṣṭha,
 
 <details><summary>मूलम्</summary>
 
-स त्वपश्यद् विनिष्क्रान्तं सुमन्त्रं नाम सारथिम् ।  
-द्वारे मनुजसिंहस्य सचिवं प्रियदर्शनम् ॥३२ ॥
+[^non-baroDa-CE] स त्वपश्यद् विनिष्क्रान्तं सुमन्त्रं नाम सारथिम् ।  
+[^non-baroDa-CE] द्वारे मनुजसिंहस्य सचिवं प्रियदर्शनम् ॥३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1847,8 +1847,8 @@ At the portal of that lion among men (_dvāre manujasiṃhasya_), he beheld the 
 
 <details><summary>मूलम्</summary>
 
-तमुवाच महातेजाः सूतपुत्रं विशारदम् ।  
-वसिष्ठः क्षिप्रमाचक्ष्व नृपतेर्मामिहागतम् ॥ ३३ ॥
+[^non-baroDa-CE] तमुवाच महातेजाः सूतपुत्रं विशारदम् ।  
+[^non-baroDa-CE] वसिष्ठः क्षिप्रमाचक्ष्व नृपतेर्मामिहागतम् ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1899,8 +1899,8 @@ Unto that skilled son of a _sūta_ (_sūtaputraṃ viśāradam_), Vasiṣṭha o
 
 <details><summary>मूलम्</summary>
 
-इमे गङ्गोदकघटाः सागरेभ्यश्च काञ्चनाः ।  
-औदुम्बरं भद्रपीठमभिषेकार्थमाहृतम् ॥ ३४ ॥
+[^non-baroDa-CE] इमे गङ्गोदकघटाः सागरेभ्यश्च काञ्चनाः ।  
+[^non-baroDa-CE] औदुम्बरं भद्रपीठमभिषेकार्थमाहृतम् ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1950,35 +1950,35 @@ Completing his enumeration of the royal regalia, sacred animals, Brāhmaṇas, a
 
 <details><summary>मूलम्</summary>
 
-सर्वबीजानि गन्धाश्च रत्नानि विविधानि च ।  
+[^non-baroDa-CE] सर्वबीजानि गन्धाश्च रत्नानि विविधानि च ।  
 क्षौद्रं दधि घृतं लाजा दर्भाः सुमनसः पयः ॥ ३५ ॥  
-अष्टौ च कन्या रुचिरा मत्तश्च वरवारणः ।  
-चतुरश्वो रथः श्रीमान् निस्त्रिंशो धनुरुत्तमम् ॥ ३६ ॥  
+[^non-baroDa-CE] अष्टौ च कन्या रुचिरा मत्तश्च वरवारणः ।  
+[^non-baroDa-CE] चतुरश्वो रथः श्रीमान् निस्त्रिंशो धनुरुत्तमम् ॥ ३६ ॥  
 वाहनं नरसंयुक्तं छत्रं च शशिसन्निभम् ।  
-श्वेते च वालव्यजने भृङ्गारं च हिरण्मयम् ॥ ३७ ॥  
-हेमदामपिनद्धश्च ककुद्मान् पाण्डुरो वृषः ।  
-केसरी च चतुर्दंष्ट्रो हरिश्रेष्ठो महाबलः ॥ ३८ ॥  
-सिंहासनं व्याघ्रतनुः समिधश्च हुताशनः ।  
+[^non-baroDa-CE] श्वेते च वालव्यजने भृङ्गारं च हिरण्मयम् ॥ ३७ ॥  
+[^non-baroDa-CE] हेमदामपिनद्धश्च ककुद्मान् पाण्डुरो वृषः ।  
+[^non-baroDa-CE] केसरी च चतुर्दंष्ट्रो हरिश्रेष्ठो महाबलः ॥ ३८ ॥  
+[^non-baroDa-CE] सिंहासनं व्याघ्रतनुः समिधश्च हुताशनः ।  
 सर्वे वादित्रसङ्घाश्च वेश्याश्चालङ्कृताः स्त्रियः ॥ ३९ ॥  
-आचार्या ब्राह्मणा गावः पुण्याश्च मृगपक्षिणः ।  
-पौरजानपदश्रेष्ठा नैगमाश्च गणैः सह ॥ ४० ॥  
-एते चान्ये च बहवः प्रीयमाणाः प्रियंवदाः ।  
-अभिषेकाय रामस्य सह तिष्ठन्ति पार्थिवैः ॥ ४१ ॥
+[^non-baroDa-CE] आचार्या ब्राह्मणा गावः पुण्याश्च मृगपक्षिणः ।  
+[^non-baroDa-CE] पौरजानपदश्रेष्ठा नैगमाश्च गणैः सह ॥ ४० ॥  
+[^non-baroDa-CE] एते चान्ये च बहवः प्रीयमाणाः प्रियंवदाः ।  
+[^non-baroDa-CE] अभिषेकाय रामस्य सह तिष्ठन्ति पार्थिवैः ॥ ४१ ॥
 _________________
-सर्वबीजानि गन्धाश्च रत्नानि विविधानि च ।  
+[^non-baroDa-CE] सर्वबीजानि गन्धाश्च रत्नानि विविधानि च ।  
 क्षौद्रं दधि घृतं लाजा दर्भाः सुमनसः पयः ॥
-अष्टौ च कन्या रुचिरा मत्तश्च वरवारणः ।  
-चतुरश्वो रथः श्रीमान्निस्त्रिंशो धनुरुत्तमम् ॥
+[^non-baroDa-CE] अष्टौ च कन्या रुचिरा मत्तश्च वरवारणः ।  
+[^non-baroDa-CE] चतुरश्वो रथः श्रीमान्निस्त्रिंशो धनुरुत्तमम् ॥
 वाहनं नरसंयुक्तं छत्रं च शशिसन्निभम् ।  
-श्वेते च वालव्यजने भृङ्गारं च हिरण्मयम् ॥
+[^non-baroDa-CE] श्वेते च वालव्यजने भृङ्गारं च हिरण्मयम् ॥
 हेमदामपिनद्धश्च कुकुद्मान्पाण्डुरो वृषः ।  
-केसरी च चतुर्दंष्ट्रो हरिश्रेष्ठो महाबलः ॥
-सिंहासनं व्याघ्रतनुः समिधश्च हुताशनः ।  
+[^non-baroDa-CE] केसरी च चतुर्दंष्ट्रो हरिश्रेष्ठो महाबलः ॥
+[^non-baroDa-CE] सिंहासनं व्याघ्रतनुः समिधश्च हुताशनः ।  
 सर्वे वादित्रसङ्घाश्च वेश्याश्चालङ्कृताः स्त्रियः ॥
 आचार्य ब्राह्मणा गावः पुण्याश्च मृगपक्षिणः ।  
-पौरजानपदश्रेष्ठा नैगमाश्च गणैः सह ॥
-एते चान्ये च बहवः प्रीयमाणाः प्रियंवदाः ।  
-अभिषेकाय रामस्य सह तिष्ठन्ति पार्थिवैः ॥
+[^non-baroDa-CE] पौरजानपदश्रेष्ठा नैगमाश्च गणैः सह ॥
+[^non-baroDa-CE] एते चान्ये च बहवः प्रीयमाणाः प्रियंवदाः ।  
+[^non-baroDa-CE] अभिषेकाय रामस्य सह तिष्ठन्ति पार्थिवैः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2071,8 +2071,8 @@ waiting for Rama's coronation.
 
 <details><summary>मूलम्</summary>
 
-त्वरयस्व महाराजं यथा समुदितेऽहनि ।  
-पुष्ये नक्षत्रयोगे च रामो राज्यमवाप्नुयात् ॥ ४२ ॥
+[^non-baroDa-CE] त्वरयस्व महाराजं यथा समुदितेऽहनि ।  
+[^non-baroDa-CE] पुष्ये नक्षत्रयोगे च रामो राज्यमवाप्नुयात् ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2131,8 +2131,8 @@ Unstopped by the doorkeepers and unaware of the king's calamity, Sumantra enters
 
 <details><summary>मूलम्</summary>
 
-इति तस्य वचः श्रुत्वा सूतपुत्रो महाबलः ।  
-स्तुवन् नृपतिशार्दूलं प्रविवेश निवेशनम् ॥ ४३ ॥
+[^non-baroDa-CE] इति तस्य वचः श्रुत्वा सूतपुत्रो महाबलः ।  
+[^non-baroDa-CE] स्तुवन् नृपतिशार्दूलं प्रविवेश निवेशनम् ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2183,11 +2183,11 @@ Hearing those words of that great sage, the mighty son of the _sūta_ (_sūtaput
 
 <details><summary>मूलम्</summary>
 
-तं तु पूर्वोदितं वृद्धं द्वारस्था राजसम्मताः ।  
-न शेकुरभिसंरोद्धुं राज्ञः प्रियचिकीर्षवः ॥ ४४ ॥
+[^non-baroDa-CE] तं तु पूर्वोदितं वृद्धं द्वारस्था राजसम्मताः ।  
+[^non-baroDa-CE] न शेकुरभिसंरोद्धुं राज्ञः प्रियचिकीर्षवः ॥ ४४ ॥
 _________________
 तं तु पूर्वोदितं वृद्धं द्वारस्था राजम्मताः  
-न शेकुरभिसंरोद्धुं राज्ञः प्रियचिकीर्षवः ॥
+[^non-baroDa-CE] न शेकुरभिसंरोद्धुं राज्ञः प्रियचिकीर्षवः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2239,8 +2239,8 @@ Desiring to do what was pleasing to the monarch (_rājñaḥ priyacikīrṣava�
 
 <details><summary>मूलम्</summary>
 
-स समीपस्थितो राज्ञस्तामवस्थामजज्ञिवान् ।  
-वाग्भिः परमतुष्टाभिरभिष्टोतुं प्रचक्रमे ॥ ४५ ॥
+[^non-baroDa-CE] स समीपस्थितो राज्ञस्तामवस्थामजज्ञिवान् ।  
+[^non-baroDa-CE] वाग्भिः परमतुष्टाभिरभिष्टोतुं प्रचक्रमे ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2291,8 +2291,8 @@ Standing near the king (_sa samīpasthito rājñaḥ_), unaware of the calamity 
 
 <details><summary>मूलम्</summary>
 
-ततः सूतो यथापूर्वं पार्थिवस्य निवेशने ।  
-सुमन्त्रः प्राञ्जलिर्भूत्वा तुष्टाव जगतीपतिम् ॥ ४६ ॥
+[^non-baroDa-CE] ततः सूतो यथापूर्वं पार्थिवस्य निवेशने ।  
+[^non-baroDa-CE] सुमन्त्रः प्राञ्जलिर्भूत्वा तुष्टाव जगतीपतिम् ॥ ४६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2343,8 +2343,8 @@ Then, in the monarch’s bedchamber (_pārthivasya niveśane_), the _sūta_ Suma
 
 <details><summary>मूलम्</summary>
 
-यथा नन्दति तेजस्वी सागरो भास्करोदये ।  
-प्रीतः प्रीतेन मनसा तथा नन्दय नस्ततः ॥ ४७ ॥
+[^non-baroDa-CE] यथा नन्दति तेजस्वी सागरो भास्करोदये ।  
+[^non-baroDa-CE] प्रीतः प्रीतेन मनसा तथा नन्दय नस्ततः ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2396,8 +2396,8 @@ with delight, gladden us with your delighted mind."
 
 <details><summary>मूलम्</summary>
 
-इन्द्रमस्यां तु वेलायामभितुष्टाव मातलिः ।  
-सोऽजयद् दानवान् सर्वांस्तथा त्वां बोधयाम्यहम् ॥ ४८ ॥
+[^non-baroDa-CE] इन्द्रमस्यां तु वेलायामभितुष्टाव मातलिः ।  
+[^non-baroDa-CE] सोऽजयद् दानवान् सर्वांस्तथा त्वां बोधयाम्यहम् ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2457,8 +2457,8 @@ Comparing his awakening chant to the Vedas awakening Brahmā and the sun and moo
 
 <details><summary>मूलम्</summary>
 
-वेदाः सहाङ्गा विद्याश्च यथा ह्यात्मभुवं प्रभुम् ।  
-ब्रह्माणं बोधयन्त्यद्य तथा त्वां बोधयाम्यहम् ॥ ४९ ॥
+[^non-baroDa-CE] वेदाः सहाङ्गा विद्याश्च यथा ह्यात्मभुवं प्रभुम् ।  
+[^non-baroDa-CE] ब्रह्माणं बोधयन्त्यद्य तथा त्वां बोधयाम्यहम् ॥ ४९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2515,10 +2515,10 @@ Just as the Vedas together with their auxiliary limbs and sciences (_vedāḥ sa
 
 <details><summary>मूलम्</summary>
 
-आदित्यः सह चन्द्रेण यथा भूतधरां शुभाम् ।  
-बोधयत्यद्य पृथिवीं तथा त्वां बोधयाम्यहम् ॥ ५० ॥
+[^non-baroDa-CE] आदित्यः सह चन्द्रेण यथा भूतधरां शुभाम् ।  
+[^non-baroDa-CE] बोधयत्यद्य पृथिवीं तथा त्वां बोधयाम्यहम् ॥ ५० ॥
 _________________
-आदित्यः सह चन्द्रेण यथा भूतधरां शुभाम् ।  
+[^non-baroDa-CE] आदित्यः सह चन्द्रेण यथा भूतधरां शुभाम् ।  
 बोधयत्यद्य तथा त्वां बोधयाम्यहम् ॥
 </details>
 
@@ -2564,8 +2564,8 @@ Just as the sun together with the moon (_ādityaḥ saha candreṇa_) awakens th
 
 <details><summary>मूलम्</summary>
 
-उत्तिष्ठ सुमहाराज कृतकौतुकमङ्गलः ।  
-विराजमानो वपुषा मेरोरिव दिवाकरः ॥ ५१ ॥
+[^non-baroDa-CE] उत्तिष्ठ सुमहाराज कृतकौतुकमङ्गलः ।  
+[^non-baroDa-CE] विराजमानो वपुषा मेरोरिव दिवाकरः ॥ ५१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2616,8 +2616,8 @@ Arise, O most exalted monarch (_uttiṣṭha sumahārāja_), having performed th
 
 <details><summary>मूलम्</summary>
 
-सोमसूर्यौ च काकुत्स्थ शिववैश्रवणावपि ।  
-वरुणश्चाग्निरिन्द्रश्च विजयं प्रदिशन्तु ते ॥ ५२ ॥
+[^non-baroDa-CE] सोमसूर्यौ च काकुत्स्थ शिववैश्रवणावपि ।  
+[^non-baroDa-CE] वरुणश्चाग्निरिन्द्रश्च विजयं प्रदिशन्तु ते ॥ ५२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2668,7 +2668,7 @@ May the Moon and the Sun (_somasūryau ca_), O Kākutstha, and Śiva and Vaiśra
 
 <details><summary>मूलम्</summary>
 
-गता भगवती रात्रिः कृतं कृत्यमिदं तव ।  
+[^non-baroDa-CE] गता भगवती रात्रिः कृतं कृत्यमिदं तव ।  
 बुध्यस्व नृपशार्दूल कुरु कार्यमनन्तरम् ॥ ५३ ॥
 </details>
 
@@ -2699,8 +2699,8 @@ The blessed night has departed (_gatā bhagavatī rātriḥ_), and all that was 
 
 <details><summary>मूलम्</summary>
 
-उदतिष्ठत रामस्य समग्रमभिषेचनम् ।  
-पौरजानपदाश्चापि नैगमश्च कृताञ्जलिः ॥ ५४ ॥
+[^non-baroDa-CE] उदतिष्ठत रामस्य समग्रमभिषेचनम् ।  
+[^non-baroDa-CE] पौरजानपदाश्चापि नैगमश्च कृताञ्जलिः ॥ ५४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2758,7 +2758,7 @@ As Sumantra warns that a realm without a visible king is like cattle without a h
 
 <details><summary>मूलम्</summary>
 
-स्वयं वसिष्ठो भगवान् ब्राह्मणैः सह तिष्ठति ।  
+[^non-baroDa-CE] स्वयं वसिष्ठो भगवान् ब्राह्मणैः सह तिष्ठति ।  
 क्षिप्रमाज्ञाप्यतां राजन् राघवस्याभिषेचनम् ॥ ५५ ॥
 </details>
 
@@ -2805,9 +2805,9 @@ Revered Vasiṣṭha himself stands waiting together with the Brāhmaṇas (_sva
 
 <details><summary>मूलम्</summary>
 
-यथा ह्यपालाः पशवो यथा सेना ह्यनायका ।  
-यथा चन्द्रं विना रात्रिर्यथा गावो विना वृषम् ॥ ५६ ॥  
-एवं हि भविता राष्ट्रं यत्र राजा न दृश्यते ।
+[^non-baroDa-CE] यथा ह्यपालाः पशवो यथा सेना ह्यनायका ।  
+[^non-baroDa-CE] यथा चन्द्रं विना रात्रिर्यथा गावो विना वृषम् ॥ ५६ ॥  
+[^non-baroDa-CE] एवं हि भविता राष्ट्रं यत्र राजा न दृश्यते ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2837,11 +2837,11 @@ For just as herds of cattle are without a herdsman (_yathā hy apālāḥ paśav
 
 <details><summary>मूलम्</summary>
 
-एवं तस्य वचः श्रुत्वा सान्त्वपूर्वमिवार्थवत् ॥ ५७ ॥  
-अभ्यकीर्यत शोकेन भूय एव महीपतिः ।
+[^non-baroDa-CE] एवं तस्य वचः श्रुत्वा सान्त्वपूर्वमिवार्थवत् ॥ ५७ ॥  
+[^non-baroDa-CE] अभ्यकीर्यत शोकेन भूय एव महीपतिः ।
 _________________
 एवं तस्य वचः श्रुत्वा सान्त्व्वपूर्वमिवार्थवत् ॥  
-अभ्यकीर्यत शोकेन भूय एव महीपतिः ।
+[^non-baroDa-CE] अभ्यकीर्यत शोकेन भूय एव महीपतिः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2894,7 +2894,7 @@ even such shall a kingdom be (_evaṃ hi bhavitā rāṣṭram_) wherein the mon
 
 ततस्तु राजा तं सूतं सन्नहर्षः सुतं प्रति ॥ ५८ ॥  
 शोकरक्तेक्षणः श्रीमानुद्वीक्ष्योवाच धार्मिकः ।  
-वाक्यैस्तु खलु मर्माणि मम भूयो निकृन्तसि ॥ ५९ ॥
+[^non-baroDa-CE] वाक्यैस्तु खलु मर्माणि मम भूयो निकृन्तसि ॥ ५९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3076,8 +3076,8 @@ When through wretchedness (_dainyāt_) the lord of the earth could not speak for
 
 <details><summary>मूलम्</summary>
 
-सुमन्त्र राजा रजनीं रामहर्षसमुत्सुकः ।  
-प्रजागरपरिश्रान्तो निद्रावशमुपागतः ॥ ६२ ॥
+[^non-baroDa-CE] सुमन्त्र राजा रजनीं रामहर्षसमुत्सुकः ।  
+[^non-baroDa-CE] प्रजागरपरिश्रान्तो निद्रावशमुपागतः ॥ ६२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3128,8 +3128,8 @@ tired of awakening the whole night and got subjected to sleep"
 
 <details><summary>मूलम्</summary>
 
-तद् गच्छ त्वरितं सूत राजपुत्रं यशस्विनम् ।  
-राममानय भद्रं ते नात्र कार्या विचारणा ॥ ६३ ॥
+[^non-baroDa-CE] तद् गच्छ त्वरितं सूत राजपुत्रं यशस्विनम् ।  
+[^non-baroDa-CE] राममानय भद्रं ते नात्र कार्या विचारणा ॥ ६३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3175,8 +3175,8 @@ Therefore go swiftly, O _sūta_ (_tad gaccha tvaritaṃ sūta_), and bring the i
 
 <details><summary>मूलम्</summary>
 
-अश्रुत्वा राजवचनं कथं गच्छामि भामिनि ।  
-तच्छ्रुत्वा मन्त्रिणो वाक्यं राजा मन्त्रिणमब्रवीत् ॥ ६४ ॥
+[^non-baroDa-CE] अश्रुत्वा राजवचनं कथं गच्छामि भामिनि ।  
+[^non-baroDa-CE] तच्छ्रुत्वा मन्त्रिणो वाक्यं राजा मन्त्रिणमब्रवीत् ॥ ६४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3290,7 +3290,7 @@ certainly for coronation.
 
 <details><summary>मूलम्</summary>
 
-निर्जगाम च स प्रीत्या त्वरितो राजशासनात् ।  
+[^non-baroDa-CE] निर्जगाम च स प्रीत्या त्वरितो राजशासनात् ।  
 सुमन्त्रश्चिन्तयामास त्वरितं चोदितस्तया ॥ ६६ ॥
 </details>
 
@@ -3349,13 +3349,13 @@ And departing joyfully in haste at the royal command (_nirjagāma ca sa prītyā
 इति सूतो मतिं कृत्वा हर्षेण महता पुनः ॥ ६७ ॥  
 निर्जगाम महातेजा राघवस्य दिदृक्षया ।  
 सागरह्रदसङ्काशात्सुमन्त्रोऽन्तःपुराच्छुभात् ।  
-निष्क्रम्य जनसम्बाधं ददर्श द्वारमग्रतः ॥ ६८ ॥
+[^non-baroDa-CE] निष्क्रम्य जनसम्बाधं ददर्श द्वारमग्रतः ॥ ६८ ॥
 _________________
 व्यक्तं रामोभिषेकार्थे इहायास्यति धर्मराट् ।  
 इति सूतो मतिं कृत्वा हर्षेण महता पुनः ॥
 निर्जगाम महातेजा राघवस्य दिदृक्षया ।  
 सागरह्रदसङ्काशात्सुमन्त्रोऽन्तःपुराच्छुभात् ।  
-निष्क्रम्य जनसम्बाधं ददर्श द्वारमग्रतः ॥
+[^non-baroDa-CE] निष्क्रम्य जनसम्बाधं ददर्श द्वारमग्रतः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3454,3 +3454,4 @@ Then, coming swiftly out in front (_purastāt sahasā viniḥsṛto_) and lookin
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

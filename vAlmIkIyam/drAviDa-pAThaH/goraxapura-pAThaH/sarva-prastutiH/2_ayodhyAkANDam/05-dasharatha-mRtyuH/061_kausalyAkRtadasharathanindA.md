@@ -505,7 +505,7 @@ Wrought of the very essence of adamant is my heart, without a doubt (_vajra-sār
 <details><summary>मूलम्</summary>
 
 यत् त्वया करुणं कर्म व्यपोह्य मम बान्धवाः ।  
-निरस्ताः परिधावन्ति सुखार्हाः कृपणा वने ॥ १० ॥
+[^non-baroDa-CE] निरस्ताः परिधावन्ति सुखार्हाः कृपणा वने ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -619,10 +619,10 @@ Through analogies of noble Brahmins spurning leftover śrāddha food, a tiger di
 
 <details><summary>मूलम्</summary>
 
-भोजयन्ति किल श्राद्धे केचित् स्वानेव बान्धवान् ।  
+[^non-baroDa-CE] भोजयन्ति किल श्राद्धे केचित् स्वानेव बान्धवान् ।  
 ततः पश्चात् समीक्षन्ते कृतकार्या द्विजोत्तमान् ॥ १२ ॥  
-तत्र ये गुणवन्तश्च विद्वांसश्च द्विजातयः ।  
-न पश्चात् तेऽभिमन्यन्ते सुधामपि सुरोपमाः ॥ १३ ॥
+[^non-baroDa-CE] तत्र ये गुणवन्तश्च विद्वांसश्च द्विजातयः ।  
+[^non-baroDa-CE] न पश्चात् तेऽभिमन्यन्ते सुधामपि सुरोपमाः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1014,7 +1014,7 @@ Rāghava will not brook such disrespect (_naivaṃ-vidham asatkāraṃ marṣayi
 <details><summary>मूलम्</summary>
 
 नैतस्य सहिता लोका भयं कुर्युर्महामृधे ।  
-अधर्मं त्विह धर्मात्मा लोकं धर्मेण योजयेत् ॥ २० ॥
+[^non-baroDa-CE] अधर्मं त्विह धर्मात्मा लोकं धर्मेण योजयेत् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1061,10 +1061,10 @@ All the worlds combined could not strike fear into him in great battle (_naitasy
 
 <details><summary>मूलम्</summary>
 
-नन्वसौ काञ्चनैर्बाणैर्महावीर्यो महाभुजः ।  
-युगान्त इव भूतानि सागरानपि निर्दहेत् ॥ २१ ॥
+[^non-baroDa-CE] नन्वसौ काञ्चनैर्बाणैर्महावीर्यो महाभुजः ।  
+[^non-baroDa-CE] युगान्त इव भूतानि सागरानपि निर्दहेत् ॥ २१ ॥
 _________________
-नन्वसौ काञ्चनैर्बाणैर्महावीर्यो महाभुजः ।  
+[^non-baroDa-CE] नन्वसौ काञ्चनैर्बाणैर्महावीर्यो महाभुजः ।  
 युगान्त इव भूतानि सागरानपि नर्दहेत् ॥
 </details>
 
@@ -1462,3 +1462,4 @@ Hearing this speech fraught with harsh words (_imāṃ giraṃ dāruṇa-śabda-
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

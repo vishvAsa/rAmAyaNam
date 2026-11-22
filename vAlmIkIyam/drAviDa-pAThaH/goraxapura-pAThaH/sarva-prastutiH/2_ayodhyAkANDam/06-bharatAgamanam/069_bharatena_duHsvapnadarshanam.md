@@ -601,7 +601,7 @@ Bharata describes further portents: the royal elephant’s tusks shattered, the 
 
 <details><summary>मूलम्</summary>
 
-औपवाह्यस्य नागस्य विषाणं शकलीकृतम् ।  
+[^non-baroDa-CE] औपवाह्यस्य नागस्य विषाणं शकलीकृतम् ।  
 सहसा चापि संशान्ता ज्वलिता जातवेदसः ॥ १२ ॥
 </details>
 
@@ -796,8 +796,8 @@ And that righteous-souled monarch, wearing red garlands and red unguents (_rakta
 
 <details><summary>मूलम्</summary>
 
-प्रहसन्तीव राजानं प्रमदा रक्तवासिनी ।  
-प्रकर्षन्ती मया दृष्टा राक्षसी विकृतानना ॥ १६ ॥
+[^non-baroDa-CE] प्रहसन्तीव राजानं प्रमदा रक्तवासिनी ।  
+[^non-baroDa-CE] प्रकर्षन्ती मया दृष्टा राक्षसी विकृतानना ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1053,7 +1053,7 @@ I see no visible cause for fear, yet I am gripped by dread (_bhayaṃ caivopadh�
 _________________
 इमां च दुःस्वप्नगतिं निशाम्य हि  
 त्वनेकरूपामवितर्कितां पुरा ।  
-भयं महत्तद्धृदयान्न याति मे  
+[^non-baroDa-CE] भयं महत्तद्धृदयान्न याति मे  
 विचिन्त्य राजानमचिन्त्यदर्शनम् ॥
 </details>
 
@@ -1111,3 +1111,4 @@ Reflecting upon this manifold course of evil dreams (_imāṃ ca duḥsvapna-gat
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

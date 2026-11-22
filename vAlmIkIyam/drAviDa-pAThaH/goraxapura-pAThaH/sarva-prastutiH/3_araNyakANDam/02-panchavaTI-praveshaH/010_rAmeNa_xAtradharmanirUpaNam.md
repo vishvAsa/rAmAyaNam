@@ -1116,10 +1116,10 @@ Even had I not been petitioned [by the sages], O Vaidehī, [it would had to be d
 <details><summary>मूलम्</summary>
 
 सदृशं चानुरूपं च कुलस्य तव शोभने ।  
-सधर्मचारिणी मे त्वं प्राणेभ्योऽपि गरीयसी ॥ २१ ॥
+[^non-baroDa-CE] सधर्मचारिणी मे त्वं प्राणेभ्योऽपि गरीयसी ॥ २१ ॥
 _________________
 सदृशं चानुरूपं च कुलस्य तव शोभनॆ ।  
-सधर्मचारिणी मे त्व ं प्राणेभ्योऽपि गरीयसी ॥
+[^non-baroDa-CE] सधर्मचारिणी मे त्व ं प्राणेभ्योऽपि गरीयसी ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1229,3 +1229,4 @@ Having spoken these words to his beloved Sītā, the princess of Mithilā, the g
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

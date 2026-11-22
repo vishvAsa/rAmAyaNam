@@ -428,8 +428,8 @@ Accepting the gods’ command, Brahmahatyā chooses her four abodes: rain-swolle
 
 <details><summary>मूलम्</summary>
 
-भूम्यामहं सर्वकालमेकेनांशेन सर्वदा ।  
-वसिष्यामि न सन्देहः सत्येनैतद् ब्रवीमि वः ॥ १४ ॥
+[^non-baroDa-CE] भूम्यामहं सर्वकालमेकेनांशेन सर्वदा ।  
+[^non-baroDa-CE] वसिष्यामि न सन्देहः सत्येनैतद् ब्रवीमि वः ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -655,8 +655,8 @@ Ratifying Brahmahatyā’s fourfold distribution, the gods hail a newly purified
 
 <details><summary>मूलम्</summary>
 
-इति लक्ष्मणवाक्यमुत्तमं  
-नृपतिरतीव मनोहरं महात्मा ।  
+[^non-baroDa-CE] इति लक्ष्मणवाक्यमुत्तमं  
+[^non-baroDa-CE] नृपतिरतीव मनोहरं महात्मा ।  
 परितोषमवाप हृष्टचेताः  
 स निशम्येन्द्रसमानविक्रमौजाः ॥ २१ ॥
 </details>
@@ -689,3 +689,4 @@ Hearing those excellent and exceedingly enchanting words of Lakṣmaṇa (_iti l
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -1001,10 +1001,10 @@ Why was Janaka struck with wonder at Daśaratha’s brief reply? **Tilaka**, **G
 
 <details><summary>मूलम्</summary>
 
-अथ रामो महातेजा लक्ष्मणेन समं ययौ ॥ १७ ॥  
-विश्वामित्रं पुरस्कृत्य पितुः पादावुपस्पृशन् ।
+[^non-baroDa-CE] अथ रामो महातेजा लक्ष्मणेन समं ययौ ॥ १७ ॥  
+[^non-baroDa-CE] विश्वामित्रं पुरस्कृत्य पितुः पादावुपस्पृशन् ।
 _________________
-अथ रामो महातेजा लक्ष्मणेन समं ययौ ॥  
+[^non-baroDa-CE] अथ रामो महातेजा लक्ष्मणेन समं ययौ ॥  
 विश्वामित्रं पुरस्कत्य पितुः पादावुपस्पृशन् ।
 </details>
 
@@ -1185,3 +1185,4 @@ Both **Tilaka** and **Govindarāja** explain that that night Janaka completed th
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

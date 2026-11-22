@@ -209,7 +209,7 @@ Then addressing all those ministers assembled there and making the entire counci
 तरणं सागरस्यास्य विक्रमं बलपौरुषम् ॥ ४ ॥  
 यदुक्तवन्तो रामस्य भवन्तस्तन्मया श्रुतम् ।  
 भवतश्चाप्यहं वेद्मि युद्धे सत्यपराक्रमान् ।  
-तूष्णीकानीक्षतोऽन्योन्यं विदित्वा रामविक्रमम् ॥ ५ ॥
+[^non-baroDa-CE] तूष्णीकानीक्षतोऽन्योन्यं विदित्वा रामविक्रमम् ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1181,9 +1181,9 @@ Practiced in those sacred regions by ascetics of firm vows (_dṛḍhavrataiḥ_
 
 <details><summary>मूलम्</summary>
 
-देवदानवयक्षेभ्यो गृहीतश्च वरस्त्वया ।  
-मनुष्या वानरा ऋक्षा गोलाङ्गूला महाबलाः ।  
-बलवन्त इहागम्य गर्जन्ति दृढविक्रमाः ॥ २३ ॥
+[^non-baroDa-CE] देवदानवयक्षेभ्यो गृहीतश्च वरस्त्वया ।  
+[^non-baroDa-CE] मनुष्या वानरा ऋक्षा गोलाङ्गूला महाबलाः ।  
+[^non-baroDa-CE] बलवन्त इहागम्य गर्जन्ति दृढविक्रमाः ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1708,7 +1708,7 @@ Screeching ‘_cīcīkūcī_’ (_cīcīkūcīti vāśantyaḥ_), female _śāri
 
 <details><summary>मूलम्</summary>
 
-पक्षिणश्च मृगाः सर्वे प्रत्यादित्यं रुदन्ति ते ।  
+[^non-baroDa-CE] पक्षिणश्च मृगाः सर्वे प्रत्यादित्यं रुदन्ति ते ।  
 करालो विकटो मुण्डः पुरुषः कृष्णपिङ्गलः ॥ ३३ ॥  
 कालो गृहाणि सर्वेषां काले कालेऽन्ववेक्षते ।
 _________________
@@ -1782,7 +1782,7 @@ Concluding his warning of the grim apparition of Time, Mālyavān declares Rāma
 नहि मानुषमात्रोऽसौ राघवो दृढविक्रमः ॥ ३५ ॥  
 येन बद्धः समुद्रे च सेतुः स परमाद्भुतः ।  
 कुरुष्व नरराजेन सन्धिं रामेण रावण ।  
-ज्ञात्वावधार्य कर्माणि क्रियतामायतिक्षमम् ॥ ३६ ॥
+[^non-baroDa-CE] ज्ञात्वावधार्य कर्माणि क्रियतामायतिक्षमम् ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2024,3 +2024,4 @@ Having spoken this speech to him and once again gauged the mind of the lord of _
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -1190,8 +1190,8 @@ Mounting that chariot of his (_tasya taṃ ratham āsthāya_), Hanumān, son of 
 
 <details><summary>मूलम्</summary>
 
-नदन् प्रतपनो घोरो नलं सोऽभ्यनुधावत ।  
-नलः प्रतपनस्याशु पातयामास चक्षुषी ॥ २३ ॥  
+[^non-baroDa-CE] नदन् प्रतपनो घोरो नलं सोऽभ्यनुधावत ।  
+[^non-baroDa-CE] नलः प्रतपनस्याशु पातयामास चक्षुषी ॥ २३ ॥  
 भिन्नगात्रः शरैस्तीक्ष्णैः क्षिप्रहस्तेन रक्षसा ।
 </details>
 
@@ -2450,3 +2450,5 @@ combat.
 Being struck down by the bulls among monkeys (_nihanyamānā haripuṅgavais tadā_) and maddened by the smell of blood (_śoṇitagandhamūrcchitāḥ_), the night-stalkers, eagerly longing for the setting of the sun (_divākarasyāstamayābhikāṅkṣiṇaḥ_), once again resorted impetuously to fierce battle (_punaḥ suyuddhaṃ tarasā samāśritāḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

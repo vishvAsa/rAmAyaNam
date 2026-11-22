@@ -146,12 +146,12 @@ perform fasting for obtaining prosperity, glory and sovereignty."
 
 तथेति च स राजानमुक्त्वा वेदविदां वरः ।  
 स्वयं वसिष्ठो भगवान् ययौ रामनिवेशनम् ॥ ३ ॥  
-उपवासयितुं वीरं मन्त्रविन्मन्त्रकोविदम् ।  
-ब्राह्मं रथवरं युक्तमास्थाय सुधृतव्रतः ॥ ४ ॥
+[^non-baroDa-CE] उपवासयितुं वीरं मन्त्रविन्मन्त्रकोविदम् ।  
+[^non-baroDa-CE] ब्राह्मं रथवरं युक्तमास्थाय सुधृतव्रतः ॥ ४ ॥
 _________________
 तथेति च स राजानमुक्त्वा वेदविदां वरः ।  
 स्वयं वसिष्ठो भगवान्ययौ रामनिवेशनम् ॥
-उपवासयितुं वीरं मन्त्रविन्मन्त्रकोविदम् ।  
+[^non-baroDa-CE] उपवासयितुं वीरं मन्त्रविन्मन्त्रकोविदम् ।  
 ब्राह्मं रथवरं युक्तमास्थाय सुदृढव्रतः ॥
 </details>
 
@@ -733,7 +733,7 @@ Rāma bids farewell to his companions and retires into his inner apartments, whi
 
 <details><summary>मूलम्</summary>
 
-सुहृद्भिस्तत्र रामोऽपि सहासीनः प्रियंवदैः ।  
+[^non-baroDa-CE] सुहृद्भिस्तत्र रामोऽपि सहासीनः प्रियंवदैः ।  
 सभाजितो विवेशाथ ताननुज्ञाप्य सर्वशः ॥ १३ ॥
 _________________
 सुहृद्भिस्तत्र रामोऽपि सुखासीनः प्रियंवदैः ।  
@@ -1321,8 +1321,8 @@ Seeing him arrived (_tam āgatam abhiprekṣya_), the king left his royal throne
 
 <details><summary>मूलम्</summary>
 
-तेन चैव तदा तुल्यं सहासीनाः सभासदः ।  
-आसनेभ्यः समुत्तस्थुः पूजयन्तः पुरोहितम् ॥ २४ ॥
+[^non-baroDa-CE] तेन चैव तदा तुल्यं सहासीनाः सभासदः ।  
+[^non-baroDa-CE] आसनेभ्यः समुत्तस्थुः पूजयन्तः पुरोहितम् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1485,3 +1485,4 @@ Brightly illuminating (_vyadīpayan_) that mansion which rivaled the palace of M
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

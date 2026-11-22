@@ -42,7 +42,7 @@ Struck by Kaikeyī's cruel demand, Daśaratha wonders if it is a daydream or del
 <details><summary>मूलम्</summary>
 
 ततः श्रुत्वा महाराजः कैकेय्या दारुणं वचः ।  
-चिन्तामभिसमापेदे मुहूर्तं प्रतताप च ॥ १ ॥
+[^non-baroDa-CE] चिन्तामभिसमापेदे मुहूर्तं प्रतताप च ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -87,8 +87,8 @@ Then, hearing Kaikeyī&#x27;s cruel speech (_dāruṇaṃ vacaḥ_), the great m
 
 <details><summary>मूलम्</summary>
 
-किं नु मेऽयं दिवास्वप्नश्चित्तमोहोऽपि वा मम ।  
-अनुभूतोपसर्गो वा मनसो वाप्युपद्रवः ॥ २ ॥
+[^non-baroDa-CE] किं नु मेऽयं दिवास्वप्नश्चित्तमोहोऽपि वा मम ।  
+[^non-baroDa-CE] अनुभूतोपसर्गो वा मनसो वाप्युपद्रवः ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -172,7 +172,7 @@ Pondering thus, the king found no peace at that time (_nādhyagacchat tadāsukha
 
 व्यथितो विक्लवश्चैव व्याघ्रीं दृष्ट्वा यथा मृगः ।  
 असंवृतायामासीनो जगत्यां दीर्घमुच्छ्वसन् ॥ ४ ॥  
-मण्डले पन्नगो रुद्धो मन्त्रैरिव महाविषः ।
+[^non-baroDa-CE] मण्डले पन्नगो रुद्धो मन्त्रैरिव महाविषः ।
 _________________
 व्यथितो विक्लवश्चैव व्याघ्रीं दृष्ट्वायथा मृगः ।  
 असंवृतायामासीनो जगत्यां दीर्घमुच्छ्वसन् ॥  
@@ -1035,7 +1035,7 @@ and when I do not see Rāma, my consciousness is lost (_naṣṭaṃ bhavati cet
 
 तदलं त्यज्यतामेष निश्चयः पापनिश्चये ॥ १४ ॥  
 अपि ते चरणौ मूर्ध्ना स्पृशाम्येष प्रसीद मे ।  
-किमर्थं चिन्तितं पापे त्वया परमदारुणम् ॥ १५ ॥
+[^non-baroDa-CE] किमर्थं चिन्तितं पापे त्वया परमदारुणम् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1082,8 +1082,8 @@ with my head. Be gracious to me."
 
 <details><summary>मूलम्</summary>
 
-अथ जिज्ञाससे मां त्वं भरतस्य प्रियाप्रिये ।  
-अस्तु यत्तत्त्वया पूर्वं व्याहृतं राघवं प्रति ॥ १६ ॥
+[^non-baroDa-CE] अथ जिज्ञाससे मां त्वं भरतस्य प्रियाप्रिये ।  
+[^non-baroDa-CE] अस्तु यत्तत्त्वया पूर्वं व्याहृतं राघवं प्रति ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1113,11 +1113,11 @@ Or do you wish to test me (_atha jijñāsase māṃ tvam_) regarding my favor or
 
 <details><summary>मूलम्</summary>
 
-स मे ज्येष्ठसुतः श्रीमान् धर्मज्येष्ठ इतीव मे ।  
-तत् त्वया प्रियवादिन्या सेवार्थं कथितं भवेत् ॥ १७ ॥
+[^non-baroDa-CE] स मे ज्येष्ठसुतः श्रीमान् धर्मज्येष्ठ इतीव मे ।  
+[^non-baroDa-CE] तत् त्वया प्रियवादिन्या सेवार्थं कथितं भवेत् ॥ १७ ॥
 _________________
 स मे ज्येष्ठःसुतः श्रीमान्धर्मज्येष्ठ इतीव मे ।  
-तत्त्वया प्रियवादिन्या सेवार्थं कथितं भवेत् ॥
+[^non-baroDa-CE] तत्त्वया प्रियवादिन्या सेवार्थं कथितं भवेत् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1236,8 +1236,8 @@ Recalling Kaikeyī's past obedience and her constant praise of Rāma as equal to
 
 <details><summary>मूलम्</summary>
 
-इक्ष्वाकूणां कुले देवि सम्प्राप्तः सुमहानयम् ।  
-अनयो नयसम्पन्ने यत्र ते विकृता मतिः ॥ १९ ॥
+[^non-baroDa-CE] इक्ष्वाकूणां कुले देवि सम्प्राप्तः सुमहानयम् ।  
+[^non-baroDa-CE] अनयो नयसम्पन्ने यत्र ते विकृता मतिः ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1283,7 +1283,7 @@ In the lineage of the Ikṣvākus, O queen, this great calamity (_sumahān ayam 
 <details><summary>मूलम्</summary>
 
 नहि किञ्चिदयुक्तं वा विप्रियं वा पुरा मम ।  
-अकरोस्त्वं विशालाक्षि तेन न श्रद्दधामि ते ॥ २० ॥
+[^non-baroDa-CE] अकरोस्त्वं विशालाक्षि तेन न श्रद्दधामि ते ॥ २० ॥
 _________________
 नहि किञ्चिदयुक्तं वा विप्रियं वा पुरा मम ।  
 अकरोस्त्वं विशालाक्षि तेन न श्रद्धधामिते ॥
@@ -1337,8 +1337,8 @@ Never before did you do anything improper or displeasing to me (_na hi kiṃcid 
 
 <details><summary>मूलम्</summary>
 
-ननु ते राघवस्तुल्यो भरतेन महात्मना ।  
-बहुशो हि स्म बाले त्वं कथाः कथयसे मम ॥ २१ ॥
+[^non-baroDa-CE] ननु ते राघवस्तुल्यो भरतेन महात्मना ।  
+[^non-baroDa-CE] बहुशो हि स्म बाले त्वं कथाः कथयसे मम ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1389,8 +1389,8 @@ Surely Rāghava was ever equal in your eyes to the high-souled Bharata (_nanu te
 
 <details><summary>मूलम्</summary>
 
-तस्य धर्मात्मनो देवि वने वासं यशस्विनः ।  
-कथं रोचयसे भीरु नव वर्षाणि पञ्च च ॥ २२ ॥
+[^non-baroDa-CE] तस्य धर्मात्मनो देवि वने वासं यशस्विनः ।  
+[^non-baroDa-CE] कथं रोचयसे भीरु नव वर्षाणि पञ्च च ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1441,8 +1441,8 @@ How then, O timid queen (_bhīru_), can you take pleasure (_kathaṃ rocayase_) 
 
 <details><summary>मूलम्</summary>
 
-अत्यन्तसुकुमारस्य तस्य धर्मे कृतात्मनः ।  
-कथं रोचयसे वासमरण्ये भृशदारुणे ॥ २३ ॥
+[^non-baroDa-CE] अत्यन्तसुकुमारस्य तस्य धर्मे कृतात्मनः ।  
+[^non-baroDa-CE] कथं रोचयसे वासमरण्ये भृशदारुणे ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1493,8 +1493,8 @@ How can you approve of a dwelling in the terribly dreadful forest (_araṇye bh�
 
 <details><summary>मूलम्</summary>
 
-रोचयस्यभिरामस्य रामस्य शुभलोचने ।  
-तव शुश्रूषमाणस्य किमर्थं विप्रवासनम् ॥ २४ ॥
+[^non-baroDa-CE] रोचयस्यभिरामस्य रामस्य शुभलोचने ।  
+[^non-baroDa-CE] तव शुश्रूषमाणस्य किमर्थं विप्रवासनम् ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1553,8 +1553,8 @@ Extolling Rāma's unmatched service, blameless conduct toward thousands of women
 
 <details><summary>मूलम्</summary>
 
-रामो हि भरताद् भूयस्तव शुश्रूषते सदा ।  
-विशेषं त्वयि तस्मात् तु भरतस्य न लक्षये ॥ २५ ॥
+[^non-baroDa-CE] रामो हि भरताद् भूयस्तव शुश्रूषते सदा ।  
+[^non-baroDa-CE] विशेषं त्वयि तस्मात् तु भरतस्य न लक्षये ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1599,8 +1599,8 @@ Indeed, Rāma ever serves you even more than Bharata (_rāmo hi bharatād bhūya
 
 <details><summary>मूलम्</summary>
 
-शुश्रूषां गौरवं चैव प्रमाणं वचनक्रियाम् ।  
-कस्तु भूयस्तरं कुर्यादन्यत्र पुरुषर्षभात् ॥ २६ ॥
+[^non-baroDa-CE] शुश्रूषां गौरवं चैव प्रमाणं वचनक्रियाम् ।  
+[^non-baroDa-CE] कस्तु भूयस्तरं कुर्यादन्यत्र पुरुषर्षभात् ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1652,8 +1652,8 @@ Obedient service (_śuśrūṣām_), reverence (_gauravam_), deference (_pramā�
 
 <details><summary>मूलम्</summary>
 
-बहूनां स्त्रीसहस्राणां बहूनां चोपजीविनाम् ।  
-परिवादोऽपवादो वा राघवे नोपपद्यते ॥ २७ ॥
+[^non-baroDa-CE] बहूनां स्त्रीसहस्राणां बहूनां चोपजीविनाम् ।  
+[^non-baroDa-CE] परिवादोऽपवादो वा राघवे नोपपद्यते ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1683,8 +1683,8 @@ Among many thousands of women (_bahūnāṃ strīsahasrāṇām_) and many thous
 
 <details><summary>मूलम्</summary>
 
-सान्त्वयन् सर्वभूतानि रामः शुद्धेन चेतसा ।  
-गृह्णाति मनुजव्याघ्रः प्रियैर्विषयवासिनः ॥ २८ ॥
+[^non-baroDa-CE] सान्त्वयन् सर्वभूतानि रामः शुद्धेन चेतसा ।  
+[^non-baroDa-CE] गृह्णाति मनुजव्याघ्रः प्रियैर्विषयवासिनः ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1735,8 +1735,8 @@ Conciliating all beings with a pure heart (_sāntvayan sarvabhūtāni rāmaḥ �
 
 <details><summary>मूलम्</summary>
 
-सत्येन लोकाञ्जयति द्विजान् दानेन राघवः ।  
-गुरूञ्छुश्रूषया वीरो धनुषा युधि शात्रवान् ॥ २९ ॥
+[^non-baroDa-CE] सत्येन लोकाञ्जयति द्विजान् दानेन राघवः ।  
+[^non-baroDa-CE] गुरूञ्छुश्रूषया वीरो धनुषा युधि शात्रवान् ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1788,8 +1788,8 @@ By truth Rāghava conquers the worlds (_satyena lokāñ jayati_), by liberality 
 
 <details><summary>मूलम्</summary>
 
-सत्यं दानं तपस्त्यागो मित्रता शौचमार्जवम् ।  
-विद्या च गुरुशुश्रूषा ध्रुवाण्येतानि राघवे ॥ ३० ॥
+[^non-baroDa-CE] सत्यं दानं तपस्त्यागो मित्रता शौचमार्जवम् ।  
+[^non-baroDa-CE] विद्या च गुरुशुश्रूषा ध्रुवाण्येतानि राघवे ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1848,8 +1848,8 @@ Pleading that he has never heard an unpleasant word from Rāma and cannot live w
 
 <details><summary>मूलम्</summary>
 
-तस्मिन्नार्जवसम्पन्ने देवि देवोपमे कथम् ।  
-पापमाशंससे रामे महर्षिसमतेजसि ॥ ३१ ॥
+[^non-baroDa-CE] तस्मिन्नार्जवसम्पन्ने देवि देवोपमे कथम् ।  
+[^non-baroDa-CE] पापमाशंससे रामे महर्षिसमतेजसि ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1894,8 +1894,8 @@ How then, O queen, can you wish evil (_pāpam āśaṃsase_) upon that Rāma who
 
 <details><summary>मूलम्</summary>
 
-न स्मराम्यप्रियं वाक्यं लोकस्य प्रियवादिनः ।  
-स कथं त्वत्कृते रामं वक्ष्यामि प्रियमप्रियम् ॥ ३२ ॥
+[^non-baroDa-CE] न स्मराम्यप्रियं वाक्यं लोकस्य प्रियवादिनः ।  
+[^non-baroDa-CE] स कथं त्वत्कृते रामं वक्ष्यामि प्रियमप्रियम् ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1940,8 +1940,8 @@ I do not recall a single unpleasant word (_na smarāmy apriyaṃ vākyam_) from 
 
 <details><summary>मूलम्</summary>
 
-क्षमा यस्मिंस्तपस्त्यागः सत्यं धर्मः कृतज्ञता ।  
-अप्यहिंसा च भूतानां तमृते का गतिर्मम ॥ ३३ ॥
+[^non-baroDa-CE] क्षमा यस्मिंस्तपस्त्यागः सत्यं धर्मः कृतज्ञता ।  
+[^non-baroDa-CE] अप्यहिंसा च भूतानां तमृते का गतिर्मम ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1993,8 +1993,8 @@ Without him in whom abide forgiveness, austerity, generosity (_kṣamā yasmiṃ
 
 <details><summary>मूलम्</summary>
 
-मम वृद्धस्य कैकेयि गतान्तस्य तपस्विनः ।  
-दीनं लालप्यमानस्य कारुण्यं कर्तुमर्हसि ॥ ३४ ॥
+[^non-baroDa-CE] मम वृद्धस्य कैकेयि गतान्तस्य तपस्विनः ।  
+[^non-baroDa-CE] दीनं लालप्यमानस्य कारुण्यं कर्तुमर्हसि ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2040,7 +2040,7 @@ Have compassion (_kāruṇyaṃ kartum arhasi_), O Kaikeyī, upon me—an aged m
 <details><summary>मूलम्</summary>
 
 पृथिव्यां सागरान्तायां यत् किञ्चिदधिगम्यते ।  
-तत् सर्वं तव दास्यामि मा च त्वं मन्युमाविश ॥ ३५ ॥
+[^non-baroDa-CE] तत् सर्वं तव दास्यामि मा च त्वं मन्युमाविश ॥ ३५ ॥
 _________________
 पृथिव्यां सागरान्तायां यत्किञ्चिदधिगम्यते ।  
 तत्सर्वं तव दास्यामि मा चत्वं मन्युराविश ॥
@@ -2094,8 +2094,8 @@ Whatever wealth is found upon the sea-girt earth (_pṛthivyāṃ sāgarāntāy�
 
 <details><summary>मूलम्</summary>
 
-अञ्जलिं कुर्मि कैकेयि पादौ चापि स्पृशामि ते ।  
-शरणं भव रामस्य माधर्मो मामिह स्पृशेत् ॥ ३६ ॥
+[^non-baroDa-CE] अञ्जलिं कुर्मि कैकेयि पादौ चापि स्पृशामि ते ।  
+[^non-baroDa-CE] शरणं भव रामस्य माधर्मो मामिह स्पृशेत् ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2152,9 +2152,9 @@ As Daśaratha writhes in an ocean of grief, fierce Kaikeyī replies with still f
 <details><summary>मूलम्</summary>
 
 इति दुःखाभिसन्तप्तं विलपन्तमचेतनम् ।  
-घूर्णमानं महाराजं शोकेन समभिप्लुतम् ॥ ३७ ॥  
-पारं शोकार्णवस्याशु प्रार्थयन्तं पुनः पुनः ।  
-प्रत्युवाचाथ कैकेयी रौद्रा रौद्रतरं वचः ॥ ३८ ॥
+[^non-baroDa-CE] घूर्णमानं महाराजं शोकेन समभिप्लुतम् ॥ ३७ ॥  
+[^non-baroDa-CE] पारं शोकार्णवस्याशु प्रार्थयन्तं पुनः पुनः ।  
+[^non-baroDa-CE] प्रत्युवाचाथ कैकेयी रौद्रा रौद्रतरं वचः ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2213,8 +2213,8 @@ with grief, and was praying again and again for being speedily borne across the 
 
 <details><summary>मूलम्</summary>
 
-यदि दत्त्वा वरौ राजन् पुनः प्रत्यनुतप्यसे ।  
-धार्मिकत्वं कथं वीर पृथिव्यां कथयिष्यसि ॥ ३९ ॥
+[^non-baroDa-CE] यदि दत्त्वा वरौ राजन् पुनः प्रत्यनुतप्यसे ।  
+[^non-baroDa-CE] धार्मिकत्वं कथं वीर पृथिव्यां कथयिष्यसि ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2265,8 +2265,8 @@ piety on this earth?"
 
 <details><summary>मूलम्</summary>
 
-यदा समेता बहवस्त्वया राजर्षयः सह ।  
-कथयिष्यन्ति धर्मज्ञ तत्र किं प्रतिवक्ष्यसि ॥ ४० ॥
+[^non-baroDa-CE] यदा समेता बहवस्त्वया राजर्षयः सह ।  
+[^non-baroDa-CE] कथयिष्यन्ति धर्मज्ञ तत्र किं प्रतिवक्ष्यसि ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2317,8 +2317,8 @@ When many royal sages (_bahavas rājarṣayaḥ_), gathered together with you, c
 
 <details><summary>मूलम्</summary>
 
-यस्याः प्रसादे जीवामि या च मामभ्यपालयत् ।  
-तस्याः कृता मया मिथ्या कैकेय्या इति वक्ष्यसि ॥ ४१ ॥
+[^non-baroDa-CE] यस्याः प्रसादे जीवामि या च मामभ्यपालयत् ।  
+[^non-baroDa-CE] तस्याः कृता मया मिथ्या कैकेय्या इति वक्ष्यसि ॥ ४१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2369,8 +2369,8 @@ Will you say: ‘By her grace I live, and she rescued me (_yasyāḥ prasāde j�
 
 <details><summary>मूलम्</summary>
 
-किल्बिषं त्वं नरेन्द्राणां करिष्यसि नराधिप ।  
-यो दत्त्वा वरमद्यैव पुनरन्यानि भाषसे ॥ ४२ ॥
+[^non-baroDa-CE] किल्बिषं त्वं नरेन्द्राणां करिष्यसि नराधिप ।  
+[^non-baroDa-CE] यो दत्त्वा वरमद्यैव पुनरन्यानि भाषसे ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2429,8 +2429,8 @@ Citing Śaibya who gave his own flesh to the hawk, Alarka who plucked out his ey
 
 <details><summary>मूलम्</summary>
 
-शैब्यः श्येनकपोतीये स्वमांसं पक्षिणे ददौ ।  
-अलर्कश्चक्षुषी दत्त्वा जगाम गतिमुत्तमाम् ॥ ४३ ॥
+[^non-baroDa-CE] शैब्यः श्येनकपोतीये स्वमांसं पक्षिणे ददौ ।  
+[^non-baroDa-CE] अलर्कश्चक्षुषी दत्त्वा जगाम गतिमुत्तमाम् ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2496,8 +2496,8 @@ In the tale of the hawk and the dove (_śyenakapotīye_), Śaibya gave his own f
 
 <details><summary>मूलम्</summary>
 
-सागरः समयं कृत्वा न वेलामतिवर्तते ।  
-समयं मानृतं कार्षीः पूर्ववृत्तमनुस्मरन् ॥ ४४ ॥
+[^non-baroDa-CE] सागरः समयं कृत्वा न वेलामतिवर्तते ।  
+[^non-baroDa-CE] समयं मानृतं कार्षीः पूर्ववृत्तमनुस्मरन् ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2548,8 +2548,8 @@ Having made a covenant, the ocean does not transgress its shore (_sāgaraḥ sam
 
 <details><summary>मूलम्</summary>
 
-स त्वं धर्मं परित्यज्य रामं राज्येऽभिषिच्य च ।  
-सह कौसल्यया नित्यं रन्तुमिच्छसि दुर्मते ॥ ४५ ॥
+[^non-baroDa-CE] स त्वं धर्मं परित्यज्य रामं राज्येऽभिषिच्य च ।  
+[^non-baroDa-CE] सह कौसल्यया नित्यं रन्तुमिच्छसि दुर्मते ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2601,8 +2601,8 @@ Abandoning righteousness and consecrating Rāma in the kingdom, O crooked-minded
 
 <details><summary>मूलम्</summary>
 
-भवत्वधर्मो धर्मो वा सत्यं वा यदि वानृतम् ।  
-यत्त्वया संश्रुतं मह्यं तस्य नास्ति व्यतिक्रमः ॥ ४६ ॥
+[^non-baroDa-CE] भवत्वधर्मो धर्मो वा सत्यं वा यदि वानृतम् ।  
+[^non-baroDa-CE] यत्त्वया संश्रुतं मह्यं तस्य नास्ति व्यतिक्रमः ॥ ४६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2647,8 +2647,8 @@ Whether it be unrighteousness or righteousness (_bhavatv adharmo dharmo vā_), t
 
 <details><summary>मूलम्</summary>
 
-अहं हि विषमद्यैव पीत्वा बहु तवाग्रतः ।  
-पश्यतस्ते मरिष्यामि रामो यद्यभिषिच्यते ॥ ४७ ॥
+[^non-baroDa-CE] अहं हि विषमद्यैव पीत्वा बहु तवाग्रतः ।  
+[^non-baroDa-CE] पश्यतस्ते मरिष्यामि रामो यद्यभिषिच्यते ॥ ४७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2693,8 +2693,8 @@ If Rāma is consecrated (_rāmo yady abhiṣicyate_), I shall this very day drin
 
 <details><summary>मूलम्</summary>
 
-एकाहमपि पश्येयं यद्यहं राममातरम् ।  
-अञ्जलिं प्रतिगृह्णन्तीं श्रेयो ननु मृतिर्मम ॥ ४८ ॥
+[^non-baroDa-CE] एकाहमपि पश्येयं यद्यहं राममातरम् ।  
+[^non-baroDa-CE] अञ्जलिं प्रतिगृह्णन्तीं श्रेयो ननु मृतिर्मम ॥ ४८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2747,8 +2747,8 @@ Swearing by Bharata and herself that nothing short of Rāma's exile will satisfy
 
 <details><summary>मूलम्</summary>
 
-भरतेनात्मना चाहं शपे ते मनुजाधिप ।  
-यथा नान्येन तुष्येयमृते रामविवासनात् ॥ ४९ ॥
+[^non-baroDa-CE] भरतेनात्मना चाहं शपे ते मनुजाधिप ।  
+[^non-baroDa-CE] यथा नान्येन तुष्येयमृते रामविवासनात् ॥ ४९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2793,8 +2793,8 @@ By Bharata and by my own self I swear to you (_bharatenātmanā cāhaṃ śape t
 
 <details><summary>मूलम्</summary>
 
-एतावदुक्त्वा वचनं कैकेयी विरराम ह ।  
-विलपन्तं च राजानं न प्रतिव्याजहार सा ॥ ५० ॥
+[^non-baroDa-CE] एतावदुक्त्वा वचनं कैकेयी विरराम ह ।  
+[^non-baroDa-CE] विलपन्तं च राजानं न प्रतिव्याजहार सा ॥ ५० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2839,15 +2839,15 @@ Having spoken these words, Kaikeyī fell silent (_virarāma ha_); and though the
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वा तु राजा कैकेय्या वाक्यं परमशोभनम् ।  
-रामस्य च वने वासमैश्वर्यं भरतस्य च ॥ ५१ ॥  
-नाभ्यभाषत कैकेयीं मुहूर्तं व्याकुलेन्द्रियः ।  
-प्रैक्षतानिमिषो देवीं प्रियामप्रियवादिनीम् ॥ ५२ ॥
+[^non-baroDa-CE] श्रुत्वा तु राजा कैकेय्या वाक्यं परमशोभनम् ।  
+[^non-baroDa-CE] रामस्य च वने वासमैश्वर्यं भरतस्य च ॥ ५१ ॥  
+[^non-baroDa-CE] नाभ्यभाषत कैकेयीं मुहूर्तं व्याकुलेन्द्रियः ।  
+[^non-baroDa-CE] प्रैक्षतानिमिषो देवीं प्रियामप्रियवादिनीम् ॥ ५२ ॥
 _________________
-श्रुत्वा तु राजा कैकेय्या वाक्यं परमशोभनम् ।  
+[^non-baroDa-CE] श्रुत्वा तु राजा कैकेय्या वाक्यं परमशोभनम् ।  
 रामस्य च वने वासमैश्चर्यं भरतस्य च ॥
-नाभ्यभाषत कैकेयीं मुहूर्तं व्याकुलेन्द्रियः ।  
-प्रैक्षतानिमिषो देवीं प्रियामप्रियवादिनीम् ॥
+[^non-baroDa-CE] नाभ्यभाषत कैकेयीं मुहूर्तं व्याकुलेन्द्रियः ।  
+[^non-baroDa-CE] प्रैक्षतानिमिषो देवीं प्रियामप्रियवादिनीम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2897,8 +2897,8 @@ towards Kaikeyi.
 
 <details><summary>मूलम्</summary>
 
-तां हि वज्रसमां वाचमाकर्ण्य हृदयाप्रियाम् ।  
-दुःखशोकमयीं श्रुत्वा राजा न सुखितोऽभवत् ॥ ५३ ॥
+[^non-baroDa-CE] तां हि वज्रसमां वाचमाकर्ण्य हृदयाप्रियाम् ।  
+[^non-baroDa-CE] दुःखशोकमयीं श्रुत्वा राजा न सुखितोऽभवत् ॥ ५३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2946,8 +2946,8 @@ Hearing that thunderbolt-like speech (_vajrasamāṃ vācam_), so hateful to his
 
 <details><summary>मूलम्</summary>
 
-स देव्या व्यवसायं च घोरं च शपथं कृतम् ।  
-ध्यात्वा रामेति निःश्वस्य च्छिन्नस्तरुरिवापतत् ॥ ५४ ॥
+[^non-baroDa-CE] स देव्या व्यवसायं च घोरं च शपथं कृतम् ।  
+[^non-baroDa-CE] ध्यात्वा रामेति निःश्वस्य च्छिन्नस्तरुरिवापतत् ॥ ५४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3006,8 +3006,8 @@ Like a madman, a delirious patient, or a serpent robbed of its energy, Daśarath
 
 <details><summary>मूलम्</summary>
 
-नष्टचित्तो यथोन्मत्तो विपरीतो यथातुरः ।  
-हृततेजा यथा सर्पो बभूव जगतीपतिः ॥ ५५ ॥
+[^non-baroDa-CE] नष्टचित्तो यथोन्मत्तो विपरीतो यथातुरः ।  
+[^non-baroDa-CE] हृततेजा यथा सर्पो बभूव जगतीपतिः ॥ ५५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3052,8 +3052,8 @@ Bereft of reason like a madman (_naṣṭacitto yathonmatto_), deranged like one
 
 <details><summary>मूलम्</summary>
 
-दीनयाऽऽतुरया वाचा इति होवाच कैकयीम् ।  
-अनर्थमिममर्थाभं केन त्वमुपदेशिता ॥ ५६ ॥
+[^non-baroDa-CE] दीनयाऽऽतुरया वाचा इति होवाच कैकयीम् ।  
+[^non-baroDa-CE] अनर्थमिममर्थाभं केन त्वमुपदेशिता ॥ ५६ ॥
 _________________
 दीनयाऽऽतुरया वाचा इति होवाच केकयीम् ।  
 अनर्थमिवमर्थाभं केन त्वमुपदेशिता ॥
@@ -3111,10 +3111,10 @@ With a piteous and afflicted voice (_dīnayāturayā vācā_), he spoke thus to 
 
 <details><summary>मूलम्</summary>
 
-भूतोपहतचित्तेव ब्रुवन्ती मां न लज्जसे ।  
-शीलव्यसनमेतत् ते नाभिजानाम्यहं पुरा ॥ ५७ ॥
+[^non-baroDa-CE] भूतोपहतचित्तेव ब्रुवन्ती मां न लज्जसे ।  
+[^non-baroDa-CE] शीलव्यसनमेतत् ते नाभिजानाम्यहं पुरा ॥ ५७ ॥
 _________________
-भूतोपहतचित्तेव ब्रुवन्ती मां न लज्जसे ।  
+[^non-baroDa-CE] भूतोपहतचित्तेव ब्रुवन्ती मां न लज्जसे ।  
 शीलव्यसनमेतत् तॆ नाभिजानाम्यहं पुरा ॥
 </details>
 
@@ -3162,10 +3162,10 @@ Speaking to me like a woman whose mind is possessed by an evil spirit (_bhūtopa
 
 <details><summary>मूलम्</summary>
 
-बालायास्तत् त्विदानीं ते लक्षये विपरीतवत् ।  
-कुतो वा ते भयं जातं या त्वमेवंविधं वरम् ॥ ५८ ॥  
-राष्ट्रे भरतमासीनं वृणीषे राघवं वने ।  
-विरमैतेन भावेन त्वमेतेनानृतेन च ॥ ५९ ॥
+[^non-baroDa-CE] बालायास्तत् त्विदानीं ते लक्षये विपरीतवत् ।  
+[^non-baroDa-CE] कुतो वा ते भयं जातं या त्वमेवंविधं वरम् ॥ ५८ ॥  
+[^non-baroDa-CE] राष्ट्रे भरतमासीनं वृणीषे राघवं वने ।  
+[^non-baroDa-CE] विरमैतेन भावेन त्वमेतेनानृतेन च ॥ ५९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3236,7 +3236,7 @@ give up this sinful intention of sending Rama to exile."
 
 <details><summary>मूलम्</summary>
 
-यदि भर्तुः प्रियं कार्यं लोकस्य भरतस्य च ।  
+[^non-baroDa-CE] यदि भर्तुः प्रियं कार्यं लोकस्य भरतस्य च ।  
 नृशंसे पापसङ्कल्पे क्षुद्रे दुष्कृतकारिणि ॥ ६० ॥
 </details>
 
@@ -3296,7 +3296,7 @@ Warning that Bharata is even firmer in righteousness than Rāma and will never a
 
 <details><summary>मूलम्</summary>
 
-किं नु दुःखमलीकं वा मयि रामे च पश्यसि ।  
+[^non-baroDa-CE] किं नु दुःखमलीकं वा मयि रामे च पश्यसि ।  
 न कथञ्चिदृते रामाद् भरतो राज्यमावसेत् ॥ ६१ ॥
 </details>
 
@@ -3349,9 +3349,9 @@ what grievance or offense do you see in me or in Rāma (_kiṃ nu duḥkham alī
 
 <details><summary>मूलम्</summary>
 
-रामादपि हि तं मन्ये धर्मतो बलवत्तरम् ।  
-कथं द्रक्ष्यामि रामस्य वनं गच्छेति भाषिते ॥ ६२ ॥  
-मुखवर्णं विवर्णं तु यथैवेन्दुमुपप्लुतम् ।
+[^non-baroDa-CE] रामादपि हि तं मन्ये धर्मतो बलवत्तरम् ।  
+[^non-baroDa-CE] कथं द्रक्ष्यामि रामस्य वनं गच्छेति भाषिते ॥ ६२ ॥  
+[^non-baroDa-CE] मुखवर्णं विवर्णं तु यथैवेन्दुमुपप्लुतम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3402,8 +3402,8 @@ for I deem him even firmer in righteousness than Rāma (_rāmād api hi taṃ ma
 
 <details><summary>मूलम्</summary>
 
-तां तु मे सुकृतां बुद्धिं सुहृद्भिः सह निश्चिताम् ॥ ६३ ॥  
-कथं द्रक्ष्याम्यपावृत्तां परैरिव हतां चमूम् ।
+[^non-baroDa-CE] तां तु मे सुकृतां बुद्धिं सुहृद्भिः सह निश्चिताम् ॥ ६३ ॥  
+[^non-baroDa-CE] कथं द्रक्ष्याम्यपावृत्तां परैरिव हतां चमूम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3433,8 +3433,8 @@ countenance grown pale like the moon eclipsed by Rāhu (_mukhavarṇaṃ vivar�
 
 <details><summary>मूलम्</summary>
 
-किं मां वक्ष्यन्ति राजानो नानादिग्भ्यः समागताः ॥ ६४ ॥  
-बालो बतायमैक्ष्वाकश्चिरं राज्यमकारयत् ।
+[^non-baroDa-CE] किं मां वक्ष्यन्ति राजानो नानादिग्भ्यः समागताः ॥ ६४ ॥  
+[^non-baroDa-CE] बालो बतायमैक्ष्वाकश्चिरं राज्यमकारयत् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3486,9 +3486,9 @@ how shall I behold it turned back, like an army routed by foes (_kathaṃ drak�
 
 <details><summary>मूलम्</summary>
 
-यदा हि बहवो वृद्धा गुणवन्तो बहुश्रुताः ॥ ६५ ॥  
-परिप्रक्ष्यन्ति काकुत्स्थं वक्ष्यामीह कथं तदा ।  
-कैकेय्या क्लिश्यमानेन पुत्रः प्रव्राजितो मया ॥ ६६ ॥
+[^non-baroDa-CE] यदा हि बहवो वृद्धा गुणवन्तो बहुश्रुताः ॥ ६५ ॥  
+[^non-baroDa-CE] परिप्रक्ष्यन्ति काकुत्स्थं वक्ष्यामीह कथं तदा ।  
+[^non-baroDa-CE] कैकेय्या क्लिश्यमानेन पुत्रः प्रव्राजितो मया ॥ ६६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3568,8 +3568,8 @@ Torn between two untruths, Daśaratha laments how he neglected the devoted Kausa
 <details><summary>मूलम्</summary>
 
 यदि सत्यं ब्रवीम्येतत् तदसत्यं भविष्यति ।  
-किं मां वक्ष्यति कौसल्या राघवे वनमास्थिते ॥ ६७ ॥  
-किं चैनां प्रतिवक्ष्यामि कृत्वा विप्रियमीदृशम् ।
+[^non-baroDa-CE] किं मां वक्ष्यति कौसल्या राघवे वनमास्थिते ॥ ६७ ॥  
+[^non-baroDa-CE] किं चैनां प्रतिवक्ष्यामि कृत्वा विप्रियमीदृशम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3622,14 +3622,14 @@ If I speak this truth, then my prior word to consecrate Rāma will become false 
 
 <details><summary>मूलम्</summary>
 
-यदा यदा च कौसल्या दासीव च सखीव च ॥ ६८ ॥  
-भार्यावद् भगिनीवच्च मातृवच्चोपतिष्ठति ।  
-सततं प्रियकामा मे प्रियपुत्रा प्रियंवदा ॥ ६९ ॥  
-न मया सत्कृता देवी सत्कारार्हा कृते तव ।
+[^non-baroDa-CE] यदा यदा च कौसल्या दासीव च सखीव च ॥ ६८ ॥  
+[^non-baroDa-CE] भार्यावद् भगिनीवच्च मातृवच्चोपतिष्ठति ।  
+[^non-baroDa-CE] सततं प्रियकामा मे प्रियपुत्रा प्रियंवदा ॥ ६९ ॥  
+[^non-baroDa-CE] न मया सत्कृता देवी सत्कारार्हा कृते तव ।
 _________________
-यदा यदा च कौसल्या दासीव च सखीव च ॥
-भार्यावद् भगिनीवच्च मातृवच्चोपतिष्ठति ।  
-सततं प्रियकामा मे प्रियपुत्रा प्रियंवदा ॥  
+[^non-baroDa-CE] यदा यदा च कौसल्या दासीव च सखीव च ॥
+[^non-baroDa-CE] भार्यावद् भगिनीवच्च मातृवच्चोपतिष्ठति ।  
+[^non-baroDa-CE] सततं प्रियकामा मे प्रियपुत्रा प्रियंवदा ॥  
 न मया सत्कृता देवी सत्कारार्ह कृते तव ।
 </details>
 
@@ -3691,8 +3691,8 @@ sake, she was never treated kindly by me."
 
 <details><summary>मूलम्</summary>
 
-इदानीं तत्तपति मां यन्मया सुकृतं त्वयि ॥ ७० ॥  
-अपथ्यव्यञ्जनोपेतं भुक्तमन्नमिवातुरम् ।
+[^non-baroDa-CE] इदानीं तत्तपति मां यन्मया सुकृतं त्वयि ॥ ७० ॥  
+[^non-baroDa-CE] अपथ्यव्यञ्जनोपेतं भुक्तमन्नमिवातुरम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3743,8 +3743,8 @@ Though worthy of honor, that queen was never honored by me on account of you (_n
 
 <details><summary>मूलम्</summary>
 
-विप्रकारं च रामस्य सम्प्रयाणं वनस्य च ॥ ७१ ॥  
-सुमित्रा प्रेक्ष्य वै भीता कथं मे विश्वसिष्यति ।
+[^non-baroDa-CE] विप्रकारं च रामस्य सम्प्रयाणं वनस्य च ॥ ७१ ॥  
+[^non-baroDa-CE] सुमित्रा प्रेक्ष्य वै भीता कथं मे विश्वसिष्यति ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3789,11 +3789,11 @@ even as rice eaten with unwholesome condiments torments a sick man (_apathyavya�
 
 <details><summary>मूलम्</summary>
 
-कृपणं बत वैदेही श्रोष्यति द्वयमप्रियम् ॥ ७२ ॥  
-मां च पञ्चत्वमापन्नं रामं च वनमाश्रितम् ।
+[^non-baroDa-CE] कृपणं बत वैदेही श्रोष्यति द्वयमप्रियम् ॥ ७२ ॥  
+[^non-baroDa-CE] मां च पञ्चत्वमापन्नं रामं च वनमाश्रितम् ।
 _________________
 कृपणं बत वैदेही श्रोषति द्वयमप्रियम् ॥  
-मां च पञ्चत्वमापन्नं रामं च वनमाश्रितम् ।
+[^non-baroDa-CE] मां च पञ्चत्वमापन्नं रामं च वनमाश्रितम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3846,7 +3846,7 @@ Fearing that Sītā will pine away like a bereaved Kinnarī on Himavat, Daśarat
 
 <details><summary>मूलम्</summary>
 
-वैदेही बत मे प्राणान् शोचन्ती क्षपयिष्यति ॥ ७३ ॥  
+[^non-baroDa-CE] वैदेही बत मे प्राणान् शोचन्ती क्षपयिष्यति ॥ ७३ ॥  
 हीना हिमवतः पार्श्वे किन्नरेणेव किन्नरी ।
 </details>
 
@@ -3898,12 +3898,12 @@ with her grief will make me lose my life."
 
 <details><summary>मूलम्</summary>
 
-नहि राममहं दृष्ट्वा प्रवसन्तं महावने ॥ ७४ ॥  
-चिरं जीवितुमाशंसे रुदन्तीं चापि मैथिलीम् ।  
-सा नूनं विधवा राज्यं सपुत्रा कारयिष्यसि ॥ ७५ ॥
+[^non-baroDa-CE] नहि राममहं दृष्ट्वा प्रवसन्तं महावने ॥ ७४ ॥  
+[^non-baroDa-CE] चिरं जीवितुमाशंसे रुदन्तीं चापि मैथिलीम् ।  
+[^non-baroDa-CE] सा नूनं विधवा राज्यं सपुत्रा कारयिष्यसि ॥ ७५ ॥
 _________________
 न हि राममहं दृष्ट्वा प्रवसन्तम्महावने ॥
-चिरं जीवितुमाशंसे रुदन्तीं चापिमैथिलीम् ।  
+[^non-baroDa-CE] चिरं जीवितुमाशंसे रुदन्तीं चापिमैथिलीम् ।  
 सा नूनं विधवा राज्यं सु पुत्रा कारयिष्यसि ॥
 </details>
 
@@ -3974,8 +3974,8 @@ son. It is indeed impossible for me to survive, after Rama's exile"
 
 <details><summary>मूलम्</summary>
 
-सतीं त्वामहमत्यन्तं व्यवस्याम्यसतीं सतीम् ।  
-रूपिणीं विषसंयुक्तां पीत्वेव मदिरां नरः ॥ ७६ ॥
+[^non-baroDa-CE] सतीं त्वामहमत्यन्तं व्यवस्याम्यसतीं सतीम् ।  
+[^non-baroDa-CE] रूपिणीं विषसंयुक्तां पीत्वेव मदिरां नरः ॥ ७६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4027,11 +4027,11 @@ I now recognize you, whom I took for a chaste wife, to be utterly unchaste (_sat
 
 <details><summary>मूलम्</summary>
 
-अनृतैर्बत मां सान्त्वैः सान्त्वयन्ती स्म भाषसे ।  
-गीतशब्देन संरुध्य लुब्धो मृगमिवावधीः ॥ ७७ ॥
+[^non-baroDa-CE] अनृतैर्बत मां सान्त्वैः सान्त्वयन्ती स्म भाषसे ।  
+[^non-baroDa-CE] गीतशब्देन संरुध्य लुब्धो मृगमिवावधीः ॥ ७७ ॥
 _________________
 अनृतैर्बहु मां सान्त्वैः सान्त्वयन्ती स्म भाषसे ।  
-गीतशब्देनसंरुध्य लुब्धो मृगमिवावधीः ॥
+[^non-baroDa-CE] गीतशब्देनसंरुध्य लुब्धो मृगमिवावधीः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4082,8 +4082,8 @@ Alas, soothing me with false blandishments you used to speak to me (_anṛtair b
 
 <details><summary>मूलम्</summary>
 
-अनार्य इति मामार्याः पुत्रविक्रायकं ध्रुवम् ।  
-विकरिष्यन्ति रथ्यासु सुरापं ब्राह्मणं यथा ॥ ७८ ॥
+[^non-baroDa-CE] अनार्य इति मामार्याः पुत्रविक्रायकं ध्रुवम् ।  
+[^non-baroDa-CE] विकरिष्यन्ति रथ्यासु सुरापं ब्राह्मणं यथा ॥ ७८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4142,8 +4142,8 @@ Comparing Kaikeyī to a hangman's noose and a black cobra fondled by a child in 
 
 <details><summary>मूलम्</summary>
 
-अहो दुःखमहो कृच्छ्रं यत्र वाचः क्षमे तव ।  
-दुःखमेवंविधं प्राप्तं पुरा कृतमिवाशुभम् ॥ ७९ ॥
+[^non-baroDa-CE] अहो दुःखमहो कृच्छ्रं यत्र वाचः क्षमे तव ।  
+[^non-baroDa-CE] दुःखमेवंविधं प्राप्तं पुरा कृतमिवाशुभम् ॥ ७९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4189,8 +4189,8 @@ Alas, what sorrow! Alas, what misery (_aho duḥkham aho kṛcchram_), that I mu
 
 <details><summary>मूलम्</summary>
 
-चिरं खलु मया पापे त्वं पापेनाभिरक्षिता ।  
-अज्ञानादुपसम्पन्ना रज्जुरुद‍्बन्धनी यथा ॥ ८० ॥
+[^non-baroDa-CE] चिरं खलु मया पापे त्वं पापेनाभिरक्षिता ।  
+[^non-baroDa-CE] अज्ञानादुपसम्पन्ना रज्जुरुद‍्बन्धनी यथा ॥ ८० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4241,8 +4241,8 @@ For a long time indeed, O sinful woman, have you been cherished by sinful me (_c
 
 <details><summary>मूलम्</summary>
 
-रममाणस्त्वया सार्धं मृत्युं त्वां नाभिलक्षये ।  
-बालो रहसि हस्तेन कृष्णसर्पमिवास्पृशम् ॥ ८१ ॥
+[^non-baroDa-CE] रममाणस्त्वया सार्धं मृत्युं त्वां नाभिलक्षये ।  
+[^non-baroDa-CE] बालो रहसि हस्तेन कृष्णसर्पमिवास्पृशम् ॥ ८१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4293,8 +4293,8 @@ Sporting together with you, I did not recognize you to be Death himself (_ramam�
 
 <details><summary>मूलम्</summary>
 
-तं तु मां जीवलोकोऽयं नूनमाक्रोष्टुमर्हति ।  
-मया ह्यपितृकः पुत्रः स महात्मा दुरात्मना ॥ ८२ ॥
+[^non-baroDa-CE] तं तु मां जीवलोकोऽयं नूनमाक्रोष्टुमर्हति ।  
+[^non-baroDa-CE] मया ह्यपितृकः पुत्रः स महात्मा दुरात्मना ॥ ८२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4345,10 +4345,10 @@ Surely this living world may justly curse me (_taṃ tu māṃ jīvaloko &#x27;y
 
 <details><summary>मूलम्</summary>
 
-बालिशो बत कामात्मा राजा दशरथो भृशम् ।  
-स्त्रीकृते यः प्रियं पुत्रं वनं प्रस्थापयिष्यति ॥ ८३ ॥
+[^non-baroDa-CE] बालिशो बत कामात्मा राजा दशरथो भृशम् ।  
+[^non-baroDa-CE] स्त्रीकृते यः प्रियं पुत्रं वनं प्रस्थापयिष्यति ॥ ८३ ॥
 _________________
-बालिशो बत कामात्मा राजा दशरथो भृशम् ।  
+[^non-baroDa-CE] बालिशो बत कामात्मा राजा दशरथो भृशम् ।  
 सीकृते यः प्रियं पुत्रं वनं प्रस्थापयिष्यति ॥
 </details>
 
@@ -4400,8 +4400,8 @@ his son to the forest."
 
 <details><summary>मूलम्</summary>
 
-वेदैश्च ब्रह्मचर्यैश्च गुरुभिश्चोपकर्शितः ।  
-भोगकाले महत्कृच्छ्रं पुनरेव प्रपत्स्यते ॥ ८४ ॥
+[^non-baroDa-CE] वेदैश्च ब्रह्मचर्यैश्च गुरुभिश्चोपकर्शितः ।  
+[^non-baroDa-CE] भोगकाले महत्कृच्छ्रं पुनरेव प्रपत्स्यते ॥ ८४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4460,8 +4460,8 @@ Knowing that Rāma will never utter a second word in refusal and wishing that hi
 
 <details><summary>मूलम्</summary>
 
-नालं द्वितीयं वचनं पुत्रो मां प्रतिभाषितुम् ।  
-स वनं प्रव्रजेत्युक्तो बाढमित्येव वक्ष्यति ॥ ८५ ॥
+[^non-baroDa-CE] नालं द्वितीयं वचनं पुत्रो मां प्रतिभाषितुम् ।  
+[^non-baroDa-CE] स वनं प्रव्रजेत्युक्तो बाढमित्येव वक्ष्यति ॥ ८५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4506,11 +4506,11 @@ My son is incapable of uttering a second word in reply to me (_nālaṃ dvitīya
 
 <details><summary>मूलम्</summary>
 
-यदि मे राघवः कुर्याद् वनं गच्छेति चोदितः ।  
-प्रतिकूलं प्रियं मे स्यान्न तु वत्सः करिष्यति ॥ ८६ ॥
+[^non-baroDa-CE] यदि मे राघवः कुर्याद् वनं गच्छेति चोदितः ।  
+[^non-baroDa-CE] प्रतिकूलं प्रियं मे स्यान्न तु वत्सः करिष्यति ॥ ८६ ॥
 _________________
 यदि मे राघवः कुर्याद् वनं गच्छेति जोदितः ।  
-प्रतिकूलं प्रियं मे स्यान्न तु वत्सः करिष्यति ॥
+[^non-baroDa-CE] प्रतिकूलं प्रियं मे स्यान्न तु वत्सः करिष्यति ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4561,8 +4561,8 @@ If Rāghava, when commanded by me, ‘Go to the forest!’ would only act contra
 
 <details><summary>मूलम्</summary>
 
-राघवे हि वनं प्राप्ते सर्वलोकस्य धिक्कृतम् ।  
-मृत्युरक्षमणीयं मां नयिष्यति यमक्षयम् ॥ ८७ ॥
+[^non-baroDa-CE] राघवे हि वनं प्राप्ते सर्वलोकस्य धिक्कृतम् ।  
+[^non-baroDa-CE] मृत्युरक्षमणीयं मां नयिष्यति यमक्षयम् ॥ ८७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4614,7 +4614,7 @@ When Rāghava has gone to the forest, Death will carry me off to Yama&#x27;s abo
 <details><summary>मूलम्</summary>
 
 मृते मयि गते रामे वनं मनुजपुङ्गवे ।  
-इष्टे मम जने शेषे किं पापं प्रतिपत्स्यसे ॥ ८८ ॥
+[^non-baroDa-CE] इष्टे मम जने शेषे किं पापं प्रतिपत्स्यसे ॥ ८८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4659,11 +4659,11 @@ When I am dead and Rāma, that bull among men, has gone to the forest (_mṛte m
 
 <details><summary>मूलम्</summary>
 
-कौसल्या मां च रामं च पुत्रौ च यदि हास्यति ।  
-दुःखान्यसहती देवी मामेवानुगमिष्यति ॥ ८९ ॥
+[^non-baroDa-CE] कौसल्या मां च रामं च पुत्रौ च यदि हास्यति ।  
+[^non-baroDa-CE] दुःखान्यसहती देवी मामेवानुगमिष्यति ॥ ८९ ॥
 _________________
 कौसल्यां मां च रामं च पुत्रौ च यदि हास्यति ।  
-दुःखान्यसहती देवी मामेवानुगमिष्यति ॥
+[^non-baroDa-CE] दुःखान्यसहती देवी मामेवानुगमिष्यति ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4714,8 +4714,8 @@ When Kausalyā loses me and Rāma and her two other sons (_kausalyā māṃ ca r
 
 <details><summary>मूलम्</summary>
 
-कौसल्यां च सुमित्रां च मां च पुत्रैस्त्रिभिः सह ।  
-प्रक्षिप्य नरके सा त्वं कैकेयि सुखिता भव ॥ ९० ॥
+[^non-baroDa-CE] कौसल्यां च सुमित्रां च मां च पुत्रैस्त्रिभिः सह ।  
+[^non-baroDa-CE] प्रक्षिप्य नरके सा त्वं कैकेयि सुखिता भव ॥ ९० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4774,8 +4774,8 @@ Forbidding Bharata to perform his funeral rites if he approves of Rāma's exile,
 
 <details><summary>मूलम्</summary>
 
-मया रामेण च त्यक्तं शाश्वतं सत्कृतं गुणैः ।  
-इक्ष्वाकुकुलमक्षोभ्यमाकुलं पालयिष्यसि ॥ ९१ ॥
+[^non-baroDa-CE] मया रामेण च त्यक्तं शाश्वतं सत्कृतं गुणैः ।  
+[^non-baroDa-CE] इक्ष्वाकुकुलमक्षोभ्यमाकुलं पालयिष्यसि ॥ ९१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4826,10 +4826,10 @@ How will you rule the eternal and hitherto unshakable house of the Ikṣvākus (
 
 <details><summary>मूलम्</summary>
 
-प्रियं चेद् भरतस्यैतद् रामप्रव्राजनं भवेत् ।  
-मा स्म मे भरतः कार्षीत् प्रेतकृत्यं गतायुषः ॥ ९२ ॥
+[^non-baroDa-CE] प्रियं चेद् भरतस्यैतद् रामप्रव्राजनं भवेत् ।  
+[^non-baroDa-CE] मा स्म मे भरतः कार्षीत् प्रेतकृत्यं गतायुषः ॥ ९२ ॥
 _________________
-प्रियं चेद् भरतस्यैतद् रामप्रव्राजनं भवेत् ।  
+[^non-baroDa-CE] प्रियं चेद् भरतस्यैतद् रामप्रव्राजनं भवेत् ।  
 मा स्म मे भरतः कार्षित्प्रेतकृत्यं गतायुषः ॥
 </details>
 
@@ -4876,10 +4876,10 @@ If this banishment of Rāma be pleasing to Bharata (_priyaṃ ced bharatasyaitad
 
 <details><summary>मूलम्</summary>
 
-मृते मयि गते रामे वनं पुरुषपुङ्गवे ।  
-सेदानीं विधवा राज्यं सपुत्रा कारयिष्यसि ॥ ९३ ॥
+[^non-baroDa-CE] मृते मयि गते रामे वनं पुरुषपुङ्गवे ।  
+[^non-baroDa-CE] सेदानीं विधवा राज्यं सपुत्रा कारयिष्यसि ॥ ९३ ॥
 _________________
-मृते मयि गते रामे वनं पुरुषपुङ्गवे ।  
+[^non-baroDa-CE] मृते मयि गते रामे वनं पुरुषपुङ्गवे ।  
 सॆदानीं विधवा राज्यं सपुत्रा कारयिष्यसि ॥
 </details>
 
@@ -4929,9 +4929,9 @@ When I am dead and Rāma, that bull among men, has gone to the forest (_mṛte m
 
 <details><summary>मूलम्</summary>
 
-त्वं राजपुत्रि दैवेन न्यवसो मम वेश्मनि ।  
+[^non-baroDa-CE] त्वं राजपुत्रि दैवेन न्यवसो मम वेश्मनि ।  
 अकीर्तिश्चातुला लोके ध्रुवः परिभवश्च मे ।  
-सर्वभूतेषु चावज्ञा यथा पापकृतस्तथा ॥ ९४ ॥
+[^non-baroDa-CE] सर्वभूतेषु चावज्ञा यथा पापकृतस्तथा ॥ ९४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4961,8 +4961,8 @@ By ill fate (_daivena_), O princess, did you dwell in my house (_nyavaso mama ve
 
 <details><summary>मूलम्</summary>
 
-कथं रथैर्विभुर्यात्वा गजाश्वैश्च मुहुर्मुहुः ।  
-पद‍्भ्यां रामो महारण्ये वत्सो मे विचरिष्यति ॥ ९५ ॥
+[^non-baroDa-CE] कथं रथैर्विभुर्यात्वा गजाश्वैश्च मुहुर्मुहुः ।  
+[^non-baroDa-CE] पद‍्भ्यां रामो महारण्ये वत्सो मे विचरिष्यति ॥ ९५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5020,10 +5020,10 @@ Grieving that Rāma must eat bitter forest roots and wear ochre bark-cloth, Daś
 
 <details><summary>मूलम्</summary>
 
-यस्य चाहारसमये सूदाः कुण्डलधारिणः ।  
+[^non-baroDa-CE] यस्य चाहारसमये सूदाः कुण्डलधारिणः ।  
 अहम्पूर्वाः पचन्ति स्म प्रसन्नाः पानभोजनम् ॥ ९६ ॥  
-स कथं नु कषायाणि तिक्तानि कटुकानि च ।  
-भक्षयन् वन्यमाहारं सुतो मे वर्तयिष्यति ॥ ९७ ॥
+[^non-baroDa-CE] स कथं नु कषायाणि तिक्तानि कटुकानि च ।  
+[^non-baroDa-CE] भक्षयन् वन्यमाहारं सुतो मे वर्तयिष्यति ॥ ९७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5096,8 +5096,8 @@ elephants and horses, will move on foot in a great forest?"
 
 <details><summary>मूलम्</summary>
 
-महार्हवस्त्रसम्बद्धो भूत्वा चिरसुखोचितः ।  
-काषायपरिधानस्तु कथं रामो भविष्यति ॥ ९८ ॥
+[^non-baroDa-CE] महार्हवस्त्रसम्बद्धो भूत्वा चिरसुखोचितः ।  
+[^non-baroDa-CE] काषायपरिधानस्तु कथं रामो भविष्यति ॥ ९८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5127,11 +5127,11 @@ Having been clad in costly garments (_mahārhavastrasambaddho bhūtvā_) and acc
 
 <details><summary>मूलम्</summary>
 
-कस्येदं दारुणं वाक्यमेवंविधमपीरितम् ।  
-रामस्यारण्यगमनं भरतस्याभिषेचनम् ॥ ९९ ॥
+[^non-baroDa-CE] कस्येदं दारुणं वाक्यमेवंविधमपीरितम् ।  
+[^non-baroDa-CE] रामस्यारण्यगमनं भरतस्याभिषेचनम् ॥ ९९ ॥
 _________________
 कस्यैन्दं दारुणं वाक्यमेवंविधमपीरितम् ।  
-रामस्यारण्यगमनं भरतस्याभिषेचनम् ॥
+[^non-baroDa-CE] रामस्यारण्यगमनं भरतस्याभिषेचनम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5174,8 +5174,8 @@ Whose dreadful speech is this of such a kind that has been uttered (_kasyedaṃ 
 
 <details><summary>मूलम्</summary>
 
-धिगस्तु योषितो नाम शठाः स्वार्थपरायणाः ।  
-न ब्रवीमि स्त्रियः सर्वा भरतस्यैव मातरम् ॥ १०० ॥
+[^non-baroDa-CE] धिगस्तु योषितो नाम शठाः स्वार्थपरायणाः ।  
+[^non-baroDa-CE] न ब्रवीमि स्त्रियः सर्वा भरतस्यैव मातरम् ॥ १०० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5227,10 +5227,10 @@ Fie upon women—deceitful and intent upon their own selfish ends (_dhig astu yo
 
 <details><summary>मूलम्</summary>
 
-अनर्थभावेऽर्थपरे नृशंसे  
-ममानुतापाय निवेशितासि ।  
-किमप्रियं पश्यसि मन्निमित्तं  
-हितानुकारिण्यथवापि रामे ॥ १०१ ॥
+[^non-baroDa-CE] अनर्थभावेऽर्थपरे नृशंसे  
+[^non-baroDa-CE] ममानुतापाय निवेशितासि ।  
+[^non-baroDa-CE] किमप्रियं पश्यसि मन्निमित्तं  
+[^non-baroDa-CE] हितानुकारिण्यथवापि रामे ॥ १०१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5283,14 +5283,14 @@ O cruel woman intent on ruin and selfish gain (_anarthabhāve &#x27;rthapare n�
 
 <details><summary>मूलम्</summary>
 
-परित्यजेयुः पितरोऽपि पुत्रान्  
-भार्याः पतींश्चापि कृतानुरागाः ।  
-कृत्स्नं हि सर्वं कुपितं जगत् स्याद्  
-दृष्ट्वैव रामं व्यसने निमग्नम् ॥ १०२ ॥
+[^non-baroDa-CE] परित्यजेयुः पितरोऽपि पुत्रान्  
+[^non-baroDa-CE] भार्याः पतींश्चापि कृतानुरागाः ।  
+[^non-baroDa-CE] कृत्स्नं हि सर्वं कुपितं जगत् स्याद्  
+[^non-baroDa-CE] दृष्ट्वैव रामं व्यसने निमग्नम् ॥ १०२ ॥
 _________________
-परित्यजेयुः पितरोऽपि पुत्रान्  
-भार्याः पतींश्चापि कृतानुरागाः ।  
-कृत्स्नं हि सर्वं कुपितं जगत् स्याद्  
+[^non-baroDa-CE] परित्यजेयुः पितरोऽपि पुत्रान्  
+[^non-baroDa-CE] भार्याः पतींश्चापि कृतानुरागाः ।  
+[^non-baroDa-CE] कृत्स्नं हि सर्वं कुपितं जगत् स्याद्  
 दृष्टैव रामं व्यसने निमग्नम् ॥
 </details>
 
@@ -5352,14 +5352,14 @@ Declaring that the mere sight of Rāma makes him feel young again and that he ha
 
 <details><summary>मूलम्</summary>
 
-अहं पुनर्देवकुमाररूप-  
+[^non-baroDa-CE] अहं पुनर्देवकुमाररूप-  
 मलङ्कृतं तं सुतमाव्रजन्तम् ।  
-नन्दामि पश्यन्निव दर्शनेन  
-भवामि दृष्ट्वैव पुनर्युवेव ॥ १०३ ॥
+[^non-baroDa-CE] नन्दामि पश्यन्निव दर्शनेन  
+[^non-baroDa-CE] भवामि दृष्ट्वैव पुनर्युवेव ॥ १०३ ॥
 _________________
-अहं पुनर्देवकुमाररूप-  
+[^non-baroDa-CE] अहं पुनर्देवकुमाररूप-  
 मलङ्कृतं तं सुतमाव्रजन्तम् ।  
-नन्दामि पश्यन्निव दर्शनेन  
+[^non-baroDa-CE] नन्दामि पश्यन्निव दर्शनेन  
 भवामि दृष्टैव पुनर्युवेव ॥
 </details>
 
@@ -5417,10 +5417,10 @@ As for me, when I behold that adorned son approaching in the beauty of a celesti
 
 <details><summary>मूलम्</summary>
 
-विना हि सूर्येण भवेत् प्रवृत्ति-  
-रवर्षता वज्रधरेण वापि ।  
-रामं तु गच्छन्तमितः समीक्ष्य  
-जीवेन्न कश्चित्त्विति चेतना मे ॥ १०४ ॥
+[^non-baroDa-CE] विना हि सूर्येण भवेत् प्रवृत्ति-  
+[^non-baroDa-CE] रवर्षता वज्रधरेण वापि ।  
+[^non-baroDa-CE] रामं तु गच्छन्तमितः समीक्ष्य  
+[^non-baroDa-CE] जीवेन्न कश्चित्त्विति चेतना मे ॥ १०४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5476,10 +5476,10 @@ Activity in the world might continue even without the sun (_vinā hi sūryeṇa 
 
 <details><summary>मूलम्</summary>
 
-विनाशकामामहिताममित्रा-  
-मावासयं मृत्युमिवात्मनस्त्वाम् ।  
-चिरं बताङ्केन धृतासि सर्पी  
-महाविषा तेन हतोऽस्मि मोहात् ॥ १०५ ॥
+[^non-baroDa-CE] विनाशकामामहिताममित्रा-  
+[^non-baroDa-CE] मावासयं मृत्युमिवात्मनस्त्वाम् ।  
+[^non-baroDa-CE] चिरं बताङ्केन धृतासि सर्पी  
+[^non-baroDa-CE] महाविषा तेन हतोऽस्मि मोहात् ॥ १०५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5535,10 +5535,10 @@ In you, who desire my ruin, are hostile, and are my foe (_vināśakāmām ahitā
 
 <details><summary>मूलम्</summary>
 
-मया च रामेण सलक्ष्मणेन  
-प्रशास्तु हीनो भरतस्त्वया सह ।  
-पुरं च राष्ट्रं च निहत्य बान्धवान्  
-ममाहितानां च भवाभिहर्षिणी ॥ १०६ ॥
+[^non-baroDa-CE] मया च रामेण सलक्ष्मणेन  
+[^non-baroDa-CE] प्रशास्तु हीनो भरतस्त्वया सह ।  
+[^non-baroDa-CE] पुरं च राष्ट्रं च निहत्य बान्धवान्  
+[^non-baroDa-CE] ममाहितानां च भवाभिहर्षिणी ॥ १०६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5595,10 +5595,10 @@ Bereft of me and of Rāma together with Lakṣmaṇa (_mayā ca rāmeṇa salak�
 
 <details><summary>मूलम्</summary>
 
-नृशंसवृत्ते व्यसनप्रहारिणि  
-प्रसह्य वाक्यं यदिहाद्य भाषसे ।  
-न नाम ते तेन मुखात् पतन्त्यधो  
-विशीर्यमाणा दशनाः सहस्रधा ॥ १०७ ॥
+[^non-baroDa-CE] नृशंसवृत्ते व्यसनप्रहारिणि  
+[^non-baroDa-CE] प्रसह्य वाक्यं यदिहाद्य भाषसे ।  
+[^non-baroDa-CE] न नाम ते तेन मुखात् पतन्त्यधो  
+[^non-baroDa-CE] विशीर्यमाणा दशनाः सहस्रधा ॥ १०७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5664,14 +5664,14 @@ Crying out in Vaṃśastha meter that Kaikeyī may pine away, burn, or sink into
 <details><summary>मूलम्</summary>
 
 न किञ्चिदाहाहितमप्रियं वचो  
-न वेत्ति रामः परुषाणि भाषितुम् ।  
-कथं तु रामे ह्यभिरामवादिनि  
-ब्रवीषि दोषान् गुणनित्यसम्मते ॥ १०८ ॥
+[^non-baroDa-CE] न वेत्ति रामः परुषाणि भाषितुम् ।  
+[^non-baroDa-CE] कथं तु रामे ह्यभिरामवादिनि  
+[^non-baroDa-CE] ब्रवीषि दोषान् गुणनित्यसम्मते ॥ १०८ ॥
 _________________
 न किञ्चिदाहाहितमप्रियं वचो  
-न वेत्ति रामः परुषाणि भाषितुम् ।  
+[^non-baroDa-CE] न वेत्ति रामः परुषाणि भाषितुम् ।  
 कथं नु रामे ह्यभिरामवादिनि  
-ब्रवीषि दोषान् गुणनित्यसम्मते ॥
+[^non-baroDa-CE] ब्रवीषि दोषान् गुणनित्यसम्मते ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5719,14 +5719,14 @@ Rāma never utters a single unkind or unpleasant word, nor does he know how to s
 
 <details><summary>मूलम्</summary>
 
-प्रताम्य वा प्रज्वल वा प्रणश्य वा  
-सहस्रशो वा स्फुटितां महीं व्रज ।  
-न ते करिष्यामि वचः सुदारुणं  
-ममाहितं केकयराजपांसने ॥ १०९ ॥
+[^non-baroDa-CE] प्रताम्य वा प्रज्वल वा प्रणश्य वा  
+[^non-baroDa-CE] सहस्रशो वा स्फुटितां महीं व्रज ।  
+[^non-baroDa-CE] न ते करिष्यामि वचः सुदारुणं  
+[^non-baroDa-CE] ममाहितं केकयराजपांसने ॥ १०९ ॥
 _________________
-प्रताम्य वा प्रज्वल वा प्रणश्य वा  
-सहस्रशो वा स्फुटितां महीं व्रज ।  
-न ते करिष्यामि वचः सुदारुणं  
+[^non-baroDa-CE] प्रताम्य वा प्रज्वल वा प्रणश्य वा  
+[^non-baroDa-CE] सहस्रशो वा स्फुटितां महीं व्रज ।  
+[^non-baroDa-CE] न ते करिष्यामि वचः सुदारुणं  
 ममाहितं केकयराजपांसनॆ ॥
 </details>
 
@@ -5783,10 +5783,10 @@ Pine away, or blaze up in fire, or perish, or sink into the earth cloven a thous
 
 <details><summary>मूलम्</summary>
 
-क्षुरोपमां नित्यमसत्प्रियंवदां  
-प्रदुष्टभावां स्वकुलोपघातिनीम् ।  
-न जीवितुं त्वां विषहेऽमनोरमां  
-दिधक्षमाणां हृदयं सबन्धनम् ॥ ११० ॥
+[^non-baroDa-CE] क्षुरोपमां नित्यमसत्प्रियंवदां  
+[^non-baroDa-CE] प्रदुष्टभावां स्वकुलोपघातिनीम् ।  
+[^non-baroDa-CE] न जीवितुं त्वां विषहेऽमनोरमां  
+[^non-baroDa-CE] दिधक्षमाणां हृदयं सबन्धनम् ॥ ११० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5844,10 +5844,10 @@ Sharp as a razor, ever uttering false endearments, corrupt of heart, and destroy
 
 <details><summary>मूलम्</summary>
 
-न जीवितं मेऽस्ति कुतः पुनः सुखं  
-विनात्मजेनात्मवतां कुतो रतिः ।  
-ममाहितं देवि न कर्तुमर्हसि  
-स्पृशामि पादावपि ते प्रसीद मे ॥ १११ ॥
+[^non-baroDa-CE] न जीवितं मेऽस्ति कुतः पुनः सुखं  
+[^non-baroDa-CE] विनात्मजेनात्मवतां कुतो रतिः ।  
+[^non-baroDa-CE] ममाहितं देवि न कर्तुमर्हसि  
+[^non-baroDa-CE] स्पृशामि पादावपि ते प्रसीद मे ॥ १११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5956,3 +5956,4 @@ Lamenting thus like one helpless (_sa bhūmipālo vilapann anāthavat_), his hea
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

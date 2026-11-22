@@ -330,11 +330,11 @@ Thus the well-ordered horse sacrifice went forward (_evaṃ suvihito yajño haya
 
 <details><summary>मूलम्</summary>
 
-ईदृशं राजसिंहस्य यज्ञप्रवरमुत्तमम् ।  
+[^non-baroDa-CE] ईदृशं राजसिंहस्य यज्ञप्रवरमुत्तमम् ।  
 नान्यः शब्दोऽभवत् तत्र हयमेधे महात्मनः ॥ १० ॥  
 छन्दतो देहि देहीति यावत् तुष्यन्ति याचकाः ।  
 तावत् सर्वाणि दत्तानि क्रतुमुख्ये महात्मनः ॥ ११ ॥  
-विविधानि च गौडानि खाण्डवानि तथैव च ।
+[^non-baroDa-CE] विविधानि च गौडानि खाण्डवानि तथैव च ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -462,8 +462,8 @@ Even the great-souled, long-lived sages present there (_ye ca tatra mahātmāno 
 
 <details><summary>मूलम्</summary>
 
-यः कृत्यवान् सुवर्णेन सुवर्णं लभते स्म सः ॥ १५ ॥  
-वित्तार्थी लभते वित्तं रत्नार्थी रत्नमेव च ।
+[^non-baroDa-CE] यः कृत्यवान् सुवर्णेन सुवर्णं लभते स्म सः ॥ १५ ॥  
+[^non-baroDa-CE] वित्तार्थी लभते वित्तं रत्नार्थी रत्नमेव च ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -627,3 +627,4 @@ Thus this sacrifice of the lion among kings, endowed with every excellence (_īd
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

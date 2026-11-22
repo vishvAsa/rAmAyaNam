@@ -589,14 +589,14 @@ As Rāma and Lakṣmaṇa draw near, dying Vālī addresses Rāma with words at 
 <details><summary>मूलम्</summary>
 
 लक्ष्मणानुचरो रामो ददर्शोपससर्प च ।  
-तं तथा पतितं वीरं गतार्चिषमिवानलम् ॥ १२ ॥  
-बहुमान्य च तं वीरं वीक्षमाणं शनैरिव ।  
-उपयातौ महावीर्यौ भ्रातरौ रामलक्ष्मणौ ॥ १३ ॥
+[^non-baroDa-CE] तं तथा पतितं वीरं गतार्चिषमिवानलम् ॥ १२ ॥  
+[^non-baroDa-CE] बहुमान्य च तं वीरं वीक्षमाणं शनैरिव ।  
+[^non-baroDa-CE] उपयातौ महावीर्यौ भ्रातरौ रामलक्ष्मणौ ॥ १३ ॥
 _________________
 लक्ष्मणानुचरो रामो ददर्शोपससर्प च ।  
-तं तथा पतितं वीरं गतार्चिषमिवानलम् ॥
+[^non-baroDa-CE] तं तथा पतितं वीरं गतार्चिषमिवानलम् ॥
 बहुमान्य च तं वीरं वीक्षमाणं सनैरिव ।  
-उपयातौ महावीर्यौ भ्रातरौ रामलक्ष्मणौ ॥
+[^non-baroDa-CE] उपयातौ महावीर्यौ भ्रातरौ रामलक्ष्मणौ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -683,8 +683,8 @@ Seeing that Rāghava and Lakṣmaṇa of great strength, Vālī spoke a harsh sp
 
 <details><summary>मूलम्</summary>
 
-स भूमावल्पतेजोऽसुर्निहतो नष्टचेतनः ।  
-अर्थसंहितया वाचा गर्वितं रणगर्वितम् ॥ १५ ॥
+[^non-baroDa-CE] स भूमावल्पतेजोऽसुर्निहतो नष्टचेतनः ।  
+[^non-baroDa-CE] अर्थसंहितया वाचा गर्वितं रणगर्वितम् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1291,7 +1291,7 @@ This is the subtext of Vali's retrospection.
 
 <details><summary>मूलम्</summary>
 
-त्वं नराधिपतेः पुत्रः प्रतीतः प्रियदर्शनः ।  
+[^non-baroDa-CE] त्वं नराधिपतेः पुत्रः प्रतीतः प्रियदर्शनः ।  
 लिङ्गमप्यस्ति ते राजन् दृश्यते धर्मसंहितम् ॥ २६ ॥
 </details>
 
@@ -1465,10 +1465,10 @@ day without any bloodshed…' The purpose for Vali's elimination is nothing but 
 
 <details><summary>मूलम्</summary>
 
-साम दानं क्षमा धर्मः सत्यं धृतिपराक्रमौ ।  
-पार्थिवानां गुणा राजन् दण्डश्चाप्यपकारिषु ॥ २९ ॥
+[^non-baroDa-CE] साम दानं क्षमा धर्मः सत्यं धृतिपराक्रमौ ।  
+[^non-baroDa-CE] पार्थिवानां गुणा राजन् दण्डश्चाप्यपकारिषु ॥ २९ ॥
 _________________
-साम दानं क्षमा धर्मः सत्यं धृतिपराक्रमौ ।  
+[^non-baroDa-CE] साम दानं क्षमा धर्मः सत्यं धृतिपराक्रमौ ।  
 पार्थिवानां गुणा राजन् दण्डश्चाप्यपराधिषु ॥
 </details>
 
@@ -1976,8 +1976,8 @@ Citing the dharmaśāstra rule that only five five-toed creatures are edible whi
 
 <details><summary>मूलम्</summary>
 
-सूचकश्च कदर्यश्च मित्रघ्नो गुरुतल्पगः ।  
-लोकं पापात्मनामेते गच्छन्ते नात्र संशयः ॥ ३७ ॥
+[^non-baroDa-CE] सूचकश्च कदर्यश्च मित्रघ्नो गुरुतल्पगः ।  
+[^non-baroDa-CE] लोकं पापात्मनामेते गच्छन्ते नात्र संशयः ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2222,8 +2222,8 @@ ultimate purpose isn't it....'
 
 <details><summary>मूलम्</summary>
 
-तारया वाक्यमुक्तोऽहं सत्यं सर्वज्ञया हितम् ।  
-तदतिक्रम्य मोहेन कालस्य वशमागतः ॥ ४१ ॥
+[^non-baroDa-CE] तारया वाक्यमुक्तोऽहं सत्यं सर्वज्ञया हितम् ।  
+[^non-baroDa-CE] तदतिक्रम्य मोहेन कालस्य वशमागतः ॥ ४१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2282,7 +2282,7 @@ Time, is another name for Supreme Being; *kaalo asmi loka kshaya kR^it pravaddha
 <details><summary>मूलम्</summary>
 
 त्वया नाथेन काकुत्स्थ न सनाथा वसुन्धरा ।  
-प्रमदा शीलसम्पूर्णा पत्येव च विधर्मणा ॥ ४२ ॥
+[^non-baroDa-CE] प्रमदा शीलसम्पूर्णा पत्येव च विधर्मणा ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2461,8 +2461,8 @@ from this mortality by no less than the Supreme Being is my fortune.'
 
 <details><summary>मूलम्</summary>
 
-अशुभं चाप्ययुक्तं च सतां चैव विगर्हितम् ।  
-वक्ष्यसे चेदृशं कृत्वा सद्भिः सह समागतः ॥ ४५ ॥
+[^non-baroDa-CE] अशुभं चाप्ययुक्तं च सतां चैव विगर्हितम् ।  
+[^non-baroDa-CE] वक्ष्यसे चेदृशं कृत्वा सद्भिः सह समागतः ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2522,10 +2522,10 @@ he attained Me, the Supreme Being...' And this agrees with *mR^ityuH sarva haraH
 
 <details><summary>मूलम्</summary>
 
-उदासीनेषु योऽस्मासु विक्रमोऽयं प्रकाशितः ।  
-अपकारिषु ते राम नैवं पश्यामि विक्रमम् ॥ ४६ ॥
+[^non-baroDa-CE] उदासीनेषु योऽस्मासु विक्रमोऽयं प्रकाशितः ।  
+[^non-baroDa-CE] अपकारिषु ते राम नैवं पश्यामि विक्रमम् ॥ ४६ ॥
 _________________
-उदासीनेषु योऽस्मासु विक्रमोऽयं प्रकाशितः ।  
+[^non-baroDa-CE] उदासीनेषु योऽस्मासु विक्रमोऽयं प्रकाशितः ।  
 अपकारिषु तं राम नैवं पश्यामि विक्रमम् ॥
 </details>
 
@@ -2758,8 +2758,8 @@ Declaring that he could have brought back Maithilī in a single day and bound R�
 <details><summary>मूलम्</summary>
 
 सुग्रीवप्रियकामेन यदहं निहतस्त्वया ।  
-मामेव यदि पूर्वं त्वमेतदर्थमचोदयः ।  
-मैथिलीमहमेकाह्ना तव चानीतवान् भवेः ॥ ४९ ॥
+[^non-baroDa-CE] मामेव यदि पूर्वं त्वमेतदर्थमचोदयः ।  
+[^non-baroDa-CE] मैथिलीमहमेकाह्ना तव चानीतवान् भवेः ॥ ४९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2789,7 +2789,7 @@ Declaring that he could have brought back Maithilī in a single day and bound R�
 
 <details><summary>मूलम्</summary>
 
-राक्षसं च दुरात्मानं तव भार्यापहारिणम् ।  
+[^non-baroDa-CE] राक्षसं च दुरात्मानं तव भार्यापहारिणम् ।  
 कण्ठे बद्‍ध्वा प्रदद्यां तेऽनिहतं रावणं रणे ॥ ५० ॥
 </details>
 
@@ -3099,3 +3099,4 @@ Having spoken thus, his mouth parched dry (_pariśuṣkavaktraḥ_) and racked w
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

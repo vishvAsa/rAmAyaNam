@@ -169,11 +169,11 @@ has been wounded in the heart with goads.
 
 <details><summary>मूलम्</summary>
 
-भरतं मूर्च्छितं दृष्ट्वा विवर्णवदनो गुहः ।  
-बभूव व्यथितस्तत्र भूमिकम्पे यथा द्रुमः ॥ ४ ॥
+[^non-baroDa-CE] भरतं मूर्च्छितं दृष्ट्वा विवर्णवदनो गुहः ।  
+[^non-baroDa-CE] बभूव व्यथितस्तत्र भूमिकम्पे यथा द्रुमः ॥ ४ ॥
 _________________
 भरतं मूर्छितं दृष्ट्वा विवर्णवदनोगुहः ।  
-बभूव व्यथितस्तत्र भूमिकम्पेयथा द्रुमः ॥
+[^non-baroDa-CE] बभूव व्यथितस्तत्र भूमिकम्पेयथा द्रुमः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1341,3 +1341,4 @@ Then I too, bearing an excellent bow and arrows, took my stand right where Lak�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

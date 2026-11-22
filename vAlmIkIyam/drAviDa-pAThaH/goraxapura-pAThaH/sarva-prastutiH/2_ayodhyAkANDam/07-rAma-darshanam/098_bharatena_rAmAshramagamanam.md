@@ -174,10 +174,10 @@ all sides of this forest."
 <details><summary>मूलम्</summary>
 
 गुहो ज्ञातिसहस्रेण शरचापासिपाणिना ।  
-समन्वेषतु काकुत्स्थावस्मिन् परिवृतः स्वयम् ॥ ४ ॥
+[^non-baroDa-CE] समन्वेषतु काकुत्स्थावस्मिन् परिवृतः स्वयम् ॥ ४ ॥
 _________________
-गुहो ज्ञातिसहस्रेण शरचापासिधारिणा ।  
-समन्वेषतु काकुत्स्थावस्मिन् परिवृतः स्वयम् ॥
+[^non-baroDa-CE] गुहो ज्ञातिसहस्रेण शरचापासिधारिणा ।  
+[^non-baroDa-CE] समन्वेषतु काकुत्स्थावस्मिन् परिवृतः स्वयम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -228,7 +228,7 @@ Let Guha himself, surrounded by a thousand of his kinsmen bearing arrows, bows, 
 
 <details><summary>मूलम्</summary>
 
-अमात्यैः सह पौरैश्च गुरुभिश्च द्विजातिभिः ।  
+[^non-baroDa-CE] अमात्यैः सह पौरैश्च गुरुभिश्च द्विजातिभिः ।  
 सह सर्वं चरिष्यामि पद‍्भ्यां परिवृतः स्वयम् ॥ ५ ॥
 </details>
 
@@ -387,8 +387,8 @@ So long as I do not behold my brother’s auspicious, moon-like countenance with
 
 <details><summary>मूलम्</summary>
 
-सिद्धार्थः खलु सौमित्रिर्यश्चन्द्रविमलोपमम् ।  
-मुखं पश्यति रामस्य राजीवाक्षं महाद्युतिम् ॥ ८ ॥
+[^non-baroDa-CE] सिद्धार्थः खलु सौमित्रिर्यश्चन्द्रविमलोपमम् ।  
+[^non-baroDa-CE] मुखं पश्यति रामस्य राजीवाक्षं महाद्युतिम् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -877,3 +877,4 @@ Observing on Mount Citrakūṭa the hermitage of Rāma, frequented by holy ascet
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

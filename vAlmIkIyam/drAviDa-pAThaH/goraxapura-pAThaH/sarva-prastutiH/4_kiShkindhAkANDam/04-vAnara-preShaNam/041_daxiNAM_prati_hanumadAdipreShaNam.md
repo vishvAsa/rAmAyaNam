@@ -1278,10 +1278,10 @@ Kanda.
 
 <details><summary>मूलम्</summary>
 
-एवं निःसंशयान् कृत्वा संशयान्नष्टसंशयाः ।  
-मृगयध्वं नरेन्द्रस्य पत्नीममिततेजसः ॥ २७ ॥
+[^non-baroDa-CE] एवं निःसंशयान् कृत्वा संशयान्नष्टसंशयाः ।  
+[^non-baroDa-CE] मृगयध्वं नरेन्द्रस्य पत्नीममिततेजसः ॥ २७ ॥
 _________________
-एवं निःसंशयान् कृत्वा संशयान्नष्ट संशयाः ।  
+[^non-baroDa-CE] एवं निःसंशयान् कृत्वा संशयान्नष्ट संशयाः ।  
 मृगयध्वं नरेन्द्रस्य पत्नीमविततेजसः ॥
 </details>
 
@@ -1915,7 +1915,7 @@ city to its fringes. [4-41-38b, 39a]
 
 <details><summary>मूलम्</summary>
 
-तत्र चानन्तरोद्देशा ये केचन समावृताः ।  
+[^non-baroDa-CE] तत्र चानन्तरोद्देशा ये केचन समावृताः ।  
 तं च देशमतिक्रम्य महानृषभसंस्थितिः ॥ ३९ ॥
 </details>
 
@@ -2264,11 +2264,11 @@ Fierce Rohita Gandharvas under five sun-bright chiefs guard that sandalwood fore
 <details><summary>मूलम्</summary>
 
 शैलूषो ग्रामणीः शिक्षः शुको बभ्रुस्तथैव च ।  
-रविसोमाग्निवपुषां निवासः पुण्यकर्मणाम् ॥ ४३ ॥  
+[^non-baroDa-CE] रविसोमाग्निवपुषां निवासः पुण्यकर्मणाम् ॥ ४३ ॥  
 अन्ते पृथिव्या दुर्धर्षास्ततः स्वर्गजितः स्थिताः ।
 _________________
 शैलूषो ग्रामणीः शिक्षु शुको बभ्रुस्तथैव च ।  
-रविसोमाग्निवपुषां निवासः पुण्यकर्मणाम् ॥  
+[^non-baroDa-CE] रविसोमाग्निवपुषां निवासः पुण्यकर्मणाम् ॥  
 अन्ते पृथिव्या दुर्धर्षास्तत्र स्वर्गजितः स्थिताः ।
 </details>
 
@@ -2680,3 +2680,5 @@ eradicating evil on earth...' you start on your mission.
 “You are of boundless strength and valor, and born in lineages of vast virtues; therefore undertake a manly exertion of surpassing excellence (_tadadhiguṇaṃ puruṣārtham_), whereby you may recover the daughter of the lord of men.”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

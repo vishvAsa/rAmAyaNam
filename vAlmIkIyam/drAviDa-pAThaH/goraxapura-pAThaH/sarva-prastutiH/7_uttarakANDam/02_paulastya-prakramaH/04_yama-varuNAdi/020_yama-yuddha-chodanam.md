@@ -62,8 +62,8 @@ Then, terrorizing mortals upon the earth (_vitrāsayan martyān pṛthivyām_), 
 
 <details><summary>मूलम्</summary>
 
-तस्याभिवादनं कृत्वा दशग्रीवो निशाचरः ।  
-अब्रवीत् कुशलं पृष्ट्वा हेतुमागमनस्य च ॥ २ ॥
+[^non-baroDa-CE] तस्याभिवादनं कृत्वा दशग्रीवो निशाचरः ।  
+[^non-baroDa-CE] अब्रवीत् कुशलं पृष्ट्वा हेतुमागमनस्य च ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -187,7 +187,7 @@ Then Nārada of mighty radiance (_nāradas tu mahātejāḥ_), the celestial see
 <details><summary>मूलम्</summary>
 
 किञ्चिद् वक्ष्यामि तावत् तु श्रोतव्यं श्रोष्यसे यदि ।  
-तन्मे निगदतस्तात समाधिं श्रवणे कुरु ॥ ६ ॥
+[^non-baroDa-CE] तन्मे निगदतस्तात समाधिं श्रवणे कुरु ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -256,7 +256,7 @@ Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by
 
 <details><summary>मूलम्</summary>
 
-देवदानवदैत्यानां यक्षगन्धर्वरक्षसाम् ।  
+[^non-baroDa-CE] देवदानवदैत्यानां यक्षगन्धर्वरक्षसाम् ।  
 अवध्येन त्वया लोकः क्लेष्टुं योग्यो न मानुषः ॥ ८ ॥
 </details>
 
@@ -287,8 +287,8 @@ Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by
 
 <details><summary>मूलम्</summary>
 
-नित्यं श्रेयसि सम्मूढं महद्भिर्व्यसनैर्वृतम् ।  
-हन्यात् कस्तादृशं लोकं जराव्याधिशतैर्युतम् ॥ ९ ॥
+[^non-baroDa-CE] नित्यं श्रेयसि सम्मूढं महद्भिर्व्यसनैर्वृतम् ।  
+[^non-baroDa-CE] हन्यात् कस्तादृशं लोकं जराव्याधिशतैर्युतम् ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -318,8 +318,8 @@ Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by
 
 <details><summary>मूलम्</summary>
 
-तैस्तैरनिष्टोपगमैरजस्रं यत्र कुत्र कः ।  
-मतिमान् मानुषे लोके युद्धेन प्रणयी भवेत् ॥ १० ॥
+[^non-baroDa-CE] तैस्तैरनिष्टोपगमैरजस्रं यत्र कुत्र कः ।  
+[^non-baroDa-CE] मतिमान् मानुषे लोके युद्धेन प्रणयी भवेत् ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -350,7 +350,7 @@ Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by
 <details><summary>मूलम्</summary>
 
 क्षीयमाणं दैवहतं क्षुत्पिपासाजरादिभिः ।  
-विषादशोकसम्मूढं लोकं त्वं क्षपयस्व मा ॥ ११ ॥
+[^non-baroDa-CE] विषादशोकसम्मूढं लोकं त्वं क्षपयस्व मा ॥ ११ ॥
 _________________
 क्षीयमाणं दैवहतं क्षुत्पिपासाजरादिभिः ।  
 एषादशोकसम्मूढं लोकं त्वं क्षपयस्व मा ॥
@@ -516,9 +516,9 @@ Contrasting mortal revelry with tear-drenched grief and familial delusion, Nāra
 
 <details><summary>मूलम्</summary>
 
-अवश्यमेभिः सर्वैश्च गन्तव्यं यमसादनम् ।  
-तन्निगृह्णीष्व पौलस्त्य यमं परपुरञ्जय ॥ १६ ॥  
-तस्मिञ्जिते जितं सर्वं भवत्येव न संशयः ।
+[^non-baroDa-CE] अवश्यमेभिः सर्वैश्च गन्तव्यं यमसादनम् ।  
+[^non-baroDa-CE] तन्निगृह्णीष्व पौलस्त्य यमं परपुरञ्जय ॥ १६ ॥  
+[^non-baroDa-CE] तस्मिञ्जिते जितं सर्वं भवत्येव न संशयः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1040,7 +1040,7 @@ Marvelling at Yama—witness of every deed like a second Fire, ordainer of good 
 
 <details><summary>मूलम्</summary>
 
-स्वदत्तकृतसाक्षी यो द्वितीय इव पावकः ॥ २९ ॥  
+[^non-baroDa-CE] स्वदत्तकृतसाक्षी यो द्वितीय इव पावकः ॥ २९ ॥  
 लब्धसञ्ज्ञा विचेष्टन्ते लोका यस्य महात्मनः ।  
 यस्य नित्यं त्रयो लोका विद्रवन्ति भयार्दिताः ॥ ३० ॥  
 तं कथं राक्षसेन्द्रोऽसौ स्वयमेव गमिष्यति ।
@@ -1111,7 +1111,7 @@ Marvelling at Yama—witness of every deed like a second Fire, ordainer of good 
 <details><summary>मूलम्</summary>
 
 कौतूहलं समुत्पन्नो यास्यामि यमसादनम् ।  
-विमर्दं द्रष्टुमनयोर्यमराक्षसयोः स्वयम् ॥ ३३ ॥
+[^non-baroDa-CE] विमर्दं द्रष्टुमनयोर्यमराक्षसयोः स्वयम् ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1136,3 +1136,4 @@ Marvelling at Yama—witness of every deed like a second Fire, ordainer of good 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

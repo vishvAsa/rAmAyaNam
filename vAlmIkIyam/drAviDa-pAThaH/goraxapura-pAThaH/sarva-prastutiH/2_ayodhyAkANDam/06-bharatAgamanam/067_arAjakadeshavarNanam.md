@@ -44,7 +44,7 @@ As the long night of lamentation passes after King Daśaratha’s demise, the ro
 <details><summary>मूलम्</summary>
 
 आक्रन्दिता निरानन्दा सास्रकण्ठजनाविला ।  
-अयोध्यायामवतता सा व्यतीयाय शर्वरी ॥ १ ॥
+[^non-baroDa-CE] अयोध्यायामवतता सा व्यतीयाय शर्वरी ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -707,10 +707,10 @@ In a kingless land, twice-born Brahmins devoted to sacrifice (_yajña-śīlāḥ
 
 <details><summary>मूलम्</summary>
 
-नाराजके जनपदे महायज्ञेषु यज्वनः ।  
+[^non-baroDa-CE] नाराजके जनपदे महायज्ञेषु यज्वनः ।  
 ब्राह्मणा वसुसम्पूर्णा विसृजन्त्याप्तदक्षिणाः ॥ १४ ॥
 _________________
-नाराजके जनपदे महायज्ञेषु यज्वनः ।  
+[^non-baroDa-CE] नाराजके जनपदे महायज्ञेषु यज्वनः ।  
 ब्राह्मणा वसुसम्पूर्ण विसृजन्त्याप्तदक्षिणाः ॥
 </details>
 
@@ -871,7 +871,7 @@ In a kingless land, men of business (_vyavahāriṇaḥ_) do not achieve their a
 <details><summary>मूलम्</summary>
 
 नाराजके जनपदे तूद्यानानि समागताः ।  
-सायाह्ने क्रीडितुं यान्ति कुमार्यो हेमभूषिताः ॥ १७ ॥
+[^non-baroDa-CE] सायाह्ने क्रीडितुं यान्ति कुमार्यो हेमभूषिताः ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1087,7 +1087,7 @@ In a kingless land, sixty-year-old tusked elephants (_kuñjarāḥ ṣaṣṭi-h
 <details><summary>मूलम्</summary>
 
 नाराजके जनपदे शरान् सन्ततमस्यताम् ।  
-श्रूयते तलनिर्घोष इष्वस्त्राणामुपासने ॥ २१ ॥
+[^non-baroDa-CE] श्रूयते तलनिर्घोष इष्वस्त्राणामुपासने ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1140,7 +1140,7 @@ In a kingless land, the clap of the bowstring against the leather arm-guard (_ta
 
 <details><summary>मूलम्</summary>
 
-नाराजके जनपदे वणिजो दूरगामिनः ।  
+[^non-baroDa-CE] नाराजके जनपदे वणिजो दूरगामिनः ।  
 गच्छन्ति क्षेममध्वानं बहुपण्यसमाचिताः ॥ २२ ॥
 </details>
 
@@ -1309,7 +1309,7 @@ In a kingless land, neither horsemen nor scholars debating in the groves nor pio
 
 <details><summary>मूलम्</summary>
 
-नाराजके जनपदे हृष्टैः परमवाजिभिः ।  
+[^non-baroDa-CE] नाराजके जनपदे हृष्टैः परमवाजिभिः ।  
 नराः संयान्ति सहसा रथैश्च प्रतिमण्डिताः ॥ २५ ॥
 </details>
 
@@ -1413,8 +1413,8 @@ In a kingless land, men well-versed in the sacred sciences (_narāḥ śāstra-v
 
 <details><summary>मूलम्</summary>
 
-नाराजके जनपदे माल्यमोदकदक्षिणाः ।  
-देवताभ्यर्चनार्थाय कल्प्यन्ते नियतैर्जनैः ॥ २७ ॥
+[^non-baroDa-CE] नाराजके जनपदे माल्यमोदकदक्षिणाः ।  
+[^non-baroDa-CE] देवताभ्यर्चनार्थाय कल्प्यन्ते नियतैर्जनैः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1468,7 +1468,7 @@ In a kingless land, garlands, sweetmeats, and sacrificial offerings (_mālya-mod
 नाराजके जनपदे चन्दनागुरुरूषिताः ।  
 राजपुत्रा विराजन्ते वसन्ते इव शाखिनः ॥ २८ ॥
 _________________
-नाराजके जनपदे चन्दनागरुरूषिताः ।  
+[^non-baroDa-CE] नाराजके जनपदे चन्दनागरुरूषिताः ।  
 राजपुत्रा विराजन्ते वसन्ते इव शाखिनः ॥
 </details>
 
@@ -1581,8 +1581,8 @@ Without a king, men devour one another like fish and even heretics once curbed b
 
 <details><summary>मूलम्</summary>
 
-ध्वजो रथस्य प्रज्ञानं धूमो ज्ञानं विभावसोः ।  
-तेषां यो नो ध्वजो राजा स देवत्वमितो गतः ॥ ३० ॥
+[^non-baroDa-CE] ध्वजो रथस्य प्रज्ञानं धूमो ज्ञानं विभावसोः ।  
+[^non-baroDa-CE] तेषां यो नो ध्वजो राजा स देवत्वमितो गतः ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1634,10 +1634,10 @@ The banner is the distinguishing emblem of a chariot (_dhvajo rathasya prajñān
 
 <details><summary>मूलम्</summary>
 
-नाराजके जनपदे स्वकं भवति कस्यचित् ।  
+[^non-baroDa-CE] नाराजके जनपदे स्वकं भवति कस्यचित् ।  
 मत्स्या इव जना नित्यं भक्षयन्ति परस्परम् ॥ ३१ ॥
 _________________
-नाराजके जनपदे स्वकं भवति कस्यचित् ।  
+[^non-baroDa-CE] नाराजके जनपदे स्वकं भवति कस्यचित् ।  
 मत्स्या इव नरा नित्यं भक्षयन्ति परस्परम् ॥
 </details>
 
@@ -1790,8 +1790,8 @@ Just as sight (_dṛṣṭiḥ_) constantly operates for the preservation of the
 
 <details><summary>मूलम्</summary>
 
-राजा सत्यं च धर्मश्च राजा कुलवतां कुलम् ।  
-राजा माता पिता चैव राजा हितकरो नृणाम् ॥ ३४ ॥
+[^non-baroDa-CE] राजा सत्यं च धर्मश्च राजा कुलवतां कुलम् ।  
+[^non-baroDa-CE] राजा माता पिता चैव राजा हितकरो नृणाम् ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2075,3 +2075,4 @@ Therefore, O best of the twice-born (_dvija-varya_), beholding our plight and se
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

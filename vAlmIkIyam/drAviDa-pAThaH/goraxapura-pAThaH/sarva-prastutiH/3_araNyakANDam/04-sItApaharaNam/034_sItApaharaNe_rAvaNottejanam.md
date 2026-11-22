@@ -232,10 +232,10 @@ or missile, that too when wielded by a single human...'
 
 <details><summary>मूलम्</summary>
 
-तत्त्वं ब्रूहि मनोज्ञाङ्गि केन त्वं च विरूपिता ।  
+[^non-baroDa-CE] तत्त्वं ब्रूहि मनोज्ञाङ्गि केन त्वं च विरूपिता ।  
 इत्युक्ता राक्षसेन्द्रेण राक्षसी क्रोधमूर्च्छिता ॥ ४ ॥
 _________________
-तत्त्वं ब्रूहि मनोज्ञाङ्गि केन त्वं च विरूपिता ।  
+[^non-baroDa-CE] तत्त्वं ब्रूहि मनोज्ञाङ्गि केन त्वं च विरूपिता ।  
 इत्युक्ता राक्षसेन्द्रेण राक्षसी क्रोधमूर्छिता ॥
 </details>
 
@@ -721,8 +721,8 @@ a Lakshmana is the perpetual right-hand and the peripherally moving life of Rama
 
 <details><summary>मूलम्</summary>
 
-रामस्य तु विशालाक्षी पूर्णेन्दुसदृशानना ।  
-धर्मपत्नी प्रिया नित्यं भर्तुः प्रियहिते रता ॥ १५ ॥
+[^non-baroDa-CE] रामस्य तु विशालाक्षी पूर्णेन्दुसदृशानना ।  
+[^non-baroDa-CE] धर्मपत्नी प्रिया नित्यं भर्तुः प्रियहिते रता ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -773,11 +773,11 @@ she always takes delight in the well-being of her dear one, namely Rama. [1-34-1
 
 <details><summary>मूलम्</summary>
 
-सा सुकेशी सुनासोरूः सुरूपा च यशस्विनी ।  
-देवतेव वनस्यास्य राजते श्रीरिवापरा ॥ १६ ॥
+[^non-baroDa-CE] सा सुकेशी सुनासोरूः सुरूपा च यशस्विनी ।  
+[^non-baroDa-CE] देवतेव वनस्यास्य राजते श्रीरिवापरा ॥ १६ ॥
 _________________
 सा सुकेशी सुनासोरुः सुरूपा च यशस्विनी ।  
-देवतेव वनस्यास्य राजते श्रीरिवापरा ॥
+[^non-baroDa-CE] देवतेव वनस्यास्य राजते श्रीरिवापरा ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -829,7 +829,7 @@ turn is like Goddess Lakshmi in a temporal form. [1-34-16]
 
 <details><summary>मूलम्</summary>
 
-तप्तकाञ्चनवर्णाभा रक्ततुङ्गनखी शुभा ।  
+[^non-baroDa-CE] तप्तकाञ्चनवर्णाभा रक्ततुङ्गनखी शुभा ।  
 सीता नाम वरारोहा वैदेही तनुमध्यमा ॥ १७ ॥
 _________________
 तप्तकाञ्चनवर्णाभा रक्तु तुङ्गनखी शुभा ।  
@@ -1058,7 +1058,7 @@ she will become a seemly wife of yours, and you too will become a best husband o
 
 तां तु विस्तीर्णजघनां पीनोत्तुङ्गपयोधराम् ।  
 भार्यार्थे तु तवानेतुमुद्यताहं वराननाम् ॥ २१ ॥  
-विरूपितास्मि क्रूरेण लक्ष्मणेन महाभुज ।
+[^non-baroDa-CE] विरूपितास्मि क्रूरेण लक्ष्मणेन महाभुज ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1277,11 +1277,11 @@ without any shilly-shallying in your mind. [1-34-24]
 
 <details><summary>मूलम्</summary>
 
-विज्ञायैषामशक्तिं च क्रियतां च महाबल ।  
-सीता तवानवद्याङ्गी भार्यात्वे राक्षसेश्वर ॥ २५ ॥
+[^non-baroDa-CE] विज्ञायैषामशक्तिं च क्रियतां च महाबल ।  
+[^non-baroDa-CE] सीता तवानवद्याङ्गी भार्यात्वे राक्षसेश्वर ॥ २५ ॥
 _________________
 विज्ञायैषामशक्तिं च क्रियातां च महाबल ।  
-सीता तवानवद्याङ्गी भार्यात्वे राक्षसेश्वर ॥
+[^non-baroDa-CE] सीता तवानवद्याङ्गी भार्यात्वे राक्षसेश्वर ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1394,3 +1394,4 @@ you to awake to a workable action." Thus Shuurpanakha has earbashed Ravana. [1-3
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

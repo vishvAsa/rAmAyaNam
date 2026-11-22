@@ -43,8 +43,8 @@ Bereft of Sītā and overwhelmed by grief and love-sick delusion, the lotus-eyed
 
 <details><summary>मूलम्</summary>
 
-सीतामपश्यन् धर्मात्मा शोकोपहतचेतनः ।  
-विललाप महाबाहू रामः कमललोचनः ॥ १ ॥
+[^non-baroDa-CE] सीतामपश्यन् धर्मात्मा शोकोपहतचेतनः ।  
+[^non-baroDa-CE] विललाप महाबाहू रामः कमललोचनः ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -106,8 +106,8 @@ Not beholding Sītā (_sītām apaśyan_), the righteous-souled (_dharmātmā_),
 
 <details><summary>मूलम्</summary>
 
-पश्यन्निव च तां सीतामपश्यन्मन्मथार्दितः ।  
-उवाच राघवो वाक्यं विलापाश्रयदुर्वचम् ॥ २ ॥
+[^non-baroDa-CE] पश्यन्निव च तां सीतामपश्यन्मन्मथार्दितः ।  
+[^non-baroDa-CE] उवाच राघवो वाक्यं विलापाश्रयदुर्वचम् ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -169,8 +169,8 @@ Tormented by love (_manmathārditaḥ_) and seeming to behold Sītā even while 
 
 <details><summary>मूलम्</summary>
 
-त्वमशोकस्य शाखाभिः पुष्पप्रियतरा प्रिये ।  
-आवृणोषि शरीरं ते मम शोकविवर्धनी ॥ ३ ॥
+[^non-baroDa-CE] त्वमशोकस्य शाखाभिः पुष्पप्रियतरा प्रिये ।  
+[^non-baroDa-CE] आवृणोषि शरीरं ते मम शोकविवर्धनी ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -227,8 +227,8 @@ We may recount the idea reg. Ashoka flowers expressed at 3-60-17.
 
 <details><summary>मूलम्</summary>
 
-कदलीकाण्डसदृशौ कदल्या संवृतावुभौ ।  
-ऊरू पश्यामि ते देवि नासि शक्ता निगूहितुम् ॥ ४ ॥
+[^non-baroDa-CE] कदलीकाण्डसदृशौ कदल्या संवृतावुभौ ।  
+[^non-baroDa-CE] ऊरू पश्यामि ते देवि नासि शक्ता निगूहितुम् ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -281,8 +281,8 @@ sight of them, oh, lady, you are inapt at least to cover them from me. [3-62-4]
 
 <details><summary>मूलम्</summary>
 
-कर्णिकारवनं भद्रे हसन्ती देवि सेवसे ।  
-अलं ते परिहासेन मम बाधावहेन वै ॥ ५ ॥
+[^non-baroDa-CE] कर्णिकारवनं भद्रे हसन्ती देवि सेवसे ।  
+[^non-baroDa-CE] अलं ते परिहासेन मम बाधावहेन वै ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -330,9 +330,9 @@ lady, enough, enough is this facetiousness of yours. [3-62-5]
 
 <details><summary>मूलम्</summary>
 
-विशेषेणाश्रमस्थाने हासोऽयं न प्रशस्यते ।  
-अवगच्छामि ते शीलं परिहासप्रियं प्रिये ॥ ६ ॥  
-आगच्छ त्वं विशालाक्षि शून्योऽयमुटजस्तव ।
+[^non-baroDa-CE] विशेषेणाश्रमस्थाने हासोऽयं न प्रशस्यते ।  
+[^non-baroDa-CE] अवगच्छामि ते शीलं परिहासप्रियं प्रिये ॥ ६ ॥  
+[^non-baroDa-CE] आगच्छ त्वं विशालाक्षि शून्योऽयमुटजस्तव ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -404,8 +404,8 @@ Awakening from his delusion, Rāma realizes from the weeping deer herds that nig
 
 <details><summary>मूलम्</summary>
 
-सुव्यक्तं राक्षसैः सीता भक्षिता वा हृतापि वा ॥ ७ ॥  
-न हि सा विलपन्तं मामुपसम्प्रैति लक्ष्मण ।
+[^non-baroDa-CE] सुव्यक्तं राक्षसैः सीता भक्षिता वा हृतापि वा ॥ ७ ॥  
+[^non-baroDa-CE] न हि सा विलपन्तं मामुपसम्प्रैति लक्ष्मण ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -457,8 +457,8 @@ abducted her, because she is not returning to me who am whiny indeed for her. [3
 
 <details><summary>मूलम्</summary>
 
-एतानि मृगयूथानि साश्रुनेत्राणि लक्ष्मण ॥ ८ ॥  
-शंसन्तीव हि मे देवीं भक्षितां रजनीचरैः ।
+[^non-baroDa-CE] एतानि मृगयूथानि साश्रुनेत्राणि लक्ष्मण ॥ ८ ॥  
+[^non-baroDa-CE] शंसन्तीव हि मे देवीं भक्षितां रजनीचरैः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -509,8 +509,8 @@ gluttonised my lady. [3-62-8b, 9a]
 
 <details><summary>मूलम्</summary>
 
-हा ममार्ये क्व यातासि हा साध्वि वरवर्णिनि ॥ ९ ॥  
-हा सकामाद्य कैकेयी देवि मेऽद्य भविष्यति ।
+[^non-baroDa-CE] हा ममार्ये क्व यातासि हा साध्वि वरवर्णिनि ॥ ९ ॥  
+[^non-baroDa-CE] हा सकामाद्य कैकेयी देवि मेऽद्य भविष्यति ।
 _________________
 हा मयार्ये क्व यातासि हा साध्वि वरवर्णिनि ॥  
 हा सकमाद्यकैकेयी देवि मेऽद्य भविष्यति ।
@@ -566,8 +566,8 @@ last owing to your straying... [3-62-8b, 9a]
 
 <details><summary>मूलम्</summary>
 
-सीतया सह निर्यातो विना सीतामुपागतः ॥ १० ॥  
-कथं नाम प्रवेक्ष्यामि शून्यमन्तःपुरं मम ।
+[^non-baroDa-CE] सीतया सह निर्यातो विना सीतामुपागतः ॥ १० ॥  
+[^non-baroDa-CE] कथं नाम प्रवेक्ष्यामि शून्यमन्तःपुरं मम ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -619,8 +619,8 @@ How, in all but name, can I step into an oblivion called my palace-chambers? [3-
 
 <details><summary>मूलम्</summary>
 
-निर्वीर्य इति लोको मां निर्दयश्चेति वक्ष्यति ॥ ११ ॥  
-कातरत्वं प्रकाशं हि सीतापनयनेन मे ।
+[^non-baroDa-CE] निर्वीर्य इति लोको मां निर्दयश्चेति वक्ष्यति ॥ ११ ॥  
+[^non-baroDa-CE] कातरत्वं प्रकाशं हि सीतापनयनेन मे ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -681,8 +681,8 @@ Unable to face King Janaka without Sītā and finding even heaven empty without 
 
 <details><summary>मूलम्</summary>
 
-निवृत्तवनवासश्च जनकं मिथिलाधिपम् ॥ १२ ॥  
-कुशलं परिपृच्छन्तं कथं शक्ष्ये निरीक्षितुम् ।
+[^non-baroDa-CE] निवृत्तवनवासश्च जनकं मिथिलाधिपम् ॥ १२ ॥  
+[^non-baroDa-CE] कुशलं परिपृच्छन्तं कथं शक्ष्ये निरीक्षितुम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -733,7 +733,7 @@ after the completion of forest living, how do I have the face to stand him? [3-6
 
 <details><summary>मूलम्</summary>
 
-विदेहराजो नूनं मां दृष्ट्वा विरहितं तया ॥ १३ ॥  
+[^non-baroDa-CE] विदेहराजो नूनं मां दृष्ट्वा विरहितं तया ॥ १३ ॥  
 सुताविनाशसन्तप्तो मोहस्य वशमेष्यति ।
 </details>
 
@@ -785,8 +785,8 @@ of his daughter, and he defiantly goes under the preponderance of perplexity... 
 
 <details><summary>मूलम्</summary>
 
-अथवा न गमिष्यामि पुरीं भरतपालिताम् ॥ १४ ॥  
-स्वर्गोऽपि हि तया हीनः शून्य एव मतो मम ।
+[^non-baroDa-CE] अथवा न गमिष्यामि पुरीं भरतपालिताम् ॥ १४ ॥  
+[^non-baroDa-CE] स्वर्गोऽपि हि तया हीनः शून्य एव मतो मम ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -839,7 +839,7 @@ be a void to me without her... I believe so... [3-62-13b, 14a]
 
 <details><summary>मूलम्</summary>
 
-तन्मामुत्सृज्य हि वने गच्छायोध्यापुरीं शुभाम् ॥ १५ ॥  
+[^non-baroDa-CE] तन्मामुत्सृज्य हि वने गच्छायोध्यापुरीं शुभाम् ॥ १५ ॥  
 न त्वहं तां विना सीतां जीवेयं हि कथञ्चन ।
 </details>
 
@@ -892,7 +892,7 @@ forests, because I have no existence without Seetha, isn't it! [3-62-14b, 15a]
 
 <details><summary>मूलम्</summary>
 
-गाढमाश्लिष्य भरतो वाच्यो मद्वचनात् त्वया ॥ १६ ॥  
+[^non-baroDa-CE] गाढमाश्लिष्य भरतो वाच्यो मद्वचनात् त्वया ॥ १६ ॥  
 अनुज्ञातोऽसि रामेण पालयेति वसुन्धराम् ।
 </details>
 
@@ -953,9 +953,9 @@ Entrusting the earth's rule to Bharata and his mothers' care to Lakṣmaṇa, R�
 
 <details><summary>मूलम्</summary>
 
-अम्बा च मम कैकेयी सुमित्रा च त्वया विभो ॥ १७ ॥  
-कौसल्या च यथान्यायमभिवाद्या ममाज्ञया ।  
-रक्षणीया प्रयत्नेन भवता सूक्तचारिणा ॥ १८ ॥
+[^non-baroDa-CE] अम्बा च मम कैकेयी सुमित्रा च त्वया विभो ॥ १७ ॥  
+[^non-baroDa-CE] कौसल्या च यथान्यायमभिवाद्या ममाज्ञया ।  
+[^non-baroDa-CE] रक्षणीया प्रयत्नेन भवता सूक्तचारिणा ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1014,8 +1014,8 @@ you, you have to effortfully protect my mother Kausalya by doing whatever she sa
 
 <details><summary>मूलम्</summary>
 
-सीतायाश्च विनाशोऽयं मम चामित्रसूदन ।  
-विस्तरेण जनन्या मे विनिवेद्यस्त्वया भवेत् ॥ १९ ॥
+[^non-baroDa-CE] सीतायाश्च विनाशोऽयं मम चामित्रसूदन ।  
+[^non-baroDa-CE] विस्तरेण जनन्या मे विनिवेद्यस्त्वया भवेत् ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1068,10 +1068,10 @@ about this perish of Seetha, also that of mine, to our mothers. [3-62-19]
 
 <details><summary>मूलम्</summary>
 
-इति विलपति राघवे तु दीने  
-वनमुपगम्य तया विना सुकेश्या ।  
-भयविकलमुखस्तु लक्ष्मणोऽपि  
-व्यथितमना भृशमातुरो बभूव ॥ २० ॥
+[^non-baroDa-CE] इति विलपति राघवे तु दीने  
+[^non-baroDa-CE] वनमुपगम्य तया विना सुकेश्या ।  
+[^non-baroDa-CE] भयविकलमुखस्तु लक्ष्मणोऽपि  
+[^non-baroDa-CE] व्यथितमना भृशमातुरो बभूव ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1130,3 +1130,4 @@ While the wretched Rāghava lamented thus (_iti vilapati rāghave tu dīne_) aft
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

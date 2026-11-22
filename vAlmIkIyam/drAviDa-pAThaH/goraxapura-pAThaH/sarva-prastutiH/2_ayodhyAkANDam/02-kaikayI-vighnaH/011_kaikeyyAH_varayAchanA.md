@@ -41,8 +41,8 @@ Kaikeyī demands a solemn pledge before revealing her wish, and the infatuated D
 
 <details><summary>मूलम्</summary>
 
-तं मन्मथशरैर्विद्धं कामवेगवशानुगम् ।  
-उवाच पृथिवीपालं कैकेयी दारुणं वचः ॥ १ ॥
+[^non-baroDa-CE] तं मन्मथशरैर्विद्धं कामवेगवशानुगम् ।  
+[^non-baroDa-CE] उवाच पृथिवीपालं कैकेयी दारुणं वचः ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -284,8 +284,8 @@ me than you except Rama, the best among men."
 
 <details><summary>मूलम्</summary>
 
-तेनाजय्येन मुख्येन राघवेण महात्मना ।  
-शपे ते जीवनार्हेण ब्रूहि यन्मनसेप्सितम् ॥ ६ ॥
+[^non-baroDa-CE] तेनाजय्येन मुख्येन राघवेण महात्मना ।  
+[^non-baroDa-CE] शपे ते जीवनार्हेण ब्रूहि यन्मनसेप्सितम् ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -345,8 +345,8 @@ Without seeing Rāma for a single hour Daśaratha cannot live, yet by that very 
 
 <details><summary>मूलम्</summary>
 
-यं मुहूर्तमपश्यंस्तु न जीवे तमहं ध्रुवम् ।  
-तेन रामेण कैकेयि शपे ते वचनक्रियाम् ॥ ७ ॥
+[^non-baroDa-CE] यं मुहूर्तमपश्यंस्तु न जीवे तमहं ध्रुवम् ।  
+[^non-baroDa-CE] तेन रामेण कैकेयि शपे ते वचनक्रियाम् ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -397,8 +397,8 @@ By that Rama, I am taking my oath and promising to fulfill your word".
 
 <details><summary>मूलम्</summary>
 
-आत्मना चात्मजैश्चान्यैर्वृणे यं मनुजर्षभम् ।  
-तेन रामेण कैकेयि शपे ते वचनक्रियाम् ॥ ८ ॥
+[^non-baroDa-CE] आत्मना चात्मजैश्चान्यैर्वृणे यं मनुजर्षभम् ।  
+[^non-baroDa-CE] तेन रामेण कैकेयि शपे ते वचनक्रियाम् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -505,11 +505,11 @@ O gentle lady (_bhadre_), examine even this heart of mine and draw it out (_hṛ
 
 <details><summary>मूलम्</summary>
 
-बलमात्मनि पश्यन्ती न विशङ्कितुमर्हसि ।  
-करिष्यामि तव प्रीतिं सुकृतेनापि ते शपे ॥ १० ॥
+[^non-baroDa-CE] बलमात्मनि पश्यन्ती न विशङ्कितुमर्हसि ।  
+[^non-baroDa-CE] करिष्यामि तव प्रीतिं सुकृतेनापि ते शपे ॥ १० ॥
 _________________
 बलमात्मनि पश्यन्ति न विशङ्कितुमर्हसि ।  
-करिष्यामि तव प्रीतिं सुकृतेनापि ते शपे ॥
+[^non-baroDa-CE] करिष्यामि तव प्रीतिं सुकृतेनापि ते शपे ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -560,8 +560,8 @@ Beholding the power you hold over me (_balam ātmani paśyantī_), you ought not
 
 <details><summary>मूलम्</summary>
 
-सा तदर्थमना देवी तमभिप्रायमागतम् ।  
-निर्माध्यस्थ्याच्च हर्षाच्च बभाषे दुर्वचं वचः ॥ ११ ॥
+[^non-baroDa-CE] सा तदर्थमना देवी तमभिप्रायमागतम् ।  
+[^non-baroDa-CE] निर्माध्यस्थ्याच्च हर्षाच्च बभाषे दुर्वचं वचः ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -989,8 +989,8 @@ Having thus bound fast (_parigṛhya_) the great bowman and extolled him (_abhi�
 
 <details><summary>मूलम्</summary>
 
-स्मर राजन् पुरा वृत्तं तस्मिन् देवासुरे रणे ।  
-तत्र त्वां च्यावयच्छत्रुस्तव जीवितमन्तरा ॥ १८ ॥
+[^non-baroDa-CE] स्मर राजन् पुरा वृत्तं तस्मिन् देवासुरे रणे ।  
+[^non-baroDa-CE] तत्र त्वां च्यावयच्छत्रुस्तव जीवितमन्तरा ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1049,8 +1049,8 @@ Threatening immediate suicide if spurned, Kaikeyī reclaims the two boons left a
 
 <details><summary>मूलम्</summary>
 
-तत्र चापि मया देव यत् त्वं समभिरक्षितः ।  
-जाग्रत्या यतमानायास्ततो मे प्रददौ वरौ ॥ १९ ॥
+[^non-baroDa-CE] तत्र चापि मया देव यत् त्वं समभिरक्षितः ।  
+[^non-baroDa-CE] जाग्रत्या यतमानायास्ततो मे प्रददौ वरौ ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1101,8 +1101,8 @@ trying to save you."
 
 <details><summary>मूलम्</summary>
 
-तौ दत्तौ च वरौ देव निक्षेपौ मृगयाम्यहम् ।  
-तवैव पृथिवीपाल सकाशे रघुनन्दन ॥ २० ॥
+[^non-baroDa-CE] तौ दत्तौ च वरौ देव निक्षेपौ मृगयाम्यहम् ।  
+[^non-baroDa-CE] तवैव पृथिवीपाल सकाशे रघुनन्दन ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1153,8 +1153,8 @@ Those two boons that were granted, O my lord, I now claim as two sacred deposits
 
 <details><summary>मूलम्</summary>
 
-तत् प्रतिश्रुत्य धर्मेण न चेद् दास्यसि मे वरम् ।  
-अद्यैव हि प्रहास्यामि जीवितं त्वद्विमानिता ॥ २१ ॥
+[^non-baroDa-CE] तत् प्रतिश्रुत्य धर्मेण न चेद् दास्यसि मे वरम् ।  
+[^non-baroDa-CE] अद्यैव हि प्रहास्यामि जीवितं त्वद्विमानिता ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1200,8 +1200,8 @@ Having solemnly promised this in accordance with righteousness (_tat pratiśruty
 
 <details><summary>मूलम्</summary>
 
-वाङ्मात्रेण तदा राजा कैकेय्या स्ववशे कृतः ।  
-प्रचस्कन्द विनाशाय पाशं मृग इवात्मनः ॥ २२ ॥
+[^non-baroDa-CE] वाङ्मात्रेण तदा राजा कैकेय्या स्ववशे कृतः ।  
+[^non-baroDa-CE] प्रचस्कन्द विनाशाय पाशं मृग इवात्मनः ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1256,7 +1256,7 @@ Brought under her sway at that time by mere words (_vāṅmātreṇa_), the king
 
 <details><summary>मूलम्</summary>
 
-ततः परमुवाचेदं वरदं काममोहितम् ।  
+[^non-baroDa-CE] ततः परमुवाचेदं वरदं काममोहितम् ।  
 वरौ देयौ त्वया देव तदा दत्तौ महीपते ॥ २३ ॥  
 तौ तावदहमद्यैव वक्ष्यामि शृणु मे वचः ।  
 अभिषेकसमारम्भो राघवस्योपकल्पितः ॥ २४ ॥  
@@ -1343,8 +1343,8 @@ Kaikeyī demands her two boons—that Bharata be consecrated with the very mater
 
 <details><summary>मूलम्</summary>
 
-यो द्वितीयो वरो देव दत्तः प्रीतेन मे त्वया ॥ २५ ॥  
-तदा देवासुरे युद्धे तस्य कालोऽयमागतः ।
+[^non-baroDa-CE] यो द्वितीयो वरो देव दत्तः प्रीतेन मे त्वया ॥ २५ ॥  
+[^non-baroDa-CE] तदा देवासुरे युद्धे तस्य कालोऽयमागतः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1446,7 +1446,7 @@ become an ascetic wearing rags, deer skin and matted hair".
 
 <details><summary>मूलम्</summary>
 
-एष मे परमः कामो दत्तमेव वरं वृणे ।  
+[^non-baroDa-CE] एष मे परमः कामो दत्तमेव वरं वृणे ।  
 अद्य चैव हि पश्येयं प्रयान्तं राघवं वने ॥ २८ ॥
 </details>
 
@@ -1497,9 +1497,9 @@ This is my supreme desire—I claim the very boon already granted by you (_datta
 <details><summary>मूलम्</summary>
 
 स राजराजो भव सत्यसङ्गरः  
-कुलं च शीलं च हि जन्म रक्ष च ।  
-परत्र वासे हि वदन्त्यनुत्तमं  
-तपोधनाः सत्यवचो हितं नृणाम् ॥ २९ ॥
+[^non-baroDa-CE] कुलं च शीलं च हि जन्म रक्ष च ।  
+[^non-baroDa-CE] परत्र वासे हि वदन्त्यनुत्तमं  
+[^non-baroDa-CE] तपोधनाः सत्यवचो हितं नृणाम् ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1556,3 +1556,4 @@ Therefore, O king of kings (_rājarājaḥ_), prove true to your promise (_bhava
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

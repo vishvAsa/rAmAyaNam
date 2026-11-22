@@ -801,8 +801,8 @@ Then Hanūmān, skilled in speech (_vākyakovidaḥ_), spoke these words to Sugr
 
 <details><summary>मूलम्</summary>
 
-सम्भ्रमस्त्यज्यतामेष सर्वैर्वालिकृते महान् ।  
-मलयोऽयं गिरिवरो भयं नेहास्ति वालिनः ॥ १४ ॥
+[^non-baroDa-CE] सम्भ्रमस्त्यज्यतामेष सर्वैर्वालिकृते महान् ।  
+[^non-baroDa-CE] मलयोऽयं गिरिवरो भयं नेहास्ति वालिनः ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1664,3 +1664,4 @@ Honoring the words of that terrified and unassailable ape with “So be it!” (
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

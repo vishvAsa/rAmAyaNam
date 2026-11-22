@@ -430,7 +430,7 @@ Thus questioned by the prince Rāma of unwearied deeds (_akliṣṭakarmaṇā_)
 
 येन वैवस्वतो युद्धे वासवश्च पराजितः ।  
 सैष विश्रवसः पुत्रः कुम्भकर्णः प्रतापवान् ।  
-अस्य प्रमाणसदृशो राक्षसोऽन्यो न विद्यते ॥ ९ ॥
+[^non-baroDa-CE] अस्य प्रमाणसदृशो राक्षसोऽन्यो न विद्यते ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1000,7 +1000,7 @@ Appealed to by Indra and the subjects, the Creator Svayambhū summons Kumbhakar�
 <details><summary>मूलम्</summary>
 
 प्रजानां भक्षणं चापि देवानां चापि धर्षणम् ।  
-आश्रमध्वंसनं चापि परस्त्रीहरणं भृशम् ॥ २० ॥
+[^non-baroDa-CE] आश्रमध्वंसनं चापि परस्त्रीहरणं भृशम् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1967,8 +1967,8 @@ Then Gavākṣa, Śarabha, Hanūmān, and Aṅgada, resembling mountains in stat
 
 <details><summary>मूलम्</summary>
 
-रामवाक्यमुपश्रुत्य हरयो जितकाशिनः ।  
-पादपैरर्दयन् वीरा वानराः परवाहिनीम् ॥ ३९ ॥
+[^non-baroDa-CE] रामवाक्यमुपश्रुत्य हरयो जितकाशिनः ।  
+[^non-baroDa-CE] पादपैरर्दयन् वीरा वानराः परवाहिनीम् ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2071,3 +2071,4 @@ Then that fierce army of monkeys, holding aloft rocks and trees in their hands (
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -666,10 +666,10 @@ Having laid bare Lavaṇa’s power and the trident’s dread nature, Cyavana de
 
 <details><summary>मूलम्</summary>
 
-इति राम निवेदितं तु ते  
-भयजं कारणमुत्थितं च यत् ।  
-विनिवारयितुं भवान् क्षमः  
-कुरु तं काममहीनविक्रम ॥ २४ ॥
+[^non-baroDa-CE] इति राम निवेदितं तु ते  
+[^non-baroDa-CE] भयजं कारणमुत्थितं च यत् ।  
+[^non-baroDa-CE] विनिवारयितुं भवान् क्षमः  
+[^non-baroDa-CE] कुरु तं काममहीनविक्रम ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -690,3 +690,4 @@ Having laid bare Lavaṇa’s power and the trident’s dread nature, Cyavana de
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

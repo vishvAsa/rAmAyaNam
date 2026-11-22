@@ -874,7 +874,7 @@ by people may, even by the mind-how much more by an act of walking?
 
 <details><summary>मूलम्</summary>
 
-दशयोजनविस्तीर्णा विंशद्योजनमायता ।  
+[^non-baroDa-CE] दशयोजनविस्तीर्णा विंशद्योजनमायता ।  
 सा पुरी गोपुरैरुच्चैः पाण्डुराम्बुदसन्निभैः ।  
 काञ्चनेन च शालेन राजतेन च शोभते ॥ २० ॥
 </details>
@@ -1083,8 +1083,8 @@ Gazing with his vānara host upon Rāvaṇa's opulent, heaven-like capital—ado
 
 <details><summary>मूलम्</summary>
 
-मनोज्ञां काञ्चनवतीं पर्वतैरुपशोभिताम् ।  
-नानाधातुविचित्रैश्च उद्यानैरुपशोभिताम् ॥ २४ ॥
+[^non-baroDa-CE] मनोज्ञां काञ्चनवतीं पर्वतैरुपशोभिताम् ।  
+[^non-baroDa-CE] नानाधातुविचित्रैश्च उद्यानैरुपशोभिताम् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1136,7 +1136,7 @@ seen as an ornament to the City of Ravana.
 <details><summary>मूलम्</summary>
 
 नानाविहगसङ्घुष्टां नानामृगनिषेविताम् ।  
-नानाकुसुमसम्पन्नां नानाराक्षससेविताम् ॥ २५ ॥
+[^non-baroDa-CE] नानाकुसुमसम्पन्नां नानाराक्षससेविताम् ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1200,10 +1200,10 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-तां महागृहसम्बाधां दृष्ट्वा लक्ष्मणपूर्वजः ।  
-नगरीं त्रिदिवप्रख्यां विस्मयं प्राप वीर्यवान् ॥ २७ ॥
+[^non-baroDa-CE] तां महागृहसम्बाधां दृष्ट्वा लक्ष्मणपूर्वजः ।  
+[^non-baroDa-CE] नगरीं त्रिदिवप्रख्यां विस्मयं प्राप वीर्यवान् ॥ २७ ॥
 _________________
-तां महागृहसम्बाधां दृष्ट्वा लक्ष्मणपूर्वजः ।  
+[^non-baroDa-CE] तां महागृहसम्बाधां दृष्ट्वा लक्ष्मणपूर्वजः ।  
 नगरीं त्रिदिवसप्रख्यां विस्मयं प्राप वीर्यवान् ॥
 </details>
 
@@ -1310,3 +1310,5 @@ valiant Rama the elder brother of Lakshmana was seized with astonishment.
 With his vast army, Rāma beheld that city filled with jewels, furnished with manifold defensive arrangements (_bahusaṃvidhānām_), adorned with rows of palaces, and preeminent for its mighty mechanical engines and gates (_mahāyantrakavāṭamukhyām_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

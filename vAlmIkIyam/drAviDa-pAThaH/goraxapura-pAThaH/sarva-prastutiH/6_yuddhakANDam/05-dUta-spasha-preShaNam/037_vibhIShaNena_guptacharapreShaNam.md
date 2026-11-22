@@ -885,8 +885,8 @@ Presenting his four ministers to verify the report, Vibhīṣaṇa recalls Rāva
 <details><summary>मूलम्</summary>
 
 एतां प्रवृत्तिं लङ्कायां मन्त्रिप्रोक्तां विभीषणः ।  
-एवमुक्त्वा महाबाहू राक्षसांस्तानदर्शयत् ॥ १९ ॥  
-लङ्कायां सचिवैः सर्वं रामाय प्रत्यवेदयत् ।
+[^non-baroDa-CE] एवमुक्त्वा महाबाहू राक्षसांस्तानदर्शयत् ॥ १९ ॥  
+[^non-baroDa-CE] लङ्कायां सचिवैः सर्वं रामाय प्रत्यवेदयत् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -940,7 +940,7 @@ Having thus reported this intelligence (_pravṛttim_) in Laṅkā as declared b
 <details><summary>मूलम्</summary>
 
 रामं कमलपत्राक्षमिदमुत्तरमब्रवीत् ॥ २० ॥  
-रावणावरजः श्रीमान् रामप्रियचिकीर्षया ।
+[^non-baroDa-CE] रावणावरजः श्रीमान् रामप्रियचिकीर्षया ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1690,7 +1690,7 @@ valour, my friend Vibhishana and his four companions."
 
 स रामः कृत्यसिद्ध्यर्थमेवमुक्त्वा विभीषणम् ।  
 सुवेलारोहणे बुद्धिं चकार मतिमान् प्रभुः ।  
-रमणीयतरं दृष्ट्वा सुवेलस्य गिरेस्तटम् ॥ ३६ ॥
+[^non-baroDa-CE] रमणीयतरं दृष्ट्वा सुवेलस्य गिरेस्तटम् ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1901,3 +1901,4 @@ To avoid tautology between the two occurrences of महात्मा in verse
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

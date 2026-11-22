@@ -216,12 +216,12 @@ Pleading that the fierce sage (_ghoraḥ atitīkṣṇasvabhāvaḥ_, **Śiroma�
 <details><summary>मूलम्</summary>
 
 ततो हि मे भयं देव प्रसादं कर्तुुमर्हसि ।  
-एवमुक्तस्तया राम सभयं भीतया तदा ॥ ४ ॥  
+[^non-baroDa-CE] एवमुक्तस्तया राम सभयं भीतया तदा ॥ ४ ॥  
 तामुवाच सहस्राक्षो वेपमानां कृताञ्जलिम् ।  
 मा भैषी रम्भे भद्रं ते कुरुष्व मम शासनम् ॥ ५ ॥
 _________________
 ततो हि मे भयं देव प्रसादं कर्तुमर्हसि ।  
-एवमुक्तस्तया राम सभयं भीतया तदा ॥
+[^non-baroDa-CE] एवमुक्तस्तया राम सभयं भीतया तदा ॥
 तामुवाच सहस्राक्षो वेपमानां कृताञ्जलिम् ।  
 मा भैषी रम्भे भद्रं ते कुरुष्व मम शासनम् ॥
 </details>
@@ -921,7 +921,7 @@ Why are Viśvāmitra’s senses called ‘unconquered’ (_ajitaiḥ_) when he r
 
 <details><summary>मूलम्</summary>
 
-बभूवास्य मनश्चिन्ता तपोऽपहरणे कृते ।  
+[^non-baroDa-CE] बभूवास्य मनश्चिन्ता तपोऽपहरणे कृते ।  
 नैवं क्रोधं गमिष्यामि न च वक्ष्ये कथञ्चन ॥ १७ ॥
 </details>
 
@@ -981,8 +981,8 @@ In the Southern Recension’s solemn soliloquy (vv. 17–20), **Tilaka** and **�
 
 <details><summary>मूलम्</summary>
 
-अथवा नोच्छ्वसिष्यामि संवत्सरशतान्यपि ।  
-अहं हि शोषयिष्यामि आत्मानं विजितेन्द्रियः ॥ १८ ॥
+[^non-baroDa-CE] अथवा नोच्छ्वसिष्यामि संवत्सरशतान्यपि ।  
+[^non-baroDa-CE] अहं हि शोषयिष्यामि आत्मानं विजितेन्द्रियः ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1027,8 +1027,8 @@ moods, and I indeed emaciate myself until I become a real conqueror of my own se
 
 <details><summary>मूलम्</summary>
 
-तावद् यावद्धि मे प्राप्तं ब्राह्मण्यं तपसार्जितम् ।  
-अनुच्छ्वसन्नभुञ्जानस्तिष्ठेयं शाश्वतीः समाः ॥ १९ ॥
+[^non-baroDa-CE] तावद् यावद्धि मे प्राप्तं ब्राह्मण्यं तपसार्जितम् ।  
+[^non-baroDa-CE] अनुच्छ्वसन्नभुञ्जानस्तिष्ठेयं शाश्वतीः समाः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1093,9 +1093,9 @@ Foreseeing by his _trikālajñatva_ (**Śiromaṇi**) and ascetic power (_tapoyo
 
 <details><summary>मूलम्</summary>
 
-नहि मे तप्यमानस्य क्षयं यास्यन्ति मूर्तयः ।  
+[^non-baroDa-CE] नहि मे तप्यमानस्य क्षयं यास्यन्ति मूर्तयः ।  
 एवं वर्षसहस्रस्य दीक्षां स मुनिपुङ्गवः ।  
-चकाराप्रतिमां लोके प्रतिज्ञां रघुनन्दन ॥ २० ॥
+[^non-baroDa-CE] चकाराप्रतिमां लोके प्रतिज्ञां रघुनन्दन ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1146,3 +1146,4 @@ of Ragu, which is a nonpareil vow in the world." Thus Shataananda continued. [1-
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

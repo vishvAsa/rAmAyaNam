@@ -793,10 +793,10 @@ Black Hole with his acute arrows, as if it is leafy bowl. [45414]
 <details><summary>मूलम्</summary>
 
 लक्ष्मणस्य च नाराचा बहवः सन्ति तद्विधाः ।  
-वज्राशनिसमस्पर्शा गिरीणामपि दारकाः ॥ १५ ॥
+[^non-baroDa-CE] वज्राशनिसमस्पर्शा गिरीणामपि दारकाः ॥ १५ ॥
 _________________
 लक्ष्मणस्य तु नाराचा बहवः सन्ति तद्विधाः ।  
-वज्राशनिसमस्पर्शा गिरीणामपि दारकाः ॥
+[^non-baroDa-CE] वज्राशनिसमस्पर्शा गिरीणामपि दारकाः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1246,3 +1246,5 @@ are not reiterated here.
 “Moreover, he desires what is dear to your mother (_priyakāmaś ca te mātuḥ_), and his very life exists for her sake (_tadartham_); besides, he has no other offspring (_apatyam_). Therefore, O Aṅgada, let us depart!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

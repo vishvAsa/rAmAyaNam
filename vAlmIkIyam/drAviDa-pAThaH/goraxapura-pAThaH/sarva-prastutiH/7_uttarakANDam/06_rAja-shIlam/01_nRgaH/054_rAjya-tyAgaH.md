@@ -31,8 +31,8 @@ Astonished that so small a fault drew a curse like Yama’s rod upon King Nṛga
 
 <details><summary>मूलम्</summary>
 
-रामस्य भाषितं श्रुत्वा लक्ष्मणः परमार्थवित् ।  
-उवाच प्राञ्जलिर्वाक्यं राघवं दीप्ततेजसम् ॥ १ ॥
+[^non-baroDa-CE] रामस्य भाषितं श्रुत्वा लक्ष्मणः परमार्थवित् ।  
+[^non-baroDa-CE] उवाच प्राञ्जलिर्वाक्यं राघवं दीप्ततेजसम् ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -62,8 +62,8 @@ Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (_paramārth
 
 <details><summary>मूलम्</summary>
 
-अल्पापराधे काकुत्स्थ द्विजाभ्यां शाप ईदृशः ।  
-महान् नृगस्य राजर्षेर्यमदण्ड इवापरः ॥ २ ॥
+[^non-baroDa-CE] अल्पापराधे काकुत्स्थ द्विजाभ्यां शाप ईदृशः ।  
+[^non-baroDa-CE] महान् नृगस्य राजर्षेर्यमदण्ड इवापरः ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -94,7 +94,7 @@ Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (_paramārth
 <details><summary>मूलम्</summary>
 
 श्रुत्वा तु पापसंयुक्तमात्मानं पुरुषर्षभ ।  
-किमुवाच नृगो राजा द्विजौ क्रोधसमन्वितौ ॥ ३ ॥
+[^non-baroDa-CE] किमुवाच नृगो राजा द्विजौ क्रोधसमन्वितौ ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,8 +124,8 @@ Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (_paramārth
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणेनैवमुक्तस्तु राघवः पुनरब्रवीत् ।  
-शृणु सौम्य यथा पूर्वं स राजा शापविक्षतः ॥ ४ ॥
+[^non-baroDa-CE] लक्ष्मणेनैवमुक्तस्तु राघवः पुनरब्रवीत् ।  
+[^non-baroDa-CE] शृणु सौम्य यथा पूर्वं स राजा शापविक्षतः ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -158,13 +158,13 @@ Thus addressed by Lakṣmaṇa, Rāghava spoke again: “Listen, O gentle one, t
 <details><summary>मूलम्</summary>
 
 अथाध्वनि गतौ विप्रौ विज्ञाय स नृपस्तदा ।  
-आहूय मन्त्रिणः सर्वान् नैगमान् सपुरोधसः ॥ ५ ॥  
-तानुवाच नृगो राजा सर्वाश्च प्रकृतीस्तथा ।  
+[^non-baroDa-CE] आहूय मन्त्रिणः सर्वान् नैगमान् सपुरोधसः ॥ ५ ॥  
+[^non-baroDa-CE] तानुवाच नृगो राजा सर्वाश्च प्रकृतीस्तथा ।  
 दुःखेन सुसमाविष्टः श्रूयतां मे समाहिताः ॥ ६ ॥
 _________________
 अथाध्वनि गतौ विप्रौ विज्ञाय स नृपस्तदा ।  
 अहूय मन्त्रिणः सर्वान्नैगमान्सपुरोधसः ॥
-तानुवाच नृगो राजासर्वाश्च प्रकृतीस्तथा ।  
+[^non-baroDa-CE] तानुवाच नृगो राजासर्वाश्च प्रकृतीस्तथा ।  
 दुःखेन सुसमाविष्टः श्रूयतां मेसमाहिताः ॥
 </details>
 
@@ -205,8 +205,8 @@ Announcing that Nārada and Parvata have departed after bearing him great dread,
 
 <details><summary>मूलम्</summary>
 
-नारदः पर्वतश्चैव मम दत्त्वा महद्भयम् ।  
-गतौ त्रिभुवनं भद्रौ वायुभूतावनिन्दितौ ॥ ७ ॥
+[^non-baroDa-CE] नारदः पर्वतश्चैव मम दत्त्वा महद्भयम् ।  
+[^non-baroDa-CE] गतौ त्रिभुवनं भद्रौ वायुभूतावनिन्दितौ ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -237,7 +237,7 @@ Announcing that Nārada and Parvata have departed after bearing him great dread,
 <details><summary>मूलम्</summary>
 
 कुमारोऽयं वसुर्नाम स चेहाद्याभिषिच्यताम् ।  
-श्वभ्रं च यत् सुखस्पर्शं क्रियतां शिल्पिभिर्मम ॥ ८ ॥
+[^non-baroDa-CE] श्वभ्रं च यत् सुखस्पर्शं क्रियतां शिल्पिभिर्मम ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -268,9 +268,9 @@ Announcing that Nārada and Parvata have departed after bearing him great dread,
 
 <details><summary>मूलम्</summary>
 
-यत्राहं सङ्क्षयिष्यामि शापं ब्राह्मणनिःसृतम् ।  
-वर्षघ्नमेकं श्वभ्रं तु हिमघ्नमपरं तथा ॥ ९ ॥  
-ग्रीष्मघ्नं तु सुखस्पर्शमेकं कुर्वन्तु शिल्पिनः ।
+[^non-baroDa-CE] यत्राहं सङ्क्षयिष्यामि शापं ब्राह्मणनिःसृतम् ।  
+[^non-baroDa-CE] वर्षघ्नमेकं श्वभ्रं तु हिमघ्नमपरं तथा ॥ ९ ॥  
+[^non-baroDa-CE] ग्रीष्मघ्नं तु सुखस्पर्शमेकं कुर्वन्तु शिल्पिनः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -304,12 +304,12 @@ Announcing that Nārada and Parvata have departed after bearing him great dread,
 
 <details><summary>मूलम्</summary>
 
-फलवन्तश्च ये वृक्षाः पुष्पवत्यश्च या लताः ॥ १० ॥  
-विरोप्यन्तां बहुविधाश्छायावन्तश्च गुल्मिनः ।  
-क्रियतां रमणीयं च श्वभ्राणां सर्वतोदिशम् ॥ ११ ॥  
-सुखमत्र वसिष्यामि यावत्कालस्य पर्ययः ।  
+[^non-baroDa-CE] फलवन्तश्च ये वृक्षाः पुष्पवत्यश्च या लताः ॥ १० ॥  
+[^non-baroDa-CE] विरोप्यन्तां बहुविधाश्छायावन्तश्च गुल्मिनः ।  
+[^non-baroDa-CE] क्रियतां रमणीयं च श्वभ्राणां सर्वतोदिशम् ॥ ११ ॥  
+[^non-baroDa-CE] सुखमत्र वसिष्यामि यावत्कालस्य पर्ययः ।  
 पुष्पाणि च सुगन्धीनि क्रियन्तां तेषु नित्यशः ॥ १२ ॥  
-परिवार्य यथा मे स्युरध्यर्धं योजनं तथा ।
+[^non-baroDa-CE] परिवार्य यथा मे स्युरध्यर्धं योजनं तथा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -352,7 +352,7 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 <details><summary>मूलम्</summary>
 
 एवं कृत्वा विधानं स सन्निवेश्य वसुं तदा ॥ १३ ॥  
-धर्मनित्यः प्रजाः पुत्र क्षत्रधर्मेण पालय ।
+[^non-baroDa-CE] धर्मनित्यः प्रजाः पुत्र क्षत्रधर्मेण पालय ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -383,7 +383,7 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 <details><summary>मूलम्</summary>
 
 प्रत्यक्षं ते तथा शापो द्विजाभ्यां मयि पातितः ॥ १४ ॥  
-नरश्रेष्ठ सरोषाभ्यामपराधेऽपि तादृशे ।
+[^non-baroDa-CE] नरश्रेष्ठ सरोषाभ्यामपराधेऽपि तादृशे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -414,7 +414,7 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 <details><summary>मूलम्</summary>
 
 मा कृथास्त्वनुसन्तापं मत्कृते हि नरर्षभ ॥ १५ ॥  
-कृतान्तः कुशलः पुत्र येनास्मि व्यसनीकृतः ।
+[^non-baroDa-CE] कृतान्तः कुशलः पुत्र येनास्मि व्यसनीकृतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -445,9 +445,9 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 
 <details><summary>मूलम्</summary>
 
-प्राप्तव्यान्येव प्राप्नोति गन्तव्यान्येव गच्छति ॥ १६ ॥  
-लब्धव्यान्येव लभते दुःखानि च सुखानि च ।  
-पूर्वे जात्यन्तरे वत्स मा विषादं कुरुष्व ह ॥ १७ ॥
+[^non-baroDa-CE] प्राप्तव्यान्येव प्राप्नोति गन्तव्यान्येव गच्छति ॥ १६ ॥  
+[^non-baroDa-CE] लब्धव्यान्येव लभते दुःखानि च सुखानि च ।  
+[^non-baroDa-CE] पूर्वे जात्यन्तरे वत्स मा विषादं कुरुष्व ह ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -479,8 +479,8 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा नृपस्तत्र सुतं राजा महायशाः ।  
-श्वभ्रं जगाम सुकृतं वासाय पुरुषर्षभ ॥ १८ ॥
+[^non-baroDa-CE] एवमुक्त्वा नृपस्तत्र सुतं राजा महायशाः ।  
+[^non-baroDa-CE] श्वभ्रं जगाम सुकृतं वासाय पुरुषर्षभ ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -514,8 +514,8 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 
 एवं प्रविश्येव नृपस्तदानीं  
 श्वभ्रं महद्रत्नविभूषितं तत् ।  
-सम्पादयामास तदा महात्मा  
-शापं द्विजाभ्यां हि रुषा विमुक्तम् ॥ १९ ॥
+[^non-baroDa-CE] सम्पादयामास तदा महात्मा  
+[^non-baroDa-CE] शापं द्विजाभ्यां हि रुषा विमुक्तम् ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -540,3 +540,4 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

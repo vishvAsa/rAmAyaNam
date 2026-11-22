@@ -759,7 +759,7 @@ Thereupon Rāvaṇi, beside himself with rage (_rāvaṇiḥ krodha-mūrcchita�
 <details><summary>मूलम्</summary>
 
 तां प्रविश्य महामायां प्राप्तां पशुपतेः पुरा ।  
-प्रविवेश सुसंरब्धस्तत् सैन्यं समभिद्रवत् ॥ २३ ॥
+[^non-baroDa-CE] प्रविवेश सुसंरब्धस्तत् सैन्यं समभिद्रवत् ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -828,8 +828,8 @@ Unfazed though stripped of armor, Rāvaṇi strikes Mātali and deluges Indra wi
 
 <details><summary>मूलम्</summary>
 
-विमुक्तकवचस्तत्र वध्यमानोऽपि रावणिः ।  
-त्रिदशैः सुमहावीर्यैर्न चकार च किञ्चन ॥ २५ ॥
+[^non-baroDa-CE] विमुक्तकवचस्तत्र वध्यमानोऽपि रावणिः ।  
+[^non-baroDa-CE] त्रिदशैः सुमहावीर्यैर्न चकार च किञ्चन ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -890,7 +890,7 @@ Striking the approaching Mātali with choice shafts (_mātaliṃ samāyāntaṃ 
 
 <details><summary>मूलम्</summary>
 
-ततस्त्यक्त्वा रथं शक्रो विससर्ज च सारथिम् ।  
+[^non-baroDa-CE] ततस्त्यक्त्वा रथं शक्रो विससर्ज च सारथिम् ।  
 ऐरावतं समारुह्य मृगयामास रावणिम् ॥ २७ ॥
 </details>
 
@@ -921,8 +921,8 @@ Then Śakra abandoned his chariot and dismissed his charioteer (_tyaktvā ratha�
 
 <details><summary>मूलम्</summary>
 
-स तत्र मायाबलवानदृश्योऽथान्तरिक्षगः ।  
-इन्द्रं मायापरिक्षिप्तं कृत्वा स प्राद्रवच्छरैः ॥ २८ ॥
+[^non-baroDa-CE] स तत्र मायाबलवानदृश्योऽथान्तरिक्षगः ।  
+[^non-baroDa-CE] इन्द्रं मायापरिक्षिप्तं कृत्वा स प्राद्रवच्छरैः ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1111,7 +1111,7 @@ Rāvaṇa gives his son the honor of leading the triumphal procession, bidding h
 
 <details><summary>मूलम्</summary>
 
-तं तु दृष्ट्वा बलात् तेन नीयमानं महारणात् ।  
+[^non-baroDa-CE] तं तु दृष्ट्वा बलात् तेन नीयमानं महारणात् ।  
 महेन्द्रममराः सर्वे किं नु स्यादित्यचिन्तयन् ॥ ३० ॥
 </details>
 
@@ -1150,7 +1150,7 @@ While the baffled gods cannot spy the invisible captor of Indra and turn their f
 
 <details><summary>मूलम्</summary>
 
-दृश्यते न स मायावी शक्रजित् समितिञ्जयः ।  
+[^non-baroDa-CE] दृश्यते न स मायावी शक्रजित् समितिञ्जयः ।  
 विद्यावानपि येनेन्द्रो माययापहृतो बलात् ॥ ३१ ॥
 </details>
 
@@ -1182,7 +1182,7 @@ Nowhere to be seen is that master of illusion, conqueror of Śakra and victor in
 <details><summary>मूलम्</summary>
 
 एतस्मिन्नन्तरे क्रुद्धाः सर्वे सुरगणास्तदा ।  
-रावणं विमुखीकृत्य शरवर्षैरवाकिरन् ॥ ३२ ॥
+[^non-baroDa-CE] रावणं विमुखीकृत्य शरवर्षैरवाकिरन् ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1212,7 +1212,7 @@ Meanwhile, all the hosts of gods, filled with wrath (_kruddhāḥ sarve sura-ga�
 
 <details><summary>मूलम्</summary>
 
-रावणस्तु समासाद्य आदित्यांश्च वसूंस्तदा ।  
+[^non-baroDa-CE] रावणस्तु समासाद्य आदित्यांश्च वसूंस्तदा ।  
 न शशाक स सङ्ग्रामे योद्धुं शत्रुभिरर्दितः ॥ ३३ ॥
 </details>
 
@@ -1555,3 +1555,4 @@ Then that valiant Rāvaṇi, surrounded by his host and vehicles (_balavṛtaḥ
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

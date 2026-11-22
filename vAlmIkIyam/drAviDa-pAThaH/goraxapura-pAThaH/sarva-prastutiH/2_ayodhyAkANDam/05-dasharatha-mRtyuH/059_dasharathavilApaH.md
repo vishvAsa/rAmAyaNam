@@ -233,8 +233,8 @@ sprouts and buds, having emaciated due to Rama's separation."
 
 <details><summary>मूलम्</summary>
 
-उपतप्तोदका नद्यः पल्वलानि सरांसि च ।  
-परिशुष्कपलाशानि वनान्युपवनानि च ॥ ५ ॥
+[^non-baroDa-CE] उपतप्तोदका नद्यः पल्वलानि सरांसि च ।  
+[^non-baroDa-CE] परिशुष्कपलाशानि वनान्युपवनानि च ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -451,7 +451,7 @@ and fruits do not have a luscious look as before."
 <details><summary>मूलम्</summary>
 
 अत्रोद्यानानि शून्यानि प्रलीनविहगानि च ।  
-न चाभिरामानारामान् पश्यामि मनुजर्षभ ॥ ९ ॥
+[^non-baroDa-CE] न चाभिरामानारामान् पश्यामि मनुजर्षभ ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -548,10 +548,10 @@ breathing their sigh of lamentation again and again."
 
 <details><summary>मूलम्</summary>
 
-देव राजरथं दृष्ट्वा विना राममिहागतम् ।  
+[^non-baroDa-CE] देव राजरथं दृष्ट्वा विना राममिहागतम् ।  
 दूरादश्रुमुखः सर्वो राजमार्गे गतो जनः ॥ ११ ॥
 _________________
-देव राजरथं दृष्ट्वा विना राममिहागतम् ।  
+[^non-baroDa-CE] देव राजरथं दृष्ट्वा विना राममिहागतम् ।  
 दुरादश्रुमुखः सर्वो राजमार्गे गतो जनः ॥
 </details>
 
@@ -604,8 +604,8 @@ along the royal high-way are shedding tears with grief."
 
 <details><summary>मूलम्</summary>
 
-हर्म्यैर्विमानैः प्रासादैरवेक्ष्य रथमागतम् ।  
-हाहाकारकृता नार्यो रामादर्शनकर्शिताः ॥ १२ ॥
+[^non-baroDa-CE] हर्म्यैर्विमानैः प्रासादैरवेक्ष्य रथमागतम् ।  
+[^non-baroDa-CE] हाहाकारकृता नार्यो रामादर्शनकर्शिताः ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -665,8 +665,8 @@ Describing how friends, foes, and neutrals alike are indistinguishably stricken 
 
 <details><summary>मूलम्</summary>
 
-आयतैर्विमलैर्नेत्रैरश्रुवेगपरिप्लुतैः ।  
-अन्योन्यमभिवीक्षन्तेऽव्यक्तमार्ततराः स्त्रियः ॥ १३ ॥
+[^non-baroDa-CE] आयतैर्विमलैर्नेत्रैरश्रुवेगपरिप्लुतैः ।  
+[^non-baroDa-CE] अन्योन्यमभिवीक्षन्तेऽव्यक्तमार्ततराः स्त्रियः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1431,7 +1431,7 @@ I am dying with grief, like one abandoned."
 
 <details><summary>मूलम्</summary>
 
-स तेन राजा दुःखेन भृशमर्पितचेतनः ।  
+[^non-baroDa-CE] स तेन राजा दुःखेन भृशमर्पितचेतनः ।  
 अवगाढः सुदुष्पारं शोकसागरमब्रवीत् ॥ २८ ॥
 </details>
 
@@ -1501,9 +1501,9 @@ Completing the metaphor of the ocean of grief—whose submarine fire is Kaikeyī
 श्वसितोर्मिमहावर्तो बाष्पवेगजलाविलः ॥ २९ ॥  
 बाहुविक्षेपमीनोऽसौ विक्रन्दितमहास्वनः ।  
 प्रकीर्णकेशशैवालः कैकेयीवडवामुखः ॥ ३० ॥  
-ममाश्रुवेगप्रभवः कुब्जावाक्यमहाग्रहः ।  
-वरवेलो नृशंसाया रामप्रव्राजनायतः ॥ ३१ ॥  
-यस्मिन् बत निमग्नोऽहं कौसल्ये राघवं विना ।  
+[^non-baroDa-CE] ममाश्रुवेगप्रभवः कुब्जावाक्यमहाग्रहः ।  
+[^non-baroDa-CE] वरवेलो नृशंसाया रामप्रव्राजनायतः ॥ ३१ ॥  
+[^non-baroDa-CE] यस्मिन् बत निमग्नोऽहं कौसल्ये राघवं विना ।  
 दुस्तरो जीवता देवि मयायं शोकसागरः ॥ ३२ ॥
 </details>
 
@@ -1710,3 +1710,4 @@ As the monarch lamented thus in twofold, ever more piteous anguish on account of
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

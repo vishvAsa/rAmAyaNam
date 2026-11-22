@@ -399,7 +399,7 @@ After explaining how the Pitṛdevas attached the ram’s testicles to Indra, Vi
 
 अफलस्तु कृतो मेषः परां तुष्टिं प्रदास्यति ।  
 भवतां हर्षणार्थं च ये च दास्यन्ति मानवाः ।  
-अक्षयं हि फलं तेषां यूयं दास्यथ पुष्कलम् ॥ ७ ॥
+[^non-baroDa-CE] अक्षयं हि फलं तेषां यूयं दास्यथ पुष्कलम् ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -870,7 +870,7 @@ like a flaring Ritual Fir, and Rama has seen such a highly glorious Ahalya. [1-4
 
 सा हि गौतमवाक्येन दुर्निरीक्ष्या बभूव ह ।  
 त्रयाणामपि लोकानां यावद् रामस्य दर्शनम् ।  
-शापस्यान्तमुपागम्य तेषां दर्शनमागता ॥ १६ ॥
+[^non-baroDa-CE] शापस्यान्तमुपागम्य तेषां दर्शनमागता ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1238,3 +1238,4 @@ And Rāma too, having duly received supreme honor from the great sage Gautama, t
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -526,15 +526,15 @@ Having thus made the firm decision, “Tomorrow at dawn” (_evaṃ viniścaya�
 
 <details><summary>मूलम्</summary>
 
-इति सम्प्रविचार्य राजसिंहः  
+[^non-baroDa-CE] इति सम्प्रविचार्य राजसिंहः  
 श्वोभूते शपथस्य निश्चयम् ।  
-विससर्ज मुनीन् नृपांश्च सर्वान्  
-स महात्मा महतो महानुभावः ॥ १७ ॥
+[^non-baroDa-CE] विससर्ज मुनीन् नृपांश्च सर्वान्  
+[^non-baroDa-CE] स महात्मा महतो महानुभावः ॥ १७ ॥
 _________________
-इति सम्प्रविचार्य राजसिंहः  
+[^non-baroDa-CE] इति सम्प्रविचार्य राजसिंहः  
 श्वोभूतो शपथस्य निश्चयम् ।  
-विससर्ज मुनीन् नृपांश्च सर्वान्  
-स महात्मा महतो महानुभावः ॥
+[^non-baroDa-CE] विससर्ज मुनीन् नृपांश्च सर्वान्  
+[^non-baroDa-CE] स महात्मा महतो महानुभावः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -565,3 +565,4 @@ Thus having thoroughly deliberated the firm resolve for the oath on the morrow (
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

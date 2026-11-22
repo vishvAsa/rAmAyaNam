@@ -708,7 +708,7 @@ Though Lakṣmaṇa assured her that Rāghava is invincible in battle even again
 
 <details><summary>मूलम्</summary>
 
-राक्षसेनेरितं वाक्यं त्रासात् त्राहीति शोभने ।  
+[^non-baroDa-CE] राक्षसेनेरितं वाक्यं त्रासात् त्राहीति शोभने ।  
 न भवत्या व्यथा कार्या कुनारीजनसेविता ॥ १३ ॥
 </details>
 
@@ -767,7 +767,7 @@ be Maareecha. [3-59-13]
 अलं विक्लवतां गन्तुं स्वस्था भव निरुत्सुका ।  
 न चास्ति त्रिषु लोकेषु पुमान् यो राघवं रणे ॥ १४ ॥  
 जातो वा जायमानो वा संयुगे यः पराजयेत् ।  
-अजेयो राघवो युद्धे देवैः शक्रपुरोगमैः ॥ १५ ॥
+[^non-baroDa-CE] अजेयो राघवो युद्धे देवैः शक्रपुरोगमैः ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1489,3 +1489,4 @@ here forsaking Maithili." Thus Rama said to Lakshmana on their way to their herm
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

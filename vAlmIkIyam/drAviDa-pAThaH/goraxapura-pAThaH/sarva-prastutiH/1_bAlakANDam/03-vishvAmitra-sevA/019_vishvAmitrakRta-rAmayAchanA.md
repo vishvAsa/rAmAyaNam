@@ -1184,8 +1184,8 @@ Do thus—may all good betide you (_bhadraṃ te_)—and do not set your mind up
 
 <details><summary>मूलम्</summary>
 
-स तन्निशम्य राजेन्द्रो विश्वामित्रवचः शुभम् ॥ २० ॥  
-शोकेन महताविष्टश्चचाल च मुमोह च ।
+[^non-baroDa-CE] स तन्निशम्य राजेन्द्रो विश्वामित्रवचः शुभम् ॥ २० ॥  
+[^non-baroDa-CE] शोकेन महताविष्टश्चचाल च मुमोह च ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1313,3 +1313,4 @@ How are _hṛdaya_ and _manas_ distinguished in _hṛdayamanovidāraṇam_? **Ti
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

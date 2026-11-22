@@ -670,11 +670,11 @@ the mirror, called my perception. [4-46-13]
 
 <details><summary>मूलम्</summary>
 
-पूर्वां दिशं ततो गत्वा पश्यामि विविधान् द्रुमान् ।  
-पर्वतान् सदरीन् रम्यान् सरांसि विविधानि च ॥ १४ ॥
+[^non-baroDa-CE] पूर्वां दिशं ततो गत्वा पश्यामि विविधान् द्रुमान् ।  
+[^non-baroDa-CE] पर्वतान् सदरीन् रम्यान् सरांसि विविधानि च ॥ १४ ॥
 _________________
 पूर्वां दिशं ततो गत्वा पश्यामि विविधान् ध्रुमान् ।  
-पर्वतान् सदरीन् रम्यान् सरांसि विविधानि च ॥
+[^non-baroDa-CE] पर्वतान् सदरीन् रम्यान् सरांसि विविधानि च ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -724,8 +724,8 @@ ca* = numerous, lakes, also; *pashyaami* = I saw.
 
 <details><summary>मूलम्</summary>
 
-उदयं तत्र पश्यामि पर्वतं धातुमण्डितम् ।  
-क्षीरोदं सागरं चैव नित्यमप्सरसालयम् ॥ १५ ॥
+[^non-baroDa-CE] उदयं तत्र पश्यामि पर्वतं धातुमण्डितम् ।  
+[^non-baroDa-CE] क्षीरोदं सागरं चैव नित्यमप्सरसालयम् ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -775,11 +775,11 @@ Water Oceans which is forever an abode for apsara-s. [4-46-15]
 
 <details><summary>मूलम्</summary>
 
-परिकाल्यमानस्तु तदा वालिनाभिद्रुतो ह्यहम् ।  
-पुनरावृत्य सहसा प्रस्थितोऽहं तदा विभो ॥ १६ ॥
+[^non-baroDa-CE] परिकाल्यमानस्तु तदा वालिनाभिद्रुतो ह्यहम् ।  
+[^non-baroDa-CE] पुनरावृत्य सहसा प्रस्थितोऽहं तदा विभो ॥ १६ ॥
 _________________
 परिकाल्यमानस्तदा वालिनाभिद्रुतो ह्यहम् ।  
-पुनरावृत्य सहसा प्रस्थितोऽहं तदा विभो ॥
+[^non-baroDa-CE] पुनरावृत्य सहसा प्रस्थितोऽहं तदा विभो ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -830,7 +830,7 @@ travel - chased to flee.
 
 <details><summary>मूलम्</summary>
 
-दिशस्तस्यास्ततो भूयः प्रस्थितो दक्षिणां दिशम् ।  
+[^non-baroDa-CE] दिशस्तस्यास्ततो भूयः प्रस्थितो दक्षिणां दिशम् ।  
 विन्ध्यपादपसङ्कीर्णां चन्दनद्रुमशोभिताम् ॥ १७ ॥
 </details>
 
@@ -881,8 +881,8 @@ diverse trees, especially with sandalwood trees. [4-46-17]
 
 <details><summary>मूलम्</summary>
 
-द्रुमशैलान्तरे पश्यन् भूयो दक्षिणतोऽपराम् ।  
-अपरां च दिशं प्राप्तो वालिना समभिद्रुतः ॥ १८ ॥
+[^non-baroDa-CE] द्रुमशैलान्तरे पश्यन् भूयो दक्षिणतोऽपराम् ।  
+[^non-baroDa-CE] अपरां च दिशं प्राप्तो वालिना समभिद्रुतः ॥ १८ ॥
 _________________
 द्रुमशैलान्तरे पश्यन्भूयो दक्षिणतोऽपरान् ।  
 पश्चिमां च दिशं प्राप्तो वालिना समभिद्रुतः ॥
@@ -944,8 +944,8 @@ Finding no refuge at Mount Asta, Himavān, Meru, or the northern ocean, Sugrīva
 
 <details><summary>मूलम्</summary>
 
-स पश्यन् विविधान् देशानस्तं च गिरिसत्तमम् ।  
-प्राप्य चास्तं गिरिश्रेष्ठमुत्तरं सम्प्रधावितः ॥ १९ ॥
+[^non-baroDa-CE] स पश्यन् विविधान् देशानस्तं च गिरिसत्तमम् ।  
+[^non-baroDa-CE] प्राप्य चास्तं गिरिश्रेष्ठमुत्तरं सम्प्रधावितः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -997,12 +997,12 @@ Dusk also, and since Vali is at my heel, I took to my heels, by a long way to no
 
 <details><summary>मूलम्</summary>
 
-हिमवन्तं च मेरुं च समुद्रं च तथोत्तरम् ।  
-यदा न विन्दे शरणं वालिना समभिद्रुतः ॥ २० ॥  
+[^non-baroDa-CE] हिमवन्तं च मेरुं च समुद्रं च तथोत्तरम् ।  
+[^non-baroDa-CE] यदा न विन्दे शरणं वालिना समभिद्रुतः ॥ २० ॥  
 ततो मां बुद्धिसम्पन्नो हनुमान् वाक्यमब्रवीत् ।
 _________________
 हिमवन्तं च मेरुं च समुद्रं च तथोत्तम् ।  
-यदा न विन्दे शरणं वालिना समभिद्रुतः ॥  
+[^non-baroDa-CE] यदा न विन्दे शरणं वालिना समभिद्रुतः ॥  
 ततो मां बुद्धिसम्पन्नो हनुमान् वाक्यमब्रवीत् ।
 </details>
 
@@ -1209,3 +1209,5 @@ its entirety, and then I came into the cave of Rishyamuka and did not stir out."
 “Vālī did not enter there at that time out of fear of Mataṅga. Thus, O king, the entire circle of the earth was beheld by me firsthand (_pratyakṣam upalakṣitam_), and thereafter I came to this cavern.”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

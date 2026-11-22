@@ -310,8 +310,8 @@ In front of that hall, Bharata then beheld faggots of wood broken for the fire a
 
 <details><summary>मूलम्</summary>
 
-स लक्ष्मणस्य रामस्य ददर्शाश्रममीयुषः ।  
-कृतं वृक्षेष्वभिज्ञानं कुशचीरैः क्वचित् क्वचित् ॥ ६ ॥
+[^non-baroDa-CE] स लक्ष्मणस्य रामस्य ददर्शाश्रममीयुषः ।  
+[^non-baroDa-CE] कृतं वृक्षेष्वभिज्ञानं कुशचीरैः क्वचित् क्वचित् ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2160,3 +2160,4 @@ Beholding those princes, who resembled leaders of elephant herds, reunited there
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

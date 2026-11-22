@@ -422,7 +422,7 @@ Hearing those words of his, Lakṣmaṇa, prompted by Rāma (_rāmacoditaḥ_), 
 <details><summary>मूलम्</summary>
 
 राजा दशरथो नाम द्युतिमान् धर्मवत्सलः ।  
-चातुर्वर्ण्यं स्वधर्मेण नित्यमेवाभिपालयन् ॥ ६ ॥
+[^non-baroDa-CE] चातुर्वर्ण्यं स्वधर्मेण नित्यमेवाभिपालयन् ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -483,7 +483,7 @@ Lakṣmaṇa extols King Daśaratha's sacrifices and introduces Rāma as his eld
 <details><summary>मूलम्</summary>
 
 न द्वेष्टा विद्यते तस्य स तु द्वेष्टि न कञ्चन ।  
-स तु सर्वेषु भूतेषु पितामह इवापरः ॥ ७ ॥
+[^non-baroDa-CE] स तु सर्वेषु भूतेषु पितामह इवापरः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -533,7 +533,7 @@ like the Grandparent Brahma on earth... [4-4-7]
 
 <details><summary>मूलम्</summary>
 
-अग्निष्टोमादिभिर्यज्ञैरिष्टवानाप्तदक्षिणैः ।  
+[^non-baroDa-CE] अग्निष्टोमादिभिर्यज्ञैरिष्टवानाप्तदक्षिणैः ।  
 तस्यायं पूर्वजः पुत्रो रामो नाम जनैः श्रुतः ॥ ८ ॥
 </details>
 
@@ -621,10 +621,10 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-राजलक्षणसंयुक्तः संयुक्तो राज्यसम्पदा ।  
+[^non-baroDa-CE] राजलक्षणसंयुक्तः संयुक्तो राज्यसम्पदा ।  
 राज्याद् भ्रष्टो मया वस्तुं वने सार्धमिहागतः ॥ १० ॥
 _________________
-राजलक्षणसंयुक्तः संयुक्तो राज्यसम्पदा ।  
+[^non-baroDa-CE] राजलक्षणसंयुक्तः संयुक्तो राज्यसम्पदा ।  
 राज्याद्भ्रष्टो मया वस्तुं ने सार्धमिहागतः ॥
 </details>
 
@@ -1051,10 +1051,10 @@ Emphasizing the poignant reversal of fortune, Lakṣmaṇa pleads that Rāma—w
 
 <details><summary>मूलम्</summary>
 
-सीता यस्य स्नुषा चासीच्छरण्यो धर्मवत्सलः ।  
-तस्य पुत्रः शरण्यश्च सुग्रीवं शरणं गतः ॥ १९ ॥
+[^non-baroDa-CE] सीता यस्य स्नुषा चासीच्छरण्यो धर्मवत्सलः ।  
+[^non-baroDa-CE] तस्य पुत्रः शरण्यश्च सुग्रीवं शरणं गतः ॥ १९ ॥
 _________________
-सीता यस्य स्नुषा चासीच्छरण्यो धर्मवत्सलः ।  
+[^non-baroDa-CE] सीता यस्य स्नुषा चासीच्छरण्यो धर्मवत्सलः ।  
 तस्य पुत्रः शरणस्य सुग्रीवं शरणं गतः ॥
 </details>
 
@@ -1106,8 +1106,8 @@ daughter-in-law, such a shelterer's son Rama is now taking shelter under Sugreev
 
 <details><summary>मूलम्</summary>
 
-सर्वलोकस्य धर्मात्मा शरण्यः शरणं पुरा ।  
-गुरुर्मे राघवः सोऽयं सुग्रीवं शरणं गतः ॥ २० ॥
+[^non-baroDa-CE] सर्वलोकस्य धर्मात्मा शरण्यः शरणं पुरा ।  
+[^non-baroDa-CE] गुरुर्मे राघवः सोऽयं सुग्रीवं शरणं गतः ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1153,7 +1153,7 @@ for all in earlier times... such a Raaghava, my mentor, is now seeking refuge wi
 
 <details><summary>मूलम्</summary>
 
-यस्य प्रसादे सततं प्रसीदेयुरिमाः प्रजाः ।  
+[^non-baroDa-CE] यस्य प्रसादे सततं प्रसीदेयुरिमाः प्रजाः ।  
 स रामो वानरेन्द्रस्य प्रसादमभिकाङ्क्षते ॥ २१ ॥
 </details>
 
@@ -1207,13 +1207,13 @@ seeking benefaction from the lord of monkeys... [4-4-21]
 
 <details><summary>मूलम्</summary>
 
-येन सर्वगुणोपेताः पृथिव्यां सर्वपार्थिवाः ।  
-मानिताः सततं राज्ञा सदा दशरथेन वै ॥ २२ ॥  
-तस्यायं पूर्वजः पुत्रस्त्रिषु लोकेषु विश्रुतः ।  
-सुग्रीवं वानरेन्द्रं तु रामः शरणमागतः ॥ २३ ॥
+[^non-baroDa-CE] येन सर्वगुणोपेताः पृथिव्यां सर्वपार्थिवाः ।  
+[^non-baroDa-CE] मानिताः सततं राज्ञा सदा दशरथेन वै ॥ २२ ॥  
+[^non-baroDa-CE] तस्यायं पूर्वजः पुत्रस्त्रिषु लोकेषु विश्रुतः ।  
+[^non-baroDa-CE] सुग्रीवं वानरेन्द्रं तु रामः शरणमागतः ॥ २३ ॥
 _________________
-येन सर्वगुणोपेताः पृथिव्यां सर्वपार्थिवाः ।  
-मानिताः सततं राज्ञा सदा दशरथेन वै ॥
+[^non-baroDa-CE] येन सर्वगुणोपेताः पृथिव्यां सर्वपार्थिवाः ।  
+[^non-baroDa-CE] मानिताः सततं राज्ञा सदा दशरथेन वै ॥
 तस्यायं पूर्वजः पुत्रसिषु लोकेषु विश्रुतः ।  
 सुग्रीवं वानरेद्रं तु रामः शरणमागतः ॥
 </details>
@@ -1832,8 +1832,8 @@ Then that exceedingly wise (_sumahāprājñaḥ_) Hanūmān, son of the Wind-god
 
 <details><summary>मूलम्</summary>
 
-भिक्षुरूपं परित्यज्य वानरं रूपमास्थितः ।  
-पृष्ठमारोप्य तौ वीरौ जगाम कपिकुञ्जरः ॥ ३४ ॥
+[^non-baroDa-CE] भिक्षुरूपं परित्यज्य वानरं रूपमास्थितः ।  
+[^non-baroDa-CE] पृष्ठमारोप्य तौ वीरौ जगाम कपिकुञ्जरः ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1946,3 +1946,4 @@ Of vast renown (_vipulayaśāḥ_), that foremost hero among apes, the son of th
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

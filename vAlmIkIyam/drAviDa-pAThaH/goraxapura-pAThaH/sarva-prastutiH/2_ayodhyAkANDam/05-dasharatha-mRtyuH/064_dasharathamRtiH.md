@@ -47,7 +47,7 @@ Lamenting the dreadful slaying of the young ascetic, Daśaratha recounts to Kaus
 
 <details><summary>मूलम्</summary>
 
-वधमप्रतिरूपं तु महर्षेस्तस्य राघवः ।  
+[^non-baroDa-CE] वधमप्रतिरूपं तु महर्षेस्तस्य राघवः ।  
 विलपन्नेव धर्मात्मा कौसल्यामिदमब्रवीत् ॥ १ ॥
 </details>
 
@@ -291,10 +291,10 @@ their son, because of me."
 
 <details><summary>मूलम्</summary>
 
-शोकोपहतचित्तश्च भयसन्त्रस्तचेतनः ।  
+[^non-baroDa-CE] शोकोपहतचित्तश्च भयसन्त्रस्तचेतनः ।  
 तच्चाश्रमपदं गत्वा भूयः शोकमहं गतः ॥ ६ ॥
 _________________
-शोकोपहतचित्तश्च भयसन्त्रस्तचेतनः ।  
+[^non-baroDa-CE] शोकोपहतचित्तश्च भयसन्त्रस्तचेतनः ।  
 तच्छाश्रमपदं गत्वा भूयः शोकमहं गतः ॥
 </details>
 
@@ -876,7 +876,7 @@ the ground, with the arrow pierced into his heart."
 
 <details><summary>मूलम्</summary>
 
-ततस्तस्यैव वचनादुपेत्य परितप्यतः ।  
+[^non-baroDa-CE] ततस्तस्यैव वचनादुपेत्य परितप्यतः ।  
 स मया सहसा बाण उद्‍धृतो मर्मतस्तदा ॥ १७ ॥
 </details>
 
@@ -2038,8 +2038,8 @@ both of us also will come soon along with you to Yama's abode."
 
 <details><summary>मूलम्</summary>
 
-दातुमर्हति धर्मात्मा लोकपालो महायशाः ।  
-ईदृशस्य ममाक्षय्यामेकामभयदक्षिणाम् ॥ ३९ ॥
+[^non-baroDa-CE] दातुमर्हति धर्मात्मा लोकपालो महायशाः ।  
+[^non-baroDa-CE] ईदृशस्य ममाक्षय्यामेकामभयदक्षिणाम् ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2294,7 +2294,7 @@ Nahusha and Dundumara."
 <details><summary>मूलम्</summary>
 
 नहि त्वस्मिन् कुले जातो गच्छत्यकुशलां गतिम् ।  
-स तु यास्यति येन त्वं निहतो मम बान्धवः ॥ ४५ ॥
+[^non-baroDa-CE] स तु यास्यति येन त्वं निहतो मम बान्धवः ॥ ४५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2403,7 +2403,7 @@ who killed you, my son, will obtain that bad destiny."
 <details><summary>मूलम्</summary>
 
 स तु दिव्येन रूपेण मुनिपुत्रः स्वकर्मभिः ।  
-स्वर्गमध्यारुहत् क्षिप्रं शक्रेण सह धर्मवित् ॥ ४७ ॥
+[^non-baroDa-CE] स्वर्गमध्यारुहत् क्षिप्रं शक्रेण सह धर्मवित् ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2843,10 +2843,10 @@ The blind ascetic curses Daśaratha to die of grief for his son just as he himse
 
 <details><summary>मूलम्</summary>
 
-अज्ञानात्तु हतो यस्मात् क्षत्रियेण त्वया मुनिः ।  
-तस्मात् त्वां नाविशत्याशु ब्रह्महत्या नराधिप ॥ ५५ ॥  
-त्वामप्येतादृशो भावः क्षिप्रमेव गमिष्यति ।  
-जीवितान्तकरो घोरो दातारमिव दक्षिणाम् ॥ ५६ ॥
+[^non-baroDa-CE] अज्ञानात्तु हतो यस्मात् क्षत्रियेण त्वया मुनिः ।  
+[^non-baroDa-CE] तस्मात् त्वां नाविशत्याशु ब्रह्महत्या नराधिप ॥ ५५ ॥  
+[^non-baroDa-CE] त्वामप्येतादृशो भावः क्षिप्रमेव गमिष्यति ।  
+[^non-baroDa-CE] जीवितान्तकरो घोरो दातारमिव दक्षिणाम् ॥ ५६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2908,8 +2908,8 @@ ignorance, the son of killing a Brahmin will not take possession of you."
 
 <details><summary>मूलम्</summary>
 
-एवं शापं मयि न्यस्य विलप्य करुणं बहु ।  
-चितामारोप्य देहं तन्मिथुनं स्वर्गमभ्ययात् ॥ ५७ ॥
+[^non-baroDa-CE] एवं शापं मयि न्यस्य विलप्य करुणं बहु ।  
+[^non-baroDa-CE] चितामारोप्य देहं तन्मिथुनं स्वर्गमभ्ययात् ॥ ५७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3004,7 +3004,7 @@ their body on the funeral pile and proceeded to heaven."
 <details><summary>मूलम्</summary>
 
 तस्यायं कर्मणो देवि विपाकः समुपस्थितः ।  
-अपथ्यैः सह सम्भुक्ते व्याधिरन्नरसे यथा ॥ ५९ ॥  
+[^non-baroDa-CE] अपथ्यैः सह सम्भुक्ते व्याधिरन्नरसे यथा ॥ ५९ ॥  
 तस्मान्मामागतं भद्रे तस्योदारस्य तद् वचः ।
 </details>
 
@@ -3137,11 +3137,11 @@ life due to grief for the loss of my son, have come true to me now."
 
 <details><summary>मूलम्</summary>
 
-यमक्षयमनुप्राप्ता द्रक्ष्यन्ति नहि मानवाः ।  
+[^non-baroDa-CE] यमक्षयमनुप्राप्ता द्रक्ष्यन्ति नहि मानवाः ।  
 यदि मां संस्पृशेद् रामः सकृदन्वारभेत वा ॥ ६२ ॥  
 धनं वा यौवराज्यं वा जीवेयमिति मे मतिः ।
 _________________
-यमक्षयमनुप्राप्ता द्रक्ष्यन्ति नहि मानवाः ।  
+[^non-baroDa-CE] यमक्षयमनुप्राप्ता द्रक्ष्यन्ति नहि मानवाः ।  
 यदि मां संस्पृश्रेद्रामः सकृदन्वार भेत वा ॥  
 धनं वा यौवराज्यं वा जीवेयमिति मे मतिः ।
 </details>
@@ -3195,7 +3195,7 @@ King Dasaratha, terribly weeping said to his wife as follows:
 <details><summary>मूलम्</summary>
 
 न तन्मे सदृशं देवि यन्मया राघवे कृतम् ॥ ६३ ॥  
-सदृशं तत्तु तस्यैव यदनेन कृतं मयि ।
+[^non-baroDa-CE] सदृशं तत्तु तस्यैव यदनेन कृतं मयि ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3247,8 +3247,8 @@ But the good that was done by Rama in my case was worthy only of him."
 
 <details><summary>मूलम्</summary>
 
-दुर्वृत्तमपि कः पुत्रं त्यजेद् भुवि विचक्षणः ॥ ६४ ॥  
-कश्च प्रव्राज्यमानो वा नासूयेत् पितरं सुतः ।
+[^non-baroDa-CE] दुर्वृत्तमपि कः पुत्रं त्यजेद् भुवि विचक्षणः ॥ ६४ ॥  
+[^non-baroDa-CE] कश्च प्रव्राज्यमानो वा नासूयेत् पितरं सुतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3909,7 +3909,7 @@ Envying those who will see Rāma return to Ayodhyā like the planet Venus re-ent
 <details><summary>मूलम्</summary>
 
 कौसल्ये चित्तमोहेन हृदयं सीदतेतराम् ॥ ७२ ॥  
-वेदये न च संयुक्तान् शब्दस्पर्शरसानहम् ।
+[^non-baroDa-CE] वेदये न च संयुक्तान् शब्दस्पर्शरसानहम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4120,7 +4120,7 @@ Crying out in agony to Rāma, bidding farewell to Kausalyā and Sumitrā, and re
 <details><summary>मूलम्</summary>
 
 हा कौसल्ये न पश्यामि हा सुमित्रे तपस्विनि ।  
-हा नृशंसे ममामित्रे कैकेयि कुलपांसनि ॥ ७६ ॥
+[^non-baroDa-CE] हा नृशंसे ममामित्रे कैकेयि कुलपांसनि ॥ ७६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4280,3 +4280,4 @@ the presence of Kausalya and Sumitra.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

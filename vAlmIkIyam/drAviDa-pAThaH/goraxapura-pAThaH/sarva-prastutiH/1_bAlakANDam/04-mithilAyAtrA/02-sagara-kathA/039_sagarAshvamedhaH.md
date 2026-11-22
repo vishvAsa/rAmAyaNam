@@ -158,7 +158,7 @@ I am interested to listen this episode exhaustively, oh, Brahman, let
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् वचनं श्रुत्वा कौतूहलसमन्वितः ।  
+[^non-baroDa-CE] तस्य तद् वचनं श्रुत्वा कौतूहलसमन्वितः ।  
 विश्वामित्रस्तु काकुत्स्थमुवाच प्रहसन्निव ॥ ३ ॥
 </details>
 
@@ -856,11 +856,11 @@ Failing to find the horse on the surface of the earth, the sixty thousand sons o
 
 <details><summary>मूलम्</summary>
 
-गत्वा तु पृथिवीं सर्वामदृष्ट्वा तं महाबलाः ।  
+[^non-baroDa-CE] गत्वा तु पृथिवीं सर्वामदृष्ट्वा तं महाबलाः ।  
 योजनायामविस्तारमेकैको धरणीतलम् ।  
 बिभिदुः पुरुषव्याघ्रा वज्रस्पर्शसमैर्भुजैः ॥ १८ ॥
 _________________
-गत्वा तु पृथिवीं सर्वामदृष्ट्वा तं महाबलाः ।  
+[^non-baroDa-CE] गत्वा तु पृथिवीं सर्वामदृष्ट्वा तं महाबलाः ।  
 योजनायामविस्तारमेकैको धरणीतलम् ।  
 बिभिदुः पुरुषव्याघ्र वज्रस्पर्शसमैर्भुजैः ॥
 </details>
@@ -1386,3 +1386,4 @@ They the gods who are very highly scared, and who are chap-fallen,
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

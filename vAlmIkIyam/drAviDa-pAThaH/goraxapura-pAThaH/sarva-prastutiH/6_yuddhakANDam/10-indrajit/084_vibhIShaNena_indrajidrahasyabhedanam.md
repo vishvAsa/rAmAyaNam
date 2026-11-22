@@ -639,7 +639,7 @@ Unmasking the slain woman as a phantom conjured to stall the Vānaras, Vibhīṣ
 <details><summary>मूलम्</summary>
 
 वानरान् मोहयित्वा तु प्रतियातः स राक्षसः ।  
-मायामयीं महाबाहो तां विद्धि जनकात्मजाम् ॥ १३ ॥
+[^non-baroDa-CE] मायामयीं महाबाहो तां विद्धि जनकात्मजाम् ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1183,3 +1183,4 @@ For once that bull among Rākṣasas has completed his ritual (_samāpta-karmā 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -137,7 +137,7 @@ After the lapse of some time (_kasyacit tv atha kālasya_), Yudhājit, the king 
 
 <details><summary>मूलम्</summary>
 
-तथा सम्पूज्य तमृषिं तद् धनं प्रतिगृह्य च ।  
+[^non-baroDa-CE] तथा सम्पूज्य तमृषिं तद् धनं प्रतिगृह्य च ।  
 पृष्ट्वा प्रतिपदं सर्वं कुशलं मातुलस्य च ॥ ६ ॥  
 उपविष्टं महाभागं रामः प्रष्टुं प्रचक्रमे ।
 </details>
@@ -752,3 +752,4 @@ Having journeyed on the road for a month and a half (_adhyardhamāsam uṣitā p
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

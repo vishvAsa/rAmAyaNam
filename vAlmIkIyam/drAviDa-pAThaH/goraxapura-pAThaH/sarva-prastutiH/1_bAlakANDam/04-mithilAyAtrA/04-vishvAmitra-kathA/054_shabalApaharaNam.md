@@ -997,7 +997,7 @@ At Vasiṣṭha’s command “Create!” (_sṛjasva_), Śabalā emits from her
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् वचनं श्रुत्वा सुरभिः सासृजत् तदा ।  
+[^non-baroDa-CE] तस्य तद् वचनं श्रुत्वा सुरभिः सासृजत् तदा ।  
 तस्या हुम्भारवोत्सृष्टाः पह्लवाः शतशो नृप ॥ १८ ॥
 </details>
 
@@ -1224,7 +1224,7 @@ Seeing the _Pahlavas_ harried (_arditāḥ pīḍitāḥ_, **Tilaka**; _hiṃsit
 तीक्ष्णासिपट्टिशधरैर्हेमवर्णाम्बरावृतैः ॥ २२ ॥  
 निर्दग्धं तद‍्बलं सर्वं प्रदीप्तैरिव पावकैः ।  
 ततोऽस्त्राणि महातेजा विश्वामित्रो मुमोच ह ।  
-तैस्ते यवनकाम्बोजा बर्बराश्चाकुलीकृताः ॥ २३ ॥
+[^non-baroDa-CE] तैस्ते यवनकाम्बोजा बर्बराश्चाकुलीकृताः ॥ २३ ॥
 _________________
 प्रभावद्भिर्महावीर्यैर्हेमकिञ्जल्कसन्निभैः ।  
 तीक्ष्णासिपट्टिशधरैर्हेमवर्णाम्बरावृतैः ॥
@@ -1319,3 +1319,4 @@ As these golden-clad hosts consume Viśvāmitra’s army like blazing fires (_pr
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

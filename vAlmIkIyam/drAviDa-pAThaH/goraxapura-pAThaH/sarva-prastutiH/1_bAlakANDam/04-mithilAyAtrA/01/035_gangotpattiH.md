@@ -321,8 +321,8 @@ Marching a great distance past diverse woodlands after fording the Śoṇa, the 
 
 <details><summary>मूलम्</summary>
 
-एवमुक्ता महर्षयो विश्वामित्रेण धीमता ।  
-पश्यन्तस्ते प्रयाता वै वनानि विविधानि च ॥ ६ ॥
+[^non-baroDa-CE] एवमुक्ता महर्षयो विश्वामित्रेण धीमता ।  
+[^non-baroDa-CE] पश्यन्तस्ते प्रयाता वै वनानि विविधानि च ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -575,7 +575,7 @@ Seated around Viśvāmitra on the bank of the Jāhnavī, Rāma asks how the thre
 
 <details><summary>मूलम्</summary>
 
-विष्ठिताश्च यथान्यायं राघवौ च यथार्हतः ।  
+[^non-baroDa-CE] विष्ठिताश्च यथान्यायं राघवौ च यथार्हतः ।  
 सम्प्रहृष्टमना रामो विश्वामित्रमथाब्रवीत् ॥ ११ ॥
 </details>
 
@@ -1252,8 +1252,8 @@ Bestowed by the lord of mountains upon the peerless Rudra (_rudrāyāpratirūpā
 
 एतत् ते सर्वमाख्यातं यथा त्रिपथगामिनी ।  
 खं गता प्रथमं तात गतिं गतिमतां वर ॥ २३ ॥  
-सैषा सुरनदी रम्या शैलेन्द्रतनया तदा ।  
-सुरलोकं समारूढा विपापा जलवाहिनी ॥ २४ ॥
+[^non-baroDa-CE] सैषा सुरनदी रम्या शैलेन्द्रतनया तदा ।  
+[^non-baroDa-CE] सुरलोकं समारूढा विपापा जलवाहिनी ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1351,3 +1351,4 @@ Flowing as a sacred stream (_jalavāhinī_), the enchanting daughter of the moun
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

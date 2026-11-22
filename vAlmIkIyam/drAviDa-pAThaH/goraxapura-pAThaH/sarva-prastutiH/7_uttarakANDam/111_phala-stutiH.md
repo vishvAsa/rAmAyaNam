@@ -67,7 +67,7 @@ Such is the full extent of this sacred narrative together with its Uttarakāṇ�
 <details><summary>मूलम्</summary>
 
 ततः प्रतिष्ठितो विष्णुः स्वर्गलोके यथा पुरा ।  
-येन व्याप्तमिदं सर्वं त्रैलोक्यं सचराचरम् ॥ २ ॥
+[^non-baroDa-CE] येन व्याप्तमिदं सर्वं त्रैलोक्यं सचराचरम् ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -99,7 +99,7 @@ Thereupon Viṣṇu, by whom this entire threefold universe of moving and unmovi
 
 <details><summary>मूलम्</summary>
 
-ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
+[^non-baroDa-CE] ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 नित्यं शृण्वन्ति संहृष्टाः काव्यं रामायणं दिवि ॥ ३ ॥
 </details>
 
@@ -132,10 +132,10 @@ Thereafter the gods together with the gandharvas, the siddhas, and the supreme s
 
 <details><summary>मूलम्</summary>
 
-इदमाख्यानमायुष्यं सौभाग्यं पापनाशनम् ।  
-रामायणं वेदसमं श्राद्धेषु श्रावयेद् बुधः ॥ ४ ॥
+[^non-baroDa-CE] इदमाख्यानमायुष्यं सौभाग्यं पापनाशनम् ।  
+[^non-baroDa-CE] रामायणं वेदसमं श्राद्धेषु श्रावयेद् बुधः ॥ ४ ॥
 _________________
-इदमाख्यानमायुष्यं सौभाग्यं पापनाशनम् ।  
+[^non-baroDa-CE] इदमाख्यानमायुष्यं सौभाग्यं पापनाशनम् ।  
 रामायणं वेदसमं श्राद्धेषु श्रावयेद्भुधः ॥
 </details>
 
@@ -168,7 +168,7 @@ This narrative bestows long life, good fortune, and the destruction of sin (_ida
 
 <details><summary>मूलम्</summary>
 
-अपुत्रो लभते पुत्रमधनो लभते धनम् ।  
+[^non-baroDa-CE] अपुत्रो लभते पुत्रमधनो लभते धनम् ।  
 सर्वपापैः प्रमुच्येत पादमप्यस्य यः पठेत् ॥ ५ ॥
 </details>
 
@@ -201,8 +201,8 @@ One without a son obtains a son, and one without wealth obtains wealth (_aputro 
 
 <details><summary>मूलम्</summary>
 
-पापान्यपि च यः कुर्यादहन्यहनि मानवः ।  
-पठत्येकमपि श्लोकं पापात् स परिमुच्यते ॥ ६ ॥
+[^non-baroDa-CE] पापान्यपि च यः कुर्यादहन्यहनि मानवः ।  
+[^non-baroDa-CE] पठत्येकमपि श्लोकं पापात् स परिमुच्यते ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -243,7 +243,7 @@ Honoring the reciter with garments, a cow, and gold pleases all the gods; the po
 <details><summary>मूलम्</summary>
 
 वाचकाय च दातव्यं वस्त्रं धेनुहिरण्यकम् ।  
-वाचके परितुष्टे तु तुष्टाः स्युः सर्वदेवताः ॥ ७ ॥
+[^non-baroDa-CE] वाचके परितुष्टे तु तुष्टाः स्युः सर्वदेवताः ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -275,8 +275,8 @@ To the reciter one should present garments, a cow, and gold (_vācakāya ca dāt
 
 <details><summary>मूलम्</summary>
 
-एतदाख्यानमायुष्यं पठन् रामायणं नरः ।  
-सपुत्रपौत्रो लोकेऽस्मिन् प्रेत्य चेह महीयते ॥ ८ ॥
+[^non-baroDa-CE] एतदाख्यानमायुष्यं पठन् रामायणं नरः ।  
+[^non-baroDa-CE] सपुत्रपौत्रो लोकेऽस्मिन् प्रेत्य चेह महीयते ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -340,7 +340,7 @@ Even the lovely city of Ayodhyā, after lying deserted for many cycles of years 
 <details><summary>मूलम्</summary>
 
 अयोध्यापि पुरी रम्या शून्या वर्षगणान् बहून् ।  
-ऋषभं प्राप्य राजानं निवासमुपयास्यति ॥ १० ॥
+[^non-baroDa-CE] ऋषभं प्राप्य राजानं निवासमुपयास्यति ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -370,8 +370,8 @@ This life-giving narrative, together with its future events and its Uttarakāṇ
 
 <details><summary>मूलम्</summary>
 
-एतदाख्यानमायुष्यं सभविष्यं सहोत्तरम् ।  
-कृतवान् प्रचेतसः पुत्रस्तद् ब्रह्माप्यन्वमन्यत ॥ ११ ॥
+[^non-baroDa-CE] एतदाख्यानमायुष्यं सभविष्यं सहोत्तरम् ।  
+[^non-baroDa-CE] कृतवान् प्रचेतसः पुत्रस्तद् ब्रह्माप्यन्वमन्यत ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -401,7 +401,7 @@ The merit of a thousand Aśvamedha sacrifices and ten thousand Vājapeyas (_aśv
 
 <details><summary>मूलम्</summary>
 
-अश्वमेधसहस्रस्य वाजपेयायुतस्य च ।  
+[^non-baroDa-CE] अश्वमेधसहस्रस्य वाजपेयायुतस्य च ।  
 लभते श्रवणादेव सर्गस्यैकस्य मानवः ॥ १२ ॥
 </details>
 
@@ -441,9 +441,9 @@ Hearing the Rāmāyaṇa matches gifting a weight of gold at Kurukṣetra during
 
 <details><summary>मूलम्</summary>
 
-प्रयागादीनि तीर्थानि गङ्गाद्याः सरितस्तथा ।  
+[^non-baroDa-CE] प्रयागादीनि तीर्थानि गङ्गाद्याः सरितस्तथा ।  
 नैमिषादीन्यरण्यानि कुरुक्षेत्रादिकान्यपि ॥ १३ ॥  
-गतानि तेन लोकेऽस्मिन् येन रामायणं श्रुतम् ।
+[^non-baroDa-CE] गतानि तेन लोकेऽस्मिन् येन रामायणं श्रुतम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -473,8 +473,8 @@ He who bestows a bhāra-weight of gold at Kurukṣetra during a solar eclipse (_
 
 <details><summary>मूलम्</summary>
 
-हेमभारं कुरुक्षेत्रे ग्रस्ते भानौ प्रयच्छति ॥ १४ ॥  
-यश्च रामायणं लोके शृणोति सदृशावुभौ ।
+[^non-baroDa-CE] हेमभारं कुरुक्षेत्रे ग्रस्ते भानौ प्रयच्छति ॥ १४ ॥  
+[^non-baroDa-CE] यश्च रामायणं लोके शृणोति सदृशावुभौ ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -505,7 +505,7 @@ He who, endowed with true and steadfast faith (_samyak-chraddhā-samāyuktaḥ_)
 <details><summary>मूलम्</summary>
 
 सम्यक‍्श्रद्धासमायुक्तः शृणुते राघवीं कथाम् ॥ १५ ॥  
-सर्वपापात् प्रमुच्येत विष्णुलोकं स गच्छति ।
+[^non-baroDa-CE] सर्वपापात् प्रमुच्येत विष्णुलोकं स गच्छति ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -535,8 +535,8 @@ Whoever listens ever with devotion (_yaḥ śṛṇoti sadā bhaktyā_) to this 
 
 <details><summary>मूलम्</summary>
 
-आदिकाव्यमिदं त्वार्षं पुरा वाल्मीकिना कृतम् ॥ १६ ॥  
-यः शृणोति सदा भ‍क्त्या स गच्छेद् वैष्णवीं तनुम् ।
+[^non-baroDa-CE] आदिकाव्यमिदं त्वार्षं पुरा वाल्मीकिना कृतम् ॥ १६ ॥  
+[^non-baroDa-CE] यः शृणोति सदा भ‍क्त्या स गच्छेद् वैष्णवीं तनुम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -567,9 +567,9 @@ His sons and wives prosper, as do his riches and his lineage (_putra-dārāś ca
 
 <details><summary>मूलम्</summary>
 
-पुत्रदाराश्च वर्धन्ते सम्पदः सन्ततिस्तथा ॥ १७ ॥  
-सत्यमेतद् विदित्वा तु श्रोतव्यं नियतात्मभिः ।  
-गायत्र्याश्च स्वरूपं तद् रामायणमनुत्तमम् ॥ १८ ॥
+[^non-baroDa-CE] पुत्रदाराश्च वर्धन्ते सम्पदः सन्ततिस्तथा ॥ १७ ॥  
+[^non-baroDa-CE] सत्यमेतद् विदित्वा तु श्रोतव्यं नियतात्मभिः ।  
+[^non-baroDa-CE] गायत्र्याश्च स्वरूपं तद् रामायणमनुत्तमम् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -609,8 +609,8 @@ Whoever meditates daily on Rāghava and recites his complete life attains Viṣ�
 
 <details><summary>मूलम्</summary>
 
-यः पठेच्छृणुयान्नित्यं चरितं राघवस्य ह ।  
-भक्त्या निष्कल्मषो भूत्वा दीर्घमायुरवाप्नुयात् ॥ १९ ॥
+[^non-baroDa-CE] यः पठेच्छृणुयान्नित्यं चरितं राघवस्य ह ।  
+[^non-baroDa-CE] भक्त्या निष्कल्मषो भूत्वा दीर्घमायुरवाप्नुयात् ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -640,8 +640,8 @@ Whoever desires to attain the highest good (_śreyaḥ prāptuṃ ya icchati_) s
 
 <details><summary>मूलम्</summary>
 
-चिन्तयेद् राघवं नित्यं श्रेयः प्राप्तुं य इच्छति ।  
-श्रावयेदिदमाख्यानं ब्राह्मणेभ्यो दिने दिने ॥ २० ॥
+[^non-baroDa-CE] चिन्तयेद् राघवं नित्यं श्रेयः प्राप्तुं य इच्छति ।  
+[^non-baroDa-CE] श्रावयेदिदमाख्यानं ब्राह्मणेभ्यो दिने दिने ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -671,8 +671,8 @@ Whoever recites this complete life of the Lord of the Raghus (_yas tv idaṃ rag
 
 <details><summary>मूलम्</summary>
 
-यस्त्विदं रघुनाथस्य चरितं सकलं पठेत् ।  
-सोऽसुक्षये विष्णुलोकं गच्छत्येव न संशयः ॥ २१ ॥
+[^non-baroDa-CE] यस्त्विदं रघुनाथस्य चरितं सकलं पठेत् ।  
+[^non-baroDa-CE] सोऽसुक्षये विष्णुलोकं गच्छत्येव न संशयः ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -702,8 +702,8 @@ His father, his grandfather, and likewise his great-grandfather (_pitā pitāmah
 
 <details><summary>मूलम्</summary>
 
-पिता पितामहस्तस्य तथैव प्रपितामहः ।  
-तत्पिता तत्पिता चैव विष्णुं यान्ति न संशयः ॥ २२ ॥
+[^non-baroDa-CE] पिता पितामहस्तस्य तथैव प्रपितामहः ।  
+[^non-baroDa-CE] तत्पिता तत्पिता चैव विष्णुं यान्ति न संशयः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -728,13 +728,13 @@ Bestowing the fourfold aims of human life eternally (_caturvarga-pradaṃ nityam
 
 <details><summary>मूलम्</summary>
 
-चतुर्वर्गप्रदं नित्यं चरितं राघवस्य तु ।  
-तस्माद् यत्नवता नित्यं श्रोतव्यं परमं सदा ॥ २३ ॥
+[^non-baroDa-CE] चतुर्वर्गप्रदं नित्यं चरितं राघवस्य तु ।  
+[^non-baroDa-CE] तस्माद् यत्नवता नित्यं श्रोतव्यं परमं सदा ॥ २३ ॥
 _________________
-पिता पितामहस्तस्य तथैव प्रपितामहः ।  
-तत्पिता तत्पिता चैव विष्णुं यान्ति न संशयः ॥
-चतुर्वर्गप्रदं नित्यं चरितं राघवस्य तु ।  
-तस्माद्यत्नवता नित्यं श्रोतव्यं परमं सदा ॥
+[^non-baroDa-CE] पिता पितामहस्तस्य तथैव प्रपितामहः ।  
+[^non-baroDa-CE] तत्पिता तत्पिता चैव विष्णुं यान्ति न संशयः ॥
+[^non-baroDa-CE] चतुर्वर्गप्रदं नित्यं चरितं राघवस्य तु ।  
+[^non-baroDa-CE] तस्माद्यत्नवता नित्यं श्रोतव्यं परमं सदा ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -769,8 +769,8 @@ Whoever listens with devotion to the Rāmāyaṇa—even a single quarter-verse 
 
 <details><summary>मूलम्</summary>
 
-शृण्वन् रामायणं भक्त्या यः पादं पदमेव वा ।  
-स याति ब्रह्मणः स्थानं ब्रह्मणा पूज्यते सदा ॥ २४ ॥
+[^non-baroDa-CE] शृण्वन् रामायणं भक्त्या यः पादं पदमेव वा ।  
+[^non-baroDa-CE] स याति ब्रह्मणः स्थानं ब्रह्मणा पूज्यते सदा ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -800,8 +800,8 @@ Thus stands this ancient sacred narrative (_evam etat purāvṛttam ākhyānam_)
 
 <details><summary>मूलम्</summary>
 
-एवमेतत् पुरावृत्तमाख्यानं भद्रमस्तु वः ।  
-प्रव्याहरत विस्रब्धं बलं विष्णोः प्रवर्धताम् ॥ २५ ॥
+[^non-baroDa-CE] एवमेतत् पुरावृत्तमाख्यानं भद्रमस्तु वः ।  
+[^non-baroDa-CE] प्रव्याहरत विस्रब्धं बलं विष्णोः प्रवर्धताम् ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -822,3 +822,5 @@ Thus stands this ancient sacred narrative (_evam etat purāvṛttam ākhyānam_)
 ॥ श्रीमद्वाल्मीकीयरामायणं सम्पूर्णम् ॥
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

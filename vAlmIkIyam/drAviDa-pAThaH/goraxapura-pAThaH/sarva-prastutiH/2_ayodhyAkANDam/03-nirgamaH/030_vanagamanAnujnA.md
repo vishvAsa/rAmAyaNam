@@ -498,7 +498,7 @@ your wife. How would you like an actor intend to deliver me to oehrs by your own
 <details><summary>मूलम्</summary>
 
 यस्य पथ्यञ्चरामात्थ यस्य चार्थेऽवरुध्यसे ।  
-त्वं तस्य भव वश्यश्च विधेयश्च सदानघ ॥ ९ ॥
+[^non-baroDa-CE] त्वं तस्य भव वश्यश्च विधेयश्च सदानघ ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1383,8 +1383,8 @@ Seeing Sītā's moonlike face wither like a lotus plucked from water, Rāma embr
 
 <details><summary>मूलम्</summary>
 
-तत्सितामलचन्द्राभं मुखमायतलोचनम् ।  
-पर्यशुष्यत बाष्पेण जलोद्‍धृतमिवाम्बुजम् ॥ २५ ॥
+[^non-baroDa-CE] तत्सितामलचन्द्राभं मुखमायतलोचनम् ।  
+[^non-baroDa-CE] पर्यशुष्यत बाष्पेण जलोद्‍धृतमिवाम्बुजम् ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1856,8 +1856,8 @@ Explaining why he himself must enter the forest, Rāma extols obedience to one's
 
 <details><summary>मूलम्</summary>
 
-न खल्वहं न गच्छेयं वनं जनकनन्दिनि ।  
-वचनं तन्नयति मां पितुः सत्योपबृंहितम् ॥ ३१ ॥
+[^non-baroDa-CE] न खल्वहं न गच्छेयं वनं जनकनन्दिनि ।  
+[^non-baroDa-CE] वचनं तन्नयति मां पितुः सत्योपबृंहितम् ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1964,8 +1964,8 @@ why, I do not wish to survive, in violation of that duty."
 
 <details><summary>मूलम्</summary>
 
-अस्वाधीनं कथं दैवं प्रकारैरभिराध्यते ।  
-स्वाधीनं समतिक्रम्य मातरं पितरं गुरुम् ॥ ३३ ॥
+[^non-baroDa-CE] अस्वाधीनं कथं दैवं प्रकारैरभिराध्यते ।  
+[^non-baroDa-CE] स्वाधीनं समतिक्रम्य मातरं पितरं गुरुम् ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2010,8 +2010,8 @@ how can we worship god, who is not at our disposal, by various modes?"
 
 <details><summary>मूलम्</summary>
 
-यत्र त्रयं त्रयो लोकाः पवित्रं तत्समं भुवि ।  
-नान्यदस्ति शुभापाङ्गे तेनेदमभिराध्यते ॥ ३४ ॥
+[^non-baroDa-CE] यत्र त्रयं त्रयो लोकाः पवित्रं तत्समं भुवि ।  
+[^non-baroDa-CE] नान्यदस्ति शुभापाङ्गे तेनेदमभिराध्यते ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2064,8 +2064,8 @@ worship."
 
 <details><summary>मूलम्</summary>
 
-न सत्यं दानमानौ वा यज्ञो वाप्याप्तदक्षिणाः ।  
-तथा बलकराः सीते यथा सेवा पितुर्मता ॥ ३५ ॥
+[^non-baroDa-CE] न सत्यं दानमानौ वा यज्ञो वाप्याप्तदक्षिणाः ।  
+[^non-baroDa-CE] तथा बलकराः सीते यथा सेवा पितुर्मता ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2118,7 +2118,7 @@ strengthening."
 
 <details><summary>मूलम्</summary>
 
-स्वर्गो धनं वा धान्यं वा विद्या पुत्राः सुखानि च ।  
+[^non-baroDa-CE] स्वर्गो धनं वा धान्यं वा विद्या पुत्राः सुखानि च ।  
 गुरुवृत्त्यनुरोधेन न किञ्चिदपि दुर्लभम् ॥ ३६ ॥
 </details>
 
@@ -2179,10 +2179,10 @@ Declaring that his earlier reluctance has vanished before her firm resolve, Rām
 
 <details><summary>मूलम्</summary>
 
-देवगन्धर्वगोलोकान् ब्रह्मलोकांस्तथापरान् ।  
-प्राप्नुवन्ति महात्मानो मातापितृपरायणाः ॥ ३७ ॥
+[^non-baroDa-CE] देवगन्धर्वगोलोकान् ब्रह्मलोकांस्तथापरान् ।  
+[^non-baroDa-CE] प्राप्नुवन्ति महात्मानो मातापितृपरायणाः ॥ ३७ ॥
 _________________
-देवगन्धर्वगोलोकान् ब्रह्मलोकांस्तथापरान् ।  
+[^non-baroDa-CE] देवगन्धर्वगोलोकान् ब्रह्मलोकांस्तथापरान् ।  
 प्राप्नुवन्ति महात्मनो मातापितृपरायणाः ॥
 </details>
 
@@ -2290,8 +2290,8 @@ and virtue, commands me. That itself is indeed the law of morality, which is ete
 
 <details><summary>मूलम्</summary>
 
-मम सन्ना मतिः सीते नेतुं त्वां दण्डकावनम् ।  
-वसिष्यामीति सा त्वं मामनुयातुं सुनिश्चिता ॥ ३९ ॥
+[^non-baroDa-CE] मम सन्ना मतिः सीते नेतुं त्वां दण्डकावनम् ।  
+[^non-baroDa-CE] वसिष्यामीति सा त्वं मामनुयातुं सुनिश्चिता ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2343,7 +2343,7 @@ saying that you will reside in the forst, duly determined to follow me."
 
 <details><summary>मूलम्</summary>
 
-सा हि दिष्टानवद्याङ्गि वनाय मदिरेक्षणे ।  
+[^non-baroDa-CE] सा हि दिष्टानवद्याङ्गि वनाय मदिरेक्षणे ।  
 अनुगच्छस्व मां भीरु सहधर्मचरी भव ॥ ४० ॥
 </details>
 
@@ -2396,8 +2396,8 @@ come to forest, Oh Seetha the timid lady, follow me and become my help-mate."
 
 <details><summary>मूलम्</summary>
 
-सर्वथा सदृशं सीते मम स्वस्य कुलस्य च ।  
-व्यवसायमनुक्रान्ता कान्ते त्वमतिशोभनम् ॥ ४१ ॥
+[^non-baroDa-CE] सर्वथा सदृशं सीते मम स्वस्य कुलस्य च ।  
+[^non-baroDa-CE] व्यवसायमनुक्रान्ता कान्ते त्वमतिशोभनम् ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2442,8 +2442,8 @@ to me and to your race."
 
 <details><summary>मूलम्</summary>
 
-आरभस्व शुभश्रोणि वनवासक्षमाः क्रियाः ।  
-नेदानीं त्वदृते सीते स्वर्गोऽपि मम रोचते ॥ ४२ ॥
+[^non-baroDa-CE] आरभस्व शुभश्रोणि वनवासक्षमाः क्रियाः ।  
+[^non-baroDa-CE] नेदानीं त्वदृते सीते स्वर्गोऽपि मम रोचते ॥ ४२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2551,10 +2551,10 @@ delay."
 
 <details><summary>मूलम्</summary>
 
-भूषणानि महार्हाणि वरवस्त्राणि यानि च ।  
-रमणीयाश्च ये केचित् क्रीडार्थाश्चाप्युपस्कराः ॥ ४४ ॥  
-शयनीयानि यानानि मम चान्यानि यानि च ।  
-देहि स्वभृत्यवर्गस्य ब्राह्मणानामनन्तरम् ॥ ४५ ॥
+[^non-baroDa-CE] भूषणानि महार्हाणि वरवस्त्राणि यानि च ।  
+[^non-baroDa-CE] रमणीयाश्च ये केचित् क्रीडार्थाश्चाप्युपस्कराः ॥ ४४ ॥  
+[^non-baroDa-CE] शयनीयानि यानानि मम चान्यानि यानि च ।  
+[^non-baroDa-CE] देहि स्वभृत्यवर्गस्य ब्राह्मणानामनन्तरम् ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2730,3 +2730,4 @@ Then, delighted and fulfilled in heart (_pratipūrṇamānasā_) upon heeding he
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

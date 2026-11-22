@@ -147,8 +147,8 @@ is it that you are so delighted about, in a matter to be grieved?"
 
 <details><summary>मूलम्</summary>
 
-मनसा प्रसहामि त्वां देवि दुःखार्दिता सती ।  
-यच्छोचितव्ये हृष्टासि प्राप्य त्वं व्यसनं महत् ॥ ३ ॥
+[^non-baroDa-CE] मनसा प्रसहामि त्वां देवि दुःखार्दिता सती ।  
+[^non-baroDa-CE] यच्छोचितव्ये हृष्टासि प्राप्य त्वं व्यसनं महत् ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -200,8 +200,8 @@ Though stricken with grief, O queen, I laugh at you in my heart, that you rejoic
 
 <details><summary>मूलम्</summary>
 
-शोचामि दुर्मतित्वं ते का हि प्राज्ञा प्रहर्षयेत् ।  
-अरेः सपत्नीपुत्रस्य वृद्धिं मृत्योरिवागताम् ॥ ४ ॥
+[^non-baroDa-CE] शोचामि दुर्मतित्वं ते का हि प्राज्ञा प्रहर्षयेत् ।  
+[^non-baroDa-CE] अरेः सपत्नीपुत्रस्य वृद्धिं मृत्योरिवागताम् ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -254,8 +254,8 @@ I lament your perversity of mind: what wise woman indeed would rejoice at the pr
 
 <details><summary>मूलम्</summary>
 
-भरतादेव रामस्य राज्यसाधारणाद् भयम् ।  
-तद् विचिन्त्य विषण्णास्मि भयं भीताद्धि जायते ॥ ५ ॥
+[^non-baroDa-CE] भरतादेव रामस्य राज्यसाधारणाद् भयम् ।  
+[^non-baroDa-CE] तद् विचिन्त्य विषण्णास्मि भयं भीताद्धि जायते ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -308,8 +308,8 @@ From Bharata alone—who has an equal claim to the kingdom (_rājya-sādhāraṇ
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणो हि महाबाहू रामं सर्वात्मना गतः ।  
-शत्रुघ्नश्चापि भरतं काकुत्स्थं लक्ष्मणो यथा ॥ ६ ॥
+[^non-baroDa-CE] लक्ष्मणो हि महाबाहू रामं सर्वात्मना गतः ।  
+[^non-baroDa-CE] शत्रुघ्नश्चापि भरतं काकुत्स्थं लक्ष्मणो यथा ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -368,8 +368,8 @@ Mantharā argues that Bharata stands next in birth-order after Rāma and warns t
 
 <details><summary>मूलम्</summary>
 
-प्रत्यासन्नक्रमेणापि भरतस्यैव भामिनि ।  
-राज्यक्रमो विसृष्टस्तु तयोस्तावद्यवीयसोः ॥ ७ ॥
+[^non-baroDa-CE] प्रत्यासन्नक्रमेणापि भरतस्यैव भामिनि ।  
+[^non-baroDa-CE] राज्यक्रमो विसृष्टस्तु तयोस्तावद्यवीयसोः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -421,8 +421,8 @@ question."
 
 <details><summary>मूलम्</summary>
 
-विदुषः क्षत्रचारित्रे प्राज्ञस्य प्राप्तकारिणः ।  
-भयात् प्रवेपे रामस्य चिन्तयन्ती तवात्मजम् ॥ ८ ॥
+[^non-baroDa-CE] विदुषः क्षत्रचारित्रे प्राज्ञस्य प्राप्तकारिणः ।  
+[^non-baroDa-CE] भयात् प्रवेपे रामस्य चिन्तयन्ती तवात्मजम् ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -702,8 +702,8 @@ With joined palms like a bondmaid, you will have to wait upon Kausalyā when she
 
 <details><summary>मूलम्</summary>
 
-एवं च त्वं सहास्माभिस्तस्याः प्रेष्या भविष्यसि ।  
-पुत्रश्च तव रामस्य प्रेष्यत्वं हि गमिष्यति ॥ ११ ॥
+[^non-baroDa-CE] एवं च त्वं सहास्माभिस्तस्याः प्रेष्या भविष्यसि ।  
+[^non-baroDa-CE] पुत्रश्च तव रामस्य प्रेष्यत्वं हि गमिष्यति ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1085,7 +1085,7 @@ Why then, O Mantharā, when festive prosperity has arrived and auspiciousness is
 
 <details><summary>मूलम्</summary>
 
-यथा वै भरतो मान्यस्तथा भूयोऽपि राघवः ।  
+[^non-baroDa-CE] यथा वै भरतो मान्यस्तथा भूयोऽपि राघवः ।  
 कौसल्यातोऽतिरिक्तं च मम शुश्रूषते बहु ॥ १८ ॥
 _________________
 यथा मै भरतो मान्यस्तथा भूयोऽपि राघवः ।  
@@ -1149,8 +1149,8 @@ When Kaikeyī affirms that Rāma’s kingship belongs equally to Bharata, Mantha
 
 <details><summary>मूलम्</summary>
 
-राज्यं यदि हि रामस्य भरतस्यापि तत् तदा ।  
-मन्यते हि यथाऽऽत्मानं यथा भ्रातॄंस्तु राघवः ॥ १९ ॥
+[^non-baroDa-CE] राज्यं यदि हि रामस्य भरतस्यापि तत् तदा ।  
+[^non-baroDa-CE] मन्यते हि यथाऽऽत्मानं यथा भ्रातॄंस्तु राघवः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1668,8 +1668,8 @@ Moreover, while still a child, Bharata was sent away by you to his maternal uncl
 
 <details><summary>मूलम्</summary>
 
-भरतानुवशात् सोऽपि शत्रुघ्नस्तत्समं गतः ।  
-लक्ष्मणो हि यथा रामं तथायं भरतं गतः ॥ २९ ॥
+[^non-baroDa-CE] भरतानुवशात् सोऽपि शत्रुघ्नस्तत्समं गतः ।  
+[^non-baroDa-CE] लक्ष्मणो हि यथा रामं तथायं भरतं गतः ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1734,7 +1734,7 @@ Citing the fable of the tree saved by thorny reeds and the twin-like bond of Rā
 
 <details><summary>मूलम्</summary>
 
-श्रूयते हि द्रुमः कश्चिच्छेत्तव्यो वनजीवनैः ।  
+[^non-baroDa-CE] श्रूयते हि द्रुमः कश्चिच्छेत्तव्यो वनजीवनैः ।  
 सन्निकर्षादिषीकाभिर्मोचितः परमाद् भयात् ॥ ३० ॥
 </details>
 
@@ -2143,10 +2143,10 @@ Previously slighted by you in pride on account of your favored fortune with the 
 
 <details><summary>मूलम्</summary>
 
-यदा च रामः पृथिवीमवाप्स्यते  
-प्रभूतरत्नाकरशैलसंयुताम् ।  
-तदा गमिष्यस्यशुभं पराभवं  
-सहैव दीना भरतेन भामिनि ॥ ३८ ॥
+[^non-baroDa-CE] यदा च रामः पृथिवीमवाप्स्यते  
+[^non-baroDa-CE] प्रभूतरत्नाकरशैलसंयुताम् ।  
+[^non-baroDa-CE] तदा गमिष्यस्यशुभं पराभवं  
+[^non-baroDa-CE] सहैव दीना भरतेन भामिनि ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2266,3 +2266,4 @@ For when Rāma obtains the earth, Bharata will surely be ruined; therefore devis
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

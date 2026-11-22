@@ -917,7 +917,7 @@ If unrighteousness (_adharmaḥ_) were real (_bhūtaḥ_), Rāvaṇa would go to
 <details><summary>मूलम्</summary>
 
 तस्य च व्यसनाभावाद् व्यसनं चागते त्वयि ।  
-धर्मो भवत्यधर्मश्च परस्परविरोधिनौ ॥ १८ ॥
+[^non-baroDa-CE] धर्मो भवत्यधर्मश्च परस्परविरोधिनौ ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -979,7 +979,7 @@ Continuing his dialectical critique, Lakṣmaṇa argues that since the wicked p
 <details><summary>मूलम्</summary>
 
 धर्मेणोपलभेद् धर्ममधर्मं चाप्यधर्मतः ।  
-यद्यधर्मेण युज्येयुर्येष्वधर्मः प्रतिष्ठितः ॥ १९ ॥  
+[^non-baroDa-CE] यद्यधर्मेण युज्येयुर्येष्वधर्मः प्रतिष्ठितः ॥ १९ ॥  
 न धर्मेण वियुज्येरन्नाधर्मरुचयो जनाः ।  
 धर्मेणाचरतां तेषां तथा धर्मफलं भवेत् ॥ २० ॥
 </details>
@@ -2222,11 +2222,11 @@ Today, O hero, by my own martial deed (_karmaṇā_) I shall dispel (_vyapaneṣ
 
 <details><summary>मूलम्</summary>
 
-उत्तिष्ठ नरशार्दूल दीर्घबाहो धृतव्रत ।  
-किमात्मानं महात्मानमात्मानं नावबुध्यसे ॥ ४३ ॥
+[^non-baroDa-CE] उत्तिष्ठ नरशार्दूल दीर्घबाहो धृतव्रत ।  
+[^non-baroDa-CE] किमात्मानं महात्मानमात्मानं नावबुध्यसे ॥ ४३ ॥
 _________________
 उत्तिष्ठ नरशार्दूल दीर्घबाहो दृढव्रत ।  
-किमात्मानं महात्मानमात्मानं नावबुध्यसे ॥
+[^non-baroDa-CE] किमात्मानं महात्मानमात्मानं नावबुध्यसे ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2343,3 +2343,5 @@ with Ravana."
 Roused today for the sake of your joy (_tava priyārtham_), O sinless one, and incensed upon hearing of the slaying of Janaka&#x27;s daughter (_janaka-sutā-nidhanaṃ nirīkṣya ruṣṭaḥ_), I shall with my arrows utterly cast down (_bhṛśam iṣubhir vinipātayāmi_) Laṅkā together with its chariots, elephants, horses, and the lord of the Rākṣasas!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -631,7 +631,7 @@ Summoned urgently by Vasiṣṭha, Brāhmaṇas, Kṣatriyas, ministers, troop-l
 ब्राह्मणान् क्षत्रियान् योधानमात्यान् गणवल्लभान् ।  
 क्षिप्रमानयताव्यग्राः कृत्यमात्ययिकं हि नः ॥ १२ ॥  
 सराजपुत्रं शत्रुघ्नं भरतं च यशस्विनम् ।  
-युधाजितं सुमन्त्रं च ये च तत्र हिता जनाः ॥ १३ ॥
+[^non-baroDa-CE] युधाजितं सुमन्त्रं च ये च तत्र हिता जनाः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -877,3 +877,5 @@ and sand and filled with great fish and serpents.
 Like a deep sea-pool frequented by whales and sea-elephants, still-watered, with gems, conchs, and golden gravel (_hrada iva timi-nāga-saṃvṛtaḥ stimita-jalo maṇi-śaṅkha-śarkaraḥ_), that assembly hall graced by Daśaratha’s son shone as if with Daśaratha himself, just as of old (_daśaratha-suta-śobhitā sabhā sa-daśaratheva babhau yathā purā_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

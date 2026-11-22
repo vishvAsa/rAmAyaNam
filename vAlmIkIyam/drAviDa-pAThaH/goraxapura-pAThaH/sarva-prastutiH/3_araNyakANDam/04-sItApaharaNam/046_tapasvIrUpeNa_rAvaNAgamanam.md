@@ -660,11 +660,11 @@ Act 5.
 
 <details><summary>मूलम्</summary>
 
-तिष्ठन् सम्प्रेक्ष्य च तदा पत्नीं रामस्य रावणः ॥ ११ ॥  
+[^non-baroDa-CE] तिष्ठन् सम्प्रेक्ष्य च तदा पत्नीं रामस्य रावणः ॥ ११ ॥  
 शुभां रुचिरदन्तोष्ठीं पूर्णचन्द्रनिभाननाम् ।  
 आसीनां पर्णशालायां बाष्पशोकाभिपीडिताम् ॥ १२ ॥
 _________________
-तिष्ठन् सम्प्रेक्ष्य च तदा पत्नीं रामस्यरावणः ॥
+[^non-baroDa-CE] तिष्ठन् सम्प्रेक्ष्य च तदा पत्नीं रामस्यरावणः ॥
 शुभां रुचिरदन्तोष्ठिं पूर्णचन्द्रनिभाननाम् ।  
 आसीनां पर्णशालायां बाष्पशोकाभिपीडिताम् ॥
 </details>
@@ -1301,12 +1301,12 @@ goddess - no; a gandharva female - no; yaksha female - no; kinnaraa female - no,
 <details><summary>मूलम्</summary>
 
 नैवंरूपा मया नारी दृष्टपूर्वा महीतले ।  
-रूपमग्र्यं च लोकेषु सौकुमार्यं वयश्च ते ॥ २३ ॥  
+[^non-baroDa-CE] रूपमग्र्यं च लोकेषु सौकुमार्यं वयश्च ते ॥ २३ ॥  
 इह वासश्च कान्तारे चित्तमुन्माथयन्ति मे ।  
 सा प्रतिक्राम भद्रं ते न त्वं वस्तुमिहार्हसि ॥ २४ ॥
 _________________
 नैवरूपा मया नारी दृष्टपूर्वा महीतले ।  
-रूपमग्र्यं च लोकेषु सौकुमार्यं वयश्च ते ॥
+[^non-baroDa-CE] रूपमग्र्यं च लोकेषु सौकुमार्यं वयश्च ते ॥
 इह वासश्च कान्तारे चित्तमुन्माथयन्ति मे ।  
 सा प्रतिक्राम भद्रं ते न त्वं वस्तुमिहार्हसि ॥
 </details>
@@ -2314,3 +2314,5 @@ forest, but not Rama or Lakshmana. [3-46-38]
 Then, anxiously awaiting (_pratīkṣamāṇā_) her handsome husband (_suveṣaṃ patim_) who had gone hunting (_mṛgayā-gatam_) along with Lakṣmaṇa, and gazing across the green expanse (_nirīkṣamāṇā haritam_), she beheld only that vast forest (_mahad vanam_), and not Rāma and Lakṣmaṇa (_naiva tu rāma-lakṣmaṇau_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

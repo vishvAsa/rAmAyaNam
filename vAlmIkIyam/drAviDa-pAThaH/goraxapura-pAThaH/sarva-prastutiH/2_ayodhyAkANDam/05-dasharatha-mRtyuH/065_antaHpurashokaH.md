@@ -131,7 +131,7 @@ Charioteer-bards of supreme culture (_sūtāḥ parama-saṃskārāḥ_), recite
 
 <details><summary>मूलम्</summary>
 
-राजानं स्तुवतां तेषामुदात्ताभिहिताशिषाम् ।  
+[^non-baroDa-CE] राजानं स्तुवतां तेषामुदात्ताभिहिताशिषाम् ।  
 प्रासादाभोगविस्तीर्णः स्तुतिशब्दो ह्यवर्तत ॥ ३ ॥
 </details>
 
@@ -183,7 +183,7 @@ As they praised the monarch, uttering blessings in exalted tones (_udāttābhihi
 
 <details><summary>मूलम्</summary>
 
-ततस्तु स्तुवतां तेषां सूतानां पाणिवादकाः ।  
+[^non-baroDa-CE] ततस्तु स्तुवतां तेषां सूतानां पाणिवादकाः ।  
 अपदानान्युदाहृत्य पाणिवादान्यवादयन् ॥ ४ ॥
 </details>
 
@@ -236,7 +236,7 @@ Then, while those bards were singing praises, rhythmic hand-clappers (_pāṇi-v
 <details><summary>मूलम्</summary>
 
 तेन शब्देन विहगाः प्रतिबुद्धाश्च सस्वनुः ।  
-शाखास्थाः पञ्जरस्थाश्च ये राजकुलगोचराः ॥ ५ ॥
+[^non-baroDa-CE] शाखास्थाः पञ्जरस्थाश्च ये राजकुलगोचराः ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -288,7 +288,7 @@ Awakened by that sound, the birds that dwelt about the royal household (_ye rāj
 <details><summary>मूलम्</summary>
 
 व्याहृताःपुण्यशब्दाश्च वीणानां चापि निःस्वनाः ।  
-आशीर्गेयं च गाथानां पूरयामास वेश्म तत् ॥ ६ ॥
+[^non-baroDa-CE] आशीर्गेयं च गाथानां पूरयामास वेश्म तत् ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -507,7 +507,7 @@ Other women too, mostly young maidens (_kumārī-bahulāḥ striyaḥ_), brought
 
 <details><summary>मूलम्</summary>
 
-सर्वलक्षणसम्पन्नं सर्वं विधिवदर्चितम् ।  
+[^non-baroDa-CE] सर्वलक्षणसम्पन्नं सर्वं विधिवदर्चितम् ।  
 सर्वं सुगुणलक्ष्मीवत् तदभूदाभिहारिकम् ॥ १० ॥
 </details>
 
@@ -561,7 +561,7 @@ Endowed with every auspicious mark (_sarva-lakṣaṇa-sampannam_), all duly con
 <details><summary>मूलम्</summary>
 
 ततः सूर्योदयं यावत् सर्वं परिसमुत्सुकम् ।  
-तस्थावनुपसम्प्राप्तं किंस्विदित्युपशङ्कितम् ॥ ११ ॥
+[^non-baroDa-CE] तस्थावनुपसम्प्राप्तं किंस्विदित्युपशङ्कितम् ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -676,7 +676,7 @@ Touching the royal couch and perceiving no heartbeat or breathing, the trembling
 <details><summary>मूलम्</summary>
 
 अथाप्युचितवृत्तास्ता विनयेन नयेन च ।  
-नह्यस्य शयनं स्पृष्ट्वा किञ्चिदप्युपलेभिरे ॥ १३ ॥
+[^non-baroDa-CE] नह्यस्य शयनं स्पृष्ट्वा किञ्चिदप्युपलेभिरे ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -840,7 +840,7 @@ Then, as those doubting women (_sandehamānānāṃ strīṇām_) gazed upon the
 <details><summary>मूलम्</summary>
 
 कौसल्या च सुमित्रा च पुत्रशोकपराजिते ।  
-प्रसुप्ते न प्रबुध्येते यथा कालसमन्विते ॥ १६ ॥
+[^non-baroDa-CE] प्रसुप्ते न प्रबुध्येते यथा कालसमन्विते ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -886,7 +886,7 @@ Overcome by grief for their sons (_putra-śoka-parājite_), both Kausalyā and S
 <details><summary>मूलम्</summary>
 
 निष्प्रभासा विवर्णा च सन्ना शोकेन सन्नता ।  
-न व्यराजत कौसल्या तारेव तिमिरावृता ॥ १७ ॥
+[^non-baroDa-CE] न व्यराजत कौसल्या तारेव तिमिरावृता ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -938,7 +938,7 @@ Bereft of luster and pale of complexion (_niṣprabhā ca vivarṇā ca_), waste
 <details><summary>मूलम्</summary>
 
 कौसल्यानन्तरं राज्ञः सुमित्रा तदनन्तरम् ।  
-न स्म विभ्राजते देवी शोकाश्रुलुलितानना ॥ १८ ॥
+[^non-baroDa-CE] न स्म विभ्राजते देवी शोकाश्रुलुलितानना ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1265,8 +1265,8 @@ Writhing upon the ground (_veṣṭamānā mahī-tale_) and covered with dust (_
 
 <details><summary>मूलम्</summary>
 
-नृपे शान्तगुणे जाते कौसल्यां पतितां भुवि ।  
-अपश्यंस्ताः स्त्रियः सर्वा हतां नागवधूमिव ॥ २४ ॥
+[^non-baroDa-CE] नृपे शान्तगुणे जाते कौसल्यां पतितां भुवि ।  
+[^non-baroDa-CE] अपश्यंस्ताः स्त्रियः सर्वा हतां नागवधूमिव ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1554,3 +1554,4 @@ Learning that the glorious bull among monarchs had passed away (_atītam ājñā
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -605,9 +605,9 @@ Praising Sugrīva's valour, truthfulness, and nobility, Kabandha consoles Rāma 
 
 <details><summary>मूलम्</summary>
 
-वानरेन्द्रो महावीर्यस्तेजोवानमितप्रभः ।  
+[^non-baroDa-CE] वानरेन्द्रो महावीर्यस्तेजोवानमितप्रभः ।  
 सत्यसन्धो विनीतश्च धृतिमान् मतिमान् महान् ॥ १३ ॥  
-दक्षः प्रगल्भो द्युतिमान् महाबलपराक्रमः ।
+[^non-baroDa-CE] दक्षः प्रगल्भो द्युतिमान् महाबलपराक्रमः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -660,13 +660,13 @@ That lord of monkeys (_vānarendraḥ_) is of great prowess (_mahā-vīryaḥ_),
 
 <details><summary>मूलम्</summary>
 
-भ्रात्रा विवासितो वीर राज्यहेतोर्महात्मना ॥ १४ ॥  
-स ते सहायो मित्रं च सीतायाः परिमार्गणे ।  
-भविष्यति हि ते राम मा च शोके मनः कृथाः ॥ १५ ॥
+[^non-baroDa-CE] भ्रात्रा विवासितो वीर राज्यहेतोर्महात्मना ॥ १४ ॥  
+[^non-baroDa-CE] स ते सहायो मित्रं च सीतायाः परिमार्गणे ।  
+[^non-baroDa-CE] भविष्यति हि ते राम मा च शोके मनः कृथाः ॥ १५ ॥
 _________________
 भ्रात्रा विविसितो वीर राज्यहेतोर्महात्मना ॥
-स ते सहायो मित्रं च सीतायाः परिमार्गणे ।  
-भविष्यति हि ते राम मा च शोके मनःकृथाः ॥
+[^non-baroDa-CE] स ते सहायो मित्रं च सीतायाः परिमार्गणे ।  
+[^non-baroDa-CE] भविष्यति हि ते राम मा च शोके मनःकृथाः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -737,11 +737,11 @@ your wellbeing, hence let not your heart yield to agony... [3-72-15]
 
 <details><summary>मूलम्</summary>
 
-भवितव्यं हि तच्चापि न तच्छक्यमिहान्यथा ।  
-कर्तुमिक्ष्वाकुशार्दूल कालो हि दुरतिक्रमः ॥ १६ ॥
+[^non-baroDa-CE] भवितव्यं हि तच्चापि न तच्छक्यमिहान्यथा ।  
+[^non-baroDa-CE] कर्तुमिक्ष्वाकुशार्दूल कालो हि दुरतिक्रमः ॥ १६ ॥
 _________________
 भवित्यवं हि तच्चापि न तच्छक्यमिहान्यथा ।  
-कर्तुमिक्ष्वाकुशार्दूल कालो हि दुरतिक्रमः ॥
+[^non-baroDa-CE] कर्तुमिक्ष्वाकुशार्दूल कालो हि दुरतिक्रमः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -792,7 +792,7 @@ For that which is destined to be (_bhavitavyaṃ hi tat_) cannot be made otherwi
 
 <details><summary>मूलम्</summary>
 
-गच्छ शीघ्रमितो वीर सुग्रीवं तं महाबलम् ।  
+[^non-baroDa-CE] गच्छ शीघ्रमितो वीर सुग्रीवं तं महाबलम् ।  
 वयस्यं तं कुरु क्षिप्रमितो गत्वाद्य राघव ॥ १७ ॥
 </details>
 
@@ -1284,7 +1284,7 @@ impassable cliffs and caves in locating your wife... [3-72-24b, 25a]
 
 वानरांश्च महाकायान् प्रेषयिष्यति राघव ॥ २५ ॥  
 दिशो विचेतुं तां सीतां त्वद्वियोगेन शोचतीम् ।  
-अन्वेष्यति वरारोहां मैथिलीं रावणालये ॥ २६ ॥
+[^non-baroDa-CE] अन्वेष्यति वरारोहां मैथिलीं रावणालये ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1404,3 +1404,4 @@ Whether that blameless lady (_aninditām_) has gone to the summit of Mount Meru 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

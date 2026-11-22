@@ -382,10 +382,10 @@ Why did Rāvaṇa omit human beings when enumerating the creatures from whom he 
 
 <details><summary>मूलम्</summary>
 
-उत्सादयति लोकांस्त्रीन् स्त्रियश्चाप्युपकर्षति ।  
+[^non-baroDa-CE] उत्सादयति लोकांस्त्रीन् स्त्रियश्चाप्युपकर्षति ।  
 तस्मात् तस्य वधो दृष्टो मानुषेभ्यः परन्तप ॥ ७ ॥
 _________________
-उत्सादयति लोकां स्त्रीन् स्त्रियश्चाप्युपकर्षति ।  
+[^non-baroDa-CE] उत्सादयति लोकां स्त्रीन् स्त्रियश्चाप्युपकर्षति ।  
 तस्मात्तस्य वधो दृष्टो मानुष्येभ्यः परन्तप ॥
 </details>
 
@@ -541,8 +541,8 @@ Both **Tilaka** and **Govindarāja** gloss _tasmin kāle_ (v. 9) as “at the pr
 
 <details><summary>मूलम्</summary>
 
-स कृत्वा निश्चयं विष्णुरामन्त्र्य च पितामहम् ।  
-अन्तर्धानं गतो देवैः पूज्यमानो महर्षिभिः ॥ १० ॥
+[^non-baroDa-CE] स कृत्वा निश्चयं विष्णुरामन्त्र्य च पितामहम् ।  
+[^non-baroDa-CE] अन्तर्धानं गतो देवैः पूज्यमानो महर्षिभिः ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1597,10 +1597,10 @@ And having received that _pāyasa_, all those noble queens of the monarch, their
 
 <details><summary>मूलम्</summary>
 
-ततस्तु ताः प्राश्य तमुत्तमस्त्रियो  
-महीपतेरुत्तमपायसं पृथक् ।  
-हुताशनादित्यसमानतेजसो-  
-ऽचिरेण गर्भान् प्रतिपेदिरे तदा ॥ ३१ ॥
+[^non-baroDa-CE] ततस्तु ताः प्राश्य तमुत्तमस्त्रियो  
+[^non-baroDa-CE] महीपतेरुत्तमपायसं पृथक् ।  
+[^non-baroDa-CE] हुताशनादित्यसमानतेजसो-  
+[^non-baroDa-CE] ऽचिरेण गर्भान् प्रतिपेदिरे तदा ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1669,10 +1669,10 @@ Then those noble queens of the lord of earth, having separately partaken of that
 
 <details><summary>मूलम्</summary>
 
-ततस्तु राजा प्रतिवीक्ष्य ताः स्त्रियः  
-प्ररूढगर्भाः प्रतिलब्धमानसः ।  
-बभूव हृष्टस्त्रिदिवे यथा हरिः  
-सुरेन्द्रसिद्धर्षिगणाभिपूजितः ॥ ३२ ॥
+[^non-baroDa-CE] ततस्तु राजा प्रतिवीक्ष्य ताः स्त्रियः  
+[^non-baroDa-CE] प्ररूढगर्भाः प्रतिलब्धमानसः ।  
+[^non-baroDa-CE] बभूव हृष्टस्त्रिदिवे यथा हरिः  
+[^non-baroDa-CE] सुरेन्द्रसिद्धर्षिगणाभिपूजितः ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -1742,3 +1742,4 @@ And then the king, beholding those queens with their embryos well-developed (_pr
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

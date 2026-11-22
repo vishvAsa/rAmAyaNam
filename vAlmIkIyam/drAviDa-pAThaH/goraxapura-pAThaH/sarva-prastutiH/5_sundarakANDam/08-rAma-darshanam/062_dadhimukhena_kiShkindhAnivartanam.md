@@ -52,7 +52,7 @@ Hanūmān and Aṅgada urge the monkeys to feast on the honey without fear, and 
 
 तानुवाच हरिश्रेष्ठो हनूमान् वानरर्षभः ।  
 अव्यग्रमनसो यूयं मधु सेवत वानराः ॥ १ ॥  
-अहमावर्जयिष्यामि युष्माकं परिपन्थिनः ।
+[^non-baroDa-CE] अहमावर्जयिष्यामि युष्माकं परिपन्थिनः ।
 _________________
 तानुवाच हरिश्रेष्ठो हनुमान् वानरर्षभः ।  
 अव्यग्रमनसो यूयं मधु सेवत वानराः ।  
@@ -308,11 +308,11 @@ Exultant at seeing and hearing of Maithilī, the monkeys beat the guards, scoop 
 
 ते प्रविष्टा मधुवनं पालानाक्रम्य शक्तितः ॥ ६ ॥  
 अतिसर्गाच्च पटवो दृष्ट्वा श्रुत्वा च मैथिलीम् ।  
-पपुः सर्वे मधु तदा रसवत् फलमाददुः ॥ ७ ॥
+[^non-baroDa-CE] पपुः सर्वे मधु तदा रसवत् फलमाददुः ॥ ७ ॥
 _________________
 ते प्रविष्टा मधुवनं पालानाक्रम्य वीर्यतः ॥
 अतिसर्गाच्च पटवो दृष्ट्वा श्रुत्वा च मैथिलीम् ।  
-पपुः सर्वे मधु तदा रसवत्फलमाददुः ॥
+[^non-baroDa-CE] पपुः सर्वे मधु तदा रसवत्फलमाददुः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -425,7 +425,7 @@ And springing up then (_utpatya ca tataḥ_), all of them, intent upon the honey
 <details><summary>मूलम्</summary>
 
 मधूनि द्रोणमात्राणि बाहुभिः परिगृह्य ते ।  
-पिबन्ति कपयः केचित् सङ्घशस्तत्र हृष्टवत् ॥ ९ ॥
+[^non-baroDa-CE] पिबन्ति कपयः केचित् सङ्घशस्तत्र हृष्टवत् ॥ ९ ॥
 _________________
 मधूनि द्रोणमात्राणि बाहुभिः परिगृह्य ते ।  
 पिबन्ति सहिताः सर्वे निघ्नन्ति स्म तथापरे ॥
@@ -687,7 +687,7 @@ Some even push and toss one another (_kṣipanty api tathānyonyam_), and others
 <details><summary>मूलम्</summary>
 
 हरयो मधुना मत्ताः केचित् सुप्ता महीतले ।  
-धृष्टाः केचिद्धसन्त्यन्ये केचित् कुर्वन्ति चेतरत् ॥ १४ ॥
+[^non-baroDa-CE] धृष्टाः केचिद्धसन्त्यन्ये केचित् कुर्वन्ति चेतरत् ॥ १४ ॥
 _________________
 कृत्वा किञ्चित् हसन्त्यन्ये केचित् कुर्वन्ति चेतरत् ।
 </details>
@@ -742,7 +742,7 @@ Some monkeys, intoxicated with honey, fell asleep on the surface of the earth (_
 
 <details><summary>मूलम्</summary>
 
-कृत्वा केचिद् वदन्त्यन्ये केचिद् बुध्यन्ति चेतरत् ।  
+[^non-baroDa-CE] कृत्वा केचिद् वदन्त्यन्ये केचिद् बुध्यन्ति चेतरत् ।  
 येऽप्यत्र मधुपालाः स्युः प्रेष्या दधिमुखस्य तु ॥ १५ ॥  
 तेऽपि तैर्वानरैर्भीमैः प्रतिषिद्धा दिशो गताः ।  
 जानुभिश्च प्रघृष्टाश्च देवमार्गं च दर्शिताः ॥ १६ ॥
@@ -946,7 +946,7 @@ Dadhimukha rallies his guards with trees and boulders to check the monkeys, and 
 <details><summary>मूलम्</summary>
 
 एतागच्छत गच्छामो वानरानतिदर्पितान् ।  
-बलेनावारयिष्यामि प्रभुञ्जानान् मधूत्तमम् ॥ १९ ॥
+[^non-baroDa-CE] बलेनावारयिष्यामि प्रभुञ्जानान् मधूत्तमम् ॥ १९ ॥
 _________________
 इहागच्छत गच्छामो वानरान् बलदर्पितान् ।  
 बलेन वारयिष्यामो मधु भक्षयतो वयम् ॥
@@ -1162,7 +1162,7 @@ Seizing crags, trees, and boulders as well (_śilāḥ pādapāṃś caiva pā�
 
 <details><summary>मूलम्</summary>
 
-बलान्निवारयन्तश्च आसेदुर्हरयो हरीन् ।  
+[^non-baroDa-CE] बलान्निवारयन्तश्च आसेदुर्हरयो हरीन् ।  
 सन्दष्टौष्ठपुटाः क्रुद्धा भर्त्सयन्तो मुहुर्मुहुः ॥ २३ ॥
 _________________
 ते स्वामिवचनं वीरा हृदयेष्ववसज्य तत् ।  
@@ -2030,3 +2030,5 @@ sky.
 **38:** assuming a downcast face (_sa dīnavadano bhūtvā_) and placing his folded hands upon his head (_kṛtvā śirasi cāñjalim_), swiftly pressed those two feet of Sugrīva with his head (_sugrīvasyāśu tau mūrdhnā caraṇau pratyapīḍayat_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

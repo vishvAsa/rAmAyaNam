@@ -182,7 +182,7 @@ Those who called me the consecrated queen (_mahiṣīm_) of a performer of sacri
 
 <details><summary>मूलम्</summary>
 
-वीरपार्थिवपत्नीनां ये विदुर्भर्तृपूजिताम् ।  
+[^non-baroDa-CE] वीरपार्थिवपत्नीनां ये विदुर्भर्तृपूजिताम् ।  
 तेऽद्य सर्वे हते रामे ज्ञानिनोऽनृतवादिनः ॥ ४ ॥
 _________________
 वीरपार्थिवपत्नीनां ये विदुर्भतृ पूजिताम् ।  
@@ -1084,12 +1084,12 @@ Nothing is too heavy a burden (_atibhāraḥ_) for Time (_kālasya_), and Destin
 
 <details><summary>मूलम्</summary>
 
-न शोचामि तथा रामं लक्ष्मणं च महारथम् ।  
+[^non-baroDa-CE] न शोचामि तथा रामं लक्ष्मणं च महारथम् ।  
 नात्मानं जननीं चापि यथा श्वश्रूं तपस्विनीम् ॥ २० ॥  
 सा तु चिन्तयते नित्यं समाप्तव्रतमागतम् ।  
 कदा द्रक्ष्यामि सीतां च लक्ष्मणं च सराघवम् ॥ २१ ॥
 _________________
-न शोचामि तथा रामं लक्ष्मणं च महारथम् ।  
+[^non-baroDa-CE] न शोचामि तथा रामं लक्ष्मणं च महारथम् ।  
 नात्मानं जननीं चापि यथाश्वश्रूं तपस्विनीम् ॥
 सानुचिन्तयते नित्यं समाप्तव्रतमागतम् ।  
 कदा द्रक्ष्यामि सीतां च लक्ष्मणं च सराघवम् ॥
@@ -2026,3 +2026,4 @@ Having entered that pleasure-ground (_vihārabhūmim_) of the lord of Rākṣasa
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

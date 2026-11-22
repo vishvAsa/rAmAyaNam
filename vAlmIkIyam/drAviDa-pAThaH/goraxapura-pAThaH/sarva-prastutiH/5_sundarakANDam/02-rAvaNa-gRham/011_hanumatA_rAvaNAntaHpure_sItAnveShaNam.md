@@ -403,11 +403,11 @@ cows in a big cow-pen.
 
 <details><summary>मूलम्</summary>
 
-अन्यत्रापि वरस्त्रीणां रूपसंलापशायिनाम् ।  
-सहस्रं युवतीनां तु प्रसुप्तं स ददर्श ह ॥ ९ ॥
+[^non-baroDa-CE] अन्यत्रापि वरस्त्रीणां रूपसंलापशायिनाम् ।  
+[^non-baroDa-CE] सहस्रं युवतीनां तु प्रसुप्तं स ददर्श ह ॥ ९ ॥
 _________________
 अन्यत्रापि वरस्त्रीणां रूपसंलापशालिनाम् ।  
-सहस्रं युवतीनां तु प्रसुप्तं स ददर्श ह ॥
+[^non-baroDa-CE] सहस्रं युवतीनां तु प्रसुप्तं स ददर्श ह ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -458,8 +458,8 @@ Elsewhere too (_anyatrāpi_), he beheld a thousand young, noble women (_sahasra�
 
 <details><summary>मूलम्</summary>
 
-देशकालाभियुक्तं तु युक्तवाक्याभिधायि तत् ।  
-रताविरतसंसुप्तं ददर्श हरियूथपः ॥ १० ॥
+[^non-baroDa-CE] देशकालाभियुक्तं तु युक्तवाक्याभिधायि तत् ।  
+[^non-baroDa-CE] रताविरतसंसुप्तं ददर्श हरियूथपः ॥ १० ॥
 _________________
 तासां मध्ये महाबाहुः शुशुभे राक्षसेश्वरः ।  
 गोष्ठे महति मुख्यानां गवां मध्ये यथा वृषः ॥
@@ -2464,8 +2464,8 @@ Not seeing her there (_tām apaśyan_), though beholding other noble women (_pa�
 
 <details><summary>मूलम्</summary>
 
-स भूयः सर्वतः श्रीमान् मारुतिर्यत्नमाश्रितः ।  
-आपानभूमिमुत्सृज्य तां विचेतुं प्रचक्रमे ॥ ४८ ॥
+[^non-baroDa-CE] स भूयः सर्वतः श्रीमान् मारुतिर्यत्नमाश्रितः ।  
+[^non-baroDa-CE] आपानभूमिमुत्सृज्य तां विचेतुं प्रचक्रमे ॥ ४८ ॥
 _________________
 तामपश्यन् कपिस्तत्र पश्यंश्चान्या वरस्त्रियः ।  
 अपक्रम्य तदा वीरः प्रध्यातुमुपचक्रमे ॥
@@ -2498,3 +2498,5 @@ _________________
 Leaving behind that banqueting hall (_āpānabhūmim utsṛjya_), the glorious son of Marut (_śrīmān mārutiḥ_), resorting once more to strenuous effort on every side (_bhūyaḥ sarvataḥ yatnam āśritaḥ_), set about searching for her (_tāṃ vicetuṃ pracakrame_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

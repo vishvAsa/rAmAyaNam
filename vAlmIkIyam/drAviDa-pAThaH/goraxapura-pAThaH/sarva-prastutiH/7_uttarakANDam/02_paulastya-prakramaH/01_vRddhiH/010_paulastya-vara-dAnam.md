@@ -711,8 +711,8 @@ Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids 
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तदा ब्रह्मा दशग्रीवमुवाच ह ।  
-नास्ति सर्वामरत्वं ते वरमन्यं वृणीष्व मे ॥ १७ ॥
+[^non-baroDa-CE] एवमुक्तस्तदा ब्रह्मा दशग्रीवमुवाच ह ।  
+[^non-baroDa-CE] नास्ति सर्वामरत्वं ते वरमन्यं वृणीष्व मे ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -742,8 +742,8 @@ Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids 
 
 <details><summary>मूलम्</summary>
 
-एवमुक्ते तदा राम ब्रह्मणा लोककर्तृणा ।  
-दशग्रीव उवाचेदं कृताञ्जलिरथाग्रतः ॥ १८ ॥
+[^non-baroDa-CE] एवमुक्ते तदा राम ब्रह्मणा लोककर्तृणा ।  
+[^non-baroDa-CE] दशग्रीव उवाचेदं कृताञ्जलिरथाग्रतः ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -875,7 +875,7 @@ Dismissing mortals as mere blades of grass, Rāvaṇa requests invulnerability t
 <details><summary>मूलम्</summary>
 
 भविष्यत्येवमेतत् ते वचो राक्षसपुङ्गव ।  
-एवमुक्त्वा तु तं राम दशग्रीवं पितामहः ॥ २२ ॥
+[^non-baroDa-CE] एवमुक्त्वा तु तं राम दशग्रीवं पितामहः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -911,8 +911,8 @@ Dismissing mortals as mere blades of grass, Rāvaṇa requests invulnerability t
 शृणु चापि वरो भूयः प्रीतस्येह शुभो मम ।  
 हुतानि यानि शीर्षाणि पूर्वमग्नौ त्वयानघ ॥ २३ ॥  
 पुनस्तानि भविष्यन्ति तथैव तव राक्षस ।  
-वितरामीह ते सौम्य वरं चान्यं दुरासदम् ॥ २४ ॥  
-छन्दतस्तव रूपं च मनसा यद् यथेप्सितम् ।
+[^non-baroDa-CE] वितरामीह ते सौम्य वरं चान्यं दुरासदम् ॥ २४ ॥  
+[^non-baroDa-CE] छन्दतस्तव रूपं च मनसा यद् यथेप्सितम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1082,8 +1082,8 @@ As Brahmā grants Rāvaṇa shape-shifting at will and restores his nine severed
 
 <details><summary>मूलम्</summary>
 
-परमापद‍्गतस्यापि धर्मे मम मतिर्भवेत् ॥ ३० ॥  
-अशिक्षितं च ब्रह्मास्त्रं भगवन् प्रतिभातु मे ।
+[^non-baroDa-CE] परमापद‍्गतस्यापि धर्मे मम मतिर्भवेत् ॥ ३० ॥  
+[^non-baroDa-CE] अशिक्षितं च ब्रह्मास्त्रं भगवन् प्रतिभातु मे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1324,7 +1324,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-अलब्धवरपूर्वेण यत् कृतं राक्षसेन तु ॥ ३८ ॥  
+[^non-baroDa-CE] अलब्धवरपूर्वेण यत् कृतं राक्षसेन तु ॥ ३८ ॥  
 यद्येष वरलब्धः स्याद् भक्षयेद् भुवनत्रयम् ।
 </details>
 
@@ -1521,7 +1521,7 @@ Commanded by Prajāpati to become the speech desired by the gods within Kumbhaka
 
 कुम्भकर्णस्तु तद्वाक्यं श्रुत्वा वचनमब्रवीत् ॥ ४४ ॥  
 स्वप्तुं वर्षाण्यनेकानि देवदेव ममेप्सितम् ।  
-एवमस्त्विति तं चोक्त्वा प्रायाद् ब्रह्मा सुरैःसमम् ॥ ४५ ॥
+[^non-baroDa-CE] एवमस्त्विति तं चोक्त्वा प्रायाद् ब्रह्मा सुरैःसमम् ॥ ४५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1563,9 +1563,9 @@ Instantly confirming Kumbhakarṇa’s boon and ascending skyward with the gods,
 
 <details><summary>मूलम्</summary>
 
-देवी सरस्वती चैव राक्षसं तं जहौ पुनः ।  
-ब्रह्मणा सह देवेषु गतेषु च नभःस्थलम् ॥ ४६ ॥  
-विमुक्तोऽसौ सरस्वत्या स्वां सञ्ज्ञां च ततो गतः ।  
+[^non-baroDa-CE] देवी सरस्वती चैव राक्षसं तं जहौ पुनः ।  
+[^non-baroDa-CE] ब्रह्मणा सह देवेषु गतेषु च नभःस्थलम् ॥ ४६ ॥  
+[^non-baroDa-CE] विमुक्तोऽसौ सरस्वत्या स्वां सञ्ज्ञां च ततो गतः ।  
 कुम्भकर्णस्तु दुष्टात्मा चिन्तयामास दुःखितः ॥ ४७ ॥
 </details>
 
@@ -1661,3 +1661,4 @@ Instantly confirming Kumbhakarṇa’s boon and ascending skyward with the gods,
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

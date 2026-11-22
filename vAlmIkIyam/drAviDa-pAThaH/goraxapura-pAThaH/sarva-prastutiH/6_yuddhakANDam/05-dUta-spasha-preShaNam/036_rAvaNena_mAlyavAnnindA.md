@@ -1082,7 +1082,7 @@ And in the central garrison (_madhyame gulme_) he stationed the _rākṣasa_ Vir
 <details><summary>मूलम्</summary>
 
 एवं विधानं लङ्कायां कृत्वा राक्षसपुङ्गवः ।  
-कृतकृत्यमिवात्मानं मन्यते कालचोदितः ॥ २१ ॥
+[^non-baroDa-CE] कृतकृत्यमिवात्मानं मन्यते कालचोदितः ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1195,3 +1195,4 @@ Having commanded the ample defense of the city, he then dismissed his ministers;
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -1077,13 +1077,13 @@ fatigue, countless wild beasts in the shape of swoons, herbs and bamboos inthe f
 
 विनिःश्वसन् वै भृशदुर्मनास्ततः  
 प्रमूढसञ्ज्ञः परमापदं गतः ।  
-शमं न लेभे हृदयज्वरार्दितो  
-नरर्षभो यूथहतो यथर्षभः ॥ २१ ॥
+[^non-baroDa-CE] शमं न लेभे हृदयज्वरार्दितो  
+[^non-baroDa-CE] नरर्षभो यूथहतो यथर्षभः ॥ २१ ॥
 _________________
 विनिःश्वसन् वै भृशदुर्मनास्ततः  
 प्रमूढसञ्ज्ञः परमापदं गतः ।  
 शमं न लेभे हृदयज्ञरार्दितो  
-नरर्षभो यूथहतो यथर्षभः ॥
+[^non-baroDa-CE] नरर्षभो यूथहतो यथर्षभः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1199,3 +1199,4 @@ Accompanied by his people and self-composed, the high-souled Bharata had met wit
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

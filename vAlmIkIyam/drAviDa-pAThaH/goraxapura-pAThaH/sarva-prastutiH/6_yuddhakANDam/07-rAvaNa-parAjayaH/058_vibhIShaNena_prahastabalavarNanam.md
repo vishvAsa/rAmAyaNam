@@ -45,7 +45,7 @@ Beholding the colossal commander Prahasta marching forth with a third of Laṅk�
 
 <details><summary>मूलम्</summary>
 
-ततः प्रहस्तं निर्यान्तं दृष्ट्वा रणकृतोद्यमम् ।  
+[^non-baroDa-CE] ततः प्रहस्तं निर्यान्तं दृष्ट्वा रणकृतोद्यमम् ।  
 उवाच सस्मितं रामो विभीषणमरिन्दमः ॥ १ ॥
 </details>
 
@@ -98,9 +98,9 @@ Beholding Prahasta sallying forth, intent on battle (_raṇa-kṛtodyamam_), Rā
 
 <details><summary>मूलम्</summary>
 
-क एष सुमहाकायो बलेन महता वृतः ।  
-आगच्छति महावेगः किंरूपबलपौरुषः ॥ २ ॥  
-आचक्ष्व मे महाबाहो वीर्यवन्तं निशाचरम् ।
+[^non-baroDa-CE] क एष सुमहाकायो बलेन महता वृतः ।  
+[^non-baroDa-CE] आगच्छति महावेगः किंरूपबलपौरुषः ॥ २ ॥  
+[^non-baroDa-CE] आचक्ष्व मे महाबाहो वीर्यवन्तं निशाचरम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -148,10 +148,10 @@ O, the mighty armed! Tell me about this strong demon."
 
 <details><summary>मूलम्</summary>
 
-राघवस्य वचः श्रुत्वा प्रत्युवाच विभीषणः ॥ ३ ॥  
-एष सेनापतिस्तस्य प्रहस्तो नाम राक्षसः ।  
-लङ्कायां राक्षसेन्द्रस्य त्रिभागबलसंवृतः ।  
-वीर्यवानस्त्रविच्छूरः सुप्रख्यातपराक्रमः ॥ ४ ॥
+[^non-baroDa-CE] राघवस्य वचः श्रुत्वा प्रत्युवाच विभीषणः ॥ ३ ॥  
+[^non-baroDa-CE] एष सेनापतिस्तस्य प्रहस्तो नाम राक्षसः ।  
+[^non-baroDa-CE] लङ्कायां राक्षसेन्द्रस्य त्रिभागबलसंवृतः ।  
+[^non-baroDa-CE] वीर्यवानस्त्रविच्छूरः सुप्रख्यातपराक्रमः ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1581,9 +1581,9 @@ Then Nīla beheld Prahasta standing upon his chariot (_syandane sthitam_), pouri
 
 <details><summary>मूलम्</summary>
 
-उद्‍धूत इव वायुः खे महदभ्रबलं बलात् ।  
-समीक्ष्याभिद्रुतं युद्धे प्रहस्तो वाहिनीपतिः ॥ ३५ ॥  
-रथेनादित्यवर्णेन नीलमेवाभिदुद्रुवे ।
+[^non-baroDa-CE] उद्‍धूत इव वायुः खे महदभ्रबलं बलात् ।  
+[^non-baroDa-CE] समीक्ष्याभिद्रुतं युद्धे प्रहस्तो वाहिनीपतिः ॥ ३५ ॥  
+[^non-baroDa-CE] रथेनादित्यवर्णेन नीलमेवाभिदुद्रुवे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1613,8 +1613,8 @@ Like the wind risen aloft in the sky (_uddhūta iva vāyuḥ khe_) [scattering] 
 
 <details><summary>मूलम्</summary>
 
-स धनुर्धन्विनां श्रेष्ठो विकृष्य परमाहवे ॥ ३६ ॥  
-नीलाय व्यसृजद् बाणान् प्रहस्तो वाहिनीपतिः ।
+[^non-baroDa-CE] स धनुर्धन्विनां श्रेष्ठो विकृष्य परमाहवे ॥ ३६ ॥  
+[^non-baroDa-CE] नीलाय व्यसृजद् बाणान् प्रहस्तो वाहिनीपतिः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1670,8 +1670,8 @@ Pierced by Prahasta's serpent-like shafts, Nīla uproots a tree to strike him ba
 
 <details><summary>मूलम्</summary>
 
-ते प्राप्य विशिखा नीलं विनिर्भिद्य समाहिताः ॥ ३७ ॥  
-महीं जग्मुर्महावेगा रोषिता इव पन्नगाः ।
+[^non-baroDa-CE] ते प्राप्य विशिखा नीलं विनिर्भिद्य समाहिताः ॥ ३७ ॥  
+[^non-baroDa-CE] महीं जग्मुर्महावेगा रोषिता इव पन्नगाः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1718,7 +1718,7 @@ Prahasta, commander of the army, discharged arrows at Nīla (_nīlāya vyasṛja
 
 <details><summary>मूलम्</summary>
 
-नीलः शरैरभिहतो निशितैर्ज्वलनोपमैः ॥ ३८ ॥  
+[^non-baroDa-CE] नीलः शरैरभिहतो निशितैर्ज्वलनोपमैः ॥ ३८ ॥  
 स तं परमदुर्धर्षमापतन्तं महाकपिः ।  
 प्रहस्तं ताडयामास वृक्षमुत्पाट्य वीर्यवान् ॥ ३९ ॥
 </details>
@@ -1819,13 +1819,13 @@ Struck by him, that bull among Rākṣasas (_rākṣasa-puṃgavaḥ_), roaring 
 
 <details><summary>मूलम्</summary>
 
-तस्य बाणगणानेव राक्षसस्य दुरात्मनः ।  
+[^non-baroDa-CE] तस्य बाणगणानेव राक्षसस्य दुरात्मनः ।  
 अपारयन् वारयितुं प्रत्यगृह्णान्निमीलितः ।  
 यथैव गोवृषो वर्षं शारदं शीघ्रमागतम् ॥ ४१ ॥  
 एवमेव प्रहस्तस्य शरवर्षान् दुरासदान् ।  
 निमीलिताक्षः सहसा नीलः सेहे दुरासदान् ॥ ४२ ॥
 _________________
-तस्य बाणगणानेव राक्षसस्य दुरात्मनः ।  
+[^non-baroDa-CE] तस्य बाणगणानेव राक्षसस्य दुरात्मनः ।  
 अपारयन् वारयितुं प्रत्यगृह्णान्निमीलितः ।  
 यथैव गोवृषो वर्षं शारदं शीघ्रमागतम् ॥
 एवमेव प्रहस्तस्य शरवर्षान् दुरासदान् ।  
@@ -1954,8 +1954,8 @@ Incensed by that shower of arrows (_roṣitaḥ śara-varṣeṇa_), the great a
 
 <details><summary>मूलम्</summary>
 
-ततो रोषपरीतात्मा धनुस्तस्य दुरात्मनः ।  
-बभञ्ज तरसा नीलो ननाद च पुनः पुनः ॥ ४४ ॥
+[^non-baroDa-CE] ततो रोषपरीतात्मा धनुस्तस्य दुरात्मनः ।  
+[^non-baroDa-CE] बभञ्ज तरसा नीलो ननाद च पुनः पुनः ॥ ४४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2842,3 +2842,4 @@ accomplished and experienced supreme joy.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -538,7 +538,7 @@ Daśaratha is nothing to you, and you are nothing to him (_na te kaścid daśara
 <details><summary>मूलम्</summary>
 
 बीजमात्रं पिता जन्तोः शुक्रं शोणितमेव च ।  
-संयुक्तमृतुमन्मात्रा पुरुषस्येह जन्म तत् ॥ ११ ॥
+[^non-baroDa-CE] संयुक्तमृतुमन्मात्रा पुरुषस्येह जन्म तत् ॥ ११ ॥
 _________________
 बीजमात्रं पिता जन्तोः शुक्रं शोणितमेव च ।  
 संयुक्तमृतुमन्मात्रा पुरुष्यसेह जन्म तत् ॥
@@ -984,3 +984,4 @@ Putting forward that conviction which is approved by the whole world (_tāṃ bu
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

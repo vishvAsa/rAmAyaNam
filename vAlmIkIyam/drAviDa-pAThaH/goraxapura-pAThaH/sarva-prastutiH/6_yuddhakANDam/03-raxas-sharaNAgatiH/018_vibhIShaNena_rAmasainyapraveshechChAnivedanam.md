@@ -207,8 +207,8 @@ if he has a defect. His acceptance is irreproachable in the eyes of good men"
 
 <details><summary>मूलम्</summary>
 
-सुग्रीवस्त्वथ तद्वाक्यमाभाष्य च विमृश्य च ।  
-ततः शुभतरं वाक्यमुवाच हरिपुङ्गवः ॥ ४ ॥
+[^non-baroDa-CE] सुग्रीवस्त्वथ तद्वाक्यमाभाष्य च विमृश्य च ।  
+[^non-baroDa-CE] ततः शुभतरं वाक्यमुवाच हरिपुङ्गवः ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -254,9 +254,9 @@ Then Sugrīva, that bull among monkeys (_haripuṅgavaḥ_), having repeated (_�
 
 <details><summary>मूलम्</summary>
 
-स दुष्टो वाप्यदुष्टो वा किमेष रजनीचरः ।  
-ईदृशं व्यसनं प्राप्तं भ्रातरं यः परित्यजेत् ॥ ५ ॥  
-को नाम स भवेत् तस्य यमेष न परित्यजेत् ।
+[^non-baroDa-CE] स दुष्टो वाप्यदुष्टो वा किमेष रजनीचरः ।  
+[^non-baroDa-CE] ईदृशं व्यसनं प्राप्तं भ्रातरं यः परित्यजेत् ॥ ५ ॥  
+[^non-baroDa-CE] को नाम स भवेत् तस्य यमेष न परित्यजेत् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -319,9 +319,9 @@ Smiling faintly at Lakṣmaṇa, Rāma praises Sugrīva's learning in statecraft
 
 <details><summary>मूलम्</summary>
 
-वानराधिपतेर्वाक्यं श्रुत्वा सर्वानुदीक्ष्य तु ॥ ६ ॥  
-ईषदुत्स्मयमानस्तु लक्ष्मणं पुण्यलक्षणम् ।  
-इति होवाच काकुत्स्थो वाक्यं सत्यपराक्रमः ॥ ७ ॥
+[^non-baroDa-CE] वानराधिपतेर्वाक्यं श्रुत्वा सर्वानुदीक्ष्य तु ॥ ६ ॥  
+[^non-baroDa-CE] ईषदुत्स्मयमानस्तु लक्ष्मणं पुण्यलक्षणम् ।  
+[^non-baroDa-CE] इति होवाच काकुत्स्थो वाक्यं सत्यपराक्रमः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -377,8 +377,8 @@ smiled a little and spoke the following words to Lakshmana, of virtuous characte
 
 <details><summary>मूलम्</summary>
 
-अनधीत्य च शास्त्राणि वृद्धाननुपसेव्य च ।  
-न शक्यमीदृशं वक्तुं यदुवाच हरीश्वरः ॥ ८ ॥
+[^non-baroDa-CE] अनधीत्य च शास्त्राणि वृद्धाननुपसेव्य च ।  
+[^non-baroDa-CE] न शक्यमीदृशं वक्तुं यदुवाच हरीश्वरः ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -424,7 +424,7 @@ such words as Sugreeva spoke."
 <details><summary>मूलम्</summary>
 
 अस्ति सूक्ष्मतरं किञ्चिद् यथात्र प्रतिभाति मा ।  
-प्रत्यक्षं लौकिकं चापि वर्तते सर्वराजसु ॥ ९ ॥
+[^non-baroDa-CE] प्रत्यक्षं लौकिकं चापि वर्तते सर्वराजसु ॥ ९ ॥
 _________________
 अस्ति सूक्ष्मतरं किञ्चिद् यथात्र प्रतिभाति मा ।  
 प्रत्यक्षं लौकिकं चौपि विर्तते सर्वराजसु ॥
@@ -480,8 +480,8 @@ life."
 
 <details><summary>मूलम्</summary>
 
-अमित्रास्तत्कुलीनाश्च प्रातिदेश्याश्च कीर्तिताः ।  
-व्यसनेषु प्रहर्तारस्तस्मादयमिहागतः ॥ १० ॥
+[^non-baroDa-CE] अमित्रास्तत्कुलीनाश्च प्रातिदेश्याश्च कीर्तिताः ।  
+[^non-baroDa-CE] व्यसनेषु प्रहर्तारस्तस्मादयमिहागतः ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -533,8 +533,8 @@ territories become enemies and strike in times of adversities. For this reason, 
 
 <details><summary>मूलम्</summary>
 
-अपापास्तत्कुलीनाश्च मानयन्ति स्वकान् हितान् ।  
-एष प्रायो नरेन्द्राणां शङ्कनीयस्तु शोभनः ॥ ११ ॥
+[^non-baroDa-CE] अपापास्तत्कुलीनाश्च मानयन्ति स्वकान् हितान् ।  
+[^non-baroDa-CE] एष प्रायो नरेन्द्राणां शङ्कनीयस्तु शोभनः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -586,8 +586,8 @@ well wishers in that family. Generally among kings, even a virtuous person is ap
 
 <details><summary>मूलम्</summary>
 
-यस्तु दोषस्त्वया प्रोक्तो ह्यादानेऽरिबलस्य च ।  
-तत्र ते कीर्तयिष्यामि यथाशास्त्रमिदं शृणु ॥ १२ ॥
+[^non-baroDa-CE] यस्तु दोषस्त्वया प्रोक्तो ह्यादानेऽरिबलस्य च ।  
+[^non-baroDa-CE] तत्र ते कीर्तयिष्यामि यथाशास्त्रमिदं शृणु ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -647,8 +647,8 @@ Rāma argues that Vibhīṣaṇa seeks Laṅkā's throne and that rākṣasa kin
 
 <details><summary>मूलम्</summary>
 
-न वयं तत्कुलीनाश्च राज्यकाङ्क्षी च राक्षसः ।  
-पण्डिता हि भविष्यन्ति तस्माद् ग्राह्यो विभीषणः ॥ १३ ॥
+[^non-baroDa-CE] न वयं तत्कुलीनाश्च राज्यकाङ्क्षी च राक्षसः ।  
+[^non-baroDa-CE] पण्डिता हि भविष्यन्ति तस्माद् ग्राह्यो विभीषणः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -697,8 +697,8 @@ is acceptable."
 <details><summary>मूलम्</summary>
 
 अव्यग्राश्च प्रहृष्टाश्च ते भविष्यन्ति सङ्गताः ।  
-प्रणादश्च महानेषोऽन्योन्यस्य भयमागतम् ।  
-इति भेदं गमिष्यन्ति तस्माद् ग्राह्यो विभीषणः ॥ १४ ॥
+[^non-baroDa-CE] प्रणादश्च महानेषोऽन्योन्यस्य भयमागतम् ।  
+[^non-baroDa-CE] इति भेदं गमिष्यन्ति तस्माद् ग्राह्यो विभीषणः ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -754,8 +754,8 @@ also major cause. That is why, Vibhishana can be accepted."
 
 <details><summary>मूलम्</summary>
 
-न सर्वे भ्रातरस्तात भवन्ति भरतोपमाः ।  
-मद्विधा वा पितुः पुत्राः सुहृदो वा भवद्विधाः ॥ १५ ॥
+[^non-baroDa-CE] न सर्वे भ्रातरस्तात भवन्ति भरतोपमाः ।  
+[^non-baroDa-CE] मद्विधा वा पितुः पुत्राः सुहृदो वा भवद्विधाः ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -806,8 +806,8 @@ me nor all friends are like you."
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तु रामेण सुग्रीवः सहलक्ष्मणः ।  
-उत्थायेदं महाप्राज्ञः प्रणतो वाक्यमब्रवीत् ॥ १६ ॥
+[^non-baroDa-CE] एवमुक्तस्तु रामेण सुग्रीवः सहलक्ष्मणः ।  
+[^non-baroDa-CE] उत्थायेदं महाप्राज्ञः प्रणतो वाक्यमब्रवीत् ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -858,8 +858,8 @@ Addressed thus by Rāma, the supremely wise (_mahāprājñaḥ_) Sugrīva, toget
 
 <details><summary>मूलम्</summary>
 
-रावणेन प्रणिहितं तमवेहि निशाचरम् ।  
-तस्याहं निग्रहं मन्ये क्षमं क्षमवतां वर ॥ १७ ॥
+[^non-baroDa-CE] रावणेन प्रणिहितं तमवेहि निशाचरम् ।  
+[^non-baroDa-CE] तस्याहं निग्रहं मन्ये क्षमं क्षमवतां वर ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -916,14 +916,14 @@ After Sugrīva reiterates his warning and falls silent, Rāma declares that he c
 <details><summary>मूलम्</summary>
 
 राक्षसो जिह्मया बुद्ध्या सन्दिष्टोऽयमिहागतः ।  
-प्रहर्तुं त्वयि विश्वस्ते विश्वस्ते मयि वानघ ॥ १८ ॥  
-लक्ष्मणे वा महाबाहो स वध्यः सचिवैः सह ।  
-रावणस्य नृशंसस्य भ्राता ह्येष विभीषणः ॥ १९ ॥
+[^non-baroDa-CE] प्रहर्तुं त्वयि विश्वस्ते विश्वस्ते मयि वानघ ॥ १८ ॥  
+[^non-baroDa-CE] लक्ष्मणे वा महाबाहो स वध्यः सचिवैः सह ।  
+[^non-baroDa-CE] रावणस्य नृशंसस्य भ्राता ह्येष विभीषणः ॥ १९ ॥
 _________________
 राक्षसो जिह्वया बुद्ध्यासन्दिष्टोऽयमिहागतः ।  
-प्रहर्तुं त्वयि विश्वस्ते विश्वस्ते मयि वानघ ॥
-लक्ष्मणे वा महाबाहो स वध्यः सचिवैः सह ।  
-रावणस्य नृशंसस्य भ्राता ह्येष विभीषणः ॥
+[^non-baroDa-CE] प्रहर्तुं त्वयि विश्वस्ते विश्वस्ते मयि वानघ ॥
+[^non-baroDa-CE] लक्ष्मणे वा महाबाहो स वध्यः सचिवैः सह ।  
+[^non-baroDa-CE] रावणस्य नृशंसस्य भ्राता ह्येष विभीषणः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -984,8 +984,8 @@ with his counselors is fit to be imprisoned. Is not Vibhishana the brother of cr
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा रघुश्रेष्ठं सुग्रीवो वाहिनीपतिः ।  
-वाक्यज्ञो वाक्यकुशलं ततो मौनमुपागमत् ॥ २० ॥
+[^non-baroDa-CE] एवमुक्त्वा रघुश्रेष्ठं सुग्रीवो वाहिनीपतिः ।  
+[^non-baroDa-CE] वाक्यज्ञो वाक्यकुशलं ततो मौनमुपागमत् ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2082,3 +2082,4 @@ Then, hearing that speech of Sugrīva, the lord of men (_nareśvaraḥ_) swiftly
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

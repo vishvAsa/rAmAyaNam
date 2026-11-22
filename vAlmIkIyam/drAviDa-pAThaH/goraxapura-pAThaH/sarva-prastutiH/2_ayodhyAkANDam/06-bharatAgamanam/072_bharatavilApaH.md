@@ -842,8 +842,8 @@ follow."
 
 तच्छ्रुत्वा भरतो वाक्यं धर्माभिजनवाञ्छुचिः ।  
 पपात सहसा भूमौ पितृशोकबलार्दितः ॥ १६ ॥  
-हा हतोऽस्मीति कृपणां दीनां वाचमुदीरयन् ।  
-निपपात महाबाहुर्बाहू विक्षिप्य वीर्यवान् ॥ १७ ॥
+[^non-baroDa-CE] हा हतोऽस्मीति कृपणां दीनां वाचमुदीरयन् ।  
+[^non-baroDa-CE] निपपात महाबाहुर्बाहू विक्षिप्य वीर्यवान् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -978,7 +978,7 @@ Weeping with his face covered in his garment, Bharata compares his father’s em
 <details><summary>मूलम्</summary>
 
 एतत् सुरुचिरं भाति पितुर्मे शयनं पुरा ।  
-शशिनेवामलं रात्रौ गगनं तोयदात्यये ॥ १९ ॥  
+[^non-baroDa-CE] शशिनेवामलं रात्रौ गगनं तोयदात्यये ॥ १९ ॥  
 तदिदं न विभात्यद्य विहीनं तेन धीमता ।  
 व्योमेव शशिना हीनमप्शुष्क इव सागरः ॥ २० ॥
 </details>
@@ -1099,7 +1099,7 @@ Pouring forth tears with a choked throat and sorely afflicted in his own soul (_
 <details><summary>मूलम्</summary>
 
 तमार्तं देवसङ्काशं समीक्ष्य पतितं भुवि ।  
-निकृत्तमिव सालस्य स्कन्धं परशुना वने ॥ २२ ॥  
+[^non-baroDa-CE] निकृत्तमिव सालस्य स्कन्धं परशुना वने ॥ २२ ॥  
 माता मातङ्गसङ्काशं चन्द्रार्कसदृशं सुतम् ।  
 उत्थापयित्वा शोकार्तं वचनं चेदमब्रवीत् ॥ २३ ॥
 </details>
@@ -1222,7 +1222,7 @@ Praising Bharata’s steadfast intellect, Kaikeyī tries to console him; rolling
 <details><summary>मूलम्</summary>
 
 दानयज्ञाधिकारा हि शीलश्रुतितपोनुगा ।  
-बुद्धिस्ते बुद्धिसम्पन्न प्रभेवार्कस्य मन्दिरे ॥ २५ ॥
+[^non-baroDa-CE] बुद्धिस्ते बुद्धिसम्पन्न प्रभेवार्कस्य मन्दिरे ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2393,7 +2393,7 @@ Then his fickle mother, out of her very womanly nature (_athāsya capalā mātā
 
 <details><summary>मूलम्</summary>
 
-एवमुक्ता तु कैकेयी भरतेन महात्मना ।  
+[^non-baroDa-CE] एवमुक्ता तु कैकेयी भरतेन महात्मना ।  
 उवाच वचनं हृष्टा वृथापण्डितमानिनी ॥ ४७ ॥
 </details>
 
@@ -2698,8 +2698,8 @@ All this was indeed done for your sake in this manner by me."
 
 <details><summary>मूलम्</summary>
 
-मा शोकं मा च सन्तापं धैर्यमाश्रय पुत्रक ।  
-त्वदधीना हि नगरी राज्यं चैतदनामयम् ॥ ५३ ॥
+[^non-baroDa-CE] मा शोकं मा च सन्तापं धैर्यमाश्रय पुत्रक ।  
+[^non-baroDa-CE] त्वदधीना हि नगरी राज्यं चैतदनामयम् ॥ ५३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2811,3 +2811,4 @@ not depressed in spirit.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

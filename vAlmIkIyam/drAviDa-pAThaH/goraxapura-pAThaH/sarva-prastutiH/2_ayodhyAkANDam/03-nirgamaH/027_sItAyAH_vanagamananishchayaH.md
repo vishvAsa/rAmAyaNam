@@ -94,8 +94,8 @@ Addressed thus, Vaidehī—worthy of loving kindness and ever sweet of speech (_
 
 <details><summary>मूलम्</summary>
 
-किमिदं भाषसे राम वाक्यं लघुतया ध्रुवम् ।  
-त्वया यदपहास्यं मे श्रुत्वा नरवरोत्तम ॥ २ ॥
+[^non-baroDa-CE] किमिदं भाषसे राम वाक्यं लघुतया ध्रुवम् ।  
+[^non-baroDa-CE] त्वया यदपहास्यं मे श्रुत्वा नरवरोत्तम ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -147,10 +147,10 @@ are to be laughed at by you and to me after hearning.
 
 <details><summary>मूलम्</summary>
 
-वीराणां राजपुत्राणां शस्त्रास्त्रविदुषां नृप ।  
-अनर्हमयशस्यं च न श्रोतव्यं त्वयेरितम् ॥ ३ ॥
+[^non-baroDa-CE] वीराणां राजपुत्राणां शस्त्रास्त्रविदुषां नृप ।  
+[^non-baroDa-CE] अनर्हमयशस्यं च न श्रोतव्यं त्वयेरितम् ॥ ३ ॥
 _________________
-वीराणां राजपुत्राणां शस्त्रास्त्रविदुषां नृप ।  
+[^non-baroDa-CE] वीराणां राजपुत्राणां शस्त्रास्त्रविदुषां नृप ।  
 अनर्हमयशस्यं च न श्रोतव्यं त्वयोदितम् ॥
 </details>
 
@@ -592,8 +592,8 @@ various types of animals and inhaited by tigers and jackals."
 
 <details><summary>मूलम्</summary>
 
-अहं दुर्गं गमिष्यामि वनं पुरुषवर्जितम् ।  
-नानामृगगणाकीर्णं शार्दूलगणसेवितम् ॥ ११ ॥
+[^non-baroDa-CE] अहं दुर्गं गमिष्यामि वनं पुरुषवर्जितम् ।  
+[^non-baroDa-CE] नानामृगगणाकीर्णं शार्दूलगणसेवितम् ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -810,8 +810,8 @@ this intention, cannot be prevented to do so."
 
 <details><summary>मूलम्</summary>
 
-साहं त्वया गमिष्यामि वनमद्य न संशयः ।  
-नाहं शक्या महाभाग निवर्तयितुमुद्यता ॥ १५ ॥
+[^non-baroDa-CE] साहं त्वया गमिष्यामि वनमद्य न संशयः ।  
+[^non-baroDa-CE] नाहं शक्या महाभाग निवर्तयितुमुद्यता ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -916,7 +916,7 @@ rivers, mountains, small lakes and grooves."
 
 <details><summary>मूलम्</summary>
 
-अग्रतस्ते गमिष्यामि भोक्ष्ये भुक्तवति त्वयि ।  
+[^non-baroDa-CE] अग्रतस्ते गमिष्यामि भोक्ष्ये भुक्तवति त्वयि ।  
 इच्छामि परतः शैलान् पल्वलानि सरांसि च ॥ १७ ॥  
 द्रष्टुं सर्वत्र निर्भीता त्वया नाथेन धीमता ।
 </details>
@@ -1032,7 +1032,7 @@ Declaring that a hundred thousand years with Rāma will pass like a moment where
 
 <details><summary>मूलम्</summary>
 
-अभिषेकं करिष्यामि तासु नित्यमनुव्रता ॥ १९ ॥  
+[^non-baroDa-CE] अभिषेकं करिष्यामि तासु नित्यमनुव्रता ॥ १९ ॥  
 सह त्वया विशालाक्ष रंस्ये परमनन्दिनी ।
 </details>
 
@@ -1085,7 +1085,7 @@ deviation/ Heaven also will not be acceptable to me otherwise.
 <details><summary>मूलम्</summary>
 
 एवं वर्षसहस्राणि शतं वापि त्वया सह ॥ २० ॥  
-व्यतिक्रमं न वेत्स्यामि स्वर्गोऽपि हि न मे मतः ।
+[^non-baroDa-CE] व्यतिक्रमं न वेत्स्यामि स्वर्गोऽपि हि न मे मतः ।
 _________________
 एवं वर्षसहस्राणिं शतं वापि त्वया सह ॥  
 व्यतिक्रमं न वेत्स्यामि स्वर्गोपि हि न मे मतः ।
@@ -1358,3 +1358,5 @@ face in a forest.
 Even when Sītā, so devoted to _dharma_ (_dharma-vatsalām_), spoke thus, that best of men did not wish to lead her into the forest (_na ca sma sītāṃ nṛvaro ninīṣati_); and to turn her back (_sannivartane_), he spoke much to that sorrowful princess concerning the hardships of dwelling in the woods (_vane nivāsasya ca duḥkhitāṃ prati_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

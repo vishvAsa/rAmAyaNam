@@ -974,7 +974,7 @@ happens to be other than 'ma' then my fear ceases.'
 <details><summary>मूलम्</summary>
 
 अहं तस्य प्रभावज्ञो न युद्धं तेन ते क्षमम् ।  
-बलिं वा नमुचिं वापि हन्याद्धि रघुनन्दनः ॥ १९ ॥
+[^non-baroDa-CE] बलिं वा नमुचिं वापि हन्याद्धि रघुनन्दनः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1089,8 +1089,8 @@ Rama with me if you wish to see me alive. [4-39-20]
 
 <details><summary>मूलम्</summary>
 
-बहवः साधवो लोके युक्ता धर्ममनुष्ठिताः ।  
-परेषामपराधेन विनष्टाः सपरिच्छदाः ॥ २१ ॥
+[^non-baroDa-CE] बहवः साधवो लोके युक्ता धर्ममनुष्ठिताः ।  
+[^non-baroDa-CE] परेषामपराधेन विनष्टाः सपरिच्छदाः ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1150,11 +1150,11 @@ Refusing to accompany Rāvaṇa to his doom, Mārīca points out that Khara peri
 
 <details><summary>मूलम्</summary>
 
-सोऽहं परापराधेन विनशेयं निशाचर ।  
-कुरु यत् ते क्षमं तत्त्वमहं त्वां नानुयामि वै ॥ २२ ॥
+[^non-baroDa-CE] सोऽहं परापराधेन विनशेयं निशाचर ।  
+[^non-baroDa-CE] कुरु यत् ते क्षमं तत्त्वमहं त्वां नानुयामि वै ॥ २२ ॥
 _________________
 सोऽहं परापराधेन विनश्येयं निशाचर ।  
-कुरु यत्ते क्षमं तत्त्वमहं त्वां नानुयामि वै॥
+[^non-baroDa-CE] कुरु यत्ते क्षमं तत्त्वमहं त्वां नानुयामि वै॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1205,10 +1205,10 @@ whatever that is fair to you, but I am not the one to simply take after you. [4-
 
 <details><summary>मूलम्</summary>
 
-रामश्च हि महातेजा महासत्त्वो महाबलः ।  
-अपि राक्षसलोकस्य भवेदन्तकरोऽपि हि ॥ २३ ॥
+[^non-baroDa-CE] रामश्च हि महातेजा महासत्त्वो महाबलः ।  
+[^non-baroDa-CE] अपि राक्षसलोकस्य भवेदन्तकरोऽपि हि ॥ २३ ॥
 _________________
-रामश्च हि महातेजा महासत्त्वो महाबलः ।  
+[^non-baroDa-CE] रामश्च हि महातेजा महासत्त्वो महाबलः ।  
 अपि राक्षसलोकस्य न भवेदन्तकरोऽपि हि ॥
 </details>
 
@@ -1262,9 +1262,9 @@ extraordinary power, and for sure, he becomes an eradicator of the world of demo
 
 <details><summary>मूलम्</summary>
 
-यदि शूर्पणखाहेतोर्जनस्थानगतः खरः ।  
-अतिवृत्तो हतः पूर्वं रामेणाक्लिष्टकर्मणा ।  
-अत्र ब्रूहि यथातत्त्वं को रामस्य व्यतिक्रमः ॥ २४ ॥
+[^non-baroDa-CE] यदि शूर्पणखाहेतोर्जनस्थानगतः खरः ।  
+[^non-baroDa-CE] अतिवृत्तो हतः पूर्वं रामेणाक्लिष्टकर्मणा ।  
+[^non-baroDa-CE] अत्र ब्रूहि यथातत्त्वं को रामस्य व्यतिक्रमः ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1390,3 +1390,4 @@ accelerating arrows of Rama. [4-39-25]
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -601,7 +601,7 @@ Dismissed by Vasiṣṭha with the word “Impossible,” Triśaṅku journeys s
 <details><summary>मूलम्</summary>
 
 प्रत्याख्यातो वसिष्ठेन स ययौ दक्षिणां दिशम् ॥ १३ ॥  
-ततस्तत्कर्मसिद्ध्यर्थं पुत्रांस्तस्य गतो नृपः ।
+[^non-baroDa-CE] ततस्तत्कर्मसिद्ध्यर्थं पुत्रांस्तस्य गतो नृपः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1065,3 +1065,4 @@ For all the Ikṣvākus, the family _purohita_ Vasiṣṭha is the supreme refug
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

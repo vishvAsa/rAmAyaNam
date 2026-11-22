@@ -189,10 +189,10 @@ Then ensued a tumultuous, hair-raising battle (_yuddhaṃ tumulaṃ romaharṣa�
 
 <details><summary>मूलम्</summary>
 
-खड्गशक्तिधनुर्ग्राहा नद्यः शोणितसंस्रवाः ।  
-नृकलेवरवाहिन्यः प्रवृत्ताः सर्वतोदिशम् ॥ ६ ॥
+[^non-baroDa-CE] खड्गशक्तिधनुर्ग्राहा नद्यः शोणितसंस्रवाः ।  
+[^non-baroDa-CE] नृकलेवरवाहिन्यः प्रवृत्ताः सर्वतोदिशम् ॥ ६ ॥
 _________________
-खड्गशक्तिधनुर्ग्राहा नद्यः शोणितसंस्रवाः ।  
+[^non-baroDa-CE] खड्गशक्तिधनुर्ग्राहा नद्यः शोणितसंस्रवाः ।  
 नृकलेवरवाहन्यः प्रवृत्ताः सर्वतो दिशम् ॥
 </details>
 
@@ -592,3 +592,4 @@ And he recounted exactly as it had transpired (_śaśaṃsa ca yathāvṛttam_) 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

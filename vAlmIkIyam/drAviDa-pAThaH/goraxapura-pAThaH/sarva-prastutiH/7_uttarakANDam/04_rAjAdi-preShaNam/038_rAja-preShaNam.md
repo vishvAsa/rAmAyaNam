@@ -31,8 +31,8 @@ Administering all affairs of city and countryside day by day, Rāma approaches K
 
 <details><summary>मूलम्</summary>
 
-एवमास्ते महाबाहुरहन्यहनि राघवः ।  
-प्रशासत् सर्वकार्याणि पौरजानपदेषु च ॥ १ ॥
+[^non-baroDa-CE] एवमास्ते महाबाहुरहन्यहनि राघवः ।  
+[^non-baroDa-CE] प्रशासत् सर्वकार्याणि पौरजानपदेषु च ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -62,8 +62,8 @@ Thus dwelt the mighty-armed Rāghava day after day (_evam āste mahābāhur ahan
 
 <details><summary>मूलम्</summary>
 
-ततः कतिपयाहःसु वैदेहं मिथिलाधिपम् ।  
-राघवः प्राञ्जलिर्भूत्वा वाक्यमेतदुवाच ह ॥ २ ॥
+[^non-baroDa-CE] ततः कतिपयाहःसु वैदेहं मिथिलाधिपम् ।  
+[^non-baroDa-CE] राघवः प्राञ्जलिर्भूत्वा वाक्यमेतदुवाच ह ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -93,8 +93,8 @@ Then, when a few days had elapsed (_tataḥ katipayāhaḥsu_), Rāghava stood w
 
 <details><summary>मूलम्</summary>
 
-भवान् हि गतिरव्यग्रा भवता पालिता वयम् ।  
-भवतस्तेजसोग्रेण रावणो निहतो मया ॥ ३ ॥
+[^non-baroDa-CE] भवान् हि गतिरव्यग्रा भवता पालिता वयम् ।  
+[^non-baroDa-CE] भवतस्तेजसोग्रेण रावणो निहतो मया ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,8 +124,8 @@ Then, when a few days had elapsed (_tataḥ katipayāhaḥsu_), Rāghava stood w
 
 <details><summary>मूलम्</summary>
 
-इक्ष्वाकूणां च सर्वेषां मैथिलानां च सर्वशः ।  
-अतुलाः प्रीतयो राजन् सम्बन्धकपुरोगमाः ॥ ४ ॥
+[^non-baroDa-CE] इक्ष्वाकूणां च सर्वेषां मैथिलानां च सर्वशः ।  
+[^non-baroDa-CE] अतुलाः प्रीतयो राजन् सम्बन्धकपुरोगमाः ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -155,7 +155,7 @@ Then, when a few days had elapsed (_tataḥ katipayāhaḥsu_), Rāghava stood w
 
 <details><summary>मूलम्</summary>
 
-तद् भवान् स्वपुरं यातु रत्नान्यादाय पार्थिव ।  
+[^non-baroDa-CE] तद् भवान् स्वपुरं यातु रत्नान्यादाय पार्थिव ।  
 भरतश्च सहायार्थं पृष्ठतश्चानुयास्यति ॥ ५ ॥
 _________________
 तद्भवान्स्व्वपुरं यातु रत्नान्यादाय पार्थिव ।  
@@ -228,7 +228,7 @@ Bestowing all the treasures gathered for him upon his daughter Sītā, King Jana
 
 <details><summary>मूलम्</summary>
 
-यान्येतानि तु रत्नानि मदर्थं सञ्चितानि वै ।  
+[^non-baroDa-CE] यान्येतानि तु रत्नानि मदर्थं सञ्चितानि वै ।  
 दुहित्रे तान्यहं राजन् सर्वाण्येव ददामि वै ॥ ७ ॥
 </details>
 
@@ -259,8 +259,8 @@ Bestowing all the treasures gathered for him upon his daughter Sītā, King Jana
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा तु काकुत्स्थं जनको हृष्टमानसः ।  
-प्रययौ मिथिलां श्रीमांस्तमनुज्ञाय राघवम् ॥ ८ ॥
+[^non-baroDa-CE] एवमुक्त्वा तु काकुत्स्थं जनको हृष्टमानसः ।  
+[^non-baroDa-CE] प्रययौ मिथिलां श्रीमांस्तमनुज्ञाय राघवम् ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -321,7 +321,7 @@ Then, when Janaka had set forth (_tataḥ prayāte janake_), the sovereign Rāgh
 
 <details><summary>मूलम्</summary>
 
-इदं राज्यमहं चैव भरतश्च सलक्ष्मणः ।  
+[^non-baroDa-CE] इदं राज्यमहं चैव भरतश्च सलक्ष्मणः ।  
 आयत्तस्त्वं हि नो राजन् गतिश्च पुरुषर्षभ ॥ १० ॥
 _________________
 इदं राज्यमहं चैव भरतश्च सलक्षणः ।  
@@ -355,8 +355,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-राजा हि वृद्धः सन्तापं त्वदर्थमुपयास्यति ।  
-तस्माद् गमनमद्यैव रोचते तव पार्थिव ॥ ११ ॥
+[^non-baroDa-CE] राजा हि वृद्धः सन्तापं त्वदर्थमुपयास्यति ।  
+[^non-baroDa-CE] तस्माद् गमनमद्यैव रोचते तव पार्थिव ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -386,7 +386,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणेनानुयात्रेण पृष्ठतोऽनुगमिष्यते ।  
+[^non-baroDa-CE] लक्ष्मणेनानुयात्रेण पृष्ठतोऽनुगमिष्यते ।  
 धनमादाय बहुलं रत्नानि विविधानि च ॥ १२ ॥
 </details>
 
@@ -425,8 +425,8 @@ Declining the gifts so they may remain inexhaustible with Rāma, Yudhājit excha
 
 <details><summary>मूलम्</summary>
 
-युधाजित् तु तथेत्याह गमनं प्रति राघव ।  
-रत्नानि च धनं चैव त्वय्येवाक्षय्यमस्त्विति ॥ १३ ॥
+[^non-baroDa-CE] युधाजित् तु तथेत्याह गमनं प्रति राघव ।  
+[^non-baroDa-CE] रत्नानि च धनं चैव त्वय्येवाक्षय्यमस्त्विति ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -487,8 +487,8 @@ That enhancer of Kekaya’s glory circumambulated the king (_pradakṣiṇaṃ s
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणेन सहायेन प्रयातः केकयेश्वरः ।  
-हतेऽसुरे यथा वृत्रे विष्णुना सह वासवः ॥ १५ ॥
+[^non-baroDa-CE] लक्ष्मणेन सहायेन प्रयातः केकयेश्वरः ।  
+[^non-baroDa-CE] हतेऽसुरे यथा वृत्रे विष्णुना सह वासवः ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -657,7 +657,7 @@ Having spoken thus much (_etāvad uktvā_), the righteous-souled scion of Kakuts
 _________________
 विसर्जयामास तदा कौसल्याप्रीतिवर्धनः ।  
 राघवेण कृतानुज्ञः काशेयो ह्यकुतोभयः ॥  
-वाराणसीं ययौ तूर्णं राघवेण विसर्जितः ।
+[^non-baroDa-CE] वाराणसीं ययौ तूर्णं राघवेण विसर्जितः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -955,10 +955,10 @@ Rejoicing at Sītā’s recovery and Rāma’s triumph, the kings declare that p
 
 <details><summary>मूलम्</summary>
 
-एतत् त्वय्युपपन्नं च यदस्मांस्त्वं प्रशंससे ।  
+[^non-baroDa-CE] एतत् त्वय्युपपन्नं च यदस्मांस्त्वं प्रशंससे ।  
 प्रशंसार्ह न जानीमः प्रशंसां वक्तुमीदृशीम् ॥ ३० ॥
 _________________
-एतत्त्वय्युपपन्नं च यदस्मांस्त्वं प्रशंससे ।  
+[^non-baroDa-CE] एतत्त्वय्युपपन्नं च यदस्मांस्त्वं प्रशंससे ।  
 प्रशंसार्ह न जानीमः प्रशंसां वक्तुमादृशीम् ॥
 </details>
 
@@ -992,9 +992,9 @@ _________________
 <details><summary>मूलम्</summary>
 
 आपृच्छामो गमिष्यामो हृदिस्थो नः सदा भवान् ।  
-वर्तामहे महाबाहो प्रीत्यात्र महता वृताः ॥ ३१ ॥  
+[^non-baroDa-CE] वर्तामहे महाबाहो प्रीत्यात्र महता वृताः ॥ ३१ ॥  
 भवेच्च ते महाराज प्रीतिरस्मासु नित्यदा ।  
-बाढमित्येव राजानो हर्षेण परमान्विताः ॥ ३२ ॥
+[^non-baroDa-CE] बाढमित्येव राजानो हर्षेण परमान्विताः ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1050,3 +1050,4 @@ _________________
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

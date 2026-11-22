@@ -31,8 +31,8 @@ Delighted by Urvaśī’s tale yet eager for the answer to his original question
 
 <details><summary>मूलम्</summary>
 
-तां श्रुत्वा दिव्यसङ्काशां कथामद्भुतदर्शनाम् ।  
-लक्ष्मणः परमप्रीतो राघवं वाक्यमब्रवीत् ॥ १ ॥
+[^non-baroDa-CE] तां श्रुत्वा दिव्यसङ्काशां कथामद्भुतदर्शनाम् ।  
+[^non-baroDa-CE] लक्ष्मणः परमप्रीतो राघवं वाक्यमब्रवीत् ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -62,8 +62,8 @@ Hearing that heavenly-seeming tale of wondrous import (_divya-saṅkāśāṃ ka
 
 <details><summary>मूलम्</summary>
 
-निक्षिप्तदेहौ काकुत्स्थ कथं तौ द्विजपार्थिवौ ।  
-पुनर्देहेन संयोगं जग्मतुर्देवसम्मतौ ॥ २ ॥
+[^non-baroDa-CE] निक्षिप्तदेहौ काकुत्स्थ कथं तौ द्विजपार्थिवौ ।  
+[^non-baroDa-CE] पुनर्देहेन संयोगं जग्मतुर्देवसम्मतौ ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -93,8 +93,8 @@ Hearing that heavenly-seeming tale of wondrous import (_divya-saṅkāśāṃ ka
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् भाषितं श्रुत्वा रामः सत्यपराक्रमः ।  
-तां कथां कथयामास वसिष्ठस्य महात्मनः ॥ ३ ॥
+[^non-baroDa-CE] तस्य तद् भाषितं श्रुत्वा रामः सत्यपराक्रमः ।  
+[^non-baroDa-CE] तां कथां कथयामास वसिष्ठस्य महात्मनः ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -125,7 +125,7 @@ Hearing those words of his (_tasya tad bhāṣitaṃ śrutvā_), Rāma of unfail
 <details><summary>मूलम्</summary>
 
 यः स कुम्भो रघुश्रेष्ठ तेजःपूर्णो महात्मनोः ।  
-तस्मिंस्तेजोमयौ विप्रौ सम्भूतावृषिसत्तमौ ॥ ४ ॥
+[^non-baroDa-CE] तस्मिंस्तेजोमयौ विप्रौ सम्भूतावृषिसत्तमौ ॥ ४ ॥
 _________________
 यः स कुम्भो रघुश्रेष्ठ तेजःपूर्णो महात्मनोः ।  
 तस्मिंस्तेजोमयौ विप्रौसम्भूतावृषिसत्तवौ ॥
@@ -159,7 +159,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 पूर्वं समभवत् तत्र अगस्त्यो भगवानृषिः ।  
-नाहं सुतस्तवेत्युक्त्वा मित्रं तस्मादपाक्रमत् ॥ ५ ॥
+[^non-baroDa-CE] नाहं सुतस्तवेत्युक्त्वा मित्रं तस्मादपाक्रमत् ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -190,7 +190,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 तद्धि तेजस्तु मित्रस्य उर्वश्याः पूर्वमाहितम् ।  
-तस्मिन् समभवत् कुम्भे तत्तेजो यत्र वारुणम् ॥ ६ ॥
+[^non-baroDa-CE] तस्मिन् समभवत् कुम्भे तत्तेजो यत्र वारुणम् ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -228,8 +228,8 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>मूलम्</summary>
 
-कस्यचित् त्वथ कालस्य मित्रावरुणसम्भवः ।  
-वसिष्ठस्तेजसा युक्तो जज्ञे इक्ष्वाकुदैवतम् ॥ ७ ॥
+[^non-baroDa-CE] कस्यचित् त्वथ कालस्य मित्रावरुणसम्भवः ।  
+[^non-baroDa-CE] वसिष्ठस्तेजसा युक्तो जज्ञे इक्ष्वाकुदैवतम् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -259,7 +259,7 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>मूलम्</summary>
 
-तमिक्ष्वाकुर्महातेजा जातमात्रमनिन्दितम् ।  
+[^non-baroDa-CE] तमिक्ष्वाकुर्महातेजा जातमात्रमनिन्दितम् ।  
 वव्रे पुरोधसं सौम्य वंशस्यास्य हिताय नः ॥ ८ ॥
 </details>
 
@@ -290,7 +290,7 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>मूलम्</summary>
 
-एवं त्वपूर्वदेहस्य वसिष्ठस्य महात्मनः ।  
+[^non-baroDa-CE] एवं त्वपूर्वदेहस्य वसिष्ठस्य महात्मनः ।  
 कथितो निर्गमः सौम्य निमेः शृणु यथाभवत् ॥ ९ ॥
 </details>
 
@@ -321,7 +321,7 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वा विदेहं राजानमृषयः सर्व एव ते ।  
+[^non-baroDa-CE] दृष्ट्वा विदेहं राजानमृषयः सर्व एव ते ।  
 तं च ते याजयामासुर्यज्ञदीक्षां मनीषिणः ॥ १० ॥
 </details>
 
@@ -352,8 +352,8 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>मूलम्</summary>
 
-तं च देहं नरेन्द्रस्य रक्षन्ति स्म द्विजोत्तमाः ।  
-गन्धैर्माल्यैश्च वस्त्रैश्च पौरभृत्यसमन्विताः ॥ ११ ॥
+[^non-baroDa-CE] तं च देहं नरेन्द्रस्य रक्षन्ति स्म द्विजोत्तमाः ।  
+[^non-baroDa-CE] गन्धैर्माल्यैश्च वस्त्रैश्च पौरभृत्यसमन्विताः ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -391,8 +391,8 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 
 <details><summary>मूलम्</summary>
 
-ततो यज्ञे समाप्ते तु भृगुस्तत्रेदमब्रवीत् ।  
-आनयिष्यामि ते चेतस्तुष्टोऽस्मि तव पार्थिव ॥ १२ ॥
+[^non-baroDa-CE] ततो यज्ञे समाप्ते तु भृगुस्तत्रेदमब्रवीत् ।  
+[^non-baroDa-CE] आनयिष्यामि ते चेतस्तुष्टोऽस्मि तव पार्थिव ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -423,7 +423,7 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 <details><summary>मूलम्</summary>
 
 सुप्रीताश्च सुराः सर्वे निमेश्चेतस्तदाब्रुवन् ।  
-वरं वरय राजर्षे क्व ते चेतो निरूप्यताम् ॥ १३ ॥
+[^non-baroDa-CE] वरं वरय राजर्षे क्व ते चेतो निरूप्यताम् ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -453,8 +453,8 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तः सुरैः सर्वैर्निमेश्चेतस्तदाब्रवीत् ।  
-नेत्रेषु सर्वभूतानां वसेयं सुरसत्तमाः ॥ १४ ॥
+[^non-baroDa-CE] एवमुक्तः सुरैः सर्वैर्निमेश्चेतस्तदाब्रवीत् ।  
+[^non-baroDa-CE] नेत्रेषु सर्वभूतानां वसेयं सुरसत्तमाः ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -485,7 +485,7 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 <details><summary>मूलम्</summary>
 
 बाढमित्येव विबुधा निमेश्चेतस्तदाब्रुवन् ।  
-नेत्रेषु सर्वभूतानां वायुभूतश्चरिष्यसि ॥ १५ ॥
+[^non-baroDa-CE] नेत्रेषु सर्वभूतानां वायुभूतश्चरिष्यसि ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -515,7 +515,7 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 
 <details><summary>मूलम्</summary>
 
-त्वत्कृते च निमिष्यन्ति चक्षूंषि पृथिवीपते ।  
+[^non-baroDa-CE] त्वत्कृते च निमिष्यन्ति चक्षूंषि पृथिवीपते ।  
 वायुभूतेन चरता विश्रामार्थं मुहुर्मुहुः ॥ १६ ॥
 </details>
 
@@ -555,9 +555,9 @@ After the gods depart, the great sages take Nimi’s lifeless body and churn it 
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा तु विबुधाः सर्वे जग्मुर्यथागतम् ।  
-ऋषयोऽपि महात्मानो निमेर्देहं समाहरन् ॥ १७ ॥  
-अरणिं तत्र निक्षिप्य मथनं चक्रुरोजसा ।
+[^non-baroDa-CE] एवमुक्त्वा तु विबुधाः सर्वे जग्मुर्यथागतम् ।  
+[^non-baroDa-CE] ऋषयोऽपि महात्मानो निमेर्देहं समाहरन् ॥ १७ ॥  
+[^non-baroDa-CE] अरणिं तत्र निक्षिप्य मथनं चक्रुरोजसा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -591,12 +591,12 @@ After the gods depart, the great sages take Nimi’s lifeless body and churn it 
 
 <details><summary>मूलम्</summary>
 
-मन्त्रहोमैर्महात्मानः पुत्रहेतोर्निमेस्तदा ॥ १८ ॥  
+[^non-baroDa-CE] मन्त्रहोमैर्महात्मानः पुत्रहेतोर्निमेस्तदा ॥ १८ ॥  
 अरण्यां मथ्यमानायां प्रादुर्भूतो महातपाः ।  
-मथनान्मिथिरित्याहुर्जननाज्जनकोऽभवत् ॥ १९ ॥  
-यस्माद् विदेहात् सम्भूतो वैदेहस्तु ततः स्मृतः ।  
-एवं विदेहराजश्च जनकः पूर्वकोऽभवत् ।  
-मिथिर्नाम महातेजास्तेनायं मैथिलोऽभवत् ॥ २० ॥
+[^non-baroDa-CE] मथनान्मिथिरित्याहुर्जननाज्जनकोऽभवत् ॥ १९ ॥  
+[^non-baroDa-CE] यस्माद् विदेहात् सम्भूतो वैदेहस्तु ततः स्मृतः ।  
+[^non-baroDa-CE] एवं विदेहराजश्च जनकः पूर्वकोऽभवत् ।  
+[^non-baroDa-CE] मिथिर्नाम महातेजास्तेनायं मैथिलोऽभवत् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -660,3 +660,4 @@ After the gods depart, the great sages take Nimi’s lifeless body and churn it 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

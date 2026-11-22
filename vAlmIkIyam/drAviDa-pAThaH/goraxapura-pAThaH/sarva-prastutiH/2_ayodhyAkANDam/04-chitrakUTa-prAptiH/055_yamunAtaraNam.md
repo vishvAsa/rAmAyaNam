@@ -151,7 +151,7 @@ That great sage performed a rite of auspicious benediction for them (_teṣāṃ
 <details><summary>मूलम्</summary>
 
 ततः प्रचक्रमे वक्तुं वचनं स महामुनिः ।  
-भरद्वाजो महातेजा रामं सत्यपराक्रमम् ॥ ३ ॥
+[^non-baroDa-CE] भरद्वाजो महातेजा रामं सत्यपराक्रमम् ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -203,7 +203,7 @@ Then that great sage Bharadvāja of mighty splendor (_mahā-tejāḥ_) began to 
 <details><summary>मूलम्</summary>
 
 गङ्गायमुनयोः सन्धिमासाद्य मनुजर्षभौ ।  
-कालिन्दीमनुगच्छेतां नदीं पश्चान्मुखाश्रिताम् ॥ ४ ॥
+[^non-baroDa-CE] कालिन्दीमनुगच्छेतां नदीं पश्चान्मुखाश्रिताम् ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -494,7 +494,7 @@ endowed with serenity and free from forest-fire."
 <details><summary>मूलम्</summary>
 
 इति पन्थानमादिश्य महर्षिः सन्न्यवर्तत ।  
-अभिवाद्य तथेत्युक्त्वा रामेण विनिवर्तितः ॥ १० ॥
+[^non-baroDa-CE] अभिवाद्य तथेत्युक्त्वा रामेण विनिवर्तितः ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -946,8 +946,8 @@ Reaching mid-stream, Sītā prays to the goddess Kālindī for Rāma’s safe fu
 
 <details><summary>मूलम्</summary>
 
-कालिन्दीमध्यमायाता सीता त्वेनामवन्दत ।  
-स्वस्ति देवि तरामि त्वां पारयेन्मे पतिर्व्रतम् ॥ १९ ॥
+[^non-baroDa-CE] कालिन्दीमध्यमायाता सीता त्वेनामवन्दत ।  
+[^non-baroDa-CE] स्वस्ति देवि तरामि त्वां पारयेन्मे पतिर्व्रतम् ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -977,8 +977,8 @@ When she had reached the middle of the Kālindī (_kālindī-madhyam āyātā_),
 
 <details><summary>मूलम्</summary>
 
-यक्ष्ये त्वां गोसहस्रेण सुराघटशतेन च ।  
-स्वस्ति प्रत्यागते रामे पुरीमिक्ष्वाकुपालिताम् ॥ २० ॥
+[^non-baroDa-CE] यक्ष्ये त्वां गोसहस्रेण सुराघटशतेन च ।  
+[^non-baroDa-CE] स्वस्ति प्रत्यागते रामे पुरीमिक्ष्वाकुपालिताम् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1030,8 +1030,8 @@ shall propitiate you by offering a thousand cows and a hundred drinking vessels.
 
 <details><summary>मूलम्</summary>
 
-कालिन्दीमथ सीता तु याचमाना कृताञ्जलिः ।  
-तीरमेवाभिसम्प्राप्ता दक्षिणं वरवर्णिनी ॥ २१ ॥
+[^non-baroDa-CE] कालिन्दीमथ सीता तु याचमाना कृताञ्जलिः ।  
+[^non-baroDa-CE] तीरमेवाभिसम्प्राप्ता दक्षिणं वरवर्णिनी ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1178,7 +1178,7 @@ Having crossed over, left the raft behind (_plavam utsṛjya_), and set forth fr
 <details><summary>मूलम्</summary>
 
 न्यग्रोधं समुपागम्य वैदेही चाभ्यवन्दत ।  
-नमस्तेऽस्तु महावृक्ष पारयेन्मे पतिर्व्रतम् ॥ २४ ॥
+[^non-baroDa-CE] नमस्तेऽस्तु महावृक्ष पारयेन्मे पतिर्व्रतम् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1267,7 +1267,7 @@ Sumitra." Thus speaking, Seetha circumambulated that tree with joined palms.
 <details><summary>मूलम्</summary>
 
 अवलोक्य ततः सीतामायाचन्तीमनिन्दिताम् ।  
-दयितां च विधेयां च रामो लक्ष्मणमब्रवीत् ॥ २६ ॥
+[^non-baroDa-CE] दयितां च विधेयां च रामो लक्ष्मणमब्रवीत् ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1318,7 +1318,7 @@ Beholding the blameless, beloved, and compliant Sītā (_dayitāṃ ca vidheyā�
 
 <details><summary>मूलम्</summary>
 
-सीतामादाय गच्छ त्वमग्रतो भरतानुज ।  
+[^non-baroDa-CE] सीतामादाय गच्छ त्वमग्रतो भरतानुज ।  
 पृष्ठतोऽनुगमिष्यामि सायुधो द्विपदां वर ॥ २७ ॥
 </details>
 
@@ -1370,7 +1370,7 @@ along with weapons, will follow you behind."
 
 <details><summary>मूलम्</summary>
 
-यद् यत् फलं प्रार्थयते पुष्पं वा जनकात्मजा ।  
+[^non-baroDa-CE] यद् यत् फलं प्रार्थयते पुष्पं वा जनकात्मजा ।  
 तत् तत् प्रयच्छ वैदेह्या यत्रास्या रमते मनः ॥ २८ ॥
 </details>
 
@@ -1423,10 +1423,10 @@ mind finds delight."
 
 <details><summary>मूलम्</summary>
 
-एकैकं पादपं गुल्मं लतां वा पुष्पशालिनीम् ।  
+[^non-baroDa-CE] एकैकं पादपं गुल्मं लतां वा पुष्पशालिनीम् ।  
 अदृष्टरूपां पश्यन्ती रामं पप्रच्छ साऽबला ॥ २९ ॥
 _________________
-एकैकं पादपं गुल्मं लतां वा पुष्पशालिनीम् ।  
+[^non-baroDa-CE] एकैकं पादपं गुल्मं लतां वा पुष्पशालिनीम् ।  
 अदृष्टरूपां पश्यन्ति रामं पप्रच्छ साबला ॥
 </details>
 
@@ -1487,7 +1487,7 @@ As Sītā questions Rāma about every unfamiliar tree, shrub, and flowering cree
 <details><summary>मूलम्</summary>
 
 रमणीयान् बहुविधान् पादपान् कुसुमोत्करान् ।  
-सीतावचनसंरब्ध आनयामास लक्ष्मणः ॥ ३० ॥
+[^non-baroDa-CE] सीतावचनसंरब्ध आनयामास लक्ष्मणः ॥ ३० ॥
 _________________
 रमणीयान्बहुविधान् पादपान्कुसुमोत्करान् ।  
 सीतावचनसंरब्ध अनयामास लक्ष्मणः ॥
@@ -1542,8 +1542,8 @@ Beholding one by one each tree, shrub, or flower-laden creeper never seen before
 
 <details><summary>मूलम्</summary>
 
-विचित्रवालुकजलां हंससारसनादिताम् ।  
-रेमे जनकराजस्य सुता प्रेक्ष्य तदा नदीम् ॥ ३१ ॥
+[^non-baroDa-CE] विचित्रवालुकजलां हंससारसनादिताम् ।  
+[^non-baroDa-CE] रेमे जनकराजस्य सुता प्रेक्ष्य तदा नदीम् ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1704,3 +1704,4 @@ Having gone a mere _krośa_ from there, the two brothers Rāma and Lakṣmaṇa 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

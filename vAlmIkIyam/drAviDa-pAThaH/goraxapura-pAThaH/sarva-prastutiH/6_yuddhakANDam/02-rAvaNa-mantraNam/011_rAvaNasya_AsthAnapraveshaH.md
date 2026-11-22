@@ -41,8 +41,8 @@ Wasted by infatuated passion for Maithilī and by his sin, Rāvaṇa mounts his 
 
 <details><summary>मूलम्</summary>
 
-स बभूव कृशो राजा मैथिलीकाममोहितः ।  
-असन्मानाच्च सुहृदां पापः पापेन कर्मणा ॥ १ ॥
+[^non-baroDa-CE] स बभूव कृशो राजा मैथिलीकाममोहितः ।  
+[^non-baroDa-CE] असन्मानाच्च सुहृदां पापः पापेन कर्मणा ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -94,13 +94,13 @@ Infatuated by his passion for Maithilī (_maithilīkāma-mohitaḥ_), through hi
 
 <details><summary>मूलम्</summary>
 
-अतीव कामसम्पन्नो वैदेहीमनुचिन्तयन् ।  
-अतीतसमये काले तस्मिन् वै युधि रावणः ।  
-अमात्यैश्च सुहृद्भिश्च प्राप्तकालममन्यत ॥ २ ॥
+[^non-baroDa-CE] अतीव कामसम्पन्नो वैदेहीमनुचिन्तयन् ।  
+[^non-baroDa-CE] अतीतसमये काले तस्मिन् वै युधि रावणः ।  
+[^non-baroDa-CE] अमात्यैश्च सुहृद्भिश्च प्राप्तकालममन्यत ॥ २ ॥
 _________________
-अतीव कामसम्पन्नो वैदेहीमनुचिन्तयन् ।  
+[^non-baroDa-CE] अतीव कामसम्पन्नो वैदेहीमनुचिन्तयन् ।  
 अतीवसमये काले तस्मिन् वै युधि रावणः ।  
-अमात्यैश्च सुहृद्भिश्च प्राप्तकालममन्यत ॥
+[^non-baroDa-CE] अमात्यैश्च सुहृद्भिश्च प्राप्तकालममन्यत ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -136,8 +136,8 @@ Overwhelmed by desire and brooding upon Vaidehī (_vaidehīm anucintayan_), at t
 
 <details><summary>मूलम्</summary>
 
-स हेमजालविततं मणिविद्रुमभूषितम् ।  
-उपगम्य विनीताश्वमारुरोह महारथम् ॥ ३ ॥
+[^non-baroDa-CE] स हेमजालविततं मणिविद्रुमभूषितम् ।  
+[^non-baroDa-CE] उपगम्य विनीताश्वमारुरोह महारथम् ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -173,10 +173,10 @@ Approaching his great chariot, which was hung with lattices of gold (_hemajāla-
 
 <details><summary>मूलम्</summary>
 
-तमास्थाय रथश्रेष्ठं महामेघसमस्वनम् ।  
-प्रययौ रक्षसां श्रेष्ठो दशग्रीवः सभां प्रति ॥ ४ ॥
+[^non-baroDa-CE] तमास्थाय रथश्रेष्ठं महामेघसमस्वनम् ।  
+[^non-baroDa-CE] प्रययौ रक्षसां श्रेष्ठो दशग्रीवः सभां प्रति ॥ ४ ॥
 _________________
-तमास्थाय रथश्रेष्ठं महामेघसमस्वनम् ।  
+[^non-baroDa-CE] तमास्थाय रथश्रेष्ठं महामेघसमस्वनम् ।  
 प्रययौ राक्षसां श्रेष्ठो दशग्रीवः सभां प्रति ॥
 </details>
 
@@ -230,11 +230,11 @@ Mounting that foremost of chariots, which rumbled like a mighty storm-cloud (_ma
 
 <details><summary>मूलम्</summary>
 
-असिचर्मधरा योधाः सर्वायुधधरास्ततः ।  
-राक्षसा राक्षसेन्द्रस्य पुरस्तात् सम्प्रतस्थिरे ॥ ५ ॥
+[^non-baroDa-CE] असिचर्मधरा योधाः सर्वायुधधरास्ततः ।  
+[^non-baroDa-CE] राक्षसा राक्षसेन्द्रस्य पुरस्तात् सम्प्रतस्थिरे ॥ ५ ॥
 _________________
 असिचर्मधरा योधाः सर्वायुधधरास्तथा ।  
-राक्षसा राक्षसेन्द्रस्य पुरस्तात् सम्प्रतस्थिरे ॥
+[^non-baroDa-CE] राक्षसा राक्षसेन्द्रस्य पुरस्तात् सम्प्रतस्थिरे ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -279,8 +279,8 @@ Then rākṣasa warriors bearing swords and shields (_asicarmadharā yodhāḥ_)
 
 <details><summary>मूलम्</summary>
 
-नानाविकृतवेषाश्च नानाभूषणभूषिताः ।  
-पार्श्वतः पृष्ठतश्चैनं परिवार्य ययुस्तदा ॥ ६ ॥
+[^non-baroDa-CE] नानाविकृतवेषाश्च नानाभूषणभूषिताः ।  
+[^non-baroDa-CE] पार्श्वतः पृष्ठतश्चैनं परिवार्य ययुस्तदा ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -333,8 +333,8 @@ Followed by car-warriors, rutting elephants, and prancing steeds amid booming dr
 
 <details><summary>मूलम्</summary>
 
-रथैश्चातिरथाः शीघ्रं मत्तैश्च वरवारणैः ।  
-अनूत्पेतुर्दशग्रीवमाक्रीडद्भिश्च वाजिभिः ॥ ७ ॥
+[^non-baroDa-CE] रथैश्चातिरथाः शीघ्रं मत्तैश्च वरवारणैः ।  
+[^non-baroDa-CE] अनूत्पेतुर्दशग्रीवमाक्रीडद्भिश्च वाजिभिः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -386,12 +386,12 @@ Supreme car-warriors (_atirathāḥ_) swiftly followed behind the ten-necked kin
 
 <details><summary>मूलम्</summary>
 
-गदापरिघहस्ताश्च शक्तितोमरपाणयः ।  
-परश्वधधराश्चान्ये तथान्ये शूलपाणयः ।  
+[^non-baroDa-CE] गदापरिघहस्ताश्च शक्तितोमरपाणयः ।  
+[^non-baroDa-CE] परश्वधधराश्चान्ये तथान्ये शूलपाणयः ।  
 ततस्तूर्यसहस्राणं सञ्जज्ञे निःस्वनो महान् ॥ ८ ॥
 _________________
-गदापरिघहस्ताश्च शक्तितोमर पाणयः ।  
-परश्वधधराश्चान्ये तथान्ये शूलपाणयः ।  
+[^non-baroDa-CE] गदापरिघहस्ताश्च शक्तितोमर पाणयः ।  
+[^non-baroDa-CE] परश्वधधराश्चान्ये तथान्ये शूलपाणयः ।  
 ततस्तूर्यसहस्राणां सञ्जज्ञे निःस्वनो महान् ॥
 </details>
 
@@ -444,9 +444,9 @@ some with maces and iron clubs in hand (_gadāparigha-hastāś ca_), some graspi
 
 <details><summary>मूलम्</summary>
 
-तुमुलः शङ्खशब्दश्च सभां गच्छति रावणे ।  
-स नेमिघोषेण महान् सहसाभिनिनादयन् ॥ ९ ॥  
-राजमार्गं श्रिया जुष्टं प्रतिपेदे महारथः ।
+[^non-baroDa-CE] तुमुलः शङ्खशब्दश्च सभां गच्छति रावणे ।  
+[^non-baroDa-CE] स नेमिघोषेण महान् सहसाभिनिनादयन् ॥ ९ ॥  
+[^non-baroDa-CE] राजमार्गं श्रिया जुष्टं प्रतिपेदे महारथः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -496,11 +496,11 @@ and a tumultuous blast of conchs (_tumulaḥ śaṅkhaśabdaś ca_) as Rāvaṇa
 
 <details><summary>मूलम्</summary>
 
-विमलं चातपत्रं च प्रगृहीतमशोभत ॥ १० ॥  
-पाण्डुरं राक्षसेन्द्रस्य पूर्णस्ताराधिपो यथा ।
+[^non-baroDa-CE] विमलं चातपत्रं च प्रगृहीतमशोभत ॥ १० ॥  
+[^non-baroDa-CE] पाण्डुरं राक्षसेन्द्रस्य पूर्णस्ताराधिपो यथा ।
 _________________
 विमलं चातपत्रं च प्रगृहीतामशोभत ।  
-पाण्डुरं राक्षसेन्द्रस्य पूर्णस्ताराधिपो यथा ।
+[^non-baroDa-CE] पाण्डुरं राक्षसेन्द्रस्य पूर्णस्ताराधिपो यथा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -545,8 +545,8 @@ that great car-warrior entered upon the royal highway graced with splendor (_rā
 
 <details><summary>मूलम्</summary>
 
-हेममञ्जरिगर्भे च शुद्धस्फटिकविग्रहे ॥ ११ ॥  
-चामरव्यजने तस्य रेजतुः सव्यदक्षिणे ।
+[^non-baroDa-CE] हेममञ्जरिगर्भे च शुद्धस्फटिकविग्रहे ॥ ११ ॥  
+[^non-baroDa-CE] चामरव्यजने तस्य रेजतुः सव्यदक्षिणे ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -596,8 +596,8 @@ gleaming white over the lord of rākṣasas like the full lord of stars [the moo
 
 <details><summary>मूलम्</summary>
 
-ते कृताञ्जलयः सर्वे रथस्थं पृथिवीस्थिताः ॥ १२ ॥  
-राक्षसा राक्षसश्रेष्ठं शिरोभिस्तं ववन्दिरे ।
+[^non-baroDa-CE] ते कृताञ्जलयः सर्वे रथस्थं पृथिवीस्थिताः ॥ १२ ॥  
+[^non-baroDa-CE] राक्षसा राक्षसश्रेष्ठं शिरोभिस्तं ववन्दिरे ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -657,10 +657,10 @@ Greeted with cries of victory, Rāvaṇa enters the crystal-inlaid assembly hall
 <details><summary>मूलम्</summary>
 
 राक्षसैः स्तूयमानः सञ्जयाशीर्भिररिन्दमः ॥ १३ ॥  
-आससाद महातेजाः सभां विरचितां तदा ।
+[^non-baroDa-CE] आससाद महातेजाः सभां विरचितां तदा ।
 _________________
 राक्षसै स्तूयमानः सञ्जयाशीर्भिररिन्दमः ॥  
-आससाद महातेजाः सभां विरचितां तदा ।
+[^non-baroDa-CE] आससाद महातेजाः सभां विरचितां तदा ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -713,10 +713,10 @@ and the rākṣasas bowed their heads (_śirobhis taṃ vavandire_) to the chief
 
 <details><summary>मूलम्</summary>
 
-सुवर्णरजतास्तीर्णां विशुद्धस्फटिकान्तराम् ॥ १४ ॥  
-विराजमानो वपुषा रुक्मपट्टोत्तरच्छदाम् ।  
-तां पिशाचशतैः षड्‍‍भिरभिगुप्तां सदाप्रभाम् ॥ १५ ॥  
-प्रविवेश महातेजाः सुकृतां विश्वकर्मणा ।
+[^non-baroDa-CE] सुवर्णरजतास्तीर्णां विशुद्धस्फटिकान्तराम् ॥ १४ ॥  
+[^non-baroDa-CE] विराजमानो वपुषा रुक्मपट्टोत्तरच्छदाम् ।  
+[^non-baroDa-CE] तां पिशाचशतैः षड्‍‍भिरभिगुप्तां सदाप्रभाम् ॥ १५ ॥  
+[^non-baroDa-CE] प्रविवेश महातेजाः सुकृतां विश्वकर्मणा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -765,12 +765,12 @@ demons through cheers of victory, approached that organized assembly.
 
 <details><summary>मूलम्</summary>
 
-तस्यां तु वैदूर्यमयं प्रियकाजिनसंवृतम् ॥ १६ ॥  
-महत्सोपाश्रयं भेजे रावणः परमासनम् ।  
+[^non-baroDa-CE] तस्यां तु वैदूर्यमयं प्रियकाजिनसंवृतम् ॥ १६ ॥  
+[^non-baroDa-CE] महत्सोपाश्रयं भेजे रावणः परमासनम् ।  
 ततः शशासेश्वरवद्दूताल्ँ लघुपराक्रमान् ॥ १७ ॥
 _________________
-तस्यां तु वैदूर्यमयं प्रियकाजिन संवृतम् ॥
-महत्सोपाश्रयं भेजे रावणः परमासनम् ।  
+[^non-baroDa-CE] तस्यां तु वैदूर्यमयं प्रियकाजिन संवृतम् ॥
+[^non-baroDa-CE] महत्सोपाश्रयं भेजे रावणः परमासनम् ।  
 ततः शशासेश्वरवद्दूतांल्लघुपराक्रमान् ॥
 </details>
 
@@ -844,8 +844,8 @@ eye gems), covered with skin of deer called Priyaka and furnished with pillows.
 
 <details><summary>मूलम्</summary>
 
-समानयत मे क्षिप्रमिहैतान् राक्षसानिति ।  
-कृत्यमस्ति महज्जाने कर्तव्यमिति शत्रुभिः ॥ १८ ॥
+[^non-baroDa-CE] समानयत मे क्षिप्रमिहैतान् राक्षसानिति ।  
+[^non-baroDa-CE] कृत्यमस्ति महज्जाने कर्तव्यमिति शत्रुभिः ॥ १८ ॥
 _________________
 समानयत मे क्षिप्रमिं हैतान् राक्षसानिति ।  
 कृत्यमस्ति महाज्जाने कर्तव्यमिति शत्रुभिः ॥
@@ -911,13 +911,13 @@ Summoned from every house and pleasure-garden, rākṣasa warriors throng the st
 
 <details><summary>मूलम्</summary>
 
-राक्षसास्तद्वचः श्रुत्वा लङ्कायां परिचक्रमुः ।  
-अनुगेहमवस्थाय विहारशयनेषु च ।  
-उद्यानेषु च रक्षांसि चोदयन्तो ह्यभीतवत् ॥ १९ ॥
+[^non-baroDa-CE] राक्षसास्तद्वचः श्रुत्वा लङ्कायां परिचक्रमुः ।  
+[^non-baroDa-CE] अनुगेहमवस्थाय विहारशयनेषु च ।  
+[^non-baroDa-CE] उद्यानेषु च रक्षांसि चोदयन्तो ह्यभीतवत् ॥ १९ ॥
 _________________
 राक्षसास्तद्वचः शृत्वा लङ्कयां परिचक्रमुः ।  
-अनुगेहमवस्थाय विहारशयनेषु च ।  
-उद्यानेषु च रक्षांसि चोदयन्तो ह्यभीतवत् ॥
+[^non-baroDa-CE] अनुगेहमवस्थाय विहारशयनेषु च ।  
+[^non-baroDa-CE] उद्यानेषु च रक्षांसि चोदयन्तो ह्यभीतवत् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -947,11 +947,11 @@ Hearing that command of his, the rākṣasa [heralds] went round Laṅkā (_la�
 
 <details><summary>मूलम्</summary>
 
-ते रथान्तचरा एके दृप्तानेके दृढान् हयान् ।  
-नागानेकेऽधिरुरुहुर्जग्मुश्चैके पदातयः ॥ २० ॥
+[^non-baroDa-CE] ते रथान्तचरा एके दृप्तानेके दृढान् हयान् ।  
+[^non-baroDa-CE] नागानेकेऽधिरुरुहुर्जग्मुश्चैके पदातयः ॥ २० ॥
 _________________
 ते रथान्तचारा एके दृप्तानेके दृढान् हयान् ।  
-नागानेकेऽधिरुरुहुर्जग्मुश्चैके पदातयः ॥
+[^non-baroDa-CE] नागानेकेऽधिरुरुहुर्जग्मुश्चैके पदातयः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -998,10 +998,10 @@ Some of them rode within chariots (_rathāntacarā eke_), some mounted proud and
 
 <details><summary>मूलम्</summary>
 
-सा पुरी परमाकीर्णा रथकुञ्जरवाजिभिः ।  
-सम्पतद्भिर्विरुरुचे गरुत्मद्भिरिवाम्बरम् ॥ २१ ॥
+[^non-baroDa-CE] सा पुरी परमाकीर्णा रथकुञ्जरवाजिभिः ।  
+[^non-baroDa-CE] सम्पतद्भिर्विरुरुचे गरुत्मद्भिरिवाम्बरम् ॥ २१ ॥
 _________________
-सा पुरी परमाकीर्णा रथकुञ्जरवाजिभिः ।  
+[^non-baroDa-CE] सा पुरी परमाकीर्णा रथकुञ्जरवाजिभिः ।  
 सम्पतद्भिर्विरुरुचे गुरुत्मद्भिरिवाम्बरम् ॥
 </details>
 
@@ -1054,8 +1054,8 @@ Thronged to the utmost (_paramākīrṇā_) with hurtling chariots, elephants, a
 
 <details><summary>मूलम्</summary>
 
-ते वाहनान्यवस्थाय यानानि विविधानि च ।  
-सभां पद्भिः प्रविविशुः सिंहा गिरिगुहामिव ॥ २२ ॥
+[^non-baroDa-CE] ते वाहनान्यवस्थाय यानानि विविधानि च ।  
+[^non-baroDa-CE] सभां पद्भिः प्रविविशुः सिंहा गिरिगुहामिव ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1106,8 +1106,8 @@ Leaving their mounts and diverse conveyances outside (_vāhanāny avasthāya yā
 
 <details><summary>मूलम्</summary>
 
-राज्ञः पादौ गृहीत्वा तु राज्ञा ते प्रतिपूजिताः ।  
-पीठेष्वन्ये बृसीष्वन्ये भूमौ केचिदुपाविशन् ॥ २३ ॥
+[^non-baroDa-CE] राज्ञः पादौ गृहीत्वा तु राज्ञा ते प्रतिपूजिताः ।  
+[^non-baroDa-CE] पीठेष्वन्ये बृसीष्वन्ये भूमौ केचिदुपाविशन् ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1166,10 +1166,10 @@ Wise ministers, accomplished counselors, and hundreds of heroes assemble in the 
 
 <details><summary>मूलम्</summary>
 
-ते समेत्य सभायां वै राक्षसा राजशासनात् ।  
-यथार्हमुपतस्थुस्ते रावणं राक्षसाधिपम् ॥ २४ ॥
+[^non-baroDa-CE] ते समेत्य सभायां वै राक्षसा राजशासनात् ।  
+[^non-baroDa-CE] यथार्हमुपतस्थुस्ते रावणं राक्षसाधिपम् ॥ २४ ॥
 _________________
-ते समेत्य सभायां वै राक्षसा राजशासनात् ।  
+[^non-baroDa-CE] ते समेत्य सभायां वै राक्षसा राजशासनात् ।  
 यथार्हमुपतस्थुत्वे रावणं राक्षसाधिपम् ॥
 </details>
 
@@ -1218,15 +1218,15 @@ Assembling in the council hall at the King&#x27;s command (_rājaśāsanāt_), t
 
 <details><summary>मूलम्</summary>
 
-मन्त्रिणश्च यथामुख्या निश्चितार्थेषु पण्डिताः ।  
-अमात्याश्च गुणोपेताः सर्वज्ञा बुद्धिदर्शनाः ॥ २५ ॥  
-समीयुस्तत्र शतशः शूराश्च बहवस्तथा ।  
-सभायां हेमवर्णायां सर्वार्थस्य सुखाय वै ॥ २६ ॥
+[^non-baroDa-CE] मन्त्रिणश्च यथामुख्या निश्चितार्थेषु पण्डिताः ।  
+[^non-baroDa-CE] अमात्याश्च गुणोपेताः सर्वज्ञा बुद्धिदर्शनाः ॥ २५ ॥  
+[^non-baroDa-CE] समीयुस्तत्र शतशः शूराश्च बहवस्तथा ।  
+[^non-baroDa-CE] सभायां हेमवर्णायां सर्वार्थस्य सुखाय वै ॥ २६ ॥
 _________________
-मन्त्रिणश्च यथामुख्या निश्चितार्थेषु पण्डिताः ।  
-अमात्याश्च गुणोपेताः सर्वज्ञा बुद्धिदर्शनाः ॥
+[^non-baroDa-CE] मन्त्रिणश्च यथामुख्या निश्चितार्थेषु पण्डिताः ।  
+[^non-baroDa-CE] अमात्याश्च गुणोपेताः सर्वज्ञा बुद्धिदर्शनाः ॥
 समीयुस्तत्र शततः शूराश्च बहवस्तथा ।  
-सभायां हेमवर्णायां सर्वार्थस्य सुखाय वै ॥
+[^non-baroDa-CE] सभायां हेमवर्णायां सर्वार्थस्य सुखाय वै ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1276,15 +1276,15 @@ position round Ravana the king of demons, each according to their rank.
 
 <details><summary>मूलम्</summary>
 
-ततो महात्मा विपुलं सुयुग्यं  
-रथं वरं हेमविचित्रिताङ्गम् ।  
-शुभं समास्थाय ययौ यशस्वी  
-विभीषणः संसदमग्रजस्य ॥ २७ ॥
+[^non-baroDa-CE] ततो महात्मा विपुलं सुयुग्यं  
+[^non-baroDa-CE] रथं वरं हेमविचित्रिताङ्गम् ।  
+[^non-baroDa-CE] शुभं समास्थाय ययौ यशस्वी  
+[^non-baroDa-CE] विभीषणः संसदमग्रजस्य ॥ २७ ॥
 _________________
-ततो महात्मा विपुलं सुयुग्यं  
-रथं वरं हेमविचित्रिताङ्गम् ।  
+[^non-baroDa-CE] ततो महात्मा विपुलं सुयुग्यं  
+[^non-baroDa-CE] रथं वरं हेमविचित्रिताङ्गम् ।  
 शुभं समाथाय ययौ यशस्वी  
-विभीषणः संसदमग्रजस्य ॥
+[^non-baroDa-CE] विभीषणः संसदमग्रजस्य ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1360,10 +1360,10 @@ Vibhīṣaṇa announces his name and bows to Rāvaṇa's feet; perfumed with al
 
 <details><summary>मूलम्</summary>
 
-स पूर्वजायावरजः शशंस  
-नामाथ पश्चाच्चरणौ ववन्दे ।  
-शुकः प्रहस्तश्च तथैव तेभ्यो  
-ददौ यथार्हं पृथगासनानि ॥ २८ ॥
+[^non-baroDa-CE] स पूर्वजायावरजः शशंस  
+[^non-baroDa-CE] नामाथ पश्चाच्चरणौ ववन्दे ।  
+[^non-baroDa-CE] शुकः प्रहस्तश्च तथैव तेभ्यो  
+[^non-baroDa-CE] ददौ यथार्हं पृथगासनानि ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1414,15 +1414,15 @@ That younger brother (_avarajaḥ_) announced his name (_śaśaṃsa nāma_) to 
 
 <details><summary>मूलम्</summary>
 
-सुवर्णनानामणिभूषणानां  
-सुवाससां संसदि राक्षसानाम् ।  
-तेषां परार्घ्यागुरुचन्दनानां  
-स्रजां च गन्धाः प्रववुः समन्तात् ॥ २९ ॥
+[^non-baroDa-CE] सुवर्णनानामणिभूषणानां  
+[^non-baroDa-CE] सुवाससां संसदि राक्षसानाम् ।  
+[^non-baroDa-CE] तेषां परार्घ्यागुरुचन्दनानां  
+[^non-baroDa-CE] स्रजां च गन्धाः प्रववुः समन्तात् ॥ २९ ॥
 _________________
-सुवर्णनानामणिभूषणानां  
-सुवाससां संसदि राक्षसानाम् ।  
+[^non-baroDa-CE] सुवर्णनानामणिभूषणानां  
+[^non-baroDa-CE] सुवाससां संसदि राक्षसानाम् ।  
 तेषां परार्ध्यागुरुचन्दनानां  
-स्रजां च गन्धाः प्रववुः समन्तात् ॥
+[^non-baroDa-CE] स्रजां च गन्धाः प्रववुः समन्तात् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1479,10 +1479,10 @@ In that assembly of rākṣasas decked with ornaments of gold and diverse gems (
 
 <details><summary>मूलम्</summary>
 
-न चुक्रुशुर्नानृतमाह कश्चित्  
-सभासदो नापि जजल्पुरुच्चैः ।  
-संसिद्धार्थाः सर्व एवोग्रवीर्या  
-भर्तुः सर्वे ददृशुश्चाननं ते ॥ ३० ॥
+[^non-baroDa-CE] न चुक्रुशुर्नानृतमाह कश्चित्  
+[^non-baroDa-CE] सभासदो नापि जजल्पुरुच्चैः ।  
+[^non-baroDa-CE] संसिद्धार्थाः सर्व एवोग्रवीर्या  
+[^non-baroDa-CE] भर्तुः सर्वे ददृशुश्चाननं ते ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1539,10 +1539,10 @@ None of the members of that assembly clamored (_na cukruśuḥ_), none spoke an 
 
 <details><summary>मूलम्</summary>
 
-स रावणः शस्त्रभृतां मनस्विनां  
-महाबलानां समितौ मनस्वी ।  
-तस्यां सभायां प्रभया चकाशे  
-मध्ये वसूनामिव वज्रहस्तः ॥ ३१ ॥
+[^non-baroDa-CE] स रावणः शस्त्रभृतां मनस्विनां  
+[^non-baroDa-CE] महाबलानां समितौ मनस्वी ।  
+[^non-baroDa-CE] तस्यां सभायां प्रभया चकाशे  
+[^non-baroDa-CE] मध्ये वसूनामिव वज्रहस्तः ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1614,3 +1614,4 @@ In that conclave (_samitau_) of high-minded, mighty-armed weapon-bearers (_śast
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

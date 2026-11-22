@@ -391,7 +391,7 @@ Hearing that Rāma together with his wife has been banished by the king, who was
 
 <details><summary>मूलम्</summary>
 
-स मामनाथां विधवां नाद्य जानाति धार्मिकः ।  
+[^non-baroDa-CE] स मामनाथां विधवां नाद्य जानाति धार्मिकः ।  
 रामः कमलपत्राक्षो जीवन्नाशमितो गतः ॥ ८ ॥
 </details>
 
@@ -445,7 +445,7 @@ That righteous, lotus-eyed Rāma, who has gone hence to a living ruin (_jīvan-n
 <details><summary>मूलम्</summary>
 
 विदेहराजस्य सुता तथा चारुतपस्विनी ।  
-दुःखस्यानुचिता दुःखं वने पर्युद्विजिष्यति ॥ ९ ॥
+[^non-baroDa-CE] दुःखस्यानुचिता दुःखं वने पर्युद्विजिष्यति ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -602,7 +602,7 @@ Old as he is and having no other child (_vṛddhaś caivālpa-putraś ca_), broo
 <details><summary>मूलम्</summary>
 
 साहमद्यैव दिष्टान्तं गमिष्यामि पतिव्रता ।  
-इदं शरीरमालिङ्ग्य प्रवेक्ष्यामि हुताशनम् ॥ १२ ॥
+[^non-baroDa-CE] इदं शरीरमालिङ्ग्य प्रवेक्ष्यामि हुताशनम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -920,7 +920,7 @@ Throwing up their arms (_bāhūn udyamya_), those wretched women, with faces str
 
 <details><summary>मूलम्</summary>
 
-हा महाराज रामेण सततं प्रियवादिना ।  
+[^non-baroDa-CE] हा महाराज रामेण सततं प्रियवादिना ।  
 विहीनाः सत्यसन्धेन किमर्थं विजहासि नः ॥ १८ ॥
 </details>
 
@@ -1083,8 +1083,8 @@ For that glorious and self-controlled Rāma, who was ever our protector and your
 
 <details><summary>मूलम्</summary>
 
-त्वया तेन च वीरेण विना व्यसनमोहिताः ।  
-कथं वयं निवत्स्यामः कैकेय्या च विदूषिताः ॥ २१ ॥
+[^non-baroDa-CE] त्वया तेन च वीरेण विना व्यसनमोहिताः ।  
+[^non-baroDa-CE] कथं वयं निवत्स्यामः कैकेय्या च विदूषिताः ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1351,7 +1351,7 @@ With its people overwhelmed with tears (_bāṣpa-paryākula-janā_), its noblew
 गते तु शोकात् त्रिदिवं नराधिपे  
 महीतलस्थासु नृपाङ्गनासु च ।  
 निवृत्तचारः सहसा गतो रविः  
-प्रवृत्तचारा रजनी ह्युपस्थिता ॥ २६ ॥
+[^non-baroDa-CE] प्रवृत्तचारा रजनी ह्युपस्थिता ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1475,8 +1475,8 @@ The assembled friends and kinsmen did not approve of cremating the lord of the e
 
 <details><summary>मूलम्</summary>
 
-गतप्रभा द्यौरिव भास्करं विना  
-व्यपेतनक्षत्रगणेव शर्वरी ।  
+[^non-baroDa-CE] गतप्रभा द्यौरिव भास्करं विना  
+[^non-baroDa-CE] व्यपेतनक्षत्रगणेव शर्वरी ।  
 पुरी बभासे रहिता महात्मना  
 कण्ठास्रकण्ठाकुलमार्गचत्वरा ॥ २८ ॥
 </details>
@@ -1595,3 +1595,4 @@ Coming together in crowds (_sametya saṅghaśaḥ_) and reproaching the mother 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

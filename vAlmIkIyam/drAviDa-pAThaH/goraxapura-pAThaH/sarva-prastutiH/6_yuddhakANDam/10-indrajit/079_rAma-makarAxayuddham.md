@@ -876,10 +876,10 @@ Hearing the speech of Makarākṣa, Rāma, the son of Daśaratha, smilingly (_pr
 
 <details><summary>मूलम्</summary>
 
-कत्थसे किं वृथा रक्षो बहून्यसदृशानि ते ।  
-न रणे शक्यते जेतुं विना युद्धेन वाग्बलात् ॥ १८ ॥
+[^non-baroDa-CE] कत्थसे किं वृथा रक्षो बहून्यसदृशानि ते ।  
+[^non-baroDa-CE] न रणे शक्यते जेतुं विना युद्धेन वाग्बलात् ॥ १८ ॥
 _________________
-कत्थसे किं वृथा रक्षो बहून्यसदृशानि ते ।  
+[^non-baroDa-CE] कत्थसे किं वृथा रक्षो बहून्यसदृशानि ते ।  
 न रणे शक्यते जेतुं विना युद्धेन वाग्भलात् ॥
 </details>
 
@@ -1010,7 +1010,7 @@ goad-like claws will be satiated with your flesh."
 
 <details><summary>मूलम्</summary>
 
-राघवेणैवमुक्तस्तु मकराक्षो महाबलः ।  
+[^non-baroDa-CE] राघवेणैवमुक्तस्तु मकराक्षो महाबलः ।  
 बाणौघानमुचत् तस्मै राघवाय रणाजिरे ॥ २१ ॥
 </details>
 
@@ -1573,10 +1573,10 @@ Standing upon the earth (_tiṣṭhad vasudhām_), that rākṣasa seized with h
 <details><summary>मूलम्</summary>
 
 दुरवापं महच्छूलं रुद्रदत्तं भयङ्करम् ।  
-जाज्वल्यमानमाकाशे संहारास्त्रमिवापरम् ॥ ३२ ॥
+[^non-baroDa-CE] जाज्वल्यमानमाकाशे संहारास्त्रमिवापरम् ॥ ३२ ॥
 _________________
 दुरावापं महच्छूलं रुद्रदत्तं भयङ्करम् ।  
-जाज्वल्यमानमाकाशे संहारास्त्रमिवापरम् ॥
+[^non-baroDa-CE] जाज्वल्यमानमाकाशे संहारास्त्रमिवापरम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1635,11 +1635,11 @@ A great and terrifying pike, hard to obtain (_duravāpam_), bestowed by Rudra (_
 
 <details><summary>मूलम्</summary>
 
-यं दृष्ट्वा देवताः सर्वा भयार्ता विद्रुता दिशः ।  
+[^non-baroDa-CE] यं दृष्ट्वा देवताः सर्वा भयार्ता विद्रुता दिशः ।  
 विभ्राम्य च महच्छूलं प्रज्वलन्तं निशाचरः ॥ ३३ ॥  
 स क्रोधात् प्राहिणोत् तस्मै राघवाय महाहवे ।
 _________________
-यं दृष्ट्वा देवताः सर्वा भयार्ता विद्रुता दिशः ।  
+[^non-baroDa-CE] यं दृष्ट्वा देवताः सर्वा भयार्ता विद्रुता दिशः ।  
 विभ्राम्य तु महच्छूलं प्रज्वलन्तं निशाचरः ॥  
 स क्रोधात् प्रहिणोत्तस्मै राघवाय महाहवे ।
 </details>
@@ -2107,3 +2107,4 @@ Then the delighted deities (_devatāḥ prahṛṣṭāḥ_) beheld that night-s
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

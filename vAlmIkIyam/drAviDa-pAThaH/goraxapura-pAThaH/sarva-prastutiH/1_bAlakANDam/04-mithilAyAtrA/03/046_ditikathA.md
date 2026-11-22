@@ -868,10 +868,10 @@ Oh, son Indra, whom I am now bringing up, will be enthusiastic in
 
 <details><summary>मूलम्</summary>
 
-याचितेन सुरश्रेष्ठ पित्रा तव महात्मना ।  
-वरो वर्षसहस्रान्ते मम दत्तः सुतं प्रति ॥ १५ ॥
+[^non-baroDa-CE] याचितेन सुरश्रेष्ठ पित्रा तव महात्मना ।  
+[^non-baroDa-CE] वरो वर्षसहस्रान्ते मम दत्तः सुतं प्रति ॥ १५ ॥
 _________________
-याचितेन सुरश्रेष्ठ पित्रा तव महात्मना ।  
+[^non-baroDa-CE] याचितेन सुरश्रेष्ठ पित्रा तव महात्मना ।  
 वरो वर्षसहस्रान्तॆ मम दत्तः सुतं प्रति ॥
 </details>
 
@@ -1365,3 +1365,4 @@ Standing before her with folded hands while still holding the thunderbolt (_prā
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

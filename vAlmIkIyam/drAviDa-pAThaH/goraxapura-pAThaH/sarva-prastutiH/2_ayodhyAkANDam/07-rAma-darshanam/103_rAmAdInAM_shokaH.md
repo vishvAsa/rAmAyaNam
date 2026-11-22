@@ -1394,7 +1394,7 @@ Then behind them, accompanied by his ministers, the chief men of the city, the s
 <details><summary>मूलम्</summary>
 
 इदं भुङ्क्ष्व महाराज प्रीतो यदशना वयम् ।  
-यदन्नः पुरुषो भवति तदन्नास्तस्य देवताः ॥ ३० ॥
+[^non-baroDa-CE] यदन्नः पुरुषो भवति तदन्नास्तस्य देवताः ॥ ३० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2299,3 +2299,4 @@ of drums.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

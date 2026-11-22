@@ -416,7 +416,7 @@ Having first been reviled (_paruṣitaḥ_) by her and then praised once again (
 
 चतुर्दश सहस्राणि मम चित्तानुवर्तिनाम् ।  
 रक्षसां भीमवेगानां समरेष्वनिवर्तिनाम् ॥ ८ ॥  
-नीलजीमूतवर्णानां लोकहिंसाविहारिणाम् ।  
+[^non-baroDa-CE] नीलजीमूतवर्णानां लोकहिंसाविहारिणाम् ।  
 सर्वोद्योगमुदीर्णानां रक्षसां सौम्य कारय ॥ ९ ॥
 _________________
 चतुर्दश सहस्राणि मम चित्तानुवर्तिनाम् ।  
@@ -1258,3 +1258,4 @@ With his wrathful fury swollen (_pravṛddha-manyuḥ_), the harsh-voiced (_khar
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

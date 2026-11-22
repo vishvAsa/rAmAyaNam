@@ -374,10 +374,10 @@ Receiving Śabarī's ritual hospitality, Rāma gently inquires after the progres
 
 <details><summary>मूलम्</summary>
 
-पाद्यमाचमनीयं च सर्वं प्रादाद् यथाविधि ।  
+[^non-baroDa-CE] पाद्यमाचमनीयं च सर्वं प्रादाद् यथाविधि ।  
 तामुवाच ततो रामः श्रमणीं धर्मसंस्थिताम् ॥ ७ ॥
 _________________
-पाद्यमाचमनीयं च सर्वं प्रादाद्यथाविधि ।  
+[^non-baroDa-CE] पाद्यमाचमनीयं च सर्वं प्रादाद्यथाविधि ।  
 तामुवाच ततो रामः श्रमणीं शंसितव्रताम् ॥
 </details>
 
@@ -604,7 +604,7 @@ Thus questioned by Rāma (_rāmeṇa pṛṣṭā_), that aged ascetic woman Śa
 <details><summary>मूलम्</summary>
 
 अद्य प्राप्ता तपःसिद्धिस्तव सन्दर्शनान्मया ।  
-अद्य मे सफलं जन्म गुरवश्च सुपूजिताः ॥ ११ ॥
+[^non-baroDa-CE] अद्य मे सफलं जन्म गुरवश्च सुपूजिताः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -677,8 +677,8 @@ Shabari: Yes, yes, so also I stand ennobled after envisaging you, just now...'
 
 <details><summary>मूलम्</summary>
 
-अद्य मे सफलं तप्तं स्वर्गश्चैव भविष्यति ।  
-त्वयि देववरे राम पूजिते पुरुषर्षभ ॥ १२ ॥
+[^non-baroDa-CE] अद्य मे सफलं तप्तं स्वर्गश्चैव भविष्यति ।  
+[^non-baroDa-CE] त्वयि देववरे राम पूजिते पुरुषर्षभ ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -755,7 +755,7 @@ Today the austerity I have practiced has borne fruit (_saphalaṃ taptam_), and 
 
 <details><summary>मूलम्</summary>
 
-तवाहं चक्षुषा सौम्य पूता सौम्येन मानद ।  
+[^non-baroDa-CE] तवाहं चक्षुषा सौम्य पूता सौम्येन मानद ।  
 गमिष्याम्यक्षयांल्लोकांस्त्वत्प्रसादादरिन्दम ॥ १३ ॥
 _________________
 चक्षुषा तवाहं सौम्य पूतासौम्येन मानद ।  
@@ -964,7 +964,7 @@ is *mukti*, salvation from life cycles. Govindaraja
 
 <details><summary>मूलम्</summary>
 
-एवमुक्ता महाभागैस्तदाहं पुरुषर्षभ ।  
+[^non-baroDa-CE] एवमुक्ता महाभागैस्तदाहं पुरुषर्षभ ।  
 मया तु सञ्चितं वन्यं विविधं पुरुषर्षभ ॥ १७ ॥  
 तवार्थे पुरुषव्याघ्र पम्पायास्तीरसम्भवम् ।
 </details>
@@ -1598,8 +1598,8 @@ The bark-garments hung upon the trees here (_nyastā valkalāḥ pādapeṣv iha
 
 <details><summary>मूलम्</summary>
 
-देवकार्याणि कुर्वद्भिर्यानीमानि कृतानि वै ।  
-पुष्पैः कुवलयैः सार्धं म्लानत्वं न तु यान्ति वै ॥ २७ ॥
+[^non-baroDa-CE] देवकार्याणि कुर्वद्भिर्यानीमानि कृतानि वै ।  
+[^non-baroDa-CE] पुष्पैः कुवलयैः सार्धं म्लानत्वं न तु यान्ति वै ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1767,7 +1767,7 @@ I wish to go to the presence of those self-purified sages (_teṣām icchāmy ah
 <details><summary>मूलम्</summary>
 
 धर्मिष्ठं तु वचः श्रुत्वा राघवः सहलक्ष्मणः ।  
-प्रहर्षमतुलं लेभे आश्चर्यमिति चाब्रवीत् ॥ ३० ॥
+[^non-baroDa-CE] प्रहर्षमतुलं लेभे आश्चर्यमिति चाब्रवीत् ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1836,8 +1836,8 @@ Granted leave by Rāma, the ascetic Śabarī offers herself into the sacrificial
 
 <details><summary>मूलम्</summary>
 
-तामुवाच ततो रामः शबरीं संशितव्रताम् ।  
-अर्चितोऽहं त्वया भद्रे गच्छ कामं यथासुखम् ॥ ३१ ॥
+[^non-baroDa-CE] तामुवाच ततो रामः शबरीं संशितव्रताम् ।  
+[^non-baroDa-CE] अर्चितोऽहं त्वया भद्रे गच्छ कामं यथासुखम् ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1900,19 +1900,19 @@ Then Rāma spoke to that Śabarī of austere vows (_śabarīṃ saṃśita-vrat�
 
 <details><summary>मूलम्</summary>
 
-इत्येवमुक्ता जटिला चीरकृष्णाजिनाम्बरा ।  
+[^non-baroDa-CE] इत्येवमुक्ता जटिला चीरकृष्णाजिनाम्बरा ।  
 अनुज्ञाता तु रामेण हुत्वाऽऽत्मानं हुताशने ॥ ३२ ॥  
 ज्वलत्पावकसङ्काशा स्वर्गमेव जगाम ह ।  
-दिव्याभरणसंयुक्ता दिव्यमाल्यानुलेपना ॥ ३३ ॥  
-दिव्याम्बरधरा तत्र बभूव प्रियदर्शना ।  
-विराजयन्ती तं देशं विद्युत्सौदामनी यथा ॥ ३४ ॥
+[^non-baroDa-CE] दिव्याभरणसंयुक्ता दिव्यमाल्यानुलेपना ॥ ३३ ॥  
+[^non-baroDa-CE] दिव्याम्बरधरा तत्र बभूव प्रियदर्शना ।  
+[^non-baroDa-CE] विराजयन्ती तं देशं विद्युत्सौदामनी यथा ॥ ३४ ॥
 _________________
 इत्येमुक्ता जटिला चीरकृष्णाजिनाम्बरा ।  
 अनुज्ञाता तु रामेण हुत्वाऽऽत्मानं हुताशने ॥
 ज्वलत्पावकसङ्काशा स्वर्गमेव जगाम ह ।  
-दिव्याभरणसंयुक्ता दिव्यमाल्यानुलेपना ॥
-दिव्याम्बरधरा तत्र बभूव प्रियदर्शना ।  
-विराजयन्ती तं देशं विद्युत्सौदामनी यथा ॥
+[^non-baroDa-CE] दिव्याभरणसंयुक्ता दिव्यमाल्यानुलेपना ॥
+[^non-baroDa-CE] दिव्याम्बरधरा तत्र बभूव प्रियदर्शना ।  
+[^non-baroDa-CE] विराजयन्ती तं देशं विद्युत्सौदामनी यथा ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2063,3 +2063,4 @@ Through her absorption in the Self (_ātma-samādhinā_), Śabarī departed to t
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

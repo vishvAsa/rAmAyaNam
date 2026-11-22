@@ -62,8 +62,8 @@ Having proceeded a yojana and a half (_adhyardha-yojanaṃ gatvā_), the delight
 
 <details><summary>मूलम्</summary>
 
-तां नदीमाकुलावर्तां सर्वत्रानुसरन् नृपः ।  
-आगतः सप्रजो रामस्तं देशं रघुनन्दनः ॥ २ ॥
+[^non-baroDa-CE] तां नदीमाकुलावर्तां सर्वत्रानुसरन् नृपः ।  
+[^non-baroDa-CE] आगतः सप्रजो रामस्तं देशं रघुनन्दनः ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -130,8 +130,8 @@ Following along every bend of that river teeming with swirling eddies (_tāṃ n
 
 <details><summary>मूलम्</summary>
 
-दिव्यतेजोवृतं व्योम ज्योतिर्भूतमनुत्तमम् ।  
-स्वयम्प्रभैः स्वतेजोभिः स्वर्गिभिः पुण्यकर्मभिः ॥ ५ ॥
+[^non-baroDa-CE] दिव्यतेजोवृतं व्योम ज्योतिर्भूतमनुत्तमम् ।  
+[^non-baroDa-CE] स्वयम्प्रभैः स्वतेजोभिः स्वर्गिभिः पुण्यकर्मभिः ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -161,7 +161,7 @@ Overspread with divine effulgence (_divya-tejovṛtam_), the firmament became a 
 
 <details><summary>मूलम्</summary>
 
-पुण्या वाता ववुश्चैव गन्धवन्तः सुखप्रदाः ।  
+[^non-baroDa-CE] पुण्या वाता ववुश्चैव गन्धवन्तः सुखप्रदाः ।  
 पपात पुष्पवृष्टिश्च देवैर्मुक्ता महौघवत् ॥ ६ ॥
 </details>
 
@@ -263,7 +263,7 @@ Thereupon the Grandfather spoke a voice from the sky (_pitāmaho vāṇīm antar
 <details><summary>मूलम्</summary>
 
 भ्रातृभिः सह देवाभैः प्रविशस्व स्विकां तनुम् ।  
-यामिच्छसि महाबाहो तां तनुं प्रविश स्विकाम् ॥ ९ ॥
+[^non-baroDa-CE] यामिच्छसि महाबाहो तां तनुं प्रविश स्विकाम् ॥ ९ ॥
 _________________
 भ्रातृभिः सह देवाभैः प्रविशस्व स्विकां तनुम् ।  
 यामिच्छसि महाबाहो तां तनुं प्रविश स्वकाम् ॥
@@ -618,12 +618,12 @@ _________________
 
 वानराश्च स्विकां योनिमृक्षाश्चैव तथा ययुः ॥ २० ॥  
 येभ्यो विनिःसृताः सर्वे सुरेभ्यः सुरसम्भवाः ।  
-तेषु प्रविविशे चैव सुग्रीवः सूर्यमण्डलम् ॥ २१ ॥  
+[^non-baroDa-CE] तेषु प्रविविशे चैव सुग्रीवः सूर्यमण्डलम् ॥ २१ ॥  
 पश्यतां सर्वदेवानां स्वान् पितॄन् प्रतिपेदिरे ।
 _________________
 वानराश्च स्विकां योनिमृक्षाश्चैव तथा ययुः ॥
 येभ्यो विनिःसृताः सर्वे सुरेभ्यःसुरसम्भवाः ।  
-तेषु प्रविविशे चैव सुग्रीवः सूर्यमण्डलम् ॥  
+[^non-baroDa-CE] तेषु प्रविविशे चैव सुग्रीवः सूर्यमण्डलम् ॥  
 पश्यतां सर्वदेवानां स्वान् पितृन् प्रतिपेदिरे ।
 </details>
 
@@ -849,3 +849,4 @@ Thereupon, having established all those who had assembled in heaven (_samāgatā
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

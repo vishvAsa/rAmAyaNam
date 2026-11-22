@@ -1037,7 +1037,7 @@ Having circumambulated that sage and taken his leave with a joyful heart (_kṛt
 <details><summary>मूलम्</summary>
 
 स तामभ्यवदत् प्रीतो वरेप्सुं पुत्रजन्मनि ।  
-पुत्रस्ते भविता देवि महात्मा लोकविश्रुतः ॥ २१ ॥  
+[^non-baroDa-CE] पुत्रस्ते भविता देवि महात्मा लोकविश्रुतः ॥ २१ ॥  
 धार्मिकश्च सुभीमश्च वंशकर्तारिसूदनः ।
 </details>
 
@@ -1100,11 +1100,11 @@ Now poison had been given to her by her co-wife out of a desire to destroy her f
 <details><summary>मूलम्</summary>
 
 श्रुत्वा प्रदक्षिणं कृत्वा मुनिं तमनुमान्य च ॥ २२ ॥  
-पद्मपत्रसमानाक्षं पद्मगर्भसमप्रभम् ।  
+[^non-baroDa-CE] पद्मपत्रसमानाक्षं पद्मगर्भसमप्रभम् ।  
 ततः सा गृहमागम्य पत्नी पुत्रमजायत ॥ २३ ॥
 _________________
 श्रुत्वा प्रदक्षिणं कृत्वा मुनिन्तमनुमान्य च ॥
-पद्मपत्रसमानाक्षं पद्मगर्भ समप्रभम् ।  
+[^non-baroDa-CE] पद्मपत्रसमानाक्षं पद्मगर्भ समप्रभम् ।  
 ततः स गृहमागम्य पत्नी पुत्रमजायत ॥
 </details>
 
@@ -1845,3 +1845,4 @@ with precious metals, as did your father."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

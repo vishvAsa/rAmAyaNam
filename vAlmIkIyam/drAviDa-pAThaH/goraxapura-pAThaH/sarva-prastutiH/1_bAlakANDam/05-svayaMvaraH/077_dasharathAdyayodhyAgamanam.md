@@ -218,12 +218,12 @@ to move on towards Ayodhya..." So said Rama to his father. [1-77-3]
 रामस्य वचनं श्रुत्वा राजा दशरथः सुतम् ।  
 बाहुभ्यां सम्परिष्वज्य मूर्ध्न्युपाघ्राय राघवम् ॥ ४ ॥  
 गतो राम इति श्रुत्वा हृष्टः प्रमुदितो नृपः ।  
-पुनर्जातं तदा मेने पुत्रमात्मानमेव च ॥ ५ ॥
+[^non-baroDa-CE] पुनर्जातं तदा मेने पुत्रमात्मानमेव च ॥ ५ ॥
 _________________
 रामस्य वचनं श्रुत्वा राजादशरथः सुतम् ।  
 बाहुभ्यां सम्परिष्वज्य मूर्ध्न्युघ्राय राघवम् ॥
 गतो राम इति श्रुत्वा हृष्टः प्रमुदितो नृपः ।  
-पुनर्जातं तदा मेने पुत्रमात्मानमेव च ॥
+[^non-baroDa-CE] पुनर्जातं तदा मेने पुत्रमात्मानमेव च ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -334,12 +334,12 @@ Welcomed by citizens and Brāhmaṇas bearing auspicious offerings along flower-
 सिक्तराजपथारम्यां प्रकीर्णकुसुमोत्कराम् ।  
 राजप्रवेशसुमुखैः पौरैर्मङ्गलपाणिभिः ॥ ७ ॥  
 सम्पूर्णां प्राविशद् राजा जनौघैः समलङ्कृताम् ।  
-पौरैः प्रत्युद‍्गतो दूरं द्विजैश्च पुरवासिभिः ॥ ८ ॥
+[^non-baroDa-CE] पौरैः प्रत्युद‍्गतो दूरं द्विजैश्च पुरवासिभिः ॥ ८ ॥
 _________________
 सिक्तराजपथां रम्यां प्रकीर्णकुसुमोत्कराम् ।  
 राजप्रवेशसुमुखैः पौरैर्मङ्गलपाणिभिः ॥
 सम्पूर्णां प्राविशद्राजा जनौघैः समलङ्कृताम् ।  
-पौरैः प्रत्युद्गतो दूरं द्विजैश्च पुरवासिभिः ॥
+[^non-baroDa-CE] पौरैः प्रत्युद्गतो दूरं द्विजैश्च पुरवासिभिः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -401,10 +401,10 @@ at their king's re-entry, and into such an exhilarating city Ayodhya king Dashar
 
 <details><summary>मूलम्</summary>
 
-पुत्रैरनुगतः श्रीमान् श्रीमद्भिश्च महायशाः ।  
-प्रविवेश गृहं राजा हिमवत्सदृशं प्रियम् ॥ ९ ॥
+[^non-baroDa-CE] पुत्रैरनुगतः श्रीमान् श्रीमद्भिश्च महायशाः ।  
+[^non-baroDa-CE] प्रविवेश गृहं राजा हिमवत्सदृशं प्रियम् ॥ ९ ॥
 _________________
-पुत्रैरनुगतः श्रीमान्श्रीमद्भिश्च महायशाः ।  
+[^non-baroDa-CE] पुत्रैरनुगतः श्रीमान्श्रीमद्भिश्च महायशाः ।  
 प्रवीवेश गृहं राजा हिमवत्सदृशं प्रियम् ॥
 </details>
 
@@ -460,7 +460,7 @@ Followed by his glorious sons (_putrair anugataḥ śrīmān śrīmadbhiś ca_),
 
 <details><summary>मूलम्</summary>
 
-ननन्द स्वजनै राजा गृहे कामैः सुपूजितः ।  
+[^non-baroDa-CE] ननन्द स्वजनै राजा गृहे कामैः सुपूजितः ।  
 कौसल्या च सुमित्रा च कैकेयी च सुमध्यमा ॥ १० ॥  
 वधूप्रतिग्रहे युक्ता याश्चान्या राजयोषितः ।
 </details>
@@ -696,8 +696,8 @@ All those princesses swiftly offered worship at the temples of the family deitie
 
 कृतदाराः कृतास्त्राश्च सधनाः ससुहृज्जनाः ॥ १४ ॥  
 शुश्रूषमाणाः पितरं वर्तयन्ति नरर्षभाः ।  
-कस्यचित्त्वथ कालस्य राजा दशरथः सुतम् ॥ १५ ॥  
-भरतं कैकयीपुत्रमब्रवीद् रघुनन्दनः ।
+[^non-baroDa-CE] कस्यचित्त्वथ कालस्य राजा दशरथः सुतम् ॥ १५ ॥  
+[^non-baroDa-CE] भरतं कैकयीपुत्रमब्रवीद् रघुनन्दनः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -766,8 +766,8 @@ Both **Govindarāja** and **Śiromaṇi** highlight the poignant delicacy of Da�
 
 <details><summary>मूलम्</summary>
 
-अयं केकयराजस्य पुत्रो वसति पुत्रक ॥ १६ ॥  
-त्वां नेतुमागतो वीरो युधाजिन्मातुलस्तव ।
+[^non-baroDa-CE] अयं केकयराजस्य पुत्रो वसति पुत्रक ॥ १६ ॥  
+[^non-baroDa-CE] त्वां नेतुमागतो वीरो युधाजिन्मातुलस्तव ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -812,11 +812,11 @@ spoke to his son Bharata, the son of Kaikeyī (_bharataṃ kaikayīputram abrav�
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वा दशरथस्यैतद् भरतः कैकयीसुतः ॥ १७ ॥  
-गमनायाभिचक्राम शत्रुघ्नसहितस्तदा ।
+[^non-baroDa-CE] श्रुत्वा दशरथस्यैतद् भरतः कैकयीसुतः ॥ १७ ॥  
+[^non-baroDa-CE] गमनायाभिचक्राम शत्रुघ्नसहितस्तदा ।
 _________________
 श्रुत्वा दशरथस्यैतद् भरतः केकयीसुतः ॥  
-गमनायाभिचक्राम शत्रुघ्नसहितस्तदा ।
+[^non-baroDa-CE] गमनायाभिचक्राम शत्रुघ्नसहितस्तदा ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -866,10 +866,10 @@ to Kekaya province. [1-77-17b, 18a]
 
 <details><summary>मूलम्</summary>
 
-आपृच्छ्य पितरं शूरो रामं चाक्लिष्टकारिणम् ॥ १८ ॥  
-मातॄश्चापि नरश्रेष्ठः शत्रुघ्नसहितो ययौ ।
+[^non-baroDa-CE] आपृच्छ्य पितरं शूरो रामं चाक्लिष्टकारिणम् ॥ १८ ॥  
+[^non-baroDa-CE] मातॄश्चापि नरश्रेष्ठः शत्रुघ्नसहितो ययौ ।
 _________________
-आपृच्छ्य पितरं शूरो रामं चाक्लिष्टकारिणम् ॥  
+[^non-baroDa-CE] आपृच्छ्य पितरं शूरो रामं चाक्लिष्टकारिणम् ॥  
 मातृश्चापि नरश्रेष्ठः शत्रुघ्नसहितो ययौ ।
 </details>
 
@@ -938,10 +938,10 @@ After Bharata and Śatrughna depart with Yudhājit to Kekaya, Rāma and Lakṣma
 
 <details><summary>मूलम्</summary>
 
-युधाजित् प्राप्य भरतं सशत्रुघ्नं प्रहर्षितः ॥ १९ ॥  
-स्वपुरं प्राविशद् वीरः पिता तस्य तुतोष ह ।
+[^non-baroDa-CE] युधाजित् प्राप्य भरतं सशत्रुघ्नं प्रहर्षितः ॥ १९ ॥  
+[^non-baroDa-CE] स्वपुरं प्राविशद् वीरः पिता तस्य तुतोष ह ।
 _________________
-युधाजित् प्राप्य भरतं सशत्रुघ्नं प्रहर्षितः ॥  
+[^non-baroDa-CE] युधाजित् प्राप्य भरतं सशत्रुघ्नं प्रहर्षितः ॥  
 स्वपुरं प्रामिशद्वीरः पिता तस्य तुतोष ह ।
 </details>
 
@@ -994,10 +994,10 @@ This Southern Recension sequence sets the stage for _Ayodhyākāṇḍa_ by narr
 
 <details><summary>मूलम्</summary>
 
-गते च भरते रामो लक्ष्मणश्च महाबलः ॥ २० ॥  
+[^non-baroDa-CE] गते च भरते रामो लक्ष्मणश्च महाबलः ॥ २० ॥  
 पितरं देवसङ्काशं पूजयामासतुस्तदा ।
 _________________
-गतेच भरते रामो लक्ष्मणश्च महाबलः ॥  
+[^non-baroDa-CE] गतेच भरते रामो लक्ष्मणश्च महाबलः ॥  
 पितरं वेदसङ्काशं पूजयामासतुस्तदा ।
 </details>
 
@@ -1042,8 +1042,8 @@ and entered his own city, whereat his father (King Aśvapati) rejoiced (_svapura
 
 <details><summary>मूलम्</summary>
 
-पितुराज्ञां पुरस्कृत्य पौरकार्याणि सर्वशः ॥ २१ ॥  
-चकार रामः सर्वाणि प्रियाणि च हितानि च ।
+[^non-baroDa-CE] पितुराज्ञां पुरस्कृत्य पौरकार्याणि सर्वशः ॥ २१ ॥  
+[^non-baroDa-CE] चकार रामः सर्वाणि प्रियाणि च हितानि च ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1073,8 +1073,8 @@ honored and served their father, who resembled a god (_pitaraṃ devasaṃkāśa
 
 <details><summary>मूलम्</summary>
 
-मातृभ्यो मातृकार्याणि कृत्वा परमयन्त्रितः ॥ २२ ॥  
-गुरूणां गुरुकार्याणि काले कालेऽन्ववैक्षत ।
+[^non-baroDa-CE] मातृभ्यो मातृकार्याणि कृत्वा परमयन्त्रितः ॥ २२ ॥  
+[^non-baroDa-CE] गुरूणां गुरुकार्याणि काले कालेऽन्ववैक्षत ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1131,8 +1131,8 @@ accomplishing all that was both pleasing and beneficial to them (_cakāra rāma�
 
 <details><summary>मूलम्</summary>
 
-एवं दशरथः प्रीतो ब्राह्मणा नैगमास्तथा ॥ २३ ॥  
-रामस्य शीलवृत्तेन सर्वे विषयवासिनः ।
+[^non-baroDa-CE] एवं दशरथः प्रीतो ब्राह्मणा नैगमास्तथा ॥ २३ ॥  
+[^non-baroDa-CE] रामस्य शीलवृत्तेन सर्वे विषयवासिनः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1504,3 +1504,5 @@ United with that peerless princess who was wholly devoted to him in love (_tayā
 Crowning _Bālakāṇḍa_, Vālmīki compares Śrī Rāma and Sītā to Lord Viṣṇu, ruler of the immortals, united with Goddess Śrī—where **Govindarāja** notes that the simile rests solely on their incarnate distinction of form (_mūrtibhedenopamānatvam_), for Rāma and Sītā are none other than Nārāyaṇa and Lakṣmī themselves.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

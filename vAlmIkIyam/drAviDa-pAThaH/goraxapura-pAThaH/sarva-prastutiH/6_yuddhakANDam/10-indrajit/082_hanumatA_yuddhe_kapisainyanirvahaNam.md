@@ -577,7 +577,7 @@ Failing to reach Indrajit, who stood upon the chariot with his charioteer, that 
 <details><summary>मूलम्</summary>
 
 पतितायां शिलायां तु व्यथिता रक्षसां चमूः ।  
-निपतन्त्या च शिलया राक्षसा मथिता भृशम् ॥ १२ ॥
+[^non-baroDa-CE] निपतन्त्या च शिलया राक्षसा मथिता भृशम् ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -685,7 +685,7 @@ Roaring by the hundreds (_śataśo nadantaḥ_), those huge-bodied forest-dwelle
 
 क्षिपन्तीन्द्रजितं सङ्ख्ये वानरा भीमविक्रमाः ।  
 वृक्षशैलमहावर्षं विसृजन्तः प्लवङ्गमाः ॥ १४ ॥  
-शत्रूणां कदनं चक्रुर्नेदुश्च विविधैः स्वनैः ।
+[^non-baroDa-CE] शत्रूणां कदनं चक्रुर्नेदुश्च विविधैः स्वनैः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1199,7 +1199,7 @@ As Hanūmān retreats unafraid with his troops toward Rāma, Indrajit repairs to
 <details><summary>मूलम्</summary>
 
 ततः प्रेक्ष्य हनूमन्तं व्रजन्तं यत्र राघवः ॥ २४ ॥  
-स होतुकामो दुष्टात्मा गतश्चैत्यं निकुम्भिलाम् ।
+[^non-baroDa-CE] स होतुकामो दुष्टात्मा गतश्चैत्यं निकुम्भिलाम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1420,3 +1420,4 @@ Then Indrajit, knower of the ritual ordinance (_vidhāna-vit_), offered the obla
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

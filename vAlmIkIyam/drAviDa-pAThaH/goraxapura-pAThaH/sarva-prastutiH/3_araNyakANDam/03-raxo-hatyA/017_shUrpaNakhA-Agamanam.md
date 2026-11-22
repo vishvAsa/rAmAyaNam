@@ -147,7 +147,7 @@ Arriving at that hermitage together with Lakṣmaṇa and performing his forenoo
 
 <details><summary>मूलम्</summary>
 
-उवास सुखितस्तत्र पूज्यमानो महर्षिभिः ।  
+[^non-baroDa-CE] उवास सुखितस्तत्र पूज्यमानो महर्षिभिः ।  
 स रामः पर्णशालायामासीनः सह सीतया ॥ ३ ॥  
 विरराज महाबाहुश्चित्रया चन्द्रमा इव ।  
 लक्ष्मणेन सह भ्रात्रा चकार विविधाः कथाः ॥ ४ ॥
@@ -264,7 +264,7 @@ Beholding Rāma’s radiant royal features—set against her own hideous rākṣ
 <details><summary>मूलम्</summary>
 
 दीप्तास्यं च महाबाहुं पद्मपत्रायतेक्षणम् ।  
-गजविक्रान्तगमनं जटामण्डलधारिणम् ॥ ७ ॥
+[^non-baroDa-CE] गजविक्रान्तगमनं जटामण्डलधारिणम् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -484,7 +484,7 @@ Questioned by Śūrpaṇakhā about why he has come to the demon-haunted forest,
 शरीरजसमाविष्टा राक्षसी राममब्रवीत् ।  
 जटी तापसवेषेण सभार्यः शरचापधृक् ॥ १२ ॥  
 आगतस्त्वमिमं देशं कथं राक्षससेवितम् ।  
-किमागमनकृत्यं ते तत्त्वमाख्यातुमर्हसि ॥ १३ ॥
+[^non-baroDa-CE] किमागमनकृत्यं ते तत्त्वमाख्यातुमर्हसि ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -848,7 +848,7 @@ On 3.17.29, **Śivasahāya** (_Śiromaṇi_) glosses मदिरेक्षण
 <details><summary>मूलम्</summary>
 
 त्वां तु वेदितुमिच्छामि कस्य त्वं कासि कस्य वा ।  
-त्वं हि तावन्मनोज्ञाङ्गी राक्षसी प्रतिभासि मे ॥ १८ ॥  
+[^non-baroDa-CE] त्वं हि तावन्मनोज्ञाङ्गी राक्षसी प्रतिभासि मे ॥ १८ ॥  
 इह वा किन्निमित्तं त्वमागता ब्रूहि तत्त्वतः ।
 </details>
 
@@ -1005,7 +1005,7 @@ and I will be freely moving in this forest in a solitary manner and unnerving al
 <details><summary>मूलम्</summary>
 
 अरण्यं विचरामीदमेका सर्वभयङ्करा ।  
-रावणो नाम मे भ्राता यदि ते श्रोत्रमागतः ॥ २१ ॥
+[^non-baroDa-CE] रावणो नाम मे भ्राता यदि ते श्रोत्रमागतः ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1056,7 +1056,7 @@ have heard of him. [3-17-21b, 22a]
 
 <details><summary>मूलम्</summary>
 
-वीरो विश्रवसः पुत्रो यदि ते श्रोत्रमागतः ।  
+[^non-baroDa-CE] वीरो विश्रवसः पुत्रो यदि ते श्रोत्रमागतः ।  
 प्रवृद्धनिद्रश्च सदा कुम्भकर्णो महाबलः ॥ २२ ॥
 </details>
 
@@ -1195,7 +1195,7 @@ Disparaging Sītā as deformed and unworthy, Śūrpaṇakhā threatens to devour
 
 <details><summary>मूलम्</summary>
 
-अहं प्रभावसम्पन्ना स्वच्छन्दबलगामिनी ।  
+[^non-baroDa-CE] अहं प्रभावसम्पन्ना स्वच्छन्दबलगामिनी ।  
 चिराय भव भर्ता मे सीतया किं करिष्यसि ॥ २५ ॥
 </details>
 
@@ -1463,3 +1463,4 @@ Thus addressed, Kākutstha, skilled in speech (_vākya-viśāradaḥ_), laughed 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

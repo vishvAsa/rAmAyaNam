@@ -318,11 +318,11 @@ Rāvaṇa reports how Rāma, fighting on foot without uttering a harsh word, sle
 
 <details><summary>मूलम्</summary>
 
-नानाशस्त्रप्रहरणाः खरप्रमुखराक्षसाः ।  
+[^non-baroDa-CE] नानाशस्त्रप्रहरणाः खरप्रमुखराक्षसाः ।  
 तेन सञ्जातरोषेण रामेण रणमूर्धनि ॥ ७ ॥  
 अनुक्त्वा परुषं किञ्चिच्छरैर्व्यापारितं धनुः ।
 _________________
-नानाशस्त्र प्रहरणाः खरप्रमुखराक्षसाः ।  
+[^non-baroDa-CE] नानाशस्त्र प्रहरणाः खरप्रमुखराक्षसाः ।  
 तेन सञ्जातरोषेण रामेण रणमूर्धनि ॥  
 अनुक्ता पुरुषं किञ्चिच्छरैर्व्यापारितं धनुः ।
 </details>
@@ -706,7 +706,7 @@ aide in this venture. [3-36-14b, 15]
 <details><summary>मूलम्</summary>
 
 वीर्ये युद्धे च दर्पे च न ह्यस्ति सदृशस्तव ।  
-उपायतो महान् शूरो महामायाविशारदः ॥ १६ ॥
+[^non-baroDa-CE] उपायतो महान् शूरो महामायाविशारदः ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1113,8 +1113,8 @@ Hearing that account of Rāma (_tasya rāma-kathāṃ śrutvā_), the mouth of t
 
 <details><summary>मूलम्</summary>
 
-ओष्ठौ परिलिहन् शुष्कौ नेत्रैरनिमिषैरिव ।  
-मृतभूत इवार्तस्तु रावणं समुदैक्षत ॥ २३ ॥
+[^non-baroDa-CE] ओष्ठौ परिलिहन् शुष्कौ नेत्रैरनिमिषैरिव ।  
+[^non-baroDa-CE] मृतभूत इवार्तस्तु रावणं समुदैक्षत ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1237,3 +1237,4 @@ With a terrified and dejected heart (_trasta-viṣaṇṇa-cetāḥ_), knowing R
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

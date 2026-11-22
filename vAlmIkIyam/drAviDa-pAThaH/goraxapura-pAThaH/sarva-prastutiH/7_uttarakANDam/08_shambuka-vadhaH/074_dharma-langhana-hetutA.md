@@ -168,7 +168,7 @@ Mārkaṇḍeya and Maudgalya, Vāmadeva and Kāśyapa, Kātyāyana and Jābāli
 <details><summary>मूलम्</summary>
 
 एते द्विजर्षभाः सर्वे आसनेषूपवेशिताः ।  
-महर्षीन् समनुप्राप्तानभिवाद्य कृताञ्जलिः ॥ ५ ॥
+[^non-baroDa-CE] महर्षीन् समनुप्राप्तानभिवाद्य कृताञ्जलिः ॥ ५ ॥
 _________________
 अप्राप्तयौवनम्बालं पञ्चवर्षसहस्रकम् ।  
 अकाले कालमापन्नं मम दुःखाय पुत्रक ॥
@@ -521,7 +521,7 @@ Perceiving no superior distinction between them thereafter (_apaśyaṃs tu na t
 
 <details><summary>मूलम्</summary>
 
-तस्मिन् युगे प्रज्वलिते धर्मभूते ह्यनावृते ॥ १५ ॥  
+[^non-baroDa-CE] तस्मिन् युगे प्रज्वलिते धर्मभूते ह्यनावृते ॥ १५ ॥  
 अधर्मः पादमेकं तु पातयत् पृथिवीतले ।  
 अधर्मेण हि संयुक्तस्तेजो मन्दं भविष्यति ॥ १६ ॥
 _________________
@@ -567,8 +567,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-आमिषं यच्च पूर्वेषां राजसं च मलं भृशम् ।  
-अनृतं नाम तद् भूतं पादेन पृथिवीतले ॥ १७ ॥
+[^non-baroDa-CE] आमिषं यच्च पूर्वेषां राजसं च मलं भृशम् ।  
+[^non-baroDa-CE] अनृतं नाम तद् भूतं पादेन पृथिवीतले ॥ १७ ॥
 _________________
 यद्वा पुरेष्वयुक्तानि जना जनपदेषु च ।  
 कुर्वते न च रक्षास्ति तदाकालकृतं भयम् ॥
@@ -601,7 +601,7 @@ After Adharma had planted that one foot of Anṛta unrighteously (_anṛtaṃ p�
 
 <details><summary>मूलम्</summary>
 
-अनृतं पातयित्वा तु पादमेकमधर्मतः ।  
+[^non-baroDa-CE] अनृतं पातयित्वा तु पादमेकमधर्मतः ।  
 ततः प्रादुष्कृतं पूर्वमायुषः परिनिष्ठितम् ॥ १८ ॥
 _________________
 सुव्यक्तं राजदोषो हि भविष्यति नसंशयः ।  
@@ -735,7 +735,7 @@ In the interval of this age (_etasminn antare_), as adharma and anṛta prevaile
 
 <details><summary>मूलम्</summary>
 
-एतस्मिन्नन्तरे तेषामधर्मे चानृते च ह ।  
+[^non-baroDa-CE] एतस्मिन्नन्तरे तेषामधर्मे चानृते च ह ।  
 ततः पूर्वे पुनर्ह्रासमगमन्नृपसत्तम ॥ २२ ॥
 </details>
 
@@ -826,7 +826,7 @@ In that age reckoned as Dvāpara (_tasmin dvāpara-saṅkhyāte_), austerity ent
 <details><summary>मूलम्</summary>
 
 अस्मिन् द्वापरसङ्ख्याने तपो वैश्यान् समाविशत् ।  
-त्रिभ्यो युगेभ्यस्त्रीन् वर्णान् क्रमाद् वै तप आविशत् ॥ २५ ॥
+[^non-baroDa-CE] त्रिभ्यो युगेभ्यस्त्रीन् वर्णान् क्रमाद् वै तप आविशत् ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -851,7 +851,7 @@ Across three ages, that dharma stood established for three orders (_tribhyo yuge
 
 <details><summary>मूलम्</summary>
 
-त्रिभ्यो युगेभ्यस्त्रीन् वर्णान् धर्मश्च परिनिष्ठितः ।  
+[^non-baroDa-CE] त्रिभ्यो युगेभ्यस्त्रीन् वर्णान् धर्मश्च परिनिष्ठितः ।  
 न शूद्रो लभते धर्मं युगतस्तु नरर्षभ ॥ २६ ॥
 </details>
 
@@ -971,8 +971,8 @@ Explaining that a king who enjoys a sixth share of his subjects’ merit must an
 
 <details><summary>मूलम्</summary>
 
-अधीतस्य च तप्तस्य कर्मणः सुकृतस्य च ।  
-षष्ठं भजति भागं तु प्रजा धर्मेण पालयन् ॥ ३१ ॥
+[^non-baroDa-CE] अधीतस्य च तप्तस्य कर्मणः सुकृतस्य च ।  
+[^non-baroDa-CE] षष्ठं भजति भागं तु प्रजा धर्मेण पालयन् ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1040,3 +1040,4 @@ Explaining that a king who enjoys a sixth share of his subjects’ merit must an
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

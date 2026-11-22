@@ -334,8 +334,8 @@ Hearing the villagers mourn for Sītā’s hardships, Rāma passes beyond Kosala
 
 <details><summary>मूलम्</summary>
 
-कथं नाम महाभागा सीता जनकनन्दिनी ।  
-सदा सुखेष्वभिरता दुःखान्यनुभविष्यति ॥ ७ ॥
+[^non-baroDa-CE] कथं नाम महाभागा सीता जनकनन्दिनी ।  
+[^non-baroDa-CE] सदा सुखेष्वभिरता दुःखान्यनुभविष्यति ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -381,7 +381,7 @@ How indeed shall the highly fortunate Sītā, the delight of Janaka (_janaka-nan
 <details><summary>मूलम्</summary>
 
 अहो दशरथो राजा निःस्नेहः स्वसुतं प्रति ।  
-प्रजानामनघं रामं परित्यक्तुमिहेच्छति ॥ ८ ॥
+[^non-baroDa-CE] प्रजानामनघं रामं परित्यक्तुमिहेच्छति ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -845,10 +845,10 @@ I do not desire the chase in the Sarayū forest to excess (_nātyartham abhikā�
 
 <details><summary>मूलम्</summary>
 
-राजर्षीणां हि लोकेऽस्मिन् रत्यर्थं मृगया वने ।  
+[^non-baroDa-CE] राजर्षीणां हि लोकेऽस्मिन् रत्यर्थं मृगया वने ।  
 काले कृतां तां मनुजैर्धन्विनामभिकाङ्क्षिताम् ॥ १७ ॥
 _________________
-राजर्षीणां हि लोकेऽस्मिन् रत्यर्थं मृगया वने ।  
+[^non-baroDa-CE] राजर्षीणां हि लोकेऽस्मिन् रत्यर्थं मृगया वने ।  
 काले वृतां तां मनुजैर्धन्विनामभिकाङ्क्षताम् ॥
 </details>
 
@@ -954,3 +954,4 @@ Addressing the charioteer with reference to one topic after another (_taṃ tam 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -31,8 +31,8 @@ Marveling at Nimi’s ancient tale yet noting that the heroic king failed to sho
 
 <details><summary>मूलम्</summary>
 
-एवं ब्रुवति रामे तु लक्ष्मणः परवीरहा ।  
-प्रत्युवाच महात्मानं ज्वलन्तमिव तेजसा ॥ १ ॥
+[^non-baroDa-CE] एवं ब्रुवति रामे तु लक्ष्मणः परवीरहा ।  
+[^non-baroDa-CE] प्रत्युवाच महात्मानं ज्वलन्तमिव तेजसा ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -62,7 +62,7 @@ While Rāma was speaking thus (_evaṃ bruvati rāme tu_), Lakṣmaṇa, slayer 
 
 <details><summary>मूलम्</summary>
 
-महदद्भुतमाश्चर्यं विदेहस्य पुरातनम् ।  
+[^non-baroDa-CE] महदद्भुतमाश्चर्यं विदेहस्य पुरातनम् ।  
 निर्वृत्तं राजशार्दूल वसिष्ठस्य मुनेश्च ह ॥ २ ॥
 </details>
 
@@ -93,7 +93,7 @@ While Rāma was speaking thus (_evaṃ bruvati rāme tu_), Lakṣmaṇa, slayer 
 
 <details><summary>मूलम्</summary>
 
-निमिस्तु क्षत्रियः शूरो विशेषेण च दीक्षितः ।  
+[^non-baroDa-CE] निमिस्तु क्षत्रियः शूरो विशेषेण च दीक्षितः ।  
 न क्षमं कृतवान् राजा वसिष्ठस्य महात्मनः ॥ ३ ॥
 </details>
 
@@ -126,8 +126,8 @@ While Rāma was speaking thus (_evaṃ bruvati rāme tu_), Lakṣmaṇa, slayer 
 <details><summary>मूलम्</summary>
 
 एवमुक्तस्तु तेनायं रामः क्षत्रियपुङ्गवः ।  
-उवाच लक्ष्मणं वाक्यं सर्वशास्त्रविशारदम् ॥ ४ ॥  
-रामो रमयतां श्रेष्ठो भ्रातरं दीप्ततेजसम् ।
+[^non-baroDa-CE] उवाच लक्ष्मणं वाक्यं सर्वशास्त्रविशारदम् ॥ ४ ॥  
+[^non-baroDa-CE] रामो रमयतां श्रेष्ठो भ्रातरं दीप्ततेजसम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -158,9 +158,9 @@ Thus addressed by him (_evam uktas tu tenāyam_), the glorious bull among kṣat
 
 <details><summary>मूलम्</summary>
 
-न सर्वत्र क्षमा वीर पुरुषेषु प्रदृश्यते ॥ ५ ॥  
-सौमित्रे दुःसहो रोषो यथा क्षान्तो ययातिना ।  
-सत्त्वानुगं पुरस्कृत्य तन्निबोध समाहितः ॥ ६ ॥
+[^non-baroDa-CE] न सर्वत्र क्षमा वीर पुरुषेषु प्रदृश्यते ॥ ५ ॥  
+[^non-baroDa-CE] सौमित्रे दुःसहो रोषो यथा क्षान्तो ययातिना ।  
+[^non-baroDa-CE] सत्त्वानुगं पुरस्कृत्य तन्निबोध समाहितः ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -200,8 +200,8 @@ Rāma introduces Nahuṣa’s son King Yayāti and his two peerless wives—the 
 
 <details><summary>मूलम्</summary>
 
-नहुषस्य सुतो राजा ययातिः पौरवर्धनः ।  
-तस्य भार्याद्वयं सौम्य रूपेणाप्रतिमं भुवि ॥ ७ ॥
+[^non-baroDa-CE] नहुषस्य सुतो राजा ययातिः पौरवर्धनः ।  
+[^non-baroDa-CE] तस्य भार्याद्वयं सौम्य रूपेणाप्रतिमं भुवि ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -231,8 +231,8 @@ Rāma introduces Nahuṣa’s son King Yayāti and his two peerless wives—the 
 
 <details><summary>मूलम्</summary>
 
-एका तु तस्य राजर्षेर्नाहुषस्य पुरस्कृता ।  
-शर्मिष्ठा नाम दैतेयी दुहिता वृषपर्वणः ॥ ८ ॥
+[^non-baroDa-CE] एका तु तस्य राजर्षेर्नाहुषस्य पुरस्कृता ।  
+[^non-baroDa-CE] शर्मिष्ठा नाम दैतेयी दुहिता वृषपर्वणः ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -264,13 +264,13 @@ Rāma introduces Nahuṣa’s son King Yayāti and his two peerless wives—the 
 
 <details><summary>मूलम्</summary>
 
-अन्या तूशनसः पत्नी ययातेः पुरुषर्षभ ।  
-न तु सा दयिता राज्ञो देवयानी सुमध्यमा ॥ ९ ॥  
-तयोः पुत्रौ तु सम्भूतौ रूपवन्तौ समाहितौ ।  
+[^non-baroDa-CE] अन्या तूशनसः पत्नी ययातेः पुरुषर्षभ ।  
+[^non-baroDa-CE] न तु सा दयिता राज्ञो देवयानी सुमध्यमा ॥ ९ ॥  
+[^non-baroDa-CE] तयोः पुत्रौ तु सम्भूतौ रूपवन्तौ समाहितौ ।  
 शर्मिष्ठाजनयत् पूरुं देवयानी यदुं तदा ॥ १० ॥
 _________________
-अन्या तूशनसः पत्नी ययातेः पुरुषर्षभ ।  
-न तु सा दयिता राज्ञो देवयानी सुमध्यमा ॥
+[^non-baroDa-CE] अन्या तूशनसः पत्नी ययातेः पुरुषर्षभ ।  
+[^non-baroDa-CE] न तु सा दयिता राज्ञो देवयानी सुमध्यमा ॥
 तयोः पुत्रौ तु सम्भूतौ रूपवन्तो समाहितौ ।  
 शर्मिष्ठाजनयत्पूरुं देवयानी यदुं तदा ॥
 </details>
@@ -304,8 +304,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-पूरुस्तु दयितो राज्ञो गुणैर्मातृकृतेन च ।  
-ततो दुःखसमाविष्टो यदुर्मातरमब्रवीत् ॥ ११ ॥
+[^non-baroDa-CE] पूरुस्तु दयितो राज्ञो गुणैर्मातृकृतेन च ।  
+[^non-baroDa-CE] ततो दुःखसमाविष्टो यदुर्मातरमब्रवीत् ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -335,8 +335,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-भार्गवस्य कुले जाता देवस्याक्लिष्टकर्मणः ।  
-सहसे हृद‍्गतं दुःखमवमानं च दुःसहम् ॥ १२ ॥
+[^non-baroDa-CE] भार्गवस्य कुले जाता देवस्याक्लिष्टकर्मणः ।  
+[^non-baroDa-CE] सहसे हृद‍्गतं दुःखमवमानं च दुःसहम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -374,8 +374,8 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>मूलम्</summary>
 
-आवां च सहितौ देवि प्रविशाव हुताशनम् ।  
-राजा तु रमतां सार्धं दैत्यपुत्र्या बहुक्षपाः ॥ १३ ॥
+[^non-baroDa-CE] आवां च सहितौ देवि प्रविशाव हुताशनम् ।  
+[^non-baroDa-CE] राजा तु रमतां सार्धं दैत्यपुत्र्या बहुक्षपाः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -405,8 +405,8 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>मूलम्</summary>
 
-यदि वा सहनीयं ते मामनुज्ञातुमर्हसि ।  
-क्षम त्वं न क्षमिष्येऽहं मरिष्यामि न संशयः ॥ १४ ॥
+[^non-baroDa-CE] यदि वा सहनीयं ते मामनुज्ञातुमर्हसि ।  
+[^non-baroDa-CE] क्षम त्वं न क्षमिष्येऽहं मरिष्यामि न संशयः ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -436,8 +436,8 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>मूलम्</summary>
 
-पुत्रस्य भाषितं श्रुत्वा परमार्तस्य रोदतः ।  
-देवयानी तु सङ्क्रुद्धा सस्मार पितरं तदा ॥ १५ ॥
+[^non-baroDa-CE] पुत्रस्य भाषितं श्रुत्वा परमार्तस्य रोदतः ।  
+[^non-baroDa-CE] देवयानी तु सङ्क्रुद्धा सस्मार पितरं तदा ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -467,7 +467,7 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>मूलम्</summary>
 
-इङ्गितं तदभिज्ञाय दुहितुर्भार्गवस्तदा ।  
+[^non-baroDa-CE] इङ्गितं तदभिज्ञाय दुहितुर्भार्गवस्तदा ।  
 आगतस्त्वरितं तत्र देवयानी स्म यत्र सा ॥ १६ ॥
 </details>
 
@@ -498,8 +498,8 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वा चाप्रकृतिस्थां तामप्रहृष्टामचेतनाम् ।  
-पिता दुहितरं वाक्यं किमेतदिति चाब्रवीत् ॥ १७ ॥
+[^non-baroDa-CE] दृष्ट्वा चाप्रकृतिस्थां तामप्रहृष्टामचेतनाम् ।  
+[^non-baroDa-CE] पिता दुहितरं वाक्यं किमेतदिति चाब्रवीत् ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -539,9 +539,9 @@ Repeatedly questioned by her radiant father, an enraged Devayānī threatens to 
 
 <details><summary>मूलम्</summary>
 
-पृच्छन्तमसकृत् तं वै भार्गवं दीप्ततेजसम् ।  
-देवयानी तु सङ्क्रुद्धा पितरं वाक्यमब्रवीत् ॥ १८ ॥  
-अहमग्निं विषं तीक्ष्णमपो वा मुनिसत्तम ।  
+[^non-baroDa-CE] पृच्छन्तमसकृत् तं वै भार्गवं दीप्ततेजसम् ।  
+[^non-baroDa-CE] देवयानी तु सङ्क्रुद्धा पितरं वाक्यमब्रवीत् ॥ १८ ॥  
+[^non-baroDa-CE] अहमग्निं विषं तीक्ष्णमपो वा मुनिसत्तम ।  
 भक्षयिष्ये प्रवेक्ष्ये वा न तु शक्ष्यामि जीवितुम् ॥ १९ ॥
 </details>
 
@@ -574,8 +574,8 @@ Repeatedly questioned by her radiant father, an enraged Devayānī threatens to 
 
 <details><summary>मूलम्</summary>
 
-न मां त्वमवजानीषे दुःखितामवमानिताम् ।  
-वृक्षस्यावज्ञया ब्रह्मंश्छिद्यन्ते वृक्षजीविनः ॥ २० ॥
+[^non-baroDa-CE] न मां त्वमवजानीषे दुःखितामवमानिताम् ।  
+[^non-baroDa-CE] वृक्षस्यावज्ञया ब्रह्मंश्छिद्यन्ते वृक्षजीविनः ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -605,8 +605,8 @@ Repeatedly questioned by her radiant father, an enraged Devayānī threatens to 
 
 <details><summary>मूलम्</summary>
 
-अवज्ञया च राजर्षिः परिभूय च भार्गव ।  
-मय्यवज्ञां प्रयुङ्‍क्ते हि न च मां बहु मन्यते ॥ २१ ॥
+[^non-baroDa-CE] अवज्ञया च राजर्षिः परिभूय च भार्गव ।  
+[^non-baroDa-CE] मय्यवज्ञां प्रयुङ्‍क्ते हि न च मां बहु मन्यते ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -645,7 +645,7 @@ Overwhelmed with rage at Devayānī’s words, Bhārgava utters a curse condemni
 <details><summary>मूलम्</summary>
 
 तस्यास्तद् वचनं श्रुत्वा कोपेनाभिपरीवृतः ।  
-व्याहर्तुमुपचक्राम भार्गवो नहुषात्मजम् ॥ २२ ॥
+[^non-baroDa-CE] व्याहर्तुमुपचक्राम भार्गवो नहुषात्मजम् ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -675,7 +675,7 @@ Hearing those words of hers (_tasyās tad vacanaṃ śrutvā_), overwhelmed with
 
 <details><summary>मूलम्</summary>
 
-यस्मान्मामवजानीषे नाहुष त्वं दुरात्मवान् ।  
+[^non-baroDa-CE] यस्मान्मामवजानीषे नाहुष त्वं दुरात्मवान् ।  
 वयसा जरया जीर्णः शैथिल्यमुपयास्यसि ॥ २३ ॥
 </details>
 
@@ -707,7 +707,7 @@ Hearing those words of hers (_tasyās tad vacanaṃ śrutvā_), overwhelmed with
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा दुहितरं समाश्वास्य स भार्गवः ।  
-पुनर्जगाम ब्रह्मर्षिर्भवनं स्वं महायशाः ॥ २४ ॥
+[^non-baroDa-CE] पुनर्जगाम ब्रह्मर्षिर्भवनं स्वं महायशाः ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -739,10 +739,10 @@ Having spoken thus and comforted his daughter (_duhitaraṃ samāśvāsya ca_), 
 
 <details><summary>मूलम्</summary>
 
-स एवमुक्त्वा द्विजपुङ्गवाग्र्यः  
-सुतां समाश्वास्य च देवयानीम् ।  
-पुनर्ययौ सूर्यसमानतेजा  
-दत्त्वा च शापं नहुषात्मजाय ॥ २५ ॥
+[^non-baroDa-CE] स एवमुक्त्वा द्विजपुङ्गवाग्र्यः  
+[^non-baroDa-CE] सुतां समाश्वास्य च देवयानीम् ।  
+[^non-baroDa-CE] पुनर्ययौ सूर्यसमानतेजा  
+[^non-baroDa-CE] दत्त्वा च शापं नहुषात्मजाय ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -773,3 +773,4 @@ Having spoken thus, that foremost among the best of brahmins (_dvija-puṅgavāg
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

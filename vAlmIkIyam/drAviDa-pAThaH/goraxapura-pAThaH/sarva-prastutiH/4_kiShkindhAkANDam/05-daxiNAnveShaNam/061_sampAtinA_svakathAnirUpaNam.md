@@ -313,7 +313,7 @@ townships on the surface of earth, separately and singly, in the size of a chari
 
 <details><summary>मूलम्</summary>
 
-क्वचिद् वादित्रघोषश्च क्वचिद् भूषणनिःस्वनः ।  
+[^non-baroDa-CE] क्वचिद् वादित्रघोषश्च क्वचिद् भूषणनिःस्वनः ।  
 गायन्तीः स्माङ्गना बह्वीः पश्यावो रक्तवाससः ॥ ६ ॥
 </details>
 
@@ -651,7 +651,7 @@ Seeing the sun appear as vast as the earth, Sampāti plunges after the falling J
 
 <details><summary>मूलम्</summary>
 
-मनश्च मे हतं भूयश्चक्षुः प्राप्य तु संश्रयम् ।  
+[^non-baroDa-CE] मनश्च मे हतं भूयश्चक्षुः प्राप्य तु संश्रयम् ।  
 यत्नेन महता ह्यस्मिन् मनः सन्धाय चक्षुषी ॥ १२ ॥  
 यत्नेन महता भूयो भास्करः प्रतिलोकितः ।  
 तुल्यपृथ्वीप्रमाणेन भास्करः प्रतिभाति नौ ॥ १३ ॥
@@ -889,3 +889,4 @@ valance too, such as I was I wished to fall from the mountaintop to die, in any 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

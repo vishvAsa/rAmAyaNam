@@ -1254,14 +1254,14 @@ Having stepped onto the two sandals and stepped down again, that tiger among men
 
 <details><summary>मूलम्</summary>
 
-स पादुके सम्प्रणम्य रामं वचनमब्रवीत् ।  
-चतुर्दश हि वर्षाणि जटाचीरधरो ह्यहम् ॥ २३ ॥  
-फलमूलाशनो वीर भवेयं रघुनन्दन ।  
+[^non-baroDa-CE] स पादुके सम्प्रणम्य रामं वचनमब्रवीत् ।  
+[^non-baroDa-CE] चतुर्दश हि वर्षाणि जटाचीरधरो ह्यहम् ॥ २३ ॥  
+[^non-baroDa-CE] फलमूलाशनो वीर भवेयं रघुनन्दन ।  
 तवागमनमाकाङ्क्षन् वसन् वै नगराद् बहिः ॥ २४ ॥  
 तव पादुकयोर्न्यस्य राज्यतन्त्रं परन्तप ।
 _________________
-स पादुके सम्प्रणम्य रामं वचनमब्रवीत् ।  
-चतुर्दश हि वर्षाणि जटाचीरधरोह्यहम् ॥
+[^non-baroDa-CE] स पादुके सम्प्रणम्य रामं वचनमब्रवीत् ।  
+[^non-baroDa-CE] चतुर्दश हि वर्षाणि जटाचीरधरोह्यहम् ॥
 फलमूलाश्चनो वीरभवेयं रघुनन्दन ।  
 तवागमनमाकाङ्क्षन् वसन् वै नगराद्बहिः ॥  
 तव पादुकयोर्न्यस्य राज्यतन्त्रं परन्तप ।
@@ -1333,8 +1333,8 @@ Vowing to enter the fire if he does not see Rāma on the day the fourteenth year
 
 <details><summary>मूलम्</summary>
 
-चतुर्दशे हि सम्पूर्णे वर्षेऽहनि रघूत्तम ॥ २५ ॥  
-न द्रक्ष्यामि यदि त्वां तु प्रवेक्ष्यामि हुताशनम् ।
+[^non-baroDa-CE] चतुर्दशे हि सम्पूर्णे वर्षेऽहनि रघूत्तम ॥ २५ ॥  
+[^non-baroDa-CE] न द्रक्ष्यामि यदि त्वां तु प्रवेक्ष्यामि हुताशनम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1379,11 +1379,11 @@ having entrusted the machinery of royal governance to your two sandals, O scorch
 
 <details><summary>मूलम्</summary>
 
-तथेति च प्रतिज्ञाय तं परिष्वज्य सादरम् ॥ २६ ॥  
+[^non-baroDa-CE] तथेति च प्रतिज्ञाय तं परिष्वज्य सादरम् ॥ २६ ॥  
 शत्रुघ्नं च परिष्वज्य वचनं चेदमब्रवीत् ।
 _________________
-तथेति च प्रतिज्ञाय तं परिष्वज्य सादरम् ॥  
-शत्रुघ्नं च परिष्वज्य भरतं चेदमब्रवीत् ।
+[^non-baroDa-CE] तथेति च प्रतिज्ञाय तं परिष्वज्य सादरम् ॥  
+[^non-baroDa-CE] शत्रुघ्नं च परिष्वज्य भरतं चेदमब्रवीत् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1431,7 +1431,7 @@ Promising “So be it!” and embracing him with tender regard (_tatheti ca prat
 
 <details><summary>मूलम्</summary>
 
-मातरं रक्ष कैकेयीं मा रोषं कुरु तां प्रति ॥ २७ ॥  
+[^non-baroDa-CE] मातरं रक्ष कैकेयीं मा रोषं कुरु तां प्रति ॥ २७ ॥  
 मया च सीतया चैव शप्तोऽसि रघुनन्दन ।  
 इत्युक्त्वाश्रुपरीताक्षो भ्रातरं विससर्ज ह ॥ २८ ॥
 </details>
@@ -1683,3 +1683,4 @@ entered his hermitage, weeping.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

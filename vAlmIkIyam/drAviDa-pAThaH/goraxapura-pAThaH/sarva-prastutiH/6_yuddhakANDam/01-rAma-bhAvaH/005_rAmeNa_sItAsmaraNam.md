@@ -949,10 +949,10 @@ not getting any defender, she resembling an orphan, though I am her support."
 
 <details><summary>मूलम्</summary>
 
-कथं जनकराजस्य दुहिता मम च प्रिया ।  
-राक्षसीमध्यगा शेते स्नुषा दशरथस्य च ॥ १६ ॥
+[^non-baroDa-CE] कथं जनकराजस्य दुहिता मम च प्रिया ।  
+[^non-baroDa-CE] राक्षसीमध्यगा शेते स्नुषा दशरथस्य च ॥ १६ ॥
 _________________
-कथं जनकराजस्य दुहिता मम च प्रिया ।  
+[^non-baroDa-CE] कथं जनकराजस्य दुहिता मम च प्रिया ।  
 राक्षसीमध्यगा शेतॆ स्नुषा दशरथस्य च ॥
 </details>
 
@@ -1391,3 +1391,4 @@ Consoled by Lakṣmaṇa (_āśvāsito lakṣmaṇena_), Rāma worshipped the ev
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

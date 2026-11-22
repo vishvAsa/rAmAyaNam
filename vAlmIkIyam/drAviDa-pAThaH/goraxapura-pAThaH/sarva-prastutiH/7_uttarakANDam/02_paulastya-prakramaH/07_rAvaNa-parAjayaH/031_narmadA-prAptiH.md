@@ -58,7 +58,7 @@ Then Rāma of mighty radiance (_tato rāmo mahātejāḥ_), filled once more wit
 
 <details><summary>मूलम्</summary>
 
-भगवन् राक्षसः क्रूरो यदाप्रभृति मेदिनीम् ।  
+[^non-baroDa-CE] भगवन् राक्षसः क्रूरो यदाप्रभृति मेदिनीम् ।  
 पर्यटत् किं तदा लोकाः शून्या आसन् द्विजोत्तम ॥ २ ॥
 </details>
 
@@ -84,7 +84,7 @@ Then Rāma of mighty radiance (_tato rāmo mahātejāḥ_), filled once more wit
 
 <details><summary>मूलम्</summary>
 
-राजा वा राजमात्रो वा किं तदा नात्र कश्चन ।  
+[^non-baroDa-CE] राजा वा राजमात्रो वा किं तदा नात्र कश्चन ।  
 धर्षणं यत्र न प्राप्तो रावणो राक्षसेश्वरः ॥ ३ ॥
 </details>
 
@@ -274,7 +274,7 @@ Reaching Māhiṣmatī—the fire-guarded capital of the Haihaya king Kārtavīr
 
 <details><summary>मूलम्</summary>
 
-तमेव दिवसं सोऽथ रावणस्तत्र आगतः ।  
+[^non-baroDa-CE] तमेव दिवसं सोऽथ रावणस्तत्र आगतः ।  
 रावणो राक्षसेन्द्रस्तु तस्यामात्यानपृच्छत ॥ १० ॥
 </details>
 
@@ -594,7 +594,7 @@ Delighted by the Narmadā, Rāvaṇa boasts playfully to Śuka, Sāraṇa, and h
 
 <details><summary>मूलम्</summary>
 
-प्रख्याय नर्मदां सोऽथ गङ्गेयमिति रावणः ।  
+[^non-baroDa-CE] प्रख्याय नर्मदां सोऽथ गङ्गेयमिति रावणः ।  
 नर्मदादर्शने हर्षमाप्तवान् स दशाननः ॥ २६ ॥
 </details>
 
@@ -1087,7 +1087,7 @@ Bathing duly, reciting prayers, and donning white robes, Rāvaṇa proceeds with
 
 ततः क्लिन्नाम्बरं त्यक्त्वा शुक्लवस्त्रसमावृतः ॥ ४० ॥  
 रावणं प्राञ्जलिं यान्तमन्वयुः सर्वराक्षसाः ।  
-तद‍्गतीवशमापन्ना मूर्तिमन्त इवाचलाः ॥ ४१ ॥
+[^non-baroDa-CE] तद‍्गतीवशमापन्ना मूर्तिमन्त इवाचलाः ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1174,3 +1174,4 @@ Bathing duly, reciting prayers, and donning white robes, Rāvaṇa proceeds with
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -673,7 +673,7 @@ On v. 12, **Tilaka** and **Govindarāja** note that Sumantra insists on _svayam 
 
 <details><summary>मूलम्</summary>
 
-सुमन्त्रस्य वचः श्रुत्वा हृष्टो दशरथोऽभवत् ।  
+[^non-baroDa-CE] सुमन्त्रस्य वचः श्रुत्वा हृष्टो दशरथोऽभवत् ।  
 अनुमान्य वसिष्ठं च सूतवाक्यं निशाम्य च ॥ १३ ॥  
 सान्तःपुरः सहामात्यः प्रययौ यत्र स द्विजः ।
 _________________
@@ -1492,7 +1492,7 @@ Escorting Ṛṣyaśṛṅga into the royal palace like thousand-eyed Indra welc
 
 ततः प्रमुदिताः सर्वे दृष्ट्वा वै नागरा द्विजम् ॥ २७ ॥  
 प्रवेश्यमानं सत्कृत्य नरेन्द्रेणेन्द्रकर्मणा ।  
-यथा दिवि सुरेन्द्रेण सहस्राक्षेण काश्यपम् ॥ २८ ॥
+[^non-baroDa-CE] यथा दिवि सुरेन्द्रेण सहस्राक्षेण काश्यपम् ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1768,3 +1768,5 @@ Honored with special fondness by those queens and by the King himself, she dwelt
 On _sahadvijā_ / _sahartvijā_ in v. 31d (“she dwelt there accompanied by her Brāhmaṇa husband”), both **Śiromaṇi** and **Govindarāja** highlight a charming point of social custom: why is Śāntā made the grammatical subject and Ṛṣyaśṛṅga the subordinate accompaniment? Because in her father’s house, a married daughter holds the primary place of affection!
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

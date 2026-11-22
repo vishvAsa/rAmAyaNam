@@ -460,7 +460,7 @@ appearing now, severely and severally." Thus Rama's thoughts have sprinted. [3-5
 
 निमित्तानि च घोराणि दृश्यन्तेऽद्य बहूनि च ।  
 इत्येवं चिन्तयन् रामः श्रुत्वा गोमायुनिःस्वनम् ॥ १० ॥  
-निवर्तमानस्त्वरितो जगामाश्रममात्मवान् ।
+[^non-baroDa-CE] निवर्तमानस्त्वरितो जगामाश्रममात्मवान् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -603,7 +603,7 @@ Seeing the beasts and birds circling him on the left with dreadful cries, Rāma 
 <details><summary>मूलम्</summary>
 
 तानि दृष्ट्वा निमित्तानि महाघोराणि राघवः ।  
-न्यवर्तताथ त्वरितो जवेनाश्रममात्मनः ॥ १३ ॥
+[^non-baroDa-CE] न्यवर्तताथ त्वरितो जवेनाश्रममात्मनः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -935,11 +935,11 @@ Reading the blazing southern sky, the howling jackals, and his throbbing left ey
 
 अशुभान्येव भूयिष्ठं यथा प्रादुर्भवन्ति मे ॥ १९ ॥  
 अपि लक्ष्मण सीतायाः सामग्र्यं प्राप्नुयामहे ।  
-जीवन्त्याः पुरुषव्याघ्र सुताया जनकस्य वै ॥ २० ॥
+[^non-baroDa-CE] जीवन्त्याः पुरुषव्याघ्र सुताया जनकस्य वै ॥ २० ॥
 _________________
 अशुभान्येव भूयिष्ठं यथा प्रादुर्भवन्ति मे ॥
 अपि लक्ष्मण सीतायाः सामग्र्यं प्राप्नुयावहे ।  
-जीवन्त्याः पुरुषव्याघ्र सुताया जनकस्य वै॥
+[^non-baroDa-CE] जीवन्त्याः पुरुषव्याघ्र सुताया जनकस्य वै॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1005,8 +1005,8 @@ in her intactness and aliveness. [3-57-20]
 <details><summary>मूलम्</summary>
 
 यथा वै मृगसङ्घाश्च गोमायुश्चैव भैरवम् ।  
-वाश्यन्ते शकुनाश्चापि प्रदीप्तामभितो दिशम् ।  
-अपि स्वस्ति भवेत् तस्या राजपुत्र्या महाबल ॥ २१ ॥
+[^non-baroDa-CE] वाश्यन्ते शकुनाश्चापि प्रदीप्तामभितो दिशम् ।  
+[^non-baroDa-CE] अपि स्वस्ति भवेत् तस्या राजपुत्र्या महाबल ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1192,3 +1192,4 @@ nunoda || - dk*
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

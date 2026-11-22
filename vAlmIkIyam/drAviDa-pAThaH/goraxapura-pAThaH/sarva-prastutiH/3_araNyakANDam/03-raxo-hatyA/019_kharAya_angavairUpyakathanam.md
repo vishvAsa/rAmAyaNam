@@ -95,8 +95,8 @@ Beholding his sister fallen thus upon the ground, disfigured (_virūpām_) and d
 
 <details><summary>मूलम्</summary>
 
-उत्तिष्ठ तावदाख्याहि प्रमोहं जहि सम्भ्रमम् ।  
-व्यक्तमाख्याहि केन त्वमेवंरूपा विरूपिता ॥ २ ॥
+[^non-baroDa-CE] उत्तिष्ठ तावदाख्याहि प्रमोहं जहि सम्भ्रमम् ।  
+[^non-baroDa-CE] व्यक्तमाख्याहि केन त्वमेवंरूपा विरूपिता ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -146,8 +146,8 @@ way. [3-19-2]
 
 <details><summary>मूलम्</summary>
 
-कः कृष्णसर्पमासीनमाशीविषमनागसम् ।  
-तुदत्यभिसमापन्नमङ्गुल्यग्रेण लीलया ॥ ३ ॥
+[^non-baroDa-CE] कः कृष्णसर्पमासीनमाशीविषमनागसम् ।  
+[^non-baroDa-CE] तुदत्यभिसमापन्नमङ्गुल्यग्रेण लीलया ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -198,8 +198,8 @@ proximity but slouching down inoffensively. [3-19-3]
 
 <details><summary>मूलम्</summary>
 
-कालपाशं समासज्य कण्ठे मोहान्न बुध्यते ।  
-यस्त्वामद्य समासाद्य पीतवान् विषमुत्तमम् ॥ ४ ॥
+[^non-baroDa-CE] कालपाशं समासज्य कण्ठे मोहान्न बुध्यते ।  
+[^non-baroDa-CE] यस्त्वामद्य समासाद्य पीतवान् विषमुत्तमम् ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -769,8 +769,8 @@ Hearing these words of her brother, who was especially enraged (_kruddhasya ca v
 
 <details><summary>मूलम्</summary>
 
-फलमूलाशनौ दान्तौ तापसौ ब्रह्मचारिणौ ।  
-पुत्रौ दशरथस्यास्तां भ्रातरौ रामलक्ष्मणौ ॥ १५ ॥
+[^non-baroDa-CE] फलमूलाशनौ दान्तौ तापसौ ब्रह्मचारिणौ ।  
+[^non-baroDa-CE] पुत्रौ दशरथस्यास्तां भ्रातरौ रामलक्ष्मणौ ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1329,7 +1329,7 @@ Commanding the fourteen rākṣasas to slay the two princes and the woman so tha
 <details><summary>मूलम्</summary>
 
 तौ हत्वा तां च दुर्वृत्तामुपावर्तितुमर्हथ ।  
-इयं च भगिनी तेषां रुधिरं मम पास्यति ॥ २३ ॥
+[^non-baroDa-CE] इयं च भगिनी तेषां रुधिरं मम पास्यति ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1445,8 +1445,8 @@ indicates 'knowing also; so you know that Seetha, meaning 'be absolved by her' *
 
 <details><summary>मूलम्</summary>
 
-युष्माभिर्निहतौ दृष्ट्वा तावुभौ भ्रातरौ रणे ।  
-इयं प्रहृष्टा मुदिता रुधिरं युधि पास्यति ॥ २५ ॥
+[^non-baroDa-CE] युष्माभिर्निहतौ दृष्ट्वा तावुभौ भ्रातरौ रणे ।  
+[^non-baroDa-CE] इयं प्रहृष्टा मुदिता रुधिरं युधि पास्यति ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1562,3 +1562,4 @@ Thus commanded in detail (_pratisamādiṣṭāḥ_), those fourteen _rākṣasa
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

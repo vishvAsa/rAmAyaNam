@@ -178,13 +178,13 @@ Then Hanumān, son of the Wind-god (_mārutātmajaḥ_), shining like a mountain
 <details><summary>मूलम्</summary>
 
 भवत्प्रसादात् काकुत्स्थ पितृपैतामहं महत् ।  
-वानराणां सुदंष्ट्राणां सम्पन्नबलशालिनाम् ॥ ४ ॥  
+[^non-baroDa-CE] वानराणां सुदंष्ट्राणां सम्पन्नबलशालिनाम् ॥ ४ ॥  
 महात्मनां सुदुष्प्रापं प्राप्तं राज्यमिदं प्रभो ।  
 भवता समनुज्ञातः प्रविश्य नगरं शुभम् ॥ ५ ॥  
 संविधास्यति कार्याणि सर्वाणि ससुहृद‍्गणः ।
 _________________
 भवत्प्रसादात् काकुत्स्थ पितृपैतामहं महत् ।  
-वानराणां सुदंष्ट्राणां सम्पन्नबलशालिनाम् ॥
+[^non-baroDa-CE] वानराणां सुदंष्ट्राणां सम्पन्नबलशालिनाम् ॥
 महात्मनां सुदुष्प्रापं प्राप्तो राज्यमिदं प्रभो ।  
 भवता समनुज्ञातः प्रविश्य नगरं शुभम् ॥  
 संविधास्यति कार्याणि सर्वाणि ससुहृद्गणः ।
@@ -470,7 +470,7 @@ he shall be enthroned in the kingdom, immediately and procedurally. [4-26-10b, 1
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा हनूमन्तं रामः सुग्रीवमब्रवीत् ॥ ११ ॥  
-वृत्तज्ञो वृत्तसम्पन्नमुदारबलविक्रमम् ।  
+[^non-baroDa-CE] वृत्तज्ञो वृत्तसम्पन्नमुदारबलविक्रमम् ।  
 इममप्यङ्गदं वीरं यौवराज्येऽभिषेचय ॥ १२ ॥
 </details>
 
@@ -526,8 +526,8 @@ Declaring Aṅgada worthy of the crown-princeship, Rāma notes that the four rai
 
 <details><summary>मूलम्</summary>
 
-ज्येष्ठस्य हि सुतो ज्येष्ठः सदृशो विक्रमेण च ।  
-अङ्गदोऽयमदीनात्मा यौवराज्यस्य भाजनम् ॥ १३ ॥
+[^non-baroDa-CE] ज्येष्ठस्य हि सुतो ज्येष्ठः सदृशो विक्रमेण च ।  
+[^non-baroDa-CE] अङ्गदोऽयमदीनात्मा यौवराज्यस्य भाजनम् ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1614,8 +1614,8 @@ And when Aṅgada was consecrated, the great-souled monkeys, full of tender comp
 
 <details><summary>मूलम्</summary>
 
-रामं चैव महात्मानं लक्ष्मणं च पुनः पुनः ।  
-प्रीताश्च तुष्टुवुः सर्वे तादृशे तत्र वर्तिनि ॥ ४० ॥
+[^non-baroDa-CE] रामं चैव महात्मानं लक्ष्मणं च पुनः पुनः ।  
+[^non-baroDa-CE] प्रीताश्च तुष्टुवुः सर्वे तादृशे तत्र वर्तिनि ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1787,3 +1787,4 @@ Having reported his grand consecration (_mahābhiṣekam_) to the great-souled R
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

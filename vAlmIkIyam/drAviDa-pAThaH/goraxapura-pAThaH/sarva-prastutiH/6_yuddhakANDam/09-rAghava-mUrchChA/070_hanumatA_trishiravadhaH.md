@@ -629,7 +629,7 @@ Aṅgada slays Mahodara's elephant with a single blow of his palm, wrenches out 
 
 <details><summary>मूलम्</summary>
 
-स वेगवान् महावेगं कृत्वा परमदुर्जयः ।  
+[^non-baroDa-CE] स वेगवान् महावेगं कृत्वा परमदुर्जयः ।  
 तलेन समभिद्रुत्य जघानास्य महागजम् ॥ १३ ॥
 </details>
 
@@ -681,7 +681,7 @@ Summoning tremendous speed (_mahāvegam_), that swift and supremely invincible p
 
 <details><summary>मूलम्</summary>
 
-तस्य तेन प्रहारेण नागराजस्य संयुगे ।  
+[^non-baroDa-CE] तस्य तेन प्रहारेण नागराजस्य संयुगे ।  
 पेततुर्नयने तस्य विननाश स कुञ्जरः ॥ १४ ॥
 </details>
 
@@ -1271,8 +1271,8 @@ Crushed by Hanūmān's fist, Devāntaka falls dead with his skull shattered, whe
 
 <details><summary>मूलम्</summary>
 
-शिरसि प्राहरद् वीरस्तदा वायुसुतो बली ।  
-नादेनाकम्पयच्चैव राक्षसान् स महाकपिः ॥ २५ ॥
+[^non-baroDa-CE] शिरसि प्राहरद् वीरस्तदा वायुसुतो बली ।  
+[^non-baroDa-CE] नादेनाकम्पयच्चैव राक्षसान् स महाकपिः ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1444,7 +1444,7 @@ When that mighty chief of rākṣasa warriors, the foe of the gods (_devaśatrau
 <details><summary>मूलम्</summary>
 
 महोदरस्तु सङ्क्रुद्धः कुञ्जरं पर्वतोपमम् ।  
-भूयः समधिरुह्याशु मन्दरं रश्मिवानिव ॥ २८ ॥
+[^non-baroDa-CE] भूयः समधिरुह्याशु मन्दरं रश्मिवानिव ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1474,8 +1474,8 @@ Filled with wrath, Mahodara once again swiftly mounted (_bhūyaḥ samadhiruhya_
 
 <details><summary>मूलम्</summary>
 
-ततो बाणमयं वर्षं नीलस्योपर्यपातयत् ।  
-गिरौ वर्षं तडिच्चक्रचापवानिव तोयदः ॥ २९ ॥
+[^non-baroDa-CE] ततो बाणमयं वर्षं नीलस्योपर्यपातयत् ।  
+[^non-baroDa-CE] गिरौ वर्षं तडिच्चक्रचापवानिव तोयदः ॥ २९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1787,8 +1787,8 @@ Seeing his paternal uncle (_pitṛvyam_) slain, Triśiras seized his bow and in 
 
 <details><summary>मूलम्</summary>
 
-स वायुसूनुः कुपितश्चिक्षेप शिखरं गिरेः ।  
-त्रिशिरास्तच्छरैस्तीक्ष्णैर्बिभेद बहुधा बली ॥ ३४ ॥
+[^non-baroDa-CE] स वायुसूनुः कुपितश्चिक्षेप शिखरं गिरेः ।  
+[^non-baroDa-CE] त्रिशिरास्तच्छरैस्तीक्ष्णैर्बिभेद बहुधा बली ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1833,8 +1833,8 @@ Enraged, that son of the Wind-god hurled a mountain peak (_śikharaṃ gireḥ_)
 
 <details><summary>मूलम्</summary>
 
-तद् व्यर्थं शिखरं दृष्ट्वा द्रुमवर्षं तदा कपिः ।  
-विससर्ज रणे तस्मिन् रावणस्य सुतं प्रति ॥ ३५ ॥
+[^non-baroDa-CE] तद् व्यर्थं शिखरं दृष्ट्वा द्रुमवर्षं तदा कपिः ।  
+[^non-baroDa-CE] विससर्ज रणे तस्मिन् रावणस्य सुतं प्रति ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1879,8 +1879,8 @@ Beholding that peak rendered vain (_tad vyarthaṃ śikharaṃ dṛṣṭvā_), 
 
 <details><summary>मूलम्</summary>
 
-तमापतन्तमाकाशे द्रुमवर्षं प्रतापवान् ।  
-त्रिशिरा निशितैर्बाणैश्चिच्छेद च ननाद च ॥ ३६ ॥
+[^non-baroDa-CE] तमापतन्तमाकाशे द्रुमवर्षं प्रतापवान् ।  
+[^non-baroDa-CE] त्रिशिरा निशितैर्बाणैश्चिच्छेद च ननाद च ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3055,10 +3055,10 @@ Recovering consciousness after a long while (_saṃprāpya cirāt saṃjñām_),
 
 <details><summary>मूलम्</summary>
 
-स वेगवान् वेगवदभ्युपेत्य  
-तं राक्षसं वानरवीरमुख्यः ।  
-संवर्त्य मुष्टिं सहसा जघान  
-बाह्वन्तरे शैलनिकाशरूपः ॥ ५९ ॥
+[^non-baroDa-CE] स वेगवान् वेगवदभ्युपेत्य  
+[^non-baroDa-CE] तं राक्षसं वानरवीरमुख्यः ।  
+[^non-baroDa-CE] संवर्त्य मुष्टिं सहसा जघान  
+[^non-baroDa-CE] बाह्वन्तरे शैलनिकाशरूपः ॥ ५९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3122,10 +3122,10 @@ Felled by Ṛṣabha's fist, Mahāpārśva briefly revives to strike Varuṇa's 
 
 <details><summary>मूलम्</summary>
 
-स कृत्तमूलः सहसेव वृक्षः  
-क्षितौ पपात क्षतजोक्षिताङ्गः ।  
-तां चास्य घोरां यमदण्डकल्पां  
-गदां प्रगृह्याशु तदा ननाद ॥ ६० ॥
+[^non-baroDa-CE] स कृत्तमूलः सहसेव वृक्षः  
+[^non-baroDa-CE] क्षितौ पपात क्षतजोक्षिताङ्गः ।  
+[^non-baroDa-CE] तां चास्य घोरां यमदण्डकल्पां  
+[^non-baroDa-CE] गदां प्रगृह्याशु तदा ननाद ॥ ६० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3183,15 +3183,15 @@ His limbs drenched in blood (_kṣatajokṣitāṅgaḥ_), he crashed to the ear
 
 <details><summary>मूलम्</summary>
 
-मुहूर्तमासीत् स गतासुकल्पः  
-प्रत्यागतात्मा सहसा सुरारिः ।  
+[^non-baroDa-CE] मुहूर्तमासीत् स गतासुकल्पः  
+[^non-baroDa-CE] प्रत्यागतात्मा सहसा सुरारिः ।  
 उत्पत्य सन्ध्याभ्रसमानवर्ण-  
-स्तं वारिराजात्मजमाजघान ॥ ६१ ॥
+[^non-baroDa-CE] स्तं वारिराजात्मजमाजघान ॥ ६१ ॥
 _________________
-मुहूर्तमासीत् स गतासुकल्पः  
-प्रत्यागतात्मा सहसा सुरारिः ।  
+[^non-baroDa-CE] मुहूर्तमासीत् स गतासुकल्पः  
+[^non-baroDa-CE] प्रत्यागतात्मा सहसा सुरारिः ।  
 उत्पत्य सन्ध्याभसमानवर्ण-  
-स्तं वारिराजात्मजमाजघान ॥
+[^non-baroDa-CE] स्तं वारिराजात्मजमाजघान ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3250,14 +3250,14 @@ For a moment (_muhūrtam_) that foe of the gods lay as though lifeless (_gatāsu
 
 <details><summary>मूलम्</summary>
 
-स मूर्च्छितो भूमितले पपात  
+[^non-baroDa-CE] स मूर्च्छितो भूमितले पपात  
 मुहूर्तमुत्पत्य पुनः ससञ्ज्ञः ।  
-तामेव तस्याद्रिवराद्रिकल्पां  
+[^non-baroDa-CE] तामेव तस्याद्रिवराद्रिकल्पां  
 गदां समाविध्य जघान सङ्ख्ये ॥ ६२ ॥
 _________________
 स मूर्छितो भूमितले पपात  
 मुहूर्तमुत्पत्य पुनः ससञ्ज्ञः ।  
-तामेव तस्याद्रिवराद्रिकल्पां  
+[^non-baroDa-CE] तामेव तस्याद्रिवराद्रिकल्पां  
 गदां समाविध्य जघान सङ्ख्ये ॥
 </details>
 
@@ -3316,10 +3316,10 @@ Swooning (_mūrcchitaḥ_), [Ṛṣabha] fell to the ground for a moment; spring
 
 <details><summary>मूलम्</summary>
 
-सा तस्य रौद्रा समुपेत्य देहं  
-रौद्रस्य देवाध्वरविप्रशत्रोः ।  
-बिभेद वक्षः क्षतजं च भूरि  
-सुस्राव धात्वम्भ इवाद्रिराजः ॥ ६३ ॥
+[^non-baroDa-CE] सा तस्य रौद्रा समुपेत्य देहं  
+[^non-baroDa-CE] रौद्रस्य देवाध्वरविप्रशत्रोः ।  
+[^non-baroDa-CE] बिभेद वक्षः क्षतजं च भूरि  
+[^non-baroDa-CE] सुस्राव धात्वम्भ इवाद्रिराजः ॥ ६३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3376,7 +3376,7 @@ Slain by his own mace in Ṛṣabha's hands, Mahāpārśva crashes down like a t
 
 <details><summary>मूलम्</summary>
 
-अभिदुद्राव वेगेन गदां तस्य महात्मनः ।  
+[^non-baroDa-CE] अभिदुद्राव वेगेन गदां तस्य महात्मनः ।  
 तां गृहीत्वा गदां भीमामाविध्य च पुनः पुनः ॥ ६४ ॥  
 मत्तानीकं महात्मा स जघान रणमूर्धनि ।
 </details>
@@ -3485,10 +3485,10 @@ down like a mountain struck by a thunderbolt.
 
 <details><summary>मूलम्</summary>
 
-विशीर्णनयने भूमौ गतसत्त्वे गतायुषि ।  
-पतिते राक्षसे तस्मिन् विद्रुतं राक्षसं बलम् ॥ ६६ ॥
+[^non-baroDa-CE] विशीर्णनयने भूमौ गतसत्त्वे गतायुषि ।  
+[^non-baroDa-CE] पतिते राक्षसे तस्मिन् विद्रुतं राक्षसं बलम् ॥ ६६ ॥
 _________________
-विशीर्णनयने भूमौ गतसत्त्वे गतायुषि ।  
+[^non-baroDa-CE] विशीर्णनयने भूमौ गतसत्त्वे गतायुषि ।  
 पतिते राक्षसे तस्मिन्विद्रुतं रक्षसां बलम् ॥
 </details>
 
@@ -3602,3 +3602,4 @@ When that brother of Rāvaṇa (_bhrātari rāvaṇasya_) was slain, that ocean-
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

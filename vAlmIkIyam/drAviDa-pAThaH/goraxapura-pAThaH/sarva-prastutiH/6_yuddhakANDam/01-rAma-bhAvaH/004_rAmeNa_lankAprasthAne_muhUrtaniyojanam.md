@@ -213,9 +213,9 @@ reached the mid-day.
 
 <details><summary>मूलम्</summary>
 
-सीतां हृत्वा तु तद् यातु क्वासौ यास्यति जीवितः ।  
-सीता श्रुत्वाभियानं मे आशामेष्यति जीविते ।  
-जीवितान्तेऽमृतं स्पृष्ट्वा पीत्वामृतमिवातुरः ॥ ४ ॥
+[^non-baroDa-CE] सीतां हृत्वा तु तद् यातु क्वासौ यास्यति जीवितः ।  
+[^non-baroDa-CE] सीता श्रुत्वाभियानं मे आशामेष्यति जीविते ।  
+[^non-baroDa-CE] जीवितान्तेऽमृतं स्पृष्ट्वा पीत्वामृतमिवातुरः ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -800,8 +800,8 @@ Encouraged by the auspicious throbbing of his upper eyelid, Rāma instructs Comm
 
 <details><summary>मूलम्</summary>
 
-ततो वानरराजेन लक्ष्मणेन सुपूजितः ।  
-उवाच रामो धर्मात्मा पुनरप्यर्थकोविदः ॥ ८ ॥
+[^non-baroDa-CE] ततो वानरराजेन लक्ष्मणेन सुपूजितः ।  
+[^non-baroDa-CE] उवाच रामो धर्मात्मा पुनरप्यर्थकोविदः ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1054,7 +1054,7 @@ Rāma orders any frail troops to remain behind in Kiṣkindhā, assigns Gaja, Ga
 <details><summary>मूलम्</summary>
 
 यत्तु फल्गु बलं किञ्चित् तदत्रैवोपपद्यताम् ।  
-एतद्धि कृत्यं घोरं नो विक्रमेण प्रयुज्यताम् ॥ १३ ॥
+[^non-baroDa-CE] एतद्धि कृत्यं घोरं नो विक्रमेण प्रयुज्यताम् ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1582,7 +1582,7 @@ Springing up all together, those troops of monkeys of mighty energy (_mahaujasa�
 <details><summary>मूलम्</summary>
 
 ततो वानरराजेन लक्ष्मणेन च पूजितः ।  
-जगाम रामो धर्मात्मा ससैन्यो दक्षिणां दिशम् ॥ २३ ॥
+[^non-baroDa-CE] जगाम रामो धर्मात्मा ससैन्यो दक्षिणां दिशम् ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2363,9 +2363,9 @@ Thus those tigers among monkeys (_hariśārdūlāḥ_), proud of their strength,
 
 <details><summary>मूलम्</summary>
 
-सरांसि च सुफुल्लानि तटाकानि वराणि च ।  
-रामस्य शासनं ज्ञात्वा भीमकोपस्य भीतवत् ॥ ३८ ॥  
-वर्जयन् नागराभ्याशांस्तथा जनपदानपि ।  
+[^non-baroDa-CE] सरांसि च सुफुल्लानि तटाकानि वराणि च ।  
+[^non-baroDa-CE] रामस्य शासनं ज्ञात्वा भीमकोपस्य भीतवत् ॥ ३८ ॥  
+[^non-baroDa-CE] वर्जयन् नागराभ्याशांस्तथा जनपदानपि ।  
 सागरौघनिभं भीमं तद् वानरबलं महत् ॥ ३९ ॥  
 निःससर्प महाघोरं भीमघोषमिवार्णवम् ।
 </details>
@@ -2519,11 +2519,11 @@ Leaped swiftly forward all together like well-bred steeds urged on (_sadaśvā i
 
 <details><summary>मूलम्</summary>
 
-ततो वानरराजेन लक्ष्मणेन सुपूजितः ॥ ४२ ॥  
-जगाम रामो धर्मात्मा ससैन्यो दक्षिणां दिशम् ।
+[^non-baroDa-CE] ततो वानरराजेन लक्ष्मणेन सुपूजितः ॥ ४२ ॥  
+[^non-baroDa-CE] जगाम रामो धर्मात्मा ससैन्यो दक्षिणां दिशम् ।
 _________________
 ततो वानरराजेन लक्ष्मणेन च पूजितः ॥  
-जगाम रामो धर्मात्मा ससैन्यो दक्षिणां दिशम् ।
+[^non-baroDa-CE] जगाम रामो धर्मात्मा ससैन्यो दक्षिणां दिशम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3109,7 +3109,7 @@ As the vast monkey host advances southward, the dust raised by their hands and f
 <details><summary>मूलम्</summary>
 
 इति भ्रातरमाश्वास्य हृष्टः सौमित्रिरब्रवीत् ।  
-अथावृत्य महीं कृत्स्नां जगाम हरिवाहिनी ॥ ५५ ॥
+[^non-baroDa-CE] अथावृत्य महीं कृत्स्नां जगाम हरिवाहिनी ॥ ५५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3197,7 +3197,7 @@ Raised by the monkeys with the tips of their hands and the tips of their feet (_
 <details><summary>मूलम्</summary>
 
 भीममन्तर्दधे लोकं निवार्य सवितुः प्रभाम् ।  
-सपर्वतवनाकाशं दक्षिणां हरिवाहिनी ॥ ५७ ॥  
+[^non-baroDa-CE] सपर्वतवनाकाशं दक्षिणां हरिवाहिनी ॥ ५७ ॥  
 छादयन्ती ययौ भीमा द्यामिवाम्बुदसन्ततिः ।
 </details>
 
@@ -3246,8 +3246,8 @@ Obscured (_antardadhe_) the dreadful world, blocking out the radiance of the sun
 
 <details><summary>मूलम्</summary>
 
-उत्तरन्त्याश्च सेनायाः सततं बहुयोजनम् ॥ ५८ ॥  
-नदीस्रोतांसि सर्वाणि सस्यन्दुर्विपरीतवत् ।
+[^non-baroDa-CE] उत्तरन्त्याश्च सेनायाः सततं बहुयोजनम् ॥ ५८ ॥  
+[^non-baroDa-CE] नदीस्रोतांसि सर्वाणि सस्यन्दुर्विपरीतवत् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3279,14 +3279,14 @@ Marched on, covering [everything] like a bank of clouds (_ambudasaṃtatiḥ_) o
 
 <details><summary>मूलम्</summary>
 
-सरांसि विमलाम्भांसि द्रुमाकीर्णांश्च पर्वतान् ॥ ५९ ॥  
-समान् भूमिप्रदेशांश्च वनानि फलवन्ति च ।  
-मध्येन च समन्ताच्च तिर्यक् चाधश्च साविशत् ॥ ६० ॥  
+[^non-baroDa-CE] सरांसि विमलाम्भांसि द्रुमाकीर्णांश्च पर्वतान् ॥ ५९ ॥  
+[^non-baroDa-CE] समान् भूमिप्रदेशांश्च वनानि फलवन्ति च ।  
+[^non-baroDa-CE] मध्येन च समन्ताच्च तिर्यक् चाधश्च साविशत् ॥ ६० ॥  
 समावृत्य महीं कृत्स्नां जगाम महती चमूः ।
 _________________
-सरांसि विमलाम्भांसि द्रुमाकीर्णांश्च पर्वतान् ॥
+[^non-baroDa-CE] सरांसि विमलाम्भांसि द्रुमाकीर्णांश्च पर्वतान् ॥
 समान् भूमिप्रदेशांश्च विनानि फलवन्ति च ।  
-मध्येन च समन्ताच्च तिर्यक् चाधश्च साविशत् ॥  
+[^non-baroDa-CE] मध्येन च समन्ताच्च तिर्यक् चाधश्च साविशत् ॥  
 समावृत्य वहीं कृत्स्नां जगाम महती चमूः ।
 </details>
 
@@ -3360,11 +3360,11 @@ Swift as the wind and flushed with youthful pride, the monkey legions display th
 
 <details><summary>मूलम्</summary>
 
-ते हृष्टवदनाः सर्वे जग्मुर्मारुतरंहसः ॥ ६१ ॥  
-हरयो राघवस्यार्थे समारोपितविक्रमाः ।
+[^non-baroDa-CE] ते हृष्टवदनाः सर्वे जग्मुर्मारुतरंहसः ॥ ६१ ॥  
+[^non-baroDa-CE] हरयो राघवस्यार्थे समारोपितविक्रमाः ।
 _________________
 ते हृष्ट्वदनाः सर्वे जग्मुर्मारुतरंहसः ॥  
-हरयो राघवस्यार्थे समारोपित विक्रमाः ।
+[^non-baroDa-CE] हरयो राघवस्यार्थे समारोपित विक्रमाः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3419,8 +3419,8 @@ Covering the entire earth, the mighty army (_mahatī camūḥ_) marched on; with
 
 <details><summary>मूलम्</summary>
 
-हर्षं वीर्यं बलोद्रेकान् दर्शयन्तः परस्परम् ॥ ६२ ॥  
-यौवनोत्सेकजाद् दर्पाद् विविधांश्चक्रुरध्वनि ।
+[^non-baroDa-CE] हर्षं वीर्यं बलोद्रेकान् दर्शयन्तः परस्परम् ॥ ६२ ॥  
+[^non-baroDa-CE] यौवनोत्सेकजाद् दर्पाद् विविधांश्चक्रुरध्वनि ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3472,12 +3472,12 @@ Putting forth their full valor (_samāropitavikramāḥ_) for the sake of Rāgha
 
 <details><summary>मूलम्</summary>
 
-तत्र केचिद् द्रुतं जग्मुरुत्पेतुश्च तथापरे ॥ ६३ ॥  
-केचित् किलकिलां चक्रुर्वानरा वनगोचराः ।  
+[^non-baroDa-CE] तत्र केचिद् द्रुतं जग्मुरुत्पेतुश्च तथापरे ॥ ६३ ॥  
+[^non-baroDa-CE] केचित् किलकिलां चक्रुर्वानरा वनगोचराः ।  
 प्रास्फोटयंश्च पुच्छानि सन्निजघ्नुः पदान्यपि ॥ ६४ ॥
 _________________
 तत्र केचित् ध्रुतं जग्मुरुत्पेतुश्च तथापरे ॥
-केचित् किलकिलां चक्रुर्वानरा वनगोचराः ।  
+[^non-baroDa-CE] केचित् किलकिलां चक्रुर्वानरा वनगोचराः ।  
 प्रास्फोटयंश्च पुच्छानि सन्निजघ्नुः पदान्यपि ॥
 </details>
 
@@ -3534,8 +3534,8 @@ spirits, vigor and prowess. Out of pride born of prime youth, some made various 
 
 <details><summary>मूलम्</summary>
 
-भुजान् विक्षिप्य शैलांश्च द्रुमानन्ये बभञ्जिरे ।  
-आरोहन्तश्च शृङ्गाणि गिरीणां गिरिगोचराः ॥ ६५ ॥
+[^non-baroDa-CE] भुजान् विक्षिप्य शैलांश्च द्रुमानन्ये बभञ्जिरे ।  
+[^non-baroDa-CE] आरोहन्तश्च शृङ्गाणि गिरीणां गिरिगोचराः ॥ ६५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3580,8 +3580,8 @@ Stretching out their arms (_bhujān vikṣipya_), others shattered crags and tre
 
 <details><summary>मूलम्</summary>
 
-महानादान् प्रमुञ्चन्ति क्ष्वेडामन्ये प्रचक्रिरे ।  
-ऊरुवेगैश्च ममृदुर्लताजालान्यनेकशः ॥ ६६ ॥
+[^non-baroDa-CE] महानादान् प्रमुञ्चन्ति क्ष्वेडामन्ये प्रचक्रिरे ।  
+[^non-baroDa-CE] ऊरुवेगैश्च ममृदुर्लताजालान्यनेकशः ॥ ६६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3641,9 +3641,9 @@ Marching day and night without pausing in their eagerness to rescue Sītā, the 
 
 <details><summary>मूलम्</summary>
 
-जृम्भमाणाश्च विक्रान्ता विचिक्रीडुः शिलाद्रुमैः ।  
-ततः शतसहस्रैश्च कोटिभिश्च सहस्रशः ॥ ६७ ॥  
-वानराणां सुघोराणां श्रीमत्परिवृता मही ।
+[^non-baroDa-CE] जृम्भमाणाश्च विक्रान्ता विचिक्रीडुः शिलाद्रुमैः ।  
+[^non-baroDa-CE] ततः शतसहस्रैश्च कोटिभिश्च सहस्रशः ॥ ६७ ॥  
+[^non-baroDa-CE] वानराणां सुघोराणां श्रीमत्परिवृता मही ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3762,7 +3762,7 @@ and crores of monkeys, who were looking very dreadful.
 <details><summary>मूलम्</summary>
 
 ततः पादपसम्बाधं नानावनसमायुतम् ।  
-सह्यपर्वतमासाद्य वानरास्ते समारुहन् ॥ ७० ॥
+[^non-baroDa-CE] सह्यपर्वतमासाद्य वानरास्ते समारुहन् ॥ ७० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3905,7 +3905,7 @@ As the monkeys break blossoming trees across the rocky plateaus, a sandal-cool b
 
 <details><summary>मूलम्</summary>
 
-अङ्कोलांश्च करञ्जांश्च प्लक्षन्यग्रोधपादपान् ।  
+[^non-baroDa-CE] अङ्कोलांश्च करञ्जांश्च प्लक्षन्यग्रोधपादपान् ।  
 जम्बूकामलकान् नीपान् भञ्जन्ति स्म प्लवङ्गमाः ॥ ७३ ॥
 </details>
 
@@ -3956,10 +3956,10 @@ The monkeys snapped (_bhañjanti sma_) aṅkolas, karañjas, plakṣa and banyan
 
 <details><summary>मूलम्</summary>
 
-प्रस्तरेषु च रम्येषु विविधाः काननद्रुमाः ।  
-वायुवेगप्रचलिताः पुष्पैरवकिरन्ति तान् ॥ ७४ ॥
+[^non-baroDa-CE] प्रस्तरेषु च रम्येषु विविधाः काननद्रुमाः ।  
+[^non-baroDa-CE] वायुवेगप्रचलिताः पुष्पैरवकिरन्ति तान् ॥ ७४ ॥
 _________________
-प्रस्तरेषु च रम्येषु विविधाः काननद्रुमाः ।  
+[^non-baroDa-CE] प्रस्तरेषु च रम्येषु विविधाः काननद्रुमाः ।  
 वायुवेग प्रचलीताः पुष्पैरवकिरन्ति तान् ॥
 </details>
 
@@ -4011,8 +4011,8 @@ Upon the lovely rock-ledges (_prastareṣu ca ramyeṣu_), diverse forest trees 
 
 <details><summary>मूलम्</summary>
 
-मारुतः सुखसंस्पर्शो वाति चन्दनशीतलः ।  
-षट्पदैरनुकूजद्भिर्वनेषु मधुगन्धिषु ॥ ७५ ॥
+[^non-baroDa-CE] मारुतः सुखसंस्पर्शो वाति चन्दनशीतलः ।  
+[^non-baroDa-CE] षट्पदैरनुकूजद्भिर्वनेषु मधुगन्धिषु ॥ ७५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4063,9 +4063,9 @@ A breeze pleasant to the touch (_sukhasaṃsparśaḥ_) and cool as sandalwood (
 
 <details><summary>मूलम्</summary>
 
-अधिकं शैलराजस्तु धातुभिस्तु विभूषितः ।  
-धातुभ्यः प्रसृतो रेणुर्वायुवेगेन घट्टितः ॥ ७६ ॥  
-सुमहद्वानरानीकं छादयामास सर्वतः ।
+[^non-baroDa-CE] अधिकं शैलराजस्तु धातुभिस्तु विभूषितः ।  
+[^non-baroDa-CE] धातुभ्यः प्रसृतो रेणुर्वायुवेगेन घट्टितः ॥ ७६ ॥  
+[^non-baroDa-CE] सुमहद्वानरानीकं छादयामास सर्वतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4111,11 +4111,11 @@ And the king of mountains (_śailarājaḥ_) was richly adorned with mineral ore
 
 <details><summary>मूलम्</summary>
 
-गिरिप्रस्थेषु रम्येषु सर्वतः सम्प्रपुष्पिताः ॥ ७७ ॥  
-केतक्यः सिन्दुवाराश्च वासन्त्यश्च मनोरमाः ।  
-माधव्यो गन्धपूर्णाश्च कुन्दगुल्माश्च पुष्पिताः ॥ ७८ ॥
+[^non-baroDa-CE] गिरिप्रस्थेषु रम्येषु सर्वतः सम्प्रपुष्पिताः ॥ ७७ ॥  
+[^non-baroDa-CE] केतक्यः सिन्दुवाराश्च वासन्त्यश्च मनोरमाः ।  
+[^non-baroDa-CE] माधव्यो गन्धपूर्णाश्च कुन्दगुल्माश्च पुष्पिताः ॥ ७८ ॥
 _________________
-गिरिप्रस्थेषु रम्येषु सर्वतः सम्प्रपुष्पिताः ॥
+[^non-baroDa-CE] गिरिप्रस्थेषु रम्येषु सर्वतः सम्प्रपुष्पिताः ॥
 केतक्यः सिन्धुवाराश्च वासन्त्यश्च मनोरमाः ।  
 मधव्यो गन्धपूर्णाश्च कुन्दगुल्माश्च पुष्पिताः ॥
 </details>
@@ -4196,8 +4196,8 @@ Delighted monkeys throw into commotion the flowering trees of the mountain plate
 
 <details><summary>मूलम्</summary>
 
-चिरिबिल्वा मधूकाश्च वञ्जुला बकुलास्तथा ।  
-रञ्जकास्तिलकाश्चैव नागवृक्षाश्च पुष्पिताः ॥ ७९ ॥
+[^non-baroDa-CE] चिरिबिल्वा मधूकाश्च वञ्जुला बकुलास्तथा ।  
+[^non-baroDa-CE] रञ्जकास्तिलकाश्चैव नागवृक्षाश्च पुष्पिताः ॥ ७९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4243,10 +4243,10 @@ Ciribilvas, madhūkas, vañjulas, and bakulas as well, rañjakas, tilakas, and b
 
 <details><summary>मूलम्</summary>
 
-चूताः पाटलिकाश्चैव कोविदाराश्च पुष्पिताः ।  
-मुचुलिन्दार्जुनाश्चैव शिंशपाः कुटजास्तथा ॥ ८० ॥  
-हिन्तालास्तिनिशाश्चैव चूर्णका नीपकास्तथा ।  
-नीलाशोकाश्च सरला अङ्कोलाः पद्मकास्तथा ॥ ८१ ॥
+[^non-baroDa-CE] चूताः पाटलिकाश्चैव कोविदाराश्च पुष्पिताः ।  
+[^non-baroDa-CE] मुचुलिन्दार्जुनाश्चैव शिंशपाः कुटजास्तथा ॥ ८० ॥  
+[^non-baroDa-CE] हिन्तालास्तिनिशाश्चैव चूर्णका नीपकास्तथा ।  
+[^non-baroDa-CE] नीलाशोकाश्च सरला अङ्कोलाः पद्मकास्तथा ॥ ८१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4281,13 +4281,13 @@ Ciribilvas, madhūkas, vañjulas, and bakulas as well, rañjakas, tilakas, and b
 <details><summary>मूलम्</summary>
 
 प्रीयमाणैः प्लवङ्गैस्तु सर्वे पर्याकुलीकृताः ।  
-वाप्यस्तस्मिन् गिरौ रम्याः पल्वलानि तथैव च ॥ ८२ ॥  
-चक्रवाकानुचरिताः कारण्डवनिषेविताः ।  
+[^non-baroDa-CE] वाप्यस्तस्मिन् गिरौ रम्याः पल्वलानि तथैव च ॥ ८२ ॥  
+[^non-baroDa-CE] चक्रवाकानुचरिताः कारण्डवनिषेविताः ।  
 प्लवैः क्रौञ्चैश्च सङ्कीर्णा वराहमृगसेविताः ॥ ८३ ॥
 _________________
 प्रियमाणैः प्लवङ्गैस्तु सर्वे पर्याकुलीकृताः ।  
-वाप्यस्तस्मिन् गिरौ रम्याः पल्वलानि तथैव च ॥
-चक्रवाकानुचरिताः कारण्डवनिषेविताः ।  
+[^non-baroDa-CE] वाप्यस्तस्मिन् गिरौ रम्याः पल्वलानि तथैव च ॥
+[^non-baroDa-CE] चक्रवाकानुचरिताः कारण्डवनिषेविताः ।  
 प्लवै क्रौञ्चैश्च सङ्कीर्णा वराहमृगसेविताः ॥
 </details>
 
@@ -4320,8 +4320,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-ऋक्षैस्तरक्षुभिः सिंहैः शार्दूलैश्च भयावहैः ।  
-व्यालैश्च बहुभिर्भीमैः सेव्यमानाः समन्ततः ॥ ८४ ॥
+[^non-baroDa-CE] ऋक्षैस्तरक्षुभिः सिंहैः शार्दूलैश्च भयावहैः ।  
+[^non-baroDa-CE] व्यालैश्च बहुभिर्भीमैः सेव्यमानाः समन्ततः ॥ ८४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4403,8 +4403,8 @@ Bathing and splashing in lotus-filled mountain pools, the honey-tawny monkeys fe
 
 <details><summary>मूलम्</summary>
 
-पद्मैः सौगन्धिकैः फुल्लैः कुमुदैश्चोत्पलैस्तथा ।  
-वारिजैर्विविधैः पुष्पै रम्यास्तत्र जलाशयाः ॥ ८५ ॥
+[^non-baroDa-CE] पद्मैः सौगन्धिकैः फुल्लैः कुमुदैश्चोत्पलैस्तथा ।  
+[^non-baroDa-CE] वारिजैर्विविधैः पुष्पै रम्यास्तत्र जलाशयाः ॥ ८५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4434,8 +4434,8 @@ The lakes there (_tatra jalāśayāḥ_) were lovely with diverse aquatic blosso
 
 <details><summary>मूलम्</summary>
 
-तस्य सानुषु कूजन्ति नानाद्विजगणास्तथा ।  
-स्नात्वा पीत्वोदकान्यत्र जले क्रीडन्ति वानराः ॥ ८६ ॥
+[^non-baroDa-CE] तस्य सानुषु कूजन्ति नानाद्विजगणास्तथा ।  
+[^non-baroDa-CE] स्नात्वा पीत्वोदकान्यत्र जले क्रीडन्ति वानराः ॥ ८६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4468,13 +4468,13 @@ Upon its tablelands (_tasya sānuṣu_), flocks of diverse birds (_nānādvijaga
 
 <details><summary>मूलम्</summary>
 
-अन्योन्यं प्लावयन्ति स्म शैलमारुह्य वानराः ।  
+[^non-baroDa-CE] अन्योन्यं प्लावयन्ति स्म शैलमारुह्य वानराः ।  
 फलान्यमृतगन्धीनि मूलानि कुसुमानि च ॥ ८७ ॥  
 बभञ्जुर्वानरास्तत्र पादपानां मदोत्कटाः ।  
 द्रोणमात्रप्रमाणानि लम्बमानानि वानराः ॥ ८८ ॥  
 ययुः पिबन्तः स्वस्थास्ते मधूनि मधुपिङ्गलाः ।
 _________________
-अन्योन्यं प्लावयन्ति स्म शैलमारुह्य वानराः ।  
+[^non-baroDa-CE] अन्योन्यं प्लावयन्ति स्म शैलमारुह्य वानराः ।  
 फलान्यमृतगन्धीनि मूलानि कुसुमानि च ॥
 बभञ्जुर्वानरस्तत्र पादपानां मदोत्कटाः ।  
 द्रोणमात्रप्रमाणानि लम्बमानानि वानराः ॥  
@@ -5171,7 +5171,7 @@ Speaking thus, mighty-armed Rāma, wasted with grief over the abduction of Sīt�
 
 <details><summary>मूलम्</summary>
 
-सर्वाः सेना निवेश्यन्तां वेलायां हरिपुङ्गव ।  
+[^non-baroDa-CE] सर्वाः सेना निवेश्यन्तां वेलायां हरिपुङ्गव ।  
 सम्प्राप्तो मन्त्रकालो नः सागरस्येह लङ्घने ॥ १०१ ॥
 </details>
 
@@ -5444,7 +5444,7 @@ Having reached the littoral forest (_velāvanam upāgamya_), those bulls among m
 <details><summary>मूलम्</summary>
 
 तेषां निविशमानानां सैन्यसन्नाहनिःस्वनः ।  
-अन्तर्धाय महानादमर्णवस्य प्रशुश्रुवे ॥ १०६ ॥
+[^non-baroDa-CE] अन्तर्धाय महानादमर्णवस्य प्रशुश्रुवे ॥ १०६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5495,8 +5495,8 @@ As they were encamping (_teṣāṃ niviśamānānām_), the roar of the army’
 
 <details><summary>मूलम्</summary>
 
-सा वानराणां ध्वजिनी सुग्रीवेणाभिपालिता ।  
-त्रिधा निविष्टा महती रामस्यार्थपराभवत् ॥ १०७ ॥
+[^non-baroDa-CE] सा वानराणां ध्वजिनी सुग्रीवेणाभिपालिता ।  
+[^non-baroDa-CE] त्रिधा निविष्टा महती रामस्यार्थपराभवत् ॥ १०७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5656,7 +5656,7 @@ Gazing upon the abode of Varuṇa (_varuṇāvāsam_)—whose farther shore was 
 <details><summary>मूलम्</summary>
 
 चण्डनक्रग्राहघोरं क्षपादौ दिवसक्षये ।  
-हसन्तमिव फेनौघैर्नृत्यन्तमिव चोर्मिभिः ॥ ११० ॥  
+[^non-baroDa-CE] हसन्तमिव फेनौघैर्नृत्यन्तमिव चोर्मिभिः ॥ ११० ॥  
 चन्द्रोदये समुद्भूतं प्रतिचन्द्रसमाकुलम् ।  
 चण्डानिलमहाग्राहैः कीर्णं तिमितिमिङ्गिलैः ॥ १११ ॥
 _________________
@@ -6201,7 +6201,7 @@ Those high-souled ones beheld the wind-lashed ocean (_vātāhatajalāśayam_), t
 
 <details><summary>मूलम्</summary>
 
-ततो विस्मयमापन्ना हरयो ददृशुः स्थिताः ।  
+[^non-baroDa-CE] ततो विस्मयमापन्ना हरयो ददृशुः स्थिताः ।  
 भ्रान्तोर्मिजालसन्नादं प्रलोलमिव सागरम् ॥ १२१ ॥
 </details>
 
@@ -6253,3 +6253,5 @@ like a kettle-drum in the sky.
 Then, filled with wonder (_vismayam āpannāḥ_), the monkeys stood gazing upon the ocean, noisy with its whirling networks of waves (_bhrāntormijālasaṃnādam_) and tossing restlessly (_pralolam iva sāgaram_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

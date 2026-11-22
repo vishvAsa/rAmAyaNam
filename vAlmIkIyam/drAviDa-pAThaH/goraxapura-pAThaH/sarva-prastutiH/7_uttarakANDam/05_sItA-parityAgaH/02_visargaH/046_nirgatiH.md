@@ -203,8 +203,8 @@ Told that Rāma has granted her wish to visit the Gaṅgā hermitages, Sītā re
 
 <details><summary>मूलम्</summary>
 
-त्वया किलैष नृपतिर्वरं वै याचितः प्रभुः ।  
-नृपेण च प्रतिज्ञातमाज्ञप्तश्चाश्रमं प्रति ॥ ७ ॥
+[^non-baroDa-CE] त्वया किलैष नृपतिर्वरं वै याचितः प्रभुः ।  
+[^non-baroDa-CE] नृपेण च प्रतिज्ञातमाज्ञप्तश्चाश्रमं प्रति ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -237,7 +237,7 @@ Told that Rāma has granted her wish to visit the Gaṅgā hermitages, Sītā re
 
 गङ्गातीरे मया देवि ऋषीणामाश्रमान् शुभान् ।  
 शीघ्रं गत्वा तु वैदेहि शासनात् पार्थिवस्य नः ॥ ८ ॥  
-अरण्ये मुनिभिर्जुष्टे अपनेया भविष्यसि ।
+[^non-baroDa-CE] अरण्ये मुनिभिर्जुष्टे अपनेया भविष्यसि ।
 _________________
 गङ्गा तीरे मया देवि ऋषीणामाश्रमान् शुभान् ।  
 शीघ्रं गत्वा तु वैदेहिशासनात् पार्थिवस्य नः ॥  
@@ -307,7 +307,7 @@ Spoken to thus by the high-souled Lakṣmaṇa (_lakṣmaṇena mahātmanā_), V
 वासांसि च महार्हाणि रत्नानि विविधानि च ॥ १० ॥  
 गृहीत्वा तानि वैदेही गमनायोपचक्रमे ।  
 इमानि मुनिपत्नीनां दास्याम्याभरणान्यहम् ॥ ११ ॥  
-वस्त्राणि च महार्हाणि धनानि विविधानि च ।
+[^non-baroDa-CE] वस्त्राणि च महार्हाणि धनानि विविधानि च ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -647,7 +647,7 @@ Having then harnessed the four mind-swift steeds to the chariot with their reins
 
 सा तु सूतस्य वचनादारुरोह रथोत्तमम् ॥ २२ ॥  
 सीता सौमित्रिणा सार्धं सुमन्त्रेण च धीमता ।  
-आससाद विशालाक्षी गङ्गां पापविनाशिनीम् ॥ २३ ॥
+[^non-baroDa-CE] आससाद विशालाक्षी गङ्गां पापविनाशिनीम् ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -887,8 +887,8 @@ Promising to stay only one night before returning to her lotus-eyed lord, Sītā
 
 <details><summary>मूलम्</summary>
 
-ममापि पद्मपत्राक्षं सिंहोरस्कं कृशोदरम् ।  
-त्वरते हि मनो द्रष्टुं रामं रमयतां वरम् ॥ ३१ ॥
+[^non-baroDa-CE] ममापि पद्मपत्राक्षं सिंहोरस्कं कृशोदरम् ।  
+[^non-baroDa-CE] त्वरते हि मनो द्रष्टुं रामं रमयतां वरम् ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -920,11 +920,11 @@ Hearing those words of hers, Lakṣmaṇa, slayer of hostile heroes (_paravīrah
 <details><summary>मूलम्</summary>
 
 तस्यास्तद् वचनं श्रुत्वा प्रमृज्य नयने शुभे ।  
-नाविकानाह्वयामास लक्ष्मणः परवीरहा ।  
+[^non-baroDa-CE] नाविकानाह्वयामास लक्ष्मणः परवीरहा ।  
 इयं स सज्जा नौश्चेति दाशाः प्राञ्जलयोऽब्रुवन् ॥ ३२ ॥
 _________________
 तस्यास्तद्वचनंश्रुत्वा प्रमृज्य नयने शुभे ।  
-नाविकानाह्वयामास लक्ष्मणः परवीरहा ।  
+[^non-baroDa-CE] नाविकानाह्वयामास लक्ष्मणः परवीरहा ।  
 इयं च सज्जा नौश्चेति दाशाः प्राञ्जलयोब्रुवन् ॥
 </details>
 
@@ -956,7 +956,7 @@ Desiring to cross the Gaṅgā (_titīrṣur lakṣmaṇo gaṅgām_), Lakṣma�
 <details><summary>मूलम्</summary>
 
 तितीर्षुर्लक्ष्मणो गङ्गां शुभां नावमुपारुहत् ।  
-गङ्गां सन्तारयामास लक्ष्मणस्तां समाहितः ॥ ३३ ॥
+[^non-baroDa-CE] गङ्गां सन्तारयामास लक्ष्मणस्तां समाहितः ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -981,3 +981,4 @@ Desiring to cross the Gaṅgā (_titīrṣur lakṣmaṇo gaṅgām_), Lakṣma�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

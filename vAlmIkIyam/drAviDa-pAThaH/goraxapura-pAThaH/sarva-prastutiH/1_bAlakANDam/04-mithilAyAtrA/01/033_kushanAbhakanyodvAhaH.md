@@ -1447,7 +1447,7 @@ Beholding his daughters released from Vāyu’s deformity (**Śiromaṇi**; **Ti
 
 सोमदापि सुतं दृष्ट्वा पुत्रस्य सदृशीं क्रियाम् ।  
 यथान्यायं च गन्धर्वी स्नुषास्ताः प्रत्यनन्दत ।  
-स्पृष्ट्वा स्पृष्ट्वा च ताः कन्याः कुशनाभं प्रशस्य च ॥ २६ ॥
+[^non-baroDa-CE] स्पृष्ट्वा स्पृष्ट्वा च ताः कन्याः कुशनाभं प्रशस्य च ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1514,3 +1514,4 @@ Welcoming her daughters-in-law in order of seniority (_yathānyāyam_) and cares
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

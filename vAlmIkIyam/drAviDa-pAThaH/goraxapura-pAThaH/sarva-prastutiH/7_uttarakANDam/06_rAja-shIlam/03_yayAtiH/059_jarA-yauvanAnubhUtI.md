@@ -32,7 +32,7 @@ Stricken by Uśanas’s curse of premature old age, King Yayāti pleads with his
 <details><summary>मूलम्</summary>
 
 श्रुत्वा तूशनसं क्रुद्धं तदार्तो नहुषात्मजः ।  
-जरां परमिकां प्राप्य यदुं वचनमब्रवीत् ॥ १ ॥
+[^non-baroDa-CE] जरां परमिकां प्राप्य यदुं वचनमब्रवीत् ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -62,7 +62,7 @@ Hearing the enraged Uśanas (_śrutvā tūśanasaṃ kruddham_), the distressed 
 
 <details><summary>मूलम्</summary>
 
-यदो त्वमसि धर्मज्ञो मदर्थं प्रतिगृह्यताम् ।  
+[^non-baroDa-CE] यदो त्वमसि धर्मज्ञो मदर्थं प्रतिगृह्यताम् ।  
 जरा परमिका पुत्र भोगै रंस्ये महायशः ॥ २ ॥
 </details>
 
@@ -93,8 +93,8 @@ Hearing the enraged Uśanas (_śrutvā tūśanasaṃ kruddham_), the distressed 
 
 <details><summary>मूलम्</summary>
 
-न तावत् कृतकृत्योऽस्मि विषयेषु नरर्षभ ।  
-अनुभूय तदा कामं ततः प्राप्स्याम्यहं जराम् ॥ ३ ॥
+[^non-baroDa-CE] न तावत् कृतकृत्योऽस्मि विषयेषु नरर्षभ ।  
+[^non-baroDa-CE] अनुभूय तदा कामं ततः प्राप्स्याम्यहं जराम् ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,8 +124,8 @@ Hearing the enraged Uśanas (_śrutvā tūśanasaṃ kruddham_), the distressed 
 
 <details><summary>मूलम्</summary>
 
-यदुस्तद्वचनं श्रुत्वा प्रत्युवाच नरर्षभम् ।  
-पुत्रस्ते दयितः पूरुः प्रतिगृह्णातु वै जराम् ॥ ४ ॥
+[^non-baroDa-CE] यदुस्तद्वचनं श्रुत्वा प्रत्युवाच नरर्षभम् ।  
+[^non-baroDa-CE] पुत्रस्ते दयितः पूरुः प्रतिगृह्णातु वै जराम् ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -155,7 +155,7 @@ Hearing those words of his, Yadu replied to that bull among men (_pratyuvāca na
 
 <details><summary>मूलम्</summary>
 
-बहिष्कृतोऽहमर्थेषु सन्निकर्षाच्च पार्थिव ।  
+[^non-baroDa-CE] बहिष्कृतोऽहमर्थेषु सन्निकर्षाच्च पार्थिव ।  
 प्रतिगृह्णातु वै राजन् यैः सहाश्नासि भोजनम् ॥ ५ ॥
 </details>
 
@@ -186,8 +186,8 @@ Hearing those words of his, Yadu replied to that bull among men (_pratyuvāca na
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् वचनं श्रुत्वा राजा पूरुमथाब्रवीत् ।  
-इयं जरा महाबाहो मदर्थं प्रतिगृह्यताम् ॥ ६ ॥
+[^non-baroDa-CE] तस्य तद् वचनं श्रुत्वा राजा पूरुमथाब्रवीत् ।  
+[^non-baroDa-CE] इयं जरा महाबाहो मदर्थं प्रतिगृह्यताम् ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -225,8 +225,8 @@ Pūru humbly accepts his father’s old age, enabling Yayāti to enjoy youth, pe
 
 <details><summary>मूलम्</summary>
 
-नाहुषेणैवमुक्तस्तु पूरुः प्राञ्जलिरब्रवीत् ।  
-धन्योऽस्म्यनुगृहीतोऽस्मि शासनेऽस्मि तव स्थितः ॥ ७ ॥
+[^non-baroDa-CE] नाहुषेणैवमुक्तस्तु पूरुः प्राञ्जलिरब्रवीत् ।  
+[^non-baroDa-CE] धन्योऽस्म्यनुगृहीतोऽस्मि शासनेऽस्मि तव स्थितः ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -256,11 +256,11 @@ Thus addressed by the son of Nahuṣa (_nāhuṣeṇaivam uktaḥ_), Pūru spoke
 
 <details><summary>मूलम्</summary>
 
-पूरोर्वचनमाज्ञाय नाहुषः परया मुदा ।  
-प्रहर्षमतुलं लेभे जरां सङ्क्रामयच्च ताम् ॥ ८ ॥
+[^non-baroDa-CE] पूरोर्वचनमाज्ञाय नाहुषः परया मुदा ।  
+[^non-baroDa-CE] प्रहर्षमतुलं लेभे जरां सङ्क्रामयच्च ताम् ॥ ८ ॥
 _________________
 पुरोर्वचनमाज्ञाय नाहुषः परया मुदा ।  
-प्रहर्षमतुलं लेभे जरां सङ्क्रामयच्च ताम् ॥
+[^non-baroDa-CE] प्रहर्षमतुलं लेभे जरां सङ्क्रामयच्च ताम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -290,8 +290,8 @@ Knowing Pūru’s words (_pūror vacanam ājñāya_), the son of Nahuṣa with s
 
 <details><summary>मूलम्</summary>
 
-ततः स राजा तरुणः प्राप्य यज्ञान् सहस्रशः ।  
-बहुवर्षसहस्राणि पालयामास मेदिनीम् ॥ ९ ॥
+[^non-baroDa-CE] ततः स राजा तरुणः प्राप्य यज्ञान् सहस्रशः ।  
+[^non-baroDa-CE] बहुवर्षसहस्राणि पालयामास मेदिनीम् ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -321,8 +321,8 @@ Thereupon that king, having become youthful (_sa rājā taruṇaḥ_), accomplis
 
 <details><summary>मूलम्</summary>
 
-अथ दीर्घस्य कालस्य राजा पूरुमथाब्रवीत् ।  
-आनयस्व जरां पुत्र न्यासं निर्यातयस्व मे ॥ १० ॥
+[^non-baroDa-CE] अथ दीर्घस्य कालस्य राजा पूरुमथाब्रवीत् ।  
+[^non-baroDa-CE] आनयस्व जरां पुत्र न्यासं निर्यातयस्व मे ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -352,7 +352,7 @@ Then, after a long lapse of time (_atha dīrghasya kālasya_), the king spoke ag
 
 <details><summary>मूलम्</summary>
 
-न्यासभूता मया पुत्र त्वयि सङ्क्रामिता जरा ।  
+[^non-baroDa-CE] न्यासभूता मया पुत्र त्वयि सङ्क्रामिता जरा ।  
 तस्मात् प्रतिगृहीष्यामि तां जरां मा व्यथां कृथाः ॥ ११ ॥
 _________________
 न्यासभूता मया पुत्र त्वयि सङ्क्रामिका जरा ।  
@@ -386,8 +386,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-प्रीतश्चास्मि महाबाहो शासनस्य प्रतिग्रहात् ।  
-त्वां चाहमभिषेक्ष्यामि प्रीतियुक्तो नराधिपम् ॥ १२ ॥
+[^non-baroDa-CE] प्रीतश्चास्मि महाबाहो शासनस्य प्रतिग्रहात् ।  
+[^non-baroDa-CE] त्वां चाहमभिषेक्ष्यामि प्रीतियुक्तो नराधिपम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -425,8 +425,8 @@ Enraged at Yadu’s defiance, Yayāti curses him to forfeit kingship, sire fierc
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा सुतं पूरुं ययातिर्नहुषात्मजः ।  
-देवयानीसुतं क्रुद्धो राजा वाक्यमुवाच ह ॥ १३ ॥
+[^non-baroDa-CE] एवमुक्त्वा सुतं पूरुं ययातिर्नहुषात्मजः ।  
+[^non-baroDa-CE] देवयानीसुतं क्रुद्धो राजा वाक्यमुवाच ह ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -490,10 +490,10 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-पितरं गुरुभूतं मां यस्मात् त्वमवमन्यसे ।  
-राक्षसान् यातुधानांस्त्वं जनयिष्यसि दारुणान् ॥ १५ ॥
+[^non-baroDa-CE] पितरं गुरुभूतं मां यस्मात् त्वमवमन्यसे ।  
+[^non-baroDa-CE] राक्षसान् यातुधानांस्त्वं जनयिष्यसि दारुणान् ॥ १५ ॥
 _________________
-पितरं गुरुभूतं मां यस्मात्त्वमवमन्यसे ।  
+[^non-baroDa-CE] पितरं गुरुभूतं मां यस्मात्त्वमवमन्यसे ।  
 राक्षसान्यातुधानांस्त्व जनयिष्यसि दारुणान् ॥
 </details>
 
@@ -524,11 +524,11 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-न तु सोमकुलोत्पन्ने वंशे स्थास्यति दुर्मतेः ।  
-वंशोऽपि भवतस्तुल्यो दुर्विनीतो भविष्यति ॥ १६ ॥
+[^non-baroDa-CE] न तु सोमकुलोत्पन्ने वंशे स्थास्यति दुर्मतेः ।  
+[^non-baroDa-CE] वंशोऽपि भवतस्तुल्यो दुर्विनीतो भविष्यति ॥ १६ ॥
 _________________
-न तु सोमकुलोत्पन्ने वंशे स्थास्यति दुर्मते ।  
-वंशोऽपि भवतस्तुल्यो दुर्विनीतो भविष्यति ॥
+[^non-baroDa-CE] न तु सोमकुलोत्पन्ने वंशे स्थास्यति दुर्मते ।  
+[^non-baroDa-CE] वंशोऽपि भवतस्तुल्यो दुर्विनीतो भविष्यति ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -558,8 +558,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-तमेवमुक्त्वा राजर्षिः पूरुं राज्यविवर्धनम् ।  
-अभिषेकेण सम्पूज्य आश्रमं प्रविवेश ह ॥ १७ ॥
+[^non-baroDa-CE] तमेवमुक्त्वा राजर्षिः पूरुं राज्यविवर्धनम् ।  
+[^non-baroDa-CE] अभिषेकेण सम्पूज्य आश्रमं प्रविवेश ह ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -589,7 +589,7 @@ Having spoken thus to him (_tam evam uktvā_), the royal sage honored Pūru, the
 
 <details><summary>मूलम्</summary>
 
-ततः कालेन महता दिष्टान्तमुपजग्मिवान् ।  
+[^non-baroDa-CE] ततः कालेन महता दिष्टान्तमुपजग्मिवान् ।  
 त्रिदिवं स गतो राजा ययातिर्नहुषात्मजः ॥ १८ ॥
 </details>
 
@@ -628,8 +628,8 @@ Pūru rules righteously from Pratiṣṭhāna while the exiled Yadu sires yātud
 
 <details><summary>मूलम्</summary>
 
-पूरुश्चकार तद् राज्यं धर्मेण महता वृतः ।  
-प्रतिष्ठाने पुरवरे काशिराज्ये महायशाः ॥ १९ ॥
+[^non-baroDa-CE] पूरुश्चकार तद् राज्यं धर्मेण महता वृतः ।  
+[^non-baroDa-CE] प्रतिष्ठाने पुरवरे काशिराज्ये महायशाः ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -659,8 +659,8 @@ Surrounded by mighty righteousness (_dharmeṇa mahatā vṛtaḥ_), the greatly
 
 <details><summary>मूलम्</summary>
 
-यदुस्तु जनयामास यातुधानान् सहस्रशः ।  
-पुरे क्रौञ्चवने दुर्गे राजवंशबहिष्कृतः ॥ २० ॥
+[^non-baroDa-CE] यदुस्तु जनयामास यातुधानान् सहस्रशः ।  
+[^non-baroDa-CE] पुरे क्रौञ्चवने दुर्गे राजवंशबहिष्कृतः ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -690,7 +690,7 @@ Yadu, however, excluded from the royal dynasty (_rāja-vaṃśa-bahiṣkṛtaḥ
 
 <details><summary>मूलम्</summary>
 
-एष तूशनसा मुक्तः शापोत्सर्गो ययातिना ।  
+[^non-baroDa-CE] एष तूशनसा मुक्तः शापोत्सर्गो ययातिना ।  
 धारितः क्षत्रधर्मेण यं निमिश्चक्षमे न च ॥ २१ ॥
 </details>
 
@@ -721,8 +721,8 @@ Thus was this mighty curse released by Uśanas (_eṣa tūśanasā muktaḥ śā
 
 <details><summary>मूलम्</summary>
 
-एतत् ते सर्वमाख्यातं दर्शनं सर्वकारिणाम् ।  
-अनुवर्तामहे सौम्य दोषो न स्याद् यथा नृगे ॥ २२ ॥
+[^non-baroDa-CE] एतत् ते सर्वमाख्यातं दर्शनं सर्वकारिणाम् ।  
+[^non-baroDa-CE] अनुवर्तामहे सौम्य दोषो न स्याद् यथा नृगे ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -755,8 +755,8 @@ Thus was this mighty curse released by Uśanas (_eṣa tūśanasā muktaḥ śā
 <details><summary>मूलम्</summary>
 
 इति कथयति रामे चन्द्रतुल्याननेन  
-प्रविरलतरतारं व्योम जज्ञे तदानीम् ।  
-अरुणकिरणरक्ता दिग् बभौ चैव पूर्वा  
+[^non-baroDa-CE] प्रविरलतरतारं व्योम जज्ञे तदानीम् ।  
+[^non-baroDa-CE] अरुणकिरणरक्ता दिग् बभौ चैव पूर्वा  
 कुसुमरसविमुक्तं वस्त्रमागुण्ठितेव ॥ २३ ॥
 </details>
 
@@ -788,3 +788,4 @@ Even as Rāma of moon-like countenance was speaking thus (_iti kathayati rāme c
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

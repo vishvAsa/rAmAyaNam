@@ -2993,8 +2993,8 @@ fried! I wish to take leave of you." I shall proceed happily."
 
 <details><summary>मूलम्</summary>
 
-न च कौतूहलं कार्यं सखित्वं प्रति राघव ।  
-कृतकर्मा रणे वीर सखित्वं प्रतिवेत्स्यसि ॥ ५७ ॥
+[^non-baroDa-CE] न च कौतूहलं कार्यं सखित्वं प्रति राघव ।  
+[^non-baroDa-CE] कृतकर्मा रणे वीर सखित्वं प्रतिवेत्स्यसि ॥ ५७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3454,3 +3454,4 @@ The tumultuous and most dreadful roar (_tumulo ninādaḥ_) of those monkey troo
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

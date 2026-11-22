@@ -29,8 +29,8 @@ Eager to hear another wondrous tale from Rāma, Lakṣmaṇa listens as his brot
 
 <details><summary>मूलम्</summary>
 
-एष ते नृगशापस्य विस्तरोऽभिहितो मया ।  
-यद्यस्ति श्रवणे श्रद्धा शृणुष्वेहापरां कथाम् ॥ १ ॥
+[^non-baroDa-CE] एष ते नृगशापस्य विस्तरोऽभिहितो मया ।  
+[^non-baroDa-CE] यद्यस्ति श्रवणे श्रद्धा शृणुष्वेहापरां कथाम् ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -60,8 +60,8 @@ Eager to hear another wondrous tale from Rāma, Lakṣmaṇa listens as his brot
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तु रामेण सौमित्रिः पुनरब्रवीत् ।  
-तृप्तिराश्चर्यभूतानां कथानां नास्ति मे नृप ॥ २ ॥
+[^non-baroDa-CE] एवमुक्तस्तु रामेण सौमित्रिः पुनरब्रवीत् ।  
+[^non-baroDa-CE] तृप्तिराश्चर्यभूतानां कथानां नास्ति मे नृप ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -91,8 +91,8 @@ Thus addressed by Rāma, Saumitri spoke again: “Of wondrous tales such as thes
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणेनैवमुक्तस्तु राम इक्ष्वाकुनन्दनः ।  
-कथां परमधर्मिष्ठां व्याहर्तुमुपचक्रमे ॥ ३ ॥
+[^non-baroDa-CE] लक्ष्मणेनैवमुक्तस्तु राम इक्ष्वाकुनन्दनः ।  
+[^non-baroDa-CE] कथां परमधर्मिष्ठां व्याहर्तुमुपचक्रमे ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -122,8 +122,8 @@ Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (_ikṣvāku-n
 
 <details><summary>मूलम्</summary>
 
-आसीद् राजा निमिर्नाम इक्ष्वाकूणां महात्मनाम् ।  
-पुत्रो द्वादशमो वीर्ये धर्मे च परिनिष्ठितः ॥ ४ ॥
+[^non-baroDa-CE] आसीद् राजा निमिर्नाम इक्ष्वाकूणां महात्मनाम् ।  
+[^non-baroDa-CE] पुत्रो द्वादशमो वीर्ये धर्मे च परिनिष्ठितः ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -156,8 +156,8 @@ Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (_ikṣvāku-n
 
 <details><summary>मूलम्</summary>
 
-स राजा वीर्यसम्पन्नः पुरं देवपुरोपमम् ।  
-निवेशयामास तदा अभ्याशे गौतमस्य तु ॥ ५ ॥
+[^non-baroDa-CE] स राजा वीर्यसम्पन्नः पुरं देवपुरोपमम् ।  
+[^non-baroDa-CE] निवेशयामास तदा अभ्याशे गौतमस्य तु ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -187,8 +187,8 @@ Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (_ikṣvāku-n
 
 <details><summary>मूलम्</summary>
 
-पुरस्य सुकृतं नाम वैजयन्तमिति श्रुतम् ।  
-निवेशं यत्र राजर्षिर्निमिश्चक्रे महायशाः ॥ ६ ॥
+[^non-baroDa-CE] पुरस्य सुकृतं नाम वैजयन्तमिति श्रुतम् ।  
+[^non-baroDa-CE] निवेशं यत्र राजर्षिर्निमिश्चक्रे महायशाः ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -226,8 +226,8 @@ Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāk
 
 <details><summary>मूलम्</summary>
 
-तस्य बुद्धिः समुत्पन्ना निवेश्य सुमहापुरम् ।  
-यजेयं दीर्घसत्रेण पितुः प्रह्लादयन् मनः ॥ ७ ॥
+[^non-baroDa-CE] तस्य बुद्धिः समुत्पन्ना निवेश्य सुमहापुरम् ।  
+[^non-baroDa-CE] यजेयं दीर्घसत्रेण पितुः प्रह्लादयन् मनः ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -259,9 +259,9 @@ Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāk
 
 <details><summary>मूलम्</summary>
 
-ततः पितरमामन्त्र्य इक्ष्वाकुं हि मनोः सुतम् ।  
-वसिष्ठं वरयामास पूर्वं ब्रह्मर्षिसत्तमम् ॥ ८ ॥  
-अनन्तरं स राजर्षिर्निमिरिक्ष्वाकुनन्दनः ।  
+[^non-baroDa-CE] ततः पितरमामन्त्र्य इक्ष्वाकुं हि मनोः सुतम् ।  
+[^non-baroDa-CE] वसिष्ठं वरयामास पूर्वं ब्रह्मर्षिसत्तमम् ॥ ८ ॥  
+[^non-baroDa-CE] अनन्तरं स राजर्षिर्निमिरिक्ष्वाकुनन्दनः ।  
 अत्रिमङ्गिरसं चैव भृगुं चैव तपोनिधिम् ॥ ९ ॥
 </details>
 
@@ -294,8 +294,8 @@ Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāk
 
 <details><summary>मूलम्</summary>
 
-तमुवाच वसिष्ठस्तु निमिं राजर्षिसत्तमम् ।  
-वृतोऽहं पूर्वमिन्द्रेण अन्तरं प्रतिपालय ॥ १० ॥
+[^non-baroDa-CE] तमुवाच वसिष्ठस्तु निमिं राजर्षिसत्तमम् ।  
+[^non-baroDa-CE] वृतोऽहं पूर्वमिन्द्रेण अन्तरं प्रतिपालय ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -325,8 +325,8 @@ Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāk
 
 <details><summary>मूलम्</summary>
 
-अनन्तरं महाविप्रो गौतमः प्रत्यपूरयत् ।  
-वसिष्ठोऽपि महातेजा इन्द्रयज्ञमथाकरोत् ॥ ११ ॥
+[^non-baroDa-CE] अनन्तरं महाविप्रो गौतमः प्रत्यपूरयत् ।  
+[^non-baroDa-CE] वसिष्ठोऽपि महातेजा इन्द्रयज्ञमथाकरोत् ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -365,8 +365,8 @@ Nimi consecrates himself for a five-thousand-year sacrifice beside the Himalayas
 
 <details><summary>मूलम्</summary>
 
-निमिस्तु राजा विप्रांस्तान् समानीय नराधिपः ।  
-अयजद्धिमवत्पार्श्वे स्वपुरस्य समीपतः ।  
+[^non-baroDa-CE] निमिस्तु राजा विप्रांस्तान् समानीय नराधिपः ।  
+[^non-baroDa-CE] अयजद्धिमवत्पार्श्वे स्वपुरस्य समीपतः ।  
 पञ्चवर्षसहस्राणि राजा दीक्षामथाकरोत् ॥ १२ ॥
 </details>
 
@@ -399,8 +399,8 @@ Nimi consecrates himself for a five-thousand-year sacrifice beside the Himalayas
 <details><summary>मूलम्</summary>
 
 इन्द्रयज्ञावसाने तु वसिष्ठो भगवानृषिः ।  
-सकाशमागतो राज्ञो हौत्रं कर्तुमनिन्दितः ॥ १३ ॥  
-तदन्तरमथापश्यद् गौतमेनाभिपूरितम् ।
+[^non-baroDa-CE] सकाशमागतो राज्ञो हौत्रं कर्तुमनिन्दितः ॥ १३ ॥  
+[^non-baroDa-CE] तदन्तरमथापश्यद् गौतमेनाभिपूरितम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -431,8 +431,8 @@ Nimi consecrates himself for a five-thousand-year sacrifice beside the Himalayas
 
 <details><summary>मूलम्</summary>
 
-कोपेन महताविष्टो वसिष्ठो ब्रह्मणः सुतः ॥ १४ ॥  
-स राज्ञो दर्शनाकाङ्क्षी मुहूर्तं समुपाविशत् ।  
+[^non-baroDa-CE] कोपेन महताविष्टो वसिष्ठो ब्रह्मणः सुतः ॥ १४ ॥  
+[^non-baroDa-CE] स राज्ञो दर्शनाकाङ्क्षी मुहूर्तं समुपाविशत् ।  
 तस्मिन्नहनि राजर्षिर्निद्रयापहृतो भृशम् ॥ १५ ॥
 </details>
 
@@ -465,10 +465,10 @@ Nimi consecrates himself for a five-thousand-year sacrifice beside the Himalayas
 
 <details><summary>मूलम्</summary>
 
-ततो मन्युर्वसिष्ठस्य प्रादुरासीन्महात्मनः ।  
-अदर्शनेन राजर्षेर्व्याहर्तुमुपचक्रमे ॥ १६ ॥
+[^non-baroDa-CE] ततो मन्युर्वसिष्ठस्य प्रादुरासीन्महात्मनः ।  
+[^non-baroDa-CE] अदर्शनेन राजर्षेर्व्याहर्तुमुपचक्रमे ॥ १६ ॥
 _________________
-ततो मन्युर्वसिष्ठस्य प्रादुरासीन्महात्मनः ।  
+[^non-baroDa-CE] ततो मन्युर्वसिष्ठस्य प्रादुरासीन्महात्मनः ।  
 आदर्शनेन राजर्षेर्व्याहर्तुमुपचक्रमे ॥
 </details>
 
@@ -507,7 +507,7 @@ Vasiṣṭha curses the sleeping Nimi to lose consciousness from his body; wakin
 
 <details><summary>मूलम्</summary>
 
-यस्मात् त्वमन्यं वृतवान् मामवज्ञाय पार्थिव ।  
+[^non-baroDa-CE] यस्मात् त्वमन्यं वृतवान् मामवज्ञाय पार्थिव ।  
 चेतनेन विनाभूतो देहस्ते पार्थिवैष्यति ॥ १७ ॥
 _________________
 यस्मात्त्वमन्य वृतवान्मामवज्ञाय पार्थिव ।  
@@ -575,7 +575,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-अजानतः शयानस्य क्रोधेन कलुषीकृतः ।  
+[^non-baroDa-CE] अजानतः शयानस्य क्रोधेन कलुषीकृतः ।  
 उक्तवान् मम शापाग्निं यमदण्डमिवापरम् ॥ १९ ॥
 </details>
 
@@ -606,7 +606,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-तस्मात् तवापि ब्रह्मर्षे चेतनेन विनाकृतः ।  
+[^non-baroDa-CE] तस्मात् तवापि ब्रह्मर्षे चेतनेन विनाकृतः ।  
 देहः स सुचिरप्रख्यो भविष्यति न संशयः ॥ २० ॥
 </details>
 
@@ -639,10 +639,10 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-इति रोषवशादुभौ तदानी-  
-मन्योन्यं शपितौ नृपद्विजेन्द्रौ ।  
-सहसैव बभूवतुर्विदेहौ  
-तत्तुल्याधिगतप्रभाववन्तौ ॥ २१ ॥
+[^non-baroDa-CE] इति रोषवशादुभौ तदानी-  
+[^non-baroDa-CE] मन्योन्यं शपितौ नृपद्विजेन्द्रौ ।  
+[^non-baroDa-CE] सहसैव बभूवतुर्विदेहौ  
+[^non-baroDa-CE] तत्तुल्याधिगतप्रभाववन्तौ ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -672,3 +672,5 @@ _________________
 “Thus, under the sway of wrath, mutually cursed at that very moment (_roṣa-vaśād ubhau tadānīm anyonyaṃ śapitau_), those two lords of kings and brahmins, endowed with equal attained spiritual might (_nṛpa-dvijendrau ... tat-tulyādhigata-prabhāvavantau_), instantly became bodiless (_sahasaiva babhūvatur videhau_).”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

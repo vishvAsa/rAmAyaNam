@@ -92,7 +92,7 @@ Hearing those words of the son of Jamadagni (_śrutvā tu jāmadagnyasya vākyam
 
 <details><summary>मूलम्</summary>
 
-कृतवानसि यत् कर्म श्रुतवानस्मि भार्गव ।  
+[^non-baroDa-CE] कृतवानसि यत् कर्म श्रुतवानस्मि भार्गव ।  
 अनुरुध्यामहे ब्रह्मन् पितुरानृण्यमास्थितः ॥ २ ॥
 </details>
 
@@ -1223,10 +1223,10 @@ With his sins already burned away by austerity and the fruits of his ritual meri
 <details><summary>मूलम्</summary>
 
 स हतान् दृश्य रामेण स्वाल्ँ लोकांस्तपसार्जितान् ।  
-जामदग्न्यो जगामाशु महेन्द्रं पर्वतोत्तमम् ॥ २२ ॥
+[^non-baroDa-CE] जामदग्न्यो जगामाशु महेन्द्रं पर्वतोत्तमम् ॥ २२ ॥
 _________________
 स हतान् दृश्य रामेण स्वान्ल्लोकांस्तपसार्जितान् ।  
-जामदग्न्यो जगामाशु महेन्द्रं पर्वतोत्तमम् ॥
+[^non-baroDa-CE] जामदग्न्यो जगामाशु महेन्द्रं पर्वतोत्तमम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1403,3 +1403,4 @@ Honored by Rāma, the son of Daśaratha (_rāmaṃ dāśarathiṃ rāmo jāmadag
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

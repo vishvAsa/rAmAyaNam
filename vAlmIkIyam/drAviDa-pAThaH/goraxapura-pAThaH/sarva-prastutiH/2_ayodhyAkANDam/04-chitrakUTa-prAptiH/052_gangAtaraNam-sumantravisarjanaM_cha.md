@@ -261,8 +261,8 @@ Understanding Rāma’s words (_vijñāya rāmasya vacaḥ_), Sumitrā’s son, 
 
 <details><summary>मूलम्</summary>
 
-स तु रामस्य वचनं निशम्य प्रतिगृह्य च ।  
-स्थपतिस्तूर्णमाहूय सचिवानिदमब्रवीत् ॥ ५ ॥
+[^non-baroDa-CE] स तु रामस्य वचनं निशम्य प्रतिगृह्य च ।  
+[^non-baroDa-CE] स्थपतिस्तूर्णमाहूय सचिवानिदमब्रवीत् ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -313,8 +313,8 @@ Hearing Rāma’s command and receiving it with bowed head (_pratigṛhya ca_), 
 
 <details><summary>मूलम्</summary>
 
-अस्यवाहनसंयुक्तां कर्णग्राहवतीं शुभाम् ।  
-सुप्रतारां दृढां तीर्थे शीघ्रं नावमुपाहर ॥ ६ ॥
+[^non-baroDa-CE] अस्यवाहनसंयुक्तां कर्णग्राहवतीं शुभाम् ।  
+[^non-baroDa-CE] सुप्रतारां दृढां तीर्थे शीघ्रं नावमुपाहर ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -375,10 +375,10 @@ When Guha’s ministers present the vessel and Rāma directs his gear to be load
 <details><summary>मूलम्</summary>
 
 तं निशम्य गुहादेशं गुहामात्यो गतो महान् ।  
-उपोह्य रुचिरां नावं गुहाय प्रत्यवेदयत् ॥ ७ ॥
+[^non-baroDa-CE] उपोह्य रुचिरां नावं गुहाय प्रत्यवेदयत् ॥ ७ ॥
 _________________
 तं निशम्य गुहादेशं गुहमात्यो गतो महान् ।  
-उपोह्य रुचिरां नावं गुहाय प्रत्यवेदयत् ॥
+[^non-baroDa-CE] उपोह्य रुचिरां नावं गुहाय प्रत्यवेदयत् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -429,8 +429,8 @@ Hearing that command, the great host of Guha’s ministers (_guhāmātya-gaṇo 
 
 <details><summary>मूलम्</summary>
 
-ततः स प्राञ्जलिर्भूत्वा गुहो राघवमब्रवीत् ।  
-उपस्थितेयं नौर्देव भूयः किं करवाणि ते ॥ ८ ॥
+[^non-baroDa-CE] ततः स प्राञ्जलिर्भूत्वा गुहो राघवमब्रवीत् ।  
+[^non-baroDa-CE] उपस्थितेयं नौर्देव भूयः किं करवाणि ते ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -529,8 +529,8 @@ Here is the boat for you, O prince resembling the son of an immortal (_amara-sut
 
 <details><summary>मूलम्</summary>
 
-अथोवाच महातेजा रामो गुहमिदं वचः ।  
-कृतकामोऽस्मि भवता शीघ्रमारोप्यतामिति ॥ १० ॥
+[^non-baroDa-CE] अथोवाच महातेजा रामो गुहमिदं वचः ।  
+[^non-baroDa-CE] कृतकामोऽस्मि भवता शीघ्रमारोप्यतामिति ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -694,10 +694,10 @@ Touching Sumantra with his auspicious right hand, Rāma bids him return to Ayodh
 
 <details><summary>मूलम्</summary>
 
-ततोऽब्रवीद् दाशरथिः सुमन्त्रं  
-स्पृशन् करेणोत्तमदक्षिणेन ।  
-सुमन्त्र शीघ्रं पुनरेव याहि  
-राज्ञः सकाशे भव चाप्रमत्तः ॥ १३ ॥
+[^non-baroDa-CE] ततोऽब्रवीद् दाशरथिः सुमन्त्रं  
+[^non-baroDa-CE] स्पृशन् करेणोत्तमदक्षिणेन ।  
+[^non-baroDa-CE] सुमन्त्र शीघ्रं पुनरेव याहि  
+[^non-baroDa-CE] राज्ञः सकाशे भव चाप्रमत्तः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2282,7 +2282,7 @@ Recalling the citizens’ wailing when Rāma departed, Sumantra asks how he coul
 <details><summary>मूलम्</summary>
 
 दृष्टं तद् वै त्वया राम यादृशं त्वत्प्रवासने ।  
-प्रजानां सङ्कुलं वृत्तं त्वच्छोकक्लान्तचेतसाम् ॥ ४३ ॥
+[^non-baroDa-CE] प्रजानां सङ्कुलं वृत्तं त्वच्छोकक्लान्तचेतसाम् ॥ ४३ ॥
 _________________
 दृष्टं तद् वै त्वया राम यादृशन्त्वत्प्रवासने ।  
 प्राजानां सङ्कुलं वृत्तं त्वच्छोकक्लान्तचेतसाम् ॥
@@ -2521,8 +2521,8 @@ And how will these noblest of steeds (_hayottamāḥ_), standing under my comman
 
 <details><summary>मूलम्</summary>
 
-तन्न शक्ष्याम्यहं गन्तुमयोध्यां त्वदृतेऽनघ ।  
-वनवासानुयानाय मामनुज्ञातुमर्हसि ॥ ४८ ॥
+[^non-baroDa-CE] तन्न शक्ष्याम्यहं गन्तुमयोध्यां त्वदृतेऽनघ ।  
+[^non-baroDa-CE] वनवासानुयानाय मामनुज्ञातुमर्हसि ॥ ४८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3797,7 +3797,7 @@ Having spoken these words to the charioteer and consoled him again and again, un
 
 <details><summary>मूलम्</summary>
 
-नेदानीं गुह योग्योऽयं वासो मे सजने वने ।  
+[^non-baroDa-CE] नेदानीं गुह योग्योऽयं वासो मे सजने वने ।  
 अवश्यमाश्रमे वासः कर्तव्यस्तद‍्गतो विधिः ॥ ६६ ॥
 </details>
 
@@ -3860,12 +3860,12 @@ With banyan sap brought by Guha, Rāma mats his own and Lakṣmaṇa’s locks s
 
 <details><summary>मूलम्</summary>
 
-सोऽहं गृहीत्वा नियमं तपस्विजनभूषणम् ।  
-हितकामः पितुर्भूयः सीताया लक्ष्मणस्य च ॥ ६७ ॥  
+[^non-baroDa-CE] सोऽहं गृहीत्वा नियमं तपस्विजनभूषणम् ।  
+[^non-baroDa-CE] हितकामः पितुर्भूयः सीताया लक्ष्मणस्य च ॥ ६७ ॥  
 जटाः कृत्वा गमिष्यामि न्यग्रोधक्षीरमानय ।  
 तत्क्षीरं राजपुत्राय गुहः क्षिप्रमुपाहरत् ॥ ६८ ॥
 _________________
-सोऽहं गृहीत्वा नियमं तपस्विजनभूषणम् ।  
+[^non-baroDa-CE] सोऽहं गृहीत्वा नियमं तपस्विजनभूषणम् ।  
 हितकामः पितुभूर्यः सीताया लक्ष्मणस्य च ॥
 जटाः कृत्वा गमिष्यामि न्यग्रोधक्षीरमानय ।  
 तत्क्षीरं राजपुत्राय गुहः क्षिप्रमुपाहरत् ॥
@@ -3945,7 +3945,7 @@ to himself and to Lakshmana.
 <details><summary>मूलम्</summary>
 
 लक्ष्मणस्यात्मनश्चैव रामस्तेनाकरोज्जटाः ।  
-दीर्घबाहुर्नरव्याघ्रो जटिलत्वमधारयत् ॥ ६९ ॥
+[^non-baroDa-CE] दीर्घबाहुर्नरव्याघ्रो जटिलत्वमधारयत् ॥ ६९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4406,8 +4406,8 @@ Next the radiant elder brother of Lakṣmaṇa mounted by himself; thereupon Guh
 
 <details><summary>मूलम्</summary>
 
-राघवोऽपि महातेजा नावमारुह्य तां ततः ।  
-ब्रह्मवत्क्षत्रवच्चैव जजाप हितमात्मनः ॥ ७८ ॥
+[^non-baroDa-CE] राघवोऽपि महातेजा नावमारुह्य तां ततः ।  
+[^non-baroDa-CE] ब्रह्मवत्क्षत्रवच्चैव जजाप हितमात्मनः ॥ ७८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4461,10 +4461,10 @@ After sipping water according to precept and bowing to the river, Rāma, Sītā,
 
 <details><summary>मूलम्</summary>
 
-आचम्य च यथाशास्त्रं नदीं तां सह सीतया ।  
+[^non-baroDa-CE] आचम्य च यथाशास्त्रं नदीं तां सह सीतया ।  
 प्रणमत्प्रीतिसन्तुष्टो लक्ष्मणश्च महारथः ॥ ७९ ॥
 _________________
-आचम्य च यथाशास्त्रं नदीं तां सह सीतया ।  
+[^non-baroDa-CE] आचम्य च यथाशास्त्रं नदीं तां सह सीतया ।  
 प्रणवत्प्रीतिसन्तुष्टो लक्ष्मणश्च महारथः ॥
 </details>
 
@@ -4945,10 +4945,10 @@ and food to brahmanas with intent to please you."
 
 <details><summary>मूलम्</summary>
 
-सुराघटसहस्रेण मांसभूतौदनेन च ।  
+[^non-baroDa-CE] सुराघटसहस्रेण मांसभूतौदनेन च ।  
 यक्ष्ये त्वां प्रीयतां देवि पुरीं पुनरुपागता ॥ ८९ ॥
 _________________
-सुराघटसहस्रेण मांस भूतौदनेन च ।  
+[^non-baroDa-CE] सुराघटसहस्रेण मांस भूतौदनेन च ।  
 यक्ष्येत्वां प्रियतां देवि पुरीं पुनरुपागता ॥
 </details>
 
@@ -5005,8 +5005,8 @@ When I have returned once more to the city, O goddess, I shall worship you with 
 
 <details><summary>मूलम्</summary>
 
-यानि त्वत्तीरवासीनि दैवतानि च सन्ति हि ।  
-तानि सर्वाणि यक्ष्यामि तीर्थान्यायतनानि च ॥ ९० ॥
+[^non-baroDa-CE] यानि त्वत्तीरवासीनि दैवतानि च सन्ति हि ।  
+[^non-baroDa-CE] तानि सर्वाणि यक्ष्यामि तीर्थान्यायतनानि च ॥ ९० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5059,8 +5059,8 @@ Concluding her prayer to Gaṅgā, Sītā reaches the southern bank; disembarkin
 
 <details><summary>मूलम्</summary>
 
-पुनरेव महाबाहुर्मया भ्रात्रा च सङ्गतः ।  
-अयोध्यां वनवासात् तु प्रविशत्वनघोऽनघे ॥ ९१ ॥
+[^non-baroDa-CE] पुनरेव महाबाहुर्मया भ्रात्रा च सङ्गतः ।  
+[^non-baroDa-CE] अयोध्यां वनवासात् तु प्रविशत्वनघोऽनघे ॥ ९१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5225,7 +5225,7 @@ Having reached the bank and left the boat behind (_nāvaṃ hitvā_), that bull 
 <details><summary>मूलम्</summary>
 
 अथाब्रवीन्महाबाहुः सुमित्रानन्दवर्धनम् ।  
-भव संरक्षणार्थाय सजने विजनेऽपि वा ॥ ९४ ॥  
+[^non-baroDa-CE] भव संरक्षणार्थाय सजने विजनेऽपि वा ॥ ९४ ॥  
 अवश्यं रक्षणं कार्यं मद्विधैर्विजने वने ।  
 अग्रतो गच्छ सौमित्रे सीता त्वामनुगच्छतु ॥ ९५ ॥  
 पृष्ठतोऽनुगमिष्यामि सीतां त्वां चानुपालयन् ।  
@@ -5336,8 +5336,8 @@ Warning that Sītā is about to enter a rugged, ravine-broken wilderness, Rāma 
 
 <details><summary>मूलम्</summary>
 
-न हि तावदतिक्रान्तासुकरा काचन क्रिया ।  
-अद्य दुःखं तु वैदेही वनवासस्य वेत्स्यति ॥ ९७ ॥
+[^non-baroDa-CE] न हि तावदतिक्रान्तासुकरा काचन क्रिया ।  
+[^non-baroDa-CE] अद्य दुःखं तु वैदेही वनवासस्य वेत्स्यति ॥ ९७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5382,8 +5382,8 @@ Sita will experience the hardship of staying in a forest only from now."
 
 <details><summary>मूलम्</summary>
 
-प्रणष्टजनसम्बाधं क्षेत्रारामविवर्जितम् ।  
-विषमं च प्रपातं च वनमद्य प्रवेक्ष्यति ॥ ९८ ॥
+[^non-baroDa-CE] प्रणष्टजनसम्बाधं क्षेत्रारामविवर्जितम् ।  
+[^non-baroDa-CE] विषमं च प्रपातं च वनमद्य प्रवेक्ष्यति ॥ ९८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5434,8 +5434,8 @@ Today she will enter a forest devoid of human concourse (_praṇaṣṭa-jana-sa
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वा रामस्य वचनं प्रतस्थे लक्ष्मणोऽग्रतः ।  
-अनन्तरं च सीताया राघवो रघुनन्दनः ॥ ९९ ॥
+[^non-baroDa-CE] श्रुत्वा रामस्य वचनं प्रतस्थे लक्ष्मणोऽग्रतः ।  
+[^non-baroDa-CE] अनन्तरं च सीताया राघवो रघुनन्दनः ॥ ९९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5554,10 +5554,10 @@ Gazing unblinkingly (_pratatam nirīkṣya_) at Rāma who had swiftly crossed to
 
 <details><summary>मूलम्</summary>
 
-स लोकपालप्रतिमप्रभाव-  
-स्तीर्त्वा महात्मा वरदो महानदीम् ।  
-ततः समृद्धान् शुभसस्यमालिनः  
-क्रमेण वत्सान् मुदितानुपागमत् ॥ १०१ ॥
+[^non-baroDa-CE] स लोकपालप्रतिमप्रभाव-  
+[^non-baroDa-CE] स्तीर्त्वा महात्मा वरदो महानदीम् ।  
+[^non-baroDa-CE] ततः समृद्धान् शुभसस्यमालिनः  
+[^non-baroDa-CE] क्रमेण वत्सान् मुदितानुपागमत् ॥ १०१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5675,3 +5675,5 @@ they were, Rama and Lakshmana reached a tree to take rest in the evening.
 Having slain there four great game animals—a wild boar, an _ṛśya_ antelope, a spotted _pṛṣata_ deer, and a great _ruru_ stag (_varāham ṛśyaṃ pṛṣataṃ mahā-rurum_)—and quickly taking their pure flesh (_ādāya medhyam_), the two hungry brothers repaired at evening to a great forest tree to pass the night.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

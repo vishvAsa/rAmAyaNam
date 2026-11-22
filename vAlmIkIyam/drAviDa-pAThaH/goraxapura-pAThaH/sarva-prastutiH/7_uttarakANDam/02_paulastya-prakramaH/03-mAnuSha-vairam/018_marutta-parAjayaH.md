@@ -188,10 +188,10 @@ Indra became a peacock (_indro mayūraḥ saṃvṛttaḥ_), Dharmarāja [Yama] 
 <details><summary>मूलम्</summary>
 
 अन्वेष्वपि गतेष्वेवं देवेष्वरिनिषूदन ।  
-रावणः प्राविशद् यज्ञं सारमेय इवाशुचिः ॥ ६ ॥
+[^non-baroDa-CE] रावणः प्राविशद् यज्ञं सारमेय इवाशुचिः ॥ ६ ॥
 _________________
-अन्येष्वपि गतेष्वेवं देवेष्वरिनिषूदन ।  
-रावणः प्राविशद्यज्ञं सारमेय इवाशुचिः ॥
+[^non-baroDa-CE] अन्येष्वपि गतेष्वेवं देवेष्वरिनिषूदन ।  
+[^non-baroDa-CE] रावणः प्राविशद्यज्ञं सारमेय इवाशुचिः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -425,8 +425,8 @@ Taunting Rāvaṇa for his unheard-of shamelessness, Marutta seizes his bow to s
 <details><summary>मूलम्</summary>
 
 श्रुतपूर्वं हि न मया भाषसे यादृशं स्वयम् ।  
-तिष्ठेदानीं न मे जीवन् प्रतियास्यसि दुर्मते ॥ १३ ॥  
-अद्य त्वां निशितैर्बाणैः प्रेषयामि यमक्षयम् ।
+[^non-baroDa-CE] तिष्ठेदानीं न मे जीवन् प्रतियास्यसि दुर्मते ॥ १३ ॥  
+[^non-baroDa-CE] अद्य त्वां निशितैर्बाणैः प्रेषयामि यमक्षयम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -832,7 +832,7 @@ With delight Indra then spoke to the dark-plumed peacock (_mayūraṃ nīla-barh
 
 इदं नेत्रसहस्रं तु यत् तद् बर्हे भविष्यति ।  
 वर्षमाणे मयि मुदं प्राप्स्यसे प्रीतिलक्षणाम् ॥ २३ ॥  
-एवमिन्द्रो वरं प्रादान्मयूरस्य सुरेश्वरः ॥ २४ ॥
+[^non-baroDa-CE] एवमिन्द्रो वरं प्रादान्मयूरस्य सुरेश्वरः ॥ २४ ॥
 _________________
 इदं नेत्रसहस्रन्तु यत्तद्बर्हे भविष्यति ।  
 वर्षमाणे मयि मुदं प्राप्स्यसे प्रीतिलक्षणम् ॥
@@ -1262,3 +1262,5 @@ Having thus bestowed boons upon them at that sacrificial festival (_evaṃ dattv
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तरकाण्डदल्लि हदिनॆण्टनॆय सर्ग पूर्णवायितु. ॥18॥
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -46,8 +46,8 @@ Sharing the grief of Sugrīva, Tārā, and Aṅgada, Rāma consoles the mourners
 
 <details><summary>मूलम्</summary>
 
-स सुग्रीवं च तारां च साङ्गदां सहलक्ष्मणः ।  
-समानशोकः काकुत्स्थः सान्त्वयन्निदमब्रवीत् ॥ १ ॥
+[^non-baroDa-CE] स सुग्रीवं च तारां च साङ्गदां सहलक्ष्मणः ।  
+[^non-baroDa-CE] समानशोकः काकुत्स्थः सान्त्वयन्निदमब्रवीत् ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1241,8 +1241,8 @@ Taking the palanquin, that Tāra returned again (_paryāpatat punaḥ_), while i
 
 <details><summary>मूलम्</summary>
 
-दिव्यां भद्रासनयुतां शिबिकां स्यन्दनोपमाम् ।  
-पक्षिकर्मभिराचित्रां द्रुमकर्मविभूषिताम् ॥ २२ ॥
+[^non-baroDa-CE] दिव्यां भद्रासनयुतां शिबिकां स्यन्दनोपमाम् ।  
+[^non-baroDa-CE] पक्षिकर्मभिराचित्रां द्रुमकर्मविभूषिताम् ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1272,8 +1272,8 @@ That celestial palanquin, resembling a chariot (_syandanopamām_) and fitted wit
 
 <details><summary>मूलम्</summary>
 
-आचितां चित्रपत्तीभिः सुनिविष्टां समन्ततः ।  
-विमानमिव सिद्धानां जालवातायनायुताम् ॥ २३ ॥
+[^non-baroDa-CE] आचितां चित्रपत्तीभिः सुनिविष्टां समन्ततः ।  
+[^non-baroDa-CE] विमानमिव सिद्धानां जालवातायनायुताम् ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1303,8 +1303,8 @@ Covered on all sides with painted foot-soldiers (_citra-pattībhiḥ_) and equip
 
 <details><summary>मूलम्</summary>
 
-सुनियुक्तां विशालां च सुकृतां शिल्पिभिः कृताम् ।  
-दारुपर्वतकोपेतां चारुकर्मपरिष्कृताम् ॥ २४ ॥
+[^non-baroDa-CE] सुनियुक्तां विशालां च सुकृतां शिल्पिभिः कृताम् ।  
+[^non-baroDa-CE] दारुपर्वतकोपेतां चारुकर्मपरिष्कृताम् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1342,7 +1342,7 @@ Seeing the garlanded palanquin adorned with red sandalwood and lotus wreaths, R�
 
 <details><summary>मूलम्</summary>
 
-वराभरणहारैश्च चित्रमाल्योपशोभिताम् ।  
+[^non-baroDa-CE] वराभरणहारैश्च चित्रमाल्योपशोभिताम् ।  
 गुहागहनसञ्छन्नां रक्तचन्दनभूषिताम् ॥ २५ ॥
 _________________
 वाराभरणहारैश्च चित्रमाल्योपशोभिताम् ।  
@@ -1376,11 +1376,11 @@ Adorned with choice ornaments and pearl necklaces (_varābharaṇa-hāraiś ca_)
 
 <details><summary>मूलम्</summary>
 
-पुष्पौघैः समभिच्छन्नां पद्ममालाभिरेव च ।  
-तरुणादित्यवर्णाभिर्भ्राजमानाभिरावृताम् ॥ २६ ॥
+[^non-baroDa-CE] पुष्पौघैः समभिच्छन्नां पद्ममालाभिरेव च ।  
+[^non-baroDa-CE] तरुणादित्यवर्णाभिर्भ्राजमानाभिरावृताम् ॥ २६ ॥
 _________________
 पुष्पोघैः समभिच्छन्नां पद्ममालाभिरेव च ।  
-तरुणादित्यवर्णाभिर्भ्राजमानाभिरावृताम् ॥
+[^non-baroDa-CE] तरुणादित्यवर्णाभिर्भ्राजमानाभिरावृताम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1454,8 +1454,8 @@ Completely covered with masses of flowers (_puṣpaughaiḥ_) and with garlands 
 
 <details><summary>मूलम्</summary>
 
-ईदृशीं शिबिकां दृष्ट्वा रामो लक्ष्मणमब्रवीत् ।  
-क्षिप्रं विनीयतां वाली प्रेतकार्यं विधीयताम् ॥ २७ ॥
+[^non-baroDa-CE] ईदृशीं शिबिकां दृष्ट्वा रामो लक्ष्मणमब्रवीत् ।  
+[^non-baroDa-CE] क्षिप्रं विनीयतां वाली प्रेतकार्यं विधीयताम् ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1706,7 +1706,7 @@ ratnaani vishraaNayantaH* = gems, strewing [on pathway]; *agrataH yaantu* = in v
 <details><summary>मूलम्</summary>
 
 राज्ञामृद्धिविशेषा हि दृश्यन्ते भुवि यादृशाः ।  
-तादृशैरिह कुर्वन्तु वानरा भर्तृसत्क्रियाम् ॥ ३२ ॥
+[^non-baroDa-CE] तादृशैरिह कुर्वन्तु वानरा भर्तृसत्क्रियाम् ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1821,8 +1821,8 @@ Embracing Aṅgada quickly (_aṅgadaṃ parirabhyāśu_), Tāra and the other m
 
 <details><summary>मूलम्</summary>
 
-ततः प्रणिहिताः सर्वा वानर्योऽस्य वशानुगाः ॥ ३४ ॥  
-चुक्रुशुर्वीरवीरेति भूयः क्रोशन्ति ताः प्रियम् ।
+[^non-baroDa-CE] ततः प्रणिहिताः सर्वा वानर्योऽस्य वशानुगाः ॥ ३४ ॥  
+[^non-baroDa-CE] चुक्रुशुर्वीरवीरेति भूयः क्रोशन्ति ताः प्रियम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2145,8 +2145,8 @@ stood aside in a solitary spot (_ekāntam āśritya_), all wholly absorbed in gr
 
 <details><summary>मूलम्</summary>
 
-हा वानरमहाराज हा नाथ मम वत्सल ॥ ४० ॥  
-हा महार्ह महाबाहो हा मम प्रिय पश्य माम् ।  
+[^non-baroDa-CE] हा वानरमहाराज हा नाथ मम वत्सल ॥ ४० ॥  
+[^non-baroDa-CE] हा महार्ह महाबाहो हा मम प्रिय पश्य माम् ।  
 जनं न पश्यसीमं त्वं कस्माच्छोकाभिपीडितम् ॥ ४१ ॥
 </details>
 
@@ -2840,15 +2840,15 @@ Sharing their grief (_samāna-śokaḥ_) and becoming afflicted along with the a
 
 <details><summary>मूलम्</summary>
 
-ततोऽथ तं वालिनमग्र्यपौरुषं  
-प्रकाशमिक्ष्वाकुवरेषुणा हतम् ।  
-प्रदीप्य दीप्ताग्निसमौजसं तदा  
-सलक्ष्मणं राममुपेयिवान् हरिः ॥ ५४ ॥
+[^non-baroDa-CE] ततोऽथ तं वालिनमग्र्यपौरुषं  
+[^non-baroDa-CE] प्रकाशमिक्ष्वाकुवरेषुणा हतम् ।  
+[^non-baroDa-CE] प्रदीप्य दीप्ताग्निसमौजसं तदा  
+[^non-baroDa-CE] सलक्ष्मणं राममुपेयिवान् हरिः ॥ ५४ ॥
 _________________
 ततोथ तं वालीनमग्र्यपौरुषं  
-प्रकाशमिक्ष्वाकुवरेषुणा हतम् ।  
-प्रदीप्य दीप्ताग्निसमौजसं तदा  
-सलक्ष्मणं राममुपेयिवान्हरिः ॥
+[^non-baroDa-CE] प्रकाशमिक्ष्वाकुवरेषुणा हतम् ।  
+[^non-baroDa-CE] प्रदीप्य दीप्ताग्निसमौजसं तदा  
+[^non-baroDa-CE] सलक्ष्मणं राममुपेयिवान्हरिः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2914,3 +2914,5 @@ took birth at the hest of Brahma.
 Then, having cremated (_pradīpya_) that illustrious Vālin of foremost valor (_agrya-pauruṣam_), whose splendor equaled blazing fire and who had been slain by the arrow of the best of the Ikṣvākus, the monkey lord [Sugrīva] approached Rāma along with Lakṣmaṇa.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

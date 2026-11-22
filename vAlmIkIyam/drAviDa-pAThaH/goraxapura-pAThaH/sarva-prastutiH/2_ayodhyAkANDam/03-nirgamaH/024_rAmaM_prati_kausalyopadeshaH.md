@@ -258,10 +258,10 @@ will believe ? kasyavaa = to whom; *bhayam* = fear; *nabhavet* = is not created 
 <details><summary>मूलम्</summary>
 
 नूनं तु बलवाल्ँ लोके कृतान्तः सर्वमादिशन् ।  
-लोके रामाभिरामस्त्वं वनं यत्र गमिष्यसि ॥ ५ ॥
+[^non-baroDa-CE] लोके रामाभिरामस्त्वं वनं यत्र गमिष्यसि ॥ ५ ॥
 _________________
 नूनं तु बलवान्ल्लोके कृतान्तःसर्वमादिशन् ।  
-लोके रामाभिरामस्त्वं वनं यत्र गमिष्यसि ॥
+[^non-baroDa-CE] लोके रामाभिरामस्त्वं वनं यत्र गमिष्यसि ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -330,17 +330,17 @@ Kausalyā declares that the fire of grief will consume her like wildfire at wint
 
 <details><summary>मूलम्</summary>
 
-अयं तु मामात्मभवस्तवादर्शनमारुतः ।  
-विलापदुःखसमिधो रुदिताश्रुहुताहुतिः ॥ ६ ॥  
-चिन्ताबाष्पमहाधूमस्तवागमनचिन्तजः ।  
-कर्शयित्वाधिकं पुत्र निःश्वासायाससम्भवः ॥ ७ ॥  
+[^non-baroDa-CE] अयं तु मामात्मभवस्तवादर्शनमारुतः ।  
+[^non-baroDa-CE] विलापदुःखसमिधो रुदिताश्रुहुताहुतिः ॥ ६ ॥  
+[^non-baroDa-CE] चिन्ताबाष्पमहाधूमस्तवागमनचिन्तजः ।  
+[^non-baroDa-CE] कर्शयित्वाधिकं पुत्र निःश्वासायाससम्भवः ॥ ७ ॥  
 त्वया विहीनामिह मां शोकाग्निरतुलो महान् ।  
 प्रधक्ष्यति यथा कक्ष्यं चित्रभानुर्हिमात्यये ॥ ८ ॥
 _________________
-अयं तु मामात्मभवस्तवादर्शनमारुतः ।  
-विलापदुःखसमिधो रुदिताश्रुहुताहुतिः ॥
+[^non-baroDa-CE] अयं तु मामात्मभवस्तवादर्शनमारुतः ।  
+[^non-baroDa-CE] विलापदुःखसमिधो रुदिताश्रुहुताहुतिः ॥
 चिन्तावाष्पमहाधूमस्तवागमनचिन्तजः ।  
-कर्शयित्वाधिकं पुत्र निःश्वासायाससम्भवः ॥
+[^non-baroDa-CE] कर्शयित्वाधिकं पुत्र निःश्वासायाससम्भवः ॥
 त्वया विहीनामिह मां शोकाग्निरतुलो महान् ।  
 प्रधक्ष्यति यथा कक्षं चित्रभानुर्हिमात्यये ॥
 </details>
@@ -1094,7 +1094,7 @@ king, the lord of the earth and the wise man is there , we are not indeed master
 
 <details><summary>मूलम्</summary>
 
-न ह्यनाथा वयं राज्ञा लोकनाथेन धीमता ।  
+[^non-baroDa-CE] न ह्यनाथा वयं राज्ञा लोकनाथेन धीमता ।  
 भरतश्चापि धर्मात्मा सर्वभूतप्रियंवदः ॥ २२ ॥  
 भवतीमनुवर्तेत स हि धर्मरतः सदा ।
 </details>
@@ -1201,8 +1201,8 @@ fatigued even a little with grief over his son."
 
 <details><summary>मूलम्</summary>
 
-दारुणश्चाप्ययं शोको यथैनं न विनाशयेत् ॥ २४ ॥  
-राज्ञो वृद्धस्य सततं हितं चर समाहिता ।
+[^non-baroDa-CE] दारुणश्चाप्ययं शोको यथैनं न विनाशयेत् ॥ २४ ॥  
+[^non-baroDa-CE] राज्ञो वृद्धस्य सततं हितं चर समाहिता ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1435,8 +1435,8 @@ the best of the excellent ;if she does not obey her husband she will become ill-
 
 <details><summary>मूलम्</summary>
 
-भर्तुः शुश्रूषया नारी लभते स्वर्गमुत्तमम् ॥ २६ ॥  
-अपि या निर्नमस्कारा निवृत्ता देवपूजनात् ।
+[^non-baroDa-CE] भर्तुः शुश्रूषया नारी लभते स्वर्गमुत्तमम् ॥ २६ ॥  
+[^non-baroDa-CE] अपि या निर्नमस्कारा निवृत्ता देवपूजनात् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1535,7 +1535,7 @@ righteousness.'
 
 <details><summary>मूलम्</summary>
 
-अग्निकार्येषु च सदा सुमनोभिश्च देवताः ॥ २८ ॥  
+[^non-baroDa-CE] अग्निकार्येषु च सदा सुमनोभिश्च देवताः ॥ २८ ॥  
 पूज्यास्ते मत्कृते देवि ब्राह्मणाश्चैव सत्कृताः ।
 </details>
 
@@ -1589,7 +1589,7 @@ Brahmanas also with right voes are to be worshipped .'
 <details><summary>मूलम्</summary>
 
 एवं कालं प्रतीक्षस्व ममागमनकाङ्क्षिणी ॥ २९ ॥  
-नियता नियताहारा भर्तृशुश्रूषणे रता ।
+[^non-baroDa-CE] नियता नियताहारा भर्तृशुश्रूषणे रता ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1755,8 +1755,8 @@ after hearing Rama's utterances and spoke thus to Rama.
 
 <details><summary>मूलम्</summary>
 
-गमने सुकृतां बुद्धिं न ते शक्नोमि पुत्रक ॥ ३२ ॥  
-विनिवर्तयितुं वीर नूनं कालो दुरत्ययः ।
+[^non-baroDa-CE] गमने सुकृतां बुद्धिं न ते शक्नोमि पुत्रक ॥ ३२ ॥  
+[^non-baroDa-CE] विनिवर्तयितुं वीर नूनं कालो दुरत्ययः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1804,7 +1804,7 @@ your going to forest. Time is inscrutable .It is certain."
 <details><summary>मूलम्</summary>
 
 गच्छ पुत्र त्वमेकाग्रो भद्रं तेऽस्तु सदा विभो ॥ ३३ ॥  
-पुनस्त्वयि निवृत्ते तु भविष्यामि गतक्लमा ।
+[^non-baroDa-CE] पुनस्त्वयि निवृत्ते तु भविष्यामि गतक्लमा ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1856,8 +1856,8 @@ become refreshed, when you return again."
 
 <details><summary>मूलम्</summary>
 
-प्रत्यागते महाभागे कृतार्थे चरितव्रते ।  
-पितुरानृण्यतां प्राप्ते स्वपिष्ये परमं सुखम् ॥ ३४ ॥
+[^non-baroDa-CE] प्रत्यागते महाभागे कृतार्थे चरितव्रते ।  
+[^non-baroDa-CE] पितुरानृण्यतां प्राप्ते स्वपिष्ये परमं सुखम् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1917,7 +1917,7 @@ Marvelling at the inscrutable course of Destiny that overrides a mother’s plea
 
 <details><summary>मूलम्</summary>
 
-कृतान्तस्य गतिः पुत्र दुर्विभाव्या सदा भुवि ।  
+[^non-baroDa-CE] कृतान्तस्य गतिः पुत्र दुर्विभाव्या सदा भुवि ।  
 यस्त्वां सञ्चोदयति मे वच आविध्य राघव ॥ ३५ ॥
 </details>
 
@@ -1969,8 +1969,8 @@ forest ,is ever not imaginable on this earth"
 
 <details><summary>मूलम्</summary>
 
-गच्छेदानीं महाबाहो क्षेमेण पुनरागतः ।  
-नन्दयिष्यसि मां पुत्र साम्ना श्लक्ष्णेन चारुणा ॥ ३६ ॥
+[^non-baroDa-CE] गच्छेदानीं महाबाहो क्षेमेण पुनरागतः ।  
+[^non-baroDa-CE] नन्दयिष्यसि मां पुत्र साम्ना श्लक्ष्णेन चारुणा ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2024,8 +2024,8 @@ with your pleasing and tranquillising words ."
 
 <details><summary>मूलम्</summary>
 
-अपीदानीं स कालः स्याद् वनात् प्रत्यागतं पुनः ।  
-यत् त्वां पुत्रक पश्येयं जटावल्कलधारिणम् ॥ ३७ ॥
+[^non-baroDa-CE] अपीदानीं स कालः स्याद् वनात् प्रत्यागतं पुनः ।  
+[^non-baroDa-CE] यत् त्वां पुत्रक पश्येयं जटावल्कलधारिणम् ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2140,3 +2140,4 @@ Beholding Rāma thus firmly resolved upon dwelling in the forest, the Queen, wit
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

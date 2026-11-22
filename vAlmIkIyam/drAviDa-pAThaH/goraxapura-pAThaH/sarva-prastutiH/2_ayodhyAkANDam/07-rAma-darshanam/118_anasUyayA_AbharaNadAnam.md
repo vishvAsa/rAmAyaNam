@@ -865,7 +865,7 @@ satisfied. Tell me what good I may do for you."
 
 <details><summary>मूलम्</summary>
 
-तस्यास्तद् वचनं श्रुत्वा विस्मिता मन्दविस्मया ।  
+[^non-baroDa-CE] तस्यास्तद् वचनं श्रुत्वा विस्मिता मन्दविस्मया ।  
 कृतमित्यब्रवीत् सीता तपोबलसमन्विताम् ॥ १६ ॥
 </details>
 
@@ -2422,7 +2422,7 @@ father, (as follows):
 
 प्रोवाच पितरं तत्र राघवौ रामलक्ष्मणौ ।  
 सुतौ दशरथस्येमौ धनुर्दर्शनकाङ्क्षिणौ ।  
-धनुर्दर्शय रामाय राजपुत्राय दैविकम् ॥ ४६ ॥
+[^non-baroDa-CE] धनुर्दर्शय रामाय राजपुत्राय दैविकम् ॥ ४६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2874,3 +2874,4 @@ became devoted, by my good works, to my husband who is excellent among men of st
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

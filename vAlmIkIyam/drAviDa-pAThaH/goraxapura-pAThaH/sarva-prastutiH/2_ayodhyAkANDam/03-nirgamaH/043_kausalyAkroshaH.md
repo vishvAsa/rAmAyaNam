@@ -750,8 +750,8 @@ over my two sons (Rama and Lakshmana) the subduer of their enemies, entering the
 
 <details><summary>मूलम्</summary>
 
-प्रविशन्तौ कदायोध्यां द्रक्ष्यामि शुभकुण्डलौ ।  
-उदग्रायुधनिस्त्रिंशौ सशृङ्गाविव पर्वतौ ॥ १४ ॥
+[^non-baroDa-CE] प्रविशन्तौ कदायोध्यां द्रक्ष्यामि शुभकुण्डलौ ।  
+[^non-baroDa-CE] उदग्रायुधनिस्त्रिंशौ सशृङ्गाविव पर्वतौ ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1193,3 +1193,4 @@ rays in summer."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

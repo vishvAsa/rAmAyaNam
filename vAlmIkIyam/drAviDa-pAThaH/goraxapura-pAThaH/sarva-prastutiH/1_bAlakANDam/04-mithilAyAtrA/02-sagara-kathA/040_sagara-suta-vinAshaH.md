@@ -110,7 +110,7 @@ Lord Brahmā consoles the terrified gods by revealing that the Earth is the belo
 यस्येयं वसुधा कृत्स्ना वासुदेवस्य धीमतः ।  
 महिषी माधवस्यैषा स एव भगवान् प्रभुः ॥ २ ॥  
 कापिलं रूपमास्थाय धारयत्यनिशं धराम् ।  
-तस्य कोपाग्निना दग्धा भविष्यन्ति नृपात्मजाः ॥ ३ ॥
+[^non-baroDa-CE] तस्य कोपाग्निना दग्धा भविष्यन्ति नृपात्मजाः ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1360,7 +1360,7 @@ All three commentators identify _prāguttarāṃ diśam_ as the northeastern qua
 
 <details><summary>मूलम्</summary>
 
-ते तु सर्वे महात्मानो भीमवेगा महाबलाः ।  
+[^non-baroDa-CE] ते तु सर्वे महात्मानो भीमवेगा महाबलाः ।  
 ददृशुः कपिलं तत्र वासुदेवं सनातनम् ॥ २५ ॥
 </details>
 
@@ -1470,7 +1470,7 @@ But all those great-souled and great-mighty ones with terrible dash
 <details><summary>मूलम्</summary>
 
 ते तं यज्ञहनं ज्ञात्वा क्रोधपर्याकुलेक्षणाः ।  
-खनित्रलाङ्गलधरा नानावृक्षशिलाधराः ॥ २७ ॥
+[^non-baroDa-CE] खनित्रलाङ्गलधरा नानावृक्षशिलाधराः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1698,3 +1698,4 @@ By a single syllable of wrath (_huṃkāra_), the unfathomable sage Kapila (_apr
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

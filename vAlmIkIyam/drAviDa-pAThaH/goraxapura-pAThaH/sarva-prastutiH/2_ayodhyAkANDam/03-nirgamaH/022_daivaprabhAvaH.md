@@ -107,10 +107,10 @@ angry like a hissing king cobra ,with his eyes dilated with wrath and spoke the 
 
 <details><summary>मूलम्</summary>
 
-निगृह्य रोषं शोकं च धैर्यमाश्रित्य केवलम् ।  
-अवमानं निरस्यैनं गृहीत्वा हर्षमुत्तमम् ॥ ३ ॥  
-उपक्लृप्तं यदैतन्मे अभिषेकार्थमुत्तमम् ।  
-सर्वं निवर्तय क्षिप्रं कुरु कार्यं निरव्ययम् ॥ ४ ॥
+[^non-baroDa-CE] निगृह्य रोषं शोकं च धैर्यमाश्रित्य केवलम् ।  
+[^non-baroDa-CE] अवमानं निरस्यैनं गृहीत्वा हर्षमुत्तमम् ॥ ३ ॥  
+[^non-baroDa-CE] उपक्लृप्तं यदैतन्मे अभिषेकार्थमुत्तमम् ।  
+[^non-baroDa-CE] सर्वं निवर्तय क्षिप्रं कुरु कार्यं निरव्ययम् ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1229,8 +1229,8 @@ Comparing kingship and forest exile, Rāma pronounces forest exile far greater i
 
 <details><summary>मूलम्</summary>
 
-ऋषयोऽप्युग्रतपसो दैवेनाभिप्रचोदिताः ।  
-उत्सृज्य नियमांस्तीव्रान् भ्रश्यन्ते काममन्युभिः ॥ २३ ॥
+[^non-baroDa-CE] ऋषयोऽप्युग्रतपसो दैवेनाभिप्रचोदिताः ।  
+[^non-baroDa-CE] उत्सृज्य नियमांस्तीव्रान् भ्रश्यन्ते काममन्युभिः ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1281,7 +1281,7 @@ restraint and get ruined by lust and anger."
 <details><summary>मूलम्</summary>
 
 असङ्कल्पितमेवेह यदकस्मात् प्रवर्तते ।  
-निवर्त्यारब्धमारम्भैर्ननु दैवस्य कर्म तत् ॥ २४ ॥
+[^non-baroDa-CE] निवर्त्यारब्धमारम्भैर्ननु दैवस्य कर्म तत् ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1339,7 +1339,7 @@ Steadying his mind with this true wisdom, Rāma feels no sorrow at the halted co
 
 <details><summary>मूलम्</summary>
 
-एतया तत्त्वया बुद्ध्या संस्तभ्यात्मानमात्मना ।  
+[^non-baroDa-CE] एतया तत्त्वया बुद्ध्या संस्तभ्यात्मानमात्मना ।  
 व्याहतेऽप्यभिषेके मे परितापो न विद्यते ॥ २५ ॥
 </details>
 
@@ -1441,11 +1441,11 @@ without any anguish"
 
 <details><summary>मूलम्</summary>
 
-एभिरेव घटैः सर्वैरभिषेचनसम्भृतैः ।  
-मम लक्ष्मण तापस्ये व्रतस्नानं भविष्यति ॥ २७ ॥
+[^non-baroDa-CE] एभिरेव घटैः सर्वैरभिषेचनसम्भृतैः ।  
+[^non-baroDa-CE] मम लक्ष्मण तापस्ये व्रतस्नानं भविष्यति ॥ २७ ॥
 _________________
 एभीरेव घटैः सर्वैरभिषेचनसम्भृतैः ।  
-मम लक्ष्मण तापस्ये व्रतस्नानं भविष्यति ॥
+[^non-baroDa-CE] मम लक्ष्मण तापस्ये व्रतस्नानं भविष्यति ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1498,10 +1498,10 @@ for my bath after completing the religious vow of asceticism."
 <details><summary>मूलम्</summary>
 
 अथवा किं मयैतेन राज्य(ज)द्रव्यमयेन तु ।  
-उद‍्धृतं मे स्वयं तोयं व्रतादेशं करिष्यति ॥ २८ ॥
+[^non-baroDa-CE] उद‍्धृतं मे स्वयं तोयं व्रतादेशं करिष्यति ॥ २८ ॥
 _________________
-अथवा किं मयैतेन राज्यद्रव्यमयेन तु ।  
-उद्धृतं मे स्वयं तोयं व्रतादेशं करिष्यति ॥
+[^non-baroDa-CE] अथवा किं मयैतेन राज्यद्रव्यमयेन तु ।  
+[^non-baroDa-CE] उद्धृतं मे स्वयं तोयं व्रतादेशं करिष्यति ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1552,10 +1552,10 @@ out by myself ,will be used for my bath after completing the religious vow."
 <details><summary>मूलम्</summary>
 
 मा च लक्ष्मण सन्तापं कार्षीर्लक्ष्म्या विपर्यये ।  
-राज्यं वा वनवासो वा वनवासो महोदयः ॥ २९ ॥
+[^non-baroDa-CE] राज्यं वा वनवासो वा वनवासो महोदयः ॥ २९ ॥
 _________________
 मा च लक्ष्मण सन्तापं कार्षीर्लङ्क्ष्म्या विपर्यये ।  
-राज्यं वा वनवासोवा वनवासो महोदयः ॥
+[^non-baroDa-CE] राज्यं वा वनवासोवा वनवासो महोदयः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1665,3 +1665,4 @@ influence."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

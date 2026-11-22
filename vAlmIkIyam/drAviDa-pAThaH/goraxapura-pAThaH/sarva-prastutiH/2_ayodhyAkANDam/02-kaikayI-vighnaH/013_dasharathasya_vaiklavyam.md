@@ -200,8 +200,8 @@ Thus addressed by Kaikeyī, King Daśaratha, swooning for a moment (_muhūrtaṃ
 
 <details><summary>मूलम्</summary>
 
-मृते मयि गते रामे वनं मनुजपुङ्गवे ।  
-हन्तानार्ये ममामित्रे सकामा सुखिनी भव ॥ ५ ॥
+[^non-baroDa-CE] मृते मयि गते रामे वनं मनुजपुङ्गवे ।  
+[^non-baroDa-CE] हन्तानार्ये ममामित्रे सकामा सुखिनी भव ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -252,8 +252,8 @@ fulfilled when Rama the best among men leaves for the forest and when I die ther
 
 <details><summary>मूलम्</summary>
 
-स्वर्गेऽपि खलु रामस्य कुशलं दैवतैरहम् ।  
-प्रत्यादेशादभिहितं धारयिष्ये कथं बत ॥ ६ ॥
+[^non-baroDa-CE] स्वर्गेऽपि खलु रामस्य कुशलं दैवतैरहम् ।  
+[^non-baroDa-CE] प्रत्यादेशादभिहितं धारयिष्ये कथं बत ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -306,8 +306,8 @@ Daśaratha laments that exiling his long-sought, virtuous Rāma to please Kaikey
 
 <details><summary>मूलम्</summary>
 
-कैकेय्याः प्रियकामेन रामः प्रव्राजितो वनम् ।  
-यदि सत्यं ब्रवीम्येतत् तदसत्यं भविष्यति ॥ ७ ॥
+[^non-baroDa-CE] कैकेय्याः प्रियकामेन रामः प्रव्राजितो वनम् ।  
+[^non-baroDa-CE] यदि सत्यं ब्रवीम्येतत् तदसत्यं भविष्यति ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -359,8 +359,8 @@ kindness to Kaikeyi, nobody will believe me."
 
 <details><summary>मूलम्</summary>
 
-अपुत्रेण मया पुत्रः श्रमेण महता महान् ।  
-रामो लब्धो महातेजाः स कथं त्यज्यते मया ॥ ८ ॥
+[^non-baroDa-CE] अपुत्रेण मया पुत्रः श्रमेण महता महान् ।  
+[^non-baroDa-CE] रामो लब्धो महातेजाः स कथं त्यज्यते मया ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -412,8 +412,8 @@ By me, who was long sonless (_aputreṇa_), was this great and radiant son Rāma
 
 <details><summary>मूलम्</summary>
 
-शूरश्च कृतविद्यश्च जितक्रोधः क्षमापरः ।  
-कथं कमलपत्राक्षो मया रामो विवास्यते ॥ ९ ॥
+[^non-baroDa-CE] शूरश्च कृतविद्यश्च जितक्रोधः क्षमापरः ।  
+[^non-baroDa-CE] कथं कमलपत्राक्षो मया रामो विवास्यते ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -459,11 +459,11 @@ How can lotus-petal-eyed Rāma (_kamalapatrākṣo_)—heroic, accomplished in s
 
 <details><summary>मूलम्</summary>
 
-कथमिन्दीवरश्यामं दीर्घबाहुं महाबलम् ।  
-अभिराममहं रामं स्थापयिष्यामि दण्डकान् ॥ १० ॥
+[^non-baroDa-CE] कथमिन्दीवरश्यामं दीर्घबाहुं महाबलम् ।  
+[^non-baroDa-CE] अभिराममहं रामं स्थापयिष्यामि दण्डकान् ॥ १० ॥
 _________________
 कथमिन्दिवरश्यामं दीर्घबाहुं महाबलम् ।  
-अभिराममहं रामं स्थापयिष्यामिदण्डकान् ॥
+[^non-baroDa-CE] अभिराममहं रामं स्थापयिष्यामिदण्डकान् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -514,8 +514,8 @@ How shall I dispatch unto the Daṇḍaka forest (_daṇḍakān_) my charming R
 
 <details><summary>मूलम्</summary>
 
-सुखानामुचितस्यैव दुःखैरनुचितस्य च ।  
-दुःखं नामानुपश्येयं कथं रामस्य धीमतः ॥ ११ ॥
+[^non-baroDa-CE] सुखानामुचितस्यैव दुःखैरनुचितस्य च ।  
+[^non-baroDa-CE] दुःखं नामानुपश्येयं कथं रामस्य धीमतः ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -561,7 +561,7 @@ How could I ever behold the suffering (_duḥkhaṃ nāmānupaśyeyam_) of wise 
 <details><summary>मूलम्</summary>
 
 यदि दुःखमकृत्वा तु मम सङ्क्रमणं भवेत् ।  
-अदुःखार्हस्य रामस्य ततः सुखमवाप्नुयाम् ॥ १२ ॥
+[^non-baroDa-CE] अदुःखार्हस्य रामस्य ततः सुखमवाप्नुयाम् ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -617,8 +617,8 @@ As Daśaratha weeps over the ruin of his renown, the sun sets and the moonlit th
 <details><summary>मूलम्</summary>
 
 नृशंसे पापसङ्कल्पे रामं सत्यपराक्रमम् ।  
-किं विप्रियेण कैकेयि प्रियं योजयसे मम ॥ १३ ॥  
-अकीर्तिरतुला लोके ध्रुवं परिभविष्यति ।
+[^non-baroDa-CE] किं विप्रियेण कैकेयि प्रियं योजयसे मम ॥ १३ ॥  
+[^non-baroDa-CE] अकीर्तिरतुला लोके ध्रुवं परिभविष्यति ।
 _________________
 नृशंसे पापसङ्कल्पे रामं सत्यपराक्रमम् ।  
 किं विप्रियेण कैकेयी प्रियं योजयसे मम ॥  
@@ -911,7 +911,7 @@ shed no cooling radiance (_na vyabhāsata śarvarī_) upon the wailing monarch. 
 <details><summary>मूलम्</summary>
 
 न प्रभातं त्वयेच्छामि निशे नक्षत्रभूषिते ॥ १६ ॥  
-क्रियतां मे दया भद्रे मयायं रचितोऽञ्जलिः ।
+[^non-baroDa-CE] क्रियतां मे दया भद्रे मयायं रचितोऽञ्जलिः ।
 _________________
 सदैवोष्णं विनिःश्वस्य वृद्धो दशरथो नृपः ॥  
 विललापार्तवद्दुःखं गगनासक्तलोचनः ।
@@ -1167,8 +1167,8 @@ grant grace (_prasādaḥ kriyatām_), O auspicious queen (_bhadre devi_), espec
 
 <details><summary>मूलम्</summary>
 
-प्रसीद देवि रामो मे त्वद्दत्तं राज्यमव्ययम् ॥ २२ ॥  
-लभतामसितापाङ्गे यशः परमवाप्स्यसि ।
+[^non-baroDa-CE] प्रसीद देवि रामो मे त्वद्दत्तं राज्यमव्ययम् ॥ २२ ॥  
+[^non-baroDa-CE] लभतामसितापाङ्गे यशः परमवाप्स्यसि ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1227,8 +1227,8 @@ Unmoved by her pure-hearted husband's tearful entreaties, wicked Kaikeyī spurns
 
 <details><summary>मूलम्</summary>
 
-मम रामस्य लोकस्य गुरूणां भरतस्य च ।  
-प्रियमेतद् गुरुश्रोणि कुरु चारुमुखेक्षणे ॥ २३ ॥
+[^non-baroDa-CE] मम रामस्य लोकस्य गुरूणां भरतस्य च ।  
+[^non-baroDa-CE] प्रियमेतद् गुरुश्रोणि कुरु चारुमुखेक्षणे ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1394,10 +1394,10 @@ Then that king, swooning yet again (_punar eva mūrcchitaḥ_) upon beholding hi
 
 <details><summary>मूलम्</summary>
 
-इतीव राज्ञो व्यथितस्य सा निशा  
-जगाम घोरं श्वसतो मनस्विनः ।  
-विबोध्यमानः प्रतिबोधनं तदा  
-निवारयामास स राजसत्तमः ॥ २६ ॥
+[^non-baroDa-CE] इतीव राज्ञो व्यथितस्य सा निशा  
+[^non-baroDa-CE] जगाम घोरं श्वसतो मनस्विनः ।  
+[^non-baroDa-CE] विबोध्यमानः प्रतिबोधनं तदा  
+[^non-baroDa-CE] निवारयामास स राजसत्तमः ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1446,3 +1446,4 @@ Thus passed that night for the high-minded (_manasvinaḥ_), anguished monarch a
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

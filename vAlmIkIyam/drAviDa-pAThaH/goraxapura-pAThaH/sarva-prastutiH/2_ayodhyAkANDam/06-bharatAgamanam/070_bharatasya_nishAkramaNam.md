@@ -181,7 +181,7 @@ Come forth indeed quickly. There is an urgent work with you."
 
 <details><summary>मूलम्</summary>
 
-इमानि च महार्हाणि वस्त्राण्याभरणानि च ।  
+[^non-baroDa-CE] इमानि च महार्हाणि वस्त्राण्याभरणानि च ।  
 प्रतिगृह्य विशालाक्ष मातुलस्य च दापय ॥ ४ ॥
 _________________
 इमानि च महार्हाणि वस्त्राण्यारणानि च ।  
@@ -621,7 +621,7 @@ Thus addressed by high-souled Bharata (_evam uktās tu te dūtā bharatena mahā
 <details><summary>मूलम्</summary>
 
 कुशलास्ते नरव्याघ्र येषां कुशलमिच्छसि ।  
-श्रीश्च त्वां वृणुते पद्मा युज्यतां चापि ते रथः ॥ १२ ॥
+[^non-baroDa-CE] श्रीश्च त्वां वृणुते पद्मा युज्यतां चापि ते रथः ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1336,8 +1336,8 @@ Weighed down by anxiety over the envoys’ haste and his dark dream, Bharata tak
 
 <details><summary>मूलम्</summary>
 
-बभूव ह्यस्य हृदये चिन्ता सुमहती तदा ।  
-त्वरया चापि दूतानां स्वप्नस्यापि च दर्शनात् ॥ २५ ॥
+[^non-baroDa-CE] बभूव ह्यस्य हृदये चिन्ता सुमहती तदा ।  
+[^non-baroDa-CE] त्वरया चापि दूतानां स्वप्नस्यापि च दर्शनात् ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1389,7 +1389,7 @@ For a very great anxiety arose in his heart at that time (_babhūva hy asya hṛ
 <details><summary>मूलम्</summary>
 
 स स्ववेश्माभ्यतिक्रम्य नरनागाश्वसङ्कुलम् ।  
-प्रपेदे सुमहच्छ्रीमान् राजमार्गमनुत्तमम् ॥ २६ ॥
+[^non-baroDa-CE] प्रपेदे सुमहच्छ्रीमान् राजमार्गमनुत्तमम् ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1493,7 +1493,7 @@ Having crossed beyond it, the noble-minded prince then beheld the inner apartmen
 
 <details><summary>मूलम्</summary>
 
-स मातामहमापृच्छ्य मातुलं च युधाजितम् ।  
+[^non-baroDa-CE] स मातामहमापृच्छ्य मातुलं च युधाजितम् ।  
 रथमारुह्य भरतः शत्रुघ्नसहितो ययौ ॥ २८ ॥
 </details>
 
@@ -1675,3 +1675,4 @@ Guarded by the army, high-souled Bharata, free of foes (_balena gupto bharato ma
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

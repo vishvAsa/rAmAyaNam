@@ -391,11 +391,11 @@ and his arrogance out, but without letting his lives loose. [4-16-7]
 
 <details><summary>मूलम्</summary>
 
-अहं ह्याजिस्थितस्यास्य करिष्यामि यदीप्सितम् ।  
-वृक्षैर्मुष्टिप्रहारैश्च पीडितः प्रतियास्यति ॥ ८ ॥
+[^non-baroDa-CE] अहं ह्याजिस्थितस्यास्य करिष्यामि यदीप्सितम् ।  
+[^non-baroDa-CE] वृक्षैर्मुष्टिप्रहारैश्च पीडितः प्रतियास्यति ॥ ८ ॥
 _________________
 अहं ह्याजिस्थितस्यास्य करिष्यामि यथेप्सितम् ।  
-वृक्षैर्मुष्टिप्रहारैश्च पीडितः प्रतियास्यति ॥
+[^non-baroDa-CE] वृक्षैर्मुष्टिप्रहारैश्च पीडितः प्रतियास्यति ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -447,8 +447,8 @@ trees and fistfights, by which roughed up he returns. [4-16-8]
 
 <details><summary>मूलम्</summary>
 
-न मे गर्वितमायस्तं सहिष्यति दुरात्मवान् ।  
-कृतं तारे सहायत्वं दर्शितं सौहृदं मयि ॥ ९ ॥
+[^non-baroDa-CE] न मे गर्वितमायस्तं सहिष्यति दुरात्मवान् ।  
+[^non-baroDa-CE] कृतं तारे सहायत्वं दर्शितं सौहृदं मयि ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1260,7 +1260,7 @@ By Sugrīva, however, who fearlessly (_niḥśaṅkam_) uprooted a sāla tree wi
 <details><summary>मूलम्</summary>
 
 स तु वृक्षेण निर्भग्नः सालताडनविह्वलः ।  
-गुरुभारभराक्रान्ता नौः ससार्थेव सागरे ॥ २४ ॥
+[^non-baroDa-CE] गुरुभारभराक्रान्ता नौः ससार्थेव सागरे ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1380,9 +1380,9 @@ Those two, valiant with terrible strength (_bhīmabalavikrāntau_) and swift as 
 
 <details><summary>मूलम्</summary>
 
-परस्परममित्रघ्नौ छिद्रान्वेषणतत्परौ ।  
-ततोऽवर्धत वाली तु बलवीर्यसमन्वितः ॥ २६ ॥  
-सूर्यपुत्रो महावीर्यः सुग्रीवः परिहीयत ।
+[^non-baroDa-CE] परस्परममित्रघ्नौ छिद्रान्वेषणतत्परौ ।  
+[^non-baroDa-CE] ततोऽवर्धत वाली तु बलवीर्यसमन्वितः ॥ २६ ॥  
+[^non-baroDa-CE] सूर्यपुत्रो महावीर्यः सुग्रीवः परिहीयत ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1485,9 +1485,9 @@ Sugrīva, the son of Sūrya (_sūryaputraḥ_) of great valor, began to wane (_p
 
 <details><summary>मूलम्</summary>
 
-वृक्षैः सशाखैः शिखरैर्वज्रकोटिनिभैर्नखैः ॥ २८ ॥  
-मुष्टिभिर्जानुभिः पद्भिर्बाहुभिश्च पुनः पुनः ।  
-तयोर्युद्धमभूद‍्घोरं वृत्रवासवयोरिव ॥ २९ ॥
+[^non-baroDa-CE] वृक्षैः सशाखैः शिखरैर्वज्रकोटिनिभैर्नखैः ॥ २८ ॥  
+[^non-baroDa-CE] मुष्टिभिर्जानुभिः पद्भिर्बाहुभिश्च पुनः पुनः ।  
+[^non-baroDa-CE] तयोर्युद्धमभूद‍्घोरं वृत्रवासवयोरिव ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1553,8 +1553,8 @@ Seeing blood-drenched Sugrīva faltering and glancing repeatedly toward the quar
 
 <details><summary>मूलम्</summary>
 
-तौ शोणिताक्तौ युध्येतां वानरौ वनचारिणौ ।  
-मेघाविव महाशब्दैस्तर्जमानौ परस्परम् ॥ ३० ॥
+[^non-baroDa-CE] तौ शोणिताक्तौ युध्येतां वानरौ वनचारिणौ ।  
+[^non-baroDa-CE] मेघाविव महाशब्दैस्तर्जमानौ परस्परम् ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1605,8 +1605,8 @@ Smeared with blood (_śoṇitāktau_), those two forest-roaming monkeys fought e
 
 <details><summary>मूलम्</summary>
 
-हीयमानमथापश्यत् सुग्रीवं वानरेश्वरम् ।  
-प्रेक्षमाणं दिशश्चैव राघवः स मुहुर्मुहुः ॥ ३१ ॥
+[^non-baroDa-CE] हीयमानमथापश्यत् सुग्रीवं वानरेश्वरम् ।  
+[^non-baroDa-CE] प्रेक्षमाणं दिशश्चैव राघवः स मुहुर्मुहुः ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1657,10 +1657,10 @@ Then that Rāghava beheld the lord of monkeys, Sugrīva, growing weaker (_hīyam
 
 <details><summary>मूलम्</summary>
 
-ततो रामो महातेजा आर्तं दृष्ट्वा हरीश्वरम् ।  
+[^non-baroDa-CE] ततो रामो महातेजा आर्तं दृष्ट्वा हरीश्वरम् ।  
 स शरं वीक्षते वीरो वालिनो वधकाङ्क्षया ॥ ३२ ॥
 _________________
-ततोरामो महातेजा आर्तं दृष्ट्वा हरीश्वरम् ।  
+[^non-baroDa-CE] ततोरामो महातेजा आर्तं दृष्ट्वा हरीश्वरम् ।  
 शरं स वीक्षते वीरो वालिनो वधकाङ्क्षया ॥
 </details>
 
@@ -1707,7 +1707,7 @@ Then the hero Rāma of great splendor (_mahātejāḥ_), seeing the lord of monk
 <details><summary>मूलम्</summary>
 
 ततो धनुषि सन्धाय शरमाशीविषोपमम् ।  
-पूरयामास तच्चापं कालचक्रमिवान्तकः ॥ ३३ ॥
+[^non-baroDa-CE] पूरयामास तच्चापं कालचक्रमिवान्तकः ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1758,11 +1758,11 @@ Then, fitting upon his bow (_dhanuṣi saṃdhāya_) an arrow resembling a venom
 
 <details><summary>मूलम्</summary>
 
-तस्य ज्यातलघोषेण त्रस्ताः पत्ररथेश्वराः ।  
-प्रदुद्रुवुर्मृगाश्चैव युगान्त इव मोहिताः ॥ ३४ ॥
+[^non-baroDa-CE] तस्य ज्यातलघोषेण त्रस्ताः पत्ररथेश्वराः ।  
+[^non-baroDa-CE] प्रदुद्रुवुर्मृगाश्चैव युगान्त इव मोहिताः ॥ ३४ ॥
 _________________
-तस्य ज्यातलघोषेण त्रस्ताः पत्ररथेश्वरा ।  
-प्रदुद्रुवुर्मृगाश्चैव युगान्त इव मोहिताः ॥
+[^non-baroDa-CE] तस्य ज्यातलघोषेण त्रस्ताः पत्ररथेश्वरा ।  
+[^non-baroDa-CE] प्रदुद्रुवुर्मृगाश्चैव युगान्त इव मोहिताः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1875,7 +1875,7 @@ Released (_muktas tu_) by Rāghava, that mighty arrow (_mahābāṇaḥ_), roari
 
 <details><summary>मूलम्</summary>
 
-ततस्तेन महातेजा वीर्ययुक्तः कपीश्वरः ।  
+[^non-baroDa-CE] ततस्तेन महातेजा वीर्ययुक्तः कपीश्वरः ।  
 वेगेनाभिहतो वाली निपपात महीतले ॥ ३६ ॥
 </details>
 
@@ -1927,9 +1927,9 @@ Struck (_abhihataḥ_) with force by that [arrow], the lord of monkeys Vālī, o
 
 <details><summary>मूलम्</summary>
 
-इन्द्रध्वज इवोद‍्धूतः पौर्णमास्यां महीतले ।  
-आश्वयुक्समये मासि गतश्रीको विचेतनः ।  
-बाष्पसंरुद्धकण्ठस्तु वाली चार्तस्वरः शनैः ॥ ३७ ॥
+[^non-baroDa-CE] इन्द्रध्वज इवोद‍्धूतः पौर्णमास्यां महीतले ।  
+[^non-baroDa-CE] आश्वयुक्समये मासि गतश्रीको विचेतनः ।  
+[^non-baroDa-CE] बाष्पसंरुद्धकण्ठस्तु वाली चार्तस्वरः शनैः ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1994,15 +1994,15 @@ Hurled down (_uddhūtaḥ_) upon the earth like Indra&#x27;s banner (_indradhvaj
 
 <details><summary>मूलम्</summary>
 
-नरोत्तमः कालयुगान्तकोपमं  
-शरोत्तमं काञ्चनरूप्यभूषितम् ।  
-ससर्ज दीप्तं तममित्रमर्दनं  
-सधूममग्निं मुखतो यथा हरः ॥ ३८ ॥
+[^non-baroDa-CE] नरोत्तमः कालयुगान्तकोपमं  
+[^non-baroDa-CE] शरोत्तमं काञ्चनरूप्यभूषितम् ।  
+[^non-baroDa-CE] ससर्ज दीप्तं तममित्रमर्दनं  
+[^non-baroDa-CE] सधूममग्निं मुखतो यथा हरः ॥ ३८ ॥
 _________________
-नरोत्तमः कालयुगान्तकोपमं  
-शरोत्तमं काञ्चनरूप्यभूषितम् ।  
+[^non-baroDa-CE] नरोत्तमः कालयुगान्तकोपमं  
+[^non-baroDa-CE] शरोत्तमं काञ्चनरूप्यभूषितम् ।  
 ससर्ज दीप्तः तममित्रमर्दनं  
-सधूममग्निं मुखतो यथा हरः ॥
+[^non-baroDa-CE] सधूममग्निं मुखतो यथा हरः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2131,3 +2131,4 @@ Then, drenched with streams of blood and water (_śoṇitatoyavisravaiḥ_), the
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

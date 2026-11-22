@@ -48,10 +48,10 @@ Likening Sītā to a five-hooded serpent coiled around Rāvaṇa's neck, Vibhī�
 
 <details><summary>मूलम्</summary>
 
-निशाचरेन्द्रस्य निशम्य वाक्यं  
-स कुम्भकर्णस्य च गर्जितानि ।  
-विभीषणो राक्षसराजमुख्य-  
-मुवाच वाक्यं हितमर्थयुक्तम् ॥ १ ॥
+[^non-baroDa-CE] निशाचरेन्द्रस्य निशम्य वाक्यं  
+[^non-baroDa-CE] स कुम्भकर्णस्य च गर्जितानि ।  
+[^non-baroDa-CE] विभीषणो राक्षसराजमुख्य-  
+[^non-baroDa-CE] मुवाच वाक्यं हितमर्थयुक्तम् ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -109,10 +109,10 @@ Hearing the speech of the lord of night-stalkers (_niśācarendrasya_) and the t
 
 <details><summary>मूलम्</summary>
 
-वृतो हि बाह्वन्तरभोगराशि-  
-श्चिन्ताविषः सुस्मिततीक्ष्णदंष्ट्रः ।  
-पञ्चाङ्गुलीपञ्चशिरोऽतिकायः  
-सीतामहाहिस्तव केन राजन् ॥ २ ॥
+[^non-baroDa-CE] वृतो हि बाह्वन्तरभोगराशि-  
+[^non-baroDa-CE] श्चिन्ताविषः सुस्मिततीक्ष्णदंष्ट्रः ।  
+[^non-baroDa-CE] पञ्चाङ्गुलीपञ्चशिरोऽतिकायः  
+[^non-baroDa-CE] सीतामहाहिस्तव केन राजन् ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -170,10 +170,10 @@ sharp fangs as her sweet smile and with five hoods as her five fingers."
 
 <details><summary>मूलम्</summary>
 
-यावन्न लङ्कां समभिद्रवन्ति  
-बलीमुखाः पर्वतकूटमात्राः ।  
-दंष्ट्रायुधाश्चैव नखायुधाश्च  
-प्रदीयतां दाशरथाय मैथिली ॥ ३ ॥
+[^non-baroDa-CE] यावन्न लङ्कां समभिद्रवन्ति  
+[^non-baroDa-CE] बलीमुखाः पर्वतकूटमात्राः ।  
+[^non-baroDa-CE] दंष्ट्रायुधाश्चैव नखायुधाश्च  
+[^non-baroDa-CE] प्रदीयतां दाशरथाय मैथिली ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -230,10 +230,10 @@ and nails as weapons, rush full upon the city of Lanka, give back Sita to Rama."
 
 <details><summary>मूलम्</summary>
 
-यावन्न गृह्णन्ति शिरांसि बाणा  
+[^non-baroDa-CE] यावन्न गृह्णन्ति शिरांसि बाणा  
 रामेरिता राक्षसपुङ्गवानाम् ।  
-वज्रोपमा वायुसमानवेगाः  
-प्रदीयतां दाशरथाय मैथिली ॥ ४ ॥
+[^non-baroDa-CE] वज्रोपमा वायुसमानवेगाः  
+[^non-baroDa-CE] प्रदीयतां दाशरथाय मैथिली ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -282,15 +282,15 @@ dispatched by Rama, take away the heads of chiefs of demons, give back Sita to R
 
 <details><summary>मूलम्</summary>
 
-न कुम्भकर्णेन्द्रजितौ च राजं-  
-स्तथा महापार्श्वमहोदरौ वा ।  
-निकुम्भकुम्भौ च तथातिकायः  
-स्थातुं समर्था युधि राघवस्य ॥ ५ ॥
+[^non-baroDa-CE] न कुम्भकर्णेन्द्रजितौ च राजं-  
+[^non-baroDa-CE] स्तथा महापार्श्वमहोदरौ वा ।  
+[^non-baroDa-CE] निकुम्भकुम्भौ च तथातिकायः  
+[^non-baroDa-CE] स्थातुं समर्था युधि राघवस्य ॥ ५ ॥
 _________________
 न कुम्भकर्णेन्द्रजितौ न राजं-  
-स्तथा महापार्श्वमहोदरौ वा ।  
-निकुम्भकुम्भौ च तथातिकायः  
-स्थातुं समर्था युधि राघवस्य ॥
+[^non-baroDa-CE] स्तथा महापार्श्वमहोदरौ वा ।  
+[^non-baroDa-CE] निकुम्भकुम्भौ च तथातिकायः  
+[^non-baroDa-CE] स्थातुं समर्था युधि राघवस्य ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -338,14 +338,14 @@ either Nikumbha or Kumbha or even Atikaya cannot withstand Rama in battle."
 
 <details><summary>मूलम्</summary>
 
-जीवंस्तु रामस्य न मोक्ष्यसे त्वं  
-गुप्तः सवित्राप्यथवा मरुद्भिः ।  
-न वासवस्याङ्कगतो न मृत्यो-  
-र्नभो न पातालमनुप्रविष्टः ॥ ६ ॥
+[^non-baroDa-CE] जीवंस्तु रामस्य न मोक्ष्यसे त्वं  
+[^non-baroDa-CE] गुप्तः सवित्राप्यथवा मरुद्भिः ।  
+[^non-baroDa-CE] न वासवस्याङ्कगतो न मृत्यो-  
+[^non-baroDa-CE] र्नभो न पातालमनुप्रविष्टः ॥ ६ ॥
 _________________
-जीवंस्तु रामस्य न मोक्ष्यसे त्वं  
-गुप्तः सवित्राप्यथवा मरुद्भिः ।  
-न वासवस्याङ्कगतो न मृत्यो  
+[^non-baroDa-CE] जीवंस्तु रामस्य न मोक्ष्यसे त्वं  
+[^non-baroDa-CE] गुप्तः सवित्राप्यथवा मरुद्भिः ।  
+[^non-baroDa-CE] न वासवस्याङ्कगतो न मृत्यो  
 र्नभो पातालमनुप्रविष्टः ॥
 </details>
 
@@ -412,10 +412,10 @@ When Prahasta scorns fear of a mortal prince, Vibhīṣaṇa replies that slayin
 
 <details><summary>मूलम्</summary>
 
-निशम्य वाक्यं तु विभीषणस्य  
-ततः प्रहस्तो वचनं बभाषे ।  
-न नो भयं विद्म न दैवतेभ्यो  
-न दानवेभ्योऽप्यथवा कदाचित् ॥ ७ ॥
+[^non-baroDa-CE] निशम्य वाक्यं तु विभीषणस्य  
+[^non-baroDa-CE] ततः प्रहस्तो वचनं बभाषे ।  
+[^non-baroDa-CE] न नो भयं विद्म न दैवतेभ्यो  
+[^non-baroDa-CE] न दानवेभ्योऽप्यथवा कदाचित् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -464,10 +464,10 @@ Hearing the speech of Vibhīṣaṇa, Prahasta then spoke this word: “We never
 
 <details><summary>मूलम्</summary>
 
-न यक्षगन्धर्वमहोरगेभ्यो  
+[^non-baroDa-CE] न यक्षगन्धर्वमहोरगेभ्यो  
 भयं न सङ्ख्ये पतगोरगेभ्यः ।  
-कथं नु रामाद् भविता भयं नो  
-नरेन्द्रपुत्रात् समरे कदाचित् ॥ ८ ॥
+[^non-baroDa-CE] कथं नु रामाद् भविता भयं नो  
+[^non-baroDa-CE] नरेन्द्रपुत्रात् समरे कदाचित् ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -517,10 +517,10 @@ the case, how can we have fear from Rama, the son of a human king at any time in
 
 <details><summary>मूलम्</summary>
 
-प्रहस्तवाक्यं त्वहितं निशम्य  
-विभीषणो राजहितानुकाङ्क्षी ।  
-ततो महार्थं वचनं बभाषे  
-धर्मार्थकामेषु निविष्टबुद्धिः ॥ ९ ॥
+[^non-baroDa-CE] प्रहस्तवाक्यं त्वहितं निशम्य  
+[^non-baroDa-CE] विभीषणो राजहितानुकाङ्क्षी ।  
+[^non-baroDa-CE] ततो महार्थं वचनं बभाषे  
+[^non-baroDa-CE] धर्मार्थकामेषु निविष्टबुद्धिः ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -578,15 +578,15 @@ Hearing the pernicious speech (_ahitaṃ vākyam_) of Prahasta, Vibhīṣaṇa, 
 
 <details><summary>मूलम्</summary>
 
-प्रहस्त राजा च महोदरश्च  
-त्वं कुम्भकर्णश्च यथार्थजातम् ।  
-ब्रवीत रामं प्रति तन्न शक्यं  
-यथा गतिः स्वर्गमधर्मबुद्धेः ॥ १० ॥
+[^non-baroDa-CE] प्रहस्त राजा च महोदरश्च  
+[^non-baroDa-CE] त्वं कुम्भकर्णश्च यथार्थजातम् ।  
+[^non-baroDa-CE] ब्रवीत रामं प्रति तन्न शक्यं  
+[^non-baroDa-CE] यथा गतिः स्वर्गमधर्मबुद्धेः ॥ १० ॥
 _________________
-प्रहस्त राजा च महोदरश्च  
+[^non-baroDa-CE] प्रहस्त राजा च महोदरश्च  
 त्वं कुम्भकर्णश्च यदर्थजातम् ।  
-ब्रवीत रामं प्रति तन्न शक्यं  
-यथा गतिः स्वर्गमधर्मबुद्धेः ॥
+[^non-baroDa-CE] ब्रवीत रामं प्रति तन्न शक्यं  
+[^non-baroDa-CE] यथा गतिः स्वर्गमधर्मबुद्धेः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -636,15 +636,15 @@ to heaven by wicked minded persons."
 
 <details><summary>मूलम्</summary>
 
-वधस्तु रामस्य मया त्वया च  
-प्रहस्त सर्वैरपि राक्षसैर्वा ।  
-कथं भवेदर्थविशारदस्य  
-महार्णवं तर्तुमिवाप्लवस्य ॥ ११ ॥
+[^non-baroDa-CE] वधस्तु रामस्य मया त्वया च  
+[^non-baroDa-CE] प्रहस्त सर्वैरपि राक्षसैर्वा ।  
+[^non-baroDa-CE] कथं भवेदर्थविशारदस्य  
+[^non-baroDa-CE] महार्णवं तर्तुमिवाप्लवस्य ॥ ११ ॥
 _________________
 वधुस्तु रामस्य मया त्वया च  
-प्रहस्त सर्वैरपि राक्षसैर्वा ।  
-कथं भवेदर्थविशारदस्य  
-महार्णवं तर्तुमिवाप्लवस्य ॥
+[^non-baroDa-CE] प्रहस्त सर्वैरपि राक्षसैर्वा ।  
+[^non-baroDa-CE] कथं भवेदर्थविशारदस्य  
+[^non-baroDa-CE] महार्णवं तर्तुमिवाप्लवस्य ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -692,10 +692,10 @@ in all matters, any more than a person without a bark to cross a great ocean."
 
 <details><summary>मूलम्</summary>
 
-धर्मप्रधानस्य महारथस्य  
-इक्ष्वाकुवंशप्रभवस्य राज्ञः ।  
-पुरोऽस्य देवाश्च तथाविधस्य  
-कृत्येषु शक्तस्य भवन्ति मूढाः ॥ १२ ॥
+[^non-baroDa-CE] धर्मप्रधानस्य महारथस्य  
+[^non-baroDa-CE] इक्ष्वाकुवंशप्रभवस्य राज्ञः ।  
+[^non-baroDa-CE] पुरोऽस्य देवाश्च तथाविधस्य  
+[^non-baroDa-CE] कृत्येषु शक्तस्य भवन्ति मूढाः ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -761,10 +761,10 @@ Warning Prahasta that his boasts will cease once Rāma's heron-feathered shafts 
 
 <details><summary>मूलम्</summary>
 
-तीक्ष्णा न तावत् तव कङ्कपत्रा  
-दुरासदा राघवविप्रमुक्ताः ।  
-भित्त्वा शरीरं प्रविशन्ति बाणाः  
-प्रहस्त तेनैव विकत्थसे त्वम् ॥ १३ ॥
+[^non-baroDa-CE] तीक्ष्णा न तावत् तव कङ्कपत्रा  
+[^non-baroDa-CE] दुरासदा राघवविप्रमुक्ताः ।  
+[^non-baroDa-CE] भित्त्वा शरीरं प्रविशन्ति बाणाः  
+[^non-baroDa-CE] प्रहस्त तेनैव विकत्थसे त्वम् ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -822,10 +822,10 @@ That is why, you indulge in a boastful talk."
 
 <details><summary>मूलम्</summary>
 
-भित्त्वा न तावत् प्रविशन्ति कायं  
-प्राणान्तिकास्तेऽशनितुल्यवेगाः ।  
-शिताः शरा राघवविप्रमुक्ताः  
-प्रहस्त तेनैव विकत्थसे त्वम् ॥ १४ ॥
+[^non-baroDa-CE] भित्त्वा न तावत् प्रविशन्ति कायं  
+[^non-baroDa-CE] प्राणान्तिकास्तेऽशनितुल्यवेगाः ।  
+[^non-baroDa-CE] शिताः शरा राघवविप्रमुक्ताः  
+[^non-baroDa-CE] प्रहस्त तेनैव विकत्थसे त्वम् ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -957,15 +957,15 @@ Defining a true councillor (स मन्त्री), **Rāma Varmā** notes t
 
 <details><summary>मूलम्</summary>
 
-न रावणो नातिबलस्त्रिशीर्षो  
-न कुम्भकर्णस्य सुतो निकुम्भः ।  
-न चेन्द्रजिद् दाशरथिं प्रवोढुं  
-त्वं वा रणे शक्रसमं समर्थः ॥ १५ ॥
+[^non-baroDa-CE] न रावणो नातिबलस्त्रिशीर्षो  
+[^non-baroDa-CE] न कुम्भकर्णस्य सुतो निकुम्भः ।  
+[^non-baroDa-CE] न चेन्द्रजिद् दाशरथिं प्रवोढुं  
+[^non-baroDa-CE] त्वं वा रणे शक्रसमं समर्थः ॥ १५ ॥
 _________________
-न रावणो नातिबलस्त्रिशीर्षो  
+[^non-baroDa-CE] न रावणो नातिबलस्त्रिशीर्षो  
 न कुम्भकर्णस्य सुते निकुम्भः ।  
-न चेन्द्रजिद् दाशरथिं प्रवोढुं  
-त्वं वा रणे शक्रसमं समर्थः ॥
+[^non-baroDa-CE] न चेन्द्रजिद् दाशरथिं प्रवोढुं  
+[^non-baroDa-CE] त्वं वा रणे शक्रसमं समर्थः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1022,10 +1022,10 @@ battle."
 
 <details><summary>मूलम्</summary>
 
-देवान्तको वापि नरान्तको वा  
-तथातिकायोऽतिरथो महात्मा ।  
-अकम्पनश्चाद्रिसमानसारः  
-स्थातुं न शक्ता युधि राघवस्य ॥ १६ ॥
+[^non-baroDa-CE] देवान्तको वापि नरान्तको वा  
+[^non-baroDa-CE] तथातिकायोऽतिरथो महात्मा ।  
+[^non-baroDa-CE] अकम्पनश्चाद्रिसमानसारः  
+[^non-baroDa-CE] स्थातुं न शक्ता युधि राघवस्य ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1081,15 +1081,15 @@ Akampana who is mighty as an ocean are not capable to withstand against Rama in 
 
 <details><summary>मूलम्</summary>
 
-अयं च राजा व्यसनाभिभूतो  
-मित्रैरमित्रप्रतिमैर्भवद्भिः ।  
-अन्वास्यते राक्षसनाशनार्थे  
-तीक्ष्णः प्रकृत्या ह्यसमीक्षकारी ॥ १७ ॥
+[^non-baroDa-CE] अयं च राजा व्यसनाभिभूतो  
+[^non-baroDa-CE] मित्रैरमित्रप्रतिमैर्भवद्भिः ।  
+[^non-baroDa-CE] अन्वास्यते राक्षसनाशनार्थे  
+[^non-baroDa-CE] तीक्ष्णः प्रकृत्या ह्यसमीक्षकारी ॥ १७ ॥
 _________________
-अयं च राजा व्यसनाभिभूतो  
+[^non-baroDa-CE] अयं च राजा व्यसनाभिभूतो  
 मितैरमित्रप्रतिमैर्भवद्भिः ।  
-अन्वास्यते राक्षसनाशनार्थे  
-तीक्ष्णः प्रकृत्या ह्यसमीक्षकारी ॥
+[^non-baroDa-CE] अन्वास्यते राक्षसनाशनार्थे  
+[^non-baroDa-CE] तीक्ष्णः प्रकृत्या ह्यसमीक्षकारी ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1167,15 +1167,15 @@ Comparing Rāvaṇa to a man coiled by thousand-headed Śeṣa, possessed by dem
 
 <details><summary>मूलम्</summary>
 
-अनन्तभोगेन सहस्रमूर्ध्ना  
-नागेन भीमेन महाबलेन ।  
-बलात् परिक्षिप्तमिमं भवन्तो  
-राजानमुत्क्षिप्य विमोचयन्तु ॥ १८ ॥
+[^non-baroDa-CE] अनन्तभोगेन सहस्रमूर्ध्ना  
+[^non-baroDa-CE] नागेन भीमेन महाबलेन ।  
+[^non-baroDa-CE] बलात् परिक्षिप्तमिमं भवन्तो  
+[^non-baroDa-CE] राजानमुत्क्षिप्य विमोचयन्तु ॥ १८ ॥
 _________________
-अनन्तभोगेन सहस्रमूर्ध्न  
-नागेन भीमेन महाबलेन ।  
-बलात् परिक्षिप्तमिमं भवन्तो  
-राजानमुत्क्षिप्य विमोचयन्तु ॥
+[^non-baroDa-CE] अनन्तभोगेन सहस्रमूर्ध्न  
+[^non-baroDa-CE] नागेन भीमेन महाबलेन ।  
+[^non-baroDa-CE] बलात् परिक्षिप्तमिमं भवन्तो  
+[^non-baroDa-CE] राजानमुत्क्षिप्य विमोचयन्तु ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1232,10 +1232,10 @@ free."
 
 <details><summary>मूलम्</summary>
 
-यावद्धि केशग्रहणात् सुहृद्भिः  
-समेत्य सर्वैः परिपूर्णकामैः ।  
-निगृह्य राजा परिरक्षितव्यो  
-भूतैर्यथा भीमबलैर्गृहीतः ॥ १९ ॥
+[^non-baroDa-CE] यावद्धि केशग्रहणात् सुहृद्भिः  
+[^non-baroDa-CE] समेत्य सर्वैः परिपूर्णकामैः ।  
+[^non-baroDa-CE] निगृह्य राजा परिरक्षितव्यो  
+[^non-baroDa-CE] भूतैर्यथा भीमबलैर्गृहीतः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1293,10 +1293,10 @@ taken ossession of by evil spirits with terrific strength, is protected by one's
 
 <details><summary>मूलम्</summary>
 
-सुवारिणा राघवसागरेण  
-प्रच्छाद्यमानस्तरसा भवद्भिः ।  
-युक्तस्त्वयं तारयितुं समेत्य  
-काकुत्स्थपातालमुखे पतन् सः ॥ २० ॥
+[^non-baroDa-CE] सुवारिणा राघवसागरेण  
+[^non-baroDa-CE] प्रच्छाद्यमानस्तरसा भवद्भिः ।  
+[^non-baroDa-CE] युक्तस्त्वयं तारयितुं समेत्य  
+[^non-baroDa-CE] काकुत्स्थपातालमुखे पतन् सः ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1356,15 +1356,15 @@ Rama, is fit to be rescued united by you."
 
 <details><summary>मूलम्</summary>
 
-इदं पुरस्यास्य सराक्षसस्य  
-राज्ञश्च पथ्यं ससुहृज्जनस्य ।  
-सम्यग्घि वाक्यं स्वमतं ब्रवीमि  
-नरेन्द्रपुत्राय ददातु मैथिलीम् ॥ २१ ॥
+[^non-baroDa-CE] इदं पुरस्यास्य सराक्षसस्य  
+[^non-baroDa-CE] राज्ञश्च पथ्यं ससुहृज्जनस्य ।  
+[^non-baroDa-CE] सम्यग्घि वाक्यं स्वमतं ब्रवीमि  
+[^non-baroDa-CE] नरेन्द्रपुत्राय ददातु मैथिलीम् ॥ २१ ॥
 _________________
-इदं पुरस्यास्य सराक्षसस्य  
-राज्ञश्च पथ्यं ससुहृज्जनस्य ।  
+[^non-baroDa-CE] इदं पुरस्यास्य सराक्षसस्य  
+[^non-baroDa-CE] राज्ञश्च पथ्यं ससुहृज्जनस्य ।  
 सम्म्यग् धि वाक्यं स्वमतं ब्रवीमि  
-नरेन्द्रपुत्राय ददातु मैथिलीम् ॥
+[^non-baroDa-CE] नरेन्द्रपुत्राय ददातु मैथिलीम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1414,15 +1414,15 @@ Rama."
 
 <details><summary>मूलम्</summary>
 
-परस्य वीर्यं स्वबलं च बुद्‍ध्वा  
-स्थानं क्षयं चैव तथैव वृद्धिम् ।  
-तथा स्वपक्षेऽप्यनुमृश्य बुद‍्ध्या  
-वदेत् क्षमं स्वामिहितं स मन्त्री ॥ २२ ॥
+[^non-baroDa-CE] परस्य वीर्यं स्वबलं च बुद्‍ध्वा  
+[^non-baroDa-CE] स्थानं क्षयं चैव तथैव वृद्धिम् ।  
+[^non-baroDa-CE] तथा स्वपक्षेऽप्यनुमृश्य बुद‍्ध्या  
+[^non-baroDa-CE] वदेत् क्षमं स्वामिहितं स मन्त्री ॥ २२ ॥
 _________________
 परस्य वीर्यं स्वबलं च बुद्ध्या  
-स्थानं क्षयं चैव तथैव वृद्धिम् ।  
-तथा स्वपक्षेऽप्यनुमृश्य बुद्ध्या  
-वदेत् क्षमं स्वामिहितं स मन्त्री ॥
+[^non-baroDa-CE] स्थानं क्षयं चैव तथैव वृद्धिम् ।  
+[^non-baroDa-CE] तथा स्वपक्षेऽप्यनुमृश्य बुद्ध्या  
+[^non-baroDa-CE] वदेत् क्षमं स्वामिहितं स मन्त्री ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1480,3 +1480,5 @@ king."
 “Having ascertained the prowess of the enemy and one&#x27;s own strength (_parasya vīryaṃ svabalaṃ ca buddhvā_), and having reflected with discernment (_anumṛśya buddhyā_) upon stasis, decline, and growth (_sthānaṃ kṣayaṃ caiva tathaiva vṛddhim_) in one&#x27;s own party as well, a minister should speak what is fitting and beneficial to his lord (_kṣamaṃ svāmihitaṃ sa mantrī_).”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

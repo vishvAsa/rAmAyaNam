@@ -1491,7 +1491,7 @@ Like Mount Mandara tied by Vasuki for producing nectar, Ravana was well tied by 
 
 <details><summary>मूलम्</summary>
 
-ताभ्यां स परिपूर्णाभ्यां भुजाभ्यां राक्षसेश्वरः ।  
+[^non-baroDa-CE] ताभ्यां स परिपूर्णाभ्यां भुजाभ्यां राक्षसेश्वरः ।  
 शुशुभेऽचलसङ्काशः शृङ्गाभ्यामिव मन्दरः ॥ २७ ॥
 </details>
 
@@ -1595,7 +1595,7 @@ Adorned with two earrings of the hue of the rising sun (_taruṇādityavarṇāb
 
 <details><summary>मूलम्</summary>
 
-स कल्पवृक्षप्रतिमो वसन्त इव मूर्तिमान् ।  
+[^non-baroDa-CE] स कल्पवृक्षप्रतिमो वसन्त इव मूर्तिमान् ।  
 श्मशानचैत्यप्रतिमो भूषितोऽपि भयङ्करः ॥ २९ ॥
 </details>
 
@@ -2026,7 +2026,7 @@ his mind overwhelmed by passion and wrath (_kāmamanyuparītātmā_), roared (_g
 <details><summary>मूलम्</summary>
 
 मया क्रीड महाराज सीतया किं तवानया ॥ ४० ॥  
-विवर्णया कृपणया मानुष्या राक्षसेश्वर ।
+[^non-baroDa-CE] विवर्णया कृपणया मानुष्या राक्षसेश्वर ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2066,8 +2066,8 @@ embraced (_pariṣvajya_) the ten-necked one and spoke this word: “Sport with 
 
 <details><summary>मूलम्</summary>
 
-नूनमस्यां महाराज न देवा भोगसत्तमान् ॥ ४१ ॥  
-विदधत्यमरश्रेष्ठास्तव बाहुबलार्जितान् ।
+[^non-baroDa-CE] नूनमस्यां महाराज न देवा भोगसत्तमान् ॥ ४१ ॥  
+[^non-baroDa-CE] विदधत्यमरश्रेष्ठास्तव बाहुबलार्जितान् ।
 _________________
 नूनमस्या महाराज न दिव्यान् भोगसत्तमान् ।
 विदधात्यमरश्रेष्ठस्तव बाहुबलार्जितान् ।
@@ -2232,7 +2232,7 @@ when he courts a willing woman (_icchatīṃ kāmayānasya_), the delight become
 
 <details><summary>मूलम्</summary>
 
-प्रस्थितः स दशग्रीवः कम्पयन्निव मेदिनीम् ।  
+[^non-baroDa-CE] प्रस्थितः स दशग्रीवः कम्पयन्निव मेदिनीम् ।  
 ज्वलद्भास्करसङ्काशं प्रविवेश निवेशनम् ॥ ४४ ॥
 _________________
 ज्वलद्भास्करवर्णाभं प्रविवेश निवेशनम् ।
@@ -2406,3 +2406,5 @@ Seetha, infatuated by love, entered his own house which was shining.
 Having menaced (_paribhartsya_) that trembling Maithilī who remained steadfast in dharma (_dharmaparām avasthitām_), that Rāvaṇa, infatuated by love (_madanena mohitaḥ_), left Sītā and entered his own radiant abode.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

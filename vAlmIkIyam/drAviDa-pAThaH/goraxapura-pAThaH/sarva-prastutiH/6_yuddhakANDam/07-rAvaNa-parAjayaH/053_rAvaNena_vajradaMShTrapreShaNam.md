@@ -43,8 +43,8 @@ Incensed by the slaying of Dhūmrākṣa, Rāvaṇa dispatches the illusion-wiel
 
 <details><summary>मूलम्</summary>
 
-धूम्राक्षं निहतं श्रुत्वा रावणो राक्षसेश्वरः ।  
-क्रोधेन महताऽऽविष्टो निःश्वसन्नुरगो यथा ॥ १ ॥
+[^non-baroDa-CE] धूम्राक्षं निहतं श्रुत्वा रावणो राक्षसेश्वरः ।  
+[^non-baroDa-CE] क्रोधेन महताऽऽविष्टो निःश्वसन्नुरगो यथा ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -69,8 +69,8 @@ Hearing that Dhūmrākṣa had been slain (_dhūmrākṣaṃ nihataṃ śrutvā_
 
 <details><summary>मूलम्</summary>
 
-दीर्घमुष्णं विनिःश्वस्य क्रोधेन कलुषीकृतः ।  
-अब्रवीद् राक्षसं क्रूरं वज्रदंष्ट्रं महाबलम् ॥ २ ॥
+[^non-baroDa-CE] दीर्घमुष्णं विनिःश्वस्य क्रोधेन कलुषीकृतः ।  
+[^non-baroDa-CE] अब्रवीद् राक्षसं क्रूरं वज्रदंष्ट्रं महाबलम् ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -120,8 +120,8 @@ Breathing out a long, hot sigh (_dīrgham uṣṇaṃ viniḥśvasya_) and turbi
 
 <details><summary>मूलम्</summary>
 
-गच्छ त्वं वीर निर्याहि राक्षसैः परिवारितः ।  
-जहि दाशरथिं रामं सुग्रीवं वानरैः सह ॥ ३ ॥
+[^non-baroDa-CE] गच्छ त्वं वीर निर्याहि राक्षसैः परिवारितः ।  
+[^non-baroDa-CE] जहि दाशरथिं रामं सुग्रीवं वानरैः सह ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -172,8 +172,8 @@ as also Sugreeva and his monkeys!"
 
 <details><summary>मूलम्</summary>
 
-तथेत्युक्त्वा द्रुततरं मायावी राक्षसेश्वरः ।  
-निर्जगाम बलैः सार्धं बहुभिः परिवारितः ॥ ४ ॥
+[^non-baroDa-CE] तथेत्युक्त्वा द्रुततरं मायावी राक्षसेश्वरः ।  
+[^non-baroDa-CE] निर्जगाम बलैः सार्धं बहुभिः परिवारितः ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -203,7 +203,7 @@ Saying “So be it!” (_tathety uktvā_), that lordly _rākṣasa_, a master of
 
 <details><summary>मूलम्</summary>
 
-नागैरश्वैः खरैरुष्ट्रैः संयुक्तः सुसमाहितः ।  
+[^non-baroDa-CE] नागैरश्वैः खरैरुष्ट्रैः संयुक्तः सुसमाहितः ।  
 पताकाध्वजचित्रैश्च बहुभिः समलङ्कृतः ॥ ५ ॥
 </details>
 
@@ -254,10 +254,10 @@ Equipped with elephants, horses, mules, and camels (_nāgair aśvaiḥ kharair u
 
 <details><summary>मूलम्</summary>
 
-ततो विचित्रकेयूरमुकुटेन विभूषितः ।  
-तनुत्रं स समावृत्य सधनुर्निर्ययौ द्रुतम् ॥ ६ ॥
+[^non-baroDa-CE] ततो विचित्रकेयूरमुकुटेन विभूषितः ।  
+[^non-baroDa-CE] तनुत्रं स समावृत्य सधनुर्निर्ययौ द्रुतम् ॥ ६ ॥
 _________________
-ततो विचित्रकेयूर मुकुटेन विभूषितः ।  
+[^non-baroDa-CE] ततो विचित्रकेयूर मुकुटेन विभूषितः ।  
 तनुत्रं च समावृत्य सधनुर्निर्ययौ द्रुतम् ॥
 </details>
 
@@ -312,7 +312,7 @@ Circumambulating and mounting his golden chariot, Vajradaṃṣṭra leads forth
 <details><summary>मूलम्</summary>
 
 पताकालङ्कृतं दीप्तं तप्तकाञ्चनभूषितम् ।  
-रथं प्रदक्षिणं कृत्वा समारोहच्चमूपतिः ॥ ७ ॥
+[^non-baroDa-CE] रथं प्रदक्षिणं कृत्वा समारोहच्चमूपतिः ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -359,15 +359,15 @@ Having circumambulated to the right (_pradakṣiṇaṃ kṛtvā_) his blazing c
 
 <details><summary>मूलम्</summary>
 
-ऋष्टिभिस्तोमरैश्चित्रैः श्लक्ष्णैश्च मुसलैरपि ।  
-भिन्दिपालैश्च चापैश्च शक्तिभिः पट्टिशैरपि ॥ ८ ॥  
-खड्गैश्चक्रैर्गदाभिश्च निशितैश्च परश्वधैः ।  
-पदातयश्च निर्यान्ति विविधाः शस्त्रपाणयः ॥ ९ ॥
+[^non-baroDa-CE] ऋष्टिभिस्तोमरैश्चित्रैः श्लक्ष्णैश्च मुसलैरपि ।  
+[^non-baroDa-CE] भिन्दिपालैश्च चापैश्च शक्तिभिः पट्टिशैरपि ॥ ८ ॥  
+[^non-baroDa-CE] खड्गैश्चक्रैर्गदाभिश्च निशितैश्च परश्वधैः ।  
+[^non-baroDa-CE] पदातयश्च निर्यान्ति विविधाः शस्त्रपाणयः ॥ ९ ॥
 _________________
 यष्टिभिस्तोमरैश्चित्रैः श्लक्ष्णैश्च मुसलैरपि ।  
-भिन्दिपालैश्च चापैश्च शक्तिभिःपट्टिशैरपि ॥
-खड्गैश्चक्रैर्गदाभिश्च निशितैश्च परश्वधैः ।  
-पदातयश्च निर्यान्ति विविधाः शस्त्रपाणयः ॥
+[^non-baroDa-CE] भिन्दिपालैश्च चापैश्च शक्तिभिःपट्टिशैरपि ॥
+[^non-baroDa-CE] खड्गैश्चक्रैर्गदाभिश्च निशितैश्च परश्वधैः ।  
+[^non-baroDa-CE] पदातयश्च निर्यान्ति विविधाः शस्त्रपाणयः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -426,10 +426,10 @@ and sharp axes.
 
 <details><summary>मूलम्</summary>
 
-विचित्रवाससः सर्वे दीप्ता राक्षसपुङ्गवाः ।  
-गजा महोत्कटाः शूराश्चलन्त इव पर्वताः ॥ १० ॥
+[^non-baroDa-CE] विचित्रवाससः सर्वे दीप्ता राक्षसपुङ्गवाः ।  
+[^non-baroDa-CE] गजा महोत्कटाः शूराश्चलन्त इव पर्वताः ॥ १० ॥
 _________________
-विचित्रवाससः सर्वे दीप्ता राक्षसपुङ्गवाः ।  
+[^non-baroDa-CE] विचित्रवाससः सर्वे दीप्ता राक्षसपुङ्गवाः ।  
 गजा मदोत्कटाः शूराश्चलन्त इव पर्वताः ॥
 </details>
 
@@ -482,8 +482,8 @@ All those radiant bulls among _rākṣasas_ wore variegated garments (_vicitrav�
 
 <details><summary>मूलम्</summary>
 
-ते युद्धकुशला रूढास्तोमराङ्कुशपाणिभिः ।  
-अन्ये लक्षणसंयुक्ताः शूरारूढा महाबलाः ॥ ११ ॥
+[^non-baroDa-CE] ते युद्धकुशला रूढास्तोमराङ्कुशपाणिभिः ।  
+[^non-baroDa-CE] अन्ये लक्षणसंयुक्ताः शूरारूढा महाबलाः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -535,8 +535,8 @@ Those [elephants], skilled in battle (_yuddhakuśalāḥ_), were mounted by [mah
 
 <details><summary>मूलम्</summary>
 
-तद् राक्षसबलं सर्वं विप्रस्थितमशोभत ।  
-प्रावृट्काले यथा मेघा नर्दमानाः सविद्युतः ॥ १२ ॥
+[^non-baroDa-CE] तद् राक्षसबलं सर्वं विप्रस्थितमशोभत ।  
+[^non-baroDa-CE] प्रावृट्काले यथा मेघा नर्दमानाः सविद्युतः ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -599,8 +599,8 @@ Marching out the southern gate where Aṅgada is stationed, Vajradaṃṣṭra d
 
 <details><summary>मूलम्</summary>
 
-निःसृता दक्षिणद्वारादङ्गदो यत्र यूथपः ।  
-तेषां निष्क्रममाणानामशुभं समजायत ॥ १३ ॥
+[^non-baroDa-CE] निःसृता दक्षिणद्वारादङ्गदो यत्र यूथपः ।  
+[^non-baroDa-CE] तेषां निष्क्रममाणानामशुभं समजायत ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -630,8 +630,8 @@ They issued forth from the southern gate (_dakṣiṇadvārāt_), where the troo
 
 <details><summary>मूलम्</summary>
 
-आकाशाद् विघनात् तीव्रा उल्काश्चाभ्यपतंस्तदा ।  
-वमन्तः पावकज्वालाः शिवा घोरा ववाशिरे ॥ १४ ॥
+[^non-baroDa-CE] आकाशाद् विघनात् तीव्रा उल्काश्चाभ्यपतंस्तदा ।  
+[^non-baroDa-CE] वमन्तः पावकज्वालाः शिवा घोरा ववाशिरे ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -679,8 +679,8 @@ From a cloudless sky (_ākāśād vighanāt_), fierce meteors (_ulkāḥ_) plung
 
 <details><summary>मूलम्</summary>
 
-व्याहरन्त मृगा घोरा रक्षसां निधनं तदा ।  
-समापतन्तो योधास्तु प्रास्खलंस्तत्र दारुणम् ॥ १५ ॥
+[^non-baroDa-CE] व्याहरन्त मृगा घोरा रक्षसां निधनं तदा ।  
+[^non-baroDa-CE] समापतन्तो योधास्तु प्रास्खलंस्तत्र दारुणम् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -726,8 +726,8 @@ Fearsome beasts (_mṛgā ghorāḥ_) cried out then, portending the destruction
 
 <details><summary>मूलम्</summary>
 
-एतानौत्पातिकान् दृष्ट्वा वज्रदंष्ट्रो महाबलः ।  
-धैर्यमालम्ब्य तेजस्वी निर्जगाम रणोत्सुकः ॥ १६ ॥
+[^non-baroDa-CE] एतानौत्पातिकान् दृष्ट्वा वज्रदंष्ट्रो महाबलः ।  
+[^non-baroDa-CE] धैर्यमालम्ब्य तेजस्वी निर्जगाम रणोत्सुकः ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -773,8 +773,8 @@ Even after beholding these portentous omens (_etān autpātikān dṛṣṭvā_)
 
 <details><summary>मूलम्</summary>
 
-तांस्तु विद्रवतो दृष्ट्वा वानरा जितकाशिनः ।  
-प्रणेदुः सुमहानादान् दिशः शब्देन पूरयन् ॥ १७ ॥
+[^non-baroDa-CE] तांस्तु विद्रवतो दृष्ट्वा वानरा जितकाशिनः ।  
+[^non-baroDa-CE] प्रणेदुः सुमहानादान् दिशः शब्देन पूरयन् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -825,8 +825,8 @@ Seeing them charging forth (_vidravataḥ_), the Vānaras of victorious bearing 
 
 <details><summary>मूलम्</summary>
 
-ततः प्रवृत्तं तुमुलं हरीणां राक्षसैः सह ।  
-घोराणां भीमरूपाणामन्योन्यवधकाङ्क्षिणाम् ॥ १८ ॥
+[^non-baroDa-CE] ततः प्रवृत्तं तुमुलं हरीणां राक्षसैः सह ।  
+[^non-baroDa-CE] घोराणां भीमरूपाणामन्योन्यवधकाङ्क्षिणाम् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -879,10 +879,10 @@ Amid the heart-rending crash of boulders, weapons, and war-drums, the combatants
 
 <details><summary>मूलम्</summary>
 
-निष्पतन्तो महोत्साहा भिन्नदेहशिरोधराः ।  
-रुधिरोक्षितसर्वाङ्गा न्यपतन् धरणीतले ॥ १९ ॥
+[^non-baroDa-CE] निष्पतन्तो महोत्साहा भिन्नदेहशिरोधराः ।  
+[^non-baroDa-CE] रुधिरोक्षितसर्वाङ्गा न्यपतन् धरणीतले ॥ १९ ॥
 _________________
-निष्पतन्तो महोत्साहा भिन्नदेह शिरोधराः ।  
+[^non-baroDa-CE] निष्पतन्तो महोत्साहा भिन्नदेह शिरोधराः ।  
 रुधिरोक्षितसर्वाधि न्यपतन् धरणीतले ॥
 </details>
 
@@ -934,8 +934,8 @@ Rushing forth with mighty zeal (_niṣpatanto mahotsāhāḥ_), [warriors] with 
 
 <details><summary>मूलम्</summary>
 
-केचिदन्योन्यमासाद्य शूराः परिघबाहवः ।  
-चिक्षिपुर्विविधान् शस्त्रान् समरेष्वनिवर्तिनः ॥ २० ॥
+[^non-baroDa-CE] केचिदन्योन्यमासाद्य शूराः परिघबाहवः ।  
+[^non-baroDa-CE] चिक्षिपुर्विविधान् शस्त्रान् समरेष्वनिवर्तिनः ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -986,8 +986,8 @@ Confronting one another (_anyonyam āsādya_), some heroes with arms like iron b
 
 <details><summary>मूलम्</summary>
 
-द्रुमाणां च शिलानां च शस्त्राणां चापि निःस्वनः ।  
-श्रूयते सुमहांस्तत्र घोरो हृदयभेदनः ॥ २१ ॥
+[^non-baroDa-CE] द्रुमाणां च शिलानां च शस्त्राणां चापि निःस्वनः ।  
+[^non-baroDa-CE] श्रूयते सुमहांस्तत्र घोरो हृदयभेदनः ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1032,8 +1032,8 @@ There was heard the tremendous, dreadful, heart-rending crash (_niḥsvanaḥ ..
 
 <details><summary>मूलम्</summary>
 
-रथनेमिस्वनस्तत्र धनुषश्चापि घोरवत् ।  
-शङ्खभेरीमृदङ्गानां बभूव तुमुलः स्वनः ॥ २२ ॥
+[^non-baroDa-CE] रथनेमिस्वनस्तत्र धनुषश्चापि घोरवत् ।  
+[^non-baroDa-CE] शङ्खभेरीमृदङ्गानां बभूव तुमुलः स्वनः ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1095,14 +1095,14 @@ As Vajradaṃṣṭra stalks the field like Death with his noose, Aṅgada blaze
 <details><summary>मूलम्</summary>
 
 केचिदस्त्राणि सन्त्यज्य बाहुयुद्धमकुर्वत ॥ २३ ॥  
-तलैश्च चरणैश्चापि मुष्टिभिश्च द्रुमैरपि ।  
-जानुभिश्च हताः केचिद् भग्नदेहाश्च राक्षसाः ।  
-शिलाभिश्चूर्णिताः केचिद् वानरैर्युद्धदुर्मदैः ॥ २४ ॥
+[^non-baroDa-CE] तलैश्च चरणैश्चापि मुष्टिभिश्च द्रुमैरपि ।  
+[^non-baroDa-CE] जानुभिश्च हताः केचिद् भग्नदेहाश्च राक्षसाः ।  
+[^non-baroDa-CE] शिलाभिश्चूर्णिताः केचिद् वानरैर्युद्धदुर्मदैः ॥ २४ ॥
 _________________
 केचिदस्त्राणि सन्त्यज्य बाहुयुद्धमकुर्वत ॥
-तलैश्च चरणैश्चापि मुष्टिभिश्च द्रुमैरपि ।  
+[^non-baroDa-CE] तलैश्च चरणैश्चापि मुष्टिभिश्च द्रुमैरपि ।  
 जानुभिश्च हताः केचिद् भग्न्नदेहाश्च राक्षसाः ।  
-शिलाभिश्चूर्णिताः केचिद् वानरैर्युद्धदुर्मदैः ॥
+[^non-baroDa-CE] शिलाभिश्चूर्णिताः केचिद् वानरैर्युद्धदुर्मदैः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1154,8 +1154,8 @@ feet, fists, trees and knees. Some demons were crushed to powder with rocks.
 
 <details><summary>मूलम्</summary>
 
-वज्रदंष्ट्रो भृशं बाणै रणे वित्रासयन् हरीन् ।  
-चचार लोकसंहारे पाशहस्त इवान्तकः ॥ २५ ॥
+[^non-baroDa-CE] वज्रदंष्ट्रो भृशं बाणै रणे वित्रासयन् हरीन् ।  
+[^non-baroDa-CE] चचार लोकसंहारे पाशहस्त इवान्तकः ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1208,10 +1208,10 @@ Mighty, skilled in missiles (_astraviduṣaḥ_), and wielding manifold weapons 
 
 <details><summary>मूलम्</summary>
 
-बलवन्तोऽस्त्रविदुषो नानाप्रहरणा रणे ।  
-जघ्नुर्वानरसैन्यानि राक्षसाः क्रोधर्मूच्छिताः ॥ २६ ॥
+[^non-baroDa-CE] बलवन्तोऽस्त्रविदुषो नानाप्रहरणा रणे ।  
+[^non-baroDa-CE] जघ्नुर्वानरसैन्यानि राक्षसाः क्रोधर्मूच्छिताः ॥ २६ ॥
 _________________
-बलवन्तोऽस्त्रविदुषो नाना प्रहरणा रणे ।  
+[^non-baroDa-CE] बलवन्तोऽस्त्रविदुषो नाना प्रहरणा रणे ।  
 जघ्नुर्वानर सैन्यानि राक्षसाः क्रोधमूर्छिताः ॥
 </details>
 
@@ -1263,11 +1263,11 @@ Doubly possessed by wrath (_krodhena dviguṇāviṣṭaḥ_), the bold son of V
 
 <details><summary>मूलम्</summary>
 
-जघ्ने तान् राक्षसान् सर्वान् धृष्टो वालिसुतो रणे ।  
-क्रोधेन द्विगुणाविष्टः संवर्तक इवानलः ॥ २७ ॥
+[^non-baroDa-CE] जघ्ने तान् राक्षसान् सर्वान् धृष्टो वालिसुतो रणे ।  
+[^non-baroDa-CE] क्रोधेन द्विगुणाविष्टः संवर्तक इवानलः ॥ २७ ॥
 _________________
 जघ्नेतान् राक्षसान् सर्वान् दृष्टो वालिसुतो रणे ।  
-क्रोधेन द्विगुणाविष्टः संवर्तक इवानलः ॥
+[^non-baroDa-CE] क्रोधेन द्विगुणाविष्टः संवर्तक इवानलः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1321,9 +1321,9 @@ Felled like trees by Aṅgada's onslaught, the rākṣasas strew the blood-soake
 
 <details><summary>मूलम्</summary>
 
-तान् राक्षसगणान् सर्वान् वृक्षमुद्यम्य वीर्यवान् ।  
-अङ्गदः क्रोधताम्राक्षः सिंहः क्षुद्रमृगानिव ॥ २८ ॥  
-चकार कदनं घोरं शक्रतुल्यपराक्रमः ।
+[^non-baroDa-CE] तान् राक्षसगणान् सर्वान् वृक्षमुद्यम्य वीर्यवान् ।  
+[^non-baroDa-CE] अङ्गदः क्रोधताम्राक्षः सिंहः क्षुद्रमृगानिव ॥ २८ ॥  
+[^non-baroDa-CE] चकार कदनं घोरं शक्रतुल्यपराक्रमः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1353,8 +1353,8 @@ Equal in valor to Śakra [Indra] (_śakratulyaparākramaḥ_), he wrought a drea
 
 <details><summary>मूलम्</summary>
 
-अङ्गदाभिहतास्तत्र राक्षसा भीमविक्रमाः ॥ २९ ॥  
-विभिन्नशिरसः पेतुर्निकृत्ता इव पादपाः ।
+[^non-baroDa-CE] अङ्गदाभिहतास्तत्र राक्षसा भीमविक्रमाः ॥ २९ ॥  
+[^non-baroDa-CE] विभिन्नशिरसः पेतुर्निकृत्ता इव पादपाः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1403,7 +1403,7 @@ fell with their heads split open (_vibhinnaśirasaḥ_), like felled trees (_nik
 
 <details><summary>मूलम्</summary>
 
-रथैश्चित्रैर्ध्वजैरश्वैः शरीरैर्हरिरक्षसाम् ॥ ३० ॥  
+[^non-baroDa-CE] रथैश्चित्रैर्ध्वजैरश्वैः शरीरैर्हरिरक्षसाम् ॥ ३० ॥  
 रुधिरौघेण सञ्छन्ना भूमिर्भयकरी तदा ।
 _________________
 रथेश्चित्रैर्ध्वजैरश्वैः शरीरैर्हरिरक्षसाम् ॥  
@@ -1459,10 +1459,10 @@ and overspread by a flood of blood (_rudhiraugheṇa saṃchannā_), the earth b
 <details><summary>मूलम्</summary>
 
 हारकेयूरवस्त्रैश्च शस्त्रैश्च समलङ्कृता ॥ ३१ ॥  
-भूमिर्भाति रणे तत्र शारदीव यथा निशा ।
+[^non-baroDa-CE] भूमिर्भाति रणे तत्र शारदीव यथा निशा ।
 _________________
 हारकेयूरवस्शस्त्रॆೖ शस्त्रॆೖश्च समलङ्कृता ॥  
-भूमिर्भाति रणे तत्र शारदीवयथा निशा ।
+[^non-baroDa-CE] भूमिर्भाति रणे तत्र शारदीवयथा निशा ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1514,8 +1514,8 @@ the earth shone in that battle like an autumnal night (_śāradīva yathā niś�
 
 <details><summary>मूलम्</summary>
 
-अङ्गदस्य च वेगेन तद् राक्षसबलं महत् ।  
-प्राकम्पत तदा तत्र पवनेनाम्बुदो यथा ॥ ३२ ॥
+[^non-baroDa-CE] अङ्गदस्य च वेगेन तद् राक्षसबलं महत् ।  
+[^non-baroDa-CE] प्राकम्पत तदा तत्र पवनेनाम्बुदो यथा ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1561,3 +1561,4 @@ and umbrellas looked like an autumnal night.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

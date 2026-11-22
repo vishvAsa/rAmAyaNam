@@ -503,7 +503,7 @@ A twilight (_saṃdhyā_) gleaming with the hue of wet blood (_kṣatajārdra-sa
 
 <details><summary>मूलम्</summary>
 
-कङ्कगोमायुगृध्राश्च चुक्रुशुर्भयशंसिनः ।  
+[^non-baroDa-CE] कङ्कगोमायुगृध्राश्च चुक्रुशुर्भयशंसिनः ।  
 नित्याशिवकरा युद्धे शिवा घोरनिदर्शनाः ॥ १० ॥  
 नेदुर्बलस्याभिमुखं ज्वालोद‍्गारिभिराननैः ।
 </details>
@@ -1542,7 +1542,7 @@ Watched by curious gods in aerial cars, Khara speeds ahead flanked by twelve chi
 <details><summary>मूलम्</summary>
 
 एतच्चान्यच्च बहुशो ब्रुवाणाः परमर्षयः ॥ २९ ॥  
-जातकौतूहलास्तत्र विमानस्थाश्च देवताः ।  
+[^non-baroDa-CE] जातकौतूहलास्तत्र विमानस्थाश्च देवताः ।  
 ददृशुर्वाहिनीं तेषां राक्षसानां गतायुषाम् ॥ ३० ॥
 </details>
 
@@ -1792,3 +1792,4 @@ That exceedingly dreadful army of heroic _rākṣasas_ (_rākṣasa-vīra-senā_
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

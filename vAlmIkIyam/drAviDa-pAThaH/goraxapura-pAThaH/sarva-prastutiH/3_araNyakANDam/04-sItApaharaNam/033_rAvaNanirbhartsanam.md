@@ -478,8 +478,8 @@ not those gods take opportunity to hit you back, for everything is lacking in yo
 
 <details><summary>मूलम्</summary>
 
-त्वं तु बालस्वभावश्च बुद्धिहीनश्च राक्षस ।  
-ज्ञातव्यं तन्न जानीषे कथं राजा भविष्यसि ॥ ८ ॥
+[^non-baroDa-CE] त्वं तु बालस्वभावश्च बुद्धिहीनश्च राक्षस ।  
+[^non-baroDa-CE] ज्ञातव्यं तन्न जानीषे कथं राजा भविष्यसि ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1427,3 +1427,4 @@ Weighing with his intellect (_samīkṣya buddhyā_) his own faults thus proclai
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

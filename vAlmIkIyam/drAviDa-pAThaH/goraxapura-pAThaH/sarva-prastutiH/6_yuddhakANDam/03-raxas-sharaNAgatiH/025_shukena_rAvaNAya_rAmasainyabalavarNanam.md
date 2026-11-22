@@ -469,10 +469,10 @@ Stationed on mountain peaks, by cascades and in caverns (_nirjhareṣu guhāsu c
 <details><summary>मूलम्</summary>
 
 निविष्टं निविशच्चैव भीमनादं महाबलम् ।  
-तद‍्बलार्णवमक्षोभ्यं ददृशाते निशाचरौ ॥ १२ ॥
+[^non-baroDa-CE] तद‍्बलार्णवमक्षोभ्यं ददृशाते निशाचरौ ॥ १२ ॥
 _________________
 निविष्टं निविशश्चैव भीमनादं महाबलम् ।  
-तद्बलार्णवमक्षोभ्यं ददृशाते निशाचरौ ॥
+[^non-baroDa-CE] तद्बलार्णवमक्षोभ्यं ददृशाते निशाचरौ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -586,7 +586,7 @@ Vibhīṣaṇa of great splendor spotted those two disguised spies (_praticchann
 
 <details><summary>मूलम्</summary>
 
-तस्यैतौ राक्षसेन्द्रस्य मन्त्रिणौ शुकसारणौ ।  
+[^non-baroDa-CE] तस्यैतौ राक्षसेन्द्रस्य मन्त्रिणौ शुकसारणौ ।  
 लङ्कायाः समनुप्राप्तौ चारौ परपुरञ्जय ॥ १४ ॥
 </details>
 
@@ -913,8 +913,8 @@ will show it to you again entirely."
 
 <details><summary>मूलम्</summary>
 
-न चेदं ग्रहणं प्राप्य भेतव्यं जीवितं प्रति ।  
-न्यस्तशस्त्रौ गृहीतौ च न दूतौ वधमर्हथः ॥ २० ॥
+[^non-baroDa-CE] न चेदं ग्रहणं प्राप्य भेतव्यं जीवितं प्रति ।  
+[^non-baroDa-CE] न्यस्तशस्त्रौ गृहीतौ च न दूतौ वधमर्हथः ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -967,7 +967,7 @@ Nor should you fear for your lives (_na bhetavyaṃ jīvitaṃ prati_) upon havi
 <details><summary>मूलम्</summary>
 
 प्रच्छन्नौ च विमुञ्चेमौ चारौ रात्रिञ्चरावुभौ ।  
-शत्रुपक्षस्य सततं विभीषण विकर्षिणौ ॥ २१ ॥
+[^non-baroDa-CE] शत्रुपक्षस्य सततं विभीषण विकर्षिणौ ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1187,7 +1187,7 @@ its ramparts and arches as well as the army of demons."
 
 <details><summary>मूलम्</summary>
 
-क्रोधं भीममहं मोक्ष्ये ससैन्ये त्वयि रावण ।  
+[^non-baroDa-CE] क्रोधं भीममहं मोक्ष्ये ससैन्ये त्वयि रावण ।  
 श्वः काल्ये वज्रवान् वज्रं दानवेष्विव वासवः ॥ २५ ॥
 </details>
 
@@ -1242,7 +1242,7 @@ Tomorrow at daybreak (_śvaḥ kālye_), O Rāvaṇa, I shall unleash my dreadfu
 <details><summary>मूलम्</summary>
 
 इति प्रतिसमादिष्टौ राक्षसौ शुकसारणौ ।  
-जयेति प्रतिनन्द्यैनं राघवं धर्मवत्सलम् ॥ २६ ॥  
+[^non-baroDa-CE] जयेति प्रतिनन्द्यैनं राघवं धर्मवत्सलम् ॥ २६ ॥  
 आगम्य नगरीं लङ्कामब्रूतां राक्षसाधिपम् ।
 </details>
 
@@ -1569,3 +1569,4 @@ The bannered host (_dhvajinī_) of the great-souled forest-dwellers has its warr
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

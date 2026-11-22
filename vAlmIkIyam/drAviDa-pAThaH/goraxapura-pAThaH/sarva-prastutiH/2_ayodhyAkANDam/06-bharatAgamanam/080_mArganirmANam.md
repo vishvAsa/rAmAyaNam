@@ -528,7 +528,7 @@ In a very short time they formed many deep-watered reservoirs of diverse shapes,
 
 <details><summary>मूलम्</summary>
 
-निर्जलेषु च देशेषु खानयामासुरुत्तमान् ।  
+[^non-baroDa-CE] निर्जलेषु च देशेषु खानयामासुरुत्तमान् ।  
 उदपानान् बहुविधान् वेदिकापरिमण्डितान् ॥ १२ ॥
 </details>
 
@@ -943,3 +943,4 @@ stars.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -793,7 +793,7 @@ Why does Tāṭakā charge at Rāma alone? **Tilaka** explains that knowing Brah
 <details><summary>मूलम्</summary>
 
 विश्वामित्रस्तु ब्रह्मर्षिर्हुङ्कारेणाभिभर्त्स्य ताम् ।  
-स्वस्ति राघवयोरस्तु जयं चैवाभ्यभाषत ॥ १४ ॥
+[^non-baroDa-CE] स्वस्ति राघवयोरस्तु जयं चैवाभ्यभाषत ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -838,8 +838,8 @@ Rebuking her with a thunderous syllable _huṃ_ (_huṃkāreṇābhibhartsya tā
 
 <details><summary>मूलम्</summary>
 
-उद्धुन्वाना रजो घोरं ताटका राघवावुभौ ।  
-रजोमेघेन महता मुहूर्तं सा व्यमोहयत् ॥ १५ ॥
+[^non-baroDa-CE] उद्धुन्वाना रजो घोरं ताटका राघवावुभौ ।  
+[^non-baroDa-CE] रजोमेघेन महता मुहूर्तं सा व्यमोहयत् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -892,8 +892,8 @@ Raising a blinding, cloud-like dust-storm (रजोमेघेन = रजो�
 
 <details><summary>मूलम्</summary>
 
-ततो मायां समास्थाय शिलावर्षेण राघवौ ।  
-अवाकिरत् सुमहता ततश्चुक्रोध राघवः ॥ १६ ॥
+[^non-baroDa-CE] ततो मायां समास्थाय शिलावर्षेण राघवौ ।  
+[^non-baroDa-CE] अवाकिरत् सुमहता ततश्चुक्रोध राघवः ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -938,8 +938,8 @@ Then, resorting to her power of magical illusion (_tato māyāṃ samāsthāya_)
 
 <details><summary>मूलम्</summary>
 
-शिलावर्षं महत् तस्याः शरवर्षेण राघवः ।  
-प्रतिवार्योपधावन्त्याः करौ चिच्छेद पत्रिभिः ॥ १७ ॥
+[^non-baroDa-CE] शिलावर्षं महत् तस्याः शरवर्षेण राघवः ।  
+[^non-baroDa-CE] प्रतिवार्योपधावन्त्याः करौ चिच्छेद पत्रिभिः ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -993,7 +993,7 @@ Checking her boulder-shower with his arrows, Rāma severs both her stone-hurling
 <details><summary>मूलम्</summary>
 
 ततश्छिन्नभुजां श्रान्तामभ्याशे परिगर्जतीम् ।  
-सौमित्रिरकरोत् क्रोधाद‍्धृतकर्णाग्रनासिकाम् ॥ १८ ॥
+[^non-baroDa-CE] सौमित्रिरकरोत् क्रोधाद‍्धृतकर्णाग्रनासिकाम् ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1053,10 +1053,10 @@ Assuming manifold shapes and vanishing from sight through her magic, Tāṭakā 
 
 <details><summary>मूलम्</summary>
 
-कामरूपधरा सा तु कृत्वा रूपाण्यनेकशः ।  
-अन्तर्धानं गता यक्षी मोहयन्ती स्वमायया ॥ १९ ॥
+[^non-baroDa-CE] कामरूपधरा सा तु कृत्वा रूपाण्यनेकशः ।  
+[^non-baroDa-CE] अन्तर्धानं गता यक्षी मोहयन्ती स्वमायया ॥ १९ ॥
 _________________
-कामरूपधरा सा तु कृत्वा रूपाण्यनेकशः ।  
+[^non-baroDa-CE] कामरूपधरा सा तु कृत्वा रूपाण्यनेकशः ।  
 अन्तर्धानं गता यक्षी मोहयन्ती च स्वमायया ॥
 </details>
 
@@ -1125,11 +1125,11 @@ Though deprived of her hands, ears, and nose in vv. 17–18, Tāṭakā possesse
 
 <details><summary>मूलम्</summary>
 
-अश्मवर्षं विमुञ्चन्ती भैरवं विचचार सा ।  
-ततस्तावश्मवर्षेण कीर्यमाणौ समन्ततः ॥ २० ॥  
-दृष्ट्वा गाधिसुतः श्रीमानिदं वचनमब्रवीत् ।  
-अलं ते घृणया राम पापैषा दुष्टचारिणी ॥ २१ ॥  
-यज्ञविघ्नकरी यक्षी पुरा वर्धेत मायया ।  
+[^non-baroDa-CE] अश्मवर्षं विमुञ्चन्ती भैरवं विचचार सा ।  
+[^non-baroDa-CE] ततस्तावश्मवर्षेण कीर्यमाणौ समन्ततः ॥ २० ॥  
+[^non-baroDa-CE] दृष्ट्वा गाधिसुतः श्रीमानिदं वचनमब्रवीत् ।  
+[^non-baroDa-CE] अलं ते घृणया राम पापैषा दुष्टचारिणी ॥ २१ ॥  
+[^non-baroDa-CE] यज्ञविघ्नकरी यक्षी पुरा वर्धेत मायया ।  
 वध्यतां तावदेवैषा पुरा सन्ध्या प्रवर्तते ॥ २२ ॥  
 रक्षांसि सन्ध्याकाले तु दुर्धर्षाणि भवन्ति हि ।
 </details>
@@ -1288,7 +1288,7 @@ Forced out of invisibility by Rāma’s arrow-net, Tāṭakā charges with the s
 
 <details><summary>मूलम्</summary>
 
-सा रुद्धा बाणजालेन मायाबलसमन्विता ॥ २४ ॥  
+[^non-baroDa-CE] सा रुद्धा बाणजालेन मायाबलसमन्विता ॥ २४ ॥  
 अभिदुद्राव काकुत्स्थं लक्ष्मणं च विनेदुषी ।  
 तामापतन्तीं वेगेन विक्रान्तामशनीमिव ॥ २५ ॥  
 शरेणोरसि विव्याध सा पपात ममार च ।
@@ -1792,8 +1792,8 @@ Smelled Rāma upon the crown of his head in paternal affection and spoke these w
 
 <details><summary>मूलम्</summary>
 
-विश्वामित्रवचः श्रुत्वा हृष्टो दशरथात्मजः ॥ ३४ ॥  
-उवास रजनीं तत्र ताटकाया वने सुखम् ।
+[^non-baroDa-CE] विश्वामित्रवचः श्रुत्वा हृष्टो दशरथात्मजः ॥ ३४ ॥  
+[^non-baroDa-CE] उवास रजनीं तत्र ताटकाया वने सुखम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1846,8 +1846,8 @@ Commentators gloss _muktaśāpam_ in two ways: freed from its plague of terror (
 
 <details><summary>मूलम्</summary>
 
-मुक्तशापं वनं तच्च तस्मिन्नेव तदाहनि ।  
-रमणीयं विबभ्राज यथा चैत्ररथं वनम् ॥ ३५ ॥
+[^non-baroDa-CE] मुक्तशापं वनं तच्च तस्मिन्नेव तदाहनि ।  
+[^non-baroDa-CE] रमणीयं विबभ्राज यथा चैत्ररथं वनम् ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1895,10 +1895,10 @@ And passed the night happily there in the forest of Tāṭakā (_uvāsa rajanī�
 
 <details><summary>मूलम्</summary>
 
-निहत्य तां यक्षसुतां स रामः  
-प्रशस्यमानः सुरसिद्धसङ्घैः ।  
-उवास तस्मिन् मुनिना सहैव  
-प्रभातवेलां प्रतिबोध्यमानः ॥ ३६ ॥
+[^non-baroDa-CE] निहत्य तां यक्षसुतां स रामः  
+[^non-baroDa-CE] प्रशस्यमानः सुरसिद्धसङ्घैः ।  
+[^non-baroDa-CE] उवास तस्मिन् मुनिना सहैव  
+[^non-baroDa-CE] प्रभातवेलां प्रतिबोध्यमानः ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1955,3 +1955,4 @@ Praised by Siddhas and gods, Rāma rests peacefully beside the sage in the grove
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

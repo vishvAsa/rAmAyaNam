@@ -155,7 +155,7 @@ had a virtuous disposition. He owned chariots, elephants and horses, becoming ve
 
 <details><summary>मूलम्</summary>
 
-राजर्षीणां गुणश्रेष्ठस्तपसा चर्षिभिः समः ।  
+[^non-baroDa-CE] राजर्षीणां गुणश्रेष्ठस्तपसा चर्षिभिः समः ।  
 चक्रवर्तिकुले जातः पुरन्दरसमो बले ॥ ३ ॥
 </details>
 
@@ -460,7 +460,7 @@ At the command of that aged father who was true to his solemn pledge (_satyābhi
 <details><summary>मूलम्</summary>
 
 तेन तत्र महारण्ये मृगयां परिधावता ।  
-राक्षसा निहताः शूरा बहवः कामरूपिणः ॥ ९ ॥
+[^non-baroDa-CE] राक्षसा निहताः शूरा बहवः कामरूपिणः ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -548,9 +548,9 @@ Hearing of the slaughter in Janasthāna (_janasthāna-vadhaṃ śrutvā_) and th
 
 <details><summary>मूलम्</summary>
 
-वञ्चयित्वा वने रामं मृगरूपेण मायया ।  
-स मार्गमाणस्तां देवीं रामः सीतामनिन्दिताम् ॥ ११ ॥  
-आससाद वने मित्रं सुग्रीवं नाम वानरम् ।
+[^non-baroDa-CE] वञ्चयित्वा वने रामं मृगरूपेण मायया ।  
+[^non-baroDa-CE] स मार्गमाणस्तां देवीं रामः सीतामनिन्दिताम् ॥ ११ ॥  
+[^non-baroDa-CE] आससाद वने मित्रं सुग्रीवं नाम वानरम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -606,7 +606,7 @@ Hanūmān narrates Rāma’s alliance with Sugrīva, the slaying of Vālin, the 
 <details><summary>मूलम्</summary>
 
 ततः स वालिनं हत्वा रामः परपुरञ्जयः ॥ १२ ॥  
-आयच्छत् कपिराज्यं तु सुग्रीवाय महात्मने ।
+[^non-baroDa-CE] आयच्छत् कपिराज्यं तु सुग्रीवाय महात्मने ।
 _________________
 प्रायच्छत् कपिराज्यं तत् सुग्रीवाय महाबलः ।
 </details>
@@ -656,7 +656,7 @@ met in the forest an ally, a monkey named Sugrīva (_sugrīvaṃ nāma vānaram_
 <details><summary>मूलम्</summary>
 
 सुग्रीवेणाभिसन्दिष्टा हरयः कामरूपिणः ॥ १३ ॥  
-दिक्षु सर्वासु तां देवीं विचिन्वन्तः सहस्रशः ।
+[^non-baroDa-CE] दिक्षु सर्वासु तां देवीं विचिन्वन्तः सहस्रशः ।
 _________________
 सुग्रीवेणापि सन्दिष्टा हरयः कामरूपिणः ।
 दिक्षु सर्वासु तां देवीं विचिन्वन्ति सहस्रशः ।
@@ -729,8 +729,8 @@ bestowed the kingship of the monkeys (_kapi-rājyaṃ tu_) upon high-souled Sugr
 
 <details><summary>मूलम्</summary>
 
-अहं सम्पातिवचनाच्छतयोजनमायतम् ॥ १४ ॥  
-तस्या हेतोर्विशालाक्ष्याः समुद्रं वेगवान् प्लुतः ।
+[^non-baroDa-CE] अहं सम्पातिवचनाच्छतयोजनमायतम् ॥ १४ ॥  
+[^non-baroDa-CE] तस्या हेतोर्विशालाक्ष्याः समुद्रं वेगवान् प्लुतः ।
 _________________
 अस्या हेतोविशालाक्ष्याः सागरं वेगवान् प्लुतः ।
 </details>
@@ -936,10 +936,10 @@ Hearing that, Jānakī too was filled with supreme wonder (_vismayaṃ paramaṃ
 
 <details><summary>मूलम्</summary>
 
-निशम्य सीता वचनं कपेश्च  
-दिशश्च सर्वाः प्रदिशश्च वीक्ष्य ।  
-स्वयं प्रहर्षं परमं जगाम  
-सर्वात्मना राममनुस्मरन्ती ॥ १८ ॥
+[^non-baroDa-CE] निशम्य सीता वचनं कपेश्च  
+[^non-baroDa-CE] दिशश्च सर्वाः प्रदिशश्च वीक्ष्य ।  
+[^non-baroDa-CE] स्वयं प्रहर्षं परमं जगाम  
+[^non-baroDa-CE] सर्वात्मना राममनुस्मरन्ती ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1051,3 +1051,4 @@ Gazing sideways, upward, and even downward (_tiryag ūrdhvaṃ ca tathā hy adha
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

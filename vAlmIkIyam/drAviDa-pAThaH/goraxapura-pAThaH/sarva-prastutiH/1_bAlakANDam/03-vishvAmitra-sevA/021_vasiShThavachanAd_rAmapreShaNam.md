@@ -502,7 +502,7 @@ All three commentators gloss _svadharmam_ (v. 7) as fidelity to one’s pledged 
 
 <details><summary>मूलम्</summary>
 
-प्रतिश्रुत्य करिष्येति उक्तं वाक्यमकुर्वतः ।  
+[^non-baroDa-CE] प्रतिश्रुत्य करिष्येति उक्तं वाक्यमकुर्वतः ।  
 इष्टापूर्तवधो भूयात् तस्माद् रामं विसर्जय ॥ ८ ॥
 </details>
 
@@ -1134,7 +1134,7 @@ Revealing that Viśvāmitra could easily subdue the rākṣasas himself and has 
 
 <details><summary>मूलम्</summary>
 
-तेनास्य मुनिमुख्यस्य धर्मज्ञस्य महात्मनः ।  
+[^non-baroDa-CE] तेनास्य मुनिमुख्यस्य धर्मज्ञस्य महात्मनः ।  
 न किञ्चिदस्त्यविदितं भूतं भव्यं च राघव ॥ १९ ॥
 </details>
 
@@ -1238,8 +1238,8 @@ Because Viśvāmitra possesses all hundred missiles of Kṛśāśva and can gene
 
 <details><summary>मूलम्</summary>
 
-तेषां निग्रहणे शक्तः स्वयं च कुशिकात्मजः ।  
-तव पुत्रहितार्थाय त्वामुपेत्याभियाचते ॥ २१ ॥
+[^non-baroDa-CE] तेषां निग्रहणे शक्तः स्वयं च कुशिकात्मजः ।  
+[^non-baroDa-CE] तव पुत्रहितार्थाय त्वामुपेत्याभियाचते ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1296,15 +1296,15 @@ Vasiṣṭha crowns his counsel by answering why Viśvāmitra needs young Rāma 
 
 <details><summary>मूलम्</summary>
 
-इति मुनिवचनात् प्रसन्नचित्तो  
-रघुवृषभश्च मुमोद पार्थिवाग्र्यः ।  
-गमनमभिरुरोच राघवस्य  
-प्रथितयशाः कुशिकात्मजाय बुद्‍ध्या ॥ २२ ॥
+[^non-baroDa-CE] इति मुनिवचनात् प्रसन्नचित्तो  
+[^non-baroDa-CE] रघुवृषभश्च मुमोद पार्थिवाग्र्यः ।  
+[^non-baroDa-CE] गमनमभिरुरोच राघवस्य  
+[^non-baroDa-CE] प्रथितयशाः कुशिकात्मजाय बुद्‍ध्या ॥ २२ ॥
 _________________
-इति मुनिवचनात्प्रसन्नचित्तो  
+[^non-baroDa-CE] इति मुनिवचनात्प्रसन्नचित्तो  
 रघुवृषभश्च मुमोद पार्थिवाग्र्याः ।  
-गमनमभिरुरोच राघवस्य  
-प्रथितयशाः कुशिकात्मजाय बुद्ध्या॥
+[^non-baroDa-CE] गमनमभिरुरोच राघवस्य  
+[^non-baroDa-CE] प्रथितयशाः कुशिकात्मजाय बुद्ध्या॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1363,3 +1363,4 @@ Reassured by his preceptor’s words (_iti munivacanāt prasannacitto_), King Da
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

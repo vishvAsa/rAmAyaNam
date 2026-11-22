@@ -601,10 +601,10 @@ angry with me. You alone propitiate him in my favour."
 
 <details><summary>मूलम्</summary>
 
-अप्रसन्नमनाः किं नु सदा मां प्रति वत्सलः ।  
+[^non-baroDa-CE] अप्रसन्नमनाः किं नु सदा मां प्रति वत्सलः ।  
 विषण्णवदनो दीनो नहि मां प्रति भाषते ॥ १२ ॥
 _________________
-अप्रसन्नमनाः किं नु सदा मां प्रति वत्सलः ।  
+[^non-baroDa-CE] अप्रसन्नमनाः किं नु सदा मां प्रति वत्सलः ।  
 विषण्णवदनो दीनः नहि मां प्रति भाषते ॥
 </details>
 
@@ -1122,8 +1122,8 @@ Shamelessly replying that Daśaratha fears to speak what is unpleasant to his be
 
 <details><summary>मूलम्</summary>
 
-एवमुक्ता तु कैकेयी राघवेण महात्मना ।  
-उवाचेदं सुनिर्लज्जा धृष्टमात्महितं वचः ॥ १९ ॥
+[^non-baroDa-CE] एवमुक्ता तु कैकेयी राघवेण महात्मना ।  
+[^non-baroDa-CE] उवाचेदं सुनिर्लज्जा धृष्टमात्महितं वचः ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1225,8 +1225,8 @@ something in mind which he is not telling from fear."
 
 <details><summary>मूलम्</summary>
 
-प्रियं त्वामप्रियं वक्तुं वाणी नास्य प्रवर्तते ।  
-तदवश्यं त्वया कार्यं यदनेनाश्रुतं मम ॥ २१ ॥
+[^non-baroDa-CE] प्रियं त्वामप्रियं वक्तुं वाणी नास्य प्रवर्तते ।  
+[^non-baroDa-CE] तदवश्यं त्वया कार्यं यदनेनाश्रुतं मम ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1278,8 +1278,8 @@ one. He promised me a word. It is to be certainly done by you."
 
 <details><summary>मूलम्</summary>
 
-एष मह्यं वरं दत्त्वा पुरा मामभिपूज्य च ।  
-स पश्चात् तप्यते राजा यथान्यः प्राकृतस्तथा ॥ २२ ॥
+[^non-baroDa-CE] एष मह्यं वरं दत्त्वा पुरा मामभिपूज्य च ।  
+[^non-baroDa-CE] स पश्चात् तप्यते राजा यथान्यः प्राकृतस्तथा ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1324,8 +1324,8 @@ repenting now for having given the boon."
 
 <details><summary>मूलम्</summary>
 
-अतिसृज्य ददानीति वरं मम विशाम्पतिः ।  
-स निरर्थं गतजले सेतुं बन्धितुमिच्छति ॥ २३ ॥
+[^non-baroDa-CE] अतिसृज्य ददानीति वरं मम विशाम्पतिः ।  
+[^non-baroDa-CE] स निरर्थं गतजले सेतुं बन्धितुमिच्छति ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1370,8 +1370,8 @@ on a place where water has gone away."
 
 <details><summary>मूलम्</summary>
 
-धर्ममूलमिदं राम विदितं च सतामपि ।  
-तत् सत्यं न त्यजेद् राजा कुपितस्त्वत्कृते यथा ॥ २४ ॥
+[^non-baroDa-CE] धर्ममूलमिदं राम विदितं च सतामपि ।  
+[^non-baroDa-CE] तत् सत्यं न त्यजेद् राजा कुपितस्त्वत्कृते यथा ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1431,8 +1431,8 @@ Cut to the quick that Kaikeyī should doubt his filial obedience, Rāma vows tha
 
 <details><summary>मूलम्</summary>
 
-यदि तद् वक्ष्यते राजा शुभं वा यदि वाशुभम् ।  
-करिष्यसि ततः सर्वमाख्यास्यामि पुनस्त्वहम् ॥ २५ ॥
+[^non-baroDa-CE] यदि तद् वक्ष्यते राजा शुभं वा यदि वाशुभम् ।  
+[^non-baroDa-CE] करिष्यसि ततः सर्वमाख्यास्यामि पुनस्त्वहम् ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1484,8 +1484,8 @@ to you. Still, I shall tell you all that, if you shall do it afterwards."
 
 <details><summary>मूलम्</summary>
 
-यदि त्वभिहितं राज्ञा त्वयि तन्न विपत्स्यते ।  
-ततोऽहमभिधास्यामि न ह्येष त्वयि वक्ष्यति ॥ २६ ॥
+[^non-baroDa-CE] यदि त्वभिहितं राज्ञा त्वयि तन्न विपत्स्यते ।  
+[^non-baroDa-CE] ततोऽहमभिधास्यामि न ह्येष त्वयि वक्ष्यति ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1530,7 +1530,7 @@ tell you. This king will not indeed tell you."
 
 <details><summary>मूलम्</summary>
 
-एतत् तु वचनं श्रुत्वा कैकेय्या समुदाहृतम् ।  
+[^non-baroDa-CE] एतत् तु वचनं श्रुत्वा कैकेय्या समुदाहृतम् ।  
 उवाच व्यथितो रामस्तां देवीं नृपसन्निधौ ॥ २७ ॥
 _________________
 एतत्तु वचनं श्रुत्वा कैकॆय्या समुदाहृतम् ।  
@@ -1589,7 +1589,7 @@ Hearing those words spoken by Kaikeyī, Rāma, deeply pained at heart, spoke thu
 
 <details><summary>मूलम्</summary>
 
-अहो धिङ् नार्हसे देवि वक्तुं मामीदृशं वचः ।  
+[^non-baroDa-CE] अहो धिङ् नार्हसे देवि वक्तुं मामीदृशं वचः ।  
 अहं हि वचनाद् राज्ञः पतेयमपि पावके ॥ २८ ॥  
 भक्षयेयं विषं तीक्ष्णं पतेयमपि चार्णवे ।  
 नियुक्तो गुरुणा पित्रा नृपेण च हितेन च ॥ २९ ॥  
@@ -1953,8 +1953,8 @@ forest for fourteen years."
 
 <details><summary>मूलम्</summary>
 
-भरतश्चाभिषिच्येत यदेतदभिषेचनम् ।  
-त्वदर्थे विहितं राज्ञा तेन सर्वेण राघव ॥ ३६ ॥
+[^non-baroDa-CE] भरतश्चाभिषिच्येत यदेतदभिषेचनम् ।  
+[^non-baroDa-CE] त्वदर्थे विहितं राज्ञा तेन सर्वेण राघव ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2121,7 +2121,7 @@ precious thing together with horses, chariots and elephants."
 
 <details><summary>मूलम्</summary>
 
-एतेन त्वां नरेन्द्रोऽयं कारुण्येन समाप्लुतः ।  
+[^non-baroDa-CE] एतेन त्वां नरेन्द्रोऽयं कारुण्येन समाप्लुतः ।  
 शोकैः सङ्क्लिष्टवदनो न शक्नोति निरीक्षितुम् ॥ ३९ ॥
 </details>
 
@@ -2173,8 +2173,8 @@ able to see you with his face, afflicted with grief."
 
 <details><summary>मूलम्</summary>
 
-एतत् कुरु नरेन्द्रस्य वचनं रघुनन्दन ।  
-सत्येन महता राम तारयस्व नरेश्वरम् ॥ ४० ॥
+[^non-baroDa-CE] एतत् कुरु नरेन्द्रस्य वचनं रघुनन्दन ।  
+[^non-baroDa-CE] सत्येन महता राम तारयस्व नरेश्वरम् ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2226,10 +2226,10 @@ opportunity to maintain the truth."
 
 <details><summary>मूलम्</summary>
 
-इतीव तस्यां परुषं वदन्त्यां  
-न चैव रामः प्रविवेश शोकम् ।  
-प्रविव्यथे चापि महानुभावो  
-राजा च पुत्रव्यसनाभितप्तः ॥ ४१ ॥
+[^non-baroDa-CE] इतीव तस्यां परुषं वदन्त्यां  
+[^non-baroDa-CE] न चैव रामः प्रविवेश शोकम् ।  
+[^non-baroDa-CE] प्रविव्यथे चापि महानुभावो  
+[^non-baroDa-CE] राजा च पुत्रव्यसनाभितप्तः ॥ ४१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2285,3 +2285,4 @@ Even while she was speaking thus harshly, Rāma did not enter into grief at all;
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

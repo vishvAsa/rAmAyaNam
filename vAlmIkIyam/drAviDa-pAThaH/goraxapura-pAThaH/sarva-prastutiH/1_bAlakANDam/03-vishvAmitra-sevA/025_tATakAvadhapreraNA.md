@@ -162,7 +162,7 @@ then this yakshii frail by her femineity can exert the strength of a thousand el
 
 <details><summary>मूलम्</summary>
 
-इत्युक्तं वचनं श्रुत्वा राघवस्यामितौजसः ।  
+[^non-baroDa-CE] इत्युक्तं वचनं श्रुत्वा राघवस्यामितौजसः ।  
 हर्षयन् श्लक्ष्णया वाचा सलक्ष्मणमरिन्दमम् ॥ ३ ॥  
 विश्वामित्रोऽब्रवीद् वाक्यं शृणु येन बलोत्कटा ।  
 वरदानकृतं वीर्यं धारयत्यबला बलम् ॥ ४ ॥
@@ -562,8 +562,8 @@ When Sunda was slain by Agastya’s curse, Tāṭakā and Mārīca charged at th
 
 <details><summary>मूलम्</summary>
 
-भक्षार्थं जातसंरम्भा गर्जन्ती साभ्यधावत ।  
-आपतन्तीं तु तां दृष्ट्वा अगस्त्यो भगवानृषिः ॥ ११ ॥  
+[^non-baroDa-CE] भक्षार्थं जातसंरम्भा गर्जन्ती साभ्यधावत ।  
+[^non-baroDa-CE] आपतन्तीं तु तां दृष्ट्वा अगस्त्यो भगवानृषिः ॥ ११ ॥  
 राक्षसत्वं भजस्वेति मारीचं व्याजहार सः ।
 _________________
 भक्ष्यार्थं जातसंरम्भा गर्जन्ती साभ्यधावत ।  
@@ -908,8 +908,8 @@ Nor ought you to feel any compunction or pity on account of slaying a woman, O b
 
 <details><summary>मूलम्</summary>
 
-नृशंसमनृशंसं वा प्रजारक्षणकारणात् ।  
-पातकं वा सदोषं वा कर्तव्यं रक्षता सदा ॥ १८ ॥
+[^non-baroDa-CE] नृशंसमनृशंसं वा प्रजारक्षणकारणात् ।  
+[^non-baroDa-CE] पातकं वा सदोषं वा कर्तव्यं रक्षता सदा ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1137,7 +1137,7 @@ _____________
 
 एतैश्चान्यैश्च बहुभी राजपुत्रैर्महात्मभिः ।  
 अधर्मसहिता नार्यो हताः पुरुषसत्तमैः ।  
-तस्मादेनां घृणां त्यक्त्वा जहि मच्छासनान्नृप ॥ २२ ॥
+[^non-baroDa-CE] तस्मादेनां घृणां त्यक्त्वा जहि मच्छासनान्नृप ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1215,3 +1215,4 @@ By these and by many other great-souled royal princes, the foremost of men, wome
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

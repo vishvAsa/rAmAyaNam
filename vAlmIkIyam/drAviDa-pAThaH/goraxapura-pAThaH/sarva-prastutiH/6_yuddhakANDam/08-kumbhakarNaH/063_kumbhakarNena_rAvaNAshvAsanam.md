@@ -1051,8 +1051,8 @@ occurrences and would be removed from his position."
 
 <details><summary>मूलम्</summary>
 
-यदुक्तमिह ते पूर्वं प्रियया मेऽनुजेन च ।  
-तदेव नो हितं वाक्यं यथेच्छसि तथा कुरु ॥ २१ ॥
+[^non-baroDa-CE] यदुक्तमिह ते पूर्वं प्रियया मेऽनुजेन च ।  
+[^non-baroDa-CE] तदेव नो हितं वाक्यं यथेच्छसि तथा कुरु ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1267,7 +1267,7 @@ Appealing to fraternal affection, Rāvaṇa urges Kumbhakarṇa to repair his pa
 <details><summary>मूलम्</summary>
 
 अस्मिन् काले तु यद् युक्तं तदिदानीं विचिन्त्यताम् ।  
-गतं तु नानुशोचन्ति गतं तु गतमेव हि ॥ २५ ॥  
+[^non-baroDa-CE] गतं तु नानुशोचन्ति गतं तु गतमेव हि ॥ २५ ॥  
 ममापनयजं दोषं विक्रमेण समीकुरु ।
 </details>
 
@@ -2012,8 +2012,8 @@ cloud illuminated by the sun, thrown about, dissipated."
 
 <details><summary>मूलम्</summary>
 
-कथं च राक्षसैरेभिर्मया च परिसान्त्वितः ।  
-जिघांसुभिर्दाशरथिं व्यथसे त्वं सदानघ ॥ ४० ॥
+[^non-baroDa-CE] कथं च राक्षसैरेभिर्मया च परिसान्त्वितः ।  
+[^non-baroDa-CE] जिघांसुभिर्दाशरथिं व्यथसे त्वं सदानघ ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2064,7 +2064,7 @@ and by me, who are desirous of killing Rama?"
 
 <details><summary>मूलम्</summary>
 
-मां निहत्य किल त्वां हि निहनिष्यति राघवः ।  
+[^non-baroDa-CE] मां निहत्य किल त्वां हि निहनिष्यति राघवः ।  
 नाहमात्मनि सन्तापं गच्छेयं राक्षसाधिप ॥ ४१ ॥
 _________________
 मां निहत्य किल त्वां हि निहनिष्यन्ति राघवः ।  
@@ -2501,8 +2501,8 @@ Ready to march forth, Kumbhakarṇa vows to slay Rāma, Lakṣmaṇa, Sugrīva, 
 
 <details><summary>मूलम्</summary>
 
-हनूमन्तं च रक्षोघ्नं येन लङ्का प्रदीपिता ॥ ५० ॥  
-हरींश्च भक्षयिष्यामि संयुगे समुपस्थिते ।  
+[^non-baroDa-CE] हनूमन्तं च रक्षोघ्नं येन लङ्का प्रदीपिता ॥ ५० ॥  
+[^non-baroDa-CE] हरींश्च भक्षयिष्यामि संयुगे समुपस्थिते ।  
 असाधारणमिच्छामि तव दातुं महद् यशः ॥ ५१ ॥
 _________________
 हनूमन्तं च रक्षोघ्नं लङ्का येन प्रदीपिता ॥
@@ -2571,7 +2571,7 @@ tremendous and extraordinary reputation for you."
 <details><summary>मूलम्</summary>
 
 यदि चेन्द्राद् भयं राजन् यदि चापि स्वयम्भुवः ।  
-ततोऽहं नाशयिष्यामि नैशं तम इवांशुमान् ॥ ५२ ॥
+[^non-baroDa-CE] ततोऽहं नाशयिष्यामि नैशं तम इवांशुमान् ॥ ५२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2624,8 +2624,8 @@ the sun removes darkness of the night. When I am enraged, even celestials will l
 
 <details><summary>मूलम्</summary>
 
-अपि देवाः शयिष्यन्ते मयि क्रुद्धे महीतले ।  
-यमं च शमयिष्यामि भक्षयिष्यामि पावकम् ॥ ५३ ॥
+[^non-baroDa-CE] अपि देवाः शयिष्यन्ते मयि क्रुद्धे महीतले ।  
+[^non-baroDa-CE] यमं च शमयिष्यामि भक्षयिष्यामि पावकम् ॥ ५३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2684,8 +2684,8 @@ Boasting that the entire triple world cannot sate his hunger, Kumbhakarṇa marc
 
 <details><summary>मूलम्</summary>
 
-आदित्यं पातयिष्यामि सनक्षत्रं महीतले ।  
-शतक्रतुं वधिष्यामि पास्यामि वरुणालयम् ॥ ५४ ॥
+[^non-baroDa-CE] आदित्यं पातयिष्यामि सनक्षत्रं महीतले ।  
+[^non-baroDa-CE] शतक्रतुं वधिष्यामि पास्यामि वरुणालयम् ॥ ५४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2738,15 +2738,15 @@ powder. I shall tear up the earth."
 
 <details><summary>मूलम्</summary>
 
-पर्वतांश्चूर्णयिष्यामि दारयिष्यामि मेदिनीम् ।  
-दीर्घकालं प्रसुप्तस्य कुम्भकर्णस्य विक्रमम् ॥ ५५ ॥  
-अद्य पश्यन्तु भूतानि भक्ष्यमाणानि सर्वशः ।  
-न त्विदं त्रिदिवं सर्वमाहारो मम पूर्यते ॥ ५६ ॥
+[^non-baroDa-CE] पर्वतांश्चूर्णयिष्यामि दारयिष्यामि मेदिनीम् ।  
+[^non-baroDa-CE] दीर्घकालं प्रसुप्तस्य कुम्भकर्णस्य विक्रमम् ॥ ५५ ॥  
+[^non-baroDa-CE] अद्य पश्यन्तु भूतानि भक्ष्यमाणानि सर्वशः ।  
+[^non-baroDa-CE] न त्विदं त्रिदिवं सर्वमाहारो मम पूर्यते ॥ ५६ ॥
 _________________
-पर्वतांश्चूर्णयिष्यामि दारयिष्यामि मेदिनीम् ।  
-दीर्घकालं प्रसुप्तस्य कुम्भ कर्णस्य विक्रमम् ॥
+[^non-baroDa-CE] पर्वतांश्चूर्णयिष्यामि दारयिष्यामि मेदिनीम् ।  
+[^non-baroDa-CE] दीर्घकालं प्रसुप्तस्य कुम्भ कर्णस्य विक्रमम् ॥
 आद्य पश्यन्तु भूतानि भक्ष्यमाणानि सर्वशः ।  
-न त्विदं त्रिदिवं सर्वमाहारो मम पूर्यते ॥
+[^non-baroDa-CE] न त्विदं त्रिदिवं सर्वमाहारो मम पूर्यते ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2916,3 +2916,5 @@ your after a log time."
 “Take your pleasure, O King, and drink Vāruṇī wine today (_piba cādya vāruṇīm_); perform your royal duties, casting aside your grief (_vinīya duḥkham_)! Once Rāma is dispatched by me today to the abode of Yama (_yamakṣayam_), Sītā shall forever become subject to your will (_vaśagā bhaviṣyati_)!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -302,8 +302,8 @@ only will get the kingdom. Listen to it!"
 
 <details><summary>मूलम्</summary>
 
-किं न स्मरसि कैकेयि स्मरन्ती वा निगूहसे ।  
-यदुच्यमानमात्मार्थं मत्तस्त्वं श्रोतुमिच्छसि ॥ ६ ॥
+[^non-baroDa-CE] किं न स्मरसि कैकेयि स्मरन्ती वा निगूहसे ।  
+[^non-baroDa-CE] यदुच्यमानमात्मार्थं मत्तस्त्वं श्रोतुमिच्छसि ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -356,8 +356,8 @@ Rising slightly from her sumptuous couch, Kaikeyī bids Mantharā speak, and the
 
 <details><summary>मूलम्</summary>
 
-मयोच्यमानं यदि ते श्रोतुं छन्दो विलासिनि ।  
-श्रूयतामभिधास्यामि श्रुत्वा चैतद् विधीयताम् ॥ ७ ॥
+[^non-baroDa-CE] मयोच्यमानं यदि ते श्रोतुं छन्दो विलासिनि ।  
+[^non-baroDa-CE] श्रूयतामभिधास्यामि श्रुत्वा चैतद् विधीयताम् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -881,10 +881,10 @@ all the celestials and conferred battle upon Devendra."
 <details><summary>मूलम्</summary>
 
 तस्मिन् महति सङ्ग्रामे पुरुषान् क्षतविक्षतान् ।  
-रात्रौ प्रसुप्तान् घ्नन्ति स्म तरसापास्य राक्षसाः ॥ १४ ॥
+[^non-baroDa-CE] रात्रौ प्रसुप्तान् घ्नन्ति स्म तरसापास्य राक्षसाः ॥ १४ ॥
 _________________
 तस्मिन्ममहति सङ्ग्रामे पुरुषान् क्षतविक्षतान् ।  
-रात्रौ प्रसुप्तान् घ्नन्ति स्म तरसापास्य राक्षसाः ॥
+[^non-baroDa-CE] रात्रौ प्रसुप्तान् घ्नन्ति स्म तरसापास्य राक्षसाः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -940,10 +940,10 @@ In that mighty battle, Rākṣasas violently dragged away (_tarasāpāsya_) the 
 
 <details><summary>मूलम्</summary>
 
-तत्राकरोन्महायुद्धं राजा दशरथस्तदा ।  
-असुरैश्च महाबाहुः शस्त्रैश्च शकलीकृतः ॥ १५ ॥
+[^non-baroDa-CE] तत्राकरोन्महायुद्धं राजा दशरथस्तदा ।  
+[^non-baroDa-CE] असुरैश्च महाबाहुः शस्त्रैश्च शकलीकृतः ॥ १५ ॥
 _________________
-तत्राकरोन्महायुद्धं राजा दशरथस्तदा ।  
+[^non-baroDa-CE] तत्राकरोन्महायुद्धं राजा दशरथस्तदा ।  
 असुरैश्च महाबाहुः शस्त्रॆೖश्च शकलीकृतः ॥
 </details>
 
@@ -1105,7 +1105,7 @@ Mantharā instructs Kaikeyī to demand Bharata's consecration and Rāma's fourte
 
 <details><summary>मूलम्</summary>
 
-कथैषा तव तु स्नेहान्मनसा धार्यते मया ।  
+[^non-baroDa-CE] कथैषा तव तु स्नेहान्मनसा धार्यते मया ।  
 रामाभिषेकसम्भारान्निगृह्य विनिवर्तय ॥ १९ ॥
 </details>
 
@@ -1206,8 +1206,8 @@ Beg of your husband those two boons: the consecration of Bharata (_bharatasyābh
 
 <details><summary>मूलम्</summary>
 
-चतुर्दश हि वर्षाणि रामे प्रव्राजिते वनम् ।  
-प्रजाभावगतस्नेहः स्थिरः पुत्रो भविष्यति ॥ २१ ॥
+[^non-baroDa-CE] चतुर्दश हि वर्षाणि रामे प्रव्राजिते वनम् ।  
+[^non-baroDa-CE] प्रजाभावगतस्नेहः स्थिरः पुत्रो भविष्यति ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1306,7 +1306,7 @@ Entering the chamber of wrath (_krodhāgāram_) today as though enraged, O daugh
 <details><summary>मूलम्</summary>
 
 मा स्मैनं प्रत्युदीक्षेथा मा चैनमभिभाषथाः ।  
-रुदन्ती पार्थिवं दृष्ट्वा जगत्यां शोकलालसा ॥ २३ ॥
+[^non-baroDa-CE] रुदन्ती पार्थिवं दृष्ट्वा जगत्यां शोकलालसा ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1739,8 +1739,8 @@ Mantharā argues that fourteen years of exile will render Rāma forgotten while 
 
 <details><summary>मूलम्</summary>
 
-चतुर्दश हि वर्षाणि रामे प्रव्राजिते वनम् ।  
-रूढश्च कृतमूलश्च शेषं स्थास्यति ते सुतः ॥ ३१ ॥
+[^non-baroDa-CE] चतुर्दश हि वर्षाणि रामे प्रव्राजिते वनम् ।  
+[^non-baroDa-CE] रूढश्च कृतमूलश्च शेषं स्थास्यति ते सुतः ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1791,8 +1791,8 @@ having laid his roots and will stay in power for the remaining period.
 
 <details><summary>मूलम्</summary>
 
-रामप्रव्राजनं चैव देवि याचस्व तं वरम् ।  
-एवं सेत्स्यन्ति पुत्रस्य सर्वार्थास्तव कामिनि ॥ ३२ ॥
+[^non-baroDa-CE] रामप्रव्राजनं चैव देवि याचस्व तं वरम् ।  
+[^non-baroDa-CE] एवं सेत्स्यन्ति पुत्रस्य सर्वार्थास्तव कामिनि ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2006,8 +2006,8 @@ Straying from the righteous path like an unbroken filly, the deluded Kaikeyī ex
 
 अनर्थमर्थरूपेण ग्राहिता सा ततस्तया ॥ ३६ ॥  
 हृष्टा प्रतीता कैकेयी मन्थरामिदमब्रवीत् ।  
-सा हि वाक्येन कुब्जायाः किशोरीवोत्पथं गता ॥ ३७ ॥  
-कैकेयी विस्मयं प्राप्य परं परमदर्शना ।
+[^non-baroDa-CE] सा हि वाक्येन कुब्जायाः किशोरीवोत्पथं गता ॥ ३७ ॥  
+[^non-baroDa-CE] कैकेयी विस्मयं प्राप्य परं परमदर्शना ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2259,7 +2259,7 @@ you, however, are lovely to behold, gracefully bent like a lotus by the wind (_p
 <details><summary>मूलम्</summary>
 
 अधस्ताच्चोदरं शान्तं सुनाभमिव लज्जितम् ।  
-प्रतिपूर्णं च जघनं सुपीनौ च पयोधरौ ॥ ४२ ॥
+[^non-baroDa-CE] प्रतिपूर्णं च जघनं सुपीनौ च पयोधरौ ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2318,7 +2318,7 @@ Kaikeyī extols Mantharā's hump as the repository of a thousand illusions and s
 
 <details><summary>मूलम्</summary>
 
-विमलेन्दुसमं वक्त्रमहो राजसि मन्थरे ।  
+[^non-baroDa-CE] विमलेन्दुसमं वक्त्रमहो राजसि मन्थरे ।  
 जघनं तव निर्मृष्टं रशनादामभूषितम् ॥ ४३ ॥
 </details>
 
@@ -2431,12 +2431,12 @@ Your shanks are firmly set (_jaṅghe bhṛśam upanyaste_) and both your feet a
 <details><summary>मूलम्</summary>
 
 आसन् याः शम्बरे मायाः सहस्रमसुराधिपे ॥ ४५ ॥  
-हृदये ते निविष्टास्ता भूयश्चान्याः सहस्रशः ।  
+[^non-baroDa-CE] हृदये ते निविष्टास्ता भूयश्चान्याः सहस्रशः ।  
 तदेव स्थगु यद् दीर्घं रथघोणमिवायतम् ॥ ४६ ॥  
 मतयः क्षत्रविद्याश्च मायाश्चात्र वसन्ति ते ।
 _________________
 आसन् याः शम्बरे मायाः सहस्रमसुराधिपे ॥
-हृदये ते निविष्टास्ताभूयश्चान्याः सहस्रशः ।  
+[^non-baroDa-CE] हृदये ते निविष्टास्ताभूयश्चान्याः सहस्रशः ।  
 तवेदं स्थगु युद्दीर्घं रथघोणमिवायतम् ॥  
 मतयः क्षत्रविद्याश्च मायाश्चात्र वसन्ति ते ।
 </details>
@@ -2950,8 +2950,8 @@ wire and spoke to Manthara as follows:
 
 इह वा मां मृतां कुब्जे नृपायावेदयिष्यसि ।  
 वनं तु राघवे प्राप्ते भरतः प्राप्स्यते क्षितिम् ॥ ५८ ॥  
-सुवर्णेन न मे ह्यर्थो न रत्नैर्न च भोजनैः ।  
-एष मे जीवितस्यान्तो रामो यद्यभिषिच्यते ॥ ५९ ॥
+[^non-baroDa-CE] सुवर्णेन न मे ह्यर्थो न रत्नैर्न च भोजनैः ।  
+[^non-baroDa-CE] एष मे जीवितस्यान्तो रामो यद्यभिषिच्यते ॥ ५९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3024,15 +3024,15 @@ anointed for the kingdom, the same day it will be the end of my life.
 
 <details><summary>मूलम्</summary>
 
-ततः पुनस्तां महिषीं महीक्षितो  
-वचोभिरत्यर्थमहापराक्रमैः ।  
-उवाच कुब्जा भरतस्य मातरं  
-हितं वचो राममुपेत्य चाहितम् ॥ ६० ॥
+[^non-baroDa-CE] ततः पुनस्तां महिषीं महीक्षितो  
+[^non-baroDa-CE] वचोभिरत्यर्थमहापराक्रमैः ।  
+[^non-baroDa-CE] उवाच कुब्जा भरतस्य मातरं  
+[^non-baroDa-CE] हितं वचो राममुपेत्य चाहितम् ॥ ६० ॥
 _________________
 अथो पुनस्तां महिषीं महीक्षितो  
-वचोभिरत्यर्थमहापराक्रमैः ।  
-उवाच कुब्जा भरतस्य मातरं  
-हितं वचो राममुपेत्य चाहितम् ॥
+[^non-baroDa-CE] वचोभिरत्यर्थमहापराक्रमैः ।  
+[^non-baroDa-CE] उवाच कुब्जा भरतस्य मातरं  
+[^non-baroDa-CE] हितं वचो राममुपेत्य चाहितम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3090,10 +3090,10 @@ Pierced repeatedly by Mantharā's word-arrows, Kaikeyī swears to spurn all luxu
 
 <details><summary>मूलम्</summary>
 
-प्रपत्स्यते राज्यमिदं हि राघवो  
-यदि ध्रुवं त्वं ससुता च तप्स्यसे ।  
-ततो हि कल्याणि यतस्व तत् तथा  
-यथा सुतस्ते भरतोऽभिषेक्ष्यते ॥ ६१ ॥
+[^non-baroDa-CE] प्रपत्स्यते राज्यमिदं हि राघवो  
+[^non-baroDa-CE] यदि ध्रुवं त्वं ससुता च तप्स्यसे ।  
+[^non-baroDa-CE] ततो हि कल्याणि यतस्व तत् तथा  
+[^non-baroDa-CE] यथा सुतस्ते भरतोऽभिषेक्ष्यते ॥ ६१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3150,14 +3150,14 @@ qualities! Hence you try for coronation of your son, Bharata
 
 <details><summary>मूलम्</summary>
 
-तथातिविद्धा महिषीति कुब्जया  
-समाहता वागिषुभिर्मुहुर्मुहुः ।  
+[^non-baroDa-CE] तथातिविद्धा महिषीति कुब्जया  
+[^non-baroDa-CE] समाहता वागिषुभिर्मुहुर्मुहुः ।  
 विधाय (/निधाय) हस्तौ हृदयेऽतिविस्मिता  
-शशंस कुब्जां कुपिता पुनः पुनः ॥ ६२ ॥
+[^non-baroDa-CE] शशंस कुब्जां कुपिता पुनः पुनः ॥ ६२ ॥
 _________________
-तथातिविद्धा महिषीति कुब्जया  
-समाहता वागिषुभिर्मुहुर्मुहुः ।  
-विधाय हस्तौ हृदयेऽतिविस्मिता  
+[^non-baroDa-CE] तथातिविद्धा महिषीति कुब्जया  
+[^non-baroDa-CE] समाहता वागिषुभिर्मुहुर्मुहुः ।  
+[^non-baroDa-CE] विधाय हस्तौ हृदयेऽतिविस्मिता  
 शशंसकुब्जाङ्कुपिता पुनः पुनः ॥
 </details>
 
@@ -3216,15 +3216,15 @@ Pierced deeply thus (_tathātividdhā_) by the hunchback and struck again and ag
 
 <details><summary>मूलम्</summary>
 
-यमस्य वा मां विषयं गतामितो  
+[^non-baroDa-CE] यमस्य वा मां विषयं गतामितो  
 निशाम्य कुब्जे प्रतिवेदयिष्यसि ।  
-वनं गते वा सुचिराय राघवे  
-समृद्धकामो भरतो भविष्यति ॥ ६३ ॥
+[^non-baroDa-CE] वनं गते वा सुचिराय राघवे  
+[^non-baroDa-CE] समृद्धकामो भरतो भविष्यति ॥ ६३ ॥
 _________________
-यमस्य वा मां विषयं गतामितो  
-निशम्य कुब्जे प्रतिवेदयिष्यसि ।  
-वनं गते वा सुचिराय राघवे  
-समृद्धकामो भरतो भविष्यति ॥
+[^non-baroDa-CE] यमस्य वा मां विषयं गतामितो  
+[^non-baroDa-CE] निशम्य कुब्जे प्रतिवेदयिष्यसि ।  
+[^non-baroDa-CE] वनं गते वा सुचिराय राघवे  
+[^non-baroDa-CE] समृद्धकामो भरतो भविष्यति ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3272,10 +3272,10 @@ garlands or sandal paste or eye-liner or drink or food or even the loaf here.
 
 <details><summary>मूलम्</summary>
 
-अहं हि नैवास्तरणानि न स्रजो  
-न चन्दनं नाञ्जनपानभोजनम् ।  
+[^non-baroDa-CE] अहं हि नैवास्तरणानि न स्रजो  
+[^non-baroDa-CE] न चन्दनं नाञ्जनपानभोजनम् ।  
 न किञ्चिदिच्छामि न चेह जीवनं  
-न चेदितो गच्छति राघवो वनम् ॥ ६४ ॥
+[^non-baroDa-CE] न चेदितो गच्छति राघवो वनम् ॥ ६४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3454,3 +3454,4 @@ Her face overspread by the darkness of surging wrath (_udīrṇasaṃrambhatamov
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

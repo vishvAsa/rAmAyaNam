@@ -527,7 +527,7 @@ in the chaiot of Indrajit.
 <details><summary>मूलम्</summary>
 
 तां निरीक्ष्य मुहूर्तं तु मैथिलीमध्यवस्य च ।  
-बभूवाचिरदृष्टा हि तेन सा जनकात्मजा ॥ ११ ॥
+[^non-baroDa-CE] बभूवाचिरदृष्टा हि तेन सा जनकात्मजा ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -840,7 +840,7 @@ Beholding her seized by the hair (_gṛhīta-mūrdhajām_), Hanūmān, the son o
 
 <details><summary>मूलम्</summary>
 
-तां दृष्ट्वा चारुसर्वाङ्गीं रामस्य महिषीं प्रियाम् ।  
+[^non-baroDa-CE] तां दृष्ट्वा चारुसर्वाङ्गीं रामस्य महिषीं प्रियाम् ।  
 अब्रवीत् परुषं वाक्यं क्रोधाद् रक्षोधिपात्मजम् ॥ १७ ॥
 </details>
 
@@ -1546,7 +1546,7 @@ Cloven by him along the path of the sacred thread (_yajñopavīta-mārgeṇa_), 
 
 तामिन्द्रजित् स्त्रियं हत्वा हनूमन्तमुवाच ह ।  
 मया रामस्य पश्येमां प्रियां शस्त्रनिषूदिताम् ।  
-एषा विशस्ता वैदेही निष्फलो वः परिश्रमः ॥ ३१ ॥
+[^non-baroDa-CE] एषा विशस्ता वैदेही निष्फलो वः परिश्रमः ॥ ३१ ॥
 _________________
 तामिन्द्र जित्स्त्रियं हत्वा हनूमन्त मुवाच ह ।  
 मया रामस्य पश्येमां प्रियां शस्त्र निषूदिताम् ।  
@@ -1735,3 +1735,4 @@ Having thus struck down Sītā, that evil-minded son of Rāvaṇa became thrille
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

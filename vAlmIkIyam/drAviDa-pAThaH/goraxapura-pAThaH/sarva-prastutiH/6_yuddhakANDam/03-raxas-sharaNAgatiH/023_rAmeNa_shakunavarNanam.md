@@ -42,8 +42,8 @@ Beholding ominous portents upon the southern shore—dusty gales, earthquakes, b
 
 <details><summary>मूलम्</summary>
 
-निमित्तानि निमित्तज्ञो दृष्ट्वा लक्ष्मणपूर्वजः ।  
-सौमित्रिं सम्परिष्वज्य इदं वचनमब्रवीत् ॥ १ ॥
+[^non-baroDa-CE] निमित्तानि निमित्तज्ञो दृष्ट्वा लक्ष्मणपूर्वजः ।  
+[^non-baroDa-CE] सौमित्रिं सम्परिष्वज्य इदं वचनमब्रवीत् ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -94,8 +94,8 @@ Beholding the portents (_nimittāni_), Lakṣmaṇa&#x27;s elder brother, who wa
 
 <details><summary>मूलम्</summary>
 
-परिगृह्योदकं शीतं वनानि फलवन्ति च ।  
-बलौघं संविभज्येमं व्यूह्य तिष्ठेम लक्ष्मण ॥ २ ॥
+[^non-baroDa-CE] परिगृह्योदकं शीतं वनानि फलवन्ति च ।  
+[^non-baroDa-CE] बलौघं संविभज्येमं व्यूह्य तिष्ठेम लक्ष्मण ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -142,10 +142,10 @@ array, we shall stand attentive."
 
 <details><summary>मूलम्</summary>
 
-लोकक्षयकरं भीमं भयं पश्याम्युपस्थितम् ।  
-प्रबर्हणं प्रवीराणामृक्षवानररक्षसाम् ॥ ३ ॥
+[^non-baroDa-CE] लोकक्षयकरं भीमं भयं पश्याम्युपस्थितम् ।  
+[^non-baroDa-CE] प्रबर्हणं प्रवीराणामृक्षवानररक्षसाम् ॥ ३ ॥
 _________________
-लोकक्षयकरं भीमं भयं पश्याम्युपस्थितम् ।  
+[^non-baroDa-CE] लोकक्षयकरं भीमं भयं पश्याम्युपस्थितम् ।  
 निबर्हणं प्रवीराणामृक्षवानरक्षसाम् ॥
 </details>
 
@@ -192,7 +192,7 @@ world, and torture to the eminent heroes among bears monkeys and demons."
 <details><summary>मूलम्</summary>
 
 वाताश्च कलुषा वान्ति कम्पते च वसुन्धरा ।  
-पर्वताग्राणि वेपन्ते पतन्ति च महीरुहाः ॥ ४ ॥
+[^non-baroDa-CE] पर्वताग्राणि वेपन्ते पतन्ति च महीरुहाः ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -244,7 +244,7 @@ and trees are falling down."
 <details><summary>मूलम्</summary>
 
 मेघाः क्रव्यादसङ्काशाः परुषाः परुषस्वनाः ।  
-क्रूराः क्रूरं प्रवर्षन्ति मिश्रं शोणितबिन्दुभिः ॥ ५ ॥
+[^non-baroDa-CE] क्रूराः क्रूरं प्रवर्षन्ति मिश्रं शोणितबिन्दुभिः ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -290,7 +290,7 @@ roaring and let loose dreadful showers mingled with drops of blood."
 <details><summary>मूलम्</summary>
 
 रक्तचन्दनसङ्काशा सन्ध्या परमदारुणा ।  
-ज्वलतः प्रपतत्येतदादित्यादग्निमण्डलम् ॥ ६ ॥
+[^non-baroDa-CE] ज्वलतः प्रपतत्येतदादित्यादग्निमण्डलम् ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -343,8 +343,8 @@ Beasts and birds howl toward the sun, a scorching moon and blood-red solar halo 
 
 <details><summary>मूलम्</summary>
 
-दीना दीनस्वराः क्रूराः सर्वतो मृगपक्षिणः ।  
-प्रत्यादित्यं विनर्दन्ति जनयन्तो महद्भयम् ॥ ७ ॥
+[^non-baroDa-CE] दीना दीनस्वराः क्रूराः सर्वतो मृगपक्षिणः ।  
+[^non-baroDa-CE] प्रत्यादित्यं विनर्दन्ति जनयन्तो महद्भयम् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -390,7 +390,7 @@ facing towards the sun in great fear."
 <details><summary>मूलम्</summary>
 
 रजन्यामप्रकाशस्तु सन्तापयति चन्द्रमाः ।  
-कृष्णरक्तांशुपर्यन्तो लोकक्षय इवोदितः ॥ ८ ॥
+[^non-baroDa-CE] कृष्णरक्तांशुपर्यन्तो लोकक्षय इवोदितः ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -435,8 +435,8 @@ invested with a black and red halo is tormenting the mind this night."
 
 <details><summary>मूलम्</summary>
 
-ह्रस्वो रूक्षोऽप्रशस्तश्च परिवेषस्तु लोहितः ।  
-आदित्ये विमले नीलं लक्ष्म लक्ष्मण दृश्यते ॥ ९ ॥
+[^non-baroDa-CE] ह्रस्वो रूक्षोऽप्रशस्तश्च परिवेषस्तु लोहितः ।  
+[^non-baroDa-CE] आदित्ये विमले नीलं लक्ष्म लक्ष्मण दृश्यते ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -487,8 +487,8 @@ diminished, dreary, inauspicious and coppery."
 
 <details><summary>मूलम्</summary>
 
-रजसा महता चापि नक्षत्राणि हतानि च ।  
-युगान्तमिव लोकानां पश्य शंसन्ति लक्ष्मण ॥ १० ॥
+[^non-baroDa-CE] रजसा महता चापि नक्षत्राणि हतानि च ।  
+[^non-baroDa-CE] युगान्तमिव लोकानां पश्य शंसन्ति लक्ष्मण ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -539,11 +539,11 @@ dissolution of the world."
 
 <details><summary>मूलम्</summary>
 
-काकाः श्येनास्तथा नीचा गृध्राः परिपतन्ति च ।  
-शिवाश्चाप्यशुभान् नादान् नदन्ति सुमहाभयान् ॥ ११ ॥
+[^non-baroDa-CE] काकाः श्येनास्तथा नीचा गृध्राः परिपतन्ति च ।  
+[^non-baroDa-CE] शिवाश्चाप्यशुभान् नादान् नदन्ति सुमहाभयान् ॥ ११ ॥
 _________________
 काकाः श्येनास्तथानीचागृध्राः नीचाः परिपतन्ति च ।  
-शिवाश्चाप्यशुभान् नादान् नदन्ति सुमहाभयान् ॥
+[^non-baroDa-CE] शिवाश्चाप्यशुभान् नादान् नदन्ति सुमहाभयान् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -596,8 +596,8 @@ Foretelling that the earth will soon be mired in flesh and blood, Rāma marches 
 
 <details><summary>मूलम्</summary>
 
-शैलैः शूलैश्च खड्गैश्च विमुक्तैः कपिराक्षसैः ।  
-भविष्यत्यावृता भूमिर्मांसशोणितकर्दमा ॥ १२ ॥
+[^non-baroDa-CE] शैलैः शूलैश्च खड्गैश्च विमुक्तैः कपिराक्षसैः ।  
+[^non-baroDa-CE] भविष्यत्यावृता भूमिर्मांसशोणितकर्दमा ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -648,8 +648,8 @@ swords hurled by monkeys and demons."
 
 <details><summary>मूलम्</summary>
 
-क्षिप्रमद्यैव दुर्धर्षां पुरीं रावणपालिताम् ।  
-अभियाम जवेनैव सर्वैर्हरिभिरावृताः ॥ १३ ॥
+[^non-baroDa-CE] क्षिप्रमद्यैव दुर्धर्षां पुरीं रावणपालिताम् ।  
+[^non-baroDa-CE] अभियाम जवेनैव सर्वैर्हरिभिरावृताः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -695,7 +695,7 @@ at a quick pace."
 <details><summary>मूलम्</summary>
 
 इत्येवमुक्त्वा धन्वी स रामः सङ्ग्रामधर्षणः ।  
-प्रतस्थे पुरतो रामो लङ्कामभिमुखो विभुः ॥ १४ ॥
+[^non-baroDa-CE] प्रतस्थे पुरतो रामो लङ्कामभिमुखो विभुः ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -741,8 +741,8 @@ Having spoken thus, that bow-wielding Rāma, the crusher of foes in battle (_sa�
 
 <details><summary>मूलम्</summary>
 
-सविभीषणसुग्रीवाः सर्वे ते वानरर्षभाः ।  
-प्रतस्थिरे विनर्दन्तो धृतानां द्विषतां वधे ॥ १५ ॥
+[^non-baroDa-CE] सविभीषणसुग्रीवाः सर्वे ते वानरर्षभाः ।  
+[^non-baroDa-CE] प्रतस्थिरे विनर्दन्तो धृतानां द्विषतां वधे ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -787,8 +787,8 @@ Together with Vibhīṣaṇa and Sugrīva (_savibhīṣaṇasugrīvāḥ_), all 
 
 <details><summary>मूलम्</summary>
 
-राघवस्य प्रियार्थं तु सुतरां वीर्यशालिनाम् ।  
-हरीणां कर्मचेष्टाभिस्तुतोष रघुनन्दनः ॥ १६ ॥
+[^non-baroDa-CE] राघवस्य प्रियार्थं तु सुतरां वीर्यशालिनाम् ।  
+[^non-baroDa-CE] हरीणां कर्मचेष्टाभिस्तुतोष रघुनन्दनः ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -834,3 +834,4 @@ And the delight of the Raghus (_raghunandanaḥ_) was exceedingly pleased (_tuto
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

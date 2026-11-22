@@ -47,8 +47,8 @@ Ascending the two-yojana plateau of Mount Suvela with Sugrīva and the monkey ho
 
 <details><summary>मूलम्</summary>
 
-ततो रामः सुवेलाग्रं योजनद्वयमण्डलम् ।  
-उपारोहत् ससुग्रीवो हरियूथैः समन्वितः ॥ १ ॥
+[^non-baroDa-CE] ततो रामः सुवेलाग्रं योजनद्वयमण्डलम् ।  
+[^non-baroDa-CE] उपारोहत् ससुग्रीवो हरियूथैः समन्वितः ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -87,9 +87,9 @@ Introducing the fortieth _sarga_ as the single combat of Sugrīva and Rāvaṇa 
 
 <details><summary>मूलम्</summary>
 
-स्थित्वा मुहूर्तं तत्रैव दिशो दश विलोकयन् ।  
-त्रिकूटशिखरे रम्ये निर्मितां विश्वकर्मणा ॥ २ ॥  
-ददर्श लङ्कां सुन्यस्तां रम्यकाननशोभिताम् ।
+[^non-baroDa-CE] स्थित्वा मुहूर्तं तत्रैव दिशो दश विलोकयन् ।  
+[^non-baroDa-CE] त्रिकूटशिखरे रम्ये निर्मितां विश्वकर्मणा ॥ २ ॥  
+[^non-baroDa-CE] ददर्श लङ्कां सुन्यस्तां रम्यकाननशोभिताम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -146,9 +146,9 @@ Standing right there for a _muhūrta_ and surveying the ten directions, [he behe
 
 <details><summary>मूलम्</summary>
 
-तस्य गोपुरशृङ्गस्थं राक्षसेन्द्रं दुरासदम् ॥ ३ ॥  
-श्वेतचामरपर्यन्तं विजयच्छत्रशोभितम् ।  
-रक्तचन्दनसंलिप्तं रत्नाभरणभूषितम् ॥ ४ ॥
+[^non-baroDa-CE] तस्य गोपुरशृङ्गस्थं राक्षसेन्द्रं दुरासदम् ॥ ३ ॥  
+[^non-baroDa-CE] श्वेतचामरपर्यन्तं विजयच्छत्रशोभितम् ।  
+[^non-baroDa-CE] रक्तचन्दनसंलिप्तं रत्नाभरणभूषितम् ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -189,7 +189,7 @@ On श्वेतचामरपर्यन्तम्, _Tilaka_ and _Śiroma
 <details><summary>मूलम्</summary>
 
 नीलजीमूतसङ्काशं हेमसञ्छादिताम्बरम् ।  
-ऐरावतविषाणाग्रैरुत्कृष्टकिणवक्षसम् ॥ ५ ॥
+[^non-baroDa-CE] ऐरावतविषाणाग्रैरुत्कृष्टकिणवक्षसम् ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -219,7 +219,7 @@ Resembling a dark rain-cloud, clad in gold-veiled raiments (_hema-saṃchāditā
 
 <details><summary>मूलम्</summary>
 
-शशलोहितरागेण संवीतं रक्तवाससा ।  
+[^non-baroDa-CE] शशलोहितरागेण संवीतं रक्तवाससा ।  
 सन्ध्यातपेन सञ्छन्नं मेघराशिमिवाम्बरे ॥ ६ ॥
 </details>
 
@@ -295,8 +295,8 @@ Incensed at the sight of Rāvaṇa, Sugrīva leaps unbidden from Mount Suvela on
 
 <details><summary>मूलम्</summary>
 
-पश्यतां वानरेन्द्राणां राघवस्यापि पश्यतः ।  
-दर्शनाद् राक्षसेन्द्रस्य सुग्रीवः सहसोत्थितः ॥ ७ ॥
+[^non-baroDa-CE] पश्यतां वानरेन्द्राणां राघवस्यापि पश्यतः ।  
+[^non-baroDa-CE] दर्शनाद् राक्षसेन्द्रस्य सुग्रीवः सहसोत्थितः ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -349,8 +349,8 @@ Govindarāja connects Sugrīva's sudden bound with his earlier pledge before Rā
 
 <details><summary>मूलम्</summary>
 
-क्रोधवेगेन संयुक्तः सत्त्वेन च बलेन च ।  
-अचलाग्रादथोत्थाय पुप्लुवे गोपुरस्थले ॥ ८ ॥
+[^non-baroDa-CE] क्रोधवेगेन संयुक्तः सत्त्वेन च बलेन च ।  
+[^non-baroDa-CE] अचलाग्रादथोत्थाय पुप्लुवे गोपुरस्थले ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -396,8 +396,8 @@ Filled with a surge of wrath, and endowed with courage (_sattvena_) and strength
 
 <details><summary>मूलम्</summary>
 
-स्थित्वा मुहूर्तं सम्प्रेक्ष्य निर्भयेनान्तरात्मना ।  
-तृणीकृत्य च तद् रक्षः सोऽब्रवीत् परुषं वचः ॥ ९ ॥
+[^non-baroDa-CE] स्थित्वा मुहूर्तं सम्प्रेक्ष्य निर्भयेनान्तरात्मना ।  
+[^non-baroDa-CE] तृणीकृत्य च तद् रक्षः सोऽब्रवीत् परुषं वचः ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -443,8 +443,8 @@ Pausing a _muhūrta_ and fixing him with his gaze, with a fearless inner spirit 
 
 <details><summary>मूलम्</summary>
 
-लोकनाथस्य रामस्य सखा दासोऽस्मि राक्षस ।  
-न मया मोक्ष्यसेऽद्य त्वं पार्थिवेन्द्रस्य तेजसा ॥ १० ॥
+[^non-baroDa-CE] लोकनाथस्य रामस्य सखा दासोऽस्मि राक्षस ।  
+[^non-baroDa-CE] न मया मोक्ष्यसेऽद्य त्वं पार्थिवेन्द्रस्य तेजसा ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -504,8 +504,8 @@ Reconciling the juxtaposed titles in सखा दासोऽस्मि, both
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा सहसोत्पत्य पुप्लुवे तस्य चोपरि ।  
-आकृष्य मुकुटं चित्रं पातयामास तद् भुवि ॥ ११ ॥
+[^non-baroDa-CE] इत्युक्त्वा सहसोत्पत्य पुप्लुवे तस्य चोपरि ।  
+[^non-baroDa-CE] आकृष्य मुकुटं चित्रं पातयामास तद् भुवि ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -557,11 +557,11 @@ Having spoken thus, springing up suddenly, he leaped right upon him; snatching a
 
 <details><summary>मूलम्</summary>
 
-समीक्ष्य तूर्णमायान्तं बभाषे तं निशाचरः ।  
-सुग्रीवस्त्वं परोक्षं मे हीनग्रीवो भविष्यसि ॥ १२ ॥
+[^non-baroDa-CE] समीक्ष्य तूर्णमायान्तं बभाषे तं निशाचरः ।  
+[^non-baroDa-CE] सुग्रीवस्त्वं परोक्षं मे हीनग्रीवो भविष्यसि ॥ १२ ॥
 _________________
 समीक्ष्य तूर्णमायान्त बभाषे तं निशाचरः ।  
-सुग्रीवस्त्वं परोक्षं मे हीनग्रीवो भविष्यसि ॥
+[^non-baroDa-CE] सुग्रीवस्त्वं परोक्षं मे हीनग्रीवो भविष्यसि ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -630,8 +630,8 @@ Hurled down by Rāvaṇa, Sugrīva rebounds like a ball and grapples the demon k
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वोत्थाय तं क्षिप्रं बाहुभ्यामाक्षिपत् तले ।  
-कन्दुवत् स समुत्थाय बाहुभ्यामाक्षिपद्धरिः ॥ १३ ॥
+[^non-baroDa-CE] इत्युक्त्वोत्थाय तं क्षिप्रं बाहुभ्यामाक्षिपत् तले ।  
+[^non-baroDa-CE] कन्दुवत् स समुत्थाय बाहुभ्यामाक्षिपद्धरिः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -687,10 +687,10 @@ On कन्दुवत् समुत्थाय, _Tilaka_ and _Bhūṣaṇa
 
 <details><summary>मूलम्</summary>
 
-परस्परं स्वेदविदिग्धगात्रौ  
-परस्परं शोणितरक्तदेहौ ।  
-परस्परं श्लिष्टनिरुद्धचेष्टौ  
-परस्परं शाल्मलिकिंशुकाविव ॥ १४ ॥
+[^non-baroDa-CE] परस्परं स्वेदविदिग्धगात्रौ  
+[^non-baroDa-CE] परस्परं शोणितरक्तदेहौ ।  
+[^non-baroDa-CE] परस्परं श्लिष्टनिरुद्धचेष्टौ  
+[^non-baroDa-CE] परस्परं शाल्मलिकिंशुकाविव ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -722,14 +722,14 @@ Their limbs mutually drenched with sweat, their bodies mutually crimsoned with b
 
 <details><summary>मूलम्</summary>
 
-मुष्टिप्रहारैश्च तलप्रहारै-  
-ररत्निघातैश्च कराग्रघातैः ।  
-तौ चक्रतुर्युद्धमसह्यरूपं  
-महाबलौ राक्षसवानरेन्द्रौ ॥ १५ ॥
+[^non-baroDa-CE] मुष्टिप्रहारैश्च तलप्रहारै-  
+[^non-baroDa-CE] ररत्निघातैश्च कराग्रघातैः ।  
+[^non-baroDa-CE] तौ चक्रतुर्युद्धमसह्यरूपं  
+[^non-baroDa-CE] महाबलौ राक्षसवानरेन्द्रौ ॥ १५ ॥
 _________________
-मुष्टिप्रहारैश्च तलप्रहारै  
-ररत्निघातैश्च कराग्रघातैः ।  
-तौ चक्रतुर्युद्धमसह्यरूपं  
+[^non-baroDa-CE] मुष्टिप्रहारैश्च तलप्रहारै  
+[^non-baroDa-CE] ररत्निघातैश्च कराग्रघातैः ।  
+[^non-baroDa-CE] तौ चक्रतुर्युद्धमसह्यरूपं  
 महाबलौ वानरराक्षसेन्द्रौ ॥
 </details>
 
@@ -785,10 +785,10 @@ With blows of their fists, slaps of their palms, strikes of their cubits (_aratn
 
 <details><summary>मूलम्</summary>
 
-कृत्वा नियुद्धं भृशमुग्रवेगौ  
-कालं चिरं गोपुरवेदिमध्ये ।  
-उत्क्षिप्य चोत्क्षिप्य विनम्य देहौ  
-पादक्रमाद् गोपुरवेदिलग्नौ ॥ १६ ॥
+[^non-baroDa-CE] कृत्वा नियुद्धं भृशमुग्रवेगौ  
+[^non-baroDa-CE] कालं चिरं गोपुरवेदिमध्ये ।  
+[^non-baroDa-CE] उत्क्षिप्य चोत्क्षिप्य विनम्य देहौ  
+[^non-baroDa-CE] पादक्रमाद् गोपुरवेदिलग्नौ ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -846,15 +846,15 @@ Glossing नियुद्धम् as bare-armed wrestling (बाहुयु
 
 <details><summary>मूलम्</summary>
 
-अन्योन्यमापीड्य विलग्नदेहौ  
-तौ पेततुः सालनिखातमध्ये ।  
-उत्पेततुर्भूमितलं स्पृशन्तौ  
-स्थित्वा मुहूर्तं त्वभिनिःश्वसन्तौ ॥ १७ ॥
+[^non-baroDa-CE] अन्योन्यमापीड्य विलग्नदेहौ  
+[^non-baroDa-CE] तौ पेततुः सालनिखातमध्ये ।  
+[^non-baroDa-CE] उत्पेततुर्भूमितलं स्पृशन्तौ  
+[^non-baroDa-CE] स्थित्वा मुहूर्तं त्वभिनिःश्वसन्तौ ॥ १७ ॥
 _________________
-अन्योन्यमापीड्य विलग्नदेहौ  
-तौ पेततुः सालनिखातमध्ये ।  
+[^non-baroDa-CE] अन्योन्यमापीड्य विलग्नदेहौ  
+[^non-baroDa-CE] तौ पेततुः सालनिखातमध्ये ।  
 उत्पेततुर्भूमितलंस्पशन्तौ  
-स्थित्वा मुहूर्तं त्वभिनिःश्वसन्तौ ॥
+[^non-baroDa-CE] स्थित्वा मुहूर्तं त्वभिनिःश्वसन्तौ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -928,15 +928,15 @@ Crushing each other with locked bodies, the two plunged down between the rampart
 
 <details><summary>मूलम्</summary>
 
-आलिङ्‍ग्य चालिङ्‍ग्य च बाहुयोक्त्रैः  
-संयोजयामासतुराहवे तौ ।  
-संरम्भशिक्षाबलसम्प्रयुक्तौ  
-सुचेरतुः सम्प्रति युद्धमार्गैः ॥ १८ ॥
+[^non-baroDa-CE] आलिङ्‍ग्य चालिङ्‍ग्य च बाहुयोक्त्रैः  
+[^non-baroDa-CE] संयोजयामासतुराहवे तौ ।  
+[^non-baroDa-CE] संरम्भशिक्षाबलसम्प्रयुक्तौ  
+[^non-baroDa-CE] सुचेरतुः सम्प्रति युद्धमार्गैः ॥ १८ ॥
 _________________
 आलिङ्ग्य चालिङ्ग्य च बाहुयोक्तैः  
-संयोजयामासतुराहवे तौ ।  
-संरम्भशिक्षाबलसम्प्रयुक्तौ  
-सुचेरतुः सम्प्रति युद्धमार्गैः ॥
+[^non-baroDa-CE] संयोजयामासतुराहवे तौ ।  
+[^non-baroDa-CE] संरम्भशिक्षाबलसम्प्रयुक्तौ  
+[^non-baroDa-CE] सुचेरतुः सम्प्रति युद्धमार्गैः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1010,10 +1010,10 @@ Like young lions, rutting elephants, and stalking cats, the two unwearied combat
 
 <details><summary>मूलम्</summary>
 
-शार्दूलसिंहाविव जातदंष्ट्रौ  
-गजेन्द्रपोताविव सम्प्रयुक्तौ ।  
-संहत्य संवेद्य च तौ कराभ्यां  
-तौ पेततुर्वै युगपद् धरायाम् ॥ १९ ॥
+[^non-baroDa-CE] शार्दूलसिंहाविव जातदंष्ट्रौ  
+[^non-baroDa-CE] गजेन्द्रपोताविव सम्प्रयुक्तौ ।  
+[^non-baroDa-CE] संहत्य संवेद्य च तौ कराभ्यां  
+[^non-baroDa-CE] तौ पेततुर्वै युगपद् धरायाम् ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1079,15 +1079,15 @@ On जातदंष्ट्रौ and गजेन्द्रपोतौ, _
 
 <details><summary>मूलम्</summary>
 
-उद्यम्य चान्योन्यमधिक्षिपन्तौ  
+[^non-baroDa-CE] उद्यम्य चान्योन्यमधिक्षिपन्तौ  
 सञ्चक्रमाते बहु युद्धमार्गे ।  
-व्यायामशिक्षाबलसम्प्रयुक्तौ  
-क्लमं न तौ जग्मतुराशु वीरौ ॥ २० ॥
+[^non-baroDa-CE] व्यायामशिक्षाबलसम्प्रयुक्तौ  
+[^non-baroDa-CE] क्लमं न तौ जग्मतुराशु वीरौ ॥ २० ॥
 _________________
-उद्यम्य चान्योन्यमधिक्षिपन्तौ  
+[^non-baroDa-CE] उद्यम्य चान्योन्यमधिक्षिपन्तौ  
 सञ्चक्रमाते बहु युद्दमार्गे ।  
-व्यायाम शिक्षाबल सम्प्रयुक्तौ  
-क्लमं न तौ जग्मतुराशु वीरौ ॥
+[^non-baroDa-CE] व्यायाम शिक्षाबल सम्प्रयुक्तौ  
+[^non-baroDa-CE] क्लमं न तौ जग्मतुराशु वीरौ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1135,13 +1135,13 @@ Lifting and hurling each other down, they moved through many a course of combat;
 
 <details><summary>मूलम्</summary>
 
-बाहूत्तमैर्वारणवारणाभै-  
-र्निवारयन्तौ परवारणाभौ ।  
-चिरेण कालेन भृशं प्रयुद्धौ  
+[^non-baroDa-CE] बाहूत्तमैर्वारणवारणाभै-  
+[^non-baroDa-CE] र्निवारयन्तौ परवारणाभौ ।  
+[^non-baroDa-CE] चिरेण कालेन भृशं प्रयुद्धौ  
 सञ्चेरतुर्मण्डलमार्गमाशु ॥ २१ ॥
 _________________
-बाहूत्तमैर्वारणवारणाभै  
-र्निवारयन्तौ परवारणाभौ ।  
+[^non-baroDa-CE] बाहूत्तमैर्वारणवारणाभै  
+[^non-baroDa-CE] र्निवारयन्तौ परवारणाभौ ।  
 चिरेण कालेन भृशं प्रयद्धौ  
 सञ्चेरतुर्मण्डल मार्गमाशु ॥
 </details>
@@ -1198,8 +1198,8 @@ Warding each other off with their superb arms that resembled elephant trunks (_v
 
 <details><summary>मूलम्</summary>
 
-तौ परस्परमासाद्य यत्तावन्योन्यसूदने ।  
-मार्जाराविव भक्षार्थेऽवतस्थाते मुहुर्मुहुः ॥ २२ ॥
+[^non-baroDa-CE] तौ परस्परमासाद्य यत्तावन्योन्यसूदने ।  
+[^non-baroDa-CE] मार्जाराविव भक्षार्थेऽवतस्थाते मुहुर्मुहुः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1252,8 +1252,8 @@ Glossing मार्जाराविव भक्षार्थेऽवत�
 
 <details><summary>मूलम्</summary>
 
-मण्डलानि विचित्राणि स्थानानि विविधानि च ।  
-गोमूत्रकाणि चित्राणि गतप्रत्यागतानि च ॥ २३ ॥
+[^non-baroDa-CE] मण्डलानि विचित्राणि स्थानानि विविधानि च ।  
+[^non-baroDa-CE] गोमूत्रकाणि चित्राणि गतप्रत्यागतानि च ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1307,12 +1307,12 @@ Perceiving that exhausted Rāvaṇa is about to resort to conjuring tricks, vict
 
 <details><summary>मूलम्</summary>
 
-तिरश्चीनगतान्येव तथा वक्रगतानि च ।  
-परिमोक्षं प्रहाराणां वर्जनं परिधावनम् ॥ २४ ॥  
-अभिद्रवणमाप्लावमवस्थानं सविग्रहम् ।  
-परावृत्तमपावृत्तमपद्रुतमवप्लुतम् ॥ २५ ॥  
-उपन्यस्तमपन्यस्तं युद्धमार्गविशारदौ ।  
-तौ विचेरतुरन्योन्यं वानरेन्द्रश्च रावणः ॥ २६ ॥
+[^non-baroDa-CE] तिरश्चीनगतान्येव तथा वक्रगतानि च ।  
+[^non-baroDa-CE] परिमोक्षं प्रहाराणां वर्जनं परिधावनम् ॥ २४ ॥  
+[^non-baroDa-CE] अभिद्रवणमाप्लावमवस्थानं सविग्रहम् ।  
+[^non-baroDa-CE] परावृत्तमपावृत्तमपद्रुतमवप्लुतम् ॥ २५ ॥  
+[^non-baroDa-CE] उपन्यस्तमपन्यस्तं युद्धमार्गविशारदौ ।  
+[^non-baroDa-CE] तौ विचेरतुरन्योन्यं वानरेन्द्रश्च रावणः ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1385,10 +1385,10 @@ Concluding the catalogue of martial movements, _Tilaka_, _Śiromaṇi_, and _Bh�
 
 <details><summary>मूलम्</summary>
 
-एतस्मिन्नन्तरे रक्षो मायाबलमथात्मनः ।  
-आरब्धुमुपसम्पेदे ज्ञात्वा तं वानराधिपः ॥ २७ ॥  
-उत्पपात तदाऽऽकाशं जितकाशी जितक्लमः ।  
-रावणः स्थित एवात्र हरिराजेन वञ्चितः ॥ २८ ॥
+[^non-baroDa-CE] एतस्मिन्नन्तरे रक्षो मायाबलमथात्मनः ।  
+[^non-baroDa-CE] आरब्धुमुपसम्पेदे ज्ञात्वा तं वानराधिपः ॥ २७ ॥  
+[^non-baroDa-CE] उत्पपात तदाऽऽकाशं जितकाशी जितक्लमः ।  
+[^non-baroDa-CE] रावणः स्थित एवात्र हरिराजेन वञ्चितः ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1458,13 +1458,13 @@ Rāma Varmā notes that Rāvaṇa turns to illusion (मायाबलम्) o
 <details><summary>मूलम्</summary>
 
 अथ हरिवरनाथः प्राप्तसङ्ग्रामकीर्ति-  
-र्निशिचरपतिमाजौ योजयित्वा श्रमेण ।  
-गगनमतिविशालं लङ्घयित्वार्कसूनु-  
-र्हरिगणबलमध्ये रामपार्श्वं जगाम ॥ २९ ॥
+[^non-baroDa-CE] र्निशिचरपतिमाजौ योजयित्वा श्रमेण ।  
+[^non-baroDa-CE] गगनमतिविशालं लङ्घयित्वार्कसूनु-  
+[^non-baroDa-CE] र्हरिगणबलमध्ये रामपार्श्वं जगाम ॥ २९ ॥
 _________________
 अथ हरिवरनाथः प्राप्तसङ्ग्रामकीर्ति  
-र्निशिचरपतिमाजौ योजयित्वा श्रमेण ।  
-गगनमतिविशालं लङ्घयित्वार्कसूनु  
+[^non-baroDa-CE] र्निशिचरपतिमाजौ योजयित्वा श्रमेण ।  
+[^non-baroDa-CE] गगनमतिविशालं लङ्घयित्वार्कसूनु  
 र्हरिगणमध्ये रामपार्श्वं जगाम ॥
 </details>
 
@@ -1531,10 +1531,10 @@ While _Tilaka_ notes the _ārṣa_ form निशिचरपतिम् (न�
 
 <details><summary>मूलम्</summary>
 
-इति स सवितृसूनुस्तत्र तत् कर्म कृत्वा  
-पवनगतिरनीकं प्राविशत् सम्प्रहृष्टः ।  
-रघुवरनृपसूनोर्वर्धयन् युद्धहर्षं  
-तरुमृगगणमुख्यैः पूज्यमानो हरीन्द्रः ॥ ३० ॥
+[^non-baroDa-CE] इति स सवितृसूनुस्तत्र तत् कर्म कृत्वा  
+[^non-baroDa-CE] पवनगतिरनीकं प्राविशत् सम्प्रहृष्टः ।  
+[^non-baroDa-CE] रघुवरनृपसूनोर्वर्धयन् युद्धहर्षं  
+[^non-baroDa-CE] तरुमृगगणमुख्यैः पूज्यमानो हरीन्द्रः ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1585,3 +1585,5 @@ honoured by the monkey leaders and delighted, rejoined the army.
 Having thus accomplished that feat there, the son of Savitṛ, swift as the wind, entered the army filled with joy, heightening the battle-ardor of the prince of the Raghu race and honored by the chiefs of the tree-coursing hosts.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

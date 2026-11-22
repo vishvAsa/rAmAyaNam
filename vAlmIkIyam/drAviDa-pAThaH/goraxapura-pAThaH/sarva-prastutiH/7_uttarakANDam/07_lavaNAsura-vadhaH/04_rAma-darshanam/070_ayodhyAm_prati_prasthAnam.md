@@ -382,7 +382,7 @@ The fields teemed with crops (_kṣetrāṇi sasya-yuktāni_), Indra rained in d
 
 अर्धचन्द्रप्रतीकाशा यमुनातीरशोभिता ।  
 शोभिता गृहमुख्यैश्च चत्वरापणवीथिकैः ।  
-चातुर्वर्ण्यसमायुक्ता नानावाणिज्यशोभिता ॥ ११ ॥
+[^non-baroDa-CE] चातुर्वर्ण्यसमायुक्ता नानावाणिज्यशोभिता ॥ ११ ॥
 _________________
 ततो बाणमयं वर्षं व्यसृजद्राक्षसोपरि ।  
 शत्रुघ्नो वीर्यसम्पन्नो विव्यथे न स राक्षसः ॥
@@ -415,8 +415,8 @@ Shaped like a crescent moon (_ardhacandra-pratīkāśā_) and graced by the bank
 
 <details><summary>मूलम्</summary>
 
-यच्च तेन पुरा शुभ्रं लवणेन कृतं महत् ।  
-तच्छोभयति शत्रुघ्नो नानावर्णोपशोभिताम् ॥ १२ ॥
+[^non-baroDa-CE] यच्च तेन पुरा शुभ्रं लवणेन कृतं महत् ।  
+[^non-baroDa-CE] तच्छोभयति शत्रुघ्नो नानावर्णोपशोभिताम् ॥ १२ ॥
 _________________
 ततः प्रहस्य लवणो वृक्षमुद्यम्य वीर्यवान् ।  
 शिरस्यभ्यहनच्छूरं स्रस्ताङ्गः स मुमोह वै ॥
@@ -491,7 +491,7 @@ Resplendent on all sides with pleasure-groves and recreation grounds (_ārāmai�
 
 <details><summary>मूलम्</summary>
 
-तां पुरीं दिव्यसङ्काशां नानापण्योपशोभिताम् ।  
+[^non-baroDa-CE] तां पुरीं दिव्यसङ्काशां नानापण्योपशोभिताम् ।  
 नानादेशगतैश्चापि वणिग्भिरुपशोभिताम् ॥ १४ ॥
 _________________
 तमवज्ञाय तु हतं शत्रुघ्नं भुवि पातितम् ।  
@@ -590,10 +590,10 @@ Having settled the city of Mathurā (_niveśya madhurāṃ purīm_), this though
 
 <details><summary>मूलम्</summary>
 
-ततः स ताममरपुरोपमां पुरीं  
-निवेश्य वै विविधजनाभिसंवृताम् ।  
-नराधिपो रघुपतिपाददर्शने  
-दधे मतिं रघुकुलवंशवर्धनः ॥ १७ ॥
+[^non-baroDa-CE] ततः स ताममरपुरोपमां पुरीं  
+[^non-baroDa-CE] निवेश्य वै विविधजनाभिसंवृताम् ।  
+[^non-baroDa-CE] नराधिपो रघुपतिपाददर्शने  
+[^non-baroDa-CE] दधे मतिं रघुकुलवंशवर्धनः ॥ १७ ॥
 _________________
 ततो दिव्यममोघं तञ्जग्राह शरमुत्तमम् ।  
 ज्वलन्तं तेजसा घोरं पूरयन्तन्दिशो दश ॥
@@ -627,3 +627,4 @@ Then, having indeed established that city rivaling the capital of the immortals 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

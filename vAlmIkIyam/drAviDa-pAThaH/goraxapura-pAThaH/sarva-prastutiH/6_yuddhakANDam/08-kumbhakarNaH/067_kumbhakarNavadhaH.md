@@ -426,8 +426,8 @@ Recovering their breath with difficulty (_kṛcchreṇa_) and rallying from ever
 
 <details><summary>मूलम्</summary>
 
-ततः पर्वतमुत्पाट्य द्विविदः प्लवगर्षभः ।  
-दुद्राव गिरिशृङ्गाभं विलम्ब इव तोयदः ॥ ९ ॥
+[^non-baroDa-CE] ततः पर्वतमुत्पाट्य द्विविदः प्लवगर्षभः ।  
+[^non-baroDa-CE] दुद्राव गिरिशृङ्गाभं विलम्ब इव तोयदः ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -472,8 +472,8 @@ Then Dvivida, foremost of leapers (_plavagarṣabhaḥ_), tore up a mountain pea
 
 <details><summary>मूलम्</summary>
 
-तं समुत्पाट्य चिक्षेप कुम्भकर्णाय वानरः ।  
-तमप्राप्य महाकायं तस्य सैन्येऽपतत् ततः ॥ १० ॥
+[^non-baroDa-CE] तं समुत्पाट्य चिक्षेप कुम्भकर्णाय वानरः ।  
+[^non-baroDa-CE] तमप्राप्य महाकायं तस्य सैन्येऽपतत् ततः ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -525,8 +525,8 @@ Plucking it up, the monkey hurled it at Kumbhakarṇa; failing to reach that col
 
 <details><summary>मूलम्</summary>
 
-ममर्दाश्वान् गजांश्चापि रथांश्चापि गजोत्तमान् ।  
-तानि चान्यानि रक्षांसि एवं चान्य‍द‍‍‍्गिरेः शिरः ॥ ११ ॥
+[^non-baroDa-CE] ममर्दाश्वान् गजांश्चापि रथांश्चापि गजोत्तमान् ।  
+[^non-baroDa-CE] तानि चान्यानि रक्षांसि एवं चान्य‍द‍‍‍्गिरेः शिरः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -562,8 +562,8 @@ It crushed horses, elephants, and chariots—along with the finest elephants and
 
 <details><summary>मूलम्</summary>
 
-तच्छैलवेगाभिहतं हताश्वं हतसारथिम् ।  
-रक्षसां रुधिरक्लिन्नं बभूवायोधनं महत् ॥ १२ ॥
+[^non-baroDa-CE] तच्छैलवेगाभिहतं हताश्वं हतसारथिम् ।  
+[^non-baroDa-CE] रक्षसां रुधिरक्लिन्नं बभूवायोधनं महत् ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -622,8 +622,8 @@ After Kumbhakarṇa shatters the boulders and trees rained down from the sky by 
 
 <details><summary>मूलम्</summary>
 
-रथिनो वानरेन्द्राणां शरैः कालान्तकोपमैः ।  
-शिरांसि नर्दतां जह्रुः सहसा भीमनिःस्वनाः ॥ १३ ॥
+[^non-baroDa-CE] रथिनो वानरेन्द्राणां शरैः कालान्तकोपमैः ।  
+[^non-baroDa-CE] शिरांसि नर्दतां जह्रुः सहसा भीमनिःस्वनाः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -653,8 +653,8 @@ With arrows resembling Time the Destroyer (_kālāntakopamaiḥ_), the chariot-w
 
 <details><summary>मूलम्</summary>
 
-वानराश्च महात्मानः समुत्पाट्य महाद्रुमान् ।  
-रथानश्वान् गजानुष्ट्रान् राक्षसानभ्यसूदयन् ॥ १४ ॥
+[^non-baroDa-CE] वानराश्च महात्मानः समुत्पाट्य महाद्रुमान् ।  
+[^non-baroDa-CE] रथानश्वान् गजानुष्ट्रान् राक्षसानभ्यसूदयन् ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1100,7 +1100,7 @@ Seeing him distressed (_vyathitam_), the rākṣasa hosts suddenly roared in jub
 
 <details><summary>मूलम्</summary>
 
-ततस्तु नीलो बलवान् पर्यवस्थापयन् बलम् ।  
+[^non-baroDa-CE] ततस्तु नीलो बलवान् पर्यवस्थापयन् बलम् ।  
 प्रविचिक्षेप शैलाग्रं कुम्भकर्णाय धीमते ॥ २२ ॥
 </details>
 
@@ -1410,7 +1410,7 @@ Squeezed by Kumbhakarṇa&#x27;s arms, the formidable Ṛṣabha, bull among mon
 
 मुष्टिना शरभं हत्वा जानुना नीलमाहवे ।  
 आजघान गवाक्षं तु तलेनेन्द्ररिपुस्तदा ।  
-पादेनाभ्यहनत् क्रुद्धस्तरसा गन्धमादनम् ॥ २८ ॥
+[^non-baroDa-CE] पादेनाभ्यहनत् क्रुद्धस्तरसा गन्धमादनम् ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2133,8 +2133,8 @@ Slaughtered in their multitudes by Kumbhakarṇa, the agonized and broken-hearte
 
 <details><summary>मूलम्</summary>
 
-प्रभग्नान् वानरान् दृष्ट्वा वज्रहस्तात्मजात्मजः ।  
-अभ्यधावत वेगेन कुम्भकर्णं महाहवे ॥ ४२ ॥
+[^non-baroDa-CE] प्रभग्नान् वानरान् दृष्ट्वा वज्रहस्तात्मजात्मजः ।  
+[^non-baroDa-CE] अभ्यधावत वेगेन कुम्भकर्णं महाहवे ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2194,9 +2194,9 @@ Aṅgada smashes a mountain peak onto Kumbhakarṇa's head, nimble-footedly dodg
 
 <details><summary>मूलम्</summary>
 
-शैलशृङ्गं महद् गृह्य विनदन् स मुहुर्मुहुः ।  
-त्रासयन् राक्षसान् सर्वान् कुम्भकर्णपदानुगान् ॥ ४३ ॥  
-चिक्षेप शैलशिखरं कुम्भकर्णस्य मूर्धनि ।
+[^non-baroDa-CE] शैलशृङ्गं महद् गृह्य विनदन् स मुहुर्मुहुः ।  
+[^non-baroDa-CE] त्रासयन् राक्षसान् सर्वान् कुम्भकर्णपदानुगान् ॥ ४३ ॥  
+[^non-baroDa-CE] चिक्षेप शैलशिखरं कुम्भकर्णस्य मूर्धनि ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2242,9 +2242,9 @@ Seizing a huge mountain peak and roaring again and again (_muhur muhuḥ_), he t
 
 <details><summary>मूलम्</summary>
 
-स तेनाभिहतो मूर्ध्नि शैलेनेन्द्ररिपुस्तदा ॥ ४४ ॥  
-कुम्भकर्णः प्रजज्वाल क्रोधेन महता तदा ।  
-सोऽभ्यधावत वेगेन वालिपुत्रममर्षणः ॥ ४५ ॥
+[^non-baroDa-CE] स तेनाभिहतो मूर्ध्नि शैलेनेन्द्ररिपुस्तदा ॥ ४४ ॥  
+[^non-baroDa-CE] कुम्भकर्णः प्रजज्वाल क्रोधेन महता तदा ।  
+[^non-baroDa-CE] सोऽभ्यधावत वेगेन वालिपुत्रममर्षणः ॥ ४५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2293,8 +2293,8 @@ demons following Kumbhakarna's heels, hurled the mountain-top on Kumbhakarna's h
 
 <details><summary>मूलम्</summary>
 
-कुम्भकर्णो महानादस्त्रासयन् सर्ववानरान् ।  
-शूलं ससर्ज वै रोषादङ्गदे तु महाबलः ॥ ४६ ॥
+[^non-baroDa-CE] कुम्भकर्णो महानादस्त्रासयन् सर्ववानरान् ।  
+[^non-baroDa-CE] शूलं ससर्ज वै रोषादङ्गदे तु महाबलः ॥ ४६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2340,8 +2340,8 @@ Roaring with a mighty bellow and terrifying all the monkeys, the powerful Kumbha
 
 <details><summary>मूलम्</summary>
 
-तदापतन्तं बलवान् युद्धमार्गविशारदः ।  
-लाघवान्मोक्षयामास बलवान् वानरर्षभः ॥ ४७ ॥
+[^non-baroDa-CE] तदापतन्तं बलवान् युद्धमार्गविशारदः ।  
+[^non-baroDa-CE] लाघवान्मोक्षयामास बलवान् वानरर्षभः ॥ ४७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2386,8 +2386,8 @@ Perceiving it hurtling toward him, the mighty bull among monkeys, skilled in the
 
 <details><summary>मूलम्</summary>
 
-उत्पत्य चैनं तरसा तलेनोरस्यताडयत् ।  
-स तेनाभिहतः कोपात् प्रमुमोहाचलोपमः ॥ ४८ ॥
+[^non-baroDa-CE] उत्पत्य चैनं तरसा तलेनोरस्यताडयत् ।  
+[^non-baroDa-CE] स तेनाभिहतः कोपात् प्रमुमोहाचलोपमः ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2497,7 +2497,7 @@ Regaining consciousness (_labdhasaṃjñaḥ_), that exceedingly mighty rākṣa
 <details><summary>मूलम्</summary>
 
 तस्मिन् प्लवगशार्दूले विसञ्ज्ञे पतिते भुवि ।  
-तच्छूलं समुपादाय सुग्रीवमभिदुद्रुवे ॥ ५० ॥
+[^non-baroDa-CE] तच्छूलं समुपादाय सुग्रीवमभिदुद्रुवे ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3224,8 +3224,8 @@ Placing that huge lance of black iron (_kālāyasam_), forged from a thousand _b
 
 <details><summary>मूलम्</summary>
 
-शूलं भग्नं हनुमता दृष्ट्वा वानरवाहिनी ।  
-हृष्टा ननाद बहुशः सर्वतश्चापि दुद्रुवे ॥ ६४ ॥
+[^non-baroDa-CE] शूलं भग्नं हनुमता दृष्ट्वा वानरवाहिनी ।  
+[^non-baroDa-CE] हृष्टा ननाद बहुशः सर्वतश्चापि दुद्रुवे ॥ ६४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3277,8 +3277,8 @@ Seeing the lance broken by Hanūmān, the monkey army roared repeatedly in joy a
 
 <details><summary>मूलम्</summary>
 
-बभूवाथ परित्रस्तो राक्षसो विमुखोऽभवत् ।  
-सिंहनादं च ते चक्रुः प्रहृष्टा वनगोचराः ।  
+[^non-baroDa-CE] बभूवाथ परित्रस्तो राक्षसो विमुखोऽभवत् ।  
+[^non-baroDa-CE] सिंहनादं च ते चक्रुः प्रहृष्टा वनगोचराः ।  
 मारुतिं पूजयाञ्चक्रुर्दृष्ट्वा शूलं तथागतम् ॥ ६५ ॥
 </details>
 
@@ -4275,7 +4275,7 @@ Then that Kumbhakarṇa entered Laṅkā carrying that struggling (_sphurantam_)
 
 <details><summary>मूलम्</summary>
 
-लाजगन्धोदवर्षैस्तु सेच्यमानः शनैः शनैः ।  
+[^non-baroDa-CE] लाजगन्धोदवर्षैस्तु सेच्यमानः शनैः शनैः ।  
 राजवीथ्यास्तु शीतत्वात् सञ्ज्ञां प्राप महाबलः ॥ ८३ ॥
 </details>
 
@@ -4666,8 +4666,8 @@ Bereft of ears and nose (_karṇanāsāvihīnaḥ_), the mighty Kumbhakarṇa, s
 
 <details><summary>मूलम्</summary>
 
-शोणितार्द्रो महाकायो राक्षसो भीमदर्शनः ।  
-युद्धायाभिमुखो भूयो मनश्चक्रे निशाचरः ॥ ९० ॥
+[^non-baroDa-CE] शोणितार्द्रो महाकायो राक्षसो भीमदर्शनः ।  
+[^non-baroDa-CE] युद्धायाभिमुखो भूयो मनश्चक्रे निशाचरः ॥ ९० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4726,7 +4726,7 @@ Crimsoned with blood like a twilight storm-cloud, Kumbhakarṇa seizes a dreadfu
 
 <details><summary>मूलम्</summary>
 
-अमर्षाच्छोणितोद‍्गारी शुशुभे रावणानुजः ।  
+[^non-baroDa-CE] अमर्षाच्छोणितोद‍्गारी शुशुभे रावणानुजः ।  
 नीलाञ्जनचयप्रख्यः ससन्ध्य इव तोयदः ॥ ९१ ॥
 </details>
 
@@ -4759,10 +4759,10 @@ Vomiting blood out of fury (_amarṣāt_), Rāvaṇa&#x27;s younger brother shon
 
 <details><summary>मूलम्</summary>
 
-गते च तस्मिन् सुरराजशत्रुः  
-क्रोधात् प्रदुद्राव रणाय भूयः ।  
-अनायुधोऽस्मीति विचिन्त्य रौद्रो  
-घोरं तदा मुद‍्गरमाससाद ॥ ९२ ॥
+[^non-baroDa-CE] गते च तस्मिन् सुरराजशत्रुः  
+[^non-baroDa-CE] क्रोधात् प्रदुद्राव रणाय भूयः ।  
+[^non-baroDa-CE] अनायुधोऽस्मीति विचिन्त्य रौद्रो  
+[^non-baroDa-CE] घोरं तदा मुद‍्गरमाससाद ॥ ९२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4883,15 +4883,15 @@ Then, sallying forth suddenly from the city, that rākṣasa Kumbhakarṇa of mi
 प्रविश्य तद् वानरसैन्यमुग्रम् ।  
 चखाद रक्षांसि हरीन् पिशाचा-  
 न्नृक्षांश्च मोहाद् युधि कुम्भकर्णः ।  
-यथैव मृत्युर्हरते युगान्ते  
-स भक्षयामास हरींश्च मुख्यान् ॥ ९४ ॥
+[^non-baroDa-CE] यथैव मृत्युर्हरते युगान्ते  
+[^non-baroDa-CE] स भक्षयामास हरींश्च मुख्यान् ॥ ९४ ॥
 _________________
 बुभुक्षितः शोणितमांसगृध्नुः  
 प्रविश्य तद् वानरसैन्यमुग्रम् ।  
 चखाद रक्षांसि हरीन्पिशाचा-  
 नृक्षांश्च मोहाद्युधि कुम्भकर्णः ।  
-यथैव मृत्युर्हरते युगान्ते  
-स भक्षयामास हरींश्च मुख्यान् ॥
+[^non-baroDa-CE] यथैव मृत्युर्हरते युगान्ते  
+[^non-baroDa-CE] स भक्षयामास हरींश्च मुख्यान् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5065,7 +5065,7 @@ Draped in knotted garlands of entrails as terrified monkeys flee to Rāma for re
 <details><summary>मूलम्</summary>
 
 ते भक्ष्यमाणा हरयो रामं जग्मुस्तदा गतिम् ।  
-कुम्भकर्णो भृशं क्रुद्धः कपीन् खादन् प्रधावति ॥ ९७ ॥
+[^non-baroDa-CE] कुम्भकर्णो भृशं क्रुद्धः कपीन् खादन् प्रधावति ॥ ९७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5116,11 +5116,11 @@ Being devoured, those monkeys then went to Rāma as their refuge (_gatim_); furi
 
 <details><summary>मूलम्</summary>
 
-शतानि सप्त चाष्टौ च विंशत् त्रिंशत् तथैव च ।  
-सम्परिष्वज्य बाहुभ्यां खादन् विपरिधावति ॥ ९८ ॥
+[^non-baroDa-CE] शतानि सप्त चाष्टौ च विंशत् त्रिंशत् तथैव च ।  
+[^non-baroDa-CE] सम्परिष्वज्य बाहुभ्यां खादन् विपरिधावति ॥ ९८ ॥
 _________________
 शतानि सप्त चाष्टौ च विंशत्रिं शत्तथैव च ।  
-सम्परिष्वज्य बाहुभ्यां खादन् विपरिधावति ॥
+[^non-baroDa-CE] सम्परिष्वज्य बाहुभ्यां खादन् विपरिधावति ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5168,15 +5168,15 @@ Sweeping up seven or eight hundred, or twenty or thirty in his arms (_sampariṣ
 
 <details><summary>मूलम्</summary>
 
-मेदोवसाशोणितदिग्धगात्रः  
-कर्णावसक्तग्रथितान्त्रमालः ।  
-ववर्ष शूलानि सुतीक्ष्णदंष्ट्रः  
-कालो युगान्तस्थ इव प्रवृद्धः ॥ ९९ ॥
+[^non-baroDa-CE] मेदोवसाशोणितदिग्धगात्रः  
+[^non-baroDa-CE] कर्णावसक्तग्रथितान्त्रमालः ।  
+[^non-baroDa-CE] ववर्ष शूलानि सुतीक्ष्णदंष्ट्रः  
+[^non-baroDa-CE] कालो युगान्तस्थ इव प्रवृद्धः ॥ ९९ ॥
 _________________
-मेदोवसा शोणित दिग्धगात्रः  
+[^non-baroDa-CE] मेदोवसा शोणित दिग्धगात्रः  
 कर्णावसक्तग्रधितान्त्रमालः ।  
-ववर्ष शूलानि सुतीक्ष्णदंष्ट्रः  
-कालोयुगान्तस्थ इव प्रवृद्धः ॥
+[^non-baroDa-CE] ववर्ष शूलानि सुतीक्ष्णदंष्ट्रः  
+[^non-baroDa-CE] कालोयुगान्तस्थ इव प्रवृद्धः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5331,8 +5331,8 @@ Valiant Lakṣmaṇa buried (_nicakhāna_) seven arrows into Kumbhakarṇa&#x27;
 
 <details><summary>मूलम्</summary>
 
-पीड्यमानस्तदस्त्रं तु विशेषं तत् स राक्षसः ।  
-ततश्चुकोप बलवान् सुमित्रानन्दवर्धनः ॥ १०२ ॥
+[^non-baroDa-CE] पीड्यमानस्तदस्त्रं तु विशेषं तत् स राक्षसः ।  
+[^non-baroDa-CE] ततश्चुकोप बलवान् सुमित्रानन्दवर्धनः ॥ १०२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5385,7 +5385,7 @@ Shrouding Kumbhakarṇa's golden armor in a storm of shafts, fearless Lakṣma�
 
 <details><summary>मूलम्</summary>
 
-अथास्य कवचं शुभ्रं जाम्बूनदमयं शुभम् ।  
+[^non-baroDa-CE] अथास्य कवचं शुभ्रं जाम्बूनदमयं शुभम् ।  
 प्रच्छादयामास शरैः सन्ध्याभ्रमिव मारुतः ॥ १०३ ॥
 </details>
 
@@ -5437,8 +5437,8 @@ Then with his arrows he [Lakṣmaṇa] covered his radiant, auspicious armor wro
 
 <details><summary>मूलम्</summary>
 
-नीलाञ्जनचयप्रख्यः शरैः काञ्चनभूषणैः ।  
-आपीड्यमानः शुशुभे मेघैः सूर्य इवांशुमान् ॥ १०४ ॥
+[^non-baroDa-CE] नीलाञ्जनचयप्रख्यः शरैः काञ्चनभूषणैः ।  
+[^non-baroDa-CE] आपीड्यमानः शुशुभे मेघैः सूर्य इवांशुमान् ॥ १०४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5490,8 +5490,8 @@ Resembling a heap of black collyrium, he [Kumbhakarṇa], being pierced all over
 
 <details><summary>मूलम्</summary>
 
-ततः स राक्षसो भीमः सुमित्रानन्दवर्धनम् ।  
-सावज्ञमेव प्रोवाच वाक्यं मेघौघनिःस्वनः ॥ १०५ ॥
+[^non-baroDa-CE] ततः स राक्षसो भीमः सुमित्रानन्दवर्धनम् ।  
+[^non-baroDa-CE] सावज्ञमेव प्रोवाच वाक्यं मेघौघनिःस्वनः ॥ १०५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5542,8 +5542,8 @@ Thereupon that terrible rākṣasa, whose voice rumbled like a multitude of clou
 
 <details><summary>मूलम्</summary>
 
-अन्तकस्याप्यकष्टेन युधि जेतारमाहवे ।  
-युध्यता मामभीतेन ख्यापिता वीरता त्वया ॥ १०६ ॥
+[^non-baroDa-CE] अन्तकस्याप्यकष्टेन युधि जेतारमाहवे ।  
+[^non-baroDa-CE] युध्यता मामभीतेन ख्यापिता वीरता त्वया ॥ १०६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5594,8 +5594,8 @@ following words disrespectfully to Lakshmana.
 
 <details><summary>मूलम्</summary>
 
-प्रगृहीतायुधस्येह मृत्योरिव महामृधे ।  
-तिष्ठन्नप्यग्रतः पूज्यः किमु युद्धप्रदायकः ॥ १०७ ॥
+[^non-baroDa-CE] प्रगृहीतायुधस्येह मृत्योरिव महामृधे ।  
+[^non-baroDa-CE] तिष्ठन्नप्यग्रतः पूज्यः किमु युद्धप्रदायकः ॥ १०७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5641,8 +5641,8 @@ even the lord of death effortlessly in a combat."
 
 <details><summary>मूलम्</summary>
 
-ऐरावतं समारूढो वृतः सर्वामरैः प्रभुः ।  
-नैव शक्रोऽपि समरे स्थितपूर्वः कदाचन ॥ १०८ ॥
+[^non-baroDa-CE] ऐरावतं समारूढो वृतः सर्वामरैः प्रभुः ।  
+[^non-baroDa-CE] नैव शक्रोऽपि समरे स्थितपूर्वः कदाचन ॥ १०८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5702,8 +5702,8 @@ Pleased by Lakṣmaṇa's youthful valor yet bent on slaying Rāma alone, Kumbha
 
 <details><summary>मूलम्</summary>
 
-अद्य त्वयाहं सौमित्रे बालेनापि पराक्रमैः ।  
-तोषितो गन्तुमिच्छामि त्वामनुज्ञाप्य राघवम् ॥ १०९ ॥
+[^non-baroDa-CE] अद्य त्वयाहं सौमित्रे बालेनापि पराक्रमैः ।  
+[^non-baroDa-CE] तोषितो गन्तुमिच्छामि त्वामनुज्ञाप्य राघवम् ॥ १०९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5755,8 +5755,8 @@ and accompanied by all celestials, did not ever stand before me in battle."
 
 <details><summary>मूलम्</summary>
 
-यत् तु वीर्यबलोत्साहैस्तोषितोऽहं रणे त्वया ।  
-राममेवैकमिच्छामि हन्तुं यस्मिन् हते हतम् ॥ ११० ॥
+[^non-baroDa-CE] यत् तु वीर्यबलोत्साहैस्तोषितोऽहं रणे त्वया ।  
+[^non-baroDa-CE] राममेवैकमिच्छामि हन्तुं यस्मिन् हते हतम् ॥ ११० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5807,11 +5807,11 @@ you, I desire to march forward towards Rama."
 
 <details><summary>मूलम्</summary>
 
-रामे मयात्र निहते येऽन्ये स्थास्यन्ति संयुगे ।  
-तानहं योधयिष्यामि स्वबलेन प्रमाथिना ॥ १११ ॥
+[^non-baroDa-CE] रामे मयात्र निहते येऽन्ये स्थास्यन्ति संयुगे ।  
+[^non-baroDa-CE] तानहं योधयिष्यामि स्वबलेन प्रमाथिना ॥ १११ ॥
 _________________
 रामे मयात्रि निहते येऽन्ये स्थास्यन्ति संयुगे ।  
-तानहं योधयिष्यामि स्वबलेन प्रमाथिना ॥
+[^non-baroDa-CE] तानहं योधयिष्यामि स्वबलेन प्रमाथिना ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5864,8 +5864,8 @@ killed."
 
 <details><summary>मूलम्</summary>
 
-इत्युक्तवाक्यं तद् रक्षः प्रोवाच स्तुतिसंहितम् ।  
-मृधे घोरतरं वाक्यं सौमित्रिः प्रहसन्निव ॥ ११२ ॥
+[^non-baroDa-CE] इत्युक्तवाक्यं तद् रक्षः प्रोवाच स्तुतिसंहितम् ।  
+[^non-baroDa-CE] मृधे घोरतरं वाक्यं सौमित्रिः प्रहसन्निव ॥ ११२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5911,13 +5911,13 @@ To that rākṣasa who had spoken thus in words mingled with praise (_stutisaṃ
 
 <details><summary>मूलम्</summary>
 
-यस्त्वं शक्रादिभिर्देवैरसह्यः प्राप्य पौरुषम् ।  
-तत् सत्यं नान्यथा वीर दृष्टस्तेऽद्य पराक्रमः ॥ ११३ ॥  
-एष दाशरथी रामस्तिष्ठत्यद्रिरिवाचलः ।
+[^non-baroDa-CE] यस्त्वं शक्रादिभिर्देवैरसह्यः प्राप्य पौरुषम् ।  
+[^non-baroDa-CE] तत् सत्यं नान्यथा वीर दृष्टस्तेऽद्य पराक्रमः ॥ ११३ ॥  
+[^non-baroDa-CE] एष दाशरथी रामस्तिष्ठत्यद्रिरिवाचलः ।
 _________________
 यत्त्वं शक्रादिभिर्देवै रसह्यं प्राप्य पौरुषम् ।  
-तत्सत्यं नान्यथा वीर दृष्टस्तेऽद्य पराक्रमः ॥  
-एष दाशरथी रामस्तिष्ठत्यद्रिरिवाचलः ।
+[^non-baroDa-CE] तत्सत्यं नान्यथा वीर दृष्टस्तेऽद्य पराक्रमः ॥  
+[^non-baroDa-CE] एष दाशरथी रामस्तिष्ठत्यद्रिरिवाचलः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5972,7 +5972,7 @@ Bypassing Lakṣmaṇa to charge Rāma, Kumbhakarṇa is struck in the chest by 
 
 <details><summary>मूलम्</summary>
 
-इति श्रुत्वा ह्यनादृत्य लक्ष्मणं स निशाचरः ॥ ११४ ॥  
+[^non-baroDa-CE] इति श्रुत्वा ह्यनादृत्य लक्ष्मणं स निशाचरः ॥ ११४ ॥  
 अतिक्रम्य च सौमित्रिं कुम्भकर्णो महाबलः ।  
 राममेवाभिदुद्राव कम्पयन्निव मेदिनीम् ॥ ११५ ॥
 </details>
@@ -6134,7 +6134,7 @@ As he rushed forward impetuously, pierced by Rāma and enraged, flames mingled w
 
 <details><summary>मूलम्</summary>
 
-रामास्त्रविद्धो घोरं वै नर्दन् राक्षसपुङ्गवः ।  
+[^non-baroDa-CE] रामास्त्रविद्धो घोरं वै नर्दन् राक्षसपुङ्गवः ।  
 अभ्यधावत सङ्क्रुद्धो हरीन् विद्रावयन् रणे ॥ ११८ ॥
 _________________
 रामासविद्धो घोरं वै नर्दन् राक्षसपुङ्गवः ।  
@@ -6238,7 +6238,7 @@ Those arrows feathered with peacock plumes (_barhiṇavāsasaḥ_) sank deep int
 
 <details><summary>मूलम्</summary>
 
-आयुधानि च सर्वाणि विप्रकीर्यन्त भूतले ।  
+[^non-baroDa-CE] आयुधानि च सर्वाणि विप्रकीर्यन्त भूतले ।  
 स निरायुधमात्मानं यदा मेने महाबलः ॥ १२० ॥  
 मुष्टिभ्यां च कराभ्यां च चकार कदनं महत् ।
 _________________
@@ -6415,8 +6415,8 @@ Overwhelmed by fierce wrath and by blood (_mūrcchitaḥ_), he ran about in all 
 
 <details><summary>मूलम्</summary>
 
-अथ शृङ्गं समाविध्य भीमं भीमपराक्रमः ।  
-चिक्षेप राममुद्दिश्य बलवानन्तकोपमः ॥ १२३ ॥
+[^non-baroDa-CE] अथ शृङ्गं समाविध्य भीमं भीमपराक्रमः ।  
+[^non-baroDa-CE] चिक्षेप राममुद्दिश्य बलवानन्तकोपमः ॥ १२३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6467,7 +6467,7 @@ Then wrenching up and whirling (_samāvidhya_) a dreadful mountain crag, the mig
 
 <details><summary>मूलम्</summary>
 
-अप्राप्तमन्तरा रामः सप्तभिस्तमजिह्मगैः ।  
+[^non-baroDa-CE] अप्राप्तमन्तरा रामः सप्तभिस्तमजिह्मगैः ।  
 चिच्छेद गिरिशृङ्गं तं पुनः सन्धाय कार्मुकम् ॥ १२४ ॥
 </details>
 
@@ -6515,10 +6515,10 @@ Stringing his bow anew, Rāma severed that mountain crag in mid-course (_antarā
 
 <details><summary>मूलम्</summary>
 
-ततस्तु रामो धर्मात्मा तस्य शृङ्गं महत् तदा ।  
-शरैः काञ्चनचित्राङ्गैश्चिच्छेद भरताग्रजः ॥ १२५ ॥  
-तन्मेरुशिखराकारं द्योतमानमिव श्रिया ।  
-द्वे शते वानराणां च पतमानमपातयत् ॥ १२६ ॥
+[^non-baroDa-CE] ततस्तु रामो धर्मात्मा तस्य शृङ्गं महत् तदा ।  
+[^non-baroDa-CE] शरैः काञ्चनचित्राङ्गैश्चिच्छेद भरताग्रजः ॥ १२५ ॥  
+[^non-baroDa-CE] तन्मेरुशिखराकारं द्योतमानमिव श्रिया ।  
+[^non-baroDa-CE] द्वे शते वानराणां च पतमानमपातयत् ॥ १२६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6960,13 +6960,13 @@ Seeing them shaken off (_nirdhutān_) and thinking regarding the rākṣasa, ‘
 
 <details><summary>मूलम्</summary>
 
-क्रोधरक्तेक्षणो धीरो निर्दहन्निव चक्षुषा ।  
-राघवो राक्षसं वेगादभिदुद्राव वेगितः ।  
-यूथपान् हर्षयन् सर्वान् कुम्भकर्णबलार्दितान् ॥ १३४ ॥
+[^non-baroDa-CE] क्रोधरक्तेक्षणो धीरो निर्दहन्निव चक्षुषा ।  
+[^non-baroDa-CE] राघवो राक्षसं वेगादभिदुद्राव वेगितः ।  
+[^non-baroDa-CE] यूथपान् हर्षयन् सर्वान् कुम्भकर्णबलार्दितान् ॥ १३४ ॥
 _________________
-क्रोधरक्तेक्षणो धीरो निर्दहन्निव चक्षुषा ।  
+[^non-baroDa-CE] क्रोधरक्तेक्षणो धीरो निर्दहन्निव चक्षुषा ।  
 राघवो राक्षसं वेगा भिदुद्राव वेगितः ।  
-यूथपान्हर्षयन्सर्वान् कुम्भकर्ण बलार्दितान् ॥
+[^non-baroDa-CE] यूथपान्हर्षयन्सर्वान् कुम्भकर्ण बलार्दितान् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -8481,15 +8481,15 @@ Seeing him rushing forward impetuously, roaring with both arms severed, Rāma se
 
 <details><summary>मूलम्</summary>
 
-तौ तस्य पादौ प्रदिशो दिशश्च  
-गिरेर्गुहाश्चैव महार्णवं च ।  
-लङ्कां च सेनां कपिराक्षसानां  
-विनादयन्तौ विनिपेततुश्च ॥ १६२ ॥
+[^non-baroDa-CE] तौ तस्य पादौ प्रदिशो दिशश्च  
+[^non-baroDa-CE] गिरेर्गुहाश्चैव महार्णवं च ।  
+[^non-baroDa-CE] लङ्कां च सेनां कपिराक्षसानां  
+[^non-baroDa-CE] विनादयन्तौ विनिपेततुश्च ॥ १६२ ॥
 _________________
-तौ तस्य पादौ प्रदिशो दिशश्च  
-गिरेर्गुहाश्चैव महार्णवं च ।  
+[^non-baroDa-CE] तौ तस्य पादौ प्रदिशो दिशश्च  
+[^non-baroDa-CE] गिरेर्गुहाश्चैव महार्णवं च ।  
 लङ्का च सेनां कपिराक्षसानां  
-विनादयन्तौ विनिपेततुश्च ॥
+[^non-baroDa-CE] विनादयन्तौ विनिपेततुश्च ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -8879,7 +8879,7 @@ Then he [Rāma] severed that head of the rākṣasa lord—which resembled the p
 <details><summary>मूलम्</summary>
 
 कुम्भकर्णशिरो भाति कुण्डलालङ्कृतं महत् ।  
-आदित्येऽभ्युदिते रात्रौ मध्यस्थ इव चन्द्रमाः ॥ १६९ ॥
+[^non-baroDa-CE] आदित्येऽभ्युदिते रात्रौ मध्यस्थ इव चन्द्रमाः ॥ १६९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -9167,9 +9167,9 @@ Thereupon divine sages, great sages, serpents, gods, beings, Suparṇas, and Guh
 
 <details><summary>मूलम्</summary>
 
-ततस्तु ते तस्य वधेन भूरिणा  
-मनस्विनो नैर्ऋतराजबान्धवाः ।  
-विनेदुरुच्चैर्व्यथिता रघूत्तमं  
+[^non-baroDa-CE] ततस्तु ते तस्य वधेन भूरिणा  
+[^non-baroDa-CE] मनस्विनो नैर्ऋतराजबान्धवाः ।  
+[^non-baroDa-CE] विनेदुरुच्चैर्व्यथिता रघूत्तमं  
 हरिं समीक्ष्यैव यथा मतङ्गजाः ॥ १७४ ॥
 </details>
 
@@ -9227,10 +9227,10 @@ Distressed by that mighty slaying of his, those proud kinsmen of the rākṣasa 
 
 <details><summary>मूलम्</summary>
 
-स देवलोकस्य तमो निहत्य  
-सूर्यो यथा राहुमुखाद् विमुक्तः ।  
-तथा व्यभासीद्धरिसैन्यमध्ये  
-निहत्य रामो युधि कुम्भकर्णम् ॥ १७५ ॥
+[^non-baroDa-CE] स देवलोकस्य तमो निहत्य  
+[^non-baroDa-CE] सूर्यो यथा राहुमुखाद् विमुक्तः ।  
+[^non-baroDa-CE] तथा व्यभासीद्धरिसैन्यमध्ये  
+[^non-baroDa-CE] निहत्य रामो युधि कुम्भकर्णम् ॥ १७५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -9412,3 +9412,5 @@ darkness, duly getting delivered from the mouth of Rahu.
 Having slain in battle Kumbhakarṇa, the crusher of the armies of the gods, who had never at any time been vanquished in great wars (_kadācanājitam_), the elder brother of Bharata rejoiced, just like the lord of the immortals after slaying the great Asura Vṛtra.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

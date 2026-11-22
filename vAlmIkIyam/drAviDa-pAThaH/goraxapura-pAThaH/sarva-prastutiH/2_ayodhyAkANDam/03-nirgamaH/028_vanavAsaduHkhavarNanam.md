@@ -42,7 +42,7 @@ Reflecting upon the hardships of the wilderness, Rāma consoles tearful Sītā a
 <details><summary>मूलम्</summary>
 
 स एवं ब्रुवतीं सीतां धर्मज्ञां धर्मवत्सलः ।  
-न नेतुं कुरुते बुद्धिं वने दुःखानि चिन्तयन् ॥ १ ॥
+[^non-baroDa-CE] न नेतुं कुरुते बुद्धिं वने दुःखानि चिन्तयन् ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -94,7 +94,7 @@ Reflecting upon the hardships of the forest (_vane duḥkhāni cintayan_), he wh
 
 <details><summary>मूलम्</summary>
 
-सान्त्वयित्वा ततस्तां तु बाष्पदूषितलोचनाम् ।  
+[^non-baroDa-CE] सान्त्वयित्वा ततस्तां तु बाष्पदूषितलोचनाम् ।  
 निवर्तनार्थे धर्मात्मा वाक्यमेतदुवाच ह ॥ २ ॥
 </details>
 
@@ -417,8 +417,8 @@ caves are unpleasant to hear. That is why living in a forest in uncomfortable."
 
 <details><summary>मूलम्</summary>
 
-क्रीडमानाश्च विस्रब्धा मत्ताः शून्ये तथा मृगाः ।  
-दृष्ट्वा समभिवर्तन्ते सीते दुःखमतो वनम् ॥ ८ ॥
+[^non-baroDa-CE] क्रीडमानाश्च विस्रब्धा मत्ताः शून्ये तथा मृगाः ।  
+[^non-baroDa-CE] दृष्ट्वा समभिवर्तन्ते सीते दुःखमतो वनम् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -470,7 +470,7 @@ forest; come forward, after seeing. Oh, Sita! That is why living in forest is un
 
 <details><summary>मूलम्</summary>
 
-सग्राहाः सरितश्चैव पङ्कवत्यस्तु दुस्तराः ।  
+[^non-baroDa-CE] सग्राहाः सरितश्चैव पङ्कवत्यस्तु दुस्तराः ।  
 मत्तैरपि गजैर्नित्यमतो दुःखतरं वनम् ॥ ९ ॥
 </details>
 
@@ -523,7 +523,7 @@ elephants also. Hence dwelling in a forest is always very much uncomfortable.
 <details><summary>मूलम्</summary>
 
 लताकण्टकसङ्कीर्णाः कृकवाकूपनादिताः ।  
-निरपाश्च सुदुःखाश्च मार्गा दुःखमतो वनम् ॥ १० ॥
+[^non-baroDa-CE] निरपाश्च सुदुःखाश्च मार्गा दुःखमतो वनम् ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -627,7 +627,7 @@ living in a forest is very much a misery."
 <details><summary>मूलम्</summary>
 
 अहोरात्रं च सन्तोषः कर्तव्यो नियतात्मना ।  
-फलैर्वृक्षावपतितैः सीते दुःखमतो वनम् ॥ १२ ॥
+[^non-baroDa-CE] फलैर्वृक्षावपतितैः सीते दुःखमतो वनम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -732,8 +732,8 @@ Clothes of bark are to be worn and mass of matted hair has to be worn on the hea
 
 <details><summary>मूलम्</summary>
 
-देवतानां पितॄणां च कर्तव्यं विधिपूर्वकम् ।  
-प्राप्तानामतिथीनां च नित्यशः प्रतिपूजनम् ॥ १४ ॥
+[^non-baroDa-CE] देवतानां पितॄणां च कर्तव्यं विधिपूर्वकम् ।  
+[^non-baroDa-CE] प्राप्तानामतिथीनां च नित्यशः प्रतिपूजनम् ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -784,8 +784,8 @@ according to the preseribed rites."
 
 <details><summary>मूलम्</summary>
 
-कार्यस्त्रिरभिषेकश्च काले काले च नित्यशः ।  
-चरतां नियमेनैव तस्माद् दुःखतरं वनम् ॥ १५ ॥
+[^non-baroDa-CE] कार्यस्त्रिरभिषेकश्च काले काले च नित्यशः ।  
+[^non-baroDa-CE] चरतां नियमेनैव तस्माद् दुःखतरं वनम् ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -838,8 +838,8 @@ misery."
 
 <details><summary>मूलम्</summary>
 
-उपहारश्च कर्तव्यः कुसुमैः स्वयमाहृतैः ।  
-आर्षेण विधिना वेद्यां सीते दुःखमतो वनम् ॥ १६ ॥
+[^non-baroDa-CE] उपहारश्च कर्तव्यः कुसुमैः स्वयमाहृतैः ।  
+[^non-baroDa-CE] आर्षेण विधिना वेद्यां सीते दुःखमतो वनम् ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -893,7 +893,7 @@ hardship."
 <details><summary>मूलम्</summary>
 
 यथालब्धेन कर्तव्यः सन्तोषस्तेन मैथिलि ।  
-यताहारैर्वनचरैः सीते दुःखमतो वनम् ॥ १७ ॥
+[^non-baroDa-CE] यताहारैर्वनचरैः सीते दुःखमतो वनम् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1061,7 +1061,7 @@ pride. Hence dwelling in a forst is a great misery."
 <details><summary>मूलम्</summary>
 
 नदीनिलयनाः सर्पा नदीकुटिलगामिनः ।  
-तिष्ठन्त्यावृत्य पन्थानमतो दुःखतरं वनम् ॥ २० ॥
+[^non-baroDa-CE] तिष्ठन्त्यावृत्य पन्थानमतो दुःखतरं वनम् ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1230,8 +1230,8 @@ Concluding that one must endure bodily afflictions, cast off anger and greed, an
 
 <details><summary>मूलम्</summary>
 
-कायक्लेशाश्च बहवो भयानि विविधानि च ।  
-अरण्यवासे वसतो दुःखमेव सदा वनम् ॥ २३ ॥
+[^non-baroDa-CE] कायक्लेशाश्च बहवो भयानि विविधानि च ।  
+[^non-baroDa-CE] अरण्यवासे वसतो दुःखमेव सदा वनम् ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1282,8 +1282,8 @@ Hence, forest- life is readly a misery."
 
 <details><summary>मूलम्</summary>
 
-क्रोधलोभौ विमोक्तव्यौ कर्तव्या तपसे मतिः ।  
-न भेतव्यं च भेतव्ये दुःखं नित्यमतो वनम् ॥ २४ ॥
+[^non-baroDa-CE] क्रोधलोभौ विमोक्तव्यौ कर्तव्या तपसे मतिः ।  
+[^non-baroDa-CE] न भेतव्यं च भेतव्ये दुःखं नित्यमतो वनम् ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1453,3 +1453,4 @@ When the high-souled Rāma thus formed no resolve to lead her to the forest (_va
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

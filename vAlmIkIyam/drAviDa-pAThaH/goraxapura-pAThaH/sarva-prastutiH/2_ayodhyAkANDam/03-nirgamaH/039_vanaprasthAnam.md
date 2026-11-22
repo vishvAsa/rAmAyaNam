@@ -1071,8 +1071,8 @@ their husband who has come to pass into evil days, throughout this world."
 
 <details><summary>मूलम्</summary>
 
-एष स्वभावो नारीणामनुभूय पुरा सुखम् ।  
-अल्पामप्यापदं प्राप्य दुष्यन्ति प्रजहत्यपि ॥ २१ ॥
+[^non-baroDa-CE] एष स्वभावो नारीणामनुभूय पुरा सुखम् ।  
+[^non-baroDa-CE] अल्पामप्यापदं प्राप्य दुष्यन्ति प्रजहत्यपि ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1118,7 +1118,7 @@ husband, on obtaining even the least misfortune: such is the nature of (bad) wom
 
 <details><summary>मूलम्</summary>
 
-असत्यशीला विकृता दुर्गा अहृदयाः सदा ।  
+[^non-baroDa-CE] असत्यशीला विकृता दुर्गा अहृदयाः सदा ।  
 असत्यः पापसङ्कल्पाः क्षणमात्रविरागिणः ॥ २२ ॥
 </details>
 
@@ -1172,7 +1172,7 @@ by passion and their essence, incomprehensible. They get aversion within a momen
 <details><summary>मूलम्</summary>
 
 न कुलं न कृतं विद्या न दत्तं नापि सङ्ग्रहः ।  
-स्त्रीणां गृह्णाति हृदयमनित्यहृदया हि ताः ॥ २३ ॥
+[^non-baroDa-CE] स्त्रीणां गृह्णाति हृदयमनित्यहृदया हि ताः ॥ २३ ॥
 _________________
 न कुलं न कृतं विद्या न दत्तं नापि सङ्ग्रहः ।  
 स्त्रीणाङ्गृह्णाति हृयमनित्यहृदया हि ताः ॥
@@ -1221,8 +1221,8 @@ entertainment can capture the heart of women. They are unstbale of their heart i
 
 <details><summary>मूलम्</summary>
 
-साध्वीनां तु स्थितानां तु शीले सत्ये श्रुते स्थिते ।  
-स्त्रीणां पवित्रं परमं पतिरेको विशिष्यते ॥ २४ ॥
+[^non-baroDa-CE] साध्वीनां तु स्थितानां तु शीले सत्ये श्रुते स्थिते ।  
+[^non-baroDa-CE] स्त्रीणां पवित्रं परमं पतिरेको विशिष्यते ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2030,10 +2030,10 @@ or due to ignorance on my part. I now take leave of you all."
 
 <details><summary>मूलम्</summary>
 
-वचनं राघवस्यैतद् धर्मयुक्तं समाहितम् ।  
-शुश्रुवुस्ताः स्त्रियः सर्वाः शोकोपहतचेतसः ॥ ३९ ॥
+[^non-baroDa-CE] वचनं राघवस्यैतद् धर्मयुक्तं समाहितम् ।  
+[^non-baroDa-CE] शुश्रुवुस्ताः स्त्रियः सर्वाः शोकोपहतचेतसः ॥ ३९ ॥
 _________________
-वचनं राघवस्यैतद् धर्मयुक्तं समाहितम् ।  
+[^non-baroDa-CE] वचनं राघवस्यैतद् धर्मयुक्तं समाहितम् ।  
 शश्रुवुस्ताः स्त्रियः सर्वाः शोकोपहतचेतसः ॥
 </details>
 
@@ -2329,3 +2329,4 @@ That palace of Daśaratha, which in former days resounded with the deep rumble o
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

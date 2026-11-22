@@ -98,7 +98,7 @@ When the king had recovered his breath (_pratyāśvastaḥ_) and returned once m
 <details><summary>मूलम्</summary>
 
 तदा सूतो महाराजं कृताञ्जलिरुपस्थितः ।  
-राममेवानुशोचन्तं दुःखशोकसमन्वितम् ॥ २ ॥
+[^non-baroDa-CE] राममेवानुशोचन्तं दुःखशोकसमन्वितम् ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -803,12 +803,12 @@ any disparity and offer my appropriate salutations to them.
 <details><summary>मूलम्</summary>
 
 माता च मम कौसल्या कुशलं चाभिवादनम् ।  
-अप्रमादं च वक्तव्या ब्रूयाश्चैनामिदं वचः ॥ १७ ॥  
-धर्मनित्या यथाकालमग्न्यगारपरा भव ।  
+[^non-baroDa-CE] अप्रमादं च वक्तव्या ब्रूयाश्चैनामिदं वचः ॥ १७ ॥  
+[^non-baroDa-CE] धर्मनित्या यथाकालमग्न्यगारपरा भव ।  
 देवि देवस्य पादौ च देववत् परिपालय ॥ १८ ॥
 _________________
 माता च मम कौसल्या कुशलं चाभिवादनम् ।  
-अप्रमादं च वक्तव्या ब्रूयाश्चैनामिदं वचः ॥
+[^non-baroDa-CE] अप्रमादं च वक्तव्या ब्रूयाश्चैनामिदं वचः ॥
 धर्मनित्या यथाकालमग्न्यागारपरा भव ।  
 देविदेवस्य पादौ च देववत् परिपालय ॥
 </details>
@@ -882,8 +882,8 @@ Rāma counsels Kausalyā to cast aside pride, honour Kaikeyī, and treat Bharata
 
 <details><summary>मूलम्</summary>
 
-अभिमानं च मानं च त्यक्त्वा वर्तस्व मातृषु ।  
-अनुराजानमार्यां च कैकेयीमम्ब कारय ॥ १९ ॥
+[^non-baroDa-CE] अभिमानं च मानं च त्यक्त्वा वर्तस्व मातृषु ।  
+[^non-baroDa-CE] अनुराजानमार्यां च कैकेयीमम्ब कारय ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -932,7 +932,7 @@ indignation. Make the venerable Kaikeyi, agreeable to the king."
 
 <details><summary>मूलम्</summary>
 
-कुमारे भरते वृत्तिर्वर्तितव्या च राजवत् ।  
+[^non-baroDa-CE] कुमारे भरते वृत्तिर्वर्तितव्या च राजवत् ।  
 अप्यज्येष्ठा हि राजानो राजधर्ममनुस्मर ॥ २० ॥
 </details>
 
@@ -1154,8 +1154,8 @@ As lotus-eyed Rāma weeps while speaking, wrathful Lakṣmaṇa sighs and denoun
 
 <details><summary>मूलम्</summary>
 
-अब्रवीच्चापि मां भूयो भृशमश्रूणि वर्तयन् ।  
-मातेव मम माता ते द्रष्टव्या पुत्रगर्धिनी ॥ २४ ॥  
+[^non-baroDa-CE] अब्रवीच्चापि मां भूयो भृशमश्रूणि वर्तयन् ।  
+[^non-baroDa-CE] मातेव मम माता ते द्रष्टव्या पुत्रगर्धिनी ॥ २४ ॥  
 इत्येवं मां महाबाहुर्ब्रुवन्नेव महायशाः ।  
 रामो राजीवपत्राक्षो भृशमश्रूण्यवर्तयत् ॥ २५ ॥
 </details>
@@ -1274,7 +1274,7 @@ which offence this prince was expelled from home?'"
 <details><summary>मूलम्</summary>
 
 राज्ञा तु खलु कैकेय्या लघु चाश्रुत्य शासनम् ।  
-कृतं कार्यमकार्यं वा वयं येनाभिपीडिताः ॥ २७ ॥
+[^non-baroDa-CE] कृतं कार्यमकार्यं वा वयं येनाभिपीडिताः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1378,7 +1378,7 @@ I do not see any justification for Rama's abandonment."
 
 <details><summary>मूलम्</summary>
 
-इदं तावद् यथाकाममीश्वरस्य कृते कृतम् ।  
+[^non-baroDa-CE] इदं तावद् यथाकाममीश्वरस्य कृते कृतम् ।  
 रामस्य तु परित्यागे न हेतुमुपलक्षये ॥ २९ ॥
 </details>
 
@@ -1868,3 +1868,5 @@ the royal chariot and me."
 “Even so stood Rāma, his face wet with tears and his palms joined in salutation (_aśru-mukhaḥ kṛtāñjaliḥ_), supported by Lakṣmaṇa’s arm (_lakṣmaṇa-bāhu-pālitaḥ_); and even so stood austere Sītā, weeping (_rudatī tapasvinī_), gazing fixed upon the royal chariot and upon me (_nirīkṣate rāja-rathaṃ tathaiva mām_).”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

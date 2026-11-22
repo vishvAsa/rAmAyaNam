@@ -235,7 +235,7 @@ Clasping Rāma’s feet in sorrow, Lakṣmaṇa reports that he has left Sītā 
 
 आर्यस्याज्ञां पुरस्कृत्य विसृज्य जनकात्मजाम् ।  
 गङ्गातीरे यथोद्दिष्टे वाल्मीकेराश्रमे शुभे ॥ ८ ॥  
-तत्र तां च शुभाचारामाश्रमान्ते यशस्विनीम् ।  
+[^non-baroDa-CE] तत्र तां च शुभाचारामाश्रमान्ते यशस्विनीम् ।  
 पुनरप्यागतो वीर पादमूलमुपासितुम् ॥ ९ ॥
 </details>
 
@@ -338,8 +338,8 @@ Urging detachment from kin and wealth since parting is certain, Lakṣmaṇa rem
 
 <details><summary>मूलम्</summary>
 
-तस्मात् पुत्रेषु दारेषु मित्रेषु च धनेषु च ।  
-नातिप्रसङ्गः कर्तव्यो विप्रयोगो हि तैर्ध्रुवम् ॥ १२ ॥
+[^non-baroDa-CE] तस्मात् पुत्रेषु दारेषु मित्रेषु च धनेषु च ।  
+[^non-baroDa-CE] नातिप्रसङ्गः कर्तव्यो विप्रयोगो हि तैर्ध्रुवम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -401,7 +401,7 @@ Urging detachment from kin and wealth since parting is certain, Lakṣmaṇa rem
 <details><summary>मूलम्</summary>
 
 नेदृशेषु विमुह्यन्ति त्वद्विधाः पुरुषर्षभाः ।  
-अपवादः स किल ते पुनरेष्यति राघव ॥ १४ ॥
+[^non-baroDa-CE] अपवादः स किल ते पुनरेष्यति राघव ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -432,7 +432,7 @@ Urging detachment from kin and wealth since parting is certain, Lakṣmaṇa rem
 <details><summary>मूलम्</summary>
 
 यदर्थं मैथिली त्यक्ता अपवादभयान्नृप ।  
-सोऽपवादः पुरे राजन् भविष्यति न संशयः ॥ १५ ॥
+[^non-baroDa-CE] सोऽपवादः पुरे राजन् भविष्यति न संशयः ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -595,3 +595,4 @@ Thus addressed by the high-souled Lakṣmaṇa (_evam uktaḥ sa kākutstho lak�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -981,7 +981,7 @@ he again came out in a moment and asked about the objective of my visit... [4-60
 <details><summary>मूलम्</summary>
 
 सौम्य वैकल्यतां दृष्ट्वा रोम्णां ते नावगम्यते ।  
-अग्निदग्धाविमौ पक्षौ प्राणाश्चापि शरीरके ॥ १८ ॥
+[^non-baroDa-CE] अग्निदग्धाविमौ पक्षौ प्राणाश्चापि शरीरके ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1191,3 +1191,4 @@ any scourge imposed on you, if so, who is he... tell me all who am inquiring int
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

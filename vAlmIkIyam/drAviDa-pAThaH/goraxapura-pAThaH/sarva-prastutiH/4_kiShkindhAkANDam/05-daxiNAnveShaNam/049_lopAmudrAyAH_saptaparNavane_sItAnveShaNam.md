@@ -102,7 +102,7 @@ Then at that time the supremely wise Aṅgada, though exhausted himself (_pariś
 वनानि गिरयो नद्यो दुर्गाणि गहनानि च ।  
 दरी गिरिगुहाश्चैव विचिताः सर्वमन्ततः ॥ २ ॥  
 तत्र तत्र सहास्माभिर्जानकी न च दृश्यते ।  
-तथा रक्षोऽपहर्ता च सीतायाश्चैव दुष्कृती ॥ ३ ॥
+[^non-baroDa-CE] तथा रक्षोऽपहर्ता च सीतायाश्चैव दुष्कृती ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1181,3 +1181,4 @@ Setting forth with Hanūmān at their head (_hanumat-pramukhāḥ_), those bulls
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

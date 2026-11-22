@@ -605,8 +605,8 @@ Permitted by Aṅgada, the monkeys feast on fragrant roots, fruits, and honey, b
 
 <details><summary>मूलम्</summary>
 
-ते निसृष्टाः कुमारेण धीमता वालिसूनुना ।  
-हरयः समपद्यन्त द्रुमान् मधुकराकुलान् ॥ १३ ॥
+[^non-baroDa-CE] ते निसृष्टाः कुमारेण धीमता वालिसूनुना ।  
+[^non-baroDa-CE] हरयः समपद्यन्त द्रुमान् मधुकराकुलान् ॥ १३ ॥
 _________________
 ततश्चानुमताः सर्वे सम्प्रहृष्टा वनौकसः ।  
 मुदिताः प्रेरिताश्चापि प्रनृत्यन्तोभवंस्ततः ॥
@@ -660,8 +660,8 @@ Permitted by the wise prince, the son of Vālin (_te nisṛṣṭāḥ kumāre�
 
 <details><summary>मूलम्</summary>
 
-भक्षयन्तः सुगन्धीनि मूलानि च फलानि च ।  
-जग्मुः प्रहर्षं ते सर्वे बभूवुश्च मदोत्कटाः ॥ १४ ॥
+[^non-baroDa-CE] भक्षयन्तः सुगन्धीनि मूलानि च फलानि च ।  
+[^non-baroDa-CE] जग्मुः प्रहर्षं ते सर्वे बभूवुश्च मदोत्कटाः ॥ १४ ॥
 _________________
 गायन्ति केचित् प्रणमन्ति केचित्  
 नृत्यन्ति केचित् प्रहसन्ति केचित् ।  
@@ -988,8 +988,8 @@ When the angry grove-guardian Dadhimukha tries to stop the devastation, the drun
 
 <details><summary>मूलम्</summary>
 
-तुदन्तमन्यः प्रणदन्नुपैति  
-समाकुलं तत् कपिसैन्यमासीत् ।  
+[^non-baroDa-CE] तुदन्तमन्यः प्रणदन्नुपैति  
+[^non-baroDa-CE] समाकुलं तत् कपिसैन्यमासीत् ।  
 न चात्र कश्चिन्न बभूव मत्तो  
 न चात्र कश्चिन्न बभूव दृप्तः ॥ १९ ॥
 _________________
@@ -1340,3 +1340,4 @@ Piercing him with their nails (_nakhais tudantaḥ_), biting him with their teet
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

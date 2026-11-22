@@ -46,7 +46,7 @@ Incensed by Jaṭāyu's defiance, Rāvaṇa rushes at the vulture king like a wi
 
 <details><summary>मूलम्</summary>
 
-इत्युक्तः क्रोधताम्राक्षस्तप्तकाञ्चनकुण्डलः ।  
+[^non-baroDa-CE] इत्युक्तः क्रोधताम्राक्षस्तप्तकाञ्चनकुण्डलः ।  
 राक्षसेन्द्रोऽभिदुद्राव पतगेन्द्रममर्षणः ॥ १ ॥
 _________________
 इत्युक्तः क्रोधम्राक्षस्तप्तकाञ्चनकुण्डलः ।  
@@ -603,11 +603,11 @@ Then with his two feet (_caraṇābhyām_), the fiery-spirited (_mahā-tejāḥ_
 
 <details><summary>मूलम्</summary>
 
-ततोऽन्यद् धनुरादाय रावणः क्रोधमूर्च्छितः ।  
-ववर्ष शरवर्षाणि शतशोऽथ सहस्रशः ॥ ११ ॥
+[^non-baroDa-CE] ततोऽन्यद् धनुरादाय रावणः क्रोधमूर्च्छितः ।  
+[^non-baroDa-CE] ववर्ष शरवर्षाणि शतशोऽथ सहस्रशः ॥ ११ ॥
 _________________
 ततोऽन्यद् धनुरादाय रावणः क्रोधमूर्छितः ।  
-ववर्ष शरवर्षाणि शतशोऽथ सहस्रशः ॥
+[^non-baroDa-CE] ववर्ष शरवर्षाणि शतशोऽथ सहस्रशः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -657,10 +657,10 @@ Then, convulsed with rage (_krodha-mūrcchitaḥ_), Rāvaṇa seized another bow
 
 <details><summary>मूलम्</summary>
 
-शरैरावारितस्तस्य संयुगे पतगेश्वरः ।  
-कुलायमभिसम्प्राप्तः पक्षिवच्च बभौ तदा ॥ १२ ॥
+[^non-baroDa-CE] शरैरावारितस्तस्य संयुगे पतगेश्वरः ।  
+[^non-baroDa-CE] कुलायमभिसम्प्राप्तः पक्षिवच्च बभौ तदा ॥ १२ ॥
 _________________
-शरैरावारितस्तस्य संयुगे पतगेश्वरः ।  
+[^non-baroDa-CE] शरैरावारितस्तस्य संयुगे पतगेश्वरः ।  
 कुलायमभिसम्प्राप्तः पक्षीवच्च बभौ तदा ॥
 </details>
 
@@ -720,8 +720,8 @@ Scattering the arrows with his wings, Jaṭāyu shatters Rāvaṇa's second bow,
 
 <details><summary>मूलम्</summary>
 
-स तानि शरजालानि पक्षाभ्यां तु विधूय ह ।  
-चरणाभ्यां महातेजा बभञ्जास्य महद् धनुः ॥ १३ ॥
+[^non-baroDa-CE] स तानि शरजालानि पक्षाभ्यां तु विधूय ह ।  
+[^non-baroDa-CE] चरणाभ्यां महातेजा बभञ्जास्य महद् धनुः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -949,13 +949,13 @@ Then he also shattered (_babhañja ca_) that great chariot (_mahā-ratham_), whi
 <details><summary>मूलम्</summary>
 
 पूर्णचन्द्रप्रतीकाशं छत्रं च व्यजनैः सह ।  
-पातयामास वेगेन ग्राहिभी राक्षसैः सह ॥ १७ ॥  
-सारथेश्चास्य वेगेन तुण्डेन च महच्छिरः ।  
-पुनर्व्यपहनच्छ्रीमान् पक्षिराजो महाबलः ॥ १८ ॥
+[^non-baroDa-CE] पातयामास वेगेन ग्राहिभी राक्षसैः सह ॥ १७ ॥  
+[^non-baroDa-CE] सारथेश्चास्य वेगेन तुण्डेन च महच्छिरः ।  
+[^non-baroDa-CE] पुनर्व्यपहनच्छ्रीमान् पक्षिराजो महाबलः ॥ १८ ॥
 _________________
 पूर्णचन्द्रप्रतीकाशं छत्रं च व्यजनैः सह ।  
-पातयामास वेगेन ग्राहिभी राक्षसैः सह ॥
-सारथेश्चास्य वेगेन तुण्डेन च महच्छिरः ।  
+[^non-baroDa-CE] पातयामास वेगेन ग्राहिभी राक्षसैः सह ॥
+[^non-baroDa-CE] सारथेश्चास्य वेगेन तुण्डेन च महच्छिरः ।  
 पुनर्व्यपहवच्छ्रीमान् पक्षिराजो महाबलः ॥
 </details>
 
@@ -1193,14 +1193,14 @@ But seeing that leader of bird-flocks (_pakṣi-yūthapam_) exhausted by old age
 <details><summary>मूलम्</summary>
 
 तं प्रहृष्टं निधायाङ्के रावणं जनकात्मजाम् ।  
-गच्छन्तं खड्गशेषं च प्रणष्टहतसाधनम् ॥ २२ ॥  
+[^non-baroDa-CE] गच्छन्तं खड्गशेषं च प्रणष्टहतसाधनम् ॥ २२ ॥  
 गृध्रराजः समुत्पत्य रावणं समभिद्रवत् ।  
-समावार्य महातेजा जटायुरिदमब्रवीत् ॥ २३ ॥
+[^non-baroDa-CE] समावार्य महातेजा जटायुरिदमब्रवीत् ॥ २३ ॥
 _________________
 तं प्रहृष्टं निधायाङ्के रावणं जनकात्मजाम् ।  
-गच्छन्तं खड्गशेषं च प्रणष्टहतसाधनम् ॥
+[^non-baroDa-CE] गच्छन्तं खड्गशेषं च प्रणष्टहतसाधनम् ॥
 गृध्रराजः समुत्पत्य रावणं समभिवत् ।  
-समावार्य महातेजा जटायुरिदमब्रवीत् ॥
+[^non-baroDa-CE] समावार्य महातेजा जटायुरिदमब्रवीत् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2080,7 +2080,7 @@ Enduring and surging past that blow (_tam atikramya_), the foe-taming (_ariṃda
 <details><summary>मूलम्</summary>
 
 सञ्छिन्नबाहोः सद्यो वै बाहवः सहसाभवन् ।  
-विषज्वालावलीयुक्ता वल्मीकादिव पन्नगाः ॥ ३९ ॥
+[^non-baroDa-CE] विषज्वालावलीयुक्ता वल्मीकादिव पन्नगाः ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2536,3 +2536,5 @@ The commentators deal this aspect in the next chapter of this canto.
 Then Janaka&#x27;s daughter Sītā, her face radiant as the moon (_śaśi-prabhānanā_), again embraced (_punaś ca saṃgṛhya_) that winged bird (_taṃ patra-ratham_) felled upon the ground (_mahītale nipātitam_) and crushed by Rāvaṇa&#x27;s onslaught (_rāvaṇa-vega-marditam_), and wept (_ruroda_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -788,8 +788,8 @@ Humbly clarifying that he speaks out of friendship rather than presumption, Sugr
 
 <details><summary>मूलम्</summary>
 
-शोकेनाभिप्रपन्नस्य जीविते चापि संशयः ।  
-स शोकं त्यज राजेन्द्र धैर्यमाश्रय केवलम् ॥ १३ ॥
+[^non-baroDa-CE] शोकेनाभिप्रपन्नस्य जीविते चापि संशयः ।  
+[^non-baroDa-CE] स शोकं त्यज राजेन्द्र धैर्यमाश्रय केवलम् ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1381,8 +1381,8 @@ Then Sugrīva rejoiced exceedingly (_prahṛṣṭaḥ_) together with his Vāna
 
 <details><summary>मूलम्</summary>
 
-एवमेकान्तसम्पृक्तौ ततस्तौ नरवानरौ ।  
-उभावन्योन्यसदृशं सुखं दुःखमभाषताम् ॥ २४ ॥
+[^non-baroDa-CE] एवमेकान्तसम्पृक्तौ ततस्तौ नरवानरौ ।  
+[^non-baroDa-CE] उभावन्योन्यसदृशं सुखं दुःखमभाषताम् ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1495,3 +1495,4 @@ Having heard the speech of that magnanimous (_mahānubhāvasya_) overlord of kin
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

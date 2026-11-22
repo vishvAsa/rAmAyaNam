@@ -241,10 +241,10 @@ For the streets, thronged with multitudes of people (_bahu-janākulāḥ_), coul
 
 <details><summary>मूलम्</summary>
 
-पदातिं सानुजं दृष्ट्वा ससीतं च जनास्तदा ।  
+[^non-baroDa-CE] पदातिं सानुजं दृष्ट्वा ससीतं च जनास्तदा ।  
 ऊचुर्बहुजना वाचः शोकोपहतचेतसः ॥ ५ ॥
 _________________
-पदातिं सानुजं दृष्ट्वाससीतं च जनास्तदा ।  
+[^non-baroDa-CE] पदातिं सानुजं दृष्ट्वाससीतं च जनास्तदा ।  
 ऊचुर्बहुजना वाचः शोकोपहतचेसः ॥
 </details>
 
@@ -792,8 +792,8 @@ world, as a tree which acquired flowers and fruits is damaged by injury caused t
 
 <details><summary>मूलम्</summary>
 
-मूलं ह्येष मनुष्याणां धर्मसारो महाद्युतिः ।  
-पुष्पं फलं च पत्रं च शाखाश्चास्येतरे जनाः ॥ १५ ॥
+[^non-baroDa-CE] मूलं ह्येष मनुष्याणां धर्मसारो महाद्युतिः ।  
+[^non-baroDa-CE] पुष्पं फलं च पत्रं च शाखाश्चास्येतरे जनाः ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -960,10 +960,10 @@ The citizens curse their abandoned mansions to become dust-covered haunts of mic
 समुद‍्धृतनिधानानि परिध्वस्ताजिराणि च ।  
 उपात्तधनधान्यानि हृतसाराणि सर्वशः ॥ १८ ॥  
 रजसाभ्यवकीर्णानि परित्यक्तानि दैवतैः ।  
-मूषकैः परिधावद्भिरुद‍‍्बिलैरावृतानि च ॥ १९ ॥  
-अपेतोदकधूमानि हीनसम्मार्जनानि च ।  
-प्रणष्टबलिकर्मेज्यामन्त्रहोमजपानि च ॥ २० ॥  
-दुष्कालेनेव भग्नानि भिन्नभाजनवन्ति च ।  
+[^non-baroDa-CE] मूषकैः परिधावद्भिरुद‍‍्बिलैरावृतानि च ॥ १९ ॥  
+[^non-baroDa-CE] अपेतोदकधूमानि हीनसम्मार्जनानि च ।  
+[^non-baroDa-CE] प्रणष्टबलिकर्मेज्यामन्त्रहोमजपानि च ॥ २० ॥  
+[^non-baroDa-CE] दुष्कालेनेव भग्नानि भिन्नभाजनवन्ति च ।  
 अस्मत्त्यक्तानि कैकेयी वेश्मानि प्रतिपद्यताम् ॥ २१ ॥
 </details>
 
@@ -1095,7 +1095,7 @@ being deserted by us become a forest.
 <details><summary>मूलम्</summary>
 
 बिलानि दंष्ट्रिणः सर्वे सानूनि मृगपक्षिणः ।  
-त्यजन्त्वस्मद्भयाद्भीता गजाः सिंहा वनान्यपि ॥ २३ ॥
+[^non-baroDa-CE] त्यजन्त्वस्मद्भयाद्भीता गजाः सिंहा वनान्यपि ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1162,14 +1162,14 @@ Bidding the wild beasts occupy forsaken Ayodhyā with Kaikeyī, the citizens vow
 <details><summary>मूलम्</summary>
 
 अस्मत्त्यक्तं प्रपद्यन्तु सेव्यमानं त्यजन्तु च ।  
-तृणमांसफलादानां देशं व्यालमृगद्विजम् ॥ २४ ॥  
-प्रपद्यतां हि कैकेयी सपुत्रा सह बान्धवैः ।  
-राघवेण वयं सर्वे वने वत्स्याम निर्वृताः ॥ २५ ॥
+[^non-baroDa-CE] तृणमांसफलादानां देशं व्यालमृगद्विजम् ॥ २४ ॥  
+[^non-baroDa-CE] प्रपद्यतां हि कैकेयी सपुत्रा सह बान्धवैः ।  
+[^non-baroDa-CE] राघवेण वयं सर्वे वने वत्स्याम निर्वृताः ॥ २५ ॥
 _________________
 अस्मत्यक्तं प्रपद्यन्तुं सेव्यमानं त्यजन्तु च ।  
 तृणमांसलादानां देशं व्यालमृगद्विजम् ॥
-प्रपद्यतां हि कैकेयी सपुत्रा सहबान्धवैः ।  
-राघवेण वयं सर्वे वने वत्स्याम निर्वृताः ॥
+[^non-baroDa-CE] प्रपद्यतां हि कैकेयी सपुत्रा सहबान्धवैः ।  
+[^non-baroDa-CE] राघवेण वयं सर्वे वने वत्स्याम निर्वृताः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1230,8 +1230,8 @@ live happily in the forest along with Rama.
 
 इत्येवं विविधा वाचो नानाजनसमीरिताः ।  
 शुश्राव राघवः श्रुत्वा न विचक्रेऽस्य मानसम् ॥ २६ ॥  
-स तु वेश्म पुनर्मातुः कैलासशिखरप्रभम् ।  
-अभिचक्राम धर्मात्मा मत्तमातङ्गविक्रमः ॥ २७ ॥
+[^non-baroDa-CE] स तु वेश्म पुनर्मातुः कैलासशिखरप्रभम् ।  
+[^non-baroDa-CE] अभिचक्राम धर्मात्मा मत्तमातङ्गविक्रमः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1311,8 +1311,8 @@ Entering the royal palace with a serene and smiling countenance, Rāma beholds t
 
 <details><summary>मूलम्</summary>
 
-विनीतवीरपुरुषं प्रविश्य तु नृपालयम् ।  
-ददर्शावस्थितं दीनं सुमन्त्रमविदूरतः ॥ २८ ॥
+[^non-baroDa-CE] विनीतवीरपुरुषं प्रविश्य तु नृपालयम् ।  
+[^non-baroDa-CE] ददर्शावस्थितं दीनं सुमन्त्रमविदूरतः ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1546,3 +1546,4 @@ Firmly resolved in his intellect upon entering the forest at his father’s comm
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

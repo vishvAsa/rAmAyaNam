@@ -49,8 +49,8 @@ Fleeing swiftly from Janasthāna to Laṅkā, Akampana reports the slaughter of 
 
 <details><summary>मूलम्</summary>
 
-त्वरमाणस्ततो गत्वा जनस्थानादकम्पनः ।  
-प्रविश्य लङ्कां वेगेन रावणं वाक्यमब्रवीत् ॥ १ ॥
+[^non-baroDa-CE] त्वरमाणस्ततो गत्वा जनस्थानादकम्पनः ।  
+[^non-baroDa-CE] प्रविश्य लङ्कां वेगेन रावणं वाक्यमब्रवीत् ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -100,7 +100,7 @@ Departing in haste (_tvaramāṇaḥ_) from Janasthāna and entering Laṅkā wi
 
 <details><summary>मूलम्</summary>
 
-जनस्थानस्थिता राजन् राक्षसा बहवो हताः ।  
+[^non-baroDa-CE] जनस्थानस्थिता राजन् राक्षसा बहवो हताः ।  
 खरश्च निहतः सङ्ख्ये कथञ्चिदहमागतः ॥ २ ॥
 </details>
 
@@ -161,8 +161,8 @@ are also reported as dead.
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तो दशग्रीवः क्रुद्धः संरक्तलोचनः ।  
-अकम्पनमुवाचेदं निर्दहन्निव तेजसा ॥ ३ ॥
+[^non-baroDa-CE] एवमुक्तो दशग्रीवः क्रुद्धः संरक्तलोचनः ।  
+[^non-baroDa-CE] अकम्पनमुवाचेदं निर्दहन्निव तेजसा ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -213,8 +213,8 @@ Thus addressed, the ten-necked Rāvaṇa (_daśagrīvaḥ_), enraged (_kruddha�
 
 <details><summary>मूलम्</summary>
 
-केन भीमं जनस्थानं हतं मम परासुना ।  
-को हि सर्वेषु लोकेषु गतिं नाधिगमिष्यति ॥ ४ ॥
+[^non-baroDa-CE] केन भीमं जनस्थानं हतं मम परासुना ।  
+[^non-baroDa-CE] को हि सर्वेषु लोकेषु गतिं नाधिगमिष्यति ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -265,8 +265,8 @@ opted for no recourse in all of the worlds? [3-31-4]
 
 <details><summary>मूलम्</summary>
 
-न हि मे विप्रियं कृत्वा शक्यं मघवता सुखम् ।  
-प्राप्तुं वैश्रवणेनापि न यमेन च विष्णुना ॥ ५ ॥
+[^non-baroDa-CE] न हि मे विप्रियं कृत्वा शक्यं मघवता सुखम् ।  
+[^non-baroDa-CE] प्राप्तुं वैश्रवणेनापि न यमेन च विष्णुना ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -317,8 +317,8 @@ Yama - no; why them, even Vishnu cannot be happy. [3-31-5]
 
 <details><summary>मूलम्</summary>
 
-कालस्य चाप्यहं कालो दहेयमपि पावकम् ।  
-मृत्युं मरणधर्मेण संयोजयितुमुत्सहे ॥ ६ ॥
+[^non-baroDa-CE] कालस्य चाप्यहं कालो दहेयमपि पावकम् ।  
+[^non-baroDa-CE] मृत्युं मरणधर्मेण संयोजयितुमुत्सहे ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -377,7 +377,7 @@ Trembling before the furious ten-necked king, Akampana begs for an assurance of 
 
 <details><summary>मूलम्</summary>
 
-वातस्य तरसा वेगं निहन्तुमपि चोत्सहे ।  
+[^non-baroDa-CE] वातस्य तरसा वेगं निहन्तुमपि चोत्सहे ।  
 दहेयमपि सङ्क्रुद्धस्तेजसाऽऽदित्यपावकौ ॥ ७ ॥
 </details>
 
@@ -429,7 +429,7 @@ of Wind-god with that of mine." Thus Ravana said about himself. [3-31-7]
 
 <details><summary>मूलम्</summary>
 
-तथा क्रुद्धं दशग्रीवं कृताञ्जलिरकम्पनः ।  
+[^non-baroDa-CE] तथा क्रुद्धं दशग्रीवं कृताञ्जलिरकम्पनः ।  
 भयात् सन्दिग्धया वाचा रावणं याचतेऽभयम् ॥ ८ ॥
 </details>
 
@@ -485,10 +485,10 @@ Joining his palms in reverence (_kṛtāñjaliḥ_) before the ten-necked Rāva�
 
 <details><summary>मूलम्</summary>
 
-दशग्रीवोऽभयं तस्मै प्रददौ रक्षसां वरः ।  
+[^non-baroDa-CE] दशग्रीवोऽभयं तस्मै प्रददौ रक्षसां वरः ।  
 स विस्रब्धोऽब्रवीद् वाक्यमसन्दिग्धमकम्पनः ॥ ९ ॥
 _________________
-दशग्रीवोऽभयं तस्मै प्रददौ रक्षसां वरः ।  
+[^non-baroDa-CE] दशग्रीवोऽभयं तस्मै प्रददौ रक्षसां वरः ।  
 स वप्रब्धोऽब्रवीद् वाक्यमसन्दिग्धमकम्पनः ॥
 </details>
 
@@ -542,10 +542,10 @@ The ten-necked lord, foremost of _rākṣasas_ (_rakṣasāṃ varaḥ_), grante
 
 <details><summary>मूलम्</summary>
 
-पुत्रो दशरथस्यास्ते सिंहसंहननो युवा ।  
-रामो नाम महास्कन्धो वृत्तायतमहाभुजः ॥ १० ॥  
-श्यामः पृथुयशाः श्रीमानतुल्यबलविक्रमः ।  
-हतस्तेन जनस्थाने खरश्च सहदूषणः ॥ ११ ॥
+[^non-baroDa-CE] पुत्रो दशरथस्यास्ते सिंहसंहननो युवा ।  
+[^non-baroDa-CE] रामो नाम महास्कन्धो वृत्तायतमहाभुजः ॥ १० ॥  
+[^non-baroDa-CE] श्यामः पृथुयशाः श्रीमानतुल्यबलविक्रमः ।  
+[^non-baroDa-CE] हतस्तेन जनस्थाने खरश्च सहदूषणः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -614,8 +614,8 @@ one such as he is he slew Duushana along with Khara in Janasthaana." [3-31-11]
 
 <details><summary>मूलम्</summary>
 
-अकम्पनवचः श्रुत्वा रावणो राक्षसाधिपः ।  
-नागेन्द्र इव निःश्वस्य इदं वचनमब्रवीत् ॥ १२ ॥
+[^non-baroDa-CE] अकम्पनवचः श्रुत्वा रावणो राक्षसाधिपः ।  
+[^non-baroDa-CE] नागेन्द्र इव निःश्वस्य इदं वचनमब्रवीत् ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -673,11 +673,11 @@ When Rāvaṇa asks whether Rāma came backed by Indra and the gods, Akampana re
 
 <details><summary>मूलम्</summary>
 
-स सुरेन्द्रेण संयुक्तो रामः सर्वामरैः सह ।  
-उपयातो जनस्थानं ब्रूहि कच्चिदकम्पन ॥ १३ ॥
+[^non-baroDa-CE] स सुरेन्द्रेण संयुक्तो रामः सर्वामरैः सह ।  
+[^non-baroDa-CE] उपयातो जनस्थानं ब्रूहि कच्चिदकम्पन ॥ १३ ॥
 _________________
 स सुरेन्द्रेण संयुक्तो रामः सर्वामरै सह ।  
-उपयातो जनस्थानं ब्रूहि कच्चिदकम्पन ॥
+[^non-baroDa-CE] उपयातो जनस्थानं ब्रूहि कच्चिदकम्पन ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -728,8 +728,8 @@ the immortal gods? Oh, Akampana, speak about it. [3-31-13]
 
 <details><summary>मूलम्</summary>
 
-रावणस्य पुनर्वाक्यं निशम्य तदकम्पनः ।  
-आचचक्षे बलं तस्य विक्रमं च महात्मनः ॥ १४ ॥
+[^non-baroDa-CE] रावणस्य पुनर्वाक्यं निशम्य तदकम्पनः ।  
+[^non-baroDa-CE] आचचक्षे बलं तस्य विक्रमं च महात्मनः ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -773,8 +773,8 @@ Hearing those further words of Rāvaṇa, Akampana recounted the strength (_bala
 
 <details><summary>मूलम्</summary>
 
-रामो नाम महातेजाः श्रेष्ठः सर्वधनुष्मताम् ।  
-दिव्यास्त्रगुणसम्पन्नः परं धर्मं गतो युधि ॥ १५ ॥
+[^non-baroDa-CE] रामो नाम महातेजाः श्रेष्ठः सर्वधनुष्मताम् ।  
+[^non-baroDa-CE] दिव्यास्त्रगुणसम्पन्नः परं धर्मं गतो युधि ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -826,10 +826,10 @@ with divine missiles and divine attributes, and he is the one who conducts warfa
 
 <details><summary>मूलम्</summary>
 
-तस्यानुरूपो बलवान् रक्ताक्षो दुन्दुभिस्वनः ।  
+[^non-baroDa-CE] तस्यानुरूपो बलवान् रक्ताक्षो दुन्दुभिस्वनः ।  
 कनीयाल्ँ लक्ष्मणो भ्राता राकाशशिनिभाननः ॥ १६ ॥
 _________________
-तस्यानुरूपो बलवान् रक्ताक्षो दुन्दुभिस्वनः ।  
+[^non-baroDa-CE] तस्यानुरूपो बलवान् रक्ताक्षो दुन्दुभिस्वनः ।  
 कनीयान् ल्लक्ष्मणो भ्राता राकाशशिनिभाननः ॥
 </details>
 
@@ -881,8 +881,8 @@ is Rama's selfsame younger brother known as Lakshmana. [3-31-16]
 
 <details><summary>मूलम्</summary>
 
-स तेन सह संयुक्तः पावकेनानिलो यथा ।  
-श्रीमान् राजवरस्तेन जनस्थानं निपातितम् ॥ १७ ॥
+[^non-baroDa-CE] स तेन सह संयुक्तः पावकेनानिलो यथा ।  
+[^non-baroDa-CE] श्रीमान् राजवरस्तेन जनस्थानं निपातितम् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -934,13 +934,13 @@ prince Rama, and that firestorm, namely Rama, destroyed Janasthaana. [3-31-17]
 
 <details><summary>मूलम्</summary>
 
-नैव देवा महात्मानो नात्र कार्या विचारणा ।  
-शरा रामेण तूत्सृष्टा रुक्मपुङ्खाः पतत्त्रिणः ॥ १८ ॥  
-सर्पाः पञ्चानना भूत्वा भक्षयन्ति स्म राक्षसान् ।
+[^non-baroDa-CE] नैव देवा महात्मानो नात्र कार्या विचारणा ।  
+[^non-baroDa-CE] शरा रामेण तूत्सृष्टा रुक्मपुङ्खाः पतत्त्रिणः ॥ १८ ॥  
+[^non-baroDa-CE] सर्पाः पञ्चानना भूत्वा भक्षयन्ति स्म राक्षसान् ।
 _________________
-नैव देवा महात्मानो नात्र कार्या विचारणा ।  
+[^non-baroDa-CE] नैव देवा महात्मानो नात्र कार्या विचारणा ।  
 शरा रामेण तूत्सृष्टा रुक्मपुङ्खाः पतत्रिणः ॥  
-सर्पाः पञ्चानना भूत्वा भक्षयन्ति स्म राक्षसान् ।
+[^non-baroDa-CE] सर्पाः पञ्चानना भूत्वा भक्षयन्ति स्म राक्षसान् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1003,13 +1003,13 @@ Learning how Rāma's arrows turned into five-hooded serpents and how terrified d
 
 <details><summary>मूलम्</summary>
 
-येन येन च गच्छन्ति राक्षसा भयकर्षिताः ॥ १९ ॥  
-तेन तेन स्म पश्यन्ति राममेवाग्रतः स्थितम् ।  
-इत्थं विनाशितं तेन जनस्थानं तवानघ ॥ २० ॥
+[^non-baroDa-CE] येन येन च गच्छन्ति राक्षसा भयकर्षिताः ॥ १९ ॥  
+[^non-baroDa-CE] तेन तेन स्म पश्यन्ति राममेवाग्रतः स्थितम् ।  
+[^non-baroDa-CE] इत्थं विनाशितं तेन जनस्थानं तवानघ ॥ २० ॥
 _________________
 येन येन च गच्छन्ति राक्षसा भयकर्शिताः ॥
-तेन तेन स्मपश्यन्ति राममेवाग्रतः स्थितम् ।  
-इत्थं विनाशितं तेन जनस्थानं तवानघ ॥
+[^non-baroDa-CE] तेन तेन स्मपश्यन्ति राममेवाग्रतः स्थितम् ।  
+[^non-baroDa-CE] इत्थं विनाशितं तेन जनस्थानं तवानघ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1075,8 +1075,8 @@ It is same with Kamsa in Bhaagavata when he sees one Krishna as many Krishna-s i
 
 <details><summary>मूलम्</summary>
 
-अकम्पनवचः श्रुत्वा रावणो वाक्यमब्रवीत् ।  
-गमिष्यामि जनस्थानं रामं हन्तुं सलक्ष्मणम् ॥ २१ ॥
+[^non-baroDa-CE] अकम्पनवचः श्रुत्वा रावणो वाक्यमब्रवीत् ।  
+[^non-baroDa-CE] गमिष्यामि जनस्थानं रामं हन्तुं सलक्ष्मणम् ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1126,8 +1126,8 @@ Hearing the words of Akampana, Rāvaṇa spoke this word: “I shall go to Janas
 
 <details><summary>मूलम्</summary>
 
-अथैवमुक्ते वचने प्रोवाचेदमकम्पनः ।  
-शृणु राजन् यथावृत्तं रामस्य बलपौरुषम् ॥ २२ ॥
+[^non-baroDa-CE] अथैवमुक्ते वचने प्रोवाचेदमकम्पनः ।  
+[^non-baroDa-CE] शृणु राजन् यथावृत्तं रामस्य बलपौरुषम् ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1191,13 +1191,13 @@ When this speech had thus been uttered, Akampana spoke this: “Hear, O king, th
 
 <details><summary>मूलम्</summary>
 
-असाध्यः कुपितो रामो विक्रमेण महायशाः ।  
-आपगायास्तु पूर्णाया वेगं परिहरेच्छरैः ॥ २३ ॥  
-सताराग्रहनक्षत्रं नभश्चाप्यवसादयेत् ।
+[^non-baroDa-CE] असाध्यः कुपितो रामो विक्रमेण महायशाः ।  
+[^non-baroDa-CE] आपगायास्तु पूर्णाया वेगं परिहरेच्छरैः ॥ २३ ॥  
+[^non-baroDa-CE] सताराग्रहनक्षत्रं नभश्चाप्यवसादयेत् ।
 _________________
 आसाध्यः कुपितो रामो विक्रमेण महायशाः ।  
 आपगायास्तु सुपूर्णाया वेगं परिहरेच्छरैः ॥  
-सताराग्रहनक्षत्रं नभश्चाप्यवसादयेत् ।
+[^non-baroDa-CE] सताराग्रहनक्षत्रं नभश्चाप्यवसादयेत् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1273,9 +1273,9 @@ Declaring Rāma capable of dissolving and recreating the worlds and invincible e
 
 <details><summary>मूलम्</summary>
 
-असौ रामस्तु सीदन्तीं श्रीमानभ्युद्धरेन्महीम् ॥ २४ ॥  
-भित्त्वा वेलां समुद्रस्य लोकानाप्लावयेद् विभुः ।  
-वेगं वापि समुद्रस्य वायुं वा विधमेच्छरैः ॥ २५ ॥
+[^non-baroDa-CE] असौ रामस्तु सीदन्तीं श्रीमानभ्युद्धरेन्महीम् ॥ २४ ॥  
+[^non-baroDa-CE] भित्त्वा वेलां समुद्रस्य लोकानाप्लावयेद् विभुः ।  
+[^non-baroDa-CE] वेगं वापि समुद्रस्य वायुं वा विधमेच्छरैः ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1362,8 +1362,8 @@ thus he can stem the tide of all the elements, taking *samhR^itya* from the next
 
 <details><summary>मूलम्</summary>
 
-संहृत्य वा पुनर्लोकान् विक्रमेण महायशाः ।  
-शक्तः श्रेष्ठः स पुरुषः स्रष्टुं पुनरपि प्रजाः ॥ २६ ॥
+[^non-baroDa-CE] संहृत्य वा पुनर्लोकान् विक्रमेण महायशाः ।  
+[^non-baroDa-CE] शक्तः श्रेष्ठः स पुरुषः स्रष्टुं पुनरपि प्रजाः ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1430,8 +1430,8 @@ one belongs to the earlier dissolutions and creations and another to the forthco
 
 <details><summary>मूलम्</summary>
 
-नहि रामो दशग्रीव शक्यो जेतुं रणे त्वया ।  
-रक्षसां वापि लोकेन स्वर्गः पापजनैरिव ॥ २७ ॥
+[^non-baroDa-CE] नहि रामो दशग्रीव शक्यो जेतुं रणे त्वया ।  
+[^non-baroDa-CE] रक्षसां वापि लोकेन स्वर्गः पापजनैरिव ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1494,8 +1494,8 @@ svargaH praaptum na shakyata iti uktam - - *anena sukR^itinaam svargaH paapiShTh
 
 <details><summary>मूलम्</summary>
 
-न तं वध्यमहं मन्ये सर्वैर्देवासुरैरपि ।  
-अयं तस्य वधोपायस्तन्ममैकमनाः शृणु ॥ २८ ॥
+[^non-baroDa-CE] न तं वध्यमहं मन्ये सर्वैर्देवासुरैरपि ।  
+[^non-baroDa-CE] अयं तस्य वधोपायस्तन्ममैकमनाः शृणु ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1560,11 +1560,11 @@ Govindaraja.
 
 <details><summary>मूलम्</summary>
 
-भार्या तस्योत्तमा लोके सीता नाम सुमध्यमा ।  
-श्यामा समविभक्ताङ्गी स्त्रीरत्नं रत्नभूषिता ॥ २९ ॥
+[^non-baroDa-CE] भार्या तस्योत्तमा लोके सीता नाम सुमध्यमा ।  
+[^non-baroDa-CE] श्यामा समविभक्ताङ्गी स्त्रीरत्नं रत्नभूषिता ॥ २९ ॥
 _________________
 भार्या तस्योत्तमा लोके सीता नामा सुमध्यमा ।  
-श्यामा समविभक्ताङ्गी स्त्रीरत्नं रत्नभूषिता ॥
+[^non-baroDa-CE] श्यामा समविभक्ताङ्गी स्त्रीरत्नं रत्नभूषिता ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1615,8 +1615,8 @@ adorned with jewellery, that slender-waisted one who is known as Seetha is his w
 
 <details><summary>मूलम्</summary>
 
-नैव देवी न गन्धर्वी नाप्सरा न च पन्नगी ।  
-तुल्या सीमन्तिनी तस्या मानुषी तु कुतो भवेत् ॥ ३० ॥
+[^non-baroDa-CE] नैव देवी न गन्धर्वी नाप्सरा न च पन्नगी ।  
+[^non-baroDa-CE] तुल्या सीमन्तिनी तस्या मानुषी तु कुतो भवेत् ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1675,8 +1675,8 @@ Urged by Akampana to abduct Sītā by deceiving Rāma in the forest, Rāvaṇa a
 
 <details><summary>मूलम्</summary>
 
-तस्यापहर भार्यां त्वं तं प्रमथ्य महावने ।  
-सीतया रहितो रामो न चैव हि भविष्यति ॥ ३१ ॥
+[^non-baroDa-CE] तस्यापहर भार्यां त्वं तं प्रमथ्य महावने ।  
+[^non-baroDa-CE] सीतया रहितो रामो न चैव हि भविष्यति ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1915,8 +1915,8 @@ _____________
 
 <details><summary>मूलम्</summary>
 
-अरोचयत तद्वाक्यं रावणो राक्षसाधिपः ।  
-चिन्तयित्वा महाबाहुरकम्पनमुवाच ह ॥ ३२ ॥
+[^non-baroDa-CE] अरोचयत तद्वाक्यं रावणो राक्षसाधिपः ।  
+[^non-baroDa-CE] चिन्तयित्वा महाबाहुरकम्पनमुवाच ह ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1966,8 +1966,8 @@ Rāvaṇa, lord of the _rākṣasas_, approved that counsel (_arocayata tad vāk
 
 <details><summary>मूलम्</summary>
 
-बाढं कल्यं गमिष्यामि ह्येकः सारथिना सह ।  
-आनेष्यामि च वैदेहीमिमां हृष्टो महापुरीम् ॥ ३३ ॥
+[^non-baroDa-CE] बाढं कल्यं गमिष्यामि ह्येकः सारथिना सह ।  
+[^non-baroDa-CE] आनेष्यामि च वैदेहीमिमां हृष्टो महापुरीम् ॥ ३३ ॥
 _________________
 बाढं काल्यं गमिष्यामि ह्येकः सारथिना सह ।  
 आनयिष्यामि वैदेहिमिमां हृष्टो महापुरीम् ॥
@@ -2021,8 +2021,8 @@ into the elegant city Lanka." Ravana declared that way. [3-31-33]
 
 <details><summary>मूलम्</summary>
 
-तदेवमुक्त्वा प्रययौ खरयुक्तेन रावणः ।  
-रथेनादित्यवर्णेन दिशः सर्वाः प्रकाशयन् ॥ ३४ ॥
+[^non-baroDa-CE] तदेवमुक्त्वा प्रययौ खरयुक्तेन रावणः ।  
+[^non-baroDa-CE] रथेनादित्यवर्णेन दिशः सर्वाः प्रकाशयन् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2073,10 +2073,10 @@ Having spoken thus, Rāvaṇa set forth (_prayayau_) in his sun-bright chariot y
 
 <details><summary>मूलम्</summary>
 
-स रथो राक्षसेन्द्रस्य नक्षत्रपथगो महान् ।  
-चञ्चूर्यमाणः शुशुभे जलदे चन्द्रमा इव ॥ ३५ ॥
+[^non-baroDa-CE] स रथो राक्षसेन्द्रस्य नक्षत्रपथगो महान् ।  
+[^non-baroDa-CE] चञ्चूर्यमाणः शुशुभे जलदे चन्द्रमा इव ॥ ३५ ॥
 _________________
-स रथो राक्षसेन्द्रस्य नक्षत्रपथगो महान् ।  
+[^non-baroDa-CE] स रथो राक्षसेन्द्रस्य नक्षत्रपथगो महान् ।  
 सञ्चूर्यमाणः शुशुभे जलदे चन्द्रमा इव ॥
 </details>
 
@@ -2129,8 +2129,8 @@ Coursing swiftly (_cañcūryamāṇaḥ_) through the pathway of the stars (_nak
 
 <details><summary>मूलम्</summary>
 
-स दूरे चाश्रमं गत्वा ताटकेयमुपागमत् ।  
-मारीचेनार्चितो राजा भक्ष्यभोज्यैरमानुषैः ॥ ३६ ॥
+[^non-baroDa-CE] स दूरे चाश्रमं गत्वा ताटकेयमुपागमत् ।  
+[^non-baroDa-CE] मारीचेनार्चितो राजा भक्ष्यभोज्यैरमानुषैः ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2196,8 +2196,8 @@ Honoring Rāvaṇa with a seat and water, Mārīca anxiously asks the reason for
 
 <details><summary>मूलम्</summary>
 
-तं स्वयं पूजयित्वा तु आसनेनोदकेन च ।  
-अर्थोपहितया वाचा मारीचो वाक्यमब्रवीत् ॥ ३७ ॥
+[^non-baroDa-CE] तं स्वयं पूजयित्वा तु आसनेनोदकेन च ।  
+[^non-baroDa-CE] अर्थोपहितया वाचा मारीचो वाक्यमब्रवीत् ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2248,10 +2248,10 @@ Having personally honored him (_taṃ svayaṃ pūjayitvā_) with a seat and wat
 <details><summary>मूलम्</summary>
 
 कच्चित् सकुशलं राजल्ँ लोकानां राक्षसाधिप ।  
-आशङ्के नाधिजाने त्वं यतस्तूर्णमुपागतः ॥ ३८ ॥
+[^non-baroDa-CE] आशङ्के नाधिजाने त्वं यतस्तूर्णमुपागतः ॥ ३८ ॥
 _________________
 कच्चित् सुकुशलं राजन् ल्लोकानां राक्षसाधिप ।  
-आशङ्के नाधिजाने त्वं यतस्तूर्णमुपागतः ॥
+[^non-baroDa-CE] आशङ्के नाधिजाने त्वं यतस्तूर्णमुपागतः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2302,8 +2302,8 @@ of your kingdom, for I am not in the know of the reason by which now you have co
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तो महातेजा मारीचेन स रावणः ।  
-ततः पश्चादिदं वाक्यमब्रवीद् वाक्यकोविदः ॥ ३९ ॥
+[^non-baroDa-CE] एवमुक्तो महातेजा मारीचेन स रावणः ।  
+[^non-baroDa-CE] ततः पश्चादिदं वाक्यमब्रवीद् वाक्यकोविदः ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2354,8 +2354,8 @@ Thus addressed by Mārīca, that Rāvaṇa of mighty splendour (_mahā-tejāḥ_
 
 <details><summary>मूलम्</summary>
 
-आरक्षो मे हतस्तात रामेणाक्लिष्टकारिणा ।  
-जनस्थानमवध्यं तत् सर्वं युधि निपातितम् ॥ ४० ॥
+[^non-baroDa-CE] आरक्षो मे हतस्तात रामेणाक्लिष्टकारिणा ।  
+[^non-baroDa-CE] जनस्थानमवध्यं तत् सर्वं युधि निपातितम् ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2411,8 +2411,8 @@ have to render friendly help in kidnapping Rama's wife." [3-31-40]
 
 <details><summary>मूलम्</summary>
 
-तस्य मे कुरु साचिव्यं तस्य भार्यापहारणे ।  
-राक्षसेन्द्रवचः श्रुत्वा मारीचो वाक्यमब्रवीत् ॥ ४१ ॥
+[^non-baroDa-CE] तस्य मे कुरु साचिव्यं तस्य भार्यापहारणे ।  
+[^non-baroDa-CE] राक्षसेन्द्रवचः श्रुत्वा मारीचो वाक्यमब्रवीत् ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2450,10 +2450,10 @@ Aghast at Rāvaṇa's proposal, Mārīca denounces the secret enemy who suggeste
 
 <details><summary>मूलम्</summary>
 
-आख्याता केन वा सीता मित्ररूपेण शत्रुणा ।  
-त्वया राक्षसशार्दूल को न नन्दति नन्दितः ॥ ४२ ॥
+[^non-baroDa-CE] आख्याता केन वा सीता मित्ररूपेण शत्रुणा ।  
+[^non-baroDa-CE] त्वया राक्षसशार्दूल को न नन्दति नन्दितः ॥ ४२ ॥
 _________________
-आख्याता केन वा सीतामित्ररूपेण शत्रुणा ।  
+[^non-baroDa-CE] आख्याता केन वा सीतामित्ररूपेण शत्रुणा ।  
 त्वया राक्षसशार्दूल को ननन्दिति नन्दितः ॥
 </details>
 
@@ -2502,8 +2502,8 @@ that is unhappy with you, since he is giving such a self-ruinous advise? [3-31-4
 
 <details><summary>मूलम्</summary>
 
-सीतामिहानयस्वेति को ब्रवीति ब्रवीहि मे ।  
-रक्षोलोकस्य सर्वस्य कः शृङ्गं छेत्तुमिच्छति ॥ ४३ ॥
+[^non-baroDa-CE] सीतामिहानयस्वेति को ब्रवीति ब्रवीहि मे ।  
+[^non-baroDa-CE] रक्षोलोकस्य सर्वस्य कः शृङ्गं छेत्तुमिच्छति ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2560,8 +2560,8 @@ are prominent among all the clansmen of demons to be cut-off? [3-31-43]
 
 <details><summary>मूलम्</summary>
 
-प्रोत्साहयति यश्च त्वां स च शत्रुरसंशयम् ।  
-आशीविषमुखाद् दंष्ट्रामुद्धर्तुं चेच्छति त्वया ॥ ४४ ॥
+[^non-baroDa-CE] प्रोत्साहयति यश्च त्वां स च शत्रुरसंशयम् ।  
+[^non-baroDa-CE] आशीविषमुखाद् दंष्ट्रामुद्धर्तुं चेच्छति त्वया ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2612,8 +2612,8 @@ the fangs of a snake from its mouth, of course, through you. [3-31-44]
 
 <details><summary>मूलम्</summary>
 
-कर्मणानेन केनासि कापथं प्रतिपादितः ।  
-सुखसुप्तस्य ते राजन् प्रहृतं केन मूर्धनि ॥ ४५ ॥
+[^non-baroDa-CE] कर्मणानेन केनासि कापथं प्रतिपादितः ।  
+[^non-baroDa-CE] सुखसुप्तस्य ते राजन् प्रहृतं केन मूर्धनि ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2666,10 +2666,10 @@ good as his hitting hard on your head while you are fast asleep. [3-31-45]
 
 <details><summary>मूलम्</summary>
 
-विशुद्धवंशाभिजनाग्रहस्त-  
-तेजोमदः संस्थितदोर्विषाणः ।  
-उदीक्षितुं रावण नेह युक्तः  
-स संयुगे राघवगन्धहस्ती ॥ ४६ ॥
+[^non-baroDa-CE] विशुद्धवंशाभिजनाग्रहस्त-  
+[^non-baroDa-CE] तेजोमदः संस्थितदोर्विषाणः ।  
+[^non-baroDa-CE] उदीक्षितुं रावण नेह युक्तः  
+[^non-baroDa-CE] स संयुगे राघवगन्धहस्ती ॥ ४६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2737,14 +2737,14 @@ Warning Rāvaṇa neither to rouse the sleeping lion Rāma nor to plunge into th
 <details><summary>मूलम्</summary>
 
 असौ रणान्तःस्थितिसन्धिवालो  
-विदग्धरक्षोमृगहा नृसिंहः ।  
-सुप्तस्त्वया बोधयितुं न शक्यः  
+[^non-baroDa-CE] विदग्धरक्षोमृगहा नृसिंहः ।  
+[^non-baroDa-CE] सुप्तस्त्वया बोधयितुं न शक्यः  
 शराङ्गपूर्णो niSitAsi-daMSTraH ॥ ४७ ॥
 _________________
 असौ रणान्तःस्थितिसन्धिवालो  
-विदग्धरक्षोमृगहा नृसिंहः ।  
-सुप्तस्त्वया बोधयितुं न शक्यः  
-शराङ्गपूर्णो निशितासिदंष्ट्रः ॥
+[^non-baroDa-CE] विदग्धरक्षोमृगहा नृसिंहः ।  
+[^non-baroDa-CE] सुप्तस्त्वया बोधयितुं न शक्यः  
+[^non-baroDa-CE] शराङ्गपूर्णो निशितासिदंष्ट्रः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2809,10 +2809,10 @@ The nara-simha, man-lion incarnation is suggested here.
 
 <details><summary>मूलम्</summary>
 
-चापापहारे भुजवेगपङ्के  
-शरोर्मिमाले सुमहाहवौघे ।  
-न रामपातालमुखेऽतिघोरे  
-प्रस्कन्दितुं राक्षसराज युक्तम् ॥ ४८ ॥
+[^non-baroDa-CE] चापापहारे भुजवेगपङ्के  
+[^non-baroDa-CE] शरोर्मिमाले सुमहाहवौघे ।  
+[^non-baroDa-CE] न रामपातालमुखेऽतिघोरे  
+[^non-baroDa-CE] प्रस्कन्दितुं राक्षसराज युक्तम् ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2878,13 +2878,13 @@ called Rama. Tiirtha.
 
 <details><summary>मूलम्</summary>
 
-प्रसीद लङ्केश्वर राक्षसेन्द्र  
-लङ्कां प्रसन्नो भव साधु गच्छ ।  
-त्वं स्वेषु दारेषु रमस्व नित्यं  
-रामः सभार्यो रमतां वनेषु ॥ ४९ ॥
+[^non-baroDa-CE] प्रसीद लङ्केश्वर राक्षसेन्द्र  
+[^non-baroDa-CE] लङ्कां प्रसन्नो भव साधु गच्छ ।  
+[^non-baroDa-CE] त्वं स्वेषु दारेषु रमस्व नित्यं  
+[^non-baroDa-CE] रामः सभार्यो रमतां वनेषु ॥ ४९ ॥
 _________________
-प्रसीद लङ्केश्वर राक्षसेन्द्र  
-लङ्कां प्रसन्नो भव साधु गच्छ ।  
+[^non-baroDa-CE] प्रसीद लङ्केश्वर राक्षसेन्द्र  
+[^non-baroDa-CE] लङ्कां प्रसन्नो भव साधु गच्छ ।  
 त्वं स्वेषु दारेषु रमस्य नित्यं  
 रामं सभार्यो रमतां वनेषु ॥
 </details>
@@ -2937,8 +2937,8 @@ be content with it, holdback your greediness...'
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तो दशग्रीवो मारीचेन स रावणः ।  
-न्यवर्तत पुरीं लङ्कां विवेश च गृहोत्तमम् ॥ ५० ॥
+[^non-baroDa-CE] एवमुक्तो दशग्रीवो मारीचेन स रावणः ।  
+[^non-baroDa-CE] न्यवर्तत पुरीं लङ्कां विवेश च गृहोत्तमम् ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2988,3 +2988,5 @@ and home. [3-31-50]
 Thus addressed by Mārīca, that ten-necked Rāvaṇa turned back (_nyavartata_) to the city of Laṅkā and entered his splendid palace (_gṛhottamam_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

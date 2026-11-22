@@ -187,10 +187,10 @@ At his flanks stood the unbroken Nooses of Time (_tasya pārśveṣu nicchidrā�
 <details><summary>मूलम्</summary>
 
 तस्य पार्श्वेषु निश्छिद्राः कालपाशाः प्रतिष्ठिताः ।  
-पावकस्पर्शसङ्काशः स्थितो मूर्तश्च मुद‍्गरः ॥ ६ ॥
+[^non-baroDa-CE] पावकस्पर्शसङ्काशः स्थितो मूर्तश्च मुद‍्गरः ॥ ६ ॥
 _________________
-तस्य पार्श्वेषु निच्छिद्राः कालपाशाः प्रतिष्ठिताः ।  
-पावकस्पर्श सङ्काशः स्थितो मूर्तश्च मुद्गरः ॥
+[^non-baroDa-CE] तस्य पार्श्वेषु निच्छिद्राः कालपाशाः प्रतिष्ठिताः ।  
+[^non-baroDa-CE] पावकस्पर्श सङ्काशः स्थितो मूर्तश्च मुद्गरः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -260,7 +260,7 @@ Then the charioteer, urging on those steeds of radiant sheen (_pracodayan sūtas
 <details><summary>मूलम्</summary>
 
 ततस्त्वचोदयत् सूतस्तानश्वान् रुचिरप्रभान् ।  
-प्रययौ भीमसन्नादो यत्र रक्षःपतिः स्थितः ॥ ८ ॥
+[^non-baroDa-CE] प्रययौ भीमसन्नादो यत्र रक्षःपतिः स्थितः ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -290,8 +290,8 @@ In a single moment (_muhūrtena_), those horses equal to Indra’s steeds (_hay�
 
 <details><summary>मूलम्</summary>
 
-मुहूर्तेन यमं ते तु हया हरिहयोपमाः ।  
-प्रापयन् मनसस्तुल्या यत्र तत् प्रस्तुतं रणम् ॥ ९ ॥
+[^non-baroDa-CE] मुहूर्तेन यमं ते तु हया हरिहयोपमाः ।  
+[^non-baroDa-CE] प्रापयन् मनसस्तुल्या यत्र तत् प्रस्तुतं रणम् ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -647,7 +647,7 @@ The lord of rākṣasas too, twanging his bow radiant as Indra’s thunderbolt (
 
 <details><summary>मूलम्</summary>
 
-राक्षसेन्द्रोऽपि विस्फार्य चापमिन्द्राशनिप्रभम् ।  
+[^non-baroDa-CE] राक्षसेन्द्रोऽपि विस्फार्य चापमिन्द्राशनिप्रभम् ।  
 निरन्तरमिवाकाशं कुर्वन् बाणांस्ततोऽसृजत् ॥ २० ॥
 </details>
 
@@ -709,11 +709,11 @@ Thereupon from the mouth of the enraged Yama (_kruddhasya vadanād yamasya_) the
 
 <details><summary>मूलम्</summary>
 
-ततः क्रुद्धस्य वदनाद् यमस्य समजायत ।  
+[^non-baroDa-CE] ततः क्रुद्धस्य वदनाद् यमस्य समजायत ।  
 ज्वालामाली सनिश्वासः सधूमः कोपपावकः ॥ २२ ॥
 _________________
-ततः क्रुद्धस्य वदनाद्यमस्य समजायत ।  
-ज्वालामाली सनिःश्वासः सधूमः कोपपावकः ॥
+[^non-baroDa-CE] ततः क्रुद्धस्य वदनाद्यमस्य समजायत ।  
+[^non-baroDa-CE] ज्वालामाली सनिःश्वासः सधूमः कोपपावकः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -907,10 +907,10 @@ The sarga’s final verse presents a poignant surprise: Yama departs to heaven w
 
 <details><summary>मूलम्</summary>
 
-तदाश्चर्यमथो दृष्ट्वा देवदानवसन्निधौ ।  
-प्रहर्षितौ सुसंरब्धौ मृत्युकालौ बभूवतुः ॥ २३ ॥
+[^non-baroDa-CE] तदाश्चर्यमथो दृष्ट्वा देवदानवसन्निधौ ।  
+[^non-baroDa-CE] प्रहर्षितौ सुसंरब्धौ मृत्युकालौ बभूवतुः ॥ २३ ॥
 _________________
-तदाश्चर्यमथो दृष्ट्वा देवदानवसन्निधौ ।  
+[^non-baroDa-CE] तदाश्चर्यमथो दृष्ट्वा देवदानवसन्निधौ ।  
 प्रहर्षितौ सुसंरभ्धौ मृत्युकालौ बभूवतुः ॥
 </details>
 
@@ -942,7 +942,7 @@ Then Death, still more enraged (_mṛtyuḥ kruddhataraḥ_), addressed Vaivasva
 <details><summary>मूलम्</summary>
 
 ततो मृत्युः क्रुद्धतरो वैवस्वतमभाषत ।  
-मुञ्च मां समरे यावद्धन्मीमं पापराक्षसम् ॥ २४ ॥
+[^non-baroDa-CE] मुञ्च मां समरे यावद्धन्मीमं पापराक्षसम् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -988,25 +988,25 @@ Death extends his roll to Vṛtra, Bāṇa, sage-kings, celestials, and the eart
 
 <details><summary>मूलम्</summary>
 
-नैषा रक्षो भवेदद्य मर्यादा हि निसर्गतः ।  
-हिरण्यकशिपुः श्रीमान् नमुचिः शम्बरस्तथा ॥ २५ ॥  
+[^non-baroDa-CE] नैषा रक्षो भवेदद्य मर्यादा हि निसर्गतः ।  
+[^non-baroDa-CE] हिरण्यकशिपुः श्रीमान् नमुचिः शम्बरस्तथा ॥ २५ ॥  
 निसन्दिर्धूमकेतुश्च बलिर्वैरोचनोऽपि च ।  
 शम्भुर्दैत्यो महाराजो वृत्रो बाणस्तथैव च ॥ २६ ॥  
-राजर्षयः शास्त्रविदो गन्धर्वाः समहोरगाः ।  
+[^non-baroDa-CE] राजर्षयः शास्त्रविदो गन्धर्वाः समहोरगाः ।  
 ऋषयः पन्नगा दैत्या यक्षाश्च ह्यप्सरोगणाः ॥ २७ ॥  
-युगान्तपरिवर्ते च पृथिवी समहार्णवा ।  
-क्षयं नीता महाराज सपर्वतसरिद‍्द्रुमा ॥ २८ ॥  
+[^non-baroDa-CE] युगान्तपरिवर्ते च पृथिवी समहार्णवा ।  
+[^non-baroDa-CE] क्षयं नीता महाराज सपर्वतसरिद‍्द्रुमा ॥ २८ ॥  
 एते चान्ये च बहवो बलवन्तो दुरासदाः ।  
 विनिपन्ना मया दृष्टाः किमुतायं निशाचरः ॥ २९ ॥
 _________________
 नैष रक्षो भवेदद्य मर्यादा हि निसर्गतः ।  
-हिरण्यकशिपुः श्रीमान् नमुचिः शम्बरस्तथा ॥
+[^non-baroDa-CE] हिरण्यकशिपुः श्रीमान् नमुचिः शम्बरस्तथा ॥
 निसन्दिर्धूमकेतुश्च बलिर्वैरोचनोऽपि च ।  
 शम्भुर्दैत्यो महाराजो वृत्रो बाणस्तथैव च ॥
-राजर्षयः शास्त्रविदो गन्धर्वाः समहोरगाः ।  
+[^non-baroDa-CE] राजर्षयः शास्त्रविदो गन्धर्वाः समहोरगाः ।  
 ऋषयः पन्नगा दैत्या यक्षाश्च ह्यप्सरोगणाः ॥
-युगान्तपरिवर्ते च पृथिवी समहार्णवा ।  
-क्षयं नीता महाराज सपर्वतसरिद्द्रुमा ॥
+[^non-baroDa-CE] युगान्तपरिवर्ते च पृथिवी समहार्णवा ।  
+[^non-baroDa-CE] क्षयं नीता महाराज सपर्वतसरिद्द्रुमा ॥
 एते चान्ये च बहवो बलवन्तो दुरासदाः ।  
 विनिपन्ना मया दृष्टाः किमुतायं निशाचरः ॥
 </details>
@@ -1236,7 +1236,7 @@ Thereupon all on the battlefield fled in terror from it (_tato vidudruvuḥ sarv
 <details><summary>मूलम्</summary>
 
 स ज्वालापरिवारस्तु निर्दहन्निव राक्षसम् ।  
-तेन स्पृष्टो बलवता महाप्रहरणोऽस्फुरत् ॥ ३६ ॥
+[^non-baroDa-CE] तेन स्पृष्टो बलवता महाप्रहरणोऽस्फुरत् ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1398,8 +1398,8 @@ Brahmā forbids Yama to strike the rākṣasa with the Staff, reminding him of t
 
 <details><summary>मूलम्</summary>
 
-यो हि मामनृतं कुर्याद् देवो वा मानुषोऽपि वा ।  
-त्रैलोक्यमनृतं तेन कृतं स्यान्नात्र संशयः ॥ ४१ ॥
+[^non-baroDa-CE] यो हि मामनृतं कुर्याद् देवो वा मानुषोऽपि वा ।  
+[^non-baroDa-CE] त्रैलोक्यमनृतं तेन कृतं स्यान्नात्र संशयः ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1437,8 +1437,8 @@ Brahmā spells out the inescapable dilemma—whether Rāvaṇa lives or dies ben
 
 <details><summary>मूलम्</summary>
 
-क्रुद्धेन विप्रमुक्तोऽयं निर्विशेषं प्रियाप्रिये ।  
-प्रजाः संहरते रौद्रो लोकत्रयभयावहः ॥ ४२ ॥
+[^non-baroDa-CE] क्रुद्धेन विप्रमुक्तोऽयं निर्विशेषं प्रियाप्रिये ।  
+[^non-baroDa-CE] प्रजाः संहरते रौद्रो लोकत्रयभयावहः ॥ ४२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1635,7 +1635,7 @@ Declaring that nothing remains for him on the field against a boon-guarded foe, 
 <details><summary>मूलम्</summary>
 
 किं त्विदानीं मया शक्यं कर्तुं रणगतेन हि ।  
-न मया यद्ययं शक्यो हन्तुं वरपुरस्कृतः ॥ ४८ ॥
+[^non-baroDa-CE] न मया यद्ययं शक्यो हन्तुं वरपुरस्कृतः ॥ ४८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1750,3 +1750,4 @@ And that Lord Vaivasvata (_sa tu vaivasvataḥ_), joyful (_hṛṣṭaḥ_), tog
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

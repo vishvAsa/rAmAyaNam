@@ -43,7 +43,7 @@ Misguided by the wicked hunchback, Kaikeyī resolves upon her course, delights M
 
 <details><summary>मूलम्</summary>
 
-विदर्शिता यदा देवी कुब्जया पापया भृशम् ।  
+[^non-baroDa-CE] विदर्शिता यदा देवी कुब्जया पापया भृशम् ।  
 तदा शेते स्म सा भूमौ दिग्धविद्धेव किन्नरी ॥ १ ॥
 </details>
 
@@ -90,8 +90,8 @@ When the queen had been thoroughly misguided (_vidarśitā bhṛśam_) by the wi
 
 <details><summary>मूलम्</summary>
 
-निश्चित्य मनसा कृत्यं सा सम्यगिति भामिनी ।  
-मन्थरायै शनैः सर्वमाचचक्षे विचक्षणा ॥ २ ॥
+[^non-baroDa-CE] निश्चित्य मनसा कृत्यं सा सम्यगिति भामिनी ।  
+[^non-baroDa-CE] मन्थरायै शनैः सर्वमाचचक्षे विचक्षणा ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -143,9 +143,9 @@ Having resolved in her mind that her course of action was right (_niścitya mana
 
 <details><summary>मूलम्</summary>
 
-सा दीना निश्चयं कृत्वा मन्थरावाक्यमोहिता ।  
-नागकन्येव निःश्वस्य दीर्घमुष्णं च भामिनी ॥ ३ ॥  
-मुहूर्तं चिन्तयामास मार्गमात्मसुखावहम् ।
+[^non-baroDa-CE] सा दीना निश्चयं कृत्वा मन्थरावाक्यमोहिता ।  
+[^non-baroDa-CE] नागकन्येव निःश्वस्य दीर्घमुष्णं च भामिनी ॥ ३ ॥  
+[^non-baroDa-CE] मुहूर्तं चिन्तयामास मार्गमात्मसुखावहम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -200,11 +200,11 @@ Dejected (_dīnā_) and deluded by Mantharā&#x27;s words, that passionate queen
 
 <details><summary>मूलम्</summary>
 
-सा सुहृच्चार्थकामा च तं निशम्य विनिश्चयम् ॥ ४ ॥  
-बभूव परमप्रीता सिद्धिं प्राप्येव मन्थरा ।
+[^non-baroDa-CE] सा सुहृच्चार्थकामा च तं निशम्य विनिश्चयम् ॥ ४ ॥  
+[^non-baroDa-CE] बभूव परमप्रीता सिद्धिं प्राप्येव मन्थरा ।
 _________________
 सा सुहृच्छार्थकामा च तं निशम्य विनिश्चयम् ॥  
-बभूव परमप्रीता सिद्धिं प्राप्येव मन्थरा ।
+[^non-baroDa-CE] बभूव परमप्रीता सिद्धिं प्राप्येव मन्थरा ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -255,8 +255,8 @@ she pondered for a moment the path that would bring happiness to herself (_mārg
 
 <details><summary>मूलम्</summary>
 
-अथ सा रुषिता देवी सम्यक् कृत्वा विनिश्चयम् ॥ ५ ॥  
-संविवेशाबला भूमौ निवेश्य भ्रुकुटिं मुखे ।
+[^non-baroDa-CE] अथ सा रुषिता देवी सम्यक् कृत्वा विनिश्चयम् ॥ ५ ॥  
+[^non-baroDa-CE] संविवेशाबला भूमौ निवेश्य भ्रुकुटिं मुखे ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -308,8 +308,8 @@ became supremely delighted (_babhūva paramaprītā_), as though she had already
 
 <details><summary>मूलम्</summary>
 
-ततश्चित्राणि माल्यानि दिव्यान्याभरणानि च ॥ ६ ॥  
-अपविद्धानि कैकेय्या तानि भूमिं प्रपेदिरे ।
+[^non-baroDa-CE] ततश्चित्राणि माल्यानि दिव्यान्याभरणानि च ॥ ६ ॥  
+[^non-baroDa-CE] अपविद्धानि कैकेय्या तानि भूमिं प्रपेदिरे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -365,7 +365,7 @@ Binding her hair into a single braid while her flung ornaments strew the floor l
 <details><summary>मूलम्</summary>
 
 तया तान्यपविद्धानि माल्यान्याभरणानि च ॥ ७ ॥  
-अशोभयन्त वसुधां नक्षत्राणि यथा नभः ।
+[^non-baroDa-CE] अशोभयन्त वसुधां नक्षत्राणि यथा नभः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -410,10 +410,10 @@ shine, as stars to the sky.
 
 <details><summary>मूलम्</summary>
 
-क्रोधागारे च पतिता सा बभौ मलिनाम्बरा ॥ ८ ॥  
+[^non-baroDa-CE] क्रोधागारे च पतिता सा बभौ मलिनाम्बरा ॥ ८ ॥  
 एकवेणीं दृढां बद‍्ध्वा गतसत्त्वेव किन्नरी ।
 _________________
-क्रोधागारे च पतिता सा बभौ मलिनाम्बरा ॥  
+[^non-baroDa-CE] क्रोधागारे च पतिता सा बभौ मलिनाम्बरा ॥  
 एकवेणीं दृढं बध्वा गतसत्त्वेव किन्नरी ।
 </details>
 
@@ -467,7 +467,7 @@ adorned the earth even as stars adorn the firmament (_nakṣatrāṇi yathā nab
 <details><summary>मूलम्</summary>
 
 आज्ञाप्य तु महाराजो राघवस्याभिषेचनम् ॥ ९ ॥  
-उपस्थानमनुज्ञाप्य प्रविवेश निवेशनम् ।
+[^non-baroDa-CE] उपस्थानमनुज्ञाप्य प्रविवेश निवेशनम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -518,10 +518,10 @@ having bound her hair into a tight single braid (_ekaveṇīṃ dṛḍhāṃ ba
 
 <details><summary>मूलम्</summary>
 
-अद्य रामाभिषेको वै प्रसिद्ध इति जज्ञिवान् ॥ १० ॥  
+[^non-baroDa-CE] अद्य रामाभिषेको वै प्रसिद्ध इति जज्ञिवान् ॥ १० ॥  
 प्रियार्हां प्रियमाख्यातुं विवेशान्तःपुरं वशी ।
 _________________
-अद्य रामाभिषेको वै प्रसिद्ध इति जज्ञिवान् ॥  
+[^non-baroDa-CE] अद्य रामाभिषेको वै प्रसिद्ध इति जज्ञिवान् ॥  
 प्रियार्हो प्रियमाख्यातुं विवेशान्तःपुरं वशी ।
 </details>
 
@@ -704,7 +704,7 @@ Having bound the king by his oath, Kaikeyī is reassured (समाश्वस�
 
 <details><summary>मूलम्</summary>
 
-स कैकेय्या गृहं श्रेष्ठं प्रविवेश महायशाः ॥ ११ ॥  
+[^non-baroDa-CE] स कैकेय्या गृहं श्रेष्ठं प्रविवेश महायशाः ॥ ११ ॥  
 पाण्डुराभ्रमिवाकाशं राहुयुक्तं निशाकरः ।
 </details>
 
@@ -761,9 +761,9 @@ Entering Kaikeyī's heaven-like apartments filled with music, bowers, and jewele
 
 <details><summary>मूलम्</summary>
 
-शुकबर्हिसमायुक्तं क्रौञ्चहंसरुतायुतम् ॥ १२ ॥  
-वादित्ररवसङ्घुष्टं कुब्जावामनिकायुतम् ।  
-लतागृहैश्चित्रगृहैश्चम्पकाशोकशोभितैः ॥ १३ ॥
+[^non-baroDa-CE] शुकबर्हिसमायुक्तं क्रौञ्चहंसरुतायुतम् ॥ १२ ॥  
+[^non-baroDa-CE] वादित्ररवसङ्घुष्टं कुब्जावामनिकायुतम् ।  
+[^non-baroDa-CE] लतागृहैश्चित्रगृहैश्चम्पकाशोकशोभितैः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -795,10 +795,10 @@ Entering Kaikeyī's heaven-like apartments filled with music, bowers, and jewele
 
 <details><summary>मूलम्</summary>
 
-दान्तराजतसौवर्णवेदिकाभिः समायुतम् ।  
-नित्यपुष्पफलैर्वृक्षैर्वापीभिरुपशोभितम् ॥ १४ ॥
+[^non-baroDa-CE] दान्तराजतसौवर्णवेदिकाभिः समायुतम् ।  
+[^non-baroDa-CE] नित्यपुष्पफलैर्वृक्षैर्वापीभिरुपशोभितम् ॥ १४ ॥
 _________________
-दान्त राजत सौवर्णवेदिकाभिः समायुतम् ।  
+[^non-baroDa-CE] दान्त राजत सौवर्णवेदिकाभिः समायुतम् ।  
 नित्यपुष्पलैर्वृक्षैर्वापीभिरुपशोभितम् ॥
 </details>
 
@@ -830,9 +830,9 @@ furnished with pavilions of ivory, silver, and gold (_dāntarājatasauvarṇaved
 
 <details><summary>मूलम्</summary>
 
-दान्तराजतसौवर्णैः संवृतं परमासनैः ।  
-विविधैरन्नपानैश्च भक्ष्यैश्च विविधैरपि ॥ १५ ॥  
-उपपन्नं महार्हैश्च भूषणैस्त्रिदिवोपमम् ।
+[^non-baroDa-CE] दान्तराजतसौवर्णैः संवृतं परमासनैः ।  
+[^non-baroDa-CE] विविधैरन्नपानैश्च भक्ष्यैश्च विविधैरपि ॥ १५ ॥  
+[^non-baroDa-CE] उपपन्नं महार्हैश्च भूषणैस्त्रिदिवोपमम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -862,8 +862,8 @@ arrayed with supreme couches and seats of ivory, silver, and gold, and with mani
 
 <details><summary>मूलम्</summary>
 
-स प्रविश्य महाराजः स्वमन्तःपुरमृद्धिमत् ॥ १६ ॥  
-न ददर्श स्त्रियं राजा कैकेयीं शयनोत्तमे ।
+[^non-baroDa-CE] स प्रविश्य महाराजः स्वमन्तःपुरमृद्धिमत् ॥ १६ ॥  
+[^non-baroDa-CE] न ददर्श स्त्रियं राजा कैकेयीं शयनोत्तमे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -928,8 +928,8 @@ and endowed with costly ornaments, so that it resembled heaven (_tridivopamam_).
 
 <details><summary>मूलम्</summary>
 
-स कामबलसंयुक्तो रत्यर्थी मनुजाधिपः ॥ १७ ॥  
-अपश्यन् दयितां भार्यां पप्रच्छ विषसाद च ।
+[^non-baroDa-CE] स कामबलसंयुक्तो रत्यर्थी मनुजाधिपः ॥ १७ ॥  
+[^non-baroDa-CE] अपश्यन् दयितां भार्यां पप्रच्छ विषसाद च ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -991,9 +991,9 @@ Learning from the terrified doorkeeper that Kaikeyī has rushed to the chamber o
 
 <details><summary>मूलम्</summary>
 
-नहि तस्य पुरा देवी तां वेलामत्यवर्तत ॥ १८ ॥  
-न च राजा गृहं शून्यं प्रविवेश कदाचन ।  
-ततो गृहगतो राजा कैकेयीं पर्यपृच्छत ॥ १९ ॥  
+[^non-baroDa-CE] नहि तस्य पुरा देवी तां वेलामत्यवर्तत ॥ १८ ॥  
+[^non-baroDa-CE] न च राजा गृहं शून्यं प्रविवेश कदाचन ।  
+[^non-baroDa-CE] ततो गृहगतो राजा कैकेयीं पर्यपृच्छत ॥ १९ ॥  
 यथापुरमविज्ञाय स्वार्थलिप्सुमपण्डिताम् ।
 </details>
 
@@ -1057,7 +1057,7 @@ before, without knowing about foolish Kaikeyi who desired to get her selfish end
 <details><summary>मूलम्</summary>
 
 प्रतिहारी त्वथोवाच सन्त्रस्ता तु कृताञ्जलिः ॥ २० ॥  
-देव देवी भृशं क्रुद्धा क्रोधागारमभिद्रुता ।
+[^non-baroDa-CE] देव देवी भृशं क्रुद्धा क्रोधागारमभिद्रुता ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1109,11 +1109,11 @@ as was his wont before (_yathāpuram_), not knowing that the foolish woman was g
 
 <details><summary>मूलम्</summary>
 
-प्रतीहार्या वचः श्रुत्वा राजा परमदुर्मनाः ॥ २१ ॥  
-विषसाद पुनर्भूयो लुलितव्याकुलेन्द्रियः ।
+[^non-baroDa-CE] प्रतीहार्या वचः श्रुत्वा राजा परमदुर्मनाः ॥ २१ ॥  
+[^non-baroDa-CE] विषसाद पुनर्भूयो लुलितव्याकुलेन्द्रियः ।
 _________________
 प्रतिहार्या वचः श्रुत्वा राजापरमदुर्मनाः ॥  
-विषसाद पुनर्भूयो लुलितव्याकुलेन्द्रियः ।
+[^non-baroDa-CE] विषसाद पुनर्भूयो लुलितव्याकुलेन्द्रियः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1213,7 +1213,7 @@ sank into even deeper dejection (_viṣasāda punar bhūyaḥ_), his senses agit
 
 स वृद्धस्तरुणीं भार्यां प्राणेभ्योऽपि गरीयसीम् ॥ २३ ॥  
 अपापः पापसङ्कल्पां ददर्श धरणीतले ।  
-लतामिव विनिष्कृत्तां पतितां देवतामिव ॥ २४ ॥
+[^non-baroDa-CE] लतामिव विनिष्कृत्तां पतितां देवतामिव ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1608,7 +1608,7 @@ have to extend a favour now and to whom I have to do a great offensive act."
 
 <details><summary>मूलम्</summary>
 
-मा रौत्सीर्मा च कार्षीस्त्वं देवि सम्परिशोषणम् ॥ ३२ ॥  
+[^non-baroDa-CE] मा रौत्सीर्मा च कार्षीस्त्वं देवि सम्परिशोषणम् ॥ ३२ ॥  
 अवध्यो वध्यतां को वा वध्यः को वा विमुच्यताम् ।  
 दरिद्रः को भवेदाढ्यो द्रव्यवान् वाप्यकिञ्चनः ॥ ३३ ॥
 _________________
@@ -1791,8 +1791,8 @@ Swearing by his own good deeds and enumerating the rich realms under his wheel o
 <details><summary>मूलम्</summary>
 
 यावदावर्तते चक्रं तावती मे वसुन्धरा ॥ ३६ ॥  
-द्राविडाः सिन्धुसौवीराः सौराष्ट्रा दक्षिणापथाः ।  
-वङ्गाङ्गमगधा मत्स्याः समृद्धाः काशिकोसलाः ॥ ३७ ॥
+[^non-baroDa-CE] द्राविडाः सिन्धुसौवीराः सौराष्ट्रा दक्षिणापथाः ।  
+[^non-baroDa-CE] वङ्गाङ्गमगधा मत्स्याः समृद्धाः काशिकोसलाः ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1850,8 +1850,8 @@ all full of riches.
 
 <details><summary>मूलम्</summary>
 
-तत्र जातं बहु द्रव्यं धनधान्यमजाविकम् ।  
-ततो वृणीष्व कैकेयि यद् यत् त्वं मनसेच्छसि ॥ ३८ ॥
+[^non-baroDa-CE] तत्र जातं बहु द्रव्यं धनधान्यमजाविकम् ।  
+[^non-baroDa-CE] ततो वृणीष्व कैकेयि यद् यत् त्वं मनसेच्छसि ॥ ३८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1898,9 +1898,9 @@ manifold products arise there, wealth, grain, goats, and sheep (_dhanadhānyam a
 
 <details><summary>मूलम्</summary>
 
-किमायासेन ते भीरु उत्तिष्ठोत्तिष्ठ शोभने ।  
-तत्त्वं मे ब्रूहि कैकेयि यतस्ते भयमागतम् ।  
-तत् ते व्यपनयिष्यामि नीहारमिव रश्मिवान् ॥ ३९ ॥
+[^non-baroDa-CE] किमायासेन ते भीरु उत्तिष्ठोत्तिष्ठ शोभने ।  
+[^non-baroDa-CE] तत्त्वं मे ब्रूहि कैकेयि यतस्ते भयमागतम् ।  
+[^non-baroDa-CE] तत् ते व्यपनयिष्यामि नीहारमिव रश्मिवान् ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2009,3 +2009,4 @@ Addressed thus, she was reassured (_samāśvastā_); and eager to utter that cru
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

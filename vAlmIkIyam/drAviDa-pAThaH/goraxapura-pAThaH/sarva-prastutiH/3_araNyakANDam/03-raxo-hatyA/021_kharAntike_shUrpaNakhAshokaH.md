@@ -152,7 +152,7 @@ order to fulfill your wish? [3-21-2]
 <details><summary>मूलम्</summary>
 
 भक्ताश्चैवानुरक्ताश्च हिताश्च मम नित्यशः ।  
-हन्यमाना न हन्यन्ते न न कुर्युर्वचो मम ॥ ३ ॥
+[^non-baroDa-CE] हन्यमाना न हन्यन्ते न न कुर्युर्वचो मम ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -372,8 +372,8 @@ Wiping her tears, Śūrpaṇakhā reports that all fourteen warriors were slain 
 
 <details><summary>मूलम्</summary>
 
-अस्मीदानीमहं प्राप्ता हतश्रवणनासिका ।  
-शोणितौघपरिक्लिन्ना त्वया च परिसान्त्विता ॥ ७ ॥
+[^non-baroDa-CE] अस्मीदानीमहं प्राप्ता हतश्रवणनासिका ।  
+[^non-baroDa-CE] शोणितौघपरिक्लिन्ना त्वया च परिसान्त्विता ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -874,7 +874,7 @@ Challenging Khara either to flee Janasthāna with his kinsmen or to slay the two
 
 शूरमानी न शूरस्त्वं मिथ्यारोपितविक्रमः ॥ १७ ॥  
 अपयाहि जनस्थानात् त्वरितः सहबान्धवः ।  
-जहि त्वं समरे मूढान्यथा तु कुलपांसन ॥ १८ ॥
+[^non-baroDa-CE] जहि त्वं समरे मूढान्यथा तु कुलपांसन ॥ १८ ॥
 _________________
 शूरमानी न शूरस्त्वं मिथ्यारोपितविक्रमः ॥
 अपयाहि जनस्थानात् त्व्रिरितः सहबान्धवः ।  
@@ -1044,9 +1044,9 @@ For, overwhelmed by Rāma&#x27;s fiery splendour (_rāma-tejo-&#x27;bhibhūtaḥ
 
 <details><summary>मूलम्</summary>
 
-एवं विलप्य बहुशो राक्षसी प्रदरोदरी ॥ २१ ॥  
+[^non-baroDa-CE] एवं विलप्य बहुशो राक्षसी प्रदरोदरी ॥ २१ ॥  
 भ्रातुः समीपे शोकार्ता नष्टसञ्ज्ञा बभूव ह ।  
-कराभ्यामुदरं हत्वा रुरोद भृशदुःखिता ॥ २२ ॥
+[^non-baroDa-CE] कराभ्यामुदरं हत्वा रुरोद भृशदुःखिता ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1185,3 +1185,4 @@ On प्रदरोदरी, **Rāma Varmā** (_Tilaka_) and **Śivasahāya**
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

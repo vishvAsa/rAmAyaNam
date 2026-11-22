@@ -430,9 +430,9 @@ with selfish motive and by dishonest means. You are not knowing."
 
 <details><summary>मूलम्</summary>
 
-तयोः सुचरितं स्वार्थं शाठ्यात् परिजिहीर्षतोः ।  
-यदि नैवं व्यवसितं स्याद्धि प्रागेव राघव ।  
-तयोः प्रागेव दत्तश्च स्याद् वरः प्रकृतश्च सः ॥ ९ ॥
+[^non-baroDa-CE] तयोः सुचरितं स्वार्थं शाठ्यात् परिजिहीर्षतोः ।  
+[^non-baroDa-CE] यदि नैवं व्यवसितं स्याद्धि प्रागेव राघव ।  
+[^non-baroDa-CE] तयोः प्रागेव दत्तश्च स्याद् वरः प्रकृतश्च सः ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -486,7 +486,7 @@ the boon must have been given naturally even long ago."
 <details><summary>मूलम्</summary>
 
 लोकविद्विष्टमारब्धं त्वदन्यस्याभिषेचनम् ।  
-नोत्सहे सहितुं वीर तत्र मे क्षन्तुमर्हसि ॥ १० ॥
+[^non-baroDa-CE] नोत्सहे सहितुं वीर तत्र मे क्षन्तुमर्हसि ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -597,8 +597,8 @@ and by which indulgence, you are stupefied, is disliked by me."
 
 <details><summary>मूलम्</summary>
 
-कथं त्वं कर्मणा शक्तः कैकेयीवशवर्तिनः ।  
-करिष्यसि पितुर्वाक्यमधर्मिष्ठं विगर्हितम् ॥ १२ ॥
+[^non-baroDa-CE] कथं त्वं कर्मणा शक्तः कैकेयीवशवर्तिनः ।  
+[^non-baroDa-CE] करिष्यसि पितुर्वाक्यमधर्मिष्ठं विगर्हितम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -655,8 +655,8 @@ Grieving that Rāma fails to see the fraudulent rift and clings to a censured dh
 
 <details><summary>मूलम्</summary>
 
-यदयं किल्बिषाद् भेदः कृतोऽप्येवं न गृह्यते ।  
-जायते तत्र मे दुःखं धर्मसङ्गश्च गर्हितः ॥ १३ ॥
+[^non-baroDa-CE] यदयं किल्बिषाद् भेदः कृतोऽप्येवं न गृह्यते ।  
+[^non-baroDa-CE] जायते तत्र मे दुःखं धर्मसङ्गश्च गर्हितः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -712,12 +712,12 @@ not grasping it. Such a conduct is to be censured."
 
 <details><summary>मूलम्</summary>
 
-तवायं धर्मसंयोगो लोकस्यास्य विगर्हितः ।  
-मनसापि कथं कामं कुर्यात् त्वां कामवृत्तयोः ।  
-तयोस्त्वहितयोर्नित्यं शत्र्वोः पित्रभिधानयोः ॥ १४ ॥
+[^non-baroDa-CE] तवायं धर्मसंयोगो लोकस्यास्य विगर्हितः ।  
+[^non-baroDa-CE] मनसापि कथं कामं कुर्यात् त्वां कामवृत्तयोः ।  
+[^non-baroDa-CE] तयोस्त्वहितयोर्नित्यं शत्र्वोः पित्रभिधानयोः ॥ १४ ॥
 _________________
-तवायं धर्मसंयोगो लोकस्यास्य विगर्हितः ।  
-मनसापि कथं कामं कुर्यात् त्वां कामवृत्तयोः ।  
+[^non-baroDa-CE] तवायं धर्मसंयोगो लोकस्यास्य विगर्हितः ।  
+[^non-baroDa-CE] मनसापि कथं कामं कुर्यात् त्वां कामवृत्तयोः ।  
 तयोस्त्वहितयोर्नित्यं शत्रवोः पित्रभिधानयोः ॥
 </details>
 
@@ -2354,3 +2354,4 @@ Wiping away his tears (_vimṛjya bāṣpam_) and soothing Lakṣmaṇa again an
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

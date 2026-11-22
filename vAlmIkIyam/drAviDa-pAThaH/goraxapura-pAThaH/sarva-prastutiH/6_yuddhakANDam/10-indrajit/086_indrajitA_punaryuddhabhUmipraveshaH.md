@@ -92,8 +92,8 @@ Then, in that situation (_tasyām avasthāyām_), Rāvaṇa&#x27;s younger broth
 
 <details><summary>मूलम्</summary>
 
-यदेतद् राक्षसानीकं मेघश्यामं विलोक्यते ।  
-एतदायोध्यतां शीघ्रं कपिभिश्च शिलायुधैः ॥ २ ॥  
+[^non-baroDa-CE] यदेतद् राक्षसानीकं मेघश्यामं विलोक्यते ।  
+[^non-baroDa-CE] एतदायोध्यतां शीघ्रं कपिभिश्च शिलायुधैः ॥ २ ॥  
 तस्यानीकस्य महतो भेदने यत लक्ष्मण ।  
 राक्षसेन्द्रसुतोऽप्यत्र भिन्ने दृश्यो भविष्यति ॥ ३ ॥
 </details>
@@ -1679,3 +1679,4 @@ Thus addressed at that time by Vibhīṣaṇa, the terrifyingly dreadful foe-aff
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

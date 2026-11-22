@@ -684,7 +684,7 @@ Having approached from afar that [lake] of flowing potable water (_tām āsādya
 
 <details><summary>मूलम्</summary>
 
-तत्र जग्मतुरव्यग्रौ राघवौ हि समाहितौ ।  
+[^non-baroDa-CE] तत्र जग्मतुरव्यग्रौ राघवौ हि समाहितौ ।  
 स तु शोकसमाविष्टो रामो दशरथात्मजः ॥ १५ ॥  
 विवेश नलिनीं रम्यां पङ्कजैश्च समावृताम् ।
 </details>
@@ -1224,11 +1224,11 @@ he is renowned, and he presides over that mountain. [3-75-26b, 27b]
 
 सुग्रीवमभिगच्छ त्वं वानरेन्द्रं नरर्षभ ॥ २७ ॥  
 इत्युवाच पुनर्वाक्यं लक्ष्मणं सत्यविक्रमः ।  
-कथं मया विना सीतां शक्यं लक्ष्मण जीवितुम् ॥ २८ ॥
+[^non-baroDa-CE] कथं मया विना सीतां शक्यं लक्ष्मण जीवितुम् ॥ २८ ॥
 _________________
 सुग्रीवमभिगच्छ त्वं वानरेन्द्र नरर्षभ ॥
 इत्युवाच पुनर्वाक्यं लक्ष्मणं सत्यविक्रमः ।  
-कथं मया विना सीतां शक्यं लक्ष्मण जीवितुम् ॥
+[^non-baroDa-CE] कथं मया विना सीतां शक्यं लक्ष्मण जीवितुम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1294,15 +1294,15 @@ alone ancient copies.
 
 <details><summary>मूलम्</summary>
 
-इत्येवमुक्त्वा मदनाभिपीडितः  
-स लक्ष्मणं वाक्यमनन्यचेतनः ।  
-विवेश पम्पां नलिनीमनोरमां  
-तमुत्तमं शोकमुदीरयाणः ॥ २९ ॥
+[^non-baroDa-CE] इत्येवमुक्त्वा मदनाभिपीडितः  
+[^non-baroDa-CE] स लक्ष्मणं वाक्यमनन्यचेतनः ।  
+[^non-baroDa-CE] विवेश पम्पां नलिनीमनोरमां  
+[^non-baroDa-CE] तमुत्तमं शोकमुदीरयाणः ॥ २९ ॥
 _________________
-इत्येवमुक्त्वा मदनाभिपीडितः  
-स लक्ष्मणं वाक्यमनन्यचेतनः ।  
+[^non-baroDa-CE] इत्येवमुक्त्वा मदनाभिपीडितः  
+[^non-baroDa-CE] स लक्ष्मणं वाक्यमनन्यचेतनः ।  
 विवेश पम्पां नलिनीं मनोरमां  
-तमुत्तमं शोकमुदीरयाणः ॥
+[^non-baroDa-CE] तमुत्तमं शोकमुदीरयाणः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1360,10 +1360,10 @@ Having spoken these words to Lakṣmaṇa, afflicted by the god of love (_madan�
 
 <details><summary>मूलम्</summary>
 
-क्रमेण गत्वा प्रविलोकयन् वनं  
-ददर्श पम्पां शुभदर्शकाननाम् ।  
+[^non-baroDa-CE] क्रमेण गत्वा प्रविलोकयन् वनं  
+[^non-baroDa-CE] ददर्श पम्पां शुभदर्शकाननाम् ।  
 अनेकनानाविधपक्षिसङ्कुलां  
-विवेश रामः सह लक्ष्मणेन ॥ ३० ॥
+[^non-baroDa-CE] विवेश रामः सह लक्ष्मणेन ॥ ३० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1406,3 +1406,5 @@ and then Rama along with Lakshmana on entering the area of that lake, has seen t
 Proceeding step by step as he gazed upon the forest (_krameṇa gatvā pravilokayan vanam_), Rāma together with Lakṣmaṇa beheld Pampā with its fair-seeming woods (_śubha-darśa-kānanām_), thronged with many birds of diverse kinds (_aneka-nānā-vidha-pakṣi-saṃkulām_), and entered [its precincts] (_viveśa_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -94,8 +94,8 @@ Setting aside (_vinīya_) that grief-born exhaustion (_tam āyāsam_) and sippin
 
 <details><summary>मूलम्</summary>
 
-न शक्यसे वारयितुं गच्छेदानीं रघूत्तम ।  
-शीघ्रं च विनिवर्तस्व वर्तस्व च सतां क्रमे ॥ २ ॥
+[^non-baroDa-CE] न शक्यसे वारयितुं गच्छेदानीं रघूत्तम ।  
+[^non-baroDa-CE] शीघ्रं च विनिवर्तस्व वर्तस्व च सतां क्रमे ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -146,8 +146,8 @@ the footsteps of the virtuous."
 
 <details><summary>मूलम्</summary>
 
-यं पालयसि धर्मं त्वं प्रीत्या च नियमेन च ।  
-स वै राघवशार्दूल धर्मस्त्वामभिरक्षतु ॥ ३ ॥
+[^non-baroDa-CE] यं पालयसि धर्मं त्वं प्रीत्या च नियमेन च ।  
+[^non-baroDa-CE] स वै राघवशार्दूल धर्मस्त्वामभिरक्षतु ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -199,8 +199,8 @@ discipline , protect you".
 
 <details><summary>मूलम्</summary>
 
-येभ्यः प्रणमसे पुत्र देवेष्वायतनेषु च ।  
-ते च त्वामभिरक्षन्तु वने सह महर्षिभिः ॥ ४ ॥
+[^non-baroDa-CE] येभ्यः प्रणमसे पुत्र देवेष्वायतनेषु च ।  
+[^non-baroDa-CE] ते च त्वामभिरक्षन्तु वने सह महर्षिभिः ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -251,8 +251,8 @@ those along with great saints will protect you in the forest.
 
 <details><summary>मूलम्</summary>
 
-यानि दत्तानि तेऽस्त्राणि विश्वामित्रेण धीमता ।  
-तानि त्वामभिरक्षन्तु गुणैः समुदितं सदा ॥ ५ ॥
+[^non-baroDa-CE] यानि दत्तानि तेऽस्त्राणि विश्वामित्रेण धीमता ।  
+[^non-baroDa-CE] तानि त्वामभिरक्षन्तु गुणैः समुदितं सदा ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -303,8 +303,8 @@ are rich in good qualities"
 
 <details><summary>मूलम्</summary>
 
-पितृशुश्रूषया पुत्र मातृशुश्रूषया तथा ।  
-सत्येन च महाबाहो चिरं जीवाभिरक्षितः ॥ ६ ॥
+[^non-baroDa-CE] पितृशुश्रूषया पुत्र मातृशुश्रूषया तथा ।  
+[^non-baroDa-CE] सत्येन च महाबाहो चिरं जीवाभिरक्षितः ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -364,9 +364,9 @@ Kausalyā invokes the sacred implements of Vedic sacrifice, the mountains, trees
 
 <details><summary>मूलम्</summary>
 
-समित्कुशपवित्राणि वेद्यश्चायतनानि च ।  
-स्थण्डिलानि च विप्राणां शैला वृक्षाः क्षुपा ह्रदाः ।  
-पतङ्गाः पन्नगाः सिंहास्त्वां रक्षन्तु नरोत्तम ॥ ७ ॥
+[^non-baroDa-CE] समित्कुशपवित्राणि वेद्यश्चायतनानि च ।  
+[^non-baroDa-CE] स्थण्डिलानि च विप्राणां शैला वृक्षाः क्षुपा ह्रदाः ।  
+[^non-baroDa-CE] पतङ्गाः पन्नगाः सिंहास्त्वां रक्षन्तु नरोत्तम ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -460,7 +460,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-लोकपालाश्च ते सर्वे वासवप्रमुखास्तथा ।  
+[^non-baroDa-CE] लोकपालाश्च ते सर्वे वासवप्रमुखास्तथा ।  
 ऋतवः षट् च ते सर्वे मासाः संवत्सराः क्षपाः ॥ ९ ॥  
 दिनानि च मुहूर्ताश्च स्वस्ति कुर्वन्तु ते सदा ।  
 श्रुतिः स्मृतिश्च धर्मश्च पातु त्वां पुत्र सर्वतः ॥ १० ॥
@@ -590,11 +590,11 @@ all sides."
 
 <details><summary>मूलम्</summary>
 
-ते चापि सर्वतः सिद्धा दिशश्च सदिगीश्वराः ।  
-स्तुता मया वने तस्मिन् पान्तु त्वां पुत्र नित्यशः ॥ १२ ॥
+[^non-baroDa-CE] ते चापि सर्वतः सिद्धा दिशश्च सदिगीश्वराः ।  
+[^non-baroDa-CE] स्तुता मया वने तस्मिन् पान्तु त्वां पुत्र नित्यशः ॥ १२ ॥
 _________________
 ये चापि सर्वतः सिद्धा दिशश्च सदिगीश्वराः ।  
-स्तुता मया वने तस्मिन् पान्तु त्वां पुत्र नित्यशः ॥
+[^non-baroDa-CE] स्तुता मया वने तस्मिन् पान्तु त्वां पुत्र नित्यशः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -656,8 +656,8 @@ Kausalyā prays that the mountains, oceans, Varuṇa, sky, planets, divisions of
 
 <details><summary>मूलम्</summary>
 
-शैलाः सर्वे समुद्राश्च राजा वरुण एव च ।  
-द्यौरन्तरिक्षं पृथिवी वायुश्च सचराचरः ॥ १३ ॥  
+[^non-baroDa-CE] शैलाः सर्वे समुद्राश्च राजा वरुण एव च ।  
+[^non-baroDa-CE] द्यौरन्तरिक्षं पृथिवी वायुश्च सचराचरः ॥ १३ ॥  
 नक्षत्राणि च सर्वाणि ग्रहाश्च सह दैवतैः ।  
 अहोरात्रे तथा सन्ध्ये पान्तु त्वां वनमाश्रितम् ॥ १४ ॥
 </details>
@@ -721,8 +721,8 @@ forest ."
 
 <details><summary>मूलम्</summary>
 
-ऋतवश्चापि षट् चान्ये मासाः संवत्सरास्तथा ।  
-कलाश्च काष्ठाश्च तथा तव शर्म दिशन्तु ते ॥ १५ ॥
+[^non-baroDa-CE] ऋतवश्चापि षट् चान्ये मासाः संवत्सरास्तथा ।  
+[^non-baroDa-CE] कलाश्च काष्ठाश्च तथा तव शर्म दिशन्तु ते ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -775,7 +775,7 @@ forest ."
 <details><summary>मूलम्</summary>
 
 महावनेऽपि चरतो मुनिवेषस्य धीमतः ।  
-तथा देवाश्च दैत्याश्च भवन्तु सुखदाः सदा ॥ १६ ॥
+[^non-baroDa-CE] तथा देवाश्च दैत्याश्च भवन्तु सुखदाः सदा ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -827,8 +827,8 @@ traverse through the large forest, in the guise of a hermit and full of wisdom "
 
 <details><summary>मूलम्</summary>
 
-राक्षसानां पिशाचानां रौद्राणां क्रूरकर्मणाम् ।  
-क्रव्यादानां च सर्वेषां मा भूत् पुत्रक ते भयम् ॥ १७ ॥
+[^non-baroDa-CE] राक्षसानां पिशाचानां रौद्राणां क्रूरकर्मणाम् ।  
+[^non-baroDa-CE] क्रव्यादानां च सर्वेषां मा भूत् पुत्रक ते भयम् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1159,8 +1159,8 @@ earth as well as against all the celestials as also your enemies."
 
 <details><summary>मूलम्</summary>
 
-शुक्रः सोमश्च सूर्यश्च धनदोऽथ यमस्तथा ।  
-पान्तु त्वामर्चिता राम दण्डकारण्यवासिनम् ॥ २३ ॥
+[^non-baroDa-CE] शुक्रः सोमश्च सूर्यश्च धनदोऽथ यमस्तथा ।  
+[^non-baroDa-CE] पान्तु त्वामर्चिता राम दण्डकारण्यवासिनम् ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1213,11 +1213,11 @@ of Dandaka"
 
 <details><summary>मूलम्</summary>
 
-अग्निर्वायुस्तथा धूमो मन्त्राश्चर्षिमुखच्युताः ।  
-उपस्पर्शनकाले तु पान्तु त्वां रघुनन्दन ॥ २४ ॥
+[^non-baroDa-CE] अग्निर्वायुस्तथा धूमो मन्त्राश्चर्षिमुखच्युताः ।  
+[^non-baroDa-CE] उपस्पर्शनकाले तु पान्तु त्वां रघुनन्दन ॥ २४ ॥
 _________________
 अग्निर्वायुस्तथा धूमो मन्त्राश्चिर्षिमुखच्च्युताः ।  
-उपस्पर्शनकाले तु पान्तु त्वां रघुनन्दन ॥
+[^non-baroDa-CE] उपस्पर्शनकाले तु पान्तु त्वां रघुनन्दन ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1530,8 +1530,8 @@ Having spoken thus, the glorious lady of large eyes (_āyata-locanā_) worshippe
 
 <details><summary>मूलम्</summary>
 
-ज्वलनं समुपादाय ब्राह्मणेन महात्मना ।  
-हावयामास विधिना राममङ्गलकारणात् ॥ २७ ॥
+[^non-baroDa-CE] ज्वलनं समुपादाय ब्राह्मणेन महात्मना ।  
+[^non-baroDa-CE] हावयामास विधिना राममङ्गलकारणात् ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1576,8 +1576,8 @@ Procuring the sacred fire (_jvalanaṃ samupādāya_), she caused a high-souled 
 
 <details><summary>मूलम्</summary>
 
-घृतं श्वेतानि माल्यानि समिधश्चैव सर्षपान् ।  
-उपसम्पादयामास कौसल्या परमाङ्गना ॥ २८ ॥
+[^non-baroDa-CE] घृतं श्वेतानि माल्यानि समिधश्चैव सर्षपान् ।  
+[^non-baroDa-CE] उपसम्पादयामास कौसल्या परमाङ्गना ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1628,8 +1628,8 @@ Kausalyā, the foremost of noble women (_paramāṅganā_), got ready clarified 
 
 <details><summary>मूलम्</summary>
 
-उपाध्यायः स विधिना हुत्वा शान्तिमनामयम् ।  
-हुतहव्यावशेषेण बाह्यं बलिमकल्पयत् ॥ २९ ॥
+[^non-baroDa-CE] उपाध्यायः स विधिना हुत्वा शान्तिमनामयम् ।  
+[^non-baroDa-CE] हुतहव्यावशेषेण बाह्यं बलिमकल्पयत् ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1682,8 +1682,8 @@ Having offered the oblation according to rule for peace and freedom from illness
 
 <details><summary>मूलम्</summary>
 
-मधुदध्यक्षतघृतैः स्वस्तिवाच्यं द्विजांस्ततः ।  
-वाचयामास रामस्य वने स्वस्त्ययनक्रियाम् ॥ ३० ॥
+[^non-baroDa-CE] मधुदध्यक्षतघृतैः स्वस्तिवाच्यं द्विजांस्ततः ।  
+[^non-baroDa-CE] वाचयामास रामस्य वने स्वस्त्ययनक्रियाम् ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1744,8 +1744,8 @@ Bestowing desired sacrificial fees upon the chief Brahmin, Kausalyā invokes upo
 
 <details><summary>मूलम्</summary>
 
-ततस्तस्मै द्विजेन्द्राय राममाता यशस्विनी ।  
-दक्षिणां प्रददौ काम्यां राघवं चेदमब्रवीत् ॥ ३१ ॥
+[^non-baroDa-CE] ततस्तस्मै द्विजेन्द्राय राममाता यशस्विनी ।  
+[^non-baroDa-CE] दक्षिणां प्रददौ काम्यां राघवं चेदमब्रवीत् ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1904,8 +1904,8 @@ in the past , may that blessing happen to you."
 
 <details><summary>मूलम्</summary>
 
-अमृतोत्पादने दैत्यान् घ्नतो वज्रधरस्य यत् ।  
-अदितिर्मङ्गलं प्रादात् तत् ते भवतु मङ्गलम् ॥ ३४ ॥
+[^non-baroDa-CE] अमृतोत्पादने दैत्यान् घ्नतो वज्रधरस्य यत् ।  
+[^non-baroDa-CE] अदितिर्मङ्गलं प्रादात् तत् ते भवतु मङ्गलम् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1956,8 +1956,8 @@ the demons at the time of producing nectar, let that blessing come to you "
 
 <details><summary>मूलम्</summary>
 
-त्रिविक्रमान् प्रक्रमतो विष्णोरतुलतेजसः ।  
-यदासीन्मङ्गलं राम तत् ते भवतु मङ्गलम् ॥ ३५ ॥
+[^non-baroDa-CE] त्रिविक्रमान् प्रक्रमतो विष्णोरतुलतेजसः ।  
+[^non-baroDa-CE] यदासीन्मङ्गलं राम तत् ते भवतु मङ्गलम् ॥ ३५ ॥
 _________________
 त्रीविक्रमान् प्रक्रमतो विष्णोरतुलतेजसः ।  
 यदासीन्मगलं राम तत्ते भवतु मङ्गलम् ॥
@@ -2013,8 +2013,8 @@ you
 
 <details><summary>मूलम्</summary>
 
-ऋषयः सागरा द्वीपा वेदा लोका दिशश्च ते ।  
-मङ्गलानि महाबाहो दिशन्तु शुभमङ्गलम् ॥ ३६ ॥
+[^non-baroDa-CE] ऋषयः सागरा द्वीपा वेदा लोका दिशश्च ते ।  
+[^non-baroDa-CE] मङ्गलानि महाबाहो दिशन्तु शुभमङ्गलम् ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2077,8 +2077,8 @@ Placing unbroken rice on Rāma’s head, anointing him with sandal-paste, and ty
 
 <details><summary>मूलम्</summary>
 
-इति पुत्रस्य शेषाश्च कृत्वा शिरसि भामिनी ।  
-गन्धैश्चापि समालभ्य राममायतलोचना ॥ ३७ ॥  
+[^non-baroDa-CE] इति पुत्रस्य शेषाश्च कृत्वा शिरसि भामिनी ।  
+[^non-baroDa-CE] गन्धैश्चापि समालभ्य राममायतलोचना ॥ ३७ ॥  
 औषधीं च सुसिद्धार्थां विशल्यकरणीं शुभाम् ।  
 चकार रक्षां कौसल्या मन्त्रैरभिजजाप च ॥ ३८ ॥
 </details>
@@ -2142,11 +2142,11 @@ to enhance its virtue.
 
 <details><summary>मूलम्</summary>
 
-उवाचापि प्रहृष्टेव सा दुःखवशवर्तिनी ।  
-वाङ्मात्रेण न भावेन वाचा संसज्जमानया ॥ ३९ ॥
+[^non-baroDa-CE] उवाचापि प्रहृष्टेव सा दुःखवशवर्तिनी ।  
+[^non-baroDa-CE] वाङ्मात्रेण न भावेन वाचा संसज्जमानया ॥ ३९ ॥
 _________________
 उवाचाः प्रहृष्टेव सा दुःखवशवर्तिनी ।  
-वाङ्मात्रेण न भावेन वाचा संसज्जमानया ॥
+[^non-baroDa-CE] वाङ्मात्रेण न भावेन वाचा संसज्जमानया ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2280,7 +2280,7 @@ returning to Ayodhya happily and taking over the reins of the kingdom
 <details><summary>मूलम्</summary>
 
 प्रणष्टदुःखसङ्कल्पा हर्षविद्योतितानना ।  
-द्रक्ष्यामि त्वां वनात् प्राप्तं पूर्णचन्द्रमिवोदितम् ॥ ४२ ॥
+[^non-baroDa-CE] द्रक्ष्यामि त्वां वनात् प्राप्तं पूर्णचन्द्रमिवोदितम् ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2340,8 +2340,8 @@ Completing the benediction rites with tear-filled eyes, Kausalyā circumambulate
 
 <details><summary>मूलम्</summary>
 
-भद्रासनगतं राम वनवासादिहागतम् ।  
-द्रक्ष्यामि च पुनस्त्वां तु तीर्णवन्तं पितुर्वचः ॥ ४३ ॥
+[^non-baroDa-CE] भद्रासनगतं राम वनवासादिहागतम् ।  
+[^non-baroDa-CE] द्रक्ष्यामि च पुनस्त्वां तु तीर्णवन्तं पितुर्वचः ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2392,10 +2392,10 @@ fulfilled your father's word and installed on the splendid throne."
 
 <details><summary>मूलम्</summary>
 
-मङ्गलैरुपसम्पन्नो वनवासादिहागतः ।  
-वध्वाश्च मम नित्यं त्वं कामान् संवर्ध याहि भोः ॥ ४४ ॥
+[^non-baroDa-CE] मङ्गलैरुपसम्पन्नो वनवासादिहागतः ।  
+[^non-baroDa-CE] वध्वाश्च मम नित्यं त्वं कामान् संवर्ध याहि भोः ॥ ४४ ॥
 _________________
-मङ्गलैरुपसम्पन्नो वनवासादिहागतः ।  
+[^non-baroDa-CE] मङ्गलैरुपसम्पन्नो वनवासादिहागतः ।  
 वध्वा च मम नित्यं त्वं कामान् संवर्धयाहि भोः ॥
 </details>
 
@@ -2639,3 +2639,4 @@ Thus circumambulated by that queen (_tayā hi devyā ca kṛta-pradakṣiṇaḥ
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

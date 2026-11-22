@@ -1421,8 +1421,8 @@ Learning that you were slain in sleep (_suptaṃ hatam_) and that I have passed 
 
 <details><summary>मूलम्</summary>
 
-मम हेतोरनार्याया अनघः पार्थिवात्मजः ।  
-रामः सागरमुत्तीर्य वीर्यवान् गोष्पदे हतः ॥ २८ ॥
+[^non-baroDa-CE] मम हेतोरनार्याया अनघः पार्थिवात्मजः ।  
+[^non-baroDa-CE] रामः सागरमुत्तीर्य वीर्यवान् गोष्पदे हतः ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1473,8 +1473,8 @@ For the sake of ignoble me (_mama hetor anāryāyāḥ_), the sinless prince Rā
 
 <details><summary>मूलम्</summary>
 
-अहं दाशरथेनोढा मोहात् स्वकुलपांसनी ।  
-आर्यपुत्रस्य रामस्य भार्या मृत्युरजायत ॥ २९ ॥
+[^non-baroDa-CE] अहं दाशरथेनोढा मोहात् स्वकुलपांसनी ।  
+[^non-baroDa-CE] आर्यपुत्रस्य रामस्य भार्या मृत्युरजायत ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1525,10 +1525,10 @@ Out of delusion (_mohāt_) was I, the defiler of my own lineage (_sva-kula-pā�
 
 <details><summary>मूलम्</summary>
 
-नूनमन्यां मया जातिं वारितं दानमुत्तमम् ।  
-याहमद्यैव शोचामि भार्या सर्वातिथेरिह ॥ ३० ॥
+[^non-baroDa-CE] नूनमन्यां मया जातिं वारितं दानमुत्तमम् ।  
+[^non-baroDa-CE] याहमद्यैव शोचामि भार्या सर्वातिथेरिह ॥ ३० ॥
 _________________
-नूनमन्यां मया जातिं वारितं दानमुत्तमम् ।  
+[^non-baroDa-CE] नूनमन्यां मया जातिं वारितं दानमुत्तमम् ।  
 याहमद्येह शोचामि भार्या सर्वातिथेरिह ॥
 </details>
 
@@ -2006,10 +2006,10 @@ Summoned by Prahasta's urgent message, Rāvaṇa leaves the Aśoka grove to conf
 <details><summary>मूलम्</summary>
 
 अमात्यैः सहितः सर्वैः प्रहस्तस्त्वामुपस्थितः ।  
-तेन दर्शनकामेन अहं प्रस्थापितः प्रभो ॥ ३६ ॥
+[^non-baroDa-CE] तेन दर्शनकामेन अहं प्रस्थापितः प्रभो ॥ ३६ ॥
 _________________
 अमात्यैः सहितैः सर्वैः प्रहस्तः स्त्वामुपस्थितः ।  
-तेन दर्शनकामेन अहं प्रस्थापितः प्रभो ॥
+[^non-baroDa-CE] तेन दर्शनकामेन अहं प्रस्थापितः प्रभो ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2054,7 +2054,7 @@ you."
 
 <details><summary>मूलम्</summary>
 
-नूनमस्ति महाराज राजभावात् क्षमान्वित ।  
+[^non-baroDa-CE] नूनमस्ति महाराज राजभावात् क्षमान्वित ।  
 किञ्चिदात्ययिकं कार्यं तेषां त्वं दर्शनं कुरु ॥ ३७ ॥
 </details>
 
@@ -2483,3 +2483,5 @@ the army.
 Then, accepting that command with the words “So be it (_tatheti_),” the envoys at once (_tadaiva_) rapidly mustered a mighty army (_mahad balam_), and reported that it had assembled before their lord, who was eager for battle (_bhartari yuddha-kāṅkṣiṇi_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -459,11 +459,11 @@ Then the venerable Mārtaṇḍa [Sūrya], dispeller of darkness (_bhagavāṃs 
 
 यदा च शास्त्राण्यध्येतुं शक्तिरस्य भविष्यति ।  
 तदास्य शास्त्रं दास्यामि येन वाग्मी भविष्यति ।  
-न चास्य भविता कश्चित् सदृशः शास्त्रदर्शने ॥ १४ ॥
+[^non-baroDa-CE] न चास्य भविता कश्चित् सदृशः शास्त्रदर्शने ॥ १४ ॥
 _________________
 यदा च शासाण्यध्येतुं शक्तिरस्य भविष्यति ।  
 तदास्य शास्त्रं दास्यामि येन वाग्मी भविष्यति ।  
-न चास्य भविता कश्चित्सदृशः शास्त्रदर्शने ॥
+[^non-baroDa-CE] न चास्य भविता कश्चित्सदृशः शास्त्रदर्शने ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -632,7 +632,7 @@ Brahmā grants longevity and immunity to every Brahmā-weapon, and Viśvakarmā 
 <details><summary>मूलम्</summary>
 
 मत्कृतानि च शस्त्राणि यानि दिव्यानि तानि च ।  
-तैरवध्यत्वमापन्नश्चिरजीवी भविष्यति ॥ २० ॥
+[^non-baroDa-CE] तैरवध्यत्वमापन्नश्चिरजीवी भविष्यति ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -755,8 +755,8 @@ Then, beholding him adorned with the boons of the gods (_surāṇāṃ tu varair
 
 <details><summary>मूलम्</summary>
 
-कामरूपः कामचारी कामगः प्लवतां वरः ।  
-भवत्यव्याहतगतिः कीर्तिमांश्च भविष्यति ॥ २४ ॥
+[^non-baroDa-CE] कामरूपः कामचारी कामगः प्लवतां वरः ।  
+[^non-baroDa-CE] भवत्यव्याहतगतिः कीर्तिमांश्च भविष्यति ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -989,7 +989,7 @@ Though the sages long tolerate the irrepressible boy out of deference to Brahmā
 
 <details><summary>मूलम्</summary>
 
-एवंविधानि कर्माणि प्रावर्तत महाबलः ।  
+[^non-baroDa-CE] एवंविधानि कर्माणि प्रावर्तत महाबलः ।  
 सर्वेषां ब्रह्मदण्डानामवध्यः शम्भुना कृतः ॥ ३१ ॥  
 जानन्त ऋषयः सर्वे सहन्ते तस्य शक्तितः ।
 </details>
@@ -1089,7 +1089,7 @@ Then the great sages, sprung from the lineages of Bhṛgu and Aṅgiras (_bhṛg
 
 बाधसे यत् समाश्रित्य बलमस्मान् प्लवङ्गम ॥ ३४ ॥  
 तद् दीर्घकालं वेत्तासि नास्माकं शापमोहितः ।  
-यदा ते स्मार्यते कीर्तिस्तदा ते वर्धते बलम् ॥ ३५ ॥
+[^non-baroDa-CE] यदा ते स्मार्यते कीर्तिस्तदा ते वर्धते बलम् ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1512,7 +1512,7 @@ Agastya extols Hanūmān’s mastery of grammar—studied face-to-face with the 
 <details><summary>मूलम्</summary>
 
 ऋषिशापाहृतबलस्तदैव कपिसत्तमः ।  
-सिंहः कुञ्जररुद्धो वा आस्थितः सहितो रणे ॥ ४३ ॥
+[^non-baroDa-CE] सिंहः कुञ्जररुद्धो वा आस्थितः सहितो रणे ॥ ४३ ॥
 _________________
 ऋषिशापाहृतबलस्तदैव कपिसत्तमः ।  
 सिंहः पञ्जररुद्धोवा आस्थितः सहितो रणे ॥
@@ -1622,9 +1622,9 @@ In all branches of learning (_sarvāsu vidyāsu_) and in the performance of aust
 
 <details><summary>मूलम्</summary>
 
-ससूत्रवृत्त्यर्थपदं महार्थं  
+[^non-baroDa-CE] ससूत्रवृत्त्यर्थपदं महार्थं  
 ससङ्ग्रहं सिद‍्ध्यति वै कपीन्द्रः ।  
-नह्यस्य कश्चित् सदृशोऽस्ति शास्त्रे  
+[^non-baroDa-CE] नह्यस्य कश्चित् सदृशोऽस्ति शास्त्रे  
 वैशारदे छन्दगतौ तथैव ॥ ४६ ॥
 </details>
 
@@ -1657,10 +1657,10 @@ Before Hanūmān—who is like the ocean eager to engulf [the earth] (_pravīviv
 
 <details><summary>मूलम्</summary>
 
-सर्वासु विद्यासु तपोविधाने  
+[^non-baroDa-CE] सर्वासु विद्यासु तपोविधाने  
 प्रस्पर्धतेऽयं हि गुरुं सुराणाम् ।  
-सोऽयं नवव्याकरणार्थवेत्ता  
-ब्रह्मा भविष्यत्यपि ते प्रसादात् ॥ ४७ ॥
+[^non-baroDa-CE] सोऽयं नवव्याकरणार्थवेत्ता  
+[^non-baroDa-CE] ब्रह्मा भविष्यत्यपि ते प्रसादात् ॥ ४७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1840,7 +1840,7 @@ Hearing these words of Agastya of fierce splendor (_agastyasyogra-tejasaḥ_), R
 <details><summary>मूलम्</summary>
 
 श्रुत्वागस्त्यस्य कथितं रामः सौमित्रिरेव च ।  
-विस्मयं परमं जग्मुर्वानरा राक्षसैः सह ॥ ५२ ॥
+[^non-baroDa-CE] विस्मयं परमं जग्मुर्वानरा राक्षसैः सह ॥ ५२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1901,11 +1901,11 @@ Hearing these words of Agastya of fierce splendor (_agastyasyogra-tejasaḥ_), R
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वैतद् राघवो वाक्यमगस्त्यस्योग्रतेजसः ।  
-प्राञ्जलिः प्रणतश्चापि महर्षिमिदमब्रवीत् ॥ ५४ ॥
+[^non-baroDa-CE] श्रुत्वैतद् राघवो वाक्यमगस्त्यस्योग्रतेजसः ।  
+[^non-baroDa-CE] प्राञ्जलिः प्रणतश्चापि महर्षिमिदमब्रवीत् ॥ ५४ ॥
 _________________
 शुत्वैतद्राघवो वाक्यमगस्त्यस्योग्रतेजसः ।  
-प्राञ्जलिः प्रणतश्चापि महर्षिमिदमब्रवीत् ॥
+[^non-baroDa-CE] प्राञ्जलिः प्रणतश्चापि महर्षिमिदमब्रवीत् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1944,7 +1944,7 @@ Inviting the sages to serve as supervising priests at his future sacrifices, Rā
 <details><summary>मूलम्</summary>
 
 अद्य मे देवतास्तुष्टाः पितरः प्रपितामहाः ।  
-युष्माकं दर्शनादेव नित्यं तुष्टाः सबान्धवाः ॥ ५५ ॥
+[^non-baroDa-CE] युष्माकं दर्शनादेव नित्यं तुष्टाः सबान्धवाः ॥ ५५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1974,8 +1974,8 @@ Inviting the sages to serve as supervising priests at his future sacrifices, Rā
 
 <details><summary>मूलम्</summary>
 
-विज्ञाप्यं तु ममैतद्धि यद् वदाम्यागतस्पृहः ।  
-तद् भवद्भिर्मम कृते कर्तव्यमनुकम्पया ॥ ५६ ॥
+[^non-baroDa-CE] विज्ञाप्यं तु ममैतद्धि यद् वदाम्यागतस्पृहः ।  
+[^non-baroDa-CE] तद् भवद्भिर्मम कृते कर्तव्यमनुकम्पया ॥ ५६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2005,7 +2005,7 @@ Inviting the sages to serve as supervising priests at his future sacrifices, Rā
 
 <details><summary>मूलम्</summary>
 
-पौरजानपदान् स्थाप्य स्वकार्येष्वहमागतः ।  
+[^non-baroDa-CE] पौरजानपदान् स्थाप्य स्वकार्येष्वहमागतः ।  
 क्रतूनहं करिष्यामि प्रभावाद् भवतां सताम् ॥ ५७ ॥
 _________________
 पौरजानपदान्स्थ्थाप्य स्वकार्येष्वहमागतः ।  
@@ -2040,7 +2040,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 सदस्या मम यज्ञेषु भवन्तो नित्यमेव तु ।  
-भविष्यथ महावीर्या ममानुग्रहकाङ्क्षिणः ॥ ५८ ॥
+[^non-baroDa-CE] भविष्यथ महावीर्या ममानुग्रहकाङ्क्षिणः ॥ ५८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2070,7 +2070,7 @@ Having spoken thus, all those sages departed by the way they had come (_gatāḥ
 
 <details><summary>मूलम्</summary>
 
-अहं युष्मान् समाश्रित्य तपोनिर्धूतकल्मषान् ।  
+[^non-baroDa-CE] अहं युष्मान् समाश्रित्य तपोनिर्धूतकल्मषान् ।  
 अनुगृहीतः पितृभिर्भविष्यामि सुनिर्वृतः ॥ ५९ ॥
 </details>
 
@@ -2102,8 +2102,8 @@ Then, when the sun had gone to its setting (_astaṃ bhāskare yāte_), having d
 
 <details><summary>मूलम्</summary>
 
-तदागन्तव्यमनिशं भवद्भिरिह सङ्गतैः ।  
-अगस्त्याद्यास्तु तच्छ्रुत्वा ऋषयः संशितव्रताः ॥ ६० ॥  
+[^non-baroDa-CE] तदागन्तव्यमनिशं भवद्भिरिह सङ्गतैः ।  
+[^non-baroDa-CE] अगस्त्याद्यास्तु तच्छ्रुत्वा ऋषयः संशितव्रताः ॥ ६० ॥  
 एवमस्त्विति तं प्रोच्य प्रयातुमुपचक्रमुः ।
 </details>
 
@@ -2128,8 +2128,8 @@ Then, when the sun had gone to its setting (_astaṃ bhāskare yāte_), having d
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा गताः सर्वे ऋषयस्ते यथागतम् ॥ ६१ ॥  
-राघवश्च तमेवार्थं चिन्तयामास विस्मितः ।
+[^non-baroDa-CE] एवमुक्त्वा गताः सर्वे ऋषयस्ते यथागतम् ॥ ६१ ॥  
+[^non-baroDa-CE] राघवश्च तमेवार्थं चिन्तयामास विस्मितः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2154,13 +2154,13 @@ Then, when the sun had gone to its setting (_astaṃ bhāskare yāte_), having d
 
 <details><summary>मूलम्</summary>
 
-ततोऽस्तं भास्करे याते विसृज्य नृपवानरान् ॥ ६२ ॥  
-सन्ध्यामुपास्य विधिवत् तदा नरवरोत्तमः ।  
-प्रवृत्तायां रजन्यां तु सोऽन्तःपुरचरोऽभवत् ॥ ६३ ॥
+[^non-baroDa-CE] ततोऽस्तं भास्करे याते विसृज्य नृपवानरान् ॥ ६२ ॥  
+[^non-baroDa-CE] सन्ध्यामुपास्य विधिवत् तदा नरवरोत्तमः ।  
+[^non-baroDa-CE] प्रवृत्तायां रजन्यां तु सोऽन्तःपुरचरोऽभवत् ॥ ६३ ॥
 _________________
 ततोऽस्तं भास्करे यातॆ विसृज्य नृपवानरान् ॥
-सन्ध्यामुपास्य विधिवत्तदा नरवरोत्तमः ।  
-प्रवृत्तायां रजन्यां तु सोऽन्तःपुरचरोऽभवत् ॥
+[^non-baroDa-CE] सन्ध्यामुपास्य विधिवत्तदा नरवरोत्तमः ।  
+[^non-baroDa-CE] प्रवृत्तायां रजन्यां तु सोऽन्तःपुरचरोऽभवत् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2184,3 +2184,5 @@ _________________
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि मूवत्तारनॆय सर्ग पूर्णवायितु. ॥36॥
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

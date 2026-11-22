@@ -771,8 +771,8 @@ Dispelling any doubt of victory after this awesome account of the trident, Cyava
 <details><summary>मूलम्</summary>
 
 लोकानां स्वस्ति चैवं स्यात् कृते कर्मणि च त्वया ।  
-एतत् ते सर्वमाख्यातं लवणस्य दुरात्मनः ॥ २४ ॥  
-शूलस्य च बलं घोरमप्रमेयं नरर्षभ ।  
+[^non-baroDa-CE] एतत् ते सर्वमाख्यातं लवणस्य दुरात्मनः ॥ २४ ॥  
+[^non-baroDa-CE] शूलस्य च बलं घोरमप्रमेयं नरर्षभ ।  
 विनाशश्चैव मान्धातुर्यत्नेनाभूच्च पार्थिव ॥ २५ ॥
 </details>
 
@@ -802,10 +802,10 @@ Dispelling any doubt of victory after this awesome account of the trident, Cyava
 
 <details><summary>मूलम्</summary>
 
-त्वं श्वः प्रभाते लवणं महात्मन्  
-वधिष्यसे नात्र तु संशयो मे ।  
-शूलं विना निर्गतमामिषार्थे  
-ध्रुवो जयस्ते भविता नरेन्द्र ॥ २६ ॥
+[^non-baroDa-CE] त्वं श्वः प्रभाते लवणं महात्मन्  
+[^non-baroDa-CE] वधिष्यसे नात्र तु संशयो मे ।  
+[^non-baroDa-CE] शूलं विना निर्गतमामिषार्थे  
+[^non-baroDa-CE] ध्रुवो जयस्ते भविता नरेन्द्र ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -831,3 +831,4 @@ Dispelling any doubt of victory after this awesome account of the trident, Cyava
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -574,8 +574,8 @@ multitude of elephants and made to resound by a congregation of birds."
 
 <details><summary>मूलम्</summary>
 
-समभूमितले रम्ये द्रुमैर्बहुभिरावृते ।  
-पुण्ये रंस्यामहे तात चित्रकूटस्य कानने ॥ ११ ॥
+[^non-baroDa-CE] समभूमितले रम्ये द्रुमैर्बहुभिरावृते ।  
+[^non-baroDa-CE] पुण्ये रंस्यामहे तात चित्रकूटस्य कानने ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -838,7 +838,7 @@ become the dwelling. Let us have a pleasant resort here."
 
 <details><summary>मूलम्</summary>
 
-इति सीता च रामश्च लक्ष्मणश्च कृताञ्जलिः ।  
+[^non-baroDa-CE] इति सीता च रामश्च लक्ष्मणश्च कृताञ्जलिः ।  
 अभिगम्याश्रमं सर्वे वाल्मीकिमभिवादयन् ॥ १६ ॥
 </details>
 
@@ -939,8 +939,8 @@ Knowing the law of righteousness, the great sage rejoiced and honored them (_tā
 
 <details><summary>मूलम्</summary>
 
-ततोऽब्रवीन्महाबाहुर्लक्ष्मणं लक्ष्मणाग्रजः ।  
-सन्निवेद्य यथान्यायमात्मानमृषये प्रभुः ॥ १८ ॥
+[^non-baroDa-CE] ततोऽब्रवीन्महाबाहुर्लक्ष्मणं लक्ष्मणाग्रजः ।  
+[^non-baroDa-CE] सन्निवेद्य यथान्यायमात्मानमृषये प्रभुः ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1166,7 +1166,7 @@ Beholding that comely leaf-hut firmly completed and fitted with woven mats (_tā
 <details><summary>मूलम्</summary>
 
 ऐणेयं मांसमाहृत्य शालां यक्ष्यामहे वयम् ।  
-कर्तव्यं वास्तुशमनं सौमित्रे चिरजीविभिः ॥ २२ ॥
+[^non-baroDa-CE] कर्तव्यं वास्तुशमनं सौमित्रे चिरजीविभिः ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1221,7 +1221,7 @@ ceremony while entering the house. Which is to be done by those who wish to live
 
 <details><summary>मूलम्</summary>
 
-मृगं हत्वाऽऽनय क्षिप्रं लक्ष्मणेह शुभेक्षण ।  
+[^non-baroDa-CE] मृगं हत्वाऽऽनय क्षिप्रं लक्ष्मणेह शुभेक्षण ।  
 कर्तव्यः शास्त्रदृष्टो हि विधिर्धर्ममनुस्मर ॥ २३ ॥
 </details>
 
@@ -1278,7 +1278,7 @@ sacred obligation."
 
 <details><summary>मूलम्</summary>
 
-भ्रातुर्वचनमाज्ञाय लक्ष्मणः परवीरहा ।  
+[^non-baroDa-CE] भ्रातुर्वचनमाज्ञाय लक्ष्मणः परवीरहा ।  
 चकार च यथोक्तं हि तं रामः पुनरब्रवीत् ॥ २४ ॥
 </details>
 
@@ -1339,7 +1339,7 @@ Urging Lakṣmaṇa to roast the blackbuck venison during the auspicious Abhijit
 
 <details><summary>मूलम्</summary>
 
-ऐणेयं श्रपयस्वैतच्छालां यक्ष्यामहे वयम् ।  
+[^non-baroDa-CE] ऐणेयं श्रपयस्वैतच्छालां यक्ष्यामहे वयम् ।  
 त्वर सौम्यमुहूर्तोऽयं ध्रुवश्च दिवसो ह्ययम् ॥ २५ ॥
 </details>
 
@@ -1560,7 +1560,7 @@ Rama resembling God! Worship the concerned deity, as you are skilled in that act
 <details><summary>मूलम्</summary>
 
 रामः स्नात्वा तु नियतो गुणवाञ्जपकोविदः ।  
-सङ्ग्रहेणाकरोत् सर्वान् मन्त्रान् सत्रावसानिकान् ॥ २९ ॥
+[^non-baroDa-CE] सङ्ग्रहेणाकरोत् सर्वान् मन्त्रान् सत्रावसानिकान् ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1622,7 +1622,7 @@ Offering the Vaiśvadeva, Raudra, and Vaiṣṇava oblations, bathing in the riv
 <details><summary>मूलम्</summary>
 
 इष्ट्वा देवगणान् सर्वान् विवेशावसथं शुचिः ।  
-बभूव च मनोह्लादो रामस्यामिततेजसः ॥ ३० ॥
+[^non-baroDa-CE] बभूव च मनोह्लादो रामस्यामिततेजसः ॥ ३० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1668,8 +1668,8 @@ Having worshipped all the hosts of deities (_iṣṭvā deva-gaṇān sarvān_),
 
 <details><summary>मूलम्</summary>
 
-वैश्वदेवबलिं कृत्वा रौद्रं वैष्णवमेव च ।  
-वास्तुसंशमनीयानि मङ्गलानि प्रवर्तयन् ॥ ३१ ॥
+[^non-baroDa-CE] वैश्वदेवबलिं कृत्वा रौद्रं वैष्णवमेव च ।  
+[^non-baroDa-CE] वास्तुसंशमनीयानि मङ्गलानि प्रवर्तयन् ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1757,8 +1757,8 @@ Having duly performed silent recitation of mantras and bathed in the river accor
 
 <details><summary>मूलम्</summary>
 
-वेदिस्थलविधानानि चैत्यान्यायतनानि च ।  
-आश्रमस्यानुरूपाणि स्थापयामास राघवः ॥ ३३ ॥
+[^non-baroDa-CE] वेदिस्थलविधानानि चैत्यान्यायतनानि च ।  
+[^non-baroDa-CE] आश्रमस्यानुरूपाणि स्थापयामास राघवः ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1905,3 +1905,5 @@ entered the auspicious leaf-hut.
 Having propitiated all beings with those offerings (_tau tarpayitvā bhūtāni_), those two auspicious-marked Rāghavas, together with Sītā (_rāghavau saha sītayā_), then entered the most auspicious dwelling (_viviśatuḥ śālāṃ suśubhām_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

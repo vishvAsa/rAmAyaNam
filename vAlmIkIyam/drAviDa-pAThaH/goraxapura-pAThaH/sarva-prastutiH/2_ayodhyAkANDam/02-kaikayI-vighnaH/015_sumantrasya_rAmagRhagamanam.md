@@ -151,7 +151,7 @@ The ministers (_amātyāḥ_), the commanders of the army (_bala-mukhyāś ca_),
 <details><summary>मूलम्</summary>
 
 उदिते विमले सूर्ये पुष्ये चाभ्यागतेऽहनि ।  
-लग्ने कर्कटके प्राप्ते जन्म रामस्य च स्थिते ॥ ३ ॥  
+[^non-baroDa-CE] लग्ने कर्कटके प्राप्ते जन्म रामस्य च स्थिते ॥ ३ ॥  
 अभिषेकाय रामस्य द्विजेन्द्रैरुपकल्पितम् ।  
 काञ्चना जलकुम्भाश्च भद्रपीठं स्वलङ्कृतम् ॥ ४ ॥  
 रथश्च सम्यगास्तीर्णो भास्वता व्याघ्रचर्मणा ।  
@@ -243,8 +243,8 @@ Waters from all oceans, honey, curds, clarified butter, parched grain, eight aus
 याश्चान्याः सरितः पुण्या ह्रदाः कूपाः सरांसि च ।  
 प्राग्वहाश्चोर्ध्ववाहाश्च तिर्यग्वाहाश्च क्षीरिणः ॥ ६ ॥  
 ताभ्यश्चैवाहृतं तोयं समुद्रेभ्यश्च सर्वशः ।  
-क्षौद्रं दधि घृतं लाजा दर्भाः सुमनसः पयः ॥ ७ ॥  
-अष्टौ च कन्या रुचिरा मत्तश्च वरवारणः ।  
+[^non-baroDa-CE] क्षौद्रं दधि घृतं लाजा दर्भाः सुमनसः पयः ॥ ७ ॥  
+[^non-baroDa-CE] अष्टौ च कन्या रुचिरा मत्तश्च वरवारणः ।  
 सजलाः क्षीरिभिश्छन्ना घटाः काञ्चनराजताः ॥ ८ ॥  
 पद्मोत्पलयुता भान्ति पूर्णाः परमवारिणा ।
 </details>
@@ -793,8 +793,8 @@ In _Vaṃśastha_, _Tilaka_ and _Bhūṣaṇa_ cite the lexicon (विमान
 
 <details><summary>मूलम्</summary>
 
-रामं राज्ञो नियोगेन त्वरया प्रस्थितो ह्यहम् ॥ १६ ॥  
-पूज्या राज्ञो भवन्तश्च रामस्य तु विशेषतः ।  
+[^non-baroDa-CE] रामं राज्ञो नियोगेन त्वरया प्रस्थितो ह्यहम् ॥ १६ ॥  
+[^non-baroDa-CE] पूज्या राज्ञो भवन्तश्च रामस्य तु विशेषतः ।  
 अयं पृच्छामि वचनात् सुखमायुष्मतामहम् ॥ १७ ॥
 </details>
 
@@ -925,8 +925,8 @@ Entering the royal bedchamber up to the curtain, Sumantra praises the Ikṣvāku
 
 <details><summary>मूलम्</summary>
 
-सदा सक्तं च तद् वेश्म सुमन्त्रः प्रविवेश ह ।  
-तुष्टावास्य तदा वंशं प्रविश्य स विशाम्पतेः ॥ १९ ॥
+[^non-baroDa-CE] सदा सक्तं च तद् वेश्म सुमन्त्रः प्रविवेश ह ।  
+[^non-baroDa-CE] तुष्टावास्य तदा वंशं प्रविश्य स विशाम्पतेः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -978,12 +978,12 @@ Sumantra entered that ever-accessible royal mansion (_sadā saktaṃ ca tad veś
 
 <details><summary>मूलम्</summary>
 
-शयनीयं नरेन्द्रस्य तदासाद्य व्यतिष्ठत ।  
-सोऽत्यासाद्य तु तद् वेश्म तिरस्करणिमन्तरा ॥ २० ॥  
+[^non-baroDa-CE] शयनीयं नरेन्द्रस्य तदासाद्य व्यतिष्ठत ।  
+[^non-baroDa-CE] सोऽत्यासाद्य तु तद् वेश्म तिरस्करणिमन्तरा ॥ २० ॥  
 आशीर्भिर्गुणयुक्ताभिरभितुष्टाव राघवम् ।
 _________________
-शयनीयं नरेन्द्रस्य तदासाद्य व्यतिष्ठत ।  
-सोऽत्यासाद्य तु तद्वेश्म तिरस्करणिमन्तरा ॥  
+[^non-baroDa-CE] शयनीयं नरेन्द्रस्य तदासाद्य व्यतिष्ठत ।  
+[^non-baroDa-CE] सोऽत्यासाद्य तु तद्वेश्म तिरस्करणिमन्तरा ॥  
 आशीर्भिगुणयुक्ताभिरभितुष्टाव राघवम् ।
 </details>
 
@@ -1035,10 +1035,10 @@ Approaching the bedchamber of the lord of men (_śayanīyaṃ narendrasya_), he 
 
 <details><summary>मूलम्</summary>
 
-सोमसूर्यौ च काकुत्स्थ शिववैश्रवणावपि ॥ २१ ॥  
-वरुणश्चाग्निरिन्द्रश्च विजयं प्रदिशन्तु ते ।
+[^non-baroDa-CE] सोमसूर्यौ च काकुत्स्थ शिववैश्रवणावपि ॥ २१ ॥  
+[^non-baroDa-CE] वरुणश्चाग्निरिन्द्रश्च विजयं प्रदिशन्तु ते ।
 _________________
-सोमसूर्यौ च काकुत्स्थ शिववैश्रवणावपि ॥  
+[^non-baroDa-CE] सोमसूर्यौ च काकुत्स्थ शिववैश्रवणावपि ॥  
 वरुणश्चाग्निरिन्द्रश्च विजयं प्रविशन्तु ते ।
 </details>
 
@@ -1090,7 +1090,7 @@ he extolled Rāghava—King Daśaratha—with benedictions rich in auspicious vi
 <details><summary>मूलम्</summary>
 
 गता भगवती रात्रिरहः शिवमुपस्थितम् ॥ २२ ॥  
-बुद्ध्यस्व राजशार्दूल कुरु कार्यमनन्तरम् ।
+[^non-baroDa-CE] बुद्ध्यस्व राजशार्दूल कुरु कार्यमनन्तरम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1260,8 +1260,8 @@ Recognizing Sumantra’s voice, Daśaratha asks why his command to bring Rāma h
 
 <details><summary>मूलम्</summary>
 
-राममानय सूतेति यदस्यभिहितो मया ॥ २५ ॥  
-किमिदं कारणं येन ममाज्ञा प्रतिवाह्यते ।  
+[^non-baroDa-CE] राममानय सूतेति यदस्यभिहितो मया ॥ २५ ॥  
+[^non-baroDa-CE] किमिदं कारणं येन ममाज्ञा प्रतिवाह्यते ।  
 न चैव सम्प्रसुप्तोऽहमानयेहाशु राघवम् ॥ २६ ॥
 </details>
 
@@ -1404,9 +1404,9 @@ of king, and came out of the king's palace.
 
 <details><summary>मूलम्</summary>
 
-हृष्टः प्रमुदितः सूतो जगामाशु विलोकयन् ।  
+[^non-baroDa-CE] हृष्टः प्रमुदितः सूतो जगामाशु विलोकयन् ।  
 स सूतस्तत्र शुश्राव रामाधिकरणाः कथाः ॥ २९ ॥  
-अभिषेचनसंयुक्ताः सर्वलोकस्य हृष्टवत् ।
+[^non-baroDa-CE] अभिषेचनसंयुक्ताः सर्वलोकस्य हृष्टवत् ।
 _________________
 हृष्टः प्रमुदितः सूतो जागमाशु विलोकयन् ।  
 स सूतस्तत्र शुश्राव रामाधिकरणाः कथाः ॥  
@@ -1576,7 +1576,7 @@ crowned at its topmost pinnacles with golden statues (_kāñcana-pratimaikāgram
 <details><summary>मूलम्</summary>
 
 मणिभिर्वरमाल्यानां सुमहद्भिरलङ्कृतम् ।  
-मुक्तामणिभिराकीर्णं चन्दनागुरुभूषितम् ॥ ३३ ॥
+[^non-baroDa-CE] मुक्तामणिभिराकीर्णं चन्दनागुरुभूषितम् ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1606,11 +1606,11 @@ decked with huge central jewels set amidst exquisite golden garlands (_maṇibhi
 
 <details><summary>मूलम्</summary>
 
-गन्धान् मनोज्ञान् विसृजद् दार्दुरं शिखरं यथा ।  
-सारसैश्च मयूरैश्च विनदद्भिर्विराजितम् ॥ ३४ ॥
+[^non-baroDa-CE] गन्धान् मनोज्ञान् विसृजद् दार्दुरं शिखरं यथा ।  
+[^non-baroDa-CE] सारसैश्च मयूरैश्च विनदद्भिर्विराजितम् ॥ ३४ ॥
 _________________
 गान्धान्मनोज्ञान् विसृजद्दार्दुरं शिखरं यथा ।  
-सारसैश्च मयूरैश्च विनदद्भिर्विराजितम् ॥
+[^non-baroDa-CE] सारसैश्च मयूरैश्च विनदद्भिर्विराजितम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1640,8 +1640,8 @@ wafting captivating fragrances (_gandhān manojñān visṛjat_) like the peak o
 
 <details><summary>मूलम्</summary>
 
-सुकृतेहामृगाकीर्णमुत्कीर्णं भक्तिभिस्तथा ।  
-मनश्चक्षुश्च भूतानामाददत् तिग्मतेजसा ॥ ३५ ॥
+[^non-baroDa-CE] सुकृतेहामृगाकीर्णमुत्कीर्णं भक्तिभिस्तथा ।  
+[^non-baroDa-CE] मनश्चक्षुश्च भूतानामाददत् तिग्मतेजसा ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1672,7 +1672,7 @@ thronged with exquisitely fashioned figures of wolves (_sukṛtehāmṛgākīr�
 <details><summary>मूलम्</summary>
 
 चन्द्रभास्करसङ्काशं कुबेरभवनोपमम् ।  
-महेन्द्रधामप्रतिमं नानापक्षिसमाकुलम् ॥ ३६ ॥
+[^non-baroDa-CE] महेन्द्रधामप्रतिमं नानापक्षिसमाकुलम् ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1710,8 +1710,8 @@ Thronged with gift-bearing provincials, dwarfs, and foresters, Rāma’s palace 
 
 <details><summary>मूलम्</summary>
 
-मेरुशृङ्गसमं सूतो रामवेश्म ददर्श ह ।  
-उपस्थितैः समाकीर्णं जनैरञ्जलिकारिभिः ॥ ३७ ॥
+[^non-baroDa-CE] मेरुशृङ्गसमं सूतो रामवेश्म ददर्श ह ।  
+[^non-baroDa-CE] उपस्थितैः समाकीर्णं जनैरञ्जलिकारिभिः ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1741,7 +1741,7 @@ The charioteer beheld Rāma’s palace, equal to a peak of Mount Meru (_meru-ś�
 
 <details><summary>मूलम्</summary>
 
-उपादाय समाक्रान्तैस्तदा जानपदैर्जनैः ।  
+[^non-baroDa-CE] उपादाय समाक्रान्तैस्तदा जानपदैर्जनैः ।  
 रामाभिषेकसुमुखैरुन्मुखैः समलङ्कृतम् ॥ ३८ ॥
 </details>
 
@@ -1772,8 +1772,8 @@ and graced on every side by country-folk (_jānapadair janaiḥ_) who had arrive
 
 <details><summary>मूलम्</summary>
 
-महामेघसमप्रख्यमुदग्रं सुविराजितम् ।  
-नानारत्नसमाकीर्णं कुब्जकैरपि चावृतम् ॥ ३९ ॥
+[^non-baroDa-CE] महामेघसमप्रख्यमुदग्रं सुविराजितम् ।  
+[^non-baroDa-CE] नानारत्नसमाकीर्णं कुब्जकैरपि चावृतम् ॥ ३९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1807,13 +1807,13 @@ lofty (_udagram_), resplendent, resembling a mighty rain-cloud (_mahā-megha-sam
 
 स वाजियुक्तेन रथेन सारथिः  
 समाकुलं राजकुलं विराजयन् ।  
-वरूथिना राजगृहाभिपातिना  
-पुरस्य सर्वस्य मनांसि हर्षयन् ॥ ४० ॥
+[^non-baroDa-CE] वरूथिना राजगृहाभिपातिना  
+[^non-baroDa-CE] पुरस्य सर्वस्य मनांसि हर्षयन् ॥ ४० ॥
 _________________
 स वाजीयुक्तेन रथेन सारथिः  
 समाकुलं राजकुलं विराजयन् ।  
-वरूथिना राजगृहाभिपातिना  
-पुरस्य सर्वस्य मनांसि हर्षयन् ॥
+[^non-baroDa-CE] वरूथिना राजगृहाभिपातिना  
+[^non-baroDa-CE] पुरस्य सर्वस्य मनांसि हर्षयन् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1890,8 +1890,8 @@ With his horse-yoked, fender-guarded chariot (_vāji-yuktena rathena... varūthi
 
 ततः समासाद्य महाधनं महत्  
 प्रहृष्टरोमा स बभूव सारथिः ।  
-मृगैर्मयूरैश्च समाकुलोल्बणं  
-गृहं वरार्हस्य शचीपतेरिव ॥ ४१ ॥
+[^non-baroDa-CE] मृगैर्मयूरैश्च समाकुलोल्बणं  
+[^non-baroDa-CE] गृहं वरार्हस्य शचीपतेरिव ॥ ४१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1948,9 +1948,9 @@ Then, having reached that vast and richly endowed mansion (_mahā-dhanaṃ mahat
 <details><summary>मूलम्</summary>
 
 स तत्र कैलासनिभाः स्वलङ्कृताः  
-प्रविश्य कक्ष्यास्त्रिदशालयोपमाः ।  
-प्रियान् वरान् राममते स्थितान् बहून्  
-व्यपोह्य शुद्धान्तमुपस्थितौ रथी ॥ ४२ ॥
+[^non-baroDa-CE] प्रविश्य कक्ष्यास्त्रिदशालयोपमाः ।  
+[^non-baroDa-CE] प्रियान् वरान् राममते स्थितान् बहून्  
+[^non-baroDa-CE] व्यपोह्य शुद्धान्तमुपस्थितौ रथी ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2014,10 +2014,10 @@ Hearing the joyful benedictions of the people and beholding tens of millions at 
 
 <details><summary>मूलम्</summary>
 
-स तत्र शुश्राव च हर्षयुक्ता  
-रामाभिषेकार्थकृतां जनानाम् ।  
-नरेन्द्रसूनोरभिमङ्गलार्थाः  
-सर्वस्य लोकस्य गिरः प्रहृष्टाः ॥ ४३ ॥
+[^non-baroDa-CE] स तत्र शुश्राव च हर्षयुक्ता  
+[^non-baroDa-CE] रामाभिषेकार्थकृतां जनानाम् ।  
+[^non-baroDa-CE] नरेन्द्रसूनोरभिमङ्गलार्थाः  
+[^non-baroDa-CE] सर्वस्य लोकस्य गिरः प्रहृष्टाः ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2075,10 +2075,10 @@ There he heard the joyful and exultant voices (_harṣa-yuktā... giraḥ prah�
 
 <details><summary>मूलम्</summary>
 
-महेन्द्रसद्मप्रतिमं च वेश्म  
-रामस्य रम्यं मृगपक्षिजुष्टम् ।  
-ददर्श मेरोरिव शृङ्गमुच्चं  
-विभ्राजमानं प्रभया सुमन्त्रः ॥ ४४ ॥
+[^non-baroDa-CE] महेन्द्रसद्मप्रतिमं च वेश्म  
+[^non-baroDa-CE] रामस्य रम्यं मृगपक्षिजुष्टम् ।  
+[^non-baroDa-CE] ददर्श मेरोरिव शृङ्गमुच्चं  
+[^non-baroDa-CE] विभ्राजमानं प्रभया सुमन्त्रः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2134,10 +2134,10 @@ And Sumantra beheld Rāma’s lovely mansion (_veśma rāmasya ramyam_), rivalin
 
 <details><summary>मूलम्</summary>
 
-उपस्थितैरञ्जलिकारिभिश्च  
-सोपायनैर्जानपदैर्जनैश्च ।  
-कोट्या परार्धैश्च विमुक्तयानैः  
-समाकुलं द्वारपदं ददर्श ॥ ४५ ॥
+[^non-baroDa-CE] उपस्थितैरञ्जलिकारिभिश्च  
+[^non-baroDa-CE] सोपायनैर्जानपदैर्जनैश्च ।  
+[^non-baroDa-CE] कोट्या परार्धैश्च विमुक्तयानैः  
+[^non-baroDa-CE] समाकुलं द्वारपदं ददर्श ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2193,10 +2193,10 @@ He beheld the gateway approach (_dvāra-padam_) thronged by tens of millions and
 
 <details><summary>मूलम्</summary>
 
-ततो महामेघमहीधराभं  
-प्रभिन्नमत्यङ्कुशमत्यसह्यम् ।  
-रामोपवाह्यं रुचिरं ददर्श  
-शत्रुञ्जयं नागमुदग्रकायम् ॥ ४६ ॥
+[^non-baroDa-CE] ततो महामेघमहीधराभं  
+[^non-baroDa-CE] प्रभिन्नमत्यङ्कुशमत्यसह्यम् ।  
+[^non-baroDa-CE] रामोपवाह्यं रुचिरं ददर्श  
+[^non-baroDa-CE] शत्रुञ्जयं नागमुदग्रकायम् ॥ ४६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2245,9 +2245,9 @@ Then he beheld the handsome, colossal-bodied elephant named Śatruñjaya (_śatr
 <details><summary>मूलम्</summary>
 
 स्वलङ्कृतान् साश्वरथान् सकुञ्जरा-  
-नमात्यमुख्यांश्च ददर्श वल्लभान् ।  
-व्यपोह्य सूतः सहितान् समन्ततः  
-समृद्धमन्तःपुरमाविवेश ह ॥ ४७ ॥
+[^non-baroDa-CE] नमात्यमुख्यांश्च ददर्श वल्लभान् ।  
+[^non-baroDa-CE] व्यपोह्य सूतः सहितान् समन्ततः  
+[^non-baroDa-CE] समृद्धमन्तःपुरमाविवेश ह ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2362,3 +2362,4 @@ Then, unrestrained by any warder (_avāryamāṇaḥ_), the charioteer entered t
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

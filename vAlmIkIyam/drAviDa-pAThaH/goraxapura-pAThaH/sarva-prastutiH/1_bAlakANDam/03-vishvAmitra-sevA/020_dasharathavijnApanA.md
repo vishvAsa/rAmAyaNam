@@ -1036,7 +1036,7 @@ Notice the dramatic reversal between Spread 131 (where Daśaratha offered to lea
 <details><summary>मूलम्</summary>
 
 स त्वं प्रसादं धर्मज्ञ कुरुष्व मम पुत्रके ।  
-मम चैवाल्पभाग्यस्य दैवतं हि भवान् गुरुः ॥ २१ ॥
+[^non-baroDa-CE] मम चैवाल्पभाग्यस्य दैवतं हि भवान् गुरुः ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1315,7 +1315,7 @@ Why does Daśaratha use both _tanayam_ and _putrakam_ in v. 25ab and repeat _nai
 <details><summary>मूलम्</summary>
 
 तयोरन्यतरं योद्धुं यास्यामि ससुहृद‍्गणः ।  
-अन्यथा त्वनुनेष्यामि भवन्तं सहबान्धवः ॥ २७ ॥
+[^non-baroDa-CE] अन्यथा त्वनुनेष्यामि भवन्तं सहबान्धवः ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1375,9 +1375,9 @@ Even in his final offer, Daśaratha no longer claims he can fight both demons at
 <details><summary>मूलम्</summary>
 
 इति नरपतिजल्पनाद् द्विजेन्द्रं  
-कुशिकसुतं सुमहान् विवेश मन्युः ।  
-सुहुत इव मखेऽग्निराज्यसिक्तः  
-समभवदुज्ज्वलितो महर्षिवह्निः ॥ २८ ॥
+[^non-baroDa-CE] कुशिकसुतं सुमहान् विवेश मन्युः ।  
+[^non-baroDa-CE] सुहुत इव मखेऽग्निराज्यसिक्तः  
+[^non-baroDa-CE] समभवदुज्ज्वलितो महर्षिवह्निः ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1445,3 +1445,4 @@ All three commentators call attention to the noun _jalpanāt_ (“incoherent pra
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

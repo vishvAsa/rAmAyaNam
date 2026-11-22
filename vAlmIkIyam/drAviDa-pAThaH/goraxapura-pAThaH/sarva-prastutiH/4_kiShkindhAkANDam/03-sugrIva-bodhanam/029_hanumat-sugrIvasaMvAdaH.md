@@ -453,7 +453,7 @@ Warning that belated aid forfeits a friend's purpose, Hanūmān urges Sugrīva t
 <details><summary>मूलम्</summary>
 
 सन्त्यज्य सर्वकर्माणि मित्रार्थे यो न वर्तते ।  
-सम्भ्रमाद् विकृतोत्साहः सोऽनर्थैर्नावरुध्यते ॥ १३ ॥
+[^non-baroDa-CE] सम्भ्रमाद् विकृतोत्साहः सोऽनर्थैर्नावरुध्यते ॥ १३ ॥
 _________________
 सन्त्यज्य सर्वकर्माणि मित्रार्थे यो न वर्तते ।  
 सम्भ्रमाद् विकृतोत्साहः सोऽर्थेनावरुध्यते ॥
@@ -1580,3 +1580,4 @@ And accompanied by Aṅgada (_sāṅgado bhavān_), let Your Excellency approach
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

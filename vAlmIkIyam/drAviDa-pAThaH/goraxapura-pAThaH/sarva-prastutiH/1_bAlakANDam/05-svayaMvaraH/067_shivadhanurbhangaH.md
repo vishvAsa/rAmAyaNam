@@ -1595,7 +1595,7 @@ With their observant submissions those ministers will narrate in detail about th
 
 कौशिकस्तु तथेत्याह राजा चाभाष्य मन्त्रिणः ।  
 अयोध्यां प्रेषयामास धर्मात्मा कृतशासनान् ।  
-यथावृत्तं समाख्यातुमानेतुं च नृपं तथा ॥ २७ ॥
+[^non-baroDa-CE] यथावृत्तं समाख्यातुमानेतुं च नृपं तथा ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1662,3 +1662,4 @@ Both **Tilaka** and **Govindarāja** gloss _kṛtaśāsanān_ as envoys furnishe
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

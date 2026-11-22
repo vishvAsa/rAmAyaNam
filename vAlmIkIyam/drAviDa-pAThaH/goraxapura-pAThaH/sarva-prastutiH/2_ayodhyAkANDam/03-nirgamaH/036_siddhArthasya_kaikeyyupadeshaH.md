@@ -257,8 +257,8 @@ dependent on Rama and on whom he took delight in gallantry"
 
 <details><summary>मूलम्</summary>
 
-आयुधानि च मुख्यानि नागराः शकटानि च ।  
-अनुगच्छन्तु काकुत्स्थं व्याधाश्चारण्यकोविदाः ॥ ५ ॥
+[^non-baroDa-CE] आयुधानि च मुख्यानि नागराः शकटानि च ।  
+[^non-baroDa-CE] अनुगच्छन्तु काकुत्स्थं व्याधाश्चारण्यकोविदाः ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -596,7 +596,7 @@ As Kākutstha spoke thus, fear came upon Kaikeyī (_evaṃ bruvati kākutsthe ka
 <details><summary>मूलम्</summary>
 
 सा विषण्णा च सन्त्रस्ता मुखेन परिशुष्यता ।  
-राजानमेवाभिमुखी कैकेयी वाक्यमब्रवीत् ॥ ११ ॥
+[^non-baroDa-CE] राजानमेवाभिमुखी कैकेयी वाक्यमब्रवीत् ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -778,7 +778,7 @@ When Kaikeyī, casting off all shame, spoke these exceedingly cruel words (_kaik
 <details><summary>मूलम्</summary>
 
 वहन्तं किं तुदसि मां नियुज्य धुरि माहिते ।  
-अनार्ये कृत्यमारब्धं किं न पूर्वमुपारुधः ॥ १४ ॥
+[^non-baroDa-CE] अनार्ये कृत्यमारब्धं किं न पूर्वमुपारुधः ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -834,7 +834,7 @@ begining itself, Oh the vulgar woman!"
 
 <details><summary>मूलम्</summary>
 
-तस्यैतत् क्रोधसंयुक्तमुक्तं श्रुत्वा वराङ्गना ।  
+[^non-baroDa-CE] तस्यैतत् क्रोधसंयुक्तमुक्तं श्रुत्वा वराङ्गना ।  
 कैकेयी द्विगुणं क्रुद्धा राजानमिदमब्रवीत् ॥ १५ ॥
 </details>
 
@@ -1341,8 +1341,8 @@ Recounting how King Sagara banished Asamañja for life with a spade and basket t
 
 <details><summary>मूलम्</summary>
 
-तं यानं शीघ्रमारोप्य सभार्यं सपरिच्छदम् ।  
-यावज्जीवं विवास्योऽयमिति तानन्वशात् पिता ॥ २४ ॥
+[^non-baroDa-CE] तं यानं शीघ्रमारोप्य सभार्यं सपरिच्छदम् ।  
+[^non-baroDa-CE] यावज्जीवं विवास्योऽयमिति तानन्वशात् पिता ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1402,8 +1402,8 @@ paraphrenalia (like utensils, implements etc) in a vehicle, the king instructed 
 
 <details><summary>मूलम्</summary>
 
-स फालपिटकं गृह्य गिरिदुर्गाण्यलोकयत् ।  
-दिशः सर्वास्त्वनुचरन् स यथा पापकर्मकृत् ॥ २५ ॥  
+[^non-baroDa-CE] स फालपिटकं गृह्य गिरिदुर्गाण्यलोकयत् ।  
+[^non-baroDa-CE] दिशः सर्वास्त्वनुचरन् स यथा पापकर्मकृत् ॥ २५ ॥  
 इत्येनमत्यजद् राजा सगरो वै सुधार्मिकः ।  
 रामः किमकरोत् पापं येनैवमुपरुध्यते ॥ २६ ॥
 </details>
@@ -1478,7 +1478,7 @@ as above. But, what sin Rama has done, for which he was debarred in this way?"
 <details><summary>मूलम्</summary>
 
 नहि कञ्चन पश्यामो राघवस्यागुणं वयम् ।  
-दुर्लभो ह्यस्य निरयः शशाङ्कस्येव कल्मषम् ॥ २७ ॥
+[^non-baroDa-CE] दुर्लभो ह्यस्य निरयः शशाङ्कस्येव कल्मषम् ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1532,10 +1532,10 @@ him as in a new moon.
 <details><summary>मूलम्</summary>
 
 अथवा देवि त्वं कञ्चिद् दोषं पश्यसि राघवे ।  
-तमद्य ब्रूहि तत्त्वेन तदा रामो विवास्यते ॥ २८ ॥
+[^non-baroDa-CE] तमद्य ब्रूहि तत्त्वेन तदा रामो विवास्यते ॥ २८ ॥
 _________________
 अथवा देवि त्वं कञ्चिद् दोषं पश्यति राघवे ।  
-तमद्य ब्रूहि तत्त्वेन तदा रामो विवास्यते ॥
+[^non-baroDa-CE] तमद्य ब्रूहि तत्त्वेन तदा रामो विवास्यते ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1598,7 +1598,7 @@ Warning Kaikeyī that banishing the blameless Rāma violates dharma and would sc
 <details><summary>मूलम्</summary>
 
 अदुष्टस्य हि सन्त्यागः सत्पथे निरतस्य च ।  
-निर्दहेदपि शक्रस्य द्युतिं धर्मविरोधवान् ॥ २९ ॥
+[^non-baroDa-CE] निर्दहेदपि शक्रस्य द्युतिं धर्मविरोधवान् ॥ २९ ॥
 _________________
 अदुष्टस्य हि सन्त्यागः सत्पथे निरतस्य च ।  
 निर्दहेदपि शक्रस्य द्युतिं धर्मनिरोधवान् ॥
@@ -1655,10 +1655,10 @@ devoted to a good path, it would consume the splendour of even Indra (the ruler 
 
 <details><summary>मूलम्</summary>
 
-तदलं देवि रामस्य श्रिया विहतया त्वया ।  
-लोकतोऽपि हि ते रक्ष्यः परिवादः शुभानने ॥ ३० ॥
+[^non-baroDa-CE] तदलं देवि रामस्य श्रिया विहतया त्वया ।  
+[^non-baroDa-CE] लोकतोऽपि हि ते रक्ष्यः परिवादः शुभानने ॥ ३० ॥
 _________________
-तदलं देवि रामस्य श्रिया विहतया त्वया ।  
+[^non-baroDa-CE] तदलं देवि रामस्य श्रिया विहतया त्वया ।  
 लोकतोऽपि हि ते रक्ष्यः परिवादः शुभानसे ॥
 </details>
 
@@ -1769,10 +1769,10 @@ Hearing the words of Siddhārtha, the king, his voice grown still fainter (_śru
 
 <details><summary>मूलम्</summary>
 
-एतद्वचो नेच्छसि पापरूपे  
-हितं न जानासि ममात्मनोऽथवा ।  
-आस्थाय मार्गं कृपणं कुचेष्टा  
-चेष्टा हि ते साधुपथादपेता ॥ ३२ ॥
+[^non-baroDa-CE] एतद्वचो नेच्छसि पापरूपे  
+[^non-baroDa-CE] हितं न जानासि ममात्मनोऽथवा ।  
+[^non-baroDa-CE] आस्थाय मार्गं कृपणं कुचेष्टा  
+[^non-baroDa-CE] चेष्टा हि ते साधुपथादपेता ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1895,3 +1895,4 @@ enjoy the kingdom for a long time, happily together with Bharata the King."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

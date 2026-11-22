@@ -591,10 +591,10 @@ Boasting of his thirty-two crores of fierce rākṣasa warriors and thousands of
 <details><summary>मूलम्</summary>
 
 दर्शयित्वा तु वैदेहीं कृत्स्नं तद्भवनोत्तमम् ।  
-उवाच वाक्यं पापात्मा सीतां लोभितुमिच्छया ॥ १३ ॥
+[^non-baroDa-CE] उवाच वाक्यं पापात्मा सीतां लोभितुमिच्छया ॥ १३ ॥
 _________________
 दर्शयित्वा तु वैदेहीं कृत्सृं तद्भवनोत्तमम् ।  
-उवाच वाक्यं पापात्मा सीतां लोभितुमिच्छया ॥
+[^non-baroDa-CE] उवाच वाक्यं पापात्मा सीतां लोभितुमिच्छया ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1315,7 +1315,7 @@ don't get perturbed at mind in not seeing Rama... he comes soon...'
 <details><summary>मूलम्</summary>
 
 लङ्कायाः सुमहद्राज्यमिदं त्वमनुपालय ।  
-त्वत्प्रेष्या मद्विधाश्चैव देवाश्चापि चराचरम् ॥ २६ ॥
+[^non-baroDa-CE] त्वत्प्रेष्या मद्विधाश्चैव देवाश्चापि चराचरम् ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1650,8 +1650,8 @@ of mine is unbright, thus marry me to brighten everything" Thus Ravana spoke to 
 
 <details><summary>मूलम्</summary>
 
-एवं वदति तस्मिन् सा वस्त्रान्तेन वराङ्गना ॥ ३२ ॥  
-पिधायेन्दुनिभं सीता मन्दमश्रूण्यवर्तयत् ।
+[^non-baroDa-CE] एवं वदति तस्मिन् सा वस्त्रान्तेन वराङ्गना ॥ ३२ ॥  
+[^non-baroDa-CE] पिधायेन्दुनिभं सीता मन्दमश्रूण्यवर्तयत् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1703,10 +1703,10 @@ of her sari, and stiflingly dispelled tears on that mooniest face behind her hal
 
 <details><summary>मूलम्</summary>
 
-ध्यायन्तीं तामिवास्वस्थां सीतां चिन्ताहतप्रभाम् ॥ ३३ ॥  
-उवाच वचनं वीरो रावणो रजनीचरः ।
+[^non-baroDa-CE] ध्यायन्तीं तामिवास्वस्थां सीतां चिन्ताहतप्रभाम् ॥ ३३ ॥  
+[^non-baroDa-CE] उवाच वचनं वीरो रावणो रजनीचरः ।
 _________________
-ध्यायन्तीं तामिवास्वस्थां सीतां चिन्ताहतप्रभाम् ॥  
+[^non-baroDa-CE] ध्यायन्तीं तामिवास्वस्थां सीतां चिन्ताहतप्रभाम् ॥  
 उवाच वचनं पापो रावणो रजनीचरः ।
 </details>
 
@@ -2067,3 +2067,5 @@ is mine,' as he has gone under the sway of the Terminator. [3-55-37]
 “—nor indeed has Rāvaṇa ever bowed with his head (_mūrdhnā praṇameta ha_) to any woman (_kāṃcit strīm_)!” Having spoken thus to Maithilī, the daughter of Janaka, Daśagrīva, fallen under the sway of Fate (_kṛtānta-vaśam āpannaḥ_), fancies (_manyate_), “She is mine (_mameyam iti_)!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

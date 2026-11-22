@@ -31,7 +31,7 @@ Curious to learn how Vasiṣṭha and King Nimi regained bodily form after layin
 
 <details><summary>मूलम्</summary>
 
-रामस्य भाषितं श्रुत्वा लक्ष्मणः परवीरहा ।  
+[^non-baroDa-CE] रामस्य भाषितं श्रुत्वा लक्ष्मणः परवीरहा ।  
 उवाच प्राञ्जलिर्भूत्वा राघवं दीप्ततेजसम् ॥ १ ॥
 </details>
 
@@ -63,7 +63,7 @@ Hearing the speech of Rāma (_rāmasya bhāṣitaṃ śrutvā_), Lakṣmaṇa, s
 <details><summary>मूलम्</summary>
 
 निक्षिप्य देहौ काकुत्स्थ कथं तौ द्विजपार्थिवौ ।  
-पुनर्देहेन संयोगं जग्मतुर्देवसम्मतौ ॥ २ ॥
+[^non-baroDa-CE] पुनर्देहेन संयोगं जग्मतुर्देवसम्मतौ ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -94,7 +94,7 @@ Hearing the speech of Rāma (_rāmasya bhāṣitaṃ śrutvā_), Lakṣmaṇa, s
 <details><summary>मूलम्</summary>
 
 लक्ष्मणेनैवमुक्तस्तु राम इक्ष्वाकुनन्दनः ।  
-प्रत्युवाच महातेजा लक्ष्मणं पुरुषर्षभः ॥ ३ ॥
+[^non-baroDa-CE] प्रत्युवाच महातेजा लक्ष्मणं पुरुषर्षभः ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -125,7 +125,7 @@ Thus addressed by Lakṣmaṇa (_lakṣmaṇenaivam uktas tu_), Rāma, delight o
 <details><summary>मूलम्</summary>
 
 तौ परस्परशापेन देहमुत्सृज्य धार्मिकौ ।  
-अभूतां नृपविप्रर्षी वायुभूतौ तपोधनौ ॥ ४ ॥
+[^non-baroDa-CE] अभूतां नृपविप्रर्षी वायुभूतौ तपोधनौ ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -155,7 +155,7 @@ Thus addressed by Lakṣmaṇa (_lakṣmaṇenaivam uktas tu_), Rāma, delight o
 
 <details><summary>मूलम्</summary>
 
-अशरीरः शरीरस्य कृतेऽन्यस्य महामुनिः ।  
+[^non-baroDa-CE] अशरीरः शरीरस्य कृतेऽन्यस्य महामुनिः ।  
 वसिष्ठस्तु महातेजा जगाम पितुरन्तिकम् ॥ ५ ॥
 </details>
 
@@ -186,8 +186,8 @@ Thus addressed by Lakṣmaṇa (_lakṣmaṇenaivam uktas tu_), Rāma, delight o
 
 <details><summary>मूलम्</summary>
 
-सोऽभिवाद्य ततः पादौ देवदेवस्य धर्मवित् ।  
-पितामहमथोवाच वायुभूत इदं वचः ॥ ६ ॥
+[^non-baroDa-CE] सोऽभिवाद्य ततः पादौ देवदेवस्य धर्मवित् ।  
+[^non-baroDa-CE] पितामहमथोवाच वायुभूत इदं वचः ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -225,7 +225,7 @@ Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭh
 
 <details><summary>मूलम्</summary>
 
-भगवन् निमिशापेन विदेहत्वमुपागमम् ।  
+[^non-baroDa-CE] भगवन् निमिशापेन विदेहत्वमुपागमम् ।  
 देवदेव महादेव वायुभूतोऽहमण्डज ॥ ७ ॥
 </details>
 
@@ -257,9 +257,9 @@ Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭh
 
 <details><summary>मूलम्</summary>
 
-सर्वेषां देहहीनानां महद् दुःखं भविष्यति ।  
+[^non-baroDa-CE] सर्वेषां देहहीनानां महद् दुःखं भविष्यति ।  
 लुप्यन्ते सर्वकार्याणि हीनदेहस्य वै प्रभो ॥ ८ ॥  
-देहस्यान्यस्य सद्भावे प्रसादं कर्तुमर्हसि ।
+[^non-baroDa-CE] देहस्यान्यस्य सद्भावे प्रसादं कर्तुमर्हसि ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -291,10 +291,10 @@ Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭh
 
 <details><summary>मूलम्</summary>
 
-तमुवाच ततो ब्रह्मा स्वयम्भूरमितप्रभः ॥ ९ ॥  
+[^non-baroDa-CE] तमुवाच ततो ब्रह्मा स्वयम्भूरमितप्रभः ॥ ९ ॥  
 मित्रावरुणजं तेज आविश त्वं महायशः ।  
-अयोनिजस्त्वं भविता तत्रापि द्विजसत्तम ।  
-धर्मेण महता युक्तः पुनरेष्यसि मे वशम् ॥ १० ॥
+[^non-baroDa-CE] अयोनिजस्त्वं भविता तत्रापि द्विजसत्तम ।  
+[^non-baroDa-CE] धर्मेण महता युक्तः पुनरेष्यसि मे वशम् ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -327,7 +327,7 @@ Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭh
 <details><summary>मूलम्</summary>
 
 एवमुक्तस्तु देवेन अभिवाद्य प्रदक्षिणम् ।  
-कृत्वा पितामहं तूर्णं प्रययौ वरुणालयम् ॥ ११ ॥
+[^non-baroDa-CE] कृत्वा पितामहं तूर्णं प्रययौ वरुणालयम् ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -357,7 +357,7 @@ Thus addressed by the God (_evam uktas tu devena_), having saluted and circumamb
 
 <details><summary>मूलम्</summary>
 
-तमेव कालं मित्रोऽपि वरुणत्वमकारयत् ।  
+[^non-baroDa-CE] तमेव कालं मित्रोऽपि वरुणत्वमकारयत् ।  
 क्षीरोदेन सहोपेतः पूज्यमानः सुरेश्वरैः ॥ १२ ॥
 </details>
 
@@ -396,7 +396,7 @@ Just then the supreme apsaras Urvaśī wanders into Varuṇa’s domain with her
 
 <details><summary>मूलम्</summary>
 
-एतस्मिन्नेव काले तु उर्वशी परमाप्सराः ।  
+[^non-baroDa-CE] एतस्मिन्नेव काले तु उर्वशी परमाप्सराः ।  
 यदृच्छया तमुद्देशमागता सखिभिर्वृता ॥ १३ ॥
 </details>
 
@@ -427,7 +427,7 @@ At that very moment (_etasminn eva kāle tu_), the foremost apsaras Urvaśī (_u
 
 <details><summary>मूलम्</summary>
 
-तां दृष्ट्वा रूपसम्पन्नां क्रीडन्तीं वरुणालये ।  
+[^non-baroDa-CE] तां दृष्ट्वा रूपसम्पन्नां क्रीडन्तीं वरुणालये ।  
 तदाविशत् परो हर्षो वरुणं चोर्वशीकृते ॥ १४ ॥
 </details>
 
@@ -458,8 +458,8 @@ Seeing her endowed with beauty (_rūpa-sampannām_) sporting in Varuṇa’s abo
 
 <details><summary>मूलम्</summary>
 
-स तां पद्मपलाशाक्षीं पूर्णचन्द्रनिभाननाम् ।  
-वरुणो वरयामास मैथुनायाप्सरोवराम् ॥ १५ ॥
+[^non-baroDa-CE] स तां पद्मपलाशाक्षीं पूर्णचन्द्रनिभाननाम् ।  
+[^non-baroDa-CE] वरुणो वरयामास मैथुनायाप्सरोवराम् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -489,8 +489,8 @@ That Varuṇa then wooed her (_varayām āsa_), that best of apsarases (_apsaro-
 
 <details><summary>मूलम्</summary>
 
-प्रत्युवाच ततः सा तु वरुणं प्राञ्जलिः स्थिता ।  
-मित्रेणाहं वृता साक्षात् पूर्वमेव सुरेश्वर ॥ १६ ॥
+[^non-baroDa-CE] प्रत्युवाच ततः सा तु वरुणं प्राञ्जलिः स्थिता ।  
+[^non-baroDa-CE] मित्रेणाहं वृता साक्षात् पूर्वमेव सुरेश्वर ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -522,10 +522,10 @@ Thereupon she, standing with joined palms (_prāñjaliḥ sthitā_), replied to 
 
 <details><summary>मूलम्</summary>
 
-वरुणस्त्वब्रवीद् वाक्यं कन्दर्पशरपीडितः ।  
-इदं तेजः समुत्स्रक्ष्ये कुम्भेऽस्मिन् देवनिर्मिते ॥ १७ ॥  
-एवमुत्सृज्य सुश्रोणि त्वय्यहं वरवर्णिनि ।  
-कृतकामो भविष्यामि यदि नेच्छसि सङ्गमम् ॥ १८ ॥
+[^non-baroDa-CE] वरुणस्त्वब्रवीद् वाक्यं कन्दर्पशरपीडितः ।  
+[^non-baroDa-CE] इदं तेजः समुत्स्रक्ष्ये कुम्भेऽस्मिन् देवनिर्मिते ॥ १७ ॥  
+[^non-baroDa-CE] एवमुत्सृज्य सुश्रोणि त्वय्यहं वरवर्णिनि ।  
+[^non-baroDa-CE] कृतकामो भविष्यामि यदि नेच्छसि सङ्गमम् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -566,7 +566,7 @@ Pleased by Varuṇa’s restraint, Urvaśī confesses that though her body belon
 <details><summary>मूलम्</summary>
 
 तस्य तल्लोकनाथस्य वरुणस्य सुभाषितम् ।  
-उर्वशी परमप्रीता श्रुत्वा वाक्यमुवाच ह ॥ १९ ॥
+[^non-baroDa-CE] उर्वशी परमप्रीता श्रुत्वा वाक्यमुवाच ह ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -596,10 +596,10 @@ Hearing those gracious words (_subhāṣitam_) of Varuṇa, guardian of the worl
 
 <details><summary>मूलम्</summary>
 
-काममेतद् भवत्वेवं हृदयं मे त्वयि स्थितम् ।  
+[^non-baroDa-CE] काममेतद् भवत्वेवं हृदयं मे त्वयि स्थितम् ।  
 भावश्चाप्यधिकं तुभ्यं देहो मित्रस्य तु प्रभो ॥ २० ॥
 _________________
-काममेतद्भवत्वेवं हृदयं मे त्वयि स्थितम् ।  
+[^non-baroDa-CE] काममेतद्भवत्वेवं हृदयं मे त्वयि स्थितम् ।  
 भावश्चाभ्यधिकं तुभ्यं देहो मित्रस्य तु प्रभो ॥
 </details>
 
@@ -630,7 +630,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-उर्वश्या एवमुक्तस्तु रेतस्तन्महदद्भुतम् ।  
+[^non-baroDa-CE] उर्वश्या एवमुक्तस्तु रेतस्तन्महदद्भुतम् ।  
 ज्वलदग्निसमप्रख्यं तस्मिन् कुम्भे न्यवासृजत् ॥ २१ ॥
 </details>
 
@@ -661,7 +661,7 @@ Thus addressed by Urvaśī (_urvaśyā evam uktas tu_), he discharged into that 
 
 <details><summary>मूलम्</summary>
 
-उर्वशी त्वगमत् तत्र मित्रो वै यत्र देवता ।  
+[^non-baroDa-CE] उर्वशी त्वगमत् तत्र मित्रो वै यत्र देवता ।  
 तां तु मित्रः सुसङ्क्रुद्ध उर्वशीमिदमब्रवीत् ॥ २२ ॥
 </details>
 
@@ -723,8 +723,8 @@ Urvaśī then went to where the god Mitra was (_yatra mitro vai devatā_); and a
 
 <details><summary>मूलम्</summary>
 
-अनेन दुष्कृतेन त्वं मत्क्रोधकलुषीकृता ।  
-मनुष्यलोकमास्थाय कञ्चित् कालं निवत्स्यसि ॥ २४ ॥
+[^non-baroDa-CE] अनेन दुष्कृतेन त्वं मत्क्रोधकलुषीकृता ।  
+[^non-baroDa-CE] मनुष्यलोकमास्थाय कञ्चित् कालं निवत्स्यसि ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -793,10 +793,10 @@ Cursed by Mitra to become the consort of King Purūravas of Kāśī, Urvaśī de
 
 <details><summary>मूलम्</summary>
 
-ततः सा शापदोषेण पुरूरवसमभ्यगात् ।  
+[^non-baroDa-CE] ततः सा शापदोषेण पुरूरवसमभ्यगात् ।  
 प्रतिष्ठाने पुरूरवं बुधस्यात्मजमौरसम् ॥ २६ ॥
 _________________
-ततः सा शापदोषेण पुरूरवसमभ्यगात् ।  
+[^non-baroDa-CE] ततः सा शापदोषेण पुरूरवसमभ्यगात् ।  
 प्रतिष्ठाने पुरूरवं बुधस्यात्मजवौरसम् ॥
 </details>
 
@@ -827,8 +827,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-तस्य जज्ञे ततः श्रीमानायुः पुत्रो महाबलः ।  
-नहुषो यस्य पुत्रस्तु बभूवेन्द्रसमद्युतिः ॥ २७ ॥
+[^non-baroDa-CE] तस्य जज्ञे ततः श्रीमानायुः पुत्रो महाबलः ।  
+[^non-baroDa-CE] नहुषो यस्य पुत्रस्तु बभूवेन्द्रसमद्युतिः ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -859,7 +859,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 वज्रमुत्सृज्य वृत्राय श्रान्तेऽथ त्रिदिवेश्वरे ।  
-शतं वर्षसहस्राणि येनेन्द्रत्वं प्रशासितम् ॥ २८ ॥
+[^non-baroDa-CE] शतं वर्षसहस्राणि येनेन्द्रत्वं प्रशासितम् ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -891,14 +891,14 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-सा तेन शापेन जगाम भूमिं  
-तदोर्वशी चारुदती सुनेत्रा ।  
-बहूनि वर्षाण्यवसच्च सुभ्रूः  
-शापक्षयादिन्द्रसदो ययौ च ॥ २९ ॥
+[^non-baroDa-CE] सा तेन शापेन जगाम भूमिं  
+[^non-baroDa-CE] तदोर्वशी चारुदती सुनेत्रा ।  
+[^non-baroDa-CE] बहूनि वर्षाण्यवसच्च सुभ्रूः  
+[^non-baroDa-CE] शापक्षयादिन्द्रसदो ययौ च ॥ २९ ॥
 _________________
-सा तेन शापेन जगाम भूमिं  
+[^non-baroDa-CE] सा तेन शापेन जगाम भूमिं  
 तदोर्वशी चारुदशी सुनेत्रा ।  
-बहूनि वर्षाण्यवसच्च सुभ्रूः  
+[^non-baroDa-CE] बहूनि वर्षाण्यवसच्च सुभ्रूः  
 शापक्षयदिन्द्रसदो ययौ च ॥
 </details>
 
@@ -930,3 +930,4 @@ _________________
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

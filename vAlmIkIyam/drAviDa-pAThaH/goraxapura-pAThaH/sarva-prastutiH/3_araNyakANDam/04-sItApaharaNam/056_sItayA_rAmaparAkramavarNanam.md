@@ -549,7 +549,7 @@ and you be ready awaiting for your slaughter in that *raama yaj~na*
 <details><summary>मूलम्</summary>
 
 यदि पश्येत् स रामस्त्वां रोषदीप्तेन चक्षुषा ।  
-रक्षस्त्वमद्य निर्दग्धो यथा रुद्रेण मन्मथः ॥ १० ॥
+[^non-baroDa-CE] रक्षस्त्वमद्य निर्दग्धो यथा रुद्रेण मन्मथः ॥ १० ॥
 _________________
 यदि पश्येत् स रामस्त्वां रोषदीप्तेन चक्षुषा ।  
 रक्षस्त्वमद्य निर्दग्धो यथा रुद्रेण वन्मथः ॥
@@ -1123,8 +1123,8 @@ Comparing herself to a female swan sporting with a royal swan and spurning a wat
 
 <details><summary>मूलम्</summary>
 
-तथाहं धर्मनित्यस्य धर्मपत्नी दृढव्रता ।  
-त्वया स्प्रष्टुं न शक्याहं राक्षसाधम पापिना ॥ १९ ॥
+[^non-baroDa-CE] तथाहं धर्मनित्यस्य धर्मपत्नी दृढव्रता ।  
+[^non-baroDa-CE] त्वया स्प्रष्टुं न शक्याहं राक्षसाधम पापिना ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1177,10 +1177,10 @@ such as I am, you basely demon, it is impossible for you trespasser to touch me 
 
 <details><summary>मूलम्</summary>
 
-क्रीडन्ती राजहंसेन पद्मषण्डेषु नित्यशः ।  
-हंसी सा तृणमध्यस्थं कथं द्रक्ष्येत मद्गुकम् ॥ २० ॥
+[^non-baroDa-CE] क्रीडन्ती राजहंसेन पद्मषण्डेषु नित्यशः ।  
+[^non-baroDa-CE] हंसी सा तृणमध्यस्थं कथं द्रक्ष्येत मद्गुकम् ॥ २० ॥
 _________________
-क्रीडन्ती राजहंसेन पद्मषण्डेषु नित्यशः ।  
+[^non-baroDa-CE] क्रीडन्ती राजहंसेन पद्मषण्डेषु नित्यशः ।  
 हंसी सा तृणमध्यस्थं कथं पश्येत मद्गुकम् ॥
 </details>
 
@@ -2049,8 +2049,8 @@ Her limbs overwhelmed with grief (_śoka-parītāṅgī_), Maithilī, the daught
 
 <details><summary>मूलम्</summary>
 
-शोकेन महता ग्रस्ता मैथिली जनकात्मजा ।  
-न शर्म लभते भीरुः पाशबद्धा मृगी यथा ॥ ३५ ॥
+[^non-baroDa-CE] शोकेन महता ग्रस्ता मैथिली जनकात्मजा ।  
+[^non-baroDa-CE] न शर्म लभते भीरुः पाशबद्धा मृगी यथा ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2157,3 +2157,4 @@ Threatened exceedingly (_atīva tarjitā_) by those [ogresses] of deformed eyes 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

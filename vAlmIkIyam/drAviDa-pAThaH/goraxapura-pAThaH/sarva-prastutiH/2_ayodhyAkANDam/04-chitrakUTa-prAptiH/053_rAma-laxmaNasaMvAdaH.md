@@ -1787,7 +1787,7 @@ father or Satrughna or Sumitra or even the heaven."
 <details><summary>मूलम्</summary>
 
 ततस्तत्र समासीनौ नातिदूरे निरीक्ष्य ताम् ।  
-न्यग्रोधे सुकृतां शय्यां भेजाते धर्मवत्सलौ ॥३३ ॥
+[^non-baroDa-CE] न्यग्रोधे सुकृतां शय्यां भेजाते धर्मवत्सलौ ॥३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1904,8 +1904,8 @@ Having heard with regard that noble and fullness-fraught speech (_uttama-puṣka
 
 ततस्तु तस्मिन् विजने महाबलौ  
 महावने राघववंशवर्धनौ ।  
-न तौ भयं सम्भ्रममभ्युपेयतु-  
-र्यथैव सिंहौ गिरिसानुगोचरौ ॥ ३५ ॥
+[^non-baroDa-CE] न तौ भयं सम्भ्रममभ्युपेयतु-  
+[^non-baroDa-CE] र्यथैव सिंहौ गिरिसानुगोचरौ ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1960,3 +1960,5 @@ couple of lions on the slopes of a mountain.
 Then in that solitary forest, at that time, those two mighty increasers of Rāghava’s race (_rāghava-vaṃśa-vardhanau_) experienced neither fear nor agitation (_na tau bhayaṃ sambhramam abhyupeyatuḥ_), even like two lions roaming upon a mountain plateau (_girī-sānu-gocarau_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

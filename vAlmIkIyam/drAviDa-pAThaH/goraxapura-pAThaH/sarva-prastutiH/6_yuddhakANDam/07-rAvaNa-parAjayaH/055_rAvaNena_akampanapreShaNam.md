@@ -42,7 +42,7 @@ Hearing that Vajradaṃṣṭra has fallen to Aṅgada, Rāvaṇa commands Praha
 
 <details><summary>मूलम्</summary>
 
-वज्रदंष्ट्रं हतं श्रुत्वा वालिपुत्रेण रावणः ।  
+[^non-baroDa-CE] वज्रदंष्ट्रं हतं श्रुत्वा वालिपुत्रेण रावणः ।  
 बलाध्यक्षमुवाचेदं कृताञ्जलिमुपस्थितम् ॥ १ ॥
 </details>
 
@@ -147,8 +147,8 @@ their head, who is skilled in the use of every weapon and missile."
 
 <details><summary>मूलम्</summary>
 
-एष शास्ता च गोप्ता च नेता च युधि सत्तमः ।  
-भूतिकामश्च मे नित्यं नित्यं च समरप्रियः ॥ ३ ॥
+[^non-baroDa-CE] एष शास्ता च गोप्ता च नेता च युधि सत्तमः ।  
+[^non-baroDa-CE] भूतिकामश्च मे नित्यं नित्यं च समरप्रियः ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -193,8 +193,8 @@ He is indeed a chastiser [of foes] (_śāstā_), a protector [of our forces] (_g
 
 <details><summary>मूलम्</summary>
 
-एष जेष्यति काकुत्स्थौ सुग्रीवं च महाबलम् ।  
-वानरांश्चापरान् घोरान् हनिष्यति न संशयः ॥ ४ ॥
+[^non-baroDa-CE] एष जेष्यति काकुत्स्थौ सुग्रीवं च महाबलम् ।  
+[^non-baroDa-CE] वानरांश्चापरान् घोरान् हनिष्यति न संशयः ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -245,11 +245,11 @@ He will surely vanquish the two Kākutsthas (_kākutsthau_) and the mighty Sugr�
 
 <details><summary>मूलम्</summary>
 
-परिगृह्य स तामाज्ञां रावणस्य महाबलः ।  
-बलं सम्प्रेरयामास तदा लघुपराक्रमः ॥ ५ ॥
+[^non-baroDa-CE] परिगृह्य स तामाज्ञां रावणस्य महाबलः ।  
+[^non-baroDa-CE] बलं सम्प्रेरयामास तदा लघुपराक्रमः ॥ ५ ॥
 _________________
 परिगृह्य च तामाज्ञां रावणस्य महाबलः ।  
-बलं सम्प्रेरयामास तदा लघुपराक्रमः ॥
+[^non-baroDa-CE] बलं सम्प्रेरयामास तदा लघुपराक्रमः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -351,7 +351,7 @@ Resplendent as the sun and thundering like a storm-cloud, Akampana mounts his go
 <details><summary>मूलम्</summary>
 
 रथमास्थाय विपुलं तप्तकाञ्चनभूषणम् ।  
-मेघाभो मेघवर्णश्च मेघस्वनमहास्वनः ॥ ७ ॥  
+[^non-baroDa-CE] मेघाभो मेघवर्णश्च मेघस्वनमहास्वनः ॥ ७ ॥  
 राक्षसैः संवृतो घोरैस्तदा निर्यात्यकम्पनः ।
 </details>
 
@@ -1454,7 +1454,7 @@ The Vānaras of dreadful deeds (_bhīmakarmāṇaḥ_) slew the Rākṣasas in b
 <details><summary>मूलम्</summary>
 
 अकम्पनः सुसङ्क्रुद्धो राक्षसानां चमूपतिः ॥ २८ ॥  
-संहर्षयति तान् सर्वान् राक्षसान् भीमविक्रमान् ।
+[^non-baroDa-CE] संहर्षयति तान् सर्वान् राक्षसान् भीमविक्रमान् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1614,7 +1614,7 @@ Charging forward and snatching away their weapons by sheer might (_śastrāṇy 
 
 ते तु वृक्षैर्महावीरा राक्षसानां चमूमुखे ॥ ३१ ॥  
 कदनं सुमहच्चक्रुर्लीलया हरिपुङ्गवाः ।  
-ममन्थू राक्षसान् सर्वे नानाप्रहरणैर्भृशम् ॥ ३२ ॥
+[^non-baroDa-CE] ममन्थू राक्षसान् सर्वे नानाप्रहरणैर्भृशम् ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1672,3 +1672,4 @@ demons with every kind of weapon.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

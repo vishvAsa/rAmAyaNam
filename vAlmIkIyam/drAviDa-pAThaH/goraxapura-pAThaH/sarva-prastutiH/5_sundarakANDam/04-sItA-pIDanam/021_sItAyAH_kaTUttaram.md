@@ -427,7 +427,7 @@ Making yourself the standard of comparison (_upamām_), take delight in your own
 <details><summary>मूलम्</summary>
 
 इह सन्तो न वा सन्ति सतो वा नानुवर्तसे ।  
-यथा हि विपरीता ते बुद्धिराचारवर्जिता ॥ ९ ॥
+[^non-baroDa-CE] यथा हि विपरीता ते बुद्धिराचारवर्जिता ॥ ९ ॥
 _________________
 तथा हि विपरीता ते बुद्धिराचारवर्जिता ।
 </details>
@@ -476,7 +476,7 @@ Either there are no virtuous men (_santaḥ_) here, or else you do not follow th
 <details><summary>मूलम्</summary>
 
 वचो मिथ्याप्रणीतात्मा पथ्यमुक्तं विचक्षणैः ।  
-राक्षसानामभावाय त्वं वा न प्रतिपद्यसे ॥ १० ॥
+[^non-baroDa-CE] राक्षसानामभावाय त्वं वा न प्रतिपद्यसे ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -976,8 +976,8 @@ If you wish to preserve your realm (_sthānaṃ parīpsatā_) and do not wish fo
 
 <details><summary>मूलम्</summary>
 
-विदितः सर्वधर्मज्ञः शरणागतवत्सलः ।  
-तेन मैत्री भवतु ते यदि जीवितुमिच्छसि ॥ २० ॥
+[^non-baroDa-CE] विदितः सर्वधर्मज्ञः शरणागतवत्सलः ।  
+[^non-baroDa-CE] तेन मैत्री भवतु ते यदि जीवितुमिच्छसि ॥ २० ॥
 _________________
 विदितः स हि धर्मज्ञः शरणागतवत्सलः ।
 </details>
@@ -1043,8 +1043,8 @@ He is renowned as the knower of all dharma (_sarvadharmajñaḥ_) and tender tow
 
 <details><summary>मूलम्</summary>
 
-प्रसादयस्व त्वं चैनं शरणागतवत्सलम् ।  
-मां चास्मै प्रयतो भूत्वा निर्यातयितुमर्हसि ॥ २१ ॥
+[^non-baroDa-CE] प्रसादयस्व त्वं चैनं शरणागतवत्सलम् ।  
+[^non-baroDa-CE] मां चास्मै प्रयतो भूत्वा निर्यातयितुमर्हसि ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1206,8 +1206,8 @@ On 5.21.33, _Tilaka_ and _Bhūṣaṇa_ divide स नाथो मे as the de
 
 <details><summary>मूलम्</summary>
 
-एवं हि ते भवेत् स्वस्ति सम्प्रदाय रघूत्तमे ।  
-अन्यथा त्वं हि कुर्वाणः परां प्राप्स्यसि चापदम् ॥ २२ ॥
+[^non-baroDa-CE] एवं हि ते भवेत् स्वस्ति सम्प्रदाय रघूत्तमे ।  
+[^non-baroDa-CE] अन्यथा त्वं हि कुर्वाणः परां प्राप्स्यसि चापदम् ॥ २२ ॥
 _________________
 अन्यथा त्वं हि कुर्वाणो वधं पाप्स्यसि रावण ।
 </details>
@@ -1871,3 +1871,4 @@ Whether you flee to Kubera’s mountain abode [Kailāsa] or enter the assembly h
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -170,10 +170,10 @@ perceived your performance with your missiles acquired by propitiating Brahma th
 <details><summary>मूलम्</summary>
 
 त्वदस्त्रबलमासाद्य ससुराः समरुद‍्गणाः ।  
-न शेकुः समरे स्थातुं सुरेश्वरसमाश्रिताः ॥ ३ ॥
+[^non-baroDa-CE] न शेकुः समरे स्थातुं सुरेश्वरसमाश्रिताः ॥ ३ ॥
 _________________
 तवासबलमास्त्राद्य नासुरा न मरुद्गणाः ।  
-न शेकुः समरे स्थातुं सुरेश्वरसमाश्रिताः ॥
+[^non-baroDa-CE] न शेकुः समरे स्थातुं सुरेश्वरसमाश्रिताः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -440,7 +440,7 @@ Slain are all the Kiṅkaras and the Rākṣasa Jambumālin, the heroic sons of 
 
 <details><summary>मूलम्</summary>
 
-बलानि सुसमृद्धानि साश्वनागरथानि च ।  
+[^non-baroDa-CE] बलानि सुसमृद्धानि साश्वनागरथानि च ।  
 सहोदरस्ते दयितः कुमारोऽक्षश्च सूदितः ।  
 न तु तेष्वेव मे सारो यस्त्वय्यरिनिषूदन ॥ ८ ॥
 _________________
@@ -641,15 +641,15 @@ Just as the crushing of our army (_balāvamardaḥ_) ceases when you, by whom fo
 
 <details><summary>मूलम्</summary>
 
-न वीर सेना गणशो च्यवन्ति  
-न वज्रमादाय विशालसारम् ।  
-न मारुतस्यास्ति गतिप्रमाणं  
-न चाग्निकल्पः करणेन हन्तुम् ॥ ११ ॥
+[^non-baroDa-CE] न वीर सेना गणशो च्यवन्ति  
+[^non-baroDa-CE] न वज्रमादाय विशालसारम् ।  
+[^non-baroDa-CE] न मारुतस्यास्ति गतिप्रमाणं  
+[^non-baroDa-CE] न चाग्निकल्पः करणेन हन्तुम् ॥ ११ ॥
 _________________
-न वीर सेना गणशोच्यवन्ति  
-न वज्रमादाय विशालसारम् ।  
+[^non-baroDa-CE] न वीर सेना गणशोच्यवन्ति  
+[^non-baroDa-CE] न वज्रमादाय विशालसारम् ।  
 न मारुतस्यास्य गतिप्रमाणं  
-न चाग्नि कल्पः करणेन हन्तुम् ॥
+[^non-baroDa-CE] न चाग्नि कल्पः करणेन हन्तुम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -708,15 +708,15 @@ O hero, armies perish in droves (_senā gaṇaśo cyavanti_), nor [does it avail
 
 <details><summary>मूलम्</summary>
 
-तमेवमर्थं प्रसमीक्ष्य सम्यक्  
-स्वकर्मसाम्याद्धि समाहितात्मा ।  
-स्मरंश्च दिव्यं धनुषोऽस्य वीर्यं  
-व्रजाक्षतं कर्म समारभस्व ॥ १२ ॥
+[^non-baroDa-CE] तमेवमर्थं प्रसमीक्ष्य सम्यक्  
+[^non-baroDa-CE] स्वकर्मसाम्याद्धि समाहितात्मा ।  
+[^non-baroDa-CE] स्मरंश्च दिव्यं धनुषोऽस्य वीर्यं  
+[^non-baroDa-CE] व्रजाक्षतं कर्म समारभस्व ॥ १२ ॥
 _________________
-तमेवमर्थं प्रसमीक्ष्य सम्यक्  
-स्वकर्मसाम्याद्धि समाहितात्मा ।  
+[^non-baroDa-CE] तमेवमर्थं प्रसमीक्ष्य सम्यक्  
+[^non-baroDa-CE] स्वकर्मसाम्याद्धि समाहितात्मा ।  
 स्मरंश्च दिव्यं धनुषोस्त्रवीर्यं  
-व्रजाक्षतं कर्म समारभस्व ॥
+[^non-baroDa-CE] व्रजाक्षतं कर्म समारभस्व ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3703,3 +3703,4 @@ And questioned in due order (_yathākramaṃ taiḥ pṛṣṭaḥ_) by them at 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

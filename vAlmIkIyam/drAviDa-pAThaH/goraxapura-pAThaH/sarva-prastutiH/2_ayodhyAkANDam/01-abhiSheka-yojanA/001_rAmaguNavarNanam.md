@@ -47,8 +47,8 @@ Bharata and Śatrughna reside at the court of their maternal uncle Aśvapati in 
 
 <details><summary>मूलम्</summary>
 
-गच्छता मातुलकुलं भरतेन तदानघः ।  
-शत्रुघ्नो नित्यशत्रुघ्नो नीतः प्रीतिपुरस्कृतः ॥ १ ॥
+[^non-baroDa-CE] गच्छता मातुलकुलं भरतेन तदानघः ।  
+[^non-baroDa-CE] शत्रुघ्नो नित्यशत्रुघ्नो नीतः प्रीतिपुरस्कृतः ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -495,8 +495,8 @@ Incarnate as the eternal Viṣṇu for the destruction of Rāvaṇa, Rāma delig
 
 <details><summary>मूलम्</summary>
 
-स हि देवैरुदीर्णस्य रावणस्य वधार्थिभिः ।  
-अर्थितो मानुषे लोके जज्ञे विष्णुः सनातनः ॥ ७ ॥
+[^non-baroDa-CE] स हि देवैरुदीर्णस्य रावणस्य वधार्थिभिः ।  
+[^non-baroDa-CE] अर्थितो मानुषे लोके जज्ञे विष्णुः सनातनः ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -541,8 +541,8 @@ For He, the eternal Viṣṇu (_viṣṇuḥ sanātanaḥ_), when entreated by t
 
 <details><summary>मूलम्</summary>
 
-कौसल्या शुशुभे तेन पुत्रेणामिततेजसा ।  
-यथा वरेण देवानामदितिर्वज्रपाणिना ॥ ८ ॥
+[^non-baroDa-CE] कौसल्या शुशुभे तेन पुत्रेणामिततेजसा ।  
+[^non-baroDa-CE] यथा वरेण देवानामदितिर्वज्रपाणिना ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -587,8 +587,8 @@ Kausalyā shone resplendent with that son of boundless lustre (_amita-tejasā_),
 
 <details><summary>मूलम्</summary>
 
-स हि रूपोपपन्नश्च वीर्यवाननसूयकः ।  
-भूमावनुपमः सूनुर्गुणैर्दशरथोपमः ॥ ९ ॥
+[^non-baroDa-CE] स हि रूपोपपन्नश्च वीर्यवाननसूयकः ।  
+[^non-baroDa-CE] भूमावनुपमः सूनुर्गुणैर्दशरथोपमः ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -791,8 +791,8 @@ Though supreme in valour and eloquence, Rāma remains humble, truthful, compassi
 
 <details><summary>मूलम्</summary>
 
-बुद्धिमान् मधुराभाषी पूर्वभाषी प्रियंवदः ।  
-वीर्यवान्न च वीर्येण महता स्वेन विस्मितः ॥ १३ ॥
+[^non-baroDa-CE] बुद्धिमान् मधुराभाषी पूर्वभाषी प्रियंवदः ।  
+[^non-baroDa-CE] वीर्यवान्न च वीर्येण महता स्वेन विस्मितः ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -838,8 +838,8 @@ Wise, sweet-spoken (_madhurābhāṣī_), the first to greet others in conversat
 
 <details><summary>मूलम्</summary>
 
-न चानृतकथो विद्वान् वृद्धानां प्रतिपूजकः ।  
-अनुरक्तः प्रजाभिश्च प्रजाश्चाप्यनुरज्यते ॥ १४ ॥
+[^non-baroDa-CE] न चानृतकथो विद्वान् वृद्धानां प्रतिपूजकः ।  
+[^non-baroDa-CE] अनुरक्तः प्रजाभिश्च प्रजाश्चाप्यनुरज्यते ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -884,10 +884,10 @@ Never uttering an untrue word (_anṛta-kathaḥ_), learned, and a reverent hono
 
 <details><summary>मूलम्</summary>
 
-सानुक्रोशो जितक्रोधो ब्राह्मणप्रतिपूजकः ।  
-दीनानुकम्पी धर्मज्ञो नित्यं प्रग्रहवान् शुचिः ॥ १५ ॥
+[^non-baroDa-CE] सानुक्रोशो जितक्रोधो ब्राह्मणप्रतिपूजकः ।  
+[^non-baroDa-CE] दीनानुकम्पी धर्मज्ञो नित्यं प्रग्रहवान् शुचिः ॥ १५ ॥
 _________________
-सानु क्रोशो जितक्रोधो ब्राह्मणप्रतिपूजकः ।  
+[^non-baroDa-CE] सानु क्रोशो जितक्रोधो ब्राह्मणप्रतिपूजकः ।  
 दीनानुकम्पि धर्मज्ञो नित्यं प्रग्रहवान् शुचिः ॥
 </details>
 
@@ -935,8 +935,8 @@ Tender-hearted (_sānukrośaḥ_), having conquered anger, a reverent honorer of
 
 <details><summary>मूलम्</summary>
 
-कुलोचितमतिः क्षात्रं स्वधर्मं बहु मन्यते ।  
-मन्यते परया प्रीत्या महत् स्वर्गफलं ततः ॥ १६ ॥
+[^non-baroDa-CE] कुलोचितमतिः क्षात्रं स्वधर्मं बहु मन्यते ।  
+[^non-baroDa-CE] मन्यते परया प्रीत्या महत् स्वर्गफलं ततः ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -989,8 +989,8 @@ Possessing a mind worthy of his royal lineage (_kulocita-matiḥ_), he holds in 
 
 <details><summary>मूलम्</summary>
 
-नाश्रेयसि रतो यश्च न विरुद्धकथारुचिः ।  
-उत्तरोत्तरयुक्तीनां वक्ता वाचस्पतिर्यथा ॥ १७ ॥
+[^non-baroDa-CE] नाश्रेयसि रतो यश्च न विरुद्धकथारुचिः ।  
+[^non-baroDa-CE] उत्तरोत्तरयुक्तीनां वक्ता वाचस्पतिर्यथा ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1042,8 +1042,8 @@ He never takes delight in what is unwholesome (_aśreyasi_), nor relishes discou
 
 <details><summary>मूलम्</summary>
 
-अरोगस्तरुणो वाग्मी वपुष्मान् देशकालवित् ।  
-लोके पुरुषसारज्ञः साधुरेको विनिर्मितः ॥ १८ ॥
+[^non-baroDa-CE] अरोगस्तरुणो वाग्मी वपुष्मान् देशकालवित् ।  
+[^non-baroDa-CE] लोके पुरुषसारज्ञः साधुरेको विनिर्मितः ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1105,7 +1105,7 @@ Dear to the people as their own externalized life-breath, Rāma excels his fathe
 <details><summary>मूलम्</summary>
 
 स तु श्रेष्ठैर्गुणैर्युक्तः प्रजानां पार्थिवात्मजः ।  
-बहिश्चर इव प्राणो बभूव गुणतः प्रियः ॥ १९ ॥
+[^non-baroDa-CE] बहिश्चर इव प्राणो बभूव गुणतः प्रियः ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1150,8 +1150,8 @@ Endowed with the noblest virtues, that prince became through his excellences as 
 
 <details><summary>मूलम्</summary>
 
-सर्वविद्याव्रतस्नातो यथावत् साङ्गवेदवित् ।  
-इष्वस्त्रे च पितुः श्रेष्ठो बभूव भरताग्रजः ॥ २० ॥
+[^non-baroDa-CE] सर्वविद्याव्रतस्नातो यथावत् साङ्गवेदवित् ।  
+[^non-baroDa-CE] इष्वस्त्रे च पितुः श्रेष्ठो बभूव भरताग्रजः ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1299,8 +1299,8 @@ Knowing the true essence of _dharma_, pleasure (_kāma_), and wealth (_artha_), 
 
 <details><summary>मूलम्</summary>
 
-निभृतः संवृताकारो गुप्तमन्त्रः सहायवान् ।  
-अमोघक्रोधहर्षश्च त्यागसंयमकालवित् ॥ २३ ॥
+[^non-baroDa-CE] निभृतः संवृताकारो गुप्तमन्त्रः सहायवान् ।  
+[^non-baroDa-CE] अमोघक्रोधहर्षश्च त्यागसंयमकालवित् ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1346,8 +1346,8 @@ Modest (_nibhṛtaḥ_), concealing his inner emotions (_saṃvṛtākāraḥ_),
 
 <details><summary>मूलम्</summary>
 
-दृढभक्तिः स्थिरप्रज्ञो नासद्‍ग्राही न दुर्वचः ।  
-निस्तन्द्रीरप्रमत्तश्च स्वदोषपरदोषवित् ॥ २४ ॥
+[^non-baroDa-CE] दृढभक्तिः स्थिरप्रज्ञो नासद्‍ग्राही न दुर्वचः ।  
+[^non-baroDa-CE] निस्तन्द्रीरप्रमत्तश्च स्वदोषपरदोषवित् ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1744,7 +1744,7 @@ Equal to the Earth in patience, Bṛhaspati in wisdom, and Indra in valour, Rām
 <details><summary>मूलम्</summary>
 
 नावज्ञेयश्च भूतानां न च कालवशानुगः ।  
-एवं श्रेष्ठैर्गुणैर्युक्तः प्रजानां पार्थिवात्मजः ॥ ३१ ॥  
+[^non-baroDa-CE] एवं श्रेष्ठैर्गुणैर्युक्तः प्रजानां पार्थिवात्मजः ॥ ३१ ॥  
 सम्मतस्त्रिषु लोकेषु वसुधायाः क्षमागुणैः ।  
 बुद्ध्या बृहस्पतेस्तुल्यो वीर्ये चापि शचीपतेः ॥ ३२ ॥
 </details>
@@ -1955,11 +1955,11 @@ Beholding his son endowed with these manifold, peerless virtues (_guṇair anupa
 
 <details><summary>मूलम्</summary>
 
-अथ राज्ञो बभूवैव वृद्धस्य चिरजीविनः ।  
-प्रीतिरेषा कथं रामो राजा स्यान्मयि जीवति ॥ ३६ ॥
+[^non-baroDa-CE] अथ राज्ञो बभूवैव वृद्धस्य चिरजीविनः ।  
+[^non-baroDa-CE] प्रीतिरेषा कथं रामो राजा स्यान्मयि जीवति ॥ ३६ ॥
 _________________
 अथ राज्ञो बभूवैवं वृद्धस्य चिरजीविनः ।  
-प्रीतिरेषा कथं रामो राजा स्यान्मयि जीवति ॥
+[^non-baroDa-CE] प्रीतिरेषा कथं रामो राजा स्यान्मयि जीवति ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2200,8 +2200,8 @@ Deliberating with his ministers after observing ominous portents in sky, air, an
 
 <details><summary>मूलम्</summary>
 
-इत्येवं विविधैस्तैस्तैरन्यपार्थिवदुर्लभैः ।  
-शिष्टैरपरिमेयैश्च लोके लोकोत्तरैर्गुणैः ॥ ४१ ॥  
+[^non-baroDa-CE] इत्येवं विविधैस्तैस्तैरन्यपार्थिवदुर्लभैः ।  
+[^non-baroDa-CE] शिष्टैरपरिमेयैश्च लोके लोकोत्तरैर्गुणैः ॥ ४१ ॥  
 तं समीक्ष्य तदा राजा युक्तं समुदितैर्गुणैः ।  
 निश्चित्य सचिवैः सार्धं यौवराज्यममन्यत ॥ ४२ ॥
 </details>
@@ -2272,7 +2272,7 @@ was getting aged.
 
 <details><summary>मूलम्</summary>
 
-दिव्यन्तरिक्षे भूमौ च घोरमुत्पातजं भयम् ।  
+[^non-baroDa-CE] दिव्यन्तरिक्षे भूमौ च घोरमुत्पातजं भयम् ।  
 सञ्चचक्षेऽथ मेधावी शरीरे चात्मनो जराम् ॥ ४३ ॥
 _________________
 दिव्यन्तरिक्षे भूवौ च घोरमुत्पातजं भयम् ।  
@@ -2321,8 +2321,8 @@ The wise monarch observed and declared to his ministers the fearful dread born o
 
 <details><summary>मूलम्</summary>
 
-पूर्णचन्द्राननस्याथ शोकापनुदमात्मनः ।  
-लोके रामस्य बुबुधे सम्प्रियत्वं महात्मनः ॥ ४४ ॥
+[^non-baroDa-CE] पूर्णचन्द्राननस्याथ शोकापनुदमात्मनः ।  
+[^non-baroDa-CE] लोके रामस्य बुबुधे सम्प्रियत्वं महात्मनः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2374,10 +2374,10 @@ He recognized too the universal popularity (_sampriyatvam_) in the world of the 
 
 <details><summary>मूलम्</summary>
 
-आत्मनश्च प्रजानां च श्रेयसे च प्रियेण च ।  
-प्राप्ते काले स धर्मात्मा भक्त्या त्वरितवान् नृपः ॥ ४५ ॥
+[^non-baroDa-CE] आत्मनश्च प्रजानां च श्रेयसे च प्रियेण च ।  
+[^non-baroDa-CE] प्राप्ते काले स धर्मात्मा भक्त्या त्वरितवान् नृपः ॥ ४५ ॥
 _________________
-आत्मनश्च प्रजानां च श्रेयसे च प्रियेण च ।  
+[^non-baroDa-CE] आत्मनश्च प्रजानां च श्रेयसे च प्रियेण च ।  
 प्राप्त काले स धर्मात्मा भक्त्या त्वरितवान् नृपः ॥
 </details>
 
@@ -2483,7 +2483,7 @@ Without summoning the distant kings of Kekaya and Mithilā in his haste, Daśara
 
 <details><summary>मूलम्</summary>
 
-तान् वेश्मनानाभरणैर्यथार्हं प्रतिपूजितान् ।  
+[^non-baroDa-CE] तान् वेश्मनानाभरणैर्यथार्हं प्रतिपूजितान् ।  
 ददर्शालङ्कृतो राजा प्रजापतिरिव प्रजाः ॥ ४७ ॥
 </details>
 
@@ -2529,8 +2529,8 @@ Adorned in royal splendour, the king beheld those guests who had been duly honor
 
 <details><summary>मूलम्</summary>
 
-न तु केकयराजानं जनकं वा नराधिपः ।  
-त्वरया चानयामास पश्चात्तौ श्रोष्यतः प्रियम् ॥ ४८ ॥
+[^non-baroDa-CE] न तु केकयराजानं जनकं वा नराधिपः ।  
+[^non-baroDa-CE] त्वरया चानयामास पश्चात्तौ श्रोष्यतः प्रियम् ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2584,8 +2584,8 @@ In his haste (_tvarayā_), however, the lord of men did not summon the King of K
 
 <details><summary>मूलम्</summary>
 
-अथोपविष्टे नृपतौ तस्मिन् परपुरार्दने ।  
-ततः प्रविविशुः शेषा राजानो लोकसम्मताः ॥ ४९ ॥
+[^non-baroDa-CE] अथोपविष्टे नृपतौ तस्मिन् परपुरार्दने ।  
+[^non-baroDa-CE] ततः प्रविविशुः शेषा राजानो लोकसम्मताः ॥ ४९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2716,3 +2716,5 @@ Then, upon the varied seats assigned to them by the king (_rāja-vitīrṇeṣu 
 Surrounded by those honored and modest kings, as well as by city-dwellers and country-folk (_purālayair jānapadaiś ca mānavaiḥ_) seated near him, the monarch shone forth like the thousand-eyed Lord Indra (_sahasra-cakṣur bhagavān_) encircled by the immortals.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

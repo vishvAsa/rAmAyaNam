@@ -920,7 +920,7 @@ Praising Bharata’s devotion to elders and self-restraint, Bharadvāja explains
 
 <details><summary>मूलम्</summary>
 
-वसिष्ठादिभिर्ऋत्विग्भिर्याचितो भगवांस्ततः ।  
+[^non-baroDa-CE] वसिष्ठादिभिर्ऋत्विग्भिर्याचितो भगवांस्ततः ।  
 उवाच तं भरद्वाजः प्रसादाद् भरतं वचः ॥ १९ ॥
 </details>
 
@@ -1254,3 +1254,4 @@ Thereupon Bharata of noble aspect, renowned in fame, replied, “So be it” (_t
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

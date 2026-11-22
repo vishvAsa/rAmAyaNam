@@ -507,7 +507,7 @@ All three commentators explain _baddhagodhāṅgulitrāṇau_ as wearing archer�
 
 तदा कुशिकपुत्रं तु धनुष्पाणी स्वलङ्कृतौ ।  
 बद्धगोधाङ्गुलित्राणौ खड्गवन्तौ महाद्युती ॥ ९ ॥  
-कुमारौ चारुवपुषौ भ्रातरौ रामलक्ष्मणौ ।  
+[^non-baroDa-CE] कुमारौ चारुवपुषौ भ्रातरौ रामलक्ष्मणौ ।  
 अनुयातौ श्रिया दीप्तौ शोभयेतामनिन्दितौ ॥ १० ॥  
 स्थाणुं देवमिवाचिन्त्यं कुमाराविव पावकी ।
 </details>
@@ -787,7 +787,7 @@ All three commentators explain _mantragrāmam_ as the mantra-body of _Balā_ and
 <details><summary>मूलम्</summary>
 
 त्रिषु लोकेषु वा राम न भवेत् सदृशस्तव ।  
-बलामतिबलां चैव पठतस्तात राघव ॥ १५ ॥
+[^non-baroDa-CE] बलामतिबलां चैव पठतस्तात राघव ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -948,7 +948,7 @@ Viśvāmitra extols Balā and Atibalā as the mind-born daughters of Pitāmaha B
 
 क्षुत्पिपासे न ते राम भविष्येते नरोत्तम ।  
 बलामतिबलां चैव पठतस्तात राघव ॥ १८ ॥  
-गृहाण सर्वलोकस्य गुप्तये रघुनन्दन ।
+[^non-baroDa-CE] गृहाण सर्वलोकस्य गुप्तये रघुनन्दन ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1318,15 +1318,15 @@ Under the locative reading _kuśikātmaje_, all three commentators explain that 
 
 <details><summary>मूलम्</summary>
 
-दशरथनृपसूनुसत्तमाभ्यां  
-तृणशयनेऽनुचिते तदोषिताभ्याम् ।  
+[^non-baroDa-CE] दशरथनृपसूनुसत्तमाभ्यां  
+[^non-baroDa-CE] तृणशयनेऽनुचिते तदोषिताभ्याम् ।  
 कुशिकसुतवचोऽनुलालिताभ्यां  
-सुखमिव सा विबभौ विभावरी च ॥ २४ ॥
+[^non-baroDa-CE] सुखमिव सा विबभौ विभावरी च ॥ २४ ॥
 _________________
-दशरथनृपसूनुसत्तमाभ्यां  
+[^non-baroDa-CE] दशरथनृपसूनुसत्तमाभ्यां  
 तृणशयनेऽनुचिते सदोषिताभ्याम् ।  
 कुशिकसुतवचोऽनुलालिताभ्यां  
-सुखमिव सा विबभौ विभावरी च ॥
+[^non-baroDa-CE] सुखमिव सा विबभौ विभावरी च ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1383,3 +1383,4 @@ Though sleeping on an unaccustomed bed of grass (_tṛṇaśayane ’nucite_), t
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

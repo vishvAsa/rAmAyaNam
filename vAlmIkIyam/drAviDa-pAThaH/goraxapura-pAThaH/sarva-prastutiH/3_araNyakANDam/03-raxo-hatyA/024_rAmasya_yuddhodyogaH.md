@@ -504,8 +504,8 @@ For when men who have marched forth for battle (_udyatānāṃ yuddhārtham_), O
 
 <details><summary>मूलम्</summary>
 
-रक्षसां नर्दतां घोरः श्रूयतेऽयं महाध्वनिः ।  
-आहतानां च भेरीणां राक्षसैः क्रूरकर्मभिः ॥ १० ॥
+[^non-baroDa-CE] रक्षसां नर्दतां घोरः श्रूयतेऽयं महाध्वनिः ।  
+[^non-baroDa-CE] आहतानां च भेरीणां राक्षसैः क्रूरकर्मभिः ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -726,8 +726,8 @@ long. [3-24-13]
 
 <details><summary>मूलम्</summary>
 
-त्वं हि शूरश्च बलवान् हन्या एतान् न संशयः ।  
-स्वयं निहन्तुमिच्छामि सर्वानेव निशाचरान् ॥ १४ ॥
+[^non-baroDa-CE] त्वं हि शूरश्च बलवान् हन्या एतान् न संशयः ।  
+[^non-baroDa-CE] स्वयं निहन्तुमिच्छामि सर्वानेव निशाचरान् ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1066,10 +1066,10 @@ Then the gods along with the _gandharvas_ (_devāḥ sagandharvāḥ_), and the 
 
 <details><summary>मूलम्</summary>
 
-ऋषयश्च महात्मानो लोके ब्रह्मर्षिसत्तमाः ।  
-समेत्य चोचुः सहितास्तेऽन्योन्यं पुण्यकर्मणः ॥ २० ॥  
-स्वस्ति गोब्राह्मणानां च लोकानां चेति संस्थिताः ।  
-जयतां राघवो युद्धे पौलस्त्यान् रजनीचरान् ॥ २१ ॥  
+[^non-baroDa-CE] ऋषयश्च महात्मानो लोके ब्रह्मर्षिसत्तमाः ।  
+[^non-baroDa-CE] समेत्य चोचुः सहितास्तेऽन्योन्यं पुण्यकर्मणः ॥ २० ॥  
+[^non-baroDa-CE] स्वस्ति गोब्राह्मणानां च लोकानां चेति संस्थिताः ।  
+[^non-baroDa-CE] जयतां राघवो युद्धे पौलस्त्यान् रजनीचरान् ॥ २१ ॥  
 चक्रहस्तो यथा युद्धे सर्वानसुरपुङ्गवान् ।
 </details>
 
@@ -1145,7 +1145,7 @@ themselves. [3-24-21]
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा पुनः प्रोचुरालोक्य च परस्परम् ॥ २२ ॥  
+[^non-baroDa-CE] एवमुक्त्वा पुनः प्रोचुरालोक्य च परस्परम् ॥ २२ ॥  
 चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम् ।  
 एकश्च रामो धर्मात्मा कथं युद्धं भविष्यति ॥ २३ ॥
 </details>
@@ -1203,8 +1203,8 @@ Thus the sages discussed among themselves. [3-24-22b, 23]
 
 <details><summary>मूलम्</summary>
 
-इति राजर्षयः सिद्धाः सगणाश्च द्विजर्षभाः ।  
-जातकौतूहलास्तस्थुर्विमानस्थाश्च देवताः ॥ २४ ॥
+[^non-baroDa-CE] इति राजर्षयः सिद्धाः सगणाश्च द्विजर्षभाः ।  
+[^non-baroDa-CE] जातकौतूहलास्तस्थुर्विमानस्थाश्च देवताः ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1373,7 +1373,7 @@ As Rāma stands at the battle-front blazing like wrathful Rudra, the roaring rā
 <details><summary>मूलम्</summary>
 
 आविष्टं तेजसा रामं सङ्ग्रामशिरसि स्थितम् ।  
-दृष्ट्वा सर्वाणि भूतानि भयाद् विव्यथिरे तदा ॥ २५ ॥
+[^non-baroDa-CE] दृष्ट्वा सर्वाणि भूतानि भयाद् विव्यथिरे तदा ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1424,8 +1424,8 @@ Beholding Rāma filled with fiery splendour (_āviṣṭaṃ tejasā_) and stand
 
 <details><summary>मूलम्</summary>
 
-रूपमप्रतिमं तस्य रामस्याक्लिष्टकर्मणः ।  
-बभूव रूपं क्रुद्धस्य रुद्रस्येव महात्मनः ॥ २६ ॥
+[^non-baroDa-CE] रूपमप्रतिमं तस्य रामस्याक्लिष्टकर्मणः ।  
+[^non-baroDa-CE] बभूव रूपं क्रुद्धस्य रुद्रस्येव महात्मनः ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1489,7 +1489,7 @@ The peerless form (_rūpam apratimam_) of that Rāma of unwearying deeds (_akli�
 
 <details><summary>मूलम्</summary>
 
-इति सम्भाष्यमाणे तु देवगन्धर्वचारणैः ।  
+[^non-baroDa-CE] इति सम्भाष्यमाणे तु देवगन्धर्वचारणैः ।  
 ततो गम्भीरनिर्ह्रादं घोरचर्मायुधध्वजम् ॥ २७ ॥  
 अनीकं यातुधानानां समन्तात् प्रत्यपद्यत ।
 </details>
@@ -1901,10 +1901,10 @@ Seeing him filled with fiery energy (_tejasāviṣṭam_), the forest-deities tr
 
 <details><summary>मूलम्</summary>
 
-तत्कार्मुकैराभरणै रथैश्च  
-तद्वर्मभिश्चाग्निसमानवर्णैः ।  
-बभूव सैन्यं पिशिताशनानां  
-सूर्योदये नीलमिवाभ्रजालम् ॥ ३६ ॥
+[^non-baroDa-CE] तत्कार्मुकैराभरणै रथैश्च  
+[^non-baroDa-CE] तद्वर्मभिश्चाग्निसमानवर्णैः ।  
+[^non-baroDa-CE] बभूव सैन्यं पिशिताशनानां  
+[^non-baroDa-CE] सूर्योदये नीलमिवाभ्रजालम् ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1969,3 +1969,4 @@ With its bows, ornaments, and chariots (_tat-kārmukair ābharaṇai rathaiś ca
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

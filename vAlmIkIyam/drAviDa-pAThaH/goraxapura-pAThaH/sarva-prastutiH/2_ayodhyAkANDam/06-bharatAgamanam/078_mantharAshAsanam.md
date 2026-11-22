@@ -312,7 +312,7 @@ While Śatrughna, the younger brother of Lakṣmaṇa, was speaking thus (_iti s
 <details><summary>मूलम्</summary>
 
 लिप्ता चन्दनसारेण राजवस्त्राणि बिभ्रती ।  
-विविधं विविधैस्तैस्तैर्भूषणैश्च विभूषिता ॥ ६ ॥
+[^non-baroDa-CE] विविधं विविधैस्तैस्तैर्भूषणैश्च विभूषिता ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -366,7 +366,7 @@ Looking like a she-monkey tied up with ropes in her gaudy girdles, Mantharā is 
 <details><summary>मूलम्</summary>
 
 मेखलादामभिश्चित्रैरन्यैश्च वरभूषणैः ।  
-बभासे बहुभिर्बद्धा रज्जुबद्धेव वानरी ॥ ७ ॥
+[^non-baroDa-CE] बभासे बहुभिर्बद्धा रज्जुबद्धेव वानरी ॥ ७ ॥
 _________________
 मेखलादामभिश्चित्रैरन्यैश्च वरभूषणैः ।  
 बभासे बहुभिर्बद्धा रज्जुभिरिव वानरी ॥
@@ -1471,3 +1471,4 @@ Beholding the hunchback with her senses stupefied by Śatrughna’s violent hurl
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

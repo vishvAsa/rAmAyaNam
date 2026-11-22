@@ -206,7 +206,7 @@ Unmoved by the rākṣasa barrage, Viṣṇu draws his Śārṅga bow to mow dow
 <details><summary>मूलम्</summary>
 
 निशाचरैस्ताड्यमानो मीनैरिव महोदधिः ।  
-शार्ङ्गमायम्य दुर्धर्षो राक्षसेभ्योऽसृजच्छरान् ॥ ७ ॥
+[^non-baroDa-CE] शार्ङ्गमायम्य दुर्धर्षो राक्षसेभ्योऽसृजच्छरान् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -696,8 +696,8 @@ The roar of the king of conches (_śaṅkha-rāja-ravaḥ_), the twang of the Ś
 
 <details><summary>मूलम्</summary>
 
-तेषां शिरोधरान् धूताञ्छरध्वजधनूंषि च ।  
-रथान् पताकास्तूणीरांश्चिच्छेद स हरिः शरैः ॥ १७ ॥
+[^non-baroDa-CE] तेषां शिरोधरान् धूताञ्छरध्वजधनूंषि च ।  
+[^non-baroDa-CE] रथान् पताकास्तूणीरांश्चिच्छेद स हरिः शरैः ॥ १७ ॥
 _________________
 तेषां शिरोधरान् धूतान् शरध्वज धनूंषि च ।  
 रथान् पाताकास्तूणीरांश्चिच्छेद स हरिः शरैः ॥
@@ -924,8 +924,8 @@ When the rākṣasa host was shattered (_prabhagne rākṣasa-bale_) and battere
 
 <details><summary>मूलम्</summary>
 
-स तु तं छादयामास नीहार इव भास्करम् ।  
-राक्षसाः सत्त्वसम्पन्नाः पुनर्धैर्यं समादधुः ॥ २६ ॥
+[^non-baroDa-CE] स तु तं छादयामास नीहार इव भास्करम् ।  
+[^non-baroDa-CE] राक्षसाः सत्त्वसम्पन्नाः पुनर्धैर्यं समादधुः ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -955,8 +955,8 @@ He shrouded him from view (_chādayām āsa_) as mist shrouds the blazing sun (_
 
 <details><summary>मूलम्</summary>
 
-अथ सोऽभ्यपतद् रोषाद् राक्षसो बलदर्पितः ।  
-महानादं प्रकुर्वाणो राक्षसाञ्जीवयन्निव ॥ २७ ॥
+[^non-baroDa-CE] अथ सोऽभ्यपतद् रोषाद् राक्षसो बलदर्पितः ।  
+[^non-baroDa-CE] महानादं प्रकुर्वाणो राक्षसाञ्जीवयन्निव ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1088,8 +1088,8 @@ As Sumālī's chariot bolts away, Mālī charges Viṣṇu with gold-decked arro
 
 <details><summary>मूलम्</summary>
 
-ततो विष्णुं महाबाहुं प्रपतन्तं रणाजिरे ।  
-हृते सुमालेरश्वैश्च रथे विष्णुरथं प्रति ॥ ३१ ॥  
+[^non-baroDa-CE] ततो विष्णुं महाबाहुं प्रपतन्तं रणाजिरे ।  
+[^non-baroDa-CE] हृते सुमालेरश्वैश्च रथे विष्णुरथं प्रति ॥ ३१ ॥  
 माली चाभ्यद्रवद् युक्तः प्रगृह्य सशरं धनुः ।
 </details>
 
@@ -1415,7 +1415,7 @@ When Lord Viṣṇu was thus turned away by Garuḍa on account of Mālī (_par�
 <details><summary>मूलम्</summary>
 
 रक्षसां रुवतां रावं श्रुत्वा हरिहयानुजः ॥ ४१ ॥  
-तिर्यगास्थाय सङ्क्रुद्धः पक्षीशे भगवान् हरिः ।  
+[^non-baroDa-CE] तिर्यगास्थाय सङ्क्रुद्धः पक्षीशे भगवान् हरिः ।  
 पराङ्मुखोऽप्युत्ससर्ज मालेश्चक्रं जिघांसया ॥ ४२ ॥
 </details>
 
@@ -1889,3 +1889,4 @@ With those night-rovers resembling dark blue clouds (_nīla-balāhakopamaiḥ_),
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

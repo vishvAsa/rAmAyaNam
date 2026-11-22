@@ -176,10 +176,10 @@ richly adorned (_samalaṃkṛtām_) with precious pennants (_patākābhir varā
 
 <details><summary>मूलम्</summary>
 
-माल्यमोदकहस्तैश्च द्विजेन्द्रैरभिनादिताम् ।  
-शुक्लदेवगृहद्वारां सर्ववादित्रनादिताम् ॥ ४ ॥  
-सम्प्रहृष्टजनाकीर्णां ब्रह्मघोषनिनादिताम् ।  
-प्रहृष्टवरहस्त्यश्वां सम्प्रणर्दितगोवृषाम् ॥ ५ ॥
+[^non-baroDa-CE] माल्यमोदकहस्तैश्च द्विजेन्द्रैरभिनादिताम् ।  
+[^non-baroDa-CE] शुक्लदेवगृहद्वारां सर्ववादित्रनादिताम् ॥ ४ ॥  
+[^non-baroDa-CE] सम्प्रहृष्टजनाकीर्णां ब्रह्मघोषनिनादिताम् ।  
+[^non-baroDa-CE] प्रहृष्टवरहस्त्यश्वां सम्प्रणर्दितगोवृषाम् ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -211,11 +211,11 @@ richly adorned (_samalaṃkṛtām_) with precious pennants (_patākābhir varā
 
 <details><summary>मूलम्</summary>
 
-हृष्टप्रमुदितैः पौरैरुच्छ्रितध्वजमालिनीम् ।  
-अयोध्यां मन्थरा दृष्ट्वा परं विस्मयमागता ॥ ६ ॥
+[^non-baroDa-CE] हृष्टप्रमुदितैः पौरैरुच्छ्रितध्वजमालिनीम् ।  
+[^non-baroDa-CE] अयोध्यां मन्थरा दृष्ट्वा परं विस्मयमागता ॥ ६ ॥
 _________________
 प्रहृष्टमुदितैः पौरैरुच्छ्रितध्वजमालिनीम् ।  
-अयोध्यां मन्थरा दृष्ट्वापरं विस्मयमागता ॥
+[^non-baroDa-CE] अयोध्यां मन्थरा दृष्ट्वापरं विस्मयमागता ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -282,7 +282,7 @@ Mantharā questions Rāma’s joyful nurse about Kausalyā’s munificence and t
 
 <details><summary>मूलम्</summary>
 
-सा हर्षोत्फुल्लनयनां पाण्डुरक्षौमवासिनीम् ।  
+[^non-baroDa-CE] सा हर्षोत्फुल्लनयनां पाण्डुरक्षौमवासिनीम् ।  
 अविदूरे स्थितां दृष्ट्वा धात्रीं पप्रच्छ मन्थरा ॥ ७ ॥
 </details>
 
@@ -1571,7 +1571,7 @@ Radiant with joy at the news of Rāma’s impending consecration, Kaikeyī rises
 <details><summary>मूलम्</summary>
 
 मन्थराया वचः श्रुत्वा शयनात् सा शुभानना ।  
-उत्तस्थौ हर्षसम्पूर्णा चन्द्रलेखेव शारदी ॥ ३१ ॥
+[^non-baroDa-CE] उत्तस्थौ हर्षसम्पूर्णा चन्द्रलेखेव शारदी ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1858,3 +1858,4 @@ O you who are worthy of every favor (_priyārhe_), there is no other speech swee
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

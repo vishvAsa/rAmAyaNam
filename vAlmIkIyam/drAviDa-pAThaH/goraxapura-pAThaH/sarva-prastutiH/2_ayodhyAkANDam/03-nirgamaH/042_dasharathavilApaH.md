@@ -191,7 +191,7 @@ When, however, the lord of the earth could no longer see even the dust of Rāma�
 <details><summary>मूलम्</summary>
 
 तस्य दक्षिणमन्वागात् कौसल्या बाहुमङ्गना ।  
-परं चास्यान्वगात् पार्श्वं कैकेयी सा सुमध्यमा ॥ ४ ॥
+[^non-baroDa-CE] परं चास्यान्वगात् पार्श्वं कैकेयी सा सुमध्यमा ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -294,7 +294,7 @@ Beholding Kaikeyī, the king—endowed with policy (_nayena_), righteousness (_d
 
 <details><summary>मूलम्</summary>
 
-कैकेयि मामकाङ्गानि मा स्प्राक्षीः पापनिश्चये ।  
+[^non-baroDa-CE] कैकेयि मामकाङ्गानि मा स्प्राक्षीः पापनिश्चये ।  
 नहि त्वां द्रष्टुमिच्छामि न भार्या न च बान्धवी ॥ ६ ॥
 </details>
 
@@ -806,8 +806,8 @@ way. But he the great souled one is not being seen"
 
 <details><summary>मूलम्</summary>
 
-यः सुखेनोपधानेषु शेते चन्दनरूषितः ।  
-वीज्यमानो महार्हाभिः स्त्रीभिर्मम सुतोत्तमः ॥ १५ ॥  
+[^non-baroDa-CE] यः सुखेनोपधानेषु शेते चन्दनरूषितः ।  
+[^non-baroDa-CE] वीज्यमानो महार्हाभिः स्त्रीभिर्मम सुतोत्तमः ॥ १५ ॥  
 स नूनं क्वचिदेवाद्य वृक्षमूलमुपाश्रितः ।  
 काष्ठं वा यदि वाश्मानमुपधाय शयिष्यते ॥ १६ ॥
 </details>
@@ -982,10 +982,10 @@ Lamenting Sītā’s plight in the thorny wilds and bidding Kaikeyī rule as a w
 
 <details><summary>मूलम्</summary>
 
-सा नूनं जनकस्येष्टा सुता सुखसदोचिता ।  
-कण्टकाक्रमणक्लान्ता वनमद्य गमिष्यति ॥ १९ ॥
+[^non-baroDa-CE] सा नूनं जनकस्येष्टा सुता सुखसदोचिता ।  
+[^non-baroDa-CE] कण्टकाक्रमणक्लान्ता वनमद्य गमिष्यति ॥ १९ ॥
 _________________
-सा नूनं जनकस्येष्टा सुता सुखसदोचिता ।  
+[^non-baroDa-CE] सा नूनं जनकस्येष्टा सुता सुखसदोचिता ।  
 कण्टकाक्रमणाक्लान्ता वनमद्यगमिष्यति ॥
 </details>
 
@@ -1038,11 +1038,11 @@ exhausted in the forest through the thorny undergrowth "
 
 <details><summary>मूलम्</summary>
 
-अनभिज्ञा वनानां सा नूनं भयमुपैष्यति ।  
-श्वपदानर्दितं श्रुत्वा गम्भीरं रोमहर्षणम् ॥ २० ॥
+[^non-baroDa-CE] अनभिज्ञा वनानां सा नूनं भयमुपैष्यति ।  
+[^non-baroDa-CE] श्वपदानर्दितं श्रुत्वा गम्भीरं रोमहर्षणम् ॥ २० ॥
 _________________
 अनभिज्ञा वानानां सा नूनं भयमुपैष्यति ।  
-श्वपदानर्दितं श्रुत्वा गम्भीरं रोमहर्षणम् ॥
+[^non-baroDa-CE] श्वपदानर्दितं श्रुत्वा गम्भीरं रोमहर्षणम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1351,8 +1351,8 @@ Bereft of Rāma, of Vaidehī, and of Lakṣmaṇa (_rāmeṇa rahitam veśma vai
 
 <details><summary>मूलम्</summary>
 
-अथ गद्‍गदशब्दस्तु विलपन् वसुधाधिपः ।  
-उवाच मृदु मन्दार्थं वचनं दीनमस्वरम् ॥ २६ ॥
+[^non-baroDa-CE] अथ गद्‍गदशब्दस्तु विलपन् वसुधाधिपः ।  
+[^non-baroDa-CE] उवाच मृदु मन्दार्थं वचनं दीनमस्वरम् ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1404,7 +1404,7 @@ Then the lord of the earth, lamenting with a voice choked with sobs (_gadgada-ś
 <details><summary>मूलम्</summary>
 
 कौसल्याया गृहं शीघ्रं राममातुर्नयन्तु माम् ।  
-नह्यन्यत्र ममाश्वासो हृदयस्य भविष्यति ॥ २७ ॥
+[^non-baroDa-CE] नह्यन्यत्र ममाश्वासो हृदयस्य भविष्यति ॥ २७ ॥
 _________________
 कौसल्याया गृहं शीघ्रं राममातुर्नयन्तु माम् ।  
 नह्यन्यत्र समाश्वासो हृदयस्य भविष्यति ॥
@@ -1458,7 +1458,7 @@ there he was gently laid (on a coach).
 <details><summary>मूलम्</summary>
 
 इति ब्रुवन्तं राजानमनयन् द्वारदर्शिनः ।  
-कौसल्याया गृहं तत्र न्यवेस्यत विनीतवत् ॥ २८ ॥
+[^non-baroDa-CE] कौसल्याया गृहं तत्र न्यवेस्यत विनीतवत् ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1562,8 +1562,8 @@ Then, even after he had entered Kausalyā’s abode and mounted the couch (_adhi
 
 <details><summary>मूलम्</summary>
 
-पुत्रद्वयविहीनं च स्नुषया च विवर्जितम् ।  
-अपश्यद् भवनं राजा नष्टचन्द्रमिवाम्बरम् ॥ ३० ॥
+[^non-baroDa-CE] पुत्रद्वयविहीनं च स्नुषया च विवर्जितम् ।  
+[^non-baroDa-CE] अपश्यद् भवनं राजा नष्टचन्द्रमिवाम्बरम् ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1698,8 +1698,8 @@ Dasaratha spoke these words to Kausalya when the midnight struck :
 
 <details><summary>मूलम्</summary>
 
-अथ रात्र्यां प्रपन्नायां कालरात्र्यामिवात्मनः ।  
-अर्धरात्रे दशरथः कौसल्यामिदमब्रवीत् ॥ ३३ ॥
+[^non-baroDa-CE] अथ रात्र्यां प्रपन्नायां कालरात्र्यामिवात्मनः ।  
+[^non-baroDa-CE] अर्धरात्रे दशरथः कौसल्यामिदमब्रवीत् ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1840,3 +1840,4 @@ Beholding that lord of men upon the couch brooding solely upon Rāma (_tam rāma
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

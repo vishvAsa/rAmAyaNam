@@ -1046,8 +1046,8 @@ After a thousand years of churning, Vāsuki’s fangs bite the rocks of Mandara 
 
 <details><summary>मूलम्</summary>
 
-अथ वर्षसहस्रेण योक्त्रसर्पशिरांसि च ।  
-वमन्तोऽतिविषं तत्र ददंशुर्दशनैः शिलाः ॥ १९ ॥
+[^non-baroDa-CE] अथ वर्षसहस्रेण योक्त्रसर्पशिरांसि च ।  
+[^non-baroDa-CE] वमन्तोऽतिविषं तत्र ददंशुर्दशनैः शिलाः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1111,7 +1111,7 @@ At the close of this sarga, **Rāma Varmā (_Tilaka_)** records a crucial philol
 <details><summary>मूलम्</summary>
 
 उत्पपाताग्निसङ्काशं हालाहलमहाविषम् ।  
-तेन दग्धं जगत् सर्वं सदेवासुरमानुषम् ॥ २० ॥
+[^non-baroDa-CE] तेन दग्धं जगत् सर्वं सदेवासुरमानुषम् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1157,8 +1157,8 @@ therefrom, by which whole universe of gods, non-gods and humans is burnt down. [
 
 <details><summary>मूलम्</summary>
 
-अथ देवा महादेवं शङ्करं शरणार्थिनः ।  
-जग्मुः पशुपतिं रुद्रं त्राहि त्राहीति तुष्टुवुः ॥ २१ ॥
+[^non-baroDa-CE] अथ देवा महादेवं शङ्करं शरणार्थिनः ।  
+[^non-baroDa-CE] जग्मुः पशुपतिं रुद्रं त्राहि त्राहीति तुष्टुवुः ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1213,8 +1213,8 @@ and they prayed to him saying 'save, save us.' [1-45-21]
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्ततो देवैर्देवदेवेश्वरः प्रभुः ।  
-प्रादुरासीत् ततोऽत्रैव शङ्खचक्रधरो हरिः ॥ २२ ॥
+[^non-baroDa-CE] एवमुक्तस्ततो देवैर्देवदेवेश्वरः प्रभुः ।  
+[^non-baroDa-CE] प्रादुरासीत् ततोऽत्रैव शङ्खचक्रधरो हरिः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1263,10 +1263,10 @@ handling his disc and conch-shell Vishnu has also revealed himself at that place
 
 <details><summary>मूलम्</summary>
 
-उवाचैनं स्मितं कृत्वा रुद्रं शूलधरं हरिः ।  
-दैवतैर्मथ्यमाने तु यत्पूर्वं समुपस्थितम् ॥ २३ ॥  
-तत् त्वदीयं सुरश्रेष्ठ सुराणामग्रतो हि यत् ।  
-अग्रपूजामिह स्थित्वा गृहाणेदं विषं प्रभो ॥ २४ ॥
+[^non-baroDa-CE] उवाचैनं स्मितं कृत्वा रुद्रं शूलधरं हरिः ।  
+[^non-baroDa-CE] दैवतैर्मथ्यमाने तु यत्पूर्वं समुपस्थितम् ॥ २३ ॥  
+[^non-baroDa-CE] तत् त्वदीयं सुरश्रेष्ठ सुराणामग्रतो हि यत् ।  
+[^non-baroDa-CE] अग्रपूजामिह स्थित्वा गृहाणेदं विषं प्रभो ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1350,15 +1350,15 @@ Beholding the terror of the gods and hearing Viṣṇu’s words, Lord Hara swal
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा च सुरश्रेष्ठस्तत्रैवान्तरधीयत ।  
-देवतानां भयं दृष्ट्वा श्रुत्वा वाक्यं तु शार्ङ्गिणः ॥ २५ ॥  
+[^non-baroDa-CE] इत्युक्त्वा च सुरश्रेष्ठस्तत्रैवान्तरधीयत ।  
+[^non-baroDa-CE] देवतानां भयं दृष्ट्वा श्रुत्वा वाक्यं तु शार्ङ्गिणः ॥ २५ ॥  
 हालाहलं विषं घोरं सञ्जग्राहामृतोपमम् ।  
-देवान् विसृज्य देवेशो जगाम भगवान् हरः ॥ २६ ॥
+[^non-baroDa-CE] देवान् विसृज्य देवेशो जगाम भगवान् हरः ॥ २६ ॥
 _________________
-इत्युक्त्वा च सुरश्रेष्ठस्तत्रैवान्तरधीयत ।  
+[^non-baroDa-CE] इत्युक्त्वा च सुरश्रेष्ठस्तत्रैवान्तरधीयत ।  
 देवतानां भयं दृष्ट्वा श्रुत्वा वाक्यं च शार्ङ्गॆणः ॥
 हालाहलं विषं घोरं सञ्जग्राहामृतोपमम् ।  
-देवान्विसृज्य देवेशो जगाम भगवान् हरः ॥
+[^non-baroDa-CE] देवान्विसृज्य देवेशो जगाम भगवान् हरः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1434,8 +1434,8 @@ Both **Tilaka** and **Śiromaṇi** identify _suraśreṣṭhaḥ_ in v. 25a as 
 
 <details><summary>मूलम्</summary>
 
-ततो देवासुराः सर्वे ममन्थू रघुनन्दन ।  
-प्रविवेशाथ पातालं मन्थानः पर्वतोत्तमः ॥ २७ ॥
+[^non-baroDa-CE] ततो देवासुराः सर्वे ममन्थू रघुनन्दन ।  
+[^non-baroDa-CE] प्रविवेशाथ पातालं मन्थानः पर्वतोत्तमः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1496,9 +1496,9 @@ As the gods and asuras churn again without support beneath the mountain, Mount M
 
 <details><summary>मूलम्</summary>
 
-ततो देवाः सगन्धर्वास्तुष्टुवुर्मधुसूदनम् ।  
-त्वं गतिः सर्वभूतानां विशेषेण दिवौकसाम् ॥ २८ ॥  
-पालयास्मान् महाबाहो गिरिमुद्धर्तुमर्हसि ।
+[^non-baroDa-CE] ततो देवाः सगन्धर्वास्तुष्टुवुर्मधुसूदनम् ।  
+[^non-baroDa-CE] त्वं गतिः सर्वभूतानां विशेषेण दिवौकसाम् ॥ २८ ॥  
+[^non-baroDa-CE] पालयास्मान् महाबाहो गिरिमुद्धर्तुमर्हसि ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1544,7 +1544,7 @@ mountain.' So prayed gods to Vishnu. [1-45-28b, 29a]
 
 <details><summary>मूलम्</summary>
 
-इति श्रुत्वा हृषीकेशः कामठं रूपमास्थितः ॥ २९ ॥  
+[^non-baroDa-CE] इति श्रुत्वा हृषीकेशः कामठं रूपमास्थितः ॥ २९ ॥  
 पर्वतं पृष्ठतः कृत्वा शिश्ये तत्रोदधौ हरिः ।
 _________________
 इति श्रुत्वा हृषीकेशः कामठं पूरमास्थितः ॥  
@@ -1605,8 +1605,8 @@ Assuming the form of a cosmic Tortoise (_kāmaṭhaṃ kācchapam_, **Tilaka**),
 
 <details><summary>मूलम्</summary>
 
-पर्वताग्रं तु लोकात्मा हस्तेनाक्रम्य केशवः ॥ ३० ॥  
-देवानां मध्यतः स्थित्वा ममन्थ पुरुषोत्तमः ।
+[^non-baroDa-CE] पर्वताग्रं तु लोकात्मा हस्तेनाक्रम्य केशवः ॥ ३० ॥  
+[^non-baroDa-CE] देवानां मध्यतः स्थित्वा ममन्थ पुरुषोत्तमः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1662,12 +1662,12 @@ With Puruṣottama Himself churning in the midst of the gods, after a thousand y
 
 <details><summary>मूलम्</summary>
 
-अथ वर्षसहस्रेण आयुर्वेदमयः पुमान् ॥ ३१ ॥  
-उदतिष्ठत् सुधर्मात्मा सदण्डः सकमण्डलुः ।  
+[^non-baroDa-CE] अथ वर्षसहस्रेण आयुर्वेदमयः पुमान् ॥ ३१ ॥  
+[^non-baroDa-CE] उदतिष्ठत् सुधर्मात्मा सदण्डः सकमण्डलुः ।  
 पूर्वं धन्वन्तरिर्नाम अप्सराश्च सुवर्चसः ॥ ३२ ॥
 _________________
-अथ वर्ष सहस्रेण आयुर्वेदमयः पुमान् ॥
-उदतिष्ठत्सुधर्मात्मा सदण्डः सकमण्डलुः ।  
+[^non-baroDa-CE] अथ वर्ष सहस्रेण आयुर्वेदमयः पुमान् ॥
+[^non-baroDa-CE] उदतिष्ठत्सुधर्मात्मा सदण्डः सकमण्डलुः ।  
 पूर्वं धन्वन्तरीर्नाम अप्सराश्च सुवर्चसः ॥
 </details>
 
@@ -2196,8 +2196,8 @@ When the Asuras unite with the Rākṣasas in a world-bewildering war, Lord Vi�
 
 <details><summary>मूलम्</summary>
 
-एकतामगमन् सर्वे असुरा राक्षसैः सह ।  
-युद्धमासीन्महाघोरं वीर त्रैलोक्यमोहनम् ॥ ४१ ॥
+[^non-baroDa-CE] एकतामगमन् सर्वे असुरा राक्षसैः सह ।  
+[^non-baroDa-CE] युद्धमासीन्महाघोरं वीर त्रैलोक्यमोहनम् ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2251,8 +2251,8 @@ Depleted by the initial clash (_kulakṣayaḥ_, v. 40), the Asuras ally with th
 
 <details><summary>मूलम्</summary>
 
-यदा क्षयं गतं सर्वं तदा विष्णुर्महाबलः ।  
-अमृतं सोऽहरत् तूर्णं मायामास्थाय मोहिनीम् ॥ ४२ ॥
+[^non-baroDa-CE] यदा क्षयं गतं सर्वं तदा विष्णुर्महाबलः ।  
+[^non-baroDa-CE] अमृतं सोऽहरत् तूर्णं मायामास्थाय मोहिनीम् ॥ ४२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2313,8 +2313,8 @@ recognising this as Vishnu's Maya, illusory power.
 
 <details><summary>मूलम्</summary>
 
-ये गताभिमुखं विष्णुमक्षरं पुरुषोत्तमम् ।  
-सम्पिष्टास्ते तदा युद्धे विष्णुना प्रभविष्णुना ॥ ४३ ॥
+[^non-baroDa-CE] ये गताभिमुखं विष्णुमक्षरं पुरुषोत्तमम् ।  
+[^non-baroDa-CE] सम्पिष्टास्ते तदा युद्धे विष्णुना प्रभविष्णुना ॥ ४३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2481,3 +2481,4 @@ city and its emergence. [1-45-45]
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

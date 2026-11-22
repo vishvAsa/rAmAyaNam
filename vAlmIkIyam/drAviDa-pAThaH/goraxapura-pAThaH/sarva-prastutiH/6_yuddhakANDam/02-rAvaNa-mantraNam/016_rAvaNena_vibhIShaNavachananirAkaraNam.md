@@ -577,8 +577,8 @@ that I obtained riches and that I am sitting tight in the heads of enemies".
 
 <details><summary>मूलम्</summary>
 
-यथा पुष्करपत्रेषु पतितास्तोयबिन्दवः ।  
-न श्लेषमभिगच्छन्ति तथानार्येषु सौहृदम् ॥ ११ ॥
+[^non-baroDa-CE] यथा पुष्करपत्रेषु पतितास्तोयबिन्दवः ।  
+[^non-baroDa-CE] न श्लेषमभिगच्छन्ति तथानार्येषु सौहृदम् ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -629,7 +629,7 @@ a friendship does not cling to vulgar ones."
 
 <details><summary>मूलम्</summary>
 
-यथा शरदि मेघानां सिञ्चतामपि गर्जताम् ।  
+[^non-baroDa-CE] यथा शरदि मेघानां सिञ्चतामपि गर्जताम् ।  
 न भवत्यम्बुसङ्क्लेदस्तथानार्येषु सौहृदम् ॥ १२ ॥
 </details>
 
@@ -689,8 +689,8 @@ Likening friendship with the base to a bee on kāśa-blossoms and an elephant's 
 
 <details><summary>मूलम्</summary>
 
-यथा मधुकरस्तर्षाद् रसं विन्दन्न तिष्ठति ।  
-तथा त्वमपि तत्रैव तथानार्येषु सौहृदम् ॥ १३ ॥
+[^non-baroDa-CE] यथा मधुकरस्तर्षाद् रसं विन्दन्न तिष्ठति ।  
+[^non-baroDa-CE] तथा त्वमपि तत्रैव तथानार्येषु सौहृदम् ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -743,8 +743,8 @@ stick on to vulgar people."
 
 <details><summary>मूलम्</summary>
 
-यथा मधुकरस्तर्षात् काशपुष्पं पिबन्नपि ।  
-रसमत्र न विन्देत तथानार्येषु सौहृदम् ॥ १४ ॥
+[^non-baroDa-CE] यथा मधुकरस्तर्षात् काशपुष्पं पिबन्नपि ।  
+[^non-baroDa-CE] रसमत्र न विन्देत तथानार्येषु सौहृदम् ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -795,8 +795,8 @@ get it, so also friendship cannot be extracted from vulgar persons."
 
 <details><summary>मूलम्</summary>
 
-यथा पूर्वं गजः स्नात्वा गृह्य हस्तेन वै रजः ।  
-दूषयत्यात्मनो देहं तथानार्येषु सौहृदम् ॥ १५ ॥
+[^non-baroDa-CE] यथा पूर्वं गजः स्नात्वा गृह्य हस्तेन वै रजः ।  
+[^non-baroDa-CE] दूषयत्यात्मनो देहं तथानार्येषु सौहृदम् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1101,7 +1101,7 @@ Stationed in mid-air (_antarikṣagataḥ_), the glorious (_śrīmān_) brother 
 <details><summary>मूलम्</summary>
 
 स त्वं भ्रान्तोऽसि मे राजन् ब्रूहि मां यद् यदिच्छसि ।  
-ज्येष्ठो मान्यः पितृसमो न च धर्मपथे स्थितः ।  
+[^non-baroDa-CE] ज्येष्ठो मान्यः पितृसमो न च धर्मपथे स्थितः ।  
 इदं हि परुषं वाक्यं न क्षमाम्यग्रजस्य ते ॥ १९ ॥
 </details>
 
@@ -1436,7 +1436,7 @@ setuvaH yathaa = like a dam constructed with sand."
 
 <details><summary>मूलम्</summary>
 
-तन्मर्षयतु यच्चोक्तं गुरुत्वाद्धितमिच्छता ।  
+[^non-baroDa-CE] तन्मर्षयतु यच्चोक्तं गुरुत्वाद्धितमिच्छता ।  
 आत्मानं सर्वथा रक्ष पुरीं चेमां सराक्षसाम् ।  
 स्वस्ति तेऽस्तु गमिष्यामि सुखी भव मया विना ॥ २५ ॥
 </details>
@@ -1523,3 +1523,4 @@ Be a happy person without me."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

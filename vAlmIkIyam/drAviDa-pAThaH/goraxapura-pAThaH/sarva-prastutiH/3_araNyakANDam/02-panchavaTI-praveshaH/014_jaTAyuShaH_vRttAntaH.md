@@ -1846,7 +1846,7 @@ Sampati too, hence know me as Jatayu, the son of Shyenii. [3-14-33]
 <details><summary>मूलम्</summary>
 
 सोऽहं वाससहायस्ते भविष्यामि यदीच्छसि ।  
-इदं दुर्गं हि कान्तारं मृगराक्षससेवितम् ।  
+[^non-baroDa-CE] इदं दुर्गं हि कान्तारं मृगराक्षससेवितम् ।  
 सीतां च तात रक्षिष्ये त्वयि याते सलक्ष्मणे ॥ ३४ ॥
 </details>
 
@@ -2028,3 +2028,5 @@ mighty bird and Lakshmana, as though to incinerate enemies, like fire that burns
 Having entrusted Sītā Maithilī (_sa tatra sītāṃ paridāya maithilīm_) to him there, together with that bird of exceeding might (_sahaiva tenātibalena pakṣiṇā_) and accompanied by Lakṣmaṇa, he proceeded to that Pañcavaṭī, eager to consume his foes as fire consumes moths (_ripūn didhakṣan śalabhān ivānalaḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

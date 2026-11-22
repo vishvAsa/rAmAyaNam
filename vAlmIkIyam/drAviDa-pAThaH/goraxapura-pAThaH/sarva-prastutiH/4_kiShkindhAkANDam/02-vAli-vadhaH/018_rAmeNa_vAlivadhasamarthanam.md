@@ -1184,7 +1184,7 @@ Indeed, O leader of monkey troops (_hariyūthapa_), for one who opposes the worl
 
 <details><summary>मूलम्</summary>
 
-न च ते मर्षये पापं क्षत्रियोऽहं कुलोद‍्गतः ।  
+[^non-baroDa-CE] न च ते मर्षये पापं क्षत्रियोऽहं कुलोद‍्गतः ।  
 औरसीं भगिनीं वापि भार्यां वाप्यनुजस्य यः ॥ २२ ॥  
 प्रचरेत नरः कामात् तस्य दण्डो वधः स्मृतः ।
 </details>
@@ -1618,9 +1618,9 @@ By every reckoning (_sarvathā_), your chastisement must be viewed as righteousn
 
 <details><summary>मूलम्</summary>
 
-शक्यं त्वयापि तत्कार्यं धर्ममेवानुवर्तता ।  
-श्रूयते मनुना गीतौ श्लोकौ चारित्रवत्सलौ ।  
-गृहीतौ धर्मकुशलैस्तथा तच्चरितं मया ॥ ३० ॥
+[^non-baroDa-CE] शक्यं त्वयापि तत्कार्यं धर्ममेवानुवर्तता ।  
+[^non-baroDa-CE] श्रूयते मनुना गीतौ श्लोकौ चारित्रवत्सलौ ।  
+[^non-baroDa-CE] गृहीतौ धर्मकुशलैस्तथा तच्चरितं मया ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1689,8 +1689,8 @@ Quoting Manu's verses that royal punishment purifies sinners of guilt and citing
 
 राजभिर्धृतदण्डाश्च कृत्वा पापानि मानवाः ।  
 निर्मलाः स्वर्गमायान्ति सन्तः सुकृतिनो यथा ॥ ३१ ॥  
-शासनाद् वापि मोक्षाद् वा स्तेनः पापात् प्रमुच्यते ।  
-राजा त्वशासन् पापस्य तदवाप्नोति किल्बिषम् ॥ ३२ ॥
+[^non-baroDa-CE] शासनाद् वापि मोक्षाद् वा स्तेनः पापात् प्रमुच्यते ।  
+[^non-baroDa-CE] राजा त्वशासन् पापस्य तदवाप्नोति किल्बिषम् ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1963,7 +1963,7 @@ Therefore, enough of this anguish (_tad alaṃ paritāpena_)! Your execution has
 <details><summary>मूलम्</summary>
 
 शृणु चाप्यपरं भूयः कारणं हरिपुङ्गव ।  
-तच्छ्रुत्वा हि महद् वीर न मन्युं कर्तुमर्हसि ॥ ३६ ॥
+[^non-baroDa-CE] तच्छ्रुत्वा हि महद् वीर न मन्युं कर्तुमर्हसि ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2412,7 +2412,7 @@ there is no unrighteous deed done by Rama. And Vali also accepts this in the com
 <details><summary>मूलम्</summary>
 
 एवमुक्तस्तु रामेण वाली प्रव्यथितो भृशम् ।  
-न दोषं राघवे दध्यौ धर्मेऽधिगतनिश्चयः ॥ ४४ ॥
+[^non-baroDa-CE] न दोषं राघवे दध्यौ धर्मेऽधिगतनिश्चयः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2838,8 +2838,8 @@ Cherished tenderly since childhood (_bālyāt prabhṛti lālitaḥ_), he, growi
 
 <details><summary>मूलम्</summary>
 
-बालश्चाकृतबुद्धिश्च एकपुत्रश्च मे प्रियः ।  
-तारेयो राम भवता रक्षणीयो महाबलः ॥ ५२ ॥
+[^non-baroDa-CE] बालश्चाकृतबुद्धिश्च एकपुत्रश्च मे प्रियः ।  
+[^non-baroDa-CE] तारेयो राम भवता रक्षणीयो महाबलः ॥ ५२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3060,7 +3060,7 @@ his rival. [4-18-55]
 
 त्वया ह्यनुगृहीतेन शक्यं राज्यमुपासितुम् ।  
 त्वद्वशे वर्तमानेन तव चित्तानुवर्तिना ॥ ५६ ॥  
-शक्यं दिवं चार्जयितुं वसुधां चापि शासितुम् ।
+[^non-baroDa-CE] शक्यं दिवं चार्जयितुं वसुधां चापि शासितुम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3115,7 +3115,7 @@ Indeed, by one who is favoured by you (_tvayā hy anugṛhītena_), who abides u
 <details><summary>मूलम्</summary>
 
 त्वत्तोऽहं वधमाकाङ्क्षन् वार्यमाणोऽपि तारया ॥ ५७ ॥  
-सुग्रीवेण सह भ्रात्रा द्वन्द्वयुद्धमुपागतः ।
+[^non-baroDa-CE] सुग्रीवेण सह भ्रात्रा द्वन्द्वयुद्धमुपागतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3149,9 +3149,9 @@ Nay, heaven itself can be won and the whole earth ruled (_śakyaṃ divaṃ cār
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा वानरो रामं विरराम हरीश्वरः ॥ ५८ ॥  
+[^non-baroDa-CE] इत्युक्त्वा वानरो रामं विरराम हरीश्वरः ॥ ५८ ॥  
 स तमाश्वासयद् रामो वालिनं व्यक्तदर्शनम् ।  
-साधुसम्मतया वाचा धर्मतत्त्वार्थयुक्तया ॥ ५९ ॥  
+[^non-baroDa-CE] साधुसम्मतया वाचा धर्मतत्त्वार्थयुक्तया ॥ ५९ ॥  
 न सन्तापस्त्वया कार्य एतदर्थं प्लवङ्गम ।  
 न वयं भवता चिन्त्या नाप्यात्मा हरिसत्तम ।  
 वयं भवद्विशेषेण धर्मतः कृतनिश्चयाः ॥ ६० ॥
@@ -3377,8 +3377,8 @@ Therefore, freed from impurity through this contact with punishment (_daṇḍas
 
 <details><summary>मूलम्</summary>
 
-त्यज शोकं च मोहं च भयं च हृदये स्थितम् ।  
-त्वया विधानं हर्यग्र्य न शक्यमतिवर्तितुम् ॥ ६३ ॥
+[^non-baroDa-CE] त्यज शोकं च मोहं च भयं च हृदये स्थितम् ।  
+[^non-baroDa-CE] त्वया विधानं हर्यग्र्य न शक्यमतिवर्तितुम् ॥ ६३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3429,8 +3429,8 @@ Cast off grief, delusion, and fear abiding in your heart (_tyaja śokaṃ ca moh
 
 <details><summary>मूलम्</summary>
 
-यथा त्वय्यङ्गदो नित्यं वर्तते वानरेश्वर ।  
-तथा वर्तेत सुग्रीवे मयि चापि न संशयः ॥ ६४ ॥
+[^non-baroDa-CE] यथा त्वय्यङ्गदो नित्यं वर्तते वानरेश्वर ।  
+[^non-baroDa-CE] तथा वर्तेत सुग्रीवे मयि चापि न संशयः ॥ ६४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3609,3 +3609,5 @@ I appease you for the same. [4-18-66]
 “Scorched by your arrow and bewildered in mind (_śarābhitaptena vicetasā_), whatever I spoke unto you in ignorance, O lord (_prabhāṣitas tvaṃ yad ajānatā vibho_)—being propitiated, O lord of men of dread valor equal to Mahendra&#x27;s (_mahendropamabhīmavikrama_), forgive me this (_kṣama me nareśvara_)!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

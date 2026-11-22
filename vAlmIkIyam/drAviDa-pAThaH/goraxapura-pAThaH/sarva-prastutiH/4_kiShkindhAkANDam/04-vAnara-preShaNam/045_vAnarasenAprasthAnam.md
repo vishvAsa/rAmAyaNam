@@ -43,8 +43,8 @@ Summoned by Sugrīva's stern command, the monkey legions cover the earth like lo
 
 <details><summary>मूलम्</summary>
 
-सर्वांश्चाहूय सुग्रीवः प्लवगान् प्लवगर्षभः ।  
-समस्तांश्चाब्रवीद् राजा रामकार्यार्थसिद्धये ॥ १ ॥
+[^non-baroDa-CE] सर्वांश्चाहूय सुग्रीवः प्लवगान् प्लवगर्षभः ।  
+[^non-baroDa-CE] समस्तांश्चाब्रवीद् राजा रामकार्यार्थसिद्धये ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -101,7 +101,7 @@ Summoning all the monkeys (_sarvān plavagān_), King Sugrīva, that bull among 
 
 <details><summary>मूलम्</summary>
 
-एवमेतद् विचेतव्यं भवद्भिर्वानरोत्तमैः ।  
+[^non-baroDa-CE] एवमेतद् विचेतव्यं भवद्भिर्वानरोत्तमैः ।  
 तदुग्रशासनं भर्तुर्विज्ञाय हरिपुङ्गवाः ॥ २ ॥  
 शलभा इव सञ्छाद्य मेदिनीं सम्प्रतस्थिरे ।
 </details>
@@ -484,7 +484,7 @@ Swelled with pride in their might, the monkey warriors individually boast before
 <details><summary>मूलम्</summary>
 
 नदन्तश्चोन्नदन्तश्च गर्जन्तश्च प्लवङ्गमाः ।  
-क्ष्वेडन्तो धावमानाश्च विनदन्तो महाबलाः ॥ १० ॥  
+[^non-baroDa-CE] क्ष्वेडन्तो धावमानाश्च विनदन्तो महाबलाः ॥ १० ॥  
 एवं सञ्चोदिताः सर्वे राज्ञा वानरयूथपाः ।  
 आनयिष्यामहे सीतां हनिष्यामश्च रावणम् ॥ ११ ॥  
 अहमेको वधिष्यामि प्राप्तं रावणमाहवे ।  
@@ -499,7 +499,7 @@ Swelled with pride in their might, the monkey warriors individually boast before
 पातालस्यापि वा मध्ये न ममाच्छिद्यते गतिः ॥ १६ ॥
 _________________
 नदन्तश्चोन्नदन्तश्च गर्जन्तश्च प्लवङ्गमाः ।  
-क्ष्वेडन्तो धावमानाश्च विनदन्तो महाबलाः ॥
+[^non-baroDa-CE] क्ष्वेडन्तो धावमानाश्च विनदन्तो महाबलाः ॥
 एवं सञ्चोदिताः सर्वे राज्ञा वानरयूथपाः ।  
 आनयिष्यामहे सीतां हनिष्यामश्च रावणम् ॥
 अहमेको वधिष्यामि प्राप्तं रावणमाहवे ।  
@@ -740,3 +740,4 @@ Thus at that time, proud of their strength (_bala-darpitāḥ_), the monkeys one
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

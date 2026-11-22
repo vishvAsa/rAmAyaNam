@@ -203,11 +203,11 @@ As Mārīca wonders whether Puṣpaka refuses to serve anyone save Kubera, Śiva
 
 <details><summary>मूलम्</summary>
 
-अथवा पुष्पकमिदं धनदान्नान्यवाहनम् ।  
+[^non-baroDa-CE] अथवा पुष्पकमिदं धनदान्नान्यवाहनम् ।  
 अतो निस्पन्दमभवद् धनाध्यक्षविनाकृतम् ॥ ७ ॥
 _________________
-अथवा पुष्पकमिदं धनदान्नान्यवाहनम् ।  
-अतो निष्पन्दमभवद् धनाध्यक्ष विनाकृतम् ॥
+[^non-baroDa-CE] अथवा पुष्पकमिदं धनदान्नान्यवाहनम् ।  
+[^non-baroDa-CE] अतो निष्पन्दमभवद् धनाध्यक्ष विनाकृतम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -239,7 +239,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-इति वाक्यान्तरे तस्य करालः कृष्णपिङ्गलः ।  
+[^non-baroDa-CE] इति वाक्यान्तरे तस्य करालः कृष्णपिङ्गलः ।  
 वामनो विकटो मुण्डी नन्दी ह्रस्वभुजो बली ॥ ८ ॥  
 ततः पार्श्वमुपागम्य भवस्यानुचरोऽब्रवीत् ।  
 नन्दीश्वरो वचश्चेदं राक्षसेन्द्रमशङ्कितः ॥ ९ ॥
@@ -312,7 +312,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-इति नन्दिवचः श्रुत्वा क्रोधात् कम्पितकुण्डलः ॥ ११ ॥  
+[^non-baroDa-CE] इति नन्दिवचः श्रुत्वा क्रोधात् कम्पितकुण्डलः ॥ ११ ॥  
 रोषात् तु ताम्रनयनः पुष्पकादवरुह्य सः ।  
 कोऽयं शङ्कर इत्युक्त्वा शैलमूलमुपागतः ॥ १२ ॥
 </details>
@@ -354,7 +354,7 @@ Seeing monkey-faced Nandī leaning upon a blazing trident like a second Śaṅka
 
 <details><summary>मूलम्</summary>
 
-सोऽपश्यन्नन्दिनं तत्र देवस्यादूरतः स्थितम् ।  
+[^non-baroDa-CE] सोऽपश्यन्नन्दिनं तत्र देवस्यादूरतः स्थितम् ।  
 दीप्तं शूलमवष्टभ्य द्वितीयमिव शङ्करम् ॥ १३ ॥
 </details>
 
@@ -449,13 +449,13 @@ Enraged at him (_taṃ kruddhaḥ_), the venerable Nandī, who is a second embod
 
 <details><summary>मूलम्</summary>
 
-यस्माद् वानररूपं मामवज्ञाय दशानन ।  
-अशनीपातसङ्काशमपहासं प्रमुक्तवान् ॥ १६ ॥  
+[^non-baroDa-CE] यस्माद् वानररूपं मामवज्ञाय दशानन ।  
+[^non-baroDa-CE] अशनीपातसङ्काशमपहासं प्रमुक्तवान् ॥ १६ ॥  
 तस्मान्मद्वीर्यसंयुक्ता मद्रूपसमतेजसः ।  
 उत्पत्स्यन्ति वधार्थं हि कुलस्य तव वानराः ॥ १७ ॥
 _________________
-यस्माद्वानररूपं मामवज्ञाय दशानन ।  
-अशनीपात सङ्काशमपहासं प्रमुक्तवान् ॥
+[^non-baroDa-CE] यस्माद्वानररूपं मामवज्ञाय दशानन ।  
+[^non-baroDa-CE] अशनीपात सङ्काशमपहासं प्रमुक्तवान् ॥
 तस्मान्मद्वीर्य संयुक्तामद्रूप समतेजसः ।  
 उत्पत्स्यन्ति वदार्थं हि कुलस्य तव वानराः ॥
 </details>
@@ -654,7 +654,7 @@ Contrasting with those fallen heroes, verse 50 depicts sovereigns respected by t
 <details><summary>मूलम्</summary>
 
 नखदंष्ट्रायुधाः क्रूर मनःसम्पातरंहसः ।  
-युद्धोन्मत्ता बलोद्रिक्ताः शैला इव विसर्पिणः ॥ १८ ॥
+[^non-baroDa-CE] युद्धोन्मत्ता बलोद्रिक्ताः शैला इव विसर्पिणः ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -692,8 +692,8 @@ Declaring that Rāvaṇa is already doomed by his own misdeeds, Nandī withholds
 
 <details><summary>मूलम्</summary>
 
-ते तव प्रबलं दर्पमुत्सेधं च पृथग्विधम् ।  
-व्यपनेष्यन्ति सम्भूय सहामात्यसुतस्य च ॥ १९ ॥
+[^non-baroDa-CE] ते तव प्रबलं दर्पमुत्सेधं च पृथग्विधम् ।  
+[^non-baroDa-CE] व्यपनेष्यन्ति सम्भूय सहामात्यसुतस्य च ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -757,8 +757,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-इत्युदीरितवाक्ये तु देवे तस्मिन् महात्मनि ।  
-देवदुन्दुभयो नेदुः पुष्पवृष्टिश्च खाच्च्युता ॥ २१ ॥
+[^non-baroDa-CE] इत्युदीरितवाक्ये तु देवे तस्मिन् महात्मनि ।  
+[^non-baroDa-CE] देवदुन्दुभयो नेदुः पुष्पवृष्टिश्च खाच्च्युता ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -915,7 +915,7 @@ Having spoken thus, O Rāma, he thrust his arms beneath the mountain (_bhujān v
 
 <details><summary>मूलम्</summary>
 
-चालनात् पर्वतस्यैव गणा देवस्य कम्पिताः ।  
+[^non-baroDa-CE] चालनात् पर्वतस्यैव गणा देवस्य कम्पिताः ।  
 चचाल पार्वती चापि तदाश्लिष्टा महेश्वरम् ॥ २६ ॥
 </details>
 
@@ -1042,7 +1042,7 @@ Out of fury (_roṣāc ca_) and from the crushing of his arms (_bhujānāṃ pī
 
 <details><summary>मूलम्</summary>
 
-मेनिरे वज्रनिष्पेषं तस्यामात्या युगक्षये ।  
+[^non-baroDa-CE] मेनिरे वज्रनिष्पेषं तस्यामात्या युगक्षये ।  
 तदा वर्त्मसु चलिता देवा इन्द्रपुरोगमाः ॥ ३० ॥
 </details>
 
@@ -1081,8 +1081,8 @@ As oceans churn and celestials cry out in alarm at the roar, Rāvaṇa’s minis
 
 <details><summary>मूलम्</summary>
 
-समुद्राश्चापि सङ्क्षुब्धाश्चलिताश्चापि पर्वताः ।  
-यक्षा विद्याधराः सिद्धाः किमेतदिति चाब्रुवन् ॥ ३१ ॥
+[^non-baroDa-CE] समुद्राश्चापि सङ्क्षुब्धाश्चलिताश्चापि पर्वताः ।  
+[^non-baroDa-CE] यक्षा विद्याधराः सिद्धाः किमेतदिति चाब्रुवन् ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1112,8 +1112,8 @@ The oceans too were churned into tumult (_samudrāś cāpi saṅkṣubdhāḥ_),
 
 <details><summary>मूलम्</summary>
 
-तोषयस्व महादेवं नीलकण्ठमुमापतिम् ।  
-तमृते शरणं नान्यं पश्यामोऽत्र दशानन ॥ ३२ ॥
+[^non-baroDa-CE] तोषयस्व महादेवं नीलकण्ठमुमापतिम् ।  
+[^non-baroDa-CE] तमृते शरणं नान्यं पश्यामोऽत्र दशानन ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1143,8 +1143,8 @@ Then those ministers of his addressed him as he cried out in agony (_vikrośanta
 
 <details><summary>मूलम्</summary>
 
-स्तुतिभिः प्रणतो भूत्वा तमेव शरणं व्रज ।  
-कृपालुः शङ्करस्तुष्टः प्रसादं ते विधास्यति ॥ ३३ ॥
+[^non-baroDa-CE] स्तुतिभिः प्रणतो भूत्वा तमेव शरणं व्रज ।  
+[^non-baroDa-CE] कृपालुः शङ्करस्तुष्टः प्रसादं ते विधास्यति ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1175,12 +1175,12 @@ Then those ministers of his addressed him as he cried out in agony (_vikrośanta
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तदामात्यैस्तुष्टाव वृषभध्वजम् ।  
-सामभिर्विविधैः स्तोत्रैः प्रणम्य स दशाननः ।  
-संवत्सरसहस्रं तु रुदतो रक्षसो गतम् ॥ ३४ ॥
+[^non-baroDa-CE] एवमुक्तस्तदामात्यैस्तुष्टाव वृषभध्वजम् ।  
+[^non-baroDa-CE] सामभिर्विविधैः स्तोत्रैः प्रणम्य स दशाननः ।  
+[^non-baroDa-CE] संवत्सरसहस्रं तु रुदतो रक्षसो गतम् ॥ ३४ ॥
 _________________
 एवमुक्तस्यदामात्यैस्तुष्टाव वृषभध्वजम् ।  
-सामभिर्विविधैः स्तोत्रैः प्रणम्य स दशाननः ।  
+[^non-baroDa-CE] सामभिर्विविधैः स्तोत्रैः प्रणम्य स दशाननः ।  
 संवत्सरसहस्रन्तु रुदतो रक्षसो गतम् ॥
 </details>
 
@@ -1253,12 +1253,12 @@ Pleased with Daśānana’s endurance and earth-shaking roar, Mahādeva confers 
 <details><summary>मूलम्</summary>
 
 प्रीतोऽस्मि तव वीरस्य शौटीर्याच्च दशानन ।  
-शैलाक्रान्तेन यो मुक्तस्त्वया रावः सुदारुणः ॥ ३६ ॥  
+[^non-baroDa-CE] शैलाक्रान्तेन यो मुक्तस्त्वया रावः सुदारुणः ॥ ३६ ॥  
 यस्माल्लोकत्रयं चैतद् रावितं भयमागतम् ।  
 तस्मात् त्वं रावणो नाम नाम्ना राजन् भविष्यसि ॥ ३७ ॥
 _________________
 प्रीतोऽस्मि तव वीर्यस्य शौटीर्याच्च दशानन ।  
-शैलाक्रान्तेन यो मुक्तस्त्वया रावः सुदारुणः ॥
+[^non-baroDa-CE] शैलाक्रान्तेन यो मुक्तस्त्वया रावः सुदारुणः ॥
 यस्माल्लोकत्रयं चैतद्रावितं भयमागतम् ।  
 तस्मात्त्वं रावणो नाम नाम्ना राजन् भविष्यसि ॥
 </details>
@@ -1354,8 +1354,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तु लङ्केशः शम्भुना स्वयमब्रवीत् ।  
-प्रीतो यदि महादेव वरं मे देहि याचतः ॥ ४० ॥
+[^non-baroDa-CE] एवमुक्तस्तु लङ्केशः शम्भुना स्वयमब्रवीत् ।  
+[^non-baroDa-CE] प्रीतो यदि महादेव वरं मे देहि याचतः ॥ ४० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1385,8 +1385,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-अवध्यत्वं मया प्राप्तं देवगन्धर्वदानवैः ।  
-राक्षसैर्गुह्यकैर्नागैर्ये चान्ये बलवत्तराः ॥ ४१ ॥
+[^non-baroDa-CE] अवध्यत्वं मया प्राप्तं देवगन्धर्वदानवैः ।  
+[^non-baroDa-CE] राक्षसैर्गुह्यकैर्नागैर्ये चान्ये बलवत्तराः ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1425,9 +1425,9 @@ Boasting of his invulnerability from Brahmā while dismissing mortals as negligi
 
 <details><summary>मूलम्</summary>
 
-मानुषान् न गणे देव स्वल्पास्ते मम सम्मताः ।  
-दीर्घमायुश्च मे प्राप्तं ब्रह्मणस्त्रिपुरान्तक ॥ ४२ ॥  
-वाञ्छितं चायुषः शेषं शस्त्रं त्वं च प्रयच्छ मे ।
+[^non-baroDa-CE] मानुषान् न गणे देव स्वल्पास्ते मम सम्मताः ।  
+[^non-baroDa-CE] दीर्घमायुश्च मे प्राप्तं ब्रह्मणस्त्रिपुरान्तक ॥ ४२ ॥  
+[^non-baroDa-CE] वाञ्छितं चायुषः शेषं शस्त्रं त्वं च प्रयच्छ मे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1458,8 +1458,8 @@ Boasting of his invulnerability from Brahmā while dismissing mortals as negligi
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्ततस्तेन रावणेन स शङ्करः ॥ ४३ ॥  
-ददौ खड्गं महादीप्तं चन्द्रहासमिति श्रुतम् ।  
+[^non-baroDa-CE] एवमुक्तस्ततस्तेन रावणेन स शङ्करः ॥ ४३ ॥  
+[^non-baroDa-CE] ददौ खड्गं महादीप्तं चन्द्रहासमिति श्रुतम् ।  
 आयुषश्चावशेषं च ददौ भूतपतिस्तदा ॥ ४४ ॥
 </details>
 
@@ -1492,8 +1492,8 @@ Boasting of his invulnerability from Brahmā while dismissing mortals as negligi
 
 <details><summary>मूलम्</summary>
 
-दत्त्वोवाच ततः शम्भुर्नावज्ञेयमिदं त्वया ।  
-अवज्ञातं यदि हि ते मामेवैष्यत्यसंशयः ॥ ४५ ॥
+[^non-baroDa-CE] दत्त्वोवाच ततः शम्भुर्नावज्ञेयमिदं त्वया ।  
+[^non-baroDa-CE] अवज्ञातं यदि हि ते मामेवैष्यत्यसंशयः ॥ ४५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1593,8 +1593,8 @@ Having thus received his very name from Maheśvara himself (_maheśvareṇaiva k
 
 <details><summary>मूलम्</summary>
 
-केचित् तेजस्विनः शूराः क्षत्रिया युद्धदुर्मदाः ।  
-तच्छासनमकुर्वन्तो विनेशुः सपरिच्छदाः ॥ ४८ ॥
+[^non-baroDa-CE] केचित् तेजस्विनः शूराः क्षत्रिया युद्धदुर्मदाः ।  
+[^non-baroDa-CE] तच्छासनमकुर्वन्तो विनेशुः सपरिच्छदाः ॥ ४८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1624,8 +1624,8 @@ Thereafter, O Rāma, Rāvaṇa ranged across the face of the earth (_mahī-tale 
 
 <details><summary>मूलम्</summary>
 
-अपरे दुर्जयं रक्षो जानन्तः प्राज्ञसम्मताः ।  
-जिताः स्म इत्यभाषन्त राक्षसं बलदर्पितम् ॥ ४९ ॥
+[^non-baroDa-CE] अपरे दुर्जयं रक्षो जानन्तः प्राज्ञसम्मताः ।  
+[^non-baroDa-CE] जिताः स्म इत्यभाषन्त राक्षसं बलदर्पितम् ॥ ४९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1656,3 +1656,4 @@ Certain spirited and heroic Kṣatriyas (_tejasvinaḥ śūrāḥ kṣatriyāḥ
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

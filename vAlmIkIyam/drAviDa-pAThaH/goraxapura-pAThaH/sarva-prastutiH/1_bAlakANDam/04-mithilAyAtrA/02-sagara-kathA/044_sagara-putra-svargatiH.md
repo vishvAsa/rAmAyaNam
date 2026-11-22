@@ -1077,8 +1077,8 @@ Concluding the ten-sarga cycle of narratives begun at the Śoṇa and Gaṅgā (
 <details><summary>मूलम्</summary>
 
 धन्यं यशस्यमायुष्यं पुत्र्यं स्वर्ग्यमथापि च ।  
-यः श्रावयति विप्रेषु क्षत्रियेष्वितरेषु च ॥ २१ ॥  
-प्रीयन्ते पितरस्तस्य प्रीयन्ते दैवतानि च ।  
+[^non-baroDa-CE] यः श्रावयति विप्रेषु क्षत्रियेष्वितरेषु च ॥ २१ ॥  
+[^non-baroDa-CE] प्रीयन्ते पितरस्तस्य प्रीयन्ते दैवतानि च ।  
 इदमाख्यानमायुष्यं गङ्गावतरणं शुभम् ॥ २२ ॥
 </details>
 
@@ -1141,8 +1141,8 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
 
 <details><summary>मूलम्</summary>
 
-यः शृणोति च काकुत्स्थ सर्वान् कामानवाप्नुयात् ।  
-सर्वे पापाः प्रणश्यन्ति आयुः कीर्तिश्च वर्धते ॥ २३ ॥
+[^non-baroDa-CE] यः शृणोति च काकुत्स्थ सर्वान् कामानवाप्नुयात् ।  
+[^non-baroDa-CE] सर्वे पापाः प्रणश्यन्ति आयुः कीर्तिश्च वर्धते ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1194,3 +1194,4 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

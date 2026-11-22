@@ -276,13 +276,13 @@ On _sāgaraṅgamām_ (“the river that goes to the ocean”), **Tilaka** offer
 
 <details><summary>मूलम्</summary>
 
-तत्र शुश्राव वै शब्दं तोयसंरम्भवर्धितम् ।  
-मध्यमागम्य तोयस्य तस्य शब्दस्य निश्चयम् ॥ ५ ॥  
-ज्ञातुकामो महातेजाः सह रामः कनीयसा ।
+[^non-baroDa-CE] तत्र शुश्राव वै शब्दं तोयसंरम्भवर्धितम् ।  
+[^non-baroDa-CE] मध्यमागम्य तोयस्य तस्य शब्दस्य निश्चयम् ॥ ५ ॥  
+[^non-baroDa-CE] ज्ञातुकामो महातेजाः सह रामः कनीयसा ।
 _________________
 ततः शुश्राव वै शब्दं तोयसंरम्भवर्धितम् ।  
-मध्यमागम्य तोयस्य तस्य शब्दस्य निश्चयम् ॥  
-ज्ञातु कामो महातेजाः सह रामः कनीयसा ।
+[^non-baroDa-CE] मध्यमागम्य तोयस्य तस्य शब्दस्य निश्चयम् ॥  
+[^non-baroDa-CE] ज्ञातु कामो महातेजाः सह रामः कनीयसा ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1407,7 +1407,7 @@ Malada and Karūṣa—rejoiced abundantly in wealth and grain (_muditā dhanadh
 
 ताटका नाम भद्रं ते भार्या सुन्दस्य धीमतः ॥ २६ ॥  
 मारीचो राक्षसः पुत्रो यस्याः शक्रपराक्रमः ।  
-वृत्तबाहुर्महाशीर्षो विपुलास्यतनुर्महान् ॥ २७ ॥
+[^non-baroDa-CE] वृत्तबाहुर्महाशीर्षो विपुलास्यतनुर्महान् ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -1493,7 +1493,7 @@ After describing Tāṭakā’s monstrous son Mārīca—whose might rivals Indr
 
 <details><summary>मूलम्</summary>
 
-राक्षसो भैरवाकारो नित्यं त्रासयते प्रजाः ।  
+[^non-baroDa-CE] राक्षसो भैरवाकारो नित्यं त्रासयते प्रजाः ।  
 इमौ जनपदौ नित्यं विनाशयति राघव ॥ २८ ॥  
 मलदांश्च करूषांश्च ताटका दुष्टचारिणी ।
 </details>
@@ -1775,3 +1775,4 @@ On the closing words _adyāpi na nivartate_, **Tilaka** supplies “the former i
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

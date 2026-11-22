@@ -214,10 +214,10 @@ Standing motionless as a block of wood (_kāṣṭhabhūtam = kāṣṭhavad ava
 
 <details><summary>मूलम्</summary>
 
-स कृत्वा निश्चयं राम तप आतिष्ठताव्ययम् ।  
-तस्य वर्षसहस्रस्य व्रते पूर्णे महाव्रतः ॥ ४ ॥  
-भोक्तुमारब्धवानन्नं तस्मिन् काले रघूत्तम ।  
-इन्द्रो द्विजातिर्भूत्वा तं सिद्धमन्नमयाचत ॥ ५ ॥
+[^non-baroDa-CE] स कृत्वा निश्चयं राम तप आतिष्ठताव्ययम् ।  
+[^non-baroDa-CE] तस्य वर्षसहस्रस्य व्रते पूर्णे महाव्रतः ॥ ४ ॥  
+[^non-baroDa-CE] भोक्तुमारब्धवानन्नं तस्मिन् काले रघूत्तम ।  
+[^non-baroDa-CE] इन्द्रो द्विजातिर्भूत्वा तं सिद्धमन्नमयाचत ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -283,8 +283,8 @@ In the Southern Recension’s celebrated test of Viśvāmitra’s patience, Indr
 
 <details><summary>मूलम्</summary>
 
-तस्मै दत्त्वा तदा सिद्धं सर्वं विप्राय निश्चितः ।  
-निःशेषितेऽन्ने भगवानभुक्त्वैव महातपाः ॥ ६ ॥
+[^non-baroDa-CE] तस्मै दत्त्वा तदा सिद्धं सर्वं विप्राय निश्चितः ।  
+[^non-baroDa-CE] निःशेषितेऽन्ने भगवानभुक्त्वैव महातपाः ॥ ६ ॥
 _________________
 तस्मै दत्वा तदा सिद्धं सर्वं विप्राय निश्चितः ।  
 निःशेषितेऽन्ने भगवानभुक्तैव महातपाः ॥
@@ -326,7 +326,7 @@ Without uttering a word to the Brahmin, Viśvāmitra holds his breath for anothe
 <details><summary>मूलम्</summary>
 
 न किञ्चिदवदद् विप्रं मौनव्रतमुपास्थितः ।  
-तथैवासीत् पुनर्मौनमनुच्छ्वासं चकार ह ॥ ७ ॥
+[^non-baroDa-CE] तथैवासीत् पुनर्मौनमनुच्छ्वासं चकार ह ॥ ७ ॥
 _________________
 न किञ्चिदवदद् विप्रं मौनव्रतमुपास्थितः ।  
 तथैवासीत्पुनर्वौनमनुच्छ्वासं चकार ह ॥
@@ -392,7 +392,7 @@ Having given away his meal without breaking silence, Viśvāmitra embarks upon a
 <details><summary>मूलम्</summary>
 
 अथ वर्षसहस्रं च नोच्छ्वसन् मुनिपुङ्गवः ।  
-तस्यानुच्छ्वसमानस्य मूर्ध्नि धूमो व्यजायत ॥ ८ ॥
+[^non-baroDa-CE] तस्यानुच्छ्वसमानस्य मूर्ध्नि धूमो व्यजायत ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -450,7 +450,7 @@ Then for another thousand years that foremost of sages did not draw a single bre
 
 <details><summary>मूलम्</summary>
 
-त्रैलोक्यं येन सम्भ्रान्तमातापितमिवाभवत् ।  
+[^non-baroDa-CE] त्रैलोक्यं येन सम्भ्रान्तमातापितमिवाभवत् ।  
 ततो देवर्षिगन्धर्वाः पन्नगोरगराक्षसाः ॥ ९ ॥  
 मोहितास्तपसा तस्य तेजसा मन्दरश्मयः ।  
 कश्मलोपहताः सर्वे पितामहमथाब्रुवन् ॥ १० ॥
@@ -725,8 +725,8 @@ tend to become non-theistic and we do not know what to do. [1-65-14b, 15a]
 
 <details><summary>मूलम्</summary>
 
-ब्रह्मन् न प्रतिजानीमो नास्तिको जायते जनः ।  
-सम्मूढमिव त्रैलोक्यं सम्प्रक्षुभितमानसम् ॥ १५ ॥
+[^non-baroDa-CE] ब्रह्मन् न प्रतिजानीमो नास्तिको जायते जनः ।  
+[^non-baroDa-CE] सम्मूढमिव त्रैलोक्यं सम्प्रक्षुभितमानसम् ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -779,11 +779,11 @@ before the resplendence of that great sage. [1-65-15b, 16a]
 
 <details><summary>मूलम्</summary>
 
-भास्करो निष्प्रभश्चैव महर्षेस्तस्य तेजसा ।  
+[^non-baroDa-CE] भास्करो निष्प्रभश्चैव महर्षेस्तस्य तेजसा ।  
 बुद्धिं न कुरुते यावन्नाशे देव महामुनिः ॥ १६ ॥  
 तावत् प्रसादो भगवन्नग्निरूपो महाद्युतिः ।
 _________________
-भास्करो निष्प्रभश्चैव महर्षेस्तस्य तेजसा ॥  
+[^non-baroDa-CE] भास्करो निष्प्रभश्चैव महर्षेस्तस्य तेजसा ॥  
 बुद्धिं न कुरुते यावन्नाशे देव महामुनिः ॥  
 तावत्प्रसादोभगवानग्निरूपो महाद्युतिः ।
 </details>
@@ -1490,7 +1490,7 @@ with righteousness, and he is the stronghold for fortitude." [1-65-29]
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा महातेजा विरराम द्विजोत्तमः ।  
+[^non-baroDa-CE] एवमुक्त्वा महातेजा विरराम द्विजोत्तमः ।  
 शतानन्दवचः श्रुत्वा रामलक्ष्मणसन्निधौ ॥ ३० ॥  
 जनकः प्राञ्जलिर्वाक्यमुवाच कुशिकात्मजम् ।
 </details>
@@ -1871,8 +1871,8 @@ leave from Vishvamitra. [1-65-37]
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तो मुनिवरः प्रशस्य पुरुषर्षभम् ।  
-विससर्जाशु जनकं प्रीतं प्रीतमनास्तदा ॥ ३८ ॥
+[^non-baroDa-CE] एवमुक्तो मुनिवरः प्रशस्य पुरुषर्षभम् ।  
+[^non-baroDa-CE] विससर्जाशु जनकं प्रीतं प्रीतमनास्तदा ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2037,3 +2037,4 @@ The righteous-souled Viśvāmitra, too, accompanied by Rāma and Lakṣmaṇa (_
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

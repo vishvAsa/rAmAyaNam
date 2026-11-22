@@ -570,8 +570,8 @@ All beings (_sarva-bhūtāni_) beheld that _rākṣasa_ standing firm (_paryavas
 
 <details><summary>मूलम्</summary>
 
-हन्तारं सर्वसैन्यस्य पौरुषे पर्यवस्थितम् ।  
-परिश्रान्तं महासत्त्वं मेने रामं खरस्तदा ॥ १२ ॥
+[^non-baroDa-CE] हन्तारं सर्वसैन्यस्य पौरुषे पर्यवस्थितम् ।  
+[^non-baroDa-CE] परिश्रान्तं महासत्त्वं मेने रामं खरस्तदा ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -846,8 +846,8 @@ Taking up seven other arrows (_aparān sapta śarān_) gleaming like Śakra&#x27
 
 <details><summary>मूलम्</summary>
 
-ततः शरसहस्रेण राममप्रतिमौजसम् ।  
-अर्दयित्वा महानादं ननाद समरे खरः ॥ १७ ॥
+[^non-baroDa-CE] ततः शरसहस्रेण राममप्रतिमौजसम् ।  
+[^non-baroDa-CE] अर्दयित्वा महानादं ननाद समरे खरः ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1838,3 +1838,4 @@ Assembling (_sametya_) and standing atop their aerial cars (_vimānāgra-gatā�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

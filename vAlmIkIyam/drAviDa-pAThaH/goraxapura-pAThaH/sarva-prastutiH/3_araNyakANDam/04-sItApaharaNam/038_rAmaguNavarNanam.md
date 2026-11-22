@@ -306,12 +306,12 @@ Though Daśaratha offers to march in person with his fourfold army, Viśvāmitra
 
 ऊनद्वादशवर्षोऽयमकृतास्त्रश्च राघवः ॥ ६ ॥  
 कामं तु मम तत् सैन्यं मया सह गमिष्यति ।  
-बलेन चतुरङ्गेण स्वयमेत्य निशाचरम् ॥ ७ ॥  
+[^non-baroDa-CE] बलेन चतुरङ्गेण स्वयमेत्य निशाचरम् ॥ ७ ॥  
 वधिष्यामि मुनिश्रेष्ठ शत्रुं तव यथेप्सितम् ।
 _________________
 ऊन द्वादशवर्षोऽयमकृतास्त्रश्च राघवः ॥
 कामं तु मम तत्सैन्यं महा सह गमिषति ।  
-बलेन चतुरङ्गेण स्वयमेत्य निशाचरम् ॥  
+[^non-baroDa-CE] बलेन चतुरङ्गेण स्वयमेत्य निशाचरम् ॥  
 वधिष्यामि मुनिश्रेष्ठ शत्रुं तव यथेप्सितम् ।
 </details>
 
@@ -453,8 +453,8 @@ I shall slay (_vadhiṣyāmi_), O foremost of sages (_muni-śreṣṭha_), that 
 
 <details><summary>मूलम्</summary>
 
-देवतानामपि भवान् समरेष्वभिपालकः ॥ ९ ॥  
-आसीत् तव कृतं कर्म त्रिलोकविदितं नृप ।
+[^non-baroDa-CE] देवतानामपि भवान् समरेष्वभिपालकः ॥ ९ ॥  
+[^non-baroDa-CE] आसीत् तव कृतं कर्म त्रिलोकविदितं नृप ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1021,12 +1021,12 @@ Then a sharp, foe-destroying arrow (_bāṇaḥ śitaḥ śatru-nibarhaṇaḥ_)
 
 <details><summary>मूलम्</summary>
 
-नेच्छता तात मां हन्तुं तदा वीरेण रक्षितः ।  
+[^non-baroDa-CE] नेच्छता तात मां हन्तुं तदा वीरेण रक्षितः ।  
 रामस्य शरवेगेन निरस्तो भ्रान्तचेतनः ॥ २० ॥  
 पातितोऽहं तदा तेन गम्भीरे सागराम्भसि ।  
 प्राप्य सञ्ज्ञां चिरात् तात लङ्कां प्रति गतः पुरीम् ॥ २१ ॥
 _________________
-नेच्छ ता तात मां हन्तुं तदा वीरेण रक्षितः ।  
+[^non-baroDa-CE] नेच्छ ता तात मां हन्तुं तदा वीरेण रक्षितः ।  
 रामस्य शरवेगेण निरस्तोऽभ्रान्तचेतनः ॥
 पातितोऽहं तदा तेन गम्भीरे सागराम्भसि ।  
 प्राप्य सञ्ज्ञां चिरात्तात लङ्का प्रति गतः पुरीम् ॥
@@ -1547,7 +1547,7 @@ Without a doubt (_asaṃśayam_), you will behold Laṅkā enveloped in a net of
 
 <details><summary>मूलम्</summary>
 
-परदाराभिमर्शात् तु नान्यत् पापतरं महत् ।  
+[^non-baroDa-CE] परदाराभिमर्शात् तु नान्यत् पापतरं महत् ।  
 प्रमदानां सहस्राणि तव राजन् परिग्रहे ॥ ३० ॥  
 भव स्वदारनिरतः स्वकुलं रक्ष राक्षसान् ।  
 मानं वृद्धिं च राज्यं च जीवितं चेष्टमात्मनः ॥ ३१ ॥
@@ -1621,7 +1621,7 @@ dear life. [3-38-31]
 
 <details><summary>मूलम्</summary>
 
-कलत्राणि च सौम्यानि मित्रवर्गं तथैव च ।  
+[^non-baroDa-CE] कलत्राणि च सौम्यानि मित्रवर्गं तथैव च ।  
 यदीच्छसि चिरं भोक्तुं मा कृथा रामविप्रियम् ॥ ३२ ॥
 </details>
 
@@ -1735,3 +1735,5 @@ of Rama." Thus, Maareecha spoke to Ravana. [3-38-33]
 If, though earnestly restrained by me, your friend (_nivāryamāṇaḥ suhṛdā mayā bhṛśam_), you forcibly violate Sītā (_prasahya sītāṃ yadi dharṣayiṣyasi_), then with your forces exhausted (_kṣīṇa-balaḥ_) and your life cast away by Rāma&#x27;s arrows (_rāma-śarāsta-jīvitaḥ_), you together with your kinsmen (_sabāndhavaḥ_) will go to the abode of Yama (_yama-kṣayam_)!’
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

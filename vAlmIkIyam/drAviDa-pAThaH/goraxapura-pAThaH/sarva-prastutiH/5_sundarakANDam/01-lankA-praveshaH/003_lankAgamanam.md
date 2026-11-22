@@ -776,11 +776,11 @@ illuminated the radiant great houses, all darkness was lost.
 
 <details><summary>मूलम्</summary>
 
-अथ सा हरिशार्दूलं प्रविशन्तं महाकपिम् ।  
-नगरी स्वेन रूपेण ददर्श पवनात्मजम् ॥ २० ॥
+[^non-baroDa-CE] अथ सा हरिशार्दूलं प्रविशन्तं महाकपिम् ।  
+[^non-baroDa-CE] नगरी स्वेन रूपेण ददर्श पवनात्मजम् ॥ २० ॥
 _________________
 अथ सा हरिशार्दूलं प्रविशन्तं महाबलम् ।  
-नगरी स्वेन रूपेण ददर्श पवनात्मजम् ॥
+[^non-baroDa-CE] नगरी स्वेन रूपेण ददर्श पवनात्मजम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -831,7 +831,7 @@ Then that city, in her own [embodied] form (_svena rūpeṇa_), beheld the great
 <details><summary>मूलम्</summary>
 
 सा तं हरिवरं दृष्ट्वा लङ्का रावणपालिता ।  
-स्वयमेवोत्थिता तत्र विकृताननदर्शना ॥ २१ ॥
+[^non-baroDa-CE] स्वयमेवोत्थिता तत्र विकृताननदर्शना ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -856,11 +856,11 @@ Beholding that best of monkeys, Laṅkā, ruled by Rāvaṇa, rose up of her own
 
 <details><summary>मूलम्</summary>
 
-पुरस्तात् तस्य वीरस्य वायुसूनोरतिष्ठत ।  
-मुञ्चमाना महानादमब्रवीत् पवनात्मजम् ॥ २२ ॥
+[^non-baroDa-CE] पुरस्तात् तस्य वीरस्य वायुसूनोरतिष्ठत ।  
+[^non-baroDa-CE] मुञ्चमाना महानादमब्रवीत् पवनात्मजम् ॥ २२ ॥
 _________________
 पुरस्तात् कपिवर्यस्य वायुसूनोरतिष्ठत ।  
-मुञ्चमाना महानादमब्रवीत् पवनात्मजम् ॥
+[^non-baroDa-CE] मुञ्चमाना महानादमब्रवीत् पवनात्मजम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -925,8 +925,8 @@ Standing before (_purastāt_) that heroic son of the Wind-god, she uttered a mig
 
 <details><summary>मूलम्</summary>
 
-कस्त्वं केन च कार्येण इह प्राप्तो वनालय ।  
-कथयस्वेह यत् तत्त्वं यावत् प्राणा धरन्ति ते ॥ २३ ॥
+[^non-baroDa-CE] कस्त्वं केन च कार्येण इह प्राप्तो वनालय ।  
+[^non-baroDa-CE] कथयस्वेह यत् तत्त्वं यावत् प्राणा धरन्ति ते ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -972,7 +972,7 @@ are sustained, tell me the truth here before that."
 <details><summary>मूलम्</summary>
 
 न शक्यं खल्वियं लङ्का प्रवेष्टुं वानर त्वया ।  
-रक्षिता रावणबलैरभिगुप्ता समन्ततः ॥ २४ ॥
+[^non-baroDa-CE] रक्षिता रावणबलैरभिगुप्ता समन्ततः ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1007,12 +1007,12 @@ Questioned by Hanumān as to why she blocks the city gate with deformed eyes, th
 
 <details><summary>मूलम्</summary>
 
-अथ तामब्रवीद् वीरो हनुमानग्रतः स्थिताम् ।  
-कथयिष्यामि तत् तत्त्वं यन्मां त्वं परिपृच्छसे ॥ २५ ॥  
-का त्वं विरूपनयना पुरद्वारेऽवतिष्ठसे ।  
-किमर्थं चापि मां क्रोधान्निर्भर्त्सयसि दारुणे ॥ २६ ॥
+[^non-baroDa-CE] अथ तामब्रवीद् वीरो हनुमानग्रतः स्थिताम् ।  
+[^non-baroDa-CE] कथयिष्यामि तत् तत्त्वं यन्मां त्वं परिपृच्छसे ॥ २५ ॥  
+[^non-baroDa-CE] का त्वं विरूपनयना पुरद्वारेऽवतिष्ठसे ।  
+[^non-baroDa-CE] किमर्थं चापि मां क्रोधान्निर्भर्त्सयसि दारुणे ॥ २६ ॥
 _________________
-अथ तामब्रवीद्वीरो हनुमानग्रतः स्थिताम् ।  
+[^non-baroDa-CE] अथ तामब्रवीद्वीरो हनुमानग्रतः स्थिताम् ।  
 कथयिष्यामि ते तत्त्वं यन्मां त्वं परिपृच्छसि ॥
 का त्वं विरूपनयना पुरद्वारेवतिष्ठसि ।  
 किमर्थं चापि मां रुद्ध्वा निर्भर्त्सयसि दारुणा ॥
@@ -1098,10 +1098,10 @@ Stopping me, for what reason are you threatening me?"
 <details><summary>मूलम्</summary>
 
 हनुमद्वचनं श्रुत्वा लङ्का सा कामरूपिणी ।  
-उवाच वचनं क्रुद्धा परुषं पवनात्मजम् ॥ २७ ॥
+[^non-baroDa-CE] उवाच वचनं क्रुद्धा परुषं पवनात्मजम् ॥ २७ ॥
 _________________
 हनूमद्वचनं श्रुत्वा लङ्का सा कामरूपिणी ।  
-उवाच वचनं क्रुद्धा परुषं पवनात्मजम् ॥
+[^non-baroDa-CE] उवाच वचनं क्रुद्धा परुषं पवनात्मजम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1146,8 +1146,8 @@ Hearing Hanumān&#x27;s words, that shape-shifting (_kāmarūpiṇī_) Laṅkā,
 
 <details><summary>मूलम्</summary>
 
-अहं राक्षसराजस्य रावणस्य महात्मनः ।  
-आज्ञाप्रतीक्षा दुर्धर्षा रक्षामि नगरीमिमाम् ॥ २८ ॥
+[^non-baroDa-CE] अहं राक्षसराजस्य रावणस्य महात्मनः ।  
+[^non-baroDa-CE] आज्ञाप्रतीक्षा दुर्धर्षा रक्षामि नगरीमिमाम् ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1192,11 +1192,11 @@ great one."
 
 <details><summary>मूलम्</summary>
 
-न शक्यं मामवज्ञाय प्रवेष्टुं नगरीमिमाम् ।  
-अद्य प्राणैः परित्यक्तः स्वप्स्यसे निहतो मया ॥ २९ ॥
+[^non-baroDa-CE] न शक्यं मामवज्ञाय प्रवेष्टुं नगरीमिमाम् ।  
+[^non-baroDa-CE] अद्य प्राणैः परित्यक्तः स्वप्स्यसे निहतो मया ॥ २९ ॥
 _________________
 न शक्या मामवज्ञाय प्रवेष्टुं नगरी त्वया ।  
-अद्य प्राणैः परित्यक्तः स्वप्स्यसे निहतो मया ॥
+[^non-baroDa-CE] अद्य प्राणैः परित्यक्तः स्वप्स्यसे निहतो मया ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1242,7 +1242,7 @@ Disregarding me (_mām avajñāya_), it is impossible to enter this city; today,
 <details><summary>मूलम्</summary>
 
 अहं हि नगरी लङ्का स्वयमेव प्लवङ्गम ।  
-सर्वतः परिरक्षामि अतस्ते कथितं मया ॥ ३० ॥
+[^non-baroDa-CE] सर्वतः परिरक्षामि अतस्ते कथितं मया ॥ ३० ॥
 _________________
 अहं हि नगरी लङ्का स्वयमेव प्लवङ्गम ।  
 सर्वतः परिरक्षामि ह्येतत्ते कथितं मया ॥
@@ -1298,10 +1298,10 @@ Standing firm like a second mountain before the deformed female guardian, Hanum�
 <details><summary>मूलम्</summary>
 
 लङ्काया वचनं श्रुत्वा हनुमान् मारुतात्मजः ।  
-यत्नवान् स हरिश्रेष्ठः स्थितः शैल इवापरः ॥ ३१ ॥
+[^non-baroDa-CE] यत्नवान् स हरिश्रेष्ठः स्थितः शैल इवापरः ॥ ३१ ॥
 _________________
 लङ्काया वचनं श्रुत्वा हनूमान् मारुतात्मजः ।  
-यत्नवान् स हरिश्रेष्ठः स्थितः शैल इवापरः ॥
+[^non-baroDa-CE] यत्नवान् स हरिश्रेष्ठः स्थितः शैल इवापरः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1352,8 +1352,8 @@ Hearing the words of Laṅkā, Hanumān, son of the Wind-god and foremost of mon
 
 <details><summary>मूलम्</summary>
 
-स तां स्त्रीरूपविकृतां दृष्ट्वा वानरपुङ्गवः ।  
-आबभाषेऽथ मेधावी सत्त्ववान् प्लवगर्षभः ॥ ३२ ॥
+[^non-baroDa-CE] स तां स्त्रीरूपविकृतां दृष्ट्वा वानरपुङ्गवः ।  
+[^non-baroDa-CE] आबभाषेऽथ मेधावी सत्त्ववान् प्लवगर्षभः ॥ ३२ ॥
 _________________
 स तां सीरूपविकृतां दृष्ट्वा वानरपुङ्गवः ।  
 आबभाषेथ मेधावी सत्त्ववान् प्लवगर्षभः ॥
@@ -1409,7 +1409,7 @@ Beholding her deformed in female shape (_strīrūpavikṛtām_), that wise and r
 <details><summary>मूलम्</summary>
 
 द्रक्ष्यामि नगरीं लङ्कां साट्टप्राकारतोरणाम् ।  
-इत्यर्थमिह सम्प्राप्तः परं कौतूहलं हि मे ॥ ३३ ॥
+[^non-baroDa-CE] इत्यर्थमिह सम्प्राप्तः परं कौतूहलं हि मे ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1455,7 +1455,7 @@ here for that reason. I am very curious to see them."
 <details><summary>मूलम्</summary>
 
 वनान्युपवनानीह लङ्कायाः काननानि च ।  
-सर्वतो गृहमुख्यानि द्रष्टुमागमनं हि मे ॥ ३४ ॥
+[^non-baroDa-CE] सर्वतो गृहमुख्यानि द्रष्टुमागमनं हि मे ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1499,7 +1499,7 @@ My coming here (_āgamanaṃ hi me_) is simply to behold the planted woods (_van
 <details><summary>मूलम्</summary>
 
 तस्य तद् वचनं श्रुत्वा लङ्का सा कामरूपिणी ।  
-भूय एव पुनर्वाक्यं बभाषे परुषाक्षरम् ॥ ३५ ॥
+[^non-baroDa-CE] भूय एव पुनर्वाक्यं बभाषे परुषाक्षरम् ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1524,10 +1524,10 @@ Hearing those words of his, that shape-shifting (_kāmarūpiṇī_) Laṅkā onc
 
 <details><summary>मूलम्</summary>
 
-मामनिर्जित्य दुर्बुद्धे राक्षसेश्वरपालिताम् ।  
-न शक्यं ह्यद्य ते द्रष्टुं पुरीयं वानराधम ॥ ३६ ॥
+[^non-baroDa-CE] मामनिर्जित्य दुर्बुद्धे राक्षसेश्वरपालिताम् ।  
+[^non-baroDa-CE] न शक्यं ह्यद्य ते द्रष्टुं पुरीयं वानराधम ॥ ३६ ॥
 _________________
-मामनिर्जित्य दुर्बुद्धे राक्षसेश्वरपालिताम् ।  
+[^non-baroDa-CE] मामनिर्जित्य दुर्बुद्धे राक्षसेश्वरपालिताम् ।  
 न शक्यमद्य ते द्रष्टुं पुरीयं वानराधम ॥
 </details>
 
@@ -1602,8 +1602,8 @@ Struck fiercely by the roaring Laṅkā with her open palm, Hanumān restrains h
 
 <details><summary>मूलम्</summary>
 
-ततः स हरिशार्दूलस्तामुवाच निशाचरीम् ।  
-दृष्ट्वा पुरीमिमां भद्रे पुनर्यास्ये यथागतम् ॥ ३७ ॥
+[^non-baroDa-CE] ततः स हरिशार्दूलस्तामुवाच निशाचरीम् ।  
+[^non-baroDa-CE] दृष्ट्वा पुरीमिमां भद्रे पुनर्यास्ये यथागतम् ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1655,10 +1655,10 @@ Then that tiger among monkeys (_hariśārdūlaḥ_) spoke to that night-roaming 
 <details><summary>मूलम्</summary>
 
 ततः कृत्वा महानादं सा वै लङ्का भयङ्करम् ।  
-तलेन वानरश्रेष्ठं ताडयामास वेगिता ॥ ३८ ॥
+[^non-baroDa-CE] तलेन वानरश्रेष्ठं ताडयामास वेगिता ॥ ३८ ॥
 _________________
 ततः कृत्वा महानादं सा वै लङ्का भयावहम् ।  
-तलेन वानरश्रेष्ठं ताडयामास वेगिता ॥
+[^non-baroDa-CE] तलेन वानरश्रेष्ठं ताडयामास वेगिता ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1703,7 +1703,7 @@ Then Laṅkā, uttering a mighty and terrifying roar (_mahānādaṃ bhayaṃkar
 <details><summary>मूलम्</summary>
 
 ततः स हरिशार्दूलो लङ्कया ताडितो भृशम् ।  
-ननाद सुमहानादं वीर्यवान् मारुतात्मजः ॥ ३९ ॥
+[^non-baroDa-CE] ननाद सुमहानादं वीर्यवान् मारुतात्मजः ॥ ३९ ॥
 _________________
 ततः स कपिशार्दूलो लङ्कया ताडितो भृशम् ।  
 ननाद सुमहानादं वीर्यवान् पवनात्मजः ॥
@@ -1756,8 +1756,8 @@ Then that valorous son of the Wind-god, tiger among monkeys, struck hard by La�
 
 <details><summary>मूलम्</summary>
 
-ततः संवर्तयामास वामहस्तस्य सोऽङ्गुलीः ।  
-मुष्टिनाभिजघानैनां हनुमान् क्रोधर्मूच्छितः ॥ ४० ॥
+[^non-baroDa-CE] ततः संवर्तयामास वामहस्तस्य सोऽङ्गुलीः ।  
+[^non-baroDa-CE] मुष्टिनाभिजघानैनां हनुमान् क्रोधर्मूच्छितः ॥ ४० ॥
 _________________
 ततः संवर्तयामास वामहस्तस्य सोङ्गुलीः ।  
 मुष्टिनाभिजघानैनां हनूमान् क्रोधमूर्छितः ॥
@@ -1814,9 +1814,9 @@ Then Hanumān, incensed with wrath (_krodhamūrcchitaḥ_), folded the fingers o
 
 <details><summary>मूलम्</summary>
 
-स्त्री चेति मन्यमानेन नातिक्रोधः स्वयं कृतः ।  
-सा तु तेन प्रहारेण विह्वलाङ्गी निशाचरी ।  
-पपात सहसा भूमौ विकृताननदर्शना ॥ ४१ ॥
+[^non-baroDa-CE] स्त्री चेति मन्यमानेन नातिक्रोधः स्वयं कृतः ।  
+[^non-baroDa-CE] सा तु तेन प्रहारेण विह्वलाङ्गी निशाचरी ।  
+[^non-baroDa-CE] पपात सहसा भूमौ विकृताननदर्शना ॥ ४१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1855,8 +1855,8 @@ Filled with compassion for the fallen female guardian, Hanumān spares her life;
 
 <details><summary>मूलम्</summary>
 
-ततस्तु हनुमान् वीरस्तां दृष्ट्वा विनिपातिताम् ।  
-कृपां चकार तेजस्वी मन्यमानः स्त्रियं च ताम् ॥ ४२ ॥
+[^non-baroDa-CE] ततस्तु हनुमान् वीरस्तां दृष्ट्वा विनिपातिताम् ।  
+[^non-baroDa-CE] कृपां चकार तेजस्वी मन्यमानः स्त्रियं च ताम् ॥ ४२ ॥
 _________________
 ततस्तु हनुमान् प्राज्ञस्तां दृष्ट्वा विनिपातिताम् ।
 कृपां चकार तेजस्वी मन्यमानः स्त्रियं तु ताम् ।
@@ -1907,7 +1907,7 @@ Then the heroic and radiant Hanumān, beholding her struck down (_vinipātitām_
 <details><summary>मूलम्</summary>
 
 ततो वै भृशमुद्विग्ना लङ्का सा गद‍्गदाक्षरम् ।  
-उवाचागर्वितं वाक्यं हनुमन्तं प्लवङ्गमम् ॥ ४३ ॥
+[^non-baroDa-CE] उवाचागर्वितं वाक्यं हनुमन्तं प्लवङ्गमम् ॥ ४३ ॥
 _________________
 ततो वै भृशसंविग्ना लङ्का सा गद्गदाक्षरम् ।
 उवाचागर्वितं वाक्यं हनूमन्तं प्लवङ्गमम् ।
@@ -1957,8 +1957,8 @@ Then that Laṅkā, sorely terrified (_bhṛśam udvignā_), spoke an unboastful
 
 <details><summary>मूलम्</summary>
 
-प्रसीद सुमहाबाहो त्रायस्व हरिसत्तम ।  
-समये सौम्य तिष्ठन्ति सत्त्ववन्तो महाबलाः ॥ ४४ ॥
+[^non-baroDa-CE] प्रसीद सुमहाबाहो त्रायस्व हरिसत्तम ।  
+[^non-baroDa-CE] समये सौम्य तिष्ठन्ति सत्त्ववन्तो महाबलाः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2006,7 +2006,7 @@ great strength and courage always stand firm on tradition."
 <details><summary>मूलम्</summary>
 
 अहं तु नगरी लङ्का स्वयमेव प्लवङ्गम ।  
-निर्जिताहं त्वया वीर विक्रमेण महाबल ॥ ४५ ॥
+[^non-baroDa-CE] निर्जिताहं त्वया वीर विक्रमेण महाबल ॥ ४५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2045,8 +2045,8 @@ I myself, O leaper, am the city of Laṅkā; I have been vanquished (_nirjitāha
 
 <details><summary>मूलम्</summary>
 
-इदं च तथ्यं शृणु मे ब्रुवन्त्या वै हरीश्वर ।  
-स्वयं स्वयम्भुवा दत्तं वरदानं यथा मम ॥ ४६ ॥
+[^non-baroDa-CE] इदं च तथ्यं शृणु मे ब्रुवन्त्या वै हरीश्वर ।  
+[^non-baroDa-CE] स्वयं स्वयम्भुवा दत्तं वरदानं यथा मम ॥ ४६ ॥
 _________________
 इदं च तथ्यं शृणु वै ब्रुवन्त्या मे हरीश्वर ।
 स्वयम्भुवा पुरा दत्तं वरदानं यथा मम ।
@@ -2123,8 +2123,8 @@ Recounting Brahmā's infallible decree that a monkey's victory over her would he
 
 <details><summary>मूलम्</summary>
 
-यदा त्वां वानरः कश्चिद् विक्रमाद् वशमानयेत् ।  
-तदा त्वया हि विज्ञेयं रक्षसां भयमागतम् ॥ ४७ ॥
+[^non-baroDa-CE] यदा त्वां वानरः कश्चिद् विक्रमाद् वशमानयेत् ।  
+[^non-baroDa-CE] तदा त्वया हि विज्ञेयं रक्षसां भयमागतम् ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2156,8 +2156,8 @@ Recounting Brahmā's infallible decree that a monkey's victory over her would he
 
 <details><summary>मूलम्</summary>
 
-स हि मे समयः सौम्य प्राप्तोऽद्य तव दर्शनात् ।  
-स्वयम्भूविहितः सत्यो न तस्यास्ति व्यतिक्रमः ॥ ४८ ॥
+[^non-baroDa-CE] स हि मे समयः सौम्य प्राप्तोऽद्य तव दर्शनात् ।  
+[^non-baroDa-CE] स्वयम्भूविहितः सत्यो न तस्यास्ति व्यतिक्रमः ॥ ४८ ॥
 _________________
 स्वयम्भुविहितः सत्यो न तस्यास्ति व्यतिक्रमः ।
 </details>
@@ -2226,8 +2226,8 @@ That appointed time of mine (_sa hi me samayaḥ_), gentle sir, has arrived toda
 
 <details><summary>मूलम्</summary>
 
-सीतानिमित्तं राज्ञस्तु रावणस्य दुरात्मनः ।  
-रक्षसां चैव सर्वेषां विनाशः समुपागतः ॥ ४९ ॥
+[^non-baroDa-CE] सीतानिमित्तं राज्ञस्तु रावणस्य दुरात्मनः ।  
+[^non-baroDa-CE] रक्षसां चैव सर्वेषां विनाशः समुपागतः ॥ ४९ ॥
 _________________
 रक्षसां चैव सर्वेषां विनाशः समुपस्थितः ।
 </details>
@@ -2261,8 +2261,8 @@ On account of Sītā (_sītānimittam_), the destruction (_vināśaḥ_) of the 
 
 <details><summary>मूलम्</summary>
 
-तत् प्रविश्य हरिश्रेष्ठ पुरीं रावणपालिताम् ।  
-विधत्स्व सर्वकार्याणि यानि यानीह वाञ्छसि ॥ ५० ॥
+[^non-baroDa-CE] तत् प्रविश्य हरिश्रेष्ठ पुरीं रावणपालिताम् ।  
+[^non-baroDa-CE] विधत्स्व सर्वकार्याणि यानि यानीह वाञ्छसि ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2329,10 +2329,10 @@ Therefore, O best of monkeys, enter the city ruled by Rāvaṇa and accomplish a
 
 <details><summary>मूलम्</summary>
 
-प्रविश्य शापोपहतां हरीश्वर  
-पुरीं शुभां राक्षसमुख्यपालिताम् ।  
-यदृच्छया त्वं जनकात्मजां सतीं  
-विमार्ग सर्वत्र गतो यथासुखम् ॥ ५१ ॥
+[^non-baroDa-CE] प्रविश्य शापोपहतां हरीश्वर  
+[^non-baroDa-CE] पुरीं शुभां राक्षसमुख्यपालिताम् ।  
+[^non-baroDa-CE] यदृच्छया त्वं जनकात्मजां सतीं  
+[^non-baroDa-CE] विमार्ग सर्वत्र गतो यथासुखम् ॥ ५१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2388,3 +2388,4 @@ Entering at will (_yadṛcchayā_), O lord of monkeys, this auspicious, curse-sm
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

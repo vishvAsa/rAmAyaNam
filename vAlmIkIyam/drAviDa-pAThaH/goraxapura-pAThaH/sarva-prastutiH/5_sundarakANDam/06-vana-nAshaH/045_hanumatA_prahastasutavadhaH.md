@@ -782,8 +782,8 @@ The elephants trumpeted discordantly (_vinedur visvaraṃ nāgāḥ_), the steed
 
 <details><summary>मूलम्</summary>
 
-स्रवता रुधिरेणाथ स्रवन्त्यो दर्शिताः पथि ।  
-विविधैश्च स्वनैर्लङ्का ननाद विकृतं तदा ॥ १६ ॥
+[^non-baroDa-CE] स्रवता रुधिरेणाथ स्रवन्त्यो दर्शिताः पथि ।  
+[^non-baroDa-CE] विविधैश्च स्वनैर्लङ्का ननाद विकृतं तदा ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -899,3 +899,4 @@ Having slain those haughty Rākṣasas (_tān pravṛddhān vinihatya rākṣas�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

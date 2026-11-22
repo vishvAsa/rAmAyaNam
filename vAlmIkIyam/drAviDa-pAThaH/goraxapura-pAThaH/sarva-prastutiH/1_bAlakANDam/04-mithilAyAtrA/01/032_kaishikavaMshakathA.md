@@ -53,7 +53,7 @@ Tracing the royal lineage of his own ancestors, Viśvāmitra recounts how Brahm�
 <details><summary>मूलम्</summary>
 
 ब्रह्मयोनिर्महानासीत् कुशो नाम महातपाः ।  
-अक्लिष्टव्रतधर्मज्ञः सज्जनप्रतिपूजकः ॥ १ ॥
+[^non-baroDa-CE] अक्लिष्टव्रतधर्मज्ञः सज्जनप्रतिपूजकः ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -111,7 +111,7 @@ Answering Rāma’s inquiry regarding the Śoṇā valley, Viśvāmitra reveals 
 
 <details><summary>मूलम्</summary>
 
-स महात्मा कुलीनायां युक्तायां सुमहाबलान् ।  
+[^non-baroDa-CE] स महात्मा कुलीनायां युक्तायां सुमहाबलान् ।  
 वैदर्भ्यां जनयामास चतुरः सदृशान् सुतान् ॥ २ ॥
 </details>
 
@@ -1005,8 +1005,8 @@ Construing vv. 12–13 as a single syntactic unit (_ślokadvayam ekānvayi_, **G
 
 <details><summary>मूलम्</summary>
 
-चलं हि यौवनं नित्यं मानुषेषु विशेषतः ।  
-अक्षयं यौवनं प्राप्ता अमर्यश्च भविष्यथ ॥ १७ ॥
+[^non-baroDa-CE] चलं हि यौवनं नित्यं मानुषेषु विशेषतः ।  
+[^non-baroDa-CE] अक्षयं यौवनं प्राप्ता अमर्यश्च भविष्यथ ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1394,7 +1394,7 @@ Incensed by their refusal, the mighty Wind-god enters their bodies and bends all
 
 तासां तु वचनं श्रुत्वा हरिः परमकोपनः ।  
 प्रविश्य सर्वगात्राणि बभञ्ज भगवान् प्रभुः ॥ २३ ॥  
-अरत्निमात्राकृतयो भग्नगात्रा भयार्दिताः ।
+[^non-baroDa-CE] अरत्निमात्राकृतयो भग्नगात्रा भयार्दिताः ।
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -1455,7 +1455,7 @@ In the Southern reading _hariḥ_, **Tilaka** and **Śiromaṇi** note that _Har
 <details><summary>मूलम्</summary>
 
 ताः कन्या वायुना भग्ना विविशुर्नृपतेर्गृहम् ।  
-प्रविश्य च सुसम्भ्रान्ताः सलज्जाः सास्रलोचनाः ॥ २४ ॥
+[^non-baroDa-CE] प्रविश्य च सुसम्भ्रान्ताः सलज्जाः सास्रलोचनाः ॥ २४ ॥
 _________________
 ताः कन्या वायुना भग्ना विविशुर्नृपतेर्गृहम् ।  
 प्रविश्च च सम्भ्रान्ताः सलज्जाः सास्रलोचनाः ॥
@@ -1525,7 +1525,7 @@ Bowed down to the measure of a cubit (_aratnimātrākṛtayaḥ_), the hundred p
 
 <details><summary>मूलम्</summary>
 
-स च ता दयिता भग्नाः कन्याः परमशोभनाः ।  
+[^non-baroDa-CE] स च ता दयिता भग्नाः कन्याः परमशोभनाः ।  
 दृष्ट्वा दीनास्तदा राजा सम्भ्रान्त इदमब्रवीत् ॥ २५ ॥
 </details>
 
@@ -1654,3 +1654,5 @@ _________________
 **Tilaka** and **Govindarāja** gloss _dharmam avamanyate_ as “commits violent outrage” (_balātkāraṃ karoti_). Seeing them gesturing in tears without speaking (_rodanādinā ceṣṭantyaḥ_), Kuśanābha sighs and enters _samādhi_—fixed attention to hear their explanation (_tadvacaḥśravaṇaikāgracitto ’bhūt_, **Tilaka**, **Govindarāja**), or meditative reflection (**Śiromaṇi**).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

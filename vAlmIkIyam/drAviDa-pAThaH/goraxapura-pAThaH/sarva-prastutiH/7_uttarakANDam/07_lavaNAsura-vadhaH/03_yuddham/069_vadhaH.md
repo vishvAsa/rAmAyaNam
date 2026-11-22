@@ -825,7 +825,7 @@ Brahmā reveals that the dazzling arrow held by Śatrughna is none other than Vi
 
 <details><summary>मूलम्</summary>
 
-उवाच मधुरां वाणीं शृणुध्वं सर्वदेवताः ।  
+[^non-baroDa-CE] उवाच मधुरां वाणीं शृणुध्वं सर्वदेवताः ।  
 वधाय लवणस्याजौ शरः शत्रुघ्नधारितः ॥ २५ ॥  
 तेजसा तस्य सम्मूढाः सर्वे स्म सुरसत्तमाः ।
 </details>
@@ -1216,10 +1216,10 @@ Thereupon the gods, sages, and serpents, along with all the apsarases, paid him 
 
 <details><summary>मूलम्</summary>
 
-ततो हि देवा ऋषिपन्नगाश्च  
-प्रपूजिरे ह्यप्सरसश्च सर्वाः ।  
-दिष्ट्या जयो दाशरथेरवाप्त-  
-स्त्यक्त्वा भयं सर्प इव प्रशान्तः ॥ ४० ॥
+[^non-baroDa-CE] ततो हि देवा ऋषिपन्नगाश्च  
+[^non-baroDa-CE] प्रपूजिरे ह्यप्सरसश्च सर्वाः ।  
+[^non-baroDa-CE] दिष्ट्या जयो दाशरथेरवाप्त-  
+[^non-baroDa-CE] स्त्यक्त्वा भयं सर्प इव प्रशान्तः ॥ ४० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1239,3 +1239,4 @@ Thereupon the gods, sages, and serpents, along with all the apsarases, paid him 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

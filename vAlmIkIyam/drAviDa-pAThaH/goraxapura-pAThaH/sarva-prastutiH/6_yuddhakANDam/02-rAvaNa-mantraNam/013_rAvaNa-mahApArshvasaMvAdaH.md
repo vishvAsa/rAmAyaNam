@@ -42,7 +42,7 @@ Seeing Rāvaṇa angered by Kumbhakarṇa's rebuke, the sycophantic Mahāpārśv
 
 <details><summary>मूलम्</summary>
 
-रावणं क्रुद्धमाज्ञाय महापार्श्वो महाबलः ।  
+[^non-baroDa-CE] रावणं क्रुद्धमाज्ञाय महापार्श्वो महाबलः ।  
 मुहूर्तमनुसञ्चिन्त्य प्राञ्जलिर्वाक्यमब्रवीत् ॥ १ ॥
 _________________
 रावणं कुद्धमाज्ञाय महापार्श्वो महाबलः ।  
@@ -91,8 +91,8 @@ Perceiving Rāvaṇa to be enraged (_kruddham ājñāya_), the mighty Mahāpār�
 
 <details><summary>मूलम्</summary>
 
-यः खल्वपि वनं प्राप्य मृगव्यालनिषेवितम् ।  
-न पिबेन्मधु सम्प्राप्य स नरो बालिशो भवेत् ॥ २ ॥
+[^non-baroDa-CE] यः खल्वपि वनं प्राप्य मृगव्यालनिषेवितम् ।  
+[^non-baroDa-CE] न पिबेन्मधु सम्प्राप्य स नरो बालिशो भवेत् ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -144,8 +144,8 @@ vicious elephants and having duly found honey, does not drink it."
 
 <details><summary>मूलम्</summary>
 
-ईश्वरस्येश्वरः कोऽस्ति तव शत्रुनिबर्हण ।  
-रमस्व सह वैदेह्या शत्रूनाक्रम्य मूर्धसु ॥ ३ ॥
+[^non-baroDa-CE] ईश्वरस्येश्वरः कोऽस्ति तव शत्रुनिबर्हण ।  
+[^non-baroDa-CE] रमस्व सह वैदेह्या शत्रूनाक्रम्य मूर्धसु ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -190,11 +190,11 @@ foot upon the heads of your enemies, take pleasure with Sita."
 
 <details><summary>मूलम्</summary>
 
-बलात् कुक्कुटवृत्तेन प्रवर्तस्व महाबल ।  
-आक्रम्याक्रम्य सीतां वै तां भुङ्क्ष्व च रमस्व च ॥ ४ ॥
+[^non-baroDa-CE] बलात् कुक्कुटवृत्तेन प्रवर्तस्व महाबल ।  
+[^non-baroDa-CE] आक्रम्याक्रम्य सीतां वै तां भुङ्क्ष्व च रमस्व च ॥ ४ ॥
 _________________
 बलात्कुक्कुटवृत्तेन प्रवर्तस्व सुमहाबल ।  
-आक्रम्याक्रम्य सीतांवै तां भुङ्क्ष्व चरमस्वच ॥
+[^non-baroDa-CE] आक्रम्याक्रम्य सीतांवै तां भुङ्क्ष्व चरमस्वच ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -245,8 +245,8 @@ her. Enjoy that Sita, by charging on her again and again and revel with her."
 
 <details><summary>मूलम्</summary>
 
-लब्धकामस्य ते पश्चादागमिष्यति किं भयम् ।  
-प्राप्तमप्राप्तकालं वा सर्वं प्रतिविधास्यसे ॥ ५ ॥
+[^non-baroDa-CE] लब्धकामस्य ते पश्चादागमिष्यति किं भयम् ।  
+[^non-baroDa-CE] प्राप्तमप्राप्तकालं वा सर्वं प्रतिविधास्यसे ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -297,8 +297,8 @@ to come will be prevented (by us)."
 
 <details><summary>मूलम्</summary>
 
-कुम्भकर्णः सहास्माभिरिन्द्रजिच्च महाबलः ।  
-प्रतिषेधयितुं शक्तौ सवज्रमपि वज्रिणम् ॥ ६ ॥
+[^non-baroDa-CE] कुम्भकर्णः सहास्माभिरिन्द्रजिच्च महाबलः ।  
+[^non-baroDa-CE] प्रतिषेधयितुं शक्तौ सवज्रमपि वज्रिणम् ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -351,10 +351,10 @@ Mahāpārśva champions martial force over diplomacy, prompting Rāvaṇa to dis
 
 <details><summary>मूलम्</summary>
 
-उपप्रदानं सान्त्वं वा भेदं वा कुशलैः कृतम् ।  
-समतिक्रम्य दण्डेन सिद्धिमर्थेषु रोचये ॥ ७ ॥
+[^non-baroDa-CE] उपप्रदानं सान्त्वं वा भेदं वा कुशलैः कृतम् ।  
+[^non-baroDa-CE] समतिक्रम्य दण्डेन सिद्धिमर्थेषु रोचये ॥ ७ ॥
 _________________
-उपप्रदानं सान्त्वं वा भेदं वा कुशलैः कृतम् ।  
+[^non-baroDa-CE] उपप्रदानं सान्त्वं वा भेदं वा कुशलैः कृतम् ।  
 सुमतिक्रम्य दण्डेन सिद्धिमर्थेषु रोचये ॥
 </details>
 
@@ -402,11 +402,11 @@ means."
 
 <details><summary>मूलम्</summary>
 
-इह प्राप्तान् वयं सर्वाञ्छत्रूंस्तव महाबल ।  
-वशे शस्त्रप्रतापेन करिष्यामो न संशयः ॥ ८ ॥
+[^non-baroDa-CE] इह प्राप्तान् वयं सर्वाञ्छत्रूंस्तव महाबल ।  
+[^non-baroDa-CE] वशे शस्त्रप्रतापेन करिष्यामो न संशयः ॥ ८ ॥
 _________________
 इह प्राप्तान्वयं सर्वान् शत्रूंस्तव महाबल ।  
-वशे शस्त्रप्रतापेन करिष्यामो न संशयः ॥
+[^non-baroDa-CE] वशे शस्त्रप्रतापेन करिष्यामो न संशयः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -452,8 +452,8 @@ surrender, by the power of our weapons. There is no doubt about it."
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तदा राजा महापार्श्वेन रावणः ।  
-तस्य सम्पूजयन् वाक्यमिदं वचनमब्रवीत् ॥ ९ ॥
+[^non-baroDa-CE] एवमुक्तस्तदा राजा महापार्श्वेन रावणः ।  
+[^non-baroDa-CE] तस्य सम्पूजयन् वाक्यमिदं वचनमब्रवीत् ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -505,7 +505,7 @@ Thus addressed then by Mahāpārśva, King Rāvaṇa, applauding his speech (_ta
 <details><summary>मूलम्</summary>
 
 महापार्श्व निबोध त्वं रहस्यं किञ्चिदात्मनः ।  
-चिरवृत्तं तदाख्यास्ये यदवाप्तं पुरा मया ॥ १० ॥
+[^non-baroDa-CE] चिरवृत्तं तदाख्यास्ये यदवाप्तं पुरा मया ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -551,8 +551,8 @@ occurred to me long ago."
 
 <details><summary>मूलम्</summary>
 
-पितामहस्य भवनं गच्छन्तीं पुञ्जिकस्थलाम् ।  
-चञ्चूर्यमाणामद्राक्षमाकाशेऽग्निशिखामिव ॥ ११ ॥
+[^non-baroDa-CE] पितामहस्य भवनं गच्छन्तीं पुञ्जिकस्थलाम् ।  
+[^non-baroDa-CE] चञ्चूर्यमाणामद्राक्षमाकाशेऽग्निशिखामिव ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -611,8 +611,8 @@ Rāvaṇa confesses that after he ravished Puñjikasthalā, Brahmā cursed his h
 
 <details><summary>मूलम्</summary>
 
-सा प्रसह्य मया भुक्ता कृता विवसना ततः ।  
-स्वयम्भूभवनं प्राप्ता लोलिता नलिनी यथा ॥ १२ ॥
+[^non-baroDa-CE] सा प्रसह्य मया भुक्ता कृता विवसना ततः ।  
+[^non-baroDa-CE] स्वयम्भूभवनं प्राप्ता लोलिता नलिनी यथा ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -657,7 +657,7 @@ crumpled lotus, she went to the abode of Brahma."
 
 <details><summary>मूलम्</summary>
 
-तच्च तस्य तथा मन्ये ज्ञातमासीन्महात्मनः ।  
+[^non-baroDa-CE] तच्च तस्य तथा मन्ये ज्ञातमासीन्महात्मनः ।  
 अथ सङ्कुपितो वेधा मामिदं वाक्यमब्रवीत् ॥ १३ ॥
 _________________
 तस्य तच्च तथा मन्ये ज्ञातमासीन्महात्मनः ।  
@@ -787,8 +787,8 @@ Claiming invincibility against Indra and Varuṇa in battle (युधा सं
 
 <details><summary>मूलम्</summary>
 
-अद्यप्रभृति यामन्यां बलान्नारीं गमिष्यसि ।  
-तदा ते शतधा मूर्धा फलिष्यति न संशयः ॥ १४ ॥
+[^non-baroDa-CE] अद्यप्रभृति यामन्यां बलान्नारीं गमिष्यसि ।  
+[^non-baroDa-CE] तदा ते शतधा मूर्धा फलिष्यति न संशयः ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -840,8 +840,8 @@ undoubtedly will break asunder into a hundred pieces."
 
 <details><summary>मूलम्</summary>
 
-इत्यहं तस्य शापस्य भीतः प्रसभमेव ताम् ।  
-नारोहये बलात् सीतां वैदेहीं शयने शुभे ॥ १५ ॥
+[^non-baroDa-CE] इत्यहं तस्य शापस्य भीतः प्रसभमेव ताम् ।  
+[^non-baroDa-CE] नारोहये बलात् सीतां वैदेहीं शयने शुभे ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -892,8 +892,8 @@ the daughter of Videha, to mount on my beautiful bed forcibly."
 
 <details><summary>मूलम्</summary>
 
-सागरस्येव मे वेगो मारुतस्येव मे गतिः ।  
-नैतद् दाशरथिर्वेद ह्यासादयति तेन माम् ॥ १६ ॥
+[^non-baroDa-CE] सागरस्येव मे वेगो मारुतस्येव मे गतिः ।  
+[^non-baroDa-CE] नैतद् दाशरथिर्वेद ह्यासादयति तेन माम् ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -953,8 +953,8 @@ Likening himself to a cave-sleeping lion and the rising sun effacing the stars, 
 
 <details><summary>मूलम्</summary>
 
-को हि सिंहमिवासीनं सुप्तं गिरिगुहाशये ।  
-क्रुद्धं मृत्युमिवासीनं प्रबोधयितुमिच्छति ॥ १७ ॥
+[^non-baroDa-CE] को हि सिंहमिवासीनं सुप्तं गिरिगुहाशये ।  
+[^non-baroDa-CE] क्रुद्धं मृत्युमिवासीनं प्रबोधयितुमिच्छति ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1005,7 +1005,7 @@ asleep, sitting at a place in a mountain cave or arouse into activity an enraged
 
 <details><summary>मूलम्</summary>
 
-न मत्तो निर्गतान् बाणान् द्विजिह्वान् पन्नगानिव ।  
+[^non-baroDa-CE] न मत्तो निर्गतान् बाणान् द्विजिह्वान् पन्नगानिव ।  
 रामः पश्यति सङ्ग्रामे तेन मामभिगच्छति ॥ १८ ॥
 </details>
 
@@ -1058,11 +1058,11 @@ me. That is why he is marching against me for a battle"
 
 <details><summary>मूलम्</summary>
 
-क्षिप्रं वज्रसमैर्बाणैः शतधा कार्मुकच्युतैः ।  
-राममादीपयिष्यामि उल्काभिरिव कुञ्जरम् ॥ १९ ॥
+[^non-baroDa-CE] क्षिप्रं वज्रसमैर्बाणैः शतधा कार्मुकच्युतैः ।  
+[^non-baroDa-CE] राममादीपयिष्यामि उल्काभिरिव कुञ्जरम् ॥ १९ ॥
 _________________
 क्षिप्रं वज्रोपमैर्बाणैः शतधा कार्मुकच्युतैः ।  
-राममादीपयिष्यामि उल्काभिरिव कुञ्जरम् ॥
+[^non-baroDa-CE] राममादीपयिष्यामि उल्काभिरिव कुञ्जरम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1113,8 +1113,8 @@ discharged from my bow, like tormenting an elephant with fire brands."
 
 <details><summary>मूलम्</summary>
 
-तच्चास्य बलमादास्ये बलेन महता वृतः ।  
-उदितः सविता काले नक्षत्राणां प्रभामिव ॥ २० ॥
+[^non-baroDa-CE] तच्चास्य बलमादास्ये बलेन महता वृतः ।  
+[^non-baroDa-CE] उदितः सविता काले नक्षत्राणां प्रभामिव ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1161,10 +1161,10 @@ at dawn takes away radiance of the stars."
 
 <details><summary>मूलम्</summary>
 
-न वासवेनापि सहस्रचक्षुषा  
-युधास्मि शक्यो वरुणेन वा पुनः ।  
-मया त्वियं बाहुबलेन निर्जिता  
-पुरा पुरी वैश्रवणेन पालिता ॥ २१ ॥
+[^non-baroDa-CE] न वासवेनापि सहस्रचक्षुषा  
+[^non-baroDa-CE] युधास्मि शक्यो वरुणेन वा पुनः ।  
+[^non-baroDa-CE] मया त्वियं बाहुबलेन निर्जिता  
+[^non-baroDa-CE] पुरा पुरी वैश्रवणेन पालिता ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1213,3 +1213,4 @@ of riches) was conquered by me with the power of my arms."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

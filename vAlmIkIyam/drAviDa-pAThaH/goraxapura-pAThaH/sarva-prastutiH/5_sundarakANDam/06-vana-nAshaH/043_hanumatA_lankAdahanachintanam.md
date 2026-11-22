@@ -149,7 +149,7 @@ as a mountain-top of Meru.
 <details><summary>मूलम्</summary>
 
 आरुह्य गिरिसङ्काशं प्रासादं हरियूथपः ।  
-बभौ स सुमहातेजाः प्रतिसूर्य इवोदितः ॥ ४ ॥
+[^non-baroDa-CE] बभौ स सुमहातेजाः प्रतिसूर्य इवोदितः ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -579,7 +579,7 @@ Because of that mighty roar (_tena nādena mahatā_), a hundred guards of the sa
 <details><summary>मूलम्</summary>
 
 विसृजन्तो महाकाया मारुतिं पर्यवारयन् ।  
-ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः ॥ १४ ॥  
+[^non-baroDa-CE] ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः ॥ १४ ॥  
 आजग्मुर्वानरश्रेष्ठं बाणैश्चादित्यसन्निभैः ।
 _________________
 आजघ्नुर्वानरश्रेष्ठं बाणैश्चादित्यसन्निभैः ।
@@ -672,7 +672,7 @@ Whirling the hundred-edged pillar until friction ignites the sanctuary-palace in
 प्रासादस्य महांस्तस्य स्तम्भं हेमपरिष्कृतम् ।  
 उत्पाटयित्वा वेगेन हनूमान् मारुतात्मजः ॥ १७ ॥  
 ततस्तं भ्रामयामास शतधारं महाबलः ।  
-तत्र चाग्निः समभवत् प्रासादश्चाप्यदह्यत ॥ १८ ॥
+[^non-baroDa-CE] तत्र चाग्निः समभवत् प्रासादश्चाप्यदह्यत ॥ १८ ॥
 _________________
 उत्पाटयित्वा वेगेन हनुमान् पवनात्मजः ।
 प्रासादस्य महान्तस्य स्तम्भं हेमपरिष्कृतम् ।
@@ -729,11 +729,11 @@ then speedily whirled it around.
 
 <details><summary>मूलम्</summary>
 
-दह्यमानं ततो दृष्ट्वा प्रासादं हरियूथपः ।  
+[^non-baroDa-CE] दह्यमानं ततो दृष्ट्वा प्रासादं हरियूथपः ।  
 स राक्षसशतं हत्वा वज्रेणेन्द्र इवासुरान् ॥ १९ ॥  
 अन्तरिक्षस्थितः श्रीमानिदं वचनमब्रवीत् ।
 _________________
-दह्यमानं ततो दृष्ट्वा प्रासादं हरियूथपः ।  
+[^non-baroDa-CE] दह्यमानं ततो दृष्ट्वा प्रासादं हरियूथपः ।  
 स राक्षसशतं हत्वा वज्रेणेन्द्र इवासुरान् ।  
 अन्तरिक्षे स्थितः श्रीमानिदं वचनमब्रवीत् ॥
 </details>
@@ -819,9 +819,9 @@ Declaring that Vānara warriors possessing the strength of ten to a thousand ele
 
 <details><summary>मूलम्</summary>
 
-अटन्ति वसुधां कृत्स्नां वयमन्ये च वानराः ॥ २१ ॥  
-दशनागबलाः केचित् केचिद् दशगुणोत्तराः ।  
-केचिन्नागसहस्रस्य बभूवुस्तुल्यविक्रमाः ॥ २२ ॥
+[^non-baroDa-CE] अटन्ति वसुधां कृत्स्नां वयमन्ये च वानराः ॥ २१ ॥  
+[^non-baroDa-CE] दशनागबलाः केचित् केचिद् दशगुणोत्तराः ।  
+[^non-baroDa-CE] केचिन्नागसहस्रस्य बभूवुस्तुल्यविक्रमाः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -869,8 +869,8 @@ orders of Sugreeva. We and other monkeys are now roaming the entire earth."
 
 <details><summary>मूलम्</summary>
 
-सन्ति चौघबलाः केचित् सन्ति वायुबलोपमाः ।  
-अप्रमेयबलाः केचित् तत्रासन् हरियूथपाः ॥ २३ ॥
+[^non-baroDa-CE] सन्ति चौघबलाः केचित् सन्ति वायुबलोपमाः ।  
+[^non-baroDa-CE] अप्रमेयबलाः केचित् तत्रासन् हरियूथपाः ॥ २३ ॥
 _________________
 सन्ति चौघबलाः केचित् केचिद्वायुबलोपमाः ।  
 अप्रमेयबलाश्चान्ये तत्रासन् हरियूथपाः ॥
@@ -935,11 +935,11 @@ wind. Some other army-chiefs of monkeys even cannot be measured."
 
 <details><summary>मूलम्</summary>
 
-ईदृग्विधैस्तु हरिभिर्वृतो दन्तनखायुधैः ।  
+[^non-baroDa-CE] ईदृग्विधैस्तु हरिभिर्वृतो दन्तनखायुधैः ।  
 शतैः शतसहस्रैश्च कोटिभिश्चायुतैरपि ॥ २४ ॥  
 आगमिष्यति सुग्रीवः सर्वेषां वो निषूदनः ।
 _________________
-ईदृग्विधैस्तु हरिभिर्वृतो दन्तनखायुधैः ।  
+[^non-baroDa-CE] ईदृग्विधैस्तु हरिभिर्वृतो दन्तनखायुधैः ।  
 शतैः शतसहस्रैश्च कोटीभिरयुतैरपि ॥
 </details>
 
@@ -1043,3 +1043,5 @@ Neither you, nor even Ravana will survive."
 “—Sugrīva will come, the destroyer of all of you (_sarveṣāṃ vo niṣūdanaḥ_)! Neither this city of Laṅkā, nor you, nor Rāvaṇa shall exist (_neyam asti purī laṅkā na yūyaṃ na ca rāvaṇaḥ_), since enmity has been bound by him with the high-souled hero of the Ikṣvākus!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

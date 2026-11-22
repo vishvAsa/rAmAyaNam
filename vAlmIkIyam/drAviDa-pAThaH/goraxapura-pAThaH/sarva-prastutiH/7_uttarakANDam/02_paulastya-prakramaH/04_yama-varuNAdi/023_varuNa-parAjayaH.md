@@ -60,7 +60,7 @@ Then, having vanquished Yama, foremost among the thirty gods (_yamaṃ tridaśa-
 
 <details><summary>मूलम्</summary>
 
-ततो रुधिरसिक्ताङ्गं प्रहारैर्जर्जरीकृतम् ।  
+[^non-baroDa-CE] ततो रुधिरसिक्ताङ्गं प्रहारैर्जर्जरीकृतम् ।  
 रावणं राक्षसा दृष्ट्वा विस्मयं समुपागमन् ॥ २ ॥
 </details>
 
@@ -260,8 +260,8 @@ Those exceedingly valiant and powerful sons of Diti (_suvikrāntā daiteyā bala
 
 <details><summary>मूलम्</summary>
 
-शूलैस्त्रिशूलैः कुलिशैः पट्टिशासिपरश्वधैः ।  
-अन्योन्यं बिभिदुः क्रुद्धा राक्षसा दानवास्तथा ॥ ८ ॥
+[^non-baroDa-CE] शूलैस्त्रिशूलैः कुलिशैः पट्टिशासिपरश्वधैः ।  
+[^non-baroDa-CE] अन्योन्यं बिभिदुः क्रुद्धा राक्षसा दानवास्तथा ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -554,9 +554,9 @@ Then, having mastered and acquired one hundred of their illusions (_upadhārya m
 <details><summary>मूलम्</summary>
 
 ततोऽश्मनगरं नाम कालकेयैरधिष्ठितम् ।  
-गत्वा तु कालकेयांश्च हत्वा तत्र बलोत्कटान् ॥ १७ ॥  
-शूर्पणख्याश्च भर्तारमसिना प्राच्छिनत् तदा ।  
-श्यालं च बलवन्तं च विद्युज्जिह्वं बलोत्कटम् ॥ १८ ॥  
+[^non-baroDa-CE] गत्वा तु कालकेयांश्च हत्वा तत्र बलोत्कटान् ॥ १७ ॥  
+[^non-baroDa-CE] शूर्पणख्याश्च भर्तारमसिना प्राच्छिनत् तदा ।  
+[^non-baroDa-CE] श्यालं च बलवन्तं च विद्युज्जिह्वं बलोत्कटम् ॥ १८ ॥  
 जिह्वया संलिहन्तं च राक्षसं समरे तदा ।
 </details>
 
@@ -663,7 +663,7 @@ And there he saw stationed the cow Surabhi, pouring forth milk (_kṣarantīṃ 
 
 <details><summary>मूलम्</summary>
 
-ददर्श रावणस्तत्र गोवृषेन्द्रवरारणिम् ।  
+[^non-baroDa-CE] ददर्श रावणस्तत्र गोवृषेन्द्रवरारणिम् ।  
 यस्माच्चन्द्रः प्रभवति शीतरश्मिर्निशाकरः ॥ २२ ॥
 </details>
 
@@ -1488,8 +1488,8 @@ Stringing their bows (_dhanūṃṣi kṛtvā sajjāni_) and piercing Mahodara t
 
 <details><summary>मूलम्</summary>
 
-सायकैश्चापविभ्रष्टैर्वज्रकल्पैः सुदारुणैः ।  
-दारयन्ति स्म सङ्क्रुद्धा मेघा इव महागिरिम् ॥ ४२ ॥
+[^non-baroDa-CE] सायकैश्चापविभ्रष्टैर्वज्रकल्पैः सुदारुणैः ।  
+[^non-baroDa-CE] दारयन्ति स्म सङ्क्रुद्धा मेघा इव महागिरिम् ॥ ४२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1630,10 +1630,10 @@ Thereupon, overwhelmed by that very onslaught, those foot-warriors suddenly sank
 <details><summary>मूलम्</summary>
 
 सीदमानान् सुतान् दृष्ट्वा विह्वलान् स महाबलः ।  
-ननाद रावणो हर्षान्महानम्बुधरो यथा ॥ ४७ ॥
+[^non-baroDa-CE] ननाद रावणो हर्षान्महानम्बुधरो यथा ॥ ४७ ॥
 _________________
 सीदमानान् सुतान् सुष्ट्वा विह्वलान्स महाबलः ।  
-ननाद रावणो हर्षान्महानम्बुधरो यथा ॥
+[^non-baroDa-CE] ननाद रावणो हर्षान्महानम्बुधरो यथा ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1890,3 +1890,5 @@ Returning by the very path along which he had come (_āgatas tu pathā yena tena
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि इप्पत्तमूरनॆय सर्ग पूर्णवायितु. ॥23॥
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

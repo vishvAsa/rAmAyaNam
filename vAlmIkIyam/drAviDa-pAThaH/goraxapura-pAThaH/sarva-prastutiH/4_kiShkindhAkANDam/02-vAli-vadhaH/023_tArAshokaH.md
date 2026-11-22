@@ -194,7 +194,7 @@ Surely, O lord of the monkeys (_vānarendra_), the earth (_mahī_) is dearer to 
 
 <details><summary>मूलम्</summary>
 
-सुग्रीवस्य वशं प्राप्तो विधिरेष भवत्यहो ।  
+[^non-baroDa-CE] सुग्रीवस्य वशं प्राप्तो विधिरेष भवत्यहो ।  
 सुग्रीव एव विक्रान्तो वीर साहसिकप्रिय ॥ ४ ॥
 </details>
 
@@ -1683,3 +1683,4 @@ This wholesome counsel of mine (_me vacaḥ pathyam idam_) was not heeded by you
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

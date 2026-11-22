@@ -522,7 +522,7 @@ capture is viewed on a human plane, rather than a conjuror's trick.
 
 <details><summary>मूलम्</summary>
 
-न वाति मारुतस्तत्र निष्प्रभोऽभूद् दिवाकरः ।  
+[^non-baroDa-CE] न वाति मारुतस्तत्र निष्प्रभोऽभूद् दिवाकरः ।  
 दृष्ट्वा सीतां परामृष्टां देवो दिव्येन चक्षुषा ॥ १० ॥  
 कृतं कार्यमिति श्रीमान् व्याजहार पितामहः ।
 </details>
@@ -579,7 +579,7 @@ The wind did not blow there (_na vāti mārutas tatra_) and the sun grew lustrel
 
 प्रहृष्टा व्यथिताश्चासन् सर्वे ते परमर्षयः ॥ ११ ॥  
 दृष्ट्वा सीतां परामृष्टां दण्डकारण्यवासिनः ।  
-रावणस्य विनाशं च प्राप्तं बुद्‍ध्वा यदृच्छया ॥ १२ ॥
+[^non-baroDa-CE] रावणस्य विनाशं च प्राप्तं बुद्‍ध्वा यदृच्छया ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1046,7 +1046,7 @@ Though radiant as the moon cleaving a dark cloud or a golden girdle on a dark el
 बभूव जलदं नीलं भित्त्वा चन्द्र इवोदितः ।  
 सुललाटं सुकेशान्तं पद्मगर्भाभमव्रणम् ॥ १९ ॥  
 शुक्लैः सुविमलैर्दन्तैः प्रभावद्भिरलङ्कृतम् ।  
-तस्याः सुनयनं वक्त्रमाकाशे रावणाङ्कगम् ॥ २० ॥
+[^non-baroDa-CE] तस्याः सुनयनं वक्त्रमाकाशे रावणाङ्कगम् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2457,3 +2457,4 @@ Then that Maithilī of lovely teeth and pure smile (_cāru-datī śuci-smitā ma
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

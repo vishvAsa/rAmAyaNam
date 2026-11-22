@@ -191,8 +191,8 @@ Having greeted the high-souled prince with blessings of victory (_vardhayitvā_)
 <details><summary>मूलम्</summary>
 
 प्रयान्तं लक्ष्मणं दृष्ट्वा द्वाःस्थो भरतमन्तिकात् ।  
-उवाच भरतं तत्र वर्धयित्वा कृताञ्जलिः ॥ ६ ॥  
-विनयावनतो भूत्वा राजा त्वां द्रष्टुमिच्छति ।
+[^non-baroDa-CE] उवाच भरतं तत्र वर्धयित्वा कृताञ्जलिः ॥ ६ ॥  
+[^non-baroDa-CE] विनयावनतो भूत्वा राजा त्वां द्रष्टुमिच्छति ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -354,7 +354,7 @@ Hearing Rāma’s summons, Bharata leaps from his seat and hurries on foot, whil
 
 <details><summary>मूलम्</summary>
 
-द्वाःस्थस्त्वागम्य रामाय सर्वानेव कृताञ्जलिः ॥ ११ ॥  
+[^non-baroDa-CE] द्वाःस्थस्त्वागम्य रामाय सर्वानेव कृताञ्जलिः ॥ ११ ॥  
 निवेदयामास तथा भ्रातॄन् स्वान् समुपस्थितान् ।
 _________________
 द्वाःस्थस्त्वागम्य रामाय सर्वानेन कृताञ्जलिः ॥  
@@ -663,8 +663,8 @@ Embracing them with both arms (_tān pariṣvajya bāhubhyām_) and raising them
 
 <details><summary>मूलम्</summary>
 
-तथा वदति काकुत्स्थे अवधानपरायणाः ।  
-उद्विग्नमनसः सर्वे किं नु राजाभिधास्यति ॥ २१ ॥
+[^non-baroDa-CE] तथा वदति काकुत्स्थे अवधानपरायणाः ।  
+[^non-baroDa-CE] उद्विग्नमनसः सर्वे किं नु राजाभिधास्यति ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -695,3 +695,4 @@ While Kākutstha spoke thus (_tathā vadati kākutsthe_), all of them, intent in
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

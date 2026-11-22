@@ -252,7 +252,7 @@ Nor do heroes brook exalting themselves by their own mouths (_saṃbhāvayitum �
 <details><summary>मूलम्</summary>
 
 विक्लवानां ह्यबुद्धीनां राज्ञां पण्डितमानिनाम् ।  
-रोचते त्वद्वचो नित्यं कथ्यमानं महोदर ॥ ५ ॥
+[^non-baroDa-CE] रोचते त्वद्वचो नित्यं कथ्यमानं महोदर ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -599,7 +599,7 @@ I have no one equal to you in affectionate loyalty (_sauhṛdena_) and in might;
 
 <details><summary>मूलम्</summary>
 
-शयानः शत्रुनाशार्थं भवान् सम्बोधितो मया ।  
+[^non-baroDa-CE] शयानः शत्रुनाशार्थं भवान् सम्बोधितो मया ।  
 अयं हि कालः सुमहान् राक्षसानामरिन्दम ॥ १२ ॥
 </details>
 
@@ -660,7 +660,7 @@ Bidden by Rāvaṇa to go forth like Death with his noose and devour the Vānara
 <details><summary>मूलम्</summary>
 
 सङ्गच्छ शूलमादाय पाशहस्त इवान्तकः ।  
-वानरान् राजपुत्रौ च भक्षयादित्यतेजसौ ॥ १३ ॥
+[^non-baroDa-CE] वानरान् राजपुत्रौ च भक्षयादित्यतेजसौ ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -712,8 +712,8 @@ hand. Devour the monkeys and the princes whose splendour is like that of the sun
 
 <details><summary>मूलम्</summary>
 
-समालोक्य तु ते रूपं विद्रविष्यन्ति वानराः ।  
-रामलक्ष्मणयोश्चापि हृदये प्रस्फुटिष्यतः ॥ १४ ॥
+[^non-baroDa-CE] समालोक्य तु ते रूपं विद्रविष्यन्ति वानराः ।  
+[^non-baroDa-CE] रामलक्ष्मणयोश्चापि हृदये प्रस्फुटिष्यतः ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -758,8 +758,8 @@ Merely upon beholding your form, the Vānaras will flee in panic (_vidraviṣyan
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा महातेजाः कुम्भकर्णं महाबलम् ।  
-पुनर्जातमिवात्मानं मेने राक्षसपुङ्गवः ॥ १५ ॥
+[^non-baroDa-CE] एवमुक्त्वा महातेजाः कुम्भकर्णं महाबलम् ।  
+[^non-baroDa-CE] पुनर्जातमिवात्मानं मेने राक्षसपुङ्गवः ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -810,8 +810,8 @@ Having spoken thus to the mighty Kumbhakarṇa, the bull among rākṣasas of gr
 
 <details><summary>मूलम्</summary>
 
-कुम्भकर्णबलाभिज्ञो जानंस्तस्य पराक्रमम् ।  
-बभूव मुदितो राजा शशाङ्क इव निर्मलः ॥ १६ ॥
+[^non-baroDa-CE] कुम्भकर्णबलाभिज्ञो जानंस्तस्य पराक्रमम् ।  
+[^non-baroDa-CE] बभूव मुदितो राजा शशाङ्क इव निर्मलः ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -856,8 +856,8 @@ Well acquainted with Kumbhakarṇa&#x27;s strength and knowing his valor, the ki
 
 <details><summary>मूलम्</summary>
 
-इत्येवमुक्तः संहृष्टो निर्जगाम महाबलः ।  
-राज्ञस्तु वचनं श्रुत्वा योद्धुमुद्युक्तवांस्तदा ॥ १७ ॥
+[^non-baroDa-CE] इत्येवमुक्तः संहृष्टो निर्जगाम महाबलः ।  
+[^non-baroDa-CE] राज्ञस्तु वचनं श्रुत्वा योद्धुमुद्युक्तवांस्तदा ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1940,12 +1940,12 @@ And numerous foot-soldiers (_padātayaḥ_), uttering mighty roars, of immense s
 
 रक्ताक्षाः सुबहुव्यामा नीलाञ्जनचयोपमाः ।  
 शूलानुद्यम्य खड्गांश्च निशितांश्च परश्वधान् ॥ ३८ ॥  
-भिन्दिपालांश्च परिघान् गदाश्च मुसलानि च ।  
+[^non-baroDa-CE] भिन्दिपालांश्च परिघान् गदाश्च मुसलानि च ।  
 तालस्कन्धांश्च विपुलान् क्षेपणीयान् दुरासदान् ॥ ३९ ॥
 _________________
 रक्ताक्षाः सुबहुव्यामा नीलाञ्जनचयोपमाः ।  
 शूलानुद्यम्य खड्गांश्च निशितांश्च परश्वधान् ॥
-भिन्दिपालांश्च परिघान् गदाश्च मुसलानि च ।  
+[^non-baroDa-CE] भिन्दिपालांश्च परिघान् गदाश्च मुसलानि च ।  
 तालस्कन्धाश्च विपुलान्क्षेपणीयान् दुरासदान् ॥
 </details>
 
@@ -2936,3 +2936,5 @@ troops of monkeys.
 Wielding his huge iron-bound club (_vipulaparighavān_), that giant Kumbhakarṇa, who had sallied forth for the destruction of his foes, struck terror of the most dreadful kind into the monkey hosts (_kapigaṇabhayam ādadat subhīmaṃ_), like the Lord [Rudra or Yama] wielding his attendant rod of punishment at the end of the world-age (_yugānte_)!
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

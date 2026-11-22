@@ -290,8 +290,8 @@ a sun's ray in autumn.
 
 <details><summary>मूलम्</summary>
 
-तत्तस्य रक्तं रक्तेन रञ्जितं शुशुभे मुखम् ।  
-यथाकाशे महापद्मं सिक्तं चन्दनबिन्दुभिः ॥
+[^non-baroDa-CE] तत्तस्य रक्तं रक्तेन रञ्जितं शुशुभे मुखम् ।  
+[^non-baroDa-CE] यथाकाशे महापद्मं सिक्तं चन्दनबिन्दुभिः ॥
 </details>
 
 <details><summary>अनुवाद (कन्नड)</summary>
@@ -708,3 +708,5 @@ immediately ordered the sons of ministers possessing high strength and prowess, 
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तनाल्कनॆय सर्गवु मुगियितु.
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

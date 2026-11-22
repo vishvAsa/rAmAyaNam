@@ -256,8 +256,8 @@ Today the city of Ayodhyā, my father’s royal capital (_rājadhānī pitur mam
 
 <details><summary>मूलम्</summary>
 
-अनुरक्ता हि मनुजा राजानं बहुभिर्गुणैः ।  
-त्वां च मां च नरव्याघ्र शत्रुघ्नभरतौ तथा ॥ ५ ॥
+[^non-baroDa-CE] अनुरक्ता हि मनुजा राजानं बहुभिर्गुणैः ।  
+[^non-baroDa-CE] त्वां च मां च नरव्याघ्र शत्रुघ्नभरतौ तथा ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -310,8 +310,8 @@ For the people are deeply devoted (_anuraktāḥ_) to the king by reason of his 
 
 <details><summary>मूलम्</summary>
 
-पितरं चानुशोचामि मातरं च यशस्विनीम् ।  
-अपि नान्धौ भवेतां नौ रुदन्तौ तावभीक्ष्णशः ॥ ६ ॥
+[^non-baroDa-CE] पितरं चानुशोचामि मातरं च यशस्विनीम् ।  
+[^non-baroDa-CE] अपि नान्धौ भवेतां नौ रुदन्तौ तावभीक्ष्णशः ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1349,8 +1349,8 @@ At Rāma’s command Sumantra swiftly yokes the finest steeds to the chariot; R�
 
 <details><summary>मूलम्</summary>
 
-अथ रामोऽब्रवीत् सूतं शीघ्रं संयुज्यतां रथः ।  
-गमिष्यामि ततोऽरण्यं गच्छ शीघ्रमितः प्रभो ॥ २५ ॥
+[^non-baroDa-CE] अथ रामोऽब्रवीत् सूतं शीघ्रं संयुज्यतां रथः ।  
+[^non-baroDa-CE] गमिष्यामि ततोऽरण्यं गच्छ शीघ्रमितः प्रभो ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1455,8 +1455,8 @@ Then the charioteer, hastening (_saṃtvaritaḥ_), yoked the chariot with those
 
 <details><summary>मूलम्</summary>
 
-अयं युक्तो महाबाहो रथस्ते रथिनां वर ।  
-त्वरयाऽऽरोह भद्रं ते ससीतः सहलक्ष्मणः ॥ २७ ॥
+[^non-baroDa-CE] अयं युक्तो महाबाहो रथस्ते रथिनां वर ।  
+[^non-baroDa-CE] त्वरयाऽऽरोह भद्रं ते ससीतः सहलक्ष्मणः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1746,10 +1746,10 @@ Hearing Rāma’s word, the charioteer did just so; and having come back again (
 
 <details><summary>मूलम्</summary>
 
-तौ सम्प्रयुक्तं तु रथं समास्थितौ  
-तदा ससीतौ रघुवंशवर्धनौ ।  
+[^non-baroDa-CE] तौ सम्प्रयुक्तं तु रथं समास्थितौ  
+[^non-baroDa-CE] तदा ससीतौ रघुवंशवर्धनौ ।  
 प्रचोदयामास ततस्तुरङ्गमान्  
-स सारथिर्येन पथा तपोवनम् ॥ ३३ ॥
+[^non-baroDa-CE] स सारथिर्येन पथा तपोवनम् ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1807,10 +1807,10 @@ Then those two increasers of Raghu’s line (_raghu-vaṃśa-vardhanau_), togeth
 
 <details><summary>मूलम्</summary>
 
-ततः समास्थाय रथं महारथः  
-ससारथिर्दाशरथिर्वनं ययौ ।  
-उदङ्मुखं तं तु रथं चकार  
-प्रयाणमाङ्गल्यनिमित्तदर्शनात् ॥ ३४ ॥
+[^non-baroDa-CE] ततः समास्थाय रथं महारथः  
+[^non-baroDa-CE] ससारथिर्दाशरथिर्वनं ययौ ।  
+[^non-baroDa-CE] उदङ्मुखं तं तु रथं चकार  
+[^non-baroDa-CE] प्रयाणमाङ्गल्यनिमित्तदर्शनात् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1867,3 +1867,4 @@ Then, having mounted the chariot, the great chariot-warrior (_mahā-rathaḥ_), 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

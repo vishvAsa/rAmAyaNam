@@ -695,7 +695,7 @@ that great city encircled by a lovely golden rampart (_kāñcanena prākāreṇa
 
 <details><summary>मूलम्</summary>
 
-पाण्डुराभिः प्रतोलीभिरुच्चाभिरभिसंवृताम् ।  
+[^non-baroDa-CE] पाण्डुराभिः प्रतोलीभिरुच्चाभिरभिसंवृताम् ।  
 अट्टालकशताकीर्णां पताकाध्वजशोभिताम् ॥ १७ ॥
 _________________
 पाण्डराभिः प्रतोलीभिरुच्चाभिरभिसंवृताम् ।  
@@ -2739,3 +2739,4 @@ That foremost hero among monkeys (_kapipravīraḥ_) beheld the moon rising (_ud
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

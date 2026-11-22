@@ -888,7 +888,7 @@ Filled with thrilled delight and inner joy, that army followed Kaikeyī’s son�
 
 <details><summary>मूलम्</summary>
 
-ते गत्वा दूरमध्वानं रथयानाश्वकुञ्जरैः ।  
+[^non-baroDa-CE] ते गत्वा दूरमध्वानं रथयानाश्वकुञ्जरैः ।  
 समासेदुस्ततो गङ्गां शृङ्गवेरपुरं प्रति ॥ १९ ॥
 </details>
 
@@ -920,7 +920,7 @@ Having traversed a long distance with chariots, litters, horses, and elephants, 
 <details><summary>मूलम्</summary>
 
 यत्र रामसखा वीरो गुहो ज्ञातिगणैर्वृतः ।  
-निवसत्यप्रमादेन देशं तं परिपालयन् ॥ २० ॥
+[^non-baroDa-CE] निवसत्यप्रमादेन देशं तं परिपालयन् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -971,7 +971,7 @@ where the heroic Guha, Rāma’s friend, surrounded by his kinsmen-troops, dwell
 
 <details><summary>मूलम्</summary>
 
-उपेत्य तीरं गङ्गायाश्चक्रवाकैरलङ्कृतम् ।  
+[^non-baroDa-CE] उपेत्य तीरं गङ्गायाश्चक्रवाकैरलङ्कृतम् ।  
 व्यवतिष्ठत सा सेना भरतस्यानुयायिनी ॥ २१ ॥
 </details>
 
@@ -1312,3 +1312,4 @@ Having encamped that army—splendid with its royal equipage—with due arrangem
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

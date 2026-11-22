@@ -215,8 +215,8 @@ true to his pledge, pure, and glorious, gazing upon the Śilāvahā river (_saty
 
 <details><summary>मूलम्</summary>
 
-सरस्वतीं च गङ्गां च युग्मेन प्रतिपद्य च ।  
-उत्तरान् वीरमत्स्यानां भारुण्डं प्राविशद् वनम् ॥ ५ ॥
+[^non-baroDa-CE] सरस्वतीं च गङ्गां च युग्मेन प्रतिपद्य च ।  
+[^non-baroDa-CE] उत्तरान् वीरमत्स्यानां भारुण्डं प्राविशद् वनम् ॥ ५ ॥
 _________________
 सरस्वतीं च गङ्गा च युग्मेन प्रतिपद्य च ।  
 उत्तरान् वीरमात्स्यानां भारुण्डं प्राविशद्वनम् ॥
@@ -412,7 +412,7 @@ excellent chariot as the wind glides through an atmosphere.
 <details><summary>मूलम्</summary>
 
 भागीरथीं दुष्प्रतरां सोऽंशुधाने महानदीम् ।  
-उपायाद् राघवस्तूर्णं प्राग्वटे विश्रुते पुरे ॥ ९ ॥
+[^non-baroDa-CE] उपायाद् राघवस्तूर्णं प्राग्वटे विश्रुते पुरे ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1156,10 +1156,10 @@ Bharata laments the joyless parks with leaf-shedding trees that seem to weep, th
 
 <details><summary>मूलम्</summary>
 
-उद्यानानि पुरा भान्ति मत्तप्रमुदितानि च ।  
-जनानां रतिसंयोगेष्वत्यन्तगुणवन्ति च ॥ २५ ॥  
-तान्येतान्यद्य पश्यामि निरानन्दानि सर्वशः ।  
-स्रस्तपर्णैरनुपथं विक्रोशद्भिरिव द्रुमैः ॥ २६ ॥
+[^non-baroDa-CE] उद्यानानि पुरा भान्ति मत्तप्रमुदितानि च ।  
+[^non-baroDa-CE] जनानां रतिसंयोगेष्वत्यन्तगुणवन्ति च ॥ २५ ॥  
+[^non-baroDa-CE] तान्येतान्यद्य पश्यामि निरानन्दानि सर्वशः ।  
+[^non-baroDa-CE] स्रस्तपर्णैरनुपथं विक्रोशद्भिरिव द्रुमैः ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1328,7 +1328,7 @@ intensified with the fume of burnt incense,not blow today.?"
 
 <details><summary>मूलम्</summary>
 
-भेरीमृदङ्गवीणानां कोणसङ्घट्टितः पुनः ।  
+[^non-baroDa-CE] भेरीमृदङ्गवीणानां कोणसङ्घट्टितः पुनः ।  
 किमद्य शब्दो विरतः सदादीनगतिः पुरा ॥ २९ ॥
 </details>
 
@@ -1436,7 +1436,7 @@ Despairing of his kinsmen’s welfare, Bharata enters Ayodhyā through the Vaija
 <details><summary>मूलम्</summary>
 
 सर्वथा कुशलं सूत दुर्लभं मम बन्धुषु ।  
-तथा ह्यसति सम्मोहे हृदयं सीदतीव मे ॥ ३१ ॥
+[^non-baroDa-CE] तथा ह्यसति सम्मोहे हृदयं सीदतीव मे ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1483,7 +1483,7 @@ indeed, even without anycause for a grievance, my spirit is cast down"
 <details><summary>मूलम्</summary>
 
 विषण्णः श्रान्तहृदयस्त्रस्तः संलुलितेन्द्रियः ।  
-भरतः प्रविवेशाशु पुरीमिक्ष्वाकुपालिताम् ॥ ३२ ॥
+[^non-baroDa-CE] भरतः प्रविवेशाशु पुरीमिक्ष्वाकुपालिताम् ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1645,7 +1645,7 @@ Greeted with wishes for victory by the gatekeepers who rose up, he went on accom
 <details><summary>मूलम्</summary>
 
 किमहं त्वरयाऽऽनीतः कारणेन विनानघ ।  
-अशुभाशङ्कि हृदयं शीलं च पततीव मे ॥ ३५ ॥
+[^non-baroDa-CE] अशुभाशङ्कि हृदयं शीलं च पततीव मे ॥ ३५ ॥
 _________________
 किमहं त्वरयाऽऽनीतः कारणेन विनानघ ।  
 अशुभाशङ्कि हृदयं शीलं च पतितीव मे ॥
@@ -1759,11 +1759,11 @@ Bharata points out the signs of royal calamity across Ayodhyā: unswept, lustrel
 
 <details><summary>मूलम्</summary>
 
-सम्मार्जनविहीनानि परुषाण्युपलक्षये ।  
-असंयतकवाटानि श्रीविहीनानि सर्वशः ॥३७ ॥  
-बलिकर्मविहीनानि धूपसम्मोदनेन च ।  
-अनाशितकुटुम्बानि प्रभाहीनजनानि च ॥३८ ॥  
-अलक्ष्मीकानि पश्यामि कुटुम्बिभवनान्यहम् ।
+[^non-baroDa-CE] सम्मार्जनविहीनानि परुषाण्युपलक्षये ।  
+[^non-baroDa-CE] असंयतकवाटानि श्रीविहीनानि सर्वशः ॥३७ ॥  
+[^non-baroDa-CE] बलिकर्मविहीनानि धूपसम्मोदनेन च ।  
+[^non-baroDa-CE] अनाशितकुटुम्बानि प्रभाहीनजनानि च ॥३८ ॥  
+[^non-baroDa-CE] अलक्ष्मीकानि पश्यामि कुटुम्बिभवनान्यहम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1851,8 +1851,8 @@ burned . Families are starving and people look miserably without any charming ap
 <details><summary>मूलम्</summary>
 
 देवतार्चाः प्रविद्धाश्च यज्ञगोष्ठास्तथैव च ॥ ४० ॥  
-माल्यापणेषु राजन्ते नाद्य पण्यानि वा तथा ।  
-दृश्यन्ते वणिजोऽप्यद्य न यथापूर्वमत्र वै ॥ ४१ ॥  
+[^non-baroDa-CE] माल्यापणेषु राजन्ते नाद्य पण्यानि वा तथा ।  
+[^non-baroDa-CE] दृश्यन्ते वणिजोऽप्यद्य न यथापूर्वमत्र वै ॥ ४१ ॥  
 ध्यानसंविग्नहृदया नष्टव्यापारयन्त्रिताः ।
 </details>
 
@@ -2148,3 +2148,5 @@ with rust , Bharata was overcome with grief.
 Beholding many things displeasing to his mind which at other times had never existed in his city (_bahūni paśyan manaso &#x27;priyāṇi yāny anyadā nāsya pure babhūvuḥ_), high-souled Bharata, with his head bowed down, dejected in mind, and cheerless, entered the palace of his father (_avāk-chirā dīna-manā na-hṛṣṭaḥ pitur mahātmā praviveśa veśma_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -820,7 +820,7 @@ accord salvation, as planned by you all...' Maheshvara Tiirtha.
 <details><summary>मूलम्</summary>
 
 इत्युक्त्वा मैथिलीं वाक्यं प्रियार्हां प्रियवादिनीम् ॥ १५ ॥  
-अभिगम्य सुदुष्टात्मा राक्षसः काममोहितः ।  
+[^non-baroDa-CE] अभिगम्य सुदुष्टात्मा राक्षसः काममोहितः ।  
 जग्राह रावणः सीतां बुधः खे रोहिणीमिव ॥ १६ ॥
 </details>
 
@@ -1930,8 +1930,8 @@ Catching sight of the vulture king Jaṭāyu perched upon a great tree, the weep
 
 <details><summary>मूलम्</summary>
 
-सा तदा करुणा वाचो विलपन्ती सुदुःखिता ।  
-वनस्पतिगतं गृध्रं ददर्शायतलोचना ॥ ३६ ॥
+[^non-baroDa-CE] सा तदा करुणा वाचो विलपन्ती सुदुःखिता ।  
+[^non-baroDa-CE] वनस्पतिगतं गृध्रं ददर्शायतलोचना ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1983,7 +1983,7 @@ While lamenting with piteous words in deep anguish (_sā tadā karuṇā vāco v
 <details><summary>मूलम्</summary>
 
 सा तमुद्वीक्ष्य सुश्रोणी रावणस्य वशङ्गता ।  
-समाक्रन्दद् भयपरा दुःखोपहतया गिरा ॥ ३७ ॥
+[^non-baroDa-CE] समाक्रन्दद् भयपरा दुःखोपहतया गिरा ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2034,8 +2034,8 @@ Looking up at him while held in Rāvaṇa&#x27;s power (_sā tam udvīkṣya su�
 
 <details><summary>मूलम्</summary>
 
-जटायो पश्य मामार्य ह्रियमाणामनाथवत् ।  
-अनेन राक्षसेन्द्रेणाकरुणं पापकर्मणा ॥ ३८ ॥
+[^non-baroDa-CE] जटायो पश्य मामार्य ह्रियमाणामनाथवत् ।  
+[^non-baroDa-CE] अनेन राक्षसेन्द्रेणाकरुणं पापकर्मणा ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2086,10 +2086,10 @@ sinister deeds. [3-49-38]
 
 <details><summary>मूलम्</summary>
 
-नैष वारयितुं शक्यस्त्वया क्रूरो निशाचरः ।  
-सत्ववाञ्जितकाशी च सायुधश्चैव दुर्मतिः ॥ ३९ ॥
+[^non-baroDa-CE] नैष वारयितुं शक्यस्त्वया क्रूरो निशाचरः ।  
+[^non-baroDa-CE] सत्ववाञ्जितकाशी च सायुधश्चैव दुर्मतिः ॥ ३९ ॥
 _________________
-नैष वारयितुं शक्यस्त्वया क्रूरो निशाचरः ।  
+[^non-baroDa-CE] नैष वारयितुं शक्यस्त्वया क्रूरो निशाचरः ।  
 सत्त्ववान् जितकाशी च सायुधश्चैव दुर्मतिः ॥
 </details>
 
@@ -2207,3 +2207,5 @@ and animals are not heedful of her request, and this eagle alone is beheld, besi
 “Therefore, O Jaṭāyu, my abduction must be recounted in full and according to the truth (_yathā-tattvaṃ jaṭāyo haraṇaṃ mama... tat sarvam ākhyātavyam aśeṣataḥ_) to Rāma and to Lakṣmaṇa!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

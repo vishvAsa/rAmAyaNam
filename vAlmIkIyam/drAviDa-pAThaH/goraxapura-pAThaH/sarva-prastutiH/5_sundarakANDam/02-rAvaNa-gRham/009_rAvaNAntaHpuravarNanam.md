@@ -184,8 +184,8 @@ Seeking (_mārgamāṇaḥ_) large-eyed Sītā, princess of Videha (_vaidehīm_)
 
 <details><summary>मूलम्</summary>
 
-उत्तमं राक्षसावासं हनुमानवलोकयन् ।  
-आससादाथ लक्ष्मीवान् राक्षसेन्द्रनिवेशनम् ॥ ४ ॥
+[^non-baroDa-CE] उत्तमं राक्षसावासं हनुमानवलोकयन् ।  
+[^non-baroDa-CE] आससादाथ लक्ष्मीवान् राक्षसेन्द्रनिवेशनम् ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -801,8 +801,8 @@ It was furnished with lattice-windows and air-vents (_jālavātāyanair yuktam_)
 
 <details><summary>मूलम्</summary>
 
-विद्रुमेण विचित्रेण मणिभिश्च महाधनैः ।  
-निस्तुलाभिश्च मुक्ताभिस्तलेनाभिविराजितम् ॥ १७ ॥
+[^non-baroDa-CE] विद्रुमेण विचित्रेण मणिभिश्च महाधनैः ।  
+[^non-baroDa-CE] निस्तुलाभिश्च मुक्ताभिस्तलेनाभिविराजितम् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -853,8 +853,8 @@ With variegated coral (_vidrumeṇa vicitreṇa_), costly gems (_maṇibhiś ca 
 
 <details><summary>मूलम्</summary>
 
-चन्दनेन च रक्तेन तपनीयनिभेन च ।  
-सुपुण्यगन्धिना युक्तमादित्यतरुणोपमम् ॥ १८ ॥
+[^non-baroDa-CE] चन्दनेन च रक्तेन तपनीयनिभेन च ।  
+[^non-baroDa-CE] सुपुण्यगन्धिना युक्तमादित्यतरुणोपमम् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3479,8 +3479,8 @@ The wives and maidens (_yoṣitaḥ ... kanyāḥ_) of royal sages, Brahmins, an
 
 <details><summary>मूलम्</summary>
 
-युद्धकामेन ताः सर्वा रावणेन हृताः स्त्रियः ।  
-समदा मदनेनैव मोहिताः काश्चिदागताः ॥ ६९ ॥
+[^non-baroDa-CE] युद्धकामेन ताः सर्वा रावणेन हृताः स्त्रियः ।  
+[^non-baroDa-CE] समदा मदनेनैव मोहिताः काश्चिदागताः ॥ ६९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3807,3 +3807,5 @@ with her.
 And again, grieved at heart (_ārtarūpaḥ_), he reflected (_punaś ca so&#x27;cintayat_): ‘Assuredly Sītā is pre-eminent in virtue (_dhruvaṃ viśiṣṭā guṇato hi sītā_); and yet this mighty lord of Laṅkā (_mahātmā laṅkeśvaraḥ_) has perpetrated upon her a grievous, ignoble deed (_kaṣṭam anāryakarma_)!’
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

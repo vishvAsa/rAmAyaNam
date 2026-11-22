@@ -842,7 +842,7 @@ Thronged with devoted citizens (_anurakta-janākīrṇā_) and ever bringing del
 <details><summary>मूलम्</summary>
 
 कथं पुत्रं महात्मानं ज्येष्ठपुत्रमपश्यतः ।  
-शरीरं धारयिष्यन्ति प्राणा राज्ञो महात्मनः ॥ १७ ॥
+[^non-baroDa-CE] शरीरं धारयिष्यन्ति प्राणा राज्ञो महात्मनः ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -902,7 +902,7 @@ Lamenting that Daśaratha will die without installing Rāma on the throne, Lak�
 
 <details><summary>मूलम्</summary>
 
-विनष्टे नृपतौ पश्चात् कौसल्या विनशिष्यति ।  
+[^non-baroDa-CE] विनष्टे नृपतौ पश्चात् कौसल्या विनशिष्यति ।  
 अनन्तरं च मातापि मम नाशमुपैष्यति ॥ १८ ॥
 </details>
 
@@ -1148,7 +1148,7 @@ and bright with festivities carried on under the patronage of associations.
 
 <details><summary>मूलम्</summary>
 
-अपि जीवेद् दशरथो वनवासात् पुनर्वयम् ।  
+[^non-baroDa-CE] अपि जीवेद् दशरथो वनवासात् पुनर्वयम् ।  
 प्रत्यागम्य महात्मानमपि पश्याम सुव्रतम् ॥ २४ ॥
 </details>
 
@@ -1368,3 +1368,4 @@ While the king’s son, ever devoted to the welfare of the people (_prajā-hite_
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

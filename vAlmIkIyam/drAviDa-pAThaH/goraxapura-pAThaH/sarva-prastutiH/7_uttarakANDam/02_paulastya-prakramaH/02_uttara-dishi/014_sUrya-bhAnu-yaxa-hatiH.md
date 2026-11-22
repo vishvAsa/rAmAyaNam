@@ -108,7 +108,7 @@ Passing over cities, rivers, mountains, forests, and pleasure-groves (_purāṇi
 
 सन्निविष्टं गिरौ तस्मिन् राक्षसेन्द्रं निशम्य तु ।  
 युद्धेप्सुं तं कृतोत्साहं दुरात्मानं समन्त्रिणम् ॥ ४ ॥  
-यक्षा न शेकुः संस्थातुं प्रमुखे तस्य रक्षसः ।  
+[^non-baroDa-CE] यक्षा न शेकुः संस्थातुं प्रमुखे तस्य रक्षसः ।  
 राज्ञो भ्रातेति विज्ञाय गता यत्र धनेश्वरः ॥ ५ ॥
 </details>
 
@@ -243,7 +243,7 @@ Thereupon a tumultuous battle erupted, thronged with Yakṣas and Rākṣasas (_
 <details><summary>मूलम्</summary>
 
 स दृष्ट्वा तादृशं सैन्यं दशग्रीवो निशाचरः ।  
-हर्षनादान् बहून् कृत्वा स क्रोधादभ्यधावत ॥ ९ ॥
+[^non-baroDa-CE] हर्षनादान् बहून् कृत्वा स क्रोधादभ्यधावत ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -349,8 +349,8 @@ Unmoved as a rain-drenched mountain, Rāvaṇa swings his death-like mace and bu
 
 <details><summary>मूलम्</summary>
 
-न चकार व्यथां चैव यक्षशस्त्रैः समाहतः ।  
-महीधर इवाम्भोदैर्धाराशतसमुक्षितः ॥ १३ ॥
+[^non-baroDa-CE] न चकार व्यथां चैव यक्षशस्त्रैः समाहतः ।  
+[^non-baroDa-CE] महीधर इवाम्भोदैर्धाराशतसमुक्षितः ॥ १३ ॥
 _________________
 न चकार व्यथां चैव यक्षशस्त्रॆೖः समाहतः ।  
 महीधर इवां भोदैर्धाराशत समुक्षितः ॥
@@ -600,7 +600,7 @@ Some, struck hard and shattered in limb (_kecit samāhatā bhagnāḥ_), fell up
 <details><summary>मूलम्</summary>
 
 श्रान्ताश्चान्योन्यमालिङ्ग्य भ्रष्टशस्त्रा रणाजिरे ।  
-सीदन्ति च तदा यक्षाः कूला इव जलेन ह ॥ १८ ॥
+[^non-baroDa-CE] सीदन्ति च तदा यक्षाः कूला इव जलेन ह ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -669,11 +669,11 @@ Between the slain warriors ascending to heaven (_hatānāṃ gacchatāṃ svarga
 
 <details><summary>मूलम्</summary>
 
-भग्नांस्तु तान् समालक्ष्य यक्षेन्द्रांस्तु महाबलान् ।  
-धनाध्यक्षो महाबाहुः प्रेषयामास यक्षकान् ॥ २० ॥
+[^non-baroDa-CE] भग्नांस्तु तान् समालक्ष्य यक्षेन्द्रांस्तु महाबलान् ।  
+[^non-baroDa-CE] धनाध्यक्षो महाबाहुः प्रेषयामास यक्षकान् ॥ २० ॥
 _________________
 भग्नांस्तु तान् समालक्ष्य यक्षेन्द्रास्तु महाबलान् ।  
-धनाध्यक्षो महाबाहुः प्रेषयामास यक्षकान् ॥
+[^non-baroDa-CE] धनाध्यक्षो महाबाहुः प्रेषयामास यक्षकान् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -735,7 +735,7 @@ In the meantime, O Rāma (_etasminn antare rāma_), dispatched with an expansive
 <details><summary>मूलम्</summary>
 
 तेन चक्रेण मारीचो विष्णुनेव रणे हतः ।  
-पतितो भूतले शैलात् क्षीणपुण्य इव ग्रहः ॥ २२ ॥
+[^non-baroDa-CE] पतितो भूतले शैलात् क्षीणपुण्य इव ग्रहः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -868,10 +868,10 @@ As that night-roamer Daśagrīva was entering (_daśagrīvaṃ praviśantaṃ ni
 
 <details><summary>मूलम्</summary>
 
-स वार्यमाणो यक्षेण प्रविवेश निशाचरः ।  
-यदा तु वारितो राम न व्यतिष्ठत् स राक्षसः ॥ २६ ॥  
+[^non-baroDa-CE] स वार्यमाणो यक्षेण प्रविवेश निशाचरः ।  
+[^non-baroDa-CE] यदा तु वारितो राम न व्यतिष्ठत् स राक्षसः ॥ २६ ॥  
 ततस्तोरणमुत्पाट्य तेन यक्षेण ताडितः ।  
-रुधिरं प्रस्रवन् भाति शैलो धातुस्रवैरिव ॥ २७ ॥
+[^non-baroDa-CE] रुधिरं प्रस्रवन् भाति शैलो धातुस्रवैरिव ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -904,7 +904,7 @@ As that night-roamer Daśagrīva was entering (_daśagrīvaṃ praviśantaṃ ni
 <details><summary>मूलम्</summary>
 
 स शैलशिखराभेण तोरणेन समाहतः ।  
-जगाम न क्षतिं वीरो वरदानात् स्वयम्भुवः ॥ २८ ॥
+[^non-baroDa-CE] जगाम न क्षतिं वीरो वरदानात् स्वयम्भुवः ॥ २८ ॥
 _________________
 स शैल शिखराभेण तोरणेन समाहतः ।  
 जगाम न क्षतिं वीरो वरदानात् स्व्वयम्भुवः ॥
@@ -937,7 +937,7 @@ Though struck hard by that gateway beam massive as a mountain crest (_śaila-śi
 
 <details><summary>मूलम्</summary>
 
-तेनैव तोरणेनाथ यक्षस्तेनाभिताडितः ।  
+[^non-baroDa-CE] तेनैव तोरणेनाथ यक्षस्तेनाभिताडितः ।  
 नादृश्यत तदा यक्षो भस्मीकृततनुस्तदा ॥ २९ ॥
 </details>
 
@@ -971,11 +971,11 @@ Thereupon that Yakṣa was struck back by him with that very same gateway beam (
 
 ततः प्रदुद्रुवुः सर्वे दृष्ट्वा रक्षःपराक्रमम् ।  
 ततो नदीर्गुहाश्चैव विविशुर्भयपीडिताः ।  
-त्यक्तप्रहरणाः श्रान्ता विवर्णवदनास्तदा ॥ ३० ॥
+[^non-baroDa-CE] त्यक्तप्रहरणाः श्रान्ता विवर्णवदनास्तदा ॥ ३० ॥
 _________________
 ततः प्रदुद्रुवुः सर्वे दृष्टा रक्षः पराक्रमम् ।  
 ततो नदीर्गुहाश्चैव विविशुर्भय पीडिताः ।  
-त्यक्त प्रहरणाः श्रान्ता विवर्णवदनास्तदा ॥
+[^non-baroDa-CE] त्यक्त प्रहरणाः श्रान्ता विवर्णवदनास्तदा ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1006,3 +1006,4 @@ Seeing that prowess of the Rākṣasa (_dṛṣṭvā rakṣaḥ-parākramam_), 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

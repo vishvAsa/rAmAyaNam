@@ -49,12 +49,12 @@ Beholding Hanumān swell with speed and fiery energy like Lord Nārāyaṇa stri
 
 <details><summary>मूलम्</summary>
 
-तं दृष्ट्वा जृम्भमाणं ते क्रमितुं शतयोजनम् ।  
-वेगेनापूर्यमाणं च सहसा वानरोत्तमम् ॥ १ ॥  
-सहसा शोकमुत्सृज्य प्रहर्षेण समन्विताः ।  
-विनेदुस्तुष्टुवुश्चापि हनूमन्तं महाबलम् ॥ २ ॥
+[^non-baroDa-CE] तं दृष्ट्वा जृम्भमाणं ते क्रमितुं शतयोजनम् ।  
+[^non-baroDa-CE] वेगेनापूर्यमाणं च सहसा वानरोत्तमम् ॥ १ ॥  
+[^non-baroDa-CE] सहसा शोकमुत्सृज्य प्रहर्षेण समन्विताः ।  
+[^non-baroDa-CE] विनेदुस्तुष्टुवुश्चापि हनूमन्तं महाबलम् ॥ २ ॥
 _________________
-तं दृष्ट्वा जृम्भमाणं ते क्रमितुं शतयोजनम् ।  
+[^non-baroDa-CE] तं दृष्ट्वा जृम्भमाणं ते क्रमितुं शतयोजनम् ।  
 वेगोनापूर्यमाणं च सहसा वानरोत्तमम् ॥
 सहसा शोकमृत्सृज्य प्रहर्षेण समन्विताः ।  
 विनेदुस्तुष्टु वुश्चापि हनुमन्तं महाबलम् ॥
@@ -118,8 +118,8 @@ mighty monkey, Hanuma. [4-67-1, 2]
 
 <details><summary>मूलम्</summary>
 
-प्रहृष्टा विस्मिताश्चापि ते वीक्षन्ते समन्ततः ।  
-त्रिविक्रमं कृतोत्साहं नारायणमिव प्रजाः ॥ ३ ॥
+[^non-baroDa-CE] प्रहृष्टा विस्मिताश्चापि ते वीक्षन्ते समन्ततः ।  
+[^non-baroDa-CE] त्रिविक्रमं कृतोत्साहं नारायणमिव प्रजाः ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1529,7 +1529,7 @@ to other monkeys. [4-67-28]
 <details><summary>मूलम्</summary>
 
 तमेवं वानरश्रेष्ठं गर्जन्तममितप्रभम् ॥ २९ ॥  
-प्रहृष्टा हरयस्तत्र समुदैक्षन्त विस्मिताः ।
+[^non-baroDa-CE] प्रहृष्टा हरयस्तत्र समुदैक्षन्त विस्मिताः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1584,7 +1584,7 @@ gladdened.. [4-67-29b]
 
 <details><summary>मूलम्</summary>
 
-तच्चास्य वचनं श्रुत्वा ज्ञातीनां शोकनाशनम् ॥ ३० ॥  
+[^non-baroDa-CE] तच्चास्य वचनं श्रुत्वा ज्ञातीनां शोकनाशनम् ॥ ३० ॥  
 उवाच परिसंहृष्टो जाम्बवान् प्लवगेश्वरः ।
 _________________
 तच्चास्य न चनं श्रुत्वा ज्ञातीनां शोकनाशनम् ॥  
@@ -1948,13 +1948,13 @@ Declaring that only the firm, mineral-streaked peaks of Mount Mahendra can bear 
 
 एतानीह नगस्यास्य शिलासङ्कटशालिनः ॥ ३६ ॥  
 शिखराणि महेन्द्रस्य स्थिराणि च महान्ति च ।  
-येषु वेगं गमिष्यामि महेन्द्रशिखरेष्वहम् ॥ ३७ ॥  
-नानाद्रुमविकीर्णेषु धातुनिष्पन्दशोभिषु ।
+[^non-baroDa-CE] येषु वेगं गमिष्यामि महेन्द्रशिखरेष्वहम् ॥ ३७ ॥  
+[^non-baroDa-CE] नानाद्रुमविकीर्णेषु धातुनिष्पन्दशोभिषु ।
 _________________
 एतानीह नगस्यास्य शिलासङ्कटशालिनः ॥
 शिखराणि महेन्द्रस्य स्थिराणि च माहान्ति च ।  
-येषु वेगं गमिष्यामि महेन्द्रशिखरेष्वहम् ॥  
-नानाद्रुमविकीर्णेषु धातुनिष्पन्द शोभिषु ।
+[^non-baroDa-CE] येषु वेगं गमिष्यामि महेन्द्रशिखरेष्वहम् ॥  
+[^non-baroDa-CE] नानाद्रुमविकीर्णेषु धातुनिष्पन्द शोभिषु ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2025,7 +2025,7 @@ kick-start... [4-67-36b, 37a]
 
 <details><summary>मूलम्</summary>
 
-एतानि मम वेगं हि शिखराणि महान्ति च ॥ ३८ ॥  
+[^non-baroDa-CE] एतानि मम वेगं हि शिखराणि महान्ति च ॥ ३८ ॥  
 प्लवतो धारयिष्यन्ति योजनानामितः शतम् ।
 </details>
 
@@ -2669,3 +2669,5 @@ impulses and making soul is quite staid in speediness, he made head away to Lank
 Then that swift one, his spirit concentrated upon his speed (_vegasamāhitātmā_), that foremost hero among monkeys and slayer of hostile heroes (_haripravīraḥ paravīrahantā_), of mighty majesty (_mahānubhāvaḥ_) and high resolve (_manasvī_), having steadied his mind (_manaḥ samādhāya_), went in thought to Laṅkā (_jagāma laṅkāṃ manasā_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

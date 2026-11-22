@@ -261,7 +261,7 @@ guise of Golden Deer wishful to abduct me as you are a coward. [3-53-4]
 <details><summary>मूलम्</summary>
 
 यो हि मामुद्यतस्त्रातुं सोऽप्ययं विनिपातितः ।  
-गृध्रराजः पुराणोऽसौ श्वशुरस्य सखा मम ॥ ५ ॥
+[^non-baroDa-CE] गृध्रराजः पुराणोऽसौ श्वशुरस्य सखा मम ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1461,3 +1461,4 @@ Then that wicked one carried off the youthful princess (_jahāra pāpas taruṇ�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

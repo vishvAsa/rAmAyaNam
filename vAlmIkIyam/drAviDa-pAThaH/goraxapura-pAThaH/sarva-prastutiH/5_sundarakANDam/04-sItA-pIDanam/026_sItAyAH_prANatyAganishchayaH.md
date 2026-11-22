@@ -256,10 +256,10 @@ For I have no use for life (_nahi me jīvitenārthaḥ_), nor for riches, nor fo
 
 <details><summary>मूलम्</summary>
 
-अश्मसारमिदं नूनमथवाप्यजरामरम् ।  
-हृदयं मम येनेदं न दुःखेन विशीर्यते ॥ ६ ॥
+[^non-baroDa-CE] अश्मसारमिदं नूनमथवाप्यजरामरम् ।  
+[^non-baroDa-CE] हृदयं मम येनेदं न दुःखेन विशीर्यते ॥ ६ ॥
 _________________
-अश्मसारमिदं नूनमथवाप्यजरामरम् ।  
+[^non-baroDa-CE] अश्मसारमिदं नूनमथवाप्यजरामरम् ।  
 हृदयं मम येनेदं न दुःखेनावशीर्यते ॥
 </details>
 
@@ -1691,7 +1691,7 @@ The time of that respite (_samayo yas tu nirdiṣṭas tasya kālo &#x27;yam āg
 
 <details><summary>मूलम्</summary>
 
-स च मे विहितो मृत्युरस्मिन् दुष्टेन वर्तते ।  
+[^non-baroDa-CE] स च मे विहितो मृत्युरस्मिन् दुष्टेन वर्तते ।  
 अकार्यं ये न जानन्ति नैर्ऋताः पापकारिणः ॥ ३३ ॥
 _________________
 यदि नाम स शूरो मां रामो रक्तान्तलोचनः ।  
@@ -2638,3 +2638,4 @@ Forsaken by my beloved Rāma himself, who knows the Self (_tyaktā priyeṇaiva 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

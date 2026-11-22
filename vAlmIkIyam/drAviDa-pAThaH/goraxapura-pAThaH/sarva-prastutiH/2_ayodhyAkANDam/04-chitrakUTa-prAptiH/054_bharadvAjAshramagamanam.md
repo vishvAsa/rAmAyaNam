@@ -580,13 +580,13 @@ Then, having reached the hermitage itself, those two heroes—desirous of behold
 
 <details><summary>मूलम्</summary>
 
-स प्रविश्य महात्मानमृषिं शिष्यगणैर्वृतम् ।  
-संशितव्रतमेकाग्रं तपसा लब्धचक्षुषम् ॥ ११ ॥  
+[^non-baroDa-CE] स प्रविश्य महात्मानमृषिं शिष्यगणैर्वृतम् ।  
+[^non-baroDa-CE] संशितव्रतमेकाग्रं तपसा लब्धचक्षुषम् ॥ ११ ॥  
 हुताग्निहोत्रं दृष्ट्वैव महाभागः कृताञ्जलिः ।  
 रामः सौमित्रिणा सार्धं सीतया चाभ्यवादयत् ॥ १२ ॥
 _________________
-सप्रविश्य महात्मानमृषिं शिष्यगणैर्वृतम् ।  
-संशितव्रतमेकाग्रं तपसा लब्धचक्षुषम् ॥
+[^non-baroDa-CE] सप्रविश्य महात्मानमृषिं शिष्यगणैर्वृतम् ।  
+[^non-baroDa-CE] संशितव्रतमेकाग्रं तपसा लब्धचक्षुषम् ॥
 हुताग्निहोत्रं दृष्टैव महाभागः कृताञ्जलिः ।  
 रामः सौमित्रिणा सार्धं सीतया चाभ्यवादयत् ॥
 </details>
@@ -907,8 +907,8 @@ Hearing that speech of that wise prince, the righteous-souled sage thereupon cau
 
 <details><summary>मूलम्</summary>
 
-नानाविधानन्नरसान् वन्यमूलफलाश्रयान् ।  
-तेभ्यो ददौ तप्ततपा वासं चैवाभ्यकल्पयत् ॥ १८ ॥
+[^non-baroDa-CE] नानाविधानन्नरसान् वन्यमूलफलाश्रयान् ।  
+[^non-baroDa-CE] तेभ्यो ददौ तप्ततपा वासं चैवाभ्यकल्पयत् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1208,7 +1208,7 @@ Asking Bharadvāja to indicate a secluded hermitage site where Sītā may deligh
 <details><summary>मूलम्</summary>
 
 भगवन्नित आसन्नः पौरजानपदो जनः ।  
-सुदर्शमिह मां प्रेक्ष्य मन्येऽहमिममाश्रमम् ॥ २४ ॥  
+[^non-baroDa-CE] सुदर्शमिह मां प्रेक्ष्य मन्येऽहमिममाश्रमम् ॥ २४ ॥  
 आगमिष्यति वैदेहीं मां चापि प्रेक्षको जनः ।  
 अनेन कारणेनाहमिह वासं न रोचये ॥ २५ ॥
 </details>
@@ -1757,8 +1757,8 @@ As Rāma, having approached that great sage at Prayāga, was recounting varied a
 
 <details><summary>मूलम्</summary>
 
-सीतातृतीयः काकुत्स्थः परिश्रान्तः सुखोचितः ।  
-भरद्वाजाश्रमे रम्ये तां रात्रिमवसत् सुखम् ॥ ३५ ॥
+[^non-baroDa-CE] सीतातृतीयः काकुत्स्थः परिश्रान्तः सुखोचितः ।  
+[^non-baroDa-CE] भरद्वाजाश्रमे रम्ये तां रात्रिमवसत् सुखम् ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1994,7 +1994,7 @@ Extolling Citrakūṭa’s resonant peacock cries, roaming herds of elephants an
 
 नानानगगणोपेतः किन्नरोरगसेवितः ॥ ३९ ॥  
 मयूरनादाभिरतो गजराजनिषेवितः ।  
-गम्यतां भवता शैलश्चित्रकूटः स विश्रुतः ॥ ४० ॥
+[^non-baroDa-CE] गम्यतां भवता शैलश्चित्रकूटः स विश्रुतः ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2061,11 +2061,11 @@ bountiful with tubers and fruits."
 
 <details><summary>मूलम्</summary>
 
-पुण्यश्च रमणीयश्च बहुमूलफलायुतः ।  
+[^non-baroDa-CE] पुण्यश्च रमणीयश्च बहुमूलफलायुतः ।  
 तत्र कुञ्जरयूथानि मृगयूथानि चैव हि ॥ ४१ ॥  
 विचरन्ति वनान्तेषु तानि द्रक्ष्यसि राघव ।  
-सरित्प्रस्रवणप्रस्थान् दरीकन्दरनिर्झरान् ।  
-चरतः सीतया सार्धं नन्दिष्यति मनस्तव ॥ ४२ ॥
+[^non-baroDa-CE] सरित्प्रस्रवणप्रस्थान् दरीकन्दरनिर्झरान् ।  
+[^non-baroDa-CE] चरतः सीतया सार्धं नन्दिष्यति मनस्तव ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2201,3 +2201,5 @@ many kinds of deer and elephants in rut, settle down there in a hermitage."
 “Having reached that auspicious and most delightful mountain (_vasudhā-dharaṃ śivam_)—made resonant with the cries of joyful lapwings and cuckoos (_prahṛṣṭa-koyaṣṭika-kokila-svanair vināditam_) and frequented by exhilarated deer and many elephants—take up your abode in that hermitage (_samāvasāśramam_).”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

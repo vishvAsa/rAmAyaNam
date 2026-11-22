@@ -354,7 +354,7 @@ The raging conflagration consumes thousands of mansions in Laṅkā, reducing mo
 <details><summary>मूलम्</summary>
 
 तेषां गृहसहस्राणि ददाह हुतभुक् तदा ।  
-प्रासादाः पर्वताकाराः पतन्ति धरणीतले ॥ ७ ॥
+[^non-baroDa-CE] प्रासादाः पर्वताकाराः पतन्ति धरणीतले ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -399,10 +399,10 @@ Then the fire (_hutabhuk_) burned down thousands of their dwellings (_gṛhasaha
 
 <details><summary>मूलम्</summary>
 
-अगुरुर्दह्यते तत्र परं चैव सुचन्दनम् ।  
-मौक्तिका मणयः स्निग्धा वज्रं चापि प्रवालकम् ॥ ८ ॥
+[^non-baroDa-CE] अगुरुर्दह्यते तत्र परं चैव सुचन्दनम् ।  
+[^non-baroDa-CE] मौक्तिका मणयः स्निग्धा वज्रं चापि प्रवालकम् ॥ ८ ॥
 _________________
-अगुरुर्दह्यते तत्र परं चैव सुचन्दनम् ।  
+[^non-baroDa-CE] अगुरुर्दह्यते तत्र परं चैव सुचन्दनम् ।  
 वौक्तिका मणयः स्निग्धा वज्रं चापि प्रवालकम् ॥
 </details>
 
@@ -448,8 +448,8 @@ Choice aloeswood (_aguruḥ_) burned there, as well as supreme sandalwood (_para
 
 <details><summary>मूलम्</summary>
 
-क्षौमं च दह्यते तत्र कौशेयं चापि शोभनम् ।  
-आविकं विविधं चौर्णं काञ्चनं भाण्डमायुधम् ॥ ९ ॥
+[^non-baroDa-CE] क्षौमं च दह्यते तत्र कौशेयं चापि शोभनम् ।  
+[^non-baroDa-CE] आविकं विविधं चौर्णं काञ्चनं भाण्डमायुधम् ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -500,10 +500,10 @@ Linen fabrics (_kṣaumam_) burned there, along with splendid silk (_kauśeyaṃ
 
 <details><summary>मूलम्</summary>
 
-नानाविकृतसंस्थानं वाजिभाण्डपरिच्छदम् ।  
-गजग्रैवेयकक्ष्याश्च रथभाण्डांश्च संस्कृतान् ॥ १० ॥
+[^non-baroDa-CE] नानाविकृतसंस्थानं वाजिभाण्डपरिच्छदम् ।  
+[^non-baroDa-CE] गजग्रैवेयकक्ष्याश्च रथभाण्डांश्च संस्कृतान् ॥ १० ॥
 _________________
-नाना विकृत संस्थानं वाजिभाण्ड परिच्छदम् ।  
+[^non-baroDa-CE] नाना विकृत संस्थानं वाजिभाण्ड परिच्छदम् ।  
 गजग्रैवेयकक्ष्याश्च रथभाण्डाश्च संस्कृतान् ॥
 </details>
 
@@ -560,16 +560,16 @@ chariots were also burnt.
 
 <details><summary>मूलम्</summary>
 
-तनुत्राणि च योधानां हस्त्यश्वानां च वर्म च ।  
-खड्गा धनूंषि ज्याबाणास्तोमराङ्कुशशक्तयः ॥ ११ ॥  
-रोमजं वालजं चर्म व्याघ्रजं चाण्डजं बहु ।  
-मुक्तामणिविचित्रांश्च प्रासादांश्च समन्ततः ॥ १२ ॥  
+[^non-baroDa-CE] तनुत्राणि च योधानां हस्त्यश्वानां च वर्म च ।  
+[^non-baroDa-CE] खड्गा धनूंषि ज्याबाणास्तोमराङ्कुशशक्तयः ॥ ११ ॥  
+[^non-baroDa-CE] रोमजं वालजं चर्म व्याघ्रजं चाण्डजं बहु ।  
+[^non-baroDa-CE] मुक्तामणिविचित्रांश्च प्रासादांश्च समन्ततः ॥ १२ ॥  
 विविधानस्त्रसङ्घातानग्निर्दहति तत्र वै ।
 _________________
-तनुत्राणि च योधानां हस्त्यश्वानां च वर्म च ।  
-खड्गा धनूंषि ज्याबाणास्तोमराङ्कुश शक्तयः ॥
-रोमजं वालजं चर्म व्याघ्रजं चाण्डजं बहु ।  
-मुक्तामणिविचित्रांश्च प्रासादांश्च समन्ततः ॥  
+[^non-baroDa-CE] तनुत्राणि च योधानां हस्त्यश्वानां च वर्म च ।  
+[^non-baroDa-CE] खड्गा धनूंषि ज्याबाणास्तोमराङ्कुश शक्तयः ॥
+[^non-baroDa-CE] रोमजं वालजं चर्म व्याघ्रजं चाण्डजं बहु ।  
+[^non-baroDa-CE] मुक्तामणिविचित्रांश्च प्रासादांश्च समन्ततः ॥  
 विविधानससङ्घातानग्निर्दहति तत्र वै ।
 </details>
 
@@ -627,7 +627,7 @@ The fire devours arsenals of weapons and the opulent residences of hundreds of t
 
 <details><summary>मूलम्</summary>
 
-नानाविधान् गृहांश्चित्रान् ददाह हुतभुक् तदा ॥ १३ ॥  
+[^non-baroDa-CE] नानाविधान् गृहांश्चित्रान् ददाह हुतभुक् तदा ॥ १३ ॥  
 आवासान् राक्षसानां च सर्वेषां गृहगृध्नुनाम् ।  
 हेमचित्रतनुत्राणां स्रग्भाण्डाम्बरधारिणाम् ॥ १४ ॥
 </details>
@@ -868,8 +868,8 @@ that fire burned down those mountain-like mansions (_acalābhāni veśmāni_) ec
 
 <details><summary>मूलम्</summary>
 
-ज्वलनेन परीतानि गृहाणि प्रचकाशिरे ॥ २२ ॥  
-दावाग्निदीप्तानि यथा शिखराणि महागिरेः ।
+[^non-baroDa-CE] ज्वलनेन परीतानि गृहाणि प्रचकाशिरे ॥ २२ ॥  
+[^non-baroDa-CE] दावाग्निदीप्तानि यथा शिखराणि महागिरेः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1220,8 +1220,8 @@ Seeing a loose horse, an elephant in some places shrank back in terror (_bhīto 
 
 <details><summary>मूलम्</summary>
 
-लङ्कायां दह्यमानायां शुशुभे च महोदधिः ।  
-छायासंसक्तसलिलो लोहितोद इवार्णवः ॥ २९ ॥
+[^non-baroDa-CE] लङ्कायां दह्यमानायां शुशुभे च महोदधिः ।  
+[^non-baroDa-CE] छायासंसक्तसलिलो लोहितोद इवार्णवः ॥ २९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1627,8 +1627,8 @@ Rāma's bowstring twang drowns out the clamor of monkeys and demons while his ar
 
 <details><summary>मूलम्</summary>
 
-उद‍्घुष्टं वानराणां च राक्षसानां च निःस्वनम् ।  
-ज्याशब्दस्तावुभौ शब्दावति रामस्य शुश्रुवे ॥ ३७ ॥
+[^non-baroDa-CE] उद‍्घुष्टं वानराणां च राक्षसानां च निःस्वनम् ।  
+[^non-baroDa-CE] ज्याशब्दस्तावुभौ शब्दावति रामस्य शुश्रुवे ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2127,11 +2127,11 @@ Incensed with rage (_saṃkruddhaḥ_), he dispatched both Kumbha and Nikumbha (
 
 <details><summary>मूलम्</summary>
 
-यूपाक्षः शोणिताक्षश्च प्रजङ्घः कम्पनस्तथा ।  
-निर्ययुः कौम्भकर्णिभ्यां सह रावणशासनात् ॥ ४७ ॥
+[^non-baroDa-CE] यूपाक्षः शोणिताक्षश्च प्रजङ्घः कम्पनस्तथा ।  
+[^non-baroDa-CE] निर्ययुः कौम्भकर्णिभ्यां सह रावणशासनात् ॥ ४७ ॥
 _________________
 यूपाक्षः शोणिताक्षश्च प्रजङ्घकम्पनस्तथा ।  
-निर्ययुः कौम्भकर्णिभ्यां सह रावणशासनात् ॥
+[^non-baroDa-CE] निर्ययुः कौम्भकर्णिभ्यां सह रावणशासनात् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2279,8 +2279,8 @@ Impelled by him (_coditās tena_), those heroic Rākṣasas with blazing weapons
 
 <details><summary>मूलम्</summary>
 
-रक्षसां भूषणस्थाभिर्भाभिः स्वाभिश्च सर्वशः ।  
-चक्रुस्ते सप्रभं व्योम हरयश्चाग्निभिः सह ॥ ५० ॥
+[^non-baroDa-CE] रक्षसां भूषणस्थाभिर्भाभिः स्वाभिश्च सर्वशः ।  
+[^non-baroDa-CE] चक्रुस्ते सप्रभं व्योम हरयश्चाग्निभिः सह ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2331,11 +2331,11 @@ By the rays resting upon the ornaments of the Rākṣasas (_rakṣasāṃ bhū�
 
 <details><summary>मूलम्</summary>
 
-तत्र ताराधिपस्याभा ताराणां भा तथैव च ।  
-तयोराभरणाभा च ज्वलिता द्यामभासयत् ॥ ५१ ॥
+[^non-baroDa-CE] तत्र ताराधिपस्याभा ताराणां भा तथैव च ।  
+[^non-baroDa-CE] तयोराभरणाभा च ज्वलिता द्यामभासयत् ॥ ५१ ॥
 _________________
 तत्र ताराधिपस्याभा ताराणां च तथैव च ।  
-तयोराभरणाभा च ज्वलिता द्यामभासयत् ॥
+[^non-baroDa-CE] तयोराभरणाभा च ज्वलिता द्यामभासयत् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2381,11 +2381,11 @@ There the luster of the lord of stars (_tārādhipasyābhā_), the radiance of t
 
 <details><summary>मूलम्</summary>
 
-चन्द्राभा भूषणाभा च ग्रहाणां ज्वलतां च भा ।  
-हरिराक्षससैन्यानि भ्राजयामास सर्वतः ॥ ५२ ॥
+[^non-baroDa-CE] चन्द्राभा भूषणाभा च ग्रहाणां ज्वलतां च भा ।  
+[^non-baroDa-CE] हरिराक्षससैन्यानि भ्राजयामास सर्वतः ॥ ५२ ॥
 _________________
 चन्द्राभा भूषणाभा च गृहाणां ज्वलतां च भा ।  
-हरिराक्षससैन्यानि भ्राजयामास सर्वतः ॥
+[^non-baroDa-CE] हरिराक्षससैन्यानि भ्राजयामास सर्वतः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2431,11 +2431,11 @@ Moonlight, ornament-luster, and the radiance of blazing houses (_grahāṇāṃ 
 
 <details><summary>मूलम्</summary>
 
-तत्र चार्धप्रदीप्तानां गृहाणां सागरः पुनः ।  
-भाभिः संसक्तसलिलश्चलोर्मिः शुशुभेऽधिकम् ॥ ५३ ॥
+[^non-baroDa-CE] तत्र चार्धप्रदीप्तानां गृहाणां सागरः पुनः ।  
+[^non-baroDa-CE] भाभिः संसक्तसलिलश्चलोर्मिः शुशुभेऽधिकम् ॥ ५३ ॥
 _________________
 तत्र चार्ध्वप्रदीप्तानां गृहाणां सागरः पुनः ।  
-भाभिः संसक्तसलिलश्चलोर्मिः शुशुभेऽधिकम् ॥
+[^non-baroDa-CE] भाभिः संसक्तसलिलश्चलोर्मिः शुशुभेऽधिकम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2496,7 +2496,7 @@ Brandishing pikes, maces, and axes while wafting the scent of garlands and wine,
 
 <details><summary>मूलम्</summary>
 
-पताकाध्वजसंयुक्तमुत्तमासिपरश्वधम् ।  
+[^non-baroDa-CE] पताकाध्वजसंयुक्तमुत्तमासिपरश्वधम् ।  
 भीमाश्वरथमातङ्गं नानापत्तिसमाकुलम् ॥ ५४ ॥  
 दीप्तशूलगदाखड्गप्रासतोमरकार्मुकम् ।  
 तद् राक्षसबलं भीमं घोरविक्रमपौरुषम् ॥ ५५ ॥
@@ -2765,8 +2765,8 @@ charged against the opposing host (_abhyayāt pratyaribalam_) like moths into a 
 
 <details><summary>मूलम्</summary>
 
-तत्रोन्मत्ता इवोत्पेतुर्हरयोऽथ युयुत्सवः ॥ ६१ ॥  
-तरुशैलैरभिघ्नन्तो मुष्टिभिश्च निशाचरान् ।
+[^non-baroDa-CE] तत्रोन्मत्ता इवोत्पेतुर्हरयोऽथ युयुत्सवः ॥ ६१ ॥  
+[^non-baroDa-CE] तरुशैलैरभिघ्नन्तो मुष्टिभिश्च निशाचरान् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2811,8 +2811,8 @@ that foremost army of the Rākṣasas (_rākṣasānāṃ balaṃ śreṣṭham_
 
 <details><summary>मूलम्</summary>
 
-तथैवापततां तेषां हरीणां निशितैः शरैः ॥ ६२ ॥  
-शिरांसि सहसा जह्रू राक्षसा भीमविक्रमाः ।
+[^non-baroDa-CE] तथैवापततां तेषां हरीणां निशितैः शरैः ॥ ६२ ॥  
+[^non-baroDa-CE] शिरांसि सहसा जह्रू राक्षसा भीमविक्रमाः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2858,8 +2858,8 @@ smiting the night-roamers with trees, crags, and fists (_taruśailair abhighnant
 
 <details><summary>मूलम्</summary>
 
-दशनैर्हतकर्णाश्च मुष्टिभिर्भिन्नमस्तकाः ।  
-शिलाप्रहारभग्नाङ्गा विचेरुस्तत्र राक्षसाः ॥ ६३ ॥
+[^non-baroDa-CE] दशनैर्हतकर्णाश्च मुष्टिभिर्भिन्नमस्तकाः ।  
+[^non-baroDa-CE] शिलाप्रहारभग्नाङ्गा विचेरुस्तत्र राक्षसाः ॥ ६३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3072,7 +3072,7 @@ one chewed the one chewing another.
 
 <details><summary>मूलम्</summary>
 
-विप्रलम्भितशस्त्रं च विमुक्तकवचायुधम् ।  
+[^non-baroDa-CE] विप्रलम्भितशस्त्रं च विमुक्तकवचायुधम् ।  
 समुद्यतमहाप्रासं मुष्टिशूलासिकुन्तलम् ॥ ६७ ॥  
 प्रावर्तत महारौद्रं युद्धं वानररक्षसाम् ।  
 वानरान् दश सप्तेति राक्षसा जघ्नुराहवे ॥ ६८ ॥  
@@ -3179,3 +3179,4 @@ and the Vānaras too felled the Rākṣasas by tens and sevens (_rākṣasān da
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

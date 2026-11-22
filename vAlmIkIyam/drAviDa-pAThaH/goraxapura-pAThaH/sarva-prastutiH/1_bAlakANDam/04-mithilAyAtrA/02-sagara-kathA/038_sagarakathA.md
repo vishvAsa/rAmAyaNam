@@ -215,7 +215,7 @@ On v. 2, **Tilaka** and **Govindarāja** construe _aprajaḥ_ as the cause of _p
 
 <details><summary>मूलम्</summary>
 
-अरिष्टनेमेर्दुहिता सुपर्णभगिनी तु सा ।  
+[^non-baroDa-CE] अरिष्टनेमेर्दुहिता सुपर्णभगिनी तु सा ।  
 द्वितीया सगरस्यासीत् पत्नी सुमतिसञ्ज्ञिता ॥ ४ ॥
 </details>
 
@@ -1169,7 +1169,7 @@ When wicked Asamañja drowns the citizens’ children in the Sarayū, righteous 
 
 <details><summary>मूलम्</summary>
 
-एवं पापसमाचारः सज्जनप्रतिबाधकः ॥ २१ ॥  
+[^non-baroDa-CE] एवं पापसमाचारः सज्जनप्रतिबाधकः ॥ २१ ॥  
 पौराणामहिते युक्तः पित्रा निर्वासितः पुरात् ।
 </details>
 
@@ -1394,3 +1394,4 @@ That king Sagara who is an expert in Vedic-procedures has then taken
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

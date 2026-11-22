@@ -151,8 +151,8 @@ Worn out with tears born of sorrow (_śoka-jāśru-paridyūnāḥ_) and gazing t
 
 <details><summary>मूलम्</summary>
 
-ते विषादार्तवदना रहितास्तेन धीमता ।  
-कृपणाः करुणा वाचो वदन्ति स्म मनीषिणः ॥ ३ ॥
+[^non-baroDa-CE] ते विषादार्तवदना रहितास्तेन धीमता ।  
+[^non-baroDa-CE] कृपणाः करुणा वाचो वदन्ति स्म मनीषिणः ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -204,8 +204,8 @@ Their faces afflicted with despair (_viṣādārta-vadanāḥ_), bereft of that 
 
 <details><summary>मूलम्</summary>
 
-धिगस्तु खलु निद्रां तां ययापहतचेतसः ।  
-नाद्य पश्यामहे रामं पृथूरस्कं महाभुजम् ॥ ४ ॥
+[^non-baroDa-CE] धिगस्तु खलु निद्रां तां ययापहतचेतसः ।  
+[^non-baroDa-CE] नाद्य पश्यामहे रामं पृथूरस्कं महाभुजम् ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -256,8 +256,8 @@ that mighty armed Rama with a broad chest."
 
 <details><summary>मूलम्</summary>
 
-कथं रामो महाबाहुः स तथावितथक्रियः ।  
-भक्तं जनमभित्यज्य प्रवासं तापसो गतः ॥ ५ ॥
+[^non-baroDa-CE] कथं रामो महाबाहुः स तथावितथक्रियः ।  
+[^non-baroDa-CE] भक्तं जनमभित्यज्य प्रवासं तापसो गतः ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -308,8 +308,8 @@ How could the mighty-armed Rāma, whose deeds are ever unfailing (_avitatha-kriy
 
 <details><summary>मूलम्</summary>
 
-यो नः सदा पालयति पिता पुत्रानिवौरसान् ।  
-कथं रघूणां स श्रेष्ठस्त्यक्त्वा नो विपिनं गतः ॥ ६ ॥
+[^non-baroDa-CE] यो नः सदा पालयति पिता पुत्रानिवौरसान् ।  
+[^non-baroDa-CE] कथं रघूणां स श्रेष्ठस्त्यक्त्वा नो विपिनं गतः ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -363,8 +363,8 @@ Resolving to die on the spot, set out on the Great Northward Journey, or enter a
 
 <details><summary>मूलम्</summary>
 
-इहैव निधनं याम महाप्रस्थानमेव वा ।  
-रामेण रहितानां नो किमर्थं जीवितं हितम् ॥ ७ ॥
+[^non-baroDa-CE] इहैव निधनं याम महाप्रस्थानमेव वा ।  
+[^non-baroDa-CE] रामेण रहितानां नो किमर्थं जीवितं हितम् ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -417,8 +417,8 @@ Let us meet death right here (_ihaiva nidhanaṃ yāma_), or else set forth upon
 
 <details><summary>मूलम्</summary>
 
-सन्ति शुष्काणि काष्ठानि प्रभूतानि महान्ति च ।  
-तैः प्रज्वाल्य चितां सर्वे प्रविशामोऽथवा वयम् ॥ ८ ॥
+[^non-baroDa-CE] सन्ति शुष्काणि काष्ठानि प्रभूतानि महान्ति च ।  
+[^non-baroDa-CE] तैः प्रज्वाल्य चितां सर्वे प्रविशामोऽथवा वयम् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -469,8 +469,8 @@ Here there are dry logs of timber (_śuṣkāṇi kāṣṭhāni_), abundant and
 
 <details><summary>मूलम्</summary>
 
-किं वक्ष्यामो महाबाहुरनसूयः प्रियंवदः ।  
-नीतः स राघवोऽस्माभिरिति वक्तुं कथं क्षमम् ॥ ९ ॥
+[^non-baroDa-CE] किं वक्ष्यामो महाबाहुरनसूयः प्रियंवदः ।  
+[^non-baroDa-CE] नीतः स राघवोऽस्माभिरिति वक्तुं कथं क्षमम् ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -523,8 +523,8 @@ What shall we say (_kiṃ vakṣyāmaḥ_)? How is it possible or fitting to dec
 
 <details><summary>मूलम्</summary>
 
-सा नूनं नगरी दीना दृष्ट्वास्मान् राघवं विना ।  
-भविष्यति निरानन्दा सस्त्रीबालवयोऽधिका ॥ १० ॥
+[^non-baroDa-CE] सा नूनं नगरी दीना दृष्ट्वास्मान् राघवं विना ।  
+[^non-baroDa-CE] भविष्यति निरानन्दा सस्त्रीबालवयोऽधिका ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -569,8 +569,8 @@ Seeing us without Rāghava, that wretched city (_sā nūnaṃ nagarī dīnā_), 
 
 <details><summary>मूलम्</summary>
 
-निर्यातास्तेन वीरेण सह नित्यं महात्मना ।  
-विहीनास्तेन च पुनः कथं द्रक्ष्याम तां पुरीम् ॥ ११ ॥
+[^non-baroDa-CE] निर्यातास्तेन वीरेण सह नित्यं महात्मना ।  
+[^non-baroDa-CE] विहीनास्तेन च पुनः कथं द्रक्ष्याम तां पुरीम् ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -629,8 +629,8 @@ Lamenting with upraised arms like choice cows robbed of their calves, the citize
 
 <details><summary>मूलम्</summary>
 
-इतीव बहुधा वाचो बाहुमुद्यम्य ते जनाः ।  
-विलपन्ति स्म दुःखार्ता हृतवत्सा इवाग्र्यगाः ॥ १२ ॥
+[^non-baroDa-CE] इतीव बहुधा वाचो बाहुमुद्यम्य ते जनाः ।  
+[^non-baroDa-CE] विलपन्ति स्म दुःखार्ता हृतवत्सा इवाग्र्यगाः ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -850,8 +850,8 @@ Beholding Ayodhyā bereft of Rāma like a river whose serpents have been snatche
 
 <details><summary>मूलम्</summary>
 
-आलोक्य नगरीं तां च क्षयव्याकुलमानसाः ।  
-आवर्तयन्त तेऽश्रूणि नयनैः शोकपीडितैः ॥ १६ ॥
+[^non-baroDa-CE] आलोक्य नगरीं तां च क्षयव्याकुलमानसाः ।  
+[^non-baroDa-CE] आवर्तयन्त तेऽश्रूणि नयनैः शोकपीडितैः ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -902,8 +902,8 @@ And beholding that city (_ālokya nagarīṃ tāṃ ca_), their minds distraught
 
 <details><summary>मूलम्</summary>
 
-एषा रामेण नगरी रहिता नातिशोभते ।  
-आपगा गरुडेनेव ह्रदादुद्‍धृतपन्नगा ॥ १७ ॥
+[^non-baroDa-CE] एषा रामेण नगरी रहिता नातिशोभते ।  
+[^non-baroDa-CE] आपगा गरुडेनेव ह्रदादुद्‍धृतपन्नगा ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -948,10 +948,10 @@ river whose snakes were uplifted from its pool by Garuda.
 
 <details><summary>मूलम्</summary>
 
-चन्द्रहीनमिवाकाशं तोयहीनमिवार्णवम् ।  
-अपश्यन् निहतानन्दं नगरं ते विचेतसः ॥ १८ ॥
+[^non-baroDa-CE] चन्द्रहीनमिवाकाशं तोयहीनमिवार्णवम् ।  
+[^non-baroDa-CE] अपश्यन् निहतानन्दं नगरं ते विचेतसः ॥ १८ ॥
 _________________
-चन्द्रहीनमिवाकाशं तोयहीनमिवार्णवम् ।  
+[^non-baroDa-CE] चन्द्रहीनमिवाकाशं तोयहीनमिवार्णवम् ।  
 अपशन्निहतानन्दं नगरं ते विचेतसः ॥
 </details>
 
@@ -999,14 +999,14 @@ Beside themselves in mind (_vicetasaḥ_), they looked upon the city whose joy h
 
 <details><summary>मूलम्</summary>
 
-ते तानि वेश्मानि महाधनानि  
-दुःखेन दुःखोपहता विशन्तः ।  
-नैव प्रजग्मुः स्वजनं परं वा  
-निरीक्ष्यमाणाः प्रविनष्टहर्षाः ॥ १९ ॥
+[^non-baroDa-CE] ते तानि वेश्मानि महाधनानि  
+[^non-baroDa-CE] दुःखेन दुःखोपहता विशन्तः ।  
+[^non-baroDa-CE] नैव प्रजग्मुः स्वजनं परं वा  
+[^non-baroDa-CE] निरीक्ष्यमाणाः प्रविनष्टहर्षाः ॥ १९ ॥
 _________________
-ते तानि वेश्मानि महाधनानि  
-दुःखेन दुःखोपहता विशन्तः ।  
-नैव प्रजग्मुः स्वजनं परं वा  
+[^non-baroDa-CE] ते तानि वेश्मानि महाधनानि  
+[^non-baroDa-CE] दुःखेन दुःखोपहता विशन्तः ।  
+[^non-baroDa-CE] नैव प्रजग्मुः स्वजनं परं वा  
 निरीक्षमाणाः प्रविनष्टहर्षाः ॥
 </details>
 
@@ -1064,3 +1064,4 @@ Afflicted with sorrow (_duḥkhopahatāḥ_) and entering those richly endowed m
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -168,7 +168,7 @@ capture Hanuma and equal to the speed of wind in battle.
 <details><summary>मूलम्</summary>
 
 यात सेनाग्रगाः सर्वे महाबलपरिग्रहाः ।  
-सवाजिरथमातङ्गाः स कपिः शास्यतामिति ॥ ४ ॥
+[^non-baroDa-CE] सवाजिरथमातङ्गाः स कपिः शास्यतामिति ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -326,11 +326,11 @@ Suspecting that Indra or the conquered gods, Nāgas, Yakṣas, Gandharvas, and g
 
 <details><summary>मूलम्</summary>
 
-वानरोऽयमिति ज्ञात्वा नहि शुद्ध्यति मे मनः ।  
-नैवाहं तं कपिं मन्ये यथेयं प्रस्तुता कथा ॥ ७ ॥
+[^non-baroDa-CE] वानरोऽयमिति ज्ञात्वा नहि शुद्ध्यति मे मनः ।  
+[^non-baroDa-CE] नैवाहं तं कपिं मन्ये यथेयं प्रस्तुता कथा ॥ ७ ॥
 _________________
 वानरोयमिति ज्ञात्वा न हि शुध्यति मे मनः ।  
-नैवाहं तं कपिं मन्ये यथेयं प्रस्तुता कथा ॥
+[^non-baroDa-CE] नैवाहं तं कपिं मन्ये यथेयं प्रस्तुता कथा ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -428,8 +428,8 @@ despised by you."
 <details><summary>मूलम्</summary>
 
 तदेव नात्र सन्देहः प्रसह्य परिगृह्यताम् ।  
-यात सेनाग्रगाः सर्वे महाबलपरिग्रहाः ॥ १० ॥  
-सवाजिरथमातङ्गाः स कपिः शास्यतामिति ।
+[^non-baroDa-CE] यात सेनाग्रगाः सर्वे महाबलपरिग्रहाः ॥ १० ॥  
+[^non-baroDa-CE] सवाजिरथमातङ्गाः स कपिः शास्यतामिति ।
 _________________
 यात सेनाग्रगास्सर्वे महाबलपरिग्रहाः ।  
 स वाजिरथमातङ्गाः स कपिश्शास्यतामिति ॥
@@ -1743,11 +1743,11 @@ Tearing up a mountain peak with its beasts and trees, Hanūmān crushes Praghasa
 
 समुत्पाट्य गिरेः शृङ्गं समृगव्यालपादपम् ।  
 जघान हनुमान् वीरो राक्षसौ कपिकुञ्जरः ।  
-गिरिशृङ्गसुनिष्पिष्टौ तिलशस्तौ बभूवतुः ॥ ३७ ॥
+[^non-baroDa-CE] गिरिशृङ्गसुनिष्पिष्टौ तिलशस्तौ बभूवतुः ॥ ३७ ॥
 _________________
 समुत्पाट्य गिरेः शृङ्गं समृग्रव्यालपादपम् ।  
 जघान हनुमान् वीरो राक्षसौ कपिकुञ्जरः ।  
-गिरिशृङ्ग सुनिष्पिष्टौ तिलशस्तौ बभूवतुः ॥
+[^non-baroDa-CE] गिरिशृङ्ग सुनिष्पिष्टौ तिलशस्तौ बभूवतुः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1991,3 +1991,4 @@ Then, having slain those heroic army commanders (_dhvajinīpatīn_) in battle al
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

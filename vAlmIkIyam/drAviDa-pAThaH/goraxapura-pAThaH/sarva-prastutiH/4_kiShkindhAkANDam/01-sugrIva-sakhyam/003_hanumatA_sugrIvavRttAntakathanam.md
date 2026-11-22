@@ -106,11 +106,11 @@ Understanding the words (_vacaḥ_) of high-souled Sugrīva, Hanūmān leaped fo
 
 <details><summary>मूलम्</summary>
 
-कपिरूपं परित्यज्य हनुमान् मारुतात्मजः ।  
-भिक्षुरूपं ततो भेजे शठबुद्धितया कपिः ॥ २ ॥
+[^non-baroDa-CE] कपिरूपं परित्यज्य हनुमान् मारुतात्मजः ।  
+[^non-baroDa-CE] भिक्षुरूपं ततो भेजे शठबुद्धितया कपिः ॥ २ ॥
 _________________
 कपिरूपं परित्यज्य हनुमान् मरुतात्मजः ।  
-भिक्षुरूपं ततो भेजे शठबुद्धितया कपिः ॥
+[^non-baroDa-CE] भिक्षुरूपं ततो भेजे शठबुद्धितया कपिः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -168,18 +168,18 @@ Casting aside his monkey-form (_kapirūpam_), the ape Hanūmān, son of the Wind
 
 <details><summary>मूलम्</summary>
 
-ततश्च हनुमान् वाचा श्लक्ष्णया सुमनोज्ञया ।  
-विनीतवदुपागम्य राघवौ प्रणिपत्य च ॥ ३ ॥  
+[^non-baroDa-CE] ततश्च हनुमान् वाचा श्लक्ष्णया सुमनोज्ञया ।  
+[^non-baroDa-CE] विनीतवदुपागम्य राघवौ प्रणिपत्य च ॥ ३ ॥  
 आबभाषे च तौ वीरौ यथावत् प्रशशंस च ।  
-सम्पूज्य विधिवद् वीरौ हनुमान् वानरोत्तमः ॥ ४ ॥  
-उवाच कामतो वाक्यं मृदु सत्यपराक्रमौ ।  
+[^non-baroDa-CE] सम्पूज्य विधिवद् वीरौ हनुमान् वानरोत्तमः ॥ ४ ॥  
+[^non-baroDa-CE] उवाच कामतो वाक्यं मृदु सत्यपराक्रमौ ।  
 राजर्षिदेवप्रतिमौ तापसौ संशितव्रतौ ॥ ५ ॥
 _________________
-ततश्च हनुमान्वाचा श्लक्ष्णया सुमनोज्ञया ।  
-विनीतवदुपागम्य राघवौ प्रणिपत्य च ॥
+[^non-baroDa-CE] ततश्च हनुमान्वाचा श्लक्ष्णया सुमनोज्ञया ।  
+[^non-baroDa-CE] विनीतवदुपागम्य राघवौ प्रणिपत्य च ॥
 आबभाषे च तौ वीरौ यथावत् प्रशशंस च ।  
 सम्पूज्य विधिवद्वीरौ हमिमान् वानरोत्तमः ॥
-उवाच कामतो वाक्यं मृदु सत्यपराक्रमौ ।  
+[^non-baroDa-CE] उवाच कामतो वाक्यं मृदु सत्यपराक्रमौ ।  
 राजर्षिदेवप्रतिमौ तापसौ संशितव्रतौ ॥
 </details>
 
@@ -390,14 +390,14 @@ Praising the golden-hued, lotus-eyed princes who illuminate the mountain lord wi
 पम्पातीररुहान् वृक्षान् वीक्षमाणौ समन्ततः ।  
 इमां नदीं शुभजलां शोभयन्तौ तरस्विनौ ॥ ७ ॥  
 धैर्यवन्तौ सुवर्णाभौ कौ युवां चीरवाससौ ।  
-निःश्वसन्तौ वरभुजौ पीडयन्ताविमाः प्रजाः ॥ ८ ॥
+[^non-baroDa-CE] निःश्वसन्तौ वरभुजौ पीडयन्ताविमाः प्रजाः ॥ ८ ॥
 _________________
 देशं कथमिमं प्राप्तौ भवन्तौ वरवर्णिनौ ।  
 त्रासयन्तौ मृगगणानन्यांश्च वनचारिणः ॥
 पम्पातीररुहान्वृक्षान् वीक्षमाणौ समन्ततः ।  
 इमां नदीं शुभजलां शोभयन्तौ तपस्विनौ ॥
 धैर्यवन्तौ सुवर्णाभौ कौ युवां चीरवाससौ ।  
-निःश्वसन्तौ वरभुजौ पीडयन्ता विमाः प्रजाः ॥
+[^non-baroDa-CE] निःश्वसन्तौ वरभुजौ पीडयन्ता विमाः प्रजाः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -469,7 +469,7 @@ yet you look mighty shouldered... who are you that distress all the beings in th
 <details><summary>मूलम्</summary>
 
 सिंहविप्रेक्षितौ वीरौ महाबलपराक्रमौ ।  
-शक्रचापनिभे चापे गृहीत्वा शत्रुनाशनौ ॥ ९ ॥
+[^non-baroDa-CE] शक्रचापनिभे चापे गृहीत्वा शत्रुनाशनौ ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1400,10 +1400,10 @@ usage can be found in this chapter at 4-3-36, *vaajyaj~naH, vaakyaj~nam* etc.
 
 <details><summary>मूलम्</summary>
 
-नानृग्वेदविनीतस्य नायजुर्वेदधारिणः ।  
-नासामवेदविदुषः शक्यमेवं विभाषितुम् ॥ २८ ॥
+[^non-baroDa-CE] नानृग्वेदविनीतस्य नायजुर्वेदधारिणः ।  
+[^non-baroDa-CE] नासामवेदविदुषः शक्यमेवं विभाषितुम् ॥ २८ ॥
 _________________
-नानृग्वेदविनीतस्य नायजुर्वेदधारिणः ।  
+[^non-baroDa-CE] नानृग्वेदविनीतस्य नायजुर्वेदधारिणः ।  
 नासामवेदविदुषः शक्यमेवं प्रभाषितुम् ॥
 </details>
 
@@ -1474,7 +1474,7 @@ direct base in the Veda-s.
 
 <details><summary>मूलम्</summary>
 
-नूनं व्याकरणं कृत्स्नमनेन बहुधा श्रुतम् ।  
+[^non-baroDa-CE] नूनं व्याकरणं कृत्स्नमनेन बहुधा श्रुतम् ।  
 बहु व्याहरतानेन न किञ्चिदपशब्दितम् ॥ २९ ॥
 </details>
 
@@ -1544,8 +1544,8 @@ Continuing his praise, Rāma extols Hanūmān's composed countenance, his concis
 
 <details><summary>मूलम्</summary>
 
-न मुखे नेत्रयोश्चापि ललाटे च भ्रुवोस्तथा ।  
-अन्येष्वपि च सर्वेषु दोषः संविदितः क्वचित् ॥ ३० ॥
+[^non-baroDa-CE] न मुखे नेत्रयोश्चापि ललाटे च भ्रुवोस्तथा ।  
+[^non-baroDa-CE] अन्येष्वपि च सर्वेषु दोषः संविदितः क्वचित् ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1613,7 +1613,7 @@ sorts of worst reciters of Vedic hymns.
 <details><summary>मूलम्</summary>
 
 अविस्तरमसन्दिग्धमविलम्बितमव्यथम् ।  
-उरःस्थं कण्ठगं वाक्यं वर्तते मध्यमस्वरम् ॥ ३१ ॥
+[^non-baroDa-CE] उरःस्थं कण्ठगं वाक्यं वर्तते मध्यमस्वरम् ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1685,8 +1685,8 @@ labiovelar, are the fourteen reciting mistakes.
 
 <details><summary>मूलम्</summary>
 
-संस्कारक्रमसम्पन्नामद्भुतामविलम्बिताम् ।  
-उच्चारयति कल्याणीं वाचं हृदयहर्षिणीम् ॥ ३२ ॥
+[^non-baroDa-CE] संस्कारक्रमसम्पन्नामद्भुतामविलम्बिताम् ।  
+[^non-baroDa-CE] उच्चारयति कल्याणीं वाचं हृदयहर्षिणीम् ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1754,8 +1754,8 @@ confident, and rhythm included are the six best qualities of best reciters.
 
 <details><summary>मूलम्</summary>
 
-अनया चित्रया वाचा त्रिस्थानव्यञ्जनस्थया ।  
-कस्य नाराध्यते चित्तमुद्यतासेररेरपि ॥ ३३ ॥
+[^non-baroDa-CE] अनया चित्रया वाचा त्रिस्थानव्यञ्जनस्थया ।  
+[^non-baroDa-CE] कस्य नाराध्यते चित्तमुद्यतासेररेरपि ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1813,10 +1813,10 @@ namely the training.
 
 <details><summary>मूलम्</summary>
 
-एवंविधो यस्य दूतो न भवेत् पार्थिवस्य तु ।  
-सिद्ध्यन्ति हि कथं तस्य कार्याणां गतयोऽनघ ॥ ३४ ॥
+[^non-baroDa-CE] एवंविधो यस्य दूतो न भवेत् पार्थिवस्य तु ।  
+[^non-baroDa-CE] सिद्ध्यन्ति हि कथं तस्य कार्याणां गतयोऽनघ ॥ ३४ ॥
 _________________
-एवं विधो यस्य दूतो न भवेत् पार्थिवस्य तु ।  
+[^non-baroDa-CE] एवं विधो यस्य दूतो न भवेत् पार्थिवस्य तु ।  
 सिध्यन्ति हि कथं तस्य कार्याणां गतयोऽनघ ॥
 </details>
 
@@ -1870,9 +1870,9 @@ Instructed by Rāma, Lakṣmaṇa assures the learned Hanūmān that they too ar
 <details><summary>मूलम्</summary>
 
 एवङ्गुणगणैर्युक्ता यस्य स्युः कार्यसाधकाः ।  
-तस्य सिद्ध्यन्ति सर्वेऽर्था दूतवाक्यप्रचोदिताः ॥ ३५ ॥
+[^non-baroDa-CE] तस्य सिद्ध्यन्ति सर्वेऽर्था दूतवाक्यप्रचोदिताः ॥ ३५ ॥
 _________________
-एवं गुणगणैर्युक्ता यस्य स्युः कार्यसाधकाः ।  
+[^non-baroDa-CE] एवं गुणगणैर्युक्ता यस्य स्युः कार्यसाधकाः ।  
 तस्य सिध्यन्ति सर्वेऽर्था दूतवाक्यप्रचोदिताः ॥
 </details>
 
@@ -1918,8 +1918,8 @@ be achieved impelled by such an envoy's words..." Rama thus said to Lakshmana. [
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तु सौमित्रिः सुग्रीवसचिवं कपिम् ।  
-अभ्यभाषत वाक्यज्ञो वाक्यज्ञं पवनात्मजम् ॥ ३६ ॥
+[^non-baroDa-CE] एवमुक्तस्तु सौमित्रिः सुग्रीवसचिवं कपिम् ।  
+[^non-baroDa-CE] अभ्यभाषत वाक्यज्ञो वाक्यज्ञं पवनात्मजम् ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1970,8 +1970,8 @@ Thus addressed [by Rāma], the son of Sumitrā (_saumitriḥ_), a knower of spee
 
 <details><summary>मूलम्</summary>
 
-विदिता नौ गुणा विद्वन् सुग्रीवस्य महात्मनः ।  
-तमेव चावां मार्गावः सुग्रीवं प्लवगेश्वरम् ॥ ३७ ॥
+[^non-baroDa-CE] विदिता नौ गुणा विद्वन् सुग्रीवस्य महात्मनः ।  
+[^non-baroDa-CE] तमेव चावां मार्गावः सुग्रीवं प्लवगेश्वरम् ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2022,8 +2022,8 @@ in search of that lord of fly-jumpers Sugreeva alone... [4-3-37]
 
 <details><summary>मूलम्</summary>
 
-यथा ब्रवीषि हनुमन् सुग्रीववचनादिह ।  
-तत् तथा हि करिष्यावो वचनात् तव सत्तम ॥ ३८ ॥
+[^non-baroDa-CE] यथा ब्रवीषि हनुमन् सुग्रीववचनादिह ।  
+[^non-baroDa-CE] तत् तथा हि करिष्यावो वचनात् तव सत्तम ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2076,10 +2076,10 @@ to do accordingly... [4-3-38]
 
 <details><summary>मूलम्</summary>
 
-तत् तस्य वाक्यं निपुणं निशम्य  
-प्रहृष्टरूपः पवनात्मजः कपिः ।  
-मनः समाधाय जयोपपत्तौ  
-सख्यं तदा कर्तुमियेष ताभ्याम् ॥ ३९ ॥
+[^non-baroDa-CE] तत् तस्य वाक्यं निपुणं निशम्य  
+[^non-baroDa-CE] प्रहृष्टरूपः पवनात्मजः कपिः ।  
+[^non-baroDa-CE] मनः समाधाय जयोपपत्तौ  
+[^non-baroDa-CE] सख्यं तदा कर्तुमियेष ताभ्याम् ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2134,3 +2134,5 @@ friendship between Rama ad Sugreeva, at the earliest. [4-3-39]
 Hearing that skillful speech (_vākyaṃ nipuṇam_) of his, the monkey who was the son of the Wind-god wore a joyful aspect (_prahṛṣṭarūpaḥ_); fixing his mind upon the attainment of victory (_jayopapattau_), he then desired to forge friendship (_sakhyam_) between those two.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

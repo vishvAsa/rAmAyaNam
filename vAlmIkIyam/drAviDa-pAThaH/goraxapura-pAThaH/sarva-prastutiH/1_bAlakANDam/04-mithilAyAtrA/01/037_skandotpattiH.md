@@ -43,7 +43,7 @@ While Mahādeva practices severe austerity with Umā, the gods led by Indra and 
 
 <details><summary>मूलम्</summary>
 
-तप्यमाने तदा देवे सेन्द्राः साग्निपुरोगमाः ।  
+[^non-baroDa-CE] तप्यमाने तदा देवे सेन्द्राः साग्निपुरोगमाः ।  
 सेनापतिमभीप्सन्तः पितामहमुपागमन् ॥ १ ॥
 </details>
 
@@ -1139,7 +1139,7 @@ Beyond contact-transmutation, the embryo’s radiance transmuted the entire moun
 
 जातरूपमिति ख्यातं तदाप्रभृति राघव ।  
 सुवर्णं पुरुषव्याघ्र हुताशनसमप्रभम् ।  
-तृणवृक्षलतागुल्मं सर्वं भवति काञ्चनम् ॥ २२ ॥
+[^non-baroDa-CE] तृणवृक्षलतागुल्मं सर्वं भवति काञ्चनम् ॥ २२ ॥
 _________________
 जातरूपमिति ख्यातं तदाप्रभृति राघव ।  
 सुवर्णं पुरुषव्याघ्र हुताशनसमप्रभम् ॥  
@@ -1732,8 +1732,8 @@ Concluding the first part of Rāma’s inquiry—Gaṅgā’s celestial history 
 
 <details><summary>मूलम्</summary>
 
-भक्तश्च यः कार्तिकेये काकुत्स्थ भुवि मानवः ।  
-आयुष्मान् पुत्रपौत्रैश्च स्कन्दसालोक्यतां व्रजेत् ॥ ३२ ॥
+[^non-baroDa-CE] भक्तश्च यः कार्तिकेये काकुत्स्थ भुवि मानवः ।  
+[^non-baroDa-CE] आयुष्मान् पुत्रपौत्रैश्च स्कन्दसालोक्यतां व्रजेत् ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1795,3 +1795,4 @@ Unpacking those twin rewards, v. 32 promises that a devotee of Kārtikeya—and,
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

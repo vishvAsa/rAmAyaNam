@@ -730,7 +730,7 @@ That residence of the lord of _rākṣasas_ (_rākṣasendraniveśanam_), wherei
 <details><summary>मूलम्</summary>
 
 तद् राजगुणसम्पन्नं मुख्यैश्च वरचन्दनैः ।  
-महाजनसमाकीर्णं सिंहैरिव महद् वनम् ॥ ११ ॥
+[^non-baroDa-CE] महाजनसमाकीर्णं सिंहैरिव महद् वनम् ॥ ११ ॥
 _________________
 तद्राजगुणसम्पन्नं मुख्यैश्च वरचन्दनैः ।  
 महाजन्यॆः समाकीर्णं सिंहैरिव महद्वनम् ॥
@@ -910,7 +910,7 @@ That great monkey beheld it strewn with great gems (_mahāratnasamākīrṇam_),
 <details><summary>मूलम्</summary>
 
 लङ्काभरणमित्येव सोऽमन्यत महाकपिः ।  
-चचार हनुमांस्तत्र रावणस्य समीपतः ॥ १५ ॥
+[^non-baroDa-CE] चचार हनुमांस्तत्र रावणस्य समीपतः ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1261,7 +1261,7 @@ And so too the monkey troop-leader went to the mansion of Indrajit (_indrajito v
 <details><summary>मूलम्</summary>
 
 रश्मिकेतोश्च भवनं सूर्यशत्रोस्तथैव च ।  
-वज्रकायस्य च तथा पुप्लुवे स महाकपिः ॥ २२ ॥
+[^non-baroDa-CE] वज्रकायस्य च तथा पुप्लुवे स महाकपिः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1611,7 +1611,7 @@ Inside Rāvaṇa's residence, Hanūmān beholds gigantic rākṣasas, tethered s
 
 <details><summary>मूलम्</summary>
 
-राक्षसांश्च महाकायान् नानाप्रहरणोद्यतान् ।  
+[^non-baroDa-CE] राक्षसांश्च महाकायान् नानाप्रहरणोद्यतान् ।  
 रक्तान् श्वेतान् सितांश्चापि हरींश्चापि महाजवान् ॥ ३१ ॥
 </details>
 
@@ -2128,3 +2128,4 @@ Hanūmān entered that great palace (_praviveśa mahāgṛham_), which was joine
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

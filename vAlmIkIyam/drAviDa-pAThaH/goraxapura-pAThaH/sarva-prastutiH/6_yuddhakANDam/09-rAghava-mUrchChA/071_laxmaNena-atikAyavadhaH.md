@@ -55,14 +55,14 @@ Enraged at the slaughter of his brothers and paternal uncles, the mountain-sized
 स्वबलं व्यथितं दृष्ट्वा तुमुलं लोमहर्षणम् ।  
 भ्रातॄंश्च निहतान् दृष्ट्वा शक्रतुल्यपराक्रमान् ॥ १ ॥  
 पितृव्यौ चापि सन्दृश्य समरे सन्निपातितौ ।  
-युद्धोन्मत्तं च मत्तं च भ्रातरौ राक्षसोत्तमौ ॥ २ ॥  
+[^non-baroDa-CE] युद्धोन्मत्तं च मत्तं च भ्रातरौ राक्षसोत्तमौ ॥ २ ॥  
 चुकोप च महातेजा ब्रह्मदत्तवरो युधि ।  
 अतिकायोऽद्रिसङ्काशो देवदानवदर्पहा ॥ ३ ॥
 _________________
 स्वबलं व्यथितं दृष्ट्वा तुमुलं लोमहर्षणम् ।  
 भ्रात्यंश्च निहतान्दृष्ट्वाशक्रतुल्य पराक्रमान् ॥
 पितृव्यौ चापि सन्दृश्य समरे सन्निपातितौ ।  
-युद्धोन्मत्तं च मत्तं च भ्रातरौ राक्षसोत्तमौ ॥
+[^non-baroDa-CE] युद्धोन्मत्तं च मत्तं च भ्रातरौ राक्षसोत्तमौ ॥
 चुकोप च महातेजा ब्रह्मदत्तवरो युधि ।  
 अतिकायोऽद्रिसङ्काशो देवदानव दर्पहा ॥
 </details>
@@ -284,8 +284,8 @@ Mistaking the gigantic Atikāya for Kumbhakarṇa risen anew, the panic-stricken
 
 <details><summary>मूलम्</summary>
 
-ते दृष्ट्वा देहमाहात्म्यं कुम्भकर्णोऽयमुत्थितः ।  
-भयार्ता वानराः सर्वे संश्रयन्ते परस्परम् ॥ ७ ॥
+[^non-baroDa-CE] ते दृष्ट्वा देहमाहात्म्यं कुम्भकर्णोऽयमुत्थितः ।  
+[^non-baroDa-CE] भयार्ता वानराः सर्वे संश्रयन्ते परस्परम् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3186,7 +3186,7 @@ Deeming ‘This one is a mere boy’ (_bālo &#x27;yam iti vijñāya_), thou oug
 
 <details><summary>मूलम्</summary>
 
-बालेन विष्णुना लोकास्त्रयः क्रान्तास्त्रिविक्रमैः ।  
+[^non-baroDa-CE] बालेन विष्णुना लोकास्त्रयः क्रान्तास्त्रिविक्रमैः ।  
 लक्ष्मणस्य वचः श्रुत्वा हेतुमत् परमार्थवत् ।  
 अतिकायः प्रचुक्रोध बाणं चोत्तममाददे ॥ ६४ ॥
 </details>
@@ -4848,7 +4848,7 @@ the sky, like two enraged serpents.
 <details><summary>मूलम्</summary>
 
 निरर्चिषौ भस्मकृतौ न भ्राजेते शरोत्तमौ ।  
-तावुभौ दीप्यमानौ स्म न भ्राजेते महीतले ॥ ९० ॥
+[^non-baroDa-CE] तावुभौ दीप्यमानौ स्म न भ्राजेते महीतले ॥ ९० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5234,8 +5234,8 @@ And [Atikāya] loosed at Lakṣmaṇa an arrow shaped like a venomous serpent (_
 
 <details><summary>मूलम्</summary>
 
-शरं चाशीविषाकारं लक्ष्मणाय व्यपासृजत् ।  
-स तेन विद्धः सौमित्रिर्मर्मदेशे शरेण ह ॥ ९८ ॥
+[^non-baroDa-CE] शरं चाशीविषाकारं लक्ष्मणाय व्यपासृजत् ।  
+[^non-baroDa-CE] स तेन विद्धः सौमित्रिर्मर्मदेशे शरेण ह ॥ ९८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5358,8 +5358,8 @@ combat, with his four excellent arrows.
 
 <details><summary>मूलम्</summary>
 
-असम्भ्रान्तः स सौमित्रिस्तान् शरानभिलक्षितान् ।  
-मुमोच लक्ष्मणो बाणान् वधार्थं तस्य रक्षसः ॥ १०१ ॥  
+[^non-baroDa-CE] असम्भ्रान्तः स सौमित्रिस्तान् शरानभिलक्षितान् ।  
+[^non-baroDa-CE] मुमोच लक्ष्मणो बाणान् वधार्थं तस्य रक्षसः ॥ १०१ ॥  
 न शशाक रुजं कर्तुं युधि तस्य नरोत्तमः ।
 </details>
 
@@ -5418,7 +5418,7 @@ Heeding Vāyu's counsel, Lakṣmaṇa invokes the Brāhma missile upon a Supar�
 अथैनमभ्युपागम्य वायुर्वाक्यमुवाच ह ॥ १०२ ॥  
 ब्रह्मदत्तवरो ह्येष अवध्यकवचावृतः ।  
 ब्राह्मेणास्त्रेण भिन्ध्येनमेष वध्यो हि नान्यथा ।  
-अवध्य एष ह्यन्येषामस्त्राणां कवची बली ॥ १०३ ॥
+[^non-baroDa-CE] अवध्य एष ह्यन्येषामस्त्राणां कवची बली ॥ १०३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -5992,8 +5992,8 @@ Crying out in dissonant wails, the surviving Rākṣasas flee into Laṅkā, whi
 
 <details><summary>मूलम्</summary>
 
-तं भूमौ पतितं दृष्ट्वा विक्षिप्ताम्बरभूषणम् ।  
-बभूवुर्व्यथिताः सर्वे हतशेषा निशाचराः ॥ ११२ ॥
+[^non-baroDa-CE] तं भूमौ पतितं दृष्ट्वा विक्षिप्ताम्बरभूषणम् ।  
+[^non-baroDa-CE] बभूवुर्व्यथिताः सर्वे हतशेषा निशाचराः ॥ ११२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6045,10 +6045,10 @@ With dejected faces, wretched, and exhausted by the blows they had suffered (_pr
 
 <details><summary>मूलम्</summary>
 
-ते विषण्णमुखा दीनाः प्रहारजनितश्रमाः ।  
-विनेदुरुच्चैर्बहवः सहसा विस्वरैः स्वरैः ॥ ११३ ॥
+[^non-baroDa-CE] ते विषण्णमुखा दीनाः प्रहारजनितश्रमाः ।  
+[^non-baroDa-CE] विनेदुरुच्चैर्बहवः सहसा विस्वरैः स्वरैः ॥ ११३ ॥
 _________________
-ते विषण्ण मुखा दीनाः प्रहारजनितश्रमाः ।  
+[^non-baroDa-CE] ते विषण्ण मुखा दीनाः प्रहारजनितश्रमाः ।  
 विनेदुरुच्छैर्बहवः सहसा विस्वरैः स्वरैः ॥
 </details>
 
@@ -6096,8 +6096,8 @@ Then, when their commander was slain (_nāyake hate_), those night-stalkers, cas
 
 <details><summary>मूलम्</summary>
 
-ततस्तत्परितं याता निरपेक्षा निशाचराः ।  
-पुरीमभिमुखा भीता द्रवन्तो नायके हते ॥ ११४ ॥
+[^non-baroDa-CE] ततस्तत्परितं याता निरपेक्षा निशाचराः ।  
+[^non-baroDa-CE] पुरीमभिमुखा भीता द्रवन्तो नायके हते ॥ ११४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6217,10 +6217,10 @@ Having struck down in battle the exceedingly mighty, cloud-like Atikāya (_atiba
 
 <details><summary>मूलम्</summary>
 
-अतिबलमतिकायमभ्रकल्पं  
-युधि विनिपात्य स लक्ष्मणः प्रहृष्टः ।  
-त्वरितमथ तदा स रामपार्श्वं  
-कपिनिवहैश्च सुपूजितो जगाम ॥ ११६ ॥
+[^non-baroDa-CE] अतिबलमतिकायमभ्रकल्पं  
+[^non-baroDa-CE] युधि विनिपात्य स लक्ष्मणः प्रहृष्टः ।  
+[^non-baroDa-CE] त्वरितमथ तदा स रामपार्श्वं  
+[^non-baroDa-CE] कपिनिवहैश्च सुपूजितो जगाम ॥ ११६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -6264,3 +6264,4 @@ monkeys, thereupon quickly hastened towards the proximity of Rama.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

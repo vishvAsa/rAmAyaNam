@@ -65,8 +65,8 @@ Then, beholding those yakṣa lords terrified in their thousands (_tāṃl lak�
 
 <details><summary>मूलम्</summary>
 
-रावणं जहि यक्षेन्द्र दुर्वृत्तं पापचेतसम् ।  
-शरणं भव वीराणां यक्षाणां युद्धशालिनाम् ॥ २ ॥
+[^non-baroDa-CE] रावणं जहि यक्षेन्द्र दुर्वृत्तं पापचेतसम् ।  
+[^non-baroDa-CE] शरणं भव वीराणां यक्षाणां युद्धशालिनाम् ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -96,7 +96,7 @@ Then, beholding those yakṣa lords terrified in their thousands (_tāṃl lak�
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तो महाबाहुर्माणिभद्रः सुदुर्जयः ।  
+[^non-baroDa-CE] एवमुक्तो महाबाहुर्माणिभद्रः सुदुर्जयः ।  
 वृतो यक्षसहस्रैस्तु चतुर्भिः समयोधयत् ॥ ३ ॥
 _________________
 एवमुक्तो महाबाहुर्मणिभद्रः सुदुर्जयः ।  
@@ -161,7 +161,7 @@ Striking with maces, iron pestles, and darts (_gadā-musala-prāsaiḥ_), and wi
 
 <details><summary>मूलम्</summary>
 
-कुर्वन्तस्तुमुलं युद्धं चरन्तः श्येनवल्लघु ।  
+[^non-baroDa-CE] कुर्वन्तस्तुमुलं युद्धं चरन्तः श्येनवल्लघु ।  
 बाढं प्रयच्छ नेच्छामि दीयतामिति भाषिणः ॥ ५ ॥
 </details>
 
@@ -192,8 +192,8 @@ Waging a tumultuous battle (_kurvantas tumulaṃ yuddham_) and swooping as swift
 
 <details><summary>मूलम्</summary>
 
-ततो देवाः सगन्धर्वा ऋषयो ब्रह्मवादिनः ।  
-दृष्ट्वा तत् तुमुलं युद्धं परं विस्मयमागमन् ॥ ६ ॥
+[^non-baroDa-CE] ततो देवाः सगन्धर्वा ऋषयो ब्रह्मवादिनः ।  
+[^non-baroDa-CE] दृष्ट्वा तत् तुमुलं युद्धं परं विस्मयमागमन् ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -296,8 +296,8 @@ And by the enraged Mārīca, eager for battle (_kruddhena ... mārīcena yuyutsu
 
 <details><summary>मूलम्</summary>
 
-क्व च यक्षार्जवं युद्धं क्व च मायाबलाश्रयम् ।  
-रक्षसां पुरुषव्याघ्र तेन तेऽभ्यधिका युधि ॥ ९ ॥
+[^non-baroDa-CE] क्व च यक्षार्जवं युद्धं क्व च मायाबलाश्रयम् ।  
+[^non-baroDa-CE] रक्षसां पुरुषव्याघ्र तेन तेऽभ्यधिका युधि ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -471,7 +471,7 @@ As the enraged ten-faced one rushed upon him (_taṃ kruddham abhidhāvantam_), 
 
 <details><summary>मूलम्</summary>
 
-ताडितो माणिभद्रस्य मुकुटे प्राहरद् रणे ।  
+[^non-baroDa-CE] ताडितो माणिभद्रस्य मुकुटे प्राहरद् रणे ।  
 तस्य तेन प्रहारेण मुकुटं पार्श्वमागतम् ॥ १४ ॥
 _________________
 ताडितो मणिभद्रस्य मुकुटे प्राहरद्रणे ।  
@@ -916,8 +916,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-धर्माद् राज्यं धनं सौख्यमधर्माद् दुःखमेव च ।  
-तस्माद् धर्मं सुखार्थाय कुर्यात् पापं विसर्जयेत् ॥ २३ ॥
+[^non-baroDa-CE] धर्माद् राज्यं धनं सौख्यमधर्माद् दुःखमेव च ।  
+[^non-baroDa-CE] तस्माद् धर्मं सुखार्थाय कुर्यात् पापं विसर्जयेत् ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -947,8 +947,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-पापस्य हि फलं दुःखं तद् भोक्तव्यमिहात्मना ।  
-तस्मादात्मापघातार्थं मूढः पापं करिष्यति ॥ २४ ॥
+[^non-baroDa-CE] पापस्य हि फलं दुःखं तद् भोक्तव्यमिहात्मना ।  
+[^non-baroDa-CE] तस्मादात्मापघातार्थं मूढः पापं करिष्यति ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1018,10 +1018,10 @@ Declaring that wisdom comes from merit rather than whim and refusing further con
 <details><summary>मूलम्</summary>
 
 ऋद्धिं रूपं बलं पुत्रान् वित्तं शूरत्वमेव च ।  
-प्राप्नुवन्ति नरा लोके निर्जितं पुण्यकर्मभिः ॥ २६ ॥
+[^non-baroDa-CE] प्राप्नुवन्ति नरा लोके निर्जितं पुण्यकर्मभिः ॥ २६ ॥
 _________________
 ऋद्धि रूपं बलं पुत्रान्वित्तं शूरत्वमेव च ।  
-प्राप्नुवन्ति नरा लोके निर्जितं पुण्यकर्मभिः ॥
+[^non-baroDa-CE] प्राप्नुवन्ति नरा लोके निर्जितं पुण्यकर्मभिः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1218,7 +1218,7 @@ Then Dhanada [Kubera] discharged the fiery weapon (_āgneyam astraṃ ... mumoca
 <details><summary>मूलम्</summary>
 
 ततो मायां प्रविष्टोऽसौ राक्षसीं राक्षसेश्वरः ।  
-रूपाणां शतसाहस्रं विनाशाय चकार च ॥ ३२ ॥
+[^non-baroDa-CE] रूपाणां शतसाहस्रं विनाशाय चकार च ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1248,8 +1248,8 @@ Thereupon that sovereign of rākṣasas (_rākṣaseśvaraḥ_) entered into rā
 
 <details><summary>मूलम्</summary>
 
-व्याघ्रो वराहो जीमूतः पर्वतः सागरो द्रुमः ।  
-यक्षो दैत्यस्वरूपी च सोऽदृश्यत दशाननः ॥ ३३ ॥
+[^non-baroDa-CE] व्याघ्रो वराहो जीमूतः पर्वतः सागरो द्रुमः ।  
+[^non-baroDa-CE] यक्षो दैत्यस्वरूपी च सोऽदृश्यत दशाननः ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1280,8 +1280,8 @@ Now as a tiger, a boar, a raincloud, a mountain, an ocean, a tree (_vyāghro var
 
 <details><summary>मूलम्</summary>
 
-बहूनि च करोति स्म दृश्यन्ते न त्वसौ ततः ।  
-प्रतिगृह्य ततो राम महदस्त्रं दशाननः ॥ ३४ ॥  
+[^non-baroDa-CE] बहूनि च करोति स्म दृश्यन्ते न त्वसौ ततः ।  
+[^non-baroDa-CE] प्रतिगृह्य ततो राम महदस्त्रं दशाननः ॥ ३४ ॥  
 जघान मूर्ध्नि धनदं व्याविद‍्ध्य महतीं गदाम् ।
 </details>
 
@@ -1352,7 +1352,7 @@ While the personified Treasures carry the fallen Kubera to Nandana grove and rev
 <details><summary>मूलम्</summary>
 
 ततः पद्मादिभिस्तत्र निधिभिः स तदा वृतः ॥ ३६ ॥  
-धनदोच्छ्वासितस्तैस्तु वनमानीय नन्दनम् ।
+[^non-baroDa-CE] धनदोच्छ्वासितस्तैस्तु वनमानीय नन्दनम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1382,7 +1382,7 @@ Thereupon, surrounded by the divine Treasures headed by Padma (_padmādibhis tat
 
 <details><summary>मूलम्</summary>
 
-निर्जित्य राक्षसेन्द्रस्तं धनदं हृष्टमानसः ॥ ३७ ॥  
+[^non-baroDa-CE] निर्जित्य राक्षसेन्द्रस्तं धनदं हृष्टमानसः ॥ ३७ ॥  
 पुष्पकं तस्य जग्राह विमानं जयलक्षणम् ।
 </details>
 
@@ -1447,8 +1447,8 @@ encircled with pillars of gold (_kāñcana-stambha-saṃvītam_), furnished with
 
 <details><summary>मूलम्</summary>
 
-मनोजवं कामगमं कामरूपं विहङ्गमम् ॥ ३९ ॥  
-मणिकाञ्चनसोपानं तप्तकाञ्चनवेदिकम् ।
+[^non-baroDa-CE] मनोजवं कामगमं कामरूपं विहङ्गमम् ॥ ३९ ॥  
+[^non-baroDa-CE] मणिकाञ्चनसोपानं तप्तकाञ्चनवेदिकम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1486,8 +1486,8 @@ Boarding Brahmā’s imperishable, all-season marvel Puṣpaka, the arrogant Rā
 
 <details><summary>मूलम्</summary>
 
-देवोपवाह्यमक्षय्यं सदा दृष्टिमनःसुखम् ॥ ४० ॥  
-बह्वाश्चर्यं भक्तिचित्रं ब्रह्मणा परिनिर्मितम् ।
+[^non-baroDa-CE] देवोपवाह्यमक्षय्यं सदा दृष्टिमनःसुखम् ॥ ४० ॥  
+[^non-baroDa-CE] बह्वाश्चर्यं भक्तिचित्रं ब्रह्मणा परिनिर्मितम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1520,10 +1520,10 @@ fit to serve as the mount of the gods and imperishable (_devopavāhyam akṣayya
 
 <details><summary>मूलम्</summary>
 
-निर्मितं सर्वकामैस्तु मनोहरमनुत्तमम् ॥ ४१ ॥  
-न तु शीतं न चोष्णं च सर्वर्तुसुखदं शुभम् ।  
+[^non-baroDa-CE] निर्मितं सर्वकामैस्तु मनोहरमनुत्तमम् ॥ ४१ ॥  
+[^non-baroDa-CE] न तु शीतं न चोष्णं च सर्वर्तुसुखदं शुभम् ।  
 स तं राजा समारुह्य कामगं वीर्यनिर्जितम् ॥ ४२ ॥  
-जितं त्रिभुवनं मेने दर्पोत्सेकात् सुदुर्मतिः ।  
+[^non-baroDa-CE] जितं त्रिभुवनं मेने दर्पोत्सेकात् सुदुर्मतिः ।  
 जित्वा वैश्रवणं देवं कैलासात् समवातरत् ॥ ४३ ॥
 </details>
 
@@ -1561,13 +1561,13 @@ fit to serve as the mount of the gods and imperishable (_devopavāhyam akṣayya
 <details><summary>मूलम्</summary>
 
 स तेजसा विपुलमवाप्य तं जयं  
-प्रतापवान् विमलकिरीटहारवान् ।  
-रराज वै परमविमानमास्थितो  
-निशाचरः सदसि गतो यथानलः ॥ ४४ ॥
+[^non-baroDa-CE] प्रतापवान् विमलकिरीटहारवान् ।  
+[^non-baroDa-CE] रराज वै परमविमानमास्थितो  
+[^non-baroDa-CE] निशाचरः सदसि गतो यथानलः ॥ ४४ ॥
 _________________
 स तेजसा विपुलमवाप्य तं जयं  
-प्रतापवान् विमल किरीट हारवान् ।  
-रराज वै परमविमानमास्थितो  
+[^non-baroDa-CE] प्रतापवान् विमल किरीट हारवान् ।  
+[^non-baroDa-CE] रराज वै परमविमानमास्थितो  
 निशाचरः सहसि गतो यथानलः ॥
 </details>
 
@@ -1593,3 +1593,4 @@ _________________
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

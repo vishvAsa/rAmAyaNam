@@ -649,8 +649,8 @@ Picturing Vālin captivating heaven's nymphs while she endures helpless widowhoo
 
 <details><summary>मूलम्</summary>
 
-रूपयौवनदृप्तानां दक्षिणानां च मानद ।  
-नूनमप्सरसामार्य चित्तानि प्रमथिष्यसि ॥ १३ ॥
+[^non-baroDa-CE] रूपयौवनदृप्तानां दक्षिणानां च मानद ।  
+[^non-baroDa-CE] नूनमप्सरसामार्य चित्तानि प्रमथिष्यसि ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -761,7 +761,7 @@ Time, which admits of no doubt (_kālo niḥsaṃśayaḥ_), has surely brought 
 
 <details><summary>मूलम्</summary>
 
-अस्थाने वालिनं हत्वा युध्यमानं परेण च ।  
+[^non-baroDa-CE] अस्थाने वालिनं हत्वा युध्यमानं परेण च ।  
 न सन्तप्यति काकुत्स्थः कृत्वा कर्मसुगर्हितम् ॥ १५ ॥
 </details>
 
@@ -1453,3 +1453,4 @@ Weeping piteously thus beside her husband together with the monkey-women (_tath�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

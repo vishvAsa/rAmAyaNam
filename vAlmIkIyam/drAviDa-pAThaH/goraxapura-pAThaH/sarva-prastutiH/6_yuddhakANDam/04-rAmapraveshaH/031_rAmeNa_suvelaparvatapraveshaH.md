@@ -415,7 +415,7 @@ Taking an illusory (_māyā-mayam_) head of Rāghava, O night-ranger, and his gr
 <details><summary>मूलम्</summary>
 
 एवमुक्तस्तथेत्याह विद्युज्जिह्वो निशाचरः ।  
-दर्शयामास तां मायां सुप्रयुक्तां स रावणे ॥ ९ ॥
+[^non-baroDa-CE] दर्शयामास तां मायां सुप्रयुक्तां स रावणे ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -473,8 +473,8 @@ Thus addressed, the night-ranger Vidyujjihva replied, “So be it (_tatheti_),�
 <details><summary>मूलम्</summary>
 
 तस्य तुष्टोऽभवद् राजा प्रददौ च विभूषणम् ।  
-अशोकवनिकायां च सीतादर्शनलालसः ॥ १० ॥  
-नैर्ऋतानामधिपतिः संविवेश महाबलः ।
+[^non-baroDa-CE] अशोकवनिकायां च सीतादर्शनलालसः ॥ १० ॥  
+[^non-baroDa-CE] नैर्ऋतानामधिपतिः संविवेश महाबलः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -695,7 +695,7 @@ he spoke this insolent (_dhṛṣṭam_) speech to the daughter of Janaka: “He
 
 छिन्नं ते सर्वथा मूलं दर्पश्च निहतो मया ॥ १५ ॥  
 व्यसनेनात्मनः सीते मम भार्या भविष्यसि ।  
-विसृजैतां मतिं मूढे किं मृतेन करिष्यसि ॥ १६ ॥
+[^non-baroDa-CE] विसृजैतां मतिं मूढे किं मृतेन करिष्यसि ॥ १६ ॥
 _________________
 छिन्नं ते सर्वथा मूलं दर्पश्च निहतो मया ॥
 व्यसनेनात्मनः सीते मम भार्या भविष्यसि ।  
@@ -771,7 +771,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-भवस्व भद्रे भार्याणां सर्वासामीश्वरी मम ।  
+[^non-baroDa-CE] भवस्व भद्रे भार्याणां सर्वासामीश्वरी मम ।  
 अल्पपुण्ये निवृत्तार्थे मूढे पण्डितमानिनि ।  
 शृणु भर्तृवधं सीते घोरं वृत्रवधं यथा ॥ १७ ॥
 </details>
@@ -2328,3 +2328,4 @@ Casting down (_vinikīryamāṇaḥ_) that head and bow upon the ground together
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

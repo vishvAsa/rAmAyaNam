@@ -1037,12 +1037,12 @@ Learning how Rāvaṇa severed Jaṭāyus's wings and soared into the sky with S
 
 <details><summary>मूलम्</summary>
 
-अयं तु सारथिस्तस्य मत्पक्षनिहतो भुवि ।  
+[^non-baroDa-CE] अयं तु सारथिस्तस्य मत्पक्षनिहतो भुवि ।  
 परिश्रान्तस्य मे पक्षौ छित्त्वा खड्गेन रावणः ॥ १९ ॥  
 सीतामादाय वैदेहीमुत्पपात विहायसम् ।  
 रक्षसा निहतं पूर्वं मां न हन्तुं त्वमर्हसि ॥ २० ॥
 _________________
-अयं तु सारथिस्तस्य मत्पक्षनिहतो भुवि ।  
+[^non-baroDa-CE] अयं तु सारथिस्तस्य मत्पक्षनिहतो भुवि ।  
 परिश्रान्तस्य मे पक्षौ छित्त्वाखड्गेन रावणः ॥
 सीतामादाय वैदेहीमुत्पपात विहायसम् ।  
 रक्षसा विहतं पूर्वं मां न हन्तुं त्वमर्हसि ॥
@@ -1112,14 +1112,14 @@ inapt of you to kill me who am already killed by the demon..." Thus Jataayu appe
 <details><summary>मूलम्</summary>
 
 रामस्तस्य तु विज्ञाय सीतासक्तां प्रियां कथाम् ।  
-गृध्रराजं परिष्वज्य परित्यज्य महद् धनुः ॥ २१ ॥  
-निपपातावशो भूमौ रुरोद सहलक्ष्मणः ।  
-द्विगुणीकृततापार्तो रामो धीरतरोऽपि सन् ॥ २२ ॥
+[^non-baroDa-CE] गृध्रराजं परिष्वज्य परित्यज्य महद् धनुः ॥ २१ ॥  
+[^non-baroDa-CE] निपपातावशो भूमौ रुरोद सहलक्ष्मणः ।  
+[^non-baroDa-CE] द्विगुणीकृततापार्तो रामो धीरतरोऽपि सन् ॥ २२ ॥
 _________________
 रामस्तस्य तु विज्ञाय सीतासक्तं प्रियां कथाम् ।  
-गृध्रराजं परिष्वज्य परित्यज्य महद्धनुः ॥
-निपपातावशो भूमौ रुरोद सहलक्ष्मणः ।  
-द्विगुणीकृततापार्तो रामो धीरतरोऽपि सन् ॥
+[^non-baroDa-CE] गृध्रराजं परिष्वज्य परित्यज्य महद्धनुः ॥
+[^non-baroDa-CE] निपपातावशो भूमौ रुरोद सहलक्ष्मणः ।  
+[^non-baroDa-CE] द्विगुणीकृततापार्तो रामो धीरतरोऽपि सन् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1616,3 +1616,5 @@ collapsed to earth. [3-67-29]
 Embracing that king of vultures (_taṃ gṛdhra-rājaṃ parigṛhya_), whose wings were severed (_nikṛtta-pakṣam_) and who was bathed in blood (_rudhirāvasiktam_), Rāghava uttered the cry (_vimucya vācam_), “Where has Maithilī, dear as my life-breath (_prāṇa-samā_), gone?” and fell to the ground (_nipapāta bhūmau_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -43,8 +43,8 @@ As Rāma exits with folded hands, the royal queens raise a great cry of anguish 
 
 <details><summary>मूलम्</summary>
 
-तस्मिंस्तु पुरुषव्याघ्रे निष्क्रामति कृताञ्जलौ ।  
-आर्तशब्दो महान् जज्ञे स्त्रीणामन्तःपुरे तदा ॥ १ ॥
+[^non-baroDa-CE] तस्मिंस्तु पुरुषव्याघ्रे निष्क्रामति कृताञ्जलौ ।  
+[^non-baroDa-CE] आर्तशब्दो महान् जज्ञे स्त्रीणामन्तःपुरे तदा ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -97,8 +97,8 @@ As that tiger among men went forth with folded hands (_kṛtāñjalau_), a great
 
 <details><summary>मूलम्</summary>
 
-कृत्येष्वचोदितः पित्रा सर्वस्यान्तःपुरस्य च ।  
-गतिश्च शरणं चासीत् स रामोऽद्य प्रवत्स्यति ॥ २ ॥
+[^non-baroDa-CE] कृत्येष्वचोदितः पित्रा सर्वस्यान्तःपुरस्य च ।  
+[^non-baroDa-CE] गतिश्च शरणं चासीत् स रामोऽद्य प्रवत्स्यति ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -150,8 +150,8 @@ protect the entire palace, is about to go to exile now".
 
 <details><summary>मूलम्</summary>
 
-कौसल्यायां यथा युक्तो जनन्यां वर्तते सदा ।  
-तथैव वर्ततेऽस्मासु जन्मप्रभृति राघवः ॥ ३ ॥
+[^non-baroDa-CE] कौसल्यायां यथा युक्तो जनन्यां वर्तते सदा ।  
+[^non-baroDa-CE] तथैव वर्ततेऽस्मासु जन्मप्रभृति राघवः ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -196,8 +196,8 @@ his mother Kausalya."
 
 <details><summary>मूलम्</summary>
 
-न क्रुध्यत्यभिशप्तोऽपि क्रोधनीयानि वर्जयन् ।  
-क्रुद्धान् प्रसादयन् सर्वान् स इतोऽद्य प्रवत्स्यति ॥ ४ ॥
+[^non-baroDa-CE] न क्रुध्यत्यभिशप्तोऽपि क्रोधनीयानि वर्जयन् ।  
+[^non-baroDa-CE] क्रुद्धान् प्रसादयन् सर्वान् स इतोऽद्य प्रवत्स्यति ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -251,8 +251,8 @@ Rama was not furious with those who abused him. Such Rama is going today to exil
 
 <details><summary>मूलम्</summary>
 
-अबुद्धिर्बत नो राजा जीवलोकं चरत्ययम् ।  
-यो गतिं सर्वभूतानां परित्यजति राघवम् ॥ ५ ॥
+[^non-baroDa-CE] अबुद्धिर्बत नो राजा जीवलोकं चरत्ययम् ।  
+[^non-baroDa-CE] यो गतिं सर्वभूतानां परित्यजति राघवम् ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -304,10 +304,10 @@ the beings."
 
 <details><summary>मूलम्</summary>
 
-इति सर्वा महिष्यस्ता विवत्सा इव धेनवः ।  
-पतिमाचुक्रुशुश्चापि सस्वनं चापि चुक्रुशुः ॥ ६ ॥
+[^non-baroDa-CE] इति सर्वा महिष्यस्ता विवत्सा इव धेनवः ।  
+[^non-baroDa-CE] पतिमाचुक्रुशुश्चापि सस्वनं चापि चुक्रुशुः ॥ ६ ॥
 _________________
-इति सर्वा महिष्यस्ता विवत्सा इव धेनवः ।  
+[^non-baroDa-CE] इति सर्वा महिष्यस्ता विवत्सा इव धेनवः ।  
 पतिमाचुक्रुशुश्चापि सस्वनं चापि चक्रुशुः ॥
 </details>
 
@@ -368,7 +368,7 @@ While the grief-stricken king shrinks into his couch upon hearing the wailing of
 
 <details><summary>मूलम्</summary>
 
-स हि चान्तःपुरे घोरमार्तशब्दं महीपतिः ।  
+[^non-baroDa-CE] स हि चान्तःपुरे घोरमार्तशब्दं महीपतिः ।  
 पुत्रशोकाभिसन्तप्तः श्रुत्वा व्यालीयतासने ॥ ७ ॥
 </details>
 
@@ -529,11 +529,11 @@ There he beheld an aged and highly venerated chamberlain seated at the threshold
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वैव तु तदा रामं ते सर्वे समुपस्थिताः ।  
-जयेन जयतां श्रेष्ठं वर्धयन्ति स्म राघवम् ॥ १० ॥
+[^non-baroDa-CE] दृष्ट्वैव तु तदा रामं ते सर्वे समुपस्थिताः ।  
+[^non-baroDa-CE] जयेन जयतां श्रेष्ठं वर्धयन्ति स्म राघवम् ॥ १० ॥
 _________________
 दृष्टैव तु तदा रामं ते सर्वे समुपस्थिताः ।  
-जयेन जयतां श्रेष्ठं वर्धयन्तिस्म राघवम् ॥
+[^non-baroDa-CE] जयेन जयतां श्रेष्ठं वर्धयन्तिस्म राघवम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -929,10 +929,10 @@ Entering his mother&#x27;s auspicious inner sanctuary, Rāma beheld his mother t
 
 <details><summary>मूलम्</summary>
 
-देवकार्यनिमित्तं च तत्रापश्यत् समुद्यतम् ।  
-दध्यक्षतघृतं चैव मोदकान् हविषस्तथा ॥ १७ ॥  
-लाजान् माल्यानि शुक्लानि पायसं कृसरं तथा ।  
-समिधः पूर्णकुम्भांश्च ददर्श रघुनन्दनः ॥ १८ ॥
+[^non-baroDa-CE] देवकार्यनिमित्तं च तत्रापश्यत् समुद्यतम् ।  
+[^non-baroDa-CE] दध्यक्षतघृतं चैव मोदकान् हविषस्तथा ॥ १७ ॥  
+[^non-baroDa-CE] लाजान् माल्यानि शुक्लानि पायसं कृसरं तथा ।  
+[^non-baroDa-CE] समिधः पूर्णकुम्भांश्च ददर्श रघुनन्दनः ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1002,8 +1002,8 @@ Hastening toward Rāma like a mare toward her foal, Kausalyā embraces him, smel
 
 <details><summary>मूलम्</summary>
 
-तां शुक्लक्षौमसंवीतां व्रतयोगेन कर्शिताम् ।  
-तर्पयन्तीं ददर्शाद्भिर्देवतां वरवर्णिनीम् ॥ १९ ॥
+[^non-baroDa-CE] तां शुक्लक्षौमसंवीतां व्रतयोगेन कर्शिताम् ।  
+[^non-baroDa-CE] तर्पयन्तीं ददर्शाद्भिर्देवतां वरवर्णिनीम् ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1294,7 +1294,7 @@ On the closing lyric tag-verse, _Tilaka_ explains that beholding Rāma bound by 
 <details><summary>मूलम्</summary>
 
 स मातरमुपक्रान्तामुपसङ्गृह्य राघवः ।  
-परिष्वक्तश्च बाहुभ्यामवघ्रातश्च मूर्धनि ॥ २१ ॥
+[^non-baroDa-CE] परिष्वक्तश्च बाहुभ्यामवघ्रातश्च मूर्धनि ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1518,7 +1518,7 @@ Touching the offered seat with his hand without sitting down, Rāma gently break
 
 <details><summary>मूलम्</summary>
 
-दत्तमासनमालभ्य भोजनेन निमन्त्रितः ।  
+[^non-baroDa-CE] दत्तमासनमालभ्य भोजनेन निमन्त्रितः ।  
 मातरं राघवः किञ्चित् प्रसार्याञ्जलिमब्रवीत् ॥ २५ ॥
 </details>
 
@@ -1572,7 +1572,7 @@ Merely touching with his hand the seat offered to him (_dattam āsanam ālabhya_
 <details><summary>मूलम्</summary>
 
 स स्वभावविनीतश्च गौरवाच्च तथानतः ।  
-प्रस्थितो दण्डकारण्यमाप्रष्टुमुपचक्रमे ॥ २६ ॥
+[^non-baroDa-CE] प्रस्थितो दण्डकारण्यमाप्रष्टुमुपचक्रमे ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1680,8 +1680,8 @@ to you, to Sita and to Lakshmana"
 
 <details><summary>मूलम्</summary>
 
-गमिष्ये दण्डकारण्यं किमनेनासनेन मे ।  
-विष्टरासनयोग्यो हि कालोऽयं मामुपस्थितः ॥ २८ ॥
+[^non-baroDa-CE] गमिष्ये दण्डकारण्यं किमनेनासनेन मे ।  
+[^non-baroDa-CE] विष्टरासनयोग्यो हि कालोऽयं मामुपस्थितः ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1844,10 +1844,10 @@ Falling to the ground like a sāla bough felled by an axe or a goddess cast down
 
 <details><summary>मूलम्</summary>
 
-स षट् चाष्टौ च वर्षाणि वत्स्यामि विजने वने ।  
-आसेवमानो वन्यानि फलमूलैश्च वर्तयन् ॥ ३१ ॥
+[^non-baroDa-CE] स षट् चाष्टौ च वर्षाणि वत्स्यामि विजने वने ।  
+[^non-baroDa-CE] आसेवमानो वन्यानि फलमूलैश्च वर्तयन् ॥ ३१ ॥
 _________________
-स षट् चाष्टौ च वर्षाणि वत्स्यामि विजने वने ।  
+[^non-baroDa-CE] स षट् चाष्टौ च वर्षाणि वत्स्यामि विजने वने ।  
 असेवमानो वन्यानि फलमूलैश्च वर्तयन् ॥
 </details>
 
@@ -1901,8 +1901,8 @@ fruits in a solitary forest for fourteen years."
 
 <details><summary>मूलम्</summary>
 
-सा निकृत्तेव सालस्य यष्टिः परशुना वने ।  
-पपात सहसा देवी देवतेव दिवश्च्युता ॥ ३२ ॥
+[^non-baroDa-CE] सा निकृत्तेव सालस्य यष्टिः परशुना वने ।  
+[^non-baroDa-CE] पपात सहसा देवी देवतेव दिवश्च्युता ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2337,7 +2337,7 @@ me and who pierce my heart with their words though I am a better and virtuous wi
 <details><summary>मूलम्</summary>
 
 अतो दुःखतरं किं नु प्रमदानां भविष्यति ।  
-मम शोको विलापश्च यादृशोऽयमनन्तकः ॥ ४० ॥
+[^non-baroDa-CE] मम शोको विलापश्च यादृशोऽयमनन्तकः ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2439,8 +2439,8 @@ exile? Death indeed is certain to me."
 
 <details><summary>मूलम्</summary>
 
-अत्यन्तं निगृहीतास्मि भर्तुर्नित्यमसम्मता ।  
-परिवारेण कैकेय्याः समा वाप्यथवावरा ॥ ४२ ॥
+[^non-baroDa-CE] अत्यन्तं निगृहीतास्मि भर्तुर्नित्यमसम्मता ।  
+[^non-baroDa-CE] परिवारेण कैकेय्याः समा वाप्यथवावरा ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2549,8 +2549,8 @@ Bharata".
 
 <details><summary>मूलम्</summary>
 
-नित्यक्रोधतया तस्याः कथं नु खरवादि तत् ।  
-कैकेय्या वदनं द्रष्टुं पुत्र शक्ष्यामि दुर्गता ॥ ४४ ॥
+[^non-baroDa-CE] नित्यक्रोधतया तस्याः कथं नु खरवादि तत् ।  
+[^non-baroDa-CE] कैकेय्या वदनं द्रष्टुं पुत्र शक्ष्यामि दुर्गता ॥ ४४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2660,8 +2660,8 @@ ceremony, with the hope that my troubles will disappear at one time or the other
 
 <details><summary>मूलम्</summary>
 
-तदक्षयं महद्दुःखं नोत्सहे सहितुं चिरात् ।  
-विप्रकारं सपत्नीनामेवं जीर्णापि राघव ॥ ४६ ॥
+[^non-baroDa-CE] तदक्षयं महद्दुःखं नोत्सहे सहितुं चिरात् ।  
+[^non-baroDa-CE] विप्रकारं सपत्नीनामेवं जीर्णापि राघव ॥ ४६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2712,8 +2712,8 @@ sorrow for a long time.
 
 <details><summary>मूलम्</summary>
 
-अपश्यन्ती तव मुखं परिपूर्णशशिप्रभम् ।  
-कृपणा वर्तयिष्यामि कथं कृपणजीविका ॥ ४७ ॥
+[^non-baroDa-CE] अपश्यन्ती तव मुखं परिपूर्णशशिप्रभम् ।  
+[^non-baroDa-CE] कृपणा वर्तयिष्यामि कथं कृपणजीविका ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3130,9 +3130,9 @@ calf."
 
 <details><summary>मूलम्</summary>
 
-अथापि किं जीवितमद्य मे वृथा  
-त्वया विना चन्द्रनिभाननप्रभ ।  
-अनुव्रजिष्यामि वनं त्वयैव गौः  
+[^non-baroDa-CE] अथापि किं जीवितमद्य मे वृथा  
+[^non-baroDa-CE] त्वया विना चन्द्रनिभाननप्रभ ।  
+[^non-baroDa-CE] अनुव्रजिष्यामि वनं त्वयैव गौः  
 सुदुर्बला वत्समिवाभिकाङ्क्षया ॥ ५४ ॥
 </details>
 
@@ -3253,3 +3253,4 @@ Unable to endure that unbearable anguish and perceiving that mighty calamity, sh
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

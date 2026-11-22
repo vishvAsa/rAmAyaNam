@@ -37,13 +37,13 @@ Dispatched by lotus-eyed Rāma, the charioteer Sumantra enters the royal chamber
 
 <details><summary>मूलम्</summary>
 
-ततः कमलपत्राक्षः श्यामो निरुपमो महान् ।  
-उवाच रामस्तं सूतं पितुराख्याहि मामिति ॥ १ ॥  
+[^non-baroDa-CE] ततः कमलपत्राक्षः श्यामो निरुपमो महान् ।  
+[^non-baroDa-CE] उवाच रामस्तं सूतं पितुराख्याहि मामिति ॥ १ ॥  
 स रामप्रेषितः क्षिप्रं सन्तापकलुषेन्द्रियम् ।  
 प्रविश्य नृपतिं सूतो निःश्वसन्तं ददर्श ह ॥ २ ॥
 _________________
-ततः कमलपत्राक्षः श्यामो निरुपमो महान् ।  
-उवाच रामस्तं सूतं पितुराख्याहि मामिति ॥
+[^non-baroDa-CE] ततः कमलपत्राक्षः श्यामो निरुपमो महान् ।  
+[^non-baroDa-CE] उवाच रामस्तं सूतं पितुराख्याहि मामिति ॥
 स रामप्रेषितः क्षिप्रं सन्तापकलुषेन्द्रियम् ।  
 प्रविष्यनृपतिं सूतो निःश्वसन्तं ददर्श ह ॥
 </details>
@@ -110,13 +110,13 @@ sighs, his senses disturbed by grief.
 
 <details><summary>मूलम्</summary>
 
-उपरक्तमिवादित्यं भस्मच्छन्नमिवानलम् ।  
-तटाकमिव निस्तोयमपश्यज्जगतीपतिम् ॥ ३ ॥  
+[^non-baroDa-CE] उपरक्तमिवादित्यं भस्मच्छन्नमिवानलम् ।  
+[^non-baroDa-CE] तटाकमिव निस्तोयमपश्यज्जगतीपतिम् ॥ ३ ॥  
 आबोध्य च महाप्राज्ञः परमाकुलचेतनम् ।  
 राममेवानुशोचन्तं सूतः प्राञ्जलिरब्रवीत् ॥ ४ ॥
 _________________
-उपरक्तमिवादित्यं भस्मच्छन्नमिवानलम् ।  
-तटाकमिव निस्तोयमपश्यज्जगतीपतिम् ॥
+[^non-baroDa-CE] उपरक्तमिवादित्यं भस्मच्छन्नमिवानलम् ।  
+[^non-baroDa-CE] तटाकमिव निस्तोयमपश्यज्जगतीपतिम् ॥
 अभोद्य चमहाप्राज्ञः परमाकुलचेतनम् ।  
 राममेवानुशोचन्तं सूतः प्राञ्जलिरब्रवीत् ॥
 </details>
@@ -180,8 +180,8 @@ agitated and approached him with joined palms.
 
 <details><summary>मूलम्</summary>
 
-तं वर्धयित्वा राजानं पूर्वं सूतो जयाशिषा ।  
-भयविक्लवया वाचा मन्दया श्लक्ष्णयाब्रवीत् ॥ ५ ॥
+[^non-baroDa-CE] तं वर्धयित्वा राजानं पूर्वं सूतो जयाशिषा ।  
+[^non-baroDa-CE] भयविक्लवया वाचा मन्दया श्लक्ष्णयाब्रवीत् ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1401,8 +1401,8 @@ will stay in the forest. For my sake, do not generate untruth about you."
 
 <details><summary>मूलम्</summary>
 
-नव पञ्च च वर्षाणि वनवासे विहृत्य ते ।  
-पुनः पादौ ग्रहीष्यामि प्रतिज्ञान्ते नराधिप ॥ २९ ॥
+[^non-baroDa-CE] नव पञ्च च वर्षाणि वनवासे विहृत्य ते ।  
+[^non-baroDa-CE] पुनः पादौ ग्रहीष्यामि प्रतिज्ञान्ते नराधिप ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1454,11 +1454,11 @@ your feet once more after fulfilling my promise."
 
 <details><summary>मूलम्</summary>
 
-रुदन्नार्तः प्रियं पुत्रं सत्यपाशेन संयुतः ।  
-कैकेय्या चोद्यमानस्तु मिथो राजा तमब्रवीत् ॥ ३० ॥
+[^non-baroDa-CE] रुदन्नार्तः प्रियं पुत्रं सत्यपाशेन संयुतः ।  
+[^non-baroDa-CE] कैकेय्या चोद्यमानस्तु मिथो राजा तमब्रवीत् ॥ ३० ॥
 _________________
 रुदन्नार्तः प्रियं पुत्रं सत्यपाशेन संयतः ।  
-कैकेय्या चोद्यमानस्तु मिथो राजा तमब्रवीत् ॥
+[^non-baroDa-CE] कैकेय्या चोद्यमानस्तु मिथो राजा तमब्रवीत् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1572,15 +1572,15 @@ path of travel be auspicious, undistracted and fearless from any quarter."
 
 <details><summary>मूलम्</summary>
 
-न हि सत्यात्मनस्तात धर्माभिमनसस्तव ।  
+[^non-baroDa-CE] न हि सत्यात्मनस्तात धर्माभिमनसस्तव ।  
 सन्निवर्तयितुं बुद्धिः शक्यते रघुनन्दन ॥ ३२ ॥  
 अद्य त्विदानीं रजनीं पुत्र मा गच्छ सर्वथा ।  
-एकाहं दर्शनेनापि साधु तावच्चराम्यहम् ॥ ३३ ॥
+[^non-baroDa-CE] एकाहं दर्शनेनापि साधु तावच्चराम्यहम् ॥ ३३ ॥
 _________________
 न हि सत्यात्मनस्तात धर्माभिमनस्तव ।  
 सन्निवर्तयितुं बुद्धिः शक्यते रघुनन्दन ॥
 अद्य त्विदानीं रजनीं पुत्र मागच्छ सर्वथा ।  
-एकाहं दर्शनेनापि साधु तावच्चराम्यहम् ॥
+[^non-baroDa-CE] एकाहं दर्शनेनापि साधु तावच्चराम्यहम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1903,8 +1903,8 @@ Both **Tilaka** and **Govindarāja** identify “that consort of the king” (�
 
 <details><summary>मूलम्</summary>
 
-दुष्करं क्रियते पुत्र सर्वथा राघव प्रिय ।  
-त्वया हि मत्प्रियार्थं तु वनमेवमुपाश्रितम् ॥ ३५ ॥
+[^non-baroDa-CE] दुष्करं क्रियते पुत्र सर्वथा राघव प्रिय ।  
+[^non-baroDa-CE] त्वया हि मत्प्रियार्थं तु वनमेवमुपाश्रितम् ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1966,10 +1966,10 @@ Daśaratha praises Rāma for redeeming him from Kaikeyī’s deceitful trap; Rā
 
 <details><summary>मूलम्</summary>
 
-न चैतन्मे प्रियं पुत्र शपे सत्येन राघव ।  
-छन्नया चलितस्त्वस्मि स्त्रिया भस्माग्निकल्पया ॥ ३६ ॥  
-वञ्चना या तु लब्धा मे तां त्वं निस्तर्तुमिच्छसि ।  
-अनया वृत्तसादिन्या कैकेय्याभिप्रचोदितः ॥ ३७ ॥
+[^non-baroDa-CE] न चैतन्मे प्रियं पुत्र शपे सत्येन राघव ।  
+[^non-baroDa-CE] छन्नया चलितस्त्वस्मि स्त्रिया भस्माग्निकल्पया ॥ ३६ ॥  
+[^non-baroDa-CE] वञ्चना या तु लब्धा मे तां त्वं निस्तर्तुमिच्छसि ।  
+[^non-baroDa-CE] अनया वृत्तसादिन्या कैकेय्याभिप्रचोदितः ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2040,8 +2040,8 @@ deceit, derived by me from her.
 
 <details><summary>मूलम्</summary>
 
-न चैतदाश्चर्यतमं यत् त्वं ज्येष्ठः सुतो मम ।  
-अपानृतकथं पुत्र पितरं कर्तुमिच्छसि ॥ ३८ ॥
+[^non-baroDa-CE] न चैतदाश्चर्यतमं यत् त्वं ज्येष्ठः सुतो मम ।  
+[^non-baroDa-CE] अपानृतकथं पुत्र पितरं कर्तुमिच्छसि ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2248,9 +2248,9 @@ people, imbued with riches and food grains, may be given to Bharata."
 
 <details><summary>मूलम्</summary>
 
-वनवासकृता बुद्धिर्न च मेऽद्य चलिष्यति ।  
-यस्तु युद्धे वरो दत्तः कैकेय्यै वरद त्वया ॥ ४२ ॥  
-दीयतां निखिलेनैव सत्यस्त्वं भव पार्थिव ।
+[^non-baroDa-CE] वनवासकृता बुद्धिर्न च मेऽद्य चलिष्यति ।  
+[^non-baroDa-CE] यस्तु युद्धे वरो दत्तः कैकेय्यै वरद त्वया ॥ ४२ ॥  
+[^non-baroDa-CE] दीयतां निखिलेनैव सत्यस्त्वं भव पार्थिव ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2314,13 +2314,13 @@ Comparing his father to the unshakeable ocean, Rāma swears by Daśaratha’s tr
 
 <details><summary>मूलम्</summary>
 
-अहं निदेशं भवतो यथोक्तमनुपालयन् ॥ ४३ ॥  
-चतुर्दश समा वत्स्ये वने वनचरैः सह ।  
-मा विमर्शो वसुमती भरताय प्रदीयताम् ॥ ४४ ॥
+[^non-baroDa-CE] अहं निदेशं भवतो यथोक्तमनुपालयन् ॥ ४३ ॥  
+[^non-baroDa-CE] चतुर्दश समा वत्स्ये वने वनचरैः सह ।  
+[^non-baroDa-CE] मा विमर्शो वसुमती भरताय प्रदीयताम् ॥ ४४ ॥
 _________________
-अहं निदेशं भवतो यथोक्तमनुपालयन् ॥
+[^non-baroDa-CE] अहं निदेशं भवतो यथोक्तमनुपालयन् ॥
 चतुदर्श समा वत्से वने वनचरैः सह ।  
-मा विमर्शो वसुमती भरताय प्रदीयताम् ॥
+[^non-baroDa-CE] मा विमर्शो वसुमती भरताय प्रदीयताम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2368,7 +2368,7 @@ forest-dwellers for fourteen years."
 <details><summary>मूलम्</summary>
 
 नहि मे काङ्क्षितं राज्यं सुखमात्मनि वा प्रियम् ।  
-यथानिदेशं कर्तुं वै तवैव रघुनन्दन ॥ ४५ ॥
+[^non-baroDa-CE] यथानिदेशं कर्तुं वै तवैव रघुनन्दन ॥ ४५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2469,7 +2469,7 @@ rivers which is difficult to assail, indeed does not get agitated."
 <details><summary>मूलम्</summary>
 
 नैवाहं राज्यमिच्छामि न सुखं न च मेदिनीम् ।  
-नैव सर्वानिमान् कामान् न स्वर्गं न च जीवितुम् ॥ ४७ ॥
+[^non-baroDa-CE] नैव सर्वानिमान् कामान् न स्वर्गं न च जीवितुम् ॥ ४७ ॥
 _________________
 नैवाहं राज्यमिच्छामि न सुखं न च मेदिनीम् ।  
 नैव सर्वानिमान् कामान्नस्वर्गं न च जीवितम् ॥
@@ -2525,7 +2525,7 @@ enjoyments nor for heaven nor even for life."
 <details><summary>मूलम्</summary>
 
 त्वामहं सत्यमिच्छामि नानृतं पुरुषर्षभ ।  
-प्रत्यक्षं तव सत्येन सुकृतेन च ते शपे ॥ ४८ ॥
+[^non-baroDa-CE] प्रत्यक्षं तव सत्येन सुकृतेन च ते शपे ॥ ४८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2579,10 +2579,10 @@ Declaring that a father is the deity even of the gods, Rāma consoles Daśaratha
 
 <details><summary>मूलम्</summary>
 
-न च शक्यं मया तात स्थातुं क्षणमपि प्रभो ।  
-स शोकं धारयस्वेमं नहि मेऽस्ति विपर्ययः ॥ ४९ ॥
+[^non-baroDa-CE] न च शक्यं मया तात स्थातुं क्षणमपि प्रभो ।  
+[^non-baroDa-CE] स शोकं धारयस्वेमं नहि मेऽस्ति विपर्ययः ॥ ४९ ॥
 _________________
-न च शक्यं मया तात स्थातुं क्षणमपि प्रभो ।  
+[^non-baroDa-CE] न च शक्यं मया तात स्थातुं क्षणमपि प्रभो ।  
 न शोकं धारयस्वेमं नहि मेऽस्ति विपर्ययः ॥
 </details>
 
@@ -2635,8 +2635,8 @@ contain this grief, Oh Lord, for there is no going back upon my word."
 
 <details><summary>मूलम्</summary>
 
-अर्थितो ह्यस्मि कैकेय्या वनं गच्छेति राघव ।  
-मया चोक्तं व्रजामीति तत्सत्यमनुपालये ॥ ५० ॥
+[^non-baroDa-CE] अर्थितो ह्यस्मि कैकेय्या वनं गच्छेति राघव ।  
+[^non-baroDa-CE] मया चोक्तं व्रजामीति तत्सत्यमनुपालये ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2688,8 +2688,8 @@ It was also replied by me that I would go. I shall redeem that pledge."
 
 <details><summary>मूलम्</summary>
 
-मा चोत्कण्ठां कृथा देव वने रंस्यामहे वयम् ।  
-प्रशान्तहरिणाकीर्णे नानाशकुनिनादिते ॥ ५१ ॥
+[^non-baroDa-CE] मा चोत्कण्ठां कृथा देव वने रंस्यामहे वयम् ।  
+[^non-baroDa-CE] प्रशान्तहरिणाकीर्णे नानाशकुनिनादिते ॥ ५१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2740,8 +2740,8 @@ deer and rendered noisy by birds of various types."
 
 <details><summary>मूलम्</summary>
 
-पिता हि दैवतं तात देवतानामपि स्मृतम् ।  
-तस्माद् दैवतमित्येव करिष्यामि पितुर्वचः ॥ ५२ ॥
+[^non-baroDa-CE] पिता हि दैवतं तात देवतानामपि स्मृतम् ।  
+[^non-baroDa-CE] तस्माद् दैवतमित्येव करिष्यामि पितुर्वचः ॥ ५२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2786,7 +2786,7 @@ Therefore, I shall carry out the father's word, considering it as divine."
 
 <details><summary>मूलम्</summary>
 
-चतुर्दशसु वर्षेषु गतेषु नृपसत्तम ।  
+[^non-baroDa-CE] चतुर्दशसु वर्षेषु गतेषु नृपसत्तम ।  
 पुनर्द्रक्ष्यसि मां प्राप्तं सन्तापोऽयं विमुच्यताम् ॥ ५३ ॥
 _________________
 चतुर्दशसु वर्षेषु गतेषु नरसत्तम ।  
@@ -2849,11 +2849,11 @@ Reminding Daśaratha that it is his duty to steady the weeping populace, Rāma a
 
 <details><summary>मूलम्</summary>
 
-येन संस्तम्भनीयोऽयं सर्वो बाष्पकलो जनः ।  
-स त्वं पुरुषशार्दूल किमर्थं विक्रियां गतः ॥ ५४ ॥
+[^non-baroDa-CE] येन संस्तम्भनीयोऽयं सर्वो बाष्पकलो जनः ।  
+[^non-baroDa-CE] स त्वं पुरुषशार्दूल किमर्थं विक्रियां गतः ॥ ५४ ॥
 _________________
 येन संस्तम्भनियोऽयं सर्वो बाष्पकलो जनः ।  
-स त्वं पुरुषशार्दूल किमर्थं विक्रियां गतः ॥
+[^non-baroDa-CE] स त्वं पुरुषशार्दूल किमर्थं विक्रियां गतः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3228,8 +3228,8 @@ for you.
 
 <details><summary>मूलम्</summary>
 
-एवं स राजा व्यसनाभिपन्न-  
-स्तापेन दुःखेन च पीड्यमानः ।  
+[^non-baroDa-CE] एवं स राजा व्यसनाभिपन्न-  
+[^non-baroDa-CE] स्तापेन दुःखेन च पीड्यमानः ।  
 आलिङ्ग्य पुत्रं सुविनष्टसञ्ज्ञो  
 भूमिं गतो नैव चिचेष्ट किञ्चित् ॥ ६० ॥
 </details>
@@ -3289,15 +3289,15 @@ Thus overwhelmed by calamity (_vyasanābhipannaḥ_) and tormented by burning an
 
 <details><summary>मूलम्</summary>
 
-देव्यः समस्ता रुरुदुः समेता-  
-स्तां वर्जयित्वा नरदेवपत्नीम् ।  
-रुदन् सुमन्त्रोऽपि जगाम मूर्च्छां  
-हाहाकृतं तत्र बभूव सर्वम् ॥ ६१ ॥
+[^non-baroDa-CE] देव्यः समस्ता रुरुदुः समेता-  
+[^non-baroDa-CE] स्तां वर्जयित्वा नरदेवपत्नीम् ।  
+[^non-baroDa-CE] रुदन् सुमन्त्रोऽपि जगाम मूर्च्छां  
+[^non-baroDa-CE] हाहाकृतं तत्र बभूव सर्वम् ॥ ६१ ॥
 _________________
-देव्यः समस्ता रुरुदुः समेता-  
-स्तां वर्जयित्वा नरदेवपत्नीम् ।  
+[^non-baroDa-CE] देव्यः समस्ता रुरुदुः समेता-  
+[^non-baroDa-CE] स्तां वर्जयित्वा नरदेवपत्नीम् ।  
 रुदन् सुमन्त्रोऽपि जगाम मूर्छां  
-हाहाकृतं तत्र बभूव सर्वम् ॥
+[^non-baroDa-CE] हाहाकृतं तत्र बभूव सर्वम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3352,3 +3352,5 @@ into a swoon, while weeping. Everything there became loud lamenting.
 All the queens assembled there wept aloud, save for that one consort of the king, Kaikeyī (_tāṃ varjayitvā naradeva-patnīm_); weeping, Sumantra too fell into a swoon, and everything there became filled with cries of ‘Alas, alas!’ (_hāhā-kṛtaṃ tatra babhūva sarvam_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

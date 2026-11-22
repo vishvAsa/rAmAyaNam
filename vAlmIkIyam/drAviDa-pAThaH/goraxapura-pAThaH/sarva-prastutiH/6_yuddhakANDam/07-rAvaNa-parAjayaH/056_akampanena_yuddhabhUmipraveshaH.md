@@ -1451,10 +1451,10 @@ With fourteen whetted, body-rending arrows (_caturdaśabhir bāṇair niśitair 
 
 <details><summary>मूलम्</summary>
 
-स तथा विप्रकीर्णस्तु नाराचैः शितशक्तिभिः ।  
+[^non-baroDa-CE] स तथा विप्रकीर्णस्तु नाराचैः शितशक्तिभिः ।  
 हनूमान् ददृशे वीरः प्ररूढ इव सानुमान् ॥ २७ ॥
 _________________
-स तथा विप्रकीर्णस्तु नाराचैः शितशक्तिभिः ।  
+[^non-baroDa-CE] स तथा विप्रकीर्णस्तु नाराचैः शितशक्तिभिः ।  
 हनुमान्ददृशे वीरः प्ररूढ इव सानुमान् ॥
 </details>
 
@@ -1506,7 +1506,7 @@ Bristling all over with iron shafts and sharp javelins (_viprakīrṇas tu nār�
 
 <details><summary>मूलम्</summary>
 
-विरराज महावीर्यो महाकायो महाबलः ।  
+[^non-baroDa-CE] विरराज महावीर्यो महाकायो महाबलः ।  
 पुष्पिताशोकसङ्काशो विधूम इव पावकः ॥ २८ ॥
 </details>
 
@@ -2178,3 +2178,4 @@ Then the hosts of the gods honored the Vānara (_apūjayan devagaṇās tadā ka
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

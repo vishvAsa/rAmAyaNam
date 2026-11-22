@@ -1112,8 +1112,8 @@ from here, which Vishvakarma, the Divine-Architect, has built, and it is called 
 
 <details><summary>मूलम्</summary>
 
-जाम्बूनदमयैर्द्वारैश्चित्रैः काञ्चनवेदिकैः ।  
-प्रासादैर्हेमवर्णैश्च महद्भिः सुसमाकृता ॥ २१ ॥
+[^non-baroDa-CE] जाम्बूनदमयैर्द्वारैश्चित्रैः काञ्चनवेदिकैः ।  
+[^non-baroDa-CE] प्रासादैर्हेमवर्णैश्च महद्भिः सुसमाकृता ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1168,10 +1168,10 @@ enclosed in a gigantic rampart that will be dazzling in the colour of sun... [4-
 
 <details><summary>मूलम्</summary>
 
-प्राकारेणार्कवर्णेन महता च समन्विता ।  
+[^non-baroDa-CE] प्राकारेणार्कवर्णेन महता च समन्विता ।  
 तस्यां वसति वैदेही दीना कौशेयवासिनी ॥ २२ ॥
 _________________
-प्राकारेणार्कवर्णेन महता च समन्विता ।  
+[^non-baroDa-CE] प्राकारेणार्कवर्णेन महता च समन्विता ।  
 तस्यां वसति वैदेहि दीना कौशेयवासिनी ॥
 </details>
 
@@ -1515,7 +1515,7 @@ Seeking vengeance through the monkeys against Rāvaṇa, Sampāti explains how h
 <details><summary>मूलम्</summary>
 
 गर्हितं तु कृतं कर्म येन स्म पिशिताशिनः ।  
-प्रतिकार्यं च मे तस्य वैरं भ्रातृकृतं भवेत् ॥ ३० ॥
+[^non-baroDa-CE] प्रतिकार्यं च मे तस्य वैरं भ्रातृकृतं भवेत् ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1935,3 +1935,4 @@ to them. [4-58-36, 37]
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

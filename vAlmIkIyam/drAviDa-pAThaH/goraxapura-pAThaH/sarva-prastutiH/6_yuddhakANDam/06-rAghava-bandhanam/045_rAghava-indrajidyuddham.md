@@ -1166,7 +1166,7 @@ Pierced in his vital organs by arrows (_viddho marmasu mārgaṇaiḥ_), Rāma f
 
 <details><summary>मूलम्</summary>
 
-रुक्मपुङ्खैः प्रसन्नाग्रै रजोगतिभिराशुगैः ।  
+[^non-baroDa-CE] रुक्मपुङ्खैः प्रसन्नाग्रै रजोगतिभिराशुगैः ।  
 नाराचैरर्धनाराचैर्भल्लैरञ्जलिकैरपि ।  
 विव्याध वत्सदन्तैश्च सिंहदंष्ट्रैः क्षुरैस्तथा ॥ २३ ॥
 </details>
@@ -1338,8 +1338,8 @@ Seeing Rāma, that bull among men (_puruṣarṣabham_), fallen within the range
 
 <details><summary>मूलम्</summary>
 
-रामं कमलपत्राक्षं शरण्यं रणतोषिणम् ।  
-शुशोच भ्रातरं दृष्ट्वा पतितं धरणीतले ॥ २६ ॥
+[^non-baroDa-CE] रामं कमलपत्राक्षं शरण्यं रणतोषिणम् ।  
+[^non-baroDa-CE] शुशोच भ्रातरं दृष्ट्वा पतितं धरणीतले ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1391,7 +1391,7 @@ Beholding his brother Rāma—lotus-petal-eyed (_kamalapatrākṣam_), the refug
 <details><summary>मूलम्</summary>
 
 हरयश्चापि तं दृष्ट्वा सन्तापं परमं गताः ।  
-शोकार्ताश्चुक्रुशुर्घोरमश्रुपूरितलोचनाः ॥ २७ ॥
+[^non-baroDa-CE] शोकार्ताश्चुक्रुशुर्घोरमश्रुपूरितलोचनाः ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1497,3 +1497,5 @@ disturbed and afflicted sorrow.
 Surrounding those two bound heroes as they lay upon their hero&#x27;s bed (_baddhau tu tau vīraśaye śayānau_), the assembled Vānaras headed by the son of Vāyu (_vāyusutapramukhyāḥ_) stood around them and sank into the deepest despair (_viṣādam ārtāḥ paramaṃ ca jagmuḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

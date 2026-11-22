@@ -62,7 +62,7 @@ When the night had brightened into dawn (_prabhātāyāṃ tu śarvaryām_), the
 
 <details><summary>मूलम्</summary>
 
-अग्निहोत्रं व्रजत्वग्रे दीप्यमानं सह द्विजैः ।  
+[^non-baroDa-CE] अग्निहोत्रं व्रजत्वग्रे दीप्यमानं सह द्विजैः ।  
 वाजपेयातपत्रं च शोभमानं महापथे ॥ २ ॥
 </details>
 
@@ -467,7 +467,7 @@ Ministers and throngs of retainers (_mantriṇo bhṛtya-vargāś ca_), together
 ततः सर्वाः प्रकृतयो हृष्टपुष्टजनावृताः ।  
 गच्छन्तमनुगच्छन्ति राघवं गुणरञ्जिताः ॥ १४ ॥  
 ततः सस्त्रीपुमांसस्ते सपक्षिपशुबान्धवाः ।  
-राघवस्यानुगाः सर्वे हृष्टा विगतकल्मषाः ॥ १५ ॥
+[^non-baroDa-CE] राघवस्यानुगाः सर्वे हृष्टा विगतकल्मषाः ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -634,8 +634,8 @@ Bears, monkeys, and rākṣasas, together with the citizens of the capital (_ṛ
 
 <details><summary>मूलम्</summary>
 
-यानि भूतानि नगरेऽप्यन्तर्धानगतानि च ।  
-राघवं तान्यनुययुः स्वर्गाय समुपस्थितम् ॥ २० ॥
+[^non-baroDa-CE] यानि भूतानि नगरेऽप्यन्तर्धानगतानि च ।  
+[^non-baroDa-CE] राघवं तान्यनुययुः स्वर्गाय समुपस्थितम् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -665,11 +665,11 @@ Whatever beings dwelt in the city—even those dwelling in invisible form (_yān
 
 <details><summary>मूलम्</summary>
 
-यानि पश्यन्ति काकुत्स्थं स्थावराणि चराणि च ।  
+[^non-baroDa-CE] यानि पश्यन्ति काकुत्स्थं स्थावराणि चराणि च ।  
 सर्वाणि रामगमने अनुजग्मुर्हि तान्यपि ॥ २१ ॥
 _________________
-यानि पश्यन्ति काकुत्स्थं स्थावराणि चराणि च ।  
-सर्वाणि रामगमने ह्यनुजग्मुर्हि तान्यपि ॥
+[^non-baroDa-CE] यानि पश्यन्ति काकुत्स्थं स्थावराणि चराणि च ।  
+[^non-baroDa-CE] सर्वाणि रामगमने ह्यनुजग्मुर्हि तान्यपि ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -699,11 +699,11 @@ Whatever beings—both immobile and mobile (_sthāvarāṇi carāṇi ca_)—beh
 
 <details><summary>मूलम्</summary>
 
-नोच्छ्वसत् तदयोध्यायां सुसूक्ष्ममपि दृश्यते ।  
+[^non-baroDa-CE] नोच्छ्वसत् तदयोध्यायां सुसूक्ष्ममपि दृश्यते ।  
 तिर्यग्योनिगताश्चैव सर्वे राममनुव्रताः ॥ २२ ॥
 _________________
-नोच्छ्वसत्तदयोध्यायां सुसूक्ष्ममपि दृश्यते ।  
-तिर्यग्योनिगताश्चापि सर्वेराममनुव्रताः ॥
+[^non-baroDa-CE] नोच्छ्वसत्तदयोध्यायां सुसूक्ष्ममपि दृश्यते ।  
+[^non-baroDa-CE] तिर्यग्योनिगताश्चापि सर्वेराममनुव्रताः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -729,3 +729,4 @@ Not even the tiniest breathing creature was to be seen left behind in Ayodhyā (
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -154,10 +154,10 @@ advantages to me, if your affection is placed before them."
 
 <details><summary>मूलम्</summary>
 
-मृगाः सिंहा गजाश्चैव शार्दूलाः शरभास्तथा ।  
-चमराः सृमराश्चैव ये चान्ये वनचारिणः ॥ ३ ॥  
-अदृष्टपूर्वरूपत्वात् सर्वे ते तव राघव ।  
-रूपं दृष्ट्वापसर्पेयुस्तव सर्वे हि बिभ्यति ॥ ४ ॥
+[^non-baroDa-CE] मृगाः सिंहा गजाश्चैव शार्दूलाः शरभास्तथा ।  
+[^non-baroDa-CE] चमराः सृमराश्चैव ये चान्ये वनचारिणः ॥ ३ ॥  
+[^non-baroDa-CE] अदृष्टपूर्वरूपत्वात् सर्वे ते तव राघव ।  
+[^non-baroDa-CE] रूपं दृष्ट्वापसर्पेयुस्तव सर्वे हि बिभ्यति ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1291,3 +1291,4 @@ Seeking to dissuade Vaidehī, who was then plunged in thought and filled with lo
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

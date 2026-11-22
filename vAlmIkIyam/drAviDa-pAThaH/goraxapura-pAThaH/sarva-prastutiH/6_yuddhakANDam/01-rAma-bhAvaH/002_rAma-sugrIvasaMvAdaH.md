@@ -495,7 +495,7 @@ too is sound."
 <details><summary>मूलम्</summary>
 
 विक्रमेण समानेष्ये सीतां हत्वा यथा रिपुम् ।  
-रावणं पापकर्माणं तथा त्वं कर्तुमर्हसि ॥ ८ ॥
+[^non-baroDa-CE] रावणं पापकर्माणं तथा त्वं कर्तुमर्हसि ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -653,8 +653,8 @@ that city of Lanka standing on a peak of the Trikuta Mountain."
 
 <details><summary>मूलम्</summary>
 
-अबद्‍ध्वा सागरे सेतुं घोरे च वरुणालये ।  
-लङ्कां न मर्दितुं शक्या सेन्द्रैरपि सुरासुरैः ॥ ११ ॥
+[^non-baroDa-CE] अबद्‍ध्वा सागरे सेतुं घोरे च वरुणालये ।  
+[^non-baroDa-CE] लङ्कां न मर्दितुं शक्या सेन्द्रैरपि सुरासुरैः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -855,7 +855,7 @@ grief in this world diminishes the might of a man, Oh king!"
 
 <details><summary>मूलम्</summary>
 
-अस्मिन् काले महाप्राज्ञ सत्त्वमातिष्ठ तेजसा ।  
+[^non-baroDa-CE] अस्मिन् काले महाप्राज्ञ सत्त्वमातिष्ठ तेजसा ।  
 शूराणां हि मनुष्याणां त्वद्विधानां महात्मनाम् ।  
 विनष्टे वा प्रणष्टे वा शोकः सर्वार्थनाशनः ॥ १५ ॥
 </details>
@@ -1183,10 +1183,10 @@ wrathful."
 
 <details><summary>मूलम्</summary>
 
-लङ्घिते तत्र तैः सैन्यैर्जितमित्येव निश्चिनु ।  
-सर्वं तीर्णं च मे सैन्यं जितमित्यवधार्यताम् ॥ २१ ॥
+[^non-baroDa-CE] लङ्घिते तत्र तैः सैन्यैर्जितमित्येव निश्चिनु ।  
+[^non-baroDa-CE] सर्वं तीर्णं च मे सैन्यं जितमित्यवधार्यताम् ॥ २१ ॥
 _________________
-लङ्घिते तत्र तैः सैन्यैर्जितमित्येव निश्चिनु ।  
+[^non-baroDa-CE] लङ्घिते तत्र तैः सैन्यैर्जितमित्येव निश्चिनु ।  
 सर्वं तीर्ण च मे सैन्यं जितमित्यवधार्यताम् ॥
 </details>
 
@@ -1238,7 +1238,7 @@ cross the sea, the terrible Lord of rivers."
 
 <details><summary>मूलम्</summary>
 
-इमे हि हरयः शूराः समरे कामरूपिणः ।  
+[^non-baroDa-CE] इमे हि हरयः शूराः समरे कामरूपिणः ।  
 तानरीन् विधमिष्यन्ति शिलापादपवृष्टिभिः ॥ २२ ॥
 </details>
 
@@ -1286,10 +1286,10 @@ all my forces have passed over the sea our triumph is assured!"
 <details><summary>मूलम्</summary>
 
 कथञ्चित् परिपश्यामि लङ्घितं वरुणालयम् ।  
-हतमित्येव तं मन्ये युद्धे शत्रुनिबर्हण ॥ २३ ॥
+[^non-baroDa-CE] हतमित्येव तं मन्ये युद्धे शत्रुनिबर्हण ॥ २३ ॥
 _________________
 कथञ्चित परिपश्यामि लङ्घितं वरुणालयम् ।  
-हतमित्येव तं मन्ये युद्धे शत्रुनिबर्हण ॥
+[^non-baroDa-CE] हतमित्येव तं मन्ये युद्धे शत्रुनिबर्हण ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1335,7 +1335,7 @@ volition, will crush their opponents with an avalanche of rocks and trees."
 <details><summary>मूलम्</summary>
 
 किमुक्त्वा बहुधा चापि सर्वथा विजयी भवान् ।  
-निमित्तानि च पश्यामि मनो मे सम्प्रहृष्यति ॥ २४ ॥
+[^non-baroDa-CE] निमित्तानि च पश्यामि मनो मे सम्प्रहृष्यति ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1381,3 +1381,4 @@ Ravana is as definitely killed in my eyes, Oh exterminator of enemies!"
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

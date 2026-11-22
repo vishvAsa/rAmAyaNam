@@ -43,8 +43,8 @@ Arrayed by the king like an autumnal full-moon night, the monkey host exchanges 
 
 <details><summary>मूलम्</summary>
 
-सा वीरसमिती राज्ञा विरराज व्यवस्थिता ।  
-शशिना शुभनक्षत्रा पौर्णमासीव शारदी ॥ १ ॥
+[^non-baroDa-CE] सा वीरसमिती राज्ञा विरराज व्यवस्थिता ।  
+[^non-baroDa-CE] शशिना शुभनक्षत्रा पौर्णमासीव शारदी ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -96,7 +96,7 @@ Arrayed in order by the king, that assembly of heroes (_vīrasamitiḥ_) shone b
 <details><summary>मूलम्</summary>
 
 प्रचचाल च वेगेन त्रस्ता चैव वसुन्धरा ।  
-पीड्यमाना बलौघेन तेन सागरवर्चसा ॥ २ ॥
+[^non-baroDa-CE] पीड्यमाना बलौघेन तेन सागरवर्चसा ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -141,10 +141,10 @@ Pressed down by that mighty flood of forces (_balaughena_) possessing the splend
 
 <details><summary>मूलम्</summary>
 
-ततः शुश्रुवुराक्रुष्टं लङ्कायां काननौकसः ।  
+[^non-baroDa-CE] ततः शुश्रुवुराक्रुष्टं लङ्कायां काननौकसः ।  
 भेरीमृदङ्गसङ्घुष्टं तुमुलं लोमहर्षणम् ॥ ३ ॥
 _________________
-ततः शुश्रुवुराक्रुष्टं लङ्कायां काननौकसः ।  
+[^non-baroDa-CE] ततः शुश्रुवुराक्रुष्टं लङ्कायां काननौकसः ।  
 भेरीमृदङ्गसङ्घुष्टं तुमुलं रोमहर्षणम् ॥
 </details>
 
@@ -196,8 +196,8 @@ Then the forest-dwellers (_kānanaukasaḥ_) heard an uproar (_ākruṣṭam_) i
 
 <details><summary>मूलम्</summary>
 
-बभूवुस्तेन घोषेण संहृष्टा हरियूथपाः ।  
-अमृष्यमाणास्तद् घोषं विनेदुर्घोषवत्तरम् ॥ ४ ॥
+[^non-baroDa-CE] बभूवुस्तेन घोषेण संहृष्टा हरियूथपाः ।  
+[^non-baroDa-CE] अमृष्यमाणास्तद् घोषं विनेदुर्घोषवत्तरम् ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -249,7 +249,7 @@ Thrilled by that din, the monkey troop-commanders (_hariyūthapāḥ_), unable t
 <details><summary>मूलम्</summary>
 
 राक्षसास्तत् प्लवङ्गानां शुश्रुवुस्तेऽपि गर्जितम् ।  
-नर्दतामिव दृप्तानां मेघानामम्बरे स्वनम् ॥ ५ ॥
+[^non-baroDa-CE] नर्दतामिव दृप्तानां मेघानामम्बरे स्वनम् ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -300,10 +300,10 @@ Those rākṣasas too heard that roaring (_garjitam_) of the monkeys, sounding l
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
-जगाम मनसा सीतां दूूयमानेन चेतसा ॥ ६ ॥
+[^non-baroDa-CE] दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
+[^non-baroDa-CE] जगाम मनसा सीतां दूूयमानेन चेतसा ॥ ६ ॥
 _________________
-दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
+[^non-baroDa-CE] दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
 जगाम मनसा सीतां दूयमानेन चेतसा ॥
 </details>
 
@@ -363,8 +363,8 @@ Grieving for Sītā held captive like Rohiṇī eclipsed by Mars, Rāma steadies
 
 <details><summary>मूलम्</summary>
 
-अत्र सा मृगशावाक्षी रावणेनोपरुध्यते ।  
-अभिभूता ग्रहेणेव लोहिताङ्गेन रोहिणी ॥ ७ ॥
+[^non-baroDa-CE] अत्र सा मृगशावाक्षी रावणेनोपरुध्यते ।  
+[^non-baroDa-CE] अभिभूता ग्रहेणेव लोहिताङ्गेन रोहिणी ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -415,8 +415,8 @@ Rohini star is overshadowed by the red bodied planet (mars)."
 
 <details><summary>मूलम्</summary>
 
-दीर्घमुष्णं च निःश्वस्य समुद्वीक्ष्य च लक्ष्मणम् ।  
-उवाच वचनं वीरस्तत्कालहितमात्मनः ॥ ८ ॥
+[^non-baroDa-CE] दीर्घमुष्णं च निःश्वस्य समुद्वीक्ष्य च लक्ष्मणम् ।  
+[^non-baroDa-CE] उवाच वचनं वीरस्तत्कालहितमात्मनः ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -462,8 +462,8 @@ Heaving a long and burning sigh (_dīrgham uṣṇaṃ ca niḥśvasya_) and loo
 
 <details><summary>मूलम्</summary>
 
-आलिखन्तीमिवाकाशमुत्थितां पश्य लक्ष्मण ।  
-मनसेव कृतां लङ्कां नगाग्रे विश्वकर्मणा ॥ ९ ॥
+[^non-baroDa-CE] आलिखन्तीमिवाकाशमुत्थितां पश्य लक्ष्मण ।  
+[^non-baroDa-CE] मनसेव कृतां लङ्कां नगाग्रे विश्वकर्मणा ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -516,7 +516,7 @@ by Visvakarma with his imagination and so elevated scraping the sky."
 <details><summary>मूलम्</summary>
 
 विमानैर्बहुभिर्लङ्का सङ्कीर्णा रचिता पुरा ।  
-विष्णोः पदमिवाकाशं छादितं पाण्डुभिर्घनैः ॥ १० ॥
+[^non-baroDa-CE] विष्णोः पदमिवाकाशं छादितं पाण्डुभिर्घनैः ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -568,10 +568,10 @@ Crowded with manifold seven-storied palaces (_vimānair bahubhiḥ saṃkīrṇ�
 
 <details><summary>मूलम्</summary>
 
-पुष्पितैः शोभिता लङ्का वनैश्चित्ररथोपमैः ।  
+[^non-baroDa-CE] पुष्पितैः शोभिता लङ्का वनैश्चित्ररथोपमैः ।  
 नानापतगसङ्घुष्टफलपुष्पोपगैः शुभैः ॥ ११ ॥
 _________________
-पुष्पितैः शोभिता लङ्का वनैश्चित्ररथोपमैः ।  
+[^non-baroDa-CE] पुष्पितैः शोभिता लङ्का वनैश्चित्ररथोपमैः ।  
 नानापतगसङ्घुष्टलपुष्पोपगैः शुभैः ॥
 </details>
 
@@ -625,7 +625,7 @@ Laṅkā is graced with blossoming groves resembling Kubera&#x27;s Citraratha ga
 <details><summary>मूलम्</summary>
 
 पश्य मत्तविहङ्गानि प्रलीनभ्रमराणि च ।  
-कोकिलाकुलखण्डानि दोधवीति शिवोऽनिलः ॥ १२ ॥
+[^non-baroDa-CE] कोकिलाकुलखण्डानि दोधवीति शिवोऽनिलः ॥ १२ ॥
 _________________
 पश्य मत्तविहङ्गानि प्रलीनभ्रमराणि च ।  
 कोकिलाकुलषण्डानि दोधवीति शिवोऽनिलः ॥
@@ -687,10 +687,10 @@ Dividing the monkey host according to strategic treatises, Rāma assigns Aṅgad
 
 <details><summary>मूलम्</summary>
 
-इति दाशरथी रामो लक्ष्मणं समभाषत ।  
-बलं च तत्र विभजच्छास्त्रदृष्टेन कर्मणा ॥ १३ ॥
+[^non-baroDa-CE] इति दाशरथी रामो लक्ष्मणं समभाषत ।  
+[^non-baroDa-CE] बलं च तत्र विभजच्छास्त्रदृष्टेन कर्मणा ॥ १३ ॥
 _________________
-इति दाशरथी रामो लक्ष्मणं समभाषत ।  
+[^non-baroDa-CE] इति दाशरथी रामो लक्ष्मणं समभाषत ।  
 बलं च तत्र विभजन् शास्त्रदृष्टेन कर्मणा ॥
 </details>
 
@@ -743,8 +743,8 @@ Thus spoke Rāma, the son of Daśaratha, to Lakṣmaṇa; and there he divided (
 
 <details><summary>मूलम्</summary>
 
-शशास कपिसेनां तां बलादादाय वीर्यवान् ।  
-अङ्गदः सह नीलेन तिष्ठेदुरसि दुर्जयः ॥ १४ ॥
+[^non-baroDa-CE] शशास कपिसेनां तां बलादादाय वीर्यवान् ।  
+[^non-baroDa-CE] अङ्गदः सह नीलेन तिष्ठेदुरसि दुर्जयः ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -797,8 +797,8 @@ The mighty hero commanded that monkey army: “Taking a contingent from the main
 
 <details><summary>मूलम्</summary>
 
-तिष्ठेद् वानरवाहिन्या वानरौघसमावृतः ।  
-आश्रितो दक्षिणं पार्श्वमृषभो नाम वानरः ॥ १५ ॥
+[^non-baroDa-CE] तिष्ठेद् वानरवाहिन्या वानरौघसमावृतः ।  
+[^non-baroDa-CE] आश्रितो दक्षिणं पार्श्वमृषभो नाम वानरः ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -850,8 +850,8 @@ Let the monkey named Ṛṣabha, surrounded by a multitude of monkeys (_vānarau
 
 <details><summary>मूलम्</summary>
 
-गन्धहस्तीव दुर्धर्षस्तरस्वी गन्धमादनः ।  
-तिष्ठेद् वानरवाहिन्याः सव्यं पार्श्वमधिष्ठितः ॥ १६ ॥
+[^non-baroDa-CE] गन्धहस्तीव दुर्धर्षस्तरस्वी गन्धमादनः ।  
+[^non-baroDa-CE] तिष्ठेद् वानरवाहिन्याः सव्यं पार्श्वमधिष्ठितः ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -903,13 +903,13 @@ Let swift Gandhamādana, unassailable like a scent-elephant in rut (_gandhahast�
 
 <details><summary>मूलम्</summary>
 
-मूर्ध्नि स्थास्याम्यहं यत्तो लक्ष्मणेन समन्वितः ।  
-जाम्बवांश्च सुषेणश्च वेगदर्शी च वानरः ॥ १७ ॥  
-ऋक्षमुख्या महात्मानः कुक्षिं रक्षन्तु ते त्रयः ।
+[^non-baroDa-CE] मूर्ध्नि स्थास्याम्यहं यत्तो लक्ष्मणेन समन्वितः ।  
+[^non-baroDa-CE] जाम्बवांश्च सुषेणश्च वेगदर्शी च वानरः ॥ १७ ॥  
+[^non-baroDa-CE] ऋक्षमुख्या महात्मानः कुक्षिं रक्षन्तु ते त्रयः ।
 _________________
 मूध्नि स्थास्याम्यहं यत्तो लक्ष्मणेन समन्वितः ।  
-जाम्बवांश्च सुषेणश्च वेगदर्शी च वानरः ॥  
-ऋक्षमुख्या महात्मानः कुक्षिं रक्षन्तु ते त्रयः ।
+[^non-baroDa-CE] जाम्बवांश्च सुषेणश्च वेगदर्शी च वानरः ॥  
+[^non-baroDa-CE] ऋक्षमुख्या महात्मानः कुक्षिं रक्षन्तु ते त्रयः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -958,8 +958,8 @@ I myself, vigilant (_yattaḥ_) and accompanied by Lakṣmaṇa, shall stand at 
 
 <details><summary>मूलम्</summary>
 
-जघनं कपिसेनायाः कपिराजोऽभिरक्षतु ।  
-पश्चार्धमिव लोकस्य प्रचेतास्तेजसा वृतः ॥ १८ ॥
+[^non-baroDa-CE] जघनं कपिसेनायाः कपिराजोऽभिरक्षतु ।  
+[^non-baroDa-CE] पश्चार्धमिव लोकस्य प्रचेतास्तेजसा वृतः ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1020,8 +1020,8 @@ With the monkey host arrayed in its great formation and eager to crush Laṅkā 
 
 <details><summary>मूलम्</summary>
 
-सुविभक्तमहाव्यूहा महावानररक्षिता ।  
-अनीकिनी सा विबभौ यथा द्यौः साभ्रसम्प्लवा ॥ १९ ॥
+[^non-baroDa-CE] सुविभक्तमहाव्यूहा महावानररक्षिता ।  
+[^non-baroDa-CE] अनीकिनी सा विबभौ यथा द्यौः साभ्रसम्प्लवा ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1066,8 +1066,8 @@ With its great battle-array well-divided (_suvibhaktamahāvyūhā_) and guarded 
 
 <details><summary>मूलम्</summary>
 
-प्रगृह्य गिरिशृङ्गाणि महतश्च महीरुहान् ।  
-आसेदुर्वानरा लङ्कां मिमर्दयिषवो रणे ॥ २० ॥
+[^non-baroDa-CE] प्रगृह्य गिरिशृङ्गाणि महतश्च महीरुहान् ।  
+[^non-baroDa-CE] आसेदुर्वानरा लङ्कां मिमर्दयिषवो रणे ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1118,8 +1118,8 @@ Seizing mountain peaks (_giriśṛṅgāṇi_) and huge trees (_mahīruhān_), t
 
 <details><summary>मूलम्</summary>
 
-शिखरैर्विकिरामैनां लङ्कां मुष्टिभिरेव वा ।  
-इति स्म दधिरे सर्वे मनांसि हरिपुङ्गवाः ॥ २१ ॥
+[^non-baroDa-CE] शिखरैर्विकिरामैनां लङ्कां मुष्टिभिरेव वा ।  
+[^non-baroDa-CE] इति स्म दधिरे सर्वे मनांसि हरिपुङ्गवाः ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1171,8 +1171,8 @@ of mountains or with our bare fists even, we shall shatter this Lanka into piece
 
 <details><summary>मूलम्</summary>
 
-ततो रामो महातेजाः सुग्रीवमिदमब्रवीत् ।  
-सुविभक्तानि सैन्यानि शुक एष विमुच्यताम् ॥ २२ ॥
+[^non-baroDa-CE] ततो रामो महातेजाः सुग्रीवमिदमब्रवीत् ।  
+[^non-baroDa-CE] सुविभक्तानि सैन्यानि शुक एष विमुच्यताम् ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1217,8 +1217,8 @@ Then Rāma of great splendor spoke thus to Sugrīva: “The troops are well arra
 
 <details><summary>मूलम्</summary>
 
-रामस्य तु वचः श्रुत्वा वानरेन्द्रो महाबलः ।  
-मोचयामास तं दूतं शुकं रामस्य शासनात् ॥ २३ ॥
+[^non-baroDa-CE] रामस्य तु वचः श्रुत्वा वानरेन्द्रो महाबलः ।  
+[^non-baroDa-CE] मोचयामास तं दूतं शुकं रामस्य शासनात् ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1263,7 +1263,7 @@ Hearing Rāma&#x27;s words, the mighty lord of monkeys (_vānarendraḥ_) had th
 
 <details><summary>मूलम्</summary>
 
-मोचितो रामवाक्येन वानरैश्च निपीडितः ।  
+[^non-baroDa-CE] मोचितो रामवाक्येन वानरैश्च निपीडितः ।  
 शुकः परमसन्त्रस्तो रक्षोधिपमुपागमत् ॥ २४ ॥
 </details>
 
@@ -1318,9 +1318,9 @@ Mocked by Rāvaṇa over his bound and clipped wings, the trembling Śuka explai
 
 <details><summary>मूलम्</summary>
 
-रावणः प्रहसन्नेव शुकं वाक्यमुवाच ह ।  
-किमिमौ ते सितौ पक्षौ लूनपक्षश्च दृश्यसे ॥ २५ ॥  
-कच्चिन्नानेकचित्तानां तेषां त्वं वशमागतः ।
+[^non-baroDa-CE] रावणः प्रहसन्नेव शुकं वाक्यमुवाच ह ।  
+[^non-baroDa-CE] किमिमौ ते सितौ पक्षौ लूनपक्षश्च दृश्यसे ॥ २५ ॥  
+[^non-baroDa-CE] कच्चिन्नानेकचित्तानां तेषां त्वं वशमागतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1350,8 +1350,8 @@ Laughing outright (_prahasann eva_), Rāvaṇa spoke these words to Śuka: “Wh
 
 <details><summary>मूलम्</summary>
 
-ततः स भयसंविग्नस्तेन राज्ञाभिचोदितः ।  
-वचनं प्रत्युवाचेदं राक्षसाधिपमुत्तमम् ॥ २६ ॥
+[^non-baroDa-CE] ततः स भयसंविग्नस्तेन राज्ञाभिचोदितः ।  
+[^non-baroDa-CE] वचनं प्रत्युवाचेदं राक्षसाधिपमुत्तमम् ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1399,7 +1399,7 @@ I hope you did not fall into the power (_vaśam āgataḥ_) of those fickle-mind
 
 <details><summary>मूलम्</summary>
 
-सागरस्योत्तरे तीरेऽब्रुवं ते वचनं तथा ।  
+[^non-baroDa-CE] सागरस्योत्तरे तीरेऽब्रुवं ते वचनं तथा ।  
 यथा सन्देशमक्लिष्टं सान्त्वयन् श्लक्ष्णया गिरा ॥ २७ ॥
 </details>
 
@@ -1431,7 +1431,7 @@ I hope you did not fall into the power (_vaśam āgataḥ_) of those fickle-mind
 <details><summary>मूलम्</summary>
 
 क्रुद्धैस्तैरहमुत्प्लुत्य दृष्टमात्रः प्लवङ्गमैः ।  
-गृहीतोऽस्म्यपि चारब्धो हन्तुं लोप्तुं च मुष्टिभिः ॥ २८ ॥
+[^non-baroDa-CE] गृहीतोऽस्म्यपि चारब्धो हन्तुं लोप्तुं च मुष्टिभिः ॥ २८ ॥
 _________________
 क्रुद्धैस्तैरहमुत्प्लुत्य दृष्टमात्रः प्लवङ्गमैः ।  
 गृहितोऽस्म्यपि चारब्धो हन्तुं लोप्तुं चमुष्टि भिः ॥
@@ -1485,7 +1485,7 @@ No sooner was I seen (_dṛṣṭamātraḥ_) than those enraged monkeys (_krudd
 <details><summary>मूलम्</summary>
 
 न ते सम्भाषितुं शक्याः सम्प्रश्नोऽत्र न विद्यते ।  
-प्रकृत्या कोपनास्तीक्ष्णा वानरा राक्षसाधिप ॥ २९ ॥
+[^non-baroDa-CE] प्रकृत्या कोपनास्तीक्ष्णा वानरा राक्षसाधिप ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1536,8 +1536,8 @@ They cannot even be spoken to (_na te saṃbhāṣituṃ śakyāḥ_), nor is an
 
 <details><summary>मूलम्</summary>
 
-स च हन्ता विराधस्य कबन्धस्य खरस्य च ।  
-सुग्रीवसहितो रामः सीतायाः पदमागतः ॥ ३० ॥
+[^non-baroDa-CE] स च हन्ता विराधस्य कबन्धस्य खरस्य च ।  
+[^non-baroDa-CE] सुग्रीवसहितो रामः सीतायाः पदमागतः ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1597,8 +1597,8 @@ Warning that Rāma stands bow in hand with thousands of monkey legions, Śuka ur
 
 <details><summary>मूलम्</summary>
 
-स कृत्वा सागरे सेतुं तीर्त्वा च लवणोदधिम् ।  
-एष रक्षांसि निर्धूय धन्वी तिष्ठति राघवः ॥ ३१ ॥
+[^non-baroDa-CE] स कृत्वा सागरे सेतुं तीर्त्वा च लवणोदधिम् ।  
+[^non-baroDa-CE] एष रक्षांसि निर्धूय धन्वी तिष्ठति राघवः ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1643,7 +1643,7 @@ Having built a causeway (_setum_) across the ocean and crossed the briny sea (_l
 
 <details><summary>मूलम्</summary>
 
-ऋक्षवानरसङ्घानामनीकानि सहस्रशः ।  
+[^non-baroDa-CE] ऋक्षवानरसङ्घानामनीकानि सहस्रशः ।  
 गिरिमेघनिकाशानां छादयन्ति वसुन्धराम् ॥ ३२ ॥
 </details>
 
@@ -1696,7 +1696,7 @@ By the thousands (_sahasraśaḥ_), the armies of bear and monkey hosts (_ṛk�
 
 <details><summary>मूलम्</summary>
 
-राक्षसानां बलौघस्य वानरेन्द्रबलस्य च ।  
+[^non-baroDa-CE] राक्षसानां बलौघस्य वानरेन्द्रबलस्य च ।  
 नैतयोर्विद्यते सन्धिर्देवदानवयोरिव ॥ ३३ ॥
 </details>
 
@@ -1748,10 +1748,10 @@ Between the flood of rākṣasa forces and the army of the monkey king, there ca
 
 <details><summary>मूलम्</summary>
 
-पुरा प्राकारमायान्ति क्षिप्रमेकतरं कुरु ।  
-सीतां चास्मै प्रयच्छाशु युद्धं वापि प्रदीयताम् ॥ ३४ ॥
+[^non-baroDa-CE] पुरा प्राकारमायान्ति क्षिप्रमेकतरं कुरु ।  
+[^non-baroDa-CE] सीतां चास्मै प्रयच्छाशु युद्धं वापि प्रदीयताम् ॥ ३४ ॥
 _________________
-पुरा प्राकारमायान्ति क्षिप्रमेकतरं कुरु ।  
+[^non-baroDa-CE] पुरा प्राकारमायान्ति क्षिप्रमेकतरं कुरु ।  
 सीतां वास्मै प्रयच्छाशु युद्धं वापि प्रदीयताम् ॥
 </details>
 
@@ -1797,8 +1797,8 @@ Before they reach the city ramparts (_purā prākāram āyānti_), quickly do on
 
 <details><summary>मूलम्</summary>
 
-शुकस्य वचनं श्रुत्वा रावणो वाक्यमब्रवीत् ।  
-रोषसंरक्तनयनो निर्दहन्निव चक्षुषा ॥ ३५ ॥
+[^non-baroDa-CE] शुकस्य वचनं श्रुत्वा रावणो वाक्यमब्रवीत् ।  
+[^non-baroDa-CE] रोषसंरक्तनयनो निर्दहन्निव चक्षुषा ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1858,8 +1858,8 @@ Vowing never to surrender Sītā even if all the worlds attack him, Rāvaṇa bo
 
 <details><summary>मूलम्</summary>
 
-यदि मां प्रति युद्धेरन् देवगन्धर्वदानवाः ।  
-नैव सीतां प्रदास्यामि सर्वलोकभयादपि ॥ ३६ ॥
+[^non-baroDa-CE] यदि मां प्रति युद्धेरन् देवगन्धर्वदानवाः ।  
+[^non-baroDa-CE] नैव सीतां प्रदास्यामि सर्वलोकभयादपि ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1904,11 +1904,11 @@ he would consume him with his glance, said as follows:
 
 <details><summary>मूलम्</summary>
 
-कदा समभिधावन्त मामका राघवं शराः ।  
-वसन्ते पुष्पितं मत्ता भ्रमरा इव पादपम् ॥ ३७ ॥
+[^non-baroDa-CE] कदा समभिधावन्त मामका राघवं शराः ।  
+[^non-baroDa-CE] वसन्ते पुष्पितं मत्ता भ्रमरा इव पादपम् ॥ ३७ ॥
 _________________
 कदा समभिधावन्ति मामका राघवं शराः ।  
-वसन्ते पुष्पितं मत्ता भ्रमरा इव पादपम् ॥
+[^non-baroDa-CE] वसन्ते पुष्पितं मत्ता भ्रमरा इव पादपम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1959,8 +1959,8 @@ When will my arrows (_māmakāḥ śarāḥ_) rush upon Rāghava, like intoxicat
 
 <details><summary>मूलम्</summary>
 
-कदा शोणितदिग्धाङ्गं दीप्तैः कार्मुकविच्युतैः ।  
-शरैरादीपयिष्यामि उल्काभिरिव कुञ्जरम् ॥ ३८ ॥
+[^non-baroDa-CE] कदा शोणितदिग्धाङ्गं दीप्तैः कार्मुकविच्युतैः ।  
+[^non-baroDa-CE] शरैरादीपयिष्यामि उल्काभिरिव कुञ्जरम् ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2011,8 +2011,8 @@ When, with blazing arrows loosed from my bow (_dīptaiḥ kārmukavicyutaiḥ ś
 
 <details><summary>मूलम्</summary>
 
-तच्चास्य बलमादास्ये बलेन महता वृतः ।  
-ज्योतिषामिव सर्वेषां प्रभामुद्यन् दिवाकरः ॥ ३९ ॥
+[^non-baroDa-CE] तच्चास्य बलमादास्ये बलेन महता वृतः ।  
+[^non-baroDa-CE] ज्योतिषामिव सर्वेषां प्रभामुद्यन् दिवाकरः ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2063,8 +2063,8 @@ Surrounded by a mighty army, I shall eclipse (_ādāsye_) that force of his, jus
 
 <details><summary>मूलम्</summary>
 
-सागरस्येव मे वेगो मारुतस्येव मे बलम् ।  
-न च दाशरथिर्वेद तेन मां योद्धुमिच्छति ॥ ४० ॥
+[^non-baroDa-CE] सागरस्येव मे वेगो मारुतस्येव मे बलम् ।  
+[^non-baroDa-CE] न च दाशरथिर्वेद तेन मां योद्धुमिच्छति ॥ ४० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2118,7 +2118,7 @@ Likening his bow to a dread lute played with arrow-plectrums across the enemy ho
 
 <details><summary>मूलम्</summary>
 
-न मे तूणीशयान् बाणान् सविषानिव पन्नगान् ।  
+[^non-baroDa-CE] न मे तूणीशयान् बाणान् सविषानिव पन्नगान् ।  
 रामः पश्यति सङ्ग्रामे तेन मां योद्धुमिच्छति ॥ ४१ ॥
 </details>
 
@@ -2173,11 +2173,11 @@ Rāma has never beheld in battle my quiver-couched arrows (_tūṇīśayān bā�
 
 <details><summary>मूलम्</summary>
 
-न जानाति पुरा वीर्यं मम युद्धे स राघवः ।  
-मम चापमयीं वीणां शरकोणैः प्रवादिताम् ॥ ४२ ॥  
-ज्याशब्दतुमुलां घोरामार्तगीतमहास्वनाम् ।  
+[^non-baroDa-CE] न जानाति पुरा वीर्यं मम युद्धे स राघवः ।  
+[^non-baroDa-CE] मम चापमयीं वीणां शरकोणैः प्रवादिताम् ॥ ४२ ॥  
+[^non-baroDa-CE] ज्याशब्दतुमुलां घोरामार्तगीतमहास्वनाम् ।  
 नाराचतलसन्नादां नदीमहितवाहिनीम् ।  
-अवगाह्य महारङ्गं वादयिष्याम्यहं रणे ॥ ४३ ॥
+[^non-baroDa-CE] अवगाह्य महारङ्गं वादयिष्याम्यहं रणे ॥ ४३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2226,10 +2226,10 @@ is why, he desires to fight with me."
 
 <details><summary>मूलम्</summary>
 
-न वासवेनापि सहस्रचक्षुषा  
-युद्धेऽस्मि शक्यो वरुणेन वा स्वयम् ।  
-यमेन वा धर्षयितुं शराग्निना  
-महाहवे वैश्रवणेन वा पुनः ॥ ४४ ॥
+[^non-baroDa-CE] न वासवेनापि सहस्रचक्षुषा  
+[^non-baroDa-CE] युद्धेऽस्मि शक्यो वरुणेन वा स्वयम् ।  
+[^non-baroDa-CE] यमेन वा धर्षयितुं शराग्निना  
+[^non-baroDa-CE] महाहवे वैश्रवणेन वा पुनः ॥ ४४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2279,3 +2279,4 @@ Not even by thousand-eyed Vāsava [Indra] can I be overpowered (_na śakyo dhar�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

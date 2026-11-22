@@ -217,7 +217,7 @@ prevail on whole of your dynasty, for it is hard to deal with Rama or with his d
 
 <details><summary>मूलम्</summary>
 
-उषित्वा द्वादश समा इक्ष्वाकूणां निवेशने ।  
+[^non-baroDa-CE] उषित्वा द्वादश समा इक्ष्वाकूणां निवेशने ।  
 भुञ्जाना मानुषान् भोगान् सर्वकामसमृद्धिनी ॥ ४ ॥
 </details>
 
@@ -278,7 +278,7 @@ Having dwelt for twelve years (_uṣitvā dvādaśa samāḥ_) in the palace of 
 
 <details><summary>मूलम्</summary>
 
-तत्र त्रयोदशे वर्षे राजाऽमन्त्रयत प्रभुः ।  
+[^non-baroDa-CE] तत्र त्रयोदशे वर्षे राजाऽमन्त्रयत प्रभुः ।  
 अभिषेचयितुं रामं समेतो राजमन्त्रिभिः ॥ ५ ॥
 </details>
 
@@ -539,7 +539,7 @@ this shall be the end of my life (_eṣa me jīvitasyāntaḥ_) if Rāma is cons
 <details><summary>मूलम्</summary>
 
 मम भर्ता महातेजा वयसा पञ्चविंशकः ॥ १० ॥  
-अष्टादश हि वर्षाणि मम जन्मनि गण्यते ।
+[^non-baroDa-CE] अष्टादश हि वर्षाणि मम जन्मनि गण्यते ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -660,8 +660,8 @@ the principle character, Seetha.
 
 <details><summary>मूलम्</summary>
 
-कामार्तश्च महाराजः पिता दशरथः स्वयम् ॥ १२ ॥  
-कैकेय्याः प्रियकामार्थं तं रामं नाभ्यषेचयत् ।
+[^non-baroDa-CE] कामार्तश्च महाराजः पिता दशरथः स्वयम् ॥ १२ ॥  
+[^non-baroDa-CE] कैकेय्याः प्रियकामार्थं तं रामं नाभ्यषेचयत् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1052,8 +1052,8 @@ Lakshmana to Shuurpanakha about Lakshmana as *apuurvii *while some others use as
 <details><summary>मूलम्</summary>
 
 अन्वगच्छद् धनुष्पाणिः प्रव्रजन्तं मया सह ।  
-जटी तापसरूपेण मया सह सहानुजः ॥ २० ॥  
-प्रविष्टो दण्डकारण्यं धर्मनित्यो दृढव्रतः ।
+[^non-baroDa-CE] जटी तापसरूपेण मया सह सहानुजः ॥ २० ॥  
+[^non-baroDa-CE] प्रविष्टो दण्डकारण्यं धर्मनित्यो दृढव्रतः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1157,7 +1157,7 @@ by our own mettle as we fell down from kingdom owing to Kaikeyi. [3-47-21b, 22a]
 
 <details><summary>मूलम्</summary>
 
-रुरून् गोधान् वराहांश्च हत्वाऽऽदायामिषं बहु ॥ २३ ॥  
+[^non-baroDa-CE] रुरून् गोधान् वराहांश्च हत्वाऽऽदायामिषं बहु ॥ २३ ॥  
 स त्वं नाम च गोत्रं च कुलमाचक्ष्व तत्त्वतः ।  
 एकश्च दण्डकारण्ये किमर्थं चरसि द्विज ॥ २४ ॥
 </details>
@@ -1765,7 +1765,7 @@ fathomless serene ocean... I have avowed to follow him in this lifetime.'
 
 <details><summary>मूलम्</summary>
 
-सर्वलक्षणसम्पन्नं न्यग्रोधपरिमण्डलम् ।  
+[^non-baroDa-CE] सर्वलक्षणसम्पन्नं न्यग्रोधपरिमण्डलम् ।  
 सत्यसन्धं महाभागमहं राममनुव्रता ॥ ३४ ॥
 </details>
 
@@ -1891,7 +1891,7 @@ To Rāma, mighty-armed (_mahā-bāhum_), broad-chested (_mahoraskam_), striding 
 <details><summary>मूलम्</summary>
 
 पूर्णचन्द्राननं रामं राजवत्सं जितेन्द्रियम् ।  
-पृथुकीर्तिं महाबाहुमहं राममनुव्रता ॥ ३६ ॥
+[^non-baroDa-CE] पृथुकीर्तिं महाबाहुमहं राममनुव्रता ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2966,3 +2966,4 @@ Perceiving Sītā trembling (_tāṃ vepamānām upalakṣya_), that Rāvaṇa, 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

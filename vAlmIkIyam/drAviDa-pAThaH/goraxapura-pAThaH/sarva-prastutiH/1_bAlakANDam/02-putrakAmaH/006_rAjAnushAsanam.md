@@ -801,7 +801,7 @@ Nowhere was there an atheist, nor a speaker of untruth, nor anyone of shallow le
 
 <details><summary>मूलम्</summary>
 
-नाषडङ्गविदत्रास्ति नाव्रतो नासहस्रदः ।  
+[^non-baroDa-CE] नाषडङ्गविदत्रास्ति नाव्रतो नासहस्रदः ।  
 न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन ॥ १५ ॥
 </details>
 
@@ -912,7 +912,7 @@ Nowhere in Ayodhyā could one behold any man or woman bereft of auspicious radia
 <details><summary>मूलम्</summary>
 
 वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः ।  
-कृतज्ञाश्च वदान्याश्च शूरा विक्रमसंयुताः ॥ १७ ॥
+[^non-baroDa-CE] कृतज्ञाश्च वदान्याश्च शूरा विक्रमसंयुताः ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -965,7 +965,7 @@ Across all four social orders—those having the foremost (Brāhmaṇa) as their
 <details><summary>मूलम्</summary>
 
 दीर्घायुषो नराः सर्वे धर्मं सत्यं च संश्रिताः ।  
-सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे ॥ १८ ॥
+[^non-baroDa-CE] सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1342,7 +1342,7 @@ It was filled as well with rutting elephants born in the Vindhya mountains and t
 
 <details><summary>मूलम्</summary>
 
-ऐरावतकुलीनैश्च महापद्मकुलैस्तथा ।  
+[^non-baroDa-CE] ऐरावतकुलीनैश्च महापद्मकुलैस्तथा ।  
 अञ्जनादपि निष्क्रान्तैर्वामनादपि च द्विपैः ॥ २४ ॥
 </details>
 
@@ -1415,13 +1415,13 @@ Filled with the seven pure and hybrid breeds of rutting war-elephants, the city 
 
 <details><summary>मूलम्</summary>
 
-भद्रैर्मन्द्रैर्मृगैश्चैव भद्रमन्द्रमृगैस्तथा ।  
+[^non-baroDa-CE] भद्रैर्मन्द्रैर्मृगैश्चैव भद्रमन्द्रमृगैस्तथा ।  
 भद्रमन्द्रैर्भद्रमृगैर्मृगमन्द्रैश्च सा पुरी ॥ २५ ॥  
 नित्यमत्तैः सदा पूर्णा नागैरचलसन्निभैः ।  
 सा योजने द्वे च भूयः सत्यनामा प्रकाशते ।  
 यस्यां दशरथो राजा वसञ्जगदपालयत् ॥ २६ ॥
 _________________
-भद्रैर्मन्द्रैर्मृगैश्चैव भद्रमन्द्रमृगैस्तथा ।  
+[^non-baroDa-CE] भद्रैर्मन्द्रैर्मृगैश्चैव भद्रमन्द्रमृगैस्तथा ।  
 भद्रमन्द्रैर्भद्रमृगैर्मृगमन्द्रैश्च सा पुरी ॥
 नित्यमत्तैः सदा पूर्णा नागैरचलसन्निभैः ।  
 सा योजने च द्वे भूयः सत्यनामा प्रकाशते ।  
@@ -1502,8 +1502,8 @@ While residing in which city King Dasharatha ruled the world that city is furthe
 
 <details><summary>मूलम्</summary>
 
-तां पुरीं स महातेजा राजा दशरथो महान् ।  
-शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः ॥ २७ ॥
+[^non-baroDa-CE] तां पुरीं स महातेजा राजा दशरथो महान् ।  
+[^non-baroDa-CE] शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1604,3 +1604,5 @@ With gorgeous arches, castle-door-bars and with amazingly built houses that city
 That auspicious city of Ayodhyā—true to her name, fitted with massive gateway-arches and locking wooden bolts, resplendent with manifold palaces, and teeming with thousands of men—the Sovereign Lord, equal to Śakra (Indra), ruled indeed.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

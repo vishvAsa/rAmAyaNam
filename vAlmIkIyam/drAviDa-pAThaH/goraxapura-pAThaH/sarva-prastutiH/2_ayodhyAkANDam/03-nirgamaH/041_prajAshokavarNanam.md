@@ -465,13 +465,13 @@ Hearing that terrible cry of anguish (_ghoram ārta-śabdam_) in the inner apart
 
 <details><summary>मूलम्</summary>
 
-नाग्निहोत्राण्यहूयन्त नापचन् गृहमेधिनः ।  
-अकुर्वन् न प्रजाः कार्यं सूर्यश्चान्तरधीयत ॥ ९ ॥  
+[^non-baroDa-CE] नाग्निहोत्राण्यहूयन्त नापचन् गृहमेधिनः ।  
+[^non-baroDa-CE] अकुर्वन् न प्रजाः कार्यं सूर्यश्चान्तरधीयत ॥ ९ ॥  
 व्यसृजन् कवलान् नागा गावो वत्सान् न पाययन् ।  
 पुत्रां प्रथमजं लब्ध्वा जननी नाभ्यनन्दत ॥ १० ॥
 _________________
-नाग्निहोत्राण्यहूयन्त नापचन् गृहमेधिनः ।  
-अकुर्वन्न प्रजाः कार्यं सूर्यश्चान्तरधीयत ॥
+[^non-baroDa-CE] नाग्निहोत्राण्यहूयन्त नापचन् गृहमेधिनः ।  
+[^non-baroDa-CE] अकुर्वन्न प्रजाः कार्यं सूर्यश्चान्तरधीयत ॥
 व्यसृजन् कवलान्नागा गावोवत्सान्न पाययन् ।  
 पुत्रं प्रथमजं लब्ध्वा जननी नाभ्यनन्दत ॥
 </details>
@@ -661,8 +661,8 @@ The lunar asterisms lost their radiance (_nakṣatrāṇi gata-arcīṃṣi_), t
 
 <details><summary>मूलम्</summary>
 
-कालिकानिलवेगेन महोदधिरिवोत्थितः ।  
-रामे वनं प्रव्रजिते नगरं प्रचचाल तत् ॥ १३ ॥
+[^non-baroDa-CE] कालिकानिलवेगेन महोदधिरिवोत्थितः ।  
+[^non-baroDa-CE] रामे वनं प्रव्रजिते नगरं प्रचचाल तत् ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -707,7 +707,7 @@ When Rāma set forth for the forest (_rāme vanam pravrajite_), that city trembl
 
 <details><summary>मूलम्</summary>
 
-दिशः पर्याकुलाः सर्वास्तिमिरेणेव संवृताः ।  
+[^non-baroDa-CE] दिशः पर्याकुलाः सर्वास्तिमिरेणेव संवृताः ।  
 न ग्रहो नापि नक्षत्रं प्रचकाशे न किञ्चन ॥ १४ ॥
 </details>
 
@@ -809,10 +809,10 @@ Without any other visible cause (_akasmāt_), all the townsfolk sank into utter 
 <details><summary>मूलम्</summary>
 
 शोकपर्यायसन्तप्तः सततं दीर्घमुच्छ्वसन् ।  
-अयोध्यायां जनः सर्वश्चुक्रोश जगतीपतिम् ॥ १६ ॥
+[^non-baroDa-CE] अयोध्यायां जनः सर्वश्चुक्रोश जगतीपतिम् ॥ १६ ॥
 _________________
 शोकपर्यायसन्तप्तः सततं दीर्घमुच्छसन् ।  
-अयोध्यायां जनः सर्वश्चुक्रोश जगतीपतिम् ॥
+[^non-baroDa-CE] अयोध्यायां जनः सर्वश्चुक्रोश जगतीपतिम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1155,3 +1155,4 @@ Then Ayodhyā, bereft of that high-souled prince (_rahitā mahātmanā_) like th
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

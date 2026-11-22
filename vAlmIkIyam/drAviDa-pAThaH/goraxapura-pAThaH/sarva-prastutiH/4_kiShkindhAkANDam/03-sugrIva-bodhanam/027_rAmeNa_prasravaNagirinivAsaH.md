@@ -243,9 +243,9 @@ Upon the summit of that mountain, Rāma, together with the son of Sumitrā, acce
 
 <details><summary>मूलम्</summary>
 
-कृत्वा च समयं रामः सुग्रीवेण सहानघः ।  
-कालयुक्तं महद्वाक्यमुवाच रघुनन्दनः ॥ ५ ॥  
-विनीतं भ्रातरं भ्राता लक्ष्मणं लक्ष्मिवर्धनम् ।
+[^non-baroDa-CE] कृत्वा च समयं रामः सुग्रीवेण सहानघः ।  
+[^non-baroDa-CE] कालयुक्तं महद्वाक्यमुवाच रघुनन्दनः ॥ ५ ॥  
+[^non-baroDa-CE] विनीतं भ्रातरं भ्राता लक्ष्मणं लक्ष्मिवर्धनम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -300,7 +300,7 @@ Having made the compact with Sugrīva (_kṛtvā ca samayam_), the sinless Rāma
 
 <details><summary>मूलम्</summary>
 
-इयं गिरिगुहा रम्या विशाला युक्तमारुता ॥ ६ ॥  
+[^non-baroDa-CE] इयं गिरिगुहा रम्या विशाला युक्तमारुता ॥ ६ ॥  
 अस्यां वत्स्याम सौमित्रे वर्षरात्रमरिन्दम ।
 </details>
 
@@ -360,8 +360,8 @@ Rāma praises the mountain peak with its white, black, and copper-hued rocks, ec
 
 <details><summary>मूलम्</summary>
 
-गिरिशृङ्गमिदं रम्यमुत्तमं पार्थिवात्मज ॥ ७ ॥  
-श्वेताभिः कृष्णताम्राभिः शिलाभिरुपशोभितम् ।
+[^non-baroDa-CE] गिरिशृङ्गमिदं रम्यमुत्तमं पार्थिवात्मज ॥ ७ ॥  
+[^non-baroDa-CE] श्वेताभिः कृष्णताम्राभिः शिलाभिरुपशोभितम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -392,8 +392,8 @@ Rāma praises the mountain peak with its white, black, and copper-hued rocks, ec
 
 <details><summary>मूलम्</summary>
 
-नानाधातुसमाकीर्णं नदीदर्दुरसंयुतम् ॥ ८ ॥  
-विविधैर्वृक्षषण्डैश्च चारुचित्रलतायुतम् ।  
+[^non-baroDa-CE] नानाधातुसमाकीर्णं नदीदर्दुरसंयुतम् ॥ ८ ॥  
+[^non-baroDa-CE] विविधैर्वृक्षषण्डैश्च चारुचित्रलतायुतम् ।  
 नानाविहगसङ्घुष्टं मयूरवरनादितम् ॥ ९ ॥
 </details>
 
@@ -426,8 +426,8 @@ Rāma praises the mountain peak with its white, black, and copper-hued rocks, ec
 
 <details><summary>मूलम्</summary>
 
-मालतीकुन्दगुल्मैश्च सिन्दुवारैः शिरीषकैः ।  
-कदम्बार्जुनसर्जैश्च पुष्पितैरुपशोभितम् ॥ १० ॥
+[^non-baroDa-CE] मालतीकुन्दगुल्मैश्च सिन्दुवारैः शिरीषकैः ।  
+[^non-baroDa-CE] कदम्बार्जुनसर्जैश्च पुष्पितैरुपशोभितम् ॥ १० ॥
 _________________
 मालतीकुन्दगुल्मैश्च सिन्धुवारैः शिरीषकैः ।  
 कदम्बार्जुनसर्जैश्च पुष्टितैरुपशोभितम् ॥
@@ -497,8 +497,8 @@ chapter.
 
 <details><summary>मूलम्</summary>
 
-इयं च नलिनी रम्या फुल्लपङ्कजमण्डिता ।  
-नातिदूरे गुहाया नौ भविष्यति नृपात्मज ॥ ११ ॥
+[^non-baroDa-CE] इयं च नलिनी रम्या फुल्लपङ्कजमण्डिता ।  
+[^non-baroDa-CE] नातिदूरे गुहाया नौ भविष्यति नृपात्मज ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -549,8 +549,8 @@ available not far away from our cave. [4-27-11]
 
 <details><summary>मूलम्</summary>
 
-प्रागुदक्प्रवणे देशे गुहा साधु भविष्यति ।  
-पश्चाच्चैवोन्नता सौम्य निवातेयं भविष्यति ॥ १२ ॥
+[^non-baroDa-CE] प्रागुदक्प्रवणे देशे गुहा साधु भविष्यति ।  
+[^non-baroDa-CE] पश्चाच्चैवोन्नता सौम्य निवातेयं भविष्यति ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -613,8 +613,8 @@ Rāma points out a level black rock at the cave's doorway, a dark northern peak,
 
 <details><summary>मूलम्</summary>
 
-गुहाद्वारे च सौमित्रे शिला समतला शिवा ।  
-कृष्णा चैवायता चैव भिन्नाञ्जनचयोपमा ॥ १३ ॥
+[^non-baroDa-CE] गुहाद्वारे च सौमित्रे शिला समतला शिवा ।  
+[^non-baroDa-CE] कृष्णा चैवायता चैव भिन्नाञ्जनचयोपमा ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -665,10 +665,10 @@ mound of mascara is broad, even-surfaced, and will be pleasant for a repose. [4-
 
 <details><summary>मूलम्</summary>
 
-गिरिशृङ्गमिदं तात पश्य चोत्तरतः शुभम् ।  
-भिन्नाञ्जनचयाकारमम्भोधरमिवोदितम् ॥ १४ ॥
+[^non-baroDa-CE] गिरिशृङ्गमिदं तात पश्य चोत्तरतः शुभम् ।  
+[^non-baroDa-CE] भिन्नाञ्जनचयाकारमम्भोधरमिवोदितम् ॥ १४ ॥
 _________________
-गिरिशृङ्गमिदं तात पश्य चोत्तरतः शुभम् ।  
+[^non-baroDa-CE] गिरिशृङ्गमिदं तात पश्य चोत्तरतः शुभम् ।  
 भिन्नाङ्गनचयाकारमम्भोधरमिवोदितम् ॥
 </details>
 
@@ -722,8 +722,8 @@ side. [4-27-14]
 
 <details><summary>मूलम्</summary>
 
-दक्षिणस्यामपि दिशि स्थितं श्वेतमिवाम्बरम् ।  
-कैलासशिखरप्रख्यं नानाधातुविराजितम् ॥ १५ ॥
+[^non-baroDa-CE] दक्षिणस्यामपि दिशि स्थितं श्वेतमिवाम्बरम् ।  
+[^non-baroDa-CE] कैलासशिखरप्रख्यं नानाधातुविराजितम् ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -774,10 +774,10 @@ spread on sky, which is vying with Mt. Kailash and abounding with many an ore. [
 
 <details><summary>मूलम्</summary>
 
-प्राचीनवाहिनीं चैव नदीं भृशमकर्दमाम् ।  
-गुहायाः परतः पश्य त्रिकूटे जाह्नवीमिव ॥ १६ ॥
+[^non-baroDa-CE] प्राचीनवाहिनीं चैव नदीं भृशमकर्दमाम् ।  
+[^non-baroDa-CE] गुहायाः परतः पश्य त्रिकूटे जाह्नवीमिव ॥ १६ ॥
 _________________
-प्राचीनवाहिनीं चैव नदीं भृशमकर्दमाम् ।  
+[^non-baroDa-CE] प्राचीनवाहिनीं चैव नदीं भृशमकर्दमाम् ।  
 गुहायाः पूर्वतः पश्य त्रिकूटे जाह्नवीमिव ॥
 </details>
 
@@ -808,8 +808,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-चन्दनैस्तिलकैः सालैस्तमालैरतिमुक्तकैः ।  
-पद्मकैः सरलैश्चैव अशोकैश्चैव शोभिताम् ॥ १७ ॥
+[^non-baroDa-CE] चन्दनैस्तिलकैः सालैस्तमालैरतिमुक्तकैः ।  
+[^non-baroDa-CE] पद्मकैः सरलैश्चैव अशोकैश्चैव शोभिताम् ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -875,9 +875,9 @@ Rāma likens the tree-lined river with its cakravāka birds, sandbanks, and mult
 
 <details><summary>मूलम्</summary>
 
-वानीरैस्तिमिदैश्चैव बकुलैः केतकैरपि ।  
-हिन्तालैस्तिनिशैर्नीपैर्वेतसैः कृतमालकैः ॥ १८ ॥  
-तीरजैः शोभिता भाति नानारूपैस्ततस्ततः ।  
+[^non-baroDa-CE] वानीरैस्तिमिदैश्चैव बकुलैः केतकैरपि ।  
+[^non-baroDa-CE] हिन्तालैस्तिनिशैर्नीपैर्वेतसैः कृतमालकैः ॥ १८ ॥  
+[^non-baroDa-CE] तीरजैः शोभिता भाति नानारूपैस्ततस्ततः ।  
 वसनाभरणोपेता प्रमदेवाभ्यलङ्कृता ॥ १९ ॥
 </details>
 
@@ -938,7 +938,7 @@ bedecked with raiment and ornaments. [4-27-18, 19]
 
 <details><summary>मूलम्</summary>
 
-शतशः पक्षिसङ्घैश्च नानानादविनादिता ।  
+[^non-baroDa-CE] शतशः पक्षिसङ्घैश्च नानानादविनादिता ।  
 एकैकमनुरक्तैश्च चक्रवाकैरलङ्कृता ॥ २० ॥
 </details>
 
@@ -969,10 +969,10 @@ bedecked with raiment and ornaments. [4-27-18, 19]
 
 <details><summary>मूलम्</summary>
 
-पुलिनैरतिरम्यैश्च हंससारससेविता ।  
-प्रहसन्त्येव भात्येषा नानारत्नसमन्विता ॥ २१ ॥
+[^non-baroDa-CE] पुलिनैरतिरम्यैश्च हंससारससेविता ।  
+[^non-baroDa-CE] प्रहसन्त्येव भात्येषा नानारत्नसमन्विता ॥ २१ ॥
 _________________
-पुलिनैरतिरम्यैश्च हंससारससेविताः ।  
+[^non-baroDa-CE] पुलिनैरतिरम्यैश्च हंससारससेविताः ।  
 प्रहसन्त्येव भात्येषा नारी रत्नसमन्विता ॥
 </details>
 
@@ -1034,8 +1034,8 @@ clucking sounds of the birds are like the tinkles from the tinkling bells of tha
 
 <details><summary>मूलम्</summary>
 
-क्वचिन्नीलोत्पलैश्छन्ना भातिरक्तोत्पलैः क्वचित् ।  
-क्वचिदाभाति शुक्लैश्च दिव्यैः कुमुदकुड्मलैः ॥ २२ ॥
+[^non-baroDa-CE] क्वचिन्नीलोत्पलैश्छन्ना भातिरक्तोत्पलैः क्वचित् ।  
+[^non-baroDa-CE] क्वचिदाभाति शुक्लैश्च दिव्यैः कुमुदकुड्मलैः ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1088,8 +1088,8 @@ else. [4-27-22]
 
 <details><summary>मूलम्</summary>
 
-पारिप्लवशतैर्जुष्टा बर्हिक्रौञ्चविनादिता ।  
-रमणीया नदी सौम्य मुनिसङ्घनिषेविता ॥ २३ ॥
+[^non-baroDa-CE] पारिप्लवशतैर्जुष्टा बर्हिक्रौञ्चविनादिता ।  
+[^non-baroDa-CE] रमणीया नदी सौम्य मुनिसङ्घनिषेविता ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1141,11 +1141,11 @@ heart-pleasing. [4-27-23]
 
 <details><summary>मूलम्</summary>
 
-पश्य चन्दनवृक्षाणां पङ्‍क्तिः सुरुचिरा इव ।  
-ककुभानां च दृश्यन्ते मनसैवोदिताः समम् ॥ २४ ॥
+[^non-baroDa-CE] पश्य चन्दनवृक्षाणां पङ्‍क्तिः सुरुचिरा इव ।  
+[^non-baroDa-CE] ककुभानां च दृश्यन्ते मनसैवोदिताः समम् ॥ २४ ॥
 _________________
 पश्य चन्दनवृक्षाणां पङ्क्तीः सुरचिरा इव ।  
-ककुभानां च दृश्यन्ते मनसैवोदिताः समम् ॥
+[^non-baroDa-CE] ककुभानां च दृश्यन्ते मनसैवोदिताः समम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1206,8 +1206,8 @@ Hearing the distant drums and songs of rejoicing monkeys from Kiṣkindhā, Rām
 
 <details><summary>मूलम्</summary>
 
-अहो सुरमणीयोऽयं देशः शत्रुनिषूदन ।  
-दृढं रंस्याव सौमित्रे साध्वत्र निवसावहे ॥ २५ ॥
+[^non-baroDa-CE] अहो सुरमणीयोऽयं देशः शत्रुनिषूदन ।  
+[^non-baroDa-CE] दृढं रंस्याव सौमित्रे साध्वत्र निवसावहे ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1258,8 +1258,8 @@ enemy-eliminator, we can certainly take delight in this environ. [4-27-25]
 
 <details><summary>मूलम्</summary>
 
-इतश्च नातिदूरे सा किष्किन्धा चित्रकानना ।  
-सुग्रीवस्य पुरी रम्या भविष्यति नृपात्मज ॥ २६ ॥
+[^non-baroDa-CE] इतश्च नातिदूरे सा किष्किन्धा चित्रकानना ।  
+[^non-baroDa-CE] सुग्रीवस्य पुरी रम्या भविष्यति नृपात्मज ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1310,8 +1310,8 @@ of Sugreeva, will not be very far off from here. [4-27-26]
 
 <details><summary>मूलम्</summary>
 
-गीतवादित्रनिर्घोषः श्रूयते जयतां वर ।  
-नदतां वानराणां च मृदङ्गाडम्बरैः सह ॥ २७ ॥
+[^non-baroDa-CE] गीतवादित्रनिर्घोषः श्रूयते जयतां वर ।  
+[^non-baroDa-CE] नदतां वानराणां च मृदङ्गाडम्बरैः सह ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1363,11 +1363,11 @@ together with their snobbish drumming is heard, hence it is not far away. [4-27-
 
 <details><summary>मूलम्</summary>
 
-लब्ध्वा भार्यां कपिवरः प्राप्य राज्यं सुहृद्‍वृतः ।  
-ध्रुवं नन्दति सुग्रीवः सम्प्राप्य महतीं श्रियम् ॥ २८ ॥
+[^non-baroDa-CE] लब्ध्वा भार्यां कपिवरः प्राप्य राज्यं सुहृद्‍वृतः ।  
+[^non-baroDa-CE] ध्रुवं नन्दति सुग्रीवः सम्प्राप्य महतीं श्रियम् ॥ २८ ॥
 _________________
 लब्ध्वा भार्यां कपिवरः प्राप्य राज्यं सुहृद्वतः ।  
-ध्रुवं नन्दति सुग्रीवः सम्प्राप्य महतीं श्रियम् ॥
+[^non-baroDa-CE] ध्रुवं नन्दति सुग्रीवः सम्प्राप्य महतीं श्रियम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1959,10 +1959,10 @@ oceans, forests, and mountains, then what to speak of that Ravana, all the more.
 
 <details><summary>मूलम्</summary>
 
-शरत्कालं प्रतीक्षस्व प्रावृट्कालोऽयमागतः ।  
-ततः सराष्ट्रं सगणं रावणं तं वधिष्यसि ॥ ३९ ॥
+[^non-baroDa-CE] शरत्कालं प्रतीक्षस्व प्रावृट्कालोऽयमागतः ।  
+[^non-baroDa-CE] ततः सराष्ट्रं सगणं रावणं तं वधिष्यसि ॥ ३९ ॥
 _________________
-शरत्कालं प्रतीक्षस्व प्रावृट्कालोऽयमागतः ।  
+[^non-baroDa-CE] शरत्कालं प्रतीक्षस्व प्रावृट्कालोऽयमागतः ।  
 ततः सराष्ट्रं सगणं रावणं त्वं वधिष्यसि ॥
 </details>
 
@@ -2241,8 +2241,8 @@ completely. As an undefeatable one in my triumphs I am invigorating my ebullienc
 
 <details><summary>मूलम्</summary>
 
-शरत्कालं प्रतीक्षिष्ये स्थितोऽस्मि वचने तव ।  
-सुग्रीवस्य नदीनां च प्रसादमनुपालयन् ॥ ४४ ॥
+[^non-baroDa-CE] शरत्कालं प्रतीक्षिष्ये स्थितोऽस्मि वचने तव ।  
+[^non-baroDa-CE] सुग्रीवस्य नदीनां च प्रसादमनुपालयन् ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2293,8 +2293,8 @@ in their abatement, I look forward for the autumn remaining true to your words. 
 
 <details><summary>मूलम्</summary>
 
-उपकारेण वीरस्तु प्रतिकारेण युज्यते ।  
-अकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः ॥ ४५ ॥
+[^non-baroDa-CE] उपकारेण वीरस्तु प्रतिकारेण युज्यते ।  
+[^non-baroDa-CE] अकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2349,15 +2349,15 @@ keeping Sugreeva in view. [4-27-45]
 
 <details><summary>मूलम्</summary>
 
-तदेव युक्तं प्रणिधाय लक्ष्मणः  
-कृताञ्जलिस्तत् प्रतिपूज्य भाषितम् ।  
-उवाच रामं स्वभिरामदर्शनं  
-प्रदर्शयन् दर्शनमात्मनः शुभम् ॥ ४६ ॥
+[^non-baroDa-CE] तदेव युक्तं प्रणिधाय लक्ष्मणः  
+[^non-baroDa-CE] कृताञ्जलिस्तत् प्रतिपूज्य भाषितम् ।  
+[^non-baroDa-CE] उवाच रामं स्वभिरामदर्शनं  
+[^non-baroDa-CE] प्रदर्शयन् दर्शनमात्मनः शुभम् ॥ ४६ ॥
 _________________
 तदेव मुक्तः प्रणिधाय लक्ष्मणः  
-कृताञ्जलिस्तत्प्रतिपूज्य भाषितम् ।  
-उवाच रामं स्वभिरामदर्शनं  
-प्रदर्शयन् दर्शनमात्मनः शुभम् ॥
+[^non-baroDa-CE] कृताञ्जलिस्तत्प्रतिपूज्य भाषितम् ।  
+[^non-baroDa-CE] उवाच रामं स्वभिरामदर्शनं  
+[^non-baroDa-CE] प्रदर्शयन् दर्शनमात्मनः शुभम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2416,10 +2416,10 @@ Reflecting that those words were indeed fitting (_tad eva yuktaṃ praṇidhāya
 
 <details><summary>मूलम्</summary>
 
-यथोक्तमेतत् तव सर्वमीप्सितं  
-नरेन्द्र कर्ता नचिरात् तु वानरः ।  
-शरत्प्रतीक्षः क्षमतामिमं भवान्  
-जलप्रपातं रिपुनिग्रहे धृतः ॥ ४७ ॥
+[^non-baroDa-CE] यथोक्तमेतत् तव सर्वमीप्सितं  
+[^non-baroDa-CE] नरेन्द्र कर्ता नचिरात् तु वानरः ।  
+[^non-baroDa-CE] शरत्प्रतीक्षः क्षमतामिमं भवान्  
+[^non-baroDa-CE] जलप्रपातं रिपुनिग्रहे धृतः ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2542,3 +2542,5 @@ lion, although you are capable to eliminate the enemy at any moment like a lion.
 “Restraining your wrath, let autumn be awaited (_niyamya kopaṃ paripālyatāṃ śarat_); endure these four months together with me, and dwell upon this mountain frequented by lions, sustaining your capability (_saṃvartayan_) for the slaying of the enemy.”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

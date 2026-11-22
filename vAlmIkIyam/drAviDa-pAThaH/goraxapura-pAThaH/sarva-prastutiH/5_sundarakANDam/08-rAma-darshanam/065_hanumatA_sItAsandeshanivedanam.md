@@ -278,7 +278,7 @@ Bowing toward the southern quarter in reverence to Sītā and presenting the rad
 <details><summary>मूलम्</summary>
 
 श्रुत्वा तु वचनं तेषां हनूमान् मारुतात्मजः ।  
-प्रणम्य शिरसा देव्यै सीतायै तां दिशं प्रति ॥ ७ ॥
+[^non-baroDa-CE] प्रणम्य शिरसा देव्यै सीतायै तां दिशं प्रति ॥ ७ ॥
 _________________
 श्रुत्वा तु वचनं तेषां हनुमान् मारुतात्मजः ।
 </details>
@@ -336,8 +336,8 @@ Hearing their words, Hanūmān, son of the Wind-god (_mārutātmajaḥ_), bowed 
 <details><summary>मूलम्</summary>
 
 उवाच वाक्यं वाक्यज्ञः सीताया दर्शनं यथा ।  
-तं मणिं काञ्चनं दिव्यं दीप्यमानं स्वतेजसा ॥ ८ ॥  
-दत्त्वा रामाय हनुमांस्ततः प्राञ्जलिरब्रवीत् ।
+[^non-baroDa-CE] तं मणिं काञ्चनं दिव्यं दीप्यमानं स्वतेजसा ॥ ८ ॥  
+[^non-baroDa-CE] दत्त्वा रामाय हनुमांस्ततः प्राञ्जलिरब्रवीत् ।
 _________________
 समुद्रं लङ्घयित्वाहं शतयोजनमायतम् ।  
 अगच्छं जानकीं सीतां मार्गमाणो दिदृक्षया ॥
@@ -1289,3 +1289,4 @@ Perceiving that those two royal princes had found consolation (_jātāśvāsau_)
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

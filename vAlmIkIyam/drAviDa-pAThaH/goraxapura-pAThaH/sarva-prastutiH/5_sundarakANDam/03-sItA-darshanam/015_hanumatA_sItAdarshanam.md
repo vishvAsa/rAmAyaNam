@@ -1080,7 +1080,7 @@ Seeing her single dark braid hanging like an autumn forest-line upon the earth, 
 <details><summary>मूलम्</summary>
 
 नीलनागाभया वेण्या जघनं गतयैकया ।  
-नीलया नीरदापाये वनराज्या महीमिव ॥ २५ ॥
+[^non-baroDa-CE] नीलया नीरदापाये वनराज्या महीमिव ॥ २५ ॥
 _________________
 नीलनागाभया वेण्या जघनं गतयैकया ।  
 नीलया निरदापाये वनराज्या महीमिव ॥
@@ -2446,8 +2446,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-दुष्करं कृतवान् रामो हीनो यदनया प्रभुः ।  
-धारयत्यात्मनो देहं न शोकेनावसीदति ॥ ५३ ॥
+[^non-baroDa-CE] दुष्करं कृतवान् रामो हीनो यदनया प्रभुः ।  
+[^non-baroDa-CE] धारयत्यात्मनो देहं न शोकेनावसीदति ॥ ५३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2553,3 +2553,4 @@ Having thus beheld Sītā in that state (_evaṃ sītāṃ tathā dṛṣṭvā_
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

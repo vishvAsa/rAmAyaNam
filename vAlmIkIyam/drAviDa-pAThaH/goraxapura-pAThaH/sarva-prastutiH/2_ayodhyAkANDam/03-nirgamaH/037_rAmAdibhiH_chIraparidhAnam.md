@@ -490,11 +490,11 @@ And Lakṣmaṇa too, right there in the presence of his father (_pitur agrata�
 अथात्मपरिधानार्थं सीता कौशेयवासिनी ।  
 सम्प्रेक्ष्य चीरं सन्त्रस्ता पृषती वागुरामिव ॥ ९ ॥  
 सा व्यपत्रपमाणेव प्रगृह्य च सुदुर्मनाः ।  
-कैकेय्याः कुशचीरे ते जानकी शुभलक्षणा ॥ १० ॥  
-अश्रुसम्पूर्णनेत्रा च धर्मज्ञा धर्मदर्शिनी ।  
+[^non-baroDa-CE] कैकेय्याः कुशचीरे ते जानकी शुभलक्षणा ॥ १० ॥  
+[^non-baroDa-CE] अश्रुसम्पूर्णनेत्रा च धर्मज्ञा धर्मदर्शिनी ।  
 गन्धर्वराजप्रतिमं भर्तारमिदमब्रवीत् ॥ ११ ॥  
 कथं नु चीरं बघ्नन्ति मुनयो वनवासिनः ।  
-इति ह्यकुशला सीता सा मुमोह मुहुर्मुहुः ॥ १२ ॥
+[^non-baroDa-CE] इति ह्यकुशला सीता सा मुमोह मुहुर्मुहुः ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -714,8 +714,8 @@ Approaching her quickly, Rāma, the foremost of upholders of _dharma_ (_dharma-b
 
 <details><summary>मूलम्</summary>
 
-रामं प्रेक्ष्य तु सीताया बध्नन्तं चीरमुत्तमम् ।  
-अन्तःपुरचरा नार्यो मुमुचुर्वारि नेत्रजम् ॥ १५ ॥
+[^non-baroDa-CE] रामं प्रेक्ष्य तु सीताया बध्नन्तं चीरमुत्तमम् ।  
+[^non-baroDa-CE] अन्तःपुरचरा नार्यो मुमुचुर्वारि नेत्रजम् ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -768,8 +768,8 @@ Beholding Rāma binding the excellent bark garment upon Sītā, the women of the
 
 <details><summary>मूलम्</summary>
 
-ऊचुश्च परमायत्ता रामं ज्वलिततेजसम् ।  
-वत्स नैवं नियुक्तेयं वनवासे मनस्विनी ॥ १६ ॥
+[^non-baroDa-CE] ऊचुश्च परमायत्ता रामं ज्वलिततेजसम् ।  
+[^non-baroDa-CE] वत्स नैवं नियुक्तेयं वनवासे मनस्विनी ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -823,8 +823,8 @@ Utterly distressed (_paramāyattāḥ_), they spoke unto Rāma of blazing splend
 
 <details><summary>मूलम्</summary>
 
-पितुर्वाक्यानुरोधेन गतस्य विजनं वनम् ।  
-तावद् दर्शनमस्या नः सफलं भवतु प्रभो ॥ १७ ॥
+[^non-baroDa-CE] पितुर्वाक्यानुरोधेन गतस्य विजनं वनम् ।  
+[^non-baroDa-CE] तावद् दर्शनमस्या नः सफलं भवतु प्रभो ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -872,8 +872,8 @@ Rama, let her sight be a reward to us till your return."
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणेन सहायेन वनं गच्छस्व पुत्रक ।  
-नेयमर्हति कल्याणि वस्तुं तापसवद् वने ॥ १८ ॥
+[^non-baroDa-CE] लक्ष्मणेन सहायेन वनं गच्छस्व पुत्रक ।  
+[^non-baroDa-CE] नेयमर्हति कल्याणि वस्तुं तापसवद् वने ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -935,8 +935,8 @@ Unmoved by the women’s tears, Rāma finishes tying the bark for Sītā; whereu
 
 <details><summary>मूलम्</summary>
 
-कुरु नो याचनां पुत्र सीता तिष्ठतु भामिनी ।  
-धर्मनित्यः स्वयं स्थातुं न हीदानीं त्वमिच्छसि ॥ १९ ॥
+[^non-baroDa-CE] कुरु नो याचनां पुत्र सीता तिष्ठतु भामिनी ।  
+[^non-baroDa-CE] धर्मनित्यः स्वयं स्थातुं न हीदानीं त्वमिच्छसि ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -994,10 +994,10 @@ you the ever righteous in any case do not wish to stay back.
 
 <details><summary>मूलम्</summary>
 
-तासामेवंविधा वाचः शृण्वन् दशरथात्मजः ।  
-बबन्धैव तथा चीरं सीतया तुल्यशीलया ॥ २० ॥  
-चीरे गृहीते तु तया सबाष्पो नृपतेर्गुरुः ।  
-निवार्य सीतां कैकेयीं वसिष्ठो वाक्यमब्रवीत् ॥ २१ ॥
+[^non-baroDa-CE] तासामेवंविधा वाचः शृण्वन् दशरथात्मजः ।  
+[^non-baroDa-CE] बबन्धैव तथा चीरं सीतया तुल्यशीलया ॥ २० ॥  
+[^non-baroDa-CE] चीरे गृहीते तु तया सबाष्पो नृपतेर्गुरुः ।  
+[^non-baroDa-CE] निवार्य सीतां कैकेयीं वसिष्ठो वाक्यमब्रवीत् ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1070,8 +1070,8 @@ her and spoke thus to Kaikeyi.
 
 <details><summary>मूलम्</summary>
 
-अतिप्रवृत्ते दुर्मेधे कैकेयि कुलपांसनि ।  
-वञ्चयित्वा तु राजानं न प्रमाणेऽवतिष्ठसि ॥ २२ ॥
+[^non-baroDa-CE] अतिप्रवृत्ते दुर्मेधे कैकेयि कुलपांसनि ।  
+[^non-baroDa-CE] वञ्चयित्वा तु राजानं न प्रमाणेऽवतिष्ठसि ॥ २२ ॥
 _________________
 अतिप्रवृत्ते धर्मेधे कैकेयि कुलपांसनि ।  
 वञ्चयित्वा तु राजानं न प्रमाणेऽवतिष्ठसी ॥
@@ -1127,8 +1127,8 @@ disgrace to your family! You are not establishing justifiable standard and you m
 
 <details><summary>मूलम्</summary>
 
-न गन्तव्यं वनं देव्या सीतया शीलवर्जिते ।  
-अनुष्ठास्यति रामस्य सीता प्रकृतमासनम् ॥ २३ ॥
+[^non-baroDa-CE] न गन्तव्यं वनं देव्या सीतया शीलवर्जिते ।  
+[^non-baroDa-CE] अनुष्ठास्यति रामस्य सीता प्रकृतमासनम् ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1176,7 +1176,7 @@ will occuply the throne, which was awarded to Rama."
 <details><summary>मूलम्</summary>
 
 आत्मा हि दाराः सर्वेषां दारसङ्ग्रहवर्तिनाम् ।  
-आत्मेयमिति रामस्य पालयिष्यति मेदिनीम् ॥ २४ ॥
+[^non-baroDa-CE] आत्मेयमिति रामस्य पालयिष्यति मेदिनीम् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1236,9 +1236,9 @@ Vasiṣṭha warns Kaikeyī that if Sītā departs with Rāma, the brahmins, fro
 <details><summary>मूलम्</summary>
 
 अथ यास्यति वैदेही वनं रामेण सङ्गता ।  
-वयमत्रानुयास्यामः पुरं चेदं गमिष्यति ॥ २५ ॥  
-अन्तपालाश्च यास्यन्ति सदारो यत्र राघवः ।  
-सहोपजीव्यं राष्ट्रं च पुरं च सपरिच्छदम् ॥ २६ ॥
+[^non-baroDa-CE] वयमत्रानुयास्यामः पुरं चेदं गमिष्यति ॥ २५ ॥  
+[^non-baroDa-CE] अन्तपालाश्च यास्यन्ति सदारो यत्र राघवः ।  
+[^non-baroDa-CE] सहोपजीव्यं राष्ट्रं च पुरं च सपरिच्छदम् ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1303,8 +1303,8 @@ with its goods and chattels will go whereever Rama and his wife are there."
 
 <details><summary>मूलम्</summary>
 
-भरतश्च सशत्रुघ्नश्चीरवासा वनेचरः ।  
-वने वसन्तं काकुत्स्थमनुवत्स्यति पूर्वजम् ॥ २७ ॥
+[^non-baroDa-CE] भरतश्च सशत्रुघ्नश्चीरवासा वनेचरः ।  
+[^non-baroDa-CE] वने वसन्तं काकुत्स्थमनुवत्स्यति पूर्वजम् ॥ २७ ॥
 _________________
 भरतश्च सशत्रुघ्नश्चीरवसा वनेचरः  
 वने वसन्तङ्काकुत्स्थमनुवत्स्यति पूर्वजम् ॥
@@ -1360,10 +1360,10 @@ their brother residing in the forest and moving in the forest."
 
 <details><summary>मूलम्</summary>
 
-ततः शून्यां गतजनां वसुधां पादपैः सह ।  
-त्वमेका शाधि दुर्वृत्ता प्रजानामहिते स्थिता ॥ २८ ॥
+[^non-baroDa-CE] ततः शून्यां गतजनां वसुधां पादपैः सह ।  
+[^non-baroDa-CE] त्वमेका शाधि दुर्वृत्ता प्रजानामहिते स्थिता ॥ २८ ॥
 _________________
-ततः शून्यां गतजनां वसुधां पादपैः सह ।  
+[^non-baroDa-CE] ततः शून्यां गतजनां वसुधां पादपैः सह ।  
 त्वमेकाशाधि दुवृत्ता प्रजानामहिते स्थिता ॥
 </details>
 
@@ -1418,8 +1418,8 @@ is bereft of people and desolate, with its trees alone remaining.
 
 <details><summary>मूलम्</summary>
 
-न हि तद् भविता राष्ट्रं यत्र रामो न भूपतिः ।  
-तद् वनं भविता राष्ट्रं यत्र रामो निवत्स्यति ॥ २९ ॥
+[^non-baroDa-CE] न हि तद् भविता राष्ट्रं यत्र रामो न भूपतिः ।  
+[^non-baroDa-CE] तद् वनं भविता राष्ट्रं यत्र रामो निवत्स्यति ॥ २९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1475,8 +1475,8 @@ Vasiṣṭha declares that Bharata, true to his royal lineage, will never rule a
 
 <details><summary>मूलम्</summary>
 
-न ह्यदत्तां महीं पित्रा भरतः शास्तुमिच्छति ।  
-त्वयि वा पुत्रवद् वस्तुं यदि जातो महीपतेः ॥ ३० ॥
+[^non-baroDa-CE] न ह्यदत्तां महीं पित्रा भरतः शास्तुमिच्छति ।  
+[^non-baroDa-CE] त्वयि वा पुत्रवद् वस्तुं यदि जातो महीपतेः ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1529,8 +1529,8 @@ is not being offered by his father nor to live as a son in your case."
 
 <details><summary>मूलम्</summary>
 
-यद्यपि त्वं क्षितितलाद् गगनं चोत्पतिष्यसि ।  
-पितृवंशचरित्रज्ञः सोऽन्यथा न करिष्यति ॥ ३१ ॥
+[^non-baroDa-CE] यद्यपि त्वं क्षितितलाद् गगनं चोत्पतिष्यसि ।  
+[^non-baroDa-CE] पितृवंशचरित्रज्ञः सोऽन्यथा न करिष्यति ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1583,8 +1583,8 @@ the record of his father's dynasty will not do as you wish him to do"
 
 <details><summary>मूलम्</summary>
 
-तत् त्वया पुत्रगर्धिन्या पुत्रस्य कृतमप्रियम् ।  
-लोके नहि स विद्येत यो न राममनुव्रतः ॥ ३२ ॥
+[^non-baroDa-CE] तत् त्वया पुत्रगर्धिन्या पुत्रस्य कृतमप्रियम् ।  
+[^non-baroDa-CE] लोके नहि स विद्येत यो न राममनुव्रतः ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1636,8 +1636,8 @@ covetons towards his well-being. There is none indeed in this world who is not d
 
 <details><summary>मूलम्</summary>
 
-द्रक्ष्यस्यद्यैव कैकेयि पशुव्यालमृगद्विजान् ।  
-गच्छतः सह रामेण पादपांश्च तदुन्मुखान् ॥ ३३ ॥
+[^non-baroDa-CE] द्रक्ष्यस्यद्यैव कैकेयि पशुव्यालमृगद्विजान् ।  
+[^non-baroDa-CE] गच्छतः सह रामेण पादपांश्च तदुन्मुखान् ॥ ३३ ॥
 _________________
 द्रक्ष्यस्यद्यैव कैकेयी पशुव्यालमृगद्विजान् ।  
 गच्छतः सह रामेण पादपांश्च तदुन्मखान् ॥
@@ -1702,10 +1702,10 @@ Shifting to the elevated Upajāti meter, Vasiṣṭha forbids the bark garment f
 
 <details><summary>मूलम्</summary>
 
-अथोत्तमान्याभरणानि देवि  
-देहि स्नुषायै व्यपनीय चीरम् ।  
-न चीरमस्याः प्रविधीयतेति  
-न्यवारयत् तद् वसनं वसिष्ठः ॥ ३४ ॥
+[^non-baroDa-CE] अथोत्तमान्याभरणानि देवि  
+[^non-baroDa-CE] देहि स्नुषायै व्यपनीय चीरम् ।  
+[^non-baroDa-CE] न चीरमस्याः प्रविधीयतेति  
+[^non-baroDa-CE] न्यवारयत् तद् वसनं वसिष्ठः ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1755,10 +1755,10 @@ prevented that wearing of garment by Seetha.
 
 <details><summary>मूलम्</summary>
 
-एकस्य रामस्य वने निवास-  
-स्त्वया वृतः केकयराजपुत्रि ।  
-विभूषितेयं प्रतिकर्मनित्या  
-वसत्वरण्ये सह राघवेण ॥ ३५ ॥
+[^non-baroDa-CE] एकस्य रामस्य वने निवास-  
+[^non-baroDa-CE] स्त्वया वृतः केकयराजपुत्रि ।  
+[^non-baroDa-CE] विभूषितेयं प्रतिकर्मनित्या  
+[^non-baroDa-CE] वसत्वरण्ये सह राघवेण ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1816,15 +1816,15 @@ Rama."
 
 <details><summary>मूलम्</summary>
 
-यानैश्च मुख्यैः परिचारकैश्च  
-सुसंवृता गच्छतु राजपुत्री ।  
-वस्त्रैश्च सर्वैः सहितैर्विधानै-  
-र्नेयं वृता ते वरसम्प्रदाने ॥ ३६ ॥
+[^non-baroDa-CE] यानैश्च मुख्यैः परिचारकैश्च  
+[^non-baroDa-CE] सुसंवृता गच्छतु राजपुत्री ।  
+[^non-baroDa-CE] वस्त्रैश्च सर्वैः सहितैर्विधानै-  
+[^non-baroDa-CE] र्नेयं वृता ते वरसम्प्रदाने ॥ ३६ ॥
 _________________
-यानैश्च मुख्यैः परिचारकैश्च  
-सुसंवृता गच्छतु राजपुत्री ।  
+[^non-baroDa-CE] यानैश्च मुख्यैः परिचारकैश्च  
+[^non-baroDa-CE] सुसंवृता गच्छतु राजपुत्री ।  
 वसैश्च सर्वैः सहितैर्विधानै-  
-र्नेयं वृता ते वरसम्प्रदाने ॥
+[^non-baroDa-CE] र्नेयं वृता ते वरसम्प्रदाने ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1882,10 +1882,10 @@ boons"
 
 <details><summary>मूलम्</summary>
 
-तस्मिंस्तथा जल्पति विप्रमुख्ये  
-गुरौ नृपस्याप्रतिमप्रभावे ।  
-नैव स्म सीता विनिवृत्तभावा  
-प्रियस्य भर्तुः प्रतिकारकामा ॥ ३७ ॥
+[^non-baroDa-CE] तस्मिंस्तथा जल्पति विप्रमुख्ये  
+[^non-baroDa-CE] गुरौ नृपस्याप्रतिमप्रभावे ।  
+[^non-baroDa-CE] नैव स्म सीता विनिवृत्तभावा  
+[^non-baroDa-CE] प्रियस्य भर्तुः प्रतिकारकामा ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2062,3 +2062,4 @@ On प्रतिकारकामा, **Rāma Varmā** (_Tilaka_), **Govindar
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -204,7 +204,7 @@ Threatened with a curse upon the entire kingdom and dynasty, Lakṣmaṇa resolv
 न हि शक्ष्याम्यहं भूयो मन्युं धारयितुं हृदि ॥ ७ ॥
 _________________
 अस्मिन् क्षणे मां सौमित्रे रामाय प्रतिवेदय ।  
-अस्मिन् क्षणे मां सौमित्रे न निवेदयसेयदि ।  
+[^non-baroDa-CE] अस्मिन् क्षणे मां सौमित्रे न निवेदयसेयदि ।  
 विषयं त्वां पुरं चैव शपिष्ये राघवन्तथा ॥
 भरतं चैव सौमित्रे युष्माकं या च सन्ततिः ।  
 न हि शक्ष्याम्यहं भूयो मन्युं धारयितुं हृदि ॥
@@ -498,7 +498,7 @@ Having eaten that nectar-like food (_bhuktvā ... tad annam amṛtopamam_), the 
 
 <details><summary>मूलम्</summary>
 
-तस्मिन् गते मुनिवरे स्वाश्रमं लक्ष्मणाग्रजः ।  
+[^non-baroDa-CE] तस्मिन् गते मुनिवरे स्वाश्रमं लक्ष्मणाग्रजः ।  
 संस्मृत्य कालवाक्यानि ततो दुःखमुपागमत् ॥ १६ ॥
 </details>
 
@@ -595,3 +595,4 @@ Then, having thoroughly weighed the words of Time with his intellect (_buddhyā 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

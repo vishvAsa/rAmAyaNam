@@ -274,7 +274,7 @@ fluttery looks, without you... [3-61-5]
 
 <details><summary>मूलम्</summary>
 
-सीतया रहितोऽहं वै नहि जीवामि लक्ष्मण ।  
+[^non-baroDa-CE] सीतया रहितोऽहं वै नहि जीवामि लक्ष्मण ।  
 वृतं शोकेन महता सीताहरणजेन माम् ॥ ६ ॥  
 परलोके महाराजो नूनं द्रक्ष्यति मे पिता ।
 </details>
@@ -1471,3 +1471,4 @@ Yet paying no heed (_anādṛtya tu_) to those words that fell from Lakṣmaṇa
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

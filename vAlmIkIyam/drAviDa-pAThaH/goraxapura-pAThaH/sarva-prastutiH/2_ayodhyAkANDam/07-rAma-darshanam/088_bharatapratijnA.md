@@ -249,15 +249,15 @@ Recalling how Rāma was ever awakened in golden-walled palaces by music, tinklin
 हैमराजतभौमेषु वरास्तरणशालिषु ॥ ५ ॥  
 पुष्पसञ्चयचित्रेषु चन्दनागुरुगन्धिषु ।  
 पाण्डुराभ्रप्रकाशेषु शुकसङ्घरुतेषु च ॥ ६ ॥  
-प्रासादवरवर्येषु शीतवत्सु सुगन्धिषु ।  
-उषित्वा मेरुकल्पेषु कृतकाञ्चनभित्तिषु ॥ ७ ॥
+[^non-baroDa-CE] प्रासादवरवर्येषु शीतवत्सु सुगन्धिषु ।  
+[^non-baroDa-CE] उषित्वा मेरुकल्पेषु कृतकाञ्चनभित्तिषु ॥ ७ ॥
 _________________
 प्रासादाग्रविमानेषु वलभीषु च सर्वदा ।  
 हैमराजतभौमेषु वरास्तरणशालिषु ॥
 पुष्पसञ्चयचित्रेषु चन्दनागरुगन्धिषु ।  
 पाण्डुराभ्रप्रकाशेषु शुकसङ्घरुतेषु च ॥
-प्रासादवरवर्येषु शीतवत्सु सुगन्धिषु ।  
-उषित्वा मेरुकल्पेषु कृतकाञ्चनभित्तिषु ॥
+[^non-baroDa-CE] प्रासादवरवर्येषु शीतवत्सु सुगन्धिषु ।  
+[^non-baroDa-CE] उषित्वा मेरुकल्पेषु कृतकाञ्चनभित्तिषु ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -866,7 +866,7 @@ gound, abandoning excellent kingdom and comfort?"
 <details><summary>मूलम्</summary>
 
 धन्यः खलु महाभागो लक्ष्मणः शुभलक्षणः ।  
-भ्रातरं विषमे काले यो राममनुवर्तते ॥ २० ॥
+[^non-baroDa-CE] भ्रातरं विषमे काले यो राममनुवर्तते ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1426,3 +1426,4 @@ If, though propitiated by me in person with bowed head in many ways, he will not
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

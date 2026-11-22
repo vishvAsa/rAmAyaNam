@@ -94,7 +94,7 @@ Beholding that divine-looking sacrifice of marvelous aspect (_divya-saṅkāśa�
 <details><summary>मूलम्</summary>
 
 शकटांश्च बहून् पूर्णान् फलमूलांश्च शोभनान् ।  
-वाल्मीकिवाटे रुचिरे स्थापयन्नविदूरतः ॥ ३ ॥
+[^non-baroDa-CE] वाल्मीकिवाटे रुचिरे स्थापयन्नविदूरतः ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,8 +124,8 @@ And many fine carts filled with fruits and roots (_śakaṭāṃś ca bahūn pū
 
 <details><summary>मूलम्</summary>
 
-आसीत् सुपूजितो राज्ञा मुनिभिश्च महात्मभिः ।  
-वाल्मीकिः सुमहातेजा न्यवसत् परमात्मवान् ॥ ४ ॥
+[^non-baroDa-CE] आसीत् सुपूजितो राज्ञा मुनिभिश्च महात्मभिः ।  
+[^non-baroDa-CE] वाल्मीकिः सुमहातेजा न्यवसत् परमात्मवान् ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -600,10 +600,10 @@ Having thus instructed them repeatedly (_iti sandiśya bahuśaḥ_), the supreme
 
 <details><summary>मूलम्</summary>
 
-सन्दिष्टौ मुनिना तेन तावुभौ मैथिलीसुतौ ।  
-तथैव करवावेति निर्जग्मतुररिन्दमौ ॥ १८ ॥
+[^non-baroDa-CE] सन्दिष्टौ मुनिना तेन तावुभौ मैथिलीसुतौ ।  
+[^non-baroDa-CE] तथैव करवावेति निर्जग्मतुररिन्दमौ ॥ १८ ॥
 _________________
-सन्दिष्टौ मुनिना तेन तावुभौ मैथिलीसुतौ ।  
+[^non-baroDa-CE] सन्दिष्टौ मुनिना तेन तावुभौ मैथिलीसुतौ ।  
 तथैव करवावेति निर्जग्मतुररिन्दवौ ॥
 </details>
 
@@ -670,3 +670,4 @@ Receiving into their hearts that wondrous utterance spoken then by the sage (_t�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

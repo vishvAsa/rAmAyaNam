@@ -43,8 +43,8 @@ Enraged by the ocean's silence, Rāghava threatens to dry up the sea down to the
 
 <details><summary>मूलम्</summary>
 
-अथोवाच रघुश्रेष्ठः सागरं दारुणं वचः ।  
-अद्य त्वां शोषयिष्यामि सपातालं महार्णव ॥ १ ॥
+[^non-baroDa-CE] अथोवाच रघुश्रेष्ठः सागरं दारुणं वचः ।  
+[^non-baroDa-CE] अद्य त्वां शोषयिष्यामि सपातालं महार्णव ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -89,8 +89,8 @@ Then the foremost of the Raghus (_raghuśreṣṭhaḥ_) spoke a dreadful word (
 
 <details><summary>मूलम्</summary>
 
-शरनिर्दग्धतोयस्य परिशुष्कस्य सागर ।  
-मया निहतसत्त्वस्य पांसुरुत्पद्यते महान् ॥ २ ॥
+[^non-baroDa-CE] शरनिर्दग्धतोयस्य परिशुष्कस्य सागर ।  
+[^non-baroDa-CE] मया निहतसत्त्वस्य पांसुरुत्पद्यते महान् ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -120,10 +120,10 @@ Then the foremost of the Raghus (_raghuśreṣṭhaḥ_) spoke a dreadful word (
 
 <details><summary>मूलम्</summary>
 
-मत्कार्मुकविसृष्टेन शरवर्षेण सागर ।  
+[^non-baroDa-CE] मत्कार्मुकविसृष्टेन शरवर्षेण सागर ।  
 परं तीरं गमिष्यन्ति पद्भिरेव प्लवङ्गमाः ॥ ३ ॥
 _________________
-मत्कार्मुकविसृष्टेन शरवर्षेण सागर ।  
+[^non-baroDa-CE] मत्कार्मुकविसृष्टेन शरवर्षेण सागर ।  
 पारं तीरं गमिष्यन्ति पद्भिरेव प्लवङ्गमाः ॥
 </details>
 
@@ -175,7 +175,7 @@ even by foot; O, ocean!"
 
 <details><summary>मूलम्</summary>
 
-विचिन्वन्नाभिजानासि पौरुषं नापि विक्रमम् ।  
+[^non-baroDa-CE] विचिन्वन्नाभिजानासि पौरुषं नापि विक्रमम् ।  
 दानवालय सन्तापं मत्तो नाम गमिष्यसि ॥ ४ ॥
 </details>
 
@@ -227,8 +227,8 @@ through your intelligence .You will indeed get repentance at my hands."
 
 <details><summary>मूलम्</summary>
 
-ब्राह्मेणास्त्रेण संयोज्य ब्रह्मदण्डनिभं शरम् ।  
-संयोज्य धनुषि श्रेष्ठे विचकर्ष महाबलः ॥ ५ ॥
+[^non-baroDa-CE] ब्राह्मेणास्त्रेण संयोज्य ब्रह्मदण्डनिभं शरम् ।  
+[^non-baroDa-CE] संयोज्य धनुषि श्रेष्ठे विचकर्ष महाबलः ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -275,10 +275,10 @@ Charging an arrow resembling the rod of Brahmā (_brahmadaṇḍanibham_) with t
 
 <details><summary>मूलम्</summary>
 
-तस्मिन् विकृष्टे सहसा राघवेण शरासने ।  
-रोदसी सम्पफालेव पर्वताश्च चकम्पिरे ॥ ६ ॥
+[^non-baroDa-CE] तस्मिन् विकृष्टे सहसा राघवेण शरासने ।  
+[^non-baroDa-CE] रोदसी सम्पफालेव पर्वताश्च चकम्पिरे ॥ ६ ॥
 _________________
-तस्मिन् विकृष्टे सहसा राघवेण शरासने ।  
+[^non-baroDa-CE] तस्मिन् विकृष्टे सहसा राघवेण शरासने ।  
 रोदसी सम्पपालेव पर्वताश्च चकम्पिरे ॥
 </details>
 
@@ -317,10 +317,10 @@ As Rāma draws the Brahmā-missile, cosmic portents erupt across heaven and eart
 
 <details><summary>मूलम्</summary>
 
-तमश्च लोकमावव्रे दिशश्च न चकाशिरे ।  
-प्रतिचुक्षुभिरे चाशु सरांसि सरितस्तथा ॥ ७ ॥
+[^non-baroDa-CE] तमश्च लोकमावव्रे दिशश्च न चकाशिरे ।  
+[^non-baroDa-CE] प्रतिचुक्षुभिरे चाशु सरांसि सरितस्तथा ॥ ७ ॥
 _________________
-तमश्च लोकमावव्रे दिशश्च न चकाशिरे ।  
+[^non-baroDa-CE] तमश्च लोकमावव्रे दिशश्च न चकाशिरे ।  
 परिचुक्षुभिरे चाशु सरांसि सरितस्तथा ॥
 </details>
 
@@ -358,7 +358,7 @@ Darkness (_tamaḥ_) enveloped the world, the quarters of the sky did not shine 
 <details><summary>मूलम्</summary>
 
 तिर्यक् च सह नक्षत्रैः सङ्गतौ चन्द्रभास्करौ ।  
-भास्करांशुभिरादीप्तं तमसा च समावृतम् ॥ ८ ॥
+[^non-baroDa-CE] भास्करांशुभिरादीप्तं तमसा च समावृतम् ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -388,10 +388,10 @@ The moon and the sun (_candrabhāskarau_), together with the constellations (_na
 
 <details><summary>मूलम्</summary>
 
-प्रचकाशे तदाऽऽकाशमुल्काशतविदीपितम् ।  
-अन्तरिक्षाच्च निर्घाता निर्जग्मुरतुलस्वनाः ॥ ९ ॥
+[^non-baroDa-CE] प्रचकाशे तदाऽऽकाशमुल्काशतविदीपितम् ।  
+[^non-baroDa-CE] अन्तरिक्षाच्च निर्घाता निर्जग्मुरतुलस्वनाः ॥ ९ ॥
 _________________
-प्रचकाशे तदाऽऽकाशमुल्काशतविदीपितम् ।  
+[^non-baroDa-CE] प्रचकाशे तदाऽऽकाशमुल्काशतविदीपितम् ।  
 अन्तरिक्षाच्छ निर्घाता निर्जग्मु रतुलस्वनाः ॥
 </details>
 
@@ -442,12 +442,12 @@ Then the sky blazed forth, lit up by hundreds of meteors (_ulkāśatavidīpitam_
 
 <details><summary>मूलम्</summary>
 
-वपुःप्रकर्षेण ववुर्दिव्यमारुतपङ्‍क्तयः ।  
-बभञ्ज च तदा वृक्षाञ्जलदानुद्वहन्मुहुः ॥ १० ॥  
-आरुजंश्चैव शैलाग्रान् शिखराणि बभञ्ज च ।
+[^non-baroDa-CE] वपुःप्रकर्षेण ववुर्दिव्यमारुतपङ्‍क्तयः ।  
+[^non-baroDa-CE] बभञ्ज च तदा वृक्षाञ्जलदानुद्वहन्मुहुः ॥ १० ॥  
+[^non-baroDa-CE] आरुजंश्चैव शैलाग्रान् शिखराणि बभञ्ज च ।
 _________________
-वपुः प्रकर्षेण ववुर्दिव्यमारुत पङ्क्तयः ।  
-बभञ्ज च तदा वृक्षाञ्जलदानुद्वहन्मुहुः ॥  
+[^non-baroDa-CE] वपुः प्रकर्षेण ववुर्दिव्यमारुत पङ्क्तयः ।  
+[^non-baroDa-CE] बभञ्ज च तदा वृक्षाञ्जलदानुद्वहन्मुहुः ॥  
 अरुजंश्चैव शैलाग्रान् शिखराणि प्रभञ्ज च ।
 </details>
 
@@ -501,16 +501,16 @@ Celestial wind-currents (_divyamārutapaṅktayaḥ_) blew with violent force (_
 
 <details><summary>मूलम्</summary>
 
-दिवि च स्म महामेघाः संहताः समहास्वनाः ॥ ११ ॥  
-मुमुचुर्वैद्युतानग्नींस्ते महाशनयस्तदा ।  
-यानि भूतानि दृश्यानि चुक्रुशुश्चाशनेः समम् ॥ १२ ॥  
-अदृश्यानि च भूतानि मुमुचुर्भैरवस्वनम् ।
+[^non-baroDa-CE] दिवि च स्म महामेघाः संहताः समहास्वनाः ॥ ११ ॥  
+[^non-baroDa-CE] मुमुचुर्वैद्युतानग्नींस्ते महाशनयस्तदा ।  
+[^non-baroDa-CE] यानि भूतानि दृश्यानि चुक्रुशुश्चाशनेः समम् ॥ १२ ॥  
+[^non-baroDa-CE] अदृश्यानि च भूतानि मुमुचुर्भैरवस्वनम् ।
 _________________
 दिवि च स्म महामेघाः संहताह समहास्वनाः ॥  
 (श्लोक - 12½)  
-मुमुचुर्वैद्युतानग्नींस्ते महाशनयस्तदा ।  
-यानि भूतानि दृश्यानि चुक्रुशुश्चाशनेः समम् ॥  
-अदृश्यानि च भूतानि मुमुचुर्भैरवस्वनम् ।
+[^non-baroDa-CE] मुमुचुर्वैद्युतानग्नींस्ते महाशनयस्तदा ।  
+[^non-baroDa-CE] यानि भूतानि दृश्यानि चुक्रुशुश्चाशनेः समम् ॥  
+[^non-baroDa-CE] अदृश्यानि च भूतानि मुमुचुर्भैरवस्वनम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -570,10 +570,10 @@ As invisible spirits cower and the sea surges a full yojana beyond its shore, S�
 <details><summary>मूलम्</summary>
 
 शिश्यिरे चाभिभूतानि सन्त्रस्तान्युद्विजन्ति च ॥ १३ ॥  
-सम्प्रविव्यथिरे चापि न च पस्पन्दिरे भयात् ।
+[^non-baroDa-CE] सम्प्रविव्यथिरे चापि न च पस्पन्दिरे भयात् ।
 _________________
 शिश्यिरे चापि भूतानि सन्त्रस्तान्युद्विजन्ति च ॥  
-सम्प्रविव्यथिरे चापि न च पस्पन्दिरे भयात् ।
+[^non-baroDa-CE] सम्प्रविव्यथिरे चापि न च पस्पन्दिरे भयात् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -622,9 +622,9 @@ Invisible beings (_adṛśyāni bhūtāni_) too uttered a dreadful cry (_bhairav
 
 <details><summary>मूलम्</summary>
 
-सह भूतैः सतोयोर्मिः सनागः सहराक्षसः ॥ १४ ॥  
-सहसाभूत् ततो वेगाद् भीमवेगो महोदधिः ।  
-योजनं व्यतिचक्राम वेलामन्यत्र सम्प्लवात् ॥ १५ ॥
+[^non-baroDa-CE] सह भूतैः सतोयोर्मिः सनागः सहराक्षसः ॥ १४ ॥  
+[^non-baroDa-CE] सहसाभूत् ततो वेगाद् भीमवेगो महोदधिः ।  
+[^non-baroDa-CE] योजनं व्यतिचक्राम वेलामन्यत्र सम्प्लवात् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -675,8 +675,8 @@ waters, the ocean crossed beyond the other shore to the extent of a Yojana (eigh
 
 <details><summary>मूलम्</summary>
 
-तं तथा समतिक्रान्तं नातिचक्राम राघवः ।  
-समुद्धतममित्रघ्नो रामो नदनदीपतिम् ॥ १६ ॥
+[^non-baroDa-CE] तं तथा समतिक्रान्तं नातिचक्राम राघवः ।  
+[^non-baroDa-CE] समुद्धतममित्रघ्नो रामो नदनदीपतिम् ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -837,7 +837,7 @@ Resplendent in red garments, sea-born gems, and the brother of the Kaustubha jew
 <details><summary>मूलम्</summary>
 
 रक्तमाल्याम्बरधरः पद्मपत्रनिभेक्षणः ।  
-सर्वपुष्पमयीं दिव्यां शिरसा धारयन् स्रजम् ॥ १९ ॥
+[^non-baroDa-CE] सर्वपुष्पमयीं दिव्यां शिरसा धारयन् स्रजम् ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -867,8 +867,8 @@ Wearing red garlands and raiment (_raktamālyāmbaradharaḥ_), with eyes resemb
 
 <details><summary>मूलम्</summary>
 
-जातरूपमयैश्चैव तपनीयविभूषणैः ।  
-आत्मजानां च रत्नानां भूषितो भूषणोत्तमैः ॥ २० ॥
+[^non-baroDa-CE] जातरूपमयैश्चैव तपनीयविभूषणैः ।  
+[^non-baroDa-CE] आत्मजानां च रत्नानां भूषितो भूषणोत्तमैः ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -914,9 +914,9 @@ Adorned with ornaments of refined gold (_tapanīyavibhūṣaṇaiḥ_) wrought o
 
 <details><summary>मूलम्</summary>
 
-धातुभिर्मण्डितः शैलो विविधैर्हिमवानिव ।  
-एकावलीमध्यगतं तरलं पाण्डरप्रभम् ॥ २१ ॥  
-विपुलेनोरसा बिभ्रत्कौस्तुभस्य सहोदरम् ।
+[^non-baroDa-CE] धातुभिर्मण्डितः शैलो विविधैर्हिमवानिव ।  
+[^non-baroDa-CE] एकावलीमध्यगतं तरलं पाण्डरप्रभम् ॥ २१ ॥  
+[^non-baroDa-CE] विपुलेनोरसा बिभ्रत्कौस्तुभस्य सहोदरम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -947,7 +947,7 @@ Looking like Mount Himavān decked with diverse mineral ores (_dhātubhir maṇ�
 <details><summary>मूलम्</summary>
 
 आघूर्णिततरङ्गौघः कालिकानिलसङ्कुलः ॥ २२ ॥  
-गङ्गासिन्धुप्रधानाभिरापगाभिः समावृतः ।
+[^non-baroDa-CE] गङ्गासिन्धुप्रधानाभिरापगाभिः समावृतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -987,12 +987,12 @@ Pleading the immutable law of the five elements, Sāgara promises to support a b
 
 <details><summary>मूलम्</summary>
 
-उद्वर्तितमहाग्राहः सम्भ्रान्तोरगराक्षसः ॥ २३ ॥  
-देवतानां सुरूपाभिर्नानारूपाभिरीश्वरः ।  
+[^non-baroDa-CE] उद्वर्तितमहाग्राहः सम्भ्रान्तोरगराक्षसः ॥ २३ ॥  
+[^non-baroDa-CE] देवतानां सुरूपाभिर्नानारूपाभिरीश्वरः ।  
 सागरः समुपक्रम्य पूर्वमामन्त्र्य वीर्यवान् ॥ २४ ॥  
 अब्रवीत् प्राञ्जलिर्वाक्यं राघवं शरपाणिनम् ॥ २५ ॥
 _________________
-उद्वर्तित महाग्राहः सम्भ्रान्तोरग राक्षसः ॥
+[^non-baroDa-CE] उद्वर्तित महाग्राहः सम्भ्रान्तोरग राक्षसः ॥
 देवतानां सरूपाभिर्नानारूपाभिरीश्वरः ।  
 सागरः समुपक्रम्य पूर्वमामन्त्र्यवीर्यवान् ॥
 अब्रवीत् प्राञ्जलिर्वाक्यं राघवं शरपाणिनम् ॥
@@ -1211,11 +1211,11 @@ crocodiles will not be aggressive to them."
 
 विधास्ये येन गन्तासि विषहिष्येऽप्यहं तथा ।  
 न ग्राहा विधमिष्यन्ति यावत्सेना तरिष्यति ।  
-हरीणां तरणे राम करिष्यामि यथा स्थलम् ॥ २९ ॥
+[^non-baroDa-CE] हरीणां तरणे राम करिष्यामि यथा स्थलम् ॥ २९ ॥
 _________________
 विधास्ये येन गन्तासि विषेहिष्येऽप्यहं तथा ।  
 ग्राहा न विधमिष्यन्ति यावत्सेना तरिष्यति ।  
-हरीणां तरणे राम करिष्यामि यथा स्थलम् ॥
+[^non-baroDa-CE] हरीणां तरणे राम करिष्यामि यथा स्थलम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1261,8 +1261,8 @@ Then Rāma said to him: “Hear me, O abode of Varuṇa (_varuṇālaya_)! This 
 
 <details><summary>मूलम्</summary>
 
-तमब्रवीत् तदा रामः शृणु मे वरुणालय ।  
-अमोघोऽयं महाबाणः कस्मिन् देशे निपात्यताम् ॥ ३० ॥
+[^non-baroDa-CE] तमब्रवीत् तदा रामः शृणु मे वरुणालय ।  
+[^non-baroDa-CE] अमोघोऽयं महाबाणः कस्मिन् देशे निपात्यताम् ॥ ३० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1316,11 +1316,11 @@ At Sāgara's request, Rāma discharges his blazing arrow northward against the w
 
 <details><summary>मूलम्</summary>
 
-रामस्य वचनं श्रुत्वा तं च दृष्ट्वा महाशरम् ।  
-महोदधिर्महातेजा राघवं वाक्यमब्रवीत् ॥ ३१ ॥
+[^non-baroDa-CE] रामस्य वचनं श्रुत्वा तं च दृष्ट्वा महाशरम् ।  
+[^non-baroDa-CE] महोदधिर्महातेजा राघवं वाक्यमब्रवीत् ॥ ३१ ॥
 _________________
 रामस्य वचनं श्रुत्वा तं च दृष्वा महाशरम् ।  
-महोदधिर्महातेजा राघवं वाक्यमब्रवीत् ॥
+[^non-baroDa-CE] महोदधिर्महातेजा राघवं वाक्यमब्रवीत् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1365,8 +1365,8 @@ the same way as you are well known to this world."
 
 <details><summary>मूलम्</summary>
 
-उत्तरेणावकाशोऽस्ति कश्चित् पुण्यतरो मम ।  
-द्रुमकुल्य इति ख्यातो लोके ख्यातो यथा भवान् ॥ ३२ ॥
+[^non-baroDa-CE] उत्तरेणावकाशोऽस्ति कश्चित् पुण्यतरो मम ।  
+[^non-baroDa-CE] द्रुमकुल्य इति ख्यातो लोके ख्यातो यथा भवान् ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1411,8 +1411,8 @@ chief, drink my waters there."
 
 <details><summary>मूलम्</summary>
 
-उग्रदर्शनकर्माणो बहवस्तत्र दस्यवः ।  
-आभीरप्रमुखाः पापाः पिबन्ति सलिलं मम ॥ ३३ ॥
+[^non-baroDa-CE] उग्रदर्शनकर्माणो बहवस्तत्र दस्यवः ।  
+[^non-baroDa-CE] आभीरप्रमुखाः पापाः पिबन्ति सलिलं मम ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1464,11 +1464,11 @@ Let this excellent arrow with out vain be released over them there."
 
 <details><summary>मूलम्</summary>
 
-तैर्न तत्स्पर्शनं पापं सहेयं पापकर्मभिः ।  
-अमोघः क्रियतां राम अयं तत्र शरोत्तमः ॥ ३४ ॥
+[^non-baroDa-CE] तैर्न तत्स्पर्शनं पापं सहेयं पापकर्मभिः ।  
+[^non-baroDa-CE] अमोघः क्रियतां राम अयं तत्र शरोत्तमः ॥ ३४ ॥
 _________________
 तैर्न तत्प्सर्शनं पापं सहेयं पापकर्मभिः ।  
-अमोघः क्रियतां राम अयं तत्र शरोत्तमः ॥
+[^non-baroDa-CE] अमोघः क्रियतां राम अयं तत्र शरोत्तमः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1513,8 +1513,8 @@ Hearing those words of the high-souled Sāgara, Rāma released that blazing arro
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् वचनं श्रुत्वा सागरस्य महात्मनः ।  
-मुमोच तं शरं दीप्तं परं सागरदर्शनात् ॥ ३५ ॥
+[^non-baroDa-CE] तस्य तद् वचनं श्रुत्वा सागरस्य महात्मनः ।  
+[^non-baroDa-CE] मुमोच तं शरं दीप्तं परं सागरदर्शनात् ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1571,10 +1571,10 @@ Thereby that desert wilderness of Marukāntāra (_tan marukāntāram_) is famed 
 
 <details><summary>मूलम्</summary>
 
-तेन तन्मरुकान्तारं पृथिव्यां किल विश्रुतम् ।  
-निपातितः शरो यत्र वज्राशनिसमप्रभः ॥ ३६ ॥
+[^non-baroDa-CE] तेन तन्मरुकान्तारं पृथिव्यां किल विश्रुतम् ।  
+[^non-baroDa-CE] निपातितः शरो यत्र वज्राशनिसमप्रभः ॥ ३६ ॥
 _________________
-तेन तन्मरुकान्तारं पृथिव्यां किल विश्रुतम् ।  
+[^non-baroDa-CE] तेन तन्मरुकान्तारं पृथिव्यां किल विश्रुतम् ।  
 निपातितः शरो यत्र दीप्ताशनिसमप्रभः ॥
 </details>
 
@@ -1634,8 +1634,8 @@ From the arrow's cleft springs the well named Vraṇa, and Rāma blesses the new
 
 <details><summary>मूलम्</summary>
 
-ननाद च तदा तत्र वसुधा शल्यपीडिता ।  
-तस्माद् व्रणमुखात् तोयमुत्पपात रसातलात् ॥ ३७ ॥
+[^non-baroDa-CE] ननाद च तदा तत्र वसुधा शल्यपीडिता ।  
+[^non-baroDa-CE] तस्माद् व्रणमुखात् तोयमुत्पपात रसातलात् ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1680,8 +1680,8 @@ That cavity then became a well (_kūpaḥ_) famed by the very name Vraṇa (_vra
 
 <details><summary>मूलम्</summary>
 
-स बभूव तदा कूपो व्रण इत्येव विश्रुतः ।  
-सततं चोत्थितं तोयं समुद्रस्येव दृश्यते ॥ ३८ ॥
+[^non-baroDa-CE] स बभूव तदा कूपो व्रण इत्येव विश्रुतः ।  
+[^non-baroDa-CE] सततं चोत्थितं तोयं समुद्रस्येव दृश्यते ॥ ३८ ॥
 _________________
 स बभून तदा कूपो व्रण इत्येव विश्रुतः ।  
 सततं चोत्थिथं तोयं समुद्रस्येव दृश्यते ॥
@@ -1729,8 +1729,8 @@ A dreadful sound of rending (_avadāraṇaśabdaḥ_) arose, and therefore by th
 
 <details><summary>मूलम्</summary>
 
-अवदारणशब्दश्च दारुणः समपद्यत ।  
-तस्मात् तद् बाणपातेन अपः कुक्षिष्वशोषयत् ॥ ३९ ॥
+[^non-baroDa-CE] अवदारणशब्दश्च दारुणः समपद्यत ।  
+[^non-baroDa-CE] तस्मात् तद् बाणपातेन अपः कुक्षिष्वशोषयत् ॥ ३९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1761,9 +1761,9 @@ And that land became famed across the three worlds as Marukāntāra; then having
 
 <details><summary>मूलम्</summary>
 
-विख्यातं त्रिषु लोकेषु मरुकान्तारमेव च ।  
-शोषयित्वा तु तं कुक्षिं रामो दशरथात्मजः ॥ ४० ॥  
-वरं तस्मै ददौ विद्वान् मरवेऽमरविक्रमः ॥ ४१ ॥
+[^non-baroDa-CE] विख्यातं त्रिषु लोकेषु मरुकान्तारमेव च ।  
+[^non-baroDa-CE] शोषयित्वा तु तं कुक्षिं रामो दशरथात्मजः ॥ ४० ॥  
+[^non-baroDa-CE] वरं तस्मै ददौ विद्वान् मरवेऽमरविक्रमः ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1813,8 +1813,8 @@ that desert of Maru.
 
 <details><summary>मूलम्</summary>
 
-पशव्यश्चाल्परोगश्च फलमूलरसायुतः ।  
-बहुस्नेहो बहुक्षीरः सुगन्धिर्विविधौषधिः ॥ ४२ ॥
+[^non-baroDa-CE] पशव्यश्चाल्परोगश्च फलमूलरसायुतः ।  
+[^non-baroDa-CE] बहुस्नेहो बहुक्षीरः सुगन्धिर्विविधौषधिः ॥ ४२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1873,8 +1873,8 @@ Sāgara commends Viśvakarman's son Nala as the architect of the bridge and vani
 
 <details><summary>मूलम्</summary>
 
-एवमेतैश्च संयुक्तो बहुभिः संयुतो मरुः ।  
-रामस्य वरदानाच्च शिवः पन्था बभूव ह ॥ ४३ ॥
+[^non-baroDa-CE] एवमेतैश्च संयुक्तो बहुभिः संयुतो मरुः ।  
+[^non-baroDa-CE] रामस्य वरदानाच्च शिवः पन्था बभूव ह ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1925,8 +1925,8 @@ who knew all scientific treatises.
 
 <details><summary>मूलम्</summary>
 
-तस्मिन् दग्धे तदा कुक्षौ समुद्रः सरितां पतिः ।  
-राघवं सर्वशास्त्रज्ञमिदं वचनमब्रवीत् ॥ ४४ ॥
+[^non-baroDa-CE] तस्मिन् दग्धे तदा कुक्षौ समुद्रः सरितां पतिः ।  
+[^non-baroDa-CE] राघवं सर्वशास्त्रज्ञमिदं वचनमब्रवीत् ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2199,8 +2199,8 @@ Recalling Viśvakarman's boon on Mount Mandara, Nala directs the monkey hosts to
 
 <details><summary>मूलम्</summary>
 
-दण्ड एव वरो लोके पुरुषस्येति मे मतिः ।  
-धिक् क्षमामकृतज्ञेषु सान्त्वं दानमथापि वा ॥ ४९ ॥
+[^non-baroDa-CE] दण्ड एव वरो लोके पुरुषस्येति मे मतिः ।  
+[^non-baroDa-CE] धिक् क्षमामकृतज्ञेषु सान्त्वं दानमथापि वा ॥ ४९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2252,8 +2252,8 @@ mother: "O, god like lady! A son equal to me will be born to you."
 
 <details><summary>मूलम्</summary>
 
-अयं हि सागरो भीमः सेतुकर्मदिदृक्षया ।  
-ददौ दण्डभयाद् गाधं राघवाय महोदधिः ॥ ५० ॥
+[^non-baroDa-CE] अयं हि सागरो भीमः सेतुकर्मदिदृक्षया ।  
+[^non-baroDa-CE] ददौ दण्डभयाद् गाधं राघवाय महोदधिः ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2310,7 +2310,7 @@ details earlier."
 <details><summary>मूलम्</summary>
 
 मम मातुर्वरो दत्तो मन्दरे विश्वकर्मणा ।  
-मया तु सदृशः पुत्रस्तव देवि भविष्यति ॥ ५१ ॥
+[^non-baroDa-CE] मया तु सदृशः पुत्रस्तव देवि भविष्यति ॥ ५१ ॥
 _________________
 मम मातुर्वरो दत्तो मन्दरे विश्वकर्मणा ।  
 मया तु सदृशः पुत्रस्तस्य देवि भविष्यति ॥
@@ -2366,7 +2366,7 @@ monkeys build the bridge now itself."
 <details><summary>मूलम्</summary>
 
 औरसस्तस्य पुत्रोऽहं सदृशो विश्वकर्मणा ।  
-स्मारितोऽस्म्यहमेतेन तत्त्वमाह महोदधिः ।  
+[^non-baroDa-CE] स्मारितोऽस्म्यहमेतेन तत्त्वमाह महोदधिः ।  
 न चाप्यहमनुक्तो वः प्रब्रूयामात्मनो गुणान् ॥ ५२ ॥
 </details>
 
@@ -2418,7 +2418,7 @@ Then, dispatched by Rāma (_visṛṣṭā rāmeṇa_) on every side, the foremo
 
 <details><summary>मूलम्</summary>
 
-समर्थश्चाप्यहं सेतुं कर्तुं वै वरुणालये ।  
+[^non-baroDa-CE] समर्थश्चाप्यहं सेतुं कर्तुं वै वरुणालये ।  
 तस्मादद्यैव बध्नन्तु सेतुं वानरपुङ्गवाः ॥ ५३ ॥
 </details>
 
@@ -2684,11 +2684,11 @@ Of huge bodies and mighty strength, they tore up boulders the size of elephants 
 
 <details><summary>मूलम्</summary>
 
-तालान् दाडिमगुल्मांश्च नारिकेलविभीतकान् ।  
-करीरान् बकुलान् निम्बान् समाजह्रुरितस्ततः ॥ ५९ ॥
+[^non-baroDa-CE] तालान् दाडिमगुल्मांश्च नारिकेलविभीतकान् ।  
+[^non-baroDa-CE] करीरान् बकुलान् निम्बान् समाजह्रुरितस्ततः ॥ ५९ ॥
 _________________
 तालान् दाडिमगुल्मांश्च नारिकेलान्विभीतकान् ।  
-करीरान् बकुलान् निम्बान् समाजह्रुरितस्ततः ॥
+[^non-baroDa-CE] करीरान् बकुलान् निम्बान् समाजह्रुरितस्ततः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2739,8 +2739,8 @@ Dashed upward suddenly by the crags being hurled in (_prakṣipyamāṇair acala
 
 <details><summary>मूलम्</summary>
 
-हस्तिमात्रान् महाकायाः पाषाणांश्च महाबलाः ।  
-पर्वतांश्च समुत्पाट्य यन्त्रैः परिवहन्ति च ॥ ६० ॥
+[^non-baroDa-CE] हस्तिमात्रान् महाकायाः पाषाणांश्च महाबलाः ।  
+[^non-baroDa-CE] पर्वतांश्च समुत्पाट्य यन्त्रैः परिवहन्ति च ॥ ६० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2848,8 +2848,8 @@ Nala constructed that great bridge (_mahāsetum_) in the midst of the lord of ri
 
 <details><summary>मूलम्</summary>
 
-समुद्रं क्षोभयामासुर्निपतन्तः समन्ततः ।  
-सूत्राण्यन्ये प्रगृह्णन्ति ह्यायतं शतयोजनम् ॥ ६२ ॥
+[^non-baroDa-CE] समुद्रं क्षोभयामासुर्निपतन्तः समन्ततः ।  
+[^non-baroDa-CE] सूत्राण्यन्ये प्रगृह्णन्ति ह्यायतं शतयोजनम् ॥ ६२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2880,7 +2880,7 @@ Some held measuring-rods (_daṇḍān anye pragṛhṇanti_) while others gathe
 <details><summary>मूलम्</summary>
 
 नलश्चक्रे महासेतुं मध्ये नदनदीपतेः ।  
-स तदा क्रियते सेतुर्वानरैर्घोरकर्मभिः ॥ ६३ ॥
+[^non-baroDa-CE] स तदा क्रियते सेतुर्वानरैर्घोरकर्मभिः ॥ ६३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2931,14 +2931,14 @@ by the command of Rama, fastened some parts of the bridge.
 
 <details><summary>मूलम्</summary>
 
-दण्डानन्ये प्रगृह्णन्ति विचिन्वन्ति तथापरे ।  
-वानरैः शतशस्तत्र रामस्याज्ञापुरःसरैः ॥ ६४ ॥  
-मेघाभैः पर्वताभैश्च तृणैः काष्ठैर्बबन्धिरे ।  
-पुष्पिताग्रैश्च तरुभिः सेतुं बघ्नन्ति वानराः ॥ ६५ ॥
+[^non-baroDa-CE] दण्डानन्ये प्रगृह्णन्ति विचिन्वन्ति तथापरे ।  
+[^non-baroDa-CE] वानरैः शतशस्तत्र रामस्याज्ञापुरःसरैः ॥ ६४ ॥  
+[^non-baroDa-CE] मेघाभैः पर्वताभैश्च तृणैः काष्ठैर्बबन्धिरे ।  
+[^non-baroDa-CE] पुष्पिताग्रैश्च तरुभिः सेतुं बघ्नन्ति वानराः ॥ ६५ ॥
 _________________
-दण्डानन्ये प्रगृह्णन्ति विचिन्वन्ति तथापरे ।  
-वानरैः शतशस्तत्र रामस्याज्ञापुरःसरैः ॥
-मेघाभैः पर्वताभैश्च तृणैः काष्ठैर्बबन्धिरे ।  
+[^non-baroDa-CE] दण्डानन्ये प्रगृह्णन्ति विचिन्वन्ति तथापरे ।  
+[^non-baroDa-CE] वानरैः शतशस्तत्र रामस्याज्ञापुरःसरैः ॥
+[^non-baroDa-CE] मेघाभैः पर्वताभैश्च तृणैः काष्ठैर्बबन्धिरे ।  
 पुष्टिताग्रैश्च तरुभिः सेतुं बध्नन्ति वानराः ॥
 </details>
 
@@ -3013,10 +3013,10 @@ mountains were caused to fall there.
 
 <details><summary>मूलम्</summary>
 
-पाषाणांश्च गिरिप्रख्यान् गिरीणां शिखराणि च ।  
+[^non-baroDa-CE] पाषाणांश्च गिरिप्रख्यान् गिरीणां शिखराणि च ।  
 दृश्यन्ते परिधावन्तो गृह्य दानवसन्निभाः ॥ ६६ ॥
 _________________
-पाषाणांश्च गिरिप्रख्यान् गिरीणां शिखराणि च ।  
+[^non-baroDa-CE] पाषाणांश्च गिरिप्रख्यान् गिरीणां शिखराणि च ।  
 दृश्यन्ते परिधावन्तो गृह्य वारण सन्निभाः ॥
 </details>
 
@@ -3108,7 +3108,7 @@ Likewise on the second day (_dvitīyena tathaivāhnā_), twenty _yojanas_ (_yoja
 
 <details><summary>मूलम्</summary>
 
-कृतानि प्रथमेनाह्ना योजनानि चतुर्दश ।  
+[^non-baroDa-CE] कृतानि प्रथमेनाह्ना योजनानि चतुर्दश ।  
 प्रहृष्टैर्गजसङ्काशैस्त्वरमाणैः प्लवङ्गमैः ॥ ६८ ॥
 </details>
 
@@ -3176,8 +3176,8 @@ And on the third day (_ahnā tṛtīyena_) in the ocean, one-and-twenty _yojanas
 
 <details><summary>मूलम्</summary>
 
-द्वितीयेन तथैवाह्ना योजनानि तु विंशतिः ।  
-कृतानि प्लवगैस्तूर्णं भीमकायैर्महाबलैः ॥ ६९ ॥
+[^non-baroDa-CE] द्वितीयेन तथैवाह्ना योजनानि तु विंशतिः ।  
+[^non-baroDa-CE] कृतानि प्लवगैस्तूर्णं भीमकायैर्महाबलैः ॥ ६९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3237,8 +3237,8 @@ And on the fourth day (_caturthena tathā cāhnā_), two-and-twenty _yojanas_ (_
 
 <details><summary>मूलम्</summary>
 
-अह्ना तृतीयेन तथा योजनानि तु सागरे ।  
-त्वरमाणैर्महाकायैरेकविंशतिरेव च ॥ ७० ॥
+[^non-baroDa-CE] अह्ना तृतीयेन तथा योजनानि तु सागरे ।  
+[^non-baroDa-CE] त्वरमाणैर्महाकायैरेकविंशतिरेव च ॥ ७० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3283,8 +3283,8 @@ And on the fifth day (_pañcamena tathā cāhnā_), three-and-twenty _yojanas_ (
 
 <details><summary>मूलम्</summary>
 
-चतुर्थेन तथा चाह्ना द्वाविंशतिरथापि वा ।  
-योजनानि महावेगैः कृतानि त्वरितैस्ततः ॥ ७१ ॥
+[^non-baroDa-CE] चतुर्थेन तथा चाह्ना द्वाविंशतिरथापि वा ।  
+[^non-baroDa-CE] योजनानि महावेगैः कृतानि त्वरितैस्ततः ॥ ७१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3350,8 +3350,8 @@ That glorious and mighty foremost of monkeys, the son of Viśvakarman (_viśvaka
 
 <details><summary>मूलम्</summary>
 
-पञ्चमेन तथा चाह्ना प्लवगैः क्षिप्रकारिभिः ।  
-योजनानि त्रयोविंशत् सुवेलमधिकृत्य वै ॥ ७२ ॥
+[^non-baroDa-CE] पञ्चमेन तथा चाह्ना प्लवगैः क्षिप्रकारिभिः ।  
+[^non-baroDa-CE] योजनानि त्रयोविंशत् सुवेलमधिकृत्य वै ॥ ७२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3411,8 +3411,8 @@ Gods, Gandharvas, and sages gather in the sky to behold the hundred-yojana-long,
 
 <details><summary>मूलम्</summary>
 
-स वानरवरः श्रीमान् विश्वकर्मात्मजो बली ।  
-बबन्ध सागरे सेतुं यथा चास्य पिता तथा ॥ ७३ ॥
+[^non-baroDa-CE] स वानरवरः श्रीमान् विश्वकर्मात्मजो बली ।  
+[^non-baroDa-CE] बबन्ध सागरे सेतुं यथा चास्य पिता तथा ॥ ७३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3513,7 +3513,7 @@ Ten _yojanas_ wide (_daśayojanavistīrṇam_) and a hundred _yojanas_ long (_ś
 <details><summary>मूलम्</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।  
-आगम्य गगने तस्थुर्द्रष्टुकामास्तदद्भुतम् ॥ ७५ ॥
+[^non-baroDa-CE] आगम्य गगने तस्थुर्द्रष्टुकामास्तदद्भुतम् ॥ ७५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3544,7 +3544,7 @@ Bounding near, leaping far (_āplavantaḥ plavantaś ca_), and roaring, the mon
 <details><summary>मूलम्</summary>
 
 दशयोजनविस्तीर्णं शतयोजनमायतम् ।  
-ददृशुर्देवगन्धर्वा नलसेतुं सुदुष्करम् ॥ ७६ ॥
+[^non-baroDa-CE] ददृशुर्देवगन्धर्वा नलसेतुं सुदुष्करम् ॥ ७६ ॥
 _________________
 दशयोजनविस्तीर्णं शतयोजनमायतम् ।  
 ददृशुर्देवगन्धार्वा नलसेतुं सुदुष्करम् ॥
@@ -3803,15 +3803,15 @@ ministers, for the purpose of invading the enemies.
 
 <details><summary>मूलम्</summary>
 
-सुग्रीवस्तु ततः प्राह रामं सत्यपराक्रमम् ॥ ८१ ॥  
-हनूमन्तं त्वमारोह अङ्गदं त्वथ लक्ष्मणः ।  
-अयं हि विपुलो वीर सागरो मकरालयः ॥ ८२ ॥  
-वैहायसौ युवामेतौ वानरौ धारयिष्यतः ।
+[^non-baroDa-CE] सुग्रीवस्तु ततः प्राह रामं सत्यपराक्रमम् ॥ ८१ ॥  
+[^non-baroDa-CE] हनूमन्तं त्वमारोह अङ्गदं त्वथ लक्ष्मणः ।  
+[^non-baroDa-CE] अयं हि विपुलो वीर सागरो मकरालयः ॥ ८२ ॥  
+[^non-baroDa-CE] वैहायसौ युवामेतौ वानरौ धारयिष्यतः ।
 _________________
-सुग्रीवस्तु ततः प्राह रामं सत्यपराक्रमम् ॥
+[^non-baroDa-CE] सुग्रीवस्तु ततः प्राह रामं सत्यपराक्रमम् ॥
 हनूमन्तं त्वमारोह अङ्गदं चापि लक्ष्मणः ।  
-अयं हि विपुलो वीर सागरो मकरालयः ॥  
-वैहायसौ युवामेतौ वानरौ धारयिष्यतः ।
+[^non-baroDa-CE] अयं हि विपुलो वीर सागरो मकरालयः ॥  
+[^non-baroDa-CE] वैहायसौ युवामेतौ वानरौ धारयिष्यतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4242,3 +4242,4 @@ arrows in hand, addressing him first as �Rama!' and spoke the following words:
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -1085,11 +1085,11 @@ Eyes reddened with wrath at Rāvaṇa's boast, Sītā denounces him as the ruin 
 
 <details><summary>मूलम्</summary>
 
-अङ्गुल्या न समो रामो मम युद्धे स मानुषः ।  
-तव भाग्येन सम्प्राप्तं भजस्व वरवर्णिनि ॥ १९ ॥
+[^non-baroDa-CE] अङ्गुल्या न समो रामो मम युद्धे स मानुषः ।  
+[^non-baroDa-CE] तव भाग्येन सम्प्राप्तं भजस्व वरवर्णिनि ॥ १९ ॥
 _________________
 आङ्गुल्या न समो रामो मम युद्धे स मानुषः ।  
-तव भाग्येन सम्प्राप्तं भजस्व वरवर्णिनि ॥
+[^non-baroDa-CE] तव भाग्येन सम्प्राप्तं भजस्व वरवर्णिनि ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1327,7 +1327,7 @@ Surely all the _rākṣasas_ shall perish (_avaśyaṃ vinaśiṣyanti sarve rā
 <details><summary>मूलम्</summary>
 
 अपहृत्य शचीं भार्यां शक्यमिन्द्रस्य जीवितुम् ।  
-नहि रामस्य भार्यां मामानीय स्वस्तिमान् भवेत् ॥ २३ ॥
+[^non-baroDa-CE] नहि रामस्य भार्यां मामानीय स्वस्तिमान् भवेत् ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1454,3 +1454,4 @@ One might even live long (_jīvec ciram_) after violating Śacī of peerless bea
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

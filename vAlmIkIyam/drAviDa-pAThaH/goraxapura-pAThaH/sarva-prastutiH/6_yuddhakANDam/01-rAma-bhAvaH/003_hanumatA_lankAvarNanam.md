@@ -450,14 +450,14 @@ Hanūmān promises a complete account of Laṅkā's defences and describes the j
 
 श्रूयतां सर्वमाख्यास्ये दुर्गकर्म विधानतः ।  
 गुप्ता पुरी यथा लङ्का रक्षिता च यथा बलैः ॥ ७ ॥  
-राक्षसाश्च यथा स्निग्धा रावणस्य च तेजसा ।  
+[^non-baroDa-CE] राक्षसाश्च यथा स्निग्धा रावणस्य च तेजसा ।  
 परां समृद्धिं लङ्कायाः सागरस्य च भीमताम् ॥ ८ ॥  
 विभागं च बलौघस्य निर्देशं वाहनस्य च ।  
-एवमुक्त्वा कपिश्रेष्ठः कथयामास तत्त्वतः ॥ ९ ॥
+[^non-baroDa-CE] एवमुक्त्वा कपिश्रेष्ठः कथयामास तत्त्वतः ॥ ९ ॥
 _________________
 श्रूयतां सर्वमाख्यास्ये दुर्गकर्म विधानतः ।  
 गुप्ता पुरी यथा लङ्का रक्षिता च यथा बलैः ॥
-राक्षसाश्च यथा स्निग्धा रावणस्य च तेजसा ।  
+[^non-baroDa-CE] राक्षसाश्च यथा स्निग्धा रावणस्य च तेजसा ।  
 परां समृद्धिं लङ्कायाः सागरस्य च भीमताम् ॥
 विभागं च बलौघस्य निर्देशं विहनस्य च ।  
 एवमुक्त्वा कपिश्रेष्ठः कथयामास तत्वतः ॥
@@ -1625,7 +1625,7 @@ Recounting how he already wrecked the bridges, burned Laṅkā, and slew part of
 
 ते मया सङ्क्रमा भग्नाः परिखाश्चावपूरिताः ।  
 दग्धा च नगरी लङ्का प्राकाराश्चावसादिताः ।  
-बलैकदेशः क्षपितो राक्षसानां महात्मनाम् ॥ २९ ॥
+[^non-baroDa-CE] बलैकदेशः क्षपितो राक्षसानां महात्मनाम् ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1766,7 +1766,7 @@ then as destroyed by the monkeys."
 <details><summary>मूलम्</summary>
 
 प्लवमाना हि गत्वा त्वां रावणस्य महापुरीम् ।  
-सपर्वतवनां भित्त्वा सखातां च सतोरणाम् ।  
+[^non-baroDa-CE] सपर्वतवनां भित्त्वा सखातां च सतोरणाम् ।  
 सप्राकारां सभवनामानयिष्यन्ति राघव ॥ ३२ ॥
 _________________
 प्लवमाना हि गत्वा त्वां रावणस्य महापुरीम् ।  
@@ -1854,3 +1854,5 @@ walls and buildings, will recover Seetha."
 “Therefore command swiftly (_evam ājñāpaya kṣipram_) the complete mobilization of the armies (_balānāṃ sarva-saṃgraham_), and at an auspicious hour (_muhūrtena tu yuktena_) approve the march (_prasthānam abhirocaya_).”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

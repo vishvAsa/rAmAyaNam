@@ -472,7 +472,7 @@ he is mountainous, and Shuurpanakha saw such a Ravana. [3-32-9]
 <details><summary>मूलम्</summary>
 
 विष्णुचक्रनिपातैश्च शतशो देवसंयुगे ।  
-अन्यैः शस्त्रैः प्रहारैश्च महायुद्धेषु ताडितम् ॥ १० ॥
+[^non-baroDa-CE] अन्यैः शस्त्रैः प्रहारैश्च महायुद्धेषु ताडितम् ॥ १० ॥
 _________________
 विष्णुचक्रनिपातैश्च शतशो देवसंयुगे ।  
 अन्यैः शस्तैःप्रहारैश्च महायुद्धेषु ताडितम् ॥
@@ -1181,7 +1181,7 @@ Approaching her resplendent brother seated like Death at cosmic dissolution amid
 <details><summary>मूलम्</summary>
 
 तं दिव्यवस्त्राभरणं दिव्यमाल्योपशोभितम् ॥ २२ ॥  
-आसने सूपविष्टं तं काले कालमिवोद्यतम् ।  
+[^non-baroDa-CE] आसने सूपविष्टं तं काले कालमिवोद्यतम् ।  
 राक्षसेन्द्रं महाभागं पौलस्त्यकुलनन्दनम् ॥ २३ ॥
 _________________
 आसने सूपविष्टं च काले कालमिवोद्यतम् ।
@@ -1233,8 +1233,8 @@ for the Eventual-Time. [3-32-22b, 23a]
 
 <details><summary>मूलम्</summary>
 
-उपगम्याब्रवीद् वाक्यं राक्षसी भयविह्वला ।  
-रावणं शत्रुहन्तारं मन्त्रिभिः परिवारितम् ॥ २४ ॥
+[^non-baroDa-CE] उपगम्याब्रवीद् वाक्यं राक्षसी भयविह्वला ।  
+[^non-baroDa-CE] रावणं शत्रुहन्तारं मन्त्रिभिः परिवारितम् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1342,3 +1342,4 @@ Having displayed [her mutilation] (_pradarśayitvā_), Śūrpaṇakhā—who was
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -1330,7 +1330,7 @@ on the countenances of pasturelands/sages which will be furious henceforth. Govi
 <details><summary>मूलम्</summary>
 
 स्पृशन् सुविपुलं शीतमुदकं द्विरदः सुखम् ।  
-अत्यन्ततृषितो वन्यः प्रतिसंहरते करम् ॥ २१ ॥
+[^non-baroDa-CE] अत्यन्ततृषितो वन्यः प्रतिसंहरते करम् ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1386,8 +1386,8 @@ Govindaraja
 
 <details><summary>मूलम्</summary>
 
-एते हि समुपासीना विहगा जलचारिणः ।  
-नावगाहन्ति सलिलमप्रगल्भा इवाहवम् ॥ २२ ॥
+[^non-baroDa-CE] एते हि समुपासीना विहगा जलचारिणः ।  
+[^non-baroDa-CE] नावगाहन्ति सलिलमप्रगल्भा इवाहवम् ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2329,8 +2329,8 @@ fellowship my fascination to reunite with him is recurring again. [4-16-38]
 
 <details><summary>मूलम्</summary>
 
-संस्मराम्यस्य वाक्यानि प्रियाणि मधुराणि च ।  
-हृद्यान्यमृतकल्पानि मनःप्रह्लादनानि च ॥ ३९ ॥
+[^non-baroDa-CE] संस्मराम्यस्य वाक्यानि प्रियाणि मधुराणि च ।  
+[^non-baroDa-CE] हृद्यान्यमृतकल्पानि मनःप्रह्लादनानि च ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2389,7 +2389,7 @@ Longing for reunion with Bharata and Śatrughna, Rāma reaches the Godāvarī, p
 <details><summary>मूलम्</summary>
 
 कदा ह्यहं समेष्यामि भरतेन महात्मना ।  
-शत्रुघ्नेन च वीरेण त्वया च रघुनन्दन ॥ ४० ॥
+[^non-baroDa-CE] शत्रुघ्नेन च वीरेण त्वया च रघुनन्दन ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2614,3 +2614,4 @@ Having completed his ablutions, Rāma, accompanied by Sītā as his second (_sī
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

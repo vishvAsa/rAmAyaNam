@@ -1020,9 +1020,9 @@ Before the guests even enter the grove, the resident ascetics perceive their arr
 
 <details><summary>मूलम्</summary>
 
-अभिगच्छामहे सर्वे शुचयः पुण्यमाश्रमम् ।  
+[^non-baroDa-CE] अभिगच्छामहे सर्वे शुचयः पुण्यमाश्रमम् ।  
 इह वासः परोऽस्माकं सुखं वत्स्यामहे निशाम् ॥ १७ ॥  
-स्नाताश्च कृतजप्याश्च हुतहव्या नरोत्तम ।
+[^non-baroDa-CE] स्नाताश्च कृतजप्याश्च हुतहव्या नरोत्तम ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1221,7 +1221,7 @@ They next performed the rites of hospitality for Rāma and Lakṣmaṇa (_rāmal
 
 <details><summary>मूलम्</summary>
 
-तत्र वासिभिरानीता मुनिभिः सुव्रतैः सह ॥ २१ ॥  
+[^non-baroDa-CE] तत्र वासिभिरानीता मुनिभिः सुव्रतैः सह ॥ २१ ॥  
 न्यवसन् सुसुखं तत्र कामाश्रमपदे तथा ।
 </details>
 
@@ -1293,8 +1293,8 @@ With collected minds (_samāhitāḥ_), those sages duly recited the evening _sa
 
 <details><summary>मूलम्</summary>
 
-कथाभिरभिरामाभिरभिरामौ नृपात्मजौ ।  
-रमयामास धर्मात्मा कौशिको मुनिपुङ्गवः ॥ २२ ॥
+[^non-baroDa-CE] कथाभिरभिरामाभिरभिरामौ नृपात्मजौ ।  
+[^non-baroDa-CE] रमयामास धर्मात्मा कौशिको मुनिपुङ्गवः ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1354,3 +1354,4 @@ They dwelt together most happily there in the precinct of Kāmāśrama (_nyavasa
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

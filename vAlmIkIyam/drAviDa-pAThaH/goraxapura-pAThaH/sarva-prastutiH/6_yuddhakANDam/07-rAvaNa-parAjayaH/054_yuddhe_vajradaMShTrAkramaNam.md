@@ -43,8 +43,8 @@ Incensed by Aṅgada's prowess and the rout of his troops, Vajradaṃṣṭra ra
 
 <details><summary>मूलम्</summary>
 
-स्वबलस्य च घातेन अङ्गदस्य बलेन च ।  
-राक्षसः क्रोधमाविष्टो वज्रदंष्ट्रो महाबलः ॥ १ ॥
+[^non-baroDa-CE] स्वबलस्य च घातेन अङ्गदस्य बलेन च ।  
+[^non-baroDa-CE] राक्षसः क्रोधमाविष्टो वज्रदंष्ट्रो महाबलः ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -95,8 +95,8 @@ Through the slaughter of his own army (_svabalasya ca ghātena_) and because of 
 
 <details><summary>मूलम्</summary>
 
-विस्फार्य च धनुर्घोरं शक्राशनिसमप्रभम् ।  
-वानराणामनीकानि प्राकिरच्छरवृष्टिभिः ॥ २ ॥
+[^non-baroDa-CE] विस्फार्य च धनुर्घोरं शक्राशनिसमप्रभम् ।  
+[^non-baroDa-CE] वानराणामनीकानि प्राकिरच्छरवृष्टिभिः ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -142,8 +142,8 @@ and drawing taut his dreadful bow (_visphārya ca dhanur ghoram_), whose splendo
 
 <details><summary>मूलम्</summary>
 
-राक्षसाश्चापि मुख्यास्ते रथेषु समवस्थिताः ।  
-नानाप्रहरणाः शूराः प्रायुध्यन्त तदा रणे ॥ ३ ॥
+[^non-baroDa-CE] राक्षसाश्चापि मुख्यास्ते रथेषु समवस्थिताः ।  
+[^non-baroDa-CE] नानाप्रहरणाः शूराः प्रायुध्यन्त तदा रणे ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -194,11 +194,11 @@ Stationed upon their chariots (_ratheṣu samavasthitāḥ_), those principal _r
 
 <details><summary>मूलम्</summary>
 
-वानराणां च शूरास्तु ते सर्वे प्लवगर्षभाः ।  
-अयुध्यन्त शिलाहस्ताः समवेताः समन्ततः ॥ ४ ॥
+[^non-baroDa-CE] वानराणां च शूरास्तु ते सर्वे प्लवगर्षभाः ।  
+[^non-baroDa-CE] अयुध्यन्त शिलाहस्ताः समवेताः समन्ततः ॥ ४ ॥
 _________________
 वानराणां तु शूरास्तु ते सर्वे प्लवगर्षभाः ।  
-अयुध्यन्त शिलाहस्ताः समवेताः समन्ततः ॥
+[^non-baroDa-CE] अयुध्यन्त शिलाहस्ताः समवेताः समन्ततः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -248,7 +248,7 @@ And all those heroic bulls among leapers (_plavagarṣabhāḥ_) among the Vāna
 
 <details><summary>मूलम्</summary>
 
-तत्रायुधसहस्राणि तस्मिन्नायोधने भृशम् ।  
+[^non-baroDa-CE] तत्रायुधसहस्राणि तस्मिन्नायोधने भृशम् ।  
 राक्षसाः कपिमुख्येषु पातयाञ्चक्रिरे तदा ॥ ५ ॥
 </details>
 
@@ -294,7 +294,7 @@ There in that renowned battle (_tasminn āyodhane_), the _rākṣasas_ rained do
 
 <details><summary>मूलम्</summary>
 
-वानराश्चैव रक्षःसु गिरिवृक्षान् महाशिलाः ।  
+[^non-baroDa-CE] वानराश्चैव रक्षःसु गिरिवृक्षान् महाशिलाः ।  
 प्रवीराः पातयामासुर्मत्तवारणसन्निभाः ॥ ६ ॥
 _________________
 वानराश्चैव रक्षःसु गिरीवृक्षान् महाशिलाः ।  
@@ -357,8 +357,8 @@ As headless trunks spring up and carrion birds flock to the fallen, the rākṣa
 
 <details><summary>मूलम्</summary>
 
-शूराणां युध्यमानानां समरेष्वनिवर्तिनाम् ।  
-तद् राक्षसगणानां च सुयुद्धं समवर्तत ॥ ७ ॥
+[^non-baroDa-CE] शूराणां युध्यमानानां समरेष्वनिवर्तिनाम् ।  
+[^non-baroDa-CE] तद् राक्षसगणानां च सुयुद्धं समवर्तत ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -409,10 +409,10 @@ That fierce battle raged on (_suyuddhaṃ samavartata_) between those heroic [V�
 
 <details><summary>मूलम्</summary>
 
-प्रभिन्नशिरसः केचिच्छिन्नैः पादैश्च बाहुभिः ।  
-शस्त्रैरर्दितदेहास्तु रुधिरेण समुक्षिताः ॥ ८ ॥
+[^non-baroDa-CE] प्रभिन्नशिरसः केचिच्छिन्नैः पादैश्च बाहुभिः ।  
+[^non-baroDa-CE] शस्त्रैरर्दितदेहास्तु रुधिरेण समुक्षिताः ॥ ८ ॥
 _________________
-प्रभिन्नशिरसः केचिच्छिन्नैः पादैश्च बाहुभिः ।  
+[^non-baroDa-CE] प्रभिन्नशिरसः केचिच्छिन्नैः पादैश्च बाहुभिः ।  
 शस्त्रॆೖरर्दितदेहास्तु रुधिरेण समुक्षिताः ॥
 </details>
 
@@ -443,7 +443,7 @@ Some had their heads split open (_prabhinnaśirasaḥ_), with severed feet and a
 
 <details><summary>मूलम्</summary>
 
-हरयो राक्षसाश्चैव शेरते गां समाश्रिताः ।  
+[^non-baroDa-CE] हरयो राक्षसाश्चैव शेरते गां समाश्रिताः ।  
 कङ्कगृध्रबलाढ्याश्च गोमायुकुलसङ्कुलाः ॥ ९ ॥
 </details>
 
@@ -493,8 +493,8 @@ monkeys and _rākṣasas_ alike lay stretched upon the earth (_śerate gāṃ sa
 
 <details><summary>मूलम्</summary>
 
-कबन्धानि समुत्पेतुर्भीरूणां भीषणानि वै ।  
-भुजपाणिशिरश्छिन्नाश्छिन्नकायाश्च भूतले ॥ १० ॥
+[^non-baroDa-CE] कबन्धानि समुत्पेतुर्भीरूणां भीषणानि वै ।  
+[^non-baroDa-CE] भुजपाणिशिरश्छिन्नाश्छिन्नकायाश्च भूतले ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -547,9 +547,9 @@ Headless trunks (_kabandhāni_), terrifying to cowards (_bhīrūṇāṃ bhīṣ
 
 <details><summary>मूलम्</summary>
 
-वानरा राक्षसाश्चापि निपेतुस्तत्र भूतले ।  
-ततो वानरसैन्येन हन्यमानं निशाचरम् ॥ ११ ॥  
-प्राभज्यत बलं सर्वं वज्रदंष्ट्रस्य पश्यतः ।
+[^non-baroDa-CE] वानरा राक्षसाश्चापि निपेतुस्तत्र भूतले ।  
+[^non-baroDa-CE] ततो वानरसैन्येन हन्यमानं निशाचरम् ॥ ११ ॥  
+[^non-baroDa-CE] प्राभज्यत बलं सर्वं वज्रदंष्ट्रस्य पश्यतः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -595,7 +595,7 @@ Vānaras and _rākṣasas_ fell there upon the ground. Then, as the night-stalke
 <details><summary>मूलम्</summary>
 
 राक्षसान् भयवित्रस्तान् हन्यमानान् प्लवङ्गमैः ॥ १२ ॥  
-दृष्ट्वा स रोषताम्राक्षो वज्रदंष्ट्रः प्रतापवान् ।
+[^non-baroDa-CE] दृष्ट्वा स रोषताम्राक्षो वज्रदंष्ट्रः प्रतापवान् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -633,8 +633,8 @@ When Vajradaṃṣṭra's volleys drive the bleeding Vānaras to Aṅgada like c
 
 <details><summary>मूलम्</summary>
 
-प्रविवेश धनुष्पाणिस्त्रासयन् हरिवाहिनीम् ॥ १३ ॥  
-शरैर्विदारयामास कङ्कपत्रैरजिह्मगैः ।
+[^non-baroDa-CE] प्रविवेश धनुष्पाणिस्त्रासयन् हरिवाहिनीम् ॥ १३ ॥  
+[^non-baroDa-CE] शरैर्विदारयामास कङ्कपत्रैरजिह्मगैः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -682,8 +682,8 @@ Seeing [them routed], the mighty Vajradaṃṣṭra, his eyes copper-red with fu
 
 <details><summary>मूलम्</summary>
 
-बिभेद वानरांस्तत्र सप्ताष्टौ नव पञ्च च ॥ १४ ॥  
-विव्याध परमक्रुद्धो वज्रदंष्ट्रः प्रतापवान् ।
+[^non-baroDa-CE] बिभेद वानरांस्तत्र सप्ताष्टौ नव पञ्च च ॥ १४ ॥  
+[^non-baroDa-CE] विव्याध परमक्रुद्धो वज्रदंष्ट्रः प्रतापवान् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -739,7 +739,7 @@ With straight-flying arrows fletched with heron feathers (_śarair ... kaṅkapa
 <details><summary>मूलम्</summary>
 
 त्रस्ताः सर्वे हरिगणाः शरैः सङ्कृत्तदेहिनः ।  
-अङ्गदं सम्प्रधावन्ति प्रजापतिमिव प्रजाः ॥ १५ ॥
+[^non-baroDa-CE] अङ्गदं सम्प्रधावन्ति प्रजापतिमिव प्रजाः ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -784,8 +784,8 @@ Supremely enraged, the mighty Vajradaṃṣṭra pierced them. Terrified, with t
 
 <details><summary>मूलम्</summary>
 
-ततो हरिगणान् भग्नान् दृष्ट्वा वालिसुतस्तदा ।  
-क्रोधेन वज्रदंष्ट्रं तमुदीक्षन्तमुदैक्षत ॥ १६ ॥
+[^non-baroDa-CE] ततो हरिगणान् भग्नान् दृष्ट्वा वालिसुतस्तदा ।  
+[^non-baroDa-CE] क्रोधेन वज्रदंष्ट्रं तमुदीक्षन्तमुदैक्षत ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -830,8 +830,8 @@ Seeing the monkey troops broken then (_harigaṇān bhagnān dṛṣṭvā_), V�
 
 <details><summary>मूलम्</summary>
 
-वज्रदंष्ट्रोऽङ्गदश्चोभौ योयुध्येते परस्परम् ।  
-चेरतुः परमक्रुद्धौ हरिमत्तगजाविव ॥ १७ ॥
+[^non-baroDa-CE] वज्रदंष्ट्रोऽङ्गदश्चोभौ योयुध्येते परस्परम् ।  
+[^non-baroDa-CE] चेरतुः परमक्रुद्धौ हरिमत्तगजाविव ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -882,8 +882,8 @@ Both Vajradaṃṣṭra and Aṅgada fought each other with intense fury (_yoyud
 
 <details><summary>मूलम्</summary>
 
-ततः शतसहस्रेण हरिपुत्रं महाबलम् ।  
-जघान मर्मदेशेषु शरैरग्निशिखोपमैः ॥ १८ ॥
+[^non-baroDa-CE] ततः शतसहस्रेण हरिपुत्रं महाबलम् ।  
+[^non-baroDa-CE] जघान मर्मदेशेषु शरैरग्निशिखोपमैः ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -936,8 +936,8 @@ When Vajradaṃṣṭra slices Aṅgada's hurled tree in midair, Aṅgada crushe
 
 <details><summary>मूलम्</summary>
 
-रुधिरोक्षितसर्वाङ्गो वालिसूनुर्महाबलः ।  
-चिक्षेप वज्रदंष्ट्राय वृक्षं भीमपराक्रमः ॥ १९ ॥
+[^non-baroDa-CE] रुधिरोक्षितसर्वाङ्गो वालिसूनुर्महाबलः ।  
+[^non-baroDa-CE] चिक्षेप वज्रदंष्ट्राय वृक्षं भीमपराक्रमः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -988,8 +988,8 @@ With all his limbs drenched in blood (_rudhirokṣitasarvāṅgaḥ_), Vālin&#x
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वा पतन्तं तं वृक्षमसम्भ्रान्तश्च राक्षसः ।  
-चिच्छेद बहुधा सोऽपि मथितः प्रापतद् भुवि ॥ २० ॥
+[^non-baroDa-CE] दृष्ट्वा पतन्तं तं वृक्षमसम्भ्रान्तश्च राक्षसः ।  
+[^non-baroDa-CE] चिच्छेद बहुधा सोऽपि मथितः प्रापतद् भुवि ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1041,8 +1041,8 @@ Seeing that tree hurtling toward him (_patantaṃ taṃ vṛkṣam_), the unpert
 
 <details><summary>मूलम्</summary>
 
-तं दृष्ट्वा वज्रदंष्ट्रस्य विक्रमं प्लवगर्षभः ।  
-प्रगृह्य विपुलं शैलं चिक्षेप च ननाद च ॥ २१ ॥
+[^non-baroDa-CE] तं दृष्ट्वा वज्रदंष्ट्रस्य विक्रमं प्लवगर्षभः ।  
+[^non-baroDa-CE] प्रगृह्य विपुलं शैलं चिक्षेप च ननाद च ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1087,8 +1087,8 @@ Beholding that feat of valor by Vajradaṃṣṭra (_vajradaṃṣṭrasya vikra
 
 <details><summary>मूलम्</summary>
 
-तमापतन्तं दृष्ट्वा स रथादाप्लुत्य वीर्यवान् ।  
-गदापाणिरसम्भ्रान्तः पृथिव्यां समतिष्ठत ॥ २२ ॥
+[^non-baroDa-CE] तमापतन्तं दृष्ट्वा स रथादाप्लुत्य वीर्यवान् ।  
+[^non-baroDa-CE] गदापाणिरसम्भ्रान्तः पृथिव्यां समतिष्ठत ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1134,8 +1134,8 @@ Seeing it hurtling toward him (_tam āpatantaṃ dṛṣṭvā_), the valiant de
 
 <details><summary>मूलम्</summary>
 
-अङ्गदेन शिला क्षिप्ता गत्वा तु रणमूर्धनि ।  
-सचक्रकूबरं साश्वं प्रममाथ रथं तदा ॥ २३ ॥
+[^non-baroDa-CE] अङ्गदेन शिला क्षिप्ता गत्वा तु रणमूर्धनि ।  
+[^non-baroDa-CE] सचक्रकूबरं साश्वं प्रममाथ रथं तदा ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1180,8 +1180,8 @@ Speeding to the forefront of battle (_gatvā tu raṇamūrdhani_), the boulder h
 
 <details><summary>मूलम्</summary>
 
-ततोऽन्यच्छिखरं गृह्य विपुलं द्रुमभूषितम् ।  
-वज्रदंष्ट्रस्य शिरसि पातयामास वानरः ॥ २४ ॥
+[^non-baroDa-CE] ततोऽन्यच्छिखरं गृह्य विपुलं द्रुमभूषितम् ।  
+[^non-baroDa-CE] वज्रदंष्ट्रस्य शिरसि पातयामास वानरः ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1234,11 +1234,11 @@ Stunned by the mountain peak, Vajradaṃṣṭra recovers to strike Aṅgada's c
 
 <details><summary>मूलम्</summary>
 
-अभवच्छोणितोद‍्गारी वज्रदंष्ट्रः सुमूर्च्छितः ।  
-मुहूर्तमभवन्मूढो गदामालिङ्ग्य निःश्वसन् ॥ २५ ॥
+[^non-baroDa-CE] अभवच्छोणितोद‍्गारी वज्रदंष्ट्रः सुमूर्च्छितः ।  
+[^non-baroDa-CE] मुहूर्तमभवन्मूढो गदामालिङ्ग्य निःश्वसन् ॥ २५ ॥
 _________________
 अभवच्छोणितोद्गारी वज्रदंष्ट्रः समूर्छितः ।  
-मुहूर्तमभवन्मूढो गदामालिङ्ग्य निःश्वसन् ॥
+[^non-baroDa-CE] मुहूर्तमभवन्मूढो गदामालिङ्ग्य निःश्वसन् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1290,10 +1290,10 @@ Vomiting blood (_śoṇitodgārī_) and deeply stunned (_sumūrcchitaḥ_), Vajr
 <details><summary>मूलम्</summary>
 
 स लब्धसञ्ज्ञो गदया वालिपुत्रमवस्थितम् ।  
-जघान परमक्रुद्धो वक्षोदेशे निशाचरः ॥ २६ ॥
+[^non-baroDa-CE] जघान परमक्रुद्धो वक्षोदेशे निशाचरः ॥ २६ ॥
 _________________
 स लब्ध सञ्ज्ञॊ गदया वालिपुत्रमवस्थितम् ।  
-जघान परमक्रुद्धो वक्षोदेशे निशाचरः ॥
+[^non-baroDa-CE] जघान परमक्रुद्धो वक्षोदेशे निशाचरः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1344,8 +1344,8 @@ Regaining consciousness (_sa labdhasaṃjñaḥ_), that supremely enraged night-
 
 <details><summary>मूलम्</summary>
 
-गदां त्यक्त्वा ततस्तत्र मुष्टियुद्धमकुर्वत ।  
-अन्योन्यं जघ्नतुस्तत्र तावुभौ हरिराक्षसौ ॥ २७ ॥
+[^non-baroDa-CE] गदां त्यक्त्वा ततस्तत्र मुष्टियुद्धमकुर्वत ।  
+[^non-baroDa-CE] अन्योन्यं जघ्नतुस्तत्र तावुभौ हरिराक्षसौ ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1390,8 +1390,8 @@ Casting aside the mace there (_gadāṃ tyaktvā tatas tatra_), they engaged in 
 
 <details><summary>मूलम्</summary>
 
-रुधिरोद‍्गारिणौ तौ तु प्रहारैर्जनितश्रमौ ।  
-बभूवतुः सुविक्रान्तावङ्गारकबुधाविव ॥ २८ ॥
+[^non-baroDa-CE] रुधिरोद‍्गारिणौ तौ तु प्रहारैर्जनितश्रमौ ।  
+[^non-baroDa-CE] बभूवतुः सुविक्रान्तावङ्गारकबुधाविव ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1442,10 +1442,10 @@ Vomiting blood (_rudhirodgāriṇau_) and exhausted by blows (_prahārair janita
 
 <details><summary>मूलम्</summary>
 
-ततः परमतेजस्वी अङ्गदः प्लवगर्षभः ।  
-उत्पाट्य वृक्षं स्थितवानासीत् पुष्पफलैर्युतः ॥ २९ ॥
+[^non-baroDa-CE] ततः परमतेजस्वी अङ्गदः प्लवगर्षभः ।  
+[^non-baroDa-CE] उत्पाट्य वृक्षं स्थितवानासीत् पुष्पफलैर्युतः ॥ २९ ॥
 _________________
-ततः परमतेजस्वी अङ्गदः प्लवगर्षभः ।  
+[^non-baroDa-CE] ततः परमतेजस्वी अङ्गदः प्लवगर्षभः ।  
 उत्पाट्य वृक्षं स्थितवानासीत् पुष्पलैर्युतः ॥
 </details>
 
@@ -1505,7 +1505,7 @@ Trading blows with bell-decked shield and burnished sword until both sink to the
 
 <details><summary>मूलम्</summary>
 
-जग्राह चार्षभं चर्म खड्गं च विपुलं शुभम् ।  
+[^non-baroDa-CE] जग्राह चार्षभं चर्म खड्गं च विपुलं शुभम् ।  
 किङ्किणीजालसञ्छन्नं चर्मणा च परिष्कृतम् ॥ ३० ॥
 </details>
 
@@ -1558,7 +1558,7 @@ And [he] seized a bull-hide shield (_ārṣabhaṃ carma_), decked with a networ
 
 <details><summary>मूलम्</summary>
 
-चित्रांश्च रुचिरान् मार्गांश्चेरतुः कपिराक्षसौ ।  
+[^non-baroDa-CE] चित्रांश्च रुचिरान् मार्गांश्चेरतुः कपिराक्षसौ ।  
 जघ्नतुश्च तदान्योन्यं नर्दन्तौ जयकाङ्क्षिणौ ॥ ३१ ॥
 </details>
 
@@ -1610,8 +1610,8 @@ The monkey and the _rākṣasa_ executed wondrous and graceful sword-maneuvers (
 
 <details><summary>मूलम्</summary>
 
-व्रणैः सास्रैरशोभेतां पुष्पिताविव किंशुकौ ।  
-युध्यमानौ परिश्रान्तौ जानुभ्यामवनीं गतौ ॥ ३२ ॥
+[^non-baroDa-CE] व्रणैः सास्रैरशोभेतां पुष्पिताविव किंशुकौ ।  
+[^non-baroDa-CE] युध्यमानौ परिश्रान्तौ जानुभ्यामवनीं गतौ ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1663,8 +1663,8 @@ With their bleeding wounds (_vraṇaiḥ sāsraiḥ_), the two shone like two bl
 
 <details><summary>मूलम्</summary>
 
-निमेषान्तरमात्रेण अङ्गदः कपिकुञ्जरः ।  
-उदतिष्ठत दीप्ताक्षो दण्डाहत इवोरगः ॥ ३३ ॥
+[^non-baroDa-CE] निमेषान्तरमात्रेण अङ्गदः कपिकुञ्जरः ।  
+[^non-baroDa-CE] उदतिष्ठत दीप्ताक्षो दण्डाहत इवोरगः ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1723,8 +1723,8 @@ With a burnished sword Aṅgada lops off Vajradaṃṣṭra's head, routing the 
 
 <details><summary>मूलम्</summary>
 
-निर्मलेन सुधौतेन खड्गेनास्य महच्छिरः ।  
-जघान वज्रदंष्ट्रस्य वालिसूनुर्महाबलः ॥ ३४ ॥
+[^non-baroDa-CE] निर्मलेन सुधौतेन खड्गेनास्य महच्छिरः ।  
+[^non-baroDa-CE] जघान वज्रदंष्ट्रस्य वालिसूनुर्महाबलः ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1769,8 +1769,8 @@ With a spotless, well-burnished sword (_nirmalena sudhautena khaḍgena_), Vāli
 
 <details><summary>मूलम्</summary>
 
-रुधिरोक्षितगात्रस्य बभूव पतितं द्विधा ।  
-तच्च तस्य परीताक्षं शुभं खड्गहतं शिरः ॥ ३५ ॥
+[^non-baroDa-CE] रुधिरोक्षितगात्रस्य बभूव पतितं द्विधा ।  
+[^non-baroDa-CE] तच्च तस्य परीताक्षं शुभं खड्गहतं शिरः ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1816,7 +1816,7 @@ And that comely, sword-severed head (_śubhaṃ khaḍgahataṃ śiraḥ_) of th
 
 <details><summary>मूलम्</summary>
 
-वज्रदंष्ट्रं हतं दृष्ट्वा राक्षसा भयमोहिताः ।  
+[^non-baroDa-CE] वज्रदंष्ट्रं हतं दृष्ट्वा राक्षसा भयमोहिताः ।  
 त्रस्ता ह्यभ्यद्रवल्ँ लङ्कां वध्यमानाः प्लवङ्गमैः ।  
 विषण्णवदना दीना ह्रिया किञ्चिदवाङ्मुखाः ॥ ३६ ॥
 _________________
@@ -1854,10 +1854,10 @@ Seeing Vajradaṃṣṭra slain (_vajradaṃṣṭraṃ hataṃ dṛṣṭvā_),
 
 <details><summary>मूलम्</summary>
 
-निहत्य तं वज्रधरः प्रतापवान्  
-स वालिसूनुः कपिसैन्यमध्ये ।  
-जगाम हर्षं महितो महाबलः  
-सहस्रनेत्रस्त्रिदशैरिवावृतः ॥ ३७ ॥
+[^non-baroDa-CE] निहत्य तं वज्रधरः प्रतापवान्  
+[^non-baroDa-CE] स वालिसूनुः कपिसैन्यमध्ये ।  
+[^non-baroDa-CE] जगाम हर्षं महितो महाबलः  
+[^non-baroDa-CE] सहस्रनेत्रस्त्रिदशैरिवावृतः ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1906,3 +1906,4 @@ Having slain him, that mighty and glorious son of Vālin, equal in valor to the 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

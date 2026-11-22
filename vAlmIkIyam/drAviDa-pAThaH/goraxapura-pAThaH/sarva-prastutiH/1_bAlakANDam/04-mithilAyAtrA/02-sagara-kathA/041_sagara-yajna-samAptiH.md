@@ -835,7 +835,7 @@ That tigerly-man Amshuman who is overwhelmed by agony and anguish,
 
 <details><summary>मूलम्</summary>
 
-स तेषां राजपुत्राणां कर्तुकामो जलक्रियाम् ।  
+[^non-baroDa-CE] स तेषां राजपुत्राणां कर्तुकामो जलक्रियाम् ।  
 स जलार्थी महातेजा न चापश्यज्जलाशयम् ॥ १५ ॥
 </details>
 
@@ -1543,3 +1543,4 @@ On completing the Vedic-ritual King Sagara arrived at his capital,
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

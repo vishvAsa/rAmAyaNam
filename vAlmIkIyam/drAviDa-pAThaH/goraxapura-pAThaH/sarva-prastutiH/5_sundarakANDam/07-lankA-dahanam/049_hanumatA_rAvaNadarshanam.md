@@ -972,7 +972,7 @@ protector of even the world of celestials together with Indra the lord of celest
 
 <details><summary>मूलम्</summary>
 
-अस्य क्रूरैर्नृशंसैश्च कर्मभिर्लोककुत्सितैः ।  
+[^non-baroDa-CE] अस्य क्रूरैर्नृशंसैश्च कर्मभिर्लोककुत्सितैः ।  
 सर्वे बिभ्यति खल्वस्माल्लोकाः सामरदानवाः ॥ १९ ॥  
 अयं ह्युत्सहते क्रुद्धः कर्तुमेकार्णवं जगत् ।  
 इति चिन्तां बहुविधामकरोन्मतिमान् कपिः ।  
@@ -1062,3 +1062,4 @@ intelligent Hanuma formulated many kinds of thoughts in this way.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

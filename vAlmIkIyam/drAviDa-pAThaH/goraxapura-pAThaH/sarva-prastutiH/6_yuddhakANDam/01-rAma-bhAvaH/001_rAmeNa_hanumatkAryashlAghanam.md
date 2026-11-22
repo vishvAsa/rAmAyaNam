@@ -487,8 +487,8 @@ zeal is said to be a superior person."
 
 <details><summary>मूलम्</summary>
 
-यो नियुक्तः परं कार्यं न कुर्यान्नृपतेः प्रियम् ।  
-भृत्यो युक्तः समर्थश्च तमाहुर्मध्यमं नरम् ॥ ८ ॥
+[^non-baroDa-CE] यो नियुक्तः परं कार्यं न कुर्यान्नृपतेः प्रियम् ।  
+[^non-baroDa-CE] भृत्यो युक्तः समर्थश्च तमाहुर्मध्यमं नरम् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -811,8 +811,8 @@ circumstances, this is all that is easily obtained from me."
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा प्रीतिहृष्टाङ्गो रामस्तं परिषस्वजे ।  
-हनूमन्तं कृतात्मानं कृतकार्यमुपागतम् ॥ १४ ॥
+[^non-baroDa-CE] इत्युक्त्वा प्रीतिहृष्टाङ्गो रामस्तं परिषस्वजे ।  
+[^non-baroDa-CE] हनूमन्तं कृतात्मानं कृतकार्यमुपागतम् ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -864,8 +864,8 @@ Speaking thus, Rāma, his limbs thrilling with joy (_prīti-hṛṣṭāṅgaḥ
 
 <details><summary>मूलम्</summary>
 
-ध्यात्वा पुनरुवाचेदं वचनं रघुसत्तमः ।  
-हरीणामीश्वरस्यापि सुग्रीवस्योपशृण्वतः ॥ १५ ॥
+[^non-baroDa-CE] ध्यात्वा पुनरुवाचेदं वचनं रघुसत्तमः ।  
+[^non-baroDa-CE] हरीणामीश्वरस्यापि सुग्रीवस्योपशृण्वतः ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1130,3 +1130,4 @@ Having spoken thus to Hanūmān, the mighty-armed Rāma, crusher of foes (_śatr
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

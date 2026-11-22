@@ -48,12 +48,12 @@ Having vanquished the guardian deity of Laṅkā by his valor, Hanūmān leaps o
 <details><summary>मूलम्</summary>
 
 स निर्जित्य पुरीं लङ्कां श्रेष्ठां तां कामरूपिणीम् ।  
-विक्रमेण महातेजा हनूमान् कपिसत्तमः ॥ १ ॥  
-अद्वारेण महावीर्यः प्राकारमवपुप्लुवे ।  
+[^non-baroDa-CE] विक्रमेण महातेजा हनूमान् कपिसत्तमः ॥ १ ॥  
+[^non-baroDa-CE] अद्वारेण महावीर्यः प्राकारमवपुप्लुवे ।  
 निशि लङ्कां महासत्त्वो विवेश कपिकुञ्जरः ॥ २ ॥
 _________________
 स निर्जित्य पुरीं श्रेष्ठां लङ्कां तां कामरूपिणीम् ।  
-विक्रमेण महातेजा हनूमान् कपिसत्तमः ॥
+[^non-baroDa-CE] विक्रमेण महातेजा हनूमान् कपिसत्तमः ॥
 अद्वारेण महाबाहुः प्राकारमभिपुप्लुवे ।  
 निशि लङ्कां महासत्त्वो विवेश कपिकुञ्जरः ॥
 </details>
@@ -140,7 +140,7 @@ should always place one's left foot first into the city.
 <details><summary>मूलम्</summary>
 
 प्रविश्य नगरीं लङ्कां कपिराजहितङ्करः ।  
-चक्रेऽथ पादं सव्यं च शत्रूणां स तु मूर्धनि ॥ ३ ॥
+[^non-baroDa-CE] चक्रेऽथ पादं सव्यं च शत्रूणां स तु मूर्धनि ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -488,8 +488,8 @@ As well as with _vardhamāna_ palaces (_vardhamānagṛhaiḥ_) splendidly adorn
 
 <details><summary>मूलम्</summary>
 
-भवनाद् भवनं गच्छन् ददर्श कपिकुञ्जरः ॥ ९ ॥  
-विविधाकृतिरूपाणि भवनानि ततस्ततः ।  
+[^non-baroDa-CE] भवनाद् भवनं गच्छन् ददर्श कपिकुञ्जरः ॥ ९ ॥  
+[^non-baroDa-CE] विविधाकृतिरूपाणि भवनानि ततस्ततः ।  
 शुश्राव रुचिरं गीतं त्रिस्थानस्वरभूषितम् ॥ १० ॥
 _________________
 भवनाद्भवनं गच्छन् ददर्श पवनात्मजः ।
@@ -689,7 +689,7 @@ Hanūmān hears rākṣasas chanting mantras and Vedic recitations alongside pra
 
 <details><summary>मूलम्</summary>
 
-शुश्राव जपतां तत्र मन्त्रान् रक्षोगृहेषु वै ।  
+[^non-baroDa-CE] शुश्राव जपतां तत्र मन्त्रान् रक्षोगृहेषु वै ।  
 स्वाध्यायनिरतांश्चैव यातुधानान् ददर्श सः ॥ १३ ॥
 </details>
 
@@ -905,10 +905,10 @@ Surveying soldiers of every build and weapon, adorned with garlands and roaming 
 <details><summary>मूलम्</summary>
 
 नातिस्थूलान् नातिकृशान् नातिदीर्घातिह्रस्वकान् ।  
-नातिगौरान् नातिकृष्णान्नातिकुब्जान्न वामनान् ॥ १९ ॥
+[^non-baroDa-CE] नातिगौरान् नातिकृष्णान्नातिकुब्जान्न वामनान् ॥ १९ ॥
 _________________
 नातिस्थूलान्नातिकृशान्नातिदिर्घातिह्रस्वकान् ।  
-नातिगौरान्नातिकृष्णान्नातिकुब्जान्न वामनान् ॥
+[^non-baroDa-CE] नातिगौरान्नातिकृष्णान्नातिकुब्जान्न वामनान् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -984,7 +984,7 @@ He saw warriors who were neither overly stout nor overly lean (_nātisthūlān n
 <details><summary>मूलम्</summary>
 
 विरूपान् बहुरूपांश्च सुरूपांश्च सुवर्चसः ।  
-ध्वजिनः पताकिनश्चैव ददर्श विविधायुधान् ॥ २० ॥
+[^non-baroDa-CE] ध्वजिनः पताकिनश्चैव ददर्श विविधायुधान् ॥ २० ॥
 _________________
 विरूपान् बहुरूपांश्च सुरूपांश्च सुवर्चसः ।  
 ध्वजीन् पताकिनश्चैव ददर्श विविधायुधान् ॥
@@ -1044,7 +1044,7 @@ As well as warriors armed with javelins and trees (_śaktivṛkṣāyudhān_), b
 <details><summary>मूलम्</summary>
 
 स्रग्विणस्त्वनुलिप्तांश्च वराभरणभूषितान् ।  
-नानावेषसमायुक्तान् यथास्वैरचरान् बहून् ॥ २२ ॥
+[^non-baroDa-CE] नानावेषसमायुक्तान् यथास्वैरचरान् बहून् ॥ २२ ॥
 _________________
 स्रग्विणस्त्वनुलिप्तांश्च वराभरणभूषितान् ।  
 नानावेषसमायुक्तान् यथास्वैरगतान् बहून् ॥
@@ -1075,7 +1075,7 @@ And multitudes wearing garlands (_sragviṇaḥ_), anointed with unguents (_anul
 
 तीक्ष्णशूलधरांश्चैव वज्रिणश्च महाबलान् ।  
 शतसाहस्रमव्यग्रमारक्षं मध्यमं कपिः ॥ २३ ॥  
-रक्षोऽधिपतिनिर्दिष्टं ददर्शान्तःपुराग्रतः ।
+[^non-baroDa-CE] रक्षोऽधिपतिनिर्दिष्टं ददर्शान्तःपुराग्रतः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1161,9 +1161,9 @@ Beholding Rāvaṇa's mountain-crested citadel ringed by lotus-filled moats, ram
 
 <details><summary>मूलम्</summary>
 
-स तदा तद् गृहं दृष्ट्वा महाहाटकतोरणम् ॥ २४ ॥  
-राक्षसेन्द्रस्य विख्यातमद्रिमूर्ध्नि प्रतिष्ठितम् ।  
-पुण्डरीकावतंसाभिः परिखाभिः समावृतम् ॥ २५ ॥  
+[^non-baroDa-CE] स तदा तद् गृहं दृष्ट्वा महाहाटकतोरणम् ॥ २४ ॥  
+[^non-baroDa-CE] राक्षसेन्द्रस्य विख्यातमद्रिमूर्ध्नि प्रतिष्ठितम् ।  
+[^non-baroDa-CE] पुण्डरीकावतंसाभिः परिखाभिः समावृतम् ॥ २५ ॥  
 प्राकारावृतमत्यन्तं ददर्श स महाकपिः ।  
 त्रिविष्टपनिभं दिव्यं दिव्यनादविनादितम् ॥ २६ ॥
 </details>
@@ -1255,7 +1255,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-रक्षितं सुमहावीर्यैर्यातुधानैः सहस्रशः ।  
+[^non-baroDa-CE] रक्षितं सुमहावीर्यैर्यातुधानैः सहस्रशः ।  
 राक्षसाधिपतेर्गुप्तमाविवेश गृहं कपिः ॥ २९ ॥
 </details>
 
@@ -1341,15 +1341,15 @@ The monkey entered the secret palace of the lord of _rākṣasas_ (_rākṣasād
 
 <details><summary>मूलम्</summary>
 
-स हेमजाम्बूनदचक्रवालं  
-महार्हमुक्तामणि भूषितान्तम् ।  
-परार्घ्यकालागुरुचन्दनार्हं  
-स रावणान्तःपुरमाविवेश ॥ ३० ॥
+[^non-baroDa-CE] स हेमजाम्बूनदचक्रवालं  
+[^non-baroDa-CE] महार्हमुक्तामणि भूषितान्तम् ।  
+[^non-baroDa-CE] परार्घ्यकालागुरुचन्दनार्हं  
+[^non-baroDa-CE] स रावणान्तःपुरमाविवेश ॥ ३० ॥
 _________________
-सहेमजाम्बूनदचक्रवालं  
-महार्हमुक्तामणिभूषितान्तम् ।  
+[^non-baroDa-CE] सहेमजाम्बूनदचक्रवालं  
+[^non-baroDa-CE] महार्हमुक्तामणिभूषितान्तम् ।  
 परार्ध्यकालागरुचन्दनाक्षं  
-स रावणान्तःपुरमाविवेश ॥
+[^non-baroDa-CE] स रावणान्तःपुरमाविवेश ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1379,3 +1379,5 @@ _________________
 He entered Rāvaṇa&#x27;s inner palace (_rāvaṇāntaḥpuram āviveśa_), which had an encircling wall of gold and _jāmbūnada_ (_hemajāmbūnadacakravālam_), whose interior was decked with priceless pearls and gems (_mahārhamuktāmaṇibhūṣitāntam_), and which was worthy of the finest black _aguru_ and sandalwood (_parārghyakālāgurucandanārham_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -48,7 +48,7 @@ Embracing the battle-scarred Sugrīva upon his return, Rāma affectionately chid
 <details><summary>मूलम्</summary>
 
 अथ तस्मिन् निमित्तानि दृष्ट्वा लक्ष्मणपूर्वजः ।  
-सुग्रीवं सम्परिष्वज्य रामो वचनमब्रवीत् ॥ १ ॥
+[^non-baroDa-CE] सुग्रीवं सम्परिष्वज्य रामो वचनमब्रवीत् ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -101,8 +101,8 @@ Introducing the forty-first _sarga_ on the investment of Laṅkā (अथ लङ
 
 <details><summary>मूलम्</summary>
 
-असम्मन्त्र्य मया सार्धं तदिदं साहसं कृतम् ।  
-एवं साहसयुक्तानि न कुर्वन्ति जनेश्वराः ॥ २ ॥
+[^non-baroDa-CE] असम्मन्त्र्य मया सार्धं तदिदं साहसं कृतम् ।  
+[^non-baroDa-CE] एवं साहसयुक्तानि न कुर्वन्ति जनेश्वराः ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -153,8 +153,8 @@ is not seemly in a king."
 
 <details><summary>मूलम्</summary>
 
-संशये स्थाप्य मां चेदं बलं चेमं विभीषणम् ।  
-कष्टं कृतमिदं वीर साहसं साहसप्रिय ॥ ३ ॥
+[^non-baroDa-CE] संशये स्थाप्य मां चेदं बलं चेमं विभीषणम् ।  
+[^non-baroDa-CE] कष्टं कृतमिदं वीर साहसं साहसप्रिय ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -209,8 +209,8 @@ Having placed me, this army, and this Vibhīṣaṇa in suspense (_saṃśaye_),
 
 इदानीं मा कृथा वीर एवंविधमरिन्दम ।  
 त्वयि किञ्चित्समापन्ने किं कार्यं सीतया मम ॥ ४ ॥  
-भरतेन महाबाहो लक्ष्मणेन यवीयसा ।  
-शत्रुघ्नेन च शत्रुघ्न स्वशरीरेण वा पुनः ॥ ५ ॥
+[^non-baroDa-CE] भरतेन महाबाहो लक्ष्मणेन यवीयसा ।  
+[^non-baroDa-CE] शत्रुघ्नेन च शत्रुघ्न स्वशरीरेण वा पुनः ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -280,11 +280,11 @@ Declaring that he would have abandoned his life after fulfilling his vows had Su
 
 <details><summary>मूलम्</summary>
 
-त्वयि चानागते पूर्वमिति मे निश्चिता मतिः ।  
-जानतश्चापि ते वीर्यं महेन्द्रवरुणोपम ॥ ६ ॥  
-हत्वाहं रावणं युद्धे सपुत्रबलवाहनम् ।  
-अभिषिच्य च लङ्कायां विभीषणमथापि च ॥ ७ ॥  
-भरते राज्यमारोप्य त्यक्ष्ये देहं महाबल ।
+[^non-baroDa-CE] त्वयि चानागते पूर्वमिति मे निश्चिता मतिः ।  
+[^non-baroDa-CE] जानतश्चापि ते वीर्यं महेन्द्रवरुणोपम ॥ ६ ॥  
+[^non-baroDa-CE] हत्वाहं रावणं युद्धे सपुत्रबलवाहनम् ।  
+[^non-baroDa-CE] अभिषिच्य च लङ्कायां विभीषणमथापि च ॥ ७ ॥  
+[^non-baroDa-CE] भरते राज्यमारोप्य त्यक्ष्ये देहं महाबल ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -364,9 +364,9 @@ _____________
 
 <details><summary>मूलम्</summary>
 
-तमेवं वादिनं रामं सुग्रीवः प्रत्यभाषत ॥ ८ ॥  
-तव भार्यापहर्तारं दृष्ट्वा राघव रावणम् ।  
-मर्षयामि कथं वीर जानन् विक्रममात्मनः ॥ ९ ॥
+[^non-baroDa-CE] तमेवं वादिनं रामं सुग्रीवः प्रत्यभाषत ॥ ८ ॥  
+[^non-baroDa-CE] तव भार्यापहर्तारं दृष्ट्वा राघव रावणम् ।  
+[^non-baroDa-CE] मर्षयामि कथं वीर जानन् विक्रममात्मनः ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -406,7 +406,7 @@ On Sugrīva's reply, _Tilaka_ and _Śiromaṇi_ gloss विक्रमम् a
 
 <details><summary>मूलम्</summary>
 
-इत्येवं वादिनं वीरमभिनन्द्य च राघवः ।  
+[^non-baroDa-CE] इत्येवं वादिनं वीरमभिनन्द्य च राघवः ।  
 लक्ष्मणं लक्ष्मिसम्पन्नमिदं वचनमब्रवीत् ॥ १० ॥
 </details>
 
@@ -1029,8 +1029,8 @@ Crows, hawks, and vultures wheel low in flight (_nīcaiḥ paripatanti ca_), and
 
 <details><summary>मूलम्</summary>
 
-शैलैः शूलैश्च खड्गैश्च विमुक्तैः कपिराक्षसैः ।  
-भविष्यत्यावृता भूमिर्मांसशोणितकर्दमा ॥ २१ ॥
+[^non-baroDa-CE] शैलैः शूलैश्च खड्गैश्च विमुक्तैः कपिराक्षसैः ।  
+[^non-baroDa-CE] भविष्यत्यावृता भूमिर्मांसशोणितकर्दमा ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3208,7 +3208,7 @@ Reading the four epithets of 6.41.61cd as vocatives inside Rāma's message, Govi
 नागानामथ यक्षाणां राज्ञां च रजनीचर ॥ ६२ ॥  
 यच्च पापं कृतं मोहादवलिप्तेन राक्षस ।  
 नूनं ते विगतो दर्पः स्वयम्भूवरदानजः ।  
-तस्य पापस्य सम्प्राप्ता व्युष्टिरद्य दुरासदा ॥ ६३ ॥
+[^non-baroDa-CE] तस्य पापस्य सम्प्राप्ता व्युष्टिरद्य दुरासदा ॥ ६३ ॥
 _________________
 ऋषीणां देवतानां च गन्धर्वाप्स रसां तथा ।  
 नागानामथ यक्षाणां राज्ञां च रजनीचर ॥
@@ -4603,7 +4603,7 @@ Treating the four massive Rākṣasas clinging to his two arms as effortlessly a
 
 <details><summary>मूलम्</summary>
 
-तस्योत्पतनवेगेन निर्धूतास्तत्र राक्षसाः ।  
+[^non-baroDa-CE] तस्योत्पतनवेगेन निर्धूतास्तत्र राक्षसाः ।  
 भूमौ निपतिताः सर्वे राक्षसेन्द्रस्य पश्यतः ॥ ८७ ॥
 </details>
 
@@ -4656,7 +4656,7 @@ Shaken loose by the force of his upward bound (_tasyotpatana-vegena_), all those
 <details><summary>मूलम्</summary>
 
 ततः प्रासादशिखरं शैलशृङ्गमिवोन्नतम् ।  
-चक्राम राक्षसेन्द्रस्य वालिपुत्रः प्रतापवान् ॥ ८८ ॥
+[^non-baroDa-CE] चक्राम राक्षसेन्द्रस्य वालिपुत्रः प्रतापवान् ॥ ८८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4716,10 +4716,10 @@ Treading upon the lofty spire of Rāvaṇa's palace (प्रासादशि
 <details><summary>मूलम्</summary>
 
 पफाल च तदाक्रान्तं दशग्रीवस्य पश्यतः ।  
-पुरा हिमवतः शृङ्गं वज्रेणेव विदारितम् ॥ ८९ ॥
+[^non-baroDa-CE] पुरा हिमवतः शृङ्गं वज्रेणेव विदारितम् ॥ ८९ ॥
 _________________
 पफाल च पदाक्रान्तं दशग्रीवस्य पश्यतः ।  
-पुरा हिमवतः शृङ्गं वज्रेणेव विदारितम् ॥
+[^non-baroDa-CE] पुरा हिमवतः शृङ्गं वज्रेणेव विदारितम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4838,8 +4838,8 @@ Having crushed the palace spire and shouted his own name aloud (आत्मन�
 
 <details><summary>मूलम्</summary>
 
-व्यथयन् राक्षसान् सर्वान् हर्षयंश्चापि वानरान् ।  
-स वानराणां मध्ये तु रामपार्श्वमुपागतः ॥ ९१ ॥
+[^non-baroDa-CE] व्यथयन् राक्षसान् सर्वान् हर्षयंश्चापि वानरान् ।  
+[^non-baroDa-CE] स वानराणां मध्ये तु रामपार्श्वमुपागतः ॥ ९१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5180,7 +5180,7 @@ Both _Tilaka_ and _Bhūṣaṇa_ note the _vṛddhi_ in अक्षौहिण
 
 कृत्स्नं हि कपिभिर्व्याप्तं प्राकारपरिखान्तरम् ।  
 ददृशू राक्षसा दीनाः प्राकारं वानरीकृतम् ।  
-हाहाकारमकुर्वन्त राक्षसा भयमागताः ॥ ९८ ॥
+[^non-baroDa-CE] हाहाकारमकुर्वन्त राक्षसा भयमागताः ॥ ९८ ॥
 _________________
 कृत्स्नं हि कपिभिर्व्याप्तं प्राकार परिखान्तरम् ।  
 ददृशू राक्षसा दीनाः प्राकारं वानरीकृतम् ।  
@@ -5303,3 +5303,4 @@ When that most terrifying uproar broke out, the warriors of the Rākṣasa king�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

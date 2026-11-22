@@ -63,7 +63,7 @@ That valiant Ten-Necked One (_daśagrīvaḥ ... vīryavān_), together with his
 <details><summary>मूलम्</summary>
 
 उदिते विमले चन्द्रे तुल्यपर्वतवर्चसि ।  
-प्रसुप्तं सुमहत् सैन्यं नानाप्रहरणायुधम् ॥ २ ॥
+[^non-baroDa-CE] प्रसुप्तं सुमहत् सैन्यं नानाप्रहरणायुधम् ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -93,7 +93,7 @@ When the stainless moon had risen (_udite vimale candre_), matching the mountain
 
 <details><summary>मूलम्</summary>
 
-रावणस्तु महावीर्यो निषण्णः शैलमूर्धनि ।  
+[^non-baroDa-CE] रावणस्तु महावीर्यो निषण्णः शैलमूर्धनि ।  
 स ददर्श गुणांस्तत्र चन्द्रपादपशोभितान् ॥ ३ ॥
 </details>
 
@@ -130,17 +130,17 @@ But Rāvaṇa of mighty prowess (_rāvaṇas tu mahāvīryaḥ_), seated upon th
 
 कर्णिकारवनैर्दीप्तैः कदम्बबकुलैस्तथा ।  
 पद्मिनीभिश्च फुल्लाभिर्मन्दाकिन्या जलैरपि ॥ ४ ॥  
-चम्पकाशोकपुन्नागमन्दारतरुभिस्तथा ।  
-चूतपाटललोध्रैश्च प्रियङ्‍ग्वर्जुनकेतकैः ॥ ५ ॥  
+[^non-baroDa-CE] चम्पकाशोकपुन्नागमन्दारतरुभिस्तथा ।  
+[^non-baroDa-CE] चूतपाटललोध्रैश्च प्रियङ्‍ग्वर्जुनकेतकैः ॥ ५ ॥  
 तगरैर्नारिकेलैश्च प्रियालपनसैस्तथा ।  
-एतैरन्यैश्च तरुभिरुद्भासितवनान्तरे ॥ ६ ॥
+[^non-baroDa-CE] एतैरन्यैश्च तरुभिरुद्भासितवनान्तरे ॥ ६ ॥
 _________________
 कर्णिकारवनैर्दीप्तैः कदम्बवकुलैस्तथा ।  
 पद्मिनीभिश्च फुल्लाभिर्मन्दाकिन्या जलैरपि ॥
-चम्पकाशोकपुन्नाग मन्दार तरुभिस्तथा ।  
-चूतपाटललोध्रैश्च प्रियङ्ग्वर्जुनकेतकैः ॥
+[^non-baroDa-CE] चम्पकाशोकपुन्नाग मन्दार तरुभिस्तथा ।  
+[^non-baroDa-CE] चूतपाटललोध्रैश्च प्रियङ्ग्वर्जुनकेतकैः ॥
 तगरैर्नारीकेलैश्च प्रियालपनसैस्तथा ।  
-एतैरन्यैश्च तरुभिरुद्भासितवनान्तरे ॥
+[^non-baroDa-CE] एतैरन्यैश्च तरुभिरुद्भासितवनान्तरे ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -182,8 +182,8 @@ Enchanted by love-struck kinnaras, reveling vidyādharas, bell-like apsaras chor
 
 <details><summary>मूलम्</summary>
 
-किन्नरा मदनेनार्ता रक्ता मधुरकण्ठिनः ।  
-समं सम्प्रजगुर्यत्र मनस्तुष्टिविवर्धनम् ॥ ७ ॥
+[^non-baroDa-CE] किन्नरा मदनेनार्ता रक्ता मधुरकण्ठिनः ।  
+[^non-baroDa-CE] समं सम्प्रजगुर्यत्र मनस्तुष्टिविवर्धनम् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -213,11 +213,11 @@ Where lovesick kinnaras (_kinnarā madanenārtāḥ_), impassioned and sweet-voi
 
 <details><summary>मूलम्</summary>
 
-विद्याधरा मदक्षीबा मदरक्तान्तलोचनाः ।  
-योषिद्भिः सह सङ्क्रान्ताश्चिक्रीडुर्जहृषुश्च वै ॥ ८ ॥
+[^non-baroDa-CE] विद्याधरा मदक्षीबा मदरक्तान्तलोचनाः ।  
+[^non-baroDa-CE] योषिद्भिः सह सङ्क्रान्ताश्चिक्रीडुर्जहृषुश्च वै ॥ ८ ॥
 _________________
 विद्याधरा महाक्षीबा मदरक्तान्तलोचनाः ।  
-योषिद्भिः सह सङ्क्रान्ताश्चिक्रीडुर्जहृषुश्च वै ॥
+[^non-baroDa-CE] योषिद्भिः सह सङ्क्रान्ताश्चिक्रीडुर्जहृषुश्च वै ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -417,7 +417,7 @@ In that very interval (_etasminn antare tatra_), adorned with celestial ornament
 
 <details><summary>मूलम्</summary>
 
-दिव्यचन्दनलिप्ताङ्गी मन्दारकृतमूर्धजा ।  
+[^non-baroDa-CE] दिव्यचन्दनलिप्ताङ्गी मन्दारकृतमूर्धजा ।  
 दिव्योत्सवकृतारम्भा दिव्यपुष्पविभूषिता ॥ १५ ॥
 </details>
 
@@ -448,8 +448,8 @@ Her limbs anointed with celestial sandalpaste (_divya-candana-liptāṅgī_), he
 
 <details><summary>मूलम्</summary>
 
-चक्षुर्मनोहरं पीनं मेखलादामभूषितम् ।  
-समुद्वहन्ती जघनं रतिप्राभृतमुत्तमम् ॥ १६ ॥
+[^non-baroDa-CE] चक्षुर्मनोहरं पीनं मेखलादामभूषितम् ।  
+[^non-baroDa-CE] समुद्वहन्ती जघनं रतिप्राभृतमुत्तमम् ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1084,10 +1084,10 @@ Then Daśagrīva spoke to her (_athābravīd daśagrīvaḥ_) as she stood with 
 <details><summary>मूलम्</summary>
 
 अथाब्रवीद् दशग्रीवश्चरणाधोमुखीं स्थिताम् ।  
-रोमहर्षमनुप्राप्तां दृष्टमात्रेण तां तदा ॥ ३० ॥
+[^non-baroDa-CE] रोमहर्षमनुप्राप्तां दृष्टमात्रेण तां तदा ॥ ३० ॥
 _________________
 अथाब्रवीद्दशग्रीवश्चरणाधोमुखिं स्थिताम् ।  
-रोमहर्षमनुप्राप्तां दृष्टमात्रेण तां तदा ॥
+[^non-baroDa-CE] रोमहर्षमनुप्राप्तां दृष्टमात्रेण तां तदा ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1354,7 +1354,7 @@ Thus addressed, Daśagrīva replied as though with courtesy (_pratyuvāca vinīt
 <details><summary>मूलम्</summary>
 
 माननीयो मम त्वं हि पालनीया तथास्मि ते ।  
-एवमुक्तो दशग्रीवः प्रत्युवाच विनीतवत् ॥ ३८ ॥
+[^non-baroDa-CE] एवमुक्तो दशग्रीवः प्रत्युवाच विनीतवत् ॥ ३८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1386,12 +1386,12 @@ Thus addressed, Daśagrīva replied as though with courtesy (_pratyuvāca vinīt
 <details><summary>मूलम्</summary>
 
 स्नुषास्मि यदवोचस्त्वमेकपत्नीष्वयं क्रमः ।  
-देवलोकस्थितिरियं सुराणां शाश्वती मता ॥ ३९ ॥  
-पतिरप्सरसां नास्ति न चैकस्त्रीपरिग्रहः ।
+[^non-baroDa-CE] देवलोकस्थितिरियं सुराणां शाश्वती मता ॥ ३९ ॥  
+[^non-baroDa-CE] पतिरप्सरसां नास्ति न चैकस्त्रीपरिग्रहः ।
 _________________
 स्नुषास्मि यदवोचस्त्वमेकपत्नीष्वयं क्रमः ।  
 देवलोकस्थितिरयं सुराणां शाश्वती मता ॥  
-पतिरप्सरसां नास्ति न चैकस्त्रीपरिग्रहः ।
+[^non-baroDa-CE] पतिरप्सरसां नास्ति न चैकस्त्रीपरिग्रहः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1421,7 +1421,7 @@ Having spoken thus, that rākṣasa (_sa tāṃ rakṣaḥ_) forced her down upo
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा स तां रक्षो निवेश्य च शिलातले ॥ ४० ॥  
+[^non-baroDa-CE] एवमुक्त्वा स तां रक्षो निवेश्य च शिलातले ॥ ४० ॥  
 कामभोगाभिसंरक्तो मैथुनायोपचक्रमे ।
 </details>
 
@@ -1483,8 +1483,8 @@ The ends of her tresses tossed and disheveled (_lulitākula-keśāntā_), her te
 
 <details><summary>मूलम्</summary>
 
-लुलिताकुलकेशान्ता करवेपितपल्लवा ॥ ४२ ॥  
-पवनेनावधूतेव लता कुसुमशालिनी ।
+[^non-baroDa-CE] लुलिताकुलकेशान्ता करवेपितपल्लवा ॥ ४२ ॥  
+[^non-baroDa-CE] पवनेनावधूतेव लता कुसुमशालिनी ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1976,7 +1976,7 @@ Knowing the entire plight of the worlds (_jñātvā loka-gatiṃ sarvām_) and t
 
 पितामहमुखाश्चैव सर्वे देवाः प्रहर्षिताः ॥ ५७ ॥  
 ज्ञात्वा लोकगतिं सर्वां तस्य मृत्युं च रक्षसः ।  
-ऋषयः पितरश्चैव प्रीतिमापुरनुत्तमाम् ॥ ५८ ॥
+[^non-baroDa-CE] ऋषयः पितरश्चैव प्रीतिमापुरनुत्तमाम् ॥ ५८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2033,8 +2033,8 @@ Knowing the entire plight of the worlds (_jñātvā loka-gatiṃ sarvām_) and t
 
 <details><summary>मूलम्</summary>
 
-तेन नीताः स्त्रियः प्रीतिमापुः सर्वाः पतिव्रताः ।  
-नलकूबरनिर्मुक्तं शापं श्रुत्वा मनःप्रियम् ॥ ६० ॥
+[^non-baroDa-CE] तेन नीताः स्त्रियः प्रीतिमापुः सर्वाः पतिव्रताः ।  
+[^non-baroDa-CE] नलकूबरनिर्मुक्तं शापं श्रुत्वा मनःप्रियम् ॥ ६० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2059,3 +2059,4 @@ Knowing the entire plight of the worlds (_jñātvā loka-gatiṃ sarvām_) and t
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -88,8 +88,8 @@ While she, though possessing a lord and protector (_nāthavatyām_), was putting
 
 <details><summary>मूलम्</summary>
 
-तेन तत्र प्रणादेन दुःखितः स महीपतिः ।  
-चिच्छेद जीविते श्रद्धां धर्मे यशसि चात्मनः ॥ २ ॥  
+[^non-baroDa-CE] तेन तत्र प्रणादेन दुःखितः स महीपतिः ।  
+[^non-baroDa-CE] चिच्छेद जीविते श्रद्धां धर्मे यशसि चात्मनः ॥ २ ॥  
 स निःश्वस्योष्णमैक्ष्वाकस्तां भार्यामिदमब्रवीत् ।  
 कैकेयि कुशचीरेण न सीता गन्तुमर्हति ॥ ३ ॥
 </details>
@@ -162,8 +162,8 @@ not deserve to go with a robe made of Kusa grass."
 
 <details><summary>मूलम्</summary>
 
-सुकुमारी च बाला च सततं च सुखोचिता ।  
-नेयं वनस्य योग्येति सत्यमाह गुरुर्मम ॥ ४ ॥
+[^non-baroDa-CE] सुकुमारी च बाला च सततं च सुखोचिता ।  
+[^non-baroDa-CE] नेयं वनस्य योग्येति सत्यमाह गुरुर्मम ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -211,8 +211,8 @@ comforts, is not fit for forest-life"
 <details><summary>मूलम्</summary>
 
 इयं हि कस्यापि करोति किञ्चित्  
-तपस्विनी राजवरस्य पुत्री ।  
-या चीरमासाद्य जनस्य मध्ये  
+[^non-baroDa-CE] तपस्विनी राजवरस्य पुत्री ।  
+[^non-baroDa-CE] या चीरमासाद्य जनस्य मध्ये  
 स्थिता विसञ्ज्ञा श्रमणीव काचित् ॥ ५ ॥
 </details>
 
@@ -271,15 +271,15 @@ men?"
 
 <details><summary>मूलम्</summary>
 
-चीराण्यपास्याज्जनकस्य कन्या  
-नेयं प्रतिज्ञा मम दत्तपूर्वा ।  
-यथासुखं गच्छतु राजपुत्री  
-वनं समग्रा सह सर्वरत्नैः ॥ ६ ॥
+[^non-baroDa-CE] चीराण्यपास्याज्जनकस्य कन्या  
+[^non-baroDa-CE] नेयं प्रतिज्ञा मम दत्तपूर्वा ।  
+[^non-baroDa-CE] यथासुखं गच्छतु राजपुत्री  
+[^non-baroDa-CE] वनं समग्रा सह सर्वरत्नैः ॥ ६ ॥
 _________________
 चीराण्यपास्वाज्जनकस्य कन्या  
-नेयं प्रतिज्ञा मम दत्तपूर्वा ।  
-यथासुखं गच्छतु राजपुत्री  
-वनं समग्रा सह सर्वरत्नैः ॥
+[^non-baroDa-CE] नेयं प्रतिज्ञा मम दत्तपूर्वा ।  
+[^non-baroDa-CE] यथासुखं गच्छतु राजपुत्री  
+[^non-baroDa-CE] वनं समग्रा सह सर्वरत्नैः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -345,14 +345,14 @@ Comparing Kaikeyī’s overreaching malice to the bamboo flower that consumes th
 
 <details><summary>मूलम्</summary>
 
-अजीवनार्हेण मया नृशंसा  
-कृता प्रतिज्ञा नियमेन तावत् ।  
-त्वया हि बाल्यात् प्रतिपन्नमेतत्  
-तन्मा दहेद् वेणुमिवात्मपुष्पम् ॥ ७ ॥
+[^non-baroDa-CE] अजीवनार्हेण मया नृशंसा  
+[^non-baroDa-CE] कृता प्रतिज्ञा नियमेन तावत् ।  
+[^non-baroDa-CE] त्वया हि बाल्यात् प्रतिपन्नमेतत्  
+[^non-baroDa-CE] तन्मा दहेद् वेणुमिवात्मपुष्पम् ॥ ७ ॥
 _________________
-अजीवनार्हेण मया नृशंसा  
-कृता प्रतिज्ञा नियमेन तावत् ।  
-त्वया हि बाल्यात्प्रतिपन्नमेतत्  
+[^non-baroDa-CE] अजीवनार्हेण मया नृशंसा  
+[^non-baroDa-CE] कृता प्रतिज्ञा नियमेन तावत् ।  
+[^non-baroDa-CE] त्वया हि बाल्यात्प्रतिपन्नमेतत्  
 तन्मां दहेद्वेणुमिवात्मपुष्पम् ॥
 </details>
 
@@ -451,7 +451,7 @@ the bamboo dies after flowering. Like other grass, bamboo flowers are tiny and b
 <details><summary>मूलम्</summary>
 
 रामेण यदि ते पापे किञ्चित्कृतमशोभनम् ।  
-अपकारः क इह ते वैदेह्या दर्शितोऽधमे ॥ ८ ॥
+[^non-baroDa-CE] अपकारः क इह ते वैदेह्या दर्शितोऽधमे ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -497,8 +497,8 @@ was displayed to you here by Seetha? Oh, mean woman!"
 
 <details><summary>मूलम्</summary>
 
-मृगीवोत्फुल्लनयना मृदुशीला मनस्विनी ।  
-अपकारं कमिव ते करोति जनकात्मजा ॥ ९ ॥
+[^non-baroDa-CE] मृगीवोत्फुल्लनयना मृदुशीला मनस्विनी ।  
+[^non-baroDa-CE] अपकारं कमिव ते करोति जनकात्मजा ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -605,8 +605,8 @@ is there for you in further doing these wretched, sinful acts too.
 
 <details><summary>मूलम्</summary>
 
-प्रतिज्ञातं मया तावत् त्वयोक्तं देवि शृण्वता ।  
-रामं यदभिषेकाय त्वमिहागतमब्रवीः ॥ ११ ॥
+[^non-baroDa-CE] प्रतिज्ञातं मया तावत् त्वयोक्तं देवि शृण्वता ।  
+[^non-baroDa-CE] रामं यदभिषेकाय त्वमिहागतमब्रवीः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -658,8 +658,8 @@ was acceded by me, Oh queen!"
 
 <details><summary>मूलम्</summary>
 
-तत्त्वेतत् समतिक्रम्य निरयं गन्तुमिच्छसि ।  
-मैथिलीमपि या हि त्वमीक्षसे चीरवासिनीम् ॥ १२ ॥
+[^non-baroDa-CE] तत्त्वेतत् समतिक्रम्य निरयं गन्तुमिच्छसि ।  
+[^non-baroDa-CE] मैथिलीमपि या हि त्वमीक्षसे चीरवासिनीम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -844,7 +844,7 @@ nature and will not accuse you.
 
 <details><summary>मूलम्</summary>
 
-पुत्रशोकं यथा नर्च्छेत् त्वया पूज्येन पूजिता ।  
+[^non-baroDa-CE] पुत्रशोकं यथा नर्च्छेत् त्वया पूज्येन पूजिता ।  
 मां हि सञ्चिन्तयन्ती सा त्वयि जीवेत् तपस्विनी ॥ १६ ॥
 </details>
 
@@ -955,3 +955,4 @@ such a grief for her son, thinking of me alone and she will draw breath in you."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

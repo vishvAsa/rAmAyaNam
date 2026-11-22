@@ -319,8 +319,8 @@ Extolling the duty of reciprocating Rāma's prior kindness, Sugrīva directs Śa
 
 <details><summary>मूलम्</summary>
 
-अर्थिनः कार्यनिर्वृत्तिमकर्तुरपि यश्चरेत् ।  
-तस्य स्यात् सफलं जन्म किं पुनः पूर्वकारिणः ॥ ७ ॥
+[^non-baroDa-CE] अर्थिनः कार्यनिर्वृत्तिमकर्तुरपि यश्चरेत् ।  
+[^non-baroDa-CE] तस्य स्यात् सफलं जन्म किं पुनः पूर्वकारिणः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -846,8 +846,8 @@ Passing beyond that lord of mountains, you ought next to go to the great mountai
 
 <details><summary>मूलम्</summary>
 
-ततो देवसखो नाम पर्वतः पतगालयः ।  
-नानापक्षिसमाकीर्णो विविधद्रुमभूषितः ॥ १७ ॥
+[^non-baroDa-CE] ततो देवसखो नाम पर्वतः पतगालयः ।  
+[^non-baroDa-CE] नानापक्षिसमाकीर्णो विविधद्रुमभूषितः ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3352,3 +3352,4 @@ Then, your purpose fulfilled (_kṛtārthāḥ_), united with your kinsmen (_sab
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

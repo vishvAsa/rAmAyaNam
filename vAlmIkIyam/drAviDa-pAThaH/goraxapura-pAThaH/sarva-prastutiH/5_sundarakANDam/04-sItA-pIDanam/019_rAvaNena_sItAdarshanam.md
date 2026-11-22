@@ -220,10 +220,10 @@ fallen down on earth being torn from the tree.
 <details><summary>मूलम्</summary>
 
 मलमण्डनदिग्धाङ्गीं मण्डनार्हाममण्डनाम् ।  
-मृणाली पङ्कदिग्धेव विभाति न विभाति च ॥ ६ ॥
+[^non-baroDa-CE] मृणाली पङ्कदिग्धेव विभाति न विभाति च ॥ ६ ॥
 _________________
 मलमण्डनदिग्धाङ्गीं मण्डनार्हाममण्डिताम् ।  
-मृणाली पङ्कदिग्धेव विभाति न विभाति च ॥
+[^non-baroDa-CE] मृणाली पङ्कदिग्धेव विभाति न विभाति च ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1021,3 +1021,4 @@ Rāvaṇa sought to entice (_pralobhayāmāsa_) unto his own destruction (_vadh�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

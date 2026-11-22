@@ -588,14 +588,14 @@ As that great-souled warrior set forth, many heroes of mighty strength, rejoicin
 <details><summary>मूलम्</summary>
 
 गजस्कन्धगताः केचित् केचित् परमवाजिभिः ।  
-व्याघ्रवृश्चिकमार्जारखरोष्ट्रैश्च भुजङ्गमैः ॥ ११ ॥  
-वराहैः श्वापदैः सिंहैर्जम्बुकैः पर्वतोपमैः ।  
-काकहंसमयूरैश्च राक्षसा भीमविक्रमाः ॥ १२ ॥
+[^non-baroDa-CE] व्याघ्रवृश्चिकमार्जारखरोष्ट्रैश्च भुजङ्गमैः ॥ ११ ॥  
+[^non-baroDa-CE] वराहैः श्वापदैः सिंहैर्जम्बुकैः पर्वतोपमैः ।  
+[^non-baroDa-CE] काकहंसमयूरैश्च राक्षसा भीमविक्रमाः ॥ १२ ॥
 _________________
 गजस्कन्धगताः केचित्केचित् परमवाजिभिः ।  
 व्याघ्रवृश्चिकमार्जारैः खरोष्ट्रैश्च भुजङ्गमैः ॥
-वराहैःश्वापदैःसिंहैर्जम्बुकैः पर्वतोपमैः ।  
-काकहंस मयूरैश्च राक्षसा भीमविक्रमाः ॥
+[^non-baroDa-CE] वराहैःश्वापदैःसिंहैर्जम्बुकैः पर्वतोपमैः ।  
+[^non-baroDa-CE] काकहंस मयूरैश्च राक्षसा भीमविक्रमाः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -636,7 +636,7 @@ Armed with diverse weapons and shaded by a moon-white parasol, Indrajit marches 
 <details><summary>मूलम्</summary>
 
 प्रासपट्टिशनिस्त्रिंशपरश्वधगदाधराः ।  
-भुशुण्डिमुद‍्गरायष्टिशतघ्नीपरिघायुधाः ॥ १३ ॥
+[^non-baroDa-CE] भुशुण्डिमुद‍्गरायष्टिशतघ्नीपरिघायुधाः ॥ १३ ॥
 _________________
 प्रासपट्टिशनिस्त्रिंशपरश्वधगदाधराः ।  
 भुशुण्डीमुद्गरायष्टिशतघ्नी परिघायुधाः ॥
@@ -700,7 +700,7 @@ Bearing lances, _paṭṭiśa_ spears, swords, battle-axes, and maces (_prāsapa
 <details><summary>मूलम्</summary>
 
 स शङ्खनिनदैः पूर्णैर्भेरीणां चापि निःस्वनैः ।  
-जगाम त्रिदशेन्द्रारिराजिं वेगेन वीर्यवान् ॥ १४ ॥
+[^non-baroDa-CE] जगाम त्रिदशेन्द्रारिराजिं वेगेन वीर्यवान् ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1547,8 +1547,8 @@ Having offered oblations to the fire, that warrior of fire-bright splendor (_pā
 
 <details><summary>मूलम्</summary>
 
-ततो हयरथाकीर्णं पताकाध्वजशोभितम् ।  
-निर्ययौ राक्षसबलं नर्दमानं युयुत्सया ॥ ३० ॥
+[^non-baroDa-CE] ततो हयरथाकीर्णं पताकाध्वजशोभितम् ।  
+[^non-baroDa-CE] निर्ययौ राक्षसबलं नर्दमानं युयुत्सया ॥ ३० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1602,7 +1602,7 @@ Exhorting his night-stalkers to fight joyfully, the invisible Indrajit rains dow
 <details><summary>मूलम्</summary>
 
 ते शरैर्बहुभिश्चित्रैस्तीक्ष्णवेगैरलङ्कृतैः ।  
-तोमरैरङ्कुशैश्चापि वानराञ्जघ्नुराहवे ॥ ३१ ॥
+[^non-baroDa-CE] तोमरैरङ्कुशैश्चापि वानराञ्जघ्नुराहवे ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1655,7 +1655,7 @@ With many variegated arrows of keen velocity and fine ornament (_śarair bahubhi
 <details><summary>मूलम्</summary>
 
 रावणिस्तु सुसङ्क्रुद्धस्तान् निरीक्ष्य निशाचरान् ।  
-हृष्टा भवन्तो युध्यन्तु वानराणां जिघांसया ॥ ३२ ॥
+[^non-baroDa-CE] हृष्टा भवन्तो युध्यन्तु वानराणां जिघांसया ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1700,7 +1700,7 @@ Beholding those night-stalkers (_niśācarān_), the fiercely wrathful son of R�
 <details><summary>मूलम्</summary>
 
 ततस्ते राक्षसाः सर्वे गर्जन्तो जयकाङ्क्षिणः ।  
-अभ्यवर्षंस्ततो घोरं वानरान् शरवृष्टिभिः ॥ ३३ ॥
+[^non-baroDa-CE] अभ्यवर्षंस्ततो घोरं वानरान् शरवृष्टिभिः ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1751,7 +1751,7 @@ Then all those Rākṣasas, roaring and eager for victory (_jayakāṅkṣiṇa�
 
 <details><summary>मूलम्</summary>
 
-स तु नालीकनाराचैर्गदाभिर्मुसलैरपि ।  
+[^non-baroDa-CE] स तु नालीकनाराचैर्गदाभिर्मुसलैरपि ।  
 रक्षोभिः संवृतः सङ्ख्ये वानरान् विचकर्ष ह ॥ ३४ ॥
 </details>
 
@@ -1819,8 +1819,8 @@ Surrounded by Rākṣasas (_rakṣobhiḥ saṃvṛtaḥ_) in the fray, he [Indr
 
 <details><summary>मूलम्</summary>
 
-ते वध्यमानाः समरे वानराः पादपायुधाः ।  
-अभ्यवर्षन्त सहसा रावणिं शैलपादपैः ॥ ३५ ॥
+[^non-baroDa-CE] ते वध्यमानाः समरे वानराः पादपायुधाः ।  
+[^non-baroDa-CE] अभ्यवर्षन्त सहसा रावणिं शैलपादपैः ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1865,8 +1865,8 @@ Being slaughtered in battle, those Vānaras whose weapons were trees (_pādapāy
 
 <details><summary>मूलम्</summary>
 
-इन्द्रजित् तु तदा क्रुद्धो महातेजा महाबलः ।  
-वानराणां शरीराणि व्यधमद् रावणात्मजः ॥ ३६ ॥
+[^non-baroDa-CE] इन्द्रजित् तु तदा क्रुद्धो महातेजा महाबलः ।  
+[^non-baroDa-CE] वानराणां शरीराणि व्यधमद् रावणात्मजः ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1925,8 +1925,8 @@ Piercing scores of Vānaras with single shafts and blazing like the sun with arr
 
 <details><summary>मूलम्</summary>
 
-शरेणैकेन च हरीन् नव पञ्च च सप्त च ।  
-बिभेद समरे क्रुद्धो राक्षसान् सम्प्रहर्षयन् ॥ ३७ ॥
+[^non-baroDa-CE] शरेणैकेन च हरीन् नव पञ्च च सप्त च ।  
+[^non-baroDa-CE] बिभेद समरे क्रुद्धो राक्षसान् सम्प्रहर्षयन् ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1972,7 +1972,7 @@ Enraged in battle, he pierced with a single arrow (_śareṇaikena_) nine, five,
 <details><summary>मूलम्</summary>
 
 स शरैः सूर्यसङ्काशैः शातकुम्भविभूषणैः ।  
-वानरान् समरे वीरः प्रममाथ सुदुर्जयः ॥ ३८ ॥
+[^non-baroDa-CE] वानरान् समरे वीरः प्रममाथ सुदुर्जयः ॥ ३८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2017,7 +2017,7 @@ With arrows gleaming like the sun and adorned with gold (_śātakumbhavibhūṣa
 
 <details><summary>मूलम्</summary>
 
-ते भिन्नगात्राः समरे वानराः शरपीडिताः ।  
+[^non-baroDa-CE] ते भिन्नगात्राः समरे वानराः शरपीडिताः ।  
 पेतुर्मथितसङ्कल्पाः सुरैरिव महासुराः ॥ ३९ ॥
 </details>
 
@@ -2063,7 +2063,7 @@ Tormented by arrows in battle with their limbs cleft (_bhinnagātrāḥ_), those
 
 <details><summary>मूलम्</summary>
 
-ते तपन्तमिवादित्यं घोरैर्बाणगभस्तिभिः ।  
+[^non-baroDa-CE] ते तपन्तमिवादित्यं घोरैर्बाणगभस्तिभिः ।  
 अभ्यधावन्त सङ्क्रुद्धाः संयुगे वानरर्षभाः ॥ ४० ॥
 </details>
 
@@ -2115,8 +2115,8 @@ Filled with wrath in the fray, those bulls among Vānaras (_vānararṣabhāḥ_
 
 <details><summary>मूलम्</summary>
 
-ततस्तु वानराः सर्वे भिन्नदेहा विचेतसः ।  
-व्यथिता विद्रवन्ति स्म रुधिरेण समुक्षिताः ॥ ४१ ॥
+[^non-baroDa-CE] ततस्तु वानराः सर्वे भिन्नदेहा विचेतसः ।  
+[^non-baroDa-CE] व्यथिता विद्रवन्ति स्म रुधिरेण समुक्षिताः ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2161,8 +2161,8 @@ Then all the Vānaras, their bodies rent (_bhinnadehāḥ_) and their senses bew
 
 <details><summary>मूलम्</summary>
 
-रामस्यार्थे पराक्रम्य वानरास्त्यक्तजीविताः ।  
-नर्दन्तस्तेऽनिवृत्तास्तु समरे सशिलायुधाः ॥ ४२ ॥
+[^non-baroDa-CE] रामस्यार्थे पराक्रम्य वानरास्त्यक्तजीविताः ।  
+[^non-baroDa-CE] नर्दन्तस्तेऽनिवृत्तास्तु समरे सशिलायुधाः ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2222,7 +2222,7 @@ Dispelling the Vānaras' massive volley of trees and boulders, Indrajit pierces 
 <details><summary>मूलम्</summary>
 
 ते द्रुमैः पर्वताग्रैश्च शिलाभिश्च प्लवङ्गमाः ।  
-अभ्यवर्षन्त समरे रावणिं समवस्थिताः ॥ ४३ ॥
+[^non-baroDa-CE] अभ्यवर्षन्त समरे रावणिं समवस्थिताः ॥ ४३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2267,7 +2267,7 @@ Standing firm in battle (_samavasthitāḥ_), those leaping monkeys (_plavaṃga
 
 <details><summary>मूलम्</summary>
 
-तं द्रुमाणां शिलानां च वर्षं प्राणहरं महत् ।  
+[^non-baroDa-CE] तं द्रुमाणां शिलानां च वर्षं प्राणहरं महत् ।  
 व्यपोहत महातेजा रावणिः समितिञ्जयः ॥ ४४ ॥
 </details>
 
@@ -2314,7 +2314,7 @@ That mighty-splendored son of Rāvaṇa, victorious in battle (_samitiṃjayaḥ
 <details><summary>मूलम्</summary>
 
 ततः पावकसङ्काशैः शरैराशीविषोपमैः ।  
-वानराणामनीकानि बिभेद समरे प्रभुः ॥ ४५ ॥
+[^non-baroDa-CE] वानराणामनीकानि बिभेद समरे प्रभुः ॥ ४५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2359,8 +2359,8 @@ Then with fire-bright arrows resembling venomous serpents (_pāvakasaṃkāśai�
 
 <details><summary>मूलम्</summary>
 
-अष्टादशशरैस्तीक्ष्णैः स विद्‍ध्वा गन्धमादनम् ।  
-विव्याध नवभिश्चैव नलं दूरादवस्थितम् ॥ ४६ ॥
+[^non-baroDa-CE] अष्टादशशरैस्तीक्ष्णैः स विद्‍ध्वा गन्धमादनम् ।  
+[^non-baroDa-CE] विव्याध नवभिश्चैव नलं दूरादवस्थितम् ॥ ४६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2411,8 +2411,8 @@ Having pierced Gandhamādana with eighteen sharp arrows (_aṣṭādaśaśarais 
 
 <details><summary>मूलम्</summary>
 
-सप्तभिस्तु महावीर्यो मैन्दं मर्मविदारणैः ।  
-पञ्चभिर्विशिखैश्चैव गजं विव्याध संयुगे ॥ ४७ ॥
+[^non-baroDa-CE] सप्तभिस्तु महावीर्यो मैन्दं मर्मविदारणैः ।  
+[^non-baroDa-CE] पञ्चभिर्विशिखैश्चैव गजं विव्याध संयुगे ॥ ४७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2458,9 +2458,9 @@ With seven vitals-cleaving shafts (_marmavidāraṇaiḥ_), that warrior of migh
 
 <details><summary>मूलम्</summary>
 
-जाम्बवन्तं तु दशभिर्नीलं त्रिंशद्भिरेव च ।  
-सुग्रीवमृषभं चैव सोऽङ्गदं द्विविदं तथा ॥ ४८ ॥  
-घोरैर्दत्तवरैस्तीक्ष्णैर्निष्प्राणानकरोत् तदा ।
+[^non-baroDa-CE] जाम्बवन्तं तु दशभिर्नीलं त्रिंशद्भिरेव च ।  
+[^non-baroDa-CE] सुग्रीवमृषभं चैव सोऽङ्गदं द्विविदं तथा ॥ ४८ ॥  
+[^non-baroDa-CE] घोरैर्दत्तवरैस्तीक्ष्णैर्निष्प्राणानकरोत् तदा ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2523,10 +2523,10 @@ Rendering the foremost Vānara leaders breathless with boon-endowed shafts and c
 
 <details><summary>मूलम्</summary>
 
-अन्यानपि तथा मुख्यान् वानरान् बहुभिः शरैः ॥ ४९ ॥  
+[^non-baroDa-CE] अन्यानपि तथा मुख्यान् वानरान् बहुभिः शरैः ॥ ४९ ॥  
 अर्दयामास सङ्क्रुद्धः कालाग्निरिव मूर्च्छितः ।
 _________________
-अन्यानपि तथा मुख्यान्वानरान्बहुभिः शरैः ॥  
+[^non-baroDa-CE] अन्यानपि तथा मुख्यान्वानरान्बहुभिः शरैः ॥  
 अर्दयामास सङ्क्रुद्धः कालाग्निरिव मूर्छितः ।
 </details>
 
@@ -2579,7 +2579,7 @@ world, tormented other chiefs of monkeys too with many arrows.
 <details><summary>मूलम्</summary>
 
 स शरैः सूर्यसङ्काशैः सुमुक्तैः शीघ्रगामिभिः ॥ ५० ॥  
-वानराणामनीकानि निर्ममन्थ महारणे ।
+[^non-baroDa-CE] वानराणामनीकानि निर्ममन्थ महारणे ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2630,8 +2630,8 @@ Enraged like the intensified fire of universal dissolution (_kālāgnir iva mūr
 
 <details><summary>मूलम्</summary>
 
-आकुलां वानरीं सेनां शरजालेन पीडिताम् ॥ ५१ ॥  
-हृष्टः स परया प्रीत्या ददर्श क्षतजोक्षिताम् ।
+[^non-baroDa-CE] आकुलां वानरीं सेनां शरजालेन पीडिताम् ॥ ५१ ॥  
+[^non-baroDa-CE] हृष्टः स परया प्रीत्या ददर्श क्षतजोक्षिताम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2677,11 +2677,11 @@ In that great battle he churned (_nirmamantha_) the divisions of the Vānaras; a
 
 <details><summary>मूलम्</summary>
 
-पुनरेव महातेजा राक्षसेन्द्रात्मजो बली ॥ ५२ ॥  
-संसृज्य बाणवर्षं च शस्त्रवर्षं च दारुणम् ।  
-ममर्द वानरानीकं परितस्त्विन्द्रजिद् बली ॥ ५३ ॥
+[^non-baroDa-CE] पुनरेव महातेजा राक्षसेन्द्रात्मजो बली ॥ ५२ ॥  
+[^non-baroDa-CE] संसृज्य बाणवर्षं च शस्त्रवर्षं च दारुणम् ।  
+[^non-baroDa-CE] ममर्द वानरानीकं परितस्त्विन्द्रजिद् बली ॥ ५३ ॥
 _________________
-पुनरेव महातेजा राक्षसेन्द्रात्मजो बली ॥
+[^non-baroDa-CE] पुनरेव महातेजा राक्षसेन्द्रात्मजो बली ॥
 संसृज्य बाणवर्षं च शस्त्र वर्षञ्च दारुणम् ।  
 ममर्द वानरानीकं परितस्त्विन्द्रजिद् बलि ॥
 </details>
@@ -4061,8 +4061,8 @@ _Tilaka_ glosses विशस्तौ as afflicted (पीडितौ) and _Ś
 रामं च सङ्ख्ये सह लक्ष्मणेन ।  
 विषादयित्वा सहसा विवेश  
 पुरीं दशग्रीवभुजाभिगुप्ताम् ।  
-संस्तूयमानः स तु यातुधानैः  
-पित्रे च सर्वं हृषितोऽभ्युवाच ॥ ७४ ॥
+[^non-baroDa-CE] संस्तूयमानः स तु यातुधानैः  
+[^non-baroDa-CE] पित्रे च सर्वं हृषितोऽभ्युवाच ॥ ७४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4113,3 +4113,4 @@ Having thus overwhelmed the Vānara army and Rāma together with Lakṣmaṇa in
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

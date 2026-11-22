@@ -1600,7 +1600,7 @@ Bathed in the golden lustre of Meru-like trees that chime with natural bells, Ha
 
 लताप्रतानैर्बहुभिः पर्णैश्च बहुभिर्वृताम् ॥ ३६ ॥  
 काञ्चनीं शिंशपामेकां ददर्श स महाकपिः ।  
-वृतां हेममयीभिस्तु वेदिकाभिः समन्ततः ॥ ३७ ॥
+[^non-baroDa-CE] वृतां हेममयीभिस्तु वेदिकाभिः समन्ततः ॥ ३७ ॥
 _________________
 काञ्चनीं शिंशपामेकां ददर्श हनुमान् कपिः ।
 वृतां हेममयाभिस्तु वेदिकाभिः समन्ततः ।
@@ -2475,3 +2475,4 @@ Reflecting thus (_evaṃ tu matvā_), great-souled Hanumān (_hanumān mahātmā
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -94,7 +94,7 @@ Then, shaking his head (_śiraḥ kampayitvā_) and gazing repeatedly (_muhur d�
 <details><summary>मूलम्</summary>
 
 भगवन् पूर्वमप्येषा लङ्काऽऽसीत् पिशिताशिनाम् ।  
-श्रुत्वेदं भगवद्वाक्यं जातो मे विस्मयः परः ॥ ३ ॥
+[^non-baroDa-CE] श्रुत्वेदं भगवद्वाक्यं जातो मे विस्मयः परः ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -932,7 +932,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 रेमे तु सार्धं पतिना विस्मृत्य सुतमात्मजम् ।  
-उत्सृष्टस्तु तदा गर्भो घनशब्दसमस्वनः ॥ २५ ॥
+[^non-baroDa-CE] उत्सृष्टस्तु तदा गर्भो घनशब्दसमस्वनः ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -963,7 +963,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 तयोत्सृष्टः स तु शिशुः शरदर्कसमद्युतिः ।  
-निधायास्ये स्वयं मुष्टिं रुरोद शनकैस्तदा ॥ २६ ॥
+[^non-baroDa-CE] निधायास्ये स्वयं मुष्टिं रुरोद शनकैस्तदा ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -993,8 +993,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-ततो वृषभमास्थाय पार्वत्या सहितः शिवः ।  
-वायुमार्गेण गच्छन् वै शुश्राव रुदितस्वनम् ॥ २७ ॥
+[^non-baroDa-CE] ततो वृषभमास्थाय पार्वत्या सहितः शिवः ।  
+[^non-baroDa-CE] वायुमार्गेण गच्छन् वै शुश्राव रुदितस्वनम् ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1167,3 +1167,4 @@ At Pārvatī’s prompting, Śiva makes the abandoned infant immortal, instantly
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

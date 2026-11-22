@@ -140,8 +140,8 @@ _________________
 <details><summary>मूलम्</summary>
 
 श्रावस्तीति पुरी रम्या श्राविता च लवस्य ह ।  
-अयोध्यां विजनां कृत्वा राघवो भरतस्तथा ॥ ५ ॥  
-स्वर्गस्य गमनोद्योगं कृतवन्तौ महारथौ ।  
+[^non-baroDa-CE] अयोध्यां विजनां कृत्वा राघवो भरतस्तथा ॥ ५ ॥  
+[^non-baroDa-CE] स्वर्गस्य गमनोद्योगं कृतवन्तौ महारथौ ।  
 एवं सर्वं निवेद्याशु शत्रुघ्नाय महात्मने ॥ ६ ॥  
 विरेमुस्ते ततो दूतास्त्वर राजेति चाब्रुवन् ।
 </details>
@@ -510,8 +510,8 @@ At the very close of those words of his (_tasya vākyasya vākyānte_), shapeshi
 
 <details><summary>मूलम्</summary>
 
-सुग्रीवं ते पुरस्कृत्य सर्व एव समागताः ।  
-तं रामं द्रष्टुमनसः स्वर्गायाभिमुखं स्थितम् ॥ १८ ॥
+[^non-baroDa-CE] सुग्रीवं ते पुरस्कृत्य सर्व एव समागताः ।  
+[^non-baroDa-CE] तं रामं द्रष्टुमनसः स्वर्गायाभिमुखं स्थितम् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -617,8 +617,8 @@ Sons of the gods, sons of the sages, and sons of the gandharvas as well (_deva-p
 
 <details><summary>मूलम्</summary>
 
-एतस्मिन्नन्तरे रामं सुग्रीवोऽपि महाबलः ।  
-प्रणम्य विधिवद् वीरं विज्ञापयितुमुद्यतः ॥ २२ ॥
+[^non-baroDa-CE] एतस्मिन्नन्तरे रामं सुग्रीवोऽपि महाबलः ।  
+[^non-baroDa-CE] प्रणम्य विधिवद् वीरं विज्ञापयितुमुद्यतः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -648,8 +648,8 @@ In the midst of this (_etasminn antare_), the mighty Sugrīva too bowed duly bef
 
 <details><summary>मूलम्</summary>
 
-अभिषिच्याङ्गदं वीरमागतोऽस्मि नरेश्वर ।  
-तवानुगमने राजन् विद्धि मां कृतनिश्चयम् ॥ २३ ॥
+[^non-baroDa-CE] अभिषिच्याङ्गदं वीरमागतोऽस्मि नरेश्वर ।  
+[^non-baroDa-CE] तवानुगमने राजन् विद्धि मां कृतनिश्चयम् ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -679,7 +679,7 @@ In the midst of this (_etasminn antare_), the mighty Sugrīva too bowed duly bef
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् वचनं श्रुत्वा रामो रमयतां वरः ।  
+[^non-baroDa-CE] तस्य तद् वचनं श्रुत्वा रामो रमयतां वरः ।  
 वानरेन्द्रमथोवाच मैत्रं तस्यानुचिन्तयन् ॥ २४ ॥
 </details>
 
@@ -719,7 +719,7 @@ Assuring Sugrīva that he will never ascend to the supreme abode without him, R�
 <details><summary>मूलम्</summary>
 
 सखे शृणुष्व सुग्रीव न त्वयाहं विनाकृतः ।  
-गच्छेयं देवलोकं वा परमं वा पदं महत् ॥ २५ ॥
+[^non-baroDa-CE] गच्छेयं देवलोकं वा परमं वा पदं महत् ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -749,7 +749,7 @@ Assuring Sugrīva that he will never ascend to the supreme abode without him, R�
 
 <details><summary>मूलम्</summary>
 
-तैरेवमुक्तः काकुत्स्थो बाढमित्यब्रवीत् स्मयन् ।  
+[^non-baroDa-CE] तैरेवमुक्तः काकुत्स्थो बाढमित्यब्रवीत् स्मयन् ।  
 विभीषणमथोवाच राक्षसेन्द्रं महायशाः ॥ २६ ॥
 </details>
 
@@ -811,8 +811,8 @@ Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (
 
 <details><summary>मूलम्</summary>
 
-यावच्चन्द्रश्च सूर्यश्च यावत् तिष्ठति मेदिनी ।  
-यावच्च मत्कथा लोके तावद् राज्यं तवास्त्विह ॥ २८ ॥
+[^non-baroDa-CE] यावच्चन्द्रश्च सूर्यश्च यावत् तिष्ठति मेदिनी ।  
+[^non-baroDa-CE] यावच्च मत्कथा लोके तावद् राज्यं तवास्त्विह ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -875,7 +875,7 @@ Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (
 <details><summary>मूलम्</summary>
 
 किञ्चान्यद् वक्तुमिच्छामि राक्षसेन्द्र महाबल ।  
-आराधय जगन्नाथमिक्ष्वाकुकुलदैवतम् ॥ ३० ॥  
+[^non-baroDa-CE] आराधय जगन्नाथमिक्ष्वाकुकुलदैवतम् ॥ ३० ॥  
 आराधनीयमनिशं देवैरपि सवासवैः ।
 </details>
 
@@ -914,8 +914,8 @@ Charging Hanumān to keep his vow to live joyfully on earth as long as Rāma’s
 
 <details><summary>मूलम्</summary>
 
-तथेति प्रतिजग्राह रामवाक्यं विभीषणः ॥ ३१ ॥  
-राजा राक्षसमुख्यानां राघवाज्ञामनुस्मरन् ।
+[^non-baroDa-CE] तथेति प्रतिजग्राह रामवाक्यं विभीषणः ॥ ३१ ॥  
+[^non-baroDa-CE] राजा राक्षसमुख्यानां राघवाज्ञामनुस्मरन् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1007,7 +1007,7 @@ Thus addressed by the great-souled Rāghava, Hanumān was filled with supreme jo
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तु हनुमान् राघवेण महात्मना ॥ ३४ ॥  
+[^non-baroDa-CE] एवमुक्तस्तु हनुमान् राघवेण महात्मना ॥ ३४ ॥  
 वाक्यं विज्ञापयामास परं हर्षमवाप च ।
 </details>
 
@@ -1038,8 +1038,8 @@ Thus addressed by the great-souled Rāghava, Hanumān was filled with supreme jo
 
 <details><summary>मूलम्</summary>
 
-यावत् तव कथा लोके विचरिष्यति पावनी ॥ ३५ ॥  
-तावत् स्थास्यामि मेदिन्यां तवाज्ञामनुपालयन् ।
+[^non-baroDa-CE] यावत् तव कथा लोके विचरिष्यति पावनी ॥ ३५ ॥  
+[^non-baroDa-CE] तावत् स्थास्यामि मेदिन्यां तवाज्ञामनुपालयन् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1071,8 +1071,8 @@ And having spoken likewise to the aged Jāmbavān, son of Brahmā (_jāmbavanta�
 <details><summary>मूलम्</summary>
 
 जाम्बवन्तं तथोक्त्वा तु वृद्धं ब्रह्मसुतं तदा ॥ ३६ ॥  
-मैन्दं च द्विविदं चैव पञ्च जाम्बवता सह ।  
-यावत् कलिश्च सम्प्राप्तस्तावज्जीवत सर्वदा ॥ ३७ ॥
+[^non-baroDa-CE] मैन्दं च द्विविदं चैव पञ्च जाम्बवता सह ।  
+[^non-baroDa-CE] यावत् कलिश्च सम्प्राप्तस्तावज्जीवत सर्वदा ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1123,3 +1123,4 @@ Having spoken thus to them, Kākutstha addressed all those remaining bears and m
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

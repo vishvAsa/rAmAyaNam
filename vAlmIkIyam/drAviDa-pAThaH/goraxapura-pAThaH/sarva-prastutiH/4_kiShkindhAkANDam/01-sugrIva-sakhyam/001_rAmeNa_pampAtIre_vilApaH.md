@@ -192,11 +192,11 @@ There, upon merely beholding that [lake], his senses trembled with delight (_har
 
 <details><summary>मूलम्</summary>
 
-सौमित्रे शोभते पम्पा वैदूर्यविमलोदका ।  
-फुल्लपद्मोत्पलवती शोभिता विविधैर्द्रुमैः ॥ ३ ॥
+[^non-baroDa-CE] सौमित्रे शोभते पम्पा वैदूर्यविमलोदका ।  
+[^non-baroDa-CE] फुल्लपद्मोत्पलवती शोभिता विविधैर्द्रुमैः ॥ ३ ॥
 _________________
 सौमित्रे शोभते पम्पा वैढूर्यविमलोदका ।  
-फुल्लपद्मोत्पलवती शोभिता विविधैर्द्रुमैः ॥
+[^non-baroDa-CE] फुल्लपद्मोत्पलवती शोभिता विविधैर्द्रुमैः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -378,8 +378,8 @@ Yet mental agonies (_ādhayaḥ_) sorely torment me, already scorched by grief (
 
 <details><summary>मूलम्</summary>
 
-शोकार्तस्यापि मे पम्पा शोभते चित्रकानना ।  
-व्यवकीर्णा बहुविधैः पुष्पैः शीतोदका शिवा ॥ ६ ॥
+[^non-baroDa-CE] शोकार्तस्यापि मे पम्पा शोभते चित्रकानना ।  
+[^non-baroDa-CE] व्यवकीर्णा बहुविधैः पुष्पैः शीतोदका शिवा ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -444,7 +444,7 @@ Rāma admires Pampā's flower-carpeted meadows, vine-embraced treetops, and the 
 <details><summary>मूलम्</summary>
 
 नलिनैरपि सञ्छन्ना ह्यत्यर्थशुभदर्शना ।  
-सर्पव्यालानुचरिता मृगद्विजसमाकुला ॥ ७ ॥
+[^non-baroDa-CE] सर्पव्यालानुचरिता मृगद्विजसमाकुला ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -558,10 +558,10 @@ This dark-blue and yellow-green sward (_nīlapītaṃ śādvalam_) shines all th
 
 <details><summary>मूलम्</summary>
 
-पुष्पभारसमृद्धानि शिखराणि समन्ततः ।  
-लताभिः पुष्पिताग्राभिरुपगूढानि सर्वतः ॥ ९ ॥
+[^non-baroDa-CE] पुष्पभारसमृद्धानि शिखराणि समन्ततः ।  
+[^non-baroDa-CE] लताभिः पुष्पिताग्राभिरुपगूढानि सर्वतः ॥ ९ ॥
 _________________
-पुष्पभारसमृद्धानि शिखराणि समन्ततः ।  
+[^non-baroDa-CE] पुष्पभारसमृद्धानि शिखराणि समन्ततः ।  
 लताभिः पुष्टिताग्राभिरुपगूढानि सर्वतः ॥
 </details>
 
@@ -792,8 +792,8 @@ Rāma describes the sandal-cool spring breeze playing with fallen and budding bl
 
 <details><summary>मूलम्</summary>
 
-पतितैः पतमानैश्च पादपस्थैश्च मारुतः ।  
-कुसुमैः पश्य सौमित्रे क्रीडतीव समन्ततः ॥ १३ ॥
+[^non-baroDa-CE] पतितैः पतमानैश्च पादपस्थैश्च मारुतः ।  
+[^non-baroDa-CE] कुसुमैः पश्य सौमित्रे क्रीडतीव समन्ततः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -851,8 +851,8 @@ Behold, O Saumitri, how on every side the breeze (_mārutaḥ_) seems to sport (
 
 <details><summary>मूलम्</summary>
 
-विक्षिपन् विविधाः शाखां नगानां कुसुमोत्कटाः ।  
-मारुतश्चलितस्थानैः षट्पदैरनुगीयते ॥ १४ ॥
+[^non-baroDa-CE] विक्षिपन् विविधाः शाखां नगानां कुसुमोत्कटाः ।  
+[^non-baroDa-CE] मारुतश्चलितस्थानैः षट्पदैरनुगीयते ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -972,8 +972,8 @@ Issuing from the mountain caves (_śailakandara-niṣkrāntaḥ_), the wind seem
 
 <details><summary>मूलम्</summary>
 
-तेन विक्षिपतात्यर्थं पवनेन समन्ततः ।  
-अमी संसक्तशाखाग्रा ग्रथिता इव पादपाः ॥ १६ ॥
+[^non-baroDa-CE] तेन विक्षिपतात्यर्थं पवनेन समन्ततः ।  
+[^non-baroDa-CE] अमी संसक्तशाखाग्रा ग्रथिता इव पादपाः ॥ १६ ॥
 _________________
 तेन विक्षिपतात्यर्थं पननेन समन्ततः ।  
 अमी संसक्तशाखाग्र ग्रथिता इव पादपाः ॥
@@ -1031,7 +1031,7 @@ Tossed violently on all sides by that wind, these trees with their branch-tips i
 <details><summary>मूलम्</summary>
 
 स एव सुखसंस्पर्शो वाति चन्दनशीतलः ।  
-गन्धमभ्यवहन् पुण्यं श्रमापनयनोऽनिलः ॥ १७ ॥
+[^non-baroDa-CE] गन्धमभ्यवहन् पुण्यं श्रमापनयनोऽनिलः ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1108,7 +1108,7 @@ That very wind (_anilaḥ_), pleasant to the touch and cool as sandal-paste (_ca
 
 <details><summary>मूलम्</summary>
 
-अमी पवनविक्षिप्ता विनदन्तीव पादपाः ।  
+[^non-baroDa-CE] अमी पवनविक्षिप्ता विनदन्तीव पादपाः ।  
 षट्पदैरनुकूजद्भिर्वनेषु मधुगन्धिषु ॥ १८ ॥
 </details>
 
@@ -1219,7 +1219,7 @@ Upon the lovely mountain plateaus (_giriprastheṣu_), the peaks with their cont
 <details><summary>मूलम्</summary>
 
 पुष्पसञ्छन्नशिखरा मारुतोत्क्षेपचञ्चलाः ।  
-अमी मधुकरोत्तंसाः प्रगीता इव पादपाः ॥ २० ॥
+[^non-baroDa-CE] अमी मधुकरोत्तंसाः प्रगीता इव पादपाः ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1491,10 +1491,10 @@ Recalling how Sītā once delighted in the gallinule's cry at their hermitage, R
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वैतस्य पुरा शब्दमाश्रमस्था मम प्रिया ।  
-मामाहूय प्रमुदिताः परमं प्रत्यनन्दत ॥ २५ ॥
+[^non-baroDa-CE] श्रुत्वैतस्य पुरा शब्दमाश्रमस्था मम प्रिया ।  
+[^non-baroDa-CE] मामाहूय प्रमुदिताः परमं प्रत्यनन्दत ॥ २५ ॥
 _________________
-श्रुत्वैतस्य पुरा शब्दमाश्रमस्था मम प्रिया ।  
+[^non-baroDa-CE] श्रुत्वैतस्य पुरा शब्दमाश्रमस्था मम प्रिया ।  
 मामाहूय प्रमुदिता परमं प्रत्यनन्दत॥
 </details>
 
@@ -1546,10 +1546,10 @@ Formerly, while dwelling at our hermitage (_āśramasthā_), my beloved, upon he
 
 <details><summary>मूलम्</summary>
 
-एवं विचित्राः पतगा नानारावविराविणः ।  
-वृक्षगुल्मलताः पश्य सम्पतन्ति समन्ततः ॥ २६ ॥
+[^non-baroDa-CE] एवं विचित्राः पतगा नानारावविराविणः ।  
+[^non-baroDa-CE] वृक्षगुल्मलताः पश्य सम्पतन्ति समन्ततः ॥ २६ ॥
 _________________
-एवं विचित्राः पतगा नानारावविराविणः ।  
+[^non-baroDa-CE] एवं विचित्राः पतगा नानारावविराविणः ।  
 ऋक्षगुल्मलताः पश्य सम्पतन्ति समन्ततः ॥
 </details>
 
@@ -1650,13 +1650,13 @@ Female birds mingled with their mates (_vimisrāḥ puṃbhiḥ_), gladdened by 
 
 <details><summary>मूलम्</summary>
 
-अस्याः कूले प्रमुदिताः सङ्घशः शकुनास्त्विह ।  
-दात्यूहरतिविक्रन्दैः पुंस्कोकिलरुतैरपि ॥ २८ ॥  
-स्वनन्ति पादपाश्चेमे ममानङ्गप्रदीपकाः ।
+[^non-baroDa-CE] अस्याः कूले प्रमुदिताः सङ्घशः शकुनास्त्विह ।  
+[^non-baroDa-CE] दात्यूहरतिविक्रन्दैः पुंस्कोकिलरुतैरपि ॥ २८ ॥  
+[^non-baroDa-CE] स्वनन्ति पादपाश्चेमे ममानङ्गप्रदीपकाः ।
 _________________
-अस्याः कूले प्रमुदिताः सङ्घशः शकुनास्त्विह ।  
+[^non-baroDa-CE] अस्याः कूले प्रमुदिताः सङ्घशः शकुनास्त्विह ।  
 दात्यूहरुतविक्रन्दैः पुंस्कोकिलरुतैरपि ॥  
-स्वनन्ति पादपाश्चेमे ममानङ्ग प्रदीपकाः ॥
+[^non-baroDa-CE] स्वनन्ति पादपाश्चेमे ममानङ्ग प्रदीपकाः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1742,10 +1742,10 @@ And here upon the bank of this [Pampā], birds in flocks (_saṅghaśaḥ śakun
 
 <details><summary>मूलम्</summary>
 
-अशोकस्तबकाङ्गारः षट्पदस्वननिःस्वनः ॥ २९ ॥  
-मां हि पल्लवताम्रार्चिर्वसन्ताग्निः प्रधक्ष्यति ।
+[^non-baroDa-CE] अशोकस्तबकाङ्गारः षट्पदस्वननिःस्वनः ॥ २९ ॥  
+[^non-baroDa-CE] मां हि पल्लवताम्रार्चिर्वसन्ताग्निः प्रधक्ष्यति ।
 _________________
-अशोकस्तबकाङ्गारः षट्पदस्वननिःस्वनः ॥  
+[^non-baroDa-CE] अशोकस्तबकाङ्गारः षट्पदस्वननिःस्वनः ॥  
 मां हि पल्लवताम्रार्चिर्वसन्ताग्निः प्रधक्षति ।
 </details>
 
@@ -1859,8 +1859,8 @@ And these trees resound, kindling passion in me (_mamānaṅga-pradīpakāḥ_);
 
 <details><summary>मूलम्</summary>
 
-नहि तां सूक्ष्मपक्ष्माक्षीं सुकेशीं मृदुभाषिणीम् ॥ ३० ॥  
-अपश्यतो मे सौमित्रे जीवितेऽस्ति प्रयोजनम् ।
+[^non-baroDa-CE] नहि तां सूक्ष्मपक्ष्माक्षीं सुकेशीं मृदुभाषिणीम् ॥ ३० ॥  
+[^non-baroDa-CE] अपश्यतो मे सौमित्रे जीवितेऽस्ति प्रयोजनम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1920,11 +1920,11 @@ Consumed by the fire of grief and tormented by the cruel Caitra breeze while Sī
 
 <details><summary>मूलम्</summary>
 
-अयं हि रुचिरस्तस्याः कालो रुचिरकाननः ॥ ३१ ॥  
-कोकिलाकुलसीमान्तो दयिताया ममानघ ।
+[^non-baroDa-CE] अयं हि रुचिरस्तस्याः कालो रुचिरकाननः ॥ ३१ ॥  
+[^non-baroDa-CE] कोकिलाकुलसीमान्तो दयिताया ममानघ ।
 _________________
 अयं हि रुचिकरस्तस्याः कालो रुचिरकाननः ॥  
-कोकिलाकुलसीमान्तो दयिताया ममानघ ।
+[^non-baroDa-CE] कोकिलाकुलसीमान्तो दयिताया ममानघ ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1975,8 +1975,8 @@ and Lakshmana, similarly enchanting is this vernal season to her... [4-1-31b, 32
 
 <details><summary>मूलम्</summary>
 
-मन्मथायाससम्भूतो वसन्तगुणवर्धितः ॥ ३२ ॥  
-अयं मां धक्ष्यति क्षिप्रं शोकाग्निर्नचिरादिव ।
+[^non-baroDa-CE] मन्मथायाससम्भूतो वसन्तगुणवर्धितः ॥ ३२ ॥  
+[^non-baroDa-CE] अयं मां धक्ष्यति क्षिप्रं शोकाग्निर्नचिरादिव ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2030,8 +2030,8 @@ will swiftly burn me down in no time... [4-1-32]
 
 <details><summary>मूलम्</summary>
 
-अपश्यतस्तां वनितां पश्यतो रुचिरान् द्रुमान् ॥ ३३ ॥  
-ममायमात्मप्रभवो भूयस्त्वमुपयास्यति ।
+[^non-baroDa-CE] अपश्यतस्तां वनितां पश्यतो रुचिरान् द्रुमान् ॥ ३३ ॥  
+[^non-baroDa-CE] ममायमात्मप्रभवो भूयस्त्वमुपयास्यति ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2081,8 +2081,8 @@ this fire of grief (_śokāgniḥ_) will swiftly burn me up before long (_nacir�
 
 <details><summary>मूलम्</summary>
 
-अदृश्यमाना वैदेही शोकं वर्धयतीह मे ॥ ३४ ॥  
-दृश्यमानो वसन्तश्च स्वेदसंसर्गदूषकः ।
+[^non-baroDa-CE] अदृश्यमाना वैदेही शोकं वर्धयतीह मे ॥ ३४ ॥  
+[^non-baroDa-CE] दृश्यमानो वसन्तश्च स्वेदसंसर्गदूषकः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2187,8 +2187,8 @@ and spring, being seen all around and drying up the touch of sweat (_svedasaṃs
 
 <details><summary>मूलम्</summary>
 
-अमी मयूराः शोभन्ते प्रनृत्यन्तस्ततस्ततः ॥ ३६ ॥  
-स्वैः पक्षैः पवनोद‍्धूतैर्गवाक्षैः स्फाटिकैरिव ।
+[^non-baroDa-CE] अमी मयूराः शोभन्ते प्रनृत्यन्तस्ततस्ततः ॥ ३६ ॥  
+[^non-baroDa-CE] स्वैः पक्षैः पवनोद‍्धूतैर्गवाक्षैः स्फाटिकैरिव ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2257,7 +2257,7 @@ Watching the peahens wooing their dancing mates among the mountain ridges, Rāma
 
 <details><summary>मूलम्</summary>
 
-शिखिनीभिः परिवृतास्त एते मदमूर्च्छिताः ॥ ३७ ॥  
+[^non-baroDa-CE] शिखिनीभिः परिवृतास्त एते मदमूर्च्छिताः ॥ ३७ ॥  
 मन्मथाभिपरीतस्य मम मन्मथवर्धनाः ।
 _________________
 शिखिनीभिः परिवृतास्त एते मदमूर्छिताः ॥  
@@ -2362,8 +2362,8 @@ increasing the longing (_manmathavardhanāḥ_) of me who am already overwhelmed
 
 <details><summary>मूलम्</summary>
 
-तामेव मनसा रामां मयूरोऽप्यनुधावति ॥ ३९ ॥  
-वितत्य रुचिरौ पक्षौ रुतैरुपहसन्निव ।
+[^non-baroDa-CE] तामेव मनसा रामां मयूरोऽप्यनुधावति ॥ ३९ ॥  
+[^non-baroDa-CE] वितत्य रुचिरौ पक्षौ रुतैरुपहसन्निव ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2414,7 +2414,7 @@ this peahen (_śikhinī_) afflicted with love approaching her mate upon the moun
 <details><summary>मूलम्</summary>
 
 मयूरस्य वने नूनं रक्षसा न हृता प्रिया ॥ ४० ॥  
-तस्मान्नृत्यति रम्येषु वनेषु सह कान्तया ।
+[^non-baroDa-CE] तस्मान्नृत्यति रम्येषु वनेषु सह कान्तया ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2469,8 +2469,8 @@ spreading wide his two bright wings (_rucirau pakṣau_) and seeming to mock [me
 <details><summary>मूलम्</summary>
 
 मम त्वयं विना वासः पुष्पमासे सुदुःसहः ॥ ४१ ॥  
-पश्य लक्ष्मण संरागस्तिर्यग्योनिगतेष्वपि ।  
-यदेषा शिखिनी कामाद् भर्तारमभिवर्तते ॥ ४२ ॥
+[^non-baroDa-CE] पश्य लक्ष्मण संरागस्तिर्यग्योनिगतेष्वपि ।  
+[^non-baroDa-CE] यदेषा शिखिनी कामाद् भर्तारमभिवर्तते ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2534,11 +2534,11 @@ Rāma reflects that Sītā too would hasten to his side had she not been abducte
 
 <details><summary>मूलम्</summary>
 
-ममाप्येवं विशालाक्षी जानकी जातसम्भ्रमा ।  
-मदनेनाभिवर्तेत यदि नापहृता भवेत् ॥ ४३ ॥
+[^non-baroDa-CE] ममाप्येवं विशालाक्षी जानकी जातसम्भ्रमा ।  
+[^non-baroDa-CE] मदनेनाभिवर्तेत यदि नापहृता भवेत् ॥ ४३ ॥
 _________________
 ममाप्येदं विशालाक्षी जानकी जातसम्भ्रमा ।  
-मदनेनाभिवर्तेत यदि नापहृता भवेत् ॥
+[^non-baroDa-CE] मदनेनाभिवर्तेत यदि नापहृता भवेत् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2636,8 +2636,8 @@ Behold, O Lakṣmaṇa, how at the passing of winter (_śiśirātyaye_) the blos
 
 <details><summary>मूलम्</summary>
 
-रुचिराण्यपि पुष्पाणि पादपानामतिश्रिया ।  
-निष्फलानि महीं यान्ति समं मधुकरोत्करैः ॥ ४५ ॥
+[^non-baroDa-CE] रुचिराण्यपि पुष्पाणि पादपानामतिश्रिया ।  
+[^non-baroDa-CE] निष्फलानि महीं यान्ति समं मधुकरोत्करैः ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2743,7 +2743,7 @@ Joyful birds in flocks (_saṅghaśaḥ_) warble sweetly at will (_kāmaṃ kala
 
 <details><summary>मूलम्</summary>
 
-वसन्तो यदि तत्रापि यत्र मे वसति प्रिया ।  
+[^non-baroDa-CE] वसन्तो यदि तत्रापि यत्र मे वसति प्रिया ।  
 नूनं परवशा सीता सापि शोचत्यहं यथा ॥ ४७ ॥
 </details>
 
@@ -2795,8 +2795,8 @@ If spring is present there as well where my beloved dwells, surely Sītā, under
 
 <details><summary>मूलम्</summary>
 
-नूनं न तु वसन्तस्तं देशं स्पृशति यत्र सा ।  
-कथं ह्यसितपद्माक्षी वर्तयेत् सा मया विना ॥ ४८ ॥
+[^non-baroDa-CE] नूनं न तु वसन्तस्तं देशं स्पृशति यत्र सा ।  
+[^non-baroDa-CE] कथं ह्यसितपद्माक्षी वर्तयेत् सा मया विना ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2855,8 +2855,8 @@ Certain that Sītā's deep devotion to him matches his own, Rāma fears she will
 
 <details><summary>मूलम्</summary>
 
-अथवा वर्तते तत्र वसन्तो यत्र मे प्रिया ।  
-किं करिष्यति सुश्रोणी सा तु निर्भर्त्सिता परैः ॥ ४९ ॥
+[^non-baroDa-CE] अथवा वर्तते तत्र वसन्तो यत्र मे प्रिया ।  
+[^non-baroDa-CE] किं करिष्यति सुश्रोणी सा तु निर्भर्त्सिता परैः ॥ ४९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2902,7 +2902,7 @@ Or else, even if spring is present there where my beloved is, what can that fair
 <details><summary>मूलम्</summary>
 
 श्यामा पद्मपलाशाक्षी मृदुभाषा च मे प्रिया ।  
-नूनं वसन्तमासाद्य परित्यक्ष्यति जीवितम् ॥ ५० ॥
+[^non-baroDa-CE] नूनं वसन्तमासाद्य परित्यक्ष्यति जीवितम् ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2952,8 +2952,8 @@ Youthful (_śyāmā_), lotus-petal-eyed, and gentle of speech, my beloved, upon 
 
 <details><summary>मूलम्</summary>
 
-दृढं हि हृदये बुद्धिर्मम सम्परिवर्तते ।  
-नालं वर्तयितुं सीता साध्वी मद्विरहं गता ॥ ५१ ॥
+[^non-baroDa-CE] दृढं हि हृदये बुद्धिर्मम सम्परिवर्तते ।  
+[^non-baroDa-CE] नालं वर्तयितुं सीता साध्वी मद्विरहं गता ॥ ५१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3003,8 +3003,8 @@ For this conviction (_buddhiḥ_) revolves firmly within my heart: chaste Sītā
 
 <details><summary>मूलम्</summary>
 
-मयि भावो हि वैदेह्यास्तत्त्वतो विनिवेशितः ।  
-ममापि भावः सीतायां सर्वथा विनिवेशितः ॥ ५२ ॥
+[^non-baroDa-CE] मयि भावो हि वैदेह्यास्तत्त्वतो विनिवेशितः ।  
+[^non-baroDa-CE] ममापि भावः सीतायां सर्वथा विनिवेशितः ॥ ५२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3099,7 +3099,7 @@ This blossom-wafting breeze (_puṣpavaho vāyuḥ_), pleasant to the touch and 
 
 <details><summary>मूलम्</summary>
 
-सदा सुखमहं मन्ये यं पुरा सह सीतया ।  
+[^non-baroDa-CE] सदा सुखमहं मन्ये यं पुरा सह सीतया ।  
 मारुतः स विना सीतां शोकसञ्जननो मम ॥ ५४ ॥
 </details>
 
@@ -3330,8 +3330,8 @@ Perceive, O Lakṣmaṇa, the chorus of cries (_saṃnādam_) heightening passio
 
 <details><summary>मूलम्</summary>
 
-विक्षिप्तां पवनेनैतामसौ तिलकमञ्जरीम् ।  
-षट्पदः सहसाभ्येति मदोद‍्धूतामिव प्रियाम् ॥ ५८ ॥
+[^non-baroDa-CE] विक्षिप्तां पवनेनैतामसौ तिलकमञ्जरीम् ।  
+[^non-baroDa-CE] षट्पदः सहसाभ्येति मदोद‍्धूतामिव प्रियाम् ॥ ५८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3386,8 +3386,8 @@ Yonder bee (_ṣaṭpadaḥ_) darts suddenly toward this _tilaka_ flower-cluster
 
 <details><summary>मूलम्</summary>
 
-कामिनामयमत्यन्तमशोकः शोकवर्धनः ।  
-स्तबकैः पवनोत्क्षिप्तैस्तर्जयन्निव मां स्थितः ॥ ५९ ॥
+[^non-baroDa-CE] कामिनामयमत्यन्तमशोकः शोकवर्धनः ।  
+[^non-baroDa-CE] स्तबकैः पवनोत्क्षिप्तैस्तर्जयन्निव मां स्थितः ॥ ५९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3438,8 +3438,8 @@ This _aśoka_ tree (`sorrowless&#x27;), which exceedingly increases the sorrow (
 
 <details><summary>मूलम्</summary>
 
-अमी लक्ष्मण दृश्यन्ते चूताः कुसुमशालिनः ।  
-विभ्रमोत्सिक्तमनसः साङ्गरागा नरा इव ॥ ६० ॥
+[^non-baroDa-CE] अमी लक्ष्मण दृश्यन्ते चूताः कुसुमशालिनः ।  
+[^non-baroDa-CE] विभ्रमोत्सिक्तमनसः साङ्गरागा नरा इव ॥ ६० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3551,7 +3551,7 @@ Behold, O Saumitri, tiger among men (_naraśārdūla_), how in the variegated fo
 
 <details><summary>मूलम्</summary>
 
-इमानि शुभगन्धीनि पश्य लक्ष्मण सर्वशः ।  
+[^non-baroDa-CE] इमानि शुभगन्धीनि पश्य लक्ष्मण सर्वशः ।  
 नलिनानि प्रकाशन्ते जले तरुणसूर्यवत् ॥ ६२ ॥
 </details>
 
@@ -3648,8 +3648,8 @@ Pellucid-watered (_prasannasalilā_), teeming with day-lotuses and blue water-li
 
 <details><summary>मूलम्</summary>
 
-जले तरुणसूर्याभैः षट्पदाहतकेसरैः ।  
-पङ्कजैः शोभते पम्पा समन्तादभिसंवृता ॥ ६४ ॥
+[^non-baroDa-CE] जले तरुणसूर्याभैः षट्पदाहतकेसरैः ।  
+[^non-baroDa-CE] पङ्कजैः शोभते पम्पा समन्तादभिसंवृता ॥ ६४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3767,11 +3767,11 @@ Ever frequented by _cakravāka_ birds and bordered by woods on variegated tablel
 
 <details><summary>मूलम्</summary>
 
-पवनाहतवेगाभिरूर्मिभिर्विमलेऽम्भसि ।  
-पङ्कजानि विराजन्ते ताड्यमानानि लक्ष्मण ॥ ६६ ॥
+[^non-baroDa-CE] पवनाहतवेगाभिरूर्मिभिर्विमलेऽम्भसि ।  
+[^non-baroDa-CE] पङ्कजानि विराजन्ते ताड्यमानानि लक्ष्मण ॥ ६६ ॥
 _________________
 पवनाहितवेगाभिरूर्मिभिर्विमलेऽम्भसि ।  
-पङ्कजानि विराजन्ते ताड्यमानानि लक्ष्मण ॥
+[^non-baroDa-CE] पङ्कजानि विराजन्ते ताड्यमानानि लक्ष्मण ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3829,8 +3829,8 @@ Lamenting the perversity of Kāma and the loss of all joy without Sītā, Rāma 
 
 <details><summary>मूलम्</summary>
 
-पद्मपत्रविशालाक्षीं सततं प्रियपङ्कजाम् ।  
-अपश्यतो मे वैदेहीं जीवितं नाभिरोचते ॥ ६७ ॥
+[^non-baroDa-CE] पद्मपत्रविशालाक्षीं सततं प्रियपङ्कजाम् ।  
+[^non-baroDa-CE] अपश्यतो मे वैदेहीं जीवितं नाभिरोचते ॥ ६७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3886,8 +3886,8 @@ Not beholding Vaidehī, whose eyes are wide as lotus-petals (_padmapatra-viśāl
 
 <details><summary>मूलम्</summary>
 
-अहो कामस्य वामत्वं यो गतामपि दुर्लभाम् ।  
-स्मारयिष्यति कल्याणीं कल्याणतरवादिनीम् ॥ ६८ ॥
+[^non-baroDa-CE] अहो कामस्य वामत्वं यो गतामपि दुर्लभाम् ।  
+[^non-baroDa-CE] स्मारयिष्यति कल्याणीं कल्याणतरवादिनीम् ॥ ६८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3938,10 +3938,10 @@ Oh, the perversity of Kāma (_kāmasya vāmatvam_), who keeps reminding me (_sm�
 
 <details><summary>मूलम्</summary>
 
-शक्यो धारयितुं कामो भवेदभ्यागतो मया ।  
-यदि भूयो वसन्तो मां न हन्यात् पुष्पितद्रुमः ॥ ६९ ॥
+[^non-baroDa-CE] शक्यो धारयितुं कामो भवेदभ्यागतो मया ।  
+[^non-baroDa-CE] यदि भूयो वसन्तो मां न हन्यात् पुष्पितद्रुमः ॥ ६९ ॥
 _________________
-शक्यो धारयितुं कामोभवेदभ्यागतो मया ।  
+[^non-baroDa-CE] शक्यो धारयितुं कामोभवेदभ्यागतो मया ।  
 यदि भूयो वसन्तो मां न हन्यात् पुष्टितद्रुमः ॥
 </details>
 
@@ -3993,10 +3993,10 @@ This passion that has come upon me (_abhyāgataḥ kāmaḥ_) might have been po
 
 <details><summary>मूलम्</summary>
 
-यानि स्म रमणीयानि तया सह भवन्ति मे ।  
-तान्येवारमणीयानि जायन्ते मे तया विना ॥ ७० ॥
+[^non-baroDa-CE] यानि स्म रमणीयानि तया सह भवन्ति मे ।  
+[^non-baroDa-CE] तान्येवारमणीयानि जायन्ते मे तया विना ॥ ७० ॥
 _________________
-यानि स्म रमणीयानि तया सह भवन्ति मे ।  
+[^non-baroDa-CE] यानि स्म रमणीयानि तया सह भवन्ति मे ।  
 तान्येवारमणीयानी जायन्ते मे तया विना ॥
 </details>
 
@@ -4543,11 +4543,11 @@ Continuing his survey of Pampā's blossoming flora—from lion-mane-colored lodh
 
 <details><summary>मूलम्</summary>
 
-पद्मकाश्चैव शोभन्ते नीलाशोकाश्च पुष्पिताः ।  
-लोध्राश्च गिरिपृष्ठेषु सिंहकेसरपिञ्जराः ॥ ७९ ॥
+[^non-baroDa-CE] पद्मकाश्चैव शोभन्ते नीलाशोकाश्च पुष्पिताः ।  
+[^non-baroDa-CE] लोध्राश्च गिरिपृष्ठेषु सिंहकेसरपिञ्जराः ॥ ७९ ॥
 _________________
 पद्मकाश्चैव शोभन्ते नीलाशोकाश्च पुष्टिताः ।  
-लोध्राश्च गिरिपृष्ठेषु सिंहकेसरपिञ्जराः ॥
+[^non-baroDa-CE] लोध्राश्च गिरिपृष्ठेषु सिंहकेसरपिञ्जराः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4661,7 +4661,7 @@ _Aṅkolas_, yellow _kuraṇṭas_, _cūrṇakas_, and _pāribhadrakas_, as well
 केतकोद्दालकाश्चैव शिरीषाः शिंशपा धवाः ॥ ८१ ॥  
 शाल्मल्यः किंशुकाश्चैव रक्ताः कुरबकास्तथा ।  
 तिनिशा नक्तमालाश्च चन्दनाः स्यन्दनास्तथा ॥ ८२ ॥  
-हिन्तालास्तिलकाश्चैव नागवृक्षाश्च पुष्पिताः ।
+[^non-baroDa-CE] हिन्तालास्तिलकाश्चैव नागवृक्षाश्च पुष्पिताः ।
 _________________
 केतकोद्दालकाश्चैव शिरीषाः शिंशपा धवाः ॥
 शाल्मल्यः किंशुकाश्चैव रक्ताः कुरवकास्तथा ।  
@@ -4738,11 +4738,11 @@ trees, sandalwood trees, spandana trees are all thus well flowered... [4-1-82]
 
 <details><summary>मूलम्</summary>
 
-पुष्पितान् पुष्पिताग्राभिर्लताभिः परिवेष्टितान् ॥ ८३ ॥  
-द्रुमान् पश्येह सौमित्रे पम्पाया रुचिरान् बहून् ।
+[^non-baroDa-CE] पुष्पितान् पुष्पिताग्राभिर्लताभिः परिवेष्टितान् ॥ ८३ ॥  
+[^non-baroDa-CE] द्रुमान् पश्येह सौमित्रे पम्पाया रुचिरान् बहून् ।
 _________________
 पुष्चितान् पुष्टिताग्राभिर्लताभिः परिवेष्टितान् ॥  
-द्रुमान्पश्येह सौमित्रे पम्पायारुचिरान् बहून् ।
+[^non-baroDa-CE] द्रुमान्पश्येह सौमित्रे पम्पायारुचिरान् बहून् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4794,8 +4794,8 @@ and _hintāla_ palms, _tilakas_, and _nāgavṛkṣas_ are in bloom. [And see] t
 
 <details><summary>मूलम्</summary>
 
-वातविक्षिप्तविटपान् यथासन्नान् द्रुमानिमान् ॥ ८४ ॥  
-लताः समनुवर्तन्ते मत्ता इव वरस्त्रियः ।
+[^non-baroDa-CE] वातविक्षिप्तविटपान् यथासन्नान् द्रुमानिमान् ॥ ८४ ॥  
+[^non-baroDa-CE] लताः समनुवर्तन्ते मत्ता इव वरस्त्रियः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4856,8 +4856,8 @@ As creepers cling to wind-tossed boughs like intoxicated women and bees dart gre
 
 <details><summary>मूलम्</summary>
 
-पादपात् पादपं गच्छन् शैलाच्छैलं वनाद् वनम् ॥ ८५ ॥  
-वाति नैकरसास्वादसम्मोदित इवानिलः ।
+[^non-baroDa-CE] पादपात् पादपं गच्छन् शैलाच्छैलं वनाद् वनम् ॥ ८५ ॥  
+[^non-baroDa-CE] वाति नैकरसास्वादसम्मोदित इवानिलः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4909,8 +4909,8 @@ mountain to mountain, forest to forest... [4-1-85b, 86a]
 
 <details><summary>मूलम्</summary>
 
-केचित् पर्याप्तकुसुमाः पादपा मधुगन्धिनः ॥ ८६ ॥  
-केचिन्मुकुलसंवीताः श्यामवर्णा इवाबभुः ।
+[^non-baroDa-CE] केचित् पर्याप्तकुसुमाः पादपा मधुगन्धिनः ॥ ८६ ॥  
+[^non-baroDa-CE] केचिन्मुकुलसंवीताः श्यामवर्णा इवाबभुः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4960,10 +4960,10 @@ the breeze (_anilaḥ_) blows as if gladdened by tasting manifold nectars (_naik
 
 <details><summary>मूलम्</summary>
 
-इदं मृष्टमिदं स्वादु प्रफुल्लमिदमित्यपि ॥ ८७ ॥  
-रागरक्तो मधुकरः कुसुमेष्वेव लीयते ।
+[^non-baroDa-CE] इदं मृष्टमिदं स्वादु प्रफुल्लमिदमित्यपि ॥ ८७ ॥  
+[^non-baroDa-CE] रागरक्तो मधुकरः कुसुमेष्वेव लीयते ।
 _________________
-इदं मृष्टमिदं स्वादु प्रफुल्लमिदमित्यपि ॥  
+[^non-baroDa-CE] इदं मृष्टमिदं स्वादु प्रफुल्लमिदमित्यपि ॥  
 रागरक्तो मधुकरः कुसुमेष्वव लीयते ।
 </details>
 
@@ -5015,8 +5015,8 @@ while others, wrapped in unopened buds (_mukula-saṃvītāḥ_), shine with a d
 
 <details><summary>मूलम्</summary>
 
-निलीय पुनरुत्पत्य सहसान्यत्र गच्छति ।  
-मधुलुब्धो मधुकरः पम्पातीरद्रुमेष्वसौ ॥ ८८ ॥
+[^non-baroDa-CE] निलीय पुनरुत्पत्य सहसान्यत्र गच्छति ।  
+[^non-baroDa-CE] मधुलुब्धो मधुकरः पम्पातीरद्रुमेष्वसौ ॥ ८८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5067,7 +5067,7 @@ the impassioned bee (_rāgarakto madhukaraḥ_) clings to the very blossoms; hav
 <details><summary>मूलम्</summary>
 
 इयं कुसुमसङ्घातैरुपस्तीर्णा सुखाकृता ।  
-स्वयं निपतितैर्भूमिः शयनप्रस्तरैरिव ॥ ८९ ॥
+[^non-baroDa-CE] स्वयं निपतितैर्भूमिः शयनप्रस्तरैरिव ॥ ८९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5234,8 +5234,8 @@ At the close of winter (_himānte_), O Saumitri, behold the burgeoning of blosso
 
 <details><summary>मूलम्</summary>
 
-आह्वयन्त इवान्योन्यं नगाः षट्पदनादिताः ।  
-कुसुमोत्तंसविटपाः शोभन्ते बहु लक्ष्मण ॥ ९२ ॥
+[^non-baroDa-CE] आह्वयन्त इवान्योन्यं नगाः षट्पदनादिताः ।  
+[^non-baroDa-CE] कुसुमोत्तंसविटपाः शोभन्ते बहु लक्ष्मण ॥ ९२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5287,8 +5287,8 @@ Seeming to challenge one another (_āhvayanta ivānyonyam_), the trees resoundin
 
 <details><summary>मूलम्</summary>
 
-एष कारण्डवः पक्षी विगाह्य सलिलं शुभम् ।  
-रमते कान्तया सार्धं काममुद्दीपयन्निव ॥ ९३ ॥
+[^non-baroDa-CE] एष कारण्डवः पक्षी विगाह्य सलिलं शुभम् ।  
+[^non-baroDa-CE] रमते कान्तया सार्धं काममुद्दीपयन्निव ॥ ९३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5352,8 +5352,8 @@ Plunging into the limpid water (_vigāhya salilaṃ śubham_), yonder _kāraṇ�
 
 <details><summary>मूलम्</summary>
 
-मन्दाकिन्यास्तु यदिदं रूपमेतन्मनोरमम् ।  
-स्थाने जगति विख्याता गुणास्तस्या मनोरमाः ॥ ९४ ॥
+[^non-baroDa-CE] मन्दाकिन्यास्तु यदिदं रूपमेतन्मनोरमम् ।  
+[^non-baroDa-CE] स्थाने जगति विख्याता गुणास्तस्या मनोरमाः ॥ ९४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5412,8 +5412,8 @@ If such is this heart-stealing beauty (_rūpam etan manoramam_) of the Mandākin
 
 <details><summary>मूलम्</summary>
 
-यदि दृश्येत सा साध्वी यदि चेह वसेमहि ।  
-स्पृहयेयं न शक्राय नायोध्यायै रघूत्तम ॥ ९५ ॥
+[^non-baroDa-CE] यदि दृश्येत सा साध्वी यदि चेह वसेमहि ।  
+[^non-baroDa-CE] स्पृहयेयं न शक्राय नायोध्यायै रघूत्तम ॥ ९५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5478,8 +5478,8 @@ If that chaste lady (_sā sādhvī_) were to be seen, and if we were to dwell ri
 
 <details><summary>मूलम्</summary>
 
-न ह्येवं रमणीयेषु शाद्वलेषु तया सह ।  
-रमतो मे भवेच्चिन्ता न स्पृहान्येषु वा भवेत् ॥ ९६ ॥
+[^non-baroDa-CE] न ह्येवं रमणीयेषु शाद्वलेषु तया सह ।  
+[^non-baroDa-CE] रमतो मे भवेच्चिन्ता न स्पृहान्येषु वा भवेत् ॥ ९६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5538,11 +5538,11 @@ Gazing at Pampā's lotus-filled waters, calling birds, and stags roaming with th
 
 <details><summary>मूलम्</summary>
 
-अमी हि विविधैः पुष्पैस्तरवो विविधच्छदाः ।  
-काननेऽस्मिन् विना कान्तां चिन्तामुत्पादयन्ति मे ॥ ९७ ॥
+[^non-baroDa-CE] अमी हि विविधैः पुष्पैस्तरवो विविधच्छदाः ।  
+[^non-baroDa-CE] काननेऽस्मिन् विना कान्तां चिन्तामुत्पादयन्ति मे ॥ ९७ ॥
 _________________
 अमी हि विविधैः पुष्रैस्तरवो रुचिरच्छदाः ।  
-काननेऽस्मिन्विना कान्तां चिन्तामुत्पादयन्ति मे ॥
+[^non-baroDa-CE] काननेऽस्मिन्विना कान्तां चिन्तामुत्पादयन्ति मे ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5777,8 +5777,8 @@ Behold upon the variegated mountain slopes the stags accompanied by their does (
 
 <details><summary>मूलम्</summary>
 
-अस्मिन् सानुनि रम्ये हि मत्तद्विजगणाकुले ।  
-पश्येयं यदि तां कान्तां ततः स्वस्ति भवेन्मम ॥ १०२ ॥
+[^non-baroDa-CE] अस्मिन् सानुनि रम्ये हि मत्तद्विजगणाकुले ।  
+[^non-baroDa-CE] पश्येयं यदि तां कान्तां ततः स्वस्ति भवेन्मम ॥ १०२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5837,10 +5837,10 @@ Envying those who enjoy Pampā's lotus-scented breeze with their beloveds, Rāma
 
 <details><summary>मूलम्</summary>
 
-जीवेयं खलु सौमित्रे मया सह सुमध्यमा ।  
-सेवेत यदि वैदेही पम्पायाः पवनं शुभम् ॥ १०३ ॥
+[^non-baroDa-CE] जीवेयं खलु सौमित्रे मया सह सुमध्यमा ।  
+[^non-baroDa-CE] सेवेत यदि वैदेही पम्पायाः पवनं शुभम् ॥ १०३ ॥
 _________________
-जीवेयं खलु सौमित्रे मया सह सुमध्यमा ।  
+[^non-baroDa-CE] जीवेयं खलु सौमित्रे मया सह सुमध्यमा ।  
 सेवेत यदि वैदेही पम्पायाः पवनं सुभम् ॥
 </details>
 
@@ -5885,8 +5885,8 @@ Truly I would live on (_jīveyaṃ khalu_), O Saumitri, if slender-waisted Vaide
 
 <details><summary>मूलम्</summary>
 
-पद्मसौगन्धिकवहं शिवं शोकविनाशनम् ।  
-धन्या लक्ष्मण सेवन्ते पम्पाया वनमारुतम् ॥ १०४ ॥
+[^non-baroDa-CE] पद्मसौगन्धिकवहं शिवं शोकविनाशनम् ।  
+[^non-baroDa-CE] धन्या लक्ष्मण सेवन्ते पम्पाया वनमारुतम् ॥ १०४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5947,8 +5947,8 @@ Fortunate indeed (_dhanyāḥ_), O Lakṣmaṇa, are those who enjoy the forest 
 
 <details><summary>मूलम्</summary>
 
-श्यामा पद्मपलाशाक्षी प्रिया विरहिता मया ।  
-कथं धारयति प्राणान् विवशा जनकात्मजा ॥ १०५ ॥
+[^non-baroDa-CE] श्यामा पद्मपलाशाक्षी प्रिया विरहिता मया ।  
+[^non-baroDa-CE] कथं धारयति प्राणान् विवशा जनकात्मजा ॥ १०५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5998,8 +5998,8 @@ How does my youthful, lotus-petal-eyed beloved, the daughter of Janaka, sustain 
 
 <details><summary>मूलम्</summary>
 
-किं नु वक्ष्यामि धर्मज्ञं राजानं सत्यवादिनम् ।  
-जनकं पृष्टसीतं तं कुशलं जनसंसदि ॥ १०६ ॥
+[^non-baroDa-CE] किं नु वक्ष्यामि धर्मज्ञं राजानं सत्यवादिनम् ।  
+[^non-baroDa-CE] जनकं पृष्टसीतं तं कुशलं जनसंसदि ॥ १०६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -6051,11 +6051,11 @@ What indeed shall I say in the assembly of the people (_janasaṃsadi_) to that 
 
 <details><summary>मूलम्</summary>
 
-या मामनुगता मन्दं पित्रा प्रस्थापितं वनम् ।  
-सीता धर्मं समास्थाय क्व नु सा वर्तते प्रिया ॥ १०७ ॥
+[^non-baroDa-CE] या मामनुगता मन्दं पित्रा प्रस्थापितं वनम् ।  
+[^non-baroDa-CE] सीता धर्मं समास्थाय क्व नु सा वर्तते प्रिया ॥ १०७ ॥
 _________________
 या मामनुगता मन्द पित्रा प्रस्थापितं वनम् ।  
-सीता धर्मं समास्थाय क्व नु सा वर्तते प्रिया ॥
+[^non-baroDa-CE] सीता धर्मं समास्थाय क्व नु सा वर्तते प्रिया ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6106,10 +6106,10 @@ Where indeed is that beloved Sītā who, steadfastly embracing righteousness (_d
 
 <details><summary>मूलम्</summary>
 
-तया विहीनः कृपणः कथं लक्ष्मण धारये ।  
-या मामनुगता राज्याद् भ्रष्टं विहतचेतसम् ॥ १०८ ॥
+[^non-baroDa-CE] तया विहीनः कृपणः कथं लक्ष्मण धारये ।  
+[^non-baroDa-CE] या मामनुगता राज्याद् भ्रष्टं विहतचेतसम् ॥ १०८ ॥
 _________________
-तया विहीनःकृपणः कथं लक्ष्मण धारये ।  
+[^non-baroDa-CE] तया विहीनःकृपणः कथं लक्ष्मण धारये ।  
 या मामनुगता राज्याद् भ्रष्टं विगतचेतसम् ॥
 </details>
 
@@ -6168,8 +6168,8 @@ Longing to hear Sītā's gentle voice and dreading Kausalyā's questions in Ayod
 
 <details><summary>मूलम्</summary>
 
-तच्चार्वाञ्चितपद्माक्षं सुगन्धि शुभमव्रणम् ।  
-अपश्यतो मुखं तस्याः सीदतीव मतिर्मम ॥ १०९ ॥
+[^non-baroDa-CE] तच्चार्वाञ्चितपद्माक्षं सुगन्धि शुभमव्रणम् ।  
+[^non-baroDa-CE] अपश्यतो मुखं तस्याः सीदतीव मतिर्मम ॥ १०९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6220,8 +6220,8 @@ Not beholding that lovely, fragrant, auspicious, and blemishless (_avraṇam_) f
 
 <details><summary>मूलम्</summary>
 
-स्मितहास्यान्तरयुतं गुणवन्मधुरं हितम् ।  
-वैदेह्या वाक्यमतुलं कदा श्रोष्यामि लक्ष्मण ॥ ११० ॥
+[^non-baroDa-CE] स्मितहास्यान्तरयुतं गुणवन्मधुरं हितम् ।  
+[^non-baroDa-CE] वैदेह्या वाक्यमतुलं कदा श्रोष्यामि लक्ष्मण ॥ ११० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6272,8 +6272,8 @@ When, O Lakṣmaṇa, shall I hear again Vaidehī&#x27;s peerless speech (_vāky
 
 <details><summary>मूलम्</summary>
 
-प्राप्य दुःखं वने श्यामा मां मन्मथविकर्शितम् ।  
-नष्टदुःखेव हृष्टेव साध्वी साध्वभ्यभाषत ॥ १११ ॥
+[^non-baroDa-CE] प्राप्य दुःखं वने श्यामा मां मन्मथविकर्शितम् ।  
+[^non-baroDa-CE] नष्टदुःखेव हृष्टेव साध्वी साध्वभ्यभाषत ॥ १११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6325,8 +6325,8 @@ Even after meeting with hardship in the forest, that youthful, chaste lady (_śy
 
 <details><summary>मूलम्</summary>
 
-किं नु वक्ष्याम्ययोध्यायां कौसल्यां हि नृपात्मज ।  
-क्व सा स्नुषेति पृच्छन्तीं कथं चापि मनस्विनीम् ॥ ११२ ॥
+[^non-baroDa-CE] किं नु वक्ष्याम्ययोध्यायां कौसल्यां हि नृपात्मज ।  
+[^non-baroDa-CE] क्व सा स्नुषेति पृच्छन्तीं कथं चापि मनस्विनीम् ॥ ११२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6360,10 +6360,10 @@ What indeed shall I say in Ayodhyā, O prince, to high-minded Kausalyā (_kausal
 
 <details><summary>मूलम्</summary>
 
-गच्छ लक्ष्मण पश्य त्वं भरतं भ्रातृवत्सलम् ।  
-नह्यहं जीवितुं शक्तस्तामृते जनकात्मजाम् ॥ ११३ ॥  
-इति रामं महात्मानं विलपन्तमनाथवत् ।  
-उवाच लक्ष्मणो भ्राता वचनं युक्तमव्ययम् ॥ ११४ ॥
+[^non-baroDa-CE] गच्छ लक्ष्मण पश्य त्वं भरतं भ्रातृवत्सलम् ।  
+[^non-baroDa-CE] नह्यहं जीवितुं शक्तस्तामृते जनकात्मजाम् ॥ ११३ ॥  
+[^non-baroDa-CE] इति रामं महात्मानं विलपन्तमनाथवत् ।  
+[^non-baroDa-CE] उवाच लक्ष्मणो भ्राता वचनं युक्तमव्ययम् ॥ ११४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6460,8 +6460,8 @@ Exhorting Rāma to cast off grief and excessive attachment, Lakṣmaṇa vows to
 
 <details><summary>मूलम्</summary>
 
-संस्तम्भ राम भद्रं ते मा शुचः पुरुषोत्तम ।  
-नेदृशानां मतिर्मन्दा भवत्यकलुषात्मनाम् ॥ ११५ ॥
+[^non-baroDa-CE] संस्तम्भ राम भद्रं ते मा शुचः पुरुषोत्तम ।  
+[^non-baroDa-CE] नेदृशानां मतिर्मन्दा भवत्यकलुषात्मनाम् ॥ ११५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6512,8 +6512,8 @@ of your kind of unblemished souls does not become languorous... [4-1-115]
 
 <details><summary>मूलम्</summary>
 
-स्मृत्वा वियोगजं दुःखं त्यज स्नेहं प्रिये जने ।  
-अतिस्नेहपरिष्वङ्गाद् वर्तिरार्द्रापि दह्यते ॥ ११६ ॥
+[^non-baroDa-CE] स्मृत्वा वियोगजं दुःखं त्यज स्नेहं प्रिये जने ।  
+[^non-baroDa-CE] अतिस्नेहपरिष्वङ्गाद् वर्तिरार्द्रापि दह्यते ॥ ११६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6586,8 +6586,8 @@ Recalling the sorrow born of separation (_viyogajaṃ duḥkham_), cast off exce
 
 <details><summary>मूलम्</summary>
 
-यदि गच्छति पातालं ततोऽभ्यधिकमेव वा ।  
-सर्वथा रावणस्तात न भविष्यति राघव ॥ ११७ ॥
+[^non-baroDa-CE] यदि गच्छति पातालं ततोऽभ्यधिकमेव वा ।  
+[^non-baroDa-CE] सर्वथा रावणस्तात न भविष्यति राघव ॥ ११७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6637,8 +6637,8 @@ Even if he goes to the netherworld (_pātālam_) or still further beyond (_tato 
 
 <details><summary>मूलम्</summary>
 
-प्रवृत्तिर्लभ्यतां तावत् तस्य पापस्य रक्षसः ।  
-ततो हास्यति वा सीतां निधनं वा गमिष्यति ॥ ११८ ॥
+[^non-baroDa-CE] प्रवृत्तिर्लभ्यतां तावत् तस्य पापस्य रक्षसः ।  
+[^non-baroDa-CE] ततो हास्यति वा सीतां निधनं वा गमिष्यति ॥ ११८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6688,8 +6688,8 @@ First let intelligence be gained (_pravṛttir labhyatāṃ tāvat_) of that wic
 
 <details><summary>मूलम्</summary>
 
-यदि याति दितेर्गर्भं रावणं सह सीतया ।  
-तत्राप्येनं हनिष्यामि न चेद् दास्यति मैथिलीम् ॥ ११९ ॥
+[^non-baroDa-CE] यदि याति दितेर्गर्भं रावणं सह सीतया ।  
+[^non-baroDa-CE] तत्राप्येनं हनिष्यामि न चेद् दास्यति मैथिलीम् ॥ ११९ ॥
 _________________
 यदि याति दितेर्गर्भं रावणः सह सीतया ।  
 तत्राप्येनं हनिष्यामि न चेद्धास्यति मैथिलीम् ॥
@@ -6746,10 +6746,10 @@ Even if Rāvaṇa enters the womb of Diti (_diter garbham_) together with Sītā
 
 <details><summary>मूलम्</summary>
 
-स्वास्थ्यं भद्रं भजस्वार्य त्यज्यतां कृपणा मतिः ।  
-अर्थो हि नष्टकार्यार्थैरयत्नेनाधिगम्यते ॥ १२० ॥
+[^non-baroDa-CE] स्वास्थ्यं भद्रं भजस्वार्य त्यज्यतां कृपणा मतिः ।  
+[^non-baroDa-CE] अर्थो हि नष्टकार्यार्थैरयत्नेनाधिगम्यते ॥ १२० ॥
 _________________
-स्वास्थ्यं भद्रं भजस्वार्य त्यज्यतां कृपणा मतिः ।  
+[^non-baroDa-CE] स्वास्थ्यं भद्रं भजस्वार्य त्यज्यतां कृपणा मतिः ।  
 अर्थोरहि नष्टकार्यार्थै यत्नेनाधिगम्यते ॥
 </details>
 
@@ -6810,7 +6810,7 @@ Stirred by Lakṣmaṇa's praise of resolute energy and reminder of his own supr
 
 <details><summary>मूलम्</summary>
 
-उत्साहो बलवानार्य नास्त्युत्साहात् परं बलम् ।  
+[^non-baroDa-CE] उत्साहो बलवानार्य नास्त्युत्साहात् परं बलम् ।  
 सोत्साहस्य हि लोकेषु न किञ्चिदपि दुर्लभम् ॥ १२१ ॥
 </details>
 
@@ -6863,8 +6863,8 @@ Resolute energy (_utsāhaḥ_) is mighty, O noble one; there is no strength high
 
 <details><summary>मूलम्</summary>
 
-उत्साहवन्तः पुरुषा नावसीदन्ति कर्मसु ।  
-उत्साहमात्रमाश्रित्य प्रतिलप्स्याम जानकीम् ॥ १२२ ॥
+[^non-baroDa-CE] उत्साहवन्तः पुरुषा नावसीदन्ति कर्मसु ।  
+[^non-baroDa-CE] उत्साहमात्रमाश्रित्य प्रतिलप्स्याम जानकीम् ॥ १२२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6914,7 +6914,7 @@ Men endowed with energy (_utsāhavantaḥ puruṣāḥ_) never sink down in thei
 <details><summary>मूलम्</summary>
 
 त्यजतां कामवृत्तत्वं शोकं सन्न्यस्य पृष्ठतः ।  
-महात्मानं कृतात्मानमात्मानं नावबुध्यसे ॥ १२३ ॥
+[^non-baroDa-CE] महात्मानं कृतात्मानमात्मानं नावबुध्यसे ॥ १२३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6965,7 +6965,7 @@ Cast aside this surrender to passion (_kāmavṛttatvam_), putting grief behind 
 <details><summary>मूलम्</summary>
 
 एवं सम्बोधितस्तेन शोकोपहतचेतनः ।  
-त्यज्य शोकं च मोहं च रामो धैर्यमुपागमत् ॥ १२४ ॥
+[^non-baroDa-CE] त्यज्य शोकं च मोहं च रामो धैर्यमुपागमत् ॥ १२४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -7024,10 +7024,10 @@ Thus reminded by him (_evaṃ saṃbodhitas tena_), Rāma, whose mind had been o
 
 <details><summary>मूलम्</summary>
 
-सोऽभ्यतिक्रामदव्यग्रस्तामचिन्त्यपराक्रमः ।  
-रामः पम्पां सुरुचिरां रम्यां पारिप्लवद्रुमाम् ॥ १२५ ॥
+[^non-baroDa-CE] सोऽभ्यतिक्रामदव्यग्रस्तामचिन्त्यपराक्रमः ।  
+[^non-baroDa-CE] रामः पम्पां सुरुचिरां रम्यां पारिप्लवद्रुमाम् ॥ १२५ ॥
 _________________
-सोऽभ्यतिक्रामदव्यग्रस्तामचिन्त्यपराक्रमः ।  
+[^non-baroDa-CE] सोऽभ्यतिक्रामदव्यग्रस्तामचिन्त्यपराक्रमः ।  
 रामः पम्पा सुरुचिरां रम्याम्पारिप्लवद्रुमाम् ॥
 </details>
 
@@ -7147,10 +7147,10 @@ Scanning at once (_nirīkṣamāṇaḥ sahasā_) the entire forest with its cas
 
 <details><summary>मूलम्</summary>
 
-तं मत्तमातङ्गविलासगामी  
-गच्छन्तमव्यग्रमना महात्मा ।  
-स लक्ष्मणो राघवमिष्टचेष्टो  
-ररक्ष धर्मेण बलेन चैव ॥ १२७ ॥
+[^non-baroDa-CE] तं मत्तमातङ्गविलासगामी  
+[^non-baroDa-CE] गच्छन्तमव्यग्रमना महात्मा ।  
+[^non-baroDa-CE] स लक्ष्मणो राघवमिष्टचेष्टो  
+[^non-baroDa-CE] ररक्ष धर्मेण बलेन चैव ॥ १२७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -7206,15 +7206,15 @@ Walking with the graceful gait of a rutting elephant (_mattamātaṅga-vilāsag�
 
 <details><summary>मूलम्</summary>
 
-तावृष्यमूकस्य समीपचारी  
-चरन् ददर्शाद्भुतदर्शनीयौ ।  
-शाखामृगाणामधिपस्तरस्वी  
-वितत्रसे नैव विचेष्ट चेष्टाम् ॥ १२८ ॥
+[^non-baroDa-CE] तावृष्यमूकस्य समीपचारी  
+[^non-baroDa-CE] चरन् ददर्शाद्भुतदर्शनीयौ ।  
+[^non-baroDa-CE] शाखामृगाणामधिपस्तरस्वी  
+[^non-baroDa-CE] वितत्रसे नैव विचेष्ट चेष्टाम् ॥ १२८ ॥
 _________________
 तावृश्यमूकस्य समीपचारी  
-चरन् ददर्शाद्भुतदर्शनीयौ ।  
-शाखामृगाणामधिपस्तरस्वी  
-वितत्रसे नैव विचेष्ट चेष्टाम् ॥
+[^non-baroDa-CE] चरन् ददर्शाद्भुतदर्शनीयौ ।  
+[^non-baroDa-CE] शाखामृगाणामधिपस्तरस्वी  
+[^non-baroDa-CE] वितत्रसे नैव विचेष्ट चेष्टाम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -7270,10 +7270,10 @@ Roaming near Mount Ṛṣyamūka (_ṛṣyamūkasya samīpacārī_), the mighty 
 
 <details><summary>मूलम्</summary>
 
-स तौ महात्मा गजमन्दगामी  
-शाखामृगस्तत्र चरंश्चरन्तौ ।  
-दृष्ट्वा विषादं परमं जगाम  
-चिन्तापरीतो भयभारभग्नः ॥ १२९ ॥
+[^non-baroDa-CE] स तौ महात्मा गजमन्दगामी  
+[^non-baroDa-CE] शाखामृगस्तत्र चरंश्चरन्तौ ।  
+[^non-baroDa-CE] दृष्ट्वा विषादं परमं जगाम  
+[^non-baroDa-CE] चिन्तापरीतो भयभारभग्नः ॥ १२९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -7334,8 +7334,8 @@ Beholding those two roaming there as he himself roamed with the stately gait of 
 
 <details><summary>मूलम्</summary>
 
-तमाश्रमं पुण्यसुखं शरण्यं  
-सदैव शाखामृगसेवितान्तम् ।  
+[^non-baroDa-CE] तमाश्रमं पुण्यसुखं शरण्यं  
+[^non-baroDa-CE] सदैव शाखामृगसेवितान्तम् ।  
 त्रस्ताश्च दृष्ट्वा हरयोऽभिजग्मु-  
 र्महौजसौ राघवलक्ष्मणौ तौ ॥ १३० ॥
 </details>
@@ -7391,3 +7391,5 @@ and sheltering them. [4-1-130]
 And upon beholding those two of mighty splendor (_mahaujasau_), Rāghava and Lakṣmaṇa, the terrified monkeys (_trastā harayaḥ_) fled into that holy, blissful hermitage [of Mataṅga], a true refuge (_śaraṇyam_) whose interior was ever frequented by monkeys.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

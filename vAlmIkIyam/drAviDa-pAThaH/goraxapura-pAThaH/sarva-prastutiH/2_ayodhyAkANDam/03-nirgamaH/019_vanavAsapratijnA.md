@@ -307,7 +307,7 @@ well-wisher, venerable man, as person with right conduct and as king."
 <details><summary>मूलम्</summary>
 
 अलीकं मानसं त्वेकं हृदयं दहते मम ।  
-स्वयं यन्नाह मां राजा भरतस्याभिषेचनम् ॥ ६ ॥
+[^non-baroDa-CE] स्वयं यन्नाह मां राजा भरतस्याभिषेचनम् ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1999,12 +1999,12 @@ As he prepared to depart for the forest and relinquished the entire earth, no pe
 <details><summary>मूलम्</summary>
 
 प्रतिषिध्य शुभं छत्रं व्यजने च स्वलङ्कृते ।  
-विसर्जयित्वा स्वजनं रथं पौरांस्तथा जनान् ॥ ३४ ॥  
+[^non-baroDa-CE] विसर्जयित्वा स्वजनं रथं पौरांस्तथा जनान् ॥ ३४ ॥  
 धारयन् मनसा दुःखमिन्द्रियाणि निगृह्य च ।  
 प्रविवेशात्मवान् वेश्म मातुरप्रियशंसिवान् ॥ ३५ ॥
 _________________
 प्रतिषिध्य शुभं छत्रं व्यजने च स्वलङ्कृते ।  
-विसर्जयित्वा स्वजनं रथं पौरांस्तथा जनान् ॥
+[^non-baroDa-CE] विसर्जयित्वा स्वजनं रथं पौरांस्तथा जनान् ॥
 धारयन्मनसा दुःखमिन्द्रियाणि निगृह्य च ।  
 प्रविवेशात्मनान् वेश्म मातुरप्रियशंसिवान् ॥
 </details>
@@ -2076,7 +2076,7 @@ Beaming like the autumn moon and greeting everyone with sweet words as Lakṣma�
 
 <details><summary>मूलम्</summary>
 
-सर्वोऽप्यभिजनः श्रीमान् श्रीमतः सत्यवादिनः ।  
+[^non-baroDa-CE] सर्वोऽप्यभिजनः श्रीमान् श्रीमतः सत्यवादिनः ।  
 नालक्षयत रामस्य कञ्चिदाकारमानने ॥ ३६ ॥
 </details>
 
@@ -2131,8 +2131,8 @@ None among the noble attendants standing around perceived the slightest change o
 
 <details><summary>मूलम्</summary>
 
-उचितं च महाबाहुर्न जहौ हर्षमात्मवान् ।  
-शारदः समुदीर्णांशुश्चन्द्रस्तेज इवात्मजम् ॥ ३७ ॥
+[^non-baroDa-CE] उचितं च महाबाहुर्न जहौ हर्षमात्मवान् ।  
+[^non-baroDa-CE] शारदः समुदीर्णांशुश्चन्द्रस्तेज इवात्मजम् ॥ ३७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2185,8 +2185,8 @@ Nor did that self-possessed, mighty-armed prince abandon his natural cheerfulnes
 
 <details><summary>मूलम्</summary>
 
-वाचा मधुरया रामः सर्वं सम्मानयञ्जनम् ।  
-मातुः समीपं धर्मात्मा प्रविवेश महायशाः ॥ ३८ ॥
+[^non-baroDa-CE] वाचा मधुरया रामः सर्वं सम्मानयञ्जनम् ।  
+[^non-baroDa-CE] मातुः समीपं धर्मात्मा प्रविवेश महायशाः ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2239,8 +2239,8 @@ Honoring all the people with sweet speech, the righteous-souled Rāma of mighty 
 
 <details><summary>मूलम्</summary>
 
-तं गुणैः समतां प्राप्तो भ्राता विपुलविक्रमः ।  
-सौमित्रिरनुवव्राज धारयन् दुःखमात्मजम् ॥ ३९ ॥
+[^non-baroDa-CE] तं गुणैः समतां प्राप्तो भ्राता विपुलविक्रमः ।  
+[^non-baroDa-CE] सौमित्रिरनुवव्राज धारयन् दुःखमात्मजम् ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2358,3 +2358,4 @@ Entering that palace, which was overflowing with festal joy, and beholding the r
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

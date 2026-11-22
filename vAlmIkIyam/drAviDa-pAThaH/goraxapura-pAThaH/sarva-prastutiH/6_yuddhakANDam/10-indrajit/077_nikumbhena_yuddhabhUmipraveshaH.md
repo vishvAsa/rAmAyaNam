@@ -1136,12 +1136,12 @@ When roaring Nikumbha had been laid low by the son of the Wind-god in battle, a 
 
 <details><summary>मूलम्</summary>
 
-व्यपेते तु जीवे निकुम्भस्य हृष्टा  
+[^non-baroDa-CE] व्यपेते तु जीवे निकुम्भस्य हृष्टा  
 विनेदुः प्लवङ्गा दिशः सस्वनुश्च ।  
-चचालेव चोर्वी पपातेव सा द्यौ-  
-र्बलं राक्षसानां भयं चाविवेश ॥ २४ ॥
+[^non-baroDa-CE] चचालेव चोर्वी पपातेव सा द्यौ-  
+[^non-baroDa-CE] र्बलं राक्षसानां भयं चाविवेश ॥ २४ ॥
 _________________
-व्यपेते तु जीवे निकुम्भस्य हृष्टा  
+[^non-baroDa-CE] व्यपेते तु जीवे निकुम्भस्य हृष्टा  
 विनेदुः प्लवङ्गा दिशः सस्वनुश्च ।  
 चचालेव चोर्वी पपालेव सा द्यौ-  
 र्बलं राक्षसानां बलं चाविवेश ॥
@@ -1201,3 +1201,4 @@ When Nikumbha&#x27;s life-breath had departed (_vyapete tu jīve_), the monkeys 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

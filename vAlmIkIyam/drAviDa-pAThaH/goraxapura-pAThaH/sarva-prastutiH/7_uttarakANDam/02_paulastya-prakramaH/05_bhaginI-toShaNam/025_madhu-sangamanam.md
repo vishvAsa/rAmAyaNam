@@ -985,7 +985,7 @@ Marching north to Mount Kailāsa—significantly recalled as Vaiśravaṇa’s (
 
 <details><summary>मूलम्</summary>
 
-तदेतत् कर्मणो ह्यस्य फलं पापस्य दुर्मतेः ॥ २८ ॥  
+[^non-baroDa-CE] तदेतत् कर्मणो ह्यस्य फलं पापस्य दुर्मतेः ॥ २८ ॥  
 अस्मिन्नेवाभिसम्प्राप्तं लोके विदितमस्तु ते ।
 </details>
 
@@ -1017,7 +1017,7 @@ Marching north to Mount Kailāsa—significantly recalled as Vaiśravaṇa’s (
 
 <details><summary>मूलम्</summary>
 
-विभीषणवचः श्रुत्वा राक्षसेन्द्रः स रावणः ॥ २९ ॥  
+[^non-baroDa-CE] विभीषणवचः श्रुत्वा राक्षसेन्द्रः स रावणः ॥ २९ ॥  
 दौरात्म्येनात्मनोद्‍धूतस्तप्ताम्भा इव सागरः ।  
 ततोऽब्रवीद् दशग्रीवः क्रुद्धः संरक्तलोचनः ॥ ३० ॥
 </details>
@@ -1367,8 +1367,8 @@ Holding Rāvaṇa to his own word ‘Fear not,’ Kumbhīnasī wins Madhu’s pa
 
 साब्रवीद् यदि मे राजन् प्रसन्नस्त्वं महाभुज ॥ ४१ ॥  
 भर्तारं न ममेहाद्य हन्तुमर्हसि मानद ।  
-नहीदृशं भयं किञ्चित् कुलस्त्रीणामिहोच्यते ॥ ४२ ॥  
-भयानामपि सर्वेषां वैधव्यं व्यसनं महत् ।
+[^non-baroDa-CE] नहीदृशं भयं किञ्चित् कुलस्त्रीणामिहोच्यते ॥ ४२ ॥  
+[^non-baroDa-CE] भयानामपि सर्वेषां वैधव्यं व्यसनं महत् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1658,3 +1658,4 @@ Thereupon, reaching Mount Kailāsa, the abode of Vaiśravaṇa (_kailāsam āsā
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

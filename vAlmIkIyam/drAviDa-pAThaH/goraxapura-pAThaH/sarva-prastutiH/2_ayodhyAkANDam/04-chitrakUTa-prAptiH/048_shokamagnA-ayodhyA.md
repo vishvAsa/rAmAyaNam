@@ -44,8 +44,8 @@ Returning to Ayodhyā with their life-breaths nearly departed, the citizens weep
 
 <details><summary>मूलम्</summary>
 
-तेषामेवं विषण्णानां पीडितानामतीव च ।  
-बाष्पविप्लुतनेत्राणां सशोकानां मुमूर्षया ॥ १ ॥  
+[^non-baroDa-CE] तेषामेवं विषण्णानां पीडितानामतीव च ।  
+[^non-baroDa-CE] बाष्पविप्लुतनेत्राणां सशोकानां मुमूर्षया ॥ १ ॥  
 अभिगम्य निवृत्तानां रामं नगरवासिनाम् ।  
 उद‍्गतानीव सत्त्वानि बभूवुरमनस्विनाम् ॥ २ ॥
 </details>
@@ -650,7 +650,7 @@ Describing how mountains will pour forth clear cascades out of tenderness for R�
 
 <details><summary>मूलम्</summary>
 
-अकाले चापि मुख्यानि पुष्पाणि च फलानि च ।  
+[^non-baroDa-CE] अकाले चापि मुख्यानि पुष्पाणि च फलानि च ।  
 दर्शयिष्यन्त्यनुक्रोशाद् गिरयो राममागतम् ॥ १३ ॥
 </details>
 
@@ -703,7 +703,7 @@ and fruits to Rama, on his arrival."
 
 <details><summary>मूलम्</summary>
 
-प्रस्रविष्यन्ति तोयानि विमलानि महीधराः ।  
+[^non-baroDa-CE] प्रस्रविष्यन्ति तोयानि विमलानि महीधराः ।  
 विदर्शयन्तो विविधान् भूयश्चित्रांश्च निर्झरान् ॥ १४ ॥
 </details>
 
@@ -1276,7 +1276,7 @@ Foreseeing Daśaratha’s death and the kingdom’s ruin, the wives bid their hu
 उपद्रुतमिदं सर्वमनालम्भमनायकम् ।  
 कैकेय्यास्तु कृते सर्वं विनाशमुपयास्यति ॥ २५ ॥
 _________________
-उपद्रुतमिदं सर्वमनालम्बमनायकम् ।  
+[^non-baroDa-CE] उपद्रुतमिदं सर्वमनालम्बमनायकम् ।  
 कैकेय्यास्तु कृते सर्वं विनाशमुपयास्यति ॥
 </details>
 
@@ -1497,7 +1497,7 @@ Praising Rāma as the gentle, first-speaking hero who will grace the forests as 
 <details><summary>मूलम्</summary>
 
 पूर्णचन्द्राननः श्यामो गूढजत्रुररिन्दमः ।  
-आजानुबाहुः पद्माक्षो रामो लक्ष्मणपूर्वजः ॥ २९ ॥  
+[^non-baroDa-CE] आजानुबाहुः पद्माक्षो रामो लक्ष्मणपूर्वजः ॥ २९ ॥  
 पूर्वाभिभाषी मधुरः सत्यवादी महाबलः ।  
 सौम्यश्च सर्वलोकस्य चन्द्रवत् प्रियदर्शनः ॥ ३० ॥
 </details>
@@ -1531,11 +1531,11 @@ Praising Rāma as the gentle, first-speaking hero who will grace the forests as 
 
 <details><summary>मूलम्</summary>
 
-नूनं पुरुषशार्दूलो मत्तमातङ्गविक्रमः ।  
-शोभयिष्यत्यरण्यानि विचरन् स महारथः ॥ ३१ ॥
+[^non-baroDa-CE] नूनं पुरुषशार्दूलो मत्तमातङ्गविक्रमः ।  
+[^non-baroDa-CE] शोभयिष्यत्यरण्यानि विचरन् स महारथः ॥ ३१ ॥
 _________________
 नूनं पुरुषशर्दूलो मत्तमातङ्गविक्रमः ।  
-शोभयिष्यत्यरण्यानि विचरन् स महारथः ॥
+[^non-baroDa-CE] शोभयिष्यत्यरण्यानि विचरन् स महारथः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1639,8 +1639,8 @@ Lamenting thus in the city, those wives of the citizens (_nāgara-striyaḥ_), t
 
 <details><summary>मूलम्</summary>
 
-इत्येवं विलपन्तीनां स्त्रीणां वेश्मसु राघवम् ।  
-जगामास्तं दिनकरो रजनी चाभ्यवर्तत ॥ ३३ ॥
+[^non-baroDa-CE] इत्येवं विलपन्तीनां स्त्रीणां वेश्मसु राघवम् ।  
+[^non-baroDa-CE] जगामास्तं दिनकरो रजनी चाभ्यवर्तत ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1699,7 +1699,7 @@ With sacrificial fires extinguished, Vedic recitation and Purāṇic discourse h
 
 <details><summary>मूलम्</summary>
 
-नष्टज्वलनसन्तापा प्रशान्ताध्यायसत्कथा ।  
+[^non-baroDa-CE] नष्टज्वलनसन्तापा प्रशान्ताध्यायसत्कथा ।  
 तिमिरेणानुलिप्तेव तदा सा नगरी बभौ ॥ ३४ ॥
 </details>
 
@@ -1753,8 +1753,8 @@ With the heat of its sacrificial fires extinguished (_naṣṭa-jvalana-santāp�
 
 <details><summary>मूलम्</summary>
 
-उपशान्तवणिक्पण्या नष्टहर्षा निराश्रया ।  
-अयोध्या नगरी चासीन्नष्टतारमिवाम्बरम् ॥ ३५ ॥
+[^non-baroDa-CE] उपशान्तवणिक्पण्या नष्टहर्षा निराश्रया ।  
+[^non-baroDa-CE] अयोध्या नगरी चासीन्नष्टतारमिवाम्बरम् ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1872,7 +1872,7 @@ Then, anguished on Rāma’s account (_rāma-nimittam āturāḥ_) as though the
 
 प्रशान्तगीतोत्सवनृत्यवादना  
 विभ्रष्टहर्षा पिहितापणोदया ।  
-तदा ह्ययोध्या नगरी बभूव सा  
+[^non-baroDa-CE] तदा ह्ययोध्या नगरी बभूव सा  
 महार्णवः सङ्क्षपितोदको यथा ॥ ३७ ॥
 </details>
 
@@ -1929,3 +1929,4 @@ With song, festivity, dance, and instrumental music stilled (_praśānta-gītots
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

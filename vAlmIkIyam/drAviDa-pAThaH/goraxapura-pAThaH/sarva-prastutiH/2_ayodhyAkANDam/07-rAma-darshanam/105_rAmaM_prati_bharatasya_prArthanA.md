@@ -1686,8 +1686,8 @@ Through rightly supporting his dependents (_bhṛtyānāṃ bharaṇāt samyak_)
 
 <details><summary>मूलम्</summary>
 
-कर्मभिस्तु शुभैरिष्टैः क्रतुभिश्चाप्तदक्षिणैः ।  
-स्वर्गं दशरथः प्राप्तः पिता नः पृथिवीपतिः ॥ ३४ ॥
+[^non-baroDa-CE] कर्मभिस्तु शुभैरिष्टैः क्रतुभिश्चाप्तदक्षिणैः ।  
+[^non-baroDa-CE] स्वर्गं दशरथः प्राप्तः पिता नः पृथिवीपतिः ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1791,7 +1791,7 @@ Having worshipped the gods with manifold sacrifices (_iṣṭvā bahuvidhair yaj
 
 <details><summary>मूलम्</summary>
 
-आयुरुत्तममासाद्य भोगानपि च राघवः ।  
+[^non-baroDa-CE] आयुरुत्तममासाद्य भोगानपि च राघवः ।  
 न स शोच्यः पिता तात स्वर्गतः सत्कृतः सताम् ॥ ३६ ॥
 </details>
 
@@ -2186,7 +2186,7 @@ It is not righteous for me to abandon his command (_na mayā śāsanaṃ tasya t
 <details><summary>मूलम्</summary>
 
 तद् वचः पितुरेवाहं सम्मतं धर्मचारिणाम् ।  
-कर्मणा पालयिष्यामि वनवासेन राघव ॥ ४३ ॥
+[^non-baroDa-CE] कर्मणा पालयिष्यामि वनवासेन राघव ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2238,7 +2238,7 @@ That word of my righteous-living father (_pitur dharma-cāriṇaḥ_), which is 
 <details><summary>मूलम्</summary>
 
 धार्मिकेणानृशंसेन नरेण गुरुवर्तिना ।  
-भवितव्यं नरव्याघ्र परलोकं जिगीषता ॥ ४४ ॥
+[^non-baroDa-CE] भवितव्यं नरव्याघ्र परलोकं जिगीषता ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2289,8 +2289,8 @@ A man who desires to win the higher world (_paralokaṃ jigīṣatā_), O tiger 
 
 <details><summary>मूलम्</summary>
 
-आत्मानमनुतिष्ठ त्वं स्वभावेन नरर्षभ ।  
-निशाम्य तु शुभं वृत्तं पितुर्दशरथस्य नः ॥ ४५ ॥
+[^non-baroDa-CE] आत्मानमनुतिष्ठ त्वं स्वभावेन नरर्षभ ।  
+[^non-baroDa-CE] निशाम्य तु शुभं वृत्तं पितुर्दशरथस्य नः ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2343,10 +2343,10 @@ Do you yourself attend to your own royal duty according to your innate nature (_
 
 <details><summary>मूलम्</summary>
 
-इत्येवमुक्त्वा वचनं महात्मा  
-पितुर्निदेशप्रतिपालनार्थम् ।  
-यवीयसं भ्रातरमर्थवच्च  
-प्रभुर्मुहूर्ताद् विरराम रामः ॥ ४६ ॥
+[^non-baroDa-CE] इत्येवमुक्त्वा वचनं महात्मा  
+[^non-baroDa-CE] पितुर्निदेशप्रतिपालनार्थम् ।  
+[^non-baroDa-CE] यवीयसं भ्रातरमर्थवच्च  
+[^non-baroDa-CE] प्रभुर्मुहूर्ताद् विरराम रामः ॥ ४६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2403,3 +2403,4 @@ Having thus spoken these words fraught with deep meaning (_vacanam arthavat_) un
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

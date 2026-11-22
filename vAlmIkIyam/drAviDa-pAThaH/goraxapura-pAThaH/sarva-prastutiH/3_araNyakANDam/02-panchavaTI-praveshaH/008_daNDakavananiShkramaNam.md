@@ -981,11 +981,11 @@ Binding on their two bright quivers and taking up their resonant bows (_cāpe sa
 
 <details><summary>मूलम्</summary>
 
-शीघ्रं तौ रूपसम्पन्नावनुज्ञातौ महर्षिणा ।  
-प्रस्थितौ धृतचापासी सीतया सह राघवौ ॥ २० ॥
+[^non-baroDa-CE] शीघ्रं तौ रूपसम्पन्नावनुज्ञातौ महर्षिणा ।  
+[^non-baroDa-CE] प्रस्थितौ धृतचापासी सीतया सह राघवौ ॥ २० ॥
 _________________
 शीघ्रं तौ रूपसम्पन्नावनुज्ञाताऔ महर्षिणा ।  
-प्रस्थितौ धृतचापासी सीतया सह राघवौ ॥
+[^non-baroDa-CE] प्रस्थितौ धृतचापासी सीतया सह राघवौ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1037,3 +1037,4 @@ Granted leave by the great sage, those two Rāghavas, endowed with beauty and be
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

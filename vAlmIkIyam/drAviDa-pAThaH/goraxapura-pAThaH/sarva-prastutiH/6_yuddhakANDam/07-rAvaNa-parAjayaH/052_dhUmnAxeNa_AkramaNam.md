@@ -658,10 +658,10 @@ Strewn with crushed elephants and steeds, the battlefield sees Vānaras rending 
 
 <details><summary>मूलम्</summary>
 
-गजेन्द्रैः पर्वताकारैः पर्वताग्रैर्वनौकसाम् ।  
-मथितैर्वाजिभिः कीर्णं सारोहैर्वसुधातलम् ॥ १३ ॥
+[^non-baroDa-CE] गजेन्द्रैः पर्वताकारैः पर्वताग्रैर्वनौकसाम् ।  
+[^non-baroDa-CE] मथितैर्वाजिभिः कीर्णं सारोहैर्वसुधातलम् ॥ १३ ॥
 _________________
-गजेन्द्रैः पर्वताकारैः पर्वताग्रैर्वनौकसाम् ।  
+[^non-baroDa-CE] गजेन्द्रैः पर्वताकारैः पर्वताग्रैर्वनौकसाम् ।  
 मथितैर्वाभिजिः कीर्णं सारोहैर्वसुधातलम् ॥
 </details>
 
@@ -2090,3 +2090,4 @@ Having slain his foes and set rivers flowing with blood (_kṣatajavahāḥ sari
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

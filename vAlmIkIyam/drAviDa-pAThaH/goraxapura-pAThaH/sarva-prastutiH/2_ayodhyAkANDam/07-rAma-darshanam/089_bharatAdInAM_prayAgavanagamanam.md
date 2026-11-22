@@ -1232,10 +1232,10 @@ Approaching the hermitage of that high-souled Brāhmaṇa, the chaplain of the g
 
 <details><summary>मूलम्</summary>
 
-स ब्राह्मणस्याश्रममभ्युपेत्य  
-महात्मनो देवपुरोहितस्य ।  
+[^non-baroDa-CE] स ब्राह्मणस्याश्रममभ्युपेत्य  
+[^non-baroDa-CE] महात्मनो देवपुरोहितस्य ।  
 ददर्श रम्योटजवृक्षदेशं  
-महद्वनं विप्रवरस्य रम्यम् ॥ २३ ॥
+[^non-baroDa-CE] महद्वनं विप्रवरस्य रम्यम् ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1285,3 +1285,5 @@ ascatics.
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तॊम्भत्तनॆय सर्ग पूर्णवायितु॥89॥
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

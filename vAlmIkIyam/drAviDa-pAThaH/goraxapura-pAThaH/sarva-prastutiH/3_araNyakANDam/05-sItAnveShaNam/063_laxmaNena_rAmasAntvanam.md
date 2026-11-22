@@ -45,10 +45,10 @@ Plunged into deeper anguish and sighing hotly, Rāma tells Lakṣmaṇa that pas
 
 <details><summary>मूलम्</summary>
 
-स राजपुत्रः प्रियया विहीनः  
-शोकेन मोहेन च पीड्यमानः ।  
-विषादयन् भ्रातरमार्तरूपो  
-भूयो विषादं प्रविवेश तीव्रम् ॥ १ ॥
+[^non-baroDa-CE] स राजपुत्रः प्रियया विहीनः  
+[^non-baroDa-CE] शोकेन मोहेन च पीड्यमानः ।  
+[^non-baroDa-CE] विषादयन् भ्रातरमार्तरूपो  
+[^non-baroDa-CE] भूयो विषादं प्रविवेश तीव्रम् ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -105,10 +105,10 @@ Bereft of his beloved (_priyayā vihīnaḥ_) and tormented by grief and delusio
 
 <details><summary>मूलम्</summary>
 
-स लक्ष्मणं शोकवशाभिपन्नं  
-शोके निमग्नो विपुले तु रामः ।  
-उवाच वाक्यं व्यसनानुरूप-  
-मुष्णं विनिःश्वस्य रुदन् सशोकम् ॥ २ ॥
+[^non-baroDa-CE] स लक्ष्मणं शोकवशाभिपन्नं  
+[^non-baroDa-CE] शोके निमग्नो विपुले तु रामः ।  
+[^non-baroDa-CE] उवाच वाक्यं व्यसनानुरूप-  
+[^non-baroDa-CE] मुष्णं विनिःश्वस्य रुदन् सशोकम् ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -166,10 +166,10 @@ Plunged in vast sorrow (_śoke nimagno vipule_), Rāma sighed hotly (_uṣṇa�
 
 <details><summary>मूलम्</summary>
 
-न मद्विधो दुष्कृतकर्मकारी  
+[^non-baroDa-CE] न मद्विधो दुष्कृतकर्मकारी  
 मन्ये द्वितीयोऽस्ति वसुन्धरायाम् ।  
-शोकानुशोको हि परम्पराया  
-मामेति भिन्दन् हृदयं मनश्च ॥ ३ ॥
+[^non-baroDa-CE] शोकानुशोको हि परम्पराया  
+[^non-baroDa-CE] मामेति भिन्दन् हृदयं मनश्च ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -226,10 +226,10 @@ by woe are getting at me in seriation to burst my heart and mind... [3-63-3]
 
 <details><summary>मूलम्</summary>
 
-पूर्वं मया नूनमभीप्सितानि  
-पापानि कर्माण्यसकृत्कृतानि ।  
-तत्रायमद्यापतितो विपाको  
-दुःखेन दुःखं यदहं विशामि ॥ ४ ॥
+[^non-baroDa-CE] पूर्वं मया नूनमभीप्सितानि  
+[^non-baroDa-CE] पापानि कर्माण्यसकृत्कृतानि ।  
+[^non-baroDa-CE] तत्रायमद्यापतितो विपाको  
+[^non-baroDa-CE] दुःखेन दुःखं यदहं विशामि ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -294,10 +294,10 @@ bechances at a later time in the shape of misfortune.
 
 <details><summary>मूलम्</summary>
 
-राज्यप्रणाशः स्वजनैर्वियोगः  
-पितुर्विनाशो जननीवियोगः ।  
-सर्वाणि मे लक्ष्मण शोकवेग-  
-मापूरयन्ति प्रविचिन्तितानि ॥ ५ ॥
+[^non-baroDa-CE] राज्यप्रणाशः स्वजनैर्वियोगः  
+[^non-baroDa-CE] पितुर्विनाशो जननीवियोगः ।  
+[^non-baroDa-CE] सर्वाणि मे लक्ष्मण शोकवेग-  
+[^non-baroDa-CE] मापूरयन्ति प्रविचिन्तितानि ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -354,10 +354,10 @@ are replenishing the haste of my agony... [3-63-5]
 
 <details><summary>मूलम्</summary>
 
-सर्वं तु दुःखं मम लक्ष्मणेदं  
-शान्तं शरीरे वनमेत्य क्लेशम् ।  
-सीतावियोगात् पुनरप्युदीर्णं  
-काष्ठैरिवाग्निः सहसोपदीप्तः ॥ ६ ॥
+[^non-baroDa-CE] सर्वं तु दुःखं मम लक्ष्मणेदं  
+[^non-baroDa-CE] शान्तं शरीरे वनमेत्य क्लेशम् ।  
+[^non-baroDa-CE] सीतावियोगात् पुनरप्युदीर्णं  
+[^non-baroDa-CE] काष्ठैरिवाग्निः सहसोपदीप्तः ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -422,10 +422,10 @@ Picturing the timid Sītā carried through the sky and mangled by blood-drinking
 
 <details><summary>मूलम्</summary>
 
-सा नूनमार्या मम राक्षसेन  
-ह्यभ्याहृता खं समुपेत्य भीरुः ।  
-अपस्वरं सुस्वरविप्रलापा  
-भयेन विक्रन्दितवत्यभीक्ष्णम् ॥ ७ ॥
+[^non-baroDa-CE] सा नूनमार्या मम राक्षसेन  
+[^non-baroDa-CE] ह्यभ्याहृता खं समुपेत्य भीरुः ।  
+[^non-baroDa-CE] अपस्वरं सुस्वरविप्रलापा  
+[^non-baroDa-CE] भयेन विक्रन्दितवत्यभीक्ष्णम् ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -483,10 +483,10 @@ sweet voice might have wept a lot fearfully, and it is definite that she must ha
 
 <details><summary>मूलम्</summary>
 
-तौ लोहितस्य प्रियदर्शनस्य  
-सदोचितावुत्तमचन्दनस्य ।  
-वृत्तौ स्तनौ शोणितपङ्कदिग्धौ  
-नूनं प्रियाया मम नाभिपातः ॥ ८ ॥
+[^non-baroDa-CE] तौ लोहितस्य प्रियदर्शनस्य  
+[^non-baroDa-CE] सदोचितावुत्तमचन्दनस्य ।  
+[^non-baroDa-CE] वृत्तौ स्तनौ शोणितपङ्कदिग्धौ  
+[^non-baroDa-CE] नूनं प्रियाया मम नाभिपातः ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -544,15 +544,15 @@ they are extricated from her body for devouring. [3-63-8]
 
 <details><summary>मूलम्</summary>
 
-तच्छ्लक्ष्णसुव्यक्तमृदुप्रलापं  
-तस्या मुखं कुञ्चितकेशभारम् ।  
-रक्षोवशं नूनमुपागताया  
-न भ्राजते राहुमुखे यथेन्दुः ॥ ९ ॥
+[^non-baroDa-CE] तच्छ्लक्ष्णसुव्यक्तमृदुप्रलापं  
+[^non-baroDa-CE] तस्या मुखं कुञ्चितकेशभारम् ।  
+[^non-baroDa-CE] रक्षोवशं नूनमुपागताया  
+[^non-baroDa-CE] न भ्राजते राहुमुखे यथेन्दुः ॥ ९ ॥
 _________________
 तत् छलक्ष्णसुव्यक्तमृदुप्रलापं  
 तस्या मुखं कुञ्जितकेशभारम् ।  
-रक्षोवशं नूनमुपागताया  
-न भ्राजते राहुमुखे यथेन्दुः ॥
+[^non-baroDa-CE] रक्षोवशं नूनमुपागताया  
+[^non-baroDa-CE] न भ्राजते राहुमुखे यथेन्दुः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -610,14 +610,14 @@ planet Raahu, it is definite... [3-63-9]
 
 <details><summary>मूलम्</summary>
 
-तां हारपाशस्य सदोचितान्तां  
-ग्रीवां प्रियाया मम सुव्रतायाः ।  
-रक्षांसि नूनं परिपीतवन्ति  
-शून्ये हि भित्त्वा रुधिराशनानि ॥ १० ॥
+[^non-baroDa-CE] तां हारपाशस्य सदोचितान्तां  
+[^non-baroDa-CE] ग्रीवां प्रियाया मम सुव्रतायाः ।  
+[^non-baroDa-CE] रक्षांसि नूनं परिपीतवन्ति  
+[^non-baroDa-CE] शून्ये हि भित्त्वा रुधिराशनानि ॥ १० ॥
 _________________
-तां हारपाशस्य सदोचितान्तां  
-ग्रीवां प्रियाया मम सुव्रतायाः ।  
-रक्षांसि नूनं परिपीतवन्ति  
+[^non-baroDa-CE] तां हारपाशस्य सदोचितान्तां  
+[^non-baroDa-CE] ग्रीवां प्रियाया मम सुव्रतायाः ।  
+[^non-baroDa-CE] रक्षांसि नूनं परिपीतवन्ति  
 शून्ये हि भित्वा रुधिराशनानि ॥
 </details>
 
@@ -675,10 +675,10 @@ might have drunk her blood, it is definite... [3-63-10]
 
 <details><summary>मूलम्</summary>
 
-मया विहीना विजने वने सा  
-रक्षोभिराहृत्य विकृष्यमाणा ।  
-नूनं विनादं कुररीव दीना  
-सा मुक्तवत्यायतकान्तनेत्रा ॥ ११ ॥
+[^non-baroDa-CE] मया विहीना विजने वने सा  
+[^non-baroDa-CE] रक्षोभिराहृत्य विकृष्यमाणा ।  
+[^non-baroDa-CE] नूनं विनादं कुररीव दीना  
+[^non-baroDa-CE] सा मुक्तवत्यायतकान्तनेत्रा ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -745,10 +745,10 @@ Recalling Sītā's playful laughter on a rock slab beside the Godāvarī, Rāma 
 
 <details><summary>मूलम्</summary>
 
-अस्मिन् मया सार्धमुदारशीला  
-शिलातले पूर्वमुपोपविष्टा ।  
-कान्तस्मिता लक्ष्मण जातहासा  
-त्वामाह सीता बहुवाक्यजातम् ॥ १२ ॥
+[^non-baroDa-CE] अस्मिन् मया सार्धमुदारशीला  
+[^non-baroDa-CE] शिलातले पूर्वमुपोपविष्टा ।  
+[^non-baroDa-CE] कान्तस्मिता लक्ष्मण जातहासा  
+[^non-baroDa-CE] त्वामाह सीता बहुवाक्यजातम् ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -841,10 +841,10 @@ same everywhere.
 
 <details><summary>मूलम्</summary>
 
-गोदावरीयं सरितां वरिष्ठा  
-प्रिया प्रियाया मम नित्यकालम् ।  
-अप्यत्र गच्छेदिति चिन्तयामि  
-नैकाकिनी याति हि सा कदाचित् ॥ १३ ॥
+[^non-baroDa-CE] गोदावरीयं सरितां वरिष्ठा  
+[^non-baroDa-CE] प्रिया प्रियाया मम नित्यकालम् ।  
+[^non-baroDa-CE] अप्यत्र गच्छेदिति चिन्तयामि  
+[^non-baroDa-CE] नैकाकिनी याति हि सा कदाचित् ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -899,10 +899,10 @@ I think she would have gone thereunto. But, at anytime she did not go there, sin
 
 <details><summary>मूलम्</summary>
 
-पद्मानना पद्मपलाशनेत्रा  
-पद्मानि वानेतुमभिप्रयाता ।  
-तदप्ययुक्तं नहि सा कदाचि-  
-न्मया विना गच्छति पङ्कजानि ॥ १४ ॥
+[^non-baroDa-CE] पद्मानना पद्मपलाशनेत्रा  
+[^non-baroDa-CE] पद्मानि वानेतुमभिप्रयाता ।  
+[^non-baroDa-CE] तदप्ययुक्तं नहि सा कदाचि-  
+[^non-baroDa-CE] न्मया विना गच्छति पङ्कजानि ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -958,15 +958,15 @@ is incongruous, for she never goes to get lotuses, indeed without me... [3-63-14
 
 <details><summary>मूलम्</summary>
 
-कामं त्विदं पुष्पितवृक्षषण्डं  
-नानाविधैः पक्षिगणैरुपेतम् ।  
-वनं प्रयाता नु तदप्ययुक्त-  
-मेकाकिनी सातिबिभेति भीरुः ॥ १५ ॥
+[^non-baroDa-CE] कामं त्विदं पुष्पितवृक्षषण्डं  
+[^non-baroDa-CE] नानाविधैः पक्षिगणैरुपेतम् ।  
+[^non-baroDa-CE] वनं प्रयाता नु तदप्ययुक्त-  
+[^non-baroDa-CE] मेकाकिनी सातिबिभेति भीरुः ॥ १५ ॥
 _________________
 कामं त्विदं पुष्टितवृक्षषण्डं  
-नानाविधैः पक्षिगणैरुपेतम् ।  
-वनं प्रयाता नु तदप्ययुक्त-  
-मेकाकिनी सातिबिभेति भीरुः ॥
+[^non-baroDa-CE] नानाविधैः पक्षिगणैरुपेतम् ।  
+[^non-baroDa-CE] वनं प्रयाता नु तदप्ययुक्त-  
+[^non-baroDa-CE] मेकाकिनी सातिबिभेति भीरुः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1023,10 +1023,10 @@ kind! Nay, that thought also is incongruent, because she as a timid one is much 
 
 <details><summary>मूलम्</summary>
 
-आदित्य भो लोककृताकृतज्ञ  
-लोकस्य सत्यानृतकर्मसाक्षिन् ।  
-मम प्रिया सा क्व गता हृता वा  
-शंसस्व मे शोकहतस्य सर्वम् ॥ १६ ॥
+[^non-baroDa-CE] आदित्य भो लोककृताकृतज्ञ  
+[^non-baroDa-CE] लोकस्य सत्यानृतकर्मसाक्षिन् ।  
+[^non-baroDa-CE] मम प्रिया सा क्व गता हृता वा  
+[^non-baroDa-CE] शंसस्व मे शोकहतस्य सर्वम् ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1093,14 +1093,14 @@ After Rāma implores the omnipresent Wind-god to tell of Sītā, the steadfast L
 <details><summary>मूलम्</summary>
 
 लोकेषु सर्वेषु न नास्ति किञ्चिद्  
-यत् ते न नित्यं विदितं भवेत् तत् ।  
-शंसस्व वायो कुलपालिनीं तां  
-मृता हृता वा पथि वर्तते वा ॥ १७ ॥
+[^non-baroDa-CE] यत् ते न नित्यं विदितं भवेत् तत् ।  
+[^non-baroDa-CE] शंसस्व वायो कुलपालिनीं तां  
+[^non-baroDa-CE] मृता हृता वा पथि वर्तते वा ॥ १७ ॥
 _________________
 लोकेषु सर्वेषु च नास्ति किञ्चिद्  
-यत् ते न नित्यं विदितं भवेत्तत् ।  
-शंसस्व वायो कुलपालिनीं तां  
-मृता हृता वा पथि वर्तते वा ॥
+[^non-baroDa-CE] यत् ते न नित्यं विदितं भवेत्तत् ।  
+[^non-baroDa-CE] शंसस्व वायो कुलपालिनीं तां  
+[^non-baroDa-CE] मृता हृता वा पथि वर्तते वा ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1160,10 +1160,10 @@ Thus Rama begged of the Eternals for locating Seetha. [3-63-17]
 
 <details><summary>मूलम्</summary>
 
-इतीव तं शोकविधेयदेहं  
+[^non-baroDa-CE] इतीव तं शोकविधेयदेहं  
 रामं विसञ्ज्ञं विलपन्तमेव ।  
-उवाच सौमित्रिरदीनसत्त्वो  
-न्याय्ये स्थितः कालयुतं च वाक्यम् ॥ १८ ॥
+[^non-baroDa-CE] उवाच सौमित्रिरदीनसत्त्वो  
+[^non-baroDa-CE] न्याय्ये स्थितः कालयुतं च वाक्यम् ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1220,15 +1220,15 @@ Unto that Rāma, whose body was thus utterly subject to grief (_śoka-vidheya-de
 
 <details><summary>मूलम्</summary>
 
-शोकं विसृज्याद्य धृतिं भजस्व  
-सोत्साहता चास्तु विमार्गणेऽस्याः ।  
-उत्साहवन्तो हि नरा न लोके  
-सीदन्ति कर्मस्वतिदुष्करेषु ॥ १९ ॥
+[^non-baroDa-CE] शोकं विसृज्याद्य धृतिं भजस्व  
+[^non-baroDa-CE] सोत्साहता चास्तु विमार्गणेऽस्याः ।  
+[^non-baroDa-CE] उत्साहवन्तो हि नरा न लोके  
+[^non-baroDa-CE] सीदन्ति कर्मस्वतिदुष्करेषु ॥ १९ ॥
 _________________
-शोकं विसृज्याद्य धृतिं भजस्व  
+[^non-baroDa-CE] शोकं विसृज्याद्य धृतिं भजस्व  
 सोत्साहता चास्तु विमागणेऽस्याः ।  
-उत्साहवन्तो हि नरा न लोके  
-सीदन्ति कर्मस्वतिदुष्करेषु ॥
+[^non-baroDa-CE] उत्साहवन्तो हि नरा न लोके  
+[^non-baroDa-CE] सीदन्ति कर्मस्वतिदुष्करेषु ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1296,10 +1296,10 @@ killing of lonesome Abhimanyu, the son of Arjuna, in Maha Bharata war.
 
 <details><summary>मूलम्</summary>
 
-इतीव सौमित्रिमुदग्रपौरुषं  
-ब्रुवन्तमार्तो रघुवंशवर्धनः ।  
-न चिन्तयामास धृतिं विमुक्तवान्  
-पुनश्च दुःखं महदभ्युपागमत् ॥ २० ॥
+[^non-baroDa-CE] इतीव सौमित्रिमुदग्रपौरुषं  
+[^non-baroDa-CE] ब्रुवन्तमार्तो रघुवंशवर्धनः ।  
+[^non-baroDa-CE] न चिन्तयामास धृतिं विमुक्तवान्  
+[^non-baroDa-CE] पुनश्च दुःखं महदभ्युपागमत् ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1354,3 +1354,4 @@ Though Sumitrā&#x27;s son of lofty valor spoke thus (_itīva saumitrim udagra-p
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

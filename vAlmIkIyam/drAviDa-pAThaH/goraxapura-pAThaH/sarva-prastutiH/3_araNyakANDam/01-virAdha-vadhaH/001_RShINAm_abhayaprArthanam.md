@@ -725,11 +725,11 @@ Of mighty splendour (_mahā-tejāḥ_), approached it after unstringing his grea
 <details><summary>मूलम्</summary>
 
 ते तु सोममिवोद्यन्तं दृष्ट्वा वै धर्मचारिणम् ॥ ११ ॥  
-लक्ष्मणं चैव दृष्ट्वा तु वैदेहीं च यशस्विनीम् ।  
+[^non-baroDa-CE] लक्ष्मणं चैव दृष्ट्वा तु वैदेहीं च यशस्विनीम् ।  
 मङ्गलानि प्रयुञ्जानाः प्रत्यगृह्णन् दृढव्रताः ॥ १२ ॥
 _________________
 ते तु सोमविवोद्यन्तं दृष्ट्वा वै धर्मचारिणम् ॥
-लक्ष्मणं चैव दृष्ट्वा तु वैदेहीं च यशस्विनीम् ।  
+[^non-baroDa-CE] लक्ष्मणं चैव दृष्ट्वा तु वैदेहीं च यशस्विनीम् ।  
 मङ्गलानि प्रयुञ्जानाः प्रत्यगृह्णन् दृढव्रताः ॥
 </details>
 
@@ -1042,7 +1042,7 @@ Then those illustrious followers of _dharma_ (_dharma-cāriṇaḥ_), resplenden
 
 <details><summary>मूलम्</summary>
 
-मङ्गलानि प्रयुञ्जाना मुदा परमया युताः ।  
+[^non-baroDa-CE] मङ्गलानि प्रयुञ्जाना मुदा परमया युताः ।  
 मूलं पुष्पं फलं सर्वमाश्रमं च महात्मनः ॥ १७ ॥
 </details>
 
@@ -1394,3 +1394,4 @@ Likewise other perfected ascetics (_tāpasāḥ siddhāḥ_), resplendent as fir
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

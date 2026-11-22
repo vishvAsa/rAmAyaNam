@@ -1332,10 +1332,10 @@ With lightning for their banners (_vidyutpatākāḥ_), garlands of cranes (_sab
 
 <details><summary>मूलम्</summary>
 
-वर्षोदकाप्यायितशाद्वलानि  
-प्रवृत्तनृत्तोत्सवबर्हिणानि ।  
-वनानि निर्वृष्टबलाहकानि  
-पश्यापराह्णेष्वधिकं विभान्ति ॥ २१ ॥
+[^non-baroDa-CE] वर्षोदकाप्यायितशाद्वलानि  
+[^non-baroDa-CE] प्रवृत्तनृत्तोत्सवबर्हिणानि ।  
+[^non-baroDa-CE] वनानि निर्वृष्टबलाहकानि  
+[^non-baroDa-CE] पश्यापराह्णेष्वधिकं विभान्ति ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1400,10 +1400,10 @@ Behold how the forests (_vanāni_), their green lawns nourished by rain-water (_
 
 <details><summary>मूलम्</summary>
 
-समुद्वहन्तः सलिलातिभारं  
-बलाकिनो वारिधरा नदन्तः ।  
-महत्सु शृङ्गेषु महीधराणां  
-विश्रम्य विश्रम्य पुनः प्रयान्ति ॥ २२ ॥
+[^non-baroDa-CE] समुद्वहन्तः सलिलातिभारं  
+[^non-baroDa-CE] बलाकिनो वारिधरा नदन्तः ।  
+[^non-baroDa-CE] महत्सु शृङ्गेषु महीधराणां  
+[^non-baroDa-CE] विश्रम्य विश्रम्य पुनः प्रयान्ति ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1545,10 +1545,10 @@ amorously yearning for the clouds (_meghābhikāmā_) and flying all around in j
 
 <details><summary>मूलम्</summary>
 
-बालेन्द्रगोपान्तरचित्रितेन  
-विभाति भूमिर्नवशाद्वलेन ।  
-गात्रानुपृक्तेन शुकप्रभेण  
-नारीव लाक्षोक्षितकम्बलेन ॥ २४ ॥
+[^non-baroDa-CE] बालेन्द्रगोपान्तरचित्रितेन  
+[^non-baroDa-CE] विभाति भूमिर्नवशाद्वलेन ।  
+[^non-baroDa-CE] गात्रानुपृक्तेन शुकप्रभेण  
+[^non-baroDa-CE] नारीव लाक्षोक्षितकम्बलेन ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2173,10 +2173,10 @@ Following his path through the mountain woods (_mārgānugaḥ śailavanānusār
 
 <details><summary>मूलम्</summary>
 
-क्वचित् प्रगीता इव षट्पदौघैः  
-क्वचित् प्रनृत्ता इव नीलकण्ठैः ।  
-क्वचित् प्रमत्ता इव वारणेन्द्रै-  
-र्विभान्त्यनेकाश्रयिणो वनान्ताः ॥ ३३ ॥
+[^non-baroDa-CE] क्वचित् प्रगीता इव षट्पदौघैः  
+[^non-baroDa-CE] क्वचित् प्रनृत्ता इव नीलकण्ठैः ।  
+[^non-baroDa-CE] क्वचित् प्रमत्ता इव वारणेन्द्रै-  
+[^non-baroDa-CE] र्विभान्त्यनेकाश्रयिणो वनान्ताः ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2235,10 +2235,10 @@ As though singing in some places through swarms of bees (_kvacit pragītā iva �
 
 <details><summary>मूलम्</summary>
 
-कदम्बसर्जार्जुनकन्दलाढ्या  
-वनान्तभूमिर्मधुवारिपूर्णा ।  
-मयूरमत्ताभिरुतप्रनृत्तै-  
-रापानभूमिप्रतिमा विभाति ॥ ३४ ॥
+[^non-baroDa-CE] कदम्बसर्जार्जुनकन्दलाढ्या  
+[^non-baroDa-CE] वनान्तभूमिर्मधुवारिपूर्णा ।  
+[^non-baroDa-CE] मयूरमत्ताभिरुतप्रनृत्तै-  
+[^non-baroDa-CE] रापानभूमिप्रतिमा विभाति ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2378,9 +2378,9 @@ It is as if an orchestra has commenced in the forest.
 
 <details><summary>मूलम्</summary>
 
-षट्पादतन्त्रीमधुराभिधानं  
+[^non-baroDa-CE] षट्पादतन्त्रीमधुराभिधानं  
 प्लवङ्गमोदीरितकण्ठतालम् ।  
-आविष्कृतं मेघमृदङ्गनादै-  
+[^non-baroDa-CE] आविष्कृतं मेघमृदङ्गनादै-  
 र्वनेषु सङ्गीतमिव प्रवृत्तम् ॥ ३६ ॥
 </details>
 
@@ -2461,9 +2461,9 @@ Peacocks stage a forest concert, frogs awaken from long torpor, rivers rush like
 
 <details><summary>मूलम्</summary>
 
-क्वचित् प्रनृत्तैः क्वचिदुन्नदद्भिः  
-क्वचिच्च वृक्षाग्रनिषण्णकायैः ।  
-व्यालम्बबर्हाभरणैर्मयूरै-  
+[^non-baroDa-CE] क्वचित् प्रनृत्तैः क्वचिदुन्नदद्भिः  
+[^non-baroDa-CE] क्वचिच्च वृक्षाग्रनिषण्णकायैः ।  
+[^non-baroDa-CE] व्यालम्बबर्हाभरणैर्मयूरै-  
 र्वनेषु सङ्गीतमिव प्रवृत्तम् ॥ ३७ ॥
 </details>
 
@@ -2533,14 +2533,14 @@ Thus, we can see vAlmIki himself uses frog similes/metaphors. The second triShTu
 
 <details><summary>मूलम्</summary>
 
-स्वनैर्घनानां प्लवगाः प्रबुद्धा  
+[^non-baroDa-CE] स्वनैर्घनानां प्लवगाः प्रबुद्धा  
 विहाय निद्रां चिरसन्निरुद्धाम् ।  
-अनेकरूपाकृतिवर्णनादा  
-नवाम्बुधाराभिहता नदन्ति ॥ ३८ ॥
+[^non-baroDa-CE] अनेकरूपाकृतिवर्णनादा  
+[^non-baroDa-CE] नवाम्बुधाराभिहता नदन्ति ॥ ३८ ॥
 _________________
-स्वनैर्घनानां प्लवगाः प्रबुद्धा  
-विहाय निद्रां चिरसं निरुद्धाम् ।  
-अनेकरूपाकृतिवर्णनादा  
+[^non-baroDa-CE] स्वनैर्घनानां प्लवगाः प्रबुद्धा  
+[^non-baroDa-CE] विहाय निद्रां चिरसं निरुद्धाम् ।  
+[^non-baroDa-CE] अनेकरूपाकृतिवर्णनादा  
 नवाम्बुुधाराभिहता नदन्ति ॥
 </details>
 
@@ -2603,15 +2603,15 @@ Awakened by the roars of the clouds (_svanair ghanānāṃ prabuddhāḥ_) and c
 
 <details><summary>मूलम्</summary>
 
-नद्यः समुद्वाहितचक्रवाका-  
-स्तटानि शीर्णान्यपवाहयित्वा ।  
-दृप्ता नवप्रावृतपूर्णभोगा-  
-दृतं स्वभर्तारमुपोपयान्ति ॥ ३९ ॥
+[^non-baroDa-CE] नद्यः समुद्वाहितचक्रवाका-  
+[^non-baroDa-CE] स्तटानि शीर्णान्यपवाहयित्वा ।  
+[^non-baroDa-CE] दृप्ता नवप्रावृतपूर्णभोगा-  
+[^non-baroDa-CE] दृतं स्वभर्तारमुपोपयान्ति ॥ ३९ ॥
 _________________
-नद्यः समुद्वाहितचक्रवाका-  
-स्तटानि शीर्णान्यपवाहयित्वा ।  
+[^non-baroDa-CE] नद्यः समुद्वाहितचक्रवाका-  
+[^non-baroDa-CE] स्तटानि शीर्णान्यपवाहयित्वा ।  
 दृप्ता वनप्रावृतपूर्णभोगा-  
-दृतं स्वभर्तारमुपोपयान्ति ॥
+[^non-baroDa-CE] दृतं स्वभर्तारमुपोपयान्ति ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2737,9 +2737,9 @@ Dark and filled with fresh water (_nīlā navavāripūrṇāḥ_), clouds clingi
 <details><summary>मूलम्</summary>
 
 प्रमत्तसन्नादितबर्हिणानि  
-सशक्रगोपाकुलशाद्वलानि ।  
-चरन्ति नीपार्जुनवासितानि  
-गजाः सुरम्याणि वनान्तराणि ॥ ४१ ॥
+[^non-baroDa-CE] सशक्रगोपाकुलशाद्वलानि ।  
+[^non-baroDa-CE] चरन्ति नीपार्जुनवासितानि  
+[^non-baroDa-CE] गजाः सुरम्याणि वनान्तराणि ॥ ४१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2795,14 +2795,14 @@ Elephants roam through lovely forest interiors (_suramyāṇi vanāntarāṇi_) 
 
 <details><summary>मूलम्</summary>
 
-नवाम्बुधाराहतकेसराणि  
-द्रुतं परित्यज्य सरोरुहाणि ।  
-कदम्बपुष्पाणि सकेसराणि  
-नवानि हृष्टा भ्रमराः पिबन्ति ॥ ४२ ॥
+[^non-baroDa-CE] नवाम्बुधाराहतकेसराणि  
+[^non-baroDa-CE] द्रुतं परित्यज्य सरोरुहाणि ।  
+[^non-baroDa-CE] कदम्बपुष्पाणि सकेसराणि  
+[^non-baroDa-CE] नवानि हृष्टा भ्रमराः पिबन्ति ॥ ४२ ॥
 _________________
-नवाम्बुधाराहतकेसराणि  
-द्रुतं परित्यज्य सरोरुहाणि ।  
-कदम्बपुष्पाणि सकेसराणि  
+[^non-baroDa-CE] नवाम्बुधाराहतकेसराणि  
+[^non-baroDa-CE] द्रुतं परित्यज्य सरोरुहाणि ।  
+[^non-baroDa-CE] कदम्बपुष्पाणि सकेसराणि  
 नवानु हृष्टा भ्रमराः पिबन्ति ॥
 </details>
 
@@ -2934,10 +2934,10 @@ of gods, Indra, is playing well with water giving clouds. [3-28-43]
 
 <details><summary>मूलम्</summary>
 
-मेघाः समुद्भूतसमुद्रनादा  
-महाजलौघैर्गगनावलम्बाः ।  
-नदीस्तटाकानि सरांसि वापी-  
-र्महीं च कृत्स्नामपवाहयन्ति ॥ ४४ ॥
+[^non-baroDa-CE] मेघाः समुद्भूतसमुद्रनादा  
+[^non-baroDa-CE] महाजलौघैर्गगनावलम्बाः ।  
+[^non-baroDa-CE] नदीस्तटाकानि सरांसि वापी-  
+[^non-baroDa-CE] र्महीं च कृत्स्नामपवाहयन्ति ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2993,10 +2993,10 @@ Hanging across the sky (_gaganāvalambāḥ_) with thunder eclipsing the roar of
 
 <details><summary>मूलम्</summary>
 
-वर्षप्रवेगा विपुलाः पतन्ति  
-प्रवान्ति वाताः समुदीर्णवेगाः ।  
-प्रणष्टकूलाः प्रवहन्ति शीघ्रं  
-नद्यो जलं विप्रतिपन्नमार्गाः ॥ ४५ ॥
+[^non-baroDa-CE] वर्षप्रवेगा विपुलाः पतन्ति  
+[^non-baroDa-CE] प्रवान्ति वाताः समुदीर्णवेगाः ।  
+[^non-baroDa-CE] प्रणष्टकूलाः प्रवहन्ति शीघ्रं  
+[^non-baroDa-CE] नद्यो जलं विप्रतिपन्नमार्गाः ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3052,10 +3052,10 @@ Vast torrents of rain fall (_varṣapravegā vipulāḥ patanti_), winds blow wi
 
 <details><summary>मूलम्</summary>
 
-नरैर्नरेन्द्रा इव पर्वतेन्द्राः  
-सुरेन्द्रदत्तैः पवनोपनीतैः ।  
-घनाम्बुकुम्भैरभिषिच्यमाना  
-रूपं श्रियं स्वामिव दर्शयन्ति ॥ ४६ ॥
+[^non-baroDa-CE] नरैर्नरेन्द्रा इव पर्वतेन्द्राः  
+[^non-baroDa-CE] सुरेन्द्रदत्तैः पवनोपनीतैः ।  
+[^non-baroDa-CE] घनाम्बुकुम्भैरभिषिच्यमाना  
+[^non-baroDa-CE] रूपं श्रियं स्वामिव दर्शयन्ति ॥ ४६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3114,10 +3114,10 @@ Being consecrated by wind-borne cloud-waterpots (_pavanopanītaiḥ ghanāmbukum
 
 <details><summary>मूलम्</summary>
 
-घनोपगूढं गगनं न तारा  
-न भास्करो दर्शनमभ्युपैति ।  
-नवैर्जलौघैर्धरणी वितृप्ता  
-तमोविलिप्ता न दिशः प्रकाशाः ॥ ४७ ॥
+[^non-baroDa-CE] घनोपगूढं गगनं न तारा  
+[^non-baroDa-CE] न भास्करो दर्शनमभ्युपैति ।  
+[^non-baroDa-CE] नवैर्जलौघैर्धरणी वितृप्ता  
+[^non-baroDa-CE] तमोविलिप्ता न दिशः प्रकाशाः ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3180,10 +3180,10 @@ The firmament is shrouded in clouds (_ghanopagūḍhaṃ gaganam_), neither star
 
 <details><summary>मूलम्</summary>
 
-महान्ति कूटानि महीधराणां  
-धाराविधौतान्यधिकं विभान्ति ।  
-महाप्रमाणैर्विपुलैः प्रपातै-  
-र्मुक्ताकलापैरिव लम्बमानैः ॥ ४८ ॥
+[^non-baroDa-CE] महान्ति कूटानि महीधराणां  
+[^non-baroDa-CE] धाराविधौतान्यधिकं विभान्ति ।  
+[^non-baroDa-CE] महाप्रमाणैर्विपुलैः प्रपातै-  
+[^non-baroDa-CE] र्मुक्ताकलापैरिव लम्बमानैः ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3249,10 +3249,10 @@ Mountain cascades scatter like broken pearl necklaces in peacock-echoing caves, 
 
 <details><summary>मूलम्</summary>
 
-शैलोपलप्रस्खलमानवेगाः  
-शैलोत्तमानां विपुलाः प्रपाताः ।  
+[^non-baroDa-CE] शैलोपलप्रस्खलमानवेगाः  
+[^non-baroDa-CE] शैलोत्तमानां विपुलाः प्रपाताः ।  
 गुहासु सन्नादितबर्हिणासु  
-हारा विकीर्यन्त इवावभान्ति ॥ ४९ ॥
+[^non-baroDa-CE] हारा विकीर्यन्त इवावभान्ति ॥ ४९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3317,10 +3317,10 @@ gems, and if many such pendants are strewn around, each of its studded stone emi
 
 <details><summary>मूलम्</summary>
 
-शीघ्रप्रवेगा विपुलाः प्रपाता  
-निर्धौतशृङ्गोपतला गिरीणाम् ।  
-मुक्ताकलापप्रतिमाः पतन्तो  
-महागुहोत्सङ्गतलैर्ध्रियन्ते ॥ ५० ॥
+[^non-baroDa-CE] शीघ्रप्रवेगा विपुलाः प्रपाता  
+[^non-baroDa-CE] निर्धौतशृङ्गोपतला गिरीणाम् ।  
+[^non-baroDa-CE] मुक्ताकलापप्रतिमाः पतन्तो  
+[^non-baroDa-CE] महागुहोत्सङ्गतलैर्ध्रियन्ते ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3383,12 +3383,12 @@ Washing clean the slopes beneath the mountain peaks (_nirdhautaśṛṅgopatalā
 
 <details><summary>मूलम्</summary>
 
-सुरतामर्दविच्छिन्नाः  
-स्वर्ग-स्त्री-हार-मौक्तिकाः ।  
-पतन्ति चातुला दिक्षु  
-तोयधाराः समन्ततः ॥ ५१ ॥
+[^non-baroDa-CE] सुरतामर्दविच्छिन्नाः  
+[^non-baroDa-CE] स्वर्ग-स्त्री-हार-मौक्तिकाः ।  
+[^non-baroDa-CE] पतन्ति चातुला दिक्षु  
+[^non-baroDa-CE] तोयधाराः समन्ततः ॥ ५१ ॥
 _________________
-सुरतामर्दविच्छिन्नाः स्वर्गस्त्रीहारमौक्तिकाः ।  
+[^non-baroDa-CE] सुरतामर्दविच्छिन्नाः स्वर्गस्त्रीहारमौक्तिकाः ।  
 पतन्ती चातुला दिक्षु तोयधाराः समन्ततः ॥
 </details>
 
@@ -3439,8 +3439,8 @@ And like pearls from the necklaces of celestial women snapped in the crush of am
 
 <details><summary>मूलम्</summary>
 
-विलीयमानैर्विहगैर्निमीलद्भिश्च पङ्कजैः ।  
-विकसन्त्या च मालत्या गतोऽस्तं ज्ञायते रविः ॥ ५२ ॥
+[^non-baroDa-CE] विलीयमानैर्विहगैर्निमीलद्भिश्च पङ्कजैः ।  
+[^non-baroDa-CE] विकसन्त्या च मालत्या गतोऽस्तं ज्ञायते रविः ॥ ५२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4294,3 +4294,4 @@ verses in this canto bear the blemish of interpolations.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -50,7 +50,7 @@ When the second spring arrives and the full year of the horse’s wandering is c
 <details><summary>मूलम्</summary>
 
 पुनः प्राप्ते वसन्ते तु पूर्णः संवत्सरोऽभवत् ।  
-प्रसवार्थं गतो यष्टुं हयमेधेन वीर्यवान् ॥ १ ॥
+[^non-baroDa-CE] प्रसवार्थं गतो यष्टुं हयमेधेन वीर्यवान् ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -542,7 +542,7 @@ and well established with very many eatables, foods, and potables. [1-13-10]
 <details><summary>मूलम्</summary>
 
 तथा पौरजनस्यापि कर्तव्याश्च सुविस्तराः ।  
-आगतानां सुदूराच्च पार्थिवानां पृथक् पृथक् ॥ ११ ॥
+[^non-baroDa-CE] आगतानां सुदूराच्च पार्थिवानां पृथक् पृथक् ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -587,8 +587,8 @@ severally for the kings arriving from distant places.[1-13-11]
 
 <details><summary>मूलम्</summary>
 
-वाजिवारणशालाश्च तथा शय्यागृहाणि च ।  
-भटानां महदावासा वैदेशिकनिवासिनाम् ॥ १२ ॥
+[^non-baroDa-CE] वाजिवारणशालाश्च तथा शय्यागृहाणि च ।  
+[^non-baroDa-CE] भटानां महदावासा वैदेशिकनिवासिनाम् ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -806,7 +806,7 @@ Why does Vasiṣṭha add _api_ after _kāmakrodhavaśāt_ (“not even out of d
 
 <details><summary>मूलम्</summary>
 
-ये स्युः सम्पूजिताः सर्वे वसुभिर्भोजनेन च ॥ १६ ॥  
+[^non-baroDa-CE] ये स्युः सम्पूजिताः सर्वे वसुभिर्भोजनेन च ॥ १६ ॥  
 यथा सर्वं सुविहितं न किञ्चित् परिहीयते ।  
 तथा भवन्तः कुर्वन्तु प्रीतियुक्तेन चेतसा ॥ १७ ॥
 _________________
@@ -1261,8 +1261,8 @@ Notice how Vasiṣṭha distinguishes two tiers of diplomatic protocol across vv
 <details><summary>मूलम्</summary>
 
 तथा कोसलराजानं भानुमन्तं सुसत्कृतम् ।  
-मगधाधिपतिं शूरं सर्वशास्त्रविशारदम् ॥ २६ ॥  
-प्राप्तिज्ञं परमोदारं सत्कृतं पुरुषर्षभम् ।
+[^non-baroDa-CE] मगधाधिपतिं शूरं सर्वशास्त्रविशारदम् ॥ २६ ॥  
+[^non-baroDa-CE] प्राप्तिज्ञं परमोदारं सत्कृतं पुरुषर्षभम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1306,7 +1306,7 @@ one in all scriptural knowledge, let them be honoured well and be invited. [1-13
 
 <details><summary>मूलम्</summary>
 
-राज्ञः शासनमादाय चोदयस्व नृपर्षभान् ।  
+[^non-baroDa-CE] राज्ञः शासनमादाय चोदयस्व नृपर्षभान् ।  
 प्राचीनान् सिन्धुसौवीरान् सौराष्ट्रेयांश्च पार्थिवान् ॥ २७ ॥
 </details>
 
@@ -1367,12 +1367,12 @@ the kings of Sindhu, Sauviira and Sauraastra kingdoms may also be invited. [1-13
 दाक्षिणात्यान् नरेन्द्रांश्च समस्तानानयस्व ह ।  
 सन्ति स्निग्धाश्च ये चान्ये राजानः पृथिवीतले ॥ २८ ॥  
 तानानय यथा क्षिप्रं सानुगान् सहबान्धवान् ।  
-एतान् दूतैर्महाभागैरानयस्व नृपाज्ञया ॥ २९ ॥
+[^non-baroDa-CE] एतान् दूतैर्महाभागैरानयस्व नृपाज्ञया ॥ २९ ॥
 _________________
 दाक्षिणात्यान्नरेन्द्रांश्च समस्तानानयस्व ह ।  
 सन्ति स्निग्धाश्च ये चान्ये राजानः पृथिवीतले ॥
 तानानय तथा क्षिप्रंसानुगान्सहबान्धवान् ।  
-एतान् दूतैर्महाभागैरानयस्व नृपाज्ञया ॥
+[^non-baroDa-CE] एतान् दूतैर्महाभागैरानयस्व नृपाज्ञया ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1857,7 +1857,7 @@ On _antikāt_ in v. 37d, **Govindarāja** cites Pāṇini 2.3.35, explaining the
 <details><summary>मूलम्</summary>
 
 सर्वकामैरुपहृतैरुपेतं वै समन्ततः ।  
-द्रष्टुमर्हसि राजेन्द्र मनसेव विनिर्मितम् ॥ ३८ ॥
+[^non-baroDa-CE] द्रष्टुमर्हसि राजेन्द्र मनसेव विनिर्मितम् ॥ ३८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1981,8 +1981,8 @@ Both **Tilaka** and **Govindarāja** analyze _vasiṣṭha-_ as an uninflected s
 
 ततो वसिष्ठप्रमुखाः सर्व एव द्विजोत्तमाः ।  
 ऋष्यशृङ्गं पुरस्कृत्य यज्ञकर्मारभंस्तदा ॥ ४० ॥  
-यज्ञवाटं गताः सर्वे यथाशास्त्रं यथाविधि ।  
-श्रीमांश्च सह पत्नीभी राजा दीक्षामुपाविशत् ॥ ४१ ॥
+[^non-baroDa-CE] यज्ञवाटं गताः सर्वे यथाशास्त्रं यथाविधि ।  
+[^non-baroDa-CE] श्रीमांश्च सह पत्नीभी राजा दीक्षामुपाविशत् ॥ ४१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2122,3 +2122,4 @@ On _ārabhan_ (v. 40d), **Govindarāja** notes the Vedic/epic active ending (_ch
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

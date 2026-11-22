@@ -31,11 +31,11 @@ At dawn, Kuśa and Lava sing the future Uttara poem before Rāma and the brahmar
 
 <details><summary>मूलम्</summary>
 
-रजन्यां तु प्रभातायां समानीय महामुनीन् ।  
-गीयतामविशङ्काभ्यां रामः पुत्रावुवाच ह ॥ १ ॥
+[^non-baroDa-CE] रजन्यां तु प्रभातायां समानीय महामुनीन् ।  
+[^non-baroDa-CE] गीयतामविशङ्काभ्यां रामः पुत्रावुवाच ह ॥ १ ॥
 _________________
 रजन्यां तु प्रभातायां समानीय महामुनिम् ।  
-गीयतामविशङ्काभ्यां रामः पुत्रावुवाच ह ॥
+[^non-baroDa-CE] गीयतामविशङ्काभ्यां रामः पुत्रावुवाच ह ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -66,7 +66,7 @@ When the night had dawned (_rajanyāṃ tu prabhātāyām_), having assembled th
 <details><summary>मूलम्</summary>
 
 ततः समुपविष्टेषु महर्षिषु महात्मसु ।  
-भविष्यदुत्तरं काव्यं जगतुस्तौ कुशीलवौ ॥ २ ॥
+[^non-baroDa-CE] भविष्यदुत्तरं काव्यं जगतुस्तौ कुशीलवौ ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -96,7 +96,7 @@ Then, when the great-souled brahmarṣis had taken their seats (_samupaviṣṭe
 
 <details><summary>मूलम्</summary>
 
-प्रविष्टायां तु सीतायां भूतलं सत्यसम्पदा ।  
+[^non-baroDa-CE] प्रविष्टायां तु सीतायां भूतलं सत्यसम्पदा ।  
 तस्यावसाने यज्ञस्य रामः परमदुर्मनाः ॥ ३ ॥
 </details>
 
@@ -163,7 +163,7 @@ Not beholding Vaidehī (_apaśyamāno vaidehīm_), he deemed this entire world e
 
 विसृज्य पार्थिवान् सर्वानृक्षवानरराक्षसान् ।  
 जनौघं विप्रमुख्यानां वित्तपूर्वं विसृज्य च ॥ ५ ॥  
-एवं समाप्य यज्ञं तु विधिवत् स तु राघवः ।  
+[^non-baroDa-CE] एवं समाप्य यज्ञं तु विधिवत् स तु राघवः ।  
 ततो विसृज्य तान् सर्वान् रामो राजीवलोचनः ॥ ६ ॥  
 हृदि कृत्वा तदा सीतामयोध्यां प्रविवेश ह ।
 </details>
@@ -206,7 +206,7 @@ Holding Sītā in his heart, Rāma re-enters Ayodhyā with his two sons, takes n
 
 <details><summary>मूलम्</summary>
 
-इष्टयज्ञो नरपतिः पुत्रद्वयसमन्वितः ॥ ७ ॥  
+[^non-baroDa-CE] इष्टयज्ञो नरपतिः पुत्रद्वयसमन्वितः ॥ ७ ॥  
 न सीतायाः परां भार्यां वव्रे स रघुनन्दनः ।  
 यज्ञे यज्ञे च पत्न्यर्थं जानकी काञ्चनीभवत् ॥ ८ ॥
 </details>
@@ -592,8 +592,8 @@ Righteous Rāma offered ancestral treasures worthy of brahmins (_pitryāṇi bra
 
 <details><summary>मूलम्</summary>
 
-एवं वर्षसहस्राणि बहून्यथ ययुः सुखम् ।  
-यज्ञैर्बहुविधं धर्मं वर्धयानस्य सर्वदा ॥ २० ॥
+[^non-baroDa-CE] एवं वर्षसहस्राणि बहून्यथ ययुः सुखम् ।  
+[^non-baroDa-CE] यज्ञैर्बहुविधं धर्मं वर्धयानस्य सर्वदा ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -623,3 +623,5 @@ Righteous Rāma offered ancestral treasures worthy of brahmins (_pitryāṇi bra
 Thus many thousands of years passed happily (_evaṃ varṣasahasrāṇi bahūny atha yayuḥ sukham_) for him who ever fostered manifold dharma through sacrifices (_yajñair bahuvidhaṃ dharmaṃ vardhayānasya sarvadā_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

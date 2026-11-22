@@ -133,7 +133,7 @@ Once again (_bhūya eva_), Hanūmān of mighty splendor (_mahātejāḥ_), the s
 
 <details><summary>मूलम्</summary>
 
-प्रत्ययार्थं तवानीतं तेन दत्तं महात्मना ।  
+[^non-baroDa-CE] प्रत्ययार्थं तवानीतं तेन दत्तं महात्मना ।  
 समाश्वसिहि भद्रं ते क्षीणदुःखफला ह्यसि ॥ ३ ॥
 </details>
 
@@ -2617,3 +2617,4 @@ Her grief dispelled by the extolling of Rāma (_rāmasaṃkīrtanavītaśokā_),
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

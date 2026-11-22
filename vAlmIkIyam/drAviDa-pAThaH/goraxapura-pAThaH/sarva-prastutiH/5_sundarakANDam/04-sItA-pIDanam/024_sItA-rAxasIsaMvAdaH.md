@@ -193,7 +193,7 @@ Being a human woman (_mānuṣī_), you prize wifehood to a mere mortal (_mānu�
 
 <details><summary>मूलम्</summary>
 
-त्रैलोक्यवसुभोक्तारं रावणं राक्षसेश्वरम् ।  
+[^non-baroDa-CE] त्रैलोक्यवसुभोक्तारं रावणं राक्षसेश्वरम् ।  
 भर्तारमुपसङ्गम्य विहरस्व यथासुखम् ॥ ४ ॥
 </details>
 
@@ -443,7 +443,7 @@ A human woman ought not to become the wife of a rākṣasa (_rākṣasasya bhār
 <details><summary>मूलम्</summary>
 
 दीनो वा राज्यहीनो वा यो मे भर्ता स मे गुरुः ।  
-तं नित्यमनुरक्तास्मि यथा सूर्यं सुवर्चला ॥ ९ ॥
+[^non-baroDa-CE] तं नित्यमनुरक्तास्मि यथा सूर्यं सुवर्चला ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -478,13 +478,13 @@ Whether wretched (_dīno vā_) or bereft of his kingdom (_rājyahīno vā_), he 
 
 <details><summary>मूलम्</summary>
 
-यथा शची महाभागा शक्रं समुपतिष्ठति ।  
-अरुन्धती वसिष्ठं च रोहिणी शशिनं यथा ॥ १० ॥  
-लोपामुद्रा यथागस्त्यं सुकन्या च्यवनं यथा ।  
-सावित्री सत्यवन्तं च कपिलं श्रीमती यथा ॥ ११ ॥  
-सौदासं मदयन्तीव केशिनी सगरं यथा ।  
-नैषधं दमयन्तीव भैमी पतिमनुव्रता ॥ १२ ॥  
-तथाहमिक्ष्वाकुवरं रामं पतिमनुव्रता ।
+[^non-baroDa-CE] यथा शची महाभागा शक्रं समुपतिष्ठति ।  
+[^non-baroDa-CE] अरुन्धती वसिष्ठं च रोहिणी शशिनं यथा ॥ १० ॥  
+[^non-baroDa-CE] लोपामुद्रा यथागस्त्यं सुकन्या च्यवनं यथा ।  
+[^non-baroDa-CE] सावित्री सत्यवन्तं च कपिलं श्रीमती यथा ॥ ११ ॥  
+[^non-baroDa-CE] सौदासं मदयन्तीव केशिनी सगरं यथा ।  
+[^non-baroDa-CE] नैषधं दमयन्तीव भैमी पतिमनुव्रता ॥ १२ ॥  
+[^non-baroDa-CE] तथाहमिक्ष्वाकुवरं रामं पतिमनुव्रता ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2200,3 +2200,4 @@ Having tasted human flesh (_mānuṣaṃ māṃsam āsvādya_), let us then danc
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

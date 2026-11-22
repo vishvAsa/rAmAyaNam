@@ -355,7 +355,7 @@ How could King Janaka, already consecrated (_dīkṣita_) for his Vedic sacrific
 <details><summary>मूलम्</summary>
 
 ऋत्विजोऽपि महात्मानस्त्वर्घ्यमादाय सत्वरम् ।  
-प्रत्युज्जगाम सहसा विनयेन समन्वितः ॥ ७ ॥  
+[^non-baroDa-CE] प्रत्युज्जगाम सहसा विनयेन समन्वितः ॥ ७ ॥  
 विश्वामित्राय धर्मेण ददौ धर्मपुरस्कृतम् ।
 </details>
 
@@ -1205,3 +1205,4 @@ Having recounted all this to the high-souled Janaka (_etat sarvaṃ mahātejā j
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

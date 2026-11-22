@@ -527,7 +527,7 @@ Then the entire earth was covered over (_saṃchāditā_) by countless leapers o
 <details><summary>मूलम्</summary>
 
 निमेषान्तरमात्रेण ततस्तैर्हरियूथपैः ।  
-कोटीशतपरीवारैर्वानरैर्हरियूथपैः ॥ ११ ॥
+[^non-baroDa-CE] कोटीशतपरीवारैर्वानरैर्हरियूथपैः ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -763,8 +763,8 @@ Next, the valiant father of Tārā [Suṣeṇa], gleaming like a mountain of gol
 
 <details><summary>मूलम्</summary>
 
-तथापरेण कोटीनां सहस्रेण समन्वितः ।  
-पिता रुमायाः सम्प्राप्तः सुग्रीवश्वशुरो विभुः ॥ १६ ॥
+[^non-baroDa-CE] तथापरेण कोटीनां सहस्रेण समन्वितः ।  
+[^non-baroDa-CE] पिता रुमायाः सम्प्राप्तः सुग्रीवश्वशुरो विभुः ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1095,8 +1095,8 @@ This huge-bodied troop-commander named Nīla, shaped like a mass of dark collyri
 
 <details><summary>मूलम्</summary>
 
-ततः काञ्चनशैलाभो गवयो नाम यूथपः ।  
-आजगाम महावीर्यः कोटिभिः पञ्चभिर्वृतः ॥ २३ ॥
+[^non-baroDa-CE] ततः काञ्चनशैलाभो गवयो नाम यूथपः ।  
+[^non-baroDa-CE] आजगाम महावीर्यः कोटिभिः पञ्चभिर्वृतः ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1260,8 +1260,8 @@ Both Mainda and Dvivida, the two mighty sons of the Aśvins (_aśviputrau_), cam
 
 <details><summary>मूलम्</summary>
 
-गजश्च बलवान् वीरस्तिसृभिः कोटिभिर्वृतः ।  
-आजगाम महातेजाः सुग्रीवस्य समीपतः ॥ २६ ॥
+[^non-baroDa-CE] गजश्च बलवान् वीरस्तिसृभिः कोटिभिर्वृतः ।  
+[^non-baroDa-CE] आजगाम महातेजाः सुग्रीवस्य समीपतः ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1311,8 +1311,8 @@ And the mighty hero Gaja of great splendor arrived in the presence of Sugrīva, 
 
 <details><summary>मूलम्</summary>
 
-ऋक्षराजो महातेजा जाम्बवान्नाम नामतः ।  
-कोटिभिर्दशभिर्व्याप्तः सुग्रीवस्य वशे स्थितः ॥ २७ ॥
+[^non-baroDa-CE] ऋक्षराजो महातेजा जाम्बवान्नाम नामतः ।  
+[^non-baroDa-CE] कोटिभिर्दशभिर्व्याप्तः सुग्रीवस्य वशे स्थितः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1362,8 +1362,8 @@ The king of bears (_ṛkṣarājaḥ_) of great splendor, Jāmbavān by name, en
 
 <details><summary>मूलम्</summary>
 
-रुमणो नाम तेजस्वी विक्रान्तैर्वानरैर्वृतः ।  
-आगतो बलवांस्तूर्णं कोटीशतसमावृतः ॥ २८ ॥
+[^non-baroDa-CE] रुमणो नाम तेजस्वी विक्रान्तैर्वानरैर्वृतः ।  
+[^non-baroDa-CE] आगतो बलवांस्तूर्णं कोटीशतसमावृतः ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1854,11 +1854,11 @@ And Nala of great valor (_nalaś cāpi mahāvīryaḥ_), surrounded by tree-dwel
 
 <details><summary>मूलम्</summary>
 
-ततो दधिमुखः श्रीमान् कोटिभिर्दशभिर्वृतः ।  
-सम्प्राप्तोऽभिनदंस्तस्य सुग्रीवस्य महात्मनः ॥ ३७ ॥
+[^non-baroDa-CE] ततो दधिमुखः श्रीमान् कोटिभिर्दशभिर्वृतः ।  
+[^non-baroDa-CE] सम्प्राप्तोऽभिनदंस्तस्य सुग्रीवस्य महात्मनः ॥ ३७ ॥
 _________________
 ततो दधिमुखः श्रीमन् कोटिभिर्दशभिर्वृतः ।  
-सम्प्राप्तोऽभिनदंस्तस्य सुग्रीवस्य महात्मनः ॥
+[^non-baroDa-CE] सम्प्राप्तोऽभिनदंस्तस्य सुग्रीवस्य महात्मनः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1973,7 +1973,7 @@ inclusive of its mountains and forests, their count is unknown. [3-39-38, 39]
 
 <details><summary>मूलम्</summary>
 
-आगताश्च निविष्टाश्च पृथिव्यां सर्ववानराः ।  
+[^non-baroDa-CE] आगताश्च निविष्टाश्च पृथिव्यां सर्ववानराः ।  
 आप्लवन्तः प्लवन्तश्च गर्जन्तश्च प्लवङ्गमाः ।  
 अभ्यवर्तन्त सुग्रीवं सूर्यमभ्रगणा इव ॥ ४० ॥
 _________________
@@ -2269,3 +2269,5 @@ mathematics: liilaavatii gaNita shaastre siddhanta shiromaNe -
 ‘O lords of monkeys, having duly encamped (_niveśayitvā vidhivat_) your forces at ease beside the mountain cascades and throughout all the forests, let each knower of his troop&#x27;s strength (_balajñaḥ_) be ready to muster and review his force (_balaṃ pratipattum īṣṭe_) [or: you, O Rāma, knower of martial strength, are now master to take command of the army].’
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

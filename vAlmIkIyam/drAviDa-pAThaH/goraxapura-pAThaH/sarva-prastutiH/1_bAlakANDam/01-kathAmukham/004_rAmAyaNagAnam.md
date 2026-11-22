@@ -119,8 +119,8 @@ When Rāma had attained the sovereignty of his kingdom (_prāptarājyasya rāmas
 
 <details><summary>मूलम्</summary>
 
-चतुर्विंशत्सहस्राणि श्लोकानामुक्तवानृषिः ।  
-तथा सर्गशतान् पञ्च षट्काण्डानि तथोत्तरम् ॥ २ ॥
+[^non-baroDa-CE] चतुर्विंशत्सहस्राणि श्लोकानामुक्तवानृषिः ।  
+[^non-baroDa-CE] तथा सर्गशतान् पञ्च षट्काण्डानि तथोत्तरम् ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1110,7 +1110,7 @@ Together in perfect unison (_sahitau_), they sang sweetly, impassionedly (_rakta
 
 प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ ॥ २० ॥  
 प्रसन्नो वल्कलं कश्चिद् ददौ ताभ्यां महायशाः ।  
-अन्यः कृष्णाजिनमदाद् यज्ञसूत्रं तथापरः ॥ २१ ॥
+[^non-baroDa-CE] अन्यः कृष्णाजिनमदाद् यज्ञसूत्रं तथापरः ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -1175,15 +1175,15 @@ $1e
 
 <details><summary>मूलम्</summary>
 
-कश्चित् कमण्डलुं प्रादान्मौञ्जीमन्यो महामुनिः ।  
-बृसीमन्यस्तदा प्रादात् कौपीनमपरो मुनिः ॥ २२ ॥  
-ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः ।  
-काषायमपरो वस्त्रं चीरमन्यो ददौ मुनिः ॥ २३ ॥
+[^non-baroDa-CE] कश्चित् कमण्डलुं प्रादान्मौञ्जीमन्यो महामुनिः ।  
+[^non-baroDa-CE] बृसीमन्यस्तदा प्रादात् कौपीनमपरो मुनिः ॥ २२ ॥  
+[^non-baroDa-CE] ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः ।  
+[^non-baroDa-CE] काषायमपरो वस्त्रं चीरमन्यो ददौ मुनिः ॥ २३ ॥
 _________________
-कश्चित् कमण्डलुं प्रादान् मौञ्जीमन्यो महामुनिः ।  
+[^non-baroDa-CE] कश्चित् कमण्डलुं प्रादान् मौञ्जीमन्यो महामुनिः ।  
 बृसीमन्यस्तादा प्रादात् कौपीनमपरो मुनिः ॥
-ताभ्यां ददौ तदा हृष्टः कुठारमपरोमुनिः ।  
-काषायमपरो वस्त्रं चीरमन्योददौ मुनिः ॥
+[^non-baroDa-CE] ताभ्यां ददौ तदा हृष्टः कुठारमपरोमुनिः ।  
+[^non-baroDa-CE] काषायमपरो वस्त्रं चीरमन्योददौ मुनिः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1226,11 +1226,11 @@ The forest sages complete their gifts and shower blessings of long life upon the
 
 <details><summary>मूलम्</summary>
 
-जटाबन्धनमन्यस्तु काष्ठरज्जुं मुदान्वितः ।  
-यज्ञभाण्डमृषिः कश्चित् काष्ठभारं तथापरः ॥ २४ ॥  
-औदुम्बरीं बृसीमन्यः स्वस्ति केचित् तदावदन् ।  
-आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः ॥ २५ ॥  
-ददुश्चैवं वरान् सर्वे मुनयः सत्यवादिनः ।
+[^non-baroDa-CE] जटाबन्धनमन्यस्तु काष्ठरज्जुं मुदान्वितः ।  
+[^non-baroDa-CE] यज्ञभाण्डमृषिः कश्चित् काष्ठभारं तथापरः ॥ २४ ॥  
+[^non-baroDa-CE] औदुम्बरीं बृसीमन्यः स्वस्ति केचित् तदावदन् ।  
+[^non-baroDa-CE] आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः ॥ २५ ॥  
+[^non-baroDa-CE] ददुश्चैवं वरान् सर्वे मुनयः सत्यवादिनः ।
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -1377,7 +1377,7 @@ All three commentators underscore the historic literary-critical pronouncement i
 <details><summary>मूलम्</summary>
 
 अभिगीतमिदं गीतं सर्वगीतिषु कोविदौ ॥ २७ ॥  
-आयुष्यं पुष्टिजननं सर्वश्रुतिमनोहरम् ।
+[^non-baroDa-CE] आयुष्यं पुष्टिजननं सर्वश्रुतिमनोहरम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1607,15 +1607,15 @@ Urged by Śrī Rāma, Kuśa and Lava sing in the classical Mārga style, gladden
 
 <details><summary>मूलम्</summary>
 
-तौ चापि मधुरं रक्तं स्वचित्तायतनिःस्वनम् ॥ ३३ ॥  
-तन्त्रीलयवदत्यर्थं विश्रुतार्थमगायताम् ।  
-ह्लादयत् सर्वगात्राणि मनांसि हृदयानि च ।  
-श्रोत्राश्रयसुखं गेयं तद् बभौ जनसंसदि ॥ ३४ ॥
+[^non-baroDa-CE] तौ चापि मधुरं रक्तं स्वचित्तायतनिःस्वनम् ॥ ३३ ॥  
+[^non-baroDa-CE] तन्त्रीलयवदत्यर्थं विश्रुतार्थमगायताम् ।  
+[^non-baroDa-CE] ह्लादयत् सर्वगात्राणि मनांसि हृदयानि च ।  
+[^non-baroDa-CE] श्रोत्राश्रयसुखं गेयं तद् बभौ जनसंसदि ॥ ३४ ॥
 _________________
-तौ चापि मधुरं रक्तं स्वचित्तायतनिःस्वनम् ॥
+[^non-baroDa-CE] तौ चापि मधुरं रक्तं स्वचित्तायतनिःस्वनम् ॥
 तन्त्रीलयवदत्यर्थं वश्रुतार्थमगायताम् ।  
-ह्लादयत्सर्वगात्राणि मनांसि हृदयानि च ॥  
-श्रोत्राश्रयसुखं गेयं तद् बभौ जनसंसदि ॥
+[^non-baroDa-CE] ह्लादयत्सर्वगात्राणि मनांसि हृदयानि च ॥  
+[^non-baroDa-CE] श्रोत्राश्रयसुखं गेयं तद् बभौ जनसंसदि ॥
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -1838,3 +1838,5 @@ Then, inspired by Rāma’s words, the two youths sang with the full perfection 
 **Govindarāja** offers an unforgettable insight into _pariṣadgataḥ śanaiḥ_: had Emperor Rāma risen abruptly from his golden lion-throne, the entire assembly would have stood up in royal protocol, shattering the musical rapture (_jhaṭity utthāya gamane pariṣado ’py utthānād rasabhaṅgo bhaviṣyatīti_). Remembering the maxim _ekaḥ svādu na bhuñjīta_ (“one should not enjoy a sweet feast alone”) and feeling solitary upon his lofty throne, Rāma stepped down slowly and quietly (_śanaiḥ_) to sit in the midst of his people as a fellow listener!
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

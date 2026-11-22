@@ -271,8 +271,8 @@ Both **Tilaka** and **Govindarāja** gloss the first _śive_ as ‘auspicious’
 
 <details><summary>मूलम्</summary>
 
-अचिन्तयच्च सा देवी गङ्गा परमदुर्धरा ॥ ५ ॥  
-विशाम्यहं हि पातालं स्रोतसा गृह्य शङ्करम् ।
+[^non-baroDa-CE] अचिन्तयच्च सा देवी गङ्गा परमदुर्धरा ॥ ५ ॥  
+[^non-baroDa-CE] विशाम्यहं हि पातालं स्रोतसा गृह्य शङ्करम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -325,10 +325,10 @@ She who is an extremely unendurable river that goddess Ganga even speculated
 
 <details><summary>मूलम्</summary>
 
-तस्यावलेपनं ज्ञात्वा क्रुद्धस्तु भगवान् हरः ॥ ६ ॥  
-तिरोभावयितुं बुद्धिं चक्रे त्रिनयनस्तदा ।
+[^non-baroDa-CE] तस्यावलेपनं ज्ञात्वा क्रुद्धस्तु भगवान् हरः ॥ ६ ॥  
+[^non-baroDa-CE] तिरोभावयितुं बुद्धिं चक्रे त्रिनयनस्तदा ।
 _________________
-तस्यावलेपनं ज्ञात्वाक्रुद्धस्तु भगवान् हरः ॥  
+[^non-baroDa-CE] तस्यावलेपनं ज्ञात्वाक्रुद्धस्तु भगवान् हरः ॥  
 तिरोभावयितुं बुद्धिं चक्रे त्रिणयनस्तदा ।
 </details>
 
@@ -393,8 +393,8 @@ Resolving to conceal her, the three-eyed Rudra traps Gaṅgā for many years wit
 
 <details><summary>मूलम्</summary>
 
-सा तस्मिन् पतिता पुण्या पुण्ये रुद्रस्य मूर्धनि ॥ ७ ॥  
-हिमवत्प्रतिमे राम जटामण्डलगह्वरे ।  
+[^non-baroDa-CE] सा तस्मिन् पतिता पुण्या पुण्ये रुद्रस्य मूर्धनि ॥ ७ ॥  
+[^non-baroDa-CE] हिमवत्प्रतिमे राम जटामण्डलगह्वरे ।  
 सा कथञ्चिन्महीं गन्तुं नाशक्नोद् यत्नमास्थिता ॥ ८ ॥
 </details>
 
@@ -529,7 +529,7 @@ Goddess Ganga whirled round and round in the coils of tufts alone for
 
 <details><summary>मूलम्</summary>
 
-तामपश्यत् पुनस्तत्र तपः परममास्थितः ।  
+[^non-baroDa-CE] तामपश्यत् पुनस्तत्र तपः परममास्थितः ।  
 स तेन तोषितश्चासीदत्यन्तं रघुनन्दन ॥ १० ॥
 </details>
 
@@ -592,7 +592,7 @@ Seeing Gaṅgā hidden inside the forest of Śiva’s locks (_jaṭāṭavītiro
 <details><summary>मूलम्</summary>
 
 विससर्ज ततो गङ्गां हरो बिन्दुसरः प्रति ।  
-तस्यां विसृज्यमानायां सप्त स्रोतांसि जज्ञिरे ॥ ११ ॥
+[^non-baroDa-CE] तस्यां विसृज्यमानायां सप्त स्रोतांसि जज्ञिरे ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -622,8 +622,8 @@ Seeing Gaṅgā hidden inside the forest of Śiva’s locks (_jaṭāṭavītiro
 
 <details><summary>मूलम्</summary>
 
-ह्लादिनी पावनी चैव नलिनी च तथैव च ।  
-तिस्रः प्राचीं दिशं जग्मुर्गङ्गाः शिवजलाः शुभाः ॥ १२ ॥
+[^non-baroDa-CE] ह्लादिनी पावनी चैव नलिनी च तथैव च ।  
+[^non-baroDa-CE] तिस्रः प्राचीं दिशं जग्मुर्गङ्गाः शिवजलाः शुभाः ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -689,8 +689,8 @@ While Sucakṣuḥ, Sītā, and Sindhu flow westward, the seventh stream follows
 
 <details><summary>मूलम्</summary>
 
-सुचक्षुश्चैव सीता च सिन्धुश्चैव महानदी ।  
-तिस्रश्चैता दिशं जग्मुः प्रतीचीं तु दिशं शुभाः ॥ १३ ॥
+[^non-baroDa-CE] सुचक्षुश्चैव सीता च सिन्धुश्चैव महानदी ।  
+[^non-baroDa-CE] तिस्रश्चैता दिशं जग्मुः प्रतीचीं तु दिशं शुभाः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -753,9 +753,9 @@ With three streams flowing east (v. 12), three flowing west (_Sucakṣuḥ_, _S�
 
 <details><summary>मूलम्</summary>
 
-सप्तमी चान्वगात् तासां भगीरथरथं तदा ।  
+[^non-baroDa-CE] सप्तमी चान्वगात् तासां भगीरथरथं तदा ।  
 भगीरथोऽपि राजर्षिर्दिव्यं स्यन्दनमास्थितः ॥ १४ ॥  
-प्रायादग्रे महातेजा गङ्गा तं चाप्यनुव्रजत् ।  
+[^non-baroDa-CE] प्रायादग्रे महातेजा गङ्गा तं चाप्यनुव्रजत् ।  
 गगनाच्छङ्करशिरस्ततो धरणिमागता ॥ १५ ॥
 </details>
 
@@ -846,7 +846,7 @@ The River Ganga is also called as *tripathagaa* 'she courses
 <details><summary>मूलम्</summary>
 
 असर्पत जलं तत्र तीव्रशब्दपुरस्कृतम् ।  
-मत्स्यकच्छपसङ्घैश्च शिंशुमारगणैस्तथा ॥ १६ ॥  
+[^non-baroDa-CE] मत्स्यकच्छपसङ्घैश्च शिंशुमारगणैस्तथा ॥ १६ ॥  
 पतद्भिः पतितैश्चैव व्यरोचत वसुन्धरा ।
 </details>
 
@@ -1786,8 +1786,8 @@ In whichever direction king Bhageeratha has advanced, that glorious
 
 <details><summary>मूलम्</summary>
 
-ततो हि यजमानस्य जह्नोरद्भुतकर्मणः ॥ ३४ ॥  
-गङ्गा सम्प्लावयामास यज्ञवाटं महात्मनः ।
+[^non-baroDa-CE] ततो हि यजमानस्य जह्नोरद्भुतकर्मणः ॥ ३४ ॥  
+[^non-baroDa-CE] गङ्गा सम्प्लावयामास यज्ञवाटं महात्मनः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1849,8 +1849,8 @@ Why is the sacrificing royal sage Jahnu called _adbhutakarmaṇaḥ_ (‘of wond
 
 <details><summary>मूलम्</summary>
 
-तस्यावलेपनं ज्ञात्वा क्रुद्धो जह्नुश्च राघव ॥ ३५ ॥  
-अपिबत् तु जलं सर्वं गङ्गायाः परमाद्भुतम् ।
+[^non-baroDa-CE] तस्यावलेपनं ज्ञात्वा क्रुद्धो जह्नुश्च राघव ॥ ३५ ॥  
+[^non-baroDa-CE] अपिबत् तु जलं सर्वं गङ्गायाः परमाद्भुतम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1897,10 +1897,10 @@ But on knowing her hubris, oh, Raghava, that sage Jahnu has become
 
 <details><summary>मूलम्</summary>
 
-ततो देवाः सगन्धर्वा ऋषयश्च सुविस्मिताः ॥ ३६ ॥  
-पूजयन्ति महात्मानं जह्नुं पुरुषसत्तमम् ।
+[^non-baroDa-CE] ततो देवाः सगन्धर्वा ऋषयश्च सुविस्मिताः ॥ ३६ ॥  
+[^non-baroDa-CE] पूजयन्ति महात्मानं जह्नुं पुरुषसत्तमम् ।
 _________________
-ततो देवाः सगन्धर्वा ऋषयश्च सुविस्मिताः ॥  
+[^non-baroDa-CE] ततो देवाः सगन्धर्वा ऋषयश्च सुविस्मिताः ॥  
 पूजयन्ति महात्मनं जह्नुं पुरुषसत्तमम् ।
 </details>
 
@@ -1948,9 +1948,9 @@ Honoring Sage Jahnu, the gods bestow Gaṅgā upon him as his daughter, whereupo
 
 <details><summary>मूलम्</summary>
 
-गङ्गां चापि नयन्ति स्म दुहितृत्वे महात्मनः ॥ ३७ ॥  
-ततस्तुष्टो महातेजाः श्रोत्राभ्यामसृजत् प्रभुः ।  
-तस्माज्जह्नुसुता गङ्गा प्रोच्यते जाह्नवीति च ॥ ३८ ॥
+[^non-baroDa-CE] गङ्गां चापि नयन्ति स्म दुहितृत्वे महात्मनः ॥ ३७ ॥  
+[^non-baroDa-CE] ततस्तुष्टो महातेजाः श्रोत्राभ्यामसृजत् प्रभुः ।  
+[^non-baroDa-CE] तस्माज्जह्नुसुता गङ्गा प्रोच्यते जाह्नवीति च ॥ ३८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2031,9 +2031,9 @@ Appeasing Jahnu with hymns, the gods promise that if Gaṅgā issues from his bo
 
 <details><summary>मूलम्</summary>
 
-जगाम च पुनर्गङ्गा भगीरथरथानुगा ।  
-सागरं चापि सम्प्राप्ता सा सरित्प्रवरा तदा ॥ ३९ ॥  
-रसातलमुपागच्छत् सिद्ध्यर्थं तस्य कर्मणः ।
+[^non-baroDa-CE] जगाम च पुनर्गङ्गा भगीरथरथानुगा ।  
+[^non-baroDa-CE] सागरं चापि सम्प्राप्ता सा सरित्प्रवरा तदा ॥ ३९ ॥  
+[^non-baroDa-CE] रसातलमुपागच्छत् सिद्ध्यर्थं तस्य कर्मणः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2098,8 +2098,8 @@ Some take the word *saagaram* as the netherworld dug by the sons
 
 <details><summary>मूलम्</summary>
 
-भगीरथोऽपि राजर्षिर्गङ्गामादाय यत्नतः ॥ ४० ॥  
-पितामहान् भस्मकृतानपश्यद् गतचेतनः ।
+[^non-baroDa-CE] भगीरथोऽपि राजर्षिर्गङ्गामादाय यत्नतः ॥ ४० ॥  
+[^non-baroDa-CE] पितामहान् भस्मकृतानपश्यद् गतचेतनः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2152,8 +2152,8 @@ Even kingly-sage Bhageeratha making every effort ushered Ganga to netherworld,
 
 <details><summary>मूलम्</summary>
 
-अथ तद्भस्मनां राशिं गङ्गासलिलमुत्तमम् ।  
-प्लावयत् पूतपाप्मानः स्वर्गं प्राप्ता रघूत्तम ॥ ४१ ॥
+[^non-baroDa-CE] अथ तद्भस्मनां राशिं गङ्गासलिलमुत्तमम् ।  
+[^non-baroDa-CE] प्लावयत् पूतपाप्मानः स्वर्गं प्राप्ता रघूत्तम ॥ ४१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2216,3 +2216,4 @@ As Gaṅgā’s supreme water drenches (_plāvayat = aplāvayat_) the heap of as
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -803,8 +803,8 @@ disservice to him)"
 
 <details><summary>मूलम्</summary>
 
-कर्णवन्ति हि भूतानि विशेषेण तुरङ्गमाः ।  
-यूयं तस्मान्निवर्तध्वं याचनां प्रतिवेदिताः ॥ १५ ॥
+[^non-baroDa-CE] कर्णवन्ति हि भूतानि विशेषेण तुरङ्गमाः ।  
+[^non-baroDa-CE] यूयं तस्मान्निवर्तध्वं याचनां प्रतिवेदिताः ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -855,7 +855,7 @@ our entreaty. Therefore, you return."
 
 <details><summary>मूलम्</summary>
 
-धर्मतः स विशुद्धात्मा वीरः शुभदृढव्रतः ।  
+[^non-baroDa-CE] धर्मतः स विशुद्धात्मा वीरः शुभदृढव्रतः ।  
 उपवाह्यस्तु वो भर्ता नापवाह्यः पुराद् वनम् ॥ १६ ॥
 </details>
 
@@ -1794,10 +1794,10 @@ While those twice-born Brāhmaṇas were crying out thus for his return (_evam v
 
 <details><summary>मूलम्</summary>
 
-ततः सुमन्त्रोऽपि रथाद् विमुच्य  
-श्रान्तान् हयान् सम्परिवर्त्य शीघ्रम् ।  
-पीतोदकांस्तोयपरिप्लुताङ्गा-  
-नचारयद् वै तमसाविदूरे ॥ ३३ ॥
+[^non-baroDa-CE] ततः सुमन्त्रोऽपि रथाद् विमुच्य  
+[^non-baroDa-CE] श्रान्तान् हयान् सम्परिवर्त्य शीघ्रम् ।  
+[^non-baroDa-CE] पीतोदकांस्तोयपरिप्लुताङ्गा-  
+[^non-baroDa-CE] नचारयद् वै तमसाविदूरे ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1854,3 +1854,4 @@ Then Sumantra too, unyoking the weary horses from the chariot (_tataḥ sumantra
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

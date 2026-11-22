@@ -93,8 +93,8 @@ Whichever lovely maiden or married woman that rākṣasa espied (_darśanīyā�
 
 <details><summary>मूलम्</summary>
 
-एवं पन्नगकन्याश्च राक्षसासुरमानुषीः ।  
-यक्षदानवकन्याश्च विमाने सोऽध्यरोपयत् ॥ ३ ॥
+[^non-baroDa-CE] एवं पन्नगकन्याश्च राक्षसासुरमानुषीः ।  
+[^non-baroDa-CE] यक्षदानवकन्याश्च विमाने सोऽध्यरोपयत् ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -158,8 +158,8 @@ All of them together out of grief shed scalding tears (_tāś ca sarvāḥ sama�
 
 <details><summary>मूलम्</summary>
 
-ताभिः सर्वानवद्याभिर्नदीभिरिव सागरः ।  
-आपूरितं विमानं तद् भयशोकाशिवाश्रुभिः ॥ ५ ॥
+[^non-baroDa-CE] ताभिः सर्वानवद्याभिर्नदीभिरिव सागरः ।  
+[^non-baroDa-CE] आपूरितं विमानं तद् भयशोकाशिवाश्रुभिः ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -189,8 +189,8 @@ By those utterly faultless women (_tābhiḥ sarvānavadyābhiḥ_), with their 
 
 <details><summary>मूलम्</summary>
 
-नागगन्धर्वकन्याश्च महर्षितनयाश्च याः ।  
-दैत्यदानवकन्याश्च विमाने शतशोऽरुदन् ॥ ६ ॥
+[^non-baroDa-CE] नागगन्धर्वकन्याश्च महर्षितनयाश्च याः ।  
+[^non-baroDa-CE] दैत्यदानवकन्याश्च विमाने शतशोऽरुदन् ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -232,13 +232,13 @@ Radiant as golden nymphs yet trapped like does in a lion’s clutch, the captive
 
 दीर्घकेश्यः सुचार्वङ्‍ग्यः पूर्णचन्द्रनिभाननाः ।  
 पीनस्तनतटा मध्ये वज्रवेदिसमप्रभाः ॥ ७ ॥  
-रथकूबरसङ्काशैः श्रोणिदेशैर्मनोहराः ।  
-स्त्रियः सुराङ्गनाप्रख्या निष्टप्तकनकप्रभाः ॥ ८ ॥
+[^non-baroDa-CE] रथकूबरसङ्काशैः श्रोणिदेशैर्मनोहराः ।  
+[^non-baroDa-CE] स्त्रियः सुराङ्गनाप्रख्या निष्टप्तकनकप्रभाः ॥ ८ ॥
 _________________
 दीर्घकेश्यः सुचार्वङ्ग्यः पूर्णचन्द्र निभाननाः ।  
 पीनस्तनतटा मध्ये वज्रवेदि समप्रभाः ॥
 रथकूबर सङ्काशैः श्रोणीदेशैर्मनोहराः ।  
-स्त्रियः सुराङ्गनाप्रख्या निष्टप्तकनकप्रभाः ॥
+[^non-baroDa-CE] स्त्रियः सुराङ्गनाप्रख्या निष्टप्तकनकप्रभाः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -271,7 +271,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-शोकदुःखभयत्रस्ता विह्वलाश्च सुमध्यमाः ।  
+[^non-baroDa-CE] शोकदुःखभयत्रस्ता विह्वलाश्च सुमध्यमाः ।  
 तासां निःश्वासवातेन सर्वतः सम्प्रदीपितम् ॥ ९ ॥  
 अग्निहोत्रमिवाभाति सन्निरुद्धाग्नि पुष्पकम् ।
 </details>
@@ -303,7 +303,7 @@ Terrified by grief, anguish, and fear (_śoka-duḥkha-bhaya-trastāḥ_), those
 
 <details><summary>मूलम्</summary>
 
-दशग्रीववशं प्राप्तास्तास्तु शोकाकुलाः स्त्रियः ॥ १० ॥  
+[^non-baroDa-CE] दशग्रीववशं प्राप्तास्तास्तु शोकाकुलाः स्त्रियः ॥ १० ॥  
 दीनवक्त्रेक्षणाः श्यामा मृग्यः सिंहवशा इव ।
 </details>
 
@@ -334,7 +334,7 @@ Puṣpaka shone like an _agnihotra_ hearth with its sacrificial fires pent up wi
 
 <details><summary>मूलम्</summary>
 
-काचिच्चिन्तयती तत्र किं नु मां भक्षयिष्यति ॥ ११ ॥  
+[^non-baroDa-CE] काचिच्चिन्तयती तत्र किं नु मां भक्षयिष्यति ॥ ११ ॥  
 काचिद् दध्यौ सुदुःखार्ता अपि मां मारयेदयम् ।
 </details>
 
@@ -444,7 +444,7 @@ Weeping for bereaved sons, parents, and slain husbands, the captive women beseec
 हा कथं नु करिष्यामि भर्तुस्तस्मादहं विना ॥ १४ ॥  
 मृत्यो प्रसादयामि त्वां नय मां दुःखभागिनीम् ।  
 किं नु तद् दुष्कृतं कर्म पुरा देहान्तरे कृतम् ॥ १५ ॥  
-एवं स्म दुःखिताः सर्वाः पतिताः शोकसागरे ।  
+[^non-baroDa-CE] एवं स्म दुःखिताः सर्वाः पतिताः शोकसागरे ।  
 न खल्विदानीं पश्यामो दुःखस्यास्यान्तमात्मनः ॥ १६ ॥
 </details>
 
@@ -482,7 +482,7 @@ Weeping for bereaved sons, parents, and slain husbands, the captive women beseec
 
 अहो धिङ्मानुषं लोकं नास्ति खल्वधमः परः ।  
 यद् दुर्बला बलवता भर्तारो रावणेन नः ॥ १७ ॥  
-सूर्येणोदयता काले नक्षत्राणीव नाशिताः ।
+[^non-baroDa-CE] सूर्येणोदयता काले नक्षत्राणीव नाशिताः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -513,10 +513,10 @@ Weeping for bereaved sons, parents, and slain husbands, the captive women beseec
 <details><summary>मूलम्</summary>
 
 अहो सुबलवद् रक्षो वधोपायेषु रज्यते ॥ १८ ॥  
-अहो दुर्वृत्तमास्थाय नात्मानं वै जुगुप्सते ।
+[^non-baroDa-CE] अहो दुर्वृत्तमास्थाय नात्मानं वै जुगुप्सते ।
 _________________
 अहो सुबलवद्द्रक्षो वधोपायेषु रज्यते ॥  
-अहो दुर्वृत्तमास्थाय नात्मानं वै जुगुप्सते ।
+[^non-baroDa-CE] अहो दुर्वृत्तमास्थाय नात्मानं वै जुगुप्सते ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -585,7 +585,7 @@ Declaring abduction of others’ wives unworthy of any hero, the chaste captives
 
 <details><summary>मूलम्</summary>
 
-यस्मादेष परक्यासु रमते राक्षसाधमः ॥ २० ॥  
+[^non-baroDa-CE] यस्मादेष परक्यासु रमते राक्षसाधमः ॥ २० ॥  
 तस्माद् वै स्त्रीकृतेनैव वधं प्राप्स्यति दुर्मतिः ।
 </details>
 
@@ -616,10 +616,10 @@ Declaring abduction of others’ wives unworthy of any hero, the chaste captives
 
 <details><summary>मूलम्</summary>
 
-सतीभिर्वरनारीभिरेवं वाक्येऽभ्युदीरिते ॥ २१ ॥  
-नेदुर्दुन्दुभयः खस्थाः पुष्पवृष्टिः पपात च ।
+[^non-baroDa-CE] सतीभिर्वरनारीभिरेवं वाक्येऽभ्युदीरिते ॥ २१ ॥  
+[^non-baroDa-CE] नेदुर्दुन्दुभयः खस्थाः पुष्पवृष्टिः पपात च ।
 _________________
-सतीभिर्वरनारीभिरेवं वाक्येऽभ्युदीरिते ॥  
+[^non-baroDa-CE] सतीभिर्वरनारीभिरेवं वाक्येऽभ्युदीरिते ॥  
 देवदुन्दुभयः खस्थाः पुष्पवृष्टिः पपात च ।
 </details>
 
@@ -651,7 +651,7 @@ Heavenly kettledrums resounded in the sky and a shower of flowers fell (_nedur d
 <details><summary>मूलम्</summary>
 
 शप्तः स्त्रीभिः स तु समं हतौजा इव निष्प्रभः ॥ २२ ॥  
-पतिव्रताभिः साध्वीभिर्बभूव विमना इव ।
+[^non-baroDa-CE] पतिव्रताभिः साध्वीभिर्बभूव विमना इव ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -712,8 +712,8 @@ At that very moment, a terrifying, shape-shifting rākṣasī (_ghorā rākṣas
 
 <details><summary>मूलम्</summary>
 
-एतस्मिन्नन्तरे घोरा राक्षसी कामरूपिणी ॥ २४ ॥  
-सहसा पतिता भूमौ भगिनी रावणस्य सा ।
+[^non-baroDa-CE] एतस्मिन्नन्तरे घोरा राक्षसी कामरूपिणी ॥ २४ ॥  
+[^non-baroDa-CE] सहसा पतिता भूमौ भगिनी रावणस्य सा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -945,7 +945,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 एते राजंस्त्वया वीर्याद् दैत्या विनिहता रणे ॥ २७ ॥  
-कालकेया इति ख्याताः सहस्राणि चतुर्दश ।
+[^non-baroDa-CE] कालकेया इति ख्याताः सहस्राणि चतुर्दश ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -975,7 +975,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-प्राणेभ्योऽपि गरीयान् मे तत्र भर्ता महाबलः ॥ २८ ॥  
+[^non-baroDa-CE] प्राणेभ्योऽपि गरीयान् मे तत्र भर्ता महाबलः ॥ २८ ॥  
 सोऽपि त्वया हतस्तात रिपुणा भ्रातृगन्धिना ।
 </details>
 
@@ -1147,7 +1147,7 @@ _________________
 
 युद्धप्रमत्तो व्याक्षिप्तो जयाकाङ्क्षी क्षिपन् शरान् ॥ ३३ ॥  
 नाहमज्ञासिषं युध्यन् स्वान् परान् वापि संयुगे ।  
-जामातरं न जाने स्म प्रहरन् युद्धदुर्मदः ॥ ३४ ॥
+[^non-baroDa-CE] जामातरं न जाने स्म प्रहरन् युद्धदुर्मदः ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1255,7 +1255,7 @@ Appointing Dūṣaṇa as general under Khara and assigning them fourteen thousa
 <details><summary>मूलम्</summary>
 
 तत्र मातृष्वसेयस्ते भ्रातायं वै खरः प्रभुः ॥ ३७ ॥  
-भविष्यति तवादेशं सदा कुर्वन् निशाचरः ।
+[^non-baroDa-CE] भविष्यति तवादेशं सदा कुर्वन् निशाचरः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1316,8 +1316,8 @@ Having spoken thus, Ten-Neck assigned an army to him (_evam uktvā daśagrīva�
 
 <details><summary>मूलम्</summary>
 
-तत्र ते वचनं शूरः करिष्यति सदा खरः ॥ ३९ ॥  
-रक्षसां कामरूपाणां प्रभुरेष भविष्यति ।
+[^non-baroDa-CE] तत्र ते वचनं शूरः करिष्यति सदा खरः ॥ ३९ ॥  
+[^non-baroDa-CE] रक्षसां कामरूपाणां प्रभुरेष भविष्यति ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1387,3 +1387,4 @@ There he established a kingdom free of all thorns (_sa tatra kārayāmāsa rājy
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

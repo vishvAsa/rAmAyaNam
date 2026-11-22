@@ -186,7 +186,7 @@ With eyes reddened by wrath (_saṃrakta-nayanaḥ kopāt_) and his diadem tremb
 
 <details><summary>मूलम्</summary>
 
-माल्यवन्तं स्थितं दृष्ट्वा माल्यवन्तमिवाचलम् ।  
+[^non-baroDa-CE] माल्यवन्तं स्थितं दृष्ट्वा माल्यवन्तमिवाचलम् ।  
 उवाच राक्षसेन्द्रं तं देवराजानुजो बली ॥ ६ ॥
 </details>
 
@@ -973,7 +973,7 @@ You yourself are that eternal, four-armed Lord Nārāyaṇa (_bhavān nārāya�
 <details><summary>मूलम्</summary>
 
 नष्टधर्मव्यवस्थानां काले काले प्रजाकरः ।  
-उत्पद्यते दस्युवधे शरणागतवत्सलः ॥ २७ ॥
+[^non-baroDa-CE] उत्पद्यते दस्युवधे शरणागतवत्सलः ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1005,10 +1005,10 @@ The establisher of shattered righteousness (_naṣṭa-dharma-vyavasthātā_), C
 
 <details><summary>मूलम्</summary>
 
-एषा मया तव नराधिप राक्षसाना-  
-मुत्पत्तिरद्य कथिता सकला यथावत् ।  
-भूयो निबोध रघुसत्तम रावणस्य  
-जन्मप्रभावमतुलं ससुतस्य सर्वम् ॥ २८ ॥
+[^non-baroDa-CE] एषा मया तव नराधिप राक्षसाना-  
+[^non-baroDa-CE] मुत्पत्तिरद्य कथिता सकला यथावत् ।  
+[^non-baroDa-CE] भूयो निबोध रघुसत्तम रावणस्य  
+[^non-baroDa-CE] जन्मप्रभावमतुलं ससुतस्य सर्वम् ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1040,10 +1040,10 @@ Thus, O lord of men (_narādhipa_), has this entire origin of the Rākṣasas (_
 
 <details><summary>मूलम्</summary>
 
-चिरात् सुमाली व्यचरद् रसातलं  
-स राक्षसो विष्णुभयार्दितस्तदा ।  
-पुत्रैश्च पौत्रैश्च समन्वितो बली  
-ततस्तु लङ्कामवसद् धनेश्वरः ॥ २९ ॥
+[^non-baroDa-CE] चिरात् सुमाली व्यचरद् रसातलं  
+[^non-baroDa-CE] स राक्षसो विष्णुभयार्दितस्तदा ।  
+[^non-baroDa-CE] पुत्रैश्च पौत्रैश्च समन्वितो बली  
+[^non-baroDa-CE] ततस्तु लङ्कामवसद् धनेश्वरः ॥ २९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1074,3 +1074,4 @@ Long did that mighty Rākṣasa Sumālī wander in Rasātala (_cirāt sumālī v
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

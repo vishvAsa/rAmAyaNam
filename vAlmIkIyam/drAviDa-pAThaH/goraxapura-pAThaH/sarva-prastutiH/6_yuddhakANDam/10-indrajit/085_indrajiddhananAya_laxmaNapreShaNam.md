@@ -639,8 +639,8 @@ Vibhīṣaṇa reveals Brahmā's stipulation that Indrajit can be slain only bef
 
 <details><summary>मूलम्</summary>
 
-स एष किल सैन्येन प्राप्तः किल निकुम्भिलाम् ।  
-यद्युत्तिष्ठेत् कृतं कर्म हतान् सर्वांश्च विद्धि नः ॥ १३ ॥
+[^non-baroDa-CE] स एष किल सैन्येन प्राप्तः किल निकुम्भिलाम् ।  
+[^non-baroDa-CE] यद्युत्तिष्ठेत् कृतं कर्म हतान् सर्वांश्च विद्धि नः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -696,12 +696,12 @@ If he comes forth after completing his sacrificial act, know that all of us as k
 
 निकुम्भिलामसम्प्राप्तमकृताग्निं च यो रिपुः ।  
 त्वामाततायिनं हन्यादिन्द्रशत्रो स ते वधः ॥ १४ ॥  
-वरो दत्तो महाबाहो सर्वलोकेश्वरेण वै ।  
+[^non-baroDa-CE] वरो दत्तो महाबाहो सर्वलोकेश्वरेण वै ।  
 इत्येवं विहितो राजन् वधस्तस्यैष धीमतः ॥ १५ ॥
 _________________
 निकुम्भिलाम सम्प्राप्तमकृताग्निं च यो रिपुः ।  
 त्वामाततायिनं हन्यादिन्द्रिशत्रोः स ते वधः ॥
-वरो दत्तो महाबाहो सर्वलोकेश्वरेण वै ।  
+[^non-baroDa-CE] वरो दत्तो महाबाहो सर्वलोकेश्वरेण वै ।  
 इत्येवं विहितो राजन् वधस्तस्यैष धीमतः ॥
 </details>
 
@@ -1671,8 +1671,8 @@ Having reached him whose stratagem was illusion (_māyāyogam_), that foe-taming
 
 <details><summary>मूलम्</summary>
 
-विभीषणेन सहितो राजपुत्रः प्रतापवान् ।  
-अङ्गदेन च वीरेण तथानिलसुतेन च ॥ ३५ ॥
+[^non-baroDa-CE] विभीषणेन सहितो राजपुत्रः प्रतापवान् ।  
+[^non-baroDa-CE] अङ्गदेन च वीरेण तथानिलसुतेन च ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1779,3 +1779,4 @@ entered that manifold army of the foes—gleaming with spotless weapons (_amala�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

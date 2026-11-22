@@ -154,7 +154,7 @@ the use of a bow or sword with a shield?"
 <details><summary>मूलम्</summary>
 
 पितुः सत्यं प्रतिश्रुत्य हत्वा भरतमाहवे ।  
-किं करिष्यामि राज्येन सापवादेन लक्ष्मण ॥ ३ ॥
+[^non-baroDa-CE] किं करिष्यामि राज्येन सापवादेन लक्ष्मण ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -206,7 +206,7 @@ Having promised to uphold our father’s truthfulness (_pituḥ satyaṃ pratiś
 
 <details><summary>मूलम्</summary>
 
-यद् द्रव्यं बान्धवानां वा मित्राणां वा क्षये भवेत् ।  
+[^non-baroDa-CE] यद् द्रव्यं बान्धवानां वा मित्राणां वा क्षये भवेत् ।  
 नाहं तत् प्रतिगृह्णीयां भक्ष्यान् विषकृतानिव ॥ ४ ॥
 </details>
 
@@ -259,7 +259,7 @@ Whatever wealth or sovereignty is gained through the destruction of kinsmen or f
 
 <details><summary>मूलम्</summary>
 
-धर्ममर्थं च कामं च पृथिवीं चापि लक्ष्मण ।  
+[^non-baroDa-CE] धर्ममर्थं च कामं च पृथिवीं चापि लक्ष्मण ।  
 इच्छामि भवतामर्थे एतत् प्रतिशृणोमि ते ॥ ५ ॥
 </details>
 
@@ -313,10 +313,10 @@ Righteousness, wealth, pleasure, and even the whole earth, O Lakṣmaṇa (_dhar
 <details><summary>मूलम्</summary>
 
 भ्रातॄणां सङ्ग्रहार्थं च सुखार्थं चापि लक्ष्मण ।  
-राज्यमप्यहमिच्छामि सत्येनायुधमालभे ॥ ६ ॥
+[^non-baroDa-CE] राज्यमप्यहमिच्छामि सत्येनायुधमालभे ॥ ६ ॥
 _________________
 भ्रातृणां सङ्ग्रहार्थं च सुखार्थं चापि लक्ष्मण ।  
-राज्यमप्यहमिच्छामि सत्येनायुधमालभे ॥
+[^non-baroDa-CE] राज्यमप्यहमिच्छामि सत्येनायुधमालभे ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -376,7 +376,7 @@ Declaring that any happiness apart from his brothers should be reduced to ashes,
 <details><summary>मूलम्</summary>
 
 नेयं मम मही सौम्य दुर्लभा सागराम्बरा ।  
-नहीच्छेयमधर्मेण शक्रत्वमपि लक्ष्मण ॥ ७ ॥
+[^non-baroDa-CE] नहीच्छेयमधर्मेण शक्रत्वमपि लक्ष्मण ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -423,7 +423,7 @@ This ocean-girt earth is not difficult for me to win, O gentle one (_neyaṃ mam
 <details><summary>मूलम्</summary>
 
 यद् विना भरतं त्वां च शत्रुघ्नं वापि मानद ।  
-भवेन्मम सुखं किञ्चिद् भस्म तत् कुरुतां शिखी ॥ ८ ॥
+[^non-baroDa-CE] भवेन्मम सुखं किञ्चिद् भस्म तत् कुरुतां शिखी ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -480,18 +480,18 @@ If any happiness should come to me apart from Bharata, you, and Śatrughna, O be
 
 <details><summary>मूलम्</summary>
 
-मन्येऽहमागतोऽयोध्यां भरतो भ्रातृवत्सलः ।  
+[^non-baroDa-CE] मन्येऽहमागतोऽयोध्यां भरतो भ्रातृवत्सलः ।  
 मम प्राणैः प्रियतरः कुलधर्ममनुस्मरन् ॥ ९ ॥  
-श्रुत्वा प्रव्राजितं मां हि जटावल्कलधारिणम् ।  
+[^non-baroDa-CE] श्रुत्वा प्रव्राजितं मां हि जटावल्कलधारिणम् ।  
 जानक्या सहितं वीर त्वया च पुरुषोत्तम ॥ १० ॥  
-स्नेहेनाक्रान्तहृदयः शोकेनाकुलितेन्द्रियः ।  
+[^non-baroDa-CE] स्नेहेनाक्रान्तहृदयः शोकेनाकुलितेन्द्रियः ।  
 द्रष्टुमभ्यागतो ह्येष भरतो नान्यथाऽऽगतः ॥ ११ ॥
 _________________
 मन्येहमागतोऽयोध्यां भरतो भ्रातृवत्सलः ।  
 मम प्राणैः प्रियतरः कुलधर्ममनुस्मरन् ॥
 श्रुत्वा प्राव्राजितं मां हि जटावल्कलधारिणम् ।  
 जानक्या सहितं वीर त्वया च पुरुषोत्तम ॥
-स्नेहेनाक्रान्तहृदयः शोकेनाकुलितेन्द्रियः ।  
+[^non-baroDa-CE] स्नेहेनाक्रान्तहृदयः शोकेनाकुलितेन्द्रियः ।  
 द्रष्टुमभ्यागतो ह्येष भरतो नान्यथाऽऽगतः ॥
 </details>
 
@@ -564,7 +564,7 @@ Bharata has come to see me. He has not come with any other motive."
 <details><summary>मूलम्</summary>
 
 अम्बां च केकयीं रुष्य भरतश्चाप्रियं वदन् ।  
-प्रसाद्य पितरं श्रीमान् राज्यं मे दातुमागतः ॥ १२ ॥
+[^non-baroDa-CE] प्रसाद्य पितरं श्रीमान् राज्यं मे दातुमागतः ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1001,7 +1001,7 @@ Thus addressed by his righteous-minded brother (_tathokto dharma-śīlena bhrāt
 <details><summary>मूलम्</summary>
 
 तद्वाक्यं लक्ष्मणः श्रुत्वा व्रीडितः प्रत्युवाच ह ।  
-त्वां मन्ये द्रष्टुमायातः पिता दशरथः स्वयम् ॥ २० ॥
+[^non-baroDa-CE] त्वां मन्ये द्रष्टुमायातः पिता दशरथः स्वयम् ॥ २० ॥
 _________________
 तद्वाक्यं लक्ष्मणः श्रुत्वा व्रीडितः प्रत्युवाच ह ।  
 त्वां मन्ये द्रष्टुमायातः पिता दशरथः स्मयाम् ॥
@@ -1111,7 +1111,7 @@ Seeing Lakṣmaṇa abashed (_vrīḍitaṃ lakṣmaṇaṃ dṛṣṭvā_), Rā
 
 <details><summary>मूलम्</summary>
 
-अथवा नौ ध्रुवं मन्ये मन्यमानः सुखोचितौ ।  
+[^non-baroDa-CE] अथवा नौ ध्रुवं मन्ये मन्यमानः सुखोचितौ ।  
 वनवासमनुध्याय गृहाय प्रतिनेष्यति ॥ २२ ॥
 </details>
 
@@ -1164,10 +1164,10 @@ Or else I surely think that, deeming the two of us accustomed to comfort (_athav
 <details><summary>मूलम्</summary>
 
 इमां चाप्येष वैदेहीमत्यन्तसुखसेविनीम् ।  
-पिता मे राघवः श्रीमान् वनादादाय यास्यति ॥ २३ ॥
+[^non-baroDa-CE] पिता मे राघवः श्रीमान् वनादादाय यास्यति ॥ २३ ॥
 _________________
 इमां चाप्येष वेदेहीमत्यन्तसुखसेविनीम् ।  
-पिता मे राघवः श्रीमान्वनादादाय यास्यति ॥
+[^non-baroDa-CE] पिता मे राघवः श्रीमान्वनादादाय यास्यति ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1397,13 +1397,13 @@ Descending from the śāla tree, Lakṣmaṇa stands with joined palms beside R�
 
 <details><summary>मूलम्</summary>
 
-वृक्षाग्रादवरोह त्वं कुरु लक्ष्मण मद्वचः ।  
-इतीव रामो धर्मात्मा सौमित्रिं तमुवाच ह ॥ २७ ॥  
+[^non-baroDa-CE] वृक्षाग्रादवरोह त्वं कुरु लक्ष्मण मद्वचः ।  
+[^non-baroDa-CE] इतीव रामो धर्मात्मा सौमित्रिं तमुवाच ह ॥ २७ ॥  
 अवतीर्य तु सालाग्रात् तस्मात् स समितिञ्जयः ।  
 लक्ष्मणः प्राञ्जलिर्भूत्वा तस्थौ रामस्य पार्श्वतः ॥ २८ ॥
 _________________
 वक्षाग्रादवरोह त्वं कुरु लक्ष्मण मद्वचः ।  
-इतीव रामो धर्मात्मा सौमित्रिं तमुवाच ह ॥
+[^non-baroDa-CE] इतीव रामो धर्मात्मा सौमित्रिं तमुवाच ह ॥
 अवतीर्य तु सालाग्रात् तस्मात् स समितिञ्जयः ।  
 लक्ष्मणः प्राञ्जलिभूत्वा तस्थौ रामस्यपार्श्वतः ॥
 </details>
@@ -1643,3 +1643,4 @@ Led by the wise and statesmanlike Bharata (_bharatena nītimatā praṇītā_), 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

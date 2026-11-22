@@ -48,12 +48,12 @@ When Rāma ceases speaking on the bank of the Mandākinī, righteous Bharata ext
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा तु विरते रामे वचनमर्थवत् ।  
-ततो मन्दाकिनीतीरे रामं प्रकृतिवत्सलम् ॥ १ ॥  
+[^non-baroDa-CE] ततो मन्दाकिनीतीरे रामं प्रकृतिवत्सलम् ॥ १ ॥  
 उवाच भरतश्चित्रं धार्मिको धािर्मकं वचः ।  
 को हि स्यादीदृशो लोके यादृशस्त्वमरिन्दम ॥ २ ॥
 _________________
 एवमुक्त्वा तु विरते रामे वचनमर्थवत् ।  
-ततो मन्दाकिनीतीरे रामं प्रकृतिवत्सलम् ॥
+[^non-baroDa-CE] ततो मन्दाकिनीतीरे रामं प्रकृतिवत्सलम् ॥
 उवाच भरतश्चित्रं धार्मिको धार्मिकं वचः ।  
 को हि स्यादीदृशो लोकेयादृशस्त्वमरिन्दम ॥
 </details>
@@ -988,11 +988,11 @@ Arguing that royal consecration is a Kṣatriya’s primary duty and the househo
 
 <details><summary>मूलम्</summary>
 
-एष हि प्रथमो धर्मः क्षत्रियस्याभिषेचनम् ।  
-येन शक्यं महाप्राज्ञ प्रजानां परिपालनम् ॥ १९ ॥
+[^non-baroDa-CE] एष हि प्रथमो धर्मः क्षत्रियस्याभिषेचनम् ।  
+[^non-baroDa-CE] येन शक्यं महाप्राज्ञ प्रजानां परिपालनम् ॥ १९ ॥
 _________________
 एष हि प्रथमो धर्मः क्षत्रियास्याभिषेचनम् ।  
-येन शक्यं महाप्राज्ञ प्रजानां परिपालनम् ॥
+[^non-baroDa-CE] येन शक्यं महाप्राज्ञ प्रजानां परिपालनम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1044,7 +1044,7 @@ For this indeed is the foremost duty of a Kṣatriya—royal consecration (_kṣ
 
 <details><summary>मूलम्</summary>
 
-कश्च प्रत्यक्षमुत्सृज्य संशयस्थमलक्षणम् ।  
+[^non-baroDa-CE] कश्च प्रत्यक्षमुत्सृज्य संशयस्थमलक्षणम् ।  
 आयतिस्थं चरेद् धर्मं क्षत्रबन्धुरनिश्चितम् ॥ २० ॥
 </details>
 
@@ -1950,3 +1950,4 @@ Then the officiating priests (_ṛtvijaḥ_), the leaders of the guilds of towns
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

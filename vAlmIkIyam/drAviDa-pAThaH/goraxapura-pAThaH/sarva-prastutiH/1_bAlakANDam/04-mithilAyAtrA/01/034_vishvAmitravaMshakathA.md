@@ -1082,8 +1082,8 @@ As the sage falls silent, the assembled sages acclaim him (“_sādhu sādhv iti
 
 <details><summary>मूलम्</summary>
 
-कुशिकानामयं वंशो महान् धर्मपरः सदा ।  
-ब्रह्मोपमा महात्मानः कुशवंश्या नरोत्तमाः ॥ २० ॥
+[^non-baroDa-CE] कुशिकानामयं वंशो महान् धर्मपरः सदा ।  
+[^non-baroDa-CE] ब्रह्मोपमा महात्मानः कुशवंश्या नरोत्तमाः ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1131,8 +1131,8 @@ applauded Vishvamitra and his dynasty. [1-34-20]
 
 <details><summary>मूलम्</summary>
 
-विशेषेण भवानेव विश्वामित्र महायशः ।  
-कौशिकी सरितां श्रेष्ठा कुलोद्योतकरी तव ॥ २१ ॥
+[^non-baroDa-CE] विशेषेण भवानेव विश्वामित्र महायशः ।  
+[^non-baroDa-CE] कौशिकी सरितां श्रेष्ठा कुलोद्योतकरी तव ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1185,7 +1185,7 @@ your ancestry." Thus the sages lauded Vishvamitra. [1-34-21]
 
 <details><summary>मूलम्</summary>
 
-मुदितैर्मुनिशार्दूलैः प्रशस्तः कुशिकात्मजः ।  
+[^non-baroDa-CE] मुदितैर्मुनिशार्दूलैः प्रशस्तः कुशिकात्मजः ।  
 निद्रामुपागमच्छ्रीमानस्तङ्गत इवांशुमान् ॥ २२ ॥
 </details>
 
@@ -1298,3 +1298,5 @@ Rāma too, together with Saumitri (Lakṣmaṇa), touched with gentle wonder (_k
 Rāma too, with Lakṣmaṇa (_sahasaumitriḥ_), praises the sage and sleeps, touched with gentle wonder (_kiṃcid āgatavismayaḥ_)—only “a little” because sleep is overtaking him (_nidrāpāravaśyāt_, **Govindarāja**) or because Rāma’s supreme composure remains ever unshaken (**Śiromaṇi**).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

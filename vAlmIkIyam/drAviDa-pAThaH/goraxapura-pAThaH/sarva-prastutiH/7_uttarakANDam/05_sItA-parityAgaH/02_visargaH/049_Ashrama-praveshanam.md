@@ -125,10 +125,10 @@ Having bowed before the feet of the sage (_abhivādya muneḥ pādau_), the herm
 <details><summary>मूलम्</summary>
 
 भगवन् साधु पश्येस्त्वं देवतामिव खाच्च्युताम् ।  
-नद्यास्तु तीरे भगवन् वरस्त्री कापि दुःखिता ॥ ४ ॥
+[^non-baroDa-CE] नद्यास्तु तीरे भगवन् वरस्त्री कापि दुःखिता ॥ ४ ॥
 _________________
 भगवन्साधु पश्येस्त्वं देवतामिव खाच्च्युतम् ।  
-नद्यास्तु तीरे भगवन्वरस्त्री कापि दुःखिता ॥
+[^non-baroDa-CE] नद्यास्तु तीरे भगवन्वरस्त्री कापि दुःखिता ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -158,7 +158,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-दृष्टास्माभिः प्ररुदिता दृढं शोकपरायणा ।  
+[^non-baroDa-CE] दृष्टास्माभिः प्ररुदिता दृढं शोकपरायणा ।  
 अनर्हा दुःखशोकाभ्यामेका दीना अनाथवत् ॥ ५ ॥
 </details>
 
@@ -190,7 +190,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 न ह्येनां मानुषीं विद्मः सत्क्रियास्याः प्रयुज्यताम् ।  
-आश्रमस्याविदूरे च त्वामियं शरणं गता ॥ ६ ॥
+[^non-baroDa-CE] आश्रमस्याविदूरे च त्वामियं शरणं गता ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -229,7 +229,7 @@ Perceiving the truth through his ascetic vision, Vālmīki hastens on foot with 
 
 <details><summary>मूलम्</summary>
 
-त्रातारमिच्छते साध्वी भगवंस्त्रातुमर्हसि ।  
+[^non-baroDa-CE] त्रातारमिच्छते साध्वी भगवंस्त्रातुमर्हसि ।  
 तेषां तु वचनं श्रुत्वा बुद‍्ध्या निश्चित्य धर्मवित् ॥ ७ ॥  
 तपसा लब्धचक्षुष्मान् प्राद्रवद् यत्र मैथिली ।
 </details>
@@ -263,7 +263,7 @@ Perceiving the truth through his ascetic vision, Vālmīki hastens on foot with 
 
 <details><summary>मूलम्</summary>
 
-तं प्रयान्तमभिप्रेत्य शिष्या ह्येनं महामतिम् ॥ ८ ॥  
+[^non-baroDa-CE] तं प्रयान्तमभिप्रेत्य शिष्या ह्येनं महामतिम् ॥ ८ ॥  
 तं तु देशमभिप्रेत्य किञ्चित् पद‍्भ्यां महामतिः ।  
 अर्घ्यमादाय रुचिरं जाह्नवीतीरमागमत् ।  
 ददर्श राघवस्येष्टां सीतां पत्नीमनाथवत् ॥ ९ ॥
@@ -402,8 +402,8 @@ Declaring Sītā utterly sinless through his ascetic sight, Vālmīki bids her a
 
 <details><summary>मूलम्</summary>
 
-तव चैव महाभागे विदितं मम तत्त्वतः ।  
-सर्वं च विदितं मह्यं त्रैलोक्ये यद्धि वर्तते ॥ १३ ॥
+[^non-baroDa-CE] तव चैव महाभागे विदितं मम तत्त्वतः ।  
+[^non-baroDa-CE] सर्वं च विदितं मह्यं त्रैलोक्ये यद्धि वर्तते ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -755,3 +755,4 @@ And having repeatedly entrusted Vaidehī to their care (_muhur muhuś ca vaideh�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -46,11 +46,11 @@ At Daśaratha’s request, Sumantra relates how Romapāda’s Purohita and minis
 
 सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा ।  
 यथर्ष्यशृङ्गस्त्वानीतो येनोपायेन मन्त्रिभिः ।  
-तन्मे निगदितं सर्वं शृणु मे मन्त्रिभिः सह ॥ १ ॥
+[^non-baroDa-CE] तन्मे निगदितं सर्वं शृणु मे मन्त्रिभिः सह ॥ १ ॥
 _________________
 सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा ।  
 यर्थर्ष्यशृङ्गस्त्वानीतो येनोपायेनमन्त्रिभिः ।  
-तन्मे निगदितं सर्वं शृणु मे मन्त्रिभिः सह ॥
+[^non-baroDa-CE] तन्मे निगदितं सर्वं शृणु मे मन्त्रिभिः सह ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1307,7 +1307,7 @@ Returning to that spot the next day, Ṛśyaśṛṅga is invited by the courtes
 <details><summary>मूलम्</summary>
 
 ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान् ।  
-विभाण्डकसुतः श्रीमान् मनसाचिन्तयन्मुहुः ॥ २४ ॥  
+[^non-baroDa-CE] विभाण्डकसुतः श्रीमान् मनसाचिन्तयन्मुहुः ॥ २४ ॥  
 मनोज्ञा यत्र ता दृष्टा वारमुख्याः स्वलङ्कृताः ।
 </details>
 
@@ -1420,8 +1420,8 @@ our hermitage... [1-10-25b, 26]
 
 <details><summary>मूलम्</summary>
 
-चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च ।  
-तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम् ॥ २७ ॥
+[^non-baroDa-CE] चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च ।  
+[^non-baroDa-CE] तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम् ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1777,3 +1777,4 @@ Rishyasringa to King Dasharatha.] [1-10-33]
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

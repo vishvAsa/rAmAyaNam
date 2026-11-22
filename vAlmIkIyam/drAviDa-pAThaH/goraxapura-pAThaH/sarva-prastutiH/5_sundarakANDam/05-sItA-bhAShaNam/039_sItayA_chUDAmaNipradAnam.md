@@ -262,7 +262,7 @@ your effort will become the one which can remove my misfortunes."
 
 <details><summary>मूलम्</summary>
 
-हनूमन् यत्नमास्थाय दुःखक्षयकरो भव ।  
+[^non-baroDa-CE] हनूमन् यत्नमास्थाय दुःखक्षयकरो भव ।  
 स तथेति प्रतिज्ञाय मारुतिर्भीमविक्रमः ॥ ५ ॥  
 शिरसाऽऽवन्द्य वैदेहीं गमनायोपचक्रमे ।
 _________________
@@ -376,7 +376,7 @@ With her voice choked with tears, Sītā entrusts Hanūmān with auspicious gree
 
 हनूमन् कुशलं ब्रूयाः सहितौ रामलक्ष्मणौ ॥ ७ ॥  
 सुग्रीवं च सहामात्यं सर्वान् वृद्धांश्च वानरान् ।  
-ब्रूयास्त्वं वानरश्रेष्ठ कुशलं धर्मसंहितम् ॥ ८ ॥
+[^non-baroDa-CE] ब्रूयास्त्वं वानरश्रेष्ठ कुशलं धर्मसंहितम् ॥ ८ ॥
 _________________
 हनुमन् कुशलं ब्रूयाः सहितौ रामलक्ष्मणौ ।
 </details>
@@ -2790,7 +2790,7 @@ happiness, as an elephant gets tormented by a lion."
 <details><summary>मूलम्</summary>
 
 रुद मा देवि शोकेन मा भूत् ते मनसो भयम् ।  
-शचीव भर्त्रा शक्रेण सङ्गमेष्यसि शोभने ॥ ५२ ॥
+[^non-baroDa-CE] शचीव भर्त्रा शक्रेण सङ्गमेष्यसि शोभने ॥ ५२ ॥
 _________________
 मा रुदो देवि शोकेन मा भूत्ते मनसो प्रियम् ।  
 शचीव पत्या शक्रेण भर्त्रा नाथवती ह्यसि ॥
@@ -2961,3 +2961,4 @@ till the moment of my meeting with Rama on my return."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

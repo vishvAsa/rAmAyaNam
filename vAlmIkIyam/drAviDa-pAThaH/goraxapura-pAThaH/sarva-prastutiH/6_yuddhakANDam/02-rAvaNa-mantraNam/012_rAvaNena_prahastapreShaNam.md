@@ -49,10 +49,10 @@ Surveying the full assembly, battle-victorious Rāvaṇa commands Prahasta to st
 <details><summary>मूलम्</summary>
 
 स तां परिषदं कृत्स्नां समीक्ष्य समितिञ्जयः ।  
-प्रचोदयामास तदा प्रहस्तं वाहिनीपतिम् ॥ १ ॥
+[^non-baroDa-CE] प्रचोदयामास तदा प्रहस्तं वाहिनीपतिम् ॥ १ ॥
 _________________
 स तां परिषदं कृत्नां समीक्ष्यसमितिञ्जयः ।  
-प्रचोदयामास तदा प्रहस्तं वाहिनीपतिम् ॥
+[^non-baroDa-CE] प्रचोदयामास तदा प्रहस्तं वाहिनीपतिम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -104,8 +104,8 @@ Surveying that entire assembly (_kṛtsnāṃ pariṣadam_), Rāvaṇa, victorio
 
 <details><summary>मूलम्</summary>
 
-सेनापते यथा ते स्युः कृतविद्याश्चतुर्विधाः ।  
-योधा नगररक्षायां तथा व्यादेष्टुमर्हसि ॥ २ ॥
+[^non-baroDa-CE] सेनापते यथा ते स्युः कृतविद्याश्चतुर्विधाः ।  
+[^non-baroDa-CE] योधा नगररक्षायां तथा व्यादेष्टुमर्हसि ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -135,11 +135,11 @@ Surveying that entire assembly (_kṛtsnāṃ pariṣadam_), Rāvaṇa, victorio
 
 <details><summary>मूलम्</summary>
 
-स प्रहस्तः प्रणीतात्मा चिकीर्षन् राजशासनम् ।  
-विनिक्षिपद् बलं सर्वं बहिरन्तश्च मन्दिरे ॥ ३ ॥
+[^non-baroDa-CE] स प्रहस्तः प्रणीतात्मा चिकीर्षन् राजशासनम् ।  
+[^non-baroDa-CE] विनिक्षिपद् बलं सर्वं बहिरन्तश्च मन्दिरे ॥ ३ ॥
 _________________
 स प्रहस्तः प्रणीतात्मा चकीर्षन् राजशासनम् ।  
-विनिक्षिपद् बलं सर्वं बहिरन्तश्च मन्दिरे ॥
+[^non-baroDa-CE] विनिक्षिपद् बलं सर्वं बहिरन्तश्च मन्दिरे ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -190,8 +190,8 @@ With a composed mind (_praṇītātmā_), desiring to execute the royal command 
 
 <details><summary>मूलम्</summary>
 
-ततो विनिक्षिप्य बलं सर्वं नगरगुप्तये ।  
-प्रहस्तः प्रमुखे राज्ञो निषसाद जगाद च ॥ ४ ॥
+[^non-baroDa-CE] ततो विनिक्षिप्य बलं सर्वं नगरगुप्तये ।  
+[^non-baroDa-CE] प्रहस्तः प्रमुखे राज्ञो निषसाद जगाद च ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -236,8 +236,8 @@ Then, having stationed the entire army for the protection of the city (_nagara-g
 
 <details><summary>मूलम्</summary>
 
-विहितं बहिरन्तश्च बलं बलवतस्तव ।  
-कुरुष्वाविमनाः क्षिप्रं यदभिप्रेतमस्ति ते ॥ ५ ॥
+[^non-baroDa-CE] विहितं बहिरन्तश्च बलं बलवतस्तव ।  
+[^non-baroDa-CE] कुरुष्वाविमनाः क्षिप्रं यदभिप्रेतमस्ति ते ॥ ५ ॥
 _________________
 निहितं बहिरन्तश्च बलं बलवतस्तव ।  
 कुरष्वाविमनाः क्षिप्रं यदभिप्रेतमस्ति ते ॥
@@ -286,8 +286,8 @@ city. Pray do quickly, with an undistracted mind, whatever is preferable to you.
 
 <details><summary>मूलम्</summary>
 
-प्रहस्तस्य वचः श्रुत्वा राजा राज्यहितैषिणः ।  
-सुखेप्सुः सुहृदां मध्ये व्याजहार स रावणः ॥ ६ ॥
+[^non-baroDa-CE] प्रहस्तस्य वचः श्रुत्वा राजा राज्यहितैषिणः ।  
+[^non-baroDa-CE] सुखेप्सुः सुहृदां मध्ये व्याजहार स रावणः ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -325,8 +325,8 @@ Praising his ministers' unfailing counsel, Rāvaṇa explains that Kumbhakarṇa
 
 <details><summary>मूलम्</summary>
 
-प्रियाप्रिये सुखे दुःखे लाभालाभे हिताहिते ।  
-धर्मकामार्थकृच्छ्रेषु यूयमर्हथ वेदितुम् ॥ ७ ॥
+[^non-baroDa-CE] प्रियाप्रिये सुखे दुःखे लाभालाभे हिताहिते ।  
+[^non-baroDa-CE] धर्मकामार्थकृच्छ्रेषु यूयमर्हथ वेदितुम् ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -379,10 +379,10 @@ detriment as well as advantages and disadvantages."
 
 <details><summary>मूलम्</summary>
 
-सर्वकृत्यानि युष्माभिः समारब्धानि सर्वदा ।  
-मन्त्रकर्मनियुक्तानि न जातु विफलानि मे ॥ ८ ॥
+[^non-baroDa-CE] सर्वकृत्यानि युष्माभिः समारब्धानि सर्वदा ।  
+[^non-baroDa-CE] मन्त्रकर्मनियुक्तानि न जातु विफलानि मे ॥ ८ ॥
 _________________
-सर्वकृत्यानि युष्माभिः समारब्धानि सर्वदा ।  
+[^non-baroDa-CE] सर्वकृत्यानि युष्माभिः समारब्धानि सर्वदा ।  
 मन्त्रकर्मनियुक्तानि न जातु विलानि मे ॥
 </details>
 
@@ -434,10 +434,10 @@ vain."
 
 <details><summary>मूलम्</summary>
 
-ससोमग्रहनक्षत्रैर्मरुद्भिरिव वासवः ।  
-भवद्भिरहमत्यर्थं वृतः श्रियमवाप्नुयाम् ॥ ९ ॥
+[^non-baroDa-CE] ससोमग्रहनक्षत्रैर्मरुद्भिरिव वासवः ।  
+[^non-baroDa-CE] भवद्भिरहमत्यर्थं वृतः श्रियमवाप्नुयाम् ॥ ९ ॥
 _________________
-ससोमग्रहनक्षत्रैर्मरुद्भिरिव वासवः ।  
+[^non-baroDa-CE] ससोमग्रहनक्षत्रैर्मरुद्भिरिव वासवः ।  
 भवद्भिरहमत्यर्थं वृत्तः श्रियमवाप्नुयाम् ॥
 </details>
 
@@ -484,8 +484,8 @@ properity while abiding with moon, planets, stars and celestials."
 
 <details><summary>मूलम्</summary>
 
-अहं तु खलु सर्वान् वः समर्थयितुमुद्यतः ।  
-कुम्भकर्णस्य तु स्वप्नान् नेममर्थमचोदयम् ॥ १० ॥
+[^non-baroDa-CE] अहं तु खलु सर्वान् वः समर्थयितुमुद्यतः ।  
+[^non-baroDa-CE] कुम्भकर्णस्य तु स्वप्नान् नेममर्थमचोदयम् ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -536,8 +536,8 @@ earlier to Kumbhakarna because of his sleep."
 
 <details><summary>मूलम्</summary>
 
-अयं हि सुप्तः षण्मासान् कुम्भकर्णो महाबलः ।  
-सर्वशस्त्रभृतां मुख्यः स इदानीं समुत्थितः ॥ ११ ॥
+[^non-baroDa-CE] अयं हि सुप्तः षण्मासान् कुम्भकर्णो महाबलः ।  
+[^non-baroDa-CE] सर्वशस्त्रभृतां मुख्यः स इदानीं समुत्थितः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -588,10 +588,10 @@ indeed sleeping for the last six months and now, he woke up."
 
 <details><summary>मूलम्</summary>
 
-इयं च दण्डकारण्याद् रामस्य महिषी प्रिया ।  
-रक्षोभिश्चरितोद्देशादानीता जनकात्मजा ॥ १२ ॥
+[^non-baroDa-CE] इयं च दण्डकारण्याद् रामस्य महिषी प्रिया ।  
+[^non-baroDa-CE] रक्षोभिश्चरितोद्देशादानीता जनकात्मजा ॥ १२ ॥
 _________________
-इयं च दण्डकारण्याद् रामस्य महिषी प्रिया ।  
+[^non-baroDa-CE] इयं च दण्डकारण्याद् रामस्य महिषी प्रिया ।  
 रक्षोभिश्चरिताद्देशादानीता जनकात्मजा ॥
 </details>
 
@@ -795,8 +795,8 @@ Consumed by passion for Sītā's peerless beauty, Rāvaṇa confesses his helple
 
 <details><summary>मूलम्</summary>
 
-सा मे न शय्यामारोढुमिच्छत्यलसगामिनी ।  
-त्रिषु लोकेषु चान्या मे न सीतासदृशी तथा ॥ १३ ॥
+[^non-baroDa-CE] सा मे न शय्यामारोढुमिच्छत्यलसगामिनी ।  
+[^non-baroDa-CE] त्रिषु लोकेषु चान्या मे न सीतासदृशी तथा ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -848,8 +848,8 @@ woman similar to Seetha existing in the three worlds."
 
 <details><summary>मूलम्</summary>
 
-तनुमध्या पृथुश्रोणी शरदिन्दुनिभानना ।  
-हेमबिम्बनिभा सौम्या मायेव मयनिर्मिता ॥ १४ ॥
+[^non-baroDa-CE] तनुमध्या पृथुश्रोणी शरदिन्दुनिभानना ।  
+[^non-baroDa-CE] हेमबिम्बनिभा सौम्या मायेव मयनिर्मिता ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -900,8 +900,8 @@ science.
 
 <details><summary>मूलम्</summary>
 
-सुलोहिततलौ श्लक्ष्णौ चरणौ सुप्रतिष्ठितौ ।  
-दृष्ट्वा ताम्रनखौ तस्या दीप्यते मे शरीरजः ॥ १५ ॥
+[^non-baroDa-CE] सुलोहिततलौ श्लक्ष्णौ चरणौ सुप्रतिष्ठितौ ।  
+[^non-baroDa-CE] दृष्ट्वा ताम्रनखौ तस्या दीप्यते मे शरीरजः ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -954,8 +954,8 @@ the rosy soles, my lust is kindled."
 <details><summary>मूलम्</summary>
 
 हुताग्नेरर्चिसङ्काशामेनां सौरीमिव प्रभाम् ।  
-उन्नसं विमलं वल्गु वदनं चारुलोचनम् ॥ १६ ॥  
-पश्यंस्तदवशस्तस्याः कामस्य वशमेयिवान् ।
+[^non-baroDa-CE] उन्नसं विमलं वल्गु वदनं चारुलोचनम् ॥ १६ ॥  
+[^non-baroDa-CE] पश्यंस्तदवशस्तस्याः कामस्य वशमेयिवान् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1011,7 +1011,7 @@ unrestrained, having submitted to the will of my passion."
 
 <details><summary>मूलम्</summary>
 
-क्रोधहर्षसमानेन दुर्वर्णकरणेन च ॥ १७ ॥  
+[^non-baroDa-CE] क्रोधहर्षसमानेन दुर्वर्णकरणेन च ॥ १७ ॥  
 शोकसन्तापनित्येन कामेन कलुषीकृतः ।
 </details>
 
@@ -1066,9 +1066,9 @@ Weary with longing like a road-spent steed, Rāvaṇa wavers between scorning th
 
 <details><summary>मूलम्</summary>
 
-सा तु संवत्सरं कालं मामयाचत भामिनी ॥ १८ ॥  
-प्रतीक्षमाणा भर्तारं राममायतलोचना ।  
-तन्मया चारुनेत्रायाः प्रतिज्ञातं वचः शुभम् ॥ १९ ॥
+[^non-baroDa-CE] सा तु संवत्सरं कालं मामयाचत भामिनी ॥ १८ ॥  
+[^non-baroDa-CE] प्रतीक्षमाणा भर्तारं राममायतलोचना ।  
+[^non-baroDa-CE] तन्मया चारुनेत्रायाः प्रतिज्ञातं वचः शुभम् ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1132,12 +1132,12 @@ of this lust, like a horse galloping along a path continuously."
 
 <details><summary>मूलम्</summary>
 
-श्रान्तोऽहं सततं कामाद् यातो हय इवाध्वनि ।  
-कथं सागरमक्षोभ्यं तरिष्यन्ति वनौकसः ॥ २० ॥  
-बहुसत्त्वझषाकीर्णं तौ वा दशरथात्मजौ ।
+[^non-baroDa-CE] श्रान्तोऽहं सततं कामाद् यातो हय इवाध्वनि ।  
+[^non-baroDa-CE] कथं सागरमक्षोभ्यं तरिष्यन्ति वनौकसः ॥ २० ॥  
+[^non-baroDa-CE] बहुसत्त्वझषाकीर्णं तौ वा दशरथात्मजौ ।
 _________________
 भ्रान्तोऽहं सततं कामाद्यातो हय इवाध्वनि ।  
-कथं सागरमक्षोभ्यं तरिष्यन्ति वनौकसः ॥  
+[^non-baroDa-CE] कथं सागरमक्षोभ्यं तरिष्यन्ति वनौकसः ॥  
 बहुसत्त्वझुषाकीर्णं तौ वा दशरथात्मजौ ।
 </details>
 
@@ -1190,9 +1190,9 @@ completely infested as it was with sea-animals?"
 
 <details><summary>मूलम्</summary>
 
-अथवा कपिनैकेन कृतं नः कदनं महत् ॥ २१ ॥  
-दुर्ज्ञेयाः कार्यगतयो ब्रूत यस्य यथामति ।  
-मानुषान्नो भयं नास्ति तथापि तु विमृश्यताम् ॥ २२ ॥
+[^non-baroDa-CE] अथवा कपिनैकेन कृतं नः कदनं महत् ॥ २१ ॥  
+[^non-baroDa-CE] दुर्ज्ञेयाः कार्यगतयो ब्रूत यस्य यथामति ।  
+[^non-baroDa-CE] मानुषान्नो भयं नास्ति तथापि तु विमृश्यताम् ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1243,10 +1243,10 @@ own understanding."
 
 <details><summary>मूलम्</summary>
 
-तदा देवासुरे युद्धे युष्माभिः सहितोऽजयम् ।  
-ते मे भवन्तश्च तथा सुग्रीवप्रमुखान् हरीन् ॥ २३ ॥  
-परे पारे समुद्रस्य पुरस्कृत्य नृपात्मजौ ।  
-सीतायाः पदवीं प्राप्य सम्प्राप्तौ वरुणालयम् ॥ २४ ॥
+[^non-baroDa-CE] तदा देवासुरे युद्धे युष्माभिः सहितोऽजयम् ।  
+[^non-baroDa-CE] ते मे भवन्तश्च तथा सुग्रीवप्रमुखान् हरीन् ॥ २३ ॥  
+[^non-baroDa-CE] परे पारे समुद्रस्य पुरस्कृत्य नृपात्मजौ ।  
+[^non-baroDa-CE] सीतायाः पदवीं प्राप्य सम्प्राप्तौ वरुणालयम् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1310,10 +1310,10 @@ Rāvaṇa demands counsel that retains Sītā and slays Rāma, provoking Kumbhak
 
 <details><summary>मूलम्</summary>
 
-अदेया च यथा सीता वध्यौ दशरथात्मजौ ।  
-भवद्भिर्मन्त्र्यतां मन्त्रः सुनीतं चाभिधीयताम् ॥ २५ ॥
+[^non-baroDa-CE] अदेया च यथा सीता वध्यौ दशरथात्मजौ ।  
+[^non-baroDa-CE] भवद्भिर्मन्त्र्यतां मन्त्रः सुनीतं चाभिधीयताम् ॥ २५ ॥
 _________________
-अदेया च यथा सीता वध्यौ दशरथात्मजौ ।  
+[^non-baroDa-CE] अदेया च यथा सीता वध्यौ दशरथात्मजौ ।  
 भवद्भ्रिर्मन्त्र्यतां मन्त्रः सुनीतञ्चाभिधीयताम् ॥
 </details>
 
@@ -1365,10 +1365,10 @@ Seetha may not have to be handed -over to them back and Rama and Lakshmana may b
 
 <details><summary>मूलम्</summary>
 
-नहि शक्तिं प्रपश्यामि जगत्यन्यस्य कस्यचित् ।  
-सागरं वानरैस्तीर्त्वा निश्चयेन जयो मम ॥ २६ ॥
+[^non-baroDa-CE] नहि शक्तिं प्रपश्यामि जगत्यन्यस्य कस्यचित् ।  
+[^non-baroDa-CE] सागरं वानरैस्तीर्त्वा निश्चयेन जयो मम ॥ २६ ॥
 _________________
-नहि शक्तिं प्रपश्यामि जगत्यन्यस्य कस्यचित् ।  
+[^non-baroDa-CE] नहि शक्तिं प्रपश्यामि जगत्यन्यस्य कस्यचित् ।  
 सागरं वाररैस्तीर्त्वा निश्चयेन जयो मम ॥
 </details>
 
@@ -1420,8 +1420,8 @@ Victory is surely mine."
 
 <details><summary>मूलम्</summary>
 
-तस्य कामपरीतस्य निशम्य परिदेवितम् ।  
-कुम्भकर्णः प्रचुक्रोध वचनं चेदमब्रवीत् ॥ २७ ॥
+[^non-baroDa-CE] तस्य कामपरीतस्य निशम्य परिदेवितम् ।  
+[^non-baroDa-CE] कुम्भकर्णः प्रचुक्रोध वचनं चेदमब्रवीत् ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1485,15 +1485,15 @@ Hearing the lamentation (_paridevitam_) of that [Rāvaṇa], who was overwhelmed
 
 <details><summary>मूलम्</summary>
 
-यदा तु रामस्य सलक्ष्मणस्य  
-प्रसह्य सीता खलु सा इहाहृता ।  
-सकृत् समीक्ष्यैव सुनिश्चितं तदा  
-भजेत चित्तं यमुनेव यामुनम् ॥ २८ ॥
+[^non-baroDa-CE] यदा तु रामस्य सलक्ष्मणस्य  
+[^non-baroDa-CE] प्रसह्य सीता खलु सा इहाहृता ।  
+[^non-baroDa-CE] सकृत् समीक्ष्यैव सुनिश्चितं तदा  
+[^non-baroDa-CE] भजेत चित्तं यमुनेव यामुनम् ॥ २८ ॥
 _________________
-यदा तु रामस्य सलक्ष्मणस्य  
-प्रसह्य सीता खलु सा इहाहृता ।  
+[^non-baroDa-CE] यदा तु रामस्य सलक्ष्मणस्य  
+[^non-baroDa-CE] प्रसह्य सीता खलु सा इहाहृता ।  
 सकृत्समीक्षैव सुनिश्चितं तदा  
-भजेत चित्तं यमुनेव यामुनम् ॥
+[^non-baroDa-CE] भजेत चित्तं यमुनेव यामुनम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1551,8 +1551,8 @@ on earth."
 
 <details><summary>मूलम्</summary>
 
-सर्वमेतन्महाराज कृतमप्रतिमं तव ।  
-विधीयेत सहास्माभिरादावेवास्य कर्मणः ॥ २९ ॥
+[^non-baroDa-CE] सर्वमेतन्महाराज कृतमप्रतिमं तव ।  
+[^non-baroDa-CE] विधीयेत सहास्माभिरादावेवास्य कर्मणः ॥ २९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1598,7 +1598,7 @@ this action itself (of bringing Seetha here), it would have been worthy of you."
 
 <details><summary>मूलम्</summary>
 
-न्यायेन राजकार्याणि यः करोति दशानन ।  
+[^non-baroDa-CE] न्यायेन राजकार्याणि यः करोति दशानन ।  
 न स सन्तप्यते पश्चान्निश्चितार्थमतिर्नृपः ॥ ३० ॥
 </details>
 
@@ -1658,8 +1658,8 @@ Condemning Rāvaṇa's inverted statecraft through vivid similes of tainted obla
 
 <details><summary>मूलम्</summary>
 
-अनुपायेन कर्माणि विपरीतानि यानि च ।  
-क्रियमाणानि दुष्यन्ति हवींष्यप्रयतेष्विव ॥ ३१ ॥
+[^non-baroDa-CE] अनुपायेन कर्माणि विपरीतानि यानि च ।  
+[^non-baroDa-CE] क्रियमाणानि दुष्यन्ति हवींष्यप्रयतेष्विव ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1710,8 +1710,8 @@ oblations not intent on devotion got spoiled.
 
 <details><summary>मूलम्</summary>
 
-यः पश्चात् पूर्वकार्याणि कर्माण्यभिचिकीर्षति ।  
-पूर्वं चापरकार्याणि स न वेद नयानयौ ॥ ३२ ॥
+[^non-baroDa-CE] यः पश्चात् पूर्वकार्याणि कर्माण्यभिचिकीर्षति ।  
+[^non-baroDa-CE] पूर्वं चापरकार्याणि स न वेद नयानयौ ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1763,10 +1763,10 @@ done before at a later stage and actions which are to be done later at a stage b
 
 <details><summary>मूलम्</summary>
 
-चपलस्य तु कृत्येषु प्रसमीक्ष्याधिकं बलम् ।  
-छिद्रमन्ये प्रपद्यन्ते क्रौञ्चस्य खमिव द्विजाः ॥ ३३ ॥
+[^non-baroDa-CE] चपलस्य तु कृत्येषु प्रसमीक्ष्याधिकं बलम् ।  
+[^non-baroDa-CE] छिद्रमन्ये प्रपद्यन्ते क्रौञ्चस्य खमिव द्विजाः ॥ ३३ ॥
 _________________
-चपलस्य तु कृत्येषु प्रसमीक्ष्याधिकं बलम् ।  
+[^non-baroDa-CE] चपलस्य तु कृत्येषु प्रसमीक्ष्याधिकं बलम् ।  
 छिद्र्रमन्ये प्रपद्यन्ते क्रौञ्चस्य खमिव द्विजाः ॥
 </details>
 
@@ -1826,8 +1826,8 @@ javelin. (Mahabharata, Salya Parva 46-84).
 
 <details><summary>मूलम्</summary>
 
-त्वयेदं महदारब्धं कार्यमप्रतिचिन्तितम् ।  
-दिष्ट्या त्वां नावधीद् रामो विषमिश्रमिवामिषम् ॥ ३४ ॥
+[^non-baroDa-CE] त्वयेदं महदारब्धं कार्यमप्रतिचिन्तितम् ।  
+[^non-baroDa-CE] दिष्ट्या त्वां नावधीद् रामो विषमिश्रमिवामिषम् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1879,11 +1879,11 @@ did not kill you even as the meat mixed with poison would kill the consumer."
 
 <details><summary>मूलम्</summary>
 
-तस्मात् त्वया समारब्धं कर्म ह्यप्रतिमं परैः ।  
-अहं समीकरिष्यामि हत्वा शत्रूंस्तवानघ ॥ ३५ ॥
+[^non-baroDa-CE] तस्मात् त्वया समारब्धं कर्म ह्यप्रतिमं परैः ।  
+[^non-baroDa-CE] अहं समीकरिष्यामि हत्वा शत्रूंस्तवानघ ॥ ३५ ॥
 _________________
 तस्मत्त्वया समारब्धं कर्म ह्यप्रतिमं परैः ।  
-अहं समीकरिष्यामि हत्वा शत्रूंस्तवानघ ॥
+[^non-baroDa-CE] अहं समीकरिष्यामि हत्वा शत्रूंस्तवानघ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1944,9 +1944,9 @@ Boasting of his mountain-vast frame that terrifies Indra, Kumbhakarṇa vows to 
 
 <details><summary>मूलम्</summary>
 
-अहमुत्सादयिष्यामि शत्रूंस्तव निशाचर ।  
-यदि शक्रविवस्वन्तौ यदि पावकमारुतौ ।  
-तावहं योधयिष्यामि कुबेरवरुणावपि ॥ ३६ ॥
+[^non-baroDa-CE] अहमुत्सादयिष्यामि शत्रूंस्तव निशाचर ।  
+[^non-baroDa-CE] यदि शक्रविवस्वन्तौ यदि पावकमारुतौ ।  
+[^non-baroDa-CE] तावहं योधयिष्यामि कुबेरवरुणावपि ॥ ३६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1994,7 +1994,7 @@ god of riches) and Varuna (the god of water).
 
 <details><summary>मूलम्</summary>
 
-गिरिमात्रशरीरस्य महापरिघयोधिनः ।  
+[^non-baroDa-CE] गिरिमात्रशरीरस्य महापरिघयोधिनः ।  
 नर्दतस्तीक्ष्णदंष्ट्रस्य बिभीयाद् वै पुरन्दरः ॥ ३७ ॥
 </details>
 
@@ -2040,8 +2040,8 @@ and attacking with an immense bludgeon, I shall strike terror in Indra himself!"
 
 <details><summary>मूलम्</summary>
 
-पुनर्मां स द्वितीयेन शरेण निहनिष्यति ।  
-ततोऽहं तस्य पास्यामि रुधिरं काममाश्वस ॥ ३८ ॥
+[^non-baroDa-CE] पुनर्मां स द्वितीयेन शरेण निहनिष्यति ।  
+[^non-baroDa-CE] ततोऽहं तस्य पास्यामि रुधिरं काममाश्वस ॥ ३८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2089,10 +2089,10 @@ Cheer up freely.
 
 <details><summary>मूलम्</summary>
 
-वधेन वै दाशरथेः सुखावहं  
-जयं तवाहर्तुमहं यतिष्ये ।  
-हत्वा च रामं सह लक्ष्मणेन  
-खादामि सर्वान् हरियूथमुख्यान् ॥ ३९ ॥
+[^non-baroDa-CE] वधेन वै दाशरथेः सुखावहं  
+[^non-baroDa-CE] जयं तवाहर्तुमहं यतिष्ये ।  
+[^non-baroDa-CE] हत्वा च रामं सह लक्ष्मणेन  
+[^non-baroDa-CE] खादामि सर्वान् हरियूथमुख्यान् ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2148,10 +2148,10 @@ By exterminating Rama along with Lakshmana, I shall devour all the leaders of mo
 
 <details><summary>मूलम्</summary>
 
-रमस्व कामं पिब चाग्र्यवारुणीं  
-कुरुष्व कार्याणि हितानि विज्वरः ।  
-मया तु रामे गमिते यमक्षयं  
-चिराय सीता वशगा भविष्यति ॥ ४० ॥
+[^non-baroDa-CE] रमस्व कामं पिब चाग्र्यवारुणीं  
+[^non-baroDa-CE] कुरुष्व कार्याणि हितानि विज्वरः ।  
+[^non-baroDa-CE] मया तु रामे गमिते यमक्षयं  
+[^non-baroDa-CE] चिराय सीता वशगा भविष्यति ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2206,3 +2206,5 @@ your disposal forever."
 “Take your pleasure at will (_ramasva kāmam_), drink the choicest Vāruṇī wine (_agryavāruṇīm_), and perform beneficial duties free from fever (_vijvaraḥ_); once Rāma is dispatched by me to Yama&#x27;s abode (_yamakṣayam_), Sītā will long be compliant to your will (_cirāya sītā vaśagā bhaviṣyati_).”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

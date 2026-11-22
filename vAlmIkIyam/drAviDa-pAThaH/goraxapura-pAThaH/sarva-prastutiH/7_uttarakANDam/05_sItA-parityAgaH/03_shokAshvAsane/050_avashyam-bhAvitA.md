@@ -595,7 +595,7 @@ Though bound to secrecy by Daśaratha, Sumantra agrees to divulge the secret to 
 
 यद्यप्यहं नरेन्द्रेण रहस्यं श्रावितं पुरा ।  
 तथाप्युदाहरिष्यामि दैवं हि दुरतिक्रमम् ॥ १८ ॥  
-येनेदमीदृशं प्राप्तं दुःखं शोकसमन्वितम् ।  
+[^non-baroDa-CE] येनेदमीदृशं प्राप्तं दुःखं शोकसमन्वितम् ।  
 न त्वया भरतस्याग्रे शत्रुघ्नस्यापि सन्निधौ ॥ १९ ॥
 _________________
 यद्यप्यहं नरेन्द्रेण रहस्यं श्रावितं पुरा ।  
@@ -665,3 +665,4 @@ Hearing those weighty words of his, endowed with profound meaning (_gambhīrārt
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

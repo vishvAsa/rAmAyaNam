@@ -681,7 +681,7 @@ Sending farewell salutations to Rāma, Lakṣmaṇa, Sugrīva, and Rumā, and en
 <details><summary>मूलम्</summary>
 
 अभिवादनपूर्वं तु राजा कुशलमेव च ।  
-अभिवादनपूर्वं तु राघवौ बलशालिनौ ॥ १३ ॥
+[^non-baroDa-CE] अभिवादनपूर्वं तु राघवौ बलशालिनौ ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -955,7 +955,7 @@ Joining Aṅgada on the northern shore of the ocean, the monkeys sit facing east
 तद् वाक्यं वालिपुत्रस्य विज्ञाय प्लवगर्षभाः ॥ १९ ॥  
 उपस्पृश्योदकं सर्वे प्राङ्मुखाः समुपाविशन् ।  
 दक्षिणाग्रेषु दर्भेषु उदक्तीरं समाश्रिताः ॥ २० ॥  
-मुमूर्षवो हरिश्रेष्ठा एतत् क्षममिति स्म ह ।
+[^non-baroDa-CE] मुमूर्षवो हरिश्रेष्ठा एतत् क्षममिति स्म ह ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1018,10 +1018,10 @@ they became recumbent facing eastward. [4-55-19b, 21a]
 
 <details><summary>मूलम्</summary>
 
-रामस्य वनवासं च क्षयं दशरथस्य च ॥ २१ ॥  
-जनस्थानवधं चैव वधं चैव जटायुषः ।  
-हरणं चैव वैदेह्या वालिनश्च वधं तथा ।  
-रामकोपं च वदतां हरीणां भयमागतम् ॥ २२ ॥
+[^non-baroDa-CE] रामस्य वनवासं च क्षयं दशरथस्य च ॥ २१ ॥  
+[^non-baroDa-CE] जनस्थानवधं चैव वधं चैव जटायुषः ।  
+[^non-baroDa-CE] हरणं चैव वैदेह्या वालिनश्च वधं तथा ।  
+[^non-baroDa-CE] रामकोपं च वदतां हरीणां भयमागतम् ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1153,3 +1153,4 @@ With those multitudinous monkeys resembling the peaks of great mountains (_mahā
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -554,7 +554,7 @@ Having heard the words spoken by the Grandfather (_pitāmahenoktaṃ vākyam_) a
 
 <details><summary>मूलम्</summary>
 
-त्रयाणामपि लोकानां कार्यार्थं मम सम्भवः ।  
+[^non-baroDa-CE] त्रयाणामपि लोकानां कार्यार्थं मम सम्भवः ।  
 भद्रं तेऽस्तु गमिष्यामि यत एवाहमागतः ॥ १८ ॥
 </details>
 
@@ -619,3 +619,4 @@ Having heard the words spoken by the Grandfather (_pitāmahenoktaṃ vākyam_) a
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

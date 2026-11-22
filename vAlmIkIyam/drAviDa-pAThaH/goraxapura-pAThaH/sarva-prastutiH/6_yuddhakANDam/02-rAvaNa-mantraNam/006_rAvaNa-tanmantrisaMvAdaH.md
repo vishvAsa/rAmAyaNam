@@ -994,7 +994,7 @@ brother along with his army and his companions."
 
 <details><summary>मूलम्</summary>
 
-समुद्रमुच्छोषयति वीर्येणान्यत्करोति वा ।  
+[^non-baroDa-CE] समुद्रमुच्छोषयति वीर्येणान्यत्करोति वा ।  
 तस्मिन्नेवंविधे कार्ये विरुद्धे वानरैः सह ।  
 हितं पुरे च सैन्ये च सर्वं सम्मन्त्र्यतां मम ॥ १८ ॥
 _________________
@@ -1049,3 +1049,4 @@ good for the city and my army."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

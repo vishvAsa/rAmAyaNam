@@ -255,7 +255,7 @@ end of the world. My father could not be aware of his embracing a live char-coal
 <details><summary>मूलम्</summary>
 
 मृत्युमापादितो राजा त्वया मे पापदर्शिनि ।  
-सुखं परिहृतं मोहात् कुलेऽस्मिन् कुलपांसनि ॥ ५ ॥
+[^non-baroDa-CE] सुखं परिहृतं मोहात् कुलेऽस्मिन् कुलपांसनि ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -301,8 +301,8 @@ race unchaste! In this race, happiness is deserted through your ignorance."
 
 <details><summary>मूलम्</summary>
 
-त्वां प्राप्य हि पिता मेऽद्य सत्यसन्धो महायशाः ।  
-तीव्रदुःखाभिसन्तप्तो वृत्तो दशरथो नृपः ॥ ६ ॥
+[^non-baroDa-CE] त्वां प्राप्य हि पिता मेऽद्य सत्यसन्धो महायशाः ।  
+[^non-baroDa-CE] तीव्रदुःखाभिसन्तप्तो वृत्तो दशरथो नृपः ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -362,8 +362,8 @@ Bharata asks why his dharma-loving father was destroyed and Rāma exiled, pities
 
 <details><summary>मूलम्</summary>
 
-विनाशितो महाराजः पिता मे धर्मवत्सलः ।  
-कस्मात् प्रव्राजितो रामः कस्मादेव वनं गतः ॥ ७ ॥
+[^non-baroDa-CE] विनाशितो महाराजः पिता मे धर्मवत्सलः ।  
+[^non-baroDa-CE] कस्मात् प्रव्राजितो रामः कस्मादेव वनं गतः ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -408,7 +408,7 @@ you send Rama on exile to the forest?"
 
 <details><summary>मूलम्</summary>
 
-कौसल्या च सुमित्रा च पुत्रशोकाभिपीडिते ।  
+[^non-baroDa-CE] कौसल्या च सुमित्रा च पुत्रशोकाभिपीडिते ।  
 दुष्करं यदि जीवेतां प्राप्य त्वां जननीं मम ॥ ८ ॥
 </details>
 
@@ -951,8 +951,8 @@ of kingdom for your son, to fulfill your desire."
 
 <details><summary>मूलम्</summary>
 
-न मे विकाङ्क्षा जायेत त्यक्तुं त्वां पापनिश्चयाम् ।  
-यदि रामस्य नावेक्षा त्वयि स्यान्मातृवत् सदा ॥ १८ ॥
+[^non-baroDa-CE] न मे विकाङ्क्षा जायेत त्यक्तुं त्वां पापनिश्चयाम् ।  
+[^non-baroDa-CE] यदि रामस्य नावेक्षा त्वयि स्यान्मातृवत् सदा ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1013,7 +1013,7 @@ Bharata condemns Kaikeyī’s violation of ancestral Ikṣvāku law, whereby the
 <details><summary>मूलम्</summary>
 
 उत्पन्ना तु कथं बुद्धिस्तवेयं पापदर्शिनी ।  
-साधुचारित्रविभ्रष्टे पूर्वेषां नो विगर्हिता ॥ १९ ॥
+[^non-baroDa-CE] साधुचारित्रविभ्रष्टे पूर्वेषां नो विगर्हिता ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1065,10 +1065,10 @@ our ancestors, has arisen in your mind at all?"
 <details><summary>मूलम्</summary>
 
 अस्मिन् कुले हि सर्वेषां ज्येष्ठो राज्येऽभिषिच्यते ।  
-अपरे भ्रातरस्तस्मिन् प्रवर्तन्ते समाहिताः ॥ २० ॥
+[^non-baroDa-CE] अपरे भ्रातरस्तस्मिन् प्रवर्तन्ते समाहिताः ॥ २० ॥
 _________________
 अस्म्मिन्कुले हि सर्वेषां ज्येष्ठोराज्येऽभिषिच्यते ।  
-अपरे भ्रातरस्तस्मिन् प्रवर्तन्ते समाहिताः ॥
+[^non-baroDa-CE] अपरे भ्रातरस्तस्मिन् प्रवर्तन्ते समाहिताः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1114,8 +1114,8 @@ brothers are to behave reverently towards their elder brother."
 
 <details><summary>मूलम्</summary>
 
-न हि मन्ये नृशंसे त्वं राजधर्ममवेक्षसे ।  
-गतिं वा न विजानासि राजवृत्तस्य शाश्वतीम् ॥ २१ ॥
+[^non-baroDa-CE] न हि मन्ये नृशंसे त्वं राजधर्ममवेक्षसे ।  
+[^non-baroDa-CE] गतिं वा न विजानासि राजवृत्तस्य शाश्वतीम् ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1169,7 +1169,7 @@ kings."
 <details><summary>मूलम्</summary>
 
 सततं राजपुत्रेषु ज्येष्ठो राजाभिषिच्यते ।  
-राज्ञामेतत् समं तत् स्यादिक्ष्वाकूणां विशेषतः ॥ २२ ॥
+[^non-baroDa-CE] राज्ञामेतत् समं तत् स्यादिक्ष्वाकूणां विशेषतः ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1223,10 +1223,10 @@ Ikshvaku kings."
 
 <details><summary>मूलम्</summary>
 
-तेषां धर्मैकरक्षाणां कुलचारित्रशोभिनाम् ।  
+[^non-baroDa-CE] तेषां धर्मैकरक्षाणां कुलचारित्रशोभिनाम् ।  
 अद्य चारित्रशौटीर्यं त्वां प्राप्य विनिवर्तितम् ॥ २३ ॥
 _________________
-तेषां धर्मैकरक्षाणां कुलचारित्रशोभिनाम् ।  
+[^non-baroDa-CE] तेषां धर्मैकरक्षाणां कुलचारित्रशोभिनाम् ।  
 अद्य चारित्रशौटार्यं त्वां प्राप्यविनिवर्तितम् ॥
 </details>
 
@@ -1291,7 +1291,7 @@ Reminding Kaikeyī that even her own Kekaya forebears followed primogeniture, Bh
 बुद्धिमोहः कथमयं सम्भूतस्त्वयि गर्हितः ॥ २४ ॥
 _________________
 तवापि सु महाभागे जनेन्द्रकुलपूर्वके ।  
-बुद्धेर्मोहः कथमयं सम्भूतस्त्वयि गर्हितः ॥
+[^non-baroDa-CE] बुद्धेर्मोहः कथमयं सम्भूतस्त्वयि गर्हितः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1394,7 +1394,7 @@ which will cause even an end to my life, has been undertaken by you."
 
 <details><summary>मूलम्</summary>
 
-एष त्विदानीमेवाहमप्रियार्थं तवानघम् ।  
+[^non-baroDa-CE] एष त्विदानीमेवाहमप्रियार्थं तवानघम् ।  
 निवर्तयिष्यामि वनाद् भ्रातरं स्वजनप्रियम् ॥ २६ ॥
 </details>
 
@@ -1446,7 +1446,7 @@ my brother, who is a faultless man and a beloved man of his people."
 
 <details><summary>मूलम्</summary>
 
-निवर्तयित्वा रामं च तस्याहं दीप्ततेजसः ।  
+[^non-baroDa-CE] निवर्तयित्वा रामं च तस्याहं दीप्ततेजसः ।  
 दासभूतो भविष्यामि सुस्थितेनान्तरात्मना ॥ २७ ॥
 </details>
 
@@ -1559,3 +1559,4 @@ Having spoken thus, high-souled Bharata, piercing her with volleys of harsh word
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

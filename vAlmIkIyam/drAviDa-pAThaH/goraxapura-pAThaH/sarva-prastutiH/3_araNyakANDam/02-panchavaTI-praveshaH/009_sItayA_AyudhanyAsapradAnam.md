@@ -272,11 +272,11 @@ Praising Rāma’s mastery over his senses, Sītā expresses anxiety over the th
 <details><summary>मूलम्</summary>
 
 कुतोऽभिलषणं स्त्रीणां परेषां धर्मनाशनम् ।  
-तव नास्ति मनुष्येन्द्र न चाभूत् ते कदाचन ॥ ५ ॥  
-मनस्यपि तथा राम न चैतद् विद्यते क्वचित् ।  
-स्वदारनिरतश्चैव नित्यमेव नृपात्मज ॥ ६ ॥  
+[^non-baroDa-CE] तव नास्ति मनुष्येन्द्र न चाभूत् ते कदाचन ॥ ५ ॥  
+[^non-baroDa-CE] मनस्यपि तथा राम न चैतद् विद्यते क्वचित् ।  
+[^non-baroDa-CE] स्वदारनिरतश्चैव नित्यमेव नृपात्मज ॥ ६ ॥  
 धर्मिष्ठः सत्यसन्धश्च पितुर्निर्देशकारकः ।  
-त्वयि धर्मश्च सत्यं च त्वयि सर्वं प्रतिष्ठितम् ॥ ७ ॥
+[^non-baroDa-CE] त्वयि धर्मश्च सत्यं च त्वयि सर्वं प्रतिष्ठितम् ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1285,8 +1285,8 @@ Then, delighting in fierce deeds (_raudrābhirataḥ_), heedless (_pramattaḥ_)
 
 <details><summary>मूलम्</summary>
 
-एवमेतत् पुरावृत्तं शस्त्रसंयोगकारणम् ।  
-अग्निसंयोगवद्धेतुः शस्त्रसंयोग उच्यते ॥ २३ ॥
+[^non-baroDa-CE] एवमेतत् पुरावृत्तं शस्त्रसंयोगकारणम् ।  
+[^non-baroDa-CE] अग्निसंयोगवद्धेतुः शस्त्रसंयोग उच्यते ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1861,3 +1861,4 @@ Out of womanly lightness (_strī-cāpalāt_) has this been spoken by me; for who
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

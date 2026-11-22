@@ -44,7 +44,7 @@ Granted sanctuary by Rāghava, the wise Vibhīṣaṇa descends from the sky wit
 <details><summary>मूलम्</summary>
 
 राघवेणाभये दत्ते सन्नतो रावणानुजः ।  
-विभीषणो महाप्राज्ञो भूमिं समवलोकयत् ॥ १ ॥
+[^non-baroDa-CE] विभीषणो महाप्राज्ञो भूमिं समवलोकयत् ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -321,8 +321,8 @@ On सर्वभूतानां शरण्यम्, **Tilaka** remarks t
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् वचनं श्रुत्वा रामो वचनमब्रवीत् ॥ ६ ॥  
-वचसा सान्त्वयित्वैनं लोचनाभ्यां पिबन्निव ।
+[^non-baroDa-CE] तस्य तद् वचनं श्रुत्वा रामो वचनमब्रवीत् ॥ ६ ॥  
+[^non-baroDa-CE] वचसा सान्त्वयित्वैनं लोचनाभ्यां पिबन्निव ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -361,12 +361,12 @@ Rāma consoles Vibhīṣaṇa with affectionate words and asks him to report the
 
 <details><summary>मूलम्</summary>
 
-आख्याहि मम तत्त्वेन राक्षसानां बलाबलम् ॥ ७ ॥  
-एवमुक्तं तदा रक्षो रामेणाक्लिष्टकर्मणा ।  
-रावणस्य बलं सर्वमाख्यातुमुपचक्रमे ॥ ८ ॥
+[^non-baroDa-CE] आख्याहि मम तत्त्वेन राक्षसानां बलाबलम् ॥ ७ ॥  
+[^non-baroDa-CE] एवमुक्तं तदा रक्षो रामेणाक्लिष्टकर्मणा ।  
+[^non-baroDa-CE] रावणस्य बलं सर्वमाख्यातुमुपचक्रमे ॥ ८ ॥
 _________________
 आख्याहि मम तत्वेन राक्षसानां बलाबलम् ॥
-एवमुक्तं तदा रक्षो रामेणाक्लिष्टकर्मणा ।  
+[^non-baroDa-CE] एवमुक्तं तदा रक्षो रामेणाक्लिष्टकर्मणा ।  
 रावण्यस्य बलं सर्वमाख्यातुमुपचक्रमे ॥
 </details>
 
@@ -441,8 +441,8 @@ about the detailed strength of Ravana.
 
 <details><summary>मूलम्</summary>
 
-अवध्यः सर्वभूतानां गन्धर्वोरगपक्षिणाम् ।  
-राजपुत्र दशग्रीवो वरदानात् स्वयम्भुवः ॥ ९ ॥
+[^non-baroDa-CE] अवध्यः सर्वभूतानां गन्धर्वोरगपक्षिणाम् ।  
+[^non-baroDa-CE] राजपुत्र दशग्रीवो वरदानात् स्वयम्भुवः ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -495,8 +495,8 @@ On अवध्यः सर्वभूतानाम्, **Govindarāja** poi
 
 <details><summary>मूलम्</summary>
 
-रावणानन्तरो भ्राता मम ज्येष्ठश्च वीर्यवान् ।  
-कुम्भकर्णो महातेजाः शक्रप्रतिबलो युधि ॥ १० ॥
+[^non-baroDa-CE] रावणानन्तरो भ्राता मम ज्येष्ठश्च वीर्यवान् ।  
+[^non-baroDa-CE] कुम्भकर्णो महातेजाः शक्रप्रतिबलो युधि ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -542,8 +542,8 @@ has enough strength to fight against Indra (Lord of celestials) in battle.
 
 <details><summary>मूलम्</summary>
 
-राम सेनापतिस्तस्य प्रहस्तो यदि ते श्रुतः ।  
-कैलासे येन समरे मणिभद्रः पराजितः ॥ ११ ॥
+[^non-baroDa-CE] राम सेनापतिस्तस्य प्रहस्तो यदि ते श्रुतः ।  
+[^non-baroDa-CE] कैलासे येन समरे मणिभद्रः पराजितः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -594,10 +594,10 @@ Manibhadra in a battle on the mountain of Kailasa."
 
 <details><summary>मूलम्</summary>
 
-बद्धगोधाङ्गुलित्राणस्त्ववध्यकवचो युधि ।  
-धनुरादाय यस्तिष्ठन्नदृश्यो भवतीन्द्रजित् ॥ १२ ॥
+[^non-baroDa-CE] बद्धगोधाङ्गुलित्राणस्त्ववध्यकवचो युधि ।  
+[^non-baroDa-CE] धनुरादाय यस्तिष्ठन्नदृश्यो भवतीन्द्रजित् ॥ १२ ॥
 _________________
-बद्धगोधाङ्गुलित्राणस्त्ववध्यकवचो युधि ।  
+[^non-baroDa-CE] बद्धगोधाङ्गुलित्राणस्त्ववध्यकवचो युधि ।  
 धनुरादाय तिष्ठन्नदृश्यो भवतीन्द्रजित् ॥
 </details>
 
@@ -669,10 +669,10 @@ Vibhīṣaṇa completes his account of Laṅkā's commanders and ten-thousand-c
 <details><summary>मूलम्</summary>
 
 सङ्ग्रामे सुमहद‍्व्यूहे तर्पयित्वा हुताशनम् ।  
-अन्तर्धानगतः श्रीमानिन्द्रजिद्धन्ति राघव ॥ १३ ॥
+[^non-baroDa-CE] अन्तर्धानगतः श्रीमानिन्द्रजिद्धन्ति राघव ॥ १३ ॥
 _________________
 सङ्ग्रामे सु महाव्यूहे तर्पयित्वा हुताशनम् ।  
-अन्तर्धानगतः श्रीमानिन्द्रजिद्धन्ति राघव ॥
+[^non-baroDa-CE] अन्तर्धानगतः श्रीमानिन्द्रजिद्धन्ति राघव ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -726,8 +726,8 @@ Explaining how Indrajit attains invisibility, **Govindarāja** (_Bhūṣaṇa_) 
 
 <details><summary>मूलम्</summary>
 
-महोदरमहापार्श्वौ राक्षसश्चाप्यकम्पनः ।  
-अनीकपास्तु तस्यैते लोकपालसमा युधि ॥ १४ ॥
+[^non-baroDa-CE] महोदरमहापार्श्वौ राक्षसश्चाप्यकम्पनः ।  
+[^non-baroDa-CE] अनीकपास्तु तस्यैते लोकपालसमा युधि ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -788,14 +788,14 @@ On अनीकपाः, **Tilaka** glosses the term specifically as deputy com
 
 <details><summary>मूलम्</summary>
 
-दशकोटिसहस्राणि रक्षसां कामरूपिणाम् ।  
-मांसशोणितभक्ष्याणां लङ्कापुरनिवासिनाम् ॥ १५ ॥  
-स तैस्तु सहितो राजा लोकपालानयोधयत् ।  
-सह देवैस्तु ते भग्ना रावणेन दुरात्मना ॥ १६ ॥
+[^non-baroDa-CE] दशकोटिसहस्राणि रक्षसां कामरूपिणाम् ।  
+[^non-baroDa-CE] मांसशोणितभक्ष्याणां लङ्कापुरनिवासिनाम् ॥ १५ ॥  
+[^non-baroDa-CE] स तैस्तु सहितो राजा लोकपालानयोधयत् ।  
+[^non-baroDa-CE] सह देवैस्तु ते भग्ना रावणेन दुरात्मना ॥ १६ ॥
 _________________
-दशकोटि सहस्राणि रक्षसां कामरूपिणाम् ।  
+[^non-baroDa-CE] दशकोटि सहस्राणि रक्षसां कामरूपिणाम् ।  
 मांसशोणितभक्षाणां लङ्कापुरनिवासिनाम् ॥
-स तैस्तु सहितो राजा लोकपालानयोधयत् ।  
+[^non-baroDa-CE] स तैस्तु सहितो राजा लोकपालानयोधयत् ।  
 सह देवैस्तु ते भग्ना रावणेन महात्मना ॥
 </details>
 
@@ -858,8 +858,8 @@ Those guardians of the earth along with the celestials were defeated by the wick
 
 <details><summary>मूलम्</summary>
 
-विभीषणस्य तु वचस्तच्छ्रुत्वा रघुसत्तमः ।  
-अन्वीक्ष्य मनसा सर्वमिदं वचनमब्रवीत् ॥ १७ ॥
+[^non-baroDa-CE] विभीषणस्य तु वचस्तच्छ्रुत्वा रघुसत्तमः ।  
+[^non-baroDa-CE] अन्वीक्ष्य मनसा सर्वमिदं वचनमब्रवीत् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -918,8 +918,8 @@ Glossing अन्वीक्ष्य as `having weighed what should and shoul
 
 <details><summary>मूलम्</summary>
 
-यानि कर्मापदानानि रावणस्य विभीषण ।  
-आख्यातानि च तत्त्वेन ह्यवगच्छामि तान्यहम् ॥ १८ ॥
+[^non-baroDa-CE] यानि कर्मापदानानि रावणस्य विभीषण ।  
+[^non-baroDa-CE] आख्यातानि च तत्त्वेन ह्यवगच्छामि तान्यहम् ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -978,10 +978,10 @@ Rāma swears by his three brothers to slay Rāvaṇa even if he flees to the net
 
 <details><summary>मूलम्</summary>
 
-अहं हत्वा दशग्रीवं सप्रहस्तं सहात्मजम् ।  
-राजानं त्वां करिष्यामि सत्यमेतच्छृणोतु मे ॥ १९ ॥
+[^non-baroDa-CE] अहं हत्वा दशग्रीवं सप्रहस्तं सहात्मजम् ।  
+[^non-baroDa-CE] राजानं त्वां करिष्यामि सत्यमेतच्छृणोतु मे ॥ १९ ॥
 _________________
-अहं हत्वा दशग्रीवं सप्रहस्तं सहात्मजम् ।  
+[^non-baroDa-CE] अहं हत्वा दशग्रीवं सप्रहस्तं सहात्मजम् ।  
 राजानं त्वां करिष्यामि सत्यमेतच्छ्रुणोतु मे ॥
 </details>
 
@@ -1035,8 +1035,8 @@ the king. Hear this truth from me."
 
 <details><summary>मूलम्</summary>
 
-रसातलं वा प्रविशेत् पातालं वापि रावणः ।  
-पितामहसकाशं वा न मे जीवन् विमोक्ष्यते ॥ २० ॥
+[^non-baroDa-CE] रसातलं वा प्रविशेत् पातालं वापि रावणः ।  
+[^non-baroDa-CE] पितामहसकाशं वा न मे जीवन् विमोक्ष्यते ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1091,10 +1091,10 @@ Distinguishing the cosmic realms of flight, **Tilaka** defines रसातल�
 <details><summary>मूलम्</summary>
 
 अहत्वा रावणं सङ्ख्ये सपुत्रजनबान्धवम् ।  
-अयोध्यां न प्रवेक्ष्यामि त्रिभिस्तैर्भ्रातृभिः शपे ॥ २१ ॥
+[^non-baroDa-CE] अयोध्यां न प्रवेक्ष्यामि त्रिभिस्तैर्भ्रातृभिः शपे ॥ २१ ॥
 _________________
 अहत्वा रावणं सङ्ख्ये सुपुत्रजन बान्धवम् ।  
-अयोध्यां न प्रवेक्ष्यामि त्रिभिस्तैर्भ्रातृभिः शपे ॥
+[^non-baroDa-CE] अयोध्यां न प्रवेक्ष्यामि त्रिभिस्तैर्भ्रातृभिः शपे ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1146,8 +1146,8 @@ and relatives in battle. I take oath on my three brothers."
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वा तु वचनं तस्य रामस्याक्लिष्टकर्मणः ।  
-शिरसाऽऽवन्द्य धर्मात्मा वक्तुमेवं प्रचक्रमे ॥ २२ ॥
+[^non-baroDa-CE] श्रुत्वा तु वचनं तस्य रामस्याक्लिष्टकर्मणः ।  
+[^non-baroDa-CE] शिरसाऽऽवन्द्य धर्मात्मा वक्तुमेवं प्रचक्रमे ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1484,7 +1484,7 @@ Beholding that gracious favor (_prasādam_) of Rāma, the monkeys immediately cr
 
 अब्रवीच्च हनूमांश्च सुग्रीवश्च विभीषणम् ।  
 कथं सागरमक्षोभ्यं तराम वरुणालयम् ।  
-सैन्यैः परिवृताः सर्वे वानराणां महौजसाम् ॥ २८ ॥
+[^non-baroDa-CE] सैन्यैः परिवृताः सर्वे वानराणां महौजसाम् ॥ २८ ॥
 _________________
 अब्रवीच्च हनूमांश्च सुग्रीवश्च विभीषणम् ।  
 कथं सागरमक्षोभ्यं तराम वरुणालयम् ।  
@@ -1737,7 +1737,7 @@ Explaining why supplicating the sea is sure to succeed, **Rāma Varmā** (_Tilak
 <details><summary>मूलम्</summary>
 
 एवं विभीषणेनोक्तो राक्षसेन विपश्चिता ।  
-आजगामाथ सुग्रीवो यत्र रामः सलक्ष्मणः ॥ ३२ ॥
+[^non-baroDa-CE] आजगामाथ सुग्रीवो यत्र रामः सलक्ष्मणः ॥ ३२ ॥
 _________________
 एवं विभीषणेनोक्तो राक्षसेन विपश्चिता ।  
 अजगामाथ सुग्रीवो यत्र रामः सलक्ष्मणः ॥
@@ -1799,8 +1799,8 @@ Thus advised by the wise (_vipaścitā_) _rākṣasa_ Vibhīṣaṇa, Sugrīva t
 
 <details><summary>मूलम्</summary>
 
-ततश्चाख्यातुमारेभे विभीषणवचः शुभम् ।  
-सुग्रीवो विपुलग्रीवः सागरस्योपवेशनम् ॥ ३३ ॥
+[^non-baroDa-CE] ततश्चाख्यातुमारेभे विभीषणवचः शुभम् ।  
+[^non-baroDa-CE] सुग्रीवो विपुलग्रीवः सागरस्योपवेशनम् ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2151,7 +2151,7 @@ Varuna, even the celestials and demons along with Indra cannot reach the city of
 
 विभीषणस्य शूरस्य यथार्थं क्रियतां वचः ।  
 अलं कालात्ययं कृत्वा सागरोऽयं नियुज्यताम् ।  
-यथा सैन्येन गच्छाम पुरीं रावणपालिताम् ॥ ४० ॥
+[^non-baroDa-CE] यथा सैन्येन गच्छाम पुरीं रावणपालिताम् ॥ ४० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2239,3 +2239,4 @@ Accepting their united counsel without delay, Rāma seats himself in formal _pr�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

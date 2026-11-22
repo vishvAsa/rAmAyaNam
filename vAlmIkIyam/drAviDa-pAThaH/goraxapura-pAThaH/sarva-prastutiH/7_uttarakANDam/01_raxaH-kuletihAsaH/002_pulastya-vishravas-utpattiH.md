@@ -301,7 +301,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-प्रजापतिसुतत्वेन देवानां वल्लभो हि सः ।  
+[^non-baroDa-CE] प्रजापतिसुतत्वेन देवानां वल्लभो हि सः ।  
 इष्टः सर्वस्य लोकस्य गुणैः शुभ्रैर्महामतिः ॥ ६ ॥
 </details>
 
@@ -440,9 +440,9 @@ Dwelling at Tṛṇabindu’s hermitage on Mount Meru’s slope to practice Vedi
 
 <details><summary>मूलम्</summary>
 
-देशस्य रमणीयत्वात् पुलस्त्यो यत्र स द्विजः ।  
-गायन्त्यो वादयन्त्यश्च लासयन्त्यस्तथैव च ॥ ११ ॥  
-मुनेस्तपस्विनस्तस्य विघ्नं चक्रुरनिन्दिताः ।
+[^non-baroDa-CE] देशस्य रमणीयत्वात् पुलस्त्यो यत्र स द्विजः ।  
+[^non-baroDa-CE] गायन्त्यो वादयन्त्यश्च लासयन्त्यस्तथैव च ॥ ११ ॥  
+[^non-baroDa-CE] मुनेस्तपस्विनस्तस्य विघ्नं चक्रुरनिन्दिताः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1020,7 +1020,7 @@ Delighted by his bride’s wealth of virtues, Pulastya blesses her with a son eq
 
 <details><summary>मूलम्</summary>
 
-तस्यास्तु शीलवृत्ताभ्यां तुतोष मुनिपुङ्गवः ।  
+[^non-baroDa-CE] तस्यास्तु शीलवृत्ताभ्यां तुतोष मुनिपुङ्गवः ।  
 प्रीतः स तु महातेजा वाक्यमेतदुवाच ह ॥ २९ ॥
 </details>
 
@@ -1150,7 +1150,7 @@ Delighted by his bride’s wealth of virtues, Pulastya blesses her with a son eq
 
 <details><summary>मूलम्</summary>
 
-श्रुतिमान् समदर्शी च व्रताचाररतस्तथा ।  
+[^non-baroDa-CE] श्रुतिमान् समदर्शी च व्रताचाररतस्तथा ।  
 पितेव तपसा युक्तो ह्यभवद् विश्रवा मुनिः ॥ ३४ ॥
 </details>
 
@@ -1171,3 +1171,4 @@ Delighted by his bride’s wealth of virtues, Pulastya blesses her with a son eq
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

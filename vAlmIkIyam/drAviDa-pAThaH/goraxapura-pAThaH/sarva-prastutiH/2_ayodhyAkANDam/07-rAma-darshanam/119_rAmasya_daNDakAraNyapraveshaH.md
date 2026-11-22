@@ -932,8 +932,8 @@ Those righteous forest-dwelling ascetics (_te vanacarās tāpasā dharmacāriṇ
 
 तावूचुस्ते वनचरास्तापसा धर्मचारिणः ।  
 वनस्य तस्य सञ्चारं राक्षसैः समभिप्लुतम् ॥ १८ ॥  
-रक्षांसि पुरुषादानि नानारूपाणि राघव ।  
-वसन्त्यस्मिन् महारण्ये व्यालाश्च रुधिराशनाः ॥ १९ ॥
+[^non-baroDa-CE] रक्षांसि पुरुषादानि नानारूपाणि राघव ।  
+[^non-baroDa-CE] वसन्त्यस्मिन् महारण्ये व्यालाश्च रुधिराशनाः ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1007,7 +1007,7 @@ living in this great forest."
 <details><summary>मूलम्</summary>
 
 उच्छिष्टं वा प्रमत्तं वा तापसं ब्रह्मचारिणम् ।  
-अदन्त्यस्मिन् महारण्ये तान् निवारय राघव ॥ २० ॥
+[^non-baroDa-CE] अदन्त्यस्मिन् महारण्ये तान् निवारय राघव ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1167,3 +1167,5 @@ with his consort along with Lakshmana, as sun enters a mass of clouds.
 ॥ अयोध्याकाण्डं सम्पूर्णम् ॥
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

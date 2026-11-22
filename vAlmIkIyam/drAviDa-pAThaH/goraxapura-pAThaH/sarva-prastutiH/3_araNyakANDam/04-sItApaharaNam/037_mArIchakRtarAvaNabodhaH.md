@@ -1033,7 +1033,7 @@ Immeasurable indeed is that fiery energy (_aprameyaṃ hi tat tejaḥ_) of him t
 
 <details><summary>मूलम्</summary>
 
-तस्य वै नरसिंहस्य सिंहोरस्कस्य भामिनी ।  
+[^non-baroDa-CE] तस्य वै नरसिंहस्य सिंहोरस्कस्य भामिनी ।  
 प्राणेभ्योऽपि प्रियतरा भार्या नित्यमनुव्रता ॥ १९ ॥
 </details>
 
@@ -1086,7 +1086,7 @@ The radiant wife (_bhāminī... bhāryā_) of that lion among men (_tasya vai na
 
 <details><summary>मूलम्</summary>
 
-न सा धर्षयितुं शक्या मैथिल्योजस्विनः प्रिया ।  
+[^non-baroDa-CE] न सा धर्षयितुं शक्या मैथिल्योजस्विनः प्रिया ।  
 दीप्तस्येव हुताशस्य शिखा सीता सुमध्यमा ॥ २० ॥
 </details>
 
@@ -1212,7 +1212,7 @@ Urging Rāvaṇa not to offend Rāma if he wishes to enjoy life and sovereignty,
 <details><summary>मूलम्</summary>
 
 जीवितं च सुखं चैव राज्यं चैव सुदुर्लभम् ।  
-यदीच्छसि चिरं भोक्तुं मा कृथा रामविप्रियम् ॥ २२ ॥
+[^non-baroDa-CE] यदीच्छसि चिरं भोक्तुं मा कृथा रामविप्रियम् ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1405,3 +1405,4 @@ I, for my part, deem an encounter in battle (_raṇe samāgamam_) with the son o
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

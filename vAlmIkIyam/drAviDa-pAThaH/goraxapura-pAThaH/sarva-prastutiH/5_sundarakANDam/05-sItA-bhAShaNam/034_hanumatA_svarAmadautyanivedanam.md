@@ -925,8 +925,8 @@ Why do you torment me anew with anguish (_saṃtāpayasi māṃ bhūyaḥ saṃt
 
 <details><summary>मूलम्</summary>
 
-अथवा नैतदेवं हि यन्मया परिशङ्कितम् ।  
-मनसो हि मम प्रीतिरुत्पन्ना तव दर्शनात् ॥ १७ ॥
+[^non-baroDa-CE] अथवा नैतदेवं हि यन्मया परिशङ्कितम् ।  
+[^non-baroDa-CE] मनसो हि मम प्रीतिरुत्पन्ना तव दर्शनात् ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2114,3 +2114,4 @@ Relying upon my own valor, I have come here to behold you (_tvāṃ draṣṭum 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

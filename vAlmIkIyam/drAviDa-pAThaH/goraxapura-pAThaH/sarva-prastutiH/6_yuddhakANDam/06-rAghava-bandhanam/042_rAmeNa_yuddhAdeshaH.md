@@ -290,8 +290,8 @@ After reflecting for a very long time (_cintayitvā suciram_) and summoning his 
 
 <details><summary>मूलम्</summary>
 
-राघवः सह सैन्येन मुदितो नाम पुप्लुवे ।  
-लङ्कां ददर्श गुप्तां वै सर्वतो राक्षसैर्वृताम् ॥ ६ ॥
+[^non-baroDa-CE] राघवः सह सैन्येन मुदितो नाम पुप्लुवे ।  
+[^non-baroDa-CE] लङ्कां ददर्श गुप्तां वै सर्वतो राक्षसैर्वृताम् ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -345,8 +345,8 @@ Beholding banner-decked Laṅkā, Rāma grieves for Sītā suffering in captivit
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
-जगाम सहसा सीतां दूयमानेन चेतसा ॥ ७ ॥
+[^non-baroDa-CE] दृष्ट्वा दाशरथिर्लङ्कां चित्रध्वजपताकिनीम् ।  
+[^non-baroDa-CE] जगाम सहसा सीतां दूयमानेन चेतसा ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -397,7 +397,7 @@ Beholding Laṅkā gay with variegated banners and pennants (_citradhvajapatāki
 
 <details><summary>मूलम्</summary>
 
-अत्र सा मृगशावाक्षी मत्कृते जनकात्मजा ।  
+[^non-baroDa-CE] अत्र सा मृगशावाक्षी मत्कृते जनकात्मजा ।  
 पीड्यते शोकसन्तप्ता कृशा स्थण्डिलशायिनी ॥ ८ ॥
 </details>
 
@@ -451,8 +451,8 @@ account."
 
 <details><summary>मूलम्</summary>
 
-निपीड्यमानां धर्मात्मा वैदेहीमनुचिन्तयन् ।  
-क्षिप्रमाज्ञापयद् रामो वानरान् द्विषतां वधे ॥ ९ ॥
+[^non-baroDa-CE] निपीड्यमानां धर्मात्मा वैदेहीमनुचिन्तयन् ।  
+[^non-baroDa-CE] क्षिप्रमाज्ञापयद् रामो वानरान् द्विषतां वधे ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -497,7 +497,7 @@ Reflecting upon Vaidehī being thus tormented (_nipīḍyamānām_), the righteo
 
 <details><summary>मूलम्</summary>
 
-एवमुक्ते तु वचसि रामेणाक्लिष्टकर्मणा ।  
+[^non-baroDa-CE] एवमुक्ते तु वचसि रामेणाक्लिष्टकर्मणा ।  
 सङ्घर्षमाणाः प्लवगाः सिंहनादैरनादयन् ॥ १० ॥
 _________________
 एवमुक्ते तु वचने रामेणाक्लिष्टकर्मणा ।  
@@ -553,8 +553,8 @@ When that speech was uttered by Rāma of unwearied deeds (_akliṣṭakarmaṇā
 
 <details><summary>मूलम्</summary>
 
-शिखरैर्विकिरामैतां लङ्कां मुष्टिभिरेव वा ।  
-इति स्म दधिरे सर्वे मनांसि हरियूथपाः ॥ ११ ॥
+[^non-baroDa-CE] शिखरैर्विकिरामैतां लङ्कां मुष्टिभिरेव वा ।  
+[^non-baroDa-CE] इति स्म दधिरे सर्वे मनांसि हरियूथपाः ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -614,8 +614,8 @@ besieged by Rama along with his monkeys.
 
 <details><summary>मूलम्</summary>
 
-उद्यम्य गिरिशृङ्गाणि महान्ति शिखराणि च ।  
-तरूंश्चोत्पाट्य विविधांस्तिष्ठन्ति हरियूथपाः ॥ १२ ॥
+[^non-baroDa-CE] उद्यम्य गिरिशृङ्गाणि महान्ति शिखराणि च ।  
+[^non-baroDa-CE] तरूंश्चोत्पाट्य विविधांस्तिष्ठन्ति हरियूथपाः ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1193,8 +1193,8 @@ Meanwhile, the mighty Kumuda, surrounded by ten crores (_koṭibhir daśabhir v�
 
 <details><summary>मूलम्</summary>
 
-सहायार्थे तु तस्यैव निविष्टः प्रघसो हरिः ।  
-पनसश्च महाबाहुर्वानरैरभिसंवृतः ॥ २४ ॥
+[^non-baroDa-CE] सहायार्थे तु तस्यैव निविष्टः प्रघसो हरिः ।  
+[^non-baroDa-CE] पनसश्च महाबाहुर्वानरैरभिसंवृतः ॥ २४ ॥
 _________________
 साहायार्थे तु तस्यैव निविष्टः प्रघसो हरिः ।  
 पनसश्च महाबाहुर्वानरैर्बहुभिर्वृतः ॥
@@ -1693,8 +1693,8 @@ Then Rāvaṇa, lord of _rākṣasas_, his soul consumed by wrath (_kopaparītā
 
 <details><summary>मूलम्</summary>
 
-एतच्छ्रुत्वा तदा वाक्यं रावणस्य मुखेरितम् ।  
-सहसा भीमनिर्घोषमुद‍्घुष्टं रजनीचरैः ॥ ३३ ॥
+[^non-baroDa-CE] एतच्छ्रुत्वा तदा वाक्यं रावणस्य मुखेरितम् ।  
+[^non-baroDa-CE] सहसा भीमनिर्घोषमुद‍्घुष्टं रजनीचरैः ॥ ३३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1739,11 +1739,11 @@ Upon hearing that command uttered from Rāvaṇa&#x27;s mouth (_rāvaṇasya muk
 
 <details><summary>मूलम्</summary>
 
-ततः प्रबोधिता भेर्यश्चन्द्रपाण्डुरपुष्कराः ।  
-हेमकोणैरभिहता राक्षसानां समन्ततः ॥ ३४ ॥
+[^non-baroDa-CE] ततः प्रबोधिता भेर्यश्चन्द्रपाण्डुरपुष्कराः ।  
+[^non-baroDa-CE] हेमकोणैरभिहता राक्षसानां समन्ततः ॥ ३४ ॥
 _________________
 ततः प्रभोधिता भेर्यश्चन्द्रपाण्डुरपुष्कराः ।  
-हेमकोणैरभिहता राक्षसानां समन्ततः ॥
+[^non-baroDa-CE] हेमकोणैरभिहता राक्षसानां समन्ततः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1794,8 +1794,8 @@ Then the kettledrums of the _rākṣasas_, with drumheads pale white as the moon
 
 <details><summary>मूलम्</summary>
 
-विनेदुश्च महाघोषाः शङ्खाः शतसहस्रशः ।  
-राक्षसानां सुघोराणां मुखमारुतपूरिताः ॥ ३५ ॥
+[^non-baroDa-CE] विनेदुश्च महाघोषाः शङ्खाः शतसहस्रशः ।  
+[^non-baroDa-CE] राक्षसानां सुघोराणां मुखमारुतपूरिताः ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1846,7 +1846,7 @@ And hundreds of thousands (_śatasahasraśaḥ_) of loudly resounding conches (_
 
 <details><summary>मूलम्</summary>
 
-ते बभुः शुभनीलाङ्गाः सशङ्खा रजनीचराः ।  
+[^non-baroDa-CE] ते बभुः शुभनीलाङ्गाः सशङ्खा रजनीचराः ।  
 विद्युन्मण्डलसन्नद्धाः सबलाका इवाम्बुदाः ॥ ३६ ॥
 </details>
 
@@ -1953,8 +1953,8 @@ Then the soldiers (_sainyāḥ_), gladdened and urged on by Rāvaṇa (_rāvaṇ
 
 <details><summary>मूलम्</summary>
 
-ततो वानरसैन्येन मुक्तो नादः समन्ततः ।  
-मलयः पूरितो येन ससानुप्रस्थकन्दरः ॥ ३८ ॥
+[^non-baroDa-CE] ततो वानरसैन्येन मुक्तो नादः समन्ततः ।  
+[^non-baroDa-CE] मलयः पूरितो येन ससानुप्रस्थकन्दरः ॥ ३८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2001,10 +2001,10 @@ Then a roar was sent up on all sides by the Vānara army (_vānarasainyena mukto
 
 <details><summary>मूलम्</summary>
 
-शङ्खदुन्दुभिनिर्घोषः सिंहनादस्तरस्विनाम् ।  
-पृथिवीं चान्तरिक्षं च सागरं चाभ्यनादयत् ॥ ३९ ॥  
-गजानां बृंहितैः सार्धं हयानां ह्रेषितैरपि ।  
-रथानां नेमिनिर्घोषै रक्षसां वदनस्वनैः ॥ ४० ॥
+[^non-baroDa-CE] शङ्खदुन्दुभिनिर्घोषः सिंहनादस्तरस्विनाम् ।  
+[^non-baroDa-CE] पृथिवीं चान्तरिक्षं च सागरं चाभ्यनादयत् ॥ ३९ ॥  
+[^non-baroDa-CE] गजानां बृंहितैः सार्धं हयानां ह्रेषितैरपि ।  
+[^non-baroDa-CE] रथानां नेमिनिर्घोषै रक्षसां वदनस्वनैः ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2215,8 +2215,8 @@ Likewise, the huge-bodied, impetuous Vānaras (_mahākāyāḥ vānarāḥ vegin
 
 <details><summary>मूलम्</summary>
 
-राजा जयति सुग्रीव इति शब्दो महानभूत् ।  
-राजञ्जयजयेत्युक्त्वा स्वस्वनामकथां ततः ॥ ४४ ॥
+[^non-baroDa-CE] राजा जयति सुग्रीव इति शब्दो महानभूत् ।  
+[^non-baroDa-CE] राजञ्जयजयेत्युक्त्वा स्वस्वनामकथां ततः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2410,3 +2410,5 @@ And the enraged Vānaras standing on the ground (_mahīṃ gatāḥ_), leaping u
 That tumultuous clash (_sa samprahāras tumulaḥ_) of the _rākṣasas_ and the Vānaras, turning flesh and blood into mire (_māṃsaśoṇitakardamaḥ_), became wondrously incomparable (_sambabhūvādbhutopamaḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -293,8 +293,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-पश्येदानीं जगच्चित्रमिमं विश्रवसः सुत ।  
-इदं मुहूर्तं तिष्ठस्व दुर्लभं ते भविष्यति ॥ ९ ॥
+[^non-baroDa-CE] पश्येदानीं जगच्चित्रमिमं विश्रवसः सुत ।  
+[^non-baroDa-CE] इदं मुहूर्तं तिष्ठस्व दुर्लभं ते भविष्यति ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -974,8 +974,8 @@ Having performed twilight worship there, bathed, and chanted his prayers (_tasmi
 
 <details><summary>मूलम्</summary>
 
-बहुयोजनसाहस्रं वहमानो महाहरिः ।  
-वायुवच्च मनोवच्च जगाम सह शत्रुणा ॥ ३० ॥
+[^non-baroDa-CE] बहुयोजनसाहस्रं वहमानो महाहरिः ।  
+[^non-baroDa-CE] वायुवच्च मनोवच्च जगाम सह शत्रुणा ॥ ३० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1681,3 +1681,4 @@ Peerless and supreme was the strength of Vālī (_balam apratimaṃ ... vālino 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

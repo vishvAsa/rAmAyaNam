@@ -362,9 +362,9 @@ During their conversation, a humble Daśaratha asks Durvāsas how long his linea
 
 <details><summary>मूलम्</summary>
 
-शृणु राजन् पुरा वृत्तं तदा देवासुरे युधि ॥ ११ ॥  
-दैत्याः सुरैर्भर्त्स्यमाना भृगुपत्नीं समाश्रिताः ।  
-तया दत्ताभयास्तत्र न्यवसन्नभयास्तदा ॥ १२ ॥
+[^non-baroDa-CE] शृणु राजन् पुरा वृत्तं तदा देवासुरे युधि ॥ ११ ॥  
+[^non-baroDa-CE] दैत्याः सुरैर्भर्त्स्यमाना भृगुपत्नीं समाश्रिताः ।  
+[^non-baroDa-CE] तया दत्ताभयास्तत्र न्यवसन्नभयास्तदा ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -404,8 +404,8 @@ Enraged at the slaying of his inviolable wife, Bhṛgu curses Viṣṇu to be bo
 
 <details><summary>मूलम्</summary>
 
-तया परिगृहीतांस्तान् दृष्ट्वा क्रुद्धः सुरेश्वरः ।  
-चक्रेण शितधारेण भृगुपत्न्याः शिरोऽहरत् ॥ १३ ॥
+[^non-baroDa-CE] तया परिगृहीतांस्तान् दृष्ट्वा क्रुद्धः सुरेश्वरः ।  
+[^non-baroDa-CE] चक्रेण शितधारेण भृगुपत्न्याः शिरोऽहरत् ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -435,8 +435,8 @@ Enraged at the slaying of his inviolable wife, Bhṛgu curses Viṣṇu to be bo
 
 <details><summary>मूलम्</summary>
 
-ततस्तां निहतां दृष्ट्वा पत्नीं भृगुकुलोद्वहः ।  
-शशाप सहसा क्रुद्धो विष्णुं रिपुकुलार्दनम् ॥ १४ ॥
+[^non-baroDa-CE] ततस्तां निहतां दृष्ट्वा पत्नीं भृगुकुलोद्वहः ।  
+[^non-baroDa-CE] शशाप सहसा क्रुद्धो विष्णुं रिपुकुलार्दनम् ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -468,12 +468,12 @@ Enraged at the slaying of his inviolable wife, Bhṛgu curses Viṣṇu to be bo
 <details><summary>मूलम्</summary>
 
 यस्मादवध्यां मे पत्नीमवधीः क्रोधमूिर्च्छतः ।  
-तस्मात् त्वं मानुषे लोके जनिष्यसि जनार्दन ॥ १५ ॥  
-तत्र पत्नीवियोगं त्वं प्राप्स्यसे बहुवार्षिकम् ।
+[^non-baroDa-CE] तस्मात् त्वं मानुषे लोके जनिष्यसि जनार्दन ॥ १५ ॥  
+[^non-baroDa-CE] तत्र पत्नीवियोगं त्वं प्राप्स्यसे बहुवार्षिकम् ।
 _________________
 यस्मादवध्यां मे पत्नीमवधीः क्रोधमूर्छितः ।  
-तस्मात्त्वं मानुषे लोके जनिष्यसि जनार्दन ॥  
-तत्र पत्नीवियोगं त्वं प्राप्स्यसे बहुवार्षिकम् ।
+[^non-baroDa-CE] तस्मात्त्वं मानुषे लोके जनिष्यसि जनार्दन ॥  
+[^non-baroDa-CE] तत्र पत्नीवियोगं त्वं प्राप्स्यसे बहुवार्षिकम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -504,7 +504,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 शापाभिहतचेतास्तु स्वात्मना भावितोऽभवत् ॥ १६ ॥  
-अर्चयामास तं देवं भृगुः शापेन पीडितः ।
+[^non-baroDa-CE] अर्चयामास तं देवं भृगुः शापेन पीडितः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -577,9 +577,9 @@ Durvāsas completes his prophecy—foretelling Rāma’s eleven-thousand-year re
 
 <details><summary>मूलम्</summary>
 
-इति शप्तो महातेजा भृगुणा पूर्वजन्मनि ॥ १८ ॥  
-इहागतो हि पुत्रत्वं तव पार्थिवसत्तम ।  
-राम इत्यभिविख्यातस्त्रिषु लोकेषु मानद ॥ १९ ॥
+[^non-baroDa-CE] इति शप्तो महातेजा भृगुणा पूर्वजन्मनि ॥ १८ ॥  
+[^non-baroDa-CE] इहागतो हि पुत्रत्वं तव पार्थिवसत्तम ।  
+[^non-baroDa-CE] राम इत्यभिविख्यातस्त्रिषु लोकेषु मानद ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -611,7 +611,7 @@ Durvāsas completes his prophecy—foretelling Rāma’s eleven-thousand-year re
 
 <details><summary>मूलम्</summary>
 
-तत् फलं प्राप्स्यते चापि भृगुशापकृतं महत् ।  
+[^non-baroDa-CE] तत् फलं प्राप्स्यते चापि भृगुशापकृतं महत् ।  
 अयोध्यायाः पती रामो दीर्घकालं भविष्यति ॥ २० ॥
 </details>
 
@@ -678,11 +678,11 @@ Durvāsas completes his prophecy—foretelling Rāma’s eleven-thousand-year re
 
 समृद्धैश्चाश्वमेधैश्च इष्ट्वा परमदुर्जयः ॥ २२ ॥  
 राजवंशांश्च बहुशो बहून् संस्थापयिष्यति ।  
-द्वौ पुत्रौ तु भविष्येते सीतायां राघवस्य तु ॥ २३ ॥
+[^non-baroDa-CE] द्वौ पुत्रौ तु भविष्येते सीतायां राघवस्य तु ॥ २३ ॥
 _________________
 समृद्धैश्चाश्वमेधैश्च इष्ट्वा परमदुर्जयः ॥
 राजवंशाश्च बहुशो बहून्संस्थापयिष्यति ।  
-द्वौ पुत्रौ तु भविष्येते सीतायां राघवस्य तु ॥
+[^non-baroDa-CE] द्वौ पुत्रौ तु भविष्येते सीतायां राघवस्य तु ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -815,7 +815,7 @@ Concluding his narrative, Sumantra assures Lakṣmaṇa that Durvāsas’s word 
 
 <details><summary>मूलम्</summary>
 
-सीतायाश्च ततः पुत्रावभिषेक्ष्यति राघवः ।  
+[^non-baroDa-CE] सीतायाश्च ततः पुत्रावभिषेक्ष्यति राघवः ।  
 अन्यत्र न त्वयोध्यायां मुनेस्तु वचनं यथा ॥ २७ ॥
 </details>
 
@@ -928,3 +928,4 @@ Then, as the charioteer and Lakṣmaṇa conversed thus along the road (_saṃva
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

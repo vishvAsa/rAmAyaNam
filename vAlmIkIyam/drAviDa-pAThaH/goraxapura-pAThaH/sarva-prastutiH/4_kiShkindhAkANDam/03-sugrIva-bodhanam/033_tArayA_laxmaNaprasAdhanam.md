@@ -1133,10 +1133,10 @@ Abashed by the tinkling of anklets and girdles in the harem, Lakṣmaṇa withdr
 
 <details><summary>मूलम्</summary>
 
-कूजितं नूपुराणां च काञ्चीनां निःस्वनं तथा ।  
-स निशम्य ततः श्रीमान् सौमित्रिर्लज्जितोऽभवत् ॥ २५ ॥
+[^non-baroDa-CE] कूजितं नूपुराणां च काञ्चीनां निःस्वनं तथा ।  
+[^non-baroDa-CE] स निशम्य ततः श्रीमान् सौमित्रिर्लज्जितोऽभवत् ॥ २५ ॥
 _________________
-कूजितं नूपुराणां च काञ्चीनां निःस्वनं तथा ।  
+[^non-baroDa-CE] कूजितं नूपुराणां च काञ्चीनां निःस्वनं तथा ।  
 स निशम्य ततः श्रीमन् सौमित्रिर्लज्जितोऽभवत् ॥
 </details>
 
@@ -1188,10 +1188,10 @@ Hearing the tinkling of anklets (_kūjitam nūpurāṇām_) and likewise the jin
 
 <details><summary>मूलम्</summary>
 
-रोषवेगप्रकुपितः श्रुत्वा चाभरणस्वनम् ।  
-चकार ज्यास्वनं वीरो दिशः शब्देन पूरयन् ॥ २६ ॥
+[^non-baroDa-CE] रोषवेगप्रकुपितः श्रुत्वा चाभरणस्वनम् ।  
+[^non-baroDa-CE] चकार ज्यास्वनं वीरो दिशः शब्देन पूरयन् ॥ २६ ॥
 _________________
-रोषवेगप्रकुपितः श्रुत्वा चाभरणस्वनम् ।  
+[^non-baroDa-CE] रोषवेगप्रकुपितः श्रुत्वा चाभरणस्वनम् ।  
 चकार ज्ञास्वनं वीरो दिशः शब्देन पूरयन् ॥
 </details>
 
@@ -1243,8 +1243,8 @@ Incensed with a surge of wrath (_roṣavegaprakupitaḥ_) on hearing the sound o
 
 <details><summary>मूलम्</summary>
 
-चारित्रेण महाबाहुरपकृष्टः स लक्ष्मणः ।  
-तस्थावेकान्तमाश्रित्य रामकोपसमन्वितः ॥ २७ ॥
+[^non-baroDa-CE] चारित्रेण महाबाहुरपकृष्टः स लक्ष्मणः ।  
+[^non-baroDa-CE] तस्थावेकान्तमाश्रित्य रामकोपसमन्वितः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1305,8 +1305,8 @@ Drawn back by his own noble conduct (_cāritreṇa apakṛṣṭaḥ_), that mig
 
 <details><summary>मूलम्</summary>
 
-तेन चापस्वनेनाथ सुग्रीवः प्लवगाधिपः ।  
-विज्ञायागमनं त्रस्तः स चचाल वरासनात् ॥ २८ ॥
+[^non-baroDa-CE] तेन चापस्वनेनाथ सुग्रीवः प्लवगाधिपः ।  
+[^non-baroDa-CE] विज्ञायागमनं त्रस्तः स चचाल वरासनात् ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1357,8 +1357,8 @@ Recognizing his arrival by that sound of the bow (_tena cāpasvanena_), Sugrīva
 
 <details><summary>मूलम्</summary>
 
-अङ्गदेन यथा मह्यं पुरस्तात् प्रतिवेदितम् ।  
-सुव्यक्तमेष सम्प्राप्तः सौमित्रिर्भ्रातृवत्सलः ॥ २९ ॥
+[^non-baroDa-CE] अङ्गदेन यथा मह्यं पुरस्तात् प्रतिवेदितम् ।  
+[^non-baroDa-CE] सुव्यक्तमेष सम्प्राप्तः सौमित्रिर्भ्रातृवत्सलः ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1408,11 +1408,11 @@ Thus Sugreeva exclaimed. [4-33-29]
 
 <details><summary>मूलम्</summary>
 
-अङ्गदेन समाख्यातो ज्यास्वनेन च वानरः ।  
-बुबुधे लक्ष्मणं प्राप्तं मुखं चास्य व्यशुष्यत ॥ ३० ॥
+[^non-baroDa-CE] अङ्गदेन समाख्यातो ज्यास्वनेन च वानरः ।  
+[^non-baroDa-CE] बुबुधे लक्ष्मणं प्राप्तं मुखं चास्य व्यशुष्यत ॥ ३० ॥
 _________________
 अङ्गदेन समाख्यातो ज्ञास्वनेन च वानरः ।  
-बुबुधे लक्ष्मणं प्राप्तं मुखं चास्य व्यशुष्यत ॥
+[^non-baroDa-CE] बुबुधे लक्ष्मणं प्राप्तं मुखं चास्य व्यशुष्यत ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1471,8 +1471,8 @@ Though inwardly shaken, Sugrīva composes himself and asks Tārā what offense c
 
 <details><summary>मूलम्</summary>
 
-ततस्तारां हरिश्रेष्ठः सुग्रीवः प्रियदर्शनाम् ।  
-उवाच हितमव्यग्रस्त्राससम्भ्रान्तमानसः ॥ ३१ ॥
+[^non-baroDa-CE] ततस्तारां हरिश्रेष्ठः सुग्रीवः प्रियदर्शनाम् ।  
+[^non-baroDa-CE] उवाच हितमव्यग्रस्त्राससम्भ्रान्तमानसः ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1523,8 +1523,8 @@ Then Sugrīva, the best of monkeys, though his mind was agitated with fear (_tr�
 
 <details><summary>मूलम्</summary>
 
-किं नु रुट्कारणं सुभ्रु प्रकृत्या मृदुमानसः ।  
-सरोष इव सम्प्राप्तो येनायं राघवानुजः ॥ ३२ ॥
+[^non-baroDa-CE] किं नु रुट्कारणं सुभ्रु प्रकृत्या मृदुमानसः ।  
+[^non-baroDa-CE] सरोष इव सम्प्राप्तो येनायं राघवानुजः ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1581,8 +1581,8 @@ rationality and her eyebrows do not belie what she states.
 
 <details><summary>मूलम्</summary>
 
-किं पश्यसि कुमारस्य रोषस्थानमनिन्दिते ।  
-न खल्वकारणे कोपमाहरेन्नरपुङ्गवः ॥ ३३ ॥
+[^non-baroDa-CE] किं पश्यसि कुमारस्य रोषस्थानमनिन्दिते ।  
+[^non-baroDa-CE] न खल्वकारणे कोपमाहरेन्नरपुङ्गवः ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1834,10 +1834,10 @@ In the concluding _vaṃśastha_ stanza, both **Rāma Varmā** (_Tilaka_, पर
 <details><summary>मूलम्</summary>
 
 यद्यस्य कृतमस्माभिर्बुध्यसे किञ्चिदप्रियम् ।  
-तद‍्बुद‍्ध्या सम्प्रधार्याशु क्षिप्रमेवाभिधीयताम् ॥ ३४ ॥
+[^non-baroDa-CE] तद‍्बुद‍्ध्या सम्प्रधार्याशु क्षिप्रमेवाभिधीयताम् ॥ ३४ ॥
 _________________
 यद्य कृतमस्माभिर्बुध्यसे किञ्चिदप्रियम् ।  
-तद्बुद्ध्या सम्प्रधार्याशु क्षिप्रमेवाभिधीयताम् ॥
+[^non-baroDa-CE] तद्बुद्ध्या सम्प्रधार्याशु क्षिप्रमेवाभिधीयताम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1888,8 +1888,8 @@ by your nimble-wittedness and let that be made known immediately. [4-33-34]
 
 <details><summary>मूलम्</summary>
 
-अथवा स्वयमेवैनं द्रष्टुमर्हसि भामिनि ।  
-वचनैः सान्त्वयुक्तैश्च प्रसादयितुमर्हसि ॥ ३५ ॥
+[^non-baroDa-CE] अथवा स्वयमेवैनं द्रष्टुमर्हसि भामिनि ।  
+[^non-baroDa-CE] वचनैः सान्त्वयुक्तैश्च प्रसादयितुमर्हसि ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1939,8 +1939,8 @@ blent with mitigation. [4-33-35]
 
 <details><summary>मूलम्</summary>
 
-त्वद्दर्शने विशुद्धात्मा न स्म कोपं करिष्यति ।  
-नहि स्त्रीषु महात्मानः क्वचित् कुर्वन्ति दारुणम् ॥ ३६ ॥
+[^non-baroDa-CE] त्वद्दर्शने विशुद्धात्मा न स्म कोपं करिष्यति ।  
+[^non-baroDa-CE] नहि स्त्रीषु महात्मानः क्वचित् कुर्वन्ति दारुणम् ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2010,7 +2010,7 @@ Approaching with wine-languid steps and low-hanging golden girdle, Tārā sees L
 
 <details><summary>मूलम्</summary>
 
-त्वया सान्त्वैरुपक्रान्तं प्रसन्नेन्द्रियमानसम् ।  
+[^non-baroDa-CE] त्वया सान्त्वैरुपक्रान्तं प्रसन्नेन्द्रियमानसम् ।  
 ततः कमलपत्राक्षं द्रक्ष्याम्यहमरिन्दमम् ॥ ३७ ॥
 </details>
 
@@ -2064,10 +2064,10 @@ to see that lotus-petal-eyed Lakshmana, the destroyer of his enemies." Sugreeva 
 
 <details><summary>मूलम्</summary>
 
-सा प्रस्खलन्ती मदविह्वलाक्षी  
-प्रलम्बकाञ्चीगुणहेमसूत्रा ।  
+[^non-baroDa-CE] सा प्रस्खलन्ती मदविह्वलाक्षी  
+[^non-baroDa-CE] प्रलम्बकाञ्चीगुणहेमसूत्रा ।  
 सलक्षणा लक्ष्मणसन्निधानं  
-जगाम तारा नमिताङ्गयष्टिः ॥ ३८ ॥
+[^non-baroDa-CE] जगाम तारा नमिताङ्गयष्टिः ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2139,9 +2139,9 @@ Faltering in her gait (_praskhalantī_), her eyes rolling with intoxication (_ma
 
 <details><summary>मूलम्</summary>
 
-स तां समीक्ष्यैव हरीशपत्नीं  
-तस्थावुदासीनतया महात्मा ।  
-अवाङ्मुखोऽभून्मनुजेन्द्रपुत्रः  
+[^non-baroDa-CE] स तां समीक्ष्यैव हरीशपत्नीं  
+[^non-baroDa-CE] तस्थावुदासीनतया महात्मा ।  
+[^non-baroDa-CE] अवाङ्मुखोऽभून्मनुजेन्द्रपुत्रः  
 स्त्रीसन्निकर्षाद् विनिवृत्तकोपः ॥ ३९ ॥
 </details>
 
@@ -2199,10 +2199,10 @@ Merely upon beholding that queen of the lord of monkeys (_harīśapatnīm_), the
 
 <details><summary>मूलम्</summary>
 
-सा पानयोगाच्च निवृत्तलज्जा  
-दृष्टिप्रसादाच्च नरेन्द्रसूनोः ।  
-उवाच तारा प्रणयप्रगल्भं  
-वाक्यं महार्थं परिसान्त्वरूपम् ॥ ४० ॥
+[^non-baroDa-CE] सा पानयोगाच्च निवृत्तलज्जा  
+[^non-baroDa-CE] दृष्टिप्रसादाच्च नरेन्द्रसूनोः ।  
+[^non-baroDa-CE] उवाच तारा प्रणयप्रगल्भं  
+[^non-baroDa-CE] वाक्यं महार्थं परिसान्त्वरूपम् ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2260,14 +2260,14 @@ With her shyness dispelled both by the effect of drink (_pānayogāc ca nivṛtt
 
 <details><summary>मूलम्</summary>
 
-किं कोपमूलं मनुजेन्द्रपुत्र  
+[^non-baroDa-CE] किं कोपमूलं मनुजेन्द्रपुत्र  
 कस्ते न सन्तिष्ठति वाङ्‍‍निदेशे ।  
-कः शुष्कवृक्षं वनमापतन्तं  
-दावाग्निमासीदति निर्विशङ्कः ॥ ४१ ॥
+[^non-baroDa-CE] कः शुष्कवृक्षं वनमापतन्तं  
+[^non-baroDa-CE] दावाग्निमासीदति निर्विशङ्कः ॥ ४१ ॥
 _________________
-किं कोपमूलं मनुजेन्द्रपुत्र  
+[^non-baroDa-CE] किं कोपमूलं मनुजेन्द्रपुत्र  
 कस्ते न सन्तिष्ठति वाङ्निनिदेशे ।  
-कः शुष्कवृक्षं वनमापतन्तं  
+[^non-baroDa-CE] कः शुष्कवृक्षं वनमापतन्तं  
 दवाग्निमासीदति निर्विशङ्कः ॥
 </details>
 
@@ -2324,8 +2324,8 @@ thus with Lakshmana. [4-33-41]
 
 <details><summary>मूलम्</summary>
 
-स तस्या वचनं श्रुत्वा सान्त्वपूर्वमशङ्कितः ।  
-भूयः प्रणयदृष्टार्थं लक्ष्मणो वाक्यमब्रवीत् ॥ ४२ ॥
+[^non-baroDa-CE] स तस्या वचनं श्रुत्वा सान्त्वपूर्वमशङ्कितः ।  
+[^non-baroDa-CE] भूयः प्रणयदृष्टार्थं लक्ष्मणो वाक्यमब्रवीत् ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2385,7 +2385,7 @@ Lakṣmaṇa reproaches Tārā for failing to awaken her husband, who indulges i
 <details><summary>मूलम्</summary>
 
 किमयं कामवृत्तस्ते लुप्तधर्मार्थसङ्ग्रहः ।  
-भर्ता भर्तृहिते युक्ते न चैनमवबुध्यसे ॥ ४३ ॥
+[^non-baroDa-CE] भर्ता भर्तृहिते युक्ते न चैनमवबुध्यसे ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2437,10 +2437,10 @@ garnering rectitude and riches, and his dereliction is unbeknownst to you, is it
 
 <details><summary>मूलम्</summary>
 
-न चिन्तयति राज्यार्थं सोऽस्मान् शोकपरायणान् ।  
-सामात्यपरिषत् तारे काममेवोपसेवते ॥ ४४ ॥
+[^non-baroDa-CE] न चिन्तयति राज्यार्थं सोऽस्मान् शोकपरायणान् ।  
+[^non-baroDa-CE] सामात्यपरिषत् तारे काममेवोपसेवते ॥ ४४ ॥
 _________________
-न चिन्तयति राज्यार्थं सोऽस्मान् शोकपरायणान् ।  
+[^non-baroDa-CE] न चिन्तयति राज्यार्थं सोऽस्मान् शोकपरायणान् ।  
 सामात्यपरिषत् तारॆ काममेवोपसेवते ॥
 </details>
 
@@ -2492,8 +2492,8 @@ your husband along with his council of ministers is indulged in lechery. [4-33-4
 
 <details><summary>मूलम्</summary>
 
-स मासांश्चतुरः कृत्वा प्रमाणं प्लवगेश्वरः ।  
-व्यतीतांस्तान् मदोदग्रो विहरन् नावबुध्यते ॥ ४५ ॥
+[^non-baroDa-CE] स मासांश्चतुरः कृत्वा प्रमाणं प्लवगेश्वरः ।  
+[^non-baroDa-CE] व्यतीतांस्तान् मदोदग्रो विहरन् नावबुध्यते ॥ ४५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2543,8 +2543,8 @@ of that period as he is frantically insensible. [4-33-45]
 
 <details><summary>मूलम्</summary>
 
-नहि धर्मार्थसिद्ध्यर्थं पानमेवं प्रशस्यते ।  
-पानादर्थश्च कामश्च धर्मश्च परिहीयते ॥ ४६ ॥
+[^non-baroDa-CE] नहि धर्मार्थसिद्ध्यर्थं पानमेवं प्रशस्यते ।  
+[^non-baroDa-CE] पानादर्थश्च कामश्च धर्मश्च परिहीयते ॥ ४६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2595,8 +2595,8 @@ isn't it! Just going on drinking will bring prosperity, aspirations and even pro
 
 <details><summary>मूलम्</summary>
 
-धर्मलोपो महांस्तावत् कृते ह्यप्रतिकुर्वतः ।  
-अर्थलोपश्च मित्रस्य नाशे गुणवतो महान् ॥ ४७ ॥
+[^non-baroDa-CE] धर्मलोपो महांस्तावत् कृते ह्यप्रतिकुर्वतः ।  
+[^non-baroDa-CE] अर्थलोपश्च मित्रस्य नाशे गुणवतो महान् ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2649,8 +2649,8 @@ in achieving his purposes. Thus a threefold ill befalls on that reneger. [4-33-4
 
 <details><summary>मूलम्</summary>
 
-मित्रं ह्यर्थगुणश्रेष्ठं सत्यधर्मपरायणम् ।  
-तद‍्द्वयं तु परित्यक्तं न तु धर्मे व्यवस्थितम् ॥ ४८ ॥
+[^non-baroDa-CE] मित्रं ह्यर्थगुणश्रेष्ठं सत्यधर्मपरायणम् ।  
+[^non-baroDa-CE] तद‍्द्वयं तु परित्यक्तं न तु धर्मे व्यवस्थितम् ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2710,8 +2710,8 @@ Asked by Lakṣmaṇa what course remains, Tārā replies that a noble prince of
 
 <details><summary>मूलम्</summary>
 
-तदेवं प्रस्तुते कार्ये कार्यमस्माभिरुत्तरम् ।  
-तत् कार्यं कार्यतत्त्वज्ञे त्वमुदाहर्तुमर्हसि ॥ ४९ ॥
+[^non-baroDa-CE] तदेवं प्रस्तुते कार्ये कार्यमस्माभिरुत्तरम् ।  
+[^non-baroDa-CE] तत् कार्यं कार्यतत्त्वज्ञे त्वमुदाहर्तुमर्हसि ॥ ४९ ॥
 _________________
 तदेवं प्रस्तुते कार्ये कार्यमस्माभिरुत्तमम् ।  
 यत्कार्यं कार्यतत्त्वज्ञे त्वमुदाहर्तुमर्हसि ॥
@@ -2769,10 +2769,10 @@ spoke curtly to Tara. [4-33-49]
 
 <details><summary>मूलम्</summary>
 
-सा तस्य धर्मार्थसमाधियुक्तं  
-निशम्य वाक्यं मधुरस्वभावम् ।  
-तारा गतार्थे मनुजेन्द्रकार्ये  
-विश्वासयुक्तं तमुवाच भूयः ॥ ५० ॥
+[^non-baroDa-CE] सा तस्य धर्मार्थसमाधियुक्तं  
+[^non-baroDa-CE] निशम्य वाक्यं मधुरस्वभावम् ।  
+[^non-baroDa-CE] तारा गतार्थे मनुजेन्द्रकार्ये  
+[^non-baroDa-CE] विश्वासयुक्तं तमुवाच भूयः ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2833,15 +2833,15 @@ Hearing his gentle-natured speech (_vākyam madhurasvabhāvam_), which was joine
 
 <details><summary>मूलम्</summary>
 
-न कोपकालः क्षितिपालपुत्र  
-न चापि कोपः स्वजने विधेयः ।  
-त्वदर्थकामस्य जनस्य तस्य  
-प्रमादमप्यर्हसि वीर सोढुम् ॥ ५१ ॥
+[^non-baroDa-CE] न कोपकालः क्षितिपालपुत्र  
+[^non-baroDa-CE] न चापि कोपः स्वजने विधेयः ।  
+[^non-baroDa-CE] त्वदर्थकामस्य जनस्य तस्य  
+[^non-baroDa-CE] प्रमादमप्यर्हसि वीर सोढुम् ॥ ५१ ॥
 _________________
-न कोपकालः क्षितिपालपुत्र  
+[^non-baroDa-CE] न कोपकालः क्षितिपालपुत्र  
 न चातिकोपः स्वजने विधेयः ।  
-त्वदर्थकामस्य जनस्य तस्य  
-प्रमादमप्यर्हसि वीर सोढुम् ॥
+[^non-baroDa-CE] त्वदर्थकामस्य जनस्य तस्य  
+[^non-baroDa-CE] प्रमादमप्यर्हसि वीर सोढुम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2898,10 +2898,10 @@ be apt of you to tolerate Sugreeva's fault because he is desirous of achieving r
 
 <details><summary>मूलम्</summary>
 
-कोपं कथं नाम गुणप्रकृष्टः  
-कुमार कुर्यादपकृष्टसत्त्वे ।  
-कस्त्वद्विधः कोपवशं हि गच्छेत्  
-सत्त्वावरुद्धस्तपसः प्रसूतिः ॥ ५२ ॥
+[^non-baroDa-CE] कोपं कथं नाम गुणप्रकृष्टः  
+[^non-baroDa-CE] कुमार कुर्यादपकृष्टसत्त्वे ।  
+[^non-baroDa-CE] कस्त्वद्विधः कोपवशं हि गच्छेत्  
+[^non-baroDa-CE] सत्त्वावरुद्धस्तपसः प्रसूतिः ॥ ५२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2961,10 +2961,10 @@ is restrained by his perfection, and a source of abstemiousness. [4-33-52]
 
 <details><summary>मूलम्</summary>
 
-जानामि कोपं हरिवीरबन्धो-  
-र्जानामि कार्यस्य च कालसङ्गम् ।  
-जानामि कार्यं त्वयि यत्कृतं न-  
-स्तच्चापि जानामि यदत्र कार्यम् ॥ ५३ ॥
+[^non-baroDa-CE] जानामि कोपं हरिवीरबन्धो-  
+[^non-baroDa-CE] र्जानामि कार्यस्य च कालसङ्गम् ।  
+[^non-baroDa-CE] जानामि कार्यं त्वयि यत्कृतं न-  
+[^non-baroDa-CE] स्तच्चापि जानामि यदत्र कार्यम् ॥ ५३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3023,10 +3023,10 @@ I am well aware. [4-33-53]
 
 <details><summary>मूलम्</summary>
 
-तच्चापि जानामि तथाविषह्यं  
-बलं नरश्रेष्ठ शरीरजस्य ।  
-जानामि यस्मिंश्च जनेऽवबद्धं  
-कामेन सुग्रीवमसक्तमद्य ॥ ५४ ॥
+[^non-baroDa-CE] तच्चापि जानामि तथाविषह्यं  
+[^non-baroDa-CE] बलं नरश्रेष्ठ शरीरजस्य ।  
+[^non-baroDa-CE] जानामि यस्मिंश्च जनेऽवबद्धं  
+[^non-baroDa-CE] कामेन सुग्रीवमसक्तमद्य ॥ ५४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3096,15 +3096,15 @@ Urging Lakṣmaṇa to pardon a monkey king when even great sages succumb to pas
 
 <details><summary>मूलम्</summary>
 
-न कामतन्त्रे तव बुद्धिरस्ति  
-त्वं वै यथा मन्युवशं प्रपन्नः ।  
-न देशकालौ हि यथार्थधर्मा-  
-ववेक्षते कामरतिर्मनुष्यः ॥ ५५ ॥
+[^non-baroDa-CE] न कामतन्त्रे तव बुद्धिरस्ति  
+[^non-baroDa-CE] त्वं वै यथा मन्युवशं प्रपन्नः ।  
+[^non-baroDa-CE] न देशकालौ हि यथार्थधर्मा-  
+[^non-baroDa-CE] ववेक्षते कामरतिर्मनुष्यः ॥ ५५ ॥
 _________________
-न कामतन्त्रे तव बुद्धिरस्ति  
+[^non-baroDa-CE] न कामतन्त्रे तव बुद्धिरस्ति  
 तं वै यथा मन्युवशं प्रपन्नः ।  
-न देशकालौ हि यथार्थधर्मा-  
-ववेक्षते कामरतिर्मनुष्यः ॥
+[^non-baroDa-CE] न देशकालौ हि यथार्थधर्मा-  
+[^non-baroDa-CE] ववेक्षते कामरतिर्मनुष्यः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3163,9 +3163,9 @@ of place and time, isn't it! Then, how about ethicalities, or rights and wrongs?
 <details><summary>मूलम्</summary>
 
 तं कामवृत्तं मम सन्निकृष्टं  
-कामाभियोगाच्च विमुक्तलज्जम् ।  
-क्षमस्व तावत् परवीरहन्त-  
-स्त्वद्‍भ्रातरं वानरवंशनाथम् ॥ ५६ ॥
+[^non-baroDa-CE] कामाभियोगाच्च विमुक्तलज्जम् ।  
+[^non-baroDa-CE] क्षमस्व तावत् परवीरहन्त-  
+[^non-baroDa-CE] स्त्वद्‍भ्रातरं वानरवंशनाथम् ॥ ५६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3223,10 +3223,10 @@ dynasty. [4-33-56]
 
 <details><summary>मूलम्</summary>
 
-महर्षयो धर्मतपोऽभिरामाः  
-कामानुकामाः प्रतिबद्धमोहाः ।  
-अयं प्रकृत्या चपलः कपिस्तु  
-कथं न सज्जेत सुखेषु राजा ॥ ५७ ॥
+[^non-baroDa-CE] महर्षयो धर्मतपोऽभिरामाः  
+[^non-baroDa-CE] कामानुकामाः प्रतिबद्धमोहाः ।  
+[^non-baroDa-CE] अयं प्रकृत्या चपलः कपिस्तु  
+[^non-baroDa-CE] कथं न सज्जेत सुखेषु राजा ॥ ५७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3294,10 +3294,10 @@ a female, they are lured by those females...' an ancient saying.
 
 <details><summary>मूलम्</summary>
 
-इत्येवमुक्त्वा वचनं महार्थं  
-सा वानरी लक्ष्मणमप्रमेयम् ।  
-पुनः सखेदं मदविह्वलाक्षी  
-भर्तुर्हितं वाक्यमिदं बभाषे ॥ ५८ ॥
+[^non-baroDa-CE] इत्येवमुक्त्वा वचनं महार्थं  
+[^non-baroDa-CE] सा वानरी लक्ष्मणमप्रमेयम् ।  
+[^non-baroDa-CE] पुनः सखेदं मदविह्वलाक्षी  
+[^non-baroDa-CE] भर्तुर्हितं वाक्यमिदं बभाषे ॥ ५८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3353,8 +3353,8 @@ Having spoken these words of weighty import (_vacanam mahārtham_) to the immeas
 
 <details><summary>मूलम्</summary>
 
-उद्योगस्तु चिराज्ञप्तः सुग्रीवेण नरोत्तम ।  
-कामस्यापि विधेयेन तवार्थप्रतिसाधने ॥ ५९ ॥
+[^non-baroDa-CE] उद्योगस्तु चिराज्ञप्तः सुग्रीवेण नरोत्तम ।  
+[^non-baroDa-CE] कामस्यापि विधेयेन तवार्थप्रतिसाधने ॥ ५९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3404,8 +3404,8 @@ aiming to achieve your objective, despite of the fact that he is servile to over
 
 <details><summary>मूलम्</summary>
 
-आगता हि महावीर्या हरयः कामरूपिणः ।  
-कोटीः शतसहस्राणि नानानगनिवासिनः ॥ ६० ॥
+[^non-baroDa-CE] आगता हि महावीर्या हरयः कामरूपिणः ।  
+[^non-baroDa-CE] कोटीः शतसहस्राणि नानानगनिवासिनः ॥ ६० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3463,8 +3463,8 @@ Assured by Tārā that beholding a friend's wives in goodwill is blameless, Lak�
 
 <details><summary>मूलम्</summary>
 
-तदागच्छ महाबाहो चारित्रं रक्षितं त्वया ।  
-अच्छलं मित्रभावेन सतां दारावलोकनम् ॥ ६१ ॥
+[^non-baroDa-CE] तदागच्छ महाबाहो चारित्रं रक्षितं त्वया ।  
+[^non-baroDa-CE] अच्छलं मित्रभावेन सतां दारावलोकनम् ॥ ६१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3517,7 +3517,7 @@ inside the palace-chambers. [4-33-61]
 
 <details><summary>मूलम्</summary>
 
-तारया चाभ्यनुज्ञातस्त्वरया वापि चोदितः ।  
+[^non-baroDa-CE] तारया चाभ्यनुज्ञातस्त्वरया वापि चोदितः ।  
 प्रविवेश महाबाहुरभ्यन्तरमरिन्दमः ॥ ६२ ॥
 _________________
 तारया चाभ्यनुज्ञातस्त्वरया चापि चोदितः ।  
@@ -3754,3 +3754,5 @@ Sugreeva made sheep eyes at the furiously broad-eyed Lakshmana. [4-33-66]
 Tightly embracing Rumā (_rumām tu parirabhya gāḍham_), that hero of choice golden complexion (_varahemavarṇaḥ_), seated upon his choice throne (_varāsanasthaḥ_), wide-eyed (_viśālanetraḥ_), beheld the wide-eyed son of Sumitrā of undaunted spirit (_saumitrim adīnasattvam_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

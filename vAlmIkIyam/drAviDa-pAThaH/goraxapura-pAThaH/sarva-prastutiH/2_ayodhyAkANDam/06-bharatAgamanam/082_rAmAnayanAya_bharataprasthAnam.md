@@ -154,7 +154,7 @@ As those noble men took their seats in due order at that time (_āsanāni yathā
 <details><summary>मूलम्</summary>
 
 सा विद्वज्जनसम्पूर्णा सभा सुरुचिरा तथा ।  
-अदृश्यत घनापाये पूर्णचन्द्रेव शर्वरी ॥ ३ ॥
+[^non-baroDa-CE] अदृश्यत घनापाये पूर्णचन्द्रेव शर्वरी ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1062,7 +1062,7 @@ practicing virtues, the honourable and the distinguished men."
 प्रस्थापिता मया पूर्वं यात्रा च मम रोचते ॥ २० ॥
 _________________
 विष्टिकर्मान्तिकाः सर्वे मार्गशोधकदक्षकाः ।  
-प्रस्थापिता मया पूर्वं यत्रापि मम रोचते ॥
+[^non-baroDa-CE] प्रस्थापिता मया पूर्वं यत्रापि मम रोचते ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1113,7 +1113,7 @@ All the unpaid corvée laborers, paid workmen, and road-clearing guards have alr
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा तु धर्मात्मा भरतो भ्रातृवत्सलः ।  
+[^non-baroDa-CE] एवमुक्त्वा तु धर्मात्मा भरतो भ्रातृवत्सलः ।  
 समीपस्थमुवाचेदं सुमन्त्रं मन्त्रकोविदम् ॥ २१ ॥
 </details>
 
@@ -1815,3 +1815,4 @@ Rising up thereupon in family after family, Kṣatriyas, Vaiśyas, Śūdras, and
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

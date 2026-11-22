@@ -155,8 +155,8 @@ Beholding that maiden endowed with loveliness (_rūpa-sampannām_) and observing
 
 <details><summary>मूलम्</summary>
 
-रूपं तेऽनुपमं भीरु कामोन्मादकरं नृणाम् ।  
-न युक्तं तपसि स्थातुं निर्गतो ह्येष निर्णयः ॥ ५ ॥
+[^non-baroDa-CE] रूपं तेऽनुपमं भीरु कामोन्मादकरं नृणाम् ।  
+[^non-baroDa-CE] न युक्तं तपसि स्थातुं निर्गतो ह्येष निर्णयः ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -187,12 +187,12 @@ Beholding that maiden endowed with loveliness (_rūpa-sampannām_) and observing
 
 <details><summary>मूलम्</summary>
 
-कस्यासि किमिदं भद्रे कश्च भर्ता वरानने ।  
-येन सम्भुज्यसे भीरु स नरः पुण्यभाग् भुवि ॥ ६ ॥  
-पृच्छतः शंस मे सर्वं कस्य हेतोः परिश्रमः ।
+[^non-baroDa-CE] कस्यासि किमिदं भद्रे कश्च भर्ता वरानने ।  
+[^non-baroDa-CE] येन सम्भुज्यसे भीरु स नरः पुण्यभाग् भुवि ॥ ६ ॥  
+[^non-baroDa-CE] पृच्छतः शंस मे सर्वं कस्य हेतोः परिश्रमः ।
 _________________
-कस्यासि किमिदं भद्रे कश्च भर्ता वरानने ।  
-येन सम्भुज्यसे भीरु स नरः पुण्यभाग्भुवि ॥  
+[^non-baroDa-CE] कस्यासि किमिदं भद्रे कश्च भर्ता वरानने ।  
+[^non-baroDa-CE] येन सम्भुज्यसे भीरु स नरः पुण्यभाग्भुवि ॥  
 पृचृतः शंस मे सर्वं कस्य हेतोः परिश्रमः ।
 </details>
 
@@ -665,8 +665,8 @@ Resolving why 7.17.40 employs the future tense उत्पत्स्यते
 
 <details><summary>मूलम्</summary>
 
-नारायणो मम पतिर्न त्वन्यः पुरुषोत्तमात् ।  
-आश्रये नियमं घोरं नारायणपरीप्सया ॥ १८ ॥
+[^non-baroDa-CE] नारायणो मम पतिर्न त्वन्यः पुरुषोत्तमात् ।  
+[^non-baroDa-CE] आश्रये नियमं घोरं नारायणपरीप्सया ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -831,10 +831,10 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-अहं लङ्कापतिर्भद्रे दशग्रीव इति श्रुतः ।  
-तस्य मे भव भार्या त्वं भुङ्क्ष्व भोगान् यथासुखम् ॥ २३ ॥
+[^non-baroDa-CE] अहं लङ्कापतिर्भद्रे दशग्रीव इति श्रुतः ।  
+[^non-baroDa-CE] तस्य मे भव भार्या त्वं भुङ्क्ष्व भोगान् यथासुखम् ॥ २३ ॥
 _________________
-अहं लङ्कापतिर्भद्रे दशग्रीव इति श्रुतः ।  
+[^non-baroDa-CE] अहं लङ्कापतिर्भद्रे दशग्रीव इति श्रुतः ।  
 तस्य मे भव भार्या त्वं भुङ्क्ष्य भोगान् यथासुखम् ॥
 </details>
 
@@ -942,7 +942,7 @@ When Vedavatī rebukes Rāvaṇa for disparaging Viṣṇu, the demon seizes her
 <details><summary>मूलम्</summary>
 
 त्रैलोक्याधिपतिं विष्णुं सर्वलोकनमस्कृतम् ॥ २६ ॥  
-त्वदृते राक्षसेन्द्रान्यः कोऽवमन्येत बुद्धिमान् ।
+[^non-baroDa-CE] त्वदृते राक्षसेन्द्रान्यः कोऽवमन्येत बुद्धिमान् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -972,10 +972,10 @@ Thus addressed there by Vedavatī (_evam uktas tayā tatra vedavatyā_), that ni
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तया तत्र वेदवत्या निशाचरः ॥ २७ ॥  
+[^non-baroDa-CE] एवमुक्तस्तया तत्र वेदवत्या निशाचरः ॥ २७ ॥  
 मूर्धजेषु तदा कन्यां कराग्रेण परामृशत् ।
 _________________
-एवमुक्तस्तया तत्र वेदवत्या निशाचरः ॥  
+[^non-baroDa-CE] एवमुक्तस्तया तत्र वेदवत्या निशाचरः ॥  
 मूर्धजेषु तदा कन्या कराग्रेण परामृशत् ।
 </details>
 
@@ -1037,7 +1037,7 @@ Blazing as it were with fury (_jvalantīva roṣeṇa_) and seeming to consume t
 
 <details><summary>मूलम्</summary>
 
-सा ज्वलन्तीव रोषेण दहन्तीव निशाचरम् ॥ २९ ॥  
+[^non-baroDa-CE] सा ज्वलन्तीव रोषेण दहन्तीव निशाचरम् ॥ २९ ॥  
 उवाचाग्निं समाधाय मरणाय कृतत्वरा ।
 </details>
 
@@ -1231,8 +1231,8 @@ Once more she came into being inside a lotus (_punar eva samudbhūtā padme_), r
 
 <details><summary>मूलम्</summary>
 
-पुनरेव समुद्भूता पद्मे पद्मसमप्रभा ॥ ३५ ॥  
-तस्मादपि पुनः प्राप्ता पूर्ववत् तेन रक्षसा ।
+[^non-baroDa-CE] पुनरेव समुद्भूता पद्मे पद्मसमप्रभा ॥ ३५ ॥  
+[^non-baroDa-CE] तस्मादपि पुनः प्राप्ता पूर्ववत् तेन रक्षसा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1262,8 +1262,8 @@ Taking up that maiden glowing like the heart of a lotus (_kanyāṃ kamala-garbh
 
 <details><summary>मूलम्</summary>
 
-कन्यां कमलगर्भाभां प्रगृह्य स्वगृहं ययौ ॥ ३६ ॥  
-प्रगृह्य रावणस्त्वेतां दर्शयामास मन्त्रिणे ।
+[^non-baroDa-CE] कन्यां कमलगर्भाभां प्रगृह्य स्वगृहं ययौ ॥ ३६ ॥  
+[^non-baroDa-CE] प्रगृह्य रावणस्त्वेतां दर्शयामास मन्त्रिणे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1301,7 +1301,7 @@ Cast into the sea by Rāvaṇa, the lotus-born maiden reaches Janaka’s sacrifi
 
 <details><summary>मूलम्</summary>
 
-लक्षणज्ञो निरीक्ष्यैव रावणं चैवमब्रवीत् ॥ ३७ ॥  
+[^non-baroDa-CE] लक्षणज्ञो निरीक्ष्यैव रावणं चैवमब्रवीत् ॥ ३७ ॥  
 गृहस्थैषा हि सुश्रोणी त्वद्वधायैव दृश्यते ।
 </details>
 
@@ -1334,8 +1334,8 @@ Hearing this, O Rāma, Rāvaṇa cast her into the ocean (_arṇave ... tāṃ p
 <details><summary>मूलम्</summary>
 
 एतच्छ्रुत्वार्णवे राम तां प्रचिक्षेप रावणः ॥ ३८ ॥  
-सा चैव क्षितिमासाद्य यज्ञायतनमध्यगा ।  
-राज्ञो हलमुखोत्कृष्टा पुनरप्युत्थिता सती ॥ ३९ ॥
+[^non-baroDa-CE] सा चैव क्षितिमासाद्य यज्ञायतनमध्यगा ।  
+[^non-baroDa-CE] राज्ञो हलमुखोत्कृष्टा पुनरप्युत्थिता सती ॥ ३९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1367,8 +1367,8 @@ Hearing this, O Rāma, Rāvaṇa cast her into the ocean (_arṇave ... tāṃ p
 
 <details><summary>मूलम्</summary>
 
-सैषा जनकराजस्य प्रसूता तनया प्रभो ।  
-तव भार्या महाबाहो विष्णुस्त्वं हि सनातनः ॥ ४० ॥
+[^non-baroDa-CE] सैषा जनकराजस्य प्रसूता तनया प्रभो ।  
+[^non-baroDa-CE] तव भार्या महाबाहो विष्णुस्त्वं हि सनातनः ॥ ४० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1467,7 +1467,7 @@ She was born in the Maithila lineage of the high-souled Janaka (_utpannā maithi
 
 एषा वेदवती नाम पूर्वमासीत् कृते युगे ।  
 त्रेतायुगमनुप्राप्य वधार्थं तस्य रक्षसः ॥ ४३ ॥  
-उत्पन्ना मैथिलकुले जनकस्य महात्मनः ।  
+[^non-baroDa-CE] उत्पन्ना मैथिलकुले जनकस्य महात्मनः ।  
 सीतोत्पन्ना तु सीतेति मानुषैः पुनरुच्यते ॥ ४४ ॥
 </details>
 
@@ -1493,3 +1493,4 @@ She was born in the Maithila lineage of the high-souled Janaka (_utpannā maithi
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

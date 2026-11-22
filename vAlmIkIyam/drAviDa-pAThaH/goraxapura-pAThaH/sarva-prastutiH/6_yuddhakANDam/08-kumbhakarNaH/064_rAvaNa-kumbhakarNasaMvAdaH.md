@@ -1534,7 +1534,7 @@ Mahodara concludes that once Sītā believes Rāma is dead, Rāvaṇa can consol
 <details><summary>मूलम्</summary>
 
 ततोऽस्मिन् बहुलीभूते कौलीने सर्वतो गते ।  
-भक्षितः ससुहृद् रामो राक्षसैरिति विश्रुते ॥ ३० ॥  
+[^non-baroDa-CE] भक्षितः ससुहृद् रामो राक्षसैरिति विश्रुते ॥ ३० ॥  
 प्रविश्याश्वास्य चापि त्वं सीतां रहसि सान्त्वयन् ।  
 धनधान्यैश्च कामैश्च रत्नैश्चैनां प्रलोभय ॥ ३१ ॥
 </details>
@@ -1876,3 +1876,5 @@ glory."
 A monarch who conquers his foe without battle, his army unharmed (_anaṣṭasainyaḥ_) and himself untouched by peril (_anavāptasaṃśayaḥ_), enjoys for a long time great renown, merit, fortune, and glory, O lord of earth!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

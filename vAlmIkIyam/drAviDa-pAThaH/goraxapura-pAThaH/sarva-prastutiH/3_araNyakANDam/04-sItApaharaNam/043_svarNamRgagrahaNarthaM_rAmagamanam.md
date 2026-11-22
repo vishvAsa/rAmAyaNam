@@ -112,8 +112,8 @@ and even that of Lakshmana who is presently weaponed. [3-43-1, 2]
 
 <details><summary>मूलम्</summary>
 
-आहूयाहूय च पुनस्तं मृगं साधु वीक्षते ।  
-आगच्छागच्छ शीघ्रं वै आर्यपुत्र सहानुज ॥ ३ ॥
+[^non-baroDa-CE] आहूयाहूय च पुनस्तं मृगं साधु वीक्षते ।  
+[^non-baroDa-CE] आगच्छागच्छ शीघ्रं वै आर्यपुत्र सहानुज ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1134,7 +1134,7 @@ Whether Seetha is with kopa 'anger' or not, it is unsaid in the text.
 तरुणादित्यवर्णेन नक्षत्रपथवर्चसा ॥ २२ ॥  
 बभूव राघवस्यापि मनो विस्मयमागतम् ।  
 इति सीतावचः श्रुत्वा दृष्ट्वा च मृगमद्भुतम् ॥ २३ ॥  
-लोभितस्तेन रूपेण सीतया च प्रचोदितः ।  
+[^non-baroDa-CE] लोभितस्तेन रूपेण सीतया च प्रचोदितः ।  
 उवाच राघवो हृष्टो भ्रातरं लक्ष्मणं वचः ॥ २४ ॥
 </details>
 
@@ -2942,3 +2942,5 @@ to Lakshmana and started to go after the deer [3-43-51]
 “Together with the auspicious (_pradakṣiṇena_), mighty, and wise bird Jaṭāyus (_atibalena pakṣiṇā jaṭāyuṣā buddhimatā ca_), O Lakṣmaṇa, take charge of Maithilī (_pratigṛhya maithilīm_) and remain vigilant (_bhavāpramattaḥ_), suspicious of every quarter at every moment (_pratikṣaṇaṃ sarvata eva śaṅkitaḥ_)!”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

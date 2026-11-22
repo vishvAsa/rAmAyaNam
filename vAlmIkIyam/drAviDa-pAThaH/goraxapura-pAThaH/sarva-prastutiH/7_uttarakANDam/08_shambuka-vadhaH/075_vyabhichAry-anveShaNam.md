@@ -401,8 +401,8 @@ Finding the eastern quarter as spotless as a mirror, Rāma flies southward and d
 
 <details><summary>मूलम्</summary>
 
-प्रविशुद्धसमाचारामादर्शतलनिर्मलाम् ।  
-पुष्पकस्थो महाबाहुस्तदापश्यन्नराधिपः ॥ १२ ॥
+[^non-baroDa-CE] प्रविशुद्धसमाचारामादर्शतलनिर्मलाम् ।  
+[^non-baroDa-CE] पुष्पकस्थो महाबाहुस्तदापश्यन्नराधिपः ॥ १२ ॥
 _________________
 वीर्येण तपसा चैव तेऽधिकाः पूर्वजन्मनि ॥  
 मानवा ये महात्मानस्तत्र त्रेतायुगे युगे ।
@@ -635,9 +635,9 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-इत्येवमुक्तः स नराधिपेन  
+[^non-baroDa-CE] इत्येवमुक्तः स नराधिपेन  
 अवाक्शिरा दाशरथाय तस्मै ।  
-उवाच जातिं नृपपुङ्गवाय  
+[^non-baroDa-CE] उवाच जातिं नृपपुङ्गवाय  
 यत्कारणं चैव तपःप्रयत्नः ॥ १९ ॥
 _________________
 पातिते त्वनृते तस्मिन्नधर्मेण महीतले ।  
@@ -672,3 +672,4 @@ Thus addressed by that lord of men (_ity evam uktaḥ sa narādhipena_), that he
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

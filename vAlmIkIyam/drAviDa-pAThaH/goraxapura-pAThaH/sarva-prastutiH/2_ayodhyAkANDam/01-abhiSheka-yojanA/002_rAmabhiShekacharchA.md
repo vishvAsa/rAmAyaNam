@@ -258,8 +258,8 @@ In v. 53, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_)
 
 <details><summary>मूलम्</summary>
 
-राजलक्षणयुक्तेन कान्तेनानुपमेन च ।  
-उवाच रसयुक्तेन स्वरेण नृपतिर्नृपान् ॥ ३ ॥
+[^non-baroDa-CE] राजलक्षणयुक्तेन कान्तेनानुपमेन च ।  
+[^non-baroDa-CE] उवाच रसयुक्तेन स्वरेण नृपतिर्नृपान् ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -308,8 +308,8 @@ With a voice endowed with royal marks (_rāja-lakṣaṇa-yuktena_), charming, p
 
 <details><summary>मूलम्</summary>
 
-विदितं भवतामेतद् यथा मे राज्यमुत्तमम् ।  
-पूर्वकैर्मम राजेन्द्रैः सुतवत् परिपालितम् ॥ ४ ॥
+[^non-baroDa-CE] विदितं भवतामेतद् यथा मे राज्यमुत्तमम् ।  
+[^non-baroDa-CE] पूर्वकैर्मम राजेन्द्रैः सुतवत् परिपालितम् ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -883,8 +883,8 @@ shall be devoid of difficulties."
 
 <details><summary>मूलम्</summary>
 
-यदिदं मेऽनुरूपार्थं मया साधु सुमन्त्रितम् ।  
-भवन्तो मेऽनुमन्यन्तां कथं वा करवाण्यहम् ॥ १५ ॥
+[^non-baroDa-CE] यदिदं मेऽनुरूपार्थं मया साधु सुमन्त्रितम् ।  
+[^non-baroDa-CE] भवन्तो मेऽनुमन्यन्तां कथं वा करवाण्यहम् ॥ १५ ॥
 _________________
 यदीदं मेऽनुरूपार्थं मया साधु सुमन्त्रितम् ।  
 भवन्तो मेऽनुमन्यन्ता कथं वा करवाण्यहम् ॥
@@ -938,8 +938,8 @@ good and befitting. How else shall I do it?"
 
 <details><summary>मूलम्</summary>
 
-यद्यप्येषा मम प्रीतिर्हितमन्यद् विचिन्त्यताम् ।  
-अन्या मध्यस्थचिन्ता तु विमर्दाभ्यधिकोदया ॥ १६ ॥
+[^non-baroDa-CE] यद्यप्येषा मम प्रीतिर्हितमन्यद् विचिन्त्यताम् ।  
+[^non-baroDa-CE] अन्या मध्यस्थचिन्ता तु विमर्दाभ्यधिकोदया ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1101,8 +1101,8 @@ Unanimously endorsing the king’s proposal, the Brāhmaṇas, generals, citizen
 <details><summary>मूलम्</summary>
 
 तस्य धर्मार्थविदुषो भावमाज्ञाय सर्वशः ।  
-ब्राह्मणा बलमुख्याश्च पौरजानपदैः सह ॥ १९ ॥  
-समेत्य ते मन्त्रयितुं समतागतबुद्धयः ।  
+[^non-baroDa-CE] ब्राह्मणा बलमुख्याश्च पौरजानपदैः सह ॥ १९ ॥  
+[^non-baroDa-CE] समेत्य ते मन्त्रयितुं समतागतबुद्धयः ।  
 ऊचुश्च मनसा ज्ञात्वा वृद्धं दशरथं नृपम् ॥ २० ॥
 </details>
 
@@ -1215,8 +1215,8 @@ inaugurate Rama as the ruling prince."
 
 <details><summary>मूलम्</summary>
 
-इच्छामो हि महाबाहुं रघुवीरं महाबलम् ।  
-गजेन महता यान्तं रामं छत्रावृताननम् ॥ २२ ॥
+[^non-baroDa-CE] इच्छामो हि महाबाहुं रघुवीरं महाबलम् ।  
+[^non-baroDa-CE] गजेन महता यान्तं रामं छत्रावृताननम् ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1308,8 +1308,8 @@ Hearing those words of theirs which were so dear to his own heart (_manaḥ-priy
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वैतद् वचनं यन्मे राघवं पतिमिच्छथ ।  
-राजानः संशयोऽयं मे तदिदं ब्रूत तत्त्वतः ॥ २४ ॥
+[^non-baroDa-CE] श्रुत्वैतद् वचनं यन्मे राघवं पतिमिच्छथ ।  
+[^non-baroDa-CE] राजानः संशयोऽयं मे तदिदं ब्रूत तत्त्वतः ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1473,10 +1473,10 @@ Those high-souled monarchs, together with the city-dwellers and country-folk, re
 
 <details><summary>मूलम्</summary>
 
-गुणान् गुणवतो देव देवकल्पस्य धीमतः ।  
-प्रियानानन्दनान् कृत्स्नान् प्रवक्ष्यामोऽद्य तान्शृणु ॥ २७ ॥
+[^non-baroDa-CE] गुणान् गुणवतो देव देवकल्पस्य धीमतः ।  
+[^non-baroDa-CE] प्रियानानन्दनान् कृत्स्नान् प्रवक्ष्यामोऽद्य तान्शृणु ॥ २७ ॥
 _________________
-गुणान् गुणवतो देव देवकल्पस्य धीमतः ।  
+[^non-baroDa-CE] गुणान् गुणवतो देव देवकल्पस्य धीमतः ।  
 प्रियानानन्दनान्कृत्सान् प्रवक्ष्यामोऽद्य तान् शृणु ॥
 </details>
 
@@ -1577,10 +1577,10 @@ greater than all the kings born in Ikshvaaku clan."
 <details><summary>मूलम्</summary>
 
 रामः सत्पुरुषो लोके सत्यः सत्यपरायणः ।  
-साक्षाद् रामाद् विनिर्वृत्तो धर्मश्चापि श्रिया सह ॥ २९ ॥
+[^non-baroDa-CE] साक्षाद् रामाद् विनिर्वृत्तो धर्मश्चापि श्रिया सह ॥ २९ ॥
 _________________
 रामः सत्पुरुषो लोके सत्यः धर्मपरायणः ।  
-साक्षाद्रामाद्विनिर्वृत्तो धर्मश्चापि श्रिया सह ॥
+[^non-baroDa-CE] साक्षाद्रामाद्विनिर्वृत्तो धर्मश्चापि श्रिया सह ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1632,8 +1632,8 @@ righteousness. Only Rama can make both righteousness and wealth combine without 
 
 <details><summary>मूलम्</summary>
 
-प्रजासुखत्वे चन्द्रस्य वसुधायाः क्षमागुणैः ।  
-बुद‍्ध्या बृहस्पतेस्तुल्यो वीर्ये साक्षाच्छचीपतेः ॥ ३० ॥
+[^non-baroDa-CE] प्रजासुखत्वे चन्द्रस्य वसुधायाः क्षमागुणैः ।  
+[^non-baroDa-CE] बुद‍्ध्या बृहस्पतेस्तुल्यो वीर्ये साक्षाच्छचीपतेः ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1805,7 +1805,7 @@ world."
 <details><summary>मूलम्</summary>
 
 देवासुरमनुष्याणां सर्वास्त्रेषु विशारदः ।  
-सम्यग् विद्याव्रतस्नातो यथावत् साङ्गवेदवित् ॥ ३४ ॥
+[^non-baroDa-CE] सम्यग् विद्याव्रतस्नातो यथावत् साङ्गवेदवित् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1864,8 +1864,8 @@ acts.
 
 <details><summary>मूलम्</summary>
 
-गान्धर्वे च भुवि श्रेष्ठो बभूव भरताग्रजः ।  
-कल्याणाभिजनः साधुरदीनात्मा महामतिः ॥ ३५ ॥
+[^non-baroDa-CE] गान्धर्वे च भुवि श्रेष्ठो बभूव भरताग्रजः ।  
+[^non-baroDa-CE] कल्याणाभिजनः साधुरदीनात्मा महामतिः ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1912,7 +1912,7 @@ He is not weak in mind. He has great wisdom."
 
 <details><summary>मूलम्</summary>
 
-द्विजैरभिविनीतश्च श्रेष्ठैर्धर्मार्थनैपुणैः ।  
+[^non-baroDa-CE] द्विजैरभिविनीतश्च श्रेष्ठैर्धर्मार्थनैपुणैः ।  
 यदा व्रजति सङ्ग्रामं ग्रामार्थे नगरस्य वा ॥ ३६ ॥  
 गत्वा सौमित्रिसहितो नाविजित्य निवर्तते ।
 </details>
@@ -2138,8 +2138,8 @@ father does."
 <details><summary>मूलम्</summary>
 
 सत्यवादी महेष्वासो वृद्धसेवी जितेन्द्रियः ॥ ४१ ॥  
-स्मितपूर्वाभिभाषी च धर्मं सर्वात्मनाश्रितः ।  
-सम्यग्योक्ता श्रेयसां च न विगृह्यकथारुचिः ॥ ४२ ॥
+[^non-baroDa-CE] स्मितपूर्वाभिभाषी च धर्मं सर्वात्मनाश्रितः ।  
+[^non-baroDa-CE] सम्यग्योक्ता श्रेयसां च न विगृह्यकथारुचिः ॥ ४२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2210,8 +2210,8 @@ Comely as Lord Viṣṇu himself with shapely brows and large lotus-red eyes, R�
 
 <details><summary>मूलम्</summary>
 
-उत्तरोत्तरयुक्तौ च वक्ता वाचस्पतिर्यथा ।  
-सुभ्रूरायतताम्राक्षः साक्षाद् विष्णुरिव स्वयम् ॥ ४३ ॥
+[^non-baroDa-CE] उत्तरोत्तरयुक्तौ च वक्ता वाचस्पतिर्यथा ।  
+[^non-baroDa-CE] सुभ्रूरायतताम्राक्षः साक्षाद् विष्णुरिव स्वयम् ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2263,8 +2263,8 @@ is absolutely like the God Vishnu himself in strength, heroism and valour."
 
 <details><summary>मूलम्</summary>
 
-रामो लोकाभिरामोऽयं शौर्यवीर्यपराक्रमैः ।  
-प्रजापालनसंयुक्तो न रागोपहतेन्द्रियः ॥ ४४ ॥
+[^non-baroDa-CE] रामो लोकाभिरामोऽयं शौर्यवीर्यपराक्रमैः ।  
+[^non-baroDa-CE] प्रजापालनसंयुक्तो न रागोपहतेन्द्रियः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2315,11 +2315,11 @@ passion. He is capable of administering not only earth, but also the three world
 
 <details><summary>मूलम्</summary>
 
-शक्तस्त्रैलोक्यमप्येष भोक्तुं किं नु महीमिमाम् ।  
-नास्य क्रोधः प्रसादश्च निरर्थोऽस्ति कदाचन ॥ ४५ ॥
+[^non-baroDa-CE] शक्तस्त्रैलोक्यमप्येष भोक्तुं किं नु महीमिमाम् ।  
+[^non-baroDa-CE] नास्य क्रोधः प्रसादश्च निरर्थोऽस्ति कदाचन ॥ ४५ ॥
 _________________
 शक्तस्त्रॆೖलोक्यमप्येष भोक्तुं किं नु महीमिमाम् ।  
-नास्य क्रोधः प्रसादश्च निरर्थोऽस्ति कदाचन ॥
+[^non-baroDa-CE] नास्य क्रोधः प्रसादश्च निरर्थोऽस्ति कदाचन ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2371,8 +2371,8 @@ slain as per rules. He is not angered at the innocent."
 
 <details><summary>मूलम्</summary>
 
-हन्त्येष नियमाद् वध्यानवध्येषु न कुप्यति ।  
-युनक्त्यर्थैः प्रहृष्टश्च तमसौ यत्र तुष्यति ॥ ४६ ॥
+[^non-baroDa-CE] हन्त्येष नियमाद् वध्यानवध्येषु न कुप्यति ।  
+[^non-baroDa-CE] युनक्त्यर्थैः प्रहृष्टश्च तमसौ यत्र तुष्यति ॥ ४६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2403,7 +2403,7 @@ slain as per rules. He is not angered at the innocent."
 <details><summary>मूलम्</summary>
 
 दान्तैः सर्वप्रजाकान्तैः प्रीतिसञ्जननैर्नृणाम् ।  
-गुणैर्विरोचते रामो दीप्तः सूर्य इवांशुभिः ॥ ४७ ॥
+[^non-baroDa-CE] गुणैर्विरोचते रामो दीप्तः सूर्य इवांशुभिः ॥ ४७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2452,7 +2452,7 @@ men."
 <details><summary>मूलम्</summary>
 
 तमेवङ्गुणसम्पन्नं रामं सत्यपराक्रमम् ।  
-लोकपालोपमं नाथमकामयत मेदिनी ॥ ४८ ॥
+[^non-baroDa-CE] लोकपालोपमं नाथमकामयत मेदिनी ॥ ४८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2564,7 +2564,7 @@ Marichi."
 <details><summary>मूलम्</summary>
 
 बलमारोग्यमायुश्च रामस्य विदितात्मनः ।  
-देवासुरमनुष्येषु सगन्धर्वोरगेषु च ॥ ५० ॥  
+[^non-baroDa-CE] देवासुरमनुष्येषु सगन्धर्वोरगेषु च ॥ ५० ॥  
 आशंसते जनः सर्वो राष्ट्रे पुरवरे तथा ।  
 आभ्यन्तरश्च बाह्यश्च पौरजानपदो जनः ॥ ५१ ॥
 </details>
@@ -2795,3 +2795,4 @@ the entire world and who is possessing the best of virtues."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

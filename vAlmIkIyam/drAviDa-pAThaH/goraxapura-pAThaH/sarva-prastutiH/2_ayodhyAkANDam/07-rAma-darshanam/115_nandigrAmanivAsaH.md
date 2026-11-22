@@ -815,7 +815,7 @@ embellished with gold diffuse gain and security to the people."
 <details><summary>मूलम्</summary>
 
 भरतः शिरसा कृत्वा सन्न्यासं पादुके ततः ।  
-अब्रवीद् दुःखसन्तप्तः सर्वं प्रकृतिमण्डलम् ॥ १५ ॥
+[^non-baroDa-CE] अब्रवीद् दुःखसन्तप्तः सर्वं प्रकृतिमण्डलम् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -860,8 +860,8 @@ Having reverently placed upon his head the two sandals that were that sacred tru
 
 <details><summary>मूलम्</summary>
 
-छत्रं धारयत क्षिप्रमार्यपादाविमौ मतौ ।  
-आभ्यां राज्ये स्थितो धर्मः पादुकाभ्यां गुरोर्मम ॥ १६ ॥
+[^non-baroDa-CE] छत्रं धारयत क्षिप्रमार्यपादाविमौ मतौ ।  
+[^non-baroDa-CE] आभ्यां राज्ये स्थितो धर्मः पादुकाभ्यां गुरोर्मम ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1412,7 +1412,7 @@ consecrated the two sandals and dwelt then at Nandigrāma (_pāduke tv abhiṣic
 <details><summary>मूलम्</summary>
 
 ततस्तु भरतः श्रीमानभिषिच्यार्यपादुके ।  
-तदधीनस्तदा राज्यं कारयामास सर्वदा ॥ २६ ॥
+[^non-baroDa-CE] तदधीनस्तदा राज्यं कारयामास सर्वदा ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1460,9 +1460,9 @@ Then, having consecrated the two sandals of the noble one, the glorious Bharata 
 <details><summary>मूलम्</summary>
 
 तदा हि यत् कार्यमुपैति किञ्चि-  
-दुपायनं चोपहृतं महार्हम् ।  
-स पादुकाभ्यां प्रथमं निवेद्य  
-चकार पश्चाद् भरतो यथावत् ॥ २७ ॥
+[^non-baroDa-CE] दुपायनं चोपहृतं महार्हम् ।  
+[^non-baroDa-CE] स पादुकाभ्यां प्रथमं निवेद्य  
+[^non-baroDa-CE] चकार पश्चाद् भरतो यथावत् ॥ २७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1511,3 +1511,4 @@ Whatever affair of state arose then, or whatever costly tribute-gift was present
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

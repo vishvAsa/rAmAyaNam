@@ -93,8 +93,8 @@ Beautified on every side (_samantād upaśobhitām_) by sandalwood, aloe-wood, a
 
 <details><summary>मूलम्</summary>
 
-चम्पकाशोकपुन्नागमधूकपनसासनैः ।  
-शोभितां पारिजातैश्च विधूमज्वलनप्रभैः ॥ ३ ॥
+[^non-baroDa-CE] चम्पकाशोकपुन्नागमधूकपनसासनैः ।  
+[^non-baroDa-CE] शोभितां पारिजातैश्च विधूमज्वलनप्रभैः ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,8 +124,8 @@ Adorned with _campaka_, _aśoka_, _punnāga_, _madhūka_, jackfruit (_panasa_), 
 
 <details><summary>मूलम्</summary>
 
-लोध्रनीपार्जुनैर्नागैः सप्तपर्णातिमुक्तकैः ।  
-मन्दारकदलीगुल्मलताजालसमावृताम् ॥ ४ ॥
+[^non-baroDa-CE] लोध्रनीपार्जुनैर्नागैः सप्तपर्णातिमुक्तकैः ।  
+[^non-baroDa-CE] मन्दारकदलीगुल्मलताजालसमावृताम् ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -190,7 +190,7 @@ Graced with _priyaṅgu_, _kadamba_, and _vakula_ trees as well, and beautified 
 <details><summary>मूलम्</summary>
 
 सर्वदा कुसुमै रम्यैः फलवद्भिर्मनोरमैः ।  
-दिव्यगन्धरसोपेतैस्तरुणाङ्कुरपल्लवैः ॥ ६ ॥
+[^non-baroDa-CE] दिव्यगन्धरसोपेतैस्तरुणाङ्कुरपल्लवैः ॥ ६ ॥
 _________________
 सर्वदा कुसुमै रम्यैः फलवद्भिर्मनोरमैः ।  
 दिव्यगन्धरसोपैतैस्तरुणाङ्कुरपल्लवैः ॥
@@ -231,7 +231,7 @@ Tended by divine artisans and alive with koels, drongos, and jewel-bright trees 
 
 <details><summary>मूलम्</summary>
 
-तथैव तरुभिर्दिव्यैः शिल्पिभिः परिकल्पितैः ।  
+[^non-baroDa-CE] तथैव तरुभिर्दिव्यैः शिल्पिभिः परिकल्पितैः ।  
 चारुपल्लवपुष्पाढ्यैर्मत्तभ्रमरसङ्कुलैः ॥ ७ ॥
 </details>
 
@@ -324,7 +324,7 @@ Some trees there shone like burnished gold (_śātakumbha-nibhāḥ_), some rese
 
 <details><summary>मूलम्</summary>
 
-सुरभीणि च पुष्पाणि माल्यानि विविधानि च ।  
+[^non-baroDa-CE] सुरभीणि च पुष्पाणि माल्यानि विविधानि च ।  
 दीर्घिका विविधाकाराः पूर्णाः परमवारिणा ॥ १० ॥
 </details>
 
@@ -386,7 +386,7 @@ With stairways wrought of rubies (_māṇikya-kṛta-sopānāḥ_) and interior 
 
 <details><summary>मूलम्</summary>
 
-दात्यूहशुकसङ्घुष्टा हंससारसनादिताः ।  
+[^non-baroDa-CE] दात्यूहशुकसङ्घुष्टा हंससारसनादिताः ।  
 तरुभिः पुष्पशबलैस्तीरजैरुपशोभिताः ॥ १२ ॥
 </details>
 
@@ -462,8 +462,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-तत्र सङ्घर्षजातानां वृक्षाणां पुष्पशालिनाम् ॥ १४ ॥  
-प्रस्तराः पुष्पशबला नभस्तारागणैरिव ।
+[^non-baroDa-CE] तत्र सङ्घर्षजातानां वृक्षाणां पुष्पशालिनाम् ॥ १४ ॥  
+[^non-baroDa-CE] प्रस्तराः पुष्पशबला नभस्तारागणैरिव ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -727,7 +727,7 @@ Seated together with that Sītā (_sa tayā sītayā sārdham āsīnaḥ_), he s
 
 <details><summary>मूलम्</summary>
 
-स तया सीतया सार्धमासीनो विरराज ह ॥ २३ ॥  
+[^non-baroDa-CE] स तया सीतया सार्धमासीनो विरराज ह ॥ २३ ॥  
 अरुन्धत्या इवासीनो वसिष्ठ इव तेजसा ।
 </details>
 
@@ -798,9 +798,9 @@ Fulfilling royal duties every forenoon and joining the inner palace each afterno
 
 <details><summary>मूलम्</summary>
 
-तथा तयोर्विहरतोः सीताराघवयोश्चिरम् ॥ २५ ॥  
-अत्यक्रामच्छुभः कालः शैशिरो भोगदः सदा ।  
-प्राप्तयोर्विविधान् भोगानतीतः शिशिरागमः ॥ २६ ॥
+[^non-baroDa-CE] तथा तयोर्विहरतोः सीताराघवयोश्चिरम् ॥ २५ ॥  
+[^non-baroDa-CE] अत्यक्रामच्छुभः कालः शैशिरो भोगदः सदा ।  
+[^non-baroDa-CE] प्राप्तयोर्विविधान् भोगानतीतः शिशिरागमः ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -894,7 +894,7 @@ And then approached Rāma (_abhyagacchat tato rāmam_), arrayed in varied orname
 
 <details><summary>मूलम्</summary>
 
-अभ्यगच्छत् ततो रामं विचित्राभरणाम्बरा ।  
+[^non-baroDa-CE] अभ्यगच्छत् ततो रामं विचित्राभरणाम्बरा ।  
 त्रिविष्टपे सहस्राक्षमुपविष्टं यथा शची ॥ २९ ॥
 </details>
 
@@ -965,7 +965,7 @@ With a gentle smile, Sītā asks to visit the sacred hermitages along the Gaṅg
 
 <details><summary>मूलम्</summary>
 
-अब्रवीच्च वरारोहां सीतां सुरसुतोपमाम् ।  
+[^non-baroDa-CE] अब्रवीच्च वरारोहां सीतां सुरसुतोपमाम् ।  
 अपत्यलाभो वैदेहि त्वय्ययं समुपस्थितः ॥ ३१ ॥  
 किमिच्छसि वरारोहे कामः किं क्रियतां तव ।
 </details>
@@ -1107,3 +1107,4 @@ _________________
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

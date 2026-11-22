@@ -712,7 +712,7 @@ You always console me (_mām āśvāsayasi_) whenever I am deeply dejected (_suv
 <details><summary>मूलम्</summary>
 
 येनाद्य बहवो युद्धे निहता राक्षसाः क्षितौ ।  
-तस्यामेवाद्य शूरस्त्वं शेषे विनिहतः शनैः ॥ १४ ॥
+[^non-baroDa-CE] तस्यामेवाद्य शूरस्त्वं शेषे विनिहतः शनैः ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1708,3 +1708,4 @@ Seeing him advancing swiftly, resembling a mass of dark collyrium (_nīlāñjana
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

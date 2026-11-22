@@ -358,7 +358,7 @@ Sugrīva places his entire monkey army under Rāma's direct command, and Rāma e
 
 <details><summary>मूलम्</summary>
 
-त इमे बहुसाहस्रैरनीकैर्भीमविक्रमैः ।  
+[^non-baroDa-CE] त इमे बहुसाहस्रैरनीकैर्भीमविक्रमैः ।  
 आगता वानरा घोरा दैत्यदानवसन्निभाः ॥ ७ ॥
 </details>
 
@@ -1414,7 +1414,7 @@ _________________
 <details><summary>मूलम्</summary>
 
 एतेषां गिरिदुर्गेषु प्रपातेषु वनेषु च ।  
-मार्गध्वं सहिताः सर्वे रामपत्नीं यशस्विनीम् ॥ ३२ ॥
+[^non-baroDa-CE] मार्गध्वं सहिताः सर्वे रामपत्नीं यशस्विनीम् ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1495,9 +1495,9 @@ varuNa*, the Rain-god, and Celebes. More details are with: Vivekananda Kendra, K
 
 <details><summary>मूलम्</summary>
 
-ततो रक्तजलं प्राप्य शोणाख्यं शीघ्रवाहिनम् ।  
-गत्वा पारं समुद्रस्य सिद्धचारणसेवितम् ॥ ३३ ॥  
-तस्य तीर्थेषु रम्येषु विचित्रेषु वनेषु च ।  
+[^non-baroDa-CE] ततो रक्तजलं प्राप्य शोणाख्यं शीघ्रवाहिनम् ।  
+[^non-baroDa-CE] गत्वा पारं समुद्रस्य सिद्धचारणसेवितम् ॥ ३३ ॥  
+[^non-baroDa-CE] तस्य तीर्थेषु रम्येषु विचित्रेषु वनेषु च ।  
 रावणः सह वैदेह्या मार्गितव्यस्ततस्ततः ॥ ३४ ॥
 </details>
 
@@ -1560,8 +1560,8 @@ alongshore. Then proceed to an island called Plaksha Island. [4-40-34]
 
 <details><summary>मूलम्</summary>
 
-पर्वतप्रभवा नद्यः सुभीमबहुनिष्कुटाः ।  
-मार्गितव्या दरीमन्तः पर्वताश्च वनानि च ॥ ३५ ॥
+[^non-baroDa-CE] पर्वतप्रभवा नद्यः सुभीमबहुनिष्कुटाः ।  
+[^non-baroDa-CE] मार्गितव्या दरीमन्तः पर्वताश्च वनानि च ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1613,7 +1613,7 @@ and then proceed to Ikshu Island. [4-40-35]
 <details><summary>मूलम्</summary>
 
 ततः समुद्रद्वीपांश्च सुभीमान् द्रष्टुमर्हथ ।  
-ऊर्मिमन्तं महारौद्रं क्रोशन्तमनिलोद्धतम् ॥ ३६ ॥
+[^non-baroDa-CE] ऊर्मिमन्तं महारौद्रं क्रोशन्तमनिलोद्धतम् ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2102,7 +2102,7 @@ will be dangling upside down from mountain peaks. [4-40-41]
 
 ते पतन्ति जले नित्यं सूर्यस्योदयनं प्रति ।  
 अभितप्ताः स्म सूर्येण लम्बन्ते स्म पुनः पुनः ॥ ४२ ॥  
-निहता ब्रह्मतेजोभिरहन्यहनि राक्षसाः ।
+[^non-baroDa-CE] निहता ब्रह्मतेजोभिरहन्यहनि राक्षसाः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2575,8 +2575,8 @@ Golden Rock Mountain, which glitters like gold and which spreads across thirteen
 
 <details><summary>मूलम्</summary>
 
-तत्र चन्द्रप्रतीकाशं पन्नगं धरणीधरम् ।  
-पद्मपत्रविशालाक्षं ततो द्रक्ष्यथ वानराः ॥ ५१ ॥  
+[^non-baroDa-CE] तत्र चन्द्रप्रतीकाशं पन्नगं धरणीधरम् ।  
+[^non-baroDa-CE] पद्मपत्रविशालाक्षं ततो द्रक्ष्यथ वानराः ॥ ५१ ॥  
 आसीनं पर्वतस्याग्रे सर्वदेवनमस्कृतम् ।  
 सहस्रशिरसं देवमनन्तं नीलवाससम् ॥ ५२ ॥
 </details>
@@ -3227,11 +3227,11 @@ Sun. [4-40-63]
 
 <details><summary>मूलम्</summary>
 
-पूर्वमेतत् कृतं द्वारं पृथिव्या भुवनस्य च ।  
-सूर्यस्योदयनं चैव पूर्वा ह्येषा दिगुच्यते ॥ ६४ ॥
+[^non-baroDa-CE] पूर्वमेतत् कृतं द्वारं पृथिव्या भुवनस्य च ।  
+[^non-baroDa-CE] सूर्यस्योदयनं चैव पूर्वा ह्येषा दिगुच्यते ॥ ६४ ॥
 _________________
 पूर्वमेतत्कृतं द्वारं पृथिव्या भवनस्य च ।  
-सूर्यस्योदयनं चैव पूर्वा ह्येषा दिगुच्यते ॥
+[^non-baroDa-CE] सूर्यस्योदयनं चैव पूर्वा ह्येषा दिगुच्यते ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3289,8 +3289,8 @@ prathamam vartate tapaH | mahaa bhaarata*
 
 <details><summary>मूलम्</summary>
 
-तस्य शैलस्य पृष्ठेषु निर्झरेषु गुहासु च ।  
-रावणः सह वैदेह्या मार्गितव्यस्ततस्ततः ॥ ६५ ॥
+[^non-baroDa-CE] तस्य शैलस्य पृष्ठेषु निर्झरेषु गुहासु च ।  
+[^non-baroDa-CE] रावणः सह वैदेह्या मार्गितव्यस्ततस्ततः ॥ ६५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3699,3 +3699,4 @@ entity, the Supreme Person.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

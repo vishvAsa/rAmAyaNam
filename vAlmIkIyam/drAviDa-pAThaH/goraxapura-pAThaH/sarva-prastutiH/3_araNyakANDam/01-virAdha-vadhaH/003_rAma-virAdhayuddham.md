@@ -42,8 +42,8 @@ Questioned by the roaring Virādha, Rāma proclaims their noble Ikṣvāku linea
 
 <details><summary>मूलम्</summary>
 
-अथोवाच पुनर्वाक्यं विराधः पूरयन् वनम् ।  
-पृच्छतो मम हि ब्रूतं कौ युवां क्व गमिष्यथः ॥ १ ॥
+[^non-baroDa-CE] अथोवाच पुनर्वाक्यं विराधः पूरयन् वनम् ।  
+[^non-baroDa-CE] पृच्छतो मम हि ब्रूतं कौ युवां क्व गमिष्यथः ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -95,10 +95,10 @@ Then Virādha, filling the forest [with his roar] (_pūrayan vanam_), spoke agai
 
 <details><summary>मूलम्</summary>
 
-तमुवाच ततो रामो राक्षसं ज्वलिताननम् ।  
-पृच्छन्तं सुमहातेजा इक्ष्वाकुकुलमात्मनः ॥ २ ॥  
-क्षत्रियौ वृत्तसम्पन्नौ विद्धि नौ वनगोचरौ ।  
-त्वां तु वेदितुमिच्छावः कस्त्वं चरसि दण्डकान् ॥ ३ ॥
+[^non-baroDa-CE] तमुवाच ततो रामो राक्षसं ज्वलिताननम् ।  
+[^non-baroDa-CE] पृच्छन्तं सुमहातेजा इक्ष्वाकुकुलमात्मनः ॥ २ ॥  
+[^non-baroDa-CE] क्षत्रियौ वृत्तसम्पन्नौ विद्धि नौ वनगोचरौ ।  
+[^non-baroDa-CE] त्वां तु वेदितुमिच्छावः कस्त्वं चरसि दण्डकान् ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -257,8 +257,8 @@ Glossing शिवायुतम् as echoing with jackals (शिवाभी
 
 <details><summary>मूलम्</summary>
 
-तमुवाच विराधस्तु रामं सत्यपराक्रमम् ।  
-हन्त वक्ष्यामि ते राजन् निबोध मम राघव ॥ ४ ॥
+[^non-baroDa-CE] तमुवाच विराधस्तु रामं सत्यपराक्रमम् ।  
+[^non-baroDa-CE] हन्त वक्ष्यामि ते राजन् निबोध मम राघव ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -307,8 +307,8 @@ Virādha then spoke to Rāma of unfailing valour (_satya-parākramam_): “Aha (
 
 <details><summary>मूलम्</summary>
 
-पुत्रः किल जवस्याहं माता मम शतह्रदा ।  
-विराध इति मामाहुः पृथिव्यां सर्वराक्षसाः ॥ ५ ॥
+[^non-baroDa-CE] पुत्रः किल जवस्याहं माता मम शतह्रदा ।  
+[^non-baroDa-CE] विराध इति मामाहुः पृथिव्यां सर्वराक्षसाः ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -357,8 +357,8 @@ me, call.
 
 <details><summary>मूलम्</summary>
 
-तपसा चाभिसम्प्राप्ता ब्रह्मणो हि प्रसादजा ।  
-शस्त्रेणावध्यता लोकेऽच्छेद्याभेद्यत्वमेव च ॥ ६ ॥
+[^non-baroDa-CE] तपसा चाभिसम्प्राप्ता ब्रह्मणो हि प्रसादजा ।  
+[^non-baroDa-CE] शस्त्रेणावध्यता लोकेऽच्छेद्याभेद्यत्वमेव च ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -416,8 +416,8 @@ When Virādha bids the brothers abandon Sītā and flee for their lives, Rāma r
 
 <details><summary>मूलम्</summary>
 
-उत्सृज्य प्रमदामेनामनपेक्षौ यथागतम् ।  
-त्वरमाणौ पलायेथां न वां जीवितमाददे ॥ ७ ॥
+[^non-baroDa-CE] उत्सृज्य प्रमदामेनामनपेक्षौ यथागतम् ।  
+[^non-baroDa-CE] त्वरमाणौ पलायेथां न वां जीवितमाददे ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -467,8 +467,8 @@ not be snatched away... [3-3-7]
 
 <details><summary>मूलम्</summary>
 
-तं रामः प्रत्युवाचेदं कोपसंरक्तलोचनः ।  
-राक्षसं विकृताकारं विराधं पापचेतसम् ॥ ८ ॥
+[^non-baroDa-CE] तं रामः प्रत्युवाचेदं कोपसंरक्तलोचनः ।  
+[^non-baroDa-CE] राक्षसं विकृताकारं विराधं पापचेतसम् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -518,10 +518,10 @@ His eyes bloodshot with wrath (_kopa-saṃrakta-locanaḥ_), Rāma replied thus 
 
 <details><summary>मूलम्</summary>
 
-क्षुद्र धिक् त्वां तु हीनार्थं मृत्युमन्वेषसे ध्रुवम् ।  
+[^non-baroDa-CE] क्षुद्र धिक् त्वां तु हीनार्थं मृत्युमन्वेषसे ध्रुवम् ।  
 रणे प्राप्स्यसि सन्तिष्ठ न मे जीवन् विमोक्ष्यसे ॥ ९ ॥
 _________________
-क्षुद्र धिक् त्वां तु हीनार्थं मृत्यु मन्वेषसेध्रुवम् ।  
+[^non-baroDa-CE] क्षुद्र धिक् त्वां तु हीनार्थं मृत्यु मन्वेषसेध्रुवम् ।  
 रणे प्राप्स्यसि सन्तिष्ठ न मे जीवन् विमोक्षसॆसे ॥
 </details>
 
@@ -572,7 +572,7 @@ this confrontation. Stay! I will not let you to live... [3-3-9]
 
 <details><summary>मूलम्</summary>
 
-ततः सज्यं धनुः कृत्वा रामः सुनिशितान् शरान् ।  
+[^non-baroDa-CE] ततः सज्यं धनुः कृत्वा रामः सुनिशितान् शरान् ।  
 सुशीघ्रमभिसन्धाय राक्षसं निजघान ह ॥ १० ॥
 </details>
 
@@ -622,8 +622,8 @@ Then, stringing his bow (_sajyaṃ dhanuḥ kṛtvā_) and swiftly fitting razor
 
 <details><summary>मूलम्</summary>
 
-धनुषा ज्यागुणवता सप्त बाणान् मुमोच ह ।  
-रुक्मपुङ्खान् महावेगान् सुपर्णानिलतुल्यगान् ॥ ११ ॥
+[^non-baroDa-CE] धनुषा ज्यागुणवता सप्त बाणान् मुमोच ह ।  
+[^non-baroDa-CE] रुक्मपुङ्खान् महावेगान् सुपर्णानिलतुल्यगान् ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -673,8 +673,8 @@ From his bow fitted with its bowstring (_dhanuṣā jyā-guṇavatā_), he loose
 
 <details><summary>मूलम्</summary>
 
-ते शरीरं विराधस्य भित्त्वा बर्हिणवाससः ।  
-निपेतुः शोणितादिग्धा धरण्यां पावकोपमाः ॥ १२ ॥
+[^non-baroDa-CE] ते शरीरं विराधस्य भित्त्वा बर्हिणवाससः ।  
+[^non-baroDa-CE] निपेतुः शोणितादिग्धा धरण्यां पावकोपमाः ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -726,7 +726,7 @@ Setting Sītā down, the wounded Virādha charges with his upraised pike; when t
 
 <details><summary>मूलम्</summary>
 
-स विद्धो न्यस्य वैदेहीं शूलमुद्यम्य राक्षसः ।  
+[^non-baroDa-CE] स विद्धो न्यस्य वैदेहीं शूलमुद्यम्य राक्षसः ।  
 अभ्यद्रवत् सुसङ्क्रुद्धस्तदा रामं सलक्ष्मणम् ॥ १३ ॥
 </details>
 
@@ -777,8 +777,8 @@ Pierced (_viddhaḥ_), that _rākṣasa_ set Vaidehī down [upon the ground] (_n
 
 <details><summary>मूलम्</summary>
 
-स विनद्य महानादं शूलं शक्रध्वजोपमम् ।  
-प्रगृह्याशोभत तदा व्यात्तानन इवान्तकः ॥ १४ ॥
+[^non-baroDa-CE] स विनद्य महानादं शूलं शक्रध्वजोपमम् ।  
+[^non-baroDa-CE] प्रगृह्याशोभत तदा व्यात्तानन इवान्तकः ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -828,8 +828,8 @@ Uttering a mighty roar (_vinadya mahā-nādam_) and grasping his pike that resem
 
 <details><summary>मूलम्</summary>
 
-अथ तौ भ्रातरौ दीप्तं शरवर्षं ववर्षतुः ।  
-विराधे राक्षसे तस्मिन् कालान्तकयमोपमे ॥ १५ ॥
+[^non-baroDa-CE] अथ तौ भ्रातरौ दीप्तं शरवर्षं ववर्षतुः ।  
+[^non-baroDa-CE] विराधे राक्षसे तस्मिन् कालान्तकयमोपमे ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -879,8 +879,8 @@ Then the two brothers rained down a blazing shower of arrows (_dīptaṃ śara-v
 
 <details><summary>मूलम्</summary>
 
-स प्रहस्य महारौद्रः स्थित्वाजृम्भत राक्षसः ।  
-जृम्भमाणस्य ते बाणाः कायान्निष्पेतुराशुगाः ॥ १६ ॥
+[^non-baroDa-CE] स प्रहस्य महारौद्रः स्थित्वाजृम्भत राक्षसः ।  
+[^non-baroDa-CE] जृम्भमाणस्य ते बाणाः कायान्निष्पेतुराशुगाः ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -930,8 +930,8 @@ Laughing aloud (_prahasya_), that fiercely dreadful _rākṣasa_ stood still and
 
 <details><summary>मूलम्</summary>
 
-स्पर्शात् तु वरदानेन प्राणान् संरोध्य राक्षसः ।  
-विराधः शूलमुद्यम्य राघवावभ्यधावत ॥ १७ ॥
+[^non-baroDa-CE] स्पर्शात् तु वरदानेन प्राणान् संरोध्य राक्षसः ।  
+[^non-baroDa-CE] विराधः शूलमुद्यम्य राघवावभ्यधावत ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -989,7 +989,7 @@ Rāma shatters Virādha's iron pike with two arrows and the brothers slash him w
 <details><summary>मूलम्</summary>
 
 तच्छूलं वज्रसङ्काशं गगने ज्वलनोपमम् ।  
-द्वाभ्यां शराभ्यां चिच्छेद रामः शस्त्रभृतां वरः ॥ १८ ॥
+[^non-baroDa-CE] द्वाभ्यां शराभ्यां चिच्छेद रामः शस्त्रभृतां वरः ॥ १८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1039,8 +1039,8 @@ With two arrows (_dvābhyāṃ śarābhyām_), Rāma, foremost of weapon-wielder
 
 <details><summary>मूलम्</summary>
 
-तद् रामविशिखैश्छिन्नं शूलं तस्यापतद् भुवि ।  
-पपाताशनिना छिन्नं मेरोरिव शिलातलम् ॥ १९ ॥
+[^non-baroDa-CE] तद् रामविशिखैश्छिन्नं शूलं तस्यापतद् भुवि ।  
+[^non-baroDa-CE] पपाताशनिना छिन्नं मेरोरिव शिलातलम् ॥ १९ ॥
 _________________
 तद्रामविशिखैच्छिन्नं शूलं तस्यापतद् भुवि ।  
 पपाताशनिना च्छिन्नं मेरोरिव शिलातलम् ॥
@@ -1093,10 +1093,10 @@ Severed by Rāma’s shafts (_rāma-viśikhaiś chinnam_), that pike of his fell
 
 <details><summary>मूलम्</summary>
 
-तौ खड्गौ क्षिप्रमुद्यम्य कृष्णसर्पाविवोद्यतौ ।  
-तूर्णमापेततुस्तस्य तदा प्रहरतां बलात् ॥ २० ॥
+[^non-baroDa-CE] तौ खड्गौ क्षिप्रमुद्यम्य कृष्णसर्पाविवोद्यतौ ।  
+[^non-baroDa-CE] तूर्णमापेततुस्तस्य तदा प्रहरतां बलात् ॥ २० ॥
 _________________
-तौ खड्गौ क्षिप्रमुद्यम्य कृष्ण सर्पाविवोद्यतौ ।  
+[^non-baroDa-CE] तौ खड्गौ क्षिप्रमुद्यम्य कृष्ण सर्पाविवोद्यतौ ।  
 तूर्णमापततुस्तस्य तदा प्रहरतां बलात् ॥
 </details>
 
@@ -1147,10 +1147,10 @@ Swiftly drawing their two swords (_tau khaḍgau kṣipram udyamya_), which were
 
 <details><summary>मूलम्</summary>
 
-स वध्यमानः सुभृशं भुजाभ्यां परिगृह्य तौ ।  
-अप्रकम्प्यौ नरव्याघ्रौ रौद्रः प्रस्थातुमैच्छत ॥ २१ ॥
+[^non-baroDa-CE] स वध्यमानः सुभृशं भुजाभ्यां परिगृह्य तौ ।  
+[^non-baroDa-CE] अप्रकम्प्यौ नरव्याघ्रौ रौद्रः प्रस्थातुमैच्छत ॥ २१ ॥
 _________________
-स वध्यमानः सुभृशं भुजाभ्यां परिगृह्य तौ ।  
+[^non-baroDa-CE] स वध्यमानः सुभृशं भुजाभ्यां परिगृह्य तौ ।  
 अप्रकङ्क्ष्या नरव्याघ्रौ रौद्रः प्रस्थातुमैच्छत ॥
 </details>
 
@@ -1211,10 +1211,10 @@ Recognizing that Virādha's course matches their own forest path, Rāma consents
 
 <details><summary>मूलम्</summary>
 
-तस्याभिप्रायमाज्ञाय रामो लक्ष्मणमब्रवीत् ।  
-वहत्वयमलं तावत् पथानेन तु राक्षसः ॥ २२ ॥  
-यथा चेच्छति सौमित्रे तथा वहतु राक्षसः ।  
-अयमेव हि नः पन्था येन याति निशाचरः ॥ २३ ॥
+[^non-baroDa-CE] तस्याभिप्रायमाज्ञाय रामो लक्ष्मणमब्रवीत् ।  
+[^non-baroDa-CE] वहत्वयमलं तावत् पथानेन तु राक्षसः ॥ २२ ॥  
+[^non-baroDa-CE] यथा चेच्छति सौमित्रे तथा वहतु राक्षसः ।  
+[^non-baroDa-CE] अयमेव हि नः पन्था येन याति निशाचरः ॥ २३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1268,8 +1268,8 @@ to tread his own way towards his own grave.
 
 <details><summary>मूलम्</summary>
 
-स तु स्वबलवीर्येण समुत्क्षिप्य निशाचरः ।  
-बालाविव स्कन्धगतौ चकारातिबलोद्धतः ॥ २४ ॥
+[^non-baroDa-CE] स तु स्वबलवीर्येण समुत्क्षिप्य निशाचरः ।  
+[^non-baroDa-CE] बालाविव स्कन्धगतौ चकारातिबलोद्धतः ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1332,10 +1332,10 @@ Then that night-ranger, haughty with excessive strength (_atibaloddhataḥ_), li
 
 <details><summary>मूलम्</summary>
 
-तावारोप्य ततः स्कन्धं राघवौ रजनीचरः ।  
-विराधो विनदन् घोरं जगामाभिमुखो वनम् ॥ २५ ॥
+[^non-baroDa-CE] तावारोप्य ततः स्कन्धं राघवौ रजनीचरः ।  
+[^non-baroDa-CE] विराधो विनदन् घोरं जगामाभिमुखो वनम् ॥ २५ ॥
 _________________
-तावारोप्य ततः स्कन्धं राघवौ रजनीचरः ।  
+[^non-baroDa-CE] तावारोप्य ततः स्कन्धं राघवौ रजनीचरः ।  
 विराधो निनदन् घोरं जगामाभिमुखो वनम् ॥
 </details>
 
@@ -1388,10 +1388,10 @@ Having mounted the two Rāghavas upon his shoulder (_tāv āropya tataḥ skandh
 
 <details><summary>मूलम्</summary>
 
-वनं महामेघनिभं प्रविष्टो  
-द्रुमैर्महद्भिर्विविधैरुपेतम् ।  
-नानाविधैः पक्षिकुलैर्विचित्रं  
-शिवायुतं व्यालमृगैर्विकीर्णम् ॥ २६ ॥
+[^non-baroDa-CE] वनं महामेघनिभं प्रविष्टो  
+[^non-baroDa-CE] द्रुमैर्महद्भिर्विविधैरुपेतम् ।  
+[^non-baroDa-CE] नानाविधैः पक्षिकुलैर्विचित्रं  
+[^non-baroDa-CE] शिवायुतं व्यालमृगैर्विकीर्णम् ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1447,3 +1447,4 @@ He entered a forest dark as a great cloud (_vanaṃ mahā-megha-nibhaṃ pravi�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

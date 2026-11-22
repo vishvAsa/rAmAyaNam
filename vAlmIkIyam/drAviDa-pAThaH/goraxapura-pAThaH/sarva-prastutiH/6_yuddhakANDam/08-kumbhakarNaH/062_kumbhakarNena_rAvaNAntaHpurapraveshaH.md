@@ -235,8 +235,8 @@ Entering the abode of the Rākṣasa king just as the sun enters a bank of cloud
 
 <details><summary>मूलम्</summary>
 
-भ्रातुः स भवनं गच्छन् रक्षोगणसमन्वितः ।  
-कुम्भकर्णः पदन्यासैरकम्पयत मेदिनीम् ॥ ५ ॥
+[^non-baroDa-CE] भ्रातुः स भवनं गच्छन् रक्षोगणसमन्वितः ।  
+[^non-baroDa-CE] कुम्भकर्णः पदन्यासैरकम्पयत मेदिनीम् ॥ ५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -809,7 +809,7 @@ with an ocean full of monkeys."
 
 ये राक्षसा मुख्यतमा हतास्ते वानरैर्युधि ॥ १६ ॥  
 वानराणां क्षयं युद्धे न पश्यामि कथञ्चन ।  
-न चापि वानरा युद्धे जितपूर्वाः कदाचन ॥ १७ ॥
+[^non-baroDa-CE] न चापि वानरा युद्धे जितपूर्वाः कदाचन ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -866,8 +866,8 @@ time before, in a combat."
 
 <details><summary>मूलम्</summary>
 
-तदेतद् भयमुत्पन्नं त्रायस्वेह महाबल ।  
-नाशय त्वमिमानद्य तदर्थं बोधितो भवान् ॥ १८ ॥
+[^non-baroDa-CE] तदेतद् भयमुत्पन्नं त्रायस्वेह महाबल ।  
+[^non-baroDa-CE] नाशय त्वमिमानद्य तदर्थं बोधितो भवान् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1105,7 +1105,7 @@ indeed no one, in the entire beings, who is equal to you in strength."
 
 <details><summary>मूलम्</summary>
 
-तदेतत् सर्वमातिष्ठ वीर्यं भीमपराक्रम ।  
+[^non-baroDa-CE] तदेतत् सर्वमातिष्ठ वीर्यं भीमपराक्रम ।  
 नहि ते सर्वभूतेषु दृश्यते सदृशो बली ॥ २३ ॥
 </details>
 
@@ -1192,3 +1192,4 @@ adversaries by your vital power, as an autumnal cloud is blown away by a high-ri
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

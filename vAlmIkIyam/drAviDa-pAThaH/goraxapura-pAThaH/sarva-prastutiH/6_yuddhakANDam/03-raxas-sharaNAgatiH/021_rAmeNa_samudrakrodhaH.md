@@ -44,8 +44,8 @@ Spreading sacred darbha grass along the seashore and folding his hands toward th
 
 <details><summary>मूलम्</summary>
 
-ततः सागरवेलायां दर्भानास्तीर्य राघवः ।  
-अञ्जलिं प्राङ्मुखः कृत्वा प्रतिशिश्ये महोदधेः ॥ १ ॥
+[^non-baroDa-CE] ततः सागरवेलायां दर्भानास्तीर्य राघवः ।  
+[^non-baroDa-CE] अञ्जलिं प्राङ्मुखः कृत्वा प्रतिशिश्ये महोदधेः ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -90,8 +90,8 @@ Then, spreading sacred _darbha_ grass (_darbhān āstīrya_) along the shore of 
 
 <details><summary>मूलम्</summary>
 
-बाहुं भुजङ्गभोगाभमुपधायारिसूदनः ।  
-जातरूपमयैश्चैव भूषणैर्भूषितं पुरा ॥ २ ॥
+[^non-baroDa-CE] बाहुं भुजङ्गभोगाभमुपधायारिसूदनः ।  
+[^non-baroDa-CE] जातरूपमयैश्चैव भूषणैर्भूषितं पुरा ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -121,8 +121,8 @@ The slayer of foes (_arisūdanaḥ_), using as his pillow (_upadhāya_) his arm 
 
 <details><summary>मूलम्</summary>
 
-मणिकाञ्चनकेयूरमुक्ताप्रवरभूषणैः ।  
-भुजैः परमनारीणामभिमृष्टमनेकधा ॥ ३ ॥
+[^non-baroDa-CE] मणिकाञ्चनकेयूरमुक्ताप्रवरभूषणैः ।  
+[^non-baroDa-CE] भुजैः परमनारीणामभिमृष्टमनेकधा ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -160,8 +160,8 @@ How could Rāma's arm be touched by the arms of `supreme women' (भुजैः
 
 <details><summary>मूलम्</summary>
 
-चन्दनागुरुभिश्चैव पुरस्तादभिसेवितम् ।  
-बालसूर्यप्रकाशैश्च चन्दनैरुपशोभितम् ॥ ४ ॥
+[^non-baroDa-CE] चन्दनागुरुभिश्चैव पुरस्तादभिसेवितम् ।  
+[^non-baroDa-CE] बालसूर्यप्रकाशैश्च चन्दनैरुपशोभितम् ॥ ४ ॥
 _________________
 चन्दनागरुभिश्चैव पुरस्तादभि सेवितम् ।  
 बालसूर्य प्रतीकाशैश्च चन्दनैरुपशोभितम् ॥
@@ -209,8 +209,8 @@ Which formerly had been honored (_abhisevitam_) with sandalwood and aloe (_canda
 
 <details><summary>मूलम्</summary>
 
-शयने चोत्तमाङ्गेन सीतायाः शोभितं पुरा ।  
-तक्षकस्येव सम्भोगं गङ्गाजलनिषेवितम् ॥ ५ ॥
+[^non-baroDa-CE] शयने चोत्तमाङ्गेन सीतायाः शोभितं पुरा ।  
+[^non-baroDa-CE] तक्षकस्येव सम्भोगं गङ्गाजलनिषेवितम् ॥ ५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -267,7 +267,7 @@ On the simile in verse 5, **Tilaka** and **Śiromaṇi** explain that Rāma's da
 <details><summary>मूलम्</summary>
 
 संयुगे युगसङ्काशं शत्रूणां शोकवर्धनम् ।  
-सुहृदां नन्दनं दीर्घं सागरान्तव्यपाश्रयम् ॥ ६ ॥
+[^non-baroDa-CE] सुहृदां नन्दनं दीर्घं सागरान्तव्यपाश्रयम् ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -331,18 +331,18 @@ Pillowing his head upon his mighty right arm, Rāma vows either to cross the sea
 
 <details><summary>मूलम्</summary>
 
-अस्यता च पुनः सव्यं ज्याघातविहतत्वचम् ।  
+[^non-baroDa-CE] अस्यता च पुनः सव्यं ज्याघातविहतत्वचम् ।  
 दक्षिणो दक्षिणं बाहुं महापरिघसन्निभम् ॥ ७ ॥  
-गोसहस्रप्रदातारं ह्युपधाय भुजं महत् ।  
-अद्य मे तरणं वाथ मरणं सागरस्य वा ॥ ८ ॥  
-इति रामो धृतिं कृत्वा महाबाहुर्महोदधिम् ।  
-अधिशिष्ये च विधिवत् प्रयतो नियतो मुनिः ॥ ९ ॥
+[^non-baroDa-CE] गोसहस्रप्रदातारं ह्युपधाय भुजं महत् ।  
+[^non-baroDa-CE] अद्य मे तरणं वाथ मरणं सागरस्य वा ॥ ८ ॥  
+[^non-baroDa-CE] इति रामो धृतिं कृत्वा महाबाहुर्महोदधिम् ।  
+[^non-baroDa-CE] अधिशिष्ये च विधिवत् प्रयतो नियतो मुनिः ॥ ९ ॥
 _________________
-अस्यता च पुनः सव्यं ज्याघातविहतत्वचम् ।  
+[^non-baroDa-CE] अस्यता च पुनः सव्यं ज्याघातविहतत्वचम् ।  
 दक्षिणो दक्षिणं बाहुं महापरिघ सन्निभम् ॥
-गोसहस्रप्रदातारंह्युपधाय भुजं महत् ।  
-अद्य मे तरणं वाथ मरणं सागरस्य वा ॥
-इति रामो धृतिं कृत्वा महाबाहुर्महोदधिम् ।  
+[^non-baroDa-CE] गोसहस्रप्रदातारंह्युपधाय भुजं महत् ।  
+[^non-baroDa-CE] अद्य मे तरणं वाथ मरणं सागरस्य वा ॥
+[^non-baroDa-CE] इति रामो धृतिं कृत्वा महाबाहुर्महोदधिम् ।  
 अधिशिश्ये च विधिवत् प्रयतो नियतो मुनिः ॥
 </details>
 
@@ -482,8 +482,8 @@ As that Rāma lay upon the ground strewn with _kuśa_ grass, unswerving from his
 
 <details><summary>मूलम्</summary>
 
-स त्रिरात्रोषितस्तत्र नयज्ञो धर्मवत्सलः ।  
-उपासत तदा रामः सागरं सरितां पतिम् ॥ ११ ॥  
+[^non-baroDa-CE] स त्रिरात्रोषितस्तत्र नयज्ञो धर्मवत्सलः ।  
+[^non-baroDa-CE] उपासत तदा रामः सागरं सरितां पतिम् ॥ ११ ॥  
 न च दर्शयते रूपं मन्दो रामस्य सागरः ।  
 प्रयतेनापि रामेण यथार्हमभिपूजितः ॥ १२ ॥
 </details>
@@ -874,7 +874,7 @@ Connecting verses 17b–19a syntactically, all three commentators explain that R
 
 <details><summary>मूलम्</summary>
 
-भोगिनां पश्य भोगानि मया भिन्नानि लक्ष्मण ॥ १८ ॥  
+[^non-baroDa-CE] भोगिनां पश्य भोगानि मया भिन्नानि लक्ष्मण ॥ १८ ॥  
 महाभोगानि मत्स्यानां करिणां च करानिह ।
 </details>
 
@@ -1048,11 +1048,11 @@ It is a great mistake to show forbearance to such an individual."
 
 <details><summary>मूलम्</summary>
 
-न दर्शयति साम्ना मे सागरो रूपमात्मनः ॥ २१ ॥  
+[^non-baroDa-CE] न दर्शयति साम्ना मे सागरो रूपमात्मनः ॥ २१ ॥  
 चापमानय सौमित्रे शरांश्चाशीविषोपमान् ।  
 समुद्रं शोषयिष्यामि पद्भ्यां यान्तु प्लवङ्गमाः ॥ २२ ॥
 _________________
-न दर्शयति साम्ना मे सागरो रूपमात्मनः ॥
+[^non-baroDa-CE] न दर्शयति साम्ना मे सागरो रूपमात्मनः ॥
 चापमानय सौमित्रे शरांश्चाशीविषोपमान् ।  
 सागरं शोषयिष्यामि पद्भ्यां यान्तु प्लवङ्गमाः ॥
 </details>
@@ -1678,10 +1678,10 @@ With its multitudes of waves whirling (_āghūrṇitataraṅgaughaḥ_), its ser
 
 <details><summary>मूलम्</summary>
 
-ततस्तु तं राघवमुग्रवेगं  
-प्रकर्षमाणं धनुरप्रमेयम् ।  
-सौमित्रिरुत्पत्य विनिःश्वसन्तं  
-मामेति चोक्त्वा धनुराललम्बे ॥ ३३ ॥
+[^non-baroDa-CE] ततस्तु तं राघवमुग्रवेगं  
+[^non-baroDa-CE] प्रकर्षमाणं धनुरप्रमेयम् ।  
+[^non-baroDa-CE] सौमित्रिरुत्पत्य विनिःश्वसन्तं  
+[^non-baroDa-CE] मामेति चोक्त्वा धनुराललम्बे ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1747,10 +1747,10 @@ As Rāma, hissing with wrath (विनिःश्वसन्तम् / स�
 
 <details><summary>मूलम्</summary>
 
-एतद्विनापि ह्युदधेस्तवाद्य  
-सम्पत्स्यते वीरतमस्य कार्यम् ।  
-भवद्विधाः क्रोधवशं न यान्ति  
-दीर्घं भवान् पश्यतु साधुवृत्तम् ॥ ३४ ॥
+[^non-baroDa-CE] एतद्विनापि ह्युदधेस्तवाद्य  
+[^non-baroDa-CE] सम्पत्स्यते वीरतमस्य कार्यम् ।  
+[^non-baroDa-CE] भवद्विधाः क्रोधवशं न यान्ति  
+[^non-baroDa-CE] दीर्घं भवान् पश्यतु साधुवृत्तम् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1808,15 +1808,15 @@ durable and noble alternative"
 
 <details><summary>मूलम्</summary>
 
-अन्तर्हितैश्चापि तथान्तरिक्षे  
-ब्रह्मर्षिभिश्चैव सुरर्षिभिश्च ।  
-शब्दः कृतः कष्टमिति ब्रुवद्भि-  
-र्मामेति चोक्त्वा महता स्वरेण ॥ ३५ ॥
+[^non-baroDa-CE] अन्तर्हितैश्चापि तथान्तरिक्षे  
+[^non-baroDa-CE] ब्रह्मर्षिभिश्चैव सुरर्षिभिश्च ।  
+[^non-baroDa-CE] शब्दः कृतः कष्टमिति ब्रुवद्भि-  
+[^non-baroDa-CE] र्मामेति चोक्त्वा महता स्वरेण ॥ ३५ ॥
 _________________
-अन्तर्हितैश्चापि तथान्तरिक्षे  
-ब्रह्मर्षिभिश्चैव सुरर्षिभिश्च ।  
+[^non-baroDa-CE] अन्तर्हितैश्चापि तथान्तरिक्षे  
+[^non-baroDa-CE] ब्रह्मर्षिभिश्चैव सुरर्षिभिश्च ।  
 शब्दः कृतः कष्टमिति ब्रुवद्भिः  
-मामेति चोक्त्वा महता स्वरेण ॥
+[^non-baroDa-CE] मामेति चोक्त्वा महता स्वरेण ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1870,3 +1870,5 @@ And in the sky, invisible (_antarhitaiḥ_) _brahmarṣis_ and _devarṣis_ (_su
 Simultaneously, invisible _brahmarṣis_ and _devarṣis_ stationed in mid-air (अन्तरिक्षे अन्तर्हितैः तिरोहिततया संस्थितैः) raise an anguished cry of `Alas!' (कष्टमिति हाहाशब्दः कृतः) and `Do not! Do not!' (मा मेति). **Śiromaṇi** ingeniously notes an alternative parsing of मामेति: read as a single word (मां माम्), the sages cry `Spare me! Spare me!'—identifying the cosmic welfare with their own lives!
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

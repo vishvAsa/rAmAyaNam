@@ -110,7 +110,7 @@ Stung by Vasiṣṭha’s warning “you shall cease to live” (_evam ukto na b
 
 <details><summary>मूलम्</summary>
 
-ब्रह्मदण्डं समुद्यम्य कालदण्डमिवापरम् ।  
+[^non-baroDa-CE] ब्रह्मदण्डं समुद्यम्य कालदण्डमिवापरम् ।  
 वसिष्ठो भगवान् क्रोधादिदं वचनमब्रवीत् ॥ २ ॥
 </details>
 
@@ -1214,3 +1214,4 @@ Having witnessed the supremacy of Brahmanic luster, Viśvāmitra casts off his w
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

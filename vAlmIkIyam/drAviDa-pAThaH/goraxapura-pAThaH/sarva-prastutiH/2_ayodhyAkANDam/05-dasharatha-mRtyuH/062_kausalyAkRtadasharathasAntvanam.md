@@ -316,7 +316,7 @@ Distraught in mind by that grief and by his grief for Rāma (_amanās tena śoke
 <details><summary>मूलम्</summary>
 
 दह्यमानस्तु शोकाभ्यां कौसल्यामाह दुःखितः ।  
-वेपमानोऽञ्जलिं कृत्वा प्रसादार्थमवाङ्मुखः ॥ ६ ॥
+[^non-baroDa-CE] वेपमानोऽञ्जलिं कृत्वा प्रसादार्थमवाङ्मुखः ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1114,3 +1114,4 @@ feeble and turned towards night too.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

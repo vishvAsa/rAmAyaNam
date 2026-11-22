@@ -983,10 +983,10 @@ would release his Thunderbolts. [3-20-19b, 20a]
 <details><summary>मूलम्</summary>
 
 ते भित्त्वा रक्षसां वेगाद् वक्षांसि रुधिरप्लुताः ॥ २० ॥  
-विनिष्पेतुस्तदा भूमौ वल्मीकादिव पन्नगाः ।
+[^non-baroDa-CE] विनिष्पेतुस्तदा भूमौ वल्मीकादिव पन्नगाः ।
 _________________
 ते भित्त्वारक्षसां वेगद्वक्षांसि रुधिराप्लुताः ॥  
-विनिष्पेतुस्तदा भूमौ वल्मीकादिव पन्नगाः ।
+[^non-baroDa-CE] विनिष्पेतुस्तदा भूमौ वल्मीकादिव पन्नगाः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1257,8 +1257,8 @@ on incision, and fell before him as before. [3-20-22b, 23]
 
 <details><summary>मूलम्</summary>
 
-भ्रातुः समीपे शोकार्ता ससर्ज निनदं महत् ।  
-सस्वरं मुमुचे बाष्पं विवर्णवदना तदा ॥ २४ ॥
+[^non-baroDa-CE] भ्रातुः समीपे शोकार्ता ससर्ज निनदं महत् ।  
+[^non-baroDa-CE] सस्वरं मुमुचे बाष्पं विवर्णवदना तदा ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1370,3 +1370,4 @@ Having seen the _rākṣasas_ struck down in battle, Śūrpaṇakhā had run bac
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

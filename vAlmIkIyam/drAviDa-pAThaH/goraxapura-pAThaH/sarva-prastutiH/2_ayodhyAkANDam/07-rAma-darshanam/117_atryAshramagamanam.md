@@ -1466,7 +1466,7 @@ become an honest wife to your husband and obtain merit and renown."
 तदेवमेतं त्वमनुव्रता सती  
 पतिप्रधाना समयानुवर्तिनी ।  
 भव स्वभर्तुः सहधर्मचारिणी  
-यशश्च धर्मं च ततः समाप्स्यसि ॥ २९ ॥
+[^non-baroDa-CE] यशश्च धर्मं च ततः समाप्स्यसि ॥ २९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1491,3 +1491,4 @@ become an honest wife to your husband and obtain merit and renown."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

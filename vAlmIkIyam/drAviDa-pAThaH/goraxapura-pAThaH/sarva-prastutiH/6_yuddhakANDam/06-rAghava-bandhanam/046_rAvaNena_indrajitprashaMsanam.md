@@ -482,7 +482,7 @@ Yet Vibhīṣaṇa, gazing by means of his own mystic power (_māyayaiva vīkṣ
 <details><summary>मूलम्</summary>
 
 ददर्शान्तर्हितं वीरं वरदानाद् विभीषणः ।  
-तेजसा यशसा चैव विक्रमेण च संयुतः ॥ १० ॥
+[^non-baroDa-CE] तेजसा यशसा चैव विक्रमेण च संयुतः ॥ १० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -880,8 +880,8 @@ Having spoken thus to all those Rākṣasas who were looking on around him (_par
 
 <details><summary>मूलम्</summary>
 
-नीलं नवभिराहत्य मैन्दं सद्विविदं तथा ।  
-त्रिभिस्त्रिभिरमित्रघ्नस्तताप परमेषुभिः ॥ १८ ॥
+[^non-baroDa-CE] नीलं नवभिराहत्य मैन्दं सद्विविदं तथा ।  
+[^non-baroDa-CE] त्रिभिस्त्रिभिरमित्रघ्नस्तताप परमेषुभिः ॥ १८ ॥
 _________________
 नीलं नवभिराहत्य मैन्दं च द्विविदं तथा ।  
 त्रिभिस्त्रिभिरमित्रघ्नस्तताप प्ररमेषुभिः ॥
@@ -944,8 +944,8 @@ Piercing Jāmbavān, Hanūmān, Gavākṣa, Śarabha, and Aṅgada with flame-li
 
 <details><summary>मूलम्</summary>
 
-जाम्बवन्तं महेष्वासो विद्‍ध्वा बाणेन वक्षसि ।  
-हनूमतो वेगवतो विससर्ज शरान् दश ॥ १९ ॥
+[^non-baroDa-CE] जाम्बवन्तं महेष्वासो विद्‍ध्वा बाणेन वक्षसि ।  
+[^non-baroDa-CE] हनूमतो वेगवतो विससर्ज शरान् दश ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -991,8 +991,8 @@ Having pierced Jāmbavān in the chest with an arrow (_viddhvā bāṇena vakṣ
 
 <details><summary>मूलम्</summary>
 
-गवाक्षं शरभं चैव तावप्यमितविक्रमौ ।  
-द्वाभ्यां द्वाभ्यां महावेगो विव्याध युधि रावणिः ॥ २० ॥
+[^non-baroDa-CE] गवाक्षं शरभं चैव तावप्यमितविक्रमौ ।  
+[^non-baroDa-CE] द्वाभ्यां द्वाभ्यां महावेगो विव्याध युधि रावणिः ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1037,8 +1037,8 @@ With two shafts each (_dvābhyāṃ dvābhyām_), Rāvaṇa&#x27;s son of impetu
 
 <details><summary>मूलम्</summary>
 
-गोलाङ्गूलेश्वरं चैव वालिपुत्रमथाङ्गदम् ।  
-विव्याध बहुभिर्बाणैस्त्वरमाणोऽथ रावणिः ॥ २१ ॥
+[^non-baroDa-CE] गोलाङ्गूलेश्वरं चैव वालिपुत्रमथाङ्गदम् ।  
+[^non-baroDa-CE] विव्याध बहुभिर्बाणैस्त्वरमाणोऽथ रावणिः ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1083,8 +1083,8 @@ Making haste (_tvaramāṇaḥ_), Rāvaṇa&#x27;s son then pierced the lord of 
 
 <details><summary>मूलम्</summary>
 
-तान् वानरवरान् भित्त्वा शरैरग्निशिखोपमैः ।  
-ननाद बलवांस्तत्र महासत्त्वः स रावणिः ॥ २२ ॥
+[^non-baroDa-CE] तान् वानरवरान् भित्त्वा शरैरग्निशिखोपमैः ।  
+[^non-baroDa-CE] ननाद बलवांस्तत्र महासत्त्वः स रावणिः ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1725,8 +1725,8 @@ Having spoken thus, Vibhīṣaṇa wiped Sugrīva&#x27;s auspicious eyes (_sugr�
 
 <details><summary>मूलम्</summary>
 
-ततः सलिलमादाय विद्यया परिजप्य च ।  
-सुग्रीवनेत्रे धर्मात्मा प्रममार्ज विभीषणः ॥ ३५ ॥
+[^non-baroDa-CE] ततः सलिलमादाय विद्यया परिजप्य च ।  
+[^non-baroDa-CE] सुग्रीवनेत्रे धर्मात्मा प्रममार्ज विभीषणः ॥ ३५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2432,7 +2432,7 @@ Hearing that his two enemies had been felled (_śrutvā śatrū nipātitau_), R�
 
 उपाघ्राय च तं मूर्ध्नि पप्रच्छ प्रीतमानसः ।  
 पृच्छते च यथावृत्तं पित्रे तस्मै न्यवेदयत् ॥ ४८ ॥  
-यथा तौ शरबन्धेन निश्चेष्टौ निष्प्रभौ कृतौ ॥ ४९ ॥
+[^non-baroDa-CE] यथा तौ शरबन्धेन निश्चेष्टौ निष्प्रभौ कृतौ ॥ ४९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2551,3 +2551,4 @@ pleasing words.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

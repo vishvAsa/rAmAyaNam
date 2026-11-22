@@ -433,10 +433,10 @@ Failing to find Sītā after a long search (चिरस्य बहुका�
 
 <details><summary>मूलम्</summary>
 
-विनष्टशीताम्बुतुषारपङ्को  
-महाग्रहग्राहविनष्टपङ्कः ।  
-प्रकाशलक्ष्म्याश्रयनिर्मलाङ्को  
-रराज चन्द्रो भगवान् शशाङ्कः ॥ ६ ॥
+[^non-baroDa-CE] विनष्टशीताम्बुतुषारपङ्को  
+[^non-baroDa-CE] महाग्रहग्राहविनष्टपङ्कः ।  
+[^non-baroDa-CE] प्रकाशलक्ष्म्याश्रयनिर्मलाङ्को  
+[^non-baroDa-CE] रराज चन्द्रो भगवान् शशाङ्कः ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -501,10 +501,10 @@ As the radiant moonlit night banishes lovers' quarrels and stirs the rākṣasas
 
 <details><summary>मूलम्</summary>
 
-शिलातलं प्राप्य यथा मृगेन्द्रो  
-महारणं प्राप्य यथा गजेन्द्रः ।  
-राज्यं समासाद्य यथा नरेन्द्र-  
-स्तथा प्रकाशो विरराज चन्द्रः ॥ ७ ॥
+[^non-baroDa-CE] शिलातलं प्राप्य यथा मृगेन्द्रो  
+[^non-baroDa-CE] महारणं प्राप्य यथा गजेन्द्रः ।  
+[^non-baroDa-CE] राज्यं समासाद्य यथा नरेन्द्र-  
+[^non-baroDa-CE] स्तथा प्रकाशो विरराज चन्द्रः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -809,8 +809,8 @@ Intoxicated _rākṣasas_ (_mattāni_) loudly trade retorts with one another (_p
 
 रक्षांसि वक्षांसि च विक्षिपन्ति  
 गात्राणि कान्तासु च विक्षिपन्ति ।  
-रूपाणि चित्राणि च विक्षिपन्ति  
-दृढानि चापानि च विक्षिपन्ति ॥ १२ ॥
+[^non-baroDa-CE] रूपाणि चित्राणि च विक्षिपन्ति  
+[^non-baroDa-CE] दृढानि चापानि च विक्षिपन्ति ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -876,13 +876,13 @@ Hanūmān beholds women applying unguents, sleeping, laughing, or sighing in ang
 
 ददर्श कान्ताश्च समालभन्त्य-  
 स्तथापरास्तत्र पुनः स्वपन्त्यः ।  
-सुरूपवक्त्राश्च तथा हसन्त्यः  
-क्रुद्धाः पराश्चापि विनिःश्वसन्त्यः ॥ १३ ॥
+[^non-baroDa-CE] सुरूपवक्त्राश्च तथा हसन्त्यः  
+[^non-baroDa-CE] क्रुद्धाः पराश्चापि विनिःश्वसन्त्यः ॥ १३ ॥
 _________________
 ददर्श कान्ताश्च समालपन्त्य-  
 स्तथापरास्तत्र पुनः स्वपन्त्यः ।  
 सुरूपवकाश्च तथा हसन्त्यः  
-क्रुद्धाः पराश्चापि विनिःश्वसन्त्यः ॥
+[^non-baroDa-CE] क्रुद्धाः पराश्चापि विनिःश्वसन्त्यः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1755,3 +1755,4 @@ moment Seetha, wife of Sri Rama the best among those who talk, and the lord of a
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

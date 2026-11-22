@@ -212,8 +212,8 @@ On _munipuṃgavam_ (v. 3), **Tilaka** includes both Vasiṣṭha and Ṛṣyaś
 
 <details><summary>मूलम्</summary>
 
-श्रीमतां गच्छतां तेषां स्वगृहाणि पुरात् ततः ।  
-बलानि राज्ञां शुभ्राणि प्रहृष्टानि चकाशिरे ॥ ४ ॥
+[^non-baroDa-CE] श्रीमतां गच्छतां तेषां स्वगृहाणि पुरात् ततः ।  
+[^non-baroDa-CE] बलानि राज्ञां शुभ्राणि प्रहृष्टानि चकाशिरे ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -378,8 +378,8 @@ Honored with the highest veneration, Sage Ṛṣyaśṛṅga set out together wi
 
 <details><summary>मूलम्</summary>
 
-एवं विसृज्य तान् सर्वान् राजा सम्पूर्णमानसः ।  
-उवास सुखितस्तत्र पुत्रोत्पत्तिं विचिन्तयन् ॥ ७ ॥
+[^non-baroDa-CE] एवं विसृज्य तान् सर्वान् राजा सम्पूर्णमानसः ।  
+[^non-baroDa-CE] उवास सुखितस्तत्र पुत्रोत्पत्तिं विचिन्तयन् ॥ ७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -427,18 +427,18 @@ Having thus bid farewell to them all, the King, his heart’s desire fulfilled (
 
 <details><summary>मूलम्</summary>
 
-ततो यज्ञे समाप्ते तु ऋतूनां षट् समत्ययुः ।  
-ततश्च द्वादशे मासे चैत्रे नावमिके तिथौ ॥ ८ ॥  
-नक्षत्रेऽदितिदैवत्ये स्वोच्चसंस्थेषु पञ्चसु ।  
-ग्रहेषु कर्कटे लग्ने वाक्पताविन्दुना सह ॥ ९ ॥  
-प्रोद्यमाने जगन्नाथं सर्वलोकनमस्कृतम् ।  
+[^non-baroDa-CE] ततो यज्ञे समाप्ते तु ऋतूनां षट् समत्ययुः ।  
+[^non-baroDa-CE] ततश्च द्वादशे मासे चैत्रे नावमिके तिथौ ॥ ८ ॥  
+[^non-baroDa-CE] नक्षत्रेऽदितिदैवत्ये स्वोच्चसंस्थेषु पञ्चसु ।  
+[^non-baroDa-CE] ग्रहेषु कर्कटे लग्ने वाक्पताविन्दुना सह ॥ ९ ॥  
+[^non-baroDa-CE] प्रोद्यमाने जगन्नाथं सर्वलोकनमस्कृतम् ।  
 कौसल्याजनयद् रामं दिव्यलक्षणसंयुतम् ॥ १० ॥
 _________________
-ततो यज्ञे समाप्ते तु ऋतूनां षट् समत्ययुः ।  
-ततश्च द्वादशे मासे चैत्रे नावमिके तिथौ ॥
+[^non-baroDa-CE] ततो यज्ञे समाप्ते तु ऋतूनां षट् समत्ययुः ।  
+[^non-baroDa-CE] ततश्च द्वादशे मासे चैत्रे नावमिके तिथौ ॥
 नक्षत्रेऽदितिदैवत्ये स्पोच्चसंस्थेषु पञ्चसु ।  
-ग्रहेषु कर्कटे लग्ने वाक्पताविन्दुना सह ॥
-प्रोद्यमाने जगन्नाथं सर्वलोकनमस्कृतम्  
+[^non-baroDa-CE] ग्रहेषु कर्कटे लग्ने वाक्पताविन्दुना सह ॥
+[^non-baroDa-CE] प्रोद्यमाने जगन्नाथं सर्वलोकनमस्कृतम्  
 कौसल्याजनयद्रामं दिव्यलक्षणसंयुतम् ॥
 </details>
 
@@ -488,7 +488,7 @@ _____________
 <details><summary>मूलम्</summary>
 
 विष्णोरर्धं महाभागं पुत्रमैक्ष्वाकुनन्दनम् ।  
-लोहिताक्षं महाबाहुं रक्तोष्ठं दुन्दुभिस्वनम् ॥ ११ ॥
+[^non-baroDa-CE] लोहिताक्षं महाबाहुं रक्तोष्ठं दुन्दुभिस्वनम् ॥ ११ ॥
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -774,8 +774,8 @@ Then Sumitrā gave birth to twin sons, Lakṣmaṇa and Śatrughna—heroic warr
 
 <details><summary>मूलम्</summary>
 
-पुष्ये जातस्तु भरतो मीनलग्ने प्रसन्नधीः ।  
-सार्पे जातौ तु सौमित्री कुलीरेऽभ्युदिते रवौ ॥ १५ ॥
+[^non-baroDa-CE] पुष्ये जातस्तु भरतो मीनलग्ने प्रसन्नधीः ।  
+[^non-baroDa-CE] सार्पे जातौ तु सौमित्री कुलीरेऽभ्युदिते रवौ ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -950,8 +950,8 @@ Thus four high-souled sons of the King were born separately (_catvāro jajñire 
 
 <details><summary>मूलम्</summary>
 
-जगुः कलं च गन्धर्वा ननृतुश्चाप्सरोगणाः ।  
-देवदुन्दुभयो नेदुः पुष्पवृष्टिश्च खात् पतत् ॥ १७ ॥
+[^non-baroDa-CE] जगुः कलं च गन्धर्वा ननृतुश्चाप्सरोगणाः ।  
+[^non-baroDa-CE] देवदुन्दुभयो नेदुः पुष्पवृष्टिश्च खात् पतत् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1019,7 +1019,7 @@ Amidst a joyous city-wide festival in Ayodhyā and munificent royal gifts of gol
 
 <details><summary>मूलम्</summary>
 
-उत्सवश्च महानासीदयोध्यायां जनाकुलः ।  
+[^non-baroDa-CE] उत्सवश्च महानासीदयोध्यायां जनाकुलः ।  
 रथ्याश्च जनसम्बाधा नटनर्तकसङ्कुलाः ॥ १८ ॥
 </details>
 
@@ -1214,8 +1214,8 @@ A grand festival arose in Ayodhyā thronged with joyous multitudes (_utsavaś ca
 
 <details><summary>मूलम्</summary>
 
-गायनैश्च विराविण्यो वादनैश्च तथापरैः ।  
-विरेजुर्विपुलास्तत्र सर्वरत्नसमन्विताः ॥ १९ ॥
+[^non-baroDa-CE] गायनैश्च विराविण्यो वादनैश्च तथापरैः ।  
+[^non-baroDa-CE] विरेजुर्विपुलास्तत्र सर्वरत्नसमन्विताः ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1263,7 +1263,7 @@ Resounding with singers and instrumentalists (_gāyanaiś ca virāviṇyo vādan
 
 <details><summary>मूलम्</summary>
 
-प्रदेयांश्च ददौ राजा सूतमागधवन्दिनाम् ।  
+[^non-baroDa-CE] प्रदेयांश्च ददौ राजा सूतमागधवन्दिनाम् ।  
 ब्राह्मणेभ्यो ददौ वित्तं गोधनानि सहस्रशः ॥ २० ॥
 </details>
 
@@ -1431,7 +1431,7 @@ _____________
 <details><summary>मूलम्</summary>
 
 ब्राह्मणान् भोजयामास पौरजानपदानपि ।  
-अददद् ब्राह्मणानां च रत्नौघममलं बहु ॥ २३ ॥
+[^non-baroDa-CE] अददद् ब्राह्मणानां च रत्नौघममलं बहु ॥ २३ ॥
 _________________
 ब्राह्मणान्भोजयामास पौरञ्जानपदानपि ।  
 अददद् ब्राह्मणानां च रत्नौघममितं बहु ॥
@@ -1633,14 +1633,14 @@ Became supremely honored by all living beings, even like the Self-born Creator B
 
 सर्वे ज्ञानोपसम्पन्नाः सर्वे समुदिता गुणैः ।  
 तेषामपि महातेजा रामः सत्यपराक्रमः ॥ २६ ॥  
-इष्टः सर्वस्य लोकस्य शशाङ्क इव निर्मलः ।  
-गजस्कन्धेऽश्वपृष्ठे च रथचर्यासु सम्मतः ॥ २७ ॥  
-धनुर्वेदे च निरतः पितुः शुश्रूषणे रतः ।
+[^non-baroDa-CE] इष्टः सर्वस्य लोकस्य शशाङ्क इव निर्मलः ।  
+[^non-baroDa-CE] गजस्कन्धेऽश्वपृष्ठे च रथचर्यासु सम्मतः ॥ २७ ॥  
+[^non-baroDa-CE] धनुर्वेदे च निरतः पितुः शुश्रूषणे रतः ।
 _________________
 सर्वे ज्ञानोपसम्पन्नाः सर्वे समुदिता गुणैः ।  
 तेषामपि महातेजा रामः सत्यपराक्रमः ॥
-इष्टः सर्वस्य लोकस्य शशाङ्क इव निर्मलः ।  
-गजस्कन्धेऽश्वपृष्ठे च रथचर्यासु सम्मतः ॥  
+[^non-baroDa-CE] इष्टः सर्वस्य लोकस्य शशाङ्क इव निर्मलः ।  
+[^non-baroDa-CE] गजस्कन्धेऽश्वपृष्ठे च रथचर्यासु सम्मतः ॥  
 धुनर्वेदे च निरतः पितुः शुश्रूषणे रतः ।
 </details>
 
@@ -1977,7 +1977,7 @@ Ever dearer than his own life-breath, and Bharata too was equally dear to him (_
 ते यदा ज्ञानसम्पन्नाः सर्वे समुदिता गुणैः ॥ ३४ ॥  
 ह्रीमन्तः कीर्तिमन्तश्च सर्वज्ञा दीर्घदर्शिनः ।  
 तेषामेवम्प्रभावाणां सर्वेषां दीप्ततेजसाम् ॥ ३५ ॥  
-पिता दशरथो हृष्टो ब्रह्मा लोकाधिपो यथा ।
+[^non-baroDa-CE] पिता दशरथो हृष्टो ब्रह्मा लोकाधिपो यथा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2048,8 +2048,8 @@ Just as righteous King Daśaratha, seated amidst his preceptors, kinsmen, and mi
 
 <details><summary>मूलम्</summary>
 
-ते चापि मनुजव्याघ्रा वैदिकाध्ययने रताः ॥ ३६ ॥  
-पितृशुश्रूषणरता धनुर्वेदे च निष्ठिताः ।
+[^non-baroDa-CE] ते चापि मनुजव्याघ्रा वैदिकाध्ययने रताः ॥ ३६ ॥  
+[^non-baroDa-CE] पितृशुश्रूषणरता धनुर्वेदे च निष्ठिताः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2545,8 +2545,8 @@ All three commentators examine the causative verb _upahārayat_ (“he caused th
 
 <details><summary>मूलम्</summary>
 
-पुरे कोशे जनपदे बान्धवेषु सुहृत्सु च ॥ ४५ ॥  
-कुशलं कौशिको राज्ञः पर्यपृच्छत् सुधार्मिकः ।
+[^non-baroDa-CE] पुरे कोशे जनपदे बान्धवेषु सुहृत्सु च ॥ ४५ ॥  
+[^non-baroDa-CE] कुशलं कौशिको राज्ञः पर्यपृच्छत् सुधार्मिकः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2600,7 +2600,7 @@ Viśvāmitra inquired of the lord of men concerning his welfare and unfailing pr
 <details><summary>मूलम्</summary>
 
 अपि ते सन्नताः सर्वे सामन्तरिपवो जिताः ॥ ४६ ॥  
-दैवं च मानुषं चैव कर्म ते साध्वनुष्ठितम् ।
+[^non-baroDa-CE] दैवं च मानुषं चैव कर्म ते साध्वनुष्ठितम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2976,12 +2976,12 @@ You are a most worthy recipient of my service, O Brāhmaṇa; by my good fortune
 
 <details><summary>मूलम्</summary>
 
-यस्माद् विप्रेन्द्रमद्राक्षं सुप्रभाता निशा मम ।  
+[^non-baroDa-CE] यस्माद् विप्रेन्द्रमद्राक्षं सुप्रभाता निशा मम ।  
 पूर्वं राजर्षिशब्देन तपसा द्योतितप्रभः ॥ ५४ ॥  
 ब्रह्मर्षित्वमनुप्राप्तः पूज्योऽसि बहुधा मया ।  
 तदद्भुतमभूद् विप्र पवित्रं परमं मम ॥ ५५ ॥
 _________________
-यस्माद्विप्रेन्द्रमद्राक्षं सुप्रभाता निशा मम ।  
+[^non-baroDa-CE] यस्माद्विप्रेन्द्रमद्राक्षं सुप्रभाता निशा मम ।  
 पूर्वं राजर्षिशब्देन तपसा द्योतितप्रभुः ॥
 ब्रह्मर्षित्वमनुप्राप्तः पूज्योऽसि बहुधा मया ।  
 ततद्भुतमभूद् विप्र पवित्रं परमं मम ॥
@@ -3215,11 +3215,11 @@ Favored by you, I wish to carry out your purpose to its full accomplishment (_ic
 <details><summary>मूलम्</summary>
 
 कर्ता चाहमशेषेण दैवतं हि भवान् मम ।  
-मम चायमनुप्राप्तो महानभ्युदयो द्विज ।  
-तवागमनजः कृत्स्नो धर्मश्चानुत्तमो द्विज ॥ ५८ ॥
+[^non-baroDa-CE] मम चायमनुप्राप्तो महानभ्युदयो द्विज ।  
+[^non-baroDa-CE] तवागमनजः कृत्स्नो धर्मश्चानुत्तमो द्विज ॥ ५८ ॥
 _________________
 कर्ता चाहमशेषेण दैवतं हि भवान्मम ।  
-मम चायमनुप्राप्तो महानभ्युदयो द्विज ।  
+[^non-baroDa-CE] मम चायमनुप्राप्तो महानभ्युदयो द्विज ।  
 तवागमनजः कृत्न्सो धर्मश्चानुत्तमो द्विज ॥
 </details>
 
@@ -3332,3 +3332,5 @@ Hearing that speech, so delightful to the heart and pleasing to the ear (_hṛda
 **Govindarāja** distinguishes _hṛdayasukham_ (delighting the heart by the nobility of its meaning, _arthasauṣṭhavāt_) from _śrutisukham_ (pleasing the ear by the sweetness of its diction, _śabdamādhuryāt_). Both **Tilaka** and **Govindarāja** cite Pāṇini 6.1.128 (ऋत्यकः) to explain the uncoalesced hiatus (_prakṛtibhāva_) in _parama-ṛṣiḥ_, which preserves the four opening short syllables required by the concluding _Puṣpitāgrā_ meter.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

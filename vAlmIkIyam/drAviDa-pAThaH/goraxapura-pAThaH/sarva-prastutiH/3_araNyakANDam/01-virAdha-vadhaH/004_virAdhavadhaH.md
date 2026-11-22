@@ -47,8 +47,8 @@ Hearing Sītā cry out and offer herself in exchange for the two princes, Rāma 
 
 <details><summary>मूलम्</summary>
 
-ह्रियमाणौ तु काकुत्स्थौ दृष्ट्वा सीता रघूत्तमौ ।  
-उच्चैः स्वरेण चुक्रोश प्रगृह्य सुमहाभुजौ ॥ १ ॥
+[^non-baroDa-CE] ह्रियमाणौ तु काकुत्स्थौ दृष्ट्वा सीता रघूत्तमौ ।  
+[^non-baroDa-CE] उच्चैः स्वरेण चुक्रोश प्रगृह्य सुमहाभुजौ ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -93,11 +93,11 @@ Seeing the two Kākutsthas, foremost of the Raghus (_raghūttamau_), being carri
 
 <details><summary>मूलम्</summary>
 
-एष दाशरथी रामः सत्यवाञ्छीलवान् शुचिः ।  
-रक्षसा रौद्ररूपेण ह्रियते सहलक्ष्मणः ॥ २ ॥
+[^non-baroDa-CE] एष दाशरथी रामः सत्यवाञ्छीलवान् शुचिः ।  
+[^non-baroDa-CE] रक्षसा रौद्ररूपेण ह्रियते सहलक्ष्मणः ॥ २ ॥
 _________________
 एष दाशरथी रामः सत्यवान् शीलवान् शुचिः ।  
-रक्षसा रौद्र रूपेण ह्रियते सहलक्ष्मणः ॥
+[^non-baroDa-CE] रक्षसा रौद्र रूपेण ह्रियते सहलक्ष्मणः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -141,10 +141,10 @@ a ferocious look... [3-4-2]
 
 <details><summary>मूलम्</summary>
 
-मामृक्षा भक्षयिष्यन्ति शार्दूलद्वीपिनस्तथा ।  
-मां हरोत्सृज काकुत्स्थौ नमस्ते राक्षसोत्तम ॥ ३ ॥
+[^non-baroDa-CE] मामृक्षा भक्षयिष्यन्ति शार्दूलद्वीपिनस्तथा ।  
+[^non-baroDa-CE] मां हरोत्सृज काकुत्स्थौ नमस्ते राक्षसोत्तम ॥ ३ ॥
 _________________
-मामृक्षा भक्षयिष्यन्ति शार्दूल द्वीपिनस्तथा ।  
+[^non-baroDa-CE] मामृक्षा भक्षयिष्यन्ति शार्दूल द्वीपिनस्तथा ।  
 मां हरोत्सृज्य काकुत्स्थौ नमस्ते राक्षसोत्तम ॥
 </details>
 
@@ -195,8 +195,8 @@ to thee..." [Said Seetha.] [3-4-3]
 
 <details><summary>मूलम्</summary>
 
-तस्यास्तद् वचनं श्रुत्वा वैदेह्या रामलक्ष्मणौ ।  
-वेगं प्रचक्रतुर्वीरौ वधे तस्य दुरात्मनः ॥ ४ ॥
+[^non-baroDa-CE] तस्यास्तद् वचनं श्रुत्वा वैदेह्या रामलक्ष्मणौ ।  
+[^non-baroDa-CE] वेगं प्रचक्रतुर्वीरौ वधे तस्य दुरात्मनः ॥ ४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -468,8 +468,8 @@ When Virādha survives being battered with fists, feet, arrows, and swords, Rām
 
 <details><summary>मूलम्</summary>
 
-मुष्टिभिर्बाहुभिः पद्भिः सूदयन्तौ तु राक्षसम् ।  
-उद्यम्योद्यम्य चाप्येनं स्थण्डिले निष्पिपेषतुः ॥ ७ ॥
+[^non-baroDa-CE] मुष्टिभिर्बाहुभिः पद्भिः सूदयन्तौ तु राक्षसम् ।  
+[^non-baroDa-CE] उद्यम्योद्यम्य चाप्येनं स्थण्डिले निष्पिपेषतुः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -519,8 +519,8 @@ Battering (_sūdayantau_) the _rākṣasa_ with their fists, arms, and feet (_mu
 
 <details><summary>मूलम्</summary>
 
-स विद्धौ बहुभिर्बाणैः खड्गाभ्यां च परिक्षतः ।  
-निष्पिष्टो बहुधा भूमौ न ममार स राक्षसः ॥ ८ ॥
+[^non-baroDa-CE] स विद्धौ बहुभिर्बाणैः खड्गाभ्यां च परिक्षतः ।  
+[^non-baroDa-CE] निष्पिष्टो बहुधा भूमौ न ममार स राक्षसः ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -570,8 +570,8 @@ Though pierced by many arrows (_viddho bahubhir bāṇaiḥ_), gashed by the two
 
 <details><summary>मूलम्</summary>
 
-तं प्रेक्ष्य रामः सुभृशमवध्यमचलोपमम् ।  
-भयेष्वभयदः श्रीमानिदं वचनमब्रवीत् ॥ ९ ॥
+[^non-baroDa-CE] तं प्रेक्ष्य रामः सुभृशमवध्यमचलोपमम् ।  
+[^non-baroDa-CE] भयेष्वभयदः श्रीमानिदं वचनमब्रवीत् ॥ ९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -621,8 +621,8 @@ Seeing him utterly unslayable (_subhṛśam avadhyam_) and resembling a mountain
 
 <details><summary>मूलम्</summary>
 
-तपसा पुरुषव्याघ्र राक्षसोऽयं न शक्यते ।  
-शस्त्रेण युधि निर्जेतुं राक्षसं निखनावहे ॥ १० ॥
+[^non-baroDa-CE] तपसा पुरुषव्याघ्र राक्षसोऽयं न शक्यते ।  
+[^non-baroDa-CE] शस्त्रेण युधि निर्जेतुं राक्षसं निखनावहे ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -666,10 +666,10 @@ this demon... [3-4-10]
 
 <details><summary>मूलम्</summary>
 
-कुञ्जरस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण ।  
-वनेऽस्मिन् सुमहच्छ्वभ्रं खन्यतां रौद्रवर्चसः ॥ ११ ॥
+[^non-baroDa-CE] कुञ्जरस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण ।  
+[^non-baroDa-CE] वनेऽस्मिन् सुमहच्छ्वभ्रं खन्यतां रौद्रवर्चसः ॥ ११ ॥
 _________________
-कुञ्ज रस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण ।  
+[^non-baroDa-CE] कुञ्ज रस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण ।  
 वनेऽस्मिन् सुमहच्छवभ्रं खन्यतां रौद्रवर्चसः ॥
 </details>
 
@@ -720,8 +720,8 @@ demon; *kunjarasya iva* = for an elephant, as though; *asmin* = in forest; *su m
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा लक्ष्मणं रामः प्रदरः खन्यतामिति ।  
-तस्थौ विराधमाक्रम्य कण्ठे पादेन वीर्यवान् ॥ १२ ॥
+[^non-baroDa-CE] इत्युक्त्वा लक्ष्मणं रामः प्रदरः खन्यतामिति ।  
+[^non-baroDa-CE] तस्थौ विराधमाक्रम्य कण्ठे पादेन वीर्यवान् ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -779,7 +779,7 @@ Awakened by the touch of Rāma's foot, Virādha humbly recognizes Rāma, Sītā,
 
 <details><summary>मूलम्</summary>
 
-तच्छ्रुत्वा राघवेणोक्तं राक्षसः प्रश्रितं वचः ।  
+[^non-baroDa-CE] तच्छ्रुत्वा राघवेणोक्तं राक्षसः प्रश्रितं वचः ।  
 इदं प्रोवाच काकुत्स्थं विराधः पुरुषर्षभम् ॥ १३ ॥
 </details>
 
@@ -830,8 +830,8 @@ Hearing those words spoken by Rāghava, the _rākṣasa_ Virādha addressed thes
 
 <details><summary>मूलम्</summary>
 
-हतोऽहं पुरुषव्याघ्र शक्रतुल्यबलेन वै ।  
-मया तु पूर्वं त्वं मोहान्न ज्ञातः पुरुषर्षभ ॥ १४ ॥
+[^non-baroDa-CE] हतोऽहं पुरुषव्याघ्र शक्रतुल्यबलेन वै ।  
+[^non-baroDa-CE] मया तु पूर्वं त्वं मोहान्न ज्ञातः पुरुषर्षभ ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1342,9 +1342,9 @@ At Rāma's command, Lakṣmaṇa takes a spade and digs a vast pit beside Virād
 
 <details><summary>मूलम्</summary>
 
-तच्छ्रुत्वा राघवो वाक्यं लक्ष्मणं व्यादिदेश ह ॥ २४ ॥  
-कुञ्जरस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण ।  
-वनेऽस्मिन्सुमहान् श्वभ्रः खन्यतां रौद्रकर्मणः ॥ २५ ॥
+[^non-baroDa-CE] तच्छ्रुत्वा राघवो वाक्यं लक्ष्मणं व्यादिदेश ह ॥ २४ ॥  
+[^non-baroDa-CE] कुञ्जरस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण ।  
+[^non-baroDa-CE] वनेऽस्मिन्सुमहान् श्वभ्रः खन्यतां रौद्रकर्मणः ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1376,8 +1376,8 @@ At Rāma's command, Lakṣmaṇa takes a spade and digs a vast pit beside Virād
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा लक्ष्मणं रामः प्रदरः खन्यतामिति ।  
-तस्थौ विराधमाक्रम्य कण्ठे पादेन वीर्यवान् ॥ २६ ॥
+[^non-baroDa-CE] इत्युक्त्वा लक्ष्मणं रामः प्रदरः खन्यतामिति ।  
+[^non-baroDa-CE] तस्थौ विराधमाक्रम्य कण्ठे पादेन वीर्यवान् ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1426,10 +1426,10 @@ Speaking thus to Lakṣmaṇa—“Let a chasm be dug (_pradaraḥ khanyatām it
 
 <details><summary>मूलम्</summary>
 
-ततः खनित्रमादाय लक्ष्मणः श्वभ्रमुत्तमम् ।  
-अखनत् पार्श्वतस्तस्य विराधस्य महात्मनः ॥ २७ ॥
+[^non-baroDa-CE] ततः खनित्रमादाय लक्ष्मणः श्वभ्रमुत्तमम् ।  
+[^non-baroDa-CE] अखनत् पार्श्वतस्तस्य विराधस्य महात्मनः ॥ २७ ॥
 _________________
-ततः खनित्रमादाय लक्ष्मणः श्वभ्रमुत्तमम् ।  
+[^non-baroDa-CE] ततः खनित्रमादाय लक्ष्मणः श्वभ्रमुत्तमम् ।  
 अखनत् प्पार्श्वतस्तस्य विराधस्य महात्मनः ॥
 </details>
 
@@ -1535,10 +1535,10 @@ Lifting up (_utkṣipya_) that spike-eared (_śaṅku-karṇam_), loud-voiced Vi
 
 <details><summary>मूलम्</summary>
 
-तमाहवे दारुणमाशुविक्रमौ  
-स्थिरावुभौ संयति रामलक्ष्मणौ ।  
-मुदान्वितौ चिक्षिपतुर्भयावहं  
-नदन्तमुत्क्षिप्य बलेन राक्षसम् ॥ २९ ॥
+[^non-baroDa-CE] तमाहवे दारुणमाशुविक्रमौ  
+[^non-baroDa-CE] स्थिरावुभौ संयति रामलक्ष्मणौ ।  
+[^non-baroDa-CE] मुदान्वितौ चिक्षिपतुर्भयावहं  
+[^non-baroDa-CE] नदन्तमुत्क्षिप्य बलेन राक्षसम् ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1602,10 +1602,10 @@ Fulfilling Virādha's own request for burial since weapons could not slay him, R
 
 <details><summary>मूलम्</summary>
 
-अवध्यतां प्रेक्ष्य महासुरस्य तौ  
-शितेन शस्त्रेण तदा नरर्षभौ ।  
-समर्थ्य चात्यर्थविशारदावुभौ  
-बिले विराधस्य वधं प्रचक्रतुः ॥ ३० ॥
+[^non-baroDa-CE] अवध्यतां प्रेक्ष्य महासुरस्य तौ  
+[^non-baroDa-CE] शितेन शस्त्रेण तदा नरर्षभौ ।  
+[^non-baroDa-CE] समर्थ्य चात्यर्थविशारदावुभौ  
+[^non-baroDa-CE] बिले विराधस्य वधं प्रचक्रतुः ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1661,15 +1661,15 @@ Perceiving that the great demon could not be slain by sharp weapons (_avadhyatā
 
 <details><summary>मूलम्</summary>
 
-स्वयं विराधेन हि मृत्युमात्मनः  
-प्रसह्य रामेण यथार्थमीप्सितः ।  
-निवेदितः काननचारिणा स्वयं  
-न मे वधः शस्त्रकृतो भवेदिति ॥ ३१ ॥
+[^non-baroDa-CE] स्वयं विराधेन हि मृत्युमात्मनः  
+[^non-baroDa-CE] प्रसह्य रामेण यथार्थमीप्सितः ।  
+[^non-baroDa-CE] निवेदितः काननचारिणा स्वयं  
+[^non-baroDa-CE] न मे वधः शस्त्रकृतो भवेदिति ॥ ३१ ॥
 _________________
 स्वयं विराधेन हि मृत्युरात्मनः  
-प्रसह्य रामेण यथार्थमीप्सितः ।  
-निवेदितः काननचारिणा स्वयं  
-न मे वधः शस्त्र कृतो भवेदिति ॥
+[^non-baroDa-CE] प्रसह्य रामेण यथार्थमीप्सितः ।  
+[^non-baroDa-CE] निवेदितः काननचारिणा स्वयं  
+[^non-baroDa-CE] न मे वधः शस्त्र कृतो भवेदिति ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1724,10 +1724,10 @@ For by the forest-ranging Virādha himself (_svayaṃ virādhena hi kānana-cār
 
 <details><summary>मूलम्</summary>
 
-तदेव रामेण निशम्य भाषितं  
-कृता मतिस्तस्य बिलप्रवेशने ।  
-बिलं च तेनातिबलेन रक्षसा  
-प्रवेश्यमानेन वनं विनादितम् ॥ ३२ ॥
+[^non-baroDa-CE] तदेव रामेण निशम्य भाषितं  
+[^non-baroDa-CE] कृता मतिस्तस्य बिलप्रवेशने ।  
+[^non-baroDa-CE] बिलं च तेनातिबलेन रक्षसा  
+[^non-baroDa-CE] प्रवेश्यमानेन वनं विनादितम् ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1782,10 +1782,10 @@ Hearing that very declaration (_tad eva bhāṣitaṃ niśamya_), Rāma resolved
 
 <details><summary>मूलम्</summary>
 
-प्रहृष्टरूपाविव रामलक्ष्मणौ  
-विराधमुर्व्यां प्रदरे निपात्य तम् ।  
-ननन्दतुर्वीतभयौ महावने  
-शिलाभिरन्तर्दधतुश्च राक्षसम् ॥ ३३ ॥
+[^non-baroDa-CE] प्रहृष्टरूपाविव रामलक्ष्मणौ  
+[^non-baroDa-CE] विराधमुर्व्यां प्रदरे निपात्य तम् ।  
+[^non-baroDa-CE] ननन्दतुर्वीतभयौ महावने  
+[^non-baroDa-CE] शिलाभिरन्तर्दधतुश्च राक्षसम् ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1918,3 +1918,4 @@ Then, having slain the _rākṣasa_ and reclaimed Maithilī (_nihatya rakṣaḥ
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

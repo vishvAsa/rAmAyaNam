@@ -161,7 +161,7 @@ Both **Śiromaṇi** and **Govindarāja** observe that at the _ṛtvig-varaṇa_
 
 तथेति च स राजानमुवाच वसुधाधिपम् ।  
 सम्भाराः सम्भ्रियन्तां ते तुरगश्च विमुच्यताम् ॥ ३ ॥  
-सरय्वाश्चोत्तरे तीरे यज्ञभूमिर्विधीयताम् ।
+[^non-baroDa-CE] सरय्वाश्चोत्तरे तीरे यज्ञभूमिर्विधीयताम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -554,7 +554,7 @@ With Ṛṣyaśṛṅga and Vasiṣṭha at their head, the sages bless Daśarat
 
 ऋष्यशृङ्गपुरोगाश्च प्रत्यूचुर्नृपतिं तदा ॥ ११ ॥  
 सम्भाराः सम्भ्रियन्तां ते तुरगश्च विमुच्यताम् ।  
-सरय्वाश्चोत्तरे तीरे यज्ञभूमिर्विधीयताम् ॥ १२ ॥
+[^non-baroDa-CE] सरय्वाश्चोत्तरे तीरे यज्ञभूमिर्विधीयताम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -765,7 +765,7 @@ Hearing that utterance of the twice-born sages, the King was filled with joy; an
 
 <details><summary>मूलम्</summary>
 
-सरय्वाश्चोत्तरे तीरे यज्ञभूमिर्विधीयताम् ।  
+[^non-baroDa-CE] सरय्वाश्चोत्तरे तीरे यज्ञभूमिर्विधीयताम् ।  
 शान्तयश्चाभिवर्धन्तां यथाकल्पं यथाविधि ॥ १६ ॥
 </details>
 
@@ -1127,3 +1127,4 @@ Under the reading _gatānāṃ tu dvijātīnām_ (CE / **Tilaka** / **Śiromaṇ
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

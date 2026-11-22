@@ -302,10 +302,10 @@ If you, O Kākutstha, will not endure (_na sahiṣyase_) this sorrow that has be
 
 <details><summary>मूलम्</summary>
 
-आश्वसिहि नरश्रेष्ठ प्राणिनः कस्य नापदः ।  
-संस्पृशन्त्यग्निवद् राजन् क्षणेन व्यपयान्ति च ॥ ६ ॥
+[^non-baroDa-CE] आश्वसिहि नरश्रेष्ठ प्राणिनः कस्य नापदः ।  
+[^non-baroDa-CE] संस्पृशन्त्यग्निवद् राजन् क्षणेन व्यपयान्ति च ॥ ६ ॥
 _________________
-आश्वसिहि नरश्रेष्ठ प्राणिनः कस्य नापदः ।  
+[^non-baroDa-CE] आश्वसिहि नरश्रेष्ठ प्राणिनः कस्य नापदः ।  
 संस्पृशन्त्याग्निवद्राजन् क्षणेन व्यपयान्ति च ॥
 </details>
 
@@ -1334,3 +1334,4 @@ What use is there to you (_kiṃ te_) in bringing about universal destruction (_
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -228,7 +228,7 @@ such a Vedic-ritual. Then, in which way we are capable to conduct such a Vedic-r
 
 बालिशस्त्वं नरश्रेष्ठ गम्यतां स्वपुरं पुनः ।  
 याजने भगवान् शक्तस्त्रैलोक्यस्यापि पार्थिव ॥ ५ ॥  
-अवमानं कथं कर्तुं तस्य शक्ष्यामहे वयम् ।
+[^non-baroDa-CE] अवमानं कथं कर्तुं तस्य शक्ष्यामहे वयम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1173,3 +1173,4 @@ Why does Triśaṅku call _pauruṣam_ futile in v. 22 yet ask Viśvāmitra to r
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

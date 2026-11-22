@@ -1284,8 +1284,8 @@ Declaring that nothing is dearer than a son, Surabhi weeps though she has thousa
 
 <details><summary>मूलम्</summary>
 
-यस्याः पुत्रसहस्रैस्तु कृत्स्नं व्याप्तमिदं जगत् ।  
-तां दृष्ट्वा रुदतीं शक्रो न सुतान् मन्यते परम् ॥ २५ ॥
+[^non-baroDa-CE] यस्याः पुत्रसहस्रैस्तु कृत्स्नं व्याप्तमिदं जगत् ।  
+[^non-baroDa-CE] तां दृष्ट्वा रुदतीं शक्रो न सुतान् मन्यते परम् ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1341,7 +1341,7 @@ anguished. They are indeed born of my body. There is no dearest one equal to a s
 सुरभिं मन्यते दृष्ट्वा भूयसीं तामिहेश्वरः ॥ २६ ॥
 _________________
 इन्द्रोह्यश्रुनिपातं तं स्वगात्रे पुण्यगन्धिनम् ।  
-सुरभिं मन्यते दृष्ट्वा भूयसीं तां सुरेश्वरः ॥
+[^non-baroDa-CE] सुरभिं मन्यते दृष्ट्वा भूयसीं तां सुरेश्वरः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1625,8 +1625,8 @@ myself will go to the forest inhabited by the sages."
 
 <details><summary>मूलम्</summary>
 
-नह्यहं पापसङ्कल्पे पापे पापं त्वया कृतम् ।  
-शक्तो धारयितुं पौरैरश्रुकण्ठैर्निरीक्षितः ॥ ३२ ॥
+[^non-baroDa-CE] नह्यहं पापसङ्कल्पे पापे पापं त्वया कृतम् ।  
+[^non-baroDa-CE] शक्तो धारयितुं पौरैरश्रुकण्ठैर्निरीक्षितः ॥ ३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1725,11 +1725,11 @@ around your neck. There is no other recourse for you."
 
 <details><summary>मूलम्</summary>
 
-अहमप्यवनीं प्राप्ते रामे सत्यपराक्रमे ।  
-कृतकृत्यो भविष्यामि विप्रवासितकल्मषः ॥ ३४ ॥
+[^non-baroDa-CE] अहमप्यवनीं प्राप्ते रामे सत्यपराक्रमे ।  
+[^non-baroDa-CE] कृतकृत्यो भविष्यामि विप्रवासितकल्मषः ॥ ३४ ॥
 _________________
 अहमप्यवनिं प्राप्ते रामे सत्यपराक्रमे ।  
-कृतकृत्यो भविष्यामि विप्रवासितकल्मषः ॥
+[^non-baroDa-CE] कृतकृत्यो भविष्यामि विप्रवासितकल्मषः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1893,3 +1893,4 @@ With bloodshot eyes and loosened garments then, having cast off all his ornament
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

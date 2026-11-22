@@ -108,8 +108,8 @@ Then Sugrīva spoke of the matter [of seeking Sītā] especially (_viśeṣeṇa
 
 <details><summary>मूलम्</summary>
 
-अब्रवीच्च हनूमन्तं विक्रान्तमनिलात्मजम् ।  
-सुग्रीवः परमप्रीतः प्रभुः सर्ववनौकसाम् ॥ २ ॥
+[^non-baroDa-CE] अब्रवीच्च हनूमन्तं विक्रान्तमनिलात्मजम् ।  
+[^non-baroDa-CE] सुग्रीवः परमप्रीतः प्रभुः सर्ववनौकसाम् ॥ २ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -992,3 +992,4 @@ daughter, Seetha." Thus, Rama shouted at Hanuma flying in the sky. [4-44-17]
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

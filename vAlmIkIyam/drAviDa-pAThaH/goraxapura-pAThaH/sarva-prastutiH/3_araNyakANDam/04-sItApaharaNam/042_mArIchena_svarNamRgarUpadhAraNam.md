@@ -127,8 +127,8 @@ Having spoken thus harshly (_paruṣam_) to Rāvaṇa, Mārīca then, dejected a
 
 <details><summary>मूलम्</summary>
 
-नहि रामं पराक्रम्य जीवन् प्रतिनिवर्तते ।  
-वर्तते प्रतिरूपोऽसौ यमदण्डहतस्य ते ॥ ३ ॥
+[^non-baroDa-CE] नहि रामं पराक्रम्य जीवन् प्रतिनिवर्तते ।  
+[^non-baroDa-CE] वर्तते प्रतिरूपोऽसौ यमदण्डहतस्य ते ॥ ३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -432,10 +432,10 @@ vehicle-drawing instruments designed to look like ordinary harmless creatures.
 
 <details><summary>मूलम्</summary>
 
-प्रलोभयित्वा वैदेहीं यथेष्टं गन्तुमर्हसि ।  
-तां शून्ये प्रसभं सीतामानयिष्यामि मैथिलीम् ॥ ८ ॥
+[^non-baroDa-CE] प्रलोभयित्वा वैदेहीं यथेष्टं गन्तुमर्हसि ।  
+[^non-baroDa-CE] तां शून्ये प्रसभं सीतामानयिष्यामि मैथिलीम् ॥ ८ ॥
 _________________
-प्रलोभयित्वा वैदेहीं यथेष्टं गन्तुमर्हसि ।  
+[^non-baroDa-CE] प्रलोभयित्वा वैदेहीं यथेष्टं गन्तुमर्हसि ।  
 तां शून्यो प्रसभं सीतामानयिष्यामि मैथिलीम् ॥
 </details>
 
@@ -496,7 +496,7 @@ perhaps die by the arrow of Rama, for which Ravana is unconcerned.
 
 <details><summary>मूलम्</summary>
 
-ततस्तथेत्युवाचैनं रावणं ताटकासुतः ।  
+[^non-baroDa-CE] ततस्तथेत्युवाचैनं रावणं ताटकासुतः ।  
 ततो रावणमारीचौ विमानमिव तं रथम् ॥ ९ ॥  
 आरुह्याययतुः शीघ्रं तस्मादाश्रममण्डलात् ।
 _________________
@@ -805,13 +805,13 @@ freely in the frontage of Rama's hermitage. [3-42-14b, 15a]
 
 <details><summary>मूलम्</summary>
 
-स तु रूपं समास्थाय महदद्भुतदर्शनम् ॥ १५ ॥  
+[^non-baroDa-CE] स तु रूपं समास्थाय महदद्भुतदर्शनम् ॥ १५ ॥  
 मणिप्रवरशृङ्गाग्रः सितासितमुखाकृतिः ।  
 रक्तपद्मोत्पलमुख इन्द्रनीलोत्पलश्रवाः ॥ १६ ॥  
 किञ्चिदभ्युन्नतग्रीव इन्द्रनीलनिभोदरः ।  
 मधूकनिभपार्श्वश्च कञ्जकिञ्जल्कसन्निभः ॥ १७ ॥
 _________________
-स तु रूपं समास्थाय महदद्भुतदर्शनम् ॥
+[^non-baroDa-CE] स तु रूपं समास्थाय महदद्भुतदर्शनम् ॥
 मणिप्रवरशृङ्गाग्रः सितासितमुखाकृतिः ।  
 रक्तपद्मोत्पलमुख इन्द्रनीलोत्फलश्रवाः ॥
 किञ्चिदभ्युन्नतग्रीव इन्द्रनीलनिभोदरः ।  
@@ -1841,3 +1841,4 @@ Roamed about there, as though illuminating that forest (_dīpayann iva tad vanam
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

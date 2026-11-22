@@ -696,7 +696,7 @@ Bharadvāja invokes the three world-guardians and gods headed by Indra, commands
 <details><summary>मूलम्</summary>
 
 आह्वये लोकपालांस्त्रीन् देवान् शक्रपुरोगमान् ।  
-आतिथ्यं कर्तुमिच्छामि तत्र मे संविधीयताम् ॥ १३ ॥
+[^non-baroDa-CE] आतिथ्यं कर्तुमिच्छामि तत्र मे संविधीयताम् ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2680,7 +2680,7 @@ The _śiṃśapā_, _āmalakī_, and rose-apple trees, and whatever other trees 
 <details><summary>मूलम्</summary>
 
 शिंशपाऽऽमलकी जम्बूर्याश्चान्याः कानने लताः ।  
-मालती मल्लिका जातिर्याश्चान्याः कानने लताः ।  
+[^non-baroDa-CE] मालती मल्लिका जातिर्याश्चान्याः कानने लताः ।  
 प्रमदाविग्रहं कृत्वा भरद्वाजाश्रमेऽवसन् ॥ ५१ ॥
 </details>
 
@@ -2880,7 +2880,7 @@ Grooms feed the warriors’ mounts sugarcane and honeyed parched grain; horse-ke
 <details><summary>मूलम्</summary>
 
 हयान् गजान् खरानुष्ट्रांस्तथैव सुरभेः सुतान् ।  
-अभोजयन् वाहनपास्तेषां भोज्यं यथाविधि ॥ ५५ ॥
+[^non-baroDa-CE] अभोजयन् वाहनपास्तेषां भोज्यं यथाविधि ॥ ५५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3700,7 +3700,7 @@ and thousands of serving-dishes, hundreds of thousands of cooking-pots (_pātrī
 <details><summary>मूलम्</summary>
 
 पात्रीणां च सहस्राणि स्थालीनां नियुतानि च ।  
-न्यर्बुदानि च पात्राणि शातकुम्भमयानि च ॥ ७१ ॥
+[^non-baroDa-CE] न्यर्बुदानि च पात्राणि शातकुम्भमयानि च ॥ ७१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3999,7 +3999,7 @@ Beholding sky-blue bathing pools, piles of emerald-green fodder, and the dream-l
 _________________
 प्रतिपानह्रदान्पूर्णान् खरोष्ट्रगजवाजिनाम् ।  
 अवगाह्यसुतीर्थांश्च ह्रदान् सोत्पलपुष्करान् ।  
-आकाशवर्णप्रतिमान् स्वच्छतोयान्सुखप्लवान् ॥
+[^non-baroDa-CE] आकाशवर्णप्रतिमान् स्वच्छतोयान्सुखप्लवान् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -4289,3 +4289,4 @@ those beautiful women went back by the same way they came.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

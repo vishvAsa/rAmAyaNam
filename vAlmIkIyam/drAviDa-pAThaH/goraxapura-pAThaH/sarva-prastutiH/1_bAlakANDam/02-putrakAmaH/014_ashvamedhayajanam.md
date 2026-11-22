@@ -301,7 +301,7 @@ The three Soma-pressings—morning, midday, and evening—proceed with faultless
 माध्यन्दिनं च सवनं प्रावर्तत यथाक्रमम् ॥ ६ ॥
 _________________
 ऐन्द्रश्च विधिवद् दत्तो राजा चाभिषुतोऽनघः ।  
-मध्यन्दिनं च सवनं प्रावर्तत यथाक्रमम् ॥
+[^non-baroDa-CE] मध्यन्दिनं च सवनं प्रावर्तत यथाक्रमम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -363,8 +363,8 @@ The oblation sacred to Indra (_aindraś ca_) was duly offered, and the sinless K
 
 <details><summary>मूलम्</summary>
 
-तृतीयसवनं चैव राज्ञोऽस्य सुमहात्मनः ।  
-चक्रुस्ते शास्त्रतो दृष्ट्वा यथा ब्राह्मणपुङ्गवाः ॥ ७ ॥
+[^non-baroDa-CE] तृतीयसवनं चैव राज्ञोऽस्य सुमहात्मनः ।  
+[^non-baroDa-CE] चक्रुस्ते शास्त्रतो दृष्ट्वा यथा ब्राह्मणपुङ्गवाः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -416,10 +416,10 @@ And those foremost of Brāhmaṇas likewise performed the third (evening) Soma-p
 <details><summary>मूलम्</summary>
 
 आह्वयाञ्चक्रिरे तत्र शक्रादीन् विबुधोत्तमान् ।  
-ऋष्यशृङ्गादयो मन्त्रैः शिक्षाक्षरसमन्वितैः ॥ ८ ॥
+[^non-baroDa-CE] ऋष्यशृङ्गादयो मन्त्रैः शिक्षाक्षरसमन्वितैः ॥ ८ ॥
 _________________
 अह्वयाञ्चक्रिरे तत्र शक्रादीन् विबुधोत्तमान् ।  
-ऋष्यशृङ्गादयो मन्त्रैः शिक्षाक्षरसमन्वितैः ॥
+[^non-baroDa-CE] ऋष्यशृङ्गादयो मन्त्रैः शिक्षाक्षरसमन्वितैः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -472,11 +472,11 @@ There Ṛṣyaśṛṅga and the other priests invoked (_āhvayāñcakrire_) Śa
 
 <details><summary>मूलम्</summary>
 
-गीतिभिर्मधुरैः स्निग्धैर्मन्त्राह्वानैर्यथार्हतः ।  
-होतारो ददुरावाह्य हविर्भागान् दिवौकसाम् ॥ ९ ॥
+[^non-baroDa-CE] गीतिभिर्मधुरैः स्निग्धैर्मन्त्राह्वानैर्यथार्हतः ।  
+[^non-baroDa-CE] होतारो ददुरावाह्य हविर्भागान् दिवौकसाम् ॥ ९ ॥
 _________________
 गतिभिर्मधुरैः स्निग्धैर्मन्त्राह्वानैर्यथार्हतः ।  
-होतारो ददुरावाह्य हविर्भागान् दिवौकसाम् ॥
+[^non-baroDa-CE] होतारो ददुरावाह्य हविर्भागान् दिवौकसाम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -886,8 +886,8 @@ And vast heaps of food resembling mountains (_annakūṭāś ca bahavaḥ parvat
 
 <details><summary>मूलम्</summary>
 
-नानादेशादनुप्राप्ताः पुरुषाः स्त्रीगणास्तथा ।  
-अन्नपानैः सुविहितास्तस्मिन् यज्ञे महात्मनः ॥ १६ ॥
+[^non-baroDa-CE] नानादेशादनुप्राप्ताः पुरुषाः स्त्रीगणास्तथा ।  
+[^non-baroDa-CE] अन्नपानैः सुविहितास्तस्मिन् यज्ञे महात्मनः ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1434,7 +1434,7 @@ All of these posts were fashioned by masters of the Śāstras and experts in the
 
 <details><summary>मूलम्</summary>
 
-एकविंशतियूपास्ते एकविंशत्यरत्नयः ।  
+[^non-baroDa-CE] एकविंशतियूपास्ते एकविंशत्यरत्नयः ।  
 वासोभिरेकविंशद्भिरेकैकं समलङ्कृताः ॥ २५ ॥
 </details>
 
@@ -2632,7 +2632,7 @@ Addressing Jaimini’s rule (6.7.3) forbidding the gift of land in the _Viśvaji
 
 <details><summary>मूलम्</summary>
 
-एवं दत्त्वा प्रहृष्टोऽभूच्छ्रीमानिक्ष्वाकुनन्दनः ।  
+[^non-baroDa-CE] एवं दत्त्वा प्रहृष्टोऽभूच्छ्रीमानिक्ष्वाकुनन्दनः ।  
 ऋत्विजस्त्वब्रुवन् सर्वे राजानं गतकिल्बिषम् ॥ ४६ ॥
 _________________
 एवं दत्त्वा प्रहृष्टोऽभूत् श्रीमानिक्ष्वाकुनन्दनः ।  
@@ -2790,7 +2790,7 @@ may give us something else in barter, any modest thing. " [1-14-48]
 
 <details><summary>मूलम्</summary>
 
-मणिरत्नं सुवर्णं वा गावो यद्वा समुद्यतम् ।  
+[^non-baroDa-CE] मणिरत्नं सुवर्णं वा गावो यद्वा समुद्यतम् ।  
 तत् प्रयच्छ नृपश्रेष्ठ धरण्या न प्रयोजनम् ॥ ४९ ॥
 </details>
 
@@ -2843,7 +2843,7 @@ the use of these vast expanses to us." So said the scholars. [1-14-49]
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तो नरपतिर्ब्राह्मणैर्वेदपारगैः ।  
+[^non-baroDa-CE] एवमुक्तो नरपतिर्ब्राह्मणैर्वेदपारगैः ।  
 गवां शतसहस्राणि दश तेभ्यो ददौ नृपः ॥ ५० ॥  
 दशकोटिं सुवर्णस्य रजतस्य चतुर्गुणम् ।
 </details>
@@ -3038,7 +3038,7 @@ With deeply contented hearts, the priests declare their satisfaction; King Daśa
 
 <details><summary>मूलम्</summary>
 
-ततः प्रसर्पकेभ्यस्तु हिरण्यं सुसमाहितः ॥ ५३ ॥  
+[^non-baroDa-CE] ततः प्रसर्पकेभ्यस्तु हिरण्यं सुसमाहितः ॥ ५३ ॥  
 जाम्बूनदं कोटिसङ्ख्यं ब्राह्मणेभ्यो ददौ तदा ।
 </details>
 
@@ -3104,7 +3104,7 @@ All three commentators explain the technical Śrauta term _prasarpakāḥ_: it d
 
 <details><summary>मूलम्</summary>
 
-दरिद्राय द्विजायाथ हस्ताभरणमुत्तमम् ॥ ५४ ॥  
+[^non-baroDa-CE] दरिद्राय द्विजायाथ हस्ताभरणमुत्तमम् ॥ ५४ ॥  
 कस्मैचिद् याचमानाय ददौ राघवनन्दनः ।
 </details>
 
@@ -3163,7 +3163,7 @@ Namely, he then gave ten million pieces of pure _Jāmbūnada_ gold to the Brāhm
 <details><summary>मूलम्</summary>
 
 ततः प्रीतेषु विधिवद् द्विजेषु द्विजवत्सलः ॥ ५५ ॥  
-प्रणाममकरोत् तेषां हर्षव्याकुलितेन्द्रियः ।
+[^non-baroDa-CE] प्रणाममकरोत् तेषां हर्षव्याकुलितेन्द्रियः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3222,8 +3222,8 @@ Overwhelmed with spiritual joy (_harṣavyākulitendriyaḥ_), Emperor Daśarath
 
 <details><summary>मूलम्</summary>
 
-तस्याशिषोऽथ विविधा ब्राह्मणैः समुदाहृताः ॥ ५६ ॥  
-उदारस्य नृवीरस्य धरण्यां पतितस्य च ।
+[^non-baroDa-CE] तस्याशिषोऽथ विविधा ब्राह्मणैः समुदाहृताः ॥ ५६ ॥  
+[^non-baroDa-CE] उदारस्य नृवीरस्य धरण्यां पतितस्य च ।
 </details>
 
 <details><summary>मूलम् - त्र्यम्बकः</summary>
@@ -3472,10 +3472,10 @@ Having removed all karmic impediments and propitiated the deities who form the c
 
 <details><summary>मूलम्</summary>
 
-स तस्य वाक्यं मधुरं निशम्य  
-प्रणम्य तस्मै प्रयतो नृपेन्द्रः ।  
-जगाम हर्षं परमं महात्मा  
-तमृष्यशृङ्गं पुनरप्युवाच ॥ ६० ॥
+[^non-baroDa-CE] स तस्य वाक्यं मधुरं निशम्य  
+[^non-baroDa-CE] प्रणम्य तस्मै प्रयतो नृपेन्द्रः ।  
+[^non-baroDa-CE] जगाम हर्षं परमं महात्मा  
+[^non-baroDa-CE] तमृष्यशृङ्गं पुनरप्युवाच ॥ ६० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3537,3 +3537,5 @@ Hearing those sweet words of the sage (_sa tasya vākyaṃ madhuraṃ niśamya_)
 Closing the Sarga in eleven-syllable _Upajāti_ meter, the joyous king bows to Ṛṣyaśṛṅga and urges him to commence the _Putrakāmeṣṭi_ opened in Sarga 15.
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

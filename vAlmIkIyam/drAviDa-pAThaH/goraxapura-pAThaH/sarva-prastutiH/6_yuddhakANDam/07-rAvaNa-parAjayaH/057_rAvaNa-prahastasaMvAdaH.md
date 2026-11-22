@@ -96,7 +96,7 @@ Hearing of the slaying of Akampana (_akampanavadhaṃ śrutvā_), the lord of th
 <details><summary>मूलम्</summary>
 
 स तु ध्यात्वा मुहूर्तं तु मन्त्रिभिः संविचार्य च ।  
-ततस्तु रावणः पूर्वदिवसे राक्षसाधिपः ।  
+[^non-baroDa-CE] ततस्तु रावणः पूर्वदिवसे राक्षसाधिपः ।  
 पुरीं परिययौ लङ्कां सर्वान् गुल्मानवेक्षितुम् ॥ २ ॥
 </details>
 
@@ -908,7 +908,7 @@ Neither my own life nor my sons, wives, and riches are to be guarded by me (_na 
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा तु भर्तारं रावणं वाहिनीपतिः ।  
-उवाचेदं बलाध्यक्षान् प्रहस्तः पुरतः स्थितान् ॥ १७ ॥
+[^non-baroDa-CE] उवाचेदं बलाध्यक्षान् प्रहस्तः पुरतः स्थितान् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1000,7 +1000,7 @@ Boasting that carrion birds will feast on the Vānaras today, Prahasta marshals 
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् वचनं श्रुत्वा बलाध्यक्षा महाबलाः ॥ १९ ॥  
+[^non-baroDa-CE] तस्य तद् वचनं श्रुत्वा बलाध्यक्षा महाबलाः ॥ १९ ॥  
 बलमुद्योजयामासुस्तस्मिन् राक्षसमन्दिरे ।
 _________________
 तस्य तद् वचनं श्रुत्वा बलाध्यक्षाः महाबलाः ॥  
@@ -1444,7 +1444,7 @@ Fitted with golden lattices (_suvarṇajālasaṃyuktam_) and laughing, as it we
 <details><summary>मूलम्</summary>
 
 ततो दुन्दुभिनिर्घोषः पर्जन्यनिनदोपमः ।  
-वादित्राणां च निनदः पूरयन्निव मेदिनीम् ॥ २८ ॥
+[^non-baroDa-CE] वादित्राणां च निनदः पूरयन्निव मेदिनीम् ॥ २८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1552,8 +1552,8 @@ Together with the blast of conchs, was heard (_śuśruve śaṅkhaśabdaś ca_) 
 
 <details><summary>मूलम्</summary>
 
-नरान्तकः कुम्भहनुर्महानादः समुन्नतः ।  
-प्रहस्तसचिवा ह्येते निर्ययुः परिवार्य तम् ॥ ३० ॥
+[^non-baroDa-CE] नरान्तकः कुम्भहनुर्महानादः समुन्नतः ।  
+[^non-baroDa-CE] प्रहस्तसचिवा ह्येते निर्ययुः परिवार्य तम् ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1884,13 +1884,13 @@ Planets clash in the heavens, clouds rain blood upon Prahasta's vanguard, a sout
 <details><summary>मूलम्</summary>
 
 अन्योन्यमभिसंरब्धा ग्रहाश्च न चकाशिरे ।  
-मेघाश्च खरनिर्घोषा रथस्योपरि रक्षसः ॥ ३६ ॥  
+[^non-baroDa-CE] मेघाश्च खरनिर्घोषा रथस्योपरि रक्षसः ॥ ३६ ॥  
 ववर्षू रुधिरं चास्य सिषिचुश्च पुरःसरान् ।  
 केतुमूर्धनि गृध्रस्तु विलीनो दक्षिणामुखः ॥ ३७ ॥  
-नदन्नुभयतः पार्श्वं समग्रां श्रियमाहरत् ।
+[^non-baroDa-CE] नदन्नुभयतः पार्श्वं समग्रां श्रियमाहरत् ।
 _________________
 अन्योन्यमभिसंरब्धा ग्रहाश्च न चकाशिरे ।  
-मेघाश्च खरनिर्घोषा रथस्योपरि रक्षसः ॥
+[^non-baroDa-CE] मेघाश्च खरनिर्घोषा रथस्योपरि रक्षसः ॥
 ववृर्षू रुधिरं चास्यसिषिचुश्च पुरःसरान् ।  
 केतुमूर्धनि गृध्रस्तु विलीनो दक्षिणामुखः ॥  
 तुदन्नुभयतः पार्श्वं समग्रांश्रियमाहरत् ।
@@ -2160,7 +2160,7 @@ Then there arose a most tumultuous roar from the Vānaras (_atha ghoṣaḥ sutu
 
 <details><summary>मूलम्</summary>
 
-नदतां राक्षसानां च वानराणां च गर्जताम् ।  
+[^non-baroDa-CE] नदतां राक्षसानां च वानराणां च गर्जताम् ।  
 उभे प्रमुदिते सैन्ये रक्षोगणवनौकसाम् ॥ ४२ ॥
 </details>
 
@@ -2320,3 +2320,4 @@ Thereupon the deluded Prahasta (_prahastaḥ durmatiḥ_) marched forth for vict
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

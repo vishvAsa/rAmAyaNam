@@ -686,8 +686,8 @@ Beholding that exceedingly fierce Rākṣasa host (_tad rākṣasānīkam atipra
 
 नानापताकाध्वजछत्रजुष्टं  
 प्रासासिशूलायुधशस्त्रजुष्टम् ।  
-कस्येदमक्षोभ्यमभीरुजुष्टं  
-सैन्यं महेन्द्रोपमनागजुष्टम् ॥ १२ ॥
+[^non-baroDa-CE] कस्येदमक्षोभ्यमभीरुजुष्टं  
+[^non-baroDa-CE] सैन्यं महेन्द्रोपमनागजुष्टम् ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1801,8 +1801,8 @@ As Rāma draws a supreme arrow to vent his wrath for Sītā's abduction, Rāva�
 
 <details><summary>मूलम्</summary>
 
-दिष्ट्यायमद्य पापात्मा मम दृष्टिपथं गतः ।  
-अद्य क्रोधं विमोक्ष्यामि सीताहरणसम्भवम् ॥ ३१ ॥
+[^non-baroDa-CE] दिष्ट्यायमद्य पापात्मा मम दृष्टिपथं गतः ।  
+[^non-baroDa-CE] अद्य क्रोधं विमोक्ष्यामि सीताहरणसम्भवम् ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1985,15 +1985,15 @@ Then that mighty-souled lord of the Rākṣasas spoke to those puissant Rākṣa
 
 <details><summary>मूलम्</summary>
 
-इहागतं मां सहितं भवद्भि-  
-र्वनौकसश्छिद्रमिदं विदित्वा ।  
-शून्यां पुरीं दुष्प्रसहां प्रमथ्य  
-प्रधर्षयेयुः सहसा समेताः ॥ ३४ ॥
+[^non-baroDa-CE] इहागतं मां सहितं भवद्भि-  
+[^non-baroDa-CE] र्वनौकसश्छिद्रमिदं विदित्वा ।  
+[^non-baroDa-CE] शून्यां पुरीं दुष्प्रसहां प्रमथ्य  
+[^non-baroDa-CE] प्रधर्षयेयुः सहसा समेताः ॥ ३४ ॥
 _________________
-इहागतं मां सहितं भवद्भि-  
-र्वनौकसश्छिद्रमिदं विदित्वा ।  
+[^non-baroDa-CE] इहागतं मां सहितं भवद्भि-  
+[^non-baroDa-CE] र्वनौकसश्छिद्रमिदं विदित्वा ।  
 शून्यां पुरीं दुष्ट्रसहां प्रमथ्य  
-प्रधर्षयेयुः सहसा समेताः ॥
+[^non-baroDa-CE] प्रधर्षयेयुः सहसा समेताः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3561,7 +3561,7 @@ Reeling briefly from Rāvaṇa's blow, Hanumān steadies himself and strikes the
 <details><summary>मूलम्</summary>
 
 स तलाभिहतस्तेन चचाल च मुहुर्मुहुः ।  
-स्थितो मुहूर्तं तेजस्वी स्थैर्यं कृत्वा महामतिः ॥ ६१ ॥  
+[^non-baroDa-CE] स्थितो मुहूर्तं तेजस्वी स्थैर्यं कृत्वा महामतिः ॥ ६१ ॥  
 आजघान च सङ्क्रुद्धस्तलेनैवामरद्विषम् ।
 _________________
 स तलाभिहतस्तेन चचाल च मुहुर्मुहुः ।  
@@ -4014,7 +4014,7 @@ Ravana turned his chariot towards Nila.
 
 <details><summary>मूलम्</summary>
 
-राक्षसानामधिपतिर्दशग्रीवः प्रतापवान् ॥ ७० ॥  
+[^non-baroDa-CE] राक्षसानामधिपतिर्दशग्रीवः प्रतापवान् ॥ ७० ॥  
 पन्नगप्रतिमैर्भीमैः परमर्माभिभेदनैः ।  
 शरैरादीपयामास नीलं हरिचमूपतिम् ॥ ७१ ॥
 </details>
@@ -5144,8 +5144,8 @@ Seeing the monkey unconscious (_visaṃjñam_), the ten-necked [Rāvaṇa], eage
 
 <details><summary>मूलम्</summary>
 
-आसाद्य रणमध्ये तं वारयित्वा स्थितो ज्वलन् ।  
-धनुर्विस्फारयामास राक्षसेन्द्रः प्रतापवान् ॥ ९३ ॥
+[^non-baroDa-CE] आसाद्य रणमध्ये तं वारयित्वा स्थितो ज्वलन् ।  
+[^non-baroDa-CE] धनुर्विस्फारयामास राक्षसेन्द्रः प्रतापवान् ॥ ९३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5710,10 +5710,10 @@ Then Rāma’s younger brother rained down a fierce shower of arrows fitted to h
 
 <details><summary>मूलम्</summary>
 
-स बाणजालान्यपि तानि तानि  
-मोघानि पश्यंस्त्रिदशारिराजः ।  
-विसिस्मिये लक्ष्मणलाघवेन  
-पुनश्च बाणान् निशितान् मुमोच ॥ १०२ ॥
+[^non-baroDa-CE] स बाणजालान्यपि तानि तानि  
+[^non-baroDa-CE] मोघानि पश्यंस्त्रिदशारिराजः ।  
+[^non-baroDa-CE] विसिस्मिये लक्ष्मणलाघवेन  
+[^non-baroDa-CE] पुनश्च बाणान् निशितान् मुमोच ॥ १०२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6230,10 +6230,10 @@ As that [javelin] came flying toward him, Bharata’s younger brother struck it 
 
 <details><summary>मूलम्</summary>
 
-स शक्तिमाञ्शक्तिसमाहतः सन्  
-जज्वाल भूमौ स रघुप्रवीरः ।  
-तं विह्वलन्तं सहसाभ्युपेत्य  
-जग्राह राजा तरसा भुजाभ्याम् ॥ ११० ॥
+[^non-baroDa-CE] स शक्तिमाञ्शक्तिसमाहतः सन्  
+[^non-baroDa-CE] जज्वाल भूमौ स रघुप्रवीरः ।  
+[^non-baroDa-CE] तं विह्वलन्तं सहसाभ्युपेत्य  
+[^non-baroDa-CE] जग्राह राजा तरसा भुजाभ्याम् ॥ ११० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6546,11 +6546,11 @@ By that blow of the fist (_tena muṣṭiprahāreṇa_), Rāvaṇa, lord of the 
 
 <details><summary>मूलम्</summary>
 
-आस्यैश्च नेत्रैः श्रवणैः पपात रुधिरं बहु ।  
-विघूर्णमानो निश्चेष्टो रथोपस्थ उपाविशत् ॥ ११६ ॥
+[^non-baroDa-CE] आस्यैश्च नेत्रैः श्रवणैः पपात रुधिरं बहु ।  
+[^non-baroDa-CE] विघूर्णमानो निश्चेष्टो रथोपस्थ उपाविशत् ॥ ११६ ॥
 _________________
 आस्यैश्च नेत्रैः रवणैः पपात रुधिरं वहु ।  
-विघूर्णमानो निश्चेष्टो रथोपस्थ उपाविशत् ॥
+[^non-baroDa-CE] विघूर्णमानो निश्चेष्टो रथोपस्थ उपाविशत् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -6989,11 +6989,11 @@ Beholding in battle the great army of the monkeys with its mighty heroes struck 
 
 अथैनमनुसङ्क्रम्य हनूमान् वाक्यमब्रवीत् ।  
 मम पृष्ठं समारुह्य राक्षसं शास्तुमर्हसि ॥ १२४ ॥  
-विष्णुर्यथा गरुत्मन्तमारुह्यामरवैरिणम् ।
+[^non-baroDa-CE] विष्णुर्यथा गरुत्मन्तमारुह्यामरवैरिणम् ।
 _________________
 अथैनमुपसङ्क्रम्य हनूमान् वाक्यमब्रवीत् ।  
 मम पृष्ठं समारुह्य राक्षसं शास्तुमर्हसि ॥  
-विष्णुर्यथा गरुत्मन्तमारुह्यामरवैरिणम् ॥
+[^non-baroDa-CE] विष्णुर्यथा गरुत्मन्तमारुह्यामरवैरिणम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -7380,10 +7380,10 @@ And he who was struck down by your javelin today (_śaktyā nihatas tvayādya_),
 
 <details><summary>मूलम्</summary>
 
-एतेन चात्यद्भुतदर्शनानि  
-शरैर्जनस्थानकृतालयानि ।  
-चतुर्दशान्यात्तवरायुधानि  
-रक्षःसहस्राणि निषूदितानि ॥ १३२ ॥
+[^non-baroDa-CE] एतेन चात्यद्भुतदर्शनानि  
+[^non-baroDa-CE] शरैर्जनस्थानकृतालयानि ।  
+[^non-baroDa-CE] चतुर्दशान्यात्तवरायुधानि  
+[^non-baroDa-CE] रक्षःसहस्राणि निषूदितानि ॥ १३२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -7441,13 +7441,13 @@ Remembering his old enmity, Rāvaṇa pierces Rāma’s mount Hanumān with fier
 <details><summary>मूलम्</summary>
 
 राघवस्य वचः श्रुत्वा राक्षसेन्द्रो महाबलः ।  
-वायुपुत्रं महावेगं वहन्तं राघवं रणे ॥ १३३ ॥  
-रोषेण महताऽऽविष्टः पूर्ववैरमनुस्मरन् ।  
+[^non-baroDa-CE] वायुपुत्रं महावेगं वहन्तं राघवं रणे ॥ १३३ ॥  
+[^non-baroDa-CE] रोषेण महताऽऽविष्टः पूर्ववैरमनुस्मरन् ।  
 आजघान शरैर्दीप्तैः कालानलशिखोपमैः ॥ १३४ ॥
 _________________
 राघवस्य वचः श्रुत्वा राक्षसेन्द्रो महाबलः ।  
-वायुपुत्रं महावेगं वहन्तं राघवं रणे ॥
-रोषेण महताऽऽविष्टः पूर्ववैरमनुस्मरन् ।  
+[^non-baroDa-CE] वायुपुत्रं महावेगं वहन्तं राघवं रणे ॥
+[^non-baroDa-CE] रोषेण महताऽऽविष्टः पूर्ववैरमनुस्मरन् ।  
 आजघान शरैदीप्तै कालानलशिखोपमैः ॥
 </details>
 
@@ -7959,10 +7959,10 @@ Dismissed by Rāma to rest and rearm in Laṅkā, the crownless, bowless Rāva�
 
 <details><summary>मूलम्</summary>
 
-प्रयाहि जानामि रणार्दितस्त्वं  
+[^non-baroDa-CE] प्रयाहि जानामि रणार्दितस्त्वं  
 प्रविश्य रात्रिञ्चरराज लङ्काम् ।  
-आश्वस्य निर्याहि रथी च धन्वी  
-तदा बलं प्रेक्ष्यसि मे रथस्थः ॥ १४३ ॥
+[^non-baroDa-CE] आश्वस्य निर्याहि रथी च धन्वी  
+[^non-baroDa-CE] तदा बलं प्रेक्ष्यसि मे रथस्थः ॥ १४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -8201,3 +8201,5 @@ serpents as also all beings on earth and in waters rejoiced very much.
 When that foe of the lord of gods was routed (_tasmin prabhagne tridaśendraśatrau_), the gods and _asuras_, the hosts of beings, and the quarters of the sky, together with the oceans, the sages, and the great serpents (_sasāgarāḥ sarṣimahoragāś ca_), as well as the creatures moving on land and in water (_bhūmyambucarāḥ_), rejoiced exceedingly (_prahṛṣṭāḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

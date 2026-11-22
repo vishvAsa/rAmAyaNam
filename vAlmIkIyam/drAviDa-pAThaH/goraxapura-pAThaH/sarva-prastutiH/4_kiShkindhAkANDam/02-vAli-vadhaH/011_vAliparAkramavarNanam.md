@@ -2031,10 +2031,10 @@ Or else, I shall restrain (_dhārayiṣyāmi_) my wrath today for this one night
 
 <details><summary>मूलम्</summary>
 
-दीयतां सम्प्रदानं च परिष्वज्य च वानरान् ।  
-सर्वशाखामृगेन्द्रस्त्वं संसादय सुहृज्जनम् ॥ ३४ ॥
+[^non-baroDa-CE] दीयतां सम्प्रदानं च परिष्वज्य च वानरान् ।  
+[^non-baroDa-CE] सर्वशाखामृगेन्द्रस्त्वं संसादय सुहृज्जनम् ॥ ३४ ॥
 _________________
-दीयतां सम्प्रदानं च परिष्वज्य च वानरान् ।  
+[^non-baroDa-CE] दीयतां सम्प्रदानं च परिष्वज्य च वानरान् ।  
 सर्वशाखामृगेन्द्रस्त्वं संसादय सुहृज्जवम् ॥
 </details>
 
@@ -2087,10 +2087,10 @@ Let parting gifts (_sampradānam_) be bestowed after embracing the monkeys; as l
 
 <details><summary>मूलम्</summary>
 
-सुदृष्टां कुरु किष्किन्धां कुरुष्वात्मसमं पुरे ।  
-क्रीडस्व च समं स्त्रीभिरहं ते दर्पशासनः ॥ ३५ ॥
+[^non-baroDa-CE] सुदृष्टां कुरु किष्किन्धां कुरुष्वात्मसमं पुरे ।  
+[^non-baroDa-CE] क्रीडस्व च समं स्त्रीभिरहं ते दर्पशासनः ॥ ३५ ॥
 _________________
-सुदृष्टां कुरु किष्किन्धां कुरुष्वात्मसमं पुरे ।  
+[^non-baroDa-CE] सुदृष्टां कुरु किष्किन्धां कुरुष्वात्मसमं पुरे ।  
 क्रीडस्व च सह स्त्रीभिरहं ते दर्पशासनः ॥
 </details>
 
@@ -2363,7 +2363,7 @@ Having spoken thus to him in fierce wrath, lifting up the golden garland (_māl�
 <details><summary>मूलम्</summary>
 
 विषाणयोर्गृहीत्वा तं दुन्दुभिं गिरिसन्निभम् ।  
-आविध्यत तथा वाली विनदन् कपिकुञ्जरः ॥ ४० ॥
+[^non-baroDa-CE] आविध्यत तथा वाली विनदन् कपिकुञ्जरः ॥ ४० ॥
 _________________
 विषाणयोर्गृहीत्वा तं दुन्दुभिं गिरिसन्निभम् ।  
 आविध्यत तदा वाली विनदन् कपिकुञ्जरः ॥
@@ -2473,8 +2473,8 @@ with might he dashed him down (_vyāpādayāṃcakre_) and uttered a tremendous 
 
 <details><summary>मूलम्</summary>
 
-तयोस्तु क्रोधसंरम्भात् परस्परजयैषिणोः ।  
-युद्धं समभवद् घोरं दुन्दुभेर्वालिनस्तथा ॥ ४२ ॥
+[^non-baroDa-CE] तयोस्तु क्रोधसंरम्भात् परस्परजयैषिणोः ।  
+[^non-baroDa-CE] युद्धं समभवद् घोरं दुन्दुभेर्वालिनस्तथा ॥ ४२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2533,8 +2533,8 @@ Fighting with fists, knees, boulders, and trees, Vālin crushes Dundubhi to deat
 
 <details><summary>मूलम्</summary>
 
-अयुध्यत तदा वाली शक्रतुल्यपराक्रमः ।  
-मुष्टिभिर्जानुभिः पद्भिः शिलाभिः पादपैस्तथा ॥ ४३ ॥
+[^non-baroDa-CE] अयुध्यत तदा वाली शक्रतुल्यपराक्रमः ।  
+[^non-baroDa-CE] मुष्टिभिर्जानुभिः पद्भिः शिलाभिः पादपैस्तथा ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2585,8 +2585,8 @@ Then Vālin, equal in valor to Śakra (_śakratulyaparākramaḥ_), fought with 
 
 <details><summary>मूलम्</summary>
 
-परस्परं घ्नतोस्तत्र वानरासुरयोस्तदा ।  
-आसीद्धीनोऽसुरो युद्धे शक्रसूनुर्व्यवर्धत ॥ ४४ ॥
+[^non-baroDa-CE] परस्परं घ्नतोस्तत्र वानरासुरयोस्तदा ।  
+[^non-baroDa-CE] आसीद्धीनोऽसुरो युद्धे शक्रसूनुर्व्यवर्धत ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2645,7 +2645,7 @@ As the monkey and the demon smote each other (_parasparaṃ ghnatoḥ_) there at
 
 <details><summary>मूलम्</summary>
 
-तं तु दुन्दुभिमुद्यम्य धरण्यामभ्यपातयत् ।  
+[^non-baroDa-CE] तं तु दुन्दुभिमुद्यम्य धरण्यामभ्यपातयत् ।  
 युद्धे प्राणहरे तस्मिन्निष्पिष्टो दुन्दुभिस्तदा ॥ ४५ ॥
 </details>
 
@@ -2697,7 +2697,7 @@ Lifting up (_udyamya_) that Dundubhi, he hurled him down (_abhyapātayat_) upon 
 
 <details><summary>मूलम्</summary>
 
-स्रोतोभ्यो बहु रक्तं तु तस्य सुस्राव पात्यतः ।  
+[^non-baroDa-CE] स्रोतोभ्यो बहु रक्तं तु तस्य सुस्राव पात्यतः ।  
 पपात च महाबाहुः क्षितौ पञ्चत्वमागतः ॥ ४६ ॥
 _________________
 स्रोतेभ्यो बहुरक्तं तु तस्य सुस्राव पात्यतः ।  
@@ -2876,7 +2876,7 @@ Defiled by the falling drops of blood and beholding the slain buffalo-demon, Sag
 <details><summary>मूलम्</summary>
 
 तान् दृष्ट्वा पतितांस्तत्र मुनिः शोणितविप्रुषः ।  
-क्रुद्धस्तस्य महाभाग चिन्तयामास को न्वयम् ॥ ४९ ॥
+[^non-baroDa-CE] क्रुद्धस्तस्य महाभाग चिन्तयामास को न्वयम् ॥ ४९ ॥
 _________________
 तान् दृष्ट्वा पतितांस्तत्र मुनिः शोणितविप्रुषः ।  
 क्रुद्धस्तत्र महाभाग चिन्तयामास को न्वयम् ॥
@@ -2931,8 +2931,8 @@ Seeing those drops of blood (_śoṇitavipruṣaḥ_) fallen there, the illustri
 
 <details><summary>मूलम्</summary>
 
-येनाहं सहसा स्पृष्टः शोणितेन दुरात्मना ।  
-कोऽयं दुरात्मा दुर्बुद्धिरकृतात्मा च बालिशः ॥ ५० ॥
+[^non-baroDa-CE] येनाहं सहसा स्पृष्टः शोणितेन दुरात्मना ।  
+[^non-baroDa-CE] कोऽयं दुरात्मा दुर्बुद्धिरकृतात्मा च बालिशः ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2984,8 +2984,8 @@ by which wicked-souled one (_durātmanā_) I have suddenly been spattered with b
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा स विनिष्क्रम्य ददृशे मुनिसत्तमः ।  
-महिषं पर्वताकारं गतासुं पतितं भुवि ॥ ५१ ॥
+[^non-baroDa-CE] इत्युक्त्वा स विनिष्क्रम्य ददृशे मुनिसत्तमः ।  
+[^non-baroDa-CE] महिषं पर्वताकारं गतासुं पतितं भुवि ॥ ५१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3036,10 +3036,10 @@ Speaking thus and stepping forth (_viniṣkramya_), that best of sages beheld th
 
 <details><summary>मूलम्</summary>
 
-स तु विज्ञाय तपसा वानरेण कृतं हि तत् ।  
+[^non-baroDa-CE] स तु विज्ञाय तपसा वानरेण कृतं हि तत् ।  
 उत्ससर्ज महाशापं क्षेप्तारं वानरं प्रति ॥ ५२ ॥
 _________________
-स तु विज्ञाय तपसा वानरेण कृतं हि तत् ।  
+[^non-baroDa-CE] स तु विज्ञाय तपसा वानरेण कृतं हि तत् ।  
 उत्ससर्ज महाशापं क्षेप्तारं वालिनं प्रति ॥
 </details>
 
@@ -3086,10 +3086,10 @@ Discerning through his ascetic power (_vijñāya tapasā_) that this had been do
 <details><summary>मूलम्</summary>
 
 इह तेनाप्रवेष्टव्यं प्रविष्टस्य वधो भवेत् ।  
-वनं मत्संश्रयं येन दूषितं रुधिरस्रवैः ॥ ५३ ॥
+[^non-baroDa-CE] वनं मत्संश्रयं येन दूषितं रुधिरस्रवैः ॥ ५३ ॥
 _________________
 इह तेनाप्रवेष्टव्यं प्रिविष्टस्य वधो भवेत् ।  
-वनं मत्संश्रयं येन दूषितं रुधिरस्रवैः ॥
+[^non-baroDa-CE] वनं मत्संश्रयं येन दूषितं रुधिरस्रवैः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3141,13 +3141,13 @@ of blood, and if he enters this place peradventure, fatality occurs on him. [4-1
 
 <details><summary>मूलम्</summary>
 
-क्षिपता पादपाश्चेमे सम्भग्नाश्चासुरीं तनुम् ।  
-समन्तादाश्रमं पूर्णं योजनं मामकं यदि ॥ ५४ ॥  
-आगमिष्यति दुर्बुद्धिर्व्यक्तं स न भविष्यति ।
+[^non-baroDa-CE] क्षिपता पादपाश्चेमे सम्भग्नाश्चासुरीं तनुम् ।  
+[^non-baroDa-CE] समन्तादाश्रमं पूर्णं योजनं मामकं यदि ॥ ५४ ॥  
+[^non-baroDa-CE] आगमिष्यति दुर्बुद्धिर्व्यक्तं स न भविष्यति ।
 _________________
-क्षिपता पादपाश्चेमे सम्भग्नाश्चासुरीं तनुम् ।  
+[^non-baroDa-CE] क्षिपता पादपाश्चेमे सम्भग्नाश्चासुरीं तनुम् ।  
 समन्तादाश्रमं पूर्णं योजन मामकं यदि ॥  
-आगमिष्यति दुर्बुद्धिर्व्यक्तं स न भविष्यति ।
+[^non-baroDa-CE] आगमिष्यति दुर्बुद्धिर्व्यक्तं स न भविष्यति ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3210,9 +3210,9 @@ Mataṅga decrees that any retainer of Vālin remaining in his grove past sunset
 
 <details><summary>मूलम्</summary>
 
-ये चास्य सचिवाः केचित् संश्रिता मामकं वनम् ॥ ५५ ॥  
-न च तैरिह वस्तव्यं श्रुत्वा यान्तु यथासुखम् ।  
-तेऽपि वा यदि तिष्ठन्ति शपिष्ये तानपि ध्रुवम् ॥ ५६ ॥
+[^non-baroDa-CE] ये चास्य सचिवाः केचित् संश्रिता मामकं वनम् ॥ ५५ ॥  
+[^non-baroDa-CE] न च तैरिह वस्तव्यं श्रुत्वा यान्तु यथासुखम् ।  
+[^non-baroDa-CE] तेऽपि वा यदि तिष्ठन्ति शपिष्ये तानपि ध्रुवम् ॥ ५६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3260,8 +3260,8 @@ may depart on hearing my words and solace themselves with my words. [4-11-55b, 5
 
 <details><summary>मूलम्</summary>
 
-वनेऽस्मिन् मामके नित्यं पुत्रवत् परिरक्षिते ।  
-पत्राङ्कुरविनाशाय फलमूलाभवाय च ॥ ५७ ॥
+[^non-baroDa-CE] वनेऽस्मिन् मामके नित्यं पुत्रवत् परिरक्षिते ।  
+[^non-baroDa-CE] पत्राङ्कुरविनाशाय फलमूलाभवाय च ॥ ५७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3309,8 +3309,8 @@ In this forest of mine, ever cherished like a son (_putravat parirakṣite_), [t
 
 <details><summary>मूलम्</summary>
 
-दिवसश्चाद्य मर्यादा यं द्रष्टा श्वोऽस्मि वानरम् ।  
-बहुवर्षसहस्राणि स वै शैलो भविष्यति ॥ ५८ ॥
+[^non-baroDa-CE] दिवसश्चाद्य मर्यादा यं द्रष्टा श्वोऽस्मि वानरम् ।  
+[^non-baroDa-CE] बहुवर्षसहस्राणि स वै शैलो भविष्यति ॥ ५८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3361,8 +3361,8 @@ Today&#x27;s daytime is the limit (_divasaś cādya maryādā_): whatever monkey
 
 <details><summary>मूलम्</summary>
 
-ततस्ते वानराः श्रुत्वा गिरं मुनिसमीरिताम् ।  
-निश्चक्रमुर्वनात् तस्मात् तान् दृष्ट्वा वालिरब्रवीत् ॥ ५९ ॥
+[^non-baroDa-CE] ततस्ते वानराः श्रुत्वा गिरं मुनिसमीरिताम् ।  
+[^non-baroDa-CE] निश्चक्रमुर्वनात् तस्मात् तान् दृष्ट्वा वालिरब्रवीत् ॥ ५९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3413,8 +3413,8 @@ Then, hearing the words uttered by the sage (_giraṃ munisamīritām_), those m
 
 <details><summary>मूलम्</summary>
 
-किं भवन्तः समस्ताश्च मतङ्गवनवासिनः ।  
-मत्समीपमनुप्राप्ता अपि स्वस्ति वनौकसाम् ॥ ६० ॥
+[^non-baroDa-CE] किं भवन्तः समस्ताश्च मतङ्गवनवासिनः ।  
+[^non-baroDa-CE] मत्समीपमनुप्राप्ता अपि स्वस्ति वनौकसाम् ॥ ६० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3472,8 +3472,8 @@ Learning of the curse and spurned when he implores Mataṅga's forgiveness, Vāl
 
 <details><summary>मूलम्</summary>
 
-ततस्ते कारणं सर्वं तथा शापं च वालिनः ।  
-शशंसुर्वानराः सर्वे वालिने हेममालिने ॥ ६१ ॥
+[^non-baroDa-CE] ततस्ते कारणं सर्वं तथा शापं च वालिनः ।  
+[^non-baroDa-CE] शशंसुर्वानराः सर्वे वालिने हेममालिने ॥ ६१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3524,7 +3524,7 @@ Then all those monkeys reported (_śaśaṃsuḥ_) to Vālin, wearer of the gold
 
 <details><summary>मूलम्</summary>
 
-एतच्छ्रुत्वा तदा वाली वचनं वानरेरितम् ।  
+[^non-baroDa-CE] एतच्छ्रुत्वा तदा वाली वचनं वानरेरितम् ।  
 स महर्षिं समासाद्य याचते स्म कृताञ्जलिः ॥ ६२ ॥
 _________________
 एतच्व्रुत्वा तदा वाली वचनं वानरेरितम् ।  
@@ -3579,8 +3579,8 @@ Hearing that report uttered by the monkeys at that time, Vālin approached the g
 
 <details><summary>मूलम्</summary>
 
-महर्षिस्तमनादृत्य प्रविवेशाश्रमं प्रति ।  
-शापधारणभीतस्तु वाली विह्वलतां गतः ॥ ६३ ॥
+[^non-baroDa-CE] महर्षिस्तमनादृत्य प्रविवेशाश्रमं प्रति ।  
+[^non-baroDa-CE] शापधारणभीतस्तु वाली विह्वलतां गतः ॥ ६३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3906,10 +3906,10 @@ This matchless valor (_asamaṃ vīryam_) of his has now been set forth by me, O
 <details><summary>मूलम्</summary>
 
 तथा ब्रुवाणं सुग्रीवं प्रहसल्ँ लक्ष्मणोऽब्रवीत् ।  
-कस्मिन् कर्मणि निर्वृत्ते श्रद्दध्या वालिनो वधम् ॥ ६९ ॥
+[^non-baroDa-CE] कस्मिन् कर्मणि निर्वृत्ते श्रद्दध्या वालिनो वधम् ॥ ६९ ॥
 _________________
 तथा ब्रुवाणं सुग्रीवं प्रहसल्लक्ष्मणोऽब्रवीत् ।  
-कस्मिन्कर्मणि निर्वृत्ते श्रद्दध्या वालिनो वधम् ॥
+[^non-baroDa-CE] कस्मिन्कर्मणि निर्वृत्ते श्रद्दध्या वालिनो वधम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3962,15 +3962,15 @@ Smiling (_prahasan_) at Sugrīva as he spoke thus, Lakṣmaṇa said: ‘Upon th
 
 <details><summary>मूलम्</summary>
 
-तमुवाचाथ सुग्रीवः सप्त सालानिमान् पुरा ।  
-एवमेकैकशो वाली विव्याधाथ स चासकृत् ॥ ७० ॥  
-रामो निर्दारयेदेषां बाणेनैकेन च द्रुमम् ।  
-वालिनं निहतं मन्ये दृष्ट्वा रामस्य विक्रमम् ॥ ७१ ॥
+[^non-baroDa-CE] तमुवाचाथ सुग्रीवः सप्त सालानिमान् पुरा ।  
+[^non-baroDa-CE] एवमेकैकशो वाली विव्याधाथ स चासकृत् ॥ ७० ॥  
+[^non-baroDa-CE] रामो निर्दारयेदेषां बाणेनैकेन च द्रुमम् ।  
+[^non-baroDa-CE] वालिनं निहतं मन्ये दृष्ट्वा रामस्य विक्रमम् ॥ ७१ ॥
 _________________
-तमुवाचाथ सुग्रीवः सप्त सालानिमान्पुरा ।  
+[^non-baroDa-CE] तमुवाचाथ सुग्रीवः सप्त सालानिमान्पुरा ।  
 एवमेकैकशो वालीविव्याथाथ स चासकृत् ॥
 रामोऽपि निर्दारयेदेषां बाणेनैकेन च द्रुमम् ।  
-वालिनं निहतं मन्ये दृष्ट्वा रामस्य विक्रमम् ॥
+[^non-baroDa-CE] वालिनं निहतं मन्ये दृष्ट्वा रामस्य विक्रमम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4051,8 +4051,8 @@ Rama's valour I can construe that Vali is utterly dead at his hand. [4-11-71]
 
 <details><summary>मूलम्</summary>
 
-हतस्य महिषस्यास्थि पादेनैकेन लक्ष्मण ।  
-उद्यम्य प्रक्षिपेच्चापि तरसा द्वे धनुःशते ॥ ७२ ॥
+[^non-baroDa-CE] हतस्य महिषस्यास्थि पादेनैकेन लक्ष्मण ।  
+[^non-baroDa-CE] उद्यम्य प्रक्षिपेच्चापि तरसा द्वे धनुःशते ॥ ७२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4112,8 +4112,8 @@ Reflecting for a moment and fearing lest Rāma take offense, Sugrīva extols Vā
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा तु सुग्रीवो रामं रक्तान्तलोचनम् ।  
-ध्यात्वा मुहूर्तं काकुत्स्थं पुनरेव वचोऽब्रवीत् ॥ ७३ ॥
+[^non-baroDa-CE] एवमुक्त्वा तु सुग्रीवो रामं रक्तान्तलोचनम् ।  
+[^non-baroDa-CE] ध्यात्वा मुहूर्तं काकुत्स्थं पुनरेव वचोऽब्रवीत् ॥ ७३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4164,8 +4164,8 @@ Having spoken thus to Rāma, whose eyes were reddish at the corners (_raktāntal
 
 <details><summary>मूलम्</summary>
 
-शूरश्च शूरमानी च प्रख्यातबलपौरुषः ।  
-बलवान् वानरो वाली संयुगेष्वपराजितः ॥ ७४ ॥
+[^non-baroDa-CE] शूरश्च शूरमानी च प्रख्यातबलपौरुषः ।  
+[^non-baroDa-CE] बलवान् वानरो वाली संयुगेष्वपराजितः ॥ ७४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4217,10 +4217,10 @@ who is well renowned by his might and tenacity, and in combats he is an undefeat
 
 <details><summary>मूलम्</summary>
 
-दृश्यन्ते चास्य कर्माणि दुष्कराणि सुरैरपि ।  
+[^non-baroDa-CE] दृश्यन्ते चास्य कर्माणि दुष्कराणि सुरैरपि ।  
 यानि सञ्चिन्त्य भीतोऽहमृष्यमूकमुपाश्रितः ॥ ७५ ॥
 _________________
-दृश्यन्ते चास्य कर्माणि दुष्कराणि सुरैरपि ।  
+[^non-baroDa-CE] दृश्यन्ते चास्य कर्माणि दुष्कराणि सुरैरपि ।  
 यानि सञ्चिन्त्य भीतोऽहमृश्यमूकमुपाश्रितः ॥
 </details>
 
@@ -4272,10 +4272,10 @@ And his deeds are seen to be difficult of accomplishment even for the gods (_du�
 
 <details><summary>मूलम्</summary>
 
-तमजय्यमधृष्यं च वानरेन्द्रममर्षणम् ।  
-विचिन्तयन्न मुञ्चापि ऋष्यमूकममुं त्वहम् ॥ ७६ ॥
+[^non-baroDa-CE] तमजय्यमधृष्यं च वानरेन्द्रममर्षणम् ।  
+[^non-baroDa-CE] विचिन्तयन्न मुञ्चापि ऋष्यमूकममुं त्वहम् ॥ ७६ ॥
 _________________
-तमजय्यमधृष्यं च वानरेन्द्रममर्षणम् ।  
+[^non-baroDa-CE] तमजय्यमधृष्यं च वानरेन्द्रममर्षणम् ।  
 विचिन्तयन्न मुञ्चामि ऋष्यमूकममुं त्वहम् ॥
 </details>
 
@@ -4327,8 +4327,8 @@ Brooding upon that unconquerable (_ajayyam_), unassailable (_adhṛṣyam_), and
 
 <details><summary>मूलम्</summary>
 
-उद्विग्नः शङ्कितश्चाहं विचरामि महावने ।  
-अनुरक्तैः सहामात्यैर्हनुमत्प्रमुखैर्वरैः ॥ ७७ ॥
+[^non-baroDa-CE] उद्विग्नः शङ्कितश्चाहं विचरामि महावने ।  
+[^non-baroDa-CE] अनुरक्तैः सहामात्यैर्हनुमत्प्रमुखैर्वरैः ॥ ७७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4379,8 +4379,8 @@ Trembling (_udvignaḥ_) and apprehensive (_śaṅkitaḥ_), I roam in the great
 
 <details><summary>मूलम्</summary>
 
-उपलब्धं च मे श्लाघ्यं सन्मित्रं मित्रवत्सल ।  
-त्वामहं पुरुषव्याघ्र हिमवन्तमिवाश्रितः ॥ ७८ ॥
+[^non-baroDa-CE] उपलब्धं च मे श्लाघ्यं सन्मित्रं मित्रवत्सल ।  
+[^non-baroDa-CE] त्वामहं पुरुषव्याघ्र हिमवन्तमिवाश्रितः ॥ ७८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4440,8 +4440,8 @@ Sugrīva protests that his hesitation stems not from disrespect but from terror 
 
 <details><summary>मूलम्</summary>
 
-किं तु तस्य बलज्ञोऽहं दुर्भ्रातुर्बलशालिनः ।  
-अप्रत्यक्षं तु मे वीर्यं समरे तव राघव ॥ ७९ ॥
+[^non-baroDa-CE] किं तु तस्य बलज्ञोऽहं दुर्भ्रातुर्बलशालिनः ।  
+[^non-baroDa-CE] अप्रत्यक्षं तु मे वीर्यं समरे तव राघव ॥ ७९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4493,8 +4493,8 @@ your valour in combat is imprecise to me." [4-11-79]
 
 <details><summary>मूलम्</summary>
 
-न खल्वहं त्वां तुलये नावमन्ये न भीषये ।  
-कर्मभिस्तस्य भीमैश्च कातर्यं जनितं मम ॥ ८० ॥
+[^non-baroDa-CE] न खल्वहं त्वां तुलये नावमन्ये न भीषये ।  
+[^non-baroDa-CE] कर्मभिस्तस्य भीमैश्च कातर्यं जनितं मम ॥ ८० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4545,8 +4545,8 @@ Truly I do not weigh you in the balance (_na khalv ahaṃ tvāṃ tulaye_), nor 
 
 <details><summary>मूलम्</summary>
 
-कामं राघव ते वाणी प्रमाणं धैर्यमाकृतिः ।  
-सूचयन्ति परं तेजो भस्मच्छन्नमिवानलम् ॥ ८१ ॥
+[^non-baroDa-CE] कामं राघव ते वाणी प्रमाणं धैर्यमाकृतिः ।  
+[^non-baroDa-CE] सूचयन्ति परं तेजो भस्मच्छन्नमिवानलम् ॥ ८१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4598,7 +4598,7 @@ Assuredly (_kāmam_), O Rāghava, your speech, stature (_pramāṇam_), steadfas
 <details><summary>मूलम्</summary>
 
 तस्य तद् वचनं श्रुत्वा सुग्रीवस्य महात्मनः ।  
-स्मितपूर्वमथो रामः प्रत्युवाच हरिं प्रति ॥ ८२ ॥
+[^non-baroDa-CE] स्मितपूर्वमथो रामः प्रत्युवाच हरिं प्रति ॥ ८२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4649,8 +4649,8 @@ Hearing that speech of the high-souled Sugrīva, Rāma, smiling first (_smitapū
 
 <details><summary>मूलम्</summary>
 
-यदि न प्रत्ययोऽस्मासु विक्रमे तव वानर ।  
-प्रत्ययं समरे श्लाघ्यमहमुत्पादयामि ते ॥ ८३ ॥
+[^non-baroDa-CE] यदि न प्रत्ययोऽस्मासु विक्रमे तव वानर ।  
+[^non-baroDa-CE] प्रत्ययं समरे श्लाघ्यमहमुत्पादयामि ते ॥ ८३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4715,12 +4715,12 @@ Playfully flicking Dundubhi's skeleton with his big toe, Rāma hurls it ten yoja
 एवमुक्त्वा तु सुग्रीवं सान्त्वयल्ँ लक्ष्मणाग्रजः ।  
 राघवो दुन्दुभेः कायं पादाङ्गुष्ठेन लीलया ॥ ८४ ॥  
 तोलयित्वा महाबाहुश्चिक्षेप दशयोजनम् ।  
-असुरस्य तनुं शुष्कां पादाङ्गुष्ठेन वीर्यवान् ॥ ८५ ॥
+[^non-baroDa-CE] असुरस्य तनुं शुष्कां पादाङ्गुष्ठेन वीर्यवान् ॥ ८५ ॥
 _________________
 एवमुक्त्वा तु सुग्रीवं सान्त्वयन् लक्ष्मणाग्रजः ।  
 राघवो दुन्दुभेः कायं पादाङ्गुष्ठेन लीलया ॥
 तोलयित्वा महाबाहुश्चिक्षेप दशयोजनम् ।  
-असुरस्य तनुं शुष्कां पादाङ्गुष्ठेन वीर्यवान् ॥
+[^non-baroDa-CE] असुरस्य तनुं शुष्कां पादाङ्गुष्ठेन वीर्यवान् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4782,7 +4782,7 @@ lifting his foot. [4-11-84, 85]
 <details><summary>मूलम्</summary>
 
 क्षिप्तं दृष्ट्वा ततः कायं सुग्रीवः पुनरब्रवीत् ।  
-लक्ष्मणस्याग्रतो रामं तपन्तमिव भास्करम् ।  
+[^non-baroDa-CE] लक्ष्मणस्याग्रतो रामं तपन्तमिव भास्करम् ।  
 हरीणामग्रतो वीरमिदं वचनमर्थवत् ॥ ८६ ॥
 </details>
 
@@ -4838,7 +4838,7 @@ Seeing the body hurled, Sugrīva once again spoke before the monkeys to the hero
 <details><summary>मूलम्</summary>
 
 आर्द्रः समांसः प्रत्यग्रः क्षिप्तः कायः पुरा सखे ।  
-परिश्रान्तेन मत्तेन भ्रात्रा मे वालिना तदा ॥ ८७ ॥
+[^non-baroDa-CE] परिश्रान्तेन मत्तेन भ्रात्रा मे वालिना तदा ॥ ८७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4870,7 +4870,7 @@ Seeing the body hurled, Sugrīva once again spoke before the monkeys to the hero
 <details><summary>मूलम्</summary>
 
 लघुः सम्प्रति निर्मांसस्तृणभूतश्च राघव ।  
-क्षिप्त एवं प्रहर्षेण भवता रघुनन्दन ॥ ८८ ॥
+[^non-baroDa-CE] क्षिप्त एवं प्रहर्षेण भवता रघुनन्दन ॥ ८८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4946,7 +4946,7 @@ Declaring that the difference between a wet carcass and dry bones leaves his dou
 <details><summary>मूलम्</summary>
 
 नात्र शक्यं बलं ज्ञातुं तव वा तस्य वाधिकम् ।  
-आर्द्रं शुष्कमिति ह्येतत् सुमहद् राघवान्तरम् ॥ ८९ ॥
+[^non-baroDa-CE] आर्द्रं शुष्कमिति ह्येतत् सुमहद् राघवान्तरम् ॥ ८९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4999,8 +4999,8 @@ gravity of the case depends much on that wetness or dryness alone, isn't it." [4
 
 <details><summary>मूलम्</summary>
 
-स एव संशयस्तात तव तस्य च यद‍्बलम् ।  
-सालमेकं विनिर्भिद्य भवेद् व्यक्तिर्बलाबले ॥ ९० ॥
+[^non-baroDa-CE] स एव संशयस्तात तव तस्य च यद‍्बलम् ।  
+[^non-baroDa-CE] सालमेकं विनिर्भिद्य भवेद् व्यक्तिर्बलाबले ॥ ९० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5053,8 +5053,8 @@ That very same doubt (_sa eva saṃśayaḥ_) remains, O dear one, as to your st
 
 <details><summary>मूलम्</summary>
 
-कृत्वैतत् कार्मुकं सज्यं हस्तिहस्तमिवाततम् ।  
-आकर्णपूर्णमायम्य विसृजस्व महाशरम् ॥ ९१ ॥
+[^non-baroDa-CE] कृत्वैतत् कार्मुकं सज्यं हस्तिहस्तमिवाततम् ।  
+[^non-baroDa-CE] आकर्णपूर्णमायम्य विसृजस्व महाशरम् ॥ ९१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5107,14 +5107,14 @@ Stringing (_kṛtvā sajyam_) this bow, outstretched like an elephant&#x27;s tru
 
 <details><summary>मूलम्</summary>
 
-इमं हि सालं प्रहितस्त्वया शरो  
-न संशयोऽत्रास्ति विदारयिष्यति ।  
-अलं विमर्शेन मम प्रियं ध्रुवं  
-कुरुष्व राजन् प्रतिशापितो मया ॥ ९२ ॥
+[^non-baroDa-CE] इमं हि सालं प्रहितस्त्वया शरो  
+[^non-baroDa-CE] न संशयोऽत्रास्ति विदारयिष्यति ।  
+[^non-baroDa-CE] अलं विमर्शेन मम प्रियं ध्रुवं  
+[^non-baroDa-CE] कुरुष्व राजन् प्रतिशापितो मया ॥ ९२ ॥
 _________________
-इमं हि सालं प्रहितस्त्वया शरो  
-न संशयोऽत्रास्ति विदारयिष्यति ।  
-अलं विमर्शेन मम प्रियं ध्रुवं  
+[^non-baroDa-CE] इमं हि सालं प्रहितस्त्वया शरो  
+[^non-baroDa-CE] न संशयोऽत्रास्ति विदारयिष्यति ।  
+[^non-baroDa-CE] अलं विमर्शेन मम प्रियं ध्रुवं  
 कुरुष्व राजान् प्रति शापितो मया ॥
 </details>
 
@@ -5172,10 +5172,10 @@ For there is no doubt here that an arrow sped by you (_prahitas tvayā śaraḥ_
 
 <details><summary>मूलम्</summary>
 
-यथा हि तेजःसु वरः सदारवि-  
-र्यथा हि शैलो हिमवान् महाद्रिषु ।  
-यथा चतुष्पात्सु च केसरी वर-  
-स्तथा नराणामसि विक्रमे वरः ॥ ९३ ॥
+[^non-baroDa-CE] यथा हि तेजःसु वरः सदारवि-  
+[^non-baroDa-CE] र्यथा हि शैलो हिमवान् महाद्रिषु ।  
+[^non-baroDa-CE] यथा चतुष्पात्सु च केसरी वर-  
+[^non-baroDa-CE] स्तथा नराणामसि विक्रमे वरः ॥ ९३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -5231,3 +5231,4 @@ For just as the sun is ever foremost among luminaries (_yathā hi tejaḥsu vara
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

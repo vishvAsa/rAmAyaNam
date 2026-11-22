@@ -603,7 +603,7 @@ indeed gets disgraced!"
 अमित्रभूतो निःसङ्गं बध्यतां वध्यतामपि ॥ १२ ॥
 _________________
 प्रोत्साहितोऽयं कैकेय्या सन्तुष्टो यदि नः पिता ।  
-अमित्रभूतो निःसङ्गं वध्यतां वध्यतामपि ॥
+[^non-baroDa-CE] अमित्रभूतो निःसङ्गं वध्यतां वध्यतामपि ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -662,11 +662,11 @@ Citing the maxim that even an arrogant preceptor who strays from righteousness m
 
 <details><summary>मूलम्</summary>
 
-गुरोरप्यवलिप्तस्य कार्याकार्यमजानतः ।  
-उत्पथं प्रतिपन्नस्य कार्यं भवति शासनम् ॥ १३ ॥
+[^non-baroDa-CE] गुरोरप्यवलिप्तस्य कार्याकार्यमजानतः ।  
+[^non-baroDa-CE] उत्पथं प्रतिपन्नस्य कार्यं भवति शासनम् ॥ १३ ॥
 _________________
 गुरोरप्यवलिप्तस्य कर्याकार्यमजानतः ।  
-उत्पथं प्रतिपन्नस्य कार्यं भवति शासनम् ॥
+[^non-baroDa-CE] उत्पथं प्रतिपन्नस्य कार्यं भवति शासनम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -717,8 +717,8 @@ good and evil actions and if he takes to a wrong route."
 
 <details><summary>मूलम्</summary>
 
-बलमेष किमाश्रित्य हेतुं वा पुरुषोत्तम ।  
-दातुमिच्छति कैकेय्यै उपस्थितमिदं तव ॥ १४ ॥
+[^non-baroDa-CE] बलमेष किमाश्रित्य हेतुं वा पुरुषोत्तम ।  
+[^non-baroDa-CE] दातुमिच्छति कैकेय्यै उपस्थितमिदं तव ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -985,10 +985,10 @@ As Lakṣmaṇa vows to slay his infatuated father, the weeping Kausalyā implor
 
 <details><summary>मूलम्</summary>
 
-हनिष्ये पितरं वृद्धं कैकेय्यासक्तमानसम् ।  
-कृपणं च स्थितं बाल्ये वृद्धभावेन गर्हितम् ॥ १९ ॥
+[^non-baroDa-CE] हनिष्ये पितरं वृद्धं कैकेय्यासक्तमानसम् ।  
+[^non-baroDa-CE] कृपणं च स्थितं बाल्ये वृद्धभावेन गर्हितम् ॥ १९ ॥
 _________________
-हनिष्ये पितरं वृद्धं कैकेय्यासक्तमानसम् ।  
+[^non-baroDa-CE] हनिष्ये पितरं वृद्धं कैकेय्यासक्तमानसम् ।  
 कृपणं च स्थिरं बाल्यें वृद्धभावेन गर्हितम् ॥
 </details>
 
@@ -1997,8 +1997,8 @@ s words to go waste. I shall also do what is desired by my father"
 
 <details><summary>मूलम्</summary>
 
-एतैरन्यैश्च बहुभिर्देवि देवसमैः कृतम् ।  
-पितुर्वचनमक्लीबं करिष्यामि पितुर्हितम् ॥ ३४ ॥
+[^non-baroDa-CE] एतैरन्यैश्च बहुभिर्देवि देवसमैः कृतम् ।  
+[^non-baroDa-CE] पितुर्वचनमक्लीबं करिष्यामि पितुर्हितम् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2050,7 +2050,7 @@ mentioned to you hitherto also complied with their father's command."
 <details><summary>मूलम्</summary>
 
 न खल्वेतन्मयैकेन क्रियते पितृशासनम् ।  
-एतैरपि कृतं देवि ये मया परिकीर्तिताः ॥ ३५ ॥
+[^non-baroDa-CE] एतैरपि कृतं देवि ये मया परिकीर्तिताः ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2101,7 +2101,7 @@ to the way agreed and followed by the ancient."
 
 <details><summary>मूलम्</summary>
 
-नाहं धर्ममपूर्वं ते प्रतिकूलं प्रवर्तये ।  
+[^non-baroDa-CE] नाहं धर्ममपूर्वं ते प्रतिकूलं प्रवर्तये ।  
 पूर्वैरयमभिप्रेतो गतो मार्गोऽनुगम्यते ॥ ३६ ॥
 </details>
 
@@ -2214,7 +2214,7 @@ spoke thus to his mother and turned round to Lakshmana to speak.
 <details><summary>मूलम्</summary>
 
 तामेवमुक्त्वा जननीं लक्ष्मणं पुनरब्रवीत् ।  
-वाक्यं वाक्यविदां श्रेष्ठः श्रेष्ठः सर्वधनुष्मताम् ॥ ३८ ॥
+[^non-baroDa-CE] वाक्यं वाक्यविदां श्रेष्ठः श्रेष्ठः सर्वधनुष्मताम् ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2264,10 +2264,10 @@ Having spoken thus to his mother, he who was the foremost of eloquent men and th
 <details><summary>मूलम्</summary>
 
 तव लक्ष्मण जानामि मयि स्नेहमनुत्तमम् ।  
-विक्रमं चैव सत्त्वं च तेजश्च सुदुरासदम् ॥ ३९ ॥
+[^non-baroDa-CE] विक्रमं चैव सत्त्वं च तेजश्च सुदुरासदम् ॥ ३९ ॥
 _________________
 तव लक्ष्मण्य जानामिमयि स्नेहमनुत्तमम् ।  
-विक्रमं चैव सत्त्वं च तेजश्च सुदुरासदम् ॥
+[^non-baroDa-CE] विक्रमं चैव सत्त्वं च तेजश्च सुदुरासदम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2319,7 +2319,7 @@ by not knowing the secret of truth and tranquillity."
 
 <details><summary>मूलम्</summary>
 
-मम मातुर्महद् दुःखमतुलं शुभलक्षण ।  
+[^non-baroDa-CE] मम मातुर्महद् दुःखमतुलं शुभलक्षण ।  
 अभिप्रायं न विज्ञाय सत्यस्य च शमस्य च ॥ ४० ॥
 </details>
 
@@ -2695,7 +2695,7 @@ I shall be back to the city from the forest, after fulfilling my promise."
 <details><summary>मूलम्</summary>
 
 तीर्णप्रतिज्ञश्च वनात् पुनरेष्याम्यहं पुरीम् ।  
-ययातिरिव राजर्षिः पुरा हित्वा पुनर्दिवम् ॥ ४७ ॥
+[^non-baroDa-CE] ययातिरिव राजर्षिः पुरा हित्वा पुनर्दिवम् ॥ ४७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2747,7 +2747,7 @@ again from the forest after fulfilling the father's command."
 <details><summary>मूलम्</summary>
 
 शोकः सन्धार्यतां मातर्हृदये साधु मा शुचः ।  
-वनवासादिहैष्यामि पुनः कृत्वा पितुर्वचः ॥ ४८ ॥
+[^non-baroDa-CE] वनवासादिहैष्यामि पुनः कृत्वा पितुर्वचः ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2806,8 +2806,8 @@ Rāma declares that all of them must abide by the father's command as eternal dh
 
 <details><summary>मूलम्</summary>
 
-त्वया मया च वैदेह्या लक्ष्मणेन सुमित्रया ।  
-पितुर्नियोगे स्थातव्यमेष धर्मः सनातनः ॥ ४९ ॥
+[^non-baroDa-CE] त्वया मया च वैदेह्या लक्ष्मणेन सुमित्रया ।  
+[^non-baroDa-CE] पितुर्नियोगे स्थातव्यमेष धर्मः सनातनः ॥ ४९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2858,8 +2858,8 @@ preparations for my coronation and keeping in check the sorrow in your heart."
 
 <details><summary>मूलम्</summary>
 
-अम्ब सम्भृत्य सम्भारान् दुःखं हृदि निगृह्य च ।  
-वनवासकृता बुद्धिर्मम धर्म्यानुवर्त्यताम् ॥ ५० ॥
+[^non-baroDa-CE] अम्ब सम्भृत्य सम्भारान् दुःखं हृदि निगृह्य च ।  
+[^non-baroDa-CE] वनवासकृता बुद्धिर्मम धर्म्यानुवर्त्यताम् ॥ ५० ॥
 _________________
 अम्ब संहृत्य सम्भारान् दुःखं हृदि निगृह्य च ।  
 वनवासकृता बुद्धिर्ममम धर्म्यानुवर्त्यताम् ॥
@@ -2919,10 +2919,10 @@ as though regained consciousness once more after death, looked at Rama and spoke
 
 <details><summary>मूलम्</summary>
 
-एतद् वचस्तस्य निशम्य माता  
-सुधर्म्यमव्यग्रमविक्लवं च ।  
+[^non-baroDa-CE] एतद् वचस्तस्य निशम्य माता  
+[^non-baroDa-CE] सुधर्म्यमव्यग्रमविक्लवं च ।  
 मृतेव सञ्ज्ञां प्रतिलभ्य देवी  
-समीक्ष्य रामं पुनरित्युवाच ॥ ५१ ॥
+[^non-baroDa-CE] समीक्ष्य रामं पुनरित्युवाच ॥ ५१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2979,10 +2979,10 @@ Hearing these supremely righteous, calm (_avyagram_), and unfaltering (_aviklava
 
 <details><summary>मूलम्</summary>
 
-यथैव ते पुत्र पिता तथाहं  
-गुरुः स्वधर्मेण सुहृत्तया च ।  
-न त्वानुजानामि न मां विहाय  
-सुदुःखितामर्हसि पुत्र गन्तुम् ॥ ५२ ॥
+[^non-baroDa-CE] यथैव ते पुत्र पिता तथाहं  
+[^non-baroDa-CE] गुरुः स्वधर्मेण सुहृत्तया च ।  
+[^non-baroDa-CE] न त्वानुजानामि न मां विहाय  
+[^non-baroDa-CE] सुदुःखितामर्हसि पुत्र गन्तुम् ॥ ५२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3040,13 +3040,13 @@ even for a moment is better than that of the entire world of living beings."
 
 <details><summary>मूलम्</summary>
 
-किं जीवितेनेह विना त्वया मे  
-लोकेन वा किं स्वधयामृतेन ।  
+[^non-baroDa-CE] किं जीवितेनेह विना त्वया मे  
+[^non-baroDa-CE] लोकेन वा किं स्वधयामृतेन ।  
 श्रेयो मुहूर्तं तव सन्निधानं  
-ममैव कृत्स्नादपि जीवलोकात् ॥ ५३ ॥
+[^non-baroDa-CE] ममैव कृत्स्नादपि जीवलोकात् ॥ ५३ ॥
 _________________
 किं जीवीतेनेह विना त्वया मे  
-लोकेन वाकिं स्वधयामृतेन ।  
+[^non-baroDa-CE] लोकेन वाकिं स्वधयामृतेन ।  
 श्रेयो मुहूर्तं तव सन्निधानं  
 ममेह कृत्स्नादपि जीवलोकात् ॥
 </details>
@@ -3104,10 +3104,10 @@ an elephant is removed highly from its way by men with flames of fire.
 
 <details><summary>मूलम्</summary>
 
-नरैरिवोल्काभिरपोह्यमानो  
-महागजो ध्वान्तमभिप्रविष्टः ।  
-भूयः प्रजज्वाल विलापमेवं  
-निशम्य रामः करुणं जनन्याः ॥ ५४ ॥
+[^non-baroDa-CE] नरैरिवोल्काभिरपोह्यमानो  
+[^non-baroDa-CE] महागजो ध्वान्तमभिप्रविष्टः ।  
+[^non-baroDa-CE] भूयः प्रजज्वाल विलापमेवं  
+[^non-baroDa-CE] निशम्य रामः करुणं जनन्याः ॥ ५४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3166,9 +3166,9 @@ Standing firm in dharma, Rāma teaches Kausalyā and Lakṣmaṇa that where dha
 <details><summary>मूलम्</summary>
 
 स मातरं चैव विसञ्ज्ञकल्पा-  
-मार्तं च सौमित्रिमभिप्रतप्तम् ।  
-धर्मे स्थितो धर्म्यमुवाच वाक्यं  
-यथा स एवार्हति तत्र वक्तुम् ॥ ५५ ॥
+[^non-baroDa-CE] मार्तं च सौमित्रिमभिप्रतप्तम् ।  
+[^non-baroDa-CE] धर्मे स्थितो धर्म्यमुवाच वाक्यं  
+[^non-baroDa-CE] यथा स एवार्हति तत्र वक्तुम् ॥ ५५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3216,15 +3216,15 @@ Abiding in _dharma_, he spoke to his nearly unconscious mother (_visaṃjñakalp
 
 <details><summary>मूलम्</summary>
 
-अहं हि ते लक्ष्मण नित्यमेव  
-जानामि भक्तिं च पराक्रमं च ।  
+[^non-baroDa-CE] अहं हि ते लक्ष्मण नित्यमेव  
+[^non-baroDa-CE] जानामि भक्तिं च पराक्रमं च ।  
 मम त्वभिप्रायमसन्निरीक्ष्य  
 मात्रा सहाभ्यर्दसि मा/मां सुदुःखम् ॥ ५६ ॥
 _________________
-अहं हि ते लक्ष्मण नित्यमेव  
-जानामि भक्तिं च पराक्रमं च ।  
+[^non-baroDa-CE] अहं हि ते लक्ष्मण नित्यमेव  
+[^non-baroDa-CE] जानामि भक्तिं च पराक्रमं च ।  
 मम त्वभिप्रायमसन्निरीक्ष्य  
-मात्रा सहाभ्यर्दसि मा सुदुःखम् ॥
+[^non-baroDa-CE] मात्रा सहाभ्यर्दसि मा सुदुःखम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3282,15 +3282,15 @@ sons, good work yields all these three things."
 
 <details><summary>मूलम्</summary>
 
-धर्मार्थकामाः खलु जीवलोके  
-समीक्षिता धर्मफलोदयेषु ।  
-ये तत्र सर्वे स्युरसंशयं मे  
-भार्येव वश्याभिमता सपुत्रा ॥ ५७ ॥
+[^non-baroDa-CE] धर्मार्थकामाः खलु जीवलोके  
+[^non-baroDa-CE] समीक्षिता धर्मफलोदयेषु ।  
+[^non-baroDa-CE] ये तत्र सर्वे स्युरसंशयं मे  
+[^non-baroDa-CE] भार्येव वश्याभिमता सपुत्रा ॥ ५७ ॥
 _________________
-धर्मार्थकामाः खलु जीव लोके  
+[^non-baroDa-CE] धर्मार्थकामाः खलु जीव लोके  
 समीक्षिता धर्मलोदयेषु ।  
-ये तत्र सर्वे स्युरसंशयं मे  
-भार्येव वश्याभिमता सपुत्रा ॥
+[^non-baroDa-CE] ये तत्र सर्वे स्युरसंशयं मे  
+[^non-baroDa-CE] भार्येव वश्याभिमता सपुत्रा ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3342,9 +3342,9 @@ good.
 <details><summary>मूलम्</summary>
 
 यस्मिंस्तु सर्वे स्युरसन्निविष्टा  
-धर्मो यतः स्यात् तदुपक्रमेत ।  
-द्वेष्यो भवत्यर्थपरो हि लोके  
-कामात्मता खल्वपि न प्रशस्ता ॥ ५८ ॥
+[^non-baroDa-CE] धर्मो यतः स्यात् तदुपक्रमेत ।  
+[^non-baroDa-CE] द्वेष्यो भवत्यर्थपरो हि लोके  
+[^non-baroDa-CE] कामात्मता खल्वपि न प्रशस्ता ॥ ५८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3402,15 +3402,15 @@ to be cruel will not do it."
 
 <details><summary>मूलम्</summary>
 
-गुरुश्च राजा च पिता च वृद्धः  
-क्रोधात् प्रहर्षादथवापि कामात् ।  
-यद् व्यादिशेत् कार्यमवेक्ष्य धर्मं  
-कस्तं न कुर्यादनृशंसवृत्तिः ॥ ५९ ॥
+[^non-baroDa-CE] गुरुश्च राजा च पिता च वृद्धः  
+[^non-baroDa-CE] क्रोधात् प्रहर्षादथवापि कामात् ।  
+[^non-baroDa-CE] यद् व्यादिशेत् कार्यमवेक्ष्य धर्मं  
+[^non-baroDa-CE] कस्तं न कुर्यादनृशंसवृत्तिः ॥ ५९ ॥
 _________________
-गुरुश्च राजा च पिता च वृद्ध  
-क्रोधात् प्रहर्षादथवापि कामात् ।  
-यद्व्यादिशेत्कार्यमवेक्ष्य धर्मं  
-कस्तं न कुर्यादनृशंसवृत्तिः ॥
+[^non-baroDa-CE] गुरुश्च राजा च पिता च वृद्ध  
+[^non-baroDa-CE] क्रोधात् प्रहर्षादथवापि कामात् ।  
+[^non-baroDa-CE] यद्व्यादिशेत्कार्यमवेक्ष्य धर्मं  
+[^non-baroDa-CE] कस्तं न कुर्यादनृशंसवृत्तिः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3476,10 +3476,10 @@ Reminding Kausalyā that while the righteous king lives she must serve her husba
 
 <details><summary>मूलम्</summary>
 
-न तेन शक्नोमि पितुः प्रतिज्ञा-  
-मिमां न कर्तुं सकलां यथावत् ।  
-स ह्यावयोस्तात गुरुर्नियोगे  
-देव्याश्च भर्ता स गतिश्च धर्मः ॥ ६० ॥
+[^non-baroDa-CE] न तेन शक्नोमि पितुः प्रतिज्ञा-  
+[^non-baroDa-CE] मिमां न कर्तुं सकलां यथावत् ।  
+[^non-baroDa-CE] स ह्यावयोस्तात गुरुर्नियोगे  
+[^non-baroDa-CE] देव्याश्च भर्ता स गतिश्च धर्मः ॥ ६० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3536,15 +3536,15 @@ widowed woman?"
 
 <details><summary>मूलम्</summary>
 
-तस्मिन् पुनर्जीवति धर्मराजे  
-विशेषतः स्वे पथि वर्तमाने ।  
-देवी मया सार्धमितोऽभिगच्छेत्  
-कथंस्विदन्या विधवेव नारी ॥ ६१ ॥
+[^non-baroDa-CE] तस्मिन् पुनर्जीवति धर्मराजे  
+[^non-baroDa-CE] विशेषतः स्वे पथि वर्तमाने ।  
+[^non-baroDa-CE] देवी मया सार्धमितोऽभिगच्छेत्  
+[^non-baroDa-CE] कथंस्विदन्या विधवेव नारी ॥ ६१ ॥
 _________________
-तस्मिन् पुनर्जीवति धर्मराजे  
-विशेषतः स्वे पथि वर्तमाने ।  
-देवी मया सार्धमितोऽभिगच्छेत  
-कथंस्विदन्या विधवेव नारी ॥
+[^non-baroDa-CE] तस्मिन् पुनर्जीवति धर्मराजे  
+[^non-baroDa-CE] विशेषतः स्वे पथि वर्तमाने ।  
+[^non-baroDa-CE] देवी मया सार्धमितोऽभिगच्छेत  
+[^non-baroDa-CE] कथंस्विदन्या विधवेव नारी ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3600,10 +3600,10 @@ power of truth, give me your power of blessings so that I can return here after 
 
 <details><summary>मूलम्</summary>
 
-सा मानुमन्यस्व वनं व्रजन्तं  
-कुरुष्व नः स्वस्त्ययनानि देवि ।  
-यथा समाप्ते पुनराव्रजेयं  
-यथा हि सत्येन पुनर्ययातिः ॥ ६२ ॥
+[^non-baroDa-CE] सा मानुमन्यस्व वनं व्रजन्तं  
+[^non-baroDa-CE] कुरुष्व नः स्वस्त्ययनानि देवि ।  
+[^non-baroDa-CE] यथा समाप्ते पुनराव्रजेयं  
+[^non-baroDa-CE] यथा हि सत्येन पुनर्ययातिः ॥ ६२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3757,3 +3757,5 @@ his mother, advised his brother by good thoughts and made hearty circumbulatory 
 Thus conciliating his mother, that bull among men—firmly resolved to go to the Daṇḍaka forest through his heroic energy—earnestly instructed his younger brother in the truth of _dharma_ (_darśanam_) and circumambulated his mother in his heart (_cakāra tāṃ hṛdi jananīṃ pradakṣiṇam_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

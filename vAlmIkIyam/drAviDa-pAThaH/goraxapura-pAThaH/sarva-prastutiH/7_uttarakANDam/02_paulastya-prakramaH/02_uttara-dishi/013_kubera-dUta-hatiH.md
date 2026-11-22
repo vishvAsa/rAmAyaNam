@@ -162,7 +162,7 @@ with stairways wrought of cat’s-eye gem (_vaiḍūrya-kṛta-sopānam_) and la
 
 <details><summary>मूलम्</summary>
 
-मनोहरं सर्वसुखं कारयामास राक्षसः ।  
+[^non-baroDa-CE] मनोहरं सर्वसुखं कारयामास राक्षसः ।  
 सर्वत्र सुखदं नित्यं मेरोः पुण्यां गुहामिव ॥ ६ ॥
 </details>
 
@@ -1043,13 +1043,13 @@ Concluding Kubera’s plea to desist from sin before the gods destroy him, the e
 <details><summary>मूलम्</summary>
 
 देव्या दग्धं प्रभावेण यच्च सव्यं तवेक्षणम् ।  
-पैङ्गल्यं यदवाप्तं हि देव्या रूपनिरीक्षणात् ॥ ३० ॥  
+[^non-baroDa-CE] पैङ्गल्यं यदवाप्तं हि देव्या रूपनिरीक्षणात् ॥ ३० ॥  
 एकाक्षपिङ्गलीत्येव नाम स्थास्यति शाश्वतम् ।  
 एवं तेन सखित्वं च प्राप्यानुज्ञां च शङ्करात् ॥ ३१ ॥  
 आगतेन मया चैवं श्रुतस्ते पापनिश्चयः ।
 _________________
 देव्या दग्धं प्रभावेण यच्च सव्यं तदेक्षणम् ।  
-पैङ्गल्यं यदवाप्तं हि देव्या रूप निरीक्षणात् ॥
+[^non-baroDa-CE] पैङ्गल्यं यदवाप्तं हि देव्या रूप निरीक्षणात् ॥
 एकाक्ष पिङ्गलीत्येव नाम स्थास्यति शाश्वतम् ।  
 एवं तेन सखित्वं च प्राप्यानुज्ञां च शङ्करात् ॥  
 आगतेन मया चैवं श्रुतस्ते पापनिश्चयः ।
@@ -1221,7 +1221,7 @@ Casting aside his former deference toward his elder brother, Rāvaṇa vows to d
 <details><summary>मूलम्</summary>
 
 नैवेदं क्षमणीयं मे यदेतद् भाषितं त्वया ॥ ३६ ॥  
-यदेतावन्मया कालं दूत तस्य तु मर्षितम् ।  
+[^non-baroDa-CE] यदेतावन्मया कालं दूत तस्य तु मर्षितम् ।  
 न हन्तव्यो गुरुर्ज्येष्ठो मयायमिति मन्यते ॥ ३७ ॥
 </details>
 
@@ -1382,3 +1382,4 @@ Then, having had auspicious departure-rites performed (_kṛta-svastyayanaḥ_),
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

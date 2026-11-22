@@ -106,11 +106,11 @@ _________________
 <details><summary>मूलम्</summary>
 
 ततस्त्वभीरवः प्राज्ञाः पार्थिवा धर्मनिश्चयाः ।  
-मन्त्रयित्वा ततोऽन्योन्यं राजानः सुमहाबलाः ॥ ४ ॥  
+[^non-baroDa-CE] मन्त्रयित्वा ततोऽन्योन्यं राजानः सुमहाबलाः ॥ ४ ॥  
 निर्जिताः स्मेत्यभाषन्त ज्ञात्वा वरबलं रिपोः ।
 _________________
 ततस्त्वभीरवः प्राज्ञाः पार्थिवा धर्मनिश्चयाः ।  
-मन्त्रयित्वा ततोऽन्योन्यं राजानः सुमहाबलाः ॥  
+[^non-baroDa-CE] मन्त्रयित्वा ततोऽन्योन्यं राजानः सुमहाबलाः ॥  
 निर्जिताः समेत्यभाषन्त ज्ञात्वा वरबलं रिपोः ।
 </details>
 
@@ -185,7 +185,7 @@ Indignantly rejecting Rāvaṇa’s demand for surrender, Ayodhyā’s sovereign
 
 अथायोध्यां समासाद्य रावणो राक्षसाधिपः ॥ ६ ॥  
 सुगुप्तामनरण्येन शक्रेणेवामरावतीम् ।  
-स तं पुरुषशार्दूलं पुरन्दरसमं बले ॥ ७ ॥  
+[^non-baroDa-CE] स तं पुरुषशार्दूलं पुरन्दरसमं बले ॥ ७ ॥  
 प्राह राजानमासाद्य युद्धं देहीति रावणः ।  
 निर्जितोऽस्मीति वा ब्रूहि त्वमेवं मम शासनम् ॥ ८ ॥
 </details>
@@ -221,7 +221,7 @@ Indignantly rejecting Rāvaṇa’s demand for surrender, Ayodhyā’s sovereign
 
 <details><summary>मूलम्</summary>
 
-अयोध्याधिपतिस्तस्य श्रुत्वा पापात्मनो वचः ।  
+[^non-baroDa-CE] अयोध्याधिपतिस्तस्य श्रुत्वा पापात्मनो वचः ।  
 अनरण्यस्तु सङ्क्रुद्धो राक्षसेन्द्रमथाब्रवीत् ॥ ९ ॥
 </details>
 
@@ -253,7 +253,7 @@ Indignantly rejecting Rāvaṇa’s demand for surrender, Ayodhyā’s sovereign
 <details><summary>मूलम्</summary>
 
 दीयते द्वन्द्वयुद्धं ते राक्षसाधिपते मया ।  
-सन्तिष्ठ क्षिप्रमायत्तो भव चैवं भवाम्यहम् ॥ १० ॥
+[^non-baroDa-CE] सन्तिष्ठ क्षिप्रमायत्तो भव चैवं भवाम्यहम् ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -316,7 +316,7 @@ Ten thousand elephants (_nāgānāṃ daśa-sāhasram_), a hundred thousand stee
 <details><summary>मूलम्</summary>
 
 नागानां दशसाहस्रं वाजिनां नियुतं तथा ।  
-रथानां बहुसाहस्रं पत्तीनां च नरोत्तम ॥ १२ ॥  
+[^non-baroDa-CE] रथानां बहुसाहस्रं पत्तीनां च नरोत्तम ॥ १२ ॥  
 महीं सञ्छाद्य निष्क्रान्तं सपदातिरथं रणे ।
 </details>
 
@@ -355,8 +355,8 @@ Anaraṇya’s vast host perishes against Rāvaṇa’s force like oblations in 
 
 <details><summary>मूलम्</summary>
 
-ततः प्रवृत्तं सुमहद् युद्धं युद्धविशारद ॥ १३ ॥  
-अनरण्यस्य नृपते राक्षसेन्द्रस्य चाद्भुतम् ।
+[^non-baroDa-CE] ततः प्रवृत्तं सुमहद् युद्धं युद्धविशारद ॥ १३ ॥  
+[^non-baroDa-CE] अनरण्यस्य नृपते राक्षसेन्द्रस्य चाद्भुतम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -418,13 +418,13 @@ Anaraṇya’s vast host perishes against Rāvaṇa’s force like oblations in 
 
 <details><summary>मूलम्</summary>
 
-युद्‍ध्वा च सुचिरं कालं कृत्वा विक्रममुत्तमम् ॥ १५ ॥  
-प्रज्वलन्तं तमासाद्य क्षिप्रमेवावशेषितम् ।  
-प्राविशत् सङ्कुलं तत्र शलभा इव पावकम् ॥ १६ ॥
+[^non-baroDa-CE] युद्‍ध्वा च सुचिरं कालं कृत्वा विक्रममुत्तमम् ॥ १५ ॥  
+[^non-baroDa-CE] प्रज्वलन्तं तमासाद्य क्षिप्रमेवावशेषितम् ।  
+[^non-baroDa-CE] प्राविशत् सङ्कुलं तत्र शलभा इव पावकम् ॥ १६ ॥
 _________________
-युद्ध्वा च सुचिरं कालं कृत्वा विक्रममुत्तमम् ॥
+[^non-baroDa-CE] युद्ध्वा च सुचिरं कालं कृत्वा विक्रममुत्तमम् ॥
 प्रज्वलन्तं समासाद्य क्षिप्रमेवावशोषितम् ।  
-प्राविशत्सङ्कुलं तत्र शलभा इव पावकम् ॥
+[^non-baroDa-CE] प्राविशत्सङ्कुलं तत्र शलभा इव पावकम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -529,8 +529,8 @@ Anaraṇya showers eight hundred shafts upon Rāvaṇa’s head, which strike ha
 
 <details><summary>मूलम्</summary>
 
-अनरण्येन तेऽमात्या मारीचशुकसारणाः ।  
-प्रहस्तसहिता भग्ना व्यद्रवन्त मृगा इव ॥ १९ ॥
+[^non-baroDa-CE] अनरण्येन तेऽमात्या मारीचशुकसारणाः ।  
+[^non-baroDa-CE] प्रहस्तसहिता भग्ना व्यद्रवन्त मृगा इव ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -941,7 +941,7 @@ Invoking the truth of his charity, sacrifices, austerity, and just rule, Anara�
 नह्यहं विमुखी रक्षो युद्ध्यमानस्त्वया हतः ॥ २८ ॥
 _________________
 किं त्विदानीं मया शक्यं कर्तुं प्राणपरीक्षये ।  
-नह्यहं विमुखी रक्षो युध्यमानस्त्वयाहतः ॥
+[^non-baroDa-CE] नह्यहं विमुखी रक्षो युध्यमानस्त्वयाहतः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1092,3 +1092,4 @@ Then that king, O lord of kings (_rājendra_), departed to the abode of heaven (
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

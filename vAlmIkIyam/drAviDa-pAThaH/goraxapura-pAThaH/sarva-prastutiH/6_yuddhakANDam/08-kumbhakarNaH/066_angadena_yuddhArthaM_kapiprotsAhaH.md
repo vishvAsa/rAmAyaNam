@@ -44,8 +44,8 @@ As Kumbhakarṇa steps over the wall roaring louder than thunderclaps and scatte
 
 <details><summary>मूलम्</summary>
 
-स लङ्घयित्वा प्राकारं गिरिकूटोपमो महान् ।  
-निर्ययौ नगरात् तूर्णं कुम्भकर्णो महाबलः ॥ १ ॥
+[^non-baroDa-CE] स लङ्घयित्वा प्राकारं गिरिकूटोपमो महान् ।  
+[^non-baroDa-CE] निर्ययौ नगरात् तूर्णं कुम्भकर्णो महाबलः ॥ १ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -860,7 +860,7 @@ With faces drained of color from terror (_vivarṇavadanā bhayāt_), they [fled
 
 ममज्जुरर्णवे केचिद् गुहाः केचित् समाश्रिताः ।  
 निपेतुः केचिदपरे केचिन्नैवावतस्थिरे ।  
-केचिद् भूमौ निपतिताः केचित् सुप्ता मृता इव ॥ १७ ॥
+[^non-baroDa-CE] केचिद् भूमौ निपतिताः केचित् सुप्ता मृता इव ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1084,7 +1084,7 @@ O warriors of unobstructed stride and valor (_asaṅgagatipauruṣāḥ_), your 
 <details><summary>मूलम्</summary>
 
 कुलेषु जाताः सर्वेऽस्मिन् विस्तीर्णेषु महत्सु च ।  
-क्व गच्छत भयत्रस्ताः प्राकृता हरयो यथा ।  
+[^non-baroDa-CE] क्व गच्छत भयत्रस्ताः प्राकृता हरयो यथा ।  
 अनार्याः खलु यद्भीतास्त्यक्त्वा वीर्यं प्रधावत ॥ २१ ॥
 </details>
 
@@ -1226,7 +1226,7 @@ Exhorting the monkeys either to win Brahmaloka by dying in battle or gain glory 
 <details><summary>मूलम्</summary>
 
 शयामहे वा निहताः पृथिव्यामल्पजीविताः ।  
-प्राप्नुयामो ब्रह्मलोकं दुष्प्रापं च कुयोधिभिः ॥ २४ ॥
+[^non-baroDa-CE] प्राप्नुयामो ब्रह्मलोकं दुष्प्रापं च कुयोधिभिः ॥ २४ ॥
 _________________
 शयामहेवा निहताः पृथिव्यामल्पजीविताः ।  
 प्राप्नुयामो ब्रह्मलोकं दुष्ट्रापं च कुयोधिभिः ॥
@@ -1282,7 +1282,7 @@ the people. Let the path trodden by the good people be followed. Let your fear b
 <details><summary>मूलम्</summary>
 
 अवाप्नुयामः कीर्तिं वा निहत्वा शत्रुमाहवे ।  
-निहता वीरलोकस्य भोक्ष्यामो वसु वानराः ॥ २५ ॥
+[^non-baroDa-CE] निहता वीरलोकस्य भोक्ष्यामो वसु वानराः ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1626,8 +1626,8 @@ Yet as those valiant monkeys (_balīmukhāḥ_) were fleeing, they were all turn
 
 <details><summary>मूलम्</summary>
 
-प्रहर्षमुपनीताश्च वालिपुत्रेण धीमता ।  
-आज्ञाप्रतीक्षास्तस्थुश्च सर्वे वानरयूथपाः ॥ ३२ ॥
+[^non-baroDa-CE] प्रहर्षमुपनीताश्च वालिपुत्रेण धीमता ।  
+[^non-baroDa-CE] आज्ञाप्रतीक्षास्तस्थुश्च सर्वे वानरयूथपाः ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1736,3 +1736,4 @@ army-troops stood awaiting his command.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

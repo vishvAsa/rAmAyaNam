@@ -660,7 +660,7 @@ Absolute, in you... so I did not cast off this body...' Thus said the sage to Ra
 
 <details><summary>मूलम्</summary>
 
-उपागम्य च मे देवो महादेवः सुरेश्वरः ।  
+[^non-baroDa-CE] उपागम्य च मे देवो महादेवः सुरेश्वरः ।  
 सर्वांल्लोकाञ्जितानाह मम पुण्येन कर्मणा ॥ ११ ॥
 </details>
 
@@ -1125,7 +1125,7 @@ Lest slaying the hermitage deer grieve the compassionate Sutīkṣṇa, Rāma de
 
 <details><summary>मूलम्</summary>
 
-नान्यो दोषो भवेदत्र मृगेभ्योऽन्यत्र विद्धि वै ।  
+[^non-baroDa-CE] नान्यो दोषो भवेदत्र मृगेभ्योऽन्यत्र विद्धि वै ।  
 तच्छ्रुत्वा वचनं तस्य महर्षेर्लक्ष्मणाग्रजः ॥ १९ ॥  
 उवाच वचनं धीरो विगृह्य सशरं धनुः ।
 </details>
@@ -1289,7 +1289,7 @@ said Rama. [3-7-21b, 22a]
 <details><summary>मूलम्</summary>
 
 अन्वास्य पश्चिमां सन्ध्यां तत्र वासमकल्पयत् ।  
-सुतीक्ष्णस्याश्रमे रम्ये सीतया लक्ष्मणेन च ॥ २३ ॥
+[^non-baroDa-CE] सुतीक्ष्णस्याश्रमे रम्ये सीतया लक्ष्मणेन च ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1405,3 +1405,4 @@ Then, at the conclusion of the twilight rites (_saṃdhyā-nivṛttau_), perceiv
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

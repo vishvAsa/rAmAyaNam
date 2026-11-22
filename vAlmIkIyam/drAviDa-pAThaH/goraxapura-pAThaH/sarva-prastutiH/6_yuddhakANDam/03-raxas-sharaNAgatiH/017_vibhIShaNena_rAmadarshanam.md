@@ -152,11 +152,11 @@ Standing upon the earth (_mahīsthāḥ_), those lords of the monkeys beheld him
 
 <details><summary>मूलम्</summary>
 
-ते चाप्यनुचरास्तस्य चत्वारो भीमविक्रमाः ।  
-तेऽपि वर्मायुधोपेता भूषणोत्तमभूषिताः ॥ ३ ॥
+[^non-baroDa-CE] ते चाप्यनुचरास्तस्य चत्वारो भीमविक्रमाः ।  
+[^non-baroDa-CE] तेऽपि वर्मायुधोपेता भूषणोत्तमभूषिताः ॥ ३ ॥
 _________________
 ते चाप्यनुचरास्तस्य चात्वारो भीमविक्रमाः ।  
-तेऽपि वर्मायुधोपेता भूषणोत्तमभूषिताः ॥
+[^non-baroDa-CE] तेऽपि वर्मायुधोपेता भूषणोत्तमभूषिताः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -201,8 +201,8 @@ And those four attendants (_anucarāḥ_) of his were of terrible valor (_bhīma
 
 <details><summary>मूलम्</summary>
 
-स च मेघाचलप्रख्यो वज्रायुधसमप्रभः ।  
-वरायुधधरो वीरो दिव्याभरणभूषितः ॥ ४ ॥
+[^non-baroDa-CE] स च मेघाचलप्रख्यो वज्रायुधसमप्रभः ।  
+[^non-baroDa-CE] वरायुधधरो वीरो दिव्याभरणभूषितः ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -919,7 +919,7 @@ to take refuge with Rama."
 <details><summary>मूलम्</summary>
 
 निवेदयत मां क्षिप्रं राघवाय महात्मने ।  
-सर्वलोकशरण्याय विभीषणमुपस्थितम् ॥ १७ ॥
+[^non-baroDa-CE] सर्वलोकशरण्याय विभीषणमुपस्थितम् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1030,8 +1030,8 @@ Citing the maxims of statecraft, Sugrīva warns Rāma that rākṣasas are decei
 
 <details><summary>मूलम्</summary>
 
-प्रविष्टः शत्रुसैन्यं हि प्राप्तः शत्रुरतर्कितः ।  
-निहन्यादन्तरं लब्ध्वा उलूको वायसानिव ॥ १९ ॥
+[^non-baroDa-CE] प्रविष्टः शत्रुसैन्यं हि प्राप्तः शत्रुरतर्कितः ।  
+[^non-baroDa-CE] निहन्यादन्तरं लब्ध्वा उलूको वायसानिव ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1083,7 +1083,7 @@ unexpectedly has come here to slay us at the first opportunity like an owl destr
 
 <details><summary>मूलम्</summary>
 
-मन्त्रे व्यूहे नये चारे युक्तो भवितुमर्हसि ।  
+[^non-baroDa-CE] मन्त्रे व्यूहे नये चारे युक्तो भवितुमर्हसि ।  
 वानराणां च भद्रं ते परेषां च परन्तप ॥ २० ॥
 _________________
 मन्त्रे व्यॆहे नये चारे युक्तो भवितुमर्हसि ।  
@@ -1134,8 +1134,8 @@ you!"
 
 <details><summary>मूलम्</summary>
 
-अन्तर्धानगता ह्येते राक्षसाः कामरूपिणः ।  
-शूराश्च निकृतिज्ञाश्च तेषां जातु न विश्वसेत् ॥ २१ ॥
+[^non-baroDa-CE] अन्तर्धानगता ह्येते राक्षसाः कामरूपिणः ।  
+[^non-baroDa-CE] शूराश्च निकृतिज्ञाश्च तेषां जातु न विश्वसेत् ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1186,10 +1186,10 @@ deceitful. We can not trust them at any time."
 
 <details><summary>मूलम्</summary>
 
-प्रणिधी राक्षसेन्द्रस्य रावणस्य भवेदयम् ।  
-अनुप्रविश्य सोऽस्मासु भेदं कुर्यान्न संशयः ॥ २२ ॥
+[^non-baroDa-CE] प्रणिधी राक्षसेन्द्रस्य रावणस्य भवेदयम् ।  
+[^non-baroDa-CE] अनुप्रविश्य सोऽस्मासु भेदं कुर्यान्न संशयः ॥ २२ ॥
 _________________
-प्रणिधी राक्षसेन्द्रस्य रावणस्य भवेदयम् ।  
+[^non-baroDa-CE] प्रणिधी राक्षसेन्द्रस्य रावणस्य भवेदयम् ।  
 अनुप्रविष्य सोऽस्मासु भेदं कुर्यान्न संशयः ॥
 </details>
 
@@ -1242,11 +1242,11 @@ among us and create differences. There is no doubt."
 
 <details><summary>मूलम्</summary>
 
-अथ वा स्वयमेवैष छिद्रमासाद्य बुद्धिमान् ।  
-अनुप्रविश्य विश्वस्ते कदाचित् प्रहरेदपि ॥ २३ ॥
+[^non-baroDa-CE] अथ वा स्वयमेवैष छिद्रमासाद्य बुद्धिमान् ।  
+[^non-baroDa-CE] अनुप्रविश्य विश्वस्ते कदाचित् प्रहरेदपि ॥ २३ ॥
 _________________
 अथ वा स्वयमेवैष च्चिद्रमासाद्य बुद्धिमान् ।  
-अनुप्रविश्य विश्वस्ते कदाचित् प्रहरेदपि ॥
+[^non-baroDa-CE] अनुप्रविश्य विश्वस्ते कदाचित् प्रहरेदपि ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1298,10 +1298,10 @@ us. Having first gained our confidence by craft, he may even at any time attack 
 
 <details><summary>मूलम्</summary>
 
-मित्राटविबलं चैव मौलभृत्यबलं तथा ।  
-सर्वमेतद् बलं ग्राह्यं वर्जयित्वा द्विषद्बलम् ॥ २४ ॥
+[^non-baroDa-CE] मित्राटविबलं चैव मौलभृत्यबलं तथा ।  
+[^non-baroDa-CE] सर्वमेतद् बलं ग्राह्यं वर्जयित्वा द्विषद्बलम् ॥ २४ ॥
 _________________
-मित्राटविबलं चैव मौलभृत्यबलं तथा ।  
+[^non-baroDa-CE] मित्राटविबलं चैव मौलभृत्यबलं तथा ।  
 सर्वमेतद् बलं ग्राह्यं वर्जयित्वा द्विषद्वलम् ॥
 </details>
 
@@ -1363,8 +1363,8 @@ Concluding his impassioned counsel, Sugrīva argues that Rāvaṇa's brother is 
 
 <details><summary>मूलम्</summary>
 
-प्रकृत्या राक्षसो ह्येष भ्रातामित्रस्य वै प्रभो ।  
-आगतश्च रिपुः साक्षात् कथमस्मिंश्च विश्वसेत् ॥ २५ ॥
+[^non-baroDa-CE] प्रकृत्या राक्षसो ह्येष भ्रातामित्रस्य वै प्रभो ।  
+[^non-baroDa-CE] आगतश्च रिपुः साक्षात् कथमस्मिंश्च विश्वसेत् ॥ २५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -3696,3 +3696,4 @@ of the issue."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -32,8 +32,8 @@ As Rāma and Lakṣmaṇa converse through a temperate spring night, Rāma enter
 
 <details><summary>मूलम्</summary>
 
-तयोः संवदतोरेवं रामलक्ष्मणयोस्तदा ।  
-वासन्तिकी निशा प्राप्ता न शीता न च घर्मदा ॥ १ ॥
+[^non-baroDa-CE] तयोः संवदतोरेवं रामलक्ष्मणयोस्तदा ।  
+[^non-baroDa-CE] वासन्तिकी निशा प्राप्ता न शीता न च घर्मदा ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -59,7 +59,7 @@ While Rāma and Lakṣmaṇa were thus conversing together (_tayoḥ saṃvadato
 <details><summary>मूलम्</summary>
 
 ततः प्रभाते विमले कृतपूर्वाह्णिकक्रियः ।  
-अभिचक्राम काकुत्स्थो दर्शनं पौरकार्यवित् ॥ २ ॥
+[^non-baroDa-CE] अभिचक्राम काकुत्स्थो दर्शनं पौरकार्यवित् ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -458,3 +458,4 @@ And filled with great joy (_harṣeṇa mahatā vṛtāḥ_), those high-souled 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

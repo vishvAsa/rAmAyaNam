@@ -344,7 +344,7 @@ Weeping and trembling like a doe, Sītā declares her life pointless if Rāma is
 
 <details><summary>मूलम्</summary>
 
-लोभात्तु मत्कृते नूनं नानुगच्छसि राघवम् ।  
+[^non-baroDa-CE] लोभात्तु मत्कृते नूनं नानुगच्छसि राघवम् ।  
 व्यसनं ते प्रियं मन्ये स्नेहो भ्रातरि नास्ति ते ॥ ७ ॥
 </details>
 
@@ -508,11 +508,11 @@ anguish in that way, as she is fretful like a she-deer. [3-45-9a, 10b]
 
 <details><summary>मूलम्</summary>
 
-पन्नगासुरगन्धर्वदेवदानवराक्षसैः ॥ १० ॥  
-अशक्यस्तव वैदेहि भर्ता जेतुं न संशयः ।
+[^non-baroDa-CE] पन्नगासुरगन्धर्वदेवदानवराक्षसैः ॥ १० ॥  
+[^non-baroDa-CE] अशक्यस्तव वैदेहि भर्ता जेतुं न संशयः ।
 _________________
 पन्नगासुरगङ्गर्वदेवदानवराक्षसैः ॥  
-अशक्यस्तव वैदेहि भर्ता जेतुं न संशयः ।
+[^non-baroDa-CE] अशक्यस्तव वैदेहि भर्ता जेतुं न संशयः ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1017,8 +1017,8 @@ bloodshot she spoke these rude sentences to that veracious Lakshmana. [3-45-20b,
 <details><summary>मूलम्</summary>
 
 अनार्याकरुणारम्भ नृशंस कुलपांसन ॥ २१ ॥  
-अहं तव प्रियं मन्ये रामस्य व्यसनं महत् ।  
-रामस्य व्यसनं दृष्ट्वा तेनैतानि प्रभाषसे ॥ २२ ॥
+[^non-baroDa-CE] अहं तव प्रियं मन्ये रामस्य व्यसनं महत् ।  
+[^non-baroDa-CE] रामस्य व्यसनं दृष्ट्वा तेनैतानि प्रभाषसे ॥ २२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1195,7 +1195,7 @@ Vowing to die before desiring any man other than lotus-eyed Rāma, Sītā pierce
 
 <details><summary>मूलम्</summary>
 
-तन्न सिध्यति सौमित्रे तवापि भरतस्य वा ।  
+[^non-baroDa-CE] तन्न सिध्यति सौमित्रे तवापि भरतस्य वा ।  
 कथमिन्दीवरश्यामं रामं पद्मनिभेक्षणम् ॥ २५ ॥  
 उपसंश्रित्य भर्तारं कामयेयं पृथग्जनम् ।
 </details>
@@ -1416,7 +1416,7 @@ nature of women and it is obvious in the world. [3-45-28b, 29]
 <details><summary>मूलम्</summary>
 
 विमुक्तधर्माश्चपलास्तीक्ष्णा भेदकराः स्त्रियः ।  
-न सहे हीदृशं वाक्यं वैदेहि जनकात्मजे ॥ ३० ॥  
+[^non-baroDa-CE] न सहे हीदृशं वाक्यं वैदेहि जनकात्मजे ॥ ३० ॥  
 श्रोत्रयोरुभयोर्मध्ये तप्तनाराचसन्निभम् ।
 _________________
 विमुक्तधर्माश्चपलास्तीक्ष्णा भेदकराः स्त्रियः ।  
@@ -2024,3 +2024,4 @@ Then, having saluted Sītā (_sītām abhivādya_) with joined palms (_kṛtāñ
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

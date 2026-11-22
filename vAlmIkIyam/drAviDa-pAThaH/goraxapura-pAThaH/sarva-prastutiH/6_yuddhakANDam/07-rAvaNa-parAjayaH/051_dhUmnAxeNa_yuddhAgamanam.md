@@ -938,7 +938,7 @@ slay Rama, Lakshmana and his monkeys."
 <details><summary>मूलम्</summary>
 
 एवमुक्तस्तु धूम्राक्षो राक्षसेन्द्रेण धीमता ।  
-परिक्रम्य ततः शीघ्रं निर्जगाम नृपालयात् ॥ २० ॥
+[^non-baroDa-CE] परिक्रम्य ततः शीघ्रं निर्जगाम नृपालयात् ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1407,11 +1407,11 @@ Surrounded by rākṣasas, that Dhūmrākṣa of great valor marched forth laugh
 
 <details><summary>मूलम्</summary>
 
-रथप्रवरमास्थाय खरयुक्तं खरस्वनम् ।  
+[^non-baroDa-CE] रथप्रवरमास्थाय खरयुक्तं खरस्वनम् ।  
 प्रयान्तं तु महाघोरं राक्षसं भीमदर्शनम् ॥ ३० ॥  
 अन्तरिक्षगताः क्रूराः शकुनाः प्रत्यषेधयन् ।
 _________________
-रथप्रवरमास्थाय खरयुक्तं खरस्वनम् ।  
+[^non-baroDa-CE] रथप्रवरमास्थाय खरयुक्तं खरस्वनम् ।  
 प्रयान्तं तु महाघोरं राक्षसं भीमदर्शनम् ।  
 अन्तरिक्षगताः क्रूराः शकुनाः प्रत्यवारयन् ।
 </details>
@@ -1634,7 +1634,7 @@ A wind blew contrariwise (_pratilomaṃ vavau vāyuḥ_) with a roar like a thun
 
 स तूत्पातांस्ततो दृष्ट्वा राक्षसानां भयावहान् ।  
 प्रादुर्भूतान् सुघोरांश्च धूम्राक्षो व्यथितोऽभवत् ।  
-मुमुहू राक्षसाः सर्वे धूम्राक्षस्य पुरःसराः ॥ ३५ ॥
+[^non-baroDa-CE] मुमुहू राक्षसाः सर्वे धूम्राक्षस्य पुरःसराः ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1751,3 +1751,4 @@ Then that mighty and most dreadful warrior, surrounded by multitudinous night-st
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

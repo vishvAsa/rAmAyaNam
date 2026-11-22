@@ -46,8 +46,8 @@ Regaining consciousness after a long swoon, Bharata publicly denounces Kaikeyī 
 <details><summary>मूलम्</summary>
 
 दीर्घकालात् समुत्थाय सञ्ज्ञां लब्ध्वा स वीर्यवान् ।  
-नेत्राभ्यामश्रुपूर्णाभ्यां दीनामुद्वीक्ष्य मातरम् ॥ १ ॥  
-सोऽमात्यमध्ये भरतो जननीमभ्यकुत्सयत् ।
+[^non-baroDa-CE] नेत्राभ्यामश्रुपूर्णाभ्यां दीनामुद्वीक्ष्य मातरम् ॥ १ ॥  
+[^non-baroDa-CE] सोऽमात्यमध्ये भरतो जननीमभ्यकुत्सयत् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -103,8 +103,8 @@ Rising up after a long while and regaining consciousness, that heroic prince (_d
 
 <details><summary>मूलम्</summary>
 
-राज्यं न कामये जातु मन्त्रये नापि मातरम् ॥ २ ॥  
-अभिषेकं न जानामि योऽभूद् राज्ञा समीक्षितः ।  
+[^non-baroDa-CE] राज्यं न कामये जातु मन्त्रये नापि मातरम् ॥ २ ॥  
+[^non-baroDa-CE] अभिषेकं न जानामि योऽभूद् राज्ञा समीक्षितः ।  
 विप्रकृष्टे ह्यहं देशे शत्रुघ्नसहितोऽभवम् ॥ ३ ॥
 </details>
 
@@ -163,7 +163,7 @@ Dasaratha; since I was staying indeed in a distant land, along with Satrughna."
 
 <details><summary>मूलम्</summary>
 
-वनवासं न जानामि रामस्याहं महात्मनः ।  
+[^non-baroDa-CE] वनवासं न जानामि रामस्याहं महात्मनः ।  
 विवासनं च सौमित्रेः सीतायाश्च यथाभवत् ॥ ४ ॥
 </details>
 
@@ -817,10 +817,10 @@ grains and riches, has been made over to you by her."
 
 <details><summary>मूलम्</summary>
 
-इत्यादिबहुभिर्वाक्यैः क्रूरैः सम्भर्त्सितोऽनघः ।  
+[^non-baroDa-CE] इत्यादिबहुभिर्वाक्यैः क्रूरैः सम्भर्त्सितोऽनघः ।  
 विव्यथे भरतोऽतीव व्रणे तुद्येव सूचिना ॥ १७ ॥
 _________________
-इत्यादिबहुभिर्वाक्यैः क्रूरैः सम्भर्त्सितोऽनघः ।  
+[^non-baroDa-CE] इत्यादिबहुभिर्वाक्यैः क्रूरैः सम्भर्त्सितोऽनघः ।  
 विव्यथे भरतोऽतीव्र व्रणे तुद्येव सूचिना ॥
 </details>
 
@@ -873,7 +873,7 @@ Thus harshly rebuked with many such cruel words (_ity-ādi-bahubhir vākyaiḥ k
 
 <details><summary>मूलम्</summary>
 
-पपात चरणौ तस्यास्तदा सम्भ्रान्तचेतनः ।  
+[^non-baroDa-CE] पपात चरणौ तस्यास्तदा सम्भ्रान्तचेतनः ।  
 विलप्य बहुधासञ्ज्ञो लब्धसञ्ज्ञस्तदाभवत् ॥ १८ ॥
 </details>
 
@@ -1491,10 +1491,10 @@ forget the subtle meanings of the scriptures taught with care by a wise teacher.
 <details><summary>मूलम्</summary>
 
 मा च तं व्यूढबाह्वंसं चन्द्रभास्करतेजसम् ।  
-द्राक्षीद् राज्यस्थमासीनं यस्यार्योऽनुमते गतः ॥ २९ ॥
+[^non-baroDa-CE] द्राक्षीद् राज्यस्थमासीनं यस्यार्योऽनुमते गतः ॥ २९ ॥
 _________________
 मा च तं व्यॆढबाह्वंसं चन्द्रभास्करतेजसम् ।  
-द्राक्षीद्राज्यस्थमासीनं यस्यार्योऽनुमतेगतः ॥
+[^non-baroDa-CE] द्राक्षीद्राज्यस्थमासीनं यस्यार्योऽनुमतेगतः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1664,7 +1664,7 @@ kicking the cows, of personally abusing the elders and of deceiving a friend too
 
 <details><summary>मूलम्</summary>
 
-विश्वासात् कथितं किञ्चित् परिवादं मिथः क्वचित् ।  
+[^non-baroDa-CE] विश्वासात् कथितं किञ्चित् परिवादं मिथः क्वचित् ।  
 विवृणोतु स दुष्टात्मा यस्यार्योऽनुमते गतः ॥ ३२ ॥
 </details>
 
@@ -1719,7 +1719,7 @@ confidence, to him."
 <details><summary>मूलम्</summary>
 
 अकर्ता चाकृतज्ञश्च त्यक्तात्मा निरपत्रपः ।  
-लोके भवतु विद्विष्टो यस्यार्योऽनुमते गतः ॥ ३३ ॥
+[^non-baroDa-CE] लोके भवतु विद्विष्टो यस्यार्योऽनुमते गतः ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1826,7 +1826,7 @@ his house."
 
 <details><summary>मूलम्</summary>
 
-अप्राप्य सदृशान् दाराननपत्यः प्रमीयताम् ।  
+[^non-baroDa-CE] अप्राप्य सदृशान् दाराननपत्यः प्रमीयताम् ।  
 अनवाप्य क्रियां धर्म्यां यस्यार्योऽनुमते गतः ॥ ३५ ॥
 </details>
 
@@ -1989,8 +1989,8 @@ obtain the same sin."
 
 <details><summary>मूलम्</summary>
 
-लाक्षया मधुमांसेन लोहेन च विषेण च ।  
-सदैव बिभृयाद् भृत्यान् यस्यार्योऽनुमते गतः ॥ ३८ ॥
+[^non-baroDa-CE] लाक्षया मधुमांसेन लोहेन च विषेण च ।  
+[^non-baroDa-CE] सदैव बिभृयाद् भृत्यान् यस्यार्योऽनुमते गतः ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2098,8 +2098,8 @@ commanded."
 
 <details><summary>मूलम्</summary>
 
-कपालपाणिः पृथिवीमटतां चीरसंवृतः ।  
-भिक्षमाणो यथोन्मत्तो यस्यार्योऽनुमते गतः ॥ ४० ॥
+[^non-baroDa-CE] कपालपाणिः पृथिवीमटतां चीरसंवृतः ।  
+[^non-baroDa-CE] भिक्षमाणो यथोन्मत्तो यस्यार्योऽनुमते गतः ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2205,10 +2205,10 @@ infatuation and anger and be constantly involved in wine women and dice."
 <details><summary>मूलम्</summary>
 
 मास्य धर्मे मनो भूयादधर्मं स निषेवताम् ।  
-अपात्रवर्षी भवतु यस्यार्योऽनुमते गतः ॥ ४२ ॥
+[^non-baroDa-CE] अपात्रवर्षी भवतु यस्यार्योऽनुमते गतः ॥ ४२ ॥
 _________________
 मास्य धर्मे मनो भूयादर्धर्मं स निषेवताम् ।  
-अपात्रवर्षी भवतु यस्यार्योऽनुमते गतः ॥
+[^non-baroDa-CE] अपात्रवर्षी भवतु यस्यार्योऽनुमते गतः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2271,7 +2271,7 @@ Bharata invokes further curses upon Rāma’s banisher: may robbers plunder his 
 <details><summary>मूलम्</summary>
 
 सञ्चितान्यस्य वित्तानि विविधानि सहस्रशः ।  
-दस्युभिर्विप्रलुप्यन्तां यस्यार्योऽनुमते गतः ॥ ४३ ॥
+[^non-baroDa-CE] दस्युभिर्विप्रलुप्यन्तां यस्यार्योऽनुमते गतः ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2511,7 +2511,7 @@ righteous actions."
 
 <details><summary>मूलम्</summary>
 
-अपास्य मातृशुश्रूषामनर्थे सोऽवतिष्ठताम् ।  
+[^non-baroDa-CE] अपास्य मातृशुश्रूषामनर्थे सोऽवतिष्ठताम् ।  
 दीर्घबाहुर्महावक्षा यस्यार्योऽनुमते गतः ॥ ४८ ॥
 </details>
 
@@ -2625,8 +2625,8 @@ distress."
 
 <details><summary>मूलम्</summary>
 
-आशामाशंसमानानां दीनानामूर्ध्वचक्षुषाम् ।  
-अर्थिनां वितथां कुर्याद् यस्यार्योऽनुमते गतः ॥ ५० ॥
+[^non-baroDa-CE] आशामाशंसमानानां दीनानामूर्ध्वचक्षुषाम् ।  
+[^non-baroDa-CE] अर्थिनां वितथां कुर्याद् यस्यार्योऽनुमते गतः ॥ ५० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2680,10 +2680,10 @@ alms."
 <details><summary>मूलम्</summary>
 
 मायया रमतां नित्यं पुरुषः पिशुनोऽशुचिः ।  
-राज्ञो भीतस्त्वधर्मात्मा यस्यार्योऽनुमते गतः ॥ ५१ ॥
+[^non-baroDa-CE] राज्ञो भीतस्त्वधर्मात्मा यस्यार्योऽनुमते गतः ॥ ५१ ॥
 _________________
 मयया रमतां नित्यं पुरुषः पिशुनोऽशुचिः ।  
-राज्ञो भीतस्त्वधर्मात्मा यस्यार्योऽनुमतेगतः ॥
+[^non-baroDa-CE] राज्ञो भीतस्त्वधर्मात्मा यस्यार्योऽनुमतेगतः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2736,8 +2736,8 @@ and an unrighteous man."
 
 <details><summary>मूलम्</summary>
 
-ऋतुस्नातां सतीं भार्यामृतुकालानुरोधिनीम् ।  
-अतिवर्तेत दुष्टात्मा यस्यार्योऽनुमते गतः ॥ ५२ ॥
+[^non-baroDa-CE] ऋतुस्नातां सतीं भार्यामृतुकालानुरोधिनीम् ।  
+[^non-baroDa-CE] अतिवर्तेत दुष्टात्मा यस्यार्योऽनुमते गतः ॥ ५२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2785,7 +2785,7 @@ approaches him for union having regard for the season favorable for procreation.
 
 <details><summary>मूलम्</summary>
 
-विप्रलुप्तप्रजातस्य दुष्कृतं ब्राह्मणस्य यत् ।  
+[^non-baroDa-CE] विप्रलुप्तप्रजातस्य दुष्कृतं ब्राह्मणस्य यत् ।  
 तदेतत् प्रतिपद्येत यस्यार्योऽनुमते गतः ॥ ५३ ॥
 </details>
 
@@ -2833,8 +2833,8 @@ piety."
 
 <details><summary>मूलम्</summary>
 
-ब्राह्मणायोद्यतां पूजां विहन्तु कलुषेन्द्रियः ।  
-बालवत्सां च गां दोग्धु यस्यार्योऽनुमते गतः ॥ ५४ ॥
+[^non-baroDa-CE] ब्राह्मणायोद्यतां पूजां विहन्तु कलुषेन्द्रियः ।  
+[^non-baroDa-CE] बालवत्सां च गां दोग्धु यस्यार्योऽनुमते गतः ॥ ५४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2893,11 +2893,11 @@ Concluding his oaths—invoking the sins of poisoning water, obstructing worship
 
 <details><summary>मूलम्</summary>
 
-धर्मदारान् परित्यज्य परदारान् निषेवताम् ।  
-त्यक्तधर्मरतिर्मूढो यस्यार्योऽनुमते गतः ॥ ५५ ॥
+[^non-baroDa-CE] धर्मदारान् परित्यज्य परदारान् निषेवताम् ।  
+[^non-baroDa-CE] त्यक्तधर्मरतिर्मूढो यस्यार्योऽनुमते गतः ॥ ५५ ॥
 _________________
 धर्मदारान्परित्यज्य परदारान्विषेवताम् ।  
-त्यक्तधर्मरतिर्मूढो यस्यार्योऽनुमते गतः ॥
+[^non-baroDa-CE] त्यक्तधर्मरतिर्मूढो यस्यार्योऽनुमते गतः ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2944,7 +2944,7 @@ poison."
 
 <details><summary>मूलम्</summary>
 
-पानीयदूषके पापं तथैव विषदायके ।  
+[^non-baroDa-CE] पानीयदूषके पापं तथैव विषदायके ।  
 यत्तदेकः स लभतां यस्यार्योऽनुमते गतः ॥ ५६ ॥
 </details>
 
@@ -3052,7 +3052,7 @@ obtained of disappointing a person oppressed with thirst, even though water was 
 
 <details><summary>मूलम्</summary>
 
-भक्त्या विवदमानेषु मार्गमाश्रित्य पश्यतः ।  
+[^non-baroDa-CE] भक्त्या विवदमानेषु मार्गमाश्रित्य पश्यतः ।  
 तेन पापेन युज्येत यस्यार्योऽनुमते गतः ॥ ५८ ॥
 </details>
 
@@ -3331,7 +3331,7 @@ righteous path. You will obtain the world of the blessed, along with Lakshmana."
 <details><summary>मूलम्</summary>
 
 इत्युक्त्वा चाङ्कमानीय भरतं भ्रातृवत्सलम् ।  
-परिष्वज्य महाबाहुं रुरोद भृशदुःखिता ॥ ६३ ॥
+[^non-baroDa-CE] परिष्वज्य महाबाहुं रुरोद भृशदुःखिता ॥ ६३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3488,3 +3488,4 @@ As he lamented piteously again and again, bereft of senses, his discernment over
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

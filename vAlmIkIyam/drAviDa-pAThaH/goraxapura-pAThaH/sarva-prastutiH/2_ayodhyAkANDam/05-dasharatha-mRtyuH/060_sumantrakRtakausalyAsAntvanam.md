@@ -774,7 +774,7 @@ now of the words hurriedly spoken of by Seetha about Kaikeyi."
 <details><summary>मूलम्</summary>
 
 ध्वंसयित्वा तु तद् वाक्यं प्रमादात् पर्युपस्थितम् ।  
-ह्लादनं वचनं सूतो देव्या मधुरमब्रवीत् ॥ १५ ॥
+[^non-baroDa-CE] ह्लादनं वचनं सूतो देव्या मधुरमब्रवीत् ॥ १५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1278,3 +1278,4 @@ Even though thus dissuaded by the charioteer who spoke such well-reasoned words 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -309,7 +309,7 @@ Foreseeing that the child will become Lord of Wealth, Pulastya names him Vaiśra
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वा श्रेयस्करीं बुद्धिं धनाध्यक्षो भविष्यति ।  
+[^non-baroDa-CE] दृष्ट्वा श्रेयस्करीं बुद्धिं धनाध्यक्षो भविष्यति ।  
 नाम चास्याकरोत् प्रीतः सार्धं देवर्षिभिस्तदा ॥ ७ ॥
 </details>
 
@@ -436,7 +436,7 @@ While that high-souled one dwelt within the hermitage grounds (_āśrama-pada-st
 <details><summary>मूलम्</summary>
 
 स तु वर्षसहस्राणि तपस्तप्त्वा महावने ।  
-यन्त्रितो नियमैरुग्रैश्चकार सुमहत्तपः ॥ ११ ॥
+[^non-baroDa-CE] यन्त्रितो नियमैरुग्रैश्चकार सुमहत्तपः ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -666,7 +666,7 @@ Then with a deeply gratified heart (_parituṣṭena cetasā_), Brahmā, togethe
 <details><summary>मूलम्</summary>
 
 तद् गच्छ बत धर्मज्ञ निधीशत्वमवाप्नुहि ॥ १८ ॥  
-शक्राम्बुपयमानां च चतुर्थस्त्वं भविष्यसि ।
+[^non-baroDa-CE] शक्राम्बुपयमानां च चतुर्थस्त्वं भविष्यसि ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -771,12 +771,12 @@ When the gods headed by Brahmā (_brahma-pūrveṣu deveṣu_) had ascended to t
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा स गतो ब्रह्मा स्वस्थानं त्रिदशैः सह ॥ २१ ॥  
+[^non-baroDa-CE] इत्युक्त्वा स गतो ब्रह्मा स्वस्थानं त्रिदशैः सह ॥ २१ ॥  
 गतेषु ब्रह्मपूर्वेषु देवेष्वथ नभस्तलम् ।  
 धनेशः पितरं प्राह प्राञ्जलिः प्रयतात्मवान् ॥ २२ ॥  
 भगवल्ँ लब्धवानस्मि वरमिष्टं पितामहात् ।
 _________________
-इत्युक्त्वा स गतो ब्रह्मा स्वस्थानं त्रिदशैः सह ॥
+[^non-baroDa-CE] इत्युक्त्वा स गतो ब्रह्मा स्वस्थानं त्रिदशैः सह ॥
 गतेषु ब्रह्मपूर्वेषु देवेष्वथ नभस्तलम्  
 धनेशः पितरं प्राह प्राञ्जलिः प्रयतात्मवान् ॥  
 भगवल्लब्धवानस्मि वरमिष्टं पितामहात् ।
@@ -858,8 +858,8 @@ Viśravas describes the golden, weapon-ringed citadel of Laṅkā atop Trikūṭ
 
 एवमुक्तस्तु पुत्रेण विश्रवा मुनिपुङ्गवः ।  
 वचनं प्राह धर्मज्ञ श्रूयतामिति सत्तम ॥ २५ ॥  
-दक्षिणस्योदधेस्तीरे त्रिकूटो नाम पर्वतः ।  
-तस्याग्रे तु विशाला सा महेन्द्रस्य पुरी यथा ॥ २६ ॥
+[^non-baroDa-CE] दक्षिणस्योदधेस्तीरे त्रिकूटो नाम पर्वतः ।  
+[^non-baroDa-CE] तस्याग्रे तु विशाला सा महेन्द्रस्य पुरी यथा ॥ २६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -922,7 +922,7 @@ Viśravas describes the golden, weapon-ringed citadel of Laṅkā atop Trikūṭ
 
 <details><summary>मूलम्</summary>
 
-तत्र त्वं वस भद्रं ते लङ्कायां नात्र संशयः ।  
+[^non-baroDa-CE] तत्र त्वं वस भद्रं ते लङ्कायां नात्र संशयः ।  
 हेमप्राकारपरिखा यन्त्रशस्त्रसमावृता ॥ २८ ॥
 </details>
 
@@ -993,7 +993,7 @@ Accepting his father’s righteous counsel, Vaiśravaṇa peoples mountain-crown
 <details><summary>मूलम्</summary>
 
 शून्या रक्षोगणैः सर्वै रसातलतलं गतैः ।  
-शून्या सम्प्रति लङ्का सा प्रभुस्तस्या न विद्यते ॥ ३० ॥
+[^non-baroDa-CE] शून्या सम्प्रति लङ्का सा प्रभुस्तस्या न विद्यते ॥ ३० ॥
 _________________
 शून्या रक्षोगणैः सर्वै रसातलतलं गतैः ।  
 शून्या सम्प्रतिलङ्का सा प्रभुस्तस्या न विद्यदे ॥
@@ -1026,7 +1026,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-स त्वं तत्र निवासाय गच्छ पुत्र यथासुखम् ।  
+[^non-baroDa-CE] स त्वं तत्र निवासाय गच्छ पुत्र यथासुखम् ।  
 निर्दोषस्तत्र ते वासो न बाधस्तत्र कस्यचित् ॥ ३१ ॥
 </details>
 
@@ -1199,3 +1199,4 @@ Praised by throngs of gods and Gandharvas (_deva-gandharva-gaṇair abhiṣṭut
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

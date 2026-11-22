@@ -425,7 +425,7 @@ princess of Mithila kingdom, adorned in all her jewels, will submit herself to m
 
 अद्य कालवशं प्राप्तं रणे रामं सलक्ष्मणम् ।  
 अवेक्ष्य विनिवृत्ता सा चान्यां गतिमपश्यती ॥ १० ॥  
-अनपेक्षा विशालाक्षी मामुपस्थास्यते स्वयम् ।
+[^non-baroDa-CE] अनपेक्षा विशालाक्षी मामुपस्थास्यते स्वयम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -628,7 +628,7 @@ Brought that princess of Mithilā, who was dwelling in the Aśoka grove (_aśoka
 <details><summary>मूलम्</summary>
 
 ततः पुष्पकमारोप्य सीतां त्रिजटया सह ॥ १४ ॥  
-जग्मुर्दर्शयितुं तस्यै राक्षस्यो रामलक्ष्मणौ ।  
+[^non-baroDa-CE] जग्मुर्दर्शयितुं तस्यै राक्षस्यो रामलक्ष्मणौ ।  
 रावणश्चारयामास पताकाध्वजमालिनीम् ॥ १५ ॥
 </details>
 
@@ -892,8 +892,8 @@ Two heroes with their armor shattered (_vidhvastakavacau vīrau_), their bows ca
 <details><summary>मूलम्</summary>
 
 तौ दृष्ट्वा भ्रातरौ तत्र प्रवीरौ पुरुषर्षभौ ।  
-शयानौ पुण्डरीकाक्षौ कुमाराविव पावकी ॥ २१ ॥  
-शरतल्पगतौ वीरौ तथाभूतौ नरर्षभौ ।  
+[^non-baroDa-CE] शयानौ पुण्डरीकाक्षौ कुमाराविव पावकी ॥ २१ ॥  
+[^non-baroDa-CE] शरतल्पगतौ वीरौ तथाभूतौ नरर्षभौ ।  
 दुःखार्ता करुणं सीता सुभृशं विललाप ह ॥ २२ ॥
 </details>
 
@@ -950,8 +950,8 @@ stricken as she was with a great agony.
 
 <details><summary>मूलम्</summary>
 
-भर्तारमनवद्याङ्गी लक्ष्मणं चासितेक्षणा ।  
-प्रेक्ष्य पांसुषु चेष्टन्तौ रुरोद जनकात्मजा ॥ २३ ॥
+[^non-baroDa-CE] भर्तारमनवद्याङ्गी लक्ष्मणं चासितेक्षणा ।  
+[^non-baroDa-CE] प्रेक्ष्य पांसुषु चेष्टन्तौ रुरोद जनकात्मजा ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1041,3 +1041,4 @@ Stricken with tears and sorrow (_sabāṣpaśokābhihatā_) as she gazed upon th
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -2802,7 +2802,7 @@ Contemplating slaying Rāvaṇa or carrying him across the ocean like a sacrific
 
 <details><summary>मूलम्</summary>
 
-ततो विक्रममासाद्य धैर्यवान् कपिकुञ्जरः ।  
+[^non-baroDa-CE] ततो विक्रममासाद्य धैर्यवान् कपिकुञ्जरः ।  
 रावणं वा वधिष्यामि दशग्रीवं महाबलम् ।  
 काममस्तु हृता सीता प्रत्याचीर्णं भविष्यति ॥ ४९ ॥
 </details>
@@ -3881,3 +3881,5 @@ a cruel action, with a horribly decorated form will fall in the range of my sigh
 “Overpowered by force (_balābhibhūtā_) by that vile (_kṣudreṇa_), base (_hīnena_) wretch of cruel form (_nṛśaṃsamūrtinā_) who wore a guise at once dreadful and tricked out with ornaments (_sudāruṇālaṃkṛtaveṣadhāriṇā_), how may that helpless, piteous lady come within the range of my sight today (_kathaṃ nu me dṛṣṭipathe &#x27;dya sā bhavet_)?”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

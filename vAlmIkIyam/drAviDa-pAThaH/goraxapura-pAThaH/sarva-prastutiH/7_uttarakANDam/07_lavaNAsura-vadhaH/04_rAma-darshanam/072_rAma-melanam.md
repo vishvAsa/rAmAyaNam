@@ -31,7 +31,7 @@ Kept awake all night pondering the sweet, profound song of Rāma, Śatrughna per
 
 <details><summary>मूलम्</summary>
 
-तं शयानं नरव्याघ्रं निद्रा नाभ्यागमत् तदा ।  
+[^non-baroDa-CE] तं शयानं नरव्याघ्रं निद्रा नाभ्यागमत् तदा ।  
 चिन्तयानमनेकार्थं रामगीतमनुत्तमम् ॥ १ ॥
 _________________
 ततो द्वादशमे वर्षे शत्रुघ्नो रामपालिताम् ।  
@@ -65,8 +65,8 @@ Sleep did not come then (_nidrā nābhyāgamat tadā_) to that tiger among men a
 
 <details><summary>मूलम्</summary>
 
-तस्य शब्दं सुमधुरं तन्त्रीलयसमन्वितम् ।  
-श्रुत्वा रात्रिर्जगामाशु शत्रुघ्नस्य महात्मनः ॥ २ ॥
+[^non-baroDa-CE] तस्य शब्दं सुमधुरं तन्त्रीलयसमन्वितम् ।  
+[^non-baroDa-CE] श्रुत्वा रात्रिर्जगामाशु शत्रुघ्नस्य महात्मनः ॥ २ ॥
 _________________
 ततो मन्त्रि पुरोगांश्च बलमुख्यान्निवर्त्य च ।  
 जगाम हयमुख्येन रथानां च शतेन सः ॥
@@ -100,7 +100,7 @@ Listening to its most honeyed sound (_tasya śabdaṃ su-madhuram_), harmonized 
 <details><summary>मूलम्</summary>
 
 तस्यां रजन्यां व्युष्टायां कृत्वा पौर्वाह्णिकक्रमम् ।  
-उवाच प्राञ्जलिर्वाक्यं शत्रुघ्नो मुनिपुङ्गवम् ॥ ३ ॥
+[^non-baroDa-CE] उवाच प्राञ्जलिर्वाक्यं शत्रुघ्नो मुनिपुङ्गवम् ॥ ३ ॥
 _________________
 स गत्वा गणितान्वासान्सप्ताष्टौ रघुनन्दनः ।  
 वाल्मीकाश्रममागत्य वासं चक्रेमहायशाः ॥
@@ -133,7 +133,7 @@ When that night had dawned into day (_tasyāṃ niśāyāṃ vyuṣṭāyām_), 
 
 <details><summary>मूलम्</summary>
 
-भगवन् द्रष्टुमिच्छामि राघवं रघुनन्दनम् ।  
+[^non-baroDa-CE] भगवन् द्रष्टुमिच्छामि राघवं रघुनन्दनम् ।  
 त्वयानुज्ञातुमिच्छामि सहैभिः संशितव्रतैः ॥ ४ ॥
 _________________
 सोऽभिवाद्य ततः पादौ वाल्मीकेः पुरुषर्षभः ।  
@@ -201,7 +201,7 @@ Embracing that Śatrughna, scorcher of foes (_śatru-tāpanam_), who spoke thus,
 
 <details><summary>मूलम्</summary>
 
-सोऽभिवाद्य मुनिश्रेष्ठं रथमारुह्य सुप्रभम् ।  
+[^non-baroDa-CE] सोऽभिवाद्य मुनिश्रेष्ठं रथमारुह्य सुप्रभम् ।  
 अयोध्यामगमत् तूर्णं राघवोत्सुकदर्शनः ॥ ६ ॥
 _________________
 उवाच च मुनिर्वाक्यं लवणस्य वधाश्रितम् ।  
@@ -279,8 +279,8 @@ Having entered the lovely city [of Ayodhyā] (_sa praviṣṭaḥ purīṃ ramy�
 
 <details><summary>मूलम्</summary>
 
-स रामं मन्त्रिमध्यस्थं पूर्णचन्द्रनिभाननम् ।  
-पश्यन्नमरमध्यस्थं सहस्रनयनं यथा ॥ ८ ॥  
+[^non-baroDa-CE] स रामं मन्त्रिमध्यस्थं पूर्णचन्द्रनिभाननम् ।  
+[^non-baroDa-CE] पश्यन्नमरमध्यस्थं सहस्रनयनं यथा ॥ ८ ॥  
 सोऽभिवाद्य महात्मानं ज्वलन्तमिव तेजसा ।  
 उवाच प्राञ्जलिर्भूत्वा रामं सत्यपराक्रमम् ॥ ९ ॥
 _________________
@@ -743,3 +743,5 @@ _________________
 Escorted far along the way by those two (_dūram ābhyām anugataḥ_), great-souled Lakṣmaṇa and Bharata, Śatrughna then went swiftly back to his city (_jagāmāśu puraṃ tataḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -31,8 +31,8 @@ As vānaras and sages acclaim the vanished Sītā, Rāma leans weeping upon his 
 
 <details><summary>मूलम्</summary>
 
-रसातलं प्रविष्टायां वैदेह्यां सर्ववानराः ।  
-चुक्रुशुः साधुसाध्वीति मुनयो रामसन्निधौ ॥ १ ॥
+[^non-baroDa-CE] रसातलं प्रविष्टायां वैदेह्यां सर्ववानराः ।  
+[^non-baroDa-CE] चुक्रुशुः साधुसाध्वीति मुनयो रामसन्निधौ ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -62,7 +62,7 @@ When Vaidehī had entered Rasātala (_rasātalaṃ praviṣṭāyāṃ vaidehyā
 
 <details><summary>मूलम्</summary>
 
-दण्डकाष्ठमवष्टभ्य बाष्पव्याकुलितेक्षणः ।  
+[^non-baroDa-CE] दण्डकाष्ठमवष्टभ्य बाष्पव्याकुलितेक्षणः ।  
 अवाक्शिरा दीनमना रामो ह्यासीत् सुदुःखितः ॥ २ ॥
 </details>
 
@@ -93,8 +93,8 @@ Leaning upon his sacrificial wooden staff (_daṇḍakāṣṭham avaṣṭabhya
 
 <details><summary>मूलम्</summary>
 
-स रुदित्वा चिरं कालं बहुशो बाष्पमुत्सृजन् ।  
-क्रोधशोकसमाविष्टो रामो वचनमब्रवीत् ॥ ३ ॥
+[^non-baroDa-CE] स रुदित्वा चिरं कालं बहुशो बाष्पमुत्सृजन् ।  
+[^non-baroDa-CE] क्रोधशोकसमाविष्टो रामो वचनमब्रवीत् ॥ ३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,8 +124,8 @@ Having wept for a long while (_sa ruditvā ciraṃ kālam_), shedding tears agai
 
 <details><summary>मूलम्</summary>
 
-अभूतपूर्वं शोकं मे मनः स्प्रष्टुमिवेच्छति ।  
-पश्यतो मे यथा नष्टा सीता श्रीरिव रूपिणी ॥ ४ ॥
+[^non-baroDa-CE] अभूतपूर्वं शोकं मे मनः स्प्रष्टुमिवेच्छति ।  
+[^non-baroDa-CE] पश्यतो मे यथा नष्टा सीता श्रीरिव रूपिणी ॥ ४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -186,8 +186,8 @@ Having wept for a long while (_sa ruditvā ciraṃ kālam_), shedding tears agai
 
 <details><summary>मूलम्</summary>
 
-वसुधे देवि भवति सीता निर्यात्यतां मम ।  
-दर्शयिष्यामि वा रोषं यथा मामवगच्छसि ॥ ६ ॥
+[^non-baroDa-CE] वसुधे देवि भवति सीता निर्यात्यतां मम ।  
+[^non-baroDa-CE] दर्शयिष्यामि वा रोषं यथा मामवगच्छसि ॥ ६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -229,7 +229,7 @@ Reminding Earth that she is his mother-in-law yet threatening to reduce her moun
 कर्षता फालहस्तेन जनकेनोद‍्धृता पुरा ॥ ७ ॥
 _________________
 कामं श्वश्रूर्ममैव त्वं त्वत्सकाशात्तुमैथिली ।  
-कर्षता हलहस्तेन जनकेनोद्धृता पुरा ॥
+[^non-baroDa-CE] कर्षता हलहस्तेन जनकेनोद्धृता पुरा ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -259,8 +259,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-तस्मान्निर्यात्यतां सीता विवरं वा प्रयच्छ मे ।  
-पाताले नाकपृष्ठे वा वसेयं सहितस्तया ॥ ८ ॥
+[^non-baroDa-CE] तस्मान्निर्यात्यतां सीता विवरं वा प्रयच्छ मे ।  
+[^non-baroDa-CE] पाताले नाकपृष्ठे वा वसेयं सहितस्तया ॥ ८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -292,15 +292,15 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-आनय त्वं हि तां सीतां मत्तोऽहं मैथिलीकृते ।  
-न मे दास्यसि चेत् सीतां यथारूपां महीतले ॥ ९ ॥  
+[^non-baroDa-CE] आनय त्वं हि तां सीतां मत्तोऽहं मैथिलीकृते ।  
+[^non-baroDa-CE] न मे दास्यसि चेत् सीतां यथारूपां महीतले ॥ ९ ॥  
 सपर्वतवनां कृत्स्नां विधमिष्यामि ते स्थितिम् ।  
 नाशयिष्याम्यहं भूमिं सर्वमापो भवन्त्विह ॥ १० ॥
 _________________
-आनय त्वं हि तां सीतां मत्तोऽहं मैथिलीकृते ।  
+[^non-baroDa-CE] आनय त्वं हि तां सीतां मत्तोऽहं मैथिलीकृते ।  
 न मे दास्यसि चेत्सितां यथारूपं महीतले ॥
 सपर्वतवनां कृत्स्नां विधमिष्यामि तेस्थितिम् ।  
-नाशयिष्याम्यहं भूमिं सर्वमापो भवत्विह ॥
+[^non-baroDa-CE] नाशयिष्याम्यहं भूमिं सर्वमापो भवत्विह ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -332,8 +332,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-एवं ब्रुवाणे काकुत्स्थे क्रोधशोकसमन्विते ।  
-ब्रह्मा सुरगणैः सार्धमुवाच रघुनन्दनम् ॥ ११ ॥
+[^non-baroDa-CE] एवं ब्रुवाणे काकुत्स्थे क्रोधशोकसमन्विते ।  
+[^non-baroDa-CE] ब्रह्मा सुरगणैः सार्धमुवाच रघुनन्दनम् ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -363,8 +363,8 @@ Even as Kākutstha spoke thus, seized by wrath and sorrow (_krodha-śoka-samanvi
 
 <details><summary>मूलम्</summary>
 
-राम राम न सन्तापं कर्तुमर्हसि सुव्रत ।  
-स्मर त्वं पूर्वकं भावं मन्त्रं चामित्रकर्शन ॥ १२ ॥
+[^non-baroDa-CE] राम राम न सन्तापं कर्तुमर्हसि सुव्रत ।  
+[^non-baroDa-CE] स्मर त्वं पूर्वकं भावं मन्त्रं चामित्रकर्शन ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -402,8 +402,8 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>मूलम्</summary>
 
-न खलु त्वां महाबाहो स्मारयेयमनुत्तमम् ।  
-इमं मुहूर्तं दुर्धर्ष स्मर त्वं जन्म वैष्णवम् ॥ १३ ॥
+[^non-baroDa-CE] न खलु त्वां महाबाहो स्मारयेयमनुत्तमम् ।  
+[^non-baroDa-CE] इमं मुहूर्तं दुर्धर्ष स्मर त्वं जन्म वैष्णवम् ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -433,8 +433,8 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>मूलम्</summary>
 
-सीता हि विमला साध्वी तव पूर्वपरायणा ।  
-नागलोकं सुखं प्रायात् त्वदाश्रयतपोबलात् ॥ १४ ॥
+[^non-baroDa-CE] सीता हि विमला साध्वी तव पूर्वपरायणा ।  
+[^non-baroDa-CE] नागलोकं सुखं प्रायात् त्वदाश्रयतपोबलात् ॥ १४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -464,8 +464,8 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>मूलम्</summary>
 
-स्वर्गे ते सङ्गमो भूयो भविष्यति न संशयः ।  
-अस्यास्तु परिषन्मध्ये यद् ब्रवीमि निबोध तत् ॥ १५ ॥
+[^non-baroDa-CE] स्वर्गे ते सङ्गमो भूयो भविष्यति न संशयः ।  
+[^non-baroDa-CE] अस्यास्तु परिषन्मध्ये यद् ब्रवीमि निबोध तत् ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -495,8 +495,8 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>मूलम्</summary>
 
-एतदेव हि काव्यं ते काव्यानामुत्तमं श्रुतम् ।  
-सर्वं विस्तरतो राम व्याख्यास्यति न संशयः ॥ १६ ॥
+[^non-baroDa-CE] एतदेव हि काव्यं ते काव्यानामुत्तमं श्रुतम् ।  
+[^non-baroDa-CE] सर्वं विस्तरतो राम व्याख्यास्यति न संशयः ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -526,8 +526,8 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>मूलम्</summary>
 
-जन्मप्रभृति ते वीर सुखदुःखोपसेवनम् ।  
-भविष्यदुत्तरं चेह सर्वं वाल्मीकिना कृतम् ॥ १७ ॥
+[^non-baroDa-CE] जन्मप्रभृति ते वीर सुखदुःखोपसेवनम् ।  
+[^non-baroDa-CE] भविष्यदुत्तरं चेह सर्वं वाल्मीकिना कृतम् ॥ १७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -565,8 +565,8 @@ Proclaiming that this Ādikāvya is wholly rooted in Rāma—the sole worthy her
 
 <details><summary>मूलम्</summary>
 
-आदिकाव्यमिदं राम त्वयि सर्वं प्रतिष्ठितम् ।  
-नह्यन्योऽर्हति काव्यानां यशोभाग् राघवादृते ॥ १८ ॥
+[^non-baroDa-CE] आदिकाव्यमिदं राम त्वयि सर्वं प्रतिष्ठितम् ।  
+[^non-baroDa-CE] नह्यन्योऽर्हति काव्यानां यशोभाग् राघवादृते ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -596,8 +596,8 @@ Proclaiming that this Ādikāvya is wholly rooted in Rāma—the sole worthy her
 
 <details><summary>मूलम्</summary>
 
-श्रुतं ते पूर्वमेतद्धि मया सर्वं सुरैः सह ।  
-दिव्यमद्भुतरूपं च सत्यवाक्यमनावृतम् ॥ १९ ॥
+[^non-baroDa-CE] श्रुतं ते पूर्वमेतद्धि मया सर्वं सुरैः सह ।  
+[^non-baroDa-CE] दिव्यमद्भुतरूपं च सत्यवाक्यमनावृतम् ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -627,8 +627,8 @@ Proclaiming that this Ādikāvya is wholly rooted in Rāma—the sole worthy her
 
 <details><summary>मूलम्</summary>
 
-स त्वं पुरुषशार्दूल धर्मेण सुसमाहितः ।  
-शेषं भविष्यं काकुत्स्थ काव्यं रामायणं शृणु ॥ २० ॥
+[^non-baroDa-CE] स त्वं पुरुषशार्दूल धर्मेण सुसमाहितः ।  
+[^non-baroDa-CE] शेषं भविष्यं काकुत्स्थ काव्यं रामायणं शृणु ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -658,8 +658,8 @@ Proclaiming that this Ādikāvya is wholly rooted in Rāma—the sole worthy her
 
 <details><summary>मूलम्</summary>
 
-उत्तरं नाम काव्यस्य शेषमत्र महायशः ।  
-तच्छृणुष्व महातेज ऋषिभिः सार्धमुत्तमम् ॥ २१ ॥
+[^non-baroDa-CE] उत्तरं नाम काव्यस्य शेषमत्र महायशः ।  
+[^non-baroDa-CE] तच्छृणुष्व महातेज ऋषिभिः सार्धमुत्तमम् ॥ २१ ॥
 _________________
 उत्तरन्नाम काव्यस्य शेषमत्र महायशः ।  
 तच्छणुष्व महातेज ऋषिभिः सार्धमुत्तमम् ॥
@@ -692,10 +692,10 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-न खल्वन्येन काकुत्स्थ श्रोतव्यमिदमुत्तमम् ।  
+[^non-baroDa-CE] न खल्वन्येन काकुत्स्थ श्रोतव्यमिदमुत्तमम् ।  
 परमं ऋषिणा वीर त्वयैव रघुनन्दन ॥ २२ ॥
 _________________
-न खल्वन्येनकाकुत्स्थ श्रोतव्यमिदमुत्तमम् ।  
+[^non-baroDa-CE] न खल्वन्येनकाकुत्स्थ श्रोतव्यमिदमुत्तमम् ।  
 परमऋषिणा वीर त्वयैव रघुनन्दन ॥
 </details>
 
@@ -734,8 +734,8 @@ Brahmā ascends to heaven while the sages of Brahmaloka stay behind with his lea
 
 <details><summary>मूलम्</summary>
 
-एतावदुक्त्वा वचनं ब्रह्मा त्रिभुवनेश्वरः ।  
-जगाम त्रिदिवं देवो देवैः सह सबान्धवैः ॥ २३ ॥
+[^non-baroDa-CE] एतावदुक्त्वा वचनं ब्रह्मा त्रिभुवनेश्वरः ।  
+[^non-baroDa-CE] जगाम त्रिदिवं देवो देवैः सह सबान्धवैः ॥ २३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -766,9 +766,9 @@ Having spoken thus much (_etāvad uktvā vacanam_), Lord Brahmā, sovereign of t
 
 <details><summary>मूलम्</summary>
 
-ये च तत्र महात्मान ऋषयो ब्राह्मलौकिकाः ।  
-ब्रह्मणा समनुज्ञाता न्यवर्तन्त महौजसः ॥ २४ ॥  
-उत्तरं श्रोतुमनसो भविष्यं यच्च राघवे ।
+[^non-baroDa-CE] ये च तत्र महात्मान ऋषयो ब्राह्मलौकिकाः ।  
+[^non-baroDa-CE] ब्रह्मणा समनुज्ञाता न्यवर्तन्त महौजसः ॥ २४ ॥  
+[^non-baroDa-CE] उत्तरं श्रोतुमनसो भविष्यं यच्च राघवे ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -798,11 +798,11 @@ And those great-souled, mighty-splendored sages of Brahmaloka who were there (_�
 
 <details><summary>मूलम्</summary>
 
-ततो रामः शुभां वाणीं देवदेवस्य भाषिताम् ॥ २५ ॥  
-श्रुत्वा परमतेजस्वी वाल्मीकिमिदमब्रवीत् ।
+[^non-baroDa-CE] ततो रामः शुभां वाणीं देवदेवस्य भाषिताम् ॥ २५ ॥  
+[^non-baroDa-CE] श्रुत्वा परमतेजस्वी वाल्मीकिमिदमब्रवीत् ।
 _________________
 ततो रामः शुभां वाणीं देवदेवस्य भाषितम् ॥  
-श्रुत्वा परमतेजस्वी वाल्मीकिमिदमब्रवीत् ।
+[^non-baroDa-CE] श्रुत्वा परमतेजस्वी वाल्मीकिमिदमब्रवीत् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -832,8 +832,8 @@ Then supremely resplendent Rāma, hearing the auspicious speech uttered by the G
 
 <details><summary>मूलम्</summary>
 
-भगवन् श्रोतुमनस ऋषयो ब्राह्मलौकिकाः ॥ २६ ॥  
-भविष्यदुत्तरं यन्मे श्वोभूते सम्प्रवर्तताम् ।
+[^non-baroDa-CE] भगवन् श्रोतुमनस ऋषयो ब्राह्मलौकिकाः ॥ २६ ॥  
+[^non-baroDa-CE] भविष्यदुत्तरं यन्मे श्वोभूते सम्प्रवर्तताम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -864,12 +864,12 @@ Then supremely resplendent Rāma, hearing the auspicious speech uttered by the G
 
 <details><summary>मूलम्</summary>
 
-एवं विनिश्चयं कृत्वा सम्प्रगृह्य कुशीलवौ ॥ २७ ॥  
-तं जनौघं विसृज्याथ पर्णशालामुपागमत् ।  
+[^non-baroDa-CE] एवं विनिश्चयं कृत्वा सम्प्रगृह्य कुशीलवौ ॥ २७ ॥  
+[^non-baroDa-CE] तं जनौघं विसृज्याथ पर्णशालामुपागमत् ।  
 तामेव शोचतः सीता सा व्यतीता च शर्वरी ॥ २८ ॥
 _________________
-एवं विनिश्चयं कृत्वा सम्प्रगृह्य कुशीलवौ ॥
-तं जनौघं विसृज्याथ पर्णशालामुपागमत् ।  
+[^non-baroDa-CE] एवं विनिश्चयं कृत्वा सम्प्रगृह्य कुशीलवौ ॥
+[^non-baroDa-CE] तं जनौघं विसृज्याथ पर्णशालामुपागमत् ।  
 तामेव शोचतः सीतां सा व्यतीता च शर्वरी ॥
 </details>
 
@@ -901,3 +901,4 @@ Having made this firm resolve (_evaṃ viniścayaṃ kṛtvā_), taking Kuśa an
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

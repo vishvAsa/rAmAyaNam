@@ -107,11 +107,11 @@ Then, when the ten days of mourning had passed (_daśāhe &#x27;tigate_) and the
 <details><summary>मूलम्</summary>
 
 ब्राह्मणेभ्यो धनं रत्नं ददावन्नं च पुष्कलम् ।  
-वासांसि च महार्हाणि रत्नानि विविधानि च ।  
+[^non-baroDa-CE] वासांसि च महार्हाणि रत्नानि विविधानि च ।  
 वास्तिकं बहु शुक्लं च गाश्चापि बहुशस्तदा ॥ २ ॥
 _________________
 ब्रह्मणेभ्यो धनं रत्नं ददावन्नं चपुष्कलम् ।  
-वासांसि च महार्हाणि रत्नानि विविधानि च ।  
+[^non-baroDa-CE] वासांसि च महार्हाणि रत्नानि विविधानि च ।  
 वास्तिकं बहु शुक्लं च गाश्चापि बहुशस्तदा ॥
 </details>
 
@@ -1156,7 +1156,7 @@ Then their father’s family priest Vasiṣṭha, endowed with noble nature and 
 
 <details><summary>मूलम्</summary>
 
-त्रयोदशोऽयं दिवसः पितुर्वृत्तस्य ते विभो ।  
+[^non-baroDa-CE] त्रयोदशोऽयं दिवसः पितुर्वृत्तस्य ते विभो ।  
 सावशेषास्थिनिचये किमिह त्वं विलम्बसे ॥ २२ ॥
 </details>
 
@@ -1428,3 +1428,4 @@ As the two royal sons wiped away their tears (_aśrūṇi parimṛdnantau_), the
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -247,7 +247,7 @@ Subsisting upon roots and manifold fruits (_mūlāni phalāni vividhāny api_) a
 <details><summary>मूलम्</summary>
 
 स तु देशो दुरन्वेषो गुहागहनवान् महान् ।  
-निर्जलं निर्जनं शून्यं गहनं घोरदर्शनम् ॥ ६ ॥
+[^non-baroDa-CE] निर्जलं निर्जनं शून्यं गहनं घोरदर्शनम् ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -307,11 +307,11 @@ Leaving that waterless tract, the fearless monkey chiefs enter the cursed forest
 
 <details><summary>मूलम्</summary>
 
-तादृशान्यप्यरण्यानि विचित्य भृशपीडिताः ।  
-स देशश्च दुरन्वेष्यो गुहागहनवान् महान् ॥ ७ ॥
+[^non-baroDa-CE] तादृशान्यप्यरण्यानि विचित्य भृशपीडिताः ।  
+[^non-baroDa-CE] स देशश्च दुरन्वेष्यो गुहागहनवान् महान् ॥ ७ ॥
 _________________
-तादृशान्यप्यरण्यानि विचित्य भृशपीडिताः ।  
-देशश्च दुरन्वेष्यो गुहागहनवान् महान् ॥
+[^non-baroDa-CE] तादृशान्यप्यरण्यानि विचित्य भृशपीडिताः ।  
+[^non-baroDa-CE] देशश्च दुरन्वेष्यो गुहागहनवान् महान् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -525,7 +525,7 @@ where there were neither buffaloes, nor deer, nor elephants, nor tigers, nor bir
 
 <details><summary>मूलम्</summary>
 
-न चात्र वृक्षा नौषध्यो न वल्ल्यो नापि वीरुधः ।  
+[^non-baroDa-CE] न चात्र वृक्षा नौषध्यो न वल्ल्यो नापि वीरुधः ।  
 स्निग्धपत्राः स्थले यत्र पद्मिन्यः फुल्लपङ्कजाः ॥ ११ ॥  
 प्रेक्षणीयाः सुगन्धाश्च भ्रमरैश्च विवर्जिताः ।
 </details>
@@ -1235,3 +1235,4 @@ entered yet another dreadful mountain cavern nearby (_anyad evāparaṃ ghoram_)
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

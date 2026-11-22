@@ -421,7 +421,7 @@ Declaring that even recounting Rāma’s glory brings perfection, Agastya blesse
 
 <details><summary>मूलम्</summary>
 
-ईदृशस्त्वं रघुश्रेष्ठ पावनः सर्वदेहिनाम् ।  
+[^non-baroDa-CE] ईदृशस्त्वं रघुश्रेष्ठ पावनः सर्वदेहिनाम् ।  
 भुवि त्वां कथयन्तो हि सिद्धिमेष्यन्ति राघव ॥ १२ ॥
 _________________
 श्रुत्वा तूशनसो वाक्यं सोऽश्रमावसथो जनः ।  
@@ -663,7 +663,7 @@ Then, when midday had arrived (_tato ’rdha-divase prāpte_), honored from ever
 <details><summary>मूलम्</summary>
 
 ततो विसृज्य रुचिरं पुष्पकं कामगामिनम् ।  
-विसर्जयित्वा गच्छेति स्वस्ति तेऽस्त्विति च प्रभुः ॥ १९ ॥
+[^non-baroDa-CE] विसर्जयित्वा गच्छेति स्वस्ति तेऽस्त्विति च प्रभुः ॥ १९ ॥
 _________________
 शप्तो ब्रह्मर्षिणा तेन वैधर्म्ये सहिते कृते ।  
 ततः प्रभृति काकुत्स्थ दण्डकारण्यमुच्यते ॥
@@ -733,3 +733,4 @@ Then Rāma spoke these words to the doorkeeper stationed in the inner courtyard 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -577,10 +577,10 @@ bowing with joined palms to Lakṣmaṇa and Bharata (_lakṣmaṇaṃ bharata�
 
 <details><summary>मूलम्</summary>
 
-प्रस्थाप्य सेनामथ सोऽग्रतस्तदा  
-गजेन्द्रवाजिप्रवरौघसङ्कुलाम् ।  
+[^non-baroDa-CE] प्रस्थाप्य सेनामथ सोऽग्रतस्तदा  
+[^non-baroDa-CE] गजेन्द्रवाजिप्रवरौघसङ्कुलाम् ।  
 उवास मासं तु नरेन्द्रपार्श्वत-  
-स्त्वथ प्रयातो रघुवंशवर्धनः ॥ १८ ॥
+[^non-baroDa-CE] स्त्वथ प्रयातो रघुवंशवर्धनः ॥ १८ ॥
 _________________
 नगरं यमुनाजुष्टं तथा जनपदान् शुभान् ।  
 यो हि वंशं समुत्पाट्य पार्थिवस्य निवेशने ॥  
@@ -615,3 +615,4 @@ Having dispatched the army ahead, teeming with surges of lordly elephants and fo
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

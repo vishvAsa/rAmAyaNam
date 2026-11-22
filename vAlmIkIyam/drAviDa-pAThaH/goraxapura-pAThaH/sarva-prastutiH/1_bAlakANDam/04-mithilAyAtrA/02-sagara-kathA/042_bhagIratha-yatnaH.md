@@ -613,7 +613,7 @@ Childless and devoted to bringing down Gaṅgā, the royal sage Bhagīratha entr
 
 भगीरथस्तु राजर्षिर्धार्मिको रघुनन्दन ।  
 अनपत्यो महाराजः प्रजाकामः स च प्रजाः ॥ ११ ॥  
-मन्त्रिष्वाधाय तद् राज्यं गङ्गावतरणे रतः ।  
+[^non-baroDa-CE] मन्त्रिष्वाधाय तद् राज्यं गङ्गावतरणे रतः ।  
 तपो दीर्घं समातिष्ठद् गोकर्णे रघुनन्दन ॥ १२ ॥
 </details>
 
@@ -706,7 +706,7 @@ In the Southern reading _prajākāmaḥ sa ca prajāḥ_, **Tilaka** construes t
 
 ऊर्ध्वबाहुः पञ्चतपा मासाहारो जितेन्द्रियः ।  
 तस्य वर्षसहस्राणि घोरे तपसि तिष्ठतः ॥ १३ ॥  
-अतीतानि महाबाहो तस्य राज्ञो महात्मनः ।
+[^non-baroDa-CE] अतीतानि महाबाहो तस्य राज्ञो महात्मनः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1426,3 +1426,4 @@ What did Brahmā say when addressing Gaṅgā (_gaṅgāṃ cābhāṣya_) befor
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

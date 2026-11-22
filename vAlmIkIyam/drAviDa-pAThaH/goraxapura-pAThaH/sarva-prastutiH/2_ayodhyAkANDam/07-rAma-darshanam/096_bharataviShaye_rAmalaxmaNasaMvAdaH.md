@@ -45,7 +45,7 @@ As Rāma sits with Sītā on a mountain ledge after showing her the Mandākinī,
 <details><summary>मूलम्</summary>
 
 तां तदा दर्शयित्वा तु मैथिलीं गिरिनिम्नगाम् ।  
-निषसाद गिरिप्रस्थे सीतां मांसेन छन्दयन् ॥ १ ॥
+[^non-baroDa-CE] निषसाद गिरिप्रस्थे सीतां मांसेन छन्दयन् ॥ १ ॥
 _________________
 तां तदा दर्शयित्वा तु मैथिलीं गिरिनिम्नगाम् ।  
 निषसाद गिरप्रस्थे सीतां मांसेन च्छन्दयन् ॥
@@ -100,8 +100,8 @@ Having thus shown that mountain-river (_giri-nimnagām_) to Maithilī (_tāṃ t
 
 <details><summary>मूलम्</summary>
 
-इदं मेध्यमिदं स्वादु निष्टप्तमिदमग्निना ।  
-एवमास्ते स धर्मात्मा सीतया सह राघवः ॥ २ ॥
+[^non-baroDa-CE] इदं मेध्यमिदं स्वादु निष्टप्तमिदमग्निना ।  
+[^non-baroDa-CE] एवमास्ते स धर्मात्मा सीतया सह राघवः ॥ २ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -423,12 +423,12 @@ tumultuous sound as terrific as that of a roaring cloud. See what it is."
 <details><summary>मूलम्</summary>
 
 गजयूथानि वारण्ये महिषा वा महावने ।  
-वित्रासिता मृगाः सिंहैः सहसा प्रद्रुता दिशः ॥ ८ ॥  
+[^non-baroDa-CE] वित्रासिता मृगाः सिंहैः सहसा प्रद्रुता दिशः ॥ ८ ॥  
 राजा वा राजपुत्रो वा मृगयामटते वने ।  
 अन्यद्वा श्वापदं किञ्चित् सौमित्रे ज्ञातुमर्हसि ॥ ९ ॥
 _________________
 गजयूथानि वारण्ये महिषा वा महावने ।  
-वित्रासिता मृगाः सिंहैः सहसा प्रद्रुता दिशः ॥
+[^non-baroDa-CE] वित्रासिता मृगाः सिंहैः सहसा प्रद्रुता दिशः ॥
 राजा वा राजपुत्रो वा मृगयामटतेवने ।  
 अन्यद्वा स्वापदं किञ्चित् सौमित्रे ज्ञातुमर्हसि ॥
 </details>
@@ -501,7 +501,7 @@ hunt or some other savage beast."
 
 <details><summary>मूलम्</summary>
 
-सुदुश्चरो गिरिश्चायं पक्षिणामपि लक्ष्मण ।  
+[^non-baroDa-CE] सुदुश्चरो गिरिश्चायं पक्षिणामपि लक्ष्मण ।  
 सर्वमेतद् यथातत्त्वमभिज्ञातुमिहार्हसि ॥ १० ॥
 </details>
 
@@ -1626,3 +1626,4 @@ Having slain Bharata together with his army in this great battle (_mahā-mṛdhe
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

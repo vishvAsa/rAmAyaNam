@@ -1545,10 +1545,10 @@ Incensed at Jābāli’s nihilistic reasoning, Rāma proclaims truth, dharma, co
 
 <details><summary>मूलम्</summary>
 
-अमृष्यमाणः पुनरुग्रतेजा  
-निशम्य तन्नास्तिकवाक्यहेतुम् ।  
-अथाब्रवीत् तं नृपतेस्तनूजो  
-विगर्हमाणो वचनानि तस्य ॥ ३० ॥
+[^non-baroDa-CE] अमृष्यमाणः पुनरुग्रतेजा  
+[^non-baroDa-CE] निशम्य तन्नास्तिकवाक्यहेतुम् ।  
+[^non-baroDa-CE] अथाब्रवीत् तं नृपतेस्तनूजो  
+[^non-baroDa-CE] विगर्हमाणो वचनानि तस्य ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1655,9 +1655,9 @@ speech and worship of Brahmanas, gods and unexpected guests are the paths to hea
 
 <details><summary>मूलम्</summary>
 
-तेनैवमाज्ञाय यथावदर्थ-  
-मेकोदयं सम्प्रतिपद्य विप्राः ।  
-धर्मं चरन्तः सकलं यथावत्  
+[^non-baroDa-CE] तेनैवमाज्ञाय यथावदर्थ-  
+[^non-baroDa-CE] मेकोदयं सम्प्रतिपद्य विप्राः ।  
+[^non-baroDa-CE] धर्मं चरन्तः सकलं यथावत्  
 काङ्क्षन्ति लोकागममप्रमत्ताः ॥ ३२ ॥
 </details>
 
@@ -1717,14 +1717,14 @@ Therefore the wise Brāhmaṇas, rightly understanding this matter and recognizi
 <details><summary>मूलम्</summary>
 
 निन्दाम्यहं कर्म कृतं पितुस्तद्  
-यस्त्वामगृह्णाद् विषमस्थबुद्धिम् ।  
-बुद्ध्यानयैवंविधया चरन्तं  
-सुनास्तिकं धर्मपथादपेतम् ॥ ३३ ॥
+[^non-baroDa-CE] यस्त्वामगृह्णाद् विषमस्थबुद्धिम् ।  
+[^non-baroDa-CE] बुद्ध्यानयैवंविधया चरन्तं  
+[^non-baroDa-CE] सुनास्तिकं धर्मपथादपेतम् ॥ ३३ ॥
 _________________
 निन्दामह्यं कर्म कृतं पितुस्तद्  
-यस्त्वामगृह्णाद्विषमस्थबुद्धिम् ।  
-बुद्ध्यानयैवंविधया चरन्तं  
-सुनास्तिकं धर्मपथादपेतम् ॥
+[^non-baroDa-CE] यस्त्वामगृह्णाद्विषमस्थबुद्धिम् ।  
+[^non-baroDa-CE] बुद्ध्यानयैवंविधया चरन्तं  
+[^non-baroDa-CE] सुनास्तिकं धर्मपथादपेतम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1781,15 +1781,15 @@ I censure that act done by my father in taking into his service you of perverse 
 
 <details><summary>मूलम्</summary>
 
-यथा हि चोरः स तथा हि बुद्ध-  
-स्तथागतं नास्तिकमत्र विद्धि ।  
+[^non-baroDa-CE] यथा हि चोरः स तथा हि बुद्ध-  
+[^non-baroDa-CE] स्तथागतं नास्तिकमत्र विद्धि ।  
 तस्माद्धि यः शक्यतमः प्रजानां  
 स नास्तिके नाभिमुखो बुधः स्यात् ॥ ३४ ॥
 _________________
-यथा हि चोरः स तथा हि बुद्ध -  
-स्तथागतं नास्तिकमत्र विद्धि ।  
+[^non-baroDa-CE] यथा हि चोरः स तथा हि बुद्ध -  
+[^non-baroDa-CE] स्तथागतं नास्तिकमत्र विद्धि ।  
 तस्याद्धि यः शक्यतमः प्रजानां  
-न नास्तिके नाभिमुखो बुधः स्यात् ॥
+[^non-baroDa-CE] न नास्तिके नाभिमुखो बुधः स्यात् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1865,12 +1865,12 @@ Rāma cites the ancient sages who won both worlds through auspicious Vedic deeds
 <details><summary>मूलम्</summary>
 
 त्वत्तो जनाः पूर्वतरे द्विजाश्च  
-शुभानि कर्माणि बहूनि चक्रुः ।  
+[^non-baroDa-CE] शुभानि कर्माणि बहूनि चक्रुः ।  
 छित्त्वा सदेमं च परं च लोकं  
 तस्माद् द्विजाः स्वस्ति कृतं हुतं च ॥ ३५ ॥
 _________________
 त्वत्तो जनाः पूर्वतरे द्विजाश्च  
-शुभानि कर्माणि बहूनि चक्रुः ।  
+[^non-baroDa-CE] शुभानि कर्माणि बहूनि चक्रुः ।  
 छित्वा सदेमं च परं च लोकं  
 तस्माद्वजाः स्वस्ति कृतं हुतं च ॥
 </details>
@@ -1991,10 +1991,10 @@ Devoted to dharma, associated with the virtuous, radiant with ascetic energy, pr
 
 <details><summary>मूलम्</summary>
 
-इति ब्रुवन्तं वचनं सरोषं  
-रामं महात्मानमदीनसत्त्वम् ।  
+[^non-baroDa-CE] इति ब्रुवन्तं वचनं सरोषं  
+[^non-baroDa-CE] रामं महात्मानमदीनसत्त्वम् ।  
 उवाच पथ्यं पुनरास्तिकं च  
-सत्यं वचः सानुनयं च विप्रः ॥ ३७ ॥
+[^non-baroDa-CE] सत्यं वचः सानुनयं च विप्रः ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2045,10 +2045,10 @@ Unto the high-souled Rāma of unfailing courage, who was speaking these words in
 
 <details><summary>मूलम्</summary>
 
-न नास्तिकानां वचनं ब्रवीम्यहं  
-न नास्तिकोऽहं न च नास्ति किञ्चन ।  
-समीक्ष्य कालं पुनरास्तिकोऽभवं  
-भवेय काले पुनरेव नास्तिकः ॥ ३८ ॥
+[^non-baroDa-CE] न नास्तिकानां वचनं ब्रवीम्यहं  
+[^non-baroDa-CE] न नास्तिकोऽहं न च नास्ति किञ्चन ।  
+[^non-baroDa-CE] समीक्ष्य कालं पुनरास्तिकोऽभवं  
+[^non-baroDa-CE] भवेय काले पुनरेव नास्तिकः ॥ ३८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2098,8 +2098,8 @@ comes, I will become again just a non-believer."
 
 <details><summary>मूलम्</summary>
 
-स चापि कालोऽयमुपागतः शनै-  
-र्यथा मया नास्तिकवागुदीरिता ।  
+[^non-baroDa-CE] स चापि कालोऽयमुपागतः शनै-  
+[^non-baroDa-CE] र्यथा मया नास्तिकवागुदीरिता ।  
 निवर्तनार्थं तव राम कारणात्  
 प्रसादनार्थं च मयैतदीरितम् ॥ ३९ ॥
 </details>
@@ -2157,3 +2157,4 @@ And this very occasion gently presented itself, whereby nihilistic speech was ut
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

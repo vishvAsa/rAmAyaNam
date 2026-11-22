@@ -531,15 +531,15 @@ strength become fruitful? How indeed will that Ravana applaud me in battle?"
 
 <details><summary>मूलम्</summary>
 
-ततः समासाद्य रणे दशाननं  
-समन्त्रिवर्गं सबलं सयायिनम् ।  
-हृदि स्थितं तस्य मतं बलं च  
-सुखेन मत्वाहमितः पुनर्व्रजे ॥ ९ ॥
+[^non-baroDa-CE] ततः समासाद्य रणे दशाननं  
+[^non-baroDa-CE] समन्त्रिवर्गं सबलं सयायिनम् ।  
+[^non-baroDa-CE] हृदि स्थितं तस्य मतं बलं च  
+[^non-baroDa-CE] सुखेन मत्वाहमितः पुनर्व्रजे ॥ ९ ॥
 _________________
-ततः समासाद्य रणे दशाननं  
+[^non-baroDa-CE] ततः समासाद्य रणे दशाननं  
 समन्त्रिवर्गं सबलप्रयायिनम् ।  
 हृदि स्थितं तस्य मतं बलं च वै  
-सुखेन मत्वाहमितः पुनर्व्रजे ॥
+[^non-baroDa-CE] सुखेन मत्वाहमितः पुनर्व्रजे ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1006,15 +1006,15 @@ Leaving the Aśoka grove stripped like a forest swept by wildfire and turning R�
 
 <details><summary>मूलम्</summary>
 
-नानाशकुन्तविरुतैः प्रभिन्नसलिलाशयैः ।  
-ताम्रैः किसलयैः क्लान्तैः क्लान्तद्रुमलतायुतैः ॥ १७ ॥  
-न बभौ तद् वनं तत्र दावानलहतं यथा ।  
-व्याकुलावरणा रेजुर्विह्वला इव ता लताः ॥ १८ ॥
+[^non-baroDa-CE] नानाशकुन्तविरुतैः प्रभिन्नसलिलाशयैः ।  
+[^non-baroDa-CE] ताम्रैः किसलयैः क्लान्तैः क्लान्तद्रुमलतायुतैः ॥ १७ ॥  
+[^non-baroDa-CE] न बभौ तद् वनं तत्र दावानलहतं यथा ।  
+[^non-baroDa-CE] व्याकुलावरणा रेजुर्विह्वला इव ता लताः ॥ १८ ॥
 _________________
 नानाशकुन्तविरुतैः प्रभिन्नैः सलिलाशयैः ।  
 ताम्रैः किसलयैः क्लान्तैः क्लान्तद्रुमलतायुतम् ॥
-न बभौ तद्वनं तत्र दावानलहतं यथा ।  
-व्याकुलावरणा रेजुर्विह्वला इव ता लताः ॥
+[^non-baroDa-CE] न बभौ तद्वनं तत्र दावानलहतं यथा ।  
+[^non-baroDa-CE] व्याकुलावरणा रेजुर्विह्वला इव ता लताः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1140,10 +1140,10 @@ With its creeper-arbors and painted pavilions demolished (_latāgṛhaiś citrag
 
 <details><summary>मूलम्</summary>
 
-सा विह्वलाशोकलताप्रताना  
-वनस्थली शोकलताप्रताना ।  
-जाता दशास्यप्रमदावनस्य  
-कपेर्बलाद्धि प्रमदावनस्य ॥ २० ॥
+[^non-baroDa-CE] सा विह्वलाशोकलताप्रताना  
+[^non-baroDa-CE] वनस्थली शोकलताप्रताना ।  
+[^non-baroDa-CE] जाता दशास्यप्रमदावनस्य  
+[^non-baroDa-CE] कपेर्बलाद्धि प्रमदावनस्य ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1256,3 +1256,4 @@ Then, having inflicted great displeasure (_kṛtvā mahad vyalīkam_) upon the m
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

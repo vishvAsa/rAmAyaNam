@@ -422,8 +422,8 @@ battles."
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणं त्वेवमुक्त्वासौ संसिद्धं प्रियराघवम् ।  
-सुमित्रा गच्छ गच्छेति पुनः पुनरुवाच तम् ॥ ८ ॥
+[^non-baroDa-CE] लक्ष्मणं त्वेवमुक्त्वासौ संसिद्धं प्रियराघवम् ।  
+[^non-baroDa-CE] सुमित्रा गच्छ गच्छेति पुनः पुनरुवाच तम् ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -753,7 +753,7 @@ Having decked herself with ornaments (_kṛtvālaṅkāram ātmanaḥ_), Sītā 
 <details><summary>मूलम्</summary>
 
 वनवासं हि सङ्ख्याय वासांस्याभरणानि च ।  
-भर्तारमनुगच्छन्त्यै सीतायै श्वशुरो ददौ ॥ १४ ॥
+[^non-baroDa-CE] भर्तारमनुगच्छन्त्यै सीतायै श्वशुरो ददौ ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -861,7 +861,7 @@ And likewise, having stowed in the body of the chariot (_rathopasthe pravinyasya
 <details><summary>मूलम्</summary>
 
 अथो ज्वलनसङ्काशं चामीकरविभूषितम् ।  
-तमारुरुहतुस्तूर्णं भ्रातरौ रामलक्ष्मणौ ॥ १६ ॥
+[^non-baroDa-CE] तमारुरुहतुस्तूर्णं भ्रातरौ रामलक्ष्मणौ ॥ १६ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1451,10 +1451,10 @@ it is even a means to heaven that you are following this Rama"
 <details><summary>मूलम्</summary>
 
 एवं वदन्तस्ते सोढुं न शेकुर्बाष्पमागतम् ।  
-नरास्तमनुगच्छन्ति प्रियमिक्ष्वाकुनन्दनम् ॥ २७ ॥
+[^non-baroDa-CE] नरास्तमनुगच्छन्ति प्रियमिक्ष्वाकुनन्दनम् ॥ २७ ॥
 _________________
 एवं वदन्तस्ते सोढुं न शेकुर्वाष्पमागतम् ।  
-नरास्तमनुगच्छन्ति प्रियमिक्ष्वाकुनन्दनम् ॥
+[^non-baroDa-CE] नरास्तमनुगच्छन्ति प्रियमिक्ष्वाकुनन्दनम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1680,7 +1680,7 @@ Rāma of unfathomable fortitude urges the charioteer to drive swiftly while the 
 
 <details><summary>मूलम्</summary>
 
-स च श्रीमानचिन्त्यात्मा रामो दशरथात्मजः ।  
+[^non-baroDa-CE] स च श्रीमानचिन्त्यात्मा रामो दशरथात्मजः ।  
 सूतं सञ्चोदयामास त्वरितं वाह्यतामिति ॥ ३१ ॥
 </details>
 
@@ -1726,11 +1726,11 @@ And that illustrious Rāma, the son of Daśaratha, of unfathomable spirit (_acin
 
 <details><summary>मूलम्</summary>
 
-रामो याहीति तं सूतं तिष्ठेति च जनस्तथा ।  
-उभयं नाशकत् सूतः कर्तुमध्वनि चोदितः ॥ ३२ ॥
+[^non-baroDa-CE] रामो याहीति तं सूतं तिष्ठेति च जनस्तथा ।  
+[^non-baroDa-CE] उभयं नाशकत् सूतः कर्तुमध्वनि चोदितः ॥ ३२ ॥
 _________________
 रामो याहीति तं सूतं तिष्ठेति स जनस्तथा ।  
-उभयं नाशकत्सूतः कर्तुमध्वनि चोदितः ॥
+[^non-baroDa-CE] उभयं नाशकत्सूतः कर्तुमध्वनि चोदितः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1782,8 +1782,8 @@ Rāma said to that charioteer, “Drive on (_yāhīti_)!”, and the people crie
 
 <details><summary>मूलम्</summary>
 
-निर्गच्छति महाबाहौ रामे पौरजनाश्रुभिः ।  
-पतितैरभ्यवहितं प्रणनाश महीरजः ॥ ३३ ॥
+[^non-baroDa-CE] निर्गच्छति महाबाहौ रामे पौरजनाश्रुभिः ।  
+[^non-baroDa-CE] पतितैरभ्यवहितं प्रणनाश महीरजः ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1834,8 +1834,8 @@ As the mighty-armed Rāma went forth, the dust of the earth raised on high was s
 
 <details><summary>मूलम्</summary>
 
-रुदिताश्रुपरिद्यूनं हाहाकृतमचेतनम् ।  
-प्रयाणे राघवस्यासीत् पुरं परमपीडितम् ॥ ३४ ॥
+[^non-baroDa-CE] रुदिताश्रुपरिद्यूनं हाहाकृतमचेतनम् ।  
+[^non-baroDa-CE] प्रयाणे राघवस्यासीत् पुरं परमपीडितम् ॥ ३४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1880,7 +1880,7 @@ Wasted with weeping and tears (_ruditāśru-paridyūnam_), filled with cries of 
 
 <details><summary>मूलम्</summary>
 
-सुस्राव नयनैः स्त्रीणामस्रमायाससम्भवम् ।  
+[^non-baroDa-CE] सुस्राव नयनैः स्त्रीणामस्रमायाससम्भवम् ।  
 मीनसङ्क्षोभचलितैः सलिलं पङ्कजैरिव ॥ ३५ ॥
 </details>
 
@@ -1928,8 +1928,8 @@ Tears born of anguish streamed from the eyes of the women (_susrāva nayanaiḥ 
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वा तु नृपतिः श्रीमानेकचित्तगतं पुरम् ।  
-निपपातैव दुःखेन कृत्तमूल इव द्रुमः ॥ ३६ ॥
+[^non-baroDa-CE] दृष्ट्वा तु नृपतिः श्रीमानेकचित्तगतं पुरम् ।  
+[^non-baroDa-CE] निपपातैव दुःखेन कृत्तमूल इव द्रुमः ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2147,7 +2147,7 @@ Looking back (_anvīkṣamāṇo rāmas tu_), Rāma beheld both the dejected, be
 
 <details><summary>मूलम्</summary>
 
-स बद्ध इव पाशेन किशोरो मातरं यथा ।  
+[^non-baroDa-CE] स बद्ध इव पाशेन किशोरो मातरं यथा ।  
 धर्मपाशेन संयुक्तः प्रकाशं नाभ्युदैक्षत ॥ ४० ॥
 </details>
 
@@ -2480,10 +2480,10 @@ For that tiger among men was unable to endure that grief-begetting sight of his 
 
 <details><summary>मूलम्</summary>
 
-प्रत्यगारमिवायान्ती सवत्सा वत्सकारणात् ।  
-बद्धवत्सा यथा धेनू राममाताभ्यधावत ॥ ४३ ॥
+[^non-baroDa-CE] प्रत्यगारमिवायान्ती सवत्सा वत्सकारणात् ।  
+[^non-baroDa-CE] बद्धवत्सा यथा धेनू राममाताभ्यधावत ॥ ४३ ॥
 _________________
-प्रत्यगारमिवायान्ती सवत्सा वत्सकारणात् ।  
+[^non-baroDa-CE] प्रत्यगारमिवायान्ती सवत्सा वत्सकारणात् ।  
 बुद्धवत्सा यथा धेनूराममाताभ्यधावत ॥
 </details>
 
@@ -2539,7 +2539,7 @@ Like a cow with a young calf whose calf is tied up (_savatsā baddha-vatsā yath
 
 तथा रुदन्तीं कौसल्यां रथं तमनुधावतीम् ।  
 क्रोशन्तीं राम रामेति हा सीते लक्ष्मणेति च ॥ ४४ ॥  
-रामलक्ष्मणसीतार्थं स्रवन्तीं वारि नेत्रजम् ।  
+[^non-baroDa-CE] रामलक्ष्मणसीतार्थं स्रवन्तीं वारि नेत्रजम् ।  
 असकृत् प्रैक्षत स तां नृत्यन्तीमिव मातरम् ॥ ४५ ॥
 </details>
 
@@ -2936,3 +2936,5 @@ perspiring and wearing a dejected look.
 Hearing their words, the wretched King—endowed with every virtue, his limbs bathed in sweat and his countenance deeply dejected (_prasvinna-gātraḥ praviṣaṇṇa-rūpaḥ_)—stood still together with his wife, gazing after that son of his (_sabhāryo vyavasthitas taṃ sutam īkṣamāṇaḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -45,8 +45,8 @@ Descending to a lower branch and folding his hands upon his head, Hanūmān gent
 
 <details><summary>मूलम्</summary>
 
-सोऽवतीर्य द्रुमात् तस्माद् विद्रुमप्रतिमाननः ।  
-विनीतवेषः कृपणः प्रणिपत्योपसृत्य च ॥ १ ॥  
+[^non-baroDa-CE] सोऽवतीर्य द्रुमात् तस्माद् विद्रुमप्रतिमाननः ।  
+[^non-baroDa-CE] विनीतवेषः कृपणः प्रणिपत्योपसृत्य च ॥ १ ॥  
 तामब्रवीन्महातेजा हनूमान् मारुतात्मजः ।  
 शिरस्यञ्जलिमाधाय सीतां मधुरया गिरा ॥ २ ॥
 </details>
@@ -452,7 +452,7 @@ Who is your son, father, brother, or husband, O slender-waisted lady (_sumadhyam
 
 <details><summary>मूलम्</summary>
 
-रोदनादतिनिःश्वासाद् भूमिसंस्पर्शनादपि ।  
+[^non-baroDa-CE] रोदनादतिनिःश्वासाद् भूमिसंस्पर्शनादपि ।  
 न त्वां देवीमहं मन्ये राज्ञः सञ्ज्ञावधारणात् ॥ १० ॥  
 व्यञ्जनानि हि ते यानि लक्षणानि च लक्षये ।  
 महिषी भूमिपालस्य राजकन्या च मे मता ॥ ११ ॥
@@ -588,8 +588,8 @@ Reassured by Hanūmān’s praise of Rāma, Sītā declares her identity as Daś
 
 <details><summary>मूलम्</summary>
 
-यथा हि तव वै दैन्यं रूपं चाप्यतिमानुषम् ।  
-तपसा चान्वितो वेषस्त्वं राममहिषी ध्रुवम् ॥ १३ ॥
+[^non-baroDa-CE] यथा हि तव वै दैन्यं रूपं चाप्यतिमानुषम् ।  
+[^non-baroDa-CE] तपसा चान्वितो वेषस्त्वं राममहिषी ध्रुवम् ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -691,8 +691,8 @@ Hearing his words and gladdened by the glorification of Rāma (_rāma-kīrtana-h
 
 <details><summary>मूलम्</summary>
 
-पृथिव्यां राजसिंहानां मुख्यस्य विदितात्मनः ।  
-स्नुषा दशरथस्याहं शत्रुसैन्यप्रणाशिनः ॥ १५ ॥  
+[^non-baroDa-CE] पृथिव्यां राजसिंहानां मुख्यस्य विदितात्मनः ।  
+[^non-baroDa-CE] स्नुषा दशरथस्याहं शत्रुसैन्यप्रणाशिनः ॥ १५ ॥  
 दुहिता जनकस्याहं वैदेहस्य महात्मनः ।  
 सीतेति नाम्ना चोक्ताहं भार्या रामस्य धीमतः ॥ १६ ॥
 _________________
@@ -1585,3 +1585,4 @@ A period of two months has been granted to me by him as a reprieve for my life (
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

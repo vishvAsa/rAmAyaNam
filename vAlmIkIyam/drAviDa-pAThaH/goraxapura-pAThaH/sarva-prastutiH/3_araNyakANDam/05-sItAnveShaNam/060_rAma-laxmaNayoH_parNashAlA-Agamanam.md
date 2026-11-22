@@ -998,8 +998,8 @@ like thine Rose-apples, thou telleth me unhesitatingly... [3-60-19]
 
 <details><summary>मूलम्</summary>
 
-अहो त्वं कर्णिकाराद्य पुष्पितः शोभसे भृशम् ।  
-कर्णिकारप्रियां साध्वीं शंस दृष्टा यदि प्रिया ॥ २० ॥
+[^non-baroDa-CE] अहो त्वं कर्णिकाराद्य पुष्पितः शोभसे भृशम् ।  
+[^non-baroDa-CE] कर्णिकारप्रियां साध्वीं शंस दृष्टा यदि प्रिया ॥ २० ॥
 _________________
 अहो त्वं कर्णिकाराद्य सुष्टितः शोभसे भृशम् ।  
 कर्णिकारप्रियां साध्वी शंस दृष्टा यदि प्रिया ॥
@@ -1065,15 +1065,15 @@ gestures, what exactly has happened...
 
 <details><summary>मूलम्</summary>
 
-चूतनीपमहासालान् पनसान् कुरवान् धवान् ।  
-दाडिमानपि तान् गत्वा दृष्ट्वा रामो महायशाः ॥ २१ ॥  
-बकुलानथ पुन्नागांश्चन्दनान् केतकांस्तथा ।  
-पृच्छन् रामो वने भ्रान्त उन्मत्त इव लक्ष्यते ॥ २२ ॥
+[^non-baroDa-CE] चूतनीपमहासालान् पनसान् कुरवान् धवान् ।  
+[^non-baroDa-CE] दाडिमानपि तान् गत्वा दृष्ट्वा रामो महायशाः ॥ २१ ॥  
+[^non-baroDa-CE] बकुलानथ पुन्नागांश्चन्दनान् केतकांस्तथा ।  
+[^non-baroDa-CE] पृच्छन् रामो वने भ्रान्त उन्मत्त इव लक्ष्यते ॥ २२ ॥
 _________________
-चूतनीपमहासालान् पनसान्कुरवान् धवान् ।  
-दाडिमानपितान् गत्वा दृष्ट्वारामो महायशाः ॥
+[^non-baroDa-CE] चूतनीपमहासालान् पनसान्कुरवान् धवान् ।  
+[^non-baroDa-CE] दाडिमानपितान् गत्वा दृष्ट्वारामो महायशाः ॥
 वकुलानथ पुन्नागांश्चन्दनात् केतकांस्तथा ।  
-पृच्छन्रामो वने भ्रान्त उन्मत्त इव लक्ष्यते ॥
+[^non-baroDa-CE] पृच्छन्रामो वने भ्रान्त उन्मत्त इव लक्ष्यते ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1605,10 +1605,10 @@ from my dear one... [3-60-30]
 <details><summary>मूलम्</summary>
 
 नूनं तच्छुभदन्तोष्ठं सुनासं शुभकुण्डलम् ।  
-पूर्णचन्द्रनिभं ग्रस्तं मुखं निष्प्रभतां गतम् ॥ ३१ ॥
+[^non-baroDa-CE] पूर्णचन्द्रनिभं ग्रस्तं मुखं निष्प्रभतां गतम् ॥ ३१ ॥
 _________________
 नूनं तच्छुभदन्तोष्ठं सुनासं चारुकुण्डलम् ।  
-पूर्णचन्द्रनिभं ग्रस्तं मुखं निष्प्रभतां गतम् ॥
+[^non-baroDa-CE] पूर्णचन्द्रनिभं ग्रस्तं मुखं निष्प्रभतां गतम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2041,3 +2041,5 @@ but again he undertook the search for his ladylove, over-strenuously. [3-60-38]
 Then, having entered that vast, great forest (_vipulaṃ mahad vanam_) and traversed it all around (_parītya sarvam_) in quest of Maithilī (_maithilīṃ prati_), he, his hope still unextinguished (_aniṣṭhitāśaḥ_), once again made the utmost effort (_paramaṃ pariśramam_) in searching for his beloved (_mārgaṇe... priyāyāḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

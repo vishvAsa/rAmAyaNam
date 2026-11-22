@@ -564,7 +564,7 @@ Provided with provisions for the journey (_datta-pathy-aśanāḥ_), the envoys 
 
 <details><summary>मूलम्</summary>
 
-ततः प्रास्थानिकं कृत्वा कार्यशेषमनन्तरम् ।  
+[^non-baroDa-CE] ततः प्रास्थानिकं कृत्वा कार्यशेषमनन्तरम् ।  
 वसिष्ठेनाभ्यनुज्ञाता दूताः सन्त्वरितं ययुः ॥ ११ ॥
 </details>
 
@@ -617,8 +617,8 @@ Then, having performed the remaining preparations for departure immediately ther
 
 <details><summary>मूलम्</summary>
 
-न्यन्तेनापरतालस्य प्रलम्बस्योत्तरं प्रति ।  
-निषेवमाणास्ते जग्मुर्नदीं मध्येन मालिनीम् ॥ १२ ॥
+[^non-baroDa-CE] न्यन्तेनापरतालस्य प्रलम्बस्योत्तरं प्रति ।  
+[^non-baroDa-CE] निषेवमाणास्ते जग्मुर्नदीं मध्येन मालिनीम् ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -857,7 +857,7 @@ Reaching the celestial coastal tree that grants prayers for truth (_nikūla-vṛ
 <details><summary>मूलम्</summary>
 
 अभिकालं ततः प्राप्य तेजोऽभिभवनाच्च्युताः ।  
-पितृपैतामहीं पुण्यां तेरुरिक्षुमतीं नदीम् ॥ १७ ॥
+[^non-baroDa-CE] पितृपैतामहीं पुण्यां तेरुरिक्षुमतीं नदीम् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -918,7 +918,7 @@ Passing Veda-learned Brahmins who drink from cupped hands, the envoys traverse t
 
 <details><summary>मूलम्</summary>
 
-अवेक्ष्याञ्जलिपानांश्च ब्राह्मणान् वेदपारगान् ।  
+[^non-baroDa-CE] अवेक्ष्याञ्जलिपानांश्च ब्राह्मणान् वेदपारगान् ।  
 ययुर्मध्येन बाह्लीकान् सुदामानं च पर्वतम् ॥ १८ ॥
 </details>
 
@@ -1158,3 +1158,4 @@ For the sake of what was dear to their master (_bhartuḥ priyārtham_), for the
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

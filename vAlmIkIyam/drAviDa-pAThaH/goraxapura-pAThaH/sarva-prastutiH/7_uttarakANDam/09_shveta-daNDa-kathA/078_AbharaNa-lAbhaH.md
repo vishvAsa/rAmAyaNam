@@ -788,8 +788,8 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-इदं तावत् सुवर्णं च धनं वस्त्राणि च द्विज ।  
-भक्ष्यं भोज्यं च ब्रह्मर्षे ददात्याभरणानि च ॥ २४ ॥
+[^non-baroDa-CE] इदं तावत् सुवर्णं च धनं वस्त्राणि च द्विज ।  
+[^non-baroDa-CE] भक्ष्यं भोज्यं च ब्रह्मर्षे ददात्याभरणानि च ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -822,8 +822,8 @@ Moved by Śveta’s sorrowful entreaty, Agastya accepts the matchless ornament f
 
 <details><summary>मूलम्</summary>
 
-सर्वान् कामान् प्रयच्छामि भोगांश्च मुनिपुङ्गव ।  
-तारणे भगवन् मह्यं प्रसादं कर्तुमर्हसि ॥ २५ ॥
+[^non-baroDa-CE] सर्वान् कामान् प्रयच्छामि भोगांश्च मुनिपुङ्गव ।  
+[^non-baroDa-CE] तारणे भगवन् मह्यं प्रसादं कर्तुमर्हसि ॥ २५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -952,3 +952,5 @@ Moved by Śveta’s sorrowful entreaty, Agastya accepts the matchless ornament f
 “By that Indra-like king, O Kākutstha (_tenedaṃ śakra-tulyena ... kākutstha_), was this divine ornament of wondrous aspect given to me on that occasion (_divyam ābharaṇaṃ mama tasmin nimitte ... dattam adbhuta-darśanam_).”
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

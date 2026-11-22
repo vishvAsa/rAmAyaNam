@@ -842,7 +842,7 @@ Then Vashishta and the other sages, the king Dasharatha along with his sons
 <details><summary>मूलम्</summary>
 
 ददर्श भीमसङ्काशं जटामण्डलधारिणम् ।  
-भार्गवं जामदग्न्येयं राजा राजविमर्दनम् ॥ १७ ॥  
+[^non-baroDa-CE] भार्गवं जामदग्न्येयं राजा राजविमर्दनम् ॥ १७ ॥  
 कैलासमिव दुर्धर्षं कालाग्निमिव दुःसहम् ।  
 ज्वलन्तमिव तेजोभिर्दुर्निरीक्ष्यं पृथग्जनैः ॥ १८ ॥  
 स्कन्धे चासज्ज्य परशुं धनुर्विद्युद‍्गणोपमम् ।  
@@ -1191,3 +1191,4 @@ Accepting the _arghya_ worship presented by Vasiṣṭha (_ṛṣidattāṃ vasi
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

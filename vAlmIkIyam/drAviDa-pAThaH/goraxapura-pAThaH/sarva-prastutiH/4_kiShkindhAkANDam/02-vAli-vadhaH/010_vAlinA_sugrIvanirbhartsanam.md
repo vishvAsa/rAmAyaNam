@@ -201,9 +201,9 @@ Pray accept (_pratīcchasva_) this many-ribbed royal parasol (_bahuśalākaṃ c
 
 <details><summary>मूलम्</summary>
 
-आर्तस्तत्र बिलद्वारि स्थितः संवत्सरं नृप ।  
-दृष्ट्वा च शोणितं द्वारि बिलाच्चापि समुत्थितम् ॥ ४ ॥  
-शोकसंविग्नहृदयो भृशं व्याकुलितेन्द्रियः ।
+[^non-baroDa-CE] आर्तस्तत्र बिलद्वारि स्थितः संवत्सरं नृप ।  
+[^non-baroDa-CE] दृष्ट्वा च शोणितं द्वारि बिलाच्चापि समुत्थितम् ॥ ४ ॥  
+[^non-baroDa-CE] शोकसंविग्नहृदयो भृशं व्याकुलितेन्द्रियः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -233,11 +233,11 @@ Distressed (_ārtaḥ_), I stood there at the mouth of the cavern (_biladvāri_)
 
 <details><summary>मूलम्</summary>
 
-अपिधाय बिलद्वारं शैलशृङ्गेण तत् तदा ॥ ५ ॥  
-तस्माद् देशादपाक्रम्य किष्किन्धां प्राविशं पुनः ।
+[^non-baroDa-CE] अपिधाय बिलद्वारं शैलशृङ्गेण तत् तदा ॥ ५ ॥  
+[^non-baroDa-CE] तस्माद् देशादपाक्रम्य किष्किन्धां प्राविशं पुनः ।
 _________________
 अपिधाय बिलद्वारं शैलशृङ्गीण तत्तदा ॥  
-तस्माद् देशादपाक्रम्य किष्किन्धां प्राविशं पुनः ।
+[^non-baroDa-CE] तस्माद् देशादपाक्रम्य किष्किन्धां प्राविशं पुनः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -288,8 +288,8 @@ my heart trembling with grief (_śokasaṃvignahṛdayaḥ_) and my senses sorel
 
 <details><summary>मूलम्</summary>
 
-विषादात्त्विह मां दृष्ट्वा पौरैर्मन्त्रिभिरेव च ॥ ६ ॥  
-अभिषिक्तो न कामेन तन्मे क्षन्तुं त्वमर्हसि ।
+[^non-baroDa-CE] विषादात्त्विह मां दृष्ट्वा पौरैर्मन्त्रिभिरेव च ॥ ६ ॥  
+[^non-baroDa-CE] अभिषिक्तो न कामेन तन्मे क्षन्तुं त्वमर्हसि ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -349,7 +349,7 @@ Sugrīva explains that he was consecrated against his will only to protect the k
 <details><summary>मूलम्</summary>
 
 त्वमेव राजा मानार्हः सदा चाहं यथा पुरा ॥ ७ ॥  
-राजभावे नियोगोऽयं मम त्वद्विरहात् कृतः ।
+[^non-baroDa-CE] राजभावे नियोगोऽयं मम त्वद्विरहात् कृतः ।
 _________________
 त्वमेव राजा मानार्हः सदा चाहं यथा पुरा ॥  
 राजभावेनियोगोऽयं मया त्वद्विरहात्कृतः ।
@@ -382,7 +382,7 @@ _________________
 
 <details><summary>मूलम्</summary>
 
-सामात्यपौरनगरं स्थितं निहतकण्टकम् ॥ ८ ॥  
+[^non-baroDa-CE] सामात्यपौरनगरं स्थितं निहतकण्टकम् ॥ ८ ॥  
 न्यासभूतमिदं राज्यं तव निर्यातयाम्यहम् ।
 </details>
 
@@ -1108,7 +1108,7 @@ cavity, and then in searching for that demon there one year elapsed. [4-10-19]
 <details><summary>मूलम्</summary>
 
 स तु दृष्टो मया शत्रुरनिर्वेदाद् भयावहः ।  
-निहतश्च मया सद्यः स सर्वैः सह बन्धुभिः ॥ २० ॥
+[^non-baroDa-CE] निहतश्च मया सद्यः स सर्वैः सह बन्धुभिः ॥ २० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1893,8 +1893,8 @@ By inference from my own self (_ātmānumānāt_), I see that you are plunged in
 
 <details><summary>मूलम्</summary>
 
-तस्य तद् वचनं श्रुत्वा हर्षपौरुषवर्धनम् ।  
-सुग्रीवः परमप्रीतः सुमहद्वाक्यमब्रवीत् ॥ ३५ ॥
+[^non-baroDa-CE] तस्य तद् वचनं श्रुत्वा हर्षपौरुषवर्धनम् ।  
+[^non-baroDa-CE] सुग्रीवः परमप्रीतः सुमहद्वाक्यमब्रवीत् ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1946,3 +1946,4 @@ Hearing that speech of his, which heightened his joy and valor (_harṣapauruṣ
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

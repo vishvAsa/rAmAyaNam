@@ -808,8 +808,8 @@ though bereft of merit is preferable. An enemy is, indeed, ever an enemy."
 
 <details><summary>मूलम्</summary>
 
-यः स्वपक्षं परित्यज्य परपक्षं निषेवते ।  
-स स्वपक्षे क्षयं याते पश्चात् तैरेव हन्यते ॥ १६ ॥
+[^non-baroDa-CE] यः स्वपक्षं परित्यज्य परपक्षं निषेवते ।  
+[^non-baroDa-CE] स स्वपक्षे क्षयं याते पश्चात् तैरेव हन्यते ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1078,8 +1078,8 @@ be driven away by his brother, even if the former's nature is different?"
 
 <details><summary>मूलम्</summary>
 
-धर्मात् प्रच्युतशीलं हि पुरुषं पापनिश्चयम् ।  
-त्यक्त्वा सुखमवाप्नोति हस्तादाशीविषं यथा ॥ २१ ॥
+[^non-baroDa-CE] धर्मात् प्रच्युतशीलं हि पुरुषं पापनिश्चयम् ।  
+[^non-baroDa-CE] त्यक्त्वा सुखमवाप्नोति हस्तादाशीविषं यथा ॥ २१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1131,11 +1131,11 @@ one attains happiness, as one shakes off a venomous serpent from his hand."
 
 <details><summary>मूलम्</summary>
 
-परस्वहरणे युक्तं परदाराभिमर्शकम् ।  
-त्याज्यमाहुर्दुरात्मानं वेश्म प्रज्वलितं यथा ॥ २२ ॥
+[^non-baroDa-CE] परस्वहरणे युक्तं परदाराभिमर्शकम् ।  
+[^non-baroDa-CE] त्याज्यमाहुर्दुरात्मानं वेश्म प्रज्वलितं यथा ॥ २२ ॥
 _________________
 परस्वहरणे युक्तं परदाराभिमर्शनम् ।  
-त्याज्यमाहुर्दुरात्मानं वेश्म प्रज्वलितं यथा ॥
+[^non-baroDa-CE] त्याज्यमाहुर्दुरात्मानं वेश्म प्रज्वलितं यथा ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1420,7 +1420,7 @@ indisciplined and caught, as you are, in the noose of Death."
 
 <details><summary>मूलम्</summary>
 
-अद्येह व्यसनं प्राप्तं यन्मां परुषमुक्तवान् ।  
+[^non-baroDa-CE] अद्येह व्यसनं प्राप्तं यन्मां परुषमुक्तवान् ।  
 प्रवेष्टुं न त्वया शक्यं न्यग्रोधं राक्षसाधम ॥ २८ ॥
 </details>
 
@@ -1593,3 +1593,4 @@ today."
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

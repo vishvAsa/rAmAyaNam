@@ -1927,7 +1927,7 @@ There he beheld a _rākṣasa_ named Mārīca (_mārīcaṃ nāma rākṣasam_),
 <details><summary>मूलम्</summary>
 
 स रावणः समागम्य विधिवत् तेन रक्षसा ।  
-मारीचेनार्चितो राजा सर्वकामैरमानुषैः ॥ ३९ ॥
+[^non-baroDa-CE] मारीचेनार्चितो राजा सर्वकामैरमानुषैः ॥ ३९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1978,8 +1978,8 @@ Having met according to rule (_samāgamya vidhivat_) with that _rākṣasa_, Kin
 
 <details><summary>मूलम्</summary>
 
-तं स्वयं पूजयित्वा च भोजनेनोदकेन च ।  
-अर्थोपहितया वाचा मारीचो वाक्यमब्रवीत् ॥ ४० ॥
+[^non-baroDa-CE] तं स्वयं पूजयित्वा च भोजनेनोदकेन च ।  
+[^non-baroDa-CE] अर्थोपहितया वाचा मारीचो वाक्यमब्रवीत् ॥ ४० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2030,11 +2030,11 @@ Having personally honored him (_taṃ svayaṃ pūjayitvā ca_) with food and wa
 
 <details><summary>मूलम्</summary>
 
-कच्चित्ते कुशलं राजन् लङ्कायां राक्षसेश्वर ।  
-केनार्थेन पुनस्त्वं वै तूर्णमेव इहागतः ॥ ४१ ॥
+[^non-baroDa-CE] कच्चित्ते कुशलं राजन् लङ्कायां राक्षसेश्वर ।  
+[^non-baroDa-CE] केनार्थेन पुनस्त्वं वै तूर्णमेव इहागतः ॥ ४१ ॥
 _________________
 कच्चित्तेकुशलं राजन् ल्लङ्कायां राक्षसेश्वर ।  
-केनार्थेन पुनस्त्वं वै तूर्णमेव इहागतः ॥
+[^non-baroDa-CE] केनार्थेन पुनस्त्वं वै तूर्णमेव इहागतः ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2112,7 +2112,7 @@ kur¨n paþyan paþyan caiva nagottam˜n | deva d˜nava sanghai× ca sevitam hi 
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तो महातेजा मारीचेन स रावणः ।  
+[^non-baroDa-CE] एवमुक्तो महातेजा मारीचेन स रावणः ।  
 ततः पश्चादिदं वाक्यमब्रवीद् वाक्यकोविदः ॥ ४२ ॥
 </details>
 
@@ -2165,3 +2165,4 @@ Thus addressed by Mārīca, that Rāvaṇa of great fiery energy (_mahā-tejā�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -502,7 +502,7 @@ While those monkeys and rākṣasas were speaking thus (_teṣām evaṃ bruvā�
 
 <details><summary>मूलम्</summary>
 
-यच्चैतच्चरितं दिव्यं कथा ते रघुनन्दन ।  
+[^non-baroDa-CE] यच्चैतच्चरितं दिव्यं कथा ते रघुनन्दन ।  
 तन्ममाप्सरसो राम श्रावयेयुर्नरर्षभ ॥ १८ ॥
 </details>
 
@@ -541,8 +541,8 @@ Rāma confirms Hanūmān’s immortality as long as the worlds and his own tale 
 
 <details><summary>मूलम्</summary>
 
-तच्छ्रुत्वाहं ततो वीर तव चर्यामृतं प्रभो ।  
-उत्कण्ठां तां हरिष्यामि मेघलेखामिवानिलः ॥ १९ ॥
+[^non-baroDa-CE] तच्छ्रुत्वाहं ततो वीर तव चर्यामृतं प्रभो ।  
+[^non-baroDa-CE] उत्कण्ठां तां हरिष्यामि मेघलेखामिवानिलः ॥ १९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -607,7 +607,7 @@ Rāma confirms Hanūmān’s immortality as long as the worlds and his own tale 
 
 एवमेतत् कपिश्रेष्ठ भविता नात्र संशयः ।  
 चरिष्यति कथा यावदेषा लोके च मामिका ॥ २१ ॥  
-तावत् ते भविता कीर्तिः शरीरेऽप्यसवस्तथा ।  
+[^non-baroDa-CE] तावत् ते भविता कीर्तिः शरीरेऽप्यसवस्तथा ।  
 लोका हि यावत्स्थास्यन्ति तावत् स्थास्यन्ति मे कथाः ॥ २२ ॥
 </details>
 
@@ -640,7 +640,7 @@ Rāma confirms Hanūmān’s immortality as long as the worlds and his own tale 
 
 <details><summary>मूलम्</summary>
 
-एकैकस्योपकारस्य प्राणान् दास्यामि ते कपे ।  
+[^non-baroDa-CE] एकैकस्योपकारस्य प्राणान् दास्यामि ते कपे ।  
 शेषस्येहोपकाराणां भवाम ऋणिनो वयम् ॥ २३ ॥
 </details>
 
@@ -804,7 +804,7 @@ Thus graciously honored by that high-souled Rāghava (_kṛtaprasādās tenaiva�
 <details><summary>मूलम्</summary>
 
 सुग्रीवः स च रामेण निरन्तरमुरोगतः ।  
-विभीषणश्च धर्मात्मा सर्वे ते बाष्पविक्लवाः ॥ २८ ॥
+[^non-baroDa-CE] विभीषणश्च धर्मात्मा सर्वे ते बाष्पविक्लवाः ॥ २८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -859,8 +859,8 @@ Then those rākṣasas, bears, and monkeys (_te rākṣasa-ṛkṣa-vānarāḥ_
 
 <details><summary>मूलम्</summary>
 
-कृतप्रसादास्तेनैवं राघवेण महात्मना ।  
-जग्मुः स्वं स्वं गृहं सर्वे देही देहमिव त्यजन् ॥ ३० ॥
+[^non-baroDa-CE] कृतप्रसादास्तेनैवं राघवेण महात्मना ।  
+[^non-baroDa-CE] जग्मुः स्वं स्वं गृहं सर्वे देही देहमिव त्यजन् ॥ ३० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -886,10 +886,10 @@ Then those rākṣasas, bears, and monkeys (_te rākṣasa-ṛkṣa-vānarāḥ_
 
 <details><summary>मूलम्</summary>
 
-ततस्तु ते राक्षसऋक्षवानराः  
-प्रणम्य रामं रघुवंशवर्धनम् ।  
-वियोगजाश्रुप्रतिपूर्णलोचनाः  
-प्रतिप्रयातास्तु यथा निवासिनः ॥ ३१ ॥
+[^non-baroDa-CE] ततस्तु ते राक्षसऋक्षवानराः  
+[^non-baroDa-CE] प्रणम्य रामं रघुवंशवर्धनम् ।  
+[^non-baroDa-CE] वियोगजाश्रुप्रतिपूर्णलोचनाः  
+[^non-baroDa-CE] प्रतिप्रयातास्तु यथा निवासिनः ॥ ३१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -909,3 +909,4 @@ Then those rākṣasas, bears, and monkeys (_te rākṣasa-ṛkṣa-vānarāḥ_
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

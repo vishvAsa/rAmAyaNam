@@ -616,8 +616,8 @@ In v. 11, **Tilaka**, **Śiromaṇi**, and **Govindarāja** unanimously read _ce
 
 <details><summary>मूलम्</summary>
 
-वियुक्ता पतिना तेन द्विजेन सहचारिणा ।  
-ताम्रशीर्षेण मत्तेन पत्त्रिणा सहितेन वै ॥ १२ ॥
+[^non-baroDa-CE] वियुक्ता पतिना तेन द्विजेन सहचारिणा ।  
+[^non-baroDa-CE] ताम्रशीर्षेण मत्तेन पत्त्रिणा सहितेन वै ॥ १२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1638,7 +1638,7 @@ Then, having seated himself upon that supremely honored seat, the worshipful Lor
 
 <details><summary>मूलम्</summary>
 
-ब्रह्मणा समनुज्ञातः सोऽप्युपाविशदासने ।  
+[^non-baroDa-CE] ब्रह्मणा समनुज्ञातः सोऽप्युपाविशदासने ।  
 उपविष्टे तदा तस्मिन् साक्षाल्लोकपितामहे ॥ २७ ॥  
 तद‍्गतेनैव मनसा वाल्मीकिर्ध्यानमास्थितः ।  
 पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना ॥ २८ ॥  
@@ -2586,9 +2586,9 @@ Then that illustrious seer of noble vision (_udāradarśanaḥ_) composed for th
 <details><summary>मूलम्</summary>
 
 तदुपगतसमाससन्धियोगं  
-सममधुरोपनतार्थवाक्यबद्धम् ।  
-रघुवरचरितं मुनिप्रणीतं  
-दशशिरसश्च वधं निशामयध्वम् ॥ ४३ ॥
+[^non-baroDa-CE] सममधुरोपनतार्थवाक्यबद्धम् ।  
+[^non-baroDa-CE] रघुवरचरितं मुनिप्रणीतं  
+[^non-baroDa-CE] दशशिरसश्च वधं निशामयध्वम् ॥ ४३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2661,3 +2661,5 @@ _____________
 Why does the concluding verse invite listeners (_niśāmayadhvam_—said either by the poet to the assembly of sages or by Kuśa and Lava to their audience) to hear both “the history of the noblest of the Raghus” and “the slaying of the ten-headed Rāvaṇa”? **Govindarāja** and **Tilaka** explain that the entire _Rāmāyaṇa_ rests on two complementary pillars of _avatāra-prayojana_: _sādhu-paritrāṇa_ (manifesting Śrī Rāma’s auspicious virtues and righteous rule for the refuge of the virtuous) and _duṣkṛtāṃ vināśa_ (eradicating cosmic adharma personified in the ten-headed Rāvaṇa).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

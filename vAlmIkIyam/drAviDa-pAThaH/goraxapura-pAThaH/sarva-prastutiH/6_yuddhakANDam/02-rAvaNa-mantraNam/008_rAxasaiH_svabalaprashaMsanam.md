@@ -624,8 +624,8 @@ perturbing the army of monkeys, I shall come back."
 
 <details><summary>मूलम्</summary>
 
-इदं ममापरं वाक्यं शृणु राजन् यदिच्छसि ।  
-उपायकुशलो ह्येव जयेच्छत्रूनतन्द्रितः ॥ १२ ॥
+[^non-baroDa-CE] इदं ममापरं वाक्यं शृणु राजन् यदिच्छसि ।  
+[^non-baroDa-CE] उपायकुशलो ह्येव जयेच्छत्रूनतन्द्रितः ॥ १२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -689,12 +689,12 @@ Vajradaṃṣṭra proposes that thousands of shape-shifting rākṣasas disguis
 
 <details><summary>मूलम्</summary>
 
-कामरूपधराः शूराः सुभीमा भीमदर्शनाः ।  
-राक्षसा वा सहस्राणि राक्षसाधिप निश्चिताः ॥ १३ ॥  
+[^non-baroDa-CE] कामरूपधराः शूराः सुभीमा भीमदर्शनाः ।  
+[^non-baroDa-CE] राक्षसा वा सहस्राणि राक्षसाधिप निश्चिताः ॥ १३ ॥  
 काकुत्स्थमुपसङ्गम्य बिभ्रतो मानुषं वपुः ।  
-सर्वे ह्यसम्भ्रमा भूत्वा ब्रुवन्तु रघुसत्तमम् ॥ १४ ॥  
-प्रेषिता भरतेनैव भ्रात्रा तव यवीयसा ।  
-स हि सेनां समुत्थाप्य क्षिप्रमेवोपयास्यति ॥ १५ ॥
+[^non-baroDa-CE] सर्वे ह्यसम्भ्रमा भूत्वा ब्रुवन्तु रघुसत्तमम् ॥ १४ ॥  
+[^non-baroDa-CE] प्रेषिता भरतेनैव भ्रात्रा तव यवीयसा ।  
+[^non-baroDa-CE] स हि सेनां समुत्थाप्य क्षिप्रमेवोपयास्यति ॥ १५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -762,8 +762,8 @@ forces and will surely come here soon."
 
 <details><summary>मूलम्</summary>
 
-ततो वयमितस्तूर्णं शूलशक्तिगदाधराः ।  
-चापबाणासिहस्ताश्च त्वरितास्तत्र यामहे ॥ १६ ॥
+[^non-baroDa-CE] ततो वयमितस्तूर्णं शूलशक्तिगदाधराः ।  
+[^non-baroDa-CE] चापबाणासिहस्ताश्च त्वरितास्तत्र यामहे ॥ १६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -814,8 +814,8 @@ will quickly go there from here soon."
 
 <details><summary>मूलम्</summary>
 
-आकाशे गणशः स्थित्वा हत्वा तां हरिवाहिनीम् ।  
-अश्मशस्त्रमहावृष्ट्या प्रापयाम यमक्षयम् ॥ १७ ॥
+[^non-baroDa-CE] आकाशे गणशः स्थित्वा हत्वा तां हरिवाहिनीम् ।  
+[^non-baroDa-CE] अश्मशस्त्रमहावृष्ट्या प्रापयाम यमक्षयम् ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -867,8 +867,8 @@ of stones and missiles, we should send them to the world of Death."
 
 <details><summary>मूलम्</summary>
 
-एवं चेदुपसर्पेतामनयं रामलक्ष्मणौ ।  
-अवश्यमपनीतेन जहतामेव जीवितम् ॥ १८ ॥
+[^non-baroDa-CE] एवं चेदुपसर्पेतामनयं रामलक्ष्मणौ ।  
+[^non-baroDa-CE] अवश्यमपनीतेन जहतामेव जीवितम् ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -992,7 +992,7 @@ Then Kumbhakarṇa&#x27;s heroic and valiant son (_kaumbhakarṇiḥ_) named Nik
 
 सर्वे भवन्तस्तिष्ठन्तु महाराजेन सङ्गताः ।  
 अहमेको हनिष्यामि राघवं सहलक्ष्मणम् ॥ २० ॥  
-सुग्रीवं सहनूमन्तं सर्वांश्चैवात्र वानरान् ।
+[^non-baroDa-CE] सुग्रीवं सहनूमन्तं सर्वांश्चैवात्र वानरान् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1136,7 +1136,7 @@ enraged and licking the corners of his mouth with his tongue (_parilihan sṛkk�
 
 स्वस्थाः क्रीडन्तु निश्चिन्ताः पिबन्तु मधु वारुणीम् ॥ २३ ॥  
 अहमेको वधिष्यामि सुग्रीवं सहलक्ष्मणम् ।  
-साङ्गदं च हनूमन्तं सर्वांश्चैवात्र वानरान् ॥ २४ ॥
+[^non-baroDa-CE] साङ्गदं च हनूमन्तं सर्वांश्चैवात्र वानरान् ॥ २४ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1201,3 +1201,4 @@ Angada and all monkeys.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

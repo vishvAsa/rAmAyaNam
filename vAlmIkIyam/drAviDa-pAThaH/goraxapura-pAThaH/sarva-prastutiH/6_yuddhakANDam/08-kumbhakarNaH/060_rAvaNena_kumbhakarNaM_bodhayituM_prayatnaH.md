@@ -393,10 +393,10 @@ musicians, or semi divine beings or demons or serpent-demons, but f man I made n
 
 <details><summary>मूलम्</summary>
 
-तमिमं मानुषं मन्ये रामं दशरथात्मजम् ।  
-इक्ष्वाकुकुलजातेन अनरण्येन यत् पुरा ॥ ८ ॥  
-उत्पत्स्यति हि मद्वंशपुरुषो राक्षसाधम ।  
-यस्त्वां सपुत्रं सामात्यं सबलं साश्वसारथिम् ॥ ९ ॥  
+[^non-baroDa-CE] तमिमं मानुषं मन्ये रामं दशरथात्मजम् ।  
+[^non-baroDa-CE] इक्ष्वाकुकुलजातेन अनरण्येन यत् पुरा ॥ ८ ॥  
+[^non-baroDa-CE] उत्पत्स्यति हि मद्वंशपुरुषो राक्षसाधम ।  
+[^non-baroDa-CE] यस्त्वां सपुत्रं सामात्यं सबलं साश्वसारथिम् ॥ ९ ॥  
 निहनिष्यति सङ्ग्रामे त्वां कुलाधम दुर्मते ।
 </details>
 
@@ -460,8 +460,8 @@ horses and charioteer."
 
 <details><summary>मूलम्</summary>
 
-शप्तोऽहं वेदवत्या च यथा सा धर्षिता पुरा ॥ १० ॥  
-सेयं सीता महाभागा जाता जनकनन्दिनी ।
+[^non-baroDa-CE] शप्तोऽहं वेदवत्या च यथा सा धर्षिता पुरा ॥ १० ॥  
+[^non-baroDa-CE] सेयं सीता महाभागा जाता जनकनन्दिनी ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -513,8 +513,8 @@ Vedavati is born as the highly fortunate Seetha the daughter of Janaka."
 
 <details><summary>मूलम्</summary>
 
-उमा नन्दीश्वरश्चापि रम्भा वरुणकन्यका ॥ ११ ॥  
-यथोक्तास्तन्मया प्राप्तं न मिथ्या ऋषिभाषितम् ।
+[^non-baroDa-CE] उमा नन्दीश्वरश्चापि रम्भा वरुणकन्यका ॥ ११ ॥  
+[^non-baroDa-CE] यथोक्तास्तन्मया प्राप्तं न मिथ्या ऋषिभाषितम् ।
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -745,9 +745,9 @@ slumbering soundly."
 
 <details><summary>मूलम्</summary>
 
-सुखं स्वपिति निश्चिन्तः कामोपहतचेतनः ॥ १६ ॥  
+[^non-baroDa-CE] सुखं स्वपिति निश्चिन्तः कामोपहतचेतनः ॥ १६ ॥  
 नव सप्त दशाष्टौ च मासान् स्वपिति राक्षसः ।  
-मन्त्रं कृत्वा प्रसुप्तोऽयमितस्तु नवमेऽहनि ॥ १७ ॥
+[^non-baroDa-CE] मन्त्रं कृत्वा प्रसुप्तोऽयमितस्तु नवमेऽहनि ॥ १७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1112,7 +1112,7 @@ Buffeted by the blasts of Kumbhakarṇa's breath as they struggle into his gold-
 
 तां प्रविश्य महाद्वारां सर्वतो योजनायताम् ।  
 कुम्भकर्णगुहां रम्यां पुष्पगन्धप्रवाहिनीम् ॥ २४ ॥  
-कुम्भकर्णस्य निःश्वासादवधूता महाबलाः ।  
+[^non-baroDa-CE] कुम्भकर्णस्य निःश्वासादवधूता महाबलाः ।  
 प्रतिष्ठमानाः कृच्छ्रेण यत्नात् प्रविविशुर्गुहाम् ॥ २५ ॥
 _________________
 तां प्रविश्य महाद्वारां सर्वतो योजनायताम् ।  
@@ -1304,7 +1304,7 @@ His body bristled with erect hair (_ūrdhva-lomāñcita-tanum_); he hissed like 
 <details><summary>मूलम्</summary>
 
 भीमनासापुटं तं तु पातालविपुलाननम् ।  
-शयने न्यस्तसर्वाङ्गं मेदोरुधिरगन्धिनम् ॥ २९ ॥
+[^non-baroDa-CE] शयने न्यस्तसर्वाङ्गं मेदोरुधिरगन्धिनम् ॥ २९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1360,7 +1360,7 @@ With his dreadful nostrils (_bhīma-nāsā-puṭam_) and a mouth as cavernous as
 
 <details><summary>मूलम्</summary>
 
-काञ्चनाङ्गदनद्धाङ्गं किरीटेनार्कवर्चसम् ।  
+[^non-baroDa-CE] काञ्चनाङ्गदनद्धाङ्गं किरीटेनार्कवर्चसम् ।  
 ददृशुर्नैर्ऋतव्याघ्रं कुम्भकर्णमरिन्दमम् ॥ ३० ॥
 </details>
 
@@ -1944,7 +1944,7 @@ Then those fierce rākṣasas struck Kumbhakarṇa—who lay blissfully asleep u
 <details><summary>मूलम्</summary>
 
 तस्य निःश्वासवातेन कुम्भकर्णस्य रक्षसः ।  
-राक्षसाः कुम्भकर्णस्य स्थातुं शेकुर्न चाग्रतः ॥ ४१ ॥
+[^non-baroDa-CE] राक्षसाः कुम्भकर्णस्य स्थातुं शेकुर्न चाग्रतः ॥ ४१ ॥
 _________________
 तस्य निःश्वासवातेन कुम्भकर्णस्य रक्षसः ।  
 राक्षसाः कुम्भकर्णस्य स्थातुं शेकुर्न जाग्रतः ॥
@@ -2449,7 +2449,7 @@ Some beat the kettledrums (_bherīḥ samājaghnuḥ_), others raised a mighty u
 
 <details><summary>मूलम्</summary>
 
-उदकुम्भशतानन्ये समसिञ्चन्त कर्णयोः ।  
+[^non-baroDa-CE] उदकुम्भशतानन्ये समसिञ्चन्त कर्णयोः ।  
 न कुम्भकर्णः पस्पन्दे महानिद्रावशं गतः ॥ ५२ ॥
 _________________
 उदकुम्भशतान्यन्ये समसिञ्चन्त कर्णयोः ।  
@@ -2888,7 +2888,7 @@ As that night-roamer of surpassing strength yawned, now fully awake (_prabuddha�
 <details><summary>मूलम्</summary>
 
 रूपमुत्तिष्ठतस्तस्य कुम्भकर्णस्य तद् बभौ ।  
-युगान्ते सर्वभूतानि कालस्येव दिधक्षतः ॥ ६० ॥
+[^non-baroDa-CE] युगान्ते सर्वभूतानि कालस्येव दिधक्षतः ॥ ६० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2978,8 +2978,8 @@ His two huge eyes (_mahā-netre_), resembling blazing fires and flashing with th
 
 <details><summary>मूलम्</summary>
 
-ततस्त्वदर्शयन् सर्वान् भक्ष्यांश्च विविधान् बहून् ।  
-वराहान् महिषांश्चैव बभक्ष स महाबलः ॥ ६२ ॥
+[^non-baroDa-CE] ततस्त्वदर्शयन् सर्वान् भक्ष्यांश्च विविधान् बहून् ।  
+[^non-baroDa-CE] वराहान् महिषांश्चैव बभक्ष स महाबलः ॥ ६२ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3121,8 +3121,8 @@ Seeing that he was now sated (_tṛpta iti jñātvā_), the night-roamers sprang
 
 <details><summary>मूलम्</summary>
 
-निद्राविशदनेत्रस्तु कलुषीकृतलोचनः ।  
-चारयन् सर्वतो दृष्टिं तान् ददर्श निशाचरान् ॥ ६५ ॥
+[^non-baroDa-CE] निद्राविशदनेत्रस्तु कलुषीकृतलोचनः ।  
+[^non-baroDa-CE] चारयन् सर्वतो दृष्टिं तान् ददर्श निशाचरान् ॥ ६५ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -3488,7 +3488,7 @@ To that foe-taming Kumbhakarṇa, who was speaking thus in wrathful excitement (
 <details><summary>मूलम्</summary>
 
 न नो देवकृतं किञ्चिद् भयमस्ति कदाचन ।  
-मानुषान्नो भयं राजंस्तुमुलं सम्प्रबाधते ॥ ७२ ॥
+[^non-baroDa-CE] मानुषान्नो भयं राजंस्तुमुलं सम्प्रबाधते ॥ ७२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4717,10 +4717,10 @@ Illuminating the royal highway (_rāja-mārgam_) with his bodily luster as the t
 
 <details><summary>मूलम्</summary>
 
-तं राजमार्गस्थममित्रघातिनं  
-वनौकसस्ते सहसा बहिःस्थिताः ।  
-दृष्ट्वाप्रमेयं गिरिशृङ्गकल्पं  
-वितत्रसुस्ते सह यूथपालैः ॥ ९६ ॥
+[^non-baroDa-CE] तं राजमार्गस्थममित्रघातिनं  
+[^non-baroDa-CE] वनौकसस्ते सहसा बहिःस्थिताः ।  
+[^non-baroDa-CE] दृष्ट्वाप्रमेयं गिरिशृङ्गकल्पं  
+[^non-baroDa-CE] वितत्रसुस्ते सह यूथपालैः ॥ ९६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -4873,3 +4873,5 @@ _________________
 Beholding that diadem-crowned giant (_kirīṭinam_) who resembled a mountain peak, seemed to touch the sun with his own radiance (_spṛśantam ādityam ivātma-tejasā_), and had swollen to wondrous proportions, the forest-dwellers, tormented by fear, fled helter-skelter in every direction (_dudruvire yatas tataḥ_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

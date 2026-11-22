@@ -148,7 +148,7 @@ Thereupon that glorious (_śrīmān_) foremost of birds (_khagottamaḥ_), resem
 <details><summary>मूलम्</summary>
 
 दशग्रीव स्थितो धर्मे पुराणे सत्यसंश्रयः ।  
-भ्रातस्त्वं निन्दितं कर्म कर्तुं नार्हसि साम्प्रतम् ॥ ३ ॥  
+[^non-baroDa-CE] भ्रातस्त्वं निन्दितं कर्म कर्तुं नार्हसि साम्प्रतम् ॥ ३ ॥  
 जटायुर्नाम नाम्नाहं गृध्रराजो महाबलः ।
 </details>
 
@@ -1662,3 +1662,4 @@ Halt, halt, O Daśagrīva! Wait a moment and behold, O Rāvaṇa! Like a fruit f
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

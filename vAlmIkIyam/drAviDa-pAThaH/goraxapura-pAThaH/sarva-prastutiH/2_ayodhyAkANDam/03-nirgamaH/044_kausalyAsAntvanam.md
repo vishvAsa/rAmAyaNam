@@ -578,7 +578,7 @@ like a father, the moon will refresh Rama"
 
 <details><summary>मूलम्</summary>
 
-स शूरः पुरुषव्याघ्रः स्वबाहुबलमाश्रितः ।  
+[^non-baroDa-CE] स शूरः पुरुषव्याघ्रः स्वबाहुबलमाश्रितः ।  
 असन्त्रस्तो ह्यरण्येऽसौ वेश्मनीव निवत्स्यते ॥ १२ ॥
 </details>
 
@@ -639,8 +639,8 @@ Exalting Rāma as the sun of the sun, the fire of fire, the lord of lords, and t
 
 <details><summary>मूलम्</summary>
 
-यस्येषुपथमासाद्य विनाशं यान्ति शत्रवः ।  
-कथं न पृथिवी तस्य शासने स्थातुमर्हति ॥ १३ ॥
+[^non-baroDa-CE] यस्येषुपथमासाद्य विनाशं यान्ति शत्रवः ।  
+[^non-baroDa-CE] कथं न पृथिवी तस्य शासने स्थातुमर्हति ॥ १३ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -692,8 +692,8 @@ enemies fall an easy prey?"
 
 <details><summary>मूलम्</summary>
 
-या श्रीः शौर्यं च रामस्य या च कल्याणसत्त्वता ।  
-निवृत्तारण्यवासः स्वं क्षिप्रं राज्यमवाप्स्यति ॥ १४ ॥
+[^non-baroDa-CE] या श्रीः शौर्यं च रामस्य या च कल्याणसत्त्वता ।  
+[^non-baroDa-CE] निवृत्तारण्यवासः स्वं क्षिप्रं राज्यमवाप्स्यति ॥ १४ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -748,15 +748,15 @@ the forest, he will speedily regain his kingdom."
 
 <details><summary>मूलम्</summary>
 
-सूर्यस्यापि भवेत् सूर्यो ह्यग्नेरग्नः प्रभोः प्रभुः ।  
-श्रियाः श्रीश्च भवेदग्र्या कीर्त्याः कीर्तिः क्षमाक्षमा ॥ १५ ॥  
-दैवतं देवतानां च भूतानां भूतसत्तमः ।  
-तस्य के ह्यगुणा देवि वने वाप्यथवा पुरे ॥ १६ ॥
+[^non-baroDa-CE] सूर्यस्यापि भवेत् सूर्यो ह्यग्नेरग्नः प्रभोः प्रभुः ।  
+[^non-baroDa-CE] श्रियाः श्रीश्च भवेदग्र्या कीर्त्याः कीर्तिः क्षमाक्षमा ॥ १५ ॥  
+[^non-baroDa-CE] दैवतं देवतानां च भूतानां भूतसत्तमः ।  
+[^non-baroDa-CE] तस्य के ह्यगुणा देवि वने वाप्यथवा पुरे ॥ १६ ॥
 _________________
 सूर्यस्यापि भवेत्सूर्यो ह्यग्नेरग्निः प्रभोः प्रभुः ।  
-श्रियाः श्रीश्च भवेदग्र्याकीर्त्याः कीर्तिः क्षमाक्षमा ॥
+[^non-baroDa-CE] श्रियाः श्रीश्च भवेदग्र्याकीर्त्याः कीर्तिः क्षमाक्षमा ॥
 दैवतं दैवतानां च भूतानां भूतसत्तमः ।  
-तस्य के ह्यगुणा देविवने वाप्यथवा पुरे ॥
+[^non-baroDa-CE] तस्य के ह्यगुणा देविवने वाप्यथवा पुरे ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -886,9 +886,9 @@ With Lakṣmī herself following him as Sītā and Lakṣmaṇa marching ahead b
 <details><summary>मूलम्</summary>
 
 दुःखजं विसृजत्यश्रु निष्क्रामन्तमुदीक्ष्य यम् ।  
-अयोध्यायां जनः सर्वः शोकवेगसमाहतः ॥ १८ ॥  
-कुशचीरधरं वीरं गच्छन्तमपराजितम् ।  
-सीतेवानुगता लक्ष्मीस्तस्य किं नाम दुर्लभम् ॥ १९ ॥
+[^non-baroDa-CE] अयोध्यायां जनः सर्वः शोकवेगसमाहतः ॥ १८ ॥  
+[^non-baroDa-CE] कुशचीरधरं वीरं गच्छन्तमपराजितम् ।  
+[^non-baroDa-CE] सीतेवानुगता लक्ष्मीस्तस्य किं नाम दुर्लभम् ॥ १९ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -949,8 +949,8 @@ difficult for him to obtain?"
 
 <details><summary>मूलम्</summary>
 
-धनुर्ग्रहवरो यस्य बाणखड्गास्त्रभृत् स्वयम् ।  
-लक्ष्मणो व्रजति ह्यग्रे तस्य किं नाम दुर्लभम् ॥ २० ॥
+[^non-baroDa-CE] धनुर्ग्रहवरो यस्य बाणखड्गास्त्रभृत् स्वयम् ।  
+[^non-baroDa-CE] लक्ष्मणो व्रजति ह्यग्रे तस्य किं नाम दुर्लभम् ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -996,8 +996,8 @@ the best among the holders of bow wielding arrows, sword and missiles?"
 
 <details><summary>मूलम्</summary>
 
-निवृत्तवनवासं तं द्रष्टासि पुनरागतम् ।  
-जहि शोकं च मोहं च देवि सत्यं ब्रवीमि ते ॥ २१ ॥
+[^non-baroDa-CE] निवृत्तवनवासं तं द्रष्टासि पुनरागतम् ।  
+[^non-baroDa-CE] जहि शोकं च मोहं च देवि सत्यं ब्रवीमि ते ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1043,8 +1043,8 @@ completed the term of his exile in the forest . Abandon grief and infatuation."
 
 <details><summary>मूलम्</summary>
 
-शिरसा चरणावेतौ वन्दमानमनिन्दिते ।  
-पुनर्द्रक्ष्यसि कल्याणि पुत्रं चन्द्रमिवोदितम् ॥ २२ ॥
+[^non-baroDa-CE] शिरसा चरणावेतौ वन्दमानमनिन्दिते ।  
+[^non-baroDa-CE] पुनर्द्रक्ष्यसि कल्याणि पुत्रं चन्द्रमिवोदितम् ॥ २२ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1096,7 +1096,7 @@ like the rising moon, saluting respectfully your feet, by bowing his head."
 
 <details><summary>मूलम्</summary>
 
-पुनः प्रविष्टं दृष्ट्वा तमभिषिक्तं महाश्रियम् ।  
+[^non-baroDa-CE] पुनः प्रविष्टं दृष्ट्वा तमभिषिक्तं महाश्रियम् ।  
 समुत्स्रक्ष्यसि नेत्राभ्यां शीघ्रमानन्दजं जलम् ॥ २३ ॥
 </details>
 
@@ -1157,11 +1157,11 @@ Reminding Kausalyā that the entire palace looks to her for solace and that no o
 
 <details><summary>मूलम्</summary>
 
-मा शोको देवि दुःखं वा न रामे दृष्यतेऽशिवम् ।  
-क्षिप्रं द्रक्ष्यसि पुत्रं त्वं ससीतं सहलक्ष्मणम् ॥ २४ ॥
+[^non-baroDa-CE] मा शोको देवि दुःखं वा न रामे दृष्यतेऽशिवम् ।  
+[^non-baroDa-CE] क्षिप्रं द्रक्ष्यसि पुत्रं त्वं ससीतं सहलक्ष्मणम् ॥ २४ ॥
 _________________
 मा शोको देवि दुःखं वा न रामे दृश्यतेऽशिवम् ।  
-क्षिप्रं द्रक्ष्यसि पुत्रं त्वं ससीतं सहलक्ष्मणम् ॥
+[^non-baroDa-CE] क्षिप्रं द्रक्ष्यसि पुत्रं त्वं ससीतं सहलक्ष्मणम् ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1213,8 +1213,8 @@ able to see soon your son along with Sita, accompanied by Lakshmana".
 
 <details><summary>मूलम्</summary>
 
-त्वयाऽशेषो जनश्चायं समाश्वास्यो यतोऽनघे ।  
-कमिदानीमिदं देवि करोषि हृदि विक्लवम् ॥ २५ ॥
+[^non-baroDa-CE] त्वयाऽशेषो जनश्चायं समाश्वास्यो यतोऽनघे ।  
+[^non-baroDa-CE] कमिदानीमिदं देवि करोषि हृदि विक्लवम् ॥ २५ ॥
 _________________
 त्वयाशेषो जनश्चायं समाश्वास्यो यतोनघे ।  
 किमिदानिमिदं देवि करोषि हृदि विक्लवम् ॥
@@ -1268,8 +1268,8 @@ are you fostering grief in your heart?"
 
 <details><summary>मूलम्</summary>
 
-नार्हा त्वं शोचितुं देवि यस्यास्ते राघवः सुतः ।  
-नहि रामात् परो लोके विद्यते सत्पथे स्थितः ॥ २६ ॥
+[^non-baroDa-CE] नार्हा त्वं शोचितुं देवि यस्यास्ते राघवः सुतः ।  
+[^non-baroDa-CE] नहि रामात् परो लोके विद्यते सत्पथे स्थितः ॥ २६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1434,10 +1434,10 @@ with his gentle but muscular hands "
 
 <details><summary>मूलम्</summary>
 
-अभिवाद्य नमस्यन्तं शूरं ससुहृदं सुतम् ।  
-मुदास्रैः प्रोक्षसे पुत्रं मेघराजिरिवाचलम् ॥ २९ ॥
+[^non-baroDa-CE] अभिवाद्य नमस्यन्तं शूरं ससुहृदं सुतम् ।  
+[^non-baroDa-CE] मुदास्रैः प्रोक्षसे पुत्रं मेघराजिरिवाचलम् ॥ २९ ॥
 _________________
-अभिवाद्य नमस्यन्तं शूरं ससुहृदं सुतम् ।  
+[^non-baroDa-CE] अभिवाद्य नमस्यन्तं शूरं ससुहृदं सुतम् ।  
 मुदास्त्रैः प्रोक्ष्यसे पुत्रं मेघराजिरिवाचलम् ॥
 </details>
 
@@ -1492,10 +1492,10 @@ you will sprinkle tears of joy in the same way as a line of clouds pour rain on 
 
 <details><summary>मूलम्</summary>
 
-आश्वासयन्ती विविधैश्च वाक्यै-  
-र्वाक्योपचारे कुशलानवद्या ।  
-रामस्य तां मातरमेवमुक्त्वा  
-देवी सुमित्रा विरराम रामा ॥ ३० ॥
+[^non-baroDa-CE] आश्वासयन्ती विविधैश्च वाक्यै-  
+[^non-baroDa-CE] र्वाक्योपचारे कुशलानवद्या ।  
+[^non-baroDa-CE] रामस्य तां मातरमेवमुक्त्वा  
+[^non-baroDa-CE] देवी सुमित्रा विरराम रामा ॥ ३० ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1611,3 +1611,4 @@ Upon hearing those words of Lakṣmaṇa’s mother (_niśamya tat lakṣmaṇa-
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

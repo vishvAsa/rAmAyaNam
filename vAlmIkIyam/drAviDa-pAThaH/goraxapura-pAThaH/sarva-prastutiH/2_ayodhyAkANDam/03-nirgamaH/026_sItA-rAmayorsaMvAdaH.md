@@ -346,8 +346,8 @@ Unable to conceal his inward sorrow on beholding Sītā, Rāma stands pale and p
 
 <details><summary>मूलम्</summary>
 
-तां दृष्ट्वा स हि धर्मात्मा न शशाक मनोगतम् ।  
-तं शोकं राघवः सोढुं ततो विवृततां गतः ॥ ७ ॥
+[^non-baroDa-CE] तां दृष्ट्वा स हि धर्मात्मा न शशाक मनोगतम् ।  
+[^non-baroDa-CE] तं शोकं राघवः सोढुं ततो विवृततां गतः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1531,8 +1531,8 @@ On व्यलीकम्, **Rāma Varmā** (_Tilaka_) glosses “making false
 
 <details><summary>मूलम्</summary>
 
-तस्मै दत्तं नृपतिना यौवराज्यं सनातनम् ।  
-स प्रसाद्यस्त्वया सीते नृपतिश्च विशेषतः ॥ २७ ॥
+[^non-baroDa-CE] तस्मै दत्तं नृपतिना यौवराज्यं सनातनम् ।  
+[^non-baroDa-CE] स प्रसाद्यस्त्वया सीते नृपतिश्च विशेषतः ॥ २७ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -2074,8 +2074,8 @@ people if they are fitting
 
 <details><summary>मूलम्</summary>
 
-सा त्वं वसेह कल्याणि राज्ञः समनुवर्तिनी ।  
-भरतस्य रता धर्मे सत्यव्रतपरायणा ॥ ३७ ॥
+[^non-baroDa-CE] सा त्वं वसेह कल्याणि राज्ञः समनुवर्तिनी ।  
+[^non-baroDa-CE] भरतस्य रता धर्मे सत्यव्रतपरायणा ॥ ३७ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2186,3 +2186,4 @@ doing harm to any one as it is .Listen to my words
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

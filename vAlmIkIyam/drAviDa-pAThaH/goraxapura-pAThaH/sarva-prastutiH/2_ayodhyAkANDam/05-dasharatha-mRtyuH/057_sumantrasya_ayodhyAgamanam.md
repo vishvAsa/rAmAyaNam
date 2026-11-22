@@ -421,7 +421,7 @@ burnt away by a fire of sorrow and blazing grief towards Rama.
 <details><summary>मूलम्</summary>
 
 इति चिन्तापरः सूतो वाजिभिः शीघ्रयायिभिः ।  
-नगरद्वारमासाद्य त्वरितः प्रविवेश ह ॥ ८ ॥
+[^non-baroDa-CE] नगरद्वारमासाद्य त्वरितः प्रविवेश ह ॥ ८ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1840,3 +1840,4 @@ Then, hearing that great cry risen from the inner apartment (_tam antaḥpura-n�
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -319,7 +319,7 @@ Declaring that Kubera himself commanded it to bear Rāma across the worlds, Pu�
 <details><summary>मूलम्</summary>
 
 अधृष्यः सर्वभूतानां सर्वेषां धनदाज्ञया ।  
-चराम्यहं प्रभावेण तवाज्ञां परिपालयन् ॥ १० ॥
+[^non-baroDa-CE] चराम्यहं प्रभावेण तवाज्ञां परिपालयन् ॥ १० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -349,8 +349,8 @@ Declaring that Kubera himself commanded it to bear Rāma across the worlds, Pu�
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तदा रामः पुष्पकेण महाबलः ।  
-उवाच पुष्पकं दृष्ट्वा विमानं पुनरागतम् ॥ ११ ॥
+[^non-baroDa-CE] एवमुक्तस्तदा रामः पुष्पकेण महाबलः ।  
+[^non-baroDa-CE] उवाच पुष्पकं दृष्ट्वा विमानं पुनरागतम् ॥ ११ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -380,10 +380,10 @@ Addressed thus by Puṣpaka, the mighty Rāma gazed upon the aerial car (_vimān
 
 <details><summary>मूलम्</summary>
 
-यद्येवं स्वागतं तेऽस्तु विमानवर पुष्पक ।  
-आनुकूल्याद् धनेशस्य वृत्तदोषो न नो भवेत् ॥ १२ ॥
+[^non-baroDa-CE] यद्येवं स्वागतं तेऽस्तु विमानवर पुष्पक ।  
+[^non-baroDa-CE] आनुकूल्याद् धनेशस्य वृत्तदोषो न नो भवेत् ॥ १२ ॥
 _________________
-यद्येवंस्वागतं तेऽस्तु विमानवर पुष्पक ।  
+[^non-baroDa-CE] यद्येवंस्वागतं तेऽस्तु विमानवर पुष्पक ।  
 अनुकूल्याद्धनेशस्य वृत्तदोषो न नोभवेत् ॥
 </details>
 
@@ -423,7 +423,7 @@ Honoring Puṣpaka with parched grain, flowers, and fragrant incense, Rāma bids
 <details><summary>मूलम्</summary>
 
 लाजैश्चैव तथा पुष्पैर्धूपैश्चैव सुगन्धिभिः ।  
-पूजयित्वा महाबाहू राघवः पुष्पकं तदा ॥ १३ ॥
+[^non-baroDa-CE] पूजयित्वा महाबाहू राघवः पुष्पकं तदा ॥ १३ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -454,13 +454,13 @@ Then the mighty-armed Rāghava honored Puṣpaka (_pūjayitvā ... puṣpakam_) 
 
 <details><summary>मूलम्</summary>
 
-गम्यतामिति चोवाच आगच्छ त्वं स्मरे यदा ।  
-सिद्धानां च गतौ सौम्य मा विषादेन योजय ॥ १४ ॥  
-प्रतिघातश्च ते मा भूद् यथेष्टं गच्छतो दिशः ।
+[^non-baroDa-CE] गम्यतामिति चोवाच आगच्छ त्वं स्मरे यदा ।  
+[^non-baroDa-CE] सिद्धानां च गतौ सौम्य मा विषादेन योजय ॥ १४ ॥  
+[^non-baroDa-CE] प्रतिघातश्च ते मा भूद् यथेष्टं गच्छतो दिशः ।
 _________________
 गन्तव्यमिति चोवाच आगच्छ त्वं स्मरे यदा ।  
-सिद्धानां च गतौ सौम्य मा विषादेन योजय ॥  
-प्रतिघातश्च ते मा भूद्यथेष्टं गच्छतो दिशः ।
+[^non-baroDa-CE] सिद्धानां च गतौ सौम्य मा विषादेन योजय ॥  
+[^non-baroDa-CE] प्रतिघातश्च ते मा भूद्यथेष्टं गच्छतो दिशः ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -490,7 +490,7 @@ And spoke to it: “Go now (_gamyatām_), and return whenever I call you to mind
 
 <details><summary>मूलम्</summary>
 
-एवमस्त्विति रामेण पूजयित्वा विसर्जितम् ॥ १५ ॥  
+[^non-baroDa-CE] एवमस्त्विति रामेण पूजयित्वा विसर्जितम् ॥ १५ ॥  
 अभिप्रेतां दिशं तस्मात् प्रायात् तत् पुष्पकं तदा ।
 </details>
 
@@ -627,7 +627,7 @@ Bharata celebrates the blessings of Rāma’s golden reign—freedom from sickne
 <details><summary>मूलम्</summary>
 
 हर्षश्चाभ्यधिको राजञ्जनस्य पुरवासिनः ।  
-काले वर्षति पर्जन्यः पातयन्नमृतं पयः ॥ २० ॥
+[^non-baroDa-CE] काले वर्षति पर्जन्यः पातयन्नमृतं पयः ॥ २० ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -658,11 +658,11 @@ Bharata celebrates the blessings of Rāma’s golden reign—freedom from sickne
 
 <details><summary>मूलम्</summary>
 
-वाताश्चापि प्रवान्त्येते स्पर्शयुक्ताः सुखाः शिवाः ।  
+[^non-baroDa-CE] वाताश्चापि प्रवान्त्येते स्पर्शयुक्ताः सुखाः शिवाः ।  
 ईदृशो नश्चिरं राजा भवेदिति नरेश्वरः ॥ २१ ॥  
 कथयन्ति पुरे राजन् पौरजानपदास्तथा ।
 _________________
-वाताश्चापि प्रवान्त्येते स्पर्शयुक्ताः सुखाः शिवाः ।  
+[^non-baroDa-CE] वाताश्चापि प्रवान्त्येते स्पर्शयुक्ताः सुखाः शिवाः ।  
 ईदृशो नश्चिरं राजा भवेदिति नरेश्वर ॥  
 कथयन्ति पुरे राजन् पौरजानपदास्तथा ।
 </details>
@@ -725,3 +725,5 @@ _________________
 Hearing these exceedingly sweet words spoken by Bharata (_etā vācaḥ sumadhurā bharatena samīritāḥ_), Rāma, foremost of kings (_nṛpasattamaḥ_), was filled with supreme gladness (_mudā yukto babhūva_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

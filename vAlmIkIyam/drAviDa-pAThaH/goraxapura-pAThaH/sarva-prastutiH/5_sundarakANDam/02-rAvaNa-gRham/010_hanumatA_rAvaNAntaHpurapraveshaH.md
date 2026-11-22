@@ -70,7 +70,7 @@ Looking around there (_tatra avekṣamāṇaḥ_), Hanumān beheld a pre-eminent
 <details><summary>मूलम्</summary>
 
 दान्तकाञ्चनचित्राङ्गैर्वैदूर्यैश्च वरासनैः ।  
-महार्हास्तरणोपेतैरुपपन्नं महाधनैः ॥ २ ॥
+[^non-baroDa-CE] महार्हास्तरणोपेतैरुपपन्नं महाधनैः ॥ २ ॥
 _________________
 दान्तकाञ्चनचित्राङ्गैः वैडूर्यैश्च वरासनैः ।  
 महार्हास्तरणोपेतैः उपपन्नं महाधनैः ॥
@@ -176,11 +176,11 @@ And at one end of it (_tasya caikatame deśe_), he beheld a white canopy (_dadar
 
 <details><summary>मूलम्</summary>
 
-जातरूपपरिक्षिप्तं चित्रभानोः समप्रभम् ।  
-अशोकमालाविततं ददर्श परमासनम् ॥ ४ ॥
+[^non-baroDa-CE] जातरूपपरिक्षिप्तं चित्रभानोः समप्रभम् ।  
+[^non-baroDa-CE] अशोकमालाविततं ददर्श परमासनम् ॥ ४ ॥
 _________________
 जातरूपपरिक्षिप्तं चित्रभानुसमप्रभम् ।  
-अशोकमालाविततं ददर्श परमासनम् ॥
+[^non-baroDa-CE] अशोकमालाविततं ददर्श परमासनम् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1833,7 +1833,7 @@ A fair-bosomed woman of lovely limbs (_cārusarvāṅgī śubhastanī_) slept pr
 <details><summary>मूलम्</summary>
 
 काचिद् वीणां परिष्वज्य सुप्ता कमललोचना ।  
-वरं प्रियतमं गृह्य सकामेव हि कामिनी ॥ ४० ॥
+[^non-baroDa-CE] वरं प्रियतमं गृह्य सकामेव हि कामिनी ॥ ४० ॥
 _________________
 काचिद्वंशं परिष्वज्य सुप्ता कमललोचना ।  
 रहः प्रियतमं गृह्य सकामेव च कामिनी ॥
@@ -1886,7 +1886,7 @@ One lotus-eyed woman (_kācit kamalalocanā_) slept embracing her _vīṇā_ [or
 
 <details><summary>मूलम्</summary>
 
-विपञ्चीं परिगृह्यान्या नियता नृत्यशालिनी ।  
+[^non-baroDa-CE] विपञ्चीं परिगृह्यान्या नियता नृत्यशालिनी ।  
 निद्रावशमनुप्राप्ता सहकान्तेव भामिनी ॥ ४१ ॥
 _________________
 विपञ्चीं परिगृह्यान्या नियता नृत्तशालिनी ।  
@@ -2632,3 +2632,5 @@ simian nature, climbed pillars and fell down on land.
 He slapped his arms (_āsphoṭayāmāsa_), kissed his tail (_cucumba puccham_), rejoiced, gambolled, sang, and paced about (_nananda cikrīḍa jagau jagāma_); he climbed the pillars and leaped down to the ground (_stambhān arohan nipapāta bhūmau_), displaying his own innate monkey nature (_nidarśayan svāṃ prakṛtiṃ kapīnām_).
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

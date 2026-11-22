@@ -1184,7 +1184,7 @@ Bharata denounces Kaikeyī as wrathful, vain, ignoble, and the root of his calam
 
 यस्याः कृते नरव्याघ्रौ जीवनाशमितो गतौ ।  
 राजा पुत्रविहीनश्च स्वर्गं दशरथो गतः ॥ २५ ॥  
-क्रोधनामकृतप्रज्ञां दृप्तां सुभगमानिनीम् ।  
+[^non-baroDa-CE] क्रोधनामकृतप्रज्ञां दृप्तां सुभगमानिनीम् ।  
 ऐश्वर्यकामां कैकेयीमनार्यामार्यरूपिणीम् ॥ २६ ॥  
 ममैतां मातरं विद्धि नृशंसां पापनिश्चयाम् ।  
 यतोमूलं हि पश्यामि व्यसनं महदात्मनः ॥ २७ ॥
@@ -1421,8 +1421,8 @@ demons and the sages whose souls are purified by meditating on the Universal Spi
 
 <details><summary>मूलम्</summary>
 
-देवानां दानवानां च ऋषीणां भावितात्मनाम् ।  
-हितमेव भविष्यद्धि रामप्रव्राजनादिह ॥ ३१ ॥
+[^non-baroDa-CE] देवानां दानवानां च ऋषीणां भावितात्मनाम् ।  
+[^non-baroDa-CE] हितमेव भविष्यद्धि रामप्रव्राजनादिह ॥ ३१ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1918,3 +1918,5 @@ With its joyous elephants, steeds, and warriors, startling the flocks of deer an
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तॆरडनॆय सर्ग पूर्णवायितु.॥92॥
 </details>
 </details>
+
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

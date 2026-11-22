@@ -348,8 +348,8 @@ Thereupon Dvivida of great splendour (_mahātejāḥ_) replied (_pratyabhāṣat
 
 <details><summary>मूलम्</summary>
 
-सुषेणस्तु महातेजाः सत्त्ववान् कपिसत्तमः ।  
-अशीतिं प्रतिजानेऽहं योजनानां पराक्रमे ॥ ९ ॥
+[^non-baroDa-CE] सुषेणस्तु महातेजाः सत्त्ववान् कपिसत्तमः ।  
+[^non-baroDa-CE] अशीतिं प्रतिजानेऽहं योजनानां पराक्रमे ॥ ९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -720,7 +720,7 @@ soldier of misfortune, though my energy in youth was unmatchable and unsurpassab
 
 <details><summary>मूलम्</summary>
 
-सम्प्रत्येतावदेवाद्य शक्यं मे गमने स्वतः ।  
+[^non-baroDa-CE] सम्प्रत्येतावदेवाद्य शक्यं मे गमने स्वतः ।  
 नैतावता च संसिद्धिः कार्यस्यास्य भविष्यति ॥ १७ ॥
 </details>
 
@@ -1794,3 +1794,4 @@ Then that foremost hero among monkeys [Jāmbavān] roused (_saṃcodayāmāsa_) 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

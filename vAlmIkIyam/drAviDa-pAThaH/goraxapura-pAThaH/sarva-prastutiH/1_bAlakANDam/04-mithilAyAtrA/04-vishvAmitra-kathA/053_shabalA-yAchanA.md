@@ -1093,8 +1093,8 @@ Though Viśvāmitra offers unlimited gold and jewels, Vasiṣṭha replies that 
 
 <details><summary>मूलम्</summary>
 
-यावदिच्छसि रत्नानि हिरण्यं वा द्विजोत्तम ।  
-तावद् ददामि ते सर्वं दीयतां शबला मम ॥ २१ ॥
+[^non-baroDa-CE] यावदिच्छसि रत्नानि हिरण्यं वा द्विजोत्तम ।  
+[^non-baroDa-CE] तावद् ददामि ते सर्वं दीयतां शबला मम ॥ २१ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1366,3 +1366,4 @@ Shataananda continued his narration of the legend of Sacred Cow. [1-53-25]
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

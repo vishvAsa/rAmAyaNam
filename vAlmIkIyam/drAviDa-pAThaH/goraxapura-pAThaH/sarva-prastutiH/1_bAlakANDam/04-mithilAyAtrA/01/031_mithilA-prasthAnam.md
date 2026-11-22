@@ -805,10 +805,10 @@ to eliminate enemies.'
 
 <details><summary>मूलम्</summary>
 
-आयागभूतं नृपतेस्तस्य वेश्मनि राघव ।  
-अर्चितं विविधैर्गन्धैर्धूपैश्चागुरुगन्धिभिः ॥ १३ ॥
+[^non-baroDa-CE] आयागभूतं नृपतेस्तस्य वेश्मनि राघव ।  
+[^non-baroDa-CE] अर्चितं विविधैर्गन्धैर्धूपैश्चागुरुगन्धिभिः ॥ १३ ॥
 _________________
-आयागभूतं नृपतेस्तस्य वेश्मनि राघव ।  
+[^non-baroDa-CE] आयागभूतं नृपतेस्तस्य वेश्मनि राघव ।  
 अर्चितं विविधैर्गन्धैर्धूपैश्चारुगन्धिभिः ॥
 </details>
 
@@ -1000,7 +1000,7 @@ Followed by a hundred wagons bearing sacrificial implements and even the birds a
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा मुनिशार्दूलः कौशिकः स तपोधनः ।  
+[^non-baroDa-CE] इत्युक्त्वा मुनिशार्दूलः कौशिकः स तपोधनः ।  
 उत्तरां दिशमुद्दिश्य प्रस्थातुमुपचक्रमे ॥ १६ ॥
 </details>
 
@@ -1191,7 +1191,7 @@ Out of deep devotion to Viśvāmitra (_tadbhaktyā_, **Govindarāja**), even the
 
 <details><summary>मूलम्</summary>
 
-निवर्तयामास ततः सर्षिसङ्घः स पक्षिणः ।  
+[^non-baroDa-CE] निवर्तयामास ततः सर्षिसङ्घः स पक्षिणः ।  
 ते गत्वा दूरमध्वानं लम्बमाने दिवाकरे ॥ १९ ॥  
 वासं चक्रुर्मुनिगणाः शोणाकूले समाहिताः ।  
 तेऽस्तं गते दिनकरे स्नात्वा हुतहुताशनाः ॥ २० ॥
@@ -1524,3 +1524,4 @@ Prompted by Rāma’s question, Viśvāmitra prepares to recount in the midst of
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

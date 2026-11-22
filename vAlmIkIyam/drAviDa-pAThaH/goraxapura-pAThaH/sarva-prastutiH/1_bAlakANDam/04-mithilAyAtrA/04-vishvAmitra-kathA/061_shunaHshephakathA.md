@@ -909,9 +909,9 @@ Both **Tilaka** and **Govindarāja** gloss _kathaṃcana_ as ‘even for a vast 
 
 <details><summary>मूलम्</summary>
 
-अविक्रेयं सुतं ज्येष्ठं भगवानाह भार्गवः ॥ १७ ॥  
+[^non-baroDa-CE] अविक्रेयं सुतं ज्येष्ठं भगवानाह भार्गवः ॥ १७ ॥  
 ममापि दयितं विद्धि कनिष्ठं शुनकं प्रभो ।  
-तस्मात् कनीयसं पुत्रं न दास्ये तव पार्थिव ॥ १८ ॥
+[^non-baroDa-CE] तस्मात् कनीयसं पुत्रं न दास्ये तव पार्थिव ॥ १८ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1164,8 +1164,8 @@ you may lead me forth. [1-61-21]
 
 <details><summary>मूलम्</summary>
 
-अथ राजा महाबाहो वाक्यान्ते ब्रह्मवादिनः ।  
-हिरण्यस्य सुवर्णस्य कोटिभी रत्नराशिभिः ॥ २२ ॥  
+[^non-baroDa-CE] अथ राजा महाबाहो वाक्यान्ते ब्रह्मवादिनः ।  
+[^non-baroDa-CE] हिरण्यस्य सुवर्णस्य कोटिभी रत्नराशिभिः ॥ २२ ॥  
 गवां शतसहस्रेण शुनःशेपं नरेश्वरः ।  
 गृहीत्वा परमप्रीतो जगाम रघुनन्दन ॥ २३ ॥
 </details>
@@ -1285,3 +1285,4 @@ Mounting Śunaḥśepa upon his chariot in haste (_ratham āropya satvaraḥ śu
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

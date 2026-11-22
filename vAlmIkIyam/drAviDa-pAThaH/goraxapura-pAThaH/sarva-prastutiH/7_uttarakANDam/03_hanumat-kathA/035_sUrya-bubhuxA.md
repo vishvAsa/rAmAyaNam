@@ -1787,8 +1787,8 @@ Withdrawing his cosmic flow and carrying his wounded child into a cave, Vāyu bl
 
 <details><summary>मूलम्</summary>
 
-प्रचारं स तु सङ्गृह्य प्रजास्वन्तर्गतः प्रभुः ।  
-गुहां प्रविष्टः स्वसुतं शिशुमादाय मारुतः ॥ ४९ ॥
+[^non-baroDa-CE] प्रचारं स तु सङ्गृह्य प्रजास्वन्तर्गतः प्रभुः ।  
+[^non-baroDa-CE] गुहां प्रविष्टः स्वसुतं शिशुमादाय मारुतः ॥ ४९ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2330,3 +2330,4 @@ _________________
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

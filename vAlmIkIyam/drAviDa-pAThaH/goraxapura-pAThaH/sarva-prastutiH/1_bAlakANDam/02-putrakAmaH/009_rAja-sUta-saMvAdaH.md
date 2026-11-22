@@ -39,7 +39,7 @@ Speaking in private, the counselor-charioteer Sumantra recounts to King Daśarat
 <details><summary>मूलम्</summary>
 
 एतच्छ्रुत्वा रहः सूतो राजानमिदमब्रवीत् ।  
-श्रूयतां तत् पुरावृत्तं पुराणे च मया श्रुतम् ॥ १ ॥
+[^non-baroDa-CE] श्रूयतां तत् पुरावृत्तं पुराणे च मया श्रुतम् ॥ १ ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -545,7 +545,7 @@ The Brāhmaṇas advise King Romapāda to bring Vibhāṇḍaka’s Veda-masteri
 
 <details><summary>मूलम्</summary>
 
-इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमाः ॥ ११ ॥  
+[^non-baroDa-CE] इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमाः ॥ ११ ॥  
 वक्ष्यन्ति ते महीपालं ब्राह्मणा वेदपारगाः ।
 </details>
 
@@ -580,7 +580,7 @@ The Brāhmaṇas advise King Romapāda to bring Vibhāṇḍaka’s Veda-masteri
 
 विभाण्डकसुतं राजन् सर्वोपायैरिहानय ॥ १२ ॥  
 आनाय्य तु महीपाल ऋष्यशृङ्गं सुसत्कृतम् ।  
-विभाण्डकसुतं राजन् ब्राह्मणं वेदपारगम् ।  
+[^non-baroDa-CE] विभाण्डकसुतं राजन् ब्राह्मणं वेदपारगम् ।  
 प्रयच्छ कन्यां शान्तां वै विधिना सुसमाहितः ॥ १३ ॥
 </details>
 
@@ -1016,3 +1016,4 @@ Thereupon Daśaratha, filled with joy, replied to Sumantra: `Tell me in full by 
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.

@@ -312,7 +312,7 @@ but oh, Soumitri, I regained all this just by the beneficence of Rama. [4-36-5]
 <details><summary>मूलम्</summary>
 
 कः शक्तस्तस्य देवस्य ख्यातस्य स्वेन कर्मणा ।  
-तादृशं प्रतिकुर्वीत अंशेनापि नृपात्मज ॥ ६ ॥
+[^non-baroDa-CE] तादृशं प्रतिकुर्वीत अंशेनापि नृपात्मज ॥ ६ ॥
 </details>
 
 <details><summary>मूलम् - VR</summary>
@@ -1183,3 +1183,4 @@ but to embolden Rama saying that there is a real adherent in Sugreeva.
 </details>
 </details>
 
+[^non-baroDa-CE]: Not in Baroda Critical Edition.
